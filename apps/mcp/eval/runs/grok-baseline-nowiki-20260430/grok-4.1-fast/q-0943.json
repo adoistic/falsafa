@@ -1,0 +1,206 @@
+{
+  "answer": "In Johann Gottlieb Fichte's *Zurückforderung der Denkfreiheit von den Fürsten Europens* (1793), the German term *Volk* (or plural *Völker*) appears several times in the original text, most prominently as a direct address to the addressee(s)—the \"peoples\" subject to Europe's princes—urging collective resistance to the suppression of freedom of thought (*Denkfreiheit*).[^1] [^2] It is translated in the English version as \"peoples\" or \"people,\" without strong connotations of ethnic *nation* (as in Fichte's later nationalist phase, e.g., *Reden an die deutsche Nation*). Instead, *Volk* functions here in a broadly republican-enlightenment sense: the mass of rights-bearing individuals who, via the social contract, have delegated executive power (*ausübende Gewalt*) to princes but retain inalienable rights, especially to free thought and communication.[^3] [^4]\n\nThe pamphlet is framed as a speech \"reclaiming\" (*zurückforderung*) freedom of thought *from* (*von*) princes (*Fürsten*), who are accused of abusing delegated authority to suppress enlightenment. The *Volk* enters not as a passive object but as an active moral force: Fichte rallies \"you peoples\" (*ihr Völker*) to prioritize *Denkfreiheit* above all sacrifices (wars, taxes, etc.), warning that cowardice risks future generations' vengeance and regression to \"spiritual despotism.\"[^1] Princes are critiqued as often ignorant or manipulated (*Satelliten des Despotismus*), with the *Volk* positioned as wiser and stronger in aggregate, capable of revolutions if enlightenment is blocked.[^5]\n\nLater, *Volk* recurs in critiques of princely manipulation: princes allegedly keep their \"people\" (*Volk*, *Völker*) in intellectual darkness to maintain control, fostering blind habituation to state-sanctioned \"truths\" rather than genuine conviction.[^6] [^7] True advisors urge princes to enlighten \"your peoples\" (*eure Völker*), as light would affirm (not undermine) legitimate rule.[^8] The *Volk* thus embodies humanity's progressive destiny, contrasting princely \"barbarism\" and error-prone \"world-government\" ambitions.[^9]\n\nThe corpus does not exhaustively index every *Volk* instance (English searches yield fewer hits due to translation variance), but it is integral: without invoking the *Volk*, the pamphlet's contractarian demand for princes to protect (not infringe) rights lacks force.\n\n[^1]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01-preface/original/#p-028daa).\n\n[^2]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01-preface/translation/#p-20dba4).\n\n[^3]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, ch. 2, [full chapter](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02-speech/translation/).\n\n[^4]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02-speech/original/#p-04aa90).\n\n[^5]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, ch. 1, [full chapter](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01-preface/translation/).\n\n[^6]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02-speech/original/#p-9c779f).\n\n[^7]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02-speech/translation/#p-28e050).\n\n[^8]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02-speech/original/#p-65248c).\n\n[^9]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02-speech/original/#p-5cf219).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "fichte"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Volk\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "people nation princes"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "Listed 2 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "{\"slug\":\"johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde\",\"title\":\"Zurückforderung der Denkfreiheit von den Fürsten Europens\",\"author\":\"Johann Gottlieb Fichte\",\"author_slug\":\"johann-got"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.1 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.2 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-028daa"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "peoples princes"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"you peoples\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-028daa"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-20dba4"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-04aa90"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-9c779f"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-28e050"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-65248c"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-5cf219"
+    }
+  ],
+  "duration_ms": 43416,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 59179,
+    "completion_tokens": 4574,
+    "total_tokens": 63753,
+    "cached_tokens": 23471,
+    "api_calls": 4,
+    "cost_usd": 0.010602150000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1572,
+        "completion_tokens": 441,
+        "total_tokens": 2013,
+        "cached_tokens": 149,
+        "cost_usd": 0.00051255
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1817,
+        "completion_tokens": 703,
+        "total_tokens": 2520,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0004854
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 19985,
+        "completion_tokens": 1567,
+        "total_tokens": 21552,
+        "cached_tokens": 1812,
+        "cost_usd": 0.0045087
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 35805,
+        "completion_tokens": 1863,
+        "total_tokens": 37668,
+        "cached_tokens": 19980,
+        "cost_usd": 0.0050955
+      }
+    ]
+  }
+}

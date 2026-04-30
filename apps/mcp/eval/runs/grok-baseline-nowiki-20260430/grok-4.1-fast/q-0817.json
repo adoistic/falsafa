@@ -1,0 +1,147 @@
+{
+  "answer": "**The precise opening verse (matla, or first couplet) of Chapter 1 of *Diwan-e-Ghalib* (\"Aa ke meri jaan ko qarar nahin hai\") is:**\n\nآ کہ مری جان کو قرار نہیں ہے  \nطاقتِ بیدادِ انتظار نہیں ہے[^1]\n\nThis is the first sher (couplet) of the ghazal, as presented in the original Urdu (Arabic script) variant.[^1]\n\n**Transliteration:**  \nAa ke meri jaan ko qarar nahin hai  \nTaaqat-e-bidaad-e-intezar nahin hai[^2]\n\n**English translation:**  \nMy soul is free from comfort, free from care,  \nThe strength to face this wait of deep despair is not there.[^3]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, Chapter 1, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/01-aa-ke-meri-jaan-ko-qarar-nahin-hai/original/#p-8d955a).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, Chapter 1, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/01-aa-ke-meri-jaan-ko-qarar-nahin-hai/transliteration/#p-8d955a).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, Chapter 1, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/01-aa-ke-meri-jaan-ko-qarar-nahin-hai/translation/#p-8c8b08).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.1 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-8d955a"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 1,
+      "paragraph_id": "p-8d955a"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 1,
+      "paragraph_id": "p-8c8b08"
+    }
+  ],
+  "duration_ms": 25559,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 49841,
+    "completion_tokens": 3010,
+    "total_tokens": 52851,
+    "cached_tokens": 25537,
+    "api_calls": 4,
+    "cost_usd": 0.007642649999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1551,
+        "completion_tokens": 590,
+        "total_tokens": 2141,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005827
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2400,
+        "completion_tokens": 638,
+        "total_tokens": 3038,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007765
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 22847,
+        "completion_tokens": 688,
+        "total_tokens": 23535,
+        "cached_tokens": 2395,
+        "cost_usd": 0.00455415
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 23043,
+        "completion_tokens": 1094,
+        "total_tokens": 24137,
+        "cached_tokens": 22842,
+        "cost_usd": 0.0017293
+      }
+    ]
+  }
+}

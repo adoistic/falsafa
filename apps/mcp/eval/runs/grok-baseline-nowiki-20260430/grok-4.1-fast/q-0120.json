@@ -1,0 +1,154 @@
+{
+  "answer": "**The poem \"Vainglory\" (chapter 12 of *Old English Elegies*) opens by describing a prophetic teaching on how to distinguish two kinds of men: \"God's own child, a welcome guest,\" from \"the weaker one also, burdened by sin.\"**[^1]\n\nThis contrast plays out in a classic Anglo-Saxon mead-hall scene (\"wine-halls,\" \"symbel,\" \"hall,\" \"feast\"), where warriors gather, drink, boast, and reveal their inner natures: \"Clamor rises, shouting in the troop... So are their spirits variously divided; the retainers are unalike.\" The vainglorious man (\"fiend's own child\") swells with pride, envy, and malice at the feast,[^2] while the humble man (\"God's own child\") lives in peace and earns heavenly reward.[^3]\n\nThe entire instructional passage functions as a moral \"riddle\" for identifying these types amid the revelry—no separate riddle poem exists within it.\n\n[^1]: *Old English Elegies*, \"Vainglory,\" [paragraph](/works/unknown-old-english-elegies-d5fe9e/12-vainglory/translation/#p-946b37).\n\n[^2]: *Old English Elegies*, \"Vainglory,\" [paragraph](/works/unknown-old-english-elegies-d5fe9e/12-vainglory/translation/#p-946b37).\n\n[^3]: *Old English Elegies*, \"Vainglory,\" [paragraph](/works/unknown-old-english-elegies-d5fe9e/12-vainglory/translation/#p-946b37).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vainglory"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mead-hall\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"two kinds\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "riddle mead hall"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mead hall\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-946b37"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-946b37"
+    }
+  ],
+  "duration_ms": 21069,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 15115,
+    "completion_tokens": 2721,
+    "total_tokens": 17836,
+    "cached_tokens": 8797,
+    "api_calls": 4,
+    "cost_usd": 0.00306395,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1557,
+        "completion_tokens": 482,
+        "total_tokens": 2039,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00032305
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2789,
+        "completion_tokens": 322,
+        "total_tokens": 3111,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00048915
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4213,
+        "completion_tokens": 807,
+        "total_tokens": 5020,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00101675
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6556,
+        "completion_tokens": 1110,
+        "total_tokens": 7666,
+        "cached_tokens": 4208,
+        "cost_usd": 0.001235
+      }
+    ]
+  }
+}

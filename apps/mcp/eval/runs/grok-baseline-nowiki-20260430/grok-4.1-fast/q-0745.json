@@ -1,0 +1,153 @@
+{
+  "answer": "**The third couplet (sher) of chapter 33 in Mirza Ghalib's *Diwan-E-Ghalib* reads:**\n\n> When beauty’s face, a sun at noon, inflames the gaze,  \n> And burns the sight itself, why hide in veils of haze?[^1]\n\nThis is from the English translation variant. In transliteration:  \n*jab woh jamaal-e-dilfaroz, soorat-e-mehr-e-neemroz,*  \n*aap hi ho nazaara-soz, parde mein munh chhupaaye kyun?*[^2]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, chapter 33, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/33-dil-hi-to-hai-na-sang-o-khisht-dard-se-bhar-na-aay/translation/#p-2775ab).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, chapter 33, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/33-dil-hi-to-hai-na-sang-o-khisht-dard-se-bhar-na-aay/transliteration/#p-2775ab).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Diwan-e-Ghalib"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Dil hi to hai na sang o khisht\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-Ghalib\",\"author\":\"Mirza Ghalib\",\"author_slug\":\"mirza-ghalib\",\"era\":\"19th Century\",\"era_slug\":\"19th-century\",\"genre\":\"Literature\",\"genre_sl"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 33,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.33 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 33,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.33 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 33,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.33 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 33,
+      "paragraph_id": "p-2775ab"
+    }
+  ],
+  "duration_ms": 21621,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 75279,
+    "completion_tokens": 2376,
+    "total_tokens": 77655,
+    "cached_tokens": 42614,
+    "api_calls": 4,
+    "cost_usd": 0.0098517,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1560,
+        "completion_tokens": 601,
+        "total_tokens": 2161,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038315
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7956,
+        "completion_tokens": 312,
+        "total_tokens": 8268,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00151785
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_chapters",
+          "get_metadata"
+        ],
+        "prompt_tokens": 31610,
+        "completion_tokens": 482,
+        "total_tokens": 32092,
+        "cached_tokens": 7951,
+        "cost_usd": 0.00537035
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 34153,
+        "completion_tokens": 981,
+        "total_tokens": 35134,
+        "cached_tokens": 31605,
+        "cost_usd": 0.00258035
+      }
+    ]
+  }
+}

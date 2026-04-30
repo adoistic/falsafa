@@ -1,0 +1,211 @@
+{
+  "answer": "In *Manusmṛti* Chapter 3, Manu first introduces the topic of the eight forms of marriage in verse 3.20.[^1] He then lists all eight forms explicitly **in order** in the very next verse (3.21): *Brāhma*, *Daiva*, *Ārṣa*, *Prājāpatya*, *Āsura*, *Gāndharva*, *Rākṣasa*, and *Paiśāca*.[^2] He proceeds to describe each of them in sequence across verses 3.27–3.34 (one verse per form, matching the order above).[^3]\n\n[^1]: [paragraph](/works/unknown-manusmrti-347b76/03/translation/#p-36d967/).\n\n[^2]: [paragraph](/works/unknown-manusmrti-347b76/03/translation/#p-b07c61/).\n\n[^3]: [paragraphs](/works/unknown-manusmrti-347b76/03/translation/#p-93ddb7/#p-7c3179/#p-831e2c/#p-c50f0a/#p-4b354a/#p-beb0f2/#p-2f28cf/#p-ca03b2/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eight forms of marriage",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahma\" Daiva Arsha",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti chapter 3 marriage",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-b07c61"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-93ddb7",
+          "p-7c3179",
+          "p-831e2c",
+          "p-c50f0a",
+          "p-4b354a",
+          "p-beb0f2",
+          "p-2f28cf",
+          "p-ca03b2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 8 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-36d967"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-36d967"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-b07c61"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-93ddb7"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-7c3179"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-831e2c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-c50f0a"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-4b354a"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-beb0f2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-2f28cf"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-ca03b2"
+    }
+  ],
+  "duration_ms": 30835,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 18158,
+    "completion_tokens": 3231,
+    "total_tokens": 21389,
+    "cached_tokens": 10543,
+    "api_calls": 4,
+    "cost_usd": 0.00366565,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 568,
+        "total_tokens": 2122,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00036545
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2219,
+        "completion_tokens": 316,
+        "total_tokens": 2535,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005793
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6655,
+        "completion_tokens": 1243,
+        "total_tokens": 7898,
+        "cached_tokens": 2214,
+        "cost_usd": 0.0016204
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 7730,
+        "completion_tokens": 1104,
+        "total_tokens": 8834,
+        "cached_tokens": 6650,
+        "cost_usd": 0.0011005
+      }
+    ]
+  }
+}

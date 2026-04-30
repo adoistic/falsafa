@@ -1,0 +1,118 @@
+{
+  "answer": "In Allama Iqbal's poem \"Kinaar-e-Ravi\" (\"At the Bank of the Ravi\") from *Bang-e-Dara Part 1*, the speaker stands at the Ravi riverbank during a silent evening, entering a contemplative and prayerful state amid the river's song-like flow.[^1] He reflects on the sacred transformation of the world in this moment, a disorienting sense of place amid twilight's beauty (likened to wine-stained skies and sown sunflowers), the distant minarets and ruined palace evoking time's tyranny and lost history, and—most centrally—a boat racing across the river as a metaphor for human life's ceaseless, eternal journey: appearing briefly in sight before vanishing into eternity, yet never perishing.[^2][^3]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 28 \"Kinaar-e-Ravi\" (translation), [para. p-70a0dc](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-70a0dc).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 28 \"Kinaar-e-Ravi\" (translation), [paras. p-7ee613 to p-6b8789](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-7ee613-p-6b8789).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 28 \"Kinaar-e-Ravi\" (translation), [paras. p-8c38f2 to p-1c94bb](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-8c38f2-p-1c94bb).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kinaar-e-Ravi"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"riverbank\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.28 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-70a0dc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-7ee613"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-6b8789"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-8c38f2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-1c94bb"
+    }
+  ],
+  "duration_ms": 20134,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 7675,
+    "completion_tokens": 1956,
+    "total_tokens": 9631,
+    "cached_tokens": 4363,
+    "api_calls": 3,
+    "cost_usd": 0.00185855,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 476,
+        "total_tokens": 2032,
+        "cached_tokens": 1533,
+        "cost_usd": 0.00031925
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2685,
+        "completion_tokens": 210,
+        "total_tokens": 2895,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006195
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 3434,
+        "completion_tokens": 1270,
+        "total_tokens": 4704,
+        "cached_tokens": 2680,
+        "cost_usd": 0.0009198
+      }
+    ]
+  }
+}

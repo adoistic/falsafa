@@ -1,0 +1,317 @@
+{
+  "answer": "In the Old English elegies, such as *The Wanderer*, *The Seafarer*, *The Wife's Lament*, and *Resignation*, *wraec* (often compounded as *wraecsith*, *wraeclastas*, or *wraecmaeg*) is rendered in translation as \"exile\" and denotes a state of profound isolation and wandering, typically involving literal separation from one's lord, kin, homeland, and the comforts of communal hall-life.[^1][^2][^3] This evokes the harsh realities of a peripatetic existence—treading frozen seas, enduring hunger and storms, and grieving lost joys—amid the collapse of social bonds central to Anglo-Saxon warrior culture.[^4]\n\nThe **social reading** emphasizes exile as a earthly calamity rooted in human loss: the death or departure of a \"gold-friend\" (lord), feuds, or wyrd (fate), leaving the speaker *anhaga* (lone-dweller) or *wineleas wraeca* (friendless exile), bound by unfulfilled oaths and deprived of *dryhtplegan* (lordly joys like feasting and treasure).[^5][^6] It is a condition of physical hardship and emotional desolation, where identity dissolves without retainers or hearth.[^7]\n\nThe **theological reading**, prominent in Christian-inflected passages, reinterprets exile as a metaphor for the soul's alienation from God due to sin, the wrath of the *Meotud* (Measurer/Ordainer), and the mutability of *middangeard* (middle-earth).[^8] Earthly attachments are \"loaned\" and fleeting; true stability lies in seeking heavenly grace, repentance, and eternal *dream* (joy), transforming suffering into a call for spiritual homecoming.[^9][^10] This overlays pagan fatalism with consolation, urging patience and faith over despair.[^11]\n\nThe corpus provides primary texts exemplifying these dimensions but no explicit secondary analysis contrasting the readings.\n\n[^1]: *Old English Elegies*, ch. 11 (*The Wanderer*), [p-9cca5e](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9cca5e).\n\n[^2]: *Old English Elegies*, ch. 5 (*The Seafarer*), [p-889339](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-889339).\n\n[^3]: *Old English Elegies*, ch. 3 (*The Wife's Lament*), [p-23cb49](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-23cb49).\n\n[^4]: *Old English Elegies*, ch. 11 (*The Wanderer*), [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^5]: *Old English Elegies*, ch. 3 (*The Wife's Lament*), [p-c1cc32](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-c1cc32).\n\n[^6]: *Old English Elegies*, ch. 5 (*The Seafarer*), [p-f52e2e](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-f52e2e).\n\n[^7]: *Old English Elegies*, ch. 11 (*The Wanderer*), [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^8]: *Old English Elegies*, ch. 9 (*Resignation*), [p-04f5b1](/works/unknown-old-english-elegies-d5fe9e/09-resignation/translation/#p-04f5b1).\n\n[^9]: *Old English Elegies*, ch. 5 (*The Seafarer*), [p-eff626](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-eff626).\n\n[^10]: *Old English Elegies*, ch. 11 (*The Wanderer*), [p-5bdc65](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-5bdc65).\n\n[^11]: *Old English Elegies*, ch. 9 (*Resignation*), [p-04f5b1](/works/unknown-old-english-elegies-d5fe9e/09-resignation/translation/#p-04f5b1).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wraec exile"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old english\" elegy wraec"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "exile",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wraec"
+      },
+      "result_summary": "Found 26 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old english elegies\" exile"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-2ecb4b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9cca5e",
+          "p-9462cc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-889339",
+          "p-f52e2e",
+          "p-eff626"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-23cb49",
+          "p-c1cc32"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-04f5b1"
+        ],
+        "paragraph_range": {
+          "start": 0,
+          "end": 2
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-5bdc65"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9cca5e"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-889339"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-23cb49"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-c1cc32"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-f52e2e"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-04f5b1"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-eff626"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-5bdc65"
+    }
+  ],
+  "duration_ms": 58062,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 49842,
+    "completion_tokens": 5302,
+    "total_tokens": 55144,
+    "cached_tokens": 12791,
+    "api_calls": 5,
+    "cost_usd": 0.01070075,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1564,
+        "completion_tokens": 446,
+        "total_tokens": 2010,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005133
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2503,
+        "completion_tokens": 530,
+        "total_tokens": 3033,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007431
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9848,
+        "completion_tokens": 1259,
+        "total_tokens": 11107,
+        "cached_tokens": 2498,
+        "cost_usd": 0.0022244
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 16003,
+        "completion_tokens": 1109,
+        "total_tokens": 17112,
+        "cached_tokens": 9843,
+        "cost_usd": 0.00227865
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 19924,
+        "completion_tokens": 1958,
+        "total_tokens": 21882,
+        "cached_tokens": 150,
+        "cost_usd": 0.0049413
+      }
+    ]
+  }
+}

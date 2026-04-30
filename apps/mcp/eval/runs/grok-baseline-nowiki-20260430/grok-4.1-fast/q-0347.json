@@ -1,0 +1,174 @@
+{
+  "answer": "**'Kali' (The Bud)** from *Bang-E-Dara Part 2*, Chapter 16, personifies the bud (*kali*) in its nascent stage, poised on the cusp of blooming at dawn.[^1] Its \"gold breast\" opens to \"sip on splendor in the tavern of morn,\" drawing life from the \"Sun's own goblet,\" evoking a dynamic, solar-infused vitality.[^2] The bud \"tears its breast apart\" before the sun in ecstatic anticipation, yearning for divine light to fill its core, ignite every atom, and reveal its inner truth—like a moth to flame, but rooted in botanical unfolding.[^3]\n\n**'Phool ka Tohfa Ata Hone Par' (On Receiving a Flower)** from *Bang-E-Dara Part 3*, Chapter 15, shifts to the mature flower (*phool*), plucked as a gift by a \"queen of graceful airs.\"[^4] Buds in the garden pray to transform into a bloom \"that shames the sun,\" aspiring to be selected; the chosen flower reaches \"communion’s height\" and \"perfection’s purest light\" through the \"sharp pain of severance.\"[^5] Contrastingly, the poet's untouched \"lotus\"—the \"single pride of the garden of my youth\"—withers unfulfilled, its petals failing to unfold without a lover's touch, awaiting a spring that never comes.[^6]\n\n### Botanical Comparison\nBoth poems employ floral motifs metaphorically for spiritual/ecstatic fulfillment, but diverge in lifecycle stages and transformative agents:\n\n| Aspect          | 'Kali' (Bud)                          | 'Phool ka Tohfa' (Flower)                  |\n|-----------------|---------------------------------------|--------------------------------------------|\n| **Stage**      | Pre-bloom bud: closed, anticipatory.[^1] | Mature bloom: plucked or stagnant.[^4]    |\n| **Environment**| Dawn garden/tavern of morn; solar rays as life-source.[^2] | Garden rivals; human/divine \"queen\" as selector.[^5] |\n| **Transformation** | Self-initiated opening/tearing to sun's light/fire; inward revelation.[^3] | External severance/plucking; perfection via pain or neglect.[^6] |\n| **Vital Force**| Sun/Splendor (external yet cosmic, animating from within).[^2][^3] | Lover's hand (personal, relational); unplucked lotus decays.[^6] |\n| **Outcome**    | Blissful exposure, soul-mirror glow.[^7] | Elevated union or cold stasis.[^5][^6]    |\n\nIqbal's \"botanies\" are poetic rather than scientific—no species details beyond generic bud/flower/lotus—but symbolize khudi (selfhood): the bud self-unfurls to light, while the flower seeks consummation through sacrifice or longing.\n\n[^1]: *Bang-E-Dara Part 2*, Ch. 16 (*Kali*), [translation/](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/16-kali/translation/#p-d0dbd0).\n\n[^2]: *Bang-E-Dara Part 2*, Ch. 16 (*Kali*), [translation/](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/16-kali/translation/#p-a8fce0).\n\n[^3]: *Bang-E-Dara Part 2*, Ch. 16 (*Kali*), [translation/](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/16-kali/translation/#p-99fffa).\n\n[^4]: *Bang-E-Dara Part 3*, Ch. 15 (*Phool ka tohfa ata hone par*), [translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/15-phool-ka-tohfa-ata-hone-par/translation/#p-10eae3).\n\n[^5]: *Bang-E-Dara Part 3*, Ch. 15 (*Phool ka tohfa ata hone par*), [translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/15-phool-ka-tohfa-ata-hone-par/translation/#p-10eae3).\n\n[^6]: *Bang-E-Dara Part 3*, Ch. 15 (*Phool ka tohfa ata hone par*), [translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/15-phool-ka-tohfa-ata-hone-par/translation/#p-10eae3).\n\n[^7]: *Bang-E-Dara Part 2*, Ch. 16 (*Kali*), [translation/](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/16-kali/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kali\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Phool ka Tohfa\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kali bud iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"flower\" gift iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 15,
+      "paragraph_id": "p-d0dbd0"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 15,
+      "paragraph_id": "p-a8fce0"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 15,
+      "paragraph_id": "p-99fffa"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 15,
+      "paragraph_id": "p-10eae3"
+    }
+  ],
+  "duration_ms": 29556,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 21722,
+    "completion_tokens": 3459,
+    "total_tokens": 25181,
+    "cached_tokens": 13597,
+    "api_calls": 4,
+    "cost_usd": 0.00403435,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1582,
+        "completion_tokens": 438,
+        "total_tokens": 2020,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0003056
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2139,
+        "completion_tokens": 502,
+        "total_tokens": 2641,
+        "cached_tokens": 1532,
+        "cost_usd": 0.000449
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8404,
+        "completion_tokens": 500,
+        "total_tokens": 8904,
+        "cached_tokens": 2134,
+        "cost_usd": 0.0016107
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 9597,
+        "completion_tokens": 2019,
+        "total_tokens": 11616,
+        "cached_tokens": 8399,
+        "cost_usd": 0.00166905
+      }
+    ]
+  }
+}

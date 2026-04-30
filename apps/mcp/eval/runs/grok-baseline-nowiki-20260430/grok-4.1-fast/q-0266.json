@@ -1,0 +1,208 @@
+{
+  "answer": "In *Shikwa* (\"The Complaint\"), Allama Iqbal employs a bold, direct rhetorical address to God, voicing a collective grievance (*shikwa*) on behalf of the Muslim ummah. The speaker positions itself as a faithful servant emboldened by divine favor to lament past glories contrasted with present decline, framing sorrow as an injustice warranting divine response: \"Forgive my tongue, but God, I have a grievance to declare.\"[^1] This move is dialogic and remonstrative, using second-person invocation (\"O God, now hear Your faithful servants’ plea\") to challenge God's apparent neglect, blending praise with accusation to provoke renewal.[^2]\n\nBy contrast, in *Falsafa-e-Gham* (\"The Philosophy of Sorrow\"), Iqbal shifts to an abstract, philosophical mode that universalizes and affirms grief as intrinsic to authentic existence, love, and spiritual awakening. Sorrow is not a grievance but a transformative force—\"a silent song of soul\" that polishes the heart, reveals secrets, and enables flight: \"For seeing eyes, a scar of Sorrow is the spirit's light.\"[^3] The rhetoric is meditative and declarative, eschewing direct address in favor of aphoristic generalizations (e.g., critiquing the sorrowless life as veiled from truth: \"The secret of all life is veiled and hidden far away\"), elevating *gham* from pain to existential necessity.[^4]\n\nThe core rhetorical difference lies in stance toward grief: *Shikwa* weaponizes it as communal protest against divine order to spur action, while *Falsafa-e-Gham* contemplates it as a metaphysical good, reinterpreting suffering philosophically to affirm human depth.[^5]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Shikwa\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-7932bc).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Shikwa\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-01026e).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Falsafa-e-Gham\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-141d8d).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Falsafa-e-Gham\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-e436cc).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Shikwa\" [chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/); \"Falsafa-e-Gham\" [chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Shikwa Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Falsafa-e-Gham\" OR \"philosophy of grief\" Iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-7932bc",
+          "p-01026e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-efdd0c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-141d8d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-1ba46d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-e436cc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-7932bc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-01026e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-141d8d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-e436cc"
+    }
+  ],
+  "duration_ms": 39182,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 37025,
+    "completion_tokens": 3813,
+    "total_tokens": 40838,
+    "cached_tokens": 20966,
+    "api_calls": 4,
+    "cost_usd": 0.0061665999999999995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1567,
+        "completion_tokens": 560,
+        "total_tokens": 2127,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005709
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 7224,
+        "completion_tokens": 552,
+        "total_tokens": 7776,
+        "cached_tokens": 150,
+        "cost_usd": 0.0016983
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 13452,
+        "completion_tokens": 1306,
+        "total_tokens": 14758,
+        "cached_tokens": 7219,
+        "cost_usd": 0.00226055
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 14782,
+        "completion_tokens": 1395,
+        "total_tokens": 16177,
+        "cached_tokens": 13447,
+        "cost_usd": 0.00163685
+      }
+    ]
+  }
+}

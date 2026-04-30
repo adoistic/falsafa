@@ -1,0 +1,306 @@
+{
+  "answer": "**I could not find any couplet by Mirza Ghalib in the Falsafa corpus that uses the specific images of \"the candle's tongue\" and \"the moth's prayer\" (or close equivalents like *shama ki zubaan* and *parwane ki dua*).**\n\nGhalib's *Diwan-e-Ghalib* (239 ghazals) frequently employs the moth (*parwana*) and candle/flame (*shama*/*aatish*) as classic metaphors for love's self-destructive passion.[^1][^2][^3][^4] For example:\n\n- \"Asad, consumed by waiting's restless, burning might, / A moth before the flame of sacred light was.\"[^5]\n- \"We shed our wings like moths consumed by fire.\"[^6]\n- \"The moth's own heart is spring itself, so practice flight again.\"[^7]\n- \"what love demands is a moth's wing to feed its own desire.\"[^8]\n\nHowever, extensive searches across English translations for phrases like \"candle's tongue,\" \"moth's prayer,\" \"tongue\" near candle/flame, or \"prayer\" near moth/*parwana* yielded no matches. The corpus covers the full *Diwan*, but these exact images do not appear in the available translations.\n\nIf this refers to a specific *sher* known by those English terms, it may use different wording here or be from another collection not in the Falsafa corpus (37 works total).\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [Chapter 51](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/51-gham-nahin-hota-hai-aazaadon-ko-besh-az-yak-nafas/translation/).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [Chapter 4](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/translation/).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [Chapter 63](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/63-hai-sabza-zaar-har-dar-o-deewar-e-gham-kada/translation/).\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, [Chapter 64](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/64-hai-vasl-hijr-aalam-e-tamkeen-o-zabt-mein/translation/).\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, [p-d266ce](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/translation/#p-d266ce).\n[^6]: Mirza Ghalib, *Diwan-E-Ghalib*, [p-5a393a](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/51-gham-nahin-hota-hai-aazaadon-ko-besh-az-yak-nafas/translation/#p-5a393a).\n[^7]: Mirza Ghalib, *Diwan-E-Ghalib*, [p-62afc5](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/63-hai-sabza-zaar-har-dar-o-deewar-e-gham-kada/translation/#p-62afc5).\n[^8]: Mirza Ghalib, *Diwan-E-Ghalib*, [p-f5c9ca](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/64-hai-vasl-hijr-aalam-e-tamkeen-o-zabt-mein/translation/#p-f5c9ca).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"candle's tongue\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moth's prayer\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "candle moth prayer tongue",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moth\" candle",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"candle\" moth",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "moth prayer candle",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moth\" prayer",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"candle\" tongue",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "moth",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "candle",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "flame moth",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parwana",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"candle\" OR \"flame\" OR \"lamp\" moth OR parwana OR \"butterfly\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 51,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.51 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 63,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.63 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 64,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.64 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 96,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.96 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 147,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.147 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 156,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.156 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tongue\" candle OR flame OR lamp",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prayer moth OR parwana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 156,
+      "paragraph_id": "p-d266ce"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 156,
+      "paragraph_id": "p-5a393a"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 156,
+      "paragraph_id": "p-62afc5"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 156,
+      "paragraph_id": "p-f5c9ca"
+    }
+  ],
+  "duration_ms": 50327,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 38522,
+    "completion_tokens": 5129,
+    "total_tokens": 43651,
+    "cached_tokens": 18990,
+    "api_calls": 5,
+    "cost_usd": 0.0074204,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 305,
+        "total_tokens": 1861,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004412
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1914,
+        "completion_tokens": 770,
+        "total_tokens": 2684,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00053845
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2233,
+        "completion_tokens": 990,
+        "total_tokens": 3223,
+        "cached_tokens": 1909,
+        "cost_usd": 0.00065525
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13179,
+        "completion_tokens": 1361,
+        "total_tokens": 14540,
+        "cached_tokens": 2228,
+        "cost_usd": 0.0029821
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19640,
+        "completion_tokens": 1703,
+        "total_tokens": 21343,
+        "cached_tokens": 13174,
+        "cost_usd": 0.0028034
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "answer": "**Several works in the Falsafa corpus, particularly the ancient Indic *Smṛti* (Dharmaśāstra) texts, systematically address personal moral discipline. These texts prescribe ethical conduct, virtues, and practices such as self-control (*dama*, sense restraint), self-restraint (*saṃyama*), contentment, purity, non-violence (*ahiṃsā*), and austerity for householders, students (*brahmachārins*), ascetics, and rulers alike. They frame moral discipline as foundational to *dharma* (righteous duty), spiritual progress, and social order.**\n\n**Key examples include:**\n\n- **Manusmṛti** (by Manu): Dedicates entire chapters to the disciplined life-stages (*āśramas*), emphasizing self-control for Vedic students (\"A *brahmachari*, being self-controlled, should daily beg for alms...\"), the householder (*gṛhastha*) who \"should be self-controlled, taking contentment as his highest principle,\" and vows like continence, purity, and restraint from vices.[^1][^2]\n\n- **Yājñavalkya Smṛti** (by Yājñavalkya): Lists universal virtues as *dharma*: \"Non-violence, truth, non-stealing, purity, control of the senses, charity, self-restraint, compassion, and forbearance.\"[^3]\n\n- **Aṅgirasa Smṛti** (by Aṅgirasa): Describes ideal qualities like being \"calm, self-controlled,\" and duties for ascetics involving restraint.[^4]\n\n- **Bṛhaspati Smṛti** (by Bṛhaspati): Requires kings and ministers to be \"truthful and self-controlled,\" alongside rules for judges who must be \"self-controlled.\"[^5]\n\n**Other *Smṛti* texts follow suit:**\n- **Kātyāyana Smṛti** (by Kātyāyana): Prescribes self-control, vows, fasting, and celibacy for moral purity (e.g., \"always engaged in self-control and charity\"). \n- **Nārada Smṛti** (by Nārada): Discusses virtues like truthfulness over vices, with kings gaining \"seven virtues\" through just rule.\n- **Paraśara Smṛti**, **Viṣṇu Smṛti**, **Yama Smṛti**: Similar codes on ethical restraints and ascetic duties.\n\n**Urdu poetry** occasionally reflects on discipline poetically:\n- **Diwan-e-Ghalib** (by Mirza Ghalib): Explores \"true self-control is freedom.\" \n- **Diwan-e-Zauq** (by Sheikh Ibrahim Zauq): \"Humility is a strange virtue.\"\n\n**French political philosophy** touches on it sociologically:\n- **Nouveau traité d'économie** (by Charles Dunoyer): Praises \"temperance and economy\" as \"private virtues\" essential for industry and liberty, contrasting them with intemperance.[^6]\n\n**Old English Christian poetry** (e.g., Cynewulf's *Andreas*, *Juliana*) implies discipline through heroic virtue against temptation, but less systematically.[^7]\n\n**No works in the corpus focus exclusively on personal moral discipline like a Stoic *Enchiridion*; coverage is embedded in law, duty, and ethics. Modern philosophical treatises (e.g., Comte, Fichte) prioritize property or thought-freedom over individual restraint.**\n\n[^1]: Manusmṛti, [Chapter 2, paragraph p-f23f45](/works/unknown-manusmrti-347b76/02/translation/#p-f23f45).\n[^2]: Manusmṛti, [Chapter 4, paragraph p-8b8ea4](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).\n[^3]: Yājñavalkya Smṛti, [Chapter 1, paragraph p-51a712](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-51a712).\n[^4]: Aṅgirasa Smṛti, [Chapter 1, paragraph p-3d0d46](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-3d0d46).\n[^5]: Bṛhaspati Smṛti, [Chapter 1, paragraph p-e91140](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-e91140).\n[^6]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [Chapter 11, paragraph p-f2f80f](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11/translation/#p-f2f80f).\n[^7]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "moral discipline",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self control\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self discipline\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ascetic",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "temperance",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"personal virtue\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "self-control",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "self-restraint",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "continence",
+        "limit": 20
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "virtue",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral virtue\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dama",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-51a712"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-8b8ea4"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-3d0d46"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e91140"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-f23f45"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-f23f45"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-8b8ea4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-51a712"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-3d0d46"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-e91140"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-f2f80f"
+    }
+  ],
+  "duration_ms": 67439,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 68063,
+    "completion_tokens": 5205,
+    "total_tokens": 73268,
+    "cached_tokens": 5464,
+    "api_calls": 5,
+    "cost_usd": 0.0153955,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1546,
+        "completion_tokens": 308,
+        "total_tokens": 1854,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004407
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 4869,
+        "completion_tokens": 825,
+        "total_tokens": 5694,
+        "cached_tokens": 150,
+        "cost_usd": 0.0013638
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10413,
+        "completion_tokens": 870,
+        "total_tokens": 11283,
+        "cached_tokens": 4864,
+        "cost_usd": 0.001788
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20714,
+        "completion_tokens": 1535,
+        "total_tokens": 22249,
+        "cached_tokens": 150,
+        "cost_usd": 0.0048878
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 30521,
+        "completion_tokens": 1667,
+        "total_tokens": 32188,
+        "cached_tokens": 150,
+        "cost_usd": 0.0069152
+      }
+    ]
+  }
+}

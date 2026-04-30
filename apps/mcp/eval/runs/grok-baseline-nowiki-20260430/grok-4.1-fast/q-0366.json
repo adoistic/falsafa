@@ -1,0 +1,244 @@
+{
+  "answer": "**Charles Comte's strongest comparative claim** in *Traité de Législation*, Vol. III, appears in his extended parallels between peoples of the Caucasian race (including Arabs) under pastoral/nomadic vs. sedentary/slave-based modes of existence.[^1] Nomadic Bedouins in scorching Arabia exhibit superior morals (hospitality, good faith, limited slavery, women's relative freedom) and social organization (tribal republicanism with exit rights via secession, low tribute) compared to sedentary Caucasians in cold Caucasus gorges (serf-owning aristocrats treating peasants as cattle, familial sales of kin, incessant vendettas, women as vicious).[^2] He reinforces this in Ch. 34–35 by contrasting relatively less degraded (more secure, industrious) lower Egypt (hot Delta agriculture under partial Ottoman oversight) with upper Egypt/Thebaid (savages in caves) and cooler Barbary (deeper misery, tigress-like bloodlust, women as beasts of burden).[^3] Subsistence modes, not climate, dictate organization: pastoralism fosters liberty-like traits; sedentary enslavement breeds tyranny and barbarism.\n\n**Charles Dunoyer's strongest comparative claim**, across *Nouveau Traité d'Économie Sociale* Vols. I–II, frames a deductive progression: liberty expands with cultural stages—from savage (least, brutal isolation), nomadic/pastoral (more, via mobility/slave sales over extermination), sedentary/slave-based (further, via fixed production/security despite hierarchies), to fully industrial (most, free exchange sans violence).[^4] Nomads edge savages (tents > huts, herding > hunting, enslavement > massacre), but slave societies advance more (industry begins, war less destructive); all pale before industry's moral/industrial plenitude.[^5]\n\n**Methods**: Comte is markedly *empirical*, amassing traveler testimonies (Volney, Niebuhr, Bruce, Savary on Arabs/Abyssinians/Caucasians/Egypt), racial/climatic data, specific customs (sheikh elections, hospitality codes, tribute rates), and observations (e.g., sober Bedouin diets vs. serf tortures) to falsify climate theories (hot Arabs freer than cold mountaineers). Dunoyer is more *deductive*, abstracting logical stages from principles (liberty = faculty development; war/slavery impede vs. industry enables), citing ancients (Tacitus on Germans) illustratively but prioritizing theoretical ascent from violence to exchange.[^6]\n\n[^1]: Charles Comte, *Traité de Législation: VOL III*, Ch. 30, [full chapter](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/30-des-rapports-observes-entre-les-moyens-d-existence/translation/).\n\n[^2]: *Ibid.*, [p-92f340](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/30-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-92f340) (Bedouin liberty); [p-136fd0](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/30-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-136fd0) (Caucasian serfdom).\n\n[^3]: *Ibid.*, Ch. 35, [full chapter](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/35-des-rapports-observes-entre-les-moyens-d-existence/translation/); Ch. 34, [p-a1b94d](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/34-parallele-entre-la-portion-de-richesses-qui-est-la/translation/#p-a1b94d).\n\n[^4]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, Ch. 13, [p-c248a1](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-c248a1).\n\n[^5]: *Ibid.*, *VOL I*, Ch. 6–7, [full chapters](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/06-i-liberte-compatible-avec-la-maniere-de-vivre-des-/translation/) and [/07-ii-liberte-compatible-avec-la-maniere-de-vivre-des/translation/].\n\n[^6]: Comte: empirical via reports (e.g., Ch. 30 [p-89543b](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/30-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-89543b)); Dunoyer: deductive stages (Ch. 13 [p-3c02b7](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-3c02b7)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"modes of existence\" comparative"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"social organisations\" OR \"modes of society\" OR \"stages of society\" comte dunoyer"
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "Listed 7 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"savage\" OR \"barbarian\" OR \"civilization\" OR \"hunter\" OR \"pastoral\" OR \"agricultural\" OR \"nomad\" comte",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"savage\" OR \"barbarian\" OR \"civilization\" OR \"hunter\" OR \"pastoral\" OR \"agricultural\" OR \"nomad\" dunoyer",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 30,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.30 of charles-comte-traite-de-legislation-vol-iii-ca589a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 31,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.31 of charles-comte-traite-de-legislation-vol-iii-ca589a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 34,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.34 of charles-comte-traite-de-legislation-vol-iii-ca589a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 35,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.35 of charles-comte-traite-de-legislation-vol-iii-ca589a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-92f340"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-136fd0"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-a1b94d"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-c248a1"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-89543b"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-3c02b7"
+    }
+  ],
+  "duration_ms": 59873,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 97867,
+    "completion_tokens": 4616,
+    "total_tokens": 102483,
+    "cached_tokens": 19725,
+    "api_calls": 4,
+    "cost_usd": 0.01892265,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1579,
+        "completion_tokens": 645,
+        "total_tokens": 2224,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00040895
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4117,
+        "completion_tokens": 565,
+        "total_tokens": 4682,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010834
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13939,
+        "completion_tokens": 1307,
+        "total_tokens": 15246,
+        "cached_tokens": 4112,
+        "cost_usd": 0.0028245
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 78232,
+        "completion_tokens": 2099,
+        "total_tokens": 80331,
+        "cached_tokens": 13934,
+        "cost_usd": 0.0146058
+      }
+    ]
+  }
+}

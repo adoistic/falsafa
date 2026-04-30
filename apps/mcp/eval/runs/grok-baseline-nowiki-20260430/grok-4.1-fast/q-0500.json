@@ -1,0 +1,157 @@
+{
+  "answer": "**Parāśara Smṛti** frames itself as \"a compendium of *dharmaśāstra*, consisting of five hundred and ninety-two verses.\"[^1]\n\n**Vīramitrodaya** frames itself as a compilation drawing from earlier sages such as Hārīta, Gobhila, Parāśara, Nārada, and others.[^2]\n\nNo other works in the corpus explicitly frame themselves as a digest, compendium, or summary of earlier authorities. Many Indic *smṛti* texts (e.g., Manusmṛti, Yājñavalkya Smṛti) cite authorities but do not self-describe as such.\n\n[^1]: Parāśara Smṛti, [Chapter 12, paragraph p-de6d1a](/works/unknown-parasara-smrti-2259be/12/translation/#p-de6d1a).\n\n[^2]: Vīramitrodaya, [Chapter 1, paragraph p-19342f](/works/unknown-viramitrodaya-d4b632/01/translation/#p-19342f).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"compendium\" OR \"digest\" OR \"summary of authorities\" OR \"compilation of\"",
+        "limit": 50
+      },
+      "result_summary": "Found 18 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"epitome\" OR \"summa\" OR \"abridgment\" OR \"extracts from\"",
+        "limit": 50
+      },
+      "result_summary": "Found 23 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"according to the ancients\" OR \"following the masters\" OR \"drawn from earlier\"",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"digest\" OR \"compendium\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"compendium\" OR \"digest\" OR \"epitome\" OR \"summary\" OR \"abridgment\" \"smr\" OR \"dharma\" OR \"according to\" OR \"drawn from\" OR \"following the\"",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"this is the\" OR \"here is\" \"smr\" OR \"treatise\" OR \"compilation\"",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-viramitrodaya-d4b632 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-de6d1a"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-19342f"
+    }
+  ],
+  "duration_ms": 87856,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 410955,
+    "completion_tokens": 2949,
+    "total_tokens": 413904,
+    "cached_tokens": 19352,
+    "api_calls": 3,
+    "cost_usd": 0.1560596,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 538,
+        "total_tokens": 2094,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005577
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17671,
+        "completion_tokens": 1442,
+        "total_tokens": 19113,
+        "cached_tokens": 1536,
+        "cost_usd": 0.0040248
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 391728,
+        "completion_tokens": 969,
+        "total_tokens": 392697,
+        "cached_tokens": 17666,
+        "cost_usd": 0.1514771
+      }
+    ]
+  }
+}

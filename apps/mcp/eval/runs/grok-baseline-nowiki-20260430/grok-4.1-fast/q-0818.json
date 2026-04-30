@@ -1,0 +1,177 @@
+{
+  "answer": "**Iqbal's precise opening line of the poem in *Bang-E-Dara Part 1*, Chapter 1 (\"Ajab waa'iz ki deen-daari hai ya Rabb\") is: \"عجب واعظ کی دینداری ہے یا رب\".**[^1]\n\nThis is the first line of the ghazal as presented in the original Urdu text.[^2] In poetic layout, it appears line-broken across two paragraphs, but the full opening couplet (matla) reads continuously as above.[^3]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 1 (\"Ajab waa'iz ki deen-daari hai ya Rabb\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/01-ajab-waaiz-ki-deen-daari-hai-ya-rabb/original/#p-511fa1).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 1, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/01-ajab-waaiz-ki-deen-daari-hai-ya-rabb/original/#p-7d3094).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 1, [full chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/01-ajab-waaiz-ki-deen-daari-hai-ya-rabb/original/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bang-e-Dara\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ajab waaiz ki deen-daari\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-1-55b25c\",\"title\":\"Bang-E-Dara Part 1\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 1,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.1 of allama-iqbal-bang-e-dara-part-1-55b25c (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-511fa1"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7d3094"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 1,
+      "paragraph_id": "p-511fa1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 1,
+      "paragraph_id": "p-7d3094"
+    }
+  ],
+  "duration_ms": 32630,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 24773,
+    "completion_tokens": 3563,
+    "total_tokens": 28336,
+    "cached_tokens": 10522,
+    "api_calls": 5,
+    "cost_usd": 0.005157800000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1568,
+        "completion_tokens": 613,
+        "total_tokens": 2181,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00039075
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2735,
+        "completion_tokens": 254,
+        "total_tokens": 2989,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006515
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata"
+        ],
+        "prompt_tokens": 5968,
+        "completion_tokens": 347,
+        "total_tokens": 6315,
+        "cached_tokens": 2730,
+        "cost_usd": 0.0009576
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 6718,
+        "completion_tokens": 1297,
+        "total_tokens": 8015,
+        "cached_tokens": 5963,
+        "cost_usd": 0.00109765
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 7784,
+        "completion_tokens": 1052,
+        "total_tokens": 8836,
+        "cached_tokens": 150,
+        "cost_usd": 0.0020603
+      }
+    ]
+  }
+}

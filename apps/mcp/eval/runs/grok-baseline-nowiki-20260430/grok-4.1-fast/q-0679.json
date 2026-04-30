@@ -1,0 +1,215 @@
+{
+  "answer": "**The exact phrase \"shauq-e-faraawan\" (overflowing longing) does not appear in the English translations or transliterations of Mirza Ghalib's *Diwan-e-Ghalib* in this corpus.**[^1]\n\nGhalib frequently uses \"shauq\" (شوق, often translated as \"longing,\" \"passion,\" or \"desire\") to evoke intense, almost uncontrollable yearning in love—typically for the beloved, but with philosophical undertones of existential torment or spiritual quest. It often portrays the heart (*dil*) as inadequate to contain this emotion, evoking a sense of overflow or excess.\n\nA close thematic match is Ghazal 55 (\"Gila hai shauq ko dil mein bhi tangi-e-ja ka\"), where the poet personifies *shauq* as chiding the heart for its narrowness (*tangi-e-ja ka*), like a river's turmoil compressed into a pearl:\n\n> My longing chides my heart for being such a narrow space,  \n> As all a river's torment finds within a pearl its place.[^2]\n\nHere, *shauq* strains against confinement, suggesting abundance or overflow beyond the heart's capacity—aligning conceptually with \"overflowing longing,\" though not verbatim.[^3]\n\n*Shauq* recurs in other ghazals (e.g., 4, 5, 6, 20, 183), often tied to madness (*junoon*), vision (*deedar*), or union (*vasl*), but without \"faraawan\" (فراوان, abundant/excessive). If this refers to Ghalib's letters, prose, or secondary interpretations, it's not covered here—the corpus is limited to his 239 ghazals.[^4]\n\n[^1]: Confirmed via exhaustive searches for \"shauq-e-faraawan,\" \"faraawan,\" \"farawan,\" \"overflowing longing,\" and variants across English bodies; no matches. *Diwan-e-Ghalib*, metadata.\n[^2]: *Diwan-e-Ghalib*, Ghazal 55 (*Gila hai shauq ko dil mein bhi tangi-e-ja ka*), paragraph [p-ef3ccc], translation (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/55-gila-hai-shauq-ko-dil-mein-bhi-tangi-e-ja-ka/translation/#p-ef3ccc).\n[^3]: Transliteration: \"Gila hai shauq ko dil mein bhi tangi-e-ja ka / Gauhar mein mahv hua iztiraab dariya ka\" (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/55-gila-hai-shauq-ko-dil-mein-bhi-tangi-e-ja-ka/transliteration/#p-ebac7b).\n[^4]: *list_works* (author: ghalib); *search_corpus* (\"shauq\"); chapters list.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shauq-e-faraawan"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"overflowing longing\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib \"overflowing longing\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib shauq"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shauq",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shauk",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"overflowing\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "longing",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shauq-e\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-Ghalib\",\"author\":\"Mirza Ghalib\",\"author_slug\":\"mirza-ghalib\",\"era\":\"19th Century\",\"era_slug\":\"19th-century\",\"genre\":\"Literature\",\"genre_sl"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 55,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.55 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 55,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.55 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "faraawan"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "farawan"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" shauq"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 55,
+      "paragraph_id": "p-ef3ccc"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 55,
+      "paragraph_id": "p-ebac7b"
+    }
+  ],
+  "duration_ms": 49462,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 58890,
+    "completion_tokens": 5290,
+    "total_tokens": 64180,
+    "cached_tokens": 31803,
+    "api_calls": 4,
+    "cost_usd": 0.009652550000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 378,
+        "total_tokens": 1933,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0002702
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1946,
+        "completion_tokens": 1630,
+        "total_tokens": 3576,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0009744
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_metadata",
+          "list_chapters"
+        ],
+        "prompt_tokens": 26803,
+        "completion_tokens": 1814,
+        "total_tokens": 28617,
+        "cached_tokens": 1941,
+        "cost_usd": 0.00597645
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 28586,
+        "completion_tokens": 1468,
+        "total_tokens": 30054,
+        "cached_tokens": 26798,
+        "cost_usd": 0.0024315
+      }
+    ]
+  }
+}

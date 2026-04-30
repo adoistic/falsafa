@@ -1,0 +1,194 @@
+{
+  "answer": "**Manusmṛti 7.1** opens Chapter 7 with the compound *rājadharmān* (राजधर्मान्) as its operative term: \"I will now declare the *rājadharma*, how a king should conduct himself, how he came into being, and how he may attain the highest perfection.\"[^1]\n\nThe transliterated Sanskrit reads: *rājadharmān pravakṣyāmi yathāvṛtto bhaven nṛpaḥ / saṃbhavaś ca yathā tasya siddhiś ca paramā yathā // Mn_7.1*.[^2]\n\nThis verse introduces the entire exposition of *rājadharma*, compressing the king's role as guarantor of *dharma* (through just administration via *daṇḍa*, punishment/protection) and protector of subjects, *varṇas*, and *āśramas* (e.g., Mn_7.35: \"The king was created as the protector of all the *varṇas* and *āśramas*\").[^3]\n\nEnglish \"duties of the king\" **does not fully capture it** and **smuggles assumptions**. *Rājadharma* is not a mere checklist of tasks but the inherent cosmic law/righteousness of kingship (*raja* + *dharma*), embodying the sovereign's divine mandate to uphold order (*ṛta*) via protection (*rakṣaṇa*) and justice (*nyāya*). \"Duties\" implies contractual obligations (modern bureaucratic view), narrowing the holistic, normative principle where the king *is* *daṇḍa* (rod of punishment/order; Mn_7.14–18, 48), fusing administrator-protector into one.[^4] A better gloss: \"law of kingship\" or \"royal righteousness.\"\n\n[^1]: Manusmṛti, Chapter 7, [paragraph](/works/unknown-manusmrti-347b76-347b76/07/translation/#p-b46e87).\n[^2]: Manusmṛti, Chapter 7, [paragraph](/works/unknown-manusmrti-347b76-347b76/07/transliteration/#p-693de9).\n[^3]: Manusmṛti, Chapter 7, [paragraph](/works/unknown-manusmrti-347b76-347b76/07/translation/#p-2264d1).\n[^4]: Manusmṛti, Chapter 7, [passage](/works/unknown-manusmrti-347b76-347b76/07/translation/#p-73f910)–[p-6458d4), [p-79fa07].",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rajadharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king's duty\" OR \"duty of a king\" OR \"duties of kings\" manu",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "original"
+      },
+      "result_summary": "error VARIANT_NOT_FOUND: Variant 'original' not found in unknown-manusmrti-347b76 chapter 7"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"raja dharma\" OR \"king dharma\" OR rājadharma OR \"royal dharma\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rājadharma OR \"raja dharma\" OR \"king's dharma\" manu",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-b46e87"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-693de9"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-2264d1"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-73f910"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-6458d4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-79fa07"
+    }
+  ],
+  "duration_ms": 41125,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 130733,
+    "completion_tokens": 3305,
+    "total_tokens": 134038,
+    "cached_tokens": 45396,
+    "api_calls": 4,
+    "cost_usd": 0.0209897,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1587,
+        "completion_tokens": 392,
+        "total_tokens": 1979,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00028405
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4128,
+        "completion_tokens": 982,
+        "total_tokens": 5110,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00108725
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 38220,
+        "completion_tokens": 679,
+        "total_tokens": 38899,
+        "cached_tokens": 4123,
+        "cost_usd": 0.00736505
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 86798,
+        "completion_tokens": 1252,
+        "total_tokens": 88050,
+        "cached_tokens": 38215,
+        "cost_usd": 0.01225335
+      }
+    ]
+  }
+}

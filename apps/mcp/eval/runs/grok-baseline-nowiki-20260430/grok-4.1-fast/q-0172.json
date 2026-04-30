@@ -1,0 +1,247 @@
+{
+  "answer": "**No passage in *Ślokāntara* describes the tongue's misuse as the worst of sins (or uses those terms).**\n\nThe text—a commentary on Sanskrit verses (*śloka*) about *dharma* (righteousness), sins (*pātaka*, *mahāpātaka*, etc.), virtues, castes, kingship, women, and cosmology—emphasizes truth (*satya*) as the highest *dharma* and untruth (*anṛta*) as the greatest sin: \"There is no *dharma* greater than truth. There is no sin greater than untruth.\"[^1] It permits five exceptions where falsehood (*anṛta*) incurs no sin: jest (*narma*), protecting life (*prāṇadravyarakṣaṇe*), protecting property, protecting family (*strīṣu*), and sexual union (*vivāhakāle*); all other lies are sinful.[^2]\n\nHarsh or deceitful speech appears indirectly (e.g., hypocrites with \"sweet words\" but scissor-like hearts,[^3] or slanderers among heinous crimes[^4]), but nothing frames tongue misuse as uniquely worst. Sins escalate: *pātaka* (e.g., killing embryos), *upapātaka*, *mahāpātaka* (e.g., killing Brahmins), *atipātaka* (incest, destroying liṅgas). Speech is secondary to violence/theft.\n\nIf the query recalls a different phrasing or work (none match corpus-wide searches for \"tongue\"/\"misuse\"/\"worst sin\"), the Falsafa corpus (37 works) lacks it.\n\n[^1]: *Ślokāntara*, Chapter 1, [paragraph p-bad244](/works/unknown-slokantara-d7a628/01/translation/#p-bad244) (Ślo_07s); [paragraph p-11d11c](/works/unknown-slokantara-d7a628/01/translation/#p-11d11c) (Ślo_07j).\n\n[^2]: *Ślokāntara*, Chapter 1, [paragraph p-77e620](/works/unknown-slokantara-d7a628/01/translation/#p-77e620) (Ślo_22j).\n\n[^3]: *Ślokāntara*, Chapter 1, [paragraph p-8fbb6c](/works/unknown-slokantara-d7a628/01/translation/#p-8fbb6c) (Ślo_34j).\n\n[^4]: *Ślokāntara*, Chapter 1, [paragraph p-200f22](/works/unknown-slokantara-d7a628/01/translation/#p-200f22) (Ślo_32j).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tongue misuse worst sin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tongue\" \"worst\" \"sin\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Slokantara tongue",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Slokantara"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tongue\" sin",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"worst sin\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tongue\" \"worst\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "{\"slug\":\"unknown-slokantara-d7a628\",\"title\":\"Slokantara\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Kawi\",\"langu"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-slokantara-d7a628 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-bad244",
+          "p-11d11c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tongue\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"speech\" sin"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "misuse tongue"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-bad244"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-11d11c"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-77e620"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-8fbb6c"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-200f22"
+    }
+  ],
+  "duration_ms": 55937,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 85714,
+    "completion_tokens": 5240,
+    "total_tokens": 90954,
+    "cached_tokens": 46165,
+    "api_calls": 6,
+    "cost_usd": 0.01283805,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 978,
+        "total_tokens": 2532,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0005703
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2513,
+        "completion_tokens": 822,
+        "total_tokens": 3335,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0006841
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 6057,
+        "completion_tokens": 382,
+        "total_tokens": 6439,
+        "cached_tokens": 2508,
+        "cost_usd": 0.0010262
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata"
+        ],
+        "prompt_tokens": 6358,
+        "completion_tokens": 281,
+        "total_tokens": 6639,
+        "cached_tokens": 6052,
+        "cost_usd": 0.0005043
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 34400,
+        "completion_tokens": 1474,
+        "total_tokens": 35874,
+        "cached_tokens": 150,
+        "cost_usd": 0.0075945
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 34832,
+        "completion_tokens": 1303,
+        "total_tokens": 36135,
+        "cached_tokens": 34395,
+        "cost_usd": 0.00245865
+      }
+    ]
+  }
+}

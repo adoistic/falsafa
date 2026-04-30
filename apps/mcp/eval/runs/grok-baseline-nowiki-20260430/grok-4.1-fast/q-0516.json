@@ -1,0 +1,257 @@
+{
+  "answer": "**The corpus contains gnomic verse and wisdom aphorisms (proverbs/maxims) in *Old English Elegies*, specifically its chapter \"Maxims I\" (Chapter 6).**[^1]\n\nThis chapter is a classic example of Anglo-Saxon gnomic poetry—a collection of loosely connected wise sayings, proverbs, and reflections on life, society, fate, morality, and the natural world (e.g., \"Wise men should exchange sayings\"; \"A good name is best\"; \"Frost must freeze, fire melt wood\").[^2][^3] It exemplifies the genre through its terse, aphoristic style and themes of proper conduct, the transience of life, and divine order.[^4]\n\n**No works in the corpus contain riddles.** Searches returned only metaphorical uses of \"riddle\" in Urdu poetry (*Bang-E-Dara Part 1* by Allama Iqbal and *Diwan-E-Ghalib* by Mirza Ghalib), not actual riddle poems.[^5][^6]\n\n**Other notes:**\n- *Yājñavalkya Smṛti* (Chapter 3) briefly mentions \"aphorisms\" (sūtras) as part of Vedic literature but does not contain them as a structural element.[^7]\n- No other works match these categories. The Smṛti texts (e.g., *Manusmṛti*, *Nāradasmṛti*) are dharmaśāstra law codes in verse but not primarily gnomic or aphoristic collections. Cynewulf's poems (*Andreas*, *Elene*, *Juliana*) are hagiographic narratives without these forms.\n\n[^1]: *Old English Elegies*, [Chapter 6: Maxims I](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/).\n[^2]: *Old English Elegies*, [Chapter 6: Maxims I](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/#p-84cf09).\n[^3]: *Old English Elegies*, [Chapter 6: Maxims I](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/#p-4bfdc5).\n[^4]: *Old English Elegies*, [Chapter 6: Maxims I](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 44: Zuhd aur Rindi](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-5cbc5a).\n[^6]: Mirza Ghalib, *Diwan-E-Ghalib*, [Chapter 44: Gar khamoshi se faida ikhfa-e-haal hai](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/44-gar-khamoshi-se-faida-ikhfa-e-haal-hai/translation/#p-710e03).\n[^7]: *Yājñavalkya Smṛti*, [Chapter 3](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-55d67a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "riddle",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "riddles",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gnomic",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wisdom poem\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"maxims\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "aphorism",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maxim",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gnome",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "proverb",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wise saying\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "riddle poem",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"slug\":\"unknown-old-english-elegies-d5fe9e\",\"title\":\"Old English Elegies\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Literature\",\"genre_slug\":\"literatu"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.6 of unknown-old-english-elegies-d5fe9e (original)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"exeter book\" OR riddle OR riddel OR \"riddle poem\" OR \"enigma\"",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Literature"
+      },
+      "result_summary": "Listed 9 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-55d67a"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-84cf09"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-4bfdc5"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-5cbc5a"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-710e03"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-55d67a"
+    }
+  ],
+  "duration_ms": 47205,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 37856,
+    "completion_tokens": 5167,
+    "total_tokens": 43023,
+    "cached_tokens": 6187,
+    "api_calls": 4,
+    "cost_usd": 0.00922665,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 546,
+        "total_tokens": 2099,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005611
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5743,
+        "completion_tokens": 1913,
+        "total_tokens": 7656,
+        "cached_tokens": 149,
+        "cost_usd": 0.00208275
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_metadata",
+          "list_chapters"
+        ],
+        "prompt_tokens": 10933,
+        "completion_tokens": 1020,
+        "total_tokens": 11953,
+        "cached_tokens": 5738,
+        "cost_usd": 0.0018359
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "list_works",
+          "get_passage"
+        ],
+        "prompt_tokens": 19627,
+        "completion_tokens": 1688,
+        "total_tokens": 21315,
+        "cached_tokens": 150,
+        "cost_usd": 0.0047469
+      }
+    ]
+  }
+}

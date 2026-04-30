@@ -1,0 +1,213 @@
+{
+  "answer": "Several works in the Falsafa corpus engage with the figure of the trader or merchant (*vaṇik* in Sanskrit texts), primarily in legal, social, economic, and occasionally metaphorical or poetic contexts. The most substantive discussions appear in classical Indian *smṛti* texts (legal treatises), which address merchants' roles in urban planning, partnerships, sales, tolls, courts, and punishments for fraud. Modern economic treatises also reference merchants in discussions of liberty, industry, and historical commerce. Poetic works use the figure metaphorically. Below is a non-exhaustive list of relevant works, with examples.[^1][^2]\n\n### Classical Indian *Smṛti* Texts (Dharmashastra Tradition)\nThese texts frequently portray merchants as a professional class (often *vaiśya* or *śūdra*), subject to specific laws on commerce, taxation, and ethics.\n\n- **Bṛhaspati Smṛti**: Discusses merchants' placement in town layouts, caravan courts, tolls, partnerships, arrests during trade, and punishments for fraud.[^3]\n- **Kātyāyana Smṛti**: Covers merchants attending courts, guild-like groups (*pūga*), partnerships, and shares of profit for traders.[^4]\n- **Manusmṛti**: Notes merchants among those who prosper as sureties; regulates sea-traders' interest rates; classes traders with cowherds and artisans.[^5]\n- **Nāradasmṛti**: Extensive treatment of merchant partnerships, toll evasion, sales with profit, rescission of purchases, and regional profit norms.[^6]\n- **Ślokāntara**: Defines merchants and traders as born from the feet (of Brahmā), with commerce as their inherent *śūdra* duty.[^7]\n- **Viṣṇu Smṛti**: Prescribes alms for a year as penance for fraudulent traders.[^8]\n\n### Modern Economic Treatises\n- **Nouveau traité d'économie: VOL I** (Charles Dunoyer): Portrays merchants as part of peaceful, laborious peoples defending against oppressors; critiques guilds restricting merchant freedoms.[^9]\n\n### Poetic/Metaphorical References\n- **Bang-E-Dara Part 2** (Allama Iqbal): Uses \"merchant\" metaphorically for one finding profit in despair or critiquing Western materialists as unfit \"merchants\" for divine truths.\n\nOther passing mentions occur in *Traité de Législation* (Charles Comte), referring to slave traders,[^10] but these do not deeply engage the figure beyond historical examples.\n\n[^1]: Searches conducted for \"merchant\", \"trader\", \"trading\", and \"shopkeeper\" in English translations yielded ~70 relevant paragraphs across 12 works; the above are those with clear engagement.\n[^2]: No comprehensive treatment exists in Confucian, Greek, or other non-*smṛti* sub-corpora based on these results.\n[^3]: Bṛhaspati Smṛti, Chapter 1, [p-193272](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-193272).\n[^4]: Kātyāyana Smṛti, Chapter 5, [p-2d58e7](/works/unknown-katyayana-smrti-1e06d2/05/translation/#p-2d58e7).\n[^5]: Manusmṛti, Chapter 8, [p-eff4d5](/works/unknown-manusmrti-347b76/08/translation/#p-eff4d5).\n[^6]: Nāradasmṛti, Chapter 1, [p-e3f118](/works/unknown-naradasmrti-7650d2/01/translation/#p-e3f118).\n[^7]: Ślokāntara, Chapter 1, [p-605381](/works/unknown-slokantara-d7a628/01/translation/#p-605381).\n[^8]: Viṣṇu Smṛti, Chapter 54, [p-63e265](/works/unknown-visnu-smrti-27f0d8/54/translation/#p-63e265).\n[^9]: Nouveau traité d'économie: VOL I, Chapter 4, [p-afef34](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/04-v-influence-de-la-culture-sur-la-liberte/translation/#p-afef34).\n[^10]: E.g., Traité de Législation: VOL II, Chapter 27, search snippet reference (no full passage retrieved).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "merchant",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "trader",
+        "limit": 50
+      },
+      "result_summary": "Found 16 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "trading",
+        "limit": 50
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shopkeeper\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-193272"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e3f118"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-2d58e7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-eff4d5"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-afef34"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-605381"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 54,
+        "paragraph_ids": [
+          "p-63e265"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 54,
+      "paragraph_id": "p-193272"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 54,
+      "paragraph_id": "p-2d58e7"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 54,
+      "paragraph_id": "p-eff4d5"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 54,
+      "paragraph_id": "p-e3f118"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 54,
+      "paragraph_id": "p-605381"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 54,
+      "paragraph_id": "p-63e265"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 54,
+      "paragraph_id": "p-afef34"
+    }
+  ],
+  "duration_ms": 37768,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 24011,
+    "completion_tokens": 4343,
+    "total_tokens": 28354,
+    "cached_tokens": 13563,
+    "api_calls": 3,
+    "cost_usd": 0.004939249999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1549,
+        "completion_tokens": 510,
+        "total_tokens": 2059,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0003347
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10505,
+        "completion_tokens": 2019,
+        "total_tokens": 12524,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00288115
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 11957,
+        "completion_tokens": 1814,
+        "total_tokens": 13771,
+        "cached_tokens": 10500,
+        "cost_usd": 0.0017234
+      }
+    ]
+  }
+}

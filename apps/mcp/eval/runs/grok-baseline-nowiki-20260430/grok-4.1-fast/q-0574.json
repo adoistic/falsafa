@@ -1,0 +1,141 @@
+{
+  "answer": "**Majnoon (also spelled Majnun; Arabic/Urdu: مجنون, meaning \"madman\" or \"the possessed one\")** is the legendary protagonist of the classical *Layla and Majnun* romance, a tale originating in 7th-century Arabic folklore, popularized in Persian literature by Nizami Ganjavi (12th century), and extensively invoked in Urdu poetry as the archetype of the lover driven to ecstatic madness by unattainable passion for Laila (Layla). In the Falsafa Urdu corpus—primarily poetic works like Allama Iqbal's *Bang-e-Dara* and the *Diwans* of Mirza Ghalib and Sheikh Ibrahim Zauq—Majnoon symbolizes total renunciation, spiritual intoxication (*ishq*), and transcendence of worldly attachments, often contrasted with Laila's veiled beauty or the desert (*sehra*) as a metaphor for isolation in divine love.[^1][^2]\n\n### Key Example: Iqbal's Central Poem\nAllama Iqbal dedicates an entire nazm (poem), Chapter 9 of *Bang-e-Dara Part 1* (1924), to Majnoon as a model for ultimate *tark* (renunciation):\n> Majnun left the city; you must leave the desert too.  \n> If you desire the vision, then leave Laila too.[^3]\n\nIqbal extends the motif: the preacher (*waaiz*) must abandon even the afterlife's reward; reason (*aql*) its guardianship; fame its illusions. Majnoon has progressed beyond city, desert, and beloved—urging readers toward self-annihilation (*khudkushi*) for true vision.[^4] Earlier in Chapter 4, Iqbal addresses him directly: \"Have you ever gazed upon yourself, O Majnun? / For like Laila, you too are among the veiled ones in their litters,\" equating self-discovery with the lovers' union.[^5]\n\n### In Ghalib's *Diwan-e-Ghalib*\nGhalib (d. 1869) weaves Majnoon into dozens of ghazals as the paradigm of love's desolation (*wehshat*). Examples:\n- \"See how Majnun's blood-weeping eye gives place / To desert rose-fields, spread like flowered lace,\" transforming grief into beauty.[^6]\n- \"The house of desert-mad Majnun, a place without a doorway was,\" evoking boundless, doorless longing.[^7]\n- \"The world is dust from Majnun's wild and desolate despair; how long can one keep dreaming of the strands of Laila's locks?\"[^8]\n\n### In Zauq's *Diwan-e-Zauq*\nSheikh Ibrahim Zauq (d. 1854), Ghalib's rival, uses \"baid-e-Majnoon\" (Majnoon's egg, i.e., his mad gaze) for love's wild intensity.[^9]\n\nThe corpus lacks prose summaries of the legend (focusing on poetry), but Majnoon recurs ~20–30 times across these works as *ishq*'s emblem—madness as sainthood, not pathology. No standalone biographical treatment exists here.[^10]",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "majnoon",
+        "limit": 20
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "majnun",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mad lover\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 9,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 181,
+        "paragraph_ids": [
+          "p-46434d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 23,
+        "paragraph_ids": [
+          "p-f415c5"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 31342,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 21839,
+    "completion_tokens": 2973,
+    "total_tokens": 24812,
+    "cached_tokens": 11577,
+    "api_calls": 3,
+    "cost_usd": 0.00411775,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 402,
+        "total_tokens": 1956,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0002823
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8520,
+        "completion_tokens": 900,
+        "total_tokens": 9420,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0019242
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 11765,
+        "completion_tokens": 1671,
+        "total_tokens": 13436,
+        "cached_tokens": 8515,
+        "cost_usd": 0.00191125
+      }
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "answer": "**Dāna (giving, donation)**—often rendered as *dadan* in some transliterations—is a central righteous duty (*dharma*) across Smṛti texts, elevated as the supreme practice in the Kali *yuga* (current age).[^1] It encompasses charity of food, wealth, cows, land, or ritual items, yielding merit (*puṇya*) based on the donor's faith, the recipient's worthiness, and context (e.g., expiation, *śrāddha*, daily rites). No single work is solely on *dāna*, but it structures householder duties, ancestral satisfaction, and penance, with rules varying by recipient class, timing, and substance.\n\n### Core Principles\n- **Supreme in Kali Yuga**: Unlike prior ages (austerity in Kṛta, knowledge in Tretā, sacrifice in Dvāpara), *dāna* alone yields full merit now.[^1]\n- **Merit Hierarchy**: Gifts to learned Brāhmaṇas (*śrotriya*) or Vedic experts are highest; to cows, ancestors (*via śrāddha*), or guests follow; inferior to unworthy recipients (e.g., sinners) yields no fruit or sin.[^2][^3]\n- **Daily/Occasional Contexts**: Part of *pañcamahāyajña* (five great sacrifices); expiations; *śrāddha* (ancestral rites).[^4]\n\n### Organization by Recipients\nSmṛtis classify *dāna* by recipient worthiness (*paṅktipāvana* or unfit), with escalating merits:\n\n1. **Brāhmaṇas (Learned/Vedic Experts)**: Highest. Feed *śrotriya* (Veda-master) at *śrāddha*/*Vaiśvadeva* for eternal ancestral satisfaction (7+ generations). Equals Agnihotra; gift to unlearned = \"vomit-eater.\" Unfit: sinners, Śūdra-servants, etc. (full list: thieves, gamblers, etc.).[^2][^3][^5]\n   - **Merit**: 1000x superior to feeding ignorant masses.[^3]\n\n2. **Cows/Animals**: Expiatory (*e.g.*, cow-gift for neglecting anniversaries). Rhinoceros meat, *gaurī*-gift (auspicious item?), bull-release (*vṛṣotsarga*) gratify ancestors eternally.[^6][^7]\n\n3. **Ancestors (*Pitṛs*)**: Via *śrāddha* (*piṇḍadāna*, libations). Sesame-water, milk-rice eternalize satisfaction. Organized: fathers (Vasus), grandfathers (Rudras), great-grandfathers (Ādityas). *Darśa*/*aṣṭakā* monthly.[^8][^9]\n\n4. **Guests (*Atithi*)**: Wandering Brāhmaṇa during *Vaiśvadeva*. Honor with seat, *arghya*, food > fire-rite. Unfed *atithi* dooms offerings 15 years.[^10]\n\n5. **Dependents/Servants/Śūdras**: *Bali*-offerings, scraps post-*śrāddha*. Śūdras: service-based *dāna* (no Veda). Trade salt/honey permitted; meat/liquor forbidden.[^11][^12]\n\n| Recipient Class | Key Texts | Merit/Duration | Examples/Substances |\n|-----------------|-----------|----------------|---------------------|\n| Learned Brāhmaṇas | Manu 3, Āṅgirasa 1 | Eternal (7+ gens.); >1000 ignorant | Food at *śrāddha*, cows, gold |\n| Cows/Animals | Āṅgirasa 1, Manu 3 | 1–12 yrs.; eternal (*rhinoceros*) | Cow, bull-release, *gaurī* |\n| Ancestors | All Smṛtis | 1 mo.–eternal | Sesame-water, milk-rice, *piṇḍa* |\n| Guests | Parāśara 1, Manu 3 | Heaven-bridge; >Agnihotra | *Arghya*, hot food |\n| Śūdras/etc. | Parāśara 1 | Limited; service-based | Scraps, permitted trade-goods |\n\n**Caveats**: Corpus lacks exhaustive *dāna*-treatise (37 works; not every topic covered). Unworthy recipients invert merit (e.g., to sinners = hell). Always with faith, purity; Kali-focus: uninvited *dāna* valid.[^1] If unanswerable precisely, corpus emphasizes contextual hierarchy over rigid \"dadan\" taxonomy.\n\n[^1]: Parāśara Smṛti 1, [translation/#p-afd7d9](https://falsafa.corpus/works/unknown-parasara-smrti-2259be/01/translation/#p-afd7d9).\n[^2]: Manu Smṛti 3, [translation/#p-981119](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-981119).\n[^3]: Manu Smṛti 3, [translation/#p-c56333](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-c56333).\n[^4]: Manu Smṛti 4, [translation/#p-81e560](https://falsafa.corpus/works/unknown-manusmrti-347b76/04/translation/#p-81e560).\n[^5]: Āṅgirasa Smṛti 1, [translation/#p-b061ae](https://falsafa.corpus/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-b061ae).\n[^6]: Āṅgirasa Smṛti 1, [translation/#p-43cff3](https://falsafa.corpus/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-43cff3).\n[^7]: Manu Smṛti 3, [translation/#p-00c918](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-00c918).\n[^8]: Viṣṇu Smṛti 29, [translation/#p-ac9998](https://falsafa.corpus/works/unknown-visnu-smrti-27f0d8/29/translation/#p-ac9998).\n[^9]: Āṅgirasa Smṛti 1, [translation/#p-bf5f54](https://falsafa.corpus/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-bf5f54).\n[^10]: Parāśara Smṛti 1, [translation/#p-abc05c](https://falsafa.corpus/works/unknown-parasara-smrti-2259be/01/translation/#p-abc05c).\n[^11]: Parāśara Smṛti 1, [translation/#p-9c1fcd](https://falsafa.corpus/works/unknown-parasara-smrti-2259be/01/translation/#p-9c1fcd).\n[^12]: Manu Smṛti 3, [translation/#p-804011](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-804011).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dadan",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dāna\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "donation",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "giving smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dana",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dāna\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"law of gifts\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma gift",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gift",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "giving",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dāna",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gift to\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gift of a\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 29,
+      "paragraph_id": "p-afd7d9"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 29,
+      "paragraph_id": "p-981119"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 29,
+      "paragraph_id": "p-c56333"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 29,
+      "paragraph_id": "p-81e560"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 29,
+      "paragraph_id": "p-b061ae"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 29,
+      "paragraph_id": "p-43cff3"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 29,
+      "paragraph_id": "p-00c918"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 29,
+      "paragraph_id": "p-ac9998"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 29,
+      "paragraph_id": "p-bf5f54"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 29,
+      "paragraph_id": "p-abc05c"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 29,
+      "paragraph_id": "p-9c1fcd"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 29,
+      "paragraph_id": "p-804011"
+    }
+  ],
+  "duration_ms": 79562,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 170666,
+    "completion_tokens": 7093,
+    "total_tokens": 177759,
+    "cached_tokens": 35335,
+    "api_calls": 5,
+    "cost_usd": 0.05597335,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1558,
+        "completion_tokens": 915,
+        "total_tokens": 2473,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0005393
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2764,
+        "completion_tokens": 791,
+        "total_tokens": 3555,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0007185
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 10045,
+        "completion_tokens": 1295,
+        "total_tokens": 11340,
+        "cached_tokens": 150,
+        "cost_usd": 0.002634
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 22086,
+        "completion_tokens": 1757,
+        "total_tokens": 23843,
+        "cached_tokens": 10040,
+        "cost_usd": 0.0037897
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 134213,
+        "completion_tokens": 2335,
+        "total_tokens": 136548,
+        "cached_tokens": 22081,
+        "cost_usd": 0.04829185
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "answer": "**Ghalib's ghazal \"Rahiye ab aisi jagah\" (Diwan-e-Ghalib, ghazal 168)** celebrates solitude as a deliberate, almost ecstatic choice—a sanctuary from human ties, neighbors, and even death's rituals. The speaker seeks a place utterly devoid of companionship: \"Let's find a place where no one else is known, and be alone. No kindred voice, no soul to call my own, and be alone.\"[^1] This extends to envisioning a home without walls or guards, and enduring illness or death in perfect isolation: \"If sickness finds me, let no one hear my moan, And if I die, no mourner, and be alone.\"[^1] Rooted in 19th-century Urdu poetic tradition with Sufi undertones, the tone is defiant and liberated, solitude as self-willed transcendence over social bonds.\n\nIn stark contrast, **\"The Wanderer\" (Old English Elegies, poem 11)** portrays solitude as an agonizing fate imposed by *wyrd* (fate), exile, and loss. The speaker, a \"lone-dweller,\" laments his separation from lord, kin, and hall-joys, rowing endlessly over icy seas: \"Often the lone-dweller awaits grace, the Measurer's mercy, though he, heart-weary, across the water-way long must stir with his hands the rime-cold sea, tread paths of exile.\"[^2] Memories torment him—embracing a ghostly lord in dreams, only to wake to \"fallow waves\" and \"sea-birds\"—culminating in reflections on worldly decay: ruined halls, vanished warriors, and the loan of all earthly things.[^3] From the Anglo-Saxon world (c. 10th century), infused with heroic ethos and emerging Christian wisdom, solitude breeds sorrowful wisdom, urging patience and heavenly comfort over earthly attachments.\n\n### Similarities\nBoth evoke the raw essence of *aloneliness* without confidants or kin, fostering introspection amid hardship. Ghalib's \"no kindred voice\" mirrors the Wanderer's \"none now living to whom I dare my heart's secrets openly speak,\"[^4] where binding one's \"spirit-lock\" becomes survival. Each confronts mortality alone—Ghalib in quiet death, the Wanderer amid \"slaughters\" and ruins—highlighting human transience.\n\n### Differences\n| Aspect          | Ghalib's Solitude                          | The Wanderer's Solitude                     |\n|-----------------|--------------------------------------------|---------------------------------------------|\n| **Origin**     | Voluntary quest for spiritual freedom     | Involuntary exile from lost community       |\n| **Tone**       | Joyful, ascetic embrace (\"let's find\")    | Elegiac grief and stoic endurance           |\n| **Response**   | Defiance of society; no need for others   | Longing for lost bonds; wisdom through pain |\n| **Cultural World** | Mughal India: Sufi individualism, metaphor-rich ghazal | Anglo-Saxon England: Comital loyalty (*dryhten*-bond), *wyrd*, ruins (*eorðe*) |\n| **Resolution** | Pure aloneness as ideal end               | Turn to divine grace amid decay             |\n\nGhalib's is a personal, inward flight; the Wanderer's, a communal elegy for a vanished heroic age. These \"two solitudes\" bridge Persianate lyricism and Germanic lament, yet underscore how context—Sufi detachment vs. fatalistic piety—transforms isolation.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho/translation/](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho/translation/).\n[^2]: Unknown, *Old English Elegies*, [11-the-wanderer/translation/#p-9cca5e](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9cca5e).\n[^3]: Unknown, *Old English Elegies*, [11-the-wanderer/translation/#p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n[^4]: Unknown, *Old English Elegies*, [11-the-wanderer/translation/#p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "The Wanderer",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Rahiye ab aisi jagah",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib solitude",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.168 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "unknown-old-english-elegies-d5fe9e",
+        "topic": "solitude"
+      },
+      "result_summary": "{\"topic\":\"solitude\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwa"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9cca5e"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9462cc"
+    }
+  ],
+  "duration_ms": 51677,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 9776,
+    "completion_tokens": 3920,
+    "total_tokens": 13696,
+    "cached_tokens": 3065,
+    "api_calls": 3,
+    "cost_usd": 0.00345545,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1571,
+        "completion_tokens": 785,
+        "total_tokens": 2356,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006842
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2770,
+        "completion_tokens": 859,
+        "total_tokens": 3629,
+        "cached_tokens": 150,
+        "cost_usd": 0.000961
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "compare_works"
+        ],
+        "prompt_tokens": 5435,
+        "completion_tokens": 2276,
+        "total_tokens": 7711,
+        "cached_tokens": 2765,
+        "cost_usd": 0.00181025
+      }
+    ]
+  }
+}

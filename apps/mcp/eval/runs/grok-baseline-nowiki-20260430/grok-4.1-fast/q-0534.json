@@ -1,0 +1,404 @@
+{
+  "answer": "**Several works in the Falsafa corpus engage with the remembrance of the dead, primarily through ritual obligations in ancient Indic Dharmaśāstra (Smṛti) texts and through poetic lament and reflection on loss in medieval literature.**[^1]\n\n### Ritual Remembrance in Smṛti Texts\nThe largest body of relevant material appears in the Smṛti genre—ancient Sanskrit legal and ethical treatises—where \"remembering the dead\" centers on *śrāddha* (ancestral offerings), *piṇḍa* (rice-ball rites), and *pitṛkarman* (duties to ancestors or *Pitṛs*). These prescribe how the living honor, satisfy, and perpetuate the memory of deceased forebears (up to great-grandfathers) via monthly, annual, and occasional rites, often involving food offerings, gifts, and purity rules to ensure ancestral bliss and family continuity.[^2] Key works include:\n\n- **Āṅgirasa Smṛti**: Extensively details *śrāddha* protocols, such as performing last rites for unclaimed dead bodies (yielding merit equal to *aśvamedha* sacrifices), rules during eclipses or impurities (*sūtaka*), and tree-planting or gifts (*gaurī*, bull-release) that gratify ancestors indefinitely.[^3] Sons perform these even if fathers live, ensuring unbroken lineage memory.[^4]\n- **Bṛhaspati Smṛti**: References ancestral shares in inheritance and debts post-death, implying ongoing remembrance through familial obligations.[^5]\n- **Manusmṛti**: Mandates monthly *piṇḍānvahāryaka śrāddha* at new moons.[^6]\n- Similar treatments appear in **Kātyāyana Smṛti**, **Nārada Smṛti**, **Parāśara Smṛti**, **Viṣṇu Smṛti**, **Yama Smṛti**, and **Yājñavalkya Smṛti**, focusing on *pitṛyajña* (ancestor sacrifices) and prohibitions mixing ancestor/god offerings.[^7]\n\nThese texts frame remembrance as a cosmic duty: neglect condemns ancestors to hells like Raurava; fulfillment elevates the performer and lineage.[^8]\n\n### Poetic Lament and Transience in Old English Literature\n- **Old English Elegies**: This anthology meditates on mortality, exile, and lost kin/comrades through mournful reflection. Poems like *The Wanderer* lament dead lords (\"No shelter remains... all earth's kingdom / is dreary to me\"), *Wulf and Eadwacer* grieves a separated child (\"Wulf, my Wulf... a mourning mind\"), and *The Seafarer* evokes cuckoo's \"mournful cry\" amid life's sorrows, underscoring how memory of the dead haunts the living amid worldly ruin.[^9]\n- Cynewulf's saintly epics (**Andreas**, **Elene**, **Juliana**) feature mourning scenes, e.g., fiends \"mourned their meat-lack\" over devoured dead or saints \"mourn[ing] misery,\" blending heroic grief with eternal fame.[^10]\n\nUrdu ghazals (e.g., Ghalib's *Diwan-e-Ghalib*, Iqbal's *Bang-e-Dara*) evoke personal/familial mourning poetically (\"Now I am dead, let's see who... carries me\"), but less systematically than rituals or elegies.[^11]\n\nNo French, German, or other political works directly address this; the corpus lacks comprehensive coverage of funerary practices outside Indic and OE traditions.\n\n[^1]: Based on corpus-wide searches for \"ancestor,\" \"*śrāddha*,\" \"*Pitṛs*,\" \"mourn,\" and \"dead\"; 37 works total, with ~10 Smṛtis dominant.\n[^2]: E.g., [Āṅgirasa Smṛti, Chapter 1/translation/#p-9f5b93](https://falsafa-corpus.com/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-9f5b93).\n[^3]: [Āṅgirasa Smṛti, Chapter 1/translation/#p-211dbe](https://falsafa-corpus.com/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-211dbe).\n[^4]: [Āṅgirasa Smṛti, Chapter 1/translation/#p-b4077b](https://falsafa-corpus.com/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-b4077b).\n[^5]: Multiple refs. to post-death shares, e.g., [Bṛhaspati Smṛti, Chapter 1/translation/#p-2f967d](https://falsafa-corpus.com/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-2f967d).\n[^6]: [Manusmṛti, Chapter 4/translation/#p-a6dada](https://falsafa-corpus.com/works/unknown-manusmrti-347b76/04/translation/#p-a6dada).\n[^7]: Scattered via \"ancestor\" hits; e.g., Viṣṇu Smṛti Ch. 78–85 on *pitṛgītā* verses.\n[^8]: E.g., [Āṅgirasa Smṛti, Chapter 1/translation/#p-b50721](https://falsafa-corpus.com/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-b50721).\n[^9]: [Old English Elegies overview](https://falsafa-corpus.com/works/unknown-old-english-elegies-d5fe9e); specifics in Ch. 4–5, 11 [/05-maey-ich.../translation/#p-f52e2e](https://falsafa-corpus.com/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-f52e2e), [/04-leodum.../translation/#p-b85867](https://falsafa-corpus.com/works/unknown-old-english-elegies-d5fe9e/04-leodum-is-minum-swylce-him-mon-lac-gife/translation/#p-b85867).\n[^10]: E.g., [Andreas, Ch. 1/translation/#p-72e9c3](https://falsafa-corpus.com/works/cynewulf-andreas-07b573/01/translation/#p-72e9c3).\n[^11]: E.g., [Diwan-E-Ghalib, Ch. 13/translation/#p-be5a1d](https://falsafa-corpus.com/works/mirza-ghalib-diwan-e-ghalib-74ed4c/13-baagh-pa-kar-khafqani-yeh-darata-hai-mujhe/translation/#p-be5a1d).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "remember the dead",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "memory of the dead",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "honor the dead",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "commemorate the dead",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "remembered after death",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fame of the dead",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the dead\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "immortal fame",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"after death\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"name shall live\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "remembered after",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"glory forever\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dead",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "death memory",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fame glory",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eternal glory",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "undying fame",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancestors",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "śrāddha",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sraddha",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pitṛ",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pitrs",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancestor",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "elegy",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"slug\":\"unknown-angirasa-smrti-2bf9d1\",\"title\":\"Āṅgirasa Smṛti\",\"author\":\"Aṅgirasa\",\"author_slug\":\"angirasa\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"S"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "śrāddha OR sraddha OR shraddha OR pinda OR pitr OR ancestor rite",
+        "limit": 30
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "remember OR memory OR fame OR glory OR lament OR mourn dead OR ancestor",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-211dbe",
+          "p-9f5b93",
+          "p-b4077b"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-9f5b93"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-211dbe"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-b4077b"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-2f967d"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-a6dada"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-b50721"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-f52e2e"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-b85867"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-72e9c3"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-be5a1d"
+    }
+  ],
+  "duration_ms": 73323,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 64745,
+    "completion_tokens": 7848,
+    "total_tokens": 72593,
+    "cached_tokens": 16383,
+    "api_calls": 6,
+    "cost_usd": 0.014415550000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 633,
+        "total_tokens": 2183,
+        "cached_tokens": 149,
+        "cost_usd": 0.00060415
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1929,
+        "completion_tokens": 915,
+        "total_tokens": 2844,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008208
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2298,
+        "completion_tokens": 821,
+        "total_tokens": 3119,
+        "cached_tokens": 1924,
+        "cost_usd": 0.0005815
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11723,
+        "completion_tokens": 1181,
+        "total_tokens": 12904,
+        "cached_tokens": 2293,
+        "cost_usd": 0.00259115
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20334,
+        "completion_tokens": 1661,
+        "total_tokens": 21995,
+        "cached_tokens": 11718,
+        "cost_usd": 0.0031396
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_metadata",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "get_passage"
+        ],
+        "prompt_tokens": 26911,
+        "completion_tokens": 2637,
+        "total_tokens": 29548,
+        "cached_tokens": 149,
+        "cost_usd": 0.00667835
+      }
+    ]
+  }
+}

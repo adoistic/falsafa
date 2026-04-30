@@ -1,0 +1,303 @@
+{
+  "answer": "**I was unable to locate a couplet by Mirza Ghalib matching the description of \"the heart being a piece of meat for the eyes' beak\" (or close variations like heart/flesh/meat with beak/talon/claw/nail/eye/glance/prey/falcon) in the English translation of *Diwan-e-Ghalib*.** \n\nThe corpus includes the full *Diwan-e-Ghalib* (239 ghazals),[^1] and I ran extensive searches on the English bodies for relevant phrases and keywords (e.g., \"heart meat eyes beak\", \"heart flesh eye\", \"meat heart\", \"beak\", \"heart eyes\", \"heart glance\"), but none matched in Ghalib's work.[^2] \"Beak\" appears only in unrelated texts like *Manusmṛti*.[^3]\n\nIt's possible the specific phrasing isn't used in this translation, the couplet uses different imagery, or it's not present in the corpus. If you have more details (e.g., a line in Urdu or radif/qafiya), I can search further.\n\n[^1]: *Diwan-E-Ghalib*, metadata overview (full work slug: mirza-ghalib-diwan-e-ghalib-74ed4c).\n[^2]: Multiple `search_corpus` results returned zero hits for Ghalib-related matches.\n[^3]: E.g., *Manusmṛti*, Chapter 5, [p-8f3656](https://falsafa.corpus/works/unknown-manusmrti-347b76/05/translation/#p-8f3656).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heart meat eyes beak",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"piece of meat\" eyes",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" \"meat\" \"beak\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" beak",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eyes\" beak",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"meat\" heart",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"flesh\" heart eyes",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heart eyes beak",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" \"nail\" eye",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" talon",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" \"claw\" eye",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" \"flesh\" eye",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lump of flesh\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "beak",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" falcon",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eye\" falcon",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eye\" \"beak\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heart prey eye",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"meat\" eye",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" \"eye\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" \"eyes\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" glance",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dil\" eye",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-8f3656"
+    }
+  ],
+  "duration_ms": 86186,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 15193,
+    "completion_tokens": 6678,
+    "total_tokens": 21871,
+    "cached_tokens": 7518,
+    "api_calls": 6,
+    "cost_usd": 0.0052499,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 502,
+        "total_tokens": 2065,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00033425
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1928,
+        "completion_tokens": 858,
+        "total_tokens": 2786,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0005851
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2241,
+        "completion_tokens": 1524,
+        "total_tokens": 3765,
+        "cached_tokens": 1923,
+        "cost_usd": 0.00092175
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2576,
+        "completion_tokens": 1279,
+        "total_tokens": 3855,
+        "cached_tokens": 2236,
+        "cost_usd": 0.0008193
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3315,
+        "completion_tokens": 1306,
+        "total_tokens": 4621,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012935
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3570,
+        "completion_tokens": 1209,
+        "total_tokens": 4779,
+        "cached_tokens": 150,
+        "cost_usd": 0.001296
+      }
+    ]
+  }
+}

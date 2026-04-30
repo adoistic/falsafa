@@ -1,0 +1,159 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation*, Volume I (Chapter 21),** argues precisely this point.[^1]\n\nComte contends that natural pains inflicted on those indulging in vices—physical sufferings from misery and disease, moral pains like contempt and abandonment—serve as society's primary check against such behaviors, since the pleasures remain immediate while the penalties are distant.[^2] Charitable institutions undermine this balance by alleviating these penalties for the vicious without touching the pleasures, thereby encouraging vice. He illustrates with prostitution: foundling hospitals (or lying-in houses) relieve mothers of childbirth costs and cares; orphanages support illegitimate children; venereal disease hospitals treat related illnesses; and asylums for \"repentant\" prostitutes offer shelter, sustenance, and social reintegration, shielding them from contempt.[^3]\n\nThe key passage likening these to breaking prison doors reads:\n\n> Now, any act by which an individual, a society, or a government diminishes the publicity, intensity, duration, or certainty of any of these pains, is an attack on good customs. Such an act has the effect of weakening the only guarantee that each of us possesses against the vices of others; **it acts, with regard to vicious habits, as would act, with regard to the actions that authority represses, the existence of a society that, out of humanity, made it a duty to go and break down the doors of prisons**.[^4]\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 21](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/).\n\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [p-b31bb4](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-b31bb4).\n\n[^3]: Charles Comte, *Traité de Législation: VOL I*, [paragraphs p-cd2fdf to p-273291](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-cd2fdf).\n\n[^4]: Charles Comte, *Traité de Législation: VOL I*, [p-b31bb4](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-b31bb4).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"foundling hospitals\" OR \"lying-in\" OR \"repentant prostitutes\" OR \"doors of prisons\"",
+        "limit": 20
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"break down the doors\" prisons",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"foundling hospital\" charity",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 21
+      },
+      "result_summary": "Read ch.21 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"foundling\" hospitals",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lying-in\" OR \"lying in\" hospital OR house OR unwed OR mothers OR prostitutes OR repentant charity OR asylum",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 21,
+        "paragraph_ids": [
+          "p-b31bb4",
+          "p-33355b",
+          "p-cf4a25",
+          "p-cd2fdf",
+          "p-ff6980",
+          "p-682ecc",
+          "p-273291"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 7 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 21,
+      "paragraph_id": "p-b31bb4"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 21,
+      "paragraph_id": "p-cd2fdf"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 21,
+      "paragraph_id": "p-273291"
+    }
+  ],
+  "duration_ms": 61587,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 62037,
+    "completion_tokens": 3034,
+    "total_tokens": 65071,
+    "cached_tokens": 32762,
+    "api_calls": 4,
+    "cost_usd": 0.0090101,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1613,
+        "completion_tokens": 398,
+        "total_tokens": 2011,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00029225
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3090,
+        "completion_tokens": 622,
+        "total_tokens": 3712,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009065
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 28003,
+        "completion_tokens": 566,
+        "total_tokens": 28569,
+        "cached_tokens": 3085,
+        "cost_usd": 0.00542085
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 29331,
+        "completion_tokens": 1448,
+        "total_tokens": 30779,
+        "cached_tokens": 27998,
+        "cost_usd": 0.0023905
+      }
+    ]
+  }
+}

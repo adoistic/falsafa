@@ -1,0 +1,307 @@
+{
+  "answer": "In Cynewulf's *Elene*, Helena's authority reaches its height of independence when she leads a legion to Jerusalem on her son's behalf, acting as \"war-queen\" with her own \"purpose in mind,\" assembling and interrogating Jewish elders, and driving the narrative quest for the True Cross.[^1] She prevails through her bold command, dream-inspired resolve, and unyielding questioning, without direct oversight from Constantine.\n\nIn the *Manusmṛti*, the pativrata ideal—embodying the devoted wife whose life revolves around her husband—is most starkly circumscribed by total dependence: \"Her father protects her in childhood, her husband protects her in youth, and her sons protect her in old age; a woman is never fit for independence.\"[^2] The *Yājñavalkya Smṛti* echoes this precisely.[^3]\n\nThese are ideals *describing women*: Helena as the divinely empowered imperial agent, autonomous in her sacred errand; the pativrata as the model of wifely subordination, her virtue defined by selfless orientation to her protector(s). They prescribe how women realize excellence in their roles, rather than mutual obligations owed *to* women (who instead owe service: to God/empire, or to kin).\n\n[^1]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-534627).\n\n[^2]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-233021).\n\n[^3]: *Yājñavalkya Smṛti*, [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-04adc1).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Helena\" Elene Cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pativrata"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"woman\" \"independent\" OR \"independence\" Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife\" duty husband OR devoted OR pativrata OR \"lord\" Manu OR Yajnavalkya"
+      },
+      "result_summary": "Found 26 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Helena authority OR command OR queen OR empress Elene"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife\" OR \"woman\" \"husband\" \"dependence\" OR \"independent\" OR \"obey\" Manu OR Yajnavalkya"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pativrata OR \"devoted wife\" OR \"chaste wife\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-534627"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7b1c1f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-233021"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-27f62f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-04adc1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-534627"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-233021"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-04adc1"
+    }
+  ],
+  "duration_ms": 53294,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 204197,
+    "completion_tokens": 5031,
+    "total_tokens": 209228,
+    "cached_tokens": 111885,
+    "api_calls": 5,
+    "cost_usd": 0.02657215,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1617,
+        "completion_tokens": 605,
+        "total_tokens": 2222,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006034
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2332,
+        "completion_tokens": 839,
+        "total_tokens": 3171,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008634
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19648,
+        "completion_tokens": 1436,
+        "total_tokens": 21084,
+        "cached_tokens": 2327,
+        "cost_usd": 0.00429855
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 89620,
+        "completion_tokens": 1189,
+        "total_tokens": 90809,
+        "cached_tokens": 19643,
+        "cost_usd": 0.01557205
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 90980,
+        "completion_tokens": 962,
+        "total_tokens": 91942,
+        "cached_tokens": 89615,
+        "cost_usd": 0.00523475
+      }
+    ]
+  }
+}

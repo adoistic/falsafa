@@ -1,0 +1,270 @@
+{
+  "answer": "For Johann Gottlieb Fichte, *Denkfreiheit* (freedom of thought) is the inalienable human right to freely direct one's own ideas through self-activity, independent of external compulsion, distinguishing humanity from animals and essential to personhood, conscience, morality, and connection to the divine spirit-world.[^1] It encompasses not only private thinking but also unrestricted communication of thoughts (true or false), as prohibiting the latter undermines the former; princes and states derive no legitimate authority over it from the social contract, as it cannot be alienated without dehumanizing individuals into \"irrational creatures\" or \"animals.\"[^2] Suppression of *Denkfreiheit*—e.g., censorship, compelled professions of belief, or state-defined truth—is thus unjust, as rulers' role is solely to protect rights, not impose intellectual or moral guardianship.[^3]\n\nCharles Comte defines liberty more broadly as \"the state of a person who encounters, in his fellow men, no obstacle... to the regular development of his being, or to the innocent exercise of his faculties,\" making it the essential precondition for all rights and duties.[^4] It negates slavery's core principle—that one man may possess another's person/labor for his own ends—ensuring self-ownership, exclusive right to labor's fruits (absent voluntary alienation), free choice of occupation, education of children, association, mobility, arms-bearing, and accountability of authorities.[^5] Liberty prevails where public force protects against violence rather than enabling masters; it is not mere absence of nominal slavery but destruction of all dominion-like relations (e.g., feudal, despotic), even if not labeled as such.[^6]\n\nCharles Dunoyer similarly conceives liberty as \"this *power* that man acquires to use his forces more easily *as he frees himself* from the obstacles that originally hindered their exercise,\" proportional to civilization's progress in faculties (strength, knowledge, industry), self-regulation (avoiding self-harm via prudence/temperance), and justice (non-aggression toward others).[^7] Individuals/peoples become freer through moral/industrial development, not birthright or state grant; violence/domination (even by \"strong armies\") erodes it via reprisals/insecurity, while peaceful, skillful labor expands it.[^8] Government is not liberty's source but society's expression for repressing violence; true liberty emerges from all human progress, crowning in political capacity but not confined to it.[^9]\n\nFichte's *Denkfreiheit* is a specific, moral-intellectual absolute—an inviolable \"divine spark\" against state/princely overreach—while Comte and Dunoyer's liberty is a general, progressive capacity for unfettered personal/societal action, rooted in self-ownership, non-violence, and industrial civilization versus exploitative classes.[^10] Fichte targets censorship as dehumanizing; Comte/Dunoyer emphasize property/labor freedom against slavery-like impediments, viewing intellectual liberty as one faculty among many enabled by broader emancipation (though Fichte's work influenced related Enlightenment critiques). Neither Comte nor Dunoyer corpus explicitly addresses Fichte's *Denkfreiheit*, but their frameworks subordinate thought-freedom to holistic faculty-development absent domination.\n\n[^1]: Fichte, *Zurückforderung der Denkfreiheit*, Ch. 2, [p-e62dae](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-e62dae).\n[^2]: Fichte, *Zurückforderung der Denkfreiheit*, Ch. 2, [p-e62dae](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-e62dae); [p-b0279a](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-b0279a).\n[^3]: Fichte, *Zurückforderung der Denkfreiheit*, Ch. 2, [p-5ec8d2](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-5ec8d2).\n[^4]: Comte, *Traité de la propriété* Vol. I, Ch. 3, [p-1c5676](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/03/translation/#p-1c5676).\n[^5]: Comte, *Traité de la propriété* Vol. I, Ch. 3, [p-86c544](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/03/translation/#p-86c544).\n[^6]: Comte, *Traité de la propriété* Vol. I, Ch. 3, [p-9b6829](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/03/translation/#p-9b6829).\n[^7]: Dunoyer, *Nouveau traité d'économie* Vol. I, Ch. 1, [p-fc8999](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01/translation/#p-fc8999).\n[^8]: Dunoyer, *Nouveau traité d'économie* Vol. I, Ch. 1, [p-ec06ba](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01/translation/#p-ec06ba); [p-39cc44](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01/translation/#p-39cc44).\n[^9]: Dunoyer, *Nouveau traité d'économie* Vol. I, Ch. 1, [p-132c59](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01/translation/#p-132c59).\n[^10]: Comte, *Traité de la propriété* Vol. I, Ch. 3, [p-2ffb13](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/03/translation/#p-2ffb13) (notes Dunoyer's related but distinct usage).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "fichte"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"thought-freedom\" OR \"denkfreiheit\" OR \"freedom of thought\" fichte",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberty OR freedom comte OR dunoyer property",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "Listed 2 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"freedom of thought\" OR \"denkfreiheit\" OR \"thought freedom\" OR \"liberty of thought\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"slug\":\"charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce\",\"title\":\"Nouveau traité d'économie: VOL I\",\"author\":\"Charles Dunoyer\",\"author_slug\":\"charles-dunoyer\",\"era\":\"19th Century\",\"era_slug\":\"1"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-e62dae",
+          "p-5ec8d2",
+          "p-b0279a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-9b6829",
+          "p-1c5676",
+          "p-86c544"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 3,
+      "paragraph_id": "p-e62dae"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 3,
+      "paragraph_id": "p-b0279a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 3,
+      "paragraph_id": "p-5ec8d2"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 3,
+      "paragraph_id": "p-1c5676"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 3,
+      "paragraph_id": "p-86c544"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 3,
+      "paragraph_id": "p-9b6829"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 3,
+      "paragraph_id": "p-fc8999"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 3,
+      "paragraph_id": "p-ec06ba"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 3,
+      "paragraph_id": "p-39cc44"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 3,
+      "paragraph_id": "p-132c59"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 3,
+      "paragraph_id": "p-2ffb13"
+    }
+  ],
+  "duration_ms": 48209,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 80397,
+    "completion_tokens": 4685,
+    "total_tokens": 85082,
+    "cached_tokens": 39044,
+    "api_calls": 4,
+    "cost_usd": 0.012565299999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1566,
+        "completion_tokens": 698,
+        "total_tokens": 2264,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006397
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8644,
+        "completion_tokens": 946,
+        "total_tokens": 9590,
+        "cached_tokens": 150,
+        "cost_usd": 0.0021793
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30110,
+        "completion_tokens": 903,
+        "total_tokens": 31013,
+        "cached_tokens": 8639,
+        "cost_usd": 0.00517765
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_metadata",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 40077,
+        "completion_tokens": 2138,
+        "total_tokens": 42215,
+        "cached_tokens": 30105,
+        "cost_usd": 0.00456865
+      }
+    ]
+  }
+}

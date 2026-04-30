@@ -1,0 +1,318 @@
+{
+  "answer": "**Viṣṇu Smṛti, Chapter 43**, enumerates the requested sequence of twenty-one hells (*narakas*), among others, precisely matching the names and order given (with additional hells interspersed, such as Mahānaraka after Kālasūtra).[^1]\n\nThe named hells from the query appear in this order:\n\n> Tāmisra (Darkness). // Vi_43.2 //  \n> Andhatāmisra (Blinding Darkness). // Vi_43.3 //  \n> Raurava (Howling). // Vi_43.4 //  \n> Mahāraurava (Great Howling). // Vi_43.5 //  \n> Kālasūtra (The Black Thread). // Vi_43.6 //  \n> ...  \n> Saṃjīvana (Reviving). // Vi_43.8 //  \n> Avīci (Waveless). // Vi_43.9 //  \n> ...  \n> Kuḍmala (Bud). // Vi_43.14 //  \n> Pūtimṛttika (Putrid Clay). // Vi_43.15 //  \n> Lohaśaṅku (Iron Spike). // Vi_43.16 //  \n> ...  \n> Kaṇṭakaśālmali (Thorny Silk-Cotton Tree). // Vi_43.19 //  \n> ...  \n> Asipatravana (Forest of Sword-leaves). // Vi_43.21 //  \n> Lohacāraka (Iron Cage). // Vi_43.22 //\n\nIt then specifies the durations as requested:\n\n> In these, those who have committed heinous sins without performing *prāyaścitta* are tormented in succession for a Kalpa. // Vi_43.23 //[^2]  \n> Great sinners, for a Manvantara. // Vi_43.24 //\n\n[^1]: Viṣṇu Smṛti, *Chapter 43*, [paragraphs](/works/unknown-visnu-smrti-27f0d8/43/translation/#p-c760bd).\n\n[^2]: Viṣṇu Smṛti, *Chapter 43*, [paragraphs](/works/unknown-visnu-smrti-27f0d8/43/translation/#p-fc7b11).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tāmisra Andhatāmisra Raurava",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Tamisra\" \"Andhatamisra\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Lohacāraka hell",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Raurava\" hell",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Avīci\" OR \"Avici\" hell",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kālasūtra\" OR \"Kalasutra\" hell",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Lohacāraka\" OR \"Lohacaraka\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hell kalpa manvantara",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"iron\" hell OR naraka",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tamisra"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "raurava"
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "avici"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naraka kalpa"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kalpa\" manvantara"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hell OR naraka",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 43,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.43 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 44,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.44 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 43,
+        "paragraph_ids": [
+          "p-c760bd",
+          "p-d9c8de",
+          "p-5fc195",
+          "p-a020ea",
+          "p-49fc10",
+          "p-b609bc",
+          "p-58cbfc",
+          "p-2d1bd6",
+          "p-29bc4f",
+          "p-40419e",
+          "p-b7445c",
+          "p-13101d",
+          "p-6dbb5f",
+          "p-aaf2ef",
+          "p-053f64",
+          "p-50119e",
+          "p-6b18ef",
+          "p-74f3c5",
+          "p-d37037",
+          "p-0fab36",
+          "p-7f9b8e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 21 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 43,
+        "paragraph_ids": [
+          "p-fc7b11",
+          "p-cd0885"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 43,
+      "paragraph_id": "p-c760bd"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 43,
+      "paragraph_id": "p-fc7b11"
+    }
+  ],
+  "duration_ms": 60771,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 87226,
+    "completion_tokens": 7013,
+    "total_tokens": 94239,
+    "cached_tokens": 54251,
+    "api_calls": 7,
+    "cost_usd": 0.012814049999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1719,
+        "completion_tokens": 562,
+        "total_tokens": 2281,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00039545
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1942,
+        "completion_tokens": 939,
+        "total_tokens": 2881,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0006278
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2381,
+        "completion_tokens": 199,
+        "total_tokens": 2580,
+        "cached_tokens": 1937,
+        "cost_usd": 0.00028515
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 5704,
+        "completion_tokens": 1301,
+        "total_tokens": 7005,
+        "cached_tokens": 2376,
+        "cost_usd": 0.0014349
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8027,
+        "completion_tokens": 704,
+        "total_tokens": 8731,
+        "cached_tokens": 5699,
+        "cost_usd": 0.00110255
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 33159,
+        "completion_tokens": 1315,
+        "total_tokens": 34474,
+        "cached_tokens": 8022,
+        "cost_usd": 0.006086
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 34294,
+        "completion_tokens": 1993,
+        "total_tokens": 36287,
+        "cached_tokens": 33154,
+        "cost_usd": 0.0028822
+      }
+    ]
+  }
+}

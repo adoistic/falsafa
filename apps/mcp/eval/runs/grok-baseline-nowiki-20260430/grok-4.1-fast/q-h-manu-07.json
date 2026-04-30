@@ -1,0 +1,223 @@
+{
+  "answer": "**No work in the Falsafa corpus pairs both doctrines as described.**\n\nThe Parāśara Smṛti (Chapter 1) states the age-specific \"highest dharma\" (*tapas* in Kṛta, *jñāna* in Tretā, *yajña* in Dvāpara, *dāna* in Kali), but it does not mention Dharma losing its four feet (*pāda*) progressively.[^1]\n\n[^1]: Parāśara Smṛti, Chapter 1, [p-afd7d9](/works/unknown-parasara-smrti-2259be/01/translation/#p-afd7d9).\n\nExtensive searches across the corpus (including for \"dharma\" with \"foot/feet/leg/pada/quarter(s)/loses/loss\" and yuga terms like Kṛta/Tretā/Dvāpara/Kali) yielded no matches for Dharma progressively losing a foot/leg/pada in successive ages. This motif appears in texts like the Mahābhārata or Viṣṇu Purāṇa (not in the corpus), but nothing here combines both ideas. The corpus covers 37 works, primarily Smṛtis; not every topic is included.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma loses one foot",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"four feet\" dharma yuga",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"highest dharma\" austerity knowledge sacrifice giving",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tapas\" \"jnana\" \"yajna\" \"dana\" dharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" \"four\" OR \"pada\" OR \"feet\" OR \"legs\" OR \"quarters\" yuga",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tapas\" OR \"austerity\" \"jñāna\" OR \"knowledge\" \"yajña\" OR \"sacrifice\" \"dāna\" OR \"giving\" OR \"charity\" yuga",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kṛta\" OR \"krita\" \"treta\" \"dvapara\" \"kali\" (tapas OR austerity OR knowledge OR jnana OR sacrifice OR yajna OR giving OR dana)",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" (foot OR feet OR leg OR legs OR pada OR quarter OR \"four\" OR three OR two OR one) (kṛta OR krita OR satya OR treta OR dvapara OR kali OR yuga)",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" pada yuga",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma \"stands on\" OR \"one leg\" OR \"three legs\" OR \"two legs\" OR \"four legs\" yuga",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" (cow OR bull OR \"four feet\" OR pada OR leg OR foot) (kali OR yuga OR treta OR dvapara OR kṛta)",
+        "limit": 20
+      },
+      "result_summary": "Found 18 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma (loses OR loss OR \"one foot\" OR \"three feet\" OR \"two feet\") yuga",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smrti"
+      },
+      "result_summary": "Listed 0 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-afd7d9"
+    }
+  ],
+  "duration_ms": 45265,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 75473,
+    "completion_tokens": 4804,
+    "total_tokens": 80277,
+    "cached_tokens": 51987,
+    "api_calls": 6,
+    "cost_usd": 0.00969855,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1595,
+        "completion_tokens": 484,
+        "total_tokens": 2079,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00033135
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4449,
+        "completion_tokens": 264,
+        "total_tokens": 4713,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00079215
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 9274,
+        "completion_tokens": 1243,
+        "total_tokens": 10517,
+        "cached_tokens": 4444,
+        "cost_usd": 0.0018097
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 15902,
+        "completion_tokens": 1240,
+        "total_tokens": 17142,
+        "cached_tokens": 9269,
+        "cost_usd": 0.00241005
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19320,
+        "completion_tokens": 823,
+        "total_tokens": 20143,
+        "cached_tokens": 15897,
+        "cost_usd": 0.00189095
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 24933,
+        "completion_tokens": 750,
+        "total_tokens": 25683,
+        "cached_tokens": 19315,
+        "cost_usd": 0.00246435
+      }
+    ]
+  }
+}

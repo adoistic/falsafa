@@ -1,0 +1,233 @@
+{
+  "answer": "**Manusmṛti 10.45** defines *mlecchas* (barbarians) as any groups outside the four varṇas originating from the body of the primordial man, regardless of whether they speak Aryan or *mleccha* languages: \"Whatever castes in the world are outside those born from the mouth, arms, thighs, and feet, whether they speak the language of the *mlecchas* or of the Aryans, they are all remembered as barbarians.\"[^1] This draws a rigid **inside/outside line** based on ritual purity, caste origin, and cultural-linguistic norms: the *āryāvarta* (land fit for sacrifice) is the inside for twice-born castes; *mlecchas* are polluting outsiders whose customs, speech, and origins bar them from full dharma participation, justifying social exclusion and hierarchy.[^2]\n\n**Allama Iqbal's \"Dil se jo baat nikalti hai asar rakhti hai\" (Bang-e-Drā, Part 3)** uses *kāfirs* (unbelievers) in a retort to critics mocking Muslim paradise promises:  \n> If Kafirs live by Muslim codes, they’ll find  \n> Both palaces and Houris for their kind.[^3]\n\nIqbal's line blurs the **inside/outside divide** doctrinally: *kāfirs* are nominal outsiders (non-Muslims), but divine justice is universal—anyone following Islam's ethical \"codes\" (not mere labels) enters the fold, emphasizing behavior over birth or declaration. This has expansive political reach, countering communal rigidity by promoting an inclusive *khilāfat*-inspired ummah open to ethical convergence.\n\nThe contrast: Manu's *mleccha* enforces an impermeable cultural-caste barrier with geographic and ritual stakes; Iqbal's *kāfir* posits a permeable faith-action threshold, aligning with his modernist Islamic universalism.\n\n[^1]: *Manusmṛti*, [10/translation/#p-19acb7](https://falsafa.corpus/works/unknown-manusmrti-347b76/10/translation/#p-19acb7).\n\n[^2]: *Manusmṛti*, [2/translation/#p-265a9e](https://falsafa.corpus/works/unknown-manusmrti-347b76/02/translation/#p-265a9e).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, [4/translation/#p-072edd](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-072edd).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mleccha",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kafir Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "law"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kafir",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kafir\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "infidel Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "unbeliever Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-19acb7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-265a9e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-072edd"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "paragraph_ids": [
+          "p-00d472"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-19acb7"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-19acb7"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-265a9e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-072edd"
+    }
+  ],
+  "duration_ms": 43007,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 18883,
+    "completion_tokens": 3872,
+    "total_tokens": 22755,
+    "cached_tokens": 9534,
+    "api_calls": 4,
+    "cost_usd": 0.0042825,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1590,
+        "completion_tokens": 554,
+        "total_tokens": 2144,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005725
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3416,
+        "completion_tokens": 934,
+        "total_tokens": 4350,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00092085
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 4449,
+        "completion_tokens": 939,
+        "total_tokens": 5388,
+        "cached_tokens": 3411,
+        "cost_usd": 0.00084765
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "list_chapters",
+          "list_chapters",
+          "get_passage"
+        ],
+        "prompt_tokens": 9428,
+        "completion_tokens": 1445,
+        "total_tokens": 10873,
+        "cached_tokens": 4444,
+        "cost_usd": 0.0019415
+      }
+    ]
+  }
+}

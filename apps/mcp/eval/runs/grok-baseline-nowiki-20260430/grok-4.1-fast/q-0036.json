@@ -1,0 +1,195 @@
+{
+  "answer": "**Ghalib's ghazal \"Yeh na thi hamāri qismat ke visāl-e-yār hotā\" (Chapter 204 of *Diwan-e-Ghalib*) opens by lamenting that union (visāl) with the beloved (yār) was not the poet's fate (qismat).**[^1]\n\nThe first sher (couplet) states this directly in translation:\n\n> To be with my Beloved was not my fate;  \n> Had I lived longer, waiting was my state.[^1]\n\nThe poem expands on this theme of unfulfilled longing, portraying the beloved's promises as false, the speaker's sorrow as inevitable, and union as impossible due to destiny. It reflects resignation to separation (firaq), with the heart enduring perpetual torment rather than achieving the joy of meeting.[^2]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/204-yeh-na-thi-hamari-qismat-ke-visaal-e-yaar-hota/translation/#p-e43078).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/204-yeh-na-thi-hamari-qismat-ke-visaal-e-yaar-hota/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ye na thi hamari qismat",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"union with the beloved\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"not our fate\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"was not our destiny\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "qismat beloved"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ye na thi\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-Ghalib\",\"author\":\"Mirza Ghalib\",\"author_slug\":\"mirza-ghalib\",\"era\":\"19th Century\",\"era_slug\":\"19th-century\",\"genre\":\"Literature\",\"genre_sl"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fate beloved",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "destiny union",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.204 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-e43078"
+    }
+  ],
+  "duration_ms": 39959,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 49240,
+    "completion_tokens": 3055,
+    "total_tokens": 52295,
+    "cached_tokens": 25396,
+    "api_calls": 5,
+    "cost_usd": 0.007566100000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 387,
+        "total_tokens": 1943,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004822
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1995,
+        "completion_tokens": 778,
+        "total_tokens": 2773,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00055865
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2264,
+        "completion_tokens": 785,
+        "total_tokens": 3049,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008228
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21313,
+        "completion_tokens": 314,
+        "total_tokens": 21627,
+        "cached_tokens": 2259,
+        "cost_usd": 0.00408075
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 22112,
+        "completion_tokens": 791,
+        "total_tokens": 22903,
+        "cached_tokens": 21308,
+        "cost_usd": 0.0016217
+      }
+    ]
+  }
+}

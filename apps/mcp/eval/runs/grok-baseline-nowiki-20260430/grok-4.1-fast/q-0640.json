@@ -1,0 +1,177 @@
+{
+  "answer": "In Allama Iqbal's *Bang-E-Dara Part 1*, the term **tasawwur** appears in the poem \"Himalaya\" (Chapter 25). There, it is personified and directly apostrophized (\"ae tasawwur\") as an imaginative or visualizing faculty capable of conjuring visions of the past.[^1] The translator renders it as **Fantasy** in this context:\n\n> O, show me, **Fantasy**, that dawn and dusk once more![^2]  \n> O, wheel of time, turn back to days that came before!\n\nThis invocation follows the poet's request to the Himalaya to recount humanity's primordial simplicity, positioning *tasawwur* as the creative power to mentally reconstruct or visualize lost eras of innocence.[^3]\n\nNo other uses of *tasawwur* appear in the *Bang-E-Dara* portions of the corpus.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, Ch. 25 \"Himalaya\" (transliteration), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/transliteration/#p-417cdf).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, Ch. 25 \"Himalaya\" (translation), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/#p-417cdf).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, Ch. 25 \"Himalaya\" (translation), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/#p-0675a0).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tasawwur",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bang-e-dara\" OR \"bang e dara\" OR \"bange dara\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tasawwur iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tasawwur",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "paragraph_ids": [
+          "p-417cdf",
+          "p-0675a0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "paragraph_ids": [
+          "p-417cdf"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "paragraph_range": {
+          "start": 24,
+          "end": 25
+        },
+        "variant": "transliteration"
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [24, 25] is invalid"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 25,
+      "paragraph_id": "p-417cdf"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 25,
+      "paragraph_id": "p-0675a0"
+    }
+  ],
+  "duration_ms": 34836,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 21252,
+    "completion_tokens": 4011,
+    "total_tokens": 25263,
+    "cached_tokens": 12099,
+    "api_calls": 4,
+    "cost_usd": 0.00444105,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1558,
+        "completion_tokens": 625,
+        "total_tokens": 2183,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006016
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4425,
+        "completion_tokens": 670,
+        "total_tokens": 5095,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011975
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7384,
+        "completion_tokens": 1532,
+        "total_tokens": 8916,
+        "cached_tokens": 4420,
+        "cost_usd": 0.0015798
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 7885,
+        "completion_tokens": 1184,
+        "total_tokens": 9069,
+        "cached_tokens": 7379,
+        "cost_usd": 0.00106215
+      }
+    ]
+  }
+}

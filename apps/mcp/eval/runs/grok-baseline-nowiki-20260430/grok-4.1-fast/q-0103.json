@@ -1,0 +1,170 @@
+{
+  "answer": "**Manusmṛti (Laws of Manu) 9.59–64** outlines the practice of *niyoga*, permitting a widow to bear a son through her husband's brother (brother-in-law) or a *sapiṇḍa* kinsman only when the family line faces extinction.[^1]\n\nThe appointed brother-in-law must beget **one son only** (9.60), after which their relationship ends: \"they should behave towards each other as a *guru* and a daughter-in-law\" (9.62). Some authorities allow a second son if the first fails to fulfill the purpose, but exceeding this out of lust makes both outcastes (9.61, 9.63). A widow who has borne such a son **must not be appointed to another man**, as it violates eternal Dharma, and *niyoga* is not a form of remarriage (9.64–65).[^1]\n\nThe son (*kṣetraja*) belongs to the deceased husband and inherits like an *aurasa* (legitimate) son.[^2]\n\n[^1]: Manusmṛti, [Chapter 9, paragraphs p-a1e160 to p-f00094](/works/unknown-manusmrti-347b76/09/translation/#p-a1e160).\n[^2]: Manusmṛti, *Chapter 9* (see verses 144–147, 166–167).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"widow\" \"brother\" \"son\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "widow brother son",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"husband's brother\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "niyoga"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-a1e160",
+          "p-f4dfaf",
+          "p-47bc74",
+          "p-94a511",
+          "p-d50ed6",
+          "p-f00094"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-ade2ad"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-a1e160"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-f00094"
+    }
+  ],
+  "duration_ms": 42551,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 43669,
+    "completion_tokens": 4777,
+    "total_tokens": 48446,
+    "cached_tokens": 23628,
+    "api_calls": 4,
+    "cost_usd": 0.007578099999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 581,
+        "total_tokens": 2143,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00037325
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2494,
+        "completion_tokens": 445,
+        "total_tokens": 2939,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006988
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19463,
+        "completion_tokens": 2385,
+        "total_tokens": 21848,
+        "cached_tokens": 2489,
+        "cost_usd": 0.00471175
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 20150,
+        "completion_tokens": 1366,
+        "total_tokens": 21516,
+        "cached_tokens": 19458,
+        "cost_usd": 0.0017943
+      }
+    ]
+  }
+}

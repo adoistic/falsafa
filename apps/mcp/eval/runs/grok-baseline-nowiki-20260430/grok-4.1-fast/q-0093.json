@@ -1,0 +1,219 @@
+{
+  "answer": "In Allama Iqbal's poem \"Jugnu\" (\"The Firefly\") from *Bang-E-Dara Part 1*, the firefly's diminutive light—contrasted with grander natural phenomena like stars or candles—serves as a metaphor for the subtle yet profound manifestation of **Primal Beauty** (or divine essence) inherent in all creation.[^1] Nature endows every entity with a unique grace, such as the moth's burning passion or the firefly's self-contained glow.[^2]\n\nThis light reveals deeper truths:  \n- The firefly's \"daytime\" aligns with humanity's \"deepest night,\" highlighting how superficial distinctions (e.g., light vs. scent vs. speech) are merely human illusions obscuring underlying unity.[^3]  \n- Its shine equates to the rose's fragrance or the poet's heartfelt sorrow—all are traces of the same eternal, singular reality (\"Eternal Silence\") amid multiplicity (\"the Many\").[^4]  \n\nUltimately, the firefly teaches **non-strife amid diversity**: differences in form should not breed conflict, as all life hides the same divine oneness.[^5]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-81ff7c).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-9135b8).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraphs](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-2290ee).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraphs](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-86d8dc).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraphs](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-24c42c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Jugnu firefly Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"firefly\" OR Jugnu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Jugnu"
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "firefly Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 27,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.27 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 27,
+        "paragraph_ids": [
+          "p-9135b8",
+          "p-2290ee",
+          "p-86d8dc",
+          "p-24c42c",
+          "p-890798"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 27,
+        "paragraph_range": {
+          "start": 0,
+          "end": 18
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 19 passages"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-1-55b25c\",\"title\":\"Bang-E-Dara Part 1\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-81ff7c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-9135b8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-2290ee"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-86d8dc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-24c42c"
+    }
+  ],
+  "duration_ms": 34794,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 35389,
+    "completion_tokens": 3694,
+    "total_tokens": 39083,
+    "cached_tokens": 21552,
+    "api_calls": 5,
+    "cost_usd": 0.005692,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 339,
+        "total_tokens": 1894,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00025115
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2112,
+        "completion_tokens": 675,
+        "total_tokens": 2787,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007374
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9413,
+        "completion_tokens": 198,
+        "total_tokens": 9611,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019591
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 10320,
+        "completion_tokens": 1230,
+        "total_tokens": 11550,
+        "cached_tokens": 9408,
+        "cost_usd": 0.0012678
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_metadata"
+        ],
+        "prompt_tokens": 11989,
+        "completion_tokens": 1252,
+        "total_tokens": 13241,
+        "cached_tokens": 10315,
+        "cost_usd": 0.00147655
+      }
+    ]
+  }
+}

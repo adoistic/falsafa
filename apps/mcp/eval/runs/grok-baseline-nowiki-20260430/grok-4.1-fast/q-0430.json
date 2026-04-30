@@ -1,0 +1,264 @@
+{
+  "answer": "**Bṛhaspati Smṛti** (unknown-brhaspati-smrti-0fd070) provides the most detailed treatment of court structure and procedure in the corpus.[^1] Chapter 1 outlines the establishment of courts (e.g., in fortresses, facing east, with garlands and seats), kinds of courts (stationary, non-stationary, sealed, directed), assessors (7, 5, or 3 learned Brahmins), the king's role, officers (accountant, scribe), protective measures for litigants, order of proceedings (plaint, reply, evidence, decision), and rituals (imagining gods present, placing gold/fire/water).[^2]\n\n**Nārada Smṛti** (unknown-naradasmrti-7650d2) discusses court assembly, qualities of assessors (learned, impartial), their duties, and procedure (e.g., examining plaints, replies, evidence).[^3] It emphasizes the king's oversight with assessors and scribes.\n\n**Kātyāyana Smṛti** (unknown-katyayana-smrti-1e06d2) briefly notes the king sitting with chief judge, ministers, Brahmins, priest, and assessors for judgments.[^4]\n\n**Āṅgirasa Smṛti** (unknown-angirasa-smrti-2bf9d1) mentions courts indirectly via judicial roles, but lacks detail on structure.[^5]\n\nFrench works like Charles Comte's *Traité de Législation* reference \"tribunals\" in modern contexts (e.g., special courts for slaves), but not ancient courtroom procedure.[^6]\n\nNo other works (e.g., poetry like Iqbal or Cynewulf) discuss this substantively; \"court\" appears metaphorically.\n\n[^1]: *Bṛhaspati Smṛti*, Ch. 1, [full chapter](/works/unknown-brhaspati-smrti-0fd070/01/translation/).\n\n[^2]: *Bṛhaspati Smṛti*, Ch. 1, paragraphs [p-ad41e5](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-ad41e5), [p-bf0a6b](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-bf0a6b), [p-7535d2](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-7535d2), [p-ef9590](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-ef9590), [p-8e89d7](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-8e89d7).\n\n[^3]: *Nārada Smṛti*, Ch. 1 (\"Mātṛkā 3\"), [full chapter](/works/unknown-naradasmrti-7650d2/01/translation/).\n\n[^4]: *Kātyāyana Smṛti*, Ch. 5, paragraph [p-3114b8](/works/unknown-katyayana-smrti-1e06d2/05/translation/#p-3114b8).\n\n[^5]: *Āṅgirasa Smṛti*, Ch. 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-86fa77).\n\n[^6]: E.g., *Traité de Législation: VOL IV*, Ch. 20, [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/20/translation/#p-5b1e6b).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "court procedure",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "courtroom procedure",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "trial procedure",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "court structure",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "judicial procedure",
+        "limit": 30
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "courtroom structure",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "court",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "trial",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "judge",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "judgment",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tribunal",
+        "limit": 30
+      },
+      "result_summary": "Found 29 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "plaintiff",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "law"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "english"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-katyayana-smrti-1e06d2 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-ad41e5"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-bf0a6b"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-7535d2"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-ef9590"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-8e89d7"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-3114b8"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-86fa77"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-5b1e6b"
+    }
+  ],
+  "duration_ms": 43667,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 162122,
+    "completion_tokens": 3407,
+    "total_tokens": 165529,
+    "cached_tokens": 2506,
+    "api_calls": 4,
+    "cost_usd": 0.061244599999999996,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 570,
+        "total_tokens": 2120,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005725
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2061,
+        "completion_tokens": 755,
+        "total_tokens": 2816,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007672
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 24173,
+        "completion_tokens": 772,
+        "total_tokens": 24945,
+        "cached_tokens": 2056,
+        "cost_usd": 0.0049122
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 134338,
+        "completion_tokens": 1310,
+        "total_tokens": 135648,
+        "cached_tokens": 150,
+        "cost_usd": 0.0549927
+      }
+    ]
+  }
+}

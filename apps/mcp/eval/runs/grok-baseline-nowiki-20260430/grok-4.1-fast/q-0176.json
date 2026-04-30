@@ -1,0 +1,194 @@
+{
+  "answer": "In the *Gaṇapatitattva*, Īśvara instructs Gaṇapati on the Six-Limbed Yoga (*ṣaḍaṅga-yoga*), comprising withdrawal (*pratyāhāra*), meditation (*dhyāna*), breath-control (*prāṇāyāma*), concentration (*dhāraṇā*), contemplation (*tarka*), and absorption (*samādhi*). These disciplines purify the mind and lead toward union with Śiva, culminating in liberation as the supreme Śiva (*paramaśiva*) at the point twelve finger-widths above the crown, where the Void is proclaimed supreme.[^1][^2]\n\nThe text later references *yogic sleep* (*yoganidrā*) as a subtle practice for attaining transparency of the body and radiant consciousness, foundational to liberation.[^3]\n\n[^1]: *Gaṇapatitattva*, [Chapter 1 (translation)](/works/unknown-ganapatitattva-66a136/01/translation/#p-1a44bb).\n[^2]: *Gaṇapatitattva*, [Chapter 1 (translation)](/works/unknown-ganapatitattva-66a136/01/translation/#p-f36006).\n[^3]: *Gaṇapatitattva*, [Chapter 1 (translation)](/works/unknown-ganapatitattva-66a136/01/translation/#p-5f9128).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "",
+        "era": "",
+        "genre": "",
+        "language": ""
+      },
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ganapatitattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"supreme Siva\" Ganapatitattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"supreme Śiva\" OR \"supreme Shiva\" yogic"
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-ganapatitattva-66a136 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Siva\" OR \"Śiva\" OR Shiva OR \"supreme\"",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-1a44bb",
+          "p-12872f",
+          "p-7dc3ee",
+          "p-8ae6e6",
+          "p-19f511",
+          "p-401b9c",
+          "p-0a12b4",
+          "p-6ff9af",
+          "p-5001bb",
+          "p-a9dfb2",
+          "p-8fcbc1",
+          "p-3bf89c",
+          "p-c41bcf",
+          "p-f3ca6c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 14 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f36006",
+          "p-875b7c",
+          "p-a794c1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-5f9128",
+          "p-416fbb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-1a44bb"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-f36006"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-5f9128"
+    }
+  ],
+  "duration_ms": 41025,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 58195,
+    "completion_tokens": 3748,
+    "total_tokens": 61943,
+    "cached_tokens": 6681,
+    "api_calls": 4,
+    "cost_usd": 0.01251085,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 637,
+        "total_tokens": 2192,
+        "cached_tokens": 150,
+        "cost_usd": 0.000607
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6237,
+        "completion_tokens": 545,
+        "total_tokens": 6782,
+        "cached_tokens": 150,
+        "cost_usd": 0.0014974
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 24233,
+        "completion_tokens": 1551,
+        "total_tokens": 25784,
+        "cached_tokens": 6232,
+        "cost_usd": 0.0046873
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 26170,
+        "completion_tokens": 1015,
+        "total_tokens": 27185,
+        "cached_tokens": 149,
+        "cost_usd": 0.00571915
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "answer": "In Allama Iqbal's poem *Zuhd aur Rindi* (\"Asceticism and Libertinism\") from *Bang-e-Dara Part 1*, the ascetic (*zahid*, representative of *zuhd*) and the wine-drinker (*rind*, representative of *rindi*) are directly juxtaposed in the opening narrative, where the poet describes his long acquaintance with a cleric (the zahid figure) who critiques him (Iqbal as rind). The key lines are:\n\n> For many years he was a neighbor mine,  \n> So Saint and Sinner would their paths align.[^1]\n\nThis captures their intertwined lives and contrasts (*zahid ki mulaqat... rind se* in the original Urdu). The theme permeates the poem, as the cleric later puzzles over Iqbal's blend of sinner/libertine (*rindi*) knowledge and strict law (*shariat*, aligned with asceticism): \n\n> “He knows the Sinner’s path, the Law’s decree,  \n> In mystic lore, a new Mansur is he.[^2]\n\nThe cleric himself embodies a hypocritical fusion, with his \"heart’s own flask with pious wine... / But dregs of pride were secretly distilled,\"[^3] equating ascetic \"pious wine\" (*mai-e-zuhd*) to the rind's metaphorical wine.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Zuhd aur Rindi\" [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-34574a).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Zuhd aur Rindi\" [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-ea39dc).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Zuhd aur Rindi\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-52b34d#p-f39e58).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Zuhd aur Rindi",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ascetic\" \"wine-drinker\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"zuhd\" \"rindi\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.44 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.44 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.44 of allama-iqbal-bang-e-dara-part-1-55b25c (original)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "paragraph_ids": [
+          "p-34574a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "paragraph_ids": [
+          "p-ea39dc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "paragraph_ids": [
+          "p-52b34d",
+          "p-f39e58"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "paragraph_range": {
+          "start": 0,
+          "end": 5
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "paragraph_ids": [
+          "p-00d472"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-34574a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-ea39dc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-52b34d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-f39e58"
+    }
+  ],
+  "duration_ms": 63895,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 24777,
+    "completion_tokens": 5250,
+    "total_tokens": 30027,
+    "cached_tokens": 4738,
+    "api_calls": 4,
+    "cost_usd": 0.0068697,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1559,
+        "completion_tokens": 695,
+        "total_tokens": 2254,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0004298
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2592,
+        "completion_tokens": 506,
+        "total_tokens": 3098,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00054205
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 9333,
+        "completion_tokens": 2307,
+        "total_tokens": 11640,
+        "cached_tokens": 150,
+        "cost_usd": 0.0029976
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 11293,
+        "completion_tokens": 1742,
+        "total_tokens": 13035,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00290025
+      }
+    ]
+  }
+}

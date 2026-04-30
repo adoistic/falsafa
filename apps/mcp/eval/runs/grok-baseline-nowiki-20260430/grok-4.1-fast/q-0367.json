@@ -1,0 +1,274 @@
+{
+  "answer": "**'The Wife's Lament'** (Chapter 3 of *Old English Elegies*) is an elegy spoken in a woman's voice, lamenting her separation from her husband due to his kin's scheming. She describes her imposed isolation as a form of confinement:  \n\n> I was bid to dwell in a wooded grove,  \n> under an oak tree in this earth-cave.  \n> Ancient this earth-hall, I am filled with longing.  \n> The dales are dim, the dunes are high,  \n> bitter the boroughs, with briars overgrown,  \n> a home without joy. Often his going  \n> has gripped me with grief. Friends are on the earth,  \n> the living beloved, who lie together,  \n> while I at dawn must walk alone  \n> under the oak tree, through this earth-cave.  \n> There I must sit the summer-long day,  \n> there I can weep for my paths of exile,  \n> my many sorrows; for I can never  \n> find any rest from my heart’s-care,  \n> nor from the longing that this life has brought me.[^1]  \n\nThis portrays constraint as exile and solitude, stripping her of companionship and agency after her husband's departure.[^2]\n\n**Manusmṛti** Book 5 (Chapter 5) focuses primarily on dietary laws and purification, with incidental references to women (e.g., food touched by a menstruating woman is impure), but lacks explicit construction of \"domestic constraint.\" The corpus's strongest match for such themes is Book 9 (Chapter 9), which prescribes women's lifelong dependence:  \n\n> Women must be made dependent by their men day and night; and those who are attached to sense-objects must be kept under one's own control. Her father protects her in childhood, her husband protects her in youth, and her sons protect her in old age; a woman is never fit for independence.[^3]  \n\nHere, domestic constraint is normative: perpetual guardianship by male kin to prevent moral lapse, with women depicted as inherently fickle and requiring control.[^4]\n\nThe constraints presuppose **similar conceptions of women as inherently dependent and subordinate**, whose identity, security, and virtue derive from (male) relational bonds rather than autonomy. In *The Wife's Lament*, separation from her husband exposes her to kin-enforced isolation, implying her proper sphere is spousal companionship; deviation causes existential grief. Manusmṛti codifies this structurally—women unfit for independence, ever needing male protectors—framing constraint as protective duty against innate weaknesses like promiscuity.[^5] Both texts thus view women relationally (to fathers/husbands/sons), vulnerable without oversight, though the elegy laments personal tragedy while Manu enforces systemic control. No identical phrasing appears in Manusmṛti Book 5; if \"book 5\" refers to a different edition, the corpus lacks it.\n\n[^1]: *Old English Elegies*, [paragraph](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-c1cc32).\n\n[^2]: *Old English Elegies*, Chapter 3 (full), [chapter](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/).\n\n[^3]: *Manusmṛti*, [paragraphs](/works/unknown-manusmrti-347b76/09/translation/#p-27f62f#p-233021).\n\n[^4]: *Manusmṛti*, Chapter 9 (full), [chapter](/works/unknown-manusmrti-347b76/09/translation/).\n\n[^5]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-bfc508).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wife's Lament",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Laws of Manu\" OR Manusmriti book 5 woman",
+        "limit": 5
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "law"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old_english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife's lament\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"laws of manu\" OR \"manu smriti\" OR manusmriti OR \"manava dharma sastra\"",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife\" OR lament OR exile woman old english",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "woman domestic OR wife constraint OR confined manu OR \"day and night\" woman",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife\" OR \"woman\" OR \"husband\" OR \"dependent\" OR \"household\" OR \"duties\" OR \"confined\" OR \"earth-cave\" OR \"oak tree\" OR \"exile\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "woman OR wife chapter 5 manu OR manusmriti",
+        "limit": 10
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-c1cc32"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-c1cc32"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-27f62f"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-233021"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-bfc508"
+    }
+  ],
+  "duration_ms": 70145,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 70494,
+    "completion_tokens": 6449,
+    "total_tokens": 76943,
+    "cached_tokens": 34130,
+    "api_calls": 6,
+    "cost_usd": 0.0122038,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1581,
+        "completion_tokens": 697,
+        "total_tokens": 2278,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00043535
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2777,
+        "completion_tokens": 709,
+        "total_tokens": 3486,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008874
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 4346,
+        "completion_tokens": 511,
+        "total_tokens": 4857,
+        "cached_tokens": 2772,
+        "cost_usd": 0.0007089
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9181,
+        "completion_tokens": 443,
+        "total_tokens": 9624,
+        "cached_tokens": 4341,
+        "cost_usd": 0.00140655
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 16167,
+        "completion_tokens": 2140,
+        "total_tokens": 18307,
+        "cached_tokens": 9176,
+        "cost_usd": 0.002927
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 36442,
+        "completion_tokens": 1949,
+        "total_tokens": 38391,
+        "cached_tokens": 16162,
+        "cost_usd": 0.0058386
+      }
+    ]
+  }
+}

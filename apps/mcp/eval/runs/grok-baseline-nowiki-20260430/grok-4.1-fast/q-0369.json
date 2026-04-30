@@ -1,0 +1,315 @@
+{
+  "answer": "Iqbal's poetics of *khudi* (selfhood)—a dynamic, individuated spiritual empowerment drawing from Islamic and Nietzschean influences—clashes fundamentally with the *Manusmṛti*'s (*Manu Smṛti*) static, birth-ascribed *varṇadharma* (duties of the four *varṇas*, or social orders). While the *Manusmṛti* codifies a hierarchical cosmos where the Brahmin (*Brahmaṇa*) emerges from the creator's mouth as lord of all *varṇas*, the Kṣatriya from arms, Vaiśya from thighs, and Śūdra from feet—with the Śūdra's sole duty to serve the others without malice—Iqbal rejects such divinely ordained divisions.[^1][^2] Manu declares these roles eternal, with even a universal summary *dharma* (non-violence, truthfulness, etc.) subordinated to *varṇa*-specific occupations and prohibitions.[^3]\n\nIqbal's sharpest disagreement manifests in his poem \"Sach keh doon ae Brahman! gar tu bura na maane\" (\"O Brahmin, if you will not take offense\"), where he directly indicts Brahmanical tradition for fostering scorn toward \"kin\" (implying caste out-groups) and calls to \"lift the veils of otherness\" and \"wipe away the lines that make us two,\" envisioning a unified humanity beyond ritual and hierarchical idols.[^4][^5] This egalitarian erasure of birth-based barriers—contrasting Manu's unyielding *varṇa* purity, intermarriage taboos, and occupational castes—marks Iqbal's greatest rupture with *smṛti* orthodoxy: selfhood (*khudi*) as self-fashioning transcendence versus *dharma*-as-given by cosmic birth-lot.\n\nThe *Falsafa* corpus lacks Iqbal's prose works (*e.g.*, *Asrār-e Khudī*) explicating *khudi* philosophically, nor direct engagements with Manu, limiting analysis to poetry and *Manusmṛti* chapters. No other Iqbal text here critiques *varṇadharma* as pointedly.\n\n[^1]: *Manusmṛti*, Chapter 1, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db).\n[^2]: *Manusmṛti*, Chapter 1, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-26a572).\n[^3]: *Manusmṛti*, Chapter 10, [paragraph](/works/unknown-manusmrti-347b76/10/translation/#p-b48a7b).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, Chapter 36, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36/translation/#p-c536e2).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, Chapter 36, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36/translation/#p-3a582d).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manusmriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi"
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"laws of manu\" OR manava OR smriti dharma"
+      },
+      "result_summary": "Found 27 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "selfhood iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\" OR ego OR khudi OR \"selfhood\" iqbal"
+      },
+      "result_summary": "Found 27 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma varna caste OR birth duty manu"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal OR \"allama iqbal\" self OR khudi OR ego"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahman OR caste OR varna OR dharma iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\" OR \"ego\" OR khudi OR selfhood OR \"self realisation\" in iqbal OR \"bang-e-dara\""
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "paragraph_ids": [
+          "p-c536e2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "paragraph_ids": [
+          "p-3a582d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-13a2db",
+          "p-26a572"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-b48a7b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_range": {
+          "start": 0,
+          "end": 5
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-26a572"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-b48a7b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-c536e2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-3a582d"
+    }
+  ],
+  "duration_ms": 70330,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 136541,
+    "completion_tokens": 5930,
+    "total_tokens": 142471,
+    "cached_tokens": 58732,
+    "api_calls": 5,
+    "cost_usd": 0.021463399999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1567,
+        "completion_tokens": 779,
+        "total_tokens": 2346,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006804
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8413,
+        "completion_tokens": 1322,
+        "total_tokens": 9735,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00211395
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 28279,
+        "completion_tokens": 916,
+        "total_tokens": 29195,
+        "cached_tokens": 8408,
+        "cost_usd": 0.0048526
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 48498,
+        "completion_tokens": 1786,
+        "total_tokens": 50284,
+        "cached_tokens": 150,
+        "cost_usd": 0.0105701
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 49784,
+        "completion_tokens": 1127,
+        "total_tokens": 50911,
+        "cached_tokens": 48493,
+        "cost_usd": 0.00324635
+      }
+    ]
+  }
+}

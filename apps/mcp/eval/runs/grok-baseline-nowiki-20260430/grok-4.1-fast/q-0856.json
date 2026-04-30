@@ -1,0 +1,180 @@
+{
+  "answer": "**The Falsafa corpus does not appear to contain any explicit contrasts by Iqbal (or Allama Iqbal) between \"atman\" (the Sanskrit/Hindu concept of the self or soul) and \"khudi\" (his Urdu/Persian term for dynamic selfhood).**\n\nIqbal's works in the corpus are limited to the three parts of *Bang-e-Dara* (1924), a collection of Urdu poetry available in transliteration and possibly translation variants.[^1] Searches across English bodies for phrases like \"atman khudi\", \"atman\" + \"khudi\", \"khudi\" (17 hits, mostly in Ghalib's *Diwan-e-Ghalib* poetry), \"selfhood Iqbal\", and related terms (e.g., titles like *Secrets of the Self* or *Reconstruction of Religious Thought in Islam*) yielded no relevant results tying these concepts together in Iqbal's texts.[^2]\n\nIqbal develops \"khudi\" extensively in his philosophy (e.g., in *Asrar-e-Khudi* / *Secrets of the Self*, 1915, or *The Reconstruction of Religious Thought in Islam*, 1930), often positioning it as a vital, creative force against static notions of self—potentially critiquing Vedantic \"atman\" as passive or illusory. However, these key prose works are not in the current Falsafa corpus (37 works total), and *Bang-e-Dara* focuses more on Islamic renaissance and poetic self-realization without explicit Sanskrit references.\n\nIf this contrast exists in an untranslated or unindexed section, it evades the search tools. For corpus coverage, I recommend exploring Iqbal's poetry via `list_chapters(\"allama-iqbal-bang-e-dara-part-1-55b25c\")` or similar.\n\n[^1]: From `list_works(author=\"allama-iqbal\")`.\n\n[^2]: From multiple `search_corpus` calls, e.g., `search_corpus(\"atman khudi\")` (0 results); `search_corpus(\"khudi\")` (17 results, none in Iqbal).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "atman khudi",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"khudi\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"atman\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ātman\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal khudi",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "selfhood Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"reconstruction of religious thought\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"secrets of the self\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "philosophy"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "20th century"
+      },
+      "result_summary": "Listed 3 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 35883,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 12949,
+    "completion_tokens": 3341,
+    "total_tokens": 16290,
+    "cached_tokens": 6479,
+    "api_calls": 4,
+    "cost_usd": 0.00328845,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1573,
+        "completion_tokens": 322,
+        "total_tokens": 1895,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004531
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2081,
+        "completion_tokens": 819,
+        "total_tokens": 2900,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00059635
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2729,
+        "completion_tokens": 908,
+        "total_tokens": 3637,
+        "cached_tokens": 2076,
+        "cost_usd": 0.0006884
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 6566,
+        "completion_tokens": 1292,
+        "total_tokens": 7858,
+        "cached_tokens": 2724,
+        "cost_usd": 0.0015506
+      }
+    ]
+  }
+}

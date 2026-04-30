@@ -1,0 +1,173 @@
+{
+  "answer": "**In the Yājñavalkya Smṛti, Chapter 1 (on conduct, ācāraprakaraṇa), verse 1.66 falls in the section on marriage (vivāhaprakaraṇam).**[^1]\n\nIt states the following rules:\n\n- A person who gives away a maiden (in marriage) **without disclosing her defects** is fined **the highest amercement** (1,080 *paṇas*, the standard top fine in the text).\n- One who **abandons a faultless wife** is to be **punished** (likely a fine or corporal punishment, per context).\n- One who **falsely accuses her** (the wife or maiden) is fined **one hundred** (*paṇas*).\n\nThis follows verses on marriage rites, bride-givers, and remarriage (e.g., 1.64–65 discuss not giving away a maiden and theft penalties). The corpus has only a partial translation of this 3-chapter work (no chapters 2–3 read here), so no further verses are available.[^2]\n\n[^1]: Yājñavalkya Smṛti, [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-1200e1).\n[^2]: Yājñavalkya Smṛti, Chapter 1, [full chapter](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkalkya Smriti 1.66",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya chapter 1 verse 66",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"slug\":\"unknown-yajnavalkya-smrti-cb88d6\",\"title\":\"Yājñavalkya Smṛti\",\"author\":\"Yājñavalkya\",\"author_slug\":\"yajnavalkya\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-1200e1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 164,
+          "end": 168
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-1200e1"
+    }
+  ],
+  "duration_ms": 26688,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 58475,
+    "completion_tokens": 2484,
+    "total_tokens": 60959,
+    "cached_tokens": 7531,
+    "api_calls": 5,
+    "cost_usd": 0.01180735,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 622,
+        "total_tokens": 2178,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00039285
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2627,
+        "completion_tokens": 234,
+        "total_tokens": 2861,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006199
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata"
+        ],
+        "prompt_tokens": 3085,
+        "completion_tokens": 205,
+        "total_tokens": 3290,
+        "cached_tokens": 2622,
+        "cost_usd": 0.0003262
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 25274,
+        "completion_tokens": 625,
+        "total_tokens": 25899,
+        "cached_tokens": 3080,
+        "cost_usd": 0.0049053
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 25933,
+        "completion_tokens": 798,
+        "total_tokens": 26731,
+        "cached_tokens": 150,
+        "cost_usd": 0.0055631
+      }
+    ]
+  }
+}

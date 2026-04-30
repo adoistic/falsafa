@@ -1,0 +1,221 @@
+{
+  "answer": "In Allama Iqbal's Urdu poetry in *Bang-e-Dara*, the term *jalwa*—rendered in English translations as \"splendor,\" \"splendor manifest,\" or similar—functions poetically in a manner evocative of Sufi mysticism, denoting the radiant self-disclosure or epiphanic appearance (*tajalli*-like) of divine beauty (*husn*) or reality within the phenomenal world, nature, human forms, or the seeker's heart. It often contrasts partial, veiled revelations (as in the Mosaic theophany on Mount Sinai/Toor) with fuller unveilings accessible to the spiritually perceptive, emphasizing how such manifestations ignite longing, self-realization, and transcendence beyond the material.[^1][^2][^3]\n\nThis usage aligns with classical Sufi terminology (e.g., as in Ibn ʿArabī or Rumi, whom Iqbal draws upon), where *jalwa* signifies God's beauty manifesting in creation to draw the soul toward unity, though Iqbal adapts it to his philosophy of dynamic *khudī* (selfhood) and Islamic renaissance. A dedicated poem, \"Jalwa-e-Husn\" (\"The Splendor of Beauty\"), exemplifies this: the *jalwa* of beauty stirs restless desire (*tmanna be-taab*), renders the transient world eternal, purifies perception, and subordinates reason to passion, questioning if perfect divine Beauty inheres in creation.[^4]\n\nThe corpus does not contain Iqbal's prose works (e.g., *Asrar-i Khudī* or *Reconstruction*), so no explicit definitional treatise appears; its role emerges through recurrent poetic imagery rather than systematic exposition.[^5]\n\n[^1]: Allama Iqbal, *Bang-e-Dara Part 1*, ch. 25 \"Himalaya\" (translation), [paras. p-748be3–p-44a04a](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/#p-748be3).\n[^2]: Allama Iqbal, *Bang-e-Dara Part 1*, ch. 4 \"Jinhein main dhoondta tha...\" (translation), [para. p-b6feb6](/works/allama-iqbal-bang-e-dara-part-1-55b25c/04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m/translation/#p-b6feb6).\n[^3]: Allama Iqbal, *Bang-e-Dara Part 1*, ch. 14 \"Aaftab\" (translation), [paras. p-b3de7e–p-abf68a](/works/allama-iqbal-bang-e-dara-part-1-55b25c/14-aaftab/translation/#p-b3de7e).\n[^4]: Allama Iqbal, *Bang-e-Dara Part 2*, ch. 15 \"Jalwa-e-Husn\" (translation), [full chapter](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/15-jalwa-e-husn/translation/).\n[^5]: Allama Iqbal, *Bang-e-Dara Part 1*, ch. 11 \"Sakhtiyan karta hoon...\" (transliteration), [para. with *jalwa pairaai*](/works/allama-iqbal-bang-e-dara-part-1-55b25c/11-sakhtiyan-karta-hoon-dil-par-ghair-se-ghafil-hoon-/transliteration/#p-a5b391).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jalwa Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"jalwa\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self manifestation\" OR theophany OR splendour OR \"divine manifestation\" Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jalwa"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"manifestation\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Sufism"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tajalli OR theophany OR \"divine manifestation\" OR \"self-manifestation\" Iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mount Sinai\" OR Toor OR Sinai Iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 14,
+      "paragraph_id": "p-748be3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 14,
+      "paragraph_id": "p-44a04a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 14,
+      "paragraph_id": "p-b6feb6"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 14,
+      "paragraph_id": "p-b3de7e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 14,
+      "paragraph_id": "p-abf68a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 14,
+      "paragraph_id": "p-a5b391"
+    }
+  ],
+  "duration_ms": 51727,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 38309,
+    "completion_tokens": 4974,
+    "total_tokens": 43283,
+    "cached_tokens": 10980,
+    "api_calls": 4,
+    "cost_usd": 0.0085018,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 410,
+        "total_tokens": 1973,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004951
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2109,
+        "completion_tokens": 1252,
+        "total_tokens": 3361,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010253
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 10535,
+        "completion_tokens": 1441,
+        "total_tokens": 11976,
+        "cached_tokens": 150,
+        "cost_usd": 0.002805
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 24102,
+        "completion_tokens": 1871,
+        "total_tokens": 25973,
+        "cached_tokens": 10530,
+        "cost_usd": 0.0041764
+      }
+    ]
+  }
+}

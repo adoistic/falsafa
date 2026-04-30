@@ -1,0 +1,133 @@
+{
+  "answer": "**Gaṇapatitattva** contains a ritual prescription for purification (*paṅlukatan*), specifically a rite for Gaṇapati that can be used for exorcism. It involves specific materials such as ivory bamboo with a magical drawing (*rajah*) of Gaṇa, offerings (*bantĕn*) including a white and yellow *ajuman* set and a white crested chicken, water in a copper vessel (*sanku*), Sudhāmala flowers, *pras* and *santun* offerings, and a monetary offering of 1100. The rite concludes with prayers and sprinkling the afflicted place, accompanied by a mantra invoking Gaṇapati.[^1]\n\n**Vīramitrodaya** mentions purificatory rites (*śuddhikarma*) as exceptions to prohibitions on taking earth (e.g., cow urine in the evening twilight), but does not provide explicit prescriptions.[^2]\n\nNo other works in the corpus contain ritual prescriptions for purification.\n\n[^1]: Gaṇapatitattva, Chapter 1, [paragraph](/works/unknown-ganapatitattva-66a136/01/translation/#p-36c962).\n\n[^2]: Vīramitrodaya, Chapter 1, [paragraph](/works/unknown-viramitrodaya-d4b632/01/translation/#p-dd2c81).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "purification ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"purify\" ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "purificatory rite",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "purification rite",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-ganapatitattva-66a136 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-viramitrodaya-d4b632 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ritual purification",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"purification\" rite",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-36c962"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-dd2c81"
+    }
+  ],
+  "duration_ms": 47879,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 294252,
+    "completion_tokens": 1779,
+    "total_tokens": 296031,
+    "cached_tokens": 1834,
+    "api_calls": 3,
+    "cost_usd": 0.1179235,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1545,
+        "completion_tokens": 535,
+        "total_tokens": 2080,
+        "cached_tokens": 1535,
+        "cost_usd": 0.00034625
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2011,
+        "completion_tokens": 545,
+        "total_tokens": 2556,
+        "cached_tokens": 149,
+        "cost_usd": 0.00065235
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 290696,
+        "completion_tokens": 699,
+        "total_tokens": 291395,
+        "cached_tokens": 150,
+        "cost_usd": 0.1169249
+      }
+    ]
+  }
+}

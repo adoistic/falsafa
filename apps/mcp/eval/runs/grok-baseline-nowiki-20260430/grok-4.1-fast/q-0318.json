@@ -1,0 +1,171 @@
+{
+  "answer": "**Warm engagements with Hindi/Hindu figures and concepts appear in several poems where Iqbal expresses cultural pride, unity, or admiration for shared heritage:**\n\n- **Ram**: Iqbal portrays Ram positively as a figure of pride for Hindustan and its \"Spiritual Guide\" (Imam-e-Hind), emphasizing valor, purity, and a luminous legacy that makes \"the dusk of Hind... more bright\" than dawn.[^1]\n- **Brahman/Brahmin**: In a direct address to a Brahmin, Iqbal critiques idolatry (\"Your ancient idols have lost reverence\") but warmly invites unity, calling to \"wipe away the lines that make us two,\" create a shared \"shrine,\" and pursue \"salvation... [as] love's guide.\"[^2]\n- **Hindustan**: Iqbal celebrates it as a homeland with grandeur and spiritual depth, e.g., in \"Himalaya,\" where the mountain range is the \"rampart of the realm of Hindustan,\" a \"Splendor manifest,\" and a symbol of eternal youth and divine connection.[^3]\n\n**Polemical or critical engagements are rarer and indirect, often targeting Hindu influences on Muslims rather than the figures themselves:**\n\n- **Hindu (culture/idolatry)**: Iqbal rebukes Muslims whose \"culture [is] Hindu,\" questioning if they are \"true Muslims\" amid Christian styles and lost Islamic zeal; similarly, a satirized cleric gripes that Iqbal \"calls no Hindu infidel,\" implying tolerance is suspect under \"worldly philosophy.\"[^4][^5]\n- No direct references to \"Hindu sages\" (or \"rishis\") appear in Iqbal's poems in the corpus; searches for these yielded no matches in his works.[^6]\n\nIqbal's tone blends cultural appreciation for Hindustan's heritage with Islamic revivalism, using these motifs to foster unity or critique assimilation.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Ram\" (ch. 17), [paragraph p-f8aace](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/17-ram/translation/#p-f8aace).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Sach keh doon ae Brahman! gar tu bura na maane\" (ch. 36), [paragraphs p-752d60 to p-94fb2e](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Himalaya\" (ch. 25), [paragraph p-b8c905](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/#p-b8c905).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Dil se jo baat nikalti hai asar rakhti hai\" (ch. 4), [paragraph p-172a4f](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-172a4f).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Zuhd aur Rindi\" (ch. 44), [paragraph p-266324](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-266324).\n\n[^6]: Corpus search for \"\"Hindu sages\" OR \"rishis\" OR \"Hindu rishis\" iqbal\" returned zero relevant hits in Iqbal's works.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Brahman Ram Hindostan \"Hindu sages\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.44 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Hindu sages\" OR \"rishis\" OR \"Hindu rishis\" iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 25,
+      "paragraph_id": "p-f8aace"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 25,
+      "paragraph_id": "p-752d60"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 25,
+      "paragraph_id": "p-94fb2e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 25,
+      "paragraph_id": "p-b8c905"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 25,
+      "paragraph_id": "p-172a4f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 25,
+      "paragraph_id": "p-266324"
+    }
+  ],
+  "duration_ms": 29221,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 25795,
+    "completion_tokens": 2946,
+    "total_tokens": 28741,
+    "cached_tokens": 1829,
+    "api_calls": 3,
+    "cost_usd": 0.006357649999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1565,
+        "completion_tokens": 355,
+        "total_tokens": 1920,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00026115
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6406,
+        "completion_tokens": 940,
+        "total_tokens": 7346,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017287
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17824,
+        "completion_tokens": 1651,
+        "total_tokens": 19475,
+        "cached_tokens": 150,
+        "cost_usd": 0.0043678
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "answer": "**Manusmṛti chapter 11 (as represented in the corpus) does not address unintentional killing.** Instead, it focuses on categories of *snātakas* (those returning from Vedic study) who deserve gifts despite not begging, and the rules for providing food, jewels, and wealth to learned Brahmins, emphasizing rewards like heaven.[^1]\n\n**Yājñavalkya Smṛti chapter 3 covers expiations (*prāyaścitta*) but does not treat unintentional killing.** It details ritual impurity periods from birth/death (with variations by caste, age, and circumstance), general purifiers (e.g., time, fire, austerity), duties in distress, forest-hermit and ascetic practices, anatomical descriptions of the body, yogic meditation, cosmology, karma, and paths to liberation.[^2]\n\nThe corpus does not contain passages on unintentional killing (*e.g.*, *anasana-ghāta* or equivalents) in these specific chapters, despite searches for terms like \"unintentional killing,\" \"kills unintentionally,\" \"without intention,\" \"accidentally kills,\" and related concepts. Traditional Dharmashastras do discuss such penalties elsewhere (often graded by intent, victim caste, and penance severity), but they are absent here—no comparable offense or punishments to contrast. The works are from a comparable ancient Indic era and genre (smṛti), but this selection lacks the relevant content.\n\n[^1]: *Manusmṛti*, [Chapter 11 (translation)](/works/unknown-manusmrti-347b76/11/translation/).\n\n[^2]: *Yājñavalkya Smṛti*, [Chapter 3 (translation)](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "unintentional killing",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kills unintentionally\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kills unwillingly\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"without intention\" kill",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "accidentally kills",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "unintentional killing"
+      },
+      "result_summary": "{\"topic\":\"unintentional killing\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"M"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kills a\" Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "unintentional OR accident OR mistake OR unwillingly OR \"without desire\" OR inadvertent kill OR killing OR homicide Manu OR Manusmriti OR \"Manu smriti\"",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chapter 11\" Manu killing"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kills\" OR \"killing\" OR \"slays\" OR \"slain\" OR \"homicide\" OR \"man-slayer\"",
+        "limit": 50
+      },
+      "result_summary": "Found 26 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kills\" OR \"killing\" OR \"slays\" OR \"slain\" OR \"homicide\" OR \"man-slayer\" Manu",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kills\" OR \"killing\" OR \"slays\" OR \"slain\" OR \"homicide\" OR \"man-slayer\" Yajnavalkya OR Yaj",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "unintentional OR inadvertent OR unwilling OR accident OR mistake kill OR killing OR slay",
+        "limit": 50
+      },
+      "result_summary": "Found 25 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 67993,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 80814,
+    "completion_tokens": 6033,
+    "total_tokens": 86847,
+    "cached_tokens": 51752,
+    "api_calls": 6,
+    "cost_usd": 0.0114165,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1568,
+        "completion_tokens": 229,
+        "total_tokens": 1797,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00019875
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1832,
+        "completion_tokens": 505,
+        "total_tokens": 2337,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005964
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 14959,
+        "completion_tokens": 1131,
+        "total_tokens": 16090,
+        "cached_tokens": 1827,
+        "cost_usd": 0.00328325
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15381,
+        "completion_tokens": 716,
+        "total_tokens": 16097,
+        "cached_tokens": 14954,
+        "cost_usd": 0.0011911
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "compare_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17921,
+        "completion_tokens": 1381,
+        "total_tokens": 19302,
+        "cached_tokens": 15376,
+        "cost_usd": 0.0019683
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 29153,
+        "completion_tokens": 2071,
+        "total_tokens": 31224,
+        "cached_tokens": 17916,
+        "cost_usd": 0.0041787
+      }
+    ]
+  }
+}

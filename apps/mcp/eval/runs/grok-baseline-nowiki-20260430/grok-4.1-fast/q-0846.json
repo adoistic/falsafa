@@ -1,0 +1,188 @@
+{
+  "answer": "In *Traité de la propriété* Vol. II, Charles Comte sets out the distinction between literary property and monopoly in Chapter 35.[^1]\n\nHe begins by noting the common error of confusing legal **guarantees** for literary property with the **creation of monopolies**, which has led to artificial time limits on authors' rights.[^2] He defines a monopoly as \"nothing other than the prohibition made, under more or less severe penalties, to all classes of the population, from engaging in a particular kind of industry or commerce, accompanied by an exception for the profit of one or several persons.\"[^3] By contrast, a literary guarantee (like property rights in general) applies equally to everyone and recognizes pre-existing rights, rather than inventing privileges.[^4]\n\nComte's explicit **criterion** for distinguishing the two is as follows:\n\n> It is easy, moreover, to reduce to very simple terms the differences that exist between the guarantee given to a property and the creation of a monopoly. **The establishment of a guarantee supposes... a pre-existing right; the formation of a monopoly supposes the existence of no prior exclusive right. The guarantee recognizes for all the same rights; it constitutes the regime of equality before the law; it renders to each his own. The monopoly, on the contrary, strikes the mass of the population in the exercise of its rights; it creates exceptions and constitutes privileges; it establishes the regime of inequality.**[^5]\n\n[^1]: Charles Comte, *Traité de la propriété* Vol. II, Chapter 35 (\"Distinction between literary property and monopoly\"), [/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/).\n\n[^2]: [/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/#p-445aca](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/#p-445aca).\n\n[^3]: [/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/#p-fdcbf9](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/#p-fdcbf9).\n\n[^4]: [/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/#p-3bed07](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/#p-3bed07); [/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/#p-993bd5](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/#p-993bd5).\n\n[^5]: [/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/#p-d3277d](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/#p-d3277d).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"literary property\" monopoly",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"distinguishes\" literary property monopoly",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "literary property monopoly",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"literary\" property OR monopoly",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"author\" property monopoly",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 35,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.35 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 35,
+        "paragraph_ids": [
+          "p-445aca",
+          "p-fdcbf9",
+          "p-320a14",
+          "p-715aa6",
+          "p-3bed07",
+          "p-993bd5",
+          "p-d3277d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 7 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 35,
+      "paragraph_id": "p-445aca"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 35,
+      "paragraph_id": "p-fdcbf9"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 35,
+      "paragraph_id": "p-3bed07"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 35,
+      "paragraph_id": "p-993bd5"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 35,
+      "paragraph_id": "p-d3277d"
+    }
+  ],
+  "duration_ms": 34436,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 28809,
+    "completion_tokens": 3588,
+    "total_tokens": 32397,
+    "cached_tokens": 17390,
+    "api_calls": 5,
+    "cost_usd": 0.0049473,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1564,
+        "completion_tokens": 349,
+        "total_tokens": 1913,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00025795
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2426,
+        "completion_tokens": 416,
+        "total_tokens": 2842,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0004637
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4790,
+        "completion_tokens": 269,
+        "total_tokens": 5059,
+        "cached_tokens": 150,
+        "cost_usd": 0.00107
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 9401,
+        "completion_tokens": 729,
+        "total_tokens": 10130,
+        "cached_tokens": 4785,
+        "cost_usd": 0.00152695
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 10628,
+        "completion_tokens": 1825,
+        "total_tokens": 12453,
+        "cached_tokens": 9396,
+        "cost_usd": 0.0016287
+      }
+    ]
+  }
+}

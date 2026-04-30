@@ -1,0 +1,278 @@
+{
+  "answer": "**In the Smṛti corpus, 'kāma' (काम, desire or sensual pleasure) is one of the foundational principles of creation and one of the three (or four) legitimate aims of human life (*puruṣārthas*: *dharma* [righteousness], *artha* [wealth/prosperity], *kāma* [desire/pleasure], and *mokṣa* [liberation]). It is neither wholly good nor evil but must be pursued in subordination to *dharma*. Excessive or unregulated *kāma* is repeatedly rebuked as a source of bondage, sin, and lower rebirths, while regulated *kāma* is permitted (especially for householders) to sustain society, procreation, and worldly duties.**[^1][^2]\n\n### Permitted Contexts\n- **As a cosmic and human necessity**: The Self-Existent One (*Svayambhu*) created *kāma* (desire) alongside *tapas*, speech, pleasure, and anger to populate the world. Without it, Vedic study and rites—core duties—would cease, as they are motivated by desire.[^3][^4] It is affirmed that \"no action is ever seen here on earth to be done by a man who is without desire.\"[^5]\n- **As a *puruṣārtha* (aim of life)**: *Kāma* is explicitly one of \"the three aims of life,\" whose pursuit (with food-giving and deity-worship) yields supreme rewards for householders, the best *āśrama*.[^6] Actions motivated by \"righteousness, wealth, or desire\" (*dharmārthakāmān*) do not incur sin if not malicious.[^7] Householders may pursue it lawfully (e.g., via sanctioned marriage and *kāmaja* [desire-born] sons from secondary wives).[^8]\n- **In moderation for twice-born**: *Sāttvika* (pure) desire aligns with knowledge and *dharma*; even Vedic acts stem from it.[^9]\n\n### Contexts Where Rebuked\n- **Excessive or uncontrolled**: \"Desire is never pacified by the enjoyment of desires, but grows ever stronger, like a fire fed with an offering of butter.\" A \"life of desire\" (*kāmāyana*) is \"not praiseworthy.\"[^10] It characterizes *rājasic* (passionate) and *tāmasic* (dark/ignorant) *guṇas* (qualities), leading to lower births (e.g., beasts, *tāmasic* states).[^11]\n- **For students/ascetics**: *Brahmachāris* must avoid women, desire, anger, and spilling seed; violation requires penance.[^12] *Snātakas* (graduates) shun it; *sannyāsins* renounce it entirely.\n- **When violating *dharma***: *Kāma* overriding duty causes great sins (e.g., *guru*-bed defilement, adultery), hells, or animal rebirths. Thieves motivated by desire (*kāma*) face torment.[^13] *Tāmasic* desire (greed, sleep, cruelty) yields hells or beasts.[^14]\n- **Secondary status**: Renunciation of desires surpasses their attainment; *sattva* (purity) trumps *kāma*.[^15] *Mokṣa* demands transcending it.\n\nThe Smṛti emphasize balance: *kāma* sustains the *varṇāśrama* system but, unregulated, binds the soul to saṃsāra. Full liberation requires knowledge (*jñāna*) and *tapas* over desire.[^16]\n\n[^1]: *Manusmṛti*, Chapter 1, [p-722707](/works/unknown-manusmrti-347b76/01/translation/#p-722707).\n[^2]: *Viṣṇu Smṛti* 59.28, [Chapter 59](/works/unknown-visnu-smrti-27f0d8/59/translation/#p-3f300c); *Yama Smṛti* 1, [p-323aa4](/works/unknown-yama-smrti-552f8d/01/translation/#p-323aa4).\n[^3]: *Manusmṛti* 1.25, [p-722707](/works/unknown-manusmrti-347b76/01/translation/#p-722707).\n[^4]: *Manusmṛti* 2.2–4, [p-65a6cb](/works/unknown-manusmrti-347b76/02/translation/#p-65a6cb) to [p-0e43e9](/works/unknown-manusmrti-347b76/02/translation/#p-0e43e9).\n[^5]: *Manusmṛti* 2.4, [p-cbf478](/works/unknown-manusmrti-347b76/02/translation/#p-cbf478).\n[^6]: *Viṣṇu Smṛti* 59.28, [p-3f300c](/works/unknown-visnu-smrti-27f0d8/59/translation/#p-3f300c).\n[^7]: *Yama Smṛti* 1, [p-323aa4](/works/unknown-yama-smrti-552f8d/01/translation/#p-323aa4).\n[^8]: *Āṅgirasa Smṛti* 1.414, [p-4d4b8b](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-4d4b8b).\n[^9]: *Manusmṛti* 12.31–38, esp. on *sāttvic* traits vs. *rājasic/tāmasic* desire.\n[^10]: *Manusmṛti* 2.2, 94, [p-65a6cb](/works/unknown-manusmrti-347b76/02/translation/#p-65a6cb); [p-f445d2](/works/unknown-manusmrti-347b76/02/translation/#p-f445d2).\n[^11]: *Manusmṛti* 12.24–50.\n[^12]: *Manusmṛti* 2.177–180.\n[^13]: *Manusmṛti* 11.54–58 (great sins include *kāma*-driven acts).\n[^14]: *Manusmṛti* 12.33, 39–44.\n[^15]: *Manusmṛti* 2.95–96.\n[^16]: *Manusmṛti* 12.83–88, 119.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "hindu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kama",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kāma\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kama\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "desire",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pleasure",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"puruṣārtha\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pursuit",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"three aims\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"four aims\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"aims of life\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pleasure\" smriti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"desire\" smriti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-722707"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-3f300c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-323aa4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-65a6cb"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-0e43e9"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-cbf478"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-4d4b8b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-f445d2"
+    }
+  ],
+  "duration_ms": 56663,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 90901,
+    "completion_tokens": 5722,
+    "total_tokens": 96623,
+    "cached_tokens": 32481,
+    "api_calls": 4,
+    "cost_usd": 0.016169049999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1560,
+        "completion_tokens": 878,
+        "total_tokens": 2438,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0005212
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9085,
+        "completion_tokens": 1119,
+        "total_tokens": 10204,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0021467
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 20342,
+        "completion_tokens": 1078,
+        "total_tokens": 21420,
+        "cached_tokens": 9080,
+        "cost_usd": 0.0032454
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 59914,
+        "completion_tokens": 2647,
+        "total_tokens": 62561,
+        "cached_tokens": 20337,
+        "cost_usd": 0.01025575
+      }
+    ]
+  }
+}

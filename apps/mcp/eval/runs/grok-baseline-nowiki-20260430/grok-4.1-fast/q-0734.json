@@ -1,0 +1,205 @@
+{
+  "answer": "**Manusmṛti Chapter 12 does not specify a particular number of hells.**\n\nIt refers to sinners obtaining \"dreadful hells\" (Mn_12.54, 12.75, 12.76)[^1] and gives examples—Tamisra (\"such as Tamisra and the others,\" Mn_12.75), Asipatravana (\"the Asipatravana and the like,\" Mn_12.75), and Kumbhīpāka (\"the dreadful Kumbhipaka hells,\" Mn_12.76)—but provides no explicit count or full list there.[^2] A numbered list of 21 hells appears instead in Chapter 4 (beginning at Mn_4.87).[^3]\n\n[^1]: *Manusmṛti*, [Chapter 12, paragraph p-074f6e](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n\n[^2]: *Manusmṛti*, [Chapter 12, paragraphs p-074f6e](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n\n[^3]: *Manusmṛti*, Chapter 4, [paragraph p-8b8ea4](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hells Manu chapter 12"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chapter 12\" hell"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hell Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tamisra"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Asipatravana"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kumbhipaka"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hell\" OR \"hells\" \"chapter 12\" OR Manu"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-074f6e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_range": {
+          "start": 170,
+          "end": 175
+        }
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [170, 175] is invalid"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hells"
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-074f6e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-8b8ea4"
+    }
+  ],
+  "duration_ms": 71710,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 91256,
+    "completion_tokens": 5659,
+    "total_tokens": 96915,
+    "cached_tokens": 52830,
+    "api_calls": 5,
+    "cost_usd": 0.0131562,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1551,
+        "completion_tokens": 438,
+        "total_tokens": 1989,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005067
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1750,
+        "completion_tokens": 319,
+        "total_tokens": 2069,
+        "cached_tokens": 1530,
+        "cost_usd": 0.00028
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22430,
+        "completion_tokens": 2307,
+        "total_tokens": 24737,
+        "cached_tokens": 1745,
+        "cost_usd": 0.00537775
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 26985,
+        "completion_tokens": 1540,
+        "total_tokens": 28525,
+        "cached_tokens": 22425,
+        "cost_usd": 0.00280325
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 38540,
+        "completion_tokens": 1055,
+        "total_tokens": 39595,
+        "cached_tokens": 26980,
+        "cost_usd": 0.0041885
+      }
+    ]
+  }
+}

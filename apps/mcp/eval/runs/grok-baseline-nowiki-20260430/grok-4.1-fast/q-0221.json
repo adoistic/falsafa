@@ -1,0 +1,188 @@
+{
+  "answer": "**One specific procedural rule common to both texts is the differentiated oath required of witnesses according to caste (varṇa), administered prior to examination to compel truthful testimony.**[^1][^2]\n\nIn the *Nāradasmṛti*, the operative prescription is: \"One should make a Brāhmaṇa swear by truth, a Kṣatriya by his vehicle and weapons, a Vaiśya by his cattle, seeds, and gold, and a Śūdra by all sins.\" (Nar. 1.181)[^1]\n\nIn the *Bṛhaspatismṛti*, it reads: \"He should make a Brahmin swear by truth, a Kṣatriya by his vehicle and weapons.\" (Brh. 1.19.32)[^2]\n\nBṛhaspati's version reads as a **tightening** of Nārada's: it retains the precise phrasing for the first two castes (Brāhmaṇa and Kṣatriya) but truncates the rule thereafter, implying stricter reliance on elite witnesses (perhaps assuming the lower castes' oaths from context) while emphasizing the core formula for the higher varṇas in boundary disputes.\n\n[^1]: Nāradasmṛti, Chapter 1, [paragraph](/works/unknown-naradasmrti-7650d2/01/translation/#p-7eb699).\n[^2]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-838264).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "narada"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "brihaspati"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "bṛhaspati"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Narada Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bṛhaspati Smṛti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"oath\" OR \"witness\" narada"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"oath\" OR \"witness\" brihaspati"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"witness\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"oath\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "witness OR testimony OR oath OR swear OR deposition OR evidence"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-7eb699"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-838264"
+    }
+  ],
+  "duration_ms": 28342,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 122335,
+    "completion_tokens": 2416,
+    "total_tokens": 124751,
+    "cached_tokens": 6270,
+    "api_calls": 4,
+    "cost_usd": 0.0247345,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1604,
+        "completion_tokens": 496,
+        "total_tokens": 2100,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00033945
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2054,
+        "completion_tokens": 375,
+        "total_tokens": 2429,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005758
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2547,
+        "completion_tokens": 338,
+        "total_tokens": 2885,
+        "cached_tokens": 2049,
+        "cost_usd": 0.00037105
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 116130,
+        "completion_tokens": 1207,
+        "total_tokens": 117337,
+        "cached_tokens": 2542,
+        "cost_usd": 0.0234482
+      }
+    ]
+  }
+}

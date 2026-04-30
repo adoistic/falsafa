@@ -1,0 +1,140 @@
+{
+  "answer": "In *Manusmṛti* Chapter 12, *guṇa* (guna) refers to the three fundamental constituent qualities or modes of nature (*sattva*, *rajas*, and *tamas*) that inhere in the Self (*Ātman*). These are the means by which the Great One (the supreme principle pervading reality) abides in and influences all beings, determining their predominant character and post-mortem rebirths.[^1]\n\nWhichever *guṇa* predominates in an embodied being shapes its nature: *sattva* (purity/goodness) is equated with knowledge, associated with pleasure, tranquility, Vedic study, *tapas* (austerity), sense-control, and *dharma*; *rajas* (passion/activity) with aversion, pain, desire for action/fame, impatience, and sense-indulgence; *tamas* (inertia/darkness) with ignorance, delusion, greed, cruelty, sleep, and carelessness.[^2][^3] Actions aligned with *tamas* are shameful; those with *rajas* seek worldly gain; those with *sattva* align with *dharma*.[^4]\n\nBeings dominated by *sāttvika* qualities are reborn in higher divine states (e.g., gods, sages, Brahma); *rājasic* in human or semi-divine forms (e.g., kings, Gandharvas); *tāmasic* in lower animal or demonic ones (e.g., beasts, worms, Rakshasas).[^5]\n\n[^1]: *Manusmṛti*, [Chapter 12, paragraph p-074f6e](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n[^2]: *Manusmṛti*, [Chapter 12, paragraph p-074f6e](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e) (esp. Mn_12.24–29).\n[^3]: *Manusmṛti*, [Chapter 12, paragraph p-074f6e](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e) (esp. Mn_12.31–34).\n[^4]: *Manusmṛti*, [Chapter 12, paragraph p-074f6e](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e) (esp. Mn_12.35–38).\n[^5]: *Manusmṛti*, [Chapter 12](/works/unknown-manusmrti-347b76/12/translation/) (esp. Mn_12.39–51).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "guna Manusmriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"three qualities\" OR \"three gunas\" OR sattva OR rajas OR tamas OR \"mode of nature\" Manusmriti",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sattva OR rajas OR tamas chapter 12",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-074f6e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-074f6e"
+    }
+  ],
+  "duration_ms": 30336,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 44939,
+    "completion_tokens": 3067,
+    "total_tokens": 48006,
+    "cached_tokens": 8332,
+    "api_calls": 4,
+    "cost_usd": 0.0092715,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1557,
+        "completion_tokens": 433,
+        "total_tokens": 1990,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005054
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1756,
+        "completion_tokens": 311,
+        "total_tokens": 2067,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004842
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6286,
+        "completion_tokens": 355,
+        "total_tokens": 6641,
+        "cached_tokens": 1751,
+        "cost_usd": 0.00117205
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 35340,
+        "completion_tokens": 1968,
+        "total_tokens": 37308,
+        "cached_tokens": 6281,
+        "cost_usd": 0.00710985
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "answer": "**The passage is from Allama Iqbal's *Bang-E-Dara Part 3*, Chapter 20 (\"Shikwa\" — meaning \"Complaint\"), a long verse poem structured as a direct complaint (*shikwa*) addressed to God.**[^1]\n\nThe specific stanza is:\n\n> You tell us then, who was it that tore out Khyber’s mighty door?  \n> Who was it that laid Caesar’s city flat upon the floor?  \n> Who smashed the man-made idols of the gods that men adore?  \n> And who was it that cut to shreds the armies of the war?  \n> Who was it that extinguished Zoroaster’s sacred fire?  \n> And who revived the memory of God, our one desire?[^1]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-ec4443).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Khyber's mighty door",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"laid Caesar's city flat\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"extinguished Zoroaster's sacred fire\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Zoroaster",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Khyber",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Khaybar",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Caesar",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred fire\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-ec4443"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-ec4443"
+    }
+  ],
+  "duration_ms": 23905,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 20497,
+    "completion_tokens": 2494,
+    "total_tokens": 22991,
+    "cached_tokens": 8492,
+    "api_calls": 5,
+    "cost_usd": 0.0040726,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1602,
+        "completion_tokens": 401,
+        "total_tokens": 2003,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00029125
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1809,
+        "completion_tokens": 626,
+        "total_tokens": 2435,
+        "cached_tokens": 1597,
+        "cost_usd": 0.00043525
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3415,
+        "completion_tokens": 226,
+        "total_tokens": 3641,
+        "cached_tokens": 1804,
+        "cost_usd": 0.0005254
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 6715,
+        "completion_tokens": 366,
+        "total_tokens": 7081,
+        "cached_tokens": 3410,
+        "cost_usd": 0.0010145
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 6956,
+        "completion_tokens": 875,
+        "total_tokens": 7831,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018062
+      }
+    ]
+  }
+}

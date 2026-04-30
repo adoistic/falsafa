@@ -1,0 +1,179 @@
+{
+  "answer": "**The Falsafa corpus includes a translation of the *Viṣṇu Smṛti* (slug: `unknown-visnu-smrti-27f0d8`), which consists of 100 verse chapters.**[^1]\n\nI searched the English translation of the full corpus (including this text) for terms and phrases like \"widow\", \"duties widow wife\", \"duties of a widow\", \"wife\", \"duties of a wife\", \"duties of women\", \"husband is dead\", \"death of her husband\", \"no husband\", and \"widow Visnu\". These returned no matching passages from the *Viṣṇu Smṛti*. Matches for widow-related topics appeared only in other Smṛtis (e.g., *Āṅgirasa Smṛti*, *Bṛhaspati Smṛti*, *Manusmṛti*), but none in *Viṣṇu Smṛti*.[^2]\n\nThe *Viṣṇu Smṛti* covers topics like general duties, law, penances, and rituals across its chapters, but based on these searches, it does not appear to have a specific section on the duties of a wife who becomes a widow (or using equivalent phrasing). If this topic is addressed, it may use terminology not captured by English keyword searches, but I cannot confirm or quote without direct evidence from the text. The corpus currently has 37 works total; not every topic or detail from classical texts is covered exhaustively.\n\n[^1]: *Viṣṇu*, *Viṣṇu Smṛti*. Full work metadata available via `list_works` and chapter list.\n\n[^2]: Search results from `search_corpus` tools, e.g., \"widow\" yielded 20 hits from other Indic Smṛtis but zero from *Viṣṇu Smṛti*.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "duties widow wife",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duties of a widow\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"widow\" Visnu",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "widow",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"husband is dead\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"death of her husband\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duties of a wife\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duties of women\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "widow Visnu",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"no husband\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 30671,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 20769,
+    "completion_tokens": 3105,
+    "total_tokens": 23874,
+    "cached_tokens": 12087,
+    "api_calls": 4,
+    "cost_usd": 0.00389325,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 741,
+        "total_tokens": 2295,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006588
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1902,
+        "completion_tokens": 523,
+        "total_tokens": 2425,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00041225
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8514,
+        "completion_tokens": 726,
+        "total_tokens": 9240,
+        "cached_tokens": 1897,
+        "cost_usd": 0.00178125
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8799,
+        "completion_tokens": 1115,
+        "total_tokens": 9914,
+        "cached_tokens": 8509,
+        "cost_usd": 0.00104095
+      }
+    ]
+  }
+}

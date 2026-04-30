@@ -1,0 +1,346 @@
+{
+  "answer": "**Several works in the corpus address the relationship between rulers (kings) and religious classes (priests, Brahmins, clergy), primarily through the advisory, judicial, or privileged roles of priests in governance.**[^1][^2][^3][^4]\n\n### Indic Smṛtis (Dharma Texts)\nThese ancient Sanskrit texts frequently depict Brahmins (priests/scholars) as essential counselors to kings, integral to courts, rituals, and legal decisions. Kings honor and rely on them for legitimacy and dharma (law/righteousness).\n\n- **Bṛhaspati Smṛti**: The king examines disputes with ministers and his *purohita* (family priest). He honors preceptors, astrologers, physicians, gods, Brahmins, and family priests before entering court.[^1] Brahmins are settled in fortresses for rites and resolving cases.[^2]\n- **Manusmṛti** (Chapters 7-8): Kings must serve aged Vedic Brahmins daily for counsel on humility and policy.[^3] In court, learned Brahmins act as assessors; kings avoid Shudras as judges.[^4] *Śrotriyas* (Vedic scholars) receive protection and shares.[^5]\n- **Āṅgirasa Smṛti**: Discusses Brahmin duties, purity, and permissions for rites; Brahmins as witnesses and expounders of dharma in royal contexts.[^6]\n- **Yājñavalkya Smṛti**: Covers kingly duties with Brahmin advisors (inferred from structure, chapters on ācāra and vyavahāra).\n\nKings appoint Brahmin *purohitas* and assessors; Brahmins perform rites, advise on dharma, and receive tax exemptions/honors.[^7]\n\n### French Political & Social Theory\n19th-century texts contrast rulers/states with clergy as privileged estates/orders, often critically.\n\n- **Nouveau traité d'économie: VOL I** (Charles Dunoyer): Clergy forms a separate estate (*Clergy*) with monopolies on teaching/doctrines, tithes, tax exemptions, alongside nobility and tiers état (third estate). Clergy's \"liberties\" (belief imposition, tithes) oppose state power.[^8]\n- **Traité de Législation** (Charles Comte): Critiques systems making religion the basis of laws/morals, elevating clergy above magistrates. Clergy gains undue power over state.[^9]\n\nNo coverage in Old English poems or Urdu literature. Corpus lacks direct Christian king-pope or Islamic caliph-ulama discussions.\n\n[^1]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-e91140).\n[^2]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-fec45a).\n[^3]: Manusmṛti, Chapter 7, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-cbe0d7).\n[^4]: Manusmṛti, Chapter 8, [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-87f976).\n[^5]: Manusmṛti, Chapter 7, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-82f428).\n[^6]: Āṅgirasa Smṛti, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-5b9e77).\n[^7]: Bṛhaspati Smṛti, Chapter 1, [full chapter](/works/unknown-brhaspati-smrti-0fd070/01/translation/).\n[^8]: Nouveau traité d'économie: VOL I, Chapter 9, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/09/translation/#p-cd1452).\n[^9]: Traité de Législation: VOL I, Chapter 8, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08/translation/#p-e96a25).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ruler priest",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king priest",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rulers priests",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "priest king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ruler clergy",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king clergy",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmin king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"priests\" \"rulers\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"clergy\" \"rulers\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahmin\" \"king\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"church\" \"state\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" \"pope\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"caliph\" \"ulama\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ruler",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmin",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahman",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "priest",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "clergy",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 9,
+      "paragraph_id": "p-e91140"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 9,
+      "paragraph_id": "p-fec45a"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 9,
+      "paragraph_id": "p-cbe0d7"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 9,
+      "paragraph_id": "p-87f976"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 9,
+      "paragraph_id": "p-82f428"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 9,
+      "paragraph_id": "p-5b9e77"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 9,
+      "paragraph_id": "p-cd1452"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 9,
+      "paragraph_id": "p-e96a25"
+    }
+  ],
+  "duration_ms": 71884,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 152994,
+    "completion_tokens": 5950,
+    "total_tokens": 158944,
+    "cached_tokens": 28154,
+    "api_calls": 5,
+    "cost_usd": 0.0293507,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1549,
+        "completion_tokens": 951,
+        "total_tokens": 2500,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0005552
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1972,
+        "completion_tokens": 932,
+        "total_tokens": 2904,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008379
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5695,
+        "completion_tokens": 1277,
+        "total_tokens": 6972,
+        "cached_tokens": 150,
+        "cost_usd": 0.001755
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 20635,
+        "completion_tokens": 1385,
+        "total_tokens": 22020,
+        "cached_tokens": 5690,
+        "cost_usd": 0.003966
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters",
+          "read_chapter"
+        ],
+        "prompt_tokens": 123143,
+        "completion_tokens": 1405,
+        "total_tokens": 124548,
+        "cached_tokens": 20630,
+        "cost_usd": 0.0222366
+      }
+    ]
+  }
+}

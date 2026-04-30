@@ -1,0 +1,160 @@
+{
+  "answer": "**Vratisasana** (unknown-vratisasana-d0fe75) is a Medieval Indic Śaiva text in Old Javanese (Kawi) that outlines the *śāsana* (ordinances/discipline) for ascetics called *vikus* (or *bhujaṅgas*). Its single chapter details the core vows: the five *Yamas* (non-violence/*ahiṁsā*, chastity/*brahmacarya*, truth/*satya*, non-engagement in litigation/*avyavahārika*, non-stealing/*astainya*) and five *Niyamas* (non-anger, service to the teacher/*guruśuśrūṣā*, purity/*śauca*, light diet/*āhāralāghava*, vigilance/*apramāda*). These are presented as lifelong disciplines to be protected \"day by day\" to avoid unsteadiness of mind, major transgressions (*pantən*, nullifying ascetic status), and rebirth in hell.[^1]\n\nNo specific finite duration (e.g., days, months, years) is prescribed for any particular vow. Vows and austerities (*bratas*, *tapas*) are framed as ongoing practices \"for the duration of your life,\" with emphasis on mental equanimity rather than timed observance.[^2] Penances (*prāyaścittas*) or observation periods (e.g., 4–7 years before consecration or teaching eligibility) appear in contexts like disciple training, but these are not vows themselves.[^3]\n\nThis topic is not covered in the *Vratisasana*—the corpus lacks it here, though related Dharmaśāstras like *Viṣṇu Smṛti* discuss timed penances such as *mahāvrata* (e.g., 12 years).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vratisasana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vratisasana"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "vow"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vow\" duration"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vrata"
+      },
+      "result_summary": "Found 22 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "{\"slug\":\"unknown-vratisasana-d0fe75\",\"title\":\"Vratisasana\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Kawi\",\"lan"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vratisasana-d0fe75 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vratisasana duration"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duration\" vow OR vrata site:unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 28960,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 56520,
+    "completion_tokens": 2410,
+    "total_tokens": 58930,
+    "cached_tokens": 20483,
+    "api_calls": 5,
+    "cost_usd": 0.00943655,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 453,
+        "total_tokens": 2005,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003074
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1689,
+        "completion_tokens": 258,
+        "total_tokens": 1947,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0002373
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7724,
+        "completion_tokens": 384,
+        "total_tokens": 8108,
+        "cached_tokens": 1684,
+        "cost_usd": 0.0014842
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata"
+        ],
+        "prompt_tokens": 8025,
+        "completion_tokens": 301,
+        "total_tokens": 8326,
+        "cached_tokens": 7719,
+        "cost_usd": 0.00059765
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 37530,
+        "completion_tokens": 1014,
+        "total_tokens": 38544,
+        "cached_tokens": 8020,
+        "cost_usd": 0.00681
+      }
+    ]
+  }
+}

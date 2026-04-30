@@ -1,0 +1,158 @@
+{
+  "answer": "In Allama Iqbal's poem \"Ek haji Madinay ke raastay mein\" (A Pilgrim on the Road to Medina), from *Bang-E-Dara Part 3*, the narrator-pilgrim describes a perilous journey toward Medina (Yathrib). Their caravan is plundered by bandits in the desert, leaving the destination distant and treacherous.[^1] Fellow travelers are slain by daggers, prompting the survivors—with broken hearts—to turn back toward Mecca (God's House).[^2]\n\nOne companion, a youth from Bukhara, dies joyfully, viewing the bandit's dagger as the Eid crescent and invoking Yathrib on his lips while upholding the creed of the One God.[^3]\n\nThe pilgrim wrestles with fear, which warns against proceeding to Medina's gates, against passion's bold cry: \"You are a Muslim! Go without dread!\" Rejecting a return to Mecca unfinished, the pilgrim embraces the Hijra's fearless spirit, preferring the bliss of risk over safe retreat with the Syrian caravan, and extolling the soul's boldness over calculating reason.[^4]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-c8a255).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-203905).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-c5238d).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, [chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ek Haji Madinay ke Raastay Mein\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "haji madina road pilgrim"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-c8a255",
+          "p-203905",
+          "p-c5238d",
+          "p-407945"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-f880d8",
+          "p-70cdb7",
+          "p-ebe69b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-c8a255"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-203905"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-c5238d"
+    }
+  ],
+  "duration_ms": 26826,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 13925,
+    "completion_tokens": 3110,
+    "total_tokens": 17035,
+    "cached_tokens": 8704,
+    "api_calls": 4,
+    "cost_usd": 0.0030344,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 337,
+        "total_tokens": 1899,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004584
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2338,
+        "completion_tokens": 218,
+        "total_tokens": 2556,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003471
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 4696,
+        "completion_tokens": 1025,
+        "total_tokens": 5721,
+        "cached_tokens": 2333,
+        "cost_usd": 0.00110175
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 5329,
+        "completion_tokens": 1530,
+        "total_tokens": 6859,
+        "cached_tokens": 4691,
+        "cost_usd": 0.00112715
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "answer": "**The poem *Andreas* features a prominent sea voyage.**\n\nIn this Old English poem attributed to Cynewulf, Saint Andrew is divinely commanded to sail from Achaia across the \"whale-road\" (a kenning for the sea) to rescue his brother Matthew from the cannibalistic Mermedonians in their distant homeland.[^1] Andrew hesitates due to his unfamiliarity with sea routes, but finds a mysterious ship manned by three sailors (disguised God and angels). They endure a storm-tossed journey with vivid seafaring imagery, including waves, winds, whale-paths, and ocean currents, before arriving.[^2] The voyage forms the narrative core of Andrew's mission.[^3]\n\nThe other Cynewulf poems in the corpus—*Elene* (search for the True Cross) and *Juliana* (martyrdom tale)—do not feature sea voyages as central elements.[^4][^5]\n\n[^1]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-4d1e78).\n\n[^2]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-24dbdc).\n\n[^3]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-0575fe).\n\n[^4]: Cynewulf, *Elene*, Chapter 1 (no sea voyage; brief mentions of sea travel by messengers only).\n\n[^5]: Cynewulf, *Juliana*, Chapter 1 (persecutor's men drown at sea as a minor post-climax event).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-4d1e78"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-24dbdc"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-0575fe"
+    }
+  ],
+  "duration_ms": 18826,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 44928,
+    "completion_tokens": 1774,
+    "total_tokens": 46702,
+    "cached_tokens": 3567,
+    "api_calls": 3,
+    "cost_usd": 0.00933755,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1547,
+        "completion_tokens": 193,
+        "total_tokens": 1740,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0001764
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 1892,
+        "completion_tokens": 511,
+        "total_tokens": 2403,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006114
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 41489,
+        "completion_tokens": 1070,
+        "total_tokens": 42559,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00854975
+      }
+    ]
+  }
+}

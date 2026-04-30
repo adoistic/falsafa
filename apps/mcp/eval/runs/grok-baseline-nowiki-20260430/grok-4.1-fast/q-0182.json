@@ -1,0 +1,151 @@
+{
+  "answer": "**The work *San Hyan Mahajnana* (slug: `unknown-san-hyan-mahajnana-11c531`), a Medieval Indic text in Kawi with English translation, is a dialogue between Kumāra and the Lord (Śiva) expounding esoteric wisdom on the subtle body, states of consciousness, *liṅgas*, *oṃkāra*, and liberation (*mokṣa*).**[^1]\n\nIts single chapter opens by naming the subject: \"The Sacred Supreme Wisdom.\"[^2] This *mahā-jñāna* (supreme knowledge) encompasses the entire teaching, with the conclusion explicitly locating Śiva in the *ātma-liṅga* (self-*liṅga*) and the \"void within the void\" as its culmination.[^3]\n\nKey closing passages on this supreme knowledge (*mahā-jñāna* or *parama-jñāna*) include:\n\n> This *jñāna* is called the great wisdom, the culmination of the secret, eternally present in all states of being. The *vyakta* (the manifest) and the *avyakta* (the unmanifest), they must be abandoned. That is what is called the *upadeśa*.[^4]\n\n> *In the great wisdom, the great tattva, here all doubts are finished. Shiva is situated in the ātma-liṅga, and in the void within the void. // 86*[^5]\n\n> Here is The Sacred Supreme Wisdom, the great *tattva*. It is the highest of *tattvas*. It is complete, reaching its goal. Do not doubt, my son, revered Kumāra. *Shiva is situated in the ātma-liṅga.* The Lord Shiva dwells in the *ātma-liṅga*. *And in the void within the void.* This is called the ultimate of the void.[^6]\n\n> *Here the jñāna is in brief, and it is also called jñānasandhi. This jñāna is a great secret; grasp it with effort, my sons. // 87*[^7]\n\n> Thus is the *tattva* of The Sacred Supreme Wisdom, returning to the supreme end. //0//[^8]\n\n[^1]: Full chapter context from *San Hyan Mahajnana*, Chapter 1 ([translation](https://falsafa-corpus.org/works/unknown-san-hyan-mahajnana-11c531/01/translation/)).\n[^2]: *San Hyan Mahajnana*, Ch. 1, [p-573696](https://falsafa-corpus.org/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-573696).\n[^3]: Ibid., [p-f7e6ce](https://falsafa-corpus.org/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-f7e6ce).\n[^4]: Ibid., [p-ced8e1](https://falsafa-corpus.org/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-ced8e1).\n[^5]: Ibid., [p-14360c](https://falsafa-corpus.org/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-14360c).\n[^6]: Ibid., [p-f7e6ce](https://falsafa-corpus.org/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-f7e6ce).\n[^7]: Ibid., [p-ad1274](https://falsafa-corpus.org/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-ad1274).\n[^8]: Ibid., [p-0f7a95](https://falsafa-corpus.org/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-0f7a95).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-573696"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f7e6ce",
+          "p-ad1274",
+          "p-b2db9e",
+          "p-0f7a95"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ced8e1",
+          "p-14360c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-573696"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-f7e6ce"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-ced8e1"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-14360c"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-ad1274"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-0f7a95"
+    }
+  ],
+  "duration_ms": 39716,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 40773,
+    "completion_tokens": 4573,
+    "total_tokens": 45346,
+    "cached_tokens": 21877,
+    "api_calls": 4,
+    "cost_usd": 0.00715955,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 770,
+        "total_tokens": 2320,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006725
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 4873,
+        "completion_tokens": 380,
+        "total_tokens": 5253,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011421
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 16714,
+        "completion_tokens": 1748,
+        "total_tokens": 18462,
+        "cached_tokens": 4868,
+        "cost_usd": 0.0034866
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 17636,
+        "completion_tokens": 1675,
+        "total_tokens": 19311,
+        "cached_tokens": 16709,
+        "cost_usd": 0.00185835
+      }
+    ]
+  }
+}

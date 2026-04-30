@@ -1,0 +1,202 @@
+{
+  "answer": "\"It's not that faith in Judgment Day I've mislaid;  \nThis **night of parting** holds far more to dread.[^1]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/151-nahin-ke-mujh-ko-qayamat-ka-aiteqad-nahin/translation/#p-02fe6d).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night of separation\" OR \"night\" \"separation\" \"judgment day\" OR \"doomsday\" OR \"qiyamat\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night\" \"separation\" \"day of resurrection\" OR \"judgment day\" OR \"qiyamah\" OR \"doomsday\"",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night of separation\" OR \"shab-e-hijran\" OR \"shab hijran\" OR \"night\" \"hijran\" OR \"night of parting\" OR \"parting's night\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night\" \"separation\" OR \"night\" \"parting\" OR \"night\" \"hijr\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib \"night\" (\"separation\" OR \"parting\" OR \"hijr\" OR \"hijran\")",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night\" (\"qiyamat\" OR \"qayamat\" OR \"doomsday\" OR \"judgment day\") ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 45,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.45 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 166,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.166 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 151,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.151 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 229,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.229 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night of\" OR \"shab-e\" OR \"night's\" ghalib (\"separation\" OR \"parting\" OR \"furqat\" OR \"hijr\" OR \"hijran\")",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 151,
+        "paragraph_ids": [
+          "p-02fe6d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 151,
+      "paragraph_id": "p-02fe6d"
+    }
+  ],
+  "duration_ms": 83606,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 55002,
+    "completion_tokens": 7269,
+    "total_tokens": 62271,
+    "cached_tokens": 38881,
+    "api_calls": 5,
+    "cost_usd": 0.00880275,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1551,
+        "completion_tokens": 663,
+        "total_tokens": 2214,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00041235
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5324,
+        "completion_tokens": 1693,
+        "total_tokens": 7017,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00168195
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13105,
+        "completion_tokens": 3154,
+        "total_tokens": 16259,
+        "cached_tokens": 5319,
+        "cost_usd": 0.00340015
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17409,
+        "completion_tokens": 847,
+        "total_tokens": 18256,
+        "cached_tokens": 13100,
+        "cost_usd": 0.0019403
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 17613,
+        "completion_tokens": 912,
+        "total_tokens": 18525,
+        "cached_tokens": 17404,
+        "cost_usd": 0.001368
+      }
+    ]
+  }
+}

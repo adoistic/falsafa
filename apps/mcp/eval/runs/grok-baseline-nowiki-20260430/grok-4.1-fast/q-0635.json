@@ -1,0 +1,205 @@
+{
+  "answer": "In the Urdu portion of the Falsafa corpus—comprising Allama Iqbal's *Bang-e-Dara* (Parts 1–3), Mirza Ghalib's *Diwan-e-Ghalib*, and Sheikh Ibrahim Zauq's *Diwan-e-Zauq*—the term *ghairat* (غيرت, transliterated as such) appears three times in the Romanized transliterations of the poetry (not in the English translations, which render it metaphorically).[^1][^2][^3] These are all ghazals or nazms where it carries poetic connotations of zealous honor, noble pride, protective dignity, or spirited rivalry—often tied to spiritual aspiration, beauty, or rivalry with the divine. It aligns closely with the user's glosses of \"honour, jealousy, dignity,\" but in a culturally inflected sense: an intense, passionate guardianship of self, faith, or beauty, evoking both pride and zealous fervor rather than petty envy.\n\n### Key Usages\n- **Iqbal, *Bang-e-Dara Part 1*, \"Sarguzasht-e-Adam\" (Ch. 37)**: Humanity's scientific triumphs (capturing rays of light and lightning) transform Earth into *ghairat-e-jannat* (\"the ghairat/pride/rivalry of paradise\"). Here, *ghairat* implies a bold, jealous emulation of divine perfection, elevating the earthly realm.[^4]  \n  Relevant transliteration: \"...ke aaina-e-aql-e-door-been mein ne kiya aseer shuaaon ko, barq-e-muztar ko bana di *ghairat-e-jannat* yeh sar zameen mein ne...\"[^5]\n\n- **Iqbal, *Bang-e-Dara Part 3*, \"Huzoor Risalat Ma'ab Mein\" (Ch. 11)**: The Prophet praises the poet (as nightingale) for his devotion: *ghairat-e-sujood-e-niyaaz* (\"ghairat/pride/honor of prostration and supplication\"). It portrays humility not as abasement but as dignified zeal in worship.[^6]  \n  Relevant transliteration: \"Fitadgi Hai teri *ghairat-e-sujood-e-niyaaz*...\"[^7]\n\n- **Zauq, *Diwan-e-Zauq*, \"Qulf-e-sad-khana-e-dil...\" (Ch. 45)**: *Sang-e-ghairat* (\"stone of ghairat/honor\") shatters era-breaking mirrors upon glimpsing the beloved's face. This evokes an irrepressible, honor-bound passion or jealousy aroused by beauty, overwhelming restraint.[^8]  \n  Relevant transliteration: \"Sang-e-*ghairat* se kai aaiine ae ehd-shikan / Dekh kar saaf tera roo-e-nekoo toot gaye...\"\n\nNo explicit philosophical *definition* of *ghairat* exists in these literary works (the corpus lacks prose treatises on the term). Instead, it emerges thematically as a virtue of spirited dignity—bridging personal honor, devotional pride, and zealous rivalry—in the classical Urdu ghazal tradition. Related English concepts like \"honor\" appear ~10 times in Urdu translations (e.g., Iqbal on communal/national pride), \"jealousy\" ~3 times (mostly Ghalib's romantic *rashk*), and \"dignity\" ~1 time (Iqbal), but without direct equivalence to the Urdu term.[^9]\n\n[^1]: Searches limited to English bodies (including transliterations); exact \"\\\"ghairat\\\"\" yields 0 in translations.\n[^2]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/transliteration/#p-1953d1 (via chapter body).\n[^3]: /works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/45-qulf-e-sad-khana-e-dil-aaya-jo-tu-toot-gaye/transliteration/#p-97d5c2.\n[^4]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/translation/.\n[^5]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/transliteration/.\n[^6]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/.\n[^7]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/transliteration/#p-93ac39.\n[^8]: /works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/45-qulf-e-sad-khana-e-dil-aaya-jo-tu-toot-gaye/transliteration/.\n[^9]: E.g., Iqbal translations use \"honor\" for communal *aabroo*/pride (Part 3, Ch. 11); Ghalib for romantic dignity. Non-Urdu works dominate these terms.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghairat",
+        "limit": 50
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ghairat\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "honour",
+        "limit": 50
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "honor",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jealousy",
+        "limit": 50
+      },
+      "result_summary": "Found 41 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dignity",
+        "limit": 50
+      },
+      "result_summary": "Found 37 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.37 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.37 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.11 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 45,
+        "paragraph_ids": [
+          "p-97d5c2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 45,
+        "paragraph_ids": [
+          "p-97d5c2"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 45,
+      "paragraph_id": "p-1953d1"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 45,
+      "paragraph_id": "p-97d5c2"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 45,
+      "paragraph_id": "p-93ac39"
+    }
+  ],
+  "duration_ms": 41050,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 47808,
+    "completion_tokens": 5360,
+    "total_tokens": 53168,
+    "cached_tokens": 22478,
+    "api_calls": 4,
+    "cost_usd": 0.0088699,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 218,
+        "total_tokens": 1772,
+        "cached_tokens": 150,
+        "cost_usd": 0.0003973
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2203,
+        "completion_tokens": 645,
+        "total_tokens": 2848,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007406
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19985,
+        "completion_tokens": 1289,
+        "total_tokens": 21274,
+        "cached_tokens": 2198,
+        "cost_usd": 0.0043118
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 24066,
+        "completion_tokens": 3208,
+        "total_tokens": 27274,
+        "cached_tokens": 19980,
+        "cost_usd": 0.0034202
+      }
+    ]
+  }
+}

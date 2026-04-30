@@ -1,0 +1,143 @@
+{
+  "answer": "**The Vīramitrodaya (also known as the Vīramitrodaya Samayaprakāśa), Chapter 1.**\n\nThis dharma digest repeatedly closes its subsections with a colophon praising Mitra Miśra (son of Paraśurāma Miśra and grandson of Haṃsa Paṇḍita) and crediting him as the compiler at the behest of King Vīrasiṃhadeva (the \"sun causing the lotus of the earth encircled by the four oceans to bloom,\" son of Mahārāja Madhukarasāha and grandson of Mahārājādhirāja Pratāparudra), whom it lauds as \"a lion to the great elephant of the world's poverty, the very life of the learned.\"[^1]\n\n[^1]: Vīramitrodaya, Chapter 1, [paragraph](/works/unknown-viramitrodaya-d4b632/1/translation/#p-e738e7).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Paraśurāma Miśra",
+        "limit": 20
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"son of Paraśurāma\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Haṃsa Paṇḍita\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Pratāparudra\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Madhukarasāha\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-viramitrodaya-d4b632 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lotus of the earth\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"four oceans\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Madhukara\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Prataparudra\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-e738e7"
+    }
+  ],
+  "duration_ms": 52326,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 278960,
+    "completion_tokens": 2773,
+    "total_tokens": 281733,
+    "cached_tokens": 4485,
+    "api_calls": 3,
+    "cost_usd": 0.11158155,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1656,
+        "completion_tokens": 645,
+        "total_tokens": 2301,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006312
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2810,
+        "completion_tokens": 652,
+        "total_tokens": 3462,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0006585
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 274494,
+        "completion_tokens": 1476,
+        "total_tokens": 275970,
+        "cached_tokens": 2805,
+        "cost_usd": 0.11029185
+      }
+    ]
+  }
+}

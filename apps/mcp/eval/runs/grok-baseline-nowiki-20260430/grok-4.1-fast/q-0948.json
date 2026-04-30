@@ -1,0 +1,273 @@
+{
+  "answer": "**The Falsafa corpus does not contain explicit linguistic analysis or description of how Old Javanese (Kawi) treats Buddhist Sanskrit terms differently from Śaiva Sanskrit terms.** Both *Kalpabuddha* (likely Buddhist, referencing the five Tathāgatas) and *Vṛhaspatitattva* (Śaiva, focused on Śiva-tattvas) are Kawi texts that embed Sanskrit technical terms directly into Old Javanese prose, often prefixed with *bhaṭāra* (\"lord\") or glossed with native equivalents (e.g., *cakṣuh ṅa mata* \"eye which is the eye\"). No passages compare traditions or note phonological, morphological, or orthographic distinctions (e.g., vowel shifts, metathesis, or sandhi adaptations specific to one school). Searches for related concepts (e.g., \"Sanskrit loan,\" \"adaptation,\" \"Buddhist Saiva term\") yielded no relevant results on differential treatment.[^1][^2]\n\nAs requested, here are pinned examples:\n\n- **Buddhist term in *Kalpabuddha***: *pañcatathāgata* (\"five Tathāgatas,\" i.e., the five Dhyānibuddhas), used for the divinities presiding over the senses: *kunĕṅ pva bhaṭāra pañcatathāgata... ṅa bhaṭāra akṣobhya muṅguh riṅ mata* (\"together with the lords of the five Tathāgatas... lord Akṣobhya presides over the eye\").[^3]\n\n- **Śaiva term in *Vṛhaspatitattva***: *paramaśivatattva* (\"supreme Śiva-tattva,\" the highest conscious principle): *paramaśivatattva ṅaranya / aprameyam anirdeśyam...* (\"the *paramaśivatattva* is immeasurable, indescribable...\").[^4]\n\nIf the corpus expands with philological commentaries, this could be revisited; currently, no such distinction is documented.[^1]: /works/unknown-kalpabuddha-d760dc/06/translation/  \n[^2]: /works/unknown-vrhaspatitattva-b60b28/01/transliteration/  \n[^3]: /works/unknown-kalpabuddha-d760dc/06/transliteration/#p-44a755  \n[^4]: /works/unknown-vrhaspatitattva-b60b28/01/transliteration/#p-3e3527",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "saiva"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kalpabuddha"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vrhaspatitattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vrhaspati"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vṛhaspati"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brihaspati"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Saiva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old Javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "{\"slug\":\"unknown-kalpabuddha-d760dc\",\"title\":\"Kalpabuddha\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Kawi\",\"lan"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "Listed 6 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.6 of unknown-kalpabuddha-d760dc (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (transliteration)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"slug\":\"unknown-vrhaspatitattva-b60b28\",\"title\":\"Vrhaspatitattva\",\"author\":\"Bṛhaspati\",\"author_slug\":\"brhaspati\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Old Javanese\" OR \"Kawi\" Sanskrit"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-44a755"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-3e3527"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sanskrit loan OR adaptation OR transliteration"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Buddhist Saiva term"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-44a755"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-3e3527"
+    }
+  ],
+  "duration_ms": 50167,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 92047,
+    "completion_tokens": 6157,
+    "total_tokens": 98204,
+    "cached_tokens": 46610,
+    "api_calls": 5,
+    "cost_usd": 0.0144964,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1575,
+        "completion_tokens": 687,
+        "total_tokens": 2262,
+        "cached_tokens": 150,
+        "cost_usd": 0.000636
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1906,
+        "completion_tokens": 1035,
+        "total_tokens": 2941,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0006689
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "get_metadata",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6083,
+        "completion_tokens": 1046,
+        "total_tokens": 7129,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017171
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "list_chapters",
+          "get_metadata",
+          "search_corpus"
+        ],
+        "prompt_tokens": 38705,
+        "completion_tokens": 1807,
+        "total_tokens": 40512,
+        "cached_tokens": 6078,
+        "cost_usd": 0.0077328
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 43778,
+        "completion_tokens": 1582,
+        "total_tokens": 45360,
+        "cached_tokens": 38700,
+        "cost_usd": 0.0037416
+      }
+    ]
+  }
+}

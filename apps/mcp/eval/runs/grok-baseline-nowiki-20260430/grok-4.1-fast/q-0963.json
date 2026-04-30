@@ -1,0 +1,306 @@
+{
+  "answer": "In Cynewulf's *Andreas*, Christ most directly states the journey's purpose when commanding Andreas (Andrew) from the seashore: to travel to Mermedonia and rescue his brother Matthew from captivity before he is killed and eaten by the cannibalistic inhabitants.[^1] This divine imperative is reinforced later upon arrival, when Christ appears and reiterates the tasks of liberation and conversion.[^2]\n\nIn Allama Iqbal's \"Ek haji Madinay ke raastay mein\" (*Bang-E-Dara Part 3*), the pilgrim most directly states his journey's purpose amid internal debate after his caravan is raided: to reach Madina (Yathrib) despite mortal peril, rather than turning back to Mecca, lest he face shame on the Day of Judgment.[^3] The Hijra's \"secret\"—fearless persistence toward the Prophet's tomb—embodies this resolve.[^4]\n\nIqbal's pilgrim has more freedom to turn back: his quest is self-driven by passion overriding fear and reason, with no supernatural compulsion or penalty for refusal (save personal/spiritual regret). Andreas, by contrast, voyages under explicit divine orders, having already sinned by initial hesitation; refusal would compound disobedience to God.[^5]\n\n[^1]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-4d1e78).\n\n[^2]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-655ebf).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-70cdb7).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-ebe69b).\n\n[^5]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-655ebf).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedonia"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Madina"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Javid Nama\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Madina"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Medina"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pilgrim road Madina"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal journey"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-3-cc61e8\",\"title\":\"Bang-E-Dara Part 3\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"road to Madina\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"haji\" Madina"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 6,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.6 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4d1e78"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-70cdb7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-ebe69b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-655ebf"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-4d1e78"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-655ebf"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-70cdb7"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ebe69b"
+    }
+  ],
+  "duration_ms": 48607,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 101750,
+    "completion_tokens": 5564,
+    "total_tokens": 107314,
+    "cached_tokens": 71368,
+    "api_calls": 6,
+    "cost_usd": 0.0124268,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1586,
+        "completion_tokens": 445,
+        "total_tokens": 2031,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00031035
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5932,
+        "completion_tokens": 1111,
+        "total_tokens": 7043,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017194
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 7008,
+        "completion_tokens": 856,
+        "total_tokens": 7864,
+        "cached_tokens": 5927,
+        "cost_usd": 0.00094055
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_metadata",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 27641,
+        "completion_tokens": 516,
+        "total_tokens": 28157,
+        "cached_tokens": 7003,
+        "cost_usd": 0.00473575
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 29128,
+        "completion_tokens": 1158,
+        "total_tokens": 30286,
+        "cached_tokens": 27636,
+        "cost_usd": 0.0022592
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 30455,
+        "completion_tokens": 1478,
+        "total_tokens": 31933,
+        "cached_tokens": 29123,
+        "cost_usd": 0.00246155
+      }
+    ]
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "answer": "**Iqbal's representation of dawn (embodied in the Sun, or *Aaftab*) is far more theological.**[^1]\n\nIn \"Aaftab\" from *Bang-E-Dara Part 1*, the Sun is directly apostrophized as a divine, life-giving force: the \"world's own soul,\" binding existence across time and space; the origin of Being from Unbeing; the source of life's urge and harmony; the embodiment of \"Heart, is Mind, is Soul, is conscious Light\"; a bestower of \"the light of consciousness\" upon humanity; the eternal \"Lord\" of all creation, \"free from chains of time.\"[^2] This portrayal draws on Islamic philosophical and Sufi motifs (e.g., *tajalli* or divine manifestation, *rooh-e-rawaan* or vital soul), elevating the Sun to a near-pantheistic symbol of God's radiance, consciousness (*khirad*, *shaoor*), and sustenance of the cosmos.[^3]\n\nBy contrast, dawn in the *Old English Elegies*—poems of exile, loss, and mutability like *The Wanderer*, *The Seafarer*, and *The Wife's Lament*—serves as a poignant, recurring motif of sorrowful awakening rather than divine glory.[^4] In *The Wanderer*, the exile \"must alone, at each dawn, lament my sorrows,\" greeting empty seas and birds that renew his grief for lost kin and hall-joys, underscoring *wyrd* (fate) and earthly transience.[^5] Similarly, in *The Wife's Lament*, she \"at dawn must walk alone under the oak tree,\" enduring isolation in her earth-cave.[^6] These moments heighten meditations on impermanence, urging wisdom, patience, and grace from the \"Father in heaven\" or \"Measurer,\" but dawn itself is not deified—it's a grim temporal marker amid Christian reflections on vanity and salvation.[^7]\n\nIqbal theologizes dawn/Sun as an active, conscious emanation of the Divine; the Elegies use it naturalistically to evoke lament, indirectly pointing *toward* theology (e.g., eternal stability in God) without making dawn inherently sacred.[^8]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 14 (*Aaftab*), [translation](https://falsafa-corpus.org/works/allama-iqbal-bang-e-dara-part-1-55b25c/14-aaftab/translation/).\n\n[^2]: Ibid., [p-96b3da](https://falsafa-corpus.org/works/allama-iqbal-bang-e-dara-part-1-55b25c/14-aaftab/translation/#p-96b3da), [p-0d24a0](https://falsafa-corpus.org/works/allama-iqbal-bang-e-dara-part-1-55b25c/14-aaftab/translation/#p-0d24a0), [p-df7250](https://falsafa-corpus.org/works/allama-iqbal-bang-e-dara-part-1-55b25c/14-aaftab/translation/#p-df7250), [p-fdcce3](https://falsafa-corpus.org/works/allama-iqbal-bang-e-dara-part-1-55b25c/14-aaftab/translation/#p-fdcce3).\n\n[^3]: Ibid., [p-af377c](https://falsafa-corpus.org/works/allama-iqbal-bang-e-dara-part-1-55b25c/14-aaftab/translation/#p-af377c), [p-d7151b](https://falsafa-corpus.org/works/allama-iqbal-bang-e-dara-part-1-55b25c/14-aaftab/translation/#p-d7151b), [p-d0845f](https://falsafa-corpus.org/works/allama-iqbal-bang-e-dara-part-1-55b25c/14-aaftab/translation/#p-d0845f).\n\n[^4]: *Old English Elegies* (various chapters), [translation](https://falsafa-corpus.org/works/unknown-old-english-elegies-d5fe9e/).\n\n[^5]: Ibid., ch. 11 (*The Wanderer*), [p-9462cc](https://falsafa-corpus.org/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc); cf. awakening to \"fallow waves\" and sorrow's renewal, [p-9cca5e](https://falsafa-corpus.org/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9cca5e).\n\n[^6]: Ibid., ch. 3 (*The Wife's Lament*), [p-c1cc32](https://falsafa-corpus.org/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-c1cc32).\n\n[^7]: *The Wanderer*, [p-5bdc65](https://falsafa-corpus.org/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-5bdc65); *The Seafarer* (ch. 5), [p-eff626](https://falsafa-corpus.org/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-eff626) on heavenly joys over earthly.\n\n[^8]: No other dawn passages in the Elegies overtly theologize it; searches for \"dawn,\" \"morning,\" etc., confirm these as primary.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "old english"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "elegy"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Aaftab Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Old English Elegies\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Aaftab",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "aftab",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dawn Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dawn",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "seafarer"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wanderer"
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wife's lament"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old english\" elegy"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dawn elegy"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "Anglo-Saxon"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dawn\" \"wanderer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dawn\" seafarer"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dawn wanderer OR seafarer OR \"wife's lament\" OR ruins OR \"elegies\"",
+        "limit": 20
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"slug\":\"unknown-old-english-elegies-d5fe9e\",\"title\":\"Old English Elegies\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Literature\",\"genre_slug\":\"literatu"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dawn\" OR \"morning\" OR \"daybreak\" OR \"sunrise\" \"elegies\" OR wanderer OR seafarer",
+        "limit": 10
+      },
+      "result_summary": "Found 8 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-96b3da"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-0d24a0"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-df7250"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-fdcce3"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-af377c"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-d7151b"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-d0845f"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-9cca5e"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-c1cc32"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-5bdc65"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-eff626"
+    }
+  ],
+  "duration_ms": 67372,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 81473,
+    "completion_tokens": 7530,
+    "total_tokens": 89003,
+    "cached_tokens": 54310,
+    "api_calls": 6,
+    "cost_usd": 0.0119131,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1559,
+        "completion_tokens": 683,
+        "total_tokens": 2242,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006308
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2147,
+        "completion_tokens": 1690,
+        "total_tokens": 3837,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00104505
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 13756,
+        "completion_tokens": 1047,
+        "total_tokens": 14803,
+        "cached_tokens": 2142,
+        "cost_usd": 0.0029534
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 16166,
+        "completion_tokens": 968,
+        "total_tokens": 17134,
+        "cached_tokens": 13751,
+        "cost_usd": 0.00165455
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_metadata"
+        ],
+        "prompt_tokens": 20582,
+        "completion_tokens": 1022,
+        "total_tokens": 21604,
+        "cached_tokens": 16161,
+        "cost_usd": 0.00220325
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 27263,
+        "completion_tokens": 2120,
+        "total_tokens": 29383,
+        "cached_tokens": 20577,
+        "cost_usd": 0.00342605
+      }
+    ]
+  }
+}

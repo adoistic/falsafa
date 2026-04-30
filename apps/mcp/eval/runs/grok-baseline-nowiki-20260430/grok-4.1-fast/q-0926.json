@@ -1,0 +1,216 @@
+{
+  "answer": "**'Hǣleþ' (Old English)** appears extensively in Cynewulf's *Andreas*, an Old English Christian heroic poem, where it denotes a man of valor, often a warrior, hero, or champion—elevated to describe apostles and saints battling spiritual foes much like Germanic warriors fight physical ones.[^1] For instance, the poem opens by praising \"tīreādige hǣleþ\" (glorious heroes), the twelve apostles as \"the Lord’s own champions,\" whose \"glory lived on in the grim struggle where standards clashed.\"[^2] It portrays Matthew and Andrew enduring cannibalistic torment and performing miracles, akin to epic feats: Andrew is the \"doughty hero,\" \"bold-hearted,\" and \"battle-hardened,\" freeing captives through divine power.[^3] This blends pagan heroic diction with Christian hagiography, emphasizing loyalty (*þegn*, thane), courage (*ellen*, *beaduheard*), and glory (*tīr*, *þrym*).\n\n**Vīra (Sanskrit)** occurs in the corpus mostly as a name-component (*Vīrasiṃha*, \"hero-lion\"; *Vīra Juhārasiṃha*, \"hero-lion victory\"; *Vīra Vikramāditya*, \"hero valor-sun\") in *Vīramitrodaya* (by Mitra Miśra), praising medieval kings as embodiments of heroic valor (*vīrya*, prowess), generosity, and conquest—like lions roaring over foes or Indra ruling the earth.[^4] E.g., Vīrasiṃha is \"a lion among kings,\" whose \"valor... the forest fire,\" bow conquers forests like Arjuna's, and whose rule merges into Brahman.[^5] In *Manusmṛti*, *Virāj* (related form) is a primordial male entity created by the Lord, from whom worlds emerge.[^6] Ritual texts like *Āṅgirasa Smṛti* use *vīrāsana* (hero-pose) for ascetic postures.[^7] It evokes epic heroism (*vīrya* as one of the Buddhist perfections in *San Hyan Kamahayanikan*), but the corpus lacks Mahābhārata/Rāmāyaṇa-style usage.\n\n**Comparison**: Both terms idealize the *heroic male*—*hǣleþ* as a battle-ready thane (spiritualized in OE Christianity), *vīra* as a valorous king/conqueror (cosmic/royal in Indic praise-poetry). Shared: martial glory, leadership, physical/spiritual prowess. Differences: OE poetic (alliterative, Christian-heroic); Sanskrit nominal (kingly epithets, ritual/cosmogonic). No corpus text directly equates or philosophically compares them; heroic motifs align loosely via shared IE roots (*koryos*-warrior band?), but coverage is limited (no OE epics like *Beowulf*; no Indic epics).[^8]\n\n[^1]: Cynewulf, *Andreas*, [Chapter 1 (transliteration)](/works/cynewulf-andreas-07b573/01/transliteration/#p-992aeb).\n[^2]: Cynewulf, *Andreas*, [Chapter 1 (translation)](/works/cynewulf-andreas-07b573/01/translation/#p-868413).\n[^3]: Ibid., [p-58182e](/works/cynewulf-andreas-07b573/01/translation/#p-58182e), [p-da0c5e](/works/cynewulf-andreas-07b573/01/translation/#p-da0c5e), [p-24dbdc](/works/cynewulf-andreas-07b573/01/translation/#p-24dbdc).\n[^4]: Mitra Miśra, *Vīramitrodaya*, [Chapter 1 (translation)](/works/unknown-viramitrodaya-d4b632/01/translation/#p-750d90).\n[^5]: Ibid., [p-ff5123](/works/unknown-viramitrodaya-d4b632/01/translation/#p-ff5123), [p-71cae0](/works/unknown-viramitrodaya-d4b632/01/translation/#p-71cae0), [p-40368d](/works/unknown-viramitrodaya-d4b632/01/translation/#p-40368d).\n[^6]: Manu, *Manusmṛti*, [Chapter 1 (translation)](/works/unknown-manusmrti-347b76/01/translation/#p-1d82e4).\n[^7]: Aṅgirasa, *Āṅgirasa Smṛti*, [Chapter 1 (translation)](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-9e8ba9).\n[^8]: Corpus has 4 OE works (heroic poetry), ~10 Sanskrit Smṛtis/dharma texts; no cross-lingual analysis.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "oe"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "haele"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vira"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hero\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"warrior\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vīra"
+      },
+      "result_summary": "Found 27 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vīr"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "epic"
+      },
+      "result_summary": "Listed 0 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-992aeb"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-868413"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-58182e"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-da0c5e"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-24dbdc"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-750d90"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ff5123"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-71cae0"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-40368d"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-1d82e4"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-9e8ba9"
+    }
+  ],
+  "duration_ms": 39439,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 64001,
+    "completion_tokens": 4077,
+    "total_tokens": 68078,
+    "cached_tokens": 9682,
+    "api_calls": 3,
+    "cost_usd": 0.0133864,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1567,
+        "completion_tokens": 843,
+        "total_tokens": 2410,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00050555
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6629,
+        "completion_tokens": 1292,
+        "total_tokens": 7921,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00174245
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 55805,
+        "completion_tokens": 1942,
+        "total_tokens": 57747,
+        "cached_tokens": 6624,
+        "cost_usd": 0.0111384
+      }
+    ]
+  }
+}

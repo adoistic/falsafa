@@ -1,0 +1,159 @@
+{
+  "answer": "**In the Old English poem \"Widsith\" (chapter 14 of *Old English Elegies*), the narrator—a wandering scop named Widsith—claims to have traveled far and wide, serving many lords and visiting numerous tribes and their rulers.**[^1]\n\nThree kings he specifically names as having visited include:\n\n- **Eormanric**, king of the Goths (also called the Hreth-king), with whom he stayed for a long time and from whom he received a valuable gold ring.[^2]\n- **Guthere**, king of the Burgundians, who rewarded his song with a gleaming treasure (a ring).[^3]\n- **Ælfwine**, son of Eadwine, whom he visited in Italy and praises for generosity with rings and praise.[^4]\n\nWidsith recites an even longer catalogue of over 70 rulers and tribes he claims association with across Europe, Asia, and biblical lands, blending historical, legendary, and mythical figures.[^5]\n\n[^1]: *Old English Elegies*, ch. 14 (\"Widsith matholade, wordhord onleac\"), translation, [paragraph](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-2f6bd3).\n\n[^2]: *Old English Elegies*, ch. 14, translation, [paragraph](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-f8162a).\n\n[^3]: *Old English Elegies*, ch. 14, translation, [paragraph](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-8276c0).\n\n[^4]: *Old English Elegies*, ch. 14, translation, [paragraph](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-8276c0).\n\n[^5]: *Old English Elegies*, ch. 14, translation, [paragraph](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-545201).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Widsith"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 14,
+        "paragraph_ids": [
+          "p-8276c0",
+          "p-f8162a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 14,
+        "paragraph_ids": [
+          "p-545201"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-2f6bd3"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-f8162a"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-8276c0"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-545201"
+    }
+  ],
+  "duration_ms": 37741,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 19270,
+    "completion_tokens": 3743,
+    "total_tokens": 23013,
+    "cached_tokens": 4934,
+    "api_calls": 4,
+    "cost_usd": 0.0049854,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 458,
+        "total_tokens": 2010,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00030975
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3108,
+        "completion_tokens": 326,
+        "total_tokens": 3434,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007621
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6623,
+        "completion_tokens": 1185,
+        "total_tokens": 7808,
+        "cached_tokens": 3103,
+        "cost_usd": 0.00145165
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 7987,
+        "completion_tokens": 1774,
+        "total_tokens": 9761,
+        "cached_tokens": 150,
+        "cost_usd": 0.0024619
+      }
+    ]
+  }
+}

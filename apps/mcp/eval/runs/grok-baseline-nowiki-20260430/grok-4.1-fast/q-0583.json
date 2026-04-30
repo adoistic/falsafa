@@ -1,0 +1,271 @@
+{
+  "answer": "**For Charles Dunoyer, \"industry\" (*industrie*) denotes the skillful, purposeful human activity—rooted in the Latin *industria* (from *intus-struere*, \"to construct within\")—directed toward useful ends, especially the creation of utilities (values) through labor on things or persons, without violence, spoliation, or exploitation.[^1][^2] It encompasses not merely mechanical or manufacturing arts (as in narrower contemporary usage) but *all* productive professions: agriculture, manufacturing, commerce, sciences, teaching, law, medicine, arts, governance, and moral instruction, provided they generate lasting utilities (e.g., health, knowledge, virtues, order) via peaceful exchange rather than domination.[^3][^4] Dishonest \"industries\" like fraud (\"knights of industry\") or privilege-seeking are excluded as non-productive spoliation.[^5] The \"industrial regime\" (*régime industriel*) is thus the ideal society where universal activity turns toward such labor: no slaves, privileged, or office-seekers; only producers exchanging freely, yielding maximal liberty through moral and productive progress.[^6][^7]**\n\n**Charles Comte employs *industrie* similarly in his broader oeuvre (though less centrally in *Traité de la propriété*), aligning with their shared editorial tradition at *Le Censeur Européen*, where \"industriels\" designated the peaceful, value-creating class opposing parasitic \"décadents\" (exploiters via force or privilege).[^8] In *Traité de législation*, he links industry to liberty-enabling property appropriation, contrasting slave-based economies (unproductive) with free labor creating value.[^9]**\n\n**This 19th-century French liberal sense differs sharply from later (post-1830s) connotations, where \"industrial\" narrowed to mechanized manufacturing, factories, and the \"industrial revolution\" (e.g., heavy production, urbanization, class conflict per Marx/Saint-Simon). For Comte/Dunoyer, *industrie* is philosophical and universal—any non-violent utility production fostering civilization/liberty—not sector-specific, materialist, or conflict-ridden; it includes intellectual/moral \"industries\" (e.g., politics as highest) and rejects exploitation outright, prefiguring but transcending physiocratic/agricultural biases.[^10][^11] The corpus lacks coverage of later Marxist/productivist shifts.**\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie*, VOL I, [ch. 11](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/#p-06038f).\n\n[^2]: Charles Dunoyer, *Nouveau traité d'économie*, VOL I, [ch. 11](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/#p-cd2259).\n\n[^3]: Charles Dunoyer, *Nouveau traité d'économie*, VOL II, [ch. 13](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/#p-76ee09).\n\n[^4]: Charles Dunoyer, *Nouveau traité d'économie*, VOL II, [ch. 13](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/#p-a1cb96).\n\n[^5]: Charles Dunoyer, *Nouveau traité d'économie*, VOL I, [ch. 11](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/#p-b3a2fd).\n\n[^6]: Charles Dunoyer, *Nouveau traité d'économie*, VOL I, [ch. 11](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/#p-872da7).\n\n[^7]: Charles Dunoyer, *Nouveau traité d'économie*, VOL I, [Introduction](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/#p-67acca).\n\n[^8]: *Traité de législation*, VOL I, [ch. 0](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/00-preface/translation/) (contextual; direct \"industry\" sparse in translations, but doctrinal overlap evident).\n\n[^9]: *Traité de la propriété*, VOL I, [ch. 2](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/02-de-la-liberte-consideree-comme-une-condition-de-le/translation/) (liberty enables industrious appropriation).\n\n[^10]: Charles Dunoyer, *Nouveau traité d'économie*, VOL I, [ch. 11](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/#p-5516e9).\n\n[^11]: Charles Dunoyer, *Nouveau traité d'économie*, VOL II, [ch. 13](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/#p-29f8d8).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"industrie\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"industrial\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "industry",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "industriel",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "industries",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"classe industrielle\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "industrious",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "Listed 7 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0
+      },
+      "result_summary": "Read ch.0 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 13
+      },
+      "result_summary": "Read ch.13 of charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "industrie",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-06038f"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-cd2259"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-76ee09"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-a1cb96"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-b3a2fd"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-872da7"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-67acca"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-5516e9"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-29f8d8"
+    }
+  ],
+  "duration_ms": 30091,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 83440,
+    "completion_tokens": 4588,
+    "total_tokens": 88028,
+    "cached_tokens": 20037,
+    "api_calls": 4,
+    "cost_usd": 0.01597645,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1565,
+        "completion_tokens": 545,
+        "total_tokens": 2110,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00035615
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3530,
+        "completion_tokens": 976,
+        "total_tokens": 4506,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0009645
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 13458,
+        "completion_tokens": 1113,
+        "total_tokens": 14571,
+        "cached_tokens": 3525,
+        "cost_usd": 0.00271935
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 64887,
+        "completion_tokens": 1954,
+        "total_tokens": 66841,
+        "cached_tokens": 13453,
+        "cost_usd": 0.01193645
+      }
+    ]
+  }
+}

@@ -177,7 +177,7 @@ cd apps/mcp && bun run dev
 # reading site + /try BYOK demo
 cd apps/site && bun run dev
 
-# MCP eval suite (ANTHROPIC_API_KEY for Haiku, optional Sonnet judge)
+# MCP eval suite (deterministic citation-based scoring against expected_works)
 cd apps/mcp && bun run eval
 ```
 

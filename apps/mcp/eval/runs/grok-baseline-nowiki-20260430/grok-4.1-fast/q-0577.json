@@ -1,0 +1,203 @@
+{
+  "answer": "**Ghalib's most charged deployment of the *wisaal*/*hijr* pair comes in ghazal 64, where union (*vasl*) and separation (*hijr*) are recast as poised opposites in a realm of mastery and restraint, demanding a wild, teasing lover's heart—quintessentially erotic-mystical in its moth-to-flame intensity, with kisses from red lips as the reckless prize.**[^1]\n\n> When union, absence, are but poise and cold command,  \n> what love demands is a wild heart and a teasing hand.[^2]\n\nFor *hijr* alone, ghazal 203 evokes the lover's obsessive gaze upon walls and doors in separation, transforming architecture into the beloved's form.[^3]\n\n> *Yeh hum jo hijr mein deewar-o-dar ko dekhte hain*  \n> *Kabhi Saba ko kabhi naam-bar ko dekhte hain*[^4]\n\n**Iqbal, in *Bang-e-Dara*, retains the *wisaal*/*hijr* dyad but elevates it from personal erotic longing to cosmic necessity: stars dream of \"perpetual union\" (*wisaal-e-mudaam*) only to learn motion decrees parting; separation (*hijr*) scatters rivers into drops but teaches them reunion (*wasl*), mirroring life's fragmentation toward higher unity.**[^5][^6] This is still mystical—union as divine harmony—but philosophically charged: sorrow (*gham*) via *hijr* polishes the soul, revealing eternity in love's persistence post-parting.[^7]\n\n**No, Iqbal does not fundamentally alter *wisaal*'s inherited erotic-mystical valence here (e.g., stars' intimate \"conjunction\"); he expands it philosophically, where *hijr* fuels self-realization through pain and motion—prefiguring *khudi* (selfhood) as dynamic striving, though *khudi* itself appears only as \"be-khudi\" (self-loss) in Ghalib's diwan, not explicitly linked in these Iqbal texts.**[^8] The corpus lacks Iqbal's later Persian works like *Asrar-e-Khudi* for direct doctrinal fusion.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/64-hai-vasl-hijr-aalam-e-tamkeen-o-zabt-mein/translation/).\n[^2]: *Ibid.*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/64-hai-vasl-hijr-aalam-e-tamkeen-o-zabt-mein/translation/#p-c21d10).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/203-yeh-hum-jo-hijr-mein-deewar-o-dar-ko-dekhte-hain/translation/).\n[^4]: *Ibid.*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/203-yeh-hum-jo-hijr-mein-deewar-o-dar-ko-dekhte-hain/transliteration/#p-a639c1).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 3*, [chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/05-do-sitare/translation/).\n[^6]: *Ibid.*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-fcf6a3) (transliteration snippet for *hijr*/*wasl*).\n[^7]: *Ibid.*, full [chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/).\n[^8]: Searches yield no explicit *khudi*-*wisaal* link in Iqbal's English translations here; *khudi* echoes in Ghalib as self-loss (*be-khudi*), e.g., [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/67-har-qadam-doori-e-manzil-hai-numayan-mujh-se/transliteration/#p-5af2db).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wisaal"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hijr"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi"
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 64,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.64 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 68,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.68 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 57,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.57 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 42,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.42 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"selfhood\" OR khudi OR khudii iqbal"
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wisaal OR wasl OR visaal iqbal"
+      },
+      "result_summary": "Found 18 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 42,
+      "paragraph_id": "p-c21d10"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 42,
+      "paragraph_id": "p-a639c1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 42,
+      "paragraph_id": "p-fcf6a3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 42,
+      "paragraph_id": "p-5af2db"
+    }
+  ],
+  "duration_ms": 30615,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 34797,
+    "completion_tokens": 5215,
+    "total_tokens": 40012,
+    "cached_tokens": 14552,
+    "api_calls": 3,
+    "cost_usd": 0.007384100000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1602,
+        "completion_tokens": 582,
+        "total_tokens": 2184,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038205
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11499,
+        "completion_tokens": 1960,
+        "total_tokens": 13459,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00305045
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21696,
+        "completion_tokens": 2673,
+        "total_tokens": 24369,
+        "cached_tokens": 11494,
+        "cost_usd": 0.0039516
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "answer": "**Iqbal's operative claims in \"Wataniyat\" (Bang-e-Dara Part 3, Ch. 25):**  \nIqbal portrays modern nationalism (*wataniyat*) as a false idol invented by a materialistic age, supplanting Islamic unity and faith.[^1] It desecrates religion by masquerading as faith while confining believers to a single territory, which he deems a calamity compared to the expansive, divinely ordained Islamic *homeland*.[^2] Nationalism fosters rivalry among peoples, turns commerce into conquest, empowers the strong against the weak, and severs the universal brotherhood of Islam and God's creation.[^3]\n\n**Comte's operative claims on territorial nations (Traité de la propriété Vol. I):**  \nEach natural human grouping (a \"nation\" or tribe) possesses an exclusive *territorial property*—a basin-like region defined by geography (rivers, mountains)—as a factual, indestructible foundation predating history and civil laws.[^4] This national territory enables survival and subdivision into private properties via cultivation, which advances humanity from barbarism (hunting vast uncultivated lands) to civilization: supporting exponentially more population, wealth, security, and industry without usurping others (as cultivators \"abandon\" unused lands, enriching the common stock).[^5] Territorial nations thus underpin liberty, property rights, and social/economic *progress*, with stronger guarantees as societies develop.[^6]\n\n**Substantive disagreement vs. vocabulary difference:**  \nThe clash is largely **substantive**, not mere words. Iqbal rejects *territorial confinement* as spiritually stultifying and socially divisive—an idolatrous modern force eroding Islamic universalism and brotherhood.[^2][^3] Comte affirms *territorial property* as a natural, unifying prerequisite for moral and material *progress*: enabling secure families, population growth, markets, and liberty from savage scarcity.[^5][^6] Where Iqbal sees territory-bound \"nations\" breeding conquest and fragmentation, Comte sees them as protective bases for human flourishing.  \n\nA **vocabulary nuance** exists: Iqbal targets *nationalism* (*wataniyat*) as a 20th-century ideology deifying the *modern nation-state*.[^1] Comte describes pre-modern, organic *nations/peoples* (tribes/hordes) with innate territories, akin to extended families—not ideological fetishes, but empirical facts fostering development.[^4] Yet this hardly dissolves the rift: both address territory's role in group identity, but diverge on whether it elevates (Comte) or degrades (Iqbal) humanity. No corpus text has Comte explicitly using \"moral progress,\" but he ties territorial foundations to ethical goods like justice, non-usurpation, and anti-barbarism.[^5]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, Ch. 25 \"Wataniyat\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-3b9de1).  \n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, Ch. 25 \"Wataniyat\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-a723b2).  \n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, Ch. 25 \"Wataniyat\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-97937b).  \n[^4]: Charles Comte, *Traité de la propriété VOL I*, Ch. 7 \"Du territoire propre à chaque nation\" [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-b9fe30).  \n[^5]: Charles Comte, *Traité de la propriété VOL I*, Ch. 10 \"De la conversion du territoire national en propriétés privées\" [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/10-de-la-conversion-du-territoire-national-en-proprie/translation/#p-30fbf4).  \n[^6]: Charles Comte, *Traité de la propriété VOL I*, Ch. 10 \"De la conversion du territoire national en propriétés privées\" [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/10-de-la-conversion-du-territoire-national-en-proprie/translation/#p-919e29).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Wataniyat"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"territorial nationalism\" OR \"nation-building\" Comte"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wataniyat"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"territorial\" OR nation OR patriotism OR nationalism"
+      },
+      "result_summary": "Found 29 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "comte territory OR nation"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral\" OR progress OR civilization territory OR nation Comte"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 10,
+      "paragraph_id": "p-3b9de1"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 10,
+      "paragraph_id": "p-a723b2"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 10,
+      "paragraph_id": "p-97937b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 10,
+      "paragraph_id": "p-b9fe30"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 10,
+      "paragraph_id": "p-30fbf4"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 10,
+      "paragraph_id": "p-919e29"
+    }
+  ],
+  "duration_ms": 35301,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 50067,
+    "completion_tokens": 3939,
+    "total_tokens": 54006,
+    "cached_tokens": 19937,
+    "api_calls": 4,
+    "cost_usd": 0.00899235,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1576,
+        "completion_tokens": 359,
+        "total_tokens": 1935,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00026535
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2819,
+        "completion_tokens": 860,
+        "total_tokens": 3679,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00076445
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14070,
+        "completion_tokens": 637,
+        "total_tokens": 14707,
+        "cached_tokens": 2814,
+        "cost_usd": 0.0027104
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 31602,
+        "completion_tokens": 2083,
+        "total_tokens": 33685,
+        "cached_tokens": 14065,
+        "cost_usd": 0.00525215
+      }
+    ]
+  }
+}

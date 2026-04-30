@@ -1,0 +1,236 @@
+{
+  "answer": "**In Part 1 of *Bang-e-Dara*, Iqbal's lyrical \"we\" evokes an inclusive, territorial Indian patriotism rooted in Hindustan's multi-cultural heritage, portraying the subcontinent as a shared homeland blending Islamic, Hindu, Persian, and other influences.**[^1] For instance, the poem *Hindustani Bachon Ka Qaumi Geet* celebrates India as the land where Chishti preached truth, Nanak sang of oneness, Tatars settled, Hijazis migrated, Greeks were awed, Persians found new light, and biblical figures like Moses and Noah reside symbolically—ending with the refrain \"This is my homeland, this land of mine,\" fostering a composite national \"we\" tied to the geography of \"Hindustan.\"[^2][^3] This reflects Iqbal's early 1900s–1910s phase, when he composed patriotic anthems like *Tarana-e-Hindi* (though in a similar vein here), aligning with composite nationalism under British India.[^4]\n\n**By Part 3 (composed mostly 1920s), the \"we\" shifts to a transnational Muslim *ummah*, unbound by national borders, emphasizing pan-Islamic solidarity, history, and destiny across \"Chin to Arab lands.\"**[^5] In *Tarana-e-Milli*, the collective voice declares: \"Muslim hain hum, watan hai saara jahan hamara\" (\"We are Muslims, the whole world is our homeland\"), invoking the Kaaba, the crescent sword, Andalusia, the Tigris, and Hijaz as markers of a global Muslim story—\"our story flows,\" \"we stand as guardians,\" \"we do not bow,\" \"our nest,\" \"our blood thrives.\"[^6][^7] Similarly, *Khitab ba Jawanan-e-Islam* addresses \"Muslim youth\" as heirs to Arabian conquerors who built empires from desert poverty, urging reconnection to this supranational Islamic legacy over lost governance.[^8]\n\n**This political shift—from a bounded, inclusive \"Hindustani we\" to an expansive, faith-based Muslim \"we\"—mirrors Iqbal's evolution toward advocating Muslim separatism and the two-nation theory, amid rising communal tensions pre-1920s.** The corpus does not specify exact composition dates per part, but chapter themes and historical context confirm the contrast; no other works in the Falsafa corpus cover this directly for comparison.\n\n[^1]: *Bang-e-Dara Part 1*, chapter 36 (*Sach keh doon ae Brahman...*), where Iqbal urges Hindu-Muslim unity in a shared homeland: \"To me, my homeland's every speck is divine\" ([/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/](#p-db56fb)).\n\n[^2]: *Bang-e-Dara Part 1*, chapter 26 (*Hindustani Bachon Ka Qaumi Geet*), full poem ([/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/)).\n\n[^3]: Ibid., [p-da6786](#p-da6786), [p-850e5c](#p-850e5c), [p-5d32a9](#p-5d32a9), [p-a9f72d](#p-a9f72d).\n\n[^4]: Work metadata notes Part 1's focus on \"Islamic renaissance and individual empowerment,\" but poems like this show early patriotism ([/works/allama-iqbal-bang-e-dara-part-1-55b25c/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/)).\n\n[^5]: *Bang-e-Dara Part 3* metadata: \"powerful verses on Islamic philosophy, nationalism, and spiritual awakening\" ([/works/allama-iqbal-bang-e-dara-part-3-cc61e8/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/)).\n\n[^6]: *Bang-e-Dara Part 3*, chapter 23 (*Tarana-e-Milli*), full poem ([/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/)).\n\n[^7]: Ibid., [p-8a4681](#p-8a4681), [p-72825b](#p-72825b), [p-acb45d](#p-acb45d), etc.\n\n[^8]: *Bang-e-Dara Part 3*, chapter 13 (*Khitab ba Jawanan-e-Islam*), full poem, e.g., \"O Muslim youth... that very nation which once crushed... Darius\" ([/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "bang-e-dara"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"we\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"our nation\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Muslims\" OR \"ummah\" OR \"Islam\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"India\" OR \"Hindustan\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-db56fb"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-da6786"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-850e5c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-5d32a9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-a9f72d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-8a4681"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-72825b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-acb45d"
+    }
+  ],
+  "duration_ms": 46346,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 36499,
+    "completion_tokens": 5103,
+    "total_tokens": 41602,
+    "cached_tokens": 8939,
+    "api_calls": 4,
+    "cost_usd": 0.00851045,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1572,
+        "completion_tokens": 489,
+        "total_tokens": 2061,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003294
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7115,
+        "completion_tokens": 935,
+        "total_tokens": 8050,
+        "cached_tokens": 150,
+        "cost_usd": 0.001868
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11762,
+        "completion_tokens": 1018,
+        "total_tokens": 12780,
+        "cached_tokens": 7110,
+        "cost_usd": 0.0017949
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 16050,
+        "completion_tokens": 2661,
+        "total_tokens": 18711,
+        "cached_tokens": 149,
+        "cost_usd": 0.00451815
+      }
+    ]
+  }
+}

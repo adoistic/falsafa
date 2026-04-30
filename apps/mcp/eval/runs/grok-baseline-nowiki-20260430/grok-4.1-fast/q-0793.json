@@ -1,0 +1,157 @@
+{
+  "answer": "**In Cynewulf's *Elene*, Constantine does not specifically ask anyone for the meaning of the cross-vision.** Instead, the heavenly messenger who appears to him in a dream directly reveals and explains its significance, addressing him by name, telling him to \"fear not this foe\" and to recognize the cross (the \"bright beacon\" or \"victory-tree\") as a \"salvation-token,\" with the words of victory inscribed upon it: \"By this sign, conquer.\"[^1] The emperor awakens with understanding, his sorrow lifted, and immediately orders his craftsmen to replicate the symbol as a banner (a \"standard... fashioned as the Rood\").[^2]\n\nNo other passage depicts Constantine questioning the vision's meaning—he receives divine interpretation on the spot, and the narrative soon shifts to Elene's quest without him raising further inquiry.[^3]\n\n[^1]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-306e06).\n[^2]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-86294a).\n[^3]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-acdc07).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Constantine\" cross vision",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Constantine\" \"cross\" meaning",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"what is\" cross Constantine",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Constantine cross",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sign\" cross Constantine",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Constantine \"what\" cross",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-306e06"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-86294a"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-acdc07"
+    }
+  ],
+  "duration_ms": 38636,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 20840,
+    "completion_tokens": 2804,
+    "total_tokens": 23644,
+    "cached_tokens": 4237,
+    "api_calls": 4,
+    "cost_usd": 0.00493445,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1558,
+        "completion_tokens": 553,
+        "total_tokens": 2111,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00035875
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2102,
+        "completion_tokens": 556,
+        "total_tokens": 2658,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006759
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2413,
+        "completion_tokens": 119,
+        "total_tokens": 2532,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005196
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 14767,
+        "completion_tokens": 1576,
+        "total_tokens": 16343,
+        "cached_tokens": 2408,
+        "cost_usd": 0.0033802
+      }
+    ]
+  }
+}

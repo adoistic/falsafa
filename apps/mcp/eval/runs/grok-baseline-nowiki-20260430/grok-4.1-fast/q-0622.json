@@ -1,0 +1,278 @@
+{
+  "answer": "**'Dhṛti' (Sanskrit: धृति; steadiness, fortitude, endurance, firmness of mind) is a core virtue in the Smṛti tradition, particularly listed among the fundamental qualities of *dharma* (righteous duty).** It denotes mental resilience, patience in adversity, and unwavering commitment to virtue, often appearing in standardized decads or lists of ethical traits applicable across *āśramas* (life stages) or universally.[^1][^2]\n\nIn the Falsafa corpus, English translations of Sanskrit Smṛtis render it explicitly as \"fortitude,\" with no direct matches for variant spellings like \"dhrti,\" \"dhṛti,\" or \"dhriti\" (likely due to diacritic handling or consistent glossing). Key references across major Smṛtis include:\n\n- **Manusmṛti**: Lists *dhṛti* first in the \"tenfold Dharma\" binding all *āśramas*: \"Fortitude, forbearance, self-control, non-stealing, purity, control of the senses, wisdom, knowledge, truthfulness, and absence of anger.\"[^3] It contrasts negatively as \"lack of fortitude\" among traits of the *rājasic guṇa* (passion-dominated nature), alongside greed and cruelty.[^4]\n- **Yājñavalkya Smṛti**: Includes it in a similar decad defining *dharma*: \"Truth, non-stealing, non-anger, humility, purity, intelligence, fortitude, self-control, control of the senses, and knowledge.\"[^5]\n\n**Other Smṛtis** (e.g., Parāśara Smṛti, Viṣṇu Smṛti, Kātyāyana Smṛti, Nārada Smṛti, etc.) do not yield explicit \"fortitude\" matches in English searches, though parallel *dharma*-lists (e.g., with *kṣamā* \"forbearance,\" *dama* \"self-control\") are common and likely imply *dhṛti* via structural similarity.[^6] Related Indic works like Vratisaṃsana repeat the Manusmṛti-style list.[^7]\n\nThe Sanskrit term does not appear in English bodies (searches on original/transliterated variants unavailable here), but context confirms the standard rendering. Not every Smṛti emphasizes it identically; coverage is richest in Manu and Yājñavalkya.\n\n[^1]: Manusmṛti, ch. 6, [p-8c9866](/works/unknown-manusmrti-347b76/06/translation/#p-8c9866).\n[^2]: Yājñavalkya Smṛti, ch. 3, [p-13fc72](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-13fc72).\n[^3]: Manusmṛti, ch. 6, [p-8c9866](/works/unknown-manusmrti-347b76/06/translation/#p-8c9866).\n[^4]: Manusmṛti, ch. 12, [p-074f6e](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n[^5]: Yājñavalkya Smṛti, ch. 3, [p-13fc72](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-13fc72).\n[^6]: No direct hits in Āṅgirasa, Bṛhaspati, Kātyāyana, Nārada, Parāśara, Viṣṇu, or Yama Smṛtis via \"fortitude,\" \"steadiness,\" etc.\n[^7]: Vratisaṃsana, ch. 1, [p-58edfb](/works/unknown-vratisasana-d0fe75/01/translation/#p-58edfb).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dhrti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dhṛti\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dhriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fortitude"
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "steadiness"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "steadfastness"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "resolve",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dhṛti\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-8c9866"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-074f6e"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-13fc72"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-8c9866"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-13fc72"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fortitude OR dhṛti OR dhriti OR dhrti",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-8c9866"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-13fc72"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-074f6e"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-58edfb"
+    }
+  ],
+  "duration_ms": 57984,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 25388,
+    "completion_tokens": 5914,
+    "total_tokens": 31302,
+    "cached_tokens": 11619,
+    "api_calls": 4,
+    "cost_usd": 0.0062917500000000005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 442,
+        "total_tokens": 1996,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005093
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2541,
+        "completion_tokens": 1095,
+        "total_tokens": 3636,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0008259
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7406,
+        "completion_tokens": 1944,
+        "total_tokens": 9350,
+        "cached_tokens": 2536,
+        "cost_usd": 0.0020728
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 13887,
+        "completion_tokens": 2433,
+        "total_tokens": 16320,
+        "cached_tokens": 7401,
+        "cost_usd": 0.00288375
+      }
+    ]
+  }
+}

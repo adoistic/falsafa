@@ -1,0 +1,283 @@
+{
+  "answer": "**Several works in the Falsafa corpus touch on the soul's journey or fate after death, primarily through concepts of heavenly ascent, judgment in realms like Yama's, rebirth cycles (*saṃsāra*), or post-mortem torments and rewards based on karma. These discussions appear in Christian Old English poetry and Indic texts, often in visionary, ethical, or cosmological contexts. Not every work covers this exhaustively, and no single text focuses solely on it as a \"journey\" narrative like Plato's *Phaedo* (absent from the corpus). Here's a summary of the relevant works:**\n\n- **Cynewulf, *Andreas***: Describes souls departing earthly bodies to journey to heavenly joys, ferried by eagles in a vision, encountering angels, martyrs, and apostles around the throne of God.[^1]\n\n- **Mpu Dusun, *Kunjarakarna Dharmakathana***: Explicitly depicts a soul (*Pūrṇavijaya's*) traveling to the afterlife realm of Yama (god of death), where it faces assault by Yama's army en route to judgment.[^2]\n\n- **Unknown, *Slokantara***: Portrays death as a \"stairway to the afterlife\" leading to Śiva's world for the virtuous ascetic; contrasts with rebirth into low states for the unrighteous king after exhausting prior merits.[^3]\n\n- **Manu, *Manusmṛti* (especially Chapter 12)**: Provides the most systematic treatment, explaining how after death, sinful souls form a new torment-body from the five elements, face Yama's judgments, endure hells (*Tamisra*, etc.), then reincarnate based on karma across *guṇas* (sattva to gods, rajas to humans, tamas to beasts). Virtuous souls ascend to heavens before potential rebirth.[^4]\n\n**Other mentions exist in Dharmaśāstras like *Āṅgirasa Smṛti* (souls untouched by another's body, rebirth as animals for sins) and *Old English Elegies* (transience implying afterlife judgment), but they are less focused on \"journey\" dynamics.** The Cynewulf poems (*Elene*, *Juliana*) emphasize martyrdom and heavenly reward but lack detailed soul-travel descriptions in searchable passages.\n\n[^1]: Cynewulf, *Andreas*, Chapter 1, [paragraphs](/works/cynewulf-andreas-07b573/01/translation/#p-c655bd) and [](/works/cynewulf-andreas-07b573/01/translation/#p-f115de).\n[^2]: Mpu Dusun, *Kunjarakarna Dharmakathana*, Chapter 1, [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-3ce042).\n[^3]: Unknown, *Slokantara*, Chapter 1, [paragraphs](/works/unknown-slokantara-d7a628/01/translation/#p-54b55d) and [](/works/unknown-slokantara-d7a628/01/translation/#p-1d5638).\n[^4]: Manu, *Manusmṛti*, Chapter 12, [paragraph](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "soul journey after death",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"journey of the soul\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"soul after death\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"soul's journey\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "soul afterlife",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"after death\" soul",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "immortality soul",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "soul",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "afterlife"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "after death"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "immortal soul"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "journey soul"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-c655bd",
+          "p-f115de"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-3ce042"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-54b55d",
+          "p-1d5638"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-074f6e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-c655bd"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-f115de"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-3ce042"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-54b55d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-1d5638"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-074f6e"
+    }
+  ],
+  "duration_ms": 40438,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 43860,
+    "completion_tokens": 4580,
+    "total_tokens": 48440,
+    "cached_tokens": 20777,
+    "api_calls": 5,
+    "cost_usd": 0.00794545,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1547,
+        "completion_tokens": 533,
+        "total_tokens": 2080,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005534
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1802,
+        "completion_tokens": 575,
+        "total_tokens": 2377,
+        "cached_tokens": 1542,
+        "cost_usd": 0.0004166
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5306,
+        "completion_tokens": 593,
+        "total_tokens": 5899,
+        "cached_tokens": 1797,
+        "cost_usd": 0.00108815
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11992,
+        "completion_tokens": 1394,
+        "total_tokens": 13386,
+        "cached_tokens": 5301,
+        "cost_usd": 0.00230025
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 23213,
+        "completion_tokens": 1485,
+        "total_tokens": 24698,
+        "cached_tokens": 11987,
+        "cost_usd": 0.00358705
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "answer": "**The Falsafa corpus contains notable uses of \"shab-e-furqat\" (night of separation) in Mirza Ghalib's *Diwan-e-Ghalib*, a collection of Urdu ghazals, but it offers no explicit philosophical, linguistic, or comparative analysis of how the phrase compresses mood (e.g., profound longing and despair), time (e.g., a single night extending to eternity), or circumstance (e.g., the lover's agony in parting) versus English renderings.**[^1][^2]\n\nThe phrase appears as a motif in two ghazals, evoking the intensity of romantic separation within the classical Urdu poetic tradition:\n\n- In ghazal 3 (\"Aah ko chahiye ik umr asar hote tak\"), the fourth couplet laments:  \n  *Transliteration:* \"Ta-qayamat shab-e-furqat mein guzar jaayegi umr / Saat din hum pe bhi bhaari hain seher hote tak\"[^3]  \n  *Translation:* \"This separation lasts till judgment's dawn; / For me, a week is heavy, till the morning's light.\"[^4]  \n  Here, one night of parting (*shab-e-furqat*) stretches to the Day of Judgment (*ta-qayamat*), compressing cosmic timescale into personal torment.\n\n- Ghazal 45 is titled \"Gar na andoh-e-shab-e-furqat bayaan ho jaaye-ga,\" centering the phrase in its opening:  \n  *Transliteration:* \"Gar na andoh-e-shab-e-furqat bayaan ho jaaye-ga\"[^5]  \n  *Translation:* \"If this night's parting sorrow finds no words for pain\"[^6]  \n  The entire ghazal unfolds hypotheticals around this night's overwhelming grief (*andoh-e-shab-e-furqat*), where unexpressed pain transforms the world (e.g., the moon's blemish seals mouths, Venus's tears flood homes).\n\nThe English translations provided in the corpus render it literally as \"night's parting sorrow\" or paraphrase the separation's duration, but the originals' compound (*shab-e-furqat*) packs layered cultural resonance—night as archetype of isolation in *ishq* (divine/human love), *furqat* implying irrevocable divide—unmatched by direct English equivalents.[^7] However, **no texts in the corpus discuss or compare this compression to English reproduction, as it focuses on primary poetry rather than poetics or translation theory.** \"Furqat\" (separation) recurs elsewhere (e.g., in Allama Iqbal's *Bang-e-Dara*), but without meta-analysis.[^8]\n\nIf seeking linguistic commentary, this topic exceeds the current 37-work corpus (5 in Urdu poetry). I recommend external sources on Urdu ghazal conventions.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shab-e-furqat",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night of separation\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Urdu poetry",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night of separation\" Urdu",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 45,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.45 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.3 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 45,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.45 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "furqat",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 23427,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 12585,
+    "completion_tokens": 2719,
+    "total_tokens": 15304,
+    "cached_tokens": 3456,
+    "api_calls": 3,
+    "cost_usd": 0.0033581,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1567,
+        "completion_tokens": 591,
+        "total_tokens": 2158,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005864
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3161,
+        "completion_tokens": 808,
+        "total_tokens": 3969,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010137
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7857,
+        "completion_tokens": 1320,
+        "total_tokens": 9177,
+        "cached_tokens": 3156,
+        "cost_usd": 0.001758
+      }
+    ]
+  }
+}

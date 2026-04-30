@@ -1,0 +1,268 @@
+{
+  "answer": "**The Falsafa corpus contains several Dharmaśāstra texts (Smṛtis and related works) that systematically engage with rules and claims about food and dietary practices.** These include prescriptions for ritual offerings (*śrāddha*, *homa*), purity rules during impurity (*āśauca*), penances (*prāyaścitta*) involving restricted diets or fasting (*upavāsa*, *kṛcchra*), prohibitions on \"forbidden foods\" (e.g., from certain castes or untouchables), rules on mixing offered/unoffered food, timing of eating during eclipses or vows (*vrata*), lightness of diet (*laghu-āhāra*) as a vow (*niyama*), and detailed claims on meat consumption (permitted only in sacrifices, with lists of animals satisfying ancestors for specific durations).[^1][^2][^3][^4]\n\nNo other works in the corpus prescribe or claim rules about food/diet in this structured, normative way. Narrative or incidental mentions (e.g., cannibalistic \"law\" in poetry,[^5] physiological diet in economics[^6]) do not qualify as engaging with *rules or claims* in the prescriptive sense of the query.\n\n### Works Engaging with Food/Dietary Rules\nThe following 10 works contain such material (all Indic, mostly Ancient/Medieval Smṛtis):\n\n1. **Āṅgirasa Smṛti** (Ch. 1): Extensive rules on food in rituals/penances (e.g., no solid food in impurity, forbidden foods require bathing; cooked vs. uncooked in *śrāddha*; eclipse fasting; hot food offerings).[^7]\n2. **Manusmṛti** (Ch. 2–6): Rules on avoiding honey/meat/perfumes; permitted meats in sacrifice (e.g., fish for 2 months' ancestral satisfaction); \"eater of fish eats all meat\"; abstain from meat for heaven.[^8]\n3. **Vratisaṃśana** (Ch. 1): *Niyama* vows include \"lightness of diet\" (contentment, avoid improper foods).[^9]\n4. **Yama Smṛti** (Ch. 1): Penances with barley gruel/cow urine diet for forbidden food.[^10]\n5. **Bṛhaspati Smṛti** (Ch. 1): Forbidden food as legal offense (with homicide); wife avoids meat/liquor.[^11]\n6. **Kātyāyana Smṛti** (Ch. 11, 68): Forbidden food offenses; meager diet in punishment.[^12]\n7. **Viṣṇu Smṛti** (Ch. 22, 46, 54–55): *Āśauca* eating rules by caste; fasting penances (*parāka*: 12 days).[^13]\n8. **Parāśara Smṛti** (Ch. 6–7): Fasting for killing birds/animals; *pañcagavya* after impure eating.[^14]\n9. **Vīramitrodaya** (Ch. 1): Tithi rules for fasting/rites (e.g., *pūrṇaviddhā* prohibited).[^15]\n10. **Cynewulf - Andreas** (Ch. 1): Claims a tribal \"law\" of feeding guests human flesh.[^16]\n\n**No coverage in the other 27 works** (e.g., no rules in poetry like Ghalib/Iqbal or economics like Dunoyer/Comte beyond physiology).\n\n[^1]: Manusmṛti, Ch. 5 (meat rules summary). [Chapter](/works/unknown-manusmrti-347b76/05/translation/).\n[^2]: Āṅgirasa Smṛti, Ch. 1 (food in *śrāddha*). [Chapter](/works/unknown-angirasa-smrti-2bf9d1/01/translation/).\n[^3]: Vratisaṃśana, Ch. 1 §4 (lightness of diet). [Passage](/works/unknown-vratisasana-d0fe75/01/translation/#p-fc4101).\n[^4]: Yama Smṛti, Ch. 1 (gruel penance). [Passage](/works/unknown-yama-smrti-552f8d/01/translation/#p-00038f).\n[^5]: Andreas, Ch. 1 (narrative cannibal law). [Passage](/works/cynewulf-andreas-07b573/01/translation/#p-a8aa9a).\n[^6]: Nouveau traité d'économie I, Ch. 2 (incidental peasant diet). [Passage](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-d7cc02).\n[^7]: Āṅgirasa Smṛti, Ch. 1, [p-6702a2](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-6702a2), [p-86bddc](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-86bddc).\n[^8]: Manusmṛti, Ch. 5, [p-9ac8b8](/works/unknown-manusmrti-347b76/05/translation/#p-9ac8b8) (\"eater of fish\"); Ch. 4 [p-8b8ea4](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4) (ancestor satisfaction).\n[^9]: Vratisaṃśana, Ch. 1, [p-fc4101](/works/unknown-vratisasana-d0fe75/01/translation/#p-fc4101).\n[^10]: Yama Smṛti, Ch. 1, [p-00038f](/works/unknown-yama-smrti-552f8d/01/translation/#p-00038f).\n[^11]: Bṛhaspati Smṛti, Ch. 1, [p-1db5fd](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-1db5fd).\n[^12]: Kātyāyana Smṛti, Ch. 11 [p-4fc7cc](/works/unknown-katyayana-smrti-1e06d2/11/translation/#p-4fc7cc); Ch. 68 [p-ecceef](/works/unknown-katyayana-smrti-1e06d2/68/translation/#p-ecceef).\n[^13]: Viṣṇu Smṛti, Ch. 22 [p-a53817](/works/unknown-visnu-smrti-27f0d8/22/translation/#p-a53817).\n[^14]: Parāśara Smṛti, Ch. 6 [p-aa2384](/works/unknown-parasara-smrti-2259be/06/translation/#p-aa2384).\n[^15]: Vīramitrodaya, Ch. 1 [p-fc3a75](/works/unknown-viramitrodaya-d4b632/01/translation/#p-fc3a75).\n[^16]: Andreas, Ch. 1 [p-a8aa9a](/works/cynewulf-andreas-07b573/01/translation/#p-a8aa9a).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "food",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "diet",
+        "limit": 50
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eating",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "meat",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "abstain",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fasting",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eat meat\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"slug\":\"unknown-angirasa-smrti-2bf9d1\",\"title\":\"Āṅgirasa Smṛti\",\"author\":\"Aṅgirasa\",\"author_slug\":\"angirasa\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"S"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\",\"author\":\"Manu\",\"author_slug\":\"manu\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Sanskrit\",\"language_s"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "{\"slug\":\"unknown-vratisasana-d0fe75\",\"title\":\"Vratisasana\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Kawi\",\"lan"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d"
+      },
+      "result_summary": "{\"slug\":\"unknown-yama-smrti-552f8d\",\"title\":\"Yama Smṛti\",\"author\":\"Yama\",\"author_slug\":\"yama\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Sanskrit\",\"language"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"slug\":\"unknown-brhaspati-smrti-0fd070\",\"title\":\"Bṛhaspati Smṛti\",\"author\":\"Bṛhaspati\",\"author_slug\":\"brhaspati\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\""
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"slug\":\"unknown-visnu-smrti-27f0d8\",\"title\":\"Viṣṇu Smṛti\",\"author\":\"Viṣṇu\",\"author_slug\":\"visnu\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Sanskrit\",\"la"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"slug\":\"unknown-parasara-smrti-2259be\",\"title\":\"Parāśara Smṛti\",\"author\":\"Parāśara\",\"author_slug\":\"parasara\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"S"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"slug\":\"unknown-viramitrodaya-d4b632\",\"title\":\"Vīramitrodaya\",\"author\":\"Mitra Miśra\",\"author_slug\":\"mitra-misra\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"slug\":\"unknown-katyayana-smrti-1e06d2\",\"title\":\"Kātyāyana Smṛti\",\"author\":\"Kātyāyana\",\"author_slug\":\"katyayana\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forbidden food\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dietary",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-fc4101"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-00038f"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-a8aa9a"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-d7cc02"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-6702a2"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-86bddc"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-9ac8b8"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-8b8ea4"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-1db5fd"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-4fc7cc"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-ecceef"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-a53817"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-aa2384"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-fc3a75"
+    }
+  ],
+  "duration_ms": 49993,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 69960,
+    "completion_tokens": 5355,
+    "total_tokens": 75315,
+    "cached_tokens": 34568,
+    "api_calls": 3,
+    "cost_usd": 0.0114843,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 959,
+        "total_tokens": 2511,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007674
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 32894,
+        "completion_tokens": 1820,
+        "total_tokens": 34714,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00725945
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 35514,
+        "completion_tokens": 2576,
+        "total_tokens": 38090,
+        "cached_tokens": 32889,
+        "cost_usd": 0.00345745
+      }
+    ]
+  }
+}

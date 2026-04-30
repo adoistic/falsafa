@@ -1,0 +1,353 @@
+{
+  "answer": "**No works in the Falsafa corpus contain moral exempla in the strict sense of short illustrative anecdotes or fables embedded to teach a moral principle (as in medieval exempla literature or Aesopic fables).**[^1]\n\nSeveral narrative works feature extended hagiographic or didactic stories that exemplify moral or religious virtues (e.g., faith, endurance, dharma), but these are full poems or kathas rather than discrete exempla:\n\n- **Andreas** (*cynewulf-andreas-07b573*): An Old English verse narrative of St. Andrew's missionary journey to the cannibalistic Mermedonians, illustrating Christian heroism, divine protection, and obedience.[^2]\n- **Elene** (*cynewulf-elene-d2d132*): The story of St. Helena finding the True Cross, exemplifying devotion and divine revelation.[^3]\n- **Juliana** (*cynewulf-juliana-9a2157*): The martyrdom of St. Juliana, teaching resistance to paganism and faith under torment.[^4]\n- **Kunjarakarna Dharmakathana** (*unknown-kunjarakarna-dharmakathana-894f4a*): A Kawi prose tale of the asura Kuñjarakarṇa's journeys to hell, heaven, and Buddha, learning karma, dharma, and release from rebirth.[^5]\n\nLegal texts like *Bṛhaspati Smṛti* use similes (e.g., courts \"comparable to a sacrifice\") but no stories.[^6] Elegies (*unknown-old-english-elegies-d5fe9e*) contain maxims (e.g., a father teaching his son virtues) but no narratives.[^7] Poetry (e.g., Iqbal, Ghalib) employs metaphors like \"fables\" poetically, not as exempla.[^8]\n\n[^1]: No search_corpus results for \"exemplum\", \"moral example\", \"parable\" (beyond similes), \"fable\" (metaphorical), or narrative phrases like \"a certain man\"/\"once upon a time\" yielded discrete moral stories. list_works confirms 37 philosophical/legal works; wiki cards and full chapters show narratives are hagiographic/didactic wholes.\n\n[^2]: *Andreas*, ch. 1, [/works/cynewulf-andreas-07b573/01/translation/].\n\n[^3]: *Elene*, ch. 1, [/works/cynewulf-elene-d2d132/01/translation/].\n\n[^4]: *Juliana*, ch. 1, [/works/cynewulf-juliana-9a2157/01/translation/].\n\n[^5]: *Kunjarakarna Dharmakathana*, ch. 1, [/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/].\n\n[^6]: *Bṛhaspati Smṛti*, ch. 1 ([p-b13542]), [/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-b13542].\n\n[^7]: *Old English Elegies*, ch. 17, [/works/unknown-old-english-elegies-d5fe9e/17/translation/].\n\n[^8]: E.g., *Bang-E-Dara Part 1*, ch. 38 ([p-b45c59]), [/works/allama-iqbal-bang-e-dara-part-1-55b25c/38/translation/#p-b45c59].",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "exemplum",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral example\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parable",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fable",
+        "limit": 50
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"a certain man\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"once upon a time\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"for example\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"an example\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"to illustrate\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"story of\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tale of\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"there was\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"markdown\":\"# Kunjarakarna Dharmakathana\\nMpu Dusun · Medieval · kawi · prose · 1 chapters · 17,973 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homage feet lord\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "{\"markdown\":\"# Kalpabuddha\\nUnknown · Medieval · kawi · prose · 6 chapters · 535 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"### paragraph lord\\\" · \\\"his abode ###\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Kamahayanikan\\nMpu Shri Sambhara Surya Warama · Medieval · kawi · prose · 1 chapters · 14,398 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"body s"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Mahajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 6,836 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"dwelling place lord\\\" · \\\"ten sens"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Tattvajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 16,092 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"lacking *yoga* becomes\\\" · \\\"vo"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "{\"markdown\":\"# Slokantara\\nUnknown · Medieval · kawi · prose · 1 chapters · 17,343 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"say sacred teachings\\\" · \\\"kṛta tretā dvā"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "{\"markdown\":\"# Vratisasana\\nUnknown · Medieval · kawi · prose · 1 chapters · 17,658 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"one *siddhānta* school\\\" · \\\"sacred vows"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"markdown\":\"# Vrhaspatitattva\\nBṛhaspati · Medieval · kawi · prose · 1 chapters · 14,791 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"venerable vṛhaspati replied\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136"
+      },
+      "result_summary": "{\"markdown\":\"# Gaṇapatitattva\\nGaṇapati · Medieval · kawi · prose · 1 chapters · 10,190 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"īśvara spoke son\\\" · \\\"humble son p"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Literature"
+      },
+      "result_summary": "Listed 9 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 17
+      },
+      "result_summary": "Read ch.17 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-b13542"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-b45c59"
+    }
+  ],
+  "duration_ms": 81843,
+  "from_run": "treatment-pilot-10failed-20260430",
+  "usage": {
+    "prompt_tokens": 182921,
+    "completion_tokens": 6812,
+    "total_tokens": 189733,
+    "cached_tokens": 16326,
+    "api_calls": 5,
+    "cost_usd": 0.064344,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 758,
+        "total_tokens": 2664,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007377
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 13988,
+        "completion_tokens": 1345,
+        "total_tokens": 15333,
+        "cached_tokens": 150,
+        "cost_usd": 0.0034476
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 15731,
+        "completion_tokens": 1608,
+        "total_tokens": 17339,
+        "cached_tokens": 150,
+        "cost_usd": 0.0039277
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_works"
+        ],
+        "prompt_tokens": 20630,
+        "completion_tokens": 1702,
+        "total_tokens": 22332,
+        "cached_tokens": 15726,
+        "cost_usd": 0.0026181
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 130666,
+        "completion_tokens": 1399,
+        "total_tokens": 132065,
+        "cached_tokens": 150,
+        "cost_usd": 0.0536129
+      }
+    ]
+  }
+}

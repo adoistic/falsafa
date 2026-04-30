@@ -1,0 +1,313 @@
+{
+  "answer": "In Urdu poetry, particularly the ghazal form dominant in the works of Ghalib, Zauq, and Iqbal, *naala* (نالہ) denotes a poignant lament, wail, sigh, or groan—typically expressing the lover's profound anguish (*dard*), unrequited passion (*ishq*), separation (*firaq*), or existential torment. It is often evoked through the metaphor of the nightingale (*bulbul*) crying for the unattainable rose (*gul*), symbolizing beauty's cruelty and the soul's restless yearning; suppression of *naala* intensifies inner suffering, while its release risks cosmic disruption.[^1][^2] This trope draws from Persian poetic traditions but evolves uniquely in Urdu to blend romantic complaint with philosophical or spiritual depth.\n\n### Function in Ghalib (*Diwan-e-Ghalib*)\nGhalib employs *naala* introspectively, as an overwhelming flood of sighs born from wonder (*hairat*), love's paradoxes, and the futility of human striving. It is less a direct plea than a philosophical outburst, where lament borders on the mythical or self-defeating—questioning existence itself amid pain's inevitability.[^3] For instance, it renders silence torturous, like reeds biting straw, helpless before love's \"killing chain,\" underscoring *naala*'s role in revealing the soul's stunned dismay.[^4] This elevates it beyond mere complaint to a marker of transcendent bewilderment.\n\n### Function in Zauq (*Diwan-e-Zauq*)\nZauq's usage is more conventional and restrained, aligning with classical ghazal decorum: *naala* as the lover's controlled groan against the beloved's cruelty (*zulm*), worldly noise (*shor*), or fate's oppression. Its suppression prevents cataclysmic release—like smoke engulfing the sky or floods submerging heaven—emphasizing stoic endurance (*zabt*) amid romantic torment.[^5] Yet it demands justice, chiding the heavens' indifference, positioning *naala* as a dignified, artful cry that tests cosmic order without fully shattering it.[^6]\n\n### Function in Iqbal (*Bang-e-Dara*)\nIqbal transforms *naala* into a bold, communal *shikwa* (complaint), often spiritual or nationalist—awakening the Muslim *ummah* from decline via defiant address to God. It escapes despite restraint, as in *Shikwa*, where the poet-nightingale's lament rivals the *bulbul*'s, justifying grievance as authentic praise's overflow.[^7] Here, *naala* discerns truth (rose from thorn) and catalyzes renewal, shifting from personal woe to revolutionary fervor.[^8]\n\n**Comparison**: Ghalib's *naala* is existential and inward, dissolving in paradox; Zauq's, romantic and disciplined, preserves poetic balance; Iqbal's, prophetic and outward, demands response. All share *ishq*'s fire, but evolve from individual ache (Ghalib/Zauq) to collective revival (Iqbal), mirroring Urdu poetry's shift from Mughal decline to modern awakening.\n\n[^1]: *Diwan-E-Ghalib*, ch. 75 (*Hujoom-e-naala-e-hairat aajiz-e-arz-e-yak-afghaan hai*), [p-ae96a3](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/75-hujoom-e-naala-e-hairat-aajiz-e-arz-e-yak-afghaan-/translation/#p-ae96a3).\n\n[^2]: *Diwan-E-Zauq*, ch. 39 (*Na karta zabt main naala to phir aisa dhuaan hota*), [full chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/39-na-karta-zabt-main-naala-to-phir-aisa-dhuaan-hota/translation/).\n\n[^3]: *Diwan-E-Ghalib*, ch. 137 (*Meri hasti fazaaye hairat-abaad-e-tamanna hai*), [p-895885](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/137-meri-hasti-fazaaye-hairat-abaad-e-tamanna-hai/translation/#p-895885).\n\n[^4]: *Diwan-E-Ghalib*, ch. 75, [full chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/75-hujoom-e-naala-e-hairat-aajiz-e-arz-e-yak-afghaan-/translation/).\n\n[^5]: *Diwan-E-Zauq*, ch. 39, [full chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/39-na-karta-zabt-main-naala-to-phir-aisa-dhuaan-hota/translation/).\n\n[^6]: *Diwan-E-Zauq*, ch. 41 (*Naala iss shor se kyun mera duhaai deta*), [full chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/41-naala-iss-shor-se-kyun-mera-duhaai-deta/translation/).\n\n[^7]: *Bang-E-Dara Part 3*, ch. 20 (*Shikwa*), [paragraphs p-7932bc, p-01026e](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-7932bc).\n\n[^8]: *Bang-E-Dara Part 1*, ch. 6 (*Kushaada dast-e-karam jab woh beniyaaz kare*), [p-b7c46d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/06-kushaada-dast-e-karam-jab-woh-beniyaaz-kare/translation/#p-b7c46d).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naala"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"naala\" poetry"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lament complaint urdu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naala",
+        "limit": 100
+      },
+      "result_summary": "Found 73 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lament"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "complaint"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wail OR moan OR groan poetry"
+      },
+      "result_summary": "Found 29 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Listed 60 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 75,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.75 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 75,
+        "paragraph_ids": [
+          "p-ae96a3"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 39,
+        "paragraph_ids": [
+          "p-a2518c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-01026e",
+          "p-7932bc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-b7c46d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 137,
+        "paragraph_ids": [
+          "p-895885"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 41,
+        "paragraph_ids": [
+          "p-830fb7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 39,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.39 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 41,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.41 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 41,
+      "paragraph_id": "p-ae96a3"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 41,
+      "paragraph_id": "p-895885"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 41,
+      "paragraph_id": "p-7932bc"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 41,
+      "paragraph_id": "p-01026e"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 41,
+      "paragraph_id": "p-b7c46d"
+    }
+  ],
+  "duration_ms": 65170,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 94392,
+    "completion_tokens": 6727,
+    "total_tokens": 101119,
+    "cached_tokens": 50337,
+    "api_calls": 4,
+    "cost_usd": 0.01469135,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 798,
+        "total_tokens": 2361,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0004821
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7342,
+        "completion_tokens": 2326,
+        "total_tokens": 9668,
+        "cached_tokens": 150,
+        "cost_usd": 0.0026089
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 41325,
+        "completion_tokens": 1514,
+        "total_tokens": 42839,
+        "cached_tokens": 7337,
+        "cost_usd": 0.00792145
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 44162,
+        "completion_tokens": 2089,
+        "total_tokens": 46251,
+        "cached_tokens": 41320,
+        "cost_usd": 0.0036789
+      }
+    ]
+  }
+}

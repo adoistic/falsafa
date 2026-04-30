@@ -1,0 +1,242 @@
+{
+  "answer": "The Falsafa corpus contains several works—primarily ancient Indian Smṛti (legal/religious codes) and 19th-century French treatises on political economy and legislation—that substantively engage with the rights or treatment of slaves. These texts discuss topics such as the origins of slavery, who may be enslaved (often with caste restrictions), slaves' property rights (typically none), conditions of manumission or release, permitted labor, punishments, marriage, and inheritance for slave offspring. Metaphorical or incidental poetic uses of \"slave\" (e.g., spiritual devotion or subjection to passion in works by Iqbal or Ghalib) do not qualify as engagement with literal slaves' rights or treatment.[^1]\n\n### Indian Smṛti Texts\nThese Dharmaśāstras codify slavery (*dāsa*-tvam) as a legal institution, often distinguishing slaves (*dāsa*) from hired servants (*bhṛtaka*), with rules on acquisition, duties, and limited protections (e.g., against enslaving Brahmins or manumission via service or payment).\n\n- **Bṛhaspati Smṛti** (*unknown-brhaspati-smrti-0fd070*, Chapter 1): Covers debt-induced slavery (where a debtor becomes a slave/son/wife/animal), types of slaves (15 kinds performing \"base work\" vs. \"pure work\" servants), female slaves' treatment, and marriage rules (e.g., a free woman marrying a slave becomes enslaved).[^2]\n- **Kātyāyana Smṛti** (*unknown-katyayana-smrti-1e06d2*, esp. Chapters 45, 63, 66, 80): Extensive rules on enslavement (voluntary surrender of independence, except Brahmins), caste limits (Shudras enslavable; higher castes only in distress), manumission (e.g., via oxen for unpaid wage slaves; freeing mothers of master's children), punishments (beating for slaves; fines for mistreatment), and witnesses/pleaders.[^3]\n- **Manusmṛti** (*unknown-manusmrti-347b76*, esp. Chapters 8–9): Seven legal origins of slaves (e.g., war captives, born in house, debt), slaves' lack of property rights (belongs to master), beating permitted (but limited), and offspring rules.[^4]\n- **Nāradasmṛti** (*unknown-naradasmrti-7650d2*, Chapter 1): 15 slave types (e.g., hereditary vs. famine-induced), manumission conditions (saving master's life; debt repayment; oxen for famine slaves), witnesses' competency, and caste order.[^5]\n\nBrief mentions appear in **Āṅgirasa Smṛti** (*unknown-angirasa-smrti-2bf9d1*, Ch. 1: slaves' occupations) and **Paraśara Smṛti** (*unknown-parasara-smrti-2259be*, Ch. 3: purity rules), but without substantive rights/treatment discussion.\n\n### French Political Economy/Legislation Treatises\nThese analyze slavery's societal/moral effects, critiquing it as incompatible with liberty, while describing treatment in historical (e.g., Roman, American) contexts.\n\n- **Charles Dunoyer, *Nouveau traité d'économie: VOL I*** (*charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce*, Ch. 7): Argues slavery undermines masters' and slaves' liberty/faculties; details historical treatment (e.g., Romans' harshness, population decline, servile wars; better-fed American slaves vs. sugar colonies), manumission barriers, and moral degradation.[^6]\n- **Charles Comte, *Traité de Législation: VOL I*** (*charles-comte-traite-de-legislation-vol-i-7e62a2*, Ch. 2): Frames domestic slavery analytically across economics, morals, and law (e.g., effects on industry, public prosperity).[^7]\n- **Charles Comte, *Traité de Législation: VOL IV*** (*charles-comte-traite-de-legislation-vol-iv-bca040*, Chs. 9, 18, 23): Examines U.S. slavery's moral impact (masters' egoism/cruelty; slaves' \"broken souls\"); religious justifications; inequality from unequal fortunes.[^8]\n\nNo other works (e.g., poetry, narratives like *Kunjarakarna Dharmakathana*, or Anglo-Saxon poems) engage substantively; the corpus's 37 works do not cover every topic.\n\n[^1]: *Allama Iqbal, Bang-E-Dara* (various); *Mirza Ghalib, Diwan-E-Ghalib*; *Sheikh Ibrahim Zauq, Diwan-E-Zauq*. [Bang-E-Dara Part 1, Ch. 20 (#p-1409dc)](/works/allama-iqbal-bang-e-dara-part-1-55b25c/20-ek-makra-aur-makhi/translation/#p-1409dc).\n\n[^2]: *Bṛhaspati Smṛti*, Ch. 1. [Ch. 1 (#p-b30726)](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-b30726).\n\n[^3]: *Kātyāyana Smṛti*, Ch. 63. [Ch. 63 (#p-fbeb35)](/works/unknown-katyayana-smrti-1e06d2/63/translation/#p-fbeb35).\n\n[^4]: *Manusmṛti*, Ch. 8. [Ch. 8 (#p-5be08b)](/works/unknown-manusmrti-347b76/08/translation/#p-5be08b).\n\n[^5]: *Nāradasmṛti*, Ch. 1. [Ch. 1 (#p-78d1bb)](/works/unknown-naradasmrti-7650d2/01/translation/#p-78d1bb).\n\n[^6]: *Nouveau traité d'économie: VOL I*, Ch. 7. [Ch. 7 (#p-03bfac)](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/07-ii-liberté-compatible-avec-la-manière-de-vivre-des-peuples-sédentaires-qui-se-font-entretenir-par-d/translation/#p-03bfac).\n\n[^7]: *Traité de Législation: VOL I*, Ch. 2. [Ch. 2 (#p-56a86f)](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/02-de-la-methode-analytique-appliquee-a-létude-de-la-morale-et-de-la-legislation-et-des-effets-de-cet/translation/#p-56a86f).\n\n[^8]: *Traité de Législation: VOL IV*, Ch. 9. [Ch. 9 (#p-a7f24b)](/works/charles-comte-traite-de-legislation-vol-iv-bca040/09-de-linfluence-de-lesclavage-domestique-sur-les-moeurs-des-maîtres-et-des-esclaves-dans-les-états-un/translation/#p-a7f24b).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slave",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slaves",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slavery",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "servant",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "servile",
+        "limit": 100
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-b30726",
+          "p-c466f1",
+          "p-0d0bc4",
+          "p-6dbf54",
+          "p-4c12cf"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 63,
+        "paragraph_ids": [
+          "p-fbeb35",
+          "p-93d629",
+          "p-690070",
+          "p-6d8cc0",
+          "p-2617af",
+          "p-eaf4f4"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-5be08b",
+          "p-a02b71"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-78d1bb",
+          "p-01de97",
+          "p-e5225e",
+          "p-3a2f89"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-03bfac",
+          "p-68b18f",
+          "p-e90c9a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-a7f24b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-56a86f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 2,
+      "paragraph_id": "p-1409dc"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 2,
+      "paragraph_id": "p-b30726"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 2,
+      "paragraph_id": "p-fbeb35"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 2,
+      "paragraph_id": "p-5be08b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 2,
+      "paragraph_id": "p-78d1bb"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 2,
+      "paragraph_id": "p-03bfac"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 2,
+      "paragraph_id": "p-56a86f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 2,
+      "paragraph_id": "p-a7f24b"
+    }
+  ],
+  "duration_ms": 54681,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 113432,
+    "completion_tokens": 5549,
+    "total_tokens": 118981,
+    "cached_tokens": 57239,
+    "api_calls": 3,
+    "cost_usd": 0.016875050000000003,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 600,
+        "total_tokens": 2150,
+        "cached_tokens": 1536,
+        "cost_usd": 0.0003796
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 54172,
+        "completion_tokens": 2843,
+        "total_tokens": 57015,
+        "cached_tokens": 1536,
+        "cost_usd": 0.0120255
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 57710,
+        "completion_tokens": 2106,
+        "total_tokens": 59816,
+        "cached_tokens": 54167,
+        "cost_usd": 0.00446995
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "answer": "**I could not find this passage or any matching description in the Falsafa corpus.**\n\nAfter extensive searches using distinctive phrases and concepts from the query (e.g., \"sacred thread\"/yajnopavita/upavita, \"sacred ash\"/vibhuti/bhasma, rosary/mala, \"hundred years\"/\"each bead\", Yama + ascetic/monk/sannyasi + punishment/hell/fire/mountain/club/rod), the closest results referenced Yama's realm and hellish punishments in works like *Kuñjarakarṇa Dharmakathana* (ch. 1), *Bṛhaspati Smṛti* (ch. 1), *Vratisaṃsana* (ch. 1), and various Smṛtis (*Manusmṛti*, *Pārśara Smṛti*), but none describe an ascetic's sacred thread turning into a club, sacred ash into a fiery mountain, or rosary beads each bringing a hundred years of punishment if moral conduct fails. The corpus (37 works, primarily Indic philosophical texts) does not appear to contain this specific warning.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hundred years\" \"each bead\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred thread\" Yama",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred ash\" \"mountain of fire\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred thread\" OR \"holy thread\" OR yajnopavita OR upavita Yama",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred ash\" OR vibhuti fire mountain OR burning",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rosary\" OR mala \"hundred years\" OR \"each bead\" punishment",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"thread\" club OR rod Yama ascetic",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yama \"ascetic\" thread OR ash OR rosary",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred thread\" OR yajnopavita OR \"holy thread\" OR upavita OR poonul punishment OR hell OR Yama",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred ash\" OR bhasma OR vibhuti Yama OR punishment OR hell OR fire",
+        "limit": 10
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rosary\" OR \"mala\" OR japa \"hundred\" OR punishment Yama OR hell OR \"each\" bead",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"yama\" ascetic OR monk OR sannyasi \"thread\" OR ash OR rosary OR mala",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Yama\" thread OR poonul OR upavita OR yajnopavita OR \"sacred thread\" OR \"sacred cord\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Yama\" ash OR bhasma OR vibhuti \"fire\" OR burning OR mountain",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Yama\" rosary OR mala OR \"each bead\" OR \"hundred years\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ascetic\" OR sannyasi OR monk Yama punishment OR hell OR naraka thread OR ash OR rosary",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 38987,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 94501,
+    "completion_tokens": 3729,
+    "total_tokens": 98230,
+    "cached_tokens": 39042,
+    "api_calls": 5,
+    "cost_usd": 0.0149084,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1611,
+        "completion_tokens": 433,
+        "total_tokens": 2044,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005162
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1823,
+        "completion_tokens": 549,
+        "total_tokens": 2372,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00040945
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14304,
+        "completion_tokens": 1042,
+        "total_tokens": 15346,
+        "cached_tokens": 1818,
+        "cost_usd": 0.0031091
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 21249,
+        "completion_tokens": 963,
+        "total_tokens": 22212,
+        "cached_tokens": 14299,
+        "cost_usd": 0.00258645
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 55514,
+        "completion_tokens": 742,
+        "total_tokens": 56256,
+        "cached_tokens": 21244,
+        "cost_usd": 0.0082872
+      }
+    ]
+  }
+}

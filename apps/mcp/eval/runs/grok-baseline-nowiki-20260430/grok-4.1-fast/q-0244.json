@@ -1,0 +1,228 @@
+{
+  "answer": "In *The Wanderer*, nothing of the earthly body or its possessions survives intact; all physical and social elements of human life—halls, treasures, warriors, and kin—inevitably decay and waste away under the decree of *wyrd* (fate) and time.[^1] The poem emphasizes mutability: \"this middle-earth each and every day droops and decays,\" with ruins standing as ghostly witnesses to what has perished.[^2] Implicitly, however, the human *mod* (spirit/mind) survives in a qualified sense, capable of wisdom through endurance and turning toward divine grace for eternal stability: \"Well is it for him who seeks grace, comfort from the Father in heaven, where for us all stability stands.\"[^3] Bodily survival is not affirmed; the focus is consolation for the enduring spirit amid loss.\n\nIn *Soul and Body II*, the body emphatically does *not* survive: it decays into \"dust,\" its flesh torn by worms, its bones bereft of sinews, and its joys reduced to nothing.[^4] The soul (*gast*), by contrast, survives death independently, departing to receive \"either torment or glory\" from God based on earthly deeds, but remains bound to the body by sin—it returns every seven nights for three hundred years (or until doomsday) to revile the corpse it once inhabited.[^5] On Judgment Day, body and soul reunite to face eternal punishment together if sinful.[^6]\n\n### Comparison\nBoth poems, as Christian Old English elegies, affirm the soul's survival beyond bodily death while depicting the body as transient and corruptible, aligning with Anglo-Saxon anxieties over *anhaga* (solitary exile) and judgment. *The Wanderer* handles the question indirectly through meditation on worldly ruin, offering stoic wisdom and hope in God's unchanging realm as the soul's refuge—no haunting or explicit postmortem separation is described.[^7] *Soul and Body II* treats it didactically and vividly, personifying the soul's bitter recriminations against the body to warn of hellish torment; survival means ongoing misery for the soul until reunion and reckoning.[^8] Where *The Wanderer* consoles philosophically, *Soul and Body II* terrifies homiletically, but both urge right living for the soul's true endurance.\n\n[^1]: *Old English Elegies*, ch. 11 (*The Wanderer*), translation, [para.](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^2]: *Old English Elegies*, ch. 11 (*The Wanderer*), translation, [para.](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^3]: *Old English Elegies*, ch. 11 (*The Wanderer*), translation, [para.](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-5bdc65).\n\n[^4]: *Old English Elegies*, ch. 10 (*Soul and Body II*), translation, [paras.](/works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/#p-7f7247#p-ccab58).\n\n[^5]: *Old English Elegies*, ch. 10 (*Soul and Body II*), translation, [paras.](/works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/#p-34bcc7#p-00ea0f).\n\n[^6]: *Old English Elegies*, ch. 10 (*Soul and Body II*), translation, [para.](/works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/#p-7f7247).\n\n[^7]: *Old English Elegies*, ch. 11 (*The Wanderer*), full chapter, [/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/](works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/).\n\n[^8]: *Old English Elegies*, ch. 10 (*Soul and Body II*), full chapter, [/works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/](works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"The Wanderer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Soul and Body\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wanderer"
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"soul and body\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "survives body"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"soul\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "body soul"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the wanderer\" soul body"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-5bdc65"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-7f7247"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-ccab58"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-34bcc7"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-00ea0f"
+    }
+  ],
+  "duration_ms": 39736,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 29721,
+    "completion_tokens": 3744,
+    "total_tokens": 33465,
+    "cached_tokens": 15921,
+    "api_calls": 5,
+    "cost_usd": 0.00542805,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 507,
+        "total_tokens": 2069,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005434
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1749,
+        "completion_tokens": 422,
+        "total_tokens": 2171,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005383
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6223,
+        "completion_tokens": 283,
+        "total_tokens": 6506,
+        "cached_tokens": 1744,
+        "cost_usd": 0.0011245
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7664,
+        "completion_tokens": 387,
+        "total_tokens": 8051,
+        "cached_tokens": 6218,
+        "cost_usd": 0.0007936
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 12523,
+        "completion_tokens": 2145,
+        "total_tokens": 14668,
+        "cached_tokens": 7659,
+        "cost_usd": 0.00242825
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "answer": "In Allama Iqbal's poem *Falsafa-e-Gham* (\"The Philosophy of Sorrow\") from *Bang-E-Dara Part 3*, grief (or sorrow, *gham*) is presented not as a mere affliction but as an essential, transformative force integral to human life, spiritual awakening, and eternal love.[^1] It polishes the heart, awakens the soul's potential, provides wings for its flight, reveals hidden truths, and constitutes a \"silent song of soul\" that completes existence—much like a rose requires lost petals or a nightingale autumnal pain to fully bloom.[^1] Those untouched by sorrow remain spiritually veiled, lacking the prayers, tears, thorns, and heartbreak that unlock life's deepest secrets.[^2]\n\nSorrow is deeply intertwined with love, persisting eternally within the soul after the beloved's physical departure and thereby securing their enduring presence against oblivion.[^3] Iqbal employs the metaphor of a river cascading from a height—shattering into countless drops (humanity scattered by separation) yet swiftly reforming—to illustrate how grief teaches reunion and unity beyond apparent division.[^4] Parting is illusory in this lower world; the departed never truly leave, shining like radiant stars to guide the living through life's darkest trials when reason and courage fail.[^5][^6]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Falsafa-e-Gham\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-141d8d).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Falsafa-e-Gham\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-e436cc).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Falsafa-e-Gham\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-e693fc).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Falsafa-e-Gham\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-811039).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Falsafa-e-Gham\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-757295).\n[^6]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Falsafa-e-Gham\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-523a9f).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Falsafa-e-Gham"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"philosophy of grief\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-141d8d",
+          "p-e436cc",
+          "p-e693fc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-811039",
+          "p-757295"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-523a9f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-141d8d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-e436cc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-e693fc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-811039"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-757295"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-523a9f"
+    }
+  ],
+  "duration_ms": 31028,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 13473,
+    "completion_tokens": 2996,
+    "total_tokens": 16469,
+    "cached_tokens": 4468,
+    "api_calls": 4,
+    "cost_usd": 0.0035224,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 258,
+        "total_tokens": 1810,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0002099
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2643,
+        "completion_tokens": 281,
+        "total_tokens": 2924,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006466
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 3934,
+        "completion_tokens": 1099,
+        "total_tokens": 5033,
+        "cached_tokens": 2638,
+        "cost_usd": 0.0009406
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 5344,
+        "completion_tokens": 1358,
+        "total_tokens": 6702,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017253
+      }
+    ]
+  }
+}

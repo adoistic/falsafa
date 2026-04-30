@@ -1,0 +1,235 @@
+{
+  "answer": "**In the Smṛti tradition, as represented in the *Manusmṛti*, *artha*—translated here as \"wealth\"—is one of the three primary goals (*puruṣārthas*, or aims) of human life, alongside *dharma* (righteousness, duty, sacred law) and *kama* (desire, pleasure).**[^1][^2] These form the *trivarga* (triple set), which a wise person, especially a king, must master to govern justly and prosper.[^3] *Artha* denotes material prosperity, economic security, political power, and worldly purpose; it is not mere accumulation but the legitimate pursuit of resources to sustain life, family, society, and dharma itself.[^4]\n\nThe texts subordinate *artha* and *kama* to *dharma*: they must align with righteousness, as the *Manusmṛti* states that prioritizing the full triad yields the highest good, while imbalance (e.g., wealth or desire without duty) leads to ruin.[^5] A king who knows and balances these \"three goals\" wields punishment (*daṇḍa*) effectively, prospering in all three; failure invites destruction.[^6] The *Yājñavalkya Smṛti* echoes this indirectly through royal duties emphasizing protection, wealth acquisition, and Vedic rites, but without explicit *trivarga* terminology in the available chapters.[^7]\n\nThe Falsafa corpus covers Smṛti exemplars like *Manusmṛti* (12 chapters) and *Yājñavalkya Smṛti* (3 chapters), but lacks comprehensive treatises on *arthaśāstra* (e.g., Kauṭilya's) or direct definitions of *puruṣārthas* as a quartet including *mokṣa*. No other works (e.g., *Viṣṇu Smṛti*) elaborate further here.\n\n[^1]: *Manusmṛti*, [Chapter 7, paragraph p-96ec46](/works/unknown-manusmrti-347b76/07/translation/#p-96ec46).  \n[^2]: *Manusmṛti*, [Chapter 2, paragraph p-c1b744](/works/unknown-manusmrti-347b76/02/translation/#p-c1b744).  \n[^3]: *Manusmṛti*, [Chapter 7, paragraph p-96ec46](/works/unknown-manusmrti-347b76/07/translation/#p-96ec46).  \n[^4]: Implied in kingly duties (*rājadharma*) across *Manusmṛti* Ch. 7 and *Yājñavalkya Smṛti* Ch. 1 (e.g., [Chapter 1, full](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/)).  \n[^5]: *Manusmṛti*, [Chapter 2, paragraph p-c1b744](/works/unknown-manusmrti-347b76/02/translation/#p-c1b744).  \n[^6]: *Manusmṛti*, [Chapter 7, paragraph p-e9e861](/works/unknown-manusmrti-347b76/07/translation/#p-e9e861).  \n[^7]: *Yājñavalkya Smṛti*, [Chapter 1, full](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "artha dharma kama",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"smriti\" artha",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "purusharthas OR puruṣārthas OR \"four ends\" OR \"three goals\" smriti OR manu",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "hindu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" \"artha\" OR \"wealth\" OR \"profit\" \"kama\" OR \"desire\" OR \"pleasure\" OR \"purushartha\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-96ec46"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-e9e861"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-c1b744"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "trivarga OR \"three goals\" OR \"dharma artha kama\" OR \"dharma, artha\" OR purusharthas",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-96ec46"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-c1b744"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-e9e861"
+    }
+  ],
+  "duration_ms": 37672,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 111901,
+    "completion_tokens": 3838,
+    "total_tokens": 115739,
+    "cached_tokens": 36386,
+    "api_calls": 4,
+    "cost_usd": 0.0188413,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 711,
+        "total_tokens": 2274,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0004383
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3431,
+        "completion_tokens": 751,
+        "total_tokens": 4182,
+        "cached_tokens": 149,
+        "cost_usd": 0.00103935
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 31284,
+        "completion_tokens": 1097,
+        "total_tokens": 32381,
+        "cached_tokens": 3426,
+        "cost_usd": 0.0062914
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 75623,
+        "completion_tokens": 1279,
+        "total_tokens": 76902,
+        "cached_tokens": 31279,
+        "cost_usd": 0.01107225
+      }
+    ]
+  }
+}

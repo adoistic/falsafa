@@ -1,0 +1,194 @@
+{
+  "answer": "In Cynewulf's *Elene*, the moment occurs toward the end of the poem's single chapter. Having unearthed three crosses from Golgotha (Calvary), Judas cannot identify which is the True Cross (the \"victory-beacon\" or \"Rood\" on which Christ was crucified). The crosses are placed in the city center. At the ninth hour, a crowd brings a dead youth on a bier. Judas tests the crosses one by one over the corpse: the first two have no effect, but when the third—the True Cross—is raised over the body, the youth immediately rises to life, \"with spirit endowed, together both body and soul.\"[^1]\n\n[^1]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true cross\" dead",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cross raised dead",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true cross\" raised",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dead\" cross",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "helena cross dead",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true cross\" OR invention cross helena",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f5d1f1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 9,
+          "end": 12
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dead man\" OR \"bier\" OR \"soulless\" OR \"life-departed\" elene",
+        "limit": 5
+      },
+      "result_summary": "Found 5 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    }
+  ],
+  "duration_ms": 53966,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 61199,
+    "completion_tokens": 6167,
+    "total_tokens": 67366,
+    "cached_tokens": 23675,
+    "api_calls": 5,
+    "cost_usd": 0.01177205,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 513,
+        "total_tokens": 2066,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005446
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2084,
+        "completion_tokens": 376,
+        "total_tokens": 2460,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003753
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3786,
+        "completion_tokens": 241,
+        "total_tokens": 4027,
+        "cached_tokens": 2079,
+        "cost_usd": 0.00056585
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 16140,
+        "completion_tokens": 4063,
+        "total_tokens": 20203,
+        "cached_tokens": 3781,
+        "cost_usd": 0.00469235
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 37636,
+        "completion_tokens": 974,
+        "total_tokens": 38610,
+        "cached_tokens": 16135,
+        "cost_usd": 0.00559395
+      }
+    ]
+  }
+}

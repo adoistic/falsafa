@@ -1,0 +1,228 @@
+{
+  "answer": "Ghalib's famous *matla* from *Diwan-e-Ghalib* opens his ghazal with a vision of desire as an overwhelming multiplicity, where each individual longing is so potent that its pursuit—or fulfillment—threatens annihilation: \"A thousand wishes, each could make my spirit cease; / So many of my dreams came true, yet brought so little peace.\"[^1] This establishes a \"desire-cosmology\" of inexhaustible proliferation: desires spawn endlessly (\"a thousand\"), each one fatal in its intensity (\"dam nikle,\" breath expires), and even partial satisfactions yield no respite, only deeper exhaustion. The speaker is trapped in a Sisyphean cycle, where the human condition is defined by futile, self-destructive yearnings that drain the life-force without resolution. Subsequent couplets reinforce this fatalism: the beloved's tyranny evokes blood-tears that flow ceaselessly (\"A constant stream of blood would always flow\"),[^2] expulsion from the beloved's lane surpasses Adam's fall in shame,[^3] and the lover's tresses symbolize an unfathomable, devouring chaos.[^4] Desire here is a mortal trap—horizontal, worldly, and annihilating.\n\nIn contrast, Iqbal's *matla* from *Bang-e-Dara* (Part 1) pivots to a vertical, transcendent aspiration for divine love's extremity: \"The final reach of Your Love is what I seek; / Behold my simplicity, what I beseech is what I seek.\"[^5] Iqbal's cosmology frames desire not as a scattering of lethal fragments but as a unified quest for *inteha* (culmination or intensity), embracing ordeal as the path to union (\"Be it torment, or the promise of unveiling, / A trial that will test my faith is what I seek\").[^6] Paradise is dismissed for direct confrontation with the Divine (\"Let the pious keep their blessed Paradise; / To stand before Your very face is what I seek\"),[^7] echoing Moses' plea in the Quran (which God denies with \"Lan tarani\"—you shall not see Me). Here, desire fuels empowerment and audacity, not annihilation; the small human heart dares infinity, seeking pain as purification toward self-realization and divine proximity. Iqbal's desires consolidate into a singular, ascending force, rejecting Ghalib's dispersive entropy for purposeful escalation.\n\nGhalib's world is one of horizontal proliferation and quiet despair—desires as cosmic predators devouring the self piecemeal. Iqbal's is vertical and heroic—desire as a ladder to the Absolute, where intensity *is* the goal, sustaining rather than extinguishing the soul.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/70-hazaaron-khwahishein-aisi-ke-har-khwahish-pe-dam-n/translation/#p-fcc8ca).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [passage](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/70-hazaaron-khwahishein-aisi-ke-har-khwahish-pe-dam-n/translation/#p-9bc9b2).\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/70-hazaaron-khwahishein-aisi-ke-har-khwahish-pe-dam-n/translation/#p-38351a).\n\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/70-hazaaron-khwahishein-aisi-ke-har-khwahish-pe-dam-n/translation/#p-e21ac5).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/12-tere-ishq-ki-inteha-chahta-hoon/translation/#p-34168f).\n\n[^6]: Allama Iqbal, *Bang-E-Dara Part 1*, [passage](/works/allama-iqbal-bang-e-dara-part-1-55b25c/12-tere-ishq-ki-inteha-chahta-hoon/translation/#p-e22581).\n\n[^7]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/12-tere-ishq-ki-inteha-chahta-hoon/translation/#p-07b1dc).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Hazaaron khwāhishein aisi ki har khwāhish pe dam nikle"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tere ishq ki intehā chāhtā hoon"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hundreds of desires\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 70,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.70 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 70,
+        "paragraph_ids": [
+          "p-fcc8ca"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-34168f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 70,
+        "paragraph_ids": [
+          "p-9bc9b2",
+          "p-38351a",
+          "p-e21ac5"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-e22581",
+          "p-07b1dc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 12,
+      "paragraph_id": "p-fcc8ca"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 12,
+      "paragraph_id": "p-9bc9b2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 12,
+      "paragraph_id": "p-38351a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 12,
+      "paragraph_id": "p-e21ac5"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 12,
+      "paragraph_id": "p-34168f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 12,
+      "paragraph_id": "p-e22581"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 12,
+      "paragraph_id": "p-07b1dc"
+    }
+  ],
+  "duration_ms": 38163,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 42930,
+    "completion_tokens": 4315,
+    "total_tokens": 47245,
+    "cached_tokens": 28120,
+    "api_calls": 4,
+    "cost_usd": 0.0065255,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1616,
+        "completion_tokens": 698,
+        "total_tokens": 2314,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006497
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12519,
+        "completion_tokens": 571,
+        "total_tokens": 13090,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00255995
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 13932,
+        "completion_tokens": 1126,
+        "total_tokens": 15058,
+        "cached_tokens": 12514,
+        "cost_usd": 0.0014723
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 14863,
+        "completion_tokens": 1920,
+        "total_tokens": 16783,
+        "cached_tokens": 13927,
+        "cost_usd": 0.00184355
+      }
+    ]
+  }
+}

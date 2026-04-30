@@ -1,0 +1,108 @@
+{
+  "answer": "**Chapter 30 of the *Viṣṇu Smṛti* does not contain any verses on the duties of the householder (*gṛhastha*) toward guests (*atithis*).**\n\nInstead, this chapter prescribes rules for the study of the Vedas: the permissible study period (four and a half months starting in Śrāvaṇa or Prauṣṭhapada), the dismissal ceremony, study of ancillary texts during breaks, and a long list of times and circumstances when study is forbidden (e.g., lunar days, eclipses, bad weather, impurity, animal sounds, near low castes, etc.). It also discusses the consequences of improper study, the sanctity of the teacher-pupil relationship (likening the teacher to a more venerable father), and how studying different Vedas satisfies ancestors.[^1]\n\nNo mentions of householders or guests appear anywhere in the chapter.[^2]\n\nIf this topic appears elsewhere in the *Viṣṇu Smṛti* (which has 100 chapters on dharma topics) or another Smṛti text like *Manusmṛti*, a broader search in the corpus yielded no direct matches for \"householder\" and \"guest\" together in the *Viṣṇu Smṛti*.[^3]\n\n[^1]: *Viṣṇu Smṛti*, [Chapter 30 (translation)](/works/unknown-visnu-smrti-27f0d8/30/translation/).\n\n[^2]: *Viṣṇu Smṛti*, [Chapter 30 (full text)](/works/unknown-visnu-smrti-27f0d8/30/translation/).\n\n[^3]: Corpus search results for distinctive phrases like \"householder guest\" or \"householder\" \"guest\" Visnu.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Visnu Smriti chapter 30 householder guests",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 30,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.30 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"householder\" \"guest\" Visnu",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 22198,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 21477,
+    "completion_tokens": 2053,
+    "total_tokens": 23530,
+    "cached_tokens": 450,
+    "api_calls": 3,
+    "cost_usd": 0.005254399999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 651,
+        "total_tokens": 2206,
+        "cached_tokens": 150,
+        "cost_usd": 0.000614
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 6829,
+        "completion_tokens": 396,
+        "total_tokens": 7225,
+        "cached_tokens": 150,
+        "cost_usd": 0.0015413
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13093,
+        "completion_tokens": 1006,
+        "total_tokens": 14099,
+        "cached_tokens": 150,
+        "cost_usd": 0.0030991
+      }
+    ]
+  }
+}

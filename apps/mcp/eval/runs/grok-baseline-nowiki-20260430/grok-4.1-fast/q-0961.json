@@ -1,0 +1,359 @@
+{
+  "answer": "**The Wife's Lament** (the speaker, confined in an earthen cave under an oak tree after separation from her husband due to his kinsmen's plotting) wants reunion and shared suffering with her husband: she yearns to end their forced apartness, imagining that \"whether all his world’s joy depends on himself, or he is an outcast in a distant land,\" they might at least endure misery together rather than separately.[^1] The text lets the reader hear no realistic prospect of this; her confinement persists without relief (\"there I can weep for my paths of exile, my many sorrows; for I can never find any rest from my heart’s-care\"), his exile continues in a \"dreary hall,\" and their \"love together\" is \"now as if it never were,\" underscoring irrevocable loss amid feuding kin.[^2]\n\n**Maa ka Khwab** (the mother, dreaming of her absent son after he has left home) wants her son to return and stay with her, ending her tearful isolation (\"Your absence leaves me in deep turmoil; I string each day a garland of my tears\").[^3] The text lets the reader hear she will not get this on her terms; her son prioritizes his independent path (\"My absence makes you weep and cry, but in that, no good for me can lie\"), blaming her excessive tears for extinguishing his lamp—symbolizing stalled spiritual progress—and implying maturity requires detachment from maternal clinging.[^4]\n\n[^1]: *Old English Elegies*, [paragraph](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-956fe7).  \n[^2]: *Old English Elegies*, [chapter](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/).  \n[^3]: *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/#p-c4bed6).  \n[^4]: *Bang-E-Dara Part 1*, [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wife's Lament",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Maa ka Khwam",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mother's Dream\" Iqbal",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wife lament"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife's lament\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mother dream iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maa khwab"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Literature"
+      },
+      "result_summary": "Listed 9 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"slug\":\"unknown-old-english-elegies-d5fe9e\",\"title\":\"Old English Elegies\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Literature\",\"genre_slug\":\"literatu"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife's lament\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mother dream",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "23cb49",
+          "97aedc",
+          "cb7a18",
+          "66ceaf",
+          "c1cc32",
+          "956fe7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29,
+        "paragraph_ids": [
+          "761301",
+          "d3cd9e",
+          "416dcb",
+          "3a3693",
+          "068672",
+          "c06945",
+          "1d110a",
+          "2fb543",
+          "9c5ea5",
+          "c4bed6",
+          "4c138e",
+          "170299",
+          "508d74",
+          "0387a6",
+          "4feffc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "paragraph_range": {
+          "start": 0,
+          "end": 5
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 3,
+      "paragraph_id": "p-956fe7"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 3,
+      "paragraph_id": "p-c4bed6"
+    }
+  ],
+  "duration_ms": 60366,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 85220,
+    "completion_tokens": 5931,
+    "total_tokens": 91151,
+    "cached_tokens": 47789,
+    "api_calls": 7,
+    "cost_usd": 0.01284115,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1587,
+        "completion_tokens": 568,
+        "total_tokens": 2155,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00037205
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2220,
+        "completion_tokens": 724,
+        "total_tokens": 2944,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00057665
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 7132,
+        "completion_tokens": 671,
+        "total_tokens": 7803,
+        "cached_tokens": 2215,
+        "cost_usd": 0.00142965
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "get_metadata",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15158,
+        "completion_tokens": 536,
+        "total_tokens": 15694,
+        "cached_tokens": 7127,
+        "cost_usd": 0.00223055
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 17795,
+        "completion_tokens": 671,
+        "total_tokens": 18466,
+        "cached_tokens": 15153,
+        "cost_usd": 0.00162155
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 20091,
+        "completion_tokens": 1247,
+        "total_tokens": 21338,
+        "cached_tokens": 150,
+        "cost_usd": 0.0046192
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 21237,
+        "completion_tokens": 1514,
+        "total_tokens": 22751,
+        "cached_tokens": 20086,
+        "cost_usd": 0.0019915
+      }
+    ]
+  }
+}

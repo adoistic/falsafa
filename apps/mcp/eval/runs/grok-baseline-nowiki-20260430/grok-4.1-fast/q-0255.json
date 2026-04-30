@@ -1,0 +1,253 @@
+{
+  "answer": "**Ghalib's couplet from *Diwan-e-Ghalib* (ghazal 6):**  \n\"A drunken stumbling, Asad, a fevered, wild display, Beloved;  \nThe fire of wine has made your market burn like spring, Beloved.\"[^1]\n\n**Zauq's couplet from *Diwan-e-Zauq* (ghazal 36):**  \n\"On Judgment Day, the drinkers, waking from their sleep anew,  \nWill cry, 'Oh Saki, bring the morning’s sacred brew!' is what I would pursue.\"[^2]\n\nGhalib treats intoxication (*mastī*) as a chaotic, transformative ecstasy that fuses physical inebriation with erotic and existential fervor: the \"drunken stumbling\" evokes a loss of control akin to love's feverish passion, where wine's \"fire\" paradoxically revives the lover's ruined \"market\" (self or bazaar of the heart) into spring-like renewal. It is ambivalent—destructive yet regenerative, blurring earthly desire with a Sufi-like annihilation in the Beloved.[^3]\n\nZauq, by contrast, portrays intoxication more playfully and persistently worldly: drinkers remain addicted even on Judgment Day, demanding wine from the cupbearer (*sāqī*) in the afterlife. This emphasizes an irrepressible, habitual craving that mocks sobriety and religious reckoning, aligning with classical Urdu ghazal topoi but without Ghalib's philosophical depth—intoxication here is eternal hedonism, humorous in its defiance of transcendence.[^4]\n\nThe key difference lies in philosophical nuance: Ghalib's intoxication is a metaphor for love's paradoxical rapture (painful enlightenment), while Zauq's is a lighter, cyclical indulgence underscoring undying thirst.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost/translation/#p-ec8295).\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/36-maza-tha-hum-ko-jo-laila-se-do-ba-do-karte/translation/#p-b9bbb5).\n[^3]: Ibid., ch. 6 full ghazal context links wine-fire to the Beloved's consuming gaze.[^1]\n[^4]: Ibid., ch. 36; cf. Zauq's ch. 11 for wine-drinkers prioritizing flask over prayer.[^5]\n\n[^5]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/11-chashm-e-qaatil-humein-kyonkar-na-bhala-yaad-rahe/translation/#p-21c416).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib mirza"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "sheikh ibrahim zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib wine intoxication"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Zauq wine intoxication"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wine",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drunk",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intoxication",
+        "limit": 20
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mast",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saki",
+        "limit": 20
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "topic": "wine"
+      },
+      "result_summary": "{\"topic\":\"wine\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "topic": "intoxication"
+      },
+      "result_summary": "{\"topic\":\"intoxication\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 75
+      },
+      "result_summary": "Read ch.75 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 128
+      },
+      "result_summary": "Read ch.128 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 36
+      },
+      "result_summary": "Read ch.36 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 8
+      },
+      "result_summary": "Read ch.8 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 11,
+      "paragraph_id": "p-ec8295"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 11,
+      "paragraph_id": "p-b9bbb5"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 11,
+      "paragraph_id": "p-21c416"
+    }
+  ],
+  "duration_ms": 34868,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 36659,
+    "completion_tokens": 4023,
+    "total_tokens": 40682,
+    "cached_tokens": 18979,
+    "api_calls": 4,
+    "cost_usd": 0.006496450000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1561,
+        "completion_tokens": 472,
+        "total_tokens": 2033,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00031885
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2208,
+        "completion_tokens": 1171,
+        "total_tokens": 3379,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00079775
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "compare_works",
+          "compare_works"
+        ],
+        "prompt_tokens": 13723,
+        "completion_tokens": 1121,
+        "total_tokens": 14844,
+        "cached_tokens": 2203,
+        "cost_usd": 0.00297465
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 19167,
+        "completion_tokens": 1259,
+        "total_tokens": 20426,
+        "cached_tokens": 13718,
+        "cost_usd": 0.0024052
+      }
+    ]
+  }
+}

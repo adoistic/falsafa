@@ -1,0 +1,306 @@
+{
+  "answer": "**In \"Soul and Body II\"** (Old English Elegies), the soul returns repeatedly after death to excoriate the body for its earthly indulgences, culminating in dread of reunion at Doomsday. The most uncomfortable line addressed to the body—the one it would least like to hear—is: \"For you must answer for us both on that great day, when the wounds of all men are laid bare, wounds that sinful men wrought long ago in the world. Then the Lord Himself will hear of their deeds, a wounding requital from every man’s mouth. But what will you say to the Lord there on Doomsday? Then there will be no joint so small grown upon a limb, that you will not have to pay the price for each one separately, when the Lord is fierce in judgment.\"[^1] This Anglo-Saxon Christian tradition is most worried, at judgment, about the body's fleshly sins (feasting, wine, lust) having corrupted the soul such that their inevitable reunion condemns both eternally to hellish torment.[^2]\n\n**In the smṛti tradition**, the dead (often via Yama's messengers) are delivered to Yama (son of Vivasvat), king of the dead, for judgment by karma. The most uncomfortable line addressed to the sinner—the one he would least like to hear—is: \"For however many morsels of the oblation that lowly one eats, so many spikes he swallows upon reaching Yama, the son of Vivasvat.\"[^3] This Dharmashāstra tradition is most worried, at judgment, about unrighteous deeds (e.g., impure gifts, hidden sins) yielding calibrated hellish torments in Yama's realm before rebirth.[^4]\n\n[^1]: *Unknown-Old English Elegies*, \"Soul and Body II\" [paragraph](/works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/#p-7f7247).\n[^2]: *Unknown-Old English Elegies*, \"Soul and Body II\" [paragraph](/works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/#p-00ea0f).\n[^3]: *Unknown-Aṅgirasa Smṛti*, Chapter 1 [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-3c396a).\n[^4]: *Unknown-Manusmṛti*, Chapter 12 [paragraph](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Soul and Body\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yama"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smriti"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "hindu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "soul body"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"soul\" body death"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old_english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"deliver\" Yama OR \"brought to\" Yama OR \"goes to\" Yama death"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yama judgment OR sin"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"soul\" \"body\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "soul body corpse OR grave"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Yama\" soul OR dead OR death"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"to Yama\" OR \"before Yama\" OR \"Yama's\" death OR judgment OR sin"
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brought before\" Yama OR \"led to\" Yama OR \"goes to Yama\" soul"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-7f7247"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-00ea0f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-7f7247"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-00ea0f"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-3c396a"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-074f6e"
+    }
+  ],
+  "duration_ms": 75792,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 260901,
+    "completion_tokens": 5775,
+    "total_tokens": 266676,
+    "cached_tokens": 52490,
+    "api_calls": 6,
+    "cost_usd": 0.0803336,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1598,
+        "completion_tokens": 667,
+        "total_tokens": 2265,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00042375
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 9547,
+        "completion_tokens": 1018,
+        "total_tokens": 10565,
+        "cached_tokens": 150,
+        "cost_usd": 0.0023959
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14213,
+        "completion_tokens": 533,
+        "total_tokens": 14746,
+        "cached_tokens": 9542,
+        "cost_usd": 0.0016778
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19399,
+        "completion_tokens": 379,
+        "total_tokens": 19778,
+        "cached_tokens": 14208,
+        "cost_usd": 0.0019381
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 26916,
+        "completion_tokens": 1826,
+        "total_tokens": 28742,
+        "cached_tokens": 150,
+        "cost_usd": 0.0062737
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 189228,
+        "completion_tokens": 1352,
+        "total_tokens": 190580,
+        "cached_tokens": 26911,
+        "cost_usd": 0.06762435
+      }
+    ]
+  }
+}

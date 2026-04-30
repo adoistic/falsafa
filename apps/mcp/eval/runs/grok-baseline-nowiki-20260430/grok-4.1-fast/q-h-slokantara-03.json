@@ -1,0 +1,178 @@
+{
+  "answer": "**No work in the corpus contains this maxim, verse, or exemplum.** \n\nExtensive searches across the English translations for distinctive elements—including \"Sugrīva\" (and variants like Sugriva, Sugreeva), \"Bāli\" (Bali, Vali), \"Rāma,\" \"Lakṣmaṇa,\" \"kinsman\" paired with \"stranger\" or \"enemy,\" \"forest herb,\" \"disease born of the body,\" and related concepts like body disease vs. helpful herb—yielded zero matching results. The corpus (37 works, primarily Smṛti and related Dharmaśāstra texts) does not appear to include this specific reference from the Rāmāyaṇa tradition or any verbatim verse pairing the abstract claim with the named story of Sugrīva, Bāli, Rāma, and Lakṣmaṇa.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sugrīva Bāli Rāma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forest herb\" Sugrīva",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kinsman\" stranger Sugrīva",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sugriva Vali Rama",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kinsman\" stranger Rama",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forest\" herb disease kinsman",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sugriva\" OR \"Sugreeva\" OR \"Sugrīva\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bali\" OR \"Bali\" OR \"Vali\" Sugriva",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kinsman\" enemy stranger",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"stranger\" kinsman",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "disease body harmful herb friend",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forest herb\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"born of the body\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 31284,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 10674,
+    "completion_tokens": 3214,
+    "total_tokens": 13888,
+    "cached_tokens": 8336,
+    "api_calls": 4,
+    "cost_usd": 0.0024914,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1659,
+        "completion_tokens": 446,
+        "total_tokens": 2105,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0003247
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1876,
+        "completion_tokens": 941,
+        "total_tokens": 2817,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00061635
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3407,
+        "completion_tokens": 978,
+        "total_tokens": 4385,
+        "cached_tokens": 1871,
+        "cost_usd": 0.00088975
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3732,
+        "completion_tokens": 849,
+        "total_tokens": 4581,
+        "cached_tokens": 3402,
+        "cost_usd": 0.0006606
+      }
+    ]
+  }
+}

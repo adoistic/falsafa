@@ -1,0 +1,245 @@
+{
+  "answer": "**In the Old Javanese *tattva* texts (e.g., *San Hyan Tattvajnana*, *San Hyan Mahajnana*, and *Gaṇapatitattva*), Sanskrit loanwords abound, reflecting heavy Shaiva and Samkhya influences adapted to a Javanese metaphysical framework of 36 *tattvas* (principles of reality). These texts systematize ontology, cosmology, and soteriology, personifying abstract principles as divine entities in a hierarchical scheme leading to Śiva.**[^1][^2][^3]\n\n**I select three loanwords—*dharma*, *puruṣa*, and *guṇa*—that appear prominently in both the *tattva* corpus and Sanskrit *smṛtis* (e.g., *Manusmṛti*, *Āṅgirasa Smṛti*). In the *smṛtis*, they primarily function in ethical, legal, and cosmogonic contexts (duty, cosmic man, qualities of nature/behavior). In the *tattva* texts, they retain core senses but acquire local inflections: ontological personification, integration into *tattva*-lists, and emphasis on yogic transcendence over social *dharma*.**\n\n### 1. *Dharma* (धर्म)\n**In *smṛtis***: Central ethical/legal concept—righteousness, duty, cosmic order, varṇa-āśrama obligations. E.g., *Manusmṛti* defines *dharma* via Vedic injunctions; *Āṅgirasa Smṛti* ties it to sons, wives (*dharmapatnī*), and rites.[^4][^5]  \n**In *tattva* texts**: Retained as moral order but personified as *Lord Dharma* (*Dharma Viśeṣa*, *Dharmmaviśeṣa*), an ontological *tattva* (Ātmikatattva subtype)—the \"life of the world,\" interwoven (*ūtaprota*) like fire in wood, sustaining beings yet distinct from social duty. Local inflection: deified principle for yogic ascent, not just prescriptive law.[^6][^7]\n\n### 2. *Puruṣa* (पुरुष)\n**In *smṛtis***: Cosmic man (sacrificed for creation, *Manusmṛti* 1), human male/person, or Samkhya soul (pure consciousness vs. *prakṛti*). Ethical: *puruṣārtha* (goals: *dharma*, *artha*, *kāma*, *mokṣa*); *Āṅgirasa* links to sons (*aurasa* from *dharmapatnī* as ideal *puruṣa*-progeny).[^8][^9]  \n**In *tattva* texts**: Samkhya consciousness (*cetana*) meeting *Pradhānatattva* (forgetfulness) to birth *citta*/*guṇa*; *Pradhānapuruṣa* as impure union yielding transmigration. Local inflection: strictly ontological agent in *tattva*-emanation, fueling *saṃsāra* until yogic dissolution; less anthropocentric/social.[^10]\n\n### 3. *Guṇa* (गुण) / *Triguṇa* (त्रिगुण)\n**In *smṛtis***: Three qualities (*sattva*: purity; *rajas*: passion; *tamas*: inertia) of *prakṛti*, influencing character/behavior (*Manusmṛti* 12 on karma/*guṇa*); ethical typology for castes/acts.[^11]  \n**In *tattva* texts*: Identical triad staining *citta* (e.g., *citta-sattva*: wisdom; *citta-rajas*: anger; *citta-tamas*: laziness), causing rebirths (*yoni*s like gods/*triyak*). Local inflection: mapped to *tattva*-hierarchy and rebirth mechanics (e.g., *sattva*+dominance → *mokṣa*; mixed → human), yogic pacification via *samādhi*.[^12][^13]\n\n**Overall, semantic cores persist (ethical ontology from Samkhya), but Javanese *tattva* inflects them mystically: personified *tattvas* for *yoga*/*mokṣa*, prioritizing transcendence over *smṛti*'s social prescription. No corpus evidence of drastic semantic shift, but hierarchical/Shaiva repackaging.** \n\n[^1]: *San Hyan Tattvajnana*, Ch. 1, [full chapter](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/).\n\n[^2]: *San Hyan Mahajnana*, Ch. 1, [full chapter](/works/unknown-san-hyan-mahajnana-11c531/01/translation/).\n\n[^3]: *Gaṇapatitattva*, Ch. 1, [full chapter](/works/unknown-ganapatitattva-66a136/01/translation/).\n\n[^4]: *Manusmṛti* 1.57–94, [para. on *shastra*/*dharma*](/works/unknown-manusmrti-347b76/01/translation/#p-fe9249).\n\n[^5]: *Āṅgirasa Smṛti* 1.1–2, [para. on *dharma* definition](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-d38615); cf. *dharmapatnī* [p-d36963].\n\n[^6]: *San Hyan Tattvajnana* 1, [p-b46534](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-b46534).\n\n[^7]: Ibid., [p-78b09a](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-78b09a) (*Dharmmaviśeṣa*).\n\n[^8]: *Manusmṛti* 1 (cosmogony), implied in searches; *Āṅgirasa* 1.414ff. [p-4c0325](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-4c0325).\n\n[^9]: *Āṅgirasa Smṛti* 1.446–47, [p-cf8133](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-cf8133).\n\n[^10]: *San Hyan Tattvajnana* 1, [p-ef14cc](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-ef14cc).\n\n[^11]: *Manusmṛti* 12.93–94, [p-074f6e](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n\n[^12]: *San Hyan Tattvajnana* 1, [p-93d6be–052f90](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-93d6be) (*citta*-*guṇa*).\n\n[^13]: Ibid., [p-aea5b2](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-aea5b2).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old Javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "tattva"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tattva"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"manusmriti\" OR \"manu\" OR smriti OR \"dharma shastra\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-ganapatitattva-66a136 (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "{\"slug\":\"unknown-san-hyan-tattvajnana-1f29bd\",\"title\":\"San Hyan Tattvajnana\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"lan"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-fe9249"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-d38615"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-d36963"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-b46534"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-78b09a"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-4c0325"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-cf8133"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-ef14cc"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-074f6e"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-93d6be"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-aea5b2"
+    }
+  ],
+  "duration_ms": 64609,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 116987,
+    "completion_tokens": 6666,
+    "total_tokens": 123653,
+    "cached_tokens": 51354,
+    "api_calls": 4,
+    "cost_usd": 0.019027299999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1570,
+        "completion_tokens": 601,
+        "total_tokens": 2171,
+        "cached_tokens": 150,
+        "cost_usd": 0.000592
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5170,
+        "completion_tokens": 1367,
+        "total_tokens": 6537,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00148815
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 44515,
+        "completion_tokens": 1754,
+        "total_tokens": 46269,
+        "cached_tokens": 5165,
+        "cost_usd": 0.00900525
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "read_chapter",
+          "get_metadata"
+        ],
+        "prompt_tokens": 65732,
+        "completion_tokens": 2944,
+        "total_tokens": 68676,
+        "cached_tokens": 44510,
+        "cost_usd": 0.0079419
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "answer": "**In the Old Javanese Śaivite *tattva* texts, \"jñāna\" (Sanskrit ज्ञान) appears frequently transliterated as *jñāna*, retaining its core Sanskritic sense as salvific, self-revelatory wisdom—especially *ātma-jñāna* (knowledge of the Self)—without translation into Kawi vernaculars.[^1][^2]**\n\nA pinpoint example is from *Saṅ Hyaṅ Mahājñāna* (\"The Sacred Supreme Wisdom\"), a tantric dialogue between Kumāra and Śiva on cosmology, physiology, and non-dual realization:\n\n> *rātriś ca prakṛtir jñeyā raviś ca puruṣas tathā /  \n> ātmajñānaṃ tu vijñāya mucyate nātra saṃśayaḥ // 12*[^3]\n\n**Translation:** \"The *pradhāna* (*prakṛti*) is the night. The revered *puruṣa* is the sun that rises in the night. The holy *ātmā* is said to be *jñāna* (wisdom/knowledge). When one knows all of this, let there be no doubt that one returns to the abode of the Lord.\"[^4]\n\nHere, *jñāna*/*ātma-jñāna* effects *mukti* (liberation) via gnosis of *prakṛti*/*puruṣa* polarity, mirroring Sanskritic usages in *Bhagavad Gītā* 4.34 (guru-imparted discriminative wisdom) or *Śiva Sūtras* (non-dual Self-knowledge dissolving saṃsāra). No doctrinal shift: the Kawi frame adapts Śaiva Siddhānta/Abhinavagupta-style *jñāna-mārga* to Javanese *liṅga*-worship and *oṃkāra*-meditation, where *jñāna* pierces *māyā* toward *śiva-pada* (Śiva-abode), as in later verses equating it with *tattva*-cognition for *kaivalya*.[^5]\n\nThis holds across *tattva*-corpus (*Saṅ Hyaṅ Tattvajñāna* titles it as \"Tattvajñāna,\" Knowledge of 36 *tattva*s; *Gaṇapatitattva* links to *jñāna-śakti* of Sadāśiva).[^6] It functions as tantric praxis-tool, not diluted philosophy.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old Javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "tattva"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jnana",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old javanese\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tattva",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"jnana\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-ganapatitattva-66a136 (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 45935,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 121223,
+    "completion_tokens": 3398,
+    "total_tokens": 124621,
+    "cached_tokens": 9727,
+    "api_calls": 4,
+    "cost_usd": 0.024484549999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1595,
+        "completion_tokens": 422,
+        "total_tokens": 2017,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00030065
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1739,
+        "completion_tokens": 542,
+        "total_tokens": 2281,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005963
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6319,
+        "completion_tokens": 1107,
+        "total_tokens": 7426,
+        "cached_tokens": 1734,
+        "cost_usd": 0.0015572
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 111570,
+        "completion_tokens": 1327,
+        "total_tokens": 112897,
+        "cached_tokens": 6314,
+        "cost_usd": 0.0220304
+      }
+    ]
+  }
+}

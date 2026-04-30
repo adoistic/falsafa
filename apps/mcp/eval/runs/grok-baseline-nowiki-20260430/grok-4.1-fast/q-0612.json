@@ -1,0 +1,355 @@
+{
+  "answer": "In Mirza Ghalib's *Diwan-e-Ghalib*, the term *naqsh* (often compounded as *naqsh-e-qadam*, *naqsh-e-paa*, or *naqsh-e-wafa*) carries rich metaphorical layers, primarily evoking a **trace, footprint, or imprint** left by the beloved—symbolizing longing, absence, fidelity's fleeting mark, or the indelible yet ephemeral evidence of love.[^1][^2] It also extends to **artistic design, painting, or scripted image**, portraying the world as a canvas of divine or lover's creation, fraught with complaint, illusion, and coquetry.[^3][^4]\n\nThis duality underscores Ghalib's philosophical irony: the lover discerns paradise (or ruin) in the beloved's passing step, yet the \"painted world\" (*naqsh faryadi*) laments its own scripted beauty as a petitioner's plea. Such imagery blends Sufi ecstasy with existential lament, where *naqsh* marks both union's memory and separation's wound.[^5]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 90 (“Jahan tera naqsh-e-qadam dekhte hain”), [p-b88355](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/90/translation/#p-b88355): \"Wherever the trace of your footstep appears, we see, / In every garden path, a paradise we see.\"\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 90 (“Jahan tera naqsh-e-qadam dekhte hain”), [p-44744c](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/90/translation/#p-44744c): \"Find the trace of my lament's fire in this scarred heart; / It is the night-traveler's own footprint that we see.\"\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 29 (“Dehr mein naqsh-e-wafa wajah-e-tasalli na hua”), [p-cffc40](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/29/translation/#p-cffc40): \"For faith to bring the world a remedy, it was not to be.\" (*Naqsh-e-wafa* = trace/imprint of fidelity.)\n\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 153 (“Naqsh faryadi hai kis ki shokhi-e-tehreer ka”), [p-0e42b0](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/153/translation/#p-0e42b0): \"Whose playful script does this whole painted world complain of?\"\n\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 154 (“Naqsh-e-naaz-e-but-e-tannaz be-aaghosh-e-raqeeb”), [p-aa2e44](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/154/translation/#p-aa2e44): \"That cruel beauty's artful pose...\"",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naqsh Ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"naqsh\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"image\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"design\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mark\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"imprint\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"trace\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"design\" Ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-Ghalib\",\"author\":\"Mirza Ghalib\",\"author_slug\":\"mirza-ghalib\",\"era\":\"19th Century\",\"era_slug\":\"19th-century\",\"genre\":\"Literature\",\"genre_sl"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naqsh"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naksh"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "نقش"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 90,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.90 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 153,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.153 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 154,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.154 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 29,
+        "paragraph_ids": [
+          "p-cffc40"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 90,
+        "paragraph_ids": [
+          "p-b88355"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 153,
+        "paragraph_ids": [
+          "p-0e42b0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 154,
+        "paragraph_ids": [
+          "p-aa2e44"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 90,
+        "paragraph_ids": [
+          "p-44744c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 90,
+      "paragraph_id": "p-b88355"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 90,
+      "paragraph_id": "p-44744c"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 90,
+      "paragraph_id": "p-cffc40"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 90,
+      "paragraph_id": "p-0e42b0"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 90,
+      "paragraph_id": "p-aa2e44"
+    }
+  ],
+  "duration_ms": 105872,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 96733,
+    "completion_tokens": 6274,
+    "total_tokens": 103007,
+    "cached_tokens": 35620,
+    "api_calls": 6,
+    "cost_usd": 0.0171406,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 457,
+        "total_tokens": 2011,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0003095
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2633,
+        "completion_tokens": 994,
+        "total_tokens": 3627,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0007938
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2965,
+        "completion_tokens": 987,
+        "total_tokens": 3952,
+        "cached_tokens": 2628,
+        "cost_usd": 0.0006923
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_metadata",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 26823,
+        "completion_tokens": 964,
+        "total_tokens": 27787,
+        "cached_tokens": 2960,
+        "cost_usd": 0.0054026
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 30886,
+        "completion_tokens": 1351,
+        "total_tokens": 32237,
+        "cached_tokens": 26818,
+        "cost_usd": 0.00283
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 31872,
+        "completion_tokens": 1521,
+        "total_tokens": 33393,
+        "cached_tokens": 150,
+        "cost_usd": 0.0071124
+      }
+    ]
+  }
+}

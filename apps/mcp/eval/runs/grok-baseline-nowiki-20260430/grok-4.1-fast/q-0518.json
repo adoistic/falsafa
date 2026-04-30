@@ -1,0 +1,180 @@
+{
+  "answer": "**Allama Iqbal's *Bang-e-Dara* (divided into three works in the corpus: Parts 1, 2, and 3) contains the most sustained poetic reflections on the nature of beauty (*husn*), portraying it as transient due to the world's mutability, primal and divine in origin (with manifestations or \"traces\" across creation), intertwined with love (*ishq*), and capable of stirring desire, emotion over reason, and spiritual longing.[^1][^2][^3][^4]**\n\nKey examples include:\n\n- ***Bang-e-Dara Part 2*** (most explicit):\n  - \"Haqeeqat-e-Husn\" (The Reality of Beauty): Beauty questions God on its lack of eternity; the response ties it to a world of constant change, where true beauty inherently fades.[^5]\n  - \"Husn o Ishq\" (Beauty and Love): Beauty is a lightning-flash perfecting love, evoking astonishment and repose in the lover's heart.[^6]\n  - \"Jalwa-e-Husn\" (The Splendor of Beauty): Beauty makes desire restless, renders the fleeting world eternal in fancy, turns gaze inward, sweeps away perception's flaws, and subordinates reason to emotion; questions if perfect beauty exists.[^7]\n\n- ***Bang-e-Dara Part 1***:\n  - \"Jugnu\" (The Firefly): All creation bears traces (*jhalak*) of \"Primal Beauty\" (*husn-e-azal/qadeem*); the firefly manifests it fleetingly, akin to speech in humans or bursting in buds.[^8]\n\n**Mirza Ghalib's *Diwan-e-Ghalib*** frequently reflects on beauty (*husn*) in ghazals, often as proud, indifferent, fleeting, or divine-like (e.g., demanding display, perfected in love's pain, or mirrored in creation), though more through love's lens than systematic ontology.[^9]\n\nNo other works offer comparable philosophical depth on beauty's nature. Minor mentions (e.g., *Āṅgirasa Smṛti*, *Cynewulf's Andreas*) are descriptive or nominal (*sundara* as an epithet), not reflective.[^10]\n\n[^1]: Allama Iqbal, *Bang-e-Dara Part 2*, [ch. 12](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/12-haqeeqat-e-husn/translation/).\n\n[^2]: Allama Iqbal, *Bang-e-Dara Part 1*, [ch. 27](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/).\n\n[^3]: Allama Iqbal, *Bang-e-Dara Part 2*, [ch. 13](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/13-husn-o-ishq/translation/).\n\n[^4]: Allama Iqbal, *Bang-e-Dara Part 2*, [ch. 15](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/15-jalwa-e-husn/translation/).\n\n[^5]: Allama Iqbal, *Bang-e-Dara Part 2*, [ch. 12](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/12-haqeeqat-e-husn/translation/#p-4a6546).\n\n[^6]: Allama Iqbal, *Bang-e-Dara Part 2*, [ch. 13](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/13-husn-o-ishq/translation/#p-73eab8).\n\n[^7]: Allama Iqbal, *Bang-e-Dara Part 2*, [ch. 15](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/15-jalwa-e-husn/translation/#p-6fa85f).\n\n[^8]: Allama Iqbal, *Bang-e-Dara Part 1*, [ch. 27](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-86d8dc).\n\n[^9]: Mirza Ghalib, *Diwan-e-Ghalib*, ch. 79 \"Husn-e-beparwa kharidar-e-mata-e-jalwa hai\" [para.](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/79-husn-e-beparwa-kharidar-e-mata-e-jalwa-hai/translation/#p-6fb822).\n\n[^10]: Unknown, *Āṅgirasa Smṛti*, [ch. 1](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-2be36b).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "beauty",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "husn",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sundara",
+        "limit": 50
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nature of beauty\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"what is beauty\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 27,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.27 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-4a6546"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-73eab8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-6fa85f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-86d8dc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-6fb822"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-2be36b"
+    }
+  ],
+  "duration_ms": 32935,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 49139,
+    "completion_tokens": 3793,
+    "total_tokens": 52932,
+    "cached_tokens": 23831,
+    "api_calls": 3,
+    "cost_usd": 0.00814965,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 505,
+        "total_tokens": 2060,
+        "cached_tokens": 150,
+        "cost_usd": 0.000541
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22151,
+        "completion_tokens": 1224,
+        "total_tokens": 23375,
+        "cached_tokens": 1535,
+        "cost_usd": 0.00481195
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 25433,
+        "completion_tokens": 2064,
+        "total_tokens": 27497,
+        "cached_tokens": 22146,
+        "cost_usd": 0.0027967
+      }
+    ]
+  }
+}

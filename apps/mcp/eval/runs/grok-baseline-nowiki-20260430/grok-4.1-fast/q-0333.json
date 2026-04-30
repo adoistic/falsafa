@@ -1,0 +1,324 @@
+{
+  "answer": "**Iqbal's bird in \"Parinde ki Faryad\" (\"A Bird's Lament\") explicitly complains** (faryād), voicing not a song but a raw cry of captivity and loss: \"O listener, don't think this a song and be glad, / It is the cry of all hearts that are wounded and sad.\"[^1] Caged and separated from its garden home, friends, and freedoms, the bird registers the speaker's (or a collective \"wounded hearts\") profound grief over imprisonment—physical, emotional, or metaphorical (perhaps evoking colonial or existential bondage). Its plea to the captor underscores helplessness and a yearning for release.[^2]\n\n**Ghalib's nightingale (bulbul), by contrast, sings a lyrical lament of love.** A classic couplet from his ghazal casts it as the desperate lover: \"Now let the poor nightingale play Zulaikha’s desperate part; / the rose, a Joseph, is on show in the bazaar of the garden.\"[^3] Amid spring's blooming (where \"a hundred blossoms burst from the breached wall\"), the bulbul's song embodies passionate, unrequited desire for the rose—registering the speaker's own ecstatic madness, where love transforms terror into beauty, even as the garden enforces its cruel \"law.\"[^4]\n\nIqbal's bird *complains* to lament subjugation; Ghalib's *sings* to exalt love's torment. The former voices entrapment, the latter romantic transcendence.[^5]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/translation/#p-7d35b0).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/translation/).\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/15-barshkal-e-girya-e-aashiq-hai-dekha-chahiye/translation/#p-452161).\n\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/15-barshkal-e-girya-e-aashiq-hai-dekha-chahiye/translation/#p-452161).\n\n[^5]: The corpus richly features *bulbul*-rose motifs across both poets (e.g., Iqbal ch. 5; Ghalib chs. 13, 57), but these are the most direct to the query.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib bulbul",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib nightingale",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Parinde ki Faryad",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Parinde ki Faryad\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal bird",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nightingale",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bulbul",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bird complains",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bird\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "faryad",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parinde",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.34 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 57,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.57 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bulbul garden rose",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "p-7d35b0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "p-f1e47c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 15,
+        "paragraph_ids": [
+          "p-452161"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 15,
+        "paragraph_range": {
+          "start": 6,
+          "end": 7
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 15,
+      "paragraph_id": "p-7d35b0"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 15,
+      "paragraph_id": "p-452161"
+    }
+  ],
+  "duration_ms": 53662,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 63253,
+    "completion_tokens": 5722,
+    "total_tokens": 68975,
+    "cached_tokens": 42080,
+    "api_calls": 5,
+    "cost_usd": 0.0091996,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1600,
+        "completion_tokens": 600,
+        "total_tokens": 2200,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005975
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2490,
+        "completion_tokens": 1159,
+        "total_tokens": 3649,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00084815
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 17489,
+        "completion_tokens": 883,
+        "total_tokens": 18372,
+        "cached_tokens": 2485,
+        "cost_usd": 0.00356655
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20437,
+        "completion_tokens": 1561,
+        "total_tokens": 21998,
+        "cached_tokens": 17484,
+        "cost_usd": 0.0022453
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 21237,
+        "completion_tokens": 1519,
+        "total_tokens": 22756,
+        "cached_tokens": 20432,
+        "cost_usd": 0.0019421
+      }
+    ]
+  }
+}

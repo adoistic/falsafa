@@ -1,0 +1,299 @@
+{
+  "answer": "For Allama Iqbal, *tarbiyat*—translated here as \"training\" or \"nurturing\"—appears in his Urdu poetry as a concept denoting external formation, education, or cultivation, but one that is inherently limited. It cannot improve or perfect a soul lacking innate spiritual quality (*tabiyat* or *jauhar*, i.e., inherent disposition or essence); such training is widely available (*aam*) yet ineffective without an inner spark worthy of divine grace. It also evokes Islamic nurturing (as in being raised in the fold of faith), from which one can still deviate.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup>\n\nThe term appears directly in the transliterated Urdu text of *Bang-e-Dara* (1924), his major Urdu poetry collection in the Falsafa corpus (no prose works by Iqbal discussing education or self-formation are present). Key instances:\n\n- *Bang-e-Dara Part 2*, Ch. 6 (\"Zamana dekhe ga...\"): Critiquing superficial improvement, nature trumps training: \"Ho tabiyat hi jin ki qaabil, woh tarbiyat se nahin sanwarte\" (\"A soul whose nature is complete, no training can make it more true\").<sup>[1]</sup>\n- *Bang-e-Dara Part 3*, Ch. 4 (\"Dil se jo baat...\"): Divine voice laments: \"Tarbiyat aam toh hai, jauhar-e-qaabil hi nahin\" (\"The training is for all, But where’s the gem to answer to the call?\").<sup>[2]</sup>\n- *Bang-e-Dara Part 3*, Ch. 24 (\"Tazmeen bar sher-e Aneesi Shamlu\"): Accusing apostasy despite sacred origins: \"Hui Hai tarbiyat aaghosh-e Bait-Ullah mein teri\" (\"You were nurtured in the very arms of the House of God\").<sup>[3]</sup>\n\nIqbal's fuller philosophy of *tarbiyat* (self-cultivation via *khudi*/selfhood) is elaborated in prose works like *The Reconstruction of Religious Thought in Islam* (not in this corpus), but these poetic uses align with his emphasis on inner spiritual rebirth over rote education.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, Ch. 6, [p-7b7eb7](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/06-zamana-dekhe-ga-jab-mere-dil-se-mahshar-uthe-ga-gu/translation/#p-7b7eb7).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, Ch. 4, [p-0410a0](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-0410a0).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, Ch. 24, [p-33dc81](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24-tazmeen-bar-sher-e-aneesi-shamlu/translation/#p-33dc81).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tarbiyat"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tarbiyat\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tarbiyah"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.24 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-58b791"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-0d68ab"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-58b791"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-0d68ab"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.24 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"training\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"education\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"formation\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nurtured\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-7b7eb7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-0410a0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24,
+        "paragraph_ids": [
+          "p-33dc81"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tarbiyat iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 24,
+      "paragraph_id": "p-7b7eb7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 24,
+      "paragraph_id": "p-0410a0"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 24,
+      "paragraph_id": "p-33dc81"
+    }
+  ],
+  "duration_ms": 57707,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 33645,
+    "completion_tokens": 5785,
+    "total_tokens": 39430,
+    "cached_tokens": 22566,
+    "api_calls": 5,
+    "cost_usd": 0.006236600000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 378,
+        "total_tokens": 1934,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0002704
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2598,
+        "completion_tokens": 946,
+        "total_tokens": 3544,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009701
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 8395,
+        "completion_tokens": 1348,
+        "total_tokens": 9743,
+        "cached_tokens": 2593,
+        "cost_usd": 0.00196405
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9906,
+        "completion_tokens": 1493,
+        "total_tokens": 11399,
+        "cached_tokens": 8390,
+        "cost_usd": 0.0014692
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 11190,
+        "completion_tokens": 1620,
+        "total_tokens": 12810,
+        "cached_tokens": 9901,
+        "cost_usd": 0.00156285
+      }
+    ]
+  }
+}

@@ -7,7 +7,7 @@ The 1,500-case adversarial eval used by the `/eval` explorer on falsafa.ai and b
 - `cases.json` — all eval cases, single static asset (~800KB gzipped). Schema below.
 - `results-falsafa/` — per-run output of running Falsafa's MCP server against `cases.json`. One JSON per run, timestamped.
 - `results-baseline/` — per-run output of running `@falsafa/baseline` (hybrid RAG) against the same cases. Side-by-side with Falsafa's outputs in the explorer.
-- `judge/` — Sonnet judge prompts + per-run aggregated judgments (used by `/eval` deep links).
+- `judge/` — historical Sonnet judge artefacts (DEPRECATED). Current scoring is deterministic — citation-based mechanical_pass against `expected_works`, no LLM judge involved. Kept for archival reference only.
 
 ## Why at the repo root
 

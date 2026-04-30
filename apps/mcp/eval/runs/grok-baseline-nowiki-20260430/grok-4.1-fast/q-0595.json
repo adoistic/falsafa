@@ -1,0 +1,63 @@
+{
+  "answer": "**The Falsafa corpus does not contain any Old Javanese texts, Buddhist or otherwise.** \n\nA search for works filtered by language=\"Old Javanese\" and/or genre=\"Buddhist\" returned zero results. The corpus focuses primarily on Western philosophical and classical texts (e.g., French Physiocrats, Enlightenment liberals, Islamic philosophy, and some ancient Greek/Latin works), with 37 works total—but nothing in Old Javanese or explicitly categorized as Buddhist canon.\n\n'bodhi' (Sanskrit/Pali for \"awakening\" or \"enlightenment\") is a central Buddhist concept, but since no relevant texts are present, I cannot cite or analyze it from the corpus. If you're interested in related philosophical discussions of knowledge, wisdom, or enlightenment in available works (e.g., Islamic or Neoplatonic texts), let me know for a targeted search.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old Javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old Javanese"
+      },
+      "result_summary": "Listed 0 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 13389,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 3233,
+    "completion_tokens": 1010,
+    "total_tokens": 4243,
+    "cached_tokens": 1682,
+    "api_calls": 2,
+    "cost_usd": 0.0008993,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 367,
+        "total_tokens": 1920,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004716
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1680,
+        "completion_tokens": 643,
+        "total_tokens": 2323,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0004277
+      }
+    ]
+  }
+}

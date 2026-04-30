@@ -1,0 +1,258 @@
+{
+  "answer": "**'Shab' (night) is a central motif across the Urdu poetry in the Falsafa corpus—primarily in Allama Iqbal's *Bang-e-Dara* (Parts 1–3), Mirza Ghalib's *Diwan-e-Ghalib*, and Sheikh Ibrahim Zauq's *Diwan-e-Zauq*.**[^1] It rarely denotes literal darkness; instead, it symbolizes emotional, spiritual, or existential states: longing (*ishq*), sorrow (*gham*), transience (*fana*), or divine contemplation. Nighttime evokes introspection, as day brings worldly distractions, making *shab* the realm of the lover's (*ashiq*) inner turmoil or ecstasy.[^2]\n\n### Night of Separation (*Shab-e-Furqat/Hijr/Firaaq*)\nThis is the dominant usage in classical ghazals by Ghalib and Zauq, where *shab* amplifies the lover's agony of parting (*furqat*, *hijr*, *firaaq*). It stretches endlessly, worse than Judgment Day, with dawn (*sehar*) as elusive relief. The night becomes a torture chamber of sighs, unslaked desire, and blood-like tears:\n\n- Ghalib laments: \"If this night's parting sorrow finds no words for pain, / The moon's dark blemish a mouth-sealing stain will then become.\" Here, *shab-e-furqat* drowns expression in grief.[^3]\n- Again: \"It's not that faith in Judgment's Day I've mislaid... / This night of parting holds far more to dread.\" *Shab-e-firaaq* exceeds apocalypse in dread.[^4]\n- \"A sigh must wait an age to take its flight... / Love calls for patience... / How can the heart endure this blood-soaked night?\" *Shab* is steeped in blood till morning.[^5]\n- Zauq: \"On separation's night, my tongue won't find its rest, / Nor does my side against the mattress press.\" Sleepless torment binds body and soul.[^6]\n\nThese evoke visceral pain, where night mocks union (*visal*), prolonging exile from the beloved.\n\n### Night of Reverie (*Shab-e-Khwab/Takhayyul*)\nLess explicitly termed \"reverie\" (dreamy contemplation or fantasy), but *shab* shifts to wonder, beauty (*husn*), or mystical insight in Iqbal—nights of poetic song, stars, dew (*shabnam*), and self-realization. It is reverie when *shab* inspires rather than tortures: moonlit vigils, wine, or nature's whispers fostering spiritual awakening (*buzurgi*).\n\n- In *Haqeeqat-e-Husn*: Beauty questions eternity amid \"non-being's endless night\" (*shab-e-daraaz adam*); dawn spreads cosmic secrets to dew and flowers, turning night into a tale of fleeting splendor.[^7]\n- *Zuhd aur Rindi*: Poets \"sing at night (*shab ko*), at dawn recite God’s Word\"; this nocturnal rhythm blurs asceticism (*zuhd*) and ecstasy (*rindi*), a reverie of paradox.[^8]\n- Broader Iqbal motifs: *Shab* hosts fireflies (*jugnu*), Himalaya's echoes, or stars (*taare*), blending reverie with cosmic praise—e.g., \"night's empire\" yielding to dawn's herald.[^9]\n\nGhalib/Zauq rarely idealize *shab* this way; theirs is shadowed by grief. Iqbal elevates it to reverie via Islamic renaissance themes.\n\nThe corpus lacks \"night of reverie\" verbatim or direct *shab-e-khwab* contrasts, but separation dominates ghazal longing, reverie Iqbal's visionary nights. Not every poetic trope appears in these 37 Urdu chapters.[^10]\n\n[^1]: *Diwan-E-Ghalib*, ch. 3[/works/mirza-ghalib-diwan-e-ghalib-74ed4c/03-aah-ko-chahiye-ik-umr-asar-hote-tak/translation/]; *Bang-E-Dara Part 1*, multiple chapters.\n[^2]: Searches for \"shab\" yield 30+ hits, mostly metaphorical.\n[^3]: *Diwan-E-Ghalib*, ch. 45, [p-2e3d26](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/45-gar-na-andoh-e-shab-e-furqat-bayaan-ho-jaaye-ga/translation/#p-2e3d26).\n[^4]: *Diwan-E-Ghalib*, ch. 151, [p-02fe6d](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/151-nahin-ke-mujh-ko-qayamat-ka-aiteqad-nahin/translation/#p-02fe6d).\n[^5]: *Diwan-E-Ghalib*, ch. 3, [p-b4ea2b](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/03-aah-ko-chahiye-ik-umr-asar-hote-tak/translation/#p-b4ea2b).\n[^6]: *Diwan-E-Zauq*, ch. 7, [p-5279ea](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/07-bagh-e-aalam-mein-jahan-nakhl-e-hina-lagta-hai/translation/#p-5279ea).\n[^7]: *Bang-E-Dara Part 2*, ch. 12[/works/allama-iqbal-bang-e-dara-part-2-9bc58c/12-haqeeqat-e-husn/translation/].\n[^8]: *Bang-E-Dara Part 1*, ch. 44, [p-5cbc5a](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-5cbc5a).\n[^9]: *Bang-E-Dara Part 1*, chs. 27, 42 (e.g., \"shab ki saltanat\").\n[^10]: No hits for \"shab khwab\", \"night of reverie\", or equivalents.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shab"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night of\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shab-e"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shab-e-hijr\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shab hijr"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shab firaq"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shab-e-firaq\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shab khwab"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night of separation\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night of\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-Ghalib\",\"author\":\"Mirza Ghalib\",\"author_slug\":\"mirza-ghalib\",\"era\":\"19th Century\",\"era_slug\":\"19th-century\",\"genre\":\"Literature\",\"genre_sl"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"slug\":\"sheikh-ibrahim-zauq-diwan-e-zauq-0fa798\",\"title\":\"Diwan-E-Zauq\",\"author\":\"Sheikh Ibrahim Zauq\",\"author_slug\":\"sheikh-ibrahim-zauq\",\"era\":\"19th Century\",\"era_slug\":\"19th-century\",\"genre\":\"Lite"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 45,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.45 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 151,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.151 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.44 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 12,
+      "paragraph_id": "p-2e3d26"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 12,
+      "paragraph_id": "p-02fe6d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 12,
+      "paragraph_id": "p-b4ea2b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 12,
+      "paragraph_id": "p-5279ea"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 12,
+      "paragraph_id": "p-5cbc5a"
+    }
+  ],
+  "duration_ms": 60870,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 47068,
+    "completion_tokens": 5953,
+    "total_tokens": 53021,
+    "cached_tokens": 26499,
+    "api_calls": 4,
+    "cost_usd": 0.008415249999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1561,
+        "completion_tokens": 384,
+        "total_tokens": 1945,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004817
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9755,
+        "completion_tokens": 1129,
+        "total_tokens": 10884,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0022857
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15072,
+        "completion_tokens": 2074,
+        "total_tokens": 17146,
+        "cached_tokens": 9750,
+        "cost_usd": 0.0025889
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_metadata",
+          "get_metadata",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 20680,
+        "completion_tokens": 2366,
+        "total_tokens": 23046,
+        "cached_tokens": 15067,
+        "cost_usd": 0.00305895
+      }
+    ]
+  }
+}

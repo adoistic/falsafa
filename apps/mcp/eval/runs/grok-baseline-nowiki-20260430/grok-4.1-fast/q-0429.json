@@ -1,0 +1,218 @@
+{
+  "answer": "**Āṅgirasa Smṛti** classifies sins hierarchically into **great sins** (requiring an assembly of 100 or 1,000 Brahmins), **greatest sins** (1,000), **secondary sins** (assembly of 50), and **minor sins** (small assembly). The five great sinners are a Brahmin-killer, a gold-thief, a liquor-drinker, a defiler of the Guru's bed, and one who associates with these. The fallen (*patitāḥ*) include killers of women or men, defilers of maidens, and cow-killers; secondary sins are \"innumerable\" like cow-killing.[^1][^2][^3]\n\n**Kātyāyana Smṛti** refers to **major sins** repeatedly (e.g., homicide, theft, drinking liquor, intercourse with a preceptor's wife), for which representatives are forbidden and ordeals or banishment apply, distinguishing them from lesser offenses.[^4]\n\n**Bṛhaspati Smṛti** mentions **great sins** in procedural contexts (e.g., accusations requiring ordeals), but without enumeration.[^5]\n\n**Kūñjarakarṇa Dharmakathana** classifies sins by source into **three kinds** from body (killing, treachery, stealing property/wives), speech, and mind (faithless, delighting in faults), leading to suffering in Yama's realm.[^6]\n\n**No other works** in the corpus provide systematic classifications (e.g., Cynewulf poems and poetry mention sins generically; no \"seven deadly sins\" or equivalents). \n\n[^1]: Āṅgirasa Smṛti, [Chapter 1/translation/#p-5068cf](#p-5068cf).\n[^2]: Āṅgirasa Smṛti, [Chapter 1/translation/#p-cafcb4](#p-cafcb4).\n[^3]: Āṅgirasa Smṛti, [Chapter 1/translation/#p-39c7b4](#p-39c7b4).\n[^4]: Kātyāyana Smṛti, [Chapter 11/translation/#p-a0b028](#p-a0b028).\n[^5]: Bṛhaspati Smṛti, [Chapter 1/translation/#p-182b0c](#p-182b0c).\n[^6]: Kūñjarakarṇa Dharmakathana, [Chapter 1/translation/#p-650c77](#p-650c77).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sins",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seven deadly sins\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"classification of sins\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kinds of sin\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"types of sins\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "Listed 80 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"great sins\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"major sins\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"minor sins\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-5068cf"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-cafcb4"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-39c7b4"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-a0b028"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-182b0c"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-650c77"
+    }
+  ],
+  "duration_ms": 53759,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 201578,
+    "completion_tokens": 3592,
+    "total_tokens": 205170,
+    "cached_tokens": 7851,
+    "api_calls": 4,
+    "cost_usd": 0.07769865000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1544,
+        "completion_tokens": 480,
+        "total_tokens": 2024,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005263
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7406,
+        "completion_tokens": 1041,
+        "total_tokens": 8447,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019792
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11512,
+        "completion_tokens": 928,
+        "total_tokens": 12440,
+        "cached_tokens": 7401,
+        "cost_usd": 0.00165625
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 181116,
+        "completion_tokens": 1143,
+        "total_tokens": 182259,
+        "cached_tokens": 150,
+        "cost_usd": 0.0735369
+      }
+    ]
+  }
+}

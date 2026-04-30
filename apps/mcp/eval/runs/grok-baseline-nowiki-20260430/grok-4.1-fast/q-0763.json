@@ -1,0 +1,169 @@
+{
+  "answer": "**Charles Comte addresses property in inventions and industrial procedures (procédés industriels) primarily in Chapters 29 (\"On the property of inventions or industrial processes\") and 30 (\"On the laws relative to the property of industrial inventions\") of *Traité de la propriété Vol. II*.**\n\nRather than arguing for exclusive property rights (i.e., patents or monopolies preventing others' use), Comte distinguishes between an inventor's undisputed natural right to personally exploit their discovery—which requires no special legislation—and the claimed (but unfounded) right to exclude others from doing so.[^1] He critiques historical precedents (e.g., English monopolies under James I, French Constituent Assembly decrees of 1790–91) and analogies to occupation of land or goods, arguing they do not apply to immaterial processes, as one person's use does not preclude others'.[^2] Governments grant temporary monopolies only as policy incentives, not natural rights, and these often hinder progress more than they help.[^3]\n\n**Central claim (from Chapter 29):**  \n> \"Every person who makes a discovery in the arts certainly has the right to exploit it for his profit. To recognize the existence of this right, and to guarantee its execution, a special act on the part of the public authority is not necessary. It is sufficient, for the inventor to be able to enjoy it without trouble, that the liberty of industry be proclaimed, and that all properties be guaranteed. [...] But between the right to practice an industry one has discovered, and the right to prevent others from practicing it, the difference is great; the existence of the former is far from supposing the existence of the latter.\"[^4]\n\n[^1]: Charles Comte, *Traité de la propriété Vol. II*, Chapter 29, [translation/](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/).\n\n[^2]: Charles Comte, *Traité de la propriété Vol. II*, Chapter 29, paragraphs [p-943e8a](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-943e8a), [p-50b7f0](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-50b7f0), and [p-d81732](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-d81732).\n\n[^3]: Charles Comte, *Traité de la propriété Vol. II*, Chapter 30, [translation/](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/30-des-lois-relatives-a-la-propriete-des-inventions-i/translation/).\n\n[^4]: Charles Comte, *Traité de la propriété Vol. II*, Chapter 29, paragraphs [p-0668a8](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-0668a8) and [p-d81732](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-d81732).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"inventions\" property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"industrial procedures\" OR \"inventions\" OR \"industrial processes\" property",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 30,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.30 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 29,
+        "paragraph_ids": [
+          "p-0668a8",
+          "p-d81732"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 29,
+        "paragraph_range": {
+          "start": 0,
+          "end": 5
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 30,
+        "paragraph_ids": [
+          "p-b926f3"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 30,
+      "paragraph_id": "p-943e8a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 30,
+      "paragraph_id": "p-50b7f0"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 30,
+      "paragraph_id": "p-d81732"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 30,
+      "paragraph_id": "p-0668a8"
+    }
+  ],
+  "duration_ms": 33712,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 53180,
+    "completion_tokens": 3775,
+    "total_tokens": 56955,
+    "cached_tokens": 29267,
+    "api_calls": 4,
+    "cost_usd": 0.00813345,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 517,
+        "total_tokens": 2080,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005486
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5311,
+        "completion_tokens": 460,
+        "total_tokens": 5771,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00106285
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 22287,
+        "completion_tokens": 1214,
+        "total_tokens": 23501,
+        "cached_tokens": 5306,
+        "cost_usd": 0.0042685
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 24019,
+        "completion_tokens": 1584,
+        "total_tokens": 25603,
+        "cached_tokens": 22282,
+        "cost_usd": 0.0022535
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "answer": "**Several works in the Falsafa corpus engage with mathematical, calendrical, or numerical schemas, primarily through ritual prescriptions, cosmological cycles, and lists of knowledge fields. The strongest engagements appear in the Indic Dharmaśāstra texts (Smṛtis), which detail lunar calendars (*tithi*, void days/śūnyatithi, fortnights/*pakṣa*), death anniversaries, penances (*cāndrāyaṇa* with daily diminishing morsels), and cosmic eras (*yuga* durations). These form structured numerical and calendrical systems for rites like *śrāddha*. Mathematical references elsewhere are mostly analogical or historical (e.g., geometry, arithmetic among ancient peoples), with one listing mathematics as a discipline. Pure mathematical treatises are absent.**\n\n### Calendrical and Numerical Schemas (Primary in Smṛtis)\n- **Aṅgirasa Smṛti** (*unknown-angirasa-smrti-2bf9d1*): Extensive rules for lunar days (*tithi*), void lunar days (*śūnyatithi*), *manvādi* dates via mnemonic, death anniversaries by lunar calendar, and *yuga*-specific prohibitions.[^1][^2][^3][^4]\n- **Manusmṛti** (*unknown-manusmrti-347b76*): Numerical *yuga* cycles (e.g., Kṛta Yuga = 4,000 years + twilights); auspicious lunar days (*tithi*) for name-giving, *śrāddha* (e.g., 10th–13th dark fortnight); even/odd days for desires.[^5][^6]\n- **Viṣṇu Smṛti** (*unknown-visnu-smrti-27f0d8*): *Cāndrāyaṇa* lunar penance (fixed morsel size, varying by fortnight phase); study restrictions on lunar 8th/14th days, eclipses, seasonal transitions.[^7]\n- **Paraśara Smṛti** (*unknown-parasara-smrti-2259be*): *Yuga*-specific *dharma* (e.g., Kali Yuga rules); eclipse bathing/charity.[^8]\n- **Bṛhaspati Smṛti** (*unknown-brhaspati-smrti-0fd070*): *Yuga*-decline in human power affecting rites.[^9]\n- **Kātyāyana Smṛti** (*unknown-katyayana-smrti-1e06d2*): Plaints specify year, month, half-month (*pakṣa*), lunar day (*tithi*), hour.[^10]\n\n### Mathematical References (Less Schematic)\n- **San Hyan Tattvajnana** (*unknown-san-hyan-tattvajnana-1f29bd*): Lists mathematics among authoritative fields (scriptures, logic, grammar, etc.) under Lord Sadāśiva.[^11]\n- **Traité de Législation** (Charles Comte, multiple vols., e.g., *charles-comte-traite-de-legislation-vol-iii-ca589a*, *vol-iv-bca040*): Historical (Egyptians as mathematicians, geometers, astronomers); axiomatic truths like geometry; arithmetic knowledge in Americas.[^12][^13]\n- **Nouveau Traité d'Économie** (Charles Dunoyer, vols. I/II): Analogies to mathematical precision, physics; arithmetic errors.[^14]\n\n**No other works (e.g., poetry like Ghalib/Iqbal, OE elegies, Fichte) show substantive engagement; passing lunar metaphors appear but lack schemas. The corpus (37 works) emphasizes philosophy/ritual over formal math.**\n\n[^1]: Āṅgirasa Smṛti, [p-3a42dd](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-3a42dd).\n[^2]: Āṅgirasa Smṛti, [p-df1440](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-df1440).\n[^3]: Āṅgirasa Smṛti, [p-9edbff](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-9edbff).\n[^4]: Āṅgirasa Smṛti, [p-0fbcbe](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-0fbcbe).\n[^5]: Manusmṛti, [p-a22081](/works/unknown-manusmrti-347b76/01/translation/#p-a22081).\n[^6]: Manusmṛti, [p-8b8ea4](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).\n[^7]: Viṣṇu Smṛti, [p-ef0dc2](/works/unknown-visnu-smrti-27f0d8/47/translation/#p-ef0dc2).\n[^8]: Parāśara Smṛti, [p-88e5c9](/works/unknown-parasara-smrti-2259be/12/translation/#p-88e5c9).\n[^9]: Bṛhaspati Smṛti, [p-722626](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-722626).\n[^10]: Kātyāyana Smṛti, [p-93bc1e](/works/unknown-katyayana-smrti-1e06d2/17/translation/#p-93bc1e).\n[^11]: San Hyan Tattvajnana, [p-9fea48](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-9fea48).\n[^12]: Traité de Législation: VOL III, [p-d192b3](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/32/translation/#p-d192b3).\n[^13]: Traité de Législation: VOL II, [p-e49610](/works/charles-comte-traite-de-legislation-vol-ii-20331d/09/translation/#p-e49610).\n[^14]: Nouveau traité d'économie: VOL I, [p-de302e](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-de302e).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "calendar",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "calendrical",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mathematic",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "arithmetic",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "geometry",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "numerical",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "number schema",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred number\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lunar",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tithi",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "paksha",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yuga",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "month penance",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"number of\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "penance number",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-3a42dd"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-df1440"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-9edbff"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-0fbcbe"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-a22081"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-8b8ea4"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-ef0dc2"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-88e5c9"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-722626"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-93bc1e"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-9fea48"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-d192b3"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-e49610"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-de302e"
+    }
+  ],
+  "duration_ms": 40117,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 24096,
+    "completion_tokens": 4029,
+    "total_tokens": 28125,
+    "cached_tokens": 11783,
+    "api_calls": 3,
+    "cost_usd": 0.00506625,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 831,
+        "total_tokens": 2381,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0004954
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8709,
+        "completion_tokens": 1085,
+        "total_tokens": 9794,
+        "cached_tokens": 1545,
+        "cost_usd": 0.00205255
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13837,
+        "completion_tokens": 2113,
+        "total_tokens": 15950,
+        "cached_tokens": 8704,
+        "cost_usd": 0.0025183
+      }
+    ]
+  }
+}

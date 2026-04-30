@@ -1,0 +1,223 @@
+{
+  "answer": "**Charles Comte's *Traité de la propriété* (Volumes I and II)** form the core of the corpus's treatment of property rights. This two-volume Enlightenment-era philosophical and legal treatise systematically defends private property as arising from human liberty, traces its formation from individual occupation through national territory, critiques slave-based jurisprudence for undermining true property rights, and examines legal guarantees, intellectual property, inventions, and more. Volume I covers foundational principles, national territory, rivers, roads, and minerals; Volume II applies them to movable property, commerce, literature, and industry.[^1][^2]\n\nComte's earlier *Traité de Législation* (Volumes I–IV) also engages property rights extensively in legal and social contexts, such as private woods subject to state exceptions, national domain vs. private holdings, rivers, roads, territories among indigenous groups, and slavery's impact on fortunes.[^3][^4][^5]\n\nCharles Dunoyer's *Nouveau traité d'économie sociale* (Volumes I and II) touches on related themes of liberty and economic organization in a similar liberal tradition, though less centrally on property rights per se.\n\nAncient Indic Smṛti texts (legal codes like *Bṛhaspati Smṛti*, *Aṅgirasa Smṛti*, *Manusmṛti*, *Nāradasmṛti*, etc.) address property rights practically through rules on debts, sales, deposits, inheritance, partitions, theft, gifts, partnerships, and ownership disputes, often with caste-based nuances.[^6] These are not philosophical treatises on natural rights to property but classical jurisprudence governing property.\n\nNo other works (e.g., poetry like Cynewulf or Iqbal, or Fichte's pamphlet) substantially cover property rights based on searches.\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/15-des-lois-destinees-a-prevenir-le-deboisement-des-m/translation/#p-e5607c).\n[^2]: Charles Comte, *Traité de la propriété: VOL II*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/33-des-lois-relatives-a-la-propriete-des-compositions/translation/#p-f14bea).\n[^3]: Charles Comte, *Traité de Législation: VOL II*, [paragraph](/works/charles-comte-traite-de-legislation-vol-ii-20331d/16-des-relations-qui-existent-entre-les-diverses-peup/translation/#p-0c8c80).\n[^4]: Charles Comte, *Traité de la propriété: VOL I*, metadata description (philosophical theory of private property from liberty).\n[^5]: Charles Comte, *Traité de la propriété: VOL I*, multiple chapters on territory, rivers, roads (e.g., Ch. 7–22).\n[^6]: Unknown, *Bṛhaspati Smṛti*, Ch. 1 (extensive rules on property disputes, debts, sales); similar in *Aṅgirasa Smṛti*.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "property rights",
+        "limit": 50
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"right of property\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property is\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ownership rights",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "private property",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"right to property\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "natural right property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-la-propriete-vol-i-2c7a99\",\"title\":\"Traité de la propriété: VOL I\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlighte"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-la-propriete-vol-ii-6beea5\",\"title\":\"Traité de la propriété: VOL II\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enligh"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-legislation-vol-i-7e62a2\",\"title\":\"Traité de Législation: VOL I\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlightenme"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 15,
+        "paragraph_ids": [
+          "p-e5607c"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 33,
+        "paragraph_ids": [
+          "p-f14bea"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-0c8c80"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "property",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"slug\":\"charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce\",\"title\":\"Nouveau traité d'économie: VOL I\",\"author\":\"Charles Dunoyer\",\"author_slug\":\"charles-dunoyer\",\"era\":\"19th Century\",\"era_slug\":\"1"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 16,
+      "paragraph_id": "p-e5607c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 16,
+      "paragraph_id": "p-f14bea"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 16,
+      "paragraph_id": "p-0c8c80"
+    }
+  ],
+  "duration_ms": 41509,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 31072,
+    "completion_tokens": 4617,
+    "total_tokens": 35689,
+    "cached_tokens": 14578,
+    "api_calls": 4,
+    "cost_usd": 0.0063362,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1544,
+        "completion_tokens": 509,
+        "total_tokens": 2053,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0003332
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2500,
+        "completion_tokens": 525,
+        "total_tokens": 3025,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0005324
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9020,
+        "completion_tokens": 1732,
+        "total_tokens": 10752,
+        "cached_tokens": 2495,
+        "cost_usd": 0.00229575
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "get_metadata"
+        ],
+        "prompt_tokens": 18008,
+        "completion_tokens": 1851,
+        "total_tokens": 19859,
+        "cached_tokens": 9015,
+        "cost_usd": 0.00317485
+      }
+    ]
+  }
+}

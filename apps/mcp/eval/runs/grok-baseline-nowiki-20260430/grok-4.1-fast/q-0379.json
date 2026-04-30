@@ -1,0 +1,235 @@
+{
+  "answer": "**Iqbal's \"Subah Ka Sitara\" (The Morning Star) from *Bang-e-Dara Part 1* personifies the morning star (likely Venus) as a herald whose daily \"death\" at dawn symbolizes a futile, repetitive celestial existence, yearning instead for humble, earthly permanence—such as becoming a pearl, dew, or tear—where \"true life\" evades death's decree.[^1][^2] This evokes eschatological tension: the star rejects its \"exalted state\" for mortal transience, questioning immortality's value (\"What life is this, where Death demands its fee?\"), perhaps intimating Iqbal's philosophy of self-annihilation (*fana*) yielding authentic renewal over static eternity.[^3]\n\n**Cynewulf's *Elene*, however, lacks prominent dawn imagery or \"morning star\" references tied to eschatology.** The poem centers on Helena's discovery of the True Cross—a \"victory-beacon\" heralding salvation, resurrection (a dead youth revives on it), and final judgment (dividing souls by fire into heaven, purgatory, hell).[^4][^5][^6] Light/darkness motifs abound (e.g., Cross as \"bright beacon\" against foes' \"darkness\"), but dawn appears peripherally: the Cross's finding spreads as a \"famous morning-tale,\" linking revelation to day's breaking, and angelic visions evoke dawn-like glory.[^7] No direct parallel to Iqbal's star; eschatology here affirms Christian triumph—Cross as eternal light conquering death—without the lament of cyclical demise.[^8]\n\n**Comparison reveals contrast, not resonance:** Iqbal's star embodies eschatological disillusionment, preferring earthly finality to heavenly recurrence, aligning with dynamic Islamic revivalism. Cynewulf's salvation culminates in apocalyptic fire and glory, with dawn as subtle renewal motif, but without star-persona or death-longing. The corpus yields no stronger dawn-eschatology links in *Elene*; Iqbal's motif is unique to his celestial critique.[^9]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 42 (\"Subah Ka Sitara\"), [p-aab796](/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/translation/#p-aab796).\n[^2]: Ibid., [p-658448](/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/translation/#p-658448).\n[^3]: Ibid., [p-ec866d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/translation/#p-ec866d); [p-e76893](/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/translation/#p-e76893).\n[^4]: Cynewulf, *Elene*, ch. 1, [p-306e06](/works/cynewulf-elene-d2d132/01/translation/#p-306e06).\n[^5]: Ibid., full chapter [citation_url](/works/cynewulf-elene-d2d132/01/translation/).\n[^6]: Ibid., [p-dcbbfe](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).\n[^7]: Ibid., [p-f5d1f1](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^8]: Ibid., [p-acdc07](/works/cynewulf-elene-d2d132/01/translation/#p-acdc07).\n[^9]: Corpus searches for \"dawn,\" \"morning star,\" etc., in *Elene* confirm scant, non-eschatological hits; Iqbal's poem stands alone thematically.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Subah ka Sitara\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morning star\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dawn elene cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dawn cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morning star\" OR \"morning-star\" OR \"Subah\" OR sitara iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dawn OR morning OR \"light of day\" elene"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 42,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.42 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morning star\" OR dawn OR \"dawn\" OR \"light of day\" OR sunrise elene cynewulf",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dawn OR \"morning star\" OR resurrection OR salvation OR judgment OR heaven OR hell elene"
+      },
+      "result_summary": "Found 17 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-aab796"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-658448"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-ec866d"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-e76893"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-306e06"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-acdc07"
+    }
+  ],
+  "duration_ms": 52509,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 54940,
+    "completion_tokens": 4934,
+    "total_tokens": 59874,
+    "cached_tokens": 19567,
+    "api_calls": 4,
+    "cost_usd": 0.01051995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1566,
+        "completion_tokens": 883,
+        "total_tokens": 2449,
+        "cached_tokens": 149,
+        "cost_usd": 0.00073235
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2478,
+        "completion_tokens": 1631,
+        "total_tokens": 4109,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012886
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 16800,
+        "completion_tokens": 700,
+        "total_tokens": 17500,
+        "cached_tokens": 2473,
+        "cost_usd": 0.00333905
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 34096,
+        "completion_tokens": 1720,
+        "total_tokens": 35816,
+        "cached_tokens": 16795,
+        "cost_usd": 0.00515995
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "answer": "**Ghalib's ghazal \"Gham khaane mein boda dil-e-nakaam bahut hai\" (chapter 50 of *Diwan-E-Ghalib*) opens with a couplet about the heart's immersion in sorrow.**[^1]\n\nIn translation:  \n\"This weak, failed heart's capacity for pain is more than enough;  \nThe grief that rose-red wine is on the wane is more than enough.\"[^2]\n\nThe opening evokes the heart (*dil*) as weak and unsuccessful (*boda dil-e-nakaam*), dwelling in the \"house of grief\" (*gham khaane mein*), with an overflowing capacity for sorrow (*bahut hai*), even as rose-red wine (*mai-e-gulfaam*)—symbolizing fleeting joys or intoxications—dwindles.[^3]\n\nIn transliteration:  \n\"Gham khaane mein boda dil-e-nakaam bahut hai  \nYeh ranj ke kam hai mai-e-gulfaam bahut hai\"[^4]\n\nIn the original Urdu:  \n\"غم کھانے میں بودا دل_ناکام بہت ہے  \nیہ رنج کہ کم ہے مئے_گلفام بہت ہے\"[^5]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/50-gham-khaane-mein-boda-dil-e-nakaam-bahut-hai/translation/).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/50-gham-khaane-mein-boda-dil-e-nakaam-bahut-hai/translation/#p-b39b6a).\n[^3]: Ibid.\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/50-gham-khaane-mein-boda-dil-e-nakaam-bahut-hai/transliteration/#p-d3a1ee).\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/50-gham-khaane-mein-boda-dil-e-nakaam-bahut-hai/original/#p-a0be2a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghum khaane mein boodaa hai dil"
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart's dwelling in sorrow\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib sorrow heart"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.50 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.50 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.50 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "paragraph_ids": [
+          "p-b39b6a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "paragraph_ids": [
+          "p-d3a1ee",
+          "p-b40bc9",
+          "p-e798e4"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "paragraph_ids": [
+          "p-a0be2a"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 50,
+      "paragraph_id": "p-b39b6a"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 50,
+      "paragraph_id": "p-d3a1ee"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 50,
+      "paragraph_id": "p-a0be2a"
+    }
+  ],
+  "duration_ms": 34707,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 21072,
+    "completion_tokens": 3325,
+    "total_tokens": 24397,
+    "cached_tokens": 13420,
+    "api_calls": 4,
+    "cost_usd": 0.0038639,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 393,
+        "total_tokens": 1955,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00027925
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4706,
+        "completion_tokens": 617,
+        "total_tokens": 5323,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012272
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 7043,
+        "completion_tokens": 1073,
+        "total_tokens": 8116,
+        "cached_tokens": 4701,
+        "cost_usd": 0.00123995
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 7761,
+        "completion_tokens": 1242,
+        "total_tokens": 9003,
+        "cached_tokens": 7038,
+        "cost_usd": 0.0011175
+      }
+    ]
+  }
+}

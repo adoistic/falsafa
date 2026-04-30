@@ -1,0 +1,254 @@
+{
+  "answer": "**Charles Comte discusses literary property (*propriété littéraire*) and authorial rights extensively in Chapters 31–36 of *Traité de la propriété Vol. II*.**[^1][^2][^3][^4][^5][^6]\n\nThese chapters form a dedicated section on the topic:\n\n- **Chapter 31** establishes the foundations and nature of literary property, arguing it arises from labor like other properties and refuting claims it is merely a government-granted monopoly.[^7]\n- **Chapter 32** examines why literary works have historically lacked the full guarantees given to other properties, attributing this to governments and aristocracies favoring control over independence.[^8]\n- **Chapter 33** surveys laws on literary property in England, the U.S., and France, critiquing their temporary nature as usufruct rather than true perpetual property.[^9]\n- **Chapter 34** analyzes the tendencies of these laws, which disadvantage works needing long-term success (e.g., profound scientific or philosophical texts) by prioritizing quick sales.[^10]\n- **Chapter 35** distinguishes literary property from monopolies, insisting guarantees to authors do not restrict others' freedom to write on the same topics.[^11]\n- **Chapter 36** applies these principles to specific issues like manuscripts, letters, translations, abridgments, and immoral works, affirming authors' exclusive rights to reproduction and sale.[^12]\n\nComte consistently frames authorial rights as natural property rights derived from creation, entitled to the same perpetual protection as land or goods, limited only by practical differences (e.g., ideas' appropriability via reading).[^13]\n\n[^1]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/31-des-fondemens-et-de-la-nature-de-la-propriete-litt/translation/\n[^2]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/32-des-causes-qui-ont-prive-les-compositions-litterai/translation/\n[^3]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/33-des-lois-relatives-a-la-propriete-des-compositions/translation/\n[^4]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/34-de-la-tendance-des-lois-relatives-a-la-propriete-l/translation/\n[^5]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/\n[^6]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/36-application-des-principes-etablis-dans-les-chapitr/translation/\n[^7]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/31-des-fondemens-et-de-la-nature-de-la-propriete-litt/translation/#p-a0d634\n[^8]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/32-des-causes-qui-ont-prive-les-compositions-litterai/translation/#p-00d196\n[^9]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/33-des-lois-relatives-a-la-propriete-des-compositions/translation/#p-ce8f5f\n[^10]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/34-de-la-tendance-des-lois-relatives-a-la-propriete-l/translation/#p-faa616\n[^11]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/35-distinction-entre-la-propriete-litteraire-et-le-mo/translation/#p-445aca\n[^12]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/36-application-des-principes-etablis-dans-les-chapitr/translation/#p-0b2d6c\n[^13]: /works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/31-des-fondemens-et-de-la-nature-de-la-propriete-litt/translation/#p-66656e",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"literary property\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"author\" property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rights of authors\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"literary works\" property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "literary property",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"author rights\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "authorial rights",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"literary\" property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"auteurs\" propriété",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 31,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.31 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 32,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.32 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 33,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.33 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 34,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.34 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 35,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.35 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 36,
+      "paragraph_id": "p-a0d634"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 36,
+      "paragraph_id": "p-00d196"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 36,
+      "paragraph_id": "p-ce8f5f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 36,
+      "paragraph_id": "p-faa616"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 36,
+      "paragraph_id": "p-445aca"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 36,
+      "paragraph_id": "p-0b2d6c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 36,
+      "paragraph_id": "p-66656e"
+    }
+  ],
+  "duration_ms": 39936,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 59016,
+    "completion_tokens": 4308,
+    "total_tokens": 63324,
+    "cached_tokens": 12143,
+    "api_calls": 4,
+    "cost_usd": 0.01213575,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 744,
+        "total_tokens": 2299,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00045365
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2533,
+        "completion_tokens": 560,
+        "total_tokens": 3093,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007641
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7941,
+        "completion_tokens": 1011,
+        "total_tokens": 8952,
+        "cached_tokens": 2528,
+        "cost_usd": 0.0017145
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 46987,
+        "completion_tokens": 1993,
+        "total_tokens": 48980,
+        "cached_tokens": 7936,
+        "cost_usd": 0.0092035
+      }
+    ]
+  }
+}

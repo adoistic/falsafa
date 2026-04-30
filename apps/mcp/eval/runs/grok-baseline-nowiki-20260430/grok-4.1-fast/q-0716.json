@@ -1,0 +1,136 @@
+{
+  "answer": "**The title of the ghazal in chapter 100 of *Diwan-e-Ghalib* is \"Kaaba mein jaa raha toh na do ta'na kya kahein\".**[^1]\n\n**This is also the first *misra* (line) of the *matla* (opening couplet or *sher*), which reads in the original Urdu:**\n\n> کعبہ میں جا رہا تو نہ دو طعنہ کیا کہیں  \n> بھولا ہوں حقِ صحبتِ اہلِ کنشت کو[^2]\n\n**Transliteration:**  \nKaaba mein jaa raha toh na do ta'na kya kahein  \nBhoola hoon haq-e-sohbat-e-ahl-e-kunisht ko.[^3]\n\n**English translation:**  \nDon't mock my path toward the holy site, you see,  \nThe tavern's fellowship is lost to me.[^4]\n\nIn the structure of Ghalib's *Diwan*, each chapter represents one ghazal, titled by the *matla*'s first line.[^1]\n\n[^1]: *Diwan-E-Ghalib*, chapter 100, [translation](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/100-kaaba-mein-jaa-raha-toh-na-do-tana-kya-kahein/translation/).\n[^2]: *Diwan-E-Ghalib*, chapter 100, paragraph `p-87f275`, [original](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/100-kaaba-mein-jaa-raha-toh-na-do-tana-kya-kahein/original/#p-87f275).\n[^3]: *Diwan-E-Ghalib*, chapter 100, paragraph `p-eab6eb`, [transliteration](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/100-kaaba-mein-jaa-raha-toh-na-do-tana-kya-kahein/transliteration/#p-eab6eb).\n[^4]: *Diwan-E-Ghalib*, chapter 100, paragraph `p-fa6504`, [translation](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/100-kaaba-mein-jaa-raha-toh-na-do-tana-kya-kahein/translation/#p-fa6504).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 100,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.100 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 100,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.100 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 100,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.100 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 100,
+      "paragraph_id": "p-87f275"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 100,
+      "paragraph_id": "p-eab6eb"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 100,
+      "paragraph_id": "p-fa6504"
+    }
+  ],
+  "duration_ms": 25599,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 26895,
+    "completion_tokens": 2729,
+    "total_tokens": 29624,
+    "cached_tokens": 4246,
+    "api_calls": 3,
+    "cost_usd": 0.0061066,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1559,
+        "completion_tokens": 688,
+        "total_tokens": 2247,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006333
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2572,
+        "completion_tokens": 566,
+        "total_tokens": 3138,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00056805
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 22764,
+        "completion_tokens": 1475,
+        "total_tokens": 24239,
+        "cached_tokens": 2567,
+        "cost_usd": 0.00490525
+      }
+    ]
+  }
+}

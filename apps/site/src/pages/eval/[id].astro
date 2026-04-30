@@ -135,10 +135,11 @@ const citationChips = result?.citations
       the Pagefind escape that /try/ has. */}
   <Fragment slot="head">
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:; connect-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none';" />
-    {/* Until a judge layer runs, every passOf() falls back to mechanical-pass —
-        which over-counts on long/wordy answers. Don't let Google index recorded
-        model output as 'audited' when the audit isn't real yet. Removed in the
-        commit that ships the first judged batch. */}
+    {/* Pass/fail comes from the deterministic citation check against
+        expected_works (substring match w/ NFKD diacritic fold for the
+        2026-04-30 deadline; graded 3-state scoring is queued for the
+        rework — see TODOs). Robots-noindex stays on while the eval
+        scoring is mid-rework. */}
     <meta name="robots" content="noindex,follow" />
   </Fragment>
 

@@ -1,0 +1,143 @@
+{
+  "answer": "**Allama Iqbal's \"Ek Makra aur Makhi\" (The Spider and the Fly)** from *Bang-E-Dara Part 1* is a fable in verse form.[^1]\n\n> A spider to a fly one day did say,  \n> “You travel daily down this very way,  \n> \n> But my poor hut has never been so blessed,  \n> That you might stop and be my honored guest.  \n> \n> To shun a stranger is no great disgrace,  \n> But from your own, don't keep such distant space.  \n> \n> If you would come, my honor would increase,  \n> The winding stair is there, if you should please.”  \n> \n> The fly replied when she had heard his plea,  \n> “Good sir, go find a fool to trap, not me.  \n> \n> A fly will never come within your door,  \n> For those who climb your stair are seen no more.”  \n> \n> The spider cried, “Alas! You think me sly?  \n> A greater fool than you, I've yet to spy.  \n> \n> I only wished to show you my respect,  \n> There was no gain for me that I'd expect.  \n> \n> You've flown so far, from where, God only knows,  \n> What harm is there to rest here and repose?  \n> \n> Inside my home are many things to see,  \n> Though from outside a humble hut it be.  \n> \n> Fine curtains hang upon the doors so thin,  \n> And mirrors line the walls I have within.  \n> \n> For guests, soft beds are ready and prepared,  \n> A comfort that is not so widely shared.”  \n> \n> The fly replied, “That all may be quite true,  \n> But don't expect that I will visit you.  \n> \n> May God protect me from your beds so soft,  \n> For those who sleep there are forever lost.”  \n> \n> The spider thought, “She's clever, I can tell.  \n> How can I trap this wretch within my cell?  \n> \n> But flattery can make a hundred schemes succeed,  \n> The world is slave to flattery's own creed.”  \n> \n> And so he told the fly, “My dear lady,  \n> God has bestowed on you great dignity.  \n> \n> Whoever sees your face is filled with love,  \n> A single glance is more than quite enough.  \n> \n> Your eyes are like two diamonds, shining bright,  \n> Your head, God crowned with a plume of light.  \n> \n> This grace, this dress, this beauty, and this art!  \n> And then your song in flight that steals the heart!”  \n> \n> The fly was softened by this flattering sound,  \n> And said, “No cause for fear in you I've found.  \n> \n> To make refusal is a habit I deplore;  \n> To break a heart—that's not what I am for.”  \n> \n> She said these words and from her perch took flight;  \n> The spider leaped and caught her in his might.  \n> \n> He'd starved for days, a fact he couldn't conceal,  \n> And made the little fly his easy meal.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Ek Makra aur Makhi\" [/works/allama-iqbal-bang-e-dara-part-1-55b25c/20-ek-makra-aur-makhi/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/20-ek-makra-aur-makhi/translation/). (English translation)",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ek makra aur makhi\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"spider and the fly\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "spider fly iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the spider\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 27032,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 21524,
+    "completion_tokens": 2877,
+    "total_tokens": 24401,
+    "cached_tokens": 13551,
+    "api_calls": 4,
+    "cost_usd": 0.00371065,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 366,
+        "total_tokens": 1919,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00026395
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2118,
+        "completion_tokens": 791,
+        "total_tokens": 2909,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00058975
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8383,
+        "completion_tokens": 195,
+        "total_tokens": 8578,
+        "cached_tokens": 2113,
+        "cost_usd": 0.00145715
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 9470,
+        "completion_tokens": 1525,
+        "total_tokens": 10995,
+        "cached_tokens": 8378,
+        "cost_usd": 0.0013998
+      }
+    ]
+  }
+}

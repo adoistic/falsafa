@@ -1,0 +1,269 @@
+{
+  "answer": "**'Gulshan' (literally \"rose garden\") is a recurring metaphorical setting in the Urdu poetry of this corpus, particularly in the ghazals of Mirza Ghalib and the nazms of Allama Iqbal.** It evokes a lush, blooming garden of roses—often symbolizing earthly beauty, paradise, romance, or transience—but is frequently contrasted with higher ideals like love, freedom, or spiritual longing, highlighting impermanence or inadequacy.[^1][^2][^3]\n\n### Key Themes and Uses as a Setting:\n- **Beauty and Belonging**: A rose (*gul*) derives its grace (*aabroo*) only within its garden; outside it, it's diminished. The *gulshan* frames the rose's worth, akin to a garment completing a collar.[^1]\n- **Delight in the Beloved's Presence**: The garden rejoices (*khush aayi*) in a lover's company, with every bud (*ghunche*) blooming like an embrace (*aaghosh-kushai*), portraying it as a vibrant, responsive space for intimacy.[^2]\n- **Unsuitability for the Sublime**: Gardens can constrain loftier expressions; the soul-bird (*murgh-e-dil*) cannot sing its anthem of freedom (*aazaadi ka geet*) here, as this *gulshan* lacks the stage for such grace.[^3]\n\nThis motif draws from Persian poetic traditions (e.g., gardens as *bagh* or paradise), but the corpus provides no explicit treatise defining it—only vivid, contextual uses in verse. Other instances appear (e.g., *Gulshan-e-Weimar*, *gulshan-e-hasti*), often tying it to illusion, history, or existence, but none elaborate systematically on its role as a \"setting.\" The corpus covers select Urdu works (Ghalib's *Diwan*, Iqbal's *Bang-e-Dara*); broader literary criticism is absent.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 2 (\"Aabroo kya khaak uss gul ki ke gulshan mein nahin\"), [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/02-aabroo-kya-khaak-uss-gul-ki-ke-gulshan-mein-nahin/translation/#p-34aa92).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 56 (\"Gulshan ko teri sohbat az-bas-keh khush aayi hai\"), [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/56-gulshan-ko-teri-sohbat-az-bas-keh-khush-aayi-hai/translation/#p-ea6dfe).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 8 (\"Laaon woh tinke kahin se aashiyane ke liye\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/08-laaon-woh-tinke-kahin-se-aashiyane-ke-liye/translation/#p-c4ec62).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gulshan",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rose garden\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Urdu poetry\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gulshan poetry",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 2,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.2 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 56,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.56 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 56,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.56 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 8,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.8 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-34aa92"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 56,
+        "paragraph_ids": [
+          "p-ea6dfe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-c4ec62"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rose garden\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rose-garden"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gulshan-e",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 8,
+      "paragraph_id": "p-34aa92"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 8,
+      "paragraph_id": "p-ea6dfe"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 8,
+      "paragraph_id": "p-c4ec62"
+    }
+  ],
+  "duration_ms": 38626,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 70670,
+    "completion_tokens": 4524,
+    "total_tokens": 75194,
+    "cached_tokens": 7355,
+    "api_calls": 4,
+    "cost_usd": 0.01529275,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 467,
+        "total_tokens": 2019,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005214
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5528,
+        "completion_tokens": 1400,
+        "total_tokens": 6928,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0015758
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 30937,
+        "completion_tokens": 1425,
+        "total_tokens": 32362,
+        "cached_tokens": 5523,
+        "cost_usd": 0.00607145
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 32653,
+        "completion_tokens": 1232,
+        "total_tokens": 33885,
+        "cached_tokens": 150,
+        "cost_usd": 0.0071241
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "answer": "**In Allama Iqbal's Urdu poetry from *Bang-e-Dara* (The Call of the Bell), the term *tajalli*—a key Sufi concept denoting divine self-disclosure, theophany, or manifestation of God's attributes in created forms—appears in the original text and transliterations, evoking the revelation of divine light (*noor*), splendor, or presence within nature, consciousness, love, and the cosmos.**[^1][^2][^3][^4]\n\nIqbal employs *tajalli* poetically to bridge the divine and the phenomenal world, portraying it as a dynamic, illuminating force that awakens perception, intellect, and spiritual insight. It is not a static theological definition but a vivid image of God's beauty (*jamal*) or majesty (*jalal*) manifesting (*zuhur*) in tangible realities, aligning with his philosophy of *khudi* (selfhood) where the human spirit encounters the divine through heightened awareness.\n\n### Key Usages in *Bang-e-Dara Part 1*:\n- **In \"Aaftab\" (The Sun, Ch. 14)**: The sun's *tajalli* imparts light (*noor*) to the \"eye of intellect\" (*chashm-e khirad*), symbolizing divine illumination awakening human consciousness amid existence (*wajood*). The translation renders it as radiant bestowal: \"O Sun, on us the light of consciousness bestow, / And make our eye of reason with Thy radiance glow.\"[^5]\n- **In \"Himalaya\" (Ch. 25)**: The Himalaya is a *tajalli* (\"splendor manifest\") for the visionary eye (*chashm-e beena*), evoking Moses' theophany on Sinai—a test (*imtihaan*) for ordinary sight but revelation for the spiritually perceptive: \"For Moses on the Mount, one glimpse of holy light, / You are a Splendor manifest for all with sight.\"[^6]\n- **In \"Mehr-e-Roshan\" (Ch. 32)**: Love's *tajalli* transforms a realm into pure light (*sarapa noor*), questioning if the afterlife transcends worldly darkness: \"Or is it, head to toe, ablaze with Love’s transcendent light?\"[^7]\n- **In \"Shama\" (The Candle, Ch. 40)**: Distance from the \"lightning of *tajalli*\" (*barq-e-tajalli*) causes burning without true awareness, contrasting heedless flame with conscious passion.[^8]\n\nThese instances reflect Iqbal's recurrent theme: *tajalli* as divine self-revelation in natural symbols (sun, mountain, candle), urging self-realization. The English translations poeticize it as \"radiance,\" \"splendor manifest,\" or \"transcendent light,\" capturing its mystical essence without literal retention of the Arabic/Urdu term.[^9] No explicit prose definition appears in the translated corpus; its meaning emerges through context. Searches for English equivalents like \"theophany\" or \"divine manifestation\" in Iqbal yield no direct hits, as the concept is embedded in verse imagery.\n\n[^1]: *Allama Iqbal*, \"Aaftab,\" Ch. 14, *Bang-e-Dara Part 1* (transliteration snippet with *tajalli*).\n[^2]: *Allama Iqbal*, \"Himalaya,\" Ch. 25, para. [p-81b343], *Bang-e-Dara Part 1*.\n[^3]: *Allama Iqbal*, \"Mehr-e-Roshan,\" Ch. 32, *Bang-e-Dara Part 1*.\n[^4]: *Allama Iqbal*, \"Shama,\" Ch. 40, para. [p-b0d063], *Bang-e-Dara Part 1*.\n[^5]: *Allama Iqbal*, \"Aaftab,\" Ch. 14, para. [p-af377c], *Bang-e-Dara Part 1* (/works/allama-iqbal-bang-e-dara-part-1-55b25c/14-aaftab/translation/#p-af377c).\n[^6]: *Allama Iqbal*, \"Himalaya,\" Ch. 25, para. [p-748be3], *Bang-e-Dara Part 1* (/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/#p-748be3).\n[^7]: *Allama Iqbal*, \"Mehr-e-Roshan,\" Ch. 32, para. [p-e29821], *Bang-e-Dara Part 1* (/works/allama-iqbal-bang-e-dara-part-1-55b25c/32-mehr-e-roshan/translation/#p-e29821).\n[^8]: *Allama Iqbal*, \"Shama,\" Ch. 40, para. [p-df7e0d], *Bang-e-Dara Part 1* (/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-df7e0d).\n[^9]: General note from chapter translations (e.g., Thothica trans.), *Bang-e-Dara Part 1*. No further Iqbal works in the corpus elaborate a formal definition.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tajalli",
+        "limit": 20
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.32 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 40,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.40 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tajalli\" iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "theophany OR \"divine manifestation\" iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 40,
+      "paragraph_id": "p-81b343"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 40,
+      "paragraph_id": "p-b0d063"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 40,
+      "paragraph_id": "p-af377c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 40,
+      "paragraph_id": "p-748be3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 40,
+      "paragraph_id": "p-e29821"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 40,
+      "paragraph_id": "p-df7e0d"
+    }
+  ],
+  "duration_ms": 34042,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 13530,
+    "completion_tokens": 3701,
+    "total_tokens": 17231,
+    "cached_tokens": 4001,
+    "api_calls": 3,
+    "cost_usd": 0.00395635,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 279,
+        "total_tokens": 1832,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004276
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3706,
+        "completion_tokens": 716,
+        "total_tokens": 4422,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010767
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8271,
+        "completion_tokens": 2706,
+        "total_tokens": 10977,
+        "cached_tokens": 3701,
+        "cost_usd": 0.00245205
+      }
+    ]
+  }
+}

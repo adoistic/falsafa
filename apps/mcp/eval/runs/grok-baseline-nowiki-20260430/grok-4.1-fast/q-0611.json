@@ -1,0 +1,235 @@
+{
+  "answer": "**In Mirza Ghalib's *Diwan-e-Ghalib*, 'aaina' (mirror) is a recurring metaphor symbolizing reflection, self-knowledge, beauty's revelation, the illusory or tarnished nature of existence, and the interconnectedness of hearts and the cosmos.**[^1][^2][^3]\n\nIt often reveals harsh truths that deflate pride or ego, as in the opening couplet of one ghazal where beholding one's face in the mirror ends all boasting.[^4] Ghalib extends this to the heart and world as mirrors: \"From sun to atom, heart reflecting heart is a mirror; / For the mimic soul, the world from every part is a mirror.\"[^5] Here, creation—from celestial bodies to particles—mirrors inner realities, echoing Sufi ideas of divine reflection in all things.\n\nMirrors also evoke love's spectacle or pain: one suggests offering a mirror so the beloved's beauty becomes a \"show\" others admire.[^6] Yet perfection tarnishes—\"A mirror's flawless wonder finds a stain at last\"[^7]—paralleling how love, youth, or clarity fades. The poet even likens himself to quicksilver (the mirror's backing), intensifying reflection's \"heat.\"[^8]\n\nGhalib weaves 'aaina' into themes of wonder (*hairat*), illusion, and transience, but the corpus offers no singular prose definition—only these poetic uses across ghazals.[^9]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 12 (\"Az mehr ta-ba-zarra dil-o-dil hai aaina\"), [translation/](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/12-az-mehr-ta-ba-zarra-dil-o-dil-hai-aaina/translation/).\n\n[^2]: Ibid., ch. 176 (\"Safaa-e-hairat-e-aaina hai saamaan-e-zang aakhir\"), [translation/](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/176-safaa-e-hairat-e-aaina-hai-saamaan-e-zang-aakhir/translation/).\n\n[^3]: Ibid., ch. 178 (\"Seemab-pusht garmi-e-aaina de hai hum\"), [translation/](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/178-seemab-pusht-garmi-e-aaina-de-hai-hum/translation/).\n\n[^4]: Ibid., ch. 4 (\"Aaina dekh apna sa munh le ke reh gaye\"), [p-354db2](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/translation/#p-354db2).\n\n[^5]: Ibid., ch. 12, [p-93900f](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/12-az-mehr-ta-ba-zarra-dil-o-dil-hai-aaina/translation/#p-93900f).\n\n[^6]: Ibid., ch. 5 (\"Aaina kyun na doon ke tamasha kahein jise\"), [p-8dd888](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/05-aaina-kyun-na-doon-ke-tamasha-kahein-jise/translation/#p-8dd888).\n\n[^7]: Ibid., ch. 176, [p-e27dd2](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/176-safaa-e-hairat-e-aaina-hai-saamaan-e-zang-aakhir/translation/#p-e27dd2).\n\n[^8]: Ibid., ch. 178, [p-5c4ec0](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/178-seemab-pusht-garmi-e-aaina-de-hai-hum/translation/#p-5c4ec0).\n\n[^9]: Search of *Diwan-E-Ghalib* (239 chapters) yields ~5 ghazals with 'aaina' in matla/radif; no explicit philosophical treatise.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "aaina mirror Ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"aaina\" Ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mirror Ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mirror",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "aaina",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ayna",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "aīna",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "āina",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 176,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.176 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 178,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.178 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 116,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.116 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 116,
+      "paragraph_id": "p-354db2"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 116,
+      "paragraph_id": "p-93900f"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 116,
+      "paragraph_id": "p-8dd888"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 116,
+      "paragraph_id": "p-e27dd2"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 116,
+      "paragraph_id": "p-5c4ec0"
+    }
+  ],
+  "duration_ms": 88373,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 65029,
+    "completion_tokens": 6245,
+    "total_tokens": 71274,
+    "cached_tokens": 32381,
+    "api_calls": 4,
+    "cost_usd": 0.01127115,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1548,
+        "completion_tokens": 449,
+        "total_tokens": 1997,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005116
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1909,
+        "completion_tokens": 2561,
+        "total_tokens": 4470,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0014325
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 28800,
+        "completion_tokens": 1034,
+        "total_tokens": 29834,
+        "cached_tokens": 1904,
+        "cost_usd": 0.0059914
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 32772,
+        "completion_tokens": 2201,
+        "total_tokens": 34973,
+        "cached_tokens": 28795,
+        "cost_usd": 0.00333565
+      }
+    ]
+  }
+}

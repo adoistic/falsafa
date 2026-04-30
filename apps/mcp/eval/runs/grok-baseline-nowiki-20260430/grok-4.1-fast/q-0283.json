@@ -1,0 +1,241 @@
+{
+  "answer": "In the *Manusmṛti* (Chapter 1), Manu presents the Brahmin (*Brahmana*) as divinely ordained at the pinnacle of creation and society. The primordial being (Svayambhuva) emanates the four *varnas* from his body, with the Brahmin emerging purest from the mouth, granting them inherent lordship: \"By his origin from the highest limb, by his seniority, and by his preservation of the Veda, the Brahmana is by right the lord of this whole creation.\"[^1] This dignity is absolute—Brahmins are \"the best\" among beings, entitled to all worldly property due to birthright, and mediators of divine offerings: \"Whatever exists in the world is the property of the Brahmana; by his pre-eminence of birth, the Brahmana is indeed entitled to this all.\"[^2] The doctrine enshrines hierarchy as cosmic order (*ṛta*), with Brahmins as eternal guardians of *dharma*.\n\nIqbal's poem \"Sach keh doon ae Brahman! gar tu bura na maane\" (*Bang-E-Dara Part 1*, Chapter 36) directly addresses the Brahmin in a bold, fraternal challenge, rejecting such idol-bound exclusivity. Iqbal declares the Brahmin's \"ancient idols\" (*sanam-kadon ke but*) as obsolete relics that foster division (\"From them you learned to hold your kin in scorn\"), contrasting stone worship with a vital, unifying spirituality: \"You think your God is in a form of stone; / To me, my homeland's every speck is divine.\"[^3] He urges transcendence of \"veils of otherness\" (*otherness* implying caste/religious lines), proposing a \"new shrine\" in the desolated \"city of the heart,\" where pilgrimage elevates humanity via love's \"wine,\" not ritual hierarchy.[^4]\n\n### The Doctrinal Collision\n| Aspect              | Manu's Doctrine (*Manusmṛti* 1)                          | Iqbal's Critique (\"Sach keh doon...\")                    |\n|---------------------|----------------------------------------------------------|----------------------------------------------------------|\n| **Origin of Authority** | Divine embryology: Brahmin from mouth, superior by birth.[^5] | Rejects idol-mediated authority; divinity in land/heart, not form/stone.[^6] |\n| **Social Role**     | Lords of creation; own the world; others serve.[^7]      | Division (*bair*) from kin/scorn is outdated; unity via love.[^8] |\n| **Spiritual Path**  | Veda-preservation, offerings via Brahmin mouth.[^9]      | Mosque/shrine abandoned; new heart-shrine, \"wine of love\" for salvation.[^10] |\n| **Cosmic Order**    | Immutable *varna* hierarchy for world's prosperity.     | Transcend lines (*wipe away... that make us two*); earth's salvation in faithful song.[^11] |\n\n**Staged as Dialogue** (imagined confrontation, faithful to texts):\n\n**Manu (thundering cosmically):** \"The Self-existent One created the Brahmana from his mouth... the lord of this whole creation... What being is superior to him?\"[^12]\n\n**Iqbal (urgent, revolutionary):** \"O Brahmin, if you will not take offense, / Your ancient idols have lost reverence... / You think your God is in a form of stone; / To me, my homeland's every speck is divine. / Come, let us lift the veils of otherness anew...\"[^13]\n\nManu's *dharma* fossilizes dignity in birth and ritual; Iqbal dynamizes it in love and unity, igniting modern awakening against hierarchical stasis.\n\n[^1]: *Manusmṛti*, [Chapter 1, p-7c0113](/works/unknown-manusmrti-347b76/01/translation/#p-7c0113).\n[^2]: *Manusmṛti*, [Chapter 1, p-cc748e](/works/unknown-manusmrti-347b76/01/translation/#p-cc748e).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 36, p-db56fb](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-db56fb).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 36, p-3a582d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-3a582d).\n[^5]: *Manusmṛti*, [Chapter 1, p-13a2db](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db).\n[^6]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 36, p-db56fb](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-db56fb).\n[^7]: *Manusmṛti*, [Chapter 1, p-a5c46f](/works/unknown-manusmrti-347b76/01/translation/#p-a5c46f).\n[^8]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 36, p-c536e2](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-c536e2).\n[^9]: *Manusmṛti*, [Chapter 1, p-1f1d77](/works/unknown-manusmrti-347b76/01/translation/#p-1f1d77).\n[^10]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 36, p-94fb2e](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-94fb2e).\n[^11]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 36, p-3a582d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-3a582d).\n[^12]: *Manusmṛti*, [Chapter 1, pp-a5c46f–1f1d77](/works/unknown-manusmrti-347b76/01/translation/#p-a5c46f).\n[^13]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 36, pp-752d60–db56fb](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-752d60).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sach Keh Doon Ae Brahman\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahmin",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahman",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Brahmin\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-13a2db",
+          "p-7c0113",
+          "p-a5c46f",
+          "p-1f1d77",
+          "p-fdb716",
+          "p-cc748e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-7c0113"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-cc748e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-db56fb"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-3a582d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-a5c46f"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-c536e2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-1f1d77"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-94fb2e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-752d60"
+    }
+  ],
+  "duration_ms": 45700,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 43946,
+    "completion_tokens": 4545,
+    "total_tokens": 48491,
+    "cached_tokens": 23384,
+    "api_calls": 4,
+    "cost_usd": 0.0075541,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1575,
+        "completion_tokens": 603,
+        "total_tokens": 2178,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038715
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2244,
+        "completion_tokens": 1184,
+        "total_tokens": 3428,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010183
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 19471,
+        "completion_tokens": 540,
+        "total_tokens": 20011,
+        "cached_tokens": 2239,
+        "cost_usd": 0.00382835
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 20656,
+        "completion_tokens": 2218,
+        "total_tokens": 22874,
+        "cached_tokens": 19466,
+        "cost_usd": 0.0023203
+      }
+    ]
+  }
+}

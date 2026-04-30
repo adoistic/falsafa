@@ -1,0 +1,90 @@
+{
+  "answer": "**The Falsafa corpus does not contain explanations or discussions of 'ṛta' (cosmic order) within the Smṛti texts (such as Manusmṛti, Yājñavalkya Smṛti, or others listed under Indic/Sanskrit genres).**\n\nSearches across the English translations for terms like \"rta\", \"ṛta\", \"cosmic order\", and \"rta dharma\" yielded no relevant matches in Smṛti works—only incidental or unrelated snippets (e.g., from non-Smṛti texts like Cynewulf's *Andreas* or passing words in Āṅgirasa Smṛti). ṛta is primarily a Vedic concept (from texts like the Ṛgveda, not included in this corpus), denoting the principle of cosmic, moral, and ritual order upheld by the gods. Smṛtis focus more on dharma as human duty, law, and social order, without direct elaboration on ṛta or its relation to dharma here.\n\nThe corpus has 37 works total, including several Smṛtis (e.g., Manusmṛti, with 12 chapters), but this topic is not addressed. If you're seeking Vedic sources, they aren't available.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rta",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cosmic order\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rta dharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 14899,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 7486,
+    "completion_tokens": 1931,
+    "total_tokens": 9417,
+    "cached_tokens": 3064,
+    "api_calls": 2,
+    "cost_usd": 0.0020031,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1560,
+        "completion_tokens": 699,
+        "total_tokens": 2259,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0004317
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5926,
+        "completion_tokens": 1232,
+        "total_tokens": 7158,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0015714
+      }
+    ]
+  }
+}

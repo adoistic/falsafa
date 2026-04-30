@@ -1,0 +1,126 @@
+{
+  "answer": "**No specific rule on breaking a fast unknowingly (e.g., *upavāsa-bhaṅga* or *vratabhaṅga* done inadvertently) appears in the Āṅgirasa Smṛti.** \n\nThe text discusses penances (*prāyaścitta*), ritual impurities (*āśauca*, *sūtaka*), and expiations for defects in ancestral rites (*paitṛka karma*, such as śrāddha), including those done \"knowingly or unknowingly\" (e.g., Ang_1.899: defects in the rite are remedied by reciting a sacred formula).[^1] Fasts (*upavāsa*, *kṛcchra*) are prescribed as penances (e.g., a day-and-night fast during impurity, Ang_1.46; three-night fasts for eating forbidden items), but no dedicated rule addresses accidental breaking of a personal fast or vow.[^2][^3]\n\nThe corpus covers Dharmaśāstra topics like rites, penances, and food taboos extensively (1792 paragraphs in Ch. 1), but this precise query is absent. Other Smṛtis (e.g., Manu 5.21 on unknowingly eating forbidden food; Paraśara 11.9 on unknowingly consuming impure milk, requiring a three-night fast) touch related ideas, but not in Āṅgirasa.[^4]\n\n[^1]: Āṅgirasa Smṛti, Ch. 1, [para. p-500c23](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-500c23).\n\n[^2]: Āṅgirasa Smṛti, Ch. 1, [para. p-250883](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-250883).\n\n[^3]: Āṅgirasa Smṛti, Ch. 1 (various, e.g., [Ch. 1 full](/works/unknown-angirasa-smrti-2bf9d1/01/translation/)).\n\n[^4]: E.g., Manusmṛti 5.21, [para. p-a6b9f5](/works/unknown-manusmrti-347b76/05/translation/#p-a6b9f5); Paraśara Smṛti 11.9, [para. p-00a319](/works/unknown-parasara-smrti-2259be/11/translation/#p-00a319).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Angirasa Smriti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"breaking a fast\" OR \"break fast unknowingly\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-500c23"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-500c23"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-250883"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-a6b9f5"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-00a319"
+    }
+  ],
+  "duration_ms": 27032,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 92588,
+    "completion_tokens": 2335,
+    "total_tokens": 94923,
+    "cached_tokens": 8012,
+    "api_calls": 3,
+    "cost_usd": 0.0184833,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 531,
+        "total_tokens": 2081,
+        "cached_tokens": 1530,
+        "cost_usd": 0.000346
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 4958,
+        "completion_tokens": 601,
+        "total_tokens": 5559,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00106275
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "list_chapters",
+          "read_chapter"
+        ],
+        "prompt_tokens": 86080,
+        "completion_tokens": 1203,
+        "total_tokens": 87283,
+        "cached_tokens": 4953,
+        "cost_usd": 0.01707455
+      }
+    ]
+  }
+}

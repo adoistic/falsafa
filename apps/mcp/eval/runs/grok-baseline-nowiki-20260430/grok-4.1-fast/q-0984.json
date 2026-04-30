@@ -1,0 +1,255 @@
+{
+  "answer": "**Manu's *pañca mahāyajña* (five great sacrifices)** prescribe a precise daily ritual structure for the householder (*gṛhastha*), who is \"bound\" by everyday acts like cooking and grinding grain—what the text calls his \"five slaughter-houses\"—and must atone through obligatory offerings.[^1] These bind his domestic life to the cosmos: \n\n> Teaching is the sacrifice to Brahma; libation is the sacrifice to the Ancestors; the fire-oblation is the sacrifice to the Gods; the *bali*-offering is the sacrifice to beings; and the honoring of guests is the sacrifice to men.[^2]\n\nA householder who performs them \"according to his ability\" remains untainted by sin and sustains the world-order, as all other life-stages depend on him.[^3] The day thus opens and closes with *Vaiśvadeva* (*bali*-offerings at dawn and dusk), interspersed with Vedic study, fire-oblations, ancestor rites, guest-hospitality, and alms—framing meals, work, and rest in perpetual cosmic debt.[^4]\n\n**The Old English *Seafarer* and *Wanderer*** evoke a day no less cosmically accountable, but ordered through stoic endurance, lament, and prayer amid exile (*wræclastas*). The *Seafarer*'s speaker recounts nights of grim watch on the prow, feet \"cold-clinched... fettered by frost,\" hunger tearing his \"sea-weary soul,\" hail and swansong his only companions—wintering \"on paths of exile, bereft of kinsmen.\"[^5] Dawn brings toil (*ȳþsċeaþa geond...?*), yet his \"soul's desire\" urges the whale-road, hotter joys of the Lord than \"dead life\" on land; he urges striving \"against the malice of fiends\" for eternal praise.[^6] The *Wanderer* awakens at \"each dawn\" (*æt ealran morgen*) to lament alone, binding his \"spirit-lock\" against wyrd's hardships—slaughters, lost lords—seeing middle-earth decay under the Measurer's decree.[^7] Wisdom demands patience till \"winters\" temper the heart; true order seeks the Father's grace, where \"stability stands.\"[^8]\n\nThese texts share **the conviction that a day *must* be ordered** by inescapable cosmic obligation—*ṛta*/dharma via ritual reciprocity with gods/ancestors/beings in Manu; *wyrd*/divine measure via endurance/prayer against transience in the elegies. Yet they diverge sharply on *how*: Manu's householder's day is a fixed liturgical timetable, externally mandated and communal; the elegists' is introspective, wyrd-shaped vigil, solitary and eschatological, yielding wisdom through suffered flux rather than atoned stasis. The corpus yields no direct structural parallel beyond this shared imperative.[^9]\n\n[^1]: Manusmṛti, Chapter 3, [translation/](/works/unknown-manusmrti-347b76/03/translation/#p-7a3359).\n\n[^2]: Manusmṛti, Chapter 3, [translation/](/works/unknown-manusmrti-347b76/03/translation/#p-0f3d0c).\n\n[^3]: Manusmṛti, Chapter 3, [translation/](/works/unknown-manusmrti-347b76/03/translation/#p-097802).\n\n[^4]: Manusmṛti, Chapter 3, [translation/](/works/unknown-manusmrti-347b76/03/translation/#p-47d102).\n\n[^5]: Old English Elegies, *The Seafarer* (Ch. 5), [translation/](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-889339).\n\n[^6]: Old English Elegies, *The Seafarer* (Ch. 5), [translation/](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-eff626).\n\n[^7]: Old English Elegies, *The Wanderer* (Ch. 11), [translation/](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^8]: Old English Elegies, *The Wanderer* (Ch. 11), [translation/](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-5bdc65).\n\n[^9]: Manusmṛti, Ch. 3–4, [translation/](/works/unknown-manusmrti-347b76/03/translation/); Old English Elegies, Ch. 5 & 11, [translation/](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "panchayajna",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five sacrifices\" OR \"pancha yajna\" OR \"daily sacrifices\" manu",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"The Wanderer\" OR \"Wanderer\" \"day\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"The Seafarer\" OR \"Seafarer\" \"day\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Old English Elegies\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five great sacrifices\" OR \"five sacrifices\" OR \"pañca\" yajña OR \"daily sacrifices\" OR \"householder\" sacrifice",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Wanderer\" OR \"Seafarer\" OR \"elegy\" day OR dawn OR morning OR night",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu householder duties daily",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacrifice\" OR yajña OR \"great sacrifices\" OR \"daily sacrifice\" OR bhuta OR pitri OR deva OR manushya OR brahma manu",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-7a3359"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-0f3d0c"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-097802"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-47d102"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-889339"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-eff626"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-5bdc65"
+    }
+  ],
+  "duration_ms": 59087,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 53319,
+    "completion_tokens": 5366,
+    "total_tokens": 58685,
+    "cached_tokens": 16029,
+    "api_calls": 4,
+    "cost_usd": 0.01094245,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1620,
+        "completion_tokens": 763,
+        "total_tokens": 2383,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00047615
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3760,
+        "completion_tokens": 1100,
+        "total_tokens": 4860,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00107265
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9221,
+        "completion_tokens": 1303,
+        "total_tokens": 10524,
+        "cached_tokens": 3755,
+        "cost_usd": 0.00193245
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 38718,
+        "completion_tokens": 2200,
+        "total_tokens": 40918,
+        "cached_tokens": 9216,
+        "cost_usd": 0.0074612
+      }
+    ]
+  }
+}

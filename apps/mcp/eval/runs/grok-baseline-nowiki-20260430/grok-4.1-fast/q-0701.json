@@ -1,0 +1,239 @@
+{
+  "answer": "**In Manusmṛti Chapter 8, the text addresses penalties for physical assault in verses 279–280 (and surrounding verses), with specific rules based on caste hierarchy.**\n\nA \"low-born man\" (typically a Shūdra or lower-caste individual) who injures a \"superior\" (higher-caste individual, such as a Brahmin) with a particular limb **shall have that very limb cut off**.[^1]\n\nThis is elaborated as follows: **one who raises a hand or stick deserves to have the hand cut off; one who strikes with the foot deserves to have the foot cut off**.[^2]\n\nThe broader context in Chapter 8 covers judicial penalties (*daṇḍa*) for assault (*prahāsa*), emphasizing retribution matching the offense and limb used, especially across castes (e.g., a low-born person sitting on a superior's seat warrants branding or buttock amputation).[^3] No exact phrase \"non-Brahmin who strikes a Brahmin\" appears, but \"low-born injuring superior\" directly applies, as Brahmins are the highest *varṇa* and non-Brahmins (*Kṣatriya*, *Vaiśya*, or *Shūdra*) are lower.\n\nThis is the precise rule from the corpus; other Dharmashāstras may vary, but Manusmṛti specifies limb amputation here.[^1][^2]\n\n[^1]: Manusmṛti, [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-526528).\n[^2]: Manusmṛti, [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-c0dabc).\n[^3]: Manusmṛti, [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-a209b7).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"strikes a Brahmin\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"non-Brahmin\" Brahmin strike",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shudra\" strikes brahmin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shudra brahmin strike penalty",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"manu\" \"chapter 8\" brahmin strike",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manusmriti \"strikes\" \"brahmin\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sudra\" \"Brahmana\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sudra\" strikes Brahmin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "chapter 8 \"Brahmana\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-526528",
+          "p-c0dabc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-a209b7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"low-born man\" OR \"Shudra\" strike OR assault OR injure Brahmin OR \"superior\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-526528"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-c0dabc"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-a209b7"
+    }
+  ],
+  "duration_ms": 33687,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 68852,
+    "completion_tokens": 3927,
+    "total_tokens": 72779,
+    "cached_tokens": 34127,
+    "api_calls": 5,
+    "cost_usd": 0.01061485,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1560,
+        "completion_tokens": 564,
+        "total_tokens": 2124,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005715
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1844,
+        "completion_tokens": 499,
+        "total_tokens": 2343,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038895
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2726,
+        "completion_tokens": 311,
+        "total_tokens": 3037,
+        "cached_tokens": 1839,
+        "cost_usd": 0.00042485
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30464,
+        "completion_tokens": 1360,
+        "total_tokens": 31824,
+        "cached_tokens": 150,
+        "cost_usd": 0.0067503
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 32258,
+        "completion_tokens": 1193,
+        "total_tokens": 33451,
+        "cached_tokens": 30459,
+        "cost_usd": 0.00247925
+      }
+    ]
+  }
+}

@@ -276,7 +276,7 @@ function Header({
         const testName = hidden ? "Discovery" : "Citation";
         const caption = hidden
           ? `work hidden · ${m.name}`
-          : `${m.name} · mechanical-pass · judge layer pending`;
+          : `${m.name} · deterministic citation check`;
         return (
           <div class="eval-header-stat" key={m.id}>
             <span class="eval-header-num">

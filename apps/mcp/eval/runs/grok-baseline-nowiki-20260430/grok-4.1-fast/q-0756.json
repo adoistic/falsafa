@@ -1,0 +1,160 @@
+{
+  "answer": "**The Āṅgirasa Smṛti in this corpus does not contain a specific verse prescribing prayāścitta (expiation) for forgetting the Gāyatrī mantra.** \n\nThe text discusses prayāścitta extensively, often recommending recitation of the Gāyatrī or Vyāhṛtis as a general expiation (e.g., 10,000 recitations for neglecting a death anniversary[^1]; oblations with Vyāhṛti and Gāyatrī in a marriage-related rite[^2]). However, no verse addresses forgetting the Gāyatrī specifically. The corpus covers 37 works; this topic may appear elsewhere (e.g., other Smṛtis), but not here.[^3]\n\n[^1]: Āṅgirasa Smṛti, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-b061ae).\n[^2]: Āṅgirasa Smṛti, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-9cc063).\n[^3]: Āṅgirasa Smṛti, Chapter 1, [full chapter](/works/unknown-angirasa-smrti-2bf9d1/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Angirasa Smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Gayatri\" prayascitta",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forgetting\" Gayatri",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "angirasa"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"slug\":\"unknown-angirasa-smrti-2bf9d1\",\"title\":\"Āṅgirasa Smṛti\",\"author\":\"Aṅgirasa\",\"author_slug\":\"angirasa\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"S"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Angirasa prayascitta Gayatri",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-b061ae"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-9cc063"
+    }
+  ],
+  "duration_ms": 32221,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 185369,
+    "completion_tokens": 1873,
+    "total_tokens": 187242,
+    "cached_tokens": 7268,
+    "api_calls": 4,
+    "cost_usd": 0.07269619999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 645,
+        "total_tokens": 2200,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00040415
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1909,
+        "completion_tokens": 375,
+        "total_tokens": 2284,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00033995
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2311,
+        "completion_tokens": 216,
+        "total_tokens": 2527,
+        "cached_tokens": 1904,
+        "cost_usd": 0.0002846
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 179594,
+        "completion_tokens": 637,
+        "total_tokens": 180231,
+        "cached_tokens": 2306,
+        "cost_usd": 0.0716675
+      }
+    ]
+  }
+}

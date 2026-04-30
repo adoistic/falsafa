@@ -1,0 +1,224 @@
+{
+  "answer": "For Charles Comte, *esclavage domestique* (domestic slavery) is a condition in which a subjugated population—one that performs all labors, enjoys no security, and lives in profound misery—is divided into individual fractions among private masters, each of whom exploits \"his own\" slaves with absolute, continuous arbitrary power over their persons, labor, and products.[^1] This contrasts with *esclavage politique* (political slavery or despotism/aristocracy), in which an enslaved population is exploited collectively by a ruling class or chief, with products shared according to rank.[^2] Comte emphasizes that domestic slavery is not uniform but susceptible to degrees and historical modifications: ancient (e.g., Roman chattel slavery, where slaves of any nation were sold at markets, families separated, and used in all occupations except military/public); feudal (serfdom *de la glebe*, slaves tied to land, less harsh due to consumption limits and weaker central authority); and modern colonial (racialized, export-oriented, circumscribed to plantations, moderated somewhat by metropolitan governments and moral sects).[^3]\n\nComte's analysis in *Traité de Législation*, Vol. IV deepens this concept systematically across 23 chapters, moving from foundational definition to exhaustive causal effects on human faculties, society, and polity, ultimately advocating abolition as inevitable and beneficial. The progression reflects Comte's method: observe slavery's nature, then trace its ramifications on physical/intellectual/moral development (masters gain warrior vigor but industrial atrophy; slaves degrade bodily and mentally); population dynamics; wealth production; governance; and international relations—culminating in slavery's production of inequality and its self-undermining logic.\n\n- **Foundational distinction and nature (Ch. 1–2):** Slavery is framed as an extension of barbarism's conquest logic, individualized for \"more active\" exploitation. Historical typology shows gradations, with effects varying by intensity (e.g., Roman slaves as pure \"things\" without family/property; serfs retaining some ties; colonists checked by metropoles).[^4]\n\n- **Physical/industrial effects (Ch. 3):** Masters' bodies strengthen via leisure/hunting/arms (e.g., Roman/Greek gymnasts, colonial hunters), selecting beautiful slave women for breeding, but atrophy in productive skills (despising agriculture/trades as degrading). Slaves weaken via malnutrition, overwork, forbidden exercises—population sustained only by imports (e.g., French colonies lose 1/15th yearly). \"Improvement\" is judged by societal utility: masters become \"useless instruments\"; slaves lack skill.[^5]\n\n- **Intellectual effects (Ch. 4):** Masters develop oratory/politics for intra-class rivalry (e.g., republican Romans) but shun \"knowledge over nature\" (industry/sciences), resorting to force over slaves. Slaves brutalized deliberately (masters fear \"spirit,\" ban literacy/Christian teaching); colonial examples (Dutch Cape: no schools; Anglo-South: slaves as inept artisans) confirm mutual stupidity.[^6]\n\nThis causal chain extends: slavery harms free non-masters' existence (Ch. 5); corrupts Roman morals (Ch. 6), colonial masters/slaves (Chs. 7–11); erodes even masters' liberty via dependency (Ch. 12); stifles production/wealth despite raw output (Ch. 13); skews population growth (Ch. 14); fosters despotic governments (Ch. 15), national weakness (Ch. 16), malign influence abroad (Ch. 17), religious hypocrisy (Ch. 18), and trade distortions (Ch. 19). Legal \"protections\" fail as privileges of impunity (Ch. 20).\n\n- **Culmination in abolition and inequality (Chs. 21–23):** Slavery's principle (\"man as thing\") irreconcilable with liberty/morality; gradual emancipation via redeemable labor taxes (slave's day = half free laborer's) restores agency, boosts output (English workers > Russian serfs), ensures order (liberty represses vice). Persistence risks catastrophe (e.g., Haiti); it generates caste/rank inequalities (Ch. 22) and fortune disparities favoring communalism over property (Ch. 23).[^7]\n\nComte thus portrays *esclavage* not as aberration but systemic vice, deepening from exploitative relation to total societal paralytic—resolvable only by rejecting its premise for universal personhood.\n\n[^1]: Charles Comte, *Traité de Législation: VOL IV*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/01-chapitre-premier/translation/#p-d4631c).\n\n[^2]: Charles Comte, *Traité de Législation: VOL IV*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/01-chapitre-premier/translation/#p-0cd377).\n\n[^3]: Charles Comte, *Traité de Législation: VOL IV*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/02-nature-des-divers-genres-d-esclavage-domestique/translation/#p-11d79c).\n\n[^4]: Ibid.\n\n[^5]: Charles Comte, *Traité de Législation: VOL IV*, Ch. 3 (full chapter: [/works/charles-comte-traite-de-legislation-vol-iv-bca040/03-de-l-influence-de-l-esclavage-sur-la-constitution-/translation/]).\n\n[^6]: Charles Comte, *Traité de Législation: VOL IV*, Ch. 4 (full chapter: [/works/charles-comte-traite-de-legislation-vol-iv-bca040/04-de-l-influence-de-l-esclavage-domestique-sur-les-f/translation/]).\n\n[^7]: Charles Comte, *Traité de Législation: VOL IV*, Ch. 21 (full chapter: [/works/charles-comte-traite-de-legislation-vol-iv-bca040/21-de-l-abolition-de-l-esclavage-domestique/translation/]).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "esclavage",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"esclavage\" Comte",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slavery Comte",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-legislation-vol-iv-bca040\",\"title\":\"Traité de Législation: VOL IV\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlighten"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 21,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.21 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d4631c",
+          "p-0cd377"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-11d79c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 2,
+      "paragraph_id": "p-d4631c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 2,
+      "paragraph_id": "p-0cd377"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 2,
+      "paragraph_id": "p-11d79c"
+    }
+  ],
+  "duration_ms": 55240,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 63820,
+    "completion_tokens": 5386,
+    "total_tokens": 69206,
+    "cached_tokens": 28816,
+    "api_calls": 5,
+    "cost_usd": 0.0111346,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1557,
+        "completion_tokens": 628,
+        "total_tokens": 2185,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006029
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2470,
+        "completion_tokens": 506,
+        "total_tokens": 2976,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0005172
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6801,
+        "completion_tokens": 882,
+        "total_tokens": 7683,
+        "cached_tokens": 149,
+        "cost_usd": 0.00177885
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 20194,
+        "completion_tokens": 1446,
+        "total_tokens": 21640,
+        "cached_tokens": 6796,
+        "cost_usd": 0.0037424
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 32798,
+        "completion_tokens": 1924,
+        "total_tokens": 34722,
+        "cached_tokens": 20189,
+        "cost_usd": 0.00449325
+      }
+    ]
+  }
+}

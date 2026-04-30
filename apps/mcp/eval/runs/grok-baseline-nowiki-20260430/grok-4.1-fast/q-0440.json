@@ -1,0 +1,209 @@
+{
+  "answer": "**Cynewulf's Old English poems *Andreas* and *Elene* engage with biblical prophets (such as Abraham, Isaac, Jacob, and Isaiah) as wise figures raised or referenced in divine narratives, often in the context of preaching God's truth or foretelling Christ.**[^1][^2]\n\n**Allama Iqbal's *Bang-E-Dara* (across Parts 1 and 3) extensively invokes \"the Prophet\" — primarily Muhammad — alongside biblical prophets like Moses (Bande Kaleem) and Noah (Nuh Nabi), portraying them as central to Islamic identity, nationhood, and spiritual revival.**[^3][^4]\n\n**Briefer engagements appear in Urdu poetry:**  \n- *Diwan-E-Ghalib* references the Prophet's legatee (Ali as inheritor).[^5]  \n- *Diwan-E-Zauq* uses \"prophet's seal\" metaphorically for a lover's mark.[^6]\n\nNo matches for \"dhrtatman\" appear in the corpus. While \"nabi\" occurs in transliterations (e.g., Nuh Nabi), substantive engagement is via English translations referencing prophets. Other works like Charles Comte's *Traité de Législation* mention prophets dismissively but do not \"engage\" deeply.[^7]\n\n[^1]: Cynewulf, *Andreas*, [p-bb7698](/works/cynewulf-andreas-07b573/01/translation/#p-bb7698).  \n[^2]: Cynewulf, *Elene*, [p-7b1c1f](/works/cynewulf-elene-d2d132/01/translation/#p-7b1c1f).  \n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, [p-d22740](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-d22740).  \n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, [p-a9f72d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-a9f72d).  \n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, [p-711661](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/193-tum-apne-shikwe-ki-baatein-na-khod-khod-ke-poocho/translation/#p-711661).  \n[^6]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [p-bc68e3](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/59-koi-in-tang-dahanon-se-mohabbat-na-kare/translation/#p-bc68e3).  \n[^7]: Charles Comte, *Traité de Législation: VOL I*, search hit on prophets as \"impostors\" (p-9adf2c).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prophet",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nabi",
+        "limit": 30
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dhrtatman",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"prophet\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-bb7698"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7b1c1f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-d22740"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "paragraph_ids": [
+          "p-a9f72d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 193,
+        "paragraph_ids": [
+          "p-711661"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 59,
+        "paragraph_ids": [
+          "p-bc68e3"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prophets",
+        "limit": 10
+      },
+      "result_summary": "Found 8 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 59,
+      "paragraph_id": "p-bb7698"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 59,
+      "paragraph_id": "p-7b1c1f"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 59,
+      "paragraph_id": "p-d22740"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 59,
+      "paragraph_id": "p-a9f72d"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 59,
+      "paragraph_id": "p-711661"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 59,
+      "paragraph_id": "p-bc68e3"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 59,
+      "paragraph_id": "p-9adf2c"
+    }
+  ],
+  "duration_ms": 33498,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 17951,
+    "completion_tokens": 3813,
+    "total_tokens": 21764,
+    "cached_tokens": 9783,
+    "api_calls": 3,
+    "cost_usd": 0.00402925,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 615,
+        "total_tokens": 2167,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00038825
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6726,
+        "completion_tokens": 1657,
+        "total_tokens": 8383,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00194405
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9673,
+        "completion_tokens": 1541,
+        "total_tokens": 11214,
+        "cached_tokens": 6721,
+        "cost_usd": 0.00169695
+      }
+    ]
+  }
+}

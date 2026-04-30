@@ -1,0 +1,279 @@
+{
+  "answer": "Several Dharmaśāstra works in the corpus address rules, obligations, or normative prescriptions pertaining to widows, particularly in contexts such as remarriage (or prohibitions thereon), inheritance, debt payment, adoption restrictions, and ritual observance. These can be understood as delineating certain \"duties\" (e.g., chastity, property management, or ritual participation), though no work treats \"the duties of widows\" as a discrete topical heading or exhaustive list. Key works include:\n\n- **Āṅgirasa Smṛti**: Discusses remarriage of widows (under delusion) and restrictions on adoption by widowers.[^1][^2]\n- **Bṛhaspati Smṛti**: Prescribes the limited wealth allocation (\"share\") for virtuous widows.[^3]\n- **Kātyāyana Smṛti**: References wifely service to avoid widowhood (implying normative ideals extended to widows).[^4]\n- **Manusmṛti**: Strongly regulates *niyoga* (levirate appointment for procreation) with a widow, limits it to one son, requires subsequent guru-disciple-like conduct, and prohibits remarriage by twice-born castes.[^5]\n- **Nārada Smṛti**: States that a childless widow (appointed by her husband) should pay her husband's debts, or the heir who takes the estate must do so.[^6]\n\nOther mentions appear in **Parāśara Smṛti** (rebirth consequences), **Yājñavalkya Smṛti** (penalties for intercourse with a widow), and **Vīramitrodaya** (ritual fasts prescribed for widows, e.g., on Ekādaśī), but these are more tangential to explicit duties.[^7]\n\nModern works like Charles Comte's *Traité de la propriété* reference widows' property rights under law but not traditional duties.\n\n[^1]: Āṅgirasa Smṛti, [Chapter 1, p-e0b3e1](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-e0b3e1).\n[^2]: Āṅgirasa Smṛti, [Chapter 1, p-e38f76](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-e38f76).\n[^3]: Bṛhaspati Smṛti, [Chapter 1, p-f9d81c](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-f9d81c).\n[^4]: Kātyāyana Smṛti, [Chapter 70, p-64d13c](/works/unknown-katyayana-smrti-1e06d2/70/translation/#p-64d13c).\n[^5]: Manusmṛti, [Chapter 9](/works/unknown-manusmrti-347b76/09/translation/#p-f4dfaf).\n[^6]: Nārada Smṛti, [Chapter 1, p-e482ce](/works/unknown-naradasmrti-7650d2/01/translation/#p-e482ce).\n[^7]: Vīramitrodaya, Chapter 1 (multiple ritual paragraphs, e.g., [p-15f8c6](/works/unknown-viramitrodaya-d4b632/01/translation/#p-15f8c6)).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "duties of widows"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"widow\" duty"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"widows\" duty"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "widow duties"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "widow",
+        "limit": 50
+      },
+      "result_summary": "Found 42 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "widows",
+        "limit": 50
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e0b3e1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e38f76",
+          "p-220b95"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 70,
+        "paragraph_ids": [
+          "p-64d13c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-f4dfaf",
+          "p-94a511",
+          "p-f00094"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f9d81c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e482ce"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"widow\" \"shall\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"widow\" should"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"widow\" must"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "widow observe"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"widow\" duty OR duties"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-e0b3e1"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-e38f76"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-f9d81c"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-64d13c"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-f4dfaf"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-e482ce"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-15f8c6"
+    }
+  ],
+  "duration_ms": 51422,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 27411,
+    "completion_tokens": 5463,
+    "total_tokens": 32874,
+    "cached_tokens": 10685,
+    "api_calls": 5,
+    "cost_usd": 0.006610950000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1545,
+        "completion_tokens": 331,
+        "total_tokens": 1876,
+        "cached_tokens": 150,
+        "cost_usd": 0.000452
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1758,
+        "completion_tokens": 291,
+        "total_tokens": 2049,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00026745
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7106,
+        "completion_tokens": 1709,
+        "total_tokens": 8815,
+        "cached_tokens": 1753,
+        "cost_usd": 0.00201275
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 8364,
+        "completion_tokens": 1381,
+        "total_tokens": 9745,
+        "cached_tokens": 7101,
+        "cost_usd": 0.00129815
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8638,
+        "completion_tokens": 1751,
+        "total_tokens": 10389,
+        "cached_tokens": 150,
+        "cost_usd": 0.0025806
+      }
+    ]
+  }
+}

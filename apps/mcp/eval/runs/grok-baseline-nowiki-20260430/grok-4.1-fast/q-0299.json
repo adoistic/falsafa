@@ -1,0 +1,300 @@
+{
+  "answer": "In Allama Iqbal's *Bang-E-Dara Part 1*, the poems \"Bachay Ki Dua\" (\"A Child's Prayer,\" chapter 16) and \"Maa ka Khwab\" (\"Mother's Dream,\" chapter 29) present a poignant contrast between a child's aspirations and a mother's protective longing.[^1][^2] \n\nThe child's voice in \"Bachay Ki Dua\" is one of selfless ambition and spiritual elevation, praying to become \"like a candle's flare\" that dispels worldly darkness, a source of national pride \"like a flower that adorns the garden-side,\" devoted to knowledge \"like a moth's in its desire,\" a champion of the poor and weak, and guided righteously.[^3] This prayer embodies forward momentum toward self-sacrifice, enlightenment, and service.\n\nBy contrast, the mother's voice in \"Maa ka Khwab\" emerges from a dream vision of separation and loss: she sees her son trailing a procession of lamp-bearing boys (symbolizing purposeful lives), his own lamp unlit due to her tears of grief over his absence—\"It is your tears that have extinguished it.\"[^4] He rebukes her indirectly: her weeping offers him \"no good,\" prioritizing her emotional hold over his independent path.\n\nThese paired poems illustrate voices speaking past each other—the child's prayer seeks transcendence beyond familial bonds, while the mother's dream clings to intimacy, unwittingly dimming his light. No further explicit commentary on this dynamic appears elsewhere in the corpus.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, chapter 16 \"Bachay Ki Dua,\" [translation](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-a0420d).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, chapter 29 \"Maa ka Khwab,\" [translation](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/#p-761301).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, chapter 16 \"Bachay Ki Dua,\" [paragraphs p-28b7ba to p-39abc8](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-28b7ba).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, chapter 29 \"Maa ka Khwab,\" [paragraphs p-1d110a to p-4feffc](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/#p-1d110a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bachay ki Dua\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Maa ka Khwam\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"child's prayer\" iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mother's dream\" iqbal OR \"mother's prayer\" iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"child\" parent OR mother OR dua OR prayer iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "child prayer OR dua mother dream OR khwab iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "limit": 10
+      },
+      "result_summary": "Found 9 related"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29,
+        "limit": 10
+      },
+      "result_summary": "Found 9 related"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "topic": "parent child prayer dream"
+      },
+      "result_summary": "{\"topic\":\"parent child prayer dream\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"allama-iqbal-bang-e-dara-part-1-"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-28b7ba",
+          "p-4bb8de",
+          "p-b049bf",
+          "p-01b332",
+          "p-877b09",
+          "p-39abc8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29,
+        "paragraph_ids": [
+          "p-761301",
+          "p-1d110a",
+          "p-9c5ea5",
+          "p-508d74",
+          "p-4feffc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-a0420d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29,
+        "paragraph_ids": [
+          "p-761301"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-a0420d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-761301"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-28b7ba"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-39abc8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-1d110a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-4feffc"
+    }
+  ],
+  "duration_ms": 39795,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 58338,
+    "completion_tokens": 4802,
+    "total_tokens": 63140,
+    "cached_tokens": 34227,
+    "api_calls": 5,
+    "cost_usd": 0.00893455,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1568,
+        "completion_tokens": 1023,
+        "total_tokens": 2591,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008026
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3451,
+        "completion_tokens": 704,
+        "total_tokens": 4155,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010197
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15344,
+        "completion_tokens": 588,
+        "total_tokens": 15932,
+        "cached_tokens": 150,
+        "cost_usd": 0.0033403
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "find_related",
+          "find_related",
+          "compare_works"
+        ],
+        "prompt_tokens": 18443,
+        "completion_tokens": 1177,
+        "total_tokens": 19620,
+        "cached_tokens": 15339,
+        "cost_usd": 0.00197625
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 19532,
+        "completion_tokens": 1310,
+        "total_tokens": 20842,
+        "cached_tokens": 18438,
+        "cost_usd": 0.0017957
+      }
+    ]
+  }
+}

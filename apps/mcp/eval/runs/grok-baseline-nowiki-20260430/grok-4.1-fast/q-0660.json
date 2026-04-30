@@ -1,0 +1,243 @@
+{
+  "answer": "**In both the Nāradasmṛti and Bṛhaspati Smṛti, 'wadi' (vādī) refers to the plaintiff—the party who initiates a lawsuit by presenting a plaint (pūrva-pakṣa), setting out the grievance and claim against the defendant (pratīvādī).**[^1][^2]\n\nThese texts outline detailed procedural rules distinguishing the plaintiff from the defendant, emphasizing the order of pleadings, restraints, summons, and proof burdens. The plaintiff frames the initial plaint (containing specifics like place, time, amount, and grievance), which the defendant then counters.[^3] The king or judge protects both parties but restrains the unjust litigant (often the plaintiff if baseless), summons them, and ensures the plaintiff proves the claim unless the defendant confesses or pleads specially.[^4][^5]\n\nIn the **Bṛhaspati Smṛti**, the plaintiff (wadi) is aggrieved and approaches first; procedures include questioning them gently, granting time for plaints, and allowing restraint of their assets if unjust. Key sections detail \"The Order of Speaking for the Plaintiff and Defendant,\" where the plaintiff states the case after appearance, amendable until reply.[^6][^7]\n\nIn the **Nāradasmṛti**, the plaintiff (wadi) must ascertain case strength before plaint; they bear proof unless defendant denies fully. Disputes begin with their formal claim; evasion or silence defeats them.[^8]\n\nNeither text explicitly defines 'wadi' in isolation (as searches for variants like \"wadi,\" \"vadi,\" \"vadī\" yielded procedural contexts via \"plaintiff\"), but it is the standard Dharmashāstra term for the suing party, untranslated in originals but rendered \"plaintiff\" here.[^9]\n\n[^1]: Bṛhaspati Smṛti, Ch. 1, [translation](https://falsafa.corpus/works/unknown-brhaspati-smrti-0fd070/01/translation/).\n[^2]: Nāradasmṛti, Ch. 1, [translation](https://falsafa.corpus/works/unknown-naradasmrti-7650d2/01/translation/).\n[^3]: Bṛhaspati Smṛti, Ch. 1, ¶ [p-a30c28](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-a30c28).\n[^4]: Bṛhaspati Smṛti, Ch. 1, ¶ [p-8e89d7](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-8e89d7).\n[^5]: Nāradasmṛti, Ch. 1, ¶ [p-db9f30](/works/unknown-naradasmrti-7650d2/01/translation/#p-db9f30).\n[^6]: Bṛhaspati Smṛti, Ch. 1, ¶ [p-d745a7](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-d745a7).\n[^7]: Bṛhaspati Smṛti, Ch. 1, ¶ [p-58c5ff](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-58c5ff).\n[^8]: Nāradasmṛti, Ch. 1, ¶ [p-bf60a6](/works/unknown-naradasmrti-7650d2/01/translation/#p-bf60a6).\n[^9]: Searches confirmed \"plaintiff\" as consistent translation; no raw \"wadi/vadi\" in English bodies, but procedural equivalence holds.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wadi plaintiff",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wadi\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wadi narada",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wadi brhaspati",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "law"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vadi",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vadī\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "plaintiff",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "claimant",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vādī\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vadin",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-a30c28"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-8e89d7"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-db9f30"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-d745a7"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-58c5ff"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-bf60a6"
+    }
+  ],
+  "duration_ms": 42904,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 140846,
+    "completion_tokens": 3454,
+    "total_tokens": 144300,
+    "cached_tokens": 20793,
+    "api_calls": 5,
+    "cost_usd": 0.02677725,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 543,
+        "total_tokens": 2105,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0003541
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 1853,
+        "completion_tokens": 141,
+        "total_tokens": 1994,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0002113
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 5176,
+        "completion_tokens": 804,
+        "total_tokens": 5980,
+        "cached_tokens": 1848,
+        "cost_usd": 0.00116
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 10715,
+        "completion_tokens": 452,
+        "total_tokens": 11167,
+        "cached_tokens": 5171,
+        "cost_usd": 0.00159335
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 121540,
+        "completion_tokens": 1514,
+        "total_tokens": 123054,
+        "cached_tokens": 10710,
+        "cost_usd": 0.0234585
+      }
+    ]
+  }
+}

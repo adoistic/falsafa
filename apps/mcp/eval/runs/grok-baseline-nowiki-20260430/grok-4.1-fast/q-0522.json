@@ -1,0 +1,456 @@
+{
+  "answer": "**No work in the corpus directly addresses the question of \"how the past should bind the present\" as a central theme.** However, several works engage indirectly with related concepts, particularly the tension between inherited traditions (past laws, customs, doctrines) and present obligations or natural rights. These fall into two categories:\n\n### Indic Smṛti Texts (Dharma Literature)\nThese ancient legal/moral treatises define *Dharma* (law, duty, righteousness) through sources rooted in the past: **Śruti** (revealed Veda), **Smṛti** (\"remembered\" traditions of sages), customs (*ācāra*) of the virtuous (*sadācāra*), and practices of the good. They bind the present via ancestral authority, but allow flexibility through conscience or local custom—implying the past *informs* but does not rigidly dictate the present.[^1][^2][^3][^4][^5]\n\n- **Manusmṛti** (primary engagement): Dharma's \"root-source\" is Veda/Smṛti, virtuous conduct, and self-satisfaction; past traditions guide but conflict resolution favors learned virtuous consensus.[^6]\n- **Kātyāyana Smṛti**: References \"local custom\" (*deśācāra*) validating documents/rites; weighs Śruti, procedure, custom, royal edicts.[^7]\n- **Nāradasmṛti**, **Bṛhaspati Smṛti**, **Aṅgirasa Smṛti**, etc.: Invoke precedents (*pūrva*), virtuous customs; disputes resolved by \"proclaimed virtuous\" testimony.[^8]\n\nThese treat the past (Smṛti/customs) as authoritative yet contextual, not absolute—engaging binding via tradition vs. present equity.\n\n### Charles Comte's Works (Critique of Inherited Doctrines)\nComte argues ancient slave-owning doctrines (Roman jurists, feudal customs) improperly *bind* modern free societies, distorting property/liberty. Past jurisprudence (e.g., slavery-based rights) must yield to natural laws observed in present facts.[^9][^10]\n\n- **Traité de Législation (Vols. I–IV)**: Critiques systems where past \"natural laws\" (Roman/Grotius) or conventions bind present; urges analytical method over inherited errors.[^11]\n- **Traité de la Propriété (Vols. I–II)**: Past slave doctrines corrupt modern property ideas; liberty rejects ancestral binding.[^12]\n\n**Honest assessment**: The corpus (37 works) lacks comprehensive treatment; Smṛtis affirm past traditions/customs as Dharma sources (binding via virtuous practice), Comte rejects past errors binding present liberty. No explicit philosophical debate (e.g., Burke vs. revolutionaries). Topics like precedent in law appear tangentially.[^13]\n\n[^1]: Manusmṛti, Ch. 2, [/works/unknown-manusmrti-347b76/02/translation/#p-d70b97].\n[^2]: Ibid., [/works/unknown-manusmrti-347b76/02/translation/#p-608b3f].\n[^3]: Bṛhaspati Smṛti, Ch. 1, [/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-58c5ff].\n[^4]: Aṅgirasa Smṛti, Ch. 1, [/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-4c73fa].\n[^5]: Kātyāyana Smṛti, Ch. 4, [/works/unknown-katyayana-smrti-1e06d2/04/translation/#p-44d48b].\n[^6]: Manusmṛti, Ch. 2 (full), [/works/unknown-manusmrti-347b76/02/translation/].\n[^7]: Kātyāyana Smṛti, multiple chs., e.g., Ch. 25 [/works/unknown-katyayana-smrti-1e06d2/25/translation/#p-f61337]; Ch. 53 [/works/unknown-katyayana-smrti-1e06d2/53/translation/#p-4e9200].\n[^8]: Nāradasmṛti, Ch. 1, [/works/unknown-naradasmrti-7650d2/01/translation/#p-3ff7ac].\n[^9]: Traité de Législation I, Ch. 1, [/works/charles-comte-traite-de-legislation-vol-i-7e62a2/01/translation/].\n[^10]: Ibid., Ch. 5, [/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05/translation/#p-ed7762].\n[^11]: Ibid., Chs. 5–8 (full critique of past systems), [/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05/translation/].\n[^12]: Traité de la Propriété I, Preface/Ch. 1, [/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/00-preface/translation/#p-a65ce7]; [/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01/translation/#p-1295cf].\n[^13]: E.g., minor refs. in Dunoyer (customs' influence), but no deep engagement.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"past\" \"present\" \"bind\"",
+        "limit": 100
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bound by the past\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"authority of tradition\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"past binds future\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tradition binds\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"custom binds\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ancestors\" \"bind\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"future generations\" \"bound\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"posterity\" \"bound\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Political & Social Theory"
+      },
+      "result_summary": "Listed 7 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Philosophy"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Indic"
+      },
+      "result_summary": "Listed 19 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"custom\" \"law\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tradition\" \"law\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"past\" \"law\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"binding\" \"custom\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"authority\" \"past\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ancestors\" \"law\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forefathers\" \"bind\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bind OR binding OR bound tradition OR custom OR precedent OR ancestors",
+        "limit": 100
+      },
+      "result_summary": "Found 53 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"force of custom\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 8
+      },
+      "result_summary": "Read ch.8 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 0
+      },
+      "result_summary": "Read ch.0 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"source of dharma\" OR smriti OR \"remembered\" OR \"custom of virtuous\" OR \"practice of the good\"",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 1,
+      "paragraph_id": "p-d70b97"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 1,
+      "paragraph_id": "p-608b3f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 1,
+      "paragraph_id": "p-58c5ff"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 1,
+      "paragraph_id": "p-4c73fa"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 1,
+      "paragraph_id": "p-44d48b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 1,
+      "paragraph_id": "p-f61337"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 1,
+      "paragraph_id": "p-4e9200"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 1,
+      "paragraph_id": "p-3ff7ac"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 1,
+      "paragraph_id": "p-ed7762"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 1,
+      "paragraph_id": "p-a65ce7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 1,
+      "paragraph_id": "p-1295cf"
+    }
+  ],
+  "duration_ms": 95538,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 139907,
+    "completion_tokens": 7986,
+    "total_tokens": 147893,
+    "cached_tokens": 40938,
+    "api_calls": 5,
+    "cost_usd": 0.0258337,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 1526,
+        "total_tokens": 3080,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010513
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5455,
+        "completion_tokens": 1498,
+        "total_tokens": 6953,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018175
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8309,
+        "completion_tokens": 1589,
+        "total_tokens": 9898,
+        "cached_tokens": 5450,
+        "cost_usd": 0.0016388
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 26889,
+        "completion_tokens": 1613,
+        "total_tokens": 28502,
+        "cached_tokens": 8304,
+        "cost_usd": 0.0049387
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 97700,
+        "completion_tokens": 1760,
+        "total_tokens": 99460,
+        "cached_tokens": 26884,
+        "cost_usd": 0.0163874
+      }
+    ]
+  }
+}

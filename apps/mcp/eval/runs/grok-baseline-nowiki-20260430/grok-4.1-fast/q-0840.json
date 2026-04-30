@@ -1,0 +1,204 @@
+{
+  "answer": "**In Charles Comte's *Traité de Législation, Vol. I* (1834), Chapter 5 (\"Des lois auxquelles les hommes sont assujettis par leur propre nature\"), Comte defines \"natural laws\" (*lois de la nature*) as the invariable connections between causes and their effects observed in human (and more broadly, organic) nature—much like physical laws.[^1] He does not present an exhaustive or numbered list of such laws as a foundational code (and in fact critiques jurists like Ulpian, Grotius, Domat, Montesquieu, and Blackstone for doing so arbitrarily), but illustrates the concept through concrete examples drawn from basic human needs and physiology.[^2] These serve to show how humans are subject to empirical necessities for preservation, regardless of positive (human-made) laws.**\n\nComte enumerates the following examples of natural laws applying to humans:\n\n- **Abstinence from food**: An individual who abstains from food for a given time suffers pain; prolonged abstinence leads to death.[^3]\n- **Exposure to fire**: One who exposes their organs to fire is warmed or burned, depending on proximity.[^3]\n- **Deprivation of air**: Deprivation of necessary breathable air causes suffering or death, based on duration and extent.[^3]\n- **Union of the sexes**: Leads to the multiplication of the species.[^3]\n- **Excessive pleasures**: Pleasures repeated too often or prolonged too long weaken the organs.[^3]\n- **Moderate exercise**: Strengthens the organs.[^3]\n\n**He emphasizes that these laws are universal, stemming from human organization (like hunger, thirst, cold, heat, fear, security), and produce identical effects across individuals or societies.[^4] Violating them leads to decline; conforming brings prosperity. Comte contrasts this empirical view with juristic \"natural law\" systems, which he sees as vague maxims or innate ideas lacking factual basis, often leading to contradictions.[^5] For instance, he notes jurists disagree on whether inheritance or mere parental support is \"natural,\" and dismisses claims of divine promulgation via \"right reason\" or \"universal consent.\"[^6]**\n\n**No other systematic enumeration appears in the chapter; the focus shifts to critiquing rival theories (e.g., Montesquieu's five pre-societal laws: toward God, peace, nourishment, sex, society) and defending natural laws as observable cause-effect relations essential for legislation.[^7] The *Traité de la Propriété* (a related later work by Comte) discusses physical dependencies (air, light, heat, food, sex, clothing, shelter) but frames them under \"appropriation\" rather than as enumerated \"natural laws.\"[^8]**\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 5 (translation)](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/).\n\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [p-2c4dfb](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/#p-2c4dfb).\n\n[^3]: Charles Comte, *Traité de Législation: VOL I*, [p-2c4dfb](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/#p-2c4dfb).\n\n[^4]: Charles Comte, *Traité de Législation: VOL I*, [p-f10f47](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/#p-f10f47).\n\n[^5]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 5 (translation)](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/).\n\n[^6]: Charles Comte, *Traité de Législation: VOL I*, [p-36e87f](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/#p-36e87f).\n\n[^7]: Charles Comte, *Traité de Législation: VOL I*, [p-eac636](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/#p-eac636).\n\n[^8]: Charles Comte, *Traité de la propriété: VOL I*, [Chapter 5 (translation)](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/05-de-lappropriation-des-choses-en-general/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-volume-1"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: charles-comte-traite-de-la-propriete-volume-1"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-468941"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-431d8b",
+          "p-7d9b84"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-e68210"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-2c4dfb"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-f10f47"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-36e87f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-eac636"
+    }
+  ],
+  "duration_ms": 44877,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 56273,
+    "completion_tokens": 5368,
+    "total_tokens": 61641,
+    "cached_tokens": 24544,
+    "api_calls": 6,
+    "cost_usd": 0.010256999999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 250,
+        "total_tokens": 1813,
+        "cached_tokens": 149,
+        "cost_usd": 0.00041525
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_chapters"
+        ],
+        "prompt_tokens": 2365,
+        "completion_tokens": 529,
+        "total_tokens": 2894,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00050815
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter"
+        ],
+        "prompt_tokens": 8370,
+        "completion_tokens": 1443,
+        "total_tokens": 9813,
+        "cached_tokens": 2360,
+        "cost_usd": 0.0020415
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 9494,
+        "completion_tokens": 921,
+        "total_tokens": 10415,
+        "cached_tokens": 8365,
+        "cost_usd": 0.00110455
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_works"
+        ],
+        "prompt_tokens": 11996,
+        "completion_tokens": 399,
+        "total_tokens": 12395,
+        "cached_tokens": 150,
+        "cost_usd": 0.0025762
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 22485,
+        "completion_tokens": 1826,
+        "total_tokens": 24311,
+        "cached_tokens": 11991,
+        "cost_usd": 0.00361135
+      }
+    ]
+  }
+}

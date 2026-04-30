@@ -1,0 +1,275 @@
+{
+  "answer": "**Ghalib's couplet** (from his ghazal on the diminished grace of beauty absent its proper context, evoking the beloved's absence):  \n\nآبرو کیا خاک اس گل کی کہ گلشن میں نہیں  \nہے گریباں ننگِ پیراہن جو دامن میں نہیں[^1]  \n\n**Word count**: 18 total tokens (excluding punctuation). **Persian-origin words**: 10 (آبرو, خاک, اس, گل, کہ, گلشن, گریباں, ننگ, پیراہن, دامن; ~56%). These dominate the imagery and core nouns, with lighter Hindi function words (کیا, کی, ہے, جو, میں×2, نہیں×2).  \n\n**Iqbal's couplet** (from his ghazal on seeking the divine/reality externally only to discover it within the heart's hidden dwellers, a theme of inner self-discovery):  \n\nجنھيں میں ڈھونڈتا تھا آسمانوں میں زمينوں میں  \nوہ نکلے میرے ظلمت خانہ دل کے مکينوں میں[^2]  \n\n**Word count**: 17 total tokens. **Persian-origin words**: 6 (آسمانوں, زمينوں, ظلمت, خانہ, دل, مکينوں; ~35%). Verbs and pronouns lean Hindi-origin (ڈھونڈتا, تھا, نکلے, میں×3, جنھيں, وہ, میرے, کے), making it more vernacular.  \n\nThe lexical difference—Ghalib's heavier Perso-Arabic density vs. Iqbal's balanced mix—signals **audience intent**. Ghalib, in 19th-century Mughal decline, targeted an elite, Persian-literate *tashkheer* (aristocracy/literati) versed in classical *farsi-adab* traditions, where Persian lexicon signaled sophistication.[^3] Iqbal, writing amid colonial modernity and Muslim awakening (1924), aimed at a broader *ummat* (community), blending accessible Hindi-Urdu for mass inspiration, empowerment, and Islamic revival—less esoteric, more populist.[^4]  \n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 2, [p-2ce2d0](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/02-aabroo-kya-khaak-uss-gul-ki-ke-gulshan-mein-nahin/original/#p-2ce2d0).  \n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 4, [p-c0943e](/works/allama-iqbal-bang-e-dara-part-1-55b25c/04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m/original/#p-c0943e).  \n[^3]: Cf. Ghalib's full ghazal context on ruinous love.[^5]  \n[^4]: Cf. Iqbal's ghazal emphasizing heart's inner reality.[^6]  \n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 2, [full chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/02-aabroo-kya-khaak-uss-gul-ki-ke-gulshan-mein-nahin/original/).  \n[^6]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 4, [full chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m/original/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "topic": "love"
+      },
+      "result_summary": "{\"topic\":\"love\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "topic": "self"
+      },
+      "result_summary": "{\"topic\":\"self\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "topic": "wine"
+      },
+      "result_summary": "{\"topic\":\"wine\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "topic": "god"
+      },
+      "result_summary": "{\"topic\":\"god\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-G"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 2,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.2 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-1-55b25c (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.1 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-1-55b25c (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-2ce2d0"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-c0943e"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-2ce2d0"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-c0943e"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-2ce2d0"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-c0943e"
+    }
+  ],
+  "duration_ms": 70047,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 31775,
+    "completion_tokens": 8275,
+    "total_tokens": 40050,
+    "cached_tokens": 16542,
+    "api_calls": 5,
+    "cost_usd": 0.0080112,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1583,
+        "completion_tokens": 412,
+        "total_tokens": 1995,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00029325
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2751,
+        "completion_tokens": 1181,
+        "total_tokens": 3932,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00091135
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "compare_works",
+          "compare_works",
+          "compare_works",
+          "compare_works"
+        ],
+        "prompt_tokens": 4721,
+        "completion_tokens": 994,
+        "total_tokens": 5715,
+        "cached_tokens": 2746,
+        "cost_usd": 0.0010293
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 10593,
+        "completion_tokens": 3010,
+        "total_tokens": 13603,
+        "cached_tokens": 150,
+        "cost_usd": 0.0036011
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 12127,
+        "completion_tokens": 2678,
+        "total_tokens": 14805,
+        "cached_tokens": 10588,
+        "cost_usd": 0.0021762
+      }
+    ]
+  }
+}

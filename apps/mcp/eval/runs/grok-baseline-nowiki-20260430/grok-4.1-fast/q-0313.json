@@ -1,0 +1,218 @@
+{
+  "answer": "**Iqbal's \"Khitāb ba Jawānān-e-Islām\" (Bang-e-Dara Part 3, Chapter 13)** is a direct poetic address in the second person (\"you\"), opening with a rhetorical question to the \"Muslim youth\" and sustaining that voice to provoke self-examination and action: \"Have you ever, / O Muslim youth, paused for solemn reflection?\"[^1] The poem demands revival by evoking ancestral glory (\"World-seizers and world-rulers\") against modern decay (\"you are all talk, they were all action\"), but heavily hedges this imperative with historical exposition, prophetic imagery (e.g., Jacob's eye in Zulaikha's gaze), and lament over lost knowledge now held in Europe.[^2] Iqbal does not trust the second-person alone; the bulk (~80% of verses) explains the gap between past and present to motivate.\n\n**Cynewulf's epilogues** in *Juliana* and *Elene* (his signed poems; *Andreas* lacks a personal epilogue) likewise shift to first-person pleas in the second person, urging readers (\"every person of humankind\") to intercede via prayer on his behalf at judgment.[^3] In *Juliana*: \"I ask every person of humankind, / who recites this poem, that he, mindful, / earnestly remember me by my name, / and **pray** to the Molder...\"[^4] In *Elene*, it's more reflective but exhorts general righteousness: \"Therefore they now shine in beauty...\" with an implicit audience demand to heed the Judgment Day division.[^5] Cynewulf hedges extensively: he first confesses sins (\"stained by my deeds, shackled by sins\"), details life's transience (\"Joy has waned with the years\"), and describes Judgment mechanics before the direct ask/prayer command. Like Iqbal, he relies on explanation to compel action.\n\nNeither fully trusts the bare second-person imperative; both embed it in personal/historical context to ensure efficacy.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, Ch. 13 [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).\n\n[^2]: Ibid., [full chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/).\n\n[^3]: Cynewulf, *Juliana*, Ch. 1 [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-e769dc); *Elene*, Ch. 1 [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607).\n\n[^4]: Cynewulf, *Juliana*, Ch. 1 [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-1f8ce8).\n\n[^5]: Cynewulf, *Elene*, Ch. 1 [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf",
+        "language": "old-english"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Khitāb ba Jawānān-e-Islām\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Address to the Young Men of Islam\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "thou OR you OR thy",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"young men\" OR jawan OR jawanan"
+      },
+      "result_summary": "Found 23 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pray for\" OR \"intercede\" OR \"Cynewulf\" OR \"Cynwulf\"",
+        "limit": 10
+      },
+      "result_summary": "Found 5 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-e769dc"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-d2e607"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-1f8ce8"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    }
+  ],
+  "duration_ms": 36658,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 70154,
+    "completion_tokens": 3640,
+    "total_tokens": 73794,
+    "cached_tokens": 8445,
+    "api_calls": 4,
+    "cost_usd": 0.01458405,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1593,
+        "completion_tokens": 396,
+        "total_tokens": 1989,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0002868
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6619,
+        "completion_tokens": 833,
+        "total_tokens": 7452,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017178
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10787,
+        "completion_tokens": 844,
+        "total_tokens": 11631,
+        "cached_tokens": 6614,
+        "cost_usd": 0.0015873
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 51155,
+        "completion_tokens": 1567,
+        "total_tokens": 52722,
+        "cached_tokens": 149,
+        "cost_usd": 0.01099215
+      }
+    ]
+  }
+}

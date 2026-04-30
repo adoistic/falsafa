@@ -1,0 +1,194 @@
+{
+  "answer": "In the Old English poem *The Wanderer* (chapter 11 of *Old English Elegies*), the speaker—an exiled \"lone-dweller\" or \"earth-stepper\"—reflects on his sorrowful separation from his lord (\"gold-friend\") and \"dear kinsmen,\" evoking the past communal joys of the mead-hall (and related \"wine-halls\") that have been destroyed by fate (*wyrd*), war, and time.[^1]\n\nThe wanderer explicitly recalls \"grim slaughters, the fall of dear kinsmen,\" leaving him \"far from free kinsmen,\" with no one alive to hear his secrets.[^2] Memories of lost \"kinsmen\" haunt his dreams, renewing sorrow as he greets \"the host of warriors\" who then vanish like sea-birds.[^3] He mourns how earls and \"proud young thanes\" suddenly \"left the hall-floor,\" emphasizing the transience of human bonds: \"Here wealth is loaned, here a friend is loaned, here man is loaned, here a kinsman is loaned.\"[^4]\n\nThe mead-hall symbolizes lost fellowship and reward. In exile, he seeks \"hall-sad, a giver of treasure\" who \"in the mead-hall my love would know\" or offer comfort and \"joys,\" but finds none.[^5] He remembers \"hall-warriors and the taking of treasure,\" when his \"gold-friend welcomed him to the feast,\" but \"all that joy has perished.\"[^6] Later, ruined \"wine-halls crumble, their lords lie deprived of joy,\" their inhabitants scattered by war, birds, wolves, or burial.[^7] The poem culminates in lament: \"Where have the feast-benches gone? Where are the hall-joys? Alas, the bright cup!\"—all vanished \"as if it never were.\"[^8]\n\n[^1]: *Old English Elegies*, ch. 11 (*The Wanderer*), [translation/](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/).\n\n[^2]: *Old English Elegies*, ch. 11 (*The Wanderer*), [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^3]: *Old English Elegies*, ch. 11 (*The Wanderer*), [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^4]: *Old English Elegies*, ch. 11 (*The Wanderer*), [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^5]: *Old English Elegies*, ch. 11 (*The Wanderer*), [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^6]: *Old English Elegies*, ch. 11 (*The Wanderer*), [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^7]: *Old English Elegies*, ch. 11 (*The Wanderer*), [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^8]: *Old English Elegies*, ch. 11 (*The Wanderer*), [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mead-hall wanderer",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lost kinsmen\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mead hall",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kinsmen wanderer",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lone-dweller\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mead-hall",
+        "limit": 10
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lord wanderer",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9462cc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9cca5e",
+          "p-9462cc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9462cc"
+    }
+  ],
+  "duration_ms": 36044,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 22479,
+    "completion_tokens": 4061,
+    "total_tokens": 26540,
+    "cached_tokens": 13668,
+    "api_calls": 5,
+    "cost_usd": 0.0044761,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 645,
+        "total_tokens": 2197,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006104
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2129,
+        "completion_tokens": 520,
+        "total_tokens": 2649,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00045645
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3593,
+        "completion_tokens": 263,
+        "total_tokens": 3856,
+        "cached_tokens": 2124,
+        "cost_usd": 0.0005315
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6282,
+        "completion_tokens": 745,
+        "total_tokens": 7027,
+        "cached_tokens": 3588,
+        "cost_usd": 0.0010907
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 8923,
+        "completion_tokens": 1888,
+        "total_tokens": 10811,
+        "cached_tokens": 6277,
+        "cost_usd": 0.00178705
+      }
+    ]
+  }
+}

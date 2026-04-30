@@ -1,0 +1,325 @@
+{
+  "answer": "**San Hyan Kamahayanikan** contains several explicit catalogues of named divine figures, including past Buddhas (Vipaśyin, Viśvabhū, Krakucchanda, Kanakamuni, Kāśyapa), future Buddhas (Ārya Maitreya up to Samantabhadra), and present Buddha (Śrī Śākyamuni); the four goddesses in Vairocana's retinue (Satvavajrī, Ratnavajrī, Dharmavajrī, Karmavajrī); and the four primary goddesses (Locanā, Pāṇḍaravāsinī, Māmakī, Tārā), alongside the Pañcatathāgata (Vairocana, Akṣobhya, Ratnasambhava, Amitābha, Amoghasiddhi).[^1][^2][^3][^4]\n\n**Slokantara** catalogues the four sister-goddesses of Rudra (Umā, Gaṅgā, Gaurī, Durgā), emulated by the *kṛṣṇa-brahmacārī*; and the eight Cāṇḍālas (seller of lime, seller of palm-wine, seller of indigo, launderer, potter, butcher, goldsmith, dyer), with a variant list of five (palm-wine tapper, launderer, butcher, potter, goldsmith).[^5][^6]\n\n**San Hyan Tattvajnana** features extensive lists of deities (Brahmā, Viṣṇu, Īśvara, Pañcaṛṣi, Saptaṛṣi, Devaṛṣi, Indra, Yama, Varuṇa, Kubera, Vaiśravaṇa, Vidyādhara, Gandharva, Dānava, Daitya, Rākṣasa, Bhūta, Yakṣa, Bhūta Dĕṅĕn, Bhūtakāla, Bhūtapiśāca); catalogues of *yoni*s for *buddhi-sattva* (Tripuruṣa, Pañcaṛṣi [Kuśika, Garga, Maitrī, Kuruṣya, Pṛtañjala], Saptaṛṣi, Devaṛṣi); for *buddhi-rajas* (Dānava, Daitya, Rākṣasa); and for *buddhi-tamas* (Bhūta Yakṣa, Bhūta Dĕṅĕn, Bhūta Kāla, Bhūta Piśāca), with descent chains (e.g., Tripuruṣa → Pañcaṛṣi → Saptaṛṣi → ... → Bhūta Piśāca → human → *triyak*).[^7][^8][^9]\n\nNo other works in the corpus contain such explicit lists or catalogues of named figures (e.g., Nāradasmṛti lists marriage forms and defects; Yājñavalkya Smṛti lists organs; economic treatises list virtues or citizens abstractly). Searches for kings, sons, sages yielded no matches.\n\n[^1]: San Hyan Kamahayanikan, Chapter 1, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-6156f1).\n[^2]: San Hyan Kamahayanikan, Chapter 1, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-53bcda).\n[^3]: San Hyan Kamahayanikan, Chapter 1, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-d40865).\n[^4]: San Hyan Kamahayanikan, Chapter 1, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-7298d4).\n[^5]: Slokantara, Chapter 1, [paragraph](/works/unknown-slokantara-d7a628/01/translation/#p-06703e).\n[^6]: Slokantara, Chapter 1, [paragraph](/works/unknown-slokantara-d7a628/01/translation/#p-c9e9c6).\n[^7]: San Hyan Tattvajnana, Chapter 1, [paragraph](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-9fea48).\n[^8]: San Hyan Tattvajnana, Chapter 1, [paragraph](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-62aca4).\n[^9]: San Hyan Tattvajnana, Chapter 1, [paragraph](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-f94448).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "list of",
+        "limit": 50
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "catalogue of",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kings of\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sons of\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"names of the\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"list of the\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the list of\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "goddesses",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the gods\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kings list",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"such as the\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the four\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the five\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ṛṣi",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"list of sages\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the sages\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kings of the\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-slokantara-d7a628 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-6156f1"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-53bcda"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-d40865"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-7298d4"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-06703e"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-c9e9c6"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-9fea48"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-62aca4"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-f94448"
+    }
+  ],
+  "duration_ms": 41269,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 132644,
+    "completion_tokens": 5620,
+    "total_tokens": 138264,
+    "cached_tokens": 30160,
+    "api_calls": 5,
+    "cost_usd": 0.0248148,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1548,
+        "completion_tokens": 688,
+        "total_tokens": 2236,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00042425
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 6444,
+        "completion_tokens": 1138,
+        "total_tokens": 7582,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0016283
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 8911,
+        "completion_tokens": 1136,
+        "total_tokens": 10047,
+        "cached_tokens": 6439,
+        "cost_usd": 0.00138435
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11761,
+        "completion_tokens": 873,
+        "total_tokens": 12634,
+        "cached_tokens": 8906,
+        "cost_usd": 0.0014528
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 103980,
+        "completion_tokens": 1785,
+        "total_tokens": 105765,
+        "cached_tokens": 11756,
+        "cost_usd": 0.0199251
+      }
+    ]
+  }
+}

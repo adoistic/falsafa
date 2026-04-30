@@ -1,0 +1,196 @@
+{
+  "answer": "In Allama Iqbal's poem *Haqeeqat-e-Husn* (\"The Reality of Beauty\"), Beauty is personified as questioning God (Khuda) directly about why it was not granted eternal life: \"To God one day, did Beauty ask aloud, 'Why was I not with endless life endowed?'\"[^1]  \n\nGod's response frames beauty's metaphysical reality as inherently tied to the transient nature of the created world: \"This world's a hall of sight, / A tale told from non-being's endless night. / When from the hue of constant change it's made, / True beauty is a thing that has to fade.\"[^2] Thus, while beauty emerges from the divine source (implied by its address to God), its essence in this realm is ephemerality, as the cosmos itself is constituted by flux and impermanence—a motif echoed through the poem's ripple of grief among natural phenomena like the Moon, Dawn, Dew, flowers, Spring, and Youth.[^3]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, \"Haqeeqat-e-Husn\" [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/12-haqeeqat-e-husn/translation/#p-dfb149).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 2*, \"Haqeeqat-e-Husn\" [passage](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/12-haqeeqat-e-husn/translation/#p-5bdd8f-p-d64cba).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 2*, [Haqeeqat-e-Husn](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/12-haqeeqat-e-husn/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Haqeeqat-e-Husn"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"reality of beauty\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Haqeeqat Husn"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "dfb149",
+          "5bdd8f",
+          "d64cba"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "4a6546"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-dfb149",
+          "p-5bdd8f",
+          "p-d64cba"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-4a6546"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 12,
+      "paragraph_id": "p-dfb149"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 12,
+      "paragraph_id": "p-5bdd8f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 12,
+      "paragraph_id": "p-d64cba"
+    }
+  ],
+  "duration_ms": 38628,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 16036,
+    "completion_tokens": 3743,
+    "total_tokens": 19779,
+    "cached_tokens": 8095,
+    "api_calls": 5,
+    "cost_usd": 0.0038644499999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 477,
+        "total_tokens": 2039,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00032155
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2762,
+        "completion_tokens": 178,
+        "total_tokens": 2940,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00041175
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 3361,
+        "completion_tokens": 845,
+        "total_tokens": 4206,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010722
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 3661,
+        "completion_tokens": 752,
+        "total_tokens": 4413,
+        "cached_tokens": 3356,
+        "cost_usd": 0.0006048
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 4690,
+        "completion_tokens": 1491,
+        "total_tokens": 6181,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00145415
+      }
+    ]
+  }
+}

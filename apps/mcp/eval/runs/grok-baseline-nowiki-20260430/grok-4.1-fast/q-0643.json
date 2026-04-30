@@ -1,0 +1,260 @@
+{
+  "answer": "For Allama Iqbal, *taqlīd* (طَقْلِيدْ, appearing as \"taqleed\" in transliteration) represents **blind imitation** or mechanical adherence, particularly in religious or spiritual practice—a habit he portrays as spiritually deadening and inferior even to self-destruction (*khudkushī*). In his poetry, he urges transcending it to pursue an authentic, self-forged path (*rasta*), rejecting reliance on external authorities like the legendary guide Khizr.[^1]\n\nIqbal further declares the era of *taqlīd* over (*gaya hai taqleed ka zamana*), supplanted by an age where truth (*ḥaqīqat*) manifests directly, rendering imitation (*majāz*) obsolete and mere talk unnecessary.[^2]\n\nThese poetic critiques align with Iqbal's broader philosophy of dynamic selfhood (*khudī*) over static conformity, though his prose works (e.g., *The Reconstruction of Religious Thought in Islam*) critiquing *taqlīd* in Islamic jurisprudence are not in this corpus.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 9 (\"Majnoon ne sheher chhora to sehra bhi chhor de\"), [p-e3d084](/works/allama-iqbal-bang-e-dara-part-1-55b25c/09-majnoon-ne-sheher-chhora-to-sehra-bhi-chhor-de/translation/#p-e3d084).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 6 (\"Zamana dekhe ga jab mere dil se mahshar uthe ga guftugu ka\"), [p-4b6816](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/06-zamana-dekhe-ga-jab-mere-dil-se-mahshar-uthe-ga-gu/translation/#p-4b6816).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "taqlid",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal taqlid",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Allama Iqbal\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "taqleed"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "taqlid OR taqleed OR taqlîd",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "philosophy"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 9,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 6,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.6 of allama-iqbal-bang-e-dara-part-2-9bc58c (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"blind following\" OR imitation OR \"uncritical adherence\" Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-e3d084"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-4b6816"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "taqlid OR taqleed OR taqlîd OR \"blind imitation\" Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 6,
+      "paragraph_id": "p-e3d084"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 6,
+      "paragraph_id": "p-4b6816"
+    }
+  ],
+  "duration_ms": 47117,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 37306,
+    "completion_tokens": 4897,
+    "total_tokens": 42203,
+    "cached_tokens": 22711,
+    "api_calls": 5,
+    "cost_usd": 0.006503050000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1557,
+        "completion_tokens": 636,
+        "total_tokens": 2193,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003999
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2169,
+        "completion_tokens": 1056,
+        "total_tokens": 3225,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009393
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 6550,
+        "completion_tokens": 952,
+        "total_tokens": 7502,
+        "cached_tokens": 2164,
+        "cost_usd": 0.0014614
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12327,
+        "completion_tokens": 876,
+        "total_tokens": 13203,
+        "cached_tokens": 6545,
+        "cost_usd": 0.00192165
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 14703,
+        "completion_tokens": 1377,
+        "total_tokens": 16080,
+        "cached_tokens": 12322,
+        "cost_usd": 0.0017808
+      }
+    ]
+  }
+}

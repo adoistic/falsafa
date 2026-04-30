@@ -1,0 +1,377 @@
+{
+  "answer": "**In Manusmṛti chapter 5, the text mentions impurity (*aśauca*) arising from childbirth and death in the context of prohibited foods.**\n\nOne passage notes that food should be avoided \"from a house under impurity from childbirth\" (referring to the period of ritual pollution following a birth).[^1] Another specifies avoiding \"food offered to a corpse before the ten days of impurity are over,\" indicating a standard ten-day period of impurity after death.[^2]\n\nThese references appear amid a longer list of impure or forbidden foods (Manusmṛti 4.212–217, placed at the start of the chapter 5 translation). The text does not provide further details on the exact duration for birth impurity here (though a later parallel in 5.58, in chapter 6, equates it to the ten-day death impurity for sapindas/kinsmen). No more specific rules on varying periods by caste or kin relation appear in chapter 5 itself.[^3]\n\n[^1]: Manusmṛti, [paragraph](/works/unknown-manusmrti-347b76/05/translation/#p-7851cc).\n[^2]: Manusmṛti, [paragraph](/works/unknown-manusmrti-347b76/05/translation/#p-15103f).\n[^3]: Manusmṛti, [chapter](/works/unknown-manusmrti-347b76/06/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "impurity period after birth death",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity\" birth death Manu",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity\" birth OR death",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ten days\" impurity",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "impurity period birth death",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"days of impurity\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ten days\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"three days\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "birth death days",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"death\" OR \"birth\" \"days\" OR \"nights\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"unclean\" OR \"defiled\" OR \"polluted\" birth OR death",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity from childbirth\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmana\" impure OR impurity OR unclean OR polluted OR defiled birth OR death OR corpse",
+        "limit": 20
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ten\" OR \"three\" days birth OR death Manu",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"corpse\" OR \"birth\" OR \"childbirth\" OR \"death\" Manu chapter 5",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ten nights\" OR \"ten days\" OR \"three nights\" birth OR death",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sūtaka\" OR \"sutaka\" OR \"ashaucha\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-89d810"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impure\" kinsmen OR sapindas OR samanatras",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ten nights\" OR \"ten days\" OR \"three nights\" OR \"three days\" impurity OR impure OR unclean OR defiled OR polluted",
+        "limit": 20
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-7851cc",
+          "p-15103f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sapindas\" OR \"sapiṇḍas\" OR \"sūdras\" impurity OR impure OR unclean",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ten nights\" OR \"ten days\" OR \"three nights\" OR \"three days\" corpse OR birth OR death OR child",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 5,
+      "paragraph_id": "p-7851cc"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 5,
+      "paragraph_id": "p-15103f"
+    }
+  ],
+  "duration_ms": 114895,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 140377,
+    "completion_tokens": 12597,
+    "total_tokens": 152974,
+    "cached_tokens": 89008,
+    "api_calls": 9,
+    "cost_usd": 0.0210227,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 668,
+        "total_tokens": 2223,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0004155
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 1794,
+        "completion_tokens": 277,
+        "total_tokens": 2071,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00026795
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter"
+        ],
+        "prompt_tokens": 8387,
+        "completion_tokens": 944,
+        "total_tokens": 9331,
+        "cached_tokens": 1789,
+        "cost_usd": 0.00188105
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8648,
+        "completion_tokens": 823,
+        "total_tokens": 9471,
+        "cached_tokens": 8382,
+        "cost_usd": 0.0008838
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14060,
+        "completion_tokens": 1284,
+        "total_tokens": 15344,
+        "cached_tokens": 8643,
+        "cost_usd": 0.00215755
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18011,
+        "completion_tokens": 1909,
+        "total_tokens": 19920,
+        "cached_tokens": 14055,
+        "cost_usd": 0.00244845
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22196,
+        "completion_tokens": 2878,
+        "total_tokens": 25074,
+        "cached_tokens": 150,
+        "cost_usd": 0.0058557
+      },
+      {
+        "api_call_index": 8,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 30744,
+        "completion_tokens": 2007,
+        "total_tokens": 32751,
+        "cached_tokens": 22191,
+        "cost_usd": 0.00382365
+      },
+      {
+        "api_call_index": 9,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 34982,
+        "completion_tokens": 1807,
+        "total_tokens": 36789,
+        "cached_tokens": 30739,
+        "cost_usd": 0.00328905
+      }
+    ]
+  }
+}

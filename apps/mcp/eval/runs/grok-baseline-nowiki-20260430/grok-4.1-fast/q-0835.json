@@ -1,0 +1,223 @@
+{
+  "answer": "**Kātyāyana Smṛti Chapter 32 addresses the application of divine ordeals (*divya*) in legal disputes (*vyavahāra*), particularly when other proofs (documents, witnesses, possession) are absent.**[^1]\n\nIt specifies conditions for their use—e.g., only on the accused (never the plaintiff); for suspects, robbers, or breaches of trust; in partitions or denial of gifts—and mandates non-capital ordeals in cases like suspicion, self-purification, public slander, or for royal servants.[^2] The operative rule scales the ordeal's severity strictly by the disputed property's value (converted to gold *suvarṇa* equivalents): poison for ≥100; fire for 80; water for 60; balance for 40; consecrated water (*śuddhaudaka*) for 20–10; rice grains (*dhānyaparīkṣā*) for >5 or half that; oath (*śiraspañcamī*, touching son/head) for half again; and \"worldly procedures\" (*laukikavyavahāra*) for the rest. A king following this preserves *dharma* and wealth.[^3]\n\n**Yājñavalkya Smṛti (earlier) treats ordeals as a fallback proof after documents/witnesses/possession (2.22), listing five types (balance, fire, water, poison, sacred libation) for \"grave accusations\" where life is staked (2.95–96).**[^4] It restricts severe ordeals (ploughshare/poison/balance) for debts <1000 *paṇa*s but allows them in royal/grave matters (2.99); balance suits the vulnerable (women/children/Brahmaṇas/sick, 2.98). Procedures are ritualized but lack value-scaling or plaintiff bans.[^5]\n\n**Kātyāyana loosens Yājñavalkya's treatment by introducing proportionality (lighter ordeals/no ordeal for small stakes), non-capital options, and exclusions (plaintiffs/servants), reducing severity/application while refining context (theft/violence/partitions).** This tempers broad \"grave accusation\" use into graduated, less punitive rules, though it tightens specificity.\n\n[^1]: Kātyāyana Smṛti, Chapter 32, [translation](/works/unknown-katyayana-smrti-1e06d2/32/translation/).\n\n[^2]: Kātyāyana Smṛti, Chapter 32, [paragraphs p-676d77–p-1d5276](/works/unknown-katyayana-smrti-1e06d2/32/translation/#p-676d77).\n\n[^3]: Kātyāyana Smṛti, Chapter 32, [paragraphs p-4b3d6f–p-dc2916](/works/unknown-katyayana-smrti-1e06d2/32/translation/#p-4b3d6f).\n\n[^4]: Yājñavalkya Smṛti, Chapter 2, [paragraph p-e6e133](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-e6e133); [paragraphs p-357a68–p-1c5915](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-357a68).\n\n[^5]: Yājñavalkya Smṛti, Chapter 2, [paragraphs p-37e7f9–p-37e7f9](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-37e7f9); [p-4770b8](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-4770b8).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "katyayana"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "Listed 80 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"slug\":\"unknown-katyayana-smrti-1e06d2\",\"title\":\"Kātyāyana Smṛti\",\"author\":\"Kātyāyana\",\"author_slug\":\"katyayana\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"slug\":\"unknown-yajnavalkya-smrti-cb88d6\",\"title\":\"Yājñavalkya Smṛti\",\"author\":\"Yājñavalkya\",\"author_slug\":\"yajnavalkya\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 32,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.32 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 32
+      },
+      "result_summary": "Found 5 related"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-676d77"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-1d5276"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-4b3d6f"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-dc2916"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-e6e133"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-357a68"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-1c5915"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-37e7f9"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-4770b8"
+    }
+  ],
+  "duration_ms": 43147,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 78613,
+    "completion_tokens": 3793,
+    "total_tokens": 82406,
+    "cached_tokens": 20027,
+    "api_calls": 5,
+    "cost_usd": 0.014615050000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1578,
+        "completion_tokens": 271,
+        "total_tokens": 1849,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00022175
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2492,
+        "completion_tokens": 390,
+        "total_tokens": 2882,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0004639
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "get_metadata",
+          "get_metadata"
+        ],
+        "prompt_tokens": 6800,
+        "completion_tokens": 445,
+        "total_tokens": 7245,
+        "cached_tokens": 2487,
+        "cost_usd": 0.00120945
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 7691,
+        "completion_tokens": 662,
+        "total_tokens": 8353,
+        "cached_tokens": 6795,
+        "cost_usd": 0.00084995
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "find_related"
+        ],
+        "prompt_tokens": 60052,
+        "completion_tokens": 2025,
+        "total_tokens": 62077,
+        "cached_tokens": 7686,
+        "cost_usd": 0.01187
+      }
+    ]
+  }
+}

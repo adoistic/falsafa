@@ -1,0 +1,303 @@
+{
+  "answer": "For Mirza Ghalib, *sahra* (desert/wilderness) symbolizes the desolate expanse of unrequited love and existential wandering, often embodied by the archetype of the *sahra-navard* (desert wanderer) or Majnun (Qais), whose passion confines him in isolation and torment amid vast emptiness.[^1][^2][^3]\n\nFor Allama Iqbal, *sahra* carries layered connotations: the literal wilderness of childhood curiosity; the purifying Arabian desert tied to Islamic origins, the Prophet's rise, and covenant with \"desert men\"; a site of austere beauty (as in the \"desert tulip\" of authentic faith); and, critically, a forsaken space of spiritual/mad love that modern Qais abandons for urban dilution.[^4][^5][^6][^7]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/99-juz-qais-aur-koi-na-aaya-ba-ru-e-kaar/translation/#p-72d81a).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/228-pa-ba-daaman-ho-raha-hoon-baske-main-sahra-navard/translation/#p-0ac399).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/07-aamad-e-sailaab-e-toofan-e-sada-e-aab-hai/translation/#p-f70382).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/19-ehd-e-tifli/translation/#p-09d3e2).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 2*, [paragraphs](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/05-zamana-aaya-hai-be-hijabi-ka-aam-deedaar-e-yaar-ho/translation/#p-525b58).\n[^6]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-0f859f).\n[^7]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-bc34eb).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sahra"
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"desert\" ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"desert\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wilderness\" ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wilderness\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 228,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.228 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 99,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.99 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 19,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: allama-iqbal-bang-e-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 99,
+        "paragraph_ids": [
+          "p-72d81a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 228,
+        "paragraph_ids": [
+          "p-0ac399"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-f70382"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 19,
+        "paragraph_ids": [
+          "p-09d3e2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-525b58",
+          "p-b2df86"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-0f859f",
+          "p-bc34eb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-72d81a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-0ac399"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-f70382"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-09d3e2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-525b58"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-0f859f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-bc34eb"
+    }
+  ],
+  "duration_ms": 45979,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 32493,
+    "completion_tokens": 5511,
+    "total_tokens": 38004,
+    "cached_tokens": 15699,
+    "api_calls": 4,
+    "cost_usd": 0.006899250000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 562,
+        "total_tokens": 2116,
+        "cached_tokens": 1532,
+        "cost_usd": 0.000362
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4609,
+        "completion_tokens": 1534,
+        "total_tokens": 6143,
+        "cached_tokens": 1532,
+        "cost_usd": 0.001459
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 12490,
+        "completion_tokens": 1698,
+        "total_tokens": 14188,
+        "cached_tokens": 150,
+        "cost_usd": 0.0033245
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 13840,
+        "completion_tokens": 1717,
+        "total_tokens": 15557,
+        "cached_tokens": 12485,
+        "cost_usd": 0.00175375
+      }
+    ]
+  }
+}

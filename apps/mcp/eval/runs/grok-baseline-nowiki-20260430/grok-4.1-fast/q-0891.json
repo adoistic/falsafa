@@ -1,0 +1,133 @@
+{
+  "answer": "**The Falsafa corpus contains Cynewulf's *Elene* (work slug: cynewulf-elene-d2d132) in three variants: the original Old English verse, a modern English translation, and a transliteration.**[^1][^2][^3]\n\nThis is a single-chapter poem (1,300+ lines) retelling the legend of Constantine's vision of the True Cross, Helena's quest to Jerusalem, Judas Cyriacus's role in finding it, the miracle of the dead man's resurrection, the discovery of the holy nails, and Cynewulf's runic signature reflecting on sin, judgment, and salvation.\n\nThe poem is indeed in alliterative verse, with typical half-line structure (two primary stresses per half-line, alliteration linking them across the caesura). This form pressures word-choice and phrasing in ways Latin prose sources (e.g., the *Acta Cyriaci*, a 4th–5th-century apocryphal legend) do not, often pairing concepts via sound (e.g., \"wuldres treo\" glory-tree, \"sigebeacen\" victory-beacon) to heighten heroic-Christian rhetoric.\n\nHowever, **the corpus does not contain the Latin source texts (e.g., no *Acta Cyriaci* or Venantius Fortunatus hymns), nor analytical commentaries comparing them line-by-line.** Searches for \"Latin source,\" \"venantius,\" \"cyrica,\" or \"acta elene\" yielded no matches.[^4] Without direct access to the prose source for comparison, I cannot identify a specific \"moment\" where metrical constraints demonstrably alter theology (e.g., by forcing a synonym, expansion, or compression that shifts doctrine like Christology or soteriology).\n\nThe poem expands certain scenes theologically (e.g., Judas's lengthy prayer on angels/cherubim/seraphim, lines 725–800, adds cosmic hierarchy absent or briefer in Latin prose; the devil's alliterative lament, lines 900–935, gives Satan's defeat a quasi-heroic cadence). But these are poetic elaborations, not provably \"metre's pressure\" changing source theology in a way verifiable here. OE verse naturally theologizes via form (e.g., cross as \"lifes treo\" linking to Eden/paradise), but Latin poetry (e.g., Fortunatus's *Pange lingua*) exists, so prose-vs-verse isn't absolute.\n\nIf the Latin *Acta* or a scholarly comparison were added to the corpus, this could be pinpointed precisely. For now, the question cannot be fully answered from available texts.\n\n[^1]: *Elene*, Chapter 1 (original), [full chapter](/works/cynewulf-elene-d2d132/01-original/translation/).\n\n[^2]: *Elene*, Chapter 1 (translation), [full chapter](/works/cynewulf-elene-d2d132/01-translation/translation/).\n\n[^3]: *Elene*, Chapter 1 (transliteration), [full chapter](/works/cynewulf-elene-d2d132/01-transliteration/translation/).\n\n[^4]: Corpus-wide search results for source queries returned 0 relevant hits.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"slug\":\"cynewulf-elene-d2d132\",\"title\":\"Elene\",\"author\":\"Cynewulf\",\"author_slug\":\"cynewulf\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Literature\",\"genre_slug\":\"literature\",\"language\":\"old_engli"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"elene\" metre OR meter theology OR source OR latin",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "latin source OR venantius OR cyrica OR acta elene",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 48024,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 63943,
+    "completion_tokens": 4307,
+    "total_tokens": 68250,
+    "cached_tokens": 6688,
+    "api_calls": 4,
+    "cost_usd": 0.0139389,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1578,
+        "completion_tokens": 597,
+        "total_tokens": 2175,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038475
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 1923,
+        "completion_tokens": 532,
+        "total_tokens": 2455,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006281
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3096,
+        "completion_tokens": 786,
+        "total_tokens": 3882,
+        "cached_tokens": 1918,
+        "cost_usd": 0.0007245
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 57346,
+        "completion_tokens": 2392,
+        "total_tokens": 59738,
+        "cached_tokens": 3091,
+        "cost_usd": 0.01220155
+      }
+    ]
+  }
+}

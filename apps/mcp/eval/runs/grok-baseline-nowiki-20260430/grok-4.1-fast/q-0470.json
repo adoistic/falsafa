@@ -1,0 +1,171 @@
+{
+  "answer": "**No works in the Falsafa corpus provide explicit discussions of poetic craft or style, such as treatises on poetics, metrics, rhetoric, or composition techniques (e.g., no equivalents to Aristotle's *Poetics* or Sanskrit *Kāvyālaṅkārasūtra*).**\n\nThe corpus includes poetry collections and poems, primarily in genres like Old English heroic Christian verse (e.g., Cynewulf's *Andreas*, *Elene*, *Juliana*) and Urdu ghazals (*Bang-e-Dara* by Allama Iqbal in three parts, *Diwan-e-Ghalib* by Mirza Ghalib, *Diwan-e-Zauq* by Sheikh Ibrahim Zauq), plus *Old English Elegies*. These exemplify poetic practice—using alliteration, meter, rhyme, and metaphor—but contain no meta-analysis or instruction on craft.[^1][^2][^3][^4]\n\nIndic works like *Kunjarakarna Dharmakathana* invoke poetry in prologues (\"lords of poetry\"; blessing for composers) but merely nod to tradition without dissecting style.[^5] Economic and legal texts (*Nouveau traité d'économie* by Charles Dunoyer; *Traité de Législation* by Charles Comte; smṛtis) mention poetry incidentally (e.g., as cultural pursuit or pleasure), not as craft.[^6]\n\nIf the query seeks poems demonstrating style or related concepts (e.g., verse in smṛtis), clarify for deeper search. The corpus focuses on philosophy, law, and narrative, not poetics theory.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poetics",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"art of poetry\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"poetic craft\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"poetic style\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "meter verse poetry",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rules of poetry\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetics"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poetry",
+        "limit": 30
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poetic",
+        "limit": 30
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "verse",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "meter",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"art of\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 27904,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 20344,
+    "completion_tokens": 2550,
+    "total_tokens": 22894,
+    "cached_tokens": 5060,
+    "api_calls": 3,
+    "cost_usd": 0.0045848,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1548,
+        "completion_tokens": 673,
+        "total_tokens": 2221,
+        "cached_tokens": 1534,
+        "cost_usd": 0.000416
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1997,
+        "completion_tokens": 492,
+        "total_tokens": 2489,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0004153
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16799,
+        "completion_tokens": 1385,
+        "total_tokens": 18184,
+        "cached_tokens": 1992,
+        "cost_usd": 0.0037535
+      }
+    ]
+  }
+}

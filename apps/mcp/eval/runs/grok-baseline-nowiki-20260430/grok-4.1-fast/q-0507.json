@@ -1,0 +1,128 @@
+{
+  "answer": "**None of the works in the Falsafa corpus directly address the question of how language defines a community.**\n\nExtensive searches across the English translations for key phrases and concepts—\"language community\", \"common language\", \"mother tongue\", \"language of the people\", \"language nation\", \"our language\", \"national language\", and broader terms like \"language\"—yielded no substantive results related to this topic.[^1] The hits for \"language\" were limited to frontmatter metadata (e.g., descriptions of source languages like \"old_english\" or \"Urdu\"), not philosophical or theoretical discussions.\n\nThe corpus (37 works) focuses on:\n- Old English Christian poetry (e.g., *Andreas*, *Elene* by Cynewulf).\n- Urdu poetry (e.g., *Bang-E-Dara* parts, *Diwan-E-Ghalib*).\n- Sanskrit Indic law texts (Smṛtis like *Manusmṛti*, *Yājñavalkya Smṛti*).\n- French political-economic treatises (e.g., Charles Comte's *Traité de la propriété*, *Traité de législation*; Charles Dunoyer's *Nouveau traité d'économie*).\n- Kawi/Indic medieval texts and one German pamphlet by Fichte (*Zurückforderung der Denkfreiheit*, on thought freedom, not language-nation ties).\n\nWhile later thinkers like Fichte explored language in nationalism (in other works not in this corpus), and Iqbal touched on cultural identity in Urdu poetry, no passages here analyze language as *defining* community. This topic—central to Romantic nationalism (e.g., Herder)—is not covered.\n\n[^1]: Corpus-wide searches conducted on English translation bodies; full list of works available [here](https://falsafa.corpus/works).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "language community",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"common language\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mother tongue\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"language of the people\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "language nation",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "language",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"our language\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"national language\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 22317,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 13061,
+    "completion_tokens": 2088,
+    "total_tokens": 15149,
+    "cached_tokens": 3533,
+    "api_calls": 3,
+    "cost_usd": 0.0031262499999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1549,
+        "completion_tokens": 579,
+        "total_tokens": 2128,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005768
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1854,
+        "completion_tokens": 419,
+        "total_tokens": 2273,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0003502
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9658,
+        "completion_tokens": 1090,
+        "total_tokens": 10748,
+        "cached_tokens": 1849,
+        "cost_usd": 0.00219925
+      }
+    ]
+  }
+}

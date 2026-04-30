@@ -1,0 +1,182 @@
+{
+  "answer": "**The verse work is *Elene* by Cynewulf, Chapter 1.**[^1]\n\nThis Old English poem recounts the legend of Saint Elene (Helena), mother of Constantine, who seeks the True Cross in Jerusalem. The reluctant Hebrew informant is Judas. After questioning Jewish leaders repeatedly, Elene imprisons Judas in a dry well without food for seven nights until he agrees to help.[^2] They go to Calvary hill (Golgotha), where he prays, smoke rises as a sign, and he digs.\n\n**Depth-and-three-crosses passage:**  \n\"he began to dig for the tree of glory,  \nresolute, delving the earth under the turf,  \nso that at **twenty feet deep** he found,  \n**hidden below, concealed under the ness  \nin a dark cavern, three crosses together**  \nin that dreary hall, buried in grit,\"[^3]\n\nThe three crosses (\"victory-beams\") are brought before Elene, who asks which is the True Cross. Unsure, Judas has them erected publicly in the city to await a sign.[^4]\n\n**Corpse-revival passage:**  \n\"The victory-famed sat, they raised a song,  \nthe council-takers, around the three roods  \n**until the ninth hour**, they had a new joy  \nfound in that marvel. **Then a multitude came**,  \n**no small folk, and a dead man they brought**  \n**on a bier in a throng of men nearby**  \n(**it was then the ninth hour**), **a youth, spiritless.**  \nThen Judas was in his mind-spirit  \ngreatly gladdened. He commanded them to set down  \n**the soulless one, the life-departed body**  \n**on the earth, the unliving**, and he, a champion of right,  \n**raised up two of the roods** in his arms,  \nthe deep-thinking, **over that fated house.**  \n**It was dead as before, the corpse fast in its lair.**  \nThe limbs grew cold, covered in death-pangs.  \n**Then the third was raised, the holy one.**  \n**The body was in waiting until upon it**  \n**the prince’s Rood was raised**,  \n**the Sky-King’s beam, the true victory-beacon.**  \n**He at once arose, with spirit endowed**,  \n**together both body and soul.**\"[^5]\n\n[^1]: Cynewulf, *Elene*, [Chapter 1](/works/cynewulf-elene-d2d132/01/translation/).\n\n[^2]: Cynewulf, *Elene*, [Chapter 1, p-f5d1f1](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n\n[^3]: Cynewulf, *Elene*, [Chapter 1, p-f5d1f1](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n\n[^4]: Cynewulf, *Elene*, [Chapter 1, p-f5d1f1](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n\n[^5]: Cynewulf, *Elene*, [Chapter 1, p-f5d1f1](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "three crosses",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "twenty feet",
+        "limit": 10
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dry well\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seven nights\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ninth hour\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bier\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ninth hour\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "queen hebrew"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dead man\" bier"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ninth hour\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f5d1f1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    }
+  ],
+  "duration_ms": 50924,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 44865,
+    "completion_tokens": 4677,
+    "total_tokens": 49542,
+    "cached_tokens": 3144,
+    "api_calls": 4,
+    "cost_usd": 0.0108399,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1648,
+        "completion_tokens": 441,
+        "total_tokens": 2089,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005276
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2699,
+        "completion_tokens": 457,
+        "total_tokens": 3156,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007458
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15213,
+        "completion_tokens": 1660,
+        "total_tokens": 16873,
+        "cached_tokens": 2694,
+        "cost_usd": 0.0034685
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "get_passage",
+          "list_chapters"
+        ],
+        "prompt_tokens": 25305,
+        "completion_tokens": 2119,
+        "total_tokens": 27424,
+        "cached_tokens": 150,
+        "cost_usd": 0.006098
+      }
+    ]
+  }
+}

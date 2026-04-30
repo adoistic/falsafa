@@ -1,0 +1,283 @@
+{
+  "answer": "Several works in the Falsafa corpus engage with poverty (*la misère*, *les pauvres*) as a social phenomenon—often linking it to industrial regimes, population dynamics, poor laws, vices, legislation, and inequality—or as a moral failing tied to laziness, improvidence, or societal structures. The most substantive treatments appear in 19th-century French liberal political economy and Enlightenment-era legislation theory, where poverty is analyzed as an inevitable outcome of natural inequalities, misguided policies (e.g., welfare), and barriers to liberty, rather than mere misfortune.[^1][^2] Poetic and Indic legal texts reference the poor more incidentally, often in moral, spiritual, or prescriptive contexts.[^3]\n\n### Primary Works\n**Charles Dunoyer, *Nouveau traité d'économie: VOL I* (1824)**  \nChapter 12 (\"Obstacles qui s'opposent encore à la liberté dans le régime industriel\") treats poverty as a persistent social limit in even the freest industrial societies, exacerbated by population growth outpacing resources and welfare systems like England's Poor Laws, which multiply indigents.[^4] It argues poverty arises from natural inequalities in faculties, leading to a proletariat prone to vice and overpopulation.[^5]\n\n**Charles Comte, *Traité de Législation* (multi-volume, 1834)**  \n- *VOL I*, Chapter 21: Poverty as a moral consequence of vices like laziness, shielded by indiscriminate poor relief, which undermines natural penalties and multiplies misery.[^6]  \n- *VOL III*, Chapter 34: Links societal poverty to tyranny and barbarism, contrasting Egypt's decline (where arts vanished and poverty succeeded wealth) with freer societies.[^7]  \nOther volumes discuss poverty amid slavery, social organization, and racial/climatic factors.[^8]\n\n**Charles Dunoyer, *Nouveau traité d'économie: VOL II* (1824)**  \nScattered references frame poverty as a market limit tied to population coarseness and industrial freedom.[^9]\n\n### Secondary or Incidental Engagements\n- **Allama Iqbal, *Bang-E-Dara Part 3* (1924)**: Poverty appears morally/spiritually (e.g., pride in poverty as divine, critiques of Muslim decline into it), not systematically social.[^10]  \n- **Bṛhaspati, *Bṛhaspati Smṛti***: Prescribes aid to the poor in inheritance and surety laws, treating them as a protected class morally.[^11]  \n- Others (e.g., *Āṅgirasa Smṛti*, *Old English Elegies*, Ghalib/Zauq poetry): Ephemeral mentions of poverty as hardship or virtue, without deep analysis.\n\nThe corpus lacks comprehensive modern welfare-state critiques beyond these; not every philosophical tradition (e.g., German idealism) covers it here.\n\n[^1]: /works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/12-ii-obstacles-qui-sopposent-encore-a-la-liberte-dan/translation/#p-69da08.\n[^2]: /works/charles-comte-traite-de-legislation-vol-iii-ca589a/34-parallele-entre-la-portion-de-richesses-qui-est-la/translation/#p-e1c4f8.\n[^3]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462.\n[^4]: /works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/12-ii-obstacles-qui-sopposent-encore-a-la-liberte-dan/translation/#p-5727e1.\n[^5]: /works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/12-ii-obstacles-qui-sopposent-encore-a-la-liberte-dan/translation/#p-a46c37.\n[^6]: /works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-d8902c.\n[^7]: /works/charles-comte-traite-de-legislation-vol-iii-ca589a/34-parallele-entre-la-portion-de-richesses-qui-est-la/translation/#p-e1c4f8.\n[^8]: E.g., /works/charles-comte-traite-de-legislation-vol-iv-bca040/12-de-l-influence-de-l-esclavage-sur-la-liberte-des-i/translation/#p-58fc79.\n[^9]: /works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/14-iv-des-conditions-auxquelles-toute-industrie-peut-/translation/#p-aed593.\n[^10]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-d1e7fe.\n[^11]: /works/unknown-brhaspati-smrti-0fd070/01/translation/#p-28f709.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poverty",
+        "limit": 50
+      },
+      "result_summary": "Found 34 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "the poor",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "paupers",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pauperism",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"slug\":\"charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce\",\"title\":\"Nouveau traité d'économie: VOL I\",\"author\":\"Charles Dunoyer\",\"author_slug\":\"charles-dunoyer\",\"era\":\"19th Century\",\"era_slug\":\"1"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"slug\":\"charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03\",\"title\":\"Nouveau traité d'économie: VOL II\",\"author\":\"Charles Dunoyer\",\"author_slug\":\"charles-dunoyer\",\"era\":\"19th Century\",\"era_slug\":"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-legislation-vol-i-7e62a2\",\"title\":\"Traité de Législation: VOL I\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlightenme"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-legislation-vol-ii-20331d\",\"title\":\"Traité de Législation: VOL II\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlighten"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-legislation-vol-iii-ca589a\",\"title\":\"Traité de Législation: VOL III\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlight"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-legislation-vol-iv-bca040\",\"title\":\"Traité de Législation: VOL IV\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlighten"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-la-propriete-vol-ii-6beea5\",\"title\":\"Traité de la propriété: VOL II\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enligh"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-3-cc61e8\",\"title\":\"Bang-E-Dara Part 3\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"slug\":\"unknown-brhaspati-smrti-0fd070\",\"title\":\"Bṛhaspati Smṛti\",\"author\":\"Bṛhaspati\",\"author_slug\":\"brhaspati\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\""
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-a46c37",
+          "p-5727e1",
+          "p-16aa9c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 21,
+        "paragraph_ids": [
+          "p-d8902c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "p-e1c4f8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 12,
+        "paragraph_range": {
+          "start": 0,
+          "end": 10
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 11 passages"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "political-social-theory"
+      },
+      "result_summary": "Listed 7 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 12,
+      "paragraph_id": "p-69da08"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 12,
+      "paragraph_id": "p-e1c4f8"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 12,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 12,
+      "paragraph_id": "p-5727e1"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 12,
+      "paragraph_id": "p-a46c37"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 12,
+      "paragraph_id": "p-d8902c"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 12,
+      "paragraph_id": "p-58fc79"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 12,
+      "paragraph_id": "p-aed593"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 12,
+      "paragraph_id": "p-d1e7fe"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 12,
+      "paragraph_id": "p-28f709"
+    }
+  ],
+  "duration_ms": 51547,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 55447,
+    "completion_tokens": 4971,
+    "total_tokens": 60418,
+    "cached_tokens": 17574,
+    "api_calls": 4,
+    "cost_usd": 0.0109388,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 475,
+        "total_tokens": 2027,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005254
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13160,
+        "completion_tokens": 1561,
+        "total_tokens": 14721,
+        "cached_tokens": 150,
+        "cost_usd": 0.00339
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata"
+        ],
+        "prompt_tokens": 17130,
+        "completion_tokens": 1213,
+        "total_tokens": 18343,
+        "cached_tokens": 149,
+        "cost_usd": 0.00401015
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "list_works"
+        ],
+        "prompt_tokens": 23605,
+        "completion_tokens": 1722,
+        "total_tokens": 25327,
+        "cached_tokens": 17125,
+        "cost_usd": 0.00301325
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "answer": "**San Hyan Kamahayanikan** provides an extensive, explicit treatment of the Mahāyāna bodhisattva path (*bodhimārga*) as part of its *Mantranaya* (tantric vehicle) instructions, framing it as the \"Great Path\" (*Mahāyāna*) leading to *bodhi* through structured practices like the Ten Perfections (*daśapāramitā*), *bodhicitta*, graded compassion (*karuṇā*), and vows (*samaya*). It emphasizes ethical conduct (*śīla*), giving (*dāna* in escalating forms up to self-sacrifice), patience (*kṣānti*), effort (*vīrya*), meditation (*dhyāna*), wisdom (*prajñā*), and the four immeasurables (*maitrī, karuṇā, muditā, upekṣā*), often mapping them to goddesses (e.g., Locanā as *maitrī*, Tārā as *upekṣā*). Bodhisattvas are invoked as exemplars who protect the Vinaya, practice objectless compassion free from self-grasping, and uphold the path for beings' welfare.[^1][^2][^3] The path integrates tantric elements like *abhiṣeka* (consecration), non-dual wisdom (*adwayajñāna*), breath control (*prāṇāyāma*), and *yoga* stages, culminating in realizing innate Buddha-nature (*diwarūpa*) while serving as a \"true son of the Jina.\"[^4]\n\n**Kalpabuddha**, by contrast, does not explicitly address or outline the bodhisattva path. Instead, it offers a concise tantric cosmology of the Pañcatathāgata (Five Buddhas: Vairocana, Akṣobhya, Ratnasambhava, Amitābha, Amoghasiddhi), detailing their colors, *mantras*, *mudrās*, consorts (*devī*, e.g., Locanā for Akṣobhya), abodes (e.g., heart for Vairocana), bodily locations (e.g., lungs for Akṣobhya), and senses (*pañcendriya*), equating them to the \"Divine Five-Souls (*Pañcātma*)\" forming the self.[^5] This implies an innate, non-gradual realization of enlightenment via internal visualization, without progressive perfections, *bodhicitta*, or Bodhisattva ethics.\n\nThe core difference lies in approach: *San Hyan Kamahayanikan* prescribes a developmental bodhisattva discipline blending sūtra perfections with tantric secrecy and compassion for beings, while *Kalpabuddha* prioritizes direct, esoteric embodiment of the Five Buddhas as the self's essence, bypassing explicit path-stages. Neither text directly compares the other, and *Kalpabuddha* lacks any reference to \"bodhisattva\" or its doctrine.[^6]\n\n[^1]: *San Hyan Kamahayanikan*, Ch. 1, [p-3b7656](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-3b7656).  \n[^2]: *San Hyan Kamahayanikan*, Ch. 1, [p-f4542a](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-f4542a).  \n[^3]: *San Hyan Kamahayanikan*, Ch. 1, [p-7132ca](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-7132ca).  \n[^4]: *San Hyan Kamahayanikan*, Ch. 1, [p-68497a](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-68497a).  \n[^5]: *Kalpabuddha*, Ch. 6, [p-c8567e](/works/unknown-kalpabuddha-d760dc/06/translation/#p-c8567e).  \n[^6]: Full chapters of *Kalpabuddha* (Chs. 1–6) contain no mentions of *bodhisattva*, *pāramitā*, or path ethics; e.g., [Ch. 1 citation](/works/unknown-kalpabuddha-d760dc/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kalpabuddha",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "San Hyan Kamahayanikan",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bodhisattva path\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kalpabuddha",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"San Hyan\" OR Kamahayanikan",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bodhisattva",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "Listed 6 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "{\"slug\":\"unknown-kalpabuddha-d760dc\",\"title\":\"Kalpabuddha\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Kawi\",\"lan"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-kalpabuddha-d760dc",
+        "work_slug_b": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "topic": "bodhisattva path"
+      },
+      "result_summary": "{\"topic\":\"bodhisattva path\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-kalpabuddha-d760dc\",\"title\":\"Kalp"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 6,
+      "paragraph_id": "p-3b7656"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 6,
+      "paragraph_id": "p-f4542a"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 6,
+      "paragraph_id": "p-7132ca"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 6,
+      "paragraph_id": "p-68497a"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 6,
+      "paragraph_id": "p-c8567e"
+    }
+  ],
+  "duration_ms": 39335,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 45442,
+    "completion_tokens": 4137,
+    "total_tokens": 49579,
+    "cached_tokens": 2347,
+    "api_calls": 4,
+    "cost_usd": 0.01080485,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1564,
+        "completion_tokens": 444,
+        "total_tokens": 2008,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005123
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 1902,
+        "completion_tokens": 568,
+        "total_tokens": 2470,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006419
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "get_metadata"
+        ],
+        "prompt_tokens": 6784,
+        "completion_tokens": 1551,
+        "total_tokens": 8335,
+        "cached_tokens": 1897,
+        "cost_usd": 0.00184775
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "compare_works"
+        ],
+        "prompt_tokens": 35192,
+        "completion_tokens": 1574,
+        "total_tokens": 36766,
+        "cached_tokens": 150,
+        "cost_usd": 0.0078029
+      }
+    ]
+  }
+}

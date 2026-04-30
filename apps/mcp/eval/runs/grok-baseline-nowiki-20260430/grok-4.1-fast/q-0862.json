@@ -1,0 +1,283 @@
+{
+  "answer": "**No such passage appears in the Falsafa corpus.**\n\nDespite extensive searches for Latin terms, maxims, Roman law concepts (\"Latin\", \"maxim\", \"dominium\", \"res nullius\", \"roman law\", \"jus\", \"quirit\", \"quod\", \"accession\"), and review of relevant chapters (e.g., Vol. II Ch. 47 on jurisconsults' opinions; Ch. 48–49 on legislative definitions and Code civil critique, including \"droit d'accession\"—a Latin-derived Roman law term used in French without translation), Comte writes entirely in French. He critiques Roman jurists and terms like \"droit d'accession\" philosophically but quotes no Latin maxims and translates or explains concepts into French prose. No \"slip toward Latin\" occurs.\n\nThe corpus covers both *Traité de la propriété* vols. I–II and *Traité de législation* vols. I–IV; this detail is absent.[^1]",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Latin",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"maxim\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dominium\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"res nullius\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"roman law\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"jurisconsult\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"latin maxim\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 47,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.47 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 1,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (original)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "roman",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"jus\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maxim"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 47
+      },
+      "result_summary": "Read ch.47 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 49,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.49 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 2,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 48,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.48 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 48,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.48 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"accession\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"quirit\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"quod\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 72901,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 114669,
+    "completion_tokens": 7836,
+    "total_tokens": 122505,
+    "cached_tokens": 71506,
+    "api_calls": 6,
+    "cost_usd": 0.0161259,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1578,
+        "completion_tokens": 224,
+        "total_tokens": 1802,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00019825
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2306,
+        "completion_tokens": 923,
+        "total_tokens": 3229,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00069335
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9347,
+        "completion_tokens": 1067,
+        "total_tokens": 10414,
+        "cached_tokens": 2301,
+        "cost_usd": 0.00205775
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 17998,
+        "completion_tokens": 1477,
+        "total_tokens": 19475,
+        "cached_tokens": 9342,
+        "cost_usd": 0.0029368
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 38817,
+        "completion_tokens": 1469,
+        "total_tokens": 40286,
+        "cached_tokens": 17993,
+        "cost_usd": 0.00579895
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 44623,
+        "completion_tokens": 2676,
+        "total_tokens": 47299,
+        "cached_tokens": 38812,
+        "cost_usd": 0.0044408
+      }
+    ]
+  }
+}

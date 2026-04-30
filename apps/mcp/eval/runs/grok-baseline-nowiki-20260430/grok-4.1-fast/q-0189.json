@@ -1,0 +1,255 @@
+{
+  "answer": "**In Manusmṛti Chapter 8 (also known as the *Manusmṛti* or *Laws of Manu*), the rules on lending money at interest appear primarily in verses 140–154**, as part of the broader discussion on debts (the first of the eighteen titles of law; see 8.4). These specify permissible interest rates, limits, types of interest, pledges, and related prohibitions.[^1][^2]\n\nKey provisions include:\n- A moneylender may charge interest at 1.25% per month (the \"eightieth part\" of the principal), per the prescription of Vasishtha; alternatively, 2% monthly is allowable without sin.[^3]\n- Rates vary by *varṇa*: 2% for Brāhmaṇas, 3% for Kṣatriyas, 4% for Vaiśyas, and 5% for Śūdras.[^4]\n- Interest cannot be charged on usable pledges; pledges cannot be forfeited by time lapse or sold, and unauthorized use forfeits interest.[^5]\n- Total interest is capped (e.g., double the principal generally; fivefold for grain, etc.); compound, periodic, stipulated, or labor-based interest is forbidden.[^6]\n\nThese rules emphasize ethical limits to prevent usury while allowing capital growth, integrated into judicial procedures for debt recovery (8.47–60). For the full context, read verses 8.1–420 on judicial matters.[^7]\n\n[^1]: Manusmṛti, Chapter 8, [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-85e12e).\n[^2]: Manusmṛti, Chapter 8, [paragraphs](/works/unknown-manusmrti-347b76/08/translation/#p-85e12e).\n[^3]: Manusmṛti, Chapter 8, [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-85e12e).\n[^4]: Manusmṛti, Chapter 8, [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-b774d8).\n[^5]: Manusmṛti, Chapter 8, [paragraphs](/works/unknown-manusmrti-347b76/08/translation/#p-73fef8).\n[^6]: Manusmṛti, Chapter 8, [paragraphs](/works/unknown-manusmrti-347b76/08/translation/#p-dc4c89).\n[^7]: Manusmṛti, Chapter 8, [full chapter](/works/unknown-manusmrti-347b76/08/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"interest\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lend\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lending\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"money\" \"interest\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "interest",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lend money",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"at interest\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-85e12e",
+          "p-96127e",
+          "p-b774d8",
+          "p-73fef8",
+          "p-8aebd5",
+          "p-a25cfa",
+          "p-dc2af4",
+          "p-a2bb1d",
+          "p-d4de16",
+          "p-a00a12"
+        ]
+      },
+      "result_summary": "Returned 10 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_range": {
+          "start": 200,
+          "end": 250
+        }
+      },
+      "result_summary": "Returned 51 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-61be3b",
+          "p-dc4c89",
+          "p-6f8e7d",
+          "p-013fa2",
+          "p-a0db33"
+        ]
+      },
+      "result_summary": "Returned 5 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-85e12e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-b774d8"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-73fef8"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-dc4c89"
+    }
+  ],
+  "duration_ms": 40803,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 77808,
+    "completion_tokens": 4188,
+    "total_tokens": 81996,
+    "cached_tokens": 37518,
+    "api_calls": 5,
+    "cost_usd": 0.0120279,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 620,
+        "total_tokens": 2173,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005981
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2502,
+        "completion_tokens": 693,
+        "total_tokens": 3195,
+        "cached_tokens": 1536,
+        "cost_usd": 0.0006165
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3325,
+        "completion_tokens": 370,
+        "total_tokens": 3695,
+        "cached_tokens": 2497,
+        "cost_usd": 0.00047545
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 33190,
+        "completion_tokens": 1490,
+        "total_tokens": 34680,
+        "cached_tokens": 150,
+        "cost_usd": 0.0073605
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 37238,
+        "completion_tokens": 1015,
+        "total_tokens": 38253,
+        "cached_tokens": 33185,
+        "cost_usd": 0.00297735
+      }
+    ]
+  }
+}

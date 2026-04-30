@@ -1,0 +1,164 @@
+{
+  "answer": "**Naseeb** (نصيب, transliterated as *naseeb* or *naseeb*) in Urdu poetry like that of Sheikh Ibrahim Zauq or Allama Iqbal often connotes not just inevitable destiny (*fate*), but a divinely apportioned *share* or *portion* (*hisssa*) of good or ill fortune in life—something actively distributed, bestowed (*bakhsha*), or seized, with a personal, relational tint tied to divine will or cosmic accounting.[^1] English *fate* tends to evoke a colder, more impersonal inevitability, stripping some of this distributive agency and warmth of allotment.\n\nA clear couplet where *naseeb* acts as agent on the speaker comes from Zauq's *Diwan-e-Zauq*:\n\n> Shab-e-vasl ke roz-e-firaq mein kya kya  \n> Naseeb mujh se mere inteqaam lete hain[^2]\n\nRoughly: \"In nights of union, days of parting—what torments! / Fate takes its revenge from me.\"\n\nHere, *naseeb* is the subject of *lete hain* (\"takes\"), actively extracting revenge (*inteqaam*) from the lover (*mujh se*). English *fate* **does** convey comparable agency—\"Fate takes revenge on me\" works poetically—but loses *naseeb*'s undertone of *one's portion* coming back to claim its due, like a creditor collecting, rather than blind cosmic machinery.\n\nThe corpus lacks explicit linguistic treatises contrasting *naseeb* and *fate*; this draws from its poetic usage across Iqbal's *Bang-e-Dara* and Zauq's ghazals.[^3]\n\n[^1]: Multiple instances personify *naseeb* as bestowing (*bakhshna*) or portioning, e.g., \"Gham naseeb Iqbal ko bakhsha gaya\" (*Bang-E-Dara Part 2*, ch. 21: fate \"bestowed\" grief). [paragraph](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/transliteration/#p-d17409).\n\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 8 (\"Balaaein aankhon se un ki madaam lete hain\"). [paragraph](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/08-balaaein-aankhon-se-un-ki-madaam-lete-hain/transliteration/#p-e12715).\n\n[^3]: Search hits cluster in Urdu verse; no philosophical exegesis of the term's semantics appears in the 37 works.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naseeb",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nasib",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"naseeb\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 21,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-2-9bc58c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 8,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.8 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 22,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.22 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-269606"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 21,
+        "paragraph_ids": [
+          "p-d17409"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"naseeb\" OR \"nasib\" OR \"naseebon\" OR \"naseeb\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-d17409"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-e12715"
+    }
+  ],
+  "duration_ms": 60621,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 23109,
+    "completion_tokens": 6969,
+    "total_tokens": 30078,
+    "cached_tokens": 13254,
+    "api_calls": 4,
+    "cost_usd": 0.0061182,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1581,
+        "completion_tokens": 517,
+        "total_tokens": 2098,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005522
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4281,
+        "completion_tokens": 1519,
+        "total_tokens": 5800,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00138635
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 7304,
+        "completion_tokens": 2137,
+        "total_tokens": 9441,
+        "cached_tokens": 4276,
+        "cost_usd": 0.0018879
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9943,
+        "completion_tokens": 2796,
+        "total_tokens": 12739,
+        "cached_tokens": 7299,
+        "cost_usd": 0.00229175
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "answer": "The following works in the corpus address the figure of the Sufi or the mystic, primarily through poetic references in Urdu ghazals and nazms that evoke Sufi themes, characters, or lore (e.g., the Sufi seeker, mystic drinker, or ecstatic visionary). These are not systematic philosophical treatises on Sufism but literary depictions. No prose works dedicated to the topic were found.[^1]\n\n**Bang-E-Dara Part 1** (Allama Iqbal): Multiple poems portray Sufis and mystics, such as a cleric known for his \"Sufi air\" who expounds on Law and mystic lore,[^2] and solitary mystics as embodiments of the soul's yearning.[^3]\n\n**Bang-E-Dara Part 2** (Allama Iqbal): References the Sufi who discovers divine presence \"in the heart's chamber of darkness.\"[^4]\n\n**Diwan-E-Ghalib** (Mirza Ghalib): Frequent mentions of mystics, including cautions about their company,[^5] mystics wrecked by visions of the divine Rose,[^6] and the mystic drunk on absolute Essence.[^7]\n\n**Diwan-E-Zauq** (Sheikh Ibrahim Zauq): Alludes to Sufi texts and lore as paths to a pure soul,[^8] alongside the mystic drinker sustained by unseen grace.[^9]\n\n[^1]: Searches for \"Sufi\", \"mystic\", \"Sufism\", and \"mysticism\" across the English translations yielded these poetic hits only; broader corpus topics like Vedic mysticism (e.g., *Manusmṛti*) do not depict Sufi/mystic figures per se.\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-52b34d).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 44 (\"Zuhd aur Rindi\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-8c3c35); also chs. 4 and 6.\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 2*, [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/20-salimi/translation/#p-e4b1ba).\n\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/22-chahiye-achhon-ko-jitna-chahiye/translation/#p-c886a3).\n\n[^6]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 134 (\"Maze jahaan ke apni nazar mein khaak nahin\"), [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/134-maze-jahaan-ke-apni-nazar-mein-khaak-nahin/translation/#p-0428df).\n\n[^7]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 131 (\"Masjid ke zer-e-saaya kharabaat chahiye\"), [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/131-masjid-ke-zer-e-saaya-kharabaat-chahiye/translation/#p-6468cd).\n\n[^8]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/49-voh-kaun-hai-jo-mujh-pe-taassuf-nahin-karta/translation/#p-655b56).\n\n[^9]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 23 (\"Jo kuch ke hai duniya mein woh insaan ke liye hai\"), [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/23-jo-kuch-ke-hai-duniya-mein-woh-insaan-ke-liye-hai/translation/#p-1db0d4).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sufi",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mystic",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sufism",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mysticism",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "paragraph_ids": [
+          "p-52b34d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-e4b1ba"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 49,
+        "paragraph_ids": [
+          "p-655b56"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 22,
+        "paragraph_ids": [
+          "p-c886a3"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 22,
+      "paragraph_id": "p-52b34d"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 22,
+      "paragraph_id": "p-8c3c35"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 22,
+      "paragraph_id": "p-e4b1ba"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 22,
+      "paragraph_id": "p-c886a3"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 22,
+      "paragraph_id": "p-0428df"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 22,
+      "paragraph_id": "p-6468cd"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 22,
+      "paragraph_id": "p-655b56"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 22,
+      "paragraph_id": "p-1db0d4"
+    }
+  ],
+  "duration_ms": 42291,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 10749,
+    "completion_tokens": 4001,
+    "total_tokens": 14750,
+    "cached_tokens": 7289,
+    "api_calls": 3,
+    "cost_usd": 0.00305695,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 385,
+        "total_tokens": 1935,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0002724
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4226,
+        "completion_tokens": 1507,
+        "total_tokens": 5733,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0013686
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 4973,
+        "completion_tokens": 2109,
+        "total_tokens": 7082,
+        "cached_tokens": 4221,
+        "cost_usd": 0.00141595
+      }
+    ]
+  }
+}

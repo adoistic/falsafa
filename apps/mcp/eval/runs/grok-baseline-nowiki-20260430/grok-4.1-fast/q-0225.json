@@ -1,0 +1,284 @@
+{
+  "answer": "Manu's *Manusmṛti* (Chapter 1) and the *Viṣṇu Smṛti* (Chapter 20) present highly similar accounts of the four *yugas* (cosmic ages)—Kṛta, Tretā, Dvāpara, and Kali—as part of larger cosmological time cycles. Both texts specify identical durations in divine years (including twilights/sandhyās), totaling 12,000 divine years for one *catur-yuga* (cycle of four ages):[^1][^2]\n\n- **Kṛta Yuga**: 4,000 years + 400-year twilights before and after (total 4,800 years).[^3][^4]\n- **Tretā Yuga**: 3,000 years + 300-year twilights before and after (total 3,600 years).\n- **Dvāpara Yuga**: 2,000 years + 200-year twilights before and after (total 2,400 years).\n- **Kali Yuga**: 1,000 years + 100-year twilights before and after (total 1,200 years).[^5]\n\n*Manusmṛti* describes the sequence progressively from the perfect Kṛta age, with each subsequent age declining by 1,000 years (plus proportional twilights).[^3] In contrast, *Viṣṇu Smṛti* enumerates them in reverse order, starting from the current Kali age and multiplying upward (Kali as base, then \"double,\" \"triple,\" and \"quadruple\").[^5] This structural difference reflects *Viṣṇu Smṛti*'s emphasis on the present degraded age amid a discourse on time's inexorability.\n\nBoth embed the *yugas* in shared larger cycles (*manvantaras* of 71 *catur-yugas*, *kalpas* of 1,000 *catur-yugas*, etc., equaling Brahma's day/night). *Manusmṛti* uniquely elaborates moral decline across the ages: *dharma* (righteousness) is \"four-footed\" (complete) in Kṛta but loses one \"foot\" per age due to unrighteousness, theft, and deceit, paralleling reduced human lifespan, virtue, and ritual efficacy.[^6] *Viṣṇu Smṛti* Chapter 20 implies decline through sequence but focuses more on time's destructive power and impermanence, without explicit ethical details here.\n\n[^1]: *Manusmṛti* 1.68–71, [/works/unknown-manusmrti-347b76/01/translation/#p-a22081](/works/unknown-manusmrti-347b76/01/translation/#p-a22081).\n[^2]: *Viṣṇu Smṛti* 20.10, [/works/unknown-visnu-smrti-27f0d8/20/translation/#p-f69ec1](/works/unknown-visnu-smrti-27f0d8/20/translation/#p-f69ec1).\n[^3]: *Manusmṛti* 1.69, [/works/unknown-manusmrti-347b76/01/translation/#p-a2767c](/works/unknown-manusmrti-347b76/01/translation/#p-a2767c).\n[^4]: *Manusmṛti* 1.70, [/works/unknown-manusmrti-347b76/01/translation/#p-85c454](/works/unknown-manusmrti-347b76/01/translation/#p-85c454).\n[^5]: *Viṣṇu Smṛti* 20.6–10, [/works/unknown-visnu-smrti-27f0d8/20/translation/#p-40c18a](/works/unknown-visnu-smrti-27f0d8/20/translation/#p-40c18a).\n[^6]: *Manusmṛti* 1.81–82, [/works/unknown-manusmrti-347b76/01/translation/#p-fcafde](/works/unknown-manusmrti-347b76/01/translation/#p-fcafde).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "four ages yugas"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu yugas"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yuga"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yugas"
+      },
+      "result_summary": "Found 22 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kṛta\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"treta\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmasastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-visnu-smrti-27f0d8",
+        "topic": "yugas"
+      },
+      "result_summary": "{\"topic\":\"yugas\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\",\"auth"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-a22081",
+          "p-a2767c",
+          "p-85c454",
+          "p-03b23e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-fcafde",
+          "p-1365cd"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-40c18a",
+          "p-4ac5b0",
+          "p-0c6a44",
+          "p-3dbfee",
+          "p-f69ec1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 20,
+      "paragraph_id": "p-a22081"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 20,
+      "paragraph_id": "p-f69ec1"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 20,
+      "paragraph_id": "p-a2767c"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 20,
+      "paragraph_id": "p-85c454"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 20,
+      "paragraph_id": "p-40c18a"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 20,
+      "paragraph_id": "p-fcafde"
+    }
+  ],
+  "duration_ms": 37805,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 57407,
+    "completion_tokens": 4473,
+    "total_tokens": 61880,
+    "cached_tokens": 35884,
+    "api_calls": 5,
+    "cost_usd": 0.0083353,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1560,
+        "completion_tokens": 338,
+        "total_tokens": 1898,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0002512
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1849,
+        "completion_tokens": 642,
+        "total_tokens": 2491,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00046145
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 8893,
+        "completion_tokens": 571,
+        "total_tokens": 9464,
+        "cached_tokens": 1844,
+        "cost_usd": 0.0017875
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "list_chapters",
+          "compare_works"
+        ],
+        "prompt_tokens": 22096,
+        "completion_tokens": 1156,
+        "total_tokens": 23252,
+        "cached_tokens": 8888,
+        "cost_usd": 0.003664
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 23009,
+        "completion_tokens": 1766,
+        "total_tokens": 24775,
+        "cached_tokens": 22091,
+        "cost_usd": 0.00217115
+      }
+    ]
+  }
+}

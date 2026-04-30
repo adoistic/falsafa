@@ -1,0 +1,92 @@
+{
+  "answer": "**The Falsafa corpus contains Allama Iqbal's *Bang-e-Dara* (translated as \"The Call of the Marching Bell\" or similar), split across three works: *Bang-E-Dara Part 1*, *Part 2*, and *Part 3*.**[^1]\n\n**However, the corpus does not contain any discussion—grammatical, poetic, or otherwise—of the Persian/Urdu izafat (ezafe) construction in the title 'Bang-e-Dara', how it composes a meaning like 'bell-call' or 'sound of the bell/march', or why Iqbal chose this compound form over a simple noun.** Searches for relevant terms like \"izafat\", \"ezafe\", or \"bang-e-dara\" (in English translations) yield no explanatory passages, and the texts themselves are poetry (transliterations and English translations) without linguistic analysis, prefaces, or notes on the title's etymology or syntax.[^2][^3]\n\n**If this refers to external linguistic scholarship on Persianate poetics (e.g., izafat as a genitive/attributive linker: بنگِ درا / bang-e-darā, where -e- indicates 'sound/call of the dara'—a marching/caravan bell), it is not covered here.**\n\n[^1]: *Allama Iqbal, Bang-E-Dara Part 1* (full work metadata listing the title and author).\n[^2]: Corpus search results for \"Bang-e-Dara\", \"Iqbal\", \"izafat\", \"ezafe\", and \"\\\"bang-e-dara\\\"\".\n[^3]: Sample chapter metadata from *Bang-E-Dara Part 1*, e.g., Chapter 1.[^3]: Sample chapter metadata from *Bang-E-Dara Part 1*, e.g., Chapter 1.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "izafat",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ezafe",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bang-e-dara\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 18082,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 10539,
+    "completion_tokens": 2305,
+    "total_tokens": 12844,
+    "cached_tokens": 3064,
+    "api_calls": 2,
+    "cost_usd": 0.0028007,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1568,
+        "completion_tokens": 853,
+        "total_tokens": 2421,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0005103
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 8971,
+        "completion_tokens": 1452,
+        "total_tokens": 10423,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0022904
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "answer": "'Ofermod'—an Old English compound denoting excessive pride, overconfidence, or hubris—is not attested verbatim in the Falsafa corpus translations (which render Old English texts into modern English). However, its concept is vividly implicit throughout the poem *Vainglory* (Chapter 12 of *Old English Elegies*), where the original terms *oferhygd* ('over-thought/pride'), *oferhygda* (genitive plural), and *ofermēdum* ('in excessive prides/meeds') capture this vice as a swelling of the spirit leading to malice, envy, demonic influence, and damnation.[^1][^2] The poem warns against it as a peril at feasts, where wine incites warriors to boast and contend vainly, likening the proud man to Satan's offspring and contrasting him with the humble, who earn heavenly reward.[^3]\n\nThe translation renders these as \"vainglory,\" \"overweening pride,\" and simply \"pride,\" framing *ofermod*-like excess as antithetical to Christian *eaðmodness* (humility): one puffed up with it \"presses on with power, an unseemly spirit swells up within him,\" full of \"treacherous wiles\" and destined for torment with serpents, echoing the angels' fall through pride.[^4]\n\nElsewhere in the corpus, related senses of excessive pride appear in Cynewulf's *Andreas* (Ch. 1), where captors mock the saint: \"Where is your glory, that you **in your pride** raised up so high, when you humbled the worship of our own gods?\"—portraying it as defiant presumption against divine order.[^5] Similar hubristic themes recur in Cynewulf's *Elene* and *Juliana* (both Ch. 1), though less explicitly tied to a single term.[^6]\n\nNo other works directly address *ofermod* by name or equivalent; the corpus emphasizes it most in *Vainglory* as a social and spiritual danger in Anglo-Saxon hall-culture.\n\n[^1]: *Old English Elegies*, Ch. 12 (*Vainglory*), original variant, [p-390a47](/works/unknown-old-english-elegies-d5fe9e/12-vainglory/original/#p-390a47) (\"Sum on oferhygdo\"); [p-d62eb5](/works/unknown-old-english-elegies-d5fe9e/12-vainglory/original/#p-d62eb5) (later *oferhygda* and *ofermedum*).\n\n[^2]: *Old English Elegies*, Ch. 12, transliteration variant, full chapter [/works/unknown-old-english-elegies-d5fe9e/12-vainglory/transliteration/].\n\n[^3]: *Old English Elegies*, Ch. 12, translation variant, full chapter [/works/unknown-old-english-elegies-d5fe9e/12-vainglory/translation/].\n\n[^4]: *Old English Elegies*, Ch. 12 (*Vainglory*), translation, [p-946b37](/works/unknown-old-english-elegies-d5fe9e/12-vainglory/translation/#p-946b37).\n\n[^5]: Cynewulf, *Andreas*, Ch. 1, translation, [p-02e4ce](/works/cynewulf-andreas-07b573/01/translation/#p-02e4ce).\n\n[^6]: Cynewulf, *Elene*, Ch. 1, translation [/works/cynewulf-elene-d2d132/01/translation/]; *Juliana*, Ch. 1, translation [/works/cynewulf-juliana-9a2157/01/translation/].",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ofermod",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vainglory",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.12 of unknown-old-english-elegies-d5fe9e (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.12 of unknown-old-english-elegies-d5fe9e (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"overweening pride\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pride",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"excessive pride\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12,
+        "limit": 10
+      },
+      "result_summary": "Found 10 related"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-946b37"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-390a47"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-d62eb5"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-946b37"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-02e4ce"
+    }
+  ],
+  "duration_ms": 64378,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 26032,
+    "completion_tokens": 5798,
+    "total_tokens": 31830,
+    "cached_tokens": 12595,
+    "api_calls": 4,
+    "cost_usd": 0.00621615,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 686,
+        "total_tokens": 2242,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006317
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3205,
+        "completion_tokens": 1144,
+        "total_tokens": 4349,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011905
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 9100,
+        "completion_tokens": 1838,
+        "total_tokens": 10938,
+        "cached_tokens": 3200,
+        "cost_usd": 0.002259
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "find_related",
+          "get_passage"
+        ],
+        "prompt_tokens": 12171,
+        "completion_tokens": 2130,
+        "total_tokens": 14301,
+        "cached_tokens": 9095,
+        "cost_usd": 0.00213495
+      }
+    ]
+  }
+}

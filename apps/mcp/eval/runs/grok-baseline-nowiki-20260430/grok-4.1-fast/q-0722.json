@@ -1,0 +1,132 @@
+{
+  "answer": "**There is no passage in *Andreas* (cynewulf-andreas-07b573) that names a specific number of days spent at sea.** \n\nThe poem describes Andrew's sea voyage to Mermedonia in real time—boarding the ship, a storm, conversations, sleep, and sudden arrival at dawn—with no mention of elapsed days or nights on the water.[^1] Other numbered time periods appear (e.g., Matthew's 30-day wait for execution,[^2] 20 nights remaining on that sentence,[^3] three days/nights of Andrew's later torments on land,[^4] seven nights' stay in the city[^5]), but none quantify the sea journey itself. The voyage is divinely swift, aided by God and angels disguised as sailors.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"days at sea\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "andreas days sea",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seven days\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "days ship",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"days\" sea",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 26097,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 26697,
+    "completion_tokens": 2339,
+    "total_tokens": 29036,
+    "cached_tokens": 6009,
+    "api_calls": 4,
+    "cost_usd": 0.00560755,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 523,
+        "total_tokens": 2073,
+        "cached_tokens": 1530,
+        "cost_usd": 0.000342
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2019,
+        "completion_tokens": 520,
+        "total_tokens": 2539,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006413
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2320,
+        "completion_tokens": 283,
+        "total_tokens": 2603,
+        "cached_tokens": 2014,
+        "cost_usd": 0.0003034
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 20808,
+        "completion_tokens": 1013,
+        "total_tokens": 21821,
+        "cached_tokens": 2315,
+        "cost_usd": 0.00432085
+      }
+    ]
+  }
+}

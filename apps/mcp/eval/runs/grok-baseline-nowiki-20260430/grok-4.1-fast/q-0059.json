@@ -1,0 +1,163 @@
+{
+  "answer": "**\"Ek Pahar aur Gilehri\" (A Mountain and a Squirrel)** is a fable-like poem from Allama Iqbal's *Bang-E-Dara Part 1*.[^1]\n\nIn it, a proud mountain mocks the tiny squirrel for its small size, boasting of its own towering height and majesty while belittling the squirrel's intellect and existence: \"A tiny thing, with such conceit, what can one say? Such intellect and sense you put on full display!\"[^2] The squirrel responds with wisdom and humility, arguing that physical size is irrelevant to true value. It points out God's purposeful design in creation—making the mountain mighty but immobile, while granting the squirrel agility to climb trees and crack nuts: \"That I'm not large like you is no disgrace to me; For you are not as small as I am, you can see. In everything, the might of God is manifest; His wisdom makes some large, and small He makes the rest.\"[^3]\n\n**The poem teaches that greatness is not measured by physical scale or apparent power, but by one's unique abilities, purpose, and role in the divine order of nature.** It critiques arrogance based on superficial superiority, celebrates diversity in creation, and affirms that \"No single thing in this world is in vain; In Nature's great workshop, no creature is plain.\"[^4] This reflects Iqbal's broader themes of self-realization (*khudi*), humility before God, and the equality of all beings in fulfilling their destined functions.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 21 (\"Ek Pahar aur Gilehri\"), [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/21-ek-pahar-aur-gilehri/translation/).\n\n[^2]: Ibid., [paragraphs](/works/allama-iqbal-bang-e-dara-part-1-55b25c/21-ek-pahar-aur-gilehri/translation/#p-d43159).\n\n[^3]: Ibid., [paragraphs](/works/allama-iqbal-bang-e-dara-part-1-55b25c/21-ek-pahar-aur-gilehri/translation/#p-4fdf79#p-fa7390).\n\n[^4]: Ibid., [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/21-ek-pahar-aur-gilehri/translation/#p-4ddc6a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ek pahar aur gilehri"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mountain and squirrel\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pahar gilehri"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 21,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 21,
+        "paragraph_ids": [
+          "p-863b09",
+          "p-a2b453",
+          "p-d43159",
+          "p-13193b",
+          "p-b8e6bc",
+          "p-203a27",
+          "p-5d6e4c",
+          "p-4fdf79",
+          "p-fa7390",
+          "p-c92fa2",
+          "p-20c7d7",
+          "p-c84f73",
+          "p-4ddc6a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 13 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 21,
+        "paragraph_range": {
+          "start": 0,
+          "end": 12
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 13 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 21,
+      "paragraph_id": "p-d43159"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 21,
+      "paragraph_id": "p-4fdf79"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 21,
+      "paragraph_id": "p-fa7390"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 21,
+      "paragraph_id": "p-4ddc6a"
+    }
+  ],
+  "duration_ms": 23563,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 12216,
+    "completion_tokens": 2769,
+    "total_tokens": 14985,
+    "cached_tokens": 8981,
+    "api_calls": 4,
+    "cost_usd": 0.0024805499999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 377,
+        "total_tokens": 1931,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00026995
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2575,
+        "completion_tokens": 181,
+        "total_tokens": 2756,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00037585
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 3356,
+        "completion_tokens": 972,
+        "total_tokens": 4328,
+        "cached_tokens": 2570,
+        "cost_usd": 0.0007717
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 4731,
+        "completion_tokens": 1239,
+        "total_tokens": 5970,
+        "cached_tokens": 3351,
+        "cost_usd": 0.00106305
+      }
+    ]
+  }
+}

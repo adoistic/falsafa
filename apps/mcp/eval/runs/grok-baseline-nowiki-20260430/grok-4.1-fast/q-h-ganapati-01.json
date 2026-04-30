@@ -1,0 +1,200 @@
+{
+  "answer": "**The work is *Gaṇapatitattva* (work slug: `unknown-ganapatitattva-66a136`), Chapter 1.**[^1]\n\nThe exact month-by-month embryological sequence matching your description appears in paragraph 13:\n\n> 13. The sequence of its transformations is as follows: in one month, it becomes a clot of blood, its color like a crushed piece of spleen. In the third month, the spleen-like mass is like a single egg, its color is red, and it becomes blood. In the fourth month, the egg becomes a *Śivaliṅga*, hollow in the middle, inhabited by *Oṃkāra* and the subtle form. In the fifth month, the *Śivaliṅga* becomes an illusory form. In the sixth month, the illusory form becomes fire. In the seventh month, the fire becomes like an ivory doll. In the eighth month, the breath emerges from the *Oṃkāra*, along with flesh, bone, nails, and hair. When its yoga is complete at ten months, it emerges from its mother’s womb. Such is its nature, like that of Gaṇapati.[^1]\n\n[^1]: *Gaṇapatitattva*, [paragraph](/works/unknown-ganapatitattva-66a136/01/translation/#p-7917c1).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"clot of blood\" spleen",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"crushed piece of spleen\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"red egg of blood\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Śivaliṅga embryology",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ivory doll\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "spleen month embryo",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"first month\" clot blood embryo womb",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"egg of blood\" OR \"red egg\" embryo",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Śivaliṅga OR Sivalinga womb OR embryo OR month",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ivory doll\" embryo womb",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Omkara OR Oṃkāra embryo womb month",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-ganapatitattva-66a136 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7917c1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-7917c1"
+    }
+  ],
+  "duration_ms": 30798,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 73559,
+    "completion_tokens": 3000,
+    "total_tokens": 76559,
+    "cached_tokens": 43817,
+    "api_calls": 5,
+    "cost_usd": 0.00963925,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1705,
+        "completion_tokens": 619,
+        "total_tokens": 2324,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00042085
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2035,
+        "completion_tokens": 603,
+        "total_tokens": 2638,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00047915
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11749,
+        "completion_tokens": 322,
+        "total_tokens": 12071,
+        "cached_tokens": 150,
+        "cost_usd": 0.0024883
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 28868,
+        "completion_tokens": 528,
+        "total_tokens": 29396,
+        "cached_tokens": 11744,
+        "cost_usd": 0.004276
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 29202,
+        "completion_tokens": 928,
+        "total_tokens": 30130,
+        "cached_tokens": 28863,
+        "cost_usd": 0.00197495
+      }
+    ]
+  }
+}

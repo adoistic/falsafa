@@ -1,0 +1,151 @@
+{
+  "answer": "**Manusmṛti (Laws of Manu) 7.58** is the verse that refers to the king's six expedients of foreign policy (known as *ṣaḍguṇya* or *ṣaḍguṇyas* in Sanskrit political theory, comprising peace, war, observance/waiting, marching, duality, and alliance-seeking).[^1]\n\nIt states:\n\n> But with a Brahmana who is distinguished among them all, a wise man, the king should deliberate on the supreme counsel connected with the six political expedients. // Mn_7.58 //\n\nThis verse emphasizes consulting a chief Brahmin minister on these measures but does not enumerate them explicitly. No other verses in Chapter 7 list or detail the *ṣaḍguṇya*.\n\n[^1]: [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-c8856b/)",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king's six expedients sadgunya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"six expedients\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sadgunya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-c8856b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"political expedients\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sandhi vigraha",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-c8856b"
+    }
+  ],
+  "duration_ms": 38364,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 17784,
+    "completion_tokens": 3663,
+    "total_tokens": 21447,
+    "cached_tokens": 11938,
+    "api_calls": 4,
+    "cost_usd": 0.0035976000000000003,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1561,
+        "completion_tokens": 624,
+        "total_tokens": 2185,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003947
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 1859,
+        "completion_tokens": 335,
+        "total_tokens": 2194,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003098
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter"
+        ],
+        "prompt_tokens": 7029,
+        "completion_tokens": 1209,
+        "total_tokens": 8238,
+        "cached_tokens": 1854,
+        "cost_usd": 0.0017322
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7335,
+        "completion_tokens": 1495,
+        "total_tokens": 8830,
+        "cached_tokens": 7024,
+        "cost_usd": 0.0011609
+      }
+    ]
+  }
+}

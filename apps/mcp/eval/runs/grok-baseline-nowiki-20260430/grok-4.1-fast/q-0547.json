@@ -1,0 +1,285 @@
+{
+  "answer": "**Manusmṛti** explicitly enumerates the body's senses as eleven in total: the five organs of cognition (ear, skin, eyes, tongue, and nose); the five organs of action (anus, generative organ, hands, feet, and speech); and the mind as the eleventh.[^1]\n\n**San Hyan Tattvajnana** describes the five senses of perception (eye, ear, nose, tongue, and skin, or *pañcendriya*) and the five senses of action (speech, hands, feet, organ of generation, and organ of excretion, or *pañcakarmendriya*), totaling ten senses plus the *manas* as the eleventh.[^2] It further details the corresponding subtle elements (*tanmātras*): sound (*śabdatanmātra*), touch (*sparśatanmātra*), form (*rūpatanmātra*), taste (*rasatanmātra*), and smell (*gandhatanmātra*).\n\n**Kalpabuddha** identifies the five senses (*pañcendriya*) within the body as: eyes (*cakṣus*), ears (*śrotra*), nose (*ghrāṇa*), mouth (*jihvā*), and liver/heart (*hṛdaya*), associating each with a deity of the Pañcatathāgata.[^3]\n\n**Gaṇapatitattva** refers to the emergence of fifteen senses from the divine Selves (*ātman*s) and discusses restraining or withdrawing the senses (*indriya*) in yogic practice, but does not list them explicitly by name.[^4]\n\nSeveral other works mention the senses (*indriya*) metaphorically (e.g., as objects of restraint, enemies, or sources of attachment) but lack explicit descriptions of the body's senses.[^5] No works in Western or poetic genres (e.g., Cynewulf, Ghalib, or Comte) cover this topic.\n\n[^1]: Manusmṛti, *Chapter 2*, [paragraph](/works/unknown-manusmrti-347b76/02/translation/#p-118055).\n[^2]: San Hyan Tattvajnana, *Chapter 1*, [paragraph](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-d681ce).\n[^3]: Kalpabuddha, *Chapter 6*, [paragraph](/works/unknown-kalpabuddha-d760dc/06/translation/#p-c8567e).\n[^4]: Gaṇapatitattva, *Chapter 1*, [paragraph](/works/unknown-ganapatitattva-66a136/01/translation/#p-858826).\n[^5]: E.g., Parāśara Smṛti, *Chapter 8*, [paragraph](/works/unknown-parasara-smrti-2259be/08/translation/#p-ab1289); Kunjarakarna Dharmakathana, *Chapter 1*, [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-39472d).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "five senses",
+        "limit": 20
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sight hearing taste smell touch",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"senses of the body\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "senses sight hearing",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the senses\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eye ear nose tongue skin",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eye ear nose",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pañcendriya",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five senses\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-c8567e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d681ce"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-39472d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-ab1289"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "senses",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-8fde5d",
+          "p-118055"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-ganapatitattva-66a136 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-118055"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-d681ce"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-c8567e"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-858826"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-ab1289"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-39472d"
+    }
+  ],
+  "duration_ms": 51670,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 61680,
+    "completion_tokens": 5221,
+    "total_tokens": 66901,
+    "cached_tokens": 19975,
+    "api_calls": 5,
+    "cost_usd": 0.011950249999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1547,
+        "completion_tokens": 619,
+        "total_tokens": 2166,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038955
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2733,
+        "completion_tokens": 1058,
+        "total_tokens": 3791,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010531
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 4249,
+        "completion_tokens": 1135,
+        "total_tokens": 5384,
+        "cached_tokens": 2728,
+        "cost_usd": 0.0010081
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 11329,
+        "completion_tokens": 1085,
+        "total_tokens": 12414,
+        "cached_tokens": 4244,
+        "cost_usd": 0.0021717
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 41822,
+        "completion_tokens": 1324,
+        "total_tokens": 43146,
+        "cached_tokens": 11324,
+        "cost_usd": 0.0073278
+      }
+    ]
+  }
+}

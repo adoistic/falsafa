@@ -1,0 +1,208 @@
+{
+  "answer": "**In Charles Dunoyer's *Nouveau traité d'économie sociale, ou véritable principe de l'ordre politique considéré dans ses rapports avec la constitution naturelle de l'homme* (Vol. I, ch. 2, \"I. Influence de la race sur la liberté\"), \"race\" functions as a physiological and zoological analytic category drawn from contemporary natural history.**[^1]\n\nDunoyer deploys it to explain innate, heritable differences among human \"varieties\" (races)—chiefly Blumenbach's five: *Caucasian* (white-skinned Europeans and kin, centered as the human \"stock\"), *Mongolian* (yellow-skinned Asians), *Ethiopian* (black-skinned Africans), *American* (red-skinned natives), and *Malayan* (brown-skinned islanders)—in physical conformation (skull shape, brain volume, body proportions), sensory acuity, muscular vigor, and above all *intellectual and moral faculties*.[^2] These differences, he argues, limit or enable the *degree of liberty* each race can achieve, where liberty (defined in ch. 1 as \"power\" acquired by *developing faculties*, learning to *regulate their self-harming use*, and *confining them to non-harmful acts toward others*) varies by racial capacity for culture.[^3] All races are perfectible, but unequally: \"colored\" races lag in brain development (favoring \"animality\" over \"thought\"), progressive civilization, and thus liberty, while the Caucasian excels, as evidenced by history (Europe's mobile, advancing arts vs. China's stasis, Africans' \"barbarism\").[^4] Dunoyer insists this is descriptive, not prescriptive—no warrant for enslavement—but a fact explaining civilizational hierarchies beyond climate or institutions.[^5] He defends it against critics like Charles Comte (who prioritizes milieu), insisting race's fixity (traits persist across climates, absent intermixing) proves innate causation.[^6]\n\n**\"Race\" originates in ch. 1's analytic framework tying liberty to *faculty development* (industry, instruction, morals), which ch. 2 dissects into *internal* causes: first *race* (innate baseline), then culture (ch. 4).**[^7] Dunoyer imports it from physiologists (Blumenbach via Magendie, Lawrence, Prichard), treating races as zoological varieties with transmissible traits (no climate-induced change; mutilations/heredity fail).[^8]\n\n**It \"goes\" outward to ch. 3 (\"Influence of external circumstances\")—contrasting race's primacy with milieu's secondary/modifiable role—then frames later analyses of lifestyles (nomadism, slavery, industry) as liberty-compatible *only up to racial limits*, culminating in obstacles to full liberty even among \"purely industrious\" Caucasians.[^9]** Race thus anchors Dunoyer's hierarchy: liberty as civilization's measure, with Caucasian superiority enabling industry's triumph over parasitism.\n\nThe concept is confined to Vol. I (no major later recurrences); the corpus lacks broader Dunoyer treatments.\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, ch. 2 [full chapter](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/).\n\n[^2]: [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-904179]; [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-8393c2].\n\n[^3]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, ch. 1 [full chapter](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-fc8999).\n\n[^4]: [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-101824]; [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-b48059]; [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-25e7c5].\n\n[^5]: [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-b25b59].\n\n[^6]: [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-d0df94].\n\n[^7]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, ch. 1 [full chapter](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-fc8999); ch. 2 [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-f73842]; ch. 4 listed in work chapters.\n\n[^8]: [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-0027be]; footnotes cite Magendie (*Précis de Physiologie*), Lawrence (*Lectures on Physiology...*), etc.\n\n[^9]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, ch. 3 [full chapter](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-a30dd3) (refs. ch. 2); chs. 5–12 assess lifestyles' liberty-compatibility.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nouveau traité\" race",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nouveau traité d'économie\" race",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dunoyer race",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vol i\" race",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "race dunoyer",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 3,
+      "paragraph_id": "p-904179"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 3,
+      "paragraph_id": "p-8393c2"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 3,
+      "paragraph_id": "p-fc8999"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 3,
+      "paragraph_id": "p-101824"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 3,
+      "paragraph_id": "p-b48059"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 3,
+      "paragraph_id": "p-25e7c5"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 3,
+      "paragraph_id": "p-b25b59"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 3,
+      "paragraph_id": "p-d0df94"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 3,
+      "paragraph_id": "p-f73842"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 3,
+      "paragraph_id": "p-0027be"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 3,
+      "paragraph_id": "p-a30dd3"
+    }
+  ],
+  "duration_ms": 36528,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 43516,
+    "completion_tokens": 3846,
+    "total_tokens": 47362,
+    "cached_tokens": 6637,
+    "api_calls": 4,
+    "cost_usd": 0.00963065,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1570,
+        "completion_tokens": 304,
+        "total_tokens": 1874,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004435
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1907,
+        "completion_tokens": 463,
+        "total_tokens": 2370,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0003831
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3058,
+        "completion_tokens": 655,
+        "total_tokens": 3713,
+        "cached_tokens": 1902,
+        "cost_usd": 0.0006538
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 36981,
+        "completion_tokens": 2424,
+        "total_tokens": 39405,
+        "cached_tokens": 3053,
+        "cost_usd": 0.00815025
+      }
+    ]
+  }
+}

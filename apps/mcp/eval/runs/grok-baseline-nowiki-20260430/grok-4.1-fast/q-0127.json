@@ -1,0 +1,228 @@
+{
+  "answer": "**The ghazal \"Yeh na thi hamari qismat ke visaal-e-yaar hota\" (Diwan-E-Ghalib, chapter 204) does not contain any couplet where Ghalib refers to a preacher (or \"wa'iz\"/\"zahid\"/\"naaseh\") or their tongue being cleaved in two.**[^1]\n\nI searched the full English translation, transliteration, and original Urdu text of the chapter, as well as the broader corpus for related phrases like \"preacher's tongue,\" \"cleaved tongue,\" \"forked tongue,\" \"zahid,\" and \"naaseh\" (common terms for preacher/advisor/ascetic). No matching couplet appears in this ghazal.[^2] The closest reference is the maqta couplet critiquing mysticism and wine (\"Yeh masaail-e-tasawwuf yeh tera bayaan Ghalib / Tujhe hum wali samajhte jo na baada-khwaar hota\"), but it makes no mention of a preacher's tongue.[^3]\n\nThis may be a misremembered couplet from another Ghalib ghazal (e.g., those referencing \"zahid\" in ch. 233) or another poet like Iqbal, whose works often critique preachers (\"wa'iz\").[^4] The corpus has 239 Ghalib chapters; if you have more details (e.g., nearby lines), I can search further.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 204 (\"Yeh na thi hamari qismat ke visaal-e-yaar hota\"), [full chapter (translation)](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/204-yeh-na-thi-hamari-qismat-ke-visaal-e-yaar-hota/translation-2.md/).\n\n[^2]: Corpus search results for \"preacher,\" \"tongue,\" \"cleaved,\" \"zahid,\" etc., yielded no matches in this chapter.\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 204, [paragraph p-d75b62](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/204-yeh-na-thi-hamari-qismat-ke-visaal-e-yaar-hota/translation/#p-d75b62).\n\n[^4]: E.g., Allama Iqbal, *Bang-E-Dara Part 1*, ch. 1, mentions \"preacher\" but no \"cleaved tongue\" [passage](/works/allama-iqbal-bang-e-dara-part-1-55b25c/01-ajab-waaiz-ki-deen-daari-hai-ya-rabb/translation/#p-fb650d).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "preacher's tongue cleaved",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ye na thi hamari qismat\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib \"world's preacher\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "qismat",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "preacher tongue",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forked tongue\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cleaved tongue",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.204 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.204 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.204 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "preacher",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tongue",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "zahid",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forked tongue\" OR \"cleaved tongue\" OR \"tongue in two\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-d75b62"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-fb650d"
+    }
+  ],
+  "duration_ms": 48014,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 85444,
+    "completion_tokens": 5245,
+    "total_tokens": 90689,
+    "cached_tokens": 30019,
+    "api_calls": 5,
+    "cost_usd": 0.015208449999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 995,
+        "total_tokens": 2558,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007876
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 1934,
+        "completion_tokens": 918,
+        "total_tokens": 2852,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0006163
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 23637,
+        "completion_tokens": 658,
+        "total_tokens": 24295,
+        "cached_tokens": 1929,
+        "cost_usd": 0.00476705
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 26265,
+        "completion_tokens": 1094,
+        "total_tokens": 27359,
+        "cached_tokens": 150,
+        "cost_usd": 0.0057775
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 32045,
+        "completion_tokens": 1580,
+        "total_tokens": 33625,
+        "cached_tokens": 26260,
+        "cost_usd": 0.00326
+      }
+    ]
+  }
+}

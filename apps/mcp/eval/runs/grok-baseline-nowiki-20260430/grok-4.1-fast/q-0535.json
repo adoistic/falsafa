@@ -1,0 +1,275 @@
+{
+  "answer": "**No works in the corpus directly engage with the tension between communal religion and individual conscience.**\n\nWhile \"conscience\" (as *conscience* or \"moral sense\") appears frequently in Charles Comte's *Traité de Législation: VOL I* (e.g., Chapter 4, discussing how conscience varies by culture and enlightenment, sometimes referencing Christian vs. non-Christian practices)[^1] and Charles Dunoyer's *Nouveau traité d'économie* volumes (e.g., ethical dimensions of industry and law),[^2] these treat conscience philosophically or morally, not in explicit conflict with communal religious structures.\n\nReligion and faith appear in poetic works like Allama Iqbal's *Bang-E-Dara* parts (exploring Islamic revival, community, and personal spirituality)[^3] and Cynewulf's Old English saint poems (*Andreas*, *Elene*, *Juliana*, emphasizing faithful martyrdom amid persecution),[^4] as well as theoretical discussions in Comte and Dunoyer (e.g., religion's influence on liberty and slavery).[^5] However, no text frames a direct tension—such as religious liberty of conscience vs. communal doctrine—using those terms or concepts. Searches for phrases like \"individual conscience,\" \"liberty of conscience,\" \"freedom of conscience,\" \"religious freedom,\" or related yielded zero results.\n\nJohann Gottlieb Fichte's *Zurückforderung der Denkfreiheit* addresses freedom of thought against princely authority,[^6] but not religious communalism vs. individual conscience.\n\nThe corpus (37 works, mostly Indic law codes, Urdu poetry, Old English literature, and French liberal theory) lacks coverage of this topic.\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, Chapter 4, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/04-de-deux-elements-essentiels-au-progres-des-science/translation/#p-bc7d91).\n\n[^2]: E.g., Charles Dunoyer, *Nouveau traité d'économie: VOL II*, Chapter 14, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/14-iv-des-conditions-auxquelles-toute-industrie-peut-/translation/#p-dbf840).\n\n[^3]: E.g., Allama Iqbal, *Bang-E-Dara Part 3*, Chapter 4, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-0f859f).\n\n[^4]: E.g., Cynewulf, *Andreas*, Chapter 1, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-c4d450).\n\n[^5]: E.g., Charles Dunoyer, *Nouveau traité d'économie: VOL I*, Chapter 8, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/08-iii-liberte-compatible-avec-la-maniere-de-vivre-de/translation/#p-302b58).\n\n[^6]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens* (metadata only; no matching snippets).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "conscience",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"individual conscience\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty of conscience\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"personal conscience\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"faith\" community",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"religion\" individual",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"conscience\" religion",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"conscience\" church",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"conscience\" faith",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "religious freedom",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"freedom of conscience\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty of conscience\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"religious liberty\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "religion"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "theology"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "religion",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "church",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "faith",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "toleration",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tolerance",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"free exercise\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-bc7d91"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-dbf840"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-0f859f"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-c4d450"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-302b58"
+    }
+  ],
+  "duration_ms": 31134,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 35841,
+    "completion_tokens": 3508,
+    "total_tokens": 39349,
+    "cached_tokens": 7222,
+    "api_calls": 4,
+    "cost_usd": 0.0078389,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 678,
+        "total_tokens": 2228,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006265
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6262,
+        "completion_tokens": 726,
+        "total_tokens": 6988,
+        "cached_tokens": 150,
+        "cost_usd": 0.0015929
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 6777,
+        "completion_tokens": 690,
+        "total_tokens": 7467,
+        "cached_tokens": 150,
+        "cost_usd": 0.0016779
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21252,
+        "completion_tokens": 1414,
+        "total_tokens": 22666,
+        "cached_tokens": 6772,
+        "cost_usd": 0.0039416
+      }
+    ]
+  }
+}

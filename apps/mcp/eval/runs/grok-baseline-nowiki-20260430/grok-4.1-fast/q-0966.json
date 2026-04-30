@@ -1,0 +1,258 @@
+{
+  "answer": "In Allama Iqbal's poem \"Sach keh doon ae Brahman! gar tu bura na maane\" (*Bang-E-Dara Part 1*, ch. 36), he directly addresses a Brahmin, critiquing the decay of idol worship and caste divisions while calling for a shared spiritual renewal rooted in love, unity, and reverence for the homeland:\n\n> O Brahmin, if you will not take offense,  \n> Your ancient idols have lost reverence.[^1]  \n>   \n> From them you learned to hold your kin in scorn;  \n> From God, the Preacher learned how war is born.[^2]  \n>   \n> ...  \n>   \n> You think your God is in a form of stone;  \n> To me, my homeland's every speck is divine.[^3]  \n>   \n> Come, let us lift the veils of otherness anew,  \n> And wipe away the lines that make us two.[^4]\n\nIqbal urges the Brahmin to abandon stone idols and scriptural tales that foster division, proposing instead a \"new shrine\" in the heart, a pilgrimage of love that unites humanity beyond religious or caste lines.[^5]\n\n**Juxtaposed with Manu:** In the *Manusmṛti* (ch. 7), Manu prescribes that kings must venerate and serve Brahmins as the highest authority and imperishable treasure:\n\n> A king, having risen in the morning, should wait upon the Brahmanas who are aged and learned in the three Vedas, and he should abide by their instruction.[^6]  \n>   \n> He should constantly serve aged Brahmanas who know the Veda and are pure; for he who constantly serves the aged is honored even by Rakshasas.[^7]  \n>   \n> ...  \n>   \n> He should be a worshipper of Brahmanas who have returned from their *guru's* house; for this is called the imperishable Brahmanical treasure of kings.[^8]\n\nThe king derives legitimacy, counsel, and spiritual protection from Brahmins, who embody divine authority—no reform or self-critique is demanded of them.[^9]\n\n**Comparison:** Iqbal's Brahmin is the more theologically demanding figure. Manu elevates the Brahmin as an object of royal deference and service, requiring no introspection or change from the Brahmin himself. Iqbal, by contrast, confronts the Brahmin with a radical call to transcend idolatry, reject divisive kin-scorn, and embrace universal love—positioning the Brahmin not as an untouchable authority but as one needing prophetic reform to realize true divinity in the human heart and homeland.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 36 (\"Sach keh doon ae Brahman! gar tu bura na maane\"), [p-752d60](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-752d60).\n[^2]: Ibid., [p-c536e2](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-c536e2).\n[^3]: Ibid., [p-db56fb](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-db56fb).\n[^4]: Ibid., [p-3a582d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-3a582d).\n[^5]: Ibid., full chapter, [citation_url](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/).\n[^6]: *Manusmṛti*, ch. 7, [p-cbe0d7](/works/unknown-manusmrti-347b76/07/translation/#p-cbe0d7).\n[^7]: Ibid., [p-ad5b10](/works/unknown-manusmrti-347b76/07/translation/#p-ad5b10).\n[^8]: Ibid., [p-d1e48b](/works/unknown-manusmrti-347b76/07/translation/#p-d1e48b).\n[^9]: Ibid., full chapter, [citation_url](/works/unknown-manusmrti-347b76/07/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sach Keh Doon\" Brahman"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Brahman\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tell the truth\" Brahman"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahmin OR Brahman Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin\" OR \"Brahman\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" Brahmin OR Brahman Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" Brahmin OR Brahman OR brahmana",
+        "limit": 20
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king \"Brahmin\" Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin\" king venerate OR worship OR honour"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-752d60"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-c536e2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-db56fb"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-3a582d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-cbe0d7"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-ad5b10"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-d1e48b"
+    }
+  ],
+  "duration_ms": 38345,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 45647,
+    "completion_tokens": 3995,
+    "total_tokens": 49642,
+    "cached_tokens": 13195,
+    "api_calls": 4,
+    "cost_usd": 0.00914765,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1583,
+        "completion_tokens": 688,
+        "total_tokens": 2271,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0004311
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2297,
+        "completion_tokens": 657,
+        "total_tokens": 2954,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007654
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9228,
+        "completion_tokens": 563,
+        "total_tokens": 9791,
+        "cached_tokens": 2292,
+        "cost_usd": 0.0017833
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 32539,
+        "completion_tokens": 2087,
+        "total_tokens": 34626,
+        "cached_tokens": 9223,
+        "cost_usd": 0.00616785
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "answer": "**The work is *Vrhaspatitattva* (unknown author), Chapter 1.**[^1]\n\nIn this passage, the divine instructor Śrīkaṇṭha speaks in the first person to his pupil Vṛhaspati, identifying himself within the succession and confessing his backstory.\n\n**The succession-list:** \"Ananta, Sūkṣma, Śivatama, Ekarudra, Ekanetra, Trimūrti, Śrīkaṇṭha, and Śikhaṇḍī.\" He explains: \"The holy Sūkṣma replaces Ananta, Śivatama replaces Sūkṣma, Ekarudra replaces Śivatama, Ekanetra replaces Ekarudra, Trimūrti replaces Ekanetra, Śrīkaṇṭha replaces Trimūrti, and Śikhaṇḍī replaces Śrīkaṇṭha. I am that Śrīkaṇṭha.\"[^1]\n\n**The Kāmadeva-and-Umā confession:** \"But I was shot with passion by Lord Kāma. I gazed upon the holy Kāma, and because he was gazed upon with my poison-sight, the body of the holy Kāmadeva was shattered, incinerated, and turned to ash. But the passion (*rāga*) remained in me. That is why I took your mother, the Lady Umā, as my wife, and we had a son, the holy Sanatkumāra.\"[^1]\n\n[^1]: *Vrhaspatitattva*, [p-4d2295](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-4d2295).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ananta Sūkṣma",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Śrīkaṇṭha\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sanatkumāra\" Umā",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"god of love\" ash",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Srikantha",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sikhandi OR Sikhandin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sanatkumara Uma",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"god of love\" ash OR \"Kama\" ash passion",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Lady Uma\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ekanetra OR Ekarudra OR Suksma OR Sivatama",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"struck by passion\" OR \"gazed upon the god of love\" OR Kāmadeva OR \"turned to ash\" OR Sanatkumāra OR Umā",
+        "limit": 10
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4d2295"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-4d2295"
+    }
+  ],
+  "duration_ms": 37140,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 69432,
+    "completion_tokens": 4395,
+    "total_tokens": 73827,
+    "cached_tokens": 36918,
+    "api_calls": 5,
+    "cost_usd": 0.010546199999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1727,
+        "completion_tokens": 601,
+        "total_tokens": 2328,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006234
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2000,
+        "completion_tokens": 1148,
+        "total_tokens": 3148,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009515
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4092,
+        "completion_tokens": 590,
+        "total_tokens": 4682,
+        "cached_tokens": 1995,
+        "cost_usd": 0.00081415
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30541,
+        "completion_tokens": 1037,
+        "total_tokens": 31578,
+        "cached_tokens": 4087,
+        "cost_usd": 0.00601365
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 31072,
+        "completion_tokens": 1019,
+        "total_tokens": 32091,
+        "cached_tokens": 30536,
+        "cost_usd": 0.0021435
+      }
+    ]
+  }
+}

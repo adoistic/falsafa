@@ -1,0 +1,140 @@
+{
+  "answer": "In Allama Iqbal's \"Bilad-e-Islamiya\" from *Bang-e-Dara Part 3*, Baghdad is evoked as a *gulshan*—an earthly paradise whose every bud (*ghuncha*) itself contains a garden (*chaman*):\n\n> This is that garden whose every bud was a garden in itself;  \n> This is the final tomb of those before whom Rome would tremble.[^1]\n\nHere, the *gulshan* figures an idealized Islamic community: a self-renewing polity of such splendor and might that it made empires quake, rivaling the Koranic Iram of the pillars (mentioned lines prior).[^2]\n\nThe English \"garden\" flattens this layered resonance. In Persian-Urdu poetics, *gulshan* draws from *pairidaeza* (enclosed paradise) as a verdant, symmetrical idyll—chambers of roses, fountains, nightingales—symbolizing cosmic harmony, communal flourishing under divine order, and the soul's ascent amid earthly delights. It connotes not mere horticulture but a perfected society: abundant, enclosed against chaos, fragrant with spiritual vitality, where power blooms organically from piety. \"Garden\" evokes a backyard plot; *gulshan* pulses with the *bāgh* as microcosm of Edenic polity.[^3]",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gulshan",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "error BAD_QUERY: get_passage requires either paragraph_ids or paragraph_range"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "transliteration"
+      },
+      "result_summary": "error BAD_QUERY: get_passage requires either paragraph_ids or paragraph_range"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 39108,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 44051,
+    "completion_tokens": 4039,
+    "total_tokens": 48090,
+    "cached_tokens": 20609,
+    "api_calls": 4,
+    "cost_usd": 0.00773835,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1588,
+        "completion_tokens": 277,
+        "total_tokens": 1865,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004336
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus"
+        ],
+        "prompt_tokens": 4708,
+        "completion_tokens": 1509,
+        "total_tokens": 6217,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00146675
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 18785,
+        "completion_tokens": 973,
+        "total_tokens": 19758,
+        "cached_tokens": 150,
+        "cost_usd": 0.004221
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 18970,
+        "completion_tokens": 1280,
+        "total_tokens": 20250,
+        "cached_tokens": 18780,
+        "cost_usd": 0.001617
+      }
+    ]
+  }
+}

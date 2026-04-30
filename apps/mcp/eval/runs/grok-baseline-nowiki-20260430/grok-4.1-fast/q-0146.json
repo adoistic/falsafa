@@ -1,0 +1,151 @@
+{
+  "answer": "**\"Goristan-e-Shahi\" (The Royal Graveyard), Chapter 9 of *Bang-E-Dara Part 3* by Allama Iqbal, is a reflective poem contemplating the ruins, tombs, and history of the royal graveyard—likely the historic site in Aurangabad housing Nizam Shahi tombs.**[^1]\n\nThe poem richly describes the desolate atmosphere, fallen kings' tombs (\"A graveyard, yes, but dust of high degree, / A fallen nation’s final treasury\" [p-49c46c]), their past glory (\"In this dark grave, those suns of glory lie, / Before whose gates once bowed the very sky\" [p-04f912]), Death's inevitability, and national sorrow (\"Our hearts are filled with memories of the past, / This nation’s love for its lost kings will last\" [p-f20096]). However, it contains **no lines where Iqbal (or a first-person narrator) explicitly walks, strolls, or moves among the royal tombs**. The perspective is observational and meditative, without personal locomotion described.[^1][^2]\n\nIf you're recalling a different poem, prose reflection, or secondary source about Iqbal's visit (e.g., his travels), it's not present here. The full English translation is available in the cited chapter.[^1]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, [Chapter 9: Goristan-e-Shahi (translation)](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/).\n\n[^2]: Searches for phrases like \"walks among,\" \"royal tombs,\" \"tombs royal,\" and \"walks tombs\" across the English corpus returned zero matches, confirming the absence.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Goristan-e-Shahi",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"royal tombs\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"walks among\" tombs"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Goristan Shahi\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tombs royal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "walks tombs"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-49c46c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-04f912"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-f20096"
+    }
+  ],
+  "duration_ms": 20887,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 11764,
+    "completion_tokens": 2127,
+    "total_tokens": 13891,
+    "cached_tokens": 5781,
+    "api_calls": 3,
+    "cost_usd": 0.00254915,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 677,
+        "total_tokens": 2229,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00041925
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2726,
+        "completion_tokens": 494,
+        "total_tokens": 3220,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00056285
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7486,
+        "completion_tokens": 956,
+        "total_tokens": 8442,
+        "cached_tokens": 2721,
+        "cost_usd": 0.00156705
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "answer": "**Chapter 1 of the *Yājñavalkya Smṛti* opens with the sages requesting instruction on the *dharma* of the *varṇa*s (social classes) and *āśrama*s (life-stages):**[^1]\n\n> Declare to us in their entirety the *dharma* of the *varṇa*s, the life-stages, and the others. // Yj_1.1 //\n\nHowever, no verses in this chapter explicitly outline or list **all four *āśrama*s** (brahmacarya/student celibate, gṛhastha/householder, vānaprastha/hermit, and sannyāsa/sannyāsin/ascetic) together, particularly for a Brāhmaṇa. Instead:\n\n- **Brahmacarya (*āśrama*)** is detailed extensively in the subsection \"2. The Student Celibate (*brahmacāriprakaraṇam*)\", from verse 1.10 (defining the *varṇa*s and initiation) through 1.50 (perpetual student attaining liberation).[^2][^3]\n- **Gṛhastha (*āśrama*)** follows indirectly through marriage rules (verses 1.51–96, \"3. Marriage\") and explicitly in \"5. The Duties of a Householder (*gṛhasthadharmaprakaraṇam*)\", verses 1.97–128.[^4]\n- **Vānaprastha and sannyāsa** are **not covered in Chapter 1**. These appear later in **Chapter 3** (\"On Expiation\"), under \"3. The Duties of a Hermit (*vānaprasthadharmaprakaraṇam*)\", Yj. 3.45–55, and \"4. The Duties of the Ascetic (*yatidharmaprakaraṇam*)\", Yj. 3.56+.[^5]\n\nThe text thus addresses the first two *āśrama*s for twice-born men (including Brāhmaṇas) in Chapter 1 as part of general conduct (*ācāra*), but the full set spans chapters. If every classical topic were consolidated, the structure would differ; here, it aligns with the *smṛti*'s topical organization (Chapter 1: conduct; Chapter 3: later stages amid expiation/distress rules).\n\n[^1]: *Yājñavalkya Smṛti*, Chapter 1, [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-97f0a4).\n[^2]: *Yājñavalkya Smṛti*, Chapter 1, verses 1.10–14 (varṇas, upanayana/initiation), [paragraphs](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-546db5).\n[^3]: *Yājñavalkya Smṛti*, Chapter 1, verse 1.50 (end of brahmacārin duties), [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-36dbed).\n[^4]: *Yājñavalkya Smṛti*, Chapter 1, verse 1.97 (householder's daily rites), [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-6c5d0a).\n[^5]: *Yājñavalkya Smṛti*, Chapter 3, [Chapter overview](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"four ashramas\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ashrama brahmin"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmacari grihastha"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahmacāri\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vanaprastha"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sannyāsa"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life-stages\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"four stages\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-97f0a4"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-546db5"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-36dbed"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-6c5d0a"
+    }
+  ],
+  "duration_ms": 50290,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 69243,
+    "completion_tokens": 5095,
+    "total_tokens": 74338,
+    "cached_tokens": 33633,
+    "api_calls": 5,
+    "cost_usd": 0.01135115,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1565,
+        "completion_tokens": 836,
+        "total_tokens": 2401,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0005015
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2540,
+        "completion_tokens": 377,
+        "total_tokens": 2917,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00046715
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2930,
+        "completion_tokens": 252,
+        "total_tokens": 3182,
+        "cached_tokens": 2535,
+        "cost_usd": 0.00033175
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 25119,
+        "completion_tokens": 1368,
+        "total_tokens": 26487,
+        "cached_tokens": 2925,
+        "cost_usd": 0.00526905
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 37089,
+        "completion_tokens": 2262,
+        "total_tokens": 39351,
+        "cached_tokens": 25114,
+        "cost_usd": 0.0047817
+      }
+    ]
+  }
+}

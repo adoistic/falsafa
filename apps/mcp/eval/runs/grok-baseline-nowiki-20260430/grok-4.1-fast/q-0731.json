@@ -1,0 +1,183 @@
+{
+  "answer": "**Manusmṛti Chapter 8 outlines penalties for physical assaults, including threats with limbs or objects interpreted as weapons (such as a stick, akin to a basic weapon). There is no verbatim reference to \"pointing a weapon\" at a Brahmin without using it, but the closest match appears in the rules for assault, where threatening gestures escalate based on the victim's status (Brahmin as the superior varṇa).**\n\nThe text states: \"With whatever limb a low-born man should injure a superior, that very limb of his shall be cut off.\"[^1] Immediately following: \"He who raises his hand or a stick deserves to have his hand cut off; he who strikes in anger with his foot deserves to have his foot cut off.\"[^2]\n\nThis applies in context to assaults on superiors (including Brahmins), as the preceding verse specifies low-born assailants against superiors. Raising a stick—understood as a weapon or rod (*daṇḍa*)—without striking warrants **amputation of the hand**. No lesser penalty (e.g., fine) is listed for this threat alone; actual injury invokes the \"limb-for-limb\" rule.[^1]\n\n**No other passage in Chapter 8 precisely matches \"pointing a weapon\" (no terms like \"aims,\" \"directs,\" or specific weapons like sword/bow appear in threats against Brahmins).** Penalties intensify for Brahmins throughout (e.g., verbal abuse fines higher against them), but threats remain tied to the act described.[^3]\n\n[^1]: Manusmṛti, [8.279](/works/unknown-manusmrti-347b76/08/translation/#p-526528).\n[^2]: Manusmṛti, [8.280](/works/unknown-manusmrti-347b76/08/translation/#p-c0dabc).\n[^3]: Manusmṛti, Chapter 8 overview ([full chapter](/works/unknown-manusmrti-347b76/08/translation/)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"weapon\" brahmin",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"points\" weapon brahmin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmin weapon",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hand\" brahmin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"stick\" brahmin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "raises brahmin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cut off\" brahmin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-526528",
+          "p-c0dabc",
+          "p-a209b7"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-526528"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-c0dabc"
+    }
+  ],
+  "duration_ms": 54704,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 63964,
+    "completion_tokens": 4812,
+    "total_tokens": 68776,
+    "cached_tokens": 34895,
+    "api_calls": 4,
+    "cost_usd": 0.009964549999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1560,
+        "completion_tokens": 522,
+        "total_tokens": 2082,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003435
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1837,
+        "completion_tokens": 397,
+        "total_tokens": 2234,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00033655
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30009,
+        "completion_tokens": 2479,
+        "total_tokens": 32488,
+        "cached_tokens": 1832,
+        "cost_usd": 0.0069665
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_passage"
+        ],
+        "prompt_tokens": 30558,
+        "completion_tokens": 1414,
+        "total_tokens": 31972,
+        "cached_tokens": 30004,
+        "cost_usd": 0.002318
+      }
+    ]
+  }
+}

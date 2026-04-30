@@ -1,0 +1,225 @@
+{
+  "answer": "**No works in the corpus have poetry, poets, or song-craft as their primary subject.** The Falsafa corpus primarily consists of philosophical treatises, legal texts (smṛtis), economic and political theory, and collections of poetry. While poetry appears as a form or incidental topic in several (e.g., Allama Iqbal's *Bang-E-Dara* series, Mirza Ghalib's *Diwan-E-Ghalib*, Sheikh Ibrahim Zauq's *Diwan-E-Zauq*, Cynewulf's Old English poems like *Andreas*, *Elene*, and *Juliana*, and the *Old English Elegies*), and poets/song-craft are occasionally mentioned or addressed (often metaphorically, as in economic discussions by Charles Dunoyer or Charles Comte), none treat these as the central, explicit theme.[^1][^2][^3]\n\n**The closest matches are framed discussions within two works:**\n\n- **Allama Iqbal, *Bang-E-Dara Part 1* (1924)**: Chapter 39, \"Shair\" (\"The Poet\"), explicitly takes the poet's role as the \"nation’s seeing eye\"—a vital, interpretive organ that feels the nation's pains and cries out—contrasting it with the body politic (people as limbs, government as face). This is a direct, metaphorical treatise on the poet's societal function within a poetry collection.[^4]\n\n```\nThe Nation is a body, a living frame,\nIts people are the limbs that bear its name.\n[...]\nThe Poet is the Nation’s seeing eye;\nWhen one part aches, it cannot help but cry.\n```\n\n- **Mpu Dusun, *Kunjarakarna Dharmakathana* (Medieval Kawi epic)**: The lengthy prose introduction (Canto 1) explicitly addresses \"accomplished poets\" as \"scholars in beauty,\" reflects on the author's own poetic inadequacy (\"I am no poet, but a would-be poet\"), borrows from \"lords of poetry,\" and dedicates the work to poets' approval. It frames the dharmic tale as a poetic offering, but the core subject remains the elephant-eared ascetic's journey through Buddhist hells/realms toward enlightenment.[^5]\n\n```\nNow, my address to you, accomplished poets, you who are scholars in beauty: Do not say I am presumptuous [...]\nIt is merely a story retold, borrowed from the lords of poetry.\n[...]\nAn offering of flowers at the feet of the poets, may it please them [...]\n```\n\nNo results for \"song-craft,\" \"poetics,\" \"art of poetry,\" or similar. Searches yielded ~80 hits, mostly metaphorical (e.g., poets as weak/creative in Dunoyer's economics, poetry as societal good in Comte's legislation).[^6]\n\n[^1]: Corpus-wide searches for \"poetry\" (17 hits), \"poets\" (30), \"poet\" (30), \"poetics\" (0).  \n[^2]: *list_works* confirms 37 works; genres \"Literature\" include poetry but none tagged \"poetics.\"  \n[^3]: E.g., Charles Dunoyer, *Nouveau traité d'économie VOL I*, ch. 7: Poets/orators in ancient societies (incidental).[/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/07-ii-liberte-compatible-avec-la-maniere-de-vivre-des/translation/#p-454515]  \n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 39 (\"Shair\").[/works/allama-iqbal-bang-e-dara-part-1-55b25c/39-shair/translation/]  \n[^5]: *Kunjarakarna Dharmakathana*, ch. 1 (prologue, paras. p-24bfee, p-b61ff2, p-c0ea0f).[/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-24bfee]  \n[^6]: No treatise like Aristotle's *Poetics*; poetry collections discuss love/philosophy/faith, not craft itself.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poetry",
+        "limit": 30
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poets",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poet",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"song-craft\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"song craft\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poetics",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetic"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetics"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"art of poetry\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"poetic art\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 39
+      },
+      "result_summary": "Read ch.39 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38
+      },
+      "result_summary": "Read ch.38 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-1-55b25c\",\"title\":\"Bang-E-Dara Part 1\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"slug\":\"unknown-kunjarakarna-dharmakathana-894f4a\",\"title\":\"Kunjarakarna Dharmakathana\",\"author\":\"Mpu Dusun\",\"author_slug\":\"mpu-dusun\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_sl"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-454515"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-24bfee"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-b61ff2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-c0ea0f"
+    }
+  ],
+  "duration_ms": 57229,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 75442,
+    "completion_tokens": 5322,
+    "total_tokens": 80764,
+    "cached_tokens": 30933,
+    "api_calls": 4,
+    "cost_usd": 0.013109449999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 876,
+        "total_tokens": 2429,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0005185
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12167,
+        "completion_tokens": 1477,
+        "total_tokens": 13644,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00294225
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15711,
+        "completion_tokens": 1006,
+        "total_tokens": 16717,
+        "cached_tokens": 12162,
+        "cost_usd": 0.0018209
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "get_metadata",
+          "get_metadata"
+        ],
+        "prompt_tokens": 46011,
+        "completion_tokens": 1963,
+        "total_tokens": 47974,
+        "cached_tokens": 15706,
+        "cost_usd": 0.0078278
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "answer": "The riddling poem known as *The Ruin* (often identified by its opening line \"Wrætlic is þes wealstan\"), which meditates on the remnants of a once-great city destroyed by time and fate, is found as **Chapter 16** in the *Old English Elegies* collection.[^1]\n\nThis elegy describes the shattered walls, fallen towers, and decayed bathhouses of a Roman-era city (likely inspired by Bath), evoking its former splendor—crowded mead-halls, gleaming treasures, and steaming baths—now overtaken by \"Wyrd\" (fate).[^2] The poem's fragmentary and enigmatic style, with vivid ubi sunt (\"where are they?\") reflections on transience, gives it a riddling quality, as the subject (the ruined city) emerges gradually from the imagery.[^3]\n\nHere is the opening of the modern English translation:\n\n> Wondrous is this wall-stone, by Wyrd broken;  \n> Strongholds shattered, the work of giants crumbles.  \n> Roofs are toppled, towers in ruin...[^4]\n\nThe full original Old English text begins:\n\n> Wrætlic is þes wealstan, wyrde gebræcon...[^5]\n\n[^1]: *Old English Elegies*, ch. 16 (\"Wraetlic is thes wealstan...\"), [chapter](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/translation/).\n\n[^2]: *Old English Elegies*, ch. 16, [paragraphs](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/translation/#p-ba51da).\n\n[^3]: *Old English Elegies*, ch. 16, [paragraphs](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/translation/#p-dfdbda).\n\n[^4]: *Old English Elegies*, ch. 16, [paragraph](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/translation/#p-d0d2bd).\n\n[^5]: *Old English Elegies*, ch. 16, [paragraph](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/original/#p-ab68b4).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "elegy"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wraetlic is thes wealstan"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ruined city\" elegy"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"slug\":\"unknown-old-english-elegies-d5fe9e\",\"title\":\"Old English Elegies\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Literature\",\"genre_slug\":\"literatu"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.16 of unknown-old-english-elegies-d5fe9e (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-d0d2bd"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-d0d2bd",
+          "p-ba51da",
+          "p-dfdbda"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-01a952"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-ba51da"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-dfdbda"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-d0d2bd"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-ab68b4"
+    }
+  ],
+  "duration_ms": 28123,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 19419,
+    "completion_tokens": 3510,
+    "total_tokens": 22929,
+    "cached_tokens": 11405,
+    "api_calls": 4,
+    "cost_usd": 0.00392805,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 565,
+        "total_tokens": 2127,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005724
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2904,
+        "completion_tokens": 544,
+        "total_tokens": 3448,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0006233
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 6831,
+        "completion_tokens": 1025,
+        "total_tokens": 7856,
+        "cached_tokens": 2899,
+        "cost_usd": 0.00144385
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 8122,
+        "completion_tokens": 1376,
+        "total_tokens": 9498,
+        "cached_tokens": 6826,
+        "cost_usd": 0.0012885
+      }
+    ]
+  }
+}

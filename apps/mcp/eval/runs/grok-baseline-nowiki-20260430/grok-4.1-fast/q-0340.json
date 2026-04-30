@@ -1,0 +1,281 @@
+{
+  "answer": "**Iqbal's direct address to the Prophet** occurs in the visionary poem *Huzoor Risalat Ma'ab Mein* (*Bang-e-Dara Part 3*, chapter 11), where the poetic speaker (Iqbal's persona), after being led by angels into the Prophet's presence, responds to the Prophet's welcoming words with this invocation and lament:[^1]\n\n> \"O Presence! In the world, no true repose I find;  \n> The life for which we yearn is not for humankind.\"\n\nThe Prophet had just addressed the speaker as \"O Nightingale of Hijaz's garden-bower,\" praising his devotion before asking what \"gift\" he brings from the worldly realm.[^2] The speaker then offers a \"phial of crystal bright\" filled with \"the blood of Tripoli's martyrs,\" tying spiritual longing to contemporary Muslim suffering.[^3]\n\n**Cynewulf's Andrew recognizes and addresses Christ directly** in *Andreas* (chapter 1), near the poem's midpoint, upon Christ's post-sea-voyage self-revelation as the disguised \"Helmsman\" who ferried Andrew's group. Christ greets him first (\"Hail to you, Andreas...\"), and Andrew, falling to the earth, responds in humble confession and address:[^4]\n\n> “How did I do this,  \n> Wielder of men, sinful against myself,  \n> Savior of souls, that I, you so good,  \n> could not perceive on the path of the waves,  \n> where I spoke more of my words before my Maker  \n> than I should have?”\n\nChrist then elaborates at length on Andrew's mission, past reluctance, and coming trials, before departing heavenward.[^5]\n\nNeither poet markedly breaks from the conventions of devotional address, which typically feature honorific epithets (e.g., \"O Presence!\"; \"Wielder of men, Savior of souls\"), submissive posture (falling prostrate; confessional questioning), praise of divine mercy/glory, and pleas for solace amid human frailty. Both remain exemplary of the genre: Iqbal's is a classical *naʿt*-like visionary dialogue blending personal piety with *ummah*-centered lament (no raw critique or irreverence appears); Andrew's is a narrative hagiographic recognition scene, confessional yet deferential, echoing biblical modes (e.g., disciples' post-Resurrection awe). Subtle intimacy arises—Iqbal's \"gift\" evokes 1911 Italo-Turkish War martyrdoms, grounding heavenly address in history; Andrew's bold \"How did I...?\" voices apostolic doubt—but these enrich rather than rupture tradition, staying \"honestly\" devotional per the texts.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-14a317).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-ae07ba).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-bcd4f7).\n\n[^4]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-ee08ea).\n\n[^5]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-655ebf).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Huzūr Risālat-Maāb\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Andreas\" Andrew Christ"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Huzur Risalat"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Prophet\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prophet direct address iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Andrew\" \"Christ\" Cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"my lord\" Andrew Cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prophet",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Prophet\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Messenger of God\" OR \"O Messenger\" OR rasul OR huzur",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lord\" OR Christ OR \"my lord\" OR drihten",
+        "limit": 20
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ee08ea",
+          "p-655ebf",
+          "p-c1cb54"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"my lord\" OR drihten OR \"lord\" Andrew",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-14a317"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ae07ba"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-bcd4f7"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ee08ea"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-655ebf"
+    }
+  ],
+  "duration_ms": 60724,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 76878,
+    "completion_tokens": 6135,
+    "total_tokens": 83013,
+    "cached_tokens": 42220,
+    "api_calls": 5,
+    "cost_usd": 0.012110100000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1586,
+        "completion_tokens": 443,
+        "total_tokens": 2029,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005162
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2448,
+        "completion_tokens": 1371,
+        "total_tokens": 3819,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00094575
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 5609,
+        "completion_tokens": 1471,
+        "total_tokens": 7080,
+        "cached_tokens": 2443,
+        "cost_usd": 0.00149085
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 32499,
+        "completion_tokens": 603,
+        "total_tokens": 33102,
+        "cached_tokens": 5604,
+        "cost_usd": 0.0059607
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 34736,
+        "completion_tokens": 2247,
+        "total_tokens": 36983,
+        "cached_tokens": 32494,
+        "cost_usd": 0.0031966
+      }
+    ]
+  }
+}

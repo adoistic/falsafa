@@ -1,0 +1,288 @@
+{
+  "answer": "**Several works in the Falsafa corpus engage with the question of legitimate political authority, often critiquing popular theories like the social contract or general will, or outlining the basis and limits of governmental power. The most direct discussions appear in Enlightenment and 19th-century French political theory, alongside ancient Indic Dharmaśāstras (legal treatises) that prescribe the king's rightful rule grounded in dharma, justice, and protection of subjects.[^1][^2]**\n\n### Key Works in Political & Social Theory\n- **Charles Comte, *Traité de Législation: VOL I*** (Enlightenment era): This foundational text systematically critiques theories of political legitimacy. Chapter 6 analyzes Rousseau's *social contract* as a flawed basis for laws and sovereignty, arguing it leads to absurd consequences like dissolving the state over minor violations.[^3] Chapter 7 rejects the \"general will\" as a source of legitimate authority, insisting instead that \"the only legitimate authority is that which is founded on conventions\" (explicit agreements), not abstract collective wills or violence.[^4]\n- **Charles Dunoyer, *Nouveau traité d'économie: VOL I*** (19th Century): Examines how political authority expands illegitimately through administrative proliferation, turning government into a \"gigantic administration\" that absorbs privileges and interferes in all spheres of life.[^5]\n- **Charles Comte, *Traité de la propriété: VOL II*** (Enlightenment era): Discusses \"illegitimate authority\" in the context of governments imposing debts on citizens without consent or benefit, enabling spoliation via loans that alienate national resources.[^6]\n- **Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*** (Enlightenment era): Challenges princely (political) authority's right to censor thought, demanding freedom from arbitrary rule.[^7]\n\n### Ancient Indic Texts (Dharmaśāstras)\nThese classical Sanskrit works treat legitimate kingship as deriving from dharma (cosmic order), requiring rulers to protect subjects justly, appoint qualified officials, and avoid tyranny—else authority collapses.[^8]\n- **Manusmṛti** (by Manu): Chapter 7 details the king's duties, appointment of authorities, and maintenance of sovereignty through humility and justice.[^9]\n- **Bṛhaspati Smṛti**: Outlines judicial and royal authority, warning that disturbing \"the authority or livelihood of a faultless man\" causes \"royal authority [to] perish\"; the king is ultimate arbiter in disputes.[^10]\n- Similar treatments in **Aṅgirasa Smṛti**, **Kātyāyana Smṛti**, **Yājñavalkya Smṛti**, and **Viṣṇu Smṛti**, emphasizing sovereignty tied to protection, truth, and ritual duties.[^11]\n\n**Note**: The corpus (37 works) emphasizes liberal critiques and Indic jurisprudence over, e.g., Hobbes, Locke, or Confucian analogs. No single work exhausts modern consent-based legitimacy (e.g., \"right to rule\" yields no direct hits), but the above directly address what makes authority rightful vs. tyrannical. Poetry and other genres do not engage substantively.\n\n[^1]: *Traité de Législation: VOL I*, metadata: Political & Social Theory genre. [Work](/works/charles-comte-traite-de-legislation-vol-i-7e62a2).\n[^2]: *Manusmṛti*, Chapters 7–8 on kingship. [Chapter 7](/works/unknown-manusmrti-347b76/07/translation/).\n[^3]: Charles Comte, *Traité de Législation: VOL I*, Ch. 6. [Paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/06-du-systeme-dans-lequel-on-considere-les-lois-civil/translation/#p-25f8f0).\n[^4]: Charles Comte, *Traité de Législation: VOL I*, Ch. 7, ¶ p-4a334b. [Paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/07-du-systeme-dans-lequel-on-considere-les-lois-comme/translation/#p-4a334b).\n[^5]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, Ch. 10, ¶ p-177448. [Paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/10-liberte-compatible-avec-la-vie-des-peuples-chez-qu/translation/#p-177448).\n[^6]: Charles Comte, *Traité de la propriété: VOL II*, Ch. 37, ¶ p-9df833. [Paragraph](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/37-de-la-propriete-des-rentes-sur-des-particuliers-ou/translation/#p-9df833).\n[^7]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit...*, Political & Social Theory. [Work](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde).\n[^8]: E.g., *Bṛhaspati Smṛti*, Ch. 1: \"royal authority would perish\" without justice. [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/).\n[^9]: *Manusmṛti*, Ch. 7. [Chapter 7](/works/unknown-manusmrti-347b76/07/translation/).\n[^10]: *Bṛhaspati Smṛti*, Ch. 1, ¶¶ p-0ea3d8, p-39318f. [Paragraphs](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-0ea3d8).\n[^11]: E.g., *Aṅgirasa Smṛti*, Ch. 1 (authority in assemblies, dharma). [Chapter 1](/works/unknown-angirasa-smrti-2bf9d1/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "legitimate authority",
+        "limit": 30
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "political authority",
+        "limit": 30
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "legitimate government",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "right to rule",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "legitimacy ruler",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "political"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "politics"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "authority",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sovereignty",
+        "limit": 30
+      },
+      "result_summary": "Found 27 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "social contract",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "consent governed",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "origin government",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-4a334b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 37,
+        "paragraph_ids": [
+          "p-9df833"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-177448"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-25f8f0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-legislation-vol-i-7e62a2\",\"title\":\"Traité de Législation: VOL I\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlightenme"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"slug\":\"charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce\",\"title\":\"Nouveau traité d'économie: VOL I\",\"author\":\"Charles Dunoyer\",\"author_slug\":\"charles-dunoyer\",\"era\":\"19th Century\",\"era_slug\":\"1"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\",\"author\":\"Manu\",\"author_slug\":\"manu\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Sanskrit\",\"language_s"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 6,
+      "paragraph_id": "p-25f8f0"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 6,
+      "paragraph_id": "p-4a334b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 6,
+      "paragraph_id": "p-177448"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 6,
+      "paragraph_id": "p-9df833"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 6,
+      "paragraph_id": "p-0ea3d8"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 6,
+      "paragraph_id": "p-39318f"
+    }
+  ],
+  "duration_ms": 38372,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 43192,
+    "completion_tokens": 4931,
+    "total_tokens": 48123,
+    "cached_tokens": 22602,
+    "api_calls": 4,
+    "cost_usd": 0.007713600000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1545,
+        "completion_tokens": 604,
+        "total_tokens": 2149,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038165
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2363,
+        "completion_tokens": 700,
+        "total_tokens": 3063,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00059325
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17191,
+        "completion_tokens": 1336,
+        "total_tokens": 18527,
+        "cached_tokens": 2358,
+        "cost_usd": 0.0037525
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "list_chapters"
+        ],
+        "prompt_tokens": 22093,
+        "completion_tokens": 2291,
+        "total_tokens": 24384,
+        "cached_tokens": 17186,
+        "cost_usd": 0.0029862
+      }
+    ]
+  }
+}

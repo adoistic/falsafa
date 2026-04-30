@@ -1,0 +1,163 @@
+{
+  "answer": "**The work *San Hyan Kamahayanikan* (author unknown), Chapter 1, teaches this yogic ritual catalogue of breath visualizations as maṇḍalas for ritual action.**[^1]\n\nIt describes the breath in the right nostril (for action, increase of life/wealth, or well-being) as either: a **fire-maṇḍala**, \"triangular in shape, blazing and red in color. In its center is a trident. This is your means of accomplishment for all actions\";[^2] or a **Mahendra-maṇḍala**, \"square-shaped, blazing and yellow like gold in color. In its center is an open five-pronged *vajra*. This is your means of accomplishment for the increase of life and the increase of wealth\";[^3] or (alternatively) a white, tranquil square Mahendra-maṇḍala with a central *vajra* \"for well-being.\"[^4]\n\nThe breath in the left nostril (for attraction, immobilization, expulsion, or pacification) becomes either: a **formless wind-maṇḍala**, black, green, or yellow in color, \"blaz[ing] at both ends. Its symbol is a banner or flag. The left hand grasps a hook and a ring. This is your means of accomplishment for attraction (*ākarṣaṇa*), immobilization (*sthāmbana*), and expulsion (*uccāraṇa*)\";[^5] or a **water-maṇḍala (*bāruṇamaṇḍala*)**, \"circular, blazing, and white in color. In its center is a subtle, small maṇḍala, like pure crystal in the middle is its form and its symbol. This is your means of accomplishment for pacification (*śāntika*).\"[^6]\n\n[^1]: *San Hyan Kamahayanikan*, [Chapter 1](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/).\n[^2]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-60d83c).\n[^3]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-063ac8).\n[^4]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-b8f65d).\n[^5]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-1e6680).\n[^6]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-80a477).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "triangular fire-maṇḍala",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"right nostril\" mandala",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mahendra-maṇḍala",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bāruṇamaṇḍala",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"water-maṇḍala\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"left nostril\" mandala",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-60d83c",
+          "p-80a477"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-60d83c"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-063ac8"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-b8f65d"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-1e6680"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-80a477"
+    }
+  ],
+  "duration_ms": 21839,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 59892,
+    "completion_tokens": 2550,
+    "total_tokens": 62442,
+    "cached_tokens": 31846,
+    "api_calls": 4,
+    "cost_usd": 0.008476500000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1731,
+        "completion_tokens": 738,
+        "total_tokens": 2469,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00048555
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2482,
+        "completion_tokens": 268,
+        "total_tokens": 2750,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006079
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 27693,
+        "completion_tokens": 399,
+        "total_tokens": 28092,
+        "cached_tokens": 2477,
+        "cost_usd": 0.00536655
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 27986,
+        "completion_tokens": 1145,
+        "total_tokens": 29131,
+        "cached_tokens": 27688,
+        "cost_usd": 0.0020165
+      }
+    ]
+  }
+}

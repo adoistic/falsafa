@@ -1,0 +1,189 @@
+{
+  "answer": "**In Cynewulf's signed poems, the protagonists—Andrew (*Andreas*), Juliana (*Juliana*), and Elene (*Elene*)—encounter violence amid trials of faith against pagan persecutors. Each primarily **withholds** by refusing to recant, sacrifice to idols, or reveal sacred secrets, enduring torture passively while praising God. They **give** violence more selectively: supernaturally or through agents, often turning it against foes without personal retaliation. Andrew and Juliana suffer the most direct physical violence; Elene inflicts it judicially on others (notably Judas), staging their suffering without personal peril.[^1][^2][^3]**\n\n### Andrew (*Andreas*)\nAndrew withholds amid prolonged, graphic torture by the cannibalistic Mermedonians after freeing Matthew: beaten daily for three days (dragged through streets, bones broken, blood \"welled in waves,\" sweat and gore poured), yet he refuses to honor idols, prays steadfastly, and is miraculously healed each night (no scars remain). He endures demonic assaults but repels them spiritually.[^4][^5][^6][^7][^8]\n\nAndrew gives violence supernaturally: slays seven prison guards instantly upon approach (\"Sudden death took them all\"), commands a stone pillar to unleash a flood drowning many (including 14 worst foes swallowed by earth), and later oversees a church built where youths drowned/revived.[^9][^10]\n\n### Juliana (*Juliana*)\nJuliana withholds faith against suitor/judge Eleusius and her father, enduring escalating torments: stripped and scourged publicly, hung by hair and beaten six hours daily, cast into unquenchable fire (angel scatters it), then boiling lead (kills 75 heathens via blast, leaves her unscathed). She binds and interrogates a devil in prison, extracting confessions of evil, but shows no mercy until releasing him.[^11][^12][^13][^14]\n\nJuliana gives spiritual violence to the devil (seizes, binds, scourges him with questions/torments mirroring her own), and her miracles indirectly slay heathens; her beheading follows, steadfast to the end.[^15]\n\n### Elene (*Elene*)\nElene herself encounters no direct violence (as Constantine's mother and Roman authority), but stages it to uncover the True Cross, withholding mercy until compliance. She threatens mass pyre-burning of Jewish scholars denying Christ's divinity.[^16] She singles out Judas, starving him seven days in a dry well until he reveals Calvary's location (he withholds the secret initially, prays for a sign, then complies and converts). Judas endures hunger (\"hunger-haunted, clasped by fetters\") but emerges faithful; Elene/Judas dynamic flips withholding to giving (location revealed).[^17]\n\n| Protagonist | Withholds (Endures/Refuses) | Gives (Inflicts/Causes) |\n|-------------|-----------------------------|--------------------------|\n| **Andrew** | Torture (beating, dragging, demonic attacks); refuses idols | Supernatural deaths (guards, flood on foes) |\n| **Juliana** | Scourging, hanging, fire/lead; refuses idols, binds devil spiritually | Binding/scourging devil; miracle kills heathens |\n| **Elene** (via Judas) | Withholds Cross secret amid starvation threat | Judicial threats/pyre, starvation of Judas |\n\nAll transform violence into testimony: suffering proves faith, miracles affirm God's power. Andrew/Juliana mirror martyrdom; Elene's is inquisitorial.[^18]\n\n[^1]: *Andreas*, Ch. 1, [/works/cynewulf-andreas-07b573/01/translation/].\n\n[^2]: *Juliana*, Ch. 1, [/works/cynewulf-juliana-9a2157/01/translation/].\n\n[^3]: *Elene*, Ch. 1, [/works/cynewulf-elene-d2d132/01/translation/].\n\n[^4]: *Andreas*, Ch. 1, get_passage for dragging/beating: [/works/cynewulf-andreas-07b573/01/translation/#p-34b202].\n\n[^5]: *Andreas*, Ch. 1, [/works/cynewulf-andreas-07b573/01/translation/#p-5d78fc].\n\n[^6]: *Andreas*, Ch. 1, [/works/cynewulf-andreas-07b573/01/translation/#p-17921e].\n\n[^7]: *Andreas*, Ch. 1, [/works/cynewulf-andreas-07b573/01/translation/#p-dbf56f].\n\n[^8]: *Andreas*, Ch. 1, [/works/cynewulf-andreas-07b573/01/translation/#p-997c80].\n\n[^9]: *Andreas*, Ch. 1, [/works/cynewulf-andreas-07b573/01/translation/#p-74e29a].\n\n[^10]: *Andreas*, Ch. 1, [/works/cynewulf-andreas-07b573/01/translation/#p-e5ccfa].\n\n[^11]: *Juliana*, Ch. 1, [/works/cynewulf-juliana-9a2157/01/translation/#p-7cffd3].\n\n[^12]: *Juliana*, Ch. 1, [/works/cynewulf-juliana-9a2157/01/translation/#p-89a6c9].\n\n[^13]: *Juliana*, Ch. 1, [/works/cynewulf-juliana-9a2157/01/translation/#p-3a01e6].\n\n[^14]: *Juliana*, Ch. 1, [/works/cynewulf-juliana-9a2157/01/translation/#p-2309da].\n\n[^15]: *Juliana*, Ch. 1, [/works/cynewulf-juliana-9a2157/01/translation/#p-28b423].\n\n[^16]: *Elene*, Ch. 1, [/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1].\n\n[^17]: *Elene*, Ch. 1 (Judas pit: multi-para; top-level highlights), get_passage range start=position of threat to smoke sign (approx. paras post-interrogation).\n\n[^18]: Common theme across works: faith turns violence to glory.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-34b202"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-5d78fc"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-17921e"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-dbf56f"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-997c80"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-74e29a"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-e5ccfa"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-7cffd3"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-89a6c9"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-3a01e6"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-2309da"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-28b423"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    }
+  ],
+  "duration_ms": 50738,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 47652,
+    "completion_tokens": 4666,
+    "total_tokens": 52318,
+    "cached_tokens": 5123,
+    "api_calls": 4,
+    "cost_usd": 0.01109495,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1575,
+        "completion_tokens": 240,
+        "total_tokens": 1815,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00020565
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 1920,
+        "completion_tokens": 479,
+        "total_tokens": 2399,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00039415
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 2280,
+        "completion_tokens": 340,
+        "total_tokens": 2620,
+        "cached_tokens": 1915,
+        "cost_usd": 0.00033875
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 41877,
+        "completion_tokens": 3607,
+        "total_tokens": 45484,
+        "cached_tokens": 150,
+        "cost_usd": 0.0101564
+      }
+    ]
+  }
+}

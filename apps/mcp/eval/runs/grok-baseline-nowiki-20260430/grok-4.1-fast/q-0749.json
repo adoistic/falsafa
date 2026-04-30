@@ -1,0 +1,103 @@
+{
+  "answer": "**Chapter 67 of the *Viṣṇu Smṛti* details the householder's daily *bali* (ritual food oblation) ceremony.** \n\nIt begins with preparations around the fire and oblations to Viṣṇu's forms (Vāsudeva etc.), major deities (Agni, Soma etc.), and the fire's svāhā, followed by *bali* offerings eastward of the fire and around the house to female deities (Ambā etc.), household guardians, directional deities and their attendants (Indra in east, Yama in south etc.), sky, diurnal/nocturnal spirits, and ancestors via *piṇḍa* (funeral cakes). It concludes with offerings to animals/outcastes, alms, and extensive rules on honoring *atithis* (unexpected Brāhmaṇa guests): their superiority, feeding priority after family dependents but before self, benefits equivalent to Vedic rites, and exclusions (e.g., locals, purpose-visitors).[^1]\n\n[^1]: *Viṣṇu Smṛti*, *Chapter 67*, [/works/unknown-visnu-smrti-27f0d8/67/translation/].",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Visnu Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 67,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.67 of unknown-visnu-smrti-27f0d8 (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 26620,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 17626,
+    "completion_tokens": 2371,
+    "total_tokens": 19997,
+    "cached_tokens": 10851,
+    "api_calls": 4,
+    "cost_usd": 0.0030830499999999995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1545,
+        "completion_tokens": 655,
+        "total_tokens": 2200,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00040715
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1751,
+        "completion_tokens": 233,
+        "total_tokens": 1984,
+        "cached_tokens": 1540,
+        "cost_usd": 0.0002357
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters"
+        ],
+        "prompt_tokens": 6041,
+        "completion_tokens": 231,
+        "total_tokens": 6272,
+        "cached_tokens": 1746,
+        "cost_usd": 0.0010618
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 8289,
+        "completion_tokens": 1252,
+        "total_tokens": 9541,
+        "cached_tokens": 6036,
+        "cost_usd": 0.0013784
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "answer": "**The rule appears in the Nāradasmṛti's section on the eighteen topics of litigation, specifically under \"8. Non-delivery of a Sold Article\" (Nar. 8.7).**\n\nThere, it states: \"He who, having shown a faultless article, delivers a faulty one, shall be made to pay double the price, and a fine of the same amount.\"[^1]\n\nThis addresses a seller's misrepresentation by presenting a defect-free good but supplying a faulty one (applicable to property as merchandise, per Nar. 8.2). The penalty is double the price plus an equal fine. The broader context covers sales rules (e.g., delivery obligations, Nar. 8.4–8.6; deceit discouraged, Nar. 8.12), with buyers able to rescind faulty purchases in the next section (Nar. 9.1–9.4).[^2]\n\n[^1]: Nāradasmṛti, [paragraph](/works/unknown-naradasmrti-7650d2/01/translation/#p-5046aa).\n\n[^2]: Nāradasmṛti, [passage](/works/unknown-naradasmrti-7650d2/01/translation/#p-6bbd2b-p-002843).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "narada"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sale\" seller misrepresent",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sale\" \"property\" seller false",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seller\" \"misrepresents\" OR \"misrepresentation\" sale",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sale property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sale\" property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "seller buyer",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"false\" sale",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-5046aa"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-6bbd2b",
+          "p-eb2c84",
+          "p-8a0af9",
+          "p-38a193",
+          "p-215212",
+          "p-4905e8",
+          "p-5046aa",
+          "p-7f6af1",
+          "p-c8d8f9",
+          "p-47cc16",
+          "p-e3d6ca",
+          "p-3f0758",
+          "p-002843"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 13 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-5046aa"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-6bbd2b"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-002843"
+    }
+  ],
+  "duration_ms": 38243,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 109326,
+    "completion_tokens": 2651,
+    "total_tokens": 111977,
+    "cached_tokens": 55328,
+    "api_calls": 5,
+    "cost_usd": 0.014891500000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 509,
+        "total_tokens": 2064,
+        "cached_tokens": 150,
+        "cost_usd": 0.000543
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1880,
+        "completion_tokens": 517,
+        "total_tokens": 2397,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00040515
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2248,
+        "completion_tokens": 144,
+        "total_tokens": 2392,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004991
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 51261,
+        "completion_tokens": 755,
+        "total_tokens": 52016,
+        "cached_tokens": 2243,
+        "cost_usd": 0.01029325
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 52382,
+        "completion_tokens": 726,
+        "total_tokens": 53108,
+        "cached_tokens": 51256,
+        "cost_usd": 0.003151
+      }
+    ]
+  }
+}

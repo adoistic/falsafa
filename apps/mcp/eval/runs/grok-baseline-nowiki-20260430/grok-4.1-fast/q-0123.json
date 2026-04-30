@@ -1,0 +1,189 @@
+{
+  "answer": "**In Cynewulf's *Andreas*, Andrew (Andreas) realizes upon waking on the shore of Mermedonia that Christ had been the disguised \"Helmsman\" (or steersman) who guided their ship through the storm.**[^1]\n\nEarlier on the voyage, Andrew had praised the Helmsman's extraordinary skill in steering (\"Never have I met a better seaman... how you hold the wave-floater steady, the sea-stallion, and steer it on the sound... steering at the stern\"), but did not recognize him as Christ at the time.[^2]\n\nAfter waking and hearing his companions' vision confirming Christ's presence, Andrew addresses Christ directly in a prayer of realization and repentance:\n\n> “Now I, Lord God, have understood  \n> that you on the sea-path were not far away,  \n> Glory of kings, when I climbed in the keel,  \n> though I on the wave-journey, Prince of angels,  \n> Giver of grace to souls, could not perceive you.  \n> Be merciful to me now, mighty Maker,  \n> joyful, bright King! I on the brine-stream spoke  \n> a host of words; I know now after  \n> who with honors in that wooden boat  \n> ferried me over the floods. That is the spirit of comfort  \n> for the kindred of men. There help is ready,  \n> mercy from the mighty, for every man,  \n> a gift of victory, for him who seeks it from Him.”[^3]\n\nChrist then visibly appears to Andrew as a youth and greets him. Andrew responds by prostrating himself and confessing his failure to recognize Christ on the ship:\n\n> “How did I do this,  \n> Wielder of men, sinful against myself,  \n> Savior of souls, that I, you so good,  \n> could not perceive on the path of the waves,  \n> where I spoke more of my words before my Maker  \n> than I should have?”[^4]\n\n[^1]: Cynewulf, *Andreas*, Chapter 1, [translation](/works/cynewulf-andreas-07b573/01/translation/#p-c11ef8).\n[^2]: Cynewulf, *Andreas*, Chapter 1, [translation](/works/cynewulf-andreas-07b573/01/translation/#p-ca9772).\n[^3]: Cynewulf, *Andreas*, Chapter 1, [translation](/works/cynewulf-andreas-07b573/01/translation/#p-775061).\n[^4]: Cynewulf, *Andreas*, Chapter 1, [translation](/works/cynewulf-andreas-07b573/01/translation/#p-ee08ea).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas ship steering Christ Andrew",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ship\" \"Andrew\" \"Christ\" OR \"Lord\" OR \"steering\" OR \"helm\" OR \"rudder\"",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"slug\":\"cynewulf-andreas-07b573\",\"title\":\"Andreas\",\"author\":\"Cynewulf\",\"author_slug\":\"cynewulf\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Literature\",\"genre_slug\":\"literature\",\"language\":\"old_e"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"helm\" OR \"steering\" OR \"rudder\" OR \"shipmaster\" OR \"steersman\" \"Lord\" OR \"Christ\" OR \"God\"",
+        "limit": 10
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-775061",
+          "p-ee08ea"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-c11ef8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-c11ef8"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ca9772"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-775061"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ee08ea"
+    }
+  ],
+  "duration_ms": 43330,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 56511,
+    "completion_tokens": 4138,
+    "total_tokens": 60649,
+    "cached_tokens": 27569,
+    "api_calls": 5,
+    "cost_usd": 0.00923585,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 488,
+        "total_tokens": 2042,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005323
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2004,
+        "completion_tokens": 455,
+        "total_tokens": 2459,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00039895
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "get_metadata"
+        ],
+        "prompt_tokens": 4376,
+        "completion_tokens": 492,
+        "total_tokens": 4868,
+        "cached_tokens": 1999,
+        "cost_usd": 0.00082135
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 23746,
+        "completion_tokens": 1146,
+        "total_tokens": 24892,
+        "cached_tokens": 150,
+        "cost_usd": 0.0052997
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 24831,
+        "completion_tokens": 1557,
+        "total_tokens": 26388,
+        "cached_tokens": 23741,
+        "cost_usd": 0.00218355
+      }
+    ]
+  }
+}

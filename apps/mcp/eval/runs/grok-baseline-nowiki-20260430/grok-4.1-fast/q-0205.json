@@ -1,0 +1,144 @@
+{
+  "answer": "In both *Elene* and *Juliana*, Cynewulf concludes with a personal epilogue in which he reveals his identity via a runic signature (the rune-names spelling C-Y-N-E-W-U-L-F), shifting from hagiographic narrative to anguished self-reflection on sin, death, and judgment.[^1][^2] These \"signatures\" mark him as the poet while framing pleas for divine mercy amid eschatological dread.\n\n### What Cynewulf Asks For\n- **In *Elene***: Cynewulf makes no explicit request for intercession or prayer. Instead, he describes his late-life enlightenment about the True Cross (\"Rood\"), granted by God despite his prior sinfulness (\"stained by my deeds, shackled by sins\"), which unlocked his poetic \"art of song.\"[^3] His hope lies implicitly in the purifying fire of Judgment Day, which will refine the righteous and even some sinful souls (divided into three fiery strata: the blessed at the top endure mildly and ascend; the malicious in the middle are tormented but purified; the worst are cast into hell).[^4] This doctrinal vision offers general assurance of \"eternal blessedness\" for those who repent and praise Christ, positioning Cynewulf hopefully among the redeemable without direct appeal.[^5]\n- **In *Juliana***: Cynewulf explicitly beseeches Saint Juliana's intercession (\"I have great need that the holy one should grant me her help\") at death, when \"soul and body\" separate on a fearful, sin-burdened \"Journey\" to judgment.[^6] He also directly petitions his audience (\"every person of humankind who recites this poem\") to \"pray to the Molder\" for him on the Great Day, seeking the Trinity's \"mild and merciful\" face as reward-weigher.[^7]\n\n### How the Framing Differs\n*Elene*'s epilogue frames Cynewulf's redemption as a retrospective testimony: he is \"old and ready for [his] journey,\" reflecting on worldly transience (\"Joy has waned... life’s joys have slipped by as water glides\") and doctrinal mechanics of salvation by fire, ending in a serene \"Amen\" of universal hope.[^8] It emphasizes divine initiative—God \"unbound my bone-house\"—and ties back to the poem's Cross theme.[^9]\n\n*Juliana*'s is more desperate and immediate, a performative death-anxiety: his soul trembles \"adrift on a Sea of sorrow,\" **bound by Need** amid failed **Strength** and lost **Joy** (runes overtly embedded), awaiting stern judgment \"according to [his] deeds.\"[^10] It pivots outward to communal prayer-obligation, urgent and relational rather than visionary.\n\nThe *Elene* epilogue thus doctrinalizes personal frailty into cosmic resolution, while *Juliana*'s dramatizes isolation, embedding the signature in peril to solicit active aid—heightening Cynewulf's vulnerability across the signed poems.[^11]\n\n[^1]: Cynewulf-Elene, [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607).\n[^2]: Cynewulf-Juliana, [paragraphs](/works/cynewulf-juliana-9a2157/01/translation/#p-e769dc).\n[^3]: Cynewulf-Elene, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607).\n[^4]: Cynewulf-Elene, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).\n[^5]: Cynewulf-Elene, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).\n[^6]: Cynewulf-Juliana, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-e769dc).\n[^7]: Cynewulf-Juliana, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-1f8ce8).\n[^8]: Cynewulf-Elene, [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-8f8a1b).\n[^9]: Cynewulf-Elene, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607).\n[^10]: Cynewulf-Juliana, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-e769dc).\n[^11]: Cynewulf-Elene, [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607); Cynewulf-Juliana, [paragraphs](/works/cynewulf-juliana-9a2157/01/translation/#p-e769dc).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d2e607",
+          "p-8f8a1b",
+          "p-dcbbfe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e769dc",
+          "p-1f8ce8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-d2e607"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-e769dc"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-1f8ce8"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-8f8a1b"
+    }
+  ],
+  "duration_ms": 35896,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 51253,
+    "completion_tokens": 3363,
+    "total_tokens": 54616,
+    "cached_tokens": 26611,
+    "api_calls": 4,
+    "cost_usd": 0.00794045,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1569,
+        "completion_tokens": 134,
+        "total_tokens": 1703,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00015145
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 1914,
+        "completion_tokens": 416,
+        "total_tokens": 2330,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005683
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 23028,
+        "completion_tokens": 1007,
+        "total_tokens": 24035,
+        "cached_tokens": 1909,
+        "cost_usd": 0.00482275
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 24742,
+        "completion_tokens": 1806,
+        "total_tokens": 26548,
+        "cached_tokens": 23023,
+        "cost_usd": 0.00239795
+      }
+    ]
+  }
+}

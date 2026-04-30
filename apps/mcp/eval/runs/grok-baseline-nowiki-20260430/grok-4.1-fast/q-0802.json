@@ -1,0 +1,261 @@
+{
+  "answer": "**In \"The Husband's Message\" (chapter 8 of *Old English Elegies*), the speaker is a wooden beam carved with runes by the exiled husband to send a secret message to his wife.**[^1]\n\n**The runes specifically convey his command—via the wood's voice—to urge her to action: she must set out to sea southward as soon as she hears the cuckoo's mournful call from the hillside grove in springtime.**[^2] **No living person should delay her or obstruct her journey; she is to seek the sea (\"the gull's homeland\"), board a sea-boat (\"sænacan\"), and travel \"over the sea-road\" (\"merelade\") until she finds him waiting there among a foreign people.**[^3]\n\n**This plea frames her journey as fulfilling their former vows (\"wordbeotunga\") made in the mead-halls, with the runes ᛋᚱᛠᚹᛞ (sigel-rād-ēar-wynn-dæg, glossed as \"Sun-Ride, Sea-Joy, Day\") swearing his enduring oath to their \"loving troth\" (\"winetreowe\").**[^4]\n\n[^1]: *Old English Elegies*, ch. 8 (\"Nu ic onsundran...\"), translation, [full chapter](/works/unknown-old-english-elegies-d5fe9e/08-nu-ic-onsundran-the-secgan-wille-treocyn-ic-tudre-/translation/).\n\n[^2]: Ibid., [p-58bec2](/works/unknown-old-english-elegies-d5fe9e/08-nu-ic-onsundran-the-secgan-wille-treocyn-ic-tudre-/translation/#p-58bec2): \"He himself now bids me / joyfully urge you to stir the sea-way, / as soon as you hear on the slope's edge / the grieving cuckoo cry in the grove.\"\n\n[^3]: Ibid.: \"Let no living man then hold you back, / delay your leaving, hinder your path. / Begin to seek the sea, the gull's homeland, / board a sea-boat, so that south from here / over the sea-road you may find the man, / where your prince is waiting for you.\"\n\n[^4]: Ibid.: \"I join together ᛋ and ᚱ, / and ᛠ, ᚹ, and ᛞ to name in an oath / [Sun-Ride, Sea-Joy, Day] / that he the pledge and the loving troth, / while he is living, wishes to keep.\"",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Husband's Message",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Wilt thu fus haele\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old_english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Literature"
+      },
+      "result_summary": "Listed 9 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "husband",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "message rune",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wilt thu\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"husband's message\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "husband message",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 8,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.8 of unknown-old-english-elegies-d5fe9e (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 8,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.8 of unknown-old-english-elegies-d5fe9e (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-58bec2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-58bec2"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 8,
+      "paragraph_id": "p-58bec2"
+    }
+  ],
+  "duration_ms": 55353,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 45923,
+    "completion_tokens": 5893,
+    "total_tokens": 51816,
+    "cached_tokens": 32446,
+    "api_calls": 7,
+    "cost_usd": 0.0072642,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 708,
+        "total_tokens": 2270,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006439
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2037,
+        "completion_tokens": 480,
+        "total_tokens": 2517,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006249
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4827,
+        "completion_tokens": 350,
+        "total_tokens": 5177,
+        "cached_tokens": 2032,
+        "cost_usd": 0.0008356
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6229,
+        "completion_tokens": 150,
+        "total_tokens": 6379,
+        "cached_tokens": 4822,
+        "cost_usd": 0.0005975
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 7814,
+        "completion_tokens": 1045,
+        "total_tokens": 8859,
+        "cached_tokens": 6224,
+        "cost_usd": 0.0011517
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 11264,
+        "completion_tokens": 1357,
+        "total_tokens": 12621,
+        "cached_tokens": 7809,
+        "cost_usd": 0.00175995
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 12190,
+        "completion_tokens": 1803,
+        "total_tokens": 13993,
+        "cached_tokens": 11259,
+        "cost_usd": 0.00165065
+      }
+    ]
+  }
+}

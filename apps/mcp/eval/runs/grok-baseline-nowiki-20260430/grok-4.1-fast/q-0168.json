@@ -1,0 +1,207 @@
+{
+  "answer": "**Āṅgirasa Smṛti** (also called *Aṅgiras Smṛti*) discusses *prāyaścittas* (penances) for women primarily in the context of specific grave offenses like remarriage (*punarvivāha*) and erroneously ascending the funeral pyre (*sahagamana*) with a man other than her husband (*paradāra-sati*). There is no standalone chapter or section exclusively on \"prayascittas for women,\" but relevant rules appear in the single chapter (divided into \"Earlier\" and \"Later\" texts). A general principle is also stated: women who sin intentionally perform half the penance prescribed for men.[^1]\n\n### Erroneous Ascension of the Pyre with a Man Other Than Her Husband\nIf a virtuous woman (*sumaṅgalī*) mistakenly ascends the pyre with a man other than her husband:\n\n> If a virtuous woman, through error, ascends the pyre with a man other than her husband... how are the rites to be performed afterwards for those born from her? The gods... were long beset by this worry. Afterwards, a divine voice arose... \\\"For union with a man other than her husband, a six-year *kṛcchra* is prescribed. For abandoning her life out of delusion, a great sin, for that act of hers, a six-year penance is prescribed, multiplied by six. It should be performed always with charity, devoid of greed and deceit... Having first performed the Cāpāgrayāna rite, one should perform a hundred baths there.[^2]\n\nThe penance scales by caste difference (doubled for a king, tripled for a Vaiśya, quadrupled for a Śūdra).[^3]\n\n### Remarriage (*Punarvivāha*)\nRemarriage of a woman is severely condemned, with elaborate penances:\n\n> If a woman is remarried by foolish and wicked fathers, brothers, and others, then all of them will go to hell. That remarried woman becomes a partaker of the great hell Raurava. Her husband, along with his ancestors, goes to the hell Kālasūtra... To appease that fault, this is the supreme *prāyaścitta*: The giver, going to Setu (Rāmeśvaram), at Dhanuṣkoṭi... shall reside there... for a year... he should perform a hundred Taptakṛcchra penances... And the husband... performing three holy Cāndrāyaṇa vows... should reside there for three seasons... Daily drinking Pañcagavya... reciting... a thousand times... performing the auspicious penance called Tapta... If she, having left both husbands, performs a thousand baths at Setu, and eats only barley gruel, she is purified in a year.[^4]\n\nIf childless, she purifies in a year; otherwise, she and her children become outcastes (*caṇḍāla*).\n\n### General Rule for Women's Penances\nA broad principle applies across sins:\n\n> For women who have sinned intentionally, half the penance should be prescribed.[^5]\n\nThese are the primary references in the corpus. The text emphasizes charity, recitation, and vows alongside penances, often at sacred sites like Setubandha (Rāmeśvaram). No other works in the Falsafa corpus provide additional sections on this exact topic from Āṅgirasa Smṛti.\n\n[^1]: Āṅgirasa Smṛti, [Chapter 1 (Later Text)](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-83ee9c).\n[^2]: Āṅgirasa Smṛti, [Chapter 1](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-73aeea).\n[^3]: Āṅgirasa Smṛti, [Chapter 1](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-8151a3).\n[^4]: Āṅgirasa Smṛti, [Chapter 1](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-65ef09).\n[^5]: Āṅgirasa Smṛti, [Chapter 1 (Later Text)](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-83ee9c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "angirasa"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Angirasa Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"prayascittas for women\" OR \"penance for women\" Angirasa"
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"woman\" OR \"wife\" OR \"women\" OR \"strī\" OR \"patnī\" Angirasa OR \"Aṅgirasa Smṛti\"",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"prāyaścitta\" OR \"penance\" woman OR wife OR women Angirasa"
+      },
+      "result_summary": "Found 21 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-73aeea",
+          "p-7af5f4",
+          "p-d2ccdc",
+          "p-415291",
+          "p-89c292",
+          "p-860b82",
+          "p-65ef09",
+          "p-b50721",
+          "p-9684fe",
+          "p-4bac26",
+          "p-972ed0",
+          "p-e0c707",
+          "p-860dc1",
+          "p-342935",
+          "p-007110",
+          "p-eb591c",
+          "p-2cfcc0",
+          "p-d85fd7",
+          "p-7c5cc7",
+          "p-a7cedd"
+        ]
+      },
+      "result_summary": "Returned 20 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-83ee9c",
+          "p-02f041"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-c6b274",
+          "p-aa2ac9",
+          "p-264bd0"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-83ee9c"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-73aeea"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-8151a3"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-65ef09"
+    }
+  ],
+  "duration_ms": 42596,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 182080,
+    "completion_tokens": 3701,
+    "total_tokens": 185781,
+    "cached_tokens": 92746,
+    "api_calls": 4,
+    "cost_usd": 0.0243546,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1551,
+        "completion_tokens": 592,
+        "total_tokens": 2143,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00037655
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3331,
+        "completion_tokens": 464,
+        "total_tokens": 3795,
+        "cached_tokens": 149,
+        "cost_usd": 0.00087585
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 87745,
+        "completion_tokens": 1187,
+        "total_tokens": 88932,
+        "cached_tokens": 3326,
+        "cost_usd": 0.0176436
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 89453,
+        "completion_tokens": 1458,
+        "total_tokens": 90911,
+        "cached_tokens": 87740,
+        "cost_usd": 0.0054586
+      }
+    ]
+  }
+}

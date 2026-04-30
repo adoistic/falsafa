@@ -1,0 +1,230 @@
+{
+  "answer": "**Tarānā-e-Millī** (Bang-e-Dara Part 3, ch. 23) asserts a singular *millat* (Muslim community/nation) open to all who share its defining conviction, proclaiming: \"From Chin to Arab lands, our story flows, / The whole wide world's the home a Muslim knows.\"[^1] This defines collective identity geographically expansive and unified under Islam.[^2]\n\n**Manusmṛti** Book 1 asserts four *varṇas* (social orders) as innately distributed by divine origin at creation: \"And for the sake of the prosperity of the worlds, he caused the Brahmana, the Kshatriya, the Vaishya, and the Shudra to emanate from his mouth, arms, thighs, and feet.\"[^3] The text frames this as primordial and hierarchical, with laws specified \"for all the four *varnas* (social orders) and for those born between them,\" and the Shudra's role as serving the others.[^4]\n\nBoth texts claim binding collective identities for social order. The asymmetry—*millat* open by conviction, *varṇas* closed by birth—is visible in **Tarānā-e-Millī**'s verse tying membership to faith alone: \"The sacred trust of One God fills our soul, / No force can wipe our name from history's scroll,\"[^5] with no birth prerequisite, unlike Manu's emanation from body parts.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 23 (*Tarana-e-Milli*), [p-8a4681](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/#p-8a4681).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 23 (*Tarana-e-Milli*), [p-882645](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/#p-882645).\n\n[^3]: *Manusmṛti*, ch. 1, [p-13a2db](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db).\n\n[^4]: *Manusmṛti*, ch. 1, [paragraphs](/works/unknown-manusmrti-347b76/01/translation/#p-b51d68#p-26a572).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 23 (*Tarana-e-Milli*), [p-882645](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/#p-882645).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tarānā-e-Millī"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Tarana-e-Milli\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"four varnas\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "millat"
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "varnas"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"muslim\" OR \"muslims\" OR \"millat\" OR \"ummah\" iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "paragraph_ids": [
+          "p-8a4681",
+          "p-882645"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-13a2db",
+          "p-b51d68",
+          "p-26a572"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "paragraph_ids": [
+          "p-72825b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-8a4681"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-882645"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-b51d68"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-26a572"
+    }
+  ],
+  "duration_ms": 42658,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 48027,
+    "completion_tokens": 4351,
+    "total_tokens": 52378,
+    "cached_tokens": 20597,
+    "api_calls": 4,
+    "cost_usd": 0.00869135,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1596,
+        "completion_tokens": 703,
+        "total_tokens": 2299,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00044135
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8149,
+        "completion_tokens": 886,
+        "total_tokens": 9035,
+        "cached_tokens": 150,
+        "cost_usd": 0.0020503
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18773,
+        "completion_tokens": 1255,
+        "total_tokens": 20028,
+        "cached_tokens": 150,
+        "cost_usd": 0.0043596
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 19509,
+        "completion_tokens": 1507,
+        "total_tokens": 21016,
+        "cached_tokens": 18768,
+        "cost_usd": 0.0018401
+      }
+    ]
+  }
+}

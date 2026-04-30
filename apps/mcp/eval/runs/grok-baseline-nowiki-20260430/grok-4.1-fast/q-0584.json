@@ -1,0 +1,285 @@
+{
+  "answer": "In Charles Comte's *Traité de la propriété*, *propriété* (\"property\") consistently refers to material things (or aggregates of value producing material utility) that are fit to satisfy human needs or procure enjoyments, either immediately (e.g., food, clothing) or mediately (e.g., tools, land, machines). These arise naturally from human liberty and labor—specifically, the action of *appropriation*, by which a free individual takes possession of things (without harming others) to consume their utility, transform them, or deploy them productively.[^1] Property is thus a direct consequence of man's nature as a free, laboring being who must ceaselessly unite external things to his substance for preservation, growth, and reproduction; it cannot exist without liberty (as slavery treats persons as things, negating true property), and its core elements are utility/value created by industry, the right to enjoy/dispose, and societal guarantees against infringement.[^2]\n\nComte sharply distinguishes this from juristic or legislative definitions (e.g., the French Civil Code's view of property as merely \"the right to enjoy and dispose of things in the most absolute manner,\" subject to law), which he critiques as artificial, metaphysical, or incomplete—reducing property to expectation or state concession rather than natural production.[^3] Property is not created by law or convention but precedes and necessitates it; labor is its origin (\"all property comes originally from labor\"), and its measure is utility/services rendered (not mere matter), with transmission via free exchange or inheritance.[^4] He classifies properties as private (individual/family), communal/provincial, national, or common to humanity (e.g., air, light), and further into movables/immovables by nature, but always rooted in their role sustaining human existence.[^5]\n\nThis meaning holds uniformly across both volumes: Volume I traces property's formation from occupation/liberty (Ch. 4–5), through land/territory (Ch. 6–26); Volume II extends to movables (Ch. 27–29), inventions/literary works (Ch. 29–36), guarantees/disposition (Ch. 38–46), and juristic errors (Ch. 47–54), framing property as essential to civilization's progress against slavery/pillage.\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, [Ch. 5, p-e68210](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/05-de-lappropriation-des-choses-en-general/translation/#p-e68210).\n[^2]: Charles Comte, *Traité de la propriété: VOL I*, [Ch. 5, ¶¶ p-b35005, p-cd7e40](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/05-de-lappropriation-des-choses-en-general/translation/#p-b35005); [Ch. 3](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/03-de-ce-qui-constitue-la-liberte/translation/).\n[^3]: Charles Comte, *Traité de la propriété: VOL II*, [Ch. 47](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/47-des-opinions-des-jurisconsultes-sur-lorigine-et-la/translation/); [Ch. 48](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/48-des-definitions-de-la-propriete-par-la-puissance-l/translation/); [Ch. 49](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/49-examen-critique-des-dispositions-du-code-civil-sur/translation/).\n[^4]: Charles Comte, *Traité de la propriété: VOL II*, [Ch. 47, p-065f44](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/47-des-opinions-des-jurisconsultes-sur-lorigine-et-la/translation/#p-065f44).\n[^5]: Charles Comte, *Traité de la propriété: VOL I*, [Ch. 5](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/05-de-lappropriation-des-choses-en-general/translation/); *Traité de la propriété: VOL II*, [Ch. 53](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/53-de-la-classification-des-proprietes-ou-de-la-disti/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property is\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"propriété\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "property",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"what is property\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property is\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "definition property"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 0,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.0 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 47,
+        "variant": "translation"
+      },
+      "result_summary": "error CHAPTER_OUT_OF_RANGE: Chapter 47 not found in charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 47,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.47 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 48,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.48 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 49,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.49 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 53,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.53 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-e68210",
+          "p-b35005",
+          "p-cd7e40"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 5,
+      "paragraph_id": "p-e68210"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 5,
+      "paragraph_id": "p-b35005"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 5,
+      "paragraph_id": "p-cd7e40"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 5,
+      "paragraph_id": "p-065f44"
+    }
+  ],
+  "duration_ms": 61012,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 97344,
+    "completion_tokens": 6436,
+    "total_tokens": 103780,
+    "cached_tokens": 50975,
+    "api_calls": 6,
+    "cost_usd": 0.01504055,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 347,
+        "total_tokens": 1903,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004622
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2284,
+        "completion_tokens": 701,
+        "total_tokens": 2985,
+        "cached_tokens": 1551,
+        "cost_usd": 0.00057465
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6590,
+        "completion_tokens": 860,
+        "total_tokens": 7450,
+        "cached_tokens": 2279,
+        "cost_usd": 0.00140615
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 15140,
+        "completion_tokens": 1184,
+        "total_tokens": 16324,
+        "cached_tokens": 6585,
+        "cost_usd": 0.00263225
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 25280,
+        "completion_tokens": 1392,
+        "total_tokens": 26672,
+        "cached_tokens": 15135,
+        "cost_usd": 0.00348175
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 46494,
+        "completion_tokens": 1952,
+        "total_tokens": 48446,
+        "cached_tokens": 25275,
+        "cost_usd": 0.00648355
+      }
+    ]
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "answer": "The *comitatus*, or lord-retainer bond, is a central heroic ideal in Old English poetry, portraying a reciprocal relationship of loyalty between a lord (often called a \"gold-friend,\" \"treasure-giver,\" or \"liege-lord\") and his retainers (warriors or *thegns*). The lord sustains his men through gifts of treasure (e.g., rings, gold), feasting in the mead-hall, protection, and wise counsel; in return, retainers offer unwavering service, fidelity, combat prowess, and emotional bonds expressed through shared joys and sorrows. Its rupture—through death, exile, or betrayal—triggers profound grief, wandering (*wraec*), and reflection on *wyrd* (fate), emphasizing transience and the need for Christian consolation.[^1][^2]\n\nThis motif permeates the elegies, where loss of the bond underscores themes of exile, mutability, and spiritual redirection:\n\n- **The Wanderer** (Ch. 11): The lone exile (*anhaga*) mourns his deceased \"gold-friend,\" recalling youthful welcomes \"to the feast,\" hall-warriors, and treasure-taking in the mead-hall. He seeks a new \"giver of treasure\" but finds only sorrow's \"frozen spirit-lock,\" as \"the path of exile holds him, not twisted gold.\" The wise man must \"keep his faith\" amid such loss.[^3][^4][^5]\n\n- **The Seafarer** (Ch. 5): No man, however \"proud\" or \"daring,\" with \"a lord so dear,\" escapes anxiety over sea-exile, which severs hall-joys like harp-song and rings; the bond's absence leaves the heart longing amid waves.[^6]\n\n- **The Husband's Message** (Ch. 8): An exiled lord sends a rune-carved oar token to his lady, invoking \"vows of old\" sworn in \"mead-halls,\" pledging \"gleaming gold,\" \"studded rings,\" and \"troth\" if reunited, urging her to brave the sea-road despite feud.[^7]\n\n- **The Ruin** (Ch. 16): Ruined mead-halls evoke vanished \"human joys,\" where \"gold-bright\" warriors, \"proud and wine-flushed,\" once \"gazed on treasure\"; *wyrd* felled lords and retainers alike.[^8]\n\n- **Deor** (Ch. 13): The poet (*scop*) laments losing his \"loyal lord\"'s favor and \"land-right\" to a rival, once \"dear\" with a \"goodly following\"; yet \"that passed over,\" modeling endurance.[^9]\n\nThese elegies blend pagan heroic values with Christian *wyrd*, portraying the bond as earthly yet fleeting, urging patience and heavenly grace.[^1]",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old english"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "anglo-saxon"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "comitatus"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lord retainer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "elegy wanderer seafarer"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wanderer"
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "seafarer"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the wanderer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the seafarer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "elegy"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lord\" \"retainer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gold lord\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gold-giver\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lord thane"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mead hall\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wyrd"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9462cc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9cca5e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-5bdc65"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-549618"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-58bec2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-ba51da"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-6b7e51"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 63614,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 62277,
+    "completion_tokens": 5511,
+    "total_tokens": 67788,
+    "cached_tokens": 40824,
+    "api_calls": 6,
+    "cost_usd": 0.0090873,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1558,
+        "completion_tokens": 540,
+        "total_tokens": 2098,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00035195
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2180,
+        "completion_tokens": 724,
+        "total_tokens": 2904,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007755
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6957,
+        "completion_tokens": 424,
+        "total_tokens": 7381,
+        "cached_tokens": 2175,
+        "cost_usd": 0.00127715
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11848,
+        "completion_tokens": 1192,
+        "total_tokens": 13040,
+        "cached_tokens": 6952,
+        "cost_usd": 0.0019228
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 18178,
+        "completion_tokens": 1180,
+        "total_tokens": 19358,
+        "cached_tokens": 11843,
+        "cost_usd": 0.00244915
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 21556,
+        "completion_tokens": 1451,
+        "total_tokens": 23007,
+        "cached_tokens": 18173,
+        "cost_usd": 0.00231075
+      }
+    ]
+  }
+}

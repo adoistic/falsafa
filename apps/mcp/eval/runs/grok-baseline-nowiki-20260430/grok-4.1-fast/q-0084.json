@@ -1,0 +1,169 @@
+{
+  "answer": "In *Manusmṛti* chapter 7, Manu primarily describes the *dharma* (duty) of kings in terms of protecting their subjects and maintaining order through just punishment (*daṇḍa*), while touching on war (*vigraha*) as one aspect of political strategy rather than providing detailed rules of conduct during battle.[^1] The king, as a Kshatriya, has a core obligation to protect the entire world justly.[^2] He must be \"very severe towards his enemies,\" while remaining just within his own kingdom.[^3]\n\nManu emphasizes strategic preparation and deliberation for war:\n- The king should consult ministers on \"ordinary peace and war,\" among other matters.[^4]\n- With a chief Brahmana minister, he should deliberate on the \"six political expedients\" (*ṣaḍguṇya*), which traditionally encompass peace, war, observance, marching, alliance, and duplicity.[^5]\n- Envoys manage \"peace and its opposite\" (i.e., war).[^6]\n\nDefensive preparations include building forts, as \"one archer stationed on a rampart can fight a hundred men; and a hundred can fight ten thousand.\"[^7] There are no explicit prescriptions here for the king's personal conduct or ethics in active warfare (such topics appear more in chapter 8). If the question seeks rules of engagement, they are not covered in chapter 7 of this corpus edition.\n\n[^1]: *Manusmṛti*, [Chapter 7](/works/unknown-manusmrti-347b76/07/translation/).\n\n[^2]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-3f62fe).\n\n[^3]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-61d982).\n\n[^4]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-b0604b).\n\n[^5]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-c8856b).\n\n[^6]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-7d3103).\n\n[^7]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-015eee).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-3f62fe",
+          "p-61d982",
+          "p-b0604b",
+          "p-c8856b",
+          "p-7d3103"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" war",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "battle OR army OR fight king",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-3f62fe"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-61d982"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-b0604b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-c8856b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-7d3103"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-015eee"
+    }
+  ],
+  "duration_ms": 53291,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 21038,
+    "completion_tokens": 4697,
+    "total_tokens": 25735,
+    "cached_tokens": 11745,
+    "api_calls": 4,
+    "cost_usd": 0.004794349999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 401,
+        "total_tokens": 1955,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00028195
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2453,
+        "completion_tokens": 242,
+        "total_tokens": 2695,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005891
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7623,
+        "completion_tokens": 2137,
+        "total_tokens": 9760,
+        "cached_tokens": 2448,
+        "cost_usd": 0.0022259
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9408,
+        "completion_tokens": 1917,
+        "total_tokens": 11325,
+        "cached_tokens": 7618,
+        "cost_usd": 0.0016974
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "answer": "In Mirza Ghalib's *Diwan-e-Ghalib*, the Urdu word *'umr'* (عُمْر) – appearing in transliterated form as \"umr\" – consistently signifies \"lifetime,\" \"life,\" or \"age,\" evoking the full span of human existence. It carries philosophical weight in his ghazals, often highlighting themes of prolonged suffering in love (*ishq*), the futility or transience of mortal vows and desires, separation (*furqat*), and the inexorable passage of time amid unfulfilled longing.[^1][^2] Ghalib uses it hyperbolically to contrast eternal emotions or cosmic delays with life's brevity, amplifying the lover's existential despair.\n\nKey examples include:\n\n- The iconic opening couplet of ghazal 3 equates a lover's sigh (*aah*) with something requiring an entire lifetime to manifest its effect: \"Aah ko chahiye ik umr asar hote tak\" (A sigh must wait an age to take its flight).[^3]\n- In ghazal 27, a beloved's lifelong pledge of fidelity (*paimaan-e-wafa*) is dismissed as illusory, since \"Umr bhar ka tu ne paimaan-e-wafa baandha to kya / Umr ko bhi to nahin hai paayedaari\" (You swore a vow of faith for life, but pray, / Does life itself not promise to decay?). Here, *umr bhar* underscores life's inherent impermanence.[^4]\n- Ghazal 70 laments tears shed \"umr bhar\" (through all my life of pain), portraying lifelong blood-like weeping from the eyes as a damning mark on the slayer: \"Woh khoon jo chashm-e-tar se umr bhar yun dam-ba-dam nikle\" (When from my weeping eyes, through all my life of pain, / A constant stream of blood would always flow).[^5]\n\nThese motifs recur across other couplets (e.g., ghazals 9, 40, 68), where *umr* intensifies irony: lifelong turmoil yields no resolution, and even extended life (*umr-e-Khizr*, alluding to the immortal Khidr) brings no escape from love's torment.[^6]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 3 (\"Aah ko chahiye ik umr asar hote tak\"), transliteration (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/03-aah-ko-chahiye-ik-umr-asar-hote-tak/transliteration/).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 27 (\"Dard se mere hai tujh ko be-qarari haaye haaye\"), translation (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/27-dard-se-mere-hai-tujh-ko-be-qarari-haaye-haaye/translation/).\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 3, translation, [p-0733e9](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/03-aah-ko-chahiye-ik-umr-asar-hote-tak/translation/#p-0733e9); transliteration, [p-bcdca7](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/03-aah-ko-chahiye-ik-umr-asar-hote-tak/transliteration/#p-bcdca7).\n\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 27, translation, [p-efe750](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/27-dard-se-mere-hai-tujh-ko-be-qarari-haaye-haaye/translation/#p-efe750); transliteration, [p-a71fc7](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/27-dard-se-mere-hai-tujh-ko-be-qarari-haaye-haaye/transliteration/#p-a71fc7).\n\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 70 (\"Hazaaron khwahishein aisi ke har khwahish pe dam nikle\"), translation, [p-9bc9b2](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/70-hazaaron-khwahishein-aisi-ke-har-khwahish-pe-dam-n/translation/#p-9bc9b2); transliteration, [p-6898cb](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/70-hazaaron-khwahishein-aisi-ke-har-khwahish-pe-dam-n/transliteration/#p-6898cb).\n\n[^6]: E.g., ch. 68, transliteration (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/68-hareef-e-matlab-e-mushkil-nahin-fusoon-e-niyaaz/transliteration/#p-f62532).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "umr"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lifetime\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.3 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 27,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.27 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 27,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.27 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 70,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.70 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 70,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.70 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-d79510"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-d79510"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-3c27dd"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 27,
+        "paragraph_ids": [
+          "p-1640aa"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 27,
+        "paragraph_ids": [
+          "p-1640aa"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 70,
+        "paragraph_ids": [
+          "p-6898cb"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 70,
+        "paragraph_ids": [
+          "p-6898cb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"umr bhar\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 70,
+      "paragraph_id": "p-0733e9"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 70,
+      "paragraph_id": "p-bcdca7"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 70,
+      "paragraph_id": "p-efe750"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 70,
+      "paragraph_id": "p-a71fc7"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 70,
+      "paragraph_id": "p-9bc9b2"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 70,
+      "paragraph_id": "p-6898cb"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 70,
+      "paragraph_id": "p-f62532"
+    }
+  ],
+  "duration_ms": 47797,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 32223,
+    "completion_tokens": 5915,
+    "total_tokens": 38138,
+    "cached_tokens": 19592,
+    "api_calls": 4,
+    "cost_usd": 0.0064633,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 429,
+        "total_tokens": 1985,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005032
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6512,
+        "completion_tokens": 1282,
+        "total_tokens": 7794,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0017136
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 11408,
+        "completion_tokens": 1550,
+        "total_tokens": 12958,
+        "cached_tokens": 6507,
+        "cost_usd": 0.00208055
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12747,
+        "completion_tokens": 2654,
+        "total_tokens": 15401,
+        "cached_tokens": 11403,
+        "cost_usd": 0.00216595
+      }
+    ]
+  }
+}

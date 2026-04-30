@@ -1,0 +1,248 @@
+{
+  "answer": "**Manuṣmṛti (Book 1) does not depict cosmogenesis as \"Brahma's exhalation\"**—no such phrasing or motif appears in the text.[^1] Its central cosmogenic claim is instead a classic cosmic egg (hiraṇyagarbha) narrative: the universe arises from an initial state of unmanifest darkness, wherein the divine Self-Existent One (Svayambhū) manifests with creative power, produces waters as his first creation, places his seed in them to form a golden egg, is reborn within it as Brahmā (the grandfather of worlds), and from the split egg and his own body emanates the cosmos—including sky/earth, mind (*of being/non-being*), ego, senses, subtle elements, deities, Ṛg/Yajus/Sāman Vedas, time divisions, varṇas (Brāhmaṇa from mouth, etc.), and all movable/immovable beings.[^2][^3]\n\n**Vṛhaspatitattva** opens with Śiva instructing Bṛhaspati on *tattvas* (principles of reality). Its central cosmogenic claim is ontological rather than narrative: the supreme *tattva* is eternally **twofold—*cetana* (Conscious Principle: inherently knowing, unforgetting; subdivided into Paramaśiva, Sadāśiva, Śiva) and *acetana* (Unconscious Principle: unknowing, like stone)**. Their conjunction (*cetana* pervading/weaving *acetana* as *ūtaprota*) generates all 36 *tattvas*: pure *cetana* (> Māyāśiras > Māyā [*acetana*] > stained ātmāns > pradhāna [*acetana* gross māyā*] > triguṇa [*sattva/rajas/tamas*] > buddhi > ahaṃkāra > 10 indriyas/manas > 5 tanmātras > 5 mahābhūtas). Śiva (*cetana*) animates this hierarchy; impure ātmāns forget due to māyā/pradhāna, binding them in saṃsāra.[^4][^5]\n\n**Manuṣmṛti's framework would survive translation into Vṛhaspatitattva's idiom with the least damage.** Vṛhaspatitattva's *tattva*-ontology is a systematic grid that readily absorbs narrative cosmogonies like Manuṣmṛti's: Svayambhū/Brahmā maps to higher *cetana* (e.g., Sadāśiva/Śiva), the egg to māyā/pradhāna, mind/ego/indriyas/tanmātras/mahābhūtas to the lower 31 impure *tattvas*, and varṇas/beings to guṇa-bound births—all under *cetana*-acetana duality with Śiva as sovereign animator.[^6] Manuṣmṛti's monistic emanation (one principle unfolding all) aligns as *cetana* manifesting through *acetana*, preserving its hierarchy with minimal distortion.\n\nThe reverse strains more: Vṛhaspatitattva's eternal *cetana*-*acetana* duality (Śiva independent of māyā; ātmāns as distinct bound souls) clashes with Manuṣmṛti's unitary Self-Existent (no primordial unconscious rival; creation as self-projection from egg/Brahmā, reabsorbed into sleep/wake cycles). Forcing *acetana* into Manu's egg-motif loses Śaiva purity/impurity, ātman-multiplicity, and tattva-pervasion, reducing it to a flattened Vedic tale.[^7]\n\n[^1]: Manusmṛti, Chapter 1, full search yields no \"exhalation,\" \"breath,\" or respiratory cosmogony (e.g., no *niśvāsa*); cf. later Purāṇic motifs absent here. (/works/unknown-manusmrti-347b76/01/translation/)\n\n[^2]: Key passage: \"[p-61df11] This universe existed as darkness... [p-93cef0] Then the divine Self-existent One... [p-153021] That seed became a golden egg... in it he himself was born as Brahma...\" (/works/unknown-manusmrti-347b76/01/translation/#p-61df11)\n\n[^3]: Emanations: \"[p-3bd729] ...split the egg... heavens and earth... [p-f689c4] ...mind... ego... [p-db3800] ...great soul... sense organs... [p-13a2db] ...Brahmana... from mouth...\" (/works/unknown-manusmrti-347b76/01/translation/#p-3bd729)\n\n[^4]: \"[p-04d69c] The supreme *tattva* is twofold: *cetana* and *acetana*. It pervades all *tattvas*...\" (/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-04d69c)\n\n[^5]: Hierarchy/union: \"*Cetana*... *Acetana*... When *cetana* and *acetana* meet, they give rise to all the *tattvas*: pradhānatattva... pañcamahābhūtatattva...\" (/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-c31df3)\n\n[^6]: E.g., Manu's mind/elements → Vṛhaspati's buddhi/ahaṃkāra/tanmātras/mahābhūtas; varṇas → guṇa births. (/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-464431)\n\n[^7]: Manu's cycles: \"[p-81b746] ...absorbed into his own Self... When that divine one is awake... world is active...\" No room for eternal acetana/mala. (/works/unknown-manusmrti-347b76/01/translation/#p-81b746)",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahma exhalation",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cetana acetana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vrhaspati tattva",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"book 1\" manu cosmogenesis",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vrhaspati"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"manu\" creation",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"manu\" cosmog",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu brahma",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "indic"
+      },
+      "result_summary": "Listed 19 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\",\"author\":\"Manu\",\"author_slug\":\"manu\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Sanskrit\",\"language_s"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"slug\":\"unknown-vrhaspatitattva-b60b28\",\"title\":\"Vrhaspatitattva\",\"author\":\"Bṛhaspati\",\"author_slug\":\"brhaspati\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-61df11"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-93cef0"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-153021"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-3bd729"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-f689c4"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-db3800"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-04d69c"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-c31df3"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-464431"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-81b746"
+    }
+  ],
+  "duration_ms": 38927,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 43698,
+    "completion_tokens": 4273,
+    "total_tokens": 47971,
+    "cached_tokens": 7804,
+    "api_calls": 4,
+    "cost_usd": 0.009705499999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1587,
+        "completion_tokens": 772,
+        "total_tokens": 2359,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00047405
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1995,
+        "completion_tokens": 433,
+        "total_tokens": 2428,
+        "cached_tokens": 150,
+        "cost_usd": 0.000593
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 4140,
+        "completion_tokens": 390,
+        "total_tokens": 4530,
+        "cached_tokens": 1990,
+        "cost_usd": 0.0007245
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "get_metadata",
+          "get_metadata"
+        ],
+        "prompt_tokens": 35976,
+        "completion_tokens": 2678,
+        "total_tokens": 38654,
+        "cached_tokens": 4135,
+        "cost_usd": 0.00791395
+      }
+    ]
+  }
+}

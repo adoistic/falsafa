@@ -1,0 +1,269 @@
+{
+  "answer": "In the Diwan-E-Ghalib, Diwan-E-Zauq, and Bang-E-Dara collections, *ishq* (عشق) is depicted not as mere romantic affection but as an all-consuming passion—often a tormenting \"sickness\" (*maraz-e-ishq*, *dard-e-ishq*) blending earthly desire with spiritual ecstasy, obsession, and self-annihilation. It defies cure, rationality, or superficial display, demanding total surrender, whether to a beloved or the Divine.[^1][^2]\n\n### Ghalib (Diwan-E-Ghalib)\nGhalib equates *ishq* with *vehshat* (wildness/madness), a relentless force that builds the beloved's fame through the lover's suffering, yet persists despite rejection or torment. It is a profound constancy (*istiqamat*) that heaven cannot fully extinguish, akin to a fatal illness even the Messiah (*Isa*) cannot heal.[^3][^4][^5]\n\n> If not your love, this wild obsession—so be it;  \n> My obsession only builds your fame—then so be it.[^6]\n\n### Zauq (Diwan-E-Zauq)\nFor Zauq, *ishq* is life's central \"game\" (*ishq-baazi*), a maddening affliction (*maraz*) that erases all other memories, leaving the lover enthralled and oblivious to the world, God, or self. It thrives on cruelty and forgetfulness, reducing existence to the beloved's thrall.[^7][^8]\n\n> When love's a sickness taking hold, what can the mind enthrall?  \n> No thought of cure remains, no prayer escapes the fall, and still recall.[^9]\n\n### Iqbal (Bang-E-Dara)\nIqbal elevates *ishq* to a sacred, hidden anguish (*dard-e-ishq*)—a \"pearl of purest water\" unfit for the unworthy or modern superficiality. It seeks divine union's \"final reach\" (*inteha*), embracing torment over paradise, as a transformative fire hidden in the heart.[^10][^11]\n\n> O, Anguish of Love! A pearl of purest water, you;  \n> Be not revealed to the unworthy view.[^12]\n\n> The final reach of Your Love is what I seek;  \n> Behold my simplicity, what I beseech is what I seek.[^13]\n\nWhile motifs overlap (pain, madness, divinity), Ghalib emphasizes defiant persistence, Zauq the mind-erasing malady, and Iqbal its concealed spiritual pinnacle. The corpus lacks exhaustive philosophical treatises on *ishq*, focusing instead on poetic evocation.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/84-ishq-mujh-ko-nahin-vehshat-hi-sahi/translation/).\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/35-maraz-e-ishq-jise-ho-use-kya-yaad-rahe/translation-2.md).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/84-ishq-mujh-ko-nahin-vehshat-hi-sahi/translation/).\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/85-ishq-taasir-se-na-umeed-nahin/translation-2.md).\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/126-lo-hum-mareez-e-ishq-ke-beemaar-daar-hain/translation-2.md/#p-cdb14e).\n[^6]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/84-ishq-mujh-ko-nahin-vehshat-hi-sahi/translation/#p-a4c81f).\n[^7]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/20-hum-hain-aur-shughl-e-ishq-baazi-hai/translation/).\n[^8]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/35-maraz-e-ishq-jise-ho-use-kya-yaad-rahe/translation-2.md).\n[^9]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/35-maraz-e-ishq-jise-ho-use-kya-yaad-rahe/translation-2.md/#p-32ad70).\n[^10]: Allama Iqbal, *Bang-E-Dara Part 1*, [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/translation-2.md).\n[^11]: Allama Iqbal, *Bang-E-Dara Part 1*, [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/12-tere-ishq-ki-inteha-chahta-hoon/translation/).\n[^12]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/translation-2.md/#p-6d19d8).\n[^13]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/12-tere-ishq-ki-inteha-chahta-hoon/translation/#p-34168f).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ishq",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ishq\" love",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ishq",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "love",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"love\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Listed 60 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dard-e-ishq\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 84,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.84 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 85,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.85 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 126,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.126 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 35,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.35 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 12,
+      "paragraph_id": "p-cdb14e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 12,
+      "paragraph_id": "p-a4c81f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 12,
+      "paragraph_id": "p-32ad70"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 12,
+      "paragraph_id": "p-6d19d8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 12,
+      "paragraph_id": "p-34168f"
+    }
+  ],
+  "duration_ms": 50588,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 111228,
+    "completion_tokens": 5941,
+    "total_tokens": 117169,
+    "cached_tokens": 62596,
+    "api_calls": 5,
+    "cost_usd": 0.0158267,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 389,
+        "total_tokens": 1952,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004846
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2688,
+        "completion_tokens": 515,
+        "total_tokens": 3203,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007726
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17102,
+        "completion_tokens": 1580,
+        "total_tokens": 18682,
+        "cached_tokens": 2683,
+        "cost_usd": 0.00380795
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 42521,
+        "completion_tokens": 1075,
+        "total_tokens": 43596,
+        "cached_tokens": 17097,
+        "cost_usd": 0.00647715
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 47354,
+        "completion_tokens": 2382,
+        "total_tokens": 49736,
+        "cached_tokens": 42516,
+        "cost_usd": 0.0042844
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "answer": "**This passage appears in Charles Comte's *Traité de Législation: VOL III*, Chapter 48 (\"De la supériorité des peuples d’espèce caucasienne sur les peuples des autres espèces. — Des causes\").**[^1]\n\nComte rebuts claims of the Caucasian (white) race's natural superiority over other races (such as blacks in European colonies) by noting that ancient Caucasians themselves practiced slavery on a massive scale. He writes: \"In the republic of Athens, there were, it is assured, twenty thousand citizens and four hundred thousand slaves: that was twenty slaves for one free man, approximately the same proportion observed in the colonies between whites and blacks.\"[^1] He adds that great Romans owned \"up to five hundred, and sometimes even up to a thousand\" slaves inside the capital alone (plus multitudes on their domains), so \"a twentieth of the men of the Caucasian species was therefore sufficient to maintain the other nineteen-twentieths in a servitude harsher than that to which blacks are subjected.\"[^1]\n\nThis shows that a tiny fraction of Caucasians could dominate and harshly enslave the vast majority of their own racial kin without external support (unlike colonial slavery backed by European states), undermining arguments for innate racial hierarchies in justifying slavery.\n\n[^1]: Charles Comte, *Traité de Législation: VOL III*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/48-de-la-superiorite-des-peuples-d-espece-caucasienne/translation/#p-b496c9).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "twenty thousand citizens Athens slaves",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"twenty thousand\" \"four hundred thousand\" slaves",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Caucasian species\" slaves",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ratio of twenty to one\" slaves",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Athens\" slaves",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"republic of Athens\" slaves",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"twenty thousand\" Athens",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Athens \"twenty\" \"slaves\" OR \"400\" OR \"four hundred\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Romans\" \"five hundred\" slaves",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five hundred\" slaves Rome OR Romans",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"thousand\" slaves Rome OR Romans OR Athenian OR Athens",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"twentieth\" OR \"1/20\" OR \"one twentieth\" slaves",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-6c6409"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 48
+      },
+      "result_summary": "Read ch.48 of charles-comte-traite-de-legislation-vol-iii-ca589a (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 48,
+        "paragraph_ids": [
+          "p-b496c9"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 48,
+      "paragraph_id": "p-b496c9"
+    }
+  ],
+  "duration_ms": 94602,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 135555,
+    "completion_tokens": 4846,
+    "total_tokens": 140401,
+    "cached_tokens": 88950,
+    "api_calls": 6,
+    "cost_usd": 0.016191499999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1658,
+        "completion_tokens": 571,
+        "total_tokens": 2229,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005946
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4450,
+        "completion_tokens": 534,
+        "total_tokens": 4984,
+        "cached_tokens": 1533,
+        "cost_usd": 0.00092705
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6122,
+        "completion_tokens": 393,
+        "total_tokens": 6515,
+        "cached_tokens": 4445,
+        "cost_usd": 0.00075415
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 35869,
+        "completion_tokens": 1881,
+        "total_tokens": 37750,
+        "cached_tokens": 6117,
+        "cost_usd": 0.00719675
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_passage"
+        ],
+        "prompt_tokens": 40846,
+        "completion_tokens": 609,
+        "total_tokens": 41455,
+        "cached_tokens": 35864,
+        "cost_usd": 0.0030941
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 46610,
+        "completion_tokens": 858,
+        "total_tokens": 47468,
+        "cached_tokens": 40841,
+        "cost_usd": 0.00362485
+      }
+    ]
+  }
+}

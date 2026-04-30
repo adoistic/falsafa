@@ -1,0 +1,117 @@
+{
+  "answer": "**The third couplet** (of eight couplets total in this poem) from Allama Iqbal's \"Anokhi waza hai, saare zamane se nirale hain\" (Bang-e-Dara Part 1, Chapter 2) reads:\n\n> O Lord, may my hope's garden thrive and gain,  \n> I fed these shoots with my own heart's blood-rain.[^1]\n\nThis is the English translation; the poem is structured as verse couplets, with each marked as a distinct paragraph in the corpus.[^2]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, Chapter 2: \"Anokhi waza hai, saare zamane se nirale hain\" (translation), [paragraph](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-1-55b25c/02-anokhi-waza-hai-saare-zamane-se-nirale-hain/translation/#p-61af92/).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, Chapter 2: \"Anokhi waza hai, saare zamane se nirale hain\" (translation), [chapter](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-1-55b25c/02-anokhi-waza-hai-saare-zamane-se-nirale-hain/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-61af92"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 2,
+      "paragraph_id": "p-61af92"
+    }
+  ],
+  "duration_ms": 26680,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 19255,
+    "completion_tokens": 3046,
+    "total_tokens": 22301,
+    "cached_tokens": 15141,
+    "api_calls": 5,
+    "cost_usd": 0.0031028499999999994,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1571,
+        "completion_tokens": 400,
+        "total_tokens": 1971,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00028485
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 1974,
+        "completion_tokens": 165,
+        "total_tokens": 2139,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00024795
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters"
+        ],
+        "prompt_tokens": 4735,
+        "completion_tokens": 283,
+        "total_tokens": 5018,
+        "cached_tokens": 1969,
+        "cost_usd": 0.00079315
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 5389,
+        "completion_tokens": 633,
+        "total_tokens": 6022,
+        "cached_tokens": 4730,
+        "cost_usd": 0.0006848
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 5586,
+        "completion_tokens": 1565,
+        "total_tokens": 7151,
+        "cached_tokens": 5384,
+        "cost_usd": 0.0010921
+      }
+    ]
+  }
+}

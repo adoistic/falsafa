@@ -1,0 +1,342 @@
+{
+  "answer": "**Yājñavalkya Smṛti on Śūdra Duties**\n\nIn *Yājñavalkya Smṛti* 1.120, the text states: \"The duty (*dharma*) of a Śūdra is the service of the twice-born; if unable to live by that, he may become a merchant. Or he may live by various crafts, always acting for the benefit of the twice-born.\"[^1]\n\n**Viṣṇu Smṛti on Śūdra Duties**\n\nIn *Viṣṇu Smṛti* 2.8 and 2.14, the duties and livelihoods are more strictly delineated: \"The duty (*dharma*) of a Śūdra is service to the twice-born\" (2.8), with livelihoods limited to \"all the crafts\" (2.14). No alternatives like trade are permitted if service proves unviable.[^2]\n\n**Comparison of Ease and Tightening**\n\n- **Yājñavalkya eases**: Primary duty remains service to the twice-born (*dvija*: Brāhmaṇa, Kṣatriya, Vaiśya), but pragmatic concessions allow merchant activity (*vaṇik*) or crafts (*śilpa*) if service cannot sustain life. All must still benefit the twice-born, preserving hierarchy but introducing economic flexibility.\n- **Viṣṇu tightens**: Service to the twice-born is absolute as *dharma* (2.8); crafts are a rigid fallback for livelihood (2.14). No explicit permission for trade or contingency for inability to serve—implying stricter subservience without adaptive options.\n\n**Implication of the Asymmetry**\n\n*Yājñavalkya Smṛti* (ca. 300–500 CE, post-Gupta commercialization) reflects a social moment of expanding trade and urbanization in northern India, where Śūdras increasingly participated in markets (e.g., as merchants in guilds). This easing pragmatically accommodates economic realities while subordinating them to elite benefit, signaling hierarchical adaptation amid prosperity.[^3]\n\n*Viṣṇu Smṛti* (earlier, ca. 300–100 BCE, late Vedic/early classical) embodies a more rigid, agrarian feudalism, where Śūdra labor directly propped up the ritual and martial elite without economic agency. Tightening underscores anxiety over *varṇa* purity in a pre-commercial era, prioritizing ideological control over practical viability.[^4]\n\n[^1]: *Yājñavalkya Smṛti*, Chapter 1, [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-529766).\n[^2]: *Viṣṇu Smṛti*, Chapter 2, [paragraphs](/works/unknown-visnu-smrti-27f0d8/02/translation/#p-f34593) (cf. 2.8 at p-6910e1).\n[^3]: Cf. related discussions in *Manusmṛti* Ch. 10 (economic roles amid *varṇa* mixing) and *Kātyāyana Smṛti* Ch. 63 (labor hierarchies).\n[^4]: The corpus lacks exhaustive dating, but structural/era markers place Viṣṇu earlier; see *Yājñavalkya* Ch. 1 citation_url for full context.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya-smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu-smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sudra duties Yajnavalkya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sudra duties Vishnu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Indic"
+      },
+      "result_summary": "Listed 19 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sudra\" OR \"Sudras\" OR \"Shudra\" OR \"Shudras\" duties"
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sudra\" OR \"Sudras\" OR \"Shudra\" OR \"Shudras\" Yajnavalkya"
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Shudra"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sudra\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Shudra\" OR \"Sudras\" OR \"Sudra\" OR \"Sudras\" OR \"Shudra\" OR \"Śūdra\" serve OR duty OR service OR \"twice-born\""
+      },
+      "result_summary": "Found 16 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"serve the twice-born\" OR \"service of the twice-born\" OR \"Shudra duty\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-529766"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-yajnavalkya-smrti-cb88d6",
+        "work_slug_b": "unknown-visnu-smrti-27f0d8",
+        "topic": "Sudra duties"
+      },
+      "result_summary": "{\"topic\":\"Sudra duties\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-yajnavalkya-smrti-cb88d6\",\"title\":\"Ya"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sudra\" OR \"Shudra\" OR \"Śūdra\" Vishnu OR Visnu"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Found 5 related"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 3,
+      "paragraph_id": "p-529766"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 3,
+      "paragraph_id": "p-f34593"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 3,
+      "paragraph_id": "p-6910e1"
+    }
+  ],
+  "duration_ms": 65283,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 248517,
+    "completion_tokens": 5568,
+    "total_tokens": 254085,
+    "cached_tokens": 157680,
+    "api_calls": 6,
+    "cost_usd": 0.028835399999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1591,
+        "completion_tokens": 682,
+        "total_tokens": 2273,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00042985
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1953,
+        "completion_tokens": 689,
+        "total_tokens": 2642,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007126
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 7899,
+        "completion_tokens": 713,
+        "total_tokens": 8612,
+        "cached_tokens": 1948,
+        "cost_usd": 0.0016441
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 67703,
+        "completion_tokens": 1328,
+        "total_tokens": 69031,
+        "cached_tokens": 7894,
+        "cost_usd": 0.0130205
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "get_passage",
+          "list_chapters",
+          "compare_works"
+        ],
+        "prompt_tokens": 78466,
+        "completion_tokens": 862,
+        "total_tokens": 79328,
+        "cached_tokens": 67698,
+        "cost_usd": 0.0059695
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "find_related"
+        ],
+        "prompt_tokens": 90905,
+        "completion_tokens": 1294,
+        "total_tokens": 92199,
+        "cached_tokens": 78461,
+        "cost_usd": 0.00705885
+      }
+    ]
+  }
+}

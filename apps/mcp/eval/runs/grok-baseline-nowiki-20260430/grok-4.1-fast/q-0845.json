@@ -1,0 +1,149 @@
+{
+  "answer": "In Chapter 9 of *Traité de la propriété* Vol. I, Charles Comte argues that the primitive utility and value of land—its worth when left in its uncultivated, natural state—is extremely low, requiring vast expanses to sustain even a single person through hunting and gathering, as the earth provides scant direct resources suitable for human needs without labor.[^1] He contrasts this with the immense value lands acquire in civilized societies, where human industry (cultivation, infrastructure, etc.) and population growth multiply their productivity: for example, a square league of land might support just one savage but up to 1,200 people in a place like France, meaning roughly 11/1,200ths (or ~0.08%) of modern land value stems from its primitive state, with the rest created by man.[^2][^3]\n\nComte supports this by comparing population densities across regions and eras: in ancient, uncultivated Europe (e.g., Roman-era Gaul or Britain), lands sustained sparse, nomadic groups with minimal output; in contemporary Mexico, a square league might feed as few as 6–7 people in remote areas versus 586 in advanced ones; and among pure savages, it suffices for only one, far less than even the poorest European laborer derives from his trade.[^4][^5] Even in barbarous conditions, \"industry\" like hunting demands grueling effort for meager yields (e.g., ~550 animals per person annually, across immense territories), underscoring that all value derives from labor, not nature alone—thus, the first cultivators appropriated nothing from others but enriched society.[^6]\n\n[^1]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/09-de-lutilite-et-de-la-valeur-primitives-des-fonds-d/translation/#p-dfb23f).\n[^2]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/09-de-lutilite-et-de-la-valeur-primitives-des-fonds-d/translation/#p-e52e6e).\n[^3]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/09-de-lutilite-et-de-la-valeur-primitives-des-fonds-d/translation/#p-506a45).\n[^4]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/09-de-lutilite-et-de-la-valeur-primitives-des-fonds-d/translation/#p-0b753c).\n[^5]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/09-de-lutilite-et-de-la-valeur-primitives-des-fonds-d/translation/#p-cf2254).\n[^6]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/09-de-lutilite-et-de-la-valeur-primitives-des-fonds-d/translation/#p-9fbe21).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-dfb23f",
+          "p-e52e6e",
+          "p-9fbe21",
+          "p-0b753c",
+          "p-506a45"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 9,
+        "paragraph_range": {
+          "start": 0,
+          "end": 5
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 9,
+      "paragraph_id": "p-dfb23f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 9,
+      "paragraph_id": "p-e52e6e"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 9,
+      "paragraph_id": "p-506a45"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 9,
+      "paragraph_id": "p-0b753c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 9,
+      "paragraph_id": "p-cf2254"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 9,
+      "paragraph_id": "p-9fbe21"
+    }
+  ],
+  "duration_ms": 31513,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 26040,
+    "completion_tokens": 3366,
+    "total_tokens": 29406,
+    "cached_tokens": 15640,
+    "api_calls": 4,
+    "cost_usd": 0.004545,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1573,
+        "completion_tokens": 229,
+        "total_tokens": 1802,
+        "cached_tokens": 1535,
+        "cost_usd": 0.00019885
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2301,
+        "completion_tokens": 352,
+        "total_tokens": 2653,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0004067
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter"
+        ],
+        "prompt_tokens": 10284,
+        "completion_tokens": 1192,
+        "total_tokens": 11476,
+        "cached_tokens": 2296,
+        "cost_usd": 0.0023084
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 11882,
+        "completion_tokens": 1593,
+        "total_tokens": 13475,
+        "cached_tokens": 10279,
+        "cost_usd": 0.00163105
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "answer": "**'Varna' (literally \"color\" or \"class\") refers to the four primary social orders (varṇas) into which society is divided in Smṛti literature, particularly the Maṉusmṛti, the foundational text of the genre in this corpus.** These are the Brahmin (priests and scholars), Kṣatriya (rulers and warriors), Vaiśya (merchants, farmers, and herders), and Śūdra (servants and laborers). They originate cosmogonically from the body of the primordial being (Svayambhuva Manu or Prajāpati): Brahmins from the mouth (symbolizing speech and knowledge), Kṣatriyas from the arms (strength and protection), Vaiśyas from the thighs (support and prosperity), and Śūdras from the feet (service).[^1]\n\nEach varṇa has distinct, eternal duties (svadharma):\n- **Brahmin**: Teaching and studying the Veda, performing sacrifices for self and others, giving and receiving gifts.[^2]\n- **Kṣatriya**: Protecting the people, giving gifts, performing sacrifices, studying, and detachment from sensory pleasures.[^3]\n- **Vaiśya**: Tending cattle, giving gifts, performing sacrifices, studying, trade, usury, and agriculture.[^4]\n- **Śūdra**: Serving the three upper varṇas faithfully (the \"twice-born,\" i.e., those eligible for the upanayana initiation).[^5]\n\nThe system emphasizes hierarchy, purity, and endogamy, with \"twice-born\" (dvija) status for the upper three varṇas (initiated via the sacred thread ceremony). Inter-varṇa marriages produce \"mixed\" (saṃkara) castes, ranked by degree of \"anuloma\" (higher male on lower female, somewhat tolerated) vs. \"pratiloma\" (reverse, more censured) unions, leading to numerous subgroups like Sūta, Ambaṣṭha, Niṣāda, and Caṇḍāla (the lowest). These mixed groups have specific degraded occupations (e.g., charioteering for Sūtas, healing for Ambaṣṭhas, fishing for Niṣādas).[^6]\n\n**Movement between varṇas is generally prohibited, as duties are innate and divinely ordained, but limited allowances exist under specific conditions, primarily in the Maṉusmṛti (the most detailed Smṛti here on this topic):**\n1. **In times of distress (āpaddharma)**: Upper varṇas may temporarily adopt the occupations of lower ones for survival, but must revert when possible and avoid the most violent/degrading acts:\n   - A Brahmin unable to subsist by his own duties may live as a Kṣatriya, then a Vaiśya (trade/cattle-herding, avoiding agriculture due to harm to creatures), but never as a Śūdra.[^7]\n   - A Kṣatriya in distress follows Vaiśya livelihoods but not higher ones.[^8]\n   - A Vaiśya may adopt Śūdra service; a Śūdra unable to serve may do artisan crafts.[^9]\n   These are exceptional, not permanent shifts, and \"one's own imperfect dharma is better than another's well-performed.\"[^10]\n\n2. **Gradual upward mobility over generations**: Excellence, austerity (tapas), and \"seed power\" (paternal lineage) allow elevation. E.g., a Brahmin-Śūdra son (Niṣāda/Pāraśava) rises to Brahmin status in the seventh generation; similarly for other mixes. Conversely, neglect of rites caused some ancient Kṣatriya groups (e.g., Pauṇḍrakas, Drāviḍas) to degrade to Śūdra level.[^11]\n\n3. **No downward mobility for upper varṇas** via degradation alone, but lower varṇas/outsiders (mlecchas) may elevate through virtue/non-violence.[^12]\n\nOther Smṛtis in the corpus (e.g., Yājñavalkya, Nārada, Kātyāyana, Viṣṇu, Bṛhaspati) affirm the varṇa framework and duties similarly but discuss fewer mobility cases; they reinforce hierarchy via inheritance, marriage, and penances without contradicting Maṉusmṛti's exceptions.[^13] The system prioritizes stability, with violations risking rebirth in lower forms or hells.\n\nThe Falsafa corpus covers 37 works, but Smṛtis (under Indic genre) focus heavily on Maṉusmṛti for varṇa; no comprehensive \"smriti corpus\" summary exists beyond these patterns.\n\n[^1]: Maṉusmṛti, Ch. 1, [p-13a2db](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db).\n[^2]: Ibid., [p-71a5c2](/works/unknown-manusmrti-347b76/01/translation/#p-71a5c2) (Mn_1.88).\n[^3]: Ibid., [p-a09d4d](/works/unknown-manusmrti-347b76/01/translation/#p-a09d4d) (Mn_1.89).\n[^4]: Ibid., [p-357321](/works/unknown-manusmrti-347b76/01/translation/#p-357321) (Mn_1.90).\n[^5]: Ibid., [p-26a572](/works/unknown-manusmrti-347b76/01/translation/#p-26a572) (Mn_1.91).\n[^6]: Ibid., Ch. 10, [p-4999b4](/works/unknown-manusmrti-347b76/10/translation/#p-4999b4) to [p-8ef503](/works/unknown-manusmrti-347b76/10/translation/#p-8ef503) (Mn_10.1–40).\n[^7]: Ibid., [p-b34355](/works/unknown-manusmrti-347b76/10/translation/#p-b34355)–[p-53206d](/works/unknown-manusmrti-347b76/10/translation/#p-53206d) (Mn_10.81–97).\n[^8]: Ibid., [p-2a4496](/works/unknown-manusmrti-347b76/10/translation/#p-2a4496) (Mn_10.95).\n[^9]: Ibid., [p-179977](/works/unknown-manusmrti-347b76/10/translation/#p-179977)–[p-4624f2](/works/unknown-manusmrti-347b76/10/translation/#p-4624f2) (Mn_10.98–100).\n[^10]: Ibid., [p-53206d](/works/unknown-manusmrti-347b76/10/translation/#p-53206d) (Mn_10.97).\n[^11]: Ibid., [p-2cf995](/works/unknown-manusmrti-347b76/10/translation/#p-2cf995)–[p-907438](/works/unknown-manusmrti-347b76/10/translation/#p-907438) (Mn_10.42–43).\n[^12]: Ibid., [p-86ec7d](/works/unknown-manusmrti-347b76/10/translation/#p-86ec7d) (Mn_10.62).\n[^13]: E.g., Yājñavalkya Smṛti, Ch. 1 (duties affirmed, no mobility details in searched snippets); Kātyāyana Smṛti (caste-based ordeals/punishments).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "varna",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mixed\" varna OR varnas OR caste",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "distress OR calamity OR adversity varna OR varnas",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"time of distress\" OR \"times of distress\" OR apad OR calamity OR adversity varna OR varnas OR caste",
+        "limit": 20
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Indic"
+      },
+      "result_summary": "Listed 19 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-71a5c2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-a09d4d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-357321"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-26a572"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-4999b4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-8ef503"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-b34355"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-53206d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-2a4496"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-179977"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-4624f2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-2cf995"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-907438"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-86ec7d"
+    }
+  ],
+  "duration_ms": 93280,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 62025,
+    "completion_tokens": 5402,
+    "total_tokens": 67427,
+    "cached_tokens": 20088,
+    "api_calls": 4,
+    "cost_usd": 0.0120928,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1558,
+        "completion_tokens": 847,
+        "total_tokens": 2405,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0005053
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5623,
+        "completion_tokens": 1105,
+        "total_tokens": 6728,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0014476
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 11413,
+        "completion_tokens": 1031,
+        "total_tokens": 12444,
+        "cached_tokens": 5618,
+        "cost_usd": 0.0019554
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 43431,
+        "completion_tokens": 2419,
+        "total_tokens": 45850,
+        "cached_tokens": 11408,
+        "cost_usd": 0.0081845
+      }
+    ]
+  }
+}

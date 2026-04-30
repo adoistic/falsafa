@@ -5,6 +5,79 @@ during the review and are explicitly NOT V1 scope. Each is captured with enough
 context that someone picking it up in 3 months understands the motivation and
 where to start.
 
+---
+
+## ⚠ EVAL SCORING REWORK — graded 3-state score (BLOCKING the paper)
+
+**Status:** QUEUED, not started. Captured 2026-04-30 after the citation-rigor
+investigation. The current published numbers (84.7% / 96.2% / 60.9%) overstate
+citation rigor — they're substring matches on prose, not citation discipline.
+
+**The problem.** The `mechanical_pass` function does diacritic-folded substring
+match on the answer prose: pass if every expected work-slug (or its longest
+token) appears anywhere in the text. This is too lenient — a model can
+name-drop "Manusmṛti" without ever opening it via the MCP and pass.
+
+When we switched to citation-array based scoring (every expected work must
+appear as `work_slug` in the structured `citations[]`), the headline dropped
+to 50.6% / 58.7% / 33.9%. **382 cases flipped pass→fail.** The 34pp gap is the
+citation-discipline gap — model name-drops works in prose but only emits
+~1 footnote per question even when 2-5 works are expected. Cross-cultural
+collapsed to 0% under citation-strict. Comparative dropped to 14%.
+
+**Why we reverted (temp).** A 2026-04-30 deadline needed the existing public
+numbers held steady. The substring scoring was restored as the displayed
+metric. The citation-strict function (`passByCitations`) stays in code as
+scaffolding. See commits `f977ae6` (diacritic fix) and `f909c16` (citation
+pass — reverted in deadline-revert commit).
+
+**The right fix: graded 3-state score.** Not pass/fail — a 0/0.5/1 scale:
+
+  - **PASS (1.0):** every expected_work has a structured citation
+  - **MIXED (0.5):** some expected cited or all named in prose without
+    being formally cited (partial citation discipline)
+  - **FAIL (0.0):** no expected work mentioned in prose or citations
+
+**Sub-tasks (in order):**
+
+1. Add `mechanical_score: number` (0–1) to `EvalCaseResult`, alongside
+   the existing boolean `mechanical_pass`. Preserves backward compat.
+2. Update `computeMechanicalPass` to compute both values and emit the score.
+   Update aggregation in `eval-index.json` to sum scores instead of count
+   passes. Update explorer header to show graded percentage.
+3. **Path A audit.** Generate a worksheet for cases where the model cited
+   non-expected works. ~77 hidden + ~10 named candidates (with current
+   numbers). Read each cited paragraph. For each, decide: add this work to
+   `expected_works` (valid alternative) or keep as-is (real failure).
+   Persist decisions to `eval/audit-decisions.json`, apply to the source
+   pool JSONs. One-time, ~3-4 hours of human-review time.
+4. **Prompt engineering for citation discipline.** Update
+   `apps/mcp/eval/run-openrouter.ts` SYSTEM_PROMPT to require:
+   "every work you mention by name in your answer MUST have a footnote
+   citation `[paragraph](url)` — name-dropping without citation is a fail."
+   This addresses the 305 "name-drop only, zero citations" cases.
+5. **Re-run baseline + wiki treatment** with the new prompt and graded
+   metric. Approx $14 baseline + $28 treatment = $42 total at Grok pricing.
+6. **THEN write the paper** with graded scores as the headline metric.
+   The honest framing: "Falsafa MCP scores X% on a citation-rigorous
+   deterministic eval; the wiki layer adds/doesn't-add Y pp at Z× cost."
+
+**Files touched in the temp revert:**
+- `eval/build-eval-json.ts` — `computeMechanicalPass()` and supporting
+  `passByCitations` / `passByProse` helpers. Live behavior is `passByProse`.
+- `apps/site/src/lib/eval-types.ts` — `passOf()` docstring updated
+- `apps/site/src/pages/eval/[id].astro` — comment updated
+- `apps/site/src/pages/numbers/index.astro` — "Sonnet judge" copy removed
+- `apps/site/src/islands/eval-explorer/EvalExplorer.tsx` — caption
+- `eval/README.md`, `README.md` — Sonnet-judge mentions removed
+- `~/.gstack/projects/falsafa/learnings.jsonl` — full investigation log
+
+**Why blocking the paper.** Publishing 84.7% as a "deterministic citation
+eval" overstates what the metric measures. The graded score is the honest
+number; the paper should not ship before it does.
+
+---
+
 ## Re-run eval on 1,000-question pool against citation-aware MCP
 
 **Status:** PLANNED, not started. Prerequisite work archived 2026-04-29.

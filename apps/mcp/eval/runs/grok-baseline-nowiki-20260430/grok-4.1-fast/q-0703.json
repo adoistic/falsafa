@@ -1,0 +1,176 @@
+{
+  "answer": "**Chapter 51 of the *Viṣṇu Smṛti* treats the specific topic of penances (*prāyaścitta*) prescribed for consuming various impure or forbidden foods and substances.**[^1]\n\nThis includes detailed rules for expiations related to:\n- Drinking liquor or defiling liquors, requiring grain-husks, the *cāndrāyaṇa* penance, or re-initiation.[^2]\n- Eating taboo items like garlic, onions, pork, beef, village chicken, monkey meat, or meats from five-toed animals (with exceptions).[^3]\n- Food obtained from impure persons (e.g., courtesans, thieves, usurers, unchaste women, artisans, low castes), requiring milk diets or fasting.[^4]\n- Specific meats (fish, aquatic animals, donkey, camel, crow, carnivores, birds, insects, dogs, mushrooms), with penances like fasting, *taptakṛcchra*, or decoctions.[^5]\n- Stale, sour, or ritually impure foods (e.g., certain milks, leftovers, uncooked *śrāddha*), often involving fasting or specific penances.[^6]\n- Leftovers from animals or lower castes, scaled by varṇa (e.g., seven nights for a Brāhmaṇa eating Śūdra leftovers).[^7]\n\nThe chapter concludes with 22 verses (51.59–78) philosophically advocating non-violence (*ahiṃsā*), the sanctity of Vedic sacrifice (where animal killing is permitted), the sin of unnecessary meat consumption, and the supreme merit of abstaining from meat entirely.[^8]\n\n[^1]: *Viṣṇu Smṛti*, [Chapter 51 (translation)](/works/unknown-visnu-smrti-27f0d8/51/translation/).\n\n[^2]: *Viṣṇu Smṛti*, Chapter 51, [p-dd7e4f](#p-dd7e4f), [p-ac2bab](#p-ac2bab), [p-bb0fd9](#p-bb0fd9)–[p-39ec47](#p-39ec47).\n\n[^3]: *Viṣṇu Smṛti*, Chapter 51, [p-81a3d4](#p-81a3d4), [p-180a83](#p-180a83).\n\n[^4]: *Viṣṇu Smṛti*, Chapter 51, [p-d09c4f](#p-d09c4f)–[p-28a344](#p-28a344).\n\n[^5]: *Viṣṇu Smṛti*, Chapter 51, [p-b0e8e4](#p-b0e8e4)–[p-60f167](#p-60f167).\n\n[^6]: *Viṣṇu Smṛti*, Chapter 51, [p-b70a9e](#p-b70a9e)–[p-ea35ac](#p-ea35ac).\n\n[^7]: *Viṣṇu Smṛti*, Chapter 51, [p-abf5e2](#p-abf5e2)–[p-eea2c5](#p-eea2c5).\n\n[^8]: *Viṣṇu Smṛti*, Chapter 51, [p-4a3c8c](#p-4a3c8c) (*Vi_51.59* through *Vi_51.78*).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Visnu Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 51,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.51 of unknown-visnu-smrti-27f0d8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-dd7e4f"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-ac2bab"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-bb0fd9"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-39ec47"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-81a3d4"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-180a83"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-d09c4f"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-28a344"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-b0e8e4"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-60f167"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-b70a9e"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-ea35ac"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-abf5e2"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-eea2c5"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-4a3c8c"
+    }
+  ],
+  "duration_ms": 21093,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 14391,
+    "completion_tokens": 2295,
+    "total_tokens": 16686,
+    "cached_tokens": 2804,
+    "api_calls": 3,
+    "cost_usd": 0.0036051,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1549,
+        "completion_tokens": 617,
+        "total_tokens": 2166,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005958
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2509,
+        "completion_tokens": 289,
+        "total_tokens": 2798,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006238
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter"
+        ],
+        "prompt_tokens": 10333,
+        "completion_tokens": 1389,
+        "total_tokens": 11722,
+        "cached_tokens": 2504,
+        "cost_usd": 0.0023855
+      }
+    ]
+  }
+}

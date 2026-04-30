@@ -1,0 +1,173 @@
+{
+  "answer": "**In Chapter 1 of the *Yājñavalkya Smṛti*, the dharma of the householder (*gṛhasthadharmaprakaraṇam*) is described explicitly in section 5.**[^1]\n\nThis section begins with the subsection title at paragraph [p-a80877] and opens with verse 1.97 (*Yj_1.97*), which prescribes the householder's daily performance of Smārta and Śrauta rites in the appropriate fires.[^2] It continues through verses 1.97–1.128 (up to paragraph [p-e13112]), covering daily rituals (e.g., twilight worship, the five great sacrifices, hospitality to guests), feeding dependents, general conduct (non-violence, truth, etc.), varṇa-specific duties, and rules on living modestly without excessive accumulation.[^3] The section then transitions to \"6. The Duties of the Graduate\" (*snātakadharmaprakaraṇam*) at paragraph [p-763993].[^4]\n\n[^1]: *Yājñavalkya Smṛti*, Chapter 1, section 5 heading, [/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-a80877](https://thothica.org/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-a80877).\n\n[^2]: *Yājñavalkya Smṛti*, Chapter 1, [/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-6c5d0a](https://thothica.org/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-6c5d0a).\n\n[^3]: *Yājñavalkya Smṛti*, Chapter 1, section 5 (verses 1.97–1.128), [/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-a80877](https://thothica.org/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-a80877).\n\n[^4]: *Yājñavalkya Smṛti*, Chapter 1, section 6 heading, [/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-763993](https://thothica.org/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-763993).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"slug\":\"unknown-yajnavalkya-smrti-cb88d6\",\"title\":\"Yājñavalkya Smṛti\",\"author\":\"Yājñavalkya\",\"author_slug\":\"yajnavalkya\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-a80877",
+          "p-6c5d0a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 0,
+          "end": 10
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 11 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-763993"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-a80877"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-e13112"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-763993"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-6c5d0a"
+    }
+  ],
+  "duration_ms": 34614,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 53435,
+    "completion_tokens": 3691,
+    "total_tokens": 57126,
+    "cached_tokens": 27877,
+    "api_calls": 4,
+    "cost_usd": 0.00835095,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 649,
+        "total_tokens": 2211,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006144
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1783,
+        "completion_tokens": 313,
+        "total_tokens": 2096,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00028375
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata",
+          "read_chapter"
+        ],
+        "prompt_tokens": 24425,
+        "completion_tokens": 1247,
+        "total_tokens": 25672,
+        "cached_tokens": 1778,
+        "cost_usd": 0.0052418
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 25665,
+        "completion_tokens": 1482,
+        "total_tokens": 27147,
+        "cached_tokens": 24420,
+        "cost_usd": 0.002211
+      }
+    ]
+  }
+}

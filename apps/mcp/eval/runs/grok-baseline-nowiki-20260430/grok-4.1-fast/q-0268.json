@@ -1,0 +1,260 @@
+{
+  "answer": "In Manusmṛti Book 1, the *varṇas* (social classes) emerge cosmogonically from the body of the creator as part of the primordial ordering of the universe: \"And for the sake of the prosperity of the worlds, he caused the Brahmana, the Kshatriya, the Vaishya, and the Shudra to emanate from his mouth, arms, thighs, and feet.\"[^1] This Puruṣa-like origin ties social hierarchy directly to cosmic creation, with each *varṇa*'s innate qualities and duties flowing from its bodily source.[^2]\n\nSlokāntara echoes this framework almost verbatim in its gnomic exposition, deriving the four *varṇas* from Brahmā's body (Brāhmaṇa from the forehead/mouth-area, Kṣatriya from the arms, Vaiśya from the thighs, Śūdra from the feet), but shifts to pragmatic duties suited to a Javanese agrarian and mercantile context: Vaiśyas as farmers and herdsmen who \"care for the land, ... work dry fields and wet rice fields, ... [and] produce the food of the world,\" while Śūdras are traders focused on \"buying and selling ... to trade, to sail, to lend and to borrow.\"[^3] Brāhmaṇas perform rituals and study scriptures; Kṣatriyas wage war and protect.[^4]\n\nSlokāntara clearly presupposes Manu's cosmogonic framework—it replicates the body-part schema to legitimize hierarchy—but adapts it pragmatically: duties emphasize local roles (e.g., rice farming over Vedic cattle-herding for Vaiśyas; maritime trade for Śūdras) amid warnings of chaos if *varṇas* neglect them, rather than dwelling on metaphysical origins.[^5]\n\n[^1]: Manusmṛti, [Chapter 1, paragraph p-13a2db](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db).\n[^2]: Manusmṛti, [Chapter 1, paragraph p-1c4c70](/works/unknown-manusmrti-347b76/01/translation/#p-1c4c70).\n[^3]: Slokāntara, [Chapter 1, paragraphs p-86d937 to p-0130ba](/works/unknown-slokantara-d7a628/01/translation/#p-86d937); Slokāntara, [Chapter 1, paragraphs p-428c5c and p-605381](/works/unknown-slokantara-d7a628/01/translation/#p-428c5c).\n[^4]: Slokāntara, [Chapter 1, paragraphs p-86d937 to p-0130ba](/works/unknown-slokantara-d7a628/01/translation/#p-86d937).\n[^5]: Slokāntara, [Chapter 1, paragraph p-0130ba](/works/unknown-slokantara-d7a628/01/translation/#p-0130ba).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "slokantara"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "varnas emerge creation purusha"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slokantara\" caste OR varna OR jati"
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old Javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Slokantara"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Old Javanese\" varna OR jati OR caste"
+      },
+      "result_summary": "Found 22 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Indic"
+      },
+      "result_summary": "Listed 19 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-slokantara-d7a628 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-13a2db"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Slokantara varna OR jati OR caste OR brahmana OR kshatriya OR shudra"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-13a2db",
+          "p-1c4c70"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-86d937",
+          "p-fbc575",
+          "p-b24e6c",
+          "p-0130ba"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-428c5c",
+          "p-605381"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-1c4c70"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-86d937"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-0130ba"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-428c5c"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-605381"
+    }
+  ],
+  "duration_ms": 55380,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 111553,
+    "completion_tokens": 4634,
+    "total_tokens": 116187,
+    "cached_tokens": 64466,
+    "api_calls": 5,
+    "cost_usd": 0.0149577,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1598,
+        "completion_tokens": 533,
+        "total_tokens": 2131,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005636
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4640,
+        "completion_tokens": 1159,
+        "total_tokens": 5799,
+        "cached_tokens": 150,
+        "cost_usd": 0.001485
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 15354,
+        "completion_tokens": 445,
+        "total_tokens": 15799,
+        "cached_tokens": 4635,
+        "cost_usd": 0.00259805
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 44187,
+        "completion_tokens": 1162,
+        "total_tokens": 45349,
+        "cached_tokens": 15349,
+        "cost_usd": 0.00711605
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 45774,
+        "completion_tokens": 1335,
+        "total_tokens": 47109,
+        "cached_tokens": 44182,
+        "cost_usd": 0.003195
+      }
+    ]
+  }
+}

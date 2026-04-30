@@ -1,0 +1,135 @@
+{
+  "answer": "**The work is *San Hyan Tattvajnana* (unknown author), Chapter 1.**[^1]\n\nThis chapter describes a graded fourteen-step cosmic devolution of the Divine *Ātmā*, triggered by negligence and \"lacking in *yoga*\" at each stage. The verbatim ladder of descent reads:\n\n> The *Tripuruṣa*—the *Tripuruṣa* are Lord Brahmā, Viṣṇu, and Īśvara; they are the primordial *sattva* beings. If that primordial *sattva* is negligent and lacking in *yoga*, it becomes *Pañcaṛṣi*. *Pañcaṛṣi*, if lacking in *yoga*, becomes *Saptaṛṣi*. *Saptaṛṣi*, if lacking in *yoga*, becomes *Devaṛṣi*. *Devaṛṣi*, if lacking in *yoga*, becomes *Devatā*. *Devatā*, if lacking in *yoga*, becomes *Vidyādhara*. *Vidyādhara*, if lacking in *yoga*, becomes *Gandharva*. *Gandharva*, if lacking in *yoga*, becomes *Dānava*. *Dānava*, if lacking in *yoga*, becomes *Daitya*. *Daitya*, if lacking in *yoga*, becomes *Rākṣasa*. *Rākṣasa*, if lacking in *yoga*, becomes *Bhūta Yakṣa*. *Bhūta Yakṣa*, if lacking in *yoga*, becomes *Bhūta Dĕṅĕn*. *Bhūta Dĕṅĕn*, if lacking in *yoga*, becomes *Bhūta Kāla*. *Bhūta Kāla*, if lacking in *yoga*, becomes *Bhūta Piśāca*. *Bhūta Piśāca*, if lacking in *yoga*, becomes human. [...] A human, if lacking in *yoga*, becomes a being of the *triyak* realm.[^1]\n\nImmediately following this ladder, the text classifies the five kinds of *triyak* (animal realm beings) as: *pāśu* (domestic animal, born in the village), *mṛga* (wild beast, born in the forest), *pakṣī* (bird, born everywhere that flies), *mīna* (fish, born in the water), and *pipīlikā* (a belly-mover on the ground, \"whose other names are not known\").[^1]\n\n[^1]: *San Hyan Tattvajnana*, [Chapter 1, paragraph p-357c74](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-357c74).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tripuruṣa Pañcaṛṣi",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lacking in yoga\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bhūta Dĕṅĕn",
+        "limit": 10
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pipīlikā",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pāśu\" \"mṛga\" \"pakṣī\" \"mīna\" \"pipīlikā\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-357c74"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-357c74"
+    }
+  ],
+  "duration_ms": 26148,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 65953,
+    "completion_tokens": 3333,
+    "total_tokens": 69286,
+    "cached_tokens": 36309,
+    "api_calls": 4,
+    "cost_usd": 0.009410749999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1748,
+        "completion_tokens": 840,
+        "total_tokens": 2588,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00054025
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3063,
+        "completion_tokens": 505,
+        "total_tokens": 3568,
+        "cached_tokens": 1534,
+        "cost_usd": 0.000635
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 30193,
+        "completion_tokens": 1015,
+        "total_tokens": 31208,
+        "cached_tokens": 3058,
+        "cost_usd": 0.0060874
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 30949,
+        "completion_tokens": 973,
+        "total_tokens": 31922,
+        "cached_tokens": 30188,
+        "cost_usd": 0.0021481
+      }
+    ]
+  }
+}

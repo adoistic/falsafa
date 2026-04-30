@@ -1,0 +1,286 @@
+{
+  "answer": "**In *Andreas*, the conversion of the Mermedonians (the cannibalistic inhabitants of Mermedonia) is depicted as a compelled submission to Christ's overwhelming miraculous power, rather than a voluntary insight.** Andreas, after enduring torture, prays at a pillar that unleashes a divinely commanded flood, swallowing 14 of the worst sinners and terrifying the rest.[^1] The survivors, gripped by fear and recognizing the \"true Maker\" behind the catastrophe, beg Andreas for mercy, attributing their plight to having wronged \"the foreigner in the prison.\"[^2] Andreas halts the flood, resurrects the drowned youths (who receive baptism), and oversees mass conversion: the people abandon idols, accept Christian law, and build a church, with one appointed bishop.[^3] This is not a moment of personal epiphany but a collective capitulation—the miracles (flood, resurrection, unharmed Andreas) force acknowledgment of divine supremacy, as the text frames it as God \"turn[ing] [them] to the light of heaven through my name.\"[^4]\n\n**In *Kuñjarakarṇa Dharmakathana*, Kuñjarakarṇa's conversion is a profound realization of his true nature and the illusory unity of reality, revealed through Vairocana's visionary teachings.** The elephant-eared *rākṣasa* ascetic, seeking power to escape his form, visits Vairocana, who sends him to witness hell's torments, explaining karma as self-inflicted via past actions (body, speech, mind).[^5] Returning, Vairocana reveals Kuñjarakarṇa's past as a sinful merchant Mūladhara, whose merits earned temporary heaven but whose vices demand retribution—yet insight into the \"five souls\" (*ātmā* etc.), non-dual reality, and Vairocana's identity as all deities (\"I, Vairocana, am Buddha-form and Śiva-form\") shatters defilement.[^6] This culminates in renunciation: Kuñjarakarṇa achieves *mokṣa*, understanding birth/death as karmic illusion, not force but \"finally see[ing] the truth\" of self-as-emptiness.[^7]\n\n**Thus, Mermedonian conversion is something they are *made to do* by coercive miracles demonstrating God's irresistible force; Kuñjarakarṇa's is something he *finally sees*—the non-dual nature of self, karma, and divinity—yielding voluntary liberation.** Neither is purely one or the other in isolation, but *Andreas* emphasizes external compulsion (fear of annihilation yields obedience), while *Kuñjarakarṇa* stresses internal vision (knowledge dissolves ego/rebirth).\n\n[^1]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-e5ccfa).\n[^2]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-2547b1).\n[^3]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-2f5cb6).\n[^4]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-655ebf).\n[^5]: Mpu Dusun, *Kuñjarakarṇa Dharmakathana*, [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-07e709).\n[^6]: Mpu Dusun, *Kuñjarakarṇa Dharmakathana*, [paragraphs](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-6c6127).\n[^7]: Mpu Dusun, *Kuñjarakarṇa Dharmakathana*, [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-690bb0).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedonia"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas convert"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kunjarakarna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vairocana Kunjarakarna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vairocana shows him"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Vairocana"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kunjara\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "elephant convert"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mermedonia\" faith"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mermedonia\" believe"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mermedonia\" convert"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mermedonia\" God"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedonia baptiz"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedonia miracle"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vairocana"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "convert Mermedon"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-e5ccfa"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-2547b1"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-2f5cb6"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-655ebf"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-07e709"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-6c6127"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-690bb0"
+    }
+  ],
+  "duration_ms": 49843,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 73138,
+    "completion_tokens": 4703,
+    "total_tokens": 77841,
+    "cached_tokens": 9440,
+    "api_calls": 5,
+    "cost_usd": 0.0155631,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1589,
+        "completion_tokens": 567,
+        "total_tokens": 2156,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00037195
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2592,
+        "completion_tokens": 780,
+        "total_tokens": 3372,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00067905
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 3650,
+        "completion_tokens": 1020,
+        "total_tokens": 4670,
+        "cached_tokens": 2587,
+        "cost_usd": 0.00085195
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 7311,
+        "completion_tokens": 715,
+        "total_tokens": 8026,
+        "cached_tokens": 3645,
+        "cost_usd": 0.00127295
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 57996,
+        "completion_tokens": 1621,
+        "total_tokens": 59617,
+        "cached_tokens": 150,
+        "cost_usd": 0.0123872
+      }
+    ]
+  }
+}

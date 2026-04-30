@@ -1,0 +1,176 @@
+{
+  "answer": "**The second couplet (sher) after the matla (opening couplet) in chapter 168 of *Diwan-e-Ghalib* reads as follows.**\n\n**Original (Urdu script):**  \nبے_در_و_دیوار سا اک گھر بنایا چاہیے  \nکوئی ہمسایہ نہ ہو اور پاسباں کوئی نہ ہو.[^1]\n\n**Transliteration:**  \nBe-dar-o-deewar sa ek ghar banaya chahiye  \nKoi humsaya na ho aur pasban koi na ho.[^2]\n\n**Translation:**  \nA house I'll build of neither wall nor stone,  \nNo neighbor there, no guard, and be alone.[^3]\n\nThis ghazal expresses a desire for utter solitude, and this couplet continues the theme by envisioning an open, unguarded shelter free from neighbors or watchmen.[^4]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho/original/#p-a28967).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, chapter 168, transliteration (as rendered in the corpus; note: verse lacks discrete paragraph marker in this variant).[^2]: Mirza Ghalib, *Diwan-E",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.168 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.168 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.168 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "paragraph_ids": [
+          "p-a28967"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "paragraph_ids": [
+          "p-09bdfe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "paragraph_ids": [
+          "p-a28967"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 168,
+      "paragraph_id": "p-a28967"
+    }
+  ],
+  "duration_ms": 43538,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 49997,
+    "completion_tokens": 4374,
+    "total_tokens": 54371,
+    "cached_tokens": 26896,
+    "api_calls": 4,
+    "cost_usd": 0.008152,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1557,
+        "completion_tokens": 620,
+        "total_tokens": 2177,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005989
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2570,
+        "completion_tokens": 479,
+        "total_tokens": 3049,
+        "cached_tokens": 1530,
+        "cost_usd": 0.000524
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 22656,
+        "completion_tokens": 1283,
+        "total_tokens": 23939,
+        "cached_tokens": 2565,
+        "cost_usd": 0.00478795
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 23214,
+        "completion_tokens": 1992,
+        "total_tokens": 25206,
+        "cached_tokens": 22651,
+        "cost_usd": 0.00224115
+      }
+    ]
+  }
+}

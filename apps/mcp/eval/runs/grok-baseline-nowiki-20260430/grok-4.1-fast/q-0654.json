@@ -1,0 +1,203 @@
+{
+  "answer": "**Paramaśiva (or Paramaśivatattva, \"the Supreme Śiva principle\")** is consistently presented across the Old Javanese *tattva* texts—*Gaṇapatitattva*, *Saṃ Hyaṅ Tattvajñāna*, *Vṛhaspatitattva*, and *Saṃ Hyaṅ Mahājñāna*—as the highest, transcendent *tattva* (reality/principle).[^1][^2][^3][^4] It is the formless, all-pervading summit of consciousness (*cetana tattva*), beyond manifestation (*niṣkala*), immeasurable, eternal, and sovereign over all lower principles like Sadāśiva and Śiva. Paramaśiva is the ultimate void (*paramaśūnya*), the origin and dissolution of the cosmos, the self-existent bliss untouched by qualities (*guṇa*), action, or *saṃsāra*. It is realized through yoga and *jñāna*, granting *mokṣa* (liberation) by dissolving the soul (*ātmā*) into its oneness.\n\n### Key Characteristics Across Texts\n- **Transcendence and Pervasiveness**: Immeasurable (*aprameya*), indescribable (*anirdeśya*), subtle (*sūkṣma*), all-pervading (*vyāpaka*), steadfast (*dhruva*), and sovereign (*īśvara*).[^5][^6] It fills the universe yet is beyond attributes, like ghee in milk or fire latent in wood—present yet ungraspable.[^7]\n- **Hierarchy of *Tattvas***: Tops the triad of *cetana tattvas*: Paramaśiva > Sadāśiva > Śiva (or Ātmā). Below lies *māyā* (unconscious principle), leading to *prakṛti*, *guṇas*, etc., causing bondage.[^8][^9]\n- **Location and Realization**: 12 finger-widths above the head (*brahmarandhra*), in the heart's void, or as the *ātma-liṅga*. Attained via *oṃkāra*, *ṣaḍaṅgayoga* (six-limbed yoga: *pratyāhāra*, etc.), and *samādhi*, burning *karmavāsanās*.[^10][^11]\n- **Fruits**: *Nirvāṇa*, *paramakaivalya* (supreme isolation), identity with the divine, wielding *aṣṭaiśvarya* (eight powers: *aṇimā*, etc.).[^12]\n\nThese texts synthesize Śaiva ontology, equating \"param\" with ultimate unity, where the *ātmā* returns post-dissolution.[^13] No single definition exhausts it; it is *paramārtha* (supreme truth), realized beyond words.\n\n[^1]: *Gaṇapatitattva*, Ch. 1, [para.](/works/unknown-ganapatitattva-66a136/01/translation/#p-da342b). \"The state of ultimate voidness is He, Paramaśiva.\"\n[^2]: *Saṃ Hyaṅ Tattvajñāna*, Ch. 1, [para.](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-34f807). \"Paramaśivatattva is the state of the Lord in the *niṣkala*... without movement... He is called Lord Paramaśivatattva.\"\n[^3]: *Vṛhaspatitattva*, Ch. 1, [para.](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-608afe). \"*Paramaśivatattva* is: Immeasurable... subtle, all-pervading, eternal...\"\n[^4]: *Saṃ Hyaṅ Mahājñāna*, Ch. 1, [para.](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-6afdf0). \"The final state is Paramaśiva.\"",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old Javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "tattva"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"param\" tattva",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Old Javanese\" tattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tattva",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Old Javanese\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "param",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"parama\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-ganapatitattva-66a136 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-da342b"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-34f807"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-608afe"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-6afdf0"
+    }
+  ],
+  "duration_ms": 35531,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 104453,
+    "completion_tokens": 3610,
+    "total_tokens": 108063,
+    "cached_tokens": 13374,
+    "api_calls": 4,
+    "cost_usd": 0.0206895,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 718,
+        "total_tokens": 2271,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006471
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1801,
+        "completion_tokens": 560,
+        "total_tokens": 2361,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0004104
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9901,
+        "completion_tokens": 886,
+        "total_tokens": 10787,
+        "cached_tokens": 1796,
+        "cost_usd": 0.0021538
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 91198,
+        "completion_tokens": 1446,
+        "total_tokens": 92644,
+        "cached_tokens": 9896,
+        "cost_usd": 0.0174782
+      }
+    ]
+  }
+}

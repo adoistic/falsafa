@@ -1,0 +1,311 @@
+{
+  "answer": "**Morning purification** for a Brahmin householder (*gṛhastha*) centers on rising at the Brahma-muhūrta (roughly 96 minutes before sunrise), performing evacuation, and purifying (*śauca*) with water and earth.[^1][^2]\n\nIn *Manusmṛti*, the routine begins with awakening in Brahma-muhūrta to contemplate Dharma before evacuation; one must avoid discharging urine or feces in forbidden places (e.g., water, ploughed land, facing wind/fire/sun), cover the ground first (with wood, clod, grass, etc.), and purify with water afterward, facing north by day.[^3] Morning twilight (*prātarsandhyā*) requires standing to recite the *Sāvitrī* until sunrise.[^4]\n\n*Viṣṇu Smṛti* echoes rising at Brahma-muhūrta for evacuation (facing north by day/south at night/twilights as day), with the same prohibitions on places.[^5] It adds precise counts of earth lumps for *śauca*: one on the penis, three on the anus, ten on one hand, seven on both hands, three on the feet (doubled for students, tripled for forest-dwellers, quadrupled for ascetics).[^6]\n\n*Viṣṇu* thus elaborates the mechanical steps of post-evacuation *śauca*—absent as specifics in *Manu*—tailoring purification to one's *āśrama* while confirming *Manu*'s directional and situational rules.\n\n[^1]: *Manusmṛti*, [Chapter 4](/works/unknown-manusmrti-347b76/04/translation/#p-e69207).\n\n[^2]: *Viṣṇu Smṛti*, [Chapter 60](/works/unknown-visnu-smrti-27f0d8/60/translation/#p-d04dc6).\n\n[^3]: *Manusmṛti*, [Chapter 4](/works/unknown-manusmrti-347b76/04/translation/#p-fe84fd) (evacuation rules); [/works/unknown-manusmrti-347b76/04/translation/#p-133ce4] (Brahma-muhūrta).\n\n[^4]: *Manusmṛti*, [Chapter 2](/works/unknown-manusmrti-347b76/02/translation/#p-133cc6).\n\n[^5]: *Viṣṇu Smṛti*, [Chapter 60](/works/unknown-visnu-smrti-27f0d8/60/translation/#p-ea086d).\n\n[^6]: *Viṣṇu Smṛti*, [Chapter 60](/works/unknown-visnu-smrti-27f0d8/60/translation/#p-5e91b7).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu-smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morning\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"daily ritual\" OR \"daily duty\" brahmin",
+        "limit": 20
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bath\" OR \"bathing\" OR \"purification\" OR \"purify\" brahmin OR twice-born",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rise\" OR \"awake\" OR \"wake\" OR \"dawn\" brahmin OR householder",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morning\" OR \"dawn\" OR \"sunrise\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu \"daily\" OR viṣṇu \"daily\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 22
+      },
+      "result_summary": "Read ch.22 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bathing\" OR \"bathe\" OR \"snana\" brahmin OR \"twice-born\" OR householder",
+        "limit": 30
+      },
+      "result_summary": "Found 23 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"waking\" OR \"risen\" OR \"rise\" \"morning\" OR \"dawn\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 59
+      },
+      "result_summary": "Read ch.59 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 60
+      },
+      "result_summary": "Read ch.60 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 61
+      },
+      "result_summary": "Read ch.61 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"twilight\" OR \"dawn\" OR \"sunrise\" OR \"savitri\" brahmin OR householder OR twice-born",
+        "limit": 20
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "viṣṇu \"bathe\" OR \"bathing\" OR \"purify\" daily OR morning",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 61,
+      "paragraph_id": "p-e69207"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 61,
+      "paragraph_id": "p-d04dc6"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 61,
+      "paragraph_id": "p-fe84fd"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 61,
+      "paragraph_id": "p-133ce4"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 61,
+      "paragraph_id": "p-133cc6"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 61,
+      "paragraph_id": "p-ea086d"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 61,
+      "paragraph_id": "p-5e91b7"
+    }
+  ],
+  "duration_ms": 63199,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 160299,
+    "completion_tokens": 5525,
+    "total_tokens": 165824,
+    "cached_tokens": 76430,
+    "api_calls": 6,
+    "cost_usd": 0.023357799999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1583,
+        "completion_tokens": 465,
+        "total_tokens": 2048,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00031975
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1880,
+        "completion_tokens": 469,
+        "total_tokens": 2349,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038115
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9393,
+        "completion_tokens": 849,
+        "total_tokens": 10242,
+        "cached_tokens": 1875,
+        "cost_usd": 0.00202185
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17335,
+        "completion_tokens": 662,
+        "total_tokens": 17997,
+        "cached_tokens": 9388,
+        "cost_usd": 0.0023898
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 61965,
+        "completion_tokens": 1459,
+        "total_tokens": 63424,
+        "cached_tokens": 149,
+        "cost_usd": 0.01310015
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 68143,
+        "completion_tokens": 1621,
+        "total_tokens": 69764,
+        "cached_tokens": 61960,
+        "cost_usd": 0.0051451
+      }
+    ]
+  }
+}

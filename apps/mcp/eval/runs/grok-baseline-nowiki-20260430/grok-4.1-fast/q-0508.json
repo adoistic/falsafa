@@ -1,0 +1,234 @@
+{
+  "answer": "The Falsafa corpus contains several works that substantively engage with figures of birth (e.g., birth rites such as *jātakarma*, sons \"born of\" specific wives or unions, birth order determining inheritance) and lineage (e.g., *gotra*-lineages, descent lines preserved through sons/daughters/adoptions, ancestral purity). These themes appear most prominently in the Indian *smṛti* (law code) tradition, where they intersect with inheritance, purity, adoption, and ritual obligations. Poetic or narrative works sometimes reference them metaphorically or prophetically but engage less systematically. Below is every work with clear engagement, based on direct textual evidence; incidental or purely metaphorical mentions (e.g., in Iqbal's or Ghalib's poetry) are excluded as insufficiently substantive.[^1]\n\n### Āṅgirasa Smṛti\nThis work extensively discusses birth rites (e.g., *jātakarma*, impurity from birth/*sūtaka*), sons \"born of\" specific wives (*aurasa* from the lawful wife vs. others), adoption's impact on lineage/*gotra*, and birth order among sons.[^2][^3]\n\n### Bṛhaspati Smṛti\nEngages birth order (eldest by birth/learning), sons from mixed unions/\"born of\" wives of different castes, and lineage preservation through sons.[^4]\n\n### Manusmṛti\nA core text on progeny types (e.g., twelve sons including *aurasa* \"born of one's own wife,\" *kṣetraja* \"born on the seed-field\"), lineage through sons/daughters/adoptions, and birth's role in inheritance/debts to ancestors.[^5]\n\n### Kātyāyana Smṛti\nReferences noble birth, women \"born in a noble family,\" childbirth contexts in law, and heirs \"born of\" equal/unequal castes.[^6]\n\n### Nāradasmṛti\nDiscusses daughters inheriting due to \"similarity of their lineage\" with sons, both as \"perpetuators of the father's lineage.\"[^7]\n\n### Pārāśara Smṛti\nAddresses *gotra*/lineage inquiries in ritual contexts and *sūtaka* (birth impurity) extending through the lineage.[^8]\n\n### Elene (by Cynewulf)\nProphetic figures of Christ's \"bright birth,\" Israel's \"lineage,\" and Judas's \"noble kin... birthright\" in a Christian narrative of revelation.[^9]\n\n### Traité de Législation: Vol. IV (by Charles Comte)\nCritiques hereditary privileges tied to \"line of descent,\" \"born in one line,\" and \"African ancestry,\" analogizing them to slavery.[^10]\n\n### Gaṇapatitattva\nEsoteric treatment of birth as a \"secret\" with \"beginning, middle, and end,\" linked to divine body and *nirvāṇa*.[^11]\n\nNo other works in the 37-work corpus show substantive engagement; searches for related terms (e.g., \"progeny,\" \"ancestry\") surface the same texts or yield only tangential poetic uses.[^1]",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "birth",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lineage",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "born of",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "line of descent",
+        "limit": 50
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancestry",
+        "limit": 50
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "progeny",
+        "limit": 50
+      },
+      "result_summary": "Found 25 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-10d641"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d7ede5"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-677774"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-29f6da"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-062f16"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-9447ee"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-93f4a0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f5d1f1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 22,
+        "paragraph_ids": [
+          "p-59e76f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-c5e4f2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 47635,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 65020,
+    "completion_tokens": 5292,
+    "total_tokens": 70312,
+    "cached_tokens": 22202,
+    "api_calls": 3,
+    "cost_usd": 0.0123197,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1549,
+        "completion_tokens": 548,
+        "total_tokens": 2097,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005613
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21907,
+        "completion_tokens": 3304,
+        "total_tokens": 25211,
+        "cached_tokens": 150,
+        "cost_usd": 0.0060109
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 41564,
+        "completion_tokens": 1440,
+        "total_tokens": 43004,
+        "cached_tokens": 21902,
+        "cost_usd": 0.0057475
+      }
+    ]
+  }
+}

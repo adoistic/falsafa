@@ -1,0 +1,201 @@
+{
+  "answer": "In Charles Comte's *Traité de Législation* (Vol. III, Chap. 36), **_moeurs_** is the central, operative concept from the chapter title onward—\"Esquisse des _mœurs_ de quelques peuples d’Europe\" (\"Sketch of the morals of some peoples of Europe\")—as he critiques Montesquieu's climatic determinism by surveying behaviors across nations.[^1] A representative passage appears early, questioning how European peoples' _moeurs_ have evolved without climatic shifts:\n\n> When one wishes to compare the _moeurs_ of nations placed under different latitudes... there is, in Europe, no people whose _moeurs_ have not changed in the course of centuries; the inhabitants of Germania, Helvetia, and the Gauls did not have, in the time of Caesar and Tacitus, the _moeurs_ they had in the fifteenth century, and they do not now have the _moeurs_ they had at this latter epoch. One finds today, among them, more humanity, more good faith, more regard for weak beings, and especially more respect for properties, without finding less courage.[^2]\n\nComte uses _moeurs_ here (and throughout the chapter, ~20 times) to denote entrenched patterns of social behavior: from Lappish laziness, voracity, and familial promiscuity to Russian cruelty, servility, perfidy, and sexual corruption under slavery.[^3] These are not abstract ethics (*morale*) nor superficial etiquette (*manières*), but a holistic \"way of life\"—customary habits (*habitudes*), vices/virtues in practice, and collective dispositions shaped by institutions like slavery or liberty.\n\nSticking rigidly to \"morals\" would reduce _moeurs_ to ethical failings, obscuring its anthropological breadth (e.g., Lapp \"commodity\"-like treatment of women as ingrained custom, not just immorality). \"Manners\" would trivialize it to politeness, missing atrocities like Russian massacres or princely tongue-wiping for Tatar envoys. The corpus translation varies terms (\"morals,\" \"manners\"), preserving nuance, but a single-word fixation loses Comte's full sense: _moeurs_ as dynamic, institutionally rooted *mores* linking individual habits to societal progress or barbarism.\n\n[^1]: Charles Comte, *Traité de Législation: VOL III*, [Chap. 36 (translation)](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/).\n\n[^2]: Charles Comte, *Traité de Législation: VOL III*, [p-b1ad0c](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-b1ad0c).\n\n[^3]: Charles Comte, *Traité de Législation: VOL III*, [p-68d4cb](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-68d4cb) (Lapps); [p-da3ac9](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-da3ac9) (Russians). Original French: [Chap. 36 (original)](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/original/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moeurs\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "moeurs"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manners",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "morals",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "customs",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "habits",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"public mores\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"private mores\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of charles-comte-traite-de-legislation-vol-iii-ca589a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 36,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.36 of charles-comte-traite-de-legislation-vol-iii-ca589a (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of charles-comte-traite-de-legislation-vol-ii-20331d (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 6,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.6 of charles-comte-traite-de-legislation-vol-ii-20331d (original)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 6,
+      "paragraph_id": "p-b1ad0c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 6,
+      "paragraph_id": "p-68d4cb"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 6,
+      "paragraph_id": "p-da3ac9"
+    }
+  ],
+  "duration_ms": 57232,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 55704,
+    "completion_tokens": 5560,
+    "total_tokens": 61264,
+    "cached_tokens": 18849,
+    "api_calls": 4,
+    "cost_usd": 0.011093450000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1585,
+        "completion_tokens": 560,
+        "total_tokens": 2145,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005745
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3132,
+        "completion_tokens": 1753,
+        "total_tokens": 4885,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00127355
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14048,
+        "completion_tokens": 1161,
+        "total_tokens": 15209,
+        "cached_tokens": 3127,
+        "cost_usd": 0.00292105
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 36939,
+        "completion_tokens": 2086,
+        "total_tokens": 39025,
+        "cached_tokens": 14043,
+        "cost_usd": 0.00632435
+      }
+    ]
+  }
+}

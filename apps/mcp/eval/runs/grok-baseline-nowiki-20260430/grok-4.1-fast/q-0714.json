@@ -1,0 +1,157 @@
+{
+  "answer": "**\"Tazmeen bar sher-e Aneesi Shamlu\" (Chapter 24 of *Bang-e-Dara Part 3*) is an Urdu poem by Allama Iqbal in the form of a *tazmeen*, a traditional poetic device where the poet embeds (or \"embroiders\") a specific *sher* (couplet) by another poet—in this case, Aneesi Shamlu—into their own composition, often to expand, contrast, or comment upon its theme.[^1][^2]**\n\nThe poem narrates a lover's restless wandering (\"Like the wandering morning breeze, I live my days\"), preferring love's journey to its end, until reaching the shrine of Pir Sanjar (a Sufi figure) for spiritual remedy.[^3] A voice from the grave then rebukes the speaker as a \"deserter of the ancestral way,\" invoking the legendary Qais (Majnun) whose passion for Laila has cooled, despite her enduring allure—symbolizing a betrayal of Islamic spiritual fervor.[^4] It accuses him of failing to let the seed of *La Ilaha* (\"There is no god but God\") sprout, instead building \"foreign temples\" filled with \"hymns of the church\" while raised in the House of God yet devoted to idols.[^5] The embedded *sher* by Shamlu seals the critique:  \n*You learned devotion from us, to serve another's art;*  \n*You stole a pearl from our hands, to grace another's heart.*[^6]\n\nOverall, the poem critiques cultural and spiritual alienation: a Muslim (or South Asian intellectual) abandoning indigenous Islamic/Sufi roots for Western materialism or Christianity, using romantic allegory to urge reconnection with faith.[^3][^4][^5]\n\n[^1]: Allama Iqbal, *Bang-e-Dara Part 3*, ch. 24 (\"Tazmeen bar sher-e Aneesi Shamlu\"), translation (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24/translation/#p-e54d95).  \n[^2]: The title explicitly signals this form; cf. original (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24/original/#p-3a094e).  \n[^3]: Ibid., translation (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24/translation/#p-33dc81).  \n[^4]: Ibid. (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24/translation/#p-33dc81).  \n[^5]: Ibid. (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24/translation/#p-33dc81).  \n[^6]: Ibid. (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24/translation/#p-ed2ccc); original (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24/original/#p-d71df3).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bang-e-Dara\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-3-cc61e8\",\"title\":\"Bang-E-Dara Part 3\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.24 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.24 of allama-iqbal-bang-e-dara-part-3-cc61e8 (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.24 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 24,
+      "paragraph_id": "p-e54d95"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 24,
+      "paragraph_id": "p-3a094e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 24,
+      "paragraph_id": "p-33dc81"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 24,
+      "paragraph_id": "p-ed2ccc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 24,
+      "paragraph_id": "p-d71df3"
+    }
+  ],
+  "duration_ms": 27269,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 15331,
+    "completion_tokens": 3013,
+    "total_tokens": 18344,
+    "cached_tokens": 8562,
+    "api_calls": 4,
+    "cost_usd": 0.0032884,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1567,
+        "completion_tokens": 424,
+        "total_tokens": 1991,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00029575
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2425,
+        "completion_tokens": 230,
+        "total_tokens": 2655,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005775
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata"
+        ],
+        "prompt_tokens": 4466,
+        "completion_tokens": 415,
+        "total_tokens": 4881,
+        "cached_tokens": 2420,
+        "cost_usd": 0.0007377
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 6873,
+        "completion_tokens": 1944,
+        "total_tokens": 8817,
+        "cached_tokens": 4461,
+        "cost_usd": 0.00167745
+      }
+    ]
+  }
+}

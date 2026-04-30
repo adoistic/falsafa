@@ -1,0 +1,173 @@
+{
+  "answer": "The Falsafa corpus contains discussions of pilgrimage (*tīrtha-yātrā* or *tīrtha-snāna* in Sanskrit texts) primarily in the context of Hindu ritual law (*dharmashastra*), penance (*prāyaścitta*), bathing rites, and metaphorical or poetic usage. These are explicit but typically prescriptive (rules about when/where/how) rather than narrative accounts of journeys (e.g., no pilgrim travelogues). No works provide vivid, experiential descriptions of undertaking a pilgrimage.\n\nThe works with explicit mentions are:\n\n**Āṅgirasa Smṛti**: Mentions pilgrimage (*tīrtha*) as inferior to Vedic ritual.[^1]\n\n**Parāśara Smṛti**: Extensive ritual discussions, e.g., Brāhmaṇas as \"moving pilgrimage sites,\" pilgrimages to sites like *Setubandha* (Rāma's sea-bridge, modern Rameshwaram) as atonement involving alms-begging, and penances equated to distances traveled.[^2][^3]\n\n**Vīramitrodaya**: Rules prohibiting unrepeated pilgrimages (*tīrtha-snāna*, bathing at sacred fords) during intercalary months.[^4]\n\n**Vratisaṃsanā**: Bathing rites using earth from holy pilgrimage sites (*pṛthvīsnāna* or *pārthiva-snāna*).<sup>5</sup>\n\n**Bang-e-Drā (Parts 1 & 3), Allama Iqbal**: Poetic/metaphorical uses, e.g., an ideal \"pilgrimage\" as a worldly shrine reaching the sky, or seeing the Prophet surpassing Hajj.[^6]\n\n**Dīwān-e-Zauq, Sheikh Ibrahim Zauq**: Metaphorical pilgrimage as a lover's journey/prayer.[^7]\n\n[^1]: Āṅgirasa Smṛti, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-ba15fa).\n\n[^2]: Parāśara Smṛti, Chapter 6, [paragraph](/works/unknown-parasara-smrti-2259be/06/translation/#p-3f3769).\n\n[^3]: Parāśara Smṛti, Chapter 12, [paragraph](/works/unknown-parasara-smrti-2259be/12/translation/#p-eccb1b).\n\n[^4]: Vīramitrodaya, Chapter 1, [paragraph](/works/unknown-viramitrodaya-d4b632/01/translation/#p-864e3e).\n\n[^5]: Vratisaṃsanā, Chapter 1, [paragraph](/works/unknown-vratisasana-d0fe75/01/translation/#p-4109af).\n\n[^6]: Bang-e-Drā Part 1, Chapter 36, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-948e14).\n\n[^7]: Dīwān-e-Zauq, Chapter 52, search snippet paragraph (p-73d683).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pilgrimage",
+        "limit": 50
+      },
+      "result_summary": "Found 21 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ba15fa"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-3f3769"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-eccb1b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-864e3e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4109af"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "paragraph_ids": [
+          "p-948e14"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-ba15fa"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-3f3769"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-eccb1b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-864e3e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-4109af"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-948e14"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-73d683"
+    }
+  ],
+  "duration_ms": 57346,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 10743,
+    "completion_tokens": 5557,
+    "total_tokens": 16300,
+    "cached_tokens": 5693,
+    "api_calls": 3,
+    "cost_usd": 0.00407315,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1545,
+        "completion_tokens": 230,
+        "total_tokens": 1775,
+        "cached_tokens": 1535,
+        "cost_usd": 0.00019375
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus"
+        ],
+        "prompt_tokens": 4013,
+        "completion_tokens": 2953,
+        "total_tokens": 6966,
+        "cached_tokens": 150,
+        "cost_usd": 0.0022566
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 5185,
+        "completion_tokens": 2374,
+        "total_tokens": 7559,
+        "cached_tokens": 4008,
+        "cost_usd": 0.0016228
+      }
+    ]
+  }
+}

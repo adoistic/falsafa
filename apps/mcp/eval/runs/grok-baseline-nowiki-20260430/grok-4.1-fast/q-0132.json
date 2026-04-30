@@ -1,0 +1,235 @@
+{
+  "answer": "**Mirza Ghalib expresses a closely related sentiment in Ghazal 204 (\"Yeh na thi hamari qismat ke visaal-e-yaar hota\"), where he laments that union with the beloved was never his fate, that his life was sustained only by her false promises, and that continued life would have meant only more waiting.**[^1][^2]\n\nThe key couplets are:\n\n> To be with my Beloved was not my fate;  \n> Had I lived longer, **waiting was my state**.[^1]\n\n> **I lived upon your promise**—know that was a lie;  \n> I would have died from joy, had I believed it so.[^2]\n\nNo exact phrasing like \"his life ended in the wait for promises that never came\" appears in the English translation of the *Diwan-E-Ghalib*, but this ghazal captures the idea of a life defined—and effectively \"ended\"—by futile waiting on unfulfilled promises of the beloved. Other ghazals (e.g., 93 or 20) touch on waiting or broken promises but not as directly tied to the span or end of life.[^3]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/204-yeh-na-thi-hamari-qismat-ke-visaal-e-yaar-hota/translation/#p-e43078).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/204-yeh-na-thi-hamari-qismat-ke-visaal-e-yaar-hota/translation/#p-56a7ac).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/93-jis-ja-naseem-shana-kash-e-zulf-e-yaar-hai/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life\" \"wait\" \"promises\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"waiting\" \"promise\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wait\" \"promise\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life\" \"waiting\" \"promise\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life\" \"wait\" \"promise\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"promises\" \"never\" \"came\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "promise",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "waiting",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"my life\" OR \"his life\" \"waiting\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life\" \"waiting\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-Ghalib\",\"author\":\"Mirza Ghalib\",\"author_slug\":\"mirza-ghalib\",\"era\":\"19th Century\",\"era_slug\":\"19th-century\",\"genre\":\"Literature\",\"genre_sl"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.204 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 93,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.93 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 20,
+      "paragraph_id": "p-e43078"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 20,
+      "paragraph_id": "p-56a7ac"
+    }
+  ],
+  "duration_ms": 33408,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 48207,
+    "completion_tokens": 3457,
+    "total_tokens": 51664,
+    "cached_tokens": 26457,
+    "api_calls": 5,
+    "cost_usd": 0.007401350000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1557,
+        "completion_tokens": 388,
+        "total_tokens": 1945,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004829
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2478,
+        "completion_tokens": 758,
+        "total_tokens": 3236,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00064525
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2823,
+        "completion_tokens": 809,
+        "total_tokens": 3632,
+        "cached_tokens": 2473,
+        "cost_usd": 0.00059815
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_metadata"
+        ],
+        "prompt_tokens": 19492,
+        "completion_tokens": 622,
+        "total_tokens": 20114,
+        "cached_tokens": 2818,
+        "cost_usd": 0.0037867
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 21857,
+        "completion_tokens": 880,
+        "total_tokens": 22737,
+        "cached_tokens": 19487,
+        "cost_usd": 0.00188835
+      }
+    ]
+  }
+}

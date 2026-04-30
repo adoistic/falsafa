@@ -1,0 +1,163 @@
+{
+  "answer": "**Manusmṛti 8.337** provides a striking example where the śloka metre (Anuṣṭubh: two hemistichs of 16 syllables each, with a caesura after 8 syllables per pāda) enforces a rigid hierarchy of punishments for theft (steya), mirroring varṇa order from lowest to highest. The verse's structure—paired pādas building cumulatively, end-stopped with rising penalties—visibly disciplines the normative content, transforming a list of fines into an inexorable escalation that underscores brāhmaṇa supremacy.[^1]\n\n**Transliteration:**  \naṣṭāpādyaṃ tu śūdrasya steye bhavati kilbiṣam ||  \nṣoḍaśaiva tu vaiśyasya dvātriṃśat kṣatriyasya ca || Mn_8.337 ||\n\n**Syllabic breakdown with metre's shaping of content:**\n\n- **Pāda a (first hemistich, syllables 1–16):** *aṣ-ṭā-pād-yaṃ tu śū-dras-ya ste-ye bha-va-ti ki-lbi-ṣam*  \n  Caesura (||) after 8 syllables (*aṣṭāpādyaṃ tu śūdrasya*) isolates the baseline penalty (8 *pāda* units) for the lowest varṇa (śūdra). The end-stop (*kilbiṣam*, \"fault\") seals the hemistich as a complete prohibition: theft by a śūdra incurs fixed guilt, no exceptions.\n\n- **Pāda b (second hemistich, syllables 17–32):** *ṣo-ḍa-śai-va tu vai-śya-sya dvā-triṃ-śat kṣa-tri-ya-sya ca*  \n  Caesura after 8 (*ṣoḍaśaiva tu vaiśyasya*) doubles it precisely for vaiśya (16), then pāda-end (*kṣatriyasya ca*) adds 32 for kṣatriya. The pairing amplifies: each hemistich doubles prior penalties (8→16→32), building tension toward the unspoken apex (64 for brāhmaṇa in next verse). The open *ca* (\"and\") propels forward, denying closure until hierarchy peaks.\n\nThe metre's unyielding 8-syllable caesurae segment varṇa-by-varṇa, preventing elision or equality—each pāda *must* end on a penalty, visibly subordinating lower varṇas. End-stopped lines culminate in *kilbiṣam* (guilt) and *ca* (implying more), making theft's cosmic fault inseparable from social order: deviation disrupts the verse's balance, just as it disrupts dharma.[^2] This form doesn't just convey the rule; it *enacts* varṇa gradation, where poetic discipline mirrors punitive escalation.\n\n[^1]: Manusmṛti, [8.337 first pāda](/works/unknown-manusmrti-347b76/08-chapter-8/transliteration/#p-c94cc2).\n[^2]: Manusmṛti, [8.337 second pāda](/works/unknown-manusmrti-347b76/08-chapter-8/transliteration/#p-7646ab). The pattern continues in 8.338 (*brāhmaṇasya catuḥṣaṣṭiḥ...*), doubling to 64 (or 100+), with the metre sustaining the climb.[^3]\n\n[^3]: Manusmṛti, [8.338](/works/unknown-manusmrti-347b76/08-chapter-8/transliteration/#p-b6628d).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu sloka metre"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\",\"author\":\"Manu\",\"author_slug\":\"manu\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Sanskrit\",\"language_s"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sloka\" OR \"verse\" OR \"metre\" OR \"anustubh\" OR \"śloka\" manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-c94cc2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-7646ab"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-b6628d"
+    }
+  ],
+  "duration_ms": 96843,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 78541,
+    "completion_tokens": 3912,
+    "total_tokens": 82453,
+    "cached_tokens": 7742,
+    "api_calls": 4,
+    "cost_usd": 0.0165029,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1578,
+        "completion_tokens": 437,
+        "total_tokens": 2015,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00030475
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2531,
+        "completion_tokens": 541,
+        "total_tokens": 3072,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007542
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3542,
+        "completion_tokens": 704,
+        "total_tokens": 4246,
+        "cached_tokens": 2526,
+        "cost_usd": 0.0006815
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 70890,
+        "completion_tokens": 2230,
+        "total_tokens": 73120,
+        "cached_tokens": 3537,
+        "cost_usd": 0.01476245
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "answer": "**Gham** (deep, brooding, heart-consuming sorrow): In Allama Iqbal's \"Parinde Ki Faryad,\" the bird's lament captures *gham* as a reciprocal, all-devouring grief born of captivity and loss, where heart and sorrow mutually erode each other—like acid eating flesh from within. \"Dil *gham* ko kha raha hai, *gham* dil ko kha raha hai\" (\"My heart is consuming its grief... And grief is consuming my heart\").[^1] Substituting *ranj* (a sharper relational wound) loses the slow, existential mutuality; *azaab* (punitive torment) implies external hellfire, not this internal corrosion.\n\n**Ranj** (wounded resentment, insufficiently soothed pain): Ghalib's opening sher in his ghazal contrasts the ambient \"gham khaane\" (tavern of grief) with personal *ranj*, a nagging ache that even roseate wine barely touches—highlighting *ranj*'s intimate, stubborn bitterness amid collective woe. \"Gham khaane mein boda dil-e-nakaam bahut hai / Yeh *ranj* ke kam hai mai-e-gulfaam bahut hai\" (\"This weak, failed heart's capacity for pain is more than enough; The grief that rose-red wine is on the wane is more than enough\").[^2] Swap to *gham* and it redundantly echoes the venue; *azaab* overheats it into infernal agony, unfit for wine's mild balm.\n\n**Azaab** (scorching, paradoxical torment): Ghalib revels in *azaab* as lover-inflicted hell where relief (*raahat*) bizarrely resides—fire from her scent, yet comfort in the blaze itself, evoking masochistic ecstasy. \"Milti hai khuu-e-yaar se naar iltihaab mein / Kaafir hoon gar na milti ho raahat *azaab* mein\" (\"Her very nature is a burning fire, in this despair. A heathen I, if I find no strange comfort... in this despair\").[^3] *Gham* chills it to melancholy; *ranj* dulls to mere pique—neither sustains the infernal rapture.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Parinde Ki Faryad\" [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/translation/#p-51fe7d).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, \"Gham khaane mein boda dil-e-nakaam bahut hai\" [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/50-gham-khaane-mein-boda-dil-e-nakaam-bahut-hai/translation/#p-b39b6a).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, \"Milti hai khuu-e-yaar se naar iltihaab mein\" [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/138-milti-hai-khuu-e-yaar-se-naar-iltihaab-mein/translation/#p-2eef4c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "persian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gham"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ranj"
+      },
+      "result_summary": "Found 23 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "azaab"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 138,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.138 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.50 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.34 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 58,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.58 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 138,
+        "paragraph_ids": [
+          "p-44ba26"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "paragraph_ids": [
+          "p-24047c",
+          "p-42fd32"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "p-c40b56"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "paragraph_range": {
+          "start": 0,
+          "end": 12
+        },
+        "variant": "transliteration"
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [0, 12] is invalid"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gham dil\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 138,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.138 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.50 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.34 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 58,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.58 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 58,
+      "paragraph_id": "p-51fe7d"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 58,
+      "paragraph_id": "p-b39b6a"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 58,
+      "paragraph_id": "p-2eef4c"
+    }
+  ],
+  "duration_ms": 93373,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 60683,
+    "completion_tokens": 10328,
+    "total_tokens": 71011,
+    "cached_tokens": 28187,
+    "api_calls": 5,
+    "cost_usd": 0.01307255,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1578,
+        "completion_tokens": 746,
+        "total_tokens": 2324,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00045925
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10546,
+        "completion_tokens": 1457,
+        "total_tokens": 12003,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00260835
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 14443,
+        "completion_tokens": 2348,
+        "total_tokens": 16791,
+        "cached_tokens": 10541,
+        "cost_usd": 0.00248145
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15274,
+        "completion_tokens": 2985,
+        "total_tokens": 18259,
+        "cached_tokens": 14438,
+        "cost_usd": 0.0023816
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 18842,
+        "completion_tokens": 2792,
+        "total_tokens": 21634,
+        "cached_tokens": 150,
+        "cost_usd": 0.0051419
+      }
+    ]
+  }
+}

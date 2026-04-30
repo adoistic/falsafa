@@ -1,0 +1,64 @@
+{
+  "answer": "**Katyayana Smriti is not in the Falsafa corpus.** We currently have 37 works (mostly Western philosophy from ancient to modern eras, with some classical texts), but no Smritis or works by Katyayana. Chapter 78 isn't available here—if it's a specific topic like inheritance or law (common in Dharmashastras), let me know more details and I can check for related concepts in other texts.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "katyayana",
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Katyayana Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 8389,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 3239,
+    "completion_tokens": 847,
+    "total_tokens": 4086,
+    "cached_tokens": 1679,
+    "api_calls": 2,
+    "cost_usd": 0.00081945,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1545,
+        "completion_tokens": 625,
+        "total_tokens": 2170,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00039215
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1694,
+        "completion_tokens": 222,
+        "total_tokens": 1916,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004273
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "answer": "**Yama Smṛti (unknown-yama-smrti-552f8d) does not prescribe a specific procedure for purification after contact with a corpse.** \n\nIts two chapters focus primarily on penances (*prāyaścitta*) for sins such as killing, forbidden intercourse, eating impure food, and apostasy, as well as punishments (*daṇḍa*) for various offenses.[^1][^2] While it includes a general rule for a twice-born touched by an impure substance (*amedhya*): \"should immediately bathe and touch fire; and at the two twilights, he is always pure,\"[^3] corpses (*śava*) are not explicitly mentioned. Ritual impurity from death (*aśauca* or *sūtaka*) is covered in detail in other Smṛtis like Manu Smṛti or Viṣṇu Smṛti, but not here.\n\n[^1]: Yama Smṛti, Chapter 1, [full chapter](/works/unknown-yama-smrti-552f8d/01/translation/).\n[^2]: Yama Smṛti, Chapter 2, [full chapter](/works/unknown-yama-smrti-552f8d/02/translation/).\n[^3]: Yama Smṛti 1.4A, [paragraph](/works/unknown-yama-smrti-552f8d/01/translation/#p-65c739).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "",
+        "era": "",
+        "genre": "",
+        "language": ""
+      },
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d"
+      },
+      "result_summary": "Listed 2 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"purification\" corpse OR dead OR \"contact with\" OR death Yama",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"corpse\" OR \"dead body\" OR \"touch\" OR \"contact\" purification OR \"after death\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yama-smrti-552f8d (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-yama-smrti-552f8d (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yama Smriti purification corpse OR dead OR śava OR śrāddha OR aśauca OR impurity",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-65c739"
+    }
+  ],
+  "duration_ms": 22302,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 37023,
+    "completion_tokens": 1915,
+    "total_tokens": 38938,
+    "cached_tokens": 17042,
+    "api_calls": 4,
+    "cost_usd": 0.0058058,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 135,
+        "total_tokens": 1689,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0001488
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 4909,
+        "completion_tokens": 292,
+        "total_tokens": 5201,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011053
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10463,
+        "completion_tokens": 390,
+        "total_tokens": 10853,
+        "cached_tokens": 4904,
+        "cost_usd": 0.001552
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20097,
+        "completion_tokens": 1098,
+        "total_tokens": 21195,
+        "cached_tokens": 10458,
+        "cost_usd": 0.0029997
+      }
+    ]
+  }
+}

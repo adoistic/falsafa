@@ -1,0 +1,139 @@
+{
+  "answer": "**There is no line in \"Tarana-e-Milli\" (Chapter 23 of *Bang-E-Dara Part 3*) where Iqbal explicitly calls the Muslim community a \"single body\" or uses equivalent phrasing like \"one body\" or similar.**[^1]\n\nThe poem emphasizes the unity and vast geographical-spiritual expanse of the Muslim ummah (\"From Chin to Arab lands, our story flows, / The whole wide world's the home a Muslim knows\"), portraying Muslims as a singular people bound by tauheed (faith in One God), shared history, and destiny under the Prophet's guidance (\"The Prince of Hijaz is our caravan's own guide\").[^2] It evokes a collective identity like a \"caravan\" marching together (\"Our caravan now travels on its path again\"), but does not describe it as a \"single body.\"[^3]\n\nThis motif of bodily unity is a common Islamic trope (e.g., from hadith), but it does not appear here in the translation, transliteration, or English-searchable text. Searches across the Iqbal works for phrases like \"single body,\" \"one body,\" \"Muslim body,\" and related terms (ummah, community) yielded no matches in this chapter.[^4]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, Ch. 23 \"Tarana-e-Milli\" (translation), [chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/).\n[^2]: Ibid., [p-8a4681](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/#p-8a4681).\n[^3]: Ibid., [p-852c70](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/#p-852c70).\n[^4]: Corpus-wide searches performed; e.g., \"ummah\" appears elsewhere (Ch. 2 \"Bilad-e-Islamiya\"), but not here: Allama Iqbal, *Bang-E-Dara Part 3*, Ch. 2 \"Bilad-e-Islamiya\" (translation), [p-e0bfb3](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/#p-e0bfb3).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"single body\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"one body\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Muslim\" body",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Tarana-e-Milli\"",
+        "limit": 5
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ummah OR \"muslim community\" OR \"one nation\" OR \"united body\" OR \"single ummah\" iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-8a4681"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-852c70"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-e0bfb3"
+    }
+  ],
+  "duration_ms": 33582,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 10662,
+    "completion_tokens": 2632,
+    "total_tokens": 13294,
+    "cached_tokens": 1830,
+    "api_calls": 3,
+    "cost_usd": 0.0031739000000000003,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 787,
+        "total_tokens": 2342,
+        "cached_tokens": 1530,
+        "cost_usd": 0.000475
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2347,
+        "completion_tokens": 489,
+        "total_tokens": 2836,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006914
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6760,
+        "completion_tokens": 1356,
+        "total_tokens": 8116,
+        "cached_tokens": 150,
+        "cost_usd": 0.0020075
+      }
+    ]
+  }
+}

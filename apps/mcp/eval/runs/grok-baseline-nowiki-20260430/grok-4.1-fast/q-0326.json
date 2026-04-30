@@ -1,0 +1,364 @@
+{
+  "answer": "**No single offence with a prescribed expiation is treated in both chapters as available in the corpus.**\n\nManu, Chapter 11 covers introductory rules on charitable gifts to Vedic scholars and snātakas (e.g., those establishing families, travelers, students, or the sick), emphasizing food, jewels, and wealth according to ability and learning.[^1] It does not detail prayāścitta (expiations) for offences in the provided text, which ends at verse 6 (only 206 words across 6 paragraphs).\n\nYājñavalkya Smṛti, Chapter 3 (prāyaścitta-adhyāya) begins with ritual impurity (āśauca-prakaraṇa), including cremation rites, water offerings, impurity periods by varṇa (e.g., 12 days for Kṣatriya, 15 for Vaiśya, 30 for Śūdra), exceptions (e.g., no impurity for kings or battle deaths), and general purifiers like time, fire, and austerity.[^2] Later sections address duties in distress, hermit/ascetic life, and philosophy, but no matching offence appears in Manu's text.\n\nSearches for common Smṛti offences (e.g., surā-pāna/liquor-drinking, brahmahatyā/Brahmin-killing, guru-talpa/defiling guru's bed) yielded no results in these chapters.[^3] Other works like Bṛhaspati Smṛti or Aṅgirasa Smṛti cover such topics,[^4] but Manu Ch. 11 here lacks prayāścitta content for direct contrast.\n\n[^1]: *Manusmṛti*, Ch. 11, [full chapter](/works/unknown-manusmrti-347b76/11/translation/).\n\n[^2]: *Yājñavalkya Smṛti*, Ch. 3, [full chapter](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/), esp. [p-40328e](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-40328e) (impurity start) to [p-e3947d](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-e3947d) (varṇa periods).\n\n[^3]: Corpus search results for \"sura\", \"liquor\", \"kills a brahmin\", etc., in English bodies.\n\n[^4]: E.g., Aṅgirasa Smṛti Ch. 1 [p-cafcb4](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-cafcb4) (five great sinners incl. liquor-drinker).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"drinking liquor\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"drinks sura\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liquor\" prayascitta",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"killing a brahmin\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sura",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liquor",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"drinks wine\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slays a brahmin\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kills a brahmin\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmanicide",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"steals gold\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"drinks wine\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"defiles the bed\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"guru's bed\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sura OR wine OR liquor OR \"surā\" OR \"sura\" \"penance\" OR \"expiation\" OR \"prayascitta\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cāndrāyaṇa\" OR \"candrayana\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11,
+        "limit": 10
+      },
+      "result_summary": "Found 10 related"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "limit": 10
+      },
+      "result_summary": "Found 10 related"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"twelve days\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"for a kṣatriya\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity\" OR \"āśauca\" OR \"asauca\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"penance\" OR \"prāyaścitta\" OR \"prayaschitta\" OR \"cāndrāyaṇa\" OR \"kṛcchra\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\",\"author\":\"Manu\",\"author_slug\":\"manu\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Sanskrit\",\"language_s"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-40328e"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-e3947d"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-cafcb4"
+    }
+  ],
+  "duration_ms": 74600,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 106006,
+    "completion_tokens": 8150,
+    "total_tokens": 114156,
+    "cached_tokens": 79115,
+    "api_calls": 7,
+    "cost_usd": 0.01340895,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1574,
+        "completion_tokens": 377,
+        "total_tokens": 1951,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0002738
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1838,
+        "completion_tokens": 273,
+        "total_tokens": 2111,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00027475
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 14168,
+        "completion_tokens": 1247,
+        "total_tokens": 15415,
+        "cached_tokens": 1833,
+        "cost_usd": 0.00318215
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14434,
+        "completion_tokens": 1288,
+        "total_tokens": 15722,
+        "cached_tokens": 14163,
+        "cost_usd": 0.00140635
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 20542,
+        "completion_tokens": 1654,
+        "total_tokens": 22196,
+        "cached_tokens": 14429,
+        "cost_usd": 0.00277105
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "find_related",
+          "find_related"
+        ],
+        "prompt_tokens": 25099,
+        "completion_tokens": 1723,
+        "total_tokens": 26822,
+        "cached_tokens": 20537,
+        "cost_usd": 0.00280075
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_metadata"
+        ],
+        "prompt_tokens": 28351,
+        "completion_tokens": 1588,
+        "total_tokens": 29939,
+        "cached_tokens": 25094,
+        "cost_usd": 0.0027001
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "answer": "**In the *Bṛhaspati Smṛti*, \"lekhya\" refers to a written document serving as legal proof (*pramāṇa*) in disputes, particularly those involving wealth (e.g., debts, sales, gifts, partitions, or royal charters).**[^1] It must include details like the custom of the country, date (year, month, day), parties involved (with signatures of debtor, witnesses, and scribe), amount, interest, and transaction type.[^2] Lekhya is one of three human (*mānavam*) proofs—alongside witnesses (*sakṣin*) and possession (*bhoga* or *inference*)—and takes precedence over witnesses or ordeals (*divyam pramāṇam*) when valid, as \"when a document exists... there should be neither an ordeal nor witnesses.\"[^3] Invalid lekhya (e.g., forged, unsigned by reputable witnesses, or from coerced parties) can be challenged via scribe/witness testimony or ordeals.[^4]\n\n**Lekhya differs from sakṣya (witness testimony) as fixed, enduring written evidence versus oral, fallible human recollection.** Sakṣya involves sworn statements from witnesses (ideally 3–7 learned Brahmins), examined for faults like bias or contradiction, and is secondary to lekhya in documentary cases (e.g., debt denial requires proving the debtor's signature via document witnesses).[^5] Human proofs prioritize lekhya > sakṣya > possession; divine proofs (ordeals) apply only if all fail.[^6] Brhaspati emphasizes lekhya's reliability for preventing disputes over time, as \"a document that has passed thirty years... does not attain validity\" without reminders, unlike perishable witness memory.[^7]\n\n[^1]: *Bṛhaspati Smṛti*, Ch. 1, §1.1: \"creditor and debtor... surety, document (*lekhya*), and witnesses.\" [`/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-cb5a36`]\n[^2]: Ibid., §1.6.3: \"A document (*lekhya*) is called that which contains the custom... signature of the debtor, witnesses, and scribe.\" [`/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-dc2d5a`]\n[^3]: Ibid., §1.4.7–12: \"Witnesses, documents (*lekhya*), and possession... human proof\"; \"Divine proof is not prescribed when witnesses are available; and when a document exists... neither ordeal nor witnesses.\" [`/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-510297`; `/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-44a57a`]\n[^4]: Ibid., §1.6.30–47: Forged/tainted documents rejected; e.g., \"debtor denies his own signature... proved by... witnesses on the document.\" [`/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-a9b952`]\n[^5]: Ibid., §1.5: Witnesses (*sakṣin*) detailed (12 kinds, faults, impeachment); §1.6.37: Signature verified by sakṣya. [`/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-4d88a9`; `/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-696126`]\n[^6]: Ibid., §1.4.6–20: Hierarchy of proofs. [`/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-794a7a`]\n[^7]: Ibid., §1.6.45–47: Documents endure >30 years with reminders; witnesses perish. [`/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-deab5c`]",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lekhya Brhaspati",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sakshya Brhaspati",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lekhya\" \"sakshya\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "brhaspati"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lekhya",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sakshya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "writing evidence",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "document evidence Brhaspati"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brhaspati\" lekhya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bṛhaspati\" sakshya"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-cb5a36"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-dc2d5a"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-510297"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-44a57a"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-a9b952"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-4d88a9"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-696126"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-794a7a"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-deab5c"
+    }
+  ],
+  "duration_ms": 38198,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 94738,
+    "completion_tokens": 3434,
+    "total_tokens": 98172,
+    "cached_tokens": 4929,
+    "api_calls": 4,
+    "cost_usd": 0.019925250000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1564,
+        "completion_tokens": 528,
+        "total_tokens": 2092,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005543
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 1961,
+        "completion_tokens": 461,
+        "total_tokens": 2422,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006002
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2678,
+        "completion_tokens": 396,
+        "total_tokens": 3074,
+        "cached_tokens": 1956,
+        "cost_usd": 0.0004402
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 88535,
+        "completion_tokens": 2049,
+        "total_tokens": 90584,
+        "cached_tokens": 2673,
+        "cost_usd": 0.01833055
+      }
+    ]
+  }
+}

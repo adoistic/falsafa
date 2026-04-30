@@ -1,0 +1,110 @@
+{
+  "answer": "**Chapter 75 of *Diwan-E-Ghalib* is titled \"Hujoom-e-naala-e-hairat aajiz-e-arz-e-yak-afghaan hai\".**[^1]\n\nThis is a ghazal (a form of classical Urdu poetry), as indicated by the work's structure of individual poems organized as chapters.[^1]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [chapter 75](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/75-hujoom-e-naala-e-hairat-aajiz-e-arz-e-yak-afghaan-/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Diwan-e-Ghalib"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 75
+      },
+      "result_summary": "Read ch.75 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 24296,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 62771,
+    "completion_tokens": 2421,
+    "total_tokens": 65192,
+    "cached_tokens": 35771,
+    "api_calls": 4,
+    "cost_usd": 0.00839905,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1549,
+        "completion_tokens": 699,
+        "total_tokens": 2248,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006368
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7820,
+        "completion_tokens": 338,
+        "total_tokens": 8158,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00150365
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters"
+        ],
+        "prompt_tokens": 26282,
+        "completion_tokens": 591,
+        "total_tokens": 26873,
+        "cached_tokens": 7815,
+        "cost_usd": 0.00437965
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 27120,
+        "completion_tokens": 793,
+        "total_tokens": 27913,
+        "cached_tokens": 26277,
+        "cost_usd": 0.00187895
+      }
+    ]
+  }
+}

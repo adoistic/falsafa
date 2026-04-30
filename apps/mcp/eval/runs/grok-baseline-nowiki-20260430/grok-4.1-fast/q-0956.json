@@ -1,0 +1,266 @@
+{
+  "answer": "**Iqbal's \"Falsafa-e-Gham\" (Bang-E-Dara Part 3, Ch. 7)** presents sorrow (*gham*) not as a curse but as life's essential polish, awakening the soul and revealing its secrets. The speaker directly addresses grief as a transformative force: \"Through trials of Sorrow, human nature finds its grace, / The dust of anguish is a polish for the heart's own face.[^1] ... Sorrow is not sorrow, but a silent song of soul, / Embracing all the music that makes existence whole.\"\n\n**The Old English \"Resignation\" (Old English Elegies, Ch. 9)** is a personal lament of exile and hardship, where the speaker grieves lost homeland and friends but surrenders to divine will: \"my reward for love was always sorrow, as I have now lived it. / Yet it is best, when a man cannot change his Fate, / that he then endure it well.\"[^2]\n\n**Manusmṛti Book 12** frames suffering (*duḥkha*, torments) impersonally as the fruit of karma across rebirths—hells, vile wombs, diseases, separations—without a first-person speaker directly addressing personal grief. A representative verse on karmic woe: \"births in vile wombs, which are mostly full of suffering, always; and afflictions from cold and heat, and various kinds of fears.\"[^3] No stanza shows a speaker confronting \"their own grief,\" as the text is didactic, not lyrical.\n\n**Ranking by reconciliation** (acceptance/embrace of grief, from most to least):  \n1. **Iqbal**: Fully reconciles by philosophizing grief as soul-enriching music—active celebration.  \n2. **Resignation**: Reconciles via stoic endurance and faith in God/Fate—passive surrender.  \n3. **Manusmṛti**: Least personal; suffering is karmic inevitability to expiate, not addressed introspectively.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, [\"Falsafa-e-Gham\"](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-141d8d).\n\n[^2]: *Old English Elegies*, [\"Resignation\"](https://falsafa.corpus/works/unknown-old-english-elegies-d5fe9e/09-resignation/translation/#p-04f5b1).\n\n[^3]: *Manusmṛti*, [Chapter 12](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/#p-76b0e8) (representative of karmic sufferings in Mn_12.77); no personal first-person grief-stanza exists.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "old english"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Falsafa-e-Gham"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Resignation\" grief"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu book 12 grief karma"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Resignation"
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old english\" resignation OR grief OR sorrow"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "grief OR sorrow OR pain OR suffering karma",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-141d8d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-04f5b1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_range": {
+          "start": 80,
+          "end": 85
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"grief\" OR \"sorrow\" OR \"suffering\" OR \"pain\" OR \"misery\" OR \"anguish\" OR \"woe\"",
+        "limit": 5
+      },
+      "result_summary": "Found 5 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-141d8d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-04f5b1"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-76b0e8"
+    }
+  ],
+  "duration_ms": 51354,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 127446,
+    "completion_tokens": 5036,
+    "total_tokens": 132482,
+    "cached_tokens": 69781,
+    "api_calls": 5,
+    "cost_usd": 0.017540049999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1596,
+        "completion_tokens": 721,
+        "total_tokens": 2317,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006572
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2879,
+        "completion_tokens": 885,
+        "total_tokens": 3764,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00078895
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "list_chapters",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10524,
+        "completion_tokens": 577,
+        "total_tokens": 11101,
+        "cached_tokens": 2874,
+        "cost_usd": 0.0019622
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 54714,
+        "completion_tokens": 1292,
+        "total_tokens": 56006,
+        "cached_tokens": 10519,
+        "cost_usd": 0.01001095
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 57733,
+        "completion_tokens": 1561,
+        "total_tokens": 59294,
+        "cached_tokens": 54709,
+        "cost_usd": 0.00412075
+      }
+    ]
+  }
+}

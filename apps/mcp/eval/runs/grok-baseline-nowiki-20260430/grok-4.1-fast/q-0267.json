@@ -1,0 +1,269 @@
+{
+  "answer": "**Manu (Manusmṛti, Chapter 6)**\n\nManu provides the most systematic treatment of the four *āśramas* (stages of life): the celibate student (*brahmacārin*), householder (*gṛhastha*), forest-dweller (*vānaprastha*), and ascetic (*bhikṣu* or *saṃnyāsin*).[^1] These originate from the householder, who supports the others, and are to be followed sequentially by twice-born men (*dvija*) for final liberation.[^2] \n\nThe *brahmacārin* stage precedes (detailed in Ch. 2), but Ch. 6 focuses on transitions from *gṛhastha*:\n\n- **Entering vānaprastha**: A *snātaka* (graduate) dwells as householder, then sees \"wrinkles and gray hair... and the child of his own child,\" abandons possessions, entrusts wife to sons (or takes her), and resides in the forest with controlled senses, performing sacrifices on wild foods.[^3]\n- **Vānaprastha rules**: Live on roots/fruits, perform fires/rites, gather alms sparingly, practice austerities (e.g., five-fires in summer), bathe thrice daily.[^4]\n- **Entering asceticism**: After forest stage (third quarter of life), perform *prājāpatya* sacrifice; abandon fires/home, wander alone, beg alms, meditate on Self, practice breath control/non-violence.[^5]\n- **Summary**: \"The celibate student, the householder, the forest-dweller, and the ascetic—these four separate *āśramas* originate from the householder,\" best when sequential per Veda/Smṛti.[^6]\n\n**Yājñavalkya (Yājñavalkya Smṛti)**\n\nYājñavalkya covers *āśramas* across chapters, sequentially but more concisely: *brahmacārin* (Ch. 1), *gṛhastha* (Ch. 1), vānaprastha/hermit (Ch. 3.45–55), ascetic/*yati* (Ch. 3.56ff). No explicit \"four *āśramas*\" list, but same structure implied.[^7]\n\n- **Entering vānaprastha**: \"Having entrusted his wife to his sons, or being accompanied by her, he should go to the forest\"; wear beard/matted hair, live on unploughed growths, perform rites, beg from forest-dwellers' homes (eight mouthfuls), practice austerities (e.g., *cāndrāyaṇa*).[ ^8]\n- **Vānaprastha rules**: Self-controlled, thrice-daily baths, no gifts, yoga/movement; eat after day/month/fortnight; stand amid fires (summer), bare ground (rains), wet clothes (winter).[^9]\n- **Entering asceticism**: From forest/house, after *prājāpatya* sacrifice (with all Vedas/fee), studying Vedas, begetting sons, sacrifices/gifts/fires; place fires in self, wander with staff/pot, beg moderately (earth/bamboo/gourd vessels), meditate on Self, sense-control.[^10]\n- **Emphasis**: *Āśrama* not cause of *dharma*, but practice; truth/non-violence/etc. universal.[^11]\n\n**Comparison of Boundaries**\n\nBoundaries align closely—no shift by Yājñavalkya. Both trigger vānaprastha at old age (*Manu*: wrinkles/gray hair/grandchild; *Yājñavalkya*: entrust wife to sons). Asceticism follows forest/householder after debts (*veda*-study, sons, *yajña*, fires/*prājāpatya*). Sequential for twice-born; householder foundational. Minor variations: *Yājñavalkya* terser on student/householder, integrates philosophy (*yoga*/Self), but transitions identical.[^12]\n\n[^1]: Manusmṛti, Chapter 6, [translation](/works/unknown-manusmrti-347b76/06/translation/).\n\n[^2]: *Ibid.*, [p-59814f](/works/unknown-manusmrti-347b76/06/translation/#p-59814f).\n\n[^3]: *Ibid.*, [p-89d810](/works/unknown-manusmrti-347b76/06/translation/#p-89d810) (Mn_6.1–3).\n\n[^4]: *Ibid.*, [p-89d810](/works/unknown-manusmrti-347b76/06/translation/#p-89d810) (Mn_6.4–32).\n\n[^5]: *Ibid.*, [p-89d810](/works/unknown-manusmrti-347b76/06/translation/#p-89d810) (Mn_6.33–85).\n\n[^6]: *Ibid.*, [p-59814f](/works/unknown-manusmrti-347b76/06/translation/#p-59814f) (Mn_6.87).\n\n[^7]: Yājñavalkya Smṛti, Chapter 1 [translation](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/) (brahmacāri/gṛhastha); Chapter 3 [translation](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/) (vānaprastha/yati).\n\n[^8]: *Ibid.*, Ch. 3, [p-03f060](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-03f060) (Yj_3.45–47).\n\n[^9]: *Ibid.*, [p-03f060](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-03f060) (Yj_3.48–55).\n\n[^10]: *Ibid.*, [p-eaf75a](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-eaf75a) (Yj_3.56–62).\n\n[^11]: *Ibid.*, [p-f263eb](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-f263eb) (Yj_3.65).\n\n[^12]: Cross-ref: *Manusmṛti* 6.87; *Yājñavalkya Smṛti* 3.45–57.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "four āśramas"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "āśramas"
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "asramas"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "four stages"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmacārin"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "householder"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "student"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "forest-dweller"
+      },
+      "result_summary": "Found 24 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "renunciant"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hermit"
+      },
+      "result_summary": "Found 29 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "āśrama"
+      },
+      "result_summary": "Found 21 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"four āśramas\" OR \"celibate student\" OR \"householder\" OR \"forest-dweller\" OR \"ascetic\" work_slug:unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"slug\":\"unknown-yajnavalkya-smrti-cb88d6\",\"title\":\"Yājñavalkya Smṛti\",\"author\":\"Yājñavalkya\",\"author_slug\":\"yajnavalkya\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-59814f"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-89d810"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-03f060"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-eaf75a"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-f263eb"
+    }
+  ],
+  "duration_ms": 55826,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 106343,
+    "completion_tokens": 5026,
+    "total_tokens": 111369,
+    "cached_tokens": 33783,
+    "api_calls": 5,
+    "cost_usd": 0.01871415,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1577,
+        "completion_tokens": 346,
+        "total_tokens": 1923,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004659
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1895,
+        "completion_tokens": 616,
+        "total_tokens": 2511,
+        "cached_tokens": 149,
+        "cost_usd": 0.00066465
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4981,
+        "completion_tokens": 949,
+        "total_tokens": 5930,
+        "cached_tokens": 1890,
+        "cost_usd": 0.0011872
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 31449,
+        "completion_tokens": 860,
+        "total_tokens": 32309,
+        "cached_tokens": 150,
+        "cost_usd": 0.0066973
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "get_metadata"
+        ],
+        "prompt_tokens": 66441,
+        "completion_tokens": 2255,
+        "total_tokens": 68696,
+        "cached_tokens": 31444,
+        "cost_usd": 0.0096991
+      }
+    ]
+  }
+}

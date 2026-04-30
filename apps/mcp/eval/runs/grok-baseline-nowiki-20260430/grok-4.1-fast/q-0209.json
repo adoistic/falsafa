@@ -1,0 +1,305 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation* does not feature a dedicated definitional chapter on liberty comparable to Charles Dunoyer's in *Nouveau traité d'économie*, Vol. I, Ch. 1 (\"What the author means by the word liberty\"), where Dunoyer explicitly equates liberty with \"this *power* that man acquires to use his forces more easily *as he frees himself* from the obstacles that originally hindered their exercise\" — obstacles including internal ones (ignorance, passion) and external ones (injustice), acquired via industrial skill, moral habits, and overall civilization.[^1][^2] Dunoyer measures liberty by societal progress toward an \"industrial regime,\" insisting it emerges from *all* human developments (industry first among equals), not mainly politics, and rejects innate or purely political origins.[^3]**\n\n**Comte's sharpest divergence appears in Vol. I, Ch. 5 (\"Of the laws to which men are subject by their own nature\"), where he frames the \"most natural state for man\" as \"that in which he prospers best, that in which all his moral, intellectual, and physical faculties develop with the most *freedom*,\" tying liberty directly to conformity with empirically derived \"natural laws\" (cause-effect relations ensuring prosperity).[^4] This implies liberty as an inherent condition of optimal natural development under right conditions/laws, rather than primarily an *acquired power* born of industrial/moral progress from savagery — a process Dunoyer historicizes across societal stages (savage, nomadic, slave-based, etc.).[^5] Comte critiques innate \"natural right\" dogmas (à la jurisconsults or Montesquieu) much like Dunoyer/Bentham, favoring analysis of effects,[^6] but centers legislation's role in enabling free faculty growth, downplaying Dunoyer's industrial primacy.[^7]**\n\n**Other mentions (e.g., Vol. I, Ch. 2 on analytical method yielding \"freedom of industry\"; Vol. IV, Ch. 12 on slavery curtailing masters' liberty) illustrate liberty contextually via laws' effects, reinforcing this legislative-natural focus over Dunoyer's societal-industry emphasis.[^8] The corpus lacks direct confrontation, but Ch. 5 marks Comte's most systematic proximity to (and divergence from) Dunoyer's power-based account.**\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie*, Vol. I, Ch. 1, [p-fc8999](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-fc8999).\n\n[^2]: Ibid., [p-ed4810](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-ed4810), [p-51f10e](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-51f10e).\n\n[^3]: Ibid., Introduction, [p-67acca](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-67acca), [p-a32ab7](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-a32ab7); Ch. 1, [p-132c59](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-132c59) to [p-7e6539](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-7e6539).\n\n[^4]: Charles Comte, *Traité de Législation*, Vol. I, Ch. 5, [p-bb3d6a](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/#p-bb3d6a).\n\n[^5]: Dunoyer, *Nouveau traité...*, Vol. I, Introduction [p-ee32a7](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-ee32a7) ff.; cf. Comte's progress-as-natural in Vol. I, Ch. 5, [p-fb6aeb](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/#p-fb6aeb).\n\n[^6]: Comte, *Traité de Législation*, Vol. I, Ch. 5, [p-252ef8](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/#p-252ef8) ff. (Bentham quote/critique).\n\n[^7]: E.g., Comte prioritizes laws enabling prosperity/free development: Vol. I, Ch. 5, [p-13b0d3](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/#p-13b0d3).\n\n[^8]: Vol. I, Ch. 2, [p-6acd75](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/02-de-la-methode-analytique-appliquee-a-l-etude-de-la/translation/#p-6acd75); Vol. IV, Ch. 12, chapter-level [citation_url](/works/charles-comte-traite-de-legislation-vol-iv-bca040/12-de-l-influence-de-l-esclavage-sur-la-liberte-des-i/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberty",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "Listed 7 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "freedom",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberté\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberté",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "work_slug_b": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "topic": "liberty"
+      },
+      "result_summary": "{\"topic\":\"liberty\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"charles-comte-traite-de-legislation-vol-i-7e62a2\","
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.0 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty\" OR \"liberté\" OR \"free\" OR \"freedom\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1,
+        "limit": 10
+      },
+      "result_summary": "Found 10 related"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-fc8999"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-ed4810"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-51f10e"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-67acca"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-a32ab7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-132c59"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-7e6539"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-bb3d6a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-ee32a7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-fb6aeb"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-252ef8"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-13b0d3"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 5,
+      "paragraph_id": "p-6acd75"
+    }
+  ],
+  "duration_ms": 79874,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 96523,
+    "completion_tokens": 7597,
+    "total_tokens": 104120,
+    "cached_tokens": 40162,
+    "api_calls": 5,
+    "cost_usd": 0.0170788,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1573,
+        "completion_tokens": 394,
+        "total_tokens": 1967,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004891
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2699,
+        "completion_tokens": 1159,
+        "total_tokens": 3858,
+        "cached_tokens": 149,
+        "cost_usd": 0.00109695
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 11891,
+        "completion_tokens": 1669,
+        "total_tokens": 13560,
+        "cached_tokens": 2694,
+        "cost_usd": 0.0028086
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "compare_works",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 25288,
+        "completion_tokens": 1004,
+        "total_tokens": 26292,
+        "cached_tokens": 11886,
+        "cost_usd": 0.0037767
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "find_related"
+        ],
+        "prompt_tokens": 55072,
+        "completion_tokens": 3371,
+        "total_tokens": 58443,
+        "cached_tokens": 25283,
+        "cost_usd": 0.00890745
+      }
+    ]
+  }
+}

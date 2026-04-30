@@ -1,0 +1,359 @@
+{
+  "answer": "**The ghazal is chapter 42 (\"Neemcha yaar ne jis waqt baghal mein maara\") of *Diwan-E-Zauq* by Sheikh Ibrahim Zauq.**[^1]\n\nThis ghazal's closing *maqta* (signature couplet), where the poet Zauq humbly concedes he could not attain Mir's distinctive style—while noting how his peers fiercely critiqued (\"struck hard at\") his own attempt at the same *radif* (\"maara\")—reads:\n\n> I could not match the grace of Mir, that master of the art;  \n> Though Zauq, in this ghazal, with force was struck down from the start.[^2]\n\nIts couplet boasting of the sigh-arrow that pierced Saturn's eye (chashm-e-zuhal, the \"evil eye\" of fate's revolving sky) reads:\n\n> The spiteful sky's eye never burst, for all my cries,  \n> But my sigh's arrow struck down Saturn in the skies.[^3]\n\nThe poem also includes the couplet on Qais (Majnun) and Farhad: \"From the hand of great Love, not Qais nor Farhad could flee; One in the desert, one on the mountain, was struck down for all to see.\" (This recurs thematically in the repeated motif of being \"struck down\" (*maara*) by love or rivals.)\n\n[^1]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/42-neemcha-yaar-ne-jis-waqt-baghal-mein-maara/translation/).\n\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/42-neemcha-yaar-ne-jis-waqt-baghal-mein-maara/translation/#p-0fdb39).\n\n[^3]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/42-neemcha-yaar-ne-jis-waqt-baghal-mein-maara/translation/#p-cc12ee).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Qais Farhad",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"struck Saturn\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"attained Mir\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"never attained Mir\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mir manner",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"never\" Mir",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Saturn eye",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Qais Farhad",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sigh\" arrow Saturn",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghazal Mir",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "persian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mir",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"struck down\" desert mountain",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "meer",
+        "limit": 20
+      },
+      "result_summary": "Found 16 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mir",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "majnun",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "farhad",
+        "limit": 20
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "zuhal",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saturn",
+        "limit": 20
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sigh\" arrow",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 42,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.42 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 42,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.42 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 42,
+        "paragraph_ids": [
+          "p-cc12ee"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 42,
+        "paragraph_ids": [
+          "p-0fdb39"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 42,
+        "paragraph_ids": [
+          "p-1adb5f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 42,
+      "paragraph_id": "p-0fdb39"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 42,
+      "paragraph_id": "p-cc12ee"
+    }
+  ],
+  "duration_ms": 65946,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 70805,
+    "completion_tokens": 6963,
+    "total_tokens": 77768,
+    "cached_tokens": 44169,
+    "api_calls": 7,
+    "cost_usd": 0.01101715,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1673,
+        "completion_tokens": 596,
+        "total_tokens": 2269,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00040325
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1926,
+        "completion_tokens": 644,
+        "total_tokens": 2570,
+        "cached_tokens": 1538,
+        "cost_usd": 0.0004765
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2299,
+        "completion_tokens": 566,
+        "total_tokens": 2865,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007203
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5638,
+        "completion_tokens": 2451,
+        "total_tokens": 8089,
+        "cached_tokens": 2294,
+        "cost_usd": 0.002009
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18325,
+        "completion_tokens": 586,
+        "total_tokens": 18911,
+        "cached_tokens": 150,
+        "cost_usd": 0.0039355
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 20193,
+        "completion_tokens": 852,
+        "total_tokens": 21045,
+        "cached_tokens": 18320,
+        "cost_usd": 0.0017166
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 20751,
+        "completion_tokens": 1268,
+        "total_tokens": 22019,
+        "cached_tokens": 20188,
+        "cost_usd": 0.001756
+      }
+    ]
+  }
+}

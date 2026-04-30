@@ -1,0 +1,120 @@
+{
+  "answer": "**Manusmṛti 12.115** (from the *Laws of Manu*) states:\n\n> Whatever *Dharma* fools who are overcome by darkness (*tamas*), who do not know the truth, may declare, that sin, having become a hundredfold, pursues its declarers.[^1]\n\nThis verse concludes the discussion on how to determine *Dharma* in unclear cases: it emphasizes that the opinions of ignorant or deluded fools carry severe karmic consequences, contrasting with the authority of learned Brahmana assemblies or Vedic scholars (as outlined in the preceding verses 12.108–114).[^2]\n\n[^1]: Manu, *Manusmṛti*, Chapter 12 (translation). (Note: Exact paragraph citation requires specific ID from `get_passage`; verse identified via chapter text.)\n\n[^2]: Manu, *Manusmṛti*, Chapter 12 (translation).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu 12.115"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manusmriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sin\" \"hundredfold\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fools\" \"darkness\" \"tamas\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 59891,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 48092,
+    "completion_tokens": 7037,
+    "total_tokens": 55129,
+    "cached_tokens": 24363,
+    "api_calls": 4,
+    "cost_usd": 0.00948245,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1545,
+        "completion_tokens": 548,
+        "total_tokens": 2093,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005605
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1748,
+        "completion_tokens": 268,
+        "total_tokens": 2016,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004611
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter"
+        ],
+        "prompt_tokens": 22325,
+        "completion_tokens": 2947,
+        "total_tokens": 25272,
+        "cached_tokens": 1743,
+        "cost_usd": 0.00567705
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22474,
+        "completion_tokens": 3274,
+        "total_tokens": 25748,
+        "cached_tokens": 22320,
+        "cost_usd": 0.0027838
+      }
+    ]
+  }
+}

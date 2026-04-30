@@ -1,0 +1,324 @@
+{
+  "answer": "**The Parāśara Smṛti positions itself as the authoritative *dharmaśāstra* (text on righteous duties and law) specifically for the Kali *yuga* (current cosmic age of decline), including its rules on *prāyaścitta* (expiations or penances).**[^1][^2]\n\nIn Chapter 1, Parāśara declares that while *dharmas* vary by *yuga* (with his own applying to Kali), \"the *prāyaścitta* prescribed by Parāśara is also ordained\" as valid across contexts.[^3] This text thus supplies the specific, simplified expiations suited to Kali *yuga*'s moral decay—contrasting stricter rules from prior ages (e.g., Manu's for Kṛta *yuga*.[^4]\n\nDetailed *prāyaścitta* rules appear primarily in Chapters 9–12, prescribing penances like *Kṛcchra*, *Cāndrāyaṇa*, *Prājāpatya*, *Taptakṛcchra*, and *Atikṛcchra* (with graduated severity by *varṇa* [social class], e.g., for killing cows,[^5] sexual misconduct,[^6] impure food,[^7] or bathing rites[^8]). Examples:\n- Eating impure food (e.g., cow flesh): *dvija* [*twice-born*: Brāhmaṇa, Kṣatriya, Vaiśya] performs full *Kṛcchra* + *Cāndrāyaṇa*; Śūdra does *Prājāpatya*.[^9]\n- Intercourse with forbidden woman: *Cāndrāyaṇa*.[^10]\n\nNo other single verse isolates \"prayascittas in Kali\" beyond this framework; the corpus lacks it elsewhere. These are \"common rules... for the four *varṇas*\" in Kali.[^11]\n\n[^1]: Parāśara Smṛti, Chapter 1, [p-d9b4b0](/works/unknown-parasara-smrti-2259be/01/translation/#p-d9b4b0).\n[^2]: Parāśara Smṛti, Chapter 1, [p-121575](/works/unknown-parasara-smrti-2259be/01/translation/#p-121575).\n[^3]: Parāśara Smṛti, Chapter 1, [p-a0d99c](/works/unknown-parasara-smrti-2259be/01/translation/#p-a0d99c).\n[^4]: Parāśara Smṛti, Chapter 1, [p-121575](/works/unknown-parasara-smrti-2259be/01/translation/#p-121575).\n[^5]: Parāśara Smṛti, Chapter 9 (e.g., full vow for killing; fractions for injury), [p-c87bbd](/works/unknown-parasara-smrti-2259be/09/translation/#p-c87bbd).\n[^6]: Parāśara Smṛti, Chapter 10 (e.g., *Cāndrāyaṇa* for *agamyāgamana*), [p-2b9a87](/works/unknown-parasara-smrti-2259be/10/translation/#p-2b9a87).\n[^7]: Parāśara Smṛti, Chapter 11 (e.g., *Brahmakūrca* for tainted vessels), [p-b50cf8](/works/unknown-parasara-smrti-2259be/11/translation/#p-b50cf8).\n[^8]: Parāśara Smṛti, Chapter 12 (e.g., types of purifying baths), [p-0b72ec](/works/unknown-parasara-smrti-2259be/12/translation/#p-0b72ec).\n[^9]: Parāśara Smṛti, Chapter 11, [p-b50cf8](/works/unknown-parasara-smrti-2259be/11/translation/#p-b50cf8).\n[^10]: Parāśara Smṛti, Chapter 10, [p-2b9a87](/works/unknown-parasara-smrti-2259be/10/translation/#p-2b9a87).\n[^11]: Parāśara Smṛti, Chapter 1, [p-026cf5](/works/unknown-parasara-smrti-2259be/01/translation/#p-026cf5).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prayascitta Kali",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kali age\" prayascitta",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kali yuga\" prayascitta",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Parasara Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Parashara Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Parasara"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kali\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "penance Kali",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kali yuga\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prayascitta"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "penance"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "expiation"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "age",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"prāyaścitta\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 10,
+      "paragraph_id": "p-d9b4b0"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 10,
+      "paragraph_id": "p-121575"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 10,
+      "paragraph_id": "p-a0d99c"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 10,
+      "paragraph_id": "p-c87bbd"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 10,
+      "paragraph_id": "p-2b9a87"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 10,
+      "paragraph_id": "p-b50cf8"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 10,
+      "paragraph_id": "p-0b72ec"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 10,
+      "paragraph_id": "p-026cf5"
+    }
+  ],
+  "duration_ms": 55095,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 72458,
+    "completion_tokens": 5273,
+    "total_tokens": 77731,
+    "cached_tokens": 33579,
+    "api_calls": 6,
+    "cost_usd": 0.012091250000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 476,
+        "total_tokens": 2029,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005261
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 1799,
+        "completion_tokens": 346,
+        "total_tokens": 2145,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005103
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5276,
+        "completion_tokens": 465,
+        "total_tokens": 5741,
+        "cached_tokens": 1794,
+        "cost_usd": 0.0010186
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6092,
+        "completion_tokens": 619,
+        "total_tokens": 6711,
+        "cached_tokens": 5271,
+        "cost_usd": 0.00073725
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20132,
+        "completion_tokens": 1575,
+        "total_tokens": 21707,
+        "cached_tokens": 6087,
+        "cost_usd": 0.00390085
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 37606,
+        "completion_tokens": 1792,
+        "total_tokens": 39398,
+        "cached_tokens": 20127,
+        "cost_usd": 0.00539815
+      }
+    ]
+  }
+}

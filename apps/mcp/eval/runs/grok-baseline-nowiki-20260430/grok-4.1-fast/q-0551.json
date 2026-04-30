@@ -1,0 +1,293 @@
+{
+  "answer": "In the Sanskrit *smṛti* tradition, *dharma*—often translated as sacred law, duty, righteousness, or cosmic order—is not a monolithic concept but a multifaceted normative principle guiding individual, social, and cosmic conduct. It is primarily derived from scriptural injunctions (*codanā*, especially Vedic imperatives), extended by remembered tradition (*smṛti*), the exemplary practices of the virtuous, and alignment with one's conscience or innate resolve.[^1][^2][^3] This synthesis draws from four key *smṛti* texts (Aṅgirasa Smṛti, Manu Smṛti, Yājñavalkya Smṛti, and Nārada Smṛti), revealing both unity and nuance.\n\n### Scriptural Injunction (*Codanā*) as the Core\nAṅgirasa defines *dharma* most technically as \"*codanā*\"—a direct Vedic command (e.g., via optative, imperative, or gerundive forms)—distinguishing it from mere extensions or non-Vedic sources like Purāṇas.[^1] Only such *codanā* leads to liberation (*mukti*). Manu echoes this by declaring the Veda the \"root-source\" of *dharma*, alongside *smṛti*, virtuous conduct, and self-satisfaction, emphasizing its foundational role in eternal duty.[^2] Yājñavalkya similarly roots *dharma* in Vedas (*śruti*), *smṛtis*, virtuous conduct, self-pleasing resolve, and righteous desire, framing it as the basis for ethical action.[^3]\n\nThis scriptural primacy ensures *dharma* is not arbitrary but authoritative, binding across castes (*varṇas*) and life-stages (*āśramas*), promoting order (*ṛta*) and preventing chaos.\n\n### Practice, Virtue, and Conscience\nManu stresses *dharma* as \"that which is practiced by the learned and good, free from hatred and passion, and assented to by the heart,\" highlighting lived exemplars and inner alignment over rote rule-following.[^4] Nārada contextualizes *dharma* as the primordial state of truth and virtue, from which legal procedures (*vyavahāra*) emerge only when virtue declines—implying *dharma* as pre-legal righteousness sustaining society.[^5] Yājñavalkya integrates \"desire born of right resolve,\" allowing contextual adaptation while rooted in tradition.\n\nAcross texts, *dharma* thus evolves from Vedic command to virtuous habitus, fostering personal and communal harmony.\n\n### Hierarchical Sources and Application\nThe texts form a hierarchy: Veda > *smṛti* > virtuous conduct > self-conscience, resolving conflicts (e.g., Aṅgirasa prioritizes *śruti* indicators). It manifests as duties (*varṇāśrama-dharma*), penance (*prāyaścitta*), law (*vyavahāra*), and soteriology (liberation via injunctions). Violations invite impurity (*aśauca*) or downfall, redeemable by penance.\n\nIn sum, *smṛti* portrays *dharma* as dynamic yet authoritative: Vedic duty internalized through virtue, ensuring ethical order, prosperity, and transcendence.\n\n[^1]: Aṅgirasa Smṛti, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-07cb57).\n\n[^2]: Manu Smṛti, [paragraph](/works/unknown-manusmrti-347b76/02/translation/#p-d70b97).\n\n[^3]: Yājñavalkya Smṛti, [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-7d795b).\n\n[^4]: Manu Smṛti, [paragraph](/works/unknown-manusmrti-347b76/02/translation/#p-c52281).\n\n[^5]: Nārada Smṛti, [paragraph](/works/unknown-naradasmrti-7650d2/01/translation/#p-962160).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma is\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma means\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "definition dharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-07cb57"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-c52281",
+          "p-d70b97"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7d795b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-962160"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-07cb57"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-d70b97"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-7d795b"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-c52281"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-962160"
+    }
+  ],
+  "duration_ms": 108982,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 395540,
+    "completion_tokens": 5250,
+    "total_tokens": 400790,
+    "cached_tokens": 208144,
+    "api_calls": 5,
+    "cost_usd": 0.0862459,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1557,
+        "completion_tokens": 626,
+        "total_tokens": 2183,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006019
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 8593,
+        "completion_tokens": 1059,
+        "total_tokens": 9652,
+        "cached_tokens": 150,
+        "cost_usd": 0.0022256
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 13989,
+        "completion_tokens": 954,
+        "total_tokens": 14943,
+        "cached_tokens": 8588,
+        "cost_usd": 0.0019866
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 185277,
+        "completion_tokens": 1114,
+        "total_tokens": 186391,
+        "cached_tokens": 13984,
+        "cost_usd": 0.0703304
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 186124,
+        "completion_tokens": 1497,
+        "total_tokens": 187621,
+        "cached_tokens": 185272,
+        "cost_usd": 0.0111014
+      }
+    ]
+  }
+}

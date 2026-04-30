@@ -1,0 +1,286 @@
+{
+  "answer": "**The Falsafa corpus does not contain any work matching this description.**\n\nDespite extensive searches across the English translations for the specific mapping (jāgrat/aśvamedha, svapna/vājapeya, suṣupti/puṇḍarīka, tūrya/rājasūya or close variations like \"jagrat ashvamedha\", \"svapna vajapeya\", \"sushupti pundarika\", \"turiya rajasuya\"), the four states of consciousness (\"waking\", \"dream\", \"deep sleep\"/\"sushupti\", \"fourth\"/\"turiya\"), Vedic śrauta sacrifices (\"horse sacrifice\"/\"ashvamedha\", \"vajapeya\", \"pundarika\", \"rajasuya\"/\"royal consecration\"), or the dialogue structure (\"revered son\" as questioner), no results were found.\n\nThe corpus includes some ancient Indic Smṛti texts in Sanskrit (with translations), such as Manu Smṛti and Yājñavalkya Smṛti, but none cover this topic or structure. Upanishads (e.g., those typically discussing the four states like Māṇḍūkya) are not present.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jāgrat aśvamedha",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jagrat ashvamedha",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "svapna vājapeya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "puṇḍarīka suṣupti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "asvamedha",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ashvamedha",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rajyasuya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rajasuya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"revered son\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"jagrat\" \"svapna\" \"susupti\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"waking\" \"dream\" \"sleep\" \"fourth\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"jagrat\" \"svapna\" \"susupti\" \"turiya\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"waking\" \"dreaming\" \"deep sleep\" turiya",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "turiya",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"revered son\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"o son\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"horse sacrifice\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"royal consecration\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rajasuya\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vajapeya\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pundarika\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"waking\" dream sleep fourth",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "upanishad"
+      },
+      "result_summary": "Listed 0 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 45810,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 12670,
+    "completion_tokens": 5124,
+    "total_tokens": 17794,
+    "cached_tokens": 8722,
+    "api_calls": 5,
+    "cost_usd": 0.0037877,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1663,
+        "completion_tokens": 701,
+        "total_tokens": 2364,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00045375
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1946,
+        "completion_tokens": 808,
+        "total_tokens": 2754,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007707
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2339,
+        "completion_tokens": 1205,
+        "total_tokens": 3544,
+        "cached_tokens": 1941,
+        "cost_usd": 0.00077915
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2773,
+        "completion_tokens": 1058,
+        "total_tokens": 3831,
+        "cached_tokens": 2334,
+        "cost_usd": 0.0007335
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3949,
+        "completion_tokens": 1352,
+        "total_tokens": 5301,
+        "cached_tokens": 2768,
+        "cost_usd": 0.0010506
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "answer": "**Yes, \"wisaal\" (وصال) is the same Urdu/Persian word in both poets' works, evoking physical or spiritual union—often with an inherent erotic or intimate longing rooted in Sufi and ghazal traditions—but Ghalib deploys it sensually while Iqbal sublimates it cosmically.[^1][^2]**\n\n### Ghalib's Erotic \"Wisaal\"\nFrom *Diwan-e-Ghalib*, ghazal 193, the unambiguous erotic register appears in this couplet, where *wisaal* (intimacy/union) inflames greedy desire, likened to wine-foam heightening thirst—a classic motif of consummation sharpening appetite:\n\n**Transliteration:**  \nHua *wisaal* se shauq-e-dil-e-harees ziyaada  \nLab-e-qadah pe kaf-e-baada josh-e-tishna-labi hai[^3]\n\n**Translation:**  \nThe greedy heart's desire grew more intense with intimacy;  \nThe foam upon the wine-cup's lip is thirst's own ecstasy.[^4]\n\nHere, *wisaal* directly connotes lovers' physical union, intensifying erotic hunger rather than sating it.[^5]\n\n### Iqbal's Metaphysical \"Wisaal\"\nFrom *Bang-e-Dara Part 3*, \"Do Sitare\" (Two Stars), *wisaal* is recast metaphysically: two stars yearn for eternal union, but this cosmic longing portends inevitable separation, symbolizing the universe's decree of motion and transience over stasis.\n\n**Transliteration (relevant lines):**  \nLekin yeh *wisaal* ki tamanna  \nPaighaam firaaq thi sarapa[^6]\n\n**Translation (couplet):**  \n\"What bliss, a perpetual union,  \nAnd our long wandering's end begun;\"  \n...  \nBut this deep wish, this hopeful art,  \nWas a prophecy that we must part.[^7]\n\nIqbal redirects the erotic pull of *wisaal* toward khudi (selfhood) and divine dynamism: union is illusory, separation the path to realization.[^8]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 193, [translation/](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/193-tum-apne-shikwe-ki-baatein-na-khod-khod-ke-poocho/translation/); Allama Iqbal, *Bang-E-Dara Part 3*, ch. 5, [transliteration/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/05-do-sitare/transliteration/).\n\n[^2]: The term derives from Arabic *waṣl* (joining), ubiquitous in Urdu poetry for reunion after separation (*firaaq*), blending carnal and mystical senses.\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 193, [transliteration/#p-8223dd](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/193-tum-apne-shikwe-ki-baatein-na-khod-khod-ke-poocho/transliteration/#p-8223dd).\n\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 193, [p-249463](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/193-tum-apne-shikwe-ki-baatein-na-khod-khod-ke-poocho/translation/#p-249463).\n\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 193, [translation/](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/193-tum-apne-shikwe-ki-baatein-na-khod-khod-ke-poocho/translation/).\n\n[^6]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 5, [transliteration/#p-361adf](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/05-do-sitare/transliteration/#p-361adf).\n\n[^7]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 5, [translation/#p-21d8f3](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/05-do-sitare/translation/#p-21d8f3).\n\n[^8]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 5, [translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/05-do-sitare/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wisaal"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wisaal ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wisaal iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 193,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.193 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 68,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.68 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 57,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.57 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 193,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.193 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 5,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.5 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 193,
+        "paragraph_ids": [
+          "p-249463"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 5,
+        "paragraph_range": {
+          "start": 0,
+          "end": 7
+        },
+        "variant": "translation"
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [0, 7] is invalid"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 193,
+        "paragraph_ids": [
+          "p-249463"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-361adf"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 5,
+      "paragraph_id": "p-8223dd"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 5,
+      "paragraph_id": "p-249463"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 5,
+      "paragraph_id": "p-361adf"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 5,
+      "paragraph_id": "p-21d8f3"
+    }
+  ],
+  "duration_ms": 44684,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 21856,
+    "completion_tokens": 4596,
+    "total_tokens": 26452,
+    "cached_tokens": 8259,
+    "api_calls": 4,
+    "cost_usd": 0.0054303500000000005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1591,
+        "completion_tokens": 447,
+        "total_tokens": 2038,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005192
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3857,
+        "completion_tokens": 1177,
+        "total_tokens": 5034,
+        "cached_tokens": 150,
+        "cost_usd": 0.0013374
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 7814,
+        "completion_tokens": 912,
+        "total_tokens": 8726,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019963
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 8594,
+        "completion_tokens": 2060,
+        "total_tokens": 10654,
+        "cached_tokens": 7809,
+        "cost_usd": 0.00157745
+      }
+    ]
+  }
+}

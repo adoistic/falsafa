@@ -1,0 +1,209 @@
+{
+  "answer": "Several works in the Falsafa corpus mention **gardens** (often figuratively, as symbols of existence, paradise, poetry, or transience) or **the gardener** (sometimes as a literal profession, other times metaphorically as a cultivator of verse, soul, or hope). The most prominent figurative uses appear in the poetry of Allama Iqbal and Mirza Ghalib. Literal or legal mentions occur in economic and Dharmaśāstra texts.[^1]\n\n**Poetic and metaphorical uses:**\n- *Bang-E-Dara Part 1* (Allama Iqbal): Multiple chapters use \"garden\" figuratively (e.g., \"garden of Being,\" \"my garden\").[^2][^3]\n- *Bang-E-Dara Part 2* (Allama Iqbal): Gardens symbolize verse and desire; the poet declares, \"I am its gardener.\"[^4]\n- *Bang-E-Dara Part 3* (Allama Iqbal): Addresses \"O gardener\" amid hope for renewal.[^5]\n- *Diwan-E-Ghalib* (Mirza Ghalib): Roses leaving \"gardens\" for markets evokes lost purity.[^6]\n\n**Literal or contextual uses:**\n- *Nouveau traité d'économie: VOL II* (Charles Dunoyer): References to market gardeners and agricultural practices.[^7]\n- *Traité de Législation: VOL IV* (Charles Comte): Slaves lack skills \"necessary for a gardener.\"[^8]\n- Various Smṛti texts (e.g., *Bṛhaspati Smṛti*, *Kātyāyana Smṛti*): Gardens as property in legal disputes over boundaries and seizure.[^9]\n\nNo other works feature these terms prominently as \"figures\" (e.g., sustained allegories). Iqbal's poetry offers the richest symbolic garden imagery.\n\n[^1]: Based on corpus-wide searches; see representative passages below.\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 3 [\"p-5c815a\"](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/03-gulzar-e-hast-o-bud-na-begana-waar-dekh/translation/#p-5c815a): \"This garden of Being...\"\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 23 [\"p-365211\"](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/23-farishte/translation/#p-365211): \"God made no gardener needful unto me.\"\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 22 [\"p-0844ec\"](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/22-sitara/translation/#p-0844ec): \"I am its gardener...\"\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 4 [\"p-169e10\"](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-169e10): \"Do not despair, O gardener...\"\n\n[^6]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 92 [\"p-a28332\"](https://falsafa.corpus/works/mirza-ghalib-diwan-e-ghalib-74ed4c/92-jis-bazm-mein-tu-naaz-se-guftaar-mein-aave/translation/#p-a28332): \"Why would the rose leave gardens...\"\n\n[^7]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, ch. 17 [\"p-8b8cfe\"](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-8b8cfe).\n\n[^8]: Charles Comte, *Traité de Législation: VOL IV*, ch. 13 [\"p-d243a4\"](https://falsafa.corpus/works/charles-comte-traite-de-legislation-vol-iv-bca040/13-de-l-influence-de-l-esclavage-domestique-sur-la-pr/translation/#p-d243a4).\n\n[^9]: E.g., *Bṛhaspati Smṛti*, ch. 1 [\"p-c5ca69\"](https://falsafa.corpus/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c5ca69): \"Fields, gardens, houses...\"",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "garden",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gardener",
+        "limit": 50
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gardens",
+        "limit": 50
+      },
+      "result_summary": "Found 48 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-5c815a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 23,
+        "paragraph_ids": [
+          "p-365211"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 22,
+        "paragraph_ids": [
+          "p-0844ec"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-169e10"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 92,
+        "paragraph_ids": [
+          "p-a28332"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-d243a4"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-c5ca69"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-5c815a"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-365211"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-0844ec"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-169e10"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-a28332"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-8b8cfe"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-d243a4"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-c5ca69"
+    }
+  ],
+  "duration_ms": 43838,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 34050,
+    "completion_tokens": 5074,
+    "total_tokens": 39124,
+    "cached_tokens": 17074,
+    "api_calls": 3,
+    "cost_usd": 0.0067859,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1549,
+        "completion_tokens": 401,
+        "total_tokens": 1950,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004878
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15395,
+        "completion_tokens": 2228,
+        "total_tokens": 17623,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0039629
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 17106,
+        "completion_tokens": 2445,
+        "total_tokens": 19551,
+        "cached_tokens": 15390,
+        "cost_usd": 0.0023352
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "answer": "**Bṛhaspati Smṛti**\n\nIn the *Bṛhaspati Smṛti*, *lekhya* (\"document\" or \"writing\") is introduced as one of the three primary kinds of human proof (*puruṣapramāṇa*) in *vyavahāra* (legal procedure or litigation), alongside witnesses (* sākṣin*) and possession/inference (*bhoga/hetu*).[^1] The operative claim is that a valid document—properly detailing elements like place, time, parties, witnesses, scribe, and transaction type (*e.g.*, partition, gift, sale, pledge)—establishes proof independently and comprehensively.[^2] Documents are classified into royal, place-specific, and self-written types, further subdivided into seven worldly kinds (*e.g.*, partition deed, gift deed) and three royal charters.[^3]\n\n**Charles Comte, *Traité de Législation***\n\nNo passages in the available *Traité de Législation* (Vols. I–IV) treat writing/documents (*écrit*, *document*) explicitly as evidence (*preuve*) or compare it to oral testimony (*témoignage oral*). Searches across English translations for relevant terms (evidence, testimony, witness, document, writing, *preuve*, *témoignage*, *témoins*, *écrit*) yielded no matches on evidentiary use. The work focuses on analytical method, moral/philosophical systems of legislation, human development, slavery, and social organization, without addressing legal proof standards. If such treatment exists, it is not in the translated corpus.\n\n**Comparative Reliability**\n\nNeither tradition explicitly ranks writing/documents as more or less reliable than oral testimony/witnesses (*sākṣin*). In *Bṛhaspati*, both are coordinate \"human proofs,\" with witnesses requiring extensive validation (e.g., number, qualities, faults like greed or contradiction), while a valid document suffices alone, excluding ordeals or witnesses.[^4] Oral testimony dominates where no document exists, but is subordinate when one does. No such comparison appears for Comte.\n\n[^1]: *Bṛhaspati Smṛti*, Ch. 1, [¶ Brh_1,4.7](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c9cb41).\n[^2]: *Bṛhaspati Smṛti*, Ch. 1, [¶ Brh_1,6.1–6.49](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-bbce9d).\n[^3]: *Bṛhaspati Smṛti*, Ch. 1, [¶ Brh_1,6.3–6.28](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-400669).\n[^4]: *Bṛhaspati Smṛti*, Ch. 1, [¶ Brh_1,4.12](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-44a57a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "brhaspati"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Traité de Législation\" writing evidence"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lekhya vyavahara"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "writing evidence"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"oral testimony\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lekhya"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vyavahara"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"written document\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "evidence"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "testimony"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "witness"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "document"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lekhya",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-legislation-vol-i-7e62a2\",\"title\":\"Traité de Législation: VOL I\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlightenme"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-legislation-vol-ii-20331d\",\"title\":\"Traité de Législation: VOL II\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlighten"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-legislation-vol-iii-ca589a\",\"title\":\"Traité de Législation: VOL III\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlight"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-legislation-vol-iv-bca040\",\"title\":\"Traité de Législation: VOL IV\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlighten"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"written proof\" OR \"document\" OR \"écrit\" OR \"témoignage\" OR \"preuve\" OR \"witness\" OR \"témoins\""
+      },
+      "result_summary": "Found 23 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-c9cb41"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-bbce9d"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-400669"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-44a57a"
+    }
+  ],
+  "duration_ms": 81261,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 126484,
+    "completion_tokens": 5679,
+    "total_tokens": 132163,
+    "cached_tokens": 37469,
+    "api_calls": 5,
+    "cost_usd": 0.02251595,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1587,
+        "completion_tokens": 475,
+        "total_tokens": 2062,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00032555
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2653,
+        "completion_tokens": 895,
+        "total_tokens": 3548,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00074875
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7168,
+        "completion_tokens": 1220,
+        "total_tokens": 8388,
+        "cached_tokens": 2648,
+        "cost_usd": 0.0016464
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 24605,
+        "completion_tokens": 1528,
+        "total_tokens": 26133,
+        "cached_tokens": 7163,
+        "cost_usd": 0.00461055
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "search_corpus"
+        ],
+        "prompt_tokens": 90471,
+        "completion_tokens": 1561,
+        "total_tokens": 92032,
+        "cached_tokens": 24600,
+        "cost_usd": 0.0151847
+      }
+    ]
+  }
+}

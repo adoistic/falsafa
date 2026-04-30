@@ -1,0 +1,242 @@
+{
+  "answer": "In Urdu poetry, particularly within the ghazal and nazm traditions as represented in this corpus, *dard* (literally \"pain\" or \"ache\") transcends mere physical suffering to embody a profound, existential torment of the heart—often the exquisite agony of *ishq* (divine or romantic love), *firaq* (separation), and unfulfilled longing. It is not a malady to be cured but a cherished treasure, a \"pearl of purest water\" that defines the lover's authenticity, resists remedies, and fuels poetic expression. This pain is personified as noble, hidden from the unworthy, and integral to spiritual awakening or romantic ecstasy, contrasting with superficial joys of the modern age.[^1]\n\nAllama Iqbal elevates *dard-e-ishq* (anguish of love) as a sacred, concealed gem unfit for public display in an era of shallow criticism and rationalism: \"O, Anguish of Love! A pearl of purest water, you; / Be not revealed to the unworthy view.\" It thrives in secrecy, rejecting overt lament or the nightingale's song, as the world no longer appreciates its depth.[^2]\n\nMirza Ghalib, master of the ghazal, portrays *dard* as stubbornly autonomous, ungrateful for healing (*minnat-kash-e-dawa na hua*), and inherent to the human heart: \"My pain would not be indebted to a cure; / I did not heal, nor did my state grow worse.\" The heart, unlike stone or brick, naturally fills with it (*Dil hi to hai na sang-o-khisht, dard se bhar na aaye kyun?*), and it even stirs restlessness in the beloved.[^3][^4]\n\nThis motif recurs across Iqbal's *Bang-e-Dara* and Ghalib's *Diwan*, symbolizing the lover's refusal of consolation, where pain becomes a badge of devotion amid life's transience.[^5]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 17: Dard-e-Ishq](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/transliteration/).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 17: Dard-e-Ishq](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/translation/#p-b75085).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [Chapter 26: Dard minnat-kash-e-dawa na hua](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/26-dard-minnat-kash-e-dawa-na-hua/translation/#p-fd05a7).\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, [Chapter 33: Dil hi to hai na sang-o-khisht](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/33-dil-hi-to-hai-na-sang-o-khisht-dard-se-bhar-na-aay/translation/#p-d9d50d).\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, [Chapter 27: Dard se mere hai tujh ko be-qarari](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/27-dard-se-mere-hai-tujh-ko-be-qarari-haaye-haaye/translation/#p-4c7d2e).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dard",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Urdu poetry\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Urdu\" poetry"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pain\" poetry Urdu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-1-55b25c\",\"title\":\"Bang-E-Dara Part 1\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dard ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dard zauq"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 26,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.26 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 33,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.33 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 33,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.33 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 27,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.27 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pain\" OR \"anguish\" OR \"ache\" poetry",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 27,
+      "paragraph_id": "p-b75085"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 27,
+      "paragraph_id": "p-fd05a7"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 27,
+      "paragraph_id": "p-d9d50d"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 27,
+      "paragraph_id": "p-4c7d2e"
+    }
+  ],
+  "duration_ms": 86814,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 64195,
+    "completion_tokens": 4891,
+    "total_tokens": 69086,
+    "cached_tokens": 600,
+    "api_calls": 4,
+    "cost_usd": 0.0151945,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1548,
+        "completion_tokens": 659,
+        "total_tokens": 2207,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006166
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5286,
+        "completion_tokens": 1228,
+        "total_tokens": 6514,
+        "cached_tokens": 150,
+        "cost_usd": 0.0016487
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "get_metadata",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 25964,
+        "completion_tokens": 1341,
+        "total_tokens": 27305,
+        "cached_tokens": 150,
+        "cost_usd": 0.0058408
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 31397,
+        "completion_tokens": 1663,
+        "total_tokens": 33060,
+        "cached_tokens": 150,
+        "cost_usd": 0.0070884
+      }
+    ]
+  }
+}

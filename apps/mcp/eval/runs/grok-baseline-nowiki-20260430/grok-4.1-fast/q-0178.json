@@ -1,0 +1,223 @@
+{
+  "answer": "**The *Kalpabuddha* (work slug: unknown-kalpabuddha-d760dc), a Medieval Indic text in Kawi with 6 short chapters, does not describe the ten bhūmis (stages) of the bodhisattva path anywhere.**\n\nThis work focuses instead on the five Tathāgatas (Vairocana, Akṣobhya, Ratnasambhava, Amitābha, Amoghasiddhi)—their attributes (colors, directions, maṇtras, mudrās, jñānas, etc.), accompanying deities, mounts, and bodily abodes (e.g., heart, lungs)—culminating in their manifestation as the five wisdoms, senses, and souls (*pañcātma*).[^1]\n\nNo passages mention bhūmis, bodhisattvas, their path, or ten stages. Searches across the corpus for \"ten bhumis\", \"bhūmi\", \"bodhisattva\", or related terms (\"ten stages\", etc.) yielded zero relevant results in this text. The ten bhūmis are a core Mahāyāna doctrine (e.g., from the *Daśabhūmika Sūtra*), but this tantric-style corpus entry covers microcosmic Buddha visualization, not that progression.\n\nIf you're thinking of another work (e.g., *San Hyan Kamahayānīkan* or *Kunjarakarṇa Dharmakathana*, which mention bodhisattvas but not the ten bhūmis), let me know for further checks.\n\n[^1]: Full text read from chapters 1–6; e.g., Chapter 1 ([/works/unknown-kalpabuddha-d760dc-d760dc/01/translation/](https://falsafa.corpus/works/unknown-kalpabuddha-d760dc/01/translation/)), Chapter 6 ([/works/unknown-kalpabuddha-d760dc/06/translation/](https://falsafa.corpus/works/unknown-kalpabuddha-d760dc/06/translation/)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "kalpabuddha"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kalpabuddha"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ten bhumis\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "Listed 6 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bhumi"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bhūmi"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ten stages\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bodhisattva"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bodhisattva path\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bhūmi OR bhumi OR ground OR stage OR bhumi"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ten\" bhumi OR bhūmi OR ground OR stage"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 28851,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 31136,
+    "completion_tokens": 2721,
+    "total_tokens": 33857,
+    "cached_tokens": 8877,
+    "api_calls": 4,
+    "cost_usd": 0.00625615,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 616,
+        "total_tokens": 2171,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00038935
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5164,
+        "completion_tokens": 522,
+        "total_tokens": 5686,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012713
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7051,
+        "completion_tokens": 771,
+        "total_tokens": 7822,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017732
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17366,
+        "completion_tokens": 812,
+        "total_tokens": 18178,
+        "cached_tokens": 7046,
+        "cost_usd": 0.0028223
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "answer": "**\"Hāh\"** (chapter 11) and **\"Nawā-e-Gham\"** (chapter 19) both appear in *Bang-e-Dara Part 2*, Allama Iqbal's 1924 Urdu poetry collection.[^3][^4]\n\nThe most charged line in **\"Hāh\"**—a cry rejecting promises of otherworldly bliss in favor of earthly immediacy—is:  \n\"Ah, Youth! How long can it in hopeful longing burn? / That joy is no true joy for which we wait and yearn.\"[^1]\n\nThe most charged line in **\"Nawā-e-Gham\"**—likewise a threnody elevating sorrow's innate music over unstruck silence—is:  \n\"A faint sound of a hopeless song does rise, / The marching-bell for caravans of cries.\"[^2]\n\n### Rhetorical Coincidences\nBoth poems deploy a **lament-register** through exclamatory sighs (\"Ah\"/\"Aah!\" in the originals) and musical metaphors to critique deferred fulfillment: \"Hāh\" spurns paradise, Houris, and wine as lures that \"come too late\" for vibrant youth, insisting true joy demands the present (\"'The Joy of Today'\").[^5] \"Nawā-e-Gham\" mourns the lute-like soul's untouched silence, awaiting a divine sigh to release its \"hopeless song.\"[^6] They coincide in scorning postponement—\"wait and yearn\" vs. unplucked strings—and affirming existential immediacy as life's pulse (\"this very pulse of life!\" vs. sorrow's elevating \"height\").[^7][^8]\n\n### Divergent Territories\n\"Hāh\" stakes **activist, youthful defiance** against religious escapism, championing sensory \"pulse of life\" and beauty's unmediated \"worth\" as youth's \"creed.\"[^9] It rejects the preacher's \"message\" outright, prioritizing human vitality over heavenly traps. \"Nawā-e-Gham,\" by contrast, claims **passive, mystical transcendence** in sorrow itself: the silent lute births song from celestial winds or \"dew['s]...desire for flight,\" finding \"height\" in grief's caravan-march rather than joy's seizure.[^10] Where \"Hāh\" is a rebel's \"Hah!\" against tomorrow, \"Nawā-e-Gham\" is a Sufi hush, its melody innate to the cosmos' \"resurrection-plain.\"\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 11 \"Hah\" (translation), [p-52b7ac](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/11-hah/translation/#p-52b7ac).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 19 \"Nawa-e-Gham\" (translation), [p-a7ec60](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/19-nawa-e-gham/translation/#p-a7ec60).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 11 \"Hah\" (translation), [full chapter](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/11-hah/translation/).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 19 \"Nawa-e-Gham\" (translation), [full chapter](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/19-nawa-e-gham/translation/).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 11 \"Hah\" (translation), [p-6db29c](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/11-hah/translation/#p-6db29c).\n[^6]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 19 \"Nawa-e-Gham\" (translation), [p-5c0a90](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/19-nawa-e-gham/translation/#p-5c0a90).\n[^7]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 11 \"Hah\" (translation), [p-52b7ac](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/11-hah/translation/#p-52b7ac).\n[^8]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 19 \"Nawa-e-Gham\" (translation), [p-a766ad](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/19-nawa-e-gham/translation/#p-a766ad).\n[^9]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 11 \"Hah\" (translation), [p-3e10ab](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/11-hah/translation/#p-3e10ab).\n[^10]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 19 \"Nawa-e-Gham\" (translation), [p-adb355](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/19-nawa-e-gham/translation/#p-adb355).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bang-e-Dara\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Hāh"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Nawā-e-Gham\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Nawa-e-Gham\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gham lament"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Hāh\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Haah\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "haah lament iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-52b7ac"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-3e10ab"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19,
+        "paragraph_ids": [
+          "p-a7ec60"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19,
+        "paragraph_ids": [
+          "p-adb355"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 11,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.11 of allama-iqbal-bang-e-dara-part-2-9bc58c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-2-9bc58c (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-52b7ac"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-a7ec60"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-6db29c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-5c0a90"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-a766ad"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-3e10ab"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-adb355"
+    }
+  ],
+  "duration_ms": 60901,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 42791,
+    "completion_tokens": 5382,
+    "total_tokens": 48173,
+    "cached_tokens": 30218,
+    "api_calls": 6,
+    "cost_usd": 0.0067165,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1588,
+        "completion_tokens": 530,
+        "total_tokens": 2118,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005601
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2728,
+        "completion_tokens": 745,
+        "total_tokens": 3473,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00068875
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 5843,
+        "completion_tokens": 391,
+        "total_tokens": 6234,
+        "cached_tokens": 2723,
+        "cost_usd": 0.00095565
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9397,
+        "completion_tokens": 399,
+        "total_tokens": 9796,
+        "cached_tokens": 5838,
+        "cost_usd": 0.0012032
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 10591,
+        "completion_tokens": 1269,
+        "total_tokens": 11860,
+        "cached_tokens": 9392,
+        "cost_usd": 0.0013439
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 12644,
+        "completion_tokens": 2048,
+        "total_tokens": 14692,
+        "cached_tokens": 10586,
+        "cost_usd": 0.0019649
+      }
+    ]
+  }
+}

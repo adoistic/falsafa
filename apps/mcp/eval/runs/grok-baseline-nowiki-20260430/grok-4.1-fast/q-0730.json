@@ -1,0 +1,108 @@
+{
+  "answer": "**In Manusmṛti (Laws of Manu) chapter 6, which details the duties of the vānaprastha (vanaprastha, or forest-dweller/hermit, the third āśrama), the precise rule on hair is given in verse 6.6.**\n\nA householder who has become a forest-dweller \"should wear a skin or a garment of bark; he should bathe in the evening and in the morning; **and he should always wear matted hair, and his beard, body hair, and nails**.\"[^1]\n\nThis prescribes allowing the hair on the head to grow into jaṭā (matted locks), while also letting the beard (śmaśru), body hair (loma), and nails (nakhāni) grow uncut—contrasting with the householder stage (where grooming is expected) and the later ascetic/sannyāsin stage (where verse 6.52 specifies clipping hair, nails, and beard). No other rules on hair appear in the chapter for the vānaprastha.\n\n[^1]: Manu, *Manusmṛti*, [Chapter 6 (translation)](/works/unknown-manusmrti-347b76/06/translation/). (Verse 6.6; paragraph containing the rule is embedded early in the chapter body from `read_chapter`.)",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vanaprastha hair"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hair\" OR \"shave\" OR \"beard\" OR \"moustache\" OR \"locks\" vanaprastha OR hermit OR \"forest dweller\" OR ashrama"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 48128,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 18068,
+    "completion_tokens": 4634,
+    "total_tokens": 22702,
+    "cached_tokens": 2805,
+    "api_calls": 3,
+    "cost_usd": 0.00550985,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1557,
+        "completion_tokens": 443,
+        "total_tokens": 2000,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005104
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2510,
+        "completion_tokens": 386,
+        "total_tokens": 2896,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006725
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14001,
+        "completion_tokens": 3805,
+        "total_tokens": 17806,
+        "cached_tokens": 2505,
+        "cost_usd": 0.00432695
+      }
+    ]
+  }
+}

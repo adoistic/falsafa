@@ -1,0 +1,219 @@
+{
+  "answer": "**The Falsafa corpus contains Manusmṛti (a core Smṛti text), but Iqbal's works here are limited to the three parts of *Bang-e-Dara* (1924), an Urdu poetry collection in transliteration. No English translations in the corpus explicitly describe \"khudi\" (selfhood/ego) as self-creating or creative.**\n\n### Smṛti Varna as Birth-Determined\nThe most explicit statement of the varṇa scheme as positionally fixed by birth appears in Manusmṛti Chapter 1, where the four varṇas (Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra) are divinely created from distinct body parts of the primordial being, assigning fixed roles and statuses from origin.[^1]\n\n[^1]: *Manusmṛti*, [p-13a2db](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db).\n\nThis cosmogonic origin (also referenced later, e.g., Mn_1.87–91, 10.4) implies varṇas are inherently positional, tied to birth from specific \"limbs,\" rejecting mobility.[^2]\n\n[^2]: *Manusmṛti*, [Chapter 1](/works/unknown-manusmrti-347b76/01/translation/).\n\n### Iqbal's Khudi\nNo verse in the corpus's Iqbal works (*Bang-e-Dara* Parts 1–3) explicitly presents khudi as \"self-creating\" or \"creative\" in English translation. Searches for phrases like \"khudi self-creating,\" \"self creates,\" \"creative self,\" or related terms (\"ego,\" \"selfhood\") yield no relevant matches in Iqbal. \"Khudi\"/\"be-khudi\" appears incidentally in Urdu poetry (mostly Ghalib's *Diwan*), connoting ecstasy or self-loss, not creative selfhood. Iqbal's prose works like *Asrar-i-Khudi* (Secrets of the Self, 1915)—central to his dynamic khudi philosophy—are not in the corpus.\n\n### Inheritance of Rejected Structure\nNo passages in Iqbal's works here critique or inherit varṇa-like hierarchy. A careful reader finds no such structural parallel (e.g., fixed positional self vs. unlocked creative self). The corpus lacks Iqbal's philosophical texts engaging Indic thought directly.\n\nThe corpus (37 works) covers philosophy/classics selectively; Iqbal's khudi elaboration and anti-varṇa contrasts are absent here.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi self-creating",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self creates\" OR \"self-creating\" iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "varna birth determined OR \"born\" varna smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\" iqbal creative OR creates OR creating",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"khudi\" OR \"selfhood\" OR \"ego\" iqbal creates OR \"creates itself\" OR \"self creates\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"varna\" birth OR born OR \"by birth\" OR \"born as\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mouth\" \"arms\" \"thighs\" \"feet\" varna OR caste"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-13a2db"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\" OR \"ego\" OR \"khudi\" OR \"Selfhood\" iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "20th Century",
+        "genre": "Literature"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"creative\" self iqbal OR khudi"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-13a2db"
+    }
+  ],
+  "duration_ms": 56066,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 58787,
+    "completion_tokens": 5596,
+    "total_tokens": 64383,
+    "cached_tokens": 5498,
+    "api_calls": 4,
+    "cost_usd": 0.013730699999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1607,
+        "completion_tokens": 757,
+        "total_tokens": 2364,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006774
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5053,
+        "completion_tokens": 1727,
+        "total_tokens": 6780,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018516
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21077,
+        "completion_tokens": 1920,
+        "total_tokens": 22997,
+        "cached_tokens": 5048,
+        "cost_usd": 0.0044182
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "read_chapter",
+          "search_corpus",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 31050,
+        "completion_tokens": 1192,
+        "total_tokens": 32242,
+        "cached_tokens": 150,
+        "cost_usd": 0.0067835
+      }
+    ]
+  }
+}

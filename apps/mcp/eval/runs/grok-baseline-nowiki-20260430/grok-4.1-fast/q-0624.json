@@ -1,0 +1,195 @@
+{
+  "answer": "In the available Smṛti texts (e.g., Aṅgirasa Smṛti, Viṣṇu Smṛti) and closely related Indic Dharmaśāstra-style works (e.g., Slokantara, Vratisasana), *satya* most often appears either as a divine name in ritual contexts or—more substantively—as \"truthfulness,\" a paramount ethical virtue and vow (*vrata*). It is elevated as the supreme *dharma* (righteousness), superior to other duties and essential to moral conduct, with lying (*anṛta*) deemed the gravest sin. Core Smṛti like Manusmṛti, Yājñavalkya Smṛti, and Nāradasmṛti do not yield direct discussions of *satya* as truthfulness in the English translations available (though they may use contextual synonyms or retain the term without matching search phrases).[^1]\n\n### *Satya* as an Ethical Virtue and Vow\n- **One of Yama's Five Vows**: *Satya* (truthfulness) is the third vow of *Yama* (lord of death and dharma), defined as \"speaking what is true\" while avoiding deceit, harsh words, oaths, curses, or falsehood in speech and action. It must be guarded carefully, as \"there are many ways of speaking in the dregs of speech.\" The full set is *ahiṃsā* (non-violence), *brahmacarya* (chastity), *satya*, non-engagement in litigation (*apavyavahāra*), and *astainya* (non-stealing).[^2][^3]\n- **One of the Ten Dharmas**: *Satya* appears as \"not being false,\" alongside clarity of mind (*dhṛti*), forgiveness (*kṣamā*), sensory restraint (*indriyanigraha*), modesty (*hrī*), study (*vidyā*), and non-anger (*akrodha*).[^4]\n- **Supreme Dharma**: Slokantara declares *satya* \"the highest\" (*uttamam*) among all dharmas—like the head (*śira*) of the body, sun among lights, or Brahmin among humans. \"There is no dharma higher than truth (*satya*), nor any sin greater than untruth (*anṛta*).\" Truth must never be abandoned, as it underpins righteousness across the three worlds.[^5][^6]\n\n### Ritual and Cosmological Uses\n- In Aṅgirasa Smṛti, *Satya* names a set of *Viśvedevāḥ* (all-gods) invoked as pitṛs (ancestors) during śrāddha rites, addressed with \"vṛddha\" (great/ancestral). A related mantra \"*Satyaṃ tvartena...*\" accompanies food purification.[^7][^8]\n- Viṣṇu Smṛti lists *Satya* (with Vāsudeva, Acyuta, etc.) among deities offered during rituals.[^9]\n- Proper names like Satyavatī (in Parāśara Smṛti) or cosmological loci like *Satyaloka* (in related Indic texts) appear but do not define the virtue.[^10]\n\nThe corpus's Smṛti coverage emphasizes *satya*'s role in personal ethics and ritual purity over metaphysical truth (e.g., no Vedānta-style discussions). Related Buddhist-influenced Indic works like San Hyan Kamahayanikan repurpose *satya* for the Four Noble Truths (*caturāryyasatya*), but these fall outside core Hindu Smṛti.[^11]\n\n[^1]: No direct conceptual treatments in Manusmṛti, Kātyāyana Smṛti, etc., per English translation searches for \"satya,\" \"truth,\" or \"truthfulness.\"\n\n[^2]: *Vratisasana*, Chapter 1, [paragraph](/works/unknown-vratisasana-d0fe75/01/translation/#p-617310).\n\n[^3]: *Vratisasana*, Chapter 1, [paragraph](/works/unknown-vratisasana-d0fe75/01/translation/#p-c93922).\n\n[^4]: *Vratisasana*, Chapter 1, [paragraph](/works/unknown-vratisasana-d0fe75/01/translation/#p-a90fd7).\n\n[^5]: *Slokantara*, Chapter 1, [paragraph](/works/unknown-slokantara-d7a628/01/translation/#p-5fa330).\n\n[^6]: *Slokantara*, Chapter 1, [paragraph](/works/unknown-slokantara-d7a628/01/translation/#p-bad244).\n\n[^7]: *Aṅgirasa Smṛti*, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-30f5b4).\n\n[^8]: *Aṅgirasa Smṛti*, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-10595c).\n\n[^9]: *Viṣṇu Smṛti*, Chapter 67, [paragraph](/works/unknown-visnu-smrti-27f0d8/67/translation/#p-2d84be).\n\n[^10]: *Parāśara Smṛti*, Chapter 1, [paragraph](/works/unknown-parasara-smrti-2259be/01/translation/#p-22e02e).\n\n[^11]: E.g., *San Hyan Kamahayanikan*, Chapter 1, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-5a0bfe).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "satya",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"truth\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-c93922",
+          "p-617310",
+          "p-44c4d7",
+          "p-a90fd7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-5fa330",
+          "p-bad244"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-30f5b4",
+          "p-10595c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"satya\" truthfulness",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"highest\" satya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-617310"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-c93922"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-a90fd7"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-5fa330"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-bad244"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-30f5b4"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-10595c"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-2d84be"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-22e02e"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-5a0bfe"
+    }
+  ],
+  "duration_ms": 54029,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 14334,
+    "completion_tokens": 5093,
+    "total_tokens": 19427,
+    "cached_tokens": 4361,
+    "api_calls": 3,
+    "cost_usd": 0.00475915,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 543,
+        "total_tokens": 2095,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005594
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4066,
+        "completion_tokens": 1695,
+        "total_tokens": 5761,
+        "cached_tokens": 150,
+        "cost_usd": 0.0016382
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8716,
+        "completion_tokens": 2855,
+        "total_tokens": 11571,
+        "cached_tokens": 4061,
+        "cost_usd": 0.00256155
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "answer": "**Chapter 5 of the *Viṣṇu Smṛti* prescribes the punishment for a Brāhmaṇa's theft.**\n\nThis chapter outlines punishments for major sins (*mahāpātakas*), stating that while others face death, a Brāhmaṇa faces no corporal punishment but shall be branded (with specific marks for each sin) and banished from the country.[^1] Specifically, for theft (*steya*), the Brāhmaṇa \"shall [have] the mark of a dog's foot\" branded.[^2] General theft punishments (e.g., fines or limb amputation for large thefts) apply later in the chapter but are not for Brāhmaṇas, given the explicit exemption from corporal punishment.[^3]\n\nNo other chapters address this directly; Chapter 37 merely lists theft as a minor sin (*upapātaka*) without Brāhmaṇa-specific penalties.[^4]\n\n[^1]: *Viṣṇu Smṛti*, Chapter 5, [translation](/works/unknown-visnu-smrti-27f0d8/05/translation/).\n\n[^2]: *Viṣṇu Smṛti* 5.6, [paragraph](/works/unknown-visnu-smrti-27f0d8/05/translation/#p-8d4644).\n\n[^3]: *Viṣṇu Smṛti* 5.2 and 5.81–82, [paragraphs](/works/unknown-visnu-smrti-27f0d8/05/translation/#p-a40d4c).\n\n[^4]: *Viṣṇu Smṛti*, Chapter 37, [translation](/works/unknown-visnu-smrti-27f0d8/37/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahmin theft punishment",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin\" steals",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmana\" theft",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Visnu Smriti\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Vishnu Smriti\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahmin punishment theft Visnu",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"slug\":\"unknown-visnu-smrti-27f0d8\",\"title\":\"Viṣṇu Smṛti\",\"author\":\"Viṣṇu\",\"author_slug\":\"visnu\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Sanskrit\",\"la"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmana\" steal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahmin thief",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cut off\" hand Brahmin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "theft",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "thief",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "steals",
+        "limit": 20
+      },
+      "result_summary": "Found 18 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "steal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 37,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.37 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 38,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.38 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brāhmana\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahmana theft"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 38,
+      "paragraph_id": "p-8d4644"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 38,
+      "paragraph_id": "p-a40d4c"
+    }
+  ],
+  "duration_ms": 42706,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 66416,
+    "completion_tokens": 4226,
+    "total_tokens": 70642,
+    "cached_tokens": 10435,
+    "api_calls": 6,
+    "cost_usd": 0.013830950000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 555,
+        "total_tokens": 2109,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00035865
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 1792,
+        "completion_tokens": 495,
+        "total_tokens": 2287,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00037655
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5293,
+        "completion_tokens": 407,
+        "total_tokens": 5700,
+        "cached_tokens": 1787,
+        "cost_usd": 0.00099405
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10080,
+        "completion_tokens": 862,
+        "total_tokens": 10942,
+        "cached_tokens": 5288,
+        "cost_usd": 0.0016538
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19451,
+        "completion_tokens": 668,
+        "total_tokens": 20119,
+        "cached_tokens": 150,
+        "cost_usd": 0.0042017
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 28246,
+        "completion_tokens": 1239,
+        "total_tokens": 29485,
+        "cached_tokens": 150,
+        "cost_usd": 0.0062462
+      }
+    ]
+  }
+}

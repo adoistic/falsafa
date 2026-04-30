@@ -1,0 +1,332 @@
+{
+  "answer": "In the *Manusmṛti*, a *snātaka* is a Brahmana (or more broadly, a twice-born) who has completed Vedic studentship (*brahmacarya*) and returned to the householder (*gṛhastha*) stage of life.[^1] He is highly honored, taking precedence over even a king in matters of respect and right-of-way.[^2] The *Viṣṇu Smṛti* does not mention or define the *snātaka*, nor does it prescribe rules for him.\n\nThe rules governing a *snātaka*'s life emphasize purity, self-control, Vedic study, avoidance of impurity, and ritual observance. These are detailed primarily in *Manusmṛti* Chapter 4 (the \"duties of the graduate,\" *snātakadharmaprakaraṇa*), beginning with Mn 4.13:\n\n- **General vows and conduct**: Perform Vedic duties without fail; avoid excessive desire for wealth or forbidden occupations; restrain the senses; study sacred texts; perform the five great sacrifices (*mahāyajñas*). Contentment is paramount.[^3]\n- **Grooming and attire**: Keep hair, nails, and beard clipped; wear clean white garments; carry a bamboo staff, water-pot, sacred thread, and gold earrings. Avoid old/dirty clothes if wealthy.[^4]\n- **Diet and alms**: Never perish from hunger (seek support from a king, sacrificer, or pupil if needed); distribute food daily; avoid overeating or food from extracted oil.[^5]\n- **Prohibitions on gaze and action**: Never look at the sun (rising/setting/eclipsed/reflected/overhead), urine/feces, one's reflection, or a wife's intimate acts (eating, sneezing, etc., or during menstruation/birth). Do not step on shadows of superiors/deities.[^6]\n- **Purity rituals**: Specific rules for urination/defecation (e.g., cover ground first, face north by day/south by night, avoid facing wind/fire/sun/etc.); sip water frequently; bathe appropriately.[^7]\n- **Daily/seasonal observances**: Agnihotra twice daily; seasonal/new-grain sacrifices; celibacy on new/eighth/full/14th lunar days; twilight worship.[^8]\n- **Travel and associations**: Avoid certain vehicles/companions; do not reside in unjust/unhealthy realms; honor superiors/guests; avoid Shudras in teaching/Dharma discourse.[^9]\n\nA *snātaka* observes these as an \"eternal rule of life\" (*nityam*) bridging studentship and full householder duties, culminating in transition to forest-dweller (*vānaprastha*) after seeing wrinkles/gray hair and grandchildren.[^10]\n\n[^1]: Manusmṛti, [Chapter 4, paragraph p-8b8ea4](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).\n\n[^2]: Manusmṛti, [Chapter 2, paragraphs p-373458 & p-334e9c](/works/unknown-manusmrti-347b76/02/translation/#p-373458).\n\n[^3]: Manusmṛti, [Chapter 4, paragraphs p-cfdc03 to p-8b8ea4](/works/unknown-manusmrti-347b76/04/translation/#p-cfdc03).\n\n[^4]: Manusmṛti, [Chapter 4, paragraph p-8b8ea4](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).\n\n[^5]: Manusmṛti, [Chapter 4, paragraph p-8b8ea4](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).\n\n[^6]: Manusmṛti, [Chapter 4, paragraphs p-fe84bb to p-45a0c8](/works/unknown-manusmrti-347b76/04/translation/#p-fe84bb).\n\n[^7]: Manusmṛti, [Chapter 4, paragraphs p-587a2a to p-d8f23e](/works/unknown-manusmrti-347b76/04/translation/#p-587a2a).\n\n[^8]: Manusmṛti, [Chapter 4, paragraphs p-8b8ea4 to p-d8f23e](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).\n\n[^9]: Manusmṛti, [Chapter 4, paragraphs p-f3cdd6 to p-753ad3](/works/unknown-manusmrti-347b76/04/translation/#p-f3cdd6).\n\n[^10]: Manusmṛti, [Chapter 6, paragraph p-89d810](/works/unknown-manusmrti-347b76/06/translation/#p-89d810).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "snataka",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "snātaka"
+      },
+      "result_summary": "Found 18 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"completed his studentship\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "snataka OR snātaka OR snātrika"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "snātakācārya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "snātaka",
+        "limit": 50
+      },
+      "result_summary": "Found 18 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "snātaka site:unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-8b8ea4"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-334e9c",
+          "p-373458"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "paragraph_range": {
+          "start": 12,
+          "end": 35
+        }
+      },
+      "result_summary": "Returned 24 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "paragraph_range": {
+          "start": 36,
+          "end": 60
+        }
+      },
+      "result_summary": "Returned 25 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-373458",
+          "p-334e9c"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-89d810"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-8b8ea4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-373458"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-334e9c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-cfdc03"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-fe84bb"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-45a0c8"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-587a2a"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-d8f23e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-f3cdd6"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-753ad3"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-89d810"
+    }
+  ],
+  "duration_ms": 53670,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 147613,
+    "completion_tokens": 5003,
+    "total_tokens": 152616,
+    "cached_tokens": 67507,
+    "api_calls": 5,
+    "cost_usd": 0.02189805,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1566,
+        "completion_tokens": 444,
+        "total_tokens": 2010,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005127
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1879,
+        "completion_tokens": 872,
+        "total_tokens": 2751,
+        "cached_tokens": 1532,
+        "cost_usd": 0.000582
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8936,
+        "completion_tokens": 948,
+        "total_tokens": 9884,
+        "cached_tokens": 150,
+        "cost_usd": 0.0022387
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 56749,
+        "completion_tokens": 1121,
+        "total_tokens": 57870,
+        "cached_tokens": 8931,
+        "cost_usd": 0.01057065
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 78483,
+        "completion_tokens": 1618,
+        "total_tokens": 80101,
+        "cached_tokens": 56744,
+        "cost_usd": 0.007994
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "answer": "**The work is *Old English Elegies* by Unknown (chapter 13: \"Welund him be wurman wraeces cunnade\"), containing the Old English poem known as \"Deor.\"**[^1]\n\nThis chapter features a stanzaic catalogue of legendary misfortunes—Weland (Wayland the Smith) bound by Niðhad with sinew-fetters; Beadohild's unwilling pregnancy; Mæðhild (Mæthhild) and Geat's excessive love; Theodric's thirty winters in the Mærings' stronghold; and Eormanric's wolfish rule over the Goths—each closing with the refrain \"That passed over; so may this.\" The speaker, a displaced *scop* (poet), then names himself Deor, ousted from the Heodenings' favor by the rival Heorrenda.[^2]\n\nThree occurrences of the refrain (from the stanzas on Weland, Beadohild, and the speaker's self-naming):\n\n> supple sinew-bonds on a better man.  \n> **That passed over; so may this.**[^3]\n\n> face with firmness what would come of that.  \n> **That passed over; so may this.**[^4]\n\n> which the protector of earls had granted me before.  \n> **That passed over; so may this.**[^5]\n\n[^1]: *Old English Elegies*, ch. 13 (\"Welund him be wurman wraeces cunnade\"), [translation](https://falsafa.corpus/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/).\n\n[^2]: Ibid., [p-6b7e51](https://falsafa.corpus/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-6b7e51).\n\n[^3]: Ibid., [p-1308a0](https://falsafa.corpus/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-1308a0).\n\n[^4]: Ibid., [p-d11ebc](https://falsafa.corpus/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-d11ebc).\n\n[^5]: Ibid., [p-6b7e51](https://falsafa.corpus/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-6b7e51).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Heorrenda",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Weland Niðhad",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wolf-minded\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.13 of unknown-old-english-elegies-d5fe9e (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-1308a0",
+          "p-d11ebc",
+          "p-5821a4",
+          "p-ac23ab",
+          "p-160f1c",
+          "p-6b7e51"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-6b7e51"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-1308a0"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-d11ebc"
+    }
+  ],
+  "duration_ms": 29794,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 12681,
+    "completion_tokens": 3272,
+    "total_tokens": 15953,
+    "cached_tokens": 5338,
+    "api_calls": 4,
+    "cost_usd": 0.0033715,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1661,
+        "completion_tokens": 540,
+        "total_tokens": 2201,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00037255
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2128,
+        "completion_tokens": 439,
+        "total_tokens": 2567,
+        "cached_tokens": 1534,
+        "cost_usd": 0.000415
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 4134,
+        "completion_tokens": 995,
+        "total_tokens": 5129,
+        "cached_tokens": 2123,
+        "cost_usd": 0.00100585
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 4758,
+        "completion_tokens": 1298,
+        "total_tokens": 6056,
+        "cached_tokens": 150,
+        "cost_usd": 0.0015781
+      }
+    ]
+  }
+}

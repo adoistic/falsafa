@@ -1,0 +1,261 @@
+{
+  "answer": "**Allama Iqbal's poetry in the Falsafa corpus (from *Bang-e-Dara*) uses \"shahīd\" (شاہد) once directly, in the sense of \"witness\" rather than \"martyr,\" and evokes martyrdom (\"shuhadā\") symbolically elsewhere.**[^1][^2][^3]\n\nIn \"Himalaya\" (*Bang-e-Dara Part 1*, ch. 25), a singing mountain stream is described in the Urdu as \"*Āina sa shahīd-e-qudrat ko dikhlaātī huī*\"—like a mirror displaying the \"witness of divine power/nature\" (*shahīd-e-qudrat*). The English translation renders the stanza as: \"A mirror to the face of Nature, it does seem, / Now striking, now avoiding rocks within the stream,\" capturing the stream's reflective role in revealing nature's divine testimony.[^1][^4]\n\nThe term \"martyrs\" (*shuhadā*) appears twice in translations, portraying their blood as regenerative:\n- In \"Dil se jo baat nikalti hai\" (*Bang-e-Dara Part 3*, ch. 4): \"The garden will be cleansed of thorn and weed; / The martyrs’ blood, a life-bestowing seed, / Is painting all the flowerbeds with red.\" Here, martyrs' sacrifice revives the \"garden\" of Islamic faith/nation amid decay.[^2]\n- In \"Huzoor Risalat Ma'ab Mein\" (*Bang-e-Dara Part 3*, ch. 11), a vial of blood represents \"Tripoli's martyrs,\" symbolizing the ummah's honor offered to the Prophet.[^3]\n\n**The corpus contains no explicit philosophical definition or prose discussion of \"shahīd\" by Iqbal** (only these poetic *Bang-e-Dara* sections). It lacks his major works like *The Reconstruction of Religious Thought in Islam*, where he explores related ideas of self-sacrifice, witnessing truth (*shahādat*), and khudī (selfhood) in Islamic revival. In Urdu poetic tradition, \"shahīd\" often blends witness/martyr, testifying to divine reality through life or death—Iqbal's usage aligns poetically but isn't analyzed here.[^5]",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shahid Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shahid",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"martyr\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"witness\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shahid OR martyr OR witness iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Philosophy"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shahid",
+        "limit": 5
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "paragraph_ids": [
+          "p-81b343"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "paragraph_ids": [
+          "p-81b343",
+          "p-87573e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-169e10"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-e4e5a8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 54986,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 49719,
+    "completion_tokens": 5813,
+    "total_tokens": 55532,
+    "cached_tokens": 22549,
+    "api_calls": 5,
+    "cost_usd": 0.00946795,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1551,
+        "completion_tokens": 538,
+        "total_tokens": 2089,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0003494
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2583,
+        "completion_tokens": 899,
+        "total_tokens": 3482,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009436
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "list_works"
+        ],
+        "prompt_tokens": 7241,
+        "completion_tokens": 1555,
+        "total_tokens": 8796,
+        "cached_tokens": 2578,
+        "cost_usd": 0.001839
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18144,
+        "completion_tokens": 1413,
+        "total_tokens": 19557,
+        "cached_tokens": 150,
+        "cost_usd": 0.0043128
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "list_works"
+        ],
+        "prompt_tokens": 20200,
+        "completion_tokens": 1408,
+        "total_tokens": 21608,
+        "cached_tokens": 18139,
+        "cost_usd": 0.00202315
+      }
+    ]
+  }
+}

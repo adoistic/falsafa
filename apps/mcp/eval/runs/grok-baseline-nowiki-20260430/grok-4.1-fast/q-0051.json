@@ -1,0 +1,137 @@
+{
+  "answer": "**Allama Iqbal's poem \"Bilad-e-Islamiya\" (The Abodes of Islam) from *Bang-e-Dara Part 3* eulogizes key cities and lands of Islamic history and civilization: Delhi, Baghdad, Cordoba, Constantinople (Istanbul), and Yathrib (Medina).**[^1]\n\nHere is the English translation:\n\n> The Abodes of Islam  \n> \n> The soil of Delhi is a shrine for the grief-stricken heart;  \n> In every particle, the blood of our forebears lies asleep.  \n> \n> How could the earth of this ruined garden not be sacred ground?  \n> This land is the sanctum of the majesty of Islam.  \n> \n> In this dust sleep the sovereigns of the Best of Nations,  \n> On whose governance the world's own order turned.  \n> \n> The heart still yearns for the warmth of that vibrant gathering's memory;  \n> The harvest is burnt, but the memory of the harvest is preserved.  \n> \n> Though Delhi is a shrine for every Muslim soul,  \n> Baghdad, too, is worthy of this sacred honor.  \n> \n> This is the garden that became the pride and glory  \n> Of that desert tulip known as the culture of Hijaz.  \n> \n> How could the dust of this city not rival Iram's own paradise,  \n> This ground that witnessed the steps of the Prophet's successors?  \n> \n> This is that garden whose every bud was a garden in itself;  \n> This is the final tomb of those before whom Rome would tremble.  \n> \n> The land of Cordoba, too, is the light of a Muslim's eye,  \n> A Lamp of Sinai that shone in the darkness of the West.  \n> \n> Its flame went out, and scattered the Shining Nation's assembly,  \n> Yet in its dying breath, it lit the lamp of the civilization of today.  \n> \n> This sacred land is the tomb of that civilization,  \n> From which the vine of Europe's garden drew its very lifeblood.  \n> \n> The realm of Constantinople, once the abode of Caesar,  \n> Now an eternal symbol of the Ummah's power and grandeur.  \n> \n> Like the dust of the Holy Sanctuary, this land is also pure;  \n> It is the threshold of a throne that serves the Lord of Creation's Purpose.  \n> \n> Its very air is as pure as the fragrance of a rose;  \n> From the tomb of Ayyub Ansari, a voice arises.  \n> \n> \"O Muslim! This city is the very heart of the Islamic nation;  \n> It is the harvest of centuries of struggle and sacrifice.\"  \n> \n> But you are that sacred land, O resting place of the Chosen One,  \n> For the Kaaba itself, a glimpse of you is more than the Great Pilgrimage could ever be.  \n> \n> In the ring of all existence, you shine bright like a gem;  \n> Your very soil was the birthplace of our own grandeur.  \n> \n> In you, that most exalted Sovereign at last found his peace;  \n> In the shelter of his mantle, the nations of the world found refuge.  \n> \n> Those who merely invoked his name became sovereigns of the world,  \n> Becoming successors to Caesar, heirs to the throne of Jamshid.  \n> \n> If the nationhood of Islam were bound to any single place,  \n> Then its foundation would be India—not Persia, not Syria.  \n> \n> Ah, Yathrib! You are the Muslim's true homeland, you are his sanctuary;  \n> You are the focal point that gathers all the rays of our soul's devotion.  \n> \n> As long as you endure on this earth, we too shall endure;  \n> If you are the morning, we are the pearls of dew within this garden.[^1]\n\n[^1]: Allama Iqbal, *Bang-e-Dara Part 3*, \"Bilad-e-Islamiya\" (translation), [full passage](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bilad-e-Islamiya"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cities of Islam\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Bilad"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "paragraph_range": {
+          "start": 0,
+          "end": 22
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 23 passages"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 49284,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 18346,
+    "completion_tokens": 4729,
+    "total_tokens": 23075,
+    "cached_tokens": 12218,
+    "api_calls": 4,
+    "cost_usd": 0.004201,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 367,
+        "total_tokens": 1920,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00026475
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2685,
+        "completion_tokens": 477,
+        "total_tokens": 3162,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00054615
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 6485,
+        "completion_tokens": 1882,
+        "total_tokens": 8367,
+        "cached_tokens": 2680,
+        "cost_usd": 0.001836
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 7623,
+        "completion_tokens": 2003,
+        "total_tokens": 9626,
+        "cached_tokens": 6480,
+        "cost_usd": 0.0015541
+      }
+    ]
+  }
+}

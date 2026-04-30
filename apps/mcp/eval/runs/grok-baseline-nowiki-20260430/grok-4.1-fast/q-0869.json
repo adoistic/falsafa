@@ -1,0 +1,281 @@
+{
+  "answer": "**Sanskrit *yajña*** appears frequently in the Indic Smṛti texts as a core Vedic ritual, denoting a \"sacred sacrifice\" involving structured oblations (e.g., porridge, ghee, or recitations) poured into fire for gods, ancestors, or cosmic maintenance.[^1][^2] It upholds *ṛta* (cosmic order), benefits the performer materially and spiritually, and ranks below superior acts like mental recitation in some hierarchies.[^3] Typical recipients are deities like the Vedic gods or Sadhyas; offerings are consumable via fire (*homa*), emphasizing reciprocity and action (*karma*).\n\n**Old English *lac* (also *læc*)** denotes a \"gift\" or \"offering,\" often to God in Cynewulf's Christian poetry, as in Juliana where the saint demands her suitor love \"with offerings\" (*mid lacum*) the Christian Creator of light, heaven, earth, and seas.[^4] It evokes devotion rather than precise rite; no direct animal immolation or fire-altar scenes appear in the OE corpus here, though it aligns with broader Anglo-Saxon Christian *giefu* (gift) to the monotheistic God.[^5]\n\n'sacrifice' broadly fits both as divinely directed offering of valuables (material or devotional). Similarities: value surrendered to higher power(s) for favor. Differences: *yajña*'s logic is ritualistic/polytheistic reciprocity via fire/consumable oblations for worldly/cosmic gain; *lac*'s is monotheistic love-gift without specified mechanics, prioritizing faith over formula. The corpus lacks OE Vedic-style *yajña* analogs, underscoring the registers' divergence.\n\n[^1]: Manusmṛti, [Chapter 1, p-4a11ea](/works/unknown-manusmrti-347b76/01/translation/#p-4a11ea).  \n[^2]: Manusmṛti, [Chapter 2, p-608007](/works/unknown-manusmrti-347b76/02/translation/#p-608007).  \n[^3]: Parāśara Smṛti, [Chapter 1, p-afd7d9](/works/unknown-parasara-smrti-2259be/01/translation/#p-afd7d9).  \n[^4]: Cynewulf, *Juliana*, [Chapter 1, p-d1312b](/works/cynewulf-juliana-9a2157/01/translation/#p-d1312b).  \n[^5]: The OE corpus (e.g., Andreas transliteration) uses *lac*-forms poetically (e.g., ships \"lack\" on voyage), but ritual use centers devotional contexts like Juliana; no fire-oblation scenes found.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yajna",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old english\" lac OR læc OR \"ritual offering\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lac OR læc sacrifice OR offering",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old english"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yaj OR yagna OR yajna OR yajña OR \"sacrifice\" ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old english\" OR \"cynewulf\" OR andreas OR elene lac OR læc OR \"offering\" OR sacrifice God",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacrifice\" OR offering God OR altar OR fire",
+        "limit": 20
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4a11ea"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-608007"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-afd7d9"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-992aeb"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-992aeb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d1312b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yajna OR sacrifice fire OR oblation OR gods",
+        "limit": 10
+      },
+      "result_summary": "Found 8 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-4a11ea"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-608007"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-afd7d9"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-d1312b"
+    }
+  ],
+  "duration_ms": 84164,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 65689,
+    "completion_tokens": 7688,
+    "total_tokens": 73377,
+    "cached_tokens": 16834,
+    "api_calls": 4,
+    "cost_usd": 0.0144567,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1597,
+        "completion_tokens": 500,
+        "total_tokens": 2097,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005469
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5298,
+        "completion_tokens": 3529,
+        "total_tokens": 8827,
+        "cached_tokens": 150,
+        "cost_usd": 0.0028016
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 11246,
+        "completion_tokens": 2277,
+        "total_tokens": 13523,
+        "cached_tokens": 5293,
+        "cost_usd": 0.00259375
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 47548,
+        "completion_tokens": 1382,
+        "total_tokens": 48930,
+        "cached_tokens": 11241,
+        "cost_usd": 0.00851445
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "answer": "**Cynewulf's runic signature in *Elene* appears at the poem's close as a hidden acrostic woven into the text.** The final passage embeds Old English runes that spell out his name (ᚳᚣᚾᛖᚹᚢᛚᚠ, or *Cyn(e)wulf*) across successive lines, a subtle claim of authorship disguised amid a meditation on transience and judgment.[^1]\n\n**Yājñavalkya's *Smṛti* opens by invoking a chain of prior sages and teachers as sources of *dharma*, positioning the text within an explicit tradition.** The rishis first honor Yājñavalkya before requesting instruction; he then lists eighteen prior Dharmaśāstra authors (e.g., Manu, Viṣṇu, Uśanas), establishing a public lineage of transmission from Vedic smṛti authorities.[^2]\n\n**Cynewulf's technique makes the text harder to forge.** A hidden rune acrostic demands precise replication of letter-sequence, meter, alliteration, and meaning—any alteration risks breaking the poem's form or exposing the signature, alerting copyists or scholars. Yājñavalkya's overt name-chain, while authoritative, is easily appended or edited (e.g., inserting fictitious sages), as ancient manuscripts often vary such colophons without disrupting core content.\n\n[^1]: Cynewulf, *Elene*, [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607) through [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).\n\n[^2]: Yājñavalkya, *Yājñavalkya Smṛti*, [paragraphs](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-97f0a4) through [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-95ef53).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Cynewulf runes signature Elene"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Yajnavalkya\" teachers chain opening"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "upanishad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Cynewulf rune",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Cynewulf signature",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chain of teachers\" OR \"lineage\" OR \"guru\" OR \"disciple\" Yajnavalkya",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya transmitted OR opening OR preface",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (original)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-d2e607"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-97f0a4"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-95ef53"
+    }
+  ],
+  "duration_ms": 46252,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 72848,
+    "completion_tokens": 3896,
+    "total_tokens": 76744,
+    "cached_tokens": 2670,
+    "api_calls": 4,
+    "cost_usd": 0.016117100000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1600,
+        "completion_tokens": 636,
+        "total_tokens": 2236,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006155
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2225,
+        "completion_tokens": 928,
+        "total_tokens": 3153,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008865
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5419,
+        "completion_tokens": 903,
+        "total_tokens": 6322,
+        "cached_tokens": 2220,
+        "cost_usd": 0.0012023
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 63604,
+        "completion_tokens": 1429,
+        "total_tokens": 65033,
+        "cached_tokens": 150,
+        "cost_usd": 0.0134128
+      }
+    ]
+  }
+}

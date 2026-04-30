@@ -1,0 +1,279 @@
+{
+  "answer": "**Allama Iqbal's poems in the corpus (from *Bang-e-Dara*) do not explicitly title or center exclusively on a single named city like \"Lahore\" or \"Delhi\" as their primary subject.** Searches for specific city names such as \"Lahore,\" \"Delhi,\" \"Baghdad,\" and others returned limited or no direct hits in the English translations, and no poem is structured as an ode solely to one urban center.[^1]\n\nHowever, two poems evoke specific places strongly associated with **Lahore** (though unnamed in the text), treating these locales as central motifs amid themes of transience, history, and nature:\n\n- **\"Kinaar-e-Ravi\"** (*Bang-e-Dara Part 1*, Chapter 28): Set on the banks of the Ravi River, it meditates on the river's flow, a disappearing boat as a metaphor for life, and distant minarets marking \"the Chughtai king's last sleep\" (referencing Emperor Jahangir's tomb complex near the Ravi in Lahore). The scene paints a vivid, contemplative portrait of this Lahore riverside.[^2]\n\n- **\"Goristan-e-Shahi\"** (*Bang-e-Dara Part 3*, Chapter 9; \"The Royal Graveyard\"): This elegy describes a desolate royal graveyard with ancient fortresses, tombs of kings, minarets, and ruins under moonlight, lamenting fallen empires and the dust of past glory. It matches Lahore's historic Goristan-e-Shahi (Imperial Cemetery), using the site as a symbol for mortality and lost Muslim majesty.[^3]\n\nOther poems reference cities secondarily rather than making one their subject:\n- **\"Bilad-e-Islamiya\"** (*Bang-e-Dara Part 3*, Chapter 2; \"The Abodes of Islam\"): Opens with Delhi (\"Jahanabad\") as a \"shrine\" for Muslim grief, then surveys Baghdad, Cordoba, Constantinople, and Medina/Yathrib as sacred Islamic sites.[^4]\n- **\"Fikr-e-insaan par teri hasti se yeh roshan hua\"** (*Bang-e-Dara Part 1*, Chapter 24): Mentions \"ruined Delhi's dust\" and \"Jahanabad\" while praising a poet (likely Ghalib).[^5]\n- **\"Saqaliya\"** (*Bang-e-Dara Part 2*, Chapter 21): Laments lost glory in Sicily, Baghdad, Jahanabad (Delhi), and Granada.[^6]\n\n**\"Himalaya\"** (*Bang-e-Dara Part 1*, Chapter 25) focuses on the mountain range, not a city.[^7] The corpus lacks poems dedicated to other cities like Mecca or Medina as subjects.\n\nIf your question refers to explicit city-named poems (e.g., a \"Lahore\" ode), none exist here—the 100 chapters across *Bang-e-Dara*'s three parts emphasize philosophy, nature, and Islamic revival over urban portraiture.[^8]\n\n[^1]: Search results for \"Lahore,\" \"Delhi,\" etc., in Iqbal works (various queries). E.g., [Delhi passages](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-1-55b25c/24-fikr-e-insaan-par-teri-hasti-se-yeh-roshan-hua/translation/#p-8f8009).\n\n[^2]: [*Bang-e-Dara Part 1*, Ch. 28, full chapter](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation-2/).\n\n[^3]: [*Bang-e-Dara Part 3*, Ch. 9, full chapter](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/).\n\n[^4]: [*Bang-e-Dara Part 3*, Ch. 2, full chapter](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation-2/#p-876603).\n\n[^5]: [*Bang-e-Dara Part 1*, Ch. 24, full chapter](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-1-55b25c/24-fikr-e-insaan-par-teri-hasti-se-yeh-roshan-hua/translation/#p-8f8009).\n\n[^6]: [*Bang-e-Dara Part 2*, Ch. 21, full chapter](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-02c3ef).\n\n[^7]: [*Bang-e-Dara Part 1*, Ch. 25, full chapter](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/).\n\n[^8]: Chapter lists for [Part 1](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-1-55b25c/), [Part 2](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-2-9bc58c/), [Part 3](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-3-cc61e8/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poem"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Lahore\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Delhi\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"city\" Iqbal poem"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Lahore"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Delhi"
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mecca"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Medina"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Baghdad"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "city"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28
+      },
+      "result_summary": "Read ch.28 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 24
+      },
+      "result_summary": "Read ch.24 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 21
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Lahore",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"royal graveyard\" OR \"shahi\" OR \"goristan\""
+      },
+      "result_summary": "Found 4 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-8f8009"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-876603"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-02c3ef"
+    }
+  ],
+  "duration_ms": 50571,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 51564,
+    "completion_tokens": 6118,
+    "total_tokens": 57682,
+    "cached_tokens": 30023,
+    "api_calls": 5,
+    "cost_usd": 0.00886835,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1548,
+        "completion_tokens": 426,
+        "total_tokens": 1974,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005001
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2032,
+        "completion_tokens": 667,
+        "total_tokens": 2699,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0005104
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8347,
+        "completion_tokens": 1108,
+        "total_tokens": 9455,
+        "cached_tokens": 2027,
+        "cost_usd": 0.00191935
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 17979,
+        "completion_tokens": 1335,
+        "total_tokens": 19314,
+        "cached_tokens": 8342,
+        "cost_usd": 0.003012
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21658,
+        "completion_tokens": 2582,
+        "total_tokens": 24240,
+        "cached_tokens": 17974,
+        "cost_usd": 0.0029265
+      }
+    ]
+  }
+}

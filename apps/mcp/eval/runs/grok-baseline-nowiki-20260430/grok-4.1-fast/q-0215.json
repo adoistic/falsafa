@@ -1,0 +1,233 @@
+{
+  "answer": "**Charles Comte's analysis of slavery in *Traité de Législation*, Vol. IV, contrasts Greek and Roman practices primarily through their effects on masters' attitudes toward labor, physical development, and moral decay.** While both societies viewed manual work as degrading—reserving it for slaves and fostering contempt among free citizens—Comte devotes far more attention to Rome, portraying its slavery as engendering profound societal corruption.[^1][^2]\n\nGreek slavery receives briefer treatment, often as a philosophical antecedent to Roman views. Comte notes that Greek philosophers like Aristotle and Plato enshrined labor's dishonor as a political principle: citizens should avoid mechanical arts, trade, or farming, leaving these to slaves of inferior spirit.[^3] Physical exercises (hunting, arms, gymnastics) became masters' privileges, strengthening their bodies while weakening slaves'.[^4] Yet, Comte implies Greek corruption was less systemic, citing Sparta's helots and Athens' slaves without extended moral critique.[^5]\n\nRoman slavery, by contrast, dominates Chapters 2, 3, and 6, where Comte details its **deeper corruption**. Initially honorable, Roman free men abandoned agriculture and trades as slaves proliferated post-conquests.[^6] Cato exemplified this: selling old slaves for profit while scorning \"vile professions.\"[^7] Morally, slavery bred idleness, gluttony, sensuality, and familial discord—masters reclined amid slaves fanning them, while women conspired against husbands amid concubines.[^8] Cruelty peaked in gladiatorial spectacles (Trajan slaughtered 10,000 men) and tortures like crucifixion, reserved for slaves.[^9] Pride stratified society (patricians vs. plebeians vs. slaves), fostering perfidy in politics.[^10]\n\nComte locates **Rome's deeper corruption in slavery's scale and institutionalization**: endless wars flooded markets with slaves, debasing all labor, amplifying vices (luxury, incest, spectacles), and eroding virtues. Greece's was more intellectual (philosophical justification), Rome's existential—corroding empire-wide morals, government, and independence.[^11]\n\n[^1]: Charles Comte, *Traité de Législation*, Vol. IV, [Chapter 3](/works/charles-comte-traite-de-legislation-vol-iv-bca040/03-de-l-influence-de-l-esclavage-sur-la-constitution-/translation/#p-1f1985).\n\n[^2]: Charles Comte, *Traité de Législation*, Vol. IV, [Chapter 6](/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/).\n\n[^3]: Charles Comte, *Traité de Législation*, Vol. IV, [Chapter 3](/works/charles-comte-traite-de-legislation-vol-iv-bca040/03-de-l-influence-de-l-esclavage-sur-la-constitution-/translation/#p-1f1985).\n\n[^4]: Charles Comte, *Traité de Législation*, Vol. IV, [Chapter 3](/works/charles-comte-traite-de-legislation-vol-iv-bca040/03-de-l-influence-de-l-esclavage-sur-la-constitution-/translation/#p-48c4b7).\n\n[^5]: Charles Comte, *Traité de Législation*, Vol. IV, [Chapter 3](/works/charles-comte-traite-de-legislation-vol-iv-bca040/03-de-l-influence-de-l-esclavage-sur-la-constitution-/translation/#p-2bf5e4).\n\n[^6]: Charles Comte, *Traité de Législation*, Vol. IV, [Chapter 3](/works/charles-comte-traite-de-legislation-vol-iv-bca040/03-de-l-influence-de-l-esclavage-sur-la-constitution-/translation/#p-3002dd).\n\n[^7]: Charles Comte, *Traité de Législation*, Vol. IV, [Chapter 3](/works/charles-comte-traite-de-legislation-vol-iv-bca040/03-de-l-influence-de-l-esclavage-sur-la-constitution-/translation/#p-996183).\n\n[^8]: Charles Comte, *Traité de Législation*, Vol. IV, [Chapter 6](/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-f5546b), [#p-68f20e](#p-68f20e), [#p-ea415d](#p-ea415d).\n\n[^9]: Charles Comte, *Traité de Législation*, Vol. IV, [Chapter 6](/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-ced9fc), [#p-20fe4f](#p-20fe4f), [#p-3f6372](#p-3f6372).\n\n[^10]: Charles Comte, *Traité de Législation*, Vol. IV, [Chapter 6](/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-e4e498), [#p-dec47c](#p-dec47c).\n\n[^11]: Charles Comte, *Traité de Législation*, Vol. IV, [Chapter 6](/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-dbaf78).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"greek slavery\" OR \"roman slavery\" OR \"greece slavery\" OR \"rome slavery\" comte",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slavery\" greece OR rome OR greek OR roman traité législation",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slavery greek OR rome OR roman OR greece traité législation vol iv OR \"vol. iv\" OR \"volume iv\" OR \"charles comte\" OR \"comte\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"esclavage\" greece OR rome OR grec OR romain OR athènes OR sparte OR rome charles comte législation",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Athens\" OR \"Sparta\" OR \"Greek\" OR \"Hellen\" OR \"Athen\" OR \"Spart\" législation OR comte",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-1f1985"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-48c4b7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-2bf5e4"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-3002dd"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-996183"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-f5546b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-68f20e"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-ea415d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-ced9fc"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-20fe4f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-3f6372"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-e4e498"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-dec47c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-dbaf78"
+    }
+  ],
+  "duration_ms": 50115,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 198549,
+    "completion_tokens": 3741,
+    "total_tokens": 202290,
+    "cached_tokens": 18753,
+    "api_calls": 4,
+    "cost_usd": 0.07058105,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1574,
+        "completion_tokens": 465,
+        "total_tokens": 2039,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00031795
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8741,
+        "completion_tokens": 504,
+        "total_tokens": 9245,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019777
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16929,
+        "completion_tokens": 897,
+        "total_tokens": 17826,
+        "cached_tokens": 150,
+        "cost_usd": 0.0038118
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 171305,
+        "completion_tokens": 1875,
+        "total_tokens": 173180,
+        "cached_tokens": 16924,
+        "cost_usd": 0.0644736
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "answer": "**Kalpabuddha** describes the internalization of the five Tathāgatas (Vairocana, Akṣobhya, Ratnasambhava, Amitābha, Amoghasiddhi) within the practitioner's body, where they manifest as the five wisdoms (*pañcajñāna*: *śāśvatajñāna*, *ādarśajñāna*, *samatājñāna*/*ākāśamatājñāna*, *pratyavekṣaṇajñāna*, *kṛtyānuṣṭhānajñāna*) associated with the senses (eyes, ears, nose, mouth, heart). Its central claim is that, upon returning to their *lokadhātus*, these Tathāgatas reside in the body as the senses (*pañcendriya*), accompanied by their *devīs*, collectively forming the Divine Five-Souls (*Pañcātma*) that constitute the self (*ātman*). This realization of the *Pañcātma*—the \"supreme secret\"—is presented as the text's culminating insight.[^1][^2]\n\n**San Hyan Mahājñāna** (\"The Sacred Supreme Wisdom\") expounds a hierarchical progression of consciousness states (*avasthās*): *jāgrat* (waking), *svapna* (dreaming), *suṣupti* (deep sleep), *tūrya* (fourth state), *tūryānta*, *kaivalya* (isolation), and *paramakaivalya* (supreme isolation), mapped to bodily loci (navel, heart, throat, forehead, hand, head), colors, deities (from Brahmā to Paramaśiva), and *yugas*. Its central claim is that *mahājñāna* reveals Śiva/Paramashiva as the ultimate reality (*paramakaivalya*), abiding in the *ātma-liṅga* and \"void within the void\" at the heart's apex—a qualityless, eternal, formless *mokṣa* beyond manifestation (*vyakta*) and unmanifest (*avyakta*), accessed via *oṃkāra*, breath control, and guru-upadeśa.[^3]\n\nThese texts do not name the identical end-state. *Kalpabuddha*'s Buddhist tantric terminus—the embodied *pañcajñāna* as *Pañcātma*—resembles a preparatory integration of wisdoms and subtle-body principles, akin to a \"milestone\" in *San Hyan Mahājñāna*'s Shaiva schema. There, *kaivalya*/*kevala* (pure isolation) is an penultimate state preceding *paramakaivalya*, the non-dual void-Shiva beyond deity-multiplicities or body-localizations.[^4] No corpus evidence equates the two directly; *Kalpabuddha* lacks *kevala-jñāna* phrasing, treating fivefold wisdom as final, while *San Hyan* transcends such structures.\n\n[^1]: *Kalpabuddha*, Chapter 6, [paragraph](/works/unknown-kalpabuddha-d760dc/06/translation/#p-c8567e).\n\n[^2]: *Kalpabuddha*, Chapters 1–5, e.g., [Chapter 1, paragraph](/works/unknown-kalpabuddha-d760dc/01/translation/#p-e1c8df); [Chapter 2, paragraph](/works/unknown-kalpabuddha-d760dc/02/translation/#p-5a580a).\n\n[^3]: *San Hyan Mahājñāna*, Chapter 1, [paragraphs](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-9194a6) (kaivalya/*paramakaivalya* as \"seven skies\"); [paragraph](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-f7e6ce) (Śiva in void); [paragraph](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-ad1274) (*jñānasandhi* as mokṣa).\n\n[^4]: *San Hyan Mahājñāna*, Chapter 1, [paragraph](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-c25d64) (progression to *paramakaivalya*). No *kewala-jñāna*/*kevala-jñāna* in *Kalpabuddha*; nearest corpus hit is *kevalaśuddha* (pure isolation) as a *Gaṇapatitattva* liberation stage ([paragraph](/works/unknown-ganapatitattva-66a136/01/translation/#p-dd5818)).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kalpabuddha",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "San Hyan Mahājñāna",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kewala-jñāna",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mahājñāna",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "jain"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "pali"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "Listed 6 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kevala\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"jnana\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"jñāna\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"San Hyan\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kevala",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jñāna",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-c8567e"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-e1c8df"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-5a580a"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-9194a6"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-f7e6ce"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-ad1274"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-c25d64"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-dd5818"
+    }
+  ],
+  "duration_ms": 61518,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 66373,
+    "completion_tokens": 5474,
+    "total_tokens": 71847,
+    "cached_tokens": 17712,
+    "api_calls": 5,
+    "cost_usd": 0.0133548,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1583,
+        "completion_tokens": 657,
+        "total_tokens": 2240,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006226
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2023,
+        "completion_tokens": 682,
+        "total_tokens": 2705,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00051625
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5919,
+        "completion_tokens": 956,
+        "total_tokens": 6875,
+        "cached_tokens": 2018,
+        "cost_usd": 0.0013591
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 8106,
+        "completion_tokens": 725,
+        "total_tokens": 8831,
+        "cached_tokens": 5914,
+        "cost_usd": 0.0010966
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 48742,
+        "completion_tokens": 2454,
+        "total_tokens": 51196,
+        "cached_tokens": 8101,
+        "cost_usd": 0.00976025
+      }
+    ]
+  }
+}

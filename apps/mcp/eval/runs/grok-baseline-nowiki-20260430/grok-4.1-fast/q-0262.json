@@ -1,0 +1,253 @@
+{
+  "answer": "Ghalib frequently deploys *fanaa* (annihilation, or ego-dissolution into the divine or beloved) as a ecstatic, desirable state of mystical union and release, often through Sufi imagery like a dewdrop merging into the ocean or sun—blissful self-loss amid love's pain.[^1][^2] He portrays it as life's profound joy, a cure beyond limits, and proof of transient existence, aligning with classical Persianate ghazal traditions where annihilation yields transcendence.[^3]\n\nIqbal, by contrast, engages *fanaa* more critically within love and sorrow's philosophy, rejecting it as love's true endpoint. He argues that the beloved's departure does not equate to annihilation, for love endures as an inner fire, securing the beloved's permanence against oblivion.[^4] Life's vessel \"vanishes from sight, but... does not perish,\" emphasizing persistence over dissolution.[^5] While the corpus does not contain Iqbal's explicit prose reframing of *fanaa* as antithetical to *khudi* (self-realization)—a core theme in his later works like *Asrar-e-Khudi* (absent here)—his poetry subordinates annihilation to enduring spirit, sorrow as polish for the soul, and love's eternity, fostering a resilient, active Muslim consciousness over passive merger.[^6]\n\nThis marks a modernist pivot: Ghalib's romantic, apophatic surrender versus Iqbal's reconstructive affirmation of self amid flux.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [ch. 86, ¶1](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/86-ishrat-e-qatra-hai-darya-mein-fana-ho-jaana/translation/#p-a9ff31).  \n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [ch. 46](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/46-garm-faryaad-rakha-shakl-e-nihaali-ne-mujhe/translation/).  \n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [ch. 18, ¶3](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/18-be-etedaaliyon-se-subuk-sab-mein-hum-huay/translation/#p-da73dd).  \n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, [ch. 7, ¶3](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-e693fc).  \n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, [ch. 28, ¶12](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-1c94bb).  \n[^6]: Allama Iqbal, *Bang-E-Dara Part 3*, [ch. 7](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fanaa",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fana fi Allah\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fanaa Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fana",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "annihilation",
+        "limit": 20
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self annihilation\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 86,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.86 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 46,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.46 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 18,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.18 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.28 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"khudi\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "self Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "topic": "fanaa"
+      },
+      "result_summary": "{\"topic\":\"fanaa\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-a9ff31"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-da73dd"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-e693fc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-1c94bb"
+    }
+  ],
+  "duration_ms": 52157,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 69978,
+    "completion_tokens": 4390,
+    "total_tokens": 74368,
+    "cached_tokens": 33289,
+    "api_calls": 4,
+    "cost_usd": 0.011197249999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1571,
+        "completion_tokens": 477,
+        "total_tokens": 2048,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005302
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2311,
+        "completion_tokens": 577,
+        "total_tokens": 2888,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007282
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 30688,
+        "completion_tokens": 1479,
+        "total_tokens": 32167,
+        "cached_tokens": 2306,
+        "cost_usd": 0.0065312
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "compare_works"
+        ],
+        "prompt_tokens": 35408,
+        "completion_tokens": 1857,
+        "total_tokens": 37265,
+        "cached_tokens": 30683,
+        "cost_usd": 0.00340765
+      }
+    ]
+  }
+}

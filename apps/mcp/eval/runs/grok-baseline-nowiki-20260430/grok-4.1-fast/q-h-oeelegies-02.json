@@ -1,0 +1,198 @@
+{
+  "answer": "**The work is *Old English Elegies* (Chapter 16, \"Wraetlic is þes wealstan\" — commonly known as \"The Ruin\").**[^1]\n\nThis Old English poem contemplates the ruins of a once-great (Roman) city, describing its massive walls as the \"work of giants,\" with \"roofs [...] toppled, towers in ruin, the barred gate plundered.\"[^2] It then specifically evokes the city's elaborate bath-houses:\n\n> Stone courts stood; a stream threw up heat  \n> in a wide surge; a wall enclosed all  \n> within its bright embrace, where the baths were,  \n> hot at their heart. That was a welcome thing.  \n> They let pour then over the grey stone  \n> hot streams [...]  \n> [...] until the round pool grew hot [...][^3]\n\n[^1]: *Old English Elegies*, [Chapter 16](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/translation/).\n\n[^2]: *Old English Elegies*, [paragraph](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/translation/#p-d0d2bd).\n\n[^3]: *Old English Elegies*, [paragraph](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/translation/#p-dfdbda).  \n(The quoted translation by Thothica includes ellipses where the fragmentary manuscript is damaged or obscure.)",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "work of giants",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"stream threw up heat\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bright embrace\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "baths",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"grey stone\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"round pool\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bath hot",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16
+      },
+      "result_summary": "Read ch.16 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-dfdbda"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-d0d2bd",
+          "p-ba51da",
+          "p-dfdbda"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-d0d2bd"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-dfdbda"
+    }
+  ],
+  "duration_ms": 33376,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 58556,
+    "completion_tokens": 3192,
+    "total_tokens": 61748,
+    "cached_tokens": 34642,
+    "api_calls": 5,
+    "cost_usd": 0.0081109,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1637,
+        "completion_tokens": 375,
+        "total_tokens": 2012,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0002848
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2291,
+        "completion_tokens": 490,
+        "total_tokens": 2781,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0004731
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 4938,
+        "completion_tokens": 378,
+        "total_tokens": 5316,
+        "cached_tokens": 2286,
+        "cost_usd": 0.0008337
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 24360,
+        "completion_tokens": 582,
+        "total_tokens": 24942,
+        "cached_tokens": 4933,
+        "cost_usd": 0.00442305
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 25330,
+        "completion_tokens": 1367,
+        "total_tokens": 26697,
+        "cached_tokens": 24355,
+        "cost_usd": 0.00209625
+      }
+    ]
+  }
+}

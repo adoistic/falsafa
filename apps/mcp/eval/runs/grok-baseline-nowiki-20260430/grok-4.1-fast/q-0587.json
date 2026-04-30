@@ -1,0 +1,188 @@
+{
+  "answer": "In *Traité de Législation Vol. I*, Charles Comte uses the term *méthode analytique* (analytical method) to refer to the empirical, observational approach successful in the natural sciences and parts of the moral sciences (such as political economy), which he seeks to apply systematically to the study of morality and legislation.[^1] This method rejects theological authority, invented systems, sentiment-based intuition, or abstract principles (such as \"natural law,\" \"duty,\" or \"justice\") in favor of rigorously describing observable facts.[^2]\n\nComte defines it explicitly as \"to expound clearly and methodically the *causes*, the *nature*, and the *effects* of [an] action, [a] habit, or [a] law.\"[^3] More precisely, it entails:\n- **Tracing causes** back to originating facts in men (e.g., physical constitution, ideas, systems, relations) or things (e.g., climate, soil, geography).\n- **Determining nature** by examining a law's provisions, inherent force, and composing elements (e.g., physical/moral pains/pleasures, opinions).\n- **Describing effects** (good and bad) comprehensively, focusing only on those impacting peoples via objects or direct action, via the facts engendered.[^4]\n\nThe goal is neutral, descriptive science—like natural history or medicine—not prescription, exhortation, or utility-maximization as a rule of conduct. By exposing full cause-effect chains, it reveals why harmful habits/laws decline (as evil outweighs good) and beneficial ones spread, driving moral/legislative progress without imposing duties.[^5] Incomplete or false analysis, by contrast, sustains error (explored in Ch. 3).[^6]\n\n[^1]: Charles Comte, *Traité de Législation Vol. I*, Ch. 1 [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/01-chapitre-premier/translation/#p-87c578).\n\n[^2]: Charles Comte, *Traité de Législation Vol. I*, Ch. 1 [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/01-chapitre-premier/translation/#p-e80c5c).\n\n[^3]: Charles Comte, *Traité de Législation Vol. I*, Ch. 2 [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/02-de-la-methode-analytique-appliquee-a-l-etude-de-la/translation/#p-9c5de2).\n\n[^4]: Charles Comte, *Traité de Législation Vol. I*, Ch. 2 [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/02-de-la-methode-analytique-appliquee-a-l-etude-de-la/translation/#p-c1dbae).\n\n[^5]: Charles Comte, *Traité de Législation Vol. I*, Ch. 2 [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/02-de-la-methode-analytique-appliquee-a-l-etude-de-la/translation/#p-5219cf).\n\n[^6]: Charles Comte, *Traité de Législation Vol. I*, Ch. 2 [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/02-de-la-methode-analytique-appliquee-a-l-etude-de-la/translation/#p-338197).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"analytical method\" OR analytique OR \"méthode analytique\"",
+        "limit": 20
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"method analytical\" OR \"analytical\" Comte",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-9c5de2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-5219cf",
+          "p-338197",
+          "p-c1dbae"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e80c5c",
+          "p-87c578"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 1,
+      "paragraph_id": "p-87c578"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 1,
+      "paragraph_id": "p-e80c5c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 1,
+      "paragraph_id": "p-9c5de2"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 1,
+      "paragraph_id": "p-c1dbae"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 1,
+      "paragraph_id": "p-5219cf"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 1,
+      "paragraph_id": "p-338197"
+    }
+  ],
+  "duration_ms": 28147,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 59026,
+    "completion_tokens": 3138,
+    "total_tokens": 62164,
+    "cached_tokens": 31552,
+    "api_calls": 4,
+    "cost_usd": 0.0086414,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1557,
+        "completion_tokens": 356,
+        "total_tokens": 1913,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0002599
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3971,
+        "completion_tokens": 387,
+        "total_tokens": 4358,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009652
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 25911,
+        "completion_tokens": 893,
+        "total_tokens": 26804,
+        "cached_tokens": 3966,
+        "cost_usd": 0.0050338
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 27587,
+        "completion_tokens": 1502,
+        "total_tokens": 29089,
+        "cached_tokens": 25906,
+        "cost_usd": 0.0023825
+      }
+    ]
+  }
+}

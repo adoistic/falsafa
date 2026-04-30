@@ -1,0 +1,301 @@
+{
+  "answer": "**Allama Iqbal** celebrates *koshish* (effort or striving) as the perpetual, animating force of all life and the distinctive essence of humanity. In his poem \"Koshish-e-Natamam\" (\"Perpetual Striving\"), he depicts the universe itself as driven by restless yearning—from the morning's separation from the sun, to stars longing for motion, rivers for oceans, and waves for the moon—culminating in the immortal wisdom: \"Ask Khizr of the blessed step, the secret to obtain, / Through striving without end, all living things remain.\"[^1] Similarly, in \"Insaan\" (\"The Human Being\"), he contrasts passive nature with humanity's fiery dynamism: \"Whatever exists in the world is accustomed to submission; / Every power of the Human Being is aflame with striving.\"[^2] Iqbal's vision is one of cosmic empowerment, where endless effort fuels existence, self-realization, and transcendence.\n\n**Mirza Ghalib**, by contrast, portrays effort through a lens of irony, futility, and self-inflicted torment, often tying it to love's masochism or life's absurdities. In one ghazal, he likens himself to \"paper scorched by hungry flame,\" where \"Each scar, in striving to create a newer scar, its purpose found\" (*Daagh garm-e-koshish-e-eejaad-e-daagh-e-taaza tha* in the original).[^3] Another verse compares personal struggle to \"a caged bird... / To gather scraps of straw to build its nest in vain\" (*misaal yeh meri koshish ki hai ke murgh-e-aseer / kare qafas mein faraaham khas aashiyaan ke liye*).[^4] He critiques inertia harshly—\"This lack of striving is not peace, but blight\"—yet frames exertion as a tragic, Sisyphean cycle.[^5]\n\n**Iqbal's disposition toward exertion is more romantic**, envisioning it as a heroic, universe-sustaining passion that elevates the human spirit toward infinity. **Ghalib's is more sceptical**, viewing it as a compulsive, often pointless affliction that scars the soul amid fate's indifference—beautifully wrought, but shadowed by despair.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, \"Koshish-e-Natamam\" [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/17-koshish-e-natamam/translation/#p-5cb383).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Insaan\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-cb3c43).\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, \"Shab khumaar-e-shauq-e-saaqi...\" [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/181-shab-khumaar-e-shauq-e-saaqi-rastakhez-andaaza-tha/translation/#p-2f941f).\n\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, \"naveed-e-aman hai bedaad-e-dost...\" [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/226-naveed-e-aman-hai-bedaad-e-dost-jaan-ke-liye/translation/#p-fa3946).\n\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, \"Gham nahin hota hai aazaadon...\" [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/51-gham-nahin-hota-hai-aazaadon-ko-besh-az-yak-nafas/translation/#p-41b49e).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "koshish"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"effort\" OR \"endeavour\" OR \"striving\" iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"effort\" OR \"endeavour\" OR \"striving\" ghalib"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 17,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-2-9bc58c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 181,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.181 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 181,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.181 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 226,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.226 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 226,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.226 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 51,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.51 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 17,
+        "paragraph_ids": [
+          "p-5cb383"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-cb3c43"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 181,
+        "paragraph_ids": [
+          "p-2f941f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 226,
+        "paragraph_ids": [
+          "p-b66241"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 51,
+        "paragraph_ids": [
+          "p-41b49e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 226,
+        "paragraph_ids": [
+          "p-fa3946"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 226,
+      "paragraph_id": "p-5cb383"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 226,
+      "paragraph_id": "p-cb3c43"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 226,
+      "paragraph_id": "p-2f941f"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 226,
+      "paragraph_id": "p-fa3946"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 226,
+      "paragraph_id": "p-41b49e"
+    }
+  ],
+  "duration_ms": 43541,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 49302,
+    "completion_tokens": 4702,
+    "total_tokens": 54004,
+    "cached_tokens": 29346,
+    "api_calls": 4,
+    "cost_usd": 0.0078095000000000005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1569,
+        "completion_tokens": 709,
+        "total_tokens": 2278,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006458
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11546,
+        "completion_tokens": 1046,
+        "total_tokens": 12592,
+        "cached_tokens": 150,
+        "cost_usd": 0.0028097
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 17510,
+        "completion_tokens": 1436,
+        "total_tokens": 18946,
+        "cached_tokens": 11541,
+        "cost_usd": 0.00248885
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 18677,
+        "completion_tokens": 1511,
+        "total_tokens": 20188,
+        "cached_tokens": 17505,
+        "cost_usd": 0.00186515
+      }
+    ]
+  }
+}

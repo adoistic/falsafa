@@ -1,0 +1,239 @@
+{
+  "answer": "**Two works in the corpus depict saintly figures undergoing physical torture:**\n\n- **Andreas** by Cynewulf: The apostle Andrew, a saintly missionary, is captured by the cannibalistic Mermedonians. He endures repeated, prolonged physical tortures including being bound in fetters, scourged all day long on multiple days with blows that cause sweat, blood, and broken bones, dragged repeatedly over rough streets until his body is torn and steaming with gore, and afflicted with deep wounds while praising God steadfastly.[^1][^2][^3][^4][^5]\n\n- **Juliana** by Cynewulf: The virgin martyr Saint Juliana resists pagan marriage and idolatry. Her father and suitor (Eleusius) order her stripped, scourged with whips, hung by her hair for hours while beaten, and later immersed in boiling lead—all of which she survives through faith until beheaded.[^6][^7]\n\nNo other works in the corpus match this description. Mentions of \"martyrs,\" \"saints,\" or \"torture\" elsewhere (e.g., in Iqbal's poetry or French treatises on slavery) are metaphorical, historical allusions, or unrelated to narrative depictions of saintly figures enduring physical torture.\n\n[^1]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-655ebf).\n\n[^2]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-5d78fc).\n\n[^3]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-17921e).\n\n[^4]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-34b202).\n\n[^5]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-dbf56f).\n\n[^6]: Cynewulf, *Juliana*, [Chapter 1](/works/cynewulf-juliana-9a2157/01/translation/#p-3fccbd).\n\n[^7]: Cynewulf, *Juliana*, [Chapter 1](/works/cynewulf-juliana-9a2157/01/translation/#p-7cffd3).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saint tortured",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "martyr tortured",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saint beaten",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saint scourged",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "holy man tortured",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"saint\" torture",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "martyr",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saint",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "torture",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"beaten with rods\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "scourged"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tormented OR beaten OR whipped OR flogged OR scourged OR tortured saint OR martyr",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-655ebf"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-5d78fc"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-17921e"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-34b202"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-dbf56f"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-3fccbd"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-7cffd3"
+    }
+  ],
+  "duration_ms": 42133,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 64310,
+    "completion_tokens": 3546,
+    "total_tokens": 67856,
+    "cached_tokens": 15110,
+    "api_calls": 4,
+    "cost_usd": 0.0123685,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1549,
+        "completion_tokens": 685,
+        "total_tokens": 2234,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00042295
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1919,
+        "completion_tokens": 600,
+        "total_tokens": 2519,
+        "cached_tokens": 1535,
+        "cost_usd": 0.00045355
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10137,
+        "completion_tokens": 1007,
+        "total_tokens": 11144,
+        "cached_tokens": 1914,
+        "cost_usd": 0.0022438
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 50705,
+        "completion_tokens": 1254,
+        "total_tokens": 51959,
+        "cached_tokens": 10132,
+        "cost_usd": 0.0092482
+      }
+    ]
+  }
+}

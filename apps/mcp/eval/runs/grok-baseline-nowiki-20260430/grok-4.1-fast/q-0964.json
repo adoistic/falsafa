@@ -1,0 +1,310 @@
+{
+  "answer": "**Manu’s *Manusmṛti* (Chapter 1) does not explicitly describe the universe as \"Brahma's exhalation\" (no such phrasing appears in the text, despite searches for breath, prāṇa, exhalation, or vāyu in cosmogonic contexts).** Instead, its central cosmogenic line is a classic golden egg (*hiraṇyagarbha*) narrative: the universe begins in unmanifest darkness; the Self-existent One (*svayambhū*) manifests, creates waters as first matter, places his seed in them to form a golden egg, is reborn within as *Brahma* (the grandfather), who dwells a year before splitting the egg into heaven/earth, middle realm, directions, and waters; from himself then emerge mind (both sat/asat), ego, great elements (*mahābhūta*), senses, etc., yielding all beings.[^1][^2] This unfolds cyclically over Brahma's \"days\" (kalpas of 1,000 divine yugas ~4.32 billion years), where he awakes from sleep to recreate mind → ether/sound → wind/touch → light/form → water/taste → earth/smell.[^3]\n\n**Vrhaspatitattva's central cosmogenic line is an analytic *Śaiva* ontology of 36 *tattvas* (principles):** The supreme *tattva* is dual—*cetana* (Conscious Principle: pure, eternal knowledge/awareness, subdivided into *paramaśiva-*, *sadāśiva-*, and *śivatattva*) and *acetana* (Unconscious Principle: inert, like stone, akin to *māyā*, void/forgetful). Their conjunction stains pure *cetana* (*śiva*-*tattva*) with impurity (*mala* = unconsciousness), yielding dazed souls (*ātmāns*), then *pradhāna* (gross *māyā*, forgetful/unconscious), *triguṇa* (*sattva/rajas/tamas*), *buddhi*, *ahaṃkāra*, senses/*indriyas*, subtle/*tanmātra* and gross/*mahābhūta* elements—manifesting the world.[^4][^5] Creation is not a one-off \"exhalation\" but an eternal veiling (*tirodhāna*) by *acetana*, resolvable via yoga to restore pure *cetana*.\n\n### Refinements (Vrhaspati as analytic elaboration)\nVrhaspatitattva's cetana/acetana dualism *refines* Manu's narrative by dissecting its mythic sequence into ontological principles, explaining *how* creation veils/diversifies unity:\n- **Sequential elements mirror tattva-evolution:** Manu's mind/ego/senses/elements → *ahaṃkāra* → *indriyas* → *pañcatanmātra*/*pañcamahābhūta*. Both end in the same *bhūta*s (ether from mind/sound, wind/touch, etc.).[^3][^6]\n- **Veiling as cosmogenic mechanism:** Manu's \"darkness\"/Brahma's sleep (universe \"asleep,\" then awoken) parallels *acetana*'s \"forgetting\" (*lupa*) staining *cetana* into forgetful *ātmā/pradhāna* (soul \"sleeps\" in unconscious, causing saṃsāra).[^7]\n- **Cyclic sport (*līlā*):** Manu's endless manvantaras/Brahma-days refine into eternal *cetana*-*acetana* interplay, with yoga \"un-staining\" to *mokṣa* (like Brahma's awakening recreates, but analytically resolvable). Dualism systematizes Manu's \"impelled by desire\" into *mala*-driven manifestation.\n\n### Cuts against (analytic dualism vs. narrative monism/theism)\nVrhaspatitattva *challenges* Manu's unified, *Brahma*-centric mythos with co-primal dualism and *Śaiva* hierarchy:\n- **Dualism vs. monistic emanation:** Manu derives all from *one* Self-existent/Brahma's body/seed/egg (no co-eternal unconscious); Vrhaspati posits irreducible *cetana/acetana* pair as root (*cetana* superior, but *acetana/māyā* not created by it—eternal counterpart, veiling pure Śiva). *Acetana* is not \"dispelled\" (contra Manu's darkness-banishing light) but constitutive.[^1][^4]\n- **Impersonal ontology vs. personal creator:** Manu's anthropomorphic Brahma (born, dwells, splits egg, assigns varnas/dharma) becomes subordinate to formless *paramaśiva*-*cetana*; creation is *acetana*-stain, not willful progeny from a \"great father.\" No egg; *pradhāna* as māyā's gross form.[^1][^5]\n- **Primacy of soteriology:** Manu culminates in dharma/varna-creation; Vrhaspati subordinates to tattva-knowledge/yoga, where *acetana* (not Brahma's will) causes bondage—cutting Manu's optimistic \"sportive\" cycles with grim veiling requiring *ṣaḍaṅgayoga*.\n\nThe corpus covers neither text's full tradition (e.g., no Purāṇic \"exhalation\" like *Bhāgavata* 3.26), but these align on Indic elemental sequences while diverging on origins (mythic unity vs. dual ontology).\n\n[^1]: *Manusmṛti*, Chapter 1, [paragraphs p-61df11 to p-f689c4](/works/unknown-manusmrti-347b76/01/translation/#p-61df11).\n\n[^2]: *Manusmṛti*, Chapter 1, [paragraphs p-7e00a7 to p-1dee6d](/works/unknown-manusmrti-347b76/01/translation/#p-7e00a7).\n\n[^3]: *Vrhaspatitattva*, Chapter 1, [paragraph p-c31df3](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-c31df3).\n\n[^4]: *Vrhaspatitattva*, Chapter 1, [paragraphs p-04d69c to p-c31df3](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-04d69c).\n\n[^5]: *Vrhaspatitattva*, Chapter 1, [paragraph p-643885](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-643885).\n\n[^6]: *Vrhaspatitattva*, Chapter 1 (body overview, e.g., post-p-5508aa on *bhūta*s).\n\n[^7]: *Vrhaspatitattva*, Chapter 1, [paragraphs p-695576 to p-a00f4f](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-695576).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vrhaspati"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahma exhalation"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cetana acetana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vrhaspati\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vrhaspatitattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cetana"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "acetana"
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"book 1\" OR chapter 1 brahma"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Indic"
+      },
+      "result_summary": "Listed 19 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "exhalation OR breath OR exhale OR prana OR vayu creation OR cosmogony",
+        "limit": 10
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu brahma creation universe"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-61df11",
+          "p-93cef0",
+          "p-54fad8",
+          "p-153021",
+          "p-cd6713",
+          "p-3bd729",
+          "p-f689c4"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 7 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-04d69c",
+          "p-c31df3",
+          "p-643885"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 70,
+          "end": 80
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 11 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-695576",
+          "p-a00f4f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-61df11"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-f689c4"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-7e00a7"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-1dee6d"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-c31df3"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-04d69c"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-643885"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-5508aa"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-695576"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-a00f4f"
+    }
+  ],
+  "duration_ms": 61673,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 112717,
+    "completion_tokens": 5722,
+    "total_tokens": 118439,
+    "cached_tokens": 64720,
+    "api_calls": 5,
+    "cost_usd": 0.0156964,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1609,
+        "completion_tokens": 581,
+        "total_tokens": 2190,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038295
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1862,
+        "completion_tokens": 672,
+        "total_tokens": 2534,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00047905
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 13844,
+        "completion_tokens": 746,
+        "total_tokens": 14590,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00291245
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 46299,
+        "completion_tokens": 1246,
+        "total_tokens": 47545,
+        "cached_tokens": 13839,
+        "cost_usd": 0.00780695
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 49103,
+        "completion_tokens": 2477,
+        "total_tokens": 51580,
+        "cached_tokens": 46294,
+        "cost_usd": 0.004115
+      }
+    ]
+  }
+}

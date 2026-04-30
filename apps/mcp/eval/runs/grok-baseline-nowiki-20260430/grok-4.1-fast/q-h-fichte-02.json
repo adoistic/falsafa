@@ -1,0 +1,115 @@
+{
+  "answer": "This satire appears in Johann Gottlieb Fichte's *Zurückforderung der Denkfreiheit von den Fürsten Europens* (A Demand for Freedom of Thought from the Princes of Europe), Chapter 2.[^1]\n\n> I admire in history, which is your favorite study, the wisdom of a series of the first Christian emperors. With every new government, truth changed; even during a single reign, if it lasted a little long, it had to be altered a couple of times. You have grasped the spirit of these maxims, but you—forgive the beginner in your art if he should err—have not yet penetrated deeply enough into it. One allows one and the very same truth to remain truth for too long; in this, modern statecraft has erred. The people finally grow accustomed to it, and take their habit of believing it for proof of its truth, whereas they should believe it solely and purely for the sake of your authority. Therefore, imitate your worthy models entirely, you princes; reject today what you commanded to be believed yesterday, and authorize today what you rejected yesterday, so that they never become unaccustomed to the idea that your will alone is the source of truth. You have, for example, for too long willed that one equals three; they have believed you, and unfortunately, they have become so accustomed to it that they have long since withheld the gratitude due to you, and believe they discovered it themselves. Avenge your authority; command, just once, that one equals one—not, of course, because the opposite contradicts itself, but because you will it.[^1]\n\n[^1]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-ed12aa).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "one equals three",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"early Christian emperors\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"one equals one\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-ed12aa"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-ed12aa"
+    }
+  ],
+  "duration_ms": 22847,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 29970,
+    "completion_tokens": 2532,
+    "total_tokens": 32502,
+    "cached_tokens": 14512,
+    "api_calls": 4,
+    "cost_usd": 0.0050832,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1636,
+        "completion_tokens": 338,
+        "total_tokens": 1974,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004737
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1943,
+        "completion_tokens": 177,
+        "total_tokens": 2120,
+        "cached_tokens": 1534,
+        "cost_usd": 0.000247
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 12683,
+        "completion_tokens": 702,
+        "total_tokens": 13385,
+        "cached_tokens": 150,
+        "cost_usd": 0.0028651
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 13708,
+        "completion_tokens": 1315,
+        "total_tokens": 15023,
+        "cached_tokens": 12678,
+        "cost_usd": 0.0014974
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "answer": "**The matla (opening couplet) of the first ghazal in *Diwan-E-Zauq* (Chapter 1: *Aankh us pur-jafa se ladti hai*) is:**\n\n**Transliteration:**  \nAankh us pur-jafa se ladti hai  \nJaan kashti qaza se ladti hai[^1]\n\n**Translation:**  \nMy eye against her cruel and faithless way contends,  \nMy soul against the ship of final fate contends.[^2]\n\nThis couplet introduces the ghazal's radif (\"ladti hai\") and rhyme scheme, a recurring theme of contention in love, fate, and existence throughout the poem.[^3]\n\n[^1]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/01-aankh-us-pur-jafa-se-ladti-hai/transliteration/#p-06b3b4).\n\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/01-aankh-us-pur-jafa-se-ladti-hai/translation/#p-c3221c).\n\n[^3]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, Chapter 1, [/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/01-aankh-us-pur-jafa-se-ladti-hai/translation/](works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/01-aankh-us-pur-jafa-se-ladti-hai/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "diwan"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Aankh us pur jafa se ladti hai"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Diwan-e-Zauq"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-06b3b4",
+          "p-2f739c"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 9,
+          "end": 11
+        },
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-6fdf0a"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 1,
+      "paragraph_id": "p-06b3b4"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 1,
+      "paragraph_id": "p-c3221c"
+    }
+  ],
+  "duration_ms": 38866,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 43631,
+    "completion_tokens": 5119,
+    "total_tokens": 48750,
+    "cached_tokens": 27054,
+    "api_calls": 4,
+    "cost_usd": 0.0072276,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 687,
+        "total_tokens": 2250,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006336
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 12972,
+        "completion_tokens": 489,
+        "total_tokens": 13461,
+        "cached_tokens": 150,
+        "cost_usd": 0.0028164
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 13792,
+        "completion_tokens": 2617,
+        "total_tokens": 16409,
+        "cached_tokens": 12967,
+        "cost_usd": 0.00212185
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 15304,
+        "completion_tokens": 1326,
+        "total_tokens": 16630,
+        "cached_tokens": 13787,
+        "cost_usd": 0.00165575
+      }
+    ]
+  }
+}

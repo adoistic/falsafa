@@ -1,0 +1,219 @@
+{
+  "answer": "**Zauq's rind-couplet** (from the opening sher of his ghazal explicitly titled after the \"rind-e-kharaab-haal,\" or ruined libertine):  \n\n> O pious judge, don't mock this ruined soul with your disdain;  \n> Just settle your accounts with God, and leave me to my pain.[^1]  \n\nHere, the rind is a spiritually ravaged figure—personally \"ruined\" (*kharab*) by love or ecstasy—directly rebuking the zahid (pious hypocrite) and invoking divine judgment, embodying the classic Sufi antithesis of outward piety versus inward divine intoxication.[^2]\n\n**Ghalib's rind-couplet** (from a ghazal contrasting the maikada/tavern with piety):  \n\n> O pious man, the tavern's revelers are coarse and bold;  \n> Don't mix with them, I'm weary of the judgments they despise.[^3]  \n\nGhalib's rinds (*rindaan-e-dar-e-maikada*) are rowdy tavern-goers, defiantly \"coarse\" and dismissive of social/religious norms in a public, boisterous setting.[^4]\n\n**Comparison**: Zauq's rind is the more *theological* figure—a solitary soul in mystical ruin, urging the zahid toward God and personal reckoning, deeply embedded in Sufi zahid-rind typology. Ghalib's is more *social*—a collective of brash, worldly drinkers clashing with piety in the tavern's communal chaos, emphasizing irreverence amid human gatherings over private divine accounting.\n\n[^1]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [46-rind-e-kharaab-haal-ko-zaahid-na-chhed-tu/translation/#p-0083db](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/46-rind-e-kharaab-haal-ko-zaahid-na-chhed-tu/translation/#p-0083db).\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [46-rind-e-kharaab-haal-ko-zaahid-na-chhed-tu/translation/](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/46-rind-e-kharaab-haal-ko-zaahid-na-chhed-tu/translation/).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [61-hai-bazm-e-butaan-mein-sukhan-aazurda-labon-se/translation/#p-d0f118](https://falsafa.corpus/works/mirza-ghalib-diwan-e-ghalib-74ed4c/61-hai-bazm-e-butaan-mein-sukhan-aazurda-labon-se/translation/#p-d0f118).\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, [61-hai-bazm-e-butaan-mein-sukhan-aazurda-labon-se/translation/](https://falsafa.corpus/works/mirza-ghalib-diwan-e-ghalib-74ed4c/61-hai-bazm-e-butaan-mein-sukhan-aazurda-labon-se/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rind",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rind\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rindi",
+        "limit": 20
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sheikh ibrahim zauq\" rind",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Listed 60 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 46,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.46 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 22,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.22 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 61,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.61 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 64,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.64 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 144,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.144 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 46,
+        "paragraph_ids": [
+          "p-0083db"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 61,
+        "paragraph_ids": [
+          "p-d0f118"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 61,
+      "paragraph_id": "p-0083db"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 61,
+      "paragraph_id": "p-d0f118"
+    }
+  ],
+  "duration_ms": 53216,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 46795,
+    "completion_tokens": 5882,
+    "total_tokens": 52677,
+    "cached_tokens": 33358,
+    "api_calls": 5,
+    "cost_usd": 0.0072963,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1577,
+        "completion_tokens": 439,
+        "total_tokens": 2016,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00030555
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4757,
+        "completion_tokens": 1151,
+        "total_tokens": 5908,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00129755
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 11054,
+        "completion_tokens": 1350,
+        "total_tokens": 12404,
+        "cached_tokens": 4752,
+        "cost_usd": 0.002173
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 14504,
+        "completion_tokens": 1352,
+        "total_tokens": 15856,
+        "cached_tokens": 11049,
+        "cost_usd": 0.00191945
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 14903,
+        "completion_tokens": 1590,
+        "total_tokens": 16493,
+        "cached_tokens": 14499,
+        "cost_usd": 0.00160075
+      }
+    ]
+  }
+}

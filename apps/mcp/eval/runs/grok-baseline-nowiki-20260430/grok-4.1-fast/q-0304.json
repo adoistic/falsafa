@@ -1,0 +1,280 @@
+{
+  "answer": "**The Seafarer** (an anonymous Old English elegy) concludes its meditation on exile, transience, and the miseries of seafaring with a homiletic pivot. After evoking the collapse of earthly kingdoms and the inevitability of death, the speaker urges reflection on one's heavenly \"home,\" calls for striving against sin through good deeds, and offers doxological thanks to God, sealing it with \"Amen.\"[^1]\n\n> Let us think where we have our home,  \n> and then think how we may come thither,  \n> and let us then strive that we may be allowed  \n> into that eternal blessedness,  \n> where life is born of the Lord's love,  \n> our hope in the heavens. Thanks be to the Holy One,  \n> the Prince of Glory, the everlasting Lord,  \n> that He has honored us for all time.  \n> Amen.[^1]\n\nCynewulf's signed poems (*Andreas*, *Elene*, *Juliana*)—each a single-chapter saint's life—likewise end with devotional turns, but these are explicitly personal: the poet reveals his name via runic acrostics (e.g., **ᚳ**Y**ᚾ**E**ᚹ**U**ᛚ**ᚠ** in Juliana, spelling out via bolded nouns like **Torch** [fægir], **Bow** [earge], etc.), confesses his aged sinfulness and fear of judgment, begs intercessory prayers from readers, and yearns for Christ's mercy amid eschatological fire.[^2][^3][^4] These epilogues transform narrative closure into autobiographical pleas, embedding the signature as a mnemonic for communal prayer.\n\n- **Juliana** (martyrdom of the saint resisting pagan marriage): After her beheading elevates her to glory, Cynewulf reflects on his soul-body parting, confesses late repentance for \"evil deeds,\" invokes saintly aid, reveals his runic name amid symbols of doom (**Torch**, **Bow**, **Hail**, **Need**, **Ice**, **Year**, **Fate**, **Wealth**, **Fishhook**, **Sea**), and implores readers to pray for him at judgment.[^5]\n  \n> I have great need that the holy one  \n> should grant me her help, when my dearest companions,  \n> my soul and my body, are divided...  \n> a flickering **Torch**,  \n> a taut **Bow** of grief, it is bound by **Need**.  \n> ...Adrift on a **Sea** of sorrow...  \n> I ask every person of humankind,  \n> who recites this poem, that he... pray to the Molder... Amen.[^5]\n\n- **Elene** (Helena finding the True Cross): Amid transience (\"life’s joys have slipped by as water glides\"), Cynewulf recounts his illumination on the Cross, then depicts judgment's refining fire sorting souls (righteous unscathed, sinful tormented, worst damned), ending in eternal angelic bliss.[^6]\n\n> Thus I, old and ready for my journey...  \n> I did not know the truth of the Rood  \n> until... unveiled wisdom in my mind’s chamber...  \n> So this whole world shall pass away...  \n> Then into the fire’s grasp he will divide  \n> every person into three... Amen.[^6]\n\n- **Andreas** (Andrew rescuing Matthew from cannibals): After mass conversion and Andreas's departure, it abruptly halts mid-sentence (\"to the city that the King of angels…\"), but contextually aligns with Cynewulf's pattern of glory-praise; his signature is embedded earlier in runes/transliteration.[^7]\n\nBoth employ similar theological motifs: earthly *anfealtid* (solitude/exile) yields to *metod* (Providence), urging *modes lust* (spiritual desire) for the eternal homeland amid *wyrd* (fate/judgment). They share a ubi sunt lament (lost joys/kingdoms), contemptus mundi, and paraenetic call to virtue/prayer, rooted in patristic homiletics (e.g., Boethian wheel of fortune, Augustinian *civitas Dei*).[^8]\n\nCynewulf's prayers are \"richer\": more intimate (autobiographical sin-confession, named intercession request), literarily innovative (runic autograph as prayer-mnemonic), and eschatologically vivid (personal dread of soul-parting, fire-purgation). The Seafarer's is communal/exhortative, generalized (no named self, no explicit intercession), homiletic rather than lyric-personal—efficacious but less theologically dense/subjective. Cynewulf amplifies soteriological urgency, modeling reader-prayer reciprocity; the elegy exhorts ethically toward salvation.\n\n[^1]: *Old English Elegies*, [Chapter 5 (The Seafarer)](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-1c332d).\n[^2]: *Juliana*, [Chapter 1](/works/cynewulf-juliana-9a2157/01/translation/#p-e769dc).\n[^3]: *Elene*, [Chapter 1](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607).\n[^4]: *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-36b773).\n[^5]: *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-e769dc).\n[^6]: *Elene*, [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607,p-8f8a1b,p-dcbbfe).\n[^7]: *Andreas*, [full chapter citation as above; runes in transliteration p-992aeb].\n[^8]: Cross-references via shared motifs in *Old English Elegies* (e.g., Maxims, Wanderer) and Cynewulf corpus; no direct \"related\" tool hit, but thematic overlap evident.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Seafarer"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "runic epilogues Cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old_english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "medieval",
+        "genre": "literature"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seafarer\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rune signature OR runic epilogue OR cynewulf signature"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true home\" OR \"days are gone\" OR \"almighty\" prayer seafarer"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seafarer\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"days are gone\" OR \"three joys\" OR \"mæg ic\" OR \"bitter breast\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rune OR runic OR signature OR CYNEWULF",
+        "limit": 20
+      },
+      "result_summary": "Found 8 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-1c332d"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-e769dc"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-d2e607"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-36b773"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-8f8a1b"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-992aeb"
+    }
+  ],
+  "duration_ms": 87671,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 80807,
+    "completion_tokens": 7460,
+    "total_tokens": 88267,
+    "cached_tokens": 13084,
+    "api_calls": 5,
+    "cost_usd": 0.0179288,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1584,
+        "completion_tokens": 750,
+        "total_tokens": 2334,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00046245
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2175,
+        "completion_tokens": 1911,
+        "total_tokens": 4086,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00116115
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7711,
+        "completion_tokens": 1503,
+        "total_tokens": 9214,
+        "cached_tokens": 2170,
+        "cost_usd": 0.0019682
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13393,
+        "completion_tokens": 1046,
+        "total_tokens": 14439,
+        "cached_tokens": 7706,
+        "cost_usd": 0.0020457
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 55944,
+        "completion_tokens": 2250,
+        "total_tokens": 58194,
+        "cached_tokens": 150,
+        "cost_usd": 0.0122913
+      }
+    ]
+  }
+}

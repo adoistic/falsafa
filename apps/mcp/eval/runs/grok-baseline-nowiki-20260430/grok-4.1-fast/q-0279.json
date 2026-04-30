@@ -1,0 +1,256 @@
+{
+  "answer": "Iqbal's poem \"Insaan\" (\"The Human Being\") in *Bang-E-Dara Part 3* presents humanity in stark contrast to the passive natural world: all other things are \"accustomed to submission,\" but the human's every power \"is aflame with striving.\"[^1] The human is no mere \"particle\" but a vast potentiality—a \"desert contracted to a point\"—yearning for boundlessness, wise, perceptive, and potent enough to reshape reality itself.[^2] Iqbal thus privileges **individual dynamism and creative agency**, elevating the human as an active force of self-overcoming and transformation, unbound by static nature or fate.\n\nManu's *Manusmṛti* Chapter 1, by contrast, embeds the human within a cosmic order of creation, where the primordial being divides humanity into four *varnas* (social classes)—Brahmana from the mouth, Kshatriya from the arms, Vaishya from the thighs, and Shudra from the feet—for the \"prosperity of the worlds,\" each with rigidly assigned duties.[^3] Humans are hierarchically ordered by purity and function (purer \"above the navel,\" with the mouth supreme), intelligence, and role: Brahmanas for sacred learning and rites, Kshatriyas for protection, Vaishyas for economic sustenance, Shudras for service.[^4] Manu privileges **social hierarchy and varna-dharma** (class-based righteousness), defining the human above all by inherited position, duty, and collective cosmic stability rather than individual striving.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-cb3c43).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-2697a9-p-587d8c).\n[^3]: Manu, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db).\n[^4]: Manu, *Manusmṛti*, [paragraphs](/works/unknown-manusmrti-347b76/01/translation/#p-4809ee-p-fdb716-p-71a5c2-p-a09d4d-p-357321-p-26a572).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Insaan",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manusmriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Insaan\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "insaan iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-cb3c43",
+          "p-2697a9",
+          "p-587d8c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-13a2db",
+          "p-fdb716",
+          "p-71a5c2",
+          "p-a09d4d",
+          "p-357321",
+          "p-26a572"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4809ee"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-cb3c43"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-2697a9"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-587d8c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-4809ee"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-fdb716"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-71a5c2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-a09d4d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-357321"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-26a572"
+    }
+  ],
+  "duration_ms": 37740,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 31627,
+    "completion_tokens": 4095,
+    "total_tokens": 35722,
+    "cached_tokens": 4160,
+    "api_calls": 5,
+    "cost_usd": 0.0077488999999999995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1578,
+        "completion_tokens": 594,
+        "total_tokens": 2172,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038325
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2187,
+        "completion_tokens": 468,
+        "total_tokens": 2655,
+        "cached_tokens": 149,
+        "cost_usd": 0.00064905
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4536,
+        "completion_tokens": 328,
+        "total_tokens": 4864,
+        "cached_tokens": 2182,
+        "cost_usd": 0.0007439
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 11189,
+        "completion_tokens": 1348,
+        "total_tokens": 12537,
+        "cached_tokens": 150,
+        "cost_usd": 0.0028893
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 12137,
+        "completion_tokens": 1357,
+        "total_tokens": 13494,
+        "cached_tokens": 150,
+        "cost_usd": 0.0030834
+      }
+    ]
+  }
+}

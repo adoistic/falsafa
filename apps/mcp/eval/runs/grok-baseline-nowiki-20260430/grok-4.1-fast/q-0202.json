@@ -1,0 +1,332 @@
+{
+  "answer": "**Iqbal explicitly references the pre-eternal pact (known in Islamic tradition as the \"First Covenant\" or *mīthāq*, from Quran 7:172, where souls affirm \"Yes [*balā*]\" to God's lordship, leading to earthly exile) in his poem \"Sarguzasht-e-Adam\" (\"The Saga of Man\").**[^1]\n\nThe key opening lines frame humanity's (Adam's) story as one of voluntary exile:  \n> Come, hear from me the story of my exile’s way;  \n> The tale of the First Covenant I let fall away.  \n> My spirit found no rest in Paradise’s domain,  \n> Once the fiery cup of consciousness I chose to drain.[^2]\n\nHere, Iqbal celebrates this \"fall\" as an active choice for cosmic questing and self-realization—man rejects static Paradise for dynamic struggle, prophecy, discovery, and ultimate union with the Divine within (\"I found that in my own heart’s house He did reside\").[^3] This transforms the covenant not as a binding resignation to fate, but as the spark for empowered action across history and creation.[^4]\n\n**No key passage on the pre-eternal pact ('alast') appears in the English translations of Ghalib's *Diwan-e-Ghalib* in the corpus.** Extensive searches for terms like \"alast\", \"covenant\", \"pact\", \"paradise\" (with Adam/exile context), \"first\", \"bala\" (as affirmation), \"Lord\", and Quranic phrasing (e.g., \"Am I not\", \"did I not\") yielded no matches tied to this concept.[^5] Ghalib's ghazals often explore love, fate, and existential irony with resignation (e.g., accepting turmoil as inevitable), but without explicit reference here, a direct comparison or \"reframing into action\" cannot be substantiated from the corpus. The corpus covers Iqbal's *Bang-e-Dara* Parts 1–3 and Ghalib's full *Diwan* (239 ghazals), but not every philosophical nuance is captured in translation.\n\n[^1]: Matches from `search_corpus` on \"covenant\" and chapter read of *Bang-E-Dara Part 1*, ch. 37; no Ghalib hits across 20+ queries.\n[^2]: *Allama Iqbal, Bang-E-Dara Part 1*, \"Sarguzasht-e-Adam\" [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/translation/#p-7c0f77).\n[^3]: Ibid. [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/translation/#p-08cb93).\n[^4]: Full chapter context: Man's restless history (Sinai, Hira, science, war) as heroic response to the covenant.[^5]: *Allama Iqbal, Bang-E-Dara Part 1*, ch. 37 [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/translation/). Related chapters (via `find_related`) link to Iqbal's own works on similar themes, but none to Ghalib's 'alast'.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "alast",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pre-eternal\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pre eternal\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "covenant",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pact",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Am I not\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"our Lord\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Alast"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pre-eternal covenant\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bala",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.37 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"first covenant\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"didst thou\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"did I not\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib \"covenant\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lord\" ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "alast",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"know\" paradise ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"reality of paradise\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib paradise"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"alast\" OR \"Alast\" OR \"Alastu\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"first covenant\" OR \"covenant\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"covenant\" OR \"pact\" OR \"paradise\" OR \"adam\" ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"first\" OR \"eternal\" OR \"lord\" OR \"yes\" OR \"bala\" iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37,
+        "limit": 10
+      },
+      "result_summary": "Found 9 related"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-7c0f77"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-08cb93"
+    }
+  ],
+  "duration_ms": 85440,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 69715,
+    "completion_tokens": 7663,
+    "total_tokens": 77378,
+    "cached_tokens": 32604,
+    "api_calls": 6,
+    "cost_usd": 0.0128839,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1571,
+        "completion_tokens": 516,
+        "total_tokens": 2087,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005497
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2315,
+        "completion_tokens": 1440,
+        "total_tokens": 3755,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011605
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9040,
+        "completion_tokens": 1410,
+        "total_tokens": 10450,
+        "cached_tokens": 2310,
+        "cost_usd": 0.0021665
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10304,
+        "completion_tokens": 1100,
+        "total_tokens": 11404,
+        "cached_tokens": 9035,
+        "cost_usd": 0.00125555
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10665,
+        "completion_tokens": 1282,
+        "total_tokens": 11947,
+        "cached_tokens": 10299,
+        "cost_usd": 0.00122915
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "find_related"
+        ],
+        "prompt_tokens": 35820,
+        "completion_tokens": 1915,
+        "total_tokens": 37735,
+        "cached_tokens": 10660,
+        "cost_usd": 0.0065225
+      }
+    ]
+  }
+}

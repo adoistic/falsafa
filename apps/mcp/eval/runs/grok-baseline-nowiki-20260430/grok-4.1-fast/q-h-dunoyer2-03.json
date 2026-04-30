@@ -1,0 +1,219 @@
+{
+  "answer": "**Charles Dunoyer's *Nouveau traité d'économie: VOL II*, Chapter 16 (\"VI. De la liberté de l'industrie manufacturière\").**[^1]\n\nThis chapter contrasts French luxury-focused manufactures with English mass production by highlighting England's superior output despite a smaller population: \"England, with a population that is not half that of France, annually fabricates twice as many woolens, three times more *cottons*, six times more iron or cast iron.\"[^1] It specifically notes the Perkins comparison: \"A London brewer, M. Perkins, alone sells for nearly as much in beer as the three hundred and seventy-six butchers of Paris annually buy in meat at the markets of Sceaux and Poissy: while our butchers, according to the official statistics I have already cited, buy only 45 million worth of meat, the brewer of whom I speak sells 40 million worth of beer.\"[^1]\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/16-vi-de-la-liberte-de-lindustrie-manufacturiere/translation/#p-78e243).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Perkins butchers",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"London brewer\" Perkins",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sceaux\" Poissy",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"376\" butchers",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"butchers of Paris\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"London brewer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Perkins brewer"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Poissy"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sceaux"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"half that of France\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"six times\" iron"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"million\" beer meat"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Perkins",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brewer",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-78e243"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 16,
+      "paragraph_id": "p-78e243"
+    }
+  ],
+  "duration_ms": 29007,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 67524,
+    "completion_tokens": 2913,
+    "total_tokens": 70437,
+    "cached_tokens": 35234,
+    "api_calls": 5,
+    "cost_usd": 0.0096762,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1692,
+        "completion_tokens": 461,
+        "total_tokens": 2153,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005464
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1954,
+        "completion_tokens": 837,
+        "total_tokens": 2791,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007868
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2638,
+        "completion_tokens": 365,
+        "total_tokens": 3003,
+        "cached_tokens": 1949,
+        "cost_usd": 0.00041775
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30357,
+        "completion_tokens": 317,
+        "total_tokens": 30674,
+        "cached_tokens": 2633,
+        "cost_usd": 0.00583495
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 30883,
+        "completion_tokens": 933,
+        "total_tokens": 31816,
+        "cached_tokens": 30352,
+        "cost_usd": 0.0020903
+      }
+    ]
+  }
+}

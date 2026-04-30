@@ -1,0 +1,305 @@
+{
+  "answer": "In Iqbal's poem *Husn o Ishq* (*Beauty and Love*), the speaker personifies Love (Ishq) as culminating in and perfected by Beauty (Husn), resolving their dynamic interplay into harmonious perfection and ultimate contentment.[^1][^2] While Ghalib's *Diwan* contains numerous ghazals exploring love's torments and beauty's allure (e.g., motifs of longing and paradox in couplets like those in chapter 195), no passages were found explicitly \"testing husn and ishq against each other\" in tension or ambiguity within the English translations of the corpus.[^3] Iqbal's explicit resolution—that Beauty spurs Love toward completion, rendering both ideal and the soul's journey fulfilled—thus stands without a direct, unresolved counterpoint from Ghalib in this collection.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 13 (*Husn o Ishq*), [full chapter](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/13-husn-o-ishq/translation/).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 13 (*Husn o Ishq*), paragraphs [p-0d606e](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/13-husn-o-ishq/translation/#p-0d606e), [p-7a49e3](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/13-husn-o-ishq/translation/#p-7a49e3), and [p-0b52e7](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/13-husn-o-ishq/translation/#p-0b52e7): \"From Your mere image, my astonishment is born; / Your Beauty is perfected, and my Love is perfect form. [...] From Beauty, Love's own nature is spurred toward perfection; / From You, the saplings of my hopes find green direction. [...] My caravan has found contentment at its destination.\"\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 195 (*Waan pahunch kar jo ghash aata paye_ham hai hum ko*), [full chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/195-waan-pahunch-kar-jo-ghash-aata-paye-ham-hai-hum-ko/translation/). (A content-related chapter per TF-IDF similarity; broader searches for \"husn,\" \"ishq,\" \"beauty,\" and \"love\" in Ghalib yielded no direct matches.)",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"husn o ishq\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "husn ishq iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"husn\" \"ishq\" ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-2-9bc58c\",\"title\":\"Bang-E-Dara Part 2\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 13,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-2-9bc58c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib beauty love"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ghalib\" husn ishq"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal \"ghalib\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "work_slug_b": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "topic": "husn ishq"
+      },
+      "result_summary": "{\"topic\":\"husn ishq\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"allama-iqbal-bang-e-dara-part-2-9bc58c\",\"title\":"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "work_slug_b": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "topic": "beauty love"
+      },
+      "result_summary": "{\"topic\":\"beauty love\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"allama-iqbal-bang-e-dara-part-2-9bc58c\",\"title"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"beauty\" \"love\" ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "husn ishq"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 13,
+        "limit": 5
+      },
+      "result_summary": "Found 5 related"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 195,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.195 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-0d606e",
+          "p-7a49e3",
+          "p-0b52e7"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 13,
+      "paragraph_id": "p-0d606e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 13,
+      "paragraph_id": "p-7a49e3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 13,
+      "paragraph_id": "p-0b52e7"
+    }
+  ],
+  "duration_ms": 58304,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 51524,
+    "completion_tokens": 6000,
+    "total_tokens": 57524,
+    "cached_tokens": 35606,
+    "api_calls": 6,
+    "cost_usd": 0.0079639,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1585,
+        "completion_tokens": 470,
+        "total_tokens": 2055,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005295
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2326,
+        "completion_tokens": 406,
+        "total_tokens": 2732,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006457
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "get_metadata"
+        ],
+        "prompt_tokens": 8962,
+        "completion_tokens": 858,
+        "total_tokens": 9820,
+        "cached_tokens": 2321,
+        "cost_usd": 0.00187325
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11239,
+        "completion_tokens": 1599,
+        "total_tokens": 12838,
+        "cached_tokens": 8957,
+        "cost_usd": 0.00170375
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "compare_works",
+          "compare_works",
+          "search_corpus",
+          "search_corpus",
+          "find_related"
+        ],
+        "prompt_tokens": 12799,
+        "completion_tokens": 957,
+        "total_tokens": 13756,
+        "cached_tokens": 11234,
+        "cost_usd": 0.0013532
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 14613,
+        "completion_tokens": 1710,
+        "total_tokens": 16323,
+        "cached_tokens": 12794,
+        "cost_usd": 0.0018585
+      }
+    ]
+  }
+}

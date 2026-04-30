@@ -1,0 +1,246 @@
+{
+  "answer": "**No exact matches exist between the demon's confessed crimes in Cynewulf's *Juliana* and any enumerated list of *mahāpatakas* (great sins) in the *Manusmṛti* or *Yājñavalkya Smṛti* within the Falsafa corpus.**[^1][^2][^3]\n\nThe demon, when bound and questioned by Juliana, catalogues his role in specific biblical persecutions: betraying Christ to death (inciting the Roman soldier to pierce Him); urging Herod to behead John the Baptist; inspiring Simon Magus to defame Christ's apostles as sorcerers; driving Nero to execute Peter and Paul; counseling Pilate to crucify Christ; and advising Aegeas to crucify Andrew.[^4] He later adds general crimes like blinding men, laming them, burning them, drowning them at sea, inciting drunken murders, and tempting Adam and Eve—crimes of deceit, murder, and spiritual ruin.[^5]\n\nDespite searching the corpus (including *Manusmṛti* chapters 8 and 11, *Yājñavalkya Smṛti* chapters 1 and 3, and broader queries for \"mahāpataka,\" \"great sins,\" \"killing a brahmin,\" etc.), no explicit list of *mahāpatakas* appears in the available texts from Manu or Yajnavalkya. Standard Dharmashastric tradition attributes five *mahāpatakas* to Manu (11.54–55)—brāhmaṇa-hatya (killing a Brahmin), surā-pāna (drinking liquor), suvarṇa-steya (stealing gold/Brahmin's gold), guru-talpaga (adultery with a guru's wife), and mahāpātakī-saṃsarga (association with such sinners)—but these verses are absent here.[^6] *Yājñavalkya Smṛti* (3.229–245) discusses expiations for sins like killing various beings (e.g., brāhmaṇa, cow, kṣatriya) but without labeling a fixed \"great sins\" list matching Manu's.\n\n### Comparison Summary\n- **Demon's crimes unique to his catalogue**: Betraying/killing Christ and apostles/saints (Jesus, John, Peter, Paul, Andrew); general tempters like blinding, arson, drowning, strife-murders, Eden's fall. These are targeted against holy figures (analogous to holy men/Brahmins but not identical) and emphasize demonic temptation over direct categories like liquor or theft.[^7]\n- **Smṛti great sins (inferred from tradition, absent here)**: No overlap. No mentions of apostle-martyrdom, biblical betrayal, or Christian saints. Smṛti focus on varṇa-specific violations (e.g., brāhmaṇa-hatya in expiations).[^8]\n- **No shared sins**: The demon's acts are historical/spiritual crimes against Christianity's founders; Smṛtis list ritual/social sins like homicide of superiors, intoxication, theft from temples/gurus, forbidden sex.\n\nThe corpus covers legal duties, expiations, and punishments extensively but lacks the precise *mahāpataka* enumerations or any direct parallel to the demon's Christian hagiographic crimes. If present elsewhere (e.g., unqueried chapters), they do not align exactly.\n\n[^1]: *Manusmṛti*, Chapter 11 (full text queried; focuses on gifts/snātakas, no *mahāpatakas* list). [Chapter](/works/unknown-manusmrti-347b76/11/translation/).\n\n[^2]: *Yājñavalkya Smṛti*, Chapter 3 (expiations/impurities; sins like suicide/heretics excluded from rites, but no *mahāpatakas*). [Chapter](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/).\n\n[^3]: *Manusmṛti*, Chapter 8 (law/punishments; theft/adultery/violence, no great sins list). [Chapter](/works/unknown-manusmrti-347b76/08/translation/).\n\n[^4]: *Juliana*, Chapter 1 [p-da3fd4] (historical confessions). [Passage](/works/cynewulf-juliana-9a2157/01/translation/#p-da3fd4).\n\n[^5]: *Juliana*, Chapter 1 [p-15a5a2] (general crimes). [Passage](/works/cynewulf-juliana-9a2157/01/translation/#p-15a5a2).\n\n[^6]: Searches for \"mahapataka,\" \"great sins,\" \"brāhmin killing,\" etc., yielded 0 results across corpus.\n\n[^7]: *Juliana*, Chapter 1 [p-734fcc]–[p-da3fd4] (full interrogation). [Chapter](/works/cynewulf-juliana-9a2157/01/translation/).\n\n[^8]: *Yājñavalkya Smṛti*, Chapter 3 [p-b505af] (heretics/thieves/suicides excluded); no apostle parallel. [Passage](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-b505af).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mahapataka"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"great sins\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "demon confesses juliana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"devil\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"demon\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brāhmin killing"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"killing a brahmin\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slaying a Brahmin\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-da3fd4"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-15a5a2"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-734fcc"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-b505af"
+    }
+  ],
+  "duration_ms": 62931,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 90330,
+    "completion_tokens": 5571,
+    "total_tokens": 95901,
+    "cached_tokens": 4134,
+    "api_calls": 4,
+    "cost_usd": 0.020231399999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1592,
+        "completion_tokens": 849,
+        "total_tokens": 2441,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007204
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2311,
+        "completion_tokens": 1061,
+        "total_tokens": 3372,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00076335
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12110,
+        "completion_tokens": 1523,
+        "total_tokens": 13633,
+        "cached_tokens": 2306,
+        "cost_usd": 0.0028376
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 74317,
+        "completion_tokens": 2138,
+        "total_tokens": 76455,
+        "cached_tokens": 149,
+        "cost_usd": 0.01591005
+      }
+    ]
+  }
+}

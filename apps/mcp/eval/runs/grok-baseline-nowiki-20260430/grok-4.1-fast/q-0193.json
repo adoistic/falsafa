@@ -1,0 +1,181 @@
+{
+  "answer": "The *matla* (opening couplet) of Mirza Ghalib's ghazal from *Diwan-e-Ghalib* reads, in the original Urdu:\n\n> حیراں ہوں دل کو روؤں کہ پیٹوں جگر کو میں  \n> مقدور ہو تو ساتھ رکھوں نوحہ_گر کو میں[^1]\n\nIn Roman transliteration:\n\n> Hairaan hoon dil ko roun ke peetun jigar ko main  \n> Maqdoor ho to saath rakhun nauha-gar ko main[^2]\n\nIn English translation:\n\n> Should I now mourn my heart, or my own soul now tear?  \n> If I had means, I’d keep a hired mourner near me.[^3]\n\nThe speaker faces the anguished dilemma of whether to weep (*roun*) for his shattered heart (*dil*)—the seat of love and emotion—or to violently tear/beat (*peetoon*) his innermost liver/soul (*jigar*) in raw grief, expressing utter bewilderment (*hairan hoon*) at such profound inner devastation.[^3]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/65-hairaan-hoon-dil-ko-roun-ke-peetun-jigar-ko-main/original/#p-cfda65).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/65-hairaan-hoon-dil-ko-roun-ke-peetun-jigar-ko-main/transliteration/#p-509dee).\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/65-hairaan-hoon-dil-ko-roun-ke-peetun-jigar-ko-main/translation/#p-a750b7).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Hairan hoon dil ko roun ke peetoon jigar ko main",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 65,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.65 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 65,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.65 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 65,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.65 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 65,
+        "paragraph_ids": [
+          "p-a750b7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 65,
+        "paragraph_ids": [
+          "p-509dee",
+          "p-6f6d0b",
+          "p-a7a077"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 65,
+        "paragraph_ids": [
+          "p-cfda65"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 65,
+      "paragraph_id": "p-cfda65"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 65,
+      "paragraph_id": "p-509dee"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 65,
+      "paragraph_id": "p-a750b7"
+    }
+  ],
+  "duration_ms": 28804,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 17999,
+    "completion_tokens": 3426,
+    "total_tokens": 21425,
+    "cached_tokens": 11320,
+    "api_calls": 4,
+    "cost_usd": 0.0036147999999999996,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1570,
+        "completion_tokens": 543,
+        "total_tokens": 2113,
+        "cached_tokens": 150,
+        "cost_usd": 0.000563
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3589,
+        "completion_tokens": 453,
+        "total_tokens": 4042,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00071495
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 6062,
+        "completion_tokens": 1101,
+        "total_tokens": 7163,
+        "cached_tokens": 3584,
+        "cost_usd": 0.0012253
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 6778,
+        "completion_tokens": 1329,
+        "total_tokens": 8107,
+        "cached_tokens": 6057,
+        "cost_usd": 0.00111155
+      }
+    ]
+  }
+}

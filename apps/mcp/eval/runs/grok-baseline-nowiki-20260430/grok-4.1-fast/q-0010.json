@@ -1,0 +1,212 @@
+{
+  "answer": "**Bachay ki Dua** (\"A Child's Prayer\") is the 16th poem (chapter) in Allama Iqbal's *Bang-E-Dara Part 1* (1924), a collection of Urdu poetry. Here's the English translation:[^1]\n\n> [p-a0420d] A Child's Prayer  \n> \n> [p-28b7ba] My deepest longing comes to my lips as a prayer:  \n> O God, may my life be like a candle's flare.  \n> \n> [p-4bb8de] May my life's spark dispel the darkness of the world,  \n> May my shining light in every place be unfurled.  \n> \n> [p-b049bf] May I become my homeland's grace and pride,  \n> Like a flower that adorns the garden-side.  \n> \n> [p-01b332] O Lord, let my life be a moth's in its desire,  \n> To love the candle of knowledge, and draw ever nigher.  \n> \n> [p-877b09] Let my life's work be to champion the poor,  \n> To love the weak, and those who sorrow endure.  \n> \n> [p-39abc8] My God! Protect me from all that is wrong,  \n> And guide me on the righteous path, where I belong.[^2]\n\nIn this poignant prayer, the child asks God for a selfless, illuminating life—like a candle that burns to light the world and dispel its darkness.[^3] They wish to bring honor to their homeland, like a flower beautifying a garden; to pursue knowledge with moth-like passion; to protect the poor and love the weak and suffering; and above all, for protection from evil and guidance on the path of righteousness.[^4]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, chapter 16 (\"Bachay Ki Dua\"), translation, [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/).\n\n[^2]: Ibid., [full passage](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-a0420d).\n\n[^3]: Ibid., [p-28b7ba](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-28b7ba) and [p-4bb8de](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-4bb8de).\n\n[^4]: Ibid., [p-b049bf](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-b049bf), [p-01b332](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-01b332), [p-877b09](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-877b09), and [p-39abc8](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-39abc8).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bachay ki Dua"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"child's prayer\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-1-55b25c (original)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-a0420d",
+          "p-28b7ba",
+          "p-4bb8de",
+          "p-b049bf",
+          "p-01b332",
+          "p-877b09",
+          "p-39abc8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 7 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-28b7ba"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-4bb8de"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-a0420d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-28b7ba"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-4bb8de"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-b049bf"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-01b332"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-877b09"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-39abc8"
+    }
+  ],
+  "duration_ms": 30927,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 18848,
+    "completion_tokens": 3724,
+    "total_tokens": 22572,
+    "cached_tokens": 8875,
+    "api_calls": 4,
+    "cost_usd": 0.00430035,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 440,
+        "total_tokens": 1993,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005081
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2394,
+        "completion_tokens": 539,
+        "total_tokens": 2933,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00051895
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7051,
+        "completion_tokens": 1010,
+        "total_tokens": 8061,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018927
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 7850,
+        "completion_tokens": 1735,
+        "total_tokens": 9585,
+        "cached_tokens": 7046,
+        "cost_usd": 0.0013806
+      }
+    ]
+  }
+}

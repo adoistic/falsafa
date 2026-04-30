@@ -1,0 +1,293 @@
+{
+  "answer": "### Mourning Periods (Āśauca) in Manu, Yājñavalkya, and Viṣṇu\n\nThese Dharmashastras prescribe periods of ritual impurity (*āśauca*) primarily for *sapiṇḍas* (close blood relatives, typically up to the 7th degree) following death or birth. The rules emphasize purification through bathing, restricted diet, and avoidance of rites like study or sacrifice. Manu (primarily *Manusmṛti* 5.57–96) sets a baseline of **10 days** for a Brahmina's *sapiṇḍas*, scaling up by *varṇa*. Yājñavalkya (*Yājñavalkya Smṛti* 3.18–29) offers flexibility (**3 or 10 nights** generally, shorter for some relations) but parallels the *varṇa*-scaled durations. Viṣṇu (*Viṣṇu Smṛti* 22) closely mirrors Manu but specifies *sapiṇḍa* cutoff at the 7th degree and adds rules for eating during impurity.[^1][^2][^3]\n\n#### Core Comparison: Death Impurity for *Sapiṇḍas* (by *Varṇa*)\n| *Varṇa* of Deceased | Manu (*Manusmṛti* 5.83) | Yājñavalkya (*Yājñavalkya Smṛti* 3.22) | Viṣṇu (*Viṣṇu Smṛti* 22.1–4) |\n|---------------------|--------------------------|-----------------------------------------|------------------------------|\n| **Brahmin**        | 10 days                 | 3 or 10 nights (general; 10 for sapindas) | 10 days                     |\n| **Kṣatriya**       | 12 days                 | 12 days                                | 12 days                     |\n| **Vaiśya**         | 15 days                 | 15 days                                | 15 days                     |\n| **Śūdra**          | 1 month                 | 30 days (half if righteous)             | 1 month                     |\n\n*Sapiṇḍa* ends at 7th degree (Viṣṇu 22.5; cf. Manu 5.60). Birth impurity matches death unless specified (e.g., Manu 5.61; Viṣṇu 22.1).\n\n#### Shorter Periods & Exceptions (All Texts)\nImpurity shortens for distant relations, children, teachers, etc. No impurity for kings on duty, those slain in battle/ritual, suicides, or heretics.\n\n| Relation/Event              | Manu (*Manusmṛti* 5.57–96)                  | Yājñavalkya (*Yājñavalkya Smṛti* 3.1–29) | Viṣṇu (*Viṣṇu Smṛti* 22)                  |\n|-----------------------------|---------------------------------------------|-------------------------------------------|-------------------------------------------|\n| **Child <2 years**         | Bury; 3 days only (no fire/water rites)[^4] | Bury; no water rite[^5]                  | Immediate if stillborn/teeth not erupted[^6] |\n| **Child (tonsure done)**   | 3 nights                                    | 1 day (unmarried); 3 nights pre-upanayana | 1 night (pre-teeth); 3 nights (post-tonsure, pre-upanayana)[^7] |\n| **Teacher (*ācārya*)**     | 3 nights                                    | 1 day                                    | 3 nights[^8]                             |\n| **Fellow student/pupil**   | 1 day                                       | 1 day                                    | 1 night[^9]                              |\n| **Death abroad (>10 days)**| 3 nights (if <1 year); bathe (if >1 year)   | Remaining period; 1 night (<1 year); bathe after | Remaining period; 1 night (<1 year); bathe after[^10] |\n| **Miscarriage**            | Nights = pregnancy months                   | Nights = pregnancy months                | Days/nights = pregnancy months[^11]      |\n| **No impurity**            | Kings, vows, battle/death by king/lightning | Kings, lightning/battle deaths, suicides | Kings/vows/sacrifice, suicides, battle[^12] |\n\n#### During Impurity (Restrictions & Purification)\n- **Diet/Sleep**: All prohibit meat/salt/spices; sleep on ground separately (Manu 5.73; Yājñavalkya 3.16; Viṣṇu 22.6–9).\n- **Eating others' food**: Forbidden; eater incurs same impurity + penance (e.g., Viṣṇu 22.8–18 scales by *varṇa*).\n- **Purification**: Bathe at end; sip water, repeat Gāyatrī/*aghamarṣaṇa* (Viṣṇu 22.10+; Yājñavalkya 3.30).\n\nYājñavalkya is \"shorter\" via the 3-night option for proximity deaths and more exceptions (e.g., 1 day for many). Viṣṇu adds *varṇa*-specific penances for eating impure food and no paternal impurity from birth (mother only, like Manu). These align on *sapiṇḍa* logic but vary in detail—none cover every scenario identically.\n\n[^1]: *Manusmṛti*, [Chapter 6](/works/unknown-manusmrti-347b76/06/translation/#p-89d810).\n[^2]: *Yājñavalkya Smṛti*, [Chapter 3](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-59f02d).\n[^3]: *Viṣṇu Smṛti*, [Chapter 22](/works/unknown-visnu-smrti-27f0d8/22/translation/#p-2be678).\n[^4]: *Manusmṛti* 5.68–69 ([Chapter 6](/works/unknown-manusmrti-347b76/06/translation/#p-89d810)).\n[^5]: *Yājñavalkya Smṛti* 3.1 ([Chapter 3](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-40328e)).\n[^6]: *Viṣṇu Smṛti* 22.26–28 ([Chapter 22](/works/unknown-visnu-smrti-27f0d8/22/translation/#p-ed6e1a)).\n[^7]: *Viṣṇu Smṛti* 22.27–31.\n[^8]: *Viṣṇu Smṛti* 22.42.\n[^9]: *Viṣṇu Smṛti* 22.44.\n[^10]: *Viṣṇu Smṛti* 22.39–41.\n[^11]: *Viṣṇu Smṛti* 22.25.\n[^12]: *Viṣṇu Smṛti* 22.47–55.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu-smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya-smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu-smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu chapter 5 mourning"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity\" death OR mourning OR asauca",
+        "limit": 20
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity\" (death OR deceased OR sapinda OR asauca OR mourning)",
+        "limit": 30
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ten days\" OR \"three days\" OR \"one year\" impurity OR death OR mourning OR deceased",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"period of impurity\" OR \"mourning period\" OR āśauca",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yajnavalkya impurity death"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "visnu smrti impurity death OR mourning"
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 22
+      },
+      "result_summary": "Read ch.22 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"days\" OR \"nights\" (impurity OR āśauca OR death OR deceased OR birth) yajnavalkya"
+      },
+      "result_summary": "Found 28 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "limit": 5
+      },
+      "result_summary": "Found 5 related"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-89d810"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-59f02d"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-2be678"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-40328e"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-ed6e1a"
+    }
+  ],
+  "duration_ms": 64192,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 123104,
+    "completion_tokens": 6407,
+    "total_tokens": 129511,
+    "cached_tokens": 19005,
+    "api_calls": 5,
+    "cost_usd": 0.024973549999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1568,
+        "completion_tokens": 961,
+        "total_tokens": 2529,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00056475
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2085,
+        "completion_tokens": 581,
+        "total_tokens": 2666,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00047815
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15652,
+        "completion_tokens": 1201,
+        "total_tokens": 16853,
+        "cached_tokens": 150,
+        "cost_usd": 0.0037084
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 25509,
+        "completion_tokens": 1320,
+        "total_tokens": 26829,
+        "cached_tokens": 15647,
+        "cost_usd": 0.00341475
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "find_related"
+        ],
+        "prompt_tokens": 78290,
+        "completion_tokens": 2344,
+        "total_tokens": 80634,
+        "cached_tokens": 150,
+        "cost_usd": 0.0168075
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "answer": "**The Falsafa corpus contains only Urdu poetry by Allama Iqbal—specifically, the three parts of *Bang-e-Dara* (1924)—with no Persian-language works by him or analytical discussions of his multilingual vocabulary strategies.[^1] Searches for terms related to Iqbal's use of Persian, Urdu, or Arabic vocabulary (e.g., in doctrinal, poetic, or linguistic contexts) yielded no relevant results in the English translations or metadata.[^2]**\n\n**Iqbal is well-known in literary scholarship for composing in both Urdu (e.g., *Bang-e-Dara*) and Persian (e.g., *Asrar-e-Khudi*, *Rumuz-e-Bekhudi*), often drawing on Arabic roots for Islamic theological terms, Persian for Sufi-mystical and philosophical depth, and Hindustani/Urdu elements for accessibility and nationalist appeal. However, such critical analysis of his lexical choices serving \"doctrinal needs\" (e.g., elevating religious concepts with Arabic, universalizing philosophy via Persian, or mobilizing masses with Urdu) is not addressed or evidenced in this corpus's texts, metadata, or chapters. The corpus focuses on primary translations without secondary commentary.**\n\n**If you're seeking analysis from Iqbal's works themselves, the Urdu poetry here emphasizes themes like Islamic revival (*shikwa/jawab-e-shikwa*), selfhood (*khudi*), and modernity, but vocabulary details would require original-script examination beyond the available English/transliteration variants.[^3] This specific question cannot be answered directly from the corpus.**\n\n[^1]: From `list_works` results for author \"allama-iqbal\" and language filters. Slugs: `allama-iqbal-bang-e-dara-part-1-55b25c`, etc. No Persian Iqbal works present.\n[^2]: Multiple `search_corpus` queries (e.g., \"Iqbal Persian Urdu Arabic vocabulary\", \"Iqbal \\\"Persian\\\" OR \\\"Urdu\\\" OR \\\"Arabic\\\"\") returned 0 doctrinal/language hits; incidental \"Persian\"/\"Urdu\" mentions were in unrelated works or metadata.\n[^3]: Example chapter metadata from `search_corpus`, e.g., *Bang-e-Dara Part 3*, Ch. 20 \"Shikwa\" (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-0b0b8c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mohammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Persian Urdu Arabic vocabulary",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Persian\" \"Urdu\" \"Arabic\" Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Persian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal \"Persian\" OR \"Urdu\" OR \"Arabic\" language OR vocabulary OR diction",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Allama Iqbal\" language Persian Urdu",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-0b0b8c"
+    }
+  ],
+  "duration_ms": 50503,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 10325,
+    "completion_tokens": 2465,
+    "total_tokens": 12790,
+    "cached_tokens": 2482,
+    "api_calls": 3,
+    "cost_usd": 0.0029252,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 599,
+        "total_tokens": 2154,
+        "cached_tokens": 150,
+        "cost_usd": 0.000588
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2187,
+        "completion_tokens": 712,
+        "total_tokens": 2899,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007709
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6583,
+        "completion_tokens": 1154,
+        "total_tokens": 7737,
+        "cached_tokens": 2182,
+        "cost_usd": 0.0015663
+      }
+    ]
+  }
+}

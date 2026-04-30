@@ -1,0 +1,261 @@
+{
+  "answer": "**Manusmṛti Chapter 12 and Yājñavalkya Smṛti Chapter 3 both describe the soul's afterlife and rebirth (saṃsāra) as driven by karma performed through mind, speech, and body, with the three guṇas (sattva, rajas, tamas) classifying outcomes: sattvic souls reborn among gods or high states, rajasic among humans or mid-states, and tamasic among beasts, immovable things, or low states.[^1][^2] Both texts link specific sins to precise rebirths (e.g., Brahmana-slayers as dogs or low castes; thieves as rats or lizards) and emphasize post-death judgment of deeds before re-embodiment.[^3]**\n\nThey converge on karma's role in forming a new subtle/gross body from the five elements after experiencing heaven/hell-fruits, but diverge on the *mechanics*—particularly the post-mortem trajectory, transitional states, and escape conditions:\n\n- **Manusmṛti** envisions a uniform, cyclical process for all: After death, sinful souls form a temporary \"torment body\" from the five elements to endure Yama's hells (e.g., Tamiśra, Aśipatravana).[^4] The soul then dissolves element-by-element, approaches the \"Great One\" and \"knower of the field\" (kṣetrajña) for judgment of dharma/adharma balance, and—regardless of prior heaven—receives a new birth strictly by predominant guṇa and residual karma (no exceptional liberation path specified here).[^5] Rebirth is mechanistic and inevitable until knowledge/tapas overrides karma entirely, with no named celestial \"paths\" or ray-based guidance.\n\n- **Yājñavalkya Smṛti** introduces a bifurcated post-mortem journey with Upaniṣadic paths (pitṛyāna/devayāna): Sattva-dominant souls with knowledge/yoga follow the \"path of gods\" (via sun/flame/northward solstice/lightning to Brahmā-world, no return).[^6] Others take the \"path of ancestors\" (smoke/night/southward solstice/moon, temporary stay then rebirth via wind/rain/earth/wombs).[^7] Mechanics emphasize the Self's infinite rays from the heart-lamp (one piercing sun for liberation; others to gods/abodes or saṃsāra-wombs), womb embryology (monthly element-fusion from semen/blood), and yoga-siddhis (e.g., breath control, body-exit) to ripen faculties for memory/knowledge, breaking rajas/tamas delusion.[^8] Rebirth fruition varies (immediate, deferred, or mixed), enabled by Self's creative agency via guṇas/karma in utero—not just post-hell dissolution.\n\n**Core parting: Manu stresses elemental dissolution/judgment → guṇa-karma rebirth (hell-inclusive for sinners, heaven temporary); Yājñavalkya prioritizes path-divergence (rebirth via lunar cycle vs. irreversible ascent), yogic self-realization, and the Self's proactive embodiment in wombs via rays/elements, allowing knowledge-based escape mid-cycle without uniform hell/Yama.** The corpus lacks further Smṛti comparisons on this.\n\n[^1]: Manusmṛti, *Chapter 12*, [paras. 3-9](/works/unknown-manusmrti-347b76/12/translation/#p-e464cc).\n\n[^2]: Yājñavalkya Smṛti, *Chapter 3*, [paras. 134-140](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-841137).\n\n[^3]: Manusmṛti, *Chapter 12*, [paras. 54-69](/works/unknown-manusmrti-347b76/12/translation/#p-961cc5); Yājñavalkya Smṛti, *Chapter 3*, [paras. 131-136](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-8a37bd).\n\n[^4]: Manusmṛti, *Chapter 12*, [paras. 15-22](/works/unknown-manusmrti-347b76/12/translation/#p-0109b4).\n\n[^5]: Manusmṛti, *Chapter 12*, [paras. 23-51](/works/unknown-manusmrti-347b76/12/translation/#p-3aeb91).\n\n[^6]: Yājñavalkya Smṛti, *Chapter 3*, [paras. 192-194](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-b99305).\n\n[^7]: Yājñavalkya Smṛti, *Chapter 3*, [paras. 184-196](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-cf730e).\n\n[^8]: Yājñavalkya Smṛti, *Chapter 3*, [paras. 72, 166-169, 179-183](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-32c279).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "e464cc",
+          "3aeb91",
+          "03ed19"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_range": {
+          "start": 10,
+          "end": 30
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 21 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "961cc5",
+          "2f8267"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "paragraph_range": {
+          "start": 130,
+          "end": 150
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 21 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "32c279",
+          "b57e62",
+          "f886bb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "paragraph_range": {
+          "start": 184,
+          "end": 196
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 13 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-e464cc"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-841137"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-961cc5"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-8a37bd"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-0109b4"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-3aeb91"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-b99305"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-cf730e"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-32c279"
+    }
+  ],
+  "duration_ms": 55082,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 76370,
+    "completion_tokens": 5299,
+    "total_tokens": 81669,
+    "cached_tokens": 6450,
+    "api_calls": 4,
+    "cost_usd": 0.016956,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1565,
+        "completion_tokens": 751,
+        "total_tokens": 2316,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00045915
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1868,
+        "completion_tokens": 420,
+        "total_tokens": 2288,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00035425
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 34377,
+        "completion_tokens": 2040,
+        "total_tokens": 36417,
+        "cached_tokens": 1863,
+        "cost_usd": 0.00761595
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 38560,
+        "completion_tokens": 2088,
+        "total_tokens": 40648,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00852665
+      }
+    ]
+  }
+}

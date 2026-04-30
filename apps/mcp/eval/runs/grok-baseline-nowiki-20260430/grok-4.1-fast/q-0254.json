@@ -1,0 +1,344 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation*, Volume II, offers a comparative ethnography of human \"species\" (races) and their varying degrees of physical, intellectual, and moral development, heavily tied to subsistence modes (hunting/fishing vs. agriculture), climate, and geography, rather than a strictly linear historical stadialism.**[^1][^2] He surveys contemporaneous peoples—e.g., copper-colored North Americans (hunters/fishers), Malays (mixed), Negroes (agricultural)—noting how hunter-fishers exhibit minimal property, elective chiefs, extreme individualism, vengeance-driven morals, perfidy, and frequent violence/famine, yielding chaotic \"governments\" based on strength.[^3][^4] Agriculturists show more property division, hereditary chiefs (limited authority), purer morals, and reduced scarcity/violence.[^5] This yields a quasi-stadial typology: least-developed (hunters) → more structured (agriculturists), with progress correlating to subsistence sophistication, moral refinement, and nascent authority.\n\n**Charles Dunoyer's *Nouveau Traité d'Économie Sociale*, Volume I, presents an explicitly progressive stadial history of liberty, defined as power over one's faculties via industry (skill) and morality.**[^6] He traces societal evolution through subsistence/modes of life: savage hunters (low liberty, violent, famine-prone); nomads/herders (slightly more, but rapine-heavy); sedentary slaves (masters live off labor); serfdom (peasants till soil for lords); privilege/monopoly (post-feudal castes); office-seeking (pre-industrial); purely industrial (universal labor/exchange, maximal liberty).[^7][^8] Liberty grows as violence wanes, property emerges, and industry/morals develop; hunter-savage life is least free (brutish, insecure), industrial most (peaceful, productive).[^9]\n\n**Their typologies converge on subsistence as the driver of moral/governmental evolution and liberty-like traits (security, reduced violence).** Both depict hunter-savages as least advanced: minimal property/division of labor, elective chiefs (war/hunt-only), vengeance/perfidious morals, strength-based inequality, habitual scarcity/famine breeding egoism/cruelty.[^10][^11] Agriculture/sedentary marks progress: private property, hereditary (weak) authority, tempered morals, less vengeance/war (tribal peace via cultivation).[^12][^13] Divergences: Comte is synchronic/comparative (by race/climate), Dunoyer diachronic (universal progression to industry); Dunoyer emphasizes liberty explicitly, Comte implies it via development/security. Yet Dunoyer echoes Comte's ethnography (e.g., North American hunters), integrating it into his stages.[^14]\n\nComte's Vol II lacks Dunoyer's teleological industry endpoint or intermediate serfdom/privilege, focusing on pre-modern baselines; together, they align subsistence-stadialism with French liberal anthropology, prefiguring industrial liberty.\n\n[^1]: Charles Comte, *Traité de Législation: VOL II*, [Chapter 1](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-ccd355).\n\n[^2]: Charles Comte, *Traité de Législation: VOL II*, [Chapter 14](/works/charles-comte-traite-de-legislation-vol-ii-20331d/14-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-fe597e).\n\n[^3]: Charles Comte, *Traité de Législation: VOL II*, [Chapter 14](/works/charles-comte-traite-de-legislation-vol-ii-20331d/14-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-de6422).\n\n[^4]: Charles Comte, *Traité de Législation: VOL II*, [Chapter 14](/works/charles-comte-traite-de-legislation-vol-ii-20331d/14-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-2a0353).\n\n[^5]: Charles Comte, *Traité de Législation: VOL II*, [Chapter 14](/works/charles-comte-traite-de-legislation-vol-ii-20331d/14-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-5e567c).\n\n[^6]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [Chapter 1](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-fc8999).\n\n[^7]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [Introduction](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-e9a4bc).\n\n[^8]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [Chapter 11](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/translation/#p-f1f859).\n\n[^9]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [Chapter 5](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/05-liberte-compatible-avec-la-maniere-de-vivre-des-pe/translation/#p-11bd3d).\n\n[^10]: Charles Comte, *Traité de Législation: VOL II*, [Chapter 14](/works/charles-comte-traite-de-legislation-vol-ii-20331d/14-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-69ea4f).\n\n[^11]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [Chapter 5](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/05-liberte-compatible-avec-la-maniere-de-vivre-des-pe/translation/#p-24773b).\n\n[^12]: Charles Comte, *Traité de Législation: VOL II*, [Chapter 14](/works/charles-comte-traite-de-legislation-vol-ii-20331d/14-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-ebfa80).\n\n[^13]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [Chapter 7](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/07-ii-liberte-compatible-avec-la-maniere-de-vivre-des/translation/#p-52489c).\n\n[^14]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [Chapter 2](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-d0df94).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "liberal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "work_slug_b": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "topic": "stadial history"
+      },
+      "result_summary": "{\"topic\":\"stadial history\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"charles-comte-traite-de-legislation-vol-ii"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "work_slug_b": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "topic": "stages of liberty"
+      },
+      "result_summary": "{\"topic\":\"stages of liberty\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"charles-comte-traite-de-legislation-vol-"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "work_slug_b": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "topic": "stages of society"
+      },
+      "result_summary": "{\"topic\":\"stages of society\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"charles-comte-traite-de-legislation-vol-"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"stadial history\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"stages of society\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"stages of liberty\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"progress of liberty\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"history of societies\" dunoyer OR comte",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-legislation-vol-ii-20331d (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "stages OR stadial OR \"successive ages\" OR \"different stages\" OR \"progress of society\" OR \"history of civilization\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"savage\" OR nomad OR sedentary OR slavery OR serfdom OR industry dunoyer",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.0 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of charles-comte-traite-de-legislation-vol-ii-20331d (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-ccd355"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-fe597e"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-de6422"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-2a0353"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-5e567c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-fc8999"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-e9a4bc"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-f1f859"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-11bd3d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-69ea4f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-24773b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-ebfa80"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-52489c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-d0df94"
+    }
+  ],
+  "duration_ms": 67315,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 113380,
+    "completion_tokens": 6539,
+    "total_tokens": 119919,
+    "cached_tokens": 43087,
+    "api_calls": 5,
+    "cost_usd": 0.019482450000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1569,
+        "completion_tokens": 471,
+        "total_tokens": 2040,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00031995
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2733,
+        "completion_tokens": 961,
+        "total_tokens": 3694,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00079775
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "compare_works",
+          "compare_works",
+          "compare_works"
+        ],
+        "prompt_tokens": 7370,
+        "completion_tokens": 1682,
+        "total_tokens": 9052,
+        "cached_tokens": 2728,
+        "cost_usd": 0.0019058
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 29941,
+        "completion_tokens": 1239,
+        "total_tokens": 31180,
+        "cached_tokens": 7365,
+        "cost_usd": 0.00550295
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 71767,
+        "completion_tokens": 2186,
+        "total_tokens": 73953,
+        "cached_tokens": 29936,
+        "cost_usd": 0.010956
+      }
+    ]
+  }
+}

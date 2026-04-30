@@ -1,0 +1,162 @@
+{
+  "answer": "**The figure of the cup-bearer (*saqi*), a common motif in Persianate poetry symbolizing the wine-server, beloved, or mystical guide, appears prominently in several Urdu poetry collections in the corpus.**\n\nThese include:\n\n- **Bang-E-Dara Part 2** by Allama Iqbal: References the cupbearer in poems envisioning a transformed world, such as \"Zamana aaya hai be-hijabi ka\" (\"Gone is that age, O Cupbearer, of drinking in the dark of night\").[^1] It also appears elsewhere, like in \"Hah.\"[^2]\n\n- **Bang-E-Dara Part 3** by Allama Iqbal: Mentions the *saqi* in poems on nationalism and paradise, e.g., \"Wataniyat\" (\"The Saqi’s ways of grace and wrath are fashioned new\")[^3] and \"Sair-e-Falak.\"[^4]\n\n- **Diwan-E-Ghalib** by Mirza Ghalib: The *saqi* recurs across numerous ghazals, often in contexts of wine, desire, and divine service, such as \"Bahut sahi gham-e-geeti sharaab kam kya hai\" (\"I serve Heaven's Cupbearer\").[^5] Other examples include chapters 2, 50, 78, 124, 138, 150, 156, 165, 198, 220, and 231.[^6]\n\n- **Diwan-E-Zauq** by Sheikh Ibrahim Zauq: A dedicated poem, \"kahan talak kahoon saqi ke laa sharaab to de,\" directly addresses the *saqi* pleading for wine.[^7]\n\nNo other works in the corpus substantially engage this figure; isolated literal mentions (e.g., historical roles) are not poetic treatments.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/05-zamana-aaya-hai-be-hijabi-ka-aam-deedaar-e-yaar-ho/translation/#p-445c2f).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 2*, chapter 11 (\"Hah\"), translation.\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-79b1e9).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, chapter 18 (\"Sair-e-Falak\"), translation.\n\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/14-bahut-sahi-gham-e-geeti-sharaab-kam-kya-hai/translation/#p-74a1cf).\n\n[^6]: Mirza Ghalib, *Diwan-E-Ghalib*, multiple chapters (search results).\n\n[^7]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, chapter 58 (\"kahan talak kahoon saqi ke laa sharaab to de\"), transliteration (primary variant).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saqi",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cup-bearer\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cupbearer",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cup bearer\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-445c2f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "paragraph_ids": [
+          "p-79b1e9"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 14,
+        "paragraph_ids": [
+          "p-74a1cf"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 58,
+        "paragraph_ids": [
+          "p-2a62b0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 58,
+      "paragraph_id": "p-445c2f"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 58,
+      "paragraph_id": "p-79b1e9"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 58,
+      "paragraph_id": "p-74a1cf"
+    }
+  ],
+  "duration_ms": 31150,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 13839,
+    "completion_tokens": 3273,
+    "total_tokens": 17112,
+    "cached_tokens": 7222,
+    "api_calls": 3,
+    "cost_usd": 0.003321,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 411,
+        "total_tokens": 1963,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004934
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5543,
+        "completion_tokens": 1314,
+        "total_tokens": 6857,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0015355
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "list_works"
+        ],
+        "prompt_tokens": 6744,
+        "completion_tokens": 1548,
+        "total_tokens": 8292,
+        "cached_tokens": 5538,
+        "cost_usd": 0.0012921
+      }
+    ]
+  }
+}

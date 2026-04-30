@@ -1,0 +1,307 @@
+{
+  "answer": "In *Juliana*, the prison demon is a solitary supernatural agent of hell, appearing in angelic guise to tempt the saint with deception and false counsel, urging her to sacrifice to pagan idols to avoid torment.[^1] Posing as a messenger from God, it claims divine authority while subtly promoting apostasy, only to be seized, bound, interrogated at length about its infernal lineage and tactics (sent by Satan, its \"father,\" and tasked with sowing sin through mental temptations like lust and delusion), and publicly humiliated when Juliana drags it in chains before her tormentors.[^2] This fiend embodies spiritual evil: insidious, verbose, cowardly under pressure, and ultimately powerless against the saint's faith, confessing its role in biblical crimes (e.g., inciting Christ's crucifixion, beheading John the Baptist) before fleeing in shame.[^3]\n\nBy contrast, in *Andreas*, the Mermedonian captors are a collective of monstrous humans—cannibalistic heathens from a \"grim land\" who routinely drug, imprison, blind, and devour strangers as a cultural rite.[^4] They subject Andrew to prolonged physical brutality: binding, dragging him through streets until his \"bone-house [is] broken\" and bloodied, repeated scourgings over days amid winter storms, all in a public spectacle of communal rage.[^5] A devil does briefly appear among them \"wan and featureless\" to incite murder, identifying Andrew as a \"foreign fiend,\" but it is peripheral; the captors themselves drive the action as embodied, savage agents of evil, their violence raw and corporeal rather than seductive or confessional.[^6] Unlike Juliana's demon, they are not spiritually unmasked but conquered through miracles (e.g., floods, resurrections), leading to mass conversion.\n\nThe demon personalizes hell's psychological warfare, individualized and dialogic; the Mermedonians collectivize pagan brutality, emphasizing heroic endurance of bodily torment in an Anglo-Saxon mode.\n\n[^1]: *Juliana*, [p-a370d7](/works/cynewulf-juliana-9a2157/01/translation/#p-a370d7).\n\n[^2]: *Juliana*, [p-feeb82](/works/cynewulf-juliana-9a2157/01/translation/#p-feeb82); [p-bd327c](/works/cynewulf-juliana-9a2157/01/translation/#p-bd327c); [p-6b7e11](/works/cynewulf-juliana-9a2157/01/translation/#p-6b7e11).\n\n[^3]: *Juliana*, [p-da3fd4](/works/cynewulf-juliana-9a2157/01/translation/#p-da3fd4); [p-3d4216](/works/cynewulf-juliana-9a2157/01/translation/#p-3d4216).\n\n[^4]: *Andreas*, [p-f6e450](/works/cynewulf-andreas-07b573/01/translation/#p-f6e450); [p-da0c5e](/works/cynewulf-andreas-07b573/01/translation/#p-da0c5e).\n\n[^5]: *Andreas*, [p-34b202](/works/cynewulf-andreas-07b573/01/translation/#p-34b202); [p-5d78fc](/works/cynewulf-andreas-07b573/01/translation/#p-5d78fc).\n\n[^6]: *Andreas*, [p-5e2611](/works/cynewulf-andreas-07b573/01/translation/#p-5e2611).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "andreas"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Juliana\" demon prison"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Andreas\" Mermedonian"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "demon prison Juliana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedonian Andreas"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"prison demon\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "demon Juliana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedon"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-a370d7",
+          "p-feeb82",
+          "p-da3fd4",
+          "p-bd327c",
+          "p-3d4216"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-6b7e11"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f6e450",
+          "p-da0c5e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-34b202",
+          "p-5d78fc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-5e2611"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-a370d7"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-feeb82"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-bd327c"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-6b7e11"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-da3fd4"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-3d4216"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-f6e450"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-da0c5e"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-34b202"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-5d78fc"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-5e2611"
+    }
+  ],
+  "duration_ms": 50066,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 70208,
+    "completion_tokens": 3802,
+    "total_tokens": 74010,
+    "cached_tokens": 36725,
+    "api_calls": 5,
+    "cost_usd": 0.01043385,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1566,
+        "completion_tokens": 360,
+        "total_tokens": 1926,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004707
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2064,
+        "completion_tokens": 371,
+        "total_tokens": 2435,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00036895
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2461,
+        "completion_tokens": 258,
+        "total_tokens": 2719,
+        "cached_tokens": 2059,
+        "cost_usd": 0.00031235
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30536,
+        "completion_tokens": 1372,
+        "total_tokens": 31908,
+        "cached_tokens": 2456,
+        "cost_usd": 0.0064248
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 33581,
+        "completion_tokens": 1441,
+        "total_tokens": 35022,
+        "cached_tokens": 30531,
+        "cost_usd": 0.00285705
+      }
+    ]
+  }
+}

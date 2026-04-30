@@ -1,0 +1,154 @@
+{
+  "answer": "**The Falsafa corpus does not contain the phrase \"gulshan-e-na-aafrida\" (or close variants like \"gulshan-e-na-afrida\"), \"un-created garden,\" or \"uncreated garden\") in Allama Iqbal's works or elsewhere.** \n\nIqbal's poetry collections *Bang-e-Dara Part 1*[^1], *Part 2*[^2], and *Part 3*[^3] (Urdu, with English translations and transliterations) are the only works by him in the corpus. Extensive searches across English translations (including for \"garden,\" \"gulshan,\" \"Iqbal garden,\" and terms like \"na-aafrida\" or \"uncreated\") yielded zero relevant results. Iqbal's Persian works (e.g., *Asrar-i Khudi* or *Javīd Nāma*, where garden metaphors are common) are not included in the current 37-work corpus.\n\nIf this refers to a specific poem, concept from Iqbal's broader philosophy (such as the eternal garden of divine creativity or khudi/selfhood), or a non-corpus source, it cannot be confirmed or cited here.\n\n[^1]: *Bang-E-Dara Part 1*, Allama Iqbal (1924), [work](/works/allama-iqbal-bang-e-dara-part-1-55b25c).\n[^2]: *Bang-E-Dara Part 2*, Allama Iqbal (1924), [work](/works/allama-iqbal-bang-e-dara-part-2-9bc58c).\n[^3]: *Bang-E-Dara Part 3*, Allama Iqbal (1924), [work](/works/allama-iqbal-bang-e-dara-part-3-cc61e8).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gulshan-e-na-aafrida",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"un-created garden\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"uncreated garden\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "persian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "garden Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"garden\" Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gulshan Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"na-aafrida\" OR \"na-afrida\" OR \"uncreated\" OR \"un-created\" Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 31847,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 17925,
+    "completion_tokens": 2714,
+    "total_tokens": 20639,
+    "cached_tokens": 7801,
+    "api_calls": 3,
+    "cost_usd": 0.00377185,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 734,
+        "total_tokens": 2289,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0004482
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 6124,
+        "completion_tokens": 1093,
+        "total_tokens": 7217,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017488
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10246,
+        "completion_tokens": 887,
+        "total_tokens": 11133,
+        "cached_tokens": 6119,
+        "cost_usd": 0.00157485
+      }
+    ]
+  }
+}

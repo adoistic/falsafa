@@ -1,0 +1,210 @@
+{
+  "answer": "**The specific Persian-Urdu phrase \"naqd-e-aaina\" (or close variants like \"naqd aaina,\" نقد آئینہ, etc.) does not appear in the Falsafa corpus, including Mirza Ghalib's *Diwan-e-Ghalib* (239 ghazals with original Urdu, Roman transliteration, and English translation variants).**\n\nI conducted extensive searches across English translations and transliterations for the phrase, its components (\"naqd,\" \"aaina,\" \"mirror,\" \"coin,\" \"cash\"), and Ghalib-specific contexts. While \"aaina\" (mirror) appears frequently in Urdu poetry here (e.g., Ghalib's ghazal 4: \"Aaina dekh apna sa munh le ke reh gaye\"—\"They looked in the mirror, their own face they could not bear\"; ghazal 5: \"Aaina kyun na doon...\"—\"Why not give a mirror...?\"),[^1][^2] and \"naqd\" surfaces in Ghalib (e.g., ghazal 95: \"naqd-e-daagh-e-dil\"—suggesting \"cash/assay of the heart's scar\"; ghazal 10: \"naqd-e ishrat\"— \"cash of pleasure\"),[^3][^4] no compound \"naqd-e-aaina\" occurs. The English gloss \"cash-coin of the mirror\" also yields zero results.\n\nThis corpus covers key Urdu works (Ghalib's full *Diwan*, Iqbal's *Bang-e-Dara* parts 1–3, Zauq's *Diwan*), but with only 37 works total, it may lack variant editions, letters, or prose where such a metaphor might appear in Ghalib's broader oeuvre. Ghalib's style favors layered *istiareh* (metaphors) defying literal translation—\"naqd\" evokes coin/cash/critique/assay, \"aaina\" reflection/self-scrutiny—but this exact idiom isn't attested here. If it's from a specific ghazal, commentary, or Persian *masnavi*, it's not in this collection.\n\n[^1]: *Diwan-E-Ghalib*, ch. 4, [p-bc4c1b](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/transliteration/#p-bc4c1b).\n[^2]: *Diwan-E-Ghalib*, ch. 5, [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/05-aaina-kyun-na-doon-ke-tamasha-kahein-jise/transliteration/).\n[^3]: *Diwan-E-Ghalib*, ch. 95, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/95-jo-na-naqd-e-daagh-e-dil-ki-kare-shola-paasbaani/transliteration/#p-877f83).\n[^4]: *Diwan-E-Ghalib*, ch. 10, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/10-arz-e-naaz-e-shokhi-e-dandaan-baraaye-khanda-hai/transliteration/#p-unknown—from snippet).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naqd-e-aaina",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cash-coin of the mirror\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naqd aaina",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "persian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "aaina",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naqd",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "آئینہ",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "نقد",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mirror",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "coin",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cash",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mirror ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-Ghalib\",\"author\":\"Mirza Ghalib\",\"author_slug\":\"mirza-ghalib\",\"era\":\"19th Century\",\"era_slug\":\"19th-century\",\"genre\":\"Literature\",\"genre_sl"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-bc4c1b"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-877f83"
+    }
+  ],
+  "duration_ms": 32459,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 36096,
+    "completion_tokens": 4021,
+    "total_tokens": 40117,
+    "cached_tokens": 20337,
+    "api_calls": 4,
+    "cost_usd": 0.0061791500000000004,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1574,
+        "completion_tokens": 799,
+        "total_tokens": 2373,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00048495
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 6082,
+        "completion_tokens": 1042,
+        "total_tokens": 7124,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017149
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12586,
+        "completion_tokens": 847,
+        "total_tokens": 13433,
+        "cached_tokens": 6077,
+        "cost_usd": 0.00202915
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_metadata"
+        ],
+        "prompt_tokens": 15854,
+        "completion_tokens": 1333,
+        "total_tokens": 17187,
+        "cached_tokens": 12581,
+        "cost_usd": 0.00195015
+      }
+    ]
+  }
+}

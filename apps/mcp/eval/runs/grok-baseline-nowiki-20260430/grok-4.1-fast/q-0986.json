@@ -1,0 +1,268 @@
+{
+  "answer": "**San Hyan Kamahayanikan**: The cosmos (along with the body, its elements, aggregates, wisdoms, poisons, embryonic stages, and all phenomena) is centrally organized as a maṇḍala around the five Tathāgatas (Pañcatathāgata)—Vairocana, Akṣobhya, Ratnasambhava, Amitābha, and Amoghasiddhi—who emanate all reality, from the Ratnatraya (Three Jewels) to the five elements, five skandhas, five wisdoms, and creation itself.[^1][^2][^3]\n\n**Viṣṇu Smṛti**: Vishnu (as the cosmic Boar/Varāha) creates and orders the entire universe—seven netherworlds and upper worlds, continents, oceans, guardians of places/worlds/directions, sages, Vedas, rivers, mountains, trees, gods, anti-gods, various beings (Piśācas to humans), and sacrifices—then sustains the Earth through the dharma-practicing humans of the four varṇas and four āśramas.[^4][^5]\n\n**Harder to substitute**: San Hyan Kamahayanikan. Its structure is a rigid tantric maṇḍala defined by exactly *five* Tathāgatas (with fixed seed-syllables, consorts, mappings to quintuple categories like the five elements/skandhas/wisdoms/poisons, and emanations); substituting even one (e.g., adding/removing a Tathāgata) fractures the doctrinal symmetry and initiatory system.[^6] Viṣṇu Smṛti's cosmology is a narrative enumeration of roles/entities under Vishnu's creative act, sustained by varṇa/āśrama dharma; one term/office (e.g., a guardian) is readily substitutable without collapsing the hierarchy or purpose.[^7]\n\n[^1]: *San Hyan Kamahayanikan*, [Chapter 1/translation/#p-638b90](https://falsafa.thothica.com/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-638b90) (Lords of the Five Tathāgatas).\n\n[^2]: *San Hyan Kamahayanikan*, [Chapter 1/translation/#p-f72091](https://falsafa.thothica.com/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-f72091) (Pañcatathāgata as body of reality, emanating all).\n\n[^3]: *San Hyan Kamahayanikan*, [Chapter 1/translation/#p-204881](https://falsafa.thothica.com/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-204881) (seed-syllables creating the Five Tathāgatas).\n\n[^4]: *Viṣṇu Smṛti*, [Chapter 1/translation/](https://falsafa.thothica.com/works/unknown-visnu-smrti-27f0d8/01/translation/) (Vishnu's creation as Boar).\n\n[^5]: *Viṣṇu Smṛti*, [Chapter 1/translation/#p-199ee0](https://falsafa.thothica.com/works/unknown-visnu-smrti-27f0d8/01/translation/#p-199ee0) (Earth supported by varṇas/āśramas).\n\n[^6]: *San Hyan Kamahayanikan*, [Chapter 1/translation/#p-ac0261](https://falsafa.thothica.com/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-ac0261) (fivefold mappings, e.g., elements).\n\n[^7]: *Viṣṇu Smṛti*, [Chapter 1/translation/#p-1af09a](https://falsafa.thothica.com/works/unknown-visnu-smrti-27f0d8/01/translation/#p-1af09a) (enumerated cosmic roles).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "San Hyan Kamahayanikan"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five Tathagatas\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Viṣṇu Smṛti\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cosmic offices\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tathagata"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tathagatas"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cosmos OR universe OR world",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "{\"slug\":\"unknown-san-hyan-kamahayanikan-2a0c19\",\"title\":\"San Hyan Kamahayanikan\",\"author\":\"Mpu Shri Sambhara Surya Warama\",\"author_slug\":\"mpu-shri-sambhara-surya-warama\",\"era\":\"Medieval\",\"era_slug\":\"m"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"slug\":\"unknown-visnu-smrti-27f0d8\",\"title\":\"Viṣṇu Smṛti\",\"author\":\"Viṣṇu\",\"author_slug\":\"visnu\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Sanskrit\",\"la"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "five"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tathāgata"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tathagata\" OR \"tathagata\" OR \"pañca\" OR \"five buddh\" OR \"five tatha\" OR \"vairocana\" OR \"aksobhya\" OR \"amitabha\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"visnu\" OR \"vishnu\" OR \"creation\" OR \"cosmos\" OR \"world\" OR \"universe\" OR \"order\" OR \"office\" in work_slug:unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-638b90"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-f72091"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-204881"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-199ee0"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-ac0261"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-1af09a"
+    }
+  ],
+  "duration_ms": 56591,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 110922,
+    "completion_tokens": 5053,
+    "total_tokens": 115975,
+    "cached_tokens": 55531,
+    "api_calls": 5,
+    "cost_usd": 0.01638125,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1593,
+        "completion_tokens": 600,
+        "total_tokens": 2193,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038925
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5142,
+        "completion_tokens": 1068,
+        "total_tokens": 6210,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00133305
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9797,
+        "completion_tokens": 695,
+        "total_tokens": 10492,
+        "cached_tokens": 150,
+        "cost_usd": 0.0022844
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_metadata",
+          "get_metadata",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 42536,
+        "completion_tokens": 926,
+        "total_tokens": 43462,
+        "cached_tokens": 9792,
+        "cost_usd": 0.0075014
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 51854,
+        "completion_tokens": 1764,
+        "total_tokens": 53618,
+        "cached_tokens": 42531,
+        "cost_usd": 0.00487315
+      }
+    ]
+  }
+}

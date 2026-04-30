@@ -1,0 +1,218 @@
+{
+  "answer": "Several works in the corpus contain poetic or narrative reflections on youth—not mere mentions in passing, but meditations on its transience, joys, longings, pride, or relation to age and action. These are primarily in poetry collections rather than treatises. Key examples include:\n\n**Allama Iqbal's *Bang-E-Dara* collections**, which frequently reflect on youth (*shabaab* or *jawani*) as a time of aspiration, pain, beauty, and fleeting joy, contrasted with maturity or loss. For instance:\n- Part 3 directly addresses Muslim youth (*jawanan-e-Islam*), urging reflection on their heritage of action versus modern stasis: \"Have you ever, O Muslim youth, paused for solemn reflection? What was that firmament, of which you are but a shattered star?\"[^1]\n- Part 2 laments youth's impatient longing: \"That Paradise is peace, I offer no debate, But for the soul of Youth, your message comes too late. Ah, Youth! How long can it in hopeful longing burn?\"[^2]\n- Part 1 notes a figure whose \"youth is spotless as the light of day.\"[^3]\n\n**Sheikh Ibrahim Zauq's *Diwan-E-Zauq*** reflects wistfully on old age (*peeri*) prompting talk of lost youth (*shabaab*): \"In fading years, of youth we live without, we talk about; Of fleeting dreams whose truth we start to doubt, we talk about.\"[^4]\n\n**Cynewulf's *Elene*** contemplates youth's gleam fading into age's sorrow: \"Joy has waned with the years, youth is gone, the old pride. The gleam of youth was once his. Now the old days... have passed away, life’s joys have slipped by.\"[^5]\n\n**Mirza Ghalib's *Diwan-E-Ghalib*** touches on youth's brevity and mischief, as in a lament for one who \"died so young.\"[^6]\n\nSmṛti texts like *Manusmṛti* reference youth (*yauvana*) prescriptively (e.g., a woman's protection \"in youth\" by her husband), but lack philosophical reflection on its essence.[^7] Narrative poems like *Andreas* or *Elene* mention \"young\" warriors poetically but without deep introspection. No systematic philosophical treatises (e.g., on youth as a life stage) appear in the results.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 2*, [paragraphs](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/11-hah/translation/#p-6db29c).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-fa4066).\n[^4]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/50-waqt-e-peeri-shabaab-ki-baatein/translation/#p-8f88a4).\n[^5]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-8f8a1b).\n[^6]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/125-lazim-tha-ke-dekho-mera-rasta-koi-din-aur/translation/#p-efe68e).\n[^7]: Unknown, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-233021).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "young",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "youth",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "be young",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-0291d8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-365462"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 50,
+        "paragraph_ids": [
+          "p-8f88a4"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-6db29c",
+          "p-52b7ac"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "paragraph_ids": [
+          "p-fa4066"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 125,
+        "paragraph_ids": [
+          "p-efe68e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-8f8a1b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-233021"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-6db29c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-fa4066"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-8f88a4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-8f8a1b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-efe68e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-233021"
+    }
+  ],
+  "duration_ms": 31736,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 29541,
+    "completion_tokens": 4804,
+    "total_tokens": 34345,
+    "cached_tokens": 16044,
+    "api_calls": 3,
+    "cost_usd": 0.0059036,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1549,
+        "completion_tokens": 578,
+        "total_tokens": 2127,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003693
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12982,
+        "completion_tokens": 2670,
+        "total_tokens": 15652,
+        "cached_tokens": 1537,
+        "cost_usd": 0.00370085
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 15010,
+        "completion_tokens": 1556,
+        "total_tokens": 16566,
+        "cached_tokens": 12977,
+        "cost_usd": 0.00183345
+      }
+    ]
+  }
+}

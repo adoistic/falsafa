@@ -1,0 +1,125 @@
+{
+  "answer": "**The following works in the Falsafa corpus address or describe death directly, often in philosophical, ritualistic, poetic, or narrative contexts:**\n\n- **Andreas** by Cynewulf: This Old English poem narrates the apostle Andrew's mission to rescue Matthew from cannibals, extensively depicting threats of death, martyrdom, torture, sudden death, death-doom, and divine intervention against mortality, including vivid scenes of execution, bloodbaths, and heroic endurance.[^1][^2]\n\n- **Āṅgirasa Smṛti**: A Dharmaśāstra text that methodically describes death rituals (*śrāddha*), ritual impurity from death (*mṛtāśauca*), death anniversaries (*mṛtāha*), procedures if death occurs during cooking or on streets, penances for neglecting death rites, and special rules for violent deaths, suicides, or deaths in *dīkṣā*.[^3][^4]\n\n- **Bang-E-Dara** (Parts 1, 2, and 3) by Allama Iqbal: Urdu poetry philosophically explores death as separation, a transition to eternity, joy in dying for faith, defiance of mortality, and critiques of worldly life ending in death.[^5][^6]\n\n- **Diwan-E-Ghalib** by Mirza Ghalib: Ghazals frequently contemplate personal death, dying for love, the inevitability of mortality, death as unfulfilled desire, and existential despair leading to death.[^7][^8]\n\n- **Diwan-E-Zauq** by Sheikh Ibrahim Zauq: Poems reflect on dying groans, death's inevitability, victory in killing the already dying, and lovers pursuing death's joy.[^9]\n\nOther Smṛti texts like **Bṛhaspati Smṛti**, **Manusmṛti**, **Kātyāyana Smṛti**, and **Yājñavalkya Smṛti** address death in legal/philosophical terms (e.g., inheritance after death, debts of the dying, mortal sins, immortality via rites), but less centrally than the above.[^10]\n\nEpicurean/Stoic or classical Western texts on death (e.g., Lucretius) yield fewer direct hits in searches, so they do not prominently feature.\n\n[^1]: Cynewulf, *Andreas*, [Chapter 1, p-58182e](/works/cynewulf-andreas-07b573/01/translation/#p-58182e).\n[^2]: Cynewulf, *Andreas*, [Chapter 1, p-4d1e78](/works/cynewulf-andreas-07b573/01/translation/#p-4d1e78).\n[^3]: Unknown, *Āṅgirasa Smṛti*, [Chapter 1, p-37eaa2](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-37eaa2).\n[^4]: Unknown, *Āṅgirasa Smṛti*, [Chapter 1, p-8c1bf2](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-8c1bf2).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 7, p-6af46a](/works/allama-iqbal-bang-e-dara-part-1-55b25c/07-kya-kahun-apne-chaman-se-main-juda-kyonkar-hua/translation/#p-6af46a).\n[^6]: Allama Iqbal, *Bang-E-Dara Part 3*, [Chapter 6, p-c5238d](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-c5238d).\n[^7]: Mirza Ghalib, *Diwan-E-Ghalib*, [Chapter 4, p-354db2](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/translation/#p-354db2).\n[^8]: Mirza Ghalib, *Diwan-E-Ghalib*, [Chapter 115, p-3e5156](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/115-koi-ummeed-bar-nahin-aati/translation/#p-3e5156).\n[^9]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [Chapter 4, p-44c54e](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/04-ab-toh-ghabra-ke-yeh-kehte-hain-ke-mar-jaayenge/translation/#p-44c54e).\n[^10]: Unknown, *Bṛhaspati Smṛti*, [Chapter 1, p-28a546](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-28a546).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "death",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "die",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dying",
+        "limit": 100
+      },
+      "result_summary": "Found 93 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mortal",
+        "limit": 100
+      },
+      "result_summary": "Found 78 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mortality",
+        "limit": 100
+      },
+      "result_summary": "Found 14 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-58182e"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-4d1e78"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-37eaa2"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-8c1bf2"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-6af46a"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-c5238d"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-354db2"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-3e5156"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-44c54e"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-28a546"
+    }
+  ],
+  "duration_ms": 25979,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 50047,
+    "completion_tokens": 2535,
+    "total_tokens": 52582,
+    "cached_tokens": 300,
+    "api_calls": 2,
+    "cost_usd": 0.0112319,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1545,
+        "completion_tokens": 664,
+        "total_tokens": 2209,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006185
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 48502,
+        "completion_tokens": 1871,
+        "total_tokens": 50373,
+        "cached_tokens": 150,
+        "cost_usd": 0.0106134
+      }
+    ]
+  }
+}

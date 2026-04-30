@@ -1,0 +1,255 @@
+{
+  "answer": "**The Falsafa corpus does not contain an explicit definition or discussion of 'maqta' (مقطع) as the closing couplet of a ghazal that typically includes the poet's takhallus (pen name).** No passages explain its role as a structural unit in Urdu/Persian poetry, despite the presence of relevant works like *Diwan-E-Ghalib* (Mirza Ghalib's ghazal collection) and *Diwan-E-Zauq* (Sheikh Ibrahim Zauq's). Searches for \"maqta\", \"maqṭaʿ\", \"takhallus\", and related terms yield only poetic usages (often \"maqtal\" meaning \"place of slaughter\") or instances of takhallus in verse.[^1][^2]\n\nHowever, the ghazals themselves illustrate the convention: the final couplet (maqtaʿ) frequently incorporates the poet's takhallus—Ghalib's is \"Asad\"—often in direct address or self-reference, serving as a signature.\n\n### Examples from *Diwan-E-Ghalib*\n\n**Ghazal 4 (\"Aaina dekh apna sa munh le ke reh gaye\")**  \nThe transliteration explicitly uses \"takhallus\" (pen name) for a heart once called \"sabo or\" (\"The Patient One\").[^3] The maqtaʿ follows in the next couplet:  \n\n> Asad, consumed by waiting's restless, burning might,  \n> A moth before the flame of sacred light was.[^4]\n\nTransliteration:  \n> Har rang mein jala Asad-e-fitna-e-intezaar  \n> Parwana-e-tajalli-e-shama-e-zahoor tha[^5]\n\n**Other ghazals with maqtaʿ using \"Asad\":**  \n- Ghazal 3: \"Gham-e-hasti ka Asad kis se ho juz marg ilaaj\" (\"What cure for life's great sorrow, Asad, say?\").[^6]  \n- Ghazal 6: \"Laghzish-e-mastaana o josh-e-tamaasha hai 'Asad'\" (\"A drunken stumbling, Asad, a fevered, wild display\").[^7]  \n- Ghazal 11 opens with the takhallus: \"Asad hum woh junoon-jolaan gada-e-be-sar-o-pa hain\" (\"We are, Asad, the madly wandering...\").[^8]\n\n**Diwan-E-Zauq** shows similar structure (Zauq's takhallus is \"Zauq\"), though English translations lack direct hits; transliterations likely feature it in closing couplets, as in standard ghazal form.[^9]\n\n[^1]: *Mirza Ghalib, Diwan-E-Ghalib*, ch. 48, transliteration (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/48-ghaafil-ba-vehm-e-naaz-khud-aara-hai-varna-yaan/transliteration/).\n[^2]: *Mirza Ghalib, Diwan-E-Ghalib*, ch. 4, transliteration (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/transliteration/#p-e8d6b9).\n[^3]: *Mirza Ghalib, Diwan-E-Ghalib*, ch. 4 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/translation/#p-ca46ac).\n[^4]: *Mirza Ghalib, Diwan-E-Ghalib*, ch. 4 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/translation/#p-d266ce).\n[^5]: *Mirza Ghalib, Diwan-E-Ghalib*, ch. 4 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/transliteration/#p-ee456f).\n[^6]: *Mirza Ghalib, Diwan-E-Ghalib*, ch. 3 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/03-aah-ko-chahiye-ik-umr-asar-hote-tak/translation/#p-82d15b).\n[^7]: *Mirza Ghalib, Diwan-E-Ghalib*, ch. 6 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost/translation/#p-ec8295).\n[^8]: *Mirza Ghalib, Diwan-E-Ghalib*, ch. 11 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/11-asad-hum-woh-junoon-jolaan-gada-e-be-sar-o-pa-hain/translation/#p-485ba5).\n[^9]: *Sheikh Ibrahim Zauq, Diwan-E-Zauq*, ch. 59 (/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/59-koi-in-tang-dahanon-se-mohabbat-na-kare/transliteration/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maqta",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maqṭaʿ",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "takhallus",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tak hallus",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 4,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.4 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"takhallus\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Asad\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Zauq\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maqta",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-d266ce"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-d266ce"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-ca46ac",
+          "p-d266ce"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Asad",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pen name\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "takhallus OR takhallus OR maqta OR maqṭa",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 4,
+      "paragraph_id": "p-e8d6b9"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 4,
+      "paragraph_id": "p-ca46ac"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 4,
+      "paragraph_id": "p-d266ce"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 4,
+      "paragraph_id": "p-ee456f"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 4,
+      "paragraph_id": "p-82d15b"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 4,
+      "paragraph_id": "p-ec8295"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 4,
+      "paragraph_id": "p-485ba5"
+    }
+  ],
+  "duration_ms": 60004,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 20051,
+    "completion_tokens": 6974,
+    "total_tokens": 27025,
+    "cached_tokens": 1983,
+    "api_calls": 4,
+    "cost_usd": 0.0071997499999999996,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 478,
+        "total_tokens": 2040,
+        "cached_tokens": 1533,
+        "cost_usd": 0.00032145
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2451,
+        "completion_tokens": 1458,
+        "total_tokens": 3909,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011967
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4586,
+        "completion_tokens": 2185,
+        "total_tokens": 6771,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019872
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11452,
+        "completion_tokens": 2853,
+        "total_tokens": 14305,
+        "cached_tokens": 150,
+        "cost_usd": 0.0036944
+      }
+    ]
+  }
+}

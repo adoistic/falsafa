@@ -1,0 +1,194 @@
+{
+  "answer": "**Yājñavalkya Smṛti, Chapter 2 (Vyavahārādhyāya, on Legal Procedure)** lays down the exact interest rules described.[^1]\n\nThe passage on debt recovery (ṛṇādānaprakaraṇam) specifies:\n\n> An eightieth part is the interest per month when there is a pledge; otherwise, it is two, three, four, or five percent, according to the order of the *varṇas*. // Yj_2.37 //  \n> Those who travel through forests may pay ten percent, and those who travel by sea, twenty percent; or all persons of all castes may pay the interest they have agreed upon. // Yj_2.38 //\n\nThe immediately following verse caps recoverable interest: offspring for female animals; eight times the principal for liquids; four times for cloth; three times for grain; and two times for gold.[^2]\n\n[^1]: Yājñavalkya Smṛti, [Chapter 2, paragraphs p-286928 and p-36c790](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-286928).\n\n[^2]: Yājñavalkya Smṛti, [Chapter 2, paragraph p-73b94c](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-73b94c).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"one-eightieth\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forests\" \"sea\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"two, three, four, five\" interest varna",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eight times\" \"liquids\" \"cloth\" \"grain\" \"gold\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"interest\" \"month\" varna OR brahmana OR kshatriya OR vaishya OR shudra",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"per cent\" OR percent OR \"per month\" interest",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "interest \"forest\" OR \"forests\" OR \"sea\" OR \"ocean\" OR \"traveller\" OR \"merchant\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eight times\" principal liquids OR cloth OR grain OR gold",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-286928",
+          "p-36c790"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-73b94c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"slug\":\"unknown-yajnavalkya-smrti-cb88d6\",\"title\":\"Yājñavalkya Smṛti\",\"author\":\"Yājñavalkya\",\"author_slug\":\"yajnavalkya\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-286928"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-36c790"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-73b94c"
+    }
+  ],
+  "duration_ms": 27895,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 69448,
+    "completion_tokens": 3391,
+    "total_tokens": 72839,
+    "cached_tokens": 36102,
+    "api_calls": 4,
+    "cost_usd": 0.0101698,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1681,
+        "completion_tokens": 654,
+        "total_tokens": 2335,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006407
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4552,
+        "completion_tokens": 1010,
+        "total_tokens": 5562,
+        "cached_tokens": 150,
+        "cost_usd": 0.0013929
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 31260,
+        "completion_tokens": 855,
+        "total_tokens": 32115,
+        "cached_tokens": 4547,
+        "cost_usd": 0.00599745
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_metadata"
+        ],
+        "prompt_tokens": 31955,
+        "completion_tokens": 872,
+        "total_tokens": 32827,
+        "cached_tokens": 31255,
+        "cost_usd": 0.00213875
+      }
+    ]
+  }
+}

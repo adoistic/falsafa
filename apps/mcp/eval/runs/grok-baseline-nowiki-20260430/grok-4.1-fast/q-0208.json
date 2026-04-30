@@ -1,0 +1,179 @@
+{
+  "answer": "In *Khitab ba Jawanan-e-Islam* (\"An Address to the Muslim Youth\"), Allama Iqbal directly apostrophizes the \"Muslim youth\" to provoke introspection about their diminished state relative to their conquering Arabian ancestors, who embodied proud poverty and imperial action (\"you are all talk, they were all action\").[^1] He deploys rhetorical questions (\"Have you ever... paused for solemn reflection?\"), hyperbolic historical imagery (ancestors crushing \"the crown upon the head of Darius\"), stark past-present contrasts, and poignant laments (Muslim knowledge now \"in Europe\") to instill shame and implicit urgency for revival, without prescribing specific actions beyond reflection.[^1]\n\nBy contrast, in *Sach keh doon ae Brahman! gar tu bura na maane* (\"O Brahmin, if you will not take offense\"), Iqbal addresses a Hindu Brahmin with conditional politeness to critique idol worship and religious division (\"Your ancient idols have lost reverence\"; \"You think your God is in a form of stone\"), while rejecting his own Islamic orthodoxy (\"Fed up at last, I left both mosque and shrine\").[^2] The strategy shifts to conciliatory universalism—erasing \"veils of otherness,\" elevating the homeland as divine, and proposing shared rituals of love (\"serve the wine of love\"; \"salvation is love's guide\")—using parallel stanzaic pleas for unity rather than historical pride.[^2]\n\nThe core rhetorical divergence lies in audience and tone: intra-communal exhortation through pride and shame for Muslim youth, versus interfaith reconciliation through critique of separatism and humanistic unity for the Brahmin. The former energizes via heritage; the latter bridges via transcendence.[^1][^2]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 13 (\"Khitab ba Jawanan-e-Islam\"), [translation](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 36 (\"Sach keh doon ae Brahman! gar tu bura na maane\"), [translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Khitab ba Jawanan-e-Islam\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sach Keh Doon Ae Brahman\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Address to the Young Men of Islam\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Tell the Truth O Brahmin\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahmin",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahman",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Brahmin\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Brahman\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 30478,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 38878,
+    "completion_tokens": 3326,
+    "total_tokens": 42204,
+    "cached_tokens": 16710,
+    "api_calls": 4,
+    "cost_usd": 0.0069321,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1572,
+        "completion_tokens": 571,
+        "total_tokens": 2143,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005774
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6174,
+        "completion_tokens": 862,
+        "total_tokens": 7036,
+        "cached_tokens": 1567,
+        "cost_usd": 0.00143075
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14848,
+        "completion_tokens": 260,
+        "total_tokens": 15108,
+        "cached_tokens": 150,
+        "cost_usd": 0.0030771
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 16284,
+        "completion_tokens": 1633,
+        "total_tokens": 17917,
+        "cached_tokens": 14843,
+        "cost_usd": 0.00184685
+      }
+    ]
+  }
+}

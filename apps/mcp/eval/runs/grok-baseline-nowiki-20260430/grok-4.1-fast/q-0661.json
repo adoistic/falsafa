@@ -1,0 +1,219 @@
+{
+  "answer": "Fichte's 1793 pamphlet *Zurückforderung der Denkfreiheit von den Fürsten Europens* (\"Reclaiming Freedom of Thought from the Princes of Europe\") argues that princes have **no legitimate right to suppress, restrict, or regulate freedom of thought (*Denkfreiheit*)**, as it is an inalienable human right derived from personhood and conscience that predates and cannot be alienated in the social contract. Princes' authority is strictly limited to protecting rights via delegated executive power from society, and they cannot claim powers society itself lacks.[^1][^2] This claim is not a blanket condemnation of princes (Fichte urges peoples not to hate them but to assert their rights firmly), but a direct refutation of princely overreach, especially when advised by \"satellites of despotism\" who fear enlightenment reaching the princes themselves.[^3]\n\n### Step-by-Step Tracing of the Core Argument (Primarily Chapter 2)\nFichte builds a deductive argument from natural rights, the social contract, and the essence of *Denkfreiheit*:\n\n1. **Humans are free and self-owning by nature**: No person can be inherited, sold, or given away as property. Each carries a \"divine spark\" of conscience, an absolute inner law commanding free, uncoerced action. External compulsion violates this, degrading humans to animals. Thus, no stranger (including a prince) may rule without consent; individuals rule themselves via conscience.[^4]\n\n2. **Rights are inalienable (essential to duty/personhood) or alienable (permitted external actions)**: Inalienable rights—freedom, personality, conditions for moral action—cannot be surrendered, as they enable obedience to conscience. Alienable rights (e.g., to non-duty-bound actions) can be voluntarily exchanged via contract but never compelled.[^5]\n\n3. **Civil society and princely power arise solely from contract**: Society forms when individuals mutually alienate *external* rights (not inner dispositions or inalienables) for reciprocal protection. Executive power is delegated to \"several members or to one\" (the prince) for efficiency, but only rights society possesses.[^6]\n\n4. **Freedom of thought is inalienable and non-transferable**: It distinguishes humans from animals (resisting mechanical idea-association via free direction of thought). It is integral to personhood (\"I am\"), morality, and spiritual harmony—preparing one for moral purity via submission to truth. Alienating it in contract would mean promising to become \"irrational creatures\" or \"animals,\" rendering the contract illegitimate.[^7]\n\n5. **Princes thus inherit no right to restrict it**: Society could not grant such power (violating inalienables), so princes cannot claim it. They hold *no rights* over thought's objects/limits/communication (true or false); their duty is earthly protection of rights, not transcendent enlightenment (they may passively allow or voluntarily promote it, but never coerce/suppress). To do so is unjust, even if worlds perish—God provides for rights' observance.[^8]\n\n### Additional Claims Against Princes (Chapter 1 Context)\n- Princes are ignorant of human rights due to upbringing (\"All these people... are your property\") and enfeebling influences, mistaking barbaric maxims for wisdom.[^9]\n- Suppression serves not peoples but despotic advisors, who fear princes hearing \"an unfortunate word,\" investigating, and becoming \"wiser\" for mutual peace.[^10]\n- Princes are not \"God\" promising happiness via benevolence but mere protectors obligated to *justice*.[^11]\n\nFichte contrasts this with despots' pretexts (divine/hereditary right, paternal guidance) and urges princes to honor truth voluntarily for true reverence.[^12]\n\n[^1]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 2, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-b2542b).\n[^2]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 2, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-44e1de).\n[^3]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 1, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01/translation/#p-aa8790).\n[^4]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 2, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-5ec8d2).\n[^5]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 2, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-900390).\n[^6]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 2, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-be3fae); [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-ff7538).\n[^7]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 2, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-e62dae).\n[^8]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 2, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-b2542b).\n[^9]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 1, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01/translation/#p-99a59e).\n[^10]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 1, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01/translation/#p-aa8790).\n[^11]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 1, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01/translation/#p-657cba).\n[^12]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 2, [full chapter](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "fichte"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "denkfreiheit princes"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"freedom of thought\" princes fichte"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "Listed 2 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-99a59e",
+          "p-aa8790",
+          "p-657cba"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-5ec8d2",
+          "p-e62dae",
+          "p-be3fae",
+          "p-ff7538",
+          "p-44e1de",
+          "p-b2542b"
+        ]
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "paragraph_range": {
+          "start": 0,
+          "end": 5
+        }
+      },
+      "result_summary": "Returned 6 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-b2542b"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-44e1de"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-aa8790"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-5ec8d2"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-900390"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-be3fae"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-ff7538"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-e62dae"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-99a59e"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-657cba"
+    }
+  ],
+  "duration_ms": 51916,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 40240,
+    "completion_tokens": 4665,
+    "total_tokens": 44905,
+    "cached_tokens": 4274,
+    "api_calls": 5,
+    "cost_usd": 0.0097394,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1559,
+        "completion_tokens": 543,
+        "total_tokens": 2102,
+        "cached_tokens": 149,
+        "cost_usd": 0.00056095
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1819,
+        "completion_tokens": 225,
+        "total_tokens": 2044,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004538
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters"
+        ],
+        "prompt_tokens": 2016,
+        "completion_tokens": 284,
+        "total_tokens": 2300,
+        "cached_tokens": 1814,
+        "cost_usd": 0.0002731
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 15738,
+        "completion_tokens": 1295,
+        "total_tokens": 17033,
+        "cached_tokens": 2011,
+        "cost_usd": 0.00349345
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 19108,
+        "completion_tokens": 2318,
+        "total_tokens": 21426,
+        "cached_tokens": 150,
+        "cost_usd": 0.0049581
+      }
+    ]
+  }
+}

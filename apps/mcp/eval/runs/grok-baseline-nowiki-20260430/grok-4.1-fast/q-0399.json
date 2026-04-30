@@ -1,0 +1,269 @@
+{
+  "answer": "**In Cynewulf's *Juliana*, the poet's epilogue evokes a final reckoning in which the soul, departing the body at death, faces stern judgment from the Trinity—\"the Judge of deeds\"—who assigns eternal rewards according to earthly works on a coming \"Great Day.\"**[^1]\n\n**The *Viṣṇu Smṛti*'s late chapters (e.g., 99–100) gesture toward eschatology more obliquely, promising the \"highest state... in heaven\" to those who uphold its teachings, while noting divine presence even \"in one who has died and gone to the abode of heaven.\"**[^2][^3] No detailed final judgment or post-mortem reckoning appears; rewards follow dharma observance.\n\n**Cynewulf's is far more visible—a singular, dramatic Day of Judgment looms explicitly, with the poet trembling at deeds weighed by a personified divine King. The *Viṣṇu Smṛti* lacks such vividness, framing heaven (*svarga*) as a merit-based afterlife state amid praise and ritual fruits.** Both urge reform in life (Cynewulf via intercession and timely repentance before the soul's \"Journey\"; *Viṣṇu Smṛti* via ongoing *dharma*), but neither explicitly grants the wicked post-mortem chances here—the Christian side stresses one life's end as cutoff, while the Smṛti implies no cycle of rebirths in these passages (though the broader Indic context might). If anything, Cynewulf presses urgency more, lamenting \"too late a time\" for shame.\n\n[^1]: Cynewulf, *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-e769dc).\n[^2]: *Viṣṇu Smṛti*, [paragraph](/works/unknown-visnu-smrti-27f0d8/100/translation/#p-9d11b3).\n[^3]: *Viṣṇu Smṛti*, [paragraph](/works/unknown-visnu-smrti-27f0d8/99/translation/#p-16d3f9).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Viṣṇu Smṛti\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eschatology OR judgement OR judgment OR \"final reckoning\" OR repent",
+        "limit": 20
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Vishnu Smriti\" OR \"Viṣṇu Smṛti\" OR \"Vishnu\" OR \"Smṛti\" OR \"Smriti\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"judgement\" OR judgment OR doom OR hell OR heaven site:cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hell\" OR \"heaven\" OR \"hellish\" OR \"judgment\" OR \"afterlife\" OR \"rebirth\" OR \"moksha\" OR naraka OR svarga OR \"final judgment\" OR yama OR \"day of judgment\" site:unknown-visnu-smrti-27f0d8",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"judgment\" OR \"doom\" OR \"hell\" OR \"heaven\" OR \"final\" OR \"reckoning\" OR \"great day\" OR repent cynewulf-juliana",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 100,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.100 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 99,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.99 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 98,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.98 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 22,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.22 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hell\" OR naraka OR \"underworld\" OR yama OR pitr OR \"ancestors\" OR svarga OR heaven OR rebirth OR \"born again\" OR karma OR moksha site:unknown-visnu-smrti-27f0d8",
+        "limit": 20
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e769dc",
+          "p-1f8ce8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-e769dc"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-9d11b3"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-16d3f9"
+    }
+  ],
+  "duration_ms": 44551,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 75771,
+    "completion_tokens": 5566,
+    "total_tokens": 81337,
+    "cached_tokens": 17819,
+    "api_calls": 5,
+    "cost_usd": 0.015264350000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1586,
+        "completion_tokens": 402,
+        "total_tokens": 1988,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00028885
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3199,
+        "completion_tokens": 854,
+        "total_tokens": 4053,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010443
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 15845,
+        "completion_tokens": 956,
+        "total_tokens": 16801,
+        "cached_tokens": 150,
+        "cost_usd": 0.0036245
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22251,
+        "completion_tokens": 1565,
+        "total_tokens": 23816,
+        "cached_tokens": 15840,
+        "cost_usd": 0.0028567
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "get_passage"
+        ],
+        "prompt_tokens": 32890,
+        "completion_tokens": 1789,
+        "total_tokens": 34679,
+        "cached_tokens": 150,
+        "cost_usd": 0.00745
+      }
+    ]
+  }
+}

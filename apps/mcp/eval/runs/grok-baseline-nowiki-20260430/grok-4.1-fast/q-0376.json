@@ -1,0 +1,253 @@
+{
+  "answer": "Iqbal's poem *Insaan* (\"The Human Being\") from *Bang-e-Dara Part 3* presents human identity as inherently dynamic and empowered, contrasting humanity's restless striving and infinite potential with the passive submission of the natural world.[^1] The human is depicted not as a mere \"particle\" but as a vast, contractile force—like \"a desert contracted to a point\"—yearning for expansion, wisdom, perception, and potency to reshape reality itself.[^2] This vision celebrates self-actualization through action and agency, elevating the individual as a transformative force amid a static garden of compliant elements (narcissus, pine, etc.).\n\nIn contrast, Cynewulf's epilogue to *Elene*—a personal, signed reflection appended to the narrative of the True Cross—portrays human identity through a lens of frailty, sin-bound transience, and utter dependence on divine grace for redemption.[^3] The poet reflects on his own life as one \"stained by [his] deeds, shackled by sins, worn down by sorrows,\" where worldly joys (youth, wealth, pride) inevitably fade like wind-driven floods, leaving \"waves of care\" and \"narrow sorrow.\"[^4] Ultimate human destiny lies in eschatological judgment, where souls are triply divided in purifying fire—righteous enduring mildly, sinful tormented, and accursed eternally damned—yielding eternal angelic glory only through forsaking sin and crying to the Savior.[^5]\n\nThe core difference lies in philosophical orientation: Iqbal's modern Islamic humanism emphasizes immanent human power and creative striving within the world, while Cynewulf's Anglo-Saxon Christian meditation underscores fallen human weakness, ephemerality, and extrinsic salvation via God's mercy and final reckoning.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Insaan\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-cb3c43).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Insaan\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-2697a9), [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-587d8c).\n[^3]: Cynewulf, *Elene*, Chapter 1 [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607).\n[^4]: Cynewulf, *Elene*, Chapter 1 [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-8f8a1b).\n[^5]: Cynewulf, *Elene*, Chapter 1 [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poem"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Insaan"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"human being\" Elene Cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "epilogue Elene Cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "human Cynewulf Elene"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-cb3c43",
+          "p-2697a9",
+          "p-587d8c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d2e607",
+          "p-8f8a1b",
+          "p-dcbbfe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12,
+        "paragraph_range": {
+          "start": 0,
+          "end": 5
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 10,
+          "end": 12
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-cb3c43"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-2697a9"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-587d8c"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-d2e607"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-8f8a1b"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    }
+  ],
+  "duration_ms": 40302,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 58608,
+    "completion_tokens": 4055,
+    "total_tokens": 62663,
+    "cached_tokens": 25787,
+    "api_calls": 5,
+    "cost_usd": 0.00988105,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1574,
+        "completion_tokens": 292,
+        "total_tokens": 1866,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00023115
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2356,
+        "completion_tokens": 474,
+        "total_tokens": 2830,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006857
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8621,
+        "completion_tokens": 453,
+        "total_tokens": 9074,
+        "cached_tokens": 2351,
+        "cost_usd": 0.00159805
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21610,
+        "completion_tokens": 1275,
+        "total_tokens": 22885,
+        "cached_tokens": 150,
+        "cost_usd": 0.004937
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 24447,
+        "completion_tokens": 1561,
+        "total_tokens": 26008,
+        "cached_tokens": 21605,
+        "cost_usd": 0.00242915
+      }
+    ]
+  }
+}

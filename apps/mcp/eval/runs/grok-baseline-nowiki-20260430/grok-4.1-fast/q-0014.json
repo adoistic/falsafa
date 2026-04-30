@@ -1,0 +1,161 @@
+{
+  "answer": "Yes, in the maqta (final couplet) of this ghazal, Zauq signs his name (takhallus) explicitly as *Zauq*, contrasting a loveless heart unfavorably with a stone that at least has fire.[^1]\n\n[^1]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/16-ek-sadma-dard-e-dil-se-meri-jaan-par-toh-hai/translation/#p-df8cda).  \n\"O Zauq, a heart that has no fire of love  \nIs worse than stone, which has a fiery core, at least.\"",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ek sadma dard-e-dil se meri jaan par toh hai",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq-persian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 16,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.16 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 16,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.16 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-df8cda"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-0786bf"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-bf9b97"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 16,
+      "paragraph_id": "p-df8cda"
+    }
+  ],
+  "duration_ms": 27125,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 13772,
+    "completion_tokens": 3015,
+    "total_tokens": 16787,
+    "cached_tokens": 8571,
+    "api_calls": 4,
+    "cost_usd": 0.00297625,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1575,
+        "completion_tokens": 433,
+        "total_tokens": 2008,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00030215
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2230,
+        "completion_tokens": 496,
+        "total_tokens": 2726,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006715
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 4672,
+        "completion_tokens": 898,
+        "total_tokens": 5570,
+        "cached_tokens": 2225,
+        "cost_usd": 0.00104965
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 5295,
+        "completion_tokens": 1188,
+        "total_tokens": 6483,
+        "cached_tokens": 4667,
+        "cost_usd": 0.00095295
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "answer": "**The Falsafa corpus does not contain *San Hyan Kamahayanikan* (also known as *Saṃvara-vinaya-kārikā* or similar Mahāyāna Buddhist texts in Old Javanese).** No works in Old Javanese appear in the corpus, and searches for the title or related terms yield zero results. Without access to the text, I cannot identify specific Sanskrit doctrinal terms embedded untranslated in Old Javanese sentences, nor analyze the reasons (lack of equivalents vs. authority of the Sanskrit form). If this text is added in the future or if you have excerpts, I can assist further.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"San Hyan Kamahayanikan\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 10239,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 3368,
+    "completion_tokens": 1103,
+    "total_tokens": 4471,
+    "cached_tokens": 3058,
+    "api_calls": 2,
+    "cost_usd": 0.0007664,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1591,
+        "completion_tokens": 695,
+        "total_tokens": 2286,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00043635
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1777,
+        "completion_tokens": 408,
+        "total_tokens": 2185,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00033005
+      }
+    ]
+  }
+}

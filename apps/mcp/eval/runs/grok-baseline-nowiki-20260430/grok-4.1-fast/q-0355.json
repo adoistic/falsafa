@@ -1,0 +1,241 @@
+{
+  "answer": "**In Cynewulf's *Elene*, Elene (Saint Helena, Constantine's mother) receives the most explicit description of her queenly role in leading an independent expedition to Jerusalem to locate the True Cross.** She acts decisively with her own legion (\"a host of warriors\"), mindful of her \"lord’s true will\" (Constantine's divine vision of the Cross), but executes the quest autonomously: summoning Jewish councils, interrogating leaders, confining Judas in a well until he reveals the Cross's location, overseeing its recovery and verification (via the miracle of the dead man's resurrection), building a church on Calvary, and retrieving the holy nails.[^1][^2] This portrays a queen who operates with royal authority and initiative, separate from the emperor (who remains distant, in Rome), blending maternal devotion, martial command, and spiritual zeal into a heroic, dignifying role.\n\n**Manusmṛti (Book 7) contains no explicit description of a \"chief queen\" (mahīṣī) or any queenly role in \"supporting the king's dharma,\" let alone acting independently.** Chapter 7 details the *dharma* of kings—rising early, consulting Brahminas, conquering vices, appointing ministers, fortifying cities—but mentions wives only once, generically: after settling in a fort, \"he should take a wife of his own *varṇa*, marked with auspicious signs, born in a great family, charming, and endowed with beauty and good qualities.\"[^3] No \"chief queen\" is dignified with supporting the king's *dharma*, nor granted any public, independent action. Elsewhere in the text (e.g., Book 9), women are explicitly denied independence: \"Her father protects her in childhood, her husband protects her in youth, and her sons protect her in old age; a woman is never fit for independence.\"[^4] Neither text from Manu imagines a queen acting independently; queens/wives are subordinate adjuncts to male protectors.\n\n[^1]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-534627).\n[^2]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-7b1c1f).\n[^3]: Manu, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-d3c465).\n[^4]: Manu, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-233021).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Helena finding cross Cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chief queen\" dharma Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Helena\" Cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"queen\" king Manu OR Manusmriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chief queen\" Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"queen\" Manu chapter 7"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Elene Constantine cross"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "queen dharma king Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chief queen\" OR mahisi OR \"principal wife\" Manu"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-534627",
+          "p-7b1c1f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-534627"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-7b1c1f"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-d3c465"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-233021"
+    }
+  ],
+  "duration_ms": 44875,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 67219,
+    "completion_tokens": 4869,
+    "total_tokens": 72088,
+    "cached_tokens": 25484,
+    "api_calls": 5,
+    "cost_usd": 0.0120557,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1592,
+        "completion_tokens": 340,
+        "total_tokens": 1932,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00025905
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2153,
+        "completion_tokens": 599,
+        "total_tokens": 2752,
+        "cached_tokens": 1587,
+        "cost_usd": 0.00049205
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3026,
+        "completion_tokens": 463,
+        "total_tokens": 3489,
+        "cached_tokens": 2148,
+        "cost_usd": 0.0005145
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20076,
+        "completion_tokens": 1830,
+        "total_tokens": 21906,
+        "cached_tokens": 149,
+        "cost_usd": 0.00490785
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 40372,
+        "completion_tokens": 1637,
+        "total_tokens": 42009,
+        "cached_tokens": 20071,
+        "cost_usd": 0.00588225
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "answer": "**Cynewulf's rune-signature in *Elene*** is an acrostic formed by the first letters of lines in the poem's closing section (translated here for clarity). It spells out **C Y N E W U L F** (ᚳᚣᚾᛖᚹᚢᛚᚠ in the original futhorc runes), embedded humbly within a personal meditation on aging, sin, divine grace, and redemption through poetry.[^1][^2][^3]\n\n**Iqbal's maqta-signatures** appear conventionally at the end of his Urdu nazms and ghazals in *Bang-e-Dara* (e.g., Parts 1–3), using his takhallus (\"Iqbal\") in self-referential couplets. Examples:\n\n- In \"Anokhi waza hai...\": \"Mere ashaar ae Iqbal kyun pyaare na hon mujh ko / Mere toote hue dil ke yeh dard angez naale hain\" (*\"O Iqbal, why should my verse seem in vain? / They are my broken heart's own cries of pain.\"*)[^4]\n- In \"Jinhein main dhoondta tha...\": \"Ke main khud bhi toh hoon 'Iqbal' apne nukta-cheenon mein\" (*\"for I, myself, O Iqbal, am counted among my own critics.\"*)[^5]\n\nThese recur across poems (e.g., ch. 1, 6, 9–11, etc.), marking closure.\n\n### Shared and Divergent Purposes\nBoth poets **claim authorship** explicitly—Cynewulf to authenticate his pious *signed poems* (among four surviving), Iqbal fulfilling Urdu poetic *takhallus* tradition for recognition in oral/recital culture.[^1][^4]\n\nHowever, **purposes diverge** sharply:\n\n- **Cynewulf**: Primarily **memory** and **spiritual testimony**, not vanity. He hides runes amid lamenting frailty (\"old and ready for my journey... shackled by sins\"), crediting God for unlocking \"the art of song\" as redemption. It's humble, integrative—prayer for eternal recall amid Judgment, urging readers to honor the Rood.[^1][^2][^3] No overt self-praise; runes emerge only on close reading, like divine revelation.\n\n- **Iqbal**: More **license** (stylistic convention) and subtle **vanity/self-irony**. Maqtas personalize philosophy (e.g., self-critique, heartbreak), claiming voice amid \"critics\" or \"pain.\" Conventional yet bold—elevates his \"broken heart's cries\" as universal. Less hidden, more performative for modern audiences, blending humility with philosophical bravado.\n\nCynewulf seeks **eternal memory through grace**; Iqbal asserts **poetic persona** for contemporary resonance. Different eras/genres shape this: Anglo-Saxon piety vs. Urdu revivalism.\n\n[^1]: Cynewulf, *Elene*, [p-d2e607](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607).\n[^2]: Cynewulf, *Elene*, [p-8f8a1b](/works/cynewulf-elene-d2d132/01/translation/#p-8f8a1b).\n[^3]: Cynewulf, *Elene*, [p-dcbbfe](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 2, [p-0118fb](/works/allama-iqbal-bang-e-dara-part-1-55b25c/02/translation/#p-0118fb).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 4, [p-808707](/works/allama-iqbal-bang-e-dara-part-1-55b25c/04/translation/#p-808707).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Cynewulf\" OR rune OR signature",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"maqta\" OR \"Iqbal\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (original)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"by Iqbal\" OR takhallus OR maqta OR signature",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-1-55b25c\",\"title\":\"Bang-E-Dara Part 1\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d2e607",
+          "p-8f8a1b",
+          "p-dcbbfe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 130,
+          "end": 132
+        },
+        "variant": "original"
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [130, 132] is invalid"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-d2e607"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-8f8a1b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-0118fb"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-808707"
+    }
+  ],
+  "duration_ms": 68564,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 159136,
+    "completion_tokens": 5662,
+    "total_tokens": 164798,
+    "cached_tokens": 22010,
+    "api_calls": 5,
+    "cost_usd": 0.0313567,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1587,
+        "completion_tokens": 348,
+        "total_tokens": 1935,
+        "cached_tokens": 149,
+        "cost_usd": 0.00046905
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2411,
+        "completion_tokens": 751,
+        "total_tokens": 3162,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00062835
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 17781,
+        "completion_tokens": 1221,
+        "total_tokens": 19002,
+        "cached_tokens": 2406,
+        "cost_usd": 0.0038058
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "get_metadata"
+        ],
+        "prompt_tokens": 66840,
+        "completion_tokens": 1998,
+        "total_tokens": 68838,
+        "cached_tokens": 17776,
+        "cost_usd": 0.0117006
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 70517,
+        "completion_tokens": 1344,
+        "total_tokens": 71861,
+        "cached_tokens": 150,
+        "cost_usd": 0.0147529
+      }
+    ]
+  }
+}

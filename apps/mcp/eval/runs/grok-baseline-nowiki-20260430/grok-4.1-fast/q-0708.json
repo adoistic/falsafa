@@ -1,0 +1,143 @@
+{
+  "answer": "**There is no verse in Yajñavalkya Smṛti Chapter 2 that explicitly states a punishment for \"a man who has stolen another's wife.\"**\n\nChapter 2 covers legal procedures (*vyavahāra*), including theft (verses 266–282), sexual offenses (verses 283–294), and related punishments. Relevant nearby content includes:\n\n- Arrest for **illicit intercourse** with another's wife (verse 283), proven by physical signs like seizing hair or lustful behavior (verse 284). Punishments follow for intercourse (verse 286), **abducting an adorned maiden** (verse 287, highest or lowest fine depending on circumstances), or defiling a woman (verse 289, fine of 100 *paṇas*).\n\nNo verse uses terms like \"steals,\" \"stolen,\" or equivalent for a *married* woman (*pati's wife*), nor specifies abduction of a wife (distinct from maidens). Abduction is limited to maidens (verse 287), and wives appear mainly in contexts of intercourse or insults. General theft (verses 266ff.) treats movable property, not persons.[^1]\n\n[^1]: Yājñavalkya Smṛti, [Chapter 2](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"stolen\" wife punishment",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"steals\" wife",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"takes away\" wife",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "abducts wife",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"another's wife\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 30105,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 27704,
+    "completion_tokens": 2806,
+    "total_tokens": 30510,
+    "cached_tokens": 8864,
+    "api_calls": 5,
+    "cost_usd": 0.0056142,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1561,
+        "completion_tokens": 422,
+        "total_tokens": 1983,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00029385
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 1685,
+        "completion_tokens": 132,
+        "total_tokens": 1817,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00017365
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters"
+        ],
+        "prompt_tokens": 1909,
+        "completion_tokens": 424,
+        "total_tokens": 2333,
+        "cached_tokens": 1680,
+        "cost_usd": 0.0003418
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2227,
+        "completion_tokens": 145,
+        "total_tokens": 2372,
+        "cached_tokens": 1904,
+        "cost_usd": 0.0002323
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 20322,
+        "completion_tokens": 1683,
+        "total_tokens": 22005,
+        "cached_tokens": 2222,
+        "cost_usd": 0.0045726
+      }
+    ]
+  }
+}

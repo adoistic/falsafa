@@ -1,0 +1,260 @@
+{
+  "answer": "In Cynewulf's *Andreas*, the foundational moment of divine intervention occurs early in the poem's opening, as the apostle Matthew languishes in a Mermedonian prison, facing ritual cannibalism after thirty days of captivity.[^1] Imprisoned by a hostile, man-eating people who drug and devour foreigners, Matthew prays directly to God for aid, fearing abandonment.[^2] God responds audibly from heaven, promising rescue: \"Hold fast, my Matthew! Do not lose heart. / I shall not leave you lost in this torment, / nor forsake My own. I shall free you from bondage... / I will send Andrew to save you from sorrow.\"[^3] God then departs heavenward before immediately commanding Andrew—while he stands by the sea—to sail to Mermedonia and free his brother before the executioners feast.[^4] This sets the poem's hagiographic action in motion.\n\nIn contrast, the opening of Manu's *Manusmṛti* (Book 1) recounts the primordial cosmogony: from undifferentiated cosmic darkness (\"as if wholly asleep\"), the divine Self-existent One (Svayambhu) manifests Himself with creative potency, dispelling obscurity.[^5] Subtle and eternal, He desires progeny from His body, mentally creates waters, impregnates them with seed that becomes a golden egg (like the sun), and is reborn within it as Brahmā.[^6] After a year, Brahmā splits the egg, forming from its halves heaven and earth, the middle realm, directions, and watery abode—thus establishing the structured universe.[^7]\n\nThough both are theological proems launching their narratives (apostolic mission vs. dharmic law), the texts demand contrasting divine capacities. The God of *Andreas* must be intimately relational and historically interventionist: immanent yet transcendent, He hears personal pleas amid human peril, speaks reassuringly, orchestrates miracles (e.g., disguised sea voyage), and sovereignly directs apostles as \"thanes\" to enact salvation from sin-bound tormentors—emphasizing covenantal fidelity, rescue, and heroic protection in a fallen world. Brahmā in *Manusmṛti*, however, must be the self-sufficient ontological architect: unmanifest yet self-shining, He contemplates (*tapas*) to generate elements, mind, senses, social *varnas*, time, and dharma from His body/seed/egg in cyclical order (*manvantaras*), imposing hierarchy, qualities, and actions on creation for cosmic perpetuity—prioritizing impersonal origination, differentiation, and eternal recurrence over responsive salvation.\n\n[^1]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-58182e).\n[^2]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-26403d).\n[^3]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-bdbda7).\n[^4]: Cynewulf, *Andreas*, [paragraphs](/works/cynewulf-andreas-07b573/01/translation/#p-826b37-p-4d1e78).\n[^5]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-61df11).\n[^6]: *Manusmṛti*, [paragraphs](/works/unknown-manusmrti-347b76/01/translation/#p-93cef0-p-153021).\n[^7]: *Manusmṛti*, [paragraphs](/works/unknown-manusmrti-347b76/01/translation/#p-0eca16-p-3bd729).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poem"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "law"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas God intervention"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu Brahma creation"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-26403d",
+          "p-bdbda7",
+          "p-826b37",
+          "p-4d1e78"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-58182e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 5,
+          "end": 13
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 9 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-61df11",
+          "p-93cef0",
+          "p-0eca16",
+          "p-54fad8",
+          "p-153021",
+          "p-0bfa5b",
+          "p-a030b1",
+          "p-cd6713",
+          "p-3bd729"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 9 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-58182e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-26403d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-bdbda7"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-826b37"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-4d1e78"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-61df11"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-93cef0"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-153021"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-0eca16"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-3bd729"
+    }
+  ],
+  "duration_ms": 49776,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 60986,
+    "completion_tokens": 4511,
+    "total_tokens": 65497,
+    "cached_tokens": 30016,
+    "api_calls": 4,
+    "cost_usd": 0.0099503,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1581,
+        "completion_tokens": 660,
+        "total_tokens": 2241,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006237
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2208,
+        "completion_tokens": 754,
+        "total_tokens": 2962,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007961
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 27518,
+        "completion_tokens": 1316,
+        "total_tokens": 28834,
+        "cached_tokens": 2203,
+        "cost_usd": 0.00583115
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 29679,
+        "completion_tokens": 1781,
+        "total_tokens": 31460,
+        "cached_tokens": 27513,
+        "cost_usd": 0.00269935
+      }
+    ]
+  }
+}

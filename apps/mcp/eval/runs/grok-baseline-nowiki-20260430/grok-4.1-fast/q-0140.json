@@ -1,0 +1,174 @@
+{
+  "answer": "In Muhammad Iqbal's poem \"Sarguzasht-e-Adam\" (\"The Saga of Man\") from *Bang-e-Dara*, Adam narrates his own \"fall\" from Paradise not as a sinful lapse, but as the deliberate embrace of consciousness and an unquenchable thirst for truth, which rendered him incompatible with the static bliss of Eden.[^1] \n\nHaving drunk \"the fiery cup of consciousness,\" Adam's spirit grew restless: \"My spirit found no rest in Paradise’s domain, / Once the fiery cup of consciousness I chose to drain.\"[^2] Endowed with \"a restless nature, loving change,\" he embarked on an eternal quest for \"cosmic truth,\" wandering through history as the archetype of humanity—expelling idols from the Kaaba, proclaiming divine light from Sinai, suffering crucifixion, meditating in Hira's cave, inspiring in India, Greece, China, and Japan, igniting wars between faith and reason, and pioneering scientific discoveries like gravity, electricity, and solar power.[^3] \n\nThrough these avatars of human endeavor—from prophet to philosopher to inventor—Adam reshaped the earth into a \"rival of Paradise,\" yet the \"secret of existence\" eluded him until self-realization dawned: \"I found that in my own heart’s house He did reside.\"[^4] Iqbal thus recasts the biblical/Quranic fall as the heroic origin of human dynamism, progress, and ultimate union with the Divine within.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Sarguzasht-e-Adam\" [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/translation/).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Sarguzasht-e-Adam\" [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/translation/#p-3d6971).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Sarguzasht-e-Adam\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/translation/#p-7c0f77-p-ca07a6-p-3f09ed-p-53df18-p-6c71af-p-25528e-p-8068eb-p-251857-p-5e01d5-p-825261-p-d7ed01-p-34f01e).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Sarguzasht-e-Adam\" [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/translation/#p-08cb93).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sarguzasht-e-Adam",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.37 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.37 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-1-55b25c\",\"title\":\"Bang-E-Dara Part 1\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-3d6971"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-7c0f77"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-ca07a6"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-3f09ed"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-53df18"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-6c71af"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-25528e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-8068eb"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-251857"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-5e01d5"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-825261"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-d7ed01"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-34f01e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-08cb93"
+    }
+  ],
+  "duration_ms": 22401,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 9508,
+    "completion_tokens": 2651,
+    "total_tokens": 12159,
+    "cached_tokens": 5733,
+    "api_calls": 3,
+    "cost_usd": 0.00236715,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1561,
+        "completion_tokens": 616,
+        "total_tokens": 2177,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003907
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2679,
+        "completion_tokens": 386,
+        "total_tokens": 3065,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00049945
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "get_metadata"
+        ],
+        "prompt_tokens": 5268,
+        "completion_tokens": 1649,
+        "total_tokens": 6917,
+        "cached_tokens": 2674,
+        "cost_usd": 0.001477
+      }
+    ]
+  }
+}

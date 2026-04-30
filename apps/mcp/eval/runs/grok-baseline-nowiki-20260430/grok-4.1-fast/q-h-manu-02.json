@@ -1,0 +1,184 @@
+{
+  "answer": "**Manusmṛti, Chapter 3.**\n\nThe eight forms of marriage (*vivāha*) are enumerated together in verses 3.20–21 (paragraphs [p-36d967](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-36d967) and [p-b07c61](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-b07c61)):\n\n> Now learn in summary these eight forms of marriage for women, for the four *varnas*, which are beneficial and harmful in this world and the next. // Mn_3.20 //[^1]  \n>   \n> The `Brāhma`, the `Daiva`, and also the `Ārṣa`; the `Prājāpatya` and the `Āsura`; the `Gāndharva` and the `Rākṣasa`; and the eighth and lowest, the `Paiśāca`. // Mn_3.21 //[^1]\n\nThese match the query details: the *Gāndharva* is \"the voluntary union of a maiden and her lover... which springs from desire\" (3.32, [p-beb0f2](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-beb0f2));[^2] the *Rākṣasa* involves \"forcible abduction... after her kinsmen have been slain\" (3.33, [p-2f28cf](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-2f28cf));[^3] and the *Paiśāca* is a \"clandestine approach to a... sleeping [or] intoxicated girl... the eighth and most wicked\" (3.34, [p-ca03b2](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-ca03b2)).[^4]\n\n[^1]: Manusmṛti, *Chapter 3*, [paragraphs p-36d967–p-b07c61](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-36d967).\n[^2]: Manusmṛti, *Chapter 3*, [paragraph p-beb0f2](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-beb0f2).\n[^3]: Manusmṛti, *Chapter 3*, [paragraph p-2f28cf](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-2f28cf).\n[^4]: Manusmṛti, *Chapter 3*, [paragraph p-ca03b2](https://falsafa.corpus/works/unknown-manusmrti-347b76/03/translation/#p-ca03b2).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eight forms of marriage",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"voluntary union\" marriage",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kinsmen are slain\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sleeping or intoxicated\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eight kinds of marriage\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 24
+      },
+      "result_summary": "Read ch.24 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-36d967",
+          "p-b07c61"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-beb0f2",
+          "p-2f28cf",
+          "p-ca03b2"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-36d967"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-b07c61"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-beb0f2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-2f28cf"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-ca03b2"
+    }
+  ],
+  "duration_ms": 29080,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 117988,
+    "completion_tokens": 3269,
+    "total_tokens": 121257,
+    "cached_tokens": 60705,
+    "api_calls": 4,
+    "cost_usd": 0.016126349999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1604,
+        "completion_tokens": 505,
+        "total_tokens": 2109,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005508
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2264,
+        "completion_tokens": 419,
+        "total_tokens": 2683,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00043295
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 56772,
+        "completion_tokens": 885,
+        "total_tokens": 57657,
+        "cached_tokens": 2259,
+        "cost_usd": 0.01145805
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 57348,
+        "completion_tokens": 1460,
+        "total_tokens": 58808,
+        "cached_tokens": 56767,
+        "cost_usd": 0.00368455
+      }
+    ]
+  }
+}

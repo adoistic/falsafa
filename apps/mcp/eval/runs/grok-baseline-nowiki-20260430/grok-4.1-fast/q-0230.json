@@ -1,0 +1,423 @@
+{
+  "answer": "**Mirza Ghalib's Diwan contains couplets that directly evoke Mughal court life, alluding to poetic assemblies under the emperor (likely Bahadur Shah Zafar) and the poet's own status as a pensioner (maddi/madad-i-ma'ash recipient from the court).**[^1][^2][^3]\n\nA prime example is the opening couplet of ghazal 17, which celebrates verse-recitation in the emperor's *bazm* (courtly gathering):  \n\"In the emperor’s court, the book of verse was opened wide;  \nO Lord, I pray this treasury of pearls remains unlocked.\"[^4]\n\nIts tone is **deferential and hopeful**, petitioning divine favor for ongoing royal patronage of poetry—a nod to court mushairas where poets vied for approval.\n\nThe *maqta* (signature couplet) of the same ghazal laments exclusion despite proximity to the patron:  \n\"I am among his people; why, then, Ghalib, are my works all barred?  \nFor him, that sacred King, the very doorless dome itself unbarred.\"[^5]\n\nHere, the tone shifts to **wry irony**, contrasting the king's cosmic generosity with the poet's personal sidelining—hinting at rivalry (with Zauq as poet-laureate).\n\nAnother direct register is ghazal 24's *maqta*, self-mocking dependence:  \n\"O Ghalib, you're a pensioner, so praise the King;  \nGone are the days you'd say, 'a servant I am not'.\"[^6]\n\nThis is **bitterly ironic**, underscoring the loss of autonomy for court favor, a jab at his rival's official perch.\n\n**Zauq's Diwan-E-Zauq, however, yields no couplets in the English translations that directly register Mughal court life—no mentions of emperor (*shahanshah*), king (*badshah*), court (*darbar/bazm-e-shahi*), pension, or laureateship.** Ghazals evoke assemblies (*bazm*, *mehfil*) and thresholds (*aastaan*, often of beloveds/patrons), but these are conventional *ishq* metaphors, not explicit court references matching the query's criteria (e.g., chapters 10, 37, 57).[^7][^8][^9] As poet-laureate, Zauq's style may embed deference subtly or in Urdu originals beyond English searches, but the corpus does not provide direct evidence for contrast here.\n\nThus, while Ghalib's tones span deferential celebration to bitter irony amid rivalry, Zauq's courtly life goes unregistered directly in available texts.\n\n[^1]: *Mirza Ghalib, Diwan-E-Ghalib*, ch. 17 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/17-bazm-e-shahanshah-mein-ashaar-ka-daftar-khula/translation/).\n[^2]: *Ibid.*, ch. 24 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/24-daim-pada-hua-tere-dar-par-nahin-hoon-main/translation/).\n[^3]: *Ibid.*, ch. 116 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/116-kya-tang-hum-sitam-zadagaan-ka-jahaan-hai/translation/).\n[^4]: *Ibid.*, [p-8835a3](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/17-bazm-e-shahanshah-mein-ashaar-ka-daftar-khula/translation/#p-8835a3).\n[^5]: *Ibid.*, [p-7a8192](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/17-bazm-e-shahanshah-mein-ashaar-ka-daftar-khula/translation/#p-7a8192).\n[^6]: *Ibid.*, ch. 24, [p-4b95d6](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/24-daim-pada-hua-tere-dar-par-nahin-hoon-main/translation/#p-4b95d6).\n[^7]: *Sheikh Ibrahim Zauq, Diwan-E-Zauq*, ch. 10 (/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/10-bazm-mein-zikr-mera-lab-pe-woh-laaye-to-sahi/translation-2/).\n[^8]: *Ibid.*, ch. 37 (/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/37-mehfil-mein-shor-e-qulqul-e-meena-e-mul-hua/translation/).\n[^9]: *Ibid.*, ch. 57 (/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/57-iss-sang-e-aastaan-peh-jabeen-e-niyaaz-hai/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib court",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Zauq court",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mughal court\" poetry",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poet-laureate Mughal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "emperor",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shah",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Zafar",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pension",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "courtier",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "patron",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 24,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.24 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 116,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.116 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "darbar",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "badshah",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Listed 60 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lord\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "throne",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sultan",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"his majesty\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 37,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.37 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 24,
+        "paragraph_ids": [
+          "p-4b95d6"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 17,
+        "paragraph_ids": [
+          "p-8835a3",
+          "p-7a8192"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"zauq\" king",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"zauq\" emperor"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"zauq\" court"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"zauq\" shah"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"zauq\" pension"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 57,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.57 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 10,
+      "paragraph_id": "p-8835a3"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 10,
+      "paragraph_id": "p-7a8192"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 10,
+      "paragraph_id": "p-4b95d6"
+    }
+  ],
+  "duration_ms": 74080,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 83611,
+    "completion_tokens": 7992,
+    "total_tokens": 91603,
+    "cached_tokens": 59446,
+    "api_calls": 6,
+    "cost_usd": 0.0118013,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1589,
+        "completion_tokens": 651,
+        "total_tokens": 2240,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00041395
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2173,
+        "completion_tokens": 881,
+        "total_tokens": 3054,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00064575
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11424,
+        "completion_tokens": 1096,
+        "total_tokens": 12520,
+        "cached_tokens": 2168,
+        "cost_usd": 0.0025076
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 19046,
+        "completion_tokens": 1772,
+        "total_tokens": 20818,
+        "cached_tokens": 11419,
+        "cost_usd": 0.00298235
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 23765,
+        "completion_tokens": 1397,
+        "total_tokens": 25162,
+        "cached_tokens": 19041,
+        "cost_usd": 0.00259535
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 25614,
+        "completion_tokens": 2195,
+        "total_tokens": 27809,
+        "cached_tokens": 23760,
+        "cost_usd": 0.0026563
+      }
+    ]
+  }
+}

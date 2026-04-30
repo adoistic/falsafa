@@ -1,0 +1,171 @@
+{
+  "answer": "**Āṅgirasa Smṛti, Chapter 1 (verses Āṅg_1.219–223)**\n\nThis passage occurs in a penitential section discussing expiations for grave ritual faults, immediately after rules on remarriage and the status of remarried women (a woman married \"one, two, three, four, or five times,\" i.e., previously married multiple times). Eating \"in the same row\" (*panktyā*) or \"together\" (*saha*) with such a woman during rites causes loss of caste.[^1]\n\n> A *veśyā* (prostitute/courtesan), though fit only for pleasure, is superior to her.[^2] If one eats in the same row with her during these rites, or eats together with her, it is a wicked act that causes loss of caste.[^3] For the purification of that sin, one should, according to rule, be covered in a pit in the earth, having dug it for a period of one watch (three hours) or two *ghaṭikās* (forty-eight minutes).[^4] // Ang_1.220 // After being lifted out of it, one should then perform the birth rites (*jātakarma*) and others anew. One should also perform a thousand Taptakṛcchra penances according to rule.[^5] // Ang_1.221 // With a controlled self, subsisting on barley, he should perform the Cāpāgrayāna rite; then he becomes pure. He should perform five thousand baths, either himself or through a Brahmin.[^6] // Ang_1.222 // Then he becomes pure for himself alone. He is not fit for others. Thus spoke Bhṛgu in ancient times.[^7] // Ang_1.223 //\n\n[^1]: Āṅgirasa Smṛti, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-8be00a).\n[^2]: Āṅgirasa Smṛti, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-86fa77).\n[^3]: Āṅgirasa Smṛti, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-f9ae9b).\n[^4]: Āṅgirasa Smṛti, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-41d863).\n[^5]: Āṅgirasa Smṛti, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-f32936).\n[^6]: Āṅgirasa Smṛti, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-35e271).\n[^7]: Āṅgirasa Smṛti, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-aaa649).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Taptakṛcchra",
+        "limit": 20
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Cāpāgrayāna",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghaṭikās",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bhṛgu",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"married multiple times\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-41d863",
+          "p-f32936",
+          "p-35e271",
+          "p-aaa649"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 215,
+          "end": 225
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 11 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-8be00a"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-86fa77"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-f9ae9b"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-41d863"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-f32936"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-35e271"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-aaa649"
+    }
+  ],
+  "duration_ms": 31558,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 102013,
+    "completion_tokens": 3168,
+    "total_tokens": 105181,
+    "cached_tokens": 3213,
+    "api_calls": 3,
+    "cost_usd": 0.02150465,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1682,
+        "completion_tokens": 623,
+        "total_tokens": 2305,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006254
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9224,
+        "completion_tokens": 895,
+        "total_tokens": 10119,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00206295
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 91107,
+        "completion_tokens": 1650,
+        "total_tokens": 92757,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0188163
+      }
+    ]
+  }
+}

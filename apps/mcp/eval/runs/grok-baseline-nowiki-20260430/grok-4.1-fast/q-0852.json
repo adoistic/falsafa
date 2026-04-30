@@ -1,0 +1,285 @@
+{
+  "answer": "**No single English word fully captures *dharma* across these smṛtis, as it denotes cosmic order, obligatory social/ritual roles, moral virtues, legal norms, scriptural authority, and personal conscience—often simultaneously. 'Duty' strains in cosmological contexts (e.g., primordial separation from *adharma*, emphasizing foundational righteousness over personal obligation). 'Law' falters in ethical summaries (stressing virtues like non-violence, beyond statute). 'Virtue' collapses under caste-specific mandates (prescribed occupations as inescapable roles). Translators often retain *dharma* or vary terms painfully.**\n\n**'Duty' misses cosmic order:** In Manu's creation myth, the Self-existent One \"separate[s] Dharma (righteousness) from non-Dharma,\" establishing the moral axis of the universe—not individual tasks.[^1]\n\n**'Law' misses ethical virtues:** Manu's précis of *dharma* for all castes—\"Non-violence, truthfulness, non-stealing, purity, and control of the senses\"—evokes inner qualities, not mere rules.[^2]\n\n**'Virtue' misses obligatory roles:** Yājñavalkya assigns *dharma* as \"sacrificing, studying, and giving\" for Vaiśyas/Kṣatriyas (plus teaching/gifts for Brahmins), rigid functions by birth, not optional excellence.[^3]\n\n[^1]: Manusmṛti, [Chapter 1, ¶84ef7f](/works/unknown-manusmrti-347b76/01/translation/#p-84ef7f).\n\n[^2]: Manusmṛti, [Chapter 10, ¶b48a7b](/works/unknown-manusmrti-347b76/10/translation/#p-b48a7b).\n\n[^3]: Yājñavalkya Smṛti, [Chapter 1, ¶ca647c](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-ca647c).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "indic"
+      },
+      "result_summary": "Listed 19 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"manu\" dharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"yajnavalkya\" dharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\" *dharma* \"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma man",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma varna",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-84ef7f"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-b48a7b"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-ca647c"
+    }
+  ],
+  "duration_ms": 81645,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 124500,
+    "completion_tokens": 6784,
+    "total_tokens": 131284,
+    "cached_tokens": 42953,
+    "api_calls": 5,
+    "cost_usd": 0.02184905,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1607,
+        "completion_tokens": 961,
+        "total_tokens": 2568,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007794
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 8108,
+        "completion_tokens": 1560,
+        "total_tokens": 9668,
+        "cached_tokens": 150,
+        "cost_usd": 0.0023791
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10568,
+        "completion_tokens": 755,
+        "total_tokens": 11323,
+        "cached_tokens": 8103,
+        "cost_usd": 0.00127565
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 34405,
+        "completion_tokens": 1459,
+        "total_tokens": 35864,
+        "cached_tokens": 150,
+        "cost_usd": 0.007588
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 69812,
+        "completion_tokens": 2049,
+        "total_tokens": 71861,
+        "cached_tokens": 34400,
+        "cost_usd": 0.0098269
+      }
+    ]
+  }
+}

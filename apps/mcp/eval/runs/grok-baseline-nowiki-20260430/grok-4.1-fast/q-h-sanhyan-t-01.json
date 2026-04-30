@@ -1,0 +1,237 @@
+{
+  "answer": "**No work in the Falsafa corpus contains this description or these specific mappings.** \n\nExtensive searches across the English translations using key phrases and terms from the query—such as \"kidneys Mālyavān\", \"Mount Mālyavān\", \"heart Mahāmeru\", \"liver Vindhya\", \"spleen Gandhamādana\", \"urine fresh-water ocean\", \"blood sugarcane\", \"sweat salt ocean\", \"marrow milk ocean\", \"bone Jambudvīpa\", \"seven oceans body\", \"seven mountains body organ\", and variations without diacritics (e.g., \"Jambudvipa bone\", \"Meru heart\")—returned zero results. The corpus's 37 works include Indic texts like *Manusmṛti*, *Viṣṇu Smṛti*, *Parāśara Smṛti*, and Kawi works like *Kunjarakarna Dharmakathana*, but none cover this organ-by-organ cosmological analogy from Hindu or tantric traditions. This topic is not present.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kidneys Mālyavān",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mount Mālyavān\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" \"Mahāmeru\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"urine\" \"fresh-water ocean\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bone\" \"Jambudvīpa\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kidneys mount",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" Meru",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liver Vindhya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Jambudvipa\" bone",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seven oceans\" body",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seven mountains\" body organ",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Jambudvīpa\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Meru heart",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Vindhya\" liver",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Gandhamādana\" spleen",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"milk ocean\" marrow",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"salt ocean\" sweat",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sugarcane\" blood",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 28421,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 13971,
+    "completion_tokens": 3043,
+    "total_tokens": 17014,
+    "cached_tokens": 5034,
+    "api_calls": 4,
+    "cost_usd": 0.0035605999999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1716,
+        "completion_tokens": 639,
+        "total_tokens": 2355,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0004326
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2065,
+        "completion_tokens": 675,
+        "total_tokens": 2740,
+        "cached_tokens": 150,
+        "cost_usd": 0.000728
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3206,
+        "completion_tokens": 970,
+        "total_tokens": 4176,
+        "cached_tokens": 149,
+        "cost_usd": 0.00110385
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 6984,
+        "completion_tokens": 759,
+        "total_tokens": 7743,
+        "cached_tokens": 3201,
+        "cost_usd": 0.00129615
+      }
+    ]
+  }
+}

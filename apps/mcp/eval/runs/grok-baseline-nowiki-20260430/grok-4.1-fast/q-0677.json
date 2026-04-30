@@ -1,0 +1,271 @@
+{
+  "answer": "In the Urdu corpus—primarily poetic collections by Allama Iqbal (*Bang-e-Dara* Parts 1–3), Mirza Ghalib (*Diwan-e-Ghalib*), and Sheikh Ibrahim Zauq (*Diwan-e-Zauq*)—*naseeb* (نصیب; transliterated consistently as \"naseeb\" or \"naseeb\"[^1]) denotes one's allotted **lot, fortune, or destiny**, often predestined by God (*qudrat* or divine wisdom). It carries philosophical undertones of resignation, irony, or lament over disparity, misfortune (*bad-naseeb*), or unattainable qualities/joys, contrasting the speaker's (or character's) *naseeb* with others'. Usage is idiomatic in ghazals and nazms, emphasizing humility before fate, social hierarchy, or existential limits, rather than systematic metaphysics.[^2]\n\n### Key Themes and Examples\n- **Unattainable fortune/qualities**: The mountain mocks the squirrel's lack of grandeur, boasting, \"Jo baat mujh mein hai, tujh ko woh hai naseeb kahan / Bhala pahar kahan jaanwar ghareeb kahan!\" (*Whatever trait I possess, where is it *your* fortune to have? After all, where is a mountain, where a poor creature?*).[^3] This highlights divinely ordained differences in capability.[^4]\n- **Misfortune of the weak**: A cow laments human exploitation, noting the ledger (*likha*) of the unfortunate (*naseebon*) arriving, and \"Aisi khushiyan hamein naseeb kahan\" (*Such joys, where is it our fortune?*), contrasting pastoral bliss dependent on humans.[^5]\n- **Wretched fate (*bad-naseeb*)**: A caged bird cries, \"Kya bad-naseeb hoon main ghar ko taras raha hoon\" (*How ill-fated I am, pining for home*), yearning for lost freedom while companions roam.[^6]\n- **Fateful blackness/day**: Ghalib's ghazal reflects ironic endurance: \"Jise naseeb ho roz-e-siyah mera sa / Woh shakhs din na kahe raat ko to kyun kar ho\" (*One whose *lot* is a day as black as mine—how could they not call night 'day'?*); *naseeb* equates to inescapable gloom.[^7]\n- **Other instances**: Zauq uses it for destined separation (\"muqaddar juda naseeb juda\"[^8]), vengeful fate,[^9] or ironic warrior's \"fortune\" in defeat.[^10] Iqbal extends to cultural ruin (\"Gham naseeb Iqbal ko bakhsha gaya\"[^11]) or humble origins awakening gems.[^12]\n\nNo Urdu work offers a definitional treatise; *naseeb* emerges poetically as life's unchangeable portion, echoing Islamic notions of *qadar* (divine decree) amid human complaint. It appears ~17 times (transliteration variant), absent from English translations (rendered as \"fortune,\" \"fate,\" \"wretched,\" etc.).[^13]\n\n[^1]: All instances via transliteration (Romanized Urdu); *Bang-E-Dara Part 1*, [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/21-ek-pahar-aur-gilehri/transliteration/).\n[^2]: Cf. Iqbal's recurring divine wisdom (*hikmat*) assigning lots (*Bang-E-Dara Part 1*, [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/21-ek-pahar-aur-gilehri/translation/#p-fa7390)).\n[^3]: *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/21-ek-pahar-aur-gilehri/transliteration/#p-fc8a15).\n[^4]: Translation: *Bang-E-Dara Part 1*, [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/21-ek-pahar-aur-gilehri/translation/).\n[^5]: *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/22-ek-gaye-aur-bakri/transliteration/#p-5c1671); full fable: [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/22-ek-gaye-aur-bakri/translation/).\n[^6]: *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/transliteration/#p-8c2032); [translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/translation/).\n[^7]: *Diwan-E-Ghalib*, [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/47-gayi-woh-baat-ke-ho-guftugu-to-kyun-kar-ho/translation/).\n[^8]: *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/24-juda-hoon-yaar-se-hum-aur-na-ho-raqeeb-juda/transliteration/#p-f5e26d).\n[^9]: [Chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/08-balaaein-aankhon-se-un-ki-madaam-lete-hain/transliteration/#p-269606).\n[^10]: [Chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/20-hum-hain-aur-shughl-e-ishq-baazi-hai/transliteration/).\n[^11]: *Bang-E-Dara Part 2*, [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/transliteration/#p-d17409).\n[^12]: *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/transliteration/#p-ef557a).\n[^13]: *Corpus-wide search* yielded 17 transliteration hits; 0 in pure translation.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naseeb",
+        "limit": 30
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"naseeb\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nasib",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 21,
+        "paragraph_ids": [
+          "p-fc8a15"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 22,
+        "paragraph_ids": [
+          "p-5c1671"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32,
+        "paragraph_ids": [
+          "p-6d3166"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "p-8c2032"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 21,
+        "paragraph_ids": [
+          "p-d17409"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-1-55b25c\",\"title\":\"Bang-E-Dara Part 1\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 21,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 21,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 22,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.22 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.34 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 47,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.47 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 47,
+      "paragraph_id": "p-fa7390"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 47,
+      "paragraph_id": "p-fc8a15"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 47,
+      "paragraph_id": "p-5c1671"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 47,
+      "paragraph_id": "p-8c2032"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 47,
+      "paragraph_id": "p-f5e26d"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 47,
+      "paragraph_id": "p-269606"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 47,
+      "paragraph_id": "p-d17409"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 47,
+      "paragraph_id": "p-ef557a"
+    }
+  ],
+  "duration_ms": 61502,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 25204,
+    "completion_tokens": 6396,
+    "total_tokens": 31600,
+    "cached_tokens": 13475,
+    "api_calls": 5,
+    "cost_usd": 0.0062175500000000005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1551,
+        "completion_tokens": 236,
+        "total_tokens": 1787,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004057
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2200,
+        "completion_tokens": 509,
+        "total_tokens": 2709,
+        "cached_tokens": 150,
+        "cost_usd": 0.000672
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4900,
+        "completion_tokens": 1447,
+        "total_tokens": 6347,
+        "cached_tokens": 2195,
+        "cost_usd": 0.00137425
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_metadata"
+        ],
+        "prompt_tokens": 6090,
+        "completion_tokens": 1401,
+        "total_tokens": 7491,
+        "cached_tokens": 4895,
+        "cost_usd": 0.00118425
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 10463,
+        "completion_tokens": 2803,
+        "total_tokens": 13266,
+        "cached_tokens": 6085,
+        "cost_usd": 0.00258135
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "answer": "**The work *San Hyaṅ Tattvajñāna* (slug: `unknown-san-hyan-tattvajnana-1f29bd`) does not contain a passage that explicitly classifies \"the six categories of beings\" (or any close phrasing like \"six categories,\" \"six types,\" or \"six classes\" of beings).**[^1]\n\nThe text provides extensive classifications of beings (*janma*, *yoni*) according to the dominance of *buddhi*-sattva (lucidity: six higher types like *Tripuruṣa*, *Pañcaṛṣi*, etc.), *buddhi*-rajas (passion: three demonic types like *Dānava*, *Daitya*, *Rākṣasa*), and *buddhi*-tamas (inertia: four ghostly types like *Bhūta Yakṣa*, *Bhūta Piśāca*, etc.).[^2] Combinations of these determine five broad destinies for the soul (*ātmā*): *mokṣa* (liberation), *svarga* (heaven), *mānuṣa* (human), *naraka* (hell), and *triyak* (animal realm). The *triyak* realm is then subdivided into **five kinds** (explicitly): *pāśu* (domestic animals), *mṛga* (wild beasts), *pakṣī* (birds), *mīna* (fish), and *pipīlikā* (crawlers), with further notes on *sarīsṛpa* (creepers) and *sthāvara* (immobile plants/rocks).[^3]\n\nNo list of exactly six categories appears.\n\n[^1]: Full chapter read via `read_chapter` (`unknown-san-hyan-tattvajnana-1f29bd`, chapter 1, `translation`); no matches for \"six categories,\" \"six types,\" etc., confirmed via prior `search_corpus` (queries: \"six categories of beings,\" \"six categories,\" \"categories beings,\" \"six\").\n\n[^2]: `/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-35d5cc` (starts *buddhi*-*guṇa* *yoni* lists); `/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-95377c` (*sattva* six: *Tripuruṣa* etc.); `/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-58d9a2` (*rajas* three); `/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-17f9ad` (*tamas* four).\n\n[^3]: `/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-f94448` (five destinies); `/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-357c74` (\"five kinds of *triyak*\").",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "six categories of beings",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"San Hyan Tattvajnana\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"six\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "categories beings",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"six categories\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-35d5cc"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-95377c"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-58d9a2"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-17f9ad"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-f94448"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-357c74"
+    }
+  ],
+  "duration_ms": 56870,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 80242,
+    "completion_tokens": 5422,
+    "total_tokens": 85664,
+    "cached_tokens": 13510,
+    "api_calls": 4,
+    "cost_usd": 0.0167329,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 751,
+        "total_tokens": 2305,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00045695
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5765,
+        "completion_tokens": 633,
+        "total_tokens": 6398,
+        "cached_tokens": 150,
+        "cost_usd": 0.001447
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6076,
+        "completion_tokens": 287,
+        "total_tokens": 6363,
+        "cached_tokens": 5760,
+        "cost_usd": 0.0004947
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 66847,
+        "completion_tokens": 3751,
+        "total_tokens": 70598,
+        "cached_tokens": 6071,
+        "cost_usd": 0.01433425
+      }
+    ]
+  }
+}

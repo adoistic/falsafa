@@ -1,0 +1,237 @@
+{
+  "answer": "In the *Kuñjarakarna Dharmakathana* by Mpu Dusun, the rākṣasa ascetic Kuñjarakarṇa first encounters Lord Vairocana (initially referred to as the Lord Jina, Lord Buddha, or Sugata) upon arriving at the \"immaculate Monastery of Enlightenment\" (identified explicitly as Vairocana later in the text).[^1] There, after homage and praise, he poses questions about rebirth, suffering, disparity in fortunes, and impurity of form. Vairocana responds by extolling the rarity of seeking the *dharma*, critiquing the heedless and scornful, and—instructions him to witness the torments in Yama's realm as preparation for deeper teaching.[^2]\n\n[^1]: Mpu Dusun, *Kunjarakarna Dharmakathana*, [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-c01bae).\n[^2]: Mpu Dusun, *Kunjarakarna Dharmakathana*, [paragraphs](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-0163d8).\n\nKuñjarakarṇa obeys, visits Yama's realm (and warns his friend Pūrṇavijaya), then returns with him. He praises Vairocana again and begs for the \"supreme truth of the *dharma*.\"[^3] Vairocana then delivers extended teachings on karma, the five souls (*ātmā* etc.), debts to parents/gods/world/teachers, purity of mind, unity of Buddhist/Śaiva/Ṛṣi deities (revealing himself explicitly as Vairocana), and the path to *mokṣa* via vows, giving (*dāna*), and non-dual wisdom—culminating in advice to guard the mind and avoid external merit alone.[^4]\n\n[^3]: Mpu Dusun, *Kunjarakarna Dharmakathana*, [paragraphs](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-3af769).\n[^4]: Mpu Dusun, *Kunjarakarna Dharmakathana*, [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-6c6127).\n\nThe full context spans much of the single-chapter work (~18k words), framed as a Buddhist didactic tale (*dharmakathana*) emphasizing *dharma*, karma's fruits, hellish torments, and Vairocana's syncretic supremacy. Kuñjarakarṇa achieves *mokṣa* at its close.[^5]\n\n[^5]: Mpu Dusun, *Kunjarakarna Dharmakathana*, [chapter](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kunjarakarna Vairocana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kunjarakarna\" \"Vairocana\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kunjarakarna",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kunjarakarna Dharmakathana\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"slug\":\"unknown-kunjarakarna-dharmakathana-894f4a\",\"title\":\"Kunjarakarna Dharmakathana\",\"author\":\"Mpu Dusun\",\"author_slug\":\"mpu-dusun\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_sl"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-c01bae",
+          "p-0163d8",
+          "p-fb006a",
+          "p-e545f7",
+          "p-469a70",
+          "p-62f6f6",
+          "p-95029c",
+          "p-96e922",
+          "p-f216ea",
+          "p-386a1b",
+          "p-fd40e5",
+          "p-5fe5e7",
+          "p-f907b3",
+          "p-423a28"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 14 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-3af769",
+          "p-ebe631",
+          "p-1d6449",
+          "p-839d5b",
+          "p-fd135e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-6c6127",
+          "p-962d1e",
+          "p-0097df"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-c01bae"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-0163d8"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-3af769"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-6c6127"
+    }
+  ],
+  "duration_ms": 73652,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 84320,
+    "completion_tokens": 7646,
+    "total_tokens": 91966,
+    "cached_tokens": 42970,
+    "api_calls": 6,
+    "cost_usd": 0.0142415,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1560,
+        "completion_tokens": 532,
+        "total_tokens": 2092,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00034865
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 1747,
+        "completion_tokens": 308,
+        "total_tokens": 2055,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004809
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5196,
+        "completion_tokens": 366,
+        "total_tokens": 5562,
+        "cached_tokens": 1742,
+        "cost_usd": 0.0009609
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "get_metadata"
+        ],
+        "prompt_tokens": 5549,
+        "completion_tokens": 302,
+        "total_tokens": 5851,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012383
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 33860,
+        "completion_tokens": 4575,
+        "total_tokens": 38435,
+        "cached_tokens": 5544,
+        "cost_usd": 0.0082279
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 36408,
+        "completion_tokens": 1563,
+        "total_tokens": 37971,
+        "cached_tokens": 33855,
+        "cost_usd": 0.00298485
+      }
+    ]
+  }
+}

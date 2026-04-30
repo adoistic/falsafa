@@ -1,0 +1,224 @@
+{
+  "answer": "**In the *Vrhaspatitattva*, a Kawi Śaiva philosophical text attributed to Bṛhaspati, *cetana* (Conscious Principle) and *acetana* (Unconscious Principle) are presented as the two supreme *tattvas* (principles of reality), from which all other *tattvas* arise.**[^1][^2]\n\n*Cetana* is defined as that which possesses the nature of *jñāna* (knowledge): it knows, is never subject to forgetting (*lupa*), remains eternally aware (*jñānamaya*) at all times, and is unobscured (*nirākula*).[^2] It has three distinct forms: *Paramaśivatattva* (the highest, immeasurable, all-pervading, and sovereign), *Sadāśivatattva* (active, omniscient, omnipotent, seated on a lotus throne of four *śaktis*—powers), and *Śivatattva* (pure consciousness, stained by *mala*—impurity—when pervading lower *tattvas* like *māyā*, becoming the dazed *ātmā* or soul).[^2][^3]\n\n*Acetana*, by contrast, is devoid of knowledge (*ajñāna*), likened to a stone (*aśma*), void, and inert.[^2] It exemplifies unconsciousness, such as *māyātattva* (delusive principle, empty and transparent) and *pradhānatattva* (its gross child, causing forgetfulness in the soul).[^3][^4]\n\nTheir conjunction (*cetana*-*acetana*-saṃyoga*) generates the full *sarvatattva* (all principles): *pradhāna*, *triguṇa* (*sattva*, *rajas*, *tamas*), *buddhi*, *ahaṅkāra*, senses (*indriya*), and *pañcamahābhūta* (gross elements).[^2] This framework explains *saṃsāra* (cycle of rebirth), where *cetana* (as soul) is veiled by *acetana* principles, leading to bondage until liberated via knowledge (*jñāna*), dispassion (*vairāgya*), and yoga.[^3][^5]\n\n[^1]: *Vrhaspatitattva*, Chapter 1, [paragraph](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-04d69c).\n[^2]: *Vrhaspatitattva*, Chapter 1, [paragraph](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-c31df3).\n[^3]: *Vrhaspatitattva*, Chapter 1, [paragraph](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-643885).\n[^4]: *Vrhaspatitattva*, Chapter 1, [passage](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-695576).\n[^5]: *Vrhaspatitattva*, Chapter 1, [paragraph](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-724e96).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vrhaspatitattva",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cetana acetana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cetana",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "{\"slug\":\"unknown-san-hyan-tattvajnana-1f29bd\",\"title\":\"San Hyan Tattvajnana\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"lan"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vrhaspati\" OR \"brhaspati\" OR \"vṛhaspati\" OR \"bṛhaspati\" OR \"tattva\"",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "brhaspati"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "indic"
+      },
+      "result_summary": "Listed 19 works"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"slug\":\"unknown-vrhaspatitattva-b60b28\",\"title\":\"Vrhaspatitattva\",\"author\":\"Bṛhaspati\",\"author_slug\":\"brhaspati\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\""
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cetana OR acetana OR consciousness OR unconscious",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-04d69c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-04d69c"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-c31df3"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-643885"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-695576"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-724e96"
+    }
+  ],
+  "duration_ms": 45431,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 135778,
+    "completion_tokens": 4095,
+    "total_tokens": 139873,
+    "cached_tokens": 75543,
+    "api_calls": 5,
+    "cost_usd": 0.01787165,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1561,
+        "completion_tokens": 631,
+        "total_tokens": 2192,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006052
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 4829,
+        "completion_tokens": 1210,
+        "total_tokens": 6039,
+        "cached_tokens": 1532,
+        "cost_usd": 0.001341
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_metadata",
+          "read_chapter",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 34117,
+        "completion_tokens": 372,
+        "total_tokens": 34489,
+        "cached_tokens": 4824,
+        "cost_usd": 0.0062858
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_metadata",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 34930,
+        "completion_tokens": 406,
+        "total_tokens": 35336,
+        "cached_tokens": 34112,
+        "cost_usd": 0.0020722
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 60341,
+        "completion_tokens": 1476,
+        "total_tokens": 61817,
+        "cached_tokens": 34925,
+        "cost_usd": 0.00756745
+      }
+    ]
+  }
+}

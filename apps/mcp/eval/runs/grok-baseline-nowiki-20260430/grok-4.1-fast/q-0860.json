@@ -1,0 +1,248 @@
+{
+  "answer": "In *Bang-e-Dara*, Allama Iqbal frequently employs Persian-derived compounds and idioms, elevating Urdu poetry with layers of philosophical, mystical, or rhythmic nuance that simpler Urdu phrasing would dilute. Here are three instances where this choice performs substantive work:\n\n1. The opening of Part 1, poem 3 invokes **gulzar-e-hast-o-bud** (\"garden of being and becoming\"). The Persian compound *hast-o-bud*—a staple of Sufi metaphysics (echoing Rumi and Attar)—compresses the flux of existence into a single, resonant image of cosmic transience, urging intimate engagement with creation. A plainer Urdu equivalent like *duniya ka bagh* (\"world's garden\") would lack this Sufi depth, reducing it to mundane scenery.[^1]\n\n2. In Part 1, poem 6, **kushaada dast-e-karam** (\"open hand of [divine] grace\") and **beniyaaz** (\"self-sufficient\") critique the preacher's hypocrisy against God's boundless generosity. These Persian idioms carry classical theological weight—*dast-e-karam* evokes Quranic/Persian imagery of divine favor without reciprocity, while *beniyaaz* implies absolute transcendence. Urdu alternatives like *khuli haath denewala* (\"open-handed giver\") or *be-niyaz* feel prosaic and less exalted.[^2]\n\n3. Part 2, poem 3 begins with **misaal-e-partav-e-mai** (\"simile of the wine's ray\"), likening worship to the ecstatic shimmer of light on wine. *Partav* (Persian for \"ray/reflection\") conjures the visual intoxication of Sufi *sama'* rituals, amplifying themes of divine love as inebriation. Urdu *roshni sharab ki* (\"wine's light\") misses this precise, luminous metaphor rooted in Hafezian ghazal tradition.[^3]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 3 [paragraph](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/03-gulzar-e-hast-o-bud-na-begana-waar-dekh/transliteration/#p-222f42).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 6 [paragraph](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/06-kushaada-dast-e-karam-jab-woh-beniyaaz-kare/transliteration/#p-6e7e9e).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 3 [paragraph](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/03-misaal-e-partav-e-mai-tawaf-e-jaam-karte-hain/transliteration/#p-70756c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "bang-e-dara"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 3,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.3 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 6,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.6 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 3,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.3 of allama-iqbal-bang-e-dara-part-2-9bc58c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 9,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 12,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-222f42"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-6e7e9e"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-70756c"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-a0656b"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 9,
+      "paragraph_id": "p-222f42"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 9,
+      "paragraph_id": "p-6e7e9e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 9,
+      "paragraph_id": "p-70756c"
+    }
+  ],
+  "duration_ms": 65839,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 66787,
+    "completion_tokens": 6422,
+    "total_tokens": 73209,
+    "cached_tokens": 44368,
+    "api_calls": 5,
+    "cost_usd": 0.0099132,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1573,
+        "completion_tokens": 352,
+        "total_tokens": 1925,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004681
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7116,
+        "completion_tokens": 1137,
+        "total_tokens": 8253,
+        "cached_tokens": 1568,
+        "cost_usd": 0.0017565
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 14605,
+        "completion_tokens": 1468,
+        "total_tokens": 16073,
+        "cached_tokens": 7111,
+        "cost_usd": 0.00258835
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 20944,
+        "completion_tokens": 1655,
+        "total_tokens": 22599,
+        "cached_tokens": 14600,
+        "cost_usd": 0.0028263
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 22549,
+        "completion_tokens": 1810,
+        "total_tokens": 24359,
+        "cached_tokens": 20939,
+        "cost_usd": 0.00227395
+      }
+    ]
+  }
+}

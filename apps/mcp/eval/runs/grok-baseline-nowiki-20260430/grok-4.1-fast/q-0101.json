@@ -1,0 +1,175 @@
+{
+  "answer": "**In Manusmṛti (also known as the Manusmṛti) Chapter 2, the Brahmin's authority over the other *varnas* (social orders) is presented as deriving primarily from their role as possessors and teachers of sacred knowledge (especially the Veda), which establishes them as spiritual fathers and exemplars of conduct, superior even to kings or elders in other *varnas*.**\n\nA key passage states that all people should learn their respective duties from a Brahmin of the holy land: \"From a Brahmana born in that country, all men on earth should learn their respective conduct.\"[^1] This positions Brahmins as the authoritative source of *Dharma* for all *varnas*.\n\nThis superiority is explicit in the hierarchy of respect, where knowledge—the hallmark of Brahmins—outranks wealth, kinship, age, or action: \"Wealth, kinship, age, action, and knowledge as the fifth—these are the grounds for respect; each succeeding one is more weighty.\"[^2]\n\nIt is illustrated directly against Kshatriya (royal) authority: \"A Brahmana of ten years and a king of a hundred years should be known as father and son; but of the two, the Brahmana is the father.\"[^3] Here, the young Brahmin's paternal authority over the elder king underscores the Brahmin's preeminence due to Vedic learning (see also nearby Mn_2.155 on Brahmin seniority from knowledge).[^4]\n\nThe broader context emphasizes Brahmins' \"second birth\" through the Veda (e.g., Mn_2.146–148), making them eternal teachers (*ācārya*, *guru*) whose instruction sanctifies others.[^5]\n\n[^1]: Manusmṛti, Chapter 2, [p-a00576](/works/unknown-manusmrti-347b76/02/translation/#p-a00576).\n\n[^2]: Manusmṛti, Chapter 2, [p-4648f6](/works/unknown-manusmrti-347b76/02/translation/#p-4648f6).\n\n[^3]: Manusmṛti, Chapter 2, [p-369b0d](/works/unknown-manusmrti-347b76/02/translation/#p-369b0d).\n\n[^4]: Manusmṛti, Chapter 2, [p-5cfd6a](/works/unknown-manusmrti-347b76/02/translation/#p-5cfd6a).\n\n[^5]: Manusmṛti, Chapter 2, [citation_url from read_chapter, e.g., paragraphs around p-7c01c0](/works/unknown-manusmrti-347b76/02/translation/#p-7c01c0).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"manusmriti\" OR \"manu\" chapter 2 brahmin authority varna"
+      },
+      "result_summary": "Found 21 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmin authority OR power OR superior OR guru OR teacher varna OR caste OR ksatriya OR vaisya OR sudra \"chapter 2\" OR \"manu 2\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-a00576",
+          "p-369b0d",
+          "p-4648f6",
+          "p-5cfd6a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_range": {
+          "start": 136,
+          "end": 137
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-a00576"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-4648f6"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-369b0d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-5cfd6a"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-7c01c0"
+    }
+  ],
+  "duration_ms": 43535,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 46291,
+    "completion_tokens": 4790,
+    "total_tokens": 51081,
+    "cached_tokens": 26451,
+    "api_calls": 4,
+    "cost_usd": 0.007685549999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 723,
+        "total_tokens": 2285,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00044455
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5444,
+        "completion_tokens": 354,
+        "total_tokens": 5798,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012433
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19338,
+        "completion_tokens": 1837,
+        "total_tokens": 21175,
+        "cached_tokens": 5439,
+        "cost_usd": 0.00397025
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 19947,
+        "completion_tokens": 1876,
+        "total_tokens": 21823,
+        "cached_tokens": 19333,
+        "cost_usd": 0.00202745
+      }
+    ]
+  }
+}

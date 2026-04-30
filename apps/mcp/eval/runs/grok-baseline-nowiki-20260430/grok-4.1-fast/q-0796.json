@@ -1,0 +1,174 @@
+{
+  "answer": "**Manusmṛti Chapter 1 specifies that the Kṛta (or Kr̥ta) Yuga itself lasts 4,000 divine years, with a preceding twilight (*sandhyāṁ pūrvām*) and following twilight (*uttarām*) each of 400 years (i.e., \"as many hundreds\" as the thousands of the yuga proper).[^1][^2]**\n\nThis gives a total duration for the full Kṛta Yuga period (yuga + twilights) of 4,800 years. The text presents this as an absolute measure in divine years (*devayuga*), not an explicit proportional ratio like 4:3:2:1 (which applies across the four yugas collectively). For context, the subsequent verse notes that the other yugas (Trētā, Dvāpara, Kali) have their thousands and hundreds successively reduced by 1 (e.g., Trētā: 3,000 + 300 + 300), yielding the familiar 12,000-year divine cycle (*caturyuga*).[^3]\n\n[^1]: Manusmṛti, *Chapter 1*, [paragraph](https://falsafa.corpus/works/unknown-manusmrti-347b76/01/translation/#p-a2767c).\n\n[^2]: Full verse: \"They say that four thousand years is the Krita Yuga; its twilight before is of as many hundreds, and its twilight after is of the same length. // Mn_1.69 //\"\n\n[^3]: Manusmṛti, *Chapter 1*, [paragraph](https://falsafa.corpus/works/unknown-manusmrti-347b76/01/translation/#p-85c454).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Krta Yuga",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kṛta\" Yuga Manusmriti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Krita Yuga\" ratio",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yuga",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-a2767c",
+          "p-85c454"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-a2767c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-85c454"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-a2767c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-85c454"
+    }
+  ],
+  "duration_ms": 39015,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 26173,
+    "completion_tokens": 4181,
+    "total_tokens": 30354,
+    "cached_tokens": 12907,
+    "api_calls": 4,
+    "cost_usd": 0.00538905,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1558,
+        "completion_tokens": 777,
+        "total_tokens": 2335,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006776
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 1868,
+        "completion_tokens": 458,
+        "total_tokens": 2326,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00037325
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11083,
+        "completion_tokens": 1461,
+        "total_tokens": 12544,
+        "cached_tokens": 150,
+        "cost_usd": 0.0029246
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 11664,
+        "completion_tokens": 1485,
+        "total_tokens": 13149,
+        "cached_tokens": 11078,
+        "cost_usd": 0.0014136
+      }
+    ]
+  }
+}

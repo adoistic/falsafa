@@ -1,0 +1,400 @@
+{
+  "answer": "**No, Charles Comte's *Traité de la propriété* does not argue that \"liberty grounds property\" (i.e., that property derives from or is justified by prior liberty); rather, the reverse is closer to true in his text: property is a consequence of man's nature, including his liberty to labor and appropriate, but liberty itself is treated as a prior condition for the exercise of *all* rights (including property rights), not their foundation.[^1][^2] Property emerges specifically from the free occupation of unowned things and labor upon them, as natural extensions of human faculties under liberty.[^3][^4]**\n\n**Charles Dunoyer's *Nouveau traité d'économie* contains no direct parallel argument that liberty grounds property (or vice versa). Instead, Dunoyer reverses the conceptual direction: *industry* (useful, productive labor creating utilities/values/property via exchange, not violence) is the path to liberty, defined as increasing power/facility in exercising faculties by overcoming obstacles through skill, morality, and peaceful production.[^5][^6] Property fits within this as the secure fruits of labor in the \"purely industrious\" society, where men prosper without harming others—but it is liberty's *result*, not ground.[^7] Secure property/wealth emerges as societies advance to industrial regimes, enabling maximal liberty via division of labor, associations, and peace.[^8]**\n\n### Contrast in Starting Points\n- **Comte's starting point is philosophical/naturalistic**: He begins with observations of slavery's evils (degrading faculties, halting progress), deducing that liberty (no obstacles to innocent faculty exercise) is inherent to human nature/duties/rights.[^9] Property follows deductively as appropriation/occupation/labor by free persons on unowned things (e.g., land, animals), essential for prosperity.[^10] Rights (incl. property) are \"inherent in [human] nature,\" prior to government; society/politics merely recognizes/enforces them.[^11]\n- **Dunoyer's starting point is historical/sociological/developmental**: He analyzes societal *stages* (savage → nomadic → slaveholding → serfdom → privilege → industrial), measuring liberty by empirical progress in faculties/morality/industry overcoming natural/social obstacles.[^12] Full liberty arrives *last*, in \"purely industrious\" society, where property/exchange replace violence/domination—because only productive labor scales peacefully for all.[^13] No abstract \"natural rights\"; liberty is *acquired* via civilization, with government as mere \"repression of violence\" in industrial equilibrium.[^14]\n\nComte's liberty is axiomatic (pre-social, grounding rights/property); Dunoyer's is emergent (post-social development via industry, enabling secure property/peace). The corpus covers neither explicit mutual reference nor identical thesis; Dunoyer's industrial liberty *presupposes* property-like fruits of labor but subordinates it to broader productive harmony.[^15]\n\n[^1]: Charles Comte, *Traité de la propriété* VOL I, [ch. 2/translation/](https://falsafa.corpus/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/02-de-la-liberte-consideree-comme-une-condition-de-le/translation/#p-2cd7a3).\n[^2]: Ibid., [ch. 2/translation/#p-60f07c](https://falsafa.corpus/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/02-de-la-liberte-consideree-comme-une-condition-de-le/translation/#p-60f07c).\n[^3]: Ibid., [ch. 4/translation/#p-41a64c](https://falsafa.corpus/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-41a64c).\n[^4]: Ibid., [ch. 5/translation/#p-f76ed9](https://falsafa.corpus/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/05-de-lappropriation-des-choses-en-general/translation/#p-f76ed9).\n[^5]: Charles Dunoyer, *Nouveau traité d'économie* VOL I, [ch. 1/translation/#p-fc8999](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-fc8999).\n[^6]: Ibid., [intro/translation/#p-67acca](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-67acca).\n[^7]: Ibid., [ch. 11/translation/#p-872da7](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/translation/#p-872da7).\n[^8]: Ibid., [ch. 11/translation/#p-b115c1](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/translation/#p-b115c1).\n[^9]: Comte, *Traité* VOL I, [ch. 3/translation/#p-9b6829](https://falsafa.corpus/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/03-de-ce-qui-constitue-la-liberte/translation/#p-9b6829).\n[^10]: Ibid., [ch. 5/translation/#p-cd7e40](https://falsafa.corpus/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/05-de-lappropriation-des-choses-en-general/translation/#p-cd7e40).\n[^11]: Ibid., [ch. 5/translation/#p-1db575](https://falsafa.corpus/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/05-de-lappropriation-des-choses-en-general/translation/#p-1db575).\n[^12]: Dunoyer, *Nouveau traité* VOL I, [ch. 1/translation/#p-583c6c](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-583c6c).\n[^13]: Ibid., [ch. 11/translation/#p-4abf4b](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/translation/#p-4abf4b).\n[^14]: Ibid., [intro/translation/#p-c4d359](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-c4d359).\n[^15]: No chapters in Dunoyer's VOL II (read via listings) reverse this; they apply liberty to specific industries.[Full corpus search yielded no explicit \"liberty grounds property\" in Dunoyer; property appears in industrial context only.]",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty\" \"property\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"freedom\" \"property\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty grounds property\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property\" \"liberty\" Dunoyer"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "Listed 7 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberty property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "property",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty is the foundation\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 2,
+        "limit": 10
+      },
+      "result_summary": "Found 8 related"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 3,
+        "limit": 10
+      },
+      "result_summary": "Found 8 related"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.0 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "work_slug_b": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "topic": "liberty property"
+      },
+      "result_summary": "{\"topic\":\"liberty property\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"charles-comte-traite-de-la-propriete-vol-"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "work_slug_b": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "topic": "liberty property"
+      },
+      "result_summary": "{\"topic\":\"liberty property\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"charles-comte-traite-de-la-propriete-vol-"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"appropriation\" OR \"property\" OR \"possession\" OR \"own\" liberty",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-2cd7a3"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-60f07c"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-41a64c"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-f76ed9"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-fc8999"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-67acca"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-872da7"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-b115c1"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-9b6829"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-cd7e40"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-1db575"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-583c6c"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-4abf4b"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-c4d359"
+    }
+  ],
+  "duration_ms": 92638,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 137288,
+    "completion_tokens": 9233,
+    "total_tokens": 146521,
+    "cached_tokens": 76867,
+    "api_calls": 7,
+    "cost_usd": 0.02054405,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 548,
+        "total_tokens": 2111,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00035725
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2687,
+        "completion_tokens": 965,
+        "total_tokens": 3652,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009974
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2937,
+        "completion_tokens": 590,
+        "total_tokens": 3527,
+        "cached_tokens": 2682,
+        "cost_usd": 0.0004801
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8815,
+        "completion_tokens": 1041,
+        "total_tokens": 9856,
+        "cached_tokens": 2932,
+        "cost_usd": 0.0018437
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17103,
+        "completion_tokens": 1652,
+        "total_tokens": 18755,
+        "cached_tokens": 8810,
+        "cost_usd": 0.0029251
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "find_related",
+          "find_related",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 43671,
+        "completion_tokens": 1898,
+        "total_tokens": 45569,
+        "cached_tokens": 17098,
+        "cost_usd": 0.0071185
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "compare_works",
+          "compare_works",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 60512,
+        "completion_tokens": 2539,
+        "total_tokens": 63051,
+        "cached_tokens": 43666,
+        "cost_usd": 0.006822
+      }
+    ]
+  }
+}

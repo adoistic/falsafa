@@ -1,0 +1,131 @@
+{
+  "answer": "**Chapter 47 of the *Kātyāyana Smṛti*** (also known as Katyayana Smriti) is titled \"The Measure of Interest\" and covers regulations on maximum interest rates for loans on various commodities.[^1]\n\nIt states that the principal lent by creditors is generally receivable as double (with further interest calculable if not repaid). Specific limits include:\n- Double the principal for gems, pearls, corals, gold, silver, cotton, silk, and wool.\n- Eight-fold for oils, liquors, ghee, molasses, and salt.\n- Five-fold for base metals.\n- Eight-fold for land, which must be repaid \"immediately.\"[^2]\n\nThese rules are referenced with verse markers like // K_509 // through // K_512 //.\n\n[^1]: Kātyāyana, *Kātyāyana Smṛti*, [Chapter 47 (translation)](/works/unknown-katyayana-smrti-1e06d2/47/translation/).\n\n[^2]: Specific passages include [p-16d029](/works/unknown-katyayana-smrti-1e06d2/47/translation/#p-16d029), [p-2acf4a](/works/unknown-katyayana-smrti-1e06d2/47/translation/#p-2acf4a), [p-bfebbd](/works/unknown-katyayana-smrti-1e06d2/47/translation/#p-bfebbd), and [p-d4145c](/works/unknown-katyayana-smrti-1e06d2/47/translation/#p-d4145c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "katyayana"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Katyayana Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "Listed 80 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 47
+      },
+      "result_summary": "Read ch.47 of unknown-katyayana-smrti-1e06d2 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 47,
+      "paragraph_id": "p-16d029"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 47,
+      "paragraph_id": "p-2acf4a"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 47,
+      "paragraph_id": "p-bfebbd"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 47,
+      "paragraph_id": "p-d4145c"
+    }
+  ],
+  "duration_ms": 20295,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 16671,
+    "completion_tokens": 2142,
+    "total_tokens": 18813,
+    "cached_tokens": 4339,
+    "api_calls": 4,
+    "cost_usd": 0.00375435,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1547,
+        "completion_tokens": 482,
+        "total_tokens": 2029,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00032105
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2515,
+        "completion_tokens": 177,
+        "total_tokens": 2692,
+        "cached_tokens": 150,
+        "cost_usd": 0.000569
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters"
+        ],
+        "prompt_tokens": 6051,
+        "completion_tokens": 280,
+        "total_tokens": 6331,
+        "cached_tokens": 2510,
+        "cost_usd": 0.0009737
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 6558,
+        "completion_tokens": 1203,
+        "total_tokens": 7761,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018906
+      }
+    ]
+  }
+}

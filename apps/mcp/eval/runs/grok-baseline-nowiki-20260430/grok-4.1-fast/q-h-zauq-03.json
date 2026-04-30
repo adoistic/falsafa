@@ -1,0 +1,151 @@
+{
+  "answer": "The ghazal is Sheikh Ibrahim Zauq's *Diwan-E-Zauq*, chapter 56 (\"hungaama garm hasti-e-na-paaidaar ka\"). Every couplet ends on the refrain \"is love,\" matching the radif '-aar ka' in the original Urdu.[^3]\n\n**Chinar-on-the-grave couplet:**  \n\"My heart's own fire, in the grave, will glow, is love.  \nA tall Chinar upon my tomb will grow, is love.\"[^1]\n\n**Pomegranate-of-paradise couplet** (noting \"Eden's pomegranate\" renders *khuld-e-bareen*, the pomegranate of the highest paradise, with \"juice\" for *sherbet*):  \n\"You ask what sweetness bitter teardrops show, is love?  \nThe juice of Eden's pomegranate in its flow, is love.\"[^2]\n\nThe ghazal closes: \"O Zauq, if you are wise, then from this world just go, is love. / This tavern has no place for those who think they know, is love.\"[^3]\n\n[^1]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/56-hungaama-garm-hasti-e-na-paaidaar-ka/translation/#p-f77039).\n\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/56-hungaama-garm-hasti-e-na-paaidaar-ka/translation/#p-a4f044).\n\n[^3]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/56-hungaama-garm-hasti-e-na-paaidaar-ka/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "chinar",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"khuld-e-bareen\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sherbet of the pomegranate\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tavern\" wise",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"is love\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 56,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.56 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 56,
+        "paragraph_ids": [
+          "p-f77039"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 56,
+        "paragraph_ids": [
+          "p-a4f044"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 56,
+      "paragraph_id": "p-f77039"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 56,
+      "paragraph_id": "p-a4f044"
+    }
+  ],
+  "duration_ms": 23441,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 10274,
+    "completion_tokens": 2780,
+    "total_tokens": 13054,
+    "cached_tokens": 6831,
+    "api_calls": 4,
+    "cost_usd": 0.00242015,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1696,
+        "completion_tokens": 589,
+        "total_tokens": 2285,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006112
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2142,
+        "completion_tokens": 299,
+        "total_tokens": 2441,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00034855
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 3020,
+        "completion_tokens": 530,
+        "total_tokens": 3550,
+        "cached_tokens": 2137,
+        "cost_usd": 0.00054845
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 3416,
+        "completion_tokens": 1362,
+        "total_tokens": 4778,
+        "cached_tokens": 3015,
+        "cost_usd": 0.00091195
+      }
+    ]
+  }
+}

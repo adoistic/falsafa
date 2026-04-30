@@ -1,0 +1,158 @@
+{
+  "answer": "Allama Iqbal's poem *Falsafa-e-Gham* (\"The Philosophy of Sorrow\") from *Bang-E-Dara Part 3* explores sorrow not as mere pain, but as an essential force that awakens the soul, reveals life's secrets, sustains love beyond death, and guides humanity through trials toward unity and enlightenment.[^1]\n\nHere is the full poem in English translation:\n\n> [p-1ba46d] **The Philosophy of Sorrow**  \n> \n> [p-141d8d] Though life's own wine is filled with joyful glee,  \n> Its clouds hold tears for every soul to see.  \n> Upon the waves of Sorrow, life's frail bubble rides,  \n> A chapter of 'Pain' in life's great book abides.  \n> A rose that has not lost a petal is no rose to see,  \n> A nightingale that knows no autumn cannot truly be.  \n> The heart's own story, with desire's blood, is stained,  \n> The song of man is incomplete without a sorrowed strain.  \n> For seeing eyes, a scar of Sorrow is the spirit's light,  \n> A sigh becomes a mirror, making the soul bright.  \n> Through trials of Sorrow, human nature finds its grace,  \n> The dust of anguish is a polish for the heart's own face.  \n> From pleasant dreams of youth, our Sorrow bids us rise,  \n> The soul's own instrument awakes when this same plectrum plies.  \n> For the heart's bird, Sorrow provides the wings for flight,  \n> The heart's a secret; Sorrow brings that secret to the light.  \n> Sorrow is not sorrow, but a silent song of soul,  \n> Embracing all the music that makes existence whole.  \n> \n> [p-e436cc] The one whose dusk has never known a cry of 'Lord, I pray,'  \n> Whose night is never lit by stars of tears that find their way;  \n> Whose heart's own cup has never known the break that Sorrow brings,  \n> Who stays forever drunk on wine that idle pleasure sings;  \n> The hand that gathers flowers but has never felt a thorn,  \n> Whose love knows not the agony of being left forlorn;  \n> Though anguish may be absent from his nights and from his day,  \n> The secret of all life is veiled and hidden far away.  \n> \n> [p-e693fc] O you who grasp the order that the universe displays,  \n> Why should you not walk easily through Sorrow's trying maze?  \n> Love is the preface to eternity's most ancient scroll,  \n> While human Reason fades, Love is the ever-living soul.  \n> Before the sun of Love, the dusk of death is put to shame,  \n> Love is the fire of life itself, an everlasting flame.  \n> If the beloved's parting meant Annihilation's art,  \n> Then passion's fire would also flee the loving, grieving heart.  \n> Love does not perish when the one beloved has passed away,  \n> It lives within the soul as Sorrow, and is there to stay.  \n> From Love's own Permanence, the loved one's being is secured,  \n> Their life knows not oblivion, their presence is assured.  \n> \n> [p-811039] A river from the mountain's brow comes singing on its way,  \n> And teaches birds of heaven songs to brighten up the day.  \n> Its mirror shines as brightly as a heavenly maiden's face,  \n> Then shatters on the valley rocks throughout that rugged space.  \n> What was a stream becomes a thousand pearls of lovely sheen,  \n> As from that fall, a million stars of water can be seen.  \n> The flowing stream of mercury is scattered and undone,  \n> A world of restless, anxious drops appears beneath the sun.  \n> But Separation teaches every drop of Union's way,  \n> Two steps ahead, the silver thread reforms without delay.  \n> In truth, we are the flowing river of all life, you see,  \n> Which, falling from a height, became the crowd of humanity.  \n> \n> [p-757295] We part within this lower world, to meet again one day,  \n> And weep, believing that this parting's here to always stay.  \n> The ones who die depart from sight, but are not swept away,  \n> In truth, they never leave our side, not for a single day.  \n> \n> [p-523a9f] When Reason is besieged by all the troubles of the age,  \n> Or lost within the darkened night upon youth's lonely stage;  \n> When good and evil battle in the landscape of the heart,  \n> And darkness on the path makes reaching one's true goal an art;  \n> When Courage, our great guide, from all desire has turned aside,  \n> When thought is rendered helpless, and the conscience has to hide;  \n> When in life's valley not a single fellow-traveler's near,  \n> No firefly's spark to light the path or make the way seem clear;  \n> The brows of those who've passed are radiant in that deepest night,  \n> The way the stars will always shine and fill the dark with light.[^1]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Falsafa-e-Gham\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-1ba46d).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Falsafa-e-Gham\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"philosophy of sorrow\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal gham"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-1ba46d",
+          "p-141d8d",
+          "p-e436cc",
+          "p-e693fc",
+          "p-811039",
+          "p-757295",
+          "p-523a9f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 7 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-1ba46d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-141d8d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-e436cc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-e693fc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-811039"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-757295"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-523a9f"
+    }
+  ],
+  "duration_ms": 30478,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 12115,
+    "completion_tokens": 3623,
+    "total_tokens": 15738,
+    "cached_tokens": 8879,
+    "api_calls": 4,
+    "cost_usd": 0.0029026499999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 359,
+        "total_tokens": 1913,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00026065
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2269,
+        "completion_tokens": 284,
+        "total_tokens": 2553,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00036645
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 3560,
+        "completion_tokens": 764,
+        "total_tokens": 4324,
+        "cached_tokens": 2264,
+        "cost_usd": 0.0007544
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 4732,
+        "completion_tokens": 2216,
+        "total_tokens": 6948,
+        "cached_tokens": 3555,
+        "cost_usd": 0.00152115
+      }
+    ]
+  }
+}

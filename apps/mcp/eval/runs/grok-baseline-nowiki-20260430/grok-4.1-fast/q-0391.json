@@ -1,0 +1,174 @@
+{
+  "answer": "**In the *Manusmṛti* Chapter 5, cleansing rituals such as *snāna* (bathing) and *ācamana* (ritual sipping of water) play a limited role, as the chapter primarily addresses dietary purity, forbidden foods, and expiatory penances (*prāyaścitta*) like fasting or the *kṛcchra* vow for violations such as eating impure meat or garlic, rather than daily ablutions.[^1] Bathing is not prescribed here for routine purification; instead, purity is maintained through selective eating (e.g., consecrated meat only in sacrifices) and occasional severe penances, emphasizing internal and ritual avoidance over physical cleansing.[^2] No explicit procedures for *ācamana* appear, reflecting the chapter's focus on food taboos as the core threat to ritual fitness.[^3]**\n\n**By contrast, *Yājñavalkya Smṛti* Chapter 1 integrates *snāna* and *ācamana* centrally into the daily conduct (*ācāra*) of twice-born men, especially students (*brahmacārin*) and householders (*gṛhastha*), as foundational for all worship, study, and eating. *Ācamana*—sipping water three times from specific hand-*tīrthas* (e.g., Brahma-*tīrtha* at the palm base)—purifies the throat, heart, and palate, marking the start of twilight rites (*sandhyā*), meals, and interactions; it is performed seated, facing north/east, with water touching key internal points.[^4] *Snāna* (full bathing with water-deity mantras) accompanies breath control (*prāṇāyāma*) and sun worship in daily *sandhyā*, ensuring ritual readiness.[^5] For householders, sipping precedes/immortalizes meals, underscoring these as perpetual safeguards against impurity from bodily functions or contact.[^6] Thus, *Yājñavalkya* treats them as proactive, accessible daily disciplines for maintaining *śauca* (purity), while *Manusmṛti* 5 prioritizes prohibitive dietary rules with remedial penances.**\n\n[^1]: *Manusmṛti*, Chapter 5, [full chapter](/works/unknown-manusmrti-347b76/05/translation/).\n\n[^2]: *Manusmṛti* 5.19–21 (e.g., *kṛcchra* for mushrooms/garlic), via [passage retrieval](/works/unknown-manusmrti-347b76/05/translation/#p-3447f3).\n\n[^3]: No matches for \"snana,\" \"achamana,\" or equivalents in Chapter 5 body; cf. searches yielding hits only in other *Manusmṛti* chapters (e.g., 2.51 on pre-meal sipping).\n\n[^4]: *Yājñavalkya Smṛti* 1.18–21, via [passage retrieval](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-d918cb).\n\n[^5]: *Yājñavalkya Smṛti* 1.22, via [passage retrieval](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-9ece2c).\n\n[^6]: *Yājñavalkya Smṛti* 1.106, via [passage retrieval](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-cff4f2).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "snana achamana",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sipping water\" OR achamana OR \"sip water\" OR snana OR bath",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "purification OR \"wash mouth\" OR \"rinse mouth\" OR bathe",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "paragraph_range": {
+          "start": 80,
+          "end": 106
+        }
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [80, 106] is invalid"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 5,
+      "paragraph_id": "p-3447f3"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 5,
+      "paragraph_id": "p-d918cb"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 5,
+      "paragraph_id": "p-9ece2c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 5,
+      "paragraph_id": "p-cff4f2"
+    }
+  ],
+  "duration_ms": 39339,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 69802,
+    "completion_tokens": 4039,
+    "total_tokens": 73841,
+    "cached_tokens": 33586,
+    "api_calls": 4,
+    "cost_usd": 0.010942,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 416,
+        "total_tokens": 1979,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004981
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1827,
+        "completion_tokens": 409,
+        "total_tokens": 2236,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00034055
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30090,
+        "completion_tokens": 1188,
+        "total_tokens": 31278,
+        "cached_tokens": 1822,
+        "cost_usd": 0.0063387
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "get_passage"
+        ],
+        "prompt_tokens": 36322,
+        "completion_tokens": 2026,
+        "total_tokens": 38348,
+        "cached_tokens": 30085,
+        "cost_usd": 0.00376465
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "answer": "**Only one poem in *Bang-e-Dara* explicitly addresses the Prophet Muhammad (PBUH):** \"Huzoor Risalat Ma'ab Mein\" (*In the Exalted Prophet's Presence*, Part 3, Chapter 11).[^1]\n\nIn this visionary *naat* (ode of praise), Iqbal imagines journeying to the Prophet's court for solace amid \"this age's tumult,\" where the Prophet directly addresses him as \"O Nightingale of Hijaz's garden-bower\" and Iqbal responds with an offering symbolizing Muslim martyrdom (\"the blood of Tripoli's martyrs\").[^2]\n\nNo other poems directly address the Prophet in second person or depict such personal dialogue. References elsewhere (e.g., invoking his name for revival in \"Dil se jo baat nikalti hai\"[^3] or his ummah in \"Shikwa\"[^4]) are indirect, serving broader themes like Muslim decline or unity.[^5][^6] Searches for terms like \"Prophet,\" \"Muhammad,\" \"Mustafa,\" and \"Risalat\" confirm this.[^7]\n\n**Doctrinal assessment:** With only one such poem, there is no \"cluster\" to evaluate for coherence. It stands alone as an occasional piece: a personal, mystical appeal for guidance, reflecting Iqbal's motif of prophetic intercession amid modernity's chaos, rather than a doctrinal series.\n\n[^1]: *Bang-E-Dara Part 3*, Ch. 11 list entry: \"Huzoor Risalat Ma'ab Mein.\"\n[^2]: *Bang-E-Dara Part 3*, Ch. 11, [translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/).\n[^3]: *Bang-E-Dara Part 3*, Ch. 4, [p-9aa6ea](https://falsafa.corpus/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-9aa6ea) (\"with Muhammad’s name, light up the sky\").\n[^4]: *Bang-E-Dara Part 3*, Ch. 20, [translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/).\n[^5]: *Bang-E-Dara Part 3*, Ch. 25 (\"O Mustafavi\"), [translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/).\n[^6]: *Bang-E-Dara Part 3*, Ch. 2 (\"resting place of the Chosen One\"), [translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/).\n[^7]: Corpus searches returned no further direct addresses in Parts 1–2 or other Part 3 chapters.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Prophet Muhammad",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the Prophet\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Muhammad",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prophet",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Messenger",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mustafa",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Habib",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Risalat",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Prophet\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 26,
+      "paragraph_id": "p-9aa6ea"
+    }
+  ],
+  "duration_ms": 67374,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 57786,
+    "completion_tokens": 5850,
+    "total_tokens": 63636,
+    "cached_tokens": 12551,
+    "api_calls": 5,
+    "cost_usd": 0.012599550000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 298,
+        "total_tokens": 1860,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004389
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2047,
+        "completion_tokens": 722,
+        "total_tokens": 2769,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007479
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10065,
+        "completion_tokens": 1627,
+        "total_tokens": 11692,
+        "cached_tokens": 2042,
+        "cost_usd": 0.0025202
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16607,
+        "completion_tokens": 1374,
+        "total_tokens": 17981,
+        "cached_tokens": 10060,
+        "cost_usd": 0.0024994
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 27505,
+        "completion_tokens": 1829,
+        "total_tokens": 29334,
+        "cached_tokens": 149,
+        "cost_usd": 0.00639315
+      }
+    ]
+  }
+}

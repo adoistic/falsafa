@@ -1,0 +1,266 @@
+{
+  "answer": "**Iqbal's concept of *khudi* (selfhood) as something dynamic and cultivated—rather than innate or static—is central to his philosophy, particularly in works like *Asrar-e-Khudi*, but the Falsafa corpus does not contain a specific verse from Iqbal's *Bang-e-Dara* (Parts 1–3) explicitly stating that \"the self is not given by birth—it is built.\"** Extensive searches across Iqbal's works in the corpus (using terms like \"khudi,\" \"self,\" \"build/create/make self/soul/ego,\" and combinations with \"Iqbal\") yielded no matching passages. \"Khudi\" appears in other poets like Ghalib (e.g., in contexts of *be-khudi*, or self-loss), but not Iqbal.[^1]\n\n**In contrast, Manu's *Manusmṛti* strongly asserts that social location (*varna*) is divinely assigned at creation and transmitted by birth.** The most direct claim is in Chapter 1, where the four *varnas* emanate from distinct parts of the cosmic Purusha's body—Brahmin from the mouth, Kshatriya from the arms, Vaishya from the thighs, Shudra from the feet—fixing their roles eternally from origin.[^2] Chapter 10 reinforces this by detailing how castes (*varnas* and mixed offspring) are determined by parental unions at birth, with no mobility except rare elevation over generations via austerity (but degradation is permanent and hereditary).[^3]\n\n**Manu's doctrine of birth-determined *varna* is harder to hold honestly today.** Iqbal's (inferred) view aligns with modern individualism and self-making, which feels intuitive amid social mobility and psychological growth models. Manu's fixed hierarchy, tying worth and duty to unchosen birth, clashes with egalitarian evidence from genetics, history, and ethics—requiring denial of observable merit across \"low-born\" people and justification of inherited inequality, which even the text strains against in distress rules.[^4]\n\n[^1]: E.g., Ghalib, *Diwan-e-Ghalib*, Ch. 67, [p-5af2db](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/67-har-qadam-doori-e-manzil-hai-numayan-mujh-se/transliteration/#p-5af2db).\n\n[^2]: *Manusmṛti*, Ch. 1, [p-13a2db](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db) (Mn_1.31): \"And for the sake of the prosperity of the worlds, he caused the Brahmana, the Kshatriya, the Vaishya, and the Shudra to emanate from his mouth, arms, thighs, and feet.\"\n\n[^3]: *Manusmṛti*, Ch. 10, full chapter [citation_url](/works/unknown-manusmrti-347b76/10/translation/); key: [p-0b781b](/works/unknown-manusmrti-347b76/10/translation/#p-0b781b) (Mn_10.5) on sons \"born in the proper order... of the same caste as their fathers\"; [p-3faaee](/works/unknown-manusmrti-347b76/10/translation/#p-3faaee) (Mn_10.42) on ascent/descent by generations but primacy of birth.\n\n[^4]: *Manusmṛti*, Ch. 10 [citation_url](/works/unknown-manusmrti-347b76/10/translation/) (e.g., Mn_10.64–65 allows limited upward mobility but frames it as exceptional against birth-rule).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal khudi",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu varna",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"varna\" birth",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "hindu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\" iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi self",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"born\" varna OR caste OR class",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"by birth\" OR \"birth\" varna OR caste OR \"social class\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\" OR \"ego\" OR \"personality\" OR \"soul\" OR \"khudi\" iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"build\" OR \"create\" OR \"make\" self OR ego OR soul",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"by birth\" OR \"born as\" varna OR caste OR \"social class\" OR \"social position\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal \"self\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-5af2db"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-0b781b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-3faaee"
+    }
+  ],
+  "duration_ms": 51054,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 63578,
+    "completion_tokens": 5168,
+    "total_tokens": 68746,
+    "cached_tokens": 24138,
+    "api_calls": 4,
+    "cost_usd": 0.011678899999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1605,
+        "completion_tokens": 649,
+        "total_tokens": 2254,
+        "cached_tokens": 150,
+        "cost_usd": 0.000623
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5195,
+        "completion_tokens": 840,
+        "total_tokens": 6035,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00122965
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17274,
+        "completion_tokens": 2065,
+        "total_tokens": 19339,
+        "cached_tokens": 5190,
+        "cost_usd": 0.0037088
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 39504,
+        "completion_tokens": 1614,
+        "total_tokens": 41118,
+        "cached_tokens": 17269,
+        "cost_usd": 0.00611745
+      }
+    ]
+  }
+}

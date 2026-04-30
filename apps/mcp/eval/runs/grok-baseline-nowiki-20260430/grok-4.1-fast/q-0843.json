@@ -1,0 +1,224 @@
+{
+  "answer": "In Charles Comte's *Traité de Législation Vol. III*, the sketch of the moeurs (morals/customs) of various European peoples appears in Chapter 36, titled \"Esquisse des mœurs de quelques peuples d’Europe\" (\"Sketch of the morals of some peoples of Europe\").[^4] Comte uses this section to critique Montesquieu's climate theory from *The Spirit of the Laws*, arguing that cold climates do not produce superior virtues like sincerity, courage, and industry, but rather that despotism and slavery foster barbarism regardless of latitude. He focuses primarily on northern peoples (under \"cold climates\") as counterexamples, portraying them as exceptionally vicious due to enslavement, while noting southern peoples (Spain, Italy, Turkey) have more liberty despite heat.[^5]\n\n### Lapps\nComte describes the Lapps (Sámi) as savage-like wanderers, tributary to Russians, Danes, and Swedes. They exhibit extreme laziness (laboring only under dire necessity), voracity (two can devour half a large deer in one sitting), and commodification of women (fathers sell daughters to the highest bidder; husbands prostitute wives for politeness). Family beds are shared animal skins, yielding beast-like indecency and immodesty, akin to Kamchatkans or Aleutians.[^6]\n\n### Russians\nRussians receive the longest treatment as paradigmatically barbaric, their vices (coarse morals, unchanging from the 10th century) surpassing even Asian savages. Key claims:\n- **Masters and slaves alike**: Total enslavement yields no virtues; masters are princely slaves, showing ferocity (sovereigns as executioners, massacring dozens), servility (senators yoking to carriages), and cruelty (torture, flaying Poles alive to mock uniforms).[^7]\n- **War and foreigners**: Extreme vengeance/cruelty in victory (worse than tigers; massacring women/children/elderly), servility in defeat, perfidy in treaties.[^8]\n- **Domestic relations**: Women secluded and abused like in Asia (murder unpunished; uxoricides tortured horribly), leading to moral disorder and pederasty.[^9]\n- **Justice/society**: Bastinado for confessions, corrupt trials, denunciations for spoils (e.g., Jewish massacres), ignorance, pride. Inferior to southern/temperate peoples; Peter's reforms armed a \"ferocious people\" without moral change.[^10]\n\n### Poles\nLike Russians, Poland has dual populations: numerous servile peasants (brutalized/ferocious, but more liberty-valuing than Russians—revolting cruelly against masters) and few proud, lazy, warlike nobles.[^11] Nobles show some elevation/pride, but history reveals ignorance, avidity (bribed by kings/Russians), and cruelty (slaves' misery/hatred proves harsh domination). No evidence of cold-climate virtues like frankness.[^12]\n\nComte briefly contrasts with others: Northern Germany has \"gentler morals\" near temperate zones due to less enslavement/property insecurity; southerners (Spaniards, Italians) show courage/activity when motivated, enslaved not by heat but northern barbarism/slavery.[^13] The corpus contains no fuller sketches elsewhere.\n\n[^4]: Charles Comte, *Traité de Législation Vol. III*, [Chapter 36](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/).\n\n[^5]: Charles Comte, *Traité de Législation Vol. III*, [p-b1ad0c](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-b1ad0c/).\n\n[^6]: Charles Comte, *Traité de Législation Vol. III*, [p-68d4cb](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-68d4cb/).\n\n[^7]: Charles Comte, *Traité de Législation Vol. III*, [p-717e98](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-717e98/).\n\n[^8]: Charles Comte, *Traité de Législation Vol. III*, [p-6f6ce2](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-6f6ce2/).\n\n[^9]: Charles Comte, *Traité de Législation Vol. III*, [p-a589b4](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-a589b4/).\n\n[^10]: Charles Comte, *Traité de Législation Vol. III*, [p-274701](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-274701/), [p-da3ac9](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-da3ac9/), [p-c26f0a](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-c26f0a/).\n\n[^11]: Charles Comte, *Traité de Législation Vol. III*, [p-365026](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-365026/).\n\n[^12]: Charles Comte, *Traité de Législation Vol. III*, [p-41a45f](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-41a45f/).\n\n[^13]: Charles Comte, *Traité de Législation Vol. III*, [p-1039ab](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-1039ab/), [p-1564ed](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p/translation/#p-1564ed/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte",
+        "genre": "legislation"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moeurs\" OR \"customs\" OR \"manners\" europeans OR peoples OR nations",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of charles-comte-traite-de-legislation-vol-iii-ca589a (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 36,
+        "paragraph_ids": [
+          "p-68d4cb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 36,
+        "paragraph_ids": [
+          "p-274701",
+          "p-da3ac9",
+          "p-6f6ce2",
+          "p-717e98",
+          "p-a589b4"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 36,
+        "paragraph_ids": [
+          "p-365026",
+          "p-41a45f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 36,
+        "paragraph_range": {
+          "start": 0,
+          "end": 25
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 26 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 36,
+      "paragraph_id": "p-b1ad0c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 36,
+      "paragraph_id": "p-68d4cb"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 36,
+      "paragraph_id": "p-717e98"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 36,
+      "paragraph_id": "p-6f6ce2"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 36,
+      "paragraph_id": "p-a589b4"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 36,
+      "paragraph_id": "p-274701"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 36,
+      "paragraph_id": "p-da3ac9"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 36,
+      "paragraph_id": "p-c26f0a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 36,
+      "paragraph_id": "p-365026"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 36,
+      "paragraph_id": "p-41a45f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 36,
+      "paragraph_id": "p-1039ab"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 36,
+      "paragraph_id": "p-1564ed"
+    }
+  ],
+  "duration_ms": 48639,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 41424,
+    "completion_tokens": 4422,
+    "total_tokens": 45846,
+    "cached_tokens": 14747,
+    "api_calls": 4,
+    "cost_usd": 0.00828375,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1573,
+        "completion_tokens": 520,
+        "total_tokens": 2093,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005521
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5530,
+        "completion_tokens": 324,
+        "total_tokens": 5854,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00103865
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 12923,
+        "completion_tokens": 1395,
+        "total_tokens": 14318,
+        "cached_tokens": 150,
+        "cost_usd": 0.0032596
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 21398,
+        "completion_tokens": 2183,
+        "total_tokens": 23581,
+        "cached_tokens": 12918,
+        "cost_usd": 0.0034334
+      }
+    ]
+  }
+}

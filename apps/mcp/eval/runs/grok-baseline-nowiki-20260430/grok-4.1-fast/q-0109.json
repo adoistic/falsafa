@@ -1,0 +1,172 @@
+{
+  "answer": "**In the *Yājñavalkya Smṛti* (Chapter 2, \"On Legal Procedure\"), verses 80–82 outline the handling of false witnesses, including the procedure for determining falsehood and the resulting punishments.**[^1][^2][^3]\n\n- **Verse 80 (Yj_2.80)**: Witnesses are deemed false if contradicted by more virtuous witnesses or by double their number, even after initial testimony.[^1]\n- **Verse 81 (Yj_2.81)**: False witnesses are punished with a fine double the dispute amount (separately for each); a Brāhmaṇa is banished instead.[^2]\n- **Verse 82 (Yj_2.82)**: A witness who later denies their testimony pays a fine eight times the amount; a Brāhmaṇa is banished.[^3]\n\nThese appear in the \"Witnesses\" subsection (verses 68–83). Witnesses are first admonished solemnly (verses 73–75) about the dire karmic consequences of lying, but the detection relies on contradictory testimony or recantation, with graduated fines or banishment applied.[^1]\n\n[^1]: Yājñavalkya Smṛti, [p-fbf5a7](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-fbf5a7).\n[^2]: Yājñavalkya Smṛti, [p-dbd716](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-dbd716).\n[^3]: Yājñavalkya Smṛti, [p-71cfc7](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-71cfc7).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"witness\" lie OR false OR perjury",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"false witness\" OR \"lied\" witness",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "witness punishment OR penalty lie",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-fbf5a7",
+          "p-dbd716",
+          "p-71cfc7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-fbf5a7"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-dbd716"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-71cfc7"
+    }
+  ],
+  "duration_ms": 26240,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 54560,
+    "completion_tokens": 2842,
+    "total_tokens": 57402,
+    "cached_tokens": 31348,
+    "api_calls": 5,
+    "cost_usd": 0.0076308,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1560,
+        "completion_tokens": 466,
+        "total_tokens": 2026,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00031565
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1781,
+        "completion_tokens": 425,
+        "total_tokens": 2206,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005462
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4904,
+        "completion_tokens": 246,
+        "total_tokens": 5150,
+        "cached_tokens": 1776,
+        "cost_usd": 0.0008374
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 22999,
+        "completion_tokens": 693,
+        "total_tokens": 23692,
+        "cached_tokens": 4899,
+        "cost_usd": 0.00421145
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 23316,
+        "completion_tokens": 1012,
+        "total_tokens": 24328,
+        "cached_tokens": 22994,
+        "cost_usd": 0.0017201
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "answer": "**In the *Manusmṛti* (Laws of Manu), Chapter 10 prescribes rigid, divinely ordained duties (*svadharma*) for each *varṇa*, derived from the primordial body of the Creator and enforced by cosmic consequences like caste degradation or rebirth penalties.**[^1][^2] A representative norm is the Shudra's sole proper occupation: service to Brahmins, as \"whatever else he does besides this becomes fruitless for him.\"[^3]\n\n**By contrast, *Maxims I* (in *Old English Elegies*) offers gnomic wisdom on social roles in proverbial terms like \"sceal\" (\"shall/must\") or \"geriseð\" (\"is fitting\"), blending observation of customary norms with implicit ideals, without explicit sanctions.**[^4] A representative norm matching the *varṇa*-like structure: \"A warrior must be on his horse's back, the cavalry must ride in a troop, the foot-soldiers stand fast. A maiden is fitting at her embroidery.\"[^5]\n\n**On its own terms, the *Maxims* norm would be easier to argue out of.** Manu's prescriptions are absolute *Dharma*, tied to creation itself (e.g., Shudras from the feet), with no exceptions beyond dire distress—and even then, reversion is mandated.[^6] Violations entail eternal downfall. The *Maxims*, however, evoke a natural, worldly order (\"as many peoples as there are customs\"), open to Fate (*wyrd*), exception, or change; they praise virtue amid variability (e.g., \"Blessed is he who thrives... wretched is he whom his friends betray\") without cosmic enforcement, allowing counterexamples from \"grim seasons\" or personal thriving.[^7]\n\n[^1]: *Manusmṛti*, Chapter 10, [translation](/works/unknown-manusmrti-347b76/10/translation/).\n\n[^2]: *Manusmṛti*, Chapter 1, [translation](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db).\n\n[^3]: *Manusmṛti*, Chapter 10, [paragraph](/works/unknown-manusmrti-347b76/10/translation/#p-b2dc48).\n\n[^4]: *Old English Elegies*, \"Maxims I\", [translation](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/).\n\n[^5]: *Old English Elegies*, \"Maxims I\", [paragraph](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/#p-84cf09).\n\n[^6]: *Manusmṛti*, Chapter 10, [paragraphs](/works/unknown-manusmrti-347b76/10/translation/#p-53206d).\n\n[^7]: *Old English Elegies*, \"Maxims I\", [paragraph](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/#p-84cf09).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "varna duties OR occupations",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Old English Maxims I\" OR maxims occupations OR roles",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "anglo-saxon"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin\" OR \"Kshatriya\" OR \"Vaishya\" OR \"Shudra\"",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maxims \"warrior\" OR \"king\" OR \"churl\" OR \"thane\"",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-b2dc48"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-f85712",
+          "p-de5156",
+          "p-897899",
+          "p-519c37"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-84cf09"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.6 of unknown-old-english-elegies-d5fe9e (original)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 6,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 6,
+      "paragraph_id": "p-b2dc48"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 6,
+      "paragraph_id": "p-84cf09"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 6,
+      "paragraph_id": "p-53206d"
+    }
+  ],
+  "duration_ms": 49686,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 69534,
+    "completion_tokens": 4445,
+    "total_tokens": 73979,
+    "cached_tokens": 39063,
+    "api_calls": 5,
+    "cost_usd": 0.01026985,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1590,
+        "completion_tokens": 507,
+        "total_tokens": 2097,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00034215
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3364,
+        "completion_tokens": 826,
+        "total_tokens": 4190,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00085645
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8133,
+        "completion_tokens": 566,
+        "total_tokens": 8699,
+        "cached_tokens": 3359,
+        "cost_usd": 0.00140575
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 24523,
+        "completion_tokens": 1254,
+        "total_tokens": 25777,
+        "cached_tokens": 8128,
+        "cost_usd": 0.0043124
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 31924,
+        "completion_tokens": 1292,
+        "total_tokens": 33216,
+        "cached_tokens": 24518,
+        "cost_usd": 0.0033531
+      }
+    ]
+  }
+}

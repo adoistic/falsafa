@@ -1,0 +1,191 @@
+{
+  "answer": "In the Old English poem *Resignation*, the speaker confronts prolonged earthly suffering—exile, poverty, slander, friendlessness, and divine punishment for sins—through a posture of humble submission to God's will and *patient endurance*. The speaker repeatedly beseeches divine guidance, mercy, and protection while accepting trials as inevitable, preparing the soul for the afterlife, and affirming that \"it is best, when a man cannot change his Fate, that he then endure it well.\"[^1]\n\nIqbal's *Falsafa-e-Gham* (\"Philosophy of Sorrow\") frames sustained suffering not as affliction to merely bear, but as an essential, transformative grace that polishes the heart, awakens the soul, and unveils life's deepest secrets, inseparably linked to love's eternity.[^2] The recommended posture is one of *active embrace*, walking \"easily through Sorrow's trying maze\" as a necessary chapter of existence that ennobles humanity: a rose without lost petals is no true rose, and a life untouched by sorrow veils reality.[^3]\n\n[^1]: *Old English Elegies*, \"Resignation\" [paragraph](/works/unknown-old-english-elegies-d5fe9e/09-resignation/translation/#p-04f5b1).\n[^2]: *Bang-E-Dara Part 3*, \"Falsafa-e-Gham\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-141d8d).\n[^3]: *Bang-E-Dara Part 3*, \"Falsafa-e-Gham\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-e436cc,p-e693fc).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Resignation"
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Falsafa-e-Gham\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Philosophy of Sorrow\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-04f5b1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-141d8d",
+          "p-e436cc",
+          "p-e693fc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-04f5b1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-04f5b1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-141d8d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-e436cc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-e693fc"
+    }
+  ],
+  "duration_ms": 32135,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 19876,
+    "completion_tokens": 3479,
+    "total_tokens": 23355,
+    "cached_tokens": 12816,
+    "api_calls": 4,
+    "cost_usd": 0.0037923,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 876,
+        "total_tokens": 2438,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00052105
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3459,
+        "completion_tokens": 329,
+        "total_tokens": 3788,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00062695
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 6309,
+        "completion_tokens": 1280,
+        "total_tokens": 7589,
+        "cached_tokens": 3454,
+        "cost_usd": 0.0013837
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 8546,
+        "completion_tokens": 994,
+        "total_tokens": 9540,
+        "cached_tokens": 6304,
+        "cost_usd": 0.0012606
+      }
+    ]
+  }
+}

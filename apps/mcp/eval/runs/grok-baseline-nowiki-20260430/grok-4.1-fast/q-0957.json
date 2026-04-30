@@ -1,0 +1,249 @@
+{
+  "answer": "### Striking Miraculous Interventions\n\nIn *Andreas*, Christ's interventions are overtly supernatural and direct, often bypassing human agency to aid Andrew's mission and convert the cannibalistic Mermedonians. The most striking is Andrew's command—empowered by Christ—for a marble pillar to unleash a catastrophic flood that punishes the heathens: waters surge from the stone, engulfing the city in waves, fire, and terror; the flood selectively swallows fourteen of the worst sinners into an earth-grave; Andrew walks dry-shod through it; and he then halts it entirely, with the earth reopening to absorb the waters.[^1] This miracle echoes biblical floods but is hyperbolically vivid, transforming the city into a hellscape then paradise (youths rise from death for baptism), all at Andrew's word after prayer, with no extended effort from him beyond obedience.[^2]\n\nIn *Kuñjarakarṇa Dharmakathana*, Vairocana's \"intervention\" is pedagogical: he teaches the rākṣasa Kuñjarakarṇa (and his friend Pūrṇavijaya) the unity of all deities/Buddhas, the nature of karma/souls, and vows leading to *mokṣa*. The most striking \"miraculous\" moment is Kuñjarakarṇa's enlightenment itself—after austerities, hell-tour, and absorbing Vairocana's non-dual doctrine (e.g., \"I, Vairocana, am Buddha-form and Śiva-form\"), he achieves perfection/release at Vairocana's feet, transcending his rākṣasa form.[^3] Relatedly, Pūrṇavijaya's hell-term (Avīci cauldron) miraculously shortens to nine nights via Vairocana's grace-through-teaching: hell transforms into a lotus-pond paradise, weapons shatter, Yama relents—but only because Pūrṇavijaya meditates purely on the dharma during torment.[^4]\n\n### Comparison: Recipient Effort\nKuñjarakarṇa (and Pūrṇavijaya) must do **far more work**. Andrew's miracles demand faith/obedience but unfold via direct divine overrides (e.g., pillar-flood as instant punishment/reward). Kuñjarakarṇa endures prolonged austerities on Meru, journeys to hell/Yama voluntarily, internalizes complex doctrine (five souls, karma-fruits, deity-unity), and practices yoga/*jīvavāsita* meditation for transformation—*mokṣa* is earned through sustained praxis, not fiat.[^5] Vairocana provides wisdom, but recipients actively cultivate vows, reject desire, and apply teachings amid suffering; passivity risks eternal rebirth.\n\n[^1]: Cynewulf, *Andreas*, Chapter 1 (translation), [paragraphs](/works/cynewulf-andreas-07b573/01/translation/#p-2e50c1) to [paragraphs](/works/cynewulf-andreas-07b573/01/translation/#p-e5ccfa).\n[^2]: Ibid., [paragraphs](/works/cynewulf-andreas-07b573/01/translation/#p-0609a7) (youths resurrected).\n[^3]: Mpu Dusun, *Kuñjarakarṇa Dharmakathana*, Chapter 1 (translation), [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-6c6127).\n[^4]: Ibid., [paragraphs](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-1353c8) to [paragraphs](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-5d59c9).\n[^5]: Ibid., [paragraphs](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-f13143) (austerities); [whole](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/) (yoga/*mokṣa*).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kunjarakarna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas miracle"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Vairocana\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kunjara\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kunjarakarna\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"elephant\" miracle"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "religion"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"slug\":\"cynewulf-andreas-07b573\",\"title\":\"Andreas\",\"author\":\"Cynewulf\",\"author_slug\":\"cynewulf\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Literature\",\"genre_slug\":\"literature\",\"language\":\"old_e"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "medieval"
+      },
+      "result_summary": "Listed 14 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vairocana"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "elephant"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"slug\":\"unknown-kunjarakarna-dharmakathana-894f4a\",\"title\":\"Kunjarakarna Dharmakathana\",\"author\":\"Mpu Dusun\",\"author_slug\":\"mpu-dusun\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_sl"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-2e50c1"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-e5ccfa"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-0609a7"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-6c6127"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-1353c8"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-5d59c9"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-f13143"
+    }
+  ],
+  "duration_ms": 50603,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 93578,
+    "completion_tokens": 5149,
+    "total_tokens": 98727,
+    "cached_tokens": 31332,
+    "api_calls": 5,
+    "cost_usd": 0.0165903,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1582,
+        "completion_tokens": 344,
+        "total_tokens": 1926,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0002589
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2069,
+        "completion_tokens": 1575,
+        "total_tokens": 3644,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011788
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "get_metadata"
+        ],
+        "prompt_tokens": 2554,
+        "completion_tokens": 702,
+        "total_tokens": 3256,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008393
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 29357,
+        "completion_tokens": 873,
+        "total_tokens": 30230,
+        "cached_tokens": 150,
+        "cost_usd": 0.0062854
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "get_metadata"
+        ],
+        "prompt_tokens": 58016,
+        "completion_tokens": 1655,
+        "total_tokens": 59671,
+        "cached_tokens": 29352,
+        "cost_usd": 0.0080279
+      }
+    ]
+  }
+}

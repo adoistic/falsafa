@@ -1,0 +1,379 @@
+{
+  "answer": "**The couplet you're referring to is the opening *sher* (couplet) of Ghalib's ghazal numbered 153 in the *Diwan-e-Ghalib*.**\n\nThe original Urdu is:  \n**नक्श़ फ़र्यादि है किस की शोख़ी‐ए तहरीर का  \nक़ाग़ज़ की पोसतीन पहने हर फ़िग़र है शिक़वा**[^1]\n\nIn English translation:  \n**Whose playful script does this whole painted world complain of?**  \n**Each figure wears the paper robes a petitioner is made of.**[^1]\n\nHere, *naqsh faryadi* (\"the image/figure complains\" or \"the drawing is the complainant\") refers to the painted or drawn figures protesting (*shikwa* or *faryad*) the *shokhi-e-tehreer* (\"mischief/playfulness of the writing/pen/artist's hand\"). Even the figures on a mere sheet of paper (*kaghaz ki postin*, \"paper garment/robe\") become petitioners against the artist's capricious strokes.[^1]\n\nThis ghazal explores themes of creation, illusion, and existential complaint through the metaphor of painting or calligraphy bringing figures to life only to make them lament their existence.[^2]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/153-naqsh-faryadi-hai-kis-ki-shokhi-e-tehreer-ka/translation/#p-0e42b0).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, chapter 153 (\"Naqsh faryadi hai kis ki shokhi-e-tehreer ka\"), [full chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/153-naqsh-faryadi-hai-kis-ki-shokhi-e-tehreer-ka/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sheet of paper\" complainant artist",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "paper complainant mischief artist",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "paper painter",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"paper\" complaint",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "paper artist",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sheet painter",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sheet of paper\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "complainant",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mischief",
+        "limit": 10
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "artist",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "painter",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sheet",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "canvas",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "page painter",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "leaf painter",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"painter\" ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 31,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.31 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 98,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.98 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "complaint",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "complain",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"painter\" paper",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "portrait painter",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "painter portrait",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 153,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.153 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 153,
+        "paragraph_ids": [
+          "p-whatever"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"naqsh faryadi\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 153,
+        "paragraph_ids": [
+          "p-0e42b0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 153,
+      "paragraph_id": "p-0e42b0"
+    }
+  ],
+  "duration_ms": 100837,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 120957,
+    "completion_tokens": 6443,
+    "total_tokens": 127400,
+    "cached_tokens": 88011,
+    "api_calls": 8,
+    "cost_usd": 0.014211250000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1558,
+        "completion_tokens": 364,
+        "total_tokens": 1922,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004711
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1853,
+        "completion_tokens": 836,
+        "total_tokens": 2689,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00055895
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2155,
+        "completion_tokens": 459,
+        "total_tokens": 2614,
+        "cached_tokens": 1848,
+        "cost_usd": 0.0003833
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7285,
+        "completion_tokens": 1964,
+        "total_tokens": 9249,
+        "cached_tokens": 2150,
+        "cost_usd": 0.0021165
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 10417,
+        "completion_tokens": 853,
+        "total_tokens": 11270,
+        "cached_tokens": 7280,
+        "cost_usd": 0.0014179
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 31813,
+        "completion_tokens": 526,
+        "total_tokens": 32339,
+        "cached_tokens": 10412,
+        "cost_usd": 0.0050638
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 32837,
+        "completion_tokens": 550,
+        "total_tokens": 33387,
+        "cached_tokens": 31808,
+        "cost_usd": 0.0020712
+      },
+      {
+        "api_call_index": 8,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 33039,
+        "completion_tokens": 891,
+        "total_tokens": 33930,
+        "cached_tokens": 32832,
+        "cost_usd": 0.0021285
+      }
+    ]
+  }
+}

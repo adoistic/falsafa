@@ -1,0 +1,264 @@
+{
+  "answer": "**No works in the corpus contain systematic or philosophical theological arguments about God's nature akin to treatises (e.g., no equivalents to Aquinas on divine simplicity or attributes). The Falsafa corpus focuses on poetry, law codes (smṛtis), and political theory, with theological content mostly poetic, devotional, or incidental.**\n\nHowever, a few works include **explicit descriptive statements** on divine attributes, framed as gnomic wisdom, praise, or narrative theology:\n\n- **Old English Elegies** (\"Maxims I\"): This Anglo-Saxon gnomic poem directly describes God's nature as eternal, immutable (unaffected by fate, sickness, or age), almighty, patient, the All-Wielder (creator of heavens), true king, savior of souls, and sovereign over mankind—contrasting Him with pagan idols like Woden.[^1]\n\nCynewulf's signed poems (Christian hagiography in Old English verse) frequently invoke God's almightiness, eternity, and creative power, but as poetic praise within saint narratives rather than standalone arguments:\n- **Andreas**: Repeatedly calls God the \"Almighty,\" eternal king, maker of mankind, present in miracles.[^2]\n- **Elene**: Describes the Savior (Christ/God) as \"eternal, almighty, the King of Israel.\"[^3]\n- **Juliana**: Refers to God as the \"glorious Creator\" shaping heavens.[^4]\n\nAllama Iqbal's **Bang-e-Dara** (parts 1–3) contains Islamic devotional poetry mentioning God's might, wisdom, and unity (\"One God\"), but these are lyrical expressions, not arguments.[^5]\n\nJavanese/Indic works (e.g., *Kunjarakarna Dharmakathana*, *San Hyan Mahajnana*) mention a \"Lord God\" as eternal or object of devotion, but in narrative or ritual contexts without argumentative depth.[^6]\n\nSmṛti texts (*Manusmṛti*, etc.) reference a creator god incidentally in cosmogony or ethics, not theological exposition.[^7]\n\nIf you're seeking systematic theology, it's not covered here—try listing works by era/genre for alternatives.\n\n[^1]: *Old English Elegies*, [paragraph](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/#p-84cf09).\n[^2]: *Andreas*, ch. 1 (multiple; e.g., [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-24dbdc)).\n[^3]: *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^4]: *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-6bc4fe).\n[^5]: *Bang-E-Dara Part 3*, e.g., [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-fd7840).\n[^6]: *San Hyan Mahajnana*, [paragraph](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-5e51b6).\n[^7]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-b5065f).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nature of God",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "God's nature",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "essence of God",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "attributes of God",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "theology"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "God is",
+        "limit": 20
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nature God",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Allah",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "one God",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "God omnipotent",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "God eternal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-84cf09"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Creator",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "almighty",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 6,
+      "paragraph_id": "p-84cf09"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 6,
+      "paragraph_id": "p-24dbdc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 6,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 6,
+      "paragraph_id": "p-6bc4fe"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 6,
+      "paragraph_id": "p-fd7840"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 6,
+      "paragraph_id": "p-5e51b6"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 6,
+      "paragraph_id": "p-b5065f"
+    }
+  ],
+  "duration_ms": 52411,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 34646,
+    "completion_tokens": 4759,
+    "total_tokens": 39405,
+    "cached_tokens": 16703,
+    "api_calls": 4,
+    "cost_usd": 0.00680325,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1547,
+        "completion_tokens": 708,
+        "total_tokens": 2255,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006409
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5147,
+        "completion_tokens": 1163,
+        "total_tokens": 6310,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0013808
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9882,
+        "completion_tokens": 1137,
+        "total_tokens": 11019,
+        "cached_tokens": 5142,
+        "cost_usd": 0.0017736
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "get_passage",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18070,
+        "completion_tokens": 1751,
+        "total_tokens": 19821,
+        "cached_tokens": 9877,
+        "cost_usd": 0.00300795
+      }
+    ]
+  }
+}

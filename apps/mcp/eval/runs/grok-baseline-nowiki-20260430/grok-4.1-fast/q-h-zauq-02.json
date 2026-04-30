@@ -1,0 +1,167 @@
+{
+  "answer": "The ghazal is from *Diwan-E-Zauq* by Sheikh Ibrahim Zauq, chapter 53 (\"baadam do jo bheje hain batwe mein daal kar\").[^1]\n\n**Matla (opening couplet):**  \nThese almonds that you sent, a gift however small,  \nMy faith demands I give my eyes and answer to the call.[^2]\n\n**Potter's-wheel couplet:**  \nNo perfect vessel from the wheel will form at all,  \nSo do not waste this heart-dust on the potter's call.[^3]\n\n[^1]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, chapter 53.\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/53-baadam-do-jo-bheje-hain-batwe-mein-daal-kar/translation/#p-d86b48).\n[^3]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/53-baadam-do-jo-bheje-hain-batwe-mein-daal-kar/translation/#p-290709).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "almonds",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"two almonds\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "almond pouch"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"potter\" \"wheel\" heart"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 53,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.53 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"potter\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wheel\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 53,
+        "paragraph_ids": [
+          "p-d86b48"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 53,
+        "paragraph_ids": [
+          "p-290709"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"slug\":\"sheikh-ibrahim-zauq-diwan-e-zauq-0fa798\",\"title\":\"Diwan-E-Zauq\",\"author\":\"Sheikh Ibrahim Zauq\",\"author_slug\":\"sheikh-ibrahim-zauq\",\"era\":\"19th Century\",\"era_slug\":\"19th-century\",\"genre\":\"Lite"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 53,
+      "paragraph_id": "p-d86b48"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 53,
+      "paragraph_id": "p-290709"
+    }
+  ],
+  "duration_ms": 21332,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 10096,
+    "completion_tokens": 2518,
+    "total_tokens": 12614,
+    "cached_tokens": 5200,
+    "api_calls": 4,
+    "cost_usd": 0.0024982,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1652,
+        "completion_tokens": 401,
+        "total_tokens": 2053,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00030155
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1997,
+        "completion_tokens": 370,
+        "total_tokens": 2367,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00035505
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2790,
+        "completion_tokens": 667,
+        "total_tokens": 3457,
+        "cached_tokens": 1992,
+        "cost_usd": 0.0005927
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_metadata"
+        ],
+        "prompt_tokens": 3657,
+        "completion_tokens": 1080,
+        "total_tokens": 4737,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012489
+      }
+    ]
+  }
+}

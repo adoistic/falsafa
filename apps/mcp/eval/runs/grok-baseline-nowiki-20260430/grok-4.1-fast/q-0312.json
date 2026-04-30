@@ -1,0 +1,188 @@
+{
+  "answer": "**Manu** (Manusmṛti 9) and **Yājñavalkya** (Yājñavalkya Smṛti 2) both treat *strīdhana*—a wife's or daughter's separate property—as a distinct category of wealth exempt from general family inheritance rules, primarily consisting of gifts received at or around marriage from kin or at rituals. Manu provides a more expansive definition and embeds it within a lengthy discourse on marital duties, inheritance hierarchies, and women's dependence (e.g., emphasizing protection of wives for lineage purity),[^1] while Yājñavalkya integrates it succinctly into his chapter on legal procedures (*vyavahāra*), particularly inheritance (*dāyavibhāga*) and women's rights amid disputes.[^2]\n\n### Definition and Sources of *Strīdhana*\n- **Manu** enumerates it as **sixfold**: (1) given before the nuptial fire, (2) at the bridal procession, (3) as a token of affection, (4–6) from brother, mother, or father.[^3] He adds post-marital gifts from the husband belong to her offspring (even if she predeceases him), and a father's gift to a maiden belongs to her or her children.[^4] Ornaments worn during the husband's life are indivisible among heirs.[^5]\n- **Yājñavalkya** lists similar sources: from father, mother, husband, or brother; at the nuptial fire; \"gift on supersession\" (*pratikūla*), etc.[^6] He adds gifts from kinsmen, nuptial gifts (*sulka*), and subsequent gifts.[^7]\n\nBoth draw from shared Dharmashāstra traditions, but Manu stresses ritual timing (e.g., pre-nuptial fire), while Yājñavalkya highlights practical additions like supersession gifts.\n\n### Ownership and Disposition Upon Death\nBoth condition inheritance on marriage type and offspring:\n- **Approved marriages** (Brāhma, Daiva, Ārṣa, Gāndharva, Prājāpatya): If childless, to husband; with issue, to children/daughters.\n- **Disapproved** (Āsura etc.): To her parents/kinsmen if childless.[^8]\n- Manu: Husband gets it only if no issue in approved forms; offspring inherit spousal gifts.[^9]\n- Yājñavalkya: Explicitly to daughters if issue; kinsmen otherwise in approved forms; father in others.[^10]\n\nYājñavalkya allows wives equal shares in paternal estate if no prior *strīdhana* was given (post-parental death),[^11] a nuance absent in Manu's focus on sons/daughters' sons.\n\n### Restrictions and Context\n- **Manu** subordinates women: They require spousal permission for expenditure (even from own wealth); *strīdhana* underscores dependence amid rules against independence.[^12]\n- **Yājñavalkya** is procedural: *Strīdhana* recoverable in disputes (e.g., no return in famine/illness); ties to broader proofs like documents/witnesses.[^13]\n\n**Overall**: Manu is normative and patriarchal, framing *strīdhana* as limited autonomy within male protection/inheritance. Yājñavalkya is litigious, treating it as enforceable property in courts, with slight expansions favoring women (e.g., daughters, supersession). Both affirm *strīdhana*'s separateness from paternal estate, reflecting evolving Smṛti views on women's limited proprietary rights.\n\n[^1]: Manusmṛti, ch. 9, [translation](/works/unknown-manusmrti-347b76/09/translation/).\n\n[^2]: Yājñavalkya Smṛti, ch. 2 (esp. §§114–149 on inheritance), [translation](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/).\n\n[^3]: Ibid., Mn_9.194 ([p-?] in body).\n\n[^4]: Ibid., Mn_9.195, 198.\n\n[^5]: Ibid., Mn_9.200.\n\n[^6]: Yājñavalkya, Yj_2.143.\n\n[^7]: Ibid., Yj_2.144.\n\n[^8]: Manu Mn_9.196–197; Yājñavalkya Yj_2.145.\n\n[^9]: Manu Mn_9.196–198.\n\n[^10]: Yājñavalkya Yj_2.145.\n\n[^11]: Ibid., Yj_2.115.\n\n[^12]: Manu Mn_9.199.\n\n[^13]: Yājñavalkya Yj_2.147–148.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "stridhana",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "dc931c",
+          "a00cec",
+          "037981",
+          "6c8c98",
+          "f9b73c",
+          "c5096c",
+          "999983"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "paragraph_range": {
+          "start": 140,
+          "end": 155
+        },
+        "variant": "translation"
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [140, 155] is invalid"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "418cd5",
+          "af4cd7",
+          "3df8e5",
+          "295f10"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"stridhana\" OR \"stri-dhana\" OR \"women property\" OR \"wife property\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 63964,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 78297,
+    "completion_tokens": 6109,
+    "total_tokens": 84406,
+    "cached_tokens": 38741,
+    "api_calls": 4,
+    "cost_usd": 0.012902750000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1565,
+        "completion_tokens": 503,
+        "total_tokens": 2068,
+        "cached_tokens": 150,
+        "cost_usd": 0.000542
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1891,
+        "completion_tokens": 490,
+        "total_tokens": 2381,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006007
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 36560,
+        "completion_tokens": 2520,
+        "total_tokens": 39080,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0082891
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 38281,
+        "completion_tokens": 2596,
+        "total_tokens": 40877,
+        "cached_tokens": 36555,
+        "cost_usd": 0.00347095
+      }
+    ]
+  }
+}

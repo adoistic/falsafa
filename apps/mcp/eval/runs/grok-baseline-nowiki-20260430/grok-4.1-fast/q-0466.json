@@ -1,0 +1,389 @@
+{
+  "answer": "**Cynewulf's *Elene*** contains the most prominent ekphrasis in the corpus: Constantine's visionary encounter with the True Cross (Rood), described as \"a tree of glory, transcendently bright... gleaming with gold, with gems adorned, a beacon of brightest wood, brilliantly shining. Letters of light were laced upon it, written in wonder, a radiant message.\"[^1] This sign inspires a crafted standard \"in God’s own likeness, fashioned as the Rood,\" later physically recovered, adorned with gold and gems, and encased in a silver coffer.[^2] The nails from the Cross are also worked into a horse bridle as \"cheek-pieces,\" prophesied to grant \"success in war, victory in battle.\"[^3]\n\n**Cynewulf's *Andreas*** briefly evokes artifacts like shields in battle (e.g., \"hand guarded helmet... broad shield was broken\") and the Rood as a visionary sign (\"Christ’s rood on his fair face\"), but without extended descriptive focus.[^4]\n\n**Old English Elegies** (Chapter 8, \"The Husband's Message\") features a carved wooden artifact—a rune-stick or ship timber—that \"speaks\" its master's inscribed message: \"he who carved this wood commanded me to ask that you, treasure-adorned, yourself remember... I join together ᛋ and ᚱ, and ᛠ, ᚹ, and ᛞ to name in an oath.\"[^5]\n\n**Mpu Dusun's *Kunjarakarna Dharmakathana*** includes vivid architectural ekphrasis, such as palaces with \"golden halls and... jeweled gates,\" \"silver ramparts and jeweled gates, all radiant,\" and transformed hellish artifacts like a \"jeweled lotus pond\" from a cauldron.[^6]\n\nOther mentions (e.g., statues in Charles Comte's *Traité de la propriété* Vols. I-II as philosophical examples; Buddha images/statues in *San Hyan Kamahayanikan*) are passing references without detailed, vivid description.[^7] No Homer-style shield ekphrasis or equivalent appears.\n\n[^1]: Cynewulf, *Elene*, Chapter 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-acdc07).\n[^2]: Cynewulf, *Elene*, Chapter 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-86294a); [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^3]: Cynewulf, *Elene*, Chapter 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^4]: Cynewulf, *Andreas*, Chapter 1, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-868413); [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-02e4ce).\n[^5]: Unknown, *Old English Elegies*, Chapter 8, [paragraph](/works/unknown-old-english-elegies-d5fe9e/08-nu-ic-onsundran-the-secgan-wille-treocyn-ic-tudre-/translation/#p-58bec2).\n[^6]: Mpu Dusun, *Kunjarakarna Dharmakathana*, Chapter 1, [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-253891); [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-149619); [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-1353c8).\n[^7]: Charles Comte, *Traité de la propriété: VOL II*, Chapter 50, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/50-du-melange-de-proprietes-mobilieres-appartenant-a-/translation/#p-066c27); Mpu Shri Sambhara Surya Warama, *San Hyan Kamahayanikan*, Chapter 1, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-59bc7b).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ekphrasis"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"on the shield\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the shield of\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tapestry depicted"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"golden cup\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ivory throne\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"statue of\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shield",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "statue",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "carved",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"golden image\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tapestry"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fresco"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ivory\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"golden cup\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the cross\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cross",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rood"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "image",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dream of the rood\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gems\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jeweled"
+      },
+      "result_summary": "Found 5 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-acdc07"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-86294a"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-868413"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-02e4ce"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-58bec2"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-253891"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-149619"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-1353c8"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-066c27"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-59bc7b"
+    }
+  ],
+  "duration_ms": 55151,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 102653,
+    "completion_tokens": 5718,
+    "total_tokens": 108371,
+    "cached_tokens": 39828,
+    "api_calls": 5,
+    "cost_usd": 0.0174154,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 885,
+        "total_tokens": 2441,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007312
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5251,
+        "completion_tokens": 817,
+        "total_tokens": 6068,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0012286
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11310,
+        "completion_tokens": 1146,
+        "total_tokens": 12456,
+        "cached_tokens": 5246,
+        "cost_usd": 0.0020481
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21598,
+        "completion_tokens": 1128,
+        "total_tokens": 22726,
+        "cached_tokens": 11305,
+        "cost_usd": 0.00318785
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 62938,
+        "completion_tokens": 1742,
+        "total_tokens": 64680,
+        "cached_tokens": 21593,
+        "cost_usd": 0.01021965
+      }
+    ]
+  }
+}

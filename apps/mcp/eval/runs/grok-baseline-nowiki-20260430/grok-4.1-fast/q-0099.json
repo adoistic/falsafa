@@ -1,0 +1,175 @@
+{
+  "answer": "**The poem \"Sāre Jahān se Acchā Hindostān Hamārā\" (also known as *Tarana-e-Hindi*) is one of Allama Iqbal's most famous early patriotic works, composed around 1904 and first published in his 1905 collection *Baang-e-Dara* (or earlier journals).**\n\nHowever, it is not present in the Falsafa corpus. This corpus includes Iqbal's *Bang-e-Dara* (1924) split into three parts (100 chapters total), which contains other nationalist poems such as:\n\n- \"Hindustani Bachon Ka Qaumi Geet\" (*Bang-e-Dara Part 1*, ch. 26), praising India's historical and spiritual heritage with the refrain \"Mera watan wohi hai\" (\"That is my own homeland\").[^1]\n- \"Tarana-e-Milli\" (*Bang-e-Dara Part 3*, ch. 23), an anthem of Muslim universalism with the refrain \"Cheen o Arab hamara, Muslim hain hum, watan hai saara jahan hamara\" (\"From China to Arabia is ours; we are Muslims, the whole world is our homeland\").[^2]\n\nThese are thematically related but distinct from *Tarana-e-Hindi*. The exact poem you referenced, beginning \"Sāre jahān se acchā Hindostān hamārā / Hum bulbulen hain is kī, yeh gulistan hamārā,\" is from Iqbal's pre-*Bang-e-Dara* oeuvre and thus unavailable here.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 26 \"Hindustani Bachon Ka Qaumi Geet\" (transliteration and translation variants available).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 23 \"Tarana-e-Milli\" (transliteration and translation variants available).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sare jahan se achha Hindostan hamara",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mohammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sare jahan se acha\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tarana-e-hindi",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hindustan hamara\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 61791,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 28558,
+    "completion_tokens": 6595,
+    "total_tokens": 35153,
+    "cached_tokens": 17528,
+    "api_calls": 4,
+    "cost_usd": 0.0063799,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1551,
+        "completion_tokens": 360,
+        "total_tokens": 1911,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00026085
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 4064,
+        "completion_tokens": 879,
+        "total_tokens": 4943,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00102295
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 10416,
+        "completion_tokens": 578,
+        "total_tokens": 10994,
+        "cached_tokens": 4059,
+        "cost_usd": 0.00176335
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 12527,
+        "completion_tokens": 4778,
+        "total_tokens": 17305,
+        "cached_tokens": 10411,
+        "cost_usd": 0.00333275
+      }
+    ]
+  }
+}

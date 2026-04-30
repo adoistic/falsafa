@@ -1,0 +1,264 @@
+{
+  "answer": "**In the *Bṛhaspati Smṛti*, documents (*lekhya*) are one of the three primary forms of human proof (*pramāṇa*), alongside witnesses and inference (or possession).[^1] They are described as \"eightfold\" (*aṣṭavidha*), though the text enumerates specific types in detail.[^2]**\n\n### Primary Classification of Documents\nDocuments are first divided into **three kinds**:\n- Royal document (*rājalekhya*)\n- One made at a specific place (*deśalekhya*)\n- One written in one's own hand (*svahastalekhya*)\n\nThese are further subdivided.[^3]\n\n### Worldly Documents (*laukikalekhyāni*)\nThese are **seven kinds**, arising from various transactions:\n1. **Partition deed** (*vibhāgapatra*): For determining shares among heirs.[^4]\n2. **Deed of gift** (*dānapatra*): For granting land or property, e.g., \"lasting as long as the moon and sun.\"[^5]\n3. **Deed of sale** (*vikrayapatra*): Recording the price and details of sold property like houses or fields.[^6]\n4. **Mortgage deed** (*ādhipatra* or *lepapatra*): For pledges, specifying custody and enjoyment conditions.[^7]\n5. **Compact** (*saṃvāda*): Agreements by villages, guilds, or corporations for righteous purposes.[^8]\n6. **Bond of servitude** (*dāsyakaraṇapatra*): A statement of service in exchange for sustenance.[^9]\n7. **Loan document** (*ṛṇapatra* or *ṛṇādhināpatra*): Recording debts with interest, time, etc.[^10]\n\n### Royal Charters (*mahārājapattrāṇi*)\nThese are **three kinds**:\n1. **Charter of *dharma*** (*dharmapatra* or charter of gift): Grants of land on copper plates or cloth for merit.[^11]\n2. **Document of favor** (*prasādapatra*): Grants for service or bravery.[^12]\n3. **Document of victory** (*jayapatra*): Issued to the victor in lawsuits, recording the proceedings.[^13]\n\n**A document qualifies as evidence when it includes key elements like place, date (year, month, day), interest (for debts), the debtor's signature, witnesses, and the scribe.**[^14] Flaws (e.g., forgery, poor witnesses, or indistinct writing) invalidate it.[^15]\n\n[^1]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-c9cb41](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c9cb41).  \n[^2]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-c9cb41](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c9cb41).  \n[^3]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-213342](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-213342).  \n[^4]: *Bṛhaspati Smṛti*, [Chapter 1, ¶¶ p-8f771b, p-ed2528](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-8f771b).  \n[^5]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-25a82c](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-25a82c).  \n[^6]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-25a82c](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-25a82c).  \n[^7]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-25a82c](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-25a82c).  \n[^8]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-91db20](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-91db20).  \n[^9]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-25a82c](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-25a82c).  \n[^10]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-91db20](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-91db20).  \n[^11]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-c77410](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c77410).  \n[^12]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-0669f0](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-0669f0).  \n[^13]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-0c3dd6](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-0c3dd6).  \n[^14]: *Bṛhaspati Smṛti*, [Chapter 1, ¶ p-dc2d5a](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-dc2d5a).  \n[^15]: *Bṛhaspati Smṛti*, [Chapter 1, ¶¶ p-a9b952–p-65f09b](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-a9b952).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "brhaspati"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "brhaspati-smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brhaspati Smriti\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"types of writing\" evidence"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"writing\" evidence"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "types evidence writing"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"types of\" evidence"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smriti evidence writing"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "c9cb41",
+          "213342",
+          "8f771b",
+          "ed2528",
+          "25a82c",
+          "91db20"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 510,
+          "end": 520
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 11 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"document\" OR \"writing\" OR \"deed\" evidence OR proof",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-c9cb41"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-213342"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-8f771b"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-ed2528"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-25a82c"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-91db20"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-c77410"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-0669f0"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-0c3dd6"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-dc2d5a"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-a9b952"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-65f09b"
+    }
+  ],
+  "duration_ms": 50105,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 134819,
+    "completion_tokens": 5100,
+    "total_tokens": 139919,
+    "cached_tokens": 70048,
+    "api_calls": 5,
+    "cost_usd": 0.019006600000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 494,
+        "total_tokens": 2046,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003279
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1936,
+        "completion_tokens": 353,
+        "total_tokens": 2289,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00033435
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2276,
+        "completion_tokens": 209,
+        "total_tokens": 2485,
+        "cached_tokens": 1931,
+        "cost_usd": 0.00027005
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 62792,
+        "completion_tokens": 1667,
+        "total_tokens": 64459,
+        "cached_tokens": 2271,
+        "cost_usd": 0.01305125
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 66263,
+        "completion_tokens": 2377,
+        "total_tokens": 68640,
+        "cached_tokens": 62787,
+        "cost_usd": 0.00502305
+      }
+    ]
+  }
+}

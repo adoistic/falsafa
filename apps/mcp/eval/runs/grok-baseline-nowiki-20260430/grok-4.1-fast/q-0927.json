@@ -1,0 +1,214 @@
+{
+  "answer": "**The specific Urdu phrase \"sāre jahān se acchā\" (सारे जहान से अच्छा, sare jahan se achha), famously from Allama Iqbal's 1904 poem *Tarana-e-Hindi* (\"Song of India,\" often rendered in English as \"Better than the whole world is our Hindustan\"), does not appear in the Falsafa corpus.**\n\nIqbal's works in the corpus are limited to the three parts of *Bang-e-Dara* (1924), totaling 100 chapters of Urdu poetry with English translations and transliterations.[^1] Searches across the English translations for distinctive phrases like \"sare jahan se achha,\" \"sare-jahan-se-achha,\" \"better than the whole world,\" or even partial matches (e.g., \"better than,\" \"sare jahan,\" \"Hindustan\") yielded no results containing this exact expression or its direct equivalent.[^2]\n\nRelated patriotic themes do appear, such as praise for \"Hindustan\" in *Bang-e-Dara Part 1*, Chapter 26 (*Hindustani Bachon Ka Qaumi Geet*), which exalts the land historically (e.g., \"The land that left the wisest Greeks spellbound... This is my homeland, this land of mine\"),[^3] and *Part 3*, Chapter 23 (*Tarana-e-Milli*), an Islamic anthem claiming \"From Chin to Arab lands, our story flows, The whole wide world's the home a Muslim knows.\"[^4] Chapter 2 of *Part 1* uses a similar construction—\"saare zamane se nirale hain\" (different/separate from the whole world)—but lacks \"acchā\" (better/good).[^5] None construct or discuss the precise phrase or the evaluative claim you describe.\n\n*Tarana-e-Hindi* itself is not in the corpus (37 works total), so no analysis of its linguistics—from the corpus—is possible. For external context on the phrase's nuance (e.g., \"acchā\" as contextually \"best\" via comparative *se* across \"sāre jahān,\" arguably intensified beyond a literal English gloss), consult editions outside this collection.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sare jahan se achha",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sare-jahan-se-achha",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"better than the whole world\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tarana",
+        "limit": 10
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hindustan",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"better than\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 44027,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 38901,
+    "completion_tokens": 3915,
+    "total_tokens": 42816,
+    "cached_tokens": 21101,
+    "api_calls": 4,
+    "cost_usd": 0.00657255,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1570,
+        "completion_tokens": 825,
+        "total_tokens": 2395,
+        "cached_tokens": 150,
+        "cost_usd": 0.000704
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5511,
+        "completion_tokens": 833,
+        "total_tokens": 6344,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00128905
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13919,
+        "completion_tokens": 968,
+        "total_tokens": 14887,
+        "cached_tokens": 5506,
+        "cost_usd": 0.0024419
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 17901,
+        "completion_tokens": 1289,
+        "total_tokens": 19190,
+        "cached_tokens": 13914,
+        "cost_usd": 0.0021376
+      }
+    ]
+  }
+}

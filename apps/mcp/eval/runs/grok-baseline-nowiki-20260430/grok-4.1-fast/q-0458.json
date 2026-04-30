@@ -1,0 +1,269 @@
+{
+  "answer": "**Several poetic works in the corpus, especially from the Urdu ghazal tradition, explicitly address themes of absence or separation (often *hijrāṉ* or *firqat*) from the beloved (*yār*, *dost*, or divine/romantic figure). These include:**\n\n- **Allama Iqbal's *Bang-e-Dara* (Parts 1 and 3)**: Discusses the pain of separation in love, such as moments of parting feeling eternal[^1] and the beloved's parting as a transformative sorrow that endures in the soul.[^2]\n\n- **Mirza Ghalib's *Diwan-e-Ghalib***: Multiple ghazals evoke separation's torment from the beloved, e.g., a sigh requiring a lifetime amid prolonged parting until Judgment Day.[^3]\n\n- **Sheikh Ibrahim Zauq's *Diwan-e-Zauq***: Portrays lovers slain by separation from the beloved.[^4]\n\n**No prose philosophical or classical texts (e.g., Smṛti works like *Āṅgirasa Smṛti* or *Andreas*) explicitly frame absence/separation in terms of \"the beloved\" in a romantic or devotional sense—their uses of \"beloved\" refer to teachers, ancestors, or kin instead.[^5] The corpus lacks comprehensive coverage of this specific theme outside poetry.**\n\n[^1]: Allama Iqbal, *Bang-e-Dara Part 1*, [\"Jinhein main dhoondta tha...\"](/works/allama-iqbal-bang-e-dara-part-1-55b25c/04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m/translation/#p-3a56f2).\n\n[^2]: Allama Iqbal, *Bang-e-Dara Part 3*, [\"Falsafa-e-Gham\"](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-e693fc).\n\n[^3]: Mirza Ghalib, *Diwan-e-Ghalib*, [\"Aah ko chahiye... \"](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/03-aah-ko-chahiye-ik-umr-asar-hote-tak/translation/#p-1ec337).\n\n[^4]: Sheikh Ibrahim Zauq, *Diwan-e-Zauq*, [\"Kal gaye the tum jise... \"](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/26-kal-gaye-the-tum-jise-bimaar-e-hijraan-chhod-kar/translation/#p-0142be).\n\n[^5]: E.g., Cynewulf, *Andreas*, Ch. 1 ([/works/cynewulf-andreas-07b573/01/translation/#p-0932ba]); *Āṅgirasa Smṛti*, Ch. 1 ([/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-b57d3a]).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "absence beloved",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "separation beloved",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "separated beloved",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"parted from\" love",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "absence love",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "beloved",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "absence",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "separation",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"far from\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "longing love",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-e693fc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-1ec337"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 26,
+        "paragraph_ids": [
+          "p-0142be"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-3a56f2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"beloved\" separation",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"beloved\" absence",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"from the beloved\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-3a56f2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-e693fc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-1ec337"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-0142be"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-0932ba"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-b57d3a"
+    }
+  ],
+  "duration_ms": 41368,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 30254,
+    "completion_tokens": 4214,
+    "total_tokens": 34468,
+    "cached_tokens": 17791,
+    "api_calls": 4,
+    "cost_usd": 0.00548915,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1548,
+        "completion_tokens": 526,
+        "total_tokens": 2074,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0003425
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1852,
+        "completion_tokens": 542,
+        "total_tokens": 2394,
+        "cached_tokens": 1535,
+        "cost_usd": 0.00041115
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 12880,
+        "completion_tokens": 1717,
+        "total_tokens": 14597,
+        "cached_tokens": 1847,
+        "cost_usd": 0.00315745
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13974,
+        "completion_tokens": 1429,
+        "total_tokens": 15403,
+        "cached_tokens": 12875,
+        "cost_usd": 0.00157805
+      }
+    ]
+  }
+}

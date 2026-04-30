@@ -1,0 +1,167 @@
+{
+  "answer": "In Charles Dunoyer's *Nouveau traité d'économie*, Vol. I, Chapter 4 (\"V. Influence of culture on liberty\"), he argues that culture—or more precisely, *civilization*—is a primary enhancer of liberty, as it vastly expands individuals' and peoples' power, facility, and means of action through the development of their faculties via education, habit, and exercise.[^1] While natural endowments (race/organization) and external circumstances create initial inequalities in liberty, culture modifies and can even surpass these effects: a person with inferior natural faculties but superior cultivation gains a decisive edge in practiced skills, making culture \"the true source of liberty.\"[^2]\n\nDunoyer defines civilization etymologically as deriving from *civitas* (\"city\" or society), meaning the inculcation of *civil* or *social* ideas and habits that render people fit for harmonious social life—thus inherently containing \"all the elements of liberty.\"[^3] He contends that civilized life, above all other modes of existence, enables \"the easiest and most extended use of [human] forces,\" with a people's potential and actual liberty directly proportional to its progress on \"the scale of civilization.\"[^4] The most cultivated peoples are therefore the freest.[^5]\n\nMuch of the chapter refutes the widespread prejudice that civilization corrupts morals, enervates character, or leads to societal decline (citing Rousseau, Constant, and others). Dunoyer counters that civilization softens but purifies morals, elevates courage (military and civil), promotes justice and order alongside industry and wealth, and replaces destructive warlike virtues with productive, defensive ones. Historical \"falls\" of civilizations (e.g., Rome) stemmed not from excess culture but insufficient civilization relative to barbarous invaders—or from reliance on exploitative \"arts\" like plunder rather than truly productive ones.[^6]\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [§1](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/04-v-influence-de-la-culture-sur-la-liberte/translation/#p-014d9d).\n\n[^2]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [§2](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/04-v-influence-de-la-culture-sur-la-liberte/translation/#p-e358ff).\n\n[^3]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [§5](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/04-v-influence-de-la-culture-sur-la-liberte/translation/#p-a10951).\n\n[^4]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [§3](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/04-v-influence-de-la-culture-sur-la-liberte/translation/#p-a20288).\n\n[^5]: Charles Dunoyer, *Nouveau traité d'economia: VOL I*, [§8](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/04-v-influence-de-la-culture-sur-la-liberte/translation/#p-0e92dd).\n\n[^6]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [Chapter 4 (full)](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/04-v-influence-de-la-culture-sur-la-liberte/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-a20288",
+          "p-0e92dd",
+          "p-e358ff",
+          "p-a10951"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-014d9d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 4,
+        "paragraph_range": {
+          "start": 0,
+          "end": 50
+        },
+        "variant": "translation"
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [0, 50] is invalid"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-014d9d"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-e358ff"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-a10951"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-a20288"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-0e92dd"
+    }
+  ],
+  "duration_ms": 28569,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 32039,
+    "completion_tokens": 3442,
+    "total_tokens": 35481,
+    "cached_tokens": 18563,
+    "api_calls": 5,
+    "cost_usd": 0.0053443499999999994,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1569,
+        "completion_tokens": 278,
+        "total_tokens": 1847,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004303
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 1772,
+        "completion_tokens": 180,
+        "total_tokens": 1952,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0002149
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters"
+        ],
+        "prompt_tokens": 2798,
+        "completion_tokens": 162,
+        "total_tokens": 2960,
+        "cached_tokens": 1767,
+        "cost_usd": 0.00037555
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 12328,
+        "completion_tokens": 1402,
+        "total_tokens": 13730,
+        "cached_tokens": 2793,
+        "cost_usd": 0.00274765
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 13572,
+        "completion_tokens": 1420,
+        "total_tokens": 14992,
+        "cached_tokens": 12323,
+        "cost_usd": 0.00157595
+      }
+    ]
+  }
+}

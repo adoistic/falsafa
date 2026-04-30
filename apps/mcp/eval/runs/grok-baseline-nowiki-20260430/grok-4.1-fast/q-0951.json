@@ -1,0 +1,275 @@
+{
+  "answer": "**In *Andreas*, the cosmic frame opens the poem explicitly as a heroic theater under heaven's dome (\"turning stars\"), where the Lord's champions enact fates against chaotic foes, evoking Christ's eternal order prevailing over pagan disorder (the cannibalistic Mermedonians).**[^1][^2]\n\nThe prologue states this directly:  \n> We have heard of heroes in ages past,  \n> of twelve true thanes **under the turning stars**,  \n> the Lord’s own champions. Their glory lived on  \n> in the grim struggle where standards clashed.  \n> Their lots were laid out **as the Lord Himself**,  \n> **Heaven’s High King, handed them their fates**.[^1]\n\nThis \"stage\" motif—fates assigned under cosmic turning, heroes battling grim disorder—persists in invocations of Christ as \"the one eternal God of **all creation**. He encompasses **all by His craft alone, heaven and earth**,\"[^3] ruling nations righteously over sea-chaos and heathen malice.[^4] It could translate to *Manusmṛti*'s idiom as divine ordinance unfolding against primordial darkness, with apostles as varṇas maintaining ṛta amid adharma.\n\n**In *Manusmṛti*'s opening (Chapter 1), the frame is explicitly the universe's **cyclical unfolding** from cosmic egg/chaos to dharma's graded decline across yugas and manvantaras, performed \"as if in sport\" by the Self-existent One.**[^5]\n\nDirect statements:  \n> This universe existed as **darkness**, unperceived... Then the divine Self-existent One... appeared **with creative power, dispelling the darkness**.[^6]  \n> ...**he separated Dharma** (righteousness) **from non-Dharma**...[^7]  \n> The age of the gods... is here called a **Manvantara**. **The Manvantaras, the creations and the dissolutions, are numberless**; the Supreme Being performs this **again and again, as if in sport**.[^5]  \n> **In the Krita age, Dharma is four-footed** and complete... In the other ages, **Dharma is successively deprived of one foot**...[^8]\n\nThis survives in *Andreas*'s idiom as heaven's High King dispensing fates in recurring grim struggles (\"ages past\"), overriding heathen \"darkness\" (Mermedonia) with heroic righteousness, much like dharma's legs eroding yet eternally renewed.\n\n[^1]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-868413).\n[^2]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-f6e450).\n[^3]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-355089).\n[^4]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-f3580c).\n[^5]: Manu, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-0cd1bd).\n[^6]: Manu, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-61df11).\n[^7]: Manu, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-84ef7f).\n[^8]: Manu, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-fcafde).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "law"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"world\" Christ order pagan",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma cyclical unfolding creation",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "world stage Christ",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"created the world\" OR creation OR \"beginning of the world\" OR cosmos OR order",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma creation cycle OR cyclical OR yuga OR kalpa OR manvantara",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-868413",
+          "p-355089",
+          "p-f3580c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-61df11",
+          "p-0cd1bd",
+          "p-84ef7f",
+          "p-fcafde"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"turning stars\" OR \"under the stars\" OR stage OR theater OR play OR drama OR spectacle",
+        "limit": 5
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "disorder OR chaos OR \"pagan\" OR heathen OR cannibal OR mermedonia frame OR cosmic OR world",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-868413"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-f6e450"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-355089"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-f3580c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-0cd1bd"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-61df11"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-84ef7f"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-fcafde"
+    }
+  ],
+  "duration_ms": 48641,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 70656,
+    "completion_tokens": 5270,
+    "total_tokens": 75926,
+    "cached_tokens": 34202,
+    "api_calls": 5,
+    "cost_usd": 0.011635900000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1586,
+        "completion_tokens": 538,
+        "total_tokens": 2124,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00035685
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2109,
+        "completion_tokens": 625,
+        "total_tokens": 2734,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007118
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2938,
+        "completion_tokens": 615,
+        "total_tokens": 3553,
+        "cached_tokens": 2104,
+        "cost_usd": 0.0005795
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30274,
+        "completion_tokens": 1525,
+        "total_tokens": 31799,
+        "cached_tokens": 150,
+        "cost_usd": 0.0067948
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 33749,
+        "completion_tokens": 1967,
+        "total_tokens": 35716,
+        "cached_tokens": 30269,
+        "cost_usd": 0.00319295
+      }
+    ]
+  }
+}

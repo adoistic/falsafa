@@ -1,0 +1,257 @@
+{
+  "answer": "In Cynewulf's signed poems (*Andreas*, *Elene*, and *Juliana*), the Old English term *lof*—rooted in the pagan heroic ethos of fame earned through martial prowess and celebrated in song—is consistently repurposed as divine *lof*: praise or glory directed toward God or Christ.[^1] This redirection aligns *lof* with Christian virtues, particularly amid suffering, where saints endure torment with *milde modsefan* (mild/humbleminded spirits) rather than seeking worldly acclaim.[^2] There is no explicit condemnation of *lof* as vainglory (cf. the non-Cynewulfian *Vainglory* poem in the Old English Elegies, which warns against *ideles ofste* or empty pride swelling the spirit).[^3] Instead, Cynewulf implicitly resolves the tension by subordinating heroic fame to heavenly glory: true *lof* is God's alone, merited through patient faith, not self-aggrandizement.\n\n### Repurposing *Lof* as Divine Praise\n- **Andreas**: *Lof* recurs over 20 times in the Old English (e.g., *Cristes lof*, Christ's praise), translated as \"praise\" or \"glory,\" always upward to the divine.[^4] Matthew, imprisoned and blinded by cannibals, steadfastly offers *lof* to the \"Glory-King\" (*wuldor-cyning*), his heart firm despite doom.[^5] Andrew similarly praises amid sea-storms and torture, modeling heroic endurance as humble devotion.[^6] Worldly \"fame\" (*famed were those men*) opens the poem but yields to eternal glory.[^7]\n- **Elene**: Constantine's vision promises victory (*sige*) via the Cross, but *lof* is communal praise of God post-miracle (e.g., after the dead revive).[^8] Judas's prayer invokes angelic *lof* (Cherubim/Seraphim hymns), contrasting pagan pride with submissive worship.[^9]\n- **Juliana**: Juliana's *lof* for Christ is \"wound fast\" (*faeste biwunden*) in her *milde modsefan* (mild spirit) during flayings and dungeon isolation, unbreakable amid torture.[^10] Her public exhortation ties *lof* to \"peace\" (*frofre*) and humility before the divine Judge.\n\n### Humility vs. Pride/Arrogance\nCynewulf exalts *eaþmælness* (meekness/humility) over prideful scorn:\n- In *Andreas*, Andrew rebukes the disguised Christ's \"arrogance\" (*ar* in OE), urging *eaþmælness* (meekness) for strangers, echoing Christ's command to apostles—humble mission without gold.[^11]\n- Saints embody this: Juliana drags the devil (pride's archetype) in chains, exposing his boasts; Matthew prays submissively from darkness.[^12]\n- Pagan foes embody vainglory's shadow: Eleusius rages at failure; Mermedonians seek fame through cannibalism but earn doom.\n\nCynewulf thus Christianizes *lof*: pagan warrior-fame becomes eternal praise via humble martyrdom, resolving tension without direct rebuke. The corpus lacks systematic theological critique of vainglory (unlike Boethius-influenced texts), focusing instead on saints' exemplary redirection.\n\n[^1]: E.g., *cynewulf-andreas-07b573*, Ch. 1 [transliteration](/works/cynewulf-andreas-07b573/01/transliteration/#p-992aeb); *cynewulf-juliana-9a2157*, Ch. 1 [transliteration](/works/cynewulf-juliana-9a2157/01/transliteration/#p-01394b).\n[^2]: *Cynewulf-Juliana-9a2157*, Ch. 1, [p-89a6c9](/works/cynewulf-juliana-9a2157/01/translation/#p-89a6c9).\n[^3]: *Unknown-Old English Elegies-d5fe9e*, Ch. 12 [translation](/works/unknown-old-english-elegies-d5fe9e/12-vainglory/translation/#p-946b37).\n[^4]: *Cynewulf-Andreas-07b573*, Ch. 1 [full chapter](/works/cynewulf-andreas-07b573/01/translation/).\n[^5]: *Cynewulf-Andreas-07b573*, Ch. 1, [p-da0c5e](/works/cynewulf-andreas-07b573/01/translation/#p-da0c5e).\n[^6]: *Cynewulf-Andreas-07b573*, Ch. 1, [p-58182e](/works/cynewulf-andreas-07b573/01/translation/#p-58182e).\n[^7]: *Cynewulf-Andreas-07b573*, Ch. 1, [p-868413](/works/cynewulf-andreas-07b573/01/translation/#p-868413).\n[^8]: *Cynewulf-Elene-d2d132*, Ch. 1 [full chapter](/works/cynewulf-elene-d2d132/01/translation/).\n[^9]: *Cynewulf-Elene-d2d132*, Ch. 1, [p-624562](/works/cynewulf-elene-d2d132/01/transliteration/#p-624562) (OE prayer).\n[^10]: *Cynewulf-Juliana-9a2157*, Ch. 1, [p-89a6c9](/works/cynewulf-juliana-9a2157/01/translation/#p-89a6c9).\n[^11]: *Cynewulf-Andreas-07b573*, Ch. 1, [p-355089](/works/cynewulf-andreas-07b573/01/translation/#p-355089).\n[^12]: *Cynewulf-Andreas-07b573*, Ch. 1 [full chapter](/works/cynewulf-andreas-07b573/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lof",
+        "limit": 50
+      },
+      "result_summary": "Found 43 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"praise\" OR \"glory\" OR \"fame\" cynewulf",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "humility OR \"vainglory\" OR meek OR pride cynewulf",
+        "limit": 50
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-355089"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-da0c5e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-58182e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-222dfa"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-89a6c9"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pride OR proud OR vainglory OR arrogance OR humility OR meek cynewulf",
+        "limit": 20
+      },
+      "result_summary": "Found 8 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-992aeb"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-01394b"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-89a6c9"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-946b37"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-da0c5e"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-58182e"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-868413"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-624562"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-355089"
+    }
+  ],
+  "duration_ms": 46496,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 130360,
+    "completion_tokens": 4353,
+    "total_tokens": 134713,
+    "cached_tokens": 73269,
+    "api_calls": 5,
+    "cost_usd": 0.01725815,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1575,
+        "completion_tokens": 161,
+        "total_tokens": 1736,
+        "cached_tokens": 150,
+        "cost_usd": 0.000373
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 1920,
+        "completion_tokens": 654,
+        "total_tokens": 2574,
+        "cached_tokens": 1533,
+        "cost_usd": 0.00048105
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15042,
+        "completion_tokens": 520,
+        "total_tokens": 15562,
+        "cached_tokens": 1915,
+        "cost_usd": 0.00298115
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 54639,
+        "completion_tokens": 1108,
+        "total_tokens": 55747,
+        "cached_tokens": 15037,
+        "cost_usd": 0.00922625
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 57184,
+        "completion_tokens": 1910,
+        "total_tokens": 59094,
+        "cached_tokens": 54634,
+        "cost_usd": 0.0041967
+      }
+    ]
+  }
+}

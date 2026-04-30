@@ -1,0 +1,107 @@
+{
+  "answer": "**Cynewulf's *Elene*** narrates the legendary-historical account of Constantine the Great's vision of the Cross before battling invading Huns, Hreth-Goths (\"Ruthenes\" or \"Russ\"), Franks, and Hugas (\"probably Vangiones\") along the Danube River—dated precisely to 243 years after Christ's birth—and Helena's (Elene's) subsequent quest to Jerusalem to find the True Cross (including interrogating Jewish scholars, unearthing three crosses on Calvary, a miracle identifying Christ's, and finding the nails).[^1][^2]\n\nNo other works in the corpus narrate a specific historical event. Most are philosophical treatises (e.g., Comte's *Traité de la propriété*), law codes (e.g., *Manusmṛti*), or lyric poetry (e.g., Iqbal's *Bang-e-Dara*). The other Cynewulf poems are hagiographic legends without tied historical events:\n\n- *Andreas*: Fictional tale of Andrew rescuing Matthew from Mermedonian cannibals.[^3]\n- *Juliana*: Martyrdom under the historical Maximian, but framed as pious legend without event specifics.[^4]\n\nCynewulf's *Old English Elegies* are reflective laments, not historical narratives.[^5]\n\n[^1]: Cynewulf, *Elene*, [Chapter 1](/works/cynewulf-elene-d2d132/01/translation/#p-222dfa).\n\n[^2]: Cynewulf, *Elene*, [Chapter 1](/works/cynewulf-elene-d2d132/01/translation/#p-14a3be).\n\n[^3]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/).\n\n[^4]: Cynewulf, *Juliana*, [Chapter 1](/works/cynewulf-juliana-9a2157/01/translation/).\n\n[^5]: *Old English Elegies*, metadata description (no chapters read; elegiac genre).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-222dfa"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-14a3be"
+    }
+  ],
+  "duration_ms": 33989,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 63230,
+    "completion_tokens": 3314,
+    "total_tokens": 66544,
+    "cached_tokens": 3213,
+    "api_calls": 3,
+    "cost_usd": 0.01382105,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1546,
+        "completion_tokens": 192,
+        "total_tokens": 1738,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0001751
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 4869,
+        "completion_tokens": 1936,
+        "total_tokens": 6805,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019193
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 56815,
+        "completion_tokens": 1186,
+        "total_tokens": 58001,
+        "cached_tokens": 1529,
+        "cost_usd": 0.01172665
+      }
+    ]
+  }
+}

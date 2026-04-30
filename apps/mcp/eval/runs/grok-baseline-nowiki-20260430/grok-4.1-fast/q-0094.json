@@ -1,0 +1,167 @@
+{
+  "answer": "**Iqbal's poem \"Mehr-e-Roshan\" (The Bright Sun), from *Bang-e-Dara Part 1*, opens at sunset, describing the sun's departure as a moment of cosmic mourning.**[^1]\n\nThe first lines state: \"The shining sun has gone from sight, the veil is lifted from the face of night, / Upon existence’s shoulder, see, the tresses of the eve hang free.\" The poem continues: \"For whom does it prepare this dark array, this robe of grey? / All Nature’s court is mourning for the sun, now passed away.\"[^2]\n\nHere, the \"shining sun\" (translating \"mehr-e-roshan,\" meaning \"bright sun\") sets, lifting night's veil and draping existence in evening's tresses. Nature's entire court grieves its passing, setting a contemplative tone. The poem then shifts to the speaker addressing the dead (\"sleepers in dust\"), using the sunset as a metaphor to inquire about the afterlife, contrasting earthly transience with eternal mysteries.[^3]\n\nThe sun symbolizes fleeting life and light, prompting reflection on death, the soul, and divine realms—core themes in Iqbal's philosophy of self-realization (*khudi*).\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 32 \"Mehr-e-roshan\" ([full chapter, translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/32-mehr-e-roshan/translation/)).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 32 \"Mehr-e-roshan\" ([paragraphs](/works/allama-iqbal-bang-e-dara-part-1-55b25c/32-mehr-e-roshan/translation/#p-202a06)).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 32 \"Mehr-e-roshan\" ([paragraphs](/works/allama-iqbal-bang-e-dara-part-1-55b25c/32-mehr-e-roshan/translation/#p-202a06)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mehr-e-Roshan\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.32 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.32 of allama-iqbal-bang-e-dara-part-1-55b25c (original)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bright sun\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sun \"Mehr-e-Roshan\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32,
+        "paragraph_ids": [
+          "p-202a06",
+          "p-9e70bf"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32,
+        "variant": "translation"
+      },
+      "result_summary": "error BAD_QUERY: get_passage requires either paragraph_ids or paragraph_range"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 32,
+      "paragraph_id": "p-202a06"
+    }
+  ],
+  "duration_ms": 27449,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 17551,
+    "completion_tokens": 3204,
+    "total_tokens": 20755,
+    "cached_tokens": 10626,
+    "api_calls": 4,
+    "cost_usd": 0.0035183,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 285,
+        "total_tokens": 1837,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00022355
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2246,
+        "completion_tokens": 439,
+        "total_tokens": 2685,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00043905
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5330,
+        "completion_tokens": 888,
+        "total_tokens": 6218,
+        "cached_tokens": 2241,
+        "cost_usd": 0.00117385
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "list_chapters"
+        ],
+        "prompt_tokens": 8423,
+        "completion_tokens": 1592,
+        "total_tokens": 10015,
+        "cached_tokens": 5325,
+        "cost_usd": 0.00168185
+      }
+    ]
+  }
+}

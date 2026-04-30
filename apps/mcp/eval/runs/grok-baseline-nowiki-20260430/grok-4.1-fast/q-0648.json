@@ -1,0 +1,219 @@
+{
+  "answer": "In Cynewulf's signed poems (*Andreas*, *Elene*, and *Juliana*), **dryhten** is a frequent epithet (appearing dozens of times across the three works) for God or Christ as supreme ruler, savior, and heavenly lord.[^1][^2][^3] It carries connotations of sovereign authority (*sigedryhten*, victory-lord), merciful protector (*ece dryhten*, eternal lord), and object of praise amid suffering (*wuldres dryhten*, glory-lord), aligning with the poems' hagiographic themes of martyrdom, divine intervention, and heroic devotion.[^4] For instance, in *Andreas*, it describes Christ guiding the apostle across perilous seas and sustaining him against cannibals;[^5] in *Elene*, the True Cross quest invokes it as the \"heofona heahcyning\" (high-king of heavens);[^6] and in *Juliana*, the saint binds a devil while praising the \"ece dryhten\" as soul's guardian.[^7]\n\nThe Old English Elegies anthology (17 poems/chapters, anonymous) uses **dryhten** less pervasively but similarly, blending secular lordship (e.g., lost human ring-giver) with Christian divine rule, emphasizing transience, exile, and God's ultimate mercy.[^8] Occurrences cluster in pious reflections: e.g., \"dryhtenbealo\" (lord-bale, divine suffering) in an untitled fragment;[^9] warnings against neglecting one's \"dryhten\" (lord/God) in \"Maxims I\" and \"The Seafarer\"-like pieces;[^10] and pleas for the \"ece dryhten\" (eternal lord) in \"Resignation.\"[^11] It underscores wyrd (fate) under God's dominion, as in soul's fear of divine judgment.[^12] Not all elegies feature it prominently (*The Wanderer* lacks it, focusing on earthly *dryhten* loss via periphrasis).[^13]\n\nOverall, **dryhten** bridges heroic and Christian idioms: a feudal lord elevated to cosmic sovereign (often Christ), invoked for solace amid *wraeclastas* (exile paths). The corpus covers this richly in Cynewulf but sparser in elegies; no exhaustive concordance exists here.\n\n[^1]: Cynewulf, *Andreas*, ch. 1 (transliteration), [paragraph](https://falsafa.corpus/transliteration/works/cynewulf-andreas-07b573/01/#p-992aeb).\n[^2]: Cynewulf, *Elene*, ch. 1 (transliteration), [paragraph](https://falsafa.corpus/transliteration/works/cynewulf-elene-d2d132/01/#p-624562).\n[^3]: Cynewulf, *Juliana*, ch. 1 (transliteration), [paragraph](https://falsafa.corpus/transliteration/works/cynewulf-juliana-9a2157/01/#p-01394b).\n[^4]: E.g., *Andreas*: \"ece dryhten\" as sea-calmer; *Juliana*: devil fears \"dryhtna dryhten.\"\n[^5]: *Andreas*, ch. 1, [paragraph](https://falsafa.corpus/transliteration/works/cynewulf-andreas-07b573/01/#p-992aeb).\n[^6]: *Elene*, ch. 1, [paragraph](https://falsafa.corpus/transliteration/works/cynewulf-elene-d2d132/01/#p-624562).\n[^7]: *Juliana*, ch. 1, [paragraph](https://falsafa.corpus/transliteration/works/cynewulf-juliana-9a2157/01/#p-01394b).\n[^8]: *Old English Elegies*, chs. 1–9 (transliteration), multiple [paragraphs](https://falsafa.corpus/transliteration/works/unknown-old-english-elegies-d5fe9e/#p-0e2690) et al.\n[^9]: Ch. 2, [paragraph](https://falsafa.corpus/transliteration/works/unknown-old-english-elegies-d5fe9e/02/#p-0e2690).\n[^10]: Chs. 5–6, [paragraph](https://falsafa.corpus/transliteration/works/unknown-old-english-elegies-d5fe9e/05/#p-f25ee3); [paragraph](https://falsafa.corpus/transliteration/works/unknown-old-english-elegies-d5fe9e/06/#p-0fe1ec).\n[^11]: Ch. 9, [paragraph](https://falsafa.corpus/transliteration/works/unknown-old-english-elegies-d5fe9e/09/#p-ef37f8).\n[^12]: Ch. 5, [paragraph](https://falsafa.corpus/transliteration/works/unknown-old-english-elegies-d5fe9e/05/#p-f25ee3).\n[^13]: *Old English Elegies*, ch. 11 (*The Wanderer*), [full chapter](https://falsafa.corpus/transliteration/works/unknown-old-english-elegies-d5fe9e/11/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf",
+        "genre": "elegy"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "elegy"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dryhten",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dryhten\" juliana"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-992aeb"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-624562"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-01394b"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-0e2690"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-f25ee3"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-0fe1ec"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-ef37f8"
+    }
+  ],
+  "duration_ms": 53554,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 79169,
+    "completion_tokens": 5090,
+    "total_tokens": 84259,
+    "cached_tokens": 13289,
+    "api_calls": 4,
+    "cost_usd": 0.01638545,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 689,
+        "total_tokens": 2251,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0004271
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2441,
+        "completion_tokens": 850,
+        "total_tokens": 3291,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0006834
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10080,
+        "completion_tokens": 1659,
+        "total_tokens": 11739,
+        "cached_tokens": 150,
+        "cost_usd": 0.002823
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 65086,
+        "completion_tokens": 1892,
+        "total_tokens": 66978,
+        "cached_tokens": 10075,
+        "cost_usd": 0.01245195
+      }
+    ]
+  }
+}

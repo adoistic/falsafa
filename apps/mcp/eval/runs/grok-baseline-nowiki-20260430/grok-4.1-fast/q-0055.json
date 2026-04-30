@@ -1,0 +1,187 @@
+{
+  "answer": "**In Allama Iqbal's poem \"Tujh ko duzdida nigahi yeh sikha di kis ne\" from *Bang-E-Dara Part 2* (Chapter 26), the speaker rhetorically asks a kitten (the \"beloved,\" addressed as \"you\" with \"eyes of azure blue,\" batting paws, and lap-sitting habits) who taught it \"this art of the stolen glance.\"**[^1]\n\n**The poem does not name a specific teacher. Instead, it concludes that no instruction was needed: the sense of Beauty (and Love) is innate, not exclusive to humans but present \"deep in all things,\" throbbing in every atom as a universal force.**[^2][^3]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, \"Tujh ko duzdida nigahi yeh sikha di kis ne\" [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/26-tujh-ko-duzdida-nigahi-yeh-sikha-di-kis-ne/translation/#p-4ab922).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 2*, \"Tujh ko duzdida nigahi yeh sikha di kis ne\" [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/26-tujh-ko-duzdida-nigahi-yeh-sikha-di-kis-ne/translation/#p-69ebd5).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 2*, \"Tujh ko duzdida nigahi yeh sikha di kis ne\" [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/26-tujh-ko-duzdida-nigahi-yeh-sikha-di-kis-ne/translation/#p-a7275e).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tujh ko duzdida nigahi"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"stolen glances\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "duzdida nigahi"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 26,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-2-9bc58c (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 26,
+        "paragraph_ids": [
+          "p-b5444d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 26,
+        "paragraph_ids": [
+          "p-4ab922"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 26,
+        "paragraph_ids": [
+          "p-69ebd5",
+          "p-1e12d1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 26,
+      "paragraph_id": "p-4ab922"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 26,
+      "paragraph_id": "p-69ebd5"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 26,
+      "paragraph_id": "p-a7275e"
+    }
+  ],
+  "duration_ms": 33268,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 14706,
+    "completion_tokens": 3472,
+    "total_tokens": 18178,
+    "cached_tokens": 6387,
+    "api_calls": 4,
+    "cost_usd": 0.00371915,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1565,
+        "completion_tokens": 630,
+        "total_tokens": 2195,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006055
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2845,
+        "completion_tokens": 459,
+        "total_tokens": 3304,
+        "cached_tokens": 150,
+        "cost_usd": 0.000776
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 4559,
+        "completion_tokens": 1229,
+        "total_tokens": 5788,
+        "cached_tokens": 1533,
+        "cost_usd": 0.00129635
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 5737,
+        "completion_tokens": 1154,
+        "total_tokens": 6891,
+        "cached_tokens": 4554,
+        "cost_usd": 0.0010413
+      }
+    ]
+  }
+}

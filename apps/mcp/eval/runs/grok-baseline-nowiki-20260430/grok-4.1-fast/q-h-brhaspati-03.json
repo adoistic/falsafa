@@ -1,0 +1,164 @@
+{
+  "answer": "**The Bṛhaspati Smṛti (Chapter 1)** anatomizes the court of justice (*dharmādhikaraṇa*) as a \"ten-limbed instrument\" (*daśāṅga*), presided over by the king.[^1][^2]\n\nThe verse listing the specific limbs mentioned—king as head, appointed judicial officer (*prāḍvivāka*) as mouth, assessors (*sabhāsthāyinaḥ*) as arms, Smṛti as hands, and accountant (*lekhaka*) and scribe (*kāyastha*) together as shanks—is as follows:\n\n> Of these limbs, the king is the head, and the appointed officer is called the mouth;  \n> the assessors are the arms, the Smṛti the hands, and the accountant and scribe the shanks. // Brh_1,1.84 //\n\nThe remaining limbs (eyes: gold, fire, water; heart: king's conscience; feet: his own officer) follow immediately in the next verse.[^3]\n\n[^1]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-a30c28).\n\n[^2]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-508073).\n\n[^3]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-db3b97).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ten-limbed",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ten limbs\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king head mouth arms",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"court of justice\" limbs",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"judicial officer\" mouth",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" head mouth",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smṛti hands",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-a30c28",
+          "p-508073",
+          "p-db3b97",
+          "p-c074ad"
+        ]
+      },
+      "result_summary": "Returned 4 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-a30c28"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-508073"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-db3b97"
+    }
+  ],
+  "duration_ms": 27700,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 129673,
+    "completion_tokens": 2617,
+    "total_tokens": 132290,
+    "cached_tokens": 5351,
+    "api_calls": 4,
+    "cost_usd": 0.02644045,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1611,
+        "completion_tokens": 527,
+        "total_tokens": 2138,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003562
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2146,
+        "completion_tokens": 527,
+        "total_tokens": 2673,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0004632
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 62777,
+        "completion_tokens": 542,
+        "total_tokens": 63319,
+        "cached_tokens": 2141,
+        "cost_usd": 0.01250525
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 63139,
+        "completion_tokens": 1021,
+        "total_tokens": 64160,
+        "cached_tokens": 150,
+        "cost_usd": 0.0131158
+      }
+    ]
+  }
+}

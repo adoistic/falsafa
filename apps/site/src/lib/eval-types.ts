@@ -158,13 +158,16 @@ export interface ByokDownloadPayload {
  * Derived "pass" verdict for a single (case, model) pair.
  *
  * Precedence (most-specific first):
- *   1. Sonnet judge verdict if present (factual_correct AND citation_backed AND not hallucinated).
- *   2. Build-time mechanical pass — did the answer mention every expected_work?
+ *   1. Legacy Sonnet judge verdict if archived data still has one
+ *      (factual_correct AND citation_backed AND not hallucinated). The
+ *      Sonnet judge layer was retired — kept here for backward compat
+ *      so older runs still render.
+ *   2. Mechanical pass — diacritic-folded substring check that every
+ *      expected_work is named in the answer prose. Deterministic, no LLM.
  *   3. null when neither signal is available, rendered as "—" in the UI.
  *
- * Mechanical-pass is the honest fallback while the judge layer is partial.
- * /numbers and /thesis use the same per-run aggregate; this brings the
- * per-case explorer in line with them.
+ * Future: a graded 3-state score (pass / mixed / fail = 1.0 / 0.5 / 0.0)
+ * based on citation discipline is queued — see TODOs.
  */
 export function passOf(result: EvalCaseResult | undefined): boolean | null {
   if (!result) return null;

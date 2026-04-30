@@ -1,0 +1,209 @@
+{
+  "answer": "**The *parwana* (moth) is a longstanding type-figure (archetypal symbol) in Urdu and Persian poetry for the selfless, ecstatic lover.** It represents total devotion to the beloved, symbolized by the *shama* (candle or flame), whose beauty and light irresistibly draw the moth. The moth circles the flame in rapture, ultimately self-immolating in it—embodying passionate longing, willing sacrifice, and annihilation (*fana*) in love's union.[^1]\n\nAllama Iqbal invokes this classic motif directly in his poem \"Shama-o-Parwana\" (*The Candle and the Moth*), where the moth (*parwana*) addresses the candle:\n\n> O Candle, why for you does it hold love so vast?  \n> Why is its restless soul upon your altar cast? ...  \n> To fall before you is its sacred prayer and rite;  \n> Its tiny heart finds bliss in burning with delight. ...  \n> A simple moth, and such a thirst for light's display!  \n> A tiny insect, and for light to yearn this way![^2]\n\nHere, the moth's love is mercurial and ritualistic: it dances (*tawaf*, circumambulation) around the flame, finds ease in deathly anguish, and mirrors Moses (*Kaleem*) beholding divine beauty on Sinai—a \"passion for the Eternal Form Divine.\" Iqbal elevates the trope philosophically, linking it to spiritual yearning beyond mere romance.[^1]\n\nThe image recurs in Iqbal's *Bang-e-Dara*: a child gazes at the candle \"with a moth's desire\" (*tiflak-e-parwana*), evoking innate attraction to light/beauty;[^3] and in existential questioning, \"Does there the moth still perish in the candle's burning fire?\"—probing if love's drama persists beyond this world.[^4]\n\n**This corpus (primarily Iqbal's Urdu *Bang-e-Dara*) illustrates the symbol through poetry but offers no explicit prose treatise defining it.** For broader literary criticism or pre-Iqbal ghazals (e.g., by Ghalib or Mir), consult sources outside the Falsafa corpus, as none appear here.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 41 (\"Shama-o-Parwana\"), translation, [full chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/).\n\n[^2]: Ibid., [¶¶ p-21ea6d, p-d2c29e, p-366a1c](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-21ea6d).\n\n[^3]: Ibid., ch. 15 (\"Bacha aur Shama\"), translation, [¶ p-4b705b](/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/#p-4b705b).\n\n[^4]: Ibid., ch. 32 (\"Mehr-e-roshan\"), translation, [¶ p-c67136](/works/allama-iqbal-bang-e-dara-part-1-55b25c/32-mehr-e-roshan/translation/#p-c67136).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parwana moth lover",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moth\" flame lover",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parwana",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.41 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.41 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.32 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moth\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"flame\" lover",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41,
+        "variant": "translation"
+      },
+      "result_summary": "error BAD_QUERY: get_passage requires either paragraph_ids or paragraph_range"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41,
+        "variant": "translation"
+      },
+      "result_summary": "error BAD_QUERY: get_passage requires either paragraph_ids or paragraph_range"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"candle\" \"moth\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-21ea6d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-d2c29e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-366a1c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-4b705b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-c67136"
+    }
+  ],
+  "duration_ms": 32674,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 18821,
+    "completion_tokens": 4491,
+    "total_tokens": 23312,
+    "cached_tokens": 10174,
+    "api_calls": 4,
+    "cost_usd": 0.0044836,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 467,
+        "total_tokens": 2023,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005222
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3154,
+        "completion_tokens": 765,
+        "total_tokens": 3919,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009908
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6730,
+        "completion_tokens": 1476,
+        "total_tokens": 8206,
+        "cached_tokens": 3149,
+        "cost_usd": 0.00161165
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7381,
+        "completion_tokens": 1783,
+        "total_tokens": 9164,
+        "cached_tokens": 6725,
+        "cost_usd": 0.00135895
+      }
+    ]
+  }
+}

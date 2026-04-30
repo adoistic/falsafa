@@ -1,0 +1,158 @@
+{
+  "answer": "**Allama Iqbal's poem \"Sach keh doon ae Brahman! gar tu bura na maane\" (also known as \"Naya Shivala\" or \"New Shivala\") from *Bang-E-Dara Part 1* is a direct address to a Brahmin, critiquing idol worship and religious division while calling for unity through love of homeland and humanity.**[^1]\n\nHere is the English translation:\n\n> [p-752d60] O Brahmin, if you will not take offense,  \n> Your ancient idols have lost reverence.  \n> \n> [p-c536e2] From them you learned to hold your kin in scorn;  \n> From God, the Preacher learned how war is born.  \n> \n> [p-5af363] Fed up at last, I left both mosque and shrine,  \n> The Preacher’s words, and those old tales of thine.  \n> \n> [p-db56fb] You think your God is in a form of stone;  \n> To me, my homeland's every speck is divine.  \n> \n> [p-3a582d] Come, let us lift the veils of otherness anew,  \n> And wipe away the lines that make us two.  \n> \n> [p-425278] The city of the heart lies desolate,  \n> Come, in this land a new shrine let's create.  \n> \n> [p-948e14] Our pilgrimage must be the world's most high,  \n> Its pinnacle should touch the very sky.  \n> \n> [p-959af2] Let's rise each dawn to sing the sweetest prayer,  \n> And serve the wine of love for all to share.  \n> \n> [p-94fb2e] In faithful songs, both strength and peace reside;  \n> For all this earth, salvation is love's guide.[^2]\n\nIqbal urges the Brahmin to abandon outdated divisions, proposing a new spiritual center in the homeland built on love (*preet*), which unites power (*shakti*) and peace (*shaanti*).\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 36 \"Sach keh doon ae Brahman! gar tu bura na maane\" (transliteration: \"Sach keh doon ae Brahman! gar tu bura na maane\").\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 36 (full passage: paragraphs p-752d60 through p-94fb2e).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sach Keh Doon Ae Brahman Gar Tu Bura Na Maane"
+      },
+      "result_summary": "Found 24 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.36 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.36 of allama-iqbal-bang-e-dara-part-1-55b25c (original)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-752d60"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-c536e2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-5af363"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-db56fb"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-3a582d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-425278"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-948e14"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-959af2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-94fb2e"
+    }
+  ],
+  "duration_ms": 22707,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 15513,
+    "completion_tokens": 2247,
+    "total_tokens": 17760,
+    "cached_tokens": 7493,
+    "api_calls": 3,
+    "cost_usd": 0.0031021499999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1559,
+        "completion_tokens": 440,
+        "total_tokens": 1999,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003023
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5819,
+        "completion_tokens": 482,
+        "total_tokens": 6301,
+        "cached_tokens": 149,
+        "cost_usd": 0.00138245
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 8135,
+        "completion_tokens": 1325,
+        "total_tokens": 9460,
+        "cached_tokens": 5814,
+        "cost_usd": 0.0014174
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "answer": "**The Falsafa corpus does not contain translated texts that discuss the Samkhya philosophical concept of *guna*—specifically its technical triad of *sattva* (purity/goodness), *rajas* (passion/activity), and *tamas* (ignorance/inertia)—or compare it to English terms like \"quality\" or \"attribute.\"**\n\nSearches across the English translations for key phrases like \"guna sattva rajas tamas,\" \"samkhya guna,\" and \"\\\"sattva\\\" \\\"rajas\\\" \\\"tamas\\\"\" returned zero results. The corpus includes several ancient Indic/Sanskrit Smṛti texts (e.g., *Manusmṛti*, *Yājñavalkya Smṛti*), which touch on dharma and ethics but do not delve into Samkhya metaphysics or the constitutive role of the *guṇas* as primordial cosmic principles. Core Samkhya works like Īśvarakṛṣṇa's *Sāṃkhyakārikā* are not present among the 37 works. Without direct evidence from the corpus, I cannot cite passages or analyze the terminological nuance you describe. If the corpus expands to include Darśana texts, this could change.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "guna sattva rajas tamas",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sattva\" \"rajas\" \"tamas\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "samkhya guna",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Indian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 14949,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 4147,
+    "completion_tokens": 1514,
+    "total_tokens": 5661,
+    "cached_tokens": 3064,
+    "api_calls": 2,
+    "cost_usd": 0.0011268,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1570,
+        "completion_tokens": 489,
+        "total_tokens": 2059,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0003287
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2577,
+        "completion_tokens": 1025,
+        "total_tokens": 3602,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0007981
+      }
+    ]
+  }
+}

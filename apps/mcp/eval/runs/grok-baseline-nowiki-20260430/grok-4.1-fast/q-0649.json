@@ -1,0 +1,327 @@
+{
+  "answer": "In the Smṛti corpus, *atithyam* (hospitality) refers to the ritualized honoring of an *atithi*—typically an unexpected traveling Brahmin guest who arrives unannounced, especially during the *Vaiśvadeva* oblation (the daily ritual meal offering to all deities).[^1] [^2] [^3] An *atithi* is defined etymologically as one who comes without a fixed (*anitya*) time or prior arrangement: a weary traveler from afar, not a local resident, relative, or someone arriving for a specific purpose (e.g., social or business reasons), even if arriving when the wife or sacred fires are present.[^4] [^5] [^6] Hospitality entails providing a seat, water for washing feet (*pādya*), respectful words (*arghya* or pleasant inquiry), and food according to ability, without scrutiny of the guest's lineage, learning, or character—treating them as an embodiment of all deities.[^7] [^8] The guest must not be turned away hungry, especially if arriving at sunset or evening; neglect shatters their hopes, rendering the householder's offerings fruitless, sending ancestors to hell (or denying them food for 15 years), and dooming the householder to rebirth as a crow or similar.[^9] [^10] [^11]\n\nAmong householder (*gṛhastha*) duties, *atithyam* ranks as one of the *pañca-mahāyajñas* (five great sacrifices), performed daily alongside oblations to gods (*devayajña*, via *homa*), ancestors (*pitṛyajña*), beings (*bhūteyajña*, via *bali*), and Brahma (*brahmayajña*, via Vedic study).[^12] [^13] [^14] It is the \"sacrifice to men\" (*manuṣyayajña*), binding the householder to support the world, as all stages of life depend on the *gṛhastha*.[^15] Pārāśara lists it explicitly among six daily duties (twilight worship, *japa*, *homa*, deity/guest worship, *Vaiśvadeva*, and *atithi* hospitality).[^16] Viṣṇu equates the *atithi* to the \"lord of the householder,\" superior even to Vedic study or *agnihotra* for attaining heaven.[^17] Neglect equates the householder to a corpse (breathing but dead), while fulfillment yields wealth, fame, long life, heaven, and ancestral satisfaction.[^18] [^19]\n\nThe *gṛhastha* āśrama is paramount, as it sustains society; *atithyam* ensures this by channeling merit to ancestors and gods via the guest's \"mouth-fire.\"[^20] It must precede the householder's meal, after deities/ancestors/servants but before one's own eating.[^21]\n\n[^1]: Pārāśara Smṛti, Ch. 1, [p-40daa2](/works/unknown-parasara-smrti-2259be/01/translation/#p-40daa2).\n\n[^2]: Manusmṛti, Ch. 3, [p-0f3d0c](/works/unknown-manusmrti-347b76/03/translation/#p-0f3d0c).\n\n[^3]: Yājñavalkya Smṛti, Ch. 1, [p-76e5e9](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-76e5e9).\n\n[^4]: Manusmṛti, Ch. 3, [p-499a59](/works/unknown-manusmrti-347b76/03/translation/#p-499a59).\n\n[^5]: Viṣṇu Smṛti, Ch. 67, [p-653828](/works/unknown-visnu-smrti-27f0d8/67/translation/#p-653828).\n\n[^6]: Pārāśara Smṛti, Ch. 1, [p-20eb98](/works/unknown-parasara-smrti-2259be/01/translation/#p-20eb98).\n\n[^7]: Manusmṛti, Ch. 3, [p-de0b29](/works/unknown-manusmrti-347b76/03/translation/#p-de0b29).\n\n[^8]: Pārāśara Smṛti, Ch. 1, [p-189326](/works/unknown-parasara-smrti-2259be/01/translation/#p-189326).\n\n[^9]: Pārāśara Smṛti, Ch. 1, [p-d461ee](/works/unknown-parasara-smrti-2259be/01/translation/#p-d461ee).\n\n[^10]: Viṣṇu Smṛti, Ch. 67, [p-653828](/works/unknown-visnu-smrti-27f0d8/67/translation/#p-653828).\n\n[^11]: Manusmṛti, Ch. 3, [p-bdf3a3](/works/unknown-manusmrti-347b76/03/translation/#p-bdf3a3).\n\n[^12]: Manusmṛti, Ch. 3, [p-0f3d0c](/works/unknown-manusmrti-347b76/03/translation/#p-0f3d0c).\n\n[^13]: Yājñavalkya Smṛti, Ch. 1, [p-76e5e9](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-76e5e9).\n\n[^14]: Viṣṇu Smṛti, Ch. 59, [p-8b8069](/works/unknown-visnu-smrti-27f0d8/59/translation/#p-8b8069) (expiation via *pañca mahāyajña*).\n\n[^15]: Manusmṛti, Ch. 3, [p-8dccef](/works/unknown-manusmrti-347b76/03/translation/#p-8dccef).\n\n[^16]: Pārāśara Smṛti, Ch. 1, [p-40daa2](/works/unknown-parasara-smrti-2259be/01/translation/#p-40daa2).\n\n[^17]: Viṣṇu Smṛti, Ch. 67, [p-571c76](/works/unknown-visnu-smrti-27f0d8/67/translation/#p-571c76).\n\n[^18]: Manusmṛti, Ch. 3, [p-f62342](/works/unknown-manusmrti-347b76/03/translation/#p-f62342).\n\n[^19]: Pārāśara Smṛti, Ch. 1, [p-c8d49b](/works/unknown-parasara-smrti-2259be/01/translation/#p-c8d49b).\n\n[^20]: Manusmṛti, Ch. 3, [p-5ad02b](/works/unknown-manusmrti-347b76/03/translation/#p-5ad02b).\n\n[^21]: Viṣṇu Smṛti, Ch. 67, [p-af2d48](/works/unknown-visnu-smrti-27f0d8/67/translation/#p-af2d48).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "atithya",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hospitality",
+        "limit": 20
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"guest offering\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"householder duties\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "atithyam",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "atithi",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "guest",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mahāyajña"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"great sacrifice\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 67
+      },
+      "result_summary": "Read ch.67 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of unknown-manusmrti-347b76 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-40daa2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-0f3d0c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-76e5e9"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-499a59"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-653828"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-20eb98"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-de0b29"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-189326"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-d461ee"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-bdf3a3"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-8b8069"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-8dccef"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-571c76"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-f62342"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-c8d49b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-5ad02b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-af2d48"
+    }
+  ],
+  "duration_ms": 54888,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 84776,
+    "completion_tokens": 5391,
+    "total_tokens": 90167,
+    "cached_tokens": 5529,
+    "api_calls": 4,
+    "cost_usd": 0.01882135,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1561,
+        "completion_tokens": 687,
+        "total_tokens": 2248,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0004259
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3702,
+        "completion_tokens": 1127,
+        "total_tokens": 4829,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012814
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 12033,
+        "completion_tokens": 1271,
+        "total_tokens": 13304,
+        "cached_tokens": 3697,
+        "cost_usd": 0.00248755
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 67480,
+        "completion_tokens": 2306,
+        "total_tokens": 69786,
+        "cached_tokens": 150,
+        "cost_usd": 0.0146265
+      }
+    ]
+  }
+}

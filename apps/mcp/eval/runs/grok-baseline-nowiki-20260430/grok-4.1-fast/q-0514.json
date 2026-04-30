@@ -1,0 +1,255 @@
+{
+  "answer": "**Vīramitrodaya** (*Samayaprakāśa*, Chapter 1)[^1]\n\nThis work is a comprehensive digest dedicated to the determination of proper times (*kāla-niścaya*) for all ritual actions, including *tithis* (lunar days), *muhūrtas* (auspicious moments), *nakṣatras* (lunar mansions), yogas, solstices, equinoxes, eclipses, intercalary months, and specific rules for *śrāddha* (ancestral rites), sacrifices (*yajña*), vows (*vrata*), *homa* (fire offerings), and more. It details auspicious and inauspicious times, prohibitions, and options for daily, occasional, and optional rites across genres like *pārvaṇa*, *ekoddiṣṭa*, and *daivika śrāddhas*, with precise measures (e.g., three *muhūrtas* for afternoon rites). The entire chapter is structured around Vedic and Smārta authorities for ritual timing.\n\n**Manusmṛti** (Chapters 2, 3, 4)[^2][^3]\n\nDiscusses Brahma-muhūrta for awakening and contemplation of Dharma; auspicious times for sacraments like name-giving (10th/12th day or favorable *tithi*/*muhūrta*/*nakṣatra*); times for *śrāddha* (new moon, full moon, Aṣṭakās); and seasonal rules for fire-establishment (*agnyādheya*).\n\n**Āṅgirasa Smṛti** (Chapter 1)[^4]\n\nCovers *muhūrtas* in eclipses for *śrāddha* (e.g., after two *muhūrtas* post-eclipse); void *tithis* (*śūnyatithi*) requiring redo; *manvādi* dates; eclipse timings; and ritual purity rules tied to auspicious moments.\n\n**Other Smṛtis** (e.g., Yājñavalkya Smṛti, Paraśara Smṛti, Bṛhaspati Smṛti, Viṣṇu Smṛti, Yama Smṛti, Kātyāyana Smṛti)\n\nThese contain scattered references to auspicious *tithis*, *muhūrtas*, and *nakṣatras* for *śrāddha*, vows, and penances, often aligning with Manusmṛti (e.g., new moon *śrāddha*, seasonal rites). Kātyāyana's 80 chapters likely include procedural timings, but no specific focus on ritual calendars.\n\nThe corpus lacks comprehensive coverage in Western philosophy or poetry; Indic Smṛtis dominate. Vīramitrodaya is the most dedicated; others reference specifics like *śrāddha* timings or Brahma-muhūrta.\n\n[^1]: Vīramitrodaya, Chapter 1, [full chapter](/works/unknown-viramitrodaya-d4b632/01/translation/).\n\n[^2]: Manusmṛti, Chapter 4, Paragraph p-8b8ea4, [Brahma-muhurta](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).\n\n[^3]: Manusmṛti, Chapter 2, Paragraph p-4cc3e8, [auspicious muhūrta for name-giving](/works/unknown-manusmrti-347b76/02/translation/#p-4cc3e8).\n\n[^4]: Āṅgirasa Smṛti, Chapter 1, [multiple paragraphs on muhūrtas, tithis, eclipses](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-b04859).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "proper time ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proper time\" ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"time for\" ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "auspicious time ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proper time\" sacrifice",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "muhurta",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "muhūrta",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tithi",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nakshatra ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proper time\" OR \"auspicious time\" OR muhurta ritual OR sacrifice OR vrata",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"at the proper time\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-viramitrodaya-d4b632 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "Listed 80 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "proper time OR auspicious time OR muhurta OR tithi OR nakshatra OR yoga ritual OR sacrifice OR homa OR sraddha OR vrata",
+        "limit": 30
+      },
+      "result_summary": "Found 1 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-8b8ea4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-4cc3e8"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-b04859"
+    }
+  ],
+  "duration_ms": 113304,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 424904,
+    "completion_tokens": 4913,
+    "total_tokens": 429817,
+    "cached_tokens": 21805,
+    "api_calls": 4,
+    "cost_usd": 0.16317385,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 809,
+        "total_tokens": 2359,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00048515
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5186,
+        "completion_tokens": 1265,
+        "total_tokens": 6451,
+        "cached_tokens": 1538,
+        "cost_usd": 0.001439
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 13562,
+        "completion_tokens": 1244,
+        "total_tokens": 14806,
+        "cached_tokens": 5181,
+        "cost_usd": 0.00255725
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 404606,
+        "completion_tokens": 1595,
+        "total_tokens": 406201,
+        "cached_tokens": 13557,
+        "cost_usd": 0.15869245
+      }
+    ]
+  }
+}

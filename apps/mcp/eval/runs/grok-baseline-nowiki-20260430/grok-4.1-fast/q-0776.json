@@ -1,0 +1,73 @@
+{
+  "answer": "**The Falsafa corpus does not contain a work titled *San Hyan Tattvajnana* (or close variants like *Śaṅkhya Tattvajñāna*, *Śaiva Tattvajñāna*, etc.), nor does it include any passages discussing the relation between *pradhāna* (primordial nature) and Śiva.** \n\nI checked via full-corpus searches for key terms like \"pradhana siva\" and \"tattvajnana\", which returned zero results. A listing of Sanskrit-language works (primarily Smṛtis like *Manusmṛti*) yielded no matches. The corpus has 37 works focused on translated philosophical and classical texts, but this specific text or topic is not covered. If you have more details on the title/author or an alternate spelling, I can search further.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pradhana siva",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"San Hyan Tattvajnana\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tattvajnana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 24576,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 4079,
+    "completion_tokens": 2757,
+    "total_tokens": 6836,
+    "cached_tokens": 1683,
+    "api_calls": 2,
+    "cost_usd": 0.00194185,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1565,
+        "completion_tokens": 1840,
+        "total_tokens": 3405,
+        "cached_tokens": 1533,
+        "cost_usd": 0.00100305
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2514,
+        "completion_tokens": 917,
+        "total_tokens": 3431,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009388
+      }
+    ]
+  }
+}

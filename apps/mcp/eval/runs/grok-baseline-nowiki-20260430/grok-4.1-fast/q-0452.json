@@ -1,0 +1,194 @@
+{
+  "answer": "**The Falsafa corpus contains limited philosophical engagement with free will, determinism, or fate.** Direct discussions of *free will* appear in two 19th-century French liberal works and one early German Enlightenment text, where the concept is tied to human agency, moral liberty, and resistance to determinism or external compulsion. *Determinism* yields no matches. *Fate* (often \"wyrd\" in Old English) appears extensively in one medieval Christian poem, framed as divine providence rather than impersonal necessity, contrasting pagan resignation with heroic obedience to God's will.[^1]\n\nNo classical treatments (e.g., Stoic fate, Augustinian predestination, or Islamic qadar) are present, as the 37 works emphasize economics, law (smṛtis), poetry, and hagiography over metaphysics.\n\n### Works Engaging Free Will\n- **Nouveau traité d'économie: VOL I** (Charles Dunoyer): Chapter 1 opens by noting the debate—\"whether [man] gives his attention... according to one's own free will, or moral liberty\"—before rejecting determinism (all acts as \"necessary consequences\" of external shocks) to define liberty as power over faculties freed from obstacles.[^2]\n- **Zurückforderung der Denkfreiheit von den Fürsten Europens** (Johann Gottlieb Fichte): Chapter 2 ties free will to personhood: resisting \"blind mechanism of idea association... according to one's own free will\" distinguishes humanity from animals; it is inalienable, enabling moral law and thought-freedom against princely coercion.[^3]\n\n### Works Engaging Fate\n- **Andreas** (Cynewulf): The poem repeatedly invokes *fate* (wyrd) as God's ordained trials for apostles (e.g., Matthew's doom, Andrew's voyage), blending heroic ethos with Christian providence—fates \"handed... by the Lord Himself,\" yet escapable through faith, not inevitability.[^4]\n\nCasual mentions (e.g., fate as misfortune in Āṅgirasa Smṛti or Iqbal's poetry; \"necessity\" in economic contexts) do not constitute engagement.[^5]\n\n[^1]: *Andreas*, Ch. 1, [full chapter](/works/cynewulf-andreas-07b573/01/translation/).\n\n[^2]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, Ch. 1, [p-3922ae](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-3922ae).\n\n[^3]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Ch. 2, [p-e62dae](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-e62dae).\n\n[^4]: *Andreas*, Ch. 1, [p-868413](/works/cynewulf-andreas-07b573/01/translation/#p-868413); [p-f6e450](/works/cynewulf-andreas-07b573/01/translation/#p-f6e450).\n\n[^5]: E.g., *Manusmṛti* 9.59 on \"free will\" in remarriage; *Āṅgirasa Smṛti* 1.38 on \"stroke of fate.\"",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "free will",
+        "limit": 50
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "determinism",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fate",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "predestination",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "predestined",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "foreknowledge",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"divine decree\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "necessity",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"free will\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wyrd",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-3922ae"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-e62dae"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-868413"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-f6e450"
+    }
+  ],
+  "duration_ms": 39940,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 73523,
+    "completion_tokens": 3604,
+    "total_tokens": 77127,
+    "cached_tokens": 15385,
+    "api_calls": 3,
+    "cost_usd": 0.014198849999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 858,
+        "total_tokens": 2412,
+        "cached_tokens": 149,
+        "cost_usd": 0.00071745
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15091,
+        "completion_tokens": 1437,
+        "total_tokens": 16528,
+        "cached_tokens": 150,
+        "cost_usd": 0.0037142
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 56878,
+        "completion_tokens": 1309,
+        "total_tokens": 58187,
+        "cached_tokens": 15086,
+        "cost_usd": 0.0097672
+      }
+    ]
+  }
+}

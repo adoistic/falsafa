@@ -1,0 +1,206 @@
+{
+  "answer": "**In Allama Iqbal's poem \"Khitab ba Jawanan-e-Islam\" (\"An Address to the Muslim Youth\") from *Bang-e-Dara Part 3*, he directly addresses the Muslim youth (\"O Muslim youth\") and reflects on their glorious ancestors early in the verse.**[^1]\n\nThe key opening lines are:\n\n> Have you ever,  \n> O Muslim youth, paused for solemn reflection?  \n> What was that  \n> firmament, of which you are but a shattered star?  \n> You were raised  \n> in the embrace of love by that very nation  \n> which once crushed  \n> underfoot the crown upon the head of Darius.  \n> Creators of civilization,  \n> architects of the laws of empire,  \n> they came from  \n> the Arabian desert—that cradle of camel-herders.[^2]\n\nIqbal continues to describe these forefathers as world-conquerors from humble origins, proud in poverty, and contrasts them with the present generation: \"You can have no true kinship with your forefathers, for you are all talk, they were all action...\" He laments the loss of their inheritance, especially their books now held in Europe.[^2]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Khitab ba Jawanan-e-Islam\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-0291d8).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Khitab ba Jawanan-e-Islam\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Muslim youth\" ancestors Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"young men of Islam\" ancestors",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancestors youth Islam Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"youth of Islam\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"young men\" Islam ancestors",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Muslim youth\" OR \"youth of Islam\" OR \"young Muslims\" ancestors",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal youth ancestors",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-365462"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-0291d8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-0291d8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-365462"
+    }
+  ],
+  "duration_ms": 30486,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 23199,
+    "completion_tokens": 3801,
+    "total_tokens": 27000,
+    "cached_tokens": 16078,
+    "api_calls": 5,
+    "cost_usd": 0.0041286,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 694,
+        "total_tokens": 2256,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00043005
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2163,
+        "completion_tokens": 900,
+        "total_tokens": 3063,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008601
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5738,
+        "completion_tokens": 223,
+        "total_tokens": 5961,
+        "cached_tokens": 2158,
+        "cost_usd": 0.0009354
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 6513,
+        "completion_tokens": 865,
+        "total_tokens": 7378,
+        "cached_tokens": 5733,
+        "cost_usd": 0.00087515
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 7223,
+        "completion_tokens": 1119,
+        "total_tokens": 8342,
+        "cached_tokens": 6508,
+        "cost_usd": 0.0010279
+      }
+    ]
+  }
+}

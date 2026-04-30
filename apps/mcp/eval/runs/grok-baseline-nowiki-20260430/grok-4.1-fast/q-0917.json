@@ -1,0 +1,253 @@
+{
+  "answer": "**The specific phrases \"in propria persona\" (meaning \"in one's own person,\" often used in legal contexts for self-representation) and \"de jure\" (meaning \"by law\" or \"as a matter of right\") do not appear in the English translations of Charles Comte's works in the Falsafa corpus.**[^1]\n\nComte, a French jurist writing in the early 19th century amid the Napoleonic legal tradition (itself deeply rooted in Roman law via Justinian's *Corpus Juris Civilis*), does however extensively incorporate juridical Latin through direct quotations from classical Roman and early modern legal authorities. This reflects the pervasive influence of \"French juridical Latin\"—technical phrases from the *Digest*, *Institutes*, and natural law theorists like Grotius and Pufendorf, which permeated French legal education, commentary, and practice (e.g., in the *Code civil* era). Comte cites them to ground his arguments on property, occupation, and natural rights, often in footnotes to lend authoritative weight.\n\n### Pinned Examples from *Traité de la propriété*, Vol. I, Ch. 4 (\"De l'occupation des choses\")\nComte invokes Latin maxims to justify occupation (*occupantis*) as a natural mode of acquiring property:\n\n- \"*Quod enim nullius est, id ratione naturali occupant; conceditur.*\" (*Digest*, lib. 4, tit. 1, leg. 3 *princ.*): \"For what belongs to no one is, by natural reason, given to the occupant.\" This Roman law principle directly supports Comte's claim that seizing unowned things confers property rights.[^2]\n  \nHe pairs it with citations of Latin-titled works:\n- Grotius, *De jure belli ac pacis* (lib. 2, cap. 2, § 4 et 5): On the law (*de jure*) of war and peace, addressing occupation.[^2]\n- Pufendorf, *De jure naturæ et gentium* (lib. IV, cap. 6; and lib. xv [sic, likely IV], cap. IV, § 4): On the law (*de jure*) of nature and nations, including \"*Unde etiam jus naturæ intelligitur adprobare omnes conventiones... Ergo proprietas rerum immediatè ex conventione hominum... profluxit.*\" (\"Hence natural law approves all conventions regarding things... Thus property flows immediately from human convention, tacit or express\").[^2]\n\nLater footnotes cite more Roman sources:\n- Gaius *Instit.*, Justinian *Instit.* (*Dig.*, lib. 41, tit. 1): On islands, wild animals, and treasures as occupiable.[^3]\n\nThese are not casual flourishes but precise juridical references, typical of French legal writing (e.g., Pothier or Domat), embedding Roman *jus naturale* and *jus gentium* into Comte's liberal theory of property as arising from liberty and first seizure, not state grant.\n\nNo similar uses appear in sampled chapters of *Traité de Législation* (e.g., Vol. I, Ch. 5 on natural laws), where Comte critiques jurists but cites fewer Latin phrases.[^4] The corpus (37 works) covers classical philosophy but not exhaustive French legal texts, so additional instances may exist outside it.\n\n[^1]: Multiple `search_corpus` queries for \"\\\"in propria persona\\\"\", \"\\\"de jure\\\"\", \"\\\"propria persona\\\"\", \"\\\"in propria\\\"\", \"persona\", and \"jure\" across Comte's works (*Traité de la propriété* Vols. I-II; *Traité de Législation* Vols. I-IV) yielded no matches for the phrases, only title citations and unrelated \"jure\" fragments.\n\n[^2]: Charles Comte, *Traité de la propriété*, Vol. I, Ch. 4, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-75e71b).\n\n[^3]: Charles Comte, *Traité de la propriété*, Vol. I, Ch. 4, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-75e71b).\n\n[^4]: E.g., Charles Comte, *Traité de Législation*, Vol. I, Ch. 5, full chapter read; no juridical Latin phrases beyond general references to jurisconsults.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"in propria persona\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"de jure\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"in propria\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "propria persona",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "de jure",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"de jure\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"in propria persona\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "persona",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"de jure\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jure",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"persona\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-75e71b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"propria persona\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"in propria\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "persona",
+        "limit": 5
+      },
+      "result_summary": "Found 5 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-75e71b"
+    }
+  ],
+  "duration_ms": 50282,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 68837,
+    "completion_tokens": 5469,
+    "total_tokens": 74306,
+    "cached_tokens": 39460,
+    "api_calls": 5,
+    "cost_usd": 0.0105829,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1561,
+        "completion_tokens": 538,
+        "total_tokens": 2099,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00035185
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2471,
+        "completion_tokens": 739,
+        "total_tokens": 3210,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008412
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7057,
+        "completion_tokens": 934,
+        "total_tokens": 7991,
+        "cached_tokens": 2466,
+        "cost_usd": 0.0015085
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 28268,
+        "completion_tokens": 1170,
+        "total_tokens": 29438,
+        "cached_tokens": 7052,
+        "cost_usd": 0.0051808
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 29480,
+        "completion_tokens": 2088,
+        "total_tokens": 31568,
+        "cached_tokens": 28263,
+        "cost_usd": 0.00270055
+      }
+    ]
+  }
+}

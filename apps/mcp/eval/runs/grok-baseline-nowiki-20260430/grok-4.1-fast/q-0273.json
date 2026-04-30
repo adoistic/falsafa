@@ -1,0 +1,221 @@
+{
+  "answer": "Iqbal's \"Bachay ki Dua\" (\"A Child's Prayer\") presents a poetic supplication voiced by a child, aspiring for a life of luminous service, passionate pursuit of knowledge, national pride, advocacy for the vulnerable, and divine moral guidance.[^1] This prayer implicitly pedagogizes through aspirational imagery—likening life to a candle's self-consuming flame that dispels darkness, a flower adorning the homeland, or a moth drawn inexorably to the \"candle of knowledge\"—fostering an individualistic, emotionally fervent ethos of self-sacrifice, enlightenment, and social compassion within a modern, pan-Islamic nationalist framework.[^2]\n\nIn contrast, Manusmṛti Chapter 2 prescribes a regimented regimen for the *brahmacāri* (celibate student), including mandatory twilight prayers (*sandhyāvandana*) involving the recitation of *Oṃ*, the *vyāhṛtis* (*bhūr bhuvaḥ svar*), and the *Sāvitrī* hymn.[^3] These rituals, performed standing at dawn (until sunrise) and seated at dusk (until stars appear), are embedded in a broader disciplinary pedagogy emphasizing sensory restraint, ritual purity, unwavering service to the *guru* (teacher, equated to a father superior even to one's biological parent), Vedic study, and hierarchical social duties tied to *varṇa* (caste).[^4] The prayers serve to expunge daily sins, cultivate *tapas* (austerity) for attaining Brahma, and reinforce obedience, with non-compliance equating the twice-born (*dvija*) to a *śūdra*.[^5]\n\n**Key similarities in implicit pedagogies:** Both deploy prayer as a formative tool for moral and spiritual maturation—the child's plea in Iqbal echoes the *brahmacāri*'s dawn/dusk recitations in seeking light (knowledge as \"shining light\" vs. *Sāvitrī* as Brahma's \"mouth\"), guidance on the \"righteous path,\" and service (to the poor vs. to *guru* and deities).[^6] Each instills self-control and transcendence of ego: Iqbal via metaphorical annihilation in knowledge's flame, Manu via vow-bound celibacy and sense mastery.[^7]\n\n**Key differences:** Iqbal's pedagogy is lyrical, universalist, and inwardly motivational, shaping a sovereign self for worldly impact (homeland pride, weak's upliftment) without institutional oversight.[^8] Manu's is externally imposed, ritualistic, and collectivist, prioritizing purity, lineage preservation, and *varṇa*-dharma through guru-devotion and prohibitions (e.g., avoiding women, overeating), with salvation (*mokṣa*) as otherworldly reward.[^9] Iqbal evokes voluntary longing; Manu enforces compulsory discipline, where prayer is one cog in a lifelong *āśrama* (life-stage) system.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 16 (\"Bachay Ki Dua\"), [translation/](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/).\n[^2]: Ibid., [p-a0420d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-a0420d), [p-28b7ba](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-28b7ba), [p-4bb8de](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-4bb8de).\n[^3]: *Manusmṛti*, ch. 2, [translation/](/works/unknown-manusmrti-347b76/02/translation/), esp. Mn_2.76–83 (drawing *Oṃ* and *Sāvitrī* from Vedas), Mn_2.101–104 (twilight rules).\n[^4]: Ibid., Mn_2.88–100 (sense control), Mn_2.140–153 (*guru* as superior father), Mn_2.164–175 (*tapas* via study/prayer).\n[^5]: Ibid., Mn_2.103 (neglect equals *śūdra* status), Mn_2.82 (recitation yields Brahma).\n[^6]: Iqbal, *Bang-E-Dara Part 1*, ch. 16, [p-4bb8de](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-4bb8de), [p-39abc8](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-39abc8); *Manusmṛti*, ch. 2, Mn_2.102 (sin removal), Mn_2.78 (*Sāvitrī* merit).\n[^7]: Iqbal, *Bang-E-Dara Part 1*, ch. 16, [p-01b332](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-01b332); *Manusmṛti*, ch. 2, Mn_2.93–99, Mn_2.180 (celibacy).\n[^8]: Iqbal, *Bang-E-Dara Part 1*, ch. 16, [p-b049bf](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-b049bf), [p-877b09](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-877b09).\n[^9]: *Manusmṛti*, ch. 2, Mn_2.41–47 (initiation garb), Mn_2.212–216 (women avoidance), Mn_2.249 (perfection via studentship).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bachay ki Dua\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmacari prayer"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"child's prayer\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "hindu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"child\" prayer iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dua iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmacari OR student prayer manu OR manusmriti"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-a0420d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-28b7ba"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-4bb8de"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-39abc8"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-01b332"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-b049bf"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-877b09"
+    }
+  ],
+  "duration_ms": 50933,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 43408,
+    "completion_tokens": 4855,
+    "total_tokens": 48263,
+    "cached_tokens": 15490,
+    "api_calls": 4,
+    "cost_usd": 0.008785600000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1569,
+        "completion_tokens": 755,
+        "total_tokens": 2324,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006688
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2279,
+        "completion_tokens": 1065,
+        "total_tokens": 3344,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009658
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12921,
+        "completion_tokens": 494,
+        "total_tokens": 13415,
+        "cached_tokens": 2274,
+        "cost_usd": 0.0024901
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 26639,
+        "completion_tokens": 2541,
+        "total_tokens": 29180,
+        "cached_tokens": 12916,
+        "cost_usd": 0.0046609
+      }
+    ]
+  }
+}

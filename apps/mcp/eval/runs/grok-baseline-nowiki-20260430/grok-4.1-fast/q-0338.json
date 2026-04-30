@@ -1,0 +1,191 @@
+{
+  "answer": "Iqbal's poem *Phool ka tohfa ata hone par* (\"On Receiving a Flower as Gift\"), chapter 15 of *Bang-E-Dara Part 3*, indeed offers a tender, introspective interlude amid the volume's heavier themes of Islamic revivalism, nationalism, and philosophical exhortation (e.g., *Shikwa* and *Tarana-e-Milli* elsewhere in Part 3).[^1] In the poem, the gifted flower—plucked from the garden and chosen by a graceful woman—achieves fulfillment through its \"sharp pain of severance,\" reaching \"communion’s height\" and \"perfection’s purest light.\"[^2] The speaker contrasts this with his own \"lotus,\" the \"single pride\" of his youthful garden, which remains unplucked, unembraced, and forever unfulfilled: \"No coming spring will ever coax its petals to unfold, / The wait for the gatherer’s hand just keeps it sad and cold.\" This evokes a poignant melancholy about unrealized potential, using floral metaphor for personal longing in a subtle, almost romantic key.\n\nBy contrast, *Bang-E-Dara Part 1* features numerous lighter, child-oriented poems that employ playful fables, innocent wonder, and moral lessons, often with whimsical dialogue or nostalgic simplicity suitable for young readers.[^3] For instance, *Bacha aur Shama* (\"Child and Moth,\" chapter 15) depicts a child mesmerized by a candle flame, prompting philosophical musings on veiled inner light versus unveiled fire: \"The candle is a flame, but you are pure light; / Ah! It's unveiled, while you are veiled from sight.\"[^4] Similarly, *Bachay Ki Dua* (\"A Child's Prayer,\" chapter 16) is an earnest, aspirational plea: \"O God, may my life be like a candle's flare. / May my life's spark dispel the darkness of the world.\"[^5] Fable-like tales abound, such as *Ek Pahar aur Gilehri* (\"A Mountain and a Squirrel,\" chapter 21), where the tiny squirrel rebukes the haughty mountain's boasts of size with nimble wit: \"That I'm not large like you is no disgrace to me; / For you are not as small as I am, you can see.\"[^6] Even patriotic verses like *Hindustani Bachon Ka Qaumi Geet* (\"National Anthem for Indian Children,\" chapter 26) adopt a rhythmic, chant-like joy in celebrating the homeland.[^7] Nostalgic pieces like *Ehd-e-Tifli* (\"The Age of Childhood,\" chapter 19) capture unadulterated curiosity: \"The earth and sky, a newfound realm for me, / My mother's lap, a universe for me.\"[^8]\n\nThe comparison underscores tonal divergence: Part 3's flower poem layers tenderness with existential ache, a mature reflection on sacrifice and solitude within a \"programmatic\" call to awakening. Part 1's children's poems, however, radiate buoyancy—using animals, children, and nature for accessible wisdom, unburdened by the later volume's weighty urgency. This shift mirrors Iqbal's progression from playful pedagogy to profound invocation across *Bang-E-Dara*.\n\n[^1]: Full chapter: [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/15-phool-ka-tohfa-ata-hone-par/translation/].\n\n[^2]: [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/15-phool-ka-tohfa-ata-hone-par/translation/#p-10eae3].\n\n[^3]: Full chapter list for Part 1: See chapters 15–16, 19, 21, 26.\n\n[^4]: Full chapter: [/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/].\n\n[^5]: Full chapter: [/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/].\n\n[^6]: Full chapter: [/works/allama-iqbal-bang-e-dara-part-1-55b25c/21-ek-pahar-aur-gilehri/translation/].\n\n[^7]: Full chapter: [/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/].\n\n[^8]: Full chapter: [/works/allama-iqbal-bang-e-dara-part-1-55b25c/19-ehd-e-tifli/translation/].",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Phool ka Tohfa Ata Hone Par\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"flower as gift\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "children's poems iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"children\" OR \"child\" OR \"bachche\" iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "children OR bachche OR kids part 1 iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 21,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 19,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 19,
+      "paragraph_id": "p-10eae3"
+    }
+  ],
+  "duration_ms": 36006,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 54309,
+    "completion_tokens": 4444,
+    "total_tokens": 58753,
+    "cached_tokens": 29651,
+    "api_calls": 4,
+    "cost_usd": 0.008636149999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1581,
+        "completion_tokens": 437,
+        "total_tokens": 2018,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005122
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6574,
+        "completion_tokens": 846,
+        "total_tokens": 7420,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00150845
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21408,
+        "completion_tokens": 1242,
+        "total_tokens": 22650,
+        "cached_tokens": 6569,
+        "cost_usd": 0.00391725
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 24746,
+        "completion_tokens": 1919,
+        "total_tokens": 26665,
+        "cached_tokens": 21403,
+        "cost_usd": 0.00269825
+      }
+    ]
+  }
+}

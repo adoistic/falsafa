@@ -1,0 +1,237 @@
+{
+  "answer": "**Allama Iqbal's *Bang-e-Dara* (The Call of the Marching Bell), a seminal Urdu poetry collection split across three works in the corpus, contains several poems that directly address stars (often personified) or are named after them.**[^1][^2][^3] These are individual poems (chapters) structured as verse, contemplating themes like transience, motion, beauty, and cosmic longing through stellar imagery. No other poems in the corpus—such as Cynewulf's Old English signed poems (*Andreas*, *Elene*, *Juliana*), the *Old English Elegies*, or ghazals in *Diwan-e-Ghalib* and *Diwan-e-Zauq*—are named after a star or primarily address one as their central subject (mentions of stars occur incidentally elsewhere).[^4]\n\nHere is every matching poem:\n\n- **Subah Ka Sitara** (*Bang-E-Dara Part 1*, ch. 42; \"The Morning Star\"): The morning star laments its fleeting role as dawn's herald, preferring earthly lowliness (e.g., as a pearl or dewdrop) over its \"daily tomb\" in the sky.[^5]\n\n- **Sitara** (*Bang-E-Dara Part 2*, ch. 22; \"The [Morning's] Star\"): The morning star weeps over gaining sight yet lacking time to see before dawn's arrival, likened to a brief spark; the poet invites it to his garden.[^6]\n\n- **Sitara** (*Bang-E-Dara Part 3*, ch. 21; \"The Star\"): Addresses a trembling star fearing dawn or beauty's end, revealing nature's law where one light's rise requires another's fall.[^7]\n\n- **Do Sitare** (*Bang-E-Dara Part 3*, ch. 5; \"Two Stars\"): Two conjoined stars yearn for eternal union, but motion decrees their parting.[^8]\n\n- **Chaand aur Taare** (*Bang-E-Dara Part 2*, ch. 9; \"The Moon and the Stars\"): Stars complain to the moon of endless journeying; the moon explains motion as life's essence, from passion to beauty.[^9]\n\n- **Bazm-e-Anjum** (*Bang-E-Dara Part 3*, ch. 1; \"The Assembly of Stars\"): An angel addresses the starry assembly, urging them to awaken earthlings to change, attraction's law, and eternal beauty.[^10]\n\n[^1]: *Bang-E-Dara Part 1*, Allama Iqbal, [ch. 1](/works/allama-iqbal-bang-e-dara-part-1-55b25c/01-ajab-waaiz-ki-deen-daari-hai-ya-rabb/translation/).\n[^2]: *Bang-E-Dara Part 2*, Allama Iqbal, [ch. 1](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/01-chamak-teri-ayaan-bijli-mein-aatish-mein-sharare-m/translation/).\n[^3]: *Bang-E-Dara Part 3*, Allama Iqbal, [ch. 1](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/01-bazm-e-anjum/translation/).\n[^4]: *Andreas*, Cynewulf, [ch. 1](/works/cynewulf-andreas-07b573/01/translation/); *Diwan-E-Ghalib*, Mirza Ghalib (incidental mentions only).\n[^5]: *Bang-E-Dara Part 1*, ch. 42, [/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/translation/).\n[^6]: *Bang-E-Dara Part 2*, ch. 22, [/works/allama-iqbal-bang-e-dara-part-2-9bc58c/22-sitara/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/22-sitara/translation/).\n[^7]: *Bang-E-Dara Part 3*, ch. 21, [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/21-sitara/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/21-sitara/translation/).\n[^8]: *Bang-E-Dara Part 3*, ch. 5, [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/05-do-sitare/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/05-do-sitare/translation/).\n[^9]: *Bang-E-Dara Part 2*, ch. 9, [/works/allama-iqbal-bang-e-dara-part-2-9bc58c/09-chaand-aur-taare/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/09-chaand-aur-taare/translation/).\n[^10]: *Bang-E-Dara Part 3*, ch. 1, [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/01-bazm-e-anjum/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/01-bazm-e-anjum/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poem"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "verse"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "lyric"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "star",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "stars",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the star\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morning star\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sitara"
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 42,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.42 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 22,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.22 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 21,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 60309,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 74551,
+    "completion_tokens": 6723,
+    "total_tokens": 81274,
+    "cached_tokens": 21846,
+    "api_calls": 5,
+    "cost_usd": 0.014994799999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1551,
+        "completion_tokens": 519,
+        "total_tokens": 2070,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00034035
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 1711,
+        "completion_tokens": 538,
+        "total_tokens": 2249,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038185
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16937,
+        "completion_tokens": 1966,
+        "total_tokens": 18903,
+        "cached_tokens": 1706,
+        "cost_usd": 0.0041145
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 25104,
+        "completion_tokens": 1668,
+        "total_tokens": 26772,
+        "cached_tokens": 16932,
+        "cost_usd": 0.003315
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 29248,
+        "completion_tokens": 2032,
+        "total_tokens": 31280,
+        "cached_tokens": 150,
+        "cost_usd": 0.0068431
+      }
+    ]
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "answer": "In the Old English elegies collected in the corpus, terms like *frod* (\"wise, prudent, experienced\"—often implying wisdom gained through age or hardship) and *witig* (\"wise, knowing, intelligent\"—suggesting insightful understanding or sagacity) denote a practical, reflective form of wisdom emphasizing endurance, prudent counsel, and contemplation of life's transience (*wyrd*). Wisdom is not abstract philosophy but a mature mindset for navigating exile, loss, and fate: the wise (*frod*) endure sorrow without rashness, hold counsel thoughtfully, and recognize earthly impermanence.[^1][^2] For instance, in *The Wanderer*, the speaker describes the truly wise (*frod in ferthe*) as one who, aged by winters, deeply ponders the dark life and ruins, avoiding extremes like hot-heartedness or greed.[^3] In *Maxims I*, wisdom pairs with justice and counsel (*rad shal mid snyttro, ryht mid wisum*), urging exchange of wise words (*frodum wordum*) rather than concealing deep knowledge.[^4] *Vainglory* opens with a \"frod wita\" (wise counselor) teaching against vainglory through ancient lore.[^5] In *Resignation*, God is the \"witig dryhten\" (wise Lord), but human wisdom involves submitting thoughts to divine will amid sorrow.[^6]\n\nCynewulf's poems (*Andreas*, *Elene*, *Juliana*) retain this experiential prudence but infuse it with Christian heroic valence: wisdom is divine insight, prophetic knowledge, or godly discernment amid trial, often attributed to leaders, prophets, or God Himself. *Frod* evokes ancient sages (*frod fyrnweota* in *Elene*, David as wise counselor), while *witig* marks knowing crowds or assemblies (*witig werede* in *Andreas*).[^7][^8] Wisdom here counters folly (e.g., unwisely rejecting Christ in *Elene*) and aligns with faith, echoing elegiac endurance but elevating it to salvation.[^9]\n\n**Comparison**: Both traditions view wisdom as resilient insight against mutability—*frod* from lived winters/exile, *witig* as perceptive counsel—but elegies stress stoic pragmatism (e.g., bind the heart fast against *wyrd*), while Cynewulf subordinates it to Christocentric revelation (e.g., wise recognition of the Cross). The elegies' secular grit prefigures Cynewulf's hagiographic fusion, where pagan heroic wisdom yields to divine *snyttro*.\n\n[^1]: *Old English Elegies*, Maxims I, ch. 6 [paragraph](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/transliteration/#p-0fe1ec).\n[^2]: *Old English Elegies*, Maxims I, ch. 6 [paragraph](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/#p-84cf09).\n[^3]: *Old English Elegies*, The Wanderer, ch. 11 [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/transliteration/#p-2ecb4b).\n[^4]: *Old English Elegies*, Maxims I, ch. 6 [paragraph](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/transliteration/#p-0fe1ec).\n[^5]: *Old English Elegies*, Vainglory, ch. 12 [paragraph](/works/unknown-old-english-elegies-d5fe9e/12-vainglory/transliteration/#p-ecc17c).\n[^6]: *Old English Elegies*, Resignation, ch. 9 [paragraph](/works/unknown-old-english-elegies-d5fe9e/09-resignation/transliteration/#p-ef37f8).\n[^7]: Cynewulf, *Andreas*, ch. 1 [paragraph](/works/cynewulf-andreas-07b573/01/transliteration/#p-992aeb).\n[^8]: Cynewulf, *Elene*, ch. 1 [paragraph](/works/cynewulf-elene-d2d132/01/transliteration/#p-624562).\n[^9]: Cynewulf, *Elene*, ch. 1 [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-7b1c1f).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "elegy"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wisdom frod witig"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wise\" frod OR witig OR wisdom"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wisdom OR wise \"old english elegy\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"frod\" OR \"witig\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-2ecb4b"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-2ecb4b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-0fe1ec",
+          "p-84cf09"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-0fe1ec"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-ecc17c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-ecc17c"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-ef37f8"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-992aeb"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-992aeb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-624562"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-624562"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-0fe1ec"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-84cf09"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-2ecb4b"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-ecc17c"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-ef37f8"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-992aeb"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-624562"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-7b1c1f"
+    }
+  ],
+  "duration_ms": 47244,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 82058,
+    "completion_tokens": 4854,
+    "total_tokens": 86912,
+    "cached_tokens": 17655,
+    "api_calls": 4,
+    "cost_usd": 0.01619035,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1564,
+        "completion_tokens": 528,
+        "total_tokens": 2092,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003473
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2486,
+        "completion_tokens": 922,
+        "total_tokens": 3408,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0007284
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12117,
+        "completion_tokens": 1844,
+        "total_tokens": 13961,
+        "cached_tokens": 2481,
+        "cost_usd": 0.00297325
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 65891,
+        "completion_tokens": 1560,
+        "total_tokens": 67451,
+        "cached_tokens": 12112,
+        "cost_usd": 0.0121414
+      }
+    ]
+  }
+}

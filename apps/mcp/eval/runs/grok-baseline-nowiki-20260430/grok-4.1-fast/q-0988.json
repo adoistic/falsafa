@@ -1,0 +1,225 @@
+{
+  "answer": "**Manu’s *Manusmṛti* (Book 1) frames the present age as the Kali Yuga, the final and most degenerate phase of a descending four-yuga cycle (Kṛta → Tretā → Dvāpara → Kali), each successively shorter and marked by declining dharma (righteousness), lifespan, and moral capacity.[^1] This cycle repeats endlessly within larger cosmic structures: a \"day of Brahma\" equals 1,000 divine years (12,000 human years per full yuga-set), followed by an equal night of dissolution and re-creation; 71 such sets form a manvantara (age of a Manu), with 14 manvantaras per Brahma-day.[^2] The text locates the present explicitly in Kali, where dharma stands on one foot, austerity yields to charity, and lifespans are shortest (~100 years), amid theft, falsehood, and malice—part of Brahma's eternal waking/sleeping rhythm of vivification and destruction.[^3]\n\n**Cynewulf's poems (*Andreas*, *Elene*, *Juliana*) depict the present as an interim on a singular, irreversible arc of salvation history: God's initial creation of \"heaven and earth\" and all therein, Christ's incarnation and victory over sin/death, ongoing spiritual warfare/mission, culminating in a final, apocalyptic Judgment Day (\"doomsday\") where creation collapses (\"heaven and earth shall fall together\"), souls are divided by deeds, and eternity begins.[^4] This is proclaimed repeatedly as linear teleology: e.g., Andreas recounts creation explicitly as God's singular crafting of cosmos and mankind, mirrored in Christ's miracles/recapitulation, pointing to eschaton; *Elene* echoes with creation-language and ends prophesying Judgment's tripartite fire-trial (righteous unscathed atop, middling purged, wicked abyssed); *Juliana* invokes Christ's rule \"over all creation, forever, without end.\"[^5]\n\nCynewulf's history lacks any yuga-analogue—no descending moral epochs in cosmic repetition, no measured decline/reset within cycles. Implicit \"decline\" (heathen persecution, devil's temptations) serves linear progress toward Judgment, not recirculation.[^6] It is irreducibly linear: one Creation (past), Incarnation/present mission, one End (future parousia/dissolution/judgment/reward), echoing biblical protology-eschatology unity without Hindu-style eternal recurrence.\n\n[^1]: *Manusmṛti*, Ch. 1, [paras. 68-70](/works/unknown-manusmrti-347b76/01/translation/#p-a22081).\n[^2]: *Manusmṛti*, Ch. 1, [paras. 71-80](/works/unknown-manusmrti-347b76/01/translation/#p-5a3053).\n[^3]: *Manusmṛti*, Ch. 1, [paras. 81-86](/works/unknown-manusmrti-347b76/01/translation/#p-fcafde).\n[^4]: *Andreas*, Ch. 1, [para. e5fbef](/works/cynewulf-andreas-07b573/01/translation/#p-e5fbef); *Elene*, Ch. 1, [paras. dcbbfe-8f8a1b](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).\n[^5]: *Andreas*, Ch. 1, [paras. 355089, 6384bb, bb7698](/works/cynewulf-andreas-07b573/01/translation/#p-355089); *Juliana*, Ch. 1, [para. 6a2534](/works/cynewulf-juliana-9a2157/01/translation/#p-6a2534).\n[^6]: E.g., *Elene*, Ch. 1, [paras. f5d1f1, 222dfa](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yuga"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kali yuga\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "creation judgment cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "creation",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "doomsday OR judgment OR judgement OR last day OR world's end OR creation",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fates of the apostles\" OR christ cynewulf"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "doom OR judgment OR judgement OR dom OR world end OR creation OR beginning OR end cynewulf",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-a22081"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-5a3053"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-fcafde"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-e5fbef"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-355089"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-6a2534"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    }
+  ],
+  "duration_ms": 44261,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 91497,
+    "completion_tokens": 3775,
+    "total_tokens": 95272,
+    "cached_tokens": 27645,
+    "api_calls": 4,
+    "cost_usd": 0.01604015,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1599,
+        "completion_tokens": 640,
+        "total_tokens": 2239,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006173
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5830,
+        "completion_tokens": 733,
+        "total_tokens": 6563,
+        "cached_tokens": 150,
+        "cost_usd": 0.00151
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 21525,
+        "completion_tokens": 1120,
+        "total_tokens": 22645,
+        "cached_tokens": 5825,
+        "cost_usd": 0.00399125
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 62543,
+        "completion_tokens": 1282,
+        "total_tokens": 63825,
+        "cached_tokens": 21520,
+        "cost_usd": 0.0099216
+      }
+    ]
+  }
+}

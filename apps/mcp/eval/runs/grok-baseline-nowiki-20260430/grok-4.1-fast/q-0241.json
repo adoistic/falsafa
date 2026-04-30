@@ -1,0 +1,356 @@
+{
+  "answer": "**Manusmṛti Chapter 5 and Viṣṇu Smṛti (especially Chapter 51) both extensively catalog forbidden foods—such as garlic, onions, village pigs, village chickens, most fish, carnivorous birds, certain milks, and non-ritual meat—while permitting limited consumption of specific animals (e.g., porcupine, hedgehog, iguana, rhinoceros, tortoise, hare) and certain fish (Pathina, Rohita, Rājīva, Siṃhatuṇḍa) in strict ritual contexts like sacrifices, madhuparka offerings, or ancestral rites.[^1][^2] Both texts equate non-ritual killing and meat-eating with severe sin (demonic in Manu; requiring major penances like *cāndrāyaṇa* in Viṣṇu), allow consecrated sacrificial meat, and warn that purposeless eaters suffer rebirth as animals.[^3][^4]**\n\n**Manu's \"vegetarian leaning\" manifests more forcefully in its blanket condemnation of fish (\"an eater of fish is an eater of all meat; therefore, one should avoid fish\") and slaughterhouse/dried meat, with no penance detailed there—instead directing annual *kṛcchra* rites for inadvertent violations—while Viṣṇu specifies graded penances (e.g., three-to-seven nights' fasts) for most fish or five-toed meats beyond the exceptions.[^5][^6] Manu further stresses that even ritually appointed non-eaters reborn as beasts for 21 generations, amplifying avoidance beyond Viṣṇu's atonement-focused allowances.[^7] Viṣṇu extends with explicit abstention advocacy (equating meat avoidance to a century of horse-sacrifices; etymologizing *māṃsa* \"flesh\" as \"he will eat me\"), but permits remedial penances where Manu prioritizes prevention.[^8]**\n\n[^1]: Manusmṛti, Chapter 5, [translation/](/works/unknown-manusmrti-347b76/05/translation/). (Forbidden lists: [p-8d08f3]–[p-75121c]; permitted: [p-ee2cd6], [p-b2d1d6].)\n\n[^2]: Viṣṇu Smṛti, Chapter 51, [translation/](/works/unknown-visnu-smrti-27f0d8/51/translation/). (Forbidden/penance lists: [p-81a3d4]–[p-712474]; exceptions: [p-180a83], [p-b0e8e4].)\n\n[^3]: Manusmṛti 5.31 ([p-db3fdb]); cf. Viṣṇu 51.59–64 ([p-4a3c8c]).\n\n[^4]: Manusmṛti 5.34, 5.38 ([p-a1e92b], [p-42b5e1]); Viṣṇu 51.28, 51.62 ([p-51d8b0], end of ch.).\n\n[^5]: Manusmṛti 5.13–15 ([p-8f3656]–[p-9ac8b8]).\n\n[^6]: Viṣṇu 51.21–22 ([p-b0e8e4]–[p-11129e]).\n\n[^7]: Manusmṛti 5.35 ([p-d256a2]); cf. Viṣṇu penance schedules throughout ch. 51.\n\n[^8]: Viṣṇu 51.71–78 (end of ch.); no direct parallel in Manu Ch. 5 (penances deferred to Ch. 11).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forbidden food\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"permitted food\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "meat Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"not eat\" Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "meat",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fish",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "forbidden food",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "should not eat",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"village pig\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "limit": 10
+      },
+      "result_summary": "Found 10 related"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 51
+      },
+      "result_summary": "Read ch.51 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 37
+      },
+      "result_summary": "Read ch.37 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 44
+      },
+      "result_summary": "Read ch.44 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Visnu\" meat OR fish OR pig OR \"forbidden food\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"should not eat\" Visnu"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-8d08f3"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-75121c"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-ee2cd6"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-b2d1d6"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-81a3d4"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-712474"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-180a83"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-b0e8e4"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-db3fdb"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-4a3c8c"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-a1e92b"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-42b5e1"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-51d8b0"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-8f3656"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-9ac8b8"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-11129e"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-d256a2"
+    }
+  ],
+  "duration_ms": 67911,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 88243,
+    "completion_tokens": 6767,
+    "total_tokens": 95010,
+    "cached_tokens": 44155,
+    "api_calls": 5,
+    "cost_usd": 0.01440885,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1566,
+        "completion_tokens": 562,
+        "total_tokens": 2128,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005717
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1871,
+        "completion_tokens": 467,
+        "total_tokens": 2338,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00037835
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12366,
+        "completion_tokens": 1189,
+        "total_tokens": 13555,
+        "cached_tokens": 1866,
+        "cost_usd": 0.0027878
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "find_related",
+          "read_chapter"
+        ],
+        "prompt_tokens": 28254,
+        "completion_tokens": 1020,
+        "total_tokens": 29274,
+        "cached_tokens": 12361,
+        "cost_usd": 0.00430665
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 44186,
+        "completion_tokens": 3529,
+        "total_tokens": 47715,
+        "cached_tokens": 28249,
+        "cost_usd": 0.00636435
+      }
+    ]
+  }
+}

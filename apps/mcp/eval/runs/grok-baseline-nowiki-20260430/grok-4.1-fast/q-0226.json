@@ -1,0 +1,238 @@
+{
+  "answer": "In *Traité de la propriété*, Volume II, Charles Comte develops his broader theory of property—initially rooted in natural liberty and labor from Volume I—through discussions of movables (Ch. 27), commercial properties like goodwill, names, marks, and reputations (Ch. 28), before pivoting to what we would now term intellectual property.[^1]\n\nThe argument first turns explicitly toward intellectual property (or \"conceptions of the mind\") in Chapter 28 (\"On some kinds of commercial properties\"), amid a discussion of immaterial properties like reputation and clientele. After outlining how such intangibles acquire value through labor and gain legal protection (e.g., against trademark counterfeiting), Comte notes an apparent outlier among \"civilized peoples\": \"certain conceptions of the mind, such as literary or scientific works, musical compositions, drawings, and even simple inventions in the arts, are placed in the rank of properties. One does not recognize for the proprietor the faculty only of enjoying and disposing of the object on which he fixes his conceptions; one recognizes for him, moreover, the faculty of preventing others from reproducing, at least for a certain time, the same thoughts.\"[^2] This marks the initial observation that intellectual outputs are treated as property, extending beyond physical matter while invoking occupation-like principles (first occupancy of ideas fixed in form).\n\nComte immediately questions whether this is \"by a sort of abuse,\" analogizing books and inventions to tangible goods: a book on one's paper is property, but does selling copies allow buyers to reproduce them as \"new properties that they have themselves created\"? Likewise, does inventing a tool grant exclusive rights, or can others imitate without infringement?[^3] He defers resolution—\"These questions present grave difficulties... we shall examine them successively\"—and closes the chapter by framing the inquiry: \"It remains to examine whether certain conceptions of the mind, when they have been realized, ought to be placed in the rank of properties.\"[^4]\n\nThis sets up the \"move\": a transition from commercial intangibles (guaranteed as property via labor/utility) to intellectual ones, tested against Comte's core criteria (matter + utility created by human industry; protection needed for preservation/formation; infringement harms existence). He then traces it sequentially:\n\n- **Inventions/industrial processes** (Ch. 29–30): Analogized to first occupancy of unowned things (lands/seas), but rejected as unnatural monopoly; privileges are state-granted incentives, not inherent property, limited temporally to avoid stasis.[^5]\n- **Literary property** (Ch. 31+): Defended as genuine property (author's labor creates unique style/order/value, like any artisan), not monopoly; akin to movables, deserving perpetual protection under general law (*jus suum cuique tribuere*), though statutes limit it.[^6]\n\nComte thus integrates IP into his natural theory while critiquing statutory limits as restrictions on preexisting rights, prioritizing liberty/utility over perpetual exclusion.\n\n[^1]: Charles Comte, *Traité de la propriété*, [Chapter 27](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/27-de-la-creation-et-de-la-distribution-des-propriete/translation/).\n\n[^2]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/28-de-quelques-especes-de-proprietes-commerciales/translation/#p-d29938).\n\n[^3]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/28-de-quelques-especes-de-proprietes-commerciales/translation/#p-7eeb1a).\n\n[^4]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/28-de-quelques-especes-de-proprietes-commerciales/translation/#p-700447).\n\n[^5]: Charles Comte, *Traité de la propriété*, [Chapter 29](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/).\n\n[^6]: Charles Comte, *Traité de la propriété*, [Chapter 31](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/31-des-fondemens-et-de-la-nature-de-la-propriete-litt/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"intellectual property\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"literary property\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property of ideas\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property in inventions\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 28,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.28 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 27,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.27 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "invention OR inventions OR literary OR auteur OR author property",
+        "limit": 20
+      },
+      "result_summary": "Found 16 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 28,
+        "paragraph_ids": [
+          "p-d29938"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 28,
+        "paragraph_ids": [
+          "p-700447"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 28,
+        "paragraph_ids": [
+          "p-7eeb1a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 30,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.30 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 31,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.31 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 31,
+      "paragraph_id": "p-d29938"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 31,
+      "paragraph_id": "p-7eeb1a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 31,
+      "paragraph_id": "p-700447"
+    }
+  ],
+  "duration_ms": 70772,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 72079,
+    "completion_tokens": 5491,
+    "total_tokens": 77570,
+    "cached_tokens": 30715,
+    "api_calls": 5,
+    "cost_usd": 0.01255405,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1579,
+        "completion_tokens": 297,
+        "total_tokens": 1876,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004418
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2307,
+        "completion_tokens": 703,
+        "total_tokens": 3010,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007904
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4727,
+        "completion_tokens": 1471,
+        "total_tokens": 6198,
+        "cached_tokens": 2302,
+        "cost_usd": 0.0013356
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 23396,
+        "completion_tokens": 1408,
+        "total_tokens": 24804,
+        "cached_tokens": 4722,
+        "cost_usd": 0.0046749
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 40070,
+        "completion_tokens": 1612,
+        "total_tokens": 41682,
+        "cached_tokens": 23391,
+        "cost_usd": 0.00531135
+      }
+    ]
+  }
+}

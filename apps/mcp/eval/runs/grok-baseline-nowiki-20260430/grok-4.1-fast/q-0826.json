@@ -1,0 +1,157 @@
+{
+  "answer": "**In Manusmṛti (Laws of Manu) 10.4, the text explicitly defines the \"twice-born\" (*dvija*) varṇas as the three upper castes: the Brāhmaṇa, the Kṣatriya, and the Vaiśya.**[^1]\n\nThe verse states: \"The Brahmana, the Kshatriya, and the Vaishya are the three twice-born *varnas*; but the fourth, the Shudra, is of a single birth (*ekajātis tu*); there is no fifth.\"\n\nThis distinction reflects the traditional Hindu view that the first three varṇas undergo the \"second birth\" via the sacred thread ceremony (*upanayana*), initiating them into Vedic study, while the Śūdra does not.[^2]\n\n[^1]: Manusmṛti, [paragraph](/works/unknown-manusmrti-347b76/10/translation/#p-92e12d).\n[^2]: Manusmṛti, Chapter 10, [full chapter](/works/unknown-manusmrti-347b76/10/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"twice-born\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu 10.4",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"twice born\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dvija",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"three times born\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.10 of unknown-manusmrti-347b76 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "twiceborn",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-92e12d"
+    }
+  ],
+  "duration_ms": 19908,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 27840,
+    "completion_tokens": 1673,
+    "total_tokens": 29513,
+    "cached_tokens": 7173,
+    "api_calls": 4,
+    "cost_usd": 0.00532855,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1551,
+        "completion_tokens": 366,
+        "total_tokens": 1917,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00026385
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1783,
+        "completion_tokens": 362,
+        "total_tokens": 2145,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005151
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3721,
+        "completion_tokens": 366,
+        "total_tokens": 4087,
+        "cached_tokens": 1778,
+        "cost_usd": 0.0006605
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20785,
+        "completion_tokens": 579,
+        "total_tokens": 21364,
+        "cached_tokens": 3716,
+        "cost_usd": 0.0038891
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "answer": "**Old English *mod*** (courage, spirit, heart, or inner resolve) appears frequently in Cynewulf's religious poetry as an inner strength that endures under duress, such as torture or exile.[^1]\n\nA fitting verse is from *Andreas*, where St. Andrew is dragged through the streets, scourged, and broken by a hostile mob, yet his *mod* (translated here as \"unwavering courage\" or \"noble mind\") holds firm:\n\n> They dragged the dear-hearted through the down-caves,  \n> around the stone-slopes, the steadfast one,  \n> even as wide as the ways lay,  \n> the ancient work of giants, within the city,  \n> the stone-paved streets. A storm rose up  \n> through the city-courts, no small cry  \n> of the heathen host. The holy one’s body  \n> was seethed with sore wounds, steamed with sweat,  \n> his bone-house broken. Blood welled in waves,  \n> in hot gore. He had within him  \n> **unwavering courage**; that **noble mind**  \n> was sundered from sins, though he so many sorrows,  \n> with deep, dire blows, was doomed to endure.[^2]\n\nHere, *mod* is the seat of constancy amid physical defeat and torture.\n\n**Sanskrit *dhṛti*** (fortitude, steadfastness, or resolve) is attested in the Indic *smṛti* texts as a cardinal virtue (*dharma*) essential to self-control and spiritual discipline, often listed alongside truth, purity, and sense-restraint.[^3] However, the Falsafa corpus contains no verse or passage where *dhṛti* (or its English proxy \"fortitude\") is explicitly tested under the specified pressures (temptation, defeat, or bereavement) in a narrative context. It appears in didactic lists—e.g., as a mark of righteousness (*Yj_3.65*) or its absence as a *rājasic* flaw (*Mn_12.32*)—but without dramatic trial akin to the OE examples.[^4]\n\nThe two concepts are **not structurally identical**. OE *mod* is dynamic and heroic, an animated \"spirit\" or \"heart\" (*modsefa*, \"mind-treasure\") that actively resists external violence or loss through Christian endurance, often yielding miracles or salvation (as in *Andreas* or *Juliana*).[^5] Sanskrit *dhṛti*, by contrast, is static and ascetic, a passive \"holding firm\" in ethical catalogs for ascetics (*āśramas*), emphasizing restraint amid inner turmoil or worldly decay, without the OE emphasis on interpersonal defiance or divine intervention.[^6] Both denote inner constancy, but *mod* thrives in conflict's forge, while *dhṛti* sustains quiet discipline.\n\n[^1]: *Andreas*, Ch. 1 [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-992aeb); *Juliana*, Ch. 1 [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-01394b).\n\n[^2]: *Andreas*, Ch. 1 [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-34b202).\n\n[^3]: *Yājñavalkya Smṛti*, Ch. 3 [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-13fc72); *Manusmṛti*, Ch. 6 [paragraph](/works/unknown-manusmrti-347b76/06/translation/#p-8c9866).\n\n[^4]: *Manusmṛti*, Ch. 12 [paragraph](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e); *Vīramitrodaya*, Ch. 1 [paragraph](/works/unknown-viramitrodaya-d4b632/01/translation/#p-ed05c2).\n\n[^5]: *Juliana*, Ch. 1 [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-3fccbd) (steadfast under scourging).\n\n[^6]: *Manusmṛti*, Ch. 6 [chapter](/works/unknown-manusmrti-347b76/06/translation/) (ascetic virtues under duress).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dhrti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mod"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"inner constancy\" OR steadfastness OR fortitude dhrti"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mod courage OR spirit OR constancy"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mod\" (torture OR pain OR bound OR defeat OR sorrow OR loss OR temptation OR storm OR death)"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fortitude (temptation OR defeat OR bereavement OR torture OR pain OR loss OR battle OR trial OR death)"
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-13fc72"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-da0c5e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-34b202"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dhrti OR धृति"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-074f6e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ed05c2"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-992aeb"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-01394b"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-34b202"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-13fc72"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-8c9866"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-074f6e"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-ed05c2"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-3fccbd"
+    }
+  ],
+  "duration_ms": 76298,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 143698,
+    "completion_tokens": 6845,
+    "total_tokens": 150543,
+    "cached_tokens": 60712,
+    "api_calls": 4,
+    "cost_usd": 0.0230553,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1586,
+        "completion_tokens": 522,
+        "total_tokens": 2108,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005557
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11441,
+        "completion_tokens": 3033,
+        "total_tokens": 14474,
+        "cached_tokens": 150,
+        "cost_usd": 0.0037822
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 48981,
+        "completion_tokens": 1691,
+        "total_tokens": 50672,
+        "cached_tokens": 11436,
+        "cost_usd": 0.0089263
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 81690,
+        "completion_tokens": 1599,
+        "total_tokens": 83289,
+        "cached_tokens": 48976,
+        "cost_usd": 0.0097911
+      }
+    ]
+  }
+}

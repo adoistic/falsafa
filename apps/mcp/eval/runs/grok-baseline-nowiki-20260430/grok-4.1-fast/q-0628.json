@@ -1,0 +1,271 @@
+{
+  "answer": "**Mahāpātaka** (great sin) refers to the most grave offenses in classical Indic *dharmaśāstra* (law), acts so heinous they cause immediate spiritual downfall, association with outcastes, and require elaborate expiation rites (like the *cāndrāyaṇa* penance or pilgrimage). They typically number five, though listings vary slightly by text.[^1][^2]\n\nThe *Viṣṇu Smṛti* lists four explicit *mahāpātakas* (with a fifth implied as association): killing a Brāhmaṇa, drinking liquor (*surāpāna*), stealing a Brāhmaṇa's gold (*suvarṇa-stealing*), and violating a preceptor's bed (*gurutalpa-sevana*). Non-Brāhmaṇa perpetrators face execution; Brāhmaṇas are branded (e.g., headless man for Brāhmaṇa-killing, liquor flag for drinking, dog's foot for theft, female organ for guru's bed).[^3][^4][^5]\n\nThe *Ślokāntara* (a Kawi commentary on ethical precepts) aligns closely, naming five: killing a Brāhmaṇa (*brahmavadha*), drinking palm-wine (*surāpāna*), theft of gold (*suvarṇa-steaya*), violation of a maiden (*kanyāvighna*, premature intercourse causing harm), and killing a teacher (*guruvadha*). These lead to the hell-realm *Raurava*.[^6][^7]\n\nThe *Vratisaṃsana* (ascetic code) uses *mahāpātaka* once for deviant conduct (e.g., improper initiation), but does not list them.[^8]\n\nNo other *smṛti* texts in the corpus (e.g., *Manusmṛti*, *Yājñavalkya Smṛti*) provide explicit lists in searchable passages, though they discuss related penances and punishments. Standard *dharmasūtra* tradition (reflected here) centers on ritual purity violations harming social/ cosmic order, especially against superiors.[^9]\n\n[^1]: Viṣṇu Smṛti, *Chapter 35*, [p-6491a0](/works/unknown-visnu-smrti-27f0d8/35/translation/#p-6491a0).\n\n[^2]: Ślokāntara, *Chapter 1*, [p-df33bb](/works/unknown-slokantara-d7a628/01/translation/#p-df33bb).\n\n[^3]: Viṣṇu Smṛti, *Chapter 35*, [p-6491a0](/works/unknown-visnu-smrti-27f0d8/35/translation/#p-6491a0).\n\n[^4]: Viṣṇu Smṛti, *Chapter 5*, [p-2c7e24](/works/unknown-visnu-smrti-27f0d8/05/translation/#p-2c7e24).\n\n[^5]: Viṣṇu Smṛti, *Chapter 5*, [p-78ee23](/works/unknown-visnu-smrti-27f0d8/05/translation/#p-78ee23); [p-8d4644](/works/unknown-visnu-smrti-27f0d8/05/translation/#p-8d4644).\n\n[^6]: Ślokāntara, *Chapter 1*, [p-2d3e0c](/works/unknown-slokantara-d7a628/01/translation/#p-2d3e0c).\n\n[^7]: Ślokāntara, *Chapter 1*, [p-df33bb](/works/unknown-slokantara-d7a628/01/translation/#p-df33bb).\n\n[^8]: Vratisaṃsana, *Chapter 1*, [p-bdc001](/works/unknown-vratisasana-d0fe75/01/translation/#p-bdc001).\n\n[^9]: The *Manusmṛti* (Ch. 11) discusses penances for grave sins but no verbatim *mahāpātaka* list appears in searched excerpts; corpus coverage is partial.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mahapataka",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"great sin\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mahāpātaka",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 35,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.35 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-slokantara-d7a628 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vratisasana-d0fe75 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "five great sins"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"great sins\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "panca mahapataka"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 35,
+        "paragraph_ids": [
+          "p-6491a0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-2c7e24",
+          "p-78ee23",
+          "p-8d4644"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-2d3e0c",
+          "p-df33bb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmahatya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"great sin\" OR mahapataka OR \"five sins\" smriti",
+        "limit": 10
+      },
+      "result_summary": "Found 9 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-6491a0"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-df33bb"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-2c7e24"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-78ee23"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-8d4644"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-2d3e0c"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-bdc001"
+    }
+  ],
+  "duration_ms": 50206,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 143639,
+    "completion_tokens": 4848,
+    "total_tokens": 148487,
+    "cached_tokens": 74251,
+    "api_calls": 4,
+    "cost_usd": 0.020014149999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 378,
+        "total_tokens": 1933,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0002702
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3095,
+        "completion_tokens": 1007,
+        "total_tokens": 4102,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0008927
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 68102,
+        "completion_tokens": 1520,
+        "total_tokens": 69622,
+        "cached_tokens": 3090,
+        "cost_usd": 0.0139169
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 70887,
+        "completion_tokens": 1943,
+        "total_tokens": 72830,
+        "cached_tokens": 68097,
+        "cost_usd": 0.00493435
+      }
+    ]
+  }
+}

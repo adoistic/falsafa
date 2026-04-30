@@ -1,0 +1,220 @@
+{
+  "answer": "**The work in question is Johann Gottlieb Fichte's *Zurückforderung der Denkfreiheit von den Fürsten Europens* (*Reclaiming Freedom of Thought from the Princes of Europe, Who Have Hitherto Suppressed It*), a 1793 political pamphlet framed as a speech.[^1]**\n\nFichte addresses princes directly (often in the singular \"Prince\" to represent them collectively, per the plural \"Fürsten Europens\" in the title) throughout, particularly demanding the protection of thought-freedom as an inalienable right. The core demand appears in **Chapter 2** (the main \"Speech\"), where he systematically argues against any princely right to suppress it and culminates in this explicit statement:\n\n> Prince, you have no right to suppress our freedom of thought: and what you have no right to do, you must never do, even if the worlds around you perish, and you and your people should be buried under their ruins. For the ruins of the worlds, for you, and for us under the ruins, He will provide, who gave us the rights that you respect.[^2]\n\nThis follows extended direct address to princes (e.g., \"you princes\" repeatedly in paragraphs like [p-619bb2](https://falsafa.corpus/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-619bb2), [p-b2542b](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-b2542b), and [p-0019e6](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-0019e6)), refuting their authority over inner freedom while urging justice.[^3]\n\n**Earlier direct appeals occur in Chapter 1**, instructing the people to demand it from princes but shifting to address them:\n\n> Shout it, shout it in every tone into your princes' ears until they hear it, that you will not allow freedom of thought to be taken from you... No, Prince, you are not our God. From Him we expect happiness; from you, the protection of our rights. You are not to be benevolent towards us; you are to be just.[^4]\n\nThe entire pamphlet is a bold reclamation from Europe's princes amid censorship fears post-French Revolution.\n\n[^1]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, Chapter 1, [p-effd89](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01/translation/#p-effd89).\n\n[^2]: Fichte, *Zurückforderung der Denkfreiheit*, Chapter 2, [p-44e1de](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-44e1de).\n\n[^3]: Fichte, *Zurückforderung der Denkfreiheit*, Chapter 2, full chapter [/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/].\n\n[^4]: Fichte, *Zurückforderung der Denkfreiheit*, Chapter 1, [p-aef377](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01/translation/#p-aef377) and [p-657cba](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01/translation/#p-657cba).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "fichte"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"princes of Europe\" OR \"prince of Europe\" fichte",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"freedom of thought\" princes OR \"thought-freedom\" princes",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "Listed 2 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fichte princes OR \"your majesty\" OR \"sire\" OR \"highness\" OR fürsten",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"freedom of thought\" OR \"denkfreiheit\" OR \"thought freedom\" fichte",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-aef377",
+          "p-657cba"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-44e1de"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-effd89"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-619bb2"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-b2542b"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-0019e6"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-effd89"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-44e1de"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-aef377"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-657cba"
+    }
+  ],
+  "duration_ms": 32666,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 54420,
+    "completion_tokens": 3737,
+    "total_tokens": 58157,
+    "cached_tokens": 33393,
+    "api_calls": 5,
+    "cost_usd": 0.00774355,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1559,
+        "completion_tokens": 554,
+        "total_tokens": 2113,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005663
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4727,
+        "completion_tokens": 409,
+        "total_tokens": 5136,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00092055
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6640,
+        "completion_tokens": 248,
+        "total_tokens": 6888,
+        "cached_tokens": 4722,
+        "cost_usd": 0.0007437
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 20362,
+        "completion_tokens": 843,
+        "total_tokens": 21205,
+        "cached_tokens": 6635,
+        "cost_usd": 0.00349865
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 21132,
+        "completion_tokens": 1683,
+        "total_tokens": 22815,
+        "cached_tokens": 20357,
+        "cost_usd": 0.00201435
+      }
+    ]
+  }
+}

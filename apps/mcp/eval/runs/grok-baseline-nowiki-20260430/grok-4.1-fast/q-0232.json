@@ -1,0 +1,141 @@
+{
+  "answer": "In *Saqaliya*, Iqbal opens with a visceral elegy for Sicily as \"the grave of Hejazi civilization,\" its rocky shores and oceanic beauty now echoing with silence where Muslim conquerors once sent \"tremors through the courts of emperors\" and freed humanity from \"the chains of superstition.\"[^1] This lost cradle of Islamic culture evokes prior laments for Baghdad, Delhi, and Granada, with Iqbal inheriting Sicily's mourning to bear it back to Hindustan, transforming personal grief into communal catharsis.[^2]\n\nThe survey in *Bilad-e-Islamiya* extends this to a panoramic sacred geography—Delhi as a \"shrine for the grief-stricken heart,\" Baghdad as the garden of Hijazi culture, Cordoba as the \"Lamp of Sinai\" that seeded Europe's own civilization, Constantinople as the Ummah's eternal symbol, and Medina as the true homeland where Islam's nationhood endures.[^3] Ruins here are not mere decay but \"sanctums\" preserving the \"blood of our forebears\" and the memory of a world-ordering sovereignty, their dust rivaling paradise itself.[^4]\n\n*Goristan-e-Shahi* culminates amid Delhi's Mughal tombs under a clouded moon, where the \"fortress, once a world-embracing keep\" now embodies imperial transience: past \"suns of glory\" reduced to dust, like Egypt, Persia, and the Muslim ummah itself, a \"cloud of March, that rose and rained, and did not last.\"[^5] Yet aesthetic immersion in this \"place of sorrow\"—with nature's harp-like lament and ruins' wondrous glory—yields redemptive potential: the poet's tear-cloud holds \"bolts of lightning\" to bloom roses from desert dust.[^6]\n\n**The unified political-aesthetic argument**: Iqbal weds aesthetic reverie (ruins' haunting beauty, moonlight on tombs, Sicily's wave-dance) to political mourning of Muslim decline from global hegemony to desolation, arguing that such poetry revives the ummah. These sites, as living graves of glory, demand not passive nostalgia but active resurgence: sorrow's pearls fuel lightning-strikes of renewal, rekindling Hijazi fire in Hindustan and beyond to reclaim Islam's destined sovereignty.[^7]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, \"Saqaliya\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-08760e).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 2*, \"Saqaliya\" [chapter](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Bilad-e-Islamiya\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/#p-876603).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Bilad-e-Islamiya\" [chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Goristan-e-Shahi\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-c1167f).\n\n[^6]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Goristan-e-Shahi\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-56b241).\n\n[^7]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Goristan-e-Shahi\" [chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Saqaliya"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bilad-e-Islamiya"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Goristan-e-Shahi"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Saqaliya\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 21,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-08760e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-876603"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-c1167f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-56b241"
+    }
+  ],
+  "duration_ms": 25655,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 13299,
+    "completion_tokens": 2813,
+    "total_tokens": 16112,
+    "cached_tokens": 5427,
+    "api_calls": 3,
+    "cost_usd": 0.00325225,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1586,
+        "completion_tokens": 392,
+        "total_tokens": 1978,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00028385
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3753,
+        "completion_tokens": 421,
+        "total_tokens": 4174,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009386
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 7960,
+        "completion_tokens": 2000,
+        "total_tokens": 9960,
+        "cached_tokens": 3748,
+        "cost_usd": 0.0020298
+      }
+    ]
+  }
+}

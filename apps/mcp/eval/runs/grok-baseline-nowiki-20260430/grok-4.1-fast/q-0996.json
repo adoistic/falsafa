@@ -1,0 +1,245 @@
+{
+  "answer": "Charles Comte observes that even long after the direct domination of ancient slavery had vanished, its doctrines endured as vital influences on law and morals: \"The domination that the Roman patricians exercised over their slaves has ceased to exist for centuries; [...] but the doctrines [...] are still full of life; we make of them an essential part of the teaching of laws and of morals; we learn them from our childhood in our schools; we invoke them in our courts of justice.\"[^1]\n\nManu’s *Manusmṛti* Chapter 8, a judicial code on debts, deposits, theft, assault, adultery, and more, integrates slaves into legal proceedings as chattel alongside livestock, deposits, and fields—without any moral qualms over their humanity.[^2] A Comtean lens sees slavery's residue here in rules that normalize slaves' utter lack of autonomy, their liability to casual violence, and the innateness of servitude (especially for Shudras, the servile class):\n\n1. Slaves own nothing: their labor's fruits belong entirely to their master, equating them to property like a wife's dowry or a son's earnings. \"A wife, a son, and a slave—these three are remembered as having no property; whatever they acquire, that property belongs to him to whom they belong.\"[^3]\n\n2. Casual beating is permitted: household dependents like slaves may be whipped for faults, framing discipline as a master's prerogative over things. \"A wife, a son, a slave, a servant, and a uterine brother, when they have committed a fault, may be beaten with a rope or a split bamboo.\"[^4]\n\n3. Servitude is innate and irrevocable: even a freed Shudra remains a slave by nature, destined for Brahmin service—perpetuating slavery's moral logic beyond formal bondage. \"A Shudra, even if released by his master, is not freed from servitude; for that is innate in him; who then can remove that from him?\"[^5]\n\nThese embed slavery's hierarchical contempt into jurisprudence, treating humans as proprietary extensions long after overt enslavement fades.\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-1f084b).\n\n[^2]: *Manusmṛti*, Chapter 8 (full chapter on judicial procedure). [chapter](/works/unknown-manusmrti-347b76/08/translation/).\n\n[^3]: *Manusmṛti* 8.416. [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-a02b71).\n\n[^4]: *Manusmṛti* 8.299. [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-ded6c6).\n\n[^5]: *Manusmṛti* 8.414. [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-d779ef).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slavery\" residue OR remain OR trace OR moral",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slavery\" \"moral\" OR \"habits\" OR \"prejudices\" OR \"residue\" OR \"remains\" OR \"vestiges\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slavery\" jurisprudence OR law OR \"roman law\" OR prejudice OR habit OR \"moral effect\" OR \"left\" OR \"remained\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 21,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.21 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"esclavage\" OR \"slavery\" \"reste\" OR \"resté\" OR \"subsiste\" OR \"persiste\" OR \"prÉjugÉ\" OR \"habitudes\" OR \"mœurs\" \"après\" OR \"malgré\" OR \"bien que\" OR \"disparu\" OR \"aboli\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slave\" OR \"slaves\" OR \"dasa\" OR \"servant\" OR \"dasya\"",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slave\" OR \"slaves\" chapter 8 manu OR manusmriti",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-1f084b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-a02b71"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-ded6c6"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-d779ef"
+    }
+  ],
+  "duration_ms": 53862,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 139602,
+    "completion_tokens": 5171,
+    "total_tokens": 144773,
+    "cached_tokens": 68953,
+    "api_calls": 5,
+    "cost_usd": 0.02016295,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1586,
+        "completion_tokens": 589,
+        "total_tokens": 2175,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00038235
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8369,
+        "completion_tokens": 1360,
+        "total_tokens": 9729,
+        "cached_tokens": 1532,
+        "cost_usd": 0.002124
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 18088,
+        "completion_tokens": 996,
+        "total_tokens": 19084,
+        "cached_tokens": 8364,
+        "cost_usd": 0.002861
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 39450,
+        "completion_tokens": 728,
+        "total_tokens": 40178,
+        "cached_tokens": 18083,
+        "cost_usd": 0.00554155
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 72109,
+        "completion_tokens": 1498,
+        "total_tokens": 73607,
+        "cached_tokens": 39445,
+        "cost_usd": 0.00925405
+      }
+    ]
+  }
+}

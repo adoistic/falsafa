@@ -1,0 +1,169 @@
+{
+  "answer": "**Manu describes the origins of the mixed castes (known as *saṃkara* or base-born offspring from inter-*varṇa* unions) primarily in *Manusmṛti* Chapter 10, verses 6–24.**[^1]\n\nThis section begins with general rules for *anuloma* (proper order, higher male with lower female) and *pratiloma* (reverse order) births:\n- Verse 6 introduces sons from twice-born males (*dvija*: Brahmana, Kshatriya, Vaishya) on next-lower-caste women as \"similar, but censured.\"[^2]\n- Verses 8–10 list specific castes from Brahmanas and Kshatriyas: e.g., *Ambaṣṭha* (Brahmana-Vaishya), *Niṣāda* (Brahmana-Shudra), *Ugra* (Kshatriya-Shudra).[^3]\n- Verses 11–12 cover *pratiloma*: e.g., *Sūta* (Kshatriya-Brahmana), *Caṇḍāla* (Shudra-Brahmana).[^4]\n\nVerse 24 summarizes: \"Through the promiscuous intercourse of the *varṇas*, through marriage with those who should not be married, and through the abandonment of their own duties, are born the mixed castes.\"[^5] The text continues (verses 25–40) enumerating further subgroups, their occupations, and status, distinguishing them from the four pure *varṇas*.[^6]\n\nThe full chapter provides context on *varṇa* duties and livelihoods amid distress, but the core origins are in this early portion.\n\n[^1]: *Manusmṛti*, Chapter 10 (verses 6–24), [/works/unknown-manusmrti-347b76/10/translation/](https://falsafa.corpus/works/unknown-manusmrti-347b76/10/translation/).\n\n[^2]: *Manusmṛti* 10.6, [/works/unknown-manusmrti-347b76/10/translation/#p-7b7510](https://falsafa.corpus/works/unknown-manusmrti-347b76/10/translation/#p-7b7510).\n\n[^3]: *Manusmṛti* 10.8–10, [/works/unknown-manusmrti-347b76/10/translation/#p-173ba2](https://falsafa.corpus/works/unknown-manusmrti-347b76/10/translation/#p-173ba2).\n\n[^4]: *Manusmṛti* 10.11–12, [/works/unknown-manusmrti-347b76/10/translation/#p-2178e5](https://falsafa.corpus/works/unknown-manusmrti-347b76/10/translation/#p-2178e5).\n\n[^5]: *Manusmṛti* 10.24, [/works/unknown-manusmrti-347b76/10/translation/#p-bbd252](https://falsafa.corpus/works/unknown-manusmrti-347b76/10/translation/#p-bbd252).\n\n[^6]: *Manusmṛti* 10.25–40 (multi-passage), [/works/unknown-manusmrti-347b76/10/translation/](https://falsafa.corpus/works/unknown-manusmrti-347b76/10/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mixed castes\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mixed castes\" Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-7b7510",
+          "p-173ba2",
+          "p-bb9166",
+          "p-2178e5",
+          "p-332c60",
+          "p-bbd252"
+        ]
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_range": {
+          "start": 0,
+          "end": 20
+        }
+      },
+      "result_summary": "Returned 21 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-7b7510"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-173ba2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-2178e5"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-bbd252"
+    }
+  ],
+  "duration_ms": 50027,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 25012,
+    "completion_tokens": 4820,
+    "total_tokens": 29832,
+    "cached_tokens": 11838,
+    "api_calls": 4,
+    "cost_usd": 0.0056367000000000006,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 375,
+        "total_tokens": 1929,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004758
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1749,
+        "completion_tokens": 361,
+        "total_tokens": 2110,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005078
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9799,
+        "completion_tokens": 1937,
+        "total_tokens": 11736,
+        "cached_tokens": 1744,
+        "cost_usd": 0.0026667
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 11910,
+        "completion_tokens": 2147,
+        "total_tokens": 14057,
+        "cached_tokens": 9794,
+        "cost_usd": 0.0019864
+      }
+    ]
+  }
+}

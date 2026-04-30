@@ -1,0 +1,225 @@
+{
+  "answer": "Charles Comte's strongest critique of slavery's enduring legacy appears in the opening chapter of *Traité de la propriété*, where he argues that ancient slaveholding societies—exemplified by the Greeks and Romans—imprinted their jurisprudence with a fundamental distortion: the treatment of human beings as mere *things* or property, which precluded any coherent foundation for natural rights or genuine property based on individual liberty and self-ownership.[^1] Legislators and philosophers like Aristotle, Plato, Cicero, and the Roman jurists (Papinian, Paul, Ulpian) could not ground rights and duties in \"the very nature of man\" without directly contradicting their practices of enslaving others, whom they viewed as lacking inherent rights or duties.[^2] This slave-based worldview permeated their legal categories—property, family obligations, inheritance—treating humans as alienable objects akin to land or goods. Comte warns that modern civilized nations, by drawing their \"ideas on laws and morals\" from these sources rather than direct observation of nature, perpetuate the distortion: we invoke ancient codes in schools and courts, blinding ourselves to liberty as the precondition for rights and property.[^3]\n\nManu’s *Manusmṛti* Chapter 8, a procedural compendium on judicial proceedings (debts, deposits, sales, boundaries, assault, theft, adultery, inheritance), exemplifies precisely this distortion. Slaves are casually woven into the legal fabric as chattels without moral qualm or philosophical interrogation, their status assumed as natural. Manu enumerates \"seven origins of slaves\" (captives, those enslaved for food/debt, house-born, purchased, gifted, inherited, fined into servitude), declaring a slave's acquisitions belong entirely to his master.[^4] A Brahmana may seize a Shudra's property at will, as \"he has nothing of his own,\" and Shudras remain servile by innate nature even if manumitted.[^5] These rules sit unremarked amid topics like tolls, wages, and cattle damage, mirroring Comte's point: slavery warps *all* legal categories by denying human liberty/self-ownership, reducing persons to procedural objects whose \"property\" (labor fruits) accrues to owners. Manu’s integration is thus *exactly* the downstream effect Comte decries—jurisprudence born of slaveholding, unfit for free societies.[^6]\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, [Chapter 1](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/).\n\n[^2]: Charles Comte, *Traité de la propriété: VOL I*, [Chapter 1](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-e537a3).\n\n[^3]: Charles Comte, *Traité de la propriété: VOL I*, [Preface](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/00-preface/translation/#p-e62e02); [Chapter 1](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-1f084b).\n\n[^4]: *Manusmṛti*, [Chapter 8](/works/unknown-manusmrti-347b76/08/translation/#p-5be08b).\n\n[^5]: *Manusmṛti*, [Chapter 8](/works/unknown-manusmrti-347b76/08/translation/#p-a02b71); [Chapter 8](/works/unknown-manusmrti-347b76/08/translation/#p-bd851e).\n\n[^6]: Charles Comte, *Traité de la propriété: VOL I*, [Chapter 1](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-e0cba9).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slavery distorted legal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ancient slavery\" OR \"slavery shaped\" OR \"slavery legal categories\" comte"
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slavery man u book 8 OR chapter 8"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slavery\" jurisprudence OR law OR \"legal\" OR \"roman\" OR \"ancient\" comte",
+        "limit": 50
+      },
+      "result_summary": "Found 45 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slavery property OR appropriation OR rights comte",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slave\" OR slavery chapter 8 OR book 8 manu OR manusmriti"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 0,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.0 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-la-propriete-vol-i-2c7a99\",\"title\":\"Traité de la propriété: VOL I\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlighte"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-e537a3"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-e62e02"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-1f084b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-5be08b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-a02b71"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-bd851e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-e0cba9"
+    }
+  ],
+  "duration_ms": 44242,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 112835,
+    "completion_tokens": 3658,
+    "total_tokens": 116493,
+    "cached_tokens": 45062,
+    "api_calls": 4,
+    "cost_usd": 0.017636699999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1600,
+        "completion_tokens": 529,
+        "total_tokens": 2129,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00035515
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9615,
+        "completion_tokens": 932,
+        "total_tokens": 10547,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00215965
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 32399,
+        "completion_tokens": 677,
+        "total_tokens": 33076,
+        "cached_tokens": 9610,
+        "cost_usd": 0.0053768
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "get_metadata"
+        ],
+        "prompt_tokens": 69221,
+        "completion_tokens": 1520,
+        "total_tokens": 70741,
+        "cached_tokens": 32394,
+        "cost_usd": 0.0097451
+      }
+    ]
+  }
+}

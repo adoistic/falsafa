@@ -1,0 +1,227 @@
+{
+  "answer": "**Allama Iqbal's \"Shama-o-Parwana\" (\"The Candle and the Moth\")** is a short poem from *Bang-E-Dara Part 1* (1924), his seminal Urdu poetry collection. It explores the moth's passionate, self-sacrificial love for the candle as a metaphor for divine longing and spiritual ecstasy.[^1]\n\nHere is the English translation:\n\n> The Candle and the Moth[^2]  \n>   \n> O Candle, why for you does it hold love so vast?[^3]  \n> Why is its restless soul upon your altar cast?[^4]  \n>   \n> Your grace makes it mercurial, ever in sway;[^5]  \n> Have you then taught it passion's sacred rite and way?[^6]  \n>   \n> It circumambulates your stage of splendor bright;[^7]  \n> Is it then singed by your gaze's electric light?[^8]  \n>   \n> In the anguish of death, does it find its soul's own ease?[^9]  \n> In your devouring flame, is life that cannot cease?[^10]  \n>   \n> In this world's house of grief, if your radiance were not seen,[^11]  \n> This burning heart's own tree of hope would not be green.[^12]  \n>   \n> To fall before you is its sacred prayer and rite;[^13]  \n> Its tiny heart finds bliss in burning with delight.[^14]  \n>   \n> It holds a passion for the Eternal Form Divine;[^15]  \n> A little Moses, on a miniature Sinai.[^16]  \n>   \n> A simple moth, and such a thirst for light's display![^17]  \n> A tiny insect, and for light to yearn this way![^18]\n\nThe original Urdu and Roman transliteration are also available in the corpus.[^19]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 41, translation (/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/).\n[^2]: Ibid., [p-0d1630](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-0d1630).\n[^3]: Ibid., [p-21ea6d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-21ea6d).\n[^4]: Ibid., [p-b7dff9](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-b7dff9).\n[^5]: Ibid., [p-5a838f](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-5a838f).\n[^6]: Ibid., [p-21357c](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-21357c).\n[^7]: Ibid., [p-4cfe14](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-4cfe14).\n[^8]: Ibid., [p-d2c29e](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-d2c29e).\n[^9]: Ibid., [p-4dcab6](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-4dcab6).\n[^10]: Ibid., [p-366a1c](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-366a1c).\n[^11]: Ibid.\n[^12]: Ibid.\n[^13]: Ibid.\n[^14]: Ibid.\n[^15]: Ibid.\n[^16]: Ibid.\n[^17]: Ibid.\n[^18]: Ibid.\n[^19]: Ibid., original (/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/original/) and transliteration (/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/transliteration/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Shama o Parwana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"candle and moth\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal \"candle\" moth"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "candle",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "moth",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shama"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parwana"
+      },
+      "result_summary": "Found 24 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.41 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.41 of allama-iqbal-bang-e-dara-part-1-55b25c (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.41 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-0d1630"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-21ea6d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-b7dff9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-5a838f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-21357c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-4cfe14"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-d2c29e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-4dcab6"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-366a1c"
+    }
+  ],
+  "duration_ms": 31584,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 47311,
+    "completion_tokens": 3446,
+    "total_tokens": 50757,
+    "cached_tokens": 25919,
+    "api_calls": 4,
+    "cost_usd": 0.007297349999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 505,
+        "total_tokens": 2057,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00033355
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2121,
+        "completion_tokens": 773,
+        "total_tokens": 2894,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00058135
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20750,
+        "completion_tokens": 525,
+        "total_tokens": 21275,
+        "cached_tokens": 2116,
+        "cost_usd": 0.0040951
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 22888,
+        "completion_tokens": 1643,
+        "total_tokens": 24531,
+        "cached_tokens": 20745,
+        "cost_usd": 0.00228735
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "answer": "**The poem \"Parinde Ki Faryad\" (A Bird's Lament) from Allama Iqbal's *Bang-E-Dara Part 1* (Chapter 34) is itself the lament of a caged bird.** It expresses the bird's sorrow over its lost freedom, memories of the garden, separation from its mate and friends, the arrival of spring in contrast to its imprisonment, and a plea for release.[^1]\n\n> A Bird's Lament  \n>   \n> Those garden splendors, the chorus of all,  \n> The freedom to come and to go at my call.  \n>   \n> My heart aches with pain when I chance to recall,  \n> The smiling of buds on the dewdrops that fall.  \n>   \n> That beautiful image, that form full of grace,  \n> Whose presence brought life to my own dwelling place.  \n>   \n> Her voice never reaches me, held in this plight,  \n> Oh, if only release were within my own might!  \n>   \n> How wretched I am, for my home I now pine,  \n> My friends in our homeland, this prison is mine.  \n>   \n> The spring has arrived, and the flowers all bloom,  \n> While I weep for my fate in this house of dark gloom.  \n>   \n> O God! To whom can I tell my tale of despair?  \n> I fear in this cage I will die from my care.  \n>   \n> My heart is consuming its grief, it is true,  \n> And grief is consuming my heart through and through.  \n>   \n> O listener, don't think this a song and be glad,  \n> It is the cry of all hearts that are wounded and sad.  \n>   \n> O Captor, I beg you, now make me unbound,  \n> I'm voiceless; release me, a blessing you've found.[^1]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Parinde Ki Faryad\" (Ch. 34), [full passage](/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/translation/#p-f1e47c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "caged bird"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"parinde ki faryad\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.34 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "p-f1e47c",
+          "p-c41448",
+          "p-cb3992",
+          "p-838adc",
+          "p-9a4316",
+          "p-941bb0",
+          "p-6fadf2",
+          "p-f247dd",
+          "p-51fe7d",
+          "p-7d35b0",
+          "p-983c20"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 11 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-f1e47c"
+    }
+  ],
+  "duration_ms": 33130,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 31098,
+    "completion_tokens": 2790,
+    "total_tokens": 33888,
+    "cached_tokens": 19988,
+    "api_calls": 5,
+    "cost_usd": 0.0046164,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 366,
+        "total_tokens": 1922,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004717
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 1959,
+        "completion_tokens": 567,
+        "total_tokens": 2526,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006528
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8525,
+        "completion_tokens": 143,
+        "total_tokens": 8668,
+        "cached_tokens": 1954,
+        "cost_usd": 0.0014834
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 9219,
+        "completion_tokens": 580,
+        "total_tokens": 9799,
+        "cached_tokens": 8520,
+        "cost_usd": 0.0008558
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 9839,
+        "completion_tokens": 1134,
+        "total_tokens": 10973,
+        "cached_tokens": 9214,
+        "cost_usd": 0.0011527
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "answer": "**In \"The Wife's Lament\" (chapter 3 of *Old English Elegies*), the speaker names her dwelling-place in the following passage from the translation:**\n\n> I was bid to dwell in a wooded grove,  \n> under an oak tree in this earth-cave.<sup>[1]</sup>\n\nThis corresponds precisely to lines 27–28 in the original Old English text:\n\n> Heht mec mon wunian  \n> on wuda bearwe,  \n> under actreo  \n> in þam eorðscræfe.<sup>[2]</sup>\n\nThe \"earth-cave\" (*eorðscræfe*) under the oak tree (*actreo*) in the wooded grove (*wuda bearwe*) is explicitly described here as her forced home.<sup>[3]</sup>\n\n[^1]: *Old English Elegies*, ch. 3 (*The Wife's Lament*), translation, [paragraph](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-c1cc32).\n\n[^2]: *Old English Elegies*, ch. 3 (*The Wife's Lament*), original, [paragraph](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/original/#p-eb2594).\n\n[^3]: *Old English Elegies*, ch. 3, [full chapter](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry",
+        "language": "old-english"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife's lament\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old_english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wife lament"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"oak\" \"earth\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"under an oak\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"earth cave\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Literature",
+        "language": "old_english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (original)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 3,
+      "paragraph_id": "p-c1cc32"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 3,
+      "paragraph_id": "p-eb2594"
+    }
+  ],
+  "duration_ms": 39724,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 18991,
+    "completion_tokens": 3646,
+    "total_tokens": 22637,
+    "cached_tokens": 10684,
+    "api_calls": 5,
+    "cost_usd": 0.0040186,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 353,
+        "total_tokens": 1906,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00025775
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2001,
+        "completion_tokens": 1278,
+        "total_tokens": 3279,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00080985
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3104,
+        "completion_tokens": 186,
+        "total_tokens": 3290,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006913
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters"
+        ],
+        "prompt_tokens": 4382,
+        "completion_tokens": 580,
+        "total_tokens": 4962,
+        "cached_tokens": 3099,
+        "cost_usd": 0.00070155
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7951,
+        "completion_tokens": 1249,
+        "total_tokens": 9200,
+        "cached_tokens": 4377,
+        "cost_usd": 0.00155815
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "answer": "In Allama Iqbal's *Bang-E-Dara Part 1*, \"Bachay ki Dua\" (\"A Child's Prayer\") captures the child's voice aspiring to a life of selfless service and enlightenment.[^1] The line that most charges the parent-child relation—evoking the fulfillment of a parent's unspoken hopes for their offspring's moral grandeur—is: \"Let my life's work be to champion the poor, / To love the weak, and those who sorrow endure.\"[^2]\n\nConversely, \"Maa ka Khwab\" (\"Mother's Dream\") unfolds from the mother's anguished perspective, dreaming of her son lagging in a procession of lamp-bearing boys, his light snuffed out by her grief.[^3] The pivotal exchange that electrifies the relation comes in the child's rebuke: \"\\\"Do you now see what has become of it? / It is your tears that have extinguished it.\\\"\"[^4] (This caps the mother's earlier lament: \"Your absence leaves me in deep turmoil; / I string each day a garland of my tears.\"[^5])\n\nThese voices dramatize parent-child bonds from reciprocal angles—the child's forward-striving prayer versus the mother's clinging sorrow—but depict **two different relationships**. Nothing in the corpus links the supplicant child of chapter 16 to the dreamed son of chapter 29; they stand as distinct vignettes in Iqbal's exploration of filial independence versus parental attachment.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 16 \"Bachay Ki Dua\" (translation), [/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/).\n\n[^2]: Ibid., [p-877b09](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-877b09).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 29 \"Maa ka Khwab\" (translation), [/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/).\n\n[^4]: Ibid., [p-4feffc](/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/#p-4feffc).\n\n[^5]: Ibid., [p-c4bed6](/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/#p-c4bed6).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bachay ki Dua"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Maa ka Khwam"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Child's Prayer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mother's Dream\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Maa ka Khwab\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maa khwab"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mother's dream\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mother dream iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-877b09"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-01b332"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29,
+        "paragraph_ids": [
+          "p-4feffc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29,
+        "paragraph_ids": [
+          "p-c4bed6"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-877b09"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-4feffc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-c4bed6"
+    }
+  ],
+  "duration_ms": 51476,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 25428,
+    "completion_tokens": 4712,
+    "total_tokens": 30140,
+    "cached_tokens": 17729,
+    "api_calls": 5,
+    "cost_usd": 0.00478225,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1599,
+        "completion_tokens": 443,
+        "total_tokens": 2042,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00031195
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2744,
+        "completion_tokens": 567,
+        "total_tokens": 3311,
+        "cached_tokens": 149,
+        "cost_usd": 0.00080995
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6276,
+        "completion_tokens": 357,
+        "total_tokens": 6633,
+        "cached_tokens": 2739,
+        "cost_usd": 0.00102285
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 7046,
+        "completion_tokens": 1750,
+        "total_tokens": 8796,
+        "cached_tokens": 6271,
+        "cost_usd": 0.00134355
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 7763,
+        "completion_tokens": 1595,
+        "total_tokens": 9358,
+        "cached_tokens": 7041,
+        "cost_usd": 0.00129395
+      }
+    ]
+  }
+}

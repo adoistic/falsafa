@@ -1,0 +1,240 @@
+{
+  "answer": "Manu's Chapter 1 opens with sages approaching him to request \"the sacred laws for all the four *varnas* (social orders)\" (Mn. 1.2),[^1] after which he narrates an extended cosmogony: the Self-Existent One manifests from primordial darkness, creates waters and a golden egg from which Brahma emerges, produces mind/ego/senses/elements/gods/Vedas/time/names/actions/Dharma, and—crucially—causes \"the Brahmana, the Kshatriya, the Vaishya, and the Shudra to emanate from his mouth, arms, thighs, and feet\" (Mn. 1.31) for the prosperity of the worlds.[^2] This frames *varṇa* as an organic, hierarchical division of the cosmic body, embedded in a Puruṣa-sūkta-like creation myth spanning verses 1–41.[^3]\n\nYājñavalkya's Chapter 1 likewise opens with sages honoring him and requesting \"the *dharma* of the *varṇa*s, the life-stages, and the others\" (Yj. 1.1),[^4] to which he briefly replies by directing them to study in antelope lands and listing fourteen sources of *dharma* (Vedas, etc.) and smṛti authors (including Manu). He then states plainly: \"Brāhmaṇa, Kṣatriya, Vaiśya, and Śūdra are the *varṇa*s; the first three are the twice-born\" (Yj. 1.10),[^5] before proceeding directly to procedural rules for saṃskāras (conception, naming, upanayana), purity rites, student conduct, marriage forms, and mixed castes—without any cosmogonic narrative.[^6]\n\nYājñavalkya has not genuinely shifted the framework so much as streamlined it for utility: *varṇa* remains the foundational category for *dharma* (as in Manu), but its mythic origin is elided in favor of immediate, prescriptive detail on rites and duties. The procedural tone prioritizes orthopraxy over ontology, treating *varṇa* as a self-evident social-ritual order rather than a divine emanation requiring prelude—effectively stripping the cosmogony while retaining its hierarchical implications (e.g., twice-born primacy, duties by birth).[^7]\n\n[^1]: Manu, *Manusmṛti*, [p-b51d68](/works/unknown-manusmrti-347b76/01/translation/#p-b51d68).\n\n[^2]: Manu, *Manusmṛti*, [p-13a2db](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db).\n\n[^3]: Manu, *Manusmṛti*, Chapter 1 opening ([full passage](/works/unknown-manusmrti-347b76/01/translation/#p-879544)).\n\n[^4]: Yājñavalkya, *Yājñavalkya Smṛti*, [p-97f0a4](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-97f0a4).\n\n[^5]: Yājñavalkya, *Yājñavalkya Smṛti*, [p-546db5](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-546db5).\n\n[^6]: Yājñavalkya, *Yājñavalkya Smṛti*, Chapter 1 sections 1–4 ([full chapter](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/)).\n\n[^7]: Cf. both texts' shared request-response structure and *varṇa* sequence; Yājñavalkya lists Manu first among smṛti authors (Yj. 1.4), signaling continuity.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu varna cosmogony"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"varna\" manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"varna\" yajnavalkya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "four varnas"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmanas kshatriyas"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-b51d68",
+          "p-13a2db"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-97f0a4",
+          "p-546db5"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 0,
+          "end": 40
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 41 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-b51d68"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-879544"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-97f0a4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-546db5"
+    }
+  ],
+  "duration_ms": 42261,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 71784,
+    "completion_tokens": 3978,
+    "total_tokens": 75762,
+    "cached_tokens": 39017,
+    "api_calls": 5,
+    "cost_usd": 0.010493249999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1584,
+        "completion_tokens": 469,
+        "total_tokens": 2053,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00032195
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1906,
+        "completion_tokens": 369,
+        "total_tokens": 2275,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00033635
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2822,
+        "completion_tokens": 400,
+        "total_tokens": 3222,
+        "cached_tokens": 1901,
+        "cost_usd": 0.00047925
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 31246,
+        "completion_tokens": 1184,
+        "total_tokens": 32430,
+        "cached_tokens": 2817,
+        "cost_usd": 0.00641865
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 34226,
+        "completion_tokens": 1556,
+        "total_tokens": 35782,
+        "cached_tokens": 31241,
+        "cost_usd": 0.00293705
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "answer": "**I could not find any passage in the Falsafa corpus's *Diwan-e-Ghalib* where Mirza Ghalib describes the unfaithful (or faithless/infidel) beloved as having no equal in the world.** \n\nThe corpus includes the complete *Diwan-e-Ghalib* ([Mirza Ghalib's collection of 239 ghazals](https://falsafa.com/works/mirza-ghalib-diwan-e-ghalib-74ed4c/)), with English translations available. Extensive searches across English translations for phrases and concepts like \"unfaithful beloved,\" \"faithless beloved,\" \"no equal,\" \"no rival,\" \"peerless/matchless beloved,\" \"infidel beloved,\" \"beloved equal,\" and combinations with \"Ghalib\" or \"in the world\" returned zero relevant results from this work.[^1]\n\nGhalib frequently writes of the beloved's cruelty (*jafa* or *bewafai*), beauty, and indifference (e.g., in ghazals lamenting unrequited love), but no verse matches this specific description. If it's from another collection, a different translation, or Persian works by Ghalib (not in this Urdu *Diwan*), it's not covered here. The corpus focuses on translated philosophical/classical texts and has only this Ghalib entry.\n\n[^1]: Searches conducted: `\"unfaithful beloved\"`, `faithless beloved`, `\"no equal\" beloved`, `\"no rival\" beloved`, `\"matchless\" beloved`, `\"peerless\" beloved`, `beloved equal`, `\"beloved\" rival`, `\"beauty\" rival`, `\"beauty\" \"no equal\"`, `infidel beloved`, `\"kafir\" beloved`, `\"ghalib\" beloved`, `ghalib \"no equal\"`, `ghalib rival`, `ghalib \"in the world\"`, `beloved` (top 10, none from Ghalib). All on English translation bodies.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib-mirza-asadullah-khan"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"unfaithful beloved\" ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"no equal\" beloved"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "unfaithful beloved"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "faithless beloved"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"no rival\" beloved"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"matchless\" beloved"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"peerless\" beloved"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"no equal\" beloved"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "beloved equal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"beloved\" rival"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"beauty\" rival"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"beauty\" \"no equal\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "infidel beloved"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kafir\" beloved"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ghalib\" beloved"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib \"no equal\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib rival"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib \"in the world\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "beloved",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"no equal\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"in the world\" beloved"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 51264,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 34039,
+    "completion_tokens": 4718,
+    "total_tokens": 38757,
+    "cached_tokens": 12519,
+    "api_calls": 6,
+    "cost_usd": 0.00728895,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 311,
+        "total_tokens": 1865,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00023695
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2044,
+        "completion_tokens": 952,
+        "total_tokens": 2996,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00065545
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2361,
+        "completion_tokens": 978,
+        "total_tokens": 3339,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00073185
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2679,
+        "completion_tokens": 733,
+        "total_tokens": 3412,
+        "cached_tokens": 2356,
+        "cost_usd": 0.0005489
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2907,
+        "completion_tokens": 605,
+        "total_tokens": 3512,
+        "cached_tokens": 2674,
+        "cost_usd": 0.0004828
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 22494,
+        "completion_tokens": 1139,
+        "total_tokens": 23633,
+        "cached_tokens": 2902,
+        "cost_usd": 0.004633
+      }
+    ]
+  }
+}

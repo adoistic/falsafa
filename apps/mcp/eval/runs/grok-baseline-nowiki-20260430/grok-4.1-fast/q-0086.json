@@ -1,0 +1,172 @@
+{
+  "answer": "**I could not find any lines by Allama Iqbal in the Falsafa corpus that mention both an eagle (or falcon/shaheen) and a sparrow (or equivalent like chirya) together.**\n\nIqbal's *Bang-e-Dara* (in three parts) is included, with English translations available.[^1] Searches across the English translations for phrases like \"eagle sparrow\", \"eagle\" \"sparrow\", \"falcon\", \"shaheen\", \"sparrow\", and related terms returned no matching results in his works—only scattered references elsewhere in the corpus (e.g., legal texts on birds). Iqbal frequently uses falcon/eagle (*shaheen*) imagery for lofty aspiration (e.g., in poems like \"Parinde Ki Faryad\"), but no direct contrast with a sparrow appears here.[^2]\n\nThis specific reference may come from Iqbal's other writings (e.g., lectures like *Speeches*), Persian works like *Payam-e-Mashriq*, or later anthologies not yet in the corpus (currently 37 works total).\n\n[^1]: From `list_works` for author \"iqbal\".\n[^2]: From `search_corpus` results for \"eagle\", \"sparrow\", \"falcon\", \"shaheen\", etc., and chapter lists for Iqbal's works.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eagle sparrow",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eagle\" \"sparrow\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eagle",
+        "limit": 10
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sparrow",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shaheen",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "falcon",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shaheen",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"house sparrow\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "chiri"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 31877,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 23196,
+    "completion_tokens": 3060,
+    "total_tokens": 26256,
+    "cached_tokens": 14539,
+    "api_calls": 4,
+    "cost_usd": 0.00398835,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1546,
+        "completion_tokens": 328,
+        "total_tokens": 1874,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00024385
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2079,
+        "completion_tokens": 681,
+        "total_tokens": 2760,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00052695
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 9412,
+        "completion_tokens": 795,
+        "total_tokens": 10207,
+        "cached_tokens": 2074,
+        "cost_usd": 0.0019688
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10159,
+        "completion_tokens": 1256,
+        "total_tokens": 11415,
+        "cached_tokens": 9407,
+        "cost_usd": 0.00124875
+      }
+    ]
+  }
+}

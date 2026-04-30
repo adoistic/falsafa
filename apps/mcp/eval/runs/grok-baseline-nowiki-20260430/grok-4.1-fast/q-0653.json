@@ -1,0 +1,191 @@
+{
+  "answer": "**The Falsafa corpus does not contain a discussion of the concept of *ekam* (the One) in the Old Javanese (Kawi) *tattva* texts.**\n\nThese texts—*Gaṇapatitattva*, *San Hyan Tattvajnana*, *San Hyan Mahajnana*, and *Vṛhaspatitattva*—are Śaiva philosophical works that systematically enumerate and describe the 36 *tattvas* (principles of reality), emphasizing a hierarchical cosmology from the highest *Śivatattva* (conscious, all-pervading divine reality) down to the gross elements. While they explore unity in contexts like the oneness of breath in yoga (*Gaṇapatitattva*), the unification of teaching (*San Hyan Tattvajnana*), or the pervasive *Śivatattva* underlying all (*Vṛhaspatitattva*), there is no explicit reference to *ekam* or an Upanishadic-style \"the One\" as a singular, non-dual absolute.\n\nThe highest realities are framed as *Paramaśivatattva* (formless, infinite Śiva), *Sadāśivatattva* (active, omniscient Śiva with four powers), and *Śivatattva* (pure consciousness pervading *māyā*), rather than a monistic *ekam*. If your query draws from Sanskrit Vedānta (e.g., *Chāndogya Upaniṣad* 6.2.1: \"In the beginning, this was Being alone, one only, without a second\"), it is not paralleled here. The corpus currently has no other Old Javanese *tattva* texts.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "tattva"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ekam",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the One\" tattva",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tattva",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old javanese\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "javanese"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "shaiva"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-ganapatitattva-66a136 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the one\" OR ekam OR \"single\" OR unity OR oneness",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 35919,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 103653,
+    "completion_tokens": 3599,
+    "total_tokens": 107252,
+    "cached_tokens": 3592,
+    "api_calls": 4,
+    "cost_usd": 0.0219913,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1557,
+        "completion_tokens": 684,
+        "total_tokens": 2241,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006309
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1766,
+        "completion_tokens": 750,
+        "total_tokens": 2516,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00049855
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 8119,
+        "completion_tokens": 1252,
+        "total_tokens": 9371,
+        "cached_tokens": 1761,
+        "cost_usd": 0.00198565
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 92211,
+        "completion_tokens": 913,
+        "total_tokens": 93124,
+        "cached_tokens": 150,
+        "cost_usd": 0.0188762
+      }
+    ]
+  }
+}

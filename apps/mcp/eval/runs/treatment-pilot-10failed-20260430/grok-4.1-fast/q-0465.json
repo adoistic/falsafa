@@ -1,0 +1,182 @@
+{
+  "answer": "**No work in the Falsafa corpus uses the figure of fire (i.e., fire as a central metaphor, symbol, or philosophical principle structuring the text) in a primary or defining way.**\n\nFire appears frequently across several works, but always in secondary roles:\n- **Literal ritual contexts** (sacrificial fires, *aupāsana*, *śrāddha* offerings, penances): Heavily featured in Hindu law texts (*smṛti*), where fire (*agni*) is a practical element of *dharma* rites rather than a figurative or symbolic motif. E.g., *Āṅgirasa Smṛti* discusses fire rituals extensively (dozens of mentions: *Aupāsana* fire for wives, *śrāddha* in secular vs. sacred fires, *homa* oblations, etc.).[^1] Similar ritual uses appear in *Manusmṛti*, *Viṣṇu Smṛti*, etc., but not investigated deeply as fire is not distinctive or central beyond standard Vedic practice.\n- **Narrative/destructive imagery** (hellfire, bale-fire torment, fire-sparks in floods): In Old English Christian poetry like *Andreas* (Cynewulf), fire evokes punishment or chaos poetically but as one motif among heroic, devotional themes.[^2]\n- **Poetic metaphors** (passion, love, destruction, light; e.g., candle-fire, inner fire, firefly): Recurrent in Urdu mystical poetry, especially Allama Iqbal's *Bang-e-Dara* (Parts 1–3), with poems like \"Jugnu\" (Firefly), \"Shama\" (Candle), and scattered uses for divine fervor or annihilation (*fana*). However, fire is one of many symbols (e.g., moth/candle, sun, stars) in collections focused on Islamic renaissance, selfhood, and spirituality—not a central figure.[^3]\n\nThe corpus (37 works: mostly *smṛti*, Old English verse, Urdu ghazals, French theory) lacks texts like Heraclitus (fire as cosmic principle) or Zoroastrian scriptures (fire as divine witness). No wiki cards, n-grams, or searches highlight fire as a structuring \"figure.\" If seeking peripheral mentions, the *smṛti* texts treat it most pervasively.\n\n[^1]: *Āṅgirasa Smṛti*, Ch. 1 (e.g., [p-d38615](https://falsafa.corpus/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-d38615), [p-f3be7c](https://falsafa.corpus/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-f3be7c), and ~40 others on ritual fires).\n[^2]: *Andreas*, Ch. 1 (e.g., [p-51b3f4](https://falsafa.corpus/works/cynewulf-andreas-07b573/01/translation/#p-51b3f4) on \"bale-fire’s torment\"; [p-e5ccfa](https://falsafa.corpus/works/cynewulf-andreas-07b573/01/translation/#p-e5ccfa) on \"fire-sparks\").\n[^3]: *Bang-e-Dara* Parts 1–3 (e.g., Part 1, Ch. 27 \"Jugnu\" [p-2eeb8b](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-2eeb8b); Part 1, Ch. 40 \"Shama\" [p-89fef5](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-89fef5); ~20 scattered poetic uses).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fire",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fire of\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"light of fire\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heraclitus fire",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fire is\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heraclitus"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "zoroaster fire"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-d38615"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-f3be7c"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-51b3f4"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-e5ccfa"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-2eeb8b"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-89fef5"
+    }
+  ],
+  "duration_ms": 42182,
+  "from_run": "treatment-pilot-10failed-20260430",
+  "usage": {
+    "prompt_tokens": 36245,
+    "completion_tokens": 3819,
+    "total_tokens": 40064,
+    "cached_tokens": 14257,
+    "api_calls": 3,
+    "cost_usd": 0.0070199500000000005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1900,
+        "completion_tokens": 639,
+        "total_tokens": 2539,
+        "cached_tokens": 150,
+        "cost_usd": 0.000677
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13962,
+        "completion_tokens": 1367,
+        "total_tokens": 15329,
+        "cached_tokens": 150,
+        "cost_usd": 0.0034534
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20383,
+        "completion_tokens": 1813,
+        "total_tokens": 22196,
+        "cached_tokens": 13957,
+        "cost_usd": 0.00288955
+      }
+    ]
+  }
+}

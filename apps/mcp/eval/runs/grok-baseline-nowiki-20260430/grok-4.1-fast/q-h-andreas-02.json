@@ -1,0 +1,126 @@
+{
+  "answer": "**The work is *Andreas* by Cynewulf, Chapter 1.**[^1]\n\nThis Old English poem stages a dialogue at sea between the apostle Andreas (Andrew) and the disguised Christ (the \"Lord of glory\"), who appears as the helmsman of a ship. Andreas praises the helmsman for his extraordinary skill in navigating the vessel through a storm, without yet recognizing his divine identity. The saint notes his own seafaring experience (\"sixteen times on a sea-boat\"), marvels at the ship's speed (\"fares, foam-necked, most like a fowl\"), and highlights the helmsman's youth (\"young ... not old in winters\") despite his masterful command as a \"wave-rider.\"[^1]\n\n[^1]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-ca9772).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "foam-necked",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"young, not old in winters\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sixteen times\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sea-boat\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ca9772"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ca9772"
+    }
+  ],
+  "duration_ms": 16924,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 45309,
+    "completion_tokens": 1695,
+    "total_tokens": 47004,
+    "cached_tokens": 24164,
+    "api_calls": 4,
+    "cost_usd": 0.0062847,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1642,
+        "completion_tokens": 464,
+        "total_tokens": 2106,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0003303
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2001,
+        "completion_tokens": 179,
+        "total_tokens": 2180,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004672
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 20489,
+        "completion_tokens": 506,
+        "total_tokens": 20995,
+        "cached_tokens": 1996,
+        "cost_usd": 0.0040514
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 21177,
+        "completion_tokens": 546,
+        "total_tokens": 21723,
+        "cached_tokens": 20484,
+        "cost_usd": 0.0014358
+      }
+    ]
+  }
+}

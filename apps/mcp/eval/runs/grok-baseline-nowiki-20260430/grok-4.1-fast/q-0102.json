@@ -1,0 +1,133 @@
+{
+  "answer": "**In Manusmṛti (also known as the Manusmṛti) Chapter 7, verses 27–28, Manu describes the rod of punishment (*daṇḍa*) as superior to the king himself.**[^1]\n\nThere, *daṇḍa*—personified as an embodiment of Dharma created by the Creator—is said to destroy any king who wields it improperly due to lust, perversity, or deviation from Dharma, along with his kinsmen.[^1] The king is merely its *wielder* (as stated in the preceding verse 26), provided he is truthful, wise, and acts with deliberation; otherwise, *daṇḍa* turns against him, underscoring its ultimate authority over even the ruler.[^2]\n\nThis theme builds on earlier verses in the chapter (e.g., 7.14–18), which establish *daṇḍa* as the primordial protector of Dharma, ruling and safeguarding all subjects independently of the king.[^3]\n\n[^1]: Manu, *Manusmṛti*, [7.27–28](/works/unknown-manusmrti-347b76/07/translation/#p-e9e861).\n[^2]: Manu, *Manusmṛti*, [7.26](/works/unknown-manusmrti-347b76/07/translation/#p-96ec46).\n[^3]: Manu, *Manusmṛti*, Chapter 7 ([full chapter](/works/unknown-manusmrti-347b76/07/translation/)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-e9e861",
+          "p-2d8a4d"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-96ec46"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-e9e861"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-96ec46"
+    }
+  ],
+  "duration_ms": 25296,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 19548,
+    "completion_tokens": 2734,
+    "total_tokens": 22282,
+    "cached_tokens": 12404,
+    "api_calls": 5,
+    "cost_usd": 0.003416,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1558,
+        "completion_tokens": 215,
+        "total_tokens": 1773,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00018975
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 1664,
+        "completion_tokens": 122,
+        "total_tokens": 1786,
+        "cached_tokens": 150,
+        "cost_usd": 0.0003713
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters"
+        ],
+        "prompt_tokens": 2247,
+        "completion_tokens": 225,
+        "total_tokens": 2472,
+        "cached_tokens": 1659,
+        "cost_usd": 0.00031305
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 6829,
+        "completion_tokens": 1173,
+        "total_tokens": 8002,
+        "cached_tokens": 2242,
+        "cost_usd": 0.001616
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 7250,
+        "completion_tokens": 999,
+        "total_tokens": 8249,
+        "cached_tokens": 6824,
+        "cost_usd": 0.0009259
+      }
+    ]
+  }
+}

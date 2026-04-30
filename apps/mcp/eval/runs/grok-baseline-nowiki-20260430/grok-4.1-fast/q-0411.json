@@ -1,0 +1,315 @@
+{
+  "answer": "### Mentions of \"Wine\" (Literal and Metaphorical)\n\nWine (and compounds like \"wine-cup\", \"wine-hall\") appears frequently, especially as a Sufi symbol of spiritual ecstasy in Urdu/Persian poetry (Iqbal, Ghalib, Zauq), but also literally in Old English poetry (*Andreas*), Dharmashastras (e.g., rice-wine), and economic discussions (wine trade/production). Below are key works with examples; full searches yielded ~200+ hits (many poetic repetitions).\n\n#### Cynewulf, *Andreas* (Ch. 1, Translation)\n- Jesus turns water to wine as a miracle.[^1]\n- \"Wine-halls wasted\" during famine.[^2]\n- \"Wine-city\" (Miletus) as a mead-hall metaphor.[^3]\n- Andreas instructed to dwell in the \"wine-city\".[^4]\n\n#### Allama Iqbal, *Bang-E-Dara* (Multiple Parts/Chapters)\nWine symbolizes love, divine intoxication, unity. ~50 hits across poems.\n- Part 1, Ch. 4: Heart ready to break holds wine.[^5]\n- Part 1, Ch. 5: Votary of wine blooms like a garden.[^6]\n- Part 1, Ch. 9: Abandon wine-drinking even if lawful.[^7]\n- Part 1, Ch. 17: Hearts drunk on mind's wines.[^8]\n- Part 2, Ch. 3: Joy in wine trade.[^9]\n- Part 3, Ch. 4: New drinkers, new wine.[^10]\n- Part 3, Ch. 7: Drunk on idle pleasure's wine.[^11]\n- Part 3, Ch. 20: Carry wine of truth; Persian flask, Hijazi wine.[^12]\n- Others: Chs. 11, 14, 18, 23, 25, 28, 32, 36, 40, 44 (Part 1); Chs. 4, 8, 11, 14, 26, 28 (Part 2); Chs. 11, 14, 17, 20, 25 (Part 3).\n\n#### Mirza Ghalib, *Diwan-E-Ghalib* (Multiple Ghazals)\n~150+ hits; wine as love/ecstasy metaphor ubiquitous.\n- Ch. 1: Trade heaven for wine; oath to quit wine.[^13]\n- Ch. 2: Saqi's pride cures thirst; pulse of wine.[^14]\n- Ch. 6: Fire of wine burns market.[^15]\n- Ch. 7: Drunken eyes waste feast.[^16]\n- Ch. 14: Worldly sorrows, scant wine?[^17]\n- Chs. 20, 22, 23, 29, 35, 43, 45, 48–50, 54, 59, 61–62, 66, 68, 70, 75, 77–78, 83, 85, 100, 105–106, 108, 111, 116–117, 128–132, 136–139, 141, 145–146, 150–151, 155–156, 160–161, 165, 167, 169, 171–172, 174, 176–177, 181, 186, 190–191, 193, 195, 198, 202, 204–205, 208, 213–214, 219, 231, 234, 239 (all mention wine/cups/flasks).\n\n#### Sheikh Ibrahim Zauq, *Diwan-E-Zauq* (Multiple)\n~20 hits.\n- Ch. 8: Pouring wine.[^18]\n- Ch. 11: Flask's gurgling song.[^19]\n- Ch. 13: Drinking wine prayer.[^20]\n- Ch. 15: Water to wine; jars of wine.[^21]\n- Chs. 25, 29, 37–38, 41, 45, 50, 52, 54, 58, 60.\n\n#### Other Works\n- *Kunjarakarna Dharmakathana* (Ch. 1): Hall with rice-wine.[^22]\n- *Manusmṛti* (Ch. 6): No sin in wine (natural inclination).[^23]\n- Charles Dunoyer, *Nouveau traité d'économie* (Vols. I/II): Wine-growing, merchants, Muhammad banning wine.[^24]\n- Charles Comte, *Traité de législation* (Vol. II): Wine libations.\n\n### Mentions of \"Intoxication\" (Literal/Metaphorical/Legal)\nFewer (~50 hits); often legal (incapacity in Smṛtis) or poetic (spiritual).\n\n#### Dharmashastras/Smṛtis\nLegal contexts: Intoxicated persons lack capacity for contracts/testimony.\n- *Manusmṛti* (Ch. 7): Intoxication as vice.[^25]\n- *Kunjarakarna* (Ch. 1): Doubt and intoxication break understanding.[^26]\n- *Pārśara Smṛti* (Ch. 10): Woman overcome by intoxication.[^27]\n- *Ślokāntara* (Ch. 1): Causes of intoxication (palm wine, etc.).[^28]\n- *Vṛttisaṃsana* (Ch. 1): Chain from desire to intoxication/violence.[^29]\n- Others: *Bṛhaspati Smṛti*, *Kātyāyana Smṛti*, *Nārada Smṛti*, *Viṣṇu Smṛti*, *Yājñavalkya Smṛti* (intoxicated/insane invalid deeds/witnesses).\n\n#### Poetry\n- Iqbal/Ghalib/Zauq: Spiritual \"intoxication\" (e.g., *Bang-E-Dara* Ch. 17: Drunk on mind's wines).\n\n### Mentions of \"Drunk/Drunken\" (~170 hits)\nOverlaps heavily with above; poetic (drunk on love/Fate/wine), legal (drunkards as unfit), narrative (drunken fools).\n\n- *Andreas* (Ch. 1): Heathens drunk on blood.[^30]\n- Iqbal: Stars drunk on Fate (*Bang-E-Dara* Part 2, Ch. 14); hearts drunk (*Part 1*, Ch. 17).[^31]\n- Ghalib/Zauq: Drunken eyes/glances, friends.[^32]\n- Smṛtis: Drunkards unfit witnesses (*Kātyāyana* Ch. 33); drunken elephant (*Ślokāntara*).\n- Economic: National drunkenness/climate (*Comte/Dunoyer*).\n\nThe corpus (37 works) emphasizes wine's symbolic role in mysticism over literal consumption. Legal texts treat intoxication as impairing agency. No exhaustive verbatim list possible (200+ unique paras), but all via search_corpus(\"wine|drunk|intoxicat*\").\n\n[^1]: Cynewulf, *Andreas*, Ch. 1, [p-ba1f68](/works/cynewulf-andreas-07b573/01/translation/#p-ba1f68).\n[^2]: *Andreas*, Ch. 1, [p-72e9c3](/works/cynewulf-andreas-07b573/01/translation/#p-72e9c3).\n[^3]: *Andreas*, Ch. 1, [p-2f5cb6](/works/cynewulf-andreas-07b573/01/translation/#p-2f5cb6).\n[^4]: *Andreas*, Ch. 1, [p-ecb179](/works/cynewulf-andreas-07b573/01/translation/#p-ecb179).\n[^5]: Iqbal, *Bang-E-Dara Part 1*, Ch. 4, [p-6a25c9](/works/allama-iqbal-bang-e-dara-part-1-55b25c/04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m/translation/#p-6a25c9).\n[^6]: *Bang-E-Dara Part 1*, Ch. 5, [p-9e1491](/works/allama-iqbal-bang-e-dara-part-1-55b25c/05-kahoon-kya-aarzoo-e-be-dili-mujh-ko-kahan-tak-hai/translation/#p-9e1491).\n[^7]: *Bang-E-Dara Part 1*, Ch. 9, [p-dce5e7](/works/allama-iqbal-bang-e-dara-part-1-55b25c/09-majnoon-ne-sheher-chhora-to-sehra-bhi-chhor-de/translation/#p-dce5e7).\n[^8]: *Bang-E-Dara Part 1*, Ch. 17, [p-6ebcbf](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/translation/#p-6ebcbf).\n[^9]: *Bang-E-Dara Part 2*, Ch. 3, [p-75cfc5](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/03-misaal-e-partav-e-mai-tawaf-e-jaam-karte-hain/translation/#p-75cfc5).\n[^10]: *Bang-E-Dara Part 3*, Ch. 4, [p-2b22cf](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-2b22cf).\n[^11]: *Bang-E-Dara Part 3*, Ch. 7, [p-e436cc](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-e436cc).\n[^12]: *Bang-E-Dara Part 3*, Ch. 20, [p-56fa40](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-56fa40).\n[^13]: Ghalib, *Diwan-E-Ghalib*, Ch. 1, [p-564520](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/01-aa-ke-meri-jaan-ko-qarar-nahin-hai/translation/#p-564520).\n[^14]: *Diwan*, Ch. 2, [p-6cadea](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/02-aabroo-kya-khaak-uss-gul-ki-ke-gulshan-mein-nahin/translation/#p-6cadea).\n[^15]: *Diwan*, Ch. 6, [p-ec8295](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost/translation/#p-ec8295).\n[^16]: *Diwan*, Ch. 7, [p-01951e](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/07-aamad-e-sailaab-e-toofan-e-sada-e-aab-hai/translation/#p-01951e).\n[^17]: *Diwan*, Ch. 14, [p-74a1cf](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/14-bahut-sahi-gham-e-geeti-sharaab-kam-kya-hai/translation/#p-74a1cf).\n[^18]: Zauq, *Diwan-E-Zauq*, Ch. 8, [p-2708ed](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/08-balaaein-aankhon-se-un-ki-madaam-lete-hain/translation/#p-2708ed).\n[^19]: *Diwan-E-Zauq*, Ch. 11, [p-21c416](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/11-chashm-e-qaatil-humein-kyonkar-na-bhala-yaad-rahe/translation/#p-21c416).\n[^20]: *Diwan-E-Zauq*, Ch. 13, [p-4a63d0](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/13-darya-e-ashk-chashm-se-jis-aan-beh-gaya/translation/#p-4a63d0).\n[^21]: *Diwan-E-Zauq*, Ch. 15, [p-d9ab3f](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/15-dood-e-dil-se-hai-yeh-taareeki-mere-gham-khaane-me/translation/#p-d9ab3f).\n[^22]: *Kunjarakarna Dharmakathana*, Ch. 1, [p-55c6fc](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-55c6fc).\n[^23]: *Manusmṛti*, Ch. 6, [p-89d810](/works/unknown-manusmrti-347b76/06/translation/#p-89d810).\n[^24]: Dunoyer, *Nouveau traité d'économie: VOL I*, Ch. 3, [p-1f97b0](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-1f97b0).\n[^25]: *Manusmṛti*, Ch. 7, [p-701061](/works/unknown-manusmrti-347b76/07/translation/#p-701061).\n[^26]: *Kunjarakarna*, Ch. 1, [p-386a1b](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-386a1b).\n[^27]: *Pārśara Smṛti*, Ch. 10, [p-2c6714](/works/unknown-parasara-smrti-2259be/10/translation/#p-2c6714).\n[^28]: *Ślokāntara*, Ch. 1, [p-05622a](/works/unknown-slokantara-d7a628/01/translation/#p-05622a).\n[^29]: *Vṛttisaṃsana*, Ch. 1, [p-e0e34a](/works/unknown-vratisasana-d0fe75/01/translation/#p-e0e34a).\n[^30]: *Andreas*, Ch. 1, [p-74e29a](/works/cynewulf-andreas-07b573/01/translation/#p-74e29a).\n[^31]: *Bang-E-Dara Part 2*, Ch. 14, [p-3ebd11](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-3ebd11).\n[^32]: Ghalib, *Diwan*, Ch. 6, [p-ec8295](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost/translation/#p-ec8295).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wine",
+        "limit": 200
+      },
+      "result_summary": "Found 200 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intoxication",
+        "limit": 200
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intoxicate",
+        "limit": 200
+      },
+      "result_summary": "Found 41 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drunk",
+        "limit": 200
+      },
+      "result_summary": "Found 131 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drunken",
+        "limit": 200
+      },
+      "result_summary": "Found 41 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ba1f68",
+          "p-72e9c3",
+          "p-2f5cb6",
+          "p-ecb179"
+        ]
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-6a25c9"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-564520",
+          "p-4304e1"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-89d810"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-386a1b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-ba1f68"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-72e9c3"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-2f5cb6"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-ecb179"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-6a25c9"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-9e1491"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-dce5e7"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-6ebcbf"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-75cfc5"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-2b22cf"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-e436cc"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-56fa40"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-564520"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-6cadea"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-ec8295"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-01951e"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-74a1cf"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-2708ed"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-21c416"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-4a63d0"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-d9ab3f"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-55c6fc"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-89d810"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-1f97b0"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-701061"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-386a1b"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-2c6714"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-05622a"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-e0e34a"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-74e29a"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-3ebd11"
+    }
+  ],
+  "duration_ms": 56933,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 127664,
+    "completion_tokens": 6365,
+    "total_tokens": 134029,
+    "cached_tokens": 59380,
+    "api_calls": 3,
+    "cost_usd": 0.0198083,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1546,
+        "completion_tokens": 712,
+        "total_tokens": 2258,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006427
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 57706,
+        "completion_tokens": 1625,
+        "total_tokens": 59331,
+        "cached_tokens": 1529,
+        "cost_usd": 0.01212435
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 68412,
+        "completion_tokens": 4028,
+        "total_tokens": 72440,
+        "cached_tokens": 57701,
+        "cost_usd": 0.00704125
+      }
+    ]
+  }
+}

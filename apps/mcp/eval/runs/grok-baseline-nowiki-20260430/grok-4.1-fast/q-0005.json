@@ -1,0 +1,113 @@
+{
+  "answer": "In Allama Iqbal's poem **Shikwa** (from *Bang-E-Dara Part 3*, chapter 20), the speaker—representing the Muslim ummah—directly addresses God (as \"You\") throughout with a grievance (*shikwa*) over their fallen state, contrasting past glories with present decline and misfortune. A key verse explicitly lamenting the fate of Muslims is:\n\n> There are other nations, and among them sinners you can find,  \n> There are the humble, and the ones drunk with their pride of mind.  \n> There are the lazy, heedless, and the clever of their kind,  \n> And hundreds more who from Your very name are disinclined.  \n> But all Your blessings fall upon the houses of the foe,  \n> While on the wretched Muslims falls the lightning’s fiery blow.[^1]\n\nThis complaint continues in subsequent stanzas, e.g., noting how idols mock the Muslims' withdrawal as guardians of the Kaaba, how non-believers prosper while Muslims receive only unfulfilled promises, and how worldly wealth now eludes them.[^2]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-20fc7c).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, [chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Shikwa\" Muslims complain God",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Shikwa God Muslims fate decline",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-20fc7c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-20fc7c"
+    }
+  ],
+  "duration_ms": 26904,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 17080,
+    "completion_tokens": 2810,
+    "total_tokens": 19890,
+    "cached_tokens": 6873,
+    "api_calls": 3,
+    "cost_usd": 0.00379005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1559,
+        "completion_tokens": 505,
+        "total_tokens": 2064,
+        "cached_tokens": 1558,
+        "cost_usd": 0.0003306
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5170,
+        "completion_tokens": 578,
+        "total_tokens": 5748,
+        "cached_tokens": 150,
+        "cost_usd": 0.0013005
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "list_chapters"
+        ],
+        "prompt_tokens": 10351,
+        "completion_tokens": 1727,
+        "total_tokens": 12078,
+        "cached_tokens": 5165,
+        "cost_usd": 0.00215895
+      }
+    ]
+  }
+}

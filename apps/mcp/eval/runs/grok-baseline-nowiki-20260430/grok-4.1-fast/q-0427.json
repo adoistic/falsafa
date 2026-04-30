@@ -1,0 +1,308 @@
+{
+  "answer": "Several works in the Falsafa corpus reference Greek or Roman antiquity, typically in comparative historical discussions of slavery, republics, civilization, or legendary rulers. These mentions appear almost exclusively in 19th-century French political and economic treatises by Charles Comte and Charles Dunoyer, who draw on classical examples to analyze social structures, and in a few medieval Old English poems that evoke Greco-Roman settings or figures in a Christian-historical context. No primary texts from Greek or Roman antiquity are included in the corpus.[^1]\n\n### Key Works and Examples\n\n**Charles Comte, *Traité de Législation* (multiple volumes)**  \nThis multi-volume work frequently contrasts modern societies with Greek and Roman antiquity, especially regarding slavery, governance, and cultural decline.  \n- VOL III mentions the \"peoples who inhabit the soil of ancient Greece\" as having become stationary or regressive after Roman conquest.[^2]  \n- VOL IV discusses \"ancient Rome\" as a site of proletarian support for despotism and references Roman priests and mores.[^3]  \n- VOL I and II also reference Greek republics (e.g., Sparta, Athens), Roman institutions, and philosophers like Plato.[^4]\n\n**Charles Dunoyer, *Nouveau Traité d'Économie* (VOLS I–II)**  \nDunoyer uses Greco-Roman antiquity to illustrate economic regimes based on slavery.  \n- VOL I notes that \"slaves... provided for the subsistence of the ancient Greeks\" and that \"Rome had slaves from its origin.\"[^5]  \n- VOL II attributes the \"almost ideal beauty of form\" of the \"ancient Greeks\" to intermarriage practices.[^6]\n\n**Charles Comte, *Traité de la Propriété: VOL I***  \nComte critiques ancient slaveholding philosophies, naming \"Aristotle, Plato, Cicero\" as proprietors whose ideas shaped later property doctrines.[^7]\n\n**Cynewulf, *Elene***  \nThis Old English poem sets part of its narrative (the Finding of the True Cross) in \"the land of the Greeks,\" with Constantine as \"Caesar\" and \"helm of the Romans.\"[^8]\n\n**Unknown, *Old English Elegies* (Widsith)**  \nThe catalog-poem *Widsith* lists legendary rulers, stating \"Caesar ruled the Greeks.\"[^9]\n\nOther works, such as Allama Iqbal's *Bang-e-Dara* poems, mention \"Caesar\" as a symbol of imperial power but not explicitly in the context of Roman antiquity.[^10] The Indic Smṛti texts and other medieval Kawi works contain no such references.\n\n[^1]: Full corpus inventory retrieved via `list_works`; 37 works total, primarily Indic law codes, Urdu poetry, Old English literature, and French liberal theory. No classical Greek/Roman authors like Plato or Cicero are present as primary texts.\n\n[^2]: Charles Comte, *Traité de Législation: VOL III*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/48-de-la-superiorite-des-peuples-d-espece-caucasienne/translation/#p-a92f3f).\n\n[^3]: Charles Comte, *Traité de Législation: VOL IV*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/15-de-l-influence-de-l-esclavage-domestique-sur-l-esp/translation/#p-15a1d3) and [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/23-de-l-inegalite-des-fortunes-produite-par-l-esclava/translation/#p-bed00d).\n\n[^4]: E.g., Charles Comte, *Traité de Législation: VOL I*, chapter 15 [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/15-des-peines-et-des-plaisirs-physiques-consideres-co/translation/#p-091645) (Greece during Peloponnesian Wars); VOL II, chapter 1 (Sparta, Athens, Rome).\n\n[^5]: Charles Dunoyer, *Nouveau Traité d'Économie: VOL I*, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/07-ii-liberte-compatible-avec-la-maniere-de-vivre-des/translation/#p-6c6409).\n\n[^6]: Charles Dunoyer, *Nouveau Traité d'Économie: VOL II*, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/18-viii-application-des-memes-moyens-de-liberte-aux-a/translation/#p-483a76).\n\n[^7]: Charles Comte, *Traité de la Propriété: VOL I*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-fcbad4).\n\n[^8]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n\n[^9]: Unknown, *Old English Elegies*, [paragraph](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-545201).\n\n[^10]: E.g., Allama Iqbal, *Bang-e-Dara Part 3*, chapter 2 [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/#p-e0bfb3) (\"realm of Constantinople, once the abode of Caesar\").",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Greek antiquity",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Roman antiquity",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancient Greece",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancient Rome",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancient Greeks",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancient Romans",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "classical antiquity",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ancient Greece\" OR \"ancient Rome\" OR \"ancient Greeks\" OR \"ancient Romans\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Greece OR Athens OR Sparta OR Thebes",
+        "limit": 20
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Rome OR Roman OR Romans OR Cicero OR Caesar",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Greek\" OR \"Greeks\" OR \"Hellenic\" OR \"Hellenes\" OR Plato OR Aristotle",
+        "limit": 20
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 48,
+        "paragraph_ids": [
+          "p-a92f3f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 15,
+        "paragraph_ids": [
+          "p-15a1d3"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-6c6409"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 18,
+        "paragraph_ids": [
+          "p-483a76"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f5d1f1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-fcbad4"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 14,
+        "paragraph_ids": [
+          "p-545201"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-a92f3f"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-15a1d3"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-bed00d"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-091645"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-6c6409"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-483a76"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-fcbad4"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-545201"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-e0bfb3"
+    }
+  ],
+  "duration_ms": 45557,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 44581,
+    "completion_tokens": 5157,
+    "total_tokens": 49738,
+    "cached_tokens": 15177,
+    "api_calls": 4,
+    "cost_usd": 0.009218150000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1546,
+        "completion_tokens": 671,
+        "total_tokens": 2217,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006222
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2865,
+        "completion_tokens": 636,
+        "total_tokens": 3501,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008685
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12022,
+        "completion_tokens": 1460,
+        "total_tokens": 13482,
+        "cached_tokens": 2860,
+        "cost_usd": 0.0027054
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "list_works"
+        ],
+        "prompt_tokens": 28148,
+        "completion_tokens": 2390,
+        "total_tokens": 30538,
+        "cached_tokens": 12017,
+        "cost_usd": 0.00502205
+      }
+    ]
+  }
+}

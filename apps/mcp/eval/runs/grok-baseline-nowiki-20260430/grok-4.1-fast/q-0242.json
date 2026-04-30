@@ -1,0 +1,255 @@
+{
+  "answer": "**Partition of Inheritance Among Brothers and Sons**\n\nThe *Manusmṛti* treats the partition of paternal inheritance expansively across dozens of verses in Chapter 9 (approximately verses 104–157), detailing rules for equal vs. preferential shares (favoring the eldest), special portions (*udvikara*) like extra animals or property for the eldest, adjustments for sons of different mothers or *varṇas*, treatment of reunited brothers, self-acquired vs. paternal property, and exclusions (e.g., for impotent sons).[^1] This spans multiple paragraphs, with fine distinctions like the eldest taking a twentieth part plus the best items, or graduated shares (e.g., one more for eldest, half-share for others in some cases).[^2]\n\nIn contrast, the *Yājñavalkya Smṛti* covers the same topic far more concisely in Chapter 2, verses 114–149 (section 8: *dāyavibhāgaprakaraṇam*), emphasizing the father's discretion in partitioning (equal or preferential), equal shares post-parents' death, exclusions for self-acquired property, brief *varṇa*-based shares, and heir order—often in 1–3 verses per sub-rule.[^3]\n\n| Aspect | *Manusmṛti* (Expansive: Ch. 9, ~50 verses/paragraphs) | *Yājñavalkya Smṛti* (Concise: Ch. 2.114–149, ~35 verses/paragraphs) |\n|--------|-----------------------------------------------------|-------------------------------------------------------------|\n| **Basic Rule After Parents' Death** | Brothers divide paternal estate equally; no power while parents live. Eldest may take all (others live under him like under father); or equal with *udvikara* (1/20th + best items for eldest).[^4] | Father partitions as he wishes (preferential or equal, wives share if no *strīdhana*). After death, sons divide assets/debts equally; daughters take mother's remainder.[^5] |\n| **Self-Acquired Property** | Not divided if acquired without paternal estate; learning-based wealth is sole owner's.[^6] | Not divided if acquired without paternal detriment, from friends, or at marriage.[^7] |\n| **Sons of Different *Varṇas*/Mothers** | Detailed ratios: e.g., Brahmina's sons from wives: 4:3:2:1 shares (or 3/2/1.5/1 in tenths); Shudra son max 1/10th.[^8] | Brief: Brahmina's sons 4:3:2:1; Kshatriya's 3:2:1; Vaishya's 2:1.[^9] |\n| **Types of Sons & Shares** | 12 types listed (6 heir-kinsmen like *aurasa*, *kṣetraja*; 6 kinsmen-only); order of precedence; *putrikā* (appointed daughter) & her son detailed.[^10] | 12 types summarized (*aurasa* top; *putrikāsuta* equal; down to *apaviddha*); each succeeding takes in absence of prior.[^11] |\n| **Exclusions/Maintenance** | Impotent, blind, etc., maintained but no share; their fit sons share.[^12] | Eunuchs, outcastes, lame/insane/idiots/ blind maintained, no share; their fit *aurasa*/*kṣetraja* sons share.[^13] |\n\nThis illustrates *Yājñavalkya Smṛti*'s reputation for brevity: Manu's treatment multiplies rules with examples (e.g., animal divisions, twins' seniority), while Yajnavalkya condenses to essentials, often halving the detail.\n\n[^1]: *Manusmṛti*, Ch. 9, [full chapter](/works/unknown-manusmrti-347b76/09/translation/).\n\n[^2]: *Manusmṛti*, Ch. 9, [paragraphs 52–60](/works/unknown-manusmrti-347b76/09/translation/#p-5211c4) (e.g., Mn_9.112–120).\n\n[^3]: *Yājñavalkya Smṛti*, Ch. 2, [paragraphs 121–149](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-4d6fe3) (Yj_2.114–149).\n\n[^4]: *Manusmṛti*, Ch. 9, [paragraphs 52–55](/works/unknown-manusmrti-347b76/09/translation/#p-5211c4) (Mn_9.104–113).\n\n[^5]: *Yājñavalkya Smṛti*, Ch. 2, [Yj_2.114–117](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-4d6fe3).\n\n[^6]: *Manusmṛti*, Ch. 9, [paragraphs 90–92](/works/unknown-manusmrti-347b76/09/translation/#p-207a86) approx. (Mn_9.206–209).\n\n[^7]: *Yājñavalkya Smṛti*, Ch. 2, [Yj_2.118–119](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-bdf402).\n\n[^8]: *Manusmṛti*, Ch. 9, [paragraphs 98–104](/works/unknown-manusmrti-347b76/09/translation/#p-ade2ad) approx. (Mn_9.149–156).\n\n[^9]: *Yājñavalkya Smṛti*, Ch. 2, [Yj_2.125](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-6af4b8).\n\n[^10]: *Manusmṛti*, Ch. 9, [paragraphs 104–140](/works/unknown-manusmrti-347b76/09/translation/#p-999983) approx. (Mn_9.158–180+).\n\n[^11]: *Yājñavalkya Smṛti*, Ch. 2, [Yj_2.127–133](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-3d46e3).\n\n[^12]: *Manusmṛti*, Ch. 9, [paragraphs 146–147](/works/unknown-manusmrti-347b76/09/translation/#p-71fc56) approx. (Mn_9.201–202).\n\n[^13]: *Yājñavalkya Smṛti*, Ch. 2, [Yj_2.140–141](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-d292cd).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "inheritance",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "division of property",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "marriage",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king duties",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "inheritance"
+      },
+      "result_summary": "{\"topic\":\"inheritance\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\""
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "partition of property"
+      },
+      "result_summary": "{\"topic\":\"partition of property\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"M"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "duties of husband"
+      },
+      "result_summary": "{\"topic\":\"duties of husband\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manus"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-5211c4"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-4d6fe3"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-207a86"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-bdf402"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-ade2ad"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-6af4b8"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-999983"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-3d46e3"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-71fc56"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-d292cd"
+    }
+  ],
+  "duration_ms": 48517,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 55856,
+    "completion_tokens": 4969,
+    "total_tokens": 60825,
+    "cached_tokens": 12294,
+    "api_calls": 5,
+    "cost_usd": 0.011811599999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1570,
+        "completion_tokens": 644,
+        "total_tokens": 2214,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006135
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1892,
+        "completion_tokens": 236,
+        "total_tokens": 2128,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004739
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 2694,
+        "completion_tokens": 574,
+        "total_tokens": 3268,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00054275
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7423,
+        "completion_tokens": 846,
+        "total_tokens": 8269,
+        "cached_tokens": 2689,
+        "cost_usd": 0.00150425
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "compare_works",
+          "compare_works",
+          "compare_works",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 42277,
+        "completion_tokens": 2669,
+        "total_tokens": 44946,
+        "cached_tokens": 7418,
+        "cost_usd": 0.0086772
+      }
+    ]
+  }
+}

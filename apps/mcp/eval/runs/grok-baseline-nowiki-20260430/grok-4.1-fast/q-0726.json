@@ -1,0 +1,175 @@
+{
+  "answer": "**In the Old English poem *Deor* (found as Chapter 13 in *Old English Elegies*), there are seven strophes (or stanzas).**[^1]\n\nThe refrain **\"Þæs ofereōde, þisses swā mæg!\"** (translated as **\"That passed over; so may this.\"**) appears at the end of the **first five strophes** and the seventh.[^2][^3] It **ceases after the fifth strophe**, omitted from the sixth (a transitional gnomic reflection on sorrow and divine fortune).[^4] It then resumes once more in the final strophe, where the poet reveals his own plight.[^5]\n\nThus, there are **five strophes before the refrain ceases**.\n\n[^1]: *Old English Elegies*, Chapter 13 (*Deor*), translation: https://falsafa.corpus/translations/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/.\n\n[^2]: Paragraphs [p-1308a0], [p-d11ebc], [p-5821a4], [p-ac23ab], [p-160f1c]: https://falsafa.corpus/translations/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-1308a0.\n\n[^3]: Original: https://falsafa.corpus/original/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/original/.\n\n[^4]: Paragraph [p-b4d6b7]: https://falsafa.corpus/translations/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-b4d6b7.\n\n[^5]: Paragraph [p-6b7e51]: https://falsafa.corpus/translations/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-6b7e51.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Deor"
+      },
+      "result_summary": "Found 23 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.13 of unknown-old-english-elegies-d5fe9e (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"That passed over; so may this\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"thaes ofereode\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"slug\":\"unknown-old-english-elegies-d5fe9e\",\"title\":\"Old English Elegies\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Literature\",\"genre_slug\":\"literatu"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-1308a0"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-d11ebc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-5821a4"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-ac23ab"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-160f1c"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-b4d6b7"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-6b7e51"
+    }
+  ],
+  "duration_ms": 42780,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 24785,
+    "completion_tokens": 4204,
+    "total_tokens": 28989,
+    "cached_tokens": 6800,
+    "api_calls": 4,
+    "cost_usd": 0.006039,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 577,
+        "total_tokens": 2127,
+        "cached_tokens": 150,
+        "cost_usd": 0.000576
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 4974,
+        "completion_tokens": 294,
+        "total_tokens": 5268,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00091215
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 8171,
+        "completion_tokens": 1966,
+        "total_tokens": 10137,
+        "cached_tokens": 4969,
+        "cost_usd": 0.00187185
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "get_metadata"
+        ],
+        "prompt_tokens": 10090,
+        "completion_tokens": 1367,
+        "total_tokens": 11457,
+        "cached_tokens": 150,
+        "cost_usd": 0.002679
+      }
+    ]
+  }
+}

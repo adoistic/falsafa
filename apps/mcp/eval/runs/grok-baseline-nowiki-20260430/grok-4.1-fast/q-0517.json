@@ -1,0 +1,245 @@
+{
+  "answer": "**The Falsafa corpus contains two works that substantively engage with religious conversion from paganism/heathenism to Christianity, both via Old English poems attributed to Cynewulf.**\n\n**Cynewulf, *Andreas***: This poem recounts Saint Andrew's missionary journey to Mermedonia, a city of cannibalistic heathens who worship idols. Andrew endures torments to free Matthew, performs miracles (e.g., melting spears, flooding the city), leads the populace to renounce devils/idols, receive baptism, and pledge obedience to God's law—explicitly depicting mass conversion.[^1][^2][^3]\n\n**Cynewulf, *Elene***: This hagiographic poem narrates Helena (Elene), Constantine's mother, seeking the True Cross. Jew Judas reveals its location under divine compulsion, receives baptism (\"the bath of baptism\"), and becomes a faithful Christian (\"true to Christ\"). The narrative ties to Constantine's own conversion (\"your brother... received the bath of baptism\").[^4]\n\n**Notes on scope**:\n- *Cynewulf, Juliana*: Engages pagan-Christian conflict (Juliana resists pagan suitor Eleusius, drags the devil in chains), but focuses on martyrdom/resistance, not conversion.[^5]\n- Other works mention baptism/conversion tangentially (e.g., historical anecdotes in Charles Comte's *Traité de Législation* VOLs. II/IV amid slavery discussions; \"proselytes\" among slaves in Charles Dunoyer's *Nouveau traité d'économie* VOL I).[^6] These do not centrally \"engage\" the theme.\n- No Indic smṛti texts, Urdu poetry (Iqbal/Ghalib/Zauq), or other political theory works depict belief-change narratives; \"faith\" appears metaphorically/ritually.[^7]\n- Searches for \"conversion,\" \"apostasy,\" \"proselyte,\" \"pagan/heathen,\" etc., yielded no additional substantive matches across the 37 works.\n\n[^1]: Cynewulf, *Andreas*, Ch. 1, [¶p-0609a7](/works/cynewulf-andreas-07b573/01/translation/#p-0609a7).\n[^2]: Cynewulf, *Andreas*, Ch. 1, [¶p-2f5cb6](/works/cynewulf-andreas-07b573/01/translation/#p-2f5cb6).\n[^3]: Cynewulf, *Andreas*, Ch. 1, [passage](/works/cynewulf-andreas-07b573/01/translation/#p-63d3be,p-655ebf,p-74e29a) (heathens renounce idols, receive baptism).\n[^4]: Cynewulf, *Elene*, Ch. 1, [¶p-f5d1f1](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^5]: Cynewulf, *Juliana*, Ch. 1, [¶p-6bc4fe](/works/cynewulf-juliana-9a2157/01/translation/#p-6bc4fe).\n[^6]: Charles Comte, *Traité de Législation: VOL II*, Ch. 4, [¶p-27e8f6](/works/charles-comte-traite-de-legislation-vol-ii-20331d/04/translation/#p-27e8f6); Charles Dunoyer, *Nouveau traité d'économie: VOL I*, Ch. 8, [¶p-f98cd9](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/08/translation/#p-f98cd9).\n[^7]: E.g., *Manusmṛti*, Ch. 4, [¶p-993e15](/works/unknown-manusmrti-347b76/04/translation/#p-993e15) (\"faith\" in rituals).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "conversion",
+        "limit": 100
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"convert to\"",
+        "limit": 100
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"converted to\"",
+        "limit": 100
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"change of faith\"",
+        "limit": 100
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"from pagan\"",
+        "limit": 100
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "baptism",
+        "limit": 50
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"turn to\" faith OR christian OR god",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "apostasy"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "proselyte"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"embrace christianity\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pagan",
+        "limit": 50
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heathen",
+        "limit": 50
+      },
+      "result_summary": "Found 25 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true cross\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"constantine\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mermedon"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"saint juliana\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-0609a7"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-2f5cb6"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-63d3be"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-655ebf"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-74e29a"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-6bc4fe"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-27e8f6"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-f98cd9"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-993e15"
+    }
+  ],
+  "duration_ms": 36658,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 51226,
+    "completion_tokens": 3306,
+    "total_tokens": 54532,
+    "cached_tokens": 23912,
+    "api_calls": 4,
+    "cost_usd": 0.0083114,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 502,
+        "total_tokens": 2052,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005385
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2133,
+        "completion_tokens": 336,
+        "total_tokens": 2469,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005721
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21489,
+        "completion_tokens": 731,
+        "total_tokens": 22220,
+        "cached_tokens": 2128,
+        "cost_usd": 0.0043441
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 26054,
+        "completion_tokens": 1737,
+        "total_tokens": 27791,
+        "cached_tokens": 21484,
+        "cost_usd": 0.0028567
+      }
+    ]
+  }
+}

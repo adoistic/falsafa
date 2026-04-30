@@ -1,0 +1,288 @@
+{
+  "answer": "**The concept of *danda* (the \"rod\" or \"staff of punishment,\" symbolizing the king's coercive authority and violence in upholding *dharma* and social order) is most prominently engaged in the Dharmaśāstra tradition, particularly in discussions of *rājadharma* (the duties of kings).**[^1]\n\nThe **Manusmṛti** (Chapters 7 and 8) provides the most extensive treatment. It portrays the king as the embodiment of divine authority, created from particles of the gods, whose primary role is protection through *Daṇḍa*. The text states that the creator fashioned *Daṇḍa* as the guarantor of *dharma*, warning that without its just application by the king, the strong would devour the weak \"like fish on a spit.\"[^2][^3] *Daṇḍa* is personified as the king's own son, the protector of all beings, ruling subjects while they sleep; it must be wielded with wisdom, lest it destroy the unjust king and his realm.[^4] The king is urged to keep his \"rod of punishment upraised,\" using it to acquire, protect, augment, and distribute wealth.[^5]\n\nThe **Yājñavalkya Smṛti** (Chapter 1) echoes this, listing *daṇḍa* (force/punishment) among the four political expedients (*upāyas*: conciliation, gifts, dissension, force) and declaring that *dharma* itself was created by Brahmā \"in the form of punishment.\" The king must wield it justly to protect the people, as unjust punishment leads to ruin.[^6]\n\n**Other Smṛtis** (e.g., Nārada Smṛti, Kātyāyana Smṛti, Paraśara Smṛti) address judicial and royal duties (*vyavahāra* and *rājadharma*), where *danda* implicitly structures the king's role in law and order, though less explicitly personified than in Manu.[^7] No other works in the corpus (e.g., poetry like Diwan-e-Ghalib or Old English texts) engage this specific Indic philosophical figure.\n\n[^1]: Manusmṛti, [Chapter 7](/works/unknown-manusmrti-347b76/07/translation/).\n\n[^2]: Manusmṛti, [7.14-15](/works/unknown-manusmrti-347b76/07/translation/#p-73f910).\n\n[^3]: Manusmṛti, [7.20](/works/unknown-manusmrti-347b76/07/translation/#p-d56424).\n\n[^4]: Manusmṛti, [7.17-19, 26-31](/works/unknown-manusmrti-347b76/07/translation/#p-c970b2).\n\n[^5]: Manusmṛti, [7.102-103](/works/unknown-manusmrti-347b76/07/translation/#p-69b82c).\n\n[^6]: Yājñavalkya Smṛti, [Chapter 1 (rājadharma section)](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-316d62); see Yj_1.345-357.\n\n[^7]: These are legal treatises (*vyavahāramūla*) presupposing the king's *danda*-based authority; e.g., Nārada Smṛti [Chapter 1](/works/unknown-naradasmrti-7650d2/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danda king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" danda",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "violence king danda",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "political"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danda",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the rod\" king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rod of punishment\" king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king punishment rod",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" \"rod\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "indic"
+      },
+      "result_summary": "Listed 19 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "Listed 80 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rod of punishment\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"staff of punishment\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-73f910"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-d56424"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-c970b2"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-69b82c"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-316d62"
+    }
+  ],
+  "duration_ms": 33123,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 98256,
+    "completion_tokens": 4472,
+    "total_tokens": 102728,
+    "cached_tokens": 30400,
+    "api_calls": 5,
+    "cost_usd": 0.0173272,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 437,
+        "total_tokens": 1991,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0002992
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2536,
+        "completion_tokens": 763,
+        "total_tokens": 3299,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0006586
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 9883,
+        "completion_tokens": 806,
+        "total_tokens": 10689,
+        "cached_tokens": 2531,
+        "cost_usd": 0.00199995
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 14928,
+        "completion_tokens": 812,
+        "total_tokens": 15740,
+        "cached_tokens": 9878,
+        "cost_usd": 0.0019099
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 69355,
+        "completion_tokens": 1654,
+        "total_tokens": 71009,
+        "cached_tokens": 14923,
+        "cost_usd": 0.01245955
+      }
+    ]
+  }
+}

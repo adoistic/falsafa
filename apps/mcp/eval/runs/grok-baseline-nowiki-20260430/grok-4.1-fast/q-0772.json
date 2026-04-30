@@ -1,0 +1,198 @@
+{
+  "answer": "**There is no passage in *Kuñjarakarṇa Dharmakathana* where Vairocana directly describes the hells.** \n\nVairocana (synonymous here with the sermon-giving Buddha, the Lord Jina/Sugata/Gautama at the Monastery of Enlightenment) instead commands the protagonist Kuñjarakarṇa to travel to Yama's realm and witness the hells firsthand, then report back for further instruction on *dharma*.[^1] Kuñjarakarṇa does so (Cantos 7–13), where the hells—including the City of Iron Earth, sword-trees, iron mountains, cauldrons, and torments like impaling, crushing, scorching, and *kiṅkara* attacks—are vividly narrated by the poet (not Vairocana).[^2] Yama later explains the causes of sin (body, speech, mind) and specific punishments (e.g., for the *gandharva* king Pūrṇavijaya).[^3]\n\nVairocana's own teachings focus on karma, the five souls (*ātmā* etc.), debts to gods/parents/teachers/world, unity of Buddhist/Śaiva/Ṛṣi deities (identifying himself as all-pervading), and paths to *mokṣa* via merit, vows, and non-dual wisdom—after Kuñjarakarṇa's return.[^4]\n\n[^1]: *Kuñjarakarṇa Dharmakathana*, Chapter 1, [paras. p-f907b3–p-423a28](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-f907b3).\n[^2]: *Kuñjarakarṇa Dharmakathana*, Chapter 1, [paras. p-4f1644–p-61142e](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-4f1644) (City of Iron Earth, sword-grass, impaling, etc.).\n[^3]: *Kuñjarakarṇa Dharmakathana*, Chapter 1, [paras. p-571653–p-50854d](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-571653) (Yama's explanations); [paras. p-c32761–p-890b15](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-c32761) (cauldron for Pūrṇavijaya).\n[^4]: *Kuñjarakarṇa Dharmakathana*, Chapter 1, [paras. p-6c6127–p-310540](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-6c6127) (Vairocana's self-identification and teachings).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kunjarakarna Dharmakathana Vairocana hells",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Vairocana\" hell",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kunjarakarna",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Dharmakathana\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vairocana",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hell\" Kunjarakarna",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-f907b3"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-423a28"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-4f1644"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-61142e"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-571653"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-50854d"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-c32761"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-890b15"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-6c6127"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-310540"
+    }
+  ],
+  "duration_ms": 30512,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 44632,
+    "completion_tokens": 3550,
+    "total_tokens": 48182,
+    "cached_tokens": 11203,
+    "api_calls": 4,
+    "cost_usd": 0.00902095,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1558,
+        "completion_tokens": 451,
+        "total_tokens": 2009,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003076
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 1750,
+        "completion_tokens": 430,
+        "total_tokens": 2180,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003355
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 6403,
+        "completion_tokens": 344,
+        "total_tokens": 6747,
+        "cached_tokens": 1745,
+        "cost_usd": 0.00119085
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 34921,
+        "completion_tokens": 2325,
+        "total_tokens": 37246,
+        "cached_tokens": 6398,
+        "cost_usd": 0.007187
+      }
+    ]
+  }
+}

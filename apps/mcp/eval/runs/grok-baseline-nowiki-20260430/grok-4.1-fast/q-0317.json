@@ -1,0 +1,258 @@
+{
+  "answer": "**In Cynewulf's *Elene*, Saint Helena (Elene) confronts Judas, a Jewish scholar singled out by a council of Hebrew wise men as uniquely knowledgeable.**[^1] The central scene unfolds after Elene demands the location of Christ's True Cross (Rood) from the council, who resist her theological interrogation by denying knowledge of Christian scriptures and history. They offer Judas as hostage; alone with her, he equivocally denies knowing its location despite ancient events, prompting Elene to threaten him with death or life based on his revelation. When he persists in denial, she has him confined without food in a dry well for seven days until hunger and prayer compel him to identify Calvary and unearth the Cross.[^2] **Elene refuses Judas's theological authority**—his claim to exclusive knowledge of Jewish law and prophetic secrets that obscure Christian truth—**as well as the political authority of the Jewish council** to withhold revelation from imperial command. Sexual authority is absent here.\n\n**In Cynewulf's *Juliana*, Saint Juliana confronts Eleusius, the pagan prefect (reeve) of Nicomedia who seeks her as bride.**[^3] The central scene is her direct defiance at his judgment-seat: after initial refusals via messenger and her father Africanus (who beats and delivers her), Eleusius greets her sweetly but demands idol-sacrifice; Juliana rebuffs him, declaring she will not wed nor yield unless he forsakes idols for the Christian God. He responds by ordering her stripped, scourged, and tortured.[^4] **Juliana refuses all three: Eleusius's sexual authority** (forced pagan marriage), **political authority** (as local ruler enforcing imperial persecution under Maximian), **and theological authority** (demanding worship of \"devil-idols\"). She later binds and interrogates a devil tempting her in prison, extending the theological defiance spiritually.[^5]\n\n[^1]: Cynewulf, *Elene*, [Chapter 1](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^2]: Cynewulf, *Elene*, [Chapter 1](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^3]: Cynewulf, *Juliana*, [Chapter 1](/works/cynewulf-juliana-9a2157/01/translation/#p-159495).\n[^4]: Cynewulf, *Juliana*, [Chapter 1](/works/cynewulf-juliana-9a2157/01/translation/#p-6a2534).\n[^5]: Cynewulf, *Juliana*, [Chapter 1](/works/cynewulf-juliana-9a2157/01/translation/#p-a370d7).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "helena"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "juliana"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Helena confronts"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Juliana confronts"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Elene\" \"Judas\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Juliana\" devil"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Juliana\" prefect"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Juliana\" \"Eleusius\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "f5d1f1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "222dfa",
+          "14a3be",
+          "a4e4ac"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "159495",
+          "6a2534",
+          "7cffd3"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "6bc4fe",
+          "75ff07"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-159495"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-6a2534"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-a370d7"
+    }
+  ],
+  "duration_ms": 49800,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 54117,
+    "completion_tokens": 4557,
+    "total_tokens": 58674,
+    "cached_tokens": 28977,
+    "api_calls": 5,
+    "cost_usd": 0.00875535,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1576,
+        "completion_tokens": 328,
+        "total_tokens": 1904,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00024985
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2099,
+        "completion_tokens": 816,
+        "total_tokens": 2915,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00059845
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 2566,
+        "completion_tokens": 430,
+        "total_tokens": 2996,
+        "cached_tokens": 2094,
+        "cost_usd": 0.0004141
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 23680,
+        "completion_tokens": 1236,
+        "total_tokens": 24916,
+        "cached_tokens": 150,
+        "cost_usd": 0.0053315
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 24196,
+        "completion_tokens": 1747,
+        "total_tokens": 25943,
+        "cached_tokens": 23675,
+        "cost_usd": 0.00216145
+      }
+    ]
+  }
+}

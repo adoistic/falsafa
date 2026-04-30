@@ -1,0 +1,138 @@
+{
+  "answer": "**Vīramitrodaya (Samayaprakāśa), Chapter 1**[^1]\n\nThe Vīramitrodaya, a 17th-century digest (*nibandha*) on Dharmaśāstra topics by Mitra Miśra, opens Chapter 1 (*Samayaprakāśa*, \"Illumination of Time\") with praises of deities and an extensive genealogy of its patron, King Vīrasiṃha of the Bundela dynasty. This traces back to Medinīmalla of the Sīkāśīrāja lineage, described as follows:\n\n> There was, in the lineage of the Sīkāśīrāja, a universal sovereign over all the earth, an ornament to the circle of kings, like the moon in the ocean: the glorious Medinīmalla by name, a wrestler upon the earth with the weight of his mighty forces. He resembled the mighty Bhīma, gladdening the world by crushing the wicked and fulfilling the desires of supplicants, his fame as white as the brilliance of the serpent king Ādiśeṣa. // 7 //[^2]\n\nThe genealogy continues through his son Arjuna, grandson Malakhāna, and great-grandson Pratāparudra (verses 9–13), leading to Madhukarasāha, Vīrasiṃha, and finally Mitra Miśra's patron, Vīrasiṃhadeva.[^3]\n\n[^1]: Mitra Miśra, *Vīramitrodaya* (Samayaprakāśa), Chapter 1, [translation](/works/unknown-viramitrodaya-d4b632/01/translation/).\n\n[^2]: Mitra Miśra, *Vīramitrodaya* (Samayaprakāśa), Chapter 1, [p-d24814](/works/unknown-viramitrodaya-d4b632/01/translation/#p-d24814).\n\n[^3]: Mitra Miśra, *Vīramitrodaya* (Samayaprakāśa), Chapter 1, [p-a96338](/works/unknown-viramitrodaya-d4b632/01/translation/#p-a96338), [p-602e62](/works/unknown-viramitrodaya-d4b632/01/translation/#p-602e62), [p-bbf6fa](/works/unknown-viramitrodaya-d4b632/01/translation/#p-bbf6fa), [p-804f59](/works/unknown-viramitrodaya-d4b632/01/translation/#p-804f59), [p-e1f944](/works/unknown-viramitrodaya-d4b632/01/translation/#p-e1f944).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Medinīmalla"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sīkāśīrāja"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wrestler upon the earth\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"serpent king Ādiśeṣa\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Pratāparudra"
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-viramitrodaya-d4b632 (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"slug\":\"unknown-viramitrodaya-d4b632\",\"title\":\"Vīramitrodaya\",\"author\":\"Mitra Miśra\",\"author_slug\":\"mitra-misra\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-d24814"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-a96338"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-602e62"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-bbf6fa"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-804f59"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-e1f944"
+    }
+  ],
+  "duration_ms": 45083,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 279843,
+    "completion_tokens": 2038,
+    "total_tokens": 281881,
+    "cached_tokens": 3567,
+    "api_calls": 3,
+    "cost_usd": 0.11133635,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1645,
+        "completion_tokens": 479,
+        "total_tokens": 2124,
+        "cached_tokens": 150,
+        "cost_usd": 0.000546
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3272,
+        "completion_tokens": 455,
+        "total_tokens": 3727,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008594
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_metadata"
+        ],
+        "prompt_tokens": 274926,
+        "completion_tokens": 1104,
+        "total_tokens": 276030,
+        "cached_tokens": 3267,
+        "cost_usd": 0.10993095
+      }
+    ]
+  }
+}

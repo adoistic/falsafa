@@ -1,0 +1,211 @@
+{
+  "answer": "Iqbal's *Bang-e-Dara* indeed features distinct poems titled \"Insaan\" (\"Human\" or \"Man\") in Part 2 (Chapter 14) and Part 3 (Chapter 12), reflecting evolving tones in his poetic exploration of human nature.[^1][^2] The Part 2 poem adopts a markedly pessimistic outlook, depicting humanity as uniquely burdened by existential isolation and unfulfilled longing amid a creation where everything else finds harmony and joy. It laments creation's \"tyranny\" in making man an insoluble enigma to himself—\"What a strange tyranny of Creation's art, / To make of Man an Enigma apart, / And hide that Enigma from his own gaze\"—culminating in profound sorrow: \"There is no one to share the sorrow of Man; / How bitter is the existence of Man!\"[^3][^4]\n\nIn contrast, the Part 3 \"Insaan\" shifts to a prouder, more affirmative vision, elevating humanity above passive nature through its innate dynamism and transformative potential. While the world submits inertly—\"Whatever exists in the world is accustomed to submission\"—the human essence surges with agency: \"Every power of the Human Being is aflame with striving.\" Iqbal portrays man not as diminutive but expansive—\"This single particle forever holds a yearning for vastness; / This is not a particle—perhaps it is a desert contracted to a point\"—and capable of mastery: \"If it so chooses, it can change the very form of the garden; / This being is wise, is perceptive, is potent.\"[^5][^6][^7]\n\nThis tonal progression aligns with Iqbal's broader philosophical arc in *Bang-e-Dara*, from lamenting modern spiritual malaise to inspiring self-realization and power.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, Chapter 14: \"Insaan\" ([translation](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/)).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, Chapter 12: \"Insaan\" ([translation](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/)).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 2*, Chapter 14, [p-d7ec8e](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-d7ec8e).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 2*, Chapter 14, [p-62d764](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-62d764).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 3*, Chapter 12, [p-cb3c43](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-cb3c43).\n[^6]: Allama Iqbal, *Bang-E-Dara Part 3*, Chapter 12, [p-2697a9](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-2697a9).\n[^7]: Allama Iqbal, *Bang-E-Dara Part 3*, Chapter 12, [p-587d8c](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-587d8c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Insaan\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Insaan"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"human\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14,
+        "paragraph_ids": [
+          "p-62d764",
+          "p-d7ec8e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-cb3c43",
+          "p-2697a9",
+          "p-587d8c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-d7ec8e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-62d764"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-cb3c43"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-2697a9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-587d8c"
+    }
+  ],
+  "duration_ms": 25710,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 44661,
+    "completion_tokens": 3650,
+    "total_tokens": 48311,
+    "cached_tokens": 17994,
+    "api_calls": 5,
+    "cost_usd": 0.0080581,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1572,
+        "completion_tokens": 356,
+        "total_tokens": 1928,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004699
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2073,
+        "completion_tokens": 527,
+        "total_tokens": 2600,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0004483
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12720,
+        "completion_tokens": 395,
+        "total_tokens": 13115,
+        "cached_tokens": 2068,
+        "cost_usd": 0.0024313
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 13894,
+        "completion_tokens": 823,
+        "total_tokens": 14717,
+        "cached_tokens": 12715,
+        "cost_usd": 0.00128305
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 14402,
+        "completion_tokens": 1549,
+        "total_tokens": 15951,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00342555
+      }
+    ]
+  }
+}

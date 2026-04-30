@@ -1,0 +1,296 @@
+{
+  "answer": "**\"The Wife's Lament\" (chapter 3 of *Old English Elegies*) and \"The Husband's Message\" (chapter 8) are indeed companion Old English elegies that explore a marital separation caused by exile and feud from opposing perspectives: the wife's desolate isolation and the husband's hopeful summons for reunion.**[^1][^2]\n\nA most distinctive line from the wife, capturing her enforced solitude, is: \"I was bid to dwell in a wooded grove, under an oak tree in this earth-cave.\"[^3] Her voice dwells on unendurable grief, feuding kin who sunder the lovers, and her lord's brooding distance in a stormy, watery exile—ending in a curse-like woe on those who wait in longing.[^4]\n\nFrom the husband—indirectly, via the rune-carved wood that speaks as his messenger—a standout line is the oath-sealing runes: \"I join together ᛋ and ᚱ, and ᛠ, ᚹ, and ᛞ to name in an oath [Sun-Ride, Sea-Joy, Day].\"[^5] His message recalls shared vows, notes his prosperity in a new land, and urges her to sail south at the cuckoo's call, promising joy if God grants reunion.[^6]\n\nThese voices are **not in direct dialogue** but speak past each other as complementary monologues on the same scenario. The wife knows nothing of his carved invitation or rune-oath; she fixates on present misery without hope of reunion. He assumes her fidelity and wealth will motivate her journey, unaware (or unaddressing) her entrapment and despair. Scholarly tradition pairs them thematically, but within the texts, no mutual response occurs—they echo the elegiac motif of exile (*wræc*) without interpersonal exchange.[^7]\n\n[^1]: *Old English Elegies*, ch. 3, [translation](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/).\n\n[^2]: *Old English Elegies*, ch. 8, [translation](/works/unknown-old-english-elegies-d5fe9e/08-nu-ic-onsundran-the-secgan-wille-treocyn-ic-tudre-/translation/).\n\n[^3]: *Old English Elegies*, ch. 3, [p-c1cc32](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-c1cc32).\n\n[^4]: *Old English Elegies*, ch. 3, [p-956fe7](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-956fe7).\n\n[^5]: *Old English Elegies*, ch. 8, [p-58bec2](/works/unknown-old-english-elegies-d5fe9e/08-nu-ic-onsundran-the-secgan-wille-treocyn-ic-tudre-/translation/#p-58bec2).\n\n[^6]: *Old English Elegies*, ch. 8, [full passage](/works/unknown-old-english-elegies-d5fe9e/08-nu-ic-onsundran-the-secgan-wille-treocyn-ic-tudre-/translation/#p-58bec2).\n\n[^7]: The corpus description notes these as \"elegiac poems expressing themes of exile, loss,\" with no explicit linkage beyond shared work; pairing draws from standard literary analysis reflected in chapter titles.[^2]",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Wife's Lament\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Husband's Message\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wife lament"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "husband message"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "exile separation wife husband"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"husband's message\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "husband message rune stick"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife's lament\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-c1cc32"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-58bec2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-old-english-elegies-d5fe9e (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 8,
+      "paragraph_id": "p-c1cc32"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 8,
+      "paragraph_id": "p-956fe7"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 8,
+      "paragraph_id": "p-58bec2"
+    }
+  ],
+  "duration_ms": 64948,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 53323,
+    "completion_tokens": 6413,
+    "total_tokens": 59736,
+    "cached_tokens": 24927,
+    "api_calls": 7,
+    "cost_usd": 0.01013205,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1580,
+        "completion_tokens": 454,
+        "total_tokens": 2034,
+        "cached_tokens": 149,
+        "cost_usd": 0.00052065
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1771,
+        "completion_tokens": 562,
+        "total_tokens": 2333,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006127
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5586,
+        "completion_tokens": 225,
+        "total_tokens": 5811,
+        "cached_tokens": 1766,
+        "cost_usd": 0.0009648
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters"
+        ],
+        "prompt_tokens": 6864,
+        "completion_tokens": 862,
+        "total_tokens": 7726,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017813
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 10693,
+        "completion_tokens": 1152,
+        "total_tokens": 11845,
+        "cached_tokens": 150,
+        "cost_usd": 0.0026921
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11879,
+        "completion_tokens": 1443,
+        "total_tokens": 13322,
+        "cached_tokens": 10688,
+        "cost_usd": 0.0014941
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 14950,
+        "completion_tokens": 1715,
+        "total_tokens": 16665,
+        "cached_tokens": 11874,
+        "cost_usd": 0.0020664
+      }
+    ]
+  }
+}

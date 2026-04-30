@@ -1,0 +1,288 @@
+{
+  "answer": "**No Old Javanese tattva text in the Falsafa corpus renders 'avidya' (Sanskrit for primordial ignorance) literally as the Sanskrit loanword *avidyā*.**[^1]\n\nInstead, the concept clusters around equivalent Kawi terms like *ajñāna* ('non-knowledge'), *lupa* ('forgetfulness'), *moha* ('delusion'), *vyāmoha* ('error'), or *andhatattva* ('principle of blindness/darkness'). These texts—Śaiva philosophical tracts on reality (*tattva*) from medieval Java—deploy *ajñāna* explicitly as the counterpart to *jñāna* (knowledge) in enumerating opposites (*viparyaya*) within *buddhi* (intellect): *dharma* vs. *adharma*, *jñāna* vs. *ajñāna*, *vairāgya* vs. *avairāgya*, *aiśvarya* vs. *anaiśvarya*.[^2] *Lupa* evokes the soul's (*ātman*) 'forgetting' its divine origin amid *māyā*'s veiling, while *moha*/*vyāmoha* denotes perceptual confusion (*bhrānta-jñāna*), as in mistaking body parts for reality due to 'blindness' (*andhatattva*).[^3]\n\nThis substitution—avoiding direct Sanskrit *avidyā* (central to Vedānta but peripheral here, where *mala*/*māyā* dominates)—signals **local exegetical authority**. These vernacular treatises (e.g., *Vṛhaspatitattva*, *Saṅ Hyaṅ Tattvajñāna*) adapt Pāñcarātra-Śaiva cosmology for Javanese audiences, prioritizing Kawi glosses (*ajñāna* as failed *pramāṇa*) over rote loans. It asserts the Javanese pandit's mastery: Sanskrit concepts are unpacked idiomatically, claiming interpretive sovereignty without deferring verbatim to Indian originals.[^4] The corpus lacks Advaita-style *avidyā*-centric discourse; ignorance is *māyā*-induced 'covering' (*āvaraṇa*) resolvable via *jñāna*-yoga, not illusion-dispelling *vidyā*.\n\n[^1]: Corpus-wide search for \"avidya\" yields zero matches in Kawi *tattva* texts; only *kṛtavidya* ('complete knower') appears once.[Slokāntara](/works/unknown-slokantara-d7a628/01/translation/#p-b503cd).\n\n[^2]: *Vṛhaspatitattva* lists *ajñāna* as *buddhi*'s perversion opposite *jñāna* (from *pratyakṣa*/*anumāna*/*āgama*); doubt (*saṅśaya*), error (*bhrānta*), etc., compound it.[Vṛhaspatitattva](/works/unknown-vrhaspatitattva-b60b28/01/transliteration/#p-9e2d55).\n\n[^3]: *Lupa* as soul's *māyā*-forgetting (*andhatattva* veils like elephant mistaking body for trunk); *moha*/*vyāmoha* as delusion.[Vṛhaspatitattva](/works/unknown-vrhaspatitattva-b60b28/01/transliteration/#p-d4e0d1); [Saṅ Hyaṅ Tattvajñāna](/works/unknown-san-hyan-tattvajnana-1f29bd/01/transliteration/#p-daaeef).\n\n[^4]: Kawi *tattva*-expositions prioritize *cetana*/*acetana* duality (*śiva* vs. *māyā*), rendering ignorance as *ajñāna*-*lupa* without *avidyā*, localizing Sanskrit *tattva*-śāstra.[Saṅ Hyaṅ Tattvajñāna](/works/unknown-san-hyan-tattvajnana-1f29bd/01/transliteration/#p-0cdcec).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "tattva"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "avidya",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tattva",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old javanese\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"avidya\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "{\"slug\":\"unknown-slokantara-d7a628\",\"title\":\"Slokantara\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Kawi\",\"langu"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ignorance",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "kawi"
+      },
+      "result_summary": "Listed 9 works"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136"
+      },
+      "result_summary": "{\"slug\":\"unknown-ganapatitattva-66a136\",\"title\":\"Gaṇapatitattva\",\"author\":\"Gaṇapati\",\"author_slug\":\"ganapati\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"K"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531"
+      },
+      "result_summary": "{\"slug\":\"unknown-san-hyan-mahajnana-11c531\",\"title\":\"San Hyan Mahajnana\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"languag"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "{\"slug\":\"unknown-san-hyan-tattvajnana-1f29bd\",\"title\":\"San Hyan Tattvajnana\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"lan"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "{\"slug\":\"unknown-slokantara-d7a628\",\"title\":\"Slokantara\",\"author\":\"Unknown\",\"author_slug\":\"unknown\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Kawi\",\"langu"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-ganapatitattva-66a136 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-slokantara-d7a628 (transliteration)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "Listed 1 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-b503cd"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-9e2d55"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-d4e0d1"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-daaeef"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-0cdcec"
+    }
+  ],
+  "duration_ms": 78067,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 165891,
+    "completion_tokens": 5745,
+    "total_tokens": 171636,
+    "cached_tokens": 12399,
+    "api_calls": 5,
+    "cost_usd": 0.06293305,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1585,
+        "completion_tokens": 447,
+        "total_tokens": 2032,
+        "cached_tokens": 150,
+        "cost_usd": 0.000518
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2582,
+        "completion_tokens": 920,
+        "total_tokens": 3502,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00074705
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_metadata",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6457,
+        "completion_tokens": 1791,
+        "total_tokens": 8248,
+        "cached_tokens": 2577,
+        "cost_usd": 0.00180035
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7998,
+        "completion_tokens": 813,
+        "total_tokens": 8811,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019836
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 147269,
+        "completion_tokens": 1774,
+        "total_tokens": 149043,
+        "cached_tokens": 7993,
+        "cost_usd": 0.05788405
+      }
+    ]
+  }
+}

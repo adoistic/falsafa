@@ -1,0 +1,145 @@
+{
+  "answer": "**Iqbal's *Khitab ba Jawanan-e-Islam* (Bang-e-Dara Part 3, Ch. 13) invokes the memory of early Muslim forebears—desert Arabs who conquered empires through proud action—to shame modern youth into revival.**[^1] The most demanding line indicts their inertia: \"You can have no true kinship with your forefathers, for you are all talk, they were all action; you are static, they were ever-moving.\"[^2]\n\n**Manu’s Chapter 2 details the *brahmachārin*'s (celibate student's) rigorous formation through ritual purity, sensory restraint, alms-begging, and total subservience to the *guru*, preparing him for *varṇa*-duty.**[^3] The most demanding line enforces absolute celibacy: \"He should sleep alone everywhere and should never spill his seed; for by spilling his seed from desire, he breaks his vow.\"[^4]\n\n**Iqbal's motivational pedagogy—rousing youth via ancestral heroism—presupposes a dynamic, expansionist polity of collective Muslim action and world-seizing (recalling the caliphal/imperial *ummah* forged from tribal poverty).** Manu's disciplinarian regimen—ego-crushing service and ritual—presupposes the static, hierarchical Vedic polity of fixed *varṇas*, priestly authority, and dharma-sustaining kingship.[^5]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, Ch. 13 (*Khitab ba Jawanan-e-Islam*), [translation](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/).\n[^2]: Ibid., [p-365462](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).\n[^3]: *Manusmṛti*, Ch. 2, [translation](/works/unknown-manusmrti-347b76/02/translation/).\n[^4]: Ibid., [p-51cabf](/works/unknown-manusmrti-347b76/02/translation/#p-51cabf).\n[^5]: *Manusmṛti* 2.6–12, 136–57 (sources of dharma, grounds of respect); cf. Iqbal's portrait of action-oriented forebears, [*p-365462*](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"khitab ba jawanan-e-islam\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"address to young muslims\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmacharin man u"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmacharin OR student OR \"celibate student\" manu"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"young muslims\" OR \"youth\" OR jawanan iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-51cabf"
+    }
+  ],
+  "duration_ms": 31503,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 28396,
+    "completion_tokens": 2884,
+    "total_tokens": 31280,
+    "cached_tokens": 2769,
+    "api_calls": 3,
+    "cost_usd": 0.006705849999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1591,
+        "completion_tokens": 493,
+        "total_tokens": 2084,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005422
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2474,
+        "completion_tokens": 513,
+        "total_tokens": 2987,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007288
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 24331,
+        "completion_tokens": 1878,
+        "total_tokens": 26209,
+        "cached_tokens": 2469,
+        "cost_usd": 0.00543485
+      }
+    ]
+  }
+}

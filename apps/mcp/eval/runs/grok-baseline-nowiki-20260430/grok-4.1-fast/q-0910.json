@@ -1,0 +1,198 @@
+{
+  "answer": "**The title \"Saqaliya\" of Allama Iqbal's poem (from *Bang-E-Dara Part 2*, chapter 21) directly names and addresses the island of Sicily itself, personified throughout as a grieving entity bearing the ruins of \"Hejazi civilization\" (the Muslim Arab cultural legacy there, from the era of Islamic rule).**[^1][^2][^3]\n\nThe poem opens by urging tears for this lost civilization—\"the grave of Hejazi civilization\"—referencing the Arab Muslims (\"desert-dwellers\") whose conquests revived a \"dead world,\" shook emperors, and freed humanity from \"superstition,\" with echoes of their *takbir* (Islamic proclamation of God).[^4][^5] Iqbal then apostrophizes Sicily mid-poem: \"Ah, O Sicily! You are the honor of the sea,\" praising its beauty while lamenting its past as \"the cradle of that nation's culture\" (the Muslim *qaum*, or community).[^6][^7][^8] He positions himself as \"pain incarnate,\" \"the dust of that caravan\" (Muslim conquerors), tasked by fate to inherit its mourning and \"carry [it] as a gift to Hindustan,\" weeping there himself to stir others.[^9][^10]\n\n**Using the Arabic name \"Saqaliya\" (صقلية, classical in Islamic texts and history) addresses Sicily through its Islamic-Arabic identity, resonating with Iqbal's Urdu-speaking Muslim audience familiar with that heritage (e.g., via references to Granada, Baghdad, Shiraz's nightingale, and Ibn Badrun).**[^11] A title like \"Sicily\" (the Latin/Italian *Sicilia*, rendered phonetically as اسسلی or \"Sisili\" even in the Urdu poem)[^12] **would have failed to immediately evoke this specific Muslim historical and emotional connection—treating the island as a neutral Western geography rather than a symbol of lost Islamic glory.** The corpus contains no explicit authorial commentary on the title choice, but the poem's content makes this cultural intent clear.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 21 \"Saqaliya\" (transliteration variant), [title and frontmatter](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/transliteration/#p-d17409).\n[^2]: *Ibid.*, (translation variant), [full chapter](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/).\n[^3]: *Ibid.*, (original Urdu variant), [title: صقليہ](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/original/#p-dae1ec).\n[^4]: *Ibid.*, translation, [p-08760e](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-08760e).\n[^5]: *Ibid.*, [p-13e58a](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-13e58a) to [p-26728b](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-26728b).\n[^6]: *Ibid.*, [p-379aeb](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-379aeb).\n[^7]: *Ibid.*, [p-82cbe3](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-82cbe3).\n[^8]: *Ibid.*, transliteration, [corresponding lines](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/transliteration/#p-d17409).\n[^9]: *Ibid.*, translation, [p-a060f8](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-a060f8) to [p-61a01e](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-61a01e).\n[^10]: *Ibid.*, [p-665fb2](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-665fb2).\n[^11]: *Ibid.*, original, [p-2ac079](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/original/#p-2ac079) ff.; cf. historical laments for Granada [p-02c3ef](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-02c3ef).\n[^12]: *Ibid.*, transliteration: \"Aah ae Sicily!\" (/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/transliteration/#p-d17409); original: اے سسلي (/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/original/#p-c5c3c0).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Saqaliya",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Saqīliya",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Saqaliya\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Sicily",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 21,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 21,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-2-9bc58c (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 21,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-2-9bc58c (transliteration)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-d17409"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-dae1ec"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-08760e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-13e58a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-26728b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-379aeb"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-82cbe3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-a060f8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-61a01e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-665fb2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-2ac079"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-02c3ef"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-c5c3c0"
+    }
+  ],
+  "duration_ms": 31008,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 11701,
+    "completion_tokens": 3846,
+    "total_tokens": 15547,
+    "cached_tokens": 2947,
+    "api_calls": 3,
+    "cost_usd": 0.00382115,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1581,
+        "completion_tokens": 422,
+        "total_tokens": 2003,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005047
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2652,
+        "completion_tokens": 520,
+        "total_tokens": 3172,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007679
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7468,
+        "completion_tokens": 2904,
+        "total_tokens": 10372,
+        "cached_tokens": 2647,
+        "cost_usd": 0.00254855
+      }
+    ]
+  }
+}

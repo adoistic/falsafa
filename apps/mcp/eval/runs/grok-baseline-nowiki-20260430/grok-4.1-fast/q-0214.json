@@ -1,0 +1,191 @@
+{
+  "answer": "In *Andreas*, the apostle Andrew confronts the cannibalistic Mermedonians—a brutal, \"corrupt folk\" who devour strangers—through heroic endurance of torture and displays of divine power that punish the wicked and reward repentance.[^1] Andrew is imprisoned, scourged repeatedly over days, and challenged by devils urging the pagans to kill him, yet he remains steadfast, praising God.[^2] God intervenes directly: Andrew commands a stone pillar to unleash a flood that drowns the worst offenders, resurrects drowned youths, and drives off demons, leading the survivors to mass conversion, baptism, and the building of a church.[^3] The strategy is coercive and miraculous, emphasizing physical suffering as proof of faith, supernatural retribution to break pagan resistance, and collective salvation for the humbled populace.\n\nIn *Elene*, Helena confronts the Jewish elders of Jerusalem—not violent cannibals, but scriptural scholars who reject Christ despite prophecies—via inquisitorial debate and coercion to reveal the True Cross.[^4] She summons thousands of \"law-clever\" Jews in stages (3,000, then 1,000, then 500), citing Moses, David, and Isaiah to expose their denial of Christ, threatening mass execution by fire if they lie.[^5] They yield Judas, who resists until starved in a pit for seven days, then prays for a sign; smoke reveals the Cross's location, a resurrection miracle identifies the True Cross, and a devil's outburst is rebutted by Judas (now Spirit-filled), prompting his baptism, installation as bishop Cyriacus, and broader Jewish conversion through the relic's veneration.[^6] The strategy is rhetorical and relic-centered: scriptural argumentation, targeted coercion of an intellectual elite, and evidential miracle (resurrection via Cross) to establish institutional Christianity.\n\nThe evangelical approaches thus differ sharply: *Andreas* relies on the saint's passive martyrdom and aggressive divine judgments to shatter a savage, unlettered paganism through awe and fear; *Elene* deploys active disputation, threats, and relic-discovery to overcome a learned but obstinate Judaism via proof from their own traditions and tangible holy objects.\n\n[^1]: *Andreas*, [Chapter 1/translation/#p-da0c5e](https://falsafa.corpus/works/cynewulf-andreas-07b573/01/translation/#p-da0c5e).\n[^2]: *Andreas*, [Chapter 1/translation/#p-5e2611](https://falsafa.corpus/works/cynewulf-andreas-07b573/01/translation/#p-5e2611); [Chapter 1/translation/#p-51b3f4](https://falsafa.corpus/works/cynewulf-andreas-07b573/01/translation/#p-51b3f4).\n[^3]: *Andreas*, [Chapter 1/translation/#p-2e50c1](https://falsafa.corpus/works/cynewulf-andreas-07b573/01/translation/#p-2e50c1); [Chapter 1/translation/#p-0609a7](https://falsafa.corpus/works/cynewulf-andreas-07b573/01/translation/#p-0609a7).\n[^4]: *Elene*, [Chapter 1/translation/#p-7b1c1f](https://falsafa.corpus/works/cynewulf-elene-d2d132/01/translation/#p-7b1c1f).\n[^5]: *Elene*, [Chapter 1/translation/#p-f5d1f1](https://falsafa.corpus/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^6]: *Elene*, [Chapter 1/translation/#p-f5d1f1](https://falsafa.corpus/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pagan\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heathen\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"convert\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true cross\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-5e2611",
+          "p-51b3f4",
+          "p-2e50c1",
+          "p-0609a7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7b1c1f",
+          "p-f5d1f1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-da0c5e"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-5e2611"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-51b3f4"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-2e50c1"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-0609a7"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-7b1c1f"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    }
+  ],
+  "duration_ms": 40438,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 80747,
+    "completion_tokens": 3497,
+    "total_tokens": 84244,
+    "cached_tokens": 36380,
+    "api_calls": 4,
+    "cost_usd": 0.0124409,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 119,
+        "total_tokens": 1681,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00014255
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 1907,
+        "completion_tokens": 513,
+        "total_tokens": 2420,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006154
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 32804,
+        "completion_tokens": 1573,
+        "total_tokens": 34377,
+        "cached_tokens": 1902,
+        "cost_usd": 0.007062
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 44474,
+        "completion_tokens": 1292,
+        "total_tokens": 45766,
+        "cached_tokens": 32799,
+        "cost_usd": 0.00462095
+      }
+    ]
+  }
+}

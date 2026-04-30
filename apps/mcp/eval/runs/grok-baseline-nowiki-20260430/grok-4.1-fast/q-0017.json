@@ -1,0 +1,136 @@
+{
+  "answer": "**In Cynewulf's *Andreas* (Chapter 1), the cannibalistic Mermedonians are first described shortly after the poem's opening, during the introduction of Matthew's missionary fate.** \n\nThe text portrays their land as grim and inhospitable: \"Fate had assigned him that far-off country, / the grim land of Mermedonia, a place of dread, / where no guest could journey for gold or for love, / nor find any welcome in that hateful nation. / That whole land was stained, its cities of men / soaked with the slaughter of strangers who came there. / It was the custom of that cursed tribe / that any foreigner who fared to their shores / they fed upon for food, a foul, grim feast.\"[^1] \n\nThis is immediately expanded upon: \"Such was their law, a loathsome habit, / to give to all guests who came to that ground / a bitter drink that bewildered the mind, / stole a man’s senses, his soul’s true thought. / Soon after they drank that deadly draught, / the fiends would feed on the fated man’s flesh.\"[^2]\n\n[^1]: Cynewulf, *Andreas*, Chapter 1, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-f6e450).\n\n[^2]: Cynewulf, *Andreas*, Chapter 1, [paragraphs](/works/cynewulf-andreas-07b573/01/translation/#p-f6e450).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedonians"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedonia"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cannibal Mermedonians"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f6e450"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f6e450",
+          "p-471d51"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-f6e450"
+    }
+  ],
+  "duration_ms": 30058,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 47523,
+    "completion_tokens": 2812,
+    "total_tokens": 50335,
+    "cached_tokens": 27127,
+    "api_calls": 4,
+    "cost_usd": 0.00684155,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 619,
+        "total_tokens": 2171,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003904
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2795,
+        "completion_tokens": 294,
+        "total_tokens": 3089,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00047665
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 21283,
+        "completion_tokens": 565,
+        "total_tokens": 21848,
+        "cached_tokens": 2790,
+        "cost_usd": 0.0041206
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 21893,
+        "completion_tokens": 1334,
+        "total_tokens": 23227,
+        "cached_tokens": 21278,
+        "cost_usd": 0.0018539
+      }
+    ]
+  }
+}

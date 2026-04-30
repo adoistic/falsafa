@@ -1,0 +1,143 @@
+{
+  "answer": "**The Falsafa corpus contains primary texts of Urdu poetry by Mirza Ghalib (*Diwan-e-Ghalib*), Sheikh Ibrahim Zauq (*Diwan-e-Zauq*), and Allama Iqbal (*Bang-e-Dara* Parts 1–3), presented in original Urdu script, Roman transliteration, and English translation. However, it does not include secondary criticism, linguistic analysis, or commentary on sociolinguistic topics such as how poets \"register class through vocabulary\" (e.g., Persian/Arabic-heavy lexicon signaling elite/courtly status versus Hindi-vernacular words for broader accessibility). Searches for terms like \"Persian-heavy,\" \"vernacular Urdu,\" \"register,\" \"class,\" \"Rekhta,\" or related phrases yielded no relevant analytical content—only incidental matches in metadata or unrelated contexts.[^1][^2]**\n\nClassical Urdu ghazal poetry (as in Ghalib and Zauq) is inherently *Rekhta* (mixed Persian-Urdu), with Persian/Arabic vocabulary dominating to evoke sophistication, often tied historically to Mughal courtly culture. Iqbal's work is somewhat less Persianized, incorporating more accessible Urdu/Hindi elements reflective of early 20th-century reformist aims. Without explicit corpus evidence on class-signaling, any deeper interpretation would be invention beyond the texts.\n\n**No specific \"moments\" in Ghalib are pinned in the corpus as Persian-heavy versus vernacular drops; the poetry mixes registers fluidly within couplets (*sher*). For illustration, here's raw text from early chapters (transliteration variant), noting typical lexical patterns:**\n\n- **Persian-heavy examples** (elite/formal terms like *qarar* 'rest', *aabroo* 'honor', *gulshan* 'garden', *ishq* 'love'):  \n  Chapter 1 opens: \"Aa ke meri jaan ko qarar nahin hai...\" (*qarar*, *jaan* mixed).[^3]  \n  Chapter 2: \"Aabroo kya khaak uss gul ki ke gulshan mein nahin...\" (*aabroo*, *khaak* 'dust', *gulshan* all Persian-derived).[^4]\n\n- **Vernacular-leaning moments** (Hindi-origin words like *dil* 'heart', *gham* 'sorrow', *yaar* 'friend', plain syntax):  \n  Rare pure drops; e.g., Chapter 36: \"Dil-e-naadaan tujhe hua kya hai\" uses *dil*, *naadaan* 'foolish', *tujhe* (colloquial 'you').[^5] Ghalib rarely \"drops\" fully—mixing sustains ambiguity/philosophical depth.\n\nThe corpus prioritizes the poetry itself over stylistic analysis, so this question can't be fully answered from it. For scholarly discussion, consult external sources like Ralph Russell's *Guide to Modern Urdu Literature* or Ghalib biographies.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Urdu poets",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Persian-heavy\" OR \"vernacular Urdu\" OR \"register class\" poetry",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Listed 60 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Persian Urdu poetry class OR register OR vocabulary",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Persian words\" OR \"Hindi words\" OR rekhta OR \"high register\" Ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 31331,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 42712,
+    "completion_tokens": 3094,
+    "total_tokens": 45806,
+    "cached_tokens": 6180,
+    "api_calls": 3,
+    "cost_usd": 0.0091624,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 579,
+        "total_tokens": 2142,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005796
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5885,
+        "completion_tokens": 1086,
+        "total_tokens": 6971,
+        "cached_tokens": 150,
+        "cost_usd": 0.0016975
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 35264,
+        "completion_tokens": 1429,
+        "total_tokens": 36693,
+        "cached_tokens": 5880,
+        "cost_usd": 0.0068853
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "answer": "**In the Bṛhaspati Smṛti, 'lekhya' (document or writing) is one of the three primary human means of proof (*mānuṣī pramāṇāni*) in legal disputes (*vyavahāra*), alongside witnesses (*sākṣi*) and possession/enjoyment (*bhukti*).**[^1] It is introduced early as a key topic for resolving creditor-debtor claims and other doubtful matters.[^2] A lekhya is defined as a written record containing the local custom (*deśācāra*), date (year, month, fortnight, etc.), interest rate (*vṛddhi*), and signatures (*hastāṅka*) of the debtor (*ṛṇi*), witnesses (*sākṣi*), and scribe (*lekhaka*); it serves as authoritative evidence (*pramāṇa*) in disputes.[^3]\n\nThe text elaborates extensively on lekhya in the proof section (1.4–1.6), classifying it hierarchically: superior to witnesses when available (no ordeal or witnesses needed if a valid document exists), and essential for debts, partitions, sales, etc.[^4] It lists **seven worldly documents (*laukikaṃ lekhyaṃ*)**: partition deed (*bhāgapatram*), boundary deed (*sīmāpatram*), gift deed (*dānalekhyaṃ*), sale deed (*krayapatram*), servitude bond (*dāsapatram*), mortgage deed (*ādhilekhyaṃ*), and compact (*saṃvidpatram*).[^5] **Three royal charters (*rājaśāsanam*)** include gift charters (*dānaśāsanam*), favor documents (*prasādalekhyaṃ*), and victory documents (*jayapatram* recording full proceedings).[^6]\n\nFlaws (*doṣa*) invalidate a lekhya, such as those made by incompetent parties (dying, insane, coerced), forged signatures, poor condition (faded, damaged), or single flawed witness/scribe.[^7] Detection involves scrutiny by experts (*lekhyaṃ kuśalāḥ*), reasoning (*yukti*), and sometimes ordeals if ambiguous.[^8] Aged documents (>30 years without use) lose validity, emphasizing active enforcement.[^9]\n\n### Expansion of the Older Smṛti Tradition\nOlder smṛtis like Manu (8.62–66) prioritize witnesses and briefly note documents as secondary, without classification or forgery rules.[^10] Yājñavalkya (2.83–92) mentions documents (*lekhya*) in sales but lacks detail.[^11] Bṛhaspati expands this into a mature system within its 18-topic *vyavahāra* framework (wealth/violence disputes, four \"feet\": plaint/reply/evidence/decision), elevating lekhya to equal/superior proof.[^12] This reflects societal evolution toward written contracts, guilds (*śreṇī*), and commerce, with innovations like victory documents for finality and detailed forgery detection—absent in earlier texts—ensuring stability (*sthairya*).[^13] It systematizes *vyavahāra* (e.g., hierarchy: document > witnesses > ordeals), influencing later works like Kātyāyana.[^14]\n\nThe Bṛhaspati Smṛti's focus on lekhya underscores writing's role in preventing disputes (*bhrānti*), promoting commerce under royal oversight.[^15]\n\n[^1]: Bṛhaspati Smṛti, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-510297) (witnesses, documents, inference as human proofs).\n[^2]: Bṛhaspati Smṛti, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-cb5a36) (Brh_1,1.5).\n[^3]: Bṛhaspati Smṛti, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-dc2d5a) (Brh_1,6.3).\n[^4]: Bṛhaspati Smṛti, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-44a57a) (Brh_1,4.12); hierarchy in [p-fc9858].\n[^5]: Bṛhaspati Smṛti, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-213342)–[p-8fb39a] (Brh_1,6.4–17).\n[^6]: Bṛhaspati Smṛti, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c77410)–[p-944786] (Brh_1,6.20–27).\n[^7]: Bṛhaspati Smṛti, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-a9b952)–[p-65f09b] (Brh_1,6.30–42).\n[^8]: Bṛhaspati Smṛti, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c66519) (Brh_1,6.44).\n[^9]: Bṛhaspati Smṛti, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-d86129)–[p-8a1d14] (Brh_1,6.47–49).\n[^10]: Manusmṛti, [Chapter 8](/works/unknown-manusmrti-347b76/08/translation/#p-803bc3).\n[^11]: Yājñavalkya Smṛti, [Chapter 2](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-ff1854).\n[^12]: Bṛhaspati Smṛti, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c9cb41)–[p-99fbb1] (Brh_1,4.8–11).\n[^13]: Bṛhaspati Smṛti, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-6f3110) (Brh_1,6.18).\n[^14]: Kātyāyana Smṛti, [Chapter 24](/works/unknown-katyayana-smrti-1e06d2/24/translation/#p-b4ce2a).\n[^15]: Bṛhaspati Smṛti, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-82339c)–[p-400669] (Brh_1,6.2–4).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brhaspati Smriti lekhya",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lekhya\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brhaspati\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "brhaspati"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"slug\":\"unknown-brhaspati-smrti-0fd070\",\"title\":\"Bṛhaspati Smṛti\",\"author\":\"Bṛhaspati\",\"author_slug\":\"brhaspati\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "writing evidence document",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"written\" OR \"document\" OR \"writing\" OR \"deed\" OR \"evidence\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lekhya\" OR \"lakṣaṇa\" OR \"lakṣaṇam\" OR \"document\" OR \"writing\" \"Brhaspati\" OR \"Bṛhaspati\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "indic"
+      },
+      "result_summary": "Listed 19 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-510297"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-cb5a36"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-dc2d5a"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-44a57a"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-fc9858"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-213342"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-8fb39a"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-c77410"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-944786"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-a9b952"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-65f09b"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-c66519"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-d86129"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-8a1d14"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-803bc3"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-ff1854"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-c9cb41"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-99fbb1"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-6f3110"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-b4ce2a"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-82339c"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-400669"
+    }
+  ],
+  "duration_ms": 57719,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 175220,
+    "completion_tokens": 4235,
+    "total_tokens": 179455,
+    "cached_tokens": 8676,
+    "api_calls": 4,
+    "cost_usd": 0.0694659,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1565,
+        "completion_tokens": 405,
+        "total_tokens": 1970,
+        "cached_tokens": 150,
+        "cost_usd": 0.000493
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 1952,
+        "completion_tokens": 799,
+        "total_tokens": 2751,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0005601
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "get_metadata",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5052,
+        "completion_tokens": 461,
+        "total_tokens": 5513,
+        "cached_tokens": 1947,
+        "cost_usd": 0.00094885
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 166651,
+        "completion_tokens": 2570,
+        "total_tokens": 169221,
+        "cached_tokens": 5047,
+        "cost_usd": 0.06746395
+      }
+    ]
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "answer": "The Falsafa corpus contains mentions or discussions of the heavens (or synonyms like sky, falak, heofon, and firmament) in the following 22 works (out of 37 total), drawn exclusively from English translations and transliterations via direct search of the texts.[^1] These range from poetic, cosmological, and theological depictions (e.g., as divine creation or realm) to metaphorical uses (e.g., fate's dome or celestial sphere). No other works in the corpus address the topic.\n\n- **Andreas** (cynewulf-andreas-07b573): Frequent references to heavens as God's realm and creation.[^2]\n- **Bang-E-Dara Part 1** (allama-iqbal-bang-e-dara-part-1-55b25c): Heavens/sky/falak as objects of search or cosmic imagery.[^3]\n- **Bang-E-Dara Part 2** (allama-iqbal-bang-e-dara-part-2-9bc58c): Heavens/sky/falak in poetic visions of manifestation.[^4]\n- **Bang-E-Dara Part 3** (allama-iqbal-bang-e-dara-part-3-cc61e8): Heavens/sky/falak/firmament as celestial assembly or expanse.[^5]\n- **Diwan-E-Ghalib** (mirza-ghalib-diwan-e-ghalib-74ed4c): Heavens/sky/falak as fate's turning wheel or cosmic ordainer.[^6]\n- **Diwan-E-Zauq** (sheikh-ibrahim-zauq-diwan-e-zauq-0fa798): Heavens/sky/falak as swept by tears or cosmic bowl.[^7]\n- **Elene** (cynewulf-elene-d2d132): Heavens/sky as divine sign or God's domain.[^8]\n- **Juliana** (cynewulf-juliana-9a2157): Heavens as shaped by God, object of faith.[^9]\n- **Kunjarakarna Dharmakathana** (unknown-kunjarakarna-dharmakathana-894f4a): Sky/heavens as dazzled expanse or path.[^10]\n- **Manusmṛti** (unknown-manusmrti-347b76): Heavens/sky as cosmogonic formation.[^11]\n- **Old English Elegies** (unknown-old-english-elegies-d5fe9e): Heavens/sky/heofon as hope or God's creation.[^12]\n- **Parāśara Smṛti** (unknown-parasara-smrti-2259be): Heavens as sacrificial attainment.[^13]\n- **San Hyan Tattvajnana** (unknown-san-hyan-tattvajnana-1f29bd): Heavens as celestial realms of worship.[^14]\n- **Traité de Législation: VOL III** (charles-comte-traite-de-legislation-vol-iii-ca589a): Heavens' fire in historical conquest metaphor.[^15]\n- **Traité de Législation: VOL IV** (charles-comte-traite-de-legislation-vol-iv-bca040): Heavens carrying glory.[^16]\n- **Vrhaspatitattva** (unknown-vrhaspatitattva-b60b28): Heavens as gods' realms commanded by yogi.[^17]\n- **Āṅgirasa Smṛti** (unknown-angirasa-smrti-2bf9d1): Sky shining by Brahmin grace.[^18]\n- **Nāradasmṛti** (unknown-naradasmrti-7650d2): Sky as illusory surface.[^19]\n- **Nouveau traité d'économie: VOL I** (charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce): Harsh sky nurturing passions.[^20]\n- **Bṛhaspati Smṛti** (unknown-brhaspati-smrti-0fd070): Heaven as eternal reward.[^21]\n- **San Hyan Mahajnana** (unknown-san-hyan-mahajnana-11c531): Firmament as layered states of consciousness.[^22]\n- **Traité de Législation: VOL II** (charles-comte-traite-de-legislation-vol-ii-20331d): Lords of sun/firmament in social hierarchy.[^23]\n\n[^1]: Derived from full-corpus searches for \"heavens\", \"sky\", \"falak\", \"heofon\", \"heaven\", and \"firmament\" (limits 100 each); no invention beyond results.\n[^2]: [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-bdbda7).\n[^3]: [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m/translation/#p-dfee45).\n[^4]: [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/01-chamak-teri-ayaan-bijli-mein-aatish-mein-sharare-m/translation/#p-47b71d).\n[^5]: [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/01-bazm-e-anjum/translation/#p-97023e).\n[^6]: [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/20-bisaat-e-ijz-mein-tha-ek-dil-yak-qatra-e-khoon-woh/translation/#p-8d8c65).\n[^7]: [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/13-darya-e-ashk-chashm-se-jis-aan-beh-gaya/translation/#p-8b2466).\n[^8]: [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-306e06).\n[^9]: [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-6bc4fe).\n[^10]: [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-e9eeac).\n[^11]: [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-3bd729).\n[^12]: [paragraph](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-1c332d).\n[^13]: [paragraph](/works/unknown-parasara-smrti-2259be/03/translation/#p-20fc90).\n[^14]: [paragraph](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-100772).\n[^15]: [paragraph](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/48-de-la-superiorite-des-peuples-d-espece-caucasienne/translation/#p-34f05f).\n[^16]: [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-ced9fc).\n[^17]: [paragraph](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-415d8a).\n[^18]: [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-e0c069).\n[^19]: [paragraph](/works/unknown-naradasmrti-7650d2/01/translation/#p-4363ef).\n[^20]: [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-06d3e1).\n[^21]: [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-96e3a0).\n[^22]: [paragraph](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-9194a6).\n[^23]: [paragraph](/works/charles-comte-traite-de-legislation-vol-ii-20331d/19-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-e23c52).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heavens",
+        "limit": 100
+      },
+      "result_summary": "Found 66 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sky",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "falak",
+        "limit": 100
+      },
+      "result_summary": "Found 49 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heofon",
+        "limit": 100
+      },
+      "result_summary": "Found 70 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heaven",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "firmament",
+        "limit": 100
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-bdbda7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-dfee45"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-47b71d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-97023e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-8d8c65"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-8b2466"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-306e06"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-6bc4fe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e9eeac"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-3bd729"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-1c332d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-20fc90"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-100772"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 48,
+        "paragraph_ids": [
+          "p-34f05f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-ced9fc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-415d8a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e0c069"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4363ef"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-06d3e1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-96e3a0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-9194a6"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 19,
+        "paragraph_ids": [
+          "p-e23c52"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-bdbda7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-dfee45"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-47b71d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-97023e"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-8d8c65"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-8b2466"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-306e06"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-6bc4fe"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-e9eeac"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-3bd729"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-1c332d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-20fc90"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-100772"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-34f05f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-ced9fc"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-415d8a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-e0c069"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-4363ef"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-06d3e1"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-96e3a0"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-9194a6"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 19,
+      "paragraph_id": "p-e23c52"
+    }
+  ],
+  "duration_ms": 53853,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 107519,
+    "completion_tokens": 7232,
+    "total_tokens": 114751,
+    "cached_tokens": 52937,
+    "api_calls": 3,
+    "cost_usd": 0.01717925,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 966,
+        "total_tokens": 2521,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00056465
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 49884,
+        "completion_tokens": 3624,
+        "total_tokens": 53508,
+        "cached_tokens": 1529,
+        "cost_usd": 0.01155945
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 56080,
+        "completion_tokens": 2642,
+        "total_tokens": 58722,
+        "cached_tokens": 49879,
+        "cost_usd": 0.00505515
+      }
+    ]
+  }
+}

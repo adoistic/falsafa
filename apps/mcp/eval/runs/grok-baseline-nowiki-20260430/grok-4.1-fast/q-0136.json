@@ -1,0 +1,254 @@
+{
+  "answer": "**I could not find a couplet by Sheikh Ibrahim Zauq (in *Diwan-E-Zauq*) that matches this description.**\n\nThe corpus contains the full *Diwan-E-Zauq* (60 ghazals/chapters in English translation). Searches across the English bodies for phrases like \"breath\" + \"complaint\" + \"flame\"/\"fire\" + \"heart\", or variants (\"sigh\" for *nafas*/*naala*, \"complaint\" for *shikayat*, etc.), yielded no results in Zauq's work.[^1]\n\nRelated motifs appear elsewhere:\n- Ghazal 39 compares a suppressed *naala* (sigh/complaint) to smoke rising from an inner fire.[^2]\n- Ghazal 28 warns against *shikayaton* (complaints), but without breath/flame imagery.[^3]\n\nIf this refers to a specific couplet by its Urdu phrasing (e.g., *nafas-e-shikayat* as *shola bar dil*), it may not align exactly with the English translation, or it could be from another source. The Falsafa corpus covers 37 works; classical Urdu poetry is limited to Zauq, Ghalib, and Iqbal here. Let me know more details for further checks!  \n\n[^1]: Multiple `search_corpus` queries (e.g., `\"breath\" \"complaint\" \"flame\" \"heart\"`, `\"sigh\" \"flame\" \"heart\"`, etc.) returned 0 hits for Zauq.\n\n[^2]: *Diwan-E-Zauq*, ch. 39 (*Na karta zabt main naala to phir aisa dhuaan hota*), [p-1b63cf](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/39-na-karta-zabt-main-naala-to-phir-aisa-dhuaan-hota/translation/#p-1b63cf).\n\n[^3]: *Diwan-E-Zauq*, ch. 28 (*Khoob roka shikayaton se mujhe*), [full chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/28-khoob-roka-shikayaton-se-mujhe/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ibrahim-zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "sheikh-ibrahim-zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"breath\" \"complaint\" \"flame\" \"heart\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sigh\" \"flame\" OR \"fire\" \"heart\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"breath\" \"flame\" OR \"fire\" \"heart\" \"complaint\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sigh\" \"complaint\" \"fire\" OR \"flame\" \"heart\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"complaint\" \"flame\" \"heart\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Listed 60 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sigh\" \"heart\" \"flame\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"breath\" \"heart\" \"flame\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"complaint\" \"heart\" OR \"sigh\" OR \"breath\" OR \"fire\" OR \"flame\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"flame\" \"heart\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 59
+      },
+      "result_summary": "Read ch.59 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 28
+      },
+      "result_summary": "Read ch.28 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 39
+      },
+      "result_summary": "Read ch.39 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 41
+      },
+      "result_summary": "Read ch.41 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 15
+      },
+      "result_summary": "Read ch.15 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fire\" \"heart\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sigh\" \"fire\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 15,
+      "paragraph_id": "p-1b63cf"
+    }
+  ],
+  "duration_ms": 65837,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 48213,
+    "completion_tokens": 6284,
+    "total_tokens": 54497,
+    "cached_tokens": 25250,
+    "api_calls": 5,
+    "cost_usd": 0.0089971,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1557,
+        "completion_tokens": 358,
+        "total_tokens": 1915,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004679
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2142,
+        "completion_tokens": 478,
+        "total_tokens": 2620,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006449
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8167,
+        "completion_tokens": 1132,
+        "total_tokens": 9299,
+        "cached_tokens": 150,
+        "cost_usd": 0.0021769
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 16643,
+        "completion_tokens": 2778,
+        "total_tokens": 19421,
+        "cached_tokens": 8162,
+        "cost_usd": 0.0034933
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19704,
+        "completion_tokens": 1538,
+        "total_tokens": 21242,
+        "cached_tokens": 16638,
+        "cost_usd": 0.0022141
+      }
+    ]
+  }
+}

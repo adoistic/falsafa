@@ -1,0 +1,305 @@
+{
+  "answer": "**\"Khudi\" (often translated as \"selfhood,\" \"ego,\" or \"self-realization\") is a cornerstone of Allama Iqbal's philosophy, but it is not explicitly named or defined as such in the English translations of *Bang-e-Dara* Parts 1–3 available in this corpus.** Extensive searches across the English bodies for terms like \"khudi,\" \"selfhood,\" \"self,\" \"ego,\" \"personality,\" \"self-realization,\" \"human,\" and \"man\" (alone or in Iqbal-specific phrases) returned zero results.[^1]\n\nIqbal's *Bang-e-Dara* (1924), his first major Urdu poetry collection, introduces themes resonant with khudi—such as the unique restlessness of the human spirit, the heart (*dil*) as a transformative force, humanity's yearning for vastness and action amid a passive world, and a call to reclaim dynamic Muslim vitality—but without using the term itself. (Khudi is more directly elaborated in his later Persian work *Asrar-e-Khudi* [Secrets of the Self, 1915] and Urdu prose, which are not in this corpus.) Below, I trace these proto-khudi motifs across the specified parts via key poems, focusing on humanity's distinct agency, inner fire, and destiny.\n\n### Part 1: Heart (*Dil*) as Seed of Inner Power\nEarly poems emphasize the *dil* (heart) as a mysterious, alchemical force—restless, born from divine love's \"lightning,\" capable of turning \"dust into elixir.\" Unlike static nature, it defies limits, embodying a latent self that bursts forth under love's trial.[^2]  \nThis foreshadows khudi's idea of the self as dynamic, love-fueled growth, contrasting with ascetic denial.[^3]\n\n### Part 2: Humanity (*Insaan*) as Enigma and Isolate\nIn \"Insaan,\" man stands apart from creation's \"tyranny\": stars, sun, waves, and wind revel in their fixed \"manifestation,\" \"drunk on the wine of [their] own creation,\" finding joy therein. Man alone thirsts endlessly for life's \"mystery,\" lost in \"amaze,\" with \"no one to share the sorrow.\"[^4]  \nThis highlights khudi's core tension: the ego's isolation drives self-perfection, unlike nature's passive harmony.\n\n### Part 3: Humanity (*Insaan*) as Potent, Expansive Force + Call to Youth\nPart 3 intensifies: man is \"aflame with striving,\" a \"single particle\" yearning for \"vastness\"—not mere \"particle,\" but \"a desert contracted to a point,\" \"wise, perceptive, potent,\" able to \"change the very form of the garden.\" Nature submits; man creates.[^5]  \n\"Khitab ba Jawanan-e-Islam\" (Address to Muslim Youth) urges reclaiming ancestral fire: forefathers were \"world-seizers,\" \"fiercely proud\" in poverty, action-oriented vs. modern \"static\" talk. Lost \"pearls of knowledge\" must be regained.[^6] \"Shikwa\" laments Muslim decline from world-shapers to \"shattered star,\" pleading for rekindled \"fire\" and \"lightning.\"[^7]\n\n**In summary, while *Bang-e-Dara* does not define khudi explicitly, Parts 1–3 progressively build its essence: from heart's alchemy (Part 1), to man's restless enigma (Part 2), to humanity's creative potency and revivalist call (Part 3).** Iqbal uses these to awaken individual/collective self-assertion against stagnation. For fuller treatment, consult Iqbal's *Asrar-e-Khudi* (absent here).\n\n[^1]: Corpus searches (e.g., \"khudi Iqbal Bang-e-Dara,\" \"\\\"selfhood\\\" Iqbal,\" \"\\\"ego\\\" Iqbal\") yielded no matches in English translations.\n\n[^2]: *Bang-E-Dara Part 1*, ch. 18 \"Dil,\" [¶p-26e13d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/18-dil/translation/#p-26e13d), [¶p-2cb111](/works/allama-iqbal-bang-e-dara-part-1-55b25c/18-dil/translation/#p-2cb111), [¶p-986b72](/works/allama-iqbal-bang-e-dara-part-1-55b25c/18-dil/translation/#p-986b72).\n\n[^3]: *Bang-E-Dara Part 1*, ch. 18 \"Dil,\" [¶p-95a92d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/18-dil/translation/#p-95a92d).\n\n[^4]: *Bang-E-Dara Part 2*, ch. 14 \"Insaan,\" [¶p-d7ec8e](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-d7ec8e), [¶p-394f46](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-394f46) to [¶p-62d764](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-62d764).\n\n[^5]: *Bang-E-Dara Part 3*, ch. 12 \"Insaan,\" full chapter, [citation_url](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/).\n\n[^6]: *Bang-E-Dara Part 3*, ch. 13 \"Khitab ba Jawanan-e-Islam,\" [¶p-365462](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).\n\n[^7]: *Bang-E-Dara Part 3*, ch. 20 \"Shikwa,\" [¶p-d18b7f](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-d18b7f), [¶p-e3a437](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-e3a437).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi Iqbal Bang-e-Dara",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"khudi\" OR \"selfhood\" Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\" Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi self ego personality Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ego\" Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"personality\" Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self-realization\" OR \"self realisation\" Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rise\" \"self\" Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"man\" Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"human\" Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 18,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.18 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 39,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.39 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-26e13d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-2cb111"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-986b72"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-95a92d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-d7ec8e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-394f46"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-62d764"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-d18b7f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-e3a437"
+    }
+  ],
+  "duration_ms": 81782,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 37804,
+    "completion_tokens": 7131,
+    "total_tokens": 44935,
+    "cached_tokens": 22761,
+    "api_calls": 5,
+    "cost_usd": 0.00771215,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 313,
+        "total_tokens": 1876,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004466
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2107,
+        "completion_tokens": 796,
+        "total_tokens": 2903,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00059005
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8390,
+        "completion_tokens": 2057,
+        "total_tokens": 10447,
+        "cached_tokens": 2102,
+        "cost_usd": 0.0023912
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 10600,
+        "completion_tokens": 1419,
+        "total_tokens": 12019,
+        "cached_tokens": 8385,
+        "cost_usd": 0.00157175
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 15144,
+        "completion_tokens": 2546,
+        "total_tokens": 17690,
+        "cached_tokens": 10595,
+        "cost_usd": 0.00271255
+      }
+    ]
+  }
+}

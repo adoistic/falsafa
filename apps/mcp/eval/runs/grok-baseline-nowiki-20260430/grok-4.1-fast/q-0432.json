@@ -1,0 +1,269 @@
+{
+  "answer": "**Few works in the corpus are structured as direct rhetorical addresses to a national or communal collective using first-person plural (\"we,\" \"our\") or equivalent second-person appeals to a shared group identity.**\n\n**Johann Gottlieb Fichte's *Zurückforderung der Denkfreiheit von den Fürsten Europens* (1793)** is explicitly framed as a speech to the \"peoples\" of Europe (particularly Germans), urging collective resistance to princely suppression of thought. It opens with direct second-person communal appeals: \"No, you peoples, give up everything... only this you must uphold,\"[^1] and \"The times of barbarism are over, you peoples.\"[^2] The preface targets \"the less instructed public\" for its influence on \"general opinion.\"[^3]\n\n**Allama Iqbal's *Bang-e-Dara* collections** (1924, Parts 1–3) contain poems explicitly invoking a Muslim communal/national \"we.\" \n\n- Part 1, Ch. 26 (*Hindustani Bachon Ka Qaumi Geet* / \"National Song of Indian Children\"): A communal anthem celebrating India as \"my homeland... this land of mine,\" tying shared history from Chishti, Nanak, Tatars, to Arabs.[^4]\n- Part 3, Ch. 13 (*Khitab ba Jawanan-e-Islam* / \"An Address to the Muslim Youth\"): Direct second-person address to \"O Muslim youth,\" contrasting their inaction with ancestors' world-conquering spirit: \"you are all talk, they were all action.\"[^5]\n- Part 3, Ch. 23 (*Tarana-e-Milli* / \"The Anthem of the Community\"): First-person plural Muslim ummah from \"Chin to Arab lands\": \"our story flows,\" \"our soul,\" \"we stand as guardians,\" \"we do not bow.\"[^6]\n\nNo other works—such as Charles Comte's property treatises (analytical prose on national territory),[^7] Charles Dunoyer's economic volumes, Cynewulf's Old English poems (narrative hagiography), or Indic smṛtis (legal codes)—are rhetorical addresses to a \"we.\" Searches for phrases like \"we the,\" \"our nation,\" and communal markers yielded no further matches.[^8]",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "we the",
+        "limit": 50
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"we, the\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "compatriots",
+        "limit": 50
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fellow citizens\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fellow countrymen\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"my brethren\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"we French\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"we Muslims\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"we must\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"our nation\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"we are the\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"let us\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"o my\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 62613,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 84835,
+    "completion_tokens": 5420,
+    "total_tokens": 90255,
+    "cached_tokens": 50625,
+    "api_calls": 5,
+    "cost_usd": 0.01208325,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 207,
+        "total_tokens": 1757,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0001834
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 4873,
+        "completion_tokens": 1058,
+        "total_tokens": 5931,
+        "cached_tokens": 150,
+        "cost_usd": 0.0014811
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12045,
+        "completion_tokens": 1158,
+        "total_tokens": 13203,
+        "cached_tokens": 4868,
+        "cost_usd": 0.0022578
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 32038,
+        "completion_tokens": 1417,
+        "total_tokens": 33455,
+        "cached_tokens": 12040,
+        "cost_usd": 0.0053101
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 34329,
+        "completion_tokens": 1580,
+        "total_tokens": 35909,
+        "cached_tokens": 32033,
+        "cost_usd": 0.00285085
+      }
+    ]
+  }
+}

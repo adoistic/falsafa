@@ -1,0 +1,283 @@
+{
+  "answer": "The following works in the corpus contain explicit references to \"Sufi\" figures or the \"Sufi\" persona, as well as the term *tasawwuf* (the Arabic word for Sufism), which qualifies as specifically Sufi or Sufi-adjacent (e.g., mystical purification of the heart, esoteric knowledge). These occur in the context of Urdu poetry, where Sufism heavily influenced themes of spiritual ecstasy (*rindi*), asceticism (*zuhd*), annihilation of the self (*fana*), and wandering mendicants (*dervish*). No other works in the corpus yielded such targeted references after extensive searches for key terms like \"Sufi,\" \"Sufism,\" *tasawwuf*, \"dhikr,\" \"samaʿ,\" \"dervish,\" \"fakir,\" \"qalandar,\" \"rindi,\" \"zuhd,\" \"fana,\" and \"mast.\"[^1][^2][^3][^4]\n\n**Bang-E-Dara Part 1** (Allama Iqbal): Multiple references to Sufis, *tasawwuf*, *zuhd* (asceticism), and *rindi* (spiritual intoxication), including a satirical portrait of a pseudo-Sufi cleric.[^5][^6]\n\n**Bang-E-Dara Part 2** (Allama Iqbal): Direct reference to a Sufi discovering divine presence in the heart.[^7]\n\n**Diwan-E-Ghalib** (Mirza Ghalib): Reference to *masa'il-e-tasawwuf* (issues/questions of Sufism) as esoteric knowledge contrasted with worldly vice.[^8] Additional Sufi-adjacent motifs like *fana* (self-annihilation in the divine) and *dervish* (wandering mystic) appear throughout.[^9]\n\n**Diwan-E-Zauq** (Sheikh Ibrahim Zauq): References to Sufis and *ilm-e-tasawwuf* (knowledge of Sufism) as requiring heart-purification, plus *dervish* as the ideal mystic.[^10][^11]\n\n**Bang-E-Dara Part 3** (Allama Iqbal): Sufi-adjacent *dervish* figure and *fana* motifs.[^12]\n\nNo dedicated treatises on Sufi practices (e.g., no systematic discussions of *dhikr* remembrance, *samaʿ* listening assemblies, or orders like Naqshbandi/Chishti) appear in the corpus.\n\n[^1]: *Bang-E-Dara Part 1*, ch. 44 [*Zuhd aur Rindi*](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-52b34d).\n[^2]: *Diwan-E-Zauq*, ch. 49 [*Voh kaun hai jo mujh pe ta'assuf nahin karta*](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/49-voh-kaun-hai-jo-mujh-pe-taassuf-nahin-karta/translation/#p-655b56).\n[^3]: *Bang-E-Dara Part 1*, ch. 44 [*Zuhd aur Rindi*](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/transliteration/#p-00d472).\n[^4]: *Diwan-E-Ghalib*, ch. 204 [*Yeh na thi hamari qismat ke visaal-e-yaar hota*](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/204-yeh-na-thi-hamari-qismat-ke-visaal-e-yaar-hota/transliteration/).\n[^5]: *Bang-E-Dara Part 1*, ch. 44 [*Zuhd aur Rindi*](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-52b34d).\n[^6]: *Bang-E-Dara Part 1*, ch. 44 [*Zuhd aur Rindi*](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/transliteration/#p-00d472).\n[^7]: *Bang-E-Dara Part 2*, ch. 20 [*Salimi*](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/20-salimi/translation/#p-e4b1ba).\n[^8]: *Diwan-E-Ghalib*, ch. 204 [*Yeh na thi hamari qismat ke visaal-e-yaar hota*](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/204-yeh-na-thi-hamari-qismat-ke-visaal-e-yaar-hota/transliteration/).\n[^9]: *Diwan-E-Ghalib*, ch. 36 [*Dil-e-naadaan tujhe hua kya hai*](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/36-dil-e-naadaan-tujhe-hua-kya-hai/translation/#p-70f710); ch. 86 [*Ishrat-e-qatra hai darya mein fana ho jaana*](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/86-ishrat-e-qatra-hai-darya-mein-fana-ho-jaana/transliteration/#p-89e76b).\n[^10]: *Diwan-E-Zauq*, ch. 49 [*Voh kaun hai jo mujh pe ta'assuf nahin karta*](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/49-voh-kaun-hai-jo-mujh-pe-taassuf-nahin-karta/translation/#p-655b56).\n[^11]: *Diwan-E-Zauq*, ch. 25 [*Kab haq-parast zahid-e-jannat-parast hai*](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/25-kab-haq-parast-zahid-e-jannat-parast-hai/translation/#p-e44bc0).\n[^12]: *Bang-E-Dara Part 3*, ch. 4 [*Dil se jo baat nikalti hai asar rakhti hai*](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-819a53).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sufi",
+        "limit": 50
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sufism",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tasawwuf",
+        "limit": 50
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dhikr",
+        "limit": 50
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sama",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rindi",
+        "limit": 20
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "zuhd",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fana",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dervish"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fakir"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "qalandar"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mast",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "sheikh-ibrahim-zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "paragraph_ids": [
+          "p-52b34d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-e4b1ba"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 49,
+        "paragraph_ids": [
+          "p-655b56"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "paragraph_ids": [
+          "p-00d472"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-52b34d"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-655b56"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-00d472"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-e4b1ba"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-70f710"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-89e76b"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-e44bc0"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-819a53"
+    }
+  ],
+  "duration_ms": 49192,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 53666,
+    "completion_tokens": 5798,
+    "total_tokens": 59464,
+    "cached_tokens": 32455,
+    "api_calls": 4,
+    "cost_usd": 0.00876395,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1555,
+        "completion_tokens": 475,
+        "total_tokens": 2030,
+        "cached_tokens": 150,
+        "cost_usd": 0.000526
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10898,
+        "completion_tokens": 1549,
+        "total_tokens": 12447,
+        "cached_tokens": 1535,
+        "cost_usd": 0.00272385
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19882,
+        "completion_tokens": 1651,
+        "total_tokens": 21533,
+        "cached_tokens": 10893,
+        "cost_usd": 0.00316795
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 21331,
+        "completion_tokens": 2123,
+        "total_tokens": 23454,
+        "cached_tokens": 19877,
+        "cost_usd": 0.00234615
+      }
+    ]
+  }
+}

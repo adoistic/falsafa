@@ -1,0 +1,262 @@
+{
+  "answer": "**Allama Iqbal's *Bang-E-Dara Part 3*** features a visionary \"Celestial Journey\" (*Sair-e-Falak*) in which the poet, accompanied by Imagination, ascends \"through the cosmic blue,\" passing stars, Paradise (with Tooba's bough and Houris), and descending to a vision of Hell before an angelic revelation.[^1]\n\n**Mpu Dusun's *Kuñjarakarṇa Dharmakathana*** depicts the demon ascetic Kuñjarakarṇa, a sky-traveler, flying to Buddha's monastery, Yama's realm, and explicitly ascending to Indra's heaven—gazing on its eight surrounding abodes (Indra, Agni, Yama, etc.)—as part of his quest for enlightenment.[^2]\n\nNo other works in the corpus describe literal journeys into the heavens; references in Cynewulf's *Andreas* are to souls seeking heavenly joys or angelic travel, but not the protagonist's ascent.[^3]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, [Chapter 18: Sair-e-Falak](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/18-sair-e-falak/translation/#p-45fa64).\n\n[^2]: Mpu Dusun, *Kuñjarakarṇa Dharmakathana*, [Chapter 1](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-7eadb0).\n\n[^3]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-c655bd).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "journey heavens",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "journey heaven",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ascend heaven",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "night journey",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mi'raj",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"journey to the heavens\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"journey into heaven\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ascension heaven"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rose to heaven\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heavens",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heaven",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ascend",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ascension",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "journey sky",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.18 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"journey through the sky\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "celestial journey"
+      },
+      "result_summary": "Found 1 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-45fa64"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-7eadb0"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-c655bd"
+    }
+  ],
+  "duration_ms": 45764,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 80905,
+    "completion_tokens": 3682,
+    "total_tokens": 84587,
+    "cached_tokens": 21069,
+    "api_calls": 5,
+    "cost_usd": 0.01486165,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1546,
+        "completion_tokens": 654,
+        "total_tokens": 2200,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0004061
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1845,
+        "completion_tokens": 601,
+        "total_tokens": 2446,
+        "cached_tokens": 150,
+        "cost_usd": 0.000647
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5376,
+        "completion_tokens": 549,
+        "total_tokens": 5925,
+        "cached_tokens": 1840,
+        "cost_usd": 0.0010737
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12179,
+        "completion_tokens": 874,
+        "total_tokens": 13053,
+        "cached_tokens": 5371,
+        "cost_usd": 0.00206715
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 59959,
+        "completion_tokens": 1004,
+        "total_tokens": 60963,
+        "cached_tokens": 12174,
+        "cost_usd": 0.0106677
+      }
+    ]
+  }
+}

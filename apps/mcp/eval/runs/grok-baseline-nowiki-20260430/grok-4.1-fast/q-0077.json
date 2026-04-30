@@ -1,0 +1,206 @@
+{
+  "answer": "**Allama Iqbal's \"Hindustani Bachon Ka Qaumi Geet\" (National Song of Indian Children)** from *Bang-E-Dara Part 1* (1924) is a patriotic poem celebrating Hindustan (India) as the homeland.[^1] It is structured as four stanzas, each ending with the refrain \"This is my homeland, this land of mine,\" evoking deep love for the land's spiritual, cultural, and natural heritage.\n\n> Where Chishti first Truth's holy call conveyed,[^2]  \n> And Nanak's song of Oneness was displayed,  \n> The land the Tatars for their homeland made,  \n> Which drew Hijaz's sons from desert shade,  \n> This is my homeland, this land of mine.[^3]  \n> \n> The land that left the wisest Greeks spellbound,[^4]  \n> Whose arts and knowledge spread the world around,  \n> Whose very dust by Truth with gold was crowned,  \n> Where for the Turks great diamond wealth was found,  \n> This is my homeland, this land of mine.[^5]  \n> \n> The stars that fell from Persia's shattered space,[^6]  \n> Were given light and a new shining place,  \n> The world first heard of Oneness from this place,  \n> A cooling breeze reached Arab's Chief with grace,  \n> This is my homeland, this land of mine.[^7]  \n> \n> Its people Moses, and its peaks are Sinai's height,[^8]  \n> Where Prophet Noah's ark first saw the light,  \n> Whose very ground is a stair to heaven's light,  \n> To live here is a paradise of pure delight,  \n> This is my homeland, this land of mine.[^9]\n\n(Note: Iqbal's more famous *Tarana-e-Hindi* (\"Sare Jahan Se Achha Hindustan Hamara\") does not appear to be in the Falsafa corpus under that title or with matching English translation phrasing, based on searches across his works. This children's qaumi geet directly matches the \"Hindostan Hamara\" theme of India as \"our homeland.\")\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 26 \"Hindustani Bachon Ka Qaumi Geet\" (/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/).\n\n[^2]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-da6786\n\n[^3]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-da6786\n\n[^4]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-850e5c\n\n[^5]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-850e5c\n\n[^6]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-5d32a9\n\n[^7]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-5d32a9\n\n[^8]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-a9f72d\n\n[^9]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-a9f72d",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Hindostan Hamara\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sare Jahan Se Achha\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Hindostan"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Tarana-e-Hindi\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tarana Hindi"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sare jahan\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Hindustan"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "India"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "homeland"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 25,
+      "paragraph_id": "p-da6786"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 25,
+      "paragraph_id": "p-850e5c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 25,
+      "paragraph_id": "p-5d32a9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 25,
+      "paragraph_id": "p-a9f72d"
+    }
+  ],
+  "duration_ms": 41591,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 34455,
+    "completion_tokens": 4066,
+    "total_tokens": 38521,
+    "cached_tokens": 3951,
+    "api_calls": 4,
+    "cost_usd": 0.00833135,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1554,
+        "completion_tokens": 378,
+        "total_tokens": 1932,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004773
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2127,
+        "completion_tokens": 548,
+        "total_tokens": 2675,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00047005
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8443,
+        "completion_tokens": 719,
+        "total_tokens": 9162,
+        "cached_tokens": 2122,
+        "cost_usd": 0.0017298
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22331,
+        "completion_tokens": 2421,
+        "total_tokens": 24752,
+        "cached_tokens": 150,
+        "cost_usd": 0.0056542
+      }
+    ]
+  }
+}

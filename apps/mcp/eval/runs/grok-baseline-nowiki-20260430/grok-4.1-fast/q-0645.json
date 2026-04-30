@@ -1,0 +1,134 @@
+{
+  "answer": "In the Urdu corpus—primarily poetic works such as *Diwan-e-Ghalib*, *Diwan-e-Zauq*, and Allama Iqbal's *Bang-e-Dara* (Parts 1–3)—**fitna** (فِتنَہ) is a recurring motif denoting mischief, sedition, trial, or disruptive temptation.[^1] It often evokes a seductive chaos or alluring danger, especially tied to love (*ishq*), beauty, longing (*intezaar*), or existential upheaval, aligning with classical Persianate poetic traditions where the beloved's charms sow discord akin to a trial or cosmic strife.[^2]\n\n### Key Contexts and Usages\n- **Personified as a mischievous agent (*fitna-gar*)**: Love or a glance is depicted as cunning and rebellious, capable of piercing heavens or causing rebellion. In Iqbal, love is \"fitna-gar-o-sarkash-o-chaalaak\" (mischievous, rebellious, cunning).[^3] Zauq similarly calls someone a *fitna-gar* seen in dreams, evoking dread like Judgment Day at dawn.[^4]\n- **Linked to longing or waiting (*fitna-e-intezaar*)**: Ghalib describes himself (via pen-name Asad) as \"Asad-e-fitna-e-intezaar\" (lion of waiting's mischief), burning in every color like a moth to love's flame.[^5]\n- **As a disruptive gaze or beauty (*fitna-khiraam*)**: Eyes or glances \"fitna-khiraam o dar-do-aalam baaz\" (sowing discord, opening two worlds' doors), blending temptation with ruin.[^6] Beauty's trial desolates the heart: \"Yeh fitna aadmi ki khaana-weerani ko kya kam hai\" (this mischief—isn't man's hearth-desolation enough?).[^7]\n- **Doomsday or cosmic chaos (*fitna-e-mahshar*, *fitna-khoo*)**: Ghalib uses it for apocalyptic mischief (\"mo'taqid-e-fitna-e-mahshar,\" believer in doomsday's discord; \"fitna-khoo,\" mischief-devourer) or intoxicating ruin (\"mast-e-fitna-khu\").[^8] It appears as an \"essence\" (*arq-e-fitna*) or strength-stealing force (*fitna-e-taaqat-ruba*.[^9]\n- **Absence of discord (*fitna-o-fasaad*)**: In assemblies or life, its lack signals dullness: \"aaj bazm mein kuchh fitna-o-fasaad nahin\" (today no mischief-strife in the gathering).[^10]\n\nNo prose treatises define *fitna* philosophically; all instances are in ghazals/nazms, where it symbolizes the perilous allure testing the lover's soul, echoing Qur'anic trials but stylized as romantic peril. It appears ~15 times, mostly in Ghalib (10+), underscoring his mastery of paradox.\n\n[^1]: Aggregated from *search_corpus* hits across corpus; e.g., *Diwan-e-Ghalib*, ch. 4, 25, 68, etc.\n[^2]: *Diwan-e-Ghalib*, ch. 4 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/transliteration/).\n[^3]: *Bang-e-Dara Part 3*, ch. 4 (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/transliteration/#p-aaae7c).\n[^4]: *Diwan-e-Zauq*, ch. 17 (/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/17-gauhar-ko-jauhari-sarraf-zar-ko-dekhte-hain/transliteration/).\n[^5]: *Diwan-e-Ghalib*, ch. 4 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/transliteration/).\n[^6]: *Diwan-e-Ghalib*, ch. 68 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/68-hareef-e-matlab-e-mushkil-nahin-fusoon-e-niyaaz/transliteration/).\n[^7]: *Diwan-e-Ghalib*, ch. 112 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/112-kisi-ko-de-ke-dil-koi-nawasanj-e-fughan-kyun-ho/transliteration/).\n[^8]: *Diwan-e-Ghalib*, chs. 192, 197 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/192-tu-dost-kisu-ka-bhi-sitam-gar-na-hua-tha/transliteration/), (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/197-warasta-uss-se-hain-ke-mohabbat-hi-kyun-na-ho/transliteration/).\n[^9]: *Diwan-e-Ghalib*, chs. 150, 220 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/150-nafas-na-anjuman-e-arzoo-se-baahar-khainch/transliteration/), (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/220-hawas-ko-hai-nishaat-e-kaar-kya-kya/transliteration/).\n[^10]: *Diwan-e-Ghalib*, ch. 151 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/151-nahin-ke-mujh-ko-qayamat-ka-aiteqad-nahin/transliteration/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fitna",
+        "limit": 20
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-aaae7c"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 4,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.4 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 25,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.25 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 149,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.149 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 17,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.17 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 17,
+      "paragraph_id": "p-aaae7c"
+    }
+  ],
+  "duration_ms": 47917,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 15915,
+    "completion_tokens": 5288,
+    "total_tokens": 21203,
+    "cached_tokens": 5609,
+    "api_calls": 3,
+    "cost_usd": 0.0049856499999999995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1550,
+        "completion_tokens": 608,
+        "total_tokens": 2158,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005915
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5314,
+        "completion_tokens": 1749,
+        "total_tokens": 7063,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019148
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 9051,
+        "completion_tokens": 2931,
+        "total_tokens": 11982,
+        "cached_tokens": 5309,
+        "cost_usd": 0.00247935
+      }
+    ]
+  }
+}

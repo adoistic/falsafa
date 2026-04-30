@@ -1,0 +1,244 @@
+{
+  "answer": "In the Falsafa corpus, \"wisdom\" appears sporadically across a range of texts, but it is not systematically defined or explored as a central philosophical concept (e.g., no extended treatises akin to Aristotle's *phronesis* or *sophia*, or Vedantic discussions). The Latin *sapientia*, Sanskrit *viveka* (discrimination), and *prajñā* (intuitive wisdom) yield no substantive English translation matches in the searched bodies; *viveka* occurs only as part of technical titles in ritual commentaries (e.g., *Kālaviveka*, *Śrāddhaviveka*), not as analyzed terms.[^1] Coverage is thus limited to poetic, religious-didactic, and legal-didactic contexts, primarily Old English Christian hagiography (Cynewulf) and Indic *smṛti* law texts. Broader philosophical works (e.g., Charles Comte's property treatises) lack mentions.\n\n### In Old English Christian Poetry (Didactic Literature)\nWisdom (*wīsdōm*) connotes divine insight, scriptural knowledge, prudent counsel, and eloquence attuned to God's will—often contrasted with folly or ignorance. It is a gift from God, enabling recognition of truths hidden from the unwise, and is tied to salvation and heroic virtue.\n\n- In *Andreas*, wisdom is the \"wit\" (*gewit*) and \"craft\" (*crāft*) to grasp God's eternal plans, miracles, and moral order; it \"blossoms\" inwardly as a victorious, bright gift, paired with \"word and wisdom\" (*word ond wīsdōm*) from Christ.[^2] It manifests as \"sound counsel\" (*gōd rǣd*) in crisis, urging communal discernment.[^3]\n- In *Elene*, it involves interpreting prophets (e.g., Moses, Isaiah, David) to affirm Christ's divinity, requiring \"mind-wise\" (*modwīse*) depth to distinguish truth from \"deep darkness.\"[^4] Judas exemplifies sudden prophetic wisdom post-conversion, refuting devils with Spirit-inspired shrewdness.\n\n### In Indic *Smṛti* Texts (Didactic Law)\nHere, wisdom (*jñāna* or implicit) pairs with learning (*śruta*), valor (*vīrya*), austerity (*tapas*), and conduct (*ācāra*), honoring ancestors and avoiding degradation. It is practical-ethical, enabling righteous action.\n\n- *Bṛhaspati Smṛti* praises sons who spread fame via \"acts of wisdom and charity,\" but equates lack of wisdom (with knowledge, etc.) to \"urine and feces.\"[^5]\n- *Aṅgirasa Smṛti* evokes \"triple fire of their wisdom\" metaphorically destroying impurities like frost before the sun.[^6]\n\n### In Urdu Poetry (Didactic Elements)\nMetaphorical uses evoke discernment or divine insight (e.g., Iqbal links it to God's creative power; Ghalib to enduring pain), but these are literary, not definitional.[^7]\n\nThe corpus (37 works) lacks comprehensive philosophical/didactic treatments of wisdom (no Stoics, no Upanishads, no Scholastics). Meanings cluster around divine/moral discernment enabling right action, but vary by tradition: revelatory in Christianity, dutiful in *smṛti*.\n\n[^1]: *Vīramitrodaya*, Chapter 1 (multiple paragraphs, e.g., p-9f1aa9, p-84b25c). [paragraphs](/works/unknown-viramitrodaya-d4b632/01/translation/#p-9f1aa9).\n\n[^2]: *Andreas*, Chapter 1 (p-14dc3e, p-9b746f). [paragraphs](/works/cynewulf-andreas-07b573/01/translation/#p-14dc3e).\n\n[^3]: *Andreas*, Chapter 1 (p-72e9c3, p-36273e). [paragraphs](/works/cynewulf-andreas-07b573/01/translation/#p-72e9c3).\n\n[^4]: *Elene*, Chapter 1 (p-7b1c1f, p-f5d1f1). [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-7b1c1f).\n\n[^5]: *Bṛhaspati Smṛti*, Chapter 1 (p-80822c, p-5165a0). [paragraphs](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-80822c).\n\n[^6]: *Aṅgirasa Smṛti*, Chapter 1 (p-ac401b). [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-ac401b).\n\n[^7]: E.g., *Bang-E-Dara Part 1*, Chapter 21 (p-fa7390). [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/21-ek-pahar-aur-gilehri/translation/#p-fa7390).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wisdom",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sapientia",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "viveka",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prajna",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "philosophical"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "didactic"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-5b21c9",
+          "p-9b746f",
+          "p-5efd27",
+          "p-14dc3e",
+          "p-36273e",
+          "p-72e9c3"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7b1c1f",
+          "p-f5d1f1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-80822c",
+          "p-5165a0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ac401b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"divine wisdom\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true wisdom\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-9f1aa9"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-84b25c"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-14dc3e"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-9b746f"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-72e9c3"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-36273e"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-7b1c1f"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-80822c"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-5165a0"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-ac401b"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-fa7390"
+    }
+  ],
+  "duration_ms": 51890,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 30035,
+    "completion_tokens": 4131,
+    "total_tokens": 34166,
+    "cached_tokens": 9520,
+    "api_calls": 3,
+    "cost_usd": 0.006644499999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1563,
+        "completion_tokens": 651,
+        "total_tokens": 2214,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0004086
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 6465,
+        "completion_tokens": 1525,
+        "total_tokens": 7990,
+        "cached_tokens": 1530,
+        "cost_usd": 0.001826
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22007,
+        "completion_tokens": 1955,
+        "total_tokens": 23962,
+        "cached_tokens": 6460,
+        "cost_usd": 0.0044099
+      }
+    ]
+  }
+}

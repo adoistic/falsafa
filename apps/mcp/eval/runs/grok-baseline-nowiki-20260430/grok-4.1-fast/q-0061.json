@@ -1,0 +1,169 @@
+{
+  "answer": "**Iqbal's poem \"Kinaar-e-Ravi\" (On the Banks of the Ravi), which evokes a meditative scene by the Ravi River, is Chapter 28 in *Bang-E-Dara Part 1* (1924), the first collection of his Urdu poetry.**[^1]\n\nHere is the full English translation:\n\n> [p-70a0dc] The Ravi, lost in song, in evening's silence deep,  \n> Ask not the state of heart that I within me keep.  \n> \n> [p-e68501] Its cadence, rising, falling, bids me kneel and pray,  \n> The world became a sacred precinct on this day.  \n> \n> [p-7ee613] I stand beside the flowing river's shore,  \n> But where I am, I know not anymore.  \n> \n> [p-04d031] The evening's hem is stained with wine across the land,  \n> The aged sky holds out a cup in his trembling hand.  \n> \n> [p-6109d1] To nothingness, the day's swift caravan has flown,  \n> This is no twilight glow, but flowers of the sun are sown.  \n> \n> [p-29acb7] Afar they stand, in lonely majesty so deep,  \n> The minarets of the Chughtai king's last sleep.  \n> \n> [p-6b8789] This palace is a tale of time's tyrannical decree,  \n> This palace is a book from a lost history.  \n> \n> [p-ef39bd] What is this place? It seems a music without sound,  \n> The trees, a silent gathering on holy ground.  \n> \n> [p-8c38f2] Upon the river's breast, a swift boat seems to fly,  \n> Its boatman locked in strife with waves that crest so high.  \n> \n> [p-ad52bd] As swift as is a glance, that boat now speeds from me,  \n> Beyond the ring of sight, for eyes no more to see.  \n> \n> [p-098157] The vessel of a human life thus sails the sea,  \n> Appearing and then lost in all eternity.  \n> \n> [p-1c94bb] It never knows defeat, nor does its journey finish,  \n> It vanishes from sight, but it does not perish.[^2]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 28 (\"Kinaar-e-Ravi\").  \n[^2]: *Ibid.*, [translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kinaar-e-Ravi\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bank of the Ravi\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ravi river\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.28 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-70a0dc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-e68501"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-7ee613"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-04d031"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-6109d1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-29acb7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-6b8789"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-ef39bd"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-8c38f2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-ad52bd"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-098157"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-1c94bb"
+    }
+  ],
+  "duration_ms": 20788,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 9687,
+    "completion_tokens": 2302,
+    "total_tokens": 11989,
+    "cached_tokens": 5366,
+    "api_calls": 3,
+    "cost_usd": 0.0022835,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 465,
+        "total_tokens": 2021,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00031435
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2313,
+        "completion_tokens": 466,
+        "total_tokens": 2779,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00046625
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 5818,
+        "completion_tokens": 1371,
+        "total_tokens": 7189,
+        "cached_tokens": 2308,
+        "cost_usd": 0.0015029
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "answer": "**In chapter 27 of *Diwan-E-Zauq*, the physical features of the beloved explicitly listed in the opening couplet are: the downy line (khat, a fine line of hair, such as above the lip), the curls (kaakul, side curls or forelocks), and the raven tresses (zulfen and gesu, referring to long, black locks of hair).**[^1]\n\nThese are described as \"advancing\" or growing prominently (\"all advanced\"), evoking classical Urdu poetic imagery of idealized beauty where such features dominate and overwhelm.[^1] The rest of the ghazal shifts to the lover's emotional turmoil, with no additional physical descriptions of the beloved (e.g., the mention of \"hair and nails\" in the third couplet refers to the speaker's own.[^2])\n\n[^1]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, chapter 27 (\"Khat barha kaakul barhe zulfen barhein gesu barhe\"), [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/27-khat-barha-kaakul-barhe-zulfen-barhein-gesu-barhe/translation/#p-d4f83b).\n\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, chapter 27, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/27-khat-barha-kaakul-barhe-zulfen-barhein-gesu-barhe/translation/#p-40b268).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ibrahim-zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Diwan-e-Zauq"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Khat barha kaakul\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Listed 60 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kaakul barhe\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"khat barha\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"zulfen barhein\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 27,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.27 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 27,
+        "paragraph_ids": [
+          "p-d4f83b",
+          "p-40b268"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 27,
+      "paragraph_id": "p-d4f83b"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 27,
+      "paragraph_id": "p-40b268"
+    }
+  ],
+  "duration_ms": 60107,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 47088,
+    "completion_tokens": 3788,
+    "total_tokens": 50876,
+    "cached_tokens": 34092,
+    "api_calls": 5,
+    "cost_usd": 0.0061978,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1572,
+        "completion_tokens": 806,
+        "total_tokens": 2378,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006949
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7384,
+        "completion_tokens": 520,
+        "total_tokens": 7904,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0015073
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12208,
+        "completion_tokens": 303,
+        "total_tokens": 12511,
+        "cached_tokens": 7379,
+        "cost_usd": 0.00148625
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 12835,
+        "completion_tokens": 846,
+        "total_tokens": 13681,
+        "cached_tokens": 12203,
+        "cost_usd": 0.00115955
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 13089,
+        "completion_tokens": 1313,
+        "total_tokens": 14402,
+        "cached_tokens": 12830,
+        "cost_usd": 0.0013498
+      }
+    ]
+  }
+}

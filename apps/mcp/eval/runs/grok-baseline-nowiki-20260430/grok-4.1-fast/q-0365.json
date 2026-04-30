@@ -1,0 +1,287 @@
+{
+  "answer": "**Iqbal's \"Tanhai\" (Solitude)** portrays solitude not as suffering but as a chosen, almost mystical communion with the universe—a deliberate withdrawal where nature itself becomes a companion, easing the heart's longing.[^1] The poem opens with stars as non-sorrowful fellows in the night, the silent sky and slumbering earth as a vast rose garden, and the moonlit landscape as kindred to the soul:\n\n> Are the stars sorrowful in the night?  \n> Are they not your companions!  \n>   \n> This lofty, silent sky so deep,  \n> The slumbering earth, the world asleep.  \n>   \n> This moon, the desert, vale, and mountain-bar,  \n> All Nature is a wild rose garden, near and far.[^1]\n\nThe heart's unrest finds resolution: \"What is this longing you cannot remit, O heart! / For Nature is your kindred spirit, O heart!\"[^1] Here, solitude is elective, spiritually enriching.\n\n**Ghalib's couplets on isolation**, by contrast, often evoke *tanhai* (solitude) or *tanha* (alone) as inflicted—born of love's betrayal, despair, or existential distance, yielding pain rather than peace.[^2][^3][^4] In ghazal 168 (\"Rahiye ab aisi jagah chal kar jahan koi na ho\"), he urges extreme, chosen seclusion amid grief, building a home \"of neither wall nor stone\" where no one hears his moan, even in sickness or death—a defiant embrace of isolation to escape human ties.[^2] Yet in ghazal 34 (\"Dil laga kar lag gaya unko bhi tanha baithna\"), love inflicts mutual loneliness: \"She too, by loving me, has learned to be alone; / At last my own despair has been repaid in this place.\"[^3] Ghazal 67 (\"Har qadam doori-e-manzil hai numayan mujh se\") intensifies this with \"lonely nights\" and \"such lonely dread on nights of parting,\" where the shadow flees in pain from the heart's fire.[^4]\n\n### Staged Conversation: Iqbal and Ghalib on Chosen vs. Inflicted Solitude\n\n*Imagine the poets meet in a moonlit desert, echoing Iqbal's rose garden and Ghalib's desolate plain. Iqbal speaks first, voice resonant with cosmic harmony; Ghalib, wry and wounded.*\n\n**Iqbal:** Brother Ghalib, why this flight to utter void—\"a place where no one else is known\"?[^2] See the stars! \"Are they sorrowful in the night? Are they not your companions!\" The sky's silence, earth's slumber, moon o'er vale and mountain—all a wild rose garden for the heart attuned. Solitude chosen thus remits all longing; Nature is kindred spirit![^1]\n\n**Ghalib:** Ah, Allama, your stars console where mine betray. Love's dart leaves me \"tanha baithna\"—she too learns to sit alone from my despair.[^3] In \"shab-e-tanhai,\" my shadow flees the heart's wild fire, a wisp in lonely dread of parting nights.[^4] Chosen? Nay, inflicted by the beloved's disdain, the world's masquerade. I seek no rose garden, but a house sans wall or stone, where moans unheard fade to death alone.[^2] Your harmony mocks my chain!\n\n**Iqbal:** Yet even in pain, flee the throng! As I depart Being's bazaar for solitude's grace, so you command: \"Rahiye ab aisi jagah... jahan koi na ho.\"[^1][^2] Inflicted turns chosen when the soul claims the desert's vastness as kin.\n\n**Ghalib:** True, the goal recedes with every step, but in that distance, perhaps a spark—your Nature's balm to my flame-torn domain.[^4] Still, Ghalib's vow: alone, repaid in kind.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, \"Tanhai\" [paragraphs](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/25-tanhai/translation/#p-125bb6) (p-e79836, p-0ef4d8, p-471a1d, p-36f218, p-8846ae).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ghazal 168 [paragraphs](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho/translation/#p-3a3448) (p-09bdfe, p-07c752).\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ghazal 34 [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/34-dil-laga-kar-lag-gaya-unko-bhi-tanha-baithna/translation/#p-604b05).\n\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, ghazal 67 [paragraphs](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/67-har-qadam-doori-e-manzil-hai-numayan-mujh-se/translation/#p-2e3269) (p-85ee45, p-aa1fc0).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tanhai Iqbal solitude"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib solitude isolation loneliness"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Tanhai\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "solitude OR loneliness OR alone OR isolation Iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "solitude OR loneliness OR alone OR isolation Ghalib"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tanhai"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.168 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 67,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.67 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 34,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.34 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"alone\" OR \"solitude\" OR \"lonely\" OR \"isolation\" OR \"tanha\" OR \"tanhai\" OR \"alone\" Ghalib"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-125bb6"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-e79836"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-0ef4d8"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-471a1d"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-36f218"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-8846ae"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-3a3448"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-09bdfe"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-07c752"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-604b05"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-2e3269"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-85ee45"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 34,
+      "paragraph_id": "p-aa1fc0"
+    }
+  ],
+  "duration_ms": 45044,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 88264,
+    "completion_tokens": 4800,
+    "total_tokens": 93064,
+    "cached_tokens": 42279,
+    "api_calls": 4,
+    "cost_usd": 0.01371095,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1568,
+        "completion_tokens": 1019,
+        "total_tokens": 2587,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00059375
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2501,
+        "completion_tokens": 886,
+        "total_tokens": 3387,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009207
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 38109,
+        "completion_tokens": 1032,
+        "total_tokens": 39141,
+        "cached_tokens": 2496,
+        "cost_usd": 0.0077634
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 46086,
+        "completion_tokens": 1863,
+        "total_tokens": 47949,
+        "cached_tokens": 38104,
+        "cost_usd": 0.0044331
+      }
+    ]
+  }
+}

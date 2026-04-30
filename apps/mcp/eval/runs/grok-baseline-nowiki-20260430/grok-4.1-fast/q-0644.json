@@ -1,0 +1,240 @@
+{
+  "answer": "**The Falsafa corpus contains English translations of Allama Iqbal's *Bang-e-Dara* (in three parts), but it does not mention \"ijtihad\" (or related terms like \"independent juristic reasoning,\" \"gates of ijtihad,\" \"taqlid,\" or \"mujtahid\").**[^1]\n\nIqbal's poetic treatment of inherited tradition appears in *Bang-e-Dara Part 3*, Chapter 13 (\"Khitab ba Jawanan-e-Islam\" / \"An Address to the Muslim Youth\"). Here, he laments that modern Muslim youth have **lost the dynamic \"inheritance\" from their ancestors**—the forefathers who emerged from the Arabian desert as creators of civilization, architects of empire, and embodiments of proud, action-oriented faith despite poverty.[^2] The poem contrasts the ancestors' movement and world-shaping vitality (\"world-seizers and world-rulers\") with the youth's stasis and mere \"talk,\" noting especially the painful loss of ancestral \"pearls of knowledge\" and books, now held in Europe.[^3]\n\nThis implies a critique of **static adherence to tradition**, urging solemn reflection and revival of the ancestors' living spirit rather than passive inheritance. While Iqbal's broader philosophy (outside this corpus) famously calls for *ijtihad* to dynamically reinterpret Islam, no such explicit link appears here—the poetry evokes renewal through action and self-realization, without naming juristic reasoning.[^4]\n\n[^1]: Multiple searches (\"ijtihad,\" \"independent juristic reasoning,\" \"Iqbal ijtihad,\" \"gates of ijtihad,\" \"taqlid,\" \"mujtahid,\" \"reason OR reasoning\") across the corpus returned zero results. Iqbal's works: *Bang-e-Dara Part 1* [55b25c], *Part 2* [9bc58c], *Part 3* [cc61e8].\n\n[^2]: Allama Iqbal, *Bang-e-Dara Part 3*, Ch. 13 (\"Khitab ba Jawanan-e-Islam\"), [translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).\n\n[^3]: Ibid., [translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462): \"You can have no true kinship with your forefathers, for you are all talk, they were all action; you are static, they were ever-moving. We have lost that inheritance we received from our ancestors... those pearls of knowledge, those books of our forefathers—when I see them now in Europe, my heart shatters into fragments.\"\n\n[^4]: The corpus lacks Iqbal's prose works (e.g., *The Reconstruction of Religious Thought in Islam*), so no direct corpus evidence ties this poetry to *ijtihad*. Ch. 13's full text is at [translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ijtihad",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"independent juristic reasoning\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal ijtihad"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tradition",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tradition iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancestors",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "forefathers"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "inheritance OR inherit OR inherited",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old tradition\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "reason OR reasoning OR ijtih",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gates OR taqlid OR mujtahid"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-365462"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "paragraph_range": {
+          "start": 0,
+          "end": 1
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gates of ijtihad\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-365462"
+    }
+  ],
+  "duration_ms": 50325,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 32020,
+    "completion_tokens": 4816,
+    "total_tokens": 36836,
+    "cached_tokens": 22176,
+    "api_calls": 5,
+    "cost_usd": 0.0054856,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1557,
+        "completion_tokens": 331,
+        "total_tokens": 1888,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0002471
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2128,
+        "completion_tokens": 920,
+        "total_tokens": 3048,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0006558
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7226,
+        "completion_tokens": 714,
+        "total_tokens": 7940,
+        "cached_tokens": 2123,
+        "cost_usd": 0.00148375
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9773,
+        "completion_tokens": 1467,
+        "total_tokens": 11240,
+        "cached_tokens": 7221,
+        "cost_usd": 0.00160495
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 11336,
+        "completion_tokens": 1384,
+        "total_tokens": 12720,
+        "cached_tokens": 9768,
+        "cost_usd": 0.001494
+      }
+    ]
+  }
+}

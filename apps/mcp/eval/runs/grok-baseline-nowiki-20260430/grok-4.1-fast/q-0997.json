@@ -1,0 +1,256 @@
+{
+  "answer": "**Bang-e-Dara** evokes the tolling of a bell to rouse an existing Muslim community from complacency, as seen in its direct summons to those presumed to already identify as such: \"Have you ever, O Muslim youth, paused for solemn reflection?\"[^1] This line presumes a shared heritage and identity—the \"Muslim youth\" are there, just dormant, shattered stars of a once-great firmament.\n\n**Andreas**, by contrast, depicts St. Andrew's mission to convert the cannibalistic Mermedonians, summoning a Christian community into being through miracles and exhortation. Its most summoning line comes as Andrew addresses the nascent believers post-flood, guiding them into their new identity: \"Do not be too fearful, though the fall has chosen the kindred of the sinful. They suffered death, torments for their deeds. For you the light of glory is brightly opened, if you think aright.\"[^2]\n\n**Andreas** is more presumptuous. *Bang-e-Dara* assumes listeners who merely need awakening within an established ummah. *Andreas* presumes brutal heathens will heed divine signs, drown their old ways, resurrect, and embrace baptism—creating believers where none existed.[^3]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Khitab ba Jawanan-e-Islam\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).\n\n[^2]: Cynewulf, *Andreas*, Chapter 1 [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-0609a7).\n\n[^3]: Cynewulf, *Andreas*, Chapter 1 [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-2e50c1). Andrew's command to the stone unleashes the flood that breaks the old community and births the new.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "andreas"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf andreas"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"arise\" OR \"awake\" OR \"o muslim\" OR \"o youth\" OR \"hear ye\" iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"listen\" OR \"hear\" OR \"o men\" OR \"brethren\" OR \"people\" sermon OR preach OR convert andreas OR cynewulf",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"call of the bell\" OR \"bang-e-dara\" iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O ye\" OR \"hear ye\" OR \"o muslim\" OR \"arise\" OR \"awake\" iqbal OR \"bang-e-dara\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hear\" OR \"listen\" OR \"o men\" OR \"brethren\" OR \"people\" OR \"hearken\" andreas cynewulf",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-365462"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-2e50c1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-0609a7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"o \" OR \"hear\" OR \"listen\" OR \"hearken\" OR \"brethren\" OR \"people\" OR \"thanes\" OR \"warriors\" OR \"hosts\" OR \"nation\" cynewulf-andreas",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-0609a7"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-2e50c1"
+    }
+  ],
+  "duration_ms": 65110,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 95856,
+    "completion_tokens": 5898,
+    "total_tokens": 101754,
+    "cached_tokens": 21473,
+    "api_calls": 5,
+    "cost_usd": 0.01889925,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1582,
+        "completion_tokens": 502,
+        "total_tokens": 2084,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00033805
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2806,
+        "completion_tokens": 1117,
+        "total_tokens": 3923,
+        "cached_tokens": 1577,
+        "cost_usd": 0.00088315
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15421,
+        "completion_tokens": 846,
+        "total_tokens": 16267,
+        "cached_tokens": 2801,
+        "cost_usd": 0.00308705
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 36799,
+        "completion_tokens": 1816,
+        "total_tokens": 38615,
+        "cached_tokens": 15416,
+        "cost_usd": 0.0059554
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 39248,
+        "completion_tokens": 1617,
+        "total_tokens": 40865,
+        "cached_tokens": 150,
+        "cost_usd": 0.0086356
+      }
+    ]
+  }
+}

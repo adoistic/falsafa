@@ -1,0 +1,272 @@
+{
+  "answer": "**The work is *Andreas* by Cynewulf, Chapter 1.**[^1]\n\nSaint Andrew (Andreas), imprisoned in the heathen city of Mermedonia, addresses a marble pillar (described as a \"marble-stone\" from ancient giants' work) near the city wall. He praises it as superior to gold because the King of glory inscribed the Ten Commandments (\"the righteous law... in ten words\") upon it and gave it to Moses, after which the truth-fast Joshua and Tobias held it. He then commands it, by God's decree, to release a flooding river (\"wide-running water for the ruin of men\") to punish the corrupt cannibalistic populace.\n\n> “Hear me now, marble-stone, by the Maker's decree,\\n> before whose face all of creation\\n> becomes afraid, when they see the Father\\n> of heavens and earth with the greatest of hosts\\n> on middle-earth seeking mankind.\\n> Let now from your foundations streams start to well,\\n> a river in-flooding, for the Almighty now,\\n> Heaven's High King, commands you to hasten\\n> and upon this corrupt folk to send forth\\n> a wide-running water for the ruin of men,\\n> a pouring ocean. Behold, you are better than gold,\\n> than treasure-gifts! On you the King Himself\\n> wrote, the God of glory, He made known in words\\n> the ready mysteries, and the righteous law\\n> He marked out in ten words,\\n> the Maker mighty in power. To Moses He gave it,\\n> as the truth-fast ones afterwards held it,\\n> the brave young thanes, his own kinsmen,\\n> the God-fearing men, Joshua and Tobias.\\n> Now you can know that the King of angels\\n> adorned you far more with gifts in old days\\n> than all the kindred of gems.\\n> Through His holy command you must quickly show\\n> if you have any understanding of Him.”[^1]\n\n[^1]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-2e50c1).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "better than gold pillar",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"King of glory\" pillar",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ten Commandments\" pillar",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wide-running water\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pillar\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"better than gold\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king of glory\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pillar Moses",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pillar Joshua Tobias",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "saint"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "anglo-saxon"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pillar column stone Moses",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedonia"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "marble pillar stone",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-2e50c1"
+    }
+  ],
+  "duration_ms": 35363,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 47106,
+    "completion_tokens": 3816,
+    "total_tokens": 50922,
+    "cached_tokens": 8613,
+    "api_calls": 6,
+    "cost_usd": 0.010037250000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1629,
+        "completion_tokens": 505,
+        "total_tokens": 2134,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0003482
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1886,
+        "completion_tokens": 634,
+        "total_tokens": 2520,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006717
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2191,
+        "completion_tokens": 704,
+        "total_tokens": 2895,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007677
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2717,
+        "completion_tokens": 540,
+        "total_tokens": 3257,
+        "cached_tokens": 149,
+        "cost_usd": 0.00079105
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3923,
+        "completion_tokens": 360,
+        "total_tokens": 4283,
+        "cached_tokens": 2712,
+        "cost_usd": 0.0005578
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 34760,
+        "completion_tokens": 1073,
+        "total_tokens": 35833,
+        "cached_tokens": 3918,
+        "cost_usd": 0.0069008
+      }
+    ]
+  }
+}

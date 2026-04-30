@@ -1,0 +1,109 @@
+{
+  "answer": "**Kalpabuddha chapter 3 does not discuss or mention *bodhicitta*.**[^1]\n\nThe chapter is brief (41 words, 2 paragraphs) and describes attributes of the deity Ratnasambhava (one of the five Dhyani Buddhas in Vajrayana Buddhism): his direction (South), color (yellow), consort (Lady Māmakī), mantra (Trāṃ), *jñāna* (ākāśamata, \"equality of space\"), implement (kapāla/skull cup), and abode (inside of the spleen).[^2]\n\nA search of the full *Kalpabuddha* corpus for \"bodhicitta\" (alone or with the work title) yields no results. *Bodhicitta* (\"enlightenment mind\") appears in other Indic works like *Kunjarakarna Dharmakathana* and *San Hyan Kamahayanikan*, but not here.[^3]\n\n[^1]: *Kalpabuddha*, ch. 3 (full chapter).\n[^2]: *Kalpabuddha*, ch. 3, [p-68d96e](/works/unknown-kalpabuddha-d760dc/03/translation/#p-68d96e).\n[^3]: Corpus-wide search results for \"bodhicitta\".",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bodhicitta kalpabuddha",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "Listed 6 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bodhicitta",
+        "limit": 10
+      },
+      "result_summary": "Found 6 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-68d96e"
+    }
+  ],
+  "duration_ms": 35522,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 18122,
+    "completion_tokens": 3291,
+    "total_tokens": 21413,
+    "cached_tokens": 3360,
+    "api_calls": 4,
+    "cost_usd": 0.0047659,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 685,
+        "total_tokens": 2237,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0004234
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 4875,
+        "completion_tokens": 404,
+        "total_tokens": 5279,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0009475
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 5267,
+        "completion_tokens": 1020,
+        "total_tokens": 6287,
+        "cached_tokens": 150,
+        "cost_usd": 0.0015409
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6428,
+        "completion_tokens": 1182,
+        "total_tokens": 7610,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018541
+      }
+    ]
+  }
+}

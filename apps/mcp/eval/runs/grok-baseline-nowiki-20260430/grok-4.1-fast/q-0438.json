@@ -1,0 +1,122 @@
+{
+  "answer": "**The Indic Smṛti texts** (a genre of Hindu didactic literature) in the corpus are explicitly gnomic and aphoristic in form. These works consist primarily of concise verses (*ślokas*) that deliver moral, legal, social, and philosophical maxims on *dharma* (duty/righteousness), often with numbered sutras or aphorisms followed by brief explanations or elaborations.[^1] They emphasize proverbial wisdom, ethical precepts, and rules of conduct in a pithy, memorable style. The relevant works are:\n\n- *Aṅgirasa Smṛti* (unknown-angirasa-smrti-2bf9d1)\n- *Bṛhaspati Smṛti* (unknown-brhaspati-smrti-0fd070)\n- *Kātyāyana Smṛti* (unknown-katyayana-smrti-1e06d2)\n- *Manusmṛti* (unknown-manusmrti-347b76)[^2]\n- *Nāradasmṛti* (unknown-naradasmrti-7650d2)[^3]\n- *Paraśara Smṛti* (unknown-parasara-smrti-2259be)\n- *Viṣṇu Smṛti* (unknown-visnu-smrti-27f0d8)\n- *Yama Smṛti* (unknown-yama-smrti-552f8d)\n- *Yājñavalkya Smṛti* (unknown-yajnavalkya-smrti-cb88d6)[^4]\n\nAdditionally, *Ślokāntara* (unknown-slokantara-d7a628) is a collection of standalone gnomic verses (*ślokas*) on ethics, duties, rebirth, and social hierarchy, often with prose commentaries expanding on each maxim.[^5]\n\nNo other works in the corpus match this form. Narrative poems (e.g., Cynewulf's *Andreas*, *Elene*, *Juliana*; Old English Elegies), multi-part poetry collections (e.g., Iqbal's *Bang-e-Dara* parts; Ghalib's and Zauq's *Diwans*), or prose treatises (e.g., Charles Comte's *Traité de la propriété*; Fichte's pamphlet) are lyrical, epic, or argumentative rather than aphoristic. Kawi Indic works like *Ganapatitattva* or *Vrhaspatitattva* lack confirmed gnomic structure based on available metadata.\n\n[^1]: These follow the classical Smṛti format of metrical verses (anuṣṭubh or similar) encoding rules, e.g., from *Manusmṛti* Ch. 1: \"The great sages... spoke these words\" introduces aphoristic *ślokas* on creation and varṇas ([p-879544](/works/unknown-manusmrti-347b76/01/translation/#p-879544)).\n\n[^2]: *Manusmṛti* (12 chapters, ~119 paragraphs in Ch. 1 alone) is verse-based, e.g., \"Harmful or harmless... that quality entered it\" (Mn_1.29) ([p-56179a](/works/unknown-manusmrti-347b76/01/translation/#p-56179a)).\n\n[^3]: *Nāradasmṛti* lists 18 topics of law in numbered aphorisms, e.g., \"Non-payment of debt... refusal to render service\" (Nar. M1.16) ([p-99f176](/works/unknown-naradasmrti-7650d2/01/translation/#p-99f176)).\n\n[^4]: *Yājñavalkya Smṛti* Ch. 1 (~385 paragraphs) is verse, e.g., sages ask Yājñavalkya to \"declare... the *dharma* of the *varṇas*\" (Yj_1.1) ([p-97f0a4](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-97f0a4)).\n\n[^5]: *Ślokāntara* Ch. 1 (~184 paragraphs) presents ślokas like \"Among humans, none is more excellent than a Brāhmaṇa\" (Slo_01s), with gnomic commentary on celibacy types ([p-aa8078](/works/unknown-slokantara-d7a628/01/translation/#p-aa8078)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-slokantara-d7a628 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-879544"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-56179a"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-99f176"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-97f0a4"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-aa8078"
+    }
+  ],
+  "duration_ms": 35601,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 116654,
+    "completion_tokens": 3252,
+    "total_tokens": 119906,
+    "cached_tokens": 4595,
+    "api_calls": 3,
+    "cost_usd": 0.02426755,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1549,
+        "completion_tokens": 285,
+        "total_tokens": 1834,
+        "cached_tokens": 1535,
+        "cost_usd": 0.00022205
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 4872,
+        "completion_tokens": 1409,
+        "total_tokens": 6281,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00144955
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 110233,
+        "completion_tokens": 1558,
+        "total_tokens": 111791,
+        "cached_tokens": 1531,
+        "cost_usd": 0.02259595
+      }
+    ]
+  }
+}

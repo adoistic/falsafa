@@ -1,0 +1,294 @@
+{
+  "answer": "Several works in the Falsafa corpus engage with the figure of the prison or imprisonment. These include Old English saints' lives where prisons feature prominently as sites of torment and faith-testing; Dharmaśāstra legal texts that discuss imprisonment as a form of punishment; Urdu poetry using prison as a metaphor for existential confinement, sorrow, or exile; and French liberal treatises referencing prisons in historical, legal, or anthropological contexts.[^1][^2][^3][^4]\n\n### Hagiographic narratives (literal prisons/dungeons)\n- **Cynewulf, *Andreas***: The apostle Andrew is repeatedly imprisoned by Mermedonians in a \"grim prison,\" where he praises God amid torment, and the prison becomes a site of divine intervention and escape.[^5]\n- **Cynewulf, *Elene***: Judas is confined in a \"prison of need\" and \"dungeon\" as coercion to reveal the True Cross, highlighting imprisonment as a tool of interrogation.[^6]\n- **Cynewulf, *Juliana***: The saint is locked in a \"prison-house\" and \"dungeon,\" steadfastly praising God under guard.[^7]\n\n### Legal texts (imprisonment as punishment)\n- **Bṛhaspati Smṛti**: Defines punishment to include \"imprisonment\" alongside fines and beatings for offenses like theft.[^8]\n- **Manusmṛti**: Recommends \"imprisonment\" as one of three methods to restrain the unrighteous, with specific durations (e.g., a year for certain castes).[^9]\n- **Kātyāyana Smṛti**: Prescribes confinement \"in a prison\" for those unable to provide surety.[^10]\n\n### Poetry (metaphorical imprisonment)\n- **Mirza Ghalib, *Diwan-E-Ghalib***: Life itself is \"the prison of this life,\" equated with \"chains of sorrow's strain\"; other ghazals evoke jail as emotional torment.[^11]\n- **Allama Iqbal, *Bang-E-Dara Part 1***: Exile renders the homeland a \"prison,\" with the bird lamenting its captivity.[^12]\n- **Sheikh Ibrahim Zauq, *Diwan-E-Zauq***: The lover identifies as Majnun, preferring a \"dark prison-cell\" over paradise without the beloved.[^13]\n\n### Philosophical treatises\n- **Charles Comte, *Traité de Législation: VOL I***: Discusses imprisonment as a penalty for heterodox beliefs, alongside exile and execution.[^14]\n- **Charles Dunoyer, *Nouveau traité d'economie: VOL I***: References \"savage prisoner[s]\" enduring torture and historical prisoners of war reduced to slavery.[^15]\n\nOther works contain incidental or highly metaphorical allusions (e.g., Iqbal's *Bang-E-Dara Part 2*, Ghalib's additional ghazals), but the above represent the most substantive engagements. No comprehensive philosophical treatise on the prison as an institution (e.g., like Foucault's modern analyses) appears in the current 37-work corpus.\n\n[^1]: *Andreas*, Ch. 1 (/works/cynewulf-andreas-07b573/01/translation/#p-da0c5e).\n[^2]: *Bṛhaspati Smṛti*, Ch. 1 (/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-9ce460).\n[^3]: *Manusmṛti*, Ch. 8 (/works/unknown-manusmrti-347b76/08/translation/#p-e06139).\n[^4]: *Diwan-E-Ghalib*, Ch. 33 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/33-dil-hi-to-hai-na-sang-o-khisht-dard-se-bhar-na-aay/translation/#p-3a895e).\n[^5]: *Andreas*, Ch. 1 (/works/cynewulf-andreas-07b573/01/translation/#p-da0c5e).\n[^6]: *Elene*, Ch. 1 (/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^7]: *Juliana*, Ch. 1 (/works/cynewulf-juliana-9a2157/01/translation/#p-8666d0).\n[^8]: *Bṛhaspati Smṛti*, Ch. 1 (/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-9ce460).\n[^9]: *Manusmṛti*, Ch. 8 (/works/unknown-manusmrti-347b76/08/translation/#p-e06139).\n[^10]: *Kātyāyana Smṛti*, Ch. 53 (/works/unknown-katyayana-smrti-1e06d2/53/translation/#p-216b90).\n[^11]: *Diwan-E-Ghalib*, Ch. 33 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/33-dil-hi-to-hai-na-sang-o-khisht-dard-se-bhar-na-aay/translation/#p-3a895e).\n[^12]: *Bang-E-Dara Part 1*, Ch. 34 (/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/translation/#p-941bb0).\n[^13]: *Diwan-E-Zauq*, Ch. 22 (/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/22-jab-chala-woh-mujh-ko-bismil-khoon-mein-ghaltaan-c/translation/#p-0fe402).\n[^14]: *Traité de Législation: VOL I*, Ch. 11 (/works/charles-comte-traite-de-legislation-vol-i-7e62a2/11-chapitre-premier/translation/#p-af99e3).\n[^15]: *Nouveau traité d'economie: VOL I*, Ch. 5 (/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/05-liberte-compatible-avec-la-maniere-de-vivre-des-pe/translation/#p-766d7c).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prison",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "imprisonment",
+        "limit": 50
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jail",
+        "limit": 50
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dungeon",
+        "limit": 50
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "incarceration",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-da0c5e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-9ce460"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-e06139"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 33,
+        "paragraph_ids": [
+          "p-3a895e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f5d1f1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-8666d0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 53,
+        "paragraph_ids": [
+          "p-216b90"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "p-941bb0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-af99e3"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-766d7c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 22,
+        "paragraph_ids": [
+          "p-0fe402"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 22,
+      "paragraph_id": "p-da0c5e"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 22,
+      "paragraph_id": "p-9ce460"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 22,
+      "paragraph_id": "p-e06139"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 22,
+      "paragraph_id": "p-3a895e"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 22,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 22,
+      "paragraph_id": "p-8666d0"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 22,
+      "paragraph_id": "p-216b90"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 22,
+      "paragraph_id": "p-941bb0"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 22,
+      "paragraph_id": "p-0fe402"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 22,
+      "paragraph_id": "p-af99e3"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 22,
+      "paragraph_id": "p-766d7c"
+    }
+  ],
+  "duration_ms": 43064,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 34476,
+    "completion_tokens": 5014,
+    "total_tokens": 39490,
+    "cached_tokens": 1830,
+    "api_calls": 3,
+    "cost_usd": 0.009127699999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1546,
+        "completion_tokens": 398,
+        "total_tokens": 1944,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00027855
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10298,
+        "completion_tokens": 2402,
+        "total_tokens": 12700,
+        "cached_tokens": 150,
+        "cost_usd": 0.0032381
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 22632,
+        "completion_tokens": 2214,
+        "total_tokens": 24846,
+        "cached_tokens": 149,
+        "cost_usd": 0.00561105
+      }
+    ]
+  }
+}

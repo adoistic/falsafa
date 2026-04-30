@@ -1,0 +1,93 @@
+{
+  "answer": "**'Lehd-i-be-naam' (or similar transliterations like 'lohde be-naam') refers to the motif of an \"unmarked grave\" or \"nameless grave\" in Urdu ghazal poetry, symbolizing anonymity in death, forgotten love, or existential oblivion.** \n\nThis specific phrase and theme do not appear in the Falsafa corpus based on searches across English translations. The corpus focuses on philosophical and classical texts (37 works total), with no Urdu lyric poetry or ghazals included that match these terms or concepts like \"unmarked grave\" or \"nameless grave.\" No relevant couplets or thematizations were found. \n\nIf this motif appears in broader South Asian philosophical discussions (e.g., Sufi texts), it isn't covered here—let me know if you'd like me to check related philosophical ideas like anonymity or mortality in available works.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lehd-i-be-naam",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"unmarked grave\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nameless grave\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lehd",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"be-naam\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"unmarked\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 18211,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 3499,
+    "completion_tokens": 1408,
+    "total_tokens": 4907,
+    "cached_tokens": 1682,
+    "api_calls": 2,
+    "cost_usd": 0.0011515,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1562,
+        "completion_tokens": 774,
+        "total_tokens": 2336,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0004696
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1937,
+        "completion_tokens": 634,
+        "total_tokens": 2571,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006819
+      }
+    ]
+  }
+}

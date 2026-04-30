@@ -1,0 +1,259 @@
+{
+  "answer": "In the Urdu corpus—primarily poetic works by Allama Iqbal (*Bang-e-Dara* Parts 1–3), Mirza Ghalib (*Diwan-e-Ghalib*), and Sheikh Ibrahim Zauq (*Diwan-e-Zauq*)—\"shauq\" (شوق, often transliterated as *shauq*, *shauk*, or *zauq*) appears frequently to denote a sensory or natural *longing*, *inclination*, *taste*, or *yearning* for something, such as the desire to see (*shauq-e-deed* or *zauq-e-deed*), travel, or experience.[^1][^2][^3] It conveys enthusiasm or appetite, often tied to worldly or immediate pursuits, without implying total self-annihilation.[^4]\n\n\"Ishq\" (عشق), by contrast, signifies a deeper, more intense and transformative *passion* or *love*—often anguished, existential, or divine—that overwhelms the self, as in *Dard-e-Ishq* (\"The Anguish of Love\").[^5] It appears in contexts of ultimate devotion, where mere visual or sensory desire falls short.[^6]\n\nA key distinction emerges in Iqbal's *Koshish-e-Natamam* (*Perpetual Striving*), using natural metaphors for graded desire: streams (*soton*) feel *shauq* toward rivers (a basic, flowing inclination), while the sea (*behr*) feels *ishq* toward rivers (a profounder pull).[^7] Similarly, in another poem, superficial *shauq* for seeing (*deed ka shauq*) is urged to yield to the inward vision of *ishq*, as claiming love without closing the eyes is mere pretense.[^8]\n\nThe corpus offers no explicit prose definitions (it is poetic), but usage portrays *shauq* as preparatory or lesser yearning versus *ishq*'s all-consuming fire.\n\n[^1]: Allama Iqbal, *Bang-e-Dara Part 1*, Ch. 3 (\"Gulzar-e-hast-o-bud na begana-waar dekh\"), [p-?](/works/allama-iqbal-bang-e-dara-part-1-55b25c/03-gulzar-e-hast-o-bud-na-begana-waar-dekh/transliteration/#p-?).\n\n[^2]: Allama Iqbal, *Bang-e-Dara Part 1*, Ch. 10 (\"Na aate, humein is mein takraar kya thi\"), [p-?](/works/allama-iqbal-bang-e-dara-part-1-55b25c/10-na-aate-humein-is-mein-takraar-kya-thi/transliteration/#p-?).\n\n[^3]: Mirza Ghalib, *Diwan-e-Ghalib*, Ch. 6 (\"Aamad-e-khat se hua hai sard jo bazaar-e-dost\"), [p-88df93](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost/transliteration/#p-88df93).\n\n[^4]: Allama Iqbal, *Bang-e-Dara Part 1*, Ch. 13 (\"Zahir ki aankh se na tamasha kare koi\"), [p-464c98](/works/allama-iqbal-bang-e-dara-part-1-55b25c/13-zahir-ki-aankh-se-na-tamasha-kare-koi/transliteration/#p-464c98).\n\n[^5]: Allama Iqbal, *Bang-e-Dara Part 1*, Ch. 17 (\"Dard-e-Ishq\"), full chapter, [translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/translation/).\n\n[^6]: Allama Iqbal, *Bang-e-Dara Part 1*, Ch. 12 (\"Tere ishq ki inteha chahta hoon\"), [p-df4797](/works/allama-iqbal-bang-e-dara-part-1-55b25c/12-tere-ishq-ki-inteha-chahta-hoon/transliteration/#p-df4797).\n\n[^7]: Allama Iqbal, *Bang-e-Dara Part 2*, Ch. 17 (\"Koshish-e-Natamam\"), [p-95469e](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/17-koshish-e-natamam/translation/#p-95469e) (transl. \"The springs for rivers yearn...\"); cf. transliteration [full chapter](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/17-koshish-e-natamam/transliteration/).\n\n[^8]: Allama Iqbal, *Bang-e-Dara Part 1*, Ch. 13 (\"Zahir ki aankh se na tamasha kare koi\"), [p-464c98](/works/allama-iqbal-bang-e-dara-part-1-55b25c/13-zahir-ki-aankh-se-na-tamasha-kare-koi/transliteration/#p-464c98).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shauq",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ishq",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shauq\" ishq",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shauq OR shawk OR shauk",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 17,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-2-9bc58c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "error VARIANT_NOT_FOUND: Variant 'translation' not found in allama-iqbal-bang-e-dara-part-1-55b25c chapter 13"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 13,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shauq\" OR \"zouq\" OR \"zauq\" ishq",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 17,
+        "paragraph_ids": [
+          "p-95469e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 17,
+        "paragraph_ids": [
+          "p-6b1c73"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "paragraph_ids": [
+          "p-787d3f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-464c98"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-464c98"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shauq-e-deed OR shauq-e-deedar",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 3,
+      "paragraph_id": "p-88df93"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 3,
+      "paragraph_id": "p-464c98"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 3,
+      "paragraph_id": "p-df4797"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 3,
+      "paragraph_id": "p-95469e"
+    }
+  ],
+  "duration_ms": 59184,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 37564,
+    "completion_tokens": 6205,
+    "total_tokens": 43769,
+    "cached_tokens": 10354,
+    "api_calls": 4,
+    "cost_usd": 0.0090622,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1560,
+        "completion_tokens": 504,
+        "total_tokens": 2064,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005415
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8528,
+        "completion_tokens": 1596,
+        "total_tokens": 10124,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0022738
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13118,
+        "completion_tokens": 1884,
+        "total_tokens": 15002,
+        "cached_tokens": 8523,
+        "cost_usd": 0.00228715
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14358,
+        "completion_tokens": 2221,
+        "total_tokens": 16579,
+        "cached_tokens": 149,
+        "cost_usd": 0.00395975
+      }
+    ]
+  }
+}

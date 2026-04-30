@@ -1,0 +1,132 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation: Volume I* (work slug: `charles-comte-traite-de-legislation-vol-i-7e62a2`) closes its first volume at the end of Chapter 21 (\"De l’action des lois de la morale, et des obstacles que cette action rencontre quelquefois dans cell\" / \"Of the action of the laws of morality, and of the obstacles that this action sometimes encounters in that of governments, in public institutions, or in popular errors\").**[^1]\n\nThe chapter concludes by contrasting two life paths—one of virtues, the other of \"vices and crimes\"—and proposes placing Dante's inscription from the gate of Hell at the entrance to the latter career as a warning: \n\n> PER ME SI VA NELLA CITTA DOLENTE :  \n> PER ME SI VA NELL’ ETERNO DOLORE :  \n> PER ME SI VA TRA LA PERDUTA GENTE.  \n> GIUSTIZIA MOSSE ‘L MIO ALTO FATTORE.  \n> ……………………………………………….  \n> LASCIATE OGNI SPERANZA, VOI CH’ ENTRATE.[^2]\n\nThis is immediately followed by \"#### END OF THE FIRST VOLUME.\"\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, Chapter 21, [/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-dbf447](https://falsafa.corpus/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-dbf447).\n\n[^2]: Charles Comte, *Traité de Législation: VOL I*, Chapter 21, [/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-c8e46f](https://falsafa.corpus/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-c8e46f).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lasciate ogni speranza",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"città dolente\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"per me si va\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"abandon all hope\" dante",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 21,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.21 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 21,
+        "paragraph_ids": [
+          "p-dbf447",
+          "p-c8e46f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 21,
+      "paragraph_id": "p-dbf447"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 21,
+      "paragraph_id": "p-c8e46f"
+    }
+  ],
+  "duration_ms": 40971,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 33029,
+    "completion_tokens": 3152,
+    "total_tokens": 36181,
+    "cached_tokens": 19592,
+    "api_calls": 4,
+    "cost_usd": 0.005242999999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1607,
+        "completion_tokens": 870,
+        "total_tokens": 2477,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00052675
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2031,
+        "completion_tokens": 313,
+        "total_tokens": 2344,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00033335
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 14511,
+        "completion_tokens": 592,
+        "total_tokens": 15103,
+        "cached_tokens": 2026,
+        "cost_usd": 0.0028943
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 14880,
+        "completion_tokens": 1377,
+        "total_tokens": 16257,
+        "cached_tokens": 14506,
+        "cost_usd": 0.0014886
+      }
+    ]
+  }
+}

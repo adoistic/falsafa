@@ -1,0 +1,248 @@
+{
+  "answer": "**In *Andreas*, spiritual authority derives from unwavering faith in God amid physical torment, enabling divine protection, miracles, and victory over adversaries—transforming Andrew from a missionary into a authoritative figure who converts an entire hostile city.**[^1][^2][^3] Andrew endures repeated tortures (draggings, scourgings, wounds) over days yet praises God, refusing to renounce faith; this fidelity prompts God's interventions (healing his body whole, flooding the city, resurrecting drowned youths), affirming his worthiness as Christ's \"thane\" and apostle.[^4][^5] The poem contrasts pagan \"battle-press\" prowess (lines invoking heroic leaders) with Christian endurance, where faith supplants martial valor as the mark of a true leader.[^6]\n\n**In *Manusmṛti* Book 7, a king's authority rests on justly wielding *daṇḍa* (the \"rod of punishment\"), derived from divine particles (including warrior-gods like Indra), ensuring order; prowess in valor and battle is implied in his splendor and victory-granting might, but *daṇḍa* is paramount.**[^7][^8] The king is \"worthy\" as *daṇḍa*'s wielder if pure, wise, truthful, deliberative, sense-conquering, and versed in *dharma*-treatises—applying punishment judiciously after considering time, place, and ability, lest it destroy him.[^9][^10] Without *daṇḍa*, the strong devour the weak; gods and beings alike submit to it.[^11]\n\n**Neither text recognizes the other's ideal.** *Andreas* elevates faith's passive endurance over force (devils flee Andrew's cross-sign; *daṇḍa*-like rods absent). *Manusmṛti* prioritizes active punitive justice and protective might for worldly rule—no spiritual torment or faith-testing for kingship. The corpus lacks cross-references between these disparate traditions (Anglo-Saxon Christian poetry vs. Indic *dharmaśāstra*).\n\n[^1]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-34b202) (torment description: dragged, scourged daily, body \"steamed with sweat,\" bones broken, yet faith holds).\n[^2]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-17921e) (Andrew's prayer amid torture: faith in God's promise sustains him).\n[^3]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-997c80) (God heals him whole, affirming authority via faith).\n[^4]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-5b21c9) (\"worthy thane of the King\" via faith-glory).\n[^5]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-e5fbef) (God's voice: faith brings peace/victory).\n[^6]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-868413) (initial heroic \"battle-press,\" eclipsed by faith).\n[^7]: *Manusmṛti*, [Chapter 7](/works/unknown-manusmrti-347b76/07/translation/#p-73f910) (Mn_7.14: *Daṇḍa* as king's tool for protection/order).\n[^8]: *Manusmṛti*, [Chapter 7](/works/unknown-manusmrti-347b76/07/translation/#p-9a02cb) (Mn_7.11: king's valor yields victory; composed of gods' particles).\n[^9]: *Manusmṛti*, [Chapter 7](/works/unknown-manusmrti-347b76/07/translation/#p-96ec46) (Mn_7.26: worthy wielder is truthful, wise, knowing *dharma*/*artha*/*kāma*).\n[^10]: *Manusmṛti*, [Chapter 7](/works/unknown-manusmrti-347b76/07/translation/#p-39e88d) (Mn_7.31: pure, follows treatises).\n[^11]: *Manusmṛti*, [Chapter 7](/works/unknown-manusmrti-347b76/07/translation/#p-55e886) (Mn_7.18: *Daṇḍa* rules/protects all).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas torture faith"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"book 7\" danda king authority"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danda",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" rod punishment",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king battle prowess OR valour OR courage",
+        "limit": 10
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"faith\" torture OR torment OR suffer",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"authority\" OR worthy OR ruler OR lord faith",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rod of punishment\" OR danda OR \"staff of punishment\" OR \"punishment\" king",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andrew OR Andreas faith OR belief torture OR torment",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-34b202"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-17921e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-997c80"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-5b21c9"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-e5fbef"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-868413"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-73f910"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-9a02cb"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-96ec46"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-39e88d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-55e886"
+    }
+  ],
+  "duration_ms": 46285,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 53577,
+    "completion_tokens": 4914,
+    "total_tokens": 58491,
+    "cached_tokens": 13707,
+    "api_calls": 4,
+    "cost_usd": 0.01111635,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1583,
+        "completion_tokens": 580,
+        "total_tokens": 2163,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0003771
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2142,
+        "completion_tokens": 1442,
+        "total_tokens": 3584,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011269
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11882,
+        "completion_tokens": 718,
+        "total_tokens": 12600,
+        "cached_tokens": 150,
+        "cost_usd": 0.0027129
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 37970,
+        "completion_tokens": 2174,
+        "total_tokens": 40144,
+        "cached_tokens": 11877,
+        "cost_usd": 0.00689945
+      }
+    ]
+  }
+}

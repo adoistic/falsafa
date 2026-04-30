@@ -1,0 +1,210 @@
+{
+  "answer": "**In Manusmṛti (Laws of Manu) Chapter 6, verses 41–42 prescribe the conduct for the parivrajaka, or wandering ascetic (also called a renouncer or sannyāsin in this context), who enters the final āśrama after the forest-dweller stage.**[^1]\n\nThese verses state:\n\n> Having gone forth from his house, furnished with the means of purification, a sage should **wander as an ascetic**, indifferent to those desires that have been gratified. // Mn_6.41 //  \n> He should **always wander alone, without a companion**, for the sake of perfection; seeing the perfection of one who is alone, he neither abandons nor is abandoned. // Mn_6.42 //\n\nThe key conduct emphasized here is **wandering without attachment** (to past pleasures) and **solitary wandering** (alone, without companions) to attain spiritual perfection. This fits the parivrajaka's life of renunciation, as described in the broader section on the ascetic stage (starting ~Mn_6.33), which continues with further rules like being without fire/home, begging in villages, equanimity, etc.[^2]\n\n[^1]: Manusmṛti, Chapter 6 (translation), from the opening context of the ascetic rules. `/works/unknown-manusmrti-347b76/06/translation/`\n[^2]: Manusmṛti, Chapter 6, verses 33–85 (full chapter on forest-dweller transitioning to ascetic). `/works/unknown-manusmrti-347b76/06/translation/`",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manusmriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parivrajaka"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wandering ascetic\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parivrājaka"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "renunciate"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wander as an ascetic\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"always wander alone\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"without a companion\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "paragraph_range": {
+          "start": 30,
+          "end": 35
+        },
+        "variant": "translation"
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [30, 35] is invalid"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "paragraph_range": {
+          "start": 25,
+          "end": 30
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-5c2c8d"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wander as an ascetic\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 90419,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 42696,
+    "completion_tokens": 9589,
+    "total_tokens": 52285,
+    "cached_tokens": 29150,
+    "api_calls": 5,
+    "cost_usd": 0.008961199999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1559,
+        "completion_tokens": 808,
+        "total_tokens": 2367,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006933
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1797,
+        "completion_tokens": 361,
+        "total_tokens": 2158,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00031025
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12703,
+        "completion_tokens": 2892,
+        "total_tokens": 15595,
+        "cached_tokens": 1792,
+        "cost_usd": 0.0037178
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_passage"
+        ],
+        "prompt_tokens": 12984,
+        "completion_tokens": 2844,
+        "total_tokens": 15828,
+        "cached_tokens": 12698,
+        "cost_usd": 0.0021141
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13653,
+        "completion_tokens": 2684,
+        "total_tokens": 16337,
+        "cached_tokens": 12979,
+        "cost_usd": 0.00212575
+      }
+    ]
+  }
+}

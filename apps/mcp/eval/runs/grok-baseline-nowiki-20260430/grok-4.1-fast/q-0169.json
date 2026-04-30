@@ -1,0 +1,210 @@
+{
+  "answer": "**Kātyāyana Smṛti** (slug: `unknown-katyayana-smrti-1e06d2`) discusses women's *strīdhana* (woman's separate property) primarily in Chapters 75–77, treating it as impartible estate not subject to division among heirs. A brief reference appears earlier in Chapter 72.[^1][^2][^3][^4]\n\n### Chapter 72: Impartible Properties (mention at K_877)\n*Strīdhana* is listed alongside wealth from valor or learning as not divisible at partition.[^5]\n\n### Chapter 75: Definition and Types (K_894–901)\nDefines *strīdhana* as six-fold: gifts before/at the nuptial fire (*adhyagni*, *adhyāvāhanika*), out of affection (*prītidatta*), bride-price (*śulka*), and subsequent gifts (*anvādheya*, *saudāyika*) from kin.[^6]\n\n### Chapter 76: Ownership and Disposition (K_902–916)\nDetails givers (father, mother, etc.), exclusions (conditional/fraudulent gifts), husband's limited rights, woman's independence (esp. over *saudāyika*), prohibitions on seizure by kin, and penalties.[^7]\n\n### Chapter 77: Heirs (K_917–920)\nOutlines succession: daughters first, then sons or kin; immovable gifts revert to brothers/parents in certain cases (e.g., Āsura marriage).[^8]\n\nThese prose sections embed numbered verses (K_###). For full context, read the chapters directly; no other chapters cover *strīdhana*.\n\n[^1]: Kātyāyana Smṛti, Chapter 72, [full chapter](/works/unknown-katyayana-smrti-1e06d2/72/translation/).\n\n[^2]: Kātyāyana Smṛti, Chapter 75, [full chapter](/works/unknown-katyayana-smrti-1e06d2/75/translation/).\n\n[^3]: Kātyāyana Smṛti, Chapter 76, [full chapter](/works/unknown-katyayana-smrti-1e06d2/76/translation/).\n\n[^4]: Kātyāyana Smṛti, Chapter 77, [full chapter](/works/unknown-katyayana-smrti-1e06d2/77/translation/).\n\n[^5]: Kātyāyana Smṛti, Chapter 72, [paragraph](/works/unknown-katyayana-smrti-1e06d2/72/translation/#p-7aa195).\n\n[^6]: Kātyāyana Smṛti, Chapter 75, [paragraphs](/works/unknown-katyayana-smrti-1e06d2/75/translation/#p-b8596e).\n\n[^7]: Kātyāyana Smṛti, Chapter 76, [paragraphs](/works/unknown-katyayana-smrti-1e06d2/76/translation/#p-f86392).\n\n[^8]: Kātyāyana Smṛti, Chapter 77, [paragraphs](/works/unknown-katyayana-smrti-1e06d2/77/translation/#p-8abcd6).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "katyayana"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Katyayana Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "stridhana Katyayana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"slug\":\"unknown-katyayana-smrti-1e06d2\",\"title\":\"Kātyāyana Smṛti\",\"author\":\"Kātyāyana\",\"author_slug\":\"katyayana\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "Listed 80 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "stridhana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"women's property\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"woman's property\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "strīdhana"
+      },
+      "result_summary": "Found 24 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 72,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.72 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 75,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.75 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 76,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.76 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 77,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.77 of unknown-katyayana-smrti-1e06d2 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 77,
+      "paragraph_id": "p-7aa195"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 77,
+      "paragraph_id": "p-b8596e"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 77,
+      "paragraph_id": "p-f86392"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 77,
+      "paragraph_id": "p-8abcd6"
+    }
+  ],
+  "duration_ms": 35714,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 24483,
+    "completion_tokens": 3544,
+    "total_tokens": 28027,
+    "cached_tokens": 13566,
+    "api_calls": 4,
+    "cost_usd": 0.0046337,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 651,
+        "total_tokens": 2203,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0004064
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1861,
+        "completion_tokens": 743,
+        "total_tokens": 2604,
+        "cached_tokens": 1530,
+        "cost_usd": 0.0005142
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_metadata",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8655,
+        "completion_tokens": 512,
+        "total_tokens": 9167,
+        "cached_tokens": 1856,
+        "cost_usd": 0.0017086
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 12415,
+        "completion_tokens": 1638,
+        "total_tokens": 14053,
+        "cached_tokens": 8650,
+        "cost_usd": 0.0020045
+      }
+    ]
+  }
+}

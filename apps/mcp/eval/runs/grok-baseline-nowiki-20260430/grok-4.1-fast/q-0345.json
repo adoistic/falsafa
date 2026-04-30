@@ -1,0 +1,247 @@
+{
+  "answer": "Iqbal's *Khitab ba Jawanan-e-Islam* (\"An Address to the Muslim Youth\") adopts an inspirational and admonitory posture, directly invoking the addressee—\"O Muslim youth\"—to provoke self-reflection on lost heritage: \"Have you ever, O Muslim youth, paused for solemn reflection? What was that firmament, of which you are but a shattered star?\"<sup>[1](#f1)</sup> He contrasts their ancestors' dynamic conquests (\"World-seizers and world-rulers\") with their current stasis (\"you are all talk, they were all action\"), shaping the youth as inheritors who must reclaim pride through action rather than lament, evoking a paternal urgency to transcend \"static\" decline.<sup>[2](#f2)</sup>\n\nIn *Sach keh doon ae Brahman* (\"Shall I Tell the Truth, O Brahmin?\"), Iqbal shifts to a provocative, fraternal challenge: \"O Brahmin, if you will not take offense, Your ancient idols have lost reverence.\" He critiques division (\"You think your God is in a form of stone; To me, my homeland's every speck is divine\") while proposing unity (\"Come, let us lift the veils of otherness anew\"), positioning the Brahmin as a potential partner in transcending religious \"otherness\" toward a shared \"city of the heart\" fueled by love. This rhetoric disarms defensiveness (\"gar tu bura na maane\") yet boldly reshapes the addressee from idolater to co-creator of a universal shrine.<sup>[3](#f3)</sup>\n\nManu’s Chapter 7 of the *Manusmṛti* employs an authoritative, prescriptive posture toward the king, framing him as a divine embodiment (\"A king, even if he is a child, must not be despised as a mere mortal; for this is a great deity that stands in human form\") burdened with cosmic duty (\"the protection of this entire world\").<sup>[4](#f4)</sup> Instructions on humility (\"He should constantly serve aged Brahmanas\"), sense-control, and just punishment (*daṇḍa*) mold the king as a vigilant enforcer of *varṇas* and *āśramas*, warned against vices like hunting or malice lest *daṇḍa* destroy him.<sup>[5](#f5)</sup> The rhetoric sacralizes power as conditional on Dharma, shaping the addressee as both god-like protector and fallible servant.\n\nCharles Comte, in *Traité de Législation* (Vol. I), assumes a critical-analytical posture toward legislators, demystifying their role: \"Legislators have not judged it necessary to enjoin citizens to feed and clothe themselves,\" revealing laws as emergent from natural inclinations rather than fiat.<sup>[6](#f6)</sup> He portrays them as often deluded creators of \"false systems,\" urging alignment with human nature over arbitrary will (\"the most renowned legislators of antiquity... confined themselves either to consecrating usages\"), reshaping them from \"divine geniuses\" to fallible observers who must prioritize utility and facts.<sup>[7](#f7)</sup>\n\n**Comparison**: Iqbal's dual postures are poetic and motivational, personalizing addressees (youth as \"shattered star,\" Brahmin as peer) to ignite inner transformation amid cultural crisis—dynamic, emotional, and reconciliatory. Manu's is hierarchical and imperative, elevating the king to divine steward while binding him to ritual ethics, emphasizing duty over inspiration. Comte's is rational and diagnostic, decentering legislators as mere conduits of natural laws, prioritizing critique over command. All shape addressees as agents of order (civilizational revival, governance, legislation), but Iqbal humanizes through dialogue, Manu through sanctity, and Comte through science; collectively, they reflect rhetoric's power to forge responsibility from glory, piety, or reason.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 13 [*Khitab ba Jawanan-e-Islam*](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13/translation/#p-365462).\n\n[^2]: Ibid., [#p-0291d8](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13/translation/#p-0291d8).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 36 [*Sach keh doon ae Brahman*](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36/translation/#p-752d60).\n\n[^4]: *Manusmṛti*, ch. 7 [¶1-8](/works/unknown-manusmrti-347b76/07/translation/#p-b46e87).\n\n[^5]: Ibid., [¶37-52](/works/unknown-manusmrti-347b76/07/translation/#p-cbe0d7).\n\n[^6]: Charles Comte, *Traité de Législation: VOL I*, ch. 11 [CHAPITRE PREMIER](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/11/translation/#p-4cf4ba).\n\n[^7]: Ibid., [#p-65a5f4](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/11/translation/#p-65a5f4).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"khitab\" youth islam"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sach keh doon\" brahmin"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"youth of Islam\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khitab"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"youth\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmin"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shall I tell\" OR \"truth\" brahmin"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "legislators"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-0291d8"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-752d60"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-b46e87"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-cbe0d7"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-4cf4ba"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-65a5f4"
+    }
+  ],
+  "duration_ms": 41437,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 51356,
+    "completion_tokens": 4659,
+    "total_tokens": 56015,
+    "cached_tokens": 22109,
+    "api_calls": 4,
+    "cost_usd": 0.00928435,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1581,
+        "completion_tokens": 779,
+        "total_tokens": 2360,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006832
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2980,
+        "completion_tokens": 1185,
+        "total_tokens": 4165,
+        "cached_tokens": 1576,
+        "cost_usd": 0.0009521
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17413,
+        "completion_tokens": 700,
+        "total_tokens": 18113,
+        "cached_tokens": 2975,
+        "cost_usd": 0.00338635
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 29382,
+        "completion_tokens": 1995,
+        "total_tokens": 31377,
+        "cached_tokens": 17408,
+        "cost_usd": 0.0042627
+      }
+    ]
+  }
+}

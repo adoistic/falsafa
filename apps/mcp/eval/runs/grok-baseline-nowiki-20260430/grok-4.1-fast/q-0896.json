@@ -1,0 +1,265 @@
+{
+  "answer": "In the *Slokantara*, a rule declares specific acts—killing a child in the womb (*bhrūṇahā*), a great man (*puruṣaghna*), a forbidden maiden (*kanyācora*), etc.—to be *pātaka* (sins) that cause one to \"fall into hell, becoming the dregs of the realm of hell,\" while related acts like killing a cow, a young woman, a child or elder, or arson are termed *upapātaka* (secondary great sins).[^1] Likewise, \"there is no sin (*pātakaṁ*) greater than falsehood (*anṛtāt*),\" for truth is the highest dharma.[^2]\n\nIn Cynewulf's *Andreas*, Matthew prays that God send an angel lest \"blood-thirsty beasts, blinded by sin\" perceive him abandoned; \"sin\" (*synn*) here names the heathens' moral blinding that risks eternal abandonment without divine solace.[^3] The disciples likewise refuse to abandon Andrew, lest they become \"wounded with sin\" (*synnum wunde*), loathed across lands for failing loyal service.[^4]\n\nThe terms perform divergent theological accounting. *Pātaka* operates within a karmic framework of graded sins incurring hellish rebirths (with precise hells like Mahāraurava for extremes), presupposing redress via ritual *prāyaścitta* (expiatory penances, e.g., bathing, fasting, or sacrifices specified elsewhere in smṛti), restoring purity and averting further demerit. *Synn*, by contrast, denotes fault alienating one from God (*e.g.*, Cynewulf's poet-speaker \"shackled by sins\" until divine grace unlocks wisdom), presupposing redress not through works but Christ's redemptive suffering, repentance, and faith—yielding eternal heavenly inheritance sans mechanical rites.[^5] The corpus lacks direct cross-tradition linkage.\n\n[^1]: *Slokantara*, [paragraph](/works/unknown-slokantara-d7a628/01/translation/#p-72c837).\n[^2]: *Slokantara*, [paragraph](/works/unknown-slokantara-d7a628/01/translation/#p-bad244).\n[^3]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-26403d).\n[^4]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-0932ba).\n[^5]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pataka",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "synn",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pātaka",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pataka\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smriti pataka"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "law"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-72c837",
+          "p-d6741d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-bad244"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-26403d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-0932ba"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d2e607"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "Listed 1 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-72c837"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-bad244"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-26403d"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-0932ba"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-d2e607"
+    }
+  ],
+  "duration_ms": 56918,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 82311,
+    "completion_tokens": 5023,
+    "total_tokens": 87334,
+    "cached_tokens": 43333,
+    "api_calls": 4,
+    "cost_usd": 0.01247375,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1598,
+        "completion_tokens": 635,
+        "total_tokens": 2233,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006146
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 4356,
+        "completion_tokens": 1556,
+        "total_tokens": 5912,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00141985
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 37308,
+        "completion_tokens": 1351,
+        "total_tokens": 38659,
+        "cached_tokens": 4351,
+        "cost_usd": 0.00748445
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "list_chapters"
+        ],
+        "prompt_tokens": 39049,
+        "completion_tokens": 1481,
+        "total_tokens": 40530,
+        "cached_tokens": 37303,
+        "cost_usd": 0.00295485
+      }
+    ]
+  }
+}

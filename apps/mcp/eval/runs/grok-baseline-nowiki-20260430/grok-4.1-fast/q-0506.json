@@ -1,0 +1,324 @@
+{
+  "answer": "**Several works in the Falsafa corpus engage with the rise and fall of civilizations, primarily through philosophical analysis tying societal progress or decline to factors like liberty, industry, culture, morality, slavery, war, and external invasions rather than simplistic notions of \"over-civilization.\" The most direct treatments appear in the political and social theory of Charles Dunoyer and Charles Comte. Poetic reflections on lost civilizations also appear in Allama Iqbal's works, while some ancient Indic texts allude to cyclical moral decline across ages.**\n\n**Charles Dunoyer's *Nouveau traité d'économie: VOL I* (1824) systematically examines stages of societal development—from savagery to industry—and refutes the idea that civilizations collapse from excess culture or decadence. Instead, he argues ancient empires like Rome fell due to their foundations in brigandage, slavery, and vulnerability to barbarian invasions, while true civilization (advanced arts, population density, morality) enables resilience and progress.[^1][^2][^3] He frames history as a progression where liberty increases with moral and industrial perfection across societal modes.[^4]**\n\n**Charles Comte's *Traité de Législation* series (1834) similarly explores the \"principal causes of the prosperity and decadence of nations,\" attributing rise to natural laws, moral habits, and useful institutions, and fall to ignorance of consequences, bad laws, slavery, and physical/moral degradation.[^5][^6] Peoples prosper or decline based on alignment with human nature and experience, though most fail to learn from history.[^7]**\n\n**Allama Iqbal's *Bang-E-Dara* (1924) poetically laments fallen Islamic and ancient civilizations (e.g., Hejazi, pre-Islamic Arabia) as tombs or graves from which modern Europe drew lifeblood, while urging Muslim revival against nationalism and decadence.[^8] These are evocative rather than analytical.**\n\n**Ancient Indic smṛtis (e.g., *Manusmṛti*, *Bṛhaspati Smṛti*) describe moral and dharma decline across yugas (Kṛta to Kali), implying societal weakening, but not full cyclical rise/fall theories of civilizations.[^9] Old English elegies and poetry evoke personal/societal ruin metaphorically, not systematically.[^10]**\n\n**No work matches a comprehensive cyclical theory (e.g., like Ibn Khaldun's *Muqaddimah*, absent from the corpus). Engagement is partial, focused on liberty vs. exploitation.**\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/04-v-influence-de-la-culture-sur-la-liberte/translation/#p-a2c4c0).\n\n[^2]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/04-v-influence-de-la-culture-sur-la-liberte/translation/#p-da6ed2).\n\n[^3]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [chapter](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/04-v-influence-de-la-culture-sur-la-liberte/translation/).\n\n[^4]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-a373e4).\n\n[^5]: Charles Comte, *Traité de Législation: VOL II*, [paragraph](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-d9a82b).\n\n[^6]: Charles Comte, *Traité de Législation: VOL I*, [chapter](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/).\n\n[^7]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/05-des-lois-auxquelles-les-hommes-sont-assujettis-par/translation/#p-1b4d70).\n\n[^8]: Allama Iqbal, *Bang-E-Dara Part 2*, [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-08760e); *Bang-E-Dara Part 3*, chapters 2 & 13.\n\n[^9]: *Manusmṛti*, [chapter 1](/works/unknown-manusmrti-347b76/01/translation/#p-4f03a9).\n\n[^10]: *Old English Elegies*, e.g., \"The Wanderer\" [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rise and fall",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "decline of empires",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rise of civilization",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fall of states",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cycle of dynasties",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ibn khaldun",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "civilization",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "civilisation",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "empire",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "decline",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rise of",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fall of",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ruin",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "decadence",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dynasty",
+        "limit": 10
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-a2c4c0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-da6ed2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0,
+        "paragraph_ids": [
+          "p-a373e4"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-1b4d70"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d9a82b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-a2c4c0"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-da6ed2"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-a373e4"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-d9a82b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-1b4d70"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-08760e"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-4f03a9"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-9462cc"
+    }
+  ],
+  "duration_ms": 49522,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 44205,
+    "completion_tokens": 4573,
+    "total_tokens": 48778,
+    "cached_tokens": 22489,
+    "api_calls": 4,
+    "cost_usd": 0.00775415,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1551,
+        "completion_tokens": 699,
+        "total_tokens": 2250,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006372
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5242,
+        "completion_tokens": 1109,
+        "total_tokens": 6351,
+        "cached_tokens": 1534,
+        "cost_usd": 0.0013728
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15573,
+        "completion_tokens": 1167,
+        "total_tokens": 16740,
+        "cached_tokens": 5237,
+        "cost_usd": 0.00291255
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 21839,
+        "completion_tokens": 1598,
+        "total_tokens": 23437,
+        "cached_tokens": 15568,
+        "cost_usd": 0.0028316
+      }
+    ]
+  }
+}

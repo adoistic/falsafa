@@ -1,0 +1,117 @@
+{
+  "answer": "**In the Falsafa corpus of translated philosophical texts, 'maitri' (Sanskrit for \"loving-kindness\" or \"friendliness,\" cognate with Pāli *mettā* and one of the four brahmavihāras or \"divine abodes\") appears explicitly only once across searchable Old Javanese (Kawi) Buddhist works, in the *Kuñjarakarṇa Dharmakathana* (ca. 14th century, anon.), a lengthy didactic poem blending Mahāyāna esotericism, karma doctrine, and syncretic theology.[^1]\n\n**As a proper name:** In Canto 23, the Buddha Vairocana teaches the unity of Buddhist, Śaiva, and ṛṣi deities, equating five sages (Kuśika/Garga, Maitri, Kuruṣya, Patañjala, and himself) with the five Jinas: \"Akṣobhya is the great Kuśika, Garga; Ratnasambhava is he. **The sage Maitri is Amitābha**; the sage Kuruṣya is named Amoghasiddhi, for certain. Patañjala is I, there is no other.\"[^2] Here, \"Maitri\" is a sage-ṛṣi (possibly evoking Maitreya or a friendly archetype) merged with Amitābha, the Buddha of infinite light associated with compassion and the Pure Land—aligning etymologically with maitrī's sense of boundless friendliness.[^3]\n\n**As a doctrine (*maitrīdāna*):** In Canto 38, amid teachings on meritorious gifts (*dāna*) superior to worldly karma (yielding heaven but not *mokṣa*), maitrī is the fourth and culminating \"gift\":\n> \"This is the purpose of **maitrīdāna**: the yoga of constant love for the world. Hold to the radiant, pure wisdom in all states of natural being. All beings, shining and good, animals together with gods, are freed from all defilements, released, and find the heaven of enlightenment, which brings bliss.\"[^4]\n\nThis frames maitrī as yogic loving-kindness extended universally (*jagad-viṣaya*), purifying body/speech/mind and enabling enlightenment. It caps the four *dānas* (material [*āmiṣa*], fearlessness [*abhaya*], Dharma [*dharma*], maitrī), with the brahmavihāras explicitly named soon after as \"firm banks\" of the \"lotus pond\" of Dharma (Canto 39).[^5]\n\n**Absence elsewhere:** Searches for 'maitri,' variants, or English glosses (\"loving-kindness,\" etc.) yielded no other Old Javanese/Kawi Buddhist hits (e.g., *Kalpabuddha*, *Saṃ Hyaṅ*, *Slokāntara*, *Vratisaṃsāra*). Unrelated Old English \"mette\" (\"met\") appeared in Cynewulf's poems.[^6] The corpus (37 works) covers limited Old Javanese Buddhist texts; maitrī may feature more in untranslated originals (e.g., *Sang Hyang Kamahāyānan Mantra*, *Sutasoma*), but it's not represented here beyond this syncretic usage emphasizing universal love as salvific yoga.**",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maitri"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"loving-kindness\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maitri OR maitrī OR metta OR mettā OR \"loving kindness\" OR \"loving-kindness\" OR friendliness OR \"universal love\"",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "unknown"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old javanese\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 31946,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 34788,
+    "completion_tokens": 3265,
+    "total_tokens": 38053,
+    "cached_tokens": 2172,
+    "api_calls": 3,
+    "cost_usd": 0.008264299999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1556,
+        "completion_tokens": 342,
+        "total_tokens": 1898,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004597
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1877,
+        "completion_tokens": 827,
+        "total_tokens": 2704,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007664
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 31355,
+        "completion_tokens": 2096,
+        "total_tokens": 33451,
+        "cached_tokens": 1872,
+        "cost_usd": 0.0070382
+      }
+    ]
+  }
+}

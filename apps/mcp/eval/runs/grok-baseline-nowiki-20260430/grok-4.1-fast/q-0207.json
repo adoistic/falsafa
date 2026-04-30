@@ -1,0 +1,354 @@
+{
+  "answer": "**No verse in the Falsafa corpus directly rebukes Ghalib or his motif of self-effacement (e.g., _fana_ as in \"Ishrat-e-qatra hai darya mein _fana_ ho jaana,\" where a drop finds bliss in dissolution into the river.[^1]) Iqbal's _Bang-e-Dara_ explores self-realization, human striving, and persistent love/sorrow over annihilation, but without naming Ghalib or targeting his style.**\n\nIqbal's closest thematic counterpoint appears in *\"Falsafa-e-Gham\"* (\"Philosophy of Sorrow\"), where he reframes love's trials: the beloved's departure does not mean _fana_ (\"Annihilation's art\"), as passion endures eternally in the soul rather than dissolving.[^2] Here, sorrow polishes and reveals the self, rather than emptying it—love \"lives within the soul as Sorrow, and is there to stay.\"[^3] Similarly, in *\"Insaan\"* (\"The Human Being\"), humanity is defined by restless power and striving for vastness, unlike passive nature.[^4]\n\n**Iqbal talks past Ghalib.** These poems engage Sufi _fana_ more broadly (persistence over erasure), but _khudi_ (selfhood)—central to Iqbal's rebuke of self-dissolution elsewhere—is absent from English translations here.[^5] No explicit dialogue exists in the corpus; Iqbal builds his affirmative self amid shared motifs of love, pain, and eternity, without confrontation.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 86 (\"Ishrat-e-qatra hai darya mein fana ho jaana\"), [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/86-ishrat-e-qatra-hai-darya-mein-fana-ho-jaana/translation-2/#p-a9ff31).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 7 (\"Falsafa-e-Gham\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-e693fc).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 7 (\"Falsafa-e-Gham\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-e693fc).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 12 (\"Insaan\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-cb3c43).\n\n[^5]: Corpus searches for \"khudi,\" \"self,\" \"selfhood,\" etc., yield no English matches; _khud_ appears only in transliterations (e.g., self-display), not as doctrine.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib self-effacement",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal khudi self",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "persian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqba-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: allama-iqba-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ego\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"khudi\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "selfhood"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khud"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"I am\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"be thyself\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fana"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self annihilation\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "annihilation"
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lose thyself\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.44 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 86,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.86 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"strengthen the self\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"selfhood\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-a9ff31"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-e693fc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-cb3c43"
+    }
+  ],
+  "duration_ms": 57806,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 115862,
+    "completion_tokens": 6223,
+    "total_tokens": 122085,
+    "cached_tokens": 69540,
+    "api_calls": 5,
+    "cost_usd": 0.0158529,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1586,
+        "completion_tokens": 661,
+        "total_tokens": 2247,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006252
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3023,
+        "completion_tokens": 965,
+        "total_tokens": 3988,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00085775
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 26240,
+        "completion_tokens": 1476,
+        "total_tokens": 27716,
+        "cached_tokens": 3018,
+        "cost_usd": 0.0055333
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 38613,
+        "completion_tokens": 1640,
+        "total_tokens": 40253,
+        "cached_tokens": 26235,
+        "cost_usd": 0.00460735
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 46400,
+        "completion_tokens": 1481,
+        "total_tokens": 47881,
+        "cached_tokens": 38608,
+        "cost_usd": 0.0042293
+      }
+    ]
+  }
+}

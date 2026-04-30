@@ -1,0 +1,182 @@
+{
+  "answer": "In the Falsafa corpus's collection of Urdu poetry—primarily Allama Iqbal's *Bang-e-Dara* (1924)—\"falak\" consistently denotes the sky or heavens (*asman*/*sag*) as a firmament-like dome, frequently personified as an active agent of cosmic order, caprice, or fate (*taqdeer*). This reflects a longstanding Persian-Urdu poetic motif: the revolving spheres (*afalk*) of the Ptolemaic cosmos that inexorably shape human destiny, often with indifference or tyranny toward earthly aspirations.[^1]\n\nIqbal deploys \"falak\" to evoke this duality—literal celestial expanse and metaphorical dispenser of fortune/misfortune. For instance:\n\n- In the nest-building bird's lament, Heaven (*falak*) dooms the chosen bough: \"Alas, what failure! Heaven marked that bough for its disgrace, / The very one I marked to be my fragile nesting-place.\"[^2]\n- Humanity's restless spirit finds \"no lasting peace\" beneath it: \"With such a restless nature, loving change, was I endowed, / Beneath the sky, no lasting peace have I allowed.\"[^3]\n- Stars are \"drunk on the wine of their Fate, / In heaven’s prison, chained to their state,\" portraying *falak* as a confining zodiacal vault.[^4]\n- The Himalaya receives obeisance from it: \"O Himalaya, rampart of the realm of Hindustan, / The sky bows down to kiss your brow, as is its plan.\"[^5]\n\nNo explicit philosophical treatise on \"falak\" appears in the corpus's Urdu works (e.g., no matching passages in *Diwan-e-Ghalib* or *Diwan-e-Zauq*), but Iqbal's usages illustrate its symbolic weight as fate's unyielding firmament. Searches for English equivalents like \"sky,\" \"heaven,\" or \"firmament\" in translations yield similar cosmic/fateful contexts, though less frequently outside poetry.\n\n[^1]: Multiple chapters in *Bang-e-Dara Part 1* and *Part 2*, e.g., [Ch. 8, *Bang-e-Dara Part 1*](/works/allama-iqbal-bang-e-dara-part-1-55b25c/08-laaon-woh-tinke-kahin-se-aashiyane-ke-liye/translation/).\n\n[^2]: [*Bang-e-Dara Part 1*, Ch. 8, p-4cee3b](/works/allama-iqbal-bang-e-dara-part-1-55b25c/08-laaon-woh-tinke-kahin-se-aashiyane-ke-liye/translation/#p-4cee3b).\n\n[^3]: [*Bang-e-Dara Part 1*, Ch. 37 (\"Sarguzasht-e-Adam\"), p-7b1aaa](/works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/translation/#p-7b1aaa).\n\n[^4]: [*Bang-e-Dara Part 2*, Ch. 14 (\"Insaan\"), p-3ebd11](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-3ebd11).\n\n[^5]: [*Bang-e-Dara Part 1*, Ch. 25 (\"Himalaya\"), p-b8c905](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/#p-b8c905).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "falak",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"falak\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sky fate firmament",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.37 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sky",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heaven",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-4cee3b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-7b1aaa"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-3ebd11"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-b8c905"
+    }
+  ],
+  "duration_ms": 27123,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 18527,
+    "completion_tokens": 3558,
+    "total_tokens": 22085,
+    "cached_tokens": 8289,
+    "api_calls": 3,
+    "cost_usd": 0.00424105,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1553,
+        "completion_tokens": 437,
+        "total_tokens": 1990,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0002993
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5230,
+        "completion_tokens": 1336,
+        "total_tokens": 6566,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0014842
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11744,
+        "completion_tokens": 1785,
+        "total_tokens": 13529,
+        "cached_tokens": 5225,
+        "cost_usd": 0.00245755
+      }
+    ]
+  }
+}

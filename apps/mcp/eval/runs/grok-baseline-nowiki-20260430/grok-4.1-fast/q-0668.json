@@ -1,0 +1,196 @@
+{
+  "answer": "**'Parināma' (Sanskrit: परिणाम, 'transformation' or 'evolution') does not appear as a term in the three Kawi-language *tattva* texts in the corpus (*Gaṇapatitattva*, *Vṛhaspatitattva*, and *Sān Hyaṇ Tattvajñāna*), which systematically enumerate the principles of reality (*tattva*, akin to the 36 tattvas of Śaiva philosophy).**[^1]\n\nThese texts describe a hierarchical *manifestation* (*udbhava* or sequential emergence) from subtle (*sūkṣma*) divine principles (e.g., Śiva-tattva, Sadāśiva-tattva) to gross elements (*pañcamahābhūta*: ether, air, fire, water, earth), rather than using *parināma* explicitly as in Sāṃkhya-Yoga (where primal nature/*prakṛti* evolves through real transformation). Higher *tattvas* \"pervade\" (*vyāpaka*) or \"give rise to\" (*udbhava*) lower ones, with the conscious principle (*cetana*, e.g., Śiva) animating the unconscious (*acetana*, e.g., Māyā/pradhāna).[^2][^3]\n\nThe closest conceptual parallels to *parināma* (sequential transformation/evolution) appear in *Gaṇapatitattva*:\n\n- **Embryonic transformation**: The fetus undergoes monthly stages from subtle *bindu* (drop) via *Oṃkāra*: clot of blood (1st month), egg-like mass (3rd), *śivaliṅga* (4th), illusory form (5th), fire (6th), ivory doll (7th), flesh/bone/hair (8th), full birth (10th).[^4]\n- **Phonemic evolution into body**: Syllables transform (*parivartana*) into body parts, e.g., *ka-kha-ga-gha-ṅa* → blood; *pa-pha-ba-bha-ma* → bones; culminating in a *śivaliṅga*-like human form.[^5]\n\nSimilar processes occur in cosmic creation: *Oṃkāra*/*bindu* → five deities (*pañcabrahma*) → subtle elements (*tanmātra*) → gross elements → world/body.[^6] No *parināma-vāda* (real change in substrate) is emphasized; it's emanation (*ābhāsa*) from Śiva, reversible via yoga to *śūnya* (void).[^7]\n\nFor contrast, *Manusmṛti* (not strictly a *tattva* text) uses \"undergoes transformation\" for elemental evolution: ether → wind → light → water → earth.[^8]\n\nIf your query refers to Sanskrit *tattva*-śāstras outside this corpus (e.g., *Tattva-saṃgraha*), they are absent here (37 works total).[^9]\n\n[^1]: Corpus-wide searches for \"parinama\", \"parināma\", \"parināmā\", \"tattva transformation\", etc., yielded 0 exact matches in *tattva* texts. *list_works*; *search_corpus*.\n[^2]: *Vṛhaspatitattva*, Ch. 1, [¶ on cetana/acetana to pañcamahābhūta](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-c31df3).\n[^3]: *Sān Hyaṇ Tattvajñāna*, Ch. 1, [¶ on Śiva pervading Māyā/pradhāna](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-daaeef).\n[^4]: *Gaṇapatitattva*, Ch. 1, [¶ on fetal transformations](/works/unknown-ganapatitattva-66a136/01/translation/#p-7917c1).\n[^5]: *Gaṇapatitattva*, Ch. 1, [¶ on syllable transformations](/works/unknown-ganapatitattva-66a136/01/translation/#p-c71a9b).\n[^6]: *Gaṇapatitattva*, Ch. 1, [¶ on bindu to cosmos/human](/works/unknown-ganapatitattva-66a136/01/translation/#p-13eddc).\n[^7]: *Gaṇapatitattva*, Ch. 1, [six-limbed yoga dissolves to śūnya](/works/unknown-ganapatitattva-66a136/01/translation/#p-1a44bb).\n[^8]: *Manusmṛti*, Ch. 1, [¶¶ 75–79 on elemental transformation](/works/unknown-manusmrti-347b76/01/translation/#p-23f698).\n[^9]: *list_works* confirms 37 works; no additional *tattva*-śāstras.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parinama",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parināmā",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"parinama\" tattva",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tattva transformation evolution",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tattva texts",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-ganapatitattva-66a136 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "transformation",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "evolution",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-c31df3"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-daaeef"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-7917c1"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-c71a9b"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-13eddc"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-1a44bb"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-23f698"
+    }
+  ],
+  "duration_ms": 48676,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 85958,
+    "completion_tokens": 3881,
+    "total_tokens": 89839,
+    "cached_tokens": 8739,
+    "api_calls": 4,
+    "cost_usd": 0.01782125,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1552,
+        "completion_tokens": 471,
+        "total_tokens": 2023,
+        "cached_tokens": 1532,
+        "cost_usd": 0.0003161
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 1872,
+        "completion_tokens": 245,
+        "total_tokens": 2117,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004744
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 5195,
+        "completion_tokens": 1189,
+        "total_tokens": 6384,
+        "cached_tokens": 1867,
+        "cost_usd": 0.00135345
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 77339,
+        "completion_tokens": 1976,
+        "total_tokens": 79315,
+        "cached_tokens": 5190,
+        "cost_usd": 0.0156773
+      }
+    ]
+  }
+}

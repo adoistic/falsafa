@@ -1,0 +1,167 @@
+{
+  "answer": "**Johann Gottlieb Fichte's *Zurückforderung der Denkfreiheit von den Fürsten Europens* (\"Reclaiming Freedom of Thought from the Princes of Europe,\" 1793) treats freedom of thought as its central topic.**[^1] The entire short pamphlet (two chapters) argues against princes' suppression of thought, asserting it as an inalienable human right essential for human progress, state welfare, and resistance to tyranny.[^2]\n\n**Freedom of thought is also discussed, but more peripherally, in two chapters of Charles Comte's *Traité de Législation*.**\n- In Volume III, Chapter 28, it is linked to religious freedom and unrestricted press in China, portraying it as minimally constrained there compared to despotic measures elsewhere.[^3]\n- In Volume IV, Chapter 15, masters in Anglo-America are described as prohibiting slaves from reading to prevent freedom of thought from enabling their enlightenment or rebellion, tying it to the masters' own liberty.[^4]\n\nNo other works in the Falsafa corpus treat \"freedom of thought\" (or close variants) as a topic; searches returned only these hits across 37 works.[^5]\n\n[^1]: [/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01/translation/#p-effd89](https://falsafa.com/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01/translation/#p-effd89).\n\n[^2]: See Chapters 1–2 throughout; e.g., [/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-be3fae](https://falsafa.com/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-be3fae), [/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-8e054b](https://falsafa.com/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-8e054b).\n\n[^3]: [/works/charles-comte-traite-de-legislation-vol-iii-ca589a/28-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-2ea79e](https://falsafa.com/works/charles-comte-traite-de-legislation-vol-iii-ca589a/28-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-2ea79e).\n\n[^4]: [/works/charles-comte-traite-de-legislation-vol-iv-bca040/15-de-l-influence-de-l-esclavage-domestique-sur-l-esp/translation/#p-5096be](https://falsafa.com/works/charles-comte-traite-de-legislation-vol-iv-bca040/15-de-l-influence-de-l-esclavage-domestique-sur-l-esp/translation/#p-5096be).\n\n[^5]: Corpus searches for \"freedom of thought\" (16 results, all from these works), \"liberty of thought,\" \"free thought,\" and \"freedom to think\" (0 results each).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "freedom of thought",
+        "limit": 20
+      },
+      "result_summary": "Found 16 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty of thought\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"free thought\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"freedom to think\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-effd89"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 28,
+        "paragraph_ids": [
+          "p-2ea79e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 15,
+        "paragraph_ids": [
+          "p-5096be"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "{\"slug\":\"johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde\",\"title\":\"Zurückforderung der Denkfreiheit von den Fürsten Europens\",\"author\":\"Johann Gottlieb Fichte\",\"author_slug\":\"johann-got"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "fichte"
+      },
+      "result_summary": "Listed 1 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 15,
+      "paragraph_id": "p-effd89"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 15,
+      "paragraph_id": "p-be3fae"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 15,
+      "paragraph_id": "p-8e054b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 15,
+      "paragraph_id": "p-2ea79e"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 15,
+      "paragraph_id": "p-5096be"
+    }
+  ],
+  "duration_ms": 23953,
+  "from_run": "grok-baseline-nowiki-20260430",
+  "usage": {
+    "prompt_tokens": 10643,
+    "completion_tokens": 3802,
+    "total_tokens": 14445,
+    "cached_tokens": 6794,
+    "api_calls": 3,
+    "cost_usd": 0.0030105,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1544,
+        "completion_tokens": 380,
+        "total_tokens": 1924,
+        "cached_tokens": 1531,
+        "cost_usd": 0.00026915
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3739,
+        "completion_tokens": 1493,
+        "total_tokens": 5232,
+        "cached_tokens": 1529,
+        "cost_usd": 0.00126495
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_metadata",
+          "list_works"
+        ],
+        "prompt_tokens": 5360,
+        "completion_tokens": 1929,
+        "total_tokens": 7289,
+        "cached_tokens": 3734,
+        "cost_usd": 0.0014764
+      }
+    ]
+  }
+}
