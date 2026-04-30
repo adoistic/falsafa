@@ -68,6 +68,8 @@ import {
   search_corpus,
   find_related,
   compare_works,
+  read_wiki,
+  read_wiki_full,
 } from "../src/tools.ts";
 
 // ─────────────────────────────────────────────────────────────────────────
@@ -190,6 +192,7 @@ interface Args {
   concurrency: number;
   random: boolean;
   seed: number;
+  withWiki: boolean;
 }
 
 function parseArgs(): Args {
@@ -204,6 +207,10 @@ function parseArgs(): Args {
     }
     if (arg === "--random") {
       flags.random = true;
+      continue;
+    }
+    if (arg === "--with-wiki") {
+      flags.withWiki = true;
       continue;
     }
     if (arg.startsWith("--")) {
@@ -235,7 +242,18 @@ function parseArgs(): Args {
   if (!Number.isFinite(concurrency) || concurrency < 1) {
     throw new Error(`--concurrency must be a positive integer; got ${opts.concurrency}`);
   }
-  return { model, count, start, runName, modelTag, pool, concurrency, random: !!flags.random, seed };
+  return {
+    model,
+    count,
+    start,
+    runName,
+    modelTag,
+    pool,
+    concurrency,
+    random: !!flags.random,
+    seed,
+    withWiki: !!flags.withWiki,
+  };
 }
 
 const USAGE = `
@@ -248,6 +266,7 @@ Flags:
   --concurrency <n>  Parallel in-flight questions (default: 1)
   --random           Shuffle the pool with --seed before slicing
   --seed <n>         RNG seed used by --random (default: 42)
+  --with-wiki        TREATMENT arm — advertise read_wiki + read_wiki_full (10 tools)
   --run-name <s>     Output dir name under apps/mcp/eval/runs/ (default: <model-tag>-YYYYMMDD)
   --model-tag <s>    Override the per-model subdir name (default: derived from --model)
   --pool <path>      Path to question pool JSON or JSONL (default: eval/questions-revised-1000.json)
@@ -392,12 +411,58 @@ const TOOLS = [
 ] as const;
 
 // ─────────────────────────────────────────────────────────────────────────
+// Wiki tools — only advertised when --with-wiki is set (treatment arm of
+// the A/B). Same MCP implementations behind these as the stdio server.
+// ─────────────────────────────────────────────────────────────────────────
+
+const WIKI_TOOLS = [
+  {
+    type: "function",
+    function: {
+      name: "read_wiki",
+      description:
+        "Read the rule-based wiki CARD (~280 tokens) for a work or chapter. Cheap navigation entry-point. " +
+        "Omit chapter_number for the work-level card; pass chapter_number for a single chapter card. " +
+        "Cards contain verbatim openings, closings, and key passages with [p-XXXXXX] cite handles. " +
+        "Use BEFORE read_chapter to decide which chapters are worth a deep read.",
+      parameters: {
+        type: "object",
+        properties: {
+          work_slug: { type: "string" },
+          chapter_number: { type: "integer" },
+        },
+        required: ["work_slug"],
+      },
+    },
+  },
+  {
+    type: "function",
+    function: {
+      name: "read_wiki_full",
+      description:
+        "Read the FULL wiki sheet (~1,500 tokens) — same as read_wiki but with heavy statistical detail: " +
+        "n-gram tables, NPMI collocations, all refrains, TextRank top-3 + LexRank cross-check, " +
+        "boundary signals, stylometric outlier flag. Opt-in for deep analysis; most queries should " +
+        "use read_wiki first and only escalate when the card is insufficient.",
+      parameters: {
+        type: "object",
+        properties: {
+          work_slug: { type: "string" },
+          chapter_number: { type: "integer" },
+        },
+        required: ["work_slug"],
+      },
+    },
+  },
+] as const;
+
+// ─────────────────────────────────────────────────────────────────────────
 // System prompt — mirrors apps/site/src/islands/byok/providers/tools.ts:
 // FALSAFA_SYSTEM_PROMPT. Hard-coded here so this script has zero
 // cross-package imports outside apps/mcp/src/.
 // ─────────────────────────────────────────────────────────────────────────
 
-const SYSTEM_PROMPT = `You are a librarian for the Falsafa corpus — translated philosophical and classical texts. You have access to 8 tools that let you navigate the corpus directly.
+const SYSTEM_PROMPT_BASE = `You are a librarian for the Falsafa corpus — translated philosophical and classical texts. You have access to 8 tools that let you navigate the corpus directly.
 
 Approach:
 1. If you need to discover what's in the corpus, start with list_works.
@@ -439,6 +504,27 @@ The link target — the URL inside \`[paragraph](url)\` — comes from the \`cit
 NEVER write raw paragraph IDs like \`p-be2857\` or \`p-f22236\` in your final answer prose. They are meaningless to the reader. Always wrap them in a markdown link via the \`citation_url\` field. The IDs are an internal handle, not a citation.
 
 The user's question follows. Use the tools, then answer.`;
+
+// Treatment-arm prompt: same as base, but mentions read_wiki / read_wiki_full
+// (10 tools total) and includes a step-0 nudge to scan wiki cards before
+// committing to a deep read. Substring-substituted from BASE so the rest of
+// the prompt (footnotes, URL hard rule, etc.) stays byte-identical.
+const SYSTEM_PROMPT_WITH_WIKI = SYSTEM_PROMPT_BASE
+  .replace(
+    "You have access to 8 tools that let you navigate the corpus directly.",
+    "You have access to 10 tools that let you navigate the corpus directly. " +
+      "Two of those tools — read_wiki and read_wiki_full — surface a rule-based wiki layer " +
+      "(verbatim openings/closings, key passages, n-gram tables, refrains, collocations) " +
+      "for every work and chapter. Cards are cheap (~280 tokens); full sheets are richer (~1,500 tokens).",
+  )
+  .replace(
+    "Approach:\n1. If you need to discover what's in the corpus, start with list_works.",
+    "Approach:\n0. For an unfamiliar work, scan its wiki card first with read_wiki(work_slug) — much cheaper than list_chapters + read_chapter for orientation. Then read_wiki(work_slug, chapter_number) on candidate chapters before committing to read_chapter.\n1. If you need to discover what's in the corpus, start with list_works.",
+  );
+
+function buildSystemPrompt(withWiki: boolean): string {
+  return withWiki ? SYSTEM_PROMPT_WITH_WIKI : SYSTEM_PROMPT_BASE;
+}
 
 // ─────────────────────────────────────────────────────────────────────────
 // Tool execution — calls the same MCP implementations the stdio server
@@ -487,6 +573,18 @@ function executeTool(name: string, args: Record<string, unknown>): unknown {
           args.work_slug_a as string,
           args.work_slug_b as string,
           args.topic as string | undefined,
+        );
+      case "read_wiki":
+        return read_wiki(
+          corpus,
+          args.work_slug as string,
+          args.chapter_number as number | undefined,
+        );
+      case "read_wiki_full":
+        return read_wiki_full(
+          corpus,
+          args.work_slug as string,
+          args.chapter_number as number | undefined,
         );
       default:
         return { error: { code: "UNKNOWN_TOOL", message: `Unknown tool: ${name}` } };
@@ -548,7 +646,9 @@ async function callOpenRouter(
   apiKey: string,
   model: string,
   messages: OpenRouterMessage[],
+  withWiki: boolean,
 ): Promise<OpenRouterResponse> {
+  const tools = withWiki ? [...TOOLS, ...WIKI_TOOLS] : TOOLS;
   const res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
     method: "POST",
     headers: {
@@ -561,7 +661,7 @@ async function callOpenRouter(
     body: JSON.stringify({
       model,
       messages,
-      tools: TOOLS,
+      tools,
       tool_choice: "auto",
       // Reasonable token budget — Falsafa answers are typically <1000 tokens.
       max_tokens: 4096,
@@ -588,10 +688,11 @@ async function runQuestion(
   model: string,
   runName: string,
   question: PoolQuestion,
+  withWiki: boolean,
 ): Promise<CaseResult> {
   const startedAt = Date.now();
   const messages: OpenRouterMessage[] = [
-    { role: "system", content: SYSTEM_PROMPT },
+    { role: "system", content: buildSystemPrompt(withWiki) },
     { role: "user", content: question.prompt },
   ];
   const recordedCalls: RecordedToolCall[] = [];
@@ -602,7 +703,7 @@ async function runQuestion(
   let prevToolNames: string[] = [];
 
   for (let iter = 0; iter < MAX_TOOL_ITERATIONS; iter++) {
-    const response = await callOpenRouter(apiKey, model, messages);
+    const response = await callOpenRouter(apiKey, model, messages, withWiki);
     // Record per-step usage BEFORE we error out — partial data is still useful.
     if (response.usage) {
       const u = response.usage;
@@ -842,6 +943,7 @@ async function main(): Promise<void> {
   );
   console.log(`output: ${outDir}`);
   console.log(`concurrency: ${args.concurrency}`);
+  console.log(`arm:    ${args.withWiki ? "TREATMENT (10 tools, +read_wiki/read_wiki_full)" : "BASELINE (8 tools)"}`);
   console.log("");
 
   let done = 0;
@@ -879,7 +981,7 @@ async function main(): Promise<void> {
       const tStart = Date.now();
       console.log(`  [start] ${q.id} (${q.category}/${q.difficulty})`);
       try {
-        const result = await runQuestion(apiKey, args.model, args.runName, q);
+        const result = await runQuestion(apiKey, args.model, args.runName, q, args.withWiki);
         atomicWriteJson(outPath, result);
         done++;
         const sec = (result.duration_ms / 1000).toFixed(1);
