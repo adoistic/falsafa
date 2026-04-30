@@ -7,6 +7,42 @@ where to start.
 
 ---
 
+## Eval A/B UI follow-up: aria-selected hashchange script
+
+**Status:** QUEUED, low priority. Captured during /plan-eng-review of the
+eval A/B UI redesign (2026-04-30 → 2026-05-01).
+
+**What.** The case-detail tab control at `apps/site/src/pages/eval/[id].astro`
+uses CSS `:target` for content swap (zero JS by design). Static markup
+ships `aria-selected="true"` on the Baseline tab and `aria-selected="false"`
+on Wiki tab — correct on default load (`/eval/<id>/`) but technically wrong
+when the user is on `#case-wiki`.
+
+**Why it matters.** Sighted users see the correct active tab via CSS tints
+and `:target` content swap. Screen-reader users hear the static
+`aria-selected` value, which can disagree with the visible state.
+
+**Where to fix.** Add a tiny inline script (10 lines) to `[id].astro` that
+runs on `DOMContentLoaded` + `hashchange` and toggles the attribute:
+
+```js
+const flip = () => {
+  const onWiki = location.hash === "#case-wiki";
+  document.getElementById("tab-baseline")?.setAttribute("aria-selected", String(!onWiki));
+  document.getElementById("tab-wiki")?.setAttribute("aria-selected", String(onWiki));
+};
+addEventListener("DOMContentLoaded", flip);
+addEventListener("hashchange", flip);
+```
+
+Trades zero-JS purity for screen-reader fidelity. Reasonable trade.
+
+**Defer until.** Public-facing launch of the eval explorer, OR the first
+accessibility audit. The site is currently `<meta name="robots"
+content="noindex,follow">` so external screen-reader audiences are minimal.
+
+---
+
 ## ⚠ EVAL SCORING REWORK — graded 3-state score (BLOCKING the paper)
 
 **Status:** QUEUED, not started. Captured 2026-04-30 after the citation-rigor
