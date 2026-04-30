@@ -126,7 +126,10 @@ Two anchor links + two sections + a CSS rule. Zero JS for the outer tabs. Same p
 </section>
 ```
 
-Note: the BYOK card-head's existing `<h2>Try it now (BYOK)</h2>` is removed because the tab label "Try in browser (BYOK)" already names the section. The single explanatory line stays.
+Notes for the implementer:
+
+- `chips={CHIPS}` refers to the existing `const CHIPS = […]` already declared in the frontmatter of `try/index.astro` (12 hand-picked question chips). No new constant is introduced; the markup just keeps the existing prop pass-through.
+- The BYOK card-head's existing `<h2>Try it now (BYOK)</h2>` is removed (the outer tab label "Try in browser (BYOK)" names the section). The surrounding `<header class="try-byok-card-head">` wrapper element is kept — only the `<h2>` is dropped, and the explanatory `<p>Bring your own API key. Stays in the browser.</p>` stays inside it. The wrapper class can drive any existing margin/padding the BYOK card needs.
 
 ### CSS
 
@@ -208,7 +211,25 @@ Wouldn't match — falls through to default state (Install visible). Harmless. W
 
 The new H1 names the primary path explicitly. The lede leads with Install (concrete clients named, the `npx` mechanic teased) and demotes BYOK to a fallback ("or skip the install"). Same length as before.
 
-The page-meta `<Base>` description also gets updated to match: replace "The same librarian tools, the same corpus" with the new lede's framing. Both should land in this PR.
+The page-meta `<Base description={…}>` also gets updated to match. Replace today's:
+
+```astro
+<Base
+  title="Try"
+  description="Install Falsafa as an MCP in your daily LLM, or try it live in the browser with your own API key. The same librarian tools, the same corpus."
+>
+```
+
+with:
+
+```astro
+<Base
+  title="Try"
+  description="One npx command wires Falsafa into Claude Desktop, Claude Code, Cursor, or Codex. Or skip the install and try it live in the browser with your own API key."
+>
+```
+
+Both header and meta-description land in the same PR.
 
 ---
 
@@ -272,7 +293,7 @@ Manual smoke (presentation-layer change, no logic):
 3. **Click Install tab.** Confirm content swaps back, URL hash becomes `/try/#panel-install`.
 4. **Direct load `/try/#panel-byok`.** Confirm BYOK panel visible immediately on load, BYOK tab filled.
 5. **Refresh on `#panel-byok`.** Confirm tab state preserved.
-6. **Browser back/forward.** Click BYOK → click Install → press back. Confirm BYOK is restored. Press forward, Install is restored.
+6. **Browser back/forward.** Click BYOK → click Install → press back. Confirm BYOK is restored. Press forward, Install is restored. (CSS `:target` honors browser history natively in all evergreen browsers — no JS hashchange listener needed for history navigation.)
 7. **Mobile (≤320px).** Confirm both tabs fit on one row, panels render full-width, no horizontal scroll.
 8. **Keyboard.** Tab into the tab nav, confirm `:focus-visible` outline. Activate with Enter/Space — anchor follows the link, panel swaps.
 9. **InstallCard inner tabs** (Claude Desktop / Claude Code / Cursor / Codex) — confirm they still work inside the Install panel. The outer tab's content is the entire `<InstallCard>`; the inner tabs are unaffected.
