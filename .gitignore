@@ -67,3 +67,4 @@ secrets.json
 # Pagefind index (generated for dev server; rebuild via 'bun run search:build')
 apps/site/public/pagefind/
 apps/mcp/corpus/
+apps/mcp/dist/
