@@ -104,17 +104,19 @@ describe("EvalExplorer — single-arm regression (IRON RULE, structural)", () =>
     expect(SOURCE).not.toContain("[✓ W]");
   });
 
-  test("FilterBar verdict chips are pass/fail/unjudged (radiogroup), NOT comparison chips", () => {
+  test("FilterBar verdict chips are pass/fail/unjudged (radiogroup) for single-arm fallback", () => {
     // Today's FilterBar maps over the literal tuple
     // ["all", "pass", "fail", "unjudged"] inside a role="radiogroup".
-    // The A/B redesign would replace that with comparison chips like
-    // "Flips → pass" / "Both pass" / "Pending wiki". Pin the tuple.
+    // The A/B redesign legitimately introduces a SECOND radiogroup
+    // ("Comparison") with chips like "Flips → pass" / "Both pass" /
+    // "Pending wiki" — but ONLY in the abMode branch. The single-arm
+    // fallback branch (the `:` arm of the abMode ternary in FilterBar)
+    // MUST still render today's literal pass/fail/unjudged tuple
+    // co-located with aria-label="Verdict". This positive assertion
+    // pins that.
     expect(SOURCE).toMatch(
       /role="radiogroup"\s+aria-label="Verdict"[\s\S]{0,200}\["all",\s*"pass",\s*"fail",\s*"unjudged"\]/
     );
-    expect(SOURCE).not.toContain("Flips → pass");
-    expect(SOURCE).not.toContain("Both pass");
-    expect(SOURCE).not.toContain("Pending wiki");
   });
 
   test("Header has NO two-column scoreboard, NO delta strip", () => {

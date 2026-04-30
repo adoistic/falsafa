@@ -19,7 +19,8 @@ import type {
   EvalModelMeta,
 } from "./types";
 import { passOf } from "./types";
-import { armOfModelId, isAbMode, armVerdicts } from "../../lib/eval-arms";
+import { armOfModelId, isAbMode, armVerdicts, filterByCompare } from "../../lib/eval-arms";
+import type { CompareMode } from "../../lib/eval-arms";
 
 interface Props {
   /**
@@ -43,6 +44,11 @@ interface FilterState {
   difficulties: Set<string>;
   passFilter: "all" | "pass" | "fail" | "unjudged";
   /**
+   * A/B comparison filter — only meaningful in 2-arm mode. Replaces
+   * passFilter in the UI when both arms are present (per spec D3).
+   */
+  compareMode: CompareMode;
+  /**
    * Tier filter — "all" (both tiers), "named" (legacy 1k pool only) or
    * "hidden" (discovery pool only). Distinct from the verdict filter above
    * so reviewers can isolate the discovery score from citation precision.
@@ -55,6 +61,7 @@ const EMPTY_FILTERS: FilterState = {
   categories: new Set(),
   difficulties: new Set(),
   passFilter: "all",
+  compareMode: "all",
   tierFilter: "all",
   query: "",
 };
@@ -188,7 +195,14 @@ function Loaded({
       if (q && !c.prompt.toLowerCase().includes(q) && !c.id.toLowerCase().includes(q)) {
         return false;
       }
-      if (filters.passFilter !== "all") {
+      if (abMode && armIds.baselineId && armIds.wikiId) {
+        // 2-arm mode: comparison filter replaces pass/fail.
+        if (filters.compareMode !== "all") {
+          const v = armVerdicts(c, armIds.baselineId, armIds.wikiId);
+          if (!filterByCompare(v, filters.compareMode)) return false;
+        }
+      } else if (filters.passFilter !== "all") {
+        // Single-arm mode: today's pass/fail/unjudged filter.
         // Pull the verdict from whichever model is present in the data
         // (currently a single model, but the key is data-driven so we
         // can swap models without touching this code). Falls back to
@@ -202,7 +216,28 @@ function Loaded({
       }
       return true;
     });
-  }, [data, filters]);
+  }, [data, filters, abMode, armIds]);
+
+  const compareCounts = useMemo(() => {
+    const counts: Record<CompareMode, number> = {
+      all: data.cases.length,
+      "flips-pass": 0,
+      "flips-fail": 0,
+      "both-pass": 0,
+      "both-fail": 0,
+      "pending-wiki": 0,
+    };
+    if (!abMode || !armIds.baselineId || !armIds.wikiId) return counts;
+    for (const c of data.cases) {
+      const v = armVerdicts(c, armIds.baselineId, armIds.wikiId);
+      if (filterByCompare(v, "flips-pass")) counts["flips-pass"]++;
+      if (filterByCompare(v, "flips-fail")) counts["flips-fail"]++;
+      if (filterByCompare(v, "both-pass")) counts["both-pass"]++;
+      if (filterByCompare(v, "both-fail")) counts["both-fail"]++;
+      if (filterByCompare(v, "pending-wiki")) counts["pending-wiki"]++;
+    }
+    return counts;
+  }, [data, abMode, armIds]);
 
   return (
     <div class="eval-explorer">
@@ -218,6 +253,8 @@ function Loaded({
         difficulties={allDifficulties}
         filteredCount={filteredCases.length}
         totalCount={data.cases.length}
+        abMode={abMode}
+        compareCounts={compareCounts}
       />
       <CaseList
         cases={filteredCases}
@@ -510,6 +547,8 @@ function FilterBar({
   difficulties,
   filteredCount,
   totalCount,
+  abMode,
+  compareCounts,
 }: {
   filters: FilterState;
   setFilters: (f: FilterState | ((prev: FilterState) => FilterState)) => void;
@@ -517,6 +556,8 @@ function FilterBar({
   difficulties: string[];
   filteredCount: number;
   totalCount: number;
+  abMode: boolean;
+  compareCounts: Record<CompareMode, number>;
 }): JSX.Element {
   function toggle(key: "categories" | "difficulties", value: string) {
     setFilters((prev) => {
@@ -533,6 +574,7 @@ function FilterBar({
       categories: new Set(),
       difficulties: new Set(),
       passFilter: "all",
+      compareMode: "all",
       tierFilter: "all",
       query: "",
     }));
@@ -556,25 +598,53 @@ function FilterBar({
             class="eval-filter-input"
           />
         </label>
-        <div class="eval-filter-pass" role="radiogroup" aria-label="Verdict">
-          {(["all", "pass", "fail", "unjudged"] as const).map((opt) => (
-            <button
-              type="button"
-              key={opt}
-              role="radio"
-              aria-checked={filters.passFilter === opt}
-              class={
-                "eval-pill " +
-                (filters.passFilter === opt ? "is-active" : "")
-              }
-              onClick={() =>
-                setFilters((p) => ({ ...p, passFilter: opt }))
-              }
-            >
-              {opt}
-            </button>
-          ))}
-        </div>
+        {abMode ? (
+          <div class="eval-filter-pass eval-filter-compare" role="radiogroup" aria-label="Comparison">
+            {(["all", "flips-pass", "flips-fail", "both-pass", "both-fail", "pending-wiki"] as const).map((opt) => {
+              const labels: Record<CompareMode, string> = {
+                all: "all",
+                "flips-pass": "Flips → pass",
+                "flips-fail": "Flips → fail",
+                "both-pass": "Both pass",
+                "both-fail": "Both fail",
+                "pending-wiki": "Pending wiki",
+              };
+              const count = compareCounts[opt];
+              return (
+                <button
+                  type="button"
+                  key={opt}
+                  role="radio"
+                  aria-checked={filters.compareMode === opt}
+                  class={"eval-pill " + (filters.compareMode === opt ? "is-active" : "")}
+                  onClick={() => setFilters((p) => ({ ...p, compareMode: opt }))}
+                >
+                  {labels[opt]} {opt !== "all" && <span class="eval-pill-count">({count})</span>}
+                </button>
+              );
+            })}
+          </div>
+        ) : (
+          <div class="eval-filter-pass" role="radiogroup" aria-label="Verdict">
+            {(["all", "pass", "fail", "unjudged"] as const).map((opt) => (
+              <button
+                type="button"
+                key={opt}
+                role="radio"
+                aria-checked={filters.passFilter === opt}
+                class={
+                  "eval-pill " +
+                  (filters.passFilter === opt ? "is-active" : "")
+                }
+                onClick={() =>
+                  setFilters((p) => ({ ...p, passFilter: opt }))
+                }
+              >
+                {opt}
+              </button>
+            ))}
+          </div>
+        )}
         <div class="eval-filter-pass" role="radiogroup" aria-label="Tier">
           {(["all", "hidden", "named"] as const).map((opt) => (
             <button
@@ -792,10 +862,16 @@ function readFiltersFromHash(): FilterState {
   const tierRaw = get("tier");
   const tierFilter: FilterState["tierFilter"] =
     tierRaw === "named" || tierRaw === "hidden" ? tierRaw : "all";
+  const compareRaw = get("compare");
+  const validCompare = ["all", "flips-pass", "flips-fail", "both-pass", "both-fail", "pending-wiki"] as const;
+  const compareMode: CompareMode = (validCompare as readonly string[]).includes(compareRaw)
+    ? (compareRaw as CompareMode)
+    : "all";
   return {
     categories: split(get("cat")),
     difficulties: split(get("diff")),
     passFilter,
+    compareMode,
     tierFilter,
     query: get("q"),
   };
@@ -807,6 +883,7 @@ function writeFiltersToHash(f: FilterState, _data: EvalJson): void {
   if (f.categories.size > 0) params.set("cat", [...f.categories].join(","));
   if (f.difficulties.size > 0) params.set("diff", [...f.difficulties].join(","));
   if (f.passFilter !== "all") params.set("pass", f.passFilter);
+  if (f.compareMode !== "all") params.set("compare", f.compareMode);
   if (f.tierFilter !== "all") params.set("tier", f.tierFilter);
   if (f.query.trim()) params.set("q", f.query.trim());
   const next = params.toString();
