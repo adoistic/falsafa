@@ -640,7 +640,15 @@ async function main(): Promise<void> {
   const args = parseArgs();
   const apiKey = process.env.OPENROUTER_API_KEY;
   if (!apiKey) {
-    console.error("Missing OPENROUTER_API_KEY env var. Get one at https://openrouter.ai/keys");
+    console.error("Missing OPENROUTER_API_KEY.");
+    console.error("");
+    console.error("Two ways to set it:");
+    console.error("  1. Edit .env at the repo root, paste your key after OPENROUTER_API_KEY=");
+    console.error("     (Bun auto-loads .env. Copy .env.example if you don't have one yet.)");
+    console.error("  2. Inline: OPENROUTER_API_KEY=sk-or-... bun run apps/mcp/eval/run-openrouter.ts");
+    console.error("");
+    console.error("Get a key at https://openrouter.ai/keys");
+    console.error("");
     console.error(USAGE);
     process.exit(2);
   }
