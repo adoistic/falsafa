@@ -224,8 +224,7 @@ console.error(`[falsafa-mcp] corpus loaded: ${works.length} works from ${corpus.
 
 ### Why this exact form
 
-- Uses `Corpus.rootPath` getter (`apps/mcp/src/corpus.ts:145`, already exists ✓)
-- Uses `Corpus.works()` method (`apps/mcp/src/corpus.ts:157`, already exists ✓)
+- Uses `Corpus.rootPath` getter and `Corpus.works()` method — both verified to exist on the `Corpus` class during the CEO-review audit. **Implementation-plan first step:** open `apps/mcp/src/corpus.ts`, confirm the accessor names match (line numbers will drift; identifiers may not). If either has been renamed, adjust the log line — don't treat the exact identifiers above as load-bearing.
 - **stderr** (not stdout): MCP transport uses stdout for JSON-RPC; logging there breaks the protocol. stderr is fine for diagnostic output and shows up in Claude Desktop's MCP server logs.
 - **One line.** Diagnostic only. Not noisy on startup.
 - **Why this matters:** when a user reports "MCP server isn't responding," the first question is "which corpus did it load?" Without this log, debugging path-resolution issues requires asking the user to set `FALSAFA_CORPUS=` and re-run. With the log, they screenshot stderr and the answer is visible.
@@ -268,7 +267,9 @@ Audience: someone landing on `https://npmjs.com/package/@falsafa/mcp` who clicks
    - `find_related` — TF-IDF-based related chapters
    - `compare_works` — side-by-side pointer chapters for two works on a topic
    - `read_wiki` — rule-based wiki card (~280 tokens) for a work or chapter
-   - `read_wiki_full` — heavy-detail wiki sheet (~1,500 tokens, n-grams + NPMI + TextRank + LexRank)
+   - `read_wiki_full` — heavy-detail wiki sheet (~1,500 tokens, with n-grams, NPMI collocations, TextRank, refrains, and stylometry signals)
+
+   **Implementation-plan note:** before locking the README copy, confirm the `read_wiki_full` content shape against the current `apps/mcp/lib/wiki/` modules. If the algorithm list has drifted (e.g., refrains dropped, lex-rank added/removed), update this paragraph — npm registry copy is hard to walk back without a republish.
 5. **Corpus** — one paragraph naming what's in it, with the AI-assisted-translation caveat:
    > 37 works spanning Old English Christian poetry (Cynewulf), Urdu ghazal masters (Ghalib, Iqbal, Zauq), French Enlightenment political theory (Comte, Dunoyer), German philosophical writing (Fichte), Sanskrit smṛti traditions, and Old Javanese / Kawi tattva texts. Translations and transliterations are AI-assisted (produced by Thothica's pipeline across Claude / GPT / Gemini); when accuracy matters, verify against the original-language source. Underlying source archives: sacred-texts.com (Old English), GRETIL (Sanskrit smṛti), allamaiqbal.com (Iqbal), printed editions (Ghalib + Zauq).
 6. **Links** — falsafa.ai (thesis + eval explorer); GitHub repo (source); `/about/#sources` (full source acknowledgments).
@@ -407,11 +408,24 @@ send({
   }
 });
 
-await new Promise((r) => setTimeout(r, 1000));   // wait for init reply
+// Poll-with-timeout helper — more robust than fixed sleeps on a cold
+// Windows runner under load. Resolves once the response with the given
+// id arrives, or rejects after timeoutMs.
+const waitFor = (id, timeoutMs) => new Promise((resolve, reject) => {
+  const start = Date.now();
+  const check = () => {
+    const r = responses.find((x) => x.id === id);
+    if (r) return resolve(r);
+    if (Date.now() - start > timeoutMs) return reject(new Error(`timeout waiting for id=${id}`));
+    setTimeout(check, 100);
+  };
+  check();
+});
+
+await waitFor(1, 5000);   // initialize
 
 send({ jsonrpc: "2.0", id: 2, method: "tools/list" });
-
-await new Promise((r) => setTimeout(r, 500));
+await waitFor(2, 5000);
 
 send({
   jsonrpc: "2.0",
@@ -419,8 +433,7 @@ send({
   method: "tools/call",
   params: { name: "list_works", arguments: {} }
 });
-
-await new Promise((r) => setTimeout(r, 1000));
+await waitFor(3, 10000);   // longer — list_works reads manifest
 
 proc.stdin.end();
 
@@ -485,7 +498,7 @@ npm org ls falsafa 2>&1
 
 **Three possible outcomes:**
 
-- **Account logged in + scope unclaimed** (most likely): `npm org ls falsafa` errors with "EROVER" or similar. Action: nothing — npm auto-creates the scope on first publish under your account.
+- **Account logged in + scope unclaimed** (most likely): `npm org ls falsafa` errors with `E404` or similar. Action: nothing — npm auto-creates the scope on first publish under your account.
 - **Account logged in + scope owned by current user**: `npm org ls falsafa` lists members. Action: nothing — already yours.
 - **Scope owned by someone else**: `npm org ls falsafa` shows membership but you're not listed. Action: **STOP**. Pivot to `falsafa-mcp` (unscoped) — change `name`, `bin`, all README references. Do NOT publish under a scope someone else owns.
 
@@ -602,7 +615,22 @@ No unit tests added. The smoke script IS the test for the published artifact.
 
 ## Reviewer Concerns
 
-(spec-document-reviewer pass not yet run — section reserved for unresolved issues)
+Spec-document-reviewer ran 2026-05-01 (one iteration). Status: ✅ Approved
+("Spec is implementation-ready"). Three actionable issues + four advisories.
+
+**Actionable (all 4 fixed in this revision):**
+1. Section 4 startup log: don't pin specific line numbers for `Corpus.rootPath` / `Corpus.works()` — the implementation plan's first step verifies the accessor names on the live class. Fixed.
+2. Section 5 README: `read_wiki_full` algorithm list (n-grams + NPMI + TextRank + LexRank) is jargon-heavy and hard to walk back from npm registry. Replaced with broader description; added a plan-step to verify against current `apps/mcp/lib/wiki/` before lock-in.
+3. Section 7 smoke timing: fixed `setTimeout` sleeps were racy on cold Windows runners. Replaced with a `waitFor(id, timeoutMs)` poll-with-timeout helper.
+4. Section 8 pre-flight: `npm org ls` error code `EROVER` corrected to `E404`.
+
+**Advisories (informational, not blocking):**
+- `--access public` + `publishConfig.access` belt-and-suspenders is correctly justified — keep both.
+- `prepack` over `prepublishOnly` justification is sound.
+- `npm unpublish` requires <300 weekly downloads — v0.1.0 will trivially satisfy, worth knowing.
+- Alternative to the `sleep 30` for npm CDN propagation: `npm view @falsafa/mcp@$VERSION` poll loop. Simpler current spec is fine.
+
+No unresolved concerns.
 
 ---
 
