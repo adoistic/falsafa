@@ -130,31 +130,107 @@ const scalingPct = (n: number) => {
   return Math.max(8, Math.min(100, pct));
 };
 
-// Benchmark chart: head-to-head pairs. Falsafa numbers are real where we have them;
-// Hybrid RAG side is "forthcoming" — the baseline at apps/baseline/ is not yet built.
-type Bench = { metric: string; falsafa: { v: string; pct: number }; baseline: { v: string; pct: number } };
-const BENCH: Bench[] = [
-  {
-    metric: "Citation validity",
-    falsafa: { v: `${citationValidityPct}%`, pct: citationValidityPct },
-    baseline: { v: "forthcoming", pct: 0 },
-  },
-  {
-    metric: "Verse-marker leaks",
-    falsafa: { v: `${verseLeaks} / ${totalCitations}`, pct: 100 - (verseLeaks / Math.max(totalCitations, 1)) * 100 },
-    baseline: { v: "forthcoming", pct: 0 },
-  },
-  {
-    metric: "Embedding cost",
-    falsafa: { v: "$0", pct: 100 },
-    baseline: { v: "forthcoming", pct: 0 },
-  },
-  {
-    metric: "Runtime cost",
-    falsafa: { v: "$0", pct: 100 },
-    baseline: { v: "forthcoming", pct: 0 },
-  },
-];
+// Benchmark chart: real A/B experiment we ran in 2026-04. Two arms of
+// the same model (Grok 4.1 Fast) on the same 1,120-question pool. The
+// "wiki" arm has two extra MCP tools (read_wiki + read_wiki_full) that
+// surface a rule-based summary layer over the corpus; the "baseline"
+// arm doesn't.
+//
+// Numbers source: apps/site/public/eval-index.json — the canonical
+// post-redesign aggregator. Read at build time.
+type AbModel = {
+  id: string;
+  name: string;
+  case_count?: number;
+  pass_count?: number;
+  pass_count_named?: number;
+  case_count_named?: number;
+  pass_count_hidden?: number;
+  case_count_hidden?: number;
+  total_cost_usd?: number;
+  total_tokens?: number;
+};
+type AbIndex = { models: AbModel[] };
+
+function loadAbModels(): { baseline: AbModel | null; wiki: AbModel | null } {
+  const idxPath = join(import.meta.dirname ?? new URL(".", import.meta.url).pathname, "../../../public/eval-index.json");
+  try {
+    const data = JSON.parse(readFileSync(idxPath, "utf-8")) as AbIndex;
+    const baseline = data.models.find((m) => m.id.endsWith("__baseline")) ?? null;
+    const wiki = data.models.find((m) => m.id.endsWith("__wiki")) ?? null;
+    return { baseline, wiki };
+  } catch {
+    return { baseline: null, wiki: null };
+  }
+}
+
+const { baseline: ab_b, wiki: ab_w } = loadAbModels();
+const abReady = !!(ab_b && ab_w);
+
+function pctOr(pass: number | undefined, total: number | undefined): number {
+  if (!pass || !total) return 0;
+  return Math.round((pass / total) * 1000) / 10;
+}
+function pctRel(value: number | undefined, ref: number | undefined): number {
+  // Scale value as a percentage of the LARGER of (value, ref) so the
+  // visually-longer bar always represents the larger number — even
+  // when wiki is bigger than baseline (e.g. tokens, where wiki uses
+  // slightly more). A `Math.min(100, ...)` cap would silently equalize
+  // the two bars when one exceeds the reference, which would mislead.
+  if (!value || !ref) return 0;
+  const max = Math.max(value, ref);
+  return Math.round((value / max) * 1000) / 10;
+}
+
+type Bench = { metric: string; baseline: { v: string; pct: number }; wiki: { v: string; pct: number } };
+const BENCH: Bench[] = abReady
+  ? [
+      {
+        metric: "Discovery pass rate (work hidden)",
+        baseline: {
+          v: `${pctOr(ab_b!.pass_count_hidden, ab_b!.case_count_hidden)}% (${ab_b!.pass_count_hidden ?? 0}/${ab_b!.case_count_hidden ?? 0})`,
+          pct: pctOr(ab_b!.pass_count_hidden, ab_b!.case_count_hidden),
+        },
+        wiki: {
+          v: `${pctOr(ab_w!.pass_count_hidden, ab_w!.case_count_hidden)}% (${ab_w!.pass_count_hidden ?? 0}/${ab_w!.case_count_hidden ?? 0})`,
+          pct: pctOr(ab_w!.pass_count_hidden, ab_w!.case_count_hidden),
+        },
+      },
+      {
+        metric: "Citation pass rate (work named)",
+        baseline: {
+          v: `${pctOr(ab_b!.pass_count_named, ab_b!.case_count_named)}% (${ab_b!.pass_count_named ?? 0}/${ab_b!.case_count_named ?? 0})`,
+          pct: pctOr(ab_b!.pass_count_named, ab_b!.case_count_named),
+        },
+        wiki: {
+          v: `${pctOr(ab_w!.pass_count_named, ab_w!.case_count_named)}% (${ab_w!.pass_count_named ?? 0}/${ab_w!.case_count_named ?? 0})`,
+          pct: pctOr(ab_w!.pass_count_named, ab_w!.case_count_named),
+        },
+      },
+      {
+        metric: "Total spend (lower is better)",
+        baseline: {
+          v: `$${(ab_b!.total_cost_usd ?? 0).toFixed(2)}`,
+          pct: pctRel(ab_b!.total_cost_usd, ab_w!.total_cost_usd),
+        },
+        wiki: {
+          v: `$${(ab_w!.total_cost_usd ?? 0).toFixed(2)}`,
+          pct: pctRel(ab_w!.total_cost_usd, ab_b!.total_cost_usd),
+        },
+      },
+      {
+        metric: "Total tokens (≈ work done)",
+        baseline: {
+          v: `${((ab_b!.total_tokens ?? 0) / 1_000_000).toFixed(1)}M`,
+          pct: pctRel(ab_b!.total_tokens, ab_w!.total_tokens),
+        },
+        wiki: {
+          v: `${((ab_w!.total_tokens ?? 0) / 1_000_000).toFixed(1)}M`,
+          pct: pctRel(ab_w!.total_tokens, ab_b!.total_tokens),
+        },
+      },
+    ]
+  : [];
 ---
 
 <Base
@@ -238,48 +314,63 @@ const BENCH: Bench[] = [
             </p>
           </div>
 
-          {/* Chart 2 — head-to-head benchmark */}
-          <div class="thesis-chart-block" aria-label="Falsafa MCP vs Hybrid RAG baseline (forthcoming)">
-            <p class="thesis-chart-title">Falsafa MCP <em>vs</em> Hybrid RAG baseline</p>
+          {/* Chart 2 — A/B ablation: wiki layer vs baseline */}
+          <div class="thesis-chart-block" aria-label="A/B comparison: Falsafa MCP with vs without the rule-based wiki layer">
+            <p class="thesis-chart-title">Wiki layer <em>vs</em> baseline (A/B ablation)</p>
             <p class="thesis-chart-subtitle">
-              Paired bars, post-patch numbers. Hybrid RAG side fills in
-              when <code>apps/baseline/</code> ships.
+              Same model (Grok 4.1 Fast), same 1,120 questions, two arms.
+              Baseline gets 8 MCP tools; wiki adds <code>read_wiki</code>
+              and <code>read_wiki_full</code> for a deterministic
+              rule-based summary layer.
             </p>
             <p class="thesis-chart-legend">
-              <span><span class="thesis-chart-legend-swatch thesis-chart-legend-swatch-falsafa"></span>Falsafa MCP</span>
-              <span><span class="thesis-chart-legend-swatch thesis-chart-legend-swatch-baseline"></span>Hybrid RAG</span>
+              <span><span class="thesis-chart-legend-swatch thesis-chart-legend-swatch-baseline"></span>Baseline (no wiki)</span>
+              <span><span class="thesis-chart-legend-swatch thesis-chart-legend-swatch-falsafa"></span>Wiki layer</span>
             </p>
-            {BENCH.map((b) => (
+            {abReady ? BENCH.map((b) => (
               <>
                 <div class="thesis-chart-row">
                   <span class="thesis-chart-label">{b.metric}</span>
                   <div class="thesis-chart-bar">
-                    <div
-                      class="thesis-chart-bar-fill"
-                      style={`width: ${Math.max(2, b.falsafa.pct)}%;`}
-                    ></div>
-                  </div>
-                  <span class="thesis-chart-value">{b.falsafa.v}</span>
-                </div>
-                <div class="thesis-chart-row" style="margin-bottom: var(--s-3);">
-                  <span class="thesis-chart-label" aria-hidden="true"></span>
-                  <div class="thesis-chart-bar">
                     {b.baseline.pct > 0 && (
                       <div
                         class="thesis-chart-bar-fill thesis-chart-bar-fill-baseline"
-                        style={`width: ${b.baseline.pct}%;`}
+                        style={`width: ${Math.max(2, b.baseline.pct)}%;`}
                       ></div>
                     )}
                   </div>
                   <span class="thesis-chart-value thesis-chart-value-muted">{b.baseline.v}</span>
                 </div>
+                <div class="thesis-chart-row" style="margin-bottom: var(--s-3);">
+                  <span class="thesis-chart-label" aria-hidden="true"></span>
+                  <div class="thesis-chart-bar">
+                    {b.wiki.pct > 0 && (
+                      <div
+                        class="thesis-chart-bar-fill"
+                        style={`width: ${Math.max(2, b.wiki.pct)}%;`}
+                      ></div>
+                    )}
+                  </div>
+                  <span class="thesis-chart-value">{b.wiki.v}</span>
+                </div>
               </>
-            ))}
-            <p class="thesis-chart-annotation">
-              {totalCases > 0
-                ? `n=${totalCases} questions, ${totalCitations} citations, ${verseLeaks} verse-marker leaks. Live audit at /eval.`
-                : "Eval results render here when /numbers data lands."}
-            </p>
+            )) : (
+              <p class="thesis-chart-annotation">
+                A/B numbers render here once <code>apps/site/public/eval-index.json</code>
+                contains both <code>__baseline</code> and <code>__wiki</code> arms.
+              </p>
+            )}
+            {abReady && (
+              <p class="thesis-chart-annotation">
+                n=1,120 questions per arm. Wiki adds {pctOr(ab_w!.pass_count_hidden, ab_w!.case_count_hidden) - pctOr(ab_b!.pass_count_hidden, ab_b!.case_count_hidden) > 0 ? "+" : ""}{(pctOr(ab_w!.pass_count_hidden, ab_w!.case_count_hidden) - pctOr(ab_b!.pass_count_hidden, ab_b!.case_count_hidden)).toFixed(1)}pp on the discovery tier
+                {(ab_w!.total_cost_usd ?? 0) < (ab_b!.total_cost_usd ?? 0)
+                  ? ` at ${Math.round((1 - (ab_w!.total_cost_usd ?? 0) / (ab_b!.total_cost_usd ?? 1)) * 100)}% lower cost`
+                  : ""}.
+                Live audit at <a href="/eval/">/eval</a>.
+                Hybrid-RAG comparison (against an embedding baseline) is
+                queued; see <a href="https://github.com/adoistic/falsafa/blob/main/TODOS.md">TODOs</a>.
+              </p>
+            )}
           </div>
 
         </div>
