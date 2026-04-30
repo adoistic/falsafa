@@ -179,8 +179,16 @@ const citationChips = result?.citations
 </section>
 
 {result.judge && (
-  <section class="eval-case-judge">
-    <h2>Judge verdict</h2>
+  <section class="eval-case-judge eval-case-judge--archived">
+    <h2>Archived LLM-judge output (legacy)</h2>
+    <p class="judge-archived-note">
+      Falsafa retired the LLM-as-judge layer; today's pass/fail comes
+      from a deterministic citation check against <code>expected_works</code>.
+      This section is preserved on this case because the original run
+      shipped a judge verdict — kept for reference, not used in any
+      headline number. See <a href="/thesis/#methodology">/thesis</a>
+      for the current methodology.
+    </p>
     <ul class="judge-badges">
       <li class={result.judge.factual_correct ? "ok" : "no"}>factual_correct</li>
       <li class={result.judge.citation_backed ? "ok" : "no"}>citation_backed</li>
@@ -188,7 +196,7 @@ const citationChips = result?.citations
     </ul>
     <p class="judge-naturalness">Naturalness: {result.judge.naturalness_1to5}/5</p>
     <blockquote class="judge-reasoning">{result.judge.reasoning}</blockquote>
-    <p class="judge-model"><small>Judged by {result.judge.judge_model}</small></p>
+    <p class="judge-model"><small>Judged by {result.judge.judge_model} (archived run)</small></p>
   </section>
 )}
 

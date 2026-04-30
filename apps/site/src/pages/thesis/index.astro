@@ -532,8 +532,62 @@ const BENCH: Bench[] = [
         </p>
       </section>
 
+      <section class="thesis-deeper-section" id="methodology">
+        <h2><a href="#methodology">5. How a case passes the eval (deterministic, no LLM judge)</a></h2>
+        <p>
+          The eval at <a href="/eval/">/eval</a> reports pass rates per
+          tier and per arm. This section is what those numbers actually
+          measure today, and what the current rework will change.
+        </p>
+        <h3>Today: diacritic-folded substring match</h3>
+        <p>
+          Every question in the pool ships with an <code>expected_works</code>
+          list — slugs like <code>unknown-manusmrti-347b76</code> identifying
+          the work(s) the auditor expects the model to land on. A case passes
+          when every expected slug (or its longest meaningful token) appears
+          somewhere in the model's answer text. NFKD normalization strips
+          combining marks, so &ldquo;Manusm&#x1E5B;ti&rdquo; matches
+          &ldquo;manusmrti&rdquo; cleanly.
+        </p>
+        <p>
+          No LLM judges anything. A previous iteration scaffolded a
+          Sonnet-as-judge layer; we retired it once the citation contract
+          plus the deterministic substring check carried the weight. The
+          historical judge artifacts under <code>eval/judge/</code> are
+          archived for reference; they do not feed today&apos;s scores.
+        </p>
+        <h3>Why this is honest, and where it falls short</h3>
+        <p>
+          A model can name &ldquo;Manusm&#x1E5B;ti&rdquo; in prose without
+          ever opening it through the MCP. The substring check passes that
+          case, but the model didn&apos;t actually verify anything. We
+          measured the gap: switching the same scoring to a strict
+          citation-array check (every expected work must appear as
+          <code>work_slug</code> in the structured citations the model
+          emitted) drops the headline from 84.6% to 50.6% on the same data.
+          That 34-point gap is the citation-discipline gap. The substring
+          number understates rigor; the citation-strict number is too
+          binary to do the comparison story justice.
+        </p>
+        <h3>Next: graded 3-state score</h3>
+        <p>
+          The rework moves to a 0 / 0.5 / 1 scale: <em>pass</em> when every
+          expected work has a structured citation, <em>mixed</em> when
+          some expected works are cited or all are named in prose without
+          formal citation, <em>fail</em> when none. Plus a
+          one-time audit pass to expand <code>expected_works</code> for
+          valid alternative sources the model surfaces. The current
+          published numbers are the loose end; the graded numbers will be
+          the honest end. The paper waits for the graded numbers.
+        </p>
+        <p>
+          The full plan is at <code>TODOS.md</code> &mdash; search for
+          &ldquo;EVAL SCORING REWORK&rdquo;.
+        </p>
+      </section>
+
       <section class="thesis-deeper-section" id="karpathy">
-        <h2><a href="#karpathy">5. The Karpathy nod</a></h2>
+        <h2><a href="#karpathy">6. The Karpathy nod</a></h2>
         <p>
           The framing of "tools return text and structure, the LLM does the
           reasoning" is not original to us. Andrej Karpathy proposed something

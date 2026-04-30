@@ -16,7 +16,7 @@ import "../../styles/eval.css";
 
 <Base
   title="Eval"
-  description="Browse the Falsafa adversarial eval suite. 1,000+ cases, per-model verdicts, citations that resolve to the paragraph. The audit trail behind the headline numbers."
+  description="Browse the Falsafa adversarial eval suite. 1,120 cases, deterministic citation-based verdicts, every cited paragraph deep-links to the source. The audit trail behind the headline numbers."
   ogImage="/og/eval.png"
 >
   <article class="eval-page">
@@ -24,17 +24,26 @@ import "../../styles/eval.css";
       <p class="eval-kicker">Eval</p>
       <h1>Every claim, browseable.</h1>
       <p class="eval-lede">
-        The 1,000-case adversarial eval suite, side by side with the Sonnet
-        judge's verdict on each case. Filter by category, difficulty, or
-        model. Click a row to see the answer, the tool-call trace, and the
-        cited paragraphs — every paragraph_id deep-links to the source in
-        the reading site. If a model hallucinated, the judge says so and
-        you can verify by following the citation.
+        The 1,120-case adversarial eval suite, side by side with each
+        model's per-case answer and citations. Filter by category,
+        difficulty, or comparison verdict. Click a row to see the answer,
+        the tool-call trace, and the cited paragraphs — every
+        paragraph_id deep-links to the source in the reading site.
+      </p>
+      <p class="eval-lede">
+        <strong>Scoring is deterministic.</strong> A case passes when
+        every <code>expected_works</code> entry appears in the model's
+        answer, with NFKD diacritic folding so &ldquo;Manusm&#x1E5B;ti&rdquo; matches
+        &ldquo;manusmrti.&rdquo; No LLM judge runs at score time &mdash; the verdict
+        is a substring check on prose, not a graded judgment. A graded
+        3-state score (pass / mixed / fail) tied to citation discipline
+        is queued; see <a href="/thesis/#methodology">methodology</a> for
+        the trade-off and what the current numbers mean.
       </p>
       <p class="eval-lede-meta">
-        For the methodology, see <a href="/thesis/">/thesis</a>. For a live
-        run with your own key, <a href="/try/">/try</a>. Source for the
-        eval pipeline lives at <code>apps/mcp/eval/</code>.
+        For the full thesis, see <a href="/thesis/">/thesis</a>. For a
+        live run with your own key, <a href="/try/">/try</a>. Source
+        for the eval pipeline lives at <code>apps/mcp/eval/</code>.
       </p>
     </header>
 
