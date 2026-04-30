@@ -19,7 +19,7 @@ import type {
   EvalModelMeta,
 } from "./types";
 import { passOf } from "./types";
-import { armOfModelId, isAbMode } from "../../lib/eval-arms";
+import { armOfModelId, isAbMode, armVerdicts } from "../../lib/eval-arms";
 
 interface Props {
   /**
@@ -158,6 +158,13 @@ function Loaded({
     [data],
   );
 
+  const armIds = useMemo(() => {
+    const baseline = data.models.find((m) => armOfModelId(m.id) === "baseline");
+    const wiki = data.models.find((m) => armOfModelId(m.id) === "wiki");
+    return { baselineId: baseline?.id, wikiId: wiki?.id };
+  }, [data]);
+  const abMode = useMemo(() => isAbMode(data.models), [data]);
+
   // Filter pipeline. Verdict comes from the single recorded result per case
   // (data.models[0]) — currently grok-4.1-fast on the live site, was sonnet
   // pre-redesign. Code is data-driven; the model id isn't hardcoded.
@@ -212,7 +219,13 @@ function Loaded({
         filteredCount={filteredCases.length}
         totalCount={data.cases.length}
       />
-      <CaseList cases={filteredCases} primaryModelId={data.models[0]?.id} />
+      <CaseList
+        cases={filteredCases}
+        primaryModelId={data.models[0]?.id}
+        abMode={abMode}
+        baselineId={armIds.baselineId}
+        wikiId={armIds.wikiId}
+      />
     </div>
   );
 }
@@ -657,9 +670,15 @@ function FilterChipGroup({
 function CaseList({
   cases,
   primaryModelId,
+  abMode,
+  baselineId,
+  wikiId,
 }: {
   cases: EvalCase[];
   primaryModelId: string | undefined;
+  abMode: boolean;
+  baselineId: string | undefined;
+  wikiId: string | undefined;
 }): JSX.Element {
   if (cases.length === 0) {
     return (
@@ -673,7 +692,11 @@ function CaseList({
     <ul class="eval-case-list">
       {cases.map((c) => (
         <li key={c.id}>
-          <CaseRow c={c} primaryModelId={primaryModelId} />
+          {abMode && baselineId && wikiId ? (
+            <AbCaseRow c={c} baselineId={baselineId} wikiId={wikiId} />
+          ) : (
+            <CaseRow c={c} primaryModelId={primaryModelId} />
+          )}
         </li>
       ))}
     </ul>
@@ -704,6 +727,47 @@ function CaseRow({
       <span class="eval-case-prompt">{c.prompt}</span>
       <span class="eval-case-verdict-pill" data-verdict={verdict} role="img" aria-label={`Verdict: ${verdict}`}>
         <span class="sr-only">{verdict}</span>
+      </span>
+      <span class="eval-case-arrow" aria-hidden="true">↗</span>
+    </a>
+  );
+}
+
+function AbCaseRow({
+  c,
+  baselineId,
+  wikiId,
+}: {
+  c: EvalCase;
+  baselineId: string;
+  wikiId: string;
+}): JSX.Element {
+  const v = armVerdicts(c, baselineId, wikiId);
+  const bState = v.baseline === true ? "pass" : v.baseline === false ? "fail" : "pending";
+  const wState = v.wiki === true ? "pass" : v.wiki === false ? "fail" : "pending";
+  return (
+    <a class="eval-case-row eval-case-row--ab" href={`/eval/${c.id}/`}>
+      <span class="eval-case-id">{c.id}</span>
+      <span class={"eval-case-tier eval-case-tier--" + (c.tier ?? "named")}
+            title={c.tier === "hidden" ? "Discovery — work hidden in prompt" : "Citation — work named in prompt"}>
+        {c.tier === "hidden" ? "discovery" : "citation"}
+      </span>
+      <span class="eval-case-cat">{c.category}</span>
+      <span class={"eval-case-diff diff-" + slugify(c.difficulty)}>
+        {c.difficulty}
+      </span>
+      <span class="eval-case-prompt">{c.prompt}</span>
+      <span class="eval-case-pillpair">
+        <span class={`eval-ab-pill eval-ab-pill--baseline eval-ab-pill--${bState}`}
+              role="img" aria-label={`Baseline ${bState}`}>
+          <span class="eval-ab-pill-label" aria-hidden="true">B</span>
+          <span class="sr-only">{bState}</span>
+        </span>
+        <span class={`eval-ab-pill eval-ab-pill--wiki eval-ab-pill--${wState}`}
+              role="img" aria-label={`Wiki ${wState}`}>
+          <span class="eval-ab-pill-label" aria-hidden="true">W</span>
+          <span class="sr-only">{wState}</span>
+        </span>
       </span>
       <span class="eval-case-arrow" aria-hidden="true">↗</span>
     </a>
