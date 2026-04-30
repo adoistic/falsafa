@@ -98,9 +98,16 @@ Generated-timestamp moves to the bottom-right corner of the header.
 
 - **Vertical rule** between the two columns (subtle border) reinforces "two
   things being compared."
-- **Soft column tint:** warm grey for baseline, faint blue for wiki. Tints
-  are subtle enough not to fight body text but distinct enough that the
-  reader instantly registers two columns.
+- **Soft column tint:** warm grey for baseline, faint blue for wiki.
+  Concrete values:
+    - Baseline tint: `--arm-baseline-bg = color-mix(in oklch, var(--ink) 4%, var(--bg))`
+      (4% ink-on-bg overlay; reads as a soft warm grey on the existing parchment background).
+    - Wiki tint: `--arm-wiki-bg = color-mix(in oklch, var(--accent) 6%, var(--bg))`
+      (6% accent overlay; faint blue-tinted).
+    - Border between columns: `--arm-divider = color-mix(in oklch, var(--ink) 12%, transparent)`
+  Both variables defined in `eval.css` next to existing tokens. Tints are
+  subtle enough not to fight body text but distinct enough that the reader
+  instantly registers two columns.
 - Active arm indicator on the case detail page (Section 3) uses the same
   tint vocabulary so the visual language carries through.
 
@@ -117,10 +124,10 @@ disappears and the numbers are stable.
 
 ### Single-arm fallback
 
-If only one arm exists in the data (e.g. legacy single-model runs), the
-header falls back to the existing layout (one row of pills + cost row).
-Detection: if every model in `data.models` has the same arm tag (or no tag),
-render single-arm mode. Otherwise render the two-column scoreboard.
+If `isAbMode(data.models)` returns `false` (the canonical predicate from
+the "Resolved arm-label convention" section below), the header falls back
+to the existing layout (one row of pills + cost row). This covers
+baseline-only, wiki-only, and untagged single-model legacy runs.
 
 ---
 
@@ -167,11 +174,28 @@ Within the filtered set, default sort stays "by tier × category × id"
 (today's order). When a comparison filter is active, secondary sort is by
 category — so e.g. all the thematic flips group together, then multilingual.
 
+### Filter chip truth table
+
+For tuple `(baselinePass, wikiPass)` where each is `true` | `false` |
+`pending`:
+
+| baseline | wiki    | All | Flips→pass | Flips→fail | Both pass | Both fail | Pending wiki |
+|----------|---------|:---:|:----------:|:----------:|:---------:|:---------:|:------------:|
+| pass     | pass    | ✓   |            |            | ✓         |           |              |
+| fail     | fail    | ✓   |            |            |           | ✓         |              |
+| fail     | pass    | ✓   | ✓          |            |           |           |              |
+| pass     | fail    | ✓   |            | ✓          |           |           |              |
+| pass     | pending | ✓   |            |            |           |           | ✓            |
+| fail     | pending | ✓   |            |            |           |           | ✓            |
+
+`pending` cases never satisfy `Both pass`, `Both fail`, `Flips → pass`,
+`Flips → fail`. They live in `All` and `Pending wiki`. Defensive case —
+baseline pending — gets the same treatment.
+
 ### Edge cases
 
 - **Wiki not yet run for this case:** wiki pill shows `— W` (grey dash).
-  These rows are excluded from `Both pass`, `Both fail`, `Flips → pass`,
-  `Flips → fail`; they show up under `All` and `Pending wiki`.
+  Filter membership per the truth table above.
 - **Baseline missing for a case** (defensive — shouldn't happen): same
   treatment, but the cell shows `— B`.
 
@@ -227,6 +251,10 @@ arm:
 - **Wiki not yet run for this case:** only the `Baseline` tab renders (no
   `Wiki` button); delta strip second row reads `Wiki: pending — run not
   complete` in muted text.
+- **`#wiki` hash but no wiki data for this case:** silently fall back to
+  the `Baseline` tab (the only tab rendered), update the URL hash to drop
+  the fragment so refresh stays consistent. No error message — partial-run
+  state is not a user error.
 - **Single-model legacy case** (no arm tags in data): one tab labelled with
   the run name, delta strip suppressed.
 
@@ -260,20 +288,34 @@ The build's existing `armTagFromRunDir(runDir)` (in
 UI consumes these strings via `humaniseModelLabel()`'s split, e.g.
 `"grok-4.1-fast__baseline"` → `"xAI Grok 4.1 Fast (baseline)"`.
 
-For the UI's purposes:
+For the UI's purposes — **single canonical helper used by header, case
+list, and case detail**:
 
 ```ts
 type Arm = "baseline" | "wiki";
 
+/** Extract arm tag from a model id like "grok-4.1-fast__baseline". */
 function armOfModelId(modelId: string): Arm | null {
   if (modelId.endsWith("__baseline")) return "baseline";
   if (modelId.endsWith("__wiki")) return "wiki";
   return null;
 }
+
+/** True when `data.models` contains both arms — drives 2-arm UI mode. */
+function isAbMode(models: { id: string }[]): boolean {
+  const arms = new Set(models.map((m) => armOfModelId(m.id)).filter(Boolean));
+  return arms.has("baseline") && arms.has("wiki");
+}
 ```
 
-The header / case list / case detail all use this helper to map model IDs
-to arm labels for display logic.
+`isAbMode()` is the single canonical predicate. Every component (header
+2-arm vs single-arm, case list two-pill vs one-pill, case detail tabs vs
+no-tabs) calls `isAbMode(data.models)` — no other detection logic exists
+in the UI.
+
+Both helpers are pure functions and have unit tests in
+`apps/site/src/lib/__tests__/eval-arms.test.ts` covering: untagged legacy,
+baseline-only, wiki-only, both-arms, mixed-with-untagged, empty input.
 
 ## Out-of-scope follow-ups
 
@@ -303,6 +345,23 @@ Manual smoke tests, since this is presentation-layer:
    delta strip visible, both arms' numbers correct. Click `Wiki` tab,
    confirm hash updates and content swaps.
 6. Single-arm fallback: temporarily filter `data.models` to one arm in a
-   dev build, confirm header degrades to today's layout cleanly.
+   dev build, confirm header degrades to today's layout cleanly. Covered
+   in unit tests for `isAbMode()` (see "Resolved arm-label convention").
 7. Visual: tints distinguishable in light mode; column rule visible without
    being heavy.
+
+### Unit tests
+
+`apps/site/src/lib/__tests__/eval-arms.test.ts` covers the two pure
+helpers:
+
+- `armOfModelId("grok-4.1-fast__baseline")` → `"baseline"`
+- `armOfModelId("grok-4.1-fast__wiki")` → `"wiki"`
+- `armOfModelId("grok-4.1-fast")` → `null`
+- `armOfModelId("")` → `null`
+- `isAbMode([])` → `false`
+- `isAbMode([{id:"grok-4.1-fast"}])` → `false` (untagged single)
+- `isAbMode([{id:"grok-4.1-fast__baseline"}])` → `false` (baseline only)
+- `isAbMode([{id:"grok-4.1-fast__wiki"}])` → `false` (wiki only)
+- `isAbMode([{id:"grok-4.1-fast__baseline"},{id:"grok-4.1-fast__wiki"}])` → `true`
+- `isAbMode([{id:"grok-4.1-fast__baseline"},{id:"grok-4.1-fast__wiki"},{id:"sonnet-4.6"}])` → `true` (still A/B even with extra untagged)
