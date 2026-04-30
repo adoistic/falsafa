@@ -1,0 +1,72 @@
+{
+  "answer": "The dynamometer is cited as evidence against Rousseau's claim in **Charles Dunoyer's *Nouveau traité d'économie: VOL I*, Chapter 5 (\"Liberté compatible avec la manière de vivre des peuples sauvages\")**.[^1]\n\nThe key passage giving the progression reads:\n\n> He remarked that physical vigor, on this scale of civilization, followed the **following progression: 50, 51, 58, 69** [^93]; **that is to say, that the savages of Diemen's Land had been able, on average, to make the pressure needle of the dynamometer move only up to 50 degrees, those of New Holland to 51, and those of Timor to 58; whereas the French, despite the weakening resulting for them from the fatigues of a very long and very arduous navigation, had made it advance to 69** [^94].[^1]\n\nThis follows Dunoyer's discussion of Péron's experiments (contrasting Europeans and various natives) and immediately precedes his concession that racial differences might play some role, while reaffirming that \"civilization is favorable to the development and extension of physical forces.\" Rousseau's claim (that the savage is physically stronger) is quoted and critiqued earlier in the same chapter.[^2]\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [p-910272](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/05-liberte-compatible-avec-la-maniere-de-vivre-des-pe/translation/#p-910272).\n[^2]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [p-646b23](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/05-liberte-compatible-avec-la-maniere-de-vivre-des-pe/translation/#p-646b23).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Diemen's Land",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dynamometer Rousseau",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"50\" \"51\" \"58\" \"69\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"New Holland\" Timor",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-910272"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 5,
+      "paragraph_id": "p-910272"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 5,
+      "paragraph_id": "p-646b23"
+    }
+  ],
+  "duration_ms": 18996,
+  "from_run": "grok-discovery-20260430"
+}

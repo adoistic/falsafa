@@ -1,0 +1,120 @@
+{
+  "answer": "This passage appears in the *Manusmṛti* (work slug: `unknown-manusmrti-347b76`), Chapter 12 (verses labeled Mn_11.48–51 in the translation). It catalogues bodily disfigurements as marks of unexpiated past sins (from evil conduct or prior karma):\n\n> Here, some evil-souled men, through their evil conduct, and some through their former deeds, obtain a disfigurement of their form. // Mn_11.48[47M] //  \n> A gold thief obtains diseased nails; a liquor-drinker, black teeth; a slayer of a Brahmana, consumptive disease; and a defiler of a guru's bed, skin disease. // Mn_11.49[48M] //  \n> A slanderer obtains a stinking nose; an informer, a stinking mouth; a grain-thief, a deficient limb; and an adulterator, a superfluous one. // Mn_11.50[49M] //  \n> A food-thief obtains indigestion; a speech-thief, muteness; a clothes-thief, vitiligo; and a horse-thief, lameness. // Mn_11.51[50M] //[^1]\n\nThe text continues by noting that such persons are \"born, condemned by the good, as idiots, mutes, blind, deaf, and with deformed shapes,\" and stresses penance for purification.[^2]\n\n[^1]: *Manusmṛti*, [Chapter 12, paragraphs p-94d7e1 to p-a549f5](/works/unknown-manusmrti-347b76/12/translation/#p-94d7e1).\n[^2]: *Manusmṛti*, [Chapter 12, paragraph p-b756a6](/works/unknown-manusmrti-347b76/12/translation/#p-b756a6).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "stinking nose",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"black teeth\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gold thief\" nails",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vitiligo thief",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"horse thief\" lameness",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nails\" thief",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"teeth\" liquor",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vitiligo OR \"white skin\" thief",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "horse lameness thief",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-94d7e1",
+          "p-3e6ead",
+          "p-0dfd49",
+          "p-a549f5"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-94d7e1"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-a549f5"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-b756a6"
+    }
+  ],
+  "duration_ms": 30269,
+  "from_run": "grok-discovery-20260430"
+}

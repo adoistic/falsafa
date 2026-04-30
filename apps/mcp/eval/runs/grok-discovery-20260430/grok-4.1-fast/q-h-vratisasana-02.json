@@ -1,0 +1,92 @@
+{
+  "answer": "**Vratisasana, Chapter 1** names these five as *primary caṇḍālas* (outcastes) whose stalls and houses an ascetic (*viku*) must avoid.[^1]\n\nThe verse (VS_11) reads:  \n*The liquor-seller, the insect-burner, the life-taker, the potter,*  \n*and the metal-burner—these five are declared to be the outcastes. ||11||*[^2]\n\nThe commentary enumerates them verbatim: \"Who are these five primary *caṇḍālas*? One who sells liquor, one who is a trapper, one who is a butcher, one who is a potter, and one who is a goldsmith,\" declaring that \"A *viku* may not rest in such a place, for they are worse than the eighteen *caṇḍālas*.\"[^3]\n\n[^1]: Vratisasana, [Chapter 1, paragraph p-1235c0](/works/unknown-vratisasana-d0fe75-d0fe75/01/translation/#p-1235c0).\n\n[^2]: Vratisasana, [Chapter 1, paragraphs p-2f1d82 to p-85e30c](/works/unknown-vratisasana-d0fe75-d0fe75/01/translation/#p-2f1d82).\n\n[^3]: Vratisasana, [Chapter 1, paragraph p-1235c0](/works/unknown-vratisasana-d0fe75-d0fe75/01/translation/#p-1235c0).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eighteen caṇḍālas",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liquor-seller\" OR \"insect-burner\" OR \"metal-burner\" caṇḍālas",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"worse than\" caṇḍālas"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vratisasana-d0fe75 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liquor-seller\" \"insect-burner\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eighteen\" (caṇḍāla OR candala OR \"candalas\")",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"worse than the\" (caṇḍāla OR candala OR \"candalas\")"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-2f1d82",
+          "p-85e30c",
+          "p-1235c0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-1235c0"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-2f1d82"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-85e30c"
+    }
+  ],
+  "duration_ms": 78709,
+  "from_run": "grok-discovery-20260430"
+}

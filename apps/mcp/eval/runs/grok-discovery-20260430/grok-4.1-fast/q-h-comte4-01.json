@@ -1,0 +1,89 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation: VOL IV*, Chapter 18 (\"De l’influence réciproque de l’esclavage sur la religion, et de la religion sur l’esclavage\").**[^1]\n\nThis chapter describes the 1823 Barbados incident in detail, including the slave-owners' secret committee, their initial proclamation summoning a Sunday mob \"well supplied with the necessary tools\" to demolish the Methodist chapel, the two-day demolition (breaking doors/windows, destroying pews/pulpit, tearing/trampling Bibles and books, wrecking the missionary's home, making flags from his linens, and \"three times three\" victory howls), and their triumphant follow-up proclamation dated from Bridgetown on 21 October 1823.[^2]\n\nThe quoted proclamation reads:\n\n> Bridgetown, Wednesday, 21 October 1823.\n>\n> \"The inhabitants of this island are respectfully informed that in consequence of the unprovoked and unmerited attacks, which have been repeatedly made by the community of Methodist missionaries, the villainous African Society (*otherwise known as agents to the villanous African Society*) [357], a number of *respectable gentlemen* have formed the resolution to put an end to the Methodist affair; that, with this in view, they began their work on Sunday evening, and that they have the very great satisfaction of announcing that **at midnight they completed the ruin of the church**. They must add to this information that the missionary escaped in a small vessel yesterday at noon, and has taken refuge on the island of St. Vincent, thereby avoiding the manifestation, toward him, of the public sentiments he so well deserved. It is to be hoped that, as this proclamation will be spread throughout all the islands and colonies, all persons who consider themselves *true friends of religion* will follow the laudable example of the Barbadians, by putting an end to Methodism and to Methodist churches.\"[^3]\n\n[^1]: Charles Comte, *Traité de Législation: VOL IV*, [Chapter 18](/works/charles-comte-traite-de-legislation-vol-iv-bca040/18-de-l-influence-reciproque-de-l-esclavage-sur-la-re/translation/).\n\n[^2]: Charles Comte, *Traité de Législation: VOL IV*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/18-de-l-influence-reciproque-de-l-esclavage-sur-la-re/translation/#p-5549b4).\n\n[^3]: Charles Comte, *Traité de Législation: VOL IV*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/18-de-l-influence-reciproque-de-l-esclavage-sur-la-re/translation/#p-641117).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"secret committee\" \"respectable gentlemen\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"midnight\" \"ruin\" chapel OR church",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bridgetown\" \"21 October 1823\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"three times three\" chapel OR church OR bible",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 18,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.18 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bridgetown\" OR \"secret committee\" OR \"respectable gentlemen\" OR \"necessary tools\" chapel",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"demolish\" OR \"tore down\" OR \"ripped up Bibles\" chapel methodist",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 18,
+        "paragraph_ids": [
+          "p-5549b4",
+          "p-641117"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 18,
+      "paragraph_id": "p-5549b4"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 18,
+      "paragraph_id": "p-641117"
+    }
+  ],
+  "duration_ms": 25358,
+  "from_run": "grok-discovery-20260430"
+}

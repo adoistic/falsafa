@@ -1,0 +1,164 @@
+{
+  "answer": "**Yājñavalkya Smṛti, Chapter 3 (\"ON EXPIATION (prāyaścittādhyāya)\"),** contains this precise anatomical inventory of a man's body amid a broader discussion of the body's impermanence and constitution to encourage detachment.[^1]\n\nThis matches all specified numbers: three hundred and sixty bones;[^2] sixty-four teeth with their sockets; twenty nails; seventy-two ribs (with their sockets and nodules); forty-five bones in the back; fifteen in the neck; seventeen in the chest;[^3] seven hundred veins, nine hundred sinews, two hundred arteries, and five hundred muscles;[^4] one hundred and seven vital spots and two hundred joints; and fifty crores and four crores [...] body hairs [...] and sixty-seven and a half lakhs, along with the sweat ducts.[^5]\n\n[^1]: Yājñavalkya Smṛti, [Chapter 3](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/).\n\n[^2]: Yājñavalkya Smṛti, *Chapter 3*, [// Yj_3.84](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-ac1be2): \"His bodies are sixfold, and six skins support them; there are six limbs, **and three hundred and sixty bones.** // Yj_3.84 //\"\n\n[^3]: Yājñavalkya Smṛti, *Chapter 3*, [paragraphs](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-c7a123) (Yj_3.88: back, neck) through [// Yj_3.90](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-8c0993) (chest).\n\n[^4]: Yājñavalkya Smṛti, *Chapter 3*, [// Yj_3.100](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-e42749): \"**Seven hundred veins, nine hundred sinews, two hundred arteries, and five hundred muscles.** // Yj_3.100 //\"\n\n[^5]: Yājñavalkya Smṛti, *Chapter 3*, [// Yj_3.103](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-b7896b).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "three hundred and sixty bones",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"three hundred and sixty\" bones",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sixty-four teeth",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fifty crores\" body",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "expiation bones",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seventy-two ribs\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "seven hundred veins"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nine hundred sinews\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fifty crores\" OR \"four crores\" body OR veins OR hairs",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "expiation \"three hundred\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 96
+      },
+      "result_summary": "Read ch.96 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-ac1be2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-e42749"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-ac1be2"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-c7a123"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-8c0993"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-e42749"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-b7896b"
+    }
+  ],
+  "duration_ms": 41067,
+  "from_run": "grok-discovery-20260430"
+}

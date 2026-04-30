@@ -153,7 +153,19 @@ const citationChips = result?.citations
     </nav>
 
     <header class="eval-case-header">
-      <p class="kicker">{c.category} · {c.difficulty}</p>
+      <p class="kicker">
+        {c.category} · {c.difficulty}
+        {c.tier === "hidden" && (
+          <span class="tier-badge tier-badge--hidden" title="Discovery tier — the question hides the work, testing whether the model can find it by content alone.">
+            · discovery
+          </span>
+        )}
+        {c.tier === "named" && (
+          <span class="tier-badge tier-badge--named" title="Citation tier — the question names the work, testing citation precision.">
+            · citation
+          </span>
+        )}
+      </p>
       <h1>{c.prompt}</h1>
       {c.rationale && <p class="rationale">Why this is in the suite: {c.rationale}</p>}
       {c.expected_works.length > 0 && (
@@ -269,6 +281,11 @@ const citationChips = result?.citations
     color: var(--accent);
     margin: 0 0 var(--s-3);
   }
+  /* Tier badge — sits inline with the category/difficulty kicker.
+     Hidden (discovery) is the headline tier — slightly emphasised. */
+  .tier-badge { font-weight: 600; cursor: help; }
+  .tier-badge--hidden { color: var(--accent); }
+  .tier-badge--named { color: var(--ink-muted); }
   .eval-case-header h1 {
     font-family: var(--font-display);
     font-size: var(--fs-h1);

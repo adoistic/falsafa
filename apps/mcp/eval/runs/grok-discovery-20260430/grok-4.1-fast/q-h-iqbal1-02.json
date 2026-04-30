@@ -1,0 +1,104 @@
+{
+  "answer": "**The passage is from *Bang-E-Dara Part 1* by Allama Iqbal, chapter 28: \"Kinaar-e-Ravi\" (Riverside [of the Ravi]).**[^1]\n\nThis poem depicts the speaker standing on the Ravi riverbank at evening, observing the minarets in the distance associated with the Chughtai king (a reference to a Timurid or Mughal-era ruler's tomb-palace), describing the palace as \"a book from a lost history,\" watching a swift boat and its boatman battling waves vanish from sight, and concluding with the metaphor of human life as that imperishable vessel.[^2]\n\n**Chughtai-king couplet:**  \n\"Afar they stand, in lonely majesty so deep,  \nThe minarets of the Chughtai king's last sleep.\"[^3]\n\n**Closing couplet:**  \n\"The vessel of a human life thus sails the sea,  \nAppearing and then lost in all eternity.  \nIt never knows defeat, nor does its journey finish,  \nIt vanishes from sight, but it does not perish.\"[^4]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, chapter 28 \"Kinaar-e-Ravi\" (/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/).\n\n[^2]: Ibid., [p-70a0dc](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-70a0dc) to [p-1c94bb](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-1c94bb).\n\n[^3]: Ibid., [p-29acb7](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-29acb7).\n\n[^4]: Ibid., [p-098157](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-098157).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Chughtai",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Chagatai",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"minarets\" river",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"book from a lost history\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.28 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.28 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "paragraph_ids": [
+          "p-29acb7",
+          "p-6b8789"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "paragraph_ids": [
+          "p-098157",
+          "p-1c94bb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-70a0dc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-1c94bb"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-29acb7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-098157"
+    }
+  ],
+  "duration_ms": 30228,
+  "from_run": "grok-discovery-20260430"
+}

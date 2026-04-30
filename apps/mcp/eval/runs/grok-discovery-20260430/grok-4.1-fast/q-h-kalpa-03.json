@@ -1,0 +1,88 @@
+{
+  "answer": "**The work is *Kalpabuddha* (unknown author), Chapter 1.**[^1]\n\nIts cosmogonic opening declares: \"Lord Buddha was in the great dissolution (`mahāpralaya`), his body came into being, he then became the Lord Pañcatathāgata.\"[^2]\n\nThe central Tathāgata is then described as follows (verbatim): \"his implement is the `cakra`. Sahāvatī is the name of his dominion, a lion is his mount.\" (This figure—distinguished from the other four Tathāgatas by \"Their bodies and names are distinct, each has a counterpart in form\"—also has the `bodhyagrī` `mudrā`, `śāśvata` `jñāna`, heart abode, and the three named goddesses as attendants.)[^2]\n\n[^1]: *Kalpabuddha*, Chapter 1 ([chapter](/works/unknown-kalpabuddha-d760dc/01/translation/)).\n[^2]: *Kalpabuddha*, Chapter 1 ([paragraph](/works/unknown-kalpabuddha-d760dc/01/translation/#p-e1c8df)).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sattvavajrī",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Dharmavajrī",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Karmavajrī",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Pañcatathāgata",
+        "limit": 10
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mahāpralaya",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e1c8df"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 0,
+          "end": 1
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-e1c8df"
+    }
+  ],
+  "duration_ms": 20245,
+  "from_run": "grok-discovery-20260430"
+}

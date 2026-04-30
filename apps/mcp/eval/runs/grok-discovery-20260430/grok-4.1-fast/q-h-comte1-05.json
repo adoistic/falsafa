@@ -1,0 +1,63 @@
+{
+  "answer": "**In Charles Comte's *Traité de Législation: VOL I*, Chapter 15 (\"Of physical pains and pleasures considered as elements of the power of laws. — Of the judgments that have been passed on pleasures and pains of this kind, by religious sects and by philosophical sects\"), Comte argues that Stoic doctrines like contempt for physical pains and pleasures were not metaphysical but arose sociologically from conditions of extreme insecurity under Roman despotism.**[^1]\n\nHe explains that, after proscriptions (e.g., by Marius, Sulla, triumvirs), confiscations, exiles, and reigns like those of Tiberius and Nero, Romans faced constant threats to fortune, family, life, and reputation, making all evils \"plausible\" and requiring preparation like anticipating everyday events.[^2] Stoic maxims thus equipped the oppressed—much like Epictetus, a slave under Nero's favorite Epaphroditus—to endure enslavement without surprise or despair, without endorsing tyranny itself.[^3]\n\nThe requested quote drawing the explicit comparison is: \"The maxims of Epictetus would suit **a slave of our modern colonists** no less than a subject of Nero.\"[^4]\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 15](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/15-des-peines-et-des-plaisirs-physiques-consideres-co/translation/).\n\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [p-73b670](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/15-des-peines-et-des-plaisirs-physiques-consideres-co/translation/#p-73b670).\n\n[^3]: Charles Comte, *Traité de Législation: VOL I*, [p-73b670](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/15-des-peines-et-des-plaisirs-physiques-consideres-co/translation/#p-73b670).\n\n[^4]: Charles Comte, *Traité de Législation: VOL I*, [p-73b670](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/15-des-peines-et-des-plaisirs-physiques-consideres-co/translation/#p-73b670).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slave of our modern colonists"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Epictetus\" slave colonial"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"contempt for pain and pleasure\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Stoic proscriptions confiscation slavery"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 15,
+        "paragraph_ids": [
+          "p-73b670"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 15,
+      "paragraph_id": "p-73b670"
+    }
+  ],
+  "duration_ms": 18679,
+  "from_run": "grok-discovery-20260430"
+}

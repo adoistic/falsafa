@@ -1,0 +1,232 @@
+{
+  "answer": "**In the *Manusmṛti* (Chapter 3), the eight named forms of marriage—*Brāhma*, *Daiva*, *Ārṣa*, *Prājāpatya*, *Āsura*, *Gāndharva*, *Rākṣasa*, and *Paiśāca*—are enumerated together in verses 20–21.[^1]**\n\n> Now learn in summary these eight forms of marriage for women, for the four *varnas*, which are beneficial and harmful in this world and the next. The `Brāhma`, the `Daiva`, and also the `Ārṣa`; the `Prājāpatya` and the `Āsura`; the `Gāndharva` and the `Rākṣasa`; and the eighth and lowest, the `Paiśāca`.[^1]\n\nThese match the details given: the *Gāndharva* is \"the voluntary union of a maiden and her lover...which springs from desire\" (verse 32);[^2] the *Rākṣasa* involves \"the forcible abduction of a maiden...after her kinsmen have been slain\" (verse 33);[^3] and the *Paiśāca* is \"when a man secretly approaches a girl who is sleeping [or] intoxicated...the eighth and most wicked\" (verse 34).[^4]\n\n[^1]: *Manusmṛti* (unknown-manusmrti-347b76), Chapter 3, [paragraphs p-36d967 to p-b07c61](/works/unknown-manusmrti-347b76/03/translation/#p-36d967).\n[^2]: *Manusmṛti* (unknown-manusmrti-347b76), Chapter 3, [p-beb0f2](/works/unknown-manusmrti-347b76/03/translation/#p-beb0f2).\n[^3]: *Manusmṛti* (unknown-manusmrti-347b76), Chapter 3, [p-2f28cf](/works/unknown-manusmrti-347b76/03/translation/#p-2f28cf).\n[^4]: *Manusmṛti* (unknown-manusmrti-347b76), Chapter 3, [p-ca03b2](/works/unknown-manusmrti-347b76/03/translation/#p-ca03b2).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eight forms of marriage\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"voluntary union\" maiden lover",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sleeping or intoxicated\" marriage",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forcible abduction\" marriage kinsmen",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eight kinds of marriage\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eight marriage",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eight kinds\" marriage",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eight forms\" marriage",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gandharva rakshasa paisacha marriage",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"paisacha\" marriage",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rakshasa\" marriage",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu marriage",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forms of marriage\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kinds of marriage\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "law"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "ancient"
+      },
+      "result_summary": "Listed 9 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gandharva\" marriage",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-36d967"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-b07c61"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-beb0f2"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-2f28cf"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-ca03b2"
+    }
+  ],
+  "duration_ms": 42621,
+  "from_run": "grok-discovery-20260430"
+}

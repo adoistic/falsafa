@@ -19,6 +19,12 @@ export interface EvalModelMeta {
   pass_count?: number;
   /** Total cases this model has results for. May be < total when a run was partial. */
   case_count?: number;
+  /** Pass / case counts for the named (legacy 1k) pool only. */
+  pass_count_named?: number;
+  case_count_named?: number;
+  /** Pass / case counts for the hidden (discovery) pool only. */
+  pass_count_hidden?: number;
+  case_count_hidden?: number;
 }
 
 export interface EvalToolCall {
@@ -63,6 +69,20 @@ export interface EvalCase {
   prompt: string;
   rationale?: string;
   expected_works: string[];
+  /**
+   * "named" — legacy 1k pool, the question names the work / author / era /
+   *           language. Tests citation precision.
+   * "hidden" — discovery pool, the question hides the work. Tests semantic
+   *            discovery (the "needle in a haystack" capability).
+   *
+   * Reported as separate scores in the explorer header. Cases without an
+   * explicit tier (legacy build artifacts) are treated as "named".
+   */
+  tier?: "named" | "hidden";
+  /** Specific paragraph hashes that constitute the answer (discovery only). */
+  expected_paragraph_ids?: string[];
+  /** True when the question demands a verbatim quote (discovery only). */
+  expects_quote?: boolean;
   /** Keyed by EvalModelMeta.id. Missing key = no run for that model on this case. */
   results: Record<string, EvalCaseResult>;
 }

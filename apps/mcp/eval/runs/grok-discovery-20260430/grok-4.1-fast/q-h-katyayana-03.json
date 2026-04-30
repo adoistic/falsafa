@@ -1,0 +1,33 @@
+{
+  "answer": "**The *Kātyāyana Smṛti* (Chapter 72) declares and defines *dhvajāhṛta*.**\n\nThe relevant verse reads:\n\n> What is won under the banner (*dhvajāhṛta*) is remembered as not to be divided. What is brought from battle after routing the enemy's army, having risked one's life for the master, is called won under the banner.[^1]\n\n[^1]: *Kātyāyana Smṛti*, [paragraph](/works/unknown-katyayana-smrti-1e06d2/72/translation/#p-89ec8b/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dhvajāhṛta"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 72,
+        "paragraph_ids": [
+          "p-89ec8b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 72,
+      "paragraph_id": "p-89ec8b"
+    }
+  ],
+  "duration_ms": 12097,
+  "from_run": "grok-discovery-20260430"
+}

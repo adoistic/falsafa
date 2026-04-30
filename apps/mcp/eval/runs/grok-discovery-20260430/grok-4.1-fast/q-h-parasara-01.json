@@ -1,0 +1,134 @@
+{
+  "answer": "**The *Parāśara Smṛti* (Chapter 4) distinguishes these two kinds of sons born to another man's wife.**\n\nIt states: \"Likewise, two sons of another man's wife are remembered: the Kuṇḍa and the Golaka. The Kuṇḍa is one born while the husband is alive; the Golaka is one born after the husband's death. // Par_4.23 //\"[^1]\n\n[^1]: Parāśara, *Parāśara Smṛti*, [paragraph](/works/unknown-parasara-smrti-2259be/04/translation/#p-dd2b4f).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kuṇḍa Golaka",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kunda\" \"golaka\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kunda\" \"Golaka\" son",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"son\" \"another man's wife\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"born\" \"husband\" \"alive\" \"death\" \"son\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kunda son"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Golaka son"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 11 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"born\" wife husband alive"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"after the death\" son wife"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"another man\" wife son"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"born of\" wife \"another\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kunda OR golaka OR kund OR gola",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-dd2b4f"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"slug\":\"unknown-parasara-smrti-2259be\",\"title\":\"Parāśara Smṛti\",\"author\":\"Parāśara\",\"author_slug\":\"parasara\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"S"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 4,
+      "paragraph_id": "p-dd2b4f"
+    }
+  ],
+  "duration_ms": 39366,
+  "from_run": "grok-discovery-20260430"
+}

@@ -1,0 +1,73 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation: VOL I*, Chapter 19 (\"Des effets particuliers à chacun des principaux éléments de force dont une loi se compose ; et de l’\").**[^1]\n\nThere, Comte writes: \"perhaps one would arrive at this consequence, **that a people already civilized needs, to be happy, only not to be pillaged, and to be abandoned to itself**.\"[^2] He adds that governments \"are so weak when they wish to do good,\" but \"sometimes possess an immense influence for doing evil,\" observing that public authority \"produces\" far \"little good... comparatively to that which results from the power of customs.\"[^3]\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 19](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/19-des-effets-particuliers-a-chacun-des-principaux-el/translation/).\n\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 19, ¶ p-45347c](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/19-des-effets-particuliers-a-chacun-des-principaux-el/translation/#p-45347c).\n\n[^3]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 19, ¶¶ p-dc2a16, p-45347c](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/19-des-effets-particuliers-a-chacun-des-principaux-el/translation/#p-dc2a16).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "not to be pillaged, and to be abandoned to itself"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 19,
+        "paragraph_ids": [
+          "p-45347c"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"governments\" \"harm\" \"good\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"powerful\" harm good government"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 19
+      },
+      "result_summary": "Read ch.19 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"more powerful\" harm OR evil good government OR authority OR state OR law OR legislation OR politician"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"capable of\" harm good government"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 19,
+      "paragraph_id": "p-45347c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 19,
+      "paragraph_id": "p-dc2a16"
+    }
+  ],
+  "duration_ms": 23307,
+  "from_run": "grok-discovery-20260430"
+}

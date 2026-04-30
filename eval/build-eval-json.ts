@@ -41,6 +41,17 @@ interface CaseSeed {
   prompt: string;
   rationale?: string;
   expected_works: string[];
+  /**
+   * "named" — legacy pool (eval/questions-revised-1000.json); the question
+   * names the work / author / era / language. Tests citation precision.
+   * "hidden" — discovery pool (eval/questions-discovery-v1.jsonl); the
+   * question hides the work. Tests semantic discovery.
+   */
+  tier: "named" | "hidden";
+  /** Specific paragraph hashes that constitute the answer (discovery only). */
+  expected_paragraph_ids?: string[];
+  /** True when the question demands a verbatim quote (discovery only). */
+  expects_quote?: boolean;
 }
 
 interface ToolCall {
@@ -75,8 +86,15 @@ interface OutModel {
   id: string;
   name: string;
   label: string;
+  /** Total pass / case counts (both tiers merged). */
   pass_count: number;
   case_count: number;
+  /** Pass / case counts for the named (legacy 1k) pool only. */
+  pass_count_named?: number;
+  case_count_named?: number;
+  /** Pass / case counts for the hidden (discovery) pool only. */
+  pass_count_hidden?: number;
+  case_count_hidden?: number;
 }
 
 interface OutCase extends CaseSeed {
@@ -188,7 +206,26 @@ function loadCaseCatalogue(): Map<string, CaseSeed> {
     const arr = loadJson<unknown[]>(path);
     if (!arr) continue;
     for (const raw of arr) {
-      const seed = normaliseSeed(raw);
+      const seed = normaliseSeed(raw, "named");
+      if (seed && !map.has(seed.id)) map.set(seed.id, seed);
+    }
+  }
+
+  // Discovery pool — JSONL, one question per line. Stamped tier="hidden".
+  const discoveryPath = join(REPO_ROOT, "eval/questions-discovery-v1.jsonl");
+  if (existsSync(discoveryPath)) {
+    const raw = readFileSync(discoveryPath, "utf-8");
+    for (const line of raw.split("\n")) {
+      const trimmed = line.trim();
+      if (!trimmed) continue;
+      let parsed: unknown;
+      try {
+        parsed = JSON.parse(trimmed);
+      } catch (err) {
+        console.warn(`Skipping discovery line: ${(err as Error).message}`);
+        continue;
+      }
+      const seed = normaliseSeed(parsed, "hidden");
       if (seed && !map.has(seed.id)) map.set(seed.id, seed);
     }
   }
@@ -200,7 +237,7 @@ function loadCaseCatalogue(): Map<string, CaseSeed> {
       const arr = loadJson<unknown[]>(samplePath);
       if (!arr) continue;
       for (const raw of arr) {
-        const seed = normaliseSeed(raw);
+        const seed = normaliseSeed(raw, "named");
         if (seed && !map.has(seed.id)) map.set(seed.id, seed);
       }
     }
@@ -219,12 +256,16 @@ function loadCaseCatalogue(): Map<string, CaseSeed> {
   return map;
 }
 
-function normaliseSeed(raw: unknown): CaseSeed | null {
+function normaliseSeed(raw: unknown, defaultTier: "named" | "hidden"): CaseSeed | null {
   if (!raw || typeof raw !== "object") return null;
   const r = raw as Record<string, unknown>;
   const id = typeof r.id === "string" ? r.id : null;
   const prompt = typeof r.prompt === "string" ? r.prompt : null;
   if (!id || !prompt) return null;
+  // Honour an explicit tier on the raw record; fall back to the caller's default.
+  const tierField = typeof r.tier === "string" ? r.tier : null;
+  const tier: "named" | "hidden" =
+    tierField === "named" || tierField === "hidden" ? tierField : defaultTier;
   return {
     id,
     category: typeof r.category === "string" ? r.category : "uncategorised",
@@ -234,6 +275,11 @@ function normaliseSeed(raw: unknown): CaseSeed | null {
     expected_works: Array.isArray(r.expected_works)
       ? r.expected_works.filter((w): w is string => typeof w === "string")
       : [],
+    tier,
+    expected_paragraph_ids: Array.isArray(r.expected_paragraph_ids)
+      ? r.expected_paragraph_ids.filter((p): p is string => typeof p === "string")
+      : undefined,
+    expects_quote: typeof r.expects_quote === "boolean" ? r.expects_quote : undefined,
   };
 }
 
@@ -250,6 +296,7 @@ function normaliseLegacySeed(raw: unknown): CaseSeed | null {
     prompt,
     rationale: typeof r.notes === "string" ? r.notes : undefined,
     expected_works: [], // legacy cases use expected_answer_contains; not a slug list.
+    tier: "named", // legacy cases.json predates the tier split; treat as named.
   };
 }
 
@@ -526,11 +573,24 @@ function main() {
   for (const label of labels) {
     let pass = 0;
     let total = 0;
+    let passN = 0;
+    let totalN = 0;
+    let passH = 0;
+    let totalH = 0;
     for (const c of cases.values()) {
       const r = c.results[label];
       if (!r) continue;
       total += 1;
-      if (passOf(r) === true) pass += 1;
+      const passed = passOf(r) === true;
+      if (passed) pass += 1;
+      if (c.tier === "hidden") {
+        totalH += 1;
+        if (passed) passH += 1;
+      } else {
+        // tier missing → treat as named (legacy artifact behavior).
+        totalN += 1;
+        if (passed) passN += 1;
+      }
     }
     models.push({
       id: label,
@@ -538,6 +598,10 @@ function main() {
       label,
       pass_count: pass,
       case_count: total,
+      pass_count_named: totalN > 0 ? passN : undefined,
+      case_count_named: totalN > 0 ? totalN : undefined,
+      pass_count_hidden: totalH > 0 ? passH : undefined,
+      case_count_hidden: totalH > 0 ? totalH : undefined,
     });
   }
 

@@ -1,0 +1,169 @@
+{
+  "answer": "**San Hyan Tattvajnana, Chapter 1.**\n\nThe assignments of patron divinities (*deva*) to three classes of blades (*asi*) by social function appear in the context of describing *buddhi-rajas* (intellect dominated by passion), where the *Rākṣasa*, *Daitya*, and *Dānava* are linked to blades used by kings, farmers, and priests, respectively.[^1] This immediately precedes further elaboration on *buddhi-tamas*, but the text soon frames the distinction among these blade classes within a blacksmith simile to illustrate how tools (tongs, hammer, anvil, file) and raw iron submit entirely to the smith's will, while only the finished blade enacts good and evil.[^2]\n\nThe three blade-divinity assignments are quoted verbatim as follows:\n\n> Now, the reality of this is that the *Rākṣasa* is the patron divinity of the blades that are the weapons of a king. All kinds of blades that are currently used to take life have the *Rākṣasa* as their deity.[^1]\n\n> The *Daitya* is the patron divinity of the blades that are the implements of farmers, such as a *luke* or a *pṛkul* (types of agricultural blades). All kinds of blades used as a means to produce a livelihood have the *Daitya* as their deity.[^1]\n\n> The *Dānava* is the patron divinity of the blades that are the implements of a priest, such as a *pamiso*, *kartrī*, or *karayu* (types of ritual knives). The *Dānava* is their deity.[^1]\n\n[^1]: *San Hyan Tattvajnana*, [paragraph](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-cbb351).\n[^2]: *San Hyan Tattvajnana*, [paragraph](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-9c664a).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Rākṣasa curik",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Daitya luke",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Dānava pamiso",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"smith's will\" blade",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tongs\" hammer anvil",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hammer\" anvil file smith",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rakshasa daitya danava",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"patron divinity\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king's\" \"life-taking\" weapons",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "curik",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "malalya",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sankuh",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "luke",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prkul",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pamiso",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-cbb351"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-9c664a"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-cbb351"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-9c664a"
+    }
+  ],
+  "duration_ms": 64821,
+  "from_run": "grok-discovery-20260430"
+}

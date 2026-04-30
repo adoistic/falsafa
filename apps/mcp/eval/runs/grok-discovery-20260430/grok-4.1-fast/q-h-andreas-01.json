@@ -1,0 +1,227 @@
+{
+  "answer": "**The work is *Andreas* by Cynewulf (an anonymous Old English poem attributed to him), Chapter 1.**[^1]\n\nSaint Andreas (Andrew) addresses a marble pillar (\"marble-stone\") beside a hall wall in the heathen city of Mermedonia. He calls it \"better than gold\" because the King of Glory inscribed the Ten Commandments (\"the righteous law / He marked out in ten words\") on it and gave it to Moses, and \"as the truth-fast ones afterwards held it… Joshua and Tobias.\" He then commands it to release \"wide-running water for the ruin of men.\"[^2]\n\n> “Hear me now, marble-stone, by the Maker's decree,  \n> before whose face all of creation  \n> becomes afraid, when they see the Father  \n> of heavens and earth with the greatest of hosts  \n> on middle-earth seeking mankind.  \n> Let now from your foundations streams start to well,  \n> a river in-flooding, for the Almighty now,  \n> Heaven's High King, commands you to hasten  \n> and upon this corrupt folk to send forth  \n> a wide-running water for the ruin of men,  \n> a pouring ocean. Behold, you are better than gold,  \n> than treasure-gifts! On you the King Himself  \n> wrote, the God of glory, He made known in words  \n> the ready mysteries, and the righteous law  \n> He marked out in ten words,  \n> the Maker mighty in power. To Moses He gave it,  \n> as the truth-fast ones afterwards held it,  \n> the brave young thanes, his own kinsmen,  \n> the God-fearing men, Joshua and Tobias.  \n> Now you can know that the King of angels  \n> adorned you far more with gifts in old days  \n> than all the kindred of gems.  \n> Through His holy command you must quickly show  \n> if you have any understanding of Him.”[^2]\n\n[^1]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/).\n\n[^2]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-2e50c1).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "marble pillar",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"better than gold\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"King of glory\" pillar",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wide-running water\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ten Commandments\" pillar",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pillar Moses",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pillar Joshua",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pillar Tobias",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"King of glory\" stone",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pillar water saint",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pillar \"ten commandments\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mermedonia"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pillar\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"stone\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"marble\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gold\" pillar OR stone",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Moses",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "commandments",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Joshua",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-2e50c1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 82,
+          "end": 82
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"slug\":\"cynewulf-andreas-07b573\",\"title\":\"Andreas\",\"author\":\"Cynewulf\",\"author_slug\":\"cynewulf\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Literature\",\"genre_slug\":\"literature\",\"language\":\"old_e"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-2e50c1"
+    }
+  ],
+  "duration_ms": 39586,
+  "from_run": "grok-discovery-20260430"
+}

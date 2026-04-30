@@ -129,16 +129,24 @@ interface Args {
   runName: string;
   modelTag: string;
   pool: string;
+  concurrency: number;
+  random: boolean;
+  seed: number;
 }
 
 function parseArgs(): Args {
   const a = process.argv.slice(2);
   const opts: Record<string, string> = {};
+  const flags: Record<string, true> = {};
   for (let i = 0; i < a.length; i++) {
     const arg = a[i]!;
     if (arg === "--help" || arg === "-h") {
       console.log(USAGE);
       process.exit(0);
+    }
+    if (arg === "--random") {
+      flags.random = true;
+      continue;
     }
     if (arg.startsWith("--")) {
       opts[arg.slice(2)] = a[i + 1] ?? "";
@@ -149,6 +157,8 @@ function parseArgs(): Args {
   const model = opts.model ?? "x-ai/grok-4.1-fast";
   const count = parseInt(opts.count ?? "5", 10);
   const start = parseInt(opts.start ?? "1", 10);
+  const concurrency = parseInt(opts.concurrency ?? "1", 10);
+  const seed = parseInt(opts.seed ?? "42", 10);
   // Derive a run-name + model-tag from the model id when not provided.
   // model-tag is the last segment ("grok-4.1-fast"), with non-filesystem-
   // safe chars stripped. run-name defaults to "<model-tag>-YYYYMMDD".
@@ -164,7 +174,10 @@ function parseArgs(): Args {
   if (!Number.isFinite(start) || start < 1) {
     throw new Error(`--start must be a positive integer; got ${opts.start}`);
   }
-  return { model, count, start, runName, modelTag, pool };
+  if (!Number.isFinite(concurrency) || concurrency < 1) {
+    throw new Error(`--concurrency must be a positive integer; got ${opts.concurrency}`);
+  }
+  return { model, count, start, runName, modelTag, pool, concurrency, random: !!flags.random, seed };
 }
 
 const USAGE = `
@@ -174,9 +187,12 @@ Flags:
   --model <id>       OpenRouter model id (default: x-ai/grok-4.1-fast)
   --count <n>        Number of questions to run (default: 5 — the pilot)
   --start <n>        1-based index into the pool to start at (default: 1)
+  --concurrency <n>  Parallel in-flight questions (default: 1)
+  --random           Shuffle the pool with --seed before slicing
+  --seed <n>         RNG seed used by --random (default: 42)
   --run-name <s>     Output dir name under apps/mcp/eval/runs/ (default: <model-tag>-YYYYMMDD)
   --model-tag <s>    Override the per-model subdir name (default: derived from --model)
-  --pool <path>      Path to question pool JSON (default: eval/questions-revised-1000.json)
+  --pool <path>      Path to question pool JSON or JSONL (default: eval/questions-revised-1000.json)
   --help             Show this help
 `.trim();
 
@@ -657,12 +673,23 @@ async function main(): Promise<void> {
   const outDir = resolve(repoRoot, "apps/mcp/eval/runs", args.runName, args.modelTag);
   mkdirSync(outDir, { recursive: true });
 
-  const pool = JSON.parse(readFileSync(poolPath, "utf-8")) as PoolQuestion[];
-  const slice = pool.slice(args.start - 1, args.start - 1 + args.count);
+  const pool = loadPool(poolPath);
+
+  // Optional shuffle (deterministic) before slicing.
+  let working = pool;
+  if (args.random) {
+    working = shuffle(pool, args.seed);
+  }
+  const slice = working.slice(args.start - 1, args.start - 1 + args.count);
 
   console.log(`runner: ${args.model}`);
-  console.log(`pool:   ${poolPath} (${pool.length} questions; running ${slice.length} starting at ${args.start})`);
+  console.log(
+    `pool:   ${poolPath} (${pool.length} questions; running ${slice.length} starting at ${args.start}` +
+      (args.random ? `, random seed=${args.seed}` : "") +
+      `)`,
+  );
   console.log(`output: ${outDir}`);
+  console.log(`concurrency: ${args.concurrency}`);
   console.log("");
 
   let done = 0;
@@ -670,6 +697,8 @@ async function main(): Promise<void> {
   let failed = 0;
   const overallStart = Date.now();
 
+  // Pre-filter so the in-flight worker count reflects real work, not skips.
+  const todo: PoolQuestion[] = [];
   for (const q of slice) {
     const outPath = join(outDir, `${q.id}.json`);
     if (existsSync(outPath)) {
@@ -677,28 +706,84 @@ async function main(): Promise<void> {
       console.log(`  [skip] ${q.id} (already done)`);
       continue;
     }
-    process.stdout.write(`  [run]  ${q.id} (${q.category}/${q.difficulty}) ... `);
-    try {
-      const result = await runQuestion(apiKey, args.model, args.runName, q);
-      atomicWriteJson(outPath, result);
-      done++;
-      const sec = (result.duration_ms / 1000).toFixed(1);
-      const tools = result.tool_calls.length;
-      const cites = result.citations.length;
-      const ans = result.answer.length;
-      process.stdout.write(`${sec}s · ${tools} tool calls · ${cites} citations · ${ans} chars\n`);
-    } catch (err) {
-      failed++;
-      const msg = err instanceof Error ? err.message : String(err);
-      process.stdout.write(`FAILED\n    ${msg.slice(0, 200)}\n`);
+    todo.push(q);
+  }
+
+  // Worker pool — N workers pull from a shared cursor.
+  let cursor = 0;
+  async function worker(workerId: number): Promise<void> {
+    void workerId;
+    while (true) {
+      const i = cursor++;
+      if (i >= todo.length) return;
+      const q = todo[i]!;
+      const outPath = join(outDir, `${q.id}.json`);
+      // Guard against another concurrent runner racing us — re-check.
+      if (existsSync(outPath)) {
+        skipped++;
+        console.log(`  [skip] ${q.id} (raced — already done)`);
+        continue;
+      }
+      const tStart = Date.now();
+      console.log(`  [start] ${q.id} (${q.category}/${q.difficulty})`);
+      try {
+        const result = await runQuestion(apiKey, args.model, args.runName, q);
+        atomicWriteJson(outPath, result);
+        done++;
+        const sec = (result.duration_ms / 1000).toFixed(1);
+        const tools = result.tool_calls.length;
+        const cites = result.citations.length;
+        const ans = result.answer.length;
+        console.log(
+          `  [done]  ${q.id} · ${sec}s · ${tools} tool calls · ${cites} citations · ${ans} chars`,
+        );
+      } catch (err) {
+        failed++;
+        const msg = err instanceof Error ? err.message : String(err);
+        const sec = ((Date.now() - tStart) / 1000).toFixed(1);
+        console.log(`  [FAIL]  ${q.id} (${sec}s) ${msg.slice(0, 200)}`);
+      }
     }
   }
+
+  const workers = Array.from({ length: Math.min(args.concurrency, todo.length || 1) }, (_, i) =>
+    worker(i),
+  );
+  await Promise.all(workers);
 
   const totalSec = ((Date.now() - overallStart) / 1000).toFixed(1);
   console.log("");
   console.log(`done: ${done} new · ${skipped} skipped · ${failed} failed (${totalSec}s)`);
   console.log(`output: ${outDir}`);
   if (failed > 0) process.exit(1);
+}
+
+// ─────────────────────────────────────────────────────────────────────────
+// Pool loading — supports both .json (array) and .jsonl (one per line).
+// ─────────────────────────────────────────────────────────────────────────
+
+function loadPool(poolPath: string): PoolQuestion[] {
+  const raw = readFileSync(poolPath, "utf-8");
+  if (poolPath.endsWith(".jsonl")) {
+    return raw
+      .split("\n")
+      .map((l) => l.trim())
+      .filter((l) => l.length > 0)
+      .map((l) => JSON.parse(l) as PoolQuestion);
+  }
+  return JSON.parse(raw) as PoolQuestion[];
+}
+
+// Tiny deterministic LCG-based shuffle — same seed → same order, every run.
+function shuffle<T>(arr: T[], seed: number): T[] {
+  const out = arr.slice();
+  let state = seed >>> 0 || 1;
+  for (let i = out.length - 1; i > 0; i--) {
+    state = (state * 1664525 + 1013904223) >>> 0;
+    const j = state % (i + 1);
+    [out[i], out[j]] = [out[j]!, out[i]!];
+  }
+  return out;
 }
 
 // SIGINT handler — leave any partial result for the next run to pick up.

@@ -1,0 +1,92 @@
+{
+  "answer": "**Yama Smṛti, Chapter 2.**\n\nThis Sanskrit Smṛti text (a genre of penitential and legal literature) prescribes the described punishments in two immediately adjacent verses:\n\n> With his body smeared with ashes and fumigated with the hair and bones of a corpse, / the king, having confiscated all his property, should banish from the kingdom the one who has abandoned his sacred fire. // YSS_2.24 //[^1]\n\n> Being fanned with the hair of a corpse, his head adorned with a garland of it, / the king should make the man who violates convention go naked. // YSS_2.25 //[^2]\n\nEarlier verses in the same chapter specify that the offender in the first case is a Brahmin.[^3]\n\n[^1]: Yama Smṛti, [paragraph](/works/unknown-yama-smrti-552f8d/02/translation/#p-c0845b).\n[^2]: Yama Smṛti, [paragraph](/works/unknown-yama-smrti-552f8d/02/translation/#p-05b685).\n[^3]: Yama Smṛti, Chapter 2, [paragraph](/works/unknown-yama-smrti-552f8d/02/translation/#p-c4ccca).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hair and bones of a corpse",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "garland of corpse",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"abandoned his sacred fire\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fanned with the hair\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yama-smrti-552f8d (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hair of a corpse\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"garland\" corpse",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-c0845b",
+          "p-05b685"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-c0845b"
+    },
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-05b685"
+    },
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-c4ccca"
+    }
+  ],
+  "duration_ms": 23734,
+  "from_run": "grok-discovery-20260430"
+}

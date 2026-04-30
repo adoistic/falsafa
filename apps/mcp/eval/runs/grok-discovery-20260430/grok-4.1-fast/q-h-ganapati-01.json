@@ -1,0 +1,80 @@
+{
+  "answer": "**The work is *Gaṇapatitattva* (work slug: `unknown-ganapatitattva-66a136`), Chapter 1, paragraph 13.[^1]**\n\nThe exact sequence of embryological transformations described appears in this passage, attributed to Īśvara speaking to Gaṇapati:\n\n> 13. The sequence of its transformations is as follows: in one month, it becomes a clot of blood, its color like a crushed piece of spleen. In the third month, the spleen-like mass is like a single egg, its color is red, and it becomes blood. In the fourth month, the egg becomes a *Śivaliṅga*, hollow in the middle, inhabited by *Oṃkāra* and the subtle form. In the fifth month, the *Śivaliṅga* becomes an illusory form. In the sixth month, the illusory form becomes fire. In the seventh month, the fire becomes like an ivory doll. In the eighth month, the breath emerges from the *Oṃkāra*, along with flesh, bone, nails, and hair. When its yoga is complete at ten months, it emerges from its mother’s womb. Such is its nature, like that of Gaṇapati.[^1]\n\n[^1]: *Gaṇapatitattva*, [paragraph](/works/unknown-ganapatitattva-66a136/01/translation/#p-7917c1).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "crushed piece of spleen",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"red egg of blood\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ivory doll\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"breath emerges from\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Śivaliṅga hollow",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-ganapatitattva-66a136 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7917c1"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-7917c1"
+    }
+  ],
+  "duration_ms": 20451,
+  "from_run": "grok-discovery-20260430"
+}

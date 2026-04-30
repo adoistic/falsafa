@@ -1,0 +1,75 @@
+{
+  "answer": "**The work is *Vrhaspatitattva*, Chapter 1.**[^1]\n\nIn this passage, the divine instructor Śrīkaṇṭha speaks in the first person to his pupil Vṛhaspati, identifying himself as the seventh in an eight-fold succession of teaching deities: **\"Ananta, Sūkṣma, Śivatama, Ekarudra, Ekanetra, Trimūrti, Śrīkaṇṭha, and Śikhaṇḍī\"**. He confesses: **\"But I was shot with passion by Lord Kāma. I gazed upon the holy Kāma, and because he was gazed upon with my poison-sight, the body of the holy Kāmadeva was shattered, incinerated, and turned to ash. But the passion (*rāga*) remained in me. That is why I took your mother, the Lady Umā, as my wife, and we had a son, the holy Sanatkumāra.\"**[^1]\n\n[^1]: *Vrhaspatitattva*, [paragraph](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-4d2295).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Śrīkaṇṭha Śikhaṇḍī",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ananta\" \"Sūkṣma\" \"Śivatama\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"passion remained\" Umā",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"god of love\" \"turned to ash\" OR \"incinerated\" Kāmadeva",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seventh\" OR \"seven\" Ananta OR Sukṣma OR Sivatama OR Ekarudra OR Ekanetra OR Trimūrti OR Srikantha OR Sikhandi",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4d2295"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-4d2295"
+    }
+  ],
+  "duration_ms": 45688,
+  "from_run": "grok-discovery-20260430"
+}

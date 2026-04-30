@@ -1,0 +1,156 @@
+{
+  "answer": "**No work in the Falsafa corpus declares witnesses to be of exactly eleven kinds, with the specified division into five appointed kinds (written witness, reminded witness, accidental witness, secret witness, and subsequent witness) and six unappointed kinds.**\n\nThe closest reference appears in the *Bṛhaspati Smṛti*, Chapter 1 (specifically verses Brh_1,5.4–5), which lists **twelve kinds** of witnesses: a subscribed witness, recorded witness, concealed witness, reminded witness, kinsman, messenger, chance witness, secondary witness, one present at the transaction, king, chief judge, and village.[^1]\n\nSearches across the corpus for distinctive phrases (e.g., \"witnesses eleven kinds\", \"five appointed\", \"secret witness\", \"subsequent witness\") and related terms (e.g., \"witnesses\", \"kinds of witnesses\") yielded no matches for eleven kinds or the exact categorization and verse requested. Other mentions of witnesses occur (e.g., in *Āṅgirasa Smṛti* Chapter 1 and *Bṛhaspati Smṛti* throughout Chapter 1), but none align with the query.[^2]\n\n[^1]: *Bṛhaspati Smṛti*, [Chapter 1, paragraph p-0cc2ab](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-0cc2ab) to [p-e4a09e](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-e4a09e).\n\n[^2]: Representative passages include *Bṛhaspati Smṛti* Chapter 1 on proofs (e.g., [p-c9cb41](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c9cb41): \"witnesses are of twelve kinds\") and *Āṅgirasa Smṛti* Chapter 1 [p-5a136e](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-5a136e).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "witnesses eleven kinds",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five appointed\" witnesses",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"six unappointed\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"secret witness\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"subsequent witness\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"accidental witness\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"reminded witness\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"written witness\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "witnesses \"five\" \"six\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "witnesses",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kinds of witnesses\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"types of witnesses\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"witness\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "law"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "unknown"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eleven\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-0cc2ab"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-e4a09e"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-c9cb41"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-5a136e"
+    }
+  ],
+  "duration_ms": 35534,
+  "from_run": "grok-discovery-20260430"
+}

@@ -1,0 +1,181 @@
+{
+  "answer": "**Parāśara Smṛti, Chapter 1.**\n\nThis text pairs a doctrine of Dharma's progressive decline across the four yugas—with all dharmas arising fully in the Kṛta and being lost by the Kali—with age-specific supreme or \"highest\" dharmas: austerity (*tapas*) in the Kṛta, knowledge (*jñāna*) in the Tretā, sacrifice (*yajña*) in the Dvāpara, and giving (*dāna*) alone in the Kali.[^1][^2][^3]\n\nThe key verses are Par_1.16 (noting Dharma's full emergence and eventual loss), Par_1.22 (dharmas vary by yuga), and especially Par_1.23 (explicitly naming the highest dharma per age). Par_1.24 adds that Parāśara's own teachings apply to the Kali.[^4]\n\n[^1]: Parāśara Smṛti, Chapter 1, [p-d9b4b0](/works/unknown-parasara-smrti-2259be/01/translation/#p-d9b4b0). \"In this Manvantara, there are *dharmas* for the Kṛta, Tretā, and other *yugas*. All *dharmas* arose in the Kṛta *yuga*; all are lost in the Kali *yuga*.\"\n\n[^2]: Parāśara Smṛti, Chapter 1, [p-11656a](/works/unknown-parasara-smrti-2259be/01/translation/#p-11656a). \"The *dharmas* for men are different in the Kṛta *yuga*, the Tretā, and the Dvāpara *yuga*. They are different again in the Kali *yuga*, in accordance with the character of the age.\"\n\n[^3]: Parāśara Smṛti, Chapter 1, [p-afd7d9](/works/unknown-parasara-smrti-2259be/01/translation/#p-afd7d9). \"Austerity (*tapas*) is supreme in the Kṛta *yuga*; knowledge (*jñāna*) is said to be so in the Tretā. In the Dvāpara, they call it sacrifice (*yajña*); in the Kali *yuga*, only charity (*dāna*) is supreme.\"\n\n[^4]: Parāśara Smṛti, Chapter 1, [p-121575](/works/unknown-parasara-smrti-2259be/01/translation/#p-121575). \"In the Kṛta *yuga*, the *dharmas* are those of Manu; in the Tretā, those of Gautama are remembered. In the Dvāpara, they are those of Śaṅkha and Likhita; in the Kali *yuga*, those of Parāśara are remembered.\"",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma \"four feet\" age",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"four feet\" dharma yuga",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"highest dharma\" austerity knowledge sacrifice giving",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tapas\" knowledge sacrifice dana dharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma \"four\" pada OR legs OR feet yuga OR age",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" \"pada\" yuga tapas",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" \"four feet\" OR \"four legs\" OR \"fourfold\" OR catuṣpād OR \"one foot\" OR pada yuga OR age",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"loses\" dharma feet OR pada OR leg yuga",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma padaḥ kṛta treta dvapara kali",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "parasara"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" (foot OR feet OR leg OR legs OR pada OR padam OR pād) (one OR three OR four OR ekapād OR tripād OR catuṣpād OR caturpād)",
+        "limit": 20
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma (loses OR loss OR remain OR remains OR left) (foot OR feet OR leg OR pada) yuga OR age OR kṛta OR treta OR dvāpara OR kali",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-11656a",
+          "p-afd7d9",
+          "p-121575"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d9b4b0"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"four\" OR catu OR catur dharma pada OR foot OR feet OR leg OR legs yuga",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-d9b4b0"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-11656a"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-afd7d9"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-121575"
+    }
+  ],
+  "duration_ms": 57138,
+  "from_run": "grok-discovery-20260430"
+}

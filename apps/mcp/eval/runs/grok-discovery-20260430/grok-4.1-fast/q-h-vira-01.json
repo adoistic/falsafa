@@ -1,0 +1,90 @@
+{
+  "answer": "**The *Vīramitrodaya* (*Samayaprakāśa*, Chapter 1)** opens with this genealogy of its patron King Vīrasiṃha, beginning with Medinīmalla of the Sīkāśīrāja lineage.[^1]\n\n> There was, in the lineage of the Sīkāśīrāja, a universal sovereign over all the earth, an ornament to the circle of kings, like the moon in the ocean: the glorious Medinīmalla by name, a wrestler upon the earth with the weight of his mighty forces. He resembled the mighty Bhīma, gladdening the world by crushing the wicked and fulfilling the desires of supplicants, his fame as white as the brilliance of the serpent king Ādiśeṣa. // 7 //[^2]\n\nThe genealogy then proceeds from Medinīmalla to his son Arjuna,[^3] to his son Malakhāna,[^4] to his son Pratāparudra,[^5] and beyond.[^6]\n\n[^1]: Mitra Miśra, *Vīramitrodaya* (*Samayaprakāśa*), Chapter 1, [paragraph](/works/mitra-misra-viramitrodaya-d4b632/01/translation/#p-d24814).\n\n[^2]: Mitra Miśra, *Vīramitrodaya* (*Samayaprakāśa*), Chapter 1, [paragraph](/works/mitra-misra-viramitrodaya-d4b632/01/translation/#p-d24814).\n\n[^3]: Mitra Miśra, *Vīramitrodaya* (*Samayaprakāśa*), Chapter 1, [paragraph](/works/mitra-misra-viramitrodaya-d4b632/01/translation/#p-a96338).\n\n[^4]: Mitra Miśra, *Vīramitrodaya* (*Samayaprakāśa*), Chapter 1, [paragraph](/works/mitra-misra-viramitrodaya-d4b632/01/translation/#p-602e62).\n\n[^5]: Mitra Miśra, *Vīramitrodaya* (*Samayaprakāśa*), Chapter 1, [paragraph](/works/mitra-misra-viramitrodaya-d4b632/01/translation/#p-bbf6fa).\n\n[^6]: Mitra Miśra, *Vīramitrodaya* (*Samayaprakāśa*), Chapter 1, [paragraph](/works/mitra-misra-viramitrodaya-d4b632/01/translation/#p-804f59).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Medinīmalla",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sīkāśīrāja",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wrestler upon the earth\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"serpent king\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Pratāparudra",
+        "limit": 10
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-viramitrodaya-d4b632 (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"slug\":\"unknown-viramitrodaya-d4b632\",\"title\":\"Vīramitrodaya\",\"author\":\"Mitra Miśra\",\"author_slug\":\"mitra-misra\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-d24814"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-a96338"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-602e62"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-bbf6fa"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-804f59"
+    }
+  ],
+  "duration_ms": 52212,
+  "from_run": "grok-discovery-20260430"
+}

@@ -389,6 +389,7 @@
   display: grid;
   grid-template-columns:
     auto       /* id */
+    auto       /* tier */
     auto       /* cat */
     auto       /* diff */
     minmax(0, 1fr) /* prompt */
@@ -403,6 +404,27 @@
   border-bottom: 0;
   background: var(--paper);
   transition: background 0.12s ease;
+}
+
+/* Tier badge — small, uppercase, color-coded.
+   Hidden (discovery) is the headline tier so it gets the accent color;
+   named (citation) is the muted sub-claim. Both have help-cursor on hover
+   for the title-attr tooltip explaining the test. */
+.eval-case-tier {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  padding: 2px 6px;
+  border-radius: 3px;
+  cursor: help;
+  border: 1px solid currentColor;
+}
+.eval-case-tier--hidden {
+  color: var(--accent);
+}
+.eval-case-tier--named {
+  color: var(--ink-muted);
 }
 
 .eval-case-row:hover {
@@ -475,7 +497,8 @@
 
   .eval-case-row .eval-case-id { grid-area: meta; }
   .eval-case-row .eval-case-cat,
-  .eval-case-row .eval-case-diff { display: none; }
+  .eval-case-row .eval-case-diff,
+  .eval-case-row .eval-case-tier { display: none; }
   .eval-case-row .eval-case-prompt { grid-area: prompt; -webkit-line-clamp: 2; }
   .eval-case-row .eval-case-verdict-pill { grid-area: verdict; justify-self: end; }
   .eval-case-row .eval-case-arrow { grid-area: arrow; opacity: 1; }

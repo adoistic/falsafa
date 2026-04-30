@@ -1,0 +1,69 @@
+{
+  "answer": "**The anecdote appears in Charles Dunoyer's *Nouveau traité d'économie: VOL II* (English translation), Chapter 16 (\"VI. De la liberté de l'industrie manufacturière\").**[^1]\n\nDunoyer illustrates the warning there as follows:\n\n> If the lack of zeal, application, and care deprives manufacturing of much strength, the *lack of prudence* does it scarcely less harm. A manufacturer who ruins himself does not cause it damage only because he destroys a part of its means, but also because he is a bad example. Dissipators are perhaps less harmful to it than overly adventurous speculators. Both attack its resources; but the latter have the particular fault of discrediting it. Only a small number of imprudent and unfortunate trials are needed to decry a new industry which, wisely practiced, could have become very productive, and usefully attracted many hands and much capital to it. Thus the greatest enemies of the useful arts are not so much perhaps those who spend their fortune on festivities, on pleasures, as those who dissipate it in ill-conceived and ill-conceived enterprises, where, while pretending to encourage industry, they teach the industrious only the secret of ruining themselves. A great Russian lord, known for the liberality of his sentiments, asked one of our chemists to teach him how to distill potatoes; he ardently desired, he said, to excite by his example the inhabitants of his lands to devote themselves to this kind of fabrication: for the rest, he declared *that he wished to make no profit from it, and that he would even consent to lose a great deal on it*.  \n> \n> “God forbid,” replied the learned man, “that I should teach you an art in which you would consent to suffer losses; it is a poor service to industry to make such a use of one's means; the only enterprises whose example is favorable to it are those that are lucrative, and to form such ones, one must bring to them an attention and a prudence that one hardly takes the trouble to apply when one has neither the need, nor the desire to obtain profits.”[^1]\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [paragraphs](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/16-vi-de-la-liberte-de-lindustrie-manufacturiere/translation/#p-06b6eb).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "distill potatoes"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Russian lord\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"God forbid\" chemist"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-06b6eb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-06b6eb",
+          "p-dd47d2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 16,
+      "paragraph_id": "p-06b6eb"
+    }
+  ],
+  "duration_ms": 30812,
+  "from_run": "grok-discovery-20260430"
+}

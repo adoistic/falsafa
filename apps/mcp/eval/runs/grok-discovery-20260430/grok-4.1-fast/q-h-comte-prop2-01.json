@@ -1,0 +1,81 @@
+{
+  "answer": "**Charles Comte ridicules the doctrine that every invention is the natural property of its inventor in *Traité de la propriété: VOL II*, Chapter 29 (\"De la propriété des inventions ou des procédés industriels.\").**[^1][^2]\n\nHe traces it to absurd conclusions through reductio ad absurdum, first with footwear:\n\n> The first man who conceived and executed the idea of transforming a piece of wood into a pair of clogs, or an animal skin into a pair of sandals, acquired by this sole fact the exclusive right to shoe the human race. From that moment, all men found themselves under the obligation to walk barefoot, or to go and provide themselves with footwear from the fortunate inventor. If the discovery was made by an inhabitant of the boreal pole, the inhabitants of the austral pole could not, without injuring the rights of man and without violating the principles engraved in all hearts, permit themselves to wear clogs without having bought them from the other extremity of the globe.[^1]\n\nThen with agriculture:\n\n> It is no less evident to their eyes that the first man who, discovering a grain of wheat, took it into his head to deposit it in the bosom of the earth, to make it multiply, and to make bread, acquired the exclusive right to feed himself and to feed the human race with this new kind of food. From that moment, the peoples of all races, white, black, yellow, red, and swarthy, had to cross the seas and the mountains to go and provide themselves with bread from the inventor. Those who could not make the journey were obliged to continue eating snakes, rats, or frogs, or even to eat one another, to remain faithful to the rights of nature.[^2]\n\n[^1]: Charles Comte, *Traité de la propriété: VOL II*, [p-a18ebe](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-a18ebe).\n[^2]: Charles Comte, *Traité de la propriété: VOL II*, [p-8cebda](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-8cebda).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shoe the human race",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"austral pole\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"boreal pole\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"first cultivator of wheat\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"clogs\" OR \"sandals\" OR \"wheat\" OR \"snakes\" OR \"frogs\" OR \"austral\" OR \"boreal\" OR \"pole\"",
+        "limit": 20
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 29,
+        "paragraph_ids": [
+          "p-a18ebe",
+          "p-8cebda"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 29,
+      "paragraph_id": "p-a18ebe"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 29,
+      "paragraph_id": "p-8cebda"
+    }
+  ],
+  "duration_ms": 20406,
+  "from_run": "grok-discovery-20260430"
+}

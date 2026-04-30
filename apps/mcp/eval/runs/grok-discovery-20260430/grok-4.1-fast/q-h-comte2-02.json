@@ -1,0 +1,56 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation: VOL II*, Chapter 2 (\"Des limites mises par la nature au perfectionnement des facultés humaines\"), argues precisely this.**[^1]\n\nThe key line naming this new aristocracy is: \"...we see appear a kind of aristocracy of which we had no idea, **the aristocracy of species**.\"[^1]\n\n[^1]: Charles Comte, *Traité de Législation: VOL II*, [paragraph](/works/charles-comte-traite-de-legislation-vol-ii-20331d/02-des-limites-mises-par-la-nature-au-perfectionnemen/translation/#p-44e2ce).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "aristocracy of species",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-44e2ce"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-44e2ce"
+        ],
+        "paragraph_range": {
+          "start": 0,
+          "end": 5
+        }
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-legislation-vol-ii-20331d (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 2,
+      "paragraph_id": "p-44e2ce"
+    }
+  ],
+  "duration_ms": 15357,
+  "from_run": "grok-discovery-20260430"
+}

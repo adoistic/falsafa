@@ -1,0 +1,59 @@
+{
+  "answer": "**The work is *Juliana* by Cynewulf, Chapter 1.**[^1]\n\nThis Old English poem recounts the martyrdom of Saint Juliana of Nicomedia. The persecutor (Eleusius, prompted by a devil) orders an earthen (clay) vessel filled with lead and set atop a massive pyre—\"a bath boiled hot\"—into which the saint is thrown. The lead bursts open, killing exactly seventy-five heathens, while Juliana emerges unscathed: \"Not her veil nor her robe, / not her hair nor her skin was marked by the fire, / not her body nor limbs.\"\n\n> The fiend was not slow, who taught him to have  \n> an earthen vessel made with wondrous craft,  \n> and piled high with wood. Then the hard man commanded  \n> that the clay vessel be filled with lead,  \n> and ordered the greatest of pyres to be kindled,  \n> a bale-fire lit, surrounded on all sides  \n> with brands. The bath boiled hot. Then, swollen with anger,  \n> he ordered the faultless one to be shoved,  \n> guiltless, into the surging lead. The flame was split apart,  \n> the fire loosed. The lead sprang wide,  \n> hot and sword-greedy. The men were terrified,  \n> startled by the rush. There, in number, burned  \n> by the fire’s blast, **seventy-five**  \n> of the **heathen host**. Yet the holy one stood  \n> with her beauty unblemished. **Not her veil nor her robe**,  \n> **not her hair nor her skin** was marked by the fire,  \n> **not her body nor limbs**. She stood in the flame  \n> entirely sound, and gave thanks for it all  \n> to the Lord of lords.[^1]\n\n[^1]: Cynewulf, *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-3a01e6).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"earthen clay vessel\" OR \"clay vessel\" OR \"vessel filled with lead\" OR \"lead\" \"pyre\" OR \"bath boiled\" OR \"seventy-five\" OR \"75\" \"heathen\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"veil\" \"robe\" \"hair\" \"skin\" \"limbs\" \"fire\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heathen host\" OR \"lead\" \"bath\" OR \"pyre\" \"saint\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-3a01e6"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-3a01e6"
+    }
+  ],
+  "duration_ms": 21608,
+  "from_run": "grok-discovery-20260430"
+}

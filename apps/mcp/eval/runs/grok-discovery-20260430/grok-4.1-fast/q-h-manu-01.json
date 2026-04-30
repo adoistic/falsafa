@@ -1,0 +1,83 @@
+{
+  "answer": "**The work is *Manusmṛti* (also known as the *Laws of Manu*), Chapter 1.**\n\nThis chapter opens with a cosmogony matching your description precisely. The divine Self-Existent One (Svayambhu) creates waters, deposits his seed therein, which becomes a golden egg. He is reborn within it as Brahma, dwells a year, then splits it to form heaven and earth (among other things). Later in the same creation sequence, he produces the four *varnas* (social orders)—Brahmana, Kshatriya, Vaishya, and Shudra—from his mouth, arms, thighs, and feet.[^1][^2][^3][^4]\n\nHere are the verbatim verses (in translation):\n\n> That seed became a **golden egg**, in splendor like the thousand-rayed sun; in it he himself was born as Brahma, the great father of all the worlds. // Mn_1.9 //[^1]\n>\n> After dwelling in that **egg** for a full year, that divine Lord, by his own contemplation, **split the egg in two**. // Mn_1.12 //[^2]\n>\n> And with those two halves he formed the **heavens and the earth**, and between them the middle region, the eight directions, and the eternal abode of the waters. // Mn_1.13 //[^3]\n>\n> And for the sake of the prosperity of the worlds, he caused the **Brahmana, the Kshatriya, the Vaishya, and the Shudra** to emanate from his **mouth, arms, thighs, and feet**. // Mn_1.31 //[^4]\n\n[^1]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-153021).\n[^2]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-cd6713).\n[^3]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-3bd729).\n[^4]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "golden egg",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heaven\" \"earth\" mouth arms thighs feet",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"golden egg\" heaven earth",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-153021",
+          "p-13a2db"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"egg\" \"heaven\" \"earth\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-153021"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-cd6713"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-3bd729"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-13a2db"
+    }
+  ],
+  "duration_ms": 24531,
+  "from_run": "grok-discovery-20260430"
+}

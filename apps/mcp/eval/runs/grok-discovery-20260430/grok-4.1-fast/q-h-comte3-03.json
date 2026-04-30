@@ -1,0 +1,115 @@
+{
+  "answer": "This passage appears in Charles Comte's *Traité de Législation: VOL III*, Chapter 48 (\"De la supériorité des peuples d’espèce caucasienne sur les peuples des autres espèces. — Des causes\").[^1]\n\nThe requested Cicero/Virgil line reads: \"for the reason that they have produced no orator like Cicero, or no poet like Virgil\".[^2]\n\n[^1]: Charles Comte, *Traité de Législation: VOL III*, [Chapter 48](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/48-de-la-superiorite-des-peuples-d-espece-caucasienne/translation/).\n\n[^2]: Charles Comte, *Traité de Législation: VOL III*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/48-de-la-superiorite-des-peuples-d-espece-caucasienne/translation/#p-81116a).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Epictetus Phaedrus Terence",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"no genius\" slaves",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Jamaica\" \"Saint Lucia\" slaves",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Cicero\" \"Virgil\" \"United States\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Epictetus\" \"Terence\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Phaedrus\" Terence",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Jamaica\" slaves genius",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Saint Lucia\" OR \"St. Lucia\" slaves",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Cicero\" \"Virgil\" degenerate",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"orator like Cicero\" \"poet like Virgil\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 48,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.48 of charles-comte-traite-de-legislation-vol-iii-ca589a (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 48,
+        "paragraph_ids": [
+          "p-81116a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 48,
+      "paragraph_id": "p-81116a"
+    }
+  ],
+  "duration_ms": 28281,
+  "from_run": "grok-discovery-20260430"
+}

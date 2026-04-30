@@ -1,0 +1,97 @@
+{
+  "answer": "**Yama Smṛti, Chapter 1** contains the relevant declaration in verses 1.12–1.13 (YSS_1.12–1.13). These paired verses state that while individual sins have specific penances known to the wise, the convergence of all sins requires the extreme measure of adopting the skull-bowl (*kapāla*) and observing the Kāpālika vow, which is named by the wise as the ultimate penance (*paramaṃ kṛcchram*).\n\n> For each single sin that is committed, the wise know a penance; / but when all sins converge, no penance is known.[^1]  \n> When all sins converge, taking up the skull-bowl is prescribed; / that Kāpālika vow is considered its ultimate penance by the wise.[^2]\n\n[^1]: Yama Smṛti, [Chapter 1, ¶p-423161](/works/unknown-yama-smrti-552f8d/01/translation/#p-423161).\n[^2]: Yama Smṛti, [Chapter 1, ¶p-22899e](/works/unknown-yama-smrti-552f8d/01/translation/#p-22899e).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kāpālika vow",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"skull-bowl\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"convergence of all sins\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kāpālika",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yama-smrti-552f8d (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-22899e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-9016f4"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-423161",
+          "p-22899e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 1,
+      "paragraph_id": "p-423161"
+    },
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 1,
+      "paragraph_id": "p-22899e"
+    }
+  ],
+  "duration_ms": 23216,
+  "from_run": "grok-discovery-20260430"
+}

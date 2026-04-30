@@ -1,0 +1,222 @@
+{
+  "answer": "**This specific passage and mapping cannot be found in the Falsafa corpus.**\n\nI conducted extensive searches using distinctive phrases from the query (e.g., exact Sanskrit terms like \"jāgrat aśvamedha\", \"svapna vājapeya\", \"suṣupti puṇḍarīka\", \"tūrya rājasūya\"; English equivalents like \"waking\" \"dream\" \"sleep\" \"fourth\", \"horse sacrifice\", \"rajasuya\", \"pundarika\"; and \"revered son\" variations), as well as broader terms for the four states of consciousness and the four sacrifices. No results matched the exact four-to-four correspondence in the specified order, nor a guru-disciple structure with a \"revered son\" questioner followed by a verse and prose gloss.\n\nThe corpus contains 38 works (mostly Indic Smṛtis like *Manusmṛti*, poetry, and Western philosophy/political theory), but lacks major Upaniṣads or Vedānta texts where such esoteric mappings (common in later Advaita or Tantric traditions) might appear. Related terms like \"horse sacrifice\" appear in *Manusmṛti* Chapter 12, but without the consciousness states or full mapping.[^1] No chapters discuss all four states together.\n\n[^1]: *Manusmṛti*, [Chapter 12](/works/unknown-manusmrti-347b76/12/translation/#p-a772e4).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jāgrat aśvamedha",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "svapna vājapeya",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "suṣupti puṇḍarīka",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tūrya rājasūya",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"revered son\" sacrifice",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ashvamedha waking",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ashvamedha jagrat",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vajapeya dream",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pundarika sleep",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rajasuya turiya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ashvamedha\" \"vajapeya\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pundarika\" sacrifice",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "upanishad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "vedanta"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "vedas"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "veda"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"revered son\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dear son\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"noble son\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ashvamedha",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 38 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"waking\" \"dream\" \"sleep\" \"fourth\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"jagrat\" OR \"jāgrat\" \"svapna\" \"sushupti\" OR \"suṣupti\" \"turiya\" OR \"tūrya\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"horse sacrifice\" OR \"ashvamedha\" OR \"asvamedha\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rajasuya\" OR \"rajanya\" OR \"royal consecration\"",
+        "limit": 20
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vajapeya\" OR \"vaja\" \"peya\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pundarika\" OR \"pundarik\" OR \"lotus sacrifice\"",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-a772e4"
+    }
+  ],
+  "duration_ms": 55643,
+  "from_run": "grok-discovery-20260430"
+}

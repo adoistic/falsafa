@@ -1,0 +1,90 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation: VOL I* closes its first volume with this quotation from Dante's *Inferno* (III, 1–9) at the end of Chapter 21 (\"Of the action of the laws of morality, and of the obstacles that this action sometimes encounters in that of governments, in public institutions, or in popular errors\").**[^1]\n\nThe author prefaces the quote by stating that every person faces \"two careers: that of virtues and fine actions, and that of vices and crimes,\" and recommends placing \"at the entrance of the latter\" the inscription from hell to warn against vice.[^2] The full quotation follows immediately:\n\n> PER ME SI VA NELLA CITTA DOLENTE :  \n> PER ME SI VA NELL’ ETERNO DOLORE :  \n> PER ME SI VA TRA LA PERDUTA GENTE.  \n> GIUSTIZIA MOSSE ‘L MIO ALTO FATTORE.  \n> ……………………………………………….  \n> LASCIATE OGNI SPERANZA, VOI CH’ ENTRATE.[^1]\n\nThis marks the transition, as the text ends: \"#### END OF THE FIRST VOLUME.\"\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-c8e46f).\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-dbf447).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lasciate ogni speranza",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "per me si va nella città dolente",
+        "limit": 20
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"per me si va\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 21,
+        "paragraph_ids": [
+          "p-c8e46f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"slug\":\"charles-comte-traite-de-legislation-vol-i-7e62a2\",\"title\":\"Traité de Législation: VOL I\",\"author\":\"Charles Comte\",\"author_slug\":\"charles-comte\",\"era\":\"Enlightenment\",\"era_slug\":\"enlightenme"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 21,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.21 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 21,
+        "paragraph_ids": [
+          "p-c8e46f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 21,
+      "paragraph_id": "p-c8e46f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 21,
+      "paragraph_id": "p-dbf447"
+    }
+  ],
+  "duration_ms": 25464,
+  "from_run": "grok-discovery-20260430"
+}

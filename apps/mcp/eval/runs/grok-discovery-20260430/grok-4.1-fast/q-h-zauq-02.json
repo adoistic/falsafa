@@ -1,0 +1,83 @@
+{
+  "answer": "The ghazal is found in *Diwan-E-Zauq* by Sheikh Ibrahim Zauq, chapter 53 (\"baadam do jo bheje hain batwe mein daal kar\").[^1]\n\n**Matla (opening couplet):**  \n\"These almonds that you sent, a gift however small,  \nMy faith demands I give my eyes and answer to the call.\"[^2]\n\n**Potter's-wheel couplet:**  \n\"No perfect vessel from the wheel will form at all,  \nSo do not waste this heart-dust on the potter's call.\"[^3]\n\n[^1]: /works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/53-baadam-do-jo-bheje-hain-batwe-mein-daal-kar/translation/\n[^2]: /works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/53-baadam-do-jo-bheje-hain-batwe-mein-daal-kar/translation/#p-d86b48\n[^3]: /works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/53-baadam-do-jo-bheje-hain-batwe-mein-daal-kar/translation/#p-290709",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "almonds",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "two almonds",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart-dust\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "potter's wheel",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 53,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.53 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 53,
+        "paragraph_ids": [
+          "p-d86b48"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 53,
+        "paragraph_ids": [
+          "p-290709"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 53,
+      "paragraph_id": "p-d86b48"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 53,
+      "paragraph_id": "p-290709"
+    }
+  ],
+  "duration_ms": 21715,
+  "from_run": "grok-discovery-20260430"
+}

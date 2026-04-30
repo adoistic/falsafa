@@ -11,6 +11,7 @@
  */
 
 import { useEffect, useMemo, useState } from "preact/hooks";
+import { Fragment } from "preact";
 import type { JSX } from "preact";
 import type {
   EvalCase,
@@ -40,6 +41,12 @@ interface FilterState {
   categories: Set<string>;
   difficulties: Set<string>;
   passFilter: "all" | "pass" | "fail" | "unjudged";
+  /**
+   * Tier filter — "all" (both tiers), "named" (legacy 1k pool only) or
+   * "hidden" (discovery pool only). Distinct from the verdict filter above
+   * so reviewers can isolate the discovery score from citation precision.
+   */
+  tierFilter: "all" | "named" | "hidden";
   query: string;
 }
 
@@ -47,6 +54,7 @@ const EMPTY_FILTERS: FilterState = {
   categories: new Set(),
   difficulties: new Set(),
   passFilter: "all",
+  tierFilter: "all",
   query: "",
 };
 
@@ -164,6 +172,11 @@ function Loaded({
       ) {
         return false;
       }
+      if (filters.tierFilter !== "all") {
+        // Treat tier-missing cases as "named" (legacy artifacts predate the split).
+        const tier = c.tier ?? "named";
+        if (tier !== filters.tierFilter) return false;
+      }
       if (q && !c.prompt.toLowerCase().includes(q) && !c.id.toLowerCase().includes(q)) {
         return false;
       }
@@ -221,18 +234,58 @@ function Header({
         <span class="eval-header-label">cases</span>
       </div>
       {models.map((m) => {
+        // When both tiers are present, show two pills under one model name —
+        // the LABEL is the test (DISCOVERY / CITATION) so they don't read as
+        // two separate models. The model name is shown once as a row caption.
+        const hidden = (m.case_count_hidden ?? 0) > 0;
+        const named = (m.case_count_named ?? 0) > 0;
+        if (hidden && named) {
+          const totalH = m.case_count_hidden ?? 0;
+          const passH = m.pass_count_hidden ?? 0;
+          const pctH = totalH > 0 ? Math.round((passH / totalH) * 100) : null;
+          const totalN = m.case_count_named ?? 0;
+          const passN = m.pass_count_named ?? 0;
+          const pctN = totalN > 0 ? Math.round((passN / totalN) * 100) : null;
+          return (
+            <Fragment key={m.id}>
+              <div class="eval-header-stat eval-header-stat--hidden">
+                <span class="eval-header-num">
+                  {pctH === null ? "—" : `${pctH}%`}
+                </span>
+                <span class="eval-header-label">
+                  Discovery <span class="eval-header-frac">({passH}/{totalH})</span>
+                </span>
+                <span class="eval-header-caption">work hidden · {m.name}</span>
+              </div>
+              <div class="eval-header-stat eval-header-stat--named">
+                <span class="eval-header-num">
+                  {pctN === null ? "—" : `${pctN}%`}
+                </span>
+                <span class="eval-header-label">
+                  Citation <span class="eval-header-frac">({passN}/{totalN})</span>
+                </span>
+                <span class="eval-header-caption">work named · {m.name}</span>
+              </div>
+            </Fragment>
+          );
+        }
         const total = m.case_count ?? 0;
         const pass = m.pass_count ?? 0;
         const pct = total > 0 ? Math.round((pass / total) * 100) : null;
+        // Single-tier mode: lead with the test name, mention the model in caption.
+        const testName = hidden ? "Discovery" : "Citation";
+        const caption = hidden
+          ? `work hidden · ${m.name}`
+          : `${m.name} · mechanical-pass · judge layer pending`;
         return (
           <div class="eval-header-stat" key={m.id}>
             <span class="eval-header-num">
               {pct === null ? "—" : `${pct}%`}
             </span>
             <span class="eval-header-label">
-              {m.name} <span class="eval-header-frac">({pass}/{total})</span>
+              {testName} <span class="eval-header-frac">({pass}/{total})</span>
             </span>
-            <span class="eval-header-caption">mechanical-pass · judge layer pending</span>
+            <span class="eval-header-caption">{caption}</span>
           </div>
         );
       })}
@@ -275,6 +328,7 @@ function FilterBar({
       categories: new Set(),
       difficulties: new Set(),
       passFilter: "all",
+      tierFilter: "all",
       query: "",
     }));
   }
@@ -313,6 +367,32 @@ function FilterBar({
               }
             >
               {opt}
+            </button>
+          ))}
+        </div>
+        <div class="eval-filter-pass" role="radiogroup" aria-label="Tier">
+          {(["all", "hidden", "named"] as const).map((opt) => (
+            <button
+              type="button"
+              key={opt}
+              role="radio"
+              aria-checked={filters.tierFilter === opt}
+              class={
+                "eval-pill " +
+                (filters.tierFilter === opt ? "is-active" : "")
+              }
+              onClick={() =>
+                setFilters((p) => ({ ...p, tierFilter: opt }))
+              }
+              title={
+                opt === "hidden"
+                  ? "Discovery pool — work hidden"
+                  : opt === "named"
+                  ? "Legacy 1k pool — work named"
+                  : "Both tiers"
+              }
+            >
+              {opt === "hidden" ? "discovery" : opt === "named" ? "citation" : "all tiers"}
             </button>
           ))}
         </div>
@@ -421,6 +501,10 @@ function CaseRow({
   return (
     <a class="eval-case-row" href={`/eval/${c.id}/`}>
       <span class="eval-case-id">{c.id}</span>
+      <span class={"eval-case-tier eval-case-tier--" + (c.tier ?? "named")}
+            title={c.tier === "hidden" ? "Discovery — work hidden in prompt" : "Citation — work named in prompt"}>
+        {c.tier === "hidden" ? "discovery" : "citation"}
+      </span>
       <span class="eval-case-cat">{c.category}</span>
       <span class={"eval-case-diff diff-" + slugify(c.difficulty)}>
         {c.difficulty}
@@ -449,10 +533,14 @@ function readFiltersFromHash(): FilterState {
     passRaw === "pass" || passRaw === "fail" || passRaw === "unjudged"
       ? passRaw
       : "all";
+  const tierRaw = get("tier");
+  const tierFilter: FilterState["tierFilter"] =
+    tierRaw === "named" || tierRaw === "hidden" ? tierRaw : "all";
   return {
     categories: split(get("cat")),
     difficulties: split(get("diff")),
     passFilter,
+    tierFilter,
     query: get("q"),
   };
 }
@@ -463,6 +551,7 @@ function writeFiltersToHash(f: FilterState, _data: EvalJson): void {
   if (f.categories.size > 0) params.set("cat", [...f.categories].join(","));
   if (f.difficulties.size > 0) params.set("diff", [...f.difficulties].join(","));
   if (f.passFilter !== "all") params.set("pass", f.passFilter);
+  if (f.tierFilter !== "all") params.set("tier", f.tierFilter);
   if (f.query.trim()) params.set("q", f.query.trim());
   const next = params.toString();
   const target = next ? `#${next}` : "";

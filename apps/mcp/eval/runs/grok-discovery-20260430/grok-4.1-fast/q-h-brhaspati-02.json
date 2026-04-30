@@ -1,0 +1,152 @@
+{
+  "answer": "**The Bṛhaspati Smṛti (Bṛhaspati Smṛti), an ancient Sanskrit legal treatise attributed to the sage Bṛhaspati, contains this exact warning in its sole chapter (Chapter 1), specifically in the section on documents (marked as Brh_1,6.33).**[^1]\n\nThe passage cautions that a document with indistinct letters becomes equivalent to a forgery, then employs the requested simile: **\"Just as a reflection in a mirror, though unreal, appears as real, so skilled persons make copies of documents.\"** This immediately follows a note on how poor writing leads to forgery (Brh_1,6.32).[^2]\n\n[^1]: Bṛhaspati, *Bṛhaspati Smṛti*, [Chapter 1 (translation)](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c67c7e).\n\n[^2]: Bṛhaspati, *Bṛhaspati Smṛti*, [Chapter 1 (translation)](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c67c7e). The surrounding context discusses evidentiary documents (*lekhya*) and their validation in legal disputes, a core topic in Smṛti literature on dharma and law.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mirror reflection copy document forged",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mirror\" \"document\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"reflection\" \"mirror\" document",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"appears real\" unreal copy",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 11 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "law"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "legal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "ancient india"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mirror\" document"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"reflection\" document"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mirror",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "reflection",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"false\" document",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forged\" document"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "forgery document"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-c67c7e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"slug\":\"unknown-brhaspati-smrti-0fd070\",\"title\":\"Bṛhaspati Smṛti\",\"author\":\"Bṛhaspati\",\"author_slug\":\"brhaspati\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-c67c7e"
+    }
+  ],
+  "duration_ms": 38213,
+  "from_run": "grok-discovery-20260430"
+}

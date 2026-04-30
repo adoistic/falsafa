@@ -1,0 +1,80 @@
+{
+  "answer": "This scene occurs in Cynewulf's poem *Juliana*, Chapter 1 (the sole chapter), immediately following the saint's execution. The defeated heathen lord is Eleusius, the reeve of Nicomedia.[^1]\n\n> Then her soul was led from her body  \n> to the long-lasting joy, through the stroke of a sword.  \n> Then that sinner, the terrified Eleusius,  \n> with his troop of fiends, sought the sea-stream by ship,  \n> and tossed over the flood for a long while  \n> on the **swan’s road**. **Death took them all**,  \n> that host of men, and himself with them,  \n> before they had reached the land,  \n> through a terrible torment. **There thirty-four**  \n> **of that warrior-kin were deprived of their lives**  \n> **by the wave’s surge**, lowly with their lord,  \n> bereft of joy, without hope they sought hell.  \n> **Those thanes had no need to expect**, in that dark home,  \n> that company in the **deep abyss**, that their **treasure-giver**  \n> **would grant them rings in the wine-hall**,  \n> **apple-gold from the beer-bench**.[^1]\n\n[^1]: Cynewulf, *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-8ce9c2).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "swan's road",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"apple-gold\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"beer-bench\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "thirty-four"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"saint's beheading\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-5df281",
+          "p-8ce9c2",
+          "p-6228fe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-8ce9c2"
+    }
+  ],
+  "duration_ms": 26189,
+  "from_run": "grok-discovery-20260430"
+}

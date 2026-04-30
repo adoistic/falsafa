@@ -1,0 +1,141 @@
+{
+  "answer": "In Cynewulf's *Juliana*, Chapter 1, a bound demon—chained by Saint Juliana in her prison cell—is compelled by divine revelation to confess his career of corruption to her in a single speech. Here is the verbatim catalog of evils he enumerates (emphasis added to highlight the matching elements):[^1]\n\n> “...to give the King of all kings to his death.  \n> And I contrived it that the soldier began  \n> to wound the Lord, as the host looked on,  \n> so that blood and water, both together,  \n> sought the earth. **And I whispered to Herod’s heart  \n> that he command John to be beheaded,  \n> when that holy man rebuked his love for a woman,  \n> an unlawful marriage.** **I also taught Simon  \n> with cunning thoughts to contend against  \n> the chosen thanes of Christ, and he insulted  \n> those holy men with deep delusion,  \n> saying they were sorcerers.** **I drove Nero with snares,  \n> so that he ordered Christ’s thanes killed,  \n> Peter and Paul.** **Pilate before them  \n> had hung on a cross the Ruler of skies,  \n> the mighty Molder, by my teachings.**  \n> **Likewise I taught Aegeas that he, in his folly,  \n> should have the holy Andrew hung  \n> on a high beam,** so that from the gallows  \n> he sent forth his spirit into glory’s light.  \n> Thus I, with my brothers, have brought about  \n> many wicked evils, dark sins  \n> that I cannot tell, nor fully recount,  \n> nor know the number of my hard, hateful thoughts.”\n\n[^1]: Cynewulf, *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-da3fd4).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Herod behead John",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Herod's heart\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Nero\" \"Peter\" \"Paul\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Aegeas\" OR \"Aigeus\" Andrew"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"taught Simon\" sorcerers"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Herod\" John"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"behead\" OR \"beheaded\" John"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Nero Peter Paul"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Andrew\" \"Aegeas\" OR \"Aegaeas\" OR \"Aegeates\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Simon sorcerers Christ"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"demon\" OR \"devil\" confess OR confession"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"whispered\" OR \"heart\" Herod"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Simon\" sorcerers"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Nero Peter Paul demon"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-da3fd4"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-da3fd4"
+    }
+  ],
+  "duration_ms": 34503,
+  "from_run": "grok-discovery-20260430"
+}

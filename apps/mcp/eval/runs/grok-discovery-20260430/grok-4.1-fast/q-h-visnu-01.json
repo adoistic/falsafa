@@ -1,0 +1,147 @@
+{
+  "answer": "**Viṣṇu Smṛti (Vishnu Smriti), Chapter 1** opens with this exact narrative in its introductory verses.[^1]\n\nVishnu incarnates as a cosmic Boar to rescue the Earth from the waters of dissolution: \"Took on the auspicious form of the Boar... And lifted up the Earth.\"[^2] The Boar's form symbolically embodies the Vedic sacrifice, \"whose tusks were the sacrificial post... Whose tongue was the sacrificial fire.\"[^3]\n\nAfter recreating the world and vanishing to \"a destination then unknown to the worlds,\"[^4] the Earth (Vasudhā or Dhara) ponders her support: \"What will be my support now?\" She resolves to consult the sage Kashyapa.[^5]\n\nTaking \"the form of a woman,\" with \"lips auspicious and red like the Bandhujīva flower,\" she approaches him.[^6] Kashyapa directs her to Vishnu in the \"Ocean of Milk,\" where she finds him \"resting upon the couch of Śeṣa\" (the reclining god).[^7]\n\nThere, she asks again: \"Now, therefore, O Lord of gods, what will be my support?\" Vishnu replies that good people devoted to *varṇas* and *āśramas* will support her, then seats her \"on this excellent golden throne\" to expound the law (*dharma*): \"Be seated, O you of beautiful thighs, on this excellent golden throne. Seated comfortably, hear now the laws as I declare them to you.\"[^8]\n\n[^1]: *Viṣṇu Smṛti*, [Chapter 1](/works/unknown-visnu-smrti-27f0d8/01/translation/).\n\n[^2]: *Viṣṇu Smṛti* 1.2, [p-bb3692](/works/unknown-visnu-smrti-27f0d8/01/translation/#p-bb3692).\n\n[^3]: *Viṣṇu Smṛti* 1.3–5, [p-979e7a](/works/unknown-visnu-smrti-27f0d8/01/translation/#p-979e7a).\n\n[^4]: *Viṣṇu Smṛti* 1.18, [p-d6fb26](/works/unknown-visnu-smrti-27f0d8/01/translation/#p-d6fb26).\n\n[^5]: *Viṣṇu Smṛti* 1.19–20, [p-7b2100](/works/unknown-visnu-smrti-27f0d8/01/translation/#p-7b2100).\n\n[^6]: *Viṣṇu Smṛti* 1.21–22, [p-7965d8](/works/unknown-visnu-smrti-27f0d8/01/translation/#p-7965d8).\n\n[^7]: *Viṣṇu Smṛti* 1.31–33, 40, [p-2b042c](/works/unknown-visnu-smrti-27f0d8/01/translation/#p-2b042c).\n\n[^8]: *Viṣṇu Smṛti* 1.46, 64, [p-5eec19](/works/unknown-visnu-smrti-27f0d8/01/translation/#p-5eec19).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bandhujīva",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacrificial post\" boar",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ocean of Milk\" Kashyapa",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"what will be my support\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "boar earth Kashyapa",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"reclining god\" earth",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-979e7a",
+          "p-8a198a",
+          "p-8081a1",
+          "p-d6fb26",
+          "p-7b2100",
+          "p-491a37",
+          "p-4aab46",
+          "p-7965d8",
+          "p-ec5720",
+          "p-047820",
+          "p-2b042c",
+          "p-8c3edf",
+          "p-bcb2db",
+          "p-5eec19",
+          "p-398224"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 15 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 0,
+          "end": 20
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 21 passages"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"slug\":\"unknown-visnu-smrti-27f0d8\",\"title\":\"Viṣṇu Smṛti\",\"author\":\"Viṣṇu\",\"author_slug\":\"visnu\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Sanskrit\",\"la"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-bb3692"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-979e7a"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-d6fb26"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-7b2100"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-7965d8"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-2b042c"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 1,
+      "paragraph_id": "p-5eec19"
+    }
+  ],
+  "duration_ms": 44600,
+  "from_run": "grok-discovery-20260430"
+}

@@ -1,0 +1,74 @@
+{
+  "answer": "**The Vīramitrodaya (Samayaprakāśa), Chapter 1.**[^1][^2]\n\nThe author's colophon traces his Brahmin family to the Dūravāra lineage of Gopācala, beginning with the learned ancestor Haṃsa:\n\n> In the illustrious Dūravāra lineage, a crest-jewel of the glorious Gopācala, there was a lord of Brahmins renowned as the learned Haṃsa, descended from the glorious Haṃsa. Lakṣmī and Sarasvatī, free from conflict, long served him, their enjoyer, who was enriched by virtues that were equally pleasing to them both. // 40 //\n\nHaṃsa's son then traveled to Vārāṇasī (the city of the enemy of the cities) to study under the preceptor Caṇḍīśvara:\n\n> Having gone in ancient times to the city of the enemy of the cities (Vārāṇasī), he acquired flawless knowledge, obtaining the glorious Caṇḍīśvara, a jewel among Agnihotrins, as his weighty preceptor. That same pure knowledge, shining brightly and becoming stable through his great effort, how many fruits does it not produce even today in his lineage, like a wish-fulfilling vine? // 43 //\n\n[^1]: Mitra Miśra, *Vīramitrodaya (Samayaprakāśa)*, Chapter 1, [paragraph](/works/unknown-viramitrodaya-d4b632/01/translation/#p-28dc92).\n\n[^2]: Mitra Miśra, *Vīramitrodaya (Samayaprakāśa)*, Chapter 1, [paragraph](/works/unknown-viramitrodaya-d4b632/01/translation/#p-0321b3).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Dūravāra",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Gopācala",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Caṇḍīśvara",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"crest-jewel\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-viramitrodaya-d4b632 (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"slug\":\"unknown-viramitrodaya-d4b632\",\"title\":\"Vīramitrodaya\",\"author\":\"Mitra Miśra\",\"author_slug\":\"mitra-misra\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 11 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-28dc92"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-0321b3"
+    }
+  ],
+  "duration_ms": 47861,
+  "from_run": "grok-discovery-20260430"
+}

@@ -1,0 +1,181 @@
+{
+  "answer": "**The ghazal is in *Diwan-E-Zauq* by Sheikh Ibrahim Zauq, chapter 42 (\"Neemcha yaar ne jis waqt baghal mein maara\").**[^1]\n\nThis poem's **maqta** (closing signature couplet) self-deprecatingly concedes the poet's failure to attain Mir's style, despite rivals \"striking hard\" at the same ghazal in competition:  \n\"I could not match the grace of Mir, that master of the art;  \nThough Zauq, in this ghazal, with force was struck down from the start.\"[^2]\n\nThe **Saturn couplet** boasts:  \n\"The spiteful sky's eye never burst, for all my cries,  \nBut my sigh's arrow struck down Saturn in the skies.\"[^3]\n\n(The Qais/Farhad couplet appears earlier in the same ghazal: \"From the hand of great Love, not Qais nor Farhad could flee; One in the desert, one on the mountain, was struck down for all to see.\"[^4])\n\n[^1]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/42-neemcha-yaar-ne-jis-waqt-baghal-mein-maara/translation/).\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/42-neemcha-yaar-ne-jis-waqt-baghal-mein-maara/translation/#p-0fdb39).\n[^3]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/42-neemcha-yaar-ne-jis-waqt-baghal-mein-maara/translation/#p-cc12ee).\n[^4]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/42-neemcha-yaar-ne-jis-waqt-baghal-mein-maara/translation/#p-9f48fb).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "never attained Mir",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "struck Saturn's eye",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Qais\" Farhad",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sigh-arrow struck Saturn",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mir manner",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"attained\" Mir",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Saturn eye",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Qais Farhad",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sigh\" arrow Saturn",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"struck\" Saturn",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mir",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghazal",
+        "limit": 20
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 42,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.42 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 42,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.42 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 42,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.42 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 42,
+        "paragraph_ids": [
+          "p-0fdb39",
+          "p-cc12ee"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 42,
+      "paragraph_id": "p-0fdb39"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 42,
+      "paragraph_id": "p-cc12ee"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 42,
+      "paragraph_id": "p-9f48fb"
+    }
+  ],
+  "duration_ms": 44995,
+  "from_run": "grok-discovery-20260430"
+}

@@ -1,0 +1,130 @@
+{
+  "answer": "**Charles Comte attacks the practice of letting books fall into the public domain after a limited term in Chapter 32 (\"On the causes that have deprived literary compositions of the guarantees accorded to other properties\") of *Traité de la propriété: VOL II*.**[^1]\n\nHe argues that if the state compensates landowners whose property is taken for public works like canals, roads, or fortifications, it should similarly indemnify writers' heirs rather than treating them as \"legitimate prey.\" He closes the paragraph with the rhetorical question: **\"Would the labors of the writers who have enlightened the world, of Descartes, of Bacon, of Franklin, be less worthy of protection and respect than the labors of a candlemaker?\"**[^1]\n\n[^1]: Charles Comte, *Traité de la propriété: VOL II*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/32-des-causes-qui-ont-prive-les-compositions-litterai/translation/#p-e01757).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Descartes Bacon Franklin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "writers heirs legitimate prey",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "State canal road fortified indemnity",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "labors candlemaker",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "property"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Descartes\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bacon\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Franklin\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chandelier\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "candlemaker"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 32,
+        "paragraph_ids": [
+          "p-e01757"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 32,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.32 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 32,
+      "paragraph_id": "p-e01757"
+    }
+  ],
+  "duration_ms": 28614,
+  "from_run": "grok-discovery-20260430"
+}

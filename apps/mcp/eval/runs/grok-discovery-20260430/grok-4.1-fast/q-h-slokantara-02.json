@@ -1,0 +1,76 @@
+{
+  "answer": "**Slokantara (unknown author), Chapter 1, śloka 47.**\n\nThis verse argues that nothing is without a flaw—even natural beauties, celestial bodies, and gods themselves have defects—and therefore humans on earth are even more inevitably flawed.[^1]\n\n> *The lotus is full of thorns; the snowy mountain has its cold; the sandalwood tree is inhabited by serpents;*  \n> *The sun is fierce; the moon has a body stained by a hare; the ocean has salty water;*  \n> *Viṣṇu was a cowherd; Indra is exceedingly fickle; Śaṅkara has a blue throat;*  \n> *All these have flaws; how much more so will people on earth have flaws?* || 47 ||[^2]\n\nThe commentary glosses Śaṅkara's \"blue throat\" as resulting from the *kālakūṭa* poison.[^3]\n\n[^1]: Unknown, *Slokantara*, [Chapter 1](/works/unknown-slokantara-d7a628/01/translation/).\n[^2]: Unknown, *Slokantara*, [paragraph](/works/unknown-slokantara-d7a628/01/translation/#p-9647e1).\n[^3]: Unknown, *Slokantara*, [paragraph](/works/unknown-slokantara-d7a628/01/translation/#p-c5d550).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lotus thorns snowy mountain sandalwood serpents moon hare",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Viṣṇu cowherd Indra fickle Śaṅkara blue throat kālakūṭa",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"blue throat\" kālakūṭa",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-slokantara-d7a628 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-9647e1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-c5d550"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-9647e1"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-c5d550"
+    }
+  ],
+  "duration_ms": 20775,
+  "from_run": "grok-discovery-20260430"
+}

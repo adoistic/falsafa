@@ -1,0 +1,83 @@
+{
+  "answer": "**The work is *San Hyan Tattvajnana* (Unknown author), Chapter 1.**[^1]\n\nThe graded fourteen-step cosmic devolution is described as follows (quoted verbatim):\n\n> Now, remember again the form of the Divine *Ātmā*'s descent, a coarse and doubtful entity. The *Tripuruṣa*—the *Tripuruṣa* are Lord Brahmā, Viṣṇu, and Īśvara; they are the primordial *sattva* beings. If that primordial *sattva* is negligent and **lacking in yoga**, it becomes *Pañcaṛṣi*. ***Pañcaṛṣi***, if lacking in *yoga*, becomes *Saptaṛṣi*. ***Saptaṛṣi***, if lacking in *yoga*, becomes *Devaṛṣi*. ***Devaṛṣi***, if lacking in *yoga*, becomes *Devatā*. ***Devatā***, if lacking in *yoga*, becomes *Vidyādhara*. ***Vidyādhara***, if lacking in *yoga*, becomes *Gandharva*. ***Gandharva***, if lacking in *yoga*, becomes *Dānava*. ***Dānava***, if lacking in *yoga*, becomes *Daitya*. ***Daitya***, if lacking in *yoga*, becomes *Rākṣasa*. ***Rākṣasa***, if lacking in *yoga*, becomes *Bhūta Yakṣa*. ***Bhūta Yakṣa***, if lacking in *yoga*, becomes ***Bhūta Dĕṅĕn***. ***Bhūta Dĕṅĕn***, if lacking in *yoga*, becomes *Bhūta Kāla*. ***Bhūta Kāla***, if lacking in *yoga*, becomes *Bhūta Piśāca*. ***Bhūta Piśāca***, if lacking in *yoga*, becomes human.[^1]\n\nImmediately afterwards, the text classifies the five kinds of *triyak*:\n\n> A human, if lacking in *yoga*, becomes a being of the *triyak* realm. There are five kinds of *triyak*: as a domestic animal (*pāśu*) it is born in the village; as a wild beast (*mṛga*) it is born in the forest; as a bird (*pakṣī*) it is born everywhere that flies; as a fish (*mīna*) it is born in the water; ***pipīlikā*** is the name for a being that moves on its belly. **Its other names are not known**.[^1]\n\n[^1]: *San Hyan Tattvajnana*, [paragraph](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-357c74).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "belly-mover"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lacking in yoga\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bhūta Dĕṅĕn\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "triyak"
+      },
+      "result_summary": "Found 21 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Tripuruṣa becoming\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tripuruṣa"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Pañcaṛṣi"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-357c74"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-357c74"
+    }
+  ],
+  "duration_ms": 30099,
+  "from_run": "grok-discovery-20260430"
+}
