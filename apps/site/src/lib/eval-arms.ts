@@ -17,3 +17,22 @@ export function armOfModelId(modelId: string): Arm | null {
   if (modelId.endsWith("__wiki")) return "wiki";
   return null;
 }
+
+/**
+ * True when `data.models` contains both arms — drives 2-arm UI mode
+ * everywhere (header layout, case-row pill count, case detail tabs).
+ *
+ * Single canonical predicate: every component checks this; no other
+ * detection logic exists in the UI. See spec D3.
+ */
+export function isAbMode(models: { id: string }[]): boolean {
+  let hasBaseline = false;
+  let hasWiki = false;
+  for (const m of models) {
+    const arm = armOfModelId(m.id);
+    if (arm === "baseline") hasBaseline = true;
+    else if (arm === "wiki") hasWiki = true;
+    if (hasBaseline && hasWiki) return true;
+  }
+  return false;
+}
