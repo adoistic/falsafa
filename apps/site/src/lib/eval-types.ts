@@ -25,6 +25,19 @@ export interface EvalModelMeta {
   /** Pass / case counts for the hidden (discovery) pool only. */
   pass_count_hidden?: number;
   case_count_hidden?: number;
+  /**
+   * Aggregate token + cost across all results for this model. Only present
+   * when at least one result has usage data (newer runs after the
+   * 2026-04-30 token-tracking change).
+   */
+  total_prompt_tokens?: number;
+  total_completion_tokens?: number;
+  total_tokens?: number;
+  total_api_calls?: number;
+  /** Sum of cost_usd across results where it was computed. May be partial. */
+  total_cost_usd?: number;
+  /** How many of the model's results had usage data attached. */
+  cases_with_usage?: number;
 }
 
 export interface EvalToolCall {
@@ -50,6 +63,25 @@ export interface EvalJudge {
   judge_model: string;
 }
 
+/**
+ * Token + cost breakdown for a single (case, model) result.
+ *
+ * Sum across every OpenRouter API call the agent made for this question
+ * (initial → tool result → ... → final answer). cost_usd is computed at
+ * runtime from a static price table; null when the model wasn't priced.
+ *
+ * Older results (pre-token-tracking, captured before 2026-04-30) lack
+ * this field — consumers should treat `usage` as optional.
+ */
+export interface EvalCaseUsage {
+  prompt_tokens: number;
+  completion_tokens: number;
+  total_tokens: number;
+  api_calls: number;
+  cost_usd: number | null;
+  model: string;
+}
+
 export interface EvalCaseResult {
   answer: string;
   tool_calls: EvalToolCall[];
@@ -60,6 +92,8 @@ export interface EvalCaseResult {
   judge?: EvalJudge;
   /** Original run dir (e.g. "1k-orchestrated-200"). New in eval-redesign. */
   from_run: string;
+  /** Token + cost breakdown. Optional — older runs predate token tracking. */
+  usage?: EvalCaseUsage;
 }
 
 export interface EvalCase {

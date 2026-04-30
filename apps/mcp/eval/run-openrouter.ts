@@ -109,12 +109,70 @@ interface RecordedCitation {
   paragraph_id?: string;
 }
 
+/**
+ * One OpenRouter API call within a single question's tool-using loop.
+ *
+ *   trigger = "initial" — the first call (just system + user prompt)
+ *   trigger = "tool-result" — every subsequent call (we sent tool results back)
+ *
+ * `preceded_by` lists the tool names whose results fed the current prompt,
+ * letting us see which tools are token-expensive ("read_chapter cost 5K
+ * tokens" vs "search_corpus cost 800 tokens").
+ *
+ * `cost_usd` is OpenRouter's authoritative billed amount for THIS call,
+ * pulled directly from the response. Null only when OpenRouter omitted it.
+ */
+interface UsageStep {
+  /** 1-indexed: 1 = initial call, 2 = first tool-result round, etc. */
+  api_call_index: number;
+  trigger: "initial" | "tool-result";
+  preceded_by?: string[];
+  prompt_tokens: number;
+  completion_tokens: number;
+  total_tokens: number;
+  /** Tokens served from cache (4× cheaper than fresh prompt tokens). */
+  cached_tokens: number;
+  cost_usd: number | null;
+}
+
+interface CaseUsage {
+  /** Sum of prompt_tokens across every OpenRouter API call for this question. */
+  prompt_tokens: number;
+  /** Sum of completion_tokens. */
+  completion_tokens: number;
+  /** Sum of total_tokens. */
+  total_tokens: number;
+  /** Sum of cached prompt-tokens (the discount-eligible portion). */
+  cached_tokens: number;
+  /** Number of OpenRouter round-trips (initial + N tool-result iterations). */
+  api_calls: number;
+  /**
+   * Sum of OpenRouter's authoritative `cost` field across every call.
+   * Null when ANY call's response omitted cost — never fabricate or
+   * partially compute a total.
+   */
+  cost_usd: number | null;
+  /** Model id stamped per-result for future-proofing. */
+  model: string;
+  /**
+   * Per-step breakdown — every API call recorded individually so we can
+   * see which tool calls dominate token spend, and so the wiki-vs-no-wiki
+   * A/B can compare token budgets per tool category.
+   */
+  usage_per_call: UsageStep[];
+}
+
 interface CaseResult {
   answer: string;
   tool_calls: RecordedToolCall[];
   citations: RecordedCitation[];
   duration_ms: number;
   from_run: string;
+  /**
+   * Token + cost breakdown for this question. Sum across all OpenRouter API
+   * calls during the question's tool-using loop.
+   */
+  usage: CaseUsage;
   // Mechanical-pass left for build-eval-json to compute against expected_works.
 }
 
@@ -450,11 +508,39 @@ function executeTool(name: string, args: Record<string, unknown>): unknown {
 // OpenRouter chat completions
 // ─────────────────────────────────────────────────────────────────────────
 
+/**
+ * OpenRouter usage object as returned in chat-completions responses.
+ * Source: https://openrouter.ai/docs/guides/administration/usage-accounting
+ * (verified 2026-04-30).
+ *
+ * `cost` is in USD and is the authoritative billed amount. Do NOT compute
+ * it from prompt/completion × static prices — those go stale; OpenRouter's
+ * own number is what your account is charged.
+ */
+interface OpenRouterUsage {
+  prompt_tokens: number;
+  completion_tokens: number;
+  total_tokens: number;
+  cost?: number;
+  prompt_tokens_details?: {
+    cached_tokens?: number;
+    cache_write_tokens?: number;
+    audio_tokens?: number;
+  };
+  completion_tokens_details?: {
+    reasoning_tokens?: number;
+  };
+  cost_details?: {
+    upstream_inference_cost?: number;
+  };
+}
+
 interface OpenRouterResponse {
   choices: Array<{
     message: { content: string | null; tool_calls?: ToolCall[] };
     finish_reason: string;
   }>;
+  usage?: OpenRouterUsage;
   error?: { message: string; code?: number | string };
 }
 
@@ -479,6 +565,9 @@ async function callOpenRouter(
       tool_choice: "auto",
       // Reasonable token budget — Falsafa answers are typically <1000 tokens.
       max_tokens: 4096,
+      // Explicit usage accounting in the response. Some upstream models on
+      // OpenRouter omit usage by default; this opt-in nudges them on.
+      usage: { include: true },
     }),
   });
   if (!res.ok) {
@@ -507,8 +596,39 @@ async function runQuestion(
   ];
   const recordedCalls: RecordedToolCall[] = [];
 
+  // Token / cost accumulators across the question's API calls.
+  const stepsPerCall: UsageStep[] = [];
+  /** Tool names from the previous iteration's tool_calls; feeds preceded_by. */
+  let prevToolNames: string[] = [];
+
   for (let iter = 0; iter < MAX_TOOL_ITERATIONS; iter++) {
     const response = await callOpenRouter(apiKey, model, messages);
+    // Record per-step usage BEFORE we error out — partial data is still useful.
+    if (response.usage) {
+      const u = response.usage;
+      stepsPerCall.push({
+        api_call_index: iter + 1,
+        trigger: iter === 0 ? "initial" : "tool-result",
+        preceded_by: iter === 0 ? undefined : [...prevToolNames],
+        prompt_tokens: u.prompt_tokens ?? 0,
+        completion_tokens: u.completion_tokens ?? 0,
+        total_tokens: u.total_tokens ?? 0,
+        cached_tokens: u.prompt_tokens_details?.cached_tokens ?? 0,
+        cost_usd: typeof u.cost === "number" ? u.cost : null,
+      });
+    } else {
+      // No usage in response — record a placeholder so api_call_index stays accurate.
+      stepsPerCall.push({
+        api_call_index: iter + 1,
+        trigger: iter === 0 ? "initial" : "tool-result",
+        preceded_by: iter === 0 ? undefined : [...prevToolNames],
+        prompt_tokens: 0,
+        completion_tokens: 0,
+        total_tokens: 0,
+        cached_tokens: 0,
+        cost_usd: null,
+      });
+    }
     if (response.error) {
       throw new Error(`OpenRouter error: ${response.error.message}`);
     }
@@ -516,6 +636,7 @@ async function runQuestion(
     if (!choice) throw new Error("OpenRouter returned no choices");
 
     const message = choice.message;
+    prevToolNames = (message.tool_calls ?? []).map((c) => c.function.name);
     // Push the assistant's turn into the history exactly as it came back so
     // tool_call_id refs line up.
     messages.push({
@@ -556,6 +677,7 @@ async function runQuestion(
       citations: extractCitations(answer, recordedCalls),
       duration_ms: Date.now() - startedAt,
       from_run: runName,
+      usage: buildUsage(model, stepsPerCall),
     };
   }
 
@@ -568,6 +690,36 @@ async function runQuestion(
     citations: extractCitations((lastAssistant?.content ?? "").toString(), recordedCalls),
     duration_ms: Date.now() - startedAt,
     from_run: runName,
+    usage: buildUsage(model, stepsPerCall),
+  };
+}
+
+function buildUsage(model: string, steps: UsageStep[]): CaseUsage {
+  let pt = 0;
+  let ct = 0;
+  let tt = 0;
+  let cached = 0;
+  let costSum = 0;
+  let allHaveCost = true;
+  for (const s of steps) {
+    pt += s.prompt_tokens;
+    ct += s.completion_tokens;
+    tt += s.total_tokens;
+    cached += s.cached_tokens;
+    if (typeof s.cost_usd === "number") costSum += s.cost_usd;
+    else allHaveCost = false;
+  }
+  return {
+    prompt_tokens: pt,
+    completion_tokens: ct,
+    total_tokens: tt,
+    cached_tokens: cached,
+    api_calls: steps.length,
+    // Authoritative: sum of OpenRouter's per-call `cost` field. Null if any
+    // call omitted it — partial cost is misleading.
+    cost_usd: allHaveCost && steps.length > 0 ? costSum : null,
+    model,
+    usage_per_call: steps,
   };
 }
 
@@ -734,8 +886,13 @@ async function main(): Promise<void> {
         const tools = result.tool_calls.length;
         const cites = result.citations.length;
         const ans = result.answer.length;
+        const u = result.usage;
+        const cost =
+          u.cost_usd !== null && Number.isFinite(u.cost_usd)
+            ? `$${u.cost_usd.toFixed(4)}`
+            : "$?";
         console.log(
-          `  [done]  ${q.id} · ${sec}s · ${tools} tool calls · ${cites} citations · ${ans} chars`,
+          `  [done]  ${q.id} · ${sec}s · ${tools} tools · ${cites} cites · ${ans}c · ${u.prompt_tokens}i+${u.completion_tokens}o tok · ${cost}`,
         );
       } catch (err) {
         failed++;

@@ -71,6 +71,7 @@ interface RawResult {
   tool_calls?: ToolCall[];
   citations?: Citation[];
   duration_ms?: number;
+  usage?: ResultUsage;
 }
 
 interface RawJudge {
@@ -95,6 +96,22 @@ interface OutModel {
   /** Pass / case counts for the hidden (discovery) pool only. */
   pass_count_hidden?: number;
   case_count_hidden?: number;
+  /** Aggregate token + cost across this model's results (when usage present). */
+  total_prompt_tokens?: number;
+  total_completion_tokens?: number;
+  total_tokens?: number;
+  total_api_calls?: number;
+  total_cost_usd?: number;
+  cases_with_usage?: number;
+}
+
+interface ResultUsage {
+  prompt_tokens: number;
+  completion_tokens: number;
+  total_tokens: number;
+  api_calls: number;
+  cost_usd: number | null;
+  model: string;
 }
 
 interface OutCase extends CaseSeed {
@@ -127,6 +144,8 @@ interface OutResult {
    * unified under one model label.
    */
   from_run: string;
+  /** Token + cost breakdown. Optional — older runs predate token tracking. */
+  usage?: ResultUsage;
   /** Source file path, kept around for mtime-based merge tiebreaks. */
   _source_path?: string;
 }
@@ -454,6 +473,18 @@ function loadResults(run: ResolvedRun): Map<string, OutResult> {
       from_run: run.runDir,        // stamped here; merge in main may overwrite
       _source_path: sourcePath,
     };
+    if (raw.usage && typeof raw.usage === "object") {
+      const u = raw.usage;
+      // Preserve the shape verbatim (cost_usd may legitimately be null).
+      out.usage = {
+        prompt_tokens: typeof u.prompt_tokens === "number" ? u.prompt_tokens : 0,
+        completion_tokens: typeof u.completion_tokens === "number" ? u.completion_tokens : 0,
+        total_tokens: typeof u.total_tokens === "number" ? u.total_tokens : 0,
+        api_calls: typeof u.api_calls === "number" ? u.api_calls : 0,
+        cost_usd: typeof u.cost_usd === "number" ? u.cost_usd : null,
+        model: typeof u.model === "string" ? u.model : "",
+      };
+    }
     // Prefer the score file's per-case pass (matches /numbers headline).
     if (passById.has(id)) out.mechanical_pass = passById.get(id);
     if (run.judgeDir) {
@@ -577,6 +608,14 @@ function main() {
     let totalN = 0;
     let passH = 0;
     let totalH = 0;
+    // Token / cost accumulators
+    let totPromptTokens = 0;
+    let totCompletionTokens = 0;
+    let totTotalTokens = 0;
+    let totApiCalls = 0;
+    let totCostUsd = 0;
+    let costSeen = false;
+    let casesWithUsage = 0;
     for (const c of cases.values()) {
       const r = c.results[label];
       if (!r) continue;
@@ -591,8 +630,19 @@ function main() {
         totalN += 1;
         if (passed) passN += 1;
       }
+      if (r.usage) {
+        casesWithUsage += 1;
+        totPromptTokens += r.usage.prompt_tokens;
+        totCompletionTokens += r.usage.completion_tokens;
+        totTotalTokens += r.usage.total_tokens;
+        totApiCalls += r.usage.api_calls;
+        if (typeof r.usage.cost_usd === "number") {
+          totCostUsd += r.usage.cost_usd;
+          costSeen = true;
+        }
+      }
     }
-    models.push({
+    const m: OutModel = {
       id: label,
       name: humaniseModelLabel(label),
       label,
@@ -602,7 +652,16 @@ function main() {
       case_count_named: totalN > 0 ? totalN : undefined,
       pass_count_hidden: totalH > 0 ? passH : undefined,
       case_count_hidden: totalH > 0 ? totalH : undefined,
-    });
+    };
+    if (casesWithUsage > 0) {
+      m.cases_with_usage = casesWithUsage;
+      m.total_prompt_tokens = totPromptTokens;
+      m.total_completion_tokens = totCompletionTokens;
+      m.total_tokens = totTotalTokens;
+      m.total_api_calls = totApiCalls;
+      if (costSeen) m.total_cost_usd = totCostUsd;
+    }
+    models.push(m);
   }
 
   // Stable ordering: sort cases by id so diffs against previous builds
