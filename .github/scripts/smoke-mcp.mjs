@@ -25,6 +25,17 @@ proc.stdout.on("data", (chunk) => {
   }
 });
 
+// Surface server crashes faster than the waitFor timeout. If the server
+// exits before any response arrives, no waitFor will ever resolve;
+// without this handler, CI sees only "timeout waiting for id=1" which
+// hides the real cause (missing corpus, bad shebang, import error).
+proc.on("exit", (code, signal) => {
+  if (responses.length === 0 || !responses.find((r) => r.id === 3)) {
+    console.error(`FAIL: server exited early (code=${code}, signal=${signal}) before completing the handshake`);
+    process.exit(1);
+  }
+});
+
 // Poll-with-timeout helper — robust against cold Windows runners under load.
 const waitFor = (id, timeoutMs) => new Promise((resolve, reject) => {
   const start = Date.now();
@@ -93,4 +104,10 @@ if (!listWorksRes?.result?.content?.length) {
 }
 
 console.log(`PASS: ${tools.length} tools, ${listWorksRes.result.content.length} content blocks from list_works`);
-proc.kill();
+// Server is in stdio mode and would otherwise hang. Guard against the
+// fast-path race where the server has already exited cleanly between
+// the last waitFor resolving and reaching this line — calling kill()
+// on an already-dead process raises a benign but log-polluting warning.
+if (proc.exitCode === null && proc.signalCode === null) {
+  proc.kill();
+}
