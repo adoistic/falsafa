@@ -165,13 +165,18 @@ const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—"
     ) : abMode && baselineRender && !wikiRender ? (
       <Fragment>
         <nav class="eval-case-tabs" role="tablist" aria-label="A/B arm">
-          <a class="eval-case-tab eval-case-tab--baseline is-active" href="#case-baseline">Baseline</a>
+          <a class="eval-case-tab eval-case-tab--baseline is-active"
+             id="tab-baseline" href="#case-baseline"
+             role="tab" aria-controls="case-baseline">
+            Baseline
+          </a>
         </nav>
         <div class="eval-delta-strip">
           <EvalCaseDeltaRow arm="baseline" render={baselineRender} />
           <div class="eval-delta-row eval-delta-row--pending">Wiki: pending — run not complete</div>
         </div>
-        <section id="case-baseline" class="eval-case-arm eval-case-arm--baseline">
+        <section id="case-baseline" class="eval-case-arm eval-case-arm--baseline"
+                 role="tabpanel" aria-labelledby="tab-baseline">
           <EvalCaseArm c={c} render={baselineRender} arm="baseline" modelId={baselineId} />
         </section>
       </Fragment>
