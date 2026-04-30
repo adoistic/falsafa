@@ -84,8 +84,9 @@ describe("EvalExplorer — single-arm regression (IRON RULE, structural)", () =>
     // ["all", "pass", "fail", "unjudged"] inside a role="radiogroup".
     // The A/B redesign would replace that with comparison chips like
     // "Flips → pass" / "Both pass" / "Pending wiki". Pin the tuple.
-    expect(SOURCE).toMatch(/\["all",\s*"pass",\s*"fail",\s*"unjudged"\]/);
-    expect(SOURCE).toContain('role="radiogroup"');
+    expect(SOURCE).toMatch(
+      /role="radiogroup"\s+aria-label="Verdict"[\s\S]{0,200}\["all",\s*"pass",\s*"fail",\s*"unjudged"\]/
+    );
     expect(SOURCE).not.toContain("Flips → pass");
     expect(SOURCE).not.toContain("Both pass");
     expect(SOURCE).not.toContain("Pending wiki");
@@ -98,5 +99,7 @@ describe("EvalExplorer — single-arm regression (IRON RULE, structural)", () =>
     // (.eval-delta-strip). Pin their absence.
     expect(SOURCE).not.toContain("eval-scoreboard");
     expect(SOURCE).not.toContain("eval-delta-strip");
+    expect(SOURCE).not.toContain("eval-ab-pill");
+    expect(SOURCE).not.toContain("eval-case-row--ab");
   });
 });
