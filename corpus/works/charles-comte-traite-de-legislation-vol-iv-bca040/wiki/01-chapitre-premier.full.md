@@ -1,0 +1,58 @@
+---
+textrank_confidence: low
+---
+
+# Traité de Législation: VOL IV · ch.1
+prose · 17¶ · 3406w · vocab 799 (TTR 52%, hapax 63%)
+
+## Distinctive trigrams
+"exercise upon one" · "industry morals social" · "morals social state"
+
+## Key passage (TextRank #1)
+> [p-75e117] And let it not be imagined that, in reporting these irrefutable proofs of the immense progress peoples have made in the moral sciences, I am about to take them from the most ignorant nations, or from the most barbarous times. I take them, on the contrary, from one of the most enlightened peoples, and at an epoch not far from our own: it is in the debates that took place less than a year ago in England, within Parliament itself, or in the writings published around the same time by English planters or their friends. It is even remarkable that the society formed for the mitigation and gradual abolition of slavery did not think it prudent to demand the immediate cessation of this distinction between the men who call themselves proprietors and those who are called properties. Nevertheless, it met with very keen opposition; its adversaries considered its attempts to grant some legal protection to 800,000 human beings as attacks on justice. Things went much further in the colonies: there, the possessors of men considered any obstacle to violence and cruelty an unbearable tyranny; they saw, in the men who wished to extend legal guarantees to all, provocations to murder and brigandage; they treated as spoliation the obligation imposed on them not to ravish from the most numerous part of the population all the products of its labor. The other states of Europe are no more advanced than the British empire; one can even say they are much less so, for no one there thinks of erasing from the law the distinction between men who are ranked as things and men who are persons. The trade of abducting, buying, or selling men is, if not protected, at least weakly prosecuted: there would be less danger in introducing and selling, in some European colony, a cargo of men, women, and children of whom one had taken possession by violence, than in introducing and selling there certain goods that one had legitimately acquired from the owner [1].
+
+## Opens
+> [p-33176f] ## CHAP. 1: CHAPTER ONE.
+
+## Closes
+> [p-c064f7] One must never lose sight of the fact that in writing this work, I am concerned only with the masses, and that I do not have to expound facts that are merely individual exceptions to the general facts I describe. In speaking of the effects that slavery produces on the physical, intellectual, and moral faculties of the diverse classes of the population, I therefore have no need to speak of masters or slaves who, through particular and accidental circumstances, have escaped these effects. It is doubtless possible to encounter a skillful slave or one of a vigorous constitution, but this fact does not lead to the conclusion that slavery results in developing the industry or strengthening the physical organs of the enslaved population. One can also encounter, in a country of slaves, a small number of enlightened masters, without being able to conclude from this that the possession of arbitrary power over a part of the species is favorable to the development of the intellectual faculties. Finally, one can encounter, either among the slaves or among the masters, a man who has pure or even severe morals, without it resulting that slavery is favorable to good morals.
+
+## Nearest in corpus
+Traité de Législation: VOL IV ch.17 0.47 · Traité de Législation: VOL IV ch.15 0.41 · Traité de Législation: VOL IV ch.21 0.40
+
+## Original-language signature (french, top-3)
+"comment industrie mœurs" · "industrie mœurs état" · "mœurs état social"
+
+## Top-20 unigrams (TF-IDF against corpus background)
+one 0.024 · men 0.019 · slavery 0.015 · peoples 0.008 · state 0.008 · population 0.007 · among 0.007 · number 0.006 · persons 0.006 · things 0.006 · nations 0.006 · people 0.006 · nature 0.006 · only 0.006 · even 0.006 · upon 0.005 · effects 0.005 · enslaved 0.005 · themselves 0.005 · less 0.005
+
+## Top-20 bigrams (n-gram TF-IDF)
+"social state" 0.003 · "domestic slavery" 0.003 · "men persons" 0.003 · "enslaved population" 0.002 · "political slavery" 0.002 · "among masters" 0.002 · "small number" 0.002 · "legal guarantees" 0.002 · "men things" 0.002 · "human beings" 0.002 · "exercise upon" 0.001 · "upon one" 0.001 · "industry morals" 0.001 · "morals social" 0.001 · "people first" 0.001 · "produces physical" 0.001 · "physical intellectual" 0.001 · "intellectual moral" 0.001 · "moral faculties" 0.001 · "nature causes" 0.001
+
+## Top-20 trigrams (n-gram TF-IDF)
+"exercise upon one" 0.001 · "industry morals social" 0.001 · "morals social state" 0.001 · "produces physical intellectual" 0.001 · "physical intellectual moral" 0.001 · "intellectual moral faculties" 0.001 · "diverse classes population" 0.001 · "numerous part population" 0.001 · "enjoy legal guarantees" 0.001 · "legal guarantees men" 0.001 · "slavery still exists" 0.001 · "morals intelligence wealth" 0.001 · "intelligence wealth government" 0.001 · "chap chapter one" 0.001 · "chapter one importance" 0.001 · "one importance subject" 0.001 · "importance subject book" 0.001 · "subject book current" 0.001 · "book current state" 0.001 · "current state nations" 0.001
+
+## Strongest collocations (NPMI top-10)
+circumstances + faculties NPMI 1.00
+circumstances + industry NPMI 1.00
+circumstances + intellectual NPMI 1.00
+circumstances + physical NPMI 1.00
+faculties + industry NPMI 1.00
+faculties + intellectual NPMI 1.00
+faculties + physical NPMI 1.00
+industry + intellectual NPMI 1.00
+industry + physical NPMI 1.00
+intellectual + physical NPMI 1.00
+
+## Key passages (TextRank top-3, verbatim)
+> [p-75e117] And let it not be imagined that, in reporting these irrefutable proofs of the immense progress peoples have made in the moral sciences, I am about to take them from the most ignorant nations, or from the most barbarous times. I take them, on the contrary, from one of the most enlightened peoples, and at an epoch not far from our own: it is in the debates that took place less than a year ago in England, within Parliament itself, or in the writings published around the same time by English planters or their friends. It is even remarkable that the society formed for the mitigation and gradual abolition of slavery did not think it prudent to demand the immediate cessation of this distinction between the men who call themselves proprietors and those who are called properties. Nevertheless, it met with very keen opposition; its adversaries considered its attempts to grant some legal protection to 800,000 human beings as attacks on justice. Things went much further in the colonies: there, the possessors of men considered any obstacle to violence and cruelty an unbearable tyranny; they saw, in the men who wished to extend legal guarantees to all, provocations to murder and brigandage; they treated as spoliation the obligation imposed on them not to ravish from the most numerous part of the population all the products of its labor. The other states of Europe are no more advanced than the British empire; one can even say they are much less so, for no one there thinks of erasing from the law the distinction between men who are ranked as things and men who are persons. The trade of abducting, buying, or selling men is, if not protected, at least weakly prosecuted: there would be less danger in introducing and selling, in some European colony, a cargo of men, women, and children of whom one had taken possession by violence, than in introducing and selling there certain goods that one had legitimately acquired from the owner [1].
+> [p-0cd377] There exists, between political slavery and domestic slavery, a difference analogous to that which we observe between the territorial properties of a horde of barbarians and the territorial properties of a civilized people: in the first case, the national territory belongs to all in common; in the second, the shares are made, and each disposes of his own as he sees fit. Likewise, in political slavery, the enslaved people is exploited in common, and the products are shared among the masters, each having a share according to his rank; in domestic slavery, on the contrary, the enslaved population is divided into fractions among the masters, and each exploits his own and disposes of it as he deems suitable. These two states are capable of various modifications: if the chief of the possessors shares the products of the exploitation in an arbitrary manner, and if military power remains concentrated in his hands, as is practiced in Persia, Turkey, and other countries, this is called despotism; if, on the contrary, the masters share among themselves, according to their ranks and in a regular manner, the products of the subjugated people, this is called aristocracy. Despotism and aristocracy do not have the same intensity in all countries: the intervals that separate the aristocracies of Berne, of Great Britain, of the archipelagos of the great Ocean, and of the negroes of central Africa are very great. There can also be a great distance between despotism as it is exercised in the Turkish empire and that which is exercised in the Russian empire. Domestic slavery appears capable of fewer gradations than political slavery; however, we will see that it is also subject to great variations.
+> [p-4bd5ba] We have seen, in the preceding books, the action that men exercise upon one another individually or collectively, in the most barbarous state in which they have been found; we have observed them in their relations as husband and wife, parents and children, members of the same association, chiefs and subordinates; we have then considered them in the relations they have with one another from horde to horde or from nation to nation; we have seen how the industry, morals, and social state of each people are first determined by the local circumstances in the midst of which that people is placed; and how this industry, these morals, and this social state then determine the action that nations exercise upon one another; finally, we have seen the effects that this action produces on the physical, intellectual, and moral faculties of those who exercise it, and of those who are subject to it, on the creation and distribution of wealth, and on the increase or decrease of the population.
+
+## Cross-check (LexRank top-3, verbatim)
+> [p-33176f] ## CHAP. 1: CHAPTER ONE.
+> [p-f6dc5e] > On the importance of the subject of this book, in the current state of nations.
+> [p-4bd5ba] We have seen, in the preceding books, the action that men exercise upon one another individually or collectively, in the most barbarous state in which they have been found; we have observed them in their relations as husband and wife, parents and children, members of the same association, chiefs and subordinates; we have then considered them in the relations they have with one another from horde to horde or from nation to nation; we have seen how the industry, morals, and social state of each people are first determined by the local circumstances in the midst of which that people is placed; and how this industry, these morals, and this social state then determine the action that nations exercise upon one another; finally, we have seen the effects that this action produces on the physical, intellectual, and moral faculties of those who exercise it, and of those who are subject to it, on the creation and distribution of wealth, and on the increase or decrease of the population.
+
+## Stylometric outlier check
+Burrows' Delta vs work-mean: 0.81

@@ -1,0 +1,24 @@
+---
+textrank_confidence: low
+---
+
+# Traité de Législation: VOL I · ch.5
+prose · 51¶ · 8376w · vocab 1300 (TTR 34%, hapax 57%)
+
+## Distinctive trigrams
+"jurisconsults natural laws" · "human race subject" · "laws physical world"
+
+## Key passage (TextRank #1)
+> [p-6b78d0] I have said, and I am obliged to repeat, that men do not prosper under all conditions. There exist for them causes of prosperity and causes of decline, which constantly produce the same effects. These causes or these conditions being in the nature of things, we can call them *natural laws*, since the goods or the evils that result from them are infallible. From the fact that these laws are not known to us, or that it is possible for us to violate them, one must not conclude that they do not exist. It is with human actions as with all things that exist; they act independently of the knowledge we may have of their effects. A man who takes poison believing he is taking a remedy, or a remedy believing he is taking poison, will experience the action of what he has taken, as if he had acted in full knowledge of the cause. It is the same with him who gives himself over to a vicious or virtuous habit; these habits act upon him and upon the beings of his species, independently of the knowledge he may have of the effects they produce. Doubtless, men who know the laws to which human nature is subject can violate them like those who do not know them; but that does not prove their non-existence. There is no one who cannot commit some of the crimes that the laws punish; is that enough to contest the existence or the efficacy of these laws? Blackstone and Montesquieu, instead of vaguely citing the natural law as the basis of the obligation imposed on parents to raise their children, would have done better, no doubt, to make known the causes that determine parents to care for them; but it is precisely these causes that are the laws of our nature, since they exist independently of our will, and their effects are inevitable [26].It is not accurate to say that the most repressive laws must be made against the strongest natural inclinations, and that if there were a law of nature that directed all men toward their common good, laws would be useless. If that were true, laws would have to be made against the tendency that carries men toward their preservation and their prosperity. Men who make laws, if they are neither tyrants nor unsound minds, examine the way things happen in the world; they calculate the goods and evils that result from a certain way of being or acting, and if they see that, by the nature of things, a certain fact always produces baneful consequences, they signal it as harmful; and, so that no one may be tempted to perform it, they add a new penalty to the one that the fact might have produced for its author; they make the punishment stronger, or more regular, or more inevitable. If they find, on the contrary, that a certain fact produces more good than evil, they signal it again; they sometimes add a reward to the reward that nature itself had attached to it, or else they increase, for him who omits it, the evil that would have resulted for him from the omission. But the action that these men prescribe or prohibit is not favorable or baneful for the reason that it has pleased them to declare it so, and to reward or punish it; it is so by the consequences that result from it independently of their will. It is not the physician who causes a certain way of life to produce a certain illness, or a certain plant to cure a certain malady; his science is confined to showing what things are, and to demonstrating the connection of effects and causes. It is the same with the men who describe or make laws; they do not make actions good or bad; they make known what they are; they favor some and diminish the number of others. The only difference consists in the greater or lesser degree of authority.
+
+## Opens
+> [p-ed7762] ## CHAP. 5: > Of the laws to which men are subject by their own nature; of the systems of jurists on natural laws; of what must be understood by the word _right_; and of the difference that exists between _right_ and _power_ or _authority_.
+
+## Closes
+> [p-bb3d6a] Giving to the words *natural laws* the meaning we have attached to them, what is the most natural state for man? It is evidently that in which he prospers best, that in which all his moral, intellectual, and physical faculties develop with the most freedom. The state that is most against his nature is that in which he suffers most, that which presents to the perfection and growth of his species the most numerous and strongest obstacles.
+
+## Nearest in corpus
+Traité de Législation: VOL I ch.11 0.44 · Traité de Législation: VOL I ch.10 0.44 · Traité de Législation: VOL I ch.2 0.44
+
+## Original-language signature (french, top-3)
+"jurisconsultes lois naturelles" · "son état naturel" · "systèmes jurisconsultes lois"

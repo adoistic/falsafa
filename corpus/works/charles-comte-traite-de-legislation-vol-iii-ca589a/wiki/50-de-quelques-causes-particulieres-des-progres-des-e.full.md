@@ -1,0 +1,58 @@
+---
+textrank_confidence: low
+---
+
+# Traité de Législation: VOL III · ch.50
+prose · 12¶ · 2211w · vocab 479 (TTR 49%, hapax 61%)
+
+## Distinctive trigrams
+"intellectual development individual" · "peoples caucasian species" · "cape good hope"
+
+## Key passage (TextRank #1)
+> [p-0cce33] The development of the intellectual faculties exercises a very extensive influence on morals: this is a fact that I believe I have previously established. One must not believe, however, that to possess a certain number of good habits, or to be exempt from certain vices, it is necessary to have given one’s intelligence a very considerable development. If, taking as a whole the population of the most civilized country, the country where morals are the purest and intellects the most enlightened, one compares the intellectual development that each individual has received to the development of which he was susceptible, one will find that the greatest part of the intellectual forces with which each man was endowed perishes without any use having been made or being able to be made of it. There are few workers, peasants, or other men who are not susceptible of acquiring the knowledge possessed by most of the members of our academies, and who nevertheless die in the most profound ignorance: the intellectual development that each receives is perhaps not the hundredth part of that of which he is susceptible. It is impossible for it to be otherwise, since each is obliged, in order to live, to devote his time to executing a certain number of mechanical operations for which the most limited intelligence can suffice. Now, to know how two peoples who do not belong to the same species really differ, it is not enough to compare the intellectual development that each individual could acquire if he devoted all his time and all his forces to his instruction; one must above all compare the development that each has the means of actually acquiring, while devoting himself to the labors that his position requires. I will make myself better understood by using less general expressions.
+
+## Opens
+> [p-1a9dd8] ## CHAP. 50: > Of some particular causes of the progress of Europeans in the diverse parts of the world. — Of the moral improvement of the races whose intellectual faculties are supposed to be little susceptible of development. — Conclusion.
+
+## Closes
+> [p-1532fc] #### END OF THE THIRD VOLUME.
+
+## Nearest in corpus
+Traité de Législation: VOL III ch.47 0.64 · Traité de Législation: VOL III ch.48 0.50 · Traité de Législation: VOL II ch.2 0.44
+
+## Original-language signature (french, top-3)
+"développement intellectuel chaque" · "intellectuel chaque individu" · "peuples espèce caucasienne"
+
+## Top-20 unigrams (TF-IDF against corpus background)
+species 0.033 · one 0.024 · development 0.023 · nature 0.018 · intellectual 0.016 · peoples 0.016 · men 0.010 · certain 0.010 · made 0.009 · only 0.008 · exist 0.008 · morals 0.008 · capable 0.008 · progress 0.007 · position 0.007 · civilization 0.007 · faculties 0.006 · differences 0.006 · intelligence 0.006 · his 0.006
+
+## Top-20 bigrams (n-gram TF-IDF)
+"intellectual development" 0.006 · "intellectual faculties" 0.004 · "certain number" 0.004 · "diverse species" 0.004 · "differences exist" 0.004 · "development individual" 0.004 · "colored species" 0.003 · "caucasian species" 0.003 · "always remained" 0.003 · "new holland" 0.003 · "species men" 0.003 · "own nature" 0.003 · "degree civilization" 0.003 · "development receives" 0.003 · "development capable" 0.003 · "impossible determine" 0.003 · "nature inferior" 0.002 · "peoples caucasian" 0.002 · "immense progress" 0.002 · "cape good" 0.002
+
+## Top-20 trigrams (n-gram TF-IDF)
+"intellectual development individual" 0.004 · "peoples caucasian species" 0.002 · "cape good hope" 0.002 · "van diemen land" 0.002 · "faculties development capable" 0.002 · "differences exist diverse" 0.002 · "exist diverse species" 0.002 · "chap particular causes" 0.001 · "particular causes progress" 0.001 · "causes progress europeans" 0.001 · "progress europeans diverse" 0.001 · "europeans diverse parts" 0.001 · "diverse parts world" 0.001 · "parts world moral" 0.001 · "world moral improvement" 0.001 · "moral improvement races" 0.001 · "improvement races intellectual" 0.001 · "races intellectual faculties" 0.001 · "intellectual faculties supposed" 0.001 · "faculties supposed little" 0.001
+
+## Strongest collocations (NPMI top-10)
+advance + immense NPMI 1.00
+alongside + america NPMI 1.00
+alongside + cape NPMI 1.00
+alongside + colonists NPMI 1.00
+alongside + diemen NPMI 1.00
+alongside + english NPMI 1.00
+alongside + facts NPMI 1.00
+alongside + holland NPMI 1.00
+alongside + hope NPMI 1.00
+alongside + land NPMI 1.00
+
+## Key passages (TextRank top-3, verbatim)
+> [p-0cce33] The development of the intellectual faculties exercises a very extensive influence on morals: this is a fact that I believe I have previously established. One must not believe, however, that to possess a certain number of good habits, or to be exempt from certain vices, it is necessary to have given one’s intelligence a very considerable development. If, taking as a whole the population of the most civilized country, the country where morals are the purest and intellects the most enlightened, one compares the intellectual development that each individual has received to the development of which he was susceptible, one will find that the greatest part of the intellectual forces with which each man was endowed perishes without any use having been made or being able to be made of it. There are few workers, peasants, or other men who are not susceptible of acquiring the knowledge possessed by most of the members of our academies, and who nevertheless die in the most profound ignorance: the intellectual development that each receives is perhaps not the hundredth part of that of which he is susceptible. It is impossible for it to be otherwise, since each is obliged, in order to live, to devote his time to executing a certain number of mechanical operations for which the most limited intelligence can suffice. Now, to know how two peoples who do not belong to the same species really differ, it is not enough to compare the intellectual development that each individual could acquire if he devoted all his time and all his forces to his instruction; one must above all compare the development that each has the means of actually acquiring, while devoting himself to the labors that his position requires. I will make myself better understood by using less general expressions.
+> [p-782929] But there are facts more remarkable than the preceding ones by which it is proven that all the colored species are, by their nature, inferior to the peoples of the Caucasian species: these are the immense progress that these peoples have made in the same places where the others had always remained barbarous. The English colonists became a flourishing nation in North America, in the very place occupied by tribes of the copper-colored species who had never emerged from the savage state, and these tribes did not advance a single step alongside the Europeans. The Dutch colonists prospered at the Cape of Good Hope on the very spot where the Hottentots and Kaffirs had been able to rise only to the nomadic life. In New Holland and on Van Diemen's Land, men of the negro species had always remained in the most profound barbarism; since the English established themselves there, this country has been advancing toward prosperity at the most rapid pace. Are these not manifest proofs that, by their nature, the colored species are inferior to our own?
+> [p-6e36bb] In general, the progress a people makes is only in proportion to the improvements it makes to certain things: where nature is immutable, man himself cannot change much. Now, I will ask what improvements the English have made to the things they found on Van Diemen's Land and in New Holland, and by what means have they made these improvements? What are the plants they have multiplied or perfected there; the animals they have tamed and fashioned to domestic life? If, with all the aid of every kind that they have drawn from Europe, nothing that the country produces in plants or animals has been perfected, must one attribute to the nature of the natives the stationary state in which they had remained? And what I say of the natives of New Holland, I can say of those of the Cape of Good Hope and even of those of the American continent. For one species of men to have some reason to believe itself of a nature superior to another, it would have to have made more progress with the same means; which has not happened in the facts that are intended to serve as proofs. As for the stationary state or the decline of the natives of America alongside the European colonists, these are facts whose causes are too numerous and too complicated to expound here.
+
+## Cross-check (LexRank top-3, verbatim)
+> [p-1a9dd8] ## CHAP. 50: > Of some particular causes of the progress of Europeans in the diverse parts of the world. — Of the moral improvement of the races whose intellectual faculties are supposed to be little susceptible of development. — Conclusion.
+> [p-782929] But there are facts more remarkable than the preceding ones by which it is proven that all the colored species are, by their nature, inferior to the peoples of the Caucasian species: these are the immense progress that these peoples have made in the same places where the others had always remained barbarous. The English colonists became a flourishing nation in North America, in the very place occupied by tribes of the copper-colored species who had never emerged from the savage state, and these tribes did not advance a single step alongside the Europeans. The Dutch colonists prospered at the Cape of Good Hope on the very spot where the Hottentots and Kaffirs had been able to rise only to the nomadic life. In New Holland and on Van Diemen's Land, men of the negro species had always remained in the most profound barbarism; since the English established themselves there, this country has been advancing toward prosperity at the most rapid pace. Are these not manifest proofs that, by their nature, the colored species are inferior to our own?
+> [p-6e36bb] In general, the progress a people makes is only in proportion to the improvements it makes to certain things: where nature is immutable, man himself cannot change much. Now, I will ask what improvements the English have made to the things they found on Van Diemen's Land and in New Holland, and by what means have they made these improvements? What are the plants they have multiplied or perfected there; the animals they have tamed and fashioned to domestic life? If, with all the aid of every kind that they have drawn from Europe, nothing that the country produces in plants or animals has been perfected, must one attribute to the nature of the natives the stationary state in which they had remained? And what I say of the natives of New Holland, I can say of those of the Cape of Good Hope and even of those of the American continent. For one species of men to have some reason to believe itself of a nature superior to another, it would have to have made more progress with the same means; which has not happened in the facts that are intended to serve as proofs. As for the stationary state or the decline of the natives of America alongside the European colonists, these are facts whose causes are too numerous and too complicated to expound here.
+
+## Stylometric outlier check
+Burrows' Delta vs work-mean: 1.02
