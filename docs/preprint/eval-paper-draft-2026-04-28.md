@@ -12,8 +12,8 @@ date: 2026-04-28
 
 We describe the protocol and a small-N preliminary evaluation of
 Falsafa, an open-source Model Context Protocol (MCP) server that
-exposes a curated 38-work corpus of classical and philosophical texts
-(836 logical chapters, 2,089 variant entries across six languages)
+exposes a curated 37-work corpus of classical and philosophical texts
+(818 logical chapters, ~2,030 variant entries across six languages)
 as a tool surface for any host LLM. Twelve adversarial questions
 drawn from a calibrated 1,000-case pool were each answered by an
 independent fresh Claude Sonnet 4.6 sub-agent session in which only

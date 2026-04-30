@@ -93,9 +93,9 @@ expandable cards on mobile. The page reads like a printed essay you respect.
 
 ### Q4: V0 shape — narrow-deep or broad-shallow?
 
-**Answer (overridden by user mid-question):** All 38 works, fully detailed,
+**Answer (overridden by user mid-question):** All 37 works, fully detailed,
 fully polished. Not narrow-flagship-only. The user explicitly redirected:
-"do it on 38 works, you can sort of go through each of the works, absorb
+"do it on 37 works, you can sort of go through each of the works, absorb
 them, and then we can plan out how we will build the MCP and website."
 
 The website should look "absolutely brilliant" — bold, not minimalist.
@@ -193,7 +193,7 @@ states: native-English works (no translator), works translated by third
 parties (with their attribution). Thothica's translations are released
 as public goods on Falsafa, mirroring the Studio Whence relationship.
 
-**P6. All 38 works ship at once, fully polished, before launch.**
+**P6. All 37 works ship at once, fully polished, before launch.**
 Boil the lake. No public V0 with stub works. The launch moment is when
 every chapter is rendered with editorial typography, has its image, has
 working marginalia, and the MCP server is functional against the full
@@ -262,7 +262,7 @@ corpus.
   read in one sitting.
 - **Cons:** Hardest path to "absolutely brilliant" visuals — Eleventy's
   styling story is DIY, no opinionated component model, harder to keep
-  the editorial design coherent across all 38 works. Two languages adds
+  the editorial design coherent across all 37 works. Two languages adds
   contributor friction.
 - Effort: ~3 weekends but with significant front-end yak-shaving.
 
@@ -446,7 +446,7 @@ single npm package.
    chapters.
 
 **Verification:** `corpus/works/**/*.md | wc -l` ≥ 1,673; `manifest.json`
-parses; ≥ 38 work directories present.
+parses; ≥ 37 work directories present.
 
 ### Phase 2: MCP server (1 weekend)
 

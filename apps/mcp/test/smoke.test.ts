@@ -20,14 +20,14 @@ import {
 const corpus = new Corpus();
 
 describe("MCP smoke tests", () => {
-  test("corpus loads with 38 works", () => {
+  test("corpus loads with 37 works", () => {
     const w = corpus.works();
-    expect(w.length).toBe(38);
+    expect(w.length).toBe(37);
   });
 
-  test("list_works returns all 38 with no filter", () => {
+  test("list_works returns all 37 with no filter", () => {
     const r = list_works(corpus);
-    expect(r.count).toBe(38);
+    expect(r.count).toBe(37);
   });
 
   test("list_works filters by author", () => {

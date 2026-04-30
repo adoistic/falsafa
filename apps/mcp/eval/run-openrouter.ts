@@ -349,7 +349,7 @@ Approach:
 5. For "what work also covers this", use find_related.
 6. For side-by-side comparisons, use compare_works.
 
-If a question can't be answered from the corpus, say so honestly — don't invent. The corpus has 38 works currently; not every topic is covered.
+If a question can't be answered from the corpus, say so honestly — don't invent. The corpus has 37 works currently; not every topic is covered.
 
 # Citations
 

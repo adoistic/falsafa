@@ -9,7 +9,7 @@ and where, not implementation details.
 ## Affected Pages / Routes
 
 - `/` (home) — featured works render, navigation works on mobile + desktop
-- `/works/` — full catalog of 38 works, filter chips by era / language / genre
+- `/works/` — full catalog of 37 works, filter chips by era / language / genre
 - `/works/{author-slug}-{title-slug}-{uuid6}/` — work detail page, TOC visible, cover image visible
 - `/works/{author-slug}-{title-slug}-{uuid6}/{n}-{chapter-slug}/` — chapter reader page
 - `/authors/{author-slug}/` — author bio + their works

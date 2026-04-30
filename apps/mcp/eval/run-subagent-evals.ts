@@ -89,7 +89,7 @@ bun run apps/mcp/eval/mcp-cli.ts read_chapter '{"work_slug":"cynewulf-andreas-07
   \`auto_fallback\` field — the server retries long queries with the rarest tokens.
 - Each result has \`matched_tokens\` (count of fallback tokens that hit) and \`snippet\`.
   Compare these across results to pick the right work.
-- The corpus contains ~750 English chapters across 38 works. If a quote is in the corpus, it
+- The corpus contains ~820 English chapters across 37 works. If a quote is in the corpus, it
   IS findable with the right query.
 
 **Anti-hallucination**: the corpus contains specific works in specific languages. If a query

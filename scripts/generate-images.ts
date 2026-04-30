@@ -12,7 +12,7 @@
  * Every stage's I/O lives in cover.audit.json — fully reproducible.
  *
  * Usage:
- *   bun run images                      # full pipeline for all 38 works
+ *   bun run images                      # full pipeline for all 37 works
  *   bun run images --only <work_slug>   # restrict to one work
  *   bun run images --series <id>        # restrict to one series
  *   bun run images --force              # ignore cache, regenerate
