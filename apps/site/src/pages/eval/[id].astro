@@ -139,13 +139,22 @@ const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—"
 
     {abMode && baselineRender && wikiRender ? (
       <Fragment>
+        {/* aria-selected reflects the DEFAULT-LOAD state (Baseline). When
+            the user is on #case-wiki, the static markup is technically
+            wrong on aria-selected, but the CSS :target rule + visible
+            tab fill conveys the correct active state to sighted users.
+            A future iteration could add a tiny hashchange script to flip
+            the attribute if screen-reader fidelity becomes important —
+            tracked as a Chunk-7 follow-up. */}
         <nav class="eval-case-tabs" role="tablist" aria-label="A/B arm">
           <a class="eval-case-tab eval-case-tab--baseline" id="tab-baseline"
-             href="#case-baseline" role="tab" aria-controls="case-baseline">
+             href="#case-baseline" role="tab" aria-controls="case-baseline"
+             aria-selected="true">
             Baseline
           </a>
           <a class="eval-case-tab eval-case-tab--wiki" id="tab-wiki"
-             href="#case-wiki" role="tab" aria-controls="case-wiki">
+             href="#case-wiki" role="tab" aria-controls="case-wiki"
+             aria-selected="false">
             Wiki
           </a>
         </nav>
@@ -164,10 +173,14 @@ const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—"
       </Fragment>
     ) : abMode && baselineRender && !wikiRender ? (
       <Fragment>
+        {/* Partial-A/B branch: only the baseline run is finished. Single
+            tab reflects the only active state — aria-selected="true" is
+            correct here regardless of URL fragment. */}
         <nav class="eval-case-tabs" role="tablist" aria-label="A/B arm">
           <a class="eval-case-tab eval-case-tab--baseline is-active"
              id="tab-baseline" href="#case-baseline"
-             role="tab" aria-controls="case-baseline">
+             role="tab" aria-controls="case-baseline"
+             aria-selected="true">
             Baseline
           </a>
         </nav>
