@@ -6,7 +6,15 @@
 // ubuntu/macos/windows after the package is published.
 import { spawn } from "node:child_process";
 
-const proc = spawn("falsafa-mcp", [], { stdio: ["pipe", "pipe", "inherit"] });
+// On Windows, `npm install -g` creates both `falsafa-mcp` (sh wrapper) and
+// `falsafa-mcp.cmd` (batch wrapper). Bare `spawn("falsafa-mcp")` returns
+// ENOENT because Windows requires the extension OR a shell to resolve it.
+// `shell: true` only on Windows lets cmd.exe pick up the .cmd suffix; on
+// Unix we keep the direct spawn (cleaner, no shell-injection surface).
+const proc = spawn("falsafa-mcp", [], {
+  stdio: ["pipe", "pipe", "inherit"],
+  shell: process.platform === "win32",
+});
 
 const send = (req) => proc.stdin.write(JSON.stringify(req) + "\n");
 
