@@ -1,6 +1,6 @@
 {
   "name": "@falsafa/mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Open-source MCP server for the Falsafa corpus. Ten librarian-flavored tools (eight catalog tools plus read_wiki and read_wiki_full for the rule-based wiki layer) so any LLM (Claude, ChatGPT, Hermes via OpenRouter, etc.) can navigate the catalog without an API key.",
   "license": "MIT",
   "author": "Adnan Abbasi <adnan@thothica.com> (https://meetadnan.com)",
