@@ -211,22 +211,23 @@ Eleven artifacts on the launch list:
 |---|---|---|
 | 1 | Writeup | pending |
 | 2 | Repo (this) | ✅ |
-| 3 | `falsafa.ai/try` BYOK live demo | ✅ built (tabbed Install / BYOK redesign 2026-05-01); undeployed |
-| 4 | `falsafa.ai/eval` eval explorer | ✅ built with A/B comparison (baseline vs wiki); undeployed |
-| 5 | `falsafa.ai/thesis` why no vector DB | ✅ built with `#methodology` section + A/B benchmark chart; undeployed |
-| 6 | `falsafa.ai/numbers` by-the-numbers | ✅ built; undeployed |
+| 3 | `falsafa.ai/try` BYOK live demo | ✅ [live](https://www.falsafa.ai/try/) (tabbed Install / BYOK) |
+| 4 | `falsafa.ai/eval` eval explorer | ✅ [live](https://www.falsafa.ai/eval/) (A/B baseline vs wiki) |
+| 5 | `falsafa.ai/thesis` why no vector DB | ✅ [live](https://www.falsafa.ai/thesis/) (with `#methodology` + A/B benchmark) |
+| 6 | `falsafa.ai/numbers` by-the-numbers | ✅ [live](https://www.falsafa.ai/numbers/) |
 | 7 | `falsafa.ai/perseus` Perseus showcase | pending |
-| 8 | `npx @falsafa/mcp` published to npm | ✅ v0.1.0 live |
-| 9 | `falsafa.ai` deployed to Vercel | pending (Track 3) |
+| 8 | `npx @falsafa/mcp` published to npm | ✅ [v0.1.2 live on npm](https://www.npmjs.com/package/@falsafa/mcp) |
+| 9 | `falsafa.ai` deployed to Vercel | ✅ live; auto-deploys from `main` |
 | 10 | gstack Skill: `gstack skills install falsafa-methodology` | pending |
 | 11 | arXiv preprint | pending — gated on graded-score eval rework (`TODOS.md`) |
 | 12 | PR back to PerseusDL | pending |
 
 The corpus + MCP (Phase 1), BYOK demo at `/try` (Phase 2), and the
 eval explorer + thesis methodology + redesigned A/B benchmark chart
-(Phase 3) are all in. Remote MCP backend (claude.ai Connector +
-ChatGPT GPT) is gated on `/office-hours` then `/plan-eng-review`;
-see the entry at the top of `TODOS.md`.
+(Phase 3) are all in and deployed. Vercel auto-deploys every push to
+`main`. Remote MCP backend (claude.ai Connector + ChatGPT GPT) is
+gated on `/office-hours` then `/plan-eng-review`; see the entry at
+the top of `TODOS.md`.
 
 ## Run it locally
 
