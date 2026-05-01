@@ -32,7 +32,7 @@
     "test": "bun test",
     "eval": "bun run eval/run-evals.ts",
     "eval:case": "bun run eval/run-evals.ts",
-    "prepack": "node scripts/copy-corpus.mjs && bun build ./src/index.ts --target=node --outdir=./dist --format=esm"
+    "prepack": "node scripts/copy-corpus.mjs && npm run build"
   },
   "engines": {
     "node": ">=20"

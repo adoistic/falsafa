@@ -18,15 +18,14 @@ jobs:
           node-version: '20'
           registry-url: 'https://registry.npmjs.org'
       - run: bun install --frozen-lockfile
-      - name: Build + copy corpus (via prepack)
-        working-directory: apps/mcp
-        run: |
-          node scripts/copy-corpus.mjs
-          bun build ./src/index.ts --target=node --outdir=./dist --format=esm
       - name: Sanity check tarball
+        # `npm pack --dry-run` invokes the package's `prepack` lifecycle
+        # script, which runs scripts/copy-corpus.mjs + npm run build.
+        # No need to duplicate those steps explicitly.
         working-directory: apps/mcp
         run: npm pack --dry-run
       - name: Publish
+        # `npm publish` re-invokes `prepack` automatically.
         working-directory: apps/mcp
         run: npm publish --provenance --access public
         env:
