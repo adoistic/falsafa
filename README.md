@@ -17,10 +17,18 @@ the MCP is a librarian, not a second LLM. Your model does the reasoning.
 
 ## Install in your daily LLM (30 seconds)
 
-### Claude Desktop / Claude Code
+### Claude Code
 
-Add to `~/Library/Application Support/Claude/claude_desktop_config.json`
-(or run `claude mcp add falsafa npx -y @falsafa/mcp`):
+```bash
+claude mcp add falsafa npx -y @falsafa/mcp
+```
+
+That's it. Any `claude` session now has the Falsafa tools available.
+
+### Claude Desktop
+
+Edit `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS)
+or `%APPDATA%\Claude\claude_desktop_config.json` (Windows):
 
 ```json
 {
@@ -30,17 +38,23 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json`
 }
 ```
 
-Restart. The Falsafa tools show up in the tool list. Ask "what works does
-Cynewulf have?" and the model calls `list_works({ author: "cynewulf" })`.
+Restart Claude Desktop. The Falsafa tools show up in the tool palette. Ask
+"what works does Cynewulf have?" and the model calls `list_works({ author: "cynewulf" })`.
 
-### Cursor / Codex / any stdio MCP client
+### Cursor
+
+Settings → **MCP** → *Add new global MCP server*, paste the same `mcpServers`
+JSON above. Or edit `~/.cursor/mcp.json` directly.
+
+### Codex CLI
 
 ```bash
-npx -y @falsafa/mcp
+codex mcp add falsafa -- npx -y @falsafa/mcp
 ```
 
-Point your client at that command. See `apps/mcp/README.md` for the full
-tool reference and example interactions.
+Persists in `~/.codex/config.toml`. The `--` separator is required.
+
+See `apps/mcp/README.md` for the full tool reference and example interactions.
 
 ## What's in the corpus
 

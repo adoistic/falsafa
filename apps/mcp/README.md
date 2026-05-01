@@ -38,13 +38,37 @@ Restart Claude Desktop. The Falsafa tools show up in the tool palette. Ask
 claude mcp add falsafa npx -y @falsafa/mcp
 ```
 
-### Cursor / Codex / any stdio MCP client
+### Cursor
 
-Point your client at the command:
+Settings → **MCP** → *Add new global MCP server*, paste:
+
+```json
+{
+  "mcpServers": {
+    "falsafa": { "command": "npx", "args": ["-y", "@falsafa/mcp"] }
+  }
+}
+```
+
+Or edit `~/.cursor/mcp.json` directly with the same shape.
+
+### Codex CLI
 
 ```bash
-npx -y @falsafa/mcp
+codex mcp add falsafa -- npx -y @falsafa/mcp
 ```
+
+Persists in `~/.codex/config.toml`. The `--` separator is required.
+
+### Any other stdio MCP client
+
+The universal config shape is:
+
+```json
+{ "command": "npx", "args": ["-y", "@falsafa/mcp"] }
+```
+
+Drop that wherever your client expects an MCP server entry.
 
 ## Tools
 

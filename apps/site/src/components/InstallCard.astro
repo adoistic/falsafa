@@ -41,15 +41,19 @@
     </div>
 
     <div class="install-panel" id="cursor" role="tabpanel" aria-labelledby="tab-cursor" hidden data-pagefind-ignore>
-      <p class="install-step">In a terminal:</p>
-      <pre class="install-snippet"><code>npx -y @falsafa/mcp</code></pre>
-      <p class="install-help">Then point Cursor's MCP settings at that command.</p>
+      <p class="install-step">Cursor Settings → <strong>MCP</strong> → <em>Add new global MCP server</em>, paste:</p>
+      <pre class="install-snippet"><code>{`{
+  "mcpServers": {
+    "falsafa": { "command": "npx", "args": ["-y", "@falsafa/mcp"] }
+  }
+}`}</code></pre>
+      <p class="install-help">Or edit <code>~/.cursor/mcp.json</code> directly with the same shape.</p>
     </div>
 
     <div class="install-panel" id="codex" role="tabpanel" aria-labelledby="tab-codex" hidden data-pagefind-ignore>
       <p class="install-step">In a terminal:</p>
-      <pre class="install-snippet"><code>npx -y @falsafa/mcp</code></pre>
-      <p class="install-help">Codex picks up stdio MCPs automatically once the binary is on PATH.</p>
+      <pre class="install-snippet"><code>codex mcp add falsafa -- npx -y @falsafa/mcp</code></pre>
+      <p class="install-help">Persists in <code>~/.codex/config.toml</code>. The <code>--</code> separator is required.</p>
     </div>
   </div>
 
