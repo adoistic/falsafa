@@ -14,6 +14,9 @@
  *   Other:          point any stdio MCP client at `npx -y @falsafa/mcp`
  */
 
+import { readFileSync } from "node:fs";
+import { dirname, resolve } from "node:path";
+import { fileURLToPath } from "node:url";
 import { Server } from "@modelcontextprotocol/sdk/server/index.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import {
@@ -22,6 +25,13 @@ import {
   type CallToolRequest,
 } from "@modelcontextprotocol/sdk/types.js";
 import { Corpus, MCPError } from "./corpus.ts";
+
+// Read version from package.json so the MCP `initialize` handshake reports
+// the same version that npm shows. `import.meta.url` resolves the same way
+// whether running from src/ (dev) or dist/ (post-build, post-install) — both
+// are siblings of package.json under the apps/mcp/ (or installed) directory.
+const pkgPath = resolve(dirname(fileURLToPath(import.meta.url)), "..", "package.json");
+const pkg = JSON.parse(readFileSync(pkgPath, "utf8")) as { version: string };
 import {
   list_works,
   list_chapters,
@@ -46,7 +56,7 @@ console.error(`[falsafa-mcp] corpus loaded: ${works.length} works from ${corpus.
 const server = new Server(
   {
     name: "falsafa",
-    version: "0.0.1",
+    version: pkg.version,
   },
   {
     capabilities: {
