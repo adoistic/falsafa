@@ -4,7 +4,7 @@ A reading site and an open-source MCP server over the same translated corpus
 of philosophical and classical texts. Built by [Adnan](https://meetadnan.com).
 Free, public, MIT.
 
-The fastest way in (once `@falsafa/mcp` ships to npm — see [Status](#status)):
+The fastest way in:
 
 ```bash
 npx -y @falsafa/mcp
@@ -14,8 +14,6 @@ That's the librarian. Ten tools (list, read, search, cite, compare, plus
 the rule-based wiki layer — `read_wiki` and `read_wiki_full`),
 zero API keys, zero state, zero inference cost on our side. Karpathy-flavored:
 the MCP is a librarian, not a second LLM. Your model does the reasoning.
-
-Until the npm publish lands, run the MCP from source: `cd apps/mcp && bun run dev`.
 
 ## Install in your daily LLM (30 seconds)
 
@@ -200,7 +198,7 @@ Eleven artifacts on the launch list:
 | 5 | `falsafa.ai/thesis` why no vector DB | ✅ built with `#methodology` section + A/B benchmark chart; undeployed |
 | 6 | `falsafa.ai/numbers` by-the-numbers | ✅ built; undeployed |
 | 7 | `falsafa.ai/perseus` Perseus showcase | pending |
-| 8 | `npx @falsafa/mcp` published to npm | pending (Track 2 of post-redesign work) |
+| 8 | `npx @falsafa/mcp` published to npm | ✅ v0.1.0 live |
 | 9 | `falsafa.ai` deployed to Vercel | pending (Track 3) |
 | 10 | gstack Skill: `gstack skills install falsafa-methodology` | pending |
 | 11 | arXiv preprint | pending — gated on graded-score eval rework (`TODOS.md`) |
