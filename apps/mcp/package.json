@@ -32,7 +32,8 @@
     "test": "bun test",
     "eval": "bun run eval/run-evals.ts",
     "eval:case": "bun run eval/run-evals.ts",
-    "prepack": "node scripts/copy-corpus.mjs && npm run build"
+    "prepack": "node scripts/copy-corpus.mjs && npm run build",
+    "prepublishOnly": "node scripts/check-license-drift.mjs"
   },
   "engines": {
     "node": ">=20"
