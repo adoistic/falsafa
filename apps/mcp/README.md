@@ -14,6 +14,11 @@ package's `prepack` hook, which depends on the source tree's `corpus/`
 directory and `bun`. Registry installs ship the corpus pre-bundled in the
 tarball.
 
+> **First run downloads ~48 MB** (the corpus ships inside the tarball). If
+> your MCP client's startup timeout is short — Claude Code in particular —
+> run `npx -y @falsafa/mcp` once in a terminal first. npm caches the
+> package, and your client's spawn resolves instantly thereafter.
+
 ## Install in your daily LLM
 
 ### Claude Desktop
