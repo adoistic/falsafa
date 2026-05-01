@@ -2,10 +2,16 @@
 /**
  * Falsafa MCP server — stdio transport.
  *
- * Eight librarian-flavored tools so any LLM can navigate the corpus.
- * Run via:  npx @falsafa/mcp
- * Or in Claude Desktop config:
- *   { "mcpServers": { "falsafa": { "command": "npx", "args": ["@falsafa/mcp"] } } }
+ * Ten librarian-flavored tools so any LLM can navigate the corpus
+ * (eight catalog tools plus read_wiki + read_wiki_full).
+ *
+ * Install (canonical, one per client):
+ *   Claude Code:    claude mcp add falsafa npx -y @falsafa/mcp
+ *   Claude Desktop: edit ~/Library/Application Support/Claude/claude_desktop_config.json
+ *                     { "mcpServers": { "falsafa": { "command": "npx", "args": ["-y", "@falsafa/mcp"] } } }
+ *   Cursor:         Settings → MCP → Add new global MCP server (same JSON)
+ *   Codex CLI:      codex mcp add falsafa -- npx -y @falsafa/mcp
+ *   Other:          point any stdio MCP client at `npx -y @falsafa/mcp`
  */
 
 import { Server } from "@modelcontextprotocol/sdk/server/index.js";
