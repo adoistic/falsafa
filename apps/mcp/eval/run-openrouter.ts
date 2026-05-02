@@ -892,36 +892,51 @@ export function extractParagraphIdsFromToolResult(
 }
 
 /**
- * Extract paragraph_id citations from the answer text. Pairs each
- * `p-XXXXXX` token with the most-recent (work_slug, chapter_number)
- * the model fetched via read_chapter / get_passage. Imperfect for
- * answers that interleave many works, but adequate for the eval.
+ * Extract paragraph_id citations from the answer text. For each [p-xxxxxx]
+ * token, look up which tool call actually returned that paragraph_id (via
+ * the call's returned_paragraph_ids field), and attribute the citation to
+ * that call's (work_slug, chapter_number).
+ *
+ * Falls back to work_slug="" for paragraph_ids no tool call returned (the
+ * model hallucinated the id, or the trace is incomplete). The strict-pass
+ * scorer treats work_slug="" citations as broken/non-expected.
+ *
+ * Replaces the old "last-context-wins" heuristic which misattributed every
+ * citation on multi-work questions.
  */
 export function extractCitations(
   answer: string,
   toolCalls: ReadonlyArray<RecordedToolCall>,
 ): RecordedCitation[] {
-  const tokens = Array.from(answer.matchAll(/\bp-[0-9a-f]{6}\b/g)).map((m) => m[0]);
+  const tokens = Array.from(new Set(
+    Array.from(answer.matchAll(/\bp-[0-9a-f]{6}\b/g)).map((m) => m[0]),
+  ));
   if (tokens.length === 0) return [];
-  // Default work/chapter context = the last read_chapter / get_passage call.
-  let lastWork: string | undefined;
-  let lastChapter: number | undefined;
+
+  // Build a lookup: paragraph_id → (work_slug, chapter_number) from the
+  // first tool call that returned it. (If multiple calls returned the same
+  // id — rare but possible if the model re-fetches — first wins.)
+  const provenance = new Map<string, { work_slug: string; chapter_number: number | undefined }>();
   for (const tc of toolCalls) {
+    if (!tc.returned_paragraph_ids) continue;
     const a = tc.args as Record<string, unknown>;
-    if (tc.name === "read_chapter" || tc.name === "get_passage") {
-      if (typeof a.work_slug === "string") lastWork = a.work_slug;
-      if (typeof a.chapter_number === "number") lastChapter = a.chapter_number;
+    const work_slug = typeof a.work_slug === "string" ? a.work_slug : "";
+    const chapter_number = typeof a.chapter_number === "number" ? a.chapter_number : undefined;
+    for (const pid of tc.returned_paragraph_ids) {
+      if (!provenance.has(pid)) {
+        provenance.set(pid, { work_slug, chapter_number });
+      }
     }
   }
-  const seen = new Set<string>();
-  const out: RecordedCitation[] = [];
-  for (const t of tokens) {
-    const key = `${lastWork ?? ""}|${lastChapter ?? ""}|${t}`;
-    if (seen.has(key)) continue;
-    seen.add(key);
-    out.push({ work_slug: lastWork ?? "", chapter_number: lastChapter, paragraph_id: t });
-  }
-  return out;
+
+  return tokens.map((paragraph_id) => {
+    const prov = provenance.get(paragraph_id);
+    return {
+      work_slug: prov?.work_slug ?? "",
+      chapter_number: prov?.chapter_number,
+      paragraph_id,
+    };
+  });
 }
 
 // ─────────────────────────────────────────────────────────────────────────
