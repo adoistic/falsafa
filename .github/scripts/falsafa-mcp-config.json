@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "falsafa": {
+      "command": "npx",
+      "args": ["-y", "@falsafa/mcp@0.1.2"]
+    }
+  }
+}
