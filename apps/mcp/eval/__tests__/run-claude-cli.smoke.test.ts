@@ -1,5 +1,8 @@
 import { describe, expect, test } from "bun:test";
 import { spawn } from "node:child_process";
+import { resolve } from "node:path";
+
+const MCP_CONFIG = resolve(import.meta.dir, "../../../../.github/scripts/falsafa-mcp-config.json");
 
 describe("run-claude-cli smoke", () => {
   test("invokes claude --print with mcp-config and parses JSON envelope", async () => {
@@ -12,7 +15,7 @@ describe("run-claude-cli smoke", () => {
     const proc = spawn("claude", [
       "--print",
       "--bare",
-      "--mcp-config", "/Users/siraj/falsafa/.claude/worktrees/wizardly-swartz-8ba7a7/.github/scripts/falsafa-mcp-config.json",
+      "--mcp-config", MCP_CONFIG,
       "--allowedTools", "mcp__falsafa__list_works",
       "--output-format", "json",
     ], { stdio: ["pipe", "pipe", "pipe"], timeout: 60_000 });
