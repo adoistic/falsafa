@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test";
 import type { RecordedToolCall } from "../run-openrouter.ts";
+import { extractParagraphIdsFromToolResult } from "../run-openrouter.ts";
 
 describe("RecordedToolCall schema", () => {
   test("type accepts returned_paragraph_ids on read_chapter", () => {
@@ -20,13 +21,26 @@ describe("RecordedToolCall schema", () => {
     };
     expect(c.returned_paragraph_ids).toBeUndefined();
   });
+});
 
-  test("captures paragraph_ids from read_chapter result", () => {
-    const result = { content: [{ type: "text", text: "[p-868413] First line\n[p-aabbcc] Second line" }] };
-    const ids = new Set<string>();
-    for (const c of result.content) {
-      for (const m of c.text.matchAll(/\bp-[0-9a-f]{6}\b/g)) ids.add(m[0]);
-    }
-    expect(Array.from(ids).sort()).toEqual(["p-868413", "p-aabbcc"]);
+describe("extractParagraphIdsFromToolResult", () => {
+  test("extracts paragraph_ids from read_chapter body", () => {
+    const result = { body: "[p-868413] First line\n[p-aabbcc] Second line" };
+    const ids = extractParagraphIdsFromToolResult("read_chapter", result);
+    expect(ids?.sort()).toEqual(["p-868413", "p-aabbcc"]);
+  });
+
+  test("extracts paragraph_ids from get_passage passages array", () => {
+    const result = { passages: [{ id: "p-123456", text: "..." }, { id: "p-abcdef", text: "..." }] };
+    const ids = extractParagraphIdsFromToolResult("get_passage", result);
+    expect(ids?.sort()).toEqual(["p-123456", "p-abcdef"]);
+  });
+
+  test("returns undefined for non-content tools", () => {
+    expect(extractParagraphIdsFromToolResult("list_works", { works: [] })).toBeUndefined();
+  });
+
+  test("returns undefined when no ids found", () => {
+    expect(extractParagraphIdsFromToolResult("read_chapter", { body: "no markers" })).toBeUndefined();
   });
 });

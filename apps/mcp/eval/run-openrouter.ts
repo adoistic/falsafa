@@ -762,25 +762,7 @@ async function runQuestion(
           parsedArgs = { _malformed: call.function.arguments };
         }
         const result = executeTool(call.function.name, parsedArgs);
-        let returned_paragraph_ids: string[] | undefined;
-        if (call.function.name === "read_chapter" || call.function.name === "get_passage") {
-          const ids = new Set<string>();
-          const captureFromText = (s: string) => {
-            for (const m of s.matchAll(/\bp-[0-9a-f]{6}\b/g)) ids.add(m[0]);
-          };
-          const r = result as Record<string, unknown>;
-          if (Array.isArray(r.paragraphs)) {
-            for (const p of r.paragraphs as Array<Record<string, unknown>>) {
-              if (typeof p.paragraph_id === "string") ids.add(p.paragraph_id);
-            }
-          }
-          if (Array.isArray(r.content)) {
-            for (const c of r.content as Array<Record<string, unknown>>) {
-              if (typeof c.text === "string") captureFromText(c.text);
-            }
-          }
-          returned_paragraph_ids = ids.size > 0 ? Array.from(ids) : undefined;
-        }
+        const returned_paragraph_ids = extractParagraphIdsFromToolResult(call.function.name, result);
         recordedCalls.push({
           name: call.function.name,
           args: parsedArgs,
@@ -880,6 +862,33 @@ function summarizeToolResult(toolName: string, result: unknown): string {
     default:
       return JSON.stringify(r).slice(0, 200);
   }
+}
+
+/**
+ * Extract paragraph IDs from a tool result.
+ *
+ * read_chapter returns { body: <string with [p-xxxxxx] markers> }.
+ * get_passage  returns { passages: [{ id, offset, text }, ...] }.
+ *
+ * Returns undefined when the tool is not a content-fetching tool or when
+ * no IDs are found.
+ */
+export function extractParagraphIdsFromToolResult(
+  toolName: string,
+  result: unknown,
+): string[] | undefined {
+  if (toolName !== "read_chapter" && toolName !== "get_passage") return undefined;
+  const ids = new Set<string>();
+  const r = result as Record<string, unknown>;
+  if (typeof r.body === "string") {
+    for (const m of r.body.matchAll(/\bp-[0-9a-f]{6}\b/g)) ids.add(m[0]);
+  }
+  if (Array.isArray(r.passages)) {
+    for (const p of r.passages as Array<Record<string, unknown>>) {
+      if (typeof p.id === "string") ids.add(p.id);
+    }
+  }
+  return ids.size > 0 ? Array.from(ids) : undefined;
 }
 
 /**
