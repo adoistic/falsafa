@@ -1081,13 +1081,15 @@ function shuffle<T>(arr: T[], seed: number): T[] {
   return out;
 }
 
-// SIGINT handler — leave any partial result for the next run to pick up.
-process.on("SIGINT", () => {
-  console.log("\n[ctrl-c] stopping. Already-saved q-NNNN.json files are intact; rerun the same command to continue.");
-  process.exit(130);
-});
+if (import.meta.main) {
+  // SIGINT handler — leave any partial result for the next run to pick up.
+  process.on("SIGINT", () => {
+    console.log("\n[ctrl-c] stopping. Already-saved q-NNNN.json files are intact; rerun the same command to continue.");
+    process.exit(130);
+  });
 
-main().catch((err) => {
-  console.error("fatal:", err instanceof Error ? err.stack ?? err.message : err);
-  process.exit(1);
-});
+  main().catch((err) => {
+    console.error("fatal:", err instanceof Error ? err.stack ?? err.message : err);
+    process.exit(1);
+  });
+}
