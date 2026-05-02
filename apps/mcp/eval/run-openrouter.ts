@@ -99,13 +99,20 @@ interface OpenRouterMessage {
   name?: string;
 }
 
-interface RecordedToolCall {
+export interface RecordedToolCall {
   name: string;
   args: unknown;
   result_summary?: string;
+  /**
+   * For content-returning tools (read_chapter, get_passage), the paragraph_ids
+   * the call returned. Used to attribute [p-xxxxxx] tokens in the answer back
+   * to the correct (work_slug, chapter_number) at extractCitations time.
+   * Undefined for tools that don't return paragraph content.
+   */
+  returned_paragraph_ids?: string[];
 }
 
-interface RecordedCitation {
+export interface RecordedCitation {
   work_slug: string;
   chapter_number?: number;
   paragraph_id?: string;
@@ -755,10 +762,30 @@ async function runQuestion(
           parsedArgs = { _malformed: call.function.arguments };
         }
         const result = executeTool(call.function.name, parsedArgs);
+        let returned_paragraph_ids: string[] | undefined;
+        if (call.function.name === "read_chapter" || call.function.name === "get_passage") {
+          const ids = new Set<string>();
+          const captureFromText = (s: string) => {
+            for (const m of s.matchAll(/\bp-[0-9a-f]{6}\b/g)) ids.add(m[0]);
+          };
+          const r = result as Record<string, unknown>;
+          if (Array.isArray(r.paragraphs)) {
+            for (const p of r.paragraphs as Array<Record<string, unknown>>) {
+              if (typeof p.paragraph_id === "string") ids.add(p.paragraph_id);
+            }
+          }
+          if (Array.isArray(r.content)) {
+            for (const c of r.content as Array<Record<string, unknown>>) {
+              if (typeof c.text === "string") captureFromText(c.text);
+            }
+          }
+          returned_paragraph_ids = ids.size > 0 ? Array.from(ids) : undefined;
+        }
         recordedCalls.push({
           name: call.function.name,
           args: parsedArgs,
           result_summary: summarizeToolResult(call.function.name, result),
+          ...(returned_paragraph_ids ? { returned_paragraph_ids } : {}),
         });
         messages.push({
           role: "tool",
@@ -861,7 +888,7 @@ function summarizeToolResult(toolName: string, result: unknown): string {
  * the model fetched via read_chapter / get_passage. Imperfect for
  * answers that interleave many works, but adequate for the eval.
  */
-function extractCitations(
+export function extractCitations(
   answer: string,
   toolCalls: ReadonlyArray<RecordedToolCall>,
 ): RecordedCitation[] {
