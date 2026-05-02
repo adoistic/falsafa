@@ -138,6 +138,10 @@ interface OutResult {
    * (when present) overrides this.
    */
   mechanical_pass?: boolean;
+  mechanical_score?: number;
+  mechanical_pass_loose?: boolean;
+  mechanical_pass_strict_raw?: boolean;
+  mechanical_pass_strict_audited?: boolean;
   judge?: {
     factual_correct: boolean;
     citation_backed: boolean;
@@ -224,34 +228,103 @@ function passByProse(answer: string, expectedWorks: string[]): boolean {
   return true;
 }
 
-function computeMechanicalPass(
-  answer: string,
-  expectedWorks: string[],
-  _citations: ResultCitation[] | undefined,
+export interface MechanicalResult {
+  score: number;                    // continuous 0-1: cited_expected / total_expected
+  pass_loose: boolean;              // passByProse
+  pass_strict_raw: boolean;         // passByCitations (no overlay)
+  pass_strict_audited: boolean;     // passByCitationsWithOverlay (with overlay)
+  pass: boolean;                    // === pass_loose, kept for back-compat
+}
+
+export interface AuditOverlay {
+  decisions: Record<string, {
+    verdict?: "valid_alternative" | "real_failure" | "skip";
+    acceptable_alternatives?: string[][];  // OR-groups
+    notes?: string;
+    audited_at_iso?: string;
+  }>;
+}
+
+export interface ComputeArgs {
+  answer: string;
+  expected_works: string[];
+  citations: ResultCitation[];
+  auditOverlay?: AuditOverlay;
+  caseId?: string;
+}
+
+/**
+ * Fractional graded score + four-axis pass booleans for one (case, model)
+ * pair. Replaces the old binary computeMechanicalPass.
+ *
+ * Score formula:
+ *   score = (count of expected_works with at least one matching citation)
+ *           / expected_works.length
+ *   if expected_works is empty, score = 1.0 (vacuous pass)
+ *
+ * Strict-audited applies the audit overlay's acceptable_alternatives (OR-groups)
+ * when a decision exists for caseId; otherwise audited === raw.
+ */
+export function computeMechanicalResult(args: ComputeArgs): MechanicalResult {
+  const { answer, expected_works, citations, auditOverlay, caseId } = args;
+
+  if (expected_works.length === 0) {
+    return {
+      score: 1.0,
+      pass_loose: true,
+      pass_strict_raw: true,
+      pass_strict_audited: true,
+      pass: true,
+    };
+  }
+
+  const cited_count = expected_works.filter((slug) =>
+    citations.some((c) => c.work_slug === slug)
+  ).length;
+  const score = cited_count / expected_works.length;
+
+  const pass_loose = passByProse(answer, expected_works);
+  const pass_strict_raw = passByCitations(citations, expected_works);
+
+  let pass_strict_audited = pass_strict_raw;
+  if (!pass_strict_raw && auditOverlay && caseId) {
+    pass_strict_audited = passByCitationsWithOverlay(citations, expected_works, auditOverlay, caseId);
+  }
+
+  return {
+    score,
+    pass_loose,
+    pass_strict_raw,
+    pass_strict_audited,
+    pass: pass_loose,
+  };
+}
+
+/**
+ * Strict pass with audit overlay. Returns true if EITHER:
+ *   (a) every expected_work has a citation (== passByCitations), OR
+ *   (b) the case has a decision with verdict="valid_alternative" AND
+ *       every group in acceptable_alternatives matches at least one
+ *       cited work_slug.
+ *
+ * Group-AND across groups, member-OR within each group.
+ */
+function passByCitationsWithOverlay(
+  citations: ResultCitation[],
+  expected_works: string[],
+  overlay: AuditOverlay,
+  caseId: string,
 ): boolean {
-  // FOR THE 2026-04-30 DEADLINE: scoring uses prose-substring with
-  // diacritic fold. This is the "loose" pass and gives ~84.7% overall.
-  //
-  // The strict citation-array pass (passByCitations above) is kept in code
-  // as future-work scaffolding. Switching to it dropped the headline to
-  // 50.6% because the model has poor citation discipline — it name-drops
-  // works in prose but only emits ~1 footnote per question even when
-  // multiple works are expected.
-  //
-  // The right future state is a graded 3-state score:
-  //   - PASS  (1.0): every expected work has a structured citation
-  //   - MIXED (0.5): some expected cited or all named in prose but
-  //                  not all formally cited
-  //   - FAIL  (0.0): no expected work mentioned in any form
-  //
-  // That requires:
-  //   1. New mechanical_score field (number 0–1) alongside mechanical_pass
-  //   2. Path A audit to expand expected_works for valid alternatives
-  //   3. Stronger system prompt for citation discipline
-  //   4. Re-run baseline + treatment with the new metric
-  //
-  // Tracked in gstack TODOs and the project memory.
-  return passByProse(answer, expectedWorks);
+  if (passByCitations(citations, expected_works)) return true;
+  const decision = overlay.decisions[caseId];
+  if (!decision || decision.verdict !== "valid_alternative" || !decision.acceptable_alternatives) {
+    return false;
+  }
+  const cited = new Set(citations.map((c) => c.work_slug).filter((s): s is string => typeof s === "string"));
+  for (const group of decision.acceptable_alternatives) {
+    if (!group.some((slug) => cited.has(slug))) return false;
+  }
+  return true;
 }
 
 const REPO_ROOT = resolve(import.meta.dir, "..");
@@ -703,11 +776,17 @@ function main() {
       // unpinned, score against the current rules — citations[] preferred,
       // diacritic-folded prose substring as fallback.
       if (result.mechanical_pass === undefined) {
-        result.mechanical_pass = computeMechanicalPass(
-          result.answer,
-          c.expected_works,
-          result.citations,
-        );
+        const mr = computeMechanicalResult({
+          answer: result.answer,
+          expected_works: c.expected_works,
+          citations: result.citations,
+          // auditOverlay + caseId wired in Task 2.4
+        });
+        result.mechanical_score = mr.score;
+        result.mechanical_pass = mr.pass;
+        result.mechanical_pass_loose = mr.pass_loose;
+        result.mechanical_pass_strict_raw = mr.pass_strict_raw;
+        result.mechanical_pass_strict_audited = mr.pass_strict_audited;
       }
       result.from_run = run.runDir;       // stamp before storing
       const existing = c.results[run.modelLabel];
