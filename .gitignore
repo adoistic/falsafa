@@ -1,5 +1,6 @@
 # Local config — never commit (contains DB credentials)
 .claude/
+.superpowers/
 
 # Dependencies
 node_modules/
