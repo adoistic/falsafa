@@ -1,0 +1,893 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Falsafa — Accessibility Conformance Report (VPAT 2.5 INT)</title>
+  <style>
+    body { font: 14px/1.5 system-ui, sans-serif; max-width: 1080px; margin: 2rem auto; padding: 0 1rem; color: #1a1a1a; }
+    h1 { font-size: 1.8rem; margin-bottom: 0.25rem; }
+    h2 { margin-top: 2.5rem; border-bottom: 1px solid #ccc; padding-bottom: 0.25rem; }
+    h3 { margin-top: 1.5rem; }
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+    th, td { padding: 0.4rem 0.6rem; border: 1px solid #ccc; text-align: left; vertical-align: top; }
+    th { background: #f5f5f5; }
+    .status-supports { color: #1a7a3a; font-weight: 600; }
+    .status-partial { color: #a06000; font-weight: 600; }
+    .status-not-applicable { color: #5a5a5a; }
+    .status-does-not-support { color: #a00; font-weight: 600; }
+    .exception { background: #fff8e1; padding: 0.5rem; border-left: 3px solid #c69500; margin: 0.5rem 0; }
+    .meta { color: #5a5a5a; }
+    .evidence { font-family: ui-monospace, monospace; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <h1>Falsafa</h1>
+  <p class="meta">
+    Accessibility Conformance Report — VPAT 2.5 INT<br>
+    Generated: 2026-05-14 · Standard: WCAG 2.2 · Level: AA<br>
+    Contact: <a href="mailto:accessibility@thothica.com">accessibility@thothica.com</a><br>
+    Last review: 2026-05-14 · Next review: 2026-08-14
+  </p>
+
+  <h2>Applicable Standards</h2>
+  <ul>
+    <li>WCAG 2.2 (Web Content Accessibility Guidelines)</li>
+    <li>US Section 508 (Rev. 2017) — Functional Performance Criteria</li>
+    <li>EN 301 549 v3.2.1 — clauses 5-13</li>
+  </ul>
+
+  <h2>WCAG 2.2 Conformance — 86 Success Criteria</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Criterion</th>
+        <th>Name</th>
+        <th>Level</th>
+        <th>Status</th>
+        <th>Notes &amp; Evidence</th>
+      </tr>
+    </thead>
+    <tbody>
+            <tr>
+        <td>1.1.1</td>
+        <td>Non-text Content</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.2.1</td>
+        <td>Audio-only and Video-only (Prerecorded)</td>
+        <td>A</td>
+        <td class="status-not-applicable">not-applicable (no-audio-or-video-content)</td>
+        <td>Falsafa is a text-only reading platform. No audio or video content is published.</td>
+      </tr>
+      <tr>
+        <td>1.2.2</td>
+        <td>Captions (Prerecorded)</td>
+        <td>A</td>
+        <td class="status-not-applicable">not-applicable (no-audio-or-video-content)</td>
+        <td>No video content.</td>
+      </tr>
+      <tr>
+        <td>1.2.3</td>
+        <td>Audio Description or Media Alternative (Prerecorded)</td>
+        <td>A</td>
+        <td class="status-not-applicable">not-applicable (no-audio-or-video-content)</td>
+        <td>No video content.</td>
+      </tr>
+      <tr>
+        <td>1.3.1</td>
+        <td>Info and Relationships</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.3.2</td>
+        <td>Meaningful Sequence</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.3.3</td>
+        <td>Sensory Characteristics</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.4.1</td>
+        <td>Use of Color</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.4.2</td>
+        <td>Audio Control</td>
+        <td>A</td>
+        <td class="status-not-applicable">not-applicable (no-audio-or-video-content)</td>
+        <td>No auto-playing audio.</td>
+      </tr>
+      <tr>
+        <td>2.1.1</td>
+        <td>Keyboard</td>
+        <td>A</td>
+        <td class="status-supports">supports</td>
+        <td>All interactive controls are keyboard-operable. The search combobox handles ↓/↑/Enter without leaving the input. Dialog opens/closes via Cmd+K / Escape.
+<br><div class="evidence">source: apps/site/src/components/SearchDialog.astro (anchor: ArrowDown)</div>
+      <div class="evidence">artifact: docs/accessibility/test-runs/search/latest/transcript-synthetic.md</div></td>
+      </tr>
+      <tr>
+        <td>2.1.2</td>
+        <td>No Keyboard Trap</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.1.4</td>
+        <td>Character Key Shortcuts</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.2.1</td>
+        <td>Timing Adjustable</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.2.2</td>
+        <td>Pause, Stop, Hide</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.3.1</td>
+        <td>Three Flashes or Below Threshold</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.4.1</td>
+        <td>Bypass Blocks</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.4.2</td>
+        <td>Page Titled</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.4.3</td>
+        <td>Focus Order</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.4.4</td>
+        <td>Link Purpose (In Context)</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.5.1</td>
+        <td>Pointer Gestures</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.5.2</td>
+        <td>Pointer Cancellation</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.5.3</td>
+        <td>Label in Name</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.5.4</td>
+        <td>Motion Actuation</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.1.1</td>
+        <td>Language of Page</td>
+        <td>A</td>
+        <td class="status-supports">supports</td>
+        <td>The root &lt;html&gt; emits lang=&quot;en&quot;. Each variant article emits its own lang attribute via bcp47Of(), so screen readers switch voice when reading non-English variants.
+<br><div class="evidence">source: apps/site/src/lib/corpus.ts (anchor: bcp47Of)</div>
+      <div class="evidence">source: apps/site/src/layouts/Base.astro (anchor: lang=&quot;en&quot;)</div></td>
+      </tr>
+      <tr>
+        <td>3.2.1</td>
+        <td>On Focus</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.2.2</td>
+        <td>On Input</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.2.6</td>
+        <td>Consistent Help</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.3.1</td>
+        <td>Error Identification</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.3.2</td>
+        <td>Labels or Instructions</td>
+        <td>A</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>4.1.2</td>
+        <td>Name, Role, Value</td>
+        <td>A</td>
+        <td class="status-supports">supports</td>
+        <td>All interactive controls have accessible names and explicit roles. The combobox/listbox pattern is the most complex case; other controls (buttons, dialogs, nav links) use semantic HTML.
+<br><div class="evidence">source: apps/site/src/components/SearchDialog.astro (anchor: role=&quot;combobox&quot;)</div>
+      <div class="evidence">artifact: docs/accessibility/test-runs/search/latest/transcript-synthetic.md</div></td>
+      </tr>
+      <tr>
+        <td>1.2.4</td>
+        <td>Captions (Live)</td>
+        <td>AA</td>
+        <td class="status-not-applicable">not-applicable (no-audio-or-video-content)</td>
+        <td>No live media.</td>
+      </tr>
+      <tr>
+        <td>1.2.5</td>
+        <td>Audio Description (Prerecorded)</td>
+        <td>AA</td>
+        <td class="status-not-applicable">not-applicable (no-audio-or-video-content)</td>
+        <td>No video content.</td>
+      </tr>
+      <tr>
+        <td>1.3.4</td>
+        <td>Orientation</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.3.5</td>
+        <td>Identify Input Purpose</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.4.3</td>
+        <td>Contrast (Minimum)</td>
+        <td>AA</td>
+        <td class="status-supports">supports</td>
+        <td>Body text contrast: light 16.7:1, dark 14.8:1, sepia 11:1 — all exceed WCAG 1.4.3 4.5:1 minimum and also pass the AAA 7:1 ceiling. The accent-soft link-hover color is now darker (≥ 4.5:1 in all themes).
+<br><div class="evidence">source: apps/site/src/styles/tokens.css (anchor: --ink)</div>
+      <div class="evidence">source: apps/site/src/styles/tokens.css (anchor: --accent-soft)</div>
+      <div class="evidence">test: scripts/__tests__/a11y-contrast-audit.test.ts:1-47</div>
+      <div class="evidence">artifact: docs/accessibility/test-runs/contrast/latest/result.json</div></td>
+      </tr>
+      <tr>
+        <td>1.4.4</td>
+        <td>Resize Text</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.4.5</td>
+        <td>Images of Text</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.4.10</td>
+        <td>Reflow</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.4.11</td>
+        <td>Non-text Contrast</td>
+        <td>AA</td>
+        <td class="status-supports">supports</td>
+        <td>Every UI token pair (--rule, --accent-soft variants) measured ≥ 3:1 against its theme&#39;s paper background. Audit runs via `bun run a11y:contrast` in CI; non-text-contrast failures fail the build.
+<br><div class="evidence">source: apps/site/src/styles/tokens.css (anchor: --rule)</div>
+      <div class="evidence">source: apps/site/src/styles/tokens.css (anchor: --accent-soft)</div>
+      <div class="evidence">test: scripts/__tests__/a11y-contrast-audit.test.ts:1-47</div>
+      <div class="evidence">artifact: docs/accessibility/test-runs/contrast/latest/result.json</div></td>
+      </tr>
+      <tr>
+        <td>1.4.12</td>
+        <td>Text Spacing</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.4.13</td>
+        <td>Content on Hover or Focus</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.4.5</td>
+        <td>Multiple Ways</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.4.6</td>
+        <td>Headings and Labels</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.4.7</td>
+        <td>Focus Visible</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.4.11</td>
+        <td>Focus Not Obscured (Minimum)</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.5.7</td>
+        <td>Dragging Movements</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.5.8</td>
+        <td>Target Size (Minimum)</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.1.2</td>
+        <td>Language of Parts</td>
+        <td>AA</td>
+        <td class="status-supports">supports</td>
+        <td>Non-English chapter variants emit lang=&quot;&lt;bcp47&gt;&quot; on the &lt;article&gt; wrapper rendered by Reader.astro. The /about page wraps foreign terms in &lt;span lang=&quot;...&quot;&gt; as they appear in prose. bcp47Of() normalizes corpus language/script names to ISO 639/15924.
+<br><div class="evidence">source: apps/site/src/layouts/Reader.astro (anchor: lang={lang})</div>
+      <div class="evidence">source: apps/site/src/pages/works/[slug]/[chapter]/[variant].astro (anchor: bcp47Of)</div>
+      <div class="evidence">source: apps/site/src/pages/about.astro (anchor: lang=&quot;sa-Latn&quot;)</div>
+      <div class="evidence">test: apps/site/src/lib/__tests__/corpus-bcp47.test.ts:1-60</div>
+      <div class="evidence">artifact: docs/accessibility/test-runs/reader-original/latest/transcript-voiceover.md</div></td>
+      </tr>
+      <tr>
+        <td>3.2.3</td>
+        <td>Consistent Navigation</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.2.4</td>
+        <td>Consistent Identification</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.3.3</td>
+        <td>Error Suggestion</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.3.4</td>
+        <td>Error Prevention (Legal, Financial, Data)</td>
+        <td>AA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.3.7</td>
+        <td>Redundant Entry</td>
+        <td>AA</td>
+        <td class="status-not-applicable">not-applicable (no-authentication)</td>
+        <td>No re-entry forms; site is read-only.</td>
+      </tr>
+      <tr>
+        <td>3.3.8</td>
+        <td>Accessible Authentication (Minimum)</td>
+        <td>AA</td>
+        <td class="status-not-applicable">not-applicable (no-authentication)</td>
+        <td>No authentication.</td>
+      </tr>
+      <tr>
+        <td>4.1.3</td>
+        <td>Status Messages</td>
+        <td>AA</td>
+        <td class="status-supports">supports</td>
+        <td>Search dialog announces result count via aria-live=&quot;polite&quot; on the status string. The results list is a role=&quot;listbox&quot; with role=&quot;option&quot; items; the input is a role=&quot;combobox&quot; with aria-activedescendant, so screen readers announce each option change without leaving the input.
+<br><div class="evidence">source: apps/site/src/components/SearchDialog.astro (anchor: role=&quot;combobox&quot;)</div>
+      <div class="evidence">source: apps/site/src/components/SearchDialog.astro (anchor: role=&quot;listbox&quot;)</div>
+      <div class="evidence">source: apps/site/src/components/SearchDialog.astro (anchor: aria-activedescendant)</div>
+      <div class="evidence">source: apps/site/src/components/SearchDialog.astro (anchor: aria-live=&quot;polite&quot;)</div>
+      <div class="evidence">artifact: docs/accessibility/test-runs/search/latest/transcript-voiceover.md</div></td>
+      </tr>
+      <tr>
+        <td>1.2.6</td>
+        <td>Sign Language (Prerecorded)</td>
+        <td>AAA</td>
+        <td class="status-not-applicable">not-applicable (no-audio-or-video-content)</td>
+        <td>No video content.</td>
+      </tr>
+      <tr>
+        <td>1.2.7</td>
+        <td>Extended Audio Description (Prerecorded)</td>
+        <td>AAA</td>
+        <td class="status-not-applicable">not-applicable (no-audio-or-video-content)</td>
+        <td>No video content.</td>
+      </tr>
+      <tr>
+        <td>1.2.8</td>
+        <td>Media Alternative (Prerecorded)</td>
+        <td>AAA</td>
+        <td class="status-not-applicable">not-applicable (no-audio-or-video-content)</td>
+        <td>No video content.</td>
+      </tr>
+      <tr>
+        <td>1.2.9</td>
+        <td>Audio-only (Live)</td>
+        <td>AAA</td>
+        <td class="status-not-applicable">not-applicable (no-audio-or-video-content)</td>
+        <td>No live media.</td>
+      </tr>
+      <tr>
+        <td>1.3.6</td>
+        <td>Identify Purpose</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.4.6</td>
+        <td>Contrast (Enhanced)</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.4.7</td>
+        <td>Low or No Background Audio</td>
+        <td>AAA</td>
+        <td class="status-not-applicable">not-applicable (no-audio-or-video-content)</td>
+        <td>No audio.</td>
+      </tr>
+      <tr>
+        <td>1.4.8</td>
+        <td>Visual Presentation</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>1.4.9</td>
+        <td>Images of Text (No Exception)</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.1.3</td>
+        <td>Keyboard (No Exception)</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.2.3</td>
+        <td>No Timing</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.2.4</td>
+        <td>Interruptions</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.2.5</td>
+        <td>Re-authenticating</td>
+        <td>AAA</td>
+        <td class="status-not-applicable">not-applicable (no-authentication)</td>
+        <td>Site has no authentication of any kind.</td>
+      </tr>
+      <tr>
+        <td>2.2.6</td>
+        <td>Timeouts</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.3.2</td>
+        <td>Three Flashes</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.3.3</td>
+        <td>Animation from Interactions</td>
+        <td>AAA</td>
+        <td class="status-supports">supports</td>
+        <td>The site honors prefers-reduced-motion: reduce by capping all animation/transition durations to 0.01ms. No motion-from-interaction effects are exempt.
+<br><div class="evidence">source: apps/site/src/styles/tokens.css (anchor: prefers-reduced-motion)</div></td>
+      </tr>
+      <tr>
+        <td>2.4.8</td>
+        <td>Location</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.4.9</td>
+        <td>Link Purpose (Link Only)</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.4.10</td>
+        <td>Section Headings</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.4.12</td>
+        <td>Focus Not Obscured (Enhanced)</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.4.13</td>
+        <td>Focus Appearance</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.5.5</td>
+        <td>Target Size (Enhanced)</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>2.5.6</td>
+        <td>Concurrent Input Mechanisms</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.1.3</td>
+        <td>Unusual Words</td>
+        <td>AAA</td>
+        <td class="status-not-applicable">not-applicable (content-type)</td>
+        <td>Falsafa publishes primary-source philosophy across six languages. The corpus is built on technical and unusual vocabulary; identifying every term is contrary to the project&#39;s editorial purpose. Partial mitigation planned in V2 via glossary popovers (read_wiki).</td>
+      </tr>
+      <tr>
+        <td>3.1.4</td>
+        <td>Abbreviations</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.1.5</td>
+        <td>Reading Level</td>
+        <td>AAA</td>
+        <td class="status-not-applicable">not-applicable (content-type)</td>
+        <td>Falsafa publishes graduate-level primary-source philosophy across six languages. Lowering reading level would require rewriting the corpus and is contrary to the project&#39;s editorial purpose. Mitigations: chapter summaries via read_wiki MCP tool; cross-tradition links via TF-IDF.</td>
+      </tr>
+      <tr>
+        <td>3.1.6</td>
+        <td>Pronunciation</td>
+        <td>AAA</td>
+        <td class="status-not-applicable">not-applicable (content-type)</td>
+        <td>Pronunciation aids for non-English terms across six languages (Urdu, Sanskrit, Old English, French, German, Old Javanese) would require pronunciation curation per term per language — content work explicitly deferred. IPA inline annotations may land in V2 or V3.</td>
+      </tr>
+      <tr>
+        <td>3.2.5</td>
+        <td>Change on Request</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.3.5</td>
+        <td>Help</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.3.6</td>
+        <td>Error Prevention (All)</td>
+        <td>AAA</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>3.3.9</td>
+        <td>Accessible Authentication (Enhanced)</td>
+        <td>AAA</td>
+        <td class="status-not-applicable">not-applicable (no-authentication)</td>
+        <td>No authentication.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>Section 508 Functional Performance Criteria</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Clause</th>
+        <th>Name</th>
+        <th>Status</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+            <tr>
+        <td>302.1</td>
+        <td>Without Vision</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1 — proved by VoiceOver + NVDA audio recordings</td>
+      </tr>
+      <tr>
+        <td>302.2</td>
+        <td>With Limited Vision</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>302.3</td>
+        <td>Without Perception of Color</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>302.4</td>
+        <td>Without Hearing</td>
+        <td class="status-supports">supports</td>
+        <td>No audio content is published. Site is fully usable without hearing.</td>
+      </tr>
+      <tr>
+        <td>302.5</td>
+        <td>With Limited Hearing</td>
+        <td class="status-supports">supports</td>
+        <td>No audio content is published.</td>
+      </tr>
+      <tr>
+        <td>302.6</td>
+        <td>Without Speech</td>
+        <td class="status-supports">supports</td>
+        <td>No speech-input or speech-output requirements.</td>
+      </tr>
+      <tr>
+        <td>302.7</td>
+        <td>With Limited Manipulation</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1 — proved by keyboard-only Playwright journeys</td>
+      </tr>
+      <tr>
+        <td>302.8</td>
+        <td>With Limited Reach and Strength</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1</td>
+      </tr>
+      <tr>
+        <td>302.9</td>
+        <td>With Limited Language, Cognitive, and Learning Abilities</td>
+        <td class="status-partial">partial</td>
+        <td>Falsafa publishes graduate-level primary-source philosophy. Reading level is content-type-fixed (WCAG 3.1.5 exception). Mitigations include chapter summaries via the read_wiki MCP tool.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>EN 301 549 — Additional Clauses (5–13)</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Clause</th>
+        <th>Name</th>
+        <th>Status</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+            <tr>
+        <td>5.2</td>
+        <td>Activation of accessibility features</td>
+        <td class="status-supports">supports</td>
+        <td>System preferences (prefers-color-scheme, prefers-contrast, prefers-reduced-motion, forced-colors) are honored without UI interaction. Disabled users get a correctly-themed first load.
+</td>
+      </tr>
+      <tr>
+        <td>5.3</td>
+        <td>Biometrics</td>
+        <td class="status-not-applicable">not-applicable</td>
+        <td>No biometric authentication. Site has no authentication of any kind.</td>
+      </tr>
+      <tr>
+        <td>5.4</td>
+        <td>Preservation of accessibility information during conversion</td>
+        <td class="status-not-applicable">not-applicable</td>
+        <td>Site does not perform document-to-document conversion.</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>Web (refers to WCAG 2.1)</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1 — superset claim via WCAG 2.2 AA</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>Software (non-web)</td>
+        <td class="status-not-applicable">not-applicable</td>
+        <td>Falsafa is a web product. The MCP package is covered separately if/when its UI grows.</td>
+      </tr>
+      <tr>
+        <td>12.1</td>
+        <td>Product documentation</td>
+        <td class="status-does-not-support">does-not-support</td>
+        <td>TBD V1 — README + /accessibility page satisfy this</td>
+      </tr>
+      <tr>
+        <td>12.2</td>
+        <td>Support services</td>
+        <td class="status-supports">supports</td>
+        <td>Accessibility issues may be reported via mailto:accessibility@thothica.com or GitHub issue.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h2>Documented Exceptions</h2>
+  <p>WCAG AAA criteria documented as content-type exceptions and not implemented:</p>
+  <div class="exception">
+  <strong>WCAG 1.2.1 Audio-only and Video-only (Prerecorded) (A)</strong> — Exception: no-audio-or-video-content<br>
+  Falsafa is a text-only reading platform. No audio or video content is published.
+</div>
+<div class="exception">
+  <strong>WCAG 1.2.2 Captions (Prerecorded) (A)</strong> — Exception: no-audio-or-video-content<br>
+  No video content.
+</div>
+<div class="exception">
+  <strong>WCAG 1.2.3 Audio Description or Media Alternative (Prerecorded) (A)</strong> — Exception: no-audio-or-video-content<br>
+  No video content.
+</div>
+<div class="exception">
+  <strong>WCAG 1.4.2 Audio Control (A)</strong> — Exception: no-audio-or-video-content<br>
+  No auto-playing audio.
+</div>
+<div class="exception">
+  <strong>WCAG 1.2.4 Captions (Live) (AA)</strong> — Exception: no-audio-or-video-content<br>
+  No live media.
+</div>
+<div class="exception">
+  <strong>WCAG 1.2.5 Audio Description (Prerecorded) (AA)</strong> — Exception: no-audio-or-video-content<br>
+  No video content.
+</div>
+<div class="exception">
+  <strong>WCAG 3.3.7 Redundant Entry (AA)</strong> — Exception: no-authentication<br>
+  No re-entry forms; site is read-only.
+</div>
+<div class="exception">
+  <strong>WCAG 3.3.8 Accessible Authentication (Minimum) (AA)</strong> — Exception: no-authentication<br>
+  No authentication.
+</div>
+<div class="exception">
+  <strong>WCAG 1.2.6 Sign Language (Prerecorded) (AAA)</strong> — Exception: no-audio-or-video-content<br>
+  No video content.
+</div>
+<div class="exception">
+  <strong>WCAG 1.2.7 Extended Audio Description (Prerecorded) (AAA)</strong> — Exception: no-audio-or-video-content<br>
+  No video content.
+</div>
+<div class="exception">
+  <strong>WCAG 1.2.8 Media Alternative (Prerecorded) (AAA)</strong> — Exception: no-audio-or-video-content<br>
+  No video content.
+</div>
+<div class="exception">
+  <strong>WCAG 1.2.9 Audio-only (Live) (AAA)</strong> — Exception: no-audio-or-video-content<br>
+  No live media.
+</div>
+<div class="exception">
+  <strong>WCAG 1.4.7 Low or No Background Audio (AAA)</strong> — Exception: no-audio-or-video-content<br>
+  No audio.
+</div>
+<div class="exception">
+  <strong>WCAG 2.2.5 Re-authenticating (AAA)</strong> — Exception: no-authentication<br>
+  Site has no authentication of any kind.
+</div>
+<div class="exception">
+  <strong>WCAG 3.1.3 Unusual Words (AAA)</strong> — Exception: content-type<br>
+  Falsafa publishes primary-source philosophy across six languages. The corpus is built on technical and unusual vocabulary; identifying every term is contrary to the project&#39;s editorial purpose. Partial mitigation planned in V2 via glossary popovers (read_wiki).
+</div>
+<div class="exception">
+  <strong>WCAG 3.1.5 Reading Level (AAA)</strong> — Exception: content-type<br>
+  Falsafa publishes graduate-level primary-source philosophy across six languages. Lowering reading level would require rewriting the corpus and is contrary to the project&#39;s editorial purpose. Mitigations: chapter summaries via read_wiki MCP tool; cross-tradition links via TF-IDF.
+</div>
+<div class="exception">
+  <strong>WCAG 3.1.6 Pronunciation (AAA)</strong> — Exception: content-type<br>
+  Pronunciation aids for non-English terms across six languages (Urdu, Sanskrit, Old English, French, German, Old Javanese) would require pronunciation curation per term per language — content work explicitly deferred. IPA inline annotations may land in V2 or V3.
+</div>
+<div class="exception">
+  <strong>WCAG 3.3.9 Accessible Authentication (Enhanced) (AAA)</strong> — Exception: no-authentication<br>
+  No authentication.
+</div>
+
+  <h2>Verification</h2>
+  <p>
+    Every claim in this report is regenerated from
+    <code>docs/accessibility/conformance.yaml</code> by the open-source
+    generator at <code>apps/a11y-tools/src/generate/vpat.ts</code>.
+    Test artifacts (transcripts, screenshots, audio) are committed under
+    <code>docs/accessibility/test-runs/</code> and refresh on every PR
+    via continuous integration. Reproduce locally with:
+  </p>
+  <pre><code>git clone https://github.com/adoistic/falsafa
+cd falsafa &amp;&amp; bun install &amp;&amp; bun run a11y</code></pre>
+</body>
+</html>
