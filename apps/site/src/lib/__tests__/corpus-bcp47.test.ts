@@ -17,6 +17,34 @@ describe("bcp47Of", () => {
   it("normalizes language to lowercase, script to title case", () => {
     expect(bcp47Of({ language: "UR", script: "ARAB" })).toBe("ur-Arab");
   });
+  // Corpus-style inputs (long-form names from corpus/works/*/chapters/*/meta.json)
+  it("normalizes corpus 'arabic' script to ISO 15924 'Arab'", () => {
+    expect(bcp47Of({ language: "ur", script: "arabic" })).toBe("ur-Arab");
+  });
+  it("normalizes corpus 'latin' script to ISO 15924 'Latn'", () => {
+    expect(bcp47Of({ language: "sa", script: "latin" })).toBe("sa-Latn");
+  });
+  it("drops unrecognized 'other' script (lang-only fallback)", () => {
+    expect(bcp47Of({ language: "ur", script: "other" })).toBe("ur");
+  });
+  it("normalizes corpus language 'Urdu' to ISO 639 'ur'", () => {
+    expect(bcp47Of({ language: "Urdu", script: "arabic" })).toBe("ur-Arab");
+  });
+  it("normalizes corpus language 'Sanskrit' to ISO 639 'sa'", () => {
+    expect(bcp47Of({ language: "Sanskrit", script: "latin" })).toBe("sa-Latn");
+  });
+  it("normalizes corpus language 'old_english' to ISO 639 'ang'", () => {
+    expect(bcp47Of({ language: "old_english", script: "latin" })).toBe("ang-Latn");
+  });
+  it("normalizes corpus language 'Kawi' to ISO 639 'kaw'", () => {
+    expect(bcp47Of({ language: "Kawi", script: "latin" })).toBe("kaw-Latn");
+  });
+  it("normalizes corpus language 'French' to ISO 639 'fr'", () => {
+    expect(bcp47Of({ language: "French" })).toBe("fr");
+  });
+  it("normalizes corpus language 'German' to ISO 639 'de'", () => {
+    expect(bcp47Of({ language: "German" })).toBe("de");
+  });
 });
 
 describe("isRtl", () => {
