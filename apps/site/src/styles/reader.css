@@ -413,3 +413,14 @@
     animation: none;
   }
 }
+
+/* ── B.2: RTL overrides for Arabic-script variants ───────────────────── */
+
+.reader[data-layout="prose"]:dir(rtl) .reader-body > p:first-child::first-letter {
+  float: right;
+  margin: 0 0 0 0.5rem;
+}
+
+.source-citation:dir(rtl) {
+  text-align: right;
+}
