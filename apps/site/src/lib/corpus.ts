@@ -362,3 +362,30 @@ export function allChapterVariantPaths(): AllPathsEntry[] {
   }
   return entries;
 }
+
+// B.1: BCP-47 derivation for WCAG 3.1.1 / 3.1.2 lang attribute emission.
+// A variant carries { language, script? }. The combination yields a BCP-47
+// tag the screen reader interprets to switch voice/phonemes.
+
+export interface VariantLanguageMeta {
+  language: string;
+  script?: string;
+}
+
+export function bcp47Of(meta: VariantLanguageMeta): string {
+  const lang = (meta.language || "").trim().toLowerCase();
+  if (!lang) return "en";
+  if (!meta.script) return lang;
+  const script = meta.script.trim();
+  const titled = script[0]!.toUpperCase() + script.slice(1).toLowerCase();
+  return `${lang}-${titled}`;
+}
+
+const RTL_SCRIPTS = new Set(["Arab", "Hebr", "Syrc", "Thaa", "Nkoo"]);
+const RTL_LANGS_NO_SCRIPT = new Set(["ar", "he", "fa", "ur", "yi"]);
+
+export function isRtl(bcp47: string): boolean {
+  const [lang, script] = bcp47.split("-");
+  if (script) return RTL_SCRIPTS.has(script);
+  return RTL_LANGS_NO_SCRIPT.has(lang!.toLowerCase());
+}
