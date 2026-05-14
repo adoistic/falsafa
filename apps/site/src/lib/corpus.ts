@@ -362,3 +362,76 @@ export function allChapterVariantPaths(): AllPathsEntry[] {
   }
   return entries;
 }
+
+// B.1: BCP-47 derivation for WCAG 3.1.1 / 3.1.2 lang attribute emission.
+// A variant carries { language, script? }. The combination yields a BCP-47
+// tag the screen reader interprets to switch voice/phonemes.
+// Accepts both BCP-47-shaped subtags (e.g. "ur", "Arab") and the long-form
+// names the corpus actually stores ("Urdu", "arabic").
+
+export interface VariantLanguageMeta {
+  language: string;
+  script?: string;
+}
+
+// Long-form (corpus) → ISO 639 mapping. Add entries as new corpus languages land.
+const LANGUAGE_NAME_TO_ISO639: Record<string, string> = {
+  english: "en",
+  old_english: "ang",
+  sanskrit: "sa",
+  urdu: "ur",
+  kawi: "kaw",
+  french: "fr",
+  german: "de",
+};
+
+// Long-form (corpus) → ISO 15924 mapping for script subtags.
+const SCRIPT_NAME_TO_ISO15924: Record<string, string> = {
+  arabic: "Arab",
+  latin: "Latn",
+  devanagari: "Deva",
+  hebrew: "Hebr",
+};
+
+// Canonical ISO 15924 subtags. Used to passthrough an already-correct value.
+const ISO15924_KNOWN = new Set(["Arab", "Latn", "Deva", "Hebr", "Syrc", "Thaa", "Nkoo"]);
+
+function normalizeLanguageSubtag(raw: string): string {
+  const trimmed = raw.trim();
+  if (!trimmed) return "";
+  const lowered = trimmed.toLowerCase();
+  if (LANGUAGE_NAME_TO_ISO639[lowered]) return LANGUAGE_NAME_TO_ISO639[lowered]!;
+  // Otherwise assume the caller passed an ISO 639 code already.
+  return lowered;
+}
+
+function normalizeScriptSubtag(raw: string | undefined): string | undefined {
+  if (!raw) return undefined;
+  const trimmed = raw.trim();
+  if (!trimmed) return undefined;
+  const lowered = trimmed.toLowerCase();
+  // Try long-form name first.
+  if (SCRIPT_NAME_TO_ISO15924[lowered]) return SCRIPT_NAME_TO_ISO15924[lowered]!;
+  // ISO 15924 codes are 4 chars, title-case.
+  const titled = trimmed[0]!.toUpperCase() + trimmed.slice(1).toLowerCase();
+  if (titled.length === 4 && ISO15924_KNOWN.has(titled)) return titled;
+  // Unknown values ("other", typos) drop the script subtag — language alone
+  // still produces a valid BCP-47 tag and a correct dir via isRtl()'s fallback.
+  return undefined;
+}
+
+export function bcp47Of(meta: VariantLanguageMeta): string {
+  const lang = normalizeLanguageSubtag(meta.language || "");
+  if (!lang) return "en";
+  const script = normalizeScriptSubtag(meta.script);
+  return script ? `${lang}-${script}` : lang;
+}
+
+const RTL_SCRIPTS = new Set(["Arab", "Hebr", "Syrc", "Thaa", "Nkoo"]);
+const RTL_LANGS_NO_SCRIPT = new Set(["ar", "he", "fa", "ur", "yi"]);
+
+export function isRtl(bcp47: string): boolean {
+  const [lang, script] = bcp47.split("-");
+  if (script) return RTL_SCRIPTS.has(script);
+  return RTL_LANGS_NO_SCRIPT.has(lang!.toLowerCase());
+}

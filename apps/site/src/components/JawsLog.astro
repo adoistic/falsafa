@@ -1,0 +1,59 @@
+---
+// Reads docs/accessibility/manual-tests/jaws-log.yaml at build time.
+import { existsSync, readFileSync } from "node:fs";
+import { fileURLToPath } from "node:url";
+import { parse } from "yaml";
+
+interface JawsSession {
+  date: string;
+  jaws_version: string;
+  tester: string;
+  notes: string;
+  result: "pass" | "fail" | "partial";
+}
+
+const logPath = fileURLToPath(
+  new URL("../../../../docs/accessibility/manual-tests/jaws-log.yaml", import.meta.url),
+);
+const log = existsSync(logPath)
+  ? (parse(readFileSync(logPath, "utf8")) as { sessions: JawsSession[] })
+  : { sessions: [] };
+const sessions = log.sessions ?? [];
+---
+
+{sessions.length === 0 ? (
+  <p>
+    No JAWS verification sessions on record yet. Manual JAWS verification
+    is performed before any major customer demo and logged here. JAWS is a
+    paid, closed-source screen reader; we do not run it in automated CI.
+    See <a href="https://www.freedomscientific.com/products/software/jaws/">JAWS at Freedom Scientific</a>.
+  </p>
+) : (
+  <table class="jaws-log">
+    <thead>
+      <tr>
+        <th scope="col">Date</th>
+        <th scope="col">JAWS version</th>
+        <th scope="col">Tester</th>
+        <th scope="col">Notes</th>
+        <th scope="col">Result</th>
+      </tr>
+    </thead>
+    <tbody>
+      {sessions.map((s) => (
+        <tr>
+          <th scope="row"><time>{s.date}</time></th>
+          <td>{s.jaws_version}</td>
+          <td>{s.tester}</td>
+          <td>{s.notes}</td>
+          <td>{s.result}</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+)}
+
+<style>
+  .jaws-log { width: 100%; border-collapse: collapse; font-size: 0.95em; }
+  .jaws-log th, .jaws-log td { padding: 0.4rem 0.6rem; border-bottom: 1px solid var(--rule); text-align: left; }
+</style>

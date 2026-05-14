@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Falsafa — Accessibility Statement (EN 301 549 Annex F)</title>
+  <style>
+    body { font: 14px/1.6 system-ui, sans-serif; max-width: 800px; margin: 2rem auto; padding: 0 1rem; color: #1a1a1a; }
+    h1 { font-size: 1.8rem; }
+    h2 { margin-top: 2rem; border-bottom: 1px solid #ccc; padding-bottom: 0.25rem; }
+    h3 { margin-top: 1.5rem; }
+    .meta { color: #5a5a5a; }
+    ul { padding-left: 1.5rem; }
+  </style>
+</head>
+<body>
+  <h1>Accessibility Statement for Falsafa</h1>
+  <p class="meta">
+    Published: {{generatedAt}}<br>
+    Conforms to: {{standard}} — Level {{conformanceLevel}}<br>
+    EN 301 549 v3.2.1 Annex F format.
+  </p>
+
+  <h2>Compliance status</h2>
+  <p>
+    Falsafa partially conforms to {{standard}} Level {{conformanceLevel}},
+    with full conformance on selected AAA criteria. "Partially" reflects
+    documented content-type exceptions enumerated below; outside those,
+    every required criterion is supported and verified by automated tests
+    on every pull request.
+  </p>
+
+  <h2>Non-accessible content</h2>
+  <p>The following content does not meet the higher AAA criteria due to
+  the nature of the published material:</p>
+  {{exceptionsBlock}}
+
+  <h2>Preparation of this statement</h2>
+  <p>
+    This statement was generated from
+    <code>docs/accessibility/conformance.yaml</code> on
+    <strong>{{generatedAt}}</strong> by
+    <code>apps/a11y-tools/src/generate/annex-f.ts</code>. The same source
+    file drives the VPAT 2.5 INT report and the on-site
+    <a href="/accessibility">/accessibility</a> matrix page.
+  </p>
+  <p>
+    The statement was last reviewed on {{lastReview}} and is scheduled
+    for next review on {{nextReview}}.
+  </p>
+
+  <h2>Feedback and contact information</h2>
+  <p>
+    Report any accessibility issue to
+    <a href="mailto:{{contact}}">{{contact}}</a> or open a GitHub issue at
+    <a href="https://github.com/adoistic/falsafa/issues">github.com/adoistic/falsafa/issues</a>.
+    We aim to respond within 5 business days.
+  </p>
+
+  <h2>Enforcement procedure</h2>
+  <p>
+    EU residents may escalate unresolved accessibility complaints to the
+    national enforcement body designated under Directive 2016/2102 in
+    their member state. US residents may file a complaint under the
+    Americans with Disabilities Act (ADA) or Section 508 (for federal
+    accessibility complaints). Indian residents may invoke their rights
+    under the Rights of Persons with Disabilities Act, 2016.
+  </p>
+
+  <h2>Technical specifications</h2>
+  <p>
+    Accessibility of Falsafa relies on the following technologies to work
+    with the particular combination of web browser and any assistive
+    technologies or plugins installed on your computer:
+  </p>
+  <ul>
+    <li>HTML</li>
+    <li>WAI-ARIA</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+
+  <h2>Assessment approach</h2>
+  <p>
+    Falsafa assessed accessibility through automated CI tests
+    (axe-core, pa11y, Playwright synthetic transcripts) on every pull
+    request, plus real-screen-reader runs (VoiceOver on macOS, NVDA on
+    Windows) via the Guidepup framework. Manual JAWS verification is
+    performed before any major release. All test artifacts (transcripts,
+    audio recordings, screenshots) are committed to the public repository
+    at <a href="https://github.com/adoistic/falsafa/tree/main/docs/accessibility/test-runs">docs/accessibility/test-runs/</a>.
+  </p>
+</body>
+</html>

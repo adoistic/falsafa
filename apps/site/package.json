@@ -6,11 +6,12 @@
   "description": "Falsafa reading site — Astro 5, editorial typography, watercolor covers, polymorphic chapter renderer (prose / verse / manuscript).",
   "license": "MIT",
   "scripts": {
-    "predev": "bun run scripts/prepare-covers.ts && bun run scripts/prepare-corpus.ts && bun run scripts/build-paragraph-index.ts",
-    "prebuild": "bun run scripts/prepare-covers.ts && bun run scripts/prepare-corpus.ts && bun run scripts/build-paragraph-index.ts",
+    "predev": "bun run scripts/prepare-covers.ts && bun run scripts/prepare-corpus.ts && bun run scripts/build-paragraph-index.ts && bun run scripts/prepare-a11y-artifacts.ts",
+    "prebuild": "bun run scripts/prepare-covers.ts && bun run scripts/prepare-corpus.ts && bun run scripts/build-paragraph-index.ts && bun run scripts/prepare-a11y-artifacts.ts",
     "prepare-covers": "bun run scripts/prepare-covers.ts",
     "prepare-corpus": "bun run scripts/prepare-corpus.ts",
     "build-paragraph-index": "bun run scripts/build-paragraph-index.ts",
+    "prepare-a11y-artifacts": "bun run scripts/prepare-a11y-artifacts.ts",
     "dev": "astro dev",
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
@@ -35,11 +36,14 @@
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.11.2",
+    "@guidepup/guidepup": "^0.24.1",
+    "@guidepup/playwright": "^0.15.0",
     "@playwright/test": "^1.59.1",
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/preact": "^3.2.4",
     "happy-dom": "^20.9.0",
     "msw": "^2.13.6",
+    "pa11y-ci": "^4.1.1",
     "pagefind": "^1.5.2",
     "playwright": "^1.59.1"
   }

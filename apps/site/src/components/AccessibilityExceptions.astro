@@ -1,0 +1,55 @@
+---
+import type { ConformanceDoc } from "../lib/conformance.generated";
+
+interface Props {
+  doc: ConformanceDoc;
+}
+const { doc } = Astro.props;
+
+const exceptions = doc.criteria.filter(
+  (c) => c.status === "not-applicable" && c.exception,
+);
+const contentTypeExceptions = exceptions.filter((c) => c.exception === "content-type");
+const otherExceptions = exceptions.filter((c) => c.exception !== "content-type");
+---
+
+<div class="exceptions">
+  {contentTypeExceptions.length > 0 && (
+    <article aria-labelledby="ct-exc">
+      <h3 id="ct-exc">Content-type exceptions</h3>
+      <p>
+        Falsafa publishes graduate-level primary-source philosophy across
+        six languages. The following AAA criteria are content-type
+        exceptions; they would require rewriting the corpus and contradict
+        the project's editorial purpose.
+      </p>
+      {contentTypeExceptions.map((c) => (
+        <div class="exception" role="note">
+          <strong>WCAG {c.id} {c.name} (Level {c.level})</strong>
+          <p>{c.notes}</p>
+        </div>
+      ))}
+    </article>
+  )}
+
+  {otherExceptions.length > 0 && (
+    <article aria-labelledby="other-exc">
+      <h3 id="other-exc">Other documented exceptions</h3>
+      {otherExceptions.map((c) => (
+        <div class="exception" role="note">
+          <strong>WCAG {c.id} {c.name} (Level {c.level})</strong> — {c.exception}
+          <p>{c.notes}</p>
+        </div>
+      ))}
+    </article>
+  )}
+</div>
+
+<style>
+  .exceptions .exception {
+    background: color-mix(in oklab, var(--accent) 8%, var(--paper));
+    border-left: 3px solid var(--accent);
+    padding: 0.75rem 1rem;
+    margin-block: 0.75rem;
+  }
+</style>

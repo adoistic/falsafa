@@ -1,0 +1,81 @@
+---
+import type { ConformanceCriterion, ConformanceDoc } from "../lib/conformance.generated";
+
+interface Props {
+  doc: ConformanceDoc;
+}
+
+const { doc } = Astro.props;
+
+const principles: Record<string, ConformanceCriterion[]> = {
+  "1. Perceivable": doc.criteria.filter((c) => c.id.startsWith("1.")),
+  "2. Operable": doc.criteria.filter((c) => c.id.startsWith("2.")),
+  "3. Understandable": doc.criteria.filter((c) => c.id.startsWith("3.")),
+  "4. Robust": doc.criteria.filter((c) => c.id.startsWith("4.")),
+};
+
+const statusIcon: Record<string, string> = {
+  supports: "✓",
+  partial: "◐",
+  "not-applicable": "⊘",
+  "does-not-support": "✗",
+};
+---
+
+<div class="matrix">
+  {Object.entries(principles).map(([principle, items]) => (
+    <details open>
+      <summary><h3>{principle} <span class="count">({items.length})</span></h3></summary>
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">SC</th>
+            <th scope="col">Name</th>
+            <th scope="col">Level</th>
+            <th scope="col">Status</th>
+            <th scope="col">Notes &amp; evidence</th>
+          </tr>
+        </thead>
+        <tbody>
+          {items.map((c) => (
+            <tr class={`row-${c.status}`}>
+              <th scope="row"><code>{c.id}</code></th>
+              <td>{c.name}</td>
+              <td>{c.level}</td>
+              <td>
+                <span aria-hidden="true">{statusIcon[c.status]}</span>
+                <span>{c.status}{c.exception ? ` (${c.exception})` : ""}</span>
+              </td>
+              <td>
+                <p>{c.notes}</p>
+                {(c.evidence ?? []).length > 0 && (
+                  <details>
+                    <summary>Proof ({(c.evidence ?? []).length})</summary>
+                    <ul>
+                      {(c.evidence ?? []).map((ev) => (
+                        <li>
+                          <code>{ev.kind}</code>: <code>{ev.path}{ev.lines ? `:${ev.lines}` : ev.anchor ? ` (${ev.anchor})` : ""}</code>
+                        </li>
+                      ))}
+                    </ul>
+                  </details>
+                )}
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </details>
+  ))}
+</div>
+
+<style>
+  .matrix table { width: 100%; border-collapse: collapse; margin-block: 1rem; font-size: 0.95em; }
+  .matrix th, .matrix td { padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
+  .matrix th { background: var(--paper); }
+  .matrix .row-supports { color: var(--ink); }
+  .matrix .row-not-applicable { color: var(--ink-muted); }
+  .matrix .row-does-not-support { color: var(--accent); }
+  .matrix .count { color: var(--ink-muted); font-weight: normal; font-size: 0.9em; }
+  .matrix details summary { cursor: pointer; }
+</style>

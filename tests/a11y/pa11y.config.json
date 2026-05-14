@@ -1,0 +1,19 @@
+{
+  "defaults": {
+    "standard": "WCAG2AA",
+    "timeout": 30000,
+    "wait": 1000,
+    "chromeLaunchConfig": {
+      "args": ["--no-sandbox"]
+    }
+  },
+  "urls": [
+    "http://localhost:4321/",
+    "http://localhost:4321/about/",
+    "http://localhost:4321/works/",
+    "http://localhost:4321/works/cynewulf-andreas-07b573/01/translation/",
+    "http://localhost:4321/works/mirza-ghalib-diwan-e-ghalib-74ed4c/01-aa-ke-meri-jaan-ko-qarar-nahin-hai/original/",
+    "http://localhost:4321/works/unknown-angirasa-smrti-2bf9d1/01/transliteration/",
+    "http://localhost:4321/eval/"
+  ]
+}

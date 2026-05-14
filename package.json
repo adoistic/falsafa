@@ -24,8 +24,18 @@
     "convert": "bun run scripts/convert.ts",
     "cross-link": "bun run scripts/cross-link.ts",
     "images": "bun run scripts/generate-images.ts",
-    "test": "bun test",
-    "typecheck": "tsc --noEmit"
+    "test": "bun test apps scripts tests/a11y/lib",
+    "typecheck": "tsc --noEmit",
+    "a11y:verify": "bun run apps/a11y-tools/src/index.ts verify",
+    "a11y:generate": "bun run apps/a11y-tools/src/index.ts generate",
+    "a11y:contrast": "bun run scripts/a11y-contrast-audit.ts",
+    "a11y:pa11y": "bunx pa11y-ci --config tests/a11y/pa11y.config.json",
+    "a11y:synthetic": "bunx playwright test --config tests/a11y/playwright.config.ts --project synthetic",
+    "a11y:guidepup:vo": "bunx playwright test --config tests/a11y/playwright.config.ts --project voiceover",
+    "a11y:guidepup:nvda": "bunx playwright test --config tests/a11y/playwright.config.ts --project nvda",
+    "a11y:audio:espeak": "bun run tests/a11y/lib/synthesize-audio.ts",
+    "a11y:merge-artifacts": "bun run tests/a11y/lib/merge-artifacts.ts",
+    "a11y": "bun run a11y:contrast && bun run a11y:verify && bun run a11y:pa11y && bun run a11y:synthetic"
   },
   "devDependencies": {
     "@types/bun": "latest",

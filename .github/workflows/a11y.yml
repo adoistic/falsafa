@@ -1,0 +1,130 @@
+name: Accessibility
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  static:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
+        with: { bun-version: latest }
+      - run: bun install --frozen-lockfile
+      - run: bun run --cwd apps/site build
+      - run: bun run a11y:contrast
+      - run: bun run a11y:verify
+      - name: pa11y-ci
+        run: |
+          bun run --cwd apps/site preview &
+          npx -y wait-on http://localhost:4321
+          bun run a11y:pa11y
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: static
+          path: docs/accessibility/test-runs/
+
+  synthetic:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
+        with: { bun-version: latest }
+      - run: bun install --frozen-lockfile
+      - name: install Playwright chromium
+        run: |
+          cd apps/site
+          bunx playwright install --with-deps chromium
+      - run: bun run --cwd apps/site build
+      - name: synthetic journeys
+        run: |
+          bun run --cwd apps/site preview &
+          npx -y wait-on http://localhost:4321
+          A11Y_BASE_URL=http://localhost:4321 bun run a11y:synthetic
+      - run: sudo apt-get update && sudo apt-get install -y espeak-ng ffmpeg
+      - run: bun run a11y:audio:espeak
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: synthetic
+          path: docs/accessibility/test-runs/
+
+  guidepup-voiceover:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
+        with: { bun-version: latest }
+      - run: bun install --frozen-lockfile
+      - name: install Playwright webkit
+        run: |
+          cd apps/site
+          bunx playwright install --with-deps webkit
+      - run: brew install --cask blackhole-2ch || true
+      - run: brew install ffmpeg
+      - run: bun run --cwd apps/site build
+      - name: VoiceOver journeys
+        run: |
+          bun run --cwd apps/site preview &
+          npx -y wait-on http://localhost:4321
+          A11Y_BASE_URL=http://localhost:4321 bun run a11y:guidepup:vo
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: voiceover
+          path: docs/accessibility/test-runs/
+
+  guidepup-nvda:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
+        with: { bun-version: latest }
+      - run: bun install --frozen-lockfile
+      - name: install Playwright chromium
+        run: |
+          cd apps/site
+          bunx playwright install --with-deps chromium
+      - name: install NVDA
+        run: choco install nvda --no-progress --yes
+      - run: bun run --cwd apps/site build
+      - name: NVDA journeys
+        shell: pwsh
+        run: |
+          Start-Process -NoNewWindow bun -ArgumentList "run --cwd apps/site preview"
+          npx -y wait-on http://localhost:4321
+          $env:A11Y_BASE_URL = "http://localhost:4321"
+          bun run a11y:guidepup:nvda
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: nvda
+          path: docs/accessibility/test-runs/
+
+  commit-results:
+    needs: [static, synthetic, guidepup-voiceover, guidepup-nvda]
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
+        with: { bun-version: latest }
+      - uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+          merge-multiple: true
+      - run: bun install --frozen-lockfile
+      - run: bun run a11y:merge-artifacts
+      - run: bun run a11y:generate vpat && bun run a11y:generate annex-f && bun run a11y:generate matrix
+      - name: commit artifacts
+        run: |
+          git config user.name "falsafa-a11y-bot"
+          git config user.email "a11y-bot@thothica.com"
+          git add docs/accessibility/test-runs/ docs/accessibility/vpat-v1.0.html docs/accessibility/statement-en301549.html apps/site/src/lib/conformance.generated.ts
+          git diff --staged --quiet || (git commit -m "chore(a11y): refresh test-run artifacts [skip ci]" && git push)

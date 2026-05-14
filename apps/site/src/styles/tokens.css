@@ -9,8 +9,8 @@
   --ink: #1a1614;         /* warm dark text */
   --ink-muted: #5a5550;   /* secondary text, byline, smallcaps */
   --accent: #8a3a2e;      /* terracotta — links, drop cap, accents */
-  --accent-soft: #c8907a; /* hover, soft highlights */
-  --rule: #e8e0d2;        /* dividers, borders */
+  --accent-soft: #6b2c22; /* link hover — WCAG 1.4.3 ≥ 4.5:1 against --paper */
+  --rule: #8c7860;        /* dividers, borders — WCAG 1.4.11 ≥ 3:1 against --paper */
   --highlight: #f5e6c8;   /* notebook highlight bg */
   --error: #a02828;
   --success: #2a6a3a;
@@ -78,8 +78,8 @@
   --ink: #f0e8d8;
   --ink-muted: #a89e8c;
   --accent: #d68a72;
-  --accent-soft: #8a3a2e;
-  --rule: #2e2823;
+  --accent-soft: #d97a6a; /* link hover — WCAG 1.4.3 ≥ 4.5:1 against --paper */
+  --rule: #8c7e62;        /* dividers, borders — WCAG 1.4.11 ≥ 3:1 against --paper */
   --highlight: #5a4828;
 }
 
@@ -89,8 +89,8 @@
   --ink: #3a2818;
   --ink-muted: #6a584a;
   --accent: #6a3a20;
-  --accent-soft: #a06a4a;
-  --rule: #d8c8a8;
+  --accent-soft: #5a3018; /* link hover — WCAG 1.4.3 ≥ 4.5:1 against --paper */
+  --rule: #8a7e60;        /* dividers, borders — WCAG 1.4.11 ≥ 3:1 against --paper */
   --highlight: #e8d6a8;
 }
 
@@ -117,5 +117,44 @@
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
+  }
+}
+
+/* B.5: system-preference auto-detect.
+   Honors OS-level accessibility settings so disabled users get the right
+   experience on first load with zero UI interaction. Explicit user
+   overrides via the chrome `Aa` picker (V2) take precedence — they set
+   `[data-theme=...]` on `<html>` which beats the media query. */
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    color-scheme: dark;
+    --paper: #1a1614;
+    --ink: #f0e8d8;
+    --ink-muted: #a89e8c;
+    --accent: #d68a72;
+    --accent-soft: #d97a6a;
+    --rule: #8c7e62;
+  }
+}
+
+@media (prefers-contrast: more) {
+  :root:not([data-theme="sepia"]) {
+    /* Sepia is treated as user-explicit and not overridden — a reader
+       who chose sepia accepted its profile. */
+    --ink: light-dark(#000000, #ffffff);
+    --ink-muted: light-dark(#1a1614, #f0e8d8);
+  }
+}
+
+@media (forced-colors: active) {
+  /* Windows High Contrast Mode. System color keywords let the OS scheme win. */
+  :root {
+    --paper: Canvas;
+    --ink: CanvasText;
+    --ink-muted: GrayText;
+    --accent: LinkText;
+    --accent-soft: VisitedText;
+    --rule: ButtonText;
   }
 }
