@@ -98,10 +98,18 @@ criteria:
   - id: "2.1.1"
     name: Keyboard
     level: A
-    status: does-not-support
-    notes: "TBD V1"
-    evidence: []
-    commit: "0000000"
+    status: supports
+    notes: >
+      All interactive controls are keyboard-operable. The search combobox
+      handles ↓/↑/Enter without leaving the input. Dialog opens/closes via
+      Cmd+K / Escape.
+    evidence:
+      - kind: source
+        path: apps/site/src/components/SearchDialog.astro
+        anchor: "ArrowDown"
+      - kind: artifact
+        path: docs/accessibility/test-runs/search/latest/transcript-synthetic.md
+    commit: HEAD
 
   - id: "2.1.2"
     name: No Keyboard Trap
@@ -267,10 +275,18 @@ criteria:
   - id: "4.1.2"
     name: Name, Role, Value
     level: A
-    status: does-not-support
-    notes: "TBD V1"
-    evidence: []
-    commit: "0000000"
+    status: supports
+    notes: >
+      All interactive controls have accessible names and explicit roles.
+      The combobox/listbox pattern is the most complex case; other
+      controls (buttons, dialogs, nav links) use semantic HTML.
+    evidence:
+      - kind: source
+        path: apps/site/src/components/SearchDialog.astro
+        anchor: 'role="combobox"'
+      - kind: artifact
+        path: docs/accessibility/test-runs/search/latest/transcript-synthetic.md
+    commit: HEAD
 
   - id: "1.2.4"
     name: Captions (Live)
@@ -521,10 +537,28 @@ criteria:
   - id: "4.1.3"
     name: Status Messages
     level: AA
-    status: does-not-support
-    notes: "TBD V1"
-    evidence: []
-    commit: "0000000"
+    status: supports
+    notes: >
+      Search dialog announces result count via aria-live="polite" on the
+      status string. The results list is a role="listbox" with role="option"
+      items; the input is a role="combobox" with aria-activedescendant, so
+      screen readers announce each option change without leaving the input.
+    evidence:
+      - kind: source
+        path: apps/site/src/components/SearchDialog.astro
+        anchor: 'role="combobox"'
+      - kind: source
+        path: apps/site/src/components/SearchDialog.astro
+        anchor: 'role="listbox"'
+      - kind: source
+        path: apps/site/src/components/SearchDialog.astro
+        anchor: aria-activedescendant
+      - kind: source
+        path: apps/site/src/components/SearchDialog.astro
+        anchor: 'aria-live="polite"'
+      - kind: artifact
+        path: docs/accessibility/test-runs/search/latest/transcript-voiceover.md
+    commit: HEAD
 
   - id: "1.2.6"
     name: Sign Language (Prerecorded)
