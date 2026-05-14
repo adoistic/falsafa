@@ -1,0 +1,4 @@
+# JAWS manual verification log
+# JAWS automation is not in scope; verification happens before each major
+# government customer demo. Append a new entry per session.
+sessions: []
