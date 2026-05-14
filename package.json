@@ -24,7 +24,7 @@
     "convert": "bun run scripts/convert.ts",
     "cross-link": "bun run scripts/cross-link.ts",
     "images": "bun run scripts/generate-images.ts",
-    "test": "bun test",
+    "test": "bun test apps scripts tests/a11y/lib",
     "typecheck": "tsc --noEmit",
     "a11y:verify": "bun run apps/a11y-tools/src/index.ts verify",
     "a11y:generate": "bun run apps/a11y-tools/src/index.ts generate",
