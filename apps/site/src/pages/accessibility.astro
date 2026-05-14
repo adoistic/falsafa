@@ -1,0 +1,135 @@
+---
+import Base from "../layouts/Base.astro";
+import AccessibilityExceptions from "../components/AccessibilityExceptions.astro";
+import AccessibilityTestRuns from "../components/AccessibilityTestRuns.astro";
+import AuditYourself from "../components/AuditYourself.astro";
+import ConformanceMatrix from "../components/ConformanceMatrix.astro";
+import JawsLog from "../components/JawsLog.astro";
+import { CONFORMANCE } from "../lib/conformance.generated";
+import { latestRuns } from "../lib/test-run-artifacts";
+
+const meta = CONFORMANCE.meta;
+const totalCriteria = CONFORMANCE.criteria.length;
+const supportedAAA = CONFORMANCE.criteria.filter(
+  (c) => c.level === "AAA" && c.status === "supports",
+).length;
+const runs = await latestRuns();
+---
+
+<Base
+  title="Accessibility — Falsafa"
+  description="WCAG 2.2 AA conformance with continuous verification."
+>
+  <main id="main" class="a11y-page">
+    <header>
+      <h1>Accessibility</h1>
+      <p class="lede">
+        Falsafa conforms to <strong>{meta.standard} Level {meta.conformance_level}</strong>,
+        with AAA on {supportedAAA} of 31 AAA criteria. Conformance is verified
+        on every pull request and any reviewer can independently regenerate
+        every artifact on this page.
+      </p>
+      <p>
+        <a href="/docs/accessibility/vpat-v1.0.html">Download VPAT 2.5 INT (HTML)</a> ·
+        <a href="/docs/accessibility/statement-en301549.html">EN 301 549 Annex F statement (HTML)</a>
+      </p>
+      <p class="meta">
+        Last verified: <time>{runs.latestTimestamp ?? "—"}</time> ·
+        commit <code>{runs.latestSha ?? "—"}</code>
+      </p>
+    </header>
+
+    <section aria-labelledby="prefs-pointer">
+      <h2 id="prefs-pointer">Reading preferences</h2>
+      <p>
+        Your operating-system settings (color scheme, contrast, motion) are
+        honored automatically. Explicit per-site controls (font size, theme
+        picker) will land in a follow-up release.
+      </p>
+    </section>
+
+    <section aria-labelledby="audit-self">
+      <h2 id="audit-self">Audit yourself</h2>
+      <AuditYourself />
+    </section>
+
+    <section aria-labelledby="matrix">
+      <h2 id="matrix">Conformance matrix — WCAG 2.2 ({totalCriteria} criteria)</h2>
+      <ConformanceMatrix doc={CONFORMANCE} />
+    </section>
+
+    <section aria-labelledby="exceptions">
+      <h2 id="exceptions">Documented exceptions</h2>
+      <AccessibilityExceptions doc={CONFORMANCE} />
+    </section>
+
+    <section aria-labelledby="methodology">
+      <h2 id="methodology">Methodology</h2>
+      <p>
+        Three CI jobs run on every pull request: static checks (axe-core +
+        pa11y + token-contrast audit on Ubuntu), Playwright synthetic
+        transcripts (Ubuntu), and real screen-reader transcripts via
+        Guidepup — VoiceOver on macOS, NVDA on Windows. Each journey
+        produces a JSON result, a Markdown transcript, screenshots, an MP4
+        UI capture, and an MP3 of the screen reader's voice. Artifacts
+        commit back to <code>docs/accessibility/test-runs/</code> on every
+        push to main. Manual JAWS verification is performed before each
+        major release; entries below.
+      </p>
+    </section>
+
+    <section aria-labelledby="frameworks">
+      <h2 id="frameworks">Section 508 + EN 301 549 mappings</h2>
+      <details>
+        <summary>Section 508 functional performance criteria</summary>
+        <ul>
+          {CONFORMANCE.section_508.map((e) => (
+            <li>
+              <strong>{e.id} {e.name}</strong> — {e.status} — {e.notes}
+            </li>
+          ))}
+        </ul>
+      </details>
+      <details>
+        <summary>EN 301 549 v3.2.1 clauses 5-13</summary>
+        <ul>
+          {CONFORMANCE.en_301_549.map((e) => (
+            <li>
+              <strong>Clause {e.clause} {e.name}</strong> — {e.status} — {e.notes}
+            </li>
+          ))}
+        </ul>
+      </details>
+    </section>
+
+    <section aria-labelledby="runs">
+      <h2 id="runs">Recent test runs</h2>
+      <AccessibilityTestRuns runs={runs.recent} />
+    </section>
+
+    <section aria-labelledby="jaws">
+      <h2 id="jaws">Manual JAWS verification</h2>
+      <JawsLog />
+    </section>
+
+    <section aria-labelledby="report">
+      <h2 id="report">Report an accessibility issue</h2>
+      <p>
+        Email <a href={`mailto:${meta.contact}`}>{meta.contact}</a> or open
+        a GitHub issue at
+        <a href="https://github.com/adoistic/falsafa/issues/new?labels=accessibility">
+          github.com/adoistic/falsafa
+        </a>.
+        We aim to respond within 5 business days.
+      </p>
+    </section>
+  </main>
+</Base>
+
+<style>
+  .a11y-page { max-width: 880px; margin: 2rem auto; padding: 0 1rem; }
+  .a11y-page .lede { font-size: 1.15rem; }
+  .a11y-page .meta { color: var(--ink-muted); font-size: 0.9rem; }
+  .a11y-page section { margin-block: 2.5rem; }
+  .a11y-page h2 { border-bottom: 1px solid var(--rule); padding-bottom: 0.25rem; }
+</style>
