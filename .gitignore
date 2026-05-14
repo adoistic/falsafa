@@ -2,6 +2,11 @@
 .claude/
 .superpowers/
 
+# Test-run artifacts from local developer runs (CI runs commit under <sha>/)
+docs/accessibility/test-runs/*/local/
+docs/accessibility/test-runs/_playwright-output/
+docs/accessibility/test-runs/contrast/
+
 # Dependencies
 node_modules/
 .pnpm-store/
