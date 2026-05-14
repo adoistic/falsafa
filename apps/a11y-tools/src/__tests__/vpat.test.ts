@@ -1,4 +1,5 @@
 import { describe, expect, it } from "bun:test";
+import { renderAnnexF } from "../generate/annex-f";
 import { renderVpat } from "../generate/vpat";
 import type { ConformanceDoc } from "../types";
 
@@ -68,5 +69,18 @@ describe("renderVpat", () => {
     const html = renderVpat(FIXTURE_DOC, "Falsafa", new Date("2026-05-14T00:00:00Z"));
     expect(html).toContain("302.1");
     expect(html).toContain("5.2");
+  });
+});
+
+describe("renderAnnexF", () => {
+  it("includes the exceptions block", () => {
+    const html = renderAnnexF(FIXTURE_DOC, new Date("2026-05-14T00:00:00Z"));
+    expect(html).toContain("3.1.5");
+  });
+  it("includes the enforcement section for all three jurisdictions", () => {
+    const html = renderAnnexF(FIXTURE_DOC, new Date("2026-05-14T00:00:00Z"));
+    expect(html).toContain("Directive 2016/2102");
+    expect(html).toContain("Section 508");
+    expect(html).toContain("Rights of Persons with Disabilities Act");
   });
 });
