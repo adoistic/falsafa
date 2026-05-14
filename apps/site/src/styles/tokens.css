@@ -9,8 +9,8 @@
   --ink: #1a1614;         /* warm dark text */
   --ink-muted: #5a5550;   /* secondary text, byline, smallcaps */
   --accent: #8a3a2e;      /* terracotta — links, drop cap, accents */
-  --accent-soft: #c8907a; /* hover, soft highlights */
-  --rule: #e8e0d2;        /* dividers, borders */
+  --accent-soft: #6b2c22; /* link hover — WCAG 1.4.3 ≥ 4.5:1 against --paper */
+  --rule: #8c7860;        /* dividers, borders — WCAG 1.4.11 ≥ 3:1 against --paper */
   --highlight: #f5e6c8;   /* notebook highlight bg */
   --error: #a02828;
   --success: #2a6a3a;
@@ -78,8 +78,8 @@
   --ink: #f0e8d8;
   --ink-muted: #a89e8c;
   --accent: #d68a72;
-  --accent-soft: #8a3a2e;
-  --rule: #2e2823;
+  --accent-soft: #d97a6a; /* link hover — WCAG 1.4.3 ≥ 4.5:1 against --paper */
+  --rule: #8c7e62;        /* dividers, borders — WCAG 1.4.11 ≥ 3:1 against --paper */
   --highlight: #5a4828;
 }
 
@@ -89,8 +89,8 @@
   --ink: #3a2818;
   --ink-muted: #6a584a;
   --accent: #6a3a20;
-  --accent-soft: #a06a4a;
-  --rule: #d8c8a8;
+  --accent-soft: #5a3018; /* link hover — WCAG 1.4.3 ≥ 4.5:1 against --paper */
+  --rule: #8a7e60;        /* dividers, borders — WCAG 1.4.11 ≥ 3:1 against --paper */
   --highlight: #e8d6a8;
 }
 

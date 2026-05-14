@@ -302,10 +302,24 @@ criteria:
   - id: "1.4.3"
     name: Contrast (Minimum)
     level: AA
-    status: does-not-support
-    notes: "TBD V1"
-    evidence: []
-    commit: "0000000"
+    status: supports
+    notes: >
+      Body text contrast: light 16.7:1, dark 14.8:1, sepia 11:1 — all
+      exceed WCAG 1.4.3 4.5:1 minimum and also pass the AAA 7:1 ceiling.
+      The accent-soft link-hover color is now darker (≥ 4.5:1 in all themes).
+    evidence:
+      - kind: source
+        path: apps/site/src/styles/tokens.css
+        anchor: "--ink"
+      - kind: source
+        path: apps/site/src/styles/tokens.css
+        anchor: "--accent-soft"
+      - kind: test
+        path: scripts/__tests__/a11y-contrast-audit.test.ts
+        lines: "1-47"
+      - kind: artifact
+        path: docs/accessibility/test-runs/contrast/latest/result.json
+    commit: HEAD
 
   - id: "1.4.4"
     name: Resize Text
@@ -334,10 +348,24 @@ criteria:
   - id: "1.4.11"
     name: Non-text Contrast
     level: AA
-    status: does-not-support
-    notes: "TBD V1"
-    evidence: []
-    commit: "0000000"
+    status: supports
+    notes: >
+      Every UI token pair (--rule, --accent-soft variants) measured ≥ 3:1
+      against its theme's paper background. Audit runs via
+      `bun run a11y:contrast` in CI; non-text-contrast failures fail the build.
+    evidence:
+      - kind: source
+        path: apps/site/src/styles/tokens.css
+        anchor: "--rule"
+      - kind: source
+        path: apps/site/src/styles/tokens.css
+        anchor: "--accent-soft"
+      - kind: test
+        path: scripts/__tests__/a11y-contrast-audit.test.ts
+        lines: "1-47"
+      - kind: artifact
+        path: docs/accessibility/test-runs/contrast/latest/result.json
+    commit: HEAD
 
   - id: "1.4.12"
     name: Text Spacing
