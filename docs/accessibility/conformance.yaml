@@ -634,10 +634,16 @@ criteria:
   - id: "2.3.3"
     name: Animation from Interactions
     level: AAA
-    status: does-not-support
-    notes: "TBD V1"
-    evidence: []
-    commit: "0000000"
+    status: supports
+    notes: >
+      The site honors prefers-reduced-motion: reduce by capping all
+      animation/transition durations to 0.01ms. No motion-from-interaction
+      effects are exempt.
+    evidence:
+      - kind: source
+        path: apps/site/src/styles/tokens.css
+        anchor: "prefers-reduced-motion"
+    commit: HEAD
 
   - id: "2.4.8"
     name: Location
@@ -820,9 +826,23 @@ section_508:
 en_301_549:
   - clause: "5.2"
     name: Activation of accessibility features
-    status: does-not-support
-    notes: "TBD V1 — system-preference auto-detection (Chunk 2 B.5)"
-    evidence: []
+    status: supports
+    notes: >
+      System preferences (prefers-color-scheme, prefers-contrast,
+      prefers-reduced-motion, forced-colors) are honored without UI
+      interaction. Disabled users get a correctly-themed first load.
+    evidence:
+      - kind: source
+        path: apps/site/src/styles/tokens.css
+        anchor: "prefers-color-scheme"
+      - kind: source
+        path: apps/site/src/styles/tokens.css
+        anchor: "prefers-contrast"
+      - kind: source
+        path: apps/site/src/styles/tokens.css
+        anchor: "forced-colors"
+      - kind: artifact
+        path: docs/accessibility/test-runs/theme-prefs/latest/transcript-synthetic.md
   - clause: "5.3"
     name: Biometrics
     status: not-applicable
