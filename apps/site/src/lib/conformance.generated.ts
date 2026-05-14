@@ -104,10 +104,25 @@ export const CONFORMANCE: ConformanceDoc = {
       "id": "1.3.1",
       "name": "Info and Relationships",
       "level": "A",
-      "status": "does-not-support",
-      "notes": "TBD V1",
-      "evidence": [],
-      "commit": "0000000"
+      "status": "supports",
+      "notes": "Semantic HTML throughout — header/main/nav/footer/article landmarks, heading hierarchy h1→h6, <table> with <th scope> in the conformance matrix, <dl>/<dt>/<dd> for description lists, <details>/<summary> for collapsibles.\n",
+      "evidence": [
+        {
+          "kind": "source",
+          "path": "apps/site/src/components/ConformanceMatrix.astro",
+          "anchor": "scope=\"col\""
+        },
+        {
+          "kind": "source",
+          "path": "apps/site/src/layouts/Base.astro",
+          "anchor": "<main"
+        },
+        {
+          "kind": "artifact",
+          "path": "docs/accessibility/test-runs/homepage/latest/transcript-synthetic.md"
+        }
+      ],
+      "commit": "HEAD"
     },
     {
       "id": "1.3.2",
@@ -214,10 +229,20 @@ export const CONFORMANCE: ConformanceDoc = {
       "id": "2.4.1",
       "name": "Bypass Blocks",
       "level": "A",
-      "status": "does-not-support",
-      "notes": "TBD V1",
-      "evidence": [],
-      "commit": "0000000"
+      "status": "supports",
+      "notes": "Skip-link on every page targets <main id=\"main\">. Skip-link is visible on focus and reaches main in one keystroke.\n",
+      "evidence": [
+        {
+          "kind": "source",
+          "path": "apps/site/src/layouts/Base.astro",
+          "anchor": "href=\"#main\""
+        },
+        {
+          "kind": "artifact",
+          "path": "docs/accessibility/test-runs/homepage/latest/transcript-synthetic.md"
+        }
+      ],
+      "commit": "HEAD"
     },
     {
       "id": "2.4.2",
@@ -520,19 +545,31 @@ export const CONFORMANCE: ConformanceDoc = {
       "id": "2.4.6",
       "name": "Headings and Labels",
       "level": "AA",
-      "status": "does-not-support",
-      "notes": "TBD V1",
-      "evidence": [],
-      "commit": "0000000"
+      "status": "supports",
+      "notes": "Every page has a single h1. Subsections use h2 with aria-labelledby pointers from <section>. Form inputs have explicit <label>.\n",
+      "evidence": [
+        {
+          "kind": "source",
+          "path": "apps/site/src/pages/accessibility.astro",
+          "anchor": "aria-labelledby"
+        }
+      ],
+      "commit": "HEAD"
     },
     {
       "id": "2.4.7",
       "name": "Focus Visible",
       "level": "AA",
-      "status": "does-not-support",
-      "notes": "TBD V1",
-      "evidence": [],
-      "commit": "0000000"
+      "status": "supports",
+      "notes": "Site-wide :focus-visible style produces a high-contrast ring. (Enhanced 2.4.13 AAA focus appearance audit is V2 scope.)\n",
+      "evidence": [
+        {
+          "kind": "source",
+          "path": "apps/site/src/styles/global.css",
+          "anchor": ":focus-visible"
+        }
+      ],
+      "commit": "HEAD"
     },
     {
       "id": "2.4.11",
