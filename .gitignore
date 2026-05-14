@@ -7,6 +7,9 @@ docs/accessibility/test-runs/*/local/
 docs/accessibility/test-runs/_playwright-output/
 docs/accessibility/test-runs/contrast/
 
+# Mirrored a11y artifacts (built from docs/accessibility/ on every build)
+apps/site/public/docs/
+
 # Dependencies
 node_modules/
 .pnpm-store/
