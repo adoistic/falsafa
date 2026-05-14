@@ -209,12 +209,15 @@ visual regression in CI is a `bun run a11y:contrast` follow-up check.
 
 **Files touched**
 
-- `apps/site/src/styles/tokens.css` — replace `--rule: #e8e0d2` (1.22:1)
+- `apps/site/src/styles/tokens.css:13` — replace `--rule: #e8e0d2` (1.22:1)
   with a value ≥ 3:1 against `--paper: #faf6ee`. Candidate: `#bfb09a`
-  (≈ 3.1:1, needs measurement). Audit dark and sepia theme equivalents.
-- `apps/site/src/styles/global.css:50` — replace `--accent-soft #c8907a`
-  (2.52:1 hover state) with a *darker* shade like `#6b2c22` (≈ 9:1). Hover
-  must darken, not lighten.
+  (≈ 3.1:1, needs measurement). Audit dark equivalent at `tokens.css:82`
+  and sepia at `tokens.css:93`.
+- `apps/site/src/styles/tokens.css:12` — replace `--accent-soft: #c8907a`
+  (used as link-hover color at `global.css:50`, 2.52:1 against paper) with
+  a *darker* shade like `#6b2c22` (≈ 9:1). Hover must darken, not lighten.
+  Audit dark equivalent at `tokens.css:81` and sepia at `tokens.css:92`
+  (which may already be acceptable).
 
 **Build-time guard**
 
@@ -268,7 +271,12 @@ others as pure CSS — no UI, no JS:
 - `@media (prefers-color-scheme: dark)` → auto-applies `data-theme="dark"`
   tokens at the `:root` level when no localStorage override exists.
 - `@media (prefers-contrast: more)` → auto-applies higher-contrast token
-  variants (`--ink` → pure black on light, pure white on dark).
+  variants. Light theme: `--ink` → pure black, `--ink-muted` darkens.
+  Dark theme: `--ink` → pure white, `--ink-muted` lightens. Sepia theme:
+  treated as a user-explicit choice; `prefers-contrast: more` does NOT
+  override sepia (a reader who has chosen sepia has accepted its
+  contrast profile). This decision is captured in `tokens.css` as a
+  comment near the media query.
 - `@media (forced-colors: active)` → tokens fall back to system colors via
   `CanvasText`, `Canvas`, `LinkText`, `ButtonText`, etc. (Windows High
   Contrast Mode support.)
@@ -348,7 +356,7 @@ en_301_549:
     evidence:
       - kind: source
         path: apps/site/src/styles/tokens.css
-        lines: "110-130"
+        lines: "114-121"   # @media (prefers-reduced-motion) block; expanded by B.5
 ```
 
 Each entry is self-contained. A reviewer working through any single row
@@ -478,7 +486,7 @@ run.
 | 4 | `reader-english` | Chapter body nav, footnote citation, reading-progress | 1.3.1, 2.4.6, 2.4.4 |
 | 5 | `reader-original` | Urdu / Sanskrit `lang` switching, RTL on Urdu | 3.1.1, 3.1.2 |
 | 6 | `variant-switch` | Variant pill keyboard nav, aria-current state | 4.1.2, 2.1.1 |
-| 7 | `eval-case` | Eval explorer tabs (closes existing TODO), delta strip | 4.1.2, 2.4.6 |
+| 7 | `eval-case` | Eval explorer tabs (closes `TODOS.md` §10-43 aria-selected hashchange item), delta strip | 4.1.2, 2.4.6 |
 | 8 | `theme-prefs` | System-pref auto-detect verified | 1.4.3, 1.4.11, 2.3.3 |
 
 Each journey is one `tests/a11y/journeys/<name>.spec.ts` file. Adding a
@@ -559,6 +567,13 @@ and individual results via the combobox listbox pattern.
 A government reviewer can click play and hear what a blind user hears.
 This is the artifact most accessibility statements lack.
 
+The audio player itself must be accessible: keyboard-operable (Space to
+play/pause, ← / → to seek), labelled (`aria-label="VoiceOver reading
+search results (38 seconds)"`), and accompanied by a "View transcript"
+link adjacent to each player. A native `<audio controls>` element meets
+these requirements with no JS; only the label and adjacent transcript
+link need to be added.
+
 ## D.5 — Footer wiring
 
 Every page footer adds one new link: `Accessibility →`. Placed between
@@ -632,8 +647,10 @@ follow-up commit after PR merge. Risk: doubles the commit count on
 `main` (one for the human-authored change, one for the bot artifact
 refresh). Alternative: emit artifacts to a sibling `gh-pages`-style
 branch and let `/accessibility` page fetch them at build time. Less
-clean for "audit yourself" but cleaner git history. **Decision deferred
-to implementation-plan author.**
+clean for "audit yourself" but cleaner git history. **Implementation
+plan must resolve before coding — it affects the `commit-results` job
+structure substantively, and the `/accessibility` page's build-time
+artifact loader depends on which option lands.**
 
 **Q2: Guidepup version compatibility with the latest Playwright.**
 The `@guidepup/playwright` package follows Playwright's release cadence.
@@ -678,3 +695,21 @@ contrast fix is a token change, easily previewed across all themes;
 spec writer / V1 implementer should screenshot key pages in all three
 themes before merging, and re-tune the exact hex value if the visual
 heaviness is wrong.
+
+**Q8: `actions/upload-artifact@v4` and `actions/download-artifact@v4`
+no longer auto-merge.** The four parallel jobs each upload to a named
+artifact bucket; `commit-results` downloads them. v4 behavior is
+per-artifact directories, not auto-merged. The `merge-artifacts` step
+in `commit-results` either uses `download-artifact` with
+`merge-multiple: true` or downloads each bucket individually and
+runs a `bun run a11y:merge-artifacts` step that walks the per-bucket
+directories. Implementation plan must pick one.
+
+**Q9: Line-number drift in `conformance.yaml` evidence refs.** The YAML
+captures `file:line` ranges. As code evolves, refs drift. Mitigation
+is the `a11y:verify` CI gate (§C.2), which exits non-zero if any
+referenced range no longer matches the expected anchor. The verifier
+must support either exact line ranges or anchor-based references
+(e.g., `selector: "--rule"` resolved at verify time). Plan author
+picks the approach; exact lines are simpler, anchor-based survives
+refactors better.
