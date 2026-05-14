@@ -210,10 +210,19 @@ criteria:
   - id: "3.1.1"
     name: Language of Page
     level: A
-    status: does-not-support
-    notes: "TBD V1"
-    evidence: []
-    commit: "0000000"
+    status: supports
+    notes: >
+      The root <html> emits lang="en". Each variant article emits its own
+      lang attribute via bcp47Of(), so screen readers switch voice when
+      reading non-English variants.
+    evidence:
+      - kind: source
+        path: apps/site/src/lib/corpus.ts
+        anchor: "bcp47Of"
+      - kind: source
+        path: apps/site/src/layouts/Base.astro
+        anchor: 'lang="en"'
+    commit: HEAD
 
   - id: "3.2.1"
     name: On Focus
@@ -434,10 +443,28 @@ criteria:
   - id: "3.1.2"
     name: Language of Parts
     level: AA
-    status: does-not-support
-    notes: "TBD V1"
-    evidence: []
-    commit: "0000000"
+    status: supports
+    notes: >
+      Non-English chapter variants emit lang="<bcp47>" on the <article>
+      wrapper rendered by Reader.astro. The /about page wraps foreign
+      terms in <span lang="..."> as they appear in prose. bcp47Of()
+      normalizes corpus language/script names to ISO 639/15924.
+    evidence:
+      - kind: source
+        path: apps/site/src/layouts/Reader.astro
+        anchor: "lang={lang}"
+      - kind: source
+        path: apps/site/src/pages/works/[slug]/[chapter]/[variant].astro
+        anchor: "bcp47Of"
+      - kind: source
+        path: apps/site/src/pages/about.astro
+        anchor: 'lang="sa-Latn"'
+      - kind: test
+        path: apps/site/src/lib/__tests__/corpus-bcp47.test.ts
+        lines: "1-60"
+      - kind: artifact
+        path: docs/accessibility/test-runs/reader-original/latest/transcript-voiceover.md
+    commit: HEAD
 
   - id: "3.2.3"
     name: Consistent Navigation

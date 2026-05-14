@@ -8,6 +8,8 @@ import {
   listChapters,
   readChapterVariant,
   readWorkIndex,
+  bcp47Of,
+  isRtl,
   type ContentType,
   type ChapterVariantContent,
 } from "../../../../lib/corpus";
@@ -72,6 +74,16 @@ function softTitleCase(s: string): string {
   return s;
 }
 const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
+
+// B.1 / B.2: emit lang + dir on the article wrapper so screen readers
+// switch voice for non-English variants and Urdu originals render RTL.
+// Translations carry the target language (`variant.language === "english"`).
+// Originals and transliterations preserve the source language phonetically,
+// even when corpus metadata mislabels transliterations as "english".
+const spokenLanguage =
+  variant.variant.content_type === "translation" ? variant.variant.language : work.language;
+const bcp47 = bcp47Of({ language: spokenLanguage, script: variant.variant.script });
+const dir = isRtl(bcp47) ? "rtl" : "ltr";
 ---
 
 <Reader
@@ -83,6 +95,8 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
   }
   ogImage={idx?.cover_url ?? undefined}
   layout={variant.meta.layout}
+  lang={bcp47}
+  dir={dir}
 >
   {idx?.cover_url && (
     <div class="reader-cover">

@@ -11,15 +11,20 @@ interface Props {
   description?: string;
   ogImage?: string;
   layout: "prose" | "verse" | "manuscript";
+  /** BCP-47 tag for the variant content (WCAG 3.1.2). Falls back to the
+      page-level lang on Base when omitted. */
+  lang?: string;
+  /** Reading direction for the variant content (WCAG 1.3.2, B.2 RTL). */
+  dir?: "rtl" | "ltr";
 }
 
-const { title, description, ogImage, layout } = Astro.props;
+const { title, description, ogImage, layout, lang, dir } = Astro.props;
 ---
 
 <Base title={title} description={description} ogImage={ogImage}>
   <div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
 
-  <article class="reader" data-layout={layout}>
+  <article class="reader" data-layout={layout} lang={lang} dir={dir}>
     <slot />
   </article>
 
