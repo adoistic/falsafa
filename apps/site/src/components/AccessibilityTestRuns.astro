@@ -1,0 +1,89 @@
+---
+import type { TestRun } from "../lib/test-run-artifacts";
+
+interface Props {
+  runs: TestRun[];
+}
+const { runs } = Astro.props;
+---
+
+{runs.length === 0 ? (
+  <p>No CI test runs yet. They will appear here after the first push to main.</p>
+) : (
+  <table class="runs">
+    <thead>
+      <tr>
+        <th scope="col">Journey</th>
+        <th scope="col">Commit</th>
+        <th scope="col">Time</th>
+        <th scope="col">Artifacts</th>
+      </tr>
+    </thead>
+    <tbody>
+      {runs.map((r) => (
+        <tr>
+          <th scope="row"><code>{r.journey}</code></th>
+          <td><code>{r.sha.slice(0, 7)}</code></td>
+          <td>
+            <time datetime={new Date(r.timestamp).toISOString()}>
+              {new Date(r.timestamp).toISOString().slice(0, 10)}
+            </time>
+          </td>
+          <td>
+            <ul class="run-artifacts">
+              {r.hasTranscriptSynthetic && (
+                <li>
+                  <a href={`/docs/accessibility/test-runs/${r.journey}/${r.sha}/transcript-synthetic.md`}>
+                    synthetic.md
+                  </a>
+                </li>
+              )}
+              {r.hasTranscriptVoiceOver && (
+                <li>
+                  <a href={`/docs/accessibility/test-runs/${r.journey}/${r.sha}/transcript-voiceover.md`}>
+                    VoiceOver.md
+                  </a>
+                </li>
+              )}
+              {r.hasTranscriptNvda && (
+                <li>
+                  <a href={`/docs/accessibility/test-runs/${r.journey}/${r.sha}/transcript-nvda.md`}>
+                    NVDA.md
+                  </a>
+                </li>
+              )}
+              {r.hasAudioVoiceOver && (
+                <li>
+                  <a href={`/docs/accessibility/test-runs/${r.journey}/${r.sha}/audio-voiceover.mp3`}>
+                    VoiceOver.mp3
+                  </a>
+                </li>
+              )}
+              {r.hasAudioNvda && (
+                <li>
+                  <a href={`/docs/accessibility/test-runs/${r.journey}/${r.sha}/audio-nvda.mp3`}>
+                    NVDA.mp3
+                  </a>
+                </li>
+              )}
+              {r.hasVideo && (
+                <li>
+                  <a href={`/docs/accessibility/test-runs/${r.journey}/${r.sha}/video.mp4`}>
+                    video.mp4
+                  </a>
+                </li>
+              )}
+            </ul>
+          </td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+)}
+
+<style>
+  .runs { width: 100%; border-collapse: collapse; font-size: 0.95em; }
+  .runs th, .runs td { padding: 0.4rem 0.6rem; border-bottom: 1px solid var(--rule); text-align: left; vertical-align: top; }
+  .run-artifacts { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+  .run-artifacts li { font-size: 0.85em; }
+</style>
