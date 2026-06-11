@@ -1,0 +1,26 @@
+{
+  "work_slug": "albert-moll-the-sexual-life-of-the-child-20c689",
+  "work_title": "The Sexual Life of the Child",
+  "chapter_number": 4,
+  "chapter_title": "Chapter IV",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0aacace0-d2fc-5ef6-ae4b-3e454cb83607",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 23432,
+      "paragraph_count": 88,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/28402"
+    }
+  ]
+}

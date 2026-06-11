@@ -1,0 +1,26 @@
+{
+  "work_slug": "vatsyayana-the-kama-sutra-of-vatsyayana-f55b41",
+  "work_title": "The Kama Sutra of Vatsyayana",
+  "chapter_number": 13,
+  "chapter_title": "Chapter V",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "67cbda3e-4d1a-5e69-bba2-91f1bf1e165a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1456,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/27827"
+    }
+  ]
+}

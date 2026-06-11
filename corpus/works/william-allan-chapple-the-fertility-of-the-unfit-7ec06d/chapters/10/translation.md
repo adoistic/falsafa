@@ -1,0 +1,95 @@
+---
+work_id: "7ec06db8-b337-532b-b3ea-420fa819aedb"
+work_slug: "william-allan-chapple-the-fertility-of-the-unfit-7ec06d"
+work_title: The Fertility of the Unfit
+author_name: William Allan Chapple
+chapter_number: 10
+chapter_title: Chapter X
+chapter_slug: 10
+variant_id: "3ea5b887-017c-5810-ab78-c09e2bfcb68e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2381
+source_url: "https://www.gutenberg.org/ebooks/16254"
+translator: Project Gutenberg edition
+---
+
+WHAT ANÆSTHETICS AND ANTISEPTICS HAVE MADE POSSIBLE.
+
+_Education of defectives in prudence and self-restraint of little avail.--Surgical suggestions discussed._
+
+For the intelligent mind, which I assume has already been impressed with the importance of such an inquiry, I think I have set forth the salient truths with sufficient clearness, but holding that a recitation of social faults, without a suggestion as to social reforms, is not only useless but mischievous, I shall endeavour to show not only that the situation is not hopeless, but that science and experience have, or will reveal means to the accomplishment of all rationally desired ends, and that it remains only for intelligence to enquire that sentiment may move up to the line so as to harmonise with science, with justice, and with the demands of a growing necessity.
+
+These questions of population are not new. More than two thousand years ago, many of the wisest philosophers of all the centuries meditated deeply upon the tendencies of the population to crowd upon subsistence, and in many ages and many countries, the situation has been discussed with serious forebodings for the future.
+
+In all ages thinking men have regarded war with aversion, yet with peace and domestic prosperity other dangers arose to threaten the progress of the race, and as the passing generations cried out for some remedy for the ever pressing evils, thinking men have been proposing measures somewhat harmonising with the knowledge or the sentiment of the times. Whether we are wiser than our ancestors remains an unsettled question.
+
+The old Greeks faced the problem boldly. There were two dangers in the minds of these ancient philosophers. There was the danger of over-population of good citizens, and there was the danger of increasing the burden good citizens had to bear by the maintenance of defectives. However good the breed, over-population was an economic danger, for, said Aristotle, "The legislator who fixes the amount of property should also fix the number of children, for if the children are too many for the property the law must be broken." (Politics II, 7-5.) And he further declares (ib. VII. 16 25) "As to the exposure and rearing of children, let there be a law that no deformed child shall live"; and the exposure of infants was for years the Grecian method of eliminating the unfit.
+
+A century ago "Parson Malthus" dealt with over-population without regard to the fitness of individuals to survive, and he advised the exercise of moral restraint expressed in delayed marriage, to prevent population pressing on the limits of food, which he maintained it invariably tends to do. After the high souled Malthus, came the Neo-Malthusians, who, although they retained the name perverted the teaching of this great demographist, and some Socialist writers of high repute still advocate the systematic instruction of the poor in Neo-Malthusian practices.
+
+The rising tide of firm conviction in the minds of present day sociologists, that the fertility of the unfit is menacing the stability of the whole social superstructure, is forcing many to advocate more drastic measures for the salvation of the race. Weinhold seriously proposed the annual mutilation of a certain portion of the children of the popular classes. Mr. Henry M. Boies, the most enlightened analyst of the problem of the unfit, in his exhaustive work "Prisoners and Paupers," urges the necessity of effectively controlling the fecundity of the degenerate classes, and he points to surgery, and life-long incarceration as the solution of the problem. Dr. McKim, in an exhaustive work on "Heredity and Human Progress," after declaring that he is profoundly convinced of the inefficiency of the measures which we bring to bear against the weakness and depravity of our race, ventures to plead for the remedy which alone, as he believes, can hold back the advancing tide of disintegration. He states his remedy thus:--"The roll then, of those whom our plan would eliminate, consists of the following classes of individuals coming under the absolute control of the State:--idiots, imbeciles, epileptics, habitual drunkards and insane criminals, the larger number of murderers, nocturnal house-breakers, such criminals whatever their offence as might through their constitutional organization appear very dangerous, and finally, criminals who might be adjudged incorrigible. Each individual of these classes would undergo thorough examination, and only by due process of law would his life be taken from him. The painless extinction of these lives would present no practical difficulty--in carbonic acid gas we have an agent which would instantaneously fulfil the need."
+
+These briefly are some of the remedies which have been advocated and in part applied for the protection of the race from degeneracy. I quote them, not with approval, but merely to show how grave and serious the social outlook is, in the minds of some of the best thinkers and truest philanthropists that have taught mankind. If the fertility of the fit could be kept uniformly at its normal rate in a state of nature, the race would have little to fear, for the tendency to further degeneration and consequent extinction amongst the defective would be sufficient to counteract their disposition to a high fertility. But in all civilized nations, the fertility of the fit is rapidly departing from that normal rate, and Mr. Herbert Spencer declares, with the gloomiest pessimism, that the infertility of the best citizens is the physiological result of their intellectual development. I have already expressed the opinion that prudence and social selfishness, operating through sexual self-restraint on the part of the best citizens of the State, are the cause of their infertility. It is impossible for the State to correct this evil, except by lessening the burden the fit man has to bear; and the elimination of the unfit, by artificial selection, is the surest and most effective way of bringing this about.
+
+We have learned from the immortal Pasteur the true and scientific method of artificial selection of the fit, by the elimination of the unfit. We have already seen that he examined the moth, to find if it were healthy, and rejected its eggs if it were diseased. Medical knowledge of heredity and disease makes it possible to conduct analogous examinations of prospective mothers; and surgery secreted in the ample and luxurious folds of anæsthesia, and protected by its guardian angels antiseptics, makes it possible to prevent the fertilization of human ova with a vicious taint. It is possible to sterilize defective women, and the wives of defective men by an operation of simple ligature, which produces absolutely no change whatever in the subjects of it, beyond rendering this fertilization impossible, for the rest of life. This remedy for the great and growing evil which confronts us to-day is suggested, not to avenge but to protect society, and in profound pity for the classes who are a burden to themselves, as well as to those who have to tend and support them.
+
+The problem of the unfit is not new. The burden of supporting those unable to support themselves has been keenly felt in all ages and among all peoples.
+
+The ancients realized the danger and the burden, but found no difficulty when the stress became acute in enacting that all infants should be examined and the defective despatched.
+
+To come nearer home, Boeltius tells us, that, "in old times when a Scot was affected with any hereditary disease their sons were emasculated, their daughters banished, and if any female affected with such disease were pregnant, she was to be burned alive."
+
+Aristotle declared (Politics Book II, p. 40) that "neglect of this subject is a never failing cause of poverty, and poverty is the parent of revolution and crime," and he advocated habitual abortion as one remedy against over-population. The combined wisdom of the Greeks found no better method of keeping population well within the limits of the State's power to support its members than abortion, and the exposure of infants.
+
+Since Aristotle's time abortion has been largely practised by civilized nations. Mutilation and infibulation of females have been practised by savages with the same end in view, while vasectomy, orchotomy, and ovariotomy, have had their avowed advocates in our own time.
+
+The purpose of all these measures was to limit population with little or no distinction as to fitness to survive. The Spartans in ancient times, and many social reformers of to-day have discussed and advocated the artificial limitation of the unfit. The exposure of defective infants was the Spartan method of preserving the physical and mental stature of the race.
+
+The surgical operations on both sexes advocated by some social writers of recent date, have not been received with much favour, and, as a social reform have not been practised. As operations they are grave and serious, profound in their effect upon the individual, and a violation of public sentiment. Anæsthetics and antiseptics have, however, made them possible, and if a surgical operation could be devised, simple and safe in performance, inert in every way but one, and against which there would be no individual or public sentiment, its application as a social reform, would go far to solve the grave and serious problem of the fertility of the unfit.
+
+The unfit are subject to no moral law in the matter of procreation. They can be taught nothing, and they will practise nothing. Like the lower animals they obey their instincts and gratify their desires as they arise.
+
+It has been seriously suggested that the poor should be systematically taught Neo-Malthusian methods for the limitation of their offspring.
+
+The best among the poor might practise them, the worst certainly would not, and the limitation among the best would only stimulate the fertility of the worst. This is the most innocent and harmless of the numerous suggestions made by reformers for controlling the fecundity of the poor.
+
+Of surgical methods, castration of males, Oophorectomy or the removal of the ovaries in women, and vasectomy, or the section of the cords of the testicles, have all been suggested.
+
+Annual castration of a certain number of the children of the popular classes was not long ago seriously proposed by Weinhold.
+
+Boies, in his "Prisoners and Paupers," declares that surgical interference is the only method of dealing with the criminal, and preventing him from reproducing his kind. He says:--"These organs have no function in the human organism except the creation and gratification of desire and the reproduction of the species. Their loss has no effect upon the health, longevity, or abilities of the individual of adult years. The removal of them therefore by destroying desire would actually diminish the wants of nature and increase the enjoyments of life for paupers. A want removed is equivalent to a want supplied. In other words, such removal would be a positive benefit to the abnormal rather than a deprivation, rather a kindness than an injury. This operation bestowed upon the abnormal inmates of our prisons, reformatories, jails, asylums, and public institutions, would entirely eradicate those unspeakable evil practices which are so terribly prevalent, debasing, destructive, and uncontrolled in them. It would confer upon the inmates health and strength, for weakness and impotence, satisfaction and comfort for discontent and insatiable desire."
+
+Anæsthetics have ensured that these operations may be performed without the slightest suspicion of pain, and with careful sympathetic surgery, pain may be absent throughout the whole of convalescence. Antiseptics have made it possible to perform these operations with practically no risk to life.
+
+Though castration and Oophorectomy can be performed with safety and without pain, they are absolutely unjustifiable operations, if done to produce sterility.
+
+Every incision and every stitch in surgery, beyond the necessities of the case, are objectionable, and to remove an organ, when the section of its duct is sufficient is to say the least of it, bad surgery.
+
+Vasectomy is the resection of a portion of the duct of the testicles, followed by ligature of the ends. No doubt ligature alone would be sufficient for the purpose, but up to the present, a piece of the duct has been removed, when this operation has been found necessary in the treatment of disease.
+
+This duct is the secretory tube of the testicle, so that when it is occluded, the secretion is dammed back, and degeneration and atrophy of the organ are induced. It soon wastes, and becomes as functionless as though it were removed.
+
+This operation can be performed in a Surgery with the aid of a little Cocaine, and the patient may walk to his home, sterilized for the rest of his natural life, after the complete loss of any accumulated fluid.
+
+Of these two operations for the sterilization of men, vasectomy is preferable. The major operation for the purpose of inducing artificial sterility should never for a moment be considered.
+
+But vasectomy, though surgically simple, and a less violation of sentiment than castration, cannot be justified except in exceptional cases.
+
+Neither of these operations makes the subjects of them altogether or at once impotent, certainly not for years. It sterilizes and partly unsexes them and in the end completely so.
+
+But the physical and mental changes that follow the operation in the young adolescent are grave and serious, and a violent outrage upon the man's nature and sentiment.
+
+Society can hope for nothing but evil from the man she forcibly unsexes; but if he must be kept in durance vile for the whole of his life there is little need for such an operation.
+
+The criminal cases bad enough to justify this grave and extreme measure should be incarcerated for life.
+
+The cases, it has been thought, that fully justify this operation are those guilty of repeated criminal assaults.
+
+Such a claim arises out of insufficient knowledge of the physiology of sex, and the pathology of crime. Emasculation would have little influence in preventing a recurrence of this crime, for the operation does not render its subjects immediately impotent, nor does it change their sexual nature any more than it beautifies their character.
+
+The instinct remains, and the power to gratify it remains at least for some years. With the less knowledge of surgery of earlier times, a social condition in which such a practice might be rationally considered, is conceivable, but with the present state of our profession, such measures would be unthinkable.
