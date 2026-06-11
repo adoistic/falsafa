@@ -1,0 +1,662 @@
+[
+  {
+    "id": "p-46818c",
+    "offset": 0,
+    "text": "HIT OR MISS."
+  },
+  {
+    "id": "p-b82a1a",
+    "offset": 14,
+    "text": "\"Thou canst not hit it, hit it, hit it, Thou canst not hit it, my good man.\""
+  },
+  {
+    "id": "p-a42ce0",
+    "offset": 92,
+    "text": "1. Pain is wearisome; No pain is eagerly wished for."
+  },
+  {
+    "id": "p-bd4e61",
+    "offset": 146,
+    "text": "2. No bald person needs a hair-brush; No lizards have hair."
+  },
+  {
+    "id": "p-043075",
+    "offset": 207,
+    "text": "3. All thoughtless people do mischief; No thoughtful person forgets a promise."
+  },
+  {
+    "id": "p-7f3ada",
+    "offset": 287,
+    "text": "4. I do not like John; Some of my friends like John."
+  },
+  {
+    "id": "p-1cc2c5",
+    "offset": 341,
+    "text": "5. No potatoes are pine-apples; All pine-apples are nice."
+  },
+  {
+    "id": "p-b2d062",
+    "offset": 400,
+    "text": "6. No pins are ambitious; No needles are pins."
+  },
+  {
+    "id": "p-90f383",
+    "offset": 448,
+    "text": "7. All my friends have colds; No one can sing who has a cold."
+  },
+  {
+    "id": "p-c3f1d6",
+    "offset": 511,
+    "text": "8. All these dishes are well-cooked; Some dishes are unwholesome if not well-cooked."
+  },
+  {
+    "id": "p-ad3e29",
+    "offset": 597,
+    "text": "9. No medicine is nice; Senna is a medicine."
+  },
+  {
+    "id": "p-6f0ec6",
+    "offset": 643,
+    "text": "10. Some oysters are silent; No silent creatures are amusing."
+  },
+  {
+    "id": "p-301492",
+    "offset": 706,
+    "text": "11. All wise men walk on their feet; All unwise men walk on their hands."
+  },
+  {
+    "id": "p-934b0f",
+    "offset": 780,
+    "text": "12. \"Mind your own business; This quarrel is no business of yours.\""
+  },
+  {
+    "id": "p-59ec33",
+    "offset": 849,
+    "text": "13. No bridges are made of sugar; Some bridges are picturesque."
+  },
+  {
+    "id": "p-7f3f24",
+    "offset": 914,
+    "text": "14. No riddles interest me that can be solved; All these riddles are insoluble."
+  },
+  {
+    "id": "p-88fe14",
+    "offset": 995,
+    "text": "15. John is industrious; All industrious people are happy."
+  },
+  {
+    "id": "p-754efe",
+    "offset": 1055,
+    "text": "16. No frogs write books; Some people use ink in writing books."
+  },
+  {
+    "id": "p-a6605d",
+    "offset": 1120,
+    "text": "17. No pokers are soft; All pillows are soft."
+  },
+  {
+    "id": "p-901351",
+    "offset": 1167,
+    "text": "18. No antelope is ungraceful; Graceful animals delight the eye."
+  },
+  {
+    "id": "p-9ba503",
+    "offset": 1233,
+    "text": "19. Some uncles are ungenerous; All merchants are generous."
+  },
+  {
+    "id": "p-8f029e",
+    "offset": 1294,
+    "text": "20. No unhappy people chuckle; No happy people groan."
+  },
+  {
+    "id": "p-8b7eab",
+    "offset": 1349,
+    "text": "21. Audible music causes vibration in the air; Inaudible music is not worth paying for."
+  },
+  {
+    "id": "p-3da5f9",
+    "offset": 1438,
+    "text": "22. He gave me five pounds; I was delighted."
+  },
+  {
+    "id": "p-cde951",
+    "offset": 1484,
+    "text": "23. No old Jews are fat millers; All my friends are old millers."
+  },
+  {
+    "id": "p-9de2b6",
+    "offset": 1550,
+    "text": "24. Flour is good for food; Oatmeal is a kind of flour."
+  },
+  {
+    "id": "p-deeb67",
+    "offset": 1607,
+    "text": "25. Some dreams are terrible; No lambs are terrible."
+  },
+  {
+    "id": "p-ba8835",
+    "offset": 1661,
+    "text": "26. No rich man begs in the street; All who are not rich should keep accounts."
+  },
+  {
+    "id": "p-4a5319",
+    "offset": 1741,
+    "text": "27. No thieves are honest; Some dishonest people are found out."
+  },
+  {
+    "id": "p-5ea25d",
+    "offset": 1806,
+    "text": "28. All wasps are unfriendly; All puppies are friendly."
+  },
+  {
+    "id": "p-d587c5",
+    "offset": 1863,
+    "text": "29. All improbable stories are doubted; None of these stories are probable."
+  },
+  {
+    "id": "p-7cc9b4",
+    "offset": 1940,
+    "text": "30. \"He told me you had gone away.\" \"He never says one word of truth.\""
+  },
+  {
+    "id": "p-b27cda",
+    "offset": 2012,
+    "text": "31. His songs never last an hour; A song, that lasts an hour, is tedious."
+  },
+  {
+    "id": "p-7ac8ac",
+    "offset": 2087,
+    "text": "32. No bride-cakes are wholesome; Unwholesome food should be avoided."
+  },
+  {
+    "id": "p-9d4e1e",
+    "offset": 2158,
+    "text": "33. No old misers are cheerful; Some old misers are thin."
+  },
+  {
+    "id": "p-1d44b7",
+    "offset": 2217,
+    "text": "34. All ducks waddle; Nothing that waddles is graceful."
+  },
+  {
+    "id": "p-3ab7b8",
+    "offset": 2274,
+    "text": "35. No Professors are ignorant; Some ignorant people are conceited."
+  },
+  {
+    "id": "p-58fba2",
+    "offset": 2343,
+    "text": "36. Toothache is never pleasant; Warmth is never unpleasant."
+  },
+  {
+    "id": "p-bc8ecf",
+    "offset": 2405,
+    "text": "37. Bores are terrible; You are a bore."
+  },
+  {
+    "id": "p-f2a6b9",
+    "offset": 2446,
+    "text": "38. Some mountains are insurmountable; All stiles can be surmounted."
+  },
+  {
+    "id": "p-e50784",
+    "offset": 2516,
+    "text": "39. No Frenchmen like plumpudding; All Englishmen like plumpudding."
+  },
+  {
+    "id": "p-02e763",
+    "offset": 2585,
+    "text": "40. No idlers win fame; Some painters are not idle."
+  },
+  {
+    "id": "p-6d704f",
+    "offset": 2638,
+    "text": "41. No lobsters are unreasonable; No reasonable creatures expect impossibilities."
+  },
+  {
+    "id": "p-f98a02",
+    "offset": 2721,
+    "text": "42. No kind deed is unlawful; What is lawful may be done without fear."
+  },
+  {
+    "id": "p-f128c0",
+    "offset": 2793,
+    "text": "43. No fossils can be crossed in love; Any oyster may be crossed in love."
+  },
+  {
+    "id": "p-820217",
+    "offset": 2868,
+    "text": "44. \"This is beyond endurance!\" \"Well, nothing beyond endurance has ever happened to me.\""
+  },
+  {
+    "id": "p-6dcd51",
+    "offset": 2959,
+    "text": "45. All uneducated men are shallow; All these students are educated."
+  },
+  {
+    "id": "p-9c908e",
+    "offset": 3029,
+    "text": "46. All my cousins are unjust; No judges are unjust."
+  },
+  {
+    "id": "p-eff367",
+    "offset": 3083,
+    "text": "47. No country, that has been explored, is infested by dragons; Unexplored countries are fascinating."
+  },
+  {
+    "id": "p-4e6d0b",
+    "offset": 3186,
+    "text": "48. No misers are generous; Some old men are not generous."
+  },
+  {
+    "id": "p-0bb6fa",
+    "offset": 3246,
+    "text": "49. A prudent man shuns hyaenas; No banker is imprudent."
+  },
+  {
+    "id": "p-f83dc4",
+    "offset": 3304,
+    "text": "50. Some poetry is original; No original work is producible at will."
+  },
+  {
+    "id": "p-e8d2f0",
+    "offset": 3374,
+    "text": "51. No misers are unselfish; None but misers save egg-shells."
+  },
+  {
+    "id": "p-f17fb2",
+    "offset": 3437,
+    "text": "52. All pale people are phlegmatic; No one, who is not pale, looks poetical."
+  },
+  {
+    "id": "p-d87b9e",
+    "offset": 3515,
+    "text": "53. All spiders spin webs; Some creatures, that do not spin webs, are savage."
+  },
+  {
+    "id": "p-4eb64b",
+    "offset": 3594,
+    "text": "54. None of my cousins are just; All judges are just."
+  },
+  {
+    "id": "p-d350c6",
+    "offset": 3649,
+    "text": "55. John is industrious; No industrious people are unhappy."
+  },
+  {
+    "id": "p-d16126",
+    "offset": 3710,
+    "text": "56. Umbrellas are useful on a journey; What is useless on a journey should be left behind."
+  },
+  {
+    "id": "p-5bc576",
+    "offset": 3802,
+    "text": "57. Some pillows are soft; No pokers are soft."
+  },
+  {
+    "id": "p-082074",
+    "offset": 3850,
+    "text": "58. I am old and lame; No old merchant is a lame gambler."
+  },
+  {
+    "id": "p-bf52ae",
+    "offset": 3909,
+    "text": "59. No eventful journey is ever forgotten; Uneventful journeys are not worth writing a book about."
+  },
+  {
+    "id": "p-f83041",
+    "offset": 4009,
+    "text": "60. Sugar is sweet; Some sweet things are liked by children."
+  },
+  {
+    "id": "p-03bae2",
+    "offset": 4071,
+    "text": "61. Richard is out of temper; No one but Richard can ride that horse."
+  },
+  {
+    "id": "p-abad54",
+    "offset": 4142,
+    "text": "62. All jokes are meant to amuse; No Act of Parliament is a joke."
+  },
+  {
+    "id": "p-ec0487",
+    "offset": 4209,
+    "text": "63. \"I saw it in a newspaper.\" \"All newspapers tell lies.\""
+  },
+  {
+    "id": "p-16745c",
+    "offset": 4269,
+    "text": "64. No nightmare is pleasant; Unpleasant experiences are not anxiously desired."
+  },
+  {
+    "id": "p-692ab7",
+    "offset": 4350,
+    "text": "65. Prudent travellers carry plenty of small change; Imprudent travellers lose their luggage."
+  },
+  {
+    "id": "p-4765c1",
+    "offset": 4445,
+    "text": "66. All wasps are unfriendly; No puppies are unfriendly."
+  },
+  {
+    "id": "p-76a6d3",
+    "offset": 4503,
+    "text": "67. He called here yesterday; He is no friend of mine."
+  },
+  {
+    "id": "p-951313",
+    "offset": 4559,
+    "text": "68. No quadrupeds can whistle; Some cats are quadrupeds."
+  },
+  {
+    "id": "p-36fec3",
+    "offset": 4617,
+    "text": "69. No cooked meat is sold by butchers; No uncooked meat is served at dinner."
+  },
+  {
+    "id": "p-c96c3f",
+    "offset": 4696,
+    "text": "70. Gold is heavy; Nothing but gold will silence him."
+  },
+  {
+    "id": "p-f04ee1",
+    "offset": 4751,
+    "text": "71. Some pigs are wild; There are no pigs that are not fat."
+  },
+  {
+    "id": "p-638b19",
+    "offset": 4812,
+    "text": "72. No emperors are dentists; All dentists are dreaded by children."
+  },
+  {
+    "id": "p-c7750d",
+    "offset": 4881,
+    "text": "73. All, who are not old, like walking; Neither you nor I are old."
+  },
+  {
+    "id": "p-33f0ff",
+    "offset": 4949,
+    "text": "74. All blades are sharp; Some grasses are blades."
+  },
+  {
+    "id": "p-cf07fb",
+    "offset": 5001,
+    "text": "75. No dictatorial person is popular; She is dictatorial."
+  },
+  {
+    "id": "p-d803e6",
+    "offset": 5060,
+    "text": "76. Some sweet things are unwholesome; No muffins are sweet."
+  },
+  {
+    "id": "p-4bfae1",
+    "offset": 5122,
+    "text": "77. No military men write poetry; No generals are civilians."
+  },
+  {
+    "id": "p-f47b5d",
+    "offset": 5184,
+    "text": "78. Bores are dreaded; A bore is never begged to prolong his visit."
+  },
+  {
+    "id": "p-43799c",
+    "offset": 5253,
+    "text": "79. All owls are satisfactory; Some excuses are unsatisfactory."
+  },
+  {
+    "id": "p-46b753",
+    "offset": 5318,
+    "text": "80. All my cousins are unjust; All judges are just."
+  },
+  {
+    "id": "p-47f068",
+    "offset": 5371,
+    "text": "81. Some buns are rich; All buns are nice."
+  },
+  {
+    "id": "p-5a221b",
+    "offset": 5415,
+    "text": "82. No medicine is nice; No pills are unmedicinal."
+  },
+  {
+    "id": "p-83143f",
+    "offset": 5467,
+    "text": "83. Some lessons are difficult; What is difficult needs attention."
+  },
+  {
+    "id": "p-743566",
+    "offset": 5535,
+    "text": "84. No unexpected pleasure annoys me; Your visit is an unexpected pleasure."
+  },
+  {
+    "id": "p-e648bb",
+    "offset": 5612,
+    "text": "85. Caterpillars are not eloquent; Jones is eloquent."
+  },
+  {
+    "id": "p-3e70ca",
+    "offset": 5667,
+    "text": "86. Some bald people wear wigs; All your children have hair."
+  },
+  {
+    "id": "p-4a623f",
+    "offset": 5729,
+    "text": "87. All wasps are unfriendly; Unfriendly creatures are always unwelcome."
+  },
+  {
+    "id": "p-b76ccc",
+    "offset": 5803,
+    "text": "88. No bankrupts are rich; Some merchants are not bankrupts."
+  },
+  {
+    "id": "p-696fa0",
+    "offset": 5865,
+    "text": "89. Weasels sometimes sleep; All animals sometimes sleep."
+  },
+  {
+    "id": "p-728f42",
+    "offset": 5924,
+    "text": "90. Ill-managed concerns are unprofitable; Railways are never ill-managed."
+  },
+  {
+    "id": "p-bd18cf",
+    "offset": 6000,
+    "text": "91. Everybody has seen a pig; Nobody admires a pig."
+  },
+  {
+    "id": "p-51226e",
+    "offset": 6053,
+    "text": "Extract a Pair of Premisses out of each of the following: and deduce the Conclusion, if there is one:--"
+  },
+  {
+    "id": "p-a4558a",
+    "offset": 6158,
+    "text": "92. \"The Lion, as any one can tell you who has been chased by them as often as I have, is a very savage animal: and there are certain individuals among them, though I will not guarantee it as a general law, who do not drink coffee.\""
+  },
+  {
+    "id": "p-43a378",
+    "offset": 6392,
+    "text": "93. \"It was most absurd of you to offer it! You might have known, if you had had any sense, that no old sailors ever like gruel!\""
+  },
+  {
+    "id": "p-8253c7",
+    "offset": 6523,
+    "text": "\"But I thought, as he was an uncle of yours--\""
+  },
+  {
+    "id": "p-bfb02b",
+    "offset": 6571,
+    "text": "\"An uncle of mine, indeed! Stuff!\""
+  },
+  {
+    "id": "p-a3aeaf",
+    "offset": 6607,
+    "text": "\"You may call it stuff, if you like. All I know is, MY uncles are all old men: and they like gruel like anything!\""
+  },
+  {
+    "id": "p-495701",
+    "offset": 6723,
+    "text": "\"Well, then YOUR uncles are--\""
+  },
+  {
+    "id": "p-66b33d",
+    "offset": 6755,
+    "text": "94. \"Do come away! I can't stand this squeezing any more. No crowded shops are comfortable, you know very well.\""
+  },
+  {
+    "id": "p-b8a0f7",
+    "offset": 6869,
+    "text": "\"Well, who expects to be comfortable, out shopping?\""
+  },
+  {
+    "id": "p-2cffe2",
+    "offset": 6923,
+    "text": "\"Why, I do, of course! And I'm sure there are some shops, further down the street, that are not crowded. So--\""
+  },
+  {
+    "id": "p-a27333",
+    "offset": 7035,
+    "text": "95. \"They say no doctors are metaphysical organists: and that lets me into a little fact about YOU, you know.\""
+  },
+  {
+    "id": "p-01c7a8",
+    "offset": 7147,
+    "text": "\"Why, how do you make THAT out? You never heard me play the organ.\""
+  },
+  {
+    "id": "p-b1cc6f",
+    "offset": 7216,
+    "text": "\"No, doctor, but I've heard you talk about Browning's poetry: and that showed me that you're METAPHYSICAL, at any rate. So--\""
+  },
+  {
+    "id": "p-090ddf",
+    "offset": 7343,
+    "text": "Extract a Syllogism out of each of the following: and test its correctness:--"
+  },
+  {
+    "id": "p-66f9d6",
+    "offset": 7422,
+    "text": "96. \"Don't talk to me! I've known more rich merchants than you have: and I can tell you not ONE of them was ever an old miser since the world began!\""
+  },
+  {
+    "id": "p-40d265",
+    "offset": 7573,
+    "text": "\"And what has that got to do with old Mr. Brown?\""
+  },
+  {
+    "id": "p-82a7de",
+    "offset": 7624,
+    "text": "\"Why, isn't he very rich?\""
+  },
+  {
+    "id": "p-45123a",
+    "offset": 7652,
+    "text": "\"Yes, of course he is. And what then?\""
+  },
+  {
+    "id": "p-39867a",
+    "offset": 7692,
+    "text": "\"Why, don't you see that it's absurd to call him a miserly merchant? Either he's not a merchant, or he's not a miser!\""
+  },
+  {
+    "id": "p-782972",
+    "offset": 7812,
+    "text": "97. \"It IS so kind of you to enquire! I'm really feeling a great deal better to-day.\""
+  },
+  {
+    "id": "p-f6b0c0",
+    "offset": 7899,
+    "text": "\"And is it Nature, or Art, that is to have the credit of this happy change?\""
+  },
+  {
+    "id": "p-6bf95b",
+    "offset": 7977,
+    "text": "\"Art, I think. The Doctor has given me some of that patent medicine of his.\""
+  },
+  {
+    "id": "p-f5ed72",
+    "offset": 8055,
+    "text": "\"Well, I'll never call him a humbug again. There's SOMEBODY, at any rate, that feels better after taking his medicine!\""
+  },
+  {
+    "id": "p-641780",
+    "offset": 8176,
+    "text": "98. \"No, I don't like you one bit. And I'll go and play with my doll. DOLLS are never unkind.\""
+  },
+  {
+    "id": "p-efb5f2",
+    "offset": 8272,
+    "text": "\"So you like a doll better than a cousin? Oh you little silly!\""
+  },
+  {
+    "id": "p-3bafd4",
+    "offset": 8337,
+    "text": "\"Of course I do! COUSINS are never kind--at least no cousins I've ever seen.\""
+  },
+  {
+    "id": "p-560dc5",
+    "offset": 8416,
+    "text": "\"Well, and what does THAT prove, I'd like to know! If you mean that cousins aren't dolls, who ever said they were?\""
+  },
+  {
+    "id": "p-6a190d",
+    "offset": 8533,
+    "text": "99. \"What are you talking about geraniums for? You can't tell one flower from another, at this distance! I grant you they're all RED flowers: it doesn't need a telescope to know THAT.\""
+  },
+  {
+    "id": "p-f310a0",
+    "offset": 8719,
+    "text": "\"Well, some geraniums are red, aren't they?\""
+  },
+  {
+    "id": "p-e28bf3",
+    "offset": 8765,
+    "text": "\"I don't deny it. And what then? I suppose you'll be telling me some of those flowers are geraniums!\""
+  },
+  {
+    "id": "p-33bee7",
+    "offset": 8868,
+    "text": "\"Of course that's what I should tell you, if you'd the sense to follow an argument! But what's the good of proving anything to YOU, I should like to know?\""
+  },
+  {
+    "id": "p-c4a156",
+    "offset": 9025,
+    "text": "100. \"Boys, you've passed a fairly good examination, all things considered. Now let me give you a word of advice before I go. Remember that all, who are really anxious to learn, work HARD.\""
+  },
+  {
+    "id": "p-ab1837",
+    "offset": 9216,
+    "text": "\"I thank you, Sir, in the name of my scholars! And proud am I to think there are SOME of them, at least, that are really ANXIOUS to learn.\""
+  },
+  {
+    "id": "p-b15d4d",
+    "offset": 9357,
+    "text": "\"Very glad to hear it: and how do you make it out to be so?\""
+  },
+  {
+    "id": "p-7d9b32",
+    "offset": 9419,
+    "text": "\"Why, Sir, I know how hard they work--some of them, that is. Who should know better?\""
+  },
+  {
+    "id": "p-287e6b",
+    "offset": 9506,
+    "text": "Extract from the following speech a series of Syllogisms, or arguments having the form of Syllogisms: and test their correctness."
+  },
+  {
+    "id": "p-de115c",
+    "offset": 9637,
+    "text": "It is supposed to be spoken by a fond mother, in answer to a friend's cautious suggestion that she is perhaps a LITTLE overdoing it, in the way of lessons, with her children."
+  },
+  {
+    "id": "p-563040",
+    "offset": 9813,
+    "text": "101. \"Well, they've got their own way to make in the world. WE can't leave them a fortune apiece. And money's not to be had, as YOU know, without money's worth: they must WORK if they want to live. And how are they to work, if they don't know anything? Take my word for it, there's no place for ignorance in THESE times! And all authorities agree that the time to learn is when you're young. One's got no memory afterwards, worth speaking of. A child will learn more in an hour than a grown man in five. So those, that have to learn, must learn when they're young, if ever they're to learn at all. Of course that doesn't do unless children are HEALTHY: I quite allow THAT. Well, the doctor tells me no children are healthy unless they've got a good colour in their cheeks. And only just look at my darlings! Why, their cheeks bloom like peonies! Well, now, they tell me that, to keep children in health, you should never give them more than six hours altogether at lessons in the day, and at least two half-holidays in the week. And that's EXACTLY our plan I can assure you! We never go beyond six hours, and every Wednesday and Saturday, as ever is, not one syllable of lessons do they do after their one o'clock dinner! So how you can imagine I'm running any risk in the education of my precious pets is more than I can understand, I promise you!\""
+  },
+  {
+    "id": "p-012211",
+    "offset": 11164,
+    "text": "THE END."
+  }
+]

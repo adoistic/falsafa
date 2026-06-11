@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-autobiography-fd9256",
+  "work_title": "Autobiography",
+  "chapter_number": 5,
+  "chapter_title": "Chapter V",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8f1fe2e3-efe6-5c3b-98e6-f77e25a1c563",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12601,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/10378"
+    }
+  ]
+}

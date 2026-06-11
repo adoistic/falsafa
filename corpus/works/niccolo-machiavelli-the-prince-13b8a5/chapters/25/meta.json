@@ -1,0 +1,26 @@
+{
+  "work_slug": "niccolo-machiavelli-the-prince-13b8a5",
+  "work_title": "The Prince",
+  "chapter_number": 25,
+  "chapter_title": "Chapter XXV — WHAT FORTUNE CAN EFFECT IN HUMAN AFFAIRS AND HOW TO WITHSTAND HER",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e01c823-9ac1-5baa-950a-08143feb2da3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1186,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1232"
+    }
+  ]
+}

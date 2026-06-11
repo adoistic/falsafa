@@ -1,0 +1,85 @@
+---
+work_id: "1beaaa20-4656-5962-a588-8290c7c8b3b2"
+work_slug: "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa"
+work_title: An Introduction to Philosophy
+author_name: George Stuart Fullerton
+chapter_number: 16
+chapter_title: Chapter XVI
+chapter_slug: 16
+variant_id: "c048a58b-a5ea-5e98-bddd-50f402002f65"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2016
+source_url: "https://www.gutenberg.org/ebooks/16406"
+translator: Project Gutenberg edition
+---
+
+LOGIC
+
+65. INTRODUCTORY: THE PHILOSOPHICAL SCIENCES.--I have said in the first chapter of this book (section 6) that there is quite a group of sciences that are regarded as belonging peculiarly to the province of the teacher of philosophy to-day. Having, in the chapters preceding, given some account of the nature of reflective thought, of the problems touching the world and the mind which present themselves to those who reflect, and of some types of philosophical theory which have their origin in such reflection, I turn to a brief consideration of the philosophical sciences.
+
+Among these I included logic, psychology, ethics, and aesthetics, metaphysics, and the history of philosophy. I did not include epistemology or "the theory of knowledge" as a separate discipline, and my reasons for this will appear in Chapter XIX. I remarked that, to complete the list, we should have to add the philosophy of religion and an investigation into the principles and methods of the sciences generally.
+
+Why, it was asked, should this group of disciplines be regarded as the field of the philosopher, when others are excluded? The answer to this question which finds the explanation of the fact to lie in a mere historical accident was declared unsatisfactory, and it was maintained that the philosophical sciences are those in which we find ourselves carried back to the problems of reflective thought.
+
+With a view to showing the truth of this opinion, I shall take up one by one the philosophical sciences. Of the history of philosophy I shall not speak in this part of the work, but shall treat of it in Chapter XXIII.
+
+66. THE TRADITIONAL LOGIC.--Most of us begin our acquaintance with logic in the study of some such elementary manual as Jevons' "Lessons in Logic."
+
+In such books we are shown how terms represent things and classes of things or their attributes, and how we unite them into propositions or statements. It is indicated at length what statements may be made on a basis of certain other statements and what may not; and emphasis is laid upon the dangers which arise out of a misunderstanding of the language in which we are forced to express our thoughts. Finally, there are described for us the experimental methods by which the workers in the sciences have attained to the general information about the world which has become our heritage.
+
+Such books are useful. It is surely no small profit for a student to gain the habit of scrutinizing the steps by which he has come into the possession of a certain bit of information, and to have a quick eye for loose and inconsistent reasonings.
+
+But it is worthy of remark that one may study such a book as this and yet remain pretty consistently on what may be called the plane of the common understanding. One seems to make the assumptions made in all the special sciences, *e.g.* the assumption that there is a world of real things and that we can know them and reason about them. We are not introduced to such problems as: What *is* truth? and Is *any* knowledge valid? Nor does it seem at once apparent that the man who is studying logic in this way is busying himself with a philosophical discipline.
+
+67. THE "MODERN LOGIC."--It is very puzzling for the student to turn from such a text-book as the one above mentioned to certain others which profess to be occupied with the same science, and which, yet, appear to treat of quite different things.
+
+Thus, in Dr. Bosanquet's little work on "The Essentials of Logic," the reader is at once plunged into such questions as the nature of knowledge, and what is meant by the real world. We seem to be dealing with metaphysics, and not with logic, as we have learned to understand the term. How is it that the logician comes to regard these things as within his province?
+
+A multitude of writers at the present day are treating logic in this way, and in some great prominence is given to problems which the philosopher recognizes as indisputably his own. The term "modern logic" is often employed to denote a logic of this type; one which does not, after the fashion of the natural sciences generally, proceed on the basis of certain assumptions, and leave deeper questions to some other discipline, but tries to get to the bottom of things for itself. The tendency to run into metaphysics is peculiarly marked in those writers who have been influenced by the work of the philosopher Hegel.
+
+I shall not here ask why those who belong to one school are more inclined to be metaphysical than are those who belong to another, but shall approach the broader question why the logicians generally are inclined to be more metaphysical than those who work in certain other special sciences, such as mathematics, for example. Of the general tendency there can be no question. The only problem is: Why does this tendency exist?
+
+68. LOGIC AND PHILOSOPHY.--Let us contrast the science of arithmetic with logic; and let us notice, regarding it, the following points:--
+
+It is, like logic, a *general* science, in that the things treated of in many sciences may be numbered. It considers only a certain aspect of the things.
+
+Now, that things may be counted, added together, subtracted, etc., is guaranteed by the experience of the plain man; and the methods of determining the numerical relations of things are gradually developed before his eyes, beginning with operations of great simplicity. Moreover, verification is possible, and within certain limits verification by direct inspection.
+
+To this we may add, that there has gradually been built up a fine system of unambiguous symbols, and it is possible for a man to know just what he is dealing with.
+
+Thus, a certain beaten path has been attained, and a man may travel this very well without having forced on his attention the problems of reflective thought. The knowledge of numbers with which he starts is sufficient equipment with which to undertake the journey. That one is on the right road is proved by the results one obtains. As a rule, disputes can be settled by well-tried mathematical methods.
+
+There is, then, a common agreement as to initial assumptions and methods of work, and useful results are attained which seem to justify both. Here we have the normal characteristics of a special science.
+
+We must not forget, however, that, even in the mathematical sciences, before a beaten path was attained, disputes as to the significance of numbers and the cogency of proofs were sufficiently common. And we must bear in mind that even to-day, where the beaten path does not seem wholly satisfactory, men seem to be driven to reflect upon the significance of their assumptions and the nature of their method.
+
+Thus, we find it not unnatural that a man should be led to ask; What is a minus quantity really? Can anything be less than nothing? or that he should raise the questions: Can one rightly speak of an infinite number? Can one infinite number be greater than another, and, if so, what can greater mean? What are infinitesimals? and what can be meant by different orders of infinitesimals?
+
+He who has interested himself in such questions as these has betaken himself to philosophical reflection. They are not answered by employing mathematical methods.
+
+Let us now turn to logic. And let us notice, to begin with, that it is broader in its application than the mathematical sciences. It is concerned to discover what constitutes *evidence* in every field of investigation.
+
+There is, it is true, a part of logic that may be developed somewhat after the fashion of mathematics. Thus, we may examine the two statements: All men are mortal, and Caesar is a man; and we may see clearly that, given the truth of these, we must admit that Caesar is mortal. We may make a list of possible inferences of this kind, and point out under what circumstances the truth of two statements implies the truth of a third, and under what circumstances the inference cannot be made. Our results can be set forth in a system of symbols. As in mathematics, we may abstract from the particular things reasoned about, and concern ourselves only with the forms of reasoning. This gives us the theory of the *syllogism*; it is a part of logic in which the mathematician is apt to feel very much at home.
+
+But this is by no means all of logic. Let us consider the following points:--
+
+(1) We are not concerned to know only what statements may be made on the basis of certain other statements. We want to know what is true and what is false. We must ask: Has a man the right to set up these particular statements and to reason from them? That some men accept as true premises which are repudiated by others is an undoubted fact. Thus, it is maintained by certain philosophers that we may assume that any view of the universe which is repellant to our nature cannot be true. Shall we allow this to pass unchallenged? And in ethics, some have held that it is under all circumstances wrong to lie; others have denied this, and have held that in certain cases--for example, to save life or to prevent great and unmerited suffering--lying is permissible. Shall we interest ourselves only in the deductions that each man makes from his assumed premises, and pay no attention to the truth of the premises themselves?
+
+(2) Again. The vast mass of the reasonings that interest men are expressed in the language that we all use and not in special symbols. But language is a very imperfect instrument, and all sorts of misunderstandings are possible to those who express their thoughts in it.
+
+Few men know exactly how much is implied in what they are saying. If I say: All men are mortal, and an angel is not a man; therefore, an angel is not mortal; it is not at once apparent to every one in what respect my argument is defective. He who argues: Feathers are light; light is contrary to darkness; hence, feathers are contrary to darkness; is convicted of error without difficulty. But arguments of the same kind, and quite as bad, are to be found in learned works on matters less familiar to us, and we often fail to detect the fallacy.
+
+Thus, Herbert Spencer argues, in effect, in the fourth and fifth chapters of his "First Principles," as follows:--
+
+We are conscious of the Unknowable, The Unknowable lies behind the veil of phenomena, Hence, we are conscious of what lies behind the veil of phenomena.
+
+It is only the critical reader who notices that the Unknowable in the first line is the "raw material of consciousness," and the Unknowable in the second is something not in consciousness at all. The two senses of the word "light" are not more different from one another. Such apparent arguments abound, and it often requires much acuteness to be able to detect their fallacious character.
+
+When we take into consideration the two points indicated above, we see that the logician is at every turn forced to reflect upon our knowledge as men do not ordinarily reflect. He is led to ask: What is truth? He cannot accept uncritically the assumptions which men make; and he must endeavor to become very clearly conscious of the real meaning and the whole meaning of statements expressed in words. Even in the simple logic with which we usually begin our studies, we learn to scrutinize statements in a reflective way; and when we go deeper, we are at once in contact with philosophical problems. It is evidently our task to attain to a clearer insight into the nature of our experience and the meaning of proof than is attainable by the unreflective.
+
+Logic, then, is a reflective science, and it is not surprising that it has held its place as one of the philosophical sciences.

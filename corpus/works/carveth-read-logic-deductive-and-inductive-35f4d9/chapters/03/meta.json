@@ -1,0 +1,26 @@
+{
+  "work_slug": "carveth-read-logic-deductive-and-inductive-35f4d9",
+  "work_title": "Logic: Deductive and Inductive",
+  "chapter_number": 3,
+  "chapter_title": "Chapter III",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5257f9ec-3079-5ae7-a7e3-78639aacc5ee",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3112,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/18440"
+    }
+  ]
+}

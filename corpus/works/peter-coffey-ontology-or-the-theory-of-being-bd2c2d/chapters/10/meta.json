@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
+  "work_title": "Ontology, or the Theory of Being",
+  "chapter_number": 10,
+  "chapter_title": "Chapter X — SOME ACCIDENT-MODES OF BEING: QUALITY",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "18a1da7b-7629-50d0-866c-602ee656eb69",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8597,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/35722"
+    }
+  ]
+}

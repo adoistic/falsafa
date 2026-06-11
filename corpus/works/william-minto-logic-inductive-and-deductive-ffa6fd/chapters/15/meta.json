@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-minto-logic-inductive-and-deductive-ffa6fd",
+  "work_title": "Logic, Inductive and Deductive",
+  "chapter_number": 15,
+  "chapter_title": "Chapter X",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b436da42-2e56-5d4b-8027-b2bf54f99cb9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1884,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/31796"
+    }
+  ]
+}

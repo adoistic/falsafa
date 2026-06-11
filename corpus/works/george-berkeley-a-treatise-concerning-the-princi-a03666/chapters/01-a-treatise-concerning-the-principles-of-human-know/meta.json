@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-berkeley-a-treatise-concerning-the-princi-a03666",
+  "work_title": "A Treatise Concerning the Principles of Human Knowledge",
+  "chapter_number": 1,
+  "chapter_title": "A Treatise Concerning the Principles of Human Knowledge",
+  "chapter_slug": "01-a-treatise-concerning-the-principles-of-human-know",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "93f352f4-168d-5183-8343-bfbc0cf160f7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 36898,
+      "paragraph_count": 207,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4723"
+    }
+  ]
+}

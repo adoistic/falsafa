@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-alexander-gunn-modern-french-philosophy-a-study-6b06ab",
+  "work_title": "Modern French Philosophy: A Study of the Development Since Comte",
+  "chapter_number": 1,
+  "chapter_title": "Chapter I — ANTECEDENTS",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7357c042-fbce-5a65-9028-6f2f31587c3f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6925,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5246"
+    }
+  ]
+}

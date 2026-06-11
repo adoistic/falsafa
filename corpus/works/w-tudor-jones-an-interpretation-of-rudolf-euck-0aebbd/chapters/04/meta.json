@@ -1,0 +1,26 @@
+{
+  "work_slug": "w-tudor-jones-an-interpretation-of-rudolf-euck-0aebbd",
+  "work_title": "An Interpretation of Rudolf Eucken's Philosophy",
+  "chapter_number": 4,
+  "chapter_title": "Chapter V — [p.87]",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bf7a2dc9-3a95-5867-85a3-66dd7e477a49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4742,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/16835"
+    }
+  ]
+}

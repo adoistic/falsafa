@@ -1,0 +1,26 @@
+{
+  "work_slug": "victor-cousin-lectures-on-the-true-the-beautif-ab35d3",
+  "work_title": "Lectures on the True, the Beautiful and the Good",
+  "chapter_number": 11,
+  "chapter_title": "Lecture XI",
+  "chapter_slug": "11-lecture-xi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "68107c89-f0b9-5a34-b7a2-5d095f0e7475",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4732,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/36208"
+    }
+  ]
+}

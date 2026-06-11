@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-schiller-aesthetical-essays-8efa06",
+  "work_title": "Aesthetical Essays",
+  "chapter_number": 1,
+  "chapter_title": "Aesthetical Essays",
+  "chapter_slug": "01-aesthetical-essays",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aa98776e-4598-5d8b-bcec-37bf4583f081",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 145441,
+      "paragraph_count": 917,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6798"
+    }
+  ]
+}

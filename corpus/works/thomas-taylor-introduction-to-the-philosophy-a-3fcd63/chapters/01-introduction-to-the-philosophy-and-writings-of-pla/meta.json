@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-taylor-introduction-to-the-philosophy-a-3fcd63",
+  "work_title": "Introduction to the Philosophy and Writings of Plato",
+  "chapter_number": 1,
+  "chapter_title": "Introduction to the Philosophy and Writings of Plato",
+  "chapter_slug": "01-introduction-to-the-philosophy-and-writings-of-pla",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e541593f-3ede-5d7d-a714-c398c0e1aeaf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 39129,
+      "paragraph_count": 232,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/10214"
+    }
+  ]
+}

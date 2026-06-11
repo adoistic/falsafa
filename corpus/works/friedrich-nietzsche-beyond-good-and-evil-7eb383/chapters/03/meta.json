@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-nietzsche-beyond-good-and-evil-7eb383",
+  "work_title": "Beyond Good and Evil",
+  "chapter_number": 3,
+  "chapter_title": "Chapter III — THE RELIGIOUS MOOD",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8aa4329d-4f37-5d73-ba00-699fd8bb3670",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5482,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4363"
+    }
+  ]
+}

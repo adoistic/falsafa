@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa",
+  "work_title": "An Introduction to Philosophy",
+  "chapter_number": 8,
+  "chapter_title": "Chapter VIII",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ddde5093-d39c-57d5-95f9-ee67d4e94aba",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5054,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/16406"
+    }
+  ]
+}

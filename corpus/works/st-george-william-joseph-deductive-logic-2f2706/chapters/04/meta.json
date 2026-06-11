@@ -1,0 +1,26 @@
+{
+  "work_slug": "st-george-william-joseph-deductive-logic-2f2706",
+  "work_title": "Deductive Logic",
+  "chapter_number": 4,
+  "chapter_title": "Chapter XII",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "55c11f39-d8ec-5f5a-b2ca-5774f914c023",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 480,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6560"
+    }
+  ]
+}

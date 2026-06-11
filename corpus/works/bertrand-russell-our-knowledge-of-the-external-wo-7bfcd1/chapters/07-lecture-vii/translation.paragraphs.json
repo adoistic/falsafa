@@ -1,0 +1,277 @@
+[
+  {
+    "id": "p-ed3035",
+    "offset": 0,
+    "text": "THE POSITIVE THEORY OF INFINITY"
+  },
+  {
+    "id": "p-07c559",
+    "offset": 33,
+    "text": "The positive theory of infinity, and the general theory of number to which it has given rise, are among the triumphs of scientific method in philosophy, and are therefore specially suitable for illustrating the logical-analytic character of that method. The work in this subject has been done by mathematicians, and its results can be expressed in mathematical symbolism. Why, then, it may be said, should the subject be regarded as philosophy rather than as mathematics? This raises a difficult question, partly concerned with the use of words, but partly also of real importance in understanding the function of philosophy. Every subject-matter, it would seem, can give rise to philosophical investigations as well as to the appropriate science, the difference between the two treatments being in the direction of movement and in the kind of truths which it is sought to establish. In the special sciences, when they have become fully developed, the movement is forward and synthetic, from the simpler to the more complex. But in philosophy we follow the inverse direction: from the complex and relatively concrete we proceed towards the simple and abstract by means of analysis, seeking, in the process, to eliminate the particularity of the original subject-matter, and to confine our attention entirely to the logical *form* of the facts concerned."
+  },
+  {
+    "id": "p-c2da63",
+    "offset": 1388,
+    "text": "Between philosophy and pure mathematics there is a certain affinity, in the fact that both are general and *a priori*. Neither of them asserts propositions which, like those of history and geography, depend upon the actual concrete facts being just what they are. We may illustrate this characteristic by means of Leibniz's conception of many *possible* worlds, of which one only is *actual*. In all the many possible worlds, philosophy and mathematics will be the same; the differences will only be in respect of those particular facts which are chronicled by the descriptive sciences. Any quality, therefore, by which our actual world is distinguished from other abstractly possible worlds, must be ignored by mathematics and philosophy alike. Mathematics and philosophy differ, however, in their manner of treating the general properties in which all possible worlds agree; for while mathematics, starting from comparatively simple propositions, seeks to build up more and more complex results by deductive synthesis, philosophy, starting from data which are common knowledge, seeks to purify and generalise them into the simplest statements of abstract form that can be obtained from them by logical analysis."
+  },
+  {
+    "id": "p-d394b4",
+    "offset": 2603,
+    "text": "The difference between philosophy and mathematics may be illustrated by our present problem, namely, the nature of number. Both start from certain facts about numbers which are evident to inspection. But mathematics uses these facts to deduce more and more complicated theorems, while philosophy seeks, by analysis, to go behind these facts to others, simpler, more fundamental, and inherently more fitted to form the premisses of the science of arithmetic. The question, \"What is a number?\" is the pre-eminent philosophic question in this subject, but it is one which the mathematician as such need not ask, provided he knows enough of the properties of numbers to enable him to deduce his theorems. We, since our object is philosophical, must grapple with the philosopher's question. The answer to the question, \"What is a number?\" which we shall reach in this lecture, will be found to give also, by implication, the answer to the difficulties of infinity which we considered in the previous lecture."
+  },
+  {
+    "id": "p-cfa588",
+    "offset": 3608,
+    "text": "The question \"What is a number?\" is one which, until quite recent times, was never considered in the kind of way that is capable of yielding a precise answer. Philosophers were content with some vague dictum such as, \"Number is unity in plurality.\" A typical definition of the kind that contented philosophers is the following from Sigwart's *Logic* (Sec. 66, section 3): \"Every number is not merely a *plurality*, but a plurality thought _as held together and closed, and to that extent as a unity_.\" Now there is in such definitions a very elementary blunder, of the same kind that would be committed if we said \"yellow is a flower\" because some flowers are yellow. Take, for example, the number 3. A single collection of three things might conceivably be described as \"a plurality thought as held together and closed, and to that extent as a unity\"; but a collection of three things is not the number 3. The number 3 is something which all collections of three things have in common, but is not itself a collection of three things. The definition, therefore, apart from any other defects, has failed to reach the necessary degree of abstraction: the number 3 is something more abstract than any collection of three things."
+  },
+  {
+    "id": "p-2f7871",
+    "offset": 4835,
+    "text": "Such vague philosophic definitions, however, remained inoperative because of their very vagueness. What most men who thought about numbers really had in mind was that numbers are the result of *counting*. \"On the consciousness of the law of counting,\" says Sigwart at the beginning of his discussion of number, \"rests the possibility of spontaneously prolonging the series of numbers *ad infinitum*.\" It is this view of number as generated by counting which has been the chief psychological obstacle to the understanding of infinite numbers. Counting, because it is familiar, is erroneously supposed to be simple, whereas it is in fact a highly complex process, which has no meaning unless the numbers reached in counting have some significance independent of the process by which they are reached. And infinite numbers cannot be reached at all in this way. The mistake is of the same kind as if cows were defined as what can be bought from a cattle-merchant. To a person who knew several cattle-merchants, but had never seen a cow, this might seem an admirable definition. But if in his travels he came across a herd of wild cows, he would have to declare that they were not cows at all, because no cattle-merchant could sell them. So infinite numbers were declared not to be numbers at all, because they could not be reached by counting."
+  },
+  {
+    "id": "p-b02d47",
+    "offset": 6176,
+    "text": "It will be worth while to consider for a moment what counting actually is. We count a set of objects when we let our attention pass from one to another, until we have attended once to each, saying the names of the numbers in order with each successive act of attention. The last number named in this process is the number of the objects, and therefore counting is a method of finding out what the number of the objects is. But this operation is really a very complicated one, and those who imagine that it is the logical source of number show themselves remarkably incapable of analysis. In the first place, when we say \"one, two, three ...\" as we count, we cannot be said to be discovering the number of the objects counted unless we attach some meaning to the words one, two, three, ... A child may learn to know these words in order, and to repeat them correctly like the letters of the alphabet, without attaching any meaning to them. Such a child may count correctly from the point of view of a grown-up listener, without having any idea of numbers at all. The operation of counting, in fact, can only be intelligently performed by a person who already has some idea what the numbers are; and from this it follows that counting does not give the logical basis of number."
+  },
+  {
+    "id": "p-65725d",
+    "offset": 7453,
+    "text": "Again, how do we know that the last number reached in the process of counting is the number of the objects counted? This is just one of those facts that are too familiar for their significance to be realised; but those who wish to be logicians must acquire the habit of dwelling upon such facts. There are two propositions involved in this fact: first, that the number of numbers from 1 up to any given number is that given number--for instance, the number of numbers from 1 to 100 is a hundred; secondly, that if a set of numbers can be used as names of a set of objects, each number occurring only once, then the number of numbers used as names is the same as the number of objects. The first of these propositions is capable of an easy arithmetical proof so long as finite numbers are concerned; but with infinite numbers, after the first, it ceases to be true. The second proposition remains true, and is in fact, as we shall see, an immediate consequence of the definition of number. But owing to the falsehood of the first proposition where infinite numbers are concerned, counting, even if it were practically possible, would not be a valid method of discovering the number of terms in an infinite collection, and would in fact give different results according to the manner in which it was carried out."
+  },
+  {
+    "id": "p-47efea",
+    "offset": 8765,
+    "text": "There are two respects in which the infinite numbers that are known differ from finite numbers: first, infinite numbers have, while finite numbers have not, a property which I shall call *reflexiveness*; secondly, finite numbers have, while infinite numbers have not, a property which I shall call *inductiveness*. Let us consider these two properties successively."
+  },
+  {
+    "id": "p-90375b",
+    "offset": 9132,
+    "text": "(1) *Reflexiveness.*--A number is said to be *reflexive* when it is not increased by adding 1 to it. It follows at once that any finite number can be added to a reflexive number without increasing it. This property of infinite numbers was always thought, until recently, to be self-contradictory; but through the work of Georg Cantor it has come to be recognised that, though at first astonishing, it is no more self-contradictory than the fact that people at the antipodes do not tumble off. In virtue of this property, given any infinite collection of objects, any finite number of objects can be added or taken away without increasing or diminishing the number of the collection. Even an infinite number of objects may, under certain conditions, be added or taken away without altering the number. This may be made clearer by the help of some examples."
+  },
+  {
+    "id": "p-3813d2",
+    "offset": 9989,
+    "text": "Imagine all the natural numbers 0, 1, 2, 3, ... to be written down in a row, and immediately beneath them write down the numbers 1, 2, 3, 4, ..., so that 1 is under 0, 2 is under 1, and so on. Then every number in the top row has a number directly under it in the bottom row, and no number occurs twice in either row. It follows that the number of numbers in the two rows must be the same. But all the numbers that occur in the bottom row also occur in the top row, and one more, namely 0; thus the number of terms in the top row is obtained by adding one to the number of the bottom row. So long, therefore, as it was supposed that a number must be increased by adding 1 to it, this state of things constituted a contradiction, and led to the denial that there are infinite numbers."
+  },
+  {
+    "id": "p-39f602",
+    "offset": 10774,
+    "text": "The following example is even more surprising. Write the natural numbers 1, 2, 3, 4, ... in the top row, and the even numbers 2, 4, 6, 8, ... in the bottom row, so that under each number in the top row stands its double in the bottom row. Then, as before, the number of numbers in the two rows is the same, yet the second row results from taking away all the odd numbers--an infinite collection--from the top row. This example is given by Leibniz to prove that there can be no infinite numbers. He believed in infinite collections, but, since he thought that a number must always be increased when it is added to and diminished when it is subtracted from, he maintained that infinite collections do not have numbers. \"The number of all numbers,\" he says, \"implies a contradiction, which I show thus: To any number there is a corresponding number equal to its double. Therefore the number of all numbers is not greater than the number of even numbers, *i.e.* the whole is not greater than its part.\" In dealing with this argument, we ought to substitute \"the number of all finite numbers\" for \"the number of all numbers\"; we then obtain exactly the illustration given by our two rows, one containing all the finite numbers, the other only the even finite numbers. It will be seen that Leibniz regards it as self-contradictory to maintain that the whole is not greater than its part. But the word \"greater\" is one which is capable of many meanings; for our purpose, we must substitute the less ambiguous phrase \"containing a greater number of terms.\" In this sense, it is not self-contradictory for whole and part to be equal; it is the realisation of this fact which has made the modern theory of infinity possible."
+  },
+  {
+    "id": "p-a94ad8",
+    "offset": 12490,
+    "text": "*Phil. Werke*, Gerhardt's edition, vol. i. p. 338."
+  },
+  {
+    "id": "p-44a6bb",
+    "offset": 12542,
+    "text": "There is an interesting discussion of the reflexiveness of infinite wholes in the first of Galileo's Dialogues on Motion. I quote from a translation published in 1730. The personages in the dialogue are Salviati, Sagredo, and Simplicius, and they reason as follows:"
+  },
+  {
+    "id": "p-8dbf2a",
+    "offset": 12809,
+    "text": "\"*Simp.* Here already arises a Doubt which I think is not to be resolv'd; and that is this: Since 'tis plain that one Line is given greater than another, and since both contain infinite Points, we must surely necessarily infer, that we have found in the same Species something greater than Infinite, since the Infinity of Points of the greater Line exceeds the Infinity of Points of the lesser. But now, to assign an Infinite greater than an Infinite, is what I can't possibly conceive."
+  },
+  {
+    "id": "p-0be268",
+    "offset": 13297,
+    "text": "\"*Salv.* These are some of those Difficulties which arise from Discourses which our finite Understanding makes about Infinites, by ascribing to them Attributes which we give to Things finite and terminate, which I think most improper, because those Attributes of Majority, Minority, and Equality, agree not with Infinities, of which we can't say that one is greater than, less than, or equal to another. For Proof whereof I have something come into my Head, which (that I may be the better understood) I will propose by way of Interrogatories to *Simplicius*, who started this Difficulty. To begin then: I suppose you know which are square Numbers, and which not?"
+  },
+  {
+    "id": "p-2919e6",
+    "offset": 13962,
+    "text": "\"*Simp.* I know very well that a square Number is that which arises from the Multiplication of any Number into itself; thus 4 and 9 are square Numbers, that arising from 2, and this from 3, multiplied by themselves."
+  },
+  {
+    "id": "p-00ae59",
+    "offset": 14179,
+    "text": "\"*Salv.* Very well; And you also know, that as the Products are call'd Squares, the Factors are call'd Roots: And that the other Numbers, which proceed not from Numbers multiplied into themselves, are not Squares. Whence taking in all Numbers, both Squares and Not Squares, if I should say, that the Not Squares are more than the Squares, should I not be in the right?"
+  },
+  {
+    "id": "p-c5b431",
+    "offset": 14549,
+    "text": "\"*Simp.* Most certainly."
+  },
+  {
+    "id": "p-28b986",
+    "offset": 14575,
+    "text": "\"*Salv.* If I go on with you then, and ask you, How many squar'd Numbers there are? you may truly answer, That there are as many as are their proper Roots, since every Square has its own Root, and every Root its own Square, and since no Square has more than one Root, nor any Root more than one Square."
+  },
+  {
+    "id": "p-d176fc",
+    "offset": 14879,
+    "text": "\"*Simp.* Very true."
+  },
+  {
+    "id": "p-8f0bc8",
+    "offset": 14900,
+    "text": "\"*Salv.* But now, if I should ask how many Roots there are, you can't deny but there are as many as there are Numbers, since there's no Number but what's the Root to some Square. And this being granted, we may likewise affirm, that there are as many square Numbers, as there are Numbers; for there are as many Squares as there are Roots, and as many Roots as Numbers. And yet in the Beginning of this, we said, there were many more Numbers than Squares, the greater Part of Numbers being not Squares: And tho' the Number of Squares decreases in a greater proportion, as we go on to bigger Numbers, for count to an Hundred you'll find 10 Squares, viz. 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, which is the same as to say the 10th Part are Squares; in Ten thousand only the 100th Part are Squares; in a Million only the 1000th: And yet in an infinite Number, if we can but comprehend it, we may say the Squares are as many as all the Numbers taken together."
+  },
+  {
+    "id": "p-38d91f",
+    "offset": 15854,
+    "text": "\"*Sagr.* What must be determin'd then in this Case?"
+  },
+  {
+    "id": "p-3ffc3d",
+    "offset": 15907,
+    "text": "\"*Salv.* I see no other way, but by saying that all Numbers are infinite; Squares are Infinite, their Roots Infinite, and that the Number of Squares is not less than the Number of Numbers, nor this less than that: and then by concluding that the Attributes or Terms of Equality, Majority, and Minority, have no Place in Infinites, but are confin'd to terminate Quantities.\""
+  },
+  {
+    "id": "p-8b1c95",
+    "offset": 16282,
+    "text": "_Mathematical Discourses concerning two new sciences relating to mechanics and local motion, in four dialogues._ By Galileo Galilei, Chief Philosopher and Mathematician to the Grand Duke of Tuscany. Done into English from the Italian, by Tho. Weston, late Master, and now published by John Weston, present Master, of the Academy at Greenwich. See pp. 46 ff."
+  },
+  {
+    "id": "p-59d57f",
+    "offset": 16641,
+    "text": "The way in which the problem is expounded in the above discussion is worthy of Galileo, but the solution suggested is not the right one. It is actually the case that the number of square (finite) numbers is the same as the number of (finite) numbers. The fact that, so long as we confine ourselves to numbers less than some given finite number, the proportion of squares tends towards zero as the given finite number increases, does not contradict the fact that the number of all finite squares is the same as the number of all finite numbers. This is only an instance of the fact, now familiar to mathematicians, that the *limit* of a function as the variable *approaches* a given point may not be the same as its *value* when the variable actually *reaches* the given point. But although the infinite numbers which Galileo discusses are equal, Cantor has shown that what Simplicius could not conceive is true, namely, that there are an infinite number of different infinite numbers, and that the conception of *greater* and *less* can be perfectly well applied to them. The whole of Simplicius's difficulty comes, as is evident, from his belief that, if *greater* and *less* can be applied, a part of an infinite collection must have fewer terms than the whole; and when this is denied, all contradictions disappear. As regards greater and less lengths of lines, which is the problem from which the above discussion starts, that involves a meaning of *greater* and *less* which is not arithmetical. The number of points is the same in a long line and in a short one, being in fact the same as the number of points in all space. The *greater* and *less* of metrical geometry involves the new metrical conception of *congruence*, which cannot be developed out of arithmetical considerations alone. But this question has not the fundamental importance which belongs to the arithmetical theory of infinity."
+  },
+  {
+    "id": "p-1e0dcf",
+    "offset": 18547,
+    "text": "(2) *Non-inductiveness.*--The second property by which infinite numbers are distinguished from finite numbers is the property of non-inductiveness. This will be best explained by defining the positive property of inductiveness which characterises the finite numbers, and which is named after the method of proof known as \"mathematical induction.\""
+  },
+  {
+    "id": "p-6f7fbb",
+    "offset": 18895,
+    "text": "Let us first consider what is meant by calling a property \"hereditary\" in a given series. Take such a property as being named Jones. If a man is named Jones, so is his son; we will therefore call the property of being called Jones hereditary with respect to the relation of father and son. If a man is called Jones, all his descendants in the direct male line are called Jones; this follows from the fact that the property is hereditary. Now, instead of the relation of father and son, consider the relation of a finite number to its immediate successor, that is, the relation which holds between 0 and 1, between 1 and 2, between 2 and 3, and so on. If a property of numbers is hereditary with respect to this relation, then if it belongs to (say) 100, it must belong also to all finite numbers greater than 100; for, being hereditary, it belongs to 101 because it belongs to 100, and it belongs to 102 because it belongs to 101, and so on--where the \"and so on\" will take us, sooner or later, to any finite number greater than 100. Thus, for example, the property of being greater than 99 is hereditary in the series of finite numbers; and generally, a property is hereditary in this series when, given any number that possesses the property, the next number must always also possess it."
+  },
+  {
+    "id": "p-382deb",
+    "offset": 20186,
+    "text": "It will be seen that a hereditary property, though it must belong to all the finite numbers greater than a given number possessing the property, need not belong to all the numbers less than this number. For example, the hereditary property of being greater than 99 belongs to 100 and all greater numbers, but not to any smaller number. Similarly, the hereditary property of being called Jones belongs to all the descendants (in the direct male line) of those who have this property, but not to all their ancestors, because we reach at last a first Jones, before whom the ancestors have no surname. It is obvious, however, that any hereditary property possessed by Adam must belong to all men; and similarly any hereditary property possessed by 0 must belong to all finite numbers. This is the principle of what is called \"mathematical induction.\" It frequently happens, when we wish to prove that all finite numbers have some property, that we have first to prove that 0 has the property, and then that the property is hereditary, *i.e.* that, if it belongs to a given number, then it belongs to the next number. Owing to the fact that such proofs are called \"inductive,\" I shall call the properties to which they are applicable \"inductive\" properties. Thus an inductive property of numbers is one which is hereditary and belongs to 0."
+  },
+  {
+    "id": "p-39c65b",
+    "offset": 21523,
+    "text": "Taking any one of the natural numbers, say 29, it is easy to see that it must have all inductive properties. For since such properties belong to 0 and are hereditary, they belong to 1; therefore, since they are hereditary, they belong to 2, and so on; by twenty-nine repetitions of such arguments we show that they belong to 29. We may *define* the \"inductive\" numbers as _all those that possess all inductive properties_; they will be the same as what are called the \"natural\" numbers, *i.e.* the ordinary finite whole numbers. To all such numbers, proofs by mathematical induction can be validly applied. They are those numbers, we may loosely say, which can be reached from 0 by successive additions of 1; in other words, they are all the numbers that can be reached by counting."
+  },
+  {
+    "id": "p-86cc71",
+    "offset": 22307,
+    "text": "But beyond all these numbers, there are the infinite numbers, and infinite numbers do not have all inductive properties. Such numbers, therefore, may be called non-inductive. All those properties of numbers which are proved by an imaginary step-by-step process from one number to the next are liable to fail when we come to infinite numbers. The first of the infinite numbers has no immediate predecessor, because there is no greatest finite number; thus no succession of steps from one number to the next will ever reach from a finite number to an infinite one, and the step-by-step method of proof fails. This is another reason for the supposed self-contradictions of infinite numbers. Many of the most familiar properties of numbers, which custom had led people to regard as logically necessary, are in fact only demonstrable by the step-by-step method, and fail to be true of infinite numbers. But so soon as we realise the necessity of proving such properties by mathematical induction, and the strictly limited scope of this method of proof, the supposed contradictions are seen to contradict, not logic, but only our prejudices and mental habits."
+  },
+  {
+    "id": "p-b664f7",
+    "offset": 23462,
+    "text": "The property of being increased by the addition of 1--*i.e.* the property of non-reflexiveness--may serve to illustrate the limitations of mathematical induction. It is easy to prove that 0 is increased by the addition of 1, and that, if a given number is increased by the addition of 1, so is the next number, *i.e.* the number obtained by the addition of 1. It follows that each of the natural numbers is increased by the addition of 1. This follows generally from the general argument, and follows for each particular case by a sufficient number of applications of the argument. We first prove that 0 is not equal to 1; then, since the property of being increased by 1 is hereditary, it follows that 1 is not equal to 2; hence it follows that 2 is not equal to 3; if we wish to prove that 30,000 is not equal to 30,001, we can do so by repeating this reasoning 30,000 times. But we cannot prove in this way that *all* numbers are increased by the addition of 1; we can only prove that this holds of the numbers attainable by successive additions of 1 starting from 0. The reflexive numbers, which lie beyond all those attainable in this way, are as a matter of fact not increased by the addition of 1."
+  },
+  {
+    "id": "p-d2c3f7",
+    "offset": 24668,
+    "text": "The two properties of reflexiveness and non-inductiveness, which we have considered as characteristics of infinite numbers, have not so far been proved to be always found together. It is known that all reflexive numbers are non-inductive, but it is not known that all non-inductive numbers are reflexive. Fallacious proofs of this proposition have been published by many writers, including myself, but up to the present no valid proof has been discovered. The infinite numbers actually known, however, are all reflexive as well as non-inductive; thus, in mathematical practice, if not in theory, the two properties are always associated. For our purposes, therefore, it will be convenient to ignore the bare possibility that there may be non-inductive non-reflexive numbers, since all known numbers are either inductive or reflexive."
+  },
+  {
+    "id": "p-f92202",
+    "offset": 25503,
+    "text": "When infinite numbers are first introduced to people, they are apt to refuse the name of numbers to them, because their behaviour is so different from that of finite numbers that it seems a wilful misuse of terms to call them numbers at all. In order to meet this feeling, we must now turn to the logical basis of arithmetic, and consider the logical definition of numbers."
+  },
+  {
+    "id": "p-5c6140",
+    "offset": 25878,
+    "text": "The logical definition of numbers, though it seems an essential support to the theory of infinite numbers, was in fact discovered independently and by a different man. The theory of infinite numbers--that is to say, the arithmetical as opposed to the logical part of the theory--was discovered by Georg Cantor, and published by him in 1882-3. The definition of number was discovered about the same time by a man whose great genius has not received the recognition it deserves--I mean Gottlob Frege of Jena. His first work, *Begriffsschrift*, published in 1879, contained the very important theory of hereditary properties in a series to which I alluded in connection with inductiveness. His definition of number is contained in his second work, published in 1884, and entitled _Die Grundlagen der Arithmetik, eine logisch-mathematische Untersuchung ueber den Begriff der Zahl_. It is with this book that the logical theory of arithmetic begins, and it will repay us to consider Frege's analysis in some detail."
+  },
+  {
+    "id": "p-308928",
+    "offset": 26890,
+    "text": "In his *Grundlagen einer allgemeinen Mannichfaltigkeitslehre* and in articles in *Acta Mathematica*, vol. ii."
+  },
+  {
+    "id": "p-689fe1",
+    "offset": 27001,
+    "text": "The definition of number contained in this book, and elaborated in the *Grundgesetze der Arithmetik* (vol. i., 1893; vol. ii., 1903), was rediscovered by me in ignorance of Frege's work. I wish to state as emphatically as possible--what seems still often ignored--that his discovery antedated mine by eighteen years."
+  },
+  {
+    "id": "p-db0857",
+    "offset": 27319,
+    "text": "Frege begins by noting the increased desire for logical strictness in mathematical demonstrations which distinguishes modern mathematicians from their predecessors, and points out that this must lead to a critical investigation of the definition of number. He proceeds to show the inadequacy of previous philosophical theories, especially of the \"synthetic *a priori*\" theory of Kant and the empirical theory of Mill. This brings him to the question: What kind of object is it that number can properly be ascribed to? He points out that physical things may be regarded as one or many: for example, if a tree has a thousand leaves, they may be taken altogether as constituting its foliage, which would count as one, not as a thousand; and *one* pair of boots is the same object as *two* boots. It follows that physical things are not the subjects of which number is properly predicated; for when we have discovered the proper subjects, the number to be ascribed must be unambiguous. This leads to a discussion of the very prevalent view that number is really something psychological and subjective, a view which Frege emphatically rejects. \"Number,\" he says, \"is as little an object of psychology or an outcome of psychical processes as the North Sea.... The botanist wishes to state something which is just as much a fact when he gives the number of petals in a flower as when he gives its colour. The one depends as little as the other upon our caprice. There is therefore a certain similarity between number and colour; but this does not consist in the fact that both are sensibly perceptible in external things, but in the fact that both are objective\" (p. 34)."
+  },
+  {
+    "id": "p-51e698",
+    "offset": 28985,
+    "text": "\"I distinguish the objective,\" he continues, \"from the palpable, the spatial, the actual. The earth's axis, the centre of mass of the solar system, are objective, but I should not call them actual, like the earth itself\" (p. 35). He concludes that number is neither spatial and physical, nor subjective, but non-sensible and objective. This conclusion is important, since it applies to all the subject-matter of mathematics and logic. Most philosophers have thought that the physical and the mental between them exhausted the world of being. Some have argued that the objects of mathematics were obviously not subjective, and therefore must be physical and empirical; others have argued that they were obviously not physical, and therefore must be subjective and mental. Both sides were right in what they denied, and wrong in what they asserted; Frege has the merit of accepting both denials, and finding a third assertion by recognising the world of logic, which is neither mental nor physical."
+  },
+  {
+    "id": "p-5d5297",
+    "offset": 29983,
+    "text": "The fact is, as Frege points out, that no number, not even 1, is applicable to physical things, but only to general terms or descriptions, such as \"man,\" \"satellite of the earth,\" \"satellite of Venus.\" The general term \"man\" is applicable to a certain number of objects: there are in the world so and so many men. The unity which philosophers rightly feel to be necessary for the assertion of a number is the unity of the general term, and it is the general term which is the proper subject of number. And this applies equally when there is one object or none which falls under the general term. \"Satellite of the earth\" is a term only applicable to one object, namely, the moon. But \"one\" is not a property of the moon itself, which may equally well be regarded as many molecules: it is a property of the general term \"earth's satellite.\" Similarly, 0 is a property of the general term \"satellite of Venus,\" because Venus has no satellite. Here at last we have an intelligible theory of the number 0. This was impossible if numbers applied to physical objects, because obviously no physical object could have the number 0. Thus, in seeking our definition of number we have arrived so far at the result that numbers are properties of general terms or general descriptions, not of physical things or of mental occurrences."
+  },
+  {
+    "id": "p-bd0d59",
+    "offset": 31306,
+    "text": "Instead of speaking of a general term, such as \"man,\" as the subject of which a number can be asserted, we may, without making any serious change, take the subject as the class or collection of objects--*i.e.* \"mankind\" in the above instance--to which the general term in question is applicable. Two general terms, such as \"man\" and \"featherless biped,\" which are applicable to the same collection of objects, will obviously have the same number of instances; thus the number depends upon the class, not upon the selection of this or that general term to describe it, provided several general terms can be found to describe the same class. But some general term is always necessary in order to describe a class. Even when the terms are enumerated, as \"this and that and the other,\" the collection is constituted by the general property of being either this, or that, or the other, and only so acquires the unity which enables us to speak of it as *one* collection. And in the case of an infinite class, enumeration is impossible, so that description by a general characteristic common and peculiar to the members of the class is the only possible description. Here, as we see, the theory of number to which Frege was led by purely logical considerations becomes of use in showing how infinite classes can be amenable to number in spite of being incapable of enumeration."
+  },
+  {
+    "id": "p-0f1dd5",
+    "offset": 32678,
+    "text": "Frege next asks the question: When do two collections have the same number of terms? In ordinary life, we decide this question by counting; but counting, as we saw, is impossible in the case of infinite collections, and is not logically fundamental with finite collections. We want, therefore, a different method of answering our question. An illustration may help to make the method clear. I do not know how many married men there are in England, but I do know that the number is the same as the number of married women. The reason I know this is that the relation of husband and wife relates one man to one woman and one woman to one man. A relation of this sort is called a one-one relation. The relation of father to son is called a one-many relation, because a man can have only one father but may have many sons; conversely, the relation of son to father is called a many-one relation. But the relation of husband to wife (in Christian countries) is called one-one, because a man cannot have more than one wife, or a woman more than one husband. Now, whenever there is a one-one relation between all the terms of one collection and all the terms of another severally, as in the case of English husbands and English wives, the number of terms in the one collection is the same as the number in the other; but when there is not such a relation, the number is different. This is the answer to the question: When do two collections have the same number of terms?"
+  },
+  {
+    "id": "p-b21ccd",
+    "offset": 34144,
+    "text": "We can now at last answer the question: What is meant by the number of terms in a given collection? When there is a one-one relation between all the terms of one collection and all the terms of another severally, we shall say that the two collections are \"similar.\" We have just seen that two similar collections have the same number of terms. This leads us to define the number of a given collection as the class of all collections that are similar to it; that is to say, we set up the following formal definition:"
+  },
+  {
+    "id": "p-307d0a",
+    "offset": 34661,
+    "text": "\"The number of terms in a given class\" is defined as meaning \"the class of all classes that are similar to the given class.\""
+  },
+  {
+    "id": "p-fc2bd3",
+    "offset": 34787,
+    "text": "This definition, as Frege (expressing it in slightly different terms) showed, yields the usual arithmetical properties of numbers. It is applicable equally to finite and infinite numbers, and it does not require the admission of some new and mysterious set of metaphysical entities. It shows that it is not physical objects, but classes or the general terms by which they are defined, of which numbers can be asserted; and it applies to 0 and 1 without any of the difficulties which other theories find in dealing with these two special cases."
+  },
+  {
+    "id": "p-df96a7",
+    "offset": 35332,
+    "text": "The above definition is sure to produce, at first sight, a feeling of oddity, which is liable to cause a certain dissatisfaction. It defines the number 2, for instance, as the class of all couples, and the number 3 as the class of all triads. This does not *seem* to be what we have hitherto been meaning when we spoke of 2 and 3, though it would be difficult to say *what* we had been meaning. The answer to a feeling cannot be a logical argument, but nevertheless the answer in this case is not without importance. In the first place, it will be found that when an idea which has grown familiar as an unanalysed whole is first resolved accurately into its component parts--which is what we do when we define it--there is almost always a feeling of unfamiliarity produced by the analysis, which tends to cause a protest against the definition. In the second place, it may be admitted that the definition, like all definitions, is to a certain extent arbitrary. In the case of the small finite numbers, such as 2 and 3, it would be possible to frame definitions more nearly in accordance with our unanalysed feeling of what we mean; but the method of such definitions would lack uniformity, and would be found to fail sooner or later--at latest when we reached infinite numbers."
+  },
+  {
+    "id": "p-b716fd",
+    "offset": 36612,
+    "text": "In the third place, the real desideratum about such a definition as that of number is not that it should represent as nearly as possible the ideas of those who have not gone through the analysis required in order to reach a definition, but that it should give us objects having the requisite properties. Numbers, in fact, must satisfy the formulae of arithmetic; any indubitable set of objects fulfilling this requirement may be called numbers. So far, the simplest set known to fulfil this requirement is the set introduced by the above definition. In comparison with this merit, the question whether the objects to which the definition applies are like or unlike the vague ideas of numbers entertained by those who cannot give a definition, is one of very little importance. All the important requirements are fulfilled by the above definition, and the sense of oddity which is at first unavoidable will be found to wear off very quickly with the growth of familiarity."
+  },
+  {
+    "id": "p-fbb26e",
+    "offset": 37585,
+    "text": "There is, however, a certain logical doctrine which may be thought to form an objection to the above definition of numbers as classes of classes--I mean the doctrine that there are no such objects as classes at all. It might be thought that this doctrine would make havoc of a theory which reduces numbers to classes, and of the many other theories in which we have made use of classes. This, however, would be a mistake: none of these theories are any the worse for the doctrine that classes are fictions. What the doctrine is, and why it is not destructive, I will try briefly to explain."
+  },
+  {
+    "id": "p-d954cb",
+    "offset": 38177,
+    "text": "On account of certain rather complicated difficulties, culminating in definite contradictions, I was led to the view that nothing that can be said significantly about things, *i.e.* particulars, can be said significantly (*i.e.* either truly or falsely) about classes of things. That is to say, if, in any sentence in which a thing is mentioned, you substitute a class for the thing, you no longer have a sentence that has any meaning: the sentence is no longer either true or false, but a meaningless collection of words. Appearances to the contrary can be dispelled by a moment's reflection. For example, in the sentence, \"Adam is fond of apples,\" you may substitute *mankind*, and say, \"Mankind is fond of apples.\" But obviously you do not mean that there is one individual, called \"mankind,\" which munches apples: you mean that the separate individuals who compose mankind are each severally fond of apples."
+  },
+  {
+    "id": "p-c18dc0",
+    "offset": 39090,
+    "text": "Now, if nothing that can be said significantly about a thing can be said significantly about a class of things, it follows that classes of things cannot have the same kind of reality as things have; for if they had, a class could be substituted for a thing in a proposition predicating the kind of reality which would be common to both. This view is really consonant to common sense. In the third or fourth century B.C. there lived a Chinese philosopher named Hui Tzu, who maintained that \"a bay horse and a dun cow are three; because taken separately they are two, and taken together they are one: two and one make three.\" The author from whom I quote says that Hui Tzu \"was particularly fond of the quibbles which so delighted the sophists or unsound reasoners of ancient Greece,\" and this no doubt represents the judgment of common sense upon such arguments. Yet if collections of things were things, his contention would be irrefragable. It is only because the bay horse and the dun cow taken together are not a new thing that we can escape the conclusion that there are three things wherever there are two."
+  },
+  {
+    "id": "p-3682d4",
+    "offset": 40203,
+    "text": "Giles, *The Civilisation of China* (Home University Library), p. 147."
+  },
+  {
+    "id": "p-990438",
+    "offset": 40274,
+    "text": "When it is admitted that classes are not things, the question arises: What do we mean by statements which are nominally about classes? Take such a statement as, \"The class of people interested in mathematical logic is not very numerous.\" Obviously this reduces itself to, \"Not very many people are interested in mathematical logic.\" For the sake of definiteness, let us substitute some particular number, say 3, for \"very many.\" Then our statement is, \"Not three people are interested in mathematical logic.\" This may be expressed in the form: \"If *x* is interested in mathematical logic, and also *y* is interested, and also *z* is interested, then *x* is identical with *y*, or *x* is identical with *z*, or *y* is identical with *z*.\" Here there is no longer any reference at all to a \"class.\" In some such way, all statements nominally about a class can be reduced to statements about what follows from the hypothesis of anything's having the defining property of the class. All that is wanted, therefore, in order to render the *verbal* use of classes legitimate, is a uniform method of interpreting propositions in which such a use occurs, so as to obtain propositions in which there is no longer any such use. The definition of such a method is a technical matter, which Dr Whitehead and I have dealt with elsewhere, and which we need not enter into on this occasion."
+  },
+  {
+    "id": "p-ba8644",
+    "offset": 41650,
+    "text": "Cf. *Principia Mathematica*, Sec. 20, and Introduction, chapter iii."
+  },
+  {
+    "id": "p-b496c3",
+    "offset": 41720,
+    "text": "If the theory that classes are merely symbolic is accepted, it follows that numbers are not actual entities, but that propositions in which numbers verbally occur have not really any constituents corresponding to numbers, but only a certain logical form which is not a part of propositions having this form. This is in fact the case with all the apparent objects of logic and mathematics. Such words as *or*, *not*, *if*, *there is*, *identity*, *greater*, *plus*, *nothing*, *everything*, *function*, and so on, are not names of definite objects, like \"John\" or \"Jones,\" but are words which require a context in order to have meaning. All of them are *formal*, that is to say, their occurrence indicates a certain form of proposition, not a certain constituent. \"Logical constants,\" in short, are not entities; the words expressing them are not names, and cannot significantly be made into logical subjects except when it is the words themselves, as opposed to their meanings, that are being discussed. This fact has a very important bearing on all logic and philosophy, since it shows how they differ from the special sciences. But the questions raised are so large and so difficult that it is impossible to pursue them further on this occasion."
+  },
+  {
+    "id": "p-a64e07",
+    "offset": 42969,
+    "text": "In the above remarks I am making use of unpublished work by my friend Ludwig Wittgenstein."
+  }
+]

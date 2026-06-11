@@ -1,0 +1,507 @@
+[
+  {
+    "id": "p-bddb7b",
+    "offset": 0,
+    "text": "FORMAL CONDITIONS OF MEDIATE INFERENCE"
+  },
+  {
+    "id": "p-80e16c",
+    "offset": 40,
+    "text": "§ 1. A Mediate Inference is a proposition that depends for proof upon two or more other propositions, so connected together by one or more terms (which the evidentiary propositions, or each pair of them, have in common) as to justify a certain conclusion, namely, the proposition in question. The type or (more properly) the unit of all such modes of proof, when of a strictly logical kind, is the Syllogism, to which we shall see that all other modes are reducible. It may be exhibited symbolically thus:"
+  },
+  {
+    "id": "p-ab0c4f",
+    "offset": 547,
+    "text": "Syllogisms may be classified, as to quantity, into Universal or Particular, according to the quantity of the conclusion; as to quality, into Affirmative or Negative, according to the quality of the conclusion; and, as to relation, into Categorical, Hypothetical and Disjunctive, according as all their propositions are categorical, or one (at least) of their evidentiary propositions is a hypothetical or a disjunctive."
+  },
+  {
+    "id": "p-e0785a",
+    "offset": 968,
+    "text": "To begin with Categorical Syllogisms, of which the following is an example:"
+  },
+  {
+    "id": "p-cb1766",
+    "offset": 1045,
+    "text": "All authors are vain; Cicero is an author: .'. Cicero is vain."
+  },
+  {
+    "id": "p-262a9e",
+    "offset": 1109,
+    "text": "Here we may suppose that there are no direct means of knowing that Cicero is vain; but we happen to know that all authors are vain and that he is an author; and these two propositions, put together, unmistakably imply that he is vain. In other words, we do not at first know any relation between 'Cicero' and 'vanity'; but we know that these two terms are severally related to a third term, 'author,' hence called a Middle Term; and thus we perceive, by mediate evidence, that they are related to one another. This sort of proof bears an obvious resemblance (though the relations involved are not the same) to the mathematical proof of equality between two quantities, that cannot be directly compared, by showing the equality of each of them to some third quantity: A = B = C .'. A = C. Here B is a middle term."
+  },
+  {
+    "id": "p-813e5b",
+    "offset": 1923,
+    "text": "We have to inquire, then, what conditions must be satisfied in order that a Syllogism may be formally conclusive or valid. A specious Syllogism that is not really valid is called a Parasyllogism."
+  },
+  {
+    "id": "p-29f8b6",
+    "offset": 2120,
+    "text": "§ 2. General Canons of the Syllogism."
+  },
+  {
+    "id": "p-b666a3",
+    "offset": 2159,
+    "text": "(1) A Syllogism contains three, and no more, distinct propositions."
+  },
+  {
+    "id": "p-5e7c5e",
+    "offset": 2228,
+    "text": "(2) A Syllogism contains three, and no more, distinct univocal terms."
+  },
+  {
+    "id": "p-4bc659",
+    "offset": 2299,
+    "text": "These two Canons imply one another. Three propositions with less than three terms can only be connected in some of the modes of Immediate Inference. Three propositions with more than three terms do not show that connection of two terms by means of a third, which is requisite for proving a Mediate Inference. If we write--"
+  },
+  {
+    "id": "p-4dd08e",
+    "offset": 2623,
+    "text": "All authors are vain; Cicero is a statesman--"
+  },
+  {
+    "id": "p-28ad8b",
+    "offset": 2670,
+    "text": "there are four terms and no middle term, and therefore there is no proof. Or if we write--"
+  },
+  {
+    "id": "p-c4614d",
+    "offset": 2762,
+    "text": "All authors are vain; Cicero is an author: .'. Cicero is a statesman--"
+  },
+  {
+    "id": "p-98b7d3",
+    "offset": 2834,
+    "text": "here the term 'statesman' occurs without any voucher; it appears in the inference but not in the evidence, and therefore violates the maxim of all formal proof, 'not to go beyond the evidence.' It is true that if any one argued--"
+  },
+  {
+    "id": "p-ed4404",
+    "offset": 3065,
+    "text": "All authors are vain; Cicero wrote on philosophy: .'. Cicero is vain--"
+  },
+  {
+    "id": "p-284e20",
+    "offset": 3137,
+    "text": "this could not be called a bad argument or a material fallacy; but it would be a needless departure from the form of expression in which the connection between the evidence and the inference is most easily seen."
+  },
+  {
+    "id": "p-ccfd8e",
+    "offset": 3350,
+    "text": "Still, a mere adherence to the same form of words in the expression of terms is not enough: we must also attend to their meaning. For if the same word be used ambiguously (as 'author' now for 'father' and anon for 'man of letters'), it becomes as to its meaning two terms; so that we have four in all. Then, if the ambiguous term be the Middle, no connection is shown between the other two; if either of the others be ambiguous, something seems to be inferred which has never been really given in evidence."
+  },
+  {
+    "id": "p-9f896c",
+    "offset": 3858,
+    "text": "The above two Canons are, indeed, involved in the definition of a categorical syllogism, which may be thus stated: A Categorical Syllogism is a form of proof or reasoning (way of giving reasons) in which one categorical proposition is established by comparing two others that contain together only three terms, or that have one and only one term in common."
+  },
+  {
+    "id": "p-00c7e9",
+    "offset": 4216,
+    "text": "The proposition established, derived, or inferred, is called the Conclusion: the evidentiary propositions by which it is proved are called the Premises."
+  },
+  {
+    "id": "p-b2bfd5",
+    "offset": 4370,
+    "text": "The term common to the premises, by means of which the other terms are compared, is called the Middle Term; the subject of the conclusion is called the Minor Term; the predicate of the conclusion, the Major Term."
+  },
+  {
+    "id": "p-55cfd4",
+    "offset": 4584,
+    "text": "The premise in which the minor term occurs is called the Minor Premise; that in which the major term occurs is called the Major Premise. And a Syllogism is usually written thus:"
+  },
+  {
+    "id": "p-ba0dd4",
+    "offset": 4763,
+    "text": "Major Premise--All authors (Middle) are vain (Major);"
+  },
+  {
+    "id": "p-e3a06f",
+    "offset": 4818,
+    "text": "Minor Premise--Cicero (Minor) is an author (Middle):"
+  },
+  {
+    "id": "p-add330",
+    "offset": 4872,
+    "text": "Conclusion--.'. Cicero (Minor) is vain (Major)."
+  },
+  {
+    "id": "p-705681",
+    "offset": 4921,
+    "text": "Here we have three propositions with three terms, each term occurring twice. The minor and major terms are so called, because, when the conclusion is an universal affirmative (which only occurs in Barbara; see chap. x. § 6), its subject and predicate are respectively the less and the greater in extent or denotation; and the premises are called after the peculiar terms they contain: the expressions 'major premise' and 'minor premise' have nothing to do with the order in which the premises are presented; though it is usual to place the major premise first."
+  },
+  {
+    "id": "p-9c7e75",
+    "offset": 5483,
+    "text": "(3) No term must be distributed in the conclusion unless it is distributed in the premises."
+  },
+  {
+    "id": "p-96145c",
+    "offset": 5576,
+    "text": "It is usual to give this as one of the General Canons of the Syllogism; but we have seen (chap. vi. § 6) that it is of wider application. Indeed, 'not to go beyond the evidence' belongs to the definition of formal proof. A breech of this rule in a syllogism is the fallacy of Illicit Process of the Minor, or of the Major, according to which term has been unwarrantably distributed. The following parasyllogism illicitly distributes both terms of the conclusion:"
+  },
+  {
+    "id": "p-81c97c",
+    "offset": 6040,
+    "text": "All poets are pathetic; Some orators are not poets: .'. No orators are pathetic."
+  },
+  {
+    "id": "p-185a53",
+    "offset": 6122,
+    "text": "(4) The Middle Term must be distributed at least once in the premises (in order to prove a conclusion in the given terms)."
+  },
+  {
+    "id": "p-97e5eb",
+    "offset": 6246,
+    "text": "For the use of mediate evidence is to show the relation of terms that cannot be directly compared; this is only possible if the middle term furnishes the ground of comparison; and this (in Logic) requires that the whole denotation of the middle should be either included or excluded by one of the other terms; since if we only know that the other terms are related to *some* of the middle, their respective relations may not be with the same part of it."
+  },
+  {
+    "id": "p-9b41bf",
+    "offset": 6701,
+    "text": "It is true that in what has been called the \"numerically definite syllogism,\" an inference may be drawn, though our canon seems to be violated. Thus:"
+  },
+  {
+    "id": "p-a03e97",
+    "offset": 6852,
+    "text": "60 sheep in 100 are horned; 60 sheep in 100 are blackfaced: .'. at least 20 blackfaced sheep in 100 are horned."
+  },
+  {
+    "id": "p-4f4a9d",
+    "offset": 6965,
+    "text": "But such an argument, though it may be correct Arithmetic, is not Logic at all; and when such numerical evidence is obtainable the comparatively indefinite arguments of Logic are needless. Another apparent exception is the following:"
+  },
+  {
+    "id": "p-79183e",
+    "offset": 7200,
+    "text": "Most men are 5 feet high; Most men are semi-rational: .'. Some semi-rational things are 5 feet high."
+  },
+  {
+    "id": "p-1686ca",
+    "offset": 7302,
+    "text": "Here the Middle Term (men) is distributed in neither premise, yet the indisputable conclusion is a logical proposition. The premises, however, are really arithmetical; for 'most' means 'more than half,' or more than 50 per cent."
+  },
+  {
+    "id": "p-3d471b",
+    "offset": 7532,
+    "text": "Still, another apparent exception is entirely logical. Suppose we are given, the premises--*All P is M*, and *All S is M*--the middle term is undistributed. But take the obverse of the contrapositive of both premises:"
+  },
+  {
+    "id": "p-3ec582",
+    "offset": 7751,
+    "text": "All m is p; All m is s: .'. Some s is p."
+  },
+  {
+    "id": "p-4f3d29",
+    "offset": 7793,
+    "text": "Here we have a conclusion legitimately obtained; but it is not in the terms originally given."
+  },
+  {
+    "id": "p-69ca84",
+    "offset": 7888,
+    "text": "For Mediate Inference depending on truly logical premises, then, it is necessary that one premise should distribute the middle term; and the reason of this may be illustrated even by the above supposed numerical exceptions. For in them the premises are such that, though neither of the two premises by itself distributes the Middle, yet they always overlap upon it. If each premise dealt with exactly half the Middle, thus barely distributing it between them, there would be no logical proposition inferrible. We require that the middle term, as used in one premise, should necessarily overlap the same term as used in the other, so as to furnish common ground for comparing the other terms. Hence I have defined the middle term as 'that term common to both premises by means of which the other terms are compared.'"
+  },
+  {
+    "id": "p-c640ba",
+    "offset": 8705,
+    "text": "(5) One at least of the premises must be affirmative; or, from two negative premises nothing can be inferred (in the given terms)."
+  },
+  {
+    "id": "p-aa5f98",
+    "offset": 8837,
+    "text": "The fourth Canon required that the middle term should be given distributed, or in its whole extent, at least once, in order to afford sure ground of comparison for the others. But that such comparison may be effected, something more is requisite; the relation of the other terms to the Middle must be of a certain character. One at least of them must be, as to its extent or denotation, partially or wholly identified with the Middle; so that to that extent it may be known to bear to the other term, whatever relation we are told that so much of the Middle bears to that other term. Now, identity of denotation can only be predicated in an affirmative proposition: one premise, then, must be affirmative."
+  },
+  {
+    "id": "p-67083b",
+    "offset": 9544,
+    "text": "If both premises are negative, we only know that both the other terms are partly or wholly excluded from the Middle, or are not identical with it in denotation: where they lie, then, in relation to one another we have no means of knowing. Similarly, in the mediate comparison of quantities, if we are told that A and C are both of them unequal to B, we can infer nothing as to the relation of C to A. Hence the premises--"
+  },
+  {
+    "id": "p-a3f0c6",
+    "offset": 9967,
+    "text": "No electors are sober; No electors are independent--"
+  },
+  {
+    "id": "p-5bf7bf",
+    "offset": 10021,
+    "text": "however suggestive, do not formally justify us in inferring any connection between sobriety and independence. Formally to draw a conclusion, we must have affirmative grounds, such as in this case we may obtain by obverting both premises:"
+  },
+  {
+    "id": "p-80bf7d",
+    "offset": 10260,
+    "text": "All electors are not-sober; All electors are not-independent: .'. Some who are not-independent are not-sober."
+  },
+  {
+    "id": "p-3faf52",
+    "offset": 10371,
+    "text": "But this conclusion is not in the given terms."
+  },
+  {
+    "id": "p-080a0b",
+    "offset": 10419,
+    "text": "(6) (a) If one premise be negative, the conclusion must be negative: and (b) to prove a negative conclusion, one premise must be negative."
+  },
+  {
+    "id": "p-f027d9",
+    "offset": 10559,
+    "text": "(a) For we have seen that one premise must be affirmative, and that thus one term must be partly (at least) identified with the Middle. If, then, the other premise, being negative, predicates the exclusion of the remaining term from the Middle, this remaining term must be excluded from the first term, so far as we know the first to be identical with the Middle: and this exclusion will be expressed by a negative conclusion. The analogy of the mediate comparison of quantities may here again be noticed: if A is equal to B, and B is unequal to C, A is unequal to C."
+  },
+  {
+    "id": "p-7b3c8a",
+    "offset": 11128,
+    "text": "(b) If both premises be affirmative, the relations to the Middle of both the other terms are more or less inclusive, and therefore furnish no ground for an exclusive inference. This also follows from the function of the middle term."
+  },
+  {
+    "id": "p-f98139",
+    "offset": 11362,
+    "text": "For the more convenient application of these canons to the testing of syllogisms, it is usual to derive from them three Corollaries:"
+  },
+  {
+    "id": "p-5f3147",
+    "offset": 11496,
+    "text": "(i) Two particular premises yield no conclusion."
+  },
+  {
+    "id": "p-1a4977",
+    "offset": 11546,
+    "text": "For if both premises be affirmative, *all* their terms are undistributed, the subjects by predesignation, the predicates by position; and therefore the middle term must be undistributed, and there can be no conclusion."
+  },
+  {
+    "id": "p-3fea5c",
+    "offset": 11766,
+    "text": "If one premise be negative, its predicate is distributed by position: the other terms remaining undistributed. But, by Canon 6, the conclusion (if any be possible) must be negative; and therefore its predicate, the major term, will be distributed. In the premises, therefore, both the middle and the major terms should be distributed, which is impossible: e.g.,"
+  },
+  {
+    "id": "p-52a97e",
+    "offset": 12129,
+    "text": "Some M is not P; Some S is M: .'. Some S is not P."
+  },
+  {
+    "id": "p-3bdcd4",
+    "offset": 12181,
+    "text": "Here, indeed, the major term is legitimately distributed (though the negative premise might have been the minor); but M, the middle term, is distributed in neither premise, and therefore there can be no conclusion."
+  },
+  {
+    "id": "p-a2b13a",
+    "offset": 12397,
+    "text": "Still, an exception may be made by admitting a bi-designate conclusion:"
+  },
+  {
+    "id": "p-e121c8",
+    "offset": 12470,
+    "text": "Some P is M; Some S is not M: .'. Some S is not some P."
+  },
+  {
+    "id": "p-494c4d",
+    "offset": 12527,
+    "text": "(ii) If one premise be particular, so is the conclusion."
+  },
+  {
+    "id": "p-b2b4e8",
+    "offset": 12585,
+    "text": "For, again, if both premises be affirmative, they only distribute one term, the subject of the universal premise, and this must be the middle term. The minor term, therefore, is undistributed, and the conclusion must be particular."
+  },
+  {
+    "id": "p-878409",
+    "offset": 12818,
+    "text": "If one premise be negative, the two premises together can distribute only two terms, the subject of the universal and the predicate of the negative (which may be the same premise). One of these terms must be the middle; the other (since the conclusion is negative) must be the major. The minor term, therefore, is undistributed, and the conclusion must be particular."
+  },
+  {
+    "id": "p-b3ddeb",
+    "offset": 13187,
+    "text": "(iii) From a particular major and a negative minor premise nothing can be inferred."
+  },
+  {
+    "id": "p-9dde3c",
+    "offset": 13272,
+    "text": "For the minor premise being negative, the major premise must be affirmative (5th Canon); and therefore, being particular, distributes the major term neither in its subject nor in its predicate. But since the conclusion must be negative (6th Canon), a distributed major term is demanded, e.g.,"
+  },
+  {
+    "id": "p-98037f",
+    "offset": 13566,
+    "text": "Here the minor and the middle terms are both distributed, but not the major (P); and, therefore, a negative conclusion is impossible."
+  },
+  {
+    "id": "p-55a111",
+    "offset": 13701,
+    "text": "§ 3. First Principle or Axiom of the Syllogism.--Hitherto in this chapter we have been analysing the conditions of valid mediate inference. We have seen that a single step of such inference, a Syllogism, contains, when fully expressed in language, three propositions and three terms, and that these terms must stand to one another in the relations required by the fourth, fifth, and sixth Canons. We now come to a principle which conveniently sums up these conditions; it is called the *Dictum de omni et nullo*, and may be stated thus:"
+  },
+  {
+    "id": "p-d759e4",
+    "offset": 14239,
+    "text": "Whatever is predicated (affirmatively or negatively) of a term distributed,"
+  },
+  {
+    "id": "p-a7001f",
+    "offset": 14316,
+    "text": "With which term another term can be (partly or wholly) identified,"
+  },
+  {
+    "id": "p-0e9f24",
+    "offset": 14384,
+    "text": "May be predicated in like manner (affirmatively or negatively) of the latter term (or part of it)."
+  },
+  {
+    "id": "p-0a5c9f",
+    "offset": 14484,
+    "text": "Thus stated (nearly as by Whately in the introduction to his *Logic*) the *Dictum* follows line by line the course of a Syllogism in the First Figure (see chap. X. § 2). To return to our former example: _All authors are vain* is the same as--Vanity is predicated of all authors; *Cicero is an author_ is the same as--Cicero is identified as an author; therefore *Cicero is vain*, or--Vanity may be predicated of Cicero. The *Dictum* then requires: (1) three propositions; (2) three terms; (3) that the middle term be distributed; (4) that one premise be affirmative, since only by an affirmative proposition can one term be identified with another; (5) that if one premise be negative the conclusion shall be so too, since whatever is predicated of the middle term is predicated *in like manner* of the minor."
+  },
+  {
+    "id": "p-61329d",
+    "offset": 15295,
+    "text": "Thus far, then, the *Dictum* is wholly analytic or verbal, expressing no more than is implied in the definitions of 'Syllogism' and 'Middle Term'; since (as we have seen) all the General Canons (except the third, which is a still more general condition of formal proof) are derivable from those definitions. However, the *Dictum* makes a further statement of a synthetic or real character, namely, that _when these conditions are fulfilled an inference is justified_; that then the major and minor terms are brought into comparison through the middle, and that the major term may be predicated affirmatively or negatively of all or part of the minor. It is this real assertion that justifies us in calling the *Dictum* an Axiom."
+  },
+  {
+    "id": "p-a9369b",
+    "offset": 16025,
+    "text": "§ 4. Whether the Laws of Thought may not fully explain the Syllogism without the need of any synthetic principle has, however, been made a question. Take such a syllogism as the following:"
+  },
+  {
+    "id": "p-09bd5e",
+    "offset": 16215,
+    "text": "All domestic animals are useful; All pugs are domestic animals: .'. All pugs are useful."
+  },
+  {
+    "id": "p-a12dd7",
+    "offset": 16305,
+    "text": "Here (an ingenious man might urge), having once identified pugs with domestic animals, that they are useful follows from the Law of Identity. If we attend to the meaning, and remember that what is true in one form of words is true in any other form, then, all domestic animals being useful, of course pugs are. It is merely a case of subalternation: we may put it in this way:"
+  },
+  {
+    "id": "p-65ec6a",
+    "offset": 16683,
+    "text": "All domestic animals are useful: .'. Some domestic animals (e.g., pugs) are useful."
+  },
+  {
+    "id": "p-27ade5",
+    "offset": 16768,
+    "text": "The derivation of negative syllogisms from the Law of Contradiction (he might add) may be shown in a similar manner."
+  },
+  {
+    "id": "p-8cdc94",
+    "offset": 16886,
+    "text": "But the force of this ingenious argument depends on the participial clause--'having once identified pugs with domestic animals.' If this is a distinct step of the reasoning, the above syllogism cannot be reduced to one step, cannot be exhibited as mere subalternation, nor be brought directly under the law of Identity. If 'pug,' 'domestic,' and 'useful' are distinct terms; and if 'pug' and 'useful' are only known to be connected because of their relations to 'domestic': this is something more than the Laws of Thought provide for: it is not Immediate Inference, but Mediate; and to justify it, scientific method requires that its conditions be generalised. The *Dictum*, then, as we have seen, does generalise these conditions, and declares that when such conditions are satisfied a Mediate Inference is valid."
+  },
+  {
+    "id": "p-4f2bfd",
+    "offset": 17702,
+    "text": "But, after all (to go back a little), consider again that proposition *All pugs are domestic animals*: is it a distinct step of the reasoning; that is to say, is it a Real Proposition? If, indeed, 'domestic' is no part of the definition of 'pug,' the proposition is real, and is a distinct part of the argument. But take such a case as this:"
+  },
+  {
+    "id": "p-bb70d3",
+    "offset": 18045,
+    "text": "All dogs are useful; All pugs are dogs."
+  },
+  {
+    "id": "p-3b5d33",
+    "offset": 18086,
+    "text": "Here we clearly have, in the minor premise, only a verbal proposition; to be a dog is certainly part of the definition of 'pug.' But, if so, the inference 'All pugs are useful' involves no real mediation, and the argument is no more than this:"
+  },
+  {
+    "id": "p-aea57f",
+    "offset": 18331,
+    "text": "All dogs are useful; .'. Some dogs (e.g., pugs) are useful."
+  },
+  {
+    "id": "p-458002",
+    "offset": 18392,
+    "text": "Similarly, if the major premise be verbal, thus:"
+  },
+  {
+    "id": "p-b7edfd",
+    "offset": 18442,
+    "text": "All men are rational; Socrates is a man--"
+  },
+  {
+    "id": "p-be582b",
+    "offset": 18485,
+    "text": "to conclude that 'Socrates is rational' is no Mediate Inference; for so much was implied in the minor premise, 'Socrates is a man,' and the major premise adds nothing to this."
+  },
+  {
+    "id": "p-1adcba",
+    "offset": 18662,
+    "text": "Hence we may conclude (as anticipated in chap. vii. § 3) that 'any apparent syllogism, having one premise a verbal proposition, is really an Immediate Inference'; but that, if both premises are real propositions, the Inference is Mediate, and demands for its explanation something more than the Laws of Thought."
+  },
+  {
+    "id": "p-e4b2be",
+    "offset": 18975,
+    "text": "The fact is that to prove the minor to be a case of the middle term may be an exceedingly difficult operation (chap. xiii. § 7). The difficulty is disguised by ordinary examples, used for the sake of convenience."
+  },
+  {
+    "id": "p-92b84d",
+    "offset": 19189,
+    "text": "§ 5. Other kinds of Mediate Inference exist, yielding valid conclusions, without being truly syllogistic. Such are mathematical inferences of Equality, as--"
+  },
+  {
+    "id": "p-30d1e9",
+    "offset": 19347,
+    "text": "Here, according to the usual logical analysis, there are strictly four terms--(1) A, (2) equal to B, (3) B, (4) equal to C."
+  },
+  {
+    "id": "p-da338b",
+    "offset": 19472,
+    "text": "Similarly with the argument *a fortiori*,"
+  },
+  {
+    "id": "p-1c0c9a",
+    "offset": 19515,
+    "text": "This also is said to contain four terms: (1) A, (2) greater than B, (3) B, (4) greater than C. Such inferences are nevertheless intuitively sound, may be verified by trial (within the limits of sense-perception), and are generalised in appropriate axioms of their own, corresponding to the *Dictum* of the syllogism; as 'Things equal to the same thing are equal to one another,' etc."
+  },
+  {
+    "id": "p-87efde",
+    "offset": 19900,
+    "text": "Now, surely, this is an erroneous application of the usual logical analysis of propositions. Both Logic and Mathematics treat of the *relations* of terms; but whilst Mathematics employs the sign = for only one kind of relation, and for that relation exclusive of the terms; Logic employs the same signs (*is* or *is not*) for all relations, recognising only a difference of quality in predication, and treating every other difference of relation as belonging to one of the terms related. Thus Logicians read *A--is--equal to B*: as if *equal to B* could possibly be a term co-relative with A. Whence it follows that the argument *A = B = C .'. A = C* contains four terms; though everybody sees that there are only three."
+  },
+  {
+    "id": "p-7bc8d6",
+    "offset": 20622,
+    "text": "In fact (as observed in chap. ii. § 2) the sign of logical relation (*is* or *is not*), whilst usually adequate for class-reasoning (coinherence) and sometimes extensible to causation (because a cause implies a class of events), should never be stretched to include other relations in such a way as to sacrifice intelligence to formalism. And, besides mathematical or quantitative relations, there are others (usually considered qualitative because indefinite) which cannot be justly expressed by the logical copula. We ought to read propositions expressing time-relations (and inferences drawn accordingly) thus:"
+  },
+  {
+    "id": "p-231c76",
+    "offset": 21237,
+    "text": "B--is before--C; A--is before--B: .'. A--is before--C."
+  },
+  {
+    "id": "p-a426ea",
+    "offset": 21293,
+    "text": "And in like manner *A--is simultaneous with--B; etc.* Such arguments (as well as the mathematical) are intuitively sound and verifiable, and might be generalised in axioms if it were worth while: but it is not, because no method could be founded on such axioms."
+  },
+  {
+    "id": "p-ea90ed",
+    "offset": 21556,
+    "text": "The customary use of relative terms justifies some Mediate Inferences, as, *The father of a father is a grand-father*."
+  },
+  {
+    "id": "p-7bdfbe",
+    "offset": 21676,
+    "text": "Some cases, however, that at first seem obvious, are really delusive unless further data be supplied. Thus _A co-exists with B, B with C; .'. A with C*--is not sound unless *B_ is an instantaneous event; for where B is perdurable, *A* may co-exist with it at one time and *C* at another."
+  },
+  {
+    "id": "p-d72208",
+    "offset": 21965,
+    "text": "Again: *A is to the left of B, B of C; .'. A of C*. This may pass; but it is not a parallel argument that if *A is north of B and B west of C*, then *A is north-west of C*: for suppose that A is a mile to the north of B, and B a yard to the west of C, then A is practically north of C; at least, its westward position cannot be expressed in terms of the mariner's compass. In such a case we require to know not only the directions but the distances of A and C from B; and then the exact direction of A from C is an affair of mathematical calculation."
+  },
+  {
+    "id": "p-51b8cc",
+    "offset": 22517,
+    "text": "Qualitative reasoning concerning position is only applicable to things in one dimension of space, or in time considered as having one dimension. Under these conditions we may frame the following generalisation concerning all Mediate Inferences: Two terms definitely related to a third, and one of them positively, are related to one another as the other term is related to the third (that is, positively or negatively); provided that the relations given are of the same kind (that is, of Time, or Coinherence, or Likeness, or Equality)."
+  },
+  {
+    "id": "p-28b843",
+    "offset": 23055,
+    "text": "Thus, to illustrate by relations of Time--"
+  },
+  {
+    "id": "p-a239cd",
+    "offset": 23099,
+    "text": "B is simultaneous with C; A is not simultaneous with B: .'. A is not simultaneous with C."
+  },
+  {
+    "id": "p-d89af0",
+    "offset": 23190,
+    "text": "Here the relations are of the same kind but of different logical quality, and (as in the syllogism) a negative copula in the premises leads to a negative conclusion."
+  },
+  {
+    "id": "p-b5e2b5",
+    "offset": 23357,
+    "text": "An examination in detail of particular cases would show that the above generalisation concerning all Mediate Inferences is subject to too many qualifications to be called an Axiom; it stands to the real Axioms (the *Dictum*, etc.) as the notion of the Uniformity of Nature does to the definite principles of natural order (*cf.* chap. xiii. § 9)."
+  }
+]

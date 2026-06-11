@@ -1,0 +1,35 @@
+---
+work_id: "4954efbe-0126-5b31-a32f-217b1759ae6d"
+work_slug: "david-hume-an-enquiry-concerning-human-unde-4954ef"
+work_title: An Enquiry Concerning Human Understanding
+author_name: David Hume
+chapter_number: 3
+chapter_title: Section III
+chapter_slug: 03
+variant_id: "d56b01ff-c1e1-5401-96a2-ca43f505651b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 529
+source_url: "https://www.gutenberg.org/ebooks/9662"
+translator: Project Gutenberg edition
+---
+
+OF THE ASSOCIATION OF IDEAS.
+
+18. It is evident that there is a principle of connexion between the different thoughts or ideas of the mind, and that, in their appearance to the memory or imagination, they introduce each other with a certain degree of method and regularity. In our more serious thinking or discourse this is so observable that any particular thought, which breaks in upon the regular tract or chain of ideas, is immediately remarked and rejected. And even in our wildest and most wandering reveries, nay in our very dreams, we shall find, if we reflect, that the imagination ran not altogether at adventures, but that there was still a connexion upheld among the different ideas, which succeeded each other. Were the loosest and freest conversation to be transcribed, there would immediately be observed something which connected it in all its transitions. Or where this is wanting, the person who broke the thread of discourse might still inform you, that there had secretly revolved in his mind a succession of thought, which had gradually led him from the subject of conversation. Among different languages, even where we cannot suspect the least connexion or communication, it is found, that the words, expressive of ideas, the most compounded, do yet nearly correspond to each other: a certain proof that the simple ideas, comprehended in the compound ones, were bound together by some universal principle, which had an equal influence on all mankind.
+
+19. Though it be too obvious to escape observation, that different ideas are connected together; I do not find that any philosopher has attempted to enumerate or class all the principles of association; a subject, however, that seems worthy of curiosity. To me, there appear to be only three principles of connexion among ideas, namely, *Resemblance*, *Contiguity* in time or place, and *Cause or Effect*.
+
+That these principles serve to connect ideas will not, I believe, be much doubted. A picture naturally leads our thoughts to the original: the mention of one apartment in a building naturally introduces an enquiry or discourse concerning the others: and if we think of a wound, we can scarcely forbear reflecting on the pain which follows it. But that this enumeration is complete, and that there are no other principles of association except these, may be difficult to prove to the satisfaction of the reader, or even to a man's own satisfaction. All we can do, in such cases, is to run over several instances, and examine carefully the principle which binds the different thoughts to each other, never stopping till we render the principle as general as possible. The more instances we examine, and the more care we employ, the more assurance shall we acquire, that the enumeration, which we form from the whole, is complete and entire.
+
+Resemblance.
+
+Contiguity.
+
+Cause and effect.
+
+For instance, Contrast or Contrariety is also a connexion among Ideas: but it may, perhaps, be considered as a mixture of *Causation* and *Resemblance*. Where two objects are contrary, the one destroys the other; that is, the cause of its annihilation, and the idea of the annihilation of an object, implies the idea of its former existence.

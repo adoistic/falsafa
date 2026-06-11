@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "p-e80420",
+    "offset": 0,
+    "text": "*ANSWERS.*"
+  },
+  {
+    "id": "p-270732",
+    "offset": 12,
+    "text": "1. \"All\" *Sign of Quantity.* \"persons represented by the Name 'I'\" (or \"I's\") *Subject.* \"are\" *Copula.* \"persons who have been out for a walk\" *Predicate.*"
+  },
+  {
+    "id": "p-192bbc",
+    "offset": 170,
+    "text": "or, more briefly,"
+  },
+  {
+    "id": "p-b5a9b9",
+    "offset": 189,
+    "text": "\"All | 'I's | are | persons who have been out for a walk\"."
+  },
+  {
+    "id": "p-a6f809",
+    "offset": 249,
+    "text": "2. \"All | 'I's | are | persons who feel better\"."
+  },
+  {
+    "id": "p-97c2af",
+    "offset": 299,
+    "text": "3. \"No | persons who are not 'John' | are | persons who have read the letter\"."
+  },
+  {
+    "id": "p-75e920",
+    "offset": 379,
+    "text": "4. \"No | Members of the Class 'you and I' | are | old persons\"."
+  },
+  {
+    "id": "p-471135",
+    "offset": 444,
+    "text": "5. \"No | fat creatures | are | creatures that run well\"."
+  },
+  {
+    "id": "p-2d620d",
+    "offset": 502,
+    "text": "6. \"No | not-brave persons | are | persons deserving of the fair\"."
+  },
+  {
+    "id": "p-a89982",
+    "offset": 570,
+    "text": "7. \"No | not-pale persons | are | persons who look poetical\"."
+  },
+  {
+    "id": "p-9716ec",
+    "offset": 633,
+    "text": "8. \"Some | judges | are | persons who lose their tempers\"."
+  },
+  {
+    "id": "p-593b7e",
+    "offset": 693,
+    "text": "9. \"All | 'I's | are | persons who do not neglect important business\"."
+  },
+  {
+    "id": "p-0296c4",
+    "offset": 765,
+    "text": "10. \"All | difficult things | are | things that need attention\"."
+  },
+  {
+    "id": "p-073316",
+    "offset": 831,
+    "text": "11. \"All | unwholesome things | are | things that should be avoided\"."
+  },
+  {
+    "id": "p-712b5b",
+    "offset": 902,
+    "text": "12. \"All | laws passed last week | are | laws relating to excise\"."
+  },
+  {
+    "id": "p-b1130b",
+    "offset": 970,
+    "text": "13. \"All | logical studies | are | things that puzzle me\"."
+  },
+  {
+    "id": "p-56b79a",
+    "offset": 1030,
+    "text": "14. \"No | persons in the house | are | Jews\"."
+  },
+  {
+    "id": "p-eef4d8",
+    "offset": 1077,
+    "text": "15. \"Some | not well-cooked dishes | are | unwholesome dishes\"."
+  },
+  {
+    "id": "p-4af254",
+    "offset": 1142,
+    "text": "16. \"All | unexciting books | are | books that make one drowsy\"."
+  },
+  {
+    "id": "p-16fdad",
+    "offset": 1208,
+    "text": "17. \"All | men who know what they're about | are | men who can detect a sharper\"."
+  },
+  {
+    "id": "p-3f1464",
+    "offset": 1291,
+    "text": "18. \"All | Members of the Class 'you and I' | are | persons who know what they're about\"."
+  },
+  {
+    "id": "p-39f39f",
+    "offset": 1382,
+    "text": "19. \"Some | bald persons | are | persons accustomed to wear wigs\"."
+  },
+  {
+    "id": "p-de0f8e",
+    "offset": 1450,
+    "text": "20. \"All | fully occupied persons | are | persons who do not talk about their grievances\"."
+  },
+  {
+    "id": "p-cda92f",
+    "offset": 1542,
+    "text": "21. \"No | riddles that can be solved | are | riddles that interest me\"."
+  },
+  {
+    "id": "p-d6befa",
+    "offset": 1615,
+    "text": "1. Some xy exist, or some x are y, or some y are x."
+  },
+  {
+    "id": "p-aa4409",
+    "offset": 1668,
+    "text": "2. No information."
+  },
+  {
+    "id": "p-ba5102",
+    "offset": 1688,
+    "text": "8. All x' are y', and all y are x."
+  },
+  {
+    "id": "p-573e8e",
+    "offset": 1724,
+    "text": "11. No information."
+  },
+  {
+    "id": "p-a4d0ec",
+    "offset": 1745,
+    "text": "4. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-97241d",
+    "offset": 1811,
+    "text": "6. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-d971f5",
+    "offset": 1877,
+    "text": "9. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-d3fe8a",
+    "offset": 1946,
+    "text": "11. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-327c99",
+    "offset": 2013,
+    "text": "22. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-7d613a",
+    "offset": 2083,
+    "text": "29. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-5f34a9",
+    "offset": 2150,
+    "text": "31. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-6ce178",
+    "offset": 2217,
+    "text": "33. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-700fd5",
+    "offset": 2284,
+    "text": "1. Somebody who has been out for a walk is feeling better."
+  },
+  {
+    "id": "p-478142",
+    "offset": 2344,
+    "text": "2. No one but John knows what the letter is about."
+  },
+  {
+    "id": "p-912ad7",
+    "offset": 2396,
+    "text": "3. You and I like walking."
+  },
+  {
+    "id": "p-9c19f0",
+    "offset": 2424,
+    "text": "4. Honesty is sometimes the best policy."
+  },
+  {
+    "id": "p-a5434d",
+    "offset": 2466,
+    "text": "5. Some greyhounds are not fat."
+  },
+  {
+    "id": "p-1e17d5",
+    "offset": 2499,
+    "text": "6. Some brave persons get their deserts."
+  },
+  {
+    "id": "p-e5c6a7",
+    "offset": 2541,
+    "text": "7. Some rich persons are not Esquimaux."
+  },
+  {
+    "id": "p-4452cd",
+    "offset": 2582,
+    "text": "8. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-95378b",
+    "offset": 2651,
+    "text": "9. John is ill."
+  },
+  {
+    "id": "p-f0cd82",
+    "offset": 2668,
+    "text": "10. Some things, that are not umbrellas, should be left behind on a journey."
+  },
+  {
+    "id": "p-0b69a0",
+    "offset": 2746,
+    "text": "11. No music is worth paying for, unless it causes vibration in the air."
+  },
+  {
+    "id": "p-1dbf74",
+    "offset": 2820,
+    "text": "12. Some holidays are tiresome."
+  },
+  {
+    "id": "p-ad22ec",
+    "offset": 2853,
+    "text": "13. Englishmen are not Frenchmen."
+  },
+  {
+    "id": "p-14fbfc",
+    "offset": 2888,
+    "text": "14. No photograph of a lady is satisfactory."
+  },
+  {
+    "id": "p-44fa37",
+    "offset": 2934,
+    "text": "15. No one looks poetical unless he is phlegmatic."
+  },
+  {
+    "id": "p-468153",
+    "offset": 2986,
+    "text": "16. Some thin persons are not cheerful."
+  },
+  {
+    "id": "p-acaa46",
+    "offset": 3027,
+    "text": "17. Some judges do not exercise self-control."
+  },
+  {
+    "id": "p-b40de0",
+    "offset": 3074,
+    "text": "18. Pigs are not fed on barley-water."
+  },
+  {
+    "id": "p-554d04",
+    "offset": 3113,
+    "text": "19. Some black rabbits are not old. pg129 20. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-87e66e",
+    "offset": 3225,
+    "text": "21. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-8ab016",
+    "offset": 3292,
+    "text": "22. Some lessons need attention."
+  },
+  {
+    "id": "p-acbc11",
+    "offset": 3326,
+    "text": "23. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-ff0fee",
+    "offset": 3393,
+    "text": "24. No one, who forgets a promise, fails to do mischief."
+  },
+  {
+    "id": "p-6ae6c7",
+    "offset": 3451,
+    "text": "25. Some greedy creatures cannot fly."
+  },
+  {
+    "id": "p-3eeadc",
+    "offset": 3490,
+    "text": "26. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-f6c69c",
+    "offset": 3560,
+    "text": "27. No bride-cakes are things that need not be avoided."
+  },
+  {
+    "id": "p-66b825",
+    "offset": 3617,
+    "text": "28. John is happy."
+  },
+  {
+    "id": "p-abea00",
+    "offset": 3637,
+    "text": "29. Some people, who are not gamblers, are not philosophers."
+  },
+  {
+    "id": "p-32bba2",
+    "offset": 3699,
+    "text": "30. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-e9a07b",
+    "offset": 3769,
+    "text": "31. None of my lodgers write poetry."
+  },
+  {
+    "id": "p-9af98d",
+    "offset": 3807,
+    "text": "32. Senna is not nice."
+  },
+  {
+    "id": "p-42310c",
+    "offset": 3831,
+    "text": "33. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-068e4e",
+    "offset": 3901,
+    "text": "34. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-0def66",
+    "offset": 3968,
+    "text": "35. Logic is unintelligible."
+  },
+  {
+    "id": "p-98163b",
+    "offset": 3998,
+    "text": "36. Some wild creatures are fat."
+  },
+  {
+    "id": "p-fcba08",
+    "offset": 4032,
+    "text": "37. All wasps are unwelcome."
+  },
+  {
+    "id": "p-517371",
+    "offset": 4062,
+    "text": "38. All black rabbits are young."
+  },
+  {
+    "id": "p-a2d6de",
+    "offset": 4096,
+    "text": "39. Some hard-boiled things can be cracked."
+  },
+  {
+    "id": "p-8b604e",
+    "offset": 4141,
+    "text": "40. No antelopes fail to delight the eye."
+  },
+  {
+    "id": "p-b216c7",
+    "offset": 4184,
+    "text": "41. All well-fed canaries are cheerful."
+  },
+  {
+    "id": "p-643795",
+    "offset": 4225,
+    "text": "42. Some poetry is not producible at will."
+  },
+  {
+    "id": "p-afb23e",
+    "offset": 4269,
+    "text": "43. No country infested by dragons fails to be fascinating."
+  },
+  {
+    "id": "p-ede8a8",
+    "offset": 4330,
+    "text": "44. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-eeacb7",
+    "offset": 4397,
+    "text": "45. Some picturesque things are not made of sugar."
+  },
+  {
+    "id": "p-f84f99",
+    "offset": 4449,
+    "text": "46. No children can sit still."
+  },
+  {
+    "id": "p-187716",
+    "offset": 4481,
+    "text": "47. Some cats cannot whistle."
+  },
+  {
+    "id": "p-ac03fb",
+    "offset": 4512,
+    "text": "48. You are terrible."
+  },
+  {
+    "id": "p-6efee5",
+    "offset": 4535,
+    "text": "49. Some oysters are not amusing."
+  },
+  {
+    "id": "p-bba9f5",
+    "offset": 4570,
+    "text": "50. Nobody in the house has a beard a yard long."
+  },
+  {
+    "id": "p-c665d2",
+    "offset": 4620,
+    "text": "51. Some ill-fed canaries are unhappy."
+  },
+  {
+    "id": "p-0a4898",
+    "offset": 4660,
+    "text": "52. My sisters cannot sing."
+  },
+  {
+    "id": "p-a0d5a3",
+    "offset": 4689,
+    "text": "53. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-f01716",
+    "offset": 4759,
+    "text": "54. Some rich things are nice."
+  },
+  {
+    "id": "p-6e355a",
+    "offset": 4791,
+    "text": "55. My cousins are none of them judges, and judges are none of them cousins of mine."
+  },
+  {
+    "id": "p-662455",
+    "offset": 4877,
+    "text": "56. Something wearisome is not eagerly wished for."
+  },
+  {
+    "id": "p-fccc49",
+    "offset": 4929,
+    "text": "57. Senna is nasty."
+  },
+  {
+    "id": "p-a0027d",
+    "offset": 4950,
+    "text": "58. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-d4491b",
+    "offset": 5020,
+    "text": "59. Niggers are not any of them tall."
+  },
+  {
+    "id": "p-a4947f",
+    "offset": 5059,
+    "text": "60. Some obstinate persons are not philosophers."
+  },
+  {
+    "id": "p-3a1293",
+    "offset": 5109,
+    "text": "61. John is happy."
+  },
+  {
+    "id": "p-894342",
+    "offset": 5129,
+    "text": "62. Some unwholesome dishes are not present here (i.e. cannot be spoken of as \"these\")."
+  },
+  {
+    "id": "p-b63058",
+    "offset": 5218,
+    "text": "63. No books suit feverish patients unless they make one drowsy."
+  },
+  {
+    "id": "p-37470f",
+    "offset": 5284,
+    "text": "64. Some greedy creatures cannot fly."
+  },
+  {
+    "id": "p-f416d1",
+    "offset": 5323,
+    "text": "65. You and I can detect a sharper."
+  },
+  {
+    "id": "p-476f62",
+    "offset": 5360,
+    "text": "66. Some dreams are not lambs. pg130 67. No lizard needs a hairbrush."
+  },
+  {
+    "id": "p-fd8663",
+    "offset": 5431,
+    "text": "68. Some things, that may escape notice, are not battles."
+  },
+  {
+    "id": "p-bb0740",
+    "offset": 5490,
+    "text": "69. My cousins are not any of them judges."
+  },
+  {
+    "id": "p-75fbe8",
+    "offset": 5534,
+    "text": "70. Some hard-boiled things can be cracked."
+  },
+  {
+    "id": "p-a2fe94",
+    "offset": 5579,
+    "text": "71. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-e647dd",
+    "offset": 5649,
+    "text": "72. She is unpopular."
+  },
+  {
+    "id": "p-9b2128",
+    "offset": 5672,
+    "text": "73. Some people, who wear wigs, are not children of yours."
+  },
+  {
+    "id": "p-67751a",
+    "offset": 5732,
+    "text": "74. No lobsters expect impossibilities."
+  },
+  {
+    "id": "p-b353c0",
+    "offset": 5773,
+    "text": "75. No nightmare is eagerly desired."
+  },
+  {
+    "id": "p-baf01c",
+    "offset": 5811,
+    "text": "76. Some nice things are not plumcakes."
+  },
+  {
+    "id": "p-c4c95d",
+    "offset": 5852,
+    "text": "77. Some kinds of jam need not be shunned."
+  },
+  {
+    "id": "p-3a68ef",
+    "offset": 5896,
+    "text": "78. All ducks are ungraceful."
+  },
+  {
+    "id": "p-94ec6b",
+    "offset": 5927,
+    "text": "79. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-fc760d",
+    "offset": 5994,
+    "text": "80. No man, who begs in the street, should fail to keep accounts."
+  },
+  {
+    "id": "p-a47d0b",
+    "offset": 6061,
+    "text": "81. Some savage creatures are not spiders."
+  },
+  {
+    "id": "p-694b5c",
+    "offset": 6105,
+    "text": "82. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-31e685",
+    "offset": 6175,
+    "text": "83. No travelers, who do not carry plenty of small change, fail to lose their luggage."
+  },
+  {
+    "id": "p-705128",
+    "offset": 6263,
+    "text": "84. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-b492a3",
+    "offset": 6333,
+    "text": "85. Judges are none of them cousins of mine."
+  },
+  {
+    "id": "p-b38e13",
+    "offset": 6379,
+    "text": "86. All my lodgers are sane."
+  },
+  {
+    "id": "p-d6bd03",
+    "offset": 6409,
+    "text": "87. Those who are busy are contented, and discontented people are not busy."
+  },
+  {
+    "id": "p-c1f9cc",
+    "offset": 6486,
+    "text": "88. None of my cousins are judges."
+  },
+  {
+    "id": "p-4a2c48",
+    "offset": 6522,
+    "text": "89. No nightingale dislikes sugar."
+  },
+  {
+    "id": "p-44748b",
+    "offset": 6558,
+    "text": "90. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-0c9f8b",
+    "offset": 6625,
+    "text": "91. Some excuses are not clear explanations."
+  },
+  {
+    "id": "p-13cbcc",
+    "offset": 6671,
+    "text": "92. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-9ff353",
+    "offset": 6738,
+    "text": "93. No kind deed need cause scruple."
+  },
+  {
+    "id": "p-2f945c",
+    "offset": 6776,
+    "text": "94. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-d82b58",
+    "offset": 6843,
+    "text": "95. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-c68997",
+    "offset": 6910,
+    "text": "96. No cheats are trustworthy."
+  },
+  {
+    "id": "p-36f942",
+    "offset": 6942,
+    "text": "97. No clever child of mine is greedy."
+  },
+  {
+    "id": "p-dbeb0f",
+    "offset": 6982,
+    "text": "98. Some things, that are meant to amuse, are not Acts of Parliament."
+  },
+  {
+    "id": "p-72798c",
+    "offset": 7053,
+    "text": "99. No tour, that is ever forgotten, is worth writing a book about."
+  },
+  {
+    "id": "p-8fdc9c",
+    "offset": 7122,
+    "text": "100. No obedient child of mine is contented."
+  },
+  {
+    "id": "p-8a641b",
+    "offset": 7168,
+    "text": "101. Your visit does not annoy me."
+  },
+  {
+    "id": "p-8a6f70",
+    "offset": 7204,
+    "text": "1. Conclusion right."
+  },
+  {
+    "id": "p-370909",
+    "offset": 7226,
+    "text": "2. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-b7ade1",
+    "offset": 7290,
+    "text": "3. Concl. right."
+  },
+  {
+    "id": "p-3c46b2",
+    "offset": 7308,
+    "text": "4. Concl. right."
+  },
+  {
+    "id": "p-a01b45",
+    "offset": 7326,
+    "text": "5. Concl. right."
+  },
+  {
+    "id": "p-cadbd5",
+    "offset": 7344,
+    "text": "6. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-2adf45",
+    "offset": 7408,
+    "text": "7. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-40497e",
+    "offset": 7475,
+    "text": "8. Concl. right."
+  },
+  {
+    "id": "p-f43191",
+    "offset": 7493,
+    "text": "9. Concl. right."
+  },
+  {
+    "id": "p-ee944b",
+    "offset": 7511,
+    "text": "10. Concl. right."
+  },
+  {
+    "id": "p-5ad33f",
+    "offset": 7530,
+    "text": "11. Concl. right."
+  },
+  {
+    "id": "p-4d7495",
+    "offset": 7549,
+    "text": "12. Concl. right."
+  },
+  {
+    "id": "p-ccf387",
+    "offset": 7568,
+    "text": "13. Concl. right."
+  },
+  {
+    "id": "p-329f4b",
+    "offset": 7587,
+    "text": "14. Concl. right."
+  },
+  {
+    "id": "p-968e19",
+    "offset": 7606,
+    "text": "15. Concl. right. pg131 16. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-70cfb1",
+    "offset": 7695,
+    "text": "17. Concl. right."
+  },
+  {
+    "id": "p-534377",
+    "offset": 7714,
+    "text": "18. Concl. right."
+  },
+  {
+    "id": "p-212bcd",
+    "offset": 7733,
+    "text": "19. Concl. right."
+  },
+  {
+    "id": "p-0e3a94",
+    "offset": 7752,
+    "text": "20. Concl. right."
+  },
+  {
+    "id": "p-aea761",
+    "offset": 7771,
+    "text": "21. Concl. right."
+  },
+  {
+    "id": "p-c198ed",
+    "offset": 7790,
+    "text": "22. Concl. wrong: the right one is \"Some x are y.\""
+  },
+  {
+    "id": "p-8afdfd",
+    "offset": 7842,
+    "text": "23. Concl. right."
+  },
+  {
+    "id": "p-42d047",
+    "offset": 7861,
+    "text": "24. Concl. right."
+  },
+  {
+    "id": "p-a89b75",
+    "offset": 7880,
+    "text": "25. Concl. right."
+  },
+  {
+    "id": "p-82b924",
+    "offset": 7899,
+    "text": "26. Concl. right."
+  },
+  {
+    "id": "p-07199b",
+    "offset": 7918,
+    "text": "27. Concl. right."
+  },
+  {
+    "id": "p-1b7a93",
+    "offset": 7937,
+    "text": "28. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-cd53c9",
+    "offset": 8002,
+    "text": "29. Concl. right."
+  },
+  {
+    "id": "p-2227e4",
+    "offset": 8021,
+    "text": "30. Concl. right."
+  },
+  {
+    "id": "p-308c34",
+    "offset": 8040,
+    "text": "31. Concl. right."
+  },
+  {
+    "id": "p-e8e771",
+    "offset": 8059,
+    "text": "32. Concl. right."
+  },
+  {
+    "id": "p-8512df",
+    "offset": 8078,
+    "text": "33. Concl. right."
+  },
+  {
+    "id": "p-d0e807",
+    "offset": 8097,
+    "text": "34. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-f8a244",
+    "offset": 8165,
+    "text": "35. Concl. right."
+  },
+  {
+    "id": "p-190dcd",
+    "offset": 8184,
+    "text": "36. Concl. right."
+  },
+  {
+    "id": "p-fb5d57",
+    "offset": 8203,
+    "text": "37. Concl. right."
+  },
+  {
+    "id": "p-8c71de",
+    "offset": 8222,
+    "text": "38. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-d117fa",
+    "offset": 8287,
+    "text": "39. Concl. right."
+  },
+  {
+    "id": "p-49d4f5",
+    "offset": 8306,
+    "text": "40. Concl. right."
+  },
+  {
+    "id": "p-d041a0",
+    "offset": 8325,
+    "text": "1. Concl. right."
+  },
+  {
+    "id": "p-afd618",
+    "offset": 8343,
+    "text": "2. Concl. right."
+  },
+  {
+    "id": "p-b7ade1",
+    "offset": 8361,
+    "text": "3. Concl. right."
+  },
+  {
+    "id": "p-a73785",
+    "offset": 8379,
+    "text": "4. Concl. wrong: right one is \"Some epicures are not uncles of mine.\""
+  },
+  {
+    "id": "p-a01b45",
+    "offset": 8450,
+    "text": "5. Concl. right."
+  },
+  {
+    "id": "p-947c0c",
+    "offset": 8468,
+    "text": "6. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-287b29",
+    "offset": 8535,
+    "text": "7. Concl. wrong: right one is \"The publication, in which I saw it, tells lies.\""
+  },
+  {
+    "id": "p-3e2992",
+    "offset": 8616,
+    "text": "8. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-a2b19a",
+    "offset": 8683,
+    "text": "9. Concl. wrong: right one is \"Some tedious songs are not his.\""
+  },
+  {
+    "id": "p-ee944b",
+    "offset": 8748,
+    "text": "10. Concl. right."
+  },
+  {
+    "id": "p-a4aa78",
+    "offset": 8767,
+    "text": "11. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-c6c40d",
+    "offset": 8835,
+    "text": "12. Concl. wrong: right one is \"Some fierce creatures do not drink coffee.\""
+  },
+  {
+    "id": "p-166e35",
+    "offset": 8912,
+    "text": "13. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-329f4b",
+    "offset": 8980,
+    "text": "14. Concl. right."
+  },
+  {
+    "id": "p-fede58",
+    "offset": 8999,
+    "text": "15. Concl. wrong: right one is \"Some shallow persons are not students.\""
+  },
+  {
+    "id": "p-11ad07",
+    "offset": 9072,
+    "text": "16. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-2ebc6b",
+    "offset": 9137,
+    "text": "17. Concl. wrong: right one is \"Some business, other than railways, is unprofitable.\""
+  },
+  {
+    "id": "p-8d39dc",
+    "offset": 9224,
+    "text": "18. Concl. wrong: right one is \"Some vain persons are not Professors.\""
+  },
+  {
+    "id": "p-212bcd",
+    "offset": 9296,
+    "text": "19. Concl. right."
+  },
+  {
+    "id": "p-1c8c48",
+    "offset": 9315,
+    "text": "20. Concl. wrong: right one is \"Wasps are not puppies.\""
+  },
+  {
+    "id": "p-ea54fe",
+    "offset": 9372,
+    "text": "21. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-4f26c0",
+    "offset": 9440,
+    "text": "22. No Concl. Same Fallacy."
+  },
+  {
+    "id": "p-8afdfd",
+    "offset": 9469,
+    "text": "23. Concl. right."
+  },
+  {
+    "id": "p-926af7",
+    "offset": 9488,
+    "text": "24. Concl. wrong: right one is \"Some chocolate-creams are delicious.\""
+  },
+  {
+    "id": "p-f7ee97",
+    "offset": 9559,
+    "text": "25. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-4a9b44",
+    "offset": 9624,
+    "text": "26. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-6163a7",
+    "offset": 9692,
+    "text": "27. Concl. wrong: right one is \"Some pillows are not pokers.\""
+  },
+  {
+    "id": "p-e16384",
+    "offset": 9755,
+    "text": "28. Concl. right."
+  },
+  {
+    "id": "p-9446f0",
+    "offset": 9774,
+    "text": "29. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-9acef2",
+    "offset": 9842,
+    "text": "30. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-308c34",
+    "offset": 9907,
+    "text": "31. Concl. right."
+  },
+  {
+    "id": "p-010346",
+    "offset": 9926,
+    "text": "32. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-9fab48",
+    "offset": 9991,
+    "text": "33. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss. pg132 34. Concl. wrong: right one is \"Some dreaded persons are not begged to prolong their visits.\""
+  },
+  {
+    "id": "p-081b27",
+    "offset": 10159,
+    "text": "35. Concl. wrong: right one is \"No man walks on neither.\""
+  },
+  {
+    "id": "p-190dcd",
+    "offset": 10218,
+    "text": "36. Concl. right."
+  },
+  {
+    "id": "p-c5675f",
+    "offset": 10237,
+    "text": "37. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-fa67da",
+    "offset": 10305,
+    "text": "38. Concl. wrong: right one is \"Some persons, dreaded by children, are not emperors.\""
+  },
+  {
+    "id": "p-27a942",
+    "offset": 10392,
+    "text": "39. Concl. incomplete: the omitted portion is \"Sugar is not salt.\""
+  },
+  {
+    "id": "p-49d4f5",
+    "offset": 10460,
+    "text": "40. Concl. right."
+  },
+  {
+    "id": "p-d7887b",
+    "offset": 10479,
+    "text": "1. Babies cannot manage crocodiles."
+  },
+  {
+    "id": "p-8a7df6",
+    "offset": 10516,
+    "text": "2. *Your* presents to me are not made of tin."
+  },
+  {
+    "id": "p-7d6243",
+    "offset": 10563,
+    "text": "3. All my potatoes in this dish are old ones."
+  },
+  {
+    "id": "p-a4d488",
+    "offset": 10610,
+    "text": "4. My servants never say \"shpoonj.\""
+  },
+  {
+    "id": "p-0e38d5",
+    "offset": 10647,
+    "text": "5. My poultry are not officers."
+  },
+  {
+    "id": "p-76d798",
+    "offset": 10680,
+    "text": "6. None of *your* sons are fit to serve on a jury."
+  },
+  {
+    "id": "p-66ba1e",
+    "offset": 10732,
+    "text": "7. No pencils of mine are sugar-plums."
+  },
+  {
+    "id": "p-f66045",
+    "offset": 10772,
+    "text": "8. Jenkins is inexperienced."
+  },
+  {
+    "id": "p-749fc8",
+    "offset": 10802,
+    "text": "9. No comet has a curly tail."
+  },
+  {
+    "id": "p-f07428",
+    "offset": 10833,
+    "text": "10. No hedge-hog takes in the *Times*."
+  },
+  {
+    "id": "p-707572",
+    "offset": 10873,
+    "text": "11. This dish is unwholesome."
+  },
+  {
+    "id": "p-8e0bf4",
+    "offset": 10904,
+    "text": "12. My gardener is very old."
+  },
+  {
+    "id": "p-b07b05",
+    "offset": 10934,
+    "text": "13. All humming-birds are small."
+  },
+  {
+    "id": "p-6781c8",
+    "offset": 10968,
+    "text": "14. No one with a hooked nose ever fails to make money."
+  },
+  {
+    "id": "p-bd4557",
+    "offset": 11025,
+    "text": "15. No gray ducks in this village wear lace collars."
+  },
+  {
+    "id": "p-7b7a73",
+    "offset": 11079,
+    "text": "16. No jug in this cupboard will hold water."
+  },
+  {
+    "id": "p-82e245",
+    "offset": 11125,
+    "text": "17. These apples were grown in the sun."
+  },
+  {
+    "id": "p-8477b8",
+    "offset": 11166,
+    "text": "18. Puppies, that will not lie still, never care to do worsted work."
+  },
+  {
+    "id": "p-c503a2",
+    "offset": 11236,
+    "text": "19. No name in this list is unmelodious."
+  },
+  {
+    "id": "p-13ba8a",
+    "offset": 11278,
+    "text": "20. No M.P. should ride in a donkey-race, unless he has perfect self-command."
+  },
+  {
+    "id": "p-74e02b",
+    "offset": 11357,
+    "text": "21. No goods in this shop, that are still on sale, may be carried away. pg133 22. No acrobatic feat, which involves turning a quadruple somersault, is ever attempted in a circus."
+  },
+  {
+    "id": "p-230e2e",
+    "offset": 11537,
+    "text": "23. Guinea-pigs never really appreciate Beethoven."
+  },
+  {
+    "id": "p-e67737",
+    "offset": 11589,
+    "text": "24. No scentless flowers please me."
+  },
+  {
+    "id": "p-617ec4",
+    "offset": 11626,
+    "text": "25. Showy talkers are not really well-informed."
+  },
+  {
+    "id": "p-c210b2",
+    "offset": 11675,
+    "text": "26. None but red-haired boys learn Greek in this school."
+  },
+  {
+    "id": "p-deb465",
+    "offset": 11733,
+    "text": "27. Wedding-cake always disagrees with me."
+  },
+  {
+    "id": "p-3b9ab5",
+    "offset": 11777,
+    "text": "28. Discussions, that go on while Tomkins is in the chair, endanger the peacefulness of our Debating-Club."
+  },
+  {
+    "id": "p-b807a1",
+    "offset": 11885,
+    "text": "29. All gluttons, who are children of mine, are unhealthy."
+  },
+  {
+    "id": "p-348be1",
+    "offset": 11945,
+    "text": "30. An egg of the Great Auk is not to be had for a song."
+  },
+  {
+    "id": "p-3b9837",
+    "offset": 12003,
+    "text": "31. No books sold here have gilt edges, unless they are priced at 5s. and upwards."
+  },
+  {
+    "id": "p-f0a8e0",
+    "offset": 12087,
+    "text": "32. When you cut your finger, you will find Tincture of Calendula useful."
+  },
+  {
+    "id": "p-003614",
+    "offset": 12162,
+    "text": "33. *I* have never come across a mermaid at sea."
+  },
+  {
+    "id": "p-da3dec",
+    "offset": 12212,
+    "text": "34. All the romances in this library are well-written."
+  },
+  {
+    "id": "p-e1b8ec",
+    "offset": 12268,
+    "text": "35. No bird in this aviary lives on mince-pies."
+  },
+  {
+    "id": "p-d83336",
+    "offset": 12317,
+    "text": "36. No plum-pudding, that has not been boiled in a cloth, can be distinguished from soup."
+  },
+  {
+    "id": "p-ee66f7",
+    "offset": 12408,
+    "text": "37. All *your* poems are uninteresting."
+  },
+  {
+    "id": "p-84b655",
+    "offset": 12449,
+    "text": "38. None of my peaches have been grown in a hot-house."
+  },
+  {
+    "id": "p-044945",
+    "offset": 12505,
+    "text": "39. No pawnbroker is dishonest."
+  },
+  {
+    "id": "p-8550ec",
+    "offset": 12538,
+    "text": "40. No kitten with green eyes will play with a gorilla."
+  },
+  {
+    "id": "p-0e05c3",
+    "offset": 12595,
+    "text": "41. All *my* friends dine at the lower table."
+  },
+  {
+    "id": "p-b1d0d7",
+    "offset": 12642,
+    "text": "42. My writing-desk is full of live scorpions."
+  },
+  {
+    "id": "p-040518",
+    "offset": 12690,
+    "text": "43. No Mandarin ever reads Hogg's poems."
+  },
+  {
+    "id": "p-d272cb",
+    "offset": 12732,
+    "text": "44. Shakespeare was clever."
+  },
+  {
+    "id": "p-383245",
+    "offset": 12761,
+    "text": "45. Rainbows are not worth writing odes to."
+  },
+  {
+    "id": "p-792bfe",
+    "offset": 12806,
+    "text": "46. These Sorites-examples are difficult."
+  },
+  {
+    "id": "p-021861",
+    "offset": 12849,
+    "text": "47. All my dreams come true."
+  },
+  {
+    "id": "p-94b4b1",
+    "offset": 12879,
+    "text": "48. All the English pictures here are painted in oils."
+  },
+  {
+    "id": "p-1fa9be",
+    "offset": 12935,
+    "text": "49. Donkeys are not easy to swallow."
+  },
+  {
+    "id": "p-1e9817",
+    "offset": 12973,
+    "text": "50. Opium-eaters never wear white kid gloves."
+  },
+  {
+    "id": "p-e3fc74",
+    "offset": 13020,
+    "text": "51. A good husband always comes home for his tea."
+  },
+  {
+    "id": "p-4c7096",
+    "offset": 13071,
+    "text": "52. Bathing-machines are never made of mother-of-pearl."
+  },
+  {
+    "id": "p-062a49",
+    "offset": 13128,
+    "text": "53. Rainy days are always cloudy."
+  },
+  {
+    "id": "p-d5d13e",
+    "offset": 13163,
+    "text": "54. No heavy fish is unkind to children."
+  },
+  {
+    "id": "p-04c789",
+    "offset": 13205,
+    "text": "55. No engine-driver lives on barley-sugar."
+  },
+  {
+    "id": "p-1dfc9d",
+    "offset": 13250,
+    "text": "56. All the animals in the yard gnaw bones."
+  },
+  {
+    "id": "p-cc62e1",
+    "offset": 13295,
+    "text": "57. No badger can guess a conundrum."
+  },
+  {
+    "id": "p-e2ccaa",
+    "offset": 13333,
+    "text": "58. No cheque of yours, received by me, is payable to order."
+  },
+  {
+    "id": "p-255829",
+    "offset": 13395,
+    "text": "59. I cannot read any of Brown's letters."
+  },
+  {
+    "id": "p-c797f2",
+    "offset": 13438,
+    "text": "60. I always avoid a kangaroo."
+  }
+]

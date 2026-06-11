@@ -1,0 +1,26 @@
+{
+  "work_slug": "niccolo-machiavelli-the-prince-13b8a5",
+  "work_title": "The Prince",
+  "chapter_number": 18,
+  "chapter_title": "Chapter XVIII — [1]",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "05bb1b55-72f5-5bda-8699-ad97526b9b2d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1269,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1232"
+    }
+  ]
+}

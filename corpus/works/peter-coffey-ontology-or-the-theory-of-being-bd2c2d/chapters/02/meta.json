@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
+  "work_title": "Ontology, or the Theory of Being",
+  "chapter_number": 2,
+  "chapter_title": "Chapter II — BECOMING AND ITS IMPLICATIONS",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f11f2efa-6b55-5f1e-b9dd-136d9bedfc0d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9218,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/35722"
+    }
+  ]
+}

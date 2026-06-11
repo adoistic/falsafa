@@ -1,0 +1,207 @@
+[
+  {
+    "id": "p-d0f0be",
+    "offset": 0,
+    "text": "_Of the Determination of the Moods that are valid in the Four Figures._"
+  },
+  {
+    "id": "p-ce82e1",
+    "offset": 73,
+    "text": "§ 621. By applying the special rules just given we shall be able to determine how many of the eleven legitimate moods are valid in the four figures."
+  },
+  {
+    "id": "p-f05f84",
+    "offset": 223,
+    "text": "$622. These eleven legitimate moods were found to be"
+  },
+  {
+    "id": "p-70766a",
+    "offset": 277,
+    "text": "AAA. AAI. AEE. AEO. AII. AOO. EAE. EAO. EIO. IAI. OAO."
+  },
+  {
+    "id": "p-8ec9a0",
+    "offset": 333,
+    "text": "FIGURE 1."
+  },
+  {
+    "id": "p-9d6750",
+    "offset": 344,
+    "text": "§ 623. The rule that the major premiss must be universal excludes the last two moods, IAI, OAO. The rule that the minor premiss must be affirmative excludes three more, namely, AEE, AEO, AOO."
+  },
+  {
+    "id": "p-d52bee",
+    "offset": 537,
+    "text": "Thus we are left with six moods which are valid in the first figure, namely,"
+  },
+  {
+    "id": "p-39c086",
+    "offset": 615,
+    "text": "AAA. EAE. AII. EIO. AAI. EAO."
+  },
+  {
+    "id": "p-abcb76",
+    "offset": 646,
+    "text": "FIGURE II."
+  },
+  {
+    "id": "p-31d063",
+    "offset": 658,
+    "text": "§ 624. The rule that one premiss must be negative excludes four moods, namely, AAA, AAI, AII, IAI. The rule that the major must be universal excludes OAO. Thus we are left with six moods which are valid in the second figure, namely,"
+  },
+  {
+    "id": "p-255d80",
+    "offset": 892,
+    "text": "EAE. AEE. EIO. AOO. EAO. AEO."
+  },
+  {
+    "id": "p-573beb",
+    "offset": 923,
+    "text": "FIGURE III."
+  },
+  {
+    "id": "p-36f023",
+    "offset": 936,
+    "text": "§ 625. The rule that the conclusion must be particular confines us to eight moods, two of which, namely AEE and AOO, are excluded by the rule that the minor premiss must be affirmative."
+  },
+  {
+    "id": "p-d1e8fa",
+    "offset": 1123,
+    "text": "Thus we are left with six moods which are valid in the third figure, namely,"
+  },
+  {
+    "id": "p-dd86fa",
+    "offset": 1201,
+    "text": "AAI. IAI. AII. EAO. OAO. EIO."
+  },
+  {
+    "id": "p-29ce7b",
+    "offset": 1232,
+    "text": "FIGURE IV."
+  },
+  {
+    "id": "p-5f2912",
+    "offset": 1244,
+    "text": "§ 626. The first of the eleven moods, AAA, is excluded by the rule that the conclusion cannot be a universal affirmative."
+  },
+  {
+    "id": "p-6005f2",
+    "offset": 1367,
+    "text": "Two more moods, namely AOO and OAO, are excluded by the rule that neither of the premisses can be a particular negative."
+  },
+  {
+    "id": "p-bd4428",
+    "offset": 1489,
+    "text": "AII violates the rule that when the major premiss is affirmative, the minor must be universal."
+  },
+  {
+    "id": "p-391c2d",
+    "offset": 1585,
+    "text": "EAE violates the rule that, when the minor premiss is affirmative, the conclusion must be particular. Thus we are left with six moods which are valid in the fourth figure, namely,"
+  },
+  {
+    "id": "p-ae6bac",
+    "offset": 1766,
+    "text": "AAI. AEE. IAI. EAO. EIO. AEO."
+  },
+  {
+    "id": "p-f7841f",
+    "offset": 1797,
+    "text": "§ 627. Thus the 256 possible forms of syllogism have been reduced to two dozen legitimate combinations of mood and figure, six moods being valid in each of the four figures."
+  },
+  {
+    "id": "p-23a0f2",
+    "offset": 1972,
+    "text": "FIGURE I. AAA. EAE. AII. EIO. (AAI. EAO.)"
+  },
+  {
+    "id": "p-d2541d",
+    "offset": 2015,
+    "text": "FIGURE II. EAE. AEE. EIO. AGO. (EAO. AEO.)"
+  },
+  {
+    "id": "p-1c318a",
+    "offset": 2059,
+    "text": "FIGURE III. AAI. IAI. AII. EAO. OAO. EIO."
+  },
+  {
+    "id": "p-17818e",
+    "offset": 2102,
+    "text": "FIGURE IV. AAI. AEE. IAI. EAO. EIO. (AEO.)"
+  },
+  {
+    "id": "p-b05268",
+    "offset": 2146,
+    "text": "§ 628. The five moods enclosed in brackets, though valid, are useless. For the conclusion drawn is less than is warranted by the premisses. These are called Subaltern Moods, because their conclusions might be inferred by subalternation from the universal conclusions which can justly be drawn from the same premisses. Thus AAI is subaltern to AAA, EAO to EAE, and so on with the rest."
+  },
+  {
+    "id": "p-0e3151",
+    "offset": 2532,
+    "text": "§ 629. The remaining 19 combinations of mood and figure, which are loosely called 'moods,' though in strictness they should be called 'figured moods,' are generally spoken of under the names supplied by the following mnemonics--"
+  },
+  {
+    "id": "p-1f352b",
+    "offset": 2762,
+    "text": "Barbara, Celarent, Darii, Ferioque prioris; Cesare, Camestres, Festino, Baroko secundæ; Tertia Darapti, Disamis, Datisi, Felapton, Bokardo, Ferison habet; Quarta insuper addit Bramantip, Camenes, Dimaris, Fesapo, Fresison: Quinque Subalterni, totidem Generalibus orti, Nomen habent nullum, nee, si bene colligis, usum."
+  },
+  {
+    "id": "p-293e4b",
+    "offset": 3082,
+    "text": "§ 630. The vowels in these lines indicate the letters of the mood. All the special rules of the four figures can be gathered from an inspection of them. The following points should be specially noted."
+  },
+  {
+    "id": "p-2d0d01",
+    "offset": 3284,
+    "text": "The first figure proves any kind of conclusion, and is the only one which can prove A."
+  },
+  {
+    "id": "p-2fec41",
+    "offset": 3372,
+    "text": "The second figure proves only negatives."
+  },
+  {
+    "id": "p-c173bb",
+    "offset": 3414,
+    "text": "The third figure proves only particulars."
+  },
+  {
+    "id": "p-53eed5",
+    "offset": 3457,
+    "text": "The fourth figure proves any conclusion except A."
+  },
+  {
+    "id": "p-0b672b",
+    "offset": 3508,
+    "text": "§ 631. The first figure is called the Perfect, and the rest the Imperfect figures. The claim of the first to be regarded as the perfect figure may be rested on these grounds--"
+  },
+  {
+    "id": "p-ced5cf",
+    "offset": 3685,
+    "text": "1. It alone conforms directly to the Dictum de Omni et Nullo."
+  },
+  {
+    "id": "p-8f8a61",
+    "offset": 3748,
+    "text": "2. It suffices to prove every kind of conclusion, and is the only figure in which a universal affirmative proposition can be established."
+  },
+  {
+    "id": "p-8d1413",
+    "offset": 3887,
+    "text": "3. It is only in a mood of this figure that the major, middle and minor terms are to be found standing in their relative order of extension."
+  },
+  {
+    "id": "p-e65024",
+    "offset": 4029,
+    "text": "§ 632. The reason why a universal affirmative, which is of course infinitely the most important form of proposition, can only be proved in the first figure may be seen as follows."
+  },
+  {
+    "id": "p-a1622c",
+    "offset": 4210,
+    "text": "*Proof that A can only be established in figure I.*"
+  },
+  {
+    "id": "p-c34fc5",
+    "offset": 4263,
+    "text": "An A conclusion necessitates both premisses being A propositions (by Rule 7). But the minor term is distributed in the conclusion, as being the subject of an A proposition, and must therefore be distributed in the minor premiss, in order to which it must be the subject. Therefore the middle term must be the predicate and is consequently undistributed. In order therefore that the middle term may be distributed, it must be subject in the major premiss, since that also is an A proposition. But when the middle term is subject in the major and predicate in the minor premiss, we have what is called the first figure."
+  }
+]

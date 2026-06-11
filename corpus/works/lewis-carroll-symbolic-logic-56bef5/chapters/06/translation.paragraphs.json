@@ -1,0 +1,137 @@
+[
+  {
+    "id": "p-37ec94",
+    "offset": 0,
+    "text": "_INTERPRETATION, IN TERMS OF x AND y, OF TRILITERAL DIAGRAM, WHEN MARKED WITH COUNTERS OR DIGITS._"
+  },
+  {
+    "id": "p-b5212b",
+    "offset": 100,
+    "text": "The problem before us is, given a marked Triliteral Diagram, to ascertain *what* Propositions of Relation, in terms of x and y, are represented on it."
+  },
+  {
+    "id": "p-c925d6",
+    "offset": 252,
+    "text": "The best plan, for a *beginner*, is to draw a *Biliteral* Diagram alongside of it, and to transfer, from the one to the other, all the information he can. He can then read off, from the Biliteral Diagram, the required Propositions. After a little practice, he will be able to dispense with the Biliteral Diagram, and to read off the result from the Triliteral Diagram itself."
+  },
+  {
+    "id": "p-88d189",
+    "offset": 629,
+    "text": "To *transfer* the information, observe the following Rules:--"
+  },
+  {
+    "id": "p-548b45",
+    "offset": 692,
+    "text": "(1) Examine the N.W. Quarter of the Triliteral Diagram."
+  },
+  {
+    "id": "p-051529",
+    "offset": 749,
+    "text": "(2) If it contains a \"I\", in *either* Cell, it is certainly *occupied*, and you may mark the N.W. Quarter of the Biliteral Diagram with a \"I\"."
+  },
+  {
+    "id": "p-0ade34",
+    "offset": 893,
+    "text": "(3) If it contains *two* \"O\"s, one in *each* Cell, it is certainly *empty*, and you may mark the N.W. Quarter of the Biliteral Diagram with a \"O\". pg054 (4) Deal in the same way with the N.E., the S.W., and the S.E. Quarter."
+  },
+  {
+    "id": "p-92d683",
+    "offset": 1119,
+    "text": "[Let us take, as examples, the results of the four Examples worked in the previous Chapters."
+  },
+  {
+    "id": "p-d7e986",
+    "offset": 1213,
+    "text": "In the N.W. Quarter, only *one* of the two Cells is marked as *empty*: so we do not know whether the N.W. Quarter of the Biliteral Diagram is *occupied* or *empty*: so we cannot mark it."
+  },
+  {
+    "id": "p-b634a8",
+    "offset": 1401,
+    "text": "In the N.E. Quarter, we find *two* \"O\"s: so *this* Quarter is certainly *empty*; and we mark it so on the Biliteral Diagram."
+  },
+  {
+    "id": "p-65086e",
+    "offset": 1527,
+    "text": "In the S.W. Quarter, we have no information *at all*."
+  },
+  {
+    "id": "p-c8c6c0",
+    "offset": 1582,
+    "text": "In the S.E. Quarter, we have not enough to use."
+  },
+  {
+    "id": "p-296826",
+    "offset": 1631,
+    "text": "We may read off the result as \"No x are y'\", or \"No y' are x,\" whichever we prefer."
+  },
+  {
+    "id": "p-51ae37",
+    "offset": 1716,
+    "text": "In the N.W. Quarter, we have not enough information to use."
+  },
+  {
+    "id": "p-b0bd59",
+    "offset": 1777,
+    "text": "In the N.E. Quarter, we find a \"I\". This shows us that it is *occupied*: so we may mark the N.E. Quarter on the Biliteral Diagram with a \"I\"."
+  },
+  {
+    "id": "p-a3eea8",
+    "offset": 1920,
+    "text": "In the S.W. Quarter, we have not enough information to use."
+  },
+  {
+    "id": "p-711a8f",
+    "offset": 1981,
+    "text": "In the S.E. Quarter, we have none at all."
+  },
+  {
+    "id": "p-2a6491",
+    "offset": 2024,
+    "text": "In the N.W. Quarter, we have *no* information. (The \"I\", sitting on the fence, is of no use to us until we know on *which* side he means to jump down!)"
+  },
+  {
+    "id": "p-966399",
+    "offset": 2177,
+    "text": "In the N.E. Quarter, we have not enough information to use."
+  },
+  {
+    "id": "p-d18035",
+    "offset": 2238,
+    "text": "Neither have we in the S.W. Quarter."
+  },
+  {
+    "id": "p-1097bb",
+    "offset": 2276,
+    "text": "The S.E. Quarter is the only one that yields enough information to use. It is certainly *empty*: so we mark it as such on the Biliteral Diagram."
+  },
+  {
+    "id": "p-7d9d5f",
+    "offset": 2422,
+    "text": "We may read off the results as \"No x' are y'\", or \"No y' are x'\", whichever we prefer."
+  },
+  {
+    "id": "p-6ac059",
+    "offset": 2510,
+    "text": "The N.W. Quarter is *occupied*, in spite of the \"O\" in the Outer Cell. So we mark it with a \"I\" on the Biliteral Diagram."
+  },
+  {
+    "id": "p-2f675d",
+    "offset": 2633,
+    "text": "The N.E. Quarter yields no information."
+  },
+  {
+    "id": "p-40074d",
+    "offset": 2674,
+    "text": "The S.W. Quarter is certainly *empty*. So we mark it as such on the Biliteral Diagram."
+  },
+  {
+    "id": "p-4c6dea",
+    "offset": 2762,
+    "text": "The S.E. Quarter does not yield enough information to use."
+  },
+  {
+    "id": "p-7eef21",
+    "offset": 2822,
+    "text": "We read off the result as \"All y are x.\"]"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "work_slug": "surendranath-dasgupta-a-history-of-indian-philosophy-v-f7aab9",
+  "work_title": "A History of Indian Philosophy, Volume 1",
+  "chapter_number": 4,
+  "chapter_title": "Chapter IV",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a69cb8be-0640-5fa2-baad-648286944e62",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6203,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/12956"
+    }
+  ]
+}

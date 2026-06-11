@@ -1,0 +1,26 @@
+{
+  "work_slug": "hastings-rashdall-philosophy-and-religion-six-lect-6529d8",
+  "work_title": "Philosophy and Religion: Six Lectures Delivered at Cambridge",
+  "chapter_number": 1,
+  "chapter_title": "Lecture I",
+  "chapter_slug": "01-lecture-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6928b6d-d4fa-5624-9c6b-8c62aebbcc52",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6665,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/21995"
+    }
+  ]
+}

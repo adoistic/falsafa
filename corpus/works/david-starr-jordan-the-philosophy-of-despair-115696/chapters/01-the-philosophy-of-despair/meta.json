@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-starr-jordan-the-philosophy-of-despair-115696",
+  "work_title": "The Philosophy of Despair",
+  "chapter_number": 1,
+  "chapter_title": "The Philosophy of Despair",
+  "chapter_slug": "01-the-philosophy-of-despair",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e2824484-1727-5881-8f17-2f41da98edb2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6860,
+      "paragraph_count": 106,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4754"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-marshall-a-short-history-of-greek-philoso-70c117",
+  "work_title": "A Short History of Greek Philosophy",
+  "chapter_number": 19,
+  "chapter_title": "Chapter XX",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74c2f0e7-30d0-5489-9a2f-71f466b99484",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2424,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/20500"
+    }
+  ]
+}

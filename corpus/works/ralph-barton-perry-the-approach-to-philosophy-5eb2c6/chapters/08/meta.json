@@ -1,0 +1,26 @@
+{
+  "work_slug": "ralph-barton-perry-the-approach-to-philosophy-5eb2c6",
+  "work_title": "The Approach to Philosophy",
+  "chapter_number": 8,
+  "chapter_title": "Chapter XII",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e68c2c94-789e-5efc-bb8e-d1b52e758ef8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7780,
+      "paragraph_count": 97,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/25110"
+    }
+  ]
+}

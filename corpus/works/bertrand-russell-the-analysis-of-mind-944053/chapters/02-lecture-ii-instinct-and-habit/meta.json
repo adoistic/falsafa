@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-the-analysis-of-mind-944053",
+  "work_title": "The Analysis of Mind",
+  "chapter_number": 2,
+  "chapter_title": "Lecture II — INSTINCT AND HABIT",
+  "chapter_slug": "02-lecture-ii-instinct-and-habit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c077734a-774b-517a-a0ab-b2284755b8fd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10315,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/2529"
+    }
+  ]
+}

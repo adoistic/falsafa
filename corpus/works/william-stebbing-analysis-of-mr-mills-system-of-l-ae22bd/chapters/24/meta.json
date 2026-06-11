@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stebbing-analysis-of-mr-mills-system-of-l-ae22bd",
+  "work_title": "Analysis of Mr. Mill's System of Logic",
+  "chapter_number": 24,
+  "chapter_title": "Chapter VII",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b55585c2-69e9-5e27-a92e-cb8b81337f57",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 271,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/30866"
+    }
+  ]
+}

@@ -1,0 +1,697 @@
+[
+  {
+    "id": "p-3bc2a4",
+    "offset": 0,
+    "text": "SYLLOGISMS."
+  },
+  {
+    "id": "p-4434d4",
+    "offset": 13,
+    "text": "CHAPTER I."
+  },
+  {
+    "id": "p-e64498",
+    "offset": 25,
+    "text": "*INTRODUCTORY*"
+  },
+  {
+    "id": "p-28392c",
+    "offset": 41,
+    "text": "When a Trio of Biliteral Propositions of Relation is such that"
+  },
+  {
+    "id": "p-e6cfe2",
+    "offset": 105,
+    "text": "(1) all their six Terms are Species of the same Genus,"
+  },
+  {
+    "id": "p-9f9600",
+    "offset": 161,
+    "text": "(2) every two of them contain between them a Pair of codivisional Classes,"
+  },
+  {
+    "id": "p-1e1524",
+    "offset": 237,
+    "text": "(3) the three Propositions are so related that, if the first two were true, the third would be true,"
+  },
+  {
+    "id": "p-e6b13d",
+    "offset": 339,
+    "text": "the Trio is called a '=Syllogism='; the Genus, of which each of the six Terms is a Species, is called its ='Universe of Discourse=', or, more briefly, its '=Univ.='; the first two Propositions are called its '=Premisses=', and the third its '=Conclusion='; also the Pair of codivisional Terms in the Premisses are called its '=Eliminands=', and the other two its '=Retinends='."
+  },
+  {
+    "id": "p-2d8258",
+    "offset": 718,
+    "text": "The Conclusion of a Syllogism is said to be '=consequent=' from its Premisses: hence it is usual to prefix to it the word \"Therefore\" (or the Symbol \".'.\"). pg057 [Note that the 'Eliminands' are so called because they are *eliminated*, and do not appear in the Conclusion; and that the 'Retinends' are so called because they are *retained*, and *do* appear in the Conclusion."
+  },
+  {
+    "id": "p-b3d0eb",
+    "offset": 1095,
+    "text": "Note also that the question, whether the Conclusion is or is not *consequent* from the Premisses, is not affected by the *actual* truth or falsity of any of the Trio, but depends entirely on their *relationship to each other*."
+  },
+  {
+    "id": "p-c204a4",
+    "offset": 1323,
+    "text": "As a specimen-Syllogism, let us take the Trio"
+  },
+  {
+    "id": "p-67ebe0",
+    "offset": 1370,
+    "text": "\"No x-Things are m-Things; No y-Things are m'-Things. No x-Things are y-Things.\""
+  },
+  {
+    "id": "p-34f2a4",
+    "offset": 1452,
+    "text": "which we may write, as explained at p. 26, thus:--"
+  },
+  {
+    "id": "p-f64d16",
+    "offset": 1504,
+    "text": "\"No x are m; No y are m'. No x are y\"."
+  },
+  {
+    "id": "p-988c7c",
+    "offset": 1544,
+    "text": "Here the first and second contain the Pair of codivisional Classes m and m'; the first and third contain the Pair x and x; and the second and third contain the Pair y and y."
+  },
+  {
+    "id": "p-c65c84",
+    "offset": 1719,
+    "text": "Also the three Propositions are (as we shall see hereafter) so related that, if the first two were true, the third would also be true."
+  },
+  {
+    "id": "p-c80565",
+    "offset": 1855,
+    "text": "Hence the Trio is a *Syllogism*; the two Propositions, \"No x are m\" and \"No y are m'\", are its *Premisses*; the Proposition \"No x are y\" is its *Conclusion*; the Terms m and m' are its *Eliminands*; and the Terms x and y are its *Retinends*."
+  },
+  {
+    "id": "p-b96524",
+    "offset": 2098,
+    "text": "Hence we may write it thus:--"
+  },
+  {
+    "id": "p-9837b5",
+    "offset": 2129,
+    "text": "As a second specimen, let us take the Trio"
+  },
+  {
+    "id": "p-858048",
+    "offset": 2173,
+    "text": "\"All cats understand French; Some chickens are cats. Some chickens understand French\"."
+  },
+  {
+    "id": "p-1535e6",
+    "offset": 2261,
+    "text": "These, put into normal form, are"
+  },
+  {
+    "id": "p-895678",
+    "offset": 2295,
+    "text": "\"All cats are creatures understanding French; Some chickens are cats. Some chickens are creatures understanding French\"."
+  },
+  {
+    "id": "p-750aba",
+    "offset": 2417,
+    "text": "Here all the six Terms are Species of the Genus \"creatures.\""
+  },
+  {
+    "id": "p-93dcad",
+    "offset": 2479,
+    "text": "Also the first and second Propositions contain the Pair of codivisional Classes \"cats\" and \"cats\"; the first and third contain the Pair \"creatures understanding French\" and \"creatures understanding French\"; and the second and third contain the Pair \"chickens\" and \"chickens\". pg058 Also the three Propositions are (as we shall see at p. 64) so related that, if the first two were true, the third would be true. (The first two are, as it happens, *not* strictly true in *our* planet. But there is nothing to hinder them from being true in some *other* planet, say *Mars* or *Jupiter*--in which case the third would *also* be true in that planet, and its inhabitants would probably engage chickens as nursery-governesses. They would thus secure a singular *contingent* privilege, unknown in England, namely, that they would be able, at any time when provisions ran short, to utilise the nursery-governess for the nursery-dinner!)"
+  },
+  {
+    "id": "p-df76ce",
+    "offset": 3408,
+    "text": "Hence the Trio is a *Syllogism*; the Genus \"creatures\" is its 'Univ.'; the two Propositions, \"All cats understand French\" and \"Some chickens are cats\", are its *Premisses*, the Proposition \"Some chickens understand French\" is its *Conclusion*; the Terms \"cats\" and \"cats\" are its *Eliminands*; and the Terms, \"creatures understanding French\" and \"chickens\", are its *Retinends*."
+  },
+  {
+    "id": "p-b96524",
+    "offset": 3788,
+    "text": "Hence we may write it thus:--"
+  },
+  {
+    "id": "p-9313e8",
+    "offset": 3819,
+    "text": "\"All cats understand French; Some chickens are cats; .'. Some chickens understand French\".]"
+  },
+  {
+    "id": "p-333fc7",
+    "offset": 3912,
+    "text": "CHAPTER II."
+  },
+  {
+    "id": "p-e90bfc",
+    "offset": 3925,
+    "text": "*PROBLEMS IN SYLLOGISMS.*"
+  },
+  {
+    "id": "p-ae0d41",
+    "offset": 3952,
+    "text": "*Introductory.*"
+  },
+  {
+    "id": "p-76ba75",
+    "offset": 3969,
+    "text": "When the Terms of a Proposition are represented by *words*, it is said to be '=concrete='; when by *letters*, '=abstract=.'"
+  },
+  {
+    "id": "p-029ce4",
+    "offset": 4094,
+    "text": "To translate a Proposition from concrete into abstract form, we fix on a Univ., and regard each Term as a *Species* of it, and we choose a letter to represent its *Differentia*."
+  },
+  {
+    "id": "p-244f84",
+    "offset": 4273,
+    "text": "[For example, suppose we wish to translate \"Some soldiers are brave\" into abstract form. We may take \"men\" as Univ., and regard \"soldiers\" and \"brave men\" as *Species* of the *Genus* \"men\"; and we may choose x to represent the peculiar Attribute (say \"military\") of \"soldiers,\" and y to represent \"brave.\" Then the Proposition may be written \"Some military men are brave men\"; *i.e.* \"Some x-men are y-men\"; *i.e.* (omitting \"men,\" as explained at p. 26) \"Some x are y.\""
+  },
+  {
+    "id": "p-72e43d",
+    "offset": 4745,
+    "text": "In practice, we should merely say \"Let Univ. be \"men\", x = soldiers, y = brave\", and at once translate \"Some soldiers are brave\" into \"Some x are y.\"]"
+  },
+  {
+    "id": "p-a40ac5",
+    "offset": 4897,
+    "text": "The Problems we shall have to solve are of two kinds, viz."
+  },
+  {
+    "id": "p-3686b3",
+    "offset": 4957,
+    "text": "(1) \"Given a Pair of Propositions of Relation, which contain between them a pair of codivisional Classes, and which are proposed as Premisses: to ascertain what Conclusion, if any, is consequent from them.\""
+  },
+  {
+    "id": "p-5eda0e",
+    "offset": 5165,
+    "text": "(2) \"Given a Trio of Propositions of Relation, of which every two contain a pair of codivisional Classes, and which are proposed as a Syllogism: to ascertain whether the proposed Conclusion is consequent from the proposed Premisses, and, if so, whether it is *complete*.\""
+  },
+  {
+    "id": "p-8771e5",
+    "offset": 5438,
+    "text": "These Problems we will discuss separately."
+  },
+  {
+    "id": "p-c54f81",
+    "offset": 5482,
+    "text": "_Given a Pair of Propositions of Relation, which contain between them a pair of codivisional Classes, and which are proposed as Premisses: to ascertain what Conclusion, if any, is consequent from them._"
+  },
+  {
+    "id": "p-0ca89d",
+    "offset": 5686,
+    "text": "The Rules, for doing this, are as follows:--"
+  },
+  {
+    "id": "p-dc281d",
+    "offset": 5732,
+    "text": "(1) Determine the 'Universe of Discourse'."
+  },
+  {
+    "id": "p-b60a0a",
+    "offset": 5776,
+    "text": "(2) Construct a Dictionary, making m and m (or m and m') represent the pair of codivisional Classes, and x (or x') and y (or y') the other two."
+  },
+  {
+    "id": "p-b2a14f",
+    "offset": 5921,
+    "text": "(3) Translate the proposed Premisses into abstract form."
+  },
+  {
+    "id": "p-a32010",
+    "offset": 5979,
+    "text": "(4) Represent them, together, on a Triliteral Diagram."
+  },
+  {
+    "id": "p-a0277f",
+    "offset": 6035,
+    "text": "(5) Ascertain what Proposition, if any, in terms of x and y, is *also* represented on it."
+  },
+  {
+    "id": "p-f5bdb5",
+    "offset": 6126,
+    "text": "(6) Translate this into concrete form."
+  },
+  {
+    "id": "p-61bcff",
+    "offset": 6166,
+    "text": "It is evident that, if the proposed Premisses were true, this other Proposition would *also* be true. Hence it is a *Conclusion* consequent from the proposed Premisses."
+  },
+  {
+    "id": "p-9b249d",
+    "offset": 6336,
+    "text": "[Let us work some examples."
+  },
+  {
+    "id": "p-661010",
+    "offset": 6365,
+    "text": "\"No son of mine is dishonest; People always treat an honest man with respect\"."
+  },
+  {
+    "id": "p-6a9b08",
+    "offset": 6445,
+    "text": "Taking \"men\" as Univ., we may write these as follows:--"
+  },
+  {
+    "id": "p-3ba382",
+    "offset": 6502,
+    "text": "\"No sons of mine are dishonest men; All honest men are men treated with respect\"."
+  },
+  {
+    "id": "p-825b02",
+    "offset": 6585,
+    "text": "We can now construct our Dictionary, viz. m = honest; x = sons of mine; y = treated with respect."
+  },
+  {
+    "id": "p-b5d350",
+    "offset": 6684,
+    "text": "(Note that the expression \"x = sons of mine\" is an abbreviated form of \"x = the Differentia of 'sons of mine', when regarded as a Species of 'men'\".)"
+  },
+  {
+    "id": "p-7100de",
+    "offset": 6835,
+    "text": "The next thing is to translate the proposed Premisses into abstract form, as follows:--"
+  },
+  {
+    "id": "p-fbff11",
+    "offset": 6924,
+    "text": "\"No x are m'; All m are y\"."
+  },
+  {
+    "id": "p-e0980b",
+    "offset": 6953,
+    "text": "pg061 Next, by the process described at p. 50, we represent these on a Triliteral Diagram, thus:--"
+  },
+  {
+    "id": "p-7fc0e9",
+    "offset": 7053,
+    "text": "Next, by the process described at p. 53, we transfer to a Biliteral Diagram all the information we can."
+  },
+  {
+    "id": "p-49e6a5",
+    "offset": 7158,
+    "text": "The result we read as \"No x are y'\" or as \"No y' are x,\" whichever we prefer. So we refer to our Dictionary, to see which will look best; and we choose"
+  },
+  {
+    "id": "p-b5553c",
+    "offset": 7311,
+    "text": "which, translated into concrete form, is"
+  },
+  {
+    "id": "p-43b4cc",
+    "offset": 7353,
+    "text": "\"No son of mine fails to be treated with respect\"."
+  },
+  {
+    "id": "p-807b08",
+    "offset": 7405,
+    "text": "\"All cats understand French; Some chickens are cats\"."
+  },
+  {
+    "id": "p-74e7d2",
+    "offset": 7460,
+    "text": "Taking \"creatures\" as Univ., we write these as follows:--"
+  },
+  {
+    "id": "p-062542",
+    "offset": 7519,
+    "text": "\"All cats are creatures understanding French; Some chickens are cats\"."
+  },
+  {
+    "id": "p-47b25d",
+    "offset": 7591,
+    "text": "We can now construct our Dictionary, viz. m = cats; x = understanding French; y = chickens."
+  },
+  {
+    "id": "p-efe340",
+    "offset": 7684,
+    "text": "The proposed Premisses, translated into abstract form, are"
+  },
+  {
+    "id": "p-bcf489",
+    "offset": 7744,
+    "text": "\"All m are x; Some y are m\"."
+  },
+  {
+    "id": "p-dc6538",
+    "offset": 7774,
+    "text": "In order to represent these on a Triliteral Diagram, we break up the first into the two Propositions to which it is equivalent, and thus get the *three* Propositions"
+  },
+  {
+    "id": "p-53033c",
+    "offset": 7941,
+    "text": "The Rule, given at p. 50, would make us take these in the order 2, 1, 3."
+  },
+  {
+    "id": "p-f71ea7",
+    "offset": 8015,
+    "text": "This, however, would produce the result"
+  },
+  {
+    "id": "p-da9181",
+    "offset": 8056,
+    "text": "pg062 So it would be better to take them in the order 2, 3, 1. Nos. (2) and (3) give us the result here shown; and now we need not trouble about No. (1), as the Proposition \"Some m are x\" is *already* represented on the Diagram."
+  },
+  {
+    "id": "p-375ba7",
+    "offset": 8286,
+    "text": "Transferring our information to a Biliteral Diagram, we get"
+  },
+  {
+    "id": "p-9db334",
+    "offset": 8347,
+    "text": "This result we can read either as \"Some x are y\" or \"Some y are x\"."
+  },
+  {
+    "id": "p-8033c7",
+    "offset": 8416,
+    "text": "After consulting our Dictionary, we choose"
+  },
+  {
+    "id": "p-d8265f",
+    "offset": 8460,
+    "text": "\"Some y are x\","
+  },
+  {
+    "id": "p-b5553c",
+    "offset": 8477,
+    "text": "which, translated into concrete form, is"
+  },
+  {
+    "id": "p-4ac52b",
+    "offset": 8519,
+    "text": "\"Some chickens understand French.\""
+  },
+  {
+    "id": "p-0257c7",
+    "offset": 8555,
+    "text": "\"All diligent students are successful; All ignorant students are unsuccessful\"."
+  },
+  {
+    "id": "p-f3f890",
+    "offset": 8636,
+    "text": "Let Univ. be \"students\"; m = successful; x = diligent; y = ignorant."
+  },
+  {
+    "id": "p-030c55",
+    "offset": 8706,
+    "text": "These Premisses, in abstract form, are"
+  },
+  {
+    "id": "p-9057a1",
+    "offset": 8746,
+    "text": "\"All x are m; All y are m'\"."
+  },
+  {
+    "id": "p-3eb6e2",
+    "offset": 8776,
+    "text": "These, broken up, give us the four Propositions"
+  },
+  {
+    "id": "p-6a73f7",
+    "offset": 8825,
+    "text": "which we will take in the order 2, 4, 1, 3."
+  },
+  {
+    "id": "p-8a1d0a",
+    "offset": 8870,
+    "text": "Representing these on a Triliteral Diagram, we get"
+  },
+  {
+    "id": "p-9216b3",
+    "offset": 8922,
+    "text": "And this information, transferred to a Biliteral Diagram, is"
+  },
+  {
+    "id": "p-156bfa",
+    "offset": 8984,
+    "text": "Here we get *two* Conclusions, viz."
+  },
+  {
+    "id": "p-161a74",
+    "offset": 9021,
+    "text": "\"All x are y'; All y are x'.\" pg063 And these, translated into concrete form, are"
+  },
+  {
+    "id": "p-f6d4b9",
+    "offset": 9104,
+    "text": "\"All diligent students are (not-ignorant, i.e.) learned; All ignorant students are (not-diligent, i.e.) idle\". (See p. 4.)"
+  },
+  {
+    "id": "p-62cc07",
+    "offset": 9228,
+    "text": "\"Of the prisoners who were put on their trial at the last Assizes, all, against whom the verdict 'guilty' was returned, were sentenced to imprisonment; Some, who were sentenced to imprisonment, were also sentenced to hard labour\"."
+  },
+  {
+    "id": "p-04b26f",
+    "offset": 9460,
+    "text": "Let Univ. be \"the prisoners who were put on their trial at the last Assizes\"; m = who were sentenced to imprisonment; x = against whom the verdict 'guilty' was returned; y = who were sentenced to hard labour."
+  },
+  {
+    "id": "p-aee2ff",
+    "offset": 9670,
+    "text": "The Premisses, translated into abstract form, are"
+  },
+  {
+    "id": "p-4fd0c8",
+    "offset": 9721,
+    "text": "\"All x are m; Some m are y\"."
+  },
+  {
+    "id": "p-032cc2",
+    "offset": 9751,
+    "text": "Breaking up the first, we get the three"
+  },
+  {
+    "id": "p-81907e",
+    "offset": 9792,
+    "text": "Representing these, in the order 2, 1, 3, on a Triliteral Diagram, we get"
+  },
+  {
+    "id": "p-022980",
+    "offset": 9867,
+    "text": "Here we get no Conclusion at all."
+  },
+  {
+    "id": "p-a06b8c",
+    "offset": 9902,
+    "text": "You would very likely have guessed, if you had seen *only* the Premisses, that the Conclusion would be"
+  },
+  {
+    "id": "p-650adf",
+    "offset": 10006,
+    "text": "\"Some, against whom the verdict 'guilty' was returned, were sentenced to hard labour\"."
+  },
+  {
+    "id": "p-f63fc1",
+    "offset": 10094,
+    "text": "But this Conclusion is not even *true*, with regard to the Assizes I have here invented."
+  },
+  {
+    "id": "p-0cecbc",
+    "offset": 10184,
+    "text": "\"Not *true!*\" you exclaim. \"Then who *were* they, who were sentenced to imprisonment and were also sentenced to hard labour? They *must* have had the verdict 'guilty' returned against them, or how could they be sentenced?\""
+  },
+  {
+    "id": "p-9f1009",
+    "offset": 10408,
+    "text": "Well, it happened like *this*, you see. They were three ruffians, who had committed highway-robbery. When they were put on their trial, they *pleaded* 'guilty'. So no *verdict* was returned at all; and they were sentenced at once.]"
+  },
+  {
+    "id": "p-f1dfec",
+    "offset": 10641,
+    "text": "I will now work out, in their briefest form, as models for the Reader to imitate in working examples, the above four concrete Problems. pg064 (1) [see p. 60]"
+  },
+  {
+    "id": "p-622e1e",
+    "offset": 10800,
+    "text": "\"No son of mine is dishonest; People always treat an honest man with respect.\""
+  },
+  {
+    "id": "p-f1fac7",
+    "offset": 10880,
+    "text": "Univ. \"men\"; m = honest; x = my sons; y = treated with respect."
+  },
+  {
+    "id": "p-407441",
+    "offset": 10945,
+    "text": "i.e. \"No son of mine ever fails to be treated with respect.\""
+  },
+  {
+    "id": "p-807b08",
+    "offset": 11007,
+    "text": "\"All cats understand French; Some chickens are cats\"."
+  },
+  {
+    "id": "p-6068d6",
+    "offset": 11062,
+    "text": "Univ. \"creatures\"; m = cats; x = understanding French; y = chickens."
+  },
+  {
+    "id": "p-731bc7",
+    "offset": 11132,
+    "text": "i.e. \"Some chickens understand French.\""
+  },
+  {
+    "id": "p-0257c7",
+    "offset": 11173,
+    "text": "\"All diligent students are successful; All ignorant students are unsuccessful\"."
+  },
+  {
+    "id": "p-1c9312",
+    "offset": 11254,
+    "text": "Univ. \"students\"; m = successful; x = diligent; y = ignorant."
+  },
+  {
+    "id": "p-714870",
+    "offset": 11317,
+    "text": "i.e. \"All diligent students are learned; and all ignorant students are idle\". pg065 (4) [see p. 63]"
+  },
+  {
+    "id": "p-cec8f9",
+    "offset": 11418,
+    "text": "\"Of the prisoners who were put on their trial at the last Assizes, all, against whom the verdict 'guilty' was returned, were sentenced to imprisonment;"
+  },
+  {
+    "id": "p-1bb97d",
+    "offset": 11571,
+    "text": "Some, who were sentenced to imprisonment, were also sentenced to hard labour\"."
+  },
+  {
+    "id": "p-ee3079",
+    "offset": 11651,
+    "text": "Univ. \"prisoners who were put on their trial at the last Assizes\", m = sentenced to imprisonment; x = against whom the verdict 'guilty' was returned; y = sentenced to hard labour."
+  },
+  {
+    "id": "p-20dc03",
+    "offset": 11832,
+    "text": "_Given a Trio of Propositions of Relation, of which every two contain a Pair of codivisional Classes, and which are proposed as a Syllogism; to ascertain whether the proposed Conclusion is consequent from the proposed Premisses, and, if so, whether it is complete._"
+  },
+  {
+    "id": "p-0ca89d",
+    "offset": 12099,
+    "text": "The Rules, for doing this, are as follows:--"
+  },
+  {
+    "id": "p-bc0386",
+    "offset": 12145,
+    "text": "(1) Take the proposed Premisses, and ascertain, by the process described at p. 60, what Conclusion, if any, is consequent from them."
+  },
+  {
+    "id": "p-11b779",
+    "offset": 12279,
+    "text": "(2) If there be *no* Conclusion, say so."
+  },
+  {
+    "id": "p-3307c7",
+    "offset": 12321,
+    "text": "(3) If there *be* a Conclusion, compare it with the proposed Conclusion, and pronounce accordingly."
+  },
+  {
+    "id": "p-fb0c4e",
+    "offset": 12422,
+    "text": "I will now work out, in their briefest form, as models for the Reader to imitate in working examples, six Problems."
+  },
+  {
+    "id": "p-1aeca7",
+    "offset": 12539,
+    "text": "\"All soldiers are strong; All soldiers are brave. Some strong men are brave.\""
+  },
+  {
+    "id": "p-83a00b",
+    "offset": 12618,
+    "text": "Hence proposed Conclusion is right."
+  },
+  {
+    "id": "p-0b9711",
+    "offset": 12655,
+    "text": "\"I admire these pictures; When I admire anything I wish to examine it thoroughly. I wish to examine some of these pictures thoroughly.\""
+  },
+  {
+    "id": "p-aafd5a",
+    "offset": 12792,
+    "text": "Univ. \"things\"; m = admired by me; x = these pictures; y = things which I wish to examine thoroughly."
+  },
+  {
+    "id": "p-05be66",
+    "offset": 12895,
+    "text": "Hence proposed Conclusion is *incomplete*, the *complete* one being \"I wish to examine *all* these pictures thoroughly\"."
+  },
+  {
+    "id": "p-256860",
+    "offset": 13017,
+    "text": "\"None but the brave deserve the fair; Some braggarts are cowards. Some braggarts do not deserve the fair.\""
+  },
+  {
+    "id": "p-e41e2e",
+    "offset": 13125,
+    "text": "Univ. \"persons\"; m = brave; x = deserving of the fair; y = braggarts."
+  },
+  {
+    "id": "p-644d7d",
+    "offset": 13196,
+    "text": "Hence proposed Conclusion is right. pg068 (4)"
+  },
+  {
+    "id": "p-1de211",
+    "offset": 13243,
+    "text": "\"All soldiers can march; Some babies are not soldiers. Some babies cannot march\"."
+  },
+  {
+    "id": "p-6ac1f9",
+    "offset": 13326,
+    "text": "Univ. \"persons\"; m = soldiers; x = able to march; y = babies."
+  },
+  {
+    "id": "p-de98b9",
+    "offset": 13389,
+    "text": "\"All selfish men are unpopular; All obliging men are popular. All obliging men are unselfish\"."
+  },
+  {
+    "id": "p-d4860f",
+    "offset": 13485,
+    "text": "Univ. \"men\"; m = popular; x = selfish; y = obliging."
+  },
+  {
+    "id": "p-da9a44",
+    "offset": 13539,
+    "text": "Hence proposed Conclusion is *incomplete*, the *complete* one containing, in addition, \"All selfish men are disobliging\"."
+  },
+  {
+    "id": "p-e0739b",
+    "offset": 13662,
+    "text": "\"No one, who means to go by the train and cannot get a conveyance, and has not enough time to walk to the station, can do without running;"
+  },
+  {
+    "id": "p-85215e",
+    "offset": 13802,
+    "text": "This party of tourists mean to go by the train and cannot get a conveyance, but they have plenty of time to walk to the station."
+  },
+  {
+    "id": "p-62e4e3",
+    "offset": 13932,
+    "text": "This party of tourists need not run.\""
+  },
+  {
+    "id": "p-de7dca",
+    "offset": 13971,
+    "text": "[Here is *another* opportunity, gentle Reader, for playing a trick on your innocent friend. Put the proposed Syllogism before him, and ask him what he thinks of the Conclusion."
+  },
+  {
+    "id": "p-4c1d6d",
+    "offset": 14149,
+    "text": "He will reply \"Why, it's perfectly correct, of course! And if your precious Logic-book tells you it *isn't*, don't believe it! You don't mean to tell me those tourists *need* to run? If *I* were one of them, and knew the *Premisses* to be true, I should be *quite* clear that I *needn't* run--and I *should walk!*\""
+  },
+  {
+    "id": "p-346cfd",
+    "offset": 14465,
+    "text": "And *you* will reply \"But suppose there was a mad bull behind you?\""
+  },
+  {
+    "id": "p-6e2978",
+    "offset": 14534,
+    "text": "And then your innocent friend will say \"Hum! Ha! I must think that over a bit!\""
+  },
+  {
+    "id": "p-fd22e8",
+    "offset": 14615,
+    "text": "You may then explain to him, as a convenient *test* of the soundness of a Syllogism, that, if circumstances can be invented which, without interfering with the truth of the *Premisses*, would make the *Conclusion* false, the Syllogism *must* be unsound.]"
+  }
+]

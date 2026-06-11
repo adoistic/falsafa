@@ -1,0 +1,26 @@
+{
+  "work_slug": "baruch-spinoza-ethics-02c22a",
+  "work_title": "Ethics",
+  "chapter_number": 1,
+  "chapter_title": "Part I — CONCERNING GOD",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23b5ef4f-9285-5b67-aa2b-8f08caa676be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13919,
+      "paragraph_count": 170,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/3800"
+    }
+  ]
+}

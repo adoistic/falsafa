@@ -1,0 +1,72 @@
+[
+  {
+    "id": "p-e1b321",
+    "offset": 0,
+    "text": "*Of the Disjunctive Syllogism*."
+  },
+  {
+    "id": "p-4cf049",
+    "offset": 33,
+    "text": "§ 760. Roughly speaking, a Disjunctive Syllogism results from the combination of a disjunctive with a simple premiss. As in the preceding form, the complex proposition is regarded as the major premiss, since it lays down a hypothesis, which is applied to fact in the minor."
+  },
+  {
+    "id": "p-b1bd1b",
+    "offset": 308,
+    "text": "§ 761. The Disjunctive Syllogism may be exactly defined as follows--"
+  },
+  {
+    "id": "p-a64187",
+    "offset": 378,
+    "text": "A complex syllogism, which has for its major premiss a disjunctive proposition, either the antecedent or consequent of which is in the minor premiss simply affirmed or denied."
+  },
+  {
+    "id": "p-2c002a",
+    "offset": 555,
+    "text": "§ 762. Thus there are four types of disjunctive syllogism possible."
+  },
+  {
+    "id": "p-ec51d5",
+    "offset": 624,
+    "text": "*Constructive Moods.*"
+  },
+  {
+    "id": "p-b27040",
+    "offset": 647,
+    "text": "Either death is annihilation or we are immortal. Death is not annihilation. .'. We are immortal."
+  },
+  {
+    "id": "p-79ae2e",
+    "offset": 745,
+    "text": "Either the water is shallow or the boys will be drowned. The boys are not drowned. .'. The water is shallow."
+  },
+  {
+    "id": "p-76f806",
+    "offset": 855,
+    "text": "*Destructive Moods*."
+  },
+  {
+    "id": "p-3ebc55",
+    "offset": 877,
+    "text": "§ 763. Of these four, however, it is only the constructive moods that are formally conclusive. The validity of the two destructive moods is contingent upon the kind of alternatives selected. If these are such as necessarily to exclude one another, the conclusion will hold, but not otherwise. They are of course mutually exclusive whenever they embody the result of a correct logical division, as 'Triangles are either equilateral, isosceles or scalene.' Here, if we affirm one of the members, we are justified in denying the rest. When the major thus contains the dividing members of a genus, it may more fitly be symbolized under the formula, 'A is either B or C.' But as this admits of being read in the shape, 'Either A is B or A is C,' we retain the wider expression which includes it. Any knowledge, however, which we may have of the fact that the alternatives selected in the major are incompatible must come to us from material sources; unless indeed we have confined ourselves to a pair of contradictory terms (A is either B or not-B). There can be nothing in the form of the expression to indicate the incompatibility of the alternatives, since the same form is employed when the alternatives are palpably compatible. When, for instance, we say, 'A successful student must be either talented or industrious,' we do not at all mean to assert the positive incompatibility of talent and industry in a successful student, but only the incompatibility of their negatives--in other words, that, if both are absent, no student can be successful. Similarly, when it is said, 'Either your play is bad or your luck is abominable,' there is nothing in the form of the expression to preclude our conceiving that both may be the case."
+  },
+  {
+    "id": "p-399b12",
+    "offset": 2610,
+    "text": "§ 764. There is no limit to the number of members in the disjunctive major. But if there are only two alternatives, the conclusion will be a simple proposition; if there are more than two, the conclusion will itself be a disjunctive. Thus--"
+  },
+  {
+    "id": "p-33f12a",
+    "offset": 2852,
+    "text": "Either A is B or C is D or E is F or G is H. E is not F. .'. Either A is B or C is D or G is H."
+  },
+  {
+    "id": "p-f68848",
+    "offset": 2949,
+    "text": "§ 765. The Canon of the Disjunctive Syllogism may be laid down as follows--"
+  },
+  {
+    "id": "p-cf7277",
+    "offset": 3026,
+    "text": "To deny one member is to affirm the rest, either simply or disjunctively; but from affirming any member nothing follows."
+  }
+]

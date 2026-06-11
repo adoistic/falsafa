@@ -1,0 +1,26 @@
+{
+  "work_slug": "ralph-barton-perry-the-approach-to-philosophy-5eb2c6",
+  "work_title": "The Approach to Philosophy",
+  "chapter_number": 6,
+  "chapter_title": "Part III",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8b128e9e-9c36-5b29-b324-ba28cf1db835",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9104,
+      "paragraph_count": 101,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/25110"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "niccolo-machiavelli-the-prince-13b8a5",
+  "work_title": "The Prince",
+  "chapter_number": 24,
+  "chapter_title": "Chapter XXIV — WHY THE PRINCES OF ITALY HAVE LOST THEIR STATES",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f8da900d-40c3-5c1f-ba7c-bc67d9a43374",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 533,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1232"
+    }
+  ]
+}

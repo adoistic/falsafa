@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-schiller-philosophical-letters-c69c0d",
+  "work_title": "Philosophical Letters",
+  "chapter_number": 1,
+  "chapter_title": "Philosophical Letters",
+  "chapter_slug": "01-philosophical-letters",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d671b9c6-69ba-5bc2-930b-205091a6ce0e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 22478,
+      "paragraph_count": 238,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6799"
+    }
+  ]
+}

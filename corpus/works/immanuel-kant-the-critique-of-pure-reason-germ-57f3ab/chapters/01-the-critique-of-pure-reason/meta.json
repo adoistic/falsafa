@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-pure-reason-germ-57f3ab",
+  "work_title": "The Critique of Pure Reason (German original)",
+  "chapter_number": 1,
+  "chapter_title": "The Critique of Pure Reason",
+  "chapter_slug": "01-the-critique-of-pure-reason",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "20dc7320-420a-569a-852e-5a1d93e8e75a",
+      "language": "German",
+      "source_language": "German",
+      "script": "latin",
+      "word_count": 184871,
+      "paragraph_count": 1344,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6343"
+    }
+  ]
+}

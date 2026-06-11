@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-locke-second-treatise-of-government-99e9e5",
+  "work_title": "Second Treatise of Government",
+  "chapter_number": 1,
+  "chapter_title": "Second Treatise of Government",
+  "chapter_slug": "01-second-treatise-of-government",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eb8ef0c1-57a6-508f-b644-f6032dac4e92",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 56386,
+      "paragraph_count": 361,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7370"
+    }
+  ]
+}

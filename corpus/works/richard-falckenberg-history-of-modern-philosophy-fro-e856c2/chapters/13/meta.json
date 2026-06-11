@@ -1,0 +1,26 @@
+{
+  "work_slug": "richard-falckenberg-history-of-modern-philosophy-fro-e856c2",
+  "work_title": "History of Modern Philosophy from Nicolas of Cusa to the Present Time",
+  "chapter_number": 13,
+  "chapter_title": "Chapter XII",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d52d0be6-2e4d-518e-9dc9-bc02c743ef8f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6548,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/11100"
+    }
+  ]
+}

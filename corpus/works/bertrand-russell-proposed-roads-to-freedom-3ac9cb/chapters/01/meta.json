@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-proposed-roads-to-freedom-3ac9cb",
+  "work_title": "Proposed Roads to Freedom",
+  "chapter_number": 1,
+  "chapter_title": "Chapter I",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b62c1ee-5e0f-59d2-8b43-19cd2b0bab6c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7170,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/690"
+    }
+  ]
+}

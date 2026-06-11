@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-burke-cfb4a4",
+  "work_title": "Burke",
+  "chapter_number": 6,
+  "chapter_title": "Chapter VI",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8b67e2f1-f025-5aab-9158-7345fa4dd310",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5306,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/12922"
+    }
+  ]
+}

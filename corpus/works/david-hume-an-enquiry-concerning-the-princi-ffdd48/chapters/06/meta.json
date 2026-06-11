@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-hume-an-enquiry-concerning-the-princi-ffdd48",
+  "work_title": "An Enquiry Concerning the Principles of Morals",
+  "chapter_number": 6,
+  "chapter_title": "Section VI — OF QUALITIES USEFUL TO OURSELVES",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "adee4092-2c3f-5f9d-b446-dcb1e581717c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4765,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4320"
+    }
+  ]
+}

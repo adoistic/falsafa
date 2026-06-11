@@ -1,0 +1,26 @@
+{
+  "work_slug": "dewitt-h-parker-the-principles-of-aesthetics-d4e238",
+  "work_title": "The Principles of Aesthetics",
+  "chapter_number": 11,
+  "chapter_title": "Chapter XI",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f26e2e69-d2a3-5b02-8034-b75d207acc6d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8542,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6366"
+    }
+  ]
+}

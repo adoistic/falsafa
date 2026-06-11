@@ -1,0 +1,35 @@
+---
+work_id: "f19467e8-7cf8-59ca-b361-fcdb746ad73a"
+work_slug: "george-everett-partridge-the-psychology-of-nations-a-cont-f19467"
+work_title: "The Psychology of Nations: A Contribution to the Philosophy of History"
+author_name: George Everett Partridge
+chapter_number: 13
+chapter_title: Chapter XII
+chapter_slug: 13
+variant_id: "92b7bd1d-5ced-5a66-901e-943c6af2e08b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1068
+source_url: "https://www.gutenberg.org/ebooks/20814"
+translator: Project Gutenberg edition
+---
+
+AESTHETIC EXPERIENCE IN EDUCATION
+
+Throughout this study we have again and again been led to consider the relations of the aesthetic experiences to the practical life. It is as the repository of deep desires and as the appreciation of values that the aesthetic may be most readily seen to be practical, but it performs other functions. As ecstatic experience it is the source of *power* in the conscious life, and it was indeed the belief in art as a means of attaining power that has given art its place in the world. The aesthetic experience is the form also in which desires are brought into relation to one another, harmonized and transformed, or transferred to new objects. So the aesthetic is the type of adaptation in the inner life.
+
+We have asserted that all life, and certainly the educational process, must have its dramatic moments, since the dramatic experience, as ecstasy of the social life, is the expression of social feeling in its highest form. The aesthetic experience is the central point of experience, so to speak, at which social ideals impinge upon and influence and mold pure nature. Art is the form in which play, representing biological forces, is carried to a higher stage, and made a factor in conscious evolution. The aesthetic experience is a practical attitude in another way. It is by our aesthetic appreciation, more than we commonly understand, that we judge life as a totality, that we estimate the fitness of its parts to belong to the whole, and that indeed we guide life when we judge it not according to principles which so often are seen to be inadequate, but when we try to bring to bear our utmost of powers of appreciation and to find ultimate values.
+
+Such a recognition of the relation of art or the aesthetic to life we see often expressed in the literature of the day. It is a sign of the times--of an effort to attain higher powers, to take more comprehensive views of life, and to gain deeper insight into it. It is a phase of the seriousness of purpose which the war has aroused in us. Dide speaks of a deep but obscure need that drives all human beings to put themselves in harmony with the universal, and says that this is the end and purpose of the aesthetic tendencies. This phase of the place of the aesthetic is seen and expressed in various ways. Some think of it as a significant change in the attitude of life which is to bring about an era of peace. Clutton-Brook, an English writer, says that unless we attain to some kind of beauty and art, we shall have no lasting peace. We shall never have freedom from war until we have a peace that is worth living. Some see in the humanistic spirit an essentially aesthetic principle. The fairness and justice of the French, the spirit of the English that expresses itself in their ideal of sportsmanship, some attribute to the aesthetic spirit.
+
+All this is in keeping with our new experiences of life in all its dynamic expressions. It becomes easier for us to see the truth about the nature of the aesthetic and of all other powers of consciousness, since consciousness has revealed itself to us as itself so great a power. The aesthetic experience may no longer appear to be only a joy, something subjective, but, indeed, as a practical force in the world. The aesthetic is a feeling of power, but it is also an experience in which mental power is generated, and it must be employed to such an end. The aesthetic mood is a mood of happiness, but it is also a mood of persuasion, in which something is being done to the will, and in which desires are being turned continually toward new objects, and composite feelings are being formed which will direct the course of future experience. So art and the aesthetic experience are not things apart from life, but may even be thought of as the method and the quality of life in some of its most dynamic forms. They are not added to life as an ornament or a luxury, but are the spirit in which life is lived when it is indeed most productive.
+
+When we make specific analyses of aesthetic experience we find represented in it all the deep motives and tendencies, of life. This gives us our clew to the practical application of the aesthetic in the business of life. All it contains, all the art and the play of the world must be put to work, although this is a conclusion that might readily be misunderstood. We do not expect to harness the powers of childhood to the world's tasks, or expect industry to become fine art, but we do expect art and play to be something more than passive and unproductive states. We expect them to sustain and to create the energies by which the world's work is to be carried on. We would utilize them to give more power to life at every point, and to make all activities of the practical life more free and creative. And was there ever a time when power was more greatly needed--in industry, in political life and in every phase of life both of the individual and of society?
+
+But it is not only in creating and doing that the world needs art to-day, in the sense in which we mean to define it. An aroused world is called upon to feel to the depths of reality, and to draw from these depths new and more profound valuations. We stand at a point where many things in life must be tested and judged anew, where the danger of perverting and misjudging many things is great. It is by the powers of appreciation gained in dynamic states of consciousness, we may believe, rather than by discoveries and an accumulation of data that we shall be most certain of finding true values, and the way of extrication from our present grave doubts.
+
+Can one hesitate to conclude, then, that in all our educational experiences, we must try not only to train these powers that we call aesthetic, but to give opportunity at every point for the exercise of them as selective functions, and as a means of creating and expressing power in the mental life?

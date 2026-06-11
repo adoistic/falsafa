@@ -1,0 +1,23 @@
+---
+work_id: "96279f49-5be6-5e80-8b18-4d0ef75ffe03"
+work_slug: "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f"
+work_title: Sextus Empiricus and Greek Scepticism
+author_name: Mary Mills Patrick
+chapter_number: 11
+chapter_title: Chapter XII
+chapter_slug: 11
+variant_id: "1484d140-4ea4-5080-afa8-1ac14a457c4d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 540
+source_url: "https://www.gutenberg.org/ebooks/17556"
+translator: Project Gutenberg edition
+---
+
+*What is the aim of Scepticism?*
+
+It follows naturally in order to treat of the aim of the 25 Sceptical School. An aim is that for which as an end all things are done or thought, itself depending on nothing, or in other words, it is the ultimatum of things to be desired. We say, then, that the aim of the Sceptic is [Greek: ataraxia] in those things which pertain to the opinion, and moderation in the things that life imposes. For as soon as he began to 26 philosophise he wished to discriminate between ideas, and to understand which are true and which are false, in order to attain [Greek: ataraxia]. He met, however, with contradictions of equal weight, and, being unable to judge, he withheld his opinion; and while his judgment was in suspension [Greek: ataraxia] followed, as if by chance, in regard to matters of opinion. For he who is of the opinion that anything is either 27 good or bad by nature is always troubled, and when he does not possess those things that seem to him good he thinks that he is tortured by the things which are by nature bad, and pursues those that he thinks to be good. Having acquired them, however, he falls into greater perturbation, because he is excited beyond reason and without measure from fear of a change, and he does everything in his power to retain the things that seem to him good. But he who is undecided, on the contrary, regarding 28 things that are good and bad by nature, neither seeks nor avoids anything eagerly, and is therefore in a state of [Greek: ataraxia]. For that which is related of Apelles the painter happened to the Sceptic. It is said that as he was once painting a horse he wished to represent the foam of his mouth in the picture, but he could not succeed in doing so, and he gave it up and threw the sponge at the picture with which he had wiped the colors from the painting. As soon, however, as it touched the picture it produced a good copy of the foam. The Sceptics likewise hoped to gain [Greek: ataraxia] by forming judgments 29 in regard to the anomaly between phenomena and the things of thought, but they were unable to do this, and so they suspended their judgment; and while their judgment was in suspension [Greek: ataraxia] followed, as if by chance, as the shadow follows a body. Nevertheless, we do not consider the Sceptic wholly undisturbed, but he is disturbed by some things that are inevitable. We confess that sometimes he is cold and thirsty, and that he suffers in such ways. But in these things even the ignorant are beset in two ways, from the feelings themselves, 30 and not less also from the fact that they think these conditions are bad by nature. The Sceptic, however, escapes more easily, as he rejects the opinion that anything is in itself bad by nature. Therefore we say that the aim of the Sceptic is [Greek: ataraxia] in matters of opinion, and moderation of feeling in those things that are inevitable. Some notable Sceptics have added also suspension of judgment in investigation.

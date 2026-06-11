@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-on-liberty-34cdb0",
+  "work_title": "On Liberty",
+  "chapter_number": 1,
+  "chapter_title": "Chapter I",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "284298c9-9ba0-5241-82a7-4f0b9436dc1e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5601,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/34901"
+    }
+  ]
+}

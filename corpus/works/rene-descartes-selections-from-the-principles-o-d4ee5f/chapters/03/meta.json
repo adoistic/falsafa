@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-selections-from-the-principles-o-d4ee5f",
+  "work_title": "Selections from the Principles of Philosophy",
+  "chapter_number": 3,
+  "chapter_title": "Part III — OF THE VISIBLE WORLD",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f27ff0b4-e257-5d4c-b115-c21f7ef72074",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 493,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4391"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "niccolo-machiavelli-the-prince-13b8a5",
+  "work_title": "The Prince",
+  "chapter_number": 3,
+  "chapter_title": "Chapter III — CONCERNING MIXED PRINCIPALITIES",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "acf60c59-10af-5956-b640-8714cbed142b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3096,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1232"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "baruch-spinoza-theologico-political-treatise-pa-3f6451",
+  "work_title": "Theologico-Political Treatise, Part 3",
+  "chapter_number": 3,
+  "chapter_title": "Chapter XIV — - DEFINITIONS OF FAITH, THE FAITH, AND THE FOUNDATIONS",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e7209d2d-e8d0-5911-966e-c4e7f70797cb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6860,
+      "paragraph_count": 61,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/991"
+    }
+  ]
+}

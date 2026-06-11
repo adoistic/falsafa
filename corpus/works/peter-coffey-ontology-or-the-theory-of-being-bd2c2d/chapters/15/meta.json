@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
+  "work_title": "Ontology, or the Theory of Being",
+  "chapter_number": 15,
+  "chapter_title": "Chapter XV — FINAL CAUSES; UNIVERSAL ORDER",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2c06ba7e-39a9-5d6d-9753-4d14fe0f283f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 38511,
+      "paragraph_count": 617,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/35722"
+    }
+  ]
+}

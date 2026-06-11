@@ -1,0 +1,26 @@
+{
+  "work_slug": "baruch-spinoza-theologico-political-treatise-pa-9c6d2d",
+  "work_title": "Theologico-Political Treatise, Part 1",
+  "chapter_number": 3,
+  "chapter_title": "Chapter V — - OF THE CEREMONIAL LAW",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1aaecefa-f292-5c5c-9df3-f0859d1c03aa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4817,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/989"
+    }
+  ]
+}

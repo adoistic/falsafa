@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
+  "work_title": "Ontology, or the Theory of Being",
+  "chapter_number": 3,
+  "chapter_title": "Chapter III — EXISTENCE AND ESSENCE",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99c3c9e5-7c5b-588f-a68d-06536a558734",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 15474,
+      "paragraph_count": 85,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/35722"
+    }
+  ]
+}

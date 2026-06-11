@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
+  "work_title": "Ontology, or the Theory of Being",
+  "chapter_number": 9,
+  "chapter_title": "Chapter IX — NATURE AND PERSON",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97d5b1f4-7b94-5be6-806a-2dbc055a7fb7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13156,
+      "paragraph_count": 81,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/35722"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "lewis-carroll-symbolic-logic-56bef5",
+  "work_title": "Symbolic Logic",
+  "chapter_number": 4,
+  "chapter_title": "Book III",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a447650b-fd13-5508-bdd2-a42028137328",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3488,
+      "paragraph_count": 146,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/28696"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "simon-dubnow-jewish-history-an-essay-in-the-p-c6003c",
+  "work_title": "Jewish History: An Essay in the Philosophy of History",
+  "chapter_number": 1,
+  "chapter_title": "Jewish History: An Essay in the Philosophy of History",
+  "chapter_slug": "01-jewish-history-an-essay-in-the-philosophy-of-histo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd0f6b92-e1fa-52ca-95bb-940ec679b3ab",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 26673,
+      "paragraph_count": 136,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7836"
+    }
+  ]
+}

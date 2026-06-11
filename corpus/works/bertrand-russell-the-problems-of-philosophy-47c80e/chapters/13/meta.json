@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-the-problems-of-philosophy-47c80e",
+  "work_title": "The Problems of Philosophy",
+  "chapter_number": 13,
+  "chapter_title": "Chapter XIII — KNOWLEDGE, ERROR, AND PROBABLE OPINION",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac9a617e-7285-503c-a67f-7cce04d1d258",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2781,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5827"
+    }
+  ]
+}

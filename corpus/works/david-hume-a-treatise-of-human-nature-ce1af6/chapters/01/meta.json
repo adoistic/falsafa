@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-hume-a-treatise-of-human-nature-ce1af6",
+  "work_title": "A Treatise of Human Nature",
+  "chapter_number": 1,
+  "chapter_title": "Book I — OF THE UNDERSTANDING",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e122cb08-0ef0-5a34-a27f-9e8b82694fff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 65042,
+      "paragraph_count": 453,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4705"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
+  "work_title": "Ontology, or the Theory of Being",
+  "chapter_number": 1,
+  "chapter_title": "Chapter I — BEING AND ITS PRIMARY DETERMINATIONS",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "be586e87-d9e3-5c02-8002-2ac8daa0f021",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7772,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/35722"
+    }
+  ]
+}

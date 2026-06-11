@@ -1,0 +1,26 @@
+{
+  "work_slug": "abel-j-jones-rudolf-eucken-a-philosophy-of-li-06d56c",
+  "work_title": "Rudolf Eucken: A Philosophy of Life",
+  "chapter_number": 8,
+  "chapter_title": "Chapter VIII",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44083373-1be8-5a61-ab8e-dfa904529167",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4729,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/14357"
+    }
+  ]
+}

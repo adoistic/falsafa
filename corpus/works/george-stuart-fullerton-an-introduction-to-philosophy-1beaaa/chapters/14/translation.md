@@ -1,0 +1,135 @@
+---
+work_id: "1beaaa20-4656-5962-a588-8290c7c8b3b2"
+work_slug: "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa"
+work_title: An Introduction to Philosophy
+author_name: George Stuart Fullerton
+chapter_number: 14
+chapter_title: Chapter XIV
+chapter_slug: 14
+variant_id: "15307f59-4ee7-596b-967a-b4e682bc1fc5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 4267
+source_url: "https://www.gutenberg.org/ebooks/16406"
+translator: Project Gutenberg edition
+---
+
+MONISM AND DUALISM
+
+54. THE MEANING OF THE WORDS.--In common life men distinguish between minds and material things, thus dividing the things, which taken together make up the world as we know it, into two broad classes. They think of minds as being very different from material objects, and of the latter as being very different from minds. It does not occur to them to find in the one class room for the other, nor does it occur to them to think of both classes as "manifestations" or "aspects" of some one "underlying reality." In other words, the plain man to-day is a *Dualist*.
+
+In the last chapter (section 52) I have called him a Naive Realist; and here I shall call him a *Naive Dualist*, for a man may regard mind and matter as quite distinct kinds of things, without trying to elevate his opinion, through reflection, into a philosophical doctrine. The reflective man may stand by the opinion of the plain man, merely trying to make less vague and indefinite the notions of matter and of mind. He then becomes a *Philosophical Dualist*. There are several varieties of this doctrine, and I shall consider them a little later (section 58).
+
+But it is possible for one to be less profoundly impressed by the differences which characterize matter and mind. One may feel inclined to refer mental phenomena to matter, and to deny them the prominence accorded them by the dualist. On the other hand, one may be led by one's reflections to resolve material objects into mere ideas, and to claim that they can have no existence except in a mind. Finally, it is possible to hold that both minds and material things, as we know them, are only manifestations, phenomena, and that they must be referred to an ulterior "reality" or "substance." One may claim that they are "aspects" of the one reality, which is neither matter nor mind.
+
+These doctrines are different forms of *Monism*. In whatever else they differ from one another, they agree in maintaining that the universe does not contain two kinds of things fundamentally different. Out of the duality of things as it seems to be revealed to the plain man they try to make some kind of a unity.
+
+35. MATERIALISM.--The first of the forms of monism above mentioned is *Materialism*. It is not a doctrine to which the first impulse of the plain man leads him at the present time. Even those who have done no reading in philosophy have inherited many of their ways of looking at things from the thinkers who lived in the ages past, and whose opinions have become the common property of civilized men. For more than two thousand years the world and the mind have been discussed, and it is impossible for any of us to escape from the influence of those discussions and to look at things with the primitive simplicity of the wholly untutored.
+
+But it was not always so. There was a time when men who were not savages, but possessed great intellectual vigor and much cultivation, found it easy and natural to be materialists. This I have spoken of before (section 30), but it will repay us to take up again a little more at length the clearest of the ancient forms of materialism, that of the Atomists, and to see what may be said for and against it.
+
+Democritus of Abdera taught that nothing exists except atoms and empty space. The atoms, he maintained, differ from one another in size, shape, and position. In other respects they are alike. They have always been in motion. Perhaps he conceived of that motion as originally a fall through space, but there seems to be uncertainty upon this point. However, the atoms in motion collide with one another, and these collisions result in mechanical combinations from which spring into being world-systems.
+
+According to this doctrine, nothing comes from nothing, and nothing can become nonexistent. All the changes which have ever taken place in the world are only changes in the position of material particles--they are regroupings of atoms. We cannot directly perceive them to be such, for our senses are too dull to make such fine observations, but our reason tells us that such is the case.
+
+Where, in such a world as this, is there room for mind, and what can we mean by mind? Democritus finds a place for mind by conceiving it to consist of fine, smooth, round atoms, which are the same as the atoms which constitute fire. These are distributed through the whole body, and lie among the other atoms which compose it. They are inhaled with and exhaled into the outer air. While they are in the body their functions are different according as they are located in this organ or in that. In the brain they give rise to thought, in the heart to anger, and in the liver to desire.
+
+I suppose no one would care, at the present time, to become a Democritean. The "Reason," which tells us that the mind consists of fine, round atoms, appears to have nothing but its bare word to offer us. But, apart from this, a peculiar difficulty seems to face us; even supposing there are atoms of fire in the brain, the heart, and the liver, what are the *thought*, *anger*, and *desire*, of which mention is made?
+
+Shall we conceive of these last as atoms, as void space, or as the motion of atoms? There really seems to be no place in the world for them, and _these are the mind so far as the mind appears to be revealed*--they are *mental phenomena_. It does not seem that they are to be identified with anything that the Atomistic doctrine admits as existing. They are simply overlooked.
+
+Is the modern materialism more satisfactory? About half a century ago there was in the scientific world something like a revival of materialistic thinking. It did not occur to any one to maintain that the mind consists of fine atoms disseminated through the body, but statements almost as crude were made. It was said, for example, that the brain secretes thought as the liver secretes bile.
+
+It seems a gratuitous labor to criticise such statements as these in detail. There are no glands the secretions of which are not as unequivocally material as are the glands themselves. This means that such secretions can be captured and analyzed; the chemical elements of which they are composed can be enumerated. They are open to inspection in precisely the same way as are the glands which secrete them.
+
+Does it seem reasonable to maintain that thoughts and feelings are related to brains in this way? Does the chemist ever dream of collecting them in a test tube, and of drawing up for us a list of their constituent elements? When the brain is active, there are, to be sure, certain material products which pass into the blood and are finally eliminated from the body; but among these products no one would be more surprised than the materialist to discover pains and pleasures, memories and anticipations, desires and volitions. This talk of thought as a "secretion" we can afford to set aside.
+
+Nor need we take much more seriously the seemingly more sober statement that thought is a "function" of the brain. There is, of course, a sense in which we all admit the statement; minds are not disembodied, and we have reason to believe that mind and brain are most intimately related. But the word "function" is used in a very broad and loose sense when it serves to indicate this relation; and one may employ it in this way without being a materialist at all. In a stricter sense of the word, the brain has no functions that may not be conceived as mechanical changes,--as the motion of atoms in space,--and to identify mental phenomena with these is inexcusable. It is not theoretically inconceivable that, with finer senses, we might directly perceive the motions of the atoms in another man's brain; it is inconceivable that we should thus directly perceive his melancholy or his joy; they belong to another world.
+
+56. SPIRITUALISM.--The name *Spiritualism* is sometimes given to the doctrine that there is no existence which we may not properly call mind or spirit. It errs in the one direction as materialism errs in the other.
+
+One must not confound with this doctrine that very different one, Spiritism, which teaches that a certain favored class of persons called mediums may bring back the spirits of the departed and enable us to hold communication with them. Such beliefs have always existed among the common people, but they have rarely interested philosophers. I shall have nothing to say of them in this book.
+
+There have been various kinds of spiritualists. The name may be applied to the idealists, from Berkeley down to those of our day; at some of the varieties of their doctrine we have taken a glance (sections 49, 53). To these we need not recur; but there is one type of spiritualistic doctrine which is much discussed at the present day and which appears to appeal strongly to a number of scientific men. We must consider it for a moment.
+
+We have examined Professor Clifford's doctrine of Mind-stuff (section 43). Clifford maintained that all the material things we perceive are our perceptions--they are in our consciousness, and are not properly external at all. But, believing, as he did, that all nature is animated, he held that every material thing, every perception, may be taken as a revelation of something not in our consciousness, of a mind or, at least, of a certain amount of mind-stuff. How shall we conceive the relation between what is in our mind and the something corresponding to it not in our mind?
+
+We must, says Clifford, regard the latter as the *reality* of which the former is the *appearance* or *manifestation*. "What I perceive as your brain is really in itself your consciousness, is You; but then that which I call your brain, the material fact, is merely my perception."
+
+This doctrine is *Panpsychism*, in the form in which it is usually brought to our attention. It holds that the only real existences are minds, and that physical phenomena must be regarded as the manifestations under which these real existences make us aware of their presence. The term panpsychism may, it is true, be used in a somewhat different sense. It may be employed merely to indicate the doctrine that all nature is animated, and without implying a theory as to the relation between bodies perceived and the minds supposed to accompany them.
+
+What shall we say to panpsychism of the type represented by Clifford? It is, I think, sufficiently answered in the earlier chapters of this volume:--
+
+(1) If I call material facts my perceptions, I do an injustice to the distinction between the physical and the mental (Chapter IV).
+
+(2) If I say that all nature is animated, I extend illegitimately the argument for other minds (Chapter X).
+
+(3) If I say that mind is the reality of which the brain is the appearance, I misconceive what is meant by the distinction between appearance and reality (Chapter V).
+
+57. THE DOCTRINE OF THE ONE SUBSTANCE.--In the seventeenth century Descartes maintained that, although mind and matter may justly be regarded as two substances, yet it should be recognized that they are not really independent substances in the strictest sense of the word, but that there is only one substance, in this sense, and mind and matter are, as it were, its attributes.
+
+His thought was that by attribute we mean that which is not independent, but must be referred to something else; by substance, we mean that which exists independently and is not referred to any other thing. It seemed to follow that there could be only one substance.
+
+Spinoza modified Descartes' doctrine in that he refused to regard mind and matter as substances at all. He made them unequivocally attributes of the one and only substance, which he called God.
+
+The thought which influenced Spinoza had impressed many minds before his time, and it has influenced many since. One need not follow him in naming the unitary something to which mind and matter are referred substance. One may call it Being, or Reality, or the Unknowable, or Energy, or the Absolute, or, perhaps, still something else. The doctrine has taken many forms, but he who reads with discrimination will see that the various forms have much in common.
+
+They agree in maintaining that matter and mind, as they are revealed in our experience, are not to be regarded as, in the last analysis, two distinct kinds of thing. They are, rather, modes or manifestations of one and the same thing, and this is not to be confounded with either.
+
+Those who incline to this doctrine take issue with the materialist, who assimilates mental phenomena to physical; and they oppose the idealist, who assimilates physical phenomena to mental, and calls material things "ideas." We have no right, they argue, to call that of which ideas and things are manifestations either mind or matter. It is to be distinguished from both.
+
+To this doctrine the title of *Monism* is often appropriated. In this chapter I have used the term in a broader sense, for both the materialist and the spiritualist maintain that there is in the universe but one kind of thing. Nevertheless, when we hear a man called a monist without qualification, we may, perhaps, be justified in assuming, in the absence of further information, that he holds to some one of the forms of doctrine indicated above. There may be no logical justification for thus narrowing the use of the term, but logical justification goes for little in such matters.
+
+Various considerations have moved men to become monists in this sense of the word. Some have been influenced by the assumption--one which men felt impelled to make early in the history of speculative thought--that the whole universe must be the expression of some unitary principle. A rather different argument is well illustrated in the writings of Professor Hoeffding, a learned and acute writer of our own time. It has influenced so many that it is worth while to delay upon it.
+
+Professor Hoeffding holds that mental phenomena and physical phenomena must be regarded as parallel (see Chapter IX), and that we must not conceive of ideas and material things as interacting. He writes:--
+
+"If it is contrary to the doctrine of the persistence of physical energy to suppose a transition from the one province to the other, and if, nevertheless, the two provinces exist in our experience as distinct, then the two sets of phenomena must be unfolded simultaneously, each according to its laws, so that for every phenomenon in the world of consciousness there is a corresponding phenomenon in the world of matter, and conversely (so far as there is reason to suppose that conscious life is correlated with material phenomena). The parallels already drawn point directly to such a relation; it would be an amazing accident, if, while the characteristic marks repeated themselves in this way, there were not at the foundation an inner connection. Both the *parallelism* and the *proportionality* between the activity of consciousness and cerebral activity point to an *identity* at bottom. The difference which remains in spite of the points of agreement compels us to suppose that one and the same principle has found its expression in a double form. We have no right to take mind and body for two beings or substances in reciprocal interaction. We are, on the contrary, impelled to conceive the material interaction between the elements composing the brain and nervous system _as an outer form of the inner ideal unity of consciousness_. What we in our inner experience become conscious of as thought, feeling, and resolution, is thus represented in the material world by certain material processes of the brain, which as such are subject to the law of the persistence of energy, although this law cannot be applied to the relation between cerebral and conscious processes. It is as though the same thing were said in two languages."
+
+Some monists are in the habit of speaking of the one Being to which they refer phenomena of all sorts as the "Absolute." The word is a vague one, and means very different things in different philosophies. It has been somewhat broadly defined as "the ultimate principle of explanation of the universe." He who turns to one principle of explanation will conceive the Absolute in one way, and he who turns to another will, naturally, understand something else by the word.
+
+Thus, the idealist may conceive of the Absolute as an all-inclusive Mind, of which finite minds are parts. To Spencer, it is the Unknowable, a something behind the veil of phenomena. Sometimes it means to a writer much the same thing that the word God means to other men; sometimes it has a significance at the farthest remove from this (section 53). Indeed, the word is so vague and ambiguous, and has proved itself the mother of so many confusions, that it would seem a desirable thing to drop it out of philosophy altogether, and to substitute for it some less ambiguous expression.
+
+It seems clear from the preceding pages, that, before one either accepts or rejects monism, one should very carefully determine just what one means by the word, and should scrutinize the considerations which may be urged in favor of the particular doctrine in question. There are all sorts of monism, and men embrace them for all sorts of reasons. Let me beg the reader to bear in mind;--
+
+(1) The monist may be a materialist; he may be an idealist; he may be neither. In the last case, he may, with Spinoza, call the one Substance God; that is, he may be a Pantheist. On the other hand, he may, with Spencer, call it the Unknowable, and be an Agnostic. Other shades of opinion are open to him, if he cares to choose them.
+
+(2) It does not seem wise to assent hastily to such statements as; "The universe is the manifestation of one unitary Being"; or: "Mind and matter are the expression of one and the same principle." We find revealed in our experience mental phenomena and physical phenomena. In what sense they are one, or whether they are one in any sense,--this is something to be determined by an examination of the phenomena and of the relations in which we find them. It may turn out that the universe is one only in the sense that all phenomena belong to the one orderly system. If we find that this is the case, we may still, if we choose, call our doctrine monism, but we should carefully distinguish such a monism from those represented by Hoeffding and Spencer and many others. There seems little reason to use the word, when the doctrine has been so far modified.
+
+58. DUALISM.--The plain man finds himself in a world of physical things and of minds, and it seems to him that his experience directly testifies to the existence of both. This means that the things of which he has experience appear to belong to two distinct classes.
+
+It does not mean, of course, that he has only two kinds of experiences. The phenomena which are revealed to us are indefinitely varied; all physical phenomena are not just alike, and all mental phenomena are not just alike.
+
+Nevertheless, amid all the bewildering variety that forces itself upon our attention, there stands out one broad distinction, that of the physical and the mental. It is a distinction that the man who has done no reading in the philosophers is scarcely tempted to obliterate; to him the world consists of two kinds of things widely different from each other; minds are not material things and material things are not minds. We are justified in regarding this as the opinion of the plain man even when we recognize that, in his endeavor to make clear to himself what he means by minds, he sometimes speaks as though he were talking about something material or semi-material.
+
+Now, the materialist allows these two classes to run together; so does the idealist. The one says that everything is matter; the other, that everything is mind. It would be foolish to maintain that nothing can be said for either doctrine, for men of ability have embraced each. But one may at least say that both seem to be refuted by our common experience of the world, an experience which, so far as it is permitted to testify at all, lifts up its voice in favor of *Dualism*.
+
+Dualism is sometimes defined as the doctrine that there are in the world two kinds of substances, matter and mind, which are different in kind and should be kept distinct. There are dualists who prefer to avoid the use of the word substance, and to say that the world of our experiences consists of physical phenomena and of mental phenomena, and that these two classes of facts should be kept separate.
+
+The dualist may maintain that we have a direct knowledge of matter and of mind, and he may content himself with such a statement, doing little to make clear what we mean by matter and by mind. In this case, his position is little different from that of the plain man who does not attempt to philosophize. Thomas Reid (section 50) belongs to this class.
+
+On the other hand, the dualist may attempt to make clear, through philosophical reflection, what we mean by the matter and mind which experience seems to give us. He may conclude:--
+
+(1) That he must hold, as did Sir William Hamilton, that we perceive directly only physical and mental phenomena, but are justified in inferring that, since the phenomena are different, there must be two kinds of underlying substances to which the phenomena are referred. Thus, he may distinguish between the two substances and their manifestations, as some monists distinguish between the one substance and its manifestations.
+
+(2) Or he may conclude that it is futile to search for substances or realities of any sort *behind* phenomena, arguing that such realities are never revealed in experience, and that no sound reason for their assumption can be adduced. In this case, he may try to make plain what mind and matter are, by simply analyzing our experiences of mind and matter and coming to a clearer comprehension of their nature.
+
+As the reader has probably remarked, the philosophy presented in the earlier chapters of this book (Chapters III to XI) is *dualistic* as well as *realistic*. That is to say, it refuses to rub out the distinction between physical phenomena and mental phenomena, either by dissolving the material world into ideas; by calling ideas secretions or functions of the brain; or by declaring them one in a fictitious entity behind the veil and not supposed to be exactly identical with either. And as it teaches that the only reality that it means anything to talk about must be found in experience, it is a dualism of the type described in the paragraph which immediately precedes.
+
+Such a philosophy does not seem to do violence to the common experience of minds and of physical things shared by us all, whether we are philosophers or are not. It only tries to make clear what we all know dimly and vaguely. This is, I think, a point in its favor. However, men of great ability and of much learning have inclined to doctrines very different; and we have no right to make up our minds on such a subject as this without trying to give them an attentive and an impartial hearing.
+
+59. SINGULARISM AND PLURALISM.--There are those who apply to the various forms of monism the title *Singularism*, and who contrast with this *Pluralism*, a word which is meant to cover the various doctrines which maintain that there is more than one ultimate principle or being in the universe.
+
+It is argued that we should have some word under which we may bring such a doctrine, for example, as that of the Greek philosopher Empedocles (born about 490 B.C.). This thinker made earth, water, fire, and air the four material principles or "roots" of things. He was not a monist, and we can certainly not call him a dualist.
+
+Again. The term pluralism has been used to indicate the doctrine that individual finite minds are not parts or manifestations of one all-embracing Mind,--of God or the Absolute,--but are relatively independent beings. This doctrine has been urged in our own time, with eloquence and feeling, by Professor Howison. Here we have a pluralism which is idealistic, for it admits in the universe but one *kind* of thing, minds; and yet refuses to call itself monistic. It will readily be seen that in this paragraph and in the one preceding the word is used in different senses.
+
+I have added the above sentences to this chapter that the reader may have an explanation of the meaning of a word sometimes met with. But the title of the chapter is "Monism and Dualism," and it is of this contrast that it is especially important to grasp the significance.
+
+"Outlines of Psychology," pp. 64-65, English translation, 1891.
+
+"The Limits of Evolution, and Other Essays," revised edition. New York, 1905.

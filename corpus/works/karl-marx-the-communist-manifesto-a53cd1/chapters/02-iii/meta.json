@@ -1,0 +1,26 @@
+{
+  "work_slug": "karl-marx-the-communist-manifesto-a53cd1",
+  "work_title": "The Communist Manifesto",
+  "chapter_number": 2,
+  "chapter_title": "III",
+  "chapter_slug": "02-iii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7d71bbf2-5782-5c77-b455-0c91504e5095",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3228,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/61"
+    }
+  ]
+}

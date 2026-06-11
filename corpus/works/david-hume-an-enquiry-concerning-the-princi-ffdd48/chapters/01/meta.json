@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-hume-an-enquiry-concerning-the-princi-ffdd48",
+  "work_title": "An Enquiry Concerning the Principles of Morals",
+  "chapter_number": 1,
+  "chapter_title": "Section I — OF THE GENERAL PRINCIPLES OF MORALS",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f747c330-d75f-5dbf-994a-3cbbfca7480b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1916,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4320"
+    }
+  ]
+}

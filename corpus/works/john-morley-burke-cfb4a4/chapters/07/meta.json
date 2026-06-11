@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-burke-cfb4a4",
+  "work_title": "Burke",
+  "chapter_number": 7,
+  "chapter_title": "Chapter VII",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1f4e71a3-7b2c-5608-b21f-602583f7c7ed",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6600,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/12922"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "dewitt-h-parker-the-principles-of-aesthetics-d4e238",
+  "work_title": "The Principles of Aesthetics",
+  "chapter_number": 7,
+  "chapter_title": "Chapter VII",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a3500a4a-6756-59cf-9b47-651c66f26114",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7555,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/6366"
+    }
+  ]
+}

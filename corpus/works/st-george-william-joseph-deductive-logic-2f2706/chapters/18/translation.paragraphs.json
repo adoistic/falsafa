@@ -1,0 +1,57 @@
+[
+  {
+    "id": "p-93204f",
+    "offset": 0,
+    "text": "*Of the Reduction of the Dilemma.*"
+  },
+  {
+    "id": "p-e99fc7",
+    "offset": 36,
+    "text": "§ 796. As the dilemma is only a peculiar variety of the partly conjunctive syllogism, we should naturally expect to find it reducible in the same way to the form of a simple syllogism. And such is in fact the case. The constructive dilemma conforms to the first figure and the destructive to the second."
+  },
+  {
+    "id": "p-5449c0",
+    "offset": 341,
+    "text": "1) *Simple Constructive Dilemma*."
+  },
+  {
+    "id": "p-78985d",
+    "offset": 376,
+    "text": "Barbara. If A is B or if E is F, C is D. All cases of either A being B or E being F are cases of C being D. Either A is B or E is F. All actual cases are cases of either A being B OP E being F. .'. C is D. .'. All actual cases are cases of C being D."
+  },
+  {
+    "id": "p-e9389c",
+    "offset": 628,
+    "text": "(2) *Simple Destructive*."
+  },
+  {
+    "id": "p-59d428",
+    "offset": 655,
+    "text": "Camstres. If A is B, C is D and E is F. All cases of A being B are cases of C being D and E being F. Either C is not D or E is not F. No actual cases are cases of C being D and E being F. .'. A is not B. .'. No actual cases are cases of A being B."
+  },
+  {
+    "id": "p-e48f97",
+    "offset": 904,
+    "text": "(3) *Complex Constructive*. Barbara. If A is B, C is D; and if E is F, All cases of either A being B or G is H. being F are cases of either C being D or G being H. Either A is B or E is F. All actual cases are cases of either A being B or E being F. .'. Either C is D or G is H. .'. All actual cases are cases of either C being D or G being H."
+  },
+  {
+    "id": "p-3f3016",
+    "offset": 1249,
+    "text": "(4) *Complex Destructive*."
+  },
+  {
+    "id": "p-83284c",
+    "offset": 1277,
+    "text": "If A is B, C is D; and if E is F, All cases of A being B and E being F G is H. are cases of C being D and G being H. Either C is not D Or G is No actual cases are cases of C being not H D and G being H. Either A is not B or E is No actual cases are cases of A being not F. B and E being F."
+  },
+  {
+    "id": "p-1ed345",
+    "offset": 1568,
+    "text": "§ 797. There is nothing to prevent our having Darii, instead of Barbara, in the constructive form, and Baroko, instead of Camestres, in the destructive. As in the case of the partly conjunctive syllogism the remaining moods of the first and second figure are obtained by taking a negative proposition as the consequent of the major premiss, e.g.--"
+  },
+  {
+    "id": "p-1c0ade",
+    "offset": 1917,
+    "text": "*Simple Constructive*. Celarent or Ferio. If A is B or if E is F, C is not D No cases of either A being B or E being F are cases of C being D. Either A is B or E is F. All (or some) actual cases are cases of either A being B or E being F .'. C is not D. .'. All (or some) actual cases are not cases of C being D."
+  }
+]

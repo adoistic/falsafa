@@ -1,0 +1,192 @@
+[
+  {
+    "id": "p-37580b",
+    "offset": 0,
+    "text": "FALLACIES."
+  },
+  {
+    "id": "p-4434d4",
+    "offset": 12,
+    "text": "CHAPTER I."
+  },
+  {
+    "id": "p-c84fa4",
+    "offset": 24,
+    "text": "FALLACIES IN GENERAL."
+  },
+  {
+    "id": "p-e37836",
+    "offset": 47,
+    "text": "The habit of reasoning well is the only complete safeguard against reasoning ill, that is, against drawing conclusions with insufficient evidence, a practice which the various contradictory opinions, particularly about the phenomena relating to Man, show to be even now common, and that too among the most enlightened. But, to be able to explain an error is a necessary condition of seeing the truth; for, 'Contrariorum eadem est Scientia.' Consequently, a work on Logic must classify Fallacies, that is, the varieties of Apparent Evidence; for they *can* be classified, though not in respect of their negative quality of being either not evidence at all, or inconclusive, yet in respect of the positive property they have of *appearing* to be evidence."
+  },
+  {
+    "id": "p-0cd98a",
+    "offset": 802,
+    "text": "As Logic has been here treated as embracing the whole reasoning process, so it must notice the fallacies incident to any part of it (not to Ratiocination merely), whether arising from faulty Induction, or from faulty Ratiocination, or from dispensing wholly with either or both of them. It does not treat of errors from negligence, or from inexpertness in using right methods, nor does it treat of errors from moral causes, viz. Indifference to truth, or Bias by our wishes or our fears; for the moral causes are but the *remote* and *predisposing*, not the *exciting* causes of opinions; and therefore inferences from them, since they must always involve the intellectual operation of admitting insufficient evidence as sufficient, really come under a classification of the things which wrongly *appear* evidence to the *understanding*."
+  },
+  {
+    "id": "p-39e2a2",
+    "offset": 1641,
+    "text": "Fallacies may be arranged, with reference either to the cause which makes them (erroneously) appear evidence, or to the particular kind of evidence they simulate. The following classification is grounded on both these considerations jointly."
+  },
+  {
+    "id": "p-333fc7",
+    "offset": 1884,
+    "text": "CHAPTER II."
+  },
+  {
+    "id": "p-14cf23",
+    "offset": 1897,
+    "text": "CLASSIFICATION OF FALLACIES."
+  },
+  {
+    "id": "p-2a10db",
+    "offset": 1927,
+    "text": "The business of Logic is, not to enumerate false opinions, but to enquire what property in the facts led to them, that is, what peculiarity of relation between two facts made us suppose them habitually conjoined or disjoined, and thus regard the presence or absence of the one as evidence of that of the other. For every such property in the facts, or our mode of considering them, there is a corresponding class of Fallacies."
+  },
+  {
+    "id": "p-0bb8ec",
+    "offset": 2355,
+    "text": "As the supposed habitual connexion or repugnance of two facts may be admitted, either as a self-evident and axiomatic truth, or as itself an inference, the first great division is into Fallacies of Simple Inspection or *à priori* Fallacies, and Fallacies, of Inference. But there is also an intermediate class. For, sometimes an inference is erroneous through our not conceiving what our premisses precisely are, and from our therefore substituting new premisses for the old, or a new conclusion for the one we undertook to prove; and this is called the Fallacy of Confusion. Under this head, indeed, of Fallacies of Confusion, might strictly be brought almost any fallacy, though falling also under some other head: for, some of the links in an argument, especially if sophistical, are sure to be suppressed; and, it being left doubtful which is the proposition to be supplied, we can seldom tell with certainty under *which* class the fallacy absolutely comes. It is, however, convenient to reserve the name *Fallacy of Confusion* for cases where Confusion is the *sole* cause of the error."
+  },
+  {
+    "id": "p-a17fd7",
+    "offset": 3449,
+    "text": "Cases, then, where there is more or less ground for the error in _the nature of the apparent evidence itself_, the evidence being assumed to be of a certain sort, and a false conclusion being drawn from it, may be classed as Fallacies of Inference. According as the apparent evidence consists of particular facts, or of foregone generalisations, we call the errors Fallacies of Induction or of Deduction. Each of these classes, again, may be subdivided into two species, according as the apparent evidence is either false, or, though true, inconclusive. Such subdivisions of the Fallacy of Induction are respectively called, in the former case, Fallacies of Observation (including cases where the facts are not directly observed, but inferred), and, in the latter, Fallacies of Generalisation. Among Fallacies of Deduction, those which proceed on false premisses have no specific name, for they must fall under one of the other heads of Fallacies; but those, the premisses of which, though true, do not support the conclusion, compose a subdivision, which may be specified as Fallacies of Ratiocination."
+  },
+  {
+    "id": "p-368057",
+    "offset": 4554,
+    "text": "CHAPTER III."
+  },
+  {
+    "id": "p-cccdab",
+    "offset": 4568,
+    "text": "FALLACIES OF SIMPLE INSPECTION; OR, À PRIORI FALLACIES."
+  },
+  {
+    "id": "p-db337c",
+    "offset": 4625,
+    "text": "There must be some *à priori* knowledge, some propositions to be received without proof; for there cannot be a chain suspended from nothing. What these are is disputed, one school recognising as ultimate premisses only the facts of our subjective consciousness, e.g. Sensations, while Ontologists hold that the mind intuitively, and not through experience, recognises as realities other existences, e.g. Substances, which are suggested by, though not inferrible from, those facts of consciousness. But, as both schools, in fact, allow that the mind infers the *reality* from the *idea* of a thing, and that it may do this unduly, there results a class of Fallacies resting on the tacit assumption that the objects in nature have the same order as our ideas of them. Hence not only arose the vulgar belief that facts which make us think of an event are omens foreboding (e.g. lucky or unlucky names), or even causing its occurrence; but even men of science both did and do fall into this Fallacy. The following dogmas express the different forms of this error:--"
+  },
+  {
+    "id": "p-c51e89",
+    "offset": 5688,
+    "text": "1. [Greek: a]. _Things which we cannot help thinking of together must coexist_; thus Descartes held that, because existence is involved (though really only by the thinker himself) in the idea of a geometrical figure, a thing like the idea must exist. [Greek: b]. _Whatever is inconceivable is false._ The latter proposition has been defended by drawing a distinction between the principle, and its possibly wrong application to facts, e.g. to Antipodes; but how can we ever know that it has been rightly applied? Coleridge, again, has distinguished between the unimaginable, which he thinks may possibly be true, and the inconceivable, which he thinks cannot be; but Antipodes were imaginable at the same period when they were inconceivable. In fact, as even to Newton it seemed inconceivable, that a thing should act where it is not (e.g. that the sun should act upon the earth without the medium of an ether), simply because his mind was not familiar with the idea, so it *may* be with *our* incapability (if not, indeed, resulting merely from our limited faculties) of *conceiving*, e.g. that matter cannot think; that space is infinite; that *ex nihilo nihil fit*. Leibnitz's tenet that all *natural* phenomena must be explicable *à priori*, and the further assumption by some that Nature always acts by the simplest, i.e. by the most easily conceivable means (and that, therefore, e.g. the heavenly bodies have a circular movement), exhibit vividly this Fallacy of Simple Inspection."
+  },
+  {
+    "id": "p-ac425c",
+    "offset": 7178,
+    "text": "2. _Whatever can be thought of apart, or has a separate name, exists apart as a separate entity_, e.g. Nature, Time, qualities, as e.g. Whiteness, and, worst of all, the Substantiæ Secundæ. Mysticism is this habit of ascribing objective existence to the subjective creations of the mind, and reasoning from them to the things themselves."
+  },
+  {
+    "id": "p-1f47b0",
+    "offset": 7517,
+    "text": "3. _A fact must follow a certain law, because we see no reason for its deviating from it in one way rather than in another._ This, which is the same as the Principle of the Sufficient Reason, has been used to prove the Law of Inertia (the very point to be proved, viz. that only external force can be a sufficient reason for motion *in a particular direction*, being assumed), and also the First Law of Motion, the argument being, in the latter case, that a moving body, if it do *not* continue of itself to move uniformly in a straight line, must deviate right or left, and that there is *no reason* for its going one way more than the other: to which the answer is, that, apart from experience, we could not know whether or not there were a reason. Geometers often fall into this Fallacy."
+  },
+  {
+    "id": "p-a70b94",
+    "offset": 8309,
+    "text": "4. _The differences in nature must correspond to our received distinctions_ (in names and classifications). Thus, the Greeks thought that, by determining the meanings of words, they ascertained facts. Aristotle usually starts with 'We say thus or thus.' So, with the *Doctrine of Contrarieties*, in which the Pythagoreans and others assumed that oppositions in language imply similar ones in nature. Hence, too, the ancient belief in the essential difference between the laws of things terrestrial and things celestial, and in man's incapability of imitating nature's works. Bacon's error (which vitiates his inductive system) was analogous, in looking (either through his eagerness for practical results, or a lingering belief that causes were the sole object of philosophy) for the cause of given effects rather than the effects of a given cause. Hence sprang his tacit assumption (and that in enquiries into the causes of a thing's sensible qualities, where it was especially fatal), that in all cases, e.g. of heat or cold, the *forma*, or set of conditions, is *one* thing. A similar notion, viz. that each property of gold, as of other things, has its one *forma*, produced the belief in Alchemy."
+  },
+  {
+    "id": "p-f0dd28",
+    "offset": 9513,
+    "text": "5. The conditions of a phenomenon often do resemble the phenomenon itself, e.g. in cases of Motion, Contagion, Feelings; but it is a Fallacy to suppose that *they must or probably will*. By this fancied law men guided their conjectures. Thus, the *Doctrine of Signatures* was, that substances showed their uses as medicines by external resemblance, either to their supposed effect, or to the disease. So, the Cartesians, and even Leibnitz, argued, that nothing physical but previous motion could account for motion, explaining the human body's voluntary motions by Nervous Vibrations or by Animal Spirits. Hence, too, the inference that there is a correspondence between the physical qualities of the cause, and like or like-named ones, either of the phenomenon (e.g. between sharp particles and a sharp taste), or of its effects (e.g. between the redness of Mars, and fire and slaughter as results of that planet's influence). In metaphysics, the Epicureans' doctrine of *species sensibiles*, and the moderns' of _perception through ideas_, arose from this fallacy (combined with another, viz. that a thing cannot act where it is not). Again, the conditions of a thing are sometimes spoken of even as though they were the thing itself. Thus, in the Novum Organon, heat (i.e. really the conditions of the feeling of it) is called a kind of motion; and Darwin, in his Zoonomia, after describing *idea* as a kind of *notion of external things*, defines it as *a motion of the fibres*. Cousin says: 'Tout ce qui est vrai de l'effet est vrai de la cause,' though, the reverse *might* be true; and Coleridge affirms, as *an evident truth*, that mind and matter, as having no common property, cannot act on each other. The same fallacy led Leibnitz to his *pre-established harmony*, and Malebranche to his *occasional causes*. So, Cicero argues that mental pleasures, if arising from the bodily, could not, as they do, exceed their cause; and Descartes, that the Efficient Cause must have all the perfections of the effect. Conversely Descartes, too, and persons who assail, e.g. the Principle of Population by reference to Divine benevolence (thus implying that, because God is perfect, therefore what *they* think perfection must obtain in nature), assume that effects must resemble their causes."
+  },
+  {
+    "id": "p-b578ec",
+    "offset": 11807,
+    "text": "CHAPTER IV."
+  },
+  {
+    "id": "p-84e52e",
+    "offset": 11820,
+    "text": "FALLACIES OF OBSERVATION."
+  },
+  {
+    "id": "p-ae8c27",
+    "offset": 11847,
+    "text": "A fallacy of Observation (the first of the three fallacies of Proof) may be either negative or positive."
+  },
+  {
+    "id": "p-35e3e4",
+    "offset": 11953,
+    "text": "1. The former, which is called Non-observation, is a case, not of a positive mis-estimate of evidence, or of the proper faculties (whether the senses or reason) not having been employed, but simply of the non-employment of any of the faculties. It arises ([Greek: a]) from neglect of instances. Sometimes this is when there is a stronger motive to remember the instances on the one side, and the observers have neglected the principle of the Elimination of Chance. Hence (the mind, as Bacon says, being more moved by affirmative than by negative instances) the belief in predictions, e.g. about the weather, because they occasionally turn out correct; and the credit of the proverb, that 'Fortune favours fools,' since the cases of a wise man's success through luck are forgotten in his more numerous successes through genius. But a preconceived opinion is the *chief* cause why opposing instances are overlooked. Hence originate the errors about physical facts (e.g. of Copernicus's foes, and friends, too, about the falling stone), and _à fortiori_, on moral, social, and religious subjects, where yet stronger feelings are involved."
+  },
+  {
+    "id": "p-863a9d",
+    "offset": 13090,
+    "text": "The fallacy of Non-observation may occur ([Greek: b]) from neglect, not of the material instances wholly, but of some material facts in them, e.g. in cases of cures by quack remedies (such as Kenelm Digby's 'sympathetic powder'), of some attendant fact (as exclusion of air from a wound, rest, regimen, and the like) which really worked the cure. Sometimes the neglected fact is one ascertainable, not by the senses, but by reasoning, which has been overlooked. Thus, Cousin's argument that, if the sole end of punishment were to prevent crime by intimidating intending criminals, the punishment of the innocent, indiscriminately with the guilty, would have the same effect, ignores the fact that the innocent would then be equally intimidated, and so the punishment would be of no use as an example to criminals. So, in Political Economy, where the effects of a cause often consist of two sets of phenomena, the one obvious, the other deeper under the surface, and exactly contrary, the latter is often neglected. This was why the rapidly spent capital of the prodigal was supposed formerly to employ more labour than the invested savings of the parsimonious, and the purchase of native goods to encourage native industry more than the purchase of foreign."
+  },
+  {
+    "id": "p-6e5518",
+    "offset": 14349,
+    "text": "2. The error in Mal-observation, which is the *positive* kind of Mis-observation, is not the overlooking facts, but the seeing them wrong. It arises from mistaking what is in fact inference (as much *must* be, whenever we try to observe or to describe) for perception, which is infallible evidence of what is really perceived. The Anti-Copernicans, when they appealed to common sense, made this mistake. So do untrained persons generally in describing facts, especially natural phenomena (e.g. apothecaries and nurses in stating symptoms), and that, too, in proportion to their ignorance. We might expect this, since usually the actual perceptions of the senses (e.g. the colour and extension) are not of interest, except as marks whence to draw inferences about something else (e.g. about the body, to which these qualities belong). Painters, therefore, to know what the sensation actually was, have to go through a special training. But this confusion of inference with perception is still more likely in highly abstract subjects; and, consequently, in these, mere, and often false inferences, have continually been regarded as intuitive judgments."
+  },
+  {
+    "id": "p-c1e827",
+    "offset": 15501,
+    "text": "CHAPTER V."
+  },
+  {
+    "id": "p-4a62fd",
+    "offset": 15513,
+    "text": "FALLACIES OF GENERALISATION."
+  },
+  {
+    "id": "p-28b7b4",
+    "offset": 15543,
+    "text": "This class includes whatever errors of generalisation are not mere blunders, but arise from some wrong general conception of the inductive process. Only a few kinds can be noted. 1. Under this Fallacy come generalisations which *cannot* be established by experience, e.g. inferences from the order in the Solar System to other and unknown parts of the universe; and also, except when a particular effect would contradict either the laws of number and extension, or the universal law of causality, all inferences from the fact that *we* have never known of a particular effect to its impossibility. 2. Those generalisations also are fallacious which resolve, either, as in early Greece, all things into one element, or, as often in modern times, impressions on the senses, differing in quality, and not merely in degree, into the same; e.g. heat, light, and (through vibrations) sensation, into motion; mental, into nervous states; and vital phenomena, into mechanical or chemical processes. In these theories, one fact has its laws applied to another. It may possibly be a condition of that other; but even then the mode in which the new fact is actually produced would have to be explained by its own law, and not by that of the condition. 3. Again, generalisations got by Simple Enumeration, fall under this Fallacy. That sort of Induction 'precariò concludit,' says Bacon, 'et periculo exponitur ab instantiâ contradictoriâ, ... ex his tantummodò quæ præsto sunt pronuncians.' The ancients used it; and in questions relating to man and society, it is still employed by *practical* men. By it men arrived at the various examples of the formula, _Whatsoever has never been_ (e.g. a State without artificial distinctions of rank; negroes as civilised as the white race) *will never be*; which, being inductions without elimination, could at most form the ground only of the lowest empirical laws. Higher empirical laws can be got, when a phenomenon presents (as no negation can) a series of regular gradations, since something may then be inferred from the observed as to the unobservable terms of the series. Such is the law of man's necessary progression, in contradiction to the above formula. But even this better generalisation is similarly, though not as grossly, fallacious as the preceding, when, though not itself a cause, but only a summary expression for the general result of all the causes, it is accepted as *the* law of human changes, past and even future. So, empirical generalisations, from present to past time, and from the character of one nation to that of another, are similarly fallacious when employed as causal laws. 4. This Fallacy occurs, not only when an empirical is confounded with a causal law, but when causation is inferred improperly. The mistake sometimes lies in inferring *à posteriori* that one fact must be the cause of another (e.g. the National Debt, or some special institution, of England's prosperity), because of their casual conjunction; at other times, in assuming *à priori* that one of several coexisting agents is the sole cause, and then deducing the effects from it exclusively. The latter is properly False Theory. It has been exemplified in medicine by the tracing of all diseases by one school, to viscidity of the blood, by another, to the presence of some acid or alkali, and, in politics, by the assumption that some special form of government or society is absolutely good. 5. In False Analogies (which fall under this Fallacy) there is no pretence of a conclusive induction. The argument from Analogy is the inferring, in the absence of evidence either way, that an object resembles a second object in one point, because it is seen to resemble it in another point, which either is not known to be connected with the first by causation (as, that the planets must be inhabited because they obey the same astronomical laws with the earth, which is), or which is known to be, not, indeed, its cause or its effect, but either one of a set of conditions, which together are its cause, or an occasional effect of its cause. Now, persons (usually from poverty, not from luxuriance, of imagination) often overrate the weight of true analogies; but the fallacy specially consists in inferring resemblance in one point from resemblance in another, when the evidence is not only not in favour of, but even positively against the connection of the two by way of causation. It is so in the argument in favour of absolutism, on the ground of its resemblance to paternal government in the one point of irresponsibility, as though the assumed benefits of paternal rule flowed from this quality. Similarly fallacious are the inferences, through analogies, from the liability to decay of bodies natural to that of bodies politic; from the supposed need of a *primum mobile* in nature to that of an irresponsible power in a state; and from the effects of a decrease of a country's corn to the effects of a decrease of its gold (the utility of which, but not of corn, depends on its value, and its value on its scarcity). Such, also, were the Pythagorean inferences that there is a music of the spheres, because the intervals between the planets have the same proportion as the divisions of the monochord; and, again, that the movements of the stars as being *divine* must be regular, because so are those even of orderly *men*. So, Aristotle and other ancients supposed perfection to obtain in all natural facts, because it appeared to exist in some; and so, the Stoics tried to prove the equality of all crimes by reference to various similes and metaphors (as, that the man held half an inch below the surface will be drowned as certainly as the man at the bottom of the sea; and that want of skill is shown as much in steering a straw-laden boat as a treasure galleon on to the rocks). But, in fact, the connection by causation between the known and the inferred resemblance, which is *assumed* by these metaphors, is the very thing which they are brought to prove. The real use of such cases of analogy as metaphors is that they serve, not as an argument, but as an assertion that one exists. Though they cannot prove, they sometimes suggest the proof, and point to a case in which the same grounds for a conclusion have been found adequate. Such are d'Alembert's classification of successful politicians as either eagles or serpents; and the statement, as an argument for education, that, in waste land weeds will spring up; and such is *not* Bacon's inference from the levity of floating straw to the worthlessness of the *extant* scientific works of the ancients."
+  },
+  {
+    "id": "p-18fa60",
+    "offset": 22155,
+    "text": "The great source of fallacious generalisation is bad classification, by which things with no, or no important, common properties, are grouped together. Worst is it, when a word which commonly signifies some definite fact is applied to other facts only slightly similar. Bacon (who has himself thus erred in his enquiries into heat) specifies, as examples of this, the various applications (got, by unscientific abstraction, from the original sense) of the word 'wet,' to flame, air, dust, and glass, as well as to water. The application by Plato, Aristotle, and other ancients, of the terms Generation, Corruption, and [Greek: kinêsis] to many heterogeneous phenomena, with a mixture of the ideas belonging to them severally, caused many perplexities, which may be noticed under Fallacies of Confusion."
+  },
+  {
+    "id": "p-06b982",
+    "offset": 22959,
+    "text": "CHAPTER VI."
+  },
+  {
+    "id": "p-269e7b",
+    "offset": 22972,
+    "text": "FALLACIES OF RATIOCINATION."
+  },
+  {
+    "id": "p-972bdf",
+    "offset": 23001,
+    "text": "These fallacies (to which the name *Fallacy* is commonly applied exclusively) would generally be detected if the arguments were set out formally; and the value of the syllogistic rules is, that they force the reasoner to be aware what it is that he is really asserting. The frequent errors in processes such as Conversion and Opposition, which are in appearance, though not in reality, inferences from premisses, may for convenience be here referred to. Such are the simple conversion of an universal affirmative; the corresponding error in a hypothetical proposition of inferring the truth of the antecedent from that of the consequent; and the confusing of a contrary with a contradictory, which amounts, in practice, to mistaking the reverse of wrong for right. But fallacies of Ratiocination properly lie in syllogisms. They commonly resolve themselves, when in a single syllogism, into the having more than three terms, whether covertly, as through an undistributed middle, or an illicit process, or avowedly. But the most dangerous and the commonest of these fallacies arise in a chain of argument from _changing the premisses*. One of the obscurer forms of this is the fallacy *a dicto secundum quid_ (i.e. with a qualification, or condition, expressed, or, more usually, understood) *ad dictum simpliciter*. Thus, the Mercantile Theory was in favour of prohibiting all trade which tends to carry out more money than it brings in, on the ground that money is riches, though it is so only if the money can be *freely* spent. Such, too, was the argument (used to support the doctrine that tithes fall on the landlord) that, because now the rent of tithe-free land exceeds that of tithed land, the rent from the latter would be increased by the abolition of all tithes. There was a similar fallacy in the use of the maxim, that individuals are the best judges of their pecuniary interests, against Mr. Wakefield's scheme for concentrating settlers. Cases in which the condition of *time* is dropped, fall under this same particular fallacy, as, when the maxim that prices always find their level, is construed as meaning that they are always *at* their level. It is the same with the reasoning (especially in political and social subjects), upon principles, which are true in the absence of all modifying causes, as though no such causes *could* exist. Other analogous fallacies are those _a dicto simpliciter ad dictum secundum quid* (the converse of the preceding), and *a dicto secundum quid ad dictum secundum alterum quid_."
+  },
+  {
+    "id": "p-24b219",
+    "offset": 25535,
+    "text": "CHAPTER VII."
+  },
+  {
+    "id": "p-85f6bc",
+    "offset": 25549,
+    "text": "FALLACIES OF CONFUSION."
+  },
+  {
+    "id": "p-bbf79d",
+    "offset": 25574,
+    "text": "Under this head come all fallacies which arise, not so much from a false estimate of the probative force of known evidence, as from an indistinct conception what the evidence is."
+  },
+  {
+    "id": "p-6e2941",
+    "offset": 25754,
+    "text": "1. Thus, where there is an ambiguous middle, or a term used in different senses in the premisses and in the conclusion, the argument proceeds as though there were evidence to the point, when, in fact, there is none. This error does not occur much in direct inductions, since the things themselves are there present to the senses or memory; but chiefly, in Ratiocination, where we are deciphering our own or others' notes. The ambiguity arises very often from assuming that a word corresponds precisely in meaning with the root itself (e.g. *representative*), or with cognate words from the same root, called *paronymous* words (as, *artful*, with *art*). Other examples of ambiguities are; 'Money,' which, meaning both the currency and also capital seeking investment, is often thought to be scarce in the former sense, because scarce in the latter; 'Influence of Property,' which, signifying equally the influence of respect for the power for good, and of fear of the power for evil, which is possessed by the rich, is represented as being assailed under its former form when attacked really only under the latter; 'Theory,' which, because applied popularly to the accounting for an effect apart from facts, is ridiculed, even when expressing, as it properly does, the result of philosophical induction from experience; 'The Church,' which refers (as in the question of the inviolability of *Church* property) sometimes to the clergy alone, sometimes to all its members; 'Good,' in the Stoic argument that virtue, as alone *good* (in the Stoic sense), must therefore include freedom and beauty, because these are *good* (in the popular sense). So, the meaning of 'I' shifts from _the laws of my nature* to *my will*, in Descartes' *à priori_ argument for the being of a God, viz. that there must be an external archetype whence I got the conception, for if *I* (i.e. *the laws of my nature*) made it, *I* (i.e. *my will*, and not, as it should consistently be, _the laws of my nature*) could unmake it; but *I* (i.e. *my will_) cannot. In the Free-Will controversy, 'I' is used ambiguously for volitions, actions, and mental dispositions, and 'Necessity' both for *Certainty* and for *Compulsion*. From the application of 'same,' 'one,' 'identical,' which primarily refer to a single object, to several objects because *similar*, grew up (for the purpose of accounting for the supposed *oneness* in things said to have the *same* nature or qualities) both the Platonic *Ideas*, and also the *Substantial Forms* and _Second Substances_ of the Aristotelians, even though the latter did see the distinction between things differing both *specie* and *numero*, and those differing *numero* only. And thence, too, sprang Berkeley's proof of the existence of a Universal Mind from the supposed need of such a Being to harbour, in the interval, the idea, which, one and the same (really, only two *similar* ideas), a man's mind has entertained at two distinct times. The difficulty in *Achilles and the Tortoise* arises from the use of *infinity*, or, *for ever*, in the premisses, to signify a finite time which is infinitely divisible, and, in the conclusion, to signify an infinite time. Thus, again, 'right' is used to express, both what others have no right to stop a man from doing, and also what it is not against his own duty to do; both what people are entitled to expect from, and also what they may enforce from others. The Fallacy of Composition and Division, i.e. the use of the same term in a syllogism, at one time in a collective, at another in a distributive sense, is one of the Fallacies of Ambiguous Terms. Examples of it are the arguments, that *great men* (collectively) could be dispensed with, because the place of any particular great man might have been supplied (i.e., in fact, by some other great man); and, that a high prize in a lottery may be reasonably expected (by *a certain individual*, viz. oneself), because a high prize is commonly gained (_by some one or other_)."
+  },
+  {
+    "id": "p-db839a",
+    "offset": 29752,
+    "text": "2. In Petitio Principii, the premisses are not even verbally sufficient for the conclusion, since one premiss is either clearly the same as the conclusion, or actually proved from it, or not susceptible of any other proof. Men commonly fall into it, through believing that the premiss *was* verified, though they have forgotten how. But the variety, termed Reasoning in a Circle, implies a conscious attempt to prove two propositions reciprocally from each other. This formal proof is not often attempted, except under the pressure of controversy; but, from mistaking mutual coherency for truth, propositions, which cannot be proved except from each other, are often *admitted*, when expressed in different language, without other proof. Frequently a proposition is presented in abstract terms as a proof of the same in concrete, as, in Molière's parody, 'L'opium endormit parcequ'il a une vertu soporifique.' So, some qualities of a thing selected arbitrarily are termed its nature or essence, and then reasoned from as though not able to be counteracted by any of the rest. 'Question-begging appellatives,' particularly, are cases of Petitio Principii, e.g. the styling any reform an *innovation*, which it really is, only that *innovation* conveys, besides its dictionary meaning, a covert sense of something extreme. Thus, in Cicero's De Finibus, 'Cupiditas,' which usually implies vice, is used to express certain desires the moral character of which is the point in question. Again, the infinite divisibility of matter was assumed by the argument which was used to prove it, viz. that the least portion of matter must have both an upper and an under surface (which, as every other Fallacy of Confusion, when cleared up, appears as a fallacy of a different sort, under shelter of which, as indeed in ratiocinative fallacies generally, the mere verbal juggle at first escapes detection). Such, again, was Euler's argument, that *minus* multiplied by *minus* gives *plus*, *because* it could not give the same as *minus* multiplied by *plus*, which gives *minus*. So, some ethical writers begin by assuming, that certain general sentiments are the *natural* sentiments of mankind, and thence argue that any which differ are morbid and *unnatural*. Thus, lastly, Hobbes and Rousseau rested the existence of government and law on a supposed social compact, and not on men's perception of the interests of society, which, however, could be the only ground for their abiding by such compact if a fact."
+  },
+  {
+    "id": "p-65eae8",
+    "offset": 32254,
+    "text": "3. In Ignoratio Elenchi, or, the Fallacy of Irrelevant Conclusion, the error lies not either in mistaking the import of the premisses, or in forgetting what they are, but in mistaking what is the conclusion to be proved. Sometimes, a particular is substituted for the universal as the proposition needing proof, and sometimes, a proposition with different terms. Under this fallacy come the cases, not only of proving what was not denied, but of disproving what was not asserted; e.g. the argument used against Malthus (whose own position was, that population increases only *in so far as not kept down* by prudence, or by poverty and disease), that, at times, population has been nearly stationary; or again, that, in some country or other, population and comfort are increasing together, Malthus himself having asserted that this might be so, if capital has increased. Similarly, even Reid, Stewart, and Brown (not merely Dr. Johnson) urged that Berkeley ought, if consistent, to have run his head against a post, as though the non-recognition of an occult *cause* of sensations implies disbelief in any _fixed order among them_."
+  }
+]

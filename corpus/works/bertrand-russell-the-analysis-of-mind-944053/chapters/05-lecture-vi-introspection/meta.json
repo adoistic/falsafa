@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-the-analysis-of-mind-944053",
+  "work_title": "The Analysis of Mind",
+  "chapter_number": 5,
+  "chapter_title": "Lecture VI — INTROSPECTION",
+  "chapter_slug": "05-lecture-vi-introspection",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "80a29111-952f-5321-aa98-e00db92d78b8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4623,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/2529"
+    }
+  ]
+}

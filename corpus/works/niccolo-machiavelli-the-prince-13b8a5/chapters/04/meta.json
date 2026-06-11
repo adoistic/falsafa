@@ -1,0 +1,26 @@
+{
+  "work_slug": "niccolo-machiavelli-the-prince-13b8a5",
+  "work_title": "The Prince",
+  "chapter_number": 4,
+  "chapter_title": "Chapter IV — WHY THE KINGDOM OF DARIUS, CONQUERED BY ALEXANDER, DID NOT REBEL",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ced7d583-4a94-5386-9af0-d8abdb3453de",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 961,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1232"
+    }
+  ]
+}

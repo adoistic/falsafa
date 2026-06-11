@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-nietzsche-the-case-of-wagner-nietzsche-con-cf0495",
+  "work_title": "The Case of Wagner, Nietzsche Contra Wagner, and Selected Aphorisms",
+  "chapter_number": 1,
+  "chapter_title": "The Case of Wagner, Nietzsche Contra Wagner, and Selected Aphorisms",
+  "chapter_slug": "01-the-case-of-wagner-nietzsche-contra-wagner-and-sel",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "82aad48f-8761-51e4-bdba-c49e39b93590",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 27475,
+      "paragraph_count": 254,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/25012"
+    }
+  ]
+}

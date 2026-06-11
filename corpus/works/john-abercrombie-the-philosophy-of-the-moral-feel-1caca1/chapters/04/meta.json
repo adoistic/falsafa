@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-abercrombie-the-philosophy-of-the-moral-feel-1caca1",
+  "work_title": "The Philosophy of the Moral Feelings",
+  "chapter_number": 4,
+  "chapter_title": "Part IV",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b60113bc-5e4d-51c3-8490-e05e2bf97317",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9752,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/22364"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "p-09cde3",
+    "offset": 0,
+    "text": "THE REMAINING LAWS OF NATURE."
+  },
+  {
+    "id": "p-e436ea",
+    "offset": 31,
+    "text": "There are, we have seen, five facts, one of which every proposition must assert, viz. Existence, Order in Place, Order in Time, Causation, and Resemblance. Causation is not fundamentally different from Coexistence and Sequence, which are the two modes of Order in Time. They have been already discussed. Of the rest, Existence, if of things in themselves, is a topic for Metaphysics, Logic regarding the existence of *phenomena* only; and as this, when it is not perceived directly, is proved by proving that the unknown phenomenon is connected by _succession or coexistence_ with some known phenomenon, the fact of Existence is not amenable to any *peculiar* inductive principles. There remain Resemblance and Order in Place."
+  },
+  {
+    "id": "p-ddc055",
+    "offset": 759,
+    "text": "As for Resemblance, Locke indeed, and, in a more unqualified way, his school, asserted that all reasoning is simply a comparison of two ideas by means of a third, and that knowledge is only the perception of the agreement or disagreement, that is, the resemblance or dissimilarity, of two ideas: they did not perceive, besides erring in supposing ideas, and not the phenomena themselves, to be the subjects of reasoning, that it is only sometimes (as, particularly, in the sciences of Quantity and Extension) that the agreement or disagreement of two things is the one thing to be established. Reasonings, however, about *Resemblances*, whenever the two things cannot be directly compared by the virtually simultaneous application of our faculties to each, do agree with Locke's account of reasoning; being, in fact, simply such a comparison of two things through the medium of a third. There are laws or formulæ for guiding the comparison; but the only ones which do not come under the principles of Induction already discussed, are the mathematical axioms of Equality, Inequality, and Proportionality, and the theorems based on them. For these, which are true of all phenomena, or, at least, without distinction of origin, have no connection with laws of Causation, whereas all other theorems asserting resemblance have, being true only of special phenomena originating in a certain way, and the resemblances between which phenomena must be derived from, or be identical with, the laws of their causes."
+  },
+  {
+    "id": "p-13bd5b",
+    "offset": 2265,
+    "text": "In respect to Order in Place, as well as in respect to Resemblance, some mathematical truths are the only general propositions which, as being independent of Causation, require separate consideration. Such are certain geometrical laws, through which, from the position of certain points, lines, or spaces, we infer the position of others, without any reference to their physical causes, or to their special nature, except as regards position or magnitude. There is no other peculiarity as respects Order in Place. For, the Order in Place of effects is of course a mere consequence of the laws of their causes; and, as for primæval causes, in *their* Order in Place, called their *collocation*, no uniformities are traceable."
+  },
+  {
+    "id": "p-9ace5b",
+    "offset": 2991,
+    "text": "Hence, only the methods of Mathematics remain to be investigated; and they are partly discussed in the Second Book. The directly inductive truths of Mathematics are few: being, first, certain propositions about existence, tacitly involved in the so-called definitions; and secondly, the axioms, to which latter, though resting only on induction, _per simplicem enumerationem_, there could never have been even any apparent exceptions. Thus, every arithmetical calculation rests (and this is what makes Arithmetic the type of a deductive science) on the evidence of the axiom: The sums of equals are equals (which is coextensive with nature itself)--combined with the definitions of the numbers, which are severally made up of the explanation of the name, which connotes the way in which the particular agglomeration is composed, and of the assertion of a fact, viz. the physical property so connoted."
+  },
+  {
+    "id": "p-a71355",
+    "offset": 3893,
+    "text": "The propositions of Arithmetic affirm the modes of formation of given numbers, and are true of all things under the condition of being divided in a particular way. Algebraical propositions, on the other hand, affirm the equivalence of different modes of formation of numbers generally, and are true of all things under condition of being divided in *any* way."
+  },
+  {
+    "id": "p-a25603",
+    "offset": 4254,
+    "text": "Though the laws of Extension are not, like those of Number, remote from visual and tactual imagination, Geometry has not commonly been recognised as a strictly physical science. The reason is, first, the possibility of collecting its facts as effectually from the ideas as from the objects; and secondly, the illusion that its ideal data are not mere hypotheses, like those in now deductive physical sciences, but a peculiar class of realities, and that therefore its conclusions are *exceptionally* demonstrative. Really, all geometrical theorems are laws of external nature. They might have been got by generalising from actual comparison and measurement; only, that it was found practicable to deduce them from a few obviously true general laws, viz. The sums of equals are equals; things equal to the same thing are equal to one another (which two belong to the Science of Number also); and, thirdly (what is no merely verbal definition, though it has been so called): Lines, surfaces, solid spaces, which can be so applied to one another as to coincide, are equal. The rest of the premisses of Geometry consist of the so-called definitions, which assert, together with one or more properties, the real existence of objects corresponding to the names to be defined. The reason why the premisses are so few, and why Geometry is thus almost entirely deductive, is, that all questions of position and figure, that is, of quality, may be resolved into questions of quantity or magnitude, and so Geometry may be reduced to the one problem of the measurement of magnitudes; that is, to the finding the equalities between them."
+  },
+  {
+    "id": "p-570e76",
+    "offset": 5880,
+    "text": "Mathematical principles can be applied to other sciences. All causes operate according to mathematical laws; an effect being ever dependent on the quantity or a function of the agent, and generally on its position too. Mathematical principles cannot, indeed, as M. Comte has well explained, be usefully applied to physical questions, whenever the causes are either too inaccessible for their numerical laws to be ascertained, or are too complex for *us* to compute the effect, or are ever fluctuating. And, in proportion as physical questions cease to be abstract and hypothetical, mathematical solutions of them become imperfect. But the great value of mathematical training is, that we learn to use its *method* (which is the most perfect type of the Deductive Method), that is, we learn to employ the laws of simpler phenomena to explain and predict those of the more complex."
+  }
+]

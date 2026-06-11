@@ -1,0 +1,247 @@
+[
+  {
+    "id": "p-ab82a9",
+    "offset": 0,
+    "text": "PROPOSITIONS."
+  },
+  {
+    "id": "p-4434d4",
+    "offset": 15,
+    "text": "CHAPTER I."
+  },
+  {
+    "id": "p-d5a4a7",
+    "offset": 27,
+    "text": "*PROPOSITIONS GENERALLY.*"
+  },
+  {
+    "id": "p-ae0d41",
+    "offset": 54,
+    "text": "*Introductory.*"
+  },
+  {
+    "id": "p-882edf",
+    "offset": 71,
+    "text": "Note that the word \"some\" is to be regarded, henceforward, as meaning \"one or more.\""
+  },
+  {
+    "id": "p-6fa960",
+    "offset": 157,
+    "text": "The word 'Proposition,' as used in ordinary conversation, may be applied to *any* word, or phrase, which conveys any information whatever."
+  },
+  {
+    "id": "p-59d1d3",
+    "offset": 297,
+    "text": "[Thus the words \"yes\" and \"no\" are Propositions in the ordinary sense of the word; and so are the phrases \"you owe me five farthings\" and \"I don't!\""
+  },
+  {
+    "id": "p-9d2682",
+    "offset": 447,
+    "text": "Such words as \"oh!\" or \"never!\", and such phrases as \"fetch me that book!\" \"which book do you mean?\" do not seem, at first sight, to convey any *information*; but they can easily be turned into equivalent forms which do so, viz. \"I am surprised,\" \"I will never consent to it,\" \"I order you to fetch me that book,\" \"I want to know which book you mean.\"]"
+  },
+  {
+    "id": "p-e015cf",
+    "offset": 801,
+    "text": "But a '=Proposition=,' as used in this First Part of \"Symbolic Logic,\" has a peculiar form, which may be called its '=Normal form='; and if any Proposition, which we wish to use in an argument, is not in normal form, we must reduce it to such a form, before we can use it. pg009 A '=Proposition=,' when in normal form, asserts, as to certain two Classes, which are called its '=Subject=' and '=Predicate=,' either"
+  },
+  {
+    "id": "p-654fb1",
+    "offset": 1216,
+    "text": "(1) that *some* Members of its Subject are Members of its Predicate;"
+  },
+  {
+    "id": "p-b009d6",
+    "offset": 1286,
+    "text": "or (2) that *no* Members of its Subject are Members of its Predicate;"
+  },
+  {
+    "id": "p-9c853a",
+    "offset": 1357,
+    "text": "or (3) that *all* Members of its Subject are Members of its Predicate."
+  },
+  {
+    "id": "p-05ac5a",
+    "offset": 1429,
+    "text": "The Subject and the Predicate of a Proposition are called its '=Terms=.'"
+  },
+  {
+    "id": "p-e0b752",
+    "offset": 1503,
+    "text": "Two Propositions, which convey the *same* information, are said to be '=equivalent='."
+  },
+  {
+    "id": "p-d41c15",
+    "offset": 1590,
+    "text": "[Thus, the two Propositions, \"I see John\" and \"John is seen by me,\" are equivalent.]"
+  },
+  {
+    "id": "p-1d7c86",
+    "offset": 1676,
+    "text": "*Normal form of a Proposition.*"
+  },
+  {
+    "id": "p-4ba968",
+    "offset": 1709,
+    "text": "A Proposition, in normal form, consists of four parts, viz.--"
+  },
+  {
+    "id": "p-ab58cb",
+    "offset": 1772,
+    "text": "(1) The word \"some,\" or \"no,\" or \"all.\" (This word, which tells us *how many* Members of the Subject are also Members of the Predicate, is called the '=Sign of Quantity=.')"
+  },
+  {
+    "id": "p-10911c",
+    "offset": 1946,
+    "text": "(2) Name of Subject."
+  },
+  {
+    "id": "p-cb2311",
+    "offset": 1968,
+    "text": "(3) The verb \"are\" (or \"is\"). (This is called the '=Copula=.')"
+  },
+  {
+    "id": "p-25bfcc",
+    "offset": 2032,
+    "text": "(4) Name of Predicate."
+  },
+  {
+    "id": "p-d47f3d",
+    "offset": 2056,
+    "text": "*Various kinds of Propositions.*"
+  },
+  {
+    "id": "p-58fcb3",
+    "offset": 2090,
+    "text": "A Proposition, that begins with \"Some\", is said to be '=Particular=.' It is also called 'a Proposition =in I=.'"
+  },
+  {
+    "id": "p-6d5d42",
+    "offset": 2203,
+    "text": "[Note, that it is called 'Particular,' because it refers to a *part* only of the Subject.]"
+  },
+  {
+    "id": "p-961a8f",
+    "offset": 2295,
+    "text": "A Proposition, that begins with \"No\", is said to be '=Universal Negative=.' It is also called 'a Proposition =in E=.'"
+  },
+  {
+    "id": "p-677d33",
+    "offset": 2414,
+    "text": "A Proposition, that begins with \"All\", is said to be '=Universal Affirmative=.' It is also called 'a Proposition =in A=.'"
+  },
+  {
+    "id": "p-e333ea",
+    "offset": 2537,
+    "text": "[Note, that they are called 'Universal', because they refer to the *whole* of the Subject.]"
+  },
+  {
+    "id": "p-4ff0a6",
+    "offset": 2630,
+    "text": "A Proposition, whose Subject is an *Individual*, is to be regarded as *Universal*."
+  },
+  {
+    "id": "p-db14c1",
+    "offset": 2714,
+    "text": "[Let us take, as an example, the Proposition \"John is not well\". This of course implies that there is an *Individual*, to whom the speaker refers when he mentions \"John\", and whom the listener *knows* to be referred to. Hence the Class \"men referred to by the speaker when he mentions 'John'\" is a one-Member Class, and the Proposition is equivalent to \"*All* the men, who are referred to by the speaker when he mentions 'John', are not well.\"]"
+  },
+  {
+    "id": "p-89c60d",
+    "offset": 3160,
+    "text": "Propositions are of two kinds, 'Propositions of Existence' and 'Propositions of Relation.'"
+  },
+  {
+    "id": "p-ca1bfa",
+    "offset": 3252,
+    "text": "These shall be discussed separately."
+  },
+  {
+    "id": "p-333fc7",
+    "offset": 3290,
+    "text": "CHAPTER II."
+  },
+  {
+    "id": "p-0298eb",
+    "offset": 3303,
+    "text": "*PROPOSITIONS OF EXISTENCE.*"
+  },
+  {
+    "id": "p-d0a0db",
+    "offset": 3333,
+    "text": "A '=Proposition of Existence=', when in normal form, has, for its *Subject*, the Class \"existing Things\"."
+  },
+  {
+    "id": "p-871ea5",
+    "offset": 3440,
+    "text": "Its Sign of Quantity is \"Some\" or \"No\"."
+  },
+  {
+    "id": "p-5bbe23",
+    "offset": 3481,
+    "text": "[Note that, though its Sign of Quantity tells us *how many* existing Things are Members of its Predicate, it does *not* tell us the *exact* number: in fact, it only deals with *two* numbers, which are, in ascending order, \"0\" and \"1 or more.\"]"
+  },
+  {
+    "id": "p-827e65",
+    "offset": 3726,
+    "text": "It is called \"a Proposition of Existence\" because its effect is to assert the *Reality* (i.e. the real *existence*), or else the *Imaginariness*, of its Predicate."
+  },
+  {
+    "id": "p-e7cebb",
+    "offset": 3891,
+    "text": "[Thus, the Proposition \"Some existing Things are honest men\" asserts that the Class \"honest men\" is *Real*."
+  },
+  {
+    "id": "p-8d6c3b",
+    "offset": 4000,
+    "text": "This is the *normal* form; but it may also be expressed in any one of the following forms:--"
+  },
+  {
+    "id": "p-e37964",
+    "offset": 4094,
+    "text": "(1) \"Honest men exist\"; (2) \"Some honest men exist\"; (3) \"The Class 'honest men' exists\"; (4) \"There are honest men\"; (5) \"There are some honest men\"."
+  },
+  {
+    "id": "p-ffd3f4",
+    "offset": 4246,
+    "text": "Similarly, the Proposition \"No existing Things are men fifty feet high\" asserts that the Class \"men 50 feet high\" is *Imaginary*."
+  },
+  {
+    "id": "p-8d6c3b",
+    "offset": 4377,
+    "text": "This is the *normal* form; but it may also be expressed in any one of the following forms:--"
+  },
+  {
+    "id": "p-36bec3",
+    "offset": 4471,
+    "text": "(1) \"Men 50 feet high do not exist\"; (2) \"No men 50 feet high exist\"; (3) \"The Class 'men 50 feet high' does not exist\"; (4) \"There are not any men 50 feet high\"; (5) \"There are no men 50 feet high.\"]"
+  },
+  {
+    "id": "p-368057",
+    "offset": 4673,
+    "text": "CHAPTER III."
+  },
+  {
+    "id": "p-795406",
+    "offset": 4687,
+    "text": "*PROPOSITIONS OF RELATION.*"
+  },
+  {
+    "id": "p-ae0d41",
+    "offset": 4716,
+    "text": "*Introductory.*"
+  },
+  {
+    "id": "p-0ad1e9",
+    "offset": 4733,
+    "text": "A =Proposition of Relation=, of the kind to be here discussed, has, for its Terms, two Specieses of the same Genus, such that each of the two Names conveys the idea of some Attribute *not* conveyed by the other."
+  },
+  {
+    "id": "p-b73b5d",
+    "offset": 4946,
+    "text": "[Thus, the Proposition \"Some merchants are misers\" is of the right kind, since \"merchants\" and \"misers\" are Specieses of the same Genus \"men\"; and since the Name \"merchants\" conveys the idea of the Attribute \"mercantile\", and the name \"misers\" the idea of the Attribute \"miserly\", each of which ideas is *not* conveyed by the other Name."
+  },
+  {
+    "id": "p-1b2de3",
+    "offset": 5285,
+    "text": "But the Proposition \"Some dogs are setters\" is *not* of the right kind, since, although it is true that \"dogs\" and \"setters\" are Specieses of the same Genus \"animals\", it is *not* true that the Name \"dogs\" conveys the idea of any Attribute not conveyed by the Name \"setters\". Such Propositions will be discussed in"
+  }
+]

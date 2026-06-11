@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-hume-an-enquiry-concerning-the-princi-ffdd48",
+  "work_title": "An Enquiry Concerning the Principles of Morals",
+  "chapter_number": 5,
+  "chapter_title": "Section V — WHY UTILITY PLEASES",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "988461eb-03e1-5d33-b7a5-e90d74e046c2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5653,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4320"
+    }
+  ]
+}

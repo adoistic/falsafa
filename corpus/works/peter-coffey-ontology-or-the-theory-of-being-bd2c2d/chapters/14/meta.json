@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
+  "work_title": "Ontology, or the Theory of Being",
+  "chapter_number": 14,
+  "chapter_title": "Chapter XIV — EFFICIENT CAUSALITY; PHENOMENISM AND OCCASIONALISM",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4cf86e10-835f-53dc-a9ec-c2c8be898035",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8811,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/35722"
+    }
+  ]
+}

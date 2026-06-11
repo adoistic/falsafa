@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-hume-a-treatise-of-human-nature-ce1af6",
+  "work_title": "A Treatise of Human Nature",
+  "chapter_number": 3,
+  "chapter_title": "Book II — OF THE PASSIONS",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "62daa805-ce98-5796-a2d2-4c611addfebd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 61777,
+      "paragraph_count": 449,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4705"
+    }
+  ]
+}

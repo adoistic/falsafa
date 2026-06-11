@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-06-11T12:51:37.827Z",
+ "generated_at": "2026-06-11T14:23:58.820Z",
  "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
  "counts": {
-  "works": 860,
-  "authors": 109,
-  "eras": 9,
-  "genres": 6,
+  "works": 945,
+  "authors": 158,
+  "eras": 10,
+  "genres": 18,
   "languages": 9
  },
  "works": [
@@ -16348,6 +16348,1621 @@
    "difficulty": "Intermediate",
    "description": "Ab urbe condita, in English translation from the Perseus Digital Library (tr. Rev Canon), with the Latin original.",
    "thothica_role": "catalog"
+  },
+  {
+   "slug": "rene-descartes-discourse-on-the-method-e1eae3",
+   "title": "Discourse on the Method",
+   "author": "René Descartes",
+   "author_slug": "rene-descartes",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 6,
+   "total_variant_entries": 6,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Discourse on the Method, by René Descartes (1596-1650), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "karl-marx-the-communist-manifesto-a53cd1",
+   "title": "The Communist Manifesto",
+   "author": "Karl Marx",
+   "author_slug": "karl-marx",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Political Theory",
+   "genre_slug": "political-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 3,
+   "total_variant_entries": 3,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Communist Manifesto, by Karl Marx (1818-1883), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "bertrand-russell-proposed-roads-to-freedom-3ac9cb",
+   "title": "Proposed Roads to Freedom",
+   "author": "Bertrand Russell",
+   "author_slug": "bertrand-russell",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Political Theory",
+   "genre_slug": "political-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 8,
+   "total_variant_entries": 8,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Proposed Roads to Freedom, by Bertrand Russell (1872-1970), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-dewey-democracy-and-education-df209d",
+   "title": "Democracy and Education",
+   "author": "John Dewey",
+   "author_slug": "john-dewey",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy of Education",
+   "genre_slug": "philosophy-of-education",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Democracy and Education, by John Dewey (1859-1952), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "baruch-spinoza-ethics-02c22a",
+   "title": "Ethics",
+   "author": "Baruch Spinoza",
+   "author_slug": "baruch-spinoza",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 5,
+   "total_variant_entries": 5,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Ethics, by Baruch Spinoza (1632-1677), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "baruch-spinoza-theologico-political-treatise-pa-9c6d2d",
+   "title": "Theologico-Political Treatise, Part 1",
+   "author": "Baruch Spinoza",
+   "author_slug": "baruch-spinoza",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Political Theory",
+   "genre_slug": "political-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 5,
+   "total_variant_entries": 5,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Theologico-Political Treatise, Part 1, by Baruch Spinoza (1632-1677), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "baruch-spinoza-theologico-political-treatise-pa-dc01da",
+   "title": "Theologico-Political Treatise, Part 2",
+   "author": "Baruch Spinoza",
+   "author_slug": "baruch-spinoza",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Political Theory",
+   "genre_slug": "political-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Theologico-Political Treatise, Part 2, by Baruch Spinoza (1632-1677), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "baruch-spinoza-theologico-political-treatise-pa-3f6451",
+   "title": "Theologico-Political Treatise, Part 3",
+   "author": "Baruch Spinoza",
+   "author_slug": "baruch-spinoza",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Political Theory",
+   "genre_slug": "political-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 5,
+   "total_variant_entries": 5,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Theologico-Political Treatise, Part 3, by Baruch Spinoza (1632-1677), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "baruch-spinoza-theologico-political-treatise-pa-a4a76c",
+   "title": "Theologico-Political Treatise, Part 4",
+   "author": "Baruch Spinoza",
+   "author_slug": "baruch-spinoza",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Political Theory",
+   "genre_slug": "political-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Theologico-Political Treatise, Part 4, by Baruch Spinoza (1632-1677), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "baruch-spinoza-on-the-improvement-of-the-unders-23a33c",
+   "title": "On the Improvement of the Understanding",
+   "author": "Baruch Spinoza",
+   "author_slug": "baruch-spinoza",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "On the Improvement of the Understanding, by Baruch Spinoza (1632-1677), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "niccolo-machiavelli-the-prince-13b8a5",
+   "title": "The Prince",
+   "author": "Niccolò Machiavelli",
+   "author_slug": "niccolo-machiavelli",
+   "era": "Renaissance",
+   "era_slug": "renaissance",
+   "genre": "Political Theory",
+   "genre_slug": "political-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 26,
+   "total_variant_entries": 26,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Prince, by Niccolò Machiavelli (1469-1527), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "edouard-le-roy-a-new-philosophy-henri-bergson-056e87",
+   "title": "A New Philosophy: Henri Bergson",
+   "author": "Édouard Le Roy",
+   "author_slug": "edouard-le-roy",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 5,
+   "total_variant_entries": 5,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "A New Philosophy: Henri Bergson, by Édouard Le Roy (1870-1954), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+   "title": "Thus Spake Zarathustra",
+   "author": "Friedrich Nietzsche",
+   "author_slug": "friedrich-nietzsche",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Thus Spake Zarathustra, by Friedrich Nietzsche (1844-1900), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "friedrich-nietzsche-thus-spake-zarathustra-german-or-4faa1f",
+   "title": "Thus Spake Zarathustra (German original)",
+   "author": "Friedrich Nietzsche",
+   "author_slug": "friedrich-nietzsche",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "German",
+   "language_slug": "german",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Thus Spake Zarathustra (German original), by Friedrich Nietzsche (1844-1900), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "bertrand-russell-the-analysis-of-mind-944053",
+   "title": "The Analysis of Mind",
+   "author": "Bertrand Russell",
+   "author_slug": "bertrand-russell",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy of Mind",
+   "genre_slug": "philosophy-of-mind",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 16,
+   "total_variant_entries": 16,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Analysis of Mind, by Bertrand Russell (1872-1970), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "immanuel-kant-the-critique-of-pure-reason-dbaa24",
+   "title": "The Critique of Pure Reason",
+   "author": "Immanuel Kant",
+   "author_slug": "immanuel-kant",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Critique of Pure Reason, by Immanuel Kant (1724-1804), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "immanuel-kant-the-critique-of-pure-reason-germ-57f3ab",
+   "title": "The Critique of Pure Reason (German original)",
+   "author": "Immanuel Kant",
+   "author_slug": "immanuel-kant",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "German",
+   "language_slug": "german",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Critique of Pure Reason (German original), by Immanuel Kant (1724-1804), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "david-hume-an-enquiry-concerning-the-princi-ffdd48",
+   "title": "An Enquiry Concerning the Principles of Morals",
+   "author": "David Hume",
+   "author_slug": "david-hume",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 10,
+   "total_variant_entries": 10,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "An Enquiry Concerning the Principles of Morals, by David Hume (1711-1776), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "henri-bergson-laughter-an-essay-on-the-meaning-4ca582",
+   "title": "Laughter: An Essay on the Meaning of the Comic",
+   "author": "Henri Bergson",
+   "author_slug": "henri-bergson",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Aesthetics",
+   "genre_slug": "aesthetics",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 3,
+   "total_variant_entries": 3,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Laughter: An Essay on the Meaning of the Comic, by Henri Bergson (1859-1941), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "friedrich-nietzsche-beyond-good-and-evil-7eb383",
+   "title": "Beyond Good and Evil",
+   "author": "Friedrich Nietzsche",
+   "author_slug": "friedrich-nietzsche",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 9,
+   "total_variant_entries": 9,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Beyond Good and Evil, by Friedrich Nietzsche (1844-1900), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "rene-descartes-selections-from-the-principles-o-d4ee5f",
+   "title": "Selections from the Principles of Philosophy",
+   "author": "René Descartes",
+   "author_slug": "rene-descartes",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 4,
+   "total_variant_entries": 4,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Selections from the Principles of Philosophy, by René Descartes (1596-1650), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "david-hume-dialogues-concerning-natural-rel-1d199f",
+   "title": "Dialogues Concerning Natural Religion",
+   "author": "David Hume",
+   "author_slug": "david-hume",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy of Religion",
+   "genre_slug": "philosophy-of-religion",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 12,
+   "total_variant_entries": 12,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Dialogues Concerning Natural Religion, by David Hume (1711-1776), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "david-hume-a-treatise-of-human-nature-ce1af6",
+   "title": "A Treatise of Human Nature",
+   "author": "David Hume",
+   "author_slug": "david-hume",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 6,
+   "total_variant_entries": 6,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "A Treatise of Human Nature, by David Hume (1711-1776), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "george-berkeley-a-treatise-concerning-the-princi-a03666",
+   "title": "A Treatise Concerning the Principles of Human Knowledge",
+   "author": "George Berkeley",
+   "author_slug": "george-berkeley",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "A Treatise Concerning the Principles of Human Knowledge, by George Berkeley (1685-1753), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "george-berkeley-three-dialogues-between-hylas-an-9d9ec8",
+   "title": "Three Dialogues Between Hylas and Philonous",
+   "author": "George Berkeley",
+   "author_slug": "george-berkeley",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Three Dialogues Between Hylas and Philonous, by George Berkeley (1685-1753), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "david-starr-jordan-the-philosophy-of-despair-115696",
+   "title": "The Philosophy of Despair",
+   "author": "David Starr Jordan",
+   "author_slug": "david-starr-jordan",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Philosophy of Despair, by David Starr Jordan (1851-1931), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "lewis-carroll-the-game-of-logic-8f7431",
+   "title": "The Game of Logic",
+   "author": "Lewis Carroll",
+   "author_slug": "lewis-carroll",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Logic",
+   "genre_slug": "logic",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 4,
+   "total_variant_entries": 4,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Game of Logic, by Lewis Carroll (1832-1898), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "bertrand-russell-political-ideals-167b51",
+   "title": "Political Ideals",
+   "author": "Bertrand Russell",
+   "author_slug": "bertrand-russell",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Political Theory",
+   "genre_slug": "political-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Political Ideals, by Bertrand Russell (1872-1970), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "kaiten-nukariya-the-religion-of-the-samurai-a-st-193778",
+   "title": "The Religion of the Samurai: A Study of Zen Philosophy",
+   "author": "Kaiten Nukariya",
+   "author_slug": "kaiten-nukariya",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 8,
+   "total_variant_entries": 8,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Religion of the Samurai: A Study of Zen Philosophy, by Kaiten Nukariya (1867-1934), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-alexander-gunn-modern-french-philosophy-a-study-6b06ab",
+   "title": "Modern French Philosophy: A Study of the Development Since Comte",
+   "author": "John Alexander Gunn",
+   "author_slug": "john-alexander-gunn",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 7,
+   "total_variant_entries": 7,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Modern French Philosophy: A Study of the Development Since Comte, by John Alexander Gunn (1896-1975), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "michel-de-montaigne-literary-and-philosophical-essay-6e6fc6",
+   "title": "Literary and Philosophical Essays: French, German and Italian",
+   "author": "Michel de Montaigne",
+   "author_slug": "michel-de-montaigne",
+   "era": "Renaissance",
+   "era_slug": "renaissance",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Literary and Philosophical Essays: French, German and Italian, by Michel de Montaigne (1533-1592), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-stuart-mill-considerations-on-representative-ccd97d",
+   "title": "Considerations on Representative Government",
+   "author": "John Stuart Mill",
+   "author_slug": "john-stuart-mill",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Political Theory",
+   "genre_slug": "political-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Considerations on Representative Government, by John Stuart Mill (1806-1873), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-alexander-gunn-bergson-and-his-philosophy-6671b6",
+   "title": "Bergson and His Philosophy",
+   "author": "John Alexander Gunn",
+   "author_slug": "john-alexander-gunn",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 12,
+   "total_variant_entries": 12,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Bergson and His Philosophy, by John Alexander Gunn (1896-1975), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "bertrand-russell-the-problems-of-philosophy-47c80e",
+   "title": "The Problems of Philosophy",
+   "author": "Bertrand Russell",
+   "author_slug": "bertrand-russell",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 15,
+   "total_variant_entries": 15,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Problems of Philosophy, by Bertrand Russell (1872-1970), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "dewitt-h-parker-the-principles-of-aesthetics-d4e238",
+   "title": "The Principles of Aesthetics",
+   "author": "DeWitt H. Parker",
+   "author_slug": "dewitt-h-parker",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Aesthetics",
+   "genre_slug": "aesthetics",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 16,
+   "total_variant_entries": 16,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Principles of Aesthetics, by DeWitt H. Parker (1885-1949), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "st-george-william-joseph-deductive-logic-2f2706",
+   "title": "Deductive Logic",
+   "author": "St. George William Joseph Stock",
+   "author_slug": "st-george-william-joseph-stock",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Logic",
+   "genre_slug": "logic",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 29,
+   "total_variant_entries": 29,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Deductive Logic, by St. George William Joseph Stock (1850-1930), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "friedrich-schiller-aesthetical-essays-8efa06",
+   "title": "Aesthetical Essays",
+   "author": "Friedrich Schiller",
+   "author_slug": "friedrich-schiller",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Aesthetics",
+   "genre_slug": "aesthetics",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Aesthetical Essays, by Friedrich Schiller (1759-1805), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "friedrich-schiller-philosophical-letters-c69c0d",
+   "title": "Philosophical Letters",
+   "author": "Friedrich Schiller",
+   "author_slug": "friedrich-schiller",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Philosophical Letters, by Friedrich Schiller (1759-1805), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-locke-second-treatise-of-government-99e9e5",
+   "title": "Second Treatise of Government",
+   "author": "John Locke",
+   "author_slug": "john-locke",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Political Theory",
+   "genre_slug": "political-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Second Treatise of Government, by John Locke (1632-1704), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "st-george-william-joseph-a-guide-to-stoicism-720b0e",
+   "title": "A Guide to Stoicism",
+   "author": "St. George William Joseph Stock",
+   "author_slug": "st-george-william-joseph-stock",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "A Guide to Stoicism, by St. George William Joseph Stock (1850-1930), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "simon-dubnow-jewish-history-an-essay-in-the-p-c6003c",
+   "title": "Jewish History: An Essay in the Philosophy of History",
+   "author": "Simon Dubnow",
+   "author_slug": "simon-dubnow",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy of History",
+   "genre_slug": "philosophy-of-history",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Jewish History: An Essay in the Philosophy of History, by Simon Dubnow (1860-1941), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "emile-faguet-initiation-into-philosophy-db6cb4",
+   "title": "Initiation into Philosophy",
+   "author": "Émile Faguet",
+   "author_slug": "emile-faguet",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 12,
+   "total_variant_entries": 12,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Initiation into Philosophy, by Émile Faguet (1847-1916), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "david-hume-an-enquiry-concerning-human-unde-4954ef",
+   "title": "An Enquiry Concerning Human Understanding",
+   "author": "David Hume",
+   "author_slug": "david-hume",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 14,
+   "total_variant_entries": 14,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "An Enquiry Concerning Human Understanding, by David Hume (1711-1776), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "thomas-taylor-introduction-to-the-philosophy-a-3fcd63",
+   "title": "Introduction to the Philosophy and Writings of Plato",
+   "author": "Thomas Taylor",
+   "author_slug": "thomas-taylor",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Introduction to the Philosophy and Writings of Plato, by Thomas Taylor (1758-1835), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-stuart-mill-autobiography-fd9256",
+   "title": "Autobiography",
+   "author": "John Stuart Mill",
+   "author_slug": "john-stuart-mill",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 7,
+   "total_variant_entries": 7,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Autobiography, by John Stuart Mill (1806-1873), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "richard-falckenberg-history-of-modern-philosophy-fro-e856c2",
+   "title": "History of Modern Philosophy from Nicolas of Cusa to the Present Time",
+   "author": "Richard Falckenberg",
+   "author_slug": "richard-falckenberg",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "History of Philosophy",
+   "genre_slug": "history-of-philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 17,
+   "total_variant_entries": 17,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "History of Modern Philosophy from Nicolas of Cusa to the Present Time, by Richard Falckenberg (1851-1920), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-stuart-mill-utilitarianism-c4210a",
+   "title": "Utilitarianism",
+   "author": "John Stuart Mill",
+   "author_slug": "john-stuart-mill",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 5,
+   "total_variant_entries": 5,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Utilitarianism, by John Stuart Mill (1806-1873), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "william-james-a-pluralistic-universe-6dc780",
+   "title": "A Pluralistic Universe",
+   "author": "William James",
+   "author_slug": "william-james",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "A Pluralistic Universe, by William James (1842-1910), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "george-grote-review-of-mr-john-stuart-mills-e-899caa",
+   "title": "Review of Mr. John Stuart Mill's Examination of Sir William Hamilton's Philosophy",
+   "author": "George Grote",
+   "author_slug": "george-grote",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Review of Mr. John Stuart Mill's Examination of Sir William Hamilton's Philosophy, by George Grote (1794-1871), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-stuart-mill-essays-on-some-unsettled-questio-0b285d",
+   "title": "Essays on Some Unsettled Questions of Political Economy",
+   "author": "John Stuart Mill",
+   "author_slug": "john-stuart-mill",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Political Economy",
+   "genre_slug": "political-economy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Essays on Some Unsettled Questions of Political Economy, by John Stuart Mill (1806-1873), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-morley-burke-cfb4a4",
+   "title": "Burke",
+   "author": "John Morley",
+   "author_slug": "john-morley",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 10,
+   "total_variant_entries": 10,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Burke, by John Morley (1838-1923), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "surendranath-dasgupta-a-history-of-indian-philosophy-v-f7aab9",
+   "title": "A History of Indian Philosophy, Volume 1",
+   "author": "Surendranath Dasgupta",
+   "author_slug": "surendranath-dasgupta",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "History of Philosophy",
+   "genre_slug": "history-of-philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 10,
+   "total_variant_entries": 10,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "A History of Indian Philosophy, Volume 1, by Surendranath Dasgupta (1885-1952), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "richard-william-church-bacon-d0bce2",
+   "title": "Bacon",
+   "author": "Richard William Church",
+   "author_slug": "richard-william-church",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 9,
+   "total_variant_entries": 9,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Bacon, by Richard William Church (1815-1890), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "abel-j-jones-rudolf-eucken-a-philosophy-of-li-06d56c",
+   "title": "Rudolf Eucken: A Philosophy of Life",
+   "author": "Abel J. Jones",
+   "author_slug": "abel-j-jones",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 9,
+   "total_variant_entries": 9,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Rudolf Eucken: A Philosophy of Life, by Abel J. Jones (1878-1949), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa",
+   "title": "An Introduction to Philosophy",
+   "author": "George Stuart Fullerton",
+   "author_slug": "george-stuart-fullerton",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 25,
+   "total_variant_entries": 25,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "An Introduction to Philosophy, by George Stuart Fullerton (1859-1925), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "george-santayana-some-turns-of-thought-in-modern--aa7ad8",
+   "title": "Some Turns of Thought in Modern Philosophy: Five Essays",
+   "author": "George Santayana",
+   "author_slug": "george-santayana",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Some Turns of Thought in Modern Philosophy: Five Essays, by George Santayana (1863-1952), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-stuart-mill-auguste-comte-and-positivism-28d0b7",
+   "title": "Auguste Comte and Positivism",
+   "author": "John Stuart Mill",
+   "author_slug": "john-stuart-mill",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 2,
+   "total_variant_entries": 2,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Auguste Comte and Positivism, by John Stuart Mill (1806-1873), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "w-tudor-jones-an-interpretation-of-rudolf-euck-0aebbd",
+   "title": "An Interpretation of Rudolf Eucken's Philosophy",
+   "author": "W. Tudor Jones",
+   "author_slug": "w-tudor-jones",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 13,
+   "total_variant_entries": 13,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "An Interpretation of Rudolf Eucken's Philosophy, by W. Tudor Jones (1865-1946), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f",
+   "title": "Sextus Empiricus and Greek Scepticism",
+   "author": "Mary Mills Patrick",
+   "author_slug": "mary-mills-patrick",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "History of Philosophy",
+   "genre_slug": "history-of-philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 33,
+   "total_variant_entries": 33,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Sextus Empiricus and Greek Scepticism, by Mary Mills Patrick (1850-1940), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "friedrich-nietzsche-homer-and-classical-philology-2091a4",
+   "title": "Homer and Classical Philology",
+   "author": "Friedrich Nietzsche",
+   "author_slug": "friedrich-nietzsche",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Homer and Classical Philology, by Friedrich Nietzsche (1844-1900), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "carveth-read-logic-deductive-and-inductive-35f4d9",
+   "title": "Logic: Deductive and Inductive",
+   "author": "Carveth Read",
+   "author_slug": "carveth-read",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Logic",
+   "genre_slug": "logic",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 24,
+   "total_variant_entries": 24,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Logic: Deductive and Inductive, by Carveth Read (1848-1931), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "friedrich-nietzsche-the-antichrist-1ace0e",
+   "title": "The Antichrist",
+   "author": "Friedrich Nietzsche",
+   "author_slug": "friedrich-nietzsche",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Antichrist, by Friedrich Nietzsche (1844-1900), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-marshall-a-short-history-of-greek-philoso-70c117",
+   "title": "A Short History of Greek Philosophy",
+   "author": "John Marshall",
+   "author_slug": "john-marshall",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "History of Philosophy",
+   "genre_slug": "history-of-philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 21,
+   "total_variant_entries": 21,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "A Short History of Greek Philosophy, by John Marshall (1845-1915), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "george-everett-partridge-the-psychology-of-nations-a-cont-f19467",
+   "title": "The Psychology of Nations: A Contribution to the Philosophy of History",
+   "author": "George Everett Partridge",
+   "author_slug": "george-everett-partridge",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy of History",
+   "genre_slug": "philosophy-of-history",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 14,
+   "total_variant_entries": 14,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Psychology of Nations: A Contribution to the Philosophy of History, by George Everett Partridge (1870-1953), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-morley-critical-miscellanies-vol-3-essa-21943b",
+   "title": "Critical Miscellanies, Vol. 3, Essay 2: The Death of Mr. Mill",
+   "author": "John Morley",
+   "author_slug": "john-morley",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Critical Miscellanies, Vol. 3, Essay 2: The Death of Mr. Mill, by John Morley (1838-1923), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "hastings-rashdall-philosophy-and-religion-six-lect-6529d8",
+   "title": "Philosophy and Religion: Six Lectures Delivered at Cambridge",
+   "author": "Hastings Rashdall",
+   "author_slug": "hastings-rashdall",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy of Religion",
+   "genre_slug": "philosophy-of-religion",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 6,
+   "total_variant_entries": 6,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Philosophy and Religion: Six Lectures Delivered at Cambridge, by Hastings Rashdall (1858-1924), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "george-john-romanes-mind-and-motion-and-monism-0ab6da",
+   "title": "Mind and Motion and Monism",
+   "author": "George John Romanes",
+   "author_slug": "george-john-romanes",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy of Mind",
+   "genre_slug": "philosophy-of-mind",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 6,
+   "total_variant_entries": 6,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Mind and Motion and Monism, by George John Romanes (1848-1894), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-abercrombie-the-philosophy-of-the-moral-feel-1caca1",
+   "title": "The Philosophy of the Moral Feelings",
+   "author": "John Abercrombie",
+   "author_slug": "john-abercrombie",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 4,
+   "total_variant_entries": 4,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Philosophy of the Moral Feelings, by John Abercrombie (1780-1844), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "alexander-philip-essays-towards-a-theory-of-knowl-694609",
+   "title": "Essays Towards a Theory of Knowledge",
+   "author": "Alexander Philip",
+   "author_slug": "alexander-philip",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Epistemology",
+   "genre_slug": "epistemology",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Essays Towards a Theory of Knowledge, by Alexander Philip (1858-1937), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "friedrich-nietzsche-the-case-of-wagner-nietzsche-con-cf0495",
+   "title": "The Case of Wagner, Nietzsche Contra Wagner, and Selected Aphorisms",
+   "author": "Friedrich Nietzsche",
+   "author_slug": "friedrich-nietzsche",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Case of Wagner, Nietzsche Contra Wagner, and Selected Aphorisms, by Friedrich Nietzsche (1844-1900), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "ralph-barton-perry-the-approach-to-philosophy-5eb2c6",
+   "title": "The Approach to Philosophy",
+   "author": "Ralph Barton Perry",
+   "author_slug": "ralph-barton-perry",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 15,
+   "total_variant_entries": 15,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Approach to Philosophy, by Ralph Barton Perry (1876-1957), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-dewey-moral-principles-in-education-d70268",
+   "title": "Moral Principles in Education",
+   "author": "John Dewey",
+   "author_slug": "john-dewey",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy of Education",
+   "genre_slug": "philosophy-of-education",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Moral Principles in Education, by John Dewey (1859-1952), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "bertrand-russell-mysticism-and-logic-and-other-es-d2d643",
+   "title": "Mysticism and Logic and Other Essays",
+   "author": "Bertrand Russell",
+   "author_slug": "bertrand-russell",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Mysticism and Logic and Other Essays, by Bertrand Russell (1872-1970), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "leslie-stephen-the-english-utilitarians-volume--39f532",
+   "title": "The English Utilitarians, Volume 1",
+   "author": "Leslie Stephen",
+   "author_slug": "leslie-stephen",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "History of Philosophy",
+   "genre_slug": "history-of-philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 6,
+   "total_variant_entries": 6,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The English Utilitarians, Volume 1, by Leslie Stephen (1832-1904), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-stuart-mill-a-system-of-logic-ratiocinative--879415",
+   "title": "A System of Logic, Ratiocinative and Inductive",
+   "author": "John Stuart Mill",
+   "author_slug": "john-stuart-mill",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Logic",
+   "genre_slug": "logic",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 31,
+   "total_variant_entries": 31,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "A System of Logic, Ratiocinative and Inductive, by John Stuart Mill (1806-1873), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "lewis-carroll-symbolic-logic-56bef5",
+   "title": "Symbolic Logic",
+   "author": "Lewis Carroll",
+   "author_slug": "lewis-carroll",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Logic",
+   "genre_slug": "logic",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 12,
+   "total_variant_entries": 12,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Symbolic Logic, by Lewis Carroll (1832-1898), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-morley-critical-miscellanies-vol-3-essa-de642d",
+   "title": "Critical Miscellanies, Vol. 3, Essay 10: Auguste Comte",
+   "author": "John Morley",
+   "author_slug": "john-morley",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Critical Miscellanies, Vol. 3, Essay 10: Auguste Comte, by John Morley (1838-1923), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "william-stebbing-analysis-of-mr-mills-system-of-l-ae22bd",
+   "title": "Analysis of Mr. Mill's System of Logic",
+   "author": "William Stebbing",
+   "author_slug": "william-stebbing",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Logic",
+   "genre_slug": "logic",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 28,
+   "total_variant_entries": 28,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Analysis of Mr. Mill's System of Logic, by William Stebbing (1832-1926), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "william-minto-logic-inductive-and-deductive-ffa6fd",
+   "title": "Logic, Inductive and Deductive",
+   "author": "William Minto",
+   "author_slug": "william-minto",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Logic",
+   "genre_slug": "logic",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 15,
+   "total_variant_entries": 15,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Logic, Inductive and Deductive, by William Minto (1845-1893), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "roscoe-pound-an-introduction-to-the-philosoph-99e279",
+   "title": "An Introduction to the Philosophy of Law",
+   "author": "Roscoe Pound",
+   "author_slug": "roscoe-pound",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy of Law",
+   "genre_slug": "philosophy-of-law",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "An Introduction to the Philosophy of Law, by Roscoe Pound (1870-1964), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "william-james-essays-in-radical-empiricism-8cbaba",
+   "title": "Essays in Radical Empiricism",
+   "author": "William James",
+   "author_slug": "william-james",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 1,
+   "total_variant_entries": 1,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Essays in Radical Empiricism, by William James (1842-1910), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-stuart-mill-on-liberty-34cdb0",
+   "title": "On Liberty",
+   "author": "John Stuart Mill",
+   "author_slug": "john-stuart-mill",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Political Theory",
+   "genre_slug": "political-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 5,
+   "total_variant_entries": 5,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "On Liberty, by John Stuart Mill (1806-1873), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
+   "title": "Ontology, or the Theory of Being",
+   "author": "Peter Coffey",
+   "author_slug": "peter-coffey",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Metaphysics",
+   "genre_slug": "metaphysics",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 15,
+   "total_variant_entries": 15,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Ontology, or the Theory of Being, by Peter Coffey (1876-1943), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "victor-cousin-lectures-on-the-true-the-beautif-ab35d3",
+   "title": "Lectures on the True, the Beautiful and the Good",
+   "author": "Victor Cousin",
+   "author_slug": "victor-cousin",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 17,
+   "total_variant_entries": 17,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Lectures on the True, the Beautiful and the Good, by Victor Cousin (1792-1867), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "bertrand-russell-our-knowledge-of-the-external-wo-7bfcd1",
+   "title": "Our Knowledge of the External World",
+   "author": "Bertrand Russell",
+   "author_slug": "bertrand-russell",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Philosophy",
+   "genre_slug": "philosophy",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 8,
+   "total_variant_entries": 8,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Our Knowledge of the External World, by Bertrand Russell (1872-1970), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
   }
  ],
  "authors": {
@@ -16631,7 +18246,14 @@
   "john-stuart-mill": {
    "name": "John Stuart Mill",
    "works": [
-    "john-stuart-mill-principles-of-political-economy-3c9008"
+    "john-stuart-mill-principles-of-political-economy-3c9008",
+    "john-stuart-mill-considerations-on-representative-ccd97d",
+    "john-stuart-mill-autobiography-fd9256",
+    "john-stuart-mill-utilitarianism-c4210a",
+    "john-stuart-mill-essays-on-some-unsettled-questio-0b285d",
+    "john-stuart-mill-auguste-comte-and-positivism-28d0b7",
+    "john-stuart-mill-a-system-of-logic-ratiocinative--879415",
+    "john-stuart-mill-on-liberty-34cdb0"
    ]
   },
   "diogenes-laertius": {
@@ -17755,6 +19377,329 @@
    "works": [
     "phaedrus-fabulae-6b12c9"
    ]
+  },
+  "rene-descartes": {
+   "name": "René Descartes",
+   "works": [
+    "rene-descartes-discourse-on-the-method-e1eae3",
+    "rene-descartes-selections-from-the-principles-o-d4ee5f"
+   ]
+  },
+  "karl-marx": {
+   "name": "Karl Marx",
+   "works": [
+    "karl-marx-the-communist-manifesto-a53cd1"
+   ]
+  },
+  "bertrand-russell": {
+   "name": "Bertrand Russell",
+   "works": [
+    "bertrand-russell-proposed-roads-to-freedom-3ac9cb",
+    "bertrand-russell-the-analysis-of-mind-944053",
+    "bertrand-russell-political-ideals-167b51",
+    "bertrand-russell-the-problems-of-philosophy-47c80e",
+    "bertrand-russell-mysticism-and-logic-and-other-es-d2d643",
+    "bertrand-russell-our-knowledge-of-the-external-wo-7bfcd1"
+   ]
+  },
+  "john-dewey": {
+   "name": "John Dewey",
+   "works": [
+    "john-dewey-democracy-and-education-df209d",
+    "john-dewey-moral-principles-in-education-d70268"
+   ]
+  },
+  "baruch-spinoza": {
+   "name": "Baruch Spinoza",
+   "works": [
+    "baruch-spinoza-ethics-02c22a",
+    "baruch-spinoza-theologico-political-treatise-pa-9c6d2d",
+    "baruch-spinoza-theologico-political-treatise-pa-dc01da",
+    "baruch-spinoza-theologico-political-treatise-pa-3f6451",
+    "baruch-spinoza-theologico-political-treatise-pa-a4a76c",
+    "baruch-spinoza-on-the-improvement-of-the-unders-23a33c"
+   ]
+  },
+  "niccolo-machiavelli": {
+   "name": "Niccolò Machiavelli",
+   "works": [
+    "niccolo-machiavelli-the-prince-13b8a5"
+   ]
+  },
+  "edouard-le-roy": {
+   "name": "Édouard Le Roy",
+   "works": [
+    "edouard-le-roy-a-new-philosophy-henri-bergson-056e87"
+   ]
+  },
+  "friedrich-nietzsche": {
+   "name": "Friedrich Nietzsche",
+   "works": [
+    "friedrich-nietzsche-thus-spake-zarathustra-125858",
+    "friedrich-nietzsche-thus-spake-zarathustra-german-or-4faa1f",
+    "friedrich-nietzsche-beyond-good-and-evil-7eb383",
+    "friedrich-nietzsche-homer-and-classical-philology-2091a4",
+    "friedrich-nietzsche-the-antichrist-1ace0e",
+    "friedrich-nietzsche-the-case-of-wagner-nietzsche-con-cf0495"
+   ]
+  },
+  "immanuel-kant": {
+   "name": "Immanuel Kant",
+   "works": [
+    "immanuel-kant-the-critique-of-pure-reason-dbaa24",
+    "immanuel-kant-the-critique-of-pure-reason-germ-57f3ab"
+   ]
+  },
+  "david-hume": {
+   "name": "David Hume",
+   "works": [
+    "david-hume-an-enquiry-concerning-the-princi-ffdd48",
+    "david-hume-dialogues-concerning-natural-rel-1d199f",
+    "david-hume-a-treatise-of-human-nature-ce1af6",
+    "david-hume-an-enquiry-concerning-human-unde-4954ef"
+   ]
+  },
+  "henri-bergson": {
+   "name": "Henri Bergson",
+   "works": [
+    "henri-bergson-laughter-an-essay-on-the-meaning-4ca582"
+   ]
+  },
+  "george-berkeley": {
+   "name": "George Berkeley",
+   "works": [
+    "george-berkeley-a-treatise-concerning-the-princi-a03666",
+    "george-berkeley-three-dialogues-between-hylas-an-9d9ec8"
+   ]
+  },
+  "david-starr-jordan": {
+   "name": "David Starr Jordan",
+   "works": [
+    "david-starr-jordan-the-philosophy-of-despair-115696"
+   ]
+  },
+  "lewis-carroll": {
+   "name": "Lewis Carroll",
+   "works": [
+    "lewis-carroll-the-game-of-logic-8f7431",
+    "lewis-carroll-symbolic-logic-56bef5"
+   ]
+  },
+  "kaiten-nukariya": {
+   "name": "Kaiten Nukariya",
+   "works": [
+    "kaiten-nukariya-the-religion-of-the-samurai-a-st-193778"
+   ]
+  },
+  "john-alexander-gunn": {
+   "name": "John Alexander Gunn",
+   "works": [
+    "john-alexander-gunn-modern-french-philosophy-a-study-6b06ab",
+    "john-alexander-gunn-bergson-and-his-philosophy-6671b6"
+   ]
+  },
+  "michel-de-montaigne": {
+   "name": "Michel de Montaigne",
+   "works": [
+    "michel-de-montaigne-literary-and-philosophical-essay-6e6fc6"
+   ]
+  },
+  "dewitt-h-parker": {
+   "name": "DeWitt H. Parker",
+   "works": [
+    "dewitt-h-parker-the-principles-of-aesthetics-d4e238"
+   ]
+  },
+  "st-george-william-joseph-stock": {
+   "name": "St. George William Joseph Stock",
+   "works": [
+    "st-george-william-joseph-deductive-logic-2f2706",
+    "st-george-william-joseph-a-guide-to-stoicism-720b0e"
+   ]
+  },
+  "friedrich-schiller": {
+   "name": "Friedrich Schiller",
+   "works": [
+    "friedrich-schiller-aesthetical-essays-8efa06",
+    "friedrich-schiller-philosophical-letters-c69c0d"
+   ]
+  },
+  "john-locke": {
+   "name": "John Locke",
+   "works": [
+    "john-locke-second-treatise-of-government-99e9e5"
+   ]
+  },
+  "simon-dubnow": {
+   "name": "Simon Dubnow",
+   "works": [
+    "simon-dubnow-jewish-history-an-essay-in-the-p-c6003c"
+   ]
+  },
+  "emile-faguet": {
+   "name": "Émile Faguet",
+   "works": [
+    "emile-faguet-initiation-into-philosophy-db6cb4"
+   ]
+  },
+  "thomas-taylor": {
+   "name": "Thomas Taylor",
+   "works": [
+    "thomas-taylor-introduction-to-the-philosophy-a-3fcd63"
+   ]
+  },
+  "richard-falckenberg": {
+   "name": "Richard Falckenberg",
+   "works": [
+    "richard-falckenberg-history-of-modern-philosophy-fro-e856c2"
+   ]
+  },
+  "william-james": {
+   "name": "William James",
+   "works": [
+    "william-james-a-pluralistic-universe-6dc780",
+    "william-james-essays-in-radical-empiricism-8cbaba"
+   ]
+  },
+  "george-grote": {
+   "name": "George Grote",
+   "works": [
+    "george-grote-review-of-mr-john-stuart-mills-e-899caa"
+   ]
+  },
+  "john-morley": {
+   "name": "John Morley",
+   "works": [
+    "john-morley-burke-cfb4a4",
+    "john-morley-critical-miscellanies-vol-3-essa-21943b",
+    "john-morley-critical-miscellanies-vol-3-essa-de642d"
+   ]
+  },
+  "surendranath-dasgupta": {
+   "name": "Surendranath Dasgupta",
+   "works": [
+    "surendranath-dasgupta-a-history-of-indian-philosophy-v-f7aab9"
+   ]
+  },
+  "richard-william-church": {
+   "name": "Richard William Church",
+   "works": [
+    "richard-william-church-bacon-d0bce2"
+   ]
+  },
+  "abel-j-jones": {
+   "name": "Abel J. Jones",
+   "works": [
+    "abel-j-jones-rudolf-eucken-a-philosophy-of-li-06d56c"
+   ]
+  },
+  "george-stuart-fullerton": {
+   "name": "George Stuart Fullerton",
+   "works": [
+    "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa"
+   ]
+  },
+  "george-santayana": {
+   "name": "George Santayana",
+   "works": [
+    "george-santayana-some-turns-of-thought-in-modern--aa7ad8"
+   ]
+  },
+  "w-tudor-jones": {
+   "name": "W. Tudor Jones",
+   "works": [
+    "w-tudor-jones-an-interpretation-of-rudolf-euck-0aebbd"
+   ]
+  },
+  "mary-mills-patrick": {
+   "name": "Mary Mills Patrick",
+   "works": [
+    "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f"
+   ]
+  },
+  "carveth-read": {
+   "name": "Carveth Read",
+   "works": [
+    "carveth-read-logic-deductive-and-inductive-35f4d9"
+   ]
+  },
+  "john-marshall": {
+   "name": "John Marshall",
+   "works": [
+    "john-marshall-a-short-history-of-greek-philoso-70c117"
+   ]
+  },
+  "george-everett-partridge": {
+   "name": "George Everett Partridge",
+   "works": [
+    "george-everett-partridge-the-psychology-of-nations-a-cont-f19467"
+   ]
+  },
+  "hastings-rashdall": {
+   "name": "Hastings Rashdall",
+   "works": [
+    "hastings-rashdall-philosophy-and-religion-six-lect-6529d8"
+   ]
+  },
+  "george-john-romanes": {
+   "name": "George John Romanes",
+   "works": [
+    "george-john-romanes-mind-and-motion-and-monism-0ab6da"
+   ]
+  },
+  "john-abercrombie": {
+   "name": "John Abercrombie",
+   "works": [
+    "john-abercrombie-the-philosophy-of-the-moral-feel-1caca1"
+   ]
+  },
+  "alexander-philip": {
+   "name": "Alexander Philip",
+   "works": [
+    "alexander-philip-essays-towards-a-theory-of-knowl-694609"
+   ]
+  },
+  "ralph-barton-perry": {
+   "name": "Ralph Barton Perry",
+   "works": [
+    "ralph-barton-perry-the-approach-to-philosophy-5eb2c6"
+   ]
+  },
+  "leslie-stephen": {
+   "name": "Leslie Stephen",
+   "works": [
+    "leslie-stephen-the-english-utilitarians-volume--39f532"
+   ]
+  },
+  "william-stebbing": {
+   "name": "William Stebbing",
+   "works": [
+    "william-stebbing-analysis-of-mr-mills-system-of-l-ae22bd"
+   ]
+  },
+  "william-minto": {
+   "name": "William Minto",
+   "works": [
+    "william-minto-logic-inductive-and-deductive-ffa6fd"
+   ]
+  },
+  "roscoe-pound": {
+   "name": "Roscoe Pound",
+   "works": [
+    "roscoe-pound-an-introduction-to-the-philosoph-99e279"
+   ]
+  },
+  "peter-coffey": {
+   "name": "Peter Coffey",
+   "works": [
+    "peter-coffey-ontology-or-the-theory-of-being-bd2c2d"
+   ]
+  },
+  "victor-cousin": {
+   "name": "Victor Cousin",
+   "works": [
+    "victor-cousin-lectures-on-the-true-the-beautif-ab35d3"
+   ]
   }
  },
  "eras": {
@@ -17797,7 +19742,42 @@
    "works": [
     "allama-iqbal-bang-e-dara-part-1-55b25c",
     "allama-iqbal-bang-e-dara-part-2-9bc58c",
-    "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    "allama-iqbal-bang-e-dara-part-3-cc61e8",
+    "bertrand-russell-proposed-roads-to-freedom-3ac9cb",
+    "john-dewey-democracy-and-education-df209d",
+    "edouard-le-roy-a-new-philosophy-henri-bergson-056e87",
+    "bertrand-russell-the-analysis-of-mind-944053",
+    "henri-bergson-laughter-an-essay-on-the-meaning-4ca582",
+    "david-starr-jordan-the-philosophy-of-despair-115696",
+    "bertrand-russell-political-ideals-167b51",
+    "kaiten-nukariya-the-religion-of-the-samurai-a-st-193778",
+    "john-alexander-gunn-modern-french-philosophy-a-study-6b06ab",
+    "john-alexander-gunn-bergson-and-his-philosophy-6671b6",
+    "bertrand-russell-the-problems-of-philosophy-47c80e",
+    "dewitt-h-parker-the-principles-of-aesthetics-d4e238",
+    "st-george-william-joseph-deductive-logic-2f2706",
+    "st-george-william-joseph-a-guide-to-stoicism-720b0e",
+    "simon-dubnow-jewish-history-an-essay-in-the-p-c6003c",
+    "emile-faguet-initiation-into-philosophy-db6cb4",
+    "richard-falckenberg-history-of-modern-philosophy-fro-e856c2",
+    "william-james-a-pluralistic-universe-6dc780",
+    "surendranath-dasgupta-a-history-of-indian-philosophy-v-f7aab9",
+    "abel-j-jones-rudolf-eucken-a-philosophy-of-li-06d56c",
+    "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa",
+    "george-santayana-some-turns-of-thought-in-modern--aa7ad8",
+    "w-tudor-jones-an-interpretation-of-rudolf-euck-0aebbd",
+    "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f",
+    "carveth-read-logic-deductive-and-inductive-35f4d9",
+    "george-everett-partridge-the-psychology-of-nations-a-cont-f19467",
+    "hastings-rashdall-philosophy-and-religion-six-lect-6529d8",
+    "alexander-philip-essays-towards-a-theory-of-knowl-694609",
+    "ralph-barton-perry-the-approach-to-philosophy-5eb2c6",
+    "john-dewey-moral-principles-in-education-d70268",
+    "bertrand-russell-mysticism-and-logic-and-other-es-d2d643",
+    "roscoe-pound-an-introduction-to-the-philosoph-99e279",
+    "william-james-essays-in-radical-empiricism-8cbaba",
+    "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
+    "bertrand-russell-our-knowledge-of-the-external-wo-7bfcd1"
    ]
   },
   "19th-century": {
@@ -17808,7 +19788,35 @@
     "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
     "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
     "gustave-de-molinari-the-society-of-tomorrow-3bed3e",
-    "john-stuart-mill-principles-of-political-economy-3c9008"
+    "john-stuart-mill-principles-of-political-economy-3c9008",
+    "karl-marx-the-communist-manifesto-a53cd1",
+    "friedrich-nietzsche-thus-spake-zarathustra-125858",
+    "friedrich-nietzsche-thus-spake-zarathustra-german-or-4faa1f",
+    "friedrich-nietzsche-beyond-good-and-evil-7eb383",
+    "lewis-carroll-the-game-of-logic-8f7431",
+    "john-stuart-mill-considerations-on-representative-ccd97d",
+    "john-stuart-mill-autobiography-fd9256",
+    "john-stuart-mill-utilitarianism-c4210a",
+    "george-grote-review-of-mr-john-stuart-mills-e-899caa",
+    "john-stuart-mill-essays-on-some-unsettled-questio-0b285d",
+    "john-morley-burke-cfb4a4",
+    "richard-william-church-bacon-d0bce2",
+    "john-stuart-mill-auguste-comte-and-positivism-28d0b7",
+    "friedrich-nietzsche-homer-and-classical-philology-2091a4",
+    "friedrich-nietzsche-the-antichrist-1ace0e",
+    "john-marshall-a-short-history-of-greek-philoso-70c117",
+    "john-morley-critical-miscellanies-vol-3-essa-21943b",
+    "george-john-romanes-mind-and-motion-and-monism-0ab6da",
+    "john-abercrombie-the-philosophy-of-the-moral-feel-1caca1",
+    "friedrich-nietzsche-the-case-of-wagner-nietzsche-con-cf0495",
+    "leslie-stephen-the-english-utilitarians-volume--39f532",
+    "john-stuart-mill-a-system-of-logic-ratiocinative--879415",
+    "lewis-carroll-symbolic-logic-56bef5",
+    "john-morley-critical-miscellanies-vol-3-essa-de642d",
+    "william-stebbing-analysis-of-mr-mills-system-of-l-ae22bd",
+    "william-minto-logic-inductive-and-deductive-ffa6fd",
+    "john-stuart-mill-on-liberty-34cdb0",
+    "victor-cousin-lectures-on-the-true-the-beautif-ab35d3"
    ]
   },
   "enlightenment": {
@@ -17822,7 +19830,27 @@
     "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
     "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
     "thomas-paine-common-sense-ca2db0",
-    "adam-smith-an-inquiry-into-the-nature-and-c-915b31"
+    "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+    "rene-descartes-discourse-on-the-method-e1eae3",
+    "baruch-spinoza-ethics-02c22a",
+    "baruch-spinoza-theologico-political-treatise-pa-9c6d2d",
+    "baruch-spinoza-theologico-political-treatise-pa-dc01da",
+    "baruch-spinoza-theologico-political-treatise-pa-3f6451",
+    "baruch-spinoza-theologico-political-treatise-pa-a4a76c",
+    "baruch-spinoza-on-the-improvement-of-the-unders-23a33c",
+    "immanuel-kant-the-critique-of-pure-reason-dbaa24",
+    "immanuel-kant-the-critique-of-pure-reason-germ-57f3ab",
+    "david-hume-an-enquiry-concerning-the-princi-ffdd48",
+    "rene-descartes-selections-from-the-principles-o-d4ee5f",
+    "david-hume-dialogues-concerning-natural-rel-1d199f",
+    "david-hume-a-treatise-of-human-nature-ce1af6",
+    "george-berkeley-a-treatise-concerning-the-princi-a03666",
+    "george-berkeley-three-dialogues-between-hylas-an-9d9ec8",
+    "friedrich-schiller-aesthetical-essays-8efa06",
+    "friedrich-schiller-philosophical-letters-c69c0d",
+    "john-locke-second-treatise-of-government-99e9e5",
+    "david-hume-an-enquiry-concerning-human-unde-4954ef",
+    "thomas-taylor-introduction-to-the-philosophy-a-3fcd63"
    ]
   },
   "classical": {
@@ -18662,6 +20690,13 @@
     "pseudo-justinus-martyr-the-epistle-to-diogentus-48b7af",
     "unknown-select-letters-73fa24"
    ]
+  },
+  "renaissance": {
+   "name": "Renaissance",
+   "works": [
+    "niccolo-machiavelli-the-prince-13b8a5",
+    "michel-de-montaigne-literary-and-philosophical-essay-6e6fc6"
+   ]
   }
  },
  "genres": {
@@ -18735,7 +20770,54 @@
     "aristotle-nicomachean-ethics-ac98dd",
     "lucretius-de-rerum-natura-4543ca",
     "hippocrates-aphorisms-55e562",
-    "euclid-elements-d711e4"
+    "euclid-elements-d711e4",
+    "rene-descartes-discourse-on-the-method-e1eae3",
+    "baruch-spinoza-ethics-02c22a",
+    "baruch-spinoza-on-the-improvement-of-the-unders-23a33c",
+    "edouard-le-roy-a-new-philosophy-henri-bergson-056e87",
+    "friedrich-nietzsche-thus-spake-zarathustra-125858",
+    "friedrich-nietzsche-thus-spake-zarathustra-german-or-4faa1f",
+    "immanuel-kant-the-critique-of-pure-reason-dbaa24",
+    "immanuel-kant-the-critique-of-pure-reason-germ-57f3ab",
+    "david-hume-an-enquiry-concerning-the-princi-ffdd48",
+    "friedrich-nietzsche-beyond-good-and-evil-7eb383",
+    "rene-descartes-selections-from-the-principles-o-d4ee5f",
+    "david-hume-a-treatise-of-human-nature-ce1af6",
+    "george-berkeley-a-treatise-concerning-the-princi-a03666",
+    "george-berkeley-three-dialogues-between-hylas-an-9d9ec8",
+    "david-starr-jordan-the-philosophy-of-despair-115696",
+    "kaiten-nukariya-the-religion-of-the-samurai-a-st-193778",
+    "john-alexander-gunn-modern-french-philosophy-a-study-6b06ab",
+    "michel-de-montaigne-literary-and-philosophical-essay-6e6fc6",
+    "john-alexander-gunn-bergson-and-his-philosophy-6671b6",
+    "bertrand-russell-the-problems-of-philosophy-47c80e",
+    "friedrich-schiller-philosophical-letters-c69c0d",
+    "st-george-william-joseph-a-guide-to-stoicism-720b0e",
+    "emile-faguet-initiation-into-philosophy-db6cb4",
+    "david-hume-an-enquiry-concerning-human-unde-4954ef",
+    "thomas-taylor-introduction-to-the-philosophy-a-3fcd63",
+    "john-stuart-mill-autobiography-fd9256",
+    "john-stuart-mill-utilitarianism-c4210a",
+    "william-james-a-pluralistic-universe-6dc780",
+    "george-grote-review-of-mr-john-stuart-mills-e-899caa",
+    "john-morley-burke-cfb4a4",
+    "richard-william-church-bacon-d0bce2",
+    "abel-j-jones-rudolf-eucken-a-philosophy-of-li-06d56c",
+    "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa",
+    "george-santayana-some-turns-of-thought-in-modern--aa7ad8",
+    "john-stuart-mill-auguste-comte-and-positivism-28d0b7",
+    "w-tudor-jones-an-interpretation-of-rudolf-euck-0aebbd",
+    "friedrich-nietzsche-homer-and-classical-philology-2091a4",
+    "friedrich-nietzsche-the-antichrist-1ace0e",
+    "john-morley-critical-miscellanies-vol-3-essa-21943b",
+    "john-abercrombie-the-philosophy-of-the-moral-feel-1caca1",
+    "friedrich-nietzsche-the-case-of-wagner-nietzsche-con-cf0495",
+    "ralph-barton-perry-the-approach-to-philosophy-5eb2c6",
+    "bertrand-russell-mysticism-and-logic-and-other-es-d2d643",
+    "john-morley-critical-miscellanies-vol-3-essa-de642d",
+    "william-james-essays-in-radical-empiricism-8cbaba",
+    "victor-cousin-lectures-on-the-true-the-beautif-ab35d3",
+    "bertrand-russell-our-knowledge-of-the-external-wo-7bfcd1"
    ]
   },
   "history": {
@@ -19554,6 +21636,104 @@
     "unknown-ecclesiastical-history-of-the-en-4806a5",
     "titus-livius-livy-ab-urbe-condita-882964"
    ]
+  },
+  "political-theory": {
+   "name": "Political Theory",
+   "works": [
+    "karl-marx-the-communist-manifesto-a53cd1",
+    "bertrand-russell-proposed-roads-to-freedom-3ac9cb",
+    "baruch-spinoza-theologico-political-treatise-pa-9c6d2d",
+    "baruch-spinoza-theologico-political-treatise-pa-dc01da",
+    "baruch-spinoza-theologico-political-treatise-pa-3f6451",
+    "baruch-spinoza-theologico-political-treatise-pa-a4a76c",
+    "niccolo-machiavelli-the-prince-13b8a5",
+    "bertrand-russell-political-ideals-167b51",
+    "john-stuart-mill-considerations-on-representative-ccd97d",
+    "john-locke-second-treatise-of-government-99e9e5",
+    "john-stuart-mill-on-liberty-34cdb0"
+   ]
+  },
+  "philosophy-of-education": {
+   "name": "Philosophy of Education",
+   "works": [
+    "john-dewey-democracy-and-education-df209d",
+    "john-dewey-moral-principles-in-education-d70268"
+   ]
+  },
+  "philosophy-of-mind": {
+   "name": "Philosophy of Mind",
+   "works": [
+    "bertrand-russell-the-analysis-of-mind-944053",
+    "george-john-romanes-mind-and-motion-and-monism-0ab6da"
+   ]
+  },
+  "aesthetics": {
+   "name": "Aesthetics",
+   "works": [
+    "henri-bergson-laughter-an-essay-on-the-meaning-4ca582",
+    "dewitt-h-parker-the-principles-of-aesthetics-d4e238",
+    "friedrich-schiller-aesthetical-essays-8efa06"
+   ]
+  },
+  "philosophy-of-religion": {
+   "name": "Philosophy of Religion",
+   "works": [
+    "david-hume-dialogues-concerning-natural-rel-1d199f",
+    "hastings-rashdall-philosophy-and-religion-six-lect-6529d8"
+   ]
+  },
+  "logic": {
+   "name": "Logic",
+   "works": [
+    "lewis-carroll-the-game-of-logic-8f7431",
+    "st-george-william-joseph-deductive-logic-2f2706",
+    "carveth-read-logic-deductive-and-inductive-35f4d9",
+    "john-stuart-mill-a-system-of-logic-ratiocinative--879415",
+    "lewis-carroll-symbolic-logic-56bef5",
+    "william-stebbing-analysis-of-mr-mills-system-of-l-ae22bd",
+    "william-minto-logic-inductive-and-deductive-ffa6fd"
+   ]
+  },
+  "philosophy-of-history": {
+   "name": "Philosophy of History",
+   "works": [
+    "simon-dubnow-jewish-history-an-essay-in-the-p-c6003c",
+    "george-everett-partridge-the-psychology-of-nations-a-cont-f19467"
+   ]
+  },
+  "history-of-philosophy": {
+   "name": "History of Philosophy",
+   "works": [
+    "richard-falckenberg-history-of-modern-philosophy-fro-e856c2",
+    "surendranath-dasgupta-a-history-of-indian-philosophy-v-f7aab9",
+    "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f",
+    "john-marshall-a-short-history-of-greek-philoso-70c117",
+    "leslie-stephen-the-english-utilitarians-volume--39f532"
+   ]
+  },
+  "political-economy": {
+   "name": "Political Economy",
+   "works": [
+    "john-stuart-mill-essays-on-some-unsettled-questio-0b285d"
+   ]
+  },
+  "epistemology": {
+   "name": "Epistemology",
+   "works": [
+    "alexander-philip-essays-towards-a-theory-of-knowl-694609"
+   ]
+  },
+  "philosophy-of-law": {
+   "name": "Philosophy of Law",
+   "works": [
+    "roscoe-pound-an-introduction-to-the-philosoph-99e279"
+   ]
+  },
+  "metaphysics": {
+   "name": "Metaphysics",
+   "works": [
+    "peter-coffey-ontology-or-the-theory-of-being-bd2c2d"
+   ]
   }
  },
  "languages": {
@@ -19622,7 +21802,9 @@
   "german": {
    "name": "German",
    "works": [
-    "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+    "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+    "friedrich-nietzsche-thus-spake-zarathustra-german-or-4faa1f",
+    "immanuel-kant-the-critique-of-pure-reason-germ-57f3ab"
    ]
   },
   "greek": {
@@ -20459,7 +22641,90 @@
    "works": [
     "thomas-paine-common-sense-ca2db0",
     "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
-    "john-stuart-mill-principles-of-political-economy-3c9008"
+    "john-stuart-mill-principles-of-political-economy-3c9008",
+    "rene-descartes-discourse-on-the-method-e1eae3",
+    "karl-marx-the-communist-manifesto-a53cd1",
+    "bertrand-russell-proposed-roads-to-freedom-3ac9cb",
+    "john-dewey-democracy-and-education-df209d",
+    "baruch-spinoza-ethics-02c22a",
+    "baruch-spinoza-theologico-political-treatise-pa-9c6d2d",
+    "baruch-spinoza-theologico-political-treatise-pa-dc01da",
+    "baruch-spinoza-theologico-political-treatise-pa-3f6451",
+    "baruch-spinoza-theologico-political-treatise-pa-a4a76c",
+    "baruch-spinoza-on-the-improvement-of-the-unders-23a33c",
+    "niccolo-machiavelli-the-prince-13b8a5",
+    "edouard-le-roy-a-new-philosophy-henri-bergson-056e87",
+    "friedrich-nietzsche-thus-spake-zarathustra-125858",
+    "bertrand-russell-the-analysis-of-mind-944053",
+    "immanuel-kant-the-critique-of-pure-reason-dbaa24",
+    "david-hume-an-enquiry-concerning-the-princi-ffdd48",
+    "henri-bergson-laughter-an-essay-on-the-meaning-4ca582",
+    "friedrich-nietzsche-beyond-good-and-evil-7eb383",
+    "rene-descartes-selections-from-the-principles-o-d4ee5f",
+    "david-hume-dialogues-concerning-natural-rel-1d199f",
+    "david-hume-a-treatise-of-human-nature-ce1af6",
+    "george-berkeley-a-treatise-concerning-the-princi-a03666",
+    "george-berkeley-three-dialogues-between-hylas-an-9d9ec8",
+    "david-starr-jordan-the-philosophy-of-despair-115696",
+    "lewis-carroll-the-game-of-logic-8f7431",
+    "bertrand-russell-political-ideals-167b51",
+    "kaiten-nukariya-the-religion-of-the-samurai-a-st-193778",
+    "john-alexander-gunn-modern-french-philosophy-a-study-6b06ab",
+    "michel-de-montaigne-literary-and-philosophical-essay-6e6fc6",
+    "john-stuart-mill-considerations-on-representative-ccd97d",
+    "john-alexander-gunn-bergson-and-his-philosophy-6671b6",
+    "bertrand-russell-the-problems-of-philosophy-47c80e",
+    "dewitt-h-parker-the-principles-of-aesthetics-d4e238",
+    "st-george-william-joseph-deductive-logic-2f2706",
+    "friedrich-schiller-aesthetical-essays-8efa06",
+    "friedrich-schiller-philosophical-letters-c69c0d",
+    "john-locke-second-treatise-of-government-99e9e5",
+    "st-george-william-joseph-a-guide-to-stoicism-720b0e",
+    "simon-dubnow-jewish-history-an-essay-in-the-p-c6003c",
+    "emile-faguet-initiation-into-philosophy-db6cb4",
+    "david-hume-an-enquiry-concerning-human-unde-4954ef",
+    "thomas-taylor-introduction-to-the-philosophy-a-3fcd63",
+    "john-stuart-mill-autobiography-fd9256",
+    "richard-falckenberg-history-of-modern-philosophy-fro-e856c2",
+    "john-stuart-mill-utilitarianism-c4210a",
+    "william-james-a-pluralistic-universe-6dc780",
+    "george-grote-review-of-mr-john-stuart-mills-e-899caa",
+    "john-stuart-mill-essays-on-some-unsettled-questio-0b285d",
+    "john-morley-burke-cfb4a4",
+    "surendranath-dasgupta-a-history-of-indian-philosophy-v-f7aab9",
+    "richard-william-church-bacon-d0bce2",
+    "abel-j-jones-rudolf-eucken-a-philosophy-of-li-06d56c",
+    "george-stuart-fullerton-an-introduction-to-philosophy-1beaaa",
+    "george-santayana-some-turns-of-thought-in-modern--aa7ad8",
+    "john-stuart-mill-auguste-comte-and-positivism-28d0b7",
+    "w-tudor-jones-an-interpretation-of-rudolf-euck-0aebbd",
+    "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f",
+    "friedrich-nietzsche-homer-and-classical-philology-2091a4",
+    "carveth-read-logic-deductive-and-inductive-35f4d9",
+    "friedrich-nietzsche-the-antichrist-1ace0e",
+    "john-marshall-a-short-history-of-greek-philoso-70c117",
+    "george-everett-partridge-the-psychology-of-nations-a-cont-f19467",
+    "john-morley-critical-miscellanies-vol-3-essa-21943b",
+    "hastings-rashdall-philosophy-and-religion-six-lect-6529d8",
+    "george-john-romanes-mind-and-motion-and-monism-0ab6da",
+    "john-abercrombie-the-philosophy-of-the-moral-feel-1caca1",
+    "alexander-philip-essays-towards-a-theory-of-knowl-694609",
+    "friedrich-nietzsche-the-case-of-wagner-nietzsche-con-cf0495",
+    "ralph-barton-perry-the-approach-to-philosophy-5eb2c6",
+    "john-dewey-moral-principles-in-education-d70268",
+    "bertrand-russell-mysticism-and-logic-and-other-es-d2d643",
+    "leslie-stephen-the-english-utilitarians-volume--39f532",
+    "john-stuart-mill-a-system-of-logic-ratiocinative--879415",
+    "lewis-carroll-symbolic-logic-56bef5",
+    "john-morley-critical-miscellanies-vol-3-essa-de642d",
+    "william-stebbing-analysis-of-mr-mills-system-of-l-ae22bd",
+    "william-minto-logic-inductive-and-deductive-ffa6fd",
+    "roscoe-pound-an-introduction-to-the-philosoph-99e279",
+    "william-james-essays-in-radical-empiricism-8cbaba",
+    "john-stuart-mill-on-liberty-34cdb0",
+    "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
+    "victor-cousin-lectures-on-the-true-the-beautif-ab35d3",
+    "bertrand-russell-our-knowledge-of-the-external-wo-7bfcd1"
    ]
   }
  }

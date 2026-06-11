@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-nietzsche-beyond-good-and-evil-7eb383",
+  "work_title": "Beyond Good and Evil",
+  "chapter_number": 4,
+  "chapter_title": "Chapter IV — APOPHTHEGMS AND INTERLUDES",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "15a5fc76-4909-591e-9502-e8573db52494",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2533,
+      "paragraph_count": 125,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4363"
+    }
+  ]
+}

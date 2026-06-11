@@ -1,0 +1,26 @@
+{
+  "work_slug": "richard-william-church-bacon-d0bce2",
+  "work_title": "Bacon",
+  "chapter_number": 6,
+  "chapter_title": "Chapter VI",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a4611700-47c6-5cee-892f-ba03c0c77505",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9758,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/13888"
+    }
+  ]
+}

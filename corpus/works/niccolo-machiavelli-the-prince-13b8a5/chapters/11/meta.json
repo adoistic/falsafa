@@ -1,0 +1,26 @@
+{
+  "work_slug": "niccolo-machiavelli-the-prince-13b8a5",
+  "work_title": "The Prince",
+  "chapter_number": 11,
+  "chapter_title": "Chapter XI — CONCERNING ECCLESIASTICAL PRINCIPALITIES",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5cb6ccdc-710c-5f8e-84a0-9ade79311142",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 883,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1232"
+    }
+  ]
+}

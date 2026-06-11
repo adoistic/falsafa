@@ -1,0 +1,337 @@
+[
+  {
+    "id": "p-77f3b0",
+    "offset": 0,
+    "text": "THE TRILITERAL DIAGRAM."
+  },
+  {
+    "id": "p-4434d4",
+    "offset": 25,
+    "text": "CHAPTER I."
+  },
+  {
+    "id": "p-2a7e1f",
+    "offset": 37,
+    "text": "*SYMBOLS AND CELLS.*"
+  },
+  {
+    "id": "p-5949a3",
+    "offset": 59,
+    "text": "First, let us suppose that the above *left*-hand Diagram is the Biliteral Diagram that we have been using in Book III., and that we change it into a *Triliteral* Diagram by drawing an *Inner Square*, so as to divide each of its 4 Cells into 2 portions, thus making 8 Cells altogether. The *right*-hand Diagram shows the result."
+  },
+  {
+    "id": "p-cfd4ec",
+    "offset": 388,
+    "text": "[The Reader is strongly advised, in reading this Chapter, *not* to refer to the above Diagrams, but to make a large copy of the right-hand one for himself, *without any letters*, and to have it by him while he reads, and keep his finger on that particular *part* of it, about which he is reading.] pg040 Secondly, let us suppose that we have selected a certain Adjunct, which we may call \"m\", and have subdivided the xy-Class into the two Classes whose Differentiæ are m and m', and that we have assigned the N.W. *Inner* Cell to the one (which we may call \"the Class of xym-Things\", or \"the xym-Class\"), and the N.W. *Outer* Cell to the other (which we may call \"the Class of xym'-Things\", or \"the xym'-Class\")."
+  },
+  {
+    "id": "p-dbe216",
+    "offset": 1102,
+    "text": "[Thus, in the \"books\" example, we might say \"Let m mean 'bound', so that m' will mean 'unbound'\", and we might suppose that we had subdivided the Class \"old English books\" into the two Classes, \"old English bound books\" and \"old English unbound books\", and had assigned the N.W. *Inner* Cell to the one, and the N.W. *Outer* Cell to the other.]"
+  },
+  {
+    "id": "p-5dc6bb",
+    "offset": 1448,
+    "text": "Thirdly, let us suppose that we have subdivided the xy'-Class, the x'y-Class, and the x'y'-Class in the same manner, and have, in each case, assigned the *Inner* Cell to the Class possessing the Attribute m, and the *Outer* Cell to the Class possessing the Attribute m'."
+  },
+  {
+    "id": "p-2636e9",
+    "offset": 1720,
+    "text": "[Thus, in the \"books\" example, we might suppose that we had subdivided the \"new English books\" into the two Classes, \"new English bound books\" and \"new English unbound books\", and had assigned the S.W. *Inner* Cell to the one, and the S.W. *Outer* Cell to the other.]"
+  },
+  {
+    "id": "p-79b229",
+    "offset": 1989,
+    "text": "It is evident that we have now assigned the *Inner Square* to the m-Class, and the *Outer Border* to the m'-Class."
+  },
+  {
+    "id": "p-9f12ca",
+    "offset": 2105,
+    "text": "[Thus, in the \"books\" example, we have assigned the _Inner Square* to \"bound books\" and the *Outer Border_ to \"unbound books\".]"
+  },
+  {
+    "id": "p-f07835",
+    "offset": 2234,
+    "text": "When the Reader has made himself familiar with this Diagram, he ought to be able to find, in a moment, the Compartment assigned to a particular *pair* of Attributes, or the Cell assigned to a particular *trio* of Attributes. The following Rules will help him in doing this:--"
+  },
+  {
+    "id": "p-5d597c",
+    "offset": 2511,
+    "text": "(1) Arrange the Attributes in the order x, y, m. pg041 (2) Take the *first* of them and find the Compartment assigned to it."
+  },
+  {
+    "id": "p-7bd420",
+    "offset": 2637,
+    "text": "(3) Then take the *second*, and find what *portion* of that compartment is assigned to it."
+  },
+  {
+    "id": "p-4dfee6",
+    "offset": 2729,
+    "text": "(4) Treat the *third*, if there is one, in the same way."
+  },
+  {
+    "id": "p-bfed6a",
+    "offset": 2787,
+    "text": "[For example, suppose we have to find the Compartment assigned to ym. We say to ourselves \"y has the *West* Half; and m has the *Inner* portion of that West Half.\""
+  },
+  {
+    "id": "p-f62ad9",
+    "offset": 2952,
+    "text": "Again, suppose we have to find the Cell assigned to x'ym'. We say to ourselves \"x' has the *South* Half; y has the *West* portion of that South Half, i.e. has the *South-West Quarter*; and m' has the *Outer* portion of that South-West Quarter.\"]"
+  },
+  {
+    "id": "p-93da13",
+    "offset": 3199,
+    "text": "The Reader should now get his genial friend to question him on the Table given on the next page, in the style of the following specimen-Dialogue."
+  },
+  {
+    "id": "p-afbd56",
+    "offset": 3346,
+    "text": "Q. Adjunct for South Half, Inner Portion? A. x'm. Q. Compartment for m'? A. The Outer Border. Q. Adjunct for North-East Quarter, Outer Portion? A. xy'm'. Q. Compartment for ym? A. West Half, Inner Portion. Q. Adjunct for South Half? A. x'. Q. Compartment for x'y'm? A. South-East Quarter, Inner Portion. &c. &c."
+  },
+  {
+    "id": "p-22483a",
+    "offset": 3659,
+    "text": "pg042 TABLE IV."
+  },
+  {
+    "id": "p-333fc7",
+    "offset": 3676,
+    "text": "CHAPTER II."
+  },
+  {
+    "id": "p-801688",
+    "offset": 3689,
+    "text": "*REPRESENTATION OF PROPOSITIONS IN TERMS OF x AND m, OR OF y AND m.*"
+  },
+  {
+    "id": "p-9e6637",
+    "offset": 3759,
+    "text": "_Representation of Propositions of Existence in terms of x and m, or of y and m._"
+  },
+  {
+    "id": "p-2745bb",
+    "offset": 3842,
+    "text": "Let us take, first, the Proposition \"Some xm exist\"."
+  },
+  {
+    "id": "p-93dac9",
+    "offset": 3896,
+    "text": "[Note that the *full* meaning of this Proposition is (as explained at p. 12) \"Some existing Things are xm-Things\".]"
+  },
+  {
+    "id": "p-a86084",
+    "offset": 4013,
+    "text": "This tells us that there is at least *one* Thing in the Inner portion of the North Half; that is, that this Compartment is *occupied*. And this we can evidently represent by placing a *Red* Counter on the partition which divides it."
+  },
+  {
+    "id": "p-befaf8",
+    "offset": 4247,
+    "text": "[In the \"books\" example, this Proposition would mean \"Some old bound books exist\" (or \"There are some old bound books\").]"
+  },
+  {
+    "id": "p-39be01",
+    "offset": 4370,
+    "text": "Similarly we may represent the seven similar Propositions, \"Some xm' exist\", \"Some x'm exist\", \"Some x'm' exist\", \"Some ym exist\", \"Some ym' exist\", \"Some y'm exist\", and \"Some y'm' exist\". pg044 Let us take, next, the Proposition \"No xm exist\"."
+  },
+  {
+    "id": "p-8a6783",
+    "offset": 4617,
+    "text": "This tells us that there is *nothing* in the Inner portion of the North Half; that is, that this Compartment is *empty*. And this we can represent by placing *two Grey* Counters in it, one in each Cell."
+  },
+  {
+    "id": "p-74e2d9",
+    "offset": 4821,
+    "text": "Similarly we may represent the seven similar Propositions, in terms of x and m, or of y and m, viz. \"No xm' exist\", \"No x'm exist\", &c."
+  },
+  {
+    "id": "p-66b8a1",
+    "offset": 4958,
+    "text": "These sixteen Propositions of Existence are the only ones that we shall have to represent on this Diagram."
+  },
+  {
+    "id": "p-0bdc05",
+    "offset": 5066,
+    "text": "_Representation of Propositions of Relation in terms of x and m, or of y and m._"
+  },
+  {
+    "id": "p-43341f",
+    "offset": 5148,
+    "text": "Let us take, first, the Pair of Converse Propositions"
+  },
+  {
+    "id": "p-8e26e2",
+    "offset": 5203,
+    "text": "\"Some x are m\" = \"Some m are x.\""
+  },
+  {
+    "id": "p-e58381",
+    "offset": 5237,
+    "text": "We know that each of these is equivalent to the Proposition of Existence \"Some xm exist\", which we already know how to represent."
+  },
+  {
+    "id": "p-ae5ac7",
+    "offset": 5368,
+    "text": "Similarly for the seven similar Pairs, in terms of x and m, or of y and m."
+  },
+  {
+    "id": "p-a0f309",
+    "offset": 5444,
+    "text": "Let us take, next, the Pair of Converse Propositions"
+  },
+  {
+    "id": "p-f4c079",
+    "offset": 5498,
+    "text": "We know that each of these is equivalent to the Proposition of Existence \"No xm exist\", which we already know how to represent."
+  },
+  {
+    "id": "p-a9f832",
+    "offset": 5627,
+    "text": "Similarly for the seven similar Pairs, in terms of x and m, or of y and m. pg045 Let us take, next, the Proposition \"All x are m.\""
+  },
+  {
+    "id": "p-40437f",
+    "offset": 5759,
+    "text": "We know (see p. 18) that this is a *Double* Proposition, and equivalent to the *two* Propositions \"Some x are m\" and \"No x are m' \", each of which we already know how to represent."
+  },
+  {
+    "id": "p-96b0be",
+    "offset": 5941,
+    "text": "Similarly for the fifteen similar Propositions, in terms of x and m, or of y and m."
+  },
+  {
+    "id": "p-3d896f",
+    "offset": 6026,
+    "text": "These thirty-two Propositions of Relation are the only ones that we shall have to represent on this Diagram."
+  },
+  {
+    "id": "p-87484d",
+    "offset": 6136,
+    "text": "The Reader should now get his genial friend to question him on the following four Tables."
+  },
+  {
+    "id": "p-a310e1",
+    "offset": 6227,
+    "text": "The Victim should have nothing before him but a blank Triliteral Diagram, a Red Counter, and 2 Grey ones, with which he is to represent the various Propositions named by the Inquisitor, *e.g.* \"No y' are m\", \"Some xm' exist\", &c., &c. pg046 TABLE V."
+  },
+  {
+    "id": "p-368057",
+    "offset": 6478,
+    "text": "CHAPTER III."
+  },
+  {
+    "id": "p-73139a",
+    "offset": 6492,
+    "text": "_REPRESENTATION OF TWO PROPOSITIONS OF RELATION, ONE IN TERMS OF x AND m, AND THE OTHER IN TERMS OF y AND m, ON THE SAME DIAGRAM._"
+  },
+  {
+    "id": "p-4d7d1f",
+    "offset": 6624,
+    "text": "The Reader had better now begin to draw little Diagrams for himself, and to mark them with the Digits \"I\" and \"O\", instead of using the Board and Counters: he may put a \"I\" to represent a *Red* Counter (this may be interpreted to mean \"There is at least *one* Thing here\"), and a \"O\" to represent a *Grey* Counter (this may be interpreted to mean \"There is *nothing* here\")."
+  },
+  {
+    "id": "p-01731d",
+    "offset": 7000,
+    "text": "The Pair of Propositions, that we shall have to represent, will always be, one in terms of x and m, and the other in terms of y and m."
+  },
+  {
+    "id": "p-1eda38",
+    "offset": 7136,
+    "text": "When we have to represent a Proposition beginning with \"All\", we break it up into the *two* Propositions to which it is equivalent."
+  },
+  {
+    "id": "p-6da7b2",
+    "offset": 7269,
+    "text": "When we have to represent, on the same Diagram, Propositions, of which some begin with \"Some\" and others with \"No\", we represent the *negative* ones *first*. This will sometimes save us from having to put a \"I\" \"on a fence\" and afterwards having to shift it into a Cell."
+  },
+  {
+    "id": "p-0adb8e",
+    "offset": 7541,
+    "text": "[Let us work a few examples."
+  },
+  {
+    "id": "p-fcbcec",
+    "offset": 7571,
+    "text": "Let us first represent \"No x are m'\". This gives us Diagram a."
+  },
+  {
+    "id": "p-90b152",
+    "offset": 7635,
+    "text": "\"Some m are x; No m are y\"."
+  },
+  {
+    "id": "p-5ce6d0",
+    "offset": 7664,
+    "text": "If, neglecting the Rule, we were begin with \"Some m are x\", we should get Diagram a."
+  },
+  {
+    "id": "p-f63f9c",
+    "offset": 7750,
+    "text": "And if we were then to take \"No m are y\", which tells us that the Inner N.W. Cell is *empty*, we should be obliged to take the \"I\" off the fence (as it no longer has the choice of *two* Cells), and to put it into the Inner N.E. Cell, as in Diagram c."
+  },
+  {
+    "id": "p-6a1db1",
+    "offset": 8002,
+    "text": "This trouble may be saved by beginning with \"No m are y\", as in Diagram b."
+  },
+  {
+    "id": "p-a0b2ee",
+    "offset": 8078,
+    "text": "And *now*, when we take \"Some m are x\", there is no fence to sit on! The \"I\" has to go, at once, into the N.E. Cell, as in Diagram c."
+  },
+  {
+    "id": "p-e54e11",
+    "offset": 8213,
+    "text": "Here we begin by breaking up the Second into the two Propositions to which it is equivalent. Thus we have *three* Propositions to represent, viz.--"
+  },
+  {
+    "id": "p-8ca62a",
+    "offset": 8362,
+    "text": "These we will take in the order 1, 3, 2."
+  },
+  {
+    "id": "p-45f622",
+    "offset": 8404,
+    "text": "First we take No. (1), viz. \"No x' are m'\". This gives us Diagram a. pg052 Adding to this, No. (3), viz. \"No m are y'\", we get Diagram b."
+  },
+  {
+    "id": "p-558ddb",
+    "offset": 8543,
+    "text": "This time the \"I\", representing No. (2), viz. \"Some m are y,\" has to sit on the fence, as there is no \"O\" to order it off! This gives us Diagram c."
+  },
+  {
+    "id": "p-065b93",
+    "offset": 8692,
+    "text": "\"All m are x; All y are m\"."
+  },
+  {
+    "id": "p-a0a35d",
+    "offset": 8721,
+    "text": "Here we break up *both* Propositions, and thus get *four* to represent, viz.--"
+  },
+  {
+    "id": "p-34509c",
+    "offset": 8801,
+    "text": "These we will take in the order 2, 4, 1, 3."
+  },
+  {
+    "id": "p-def614",
+    "offset": 8846,
+    "text": "First we take No. (2), viz. \"No m are x'\". This gives us Diagram a."
+  },
+  {
+    "id": "p-9817ab",
+    "offset": 8915,
+    "text": "To this we add No. (4), viz. \"No y are m'\", and thus get Diagram b."
+  },
+  {
+    "id": "p-266d09",
+    "offset": 8984,
+    "text": "If we were to add to this No. (1), viz. \"Some m are x\", we should have to put the \"I\" on a fence: so let us try No. (3) instead, viz. \"Some y are m\". This gives us Diagram c."
+  },
+  {
+    "id": "p-4824f0",
+    "offset": 9160,
+    "text": "And now there is no need to trouble about No. (1), as it would not add anything to our information to put a \"I\" on the fence. The Diagram *already* tells us that \"Some m are x\".]"
+  }
+]
