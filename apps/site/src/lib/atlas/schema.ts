@@ -22,7 +22,7 @@ const year = z
   .number()
   .int()
   .min(-1000)
-  .max(2000)
+  .max(2100)
   .refine((y) => y !== 0, 'there is no year 0');
 
 export const yearSpan = z
@@ -92,6 +92,10 @@ export const fieldEnum = z.enum([
   'mathematics',
   'astronomy',
   'fables',
+  'poetry',
+  'history',
+  'law',
+  'economics',
 ]);
 
 const title = z

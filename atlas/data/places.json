@@ -94,5 +94,45 @@
     "name": "Amsterdam",
     "modern": "Amsterdam, Netherlands",
     "note": "The freest publishing city of 17th-century Europe. An anonymous Dutch Hayy ibn Yaqzan appeared here in 1672, usually placed in Spinoza's circle."
+  },
+  {
+    "id": "florence",
+    "name": "Florence",
+    "modern": "Florence, Italy",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "note": "The city where Boccaccio housed a Calabrian Greek so Homer could speak Latin again, and where Ficino's Plato was printed in 1484."
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "modern": "Paris, France",
+    "lat": 48.8566,
+    "lon": 2.3522,
+    "note": "Where Comte and Dunoyer printed Le Censeur and the treatises the censors chased, and the capital their books never left in their own century."
+  },
+  {
+    "id": "calcutta",
+    "name": "Calcutta",
+    "modern": "Kolkata, India",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "note": "Capital of British Bengal, where the Asiatic Society and William Jones's translation projects made Sanskrit books answerable in English."
+  },
+  {
+    "id": "new-delhi",
+    "name": "New Delhi",
+    "modern": "New Delhi, India",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "note": "Ghalib's Delhi and, two centuries on, the city where Thothica's AI-assisted crossings of this atlas's newest chains are made."
+  },
+  {
+    "id": "boston",
+    "name": "Boston",
+    "modern": "Boston, USA",
+    "lat": 42.3601,
+    "lon": -71.0589,
+    "note": "Publishing center of nineteenth- and early twentieth-century American classicism, where Theodore Williams's Aeneid appeared."
   }
 ]

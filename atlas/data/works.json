@@ -382,5 +382,345 @@
         "source": "ben-zaken-2011"
       }
     ]
+  },
+  {
+    "id": "iliad",
+    "title": "Iliad",
+    "original": {
+      "text": "Ἰλιάς",
+      "translit": "Ilias",
+      "lang": "greek"
+    },
+    "author": "homer",
+    "composed": {
+      "from": -750,
+      "ca": true
+    },
+    "field": "poetry",
+    "read_slug": "homer-iliad-056ee9",
+    "summary": "The wrath of Achilles, sung before Greece could write it down. The founding epic of European literature waited two thousand years for a complete Western translation.",
+    "detail": "Unlike most books in this atlas, the Iliad never crossed into Arabic or Latin in antiquity entire; the medieval West knew Troy through Latin digests and romances while the Greek text lived in Byzantium. Its first complete Western crossing came absurdly late, in 1360s Florence, from a Calabrian Greek lodged in Boccaccio's house. After that the chain runs through London: Chapman's thunder, Pope's subscription rolls, and Butler's plain prose, which is the Iliad this library carries.",
+    "sources": [
+      {
+        "source": "wilson-1992"
+      },
+      {
+        "source": "reynolds-wilson-2013"
+      }
+    ]
+  },
+  {
+    "id": "odyssey",
+    "title": "Odyssey",
+    "original": {
+      "text": "Ὀδύσσεια",
+      "translit": "Odysseia",
+      "lang": "greek"
+    },
+    "author": "homer",
+    "composed": {
+      "from": -725,
+      "ca": true
+    },
+    "field": "poetry",
+    "read_slug": "homer-odyssey-34e6a4",
+    "summary": "The homecoming epic, carried west in the same Florentine project that moved the Iliad, and re-voiced in English in every century since.",
+    "detail": "Pilatus turned it into Latin alongside the Iliad for Boccaccio's circle. Chapman completed the pair in 1616; Pope followed with collaborators he did not loudly advertise; Butler, who suspected a woman wrote it, gave it the prose this library reads.",
+    "sources": [
+      {
+        "source": "wilson-1992"
+      }
+    ]
+  },
+  {
+    "id": "republic",
+    "title": "Republic",
+    "original": {
+      "text": "Πολιτεία",
+      "translit": "Politeia",
+      "lang": "greek"
+    },
+    "author": "plato",
+    "composed": {
+      "from": -380,
+      "to": -370,
+      "ca": true,
+      "place": "athens"
+    },
+    "field": "philosophy",
+    "read_slug": "plato-republic-2bf014",
+    "summary": "The design of the just city and the just soul. The Arabs philosophized with it secondhand; the West got it whole only when Ficino's Latin Plato was printed in 1484.",
+    "detail": "The Republic is the strange inverse of this atlas's Aristotle chains: Baghdad never had the full text, so Averroes, lacking the Politics, wrote his political commentary on the Republic instead, and that commentary survives through Hebrew. The complete book reached Latin with Ficino in Florence and English with Spens and then Jowett; the Loeb English of Paul Shorey is the one this library carries.",
+    "sources": [
+      {
+        "source": "hankins-1990"
+      },
+      {
+        "source": "shorey-1930"
+      }
+    ]
+  },
+  {
+    "id": "nicomachean-ethics",
+    "title": "Nicomachean Ethics",
+    "original": {
+      "text": "Ἠθικὰ Νικομάχεια",
+      "translit": "Ethika Nikomacheia",
+      "lang": "greek"
+    },
+    "author": "aristotle",
+    "composed": {
+      "from": -340,
+      "ca": true,
+      "place": "athens"
+    },
+    "field": "philosophy",
+    "read_slug": "aristotle-nicomachean-ethics-ac98dd",
+    "summary": "Aristotle's lectures on the good life, which entered Arabic in the Hunayn workshop's orbit and reached complete Latin through a bishop of Lincoln.",
+    "detail": "The Arabic Ethics survives in a single Fez manuscript, its translator credits tangled enough that scholarship still argues over which books are Ishaq ibn Hunayn's and which belong to the older Ustath tradition. The Latin West read fragments (the Ethica vetus and nova) until Robert Grosseteste produced the first complete translation from the Greek around 1246-47. The Loeb English of Harris Rackham is the one this library carries.",
+    "sources": [
+      {
+        "source": "akasoy-fidora-2005"
+      },
+      {
+        "source": "dod-1982"
+      }
+    ]
+  },
+  {
+    "id": "peloponnesian-war",
+    "title": "History of the Peloponnesian War",
+    "original": {
+      "text": "Ἱστορίαι",
+      "translit": "Historiai",
+      "lang": "greek"
+    },
+    "author": "thucydides",
+    "composed": {
+      "from": -410,
+      "to": -400,
+      "ca": true
+    },
+    "field": "history",
+    "read_slug": "thucydides-history-of-the-peloponnesian-war-af5aa9",
+    "summary": "The war that broke the Greek world, written to be useful forever. Its English chain begins with Thomas Hobbes, who translated it as a warning.",
+    "detail": "The medieval West did not read Thucydides; he returned through papal Rome, where Valla turned him into Latin for Nicholas V around 1452. The first English (Nicolls, 1550) was made from a French version of Valla's Latin, at third hand. Hobbes went back to the Greek in 1629 because, he said, Thucydides best showed how democracies fare in war. The Victorian crib of Henry Dale is the English this library carries.",
+    "sources": [
+      {
+        "source": "wilson-1992"
+      },
+      {
+        "source": "hobbes-1629"
+      }
+    ]
+  },
+  {
+    "id": "histories-herodotus",
+    "title": "The Histories",
+    "original": {
+      "text": "Ἱστορίαι",
+      "translit": "Historiai",
+      "lang": "greek"
+    },
+    "author": "herodotus",
+    "composed": {
+      "from": -430,
+      "ca": true
+    },
+    "field": "history",
+    "read_slug": "herodotus-the-histories-ecffbd",
+    "summary": "The display of Herodotus's inquiry, so that things done by man not be forgotten in time. Valla carried him into Latin in the same papal project that moved Thucydides.",
+    "detail": "Herodotus came back to the West in the 1450s through Valla's Latin, finished for the same Roman patronage that paid for Thucydides. The Loeb English of A. D. Godley is the one this library carries, complete with Halicarnassus restored to its own name.",
+    "sources": [
+      {
+        "source": "wilson-1992"
+      },
+      {
+        "source": "godley-1920"
+      }
+    ]
+  },
+  {
+    "id": "de-rerum-natura",
+    "title": "De Rerum Natura",
+    "original": {
+      "text": "De rerum natura",
+      "lang": "latin"
+    },
+    "author": "lucretius",
+    "composed": {
+      "from": -55,
+      "ca": true,
+      "place": "rome"
+    },
+    "field": "philosophy",
+    "read_slug": "lucretius-de-rerum-natura-4543ca",
+    "summary": "Epicurus in Latin verse: atoms, void, and freedom from fear. The book slept through the Middle Ages in a few Carolingian copies until a papal secretary found one in 1417.",
+    "detail": "Two ninth-century manuscripts, the Oblongus and the Quadratus, carried the poem through the centuries when nobody quoted it. In January 1417 Poggio Bracciolini, hunting manuscripts between jobs at the Council of Constance, found a copy in a German monastery and sent it to Florence; his own find is lost, the copy made from it survives. Creech gave it complete English verse in 1682; the Leonard verse translation of 1916 is the one this library carries.",
+    "sources": [
+      {
+        "source": "reynolds-wilson-2013"
+      },
+      {
+        "source": "leonard-1916"
+      }
+    ]
+  },
+  {
+    "id": "aeneid",
+    "title": "Aeneid",
+    "original": {
+      "text": "Aeneis",
+      "lang": "latin"
+    },
+    "author": "virgil",
+    "composed": {
+      "from": -29,
+      "to": -19,
+      "place": "rome"
+    },
+    "field": "poetry",
+    "read_slug": "virgil-aeneid-659242",
+    "summary": "Rome's founding epic, never lost and never done: every age of English has felt obliged to make its own.",
+    "detail": "The Aeneid is the atlas's control case: a book that survived continuously and still kept crossing. Gavin Douglas finished a complete Scots Eneados in 1513, the first in any Anglic tongue; Dryden's 1697 subscription Virgil ruled for a century; the Boston verse of Theodore Williams is the English this library carries.",
+    "sources": [
+      {
+        "source": "dryden-1697"
+      },
+      {
+        "source": "williams-1910"
+      }
+    ]
+  },
+  {
+    "id": "manusmriti",
+    "title": "Manusmriti",
+    "original": {
+      "text": "मनुस्मृति",
+      "translit": "Manusmrti",
+      "lang": "sanskrit"
+    },
+    "author": "manu",
+    "attribution": "traditional",
+    "composed": {
+      "from": -200,
+      "to": 200,
+      "ca": true
+    },
+    "field": "law",
+    "read_slug": "unknown-manusmrti-347b76",
+    "summary": "The ordinances of Manu: dharma codified. Its English chain begins with a Calcutta judge who needed the law he was supposed to administer.",
+    "detail": "William Jones translated the Manusmriti because British courts in Bengal claimed to apply Hindu law without being able to read it; he worked with the pandits of the Asiatic Society's circle and published the Institutes of Hindu Law in Calcutta in 1794, the year he died. Buhler's Sacred Books of the East version replaced it for scholars in 1886. This library carries the smriti corpus in fresh AI-assisted translation alongside the atlas of its first crossing.",
+    "sources": [
+      {
+        "source": "jones-1794"
+      },
+      {
+        "source": "cannon-1990"
+      },
+      {
+        "source": "buhler-1886"
+      }
+    ]
+  },
+  {
+    "id": "traite-de-legislation",
+    "title": "Traité de législation",
+    "original": {
+      "text": "Traité de législation, ou exposition des lois générales",
+      "lang": "french"
+    },
+    "author": "charles-comte",
+    "composed": {
+      "from": 1826,
+      "to": 1827,
+      "place": "paris"
+    },
+    "field": "law",
+    "read_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+    "summary": "Comte's four-volume study of how laws actually shape peoples, written by a man the Restoration's censors had already chased across two borders.",
+    "detail": "This is the atlas's newest kind of chain: a book famous in citation and absent in translation. Economists and historians of liberalism cited the Traité for two centuries while no complete English existed. The crossing finally happened in New Delhi in 2026, an AI-assisted translation made by Thothica from the editions kept findable by David Hart's digital library; this library is where it lives.",
+    "sources": [
+      {
+        "source": "hart-dlp"
+      },
+      {
+        "source": "falsafa-2026"
+      }
+    ]
+  },
+  {
+    "id": "nouveau-traite-deconomie",
+    "title": "Nouveau traité d'économie sociale",
+    "original": {
+      "text": "Nouveau traité d'économie sociale",
+      "lang": "french"
+    },
+    "author": "charles-dunoyer",
+    "composed": {
+      "from": 1830,
+      "place": "paris"
+    },
+    "field": "economics",
+    "read_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+    "summary": "Dunoyer's treatise on liberty as the condition of all production, the other half of the Censeur project, untranslated for as long as its twin.",
+    "detail": "Dunoyer opens by setting aside the free-will debate in a sentence and getting to work, which is the book in miniature. Like Comte's treatises it traveled as reputation rather than text until the same New Delhi crossing of 2026 carried it into English in this library.",
+    "sources": [
+      {
+        "source": "hart-dlp"
+      },
+      {
+        "source": "falsafa-2026"
+      }
+    ]
+  },
+  {
+    "id": "zuruckforderung-der-denkfreiheit",
+    "title": "Reclamation of the Freedom of Thought",
+    "original": {
+      "text": "Zurückforderung der Denkfreiheit von den Fürsten Europens",
+      "lang": "german"
+    },
+    "author": "fichte",
+    "composed": {
+      "from": 1793
+    },
+    "field": "philosophy",
+    "read_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+    "summary": "Fichte's anonymous 1793 speech demanding back the freedom of thought from the princes of Europe, quoting Rousseau that every honest man must acknowledge what he has written.",
+    "detail": "The pamphlet appeared anonymously at the height of the censorship panic after the French Revolution. English readers had access to a translation in James Schmidt's 1996 Enlightenment anthology; the complete crossing carried in this library was made in New Delhi in 2026.",
+    "sources": [
+      {
+        "source": "schmidt-1996"
+      },
+      {
+        "source": "falsafa-2026"
+      }
+    ]
+  },
+  {
+    "id": "diwan-e-ghalib",
+    "title": "Diwan-e-Ghalib",
+    "original": {
+      "text": "دیوانِ غالب",
+      "translit": "Diwan-e-Ghalib",
+      "lang": "urdu"
+    },
+    "author": "mirza-ghalib",
+    "composed": {
+      "from": 1816,
+      "to": 1841,
+      "ca": true,
+      "place": "new-delhi"
+    },
+    "field": "poetry",
+    "read_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+    "summary": "The published divan of the greatest Urdu ghazal poet, translated in parts for a century and a half by everyone who loved it, and carried here entire.",
+    "detail": "Ghalib pruned his own divan ruthlessly for its first printing in Delhi in 1841; the rejected verses fill scholarly editions to this day. English has nibbled at it ever since, a ghazal here, a quatrain there, because the radif, the repeated end-phrase every couplet must land on, defeats translators. The complete AI-assisted crossing in this library keeps the radif: in its first ghazal every couplet still lands on 'it is not there'.",
+    "sources": [
+      {
+        "source": "falsafa-2026"
+      }
+    ]
   }
 ]

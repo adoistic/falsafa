@@ -63,9 +63,21 @@ export const chapters: Chapter[] = [
   { number: 9, slug: 'the-new-carriers', title: 'The new carriers', file: '09-the-new-carriers.md' },
   {
     number: 10,
+    slug: 'carried-by-mention',
+    title: 'Carried by mention',
+    file: '10-carried-by-mention.md',
+  },
+  {
+    number: 11,
+    slug: 'the-fascination-clause',
+    title: 'The fascination clause',
+    file: '11-the-fascination-clause.md',
+  },
+  {
+    number: 12,
     slug: 'afterword-why-falsafa',
     title: 'Afterword: why Falsafa',
-    file: '10-afterword-why-falsafa.md',
+    file: '12-afterword-why-falsafa.md',
   },
 ];
 
@@ -75,6 +87,6 @@ export function chapterMarkdown(chapter: Chapter): string {
 
 export function chapterLabel(chapter: Chapter): string {
   if (chapter.number === 0) return 'Preface';
-  if (chapter.number === 10) return 'Afterword';
+  if (chapter.slug === 'afterword-why-falsafa') return 'Afterword';
   return `Chapter ${chapter.number}`;
 }

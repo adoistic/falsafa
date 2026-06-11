@@ -98,5 +98,35 @@
     "dir": "ltr",
     "hue": "#4a5468",
     "note": "A late arrival. English readers met the Arabic philosophical tradition through 17th and 18th century Oxford and London, where this atlas currently ends."
+  },
+  {
+    "id": "french",
+    "name": "French",
+    "endonym": "français",
+    "script": "latin",
+    "dir": "ltr",
+    "bcp47": "fr",
+    "hue": "#3d5a80",
+    "note": "The language of the post-revolutionary political economy that Comte and Dunoyer wrote, and of the long nineteenth century in which their books stayed home."
+  },
+  {
+    "id": "german",
+    "name": "German",
+    "endonym": "Deutsch",
+    "script": "latin",
+    "dir": "ltr",
+    "bcp47": "de",
+    "hue": "#6b4d57",
+    "note": "The language of the late Enlightenment pamphlet wars, including Fichte's anonymous defense of the freedom of thought."
+  },
+  {
+    "id": "urdu",
+    "name": "Urdu",
+    "endonym": "اردو",
+    "script": "arabic",
+    "dir": "rtl",
+    "bcp47": "ur",
+    "hue": "#2e6e5a",
+    "note": "The court and street language of late Mughal Delhi, whose ghazal tradition reached its height with Ghalib and Zauq."
   }
 ]
