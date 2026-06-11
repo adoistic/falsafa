@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-where-and-why-public-ownership-h-c6bd7f",
+  "work_title": "Where and Why Public Ownership Has Failed",
+  "chapter_number": 3,
+  "chapter_title": "CHAPTER II: THE THREE MAINSPRINGS OF HUMAN ACTION",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6c4f1fa4-763c-505c-a0b5-77b94656f857",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 481,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
+    }
+  ]
+}

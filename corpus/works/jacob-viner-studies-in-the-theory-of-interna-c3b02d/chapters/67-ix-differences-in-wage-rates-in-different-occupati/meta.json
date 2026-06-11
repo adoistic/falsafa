@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 67,
+  "chapter_title": "IX. Differences in Wage Rates in Different Occupations",
+  "chapter_slug": "67-ix-differences-in-wage-rates-in-different-occupati",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ab65628-7d9f-5c09-9421-0079fe4b554e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1927,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

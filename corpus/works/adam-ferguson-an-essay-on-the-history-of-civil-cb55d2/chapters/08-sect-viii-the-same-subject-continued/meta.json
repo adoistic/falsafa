@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-ferguson-an-essay-on-the-history-of-civil-cb55d2",
+  "work_title": "An Essay on the History of Civil Society",
+  "chapter_number": 8,
+  "chapter_title": "SECT. VIII.: The same subject continued.",
+  "chapter_slug": "08-sect-viii-the-same-subject-continued",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d3bfffe2-b6f5-5aeb-998a-898332281f41",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3556,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ferguson-an-essay-on-the-history-of-civil-society"
+    }
+  ]
+}

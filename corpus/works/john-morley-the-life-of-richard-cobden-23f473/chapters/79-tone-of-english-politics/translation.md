@@ -1,0 +1,25 @@
+---
+work_id: "23f473cc-89f1-56d1-9b04-85236b1f30bc"
+work_slug: "john-morley-the-life-of-richard-cobden-23f473"
+work_title: The Life of Richard Cobden
+author_name: John Morley
+chapter_number: 79
+chapter_title: Tone of English Politics
+chapter_slug: "79-tone-of-english-politics"
+variant_id: "650f1dab-3e05-5eda-b443-af3fd45dabea"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 522
+source_url: "https://oll.libertyfund.org/titles/morley-the-life-of-richard-cobden"
+translator: Online Library of Liberty edition
+---
+
+“Midhurst, Nov. 5. (To M. Chevalier.)—I am glad to hear that you and Madame Chevalier are returning in good health Edition: current; Page: [914] to Paris. It is a long time since we exchanged letters. But I have been vegetating here ever since the close of the Session of Parliament, and have had no news to communicate to distant friends. I have not yet made up my mind whether I shall leave home for a more sunny region this winter. It will depend on my health and the temperature of our English winter. I do not contemplate in any case going to Africa. It may be necessary for me to go to Southern Europe. But I confess I have a great repugnance to making a journey of a thousand miles merely on an errand of health.
+
+“I have received the Débats with its article on the Metric system. We have made a first step; but when I think with what Chinese slowness we march in the path of reform, it makes me despair of living to see this useful change carried into effect.
+
+“Our politics are very stagnant. How could they be otherwise?...But there is one great change amounting to a revolution which has been accomplished in our foreign policy. After the fiasco of last Session on the Danish question, our Foreign Office will never again attempt to involve us in any European entanglements for the Balance of Power, or for any dynastic purpose. Henceforth we shall observe an absolute abstention from continental politics. Non-intervention is the policy of all future governments in this country. So let the Grand Turk take care of himself, for we shall never fight his battle again. Until the American war is at an end we shall not recover our natural tone of politics in this country. I am still convinced the South will have to succumb. The geographical difficulties of separation have always appeared to me to be insurmountable. The mouth of the Mississippi alone is enough to prevent Jeff Davis from establishing his slave empire. It would be easier to establish an ‘East Anglia’ Edition: current; Page: [915] by the secession of Kept and Essex at the mouth of the Thames, than to set up an independent State in Louisiana. It is not a question ever to be discussed. It is an impossibility. Have you not like myself been astonished at the financial resources of the North? I have just seen a pamphlet recently published in Washington by Mr. Blodget on the financial and industrial resources of the Union. I have been astounded by the facts and figures it gives from Government returns, railway traffics, &c., showing the almost incredible and fabulous increase of every kind of production in the Northern States during the last three years of war. It is quite clear that America stands on a different footing from the old world, and that its powers, whether in peace or war, are to be measured by a different standard. In comparing their powers of endurance or recovery, we must consider the one to be a man of twenty-five and the other of sixty....”

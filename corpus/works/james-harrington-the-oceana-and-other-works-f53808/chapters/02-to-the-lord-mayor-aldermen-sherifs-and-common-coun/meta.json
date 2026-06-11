@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 2,
+  "chapter_title": "TO THE LORD MAYOR, ALDERMEN, SHERIFS, AND COMMON COUNCIL OF LONDON.",
+  "chapter_slug": "02-to-the-lord-mayor-aldermen-sherifs-and-common-coun",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f51237b6-21a3-52ef-a805-fd5fbdcc8c64",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2075,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

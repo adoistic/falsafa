@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 62,
+  "chapter_title": "ESSAY ON THE INFLUENCE OF A LOW PRICE OF CORN ON THE PROFITS OF STOCK.",
+  "chapter_slug": "62-essay-on-the-influence-of-a-low-price-of-corn-on-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "25fa05cd-ef9b-524d-9c9c-685eef84fd75",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8399,
+      "paragraph_count": 98,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+---
+work_id: "a58c66b4-7eaf-5b11-bc82-746fb1fc7cc2"
+work_slug: "dante-alighieri-de-monarchia-a58c66"
+work_title: De Monarchia
+author_name: Dante Alighieri
+chapter_number: 44
+chapter_title: "CHAPTER XII: Argument from reason."
+chapter_slug: 44
+variant_id: "55f9bc5e-3176-53b1-a0e8-136fd57c611a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 810
+source_url: "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"
+translator: Online Library of Liberty edition
+---
+
+1. Their argument from reason, however, is this. They lay down the principle advanced in the tenth book of the First Philosophy, that “all things of one genus are reducible to a type which is the standard of measurement for all within the genus.” Since all men are of one genus, they ought to be reducible to a type as a standard for all others. And since the Supreme Pontiff and the Emperor are men, they must therefore, if our conclusion is true, be reducible to one man. And since the Pope cannot be subordinated to another, it remains for the Emperor and all others to be subordinated to the Pope as their measure and rule; whence results the conclusion they desire.
+
+2. That this reasoning may be invalidated, I agree that their statement is true that all things of one genus ought to be reduced to some one member of that genus as a standard of measurement. Likewise is it true that all men are of one genus. Also is true their conclusion drawn from these that all men ought to be Edition: current; Page: [184] subordinated to one standard for the genus. But when from this conclusion they draw the further inference concerning Pope and Emperor, they deceive themselves with the fallacy of accidental attributes.
+
+3. To make this evident, be it known that it is one thing to be a man and another thing to be a Pope. And just so it is one thing to be a man and another thing to be an Emperor, as it is one thing to be a man and another to be a father or master. Man is man because of his substantial form, which is the determinant of his species and genus, and which places him under the category of substance. But a father is such because of an accidental form, that of relation, which is the determinant of a certain species and genus, and which places him under the category of relation. Otherwise everything would be reduced to the category of substance, since no Edition: current; Page: [185] accidental form exists in itself, apart from the basis of underlying substance. But this is false. Therefore since the Pope and Emperor are what they are because of certain relations, the former through the Papacy, a relation in the province of fatherhood, and the latter through the Empire, a relation in the province of government, it is manifest that the Pope and the Emperor, in so far as they are such, must have place under the category of relation, and consequently must be subordinated to something in that genus.
+
+4. Whence, I repeat, they are to be measured by one standard in so far as they are men, and by another in so far as they are Pope and Emperor. Now, in so far as they are men, they have to be measured by the best man (whoever he may be), that is, by him who is the standard and ideal of all men, and who has the most perfect unity among his kind, as we may learn from the last book to Nicomachus. But in as far as they are relative, it is evident that one must be measured by the other, if one is subordinate; or they must unite in a common species from the nature of their relation; or they must Edition: current; Page: [186] be measured by a third something as their common ground of unity. But it cannot be maintained that one is subordinate to the other; that is, it is false to predicate one of the other, to call the Emperor the Pope, or to call the Pope the Emperor. Nor is it possible to maintain that they unite in a common species, for the relation of Pope, as such, is other than the relation of Emperor as Emperor. Therefore they must be measured by something beyond themselves in which they shall find a ground of unity.
+
+5. At this point it must be understood that as relation stands to relation, so stands related thing to related thing. Hence if the Papacy and Empire, being relations of authority, must be measured with regard to the supreme authority from which they and their characteristic differences are derived, the Pope and Emperor, being relative, must be referred to some unity wherein may be found the supreme authority without these characteristic differences. And this will be either God Himself, in whom every relation is universally united, or in some substance inferior to God, in whom is found a supreme authority differentiated and derived from His perfect supremacy. And so it is evident that the Pope Edition: current; Page: [187] and Emperor, as men, are to be measured by one standard, but as Pope and Emperor by another. And this demonstration is from the argument according to reason.

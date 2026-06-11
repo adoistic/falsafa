@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-principles-of-psychology-794dba",
+  "work_title": "The Principles of Psychology",
+  "chapter_number": 41,
+  "chapter_title": "CHAPTER X.: THE CORRESPONDENCE AS INCREASING IN SPECIALITY.",
+  "chapter_slug": "41",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6da6c29d-eda5-5ac3-b7b6-5ab7025ce022",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4805,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-principles-of-psychology-1855"
+    }
+  ]
+}

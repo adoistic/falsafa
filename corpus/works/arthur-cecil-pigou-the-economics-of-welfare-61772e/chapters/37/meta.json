@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 37,
+  "chapter_title": "Chapter III: VOLUNTARY ARRANGEMENTS FOR CONCILIATION AND ARBITRATION",
+  "chapter_slug": "37",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "411d295c-e142-51cd-aef2-0d5ea1d93374",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4716,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5",
+  "work_title": "The Ecclesiastical History of the English Nation",
+  "chapter_number": 25,
+  "chapter_title": "CHAPTER XX",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "03ce5bb3-ebd8-54af-8a69-9ffb93713c30",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 587,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+    }
+  ]
+}

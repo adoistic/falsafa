@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-protectionism-the-ism-which-teac-b66af5",
+  "work_title": "Protectionism: The -ism Which Teaches That Waste Makes Wealth",
+  "chapter_number": 23,
+  "chapter_title": "A.): Taxes to offset Cheapened Transportation.",
+  "chapter_slug": "23-a-taxes-to-offset-cheapened-transportation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f3f1940-240d-5519-a55a-7ff3cc9cfe62",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 723,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-protectionism-the-ism-which-teaches-that-waste-makes-wealth"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 4,
+  "chapter_title": "TO MY MOST HONOR’D FRIEND Mr FRANCIS GODOLPHIN of Godolphin.",
+  "chapter_slug": "04-to-my-most-honor-d-friend-mr-francis-godolphin-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10a4761a-d54a-5d30-aeff-c629a6c519d7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 393,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

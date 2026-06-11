@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 22,
+  "chapter_title": "PREFACE TO THE READER.",
+  "chapter_slug": "22-preface-to-the-reader",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cfd2fd17-4ffe-5720-9958-c5bcab712222",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1190,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

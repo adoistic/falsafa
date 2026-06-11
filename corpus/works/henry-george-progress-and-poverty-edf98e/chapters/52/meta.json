@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-progress-and-poverty-edf98e",
+  "work_title": "Progress and Poverty",
+  "chapter_number": 52,
+  "chapter_title": "Book IX Effects of the Remedy",
+  "chapter_slug": "52",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "80a01682-3ed7-529a-bc04-f80a203237b6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 78,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
+    }
+  ]
+}

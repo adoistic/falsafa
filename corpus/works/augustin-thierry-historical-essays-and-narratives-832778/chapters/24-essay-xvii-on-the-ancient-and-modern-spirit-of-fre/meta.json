@@ -1,0 +1,26 @@
+{
+  "work_slug": "augustin-thierry-historical-essays-and-narratives-832778",
+  "work_title": "Historical Essays and Narratives of the Merovingian Era",
+  "chapter_number": 24,
+  "chapter_title": "ESSAY XVII.: ON THE ANCIENT AND MODERN SPIRIT OF FRENCH LAWYERS, A PROPOS OF THE UNIVERSAL JOURNAL OF LEGISLATION AND JU",
+  "chapter_slug": "24-essay-xvii-on-the-ancient-and-modern-spirit-of-fre",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e8dd50a7-b18a-5d09-b461-14336a650c4e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2135,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thierry-the-historical-essays-and-narratives-of-the-merovingian-era"
+    }
+  ]
+}

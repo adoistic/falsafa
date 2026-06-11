@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362",
+  "work_title": "A Treatise on Political Economy",
+  "chapter_number": 34,
+  "chapter_title": "Corollary.",
+  "chapter_slug": "34-corollary",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8755fb4-e735-5c63-b657-382e995a0ea5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 68,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
+    }
+  ]
+}

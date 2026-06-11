@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-social-statics-32e645",
+  "work_title": "Social Statics",
+  "chapter_number": 72,
+  "chapter_title": "§ 3.",
+  "chapter_slug": "72-3",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b7f10cca-4015-5f11-ab62-5b7452043339",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 466,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+    }
+  ]
+}

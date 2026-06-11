@@ -1,0 +1,29 @@
+---
+work_id: "250a7b43-ec95-5f8a-be6f-a40fd2b3d743"
+work_slug: "eli-f-heckscher-the-continental-system-an-econom-250a7b"
+work_title: "The Continental System: An Economic Interpretation"
+author_name: Eli F. Heckscher
+chapter_number: 104
+chapter_title: IRON INDUSTRY
+chapter_slug: "104-iron-industry"
+variant_id: "95ca04d0-40da-53e0-ac32-e98fa59f1de9"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 848
+source_url: "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+translator: Online Library of Liberty edition
+---
+
+Still more striking is the stagnation and backwardness of French economic life in the sphere of the iron industry; and it is highly significant that Chaptal, in his detailed and enthusiastic description of the progress of industry, here confines himself Edition: current; Page: [284] exclusively to the department of manufacturing—especially the making of scythes, pins and needles, files, awls, hammers, and other tools—and says nothing about the production of iron, although it was just that which in England had undergone a complete revolution in all its stages during the preceding period. The explanation must be found in an almost incredible backwardness attributable to the French iron industry, which is all the more remarkable in view of the fact that that branch of industry was manifestly of the greatest importance in the incessant wars, and, to judge by accessible figures, had also undergone a very great quantitative development. Nevertheless, the fact itself seems to be quite evident, as shall now be shown.
+
+Although coking and the making of pig-iron by means of coke—that is to say, the smelting of iron-ore with the help of fossil fuel—date back to about 1735, and at least twenty years later had begun to be widespread in English iron-working, French smelting-furnaces continued to be operated almost entirely with charcoal, even after 1808, in spite of the shortage of wood which made its appearance in that year. The only known example of coke smelting-furnaces was offered by the now world-famous Creusot works, which had started the new methods in 1785; but the entire process went steadily backward during the revolutionary era. In 1796 the iron was so bad that it could be used only for ballast; in 1806 the orders of cannon for the Navy were taken away; and the annual production during the years 1809 to 1812 rose to no more than 2,300 to 3,000 tons. Quite parallel was the case with the revolutionary change in the production of malleable iron—smelting in Cort's reverberatory furnace or the puddling process—which freed this second stage of iron-working from dependence on charcoal. This invention was considerably younger, it is true, as it dates from 1783; but even during the eighties it had come into use in England and was at the time of the Continental System widely employed in English ironworking. During the years 1802 and 1803 it had been searchingly studied by the Swede, Svedenstjerna, and the Frenchman, Bonnard, working together. Here, too, the Creusot works Edition: current; Page: [285] seem to have been the only ones of any importance, inasmuch as a reverberatory furnace was started there in 1810, though it is not clear whether this involved any use of coal fuel; other experiments with puddling were failures from the very start.
+
+As regards the production of steel, that is to say, iron with a large content of carbon, Huntsman—also in England—had found a solution of the problem of producing cast-steel (crucible steel) about 1750,a solution which was rapidly noised abroad and twenty years later was pretty generally adopted in England. On the Continent this method seems to have been introduced in 1808 by the Swiss manufacturer, J. C. Fischer, whose establishment outside Schaffhausen became the object of great attention; and in 1812 the firm of Krupp was founded for the same purpose. But in the territories of the French empire only one isolated example of such manufacture is known, and that was introduced by two Belgians in Liège, incorporated territory. Finally, the level attained was also remarkably low in the engineering trade, which in England was already enormously developed as compared with the preceding period. The real pioneers in this respect within the French empire seem to have been two Scotsmen, father and son, of the afterwards famous name of Cockerill, who—also in Liège, in 1807—laid the foundation of the Belgian engineering trade.
+
+Thus France proper and the most important parts of the empire, as regards the iron and iron-working industries, practically remained unaffected by the advances of the preceding generation; this fact stands out in comparison, not only with England, but also with Germany, as well as Sweden, a country which held fast to old processes, but which even with them had attained great eminence. Consequently, the economist Blanqui was quite justified in saying toward the close of the Restoration that the advances in the iron industry in France were made almost entirely after 1814. In consequence of this the French iron industry in 1814 was quite defenceless in face of foreign Edition: current; Page: [286] competitors, who were stated to sell at 30-40 per cent. under French prices; the blockade had had no more stimulating effect than that a 50 per cent. customs duty was necessary to keep the industry going.
+
+The total impression we get in these essential industries, therefore, may be summarized somewhat as follows: The effect of the Continental System was primarily to exclude at least the industry of the French empire from British influences; and under the conditions then prevailing these influences were indispensable for every country desirous of participating in the fruits of the great economic revolution.

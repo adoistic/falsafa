@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 59,
+  "chapter_title": "God and Man From John Lilburne, The Free-man’s Freedom Vindicated (1646)",
+  "chapter_slug": "59-god-and-man-from-john-lilburne-the-free-man-s-free",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ee7c1d5d-53e3-55ad-8b27-487e219f0995",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 540,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0",
+  "work_title": "Money and the Mechanism of Exchange",
+  "chapter_number": 159,
+  "chapter_title": "The Cheque Bank as a Savings Bank.",
+  "chapter_slug": "159-the-cheque-bank-as-a-savings-bank",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a8ab963-4a3f-5f13-a9c9-4d324017047d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 275,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+    }
+  ]
+}

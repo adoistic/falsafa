@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-principles-of-psychology-794dba",
+  "work_title": "The Principles of Psychology",
+  "chapter_number": 16,
+  "chapter_title": "CHAPTER XI.: THE PERCEPTION OF BODY AS PRESENTING STATICO-DYNAMICAL AND STATICAL ATTRIBUTES.",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "966a8006-1a34-55f8-98b2-03087cc15865",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2856,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-principles-of-psychology-1855"
+    }
+  ]
+}

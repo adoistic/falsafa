@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 120,
+  "chapter_title": "BRITISH IMPORTS OF FOODSTUFFS",
+  "chapter_slug": "120-british-imports-of-foodstuffs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3063780e-aea9-5994-8460-5480b83571b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1687,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

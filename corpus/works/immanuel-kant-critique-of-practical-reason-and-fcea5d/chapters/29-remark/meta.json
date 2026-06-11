@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 29,
+  "chapter_title": "remark.",
+  "chapter_slug": "29-remark",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e785ba1-cbb8-5aac-93b6-95b64eada847",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 533,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

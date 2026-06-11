@@ -1,0 +1,29 @@
+---
+work_id: "91a5c993-a93f-5eda-a64d-e315561c8d03"
+work_slug: "voltaire-toleration-and-other-essays-91a5c9"
+work_title: Toleration and Other Essays
+author_name: Voltaire
+chapter_number: 30
+chapter_title: ARTICLE VII.
+chapter_slug: "30-article-vii"
+variant_id: "f7edb3ef-d83a-5c26-bf0a-057d78f6feca"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 587
+source_url: "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+translator: Online Library of Liberty edition
+---
+
+Thus the Christians made progress among the people by a device that invariably seduces ignorant folk. But they had a still more powerful means. They declaimed against the rich. They preached community of goods; in their secret meetings they enjoined their neophytes to give them the little money they had earned; and they quoted the alleged instance of Sapphira and Ananias (Acts v., 1–11). whom Simon Barjona, called Cephas, which means Peter, caused to die suddenly because they had kept a crown to themselves—the first and most detestable example of priestly covetousness.
+
+But they would not have succeeded in extorting the money of their neophytes if they had not preached the doctrine of the cynic philosophers—the idea of voluntary poverty. Even this, however, was not enough to form a new flock. The end of the world had been long announced. You will find it in Epicurus and Lucretius, his chief disciple. Ovid had said, in the days of Augustus:
+
+According to others, the world had been made by a fortuitous concourse of atoms, and would be destroyed Edition: current; Page: [143] by another fortuitous concourse, as we find in the poems of Lucretius.
+
+This idea came originally from the Brahmans of India. Many Jews had adopted it by the time of Herod. It is formally stated in the gospel of Luke, as you have seen; it is in Paul’s epistles; and it is in all those who are known as fathers of the Church. The world was about to be destroyed, it was thought; and the Christians announced a new Jerusalem, which was seen in the air by night. The Jews talked of nothing but a new kingdom of heaven; it was the system of John the Baptist, who had introduced on the Jordan the ancient Hindoo practice of baptism in the Ganges. Baptism was practised by the Egyptians, and adopted by the Jews. This new kingdom of heaven, to which the poor alone would be admitted, was preached by Jesus and his followers. They threatened with eternal torment those who would not believe in the new heaven. This hell, invented by the first Zoroaster, became one of the chief points of Egyptian theology. From the latter came the barque of Charon, Cerberus, the river Lethe, Tartarus, and the Furies. From Egypt the idea passed to Greece, and from there to the Romans; the Jews were unacquainted with it until the time when the Pharisees preached it, shortly before the reign of Herod. It was one of their contradictions to admit both hell and metempsychosis Edition: current; Page: [144] (transmigration of souls); but who would look for reasoning among the Jews? Their powers in that direction are confined to money matters. The Sadducees and Samaritans rejected the immortality of the soul, because it is not found anywhere in the Mosaic law.
+
+This was the great spring which the early Christians, all half-Jewish, relied upon to put the new machinery in action: community of goods, secret meals, hidden mysteries, gospels read to the initiated only, paradise for the poor, hell for the rich, and exorcisms by charlatans. Here, in strict truth, we have the first foundations of the Christian sect. If I deceive you—or, rather, if I deliberately deceive you—I pray the God of the universe, the God of all men, to wither the hand that writes this, to shatter with his lightning a head that is convinced of the existence of a good and just God, and to tear out from me a heart that worships him.

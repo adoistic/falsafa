@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-kants-principles-of-politics-inc-aadb1b",
+  "work_title": "Kant's Principles of Politics, including his Essay on Perpetual Peace",
+  "chapter_number": 16,
+  "chapter_title": "2.: ‘No State having an existence by itself—whether it be small or large—shall be acquirable by another State through in",
+  "chapter_slug": "16-2-no-state-having-an-existence-by-itself-whether-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5fd4777b-f2b1-5122-bf53-e9205547e44b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 246,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hastie-kant-s-principles-of-politics-including-his-essay-on-perpetual-peace"
+    }
+  ]
+}

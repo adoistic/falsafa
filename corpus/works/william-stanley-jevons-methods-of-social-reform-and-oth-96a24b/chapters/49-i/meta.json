@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-methods-of-social-reform-and-oth-96a24b",
+  "work_title": "Methods of Social Reform and Other Papers",
+  "chapter_number": 49,
+  "chapter_title": "I.",
+  "chapter_slug": "49-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "20cbfcbb-ed58-50e3-bf3e-c57aef84f87f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 788,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-methods-of-social-reform-and-other-papers"
+    }
+  ]
+}

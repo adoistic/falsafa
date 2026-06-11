@@ -1,0 +1,37 @@
+---
+work_id: "a58c66b4-7eaf-5b11-bc82-746fb1fc7cc2"
+work_slug: "dante-alighieri-de-monarchia-a58c66"
+work_title: De Monarchia
+author_name: Dante Alighieri
+chapter_number: 48
+chapter_title: "CHAPTER XVI: The authority of the Empire derives from God directly."
+chapter_slug: 48
+variant_id: "9c52d63d-208e-5f76-a93a-7f560a214e32"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1063
+source_url: "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"
+translator: Online Library of Liberty edition
+---
+
+1. Although by the method of reduction to absurdity it has been shown in the foregoing chapter that the authority of Empire has not its source in the Chief Pontiff, yet it has not been fully proved, save by an inference, that its immediate source is God, seeing that if the authority does not depend on the Vicar of God, we conclude that it depends on God Himself. For a perfect demonstration of the proposition we must prove directly that the Emperor, or Monarch, of the world has immediate relationship to the Prince of the universe, who is God.
+
+2. In order to realize this, it must be understood that man alone of all beings holds the middle place between corruptibility and incorruptibility, Edition: current; Page: [197] and is therefore rightly compared by philosophers to the horizon which lies between the two hemispheres. Man may be considered with regard to either of his essential parts, body or soul. If considered in regard to the body alone, he is perishable; if in regard to the soul alone, he is imperishable. So the Philosopher spoke well of its incorruptibility when he said in the second book on the Soul, “And this only can be separated as a thing eternal from that which perishes.”
+
+3. If man holds a middle place between the perishable and imperishable, then, inasmuch as Edition: current; Page: [198] every mean shares the nature of the extremes, man must share both natures. And inasmuch as every nature is ordained for a certain ultimate end, it follows that there exists for man a two-fold end, in order that as he alone of all beings partakes of the perishable and the imperishable, so he alone of all beings should be ordained for two ultimate ends. One end is for that in him which is perishable, the other for that which is imperishable.
+
+4. Ineffable Providence has thus designed two ends to be contemplated of man: first, the happiness of this life, which consists in the activity of his natural powers, and is prefigured by the terrestrial Paradise; and then the blessedness of life everlasting, which consists in the enjoyment of the countenance of God, to which man’s natural powers may not attain unless aided by divine light, and which may be symbolized by the celestial Paradise.
+
+5. To these states of blessedness, just as to diverse conclusions, man must come by diverse means. To the former we come by the teachings of philosophy, obeying them by acting in conformity with the moral and intellectual virtues; Edition: current; Page: [200] to the latter through spiritual teachings which transcend human reason, and which we obey by acting in conformity with the theological virtues, Faith, Hope, and Charity. Now the former end and means are made known to us by human reason, which the philosophers have wholly explained to us; and the latter by the Holy Spirit, which has revealed to us supernatural but essential truth through the Prophets Edition: current; Page: [201] and Sacred Writers, through Jesus Christ, the coeternal Son of God, and through His disciples. Nevertheless, human passion would cast all these behind, were not men, like horses astray in their brutishness, held to the road by bit and rein.
+
+6. Wherefore a twofold directive agent was necessary to man, in accordance with the twofold end; the Supreme Pontiff to lead the human race to life eternal by means of revelation, and the Emperor to guide it to temporal felicity by means of philosophic instruction. And Edition: current; Page: [203] since none or few—and these with exceeding difficulty—could attain this port, were not the waves of seductive desire calmed, and mankind made free to rest in the tranquillity of peace, therefore this is the goal which he whom we call the guardian of the earth and Roman Prince should most urgently seek; then would it be possible for life on this mortal threshing-floor to pass in freedom and peace. The order of the world follows the order inherent in the revolution of the heavens. To attain this order it is necessary that instruction productive of liberality and peace should be applied by the guardian of the realm, in due place and time, as dispensed by Him who is the ever present Watcher of the whole order of the heavens. Edition: current; Page: [204] And He alone foreordained this order, that by it in His providence He might link together all things, each in its own place.
+
+7. If this is so, and there is none higher than He, only God elects and only God confirms. Whence we may further conclude that neither those who are now, nor those who in any way whatsoever have been, called Electors, have the Edition: current; Page: [205] right to be so called; rather should they be entitled heralds of divine providence. Whence it is that those in whom is vested the dignity of proclamation suffer dissension among themselves at times, when, all or part of them being shadowed by the clouds of passion, they discern not the face of God’s dispensation.
+
+8. It is established, then, that the authority of temporal Monarchy descends without mediation from the fountain of universal authority. And this fountain, one in its purity of source, Edition: current; Page: [206] flows into multifarious channels out of the abundance of its excellence.
+
+9. Methinks I have now approached close enough to the goal I had set myself, for I have taken the kernels of truth from the husks of falsehood, in that question which asked whether the office of Monarchy was essential to the welfare of the world, and in the next which made inquiry whether the Roman people rightfully appropriated the Empire, and in the last which sought whether the authority of the Monarch derived from God immediately, or from some other. But the truth of this final question must not be restricted to mean that the Roman Prince shall not be subject in some degree to the Roman Pontiff, for felicity that is mortal is ordered in a measure after felicity that is immortal. Wherefore let Caesar honor Peter as a first-born son should honor his father, so that, refulgent with the light of paternal grace, he may illumine with greater radiance the earthly sphere over which he has been set by Him who alone is Ruler of all things spiritual and temporal.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 65,
+  "chapter_title": "Chapter XI: BOUNTIES ON THINGS PURCHASED BY THE POOR",
+  "chapter_slug": "65",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd246f35-9225-5f6d-8dce-625c9f2c3bd6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1447,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

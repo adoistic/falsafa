@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 120,
+  "chapter_title": "§ 8.Reasons for preferring the Median for Practical Purposes",
+  "chapter_slug": "120-8-reasons-for-preferring-the-median-for-practical-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8e44bb80-57cb-5924-80a4-83910ff7fb49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 787,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

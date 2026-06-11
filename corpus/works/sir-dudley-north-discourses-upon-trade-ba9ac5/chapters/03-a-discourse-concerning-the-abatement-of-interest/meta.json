@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-dudley-north-discourses-upon-trade-ba9ac5",
+  "work_title": "Discourses upon Trade",
+  "chapter_number": 3,
+  "chapter_title": "A DISCOURSE Concerning the Abatement of INTEREST.",
+  "chapter_slug": "03-a-discourse-concerning-the-abatement-of-interest",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9964039f-240e-508c-a845-68d8e06cb75c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2606,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hollander-discourses-upon-trade"
+    }
+  ]
+}

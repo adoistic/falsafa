@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-the-law-of-intellectual-property-cbbb74",
+  "work_title": "The Law of Intellectual Property",
+  "chapter_number": 21,
+  "chapter_title": "SECTION XI.: Objection Eleventh.",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ffde91bf-db36-5edd-b59d-ba0528b1910a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6258,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-the-law-of-intellectual-property-1855"
+    }
+  ]
+}

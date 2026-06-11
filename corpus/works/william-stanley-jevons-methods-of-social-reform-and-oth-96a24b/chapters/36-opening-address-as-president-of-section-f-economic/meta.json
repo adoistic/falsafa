@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-methods-of-social-reform-and-oth-96a24b",
+  "work_title": "Methods of Social Reform and Other Papers",
+  "chapter_number": 36,
+  "chapter_title": "OPENING ADDRESS as PRESIDENT OF SECTION F (ECONOMIC SCIENCE AND STATISTICS) of the BRITISH ASSOCIATION FOR THE ADVANCEME",
+  "chapter_slug": "36-opening-address-as-president-of-section-f-economic",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1ba642ac-5b1c-5efe-b6fe-a91773829f89",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6702,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-methods-of-social-reform-and-other-papers"
+    }
+  ]
+}

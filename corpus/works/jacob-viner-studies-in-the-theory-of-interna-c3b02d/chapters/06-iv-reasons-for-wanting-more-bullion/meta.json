@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 6,
+  "chapter_title": "IV. Reasons for Wanting More Bullion",
+  "chapter_slug": "06-iv-reasons-for-wanting-more-bullion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79f341e2-dd91-5a14-a49e-d10c1dd00014",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11757,
+      "paragraph_count": 101,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

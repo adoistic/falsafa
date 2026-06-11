@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-locke-two-treatises-of-government-fcc06c",
+  "work_title": "Two Treatises of Government",
+  "chapter_number": 164,
+  "chapter_title": "§. 163.",
+  "chapter_slug": "164-163",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fb9d5f11-d201-5528-8845-a87aca5855cb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 403,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+    }
+  ]
+}

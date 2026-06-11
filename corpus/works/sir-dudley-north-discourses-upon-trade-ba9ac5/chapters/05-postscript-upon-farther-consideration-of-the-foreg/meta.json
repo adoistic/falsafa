@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-dudley-north-discourses-upon-trade-ba9ac5",
+  "work_title": "Discourses upon Trade",
+  "chapter_number": 5,
+  "chapter_title": "|| Postscript. Upon farther Consideration of the Foregoing Matters, I think fit to add the following Notes.",
+  "chapter_slug": "05-postscript-upon-farther-consideration-of-the-foreg",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4c344e62-2fcc-5eb3-b105-84fe2932ba20",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1747,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hollander-discourses-upon-trade"
+    }
+  ]
+}

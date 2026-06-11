@@ -1,0 +1,21 @@
+---
+work_id: "fcc06cfa-2502-59f5-bb1a-03089f9078cd"
+work_slug: "john-locke-two-treatises-of-government-fcc06c"
+work_title: Two Treatises of Government
+author_name: John Locke
+chapter_number: 15
+chapter_title: §. 13.
+chapter_slug: "15-13"
+variant_id: "8712a7bd-7e3e-5998-b24e-c151f734a448"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 211
+source_url: "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+translator: Online Library of Liberty edition
+---
+
+If he has in that chapter, or any where in the whole treatise, given any other proofs of Adam’s royal authority, other than by often repeating it, which, among some men, goes for argument, I desire any body for him to shew me the place and page, that I may be convinced of my mistake, and acknowledge my oversight. If no such arguments Edition: current; Page: [15] are to be found, I beseech those men, who have so much cried up this book, to consider, whether they do not give the world cause to suspect, that it is not the force of reason and argument, that makes them for absolute monarchy, but some other by interest, and therefore are resolved to applaud any author, that writes in favour of this doctrine, whether he support it with reason or no. But I hope they do not expect, that rational and indifferent men should be brought over to their opinion, because this their great doctor of it, in a discourse made on purpose, to set up the absolute monarchical power of Adam, in opposition to the natural freedom of mankind, has said so little to prove it, from whence it is rather naturally to be concluded, that there is little to be said.

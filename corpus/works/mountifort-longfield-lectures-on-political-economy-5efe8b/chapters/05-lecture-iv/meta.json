@@ -1,0 +1,26 @@
+{
+  "work_slug": "mountifort-longfield-lectures-on-political-economy-5efe8b",
+  "work_title": "Lectures on Political Economy",
+  "chapter_number": 5,
+  "chapter_title": "LECTURE IV.",
+  "chapter_slug": "05-lecture-iv",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e54294a6-7226-5465-b12b-85feb9acf1dd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5368,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/longfield-lectures-on-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f",
+  "work_title": "Capital and Interest: A Critical History of Economical Theory",
+  "chapter_number": 30,
+  "chapter_title": "Book VI, Chapter III: Marx",
+  "chapter_slug": "30",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79ac305f-7ea7-5a62-b0b9-b01fe6080db8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9585,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-capital-and-interest-a-critical-history-of-economic-theory"
+    }
+  ]
+}

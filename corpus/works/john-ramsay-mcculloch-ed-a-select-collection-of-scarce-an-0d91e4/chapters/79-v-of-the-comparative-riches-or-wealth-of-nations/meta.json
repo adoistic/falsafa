@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 79,
+  "chapter_title": "V.: Of the comparative riches or wealth of nations.",
+  "chapter_slug": "79-v-of-the-comparative-riches-or-wealth-of-nations",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b22aae9-cf5b-52e0-8a28-4209d5a9151c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 658,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

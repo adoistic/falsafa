@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-hume-the-natural-history-of-religion-5e0aa3",
+  "work_title": "The Natural History of Religion",
+  "chapter_number": 6,
+  "chapter_title": "Section IV.: Deities not considered as Creators or Formers of the World.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c389a3eb-e8d2-57ff-8669-5799b543bd78",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1807,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/robertson-the-natural-history-of-religion"
+    }
+  ]
+}

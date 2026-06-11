@@ -1,0 +1,29 @@
+---
+work_id: "c34f2dbe-8897-57b3-9d3e-5d21586e8249"
+work_slug: "the-levellers-puritanism-and-liberty-the-army--c34f2d"
+work_title: "Puritanism and Liberty: The Army Debates (1647–9)"
+author_name: The Levellers
+chapter_number: 56
+chapter_title: "The Church Covenant From [Richard Mather], An Apology for Church Covenant (1643)"
+chapter_slug: "56-the-church-covenant-from-richard-mather-an-apology"
+variant_id: "0274c318-ef3e-5e05-b966-0d9b8d620191"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 790
+source_url: "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+translator: Online Library of Liberty edition
+---
+
+The Church Covenant may be proved from the New Testament. . . . But suppose there were not pregnant places for it in the New Testament, yet it is not enough to prove the same unlawful. For whatsoever ordinance of the Old Testament is not repealed in the New Testament, as peculiar to the Jewish pedagogy, but was of moral and perpetual equity, the same binds us in these days, and is to be accounted the revealed will of God in all ages, though it be not particularly and expressly mentioned in the writings of the New Testament. Else . . . how shall we prove it warrantable and necessary for magistrates to punish sabbath-breaking, blasphemy, and idolatry? * * * For the scriptures of the New Testament do speak little in these cases; only the scriptures of the Old Testament do give direction and light about them . . ., and the New Testament hath nothing to the contrary, and they are all according to moral equity and reason, and therefore they are to be observed from the scriptures of the Old Testament as the revealed will of God, though there were nothing expressly for them in the New. And the same we say for the particular in hand. For that a company should be combined together into one body, in way of government and subjection, by way of mutual free covenant, as men do when they enter into church estate, nothing is more natural or agreeable to moral equity; nay, it implieth a contradiction in the very name of liberty or freedom that free men should take upon them authority or power over free men without their free consent and voluntary and mutual covenant or engagement. And therefore seeing this covenant is not repealed in the scriptures of the New Testament, the scriptures of the Old are sufficient warrant for it. * * *
+
+We speak of voluntary relation; for there are natural relations, as between parents and children, and these need no covenant. There is no covenant to make a man a parent, or a child. There are also violent relations, as between conqueror and captives, and in these there is no covenant neither. But others are voluntary, and these always imply a covenant, and are founded therein, whether they be moral or civil, as between husband and wife (Prov. 2. 17); between master and servants (Luke 15. 15); between prince and subject; between partners in trade (2 Chron. 20. 35-7), where the covenant or agreement is that men shall bear such a share of charges, and receive such a share of profits; or religious, Edition: current; Page: [300] as between minister and people, between the church and the members. All these are done by way of covenant. * * * If men be united into a body politic or incorporate, a man cannot be said to be joined to them by mere hearty affection, unless withal he joins himself unto them by some contract or covenant. Now of this nature is every particular church, a body incorporate (1 Cor. 12. 27: Ye are the body of Christ, &c.), and hath power to cast-out (1 Cor. 5. 13), and to forgive and receive-in penitents (2 Cor. 7, 8), as a body incorporate; and therefore he that will join unto them must do it by way of covenant or agreement. * * * All voluntary relations, all relations which are neither natural nor violent, are entered into by way of covenant. * * *
+
+Churches have no power over such as have not engaged themselves by covenant, and committed power unto them by professing to be subject to all the ordinances of Christ amongst them.
+
+The truth whereof may appear by two reasons: First, because all Christians have power and right, jure divino, to choose their own officers to whom they commit their souls (Acts 6. 1; and 14. 23). * * * And as they have power to choose their officers, so likewise to choose their brethren according to God (Rom. 14. 1). Now if they have power to choose their officers and brethren, then none can have power over them as officers and brethren without their own consent, and whom they never chose, nor promised by any covenant or engagement to be subject to [in] the Lord.
+
+Secondly, if the church should exercise any act of church-power over such a man as never entered into covenant with them (suppose to excommunicate him for whoredom or drunkenness, or the like) the man might protest against their act, and their sentence, as coram non judice, and they could not justify their proceedings if indeed there have passed no covenant or engagement between him and them. * * *

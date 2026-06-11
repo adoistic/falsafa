@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc",
+  "work_title": "The History of Bimetallism in the United States",
+  "chapter_number": 39,
+  "chapter_title": "Of the fabrication of coins.",
+  "chapter_slug": "39-of-the-fabrication-of-coins",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "22d29db8-409e-5b22-88c5-4cae8612e1ea",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 457,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laughlin-the-history-of-bimetallism-in-the-united-states-1898"
+    }
+  ]
+}

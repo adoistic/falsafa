@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 67,
+  "chapter_title": "BOOK III, CHAPTER III: OF THE EFFECT OF PRODUCTIVE CONSUMPTION.",
+  "chapter_slug": "67",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe30e3ff-002e-5657-a6ec-350a3e3e996c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1079,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

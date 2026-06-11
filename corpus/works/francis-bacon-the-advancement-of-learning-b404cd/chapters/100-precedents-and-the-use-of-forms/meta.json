@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 100,
+  "chapter_title": "Precedents and the use of forms",
+  "chapter_slug": "100-precedents-and-the-use-of-forms",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4c43e7b4-d159-530e-8801-dc1330c9f757",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 615,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

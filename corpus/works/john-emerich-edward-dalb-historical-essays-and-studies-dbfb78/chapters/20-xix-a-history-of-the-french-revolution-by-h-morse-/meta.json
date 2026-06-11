@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-historical-essays-and-studies-dbfb78",
+  "work_title": "Historical Essays and Studies",
+  "chapter_number": 20,
+  "chapter_title": "XIX: A HISTORY OF THE FRENCH REVOLUTION. By H. Morse Stephens. Vol. II",
+  "chapter_slug": "20-xix-a-history-of-the-french-revolution-by-h-morse-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "106ada5c-9ec6-503b-b216-95da31f66c69",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1401,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laurence-historical-essays-and-studies"
+    }
+  ]
+}

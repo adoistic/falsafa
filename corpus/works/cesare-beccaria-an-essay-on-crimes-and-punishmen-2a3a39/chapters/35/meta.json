@@ -1,0 +1,26 @@
+{
+  "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
+  "work_title": "An Essay on Crimes and Punishments",
+  "chapter_number": 35,
+  "chapter_title": "CHAPTER XXXIII.: OF SMUGGLING.",
+  "chapter_slug": "35",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9340468-1206-507c-8886-e00c44d3384a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 480,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+    }
+  ]
+}

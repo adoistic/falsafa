@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-methods-of-social-reform-and-oth-96a24b",
+  "work_title": "Methods of Social Reform and Other Papers",
+  "chapter_number": 38,
+  "chapter_title": "APPENDIX B.: ON THE CONNECTION BETWEEN THE IRISH POPULATION AND THE RATE OF MORTALITY IN TOWNS.",
+  "chapter_slug": "38-appendix-b-on-the-connection-between-the-irish-pop",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "42e5731b-4faf-5dcb-9d88-fd3bc5b3da05",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 611,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-methods-of-social-reform-and-other-papers"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 4,
+  "chapter_title": "FIRST SECTION.: transition from the common rational knowledge of morality to the philosophical.",
+  "chapter_slug": "04-first-section-transition-from-the-common-rational-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ba057df0-d95e-57da-9097-ab96e021aa85",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5114,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

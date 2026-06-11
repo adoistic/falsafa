@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 35,
+  "chapter_title": "BOOK V, CHAPTER V: EQUILIBRIUM OF NORMAL DEMAND AND SUPPLY, CONTINUED, WITH REFERENCE TO LONG AND SHORT PERIODS.",
+  "chapter_slug": "35",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c700705d-b084-55ef-816c-69b93eff1bd5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5846,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

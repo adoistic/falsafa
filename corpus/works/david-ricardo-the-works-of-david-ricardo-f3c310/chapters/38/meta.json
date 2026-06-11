@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 38,
+  "chapter_title": "CHAPTER XXVIII.: ON THE COMPARATIVE VALUE OF GOLD, CORN, AND LABOUR IN RICH AND POOR COUNTRIES.",
+  "chapter_slug": "38",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b27f05b5-ed64-50b7-af72-6edf8f5ba374",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1990,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

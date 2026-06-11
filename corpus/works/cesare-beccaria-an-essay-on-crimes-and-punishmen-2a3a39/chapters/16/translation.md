@@ -1,0 +1,31 @@
+---
+work_id: "2a3a3942-8c47-5947-addf-a3a17979adcb"
+work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
+work_title: An Essay on Crimes and Punishments
+author_name: Cesare Beccaria
+chapter_number: 16
+chapter_title: "CHAPTER XIV.: OF EVIDENCE AND THE PROOFS OF A CRIME, AND OF THE FORM OF JUDGMENT."
+chapter_slug: 16
+variant_id: "1e449f89-5e7d-50fd-8dee-50c19397ee28"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 758
+source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+translator: Online Library of Liberty edition
+---
+
+The following general theorem is of great use in determining the certainty of fact. When the proofs of a crime are dependent on each other, that is, when the evidence of each witness, taken separately, proves nothing; or when all the proofs are dependent upon one, the number of proofs neither increase nor diminish the probability of the fact; for the force of the whole is no greater than the force of that on which they depend; and if this fails, they all fall to the ground. When the proofs are independent on each other, Edition: current; Page: [52] the probability of the fact increases in proportion to the number of proofs; for the falsehood of one does not diminish the veracity of another.
+
+It may seem extraordinary that I speak of probability with regard to crimes, which, to deserve a punishment, must be certain. But this paradox will vanish, when it is considered, that, strictly speaking, moral certainty is only probability; but which is called a certainty, because every man in his senses assents to it from an habit produced by the necessity of acting, and which is anterior to all speculation. That certainty which is necessary to decide that the accused is guilty, is the very same which determines every man in the most important transactions of his life.
+
+The proofs of a crime may be divided into two classes, perfect and imperfect. I call those perfect which exclude the possibility of innocence; imperfect, those which do not exclude this possibility. Of the first, one only is sufficient for condemnation; of the second, as many are required as form a perfect proof: that is to say, that though each of these, separately taken, does not exclude the possibility of innocence, it is nevertheless excluded by their union. It should be also observed, that the imperfect proofs of Edition: current; Page: [53] which the accused, if innocent, might clear himself, and does not, become perfect.
+
+But it is much easier to feel this moral certainty of proofs, than to define it exactly. For this reason, I think it an excellent law which establishes assistants to the principal judge, and those chosen by lot; for that ignorance, which judges by its feelings, is less subject to error, than the knowledge of the laws which judges by opinion. Where the laws are clear and precise, the office of the judge is merely to ascertain the fact. If, in examining the proofs of a crime, acuteness and dexterity be required; if clearness and precision be necessary in summing up the result; to judge of the result itself, nothing is wanting but plain and ordinary good sense, a less fallacious guide than the knowledge of a judge accustomed to find guilty, and to reduce all things to an artificial system, borrowed from his studies. Happy the nation, where the knowledge of the law is not a science!
+
+It is an admirable law which ordains, that every man shall be tried by his peers; for when life, liberty and fortune are in question, the sentiments, which a difference of rank and fortune inspire, should be silent; that superiority with which the fortunate look upon the unfortunate, and that Edition: current; Page: [54] envy with which the inferior regard their superiors, should have no influence. But when the crime is an offence against a fellow-subject, one half of the judges should be peers to the accused, and the other peers to the person offended. So that all private interest, which, in spite of ourselves, modifies the appearance of objects, even in the eyes of the most equitable, is counteracted, and nothing remains to turn aside the direction of truth and the laws. It is also just, that the accused should have the liberty of excluding a certain number of his judges. Where this liberty is enjoyed for a long time, without any instance to the contrary, the criminal seems to condemn himself.
+
+All trials should be public, that opinion, which is the best, or, perhaps, the only cement of society, may curb the authority of the powerful, and the passions of the judge; and that the people may say, “We are protected by the laws; we are not slaves;” a sentiment which inspires courage, and which is the best tribute to a sovereign who knows his real interest. I shall not enter into particulars. There may be some persons who expect that I should say all that can be said upon this subject; to such, what I have already written must be unintelligible.

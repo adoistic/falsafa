@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a",
+  "work_title": "Magna Carta: A Commentary on the Great Charter of King John",
+  "chapter_number": 163,
+  "chapter_title": "I.: Its Main Object.",
+  "chapter_slug": "163-i-its-main-object",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0102d886-c8ea-5c99-811e-14dd97dec949",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 158,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+    }
+  ]
+}

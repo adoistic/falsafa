@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 10,
+  "chapter_title": "freedom Must be presupposed as a Property of the Will of all Rational Beings.",
+  "chapter_slug": "10-freedom-must-be-presupposed-as-a-property-of-the-w",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cc7e476c-1685-526c-8326-09fcf10617b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 354,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

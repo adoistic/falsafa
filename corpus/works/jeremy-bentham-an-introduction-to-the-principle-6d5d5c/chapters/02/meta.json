@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-an-introduction-to-the-principle-6d5d5c",
+  "work_title": "An Introduction to the Principles of Morals and Legislation",
+  "chapter_number": 2,
+  "chapter_title": "Chapter I: OF THE PRINCIPLE OF UTILITY",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54ea57a7-c787-50ef-88f9-f8e864ae0f54",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1894,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-an-introduction-to-the-principles-of-morals-and-legislation"
+    }
+  ]
+}

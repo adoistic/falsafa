@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-ancient-law-78eea2",
+  "work_title": "Ancient Law",
+  "chapter_number": 15,
+  "chapter_title": "CHAPTER X.: THE EARLY HISTORY OF DELICT AND CRIME.",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fda05525-67ba-512b-bad8-fb00c4899314",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7638,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-ancient-law"
+    }
+  ]
+}

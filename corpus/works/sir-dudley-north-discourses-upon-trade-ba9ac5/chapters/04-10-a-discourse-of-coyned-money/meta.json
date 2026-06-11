@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-dudley-north-discourses-upon-trade-ba9ac5",
+  "work_title": "Discourses upon Trade",
+  "chapter_number": 4,
+  "chapter_title": "10| A Discourse of COYNED MONEY.",
+  "chapter_slug": "04-10-a-discourse-of-coyned-money",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6fb5132b-a58f-59c3-afbf-47f36640802e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4021,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hollander-discourses-upon-trade"
+    }
+  ]
+}

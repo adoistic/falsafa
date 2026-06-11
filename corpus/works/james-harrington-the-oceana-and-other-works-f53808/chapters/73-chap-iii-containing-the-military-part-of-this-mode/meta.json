@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 73,
+  "chapter_title": "CHAP. III.: Containing the Military Part of this Model, propos’d practicably.",
+  "chapter_slug": "73-chap-iii-containing-the-military-part-of-this-mode",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97fecb37-d299-598a-b081-7e22e3d3bf42",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2092,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

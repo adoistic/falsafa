@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc",
+  "work_title": "The History of Bimetallism in the United States",
+  "chapter_number": 28,
+  "chapter_title": "V. FEBRUARY, 1853.—An Act amendatory of Existing Laws relative to the Half-Dollar, Quarter-Dollar, Dime, and Half-Dime.",
+  "chapter_slug": "28-v-february-1853-an-act-amendatory-of-existing-laws",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ecff169b-c996-5c76-87d0-6892a5bdc0e9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 516,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laughlin-the-history-of-bimetallism-in-the-united-states-1898"
+    }
+  ]
+}

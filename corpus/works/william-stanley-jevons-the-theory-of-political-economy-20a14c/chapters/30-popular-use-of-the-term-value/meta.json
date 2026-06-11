@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-theory-of-political-economy-20a14c",
+  "work_title": "The Theory of Political Economy",
+  "chapter_number": 30,
+  "chapter_title": "Popular use of the term Value.",
+  "chapter_slug": "30-popular-use-of-the-term-value",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74671a16-8c52-5e08-ab75-d93ce55489c4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1107,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-theory-of-political-economy"
+    }
+  ]
+}

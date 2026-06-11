@@ -1,0 +1,27 @@
+---
+work_id: "32e64580-befc-5db9-a127-857b8835e8c6"
+work_slug: "herbert-spencer-social-statics-32e645"
+work_title: Social Statics
+author_name: Herbert Spencer
+chapter_number: 131
+chapter_title: § 4.
+chapter_slug: "131-4"
+variant_id: "a692d3e8-cb6b-5894-8fdf-d8a2791e1a70"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 725
+source_url: "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+translator: Online Library of Liberty edition
+---
+
+Of the political superstitions lately alluded to, none is so universally diffused as the notion that majorities are omnipotent. Under the impression that the preservation of order will ever require power to be wielded by some party, the moral sense of our time feels that such power cannot rightly be conferred on any but the largest moiety of society. It interprets literally the saying that “the voice of the people is the voice of God,” and transferring to the one the sacredness attached to the other, it concludes that from the will of the people, that is, of the majority, there can be no appeal. Yet is this belief entirely erroneous.
+
+Suppose, for the sake of argument, that, struck by some Malthusian panic, a legislature duly representing public opinion were to enact that all children born during the next ten years should be drowned. Does any one think such an enactment would be warrantable? If not, there is evidently a limit to the power of a majority. Suppose, again, that of two races living together—Celts and Saxons, for example—the most numerous determined to make the others their slaves. Would the authority of the greatest number be in such case valid? If not there is something to which its authority must be subordinate. Suppose, once more, that all men having incomes under £50 a year Edition: current; Page: [210] were to resolve upon reducing every income above that amount to their own standard, and appropriating the excess for public purposes. Could their resolution be justified? If not it must be a third time confessed that there is a law to which the popular voice must defer. What, then, is that law, if not the law of pure equity—the law of equal freedom? These restraints, which all would put to the will of the majority, are exactly the restraints set up by that law. We deny the right of a majority to murder, to enslave, or to rob, simply because murder, enslaving, and robbery are violations of that law—violations too gross to be overlooked. But if great violations of it are wrong, so also are smaller ones. If the will of the many cannot supersede the first principle of morality in these cases, neither can it in any. So that, however insignificant the minority, and however trifling the proposed trespass against their rights, no such trespass is permissible.
+
+When we have made our constitution purely democratic, thinks to himself the earnest reformer, we shall have brought government into harmony with absolute justice. Such a faith, though perhaps needful for the age, is a very erroneous one. By no process can coercion be made equitable. The freest form of government is only the least objectionable form. The rule of the many by the few we call tyranny: the rule of the few by the many is tyranny also; only of a less intense kind. “You shall do as we will, and not as you will,” is in either case the declaration; and if the hundred make it to the ninety-nine, instead of the ninety-nine to the hundred, it is only a fraction less immoral. Of two such parties, whichever fulfils this declaration necessarily breaks the law of equal freedom: the only difference being that by the one it is broken in the persons of ninety-nine, whilst by the other it is broken in the persons of a hundred. And the merit of the democratic form of government consists solely in this, that it trespasses against the smallest number.
+
+The very existence of majorities and minorities is indicative of an immoral state. The man whose character harmonizes Edition: current; Page: [211] with the moral law, we found to be one who can obtain complete happiness without diminishing the happiness of his fellows (Chap. III.). But the enactment of public arrangements by vote implies a society consisting of men otherwise constituted—implies that the desires of some cannot be satisfied without sacrificing the desires of others—implies that in the pursuit of their happiness the majority inflict a certain amount of unhappiness on the minority—implies, therefore, organic immorality. Thus, from another point of view, we again perceive that even in its most equitable form it is impossible for government to dissociate itself from evil; and further, that unless the right to ignore the state is recognised, its acts must be essentially criminal.

@@ -1,0 +1,83 @@
+---
+work_id: "c6bd7f59-f3c2-5fb7-8cef-3162d99bc1e6"
+work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
+work_title: Where and Why Public Ownership Has Failed
+author_name: Yves Guyot
+chapter_number: 31
+chapter_title: "CHAPTER XXIII: DELUSIONS OF PROFIT AND THE LIFE INSURANCE MONOPOLY IN ITALY"
+chapter_slug: 31
+variant_id: "f3832e2f-a787-51dd-9280-faf675c9aa70"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1910
+source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
+translator: Online Library of Liberty edition
+---
+
+1. In order to be assured that no deceptions would be practiced on it, in buying out the insurance companies, the Italian government put itself quite simply in their place. The resulting monopoly, confirmed by the law of April 4, 1912, had for its principal object the establishment of so-called labor pensions. “The profits drawn from this monopoly will be paid into the National Insurance Fund, upon the books of which any workman engaged in either industry or agriculture may be entered, provided he is not paying an annual government tax exceeding 30 francs.”
+
+The real excuse for the bill was the activity of the French and English governments in passing insurance laws. The Italian government decided that it ought Edition: current; Page: [244] to bestir itself along the same lines. Therefore, instead of taking the sums necessary for its pension scheme from general budget funds, it created a special fund by establishing an insurance monopoly. Moreover, by the destruction of institutions which have been the most powerful agents in stimulating the spirit of individual thrift, the government hoped to promote a system of social thrift. The irreconcilable contradiction existing between free and compulsory insurance could not have been revealed in a more striking fashion, and it is only necessary to couple adjectives and noun in order to show the deceptive character of all enterprises of this nature.
+
+But, it is strange enough that financiers as shrewd as the Italians should allow themselves to be deluded by the hope that the insurance monopoly would yield large resources. They have undoubtedly been seduced by the sight of the profits of insurance companies. But are such profits possible under government administration?
+
+In the first place, in order to recruit policyholders, an active propaganda is indispensable. The policyholders of life insurance companies do not apply in the first instance to the companies. They must be sought for diligently and persuaded to take out a policy by an insurance broker, who demands a good and sufficient reward for his efforts in bringing about such investment. What measures has the Italian government taken to attract policyholders?
+
+In presenting his bill to the Chamber of Deputies, the minister responsible for it declared that the National Insurance Fund “ought to undertake a Edition: current; Page: [245] campaign of education which should penetrate into the farthest and quietest corners of Italy, even where the ordinary business man does not go on account of the improbability of any success attending his efforts. Therefore, the National Insurance department will accept as agents notaries, registrars, tax collectors, municipal officials, postmasters, men who are in constant touch with the people, and who can render valuable services to insurance by awakening the desire to look out for the future needs to a degree never before aroused.” In a word, all public officials are to be ultimately transformed into insurance agents.
+
+But, despite all the enthusiasm that these amateur brokers may be able to arouse, such coöperation will not be effective unless commissions are paid. And then what becomes of the all-important excuse for the substitution of a government monopoly for private enterprise, viz.—service rendered for the sake of the cause and not for gain?
+
+Now the average agent works for the sake of gain; and the biggest cost item of insurance companies is the commissions of these same agents; even the government monopoly itself has preserved them. In the case of sixteen French companies, maintaining fixed premiums, these expenses amounted, in 1911, to 20,912,800 francs, to which sum must be added 16,172,000 francs of general expenses and 1,202,746 francs in gratuities and bonuses.
+
+What will be the insurance rates under public operation? If the state wishes to use persuasion, instead Edition: current; Page: [246] of force, it ought to make its rates as easy as possible for the policyholders, but the profit to the state will, of course, be just so much less.
+
+I have not at hand the profits of the life insurance companies in Italy, for 1911, but in that year the dividends of the sixteen French companies just mentioned reached the sum of 15,161,331 francs. Great as has been the economic development of Italy no one will pretend that its economic prosperity equals that of France. However, if the Italian monopoly is as efficiently administered as are the French insurance companies, and, if it has as capable agents, it might perhaps be able to realize half or two-thirds of the industrial profits of the French companies, in which case it would yield to the Italian government from 3,000,000 to 6,000,000 lire annually.
+
+Very striking in this connection is the status of the old age pension system in France—a national undertaking. From 1851 to 1889 the amount of first payments was 816,323 francs, or, in 39 years, 20,931 francs a year. The laws of July 20, 1886, and April 9, 1898, increased the activity of the fund, but, even so, its usefulness has been mainly restricted to associations. In 1910 the number of their payments approximated 5,305,447, amounting to 79,982,892 francs, while the number of individual payments was only 82,780, aggregating 9,900,365 francs. In 1909 the private accident insurance companies had 4,856,000,000 francs on insurance policies, while the National Insurance Fund had insured for only 77,494,000 francs, a proportion of less than 2 per cent.
+
+The mathematical reserves and the other funds available are to be employed as follows by the Italian National Insurance Fund:
+
+Where is the state which can guarantee that its income will constitute a perfectly sound investment when English consols are at 74 shillings? The Italian revenue is susceptible to sudden changes which make predictions difficult for both the monopoly and its policyholders. The government will have to Edition: current; Page: [248] assume all responsibilities and the investments directed by clause No. 8 will be very difficult of execution.
+
+The Fund enjoys privileges which assure it of certain resources, but only to the detriment of other government undertakings. For example, it has free use of the postal and telegraph services. Both these services thus lose revenues which private insurance companies would have yielded them.
+
+Finally, the profits of the monopoly are exempt from the income tax, which private companies would have to pay.
+
+The officials who are to act as insurance agents have their own duties to fulfill. Unable to devote more than their idle moments to the new task, they will always be working at a disadvantage. Nor is every man fitted by nature for the rôle of insurance agent. Not only is the taste for it lacking, but skill, tact, and technical ability will be wanting.
+
+Possibly the officials will gather some personal benefit by reason of the added authority which their new position gives them. They may, perhaps, be able to obtain by main force policies which ordinary agents are not able to get. But, successful insurance is not only a question of affixing a signature, nor even of the first payment on a policy. A policyholder must persevere. What if he slips back after the agent has received his commission?
+
+This is a risk which all insurance companies know. The state will also discover it, but it will find itself placed in a still more difficult position by the necessity of refusing contracts brought in by its officials and employees. It will be forced to choose its Edition: current; Page: [249] policyholders, to accept some and refuse others, and insurance exiles, branded with a sort of discredit, if not infamy, will thus be created.
+
+Italy and Uruguay are the only countries which have experimented with national life insurance. The independence of the National Insurance Fund of Uruguay is greater than that of Italy. It was established by a law of December 26, 1911, and is, therefore, too recent to furnish any authoritative data.
+
+Systems of state fire insurance are found in other countries. In Germany public fire insurance associations “have always been energetically supported by the government.” Landed proprietors are compelled to insure their property with public offices in Bavaria, Württemburg, and the grand duchies Baden and Hesse. Private insurance enterprises are limited to personal property and to risks on real property not insured by the state.
+
+Nevertheless, it has not been found either possible or advisable to oust the private companies, as is proved by the following table, giving the insurance situation in Germany in 1906:
+
+The Municipal Fire Insurance Fund of Rostock has reinsured with a private company the total capital insured by itself. It is, therefore, nothing more than an agency for the collection of premiums and the distribution of indemnities.
+
+The canton of Waad has insured both real and personal property since 1849; insurance is compulsory. Personal property insurance is unknown in any other canton, but national insurance of personal property is about to be established in Switzerland.
+
+In the insurance system in operation in the canton of Waad the cost of administration was 13 francs 48 in 1907; in Glarus, from 1895 to 1905, 9 francs 34 per 100, and in 1907, 13 francs 48.
+
+The state must accept all risks, the bad with the good.
+
+December 20, 1907, the French minister of the Interior announced that he would not oppose the creation of a departmental fire insurance fund in the district of the Côte-d'Or. The fund was therefore established, January 1, with an annual subsidy of 15,000 francs from the General Council, and with a central bureau installed in the prefecture.
+
+A clause limited the insurance premium to 10 francs; but this clause, considered “as a slight anti-collectivist barrier,” has disappeared. The advantages extolled are: The annual policy; the opportunity of insuring one's self at the town hall of one's own town; “following a disaster an appraisal of Edition: current; Page: [251] damages devoid of any spirit of quibbling or barter.” The policyholder is always free to withdraw or to modify his policy.
+
+No bargaining; ample satisfaction! Under certain circumstances insurance may well become an opportunity for profit in a sense never intended.
+
+Here are evidently advantages beyond those offered by private companies—at the expense of the taxpayers in the first place. Ten years hence the actual results may be known.
+
+Two French deputies, MM. Cartier and Coudère, have each introduced a bill, establishing a state monopoly on every species of insurance. Both have been reported favorably by Brisson.
+
+In the case of the fifty-four most important French insurance companies, with fixed premiums, life, fire, etc., the profits are estimated at 31,000,000 francs. After deducting reserve and sinking funds, a net profit of 25,000,000 or 26,000,000 francs remains. Let us suppose that, with the help of first-class investments, the state can obtain a net amount greater than this profit and equal to the total dividends distributed by the companies, or, in other words, 35,000,000 francs.
+
+Unless the state confiscates it will have to pay the companies between 1,000,000,000 and 1,500,000,000 francs, in order to buy them out, which sum, at 3 per cent., represents an annual interest of from 30,000,000 to 45,000,000 francs. Then add to this amount a sinking fund of about 10,000,000 francs. We have thus an asset of 35,000,000 francs, with liabilities of 40,000,000 to 55,000,000 francs. The Edition: current; Page: [252] balance of this operation is a deficit of 5,000,000 to 20,000,000 francs.
+
+But how will it be if the state system operate with less favorable results than private companies—an almost certain contingency? The losses might well reach 30,000,000 or even 40,000,000 francs.

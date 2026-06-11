@@ -1,0 +1,26 @@
+{
+  "work_slug": "augustin-thierry-historical-essays-and-narratives-832778",
+  "work_title": "Historical Essays and Narratives of the Merovingian Era",
+  "chapter_number": 14,
+  "chapter_title": "ESSAY XI.: ON THE HISTORY OF THE ENGLISH CONSTITUTION, A PROPOS OF MR. HENRY HALLAM’S WORK, ENTITLED “THE CONSTITUTIONAL",
+  "chapter_slug": "14-essay-xi-on-the-history-of-the-english-constitutio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "78d91952-ae4b-55c5-a730-2775b372b85e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1353,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thierry-the-historical-essays-and-narratives-of-the-merovingian-era"
+    }
+  ]
+}

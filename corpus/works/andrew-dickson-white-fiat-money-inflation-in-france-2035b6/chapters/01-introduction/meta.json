@@ -1,0 +1,26 @@
+{
+  "work_slug": "andrew-dickson-white-fiat-money-inflation-in-france-2035b6",
+  "work_title": "Fiat Money Inflation in France",
+  "chapter_number": 1,
+  "chapter_title": "INTRODUCTION.",
+  "chapter_slug": "01-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4adf85ad-0311-5257-8dd3-b75244ebf94e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 729,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/macaulay-fiat-money-inflation-in-france"
+    }
+  ]
+}

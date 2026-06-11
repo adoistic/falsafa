@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 8,
+  "chapter_title": "VI.: OF THE COMBINATION OF THE FEELING OF PLEASURE WITH THE CONCEPT OF THE PURPOSIVENESS OF NATURE.",
+  "chapter_slug": "08-vi-of-the-combination-of-the-feeling-of-pleasure-w",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2adcad7c-47a4-587b-98a8-b553d2fbb9f3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 853,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

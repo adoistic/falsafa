@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-three-lectures-on-the-rate-of-wa-3af630",
+  "work_title": "Three Lectures on the Rate of Wages",
+  "chapter_number": 4,
+  "chapter_title": "LECTURE III.: POPULAR ERRORS ON THE CAUSES AFFECTING WAGES, (concluded.)",
+  "chapter_slug": "04-lecture-iii-popular-errors-on-the-causes-affecting",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "646eb085-1923-5a26-8f55-fac4ce6749ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4920,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-three-lectures-on-the-rate-of-wages"
+    }
+  ]
+}

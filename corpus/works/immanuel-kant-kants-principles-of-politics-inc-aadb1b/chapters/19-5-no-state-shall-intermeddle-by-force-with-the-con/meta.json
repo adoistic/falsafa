@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-kants-principles-of-politics-inc-aadb1b",
+  "work_title": "Kant's Principles of Politics, including his Essay on Perpetual Peace",
+  "chapter_number": 19,
+  "chapter_title": "5.: ‘No State shall intermeddle by force with the Constitution or Government of another State.’",
+  "chapter_slug": "19-5-no-state-shall-intermeddle-by-force-with-the-con",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f973d393-466f-5c02-8e12-7e7c17d913ed",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 205,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hastie-kant-s-principles-of-politics-including-his-essay-on-perpetual-peace"
+    }
+  ]
+}

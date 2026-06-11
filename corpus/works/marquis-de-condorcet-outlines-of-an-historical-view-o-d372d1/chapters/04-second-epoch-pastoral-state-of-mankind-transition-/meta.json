@@ -1,0 +1,26 @@
+{
+  "work_slug": "marquis-de-condorcet-outlines-of-an-historical-view-o-d372d1",
+  "work_title": "Outlines of an Historical View of the Progress of the Human Mind",
+  "chapter_number": 4,
+  "chapter_title": "SECOND EPOCH. Pastoral State of Mankind.—Transition from that to the Agricultural State.",
+  "chapter_slug": "04-second-epoch-pastoral-state-of-mankind-transition-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "70036afc-c549-55dc-b22a-5704ff203e42",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1922,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/condorcet-outlines-of-an-historical-view-of-the-progress-of-the-human-mind"
+    }
+  ]
+}

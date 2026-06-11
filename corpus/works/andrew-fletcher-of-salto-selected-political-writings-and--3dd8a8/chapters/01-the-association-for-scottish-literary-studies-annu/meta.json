@@ -1,0 +1,26 @@
+{
+  "work_slug": "andrew-fletcher-of-salto-selected-political-writings-and--3dd8a8",
+  "work_title": "Selected Political Writings and Speeches",
+  "chapter_number": 1,
+  "chapter_title": "THE ASSOCIATION FOR SCOTTISH LITERARY STUDIES annual volumes published by scottish academic press",
+  "chapter_slug": "01-the-association-for-scottish-literary-studies-annu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bc51b4be-23a6-578e-a265-5df6d2c823f8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 178,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fletcher-selected-discourses-and-speeches"
+    }
+  ]
+}

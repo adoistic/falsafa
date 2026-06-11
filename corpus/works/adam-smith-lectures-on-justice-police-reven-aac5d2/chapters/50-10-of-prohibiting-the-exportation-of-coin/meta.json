@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-lectures-on-justice-police-reven-aac5d2",
+  "work_title": "Lectures on Justice, Police, Revenue, and Arms",
+  "chapter_number": 50,
+  "chapter_title": "[§ 10. Of Prohibiting the Exportation of Coin.]",
+  "chapter_slug": "50-10-of-prohibiting-the-exportation-of-coin",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44ee5fd5-e6fc-5545-ad82-437cab21ab4f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1043,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-lectures-on-justice-police-revenue-and-arms-1763"
+    }
+  ]
+}

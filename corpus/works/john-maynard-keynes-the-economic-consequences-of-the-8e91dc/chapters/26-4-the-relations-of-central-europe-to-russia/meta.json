@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-maynard-keynes-the-economic-consequences-of-the-8e91dc",
+  "work_title": "The Economic Consequences of the Peace",
+  "chapter_number": 26,
+  "chapter_title": "4. The Relations of Central Europe to Russia",
+  "chapter_slug": "26-4-the-relations-of-central-europe-to-russia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "60d7061b-a6fe-5f3f-a055-65aea7dae7d0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11885,
+      "paragraph_count": 195,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keynes-the-economic-consequences-of-the-peace"
+    }
+  ]
+}

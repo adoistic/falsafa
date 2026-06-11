@@ -1,0 +1,26 @@
+{
+  "work_slug": "voltaire-toleration-and-other-essays-91a5c9",
+  "work_title": "Toleration and Other Essays",
+  "chapter_number": 51,
+  "chapter_title": "II: OF THE NECESSARY AND ETERNAL PRINCIPLE OF ACTION",
+  "chapter_slug": "51-ii-of-the-necessary-and-eternal-principle-of-actio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c79040f0-af35-53ac-94ff-f0427d5f5a29",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 117,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+    }
+  ]
+}

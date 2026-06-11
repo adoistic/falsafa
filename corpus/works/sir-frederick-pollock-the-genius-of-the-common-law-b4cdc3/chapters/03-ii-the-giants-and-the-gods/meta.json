@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-genius-of-the-common-law-b4cdc3",
+  "work_title": "The Genius of the Common Law",
+  "chapter_number": 3,
+  "chapter_title": "II.: THE GIANTS AND THE GODS",
+  "chapter_slug": "03-ii-the-giants-and-the-gods",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e7286fb6-e300-5621-a1b6-a3671c80fb1e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3993,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-genius-of-the-common-law"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
+  "work_title": "An Essay on Crimes and Punishments",
+  "chapter_number": 13,
+  "chapter_title": "CHAPTER XI.: OF CRIMES WHICH DISTURB THE PUBLIC TRANQUILLITY.",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "479e4806-2825-5829-8f64-73bce77c5691",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 472,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+    }
+  ]
+}

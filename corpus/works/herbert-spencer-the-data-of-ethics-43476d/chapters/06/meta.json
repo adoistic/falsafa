@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-data-of-ethics-43476d",
+  "work_title": "The Data of Ethics",
+  "chapter_number": 6,
+  "chapter_title": "CHAPTER V.: THE PHYSICAL VIEW.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd33dcb3-7965-5687-a33b-8f25087859c5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3496,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-data-of-ethics-1879"
+    }
+  ]
+}

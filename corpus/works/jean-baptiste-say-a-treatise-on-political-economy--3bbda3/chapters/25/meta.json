@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 25,
+  "chapter_title": "SECTION IV.: Of regulations affecting the Corn Trade.",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "243b8b6b-4ef6-54b7-a8fa-947fafb1c03c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3886,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

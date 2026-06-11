@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-first-principles-7ee97f",
+  "work_title": "First Principles",
+  "chapter_number": 1,
+  "chapter_title": "PREFACE TO THE SECOND EDITION.",
+  "chapter_slug": "01-preface-to-the-second-edition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "75f1e918-b636-5d8d-8d37-0fb27fb9108a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 402,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-first-principles-1867"
+    }
+  ]
+}

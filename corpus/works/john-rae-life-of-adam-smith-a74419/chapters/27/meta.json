@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-rae-life-of-adam-smith-a74419",
+  "work_title": "Life of Adam Smith",
+  "chapter_number": 27,
+  "chapter_title": "CHAPTER XXVI: THE AMERICAN QUESTION AND OTHER POLITICS",
+  "chapter_slug": "27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1c280adf-6476-52e4-a3b9-324ace653500",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3132,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
+    }
+  ]
+}

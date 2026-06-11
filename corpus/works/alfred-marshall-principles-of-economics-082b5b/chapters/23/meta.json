@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 23,
+  "chapter_title": "BOOK IV, CHAPTER VII: THE GROWTH OF WEALTH.",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2beb9324-aacb-5a8f-8690-97271b9a7428",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5882,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

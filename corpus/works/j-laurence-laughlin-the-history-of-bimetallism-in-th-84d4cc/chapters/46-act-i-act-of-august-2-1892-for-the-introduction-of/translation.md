@@ -1,0 +1,95 @@
+---
+work_id: "84d4cc76-53c8-5b65-9a1a-7010d1b033c3"
+work_slug: "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc"
+work_title: The History of Bimetallism in the United States
+author_name: J. Laurence Laughlin
+chapter_number: 46
+chapter_title: ACT I. Act of August 2, 1892, for the Introduction of the Crown Standard.
+chapter_slug: "46-act-i-act-of-august-2-1892-for-the-introduction-of"
+variant_id: "1b704d34-5a7f-553d-a9a9-3f6532fe3d9f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1953
+source_url: "https://oll.libertyfund.org/titles/laughlin-the-history-of-bimetallism-in-the-united-states-1898"
+translator: Online Library of Liberty edition
+---
+
+With the consent of both Houses of the Reichsrath, I enact:
+
+ARTICLE 1. The previous Austrian standard shall be replaced by the crown standard, in which the crown shall be the unit of value.
+
+The crown shall be divided into 100 heller.
+
+ART. 2. The standard measure of weight at the mint shall be the kilogramme with its decimal divisions, as set forth in the act of July 23, 1871, establishing the kilogramme as the unit of weight.
+
+ART. 3. The gold coins of the realm shall contain a mixture of 900 parts of gold and 100 parts of copper. A kilogramme of standard gold shall be coined into 2,952 crowns; a kilogramme of fine gold, therefore, into 3,280 crowns.
+
+ART. 4. There shall be struck the following gold coins: (a) twenty-crown pieces; (b) ten-crown pieces. A kilogramme of standard gold shall be coined into 147.6 pieces of twenty crowns, or 295.2 pieces of ten crowns; a kilogramme of fine gold, therefore, into 164 pieces of twenty crowns and 328 pieces of ten crowns. The twenty-crown piece, accordingly, shall have a gross weight of 6.775067 grammes, and a weight in fine gold of 6.09756 grammes; the ten-crown piece shall have a gross weight of 3.3875338 grammes, and a weight in fine gold of 3.04878 grammes.
+
+[Art. 5 prescribes the devices which shall be put on the twenty-crown and ten-crown pieces. The twenty-crown piece is to have a diameter of 21 millimetres; the ten-crown piece, a diameter of 19 millimetres.]
+
+ART. 6. The procedure in the manufacture of these coins shall secure their accurate production in weight and content. So far as absolute accuracy can not be maintained for the individual pieces, a tolerance shall be permitted not to exceed 2/1000 of the gross weight of 1/1000 of the content of fine gold.
+
+ART. 7. . The twenty-crown piece shall pass current with a weight of 6.74 grammes, and the ten-crown piece with a weight of 3.37 grammes. Gold coins, whose weight in the course of ordinary wear and tear has not been reduced below these limits, shall be received at their face value at all state and other public offices and by private individuals.
+
+But gold coins which shall have been reduced below these limits by long-continued circulation and abrasion shall be withdrawn on account of the state, and recoined. Accordingly, coins so worn shall be received at all state and other public offices at their face value, and shall be forwarded to the Imperial Central Treasury at Vienna for transmission to the Imperial Mint at Vienna.
+
+Coins whose weight has been diminished otherwise than by circulation shall be withdrawn on their appearing at state and other public offices, upon indemnification of the loss of intrinsic value which they have suffered, and shall then be forwarded for recoinage in the manner set forth in the preceding paragraph.
+
+ART. 8. The coinage of gold coins of the realm shall be undertaken on account of the state. The twenty crown pieces shall also be coined on private account, so far as the mint may not be engaged in coinage on state account.
+
+The seigniorage for coinage on private account shall be established by administrative order from time to time, but for the twenty-crown pieces shall not exceed 0.3 per cent of their value.
+
+ART. 9. In addition to the above-mentioned gold coins, Austrian ducats shall continue to be coined as trade coins, 81 189/355 pieces being coined out of one Vienna mark (.280668 kilogramme of flne gold). The metal of which they are manufactured shall have a fineness of 23 karats 8 grains [(986 1/9)/1000].
+
+The gold coins of eight florins and four florins provided for by the act of March 9, 1870, shall no longer be struck.
+
+ART. 10. The silver coins of two florins, one florin, and one-quarter florin, Austrian standard, provided for by Imperial Patent of September 19, 1857, shall remain in lawful circulation until further order. Silver coins of the Austrian standard are no longer to be coined, except from such portions of silver as may be already in possession of the treasury or shall have been purchased by the treasury for coinage purposes.
+
+So long as the silver coins above mentioned are not demonetized, they shall be received in all payments, public and private, at the following rates:
+
+ART. 11. In addition to the gold coins of the realm there shall be struck for the present the following coins under the crown standard:
+
+ART. 12. The crown pieces shall contain 835/1000 of silver and 165/1000 of copper. A kilogramme of such standard silver shall be manufactured into 200 crown pieces: each crown piece shall therefore weigh 5 grammes. In coining the crown pieces, their normal weight and content must be maintained. So far as absolute accuracy is not attainable, a tolerance shall be permitted not to exceed 3/1000, of their fine content and 10/1000 of their weight.
+
+[Art. 13 prescribes the devices on the crown pieces. Their diameter is to be 23 millimetres.]
+
+ART. 14. The coinage of crown pieces shall be undertaken only on account of the state. One hundred and forty millions of crown pieces shall be struck. Administrative order shall prescribe at what periods the coinage and issue of the crown pieces shall take place.
+
+ART. 15. Nickel coins shall be coined of pure nickel. A kilogramme of pure nickel shall be manufactured into 250 twenty-heller pieces or into 333 ten-heller pieces. [The devices on these pieces are then prescribed. The diameter of the twenty-heller piece is to be 21 millimetres; of the ten-heller pieces, 19 millimetres.]
+
+ART. 16. Nickel coins shall be struck only on account of the state. They shall be coined up to the amount of 42,000,000 crowns. They shall be issued concurrently with the withdrawal of the silver subsidiary coins of 20, 10, and 5 kreuzers. Administrative orders shall determine at what periods the coinage and issue of the nickel coins and the withdrawal of the subsidiary silver coins shall take place.
+
+ART. 17. The copper coins shall be struck from a mixture containing 95 parts of copper, 4 parts of tin, and 1 part of zinc. A kilogramme of such metal shall be coined into (a) 300 pieces of 2 heller, (b)) 600 pieces of 1 heller. [The devices on these coins are then prescribed. The two-heller piece is to have a diameter of 19 millimetres, the one-heller piece of 17 millimetres.]
+
+ART. 18. Copper coins shall be struck only on account of the state. The total amount shall not exceed 18,200,000 crowns. They shall be issued concurrently with the withdrawal of the copper subsidiary coins of 4, 1, and 5/10 kreuzers.
+
+Administrative order shall determine at what periods the coinage and issue of these coins and the withdrawal of the copper coins of the present Austrian standard shall take place.
+
+ART. 19. The crown pieces, as well as the nickel and copper coins of the crown standard, shall be received at all state and other public offices at their face value—the crown pieces in unlimited amounts, the nickel and copper coins up to the amount of 10 crowns. In addition, these coins shall be redeemed, at all offices designated to act as exchange offices, in lawful coins of the realm (Articles 4 and 10), in such manner as may be prescribed in detail by administrative order.
+
+In private transactions no person shall be obliged to accept crown pieces in sums of more than 50 crowns, nickel coins in sums of more than 10 crowns, or copper coins in sums of more than 1 crown.
+
+ART. 20. The provisions of the last article do not apply to coins mutilated by boring, or diminished in weight otherwise than by ordinary circulation, or to counterfeit coins. If counterfeit coins are presented at the state or other public offices, they shall be confiscated at once and transmitted to the Imperial Mint in Vienna. Coins mutilated by boring, or diminished in weight otherwise than by ordinary circulation if presented at state or other public offices, shall be stamped with a mark which shall exclude them from lawful circulation. Silver, nickel, and copper coins which shall have suffered appreciably in weight or in recognizability from ordinary circulation and abrasion shall be received or redeemed at their nominal value at public offices, and shall be recoined on public account.
+
+ART. 21. The silver and copper subsidiary coins which have been struck under the provisions of the Imperial Patent of September 19, 1857; the Imperial Order of October 21, 1860; the act of July 1, 1868; the act of March 30, 1872; the act of April 16, 1878; the act of February 26, 1881; the act of March 10, 1885; and the act of June 10, 1891—shall remain in circulation so long as their withdrawal shall not have been provided for. This withdrawal shall take place by administrative order in connection with the execution of the present act. Administrative order shall also determine the latest date at which the coins so called in shall be received at the public offices. After that date the state shall be under no obligation to redeem these coins. Until that date these coins shall pass as follows:
+
+and shall be legal tender in the manner prescribed by Article 10 in the act of July 1, 1868.
+
+ART. 22. The so-called Levant dollars, having the portrait of the Empress Maria Theresa, of glorious memory, and the date 1780, shall continue to be coined as trade coins, of the previous weight and fineness; namely, 12 dollars out of one Vienna mark (.280668 kilogramme) of fine silver, the metal having a fineness of 13 loth 6 gramme [(833 1/8)/1000].
+
+ART. 23. The paper money now in circulation, and expressed in terms of the Austrian standard, shall be received up to the date of its withdrawal in all payments, public and private, which are lawfully to be made in crowns, in such manner that every florin, Austrian standard, of the face value of the paper, shall be equal to two crowns.
+
+ART. 24. Separate statutes shall provide for the general introduction of obligatory reckoning by the crown standard, in connection with the settlement of coinage matters, and the details as to the application of the new standard under the law (Article 1). Further statutes shall also specify the disposition to be made of the silver coins of 2 florins, 1 florin, and ¼ florin remaining in circulation under the present act, and shall make provision for the redemption of state notes, the regulation of the paper-money circulation, and the resumption of specie payments.
+
+But it shall be optional for any debtor, from the date on which this act goes into effect, to make all payments lawfully due in Austrian money (whether specified to be in coin or not), in gold coins of the crown standard, the twenty-crown piece being equal to 10 florins, and the ten-crown piece equal to 5 florins.
+
+The same shall hold good of the crown pieces and nickel and copper coins of the crown standard to the extent to which they have been made legal tender by Article 19 of the present act, the crown piece being equal to 50 kreuzers, twenty-heller piece to 10 kreuzers, the ten-heller piece to 5 kreuzers, the two-heller piece to 1 kreuzer, and the one-heller piece to 5/10 kreuzer.
+
+ART. 25. This act shall go into effect at the same time with the act by which the ministry of the kingdoms and lands represented in the Reichsrath is authorized to enter into a coinage treaty with the lands of the Hungarian monarchy.
+
+ART. 26. The ministers of finance and justice shall execute the provisions of this act.

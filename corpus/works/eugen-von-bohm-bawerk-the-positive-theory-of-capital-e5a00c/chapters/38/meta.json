@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c",
+  "work_title": "The Positive Theory of Capital",
+  "chapter_number": 38,
+  "chapter_title": "Book VI, Chapter I: The Loan and Loan Interest",
+  "chapter_slug": "38",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e90e0502-7b98-50ff-91ae-203dc1073791",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4872,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-the-positive-theory-of-capital"
+    }
+  ]
+}

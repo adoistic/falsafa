@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 68,
+  "chapter_title": "X. Variable Proportions of the Factors and International Specialization",
+  "chapter_slug": "68-x-variable-proportions-of-the-factors-and-internat",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eec7c00f-5644-5267-8862-3d7a63460c04",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2039,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

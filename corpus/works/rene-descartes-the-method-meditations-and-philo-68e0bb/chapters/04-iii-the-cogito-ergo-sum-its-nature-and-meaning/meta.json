@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 4,
+  "chapter_title": "III.: The Cogito Ergo Sum — Its Nature and Meaning.",
+  "chapter_slug": "04-iii-the-cogito-ergo-sum-its-nature-and-meaning",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b15f3727-2e2e-5670-baee-1f5ff5a00c42",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3961,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

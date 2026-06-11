@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
+  "work_title": "The Social Contract and Discourses",
+  "chapter_number": 10,
+  "chapter_title": "CHAPTER V: that we must always go back to a first convention",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "56aef470-bc81-59c8-a8ac-7af1fa199cf0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 301,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
+    }
+  ]
+}

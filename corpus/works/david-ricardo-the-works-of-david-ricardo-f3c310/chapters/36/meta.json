@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 36,
+  "chapter_title": "CHAPTER XXVI.: ON GROSS AND NET REVENUE",
+  "chapter_slug": "36",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfad6fea-8551-5659-8419-494d58a2044e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1149,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

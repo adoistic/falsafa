@@ -1,0 +1,26 @@
+{
+  "work_slug": "marquis-de-condorcet-outlines-of-an-historical-view-o-d372d1",
+  "work_title": "Outlines of an Historical View of the Progress of the Human Mind",
+  "chapter_number": 5,
+  "chapter_title": "THIRD EPOCH. Progress of Mankind from the Agricultural State to the Invention of Alphabetical Writing.",
+  "chapter_slug": "05-third-epoch-progress-of-mankind-from-the-agricultu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a837a58c-7b64-513b-a0cf-af5c1d01447b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5275,
+      "paragraph_count": 78,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/condorcet-outlines-of-an-historical-view-of-the-progress-of-the-human-mind"
+    }
+  ]
+}

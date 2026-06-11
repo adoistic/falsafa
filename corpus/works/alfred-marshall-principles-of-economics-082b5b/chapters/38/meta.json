@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 38,
+  "chapter_title": "BOOK V, CHAPTER VIII: MARGINAL COSTS IN RELATION TO VALUES. GENERAL PRINCIPLES.",
+  "chapter_slug": "38",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f61edf4-143a-5275-a151-77ef34619040",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3229,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

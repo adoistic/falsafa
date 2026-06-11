@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 29,
+  "chapter_title": "CHAPTER XIX.: ON SUDDEN CHANGES IN THE CHANNELS OF TRADE.",
+  "chapter_slug": "29",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5b1ae5f6-130c-54d3-8aa1-338b1996d429",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2518,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

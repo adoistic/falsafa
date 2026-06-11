@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 8,
+  "chapter_title": "classification Of all Principles of Morality which can be founded on the Conception of Heteronomy.",
+  "chapter_slug": "08-classification-of-all-principles-of-morality-which",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1da5730-41a1-56e7-a7ab-2d323504692f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1437,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

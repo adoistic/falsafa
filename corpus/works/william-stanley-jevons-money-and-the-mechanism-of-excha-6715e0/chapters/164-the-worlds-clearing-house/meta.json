@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0",
+  "work_title": "Money and the Mechanism of Exchange",
+  "chapter_number": 164,
+  "chapter_title": "The World's Clearing House.",
+  "chapter_slug": "164-the-worlds-clearing-house",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c7c4454-3821-59ab-990e-5562a49cb943",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 400,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+    }
+  ]
+}

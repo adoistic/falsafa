@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 7,
+  "chapter_title": "Heteronomy of the Will as the Source of all spurious Principles of Morality.",
+  "chapter_slug": "07-heteronomy-of-the-will-as-the-source-of-all-spurio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a550e1d-8096-5c14-abde-6f4aceb365e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 275,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-ancient-law-78eea2",
+  "work_title": "Ancient Law",
+  "chapter_number": 10,
+  "chapter_title": "CHAPTER V.: PRIMITIVE SOCIETY AND ANCIENT LAW.",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "60495c39-ecc8-5ed5-8324-e672fd3dd563",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14048,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-ancient-law"
+    }
+  ]
+}

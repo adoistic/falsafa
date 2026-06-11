@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-freedom-of-the-seas-mare-lib-244ad7",
+  "work_title": "The Freedom of the Seas (Mare Liberum)",
+  "chapter_number": 31,
+  "chapter_title": "CHAPTER XI: Trade with the East Indies does not belong to the Portuguese by title of prescription or custom",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ba25d06d-2bcf-5d73-bb81-f19dc90f45f6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 584,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/scott-the-freedom-of-the-seas-latin-and-english-version-magoffin-trans"
+    }
+  ]
+}

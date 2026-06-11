@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-an-introduction-to-the-principle-6d5d5c",
+  "work_title": "An Introduction to the Principles of Morals and Legislation",
+  "chapter_number": 25,
+  "chapter_title": "Chapter XV: OF THE PROPERTIES TO BE GIVEN TO A LOT OF PUNISHMENT",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2ae48bf-bee4-550e-90c7-9dd29f0b0404",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4795,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-an-introduction-to-the-principles-of-morals-and-legislation"
+    }
+  ]
+}

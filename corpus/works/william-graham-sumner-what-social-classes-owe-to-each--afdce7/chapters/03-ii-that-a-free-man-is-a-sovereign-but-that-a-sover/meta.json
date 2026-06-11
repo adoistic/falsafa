@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-what-social-classes-owe-to-each--afdce7",
+  "work_title": "What Social Classes Owe to Each Other",
+  "chapter_number": 3,
+  "chapter_title": "II.: THAT A FREE MAN IS A SOVEREIGN, BUT THAT A SOVEREIGN CANNOT TAKE “TIPS.”",
+  "chapter_slug": "03-ii-that-a-free-man-is-a-sovereign-but-that-a-sover",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df6f14fb-0517-5cf3-a3ce-9ddbeb41b33c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2981,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-what-social-classes-owe-to-each-other"
+    }
+  ]
+}

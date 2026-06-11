@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-elliott-cairnes-the-character-and-logical-method-cd9121",
+  "work_title": "The Character and Logical Method of Political Economy",
+  "chapter_number": 8,
+  "chapter_title": "Lecture VI: Of the Place and Purpose of Definition in Political Economy.",
+  "chapter_slug": "08-lecture-vi-of-the-place-and-purpose-of-definition-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "66f4b88c-051b-5ec2-98fd-3060d0e1b1d7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3643,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/cairnes-the-character-and-logical-method-of-political-economy"
+    }
+  ]
+}

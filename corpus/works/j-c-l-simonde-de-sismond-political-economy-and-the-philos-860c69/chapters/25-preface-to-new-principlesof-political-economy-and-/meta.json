@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69",
+  "work_title": "Political Economy and the Philosophy of Government",
+  "chapter_number": 25,
+  "chapter_title": "PREFACE TO NEW PRINCIPLESOF POLITICAL ECONOMY,AND THE LIGHT WHICH THEY MAY CAST ON THE CRISIS WHICH ENGLAND IS AT THIS T",
+  "chapter_slug": "25-preface-to-new-principlesof-political-economy-and-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4235b27a-2b4b-52fa-ade2-f0b921353792",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3456,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
+    }
+  ]
+}

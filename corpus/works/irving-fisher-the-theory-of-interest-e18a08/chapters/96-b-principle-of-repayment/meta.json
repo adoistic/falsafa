@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 96,
+  "chapter_title": "B. Principle of Repayment",
+  "chapter_slug": "96-b-principle-of-repayment",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c552581-b7f5-55a0-8cd9-5fdc9e5564ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 565,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

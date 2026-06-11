@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-francis-bastable-public-finance-1ff8b2",
+  "work_title": "Public Finance",
+  "chapter_number": 38,
+  "chapter_title": "CHAPTER IX: taxes on successions",
+  "chapter_slug": "38",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8f6db60d-e5b9-590a-a462-b1b49d3ddd3c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4872,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bastable-public-finance"
+    }
+  ]
+}

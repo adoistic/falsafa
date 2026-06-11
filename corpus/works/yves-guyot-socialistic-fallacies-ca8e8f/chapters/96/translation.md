@@ -1,0 +1,33 @@
+---
+work_id: "ca8e8fcd-ae8e-5bd8-9353-38946f0fd731"
+work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
+work_title: Socialistic Fallacies
+author_name: Yves Guyot
+chapter_number: 96
+chapter_title: "CHAPTER V: The Tyranny of Minorities"
+chapter_slug: 96
+variant_id: "8d7b6fd1-03b5-5cf3-aedd-dab82d8380ca"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 647
+source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+translator: Online Library of Liberty edition
+---
+
+At the general expense—Municipal workmen—Gasworkers—10,600 privileged workmen at the expense of 564,000 others—A minority imposing its will upon all—Particular as opposed to common interest.
+
+In connection with the electricians' strike I called attention to the fact that the class struggle was opposed to the conception of democracy. The object of democracy is liberty and equality; every individual should be free and possessed of equal rights. There should be no castes in the enjoyment of privileges and able to exploit others for their own advantage.
+
+Now, the object of the electricians' strike, the threatened strikes of workmen employed in other public services and finally the trade combinations of officials and instructors, is to make everyone pay for advantages accorded to a few. The workmen employed in municipal services enjoy a privileged position under the pretence that the City of Paris ought, like the State, to be a model employer, with this difference, that its resources are derived, not from its capital, but from the ratepayers. This privileged position extends to workmen employed in municipal concessions. The favourable conditions accorded to the gasworkers cost the consumers of Paris four millions of francs. I do not yet know the cost of the concessions made to the electricians. But the figures are of less importance than the principle. The workmen who enjoy these advantages are 10,600 in number, out of a total of 575,000. This proves their audacity, but there should be some margin between audacity and success.
+
+Now the 564,400 are ratepayers. They pay the octroi for their meat, fish, butter and coal. It is to their interest to have public services for their Edition: current; Page: [290] money, that is to have them at the lowest possible price, and the workmen of the City of Paris and of the Municipal Services make them pay more than the current rate of wages would require. The 564,000 workmen are mostly in receipt of less wages than those who are employed in the Municipal services, they are not entitled to pensions or leave; and have not the certainty of employment on every day of the year. What is the result? The workmen who are less well-paid than those who have succeeded in enlisting in one of the Municipal services, pay for them. And these, who form only a small minority of less than two per cent., claim to dictate to the public authorities and send forth this injunction—“If you do not obey, we will throw everything into confusion.”
+
+Evidence of this has been given by the workmen in the electric generating stations, following the omnibus employees, the merchant seamen liable to serve in the navy, the tramway employees and others. That a combination of interested persons should attempt, by the suspension of a public service, to impose its will upon a deliberative body and an administration representing the general interests of the community is an intolerable form of tyranny. It is the claim of a minority to dominate the majority. By having recourse to the procedure which they have employed, the strikers call attention to the antagonism existing between their own particular interest and that of the community at large.
+
+Where the public only suffers from indirect reverberations, it does not always notice them; but when it is directly affected, it understands that, as between itself and the striker, there is not community, but opposition of interests.
+
+It is a good thing that this should be from time to time demonstrated, since there are so many Edition: current; Page: [291] people who are unwilling to learn from experience except it be at their own expense. The post office employees had already given an object-lesson, the electricians repeated it, and the General Confederation of Labour is giving a general idea of the delights to be provided by the general strike which they are announcing and preparing. They are organising the tyranny of minorities.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "epictetus-the-works-of-epictetus-43c12c",
+  "work_title": "The Works of Epictetus",
+  "chapter_number": 87,
+  "chapter_title": "CHAPTER I.: OF FREEDOM.",
+  "chapter_slug": "87",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0f9f80f7-023f-5e57-9e11-7a5f4cab3d50",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8108,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+    }
+  ]
+}

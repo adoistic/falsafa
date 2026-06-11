@@ -1,0 +1,21 @@
+---
+work_id: "fcc06cfa-2502-59f5-bb1a-03089f9078cd"
+work_slug: "john-locke-two-treatises-of-government-fcc06c"
+work_title: Two Treatises of Government
+author_name: John Locke
+chapter_number: 49
+chapter_title: §. 47.
+chapter_slug: "49-47"
+variant_id: "e0910c92-6d07-5ae8-9a74-056813bb6dab"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 422
+source_url: "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+translator: Online Library of Liberty edition
+---
+
+Farther it is to be noted, that these words here of iii. Gen. 16. which our author calls the original grant of government, were not spoken to Adam, neither indeed was there any grant in them made to Adam, but a punishment laid upon Eve: and if we will take them as they were directed in particular to her, or in her, as their representative, to all other women, they will at most concern the female sex only, and import no more, but that subjection they should ordinarily be Edition: current; Page: [53] in to their husbands: but there is here no more law to oblige a woman to such a subjection, if the circumstances either of her condition, or contract with her husband, should exempt her from it, than there is, that she should bring forth her children in sorrow and pain, if there could be found a remedy for it, which is also a part of the same curse upon her: for the whole verse runs thus, Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children, and thy desire shall be to thy husband, and he shall rule over thee. It would, I think, have been a hard matter for any body, but our author, to have found out a grant of monarchical government to Adam in these words, which were neither spoke to, nor of him: neither will any one, I suppose, by these words, think the weaker sex, as by a law, so subjected to the curse contained in them, that it is their duty not to endeavour to avoid it. And will any one say, that Eve, or any other woman, sinned, if she were brought to bed without those multiplied pains God threatens her here with? or that either of our queens, Mary or Elizabeth, had they married any of their subjects, had been by this text put into a political subjection to him? or that he thereby should have had monarchical rule over her? God, in this text, gives not, that I see, any authority to Adam over Eve, or to men over their wives, but Edition: current; Page: [54] only foretels what should be the woman’s lot, how by his providence he would order it so, that she should be subject to her husband, as we see that generally the laws of mankind and customs of nations have ordered it so; and there is, I grant, a foundation in nature for it.

@@ -1,0 +1,23 @@
+---
+work_id: "96a24b2e-225e-50b9-93c9-2b2e7a87b695"
+work_slug: "william-stanley-jevons-methods-of-social-reform-and-oth-96a24b"
+work_title: Methods of Social Reform and Other Papers
+author_name: William Stanley Jevons
+chapter_number: 41
+chapter_title: II.
+chapter_slug: "41-ii"
+variant_id: "2faea627-7c8d-50a0-b5a6-e83ad89a84f7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 591
+source_url: "https://oll.libertyfund.org/titles/jevons-methods-of-social-reform-and-other-papers"
+translator: Online Library of Liberty edition
+---
+
+I will speak presently of the probability that the Permissive Bill, as at present drafted, ever will pass the House Edition: current; Page: [240] of Commons; but I deny that, if passed, we could in the least predict the action of the ratepayers. Nothing is more uncertain and inexplicable than popular votes, especially those in which the mass of the population have the predominating voice. Even after the poll is published, no one can surely tell why the electors so voted. No one will ever be able to show by what precise influences Mr. Gladstone's Government was driven from power in 1874. It may have been a genuine Conservative reaction, or disgust at the sudden dissolution, or the combination of the publicans, or more probably a union of these and other causes; but my point is that no one could have calculated upon the event. All that we can be sure of in popular votes is that we cannot estimate the motives in action, or the results to be expected. The Alliance say they have ascertained, by house to house inquiry, that in some places two-thirds or more of the ratepayers are willing to vote for prohibition. But I attach little importance to such inquiries. It is really less trouble to sign a voting paper or a petition than to refuse, when the person, if he knows what he is signing, must be aware that no practical result will follow the Act. In the case of Bristol, the publicans showed how readily they also could get signatures. It is one thing to sign papers which can have no effect—good or bad—during the present generation; it would be quite a different thing to sign such papers if the immediate result was to be the dreadful state of tumult and anarchy in the neighbourhood, so confidently expected by the Bishop of Manchester.
+
+I am inclined to fear that on this point the Bishop is right. There is undoubtedly a substratum of English population always ready for riot, if any pretext can be found. And what better pretext could be given to them than the closing of their public-houses? The very number of the drunken is a main obstacle to sudden prohibition; it would be the easiest thing in the world for publicans to stir up such a tumult in boroughs or parishes adopting prohibition as would effectually deter the ratepayers of other parishes from voting for prohibition. Does the Bishop seriously believe that, if the application of the Act gave rise to tumult and anarchy, two-thirds of the ratepayers Edition: current; Page: [241] would be found willing to render the anarchy chronic by continuing to veto the sale of liquors in small quantities, while the more wealthy voters were for the most part consuming liquors with their accustomed freedom? The application of such a law would give too good a pretext for disorder, and I altogether deny that the inquiries of the Alliance give any ground for predicting the action of electors, in face of the various events which might happen. Moreover, the events which would follow the passing of the Bill would probably induce Parliament to repeal the Act with great expedition, as in the case of Colonel Wilson Patten's Sunday Closing Act. Various instances might be quoted in which too stringent measures for the repression of drinking have been followed by a disastrous reaction, and if we could, for the sake of argument, imagine the Permissive Bill carried, a reaction in public opinion and legislation would be almost certain to occur.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-principles-of-psychology-794dba",
+  "work_title": "The Principles of Psychology",
+  "chapter_number": 4,
+  "chapter_title": "CHAPTER III.: ITS COROLLARIES.",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a5f9b4e8-65d2-5fdd-bcac-e32a143f1d9a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10119,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-principles-of-psychology-1855"
+    }
+  ]
+}

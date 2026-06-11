@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
+  "work_title": "Letters of Marcus Tullius Cicero",
+  "chapter_number": 11,
+  "chapter_title": "To His Brother Quintus (On His Way to Rome) Thessalonica, 15 June",
+  "chapter_slug": "11-to-his-brother-quintus-on-his-way-to-rome-thessalo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b64cfd27-cc42-5379-8d88-39fa8c4141db",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1690,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+    }
+  ]
+}

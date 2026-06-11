@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-rights-of-war-and-peace-0db900",
+  "work_title": "The Rights of War and Peace",
+  "chapter_number": 25,
+  "chapter_title": "CHAPTER XX.: On Punishments.",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c4a63164-f3fe-5c5e-92a1-3df2c8c77e7b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14482,
+      "paragraph_count": 94,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
+    }
+  ]
+}

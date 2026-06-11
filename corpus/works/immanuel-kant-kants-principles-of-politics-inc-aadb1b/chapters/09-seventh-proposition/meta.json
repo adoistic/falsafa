@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-kants-principles-of-politics-inc-aadb1b",
+  "work_title": "Kant's Principles of Politics, including his Essay on Perpetual Peace",
+  "chapter_number": 9,
+  "chapter_title": "SEVENTH PROPOSITION.",
+  "chapter_slug": "09-seventh-proposition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "95e96e80-d9db-5063-a94a-41db9d761675",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1453,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hastie-kant-s-principles-of-politics-including-his-essay-on-perpetual-peace"
+    }
+  ]
+}

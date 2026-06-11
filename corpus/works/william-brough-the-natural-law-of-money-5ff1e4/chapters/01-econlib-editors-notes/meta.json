@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-brough-the-natural-law-of-money-5ff1e4",
+  "work_title": "The Natural Law of Money",
+  "chapter_number": 1,
+  "chapter_title": "Econlib Editor's Notes",
+  "chapter_slug": "01-econlib-editors-notes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8f55f15-8fba-5905-9b05-94c50bcf2bde",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1140,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brough-the-natural-law-of-money"
+    }
+  ]
+}

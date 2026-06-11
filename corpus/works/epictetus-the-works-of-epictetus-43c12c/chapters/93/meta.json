@@ -1,0 +1,26 @@
+{
+  "work_slug": "epictetus-the-works-of-epictetus-43c12c",
+  "work_title": "The Works of Epictetus",
+  "chapter_number": 93,
+  "chapter_title": "CHAPTER VII.: OF FEARLESSNESS.",
+  "chapter_slug": "93",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "794f2f28-081c-5858-bd21-8c75a1d4b341",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2017,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+    }
+  ]
+}

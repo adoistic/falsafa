@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 86,
+  "chapter_title": "19.: An Agreement of the People (Printed 3rd Nov.)",
+  "chapter_slug": "86-19-an-agreement-of-the-people-printed-3rd-nov",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bc55af46-0308-51fa-bb3a-44d1b331ca7a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 648,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

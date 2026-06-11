@@ -1,0 +1,29 @@
+---
+work_id: "32e64580-befc-5db9-a127-857b8835e8c6"
+work_slug: "herbert-spencer-social-statics-32e645"
+work_title: Social Statics
+author_name: Herbert Spencer
+chapter_number: 216
+chapter_title: § 3.
+chapter_slug: "216-3"
+variant_id: "2d588175-95fb-5891-b4ea-ce6c637b591b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 796
+source_url: "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+translator: Online Library of Liberty edition
+---
+
+But why, it may be asked, has this adaptation gone on so slowly? Judging from the rapidity with which habits are formed in the individual, and seeing how those habits, or rather the latent tendencies towards them, become hereditary, Edition: current; Page: [414] it would seem that the needful modification should have been completed long ago. How, then, are we to understand the delay?
+
+The answer is that the new conditions to which adaptation has been taking place have themselves grown up but slowly. Only when a revolution in circumstances is at once both marked and permanent, does a decisive alteration of character follow. If the demand for increase of power in some particular faculty is great and unceasing, development will go on with proportionate speed. And, conversely, there will be an appreciable dwindling in a faculty altogether deprived of exercise. But the conditions of human life have undergone no changes sudden enough to produce these immediate results.
+
+Thus, note in the first place, that the warfare between man and the creatures at enmity with him has continued up to the present time, and over a large portion of the globe is going on now. Note, further, that where the destructive propensities have almost fulfilled their purpose, and are on the eve of losing their gratification, they make to themselves an artificial sphere of exercise by game-preserving, and are so kept in activity after they would otherwise have become dormant. But note, chiefly, that the old predatory disposition is in a certain sense self-maintained. For it generates between men and men a hostile relationship, similar to that which it generates between men and inferior animals; and by doing so provides itself a lasting source of excitement. This happens inevitably. The desires of the savage acting, as we have seen, indiscriminately, necessarily lead him to perpetual trespasses against his fellows, and, consequently, to endless antagonisms—to quarrels of individuals, to fightings of tribes, to feuds of clan with clan, to wars of nations. And thus being by their constitutions made mutual foes, as well as foes to the lower races, men keep alive in each other the old propensities, after the original need for them has in great measure ceased.
+
+Hitherto, then, human character has changed but slowly, because it has been subject to two conflicting sets of conditions. Edition: current; Page: [415] On the one hand, the discipline of the social state has been developing it into the sympathetic form; whilst on the other hand, the necessity for self-defence partly of man against brute, partly of man against man, and partly of societies against each other, has been maintaining the old unsympathetic form. And only where the influence of the first set of conditions has exceeded that of the last, and then only in proportion to the excess, has modification taken place. Amongst tribes who have kept each other’s anti-social characteristics in full activity by constant conflict, no advance has been possible. But where warfare against man and beast has ceased to be continuous, or where it has become the employment of but a portion of the people, the effects of living in the associated state have become greater than the effects of barbarizing antagonisms, and progress has resulted.
+
+Regarded thus, civilization no longer appears to be a regular unfolding after a specific plan; but seems rather a development of man’s latent capabilities under the action of favourable circumstances; which favourable circumstances, mark, were certain some time or other to occur. Those complex influences underlying the higher orders of natural phenomena, but more especially those underlying the organic world, work in subordination to the law of probabilities. A plant, for instance, produces thousands of seeds. The greater part of these are destroyed by creatures that live upon them, or fall into places where they cannot germinate. Of the young plants produced by those which do germinate, many are smothered by their neighbours; others are blighted by insects, or eaten up by animals; and in the average of cases, only one of them produces a perfect specimen of its species, which, escaping all dangers, brings to maturity seeds enough to continue the race. Thus is it also with every kind of creature. Thus is it also, as M. Quetelet has shown, with the phenomena of human life. And thus was it even with the germination and growth of society. The seeds of civilization existing in the aboriginal man, and distributed over the earth by his multiplication, were Edition: current; Page: [416] certain in the lapse of time to fall here and there into circumstances fit for their development; and, in spite of all blightings and uprootings, were certain, by sufficient repetition of these occurences, ultimately to originate a civilization which should outlive all disasters and arrive at perfection.

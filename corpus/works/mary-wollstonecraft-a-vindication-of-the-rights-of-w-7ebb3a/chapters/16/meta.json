@@ -1,0 +1,26 @@
+{
+  "work_slug": "mary-wollstonecraft-a-vindication-of-the-rights-of-w-7ebb3a",
+  "work_title": "A Vindication of the Rights of Woman",
+  "chapter_number": 16,
+  "chapter_title": "CHAPTER IX: of the pernicious effects which arise from the unnatural distinctions established in society",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "398cdb2d-5e60-50e2-b906-7b388a392f54",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4550,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wollstonecraft-a-vindication-of-the-rights-of-woman"
+    }
+  ]
+}

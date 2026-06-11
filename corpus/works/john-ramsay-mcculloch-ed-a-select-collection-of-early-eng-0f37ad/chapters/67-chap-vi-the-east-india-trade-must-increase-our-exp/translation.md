@@ -1,0 +1,31 @@
+---
+work_id: "0f37adcc-8e76-5772-9588-3103cd646a75"
+work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad"
+work_title: A Select Collection of Early English Tracts on Commerce
+author_name: John Ramsay McCulloch (ed.)
+chapter_number: 67
+chapter_title: "CHAP. VI.: The East-India Trade must increase our Exportations."
+chapter_slug: "67-chap-vi-the-east-india-trade-must-increase-our-exp"
+variant_id: "c0ebd19e-5df4-5de4-9a05-8cf5aac9e03c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 497
+source_url: "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+translator: Online Library of Liberty edition
+---
+
+TO this is objected,Notwithstanding the increase of our Luxury; That the East-India Trade can be no cause of increasing our Bullion, that it cannot increase our Exportations; that Indian Manufactures are forbid in Foreign Countries, and Foreign Markets are already stock’d with ours; so that neither can the former be again exported, nor by being consum’d in England, can they be the cause of exporting more of English Manufactures. Consequently our Luxury and Consumption may increase with our Abundance, our Exportations cannot be greater, our Bullion cannot be increas’d.
+
+Nevertheless, the most likely way to increase our Exportations, is the East-India Trade, and that by increasing our Plenty too fast for our use, too fast for our Luxury and Consumption. This Trade is a continual exchange of the Bullion procur’d by less for more and better Manufactures; and therefore of less for more and better Manufactures; it is therefore of Edition: current; Page: [(573)] all other Trades, the most likely to increase our Plenty of those too fast for our Luxury and Consumption.
+
+Again, Nothing will be kept in England to perish without use, all that is too much to be spent at home will be exported. Of all Trades, the East-India Trade is most likely to increase our Manufactures too fast for our Luxury and Consumption; it is therefore most likely to increase our Exportations.
+
+Wherefore, in spight of Prohibitions,Notwithstanding the Foreign Prohibitions of Indian Manufactures; our Indian Manufactures will find out Foreign Markets. In spight of Laws people will buy cheapest, Foreigners will find out ways to get such things into their own Countries, or they will come after ’em into ours. Nothing can be so cheap in Europe as Indian Manufactures: Therefore such of these as are too much for the use of England, will be exported, or Foreigners will come hither; as our Plenty shall increase our People will increase.
+
+Or,Notwithstanding Foreign Markets are stock’d with English Manufactures. if all that are imported shou’d be consum’d within England, so many of our Manufactures will be spar’d; for if we shall have too many either of our own, or of Indian Manufactures, either those will be consum’d at home, and then the Indian will be exported; or these will be consum’d in England; and then, tho’ Foreign Markets are already stock’d with English Manufactures, yet these will be exported. Foreign Markets perhaps will not take off more at the present price; by the free Allowance of Indian, the price of English Manufactures must be abated, (and this without inconvenience to any one as shall be shown hereafter) and then more of these will be exported.
+
+Of all Trades, that of the East-Indies is most likely to increase our Plenty beyond the power of our Luxury and Consumption; and therefore, notwithstanding the Foreign Prohibitions of Indian Manufactures, and tho’ Edition: current; Page: [(574)] Foreign Markets are already full of ours, the East-India Trade is the likeliest way to increase our Exportations, and consequently our Bullion.

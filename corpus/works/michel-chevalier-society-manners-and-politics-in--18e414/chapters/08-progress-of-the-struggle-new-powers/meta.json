@@ -1,0 +1,26 @@
+{
+  "work_slug": "michel-chevalier-society-manners-and-politics-in--18e414",
+  "work_title": "Society, Manners, and Politics in the United States",
+  "chapter_number": 8,
+  "chapter_title": "PROGRESS OF THE STRUGGLE.—NEW POWERS.",
+  "chapter_slug": "08-progress-of-the-struggle-new-powers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab882012-8939-5f4d-a6a4-71ff8bb1b8a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3809,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chevalier-society-manners-and-politics-in-the-united-states"
+    }
+  ]
+}

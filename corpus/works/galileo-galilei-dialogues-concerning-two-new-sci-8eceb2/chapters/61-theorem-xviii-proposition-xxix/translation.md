@@ -1,0 +1,29 @@
+---
+work_id: "8eceb2a0-c345-5db3-9888-c97161efe653"
+work_slug: "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2"
+work_title: Dialogues Concerning Two New Sciences
+author_name: Galileo Galilei
+chapter_number: 61
+chapter_title: Theorem XVIII, Proposition XXIX
+chapter_slug: "61-theorem-xviii-proposition-xxix"
+variant_id: "47b17903-1124-5993-8d33-7044d477db34"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 391
+source_url: "https://oll.libertyfund.org/titles/galilei-dialogues-concerning-two-new-sciences"
+translator: Online Library of Liberty edition
+---
+
+Given a limited horizontal line, at one end of which is erected a limited vertical line whose length is equal to one-half the given horizontal line; then a body, falling through this given height and having its motion deflected into a horizontal direction, will traverse the given horizontal distance and vertical line in less time than it will any other vertical distance plus the given horizontal distance.
+
+Let BC be the given distance in a horizontal plane; at the end B erect a perpendicular, on which lay off BA equal to half BC. Then, I say, that the time required for a body, starting from rest at A, to traverse the two distances, AB and BC, is the least of all possible times in which this same distance BC together with a vertical portion, whether greater or less than AB, can be traversed.
+
+Lay off EB greater than AB, as in the first figure, and less Edition: current; Page: [224] than AB, as in the second. It must be shown that the time required to traverse the distance EB plus BC is greater than that required for AB plus BC. Let us agree that the length AB shall represent the time along AB, then the time occupied in traversing the horizontal portion BC will also be AB, seeing that BC=2AB; consequently the time required for both AB and BC will be twice AB. Choose the point O such that EB:BO=BO:BA, then BO will represent the time of fall through EB. Again lay off the horizontal distance BD equal to twice BE; whence it is clear that BO represents the time along BD after fall through EB. Select a point N such that DB:BC=EB:BA=OB:BN. Now since the horizontal motion is uniform and since OB is the time occupied in traversing BD, after fall from E, it follows that NB will be the time along BC after fall through the same height EB. Hence it is clear that OB plus BN represents the time of traversing EB plus BC; and, since twice BA is the time along AB plus BC, it remains to be shown that OB+BN>2BA.
+
+But since EB:BO=BO:BA, it follows that EB:BA=OBmacronsup2:BAmacronsup2. Moreover since EB:BA=OB:BN it follows that OB:BN=OBmacronsup2:BAmacronsup2. But OB:BN=(OB:BA) (BA:BN), and therefore AB:BN=OB:BA, that is, BA is a mean proportional between BO and BN. Consequently OB+BN>2BA.
+
+q. e. d.

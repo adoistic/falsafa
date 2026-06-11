@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 34,
+  "chapter_title": "QUESTIONS.",
+  "chapter_slug": "34-questions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "09aa4dba-c4ef-5287-a484-ac1b762aa627",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3087,
+      "paragraph_count": 74,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 101,
+  "chapter_title": "THE SECOND PART, Proposing a Model of a COMMONWEALTH Fitted to the present State of this Nation.",
+  "chapter_slug": "101-the-second-part-proposing-a-model-of-a-commonwealt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f59aa0f9-da8c-500d-a392-8fbc6e82c2d3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3671,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

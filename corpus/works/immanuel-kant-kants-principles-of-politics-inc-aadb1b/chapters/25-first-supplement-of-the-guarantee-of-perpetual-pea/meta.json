@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-kants-principles-of-politics-inc-aadb1b",
+  "work_title": "Kant's Principles of Politics, including his Essay on Perpetual Peace",
+  "chapter_number": 25,
+  "chapter_title": "First Supplement. Of the Guarantee of Perpetual Peace.",
+  "chapter_slug": "25-first-supplement-of-the-guarantee-of-perpetual-pea",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "41dc4058-8580-5f49-84bd-ca9782fda035",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2817,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hastie-kant-s-principles-of-politics-including-his-essay-on-perpetual-peace"
+    }
+  ]
+}

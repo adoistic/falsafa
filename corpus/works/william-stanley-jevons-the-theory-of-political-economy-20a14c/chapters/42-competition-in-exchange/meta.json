@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-theory-of-political-economy-20a14c",
+  "work_title": "The Theory of Political Economy",
+  "chapter_number": 42,
+  "chapter_title": "Competition in Exchange.",
+  "chapter_slug": "42-competition-in-exchange",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8432f9f7-76ea-5751-b943-2b240b59235c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 280,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-theory-of-political-economy"
+    }
+  ]
+}

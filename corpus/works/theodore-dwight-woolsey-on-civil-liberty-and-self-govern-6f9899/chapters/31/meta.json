@@ -1,0 +1,26 @@
+{
+  "work_slug": "theodore-dwight-woolsey-on-civil-liberty-and-self-govern-6f9899",
+  "work_title": "On Civil Liberty and Self-Government",
+  "chapter_number": 31,
+  "chapter_title": "chapter xxx.: institutional government the only government which prevents the growth of too much power.—liberty, wealth,",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bb288785-75cf-53dd-abf0-add403786798",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1353,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/woolsey-on-civil-liberty-and-self-government"
+    }
+  ]
+}

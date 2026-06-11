@@ -1,0 +1,53 @@
+---
+work_id: "3e1c3652-0c17-5735-963e-45174cee80b3"
+work_slug: "james-mill-elements-of-political-economy-3e1c36"
+work_title: Elements of Political Economy
+author_name: James Mill
+chapter_number: 17
+chapter_title: Section IV. Occasions on Which it is the Interest of Nations to Exchange Commodities with One Another
+chapter_slug: 17
+variant_id: "ee55abb6-4c7a-56fd-b02b-ca1af2190440"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1470
+source_url: "https://oll.libertyfund.org/titles/mill-elements-of-political-economy-3rd-ed-1844"
+translator: Online Library of Liberty edition
+---
+
+We have already seen, that the benefits, derived from the division and skilful distribution of labour, form part of the motives which give rise to the exchange of commodities. Men will not confine themselves to the production of one only of the various articles which contribute to the well-being of the individual, unless they can, by its means, provide themselves with others.
+
+There is another circumstance, which very obviously affords a motive to exchange commodities. Some can be produced only in particular places. Metals, coals, and various other commodities of the greatest importance, are the product of certain spots. The same is the case with some vegetable productions, to which every soil and climate are not adapted. Certain commodities, though not confined to particular spots, can yet be more conveniently and cheaply produced in some places than in others; commodities, for example, which require a great consumption of fuel, in a coal country; commodities, the manufacture of which requires a strong moving power, where a sufficient fall of water can be obtained; commodities which require an extraordinary proportion of manual labour, where provisions, and consequently labour, are cheap.
+
+These are all obvious causes. There is another cause, which requires rather more explanation. If two countries can both of them produce two commodities, corn, for example, and cloth, but not both commodities, with the same comparative facility, the two countries will find their advantage in confining themselves, each to one of the commodities, bartering for the other. If one of the countries can produce one of the commodities with peculiar advantages, and the other the other with peculiar advantages, the motive is immediately apparent which should induce each to confine itself to the commodity which it has peculiar advantages for producing. But the motive may no less exist, where one of the two countries has facilities superior to the other in producing both commodities.
+
+By superior facilities, I mean, the power of producing the same effect with less labour. The conclusion, too, will be the same, whether we suppose the labour to be more or less highly paid. Suppose that Poland can produce corn and cloth with less labour than England, it will not follow that it may not be the interest of Poland to import one of the commodities from England. If the degree, in which it can produce with less labour, is the same in both cases; if, for example, the same quantity of corn and cloth which Poland can produce, each with 100 days' labour, requires each 150 days' labour in England, Poland will have no motive to import either from England. But if, at the same time that the quantity of cloth, which, in Poland, is produced with 100 days' labour, can be produced in England with 150 days' labour; the corn, which is produced in Poland with 100 days' labour, requires 200 days' labour in England; in that case, it will be the interest of Poland to import her cloth from England. The evidence of these propositions may thus be traced.
+
+If the cloth and the corn, each of which required 100 days' labour in Poland, required each 150 days' labour in England, it would follow, that the cloth of 150 days' labour in England, if sent to Poland, would be equal to the cloth of 100 days' labour in Poland: if exchanged for corn, therefore, it would exchange for the corn of only 100 days' labour. But the corn of 100 days' labour in Poland was supposed to be the same quantity with that of 150 days' labour in England. With 150 days' labour in cloth, therefore, England would only get as much corn in Poland as she could raise with 150 days' labour at home; and she would, on importing it, have the cost of carriage besides. In these circumstances no exchange would take place.
+
+If, on the other hand, while the cloth produced with 100 days' labour in Poland was produced with 150 days' labour in England, the corn which was produced in Poland with 100 days' labour could not be produced in England with less than 200 days' labour; an adequate motive to exchange would immediately arise. With a quantity of cloth which England produced with 150 days' labour, she would be able to purchase as much corn in Poland as was there produced with 100 days' labour; but the quantity, which was there produced with 100 days' labour, would be as great as the quantity produced in England with 200 days' labour. If the exchange, however, was made in this manner, the whole of the advantage would be on the part of England; and Poland would gain nothing, paying as much for the cloth she received from England, as the cost of producing it for herself.
+
+But the power of Poland would be reciprocal. With a quantity of corn which cost her 100 days' labour, equal to the quantity produced in England by 200 days' labour, she could in the supposed case purchase, in England, the produce of 200 days' labour in cloth. The produce of 150 days' labour in England in the article of cloth would be equal to the produce of 100 days' labour in Poland. If, with the produce of 100 days' labour, she could purchase, not the produce of 150, but the produce of 200, she also would obtain the whole of the advantage, and England would purchase corn, which she could produce by 200 days' labour, with the product of as many days' labour in other commodities. The result of competition would be to divide the advantage equally between them.
+
+Suppose the following case: That 10 yards of broad cloth purchase 15 yards of linen in England; and 20 yards in Germany. In exchanging 10 yards of English broad cloth for the equivalent of German linen, a saving, to the amount of 5 yards of linen, is the result of the bargain; and it is evident that the advantage will be shared upon the following principles. In England linen will fall, in relation to cloth, from the knowledge that 10 yards of cloth will purchase more than 15 yards of linen in Germany; and in Germany linen will rise as compared with cloth, from a knowledge that 20 yards of linen, if sent to England, will purchase more than 10 yards of cloth. It is the inevitable effect of such an interchange to bring the relative value of the two commodities to a level in the two countries; that is, to make the purchasing power of linen in respect to cloth, and of cloth in respect to linen, the same in both; bating the difference in the cost of carriage, each country paying the cost of the carriage of the commodity which it imports, and the value of that article being so much higher in the country which imports than in that which exports it.
+
+To produce exchange, therefore, there must be two countries, and two commodities.
+
+When both countries can produce both commodities, it is not greater absolute, but greater relative, facility, that induces one of them to confine itself to the production of one of the commodities, and to import the other.
+
+When a country can either import a commodity, or produce it at home, it compares the cost of producing at home with the cost of procuring from abroad; if the latter cost is less than the first, it imports.
+
+The cost at which a country can import from abroad depends, not upon the cost at which the foreign country produces the commodity, but upon what the commodity costs which it sends in exchange, compared with the cost which it must be at to produce the commodity in question, if it did not import it.
+
+If a quarter of corn is produced in England with 50 days' labour, it may be equally her interest to import corn from Poland, whether it requires, in Poland, 50 days' labour, or 60, or 40, or any other number. Her only consideration is, whether the commodity with which she can import a quarter costs her less than 50 days' labour.
+
+Thus, if labour in Poland produce corn and cloth, in the ratio of eight yards to one quarter; but, in England, in the ratio of ten yards to one quarter, exchange will take place.
+
+The practical conclusion may be commodiously and correctly stated thus:
+
+Whenever the purchasing power of any commodity with respect to another is less, in one of two countries, than it is in the other, it is the interest of those countries to exchange these commodities with one another.
+
+Unless the difference of purchasing power, which renders it the interest of nations to barter commodities with one another, be sufficiently great to cover the expense of carriage, and something more, no advantage is obtained.

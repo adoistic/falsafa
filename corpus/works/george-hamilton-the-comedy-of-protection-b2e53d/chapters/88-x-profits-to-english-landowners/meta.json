@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 88,
+  "chapter_title": "X.—: Profits to English Landowners.",
+  "chapter_slug": "88-x-profits-to-english-landowners",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b379fb9-8737-5325-b46e-46cca7cd63d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 190,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

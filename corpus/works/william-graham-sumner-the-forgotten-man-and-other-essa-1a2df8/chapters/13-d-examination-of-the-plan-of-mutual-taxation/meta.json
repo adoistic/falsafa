@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 13,
+  "chapter_title": "(D): Examination of the Plan of Mutual Taxation.",
+  "chapter_slug": "13-d-examination-of-the-plan-of-mutual-taxation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a8ba4aff-6e70-5c91-aec5-cdb320f34e9b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 640,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

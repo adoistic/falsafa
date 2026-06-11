@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 48,
+  "chapter_title": "VII.: —How is it possible to conceive an extension of Pure Reason in a Practical point of view, without its Knowledge as",
+  "chapter_slug": "48-vii-how-is-it-possible-to-conceive-an-extension-of",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "661e72a8-e652-5025-a9e5-c231ca49b1b0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3177,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

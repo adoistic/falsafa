@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 23,
+  "chapter_title": "CHAPTER III.: CONSUMPTION: THE DYNAMICS OF WEALTH.",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5bb52d8b-baef-5b34-af08-4eae073ff296",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4635,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "mary-wollstonecraft-a-vindication-of-the-rights-of-w-7ebb3a",
+  "work_title": "A Vindication of the Rights of Woman",
+  "chapter_number": 12,
+  "chapter_title": "section v",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d293b0d9-6473-58c2-9f31-c981a56c9869",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4151,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wollstonecraft-a-vindication-of-the-rights-of-woman"
+    }
+  ]
+}

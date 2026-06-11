@@ -1,0 +1,33 @@
+---
+work_id: "6715e093-fd20-5bd0-9e37-ce76bee6c429"
+work_slug: "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0"
+work_title: Money and the Mechanism of Exchange
+author_name: William Stanley Jevons
+chapter_number: 88
+chapter_title: Cost of the Metallic Currency.
+chapter_slug: "88-cost-of-the-metallic-currency"
+variant_id: "56bdadd4-01f9-5ad8-a235-8cd823201d7f"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 613
+source_url: "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+translator: Online Library of Liberty edition
+---
+
+Calculations of some interest may be made as to the cost which falls upon the public in one way or another, owing to the use of metallic money. Speaking first of the subordinate coins of silver and bronze, the government make a profit by their manufacture, owing to the reduced weight at which they are issued as tokens. Standard silver can usually be bought by the mint for 5s. per standard ounce. It is issued to the public at the rate of 5s. 6d. per ounce, so that the government receives a seignorage of at least nine per cent. on the nominal value of the coin issued. The average coinage of silver at the English mint during the last ten years has been £546,580, upon which the seignorage would be about £49,200 per annum. On the other hand, the mint has to buy back worn silver coinage at its nominal value, and in recoining such money there is a loss, which, on the average of the last ten years (1864-73) has been £16,700, leaving a net annual profit of £32,500, no account being taken of the cost. of the mint establishment. At present the price of silver is not above 4s. 10d. per ounce, so that the seignorage is about 12 per cent., and the profit on coining silver proportionately greater.
+
+We may look at this matter in another way, by regarding the seignorage as so much money funded to bear interest, to meet the cost of withdrawing the coin, when worn out, say thirty years subsequently. Now a pound bearing 3¼ per cent. compound interest, becomes in thirty years 2.61 pounds, so that the 9 per cent. of seignorage will have multiplied to 23.5 per cent. But the actual deficiency of weight of the silver coin withdrawn is, on the average, only 16½ per cent., so that, without taking into account the considerable number of coins which must be lost, exported, melted, hoarded, sunk in the sea, or otherwise finally withdrawn from circulation, there is a profit on the issue of the silver coin under the present regulations.
+
+In the issue of bronze money there has been, as before stated, a profit of £270,000, against which must be set off the possible, but uncertain, cost of recoining a light token currency at some future time.
+
+The cost of the currency is made up of four principal items: the loss of interest upon the capital invested in the money, the loss by the abrasion of gold coins, the expenses of the mint, and lastly the casual loss of coins. The last item is of wholly unknown amount; the other items may be estimated as follows. We may, roughly speaking, assume the gold currency of the kingdom to consist of 84,000,000 of sovereigns and 32,000,000 of half-sovereigns, the total value being 100,000,000 sterling. The sovereigns lose annually on the average 0.043 grain each, giving an annual loss of about £30,000; the half-sovereigns lose 0.069 grain each, producing a loss of £18,000. The loss of interest, however, is a far more serious matter. The whole value of the metals employed in the currency is, roughly speaking, as follows:—
+
+The interest on this sum at 3¼ per cent. is no less than £4,262,000.
+
+The cost of the mint establishment is about £42,000 annually. The following statement, then, show the aggregate cost of the metallic currency so far as it can be estimated.
+
+From this amount ought to be subtracted the profit which the mint makes out of the seignorage upon silver and bronze coins; but we may set off this profit against the wholly unknown amount which the public loses by the accidental dropping of coins.

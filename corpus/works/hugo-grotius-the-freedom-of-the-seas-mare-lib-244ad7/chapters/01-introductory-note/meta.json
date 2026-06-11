@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-freedom-of-the-seas-mare-lib-244ad7",
+  "work_title": "The Freedom of the Seas (Mare Liberum)",
+  "chapter_number": 1,
+  "chapter_title": "INTRODUCTORY NOTE",
+  "chapter_slug": "01-introductory-note",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c7d3d13b-9617-5343-804c-ca1bb860b5b6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1310,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/scott-the-freedom-of-the-seas-latin-and-english-version-magoffin-trans"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
+  "work_title": "Letters of Marcus Tullius Cicero",
+  "chapter_number": 115,
+  "chapter_title": "To Restitutus",
+  "chapter_slug": "115-to-restitutus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c1c16190-91e7-51b3-ad79-51bbfd3c68a5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 356,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+    }
+  ]
+}

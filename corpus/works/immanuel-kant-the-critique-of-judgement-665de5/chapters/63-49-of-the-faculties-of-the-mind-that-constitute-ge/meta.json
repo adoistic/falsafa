@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 63,
+  "chapter_title": "§ 49.: Of the faculties of the mind that constitute Genius",
+  "chapter_slug": "63-49-of-the-faculties-of-the-mind-that-constitute-ge",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "82ef7a2d-8ecc-5efc-aa7c-5561b9acd311",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2192,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

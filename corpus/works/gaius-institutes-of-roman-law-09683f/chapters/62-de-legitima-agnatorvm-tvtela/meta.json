@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 62,
+  "chapter_title": "DE LEGITIMA AGNATORVM TVTELA.",
+  "chapter_slug": "62-de-legitima-agnatorvm-tvtela",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79a53e16-6ff5-5775-a26c-80d4f05fd08e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 195,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

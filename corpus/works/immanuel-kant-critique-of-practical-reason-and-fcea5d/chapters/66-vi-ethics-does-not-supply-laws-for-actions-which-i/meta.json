@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 66,
+  "chapter_title": "VI.: —Ethics does not supply Laws for Actions (which is done by Jurisprudence), but only for the Maxims of Action.",
+  "chapter_slug": "66-vi-ethics-does-not-supply-laws-for-actions-which-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0a277a35-a65d-5b92-8411-48f97bcce0f5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 380,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

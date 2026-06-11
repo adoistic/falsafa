@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 66,
+  "chapter_title": "THE CURRENCY AT THE OUTBREAK OF THE WAR.",
+  "chapter_slug": "66-the-currency-at-the-outbreak-of-the-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9c9d76fc-4d76-5e5d-86c4-dbda19e66e13",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 873,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

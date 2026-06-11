@@ -1,0 +1,21 @@
+---
+work_id: "88b7154d-8ae8-5c6e-a1cb-5ca9ab169cd0"
+work_slug: "boethius-the-consolation-of-philosophy-88b715"
+work_title: The Consolation of Philosophy
+author_name: Boethius
+chapter_number: 14
+chapter_title: Book iii, metr. 2.
+chapter_slug: 14
+variant_id: "5e975e26-794c-5183-8bed-30f4fb1c0e29"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 422
+source_url: "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"
+translator: Online Library of Liberty edition
+---
+
+It pleaseth me to shew, with a sownynge songe, upon softe strynges, by what raynes or meanes, that is to say: by what naturall inclinacions, myghtie nature ruleth. And by what lawes nature beynge pronydente and circumspecte conserueth and kepythe the hole greate worlde. And by what lawes nature kepeth in and fastenyth all thynges with a fast and sure knot, that cannot be loosed. Althoughe the lions of Libia, haning goodly chaines aboute their neckes doo take mete at their maysters handes, and althoughe they feare their cruell mayster and be wont to suffer beating, yet if the bloud of beastes that the same lyons haue denoured do moist or tast in theyr mouthes, that is to saye: if they once taste bloude: then their corage that before was forgotten for lacke of vse, cometh agayne to his old nature and kynde. And with greet roryng they breke their chaynes from theyr neckes, and fyrste of all their mayster that kept them as tame felyth theyr rauenyng rage, beyng rente into peces with their blody teethe, that is to saye they fyrste kylle their mayster, that kept them. Likewise the syngyng byrde that syngeth vpon the hygh bowghes in the woode, if she be taken and put into a strayte cage, although the dilygent cure of men delytynge in her, geneth her swete drinkes and dyners meates wyth plesaunt labour: yet yf she chaunse to escape out of the strayt cage and seith the plesant shadowes of the woodes, beyng sorye of her strayt kepyng, ouerthrowith her metes and treadeth them vnder her fete and flyethe vnto the woodes, and there syngeth, and warbleth with swete notes and songs. Also the sprigge or bough of a tree by greate vyolence made croked boweth downe the toppe, but when the hand of him that boweth it, letteth it go at lyberte, it holdethe the toppe Edition: current; Page: [xl]vpryght towarde heuen, that is to sai: it returnyth to his olde naturall course. The sonne lykewyse that at euen before night fallyth (as the poets faine) into the westerne waters: by a secrete path retourneth his charyot, to his accustomed rysing. So that all thynges naturall do returne and come agayne, to their naturall courses. And all naturall things reioyseth at theyr returne to their owne nature. And nothynge hath any other prescribed order, but that onely that hath ioyned the begynnyng to the ende. And hath so establyshed the worlde of it selfe: that it shall not chaunge from hys naturall course.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-the-history-of-freedom-and-other-8702fe",
+  "work_title": "The History of Freedom and Other Essays",
+  "chapter_number": 3,
+  "chapter_title": "I: THE HISTORY OF FREEDOM IN ANTIQUITY",
+  "chapter_slug": "03-i-the-history-of-freedom-in-antiquity",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a7d230f-9efd-5bfd-b1b4-8658896d7125",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10220,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/acton-the-history-of-freedom-and-other-essays"
+    }
+  ]
+}

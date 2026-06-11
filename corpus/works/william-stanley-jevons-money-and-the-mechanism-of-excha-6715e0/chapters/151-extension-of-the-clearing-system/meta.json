@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0",
+  "work_title": "Money and the Mechanism of Exchange",
+  "chapter_number": 151,
+  "chapter_title": "Extension of the Clearing System.",
+  "chapter_slug": "151-extension-of-the-clearing-system",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ffc7a46a-9add-512f-8aef-eb53707b7706",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1125,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 62,
+  "chapter_title": "§ 48.: Of the relation of Genius to Taste",
+  "chapter_slug": "62-48-of-the-relation-of-genius-to-taste",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eb018d2c-cda6-59b4-a16d-b48585efadf5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 966,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69",
+  "work_title": "Political Economy and the Philosophy of Government",
+  "chapter_number": 23,
+  "chapter_title": "INTERVIEW WITH NAPOLEON.",
+  "chapter_slug": "23-interview-with-napoleon",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cdecec62-c3cc-52fc-ae2c-d67796bade73",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3113,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "p-64d0bc",
+    "offset": 0,
+    "text": "[Note from Econlib Editor: The error on page 108, covering the last pair of equations in paragraph IV.50, appears to have been corrected in the third edition. The error on page 201, covering the last few sentences of paragraph V.27 remains in this edition, but we have noted it in a footnote for the paragraph.]"
+  },
+  {
+    "id": "p-e58458",
+    "offset": 313,
+    "text": "P. 108, for f1 (a - y), read f1 (a - x)."
+  },
+  {
+    "id": "p-468ca2",
+    "offset": 355,
+    "text": "P. 201, for \"in this respect be taken negatively,\" read \"in this respect be taken positively.\""
+  }
+]

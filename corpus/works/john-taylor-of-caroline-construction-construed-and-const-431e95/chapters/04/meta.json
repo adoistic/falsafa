@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-taylor-of-caroline-construction-construed-and-const-431e95",
+  "work_title": "Construction Construed and Constitutions Vindicated",
+  "chapter_number": 4,
+  "chapter_title": "SECTION 2.: CONSTRUCTION.",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e3095be8-4b14-5ef3-b5e7-1adc2379eecb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 876,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/taylor-construction-construed-and-constitutions-vindicated"
+    }
+  ]
+}

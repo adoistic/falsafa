@@ -1,0 +1,26 @@
+{
+  "work_slug": "dante-alighieri-de-monarchia-a58c66",
+  "work_title": "De Monarchia",
+  "chapter_number": 33,
+  "chapter_title": "CHAPTER I: Introduction.",
+  "chapter_slug": "33",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "21caf9aa-a844-5ef6-b77e-1a69921372fd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 349,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"
+    }
+  ]
+}

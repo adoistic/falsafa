@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-rights-of-war-and-peace-0db900",
+  "work_title": "The Rights of War and Peace",
+  "chapter_number": 5,
+  "chapter_title": "III. The Life and Personality of Grotius.",
+  "chapter_slug": "05-iii-the-life-and-personality-of-grotius",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6b11f569-bab8-509d-a004-f04b20d13404",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1805,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
+    }
+  ]
+}

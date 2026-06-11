@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c",
+  "work_title": "The Positive Theory of Capital",
+  "chapter_number": 24,
+  "chapter_title": "Book III, Chapter IX: The Value of Complementary Goods",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14082611-f6bd-5aa6-ba8b-4ae96d8e310c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2604,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-the-positive-theory-of-capital"
+    }
+  ]
+}

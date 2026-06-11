@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-protectionism-the-ism-which-teac-b66af5",
+  "work_title": "Protectionism: The -ism Which Teaches That Waste Makes Wealth",
+  "chapter_number": 39,
+  "chapter_title": "(I.): That our industries would perish without protection.",
+  "chapter_slug": "39-i-that-our-industries-would-perish-without-protect",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5f7e9bfb-185d-5186-93fd-06c44637b94e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 625,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-protectionism-the-ism-which-teaches-that-waste-makes-wealth"
+    }
+  ]
+}

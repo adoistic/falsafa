@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 27,
+  "chapter_title": "(A): No True Wages Class in the United States.",
+  "chapter_slug": "27-a-no-true-wages-class-in-the-united-states",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "60e7af57-cff0-5bec-b2bd-ec7e436eaf13",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1317,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

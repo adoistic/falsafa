@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 126,
+  "chapter_title": "ADDENDUM FORMAL, ABSTRACT, AND SIMULATIVE DISPOSITIONS.",
+  "chapter_slug": "126-addendum-formal-abstract-and-simulative-dispositio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c34d6317-7df3-53ac-b7ac-bf8069e744b7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4555,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-kants-principles-of-politics-inc-aadb1b",
+  "work_title": "Kant's Principles of Politics, including his Essay on Perpetual Peace",
+  "chapter_number": 24,
+  "chapter_title": "III.: Third Definitive Article in the conditions of a Perpetual Peace. ‘The Rights of men as Citizens of the world in a ",
+  "chapter_slug": "24-iii-third-definitive-article-in-the-conditions-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "136b7161-99d9-53ae-9ffd-61b5d4894a5e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 858,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hastie-kant-s-principles-of-politics-including-his-essay-on-perpetual-peace"
+    }
+  ]
+}

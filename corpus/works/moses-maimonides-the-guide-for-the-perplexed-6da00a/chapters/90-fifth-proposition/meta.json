@@ -1,0 +1,26 @@
+{
+  "work_slug": "moses-maimonides-the-guide-for-the-perplexed-6da00a",
+  "work_title": "The Guide for the Perplexed",
+  "chapter_number": 90,
+  "chapter_title": "Fifth Proposition.",
+  "chapter_slug": "90-fifth-proposition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "201f33ff-44d2-5664-a0cf-c6a1d5e6f5ad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 543,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
+    }
+  ]
+}

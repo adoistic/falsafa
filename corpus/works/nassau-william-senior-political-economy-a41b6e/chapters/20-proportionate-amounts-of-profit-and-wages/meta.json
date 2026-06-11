@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-political-economy-a41b6e",
+  "work_title": "Political Economy",
+  "chapter_number": 20,
+  "chapter_title": "Proportionate Amounts of Profit and Wages.",
+  "chapter_slug": "20-proportionate-amounts-of-profit-and-wages",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3a4e5fca-910b-5921-87e1-1250088503d7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6919,
+      "paragraph_count": 68,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-political-economy-1850-ed"
+    }
+  ]
+}

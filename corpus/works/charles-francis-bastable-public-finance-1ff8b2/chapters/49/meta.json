@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-francis-bastable-public-finance-1ff8b2",
+  "work_title": "Public Finance",
+  "chapter_number": 49,
+  "chapter_title": "CHAPTER III: the vote of the budget—control and audit",
+  "chapter_slug": "49",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f81b56b5-0295-5cf9-b504-3576efde26d1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4569,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bastable-public-finance"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f",
+  "work_title": "The Ruins, or a Survey of the Revolutions of Empires",
+  "chapter_number": 32,
+  "chapter_title": "Sect. VIII.: Eighth system: The world a machine: worship of the Demi-ourgos, or supreme artificer.",
+  "chapter_slug": "32-sect-viii-eighth-system-the-world-a-machine-worshi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74444e4e-6923-59a6-823d-48a959f6dd9f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 993,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/volney-the-ruins-or-a-survery-of-the-revolutions-of-empires"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+---
+work_id: "6715e093-fd20-5bd0-9e37-ce76bee6c429"
+work_slug: "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0"
+work_title: Money and the Mechanism of Exchange
+author_name: William Stanley Jevons
+chapter_number: 2
+chapter_title: "Chapter I: Barter"
+chapter_slug: 02
+variant_id: "d3bf3c30-4fe3-5177-b370-2ebe9a2eefe7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 600
+source_url: "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+translator: Online Library of Liberty edition
+---
+
+Some years since, Mademoiselle Zélie, a singer of the Théâtre Lyrique at Paris, made a professional tour round the world, and gave a concert in the Society Islands. In exchange for an air from Norma and a few other songs, she was to receive a third part of the receipts. When counted, her share was found to consist of three pigs, twenty-three turkeys, forty-four chickens, five thousand cocoa-nuts, besides considerable quantities of bananas, lemons, and oranges. At the Halle in Paris, as the prima donna remarks in her lively letter, printed by M. Wolowski, this amount of live stock and vegetables might have brought four thousand francs, which would have been good remuneration for five songs. In the Society Islands, however, pieces of money were very scarce; and as Mademoiselle could not consume any considerable portion of the receipts herself, it became necessary in the mean time to feed the pigs and poultry with the fruit.
+
+When Mr. Wallace was travelling in the Malay Archipelago, he seems to have suffered rather from the scarcity than the superabundance of provisions. In his most interesting account of his travels, he tells us that in some of the islands, where there was no proper currency, he could not procure supplies for dinner without a special bargain and much chaffering upon each occasion. If the vendor of fish or other coveted eatables did not meet with the sort of exchange desired, he would pass on, and Mr. Wallace and his party had to go without their dinner. It therefore became very desirable to keep on hand a supply of articles, such as knives, pieces of cloth, arrack, or sago cakes, to multiply the chance that one or other article would suit the itinerant merchant.
+
+In modern civilized society the inconveniences of the primitive method of exchange are wholly unknown, and might almost seem to be imaginary. Accustomed from our earliest years to the use of money, we are unconscious of the inestimable benefits which it confers upon us; and only when we recur to altogether diferent states of society can we realize the difficulties which arise in its absence. It is even surprising to be reminded that barter is actually the sole method of commerce among many uncivilized races. There is something absurdly incongruous in the fact that a joint-stock company, called "The African Barter Company, Limited," exists in London, which carries on its transactions upon the West Coast of Africa entirely by bartering European manufactures for palm oil, gold dust, ivory, cotton, coffee, gum, and other raw produce.
+
+The earliest form of exchange must have consisted in giving what was not wanted directly for that which was wanted. This simple traffic we call barter or truck, the French troc, and distinguish it from sale and purchase in which one of the articles exchanged is intended to be held only for a short time, until it is parted with in a second act of exchange. The object which thus temporarily intervenes in sale and purchase is money. At first sight it might seem that the use of money only doubles the trouble, by making two exchanges necessary where one was sufficient; but a slight analysis of the difficulties inherent in simple barter shows that the balance of trouble lies quite in the opposite direction. Only by such an analysis can we become aware that money performs not merely one service to us, but several different services, each indispensable. Modern society could not exist in its present complex form without the means which money constitutes of valuing, distributing, and contracting for commodities of various kinds.

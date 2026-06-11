@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 59,
+  "chapter_title": "CHAPTER VIII: the cost theories",
+  "chapter_slug": "59",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a6641d83-6913-5f83-abaf-0b80daa4899b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 601,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-thelwall-the-rights-of-nature-against-the-1c74cc",
+  "work_title": "The Rights of Nature against the Usurpations of Establishments",
+  "chapter_number": 1,
+  "chapter_title": "LETTER I.: INTRODUCTORY REMARKS; ON THE SPIRIT AND TEMPER OF BURKE’S LETTERS ON THE PROSPECT OF A REGICIDE PEACE.",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "36e37524-4525-5ff6-9ea9-eab61db2341a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 18955,
+      "paragraph_count": 91,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thelwall-the-rights-of-nature-against-the-usurpations-of-establishments-1796"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 30,
+  "chapter_title": "SECTION II.: Of the Material of Money.",
+  "chapter_slug": "30",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c7574c2b-133c-5d6a-af7d-1705a09d9589",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 812,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

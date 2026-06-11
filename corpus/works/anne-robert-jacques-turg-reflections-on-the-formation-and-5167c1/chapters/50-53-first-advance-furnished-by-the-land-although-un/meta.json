@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 50,
+  "chapter_title": "53. First advance furnished by the land although uncultivated.",
+  "chapter_slug": "50-53-first-advance-furnished-by-the-land-although-un",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d7d1c67a-33ed-5510-add5-a16f808fb20b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 212,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

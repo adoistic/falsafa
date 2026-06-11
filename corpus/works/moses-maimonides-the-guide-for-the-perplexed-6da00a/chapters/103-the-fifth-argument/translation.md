@@ -1,0 +1,21 @@
+---
+work_id: "6da00a83-f993-57d9-ba7d-256248f7a5ee"
+work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
+work_title: The Guide for the Perplexed
+author_name: Moses Maimonides
+chapter_number: 103
+chapter_title: The Fifth Argument.
+chapter_slug: "103-the-fifth-argument"
+variant_id: "4f7da7fd-2adb-5386-9032-3cc1fcb113a7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 464
+source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
+translator: Online Library of Liberty edition
+---
+
+This argument is based on the theory of Determination, and is made much of by the Mutakallemim. It is the same as the theory which I explained in discussing the tenth proposition. Namely, when they treat either of the Universe in general, or of any of its parts, they assume that it can have such properties and such dimensions as it actually has; that it may receive such accidents as in reality are noticed in it, and that it may exist in such a place and at such a time as in fact is the case; but it may be larger or smaller, may receive other properties and accidents, and come to existence at an earlier or a later period, or in a different place. Consequently, the fact that a thing has been determined in its composition, size, place, accident and time—a variation in all these points being possible—is a proof that a being exists which freely chooses and determines these divers relations; and the circumstance Edition: current; Page: [136] that the Universe or a part of it requires a being able to make this selection, proves that the Universe has been created ex nihilo. For there is no difference which of the following expressions is used: to determine, to make, to create, to produce, to originate, or to intend; these verbs have all one and the same meaning. The Mutakallemim give a great many examples, both of a general and a special character. They say it is not more natural for earth to be under water than to be above water; who then determined its actual position? Or, is it more natural that the sun is round than that it should be square or triangular; for all qualities have the same relation to a body capable of possessing them. Who then determined one particular quality? In a similar way they treat of every individual being; when, e.g., they notice flowers of different colours, they are unable to explain the phenomenon, and they take it as a strong proof in favour of their theory; they say, “Behold, the earth is everywhere alike, the water is alike; why then is this flower red and that one yellow? Some being must have determined the colour of each, and that being is God. A being must therefore exist which determines everything, both as regards the Universe generally, and each of its parts individually. All this is the logical consequence of the tenth proposition. The theory of determination is moreover adopted by some of those who assume the eternity of the Universe, as will be explained below. In conclusion, I consider this to be the best argument; and in another part I shall more fully acquaint you with the opinion I have formed concerning the theory of Determination.

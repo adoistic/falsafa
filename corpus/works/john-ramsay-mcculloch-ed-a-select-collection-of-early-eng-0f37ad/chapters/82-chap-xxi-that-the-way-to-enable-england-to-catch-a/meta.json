@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 82,
+  "chapter_title": "CHAP. XXI.: That the way to enable England to catch and cure their Herrings as cheap as Holland, is, first to have Mater",
+  "chapter_slug": "82-chap-xxi-that-the-way-to-enable-england-to-catch-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "84c2a191-297a-5ac5-9dd3-454615fb9eec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2254,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

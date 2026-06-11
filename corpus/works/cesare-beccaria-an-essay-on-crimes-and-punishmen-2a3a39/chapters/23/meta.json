@@ -1,0 +1,26 @@
+{
+  "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
+  "work_title": "An Essay on Crimes and Punishments",
+  "chapter_number": 23,
+  "chapter_title": "CHAPTER XXI.: OF THE PUNISHMENT OF THE NOBLES.",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8522f8e-5c01-57d1-8d7a-3888a84d8542",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 475,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+    }
+  ]
+}

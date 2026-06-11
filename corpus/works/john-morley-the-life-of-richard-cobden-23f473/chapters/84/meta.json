@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-the-life-of-richard-cobden-23f473",
+  "work_title": "The Life of Richard Cobden",
+  "chapter_number": 84,
+  "chapter_title": "CHAPTER XXXVIII.: conclusion.",
+  "chapter_slug": "84",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "81f7cff1-c146-5990-b932-e6e5e171b32d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2825,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/morley-the-life-of-richard-cobden"
+    }
+  ]
+}

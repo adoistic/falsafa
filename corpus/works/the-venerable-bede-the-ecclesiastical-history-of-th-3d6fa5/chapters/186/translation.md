@@ -1,0 +1,25 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 186
+chapter_title: CHAPTER XL
+chapter_slug: 186
+variant_id: "21d87fbe-2174-5cb0-9884-7b1db93d88a0"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 427
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+how, according to the previous warning of the psalm which they sang at his death, the brethren of lindisfarne were assailed from without, but by the help of god were protected
+
+“I immediately went out, and told the brethren, who had passed the whole night in watchfulness and prayer, and chanced at that moment in the order of evening service to be singing the 59th Psalm, which begins, ‘O Lord, thou hast rejected us and destroyed us; thou hast been angry, and hast pitied us.’ One of them instantly lighted two candles, and, holding one in each hand, ascended a lofty Edition: current; Page: [341] spot, to show to the brethren who were in the monastery of Lindisfarne, that the holy man was dead; for they had agreed beforehand that such a signal should be made. The brother, who had waited an hour on an opposite height in the island of Lindisfarne, ran with speed to the monastery, where the brethren were assembled to perform the usual ceremonies of the evening service, and happened to be singing the above-named Psalm when the messenger entered. This was a Divine dispensation, as the event showed. For, when the man of God was buried, the Church was assailed by such a blast of temptation, that several of the brethren left the place rather than be involved in such dangers.
+
+“At the end of a year, Eadbert was ordained bishop. He was a man of great virtues, learned in the Holy Scripture, and in particular given to works of charity. If I may use the words of Scripture, The Lord built up Jerusalem, i.e. the vision of peace, and gathered together the dispersion of Israel. He healed those who were contrite in heart, and bound up their bruises, so that it was then given openly to understand the meaning of the hymn which was then for the first time sung, when the death of the sainted man was known; namely, that after his death his countrymen should be exposed to be repulsed and destroyed, but after a demonstration of his threatening anger should again be protected by the Divine mercy. He who considers the sequel also of the above-named Psalm will perceive that the event corresponded to its meaning. The body of the venerable father was placed on board a ship, and carried to the island of Lindisfarne. It was there met by a large crowd of persons singing psalms, and placed in the church of the holy Apostle Peter, in a stone coffin on the right-hand side of the altar.”

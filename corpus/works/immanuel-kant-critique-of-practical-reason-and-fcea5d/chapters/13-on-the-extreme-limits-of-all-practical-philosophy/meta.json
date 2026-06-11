@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 13,
+  "chapter_title": "On the Extreme Limits of all Practical Philosophy.",
+  "chapter_slug": "13-on-the-extreme-limits-of-all-practical-philosophy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dbc9128c-8a77-5701-a573-5366b1a8f5e6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3172,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+---
+work_id: "e4210a4a-f107-56e4-9d0c-e90e8ca0dccf"
+work_slug: "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a"
+work_title: "Magna Carta: A Commentary on the Great Charter of King John"
+author_name: William Sharp McKechnie
+chapter_number: 25
+chapter_title: CHAPTER ONE.
+chapter_slug: 25
+variant_id: "e6c04056-901f-5699-a32f-9551ac19e1e7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 415
+source_url: "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+translator: Online Library of Liberty edition
+---
+
+In primis concessisse Deo et hac presenti carta nostra confirmasse, pro nobis et heredibus nostris in perpetuum, quod Anglicana ecclesia libera sit, et habeat jura sua integra, et libertates suas illesas; et ita volumus observari; quod apparet ex eo quod libertatem electionum, que maxima et magis necessaria reputatur ecclesie Anglicane, mera et spontanea voluntate, ante discordiam inter nos et barones nostros motam, concessimus et carta nostra confirmavimus, et eam obtinuimus a domino papa Innocencio tercio confirmari; quam et nos observabimus et ab heredibus nostris in perpetuum bona fide volumus observari. Concessimus eciam omnibus liberis hominibus regni nostri, pro nobis et heredibus nostris in perpetuum, omnes libertates subscriptas, Edition: current; Page: [191] habendas et tenendas eis et heredibus suis, de nobis et heredibus nostris.
+
+In the first place we have granted to God, and by this our present charter confirmed for us and our heirs for ever that the English church shall be free, and shall have her rights entire, and her liberties inviolate; and we will that it be thus observed; which is apparent from this that the freedom of elections, which is reckoned most important and very essential to the English church, we, of our pure and unconstrained will, did grant, and did by our charter confirm and did obtain the ratification of the same from our lord, Pope Innocent III., before the quarrel arose between us and our barons: and this we will observe, and our will is that it be observed in good faith by our heirs for ever. We have also granted to all freemen of our kingdom, for us and our heirs forever, all the underwritten liberties, to be had and held by them and their heirs, of us and our heirs forever.
+
+This first of the sixty–three chapters of Magna Carta places side by side, bracketed equal as it were, (a) a general confirmation of the privileges of the English church, and (b) a declaration that the rights to be afterwards specified were granted “to all freemen” of the kingdom and to their heirs for ever. The manner of this juxtaposition of the church’s rights with the lay rights of freemen, suggests an intention to make it clear that neither group was to be treated as of more importance than the other. If the civil and political rights of the nation at large occupy the bulk of the Charter, and are defined in their minutest details, the church’s rights receive a prior place. A twofold division thus suggests itself.

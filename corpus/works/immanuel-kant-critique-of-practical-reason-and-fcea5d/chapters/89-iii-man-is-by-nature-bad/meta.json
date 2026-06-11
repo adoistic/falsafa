@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 89,
+  "chapter_title": "III.: man is by nature bad.",
+  "chapter_slug": "89-iii-man-is-by-nature-bad",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "78a6c315-5f44-5e8c-ba96-f0c0ebabcf9f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2545,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

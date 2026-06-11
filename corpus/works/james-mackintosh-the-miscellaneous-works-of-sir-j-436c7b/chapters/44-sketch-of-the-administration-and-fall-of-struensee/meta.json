@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 44,
+  "chapter_title": "SKETCH OF THE ADMINISTRATION AND FALL OF STRUENSEE.",
+  "chapter_slug": "44-sketch-of-the-administration-and-fall-of-struensee",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5a3b0aaa-5513-56b9-888d-0075d7dc7cdf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6997,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

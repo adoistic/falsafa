@@ -1,0 +1,12 @@
+[
+  {
+    "id": "p-f7a56b",
+    "offset": 0,
+    "text": "How and in what proportion a rod, or rather a prism, whose width is greater than its thickness offers more resistance to fracture when the force is applied in the direction of its breadth than in the direction of its thickness."
+  },
+  {
+    "id": "p-4093ec",
+    "offset": 229,
+    "text": "For the sake of clearness, take a ruler ad whose width is ac and whose thickness, cb, is much less than its width. The question now is why will the ruler, if stood on edge, as in the first figure, withstand a great weight T, while, when laid flat, as in the second figure, it will not support the weight X which is less than T. The answer is evident when we remember that in the one case Edition: current; Page: [118] the fulcrum is at the line bc, and in the other case at ca, while the distance at which the force is applied is the same in both cases, namely, the length bd: but in the first case the distance of the resistance from the fulcrum—half the line ca—is greater than in the other case where it is only half of bc. Therefore the weight T is greater than X in the same ratio as half the width ca is greater than half the thickness bc, since the former acts as a lever arm for ca, and the latter for cb, against the same resistance, namely, the strength of all the fibres in the cross-section ab. We conclude, therefore, that any given ruler, or prism, whose width exceeds its thickness, will offer greater resistance to fracture when standing on edge than when lying flat, and this in the ratio of the width to the thickness."
+  }
+]

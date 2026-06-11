@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-lectures-on-justice-police-reven-aac5d2",
+  "work_title": "Lectures on Justice, Police, Revenue, and Arms",
+  "chapter_number": 52,
+  "chapter_title": "[§ 12. Of the Opinion that no Expense at Home can be hurtful.]",
+  "chapter_slug": "52-12-of-the-opinion-that-no-expense-at-home-can-be-h",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1a846c03-40c6-5c33-b0b7-6822fde5cde6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 949,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-lectures-on-justice-police-revenue-and-arms-1763"
+    }
+  ]
+}

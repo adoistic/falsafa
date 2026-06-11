@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-social-statics-32e645",
+  "work_title": "Social Statics",
+  "chapter_number": 138,
+  "chapter_title": "§ 4.",
+  "chapter_slug": "138-4",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a4b21cbc-4e3c-5e62-b248-7d3ccb44323a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 853,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 33,
+  "chapter_title": "III. MAGISTRATES.",
+  "chapter_slug": "33-iii-magistrates",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0276460e-ed0b-5b0c-bc6c-f0aad39f31e2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 16211,
+      "paragraph_count": 129,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

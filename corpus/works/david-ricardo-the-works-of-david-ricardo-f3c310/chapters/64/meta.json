@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 64,
+  "chapter_title": "section I.: In the Medium of Circulation—Cause of Uniformity is Cause of Goodness.",
+  "chapter_slug": "64",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "16257136-2355-54a2-baee-865a0c075d5b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1380,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

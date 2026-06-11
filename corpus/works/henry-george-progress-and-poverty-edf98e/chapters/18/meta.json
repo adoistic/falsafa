@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-progress-and-poverty-edf98e",
+  "work_title": "Progress and Poverty",
+  "chapter_number": 18,
+  "chapter_title": "Chapter IV Of Spurious Capital and of Profits Often Mistaken for Interest",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f789f8b8-361e-50cd-88f5-61b15df8cd0d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1907,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
+    }
+  ]
+}

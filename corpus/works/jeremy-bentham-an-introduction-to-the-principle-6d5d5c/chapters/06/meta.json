@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-an-introduction-to-the-principle-6d5d5c",
+  "work_title": "An Introduction to the Principles of Morals and Legislation",
+  "chapter_number": 6,
+  "chapter_title": "Chapter V: PLEASURES AND PAINS, THEIR KINDS",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1777f8d0-c6ee-50f6-b78c-afc5f1b47f73",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2664,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-an-introduction-to-the-principles-of-morals-and-legislation"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "p-538f18",
+    "offset": 0,
+    "text": "THE object of this chapter is to express in algebraic formulas the six principles comprising the second approximation. In Chapter XII we assumed that all income streams were unalterable, except as they could be modified by borrowing and lending, or buying and selling rights to specified portions of these income streams. In the second approximation now to be put into formulas, we substitute for this hypothesis of fixity of the income streams the hypothesis of a range of choice between different income streams."
+  },
+  {
+    "id": "p-a11290",
+    "offset": 516,
+    "text": "The income stream of Individual 1 no longer consists of known and fixed elements, c1', c1'', c1''', etc., in successive periods but of unknown and variable elements which we shall designate by y1', y1'', y1''', etc. (y1' and y1'' are the coördinates of the Opportunity line)."
+  },
+  {
+    "id": "p-3c5e17",
+    "offset": 793,
+    "text": "This elastic income stream may now be modified in two ways: by the variations in these y's, as well as by the method which we found applicable for rigid income streams, namely, the method of exchange, borrowing and lending, or buying and selling. The alterations effected by the latter means we shall designate as before by the algebraic addition of x1', x1'', x1''',..., x1m, for successive Edition: current; Page: [303] years. These are to be applied to the original income items (the y's), deductions being included by assigning negative numerical values. The income stream, as finally determined, will therefore be expressed by the successive items,"
+  },
+  {
+    "id": "p-4e12d5",
+    "offset": 1448,
+    "text": "y1' + x1', y1'' + x1'', y1''' + x1''',..., y1(m) + x1(m)."
+  }
+]

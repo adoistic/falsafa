@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 12,
+  "chapter_title": "BOOK I, CHAPTER IX: OF THE DIFFERENT METHODS OF EMPLOYING COMMERCIAL INDUSTRY, AND THE MODE IN WHICH THEY CONCUR IN PROD",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a66de07a-e0df-558b-a9a1-cddcb97a5bbd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2227,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

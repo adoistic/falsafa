@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-letters-of-lord-acton-to-mary-gl-faa6fd",
+  "work_title": "Letters of Lord Acton to Mary Gladstone",
+  "chapter_number": 2,
+  "chapter_title": "LETTERS OF LORD ACTON",
+  "chapter_slug": "02-letters-of-lord-acton",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "68078011-3987-5852-ab1f-b2c84e208407",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 71109,
+      "paragraph_count": 1030,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paul-letters-of-lord-acton-to-mary-daughter-of-the-right-hon-w-e-gladstone"
+    }
+  ]
+}

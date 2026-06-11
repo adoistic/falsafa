@@ -1,0 +1,61 @@
+---
+work_id: "c6bd7f59-f3c2-5fb7-8cef-3162d99bc1e6"
+work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
+work_title: Where and Why Public Ownership Has Failed
+author_name: Yves Guyot
+chapter_number: 16
+chapter_title: "CHAPTER IX: PUBLIC VS. PRIVATE OPERATION"
+chapter_slug: 16
+variant_id: "262794a3-4ca7-54b0-8a4c-ad1efcd6ec6a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1031
+source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
+translator: Online Library of Liberty edition
+---
+
+Public vs. Private Initiative.—Extent of Railroad Lines Operated by the States and by the Companies.—Operating Ratios.—Government Profits.—Reduction of Rates in Great Britain.—Difficulties in Fixing Responsibility in State Railway Operations.
+
+The advocates of State Socialism say with admirable assurance: “Wherever private initiative has proved inadequate the state must step in.”
+
+Has the spirit of initiative been lacking in private management of railways? Private companies have been forced to struggle for a long time against government opposition, but to-day, although Prussia is a flat country, where not a single tunnel is to be found, and where the lines are much easier to construct than in Great Britain, the British have a system of more than 19 miles per 100 square miles, while the Prussian system has only 16 miles, or 11 per cent. less.
+
+Did the United States government build the daring lines which have joined the two oceans?
+
+Edwin Pratt, in his Railways and Nationalization, has demonstrated that private companies possessed more than 69 per cent. of the entire length of line of the existing railways in 1908. And, following a series Edition: current; Page: [119] of debates with German publications, he brought his figures up to date in the London Times, of October 1, 1912. Here they are:
+
+Thus, over two-thirds of the railways of the world belong to private companies. Moreover, of the 24,500 miles of railway belonging to the state of British India, 18,000 miles are operated by private companies. In Holland all the lines are operated by companies. In Belgium the tramway lines are longer than the state railways, and they are operated by private companies. Lines in Great Britain, which have three, four, or even more tracks, are included in these figures on the line and not the track basis. The total length of line is 23,287 miles. The length of main track, however, is 39,851 miles, and of main track and sidings, 54,311 miles.
+
+The greatest system in the world, that of the United States, is owned by private companies. Mr. Bryan, on returning from Europe in 1903, introduced nationalization of railways into his platform, without informing any of the members of the Democratic party of his intention. This brilliant inspiration helped to destroy his chances for the presidency.
+
+The operating ratios suffice to show that superior Edition: current; Page: [120] administrative capacity is not to be found on the side of the several states which exercise it in this direction.
+
+We have seen that the state railways of Prussia have yielded revenue to the state budget. But in Belgium, Italy, Austria, and Hungary they have only been a burden. The partisans of socialized railways in France have neglected to tell us what the French government railways have contributed to the state.
+
+In the various countries state railways are exempt from general taxation. The amount, however, that would be collected from them were they private enterprises should, in all justice, be added to their expense account. In France passengers and shippers upon the state railway lines are taxed for speed. They pay a stamp tax on baggage and other receipts, and way bills, taxes upon vouchers, and custom duties on pit coal. The saving resulting from economies in transportation, as given in the following table, are reckoned, and with reason, among government profits:
+
+The following sums represent the contributions made by the French (private) railway companies to the state:
+
+This burden per kilometer is a very heavy one.
+
+Such contributions to the state are not to be despised, and, in any comparison between the profits per kilometer of the government railways and those of the railways operated by French companies, they should be taken into account.
+
+The following example, borrowed from the history of the British railways, shows the necessity of granting large freedom of action to railways.
+
+The railways of Great Britain had a certain commercial policy. Their general freight rates, much more profitable than special rates, represented 75 per cent. of the total traffic. They had only one regulation which applied equally to all shippers, and this regulation was enforced. Before the rigid law introduced in 1891–1892 the railways, by way of experiment, had made a rate reduction, worked out with care, but allowing for changes in its provisions. If there should be no increase in traffic as a result, the rate was to be raised. To-day such action is no longer possible except by the authority of the Railway and Canal Commission. As a consequence, where during the decade 1882–1892 rates had been reduced 14 per cent., in the decade that followed they were reduced only 2 per cent.
+
+All state railway systems hold themselves more or less absolutely free from any responsibility. We have already described the point of view of the Prussian administration in this regard. The Italian railways have adopted the point of view that any accident involving loss to their passengers or to shippers is a dispensation of Providence. In France we have seen a verdict of the Court of Brest, and an opinion of the Court of Rouen, deciding against the State Railway department, in its attempt to escape liability for damages by appealing to “circumstances beyond Edition: current; Page: [123] their control” in cases in which no private company would dream of offering such an excuse.
+
+After having studied in detail the great European systems, an American, Mr. Charles Lee Raper, concludes:
+
+State railways may find themselves in one of three situations:
+
+First: Where they are profitable, and their profits are absorbed by the public treasury. In this case the interests of the shippers and passengers are being sacrificed to those of the state. This is the case in Prussia.
+
+Second: Where they lose money and the taxpayers make up the deficiency. Here the interests of the tax Edition: current; Page: [124] payers are being sacrificed to those of shippers and passengers.
+
+Third: Finally there is a third case, in which the interests of the taxpayers, passengers, and shippers are sacrificed to the demands of employees. In such cases the railroad is being operated for the benefit of the employees and not for that of general transportation. This condition appears more or less in all state systems.

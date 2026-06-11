@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-locke-two-treatises-of-government-fcc06c",
+  "work_title": "Two Treatises of Government",
+  "chapter_number": 209,
+  "chapter_title": "§. 39.",
+  "chapter_slug": "209-39",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9156e55-bd26-56dc-8a92-cb2c255debe7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 84,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+    }
+  ]
+}

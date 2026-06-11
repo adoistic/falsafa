@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 102,
+  "chapter_title": "Retrospect and relation of laws",
+  "chapter_slug": "102-retrospect-and-relation-of-laws",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ab1c595-0fad-5818-94b2-def887a23561",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 363,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

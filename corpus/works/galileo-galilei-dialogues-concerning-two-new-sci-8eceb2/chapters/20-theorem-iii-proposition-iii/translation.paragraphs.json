@@ -1,0 +1,17 @@
+[
+  {
+    "id": "p-fc85ad",
+    "offset": 0,
+    "text": "In the case of unequal speeds, the time-intervals required to traverse a given space are to each other inversely as the speeds."
+  },
+  {
+    "id": "p-a72728",
+    "offset": 129,
+    "text": "Let the larger of the two unequal speeds be indicated by A; the smaller, by B; and let the motion corresponding to both traverse the given space CD. Then I say the time required to traverse the distance CD at speed A is to the time required to traverse the same distance at speed B, as the speed B is to the speed A. For let CD be to CE as A is to B; then, from the preceding, it follows that the time required to complete the distance CD at speed A is the same asEdition: NatlEd; Page: [194] the time necessary to complete CE at speed B; but the time needed to traverse the distance CE at speed B is to the time required to traverse the distance CD at the same speed as CE is to CD; therefore the time in which CD is covered at speed A is to the time in which CD is covered at speed B as CE is to CD, that is, as speed B is to speed A."
+  },
+  {
+    "id": "p-070003",
+    "offset": 967,
+    "text": "q. e. d."
+  }
+]

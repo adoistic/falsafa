@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-maynard-keynes-the-economic-consequences-of-the-8e91dc",
+  "work_title": "The Economic Consequences of the Peace",
+  "chapter_number": 24,
+  "chapter_title": "2. The Settlement of Inter-Ally Indebtedness",
+  "chapter_slug": "24-2-the-settlement-of-inter-ally-indebtedness",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "087514fe-e1ee-550c-9840-2b0e6e1790fa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2885,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keynes-the-economic-consequences-of-the-peace"
+    }
+  ]
+}

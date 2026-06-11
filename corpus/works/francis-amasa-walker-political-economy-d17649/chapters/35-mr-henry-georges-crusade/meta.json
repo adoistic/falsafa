@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 35,
+  "chapter_title": "mr. henry george's crusade.",
+  "chapter_slug": "35-mr-henry-georges-crusade",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "51729f37-567f-5b6d-a83d-5a678f40e37d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5208,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+---
+work_id: "d17649ac-324d-5263-891b-df84d3d1bf67"
+work_slug: "francis-amasa-walker-political-economy-d17649"
+work_title: Political Economy
+author_name: Francis Amasa Walker
+chapter_number: 40
+chapter_title: "XV.: the revenue of the state."
+chapter_slug: "40-xv-the-revenue-of-the-state"
+variant_id: "faae24e2-8f00-54dc-8339-d24bfd519bd8"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2614
+source_url: "https://oll.libertyfund.org/titles/walker-political-economy"
+translator: Online Library of Liberty edition
+---
+
+572. The revenue of the State may be derived from:
+
+I. Voluntary Contributions.
+
+It is, to most of us, difficult to conceive a state of society where the expenses of government should be met through spontaneous self-assessment; yet, in a more primitive condition, such a state of things has existed widely, and in a few happy instances has come down nearly to our day.
+
+The papal revenues may perhaps be brought under this title. Adam Smith cites Hamburg, Basle, Zurich, Underwald, Holland, and other communities, where the self-valuation of the citizen was accepted.
+
+An American, long resident in Europe, thus describes his experience in a community where the principle of self-assessment still survived:
+
+“For four years it was the good fortune of the present writer to be domiciled in one of these communities. Incredible as it may seem to believers in the necessity of a legal enforcement of taxes by pains and penalties, he was, for that period, by law and usage, in the strictest sense of the term, his own assessor and his own tax gatherer. In common with the other citizens, he was invited, without sworn statement or declaration, to make such contribution to the public charges as seemed to him just and equal. That sum, uncounted by any official, unknown to any but himself, he was asked to drop, with his own hand, into a strong public chest; on doing which, his name was checked off the list of contributors, his duty done.”
+
+573. II. Luorative Prerogatives, Public Property, and State Enterprise.
+
+The following may be named as the chief sources of revenue under this head:
+
+It is evident that the scope of this principle will widen or Edition: current; Page: [477] contract in correspondence with the laws regulating the descent and bequest of property and prescribing the times and modes of proving claims. Under the feudal system, escheat constituted a most important source of revenue. In England, the right of devising real property did not exist after the Conquest, until the time of Henry VIII. Modern society, however, has given continually wider extension to the power of bequest and the principle of inheritance, until escheat has ceased to be of much importance.
+
+In 1795, the great English law reformer, Jeremy Bentham, in a pamphlet entitled, “Escheat vice Taxation,” propounded a scheme by which the entire revenue of the state should be derived from this source.
+
+Bentham proposed an extension of the existing law of escheat, “a law coeval with the very first elements of the Constitution,” and a corresponding limitation of the power of bequest. The effect intended was to be “the appropriating to the use of the public all vacant successions, property of every denomination included, on the failure of near relations, will or no will, subject only to the power of bequest, as hereinafter limited.”
+
+By near relations, he means “such relations as stand within the degrees termed prohibited with reference to marriage.”
+
+Further, in the case of “such relations within the pale as are not only childless, but without prospect of children,” he proposes, that, instead of taking their share in money, they should take only the interest of it for life.
+
+“As to the latitude to be left to the power of bequest,” he writes, “I should propose it to be continued in respect to the half of whatever property would be at present subject to that power.”
+
+Bentham argues that in the distribution of property there is no sense of hardship but in proportion to disappointment: expectation thwarted. “Hardship,” he says, “depends upon disappointment; disappointment upon expectation; expectation upon the dispensations, meaning the known dispensations, of the law.”
+
+If, therefore, the law were so framed, distant relations would not expect to succeed; would consequently not be disappointed; and would consequently suffer no hardship.
+
+574. (3.) Fines and forfeitures for Criminality and Delinquency. Since government exists largely for the protection of life, property and labor, the cost of maintaining government and administering justice might properly be drawn, if it were found possible, from the delinquent and criminal class.
+
+In feudal times, fines and forfeitures constituted a very important source of revenue to the crown.
+
+In the present age political crimes have become comparatively infrequent, and the criminal class are now mainly drawn from the poor, who are not proper, perhaps not possible, subjects for pecuniary exaction.
+
+Hence this branch of public revenue has shrunk into comparative insignificance. Fines and forfeitures pay a part of the expense of strictly judicial establishments, especially of the lower or police courts; but they add little to the general receipts of the state.
+
+(4.) Tributes from colonies, dependencies and conquered nations, including war fines, requisitions and indemnities.
+
+The subject is a fascinating one; but I must resist the temptation to enlarge upon it.
+
+575. (5.) The sale of offices, honors and titles.
+
+This source of revenue makes a very prominent figure in the history of finance; but has, at present, mainly a curious interest.
+
+The sale of offices, titles, etc., by the state, may fall into several different categories.
+
+576. (6.) Domains (L'Etat Capitaliste.)
+
+Even under the modern European principle of the private ownership of land, the state is, in all countries, the possessor of larger or smaller domains from which a revenue may be derived.
+
+It is the habit of writers on finance to speak, and perhaps justly, in the most disparaging tone of the administration of public estates, for productive uses. Adam Smith expresses Edition: current; Page: [481] himself in the strongest terms. “The servants of the most negligent master are better superintended than the servants of the most vigilant sovereign.” Referring to his own country, he says: “The crown-lands of Great Britain do not, at present, afford the fourth part of the rent which could probably be drawn from them, if they were the property of private persons. If the crown-lands were more extensive, it is probable they would be still worse managed.” And, not to disparage English administration too greatly, he adds: “In the present state of the greater part of the civilized monarchies of Europe, the rent of all lands in the country, managed as they would probably be if they all belonged to one proprietor, would scarce amount, perhaps, to the ordinary revenue which they levy upon the people, even in peaceful times.”
+
+However much this statement might require to be modified with respect to the management of government property in a country like Germany, with its admirable civil service and its systematic administration of public trusts, no one would think of questioning the full literal truth of Adam Smith's declaration if applied to our own country, with its civil service based upon the principles of rotation in office and appointment as the reward of partisan activity.
+
+Of the present Enropean States, Russia, Prussia, Bavaria, Sweden, and Hanover, derive considerable revenue from public Edition: current; Page: [482] domains, the first named being so pre-eminent in this respect that M. Cherbuliez mentions it as almost the only state which draws a notable proportion of its revenue from such a source.
+
+577. (7) State Enterprise (L'Etat Entrepreneur).—Whatever the disabilities of the state in acquiring a revenue from the rental or sale of property, whether that consist of agricultural lands, or mines, or forests, or fisheries, or phosphate deposits, those disabilities are greatly increased when the state undertakes the management of commercial or manufacturing business. The state as capitalist is at no small disadvantage; as entrepreneur, that disadvantage is vastly aggravated.
+
+Yet the rule of failure, on this side of governmental agency, is not unbroken. Dr. Smith mentions the republic of Hamburg as deriving a considerable revenue from a public wine cellar and from an apothecary's shop. The profits of banking have been realized in a notable degree by several cities, among them Hamburg, Venice and Amsterdam. The post-office can be made, and has been made, “to pay,” and that handsomely. If the post-office in the United States is not a source of revenue, it is because our ‘people have chosen to make it an agency for promoting the settlement of the country. The business of distilling in Russia, of sugar refining in Egypt, and of opium manufacture in British India, have been made the subject of no inconsiderable profit to government, Edition: current; Page: [483] The supply of towns in the matter of water, and, in a smaller number of instances, of gas, has been attempted, not unsuccessfully, by municipal governments.
+
+The instance which goes furthest to contradict the generally received opinion of the hopeless incapacity of the state to conduct industrial enterprises, is afforded by the railways of Germany.
+
+578. III. Quasi Taxes.—The following may be named as sources of revenue under this head:
+
+(1.) Monopolies conferred upon individuals or corporations, in consideration of a capital sum paid down, or of a share in the resulting profits.
+
+Monopolies have played a conspicuous part in the history of public revenues; and, in spite of the spirit of the age which is, in general, strongly opposed to exclusive privileges of manufacture and sale, they still form a prominent feature in the budget of many countries of Europe.
+
+Monopolies may be commercial, industrial or financial. The distinction between the monopolies of the past and those of the present day is marked. Formerly monopolies were granted, for the profit of the government, to persons and corporations to carry on a vast variety of operations, great and small alike, most of which were susceptible of private management.
+
+Such were the monopolies of the 17th and 18th centuries. To-day, under the light of political economy, all prudent governments restrict the principle of monopoly to a very few highly important interests, and, by preference, to those which in their nature tend toward monopoly. Thus Bentham, that arch enemy of monopolies, proposed the collection of large revenues from bankers, who were to be compensated by a monopoly within their several districts, on the ground that banking was a business tending to monopoly.
+
+In the same way, taxes on railway goods and passenger traffic in England and France have been defended, even by free-traders, on the ground that railway transportation is necessarily very much of a monopoly; that full and effective competition can rarely be introduced and never long maintained; and that the state may, therefore, accepting the fact of a substantial monopoly, properly derive a profit therefrom.
+
+But there are also certain special interests of great commercial importance, in every way fitted for private management, which, on account of their high capability for yielding revenue, some enlightened nations still constitute exceptions to the principle of open public competition.
+
+Among the subjects thus specially excepted from the principle of competition, are opium, salt, tobacco and matches.
+
+579.—(2.) Lotteries. This needs only to be mentioned as a source of revenue largely made use of, in the past, and still forming an important feature in the budgets of many civilized countries. Of the moral and social objections to this system of raising money, we are not called to speak here. Economically speaking, there can be no doubt that, while lotteries afford a most effective means of securing a present revenue, Edition: current; Page: [485] appealing, as they do, to one of the strongest passions of human nature, they yet, in their ultimate effect, weaken the state by discouraging patient industry, and thus impair the revenue capabilities of any people among whom they come to be extensively employed. In two of the states of the American union, lotteries are still conducted under government patronage. Every one is familiar with them as agencies for collecting money for charitable and religious associations.
+
+580.—(3.) Purveyance.—The right of buying provisions and other necessaries for the use of the royal household, at an appraised valuation, in preference to all other purchasers and even without the consent of the owner, might have been included among the “lucrative prerogatives “mentioned under a former head, or may indifferently be regarded as a quasi tax. Once extensively practiced, purveyance is now greatly restrained and confined, and in almost all highly civilized countries is wholly discontinued—except during actual war, or in the case of a royal progress.
+
+581.—(4.) Fees.—A fourth mode of raising revenue, which partakes largely of the nature of a tax, without bearing its form, is through the exaction of fees for stated or occasional services performed by the agents of the State.
+
+So far as fees are, in the phrase of Garnier, not fiscal, that is, so far as they constitute merely a return for the expense to which the individual receiving the benefit has put the state, on his own behalf, they do not come under the present title. We are only concerned here with fees exacted by the state as a means of revenue, in excess of the expense to which the state is put by the performance of the service, and where, perhaps, the so-called service is itself interposed only as an occasion for the imposition of a tax, as in the case of many custom-house services.
+
+Into the same category would properly fall all the fees exacted from individuals where the main benefit is received by the community, even though the aggregate of such receipts should not equal the expense to the state of maintaining some necessary service. Judicial fees are often of this nature, the cost of obtaining the adjudication of a great principle having Edition: current; Page: [486] been formerly thrown upon single individuals, who were frequently less benefited than thousands of others by the decisions reached. This system was fiercely attacked by Bentham.
+
+“Who goeth to warfare at any time at his own charges? saith St. Paul. It is the poor litigant who makes war upon injustice.”
+
+It is also fairly a question whether the maintenance of the ordinary roads of a country is not, in such a sense and in so far, a general charge, that fees, under the name of tolls, constitute a quasi tax, instead of being, according to the assumption on which they are collected, the price paid by the individual for a service rendered to himself directly and exclusively.
+
+Of other forms of quasi taxes (5) seigniorage on the coin, and (6) the issue of paper money, enough has been said in Part III.
+
+582. IV. Taxation in its Various Forms.—Taxation may be considered (a) according to its ultimate Bases, which may be Rent-bearing land, Wealth, Revenue, Faculty, or Expenditure, one or all of these.
+
+The first we have already discussed under the title “The Nationalization of the Land.” A tax on rent, we have seen, is not a general tax. It does not fall upon those members of the community who do not own land. It does not affect the price of produce. It amounts merely to the assumption, or usurpation, as one is disposed to regard it, by the state, of the surplus of produce above the cost of cultivating the no-rent lands.
+
+A tax upon the no-rent lands, either by themselves, or in common with other lands, is a tax on produce.
+
+583. Again, taxation may be considered (b) with reference to the equities of contribution. In this connection we might discuss:
+
+584. (c.) The foregoing discussions are introductory to the consideration of any specific tax or group of taxes, or existing tax system, respecting which we may inquire how far it answers the requirements of equitable contribution, or, on the other hand, if we abandon the rule of equity altogether—as did Mr. McCulloch—how far it secures to the state the needed revenue, with a minimum of irritation to the public mind, with a minimum of expense and loss in collection, and with a minimum disturbance to trade and industry.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "epictetus-the-works-of-epictetus-43c12c",
+  "work_title": "The Works of Epictetus",
+  "chapter_number": 43,
+  "chapter_title": "CHAPTER IX.: THAT SOME PERSONS, FAILING TO FULFIL WHAT THE CHARACTER OF A MAN IMPLIES, ASSUME THAT OF A PHILOSOPHER.",
+  "chapter_slug": "43",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "808edd06-55e7-53be-8cb1-76e9af1befdd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 799,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+    }
+  ]
+}

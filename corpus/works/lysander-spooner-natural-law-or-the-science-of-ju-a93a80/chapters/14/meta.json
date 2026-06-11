@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-natural-law-or-the-science-of-ju-a93a80",
+  "work_title": "Natural Law, or the Science of Justice",
+  "chapter_number": 14,
+  "chapter_title": "Section II.",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f85a3424-154d-55a9-9f2f-4e76c0a2b465",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 576,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-natural-law-or-the-science-of-justice-1882"
+    }
+  ]
+}

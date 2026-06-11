@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-locke-two-treatises-of-government-fcc06c",
+  "work_title": "Two Treatises of Government",
+  "chapter_number": 319,
+  "chapter_title": "§. 152.",
+  "chapter_slug": "319-152",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe6cfbd2-4fe3-508f-a544-03f2400973e6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 196,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+    }
+  ]
+}

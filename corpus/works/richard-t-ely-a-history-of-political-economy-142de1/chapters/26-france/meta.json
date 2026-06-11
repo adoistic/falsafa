@@ -1,0 +1,26 @@
+{
+  "work_slug": "richard-t-ely-a-history-of-political-economy-142de1",
+  "work_title": "A History of Political Economy",
+  "chapter_number": 26,
+  "chapter_title": "France",
+  "chapter_slug": "26-france",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "195c914b-3e27-5ced-abe0-69f320fd6343",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1160,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ely-a-history-of-political-economy"
+    }
+  ]
+}

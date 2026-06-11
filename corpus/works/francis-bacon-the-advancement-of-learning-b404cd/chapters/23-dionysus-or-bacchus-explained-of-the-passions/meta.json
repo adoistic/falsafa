@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 23,
+  "chapter_title": "DIONYSUS, OR BACCHUS Explained of the Passions",
+  "chapter_slug": "23-dionysus-or-bacchus-explained-of-the-passions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "45203efa-0a8b-5797-8c64-e928c134993a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1275,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

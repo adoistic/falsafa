@@ -1,0 +1,33 @@
+---
+work_id: "fcc06cfa-2502-59f5-bb1a-03089f9078cd"
+work_slug: "john-locke-two-treatises-of-government-fcc06c"
+work_title: Two Treatises of Government
+author_name: John Locke
+chapter_number: 397
+chapter_title: §. 235.
+chapter_slug: "397-235"
+variant_id: "828f98c0-16a1-5ddf-9bbc-ced09fa17617"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 603
+source_url: "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+translator: Online Library of Liberty edition
+---
+
+It is true, he has annexed two limitations to it, to no purpose:
+
+First, He says, it must be with reverence.
+
+Secondly, It must be without retribution, or punishment; and the reason he gives is, because an inferior cannot punish a superior.
+
+First, How to resist force without striking again, or how to strike with reverence, will need some skill to make intelligible. He that shall oppose an assault only with a shield to receive the blows, or in any more respectful posture, without a sword in his hand, to abate the confidence and force of the assailant, will quickly be at an end of his resistance, and will find such a defence serve only to draw on himself the worse usage. This is as ridiculous a way of resisting, as Juvenal thought it of fighting; ubi tu pulsas, ego vapulo tantum. And the success of the combat will be unavoidably the same he there describes it:
+
+This will always be the event of such an imaginary resistance, where men may not strike again. He therefore who may resist, must be allowed to strike. And then let our author, or any body else, join a knock on the head, or a cut on the face, with as much reverence and respect as he thinks fit. He that can reconcile blows and reverence, may, for aught I know, desire for his pains, a civil, respectful cudgeling where-ever he can meet with it.
+
+Secondly, As to his second, An inferior cannot punish a superior; that is true, generally speaking, whilst he is his superior. But to resist force with force, being the state of war that levels the parties, cancels all former relation of reverence, respect, and superiority: and then the odds that remains, is, that he, who opposes the unjust aggressor, has this superiority over him, that he has a right, when he prevails, to punish the offender, both for the breach of the peace, and all the evils that followed upon it. Barclay therefore, in another place, more coherently to himself, denies it to be lawful to resist a king in any case. But he there assigns two cases, whereby a king may un-king himself. His words are,
+
+Quid ergo, nulline casus incidere possunt quibus populo sese erigere atque in regem impotentius dominantem arma capere & invadere jure suo suâque authoritate liceat? Nulli certe quamdiu Edition: current; Page: [408] rex manet. Semper enim ex divinis id obstat, Regem honorificato; & qui potestati resistit, Dei ordinationi resistit: non aliàs igitur in eum populo potestas est quam si id committat propter quod ipso jure rex esse desinat. Tunc enim se ipse principatu exuit atque in privatis constituit liber: hoc modo populus & superior efficitur, reverso ad eum sc. jure illo quod ante regem inauguratum in interregno habuit. At sunt paucorum generum commissa ejusmodi quæ hunc effectum pariunt. At ego cum plurima animo perlustrem, duo tantum invenio, duos, inquam, casus quibus rex ipso facto ex rege non regem se facit & omni honore & dignitate regali atque in subditos potestate destituit; quorum etiam meminit Winzerus. Horum unus est, Si regnum disperdat, quemadmodum de Nerone fertur, quod is nempe senatum populumque Romanum, atque adeo urbem ipsam ferro flammaque vastare, ac novas sibi sedes quærere decrevisset. Et de Caligula, quod palam denunciarit se neque civem neque principem senatui amplius fore, inque animo habuerit interempto utriusque ordinis electissimo quoque Alexandriam commigrare, ac ut populum uno ictu interimeret, unam ei cervicem optavit. Talia cum rex aliquis meditatur & molitur serio, omnem regnandi curam & animum ilico abjicit, ac proinde imperium in subditos amittit, ut dominus servi pro derelicto habiti dominium.

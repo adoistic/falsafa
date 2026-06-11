@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-progress-and-poverty-edf98e",
+  "work_title": "Progress and Poverty",
+  "chapter_number": 21,
+  "chapter_title": "Chapter VII The Correlation and Co-ordination of These Laws",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "618914aa-ea18-50ff-ad17-f9a9c393d8d6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 456,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
+    }
+  ]
+}

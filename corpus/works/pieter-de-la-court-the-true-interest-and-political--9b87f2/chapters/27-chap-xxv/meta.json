@@ -1,0 +1,26 @@
+{
+  "work_slug": "pieter-de-la-court-the-true-interest-and-political--9b87f2",
+  "work_title": "The True Interest and Political Maxims of the Republic of Holland",
+  "chapter_number": 27,
+  "chapter_title": "CHAP. XXV.",
+  "chapter_slug": "27-chap-xxv",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aaaf2e7d-6fb7-58f8-a68a-8c60f6dba86d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4048,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/court-the-true-interest-and-political-maxims-of-the-republic-of-holland"
+    }
+  ]
+}

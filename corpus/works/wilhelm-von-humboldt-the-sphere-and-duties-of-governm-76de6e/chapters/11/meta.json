@@ -1,0 +1,26 @@
+{
+  "work_slug": "wilhelm-von-humboldt-the-sphere-and-duties-of-governm-76de6e",
+  "work_title": "The Sphere and Duties of Government",
+  "chapter_number": 11,
+  "chapter_title": "CHAPTER IX.: the solicitude of the state for security more accurately and positively defined.—further development of the",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3fb33b41-b623-5e38-859a-b3628e3b0528",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1717,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/coulthard-the-sphere-and-duties-of-government-1792-1854"
+    }
+  ]
+}

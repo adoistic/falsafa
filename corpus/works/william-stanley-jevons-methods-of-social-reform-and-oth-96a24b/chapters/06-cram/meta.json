@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-methods-of-social-reform-and-oth-96a24b",
+  "work_title": "Methods of Social Reform and Other Papers",
+  "chapter_number": 6,
+  "chapter_title": "“CRAM.”",
+  "chapter_slug": "06-cram",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f01ecdf2-982d-51f0-9461-fa3d2c0b8462",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6801,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-methods-of-social-reform-and-other-papers"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-protection-or-free-trade-b67ad4",
+  "work_title": "Protection or Free Trade",
+  "chapter_number": 16,
+  "chapter_title": "Chapter XV OF ADVANTAGES AND DISADVANTAGES AS REASONS FOR PROTECTION.",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ea52808-5099-545f-9ca0-571e6678d646",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2411,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-protection-or-free-trade"
+    }
+  ]
+}

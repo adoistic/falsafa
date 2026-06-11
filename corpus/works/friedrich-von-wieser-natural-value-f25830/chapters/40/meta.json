@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 40,
+  "chapter_title": "CHAPTER XIX: the imputation of gross return and of net return",
+  "chapter_slug": "40",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4a9b7803-7371-5d8b-a6d6-fb0fa8bb46ad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 666,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

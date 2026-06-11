@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-ancient-law-78eea2",
+  "work_title": "Ancient Law",
+  "chapter_number": 1,
+  "chapter_title": "PREFACE TO THE TENTH EDITION.",
+  "chapter_slug": "01-preface-to-the-tenth-edition",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "00758654-5544-5484-9751-f1e6cec8d733",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 194,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-ancient-law"
+    }
+  ]
+}

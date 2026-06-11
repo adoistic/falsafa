@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-historical-essays-and-studies-dbfb78",
+  "work_title": "Historical Essays and Studies",
+  "chapter_number": 8,
+  "chapter_title": "VII: THE CAUSES OF THE FRANCO-PRUSSIAN WAR",
+  "chapter_slug": "08-vii-the-causes-of-the-franco-prussian-war",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52bbcbe0-4121-542f-a150-7a194f2b2853",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7728,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laurence-historical-essays-and-studies"
+    }
+  ]
+}

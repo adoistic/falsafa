@@ -1,0 +1,26 @@
+{
+  "work_slug": "jane-marcet-conversations-on-political-econo-b12c13",
+  "work_title": "Conversations on Political Economy",
+  "chapter_number": 6,
+  "chapter_title": "ON THE DIVISION OF LABOUR.",
+  "chapter_slug": "06-on-the-division-of-labour",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9144bcdb-1423-5f43-8864-66dce9b46fb2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4456,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marcet-conversations-on-political-economy"
+    }
+  ]
+}

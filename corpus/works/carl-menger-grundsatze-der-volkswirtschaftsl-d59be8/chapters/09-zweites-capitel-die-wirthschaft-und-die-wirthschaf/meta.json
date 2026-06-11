@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 9,
+  "chapter_title": "Zweites Capitel.: Die Wirthschaft und die wirthschaftlichen Güter.",
+  "chapter_slug": "09-zweites-capitel-die-wirthschaft-und-die-wirthschaf",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d871aa87-0ed5-5fc1-9e6f-1648949b91d5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 868,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

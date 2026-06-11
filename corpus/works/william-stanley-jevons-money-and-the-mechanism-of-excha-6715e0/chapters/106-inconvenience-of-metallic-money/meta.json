@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0",
+  "work_title": "Money and the Mechanism of Exchange",
+  "chapter_number": 106,
+  "chapter_title": "Inconvenience of Metallic Money.",
+  "chapter_slug": "106-inconvenience-of-metallic-money",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1fc6da9-3588-549b-90e1-242b491b297a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 289,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+---
+work_id: "09683f4f-833e-576f-99e6-7b556e9bd423"
+work_slug: "gaius-institutes-of-roman-law-09683f"
+work_title: Institutes of Roman Law
+author_name: Gaius
+chapter_number: 100
+chapter_title: BONORVM POSSESSIO SECVNDVM TABVLAS.
+chapter_slug: "100-bonorvm-possessio-secvndvm-tabvlas"
+variant_id: "cccd84ee-96cc-535e-9f74-e7fdf0735ade"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1478
+source_url: "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+translator: Online Library of Liberty edition
+---
+
+§ 115. The civil law, however, is not satisfied by our observing the requisitions hereinbefore explained respecting mancipation, attestation, and nuncupation.
+
+§ 116. Above all things, we must observe whether the institution of an heir was in solemn form; for if the institution of an heir was not in the prescribed form, it is unavailing that the mancipation, attestation, nuncupation, were regular.
+
+The solemn form of institution is this: ‘Be Titius my heir.’ The following also seems now to be recognized: ‘I order that Titius be my heir.’ ‘I wish Titius to be my heir’ is not admitted; and most reject the following: ‘I institute Titius my heir,’ ‘I make Titius my heir.’
+
+§ 118. It is also to be remembered that a woman who has a guardian must have her guardian’s sanction to make a will, otherwise her will is invalid at civil law.
+
+The praetor, however, if the will is attested by the seals of seven witnesses, promises to put the persons named in the will in juxta-tabular possession, and if there is no one to take the inheritance by statutory right under the rules of intestacy, a brother by the same father, for instance, a father’s brother, or a brother’s son, the persons named in the will are able to retain the inheritance; for the rule is the same as if the will is invalid from any other cause, as because the familia has not been sold or because the words of nuncupation have not been spoken.
+
+§ 120. But are not the heirs named in the will preferred even to a brother and paternal uncle? since the rescript of the emperor Antoninus permits the person named in the will who has obtained juxta - tabular possession under an informal will to repel the claimants in intestacy by the plea of fraud.
+
+§ 121. This certainly applies both to the wills of males and also to the wills of females which are informal for such faults as omission to sell the familia or to say the words of nuncupation: whether the constitution applies also to wills of females executed without their guardians’s sanction, is a question.
+
+We are not speaking of females who are the statutory wards of their parent or patron, but of those who are wards of the Edition: current; Page: [187] other sort of guardian, who are compellable to give their sanction; for a parent or patron can certainly not be displaced by a will he has not chosen to sanction.
+
+The necessity of using formal words in the institution of an heir was abolished by a constitution of Constantius and Constans, a. d. 339, Cod. 6, 23, 15.
+
+As to the nomenclature employed in the following exposition of Roman testamentary law, it must be observed that as the Roman conception of Heres is not found in English law, so we have no legal term corresponding to it. In the language of English jurisprudence Heir denotes a successor to real estate, while Executor, the notion of which is derived to some extent from Roman law, denotes a successor appointed to succeed to personal property. Again Heir denotes a successor to real estate in case of intestacy. Devisee denotes a successor to real estate under a will.
+
+The word Executor is not available as a translation of heres. The Executor of English law, unless also a legatee, holds a merely onerous office; whereas the heres of Roman law was always, if there was any residue, a beneficiary. The Roman heres, in fact, united the characters of the English Executor and residuary legatee: and the lex Falcidia provided that the residue should as against the claims of legatus always amount to a fourth of the testator’s property. Nor is the executor, like the heres, personally liable for the debts of the deceased beyond assets.
+
+In translating the word Heres heir, which is convenient from its relation to the indispensable terms disinherit and disinheritance, an English reader must not be misled by false associations with Real Property law, but must understand that it is used to signify the Universal successor of Roman law, whether designated by will or by the rules of intestacy.
+
+Bequest (which in English law is related to personality as devise to realty) has been used in connexion with legacies, i. e. with dispositions in favour of legatarius as opposed to heres; in favour, that is, of a person who takes a single thing or things belonging to the testator, not his familia, that is, the Universitas of his rights and obligations, or a fraction of this Universitas.
+
+The praetor only sustained a testament in spite of its civil invalidity when the grounds of civil invalidity were want of mere external formalities (mancipation, nuncupation), not against more serious defects, such as preterition of self-successor. He sustained it, however, against the preterition of suus postumus, if suus postumus died before the testator, Dig. 28, 3, 12.
+
+The praetorian succession, or right of succession introduced by the praetor under the name of Bonorum possessio, sometimes as supplementary to, and sometimes in the place of, civilis hereditas, may be divided into testate succession and intestate succession. The latter branch (bonorum possessio intestati) was firmly established at an earlier period than the former (bonorum possessio secundum tabulas). The rescript mentioned by Gaius, § 120, which is attributed by some writers to Antoninus Pius and by others to Marcus Aurelius, as is the more probable view, may be regarded as having definitively established the validity of the praetorian testament, not simply when supplementary to, but also when in opposition to, jus civile; in other words, a praetorian will might make a person bonorum possessor cum re, although the inheritance was claimed by some one with a valid civil title.
+
+In its origin Bonorum possessio was probably only the provisional or interimistic possession granted to one of the parties in a suit of Hereditatis petitio, cf. Sohm, § 110. This suit was a species of Real action (actio in rem), and in all Real actions it is necessary to determine which of the litigants shall have possession during the pendency of the litigation. In the earliest period, that of statute-process (legis actio), the interim possession was called vindiciae, and the praetor who assigned it to one of the parties was said vindicias dicere, 4 § 16. In making the grant of vindiciae he was probably governed by the same rule which afterwards prevailed when the question of interim possession was determined by application of the Interdicts Utrubi and Uti possidetis: that is to say he probably allowed the party in actual possession to continue in possession. But this rule was inapplicable to the case of Hereditatis petitio, for at the decease of the proprietor who leaves an inheritance not one of the claimants to succeed may be in actual possession. Here accordingly the grant was governed by different principles: if a will, prima facie valid, was propounded, possession was granted to the claimant under the will (bonorum possessio secundum tabulas): if no such will was propounded, possession was granted to the civil heirs, the self-successor (suus heres) being eventually allowed to claim bonorum possessio unde liberi, coming before the nearest agnates (legitimi). Then as supplementary to the civil law, persons who were not recognized as heredes, namely persons claiming under a praetorian will, till they were preferred by statute to agnates, § 120, and next cognates (bonorum possessio unde cognati), and the wife or husband, as such (bonorum possessio unde vir et uxor), were put in possession in default of other heirs: children (liberi), who by emancipation had lost the character of self-successors, were nevertheless admitted to possession in the first order in preference to agnates of the second order, just as if they had continued unemancipated Edition: current; Page: [189] (bonorum possessio unde liberi). The right of provisional possession of course corresponded to a presumptive right of definitive ownership.
+
+Although a will was propounded, yet if a descendant of the testator, who would have been self-successor if he had not been emancipated, was therein pretermitted (praeteritus), i. e. not either instituted heir or disinherited, possession was granted to such pretermitted descendant (bonorum possessio contra tabulas). Contra-tabular possession did not make a will absolutely void as the passing over of suus heres might do: if the praeteritus was an emancipated son, although he obtained contra-tabular possession, he was bound, as we shall see, by some of the dispositions of the will; so that his succession was partly intestate, partly testate.
+
+In ancient Rome, females, even after attaining their majority, were subject to perpetual guardianship. In the time of Gaius, the only survival of such guardianship to which they continued really subject appears to have been that of ascendants and patrons, cf. 1 §§ 189-193; 2 §§ 85, 112. But before the time of Justinian even this had ceased.

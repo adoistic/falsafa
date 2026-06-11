@@ -1,0 +1,26 @@
+{
+  "work_slug": "walter-bagehot-lombard-street-a-description-of--8cb363",
+  "work_title": "Lombard Street: A Description of the Money Market",
+  "chapter_number": 14,
+  "chapter_title": "Chapter IV: The Position of the Chancellor of the Exchequer in the Money Market",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9fbd2de7-5517-585c-9a7b-d6ef72a9ff36",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2494,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bagehot-lombard-street-a-description-of-the-money-market"
+    }
+  ]
+}

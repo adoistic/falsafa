@@ -1,0 +1,39 @@
+---
+work_id: "81939f1a-b5af-5797-ab79-a8204fd3b62e"
+work_slug: "eugen-richter-pictures-of-the-socialistic-futu-81939f"
+work_title: Pictures of the Socialistic Future
+author_name: Eugen Richter
+chapter_number: 23
+chapter_title: "Chapter XX: DISAGREEABLE EXPERIENCES."
+chapter_slug: 23
+variant_id: "8666a8b4-b3a5-5bef-afe3-eab449e0bbaf"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1077
+source_url: "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
+translator: Online Library of Liberty edition
+---
+
+My wife and Agnes sit up until far into the night, busy with their dressmaking in secret. The work in hand is a new dress for Agnes.
+
+As checker, I ought by rights to denounce the pair of them to the proper authorities for over-production, and for exceeding the maximum hours of labour. Fortunately, however, they are not amongst the fifty persons forming the section which it is my business to control.
+
+The two are even more talkative than usual when engaged in this work of dressmaking. As far as I can make out, they have not been able to find what they Edition: current; Page: [69] wanted at any of the magazines, and so they are altering and adapting some other garments to their fancy. They vie with each other in girding at the new State magazines. Show-windows, puffing, and advertising, sending out lists of prices; all this sort of thing, it seems, has entirely ceased. There is an end to all talk, they complain, of what novelties are to be had, and also to all gossip about prices. The salesmen appointed by the State are all as short in their manner as the officials on State railways always have been. All competition between shops has naturally ceased, and for any certain given article you have to go to one certain magazine, and to no other. This is a necessity of the organisation of production and consumption.
+
+It is, of course, a matter of the most perfect indifference to the salesman whether you buy anything or not. Some of these salesmen scowl as soon as the shop-door is opened, and they have to rise from some thrilling book, or they get interrupted in some other pleasant occupation. The greater the variety of goods you wish to look at, the more questions you ask as to their make and durability, the greater does the ire of the salesman become. Rather than fetch any article from another part of the magazine, he tells you at once they have not got it in stock.
+
+If you wish to purchase ready-made clothing (in this connection I may remark that all private dressmaking and the like, at home, outside of the maximum eight hours day, is prohibited), the outlook is generally a very poor one. The trying-on reminds you of the dressing-up of recruits in barracks, the tailor being profuse in his assurances that the number which corresponds to your measurement must of necessity fit you well. If any garment which has been made to Edition: current; Page: [70] order turns out to be tight here, or baggy there, it needs all the eloquence you are master of to convince the tailor that the garment really is so. If you do not succeed in convincing him, you have either to take the article as it is and make the best of it, or to fight the State in an action at law.
+
+Going to law is now a very cheap affair. As resolved at the Conference of Erfurt in October, 1891, all law is now gratis. As a necessary result of this, the number of judges and lawyers has had to be increased tenfold. But even this large addition is far from sufficing for the requirements, as the actions brought against the State for the inferiority of the goods it supplies, for the wretched condition of the dwellings, the bad quality of the food, the abruptness and rudeness of its salesmen and other officials are as the sand upon the sea-shore.
+
+With the limitations caused by the prescribed eight hours, the courts find it utterly impossible to get through the cases set down in the calendar. Not that lawyers and barristers can be reproached with any wish to unduly prolong suits. So far from this being the case, there are complaints that since the abolition of all fees, and since their appointment as State officials, lawyers scarcely listen at all to what their clients have to say. There would appear to be too great a tendency to settle all differences summarily and in batches. Hence, many persons who do not find an agreeable excitement in the mere fact of going to law, prefer, even in spite of the law's gratuitousness, to put up with any injustice rather than subject themselves to all the running about, loss of time, and vexation of bringing an action.
+
+It is very sad to have to notice that dishonesty is Edition: current; Page: [71] on the increase, even though gold and silver have quite disappeared. My office as checker lets me into many a secret behind the scenes which I was formerly quite ignorant of. The number of embezzlements is now seven times greater than it used to be. Officials of all grades dispose of goods belonging to the State in consideration of some private favour or service rendered to them personally; or else they neglect, in the due performance of their duties as salesmen, to extract a coupon of the right value from the money-certificates of buyers, in exchange for goods supplied. In order to make good any deficiency which a lack of coupons would betray, recourse is then had to shortness of weight and measurement, adulteration of goods, and so on.
+
+Thefts of money-certificates are also of frequent occurrence. The photographs with which these are all provided have, in practice, not proved a sufficient safeguard against the use of the certificates by other persons. The promises and presents of all kinds made to persons in high positions, who have nice and easy work to give out, or who otherwise possess influence, constitute an evil which extends to the very highest spheres. We never hold a conference with our head checker without our attention being called to some fresh dodge or trick in reference to these matters.
+
+Hitherto I had always consoled myself with the sure belief that things would get better as soon as we had survived the period of transition; but now I can scarcely conceal from myself the fact that they get rapidly worse. One of my colleagues tried to explain the cause of this to-day. His explanation is, that since people find the utter impossibility of improving, Edition: current; Page: [72] by honest endeavour and in a legitimate way, that position of equality which has been prescribed for all persons alike, their whole effort is now directed to get, in a dishonest way, that which is in no other way attainable.

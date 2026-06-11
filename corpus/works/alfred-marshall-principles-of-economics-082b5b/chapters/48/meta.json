@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 48,
+  "chapter_title": "BOOK VI, CHAPTER III: EARNINGS OF LABOUR.",
+  "chapter_slug": "48",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f435da2b-87cd-5a19-87b6-1b64ed3bab22",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4457,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

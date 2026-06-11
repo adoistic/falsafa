@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-where-and-why-public-ownership-h-c6bd7f",
+  "work_title": "Where and Why Public Ownership Has Failed",
+  "chapter_number": 19,
+  "chapter_title": "CHAPTER XII: TRAMWAYS IN GREAT BRITAIN",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6491ada8-70ac-5b6f-af99-7d7f13b428e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2923,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
+    }
+  ]
+}

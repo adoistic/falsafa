@@ -1,0 +1,26 @@
+{
+  "work_slug": "pelatiah-webster-political-essays-on-the-nature-a-610880",
+  "work_title": "Political Essays on the Nature and Operation of Money",
+  "chapter_number": 19,
+  "chapter_title": "A REVIEW OF THE PRINCIPLES AND ARGUMENTS Of the two foregoing Essays, viz. The Seventh Essay on Finance, and The Plea fo",
+  "chapter_slug": "19-a-review-of-the-principles-and-arguments-of-the-tw",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "409c6c78-8f8e-50f5-9edc-dac8e9cd7a49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11712,
+      "paragraph_count": 133,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/webster-political-essays-on-the-nature-and-operation-of-money"
+    }
+  ]
+}

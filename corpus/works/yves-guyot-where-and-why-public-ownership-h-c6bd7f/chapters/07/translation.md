@@ -1,0 +1,113 @@
+---
+work_id: "c6bd7f59-f3c2-5fb7-8cef-3162d99bc1e6"
+work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
+work_title: Where and Why Public Ownership Has Failed
+author_name: Yves Guyot
+chapter_number: 7
+chapter_title: "CHAPTER I: BOOKKEEPING IN STATE AND MUNICIPAL TRADING ENTERPRISES"
+chapter_slug: 07
+variant_id: "9d5e4947-3637-589a-a579-ad956346a10c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2309
+source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
+translator: Online Library of Liberty edition
+---
+
+1. I have already quoted from the report to the International Statistical Institute, compiled by Gustave Schelle, former minister of Public Works, Edition: current; Page: [36] wherein he discusses the financial situation of the various state and municipal trading enterprises, from which he has received reports, with all the authority of his official position, and with a mind which has remained both alert and independent throughout his administrative career. The difficulties in the way of estimating and comparing the value of such enterprises are very great.
+
+In Denmark, for example, railway outlays for pensions and general administration and inspection costs are borne by the railroads themselves. For other enterprises such costs are met by the general budget.
+
+Before 1904 and 1905 the postoffice and the telegraph yielded no net proceeds. In 1908–1909 this was also true of the mint.
+
+No report is made regarding the interest charges upon loans for the establishment of such enterprises.
+
+In 1908–1909 the results of municipal operation of gas, electricity and water were as follows:
+
+In Holland, according to information furnished by M. Methorst, director-in-chief of the Central Bureau of Statistics, the cost of constructing the postoffice, telegraph and telephone systems amounted, on Edition: current; Page: [37] January 11, 1909, to 24,854,000 florins ($9,941,000). This capital bears an interest charge in favor of the public treasury of 3½ per cent., for the systems were established by means of public funds. Repayments are made periodically at a rate varying from 1 to 12½ per cent. The enterprise has a special double entry system, and no account is taken, in reckoning up receipts, of either free railroad transportation or official correspondence.
+
+The funds for the operation of the Wilhelmina and Emma mines are supplied by the budget.
+
+No information is given in the report concerning the financial results of municipal enterprises in Italy.
+
+2. I quote literally the observations of M. Schelle concerning France:
+
+A. Receipts and Expenses of Operation:
+
+“In the case of the mints, the National Printing Office and the state railroads, the receipts and expenses of operation are placed opposite each other in budgets annexed to the general budget, and the difference in gain or loss is indicated only in this latter budget. The records of expenditures, however, as well as of receipts, are incomplete.
+
+“In the case of the fiscal monopolies, the postal service and the official journal, the receipts of operation are included in the general receipts of the general budget, while the expenses are charged to the department under whose jurisdiction the enterprise may happen to be, without any comparison being made between receipts and expenditures.
+
+“As for the other and less important industrial enterprises, the provisions of the general budget furnish no indication whatever of their condition. Tentative receipts are mixed with the receipts of other enterprises under different headings.
+
+“Sometimes the expenses are deducted from the gross receipts, and the net proceeds alone figure in the budget; sometimes they are included in the expenditures of the department concerned, now and then without being in evidence. Information on the subject of these enterprises is impossible except in the final accounts.”
+
+B. Costs of Construction:
+
+“The costs of construction, in the case of certain enterprises, are so mixed in the accounts with other expenses as to make it utterly impossible to disentangle them. Even where enterprises have been made the subject matter of the budgets called annexes, the budget documents and the final accounts for each year indicate only the increase in the expenses to be incurred during the year under consideration, without regard to the expenses of former years. In order to get at the amount of capital employed, it is necessary to examine the final accounts of all the years. The resulting labor sometimes recalls that of the Benedictines, and, moreover, is far from always yielding satisfactory results, whether by reason of the antiquity of the expenses or the impossibility of disentangling them.”
+
+C. Receipts and Expenses Outside of the Budget:
+
+“Government undertakings keep no daily record of the requisitions made on them by other departments, so that important financial transactions do not appear.
+
+“Certain utilities profit gratuitously from services rendered Edition: current; Page: [39] them by other public or quasi-public enterprises; thus the postal and telegraph departments pay the railroads for but a small share of the services which they receive from them.
+
+“Public enterprises do not pay rent for the use of government property, for the real estate they occupy, nor are they charged with the materials they use. On the other hand, the National Printing Office includes among its receipts, at a rate which is generally considered high, the amount of work which it does for other departments. It does not include among its expenses, however, the interest on the capital sunk in the buildings in which it is installed.
+
+“The postal and telegraph facilities granted to ministers and various public departments do not figure among the receipts of the postal enterprises.
+
+Finally, among the annual expenses of the post and telegraph offices are included the subsidies paid to packet boats prompted, at least in part, by considerations altogether foreign to the mail service.”
+
+D. Special Accounts:
+
+“When an enterprise possesses a technical equipment or a stock of merchandise, no document ever shows the true value of such equipment.
+
+“Exceptions to the above are the special accounts published at the close of each fiscal year: 1st, in the match and tobacco monopolies; 2d, in the case of the state railroads. However the value assigned in these special accounts to stock and equipment is not a commercial value. It is a simple difference between the expenses of purchase and manufacture and the proceeds of actual sales.
+
+“Moreover, the fixed capital, buildings, real estate, etc., Edition: current; Page: [40] of the enterprises enter into these accounts in the same manner as the stock of manufactured products, so that it is impossible to get at the capital really involved.
+
+“Finally, the amount realized from sales of real estate, when there are any, is not deducted from the capital, such sales being made by the Government Lands Department.
+
+“The accounts of the Government Railroad Department published each year are no more satisfying. Statements as to the costs of construction are to be found among them, but these include only those expenses contracted directly by the department, and no mention is made of the very considerable expenditures which are covered by the budget of the ministry of Public Works.
+
+“The Statistique des Chemins de Fer is the only document which gives an approximate idea of the actual costs of construction of the state railroads and that of the small line of Saint Georges de Commiers à La Mure.”
+
+E. Capital Charges:
+
+“It is not sufficient to know the amount of actual capital invested in an industrial enterprise in order to be able to form a correct judgment as to its management. It is also necessary to be informed as to the capital charges. Exact computation is impossible unless the expenses relative to each enterprise have been covered by special loans. We must be content, therefore, with an approximation difficult to make at this late day, because no care has been taken to make such an estimate each year since the enterprises were established. In order to make any progress, it would be necessary to estimate the applicable rates based on the price of government bonds or of bonds guaranteed by the government at the time when the various construction expenses were Edition: current; Page: [41] incurred. Expenses for building materials, etc., and for the installation and equipment of the various government enterprises have been a burden upon the Treasury since that date. This is evident in the case of the costs of construction defrayed with funds from loans not yet paid off. But it is true also of expenses paid for in this or that year out of the ordinary resources of the budget. These expenses may not be considered as paid off while a perpetual public debt exists, even though resources are at hand which might have been employed toward their extinction.”
+
+3. The municipalization of public utilities has considerably increased the expenses and debts of British local governments. M. Schelle declares, however, that he has been unable to obtain the data necessary to a compilation of statistics as accurate in character as the purposes of the International Institute would naturally require.
+
+A portion of his report is devoted to the financial condition of the Belgian state railroad, of which we will speak later in detail.
+
+In Sweden the principal state operations are the postal, telegraph and telephone services and the government railways. The receipts from the railways represent 1.30 per cent. of the average annual capital.
+
+The City of Paris municipalized the service of burying the dead in 1905. In 1906 the receipts were 5,242,000 francs ($995,980), while the labor and equipment expenses were respectively 2,500,000 francs ($475,000) and 2,135,000 francs ($405,650), or a total of 4,635,000 francs ($880,650).
+
+In 1910 the receipts were 4,660,000 francs Edition: current; Page: [42] ($885,400). The labor expenses had risen to 2,760,000 francs ($524,400) while those for equipment had been reduced to 1,765,000 francs ($335,350). At the same time there was an outstanding loan of 348,000 francs ($66,120)—a total expense of 4,873,000 francs ($925,870).
+
+In the case of the quarry operated by the City of Paris the results are still more unsatisfactory, according to a report to the Municipal Council in 1908. The labor expenses are very much higher than in neighboring quarries.
+
+4. An important part of the report is devoted to Austria, and is based upon a previous report drawn up under the direction of J. G. Grüber, by Dr. Rudolph Riemer, secretary of the Central Bureau of Statistics.
+
+Outside the usual monopolies the Austrian government owns docks and mines and operates lotteries.
+
+In most of these enterprises the costs of construction and of equipment are indicated separately in the final accounting, but only those expenditures made during any one year are to be found there, regardless of those of the preceding years. The items for determining how much of the original debt has been paid off are lacking. Interest and sinking fund charges on loans contracted in view of government operation do not figure in the final accounting in the chapter especially devoted to the particular industry concerned, but in a chapter issued by the ministry of Finance under the heading, Public Debt and Administration of the Public Debt. Special information in regard to the auditing of the public debt may be Edition: current; Page: [43] found in the annual report of the special committee (Commission de Contrôle) managing the debt. But in this report the information touching interest and sinking fund charges does not inform us as to the actual application of the loan.
+
+The same conditions prevail in the case of the public debt contracted for the benefit of the railroads. Our information covers only interest and sinking fund charges on the amortizable debt. But even that portion of the debt does not represent all the loans contracted for the benefit of the railroads.
+
+According to the Statistique des Finances de la Haute-Autriche et de Salzburg (8th annual report) the expenses of all the towns of Upper Austria arising from the operation of their utilities amount to 4.44 per cent. of all their expenses. The costs of construction are quoted en bloc in a special chapter.
+
+The result of M. Schelle's investigation proves that almost everywhere the data necessary in order to determine exactly the profits or losses upon state or municipal industrial operations are insufficient.
+
+“Whatever be the end in view when states or municipalities organize industrial enterprises—whether the object be fiscal or economic, for the sake of the consumer or even in the exclusive interest of employees—it is indispensable to know whether these enterprises are actually resulting in profits or losses, and the amount of each.
+
+“As far as the essential functions of the state are concerned, such as providing for public safety, public highways, etc., the establishment of special accounts would be impossible and without much value, inasmuch as these Edition: current; Page: [44] services provide no opportunity for direct payment on the part of consumers. Such services derive no receipts, properly so-called, nor can they be abolished. When it is expedient to know whether the management of these activities is not too extravagant, it is necessary to proceed by contrasting one year with another, or by comparing certain items of expense with similar items in other countries, or in other localities.
+
+“Public industrial enterprises are almost never essential, since they may be intrusted to private operation. They resemble private enterprises and provide opportunity for special receipts. It should, therefore, be possible to furnish to the taxpayers, in whatever concerns them, means of knowing the amount of income, just as opportunities for such information are afforded to the stockholders or creditors of any private concern. To pretend that the financial side of state or municipal enterprises should be neglected because such undertakings are created for the public interest is only an effort to side-track possible criticism. Public management, like any other, can be good or bad. If it is directed toward securing advantages, justly or unjustly, to this or that class of people, whether consumers or employees, it is at least necessary that those who are to foot the bills, that is to say, taxpayers, should know, personally or through their representatives, whether the contributions demanded are not exorbitant. Such a requirement should not be questioned in any country.
+
+“From another point of view, how can the pretention be sustained that, in certain cases, the state or municipality can serve the public to better advantage than private companies when such states or municipalities do not furnish the public with adequate information concerning their administration.

@@ -1,0 +1,33 @@
+---
+work_id: "8eceb2a0-c345-5db3-9888-c97161efe653"
+work_slug: "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2"
+work_title: Dialogues Concerning Two New Sciences
+author_name: Galileo Galilei
+chapter_number: 7
+chapter_title: Proposition I
+chapter_slug: "07-proposition-i"
+variant_id: "da078d82-500c-5b39-b490-debb12e03d0c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 642
+source_url: "https://oll.libertyfund.org/titles/galilei-dialogues-concerning-two-new-sciences"
+translator: Online Library of Liberty edition
+---
+
+A prism or solid cylinder of glass, steel, wood or other breakable material which is capable of sustaining a very heavy weight when applied longitudinally is, as previously remarked, easily broken by the transverse application of a weight which may be much smaller in proportion as the length of the cylinder exceeds its thickness.
+
+Let us imagine a solid prism ABCD fastened into a wall at the end AB, and supporting a weight E at the other end; understand also that the wall is vertical and that the prism or cylinder is fastened at right angles to the wall. It is clear that, if the cylinder breaks, fracture will occur at the point B where the edge of the mortise acts as a fulcrum for the lever BC, to which the force is applied; the thickness of the solid BA is the other arm of the lever along which is located the resistance. This resistance opposes the separation of the part BD, lying outside the wall, from that portion lying inside. From the preceding, it follows that the magnitude [momento] of the force applied at C bears to the magnitude [momento] of the resistance, found in the thickness of the prism, i. e., in the attachment of the base BA to its contiguous parts, the same ratio which the length CB bears to half the length BA; if now we define absolute resistance to fractureEdition: NatlEd; Page: [157] as that offered to a longitudinal pull (in which case the stretching force acts in the same direction as that through which the body is moved), then it follows that the absolute resistance of the prism BD is to the breaking load placed at the end of the lever BC in the same ratio as the length BC is to the half of AB in the case of a prism, or the semidiameter in the case of a cylinder. This is our first proposition. Observe that in what Edition: current; Page: [116] has here been said the weight of the solid BD itself has been left out of consideration, or rather, the prism has been assumed to be devoid of weight. But if the weight of the prism is to be taken account of in conjunction with the weight E, we must add to the weight E one half that of the prism BD: so that if, for example, the latter weighs two pounds and the weight E is ten pounds we must treat the weight E as if it were eleven pounds.
+
+Why not twelve?
+
+The weight E, my dear Simplicio, hanging at the extreme end C acts upon the lever BC with its full moment of ten pounds: so also would the solid BD if suspended at the same point exert its full moment of two pounds; but, as you know, this solid is uniformly distributed throughout Edition: current; Page: [117] its entire length, BC, so that the parts which lie near the end B are less effective than those more remote.
+
+Accordingly if we strike a balance between the two, the weight of the entire prism may be considered as concentrated at its center of gravity which lies midway of the lever BC. But a weight hung at the extremity C exerts a moment twice as great as it would if suspended from the middle: thereforeEdition: NatlEd; Page: [158] if we consider the moments of both as located at the end C we must add to the weight E one-half that of the prism.
+
+I understand perfectly; and moreover, if I mistake not, the force of the two weights BD and E, thus disposed, would exert the same moment as would the entire weight BD together with twice the weight E suspended at the middle of the lever BC.
+
+Precisely so, and a fact worth remembering. Now we can readily understand

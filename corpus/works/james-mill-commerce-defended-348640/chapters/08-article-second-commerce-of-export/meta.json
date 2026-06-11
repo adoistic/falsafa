@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mill-commerce-defended-348640",
+  "work_title": "Commerce Defended",
+  "chapter_number": 8,
+  "chapter_title": "Article Second; Commerce of Export.",
+  "chapter_slug": "08-article-second-commerce-of-export",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5729592c-bb47-5d77-8617-2e510449f2a7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5390,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mill-commerce-defended-1808"
+    }
+  ]
+}

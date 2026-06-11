@@ -1,0 +1,26 @@
+{
+  "work_slug": "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f",
+  "work_title": "The Ruins, or a Survey of the Revolutions of Empires",
+  "chapter_number": 23,
+  "chapter_title": "CHAP. XXI.: PROBLEM OF RELIGIOUS CONTRADICTIONS.",
+  "chapter_slug": "23-chap-xxi-problem-of-religious-contradictions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6b459c03-f15f-5d7c-b1a3-c4541d61b7b8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8187,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/volney-the-ruins-or-a-survery-of-the-revolutions-of-empires"
+    }
+  ]
+}

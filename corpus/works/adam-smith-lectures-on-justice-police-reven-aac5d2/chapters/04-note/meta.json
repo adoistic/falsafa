@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-lectures-on-justice-police-reven-aac5d2",
+  "work_title": "Lectures on Justice, Police, Revenue, and Arms",
+  "chapter_number": 4,
+  "chapter_title": "NOTE",
+  "chapter_slug": "04-note",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4218da31-ce3d-5c3c-aec6-b6591f195dbd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 55,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-lectures-on-justice-police-revenue-and-arms-1763"
+    }
+  ]
+}

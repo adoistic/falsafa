@@ -1,0 +1,26 @@
+{
+  "work_slug": "desiderius-erasmus-the-manual-of-a-christian-knight-c764d7",
+  "work_title": "The Manual of a Christian Knight (Enchiridion)",
+  "chapter_number": 12,
+  "chapter_title": "The second rule.",
+  "chapter_slug": "12-the-second-rule",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14166b65-6d46-5754-87b2-3a8cea1acc5d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1561,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/erasmus-the-manual-of-a-christian-knight"
+    }
+  ]
+}

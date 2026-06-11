@@ -1,0 +1,26 @@
+{
+  "work_slug": "desiderius-erasmus-the-manual-of-a-christian-knight-c764d7",
+  "work_title": "The Manual of a Christian Knight (Enchiridion)",
+  "chapter_number": 33,
+  "chapter_title": "The twenty-second rule.",
+  "chapter_slug": "33-the-twenty-second-rule",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d095d958-623e-5544-9c82-3840b248f86a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 245,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/erasmus-the-manual-of-a-christian-knight"
+    }
+  ]
+}

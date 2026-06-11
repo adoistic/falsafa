@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hodgskin-popular-political-economy-048fd0",
+  "work_title": "Popular Political Economy",
+  "chapter_number": 6,
+  "chapter_title": "CHAPTER III: NATURAL LAWS WHICH REGULATE THE PROGRESS OF SOCIETY IN KNOWLEDGE.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eda900eb-d7b0-5199-b649-a90b4f959108",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6703,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hodgskin-popular-political-economy-four-lectures-delivered-at-the-london-mechanics-institution"
+    }
+  ]
+}

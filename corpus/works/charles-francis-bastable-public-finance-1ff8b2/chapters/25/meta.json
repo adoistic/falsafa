@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-francis-bastable-public-finance-1ff8b2",
+  "work_title": "Public Finance",
+  "chapter_number": 25,
+  "chapter_title": "CHAPTER III: the distribution of taxation",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "187edb67-423d-5282-a72c-5a832926ebec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12414,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bastable-public-finance"
+    }
+  ]
+}

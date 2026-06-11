@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-maynard-keynes-the-economic-consequences-of-the-8e91dc",
+  "work_title": "The Economic Consequences of the Peace",
+  "chapter_number": 14,
+  "chapter_title": "II. The Conference and the Terms of the Treaty",
+  "chapter_slug": "14-ii-the-conference-and-the-terms-of-the-treaty",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "816fe991-8ed2-5916-b5db-1d2fbfb9ae94",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7022,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keynes-the-economic-consequences-of-the-peace"
+    }
+  ]
+}

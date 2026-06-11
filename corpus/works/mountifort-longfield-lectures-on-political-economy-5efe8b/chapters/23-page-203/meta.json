@@ -1,0 +1,26 @@
+{
+  "work_slug": "mountifort-longfield-lectures-on-political-economy-5efe8b",
+  "work_title": "Lectures on Political Economy",
+  "chapter_number": 23,
+  "chapter_title": "Page 203.",
+  "chapter_slug": "23-page-203",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0fc272ce-4633-59e6-b3f9-af32e8958531",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1493,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/longfield-lectures-on-political-economy"
+    }
+  ]
+}

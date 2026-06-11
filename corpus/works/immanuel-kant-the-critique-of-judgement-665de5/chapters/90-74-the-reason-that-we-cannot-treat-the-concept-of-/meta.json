@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 90,
+  "chapter_title": "§ 74.: The reason that we cannot treat the concept of a Technic of nature dogmatically is the fact that a natural purpos",
+  "chapter_slug": "90-74-the-reason-that-we-cannot-treat-the-concept-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7f3c8393-f91e-5f99-b54e-54d104bdc8a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 821,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

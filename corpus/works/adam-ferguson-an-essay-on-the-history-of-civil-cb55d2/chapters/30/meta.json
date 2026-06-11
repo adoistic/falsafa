@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-ferguson-an-essay-on-the-history-of-civil-cb55d2",
+  "work_title": "An Essay on the History of Civil Society",
+  "chapter_number": 30,
+  "chapter_title": "SECTION V.: Of National Waste.",
+  "chapter_slug": "30",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d8fc6a6f-abe9-5780-b780-f6d6f8374f30",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1201,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ferguson-an-essay-on-the-history-of-civil-society"
+    }
+  ]
+}

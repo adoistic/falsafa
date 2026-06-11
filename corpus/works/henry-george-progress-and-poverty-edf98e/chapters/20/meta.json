@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-progress-and-poverty-edf98e",
+  "work_title": "Progress and Poverty",
+  "chapter_number": 20,
+  "chapter_title": "Chapter VI Wages and the Law of Wages",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "546a5786-f6a6-5e11-85f0-0e4e80079b55",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4178,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
+    }
+  ]
+}

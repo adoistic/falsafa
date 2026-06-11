@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-the-history-of-freedom-and-other-8702fe",
+  "work_title": "The History of Freedom and Other Essays",
+  "chapter_number": 8,
+  "chapter_title": "VI: POLITICAL THOUGHTS ON THE CHURCH",
+  "chapter_slug": "08-vi-political-thoughts-on-the-church",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37d519d9-b480-5863-a9f2-ed11220dd300",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7895,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/acton-the-history-of-freedom-and-other-essays"
+    }
+  ]
+}

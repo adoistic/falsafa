@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc",
+  "work_title": "The History of Bimetallism in the United States",
+  "chapter_number": 46,
+  "chapter_title": "ACT I. Act of August 2, 1892, for the Introduction of the Crown Standard.",
+  "chapter_slug": "46-act-i-act-of-august-2-1892-for-the-introduction-of",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1b704d34-5a7f-553d-a9a9-3f6532fe3d9f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1953,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laughlin-the-history-of-bimetallism-in-the-united-states-1898"
+    }
+  ]
+}

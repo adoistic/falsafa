@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c",
+  "work_title": "The Positive Theory of Capital",
+  "chapter_number": 32,
+  "chapter_title": "Book IV, Chapter VII: The Law of Costs",
+  "chapter_slug": "32",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc8e2b66-3703-5d6d-a7f8-52e68bd05dec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4346,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-the-positive-theory-of-capital"
+    }
+  ]
+}

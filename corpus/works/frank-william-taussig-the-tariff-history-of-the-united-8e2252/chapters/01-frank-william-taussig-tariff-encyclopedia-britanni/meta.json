@@ -1,0 +1,26 @@
+{
+  "work_slug": "frank-william-taussig-the-tariff-history-of-the-united-8e2252",
+  "work_title": "The Tariff History of the United States",
+  "chapter_number": 1,
+  "chapter_title": "Frank William Taussig, “Tariff”, Encyclopedia Britannica 11th edition, 1911, Volume XXVI, pp. 422–427.",
+  "chapter_slug": "01-frank-william-taussig-tariff-encyclopedia-britanni",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b51437b1-00ab-57a6-b4b0-1f6fb4e12114",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6269,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/taussig-tariff"
+    }
+  ]
+}

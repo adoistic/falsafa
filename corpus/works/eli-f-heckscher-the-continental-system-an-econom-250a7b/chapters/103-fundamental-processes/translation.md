@@ -1,0 +1,21 @@
+---
+work_id: "250a7b43-ec95-5f8a-be6f-a40fd2b3d743"
+work_slug: "eli-f-heckscher-the-continental-system-an-econom-250a7b"
+work_title: "The Continental System: An Economic Interpretation"
+author_name: Eli F. Heckscher
+chapter_number: 103
+chapter_title: FUNDAMENTAL PROCESSES
+chapter_slug: "103-fundamental-processes"
+variant_id: "16af3733-c7a0-51ce-af9c-b0855ea0733b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 514
+source_url: "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+translator: Online Library of Liberty edition
+---
+
+In the sphere of the textile industry this holds good both of the power to spin high numbers of yarn (fine grades), the use of the steam-engine in the spinning industry, and the power-loom. Regarding the first of these, as has already been mentioned, they had not gotten beyond number 100 in cotton yarn in 1815; it was reserved for the Restoration to move forward in a few years to number 200 or (as a rarity) even 291. With regard to the steam-engine, we have already mentioned that one single French spinning-mill had passed, as early as 1787 (the year after the Eden Treaty) to the use of steam power, which was at that date a complete novelty even in England. It would be difficult to find anything more indicative of the technical stagnation which then occurred that the fact that the next time a French steam spinning-mill is mentioned is no less than twenty-five years later. It was not until 1812 that the pioneering firm of Dollfus, Mieg & Cie., which is still famous all over the world, set up such a mill in Mülhausen—that is to say, in an incorporated territory. Power-loom works, which, it is true, came far later than the revolution in spinning Edition: current; Page: [283] in England also, but which nevertheless began to be set up there as early as 1801, are scarcely mentioned on the Continent during the whole of this period. The only examples known to the writer from the territory of the empire—where, for that matter, there is a total lack of detail—belong, like steam spinning-mills, to the incorporated territories, namely, Ghent and Sennheim (in Upper Alsace); and neither of them can have been of any great consequence, as the information about them is so sporadic. In the department of mechanical printing, it is true, greater advances were made on the Continent, in that the great invention in this department, cylinder printing, appears to have come into use at Oberkampf's factory at Jouy, as the first place on the Continent, in 1800, and in Mülhausen and other places in 1805-6; but even this was just twenty years after the institution of similar technical processes in England. In the department of engineering technics it was only outside the cotton industry that the Continent during this period ever took the lead in any decisive respect, namely, as regards both the Jacquard loom, which at first really served the silk industry alone, and Girard's invention of a flax-spinning machine. This last, which was patented in 1810 and thus realized one of Napoleon's hopes, significantly enough, left France before anything had been achieved; the inventor had to flee from his creditors to Austria, and an Englishman got hold of his invention. This gave rise to a flourishing English industry, which did not return to the native country of the inventor until twenty-five years after the invention. The continental textile industry reached the same level as the British textile industry in only one single department, namely, in dyeing and other branches where chemistry could be employed, of which more anon.

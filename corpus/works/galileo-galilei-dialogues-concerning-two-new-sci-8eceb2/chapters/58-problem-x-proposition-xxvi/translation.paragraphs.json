@@ -1,0 +1,17 @@
+[
+  {
+    "id": "p-30213d",
+    "offset": 0,
+    "text": "Given a vertical height joining two horizontal parallel lines; given also a distance greater than once and less than twice this vertical height, it is required to pass through the foot of the given perpendicular an inclined plane such that, after fall through the given vertical height, a body whose motion is deflected along the plane will traverse the assigned distance in a time equal to the time of vertical fall."
+  },
+  {
+    "id": "p-b27db5",
+    "offset": 419,
+    "text": "Let AB be the vertical distance separating two parallel horizontal lines AO and BC; also let FE be greater than once and less than twice BA. The problem is to pass a plane through B, extending to the upper horizontal line, and such that a body, after having fallen from A to B, will, if its motion be deflected along the inclined plane, traverse a distance equal to EF in a time equal to that of fall along AB. Lay off ED equal to AB; then the remainder DF will be less than AB since the entire length EF is less than twice this quantity; also lay off DI equal to DF, and choose the point X such that EI:ID=DF:FX; from B, draw the plane BO equal in length to EX. Then, I say, Edition: current; Page: [221] that the plane BO is the one along which, after fall through AB, a body will traverse the assigned distance FE in a time equal to the time of fall through AB. Lay off BR and RS equal to ED and DF respectively; then since EI:ID=DF:FX, we have, componendo, ED:DI=DX:XF=ED:DF=EX:XD=BO:OR=RO:OS. If we represent the time of fall along AB by the length AB, then OB will represent the time of descent alongEdition: NatlEd; Page: [248] OB, and RO will stand for the time along OS, while the remainder BR will represent the time required for a body starting from rest at O to traverse the remaining distance SB. But the time of descent along SB starting from rest at O is equal to the time of ascent from B to S after fall through AB. Hence BO is that plane, passing through B, along which a body, after fall through AB, will traverse the distance BS, equal to the assigned distance EF, in the time-interval BR or BA."
+  },
+  {
+    "id": "p-a6faee",
+    "offset": 2036,
+    "text": "q. e. f."
+  }
+]

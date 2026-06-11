@@ -1,0 +1,26 @@
+{
+  "work_slug": "boethius-the-consolation-of-philosophy-88b715",
+  "work_title": "The Consolation of Philosophy",
+  "chapter_number": 3,
+  "chapter_title": "§ 2. His Zeal for Learning.",
+  "chapter_slug": "03-2-his-zeal-for-learning",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4cfd4ed3-cff6-51c9-8bca-af0e3ff70c66",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1085,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"
+    }
+  ]
+}

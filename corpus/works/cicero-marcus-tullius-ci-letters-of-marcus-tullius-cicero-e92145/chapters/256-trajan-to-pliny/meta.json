@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
+  "work_title": "Letters of Marcus Tullius Cicero",
+  "chapter_number": 256,
+  "chapter_title": "Trajan to Pliny",
+  "chapter_slug": "256-trajan-to-pliny",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9357ee0f-794a-5500-a1c4-979a1b8bc023",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 122,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+  "work_title": "Anti-Slavery Tracts, First Series",
+  "chapter_number": 57,
+  "chapter_title": "ABSENT, OR NOT VOTING.",
+  "chapter_slug": "57-absent-or-not-voting",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "854578cf-dc4a-549a-80a9-d0d54ee1d4a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 21056,
+      "paragraph_count": 224,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/anti-slavery-tracts-first-series-nos-1-20-1855-56"
+    }
+  ]
+}

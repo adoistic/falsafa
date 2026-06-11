@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 4,
+  "chapter_title": "§ 1.: The Sensation considered abstractly",
+  "chapter_slug": "04-1-the-sensation-considered-abstractly",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "06fe3454-6f7e-5680-9e41-0eb683b175a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 432,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

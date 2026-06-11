@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 52,
+  "chapter_title": "DE ADOPTIONIBVS.",
+  "chapter_slug": "52-de-adoptionibvs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "07107856-0fa7-5663-938e-6da74353219e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 347,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

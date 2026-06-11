@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-progress-and-poverty-edf98e",
+  "work_title": "Progress and Poverty",
+  "chapter_number": 45,
+  "chapter_title": "Chapter II How Equal Rights to the Land May Be Asserted and Secured",
+  "chapter_slug": "45",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1d9742f1-ad28-5835-a417-2b4c4c03f306",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1610,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
+    }
+  ]
+}

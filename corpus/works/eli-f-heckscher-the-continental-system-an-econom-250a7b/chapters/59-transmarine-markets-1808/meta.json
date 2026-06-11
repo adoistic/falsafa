@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 59,
+  "chapter_title": "TRANSMARINE MARKETS (1808)",
+  "chapter_slug": "59-transmarine-markets-1808",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "06f5fa87-67cc-5a9a-add8-4a5a795ce9a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 904,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

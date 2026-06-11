@@ -1,0 +1,25 @@
+---
+work_id: "2a3a3942-8c47-5947-addf-a3a17979adcb"
+work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
+work_title: An Essay on Crimes and Punishments
+author_name: Cesare Beccaria
+chapter_number: 61
+chapter_title: "CHAPTER XII.: ON TORTURE."
+chapter_slug: 61
+variant_id: "3d34cbff-1deb-5ce6-939e-ea1a1487d04a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 393
+source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+translator: Online Library of Liberty edition
+---
+
+All mankind being exposed to the attempts of violence or perfidy, detest the crimes of which they may possibly be the victims: all desire that the principal offender and his accomplices may be punished; nevertheless, there is a natural compassion in the human heart, which makes all men detest the cruelty of torturing the accused in order to extort confession. The law has not condemned them, and yet, though uncertain of their crime, you inflict a punishment more horrible than that which they are to suffer when their guilt is confirmed. “Possibly thou mayst be innocent; but I will torture thee that I may be satisfied: not that I intend to make thee any recompence for the thousand deaths which I have made thee suffer, in lieu of that which is preparing for thee.” Who does not shudder at the idea? St. Augustin opposed such cruelty. The Romans tortured their slaves only; and Quintilian, recollecting that they Edition: current; Page: [198] were men, reproved the Romans for such want of humanity.
+
+If there were but one nation in the world which had abolished the use of torture; if in that nation crimes were no more frequent than in others; and if that nation be more enlightened and more flourishing since the abolition, its example surely were sufficient for the rest of the world. England alone might instruct all other nations in this particular; but England is not the only nation. Torture hath been abolished in other countries, and with success; the question therefore is decided. Shall not a people, who pique themselves on their politeness, pride themselves also on their humanity? Shall they obstinately persist in their inhumanity, merely because it is an ancient custom? Reserve, at least, such cruelty for the punishment of those hardened wretches, who shall have assassinated the father of a family, or the father of his country; but that a young person, who commits a fault which leaves no traces behind it, should suffer equally with a parricide; is not this an useless piece of barbarity?
+
+I am ashamed of having said any thing on this subject, after what hath been already said by the author of the Essay on Crimes and Punishments. Edition: current; Page: [199] I ought to have been satisfied with wishing, that mankind may read with attention the work of that friend to humanity.

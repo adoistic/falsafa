@@ -1,0 +1,26 @@
+{
+  "work_slug": "samuel-smiles-self-help-5f53da",
+  "work_title": "Self-Help",
+  "chapter_number": 14,
+  "chapter_title": "Chapter XIII: CHARACTER.—THE TRUE GENTLEMAN.",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c4543d1e-a704-5fe8-a4dd-0c82fd2e31be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9350,
+      "paragraph_count": 66,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smiles-self-help-with-illustrations-of-character-and-conduct"
+    }
+  ]
+}

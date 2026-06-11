@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-the-wages-question-b128f3",
+  "work_title": "The Wages Question",
+  "chapter_number": 20,
+  "chapter_title": "GET RID OF THE ENTREPRENEUR.",
+  "chapter_slug": "20-get-rid-of-the-entrepreneur",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f3650f96-453b-5a2e-82cd-32b47845f9ae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5331,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-the-wages-question-a-treatise-on-wages-and-the-wages-class"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f",
+  "work_title": "Capital and Interest: A Critical History of Economical Theory",
+  "chapter_number": 23,
+  "chapter_title": "Book IV, Chapter II: Criticism of Senior",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c18850b9-f73e-53de-80e2-b68b89d84036",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4814,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-capital-and-interest-a-critical-history-of-economic-theory"
+    }
+  ]
+}

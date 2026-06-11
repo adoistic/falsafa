@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 14,
+  "chapter_title": "THE SPECIE BANK.",
+  "chapter_slug": "14-the-specie-bank",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3dabfe55-29cd-51a3-9b30-320ca0cf2002",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 833,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

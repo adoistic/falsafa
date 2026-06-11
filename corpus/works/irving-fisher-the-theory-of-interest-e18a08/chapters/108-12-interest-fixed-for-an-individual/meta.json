@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 108,
+  "chapter_title": "§12. Interest Fixed for an Individual",
+  "chapter_slug": "108-12-interest-fixed-for-an-individual",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ee722be5-59cb-5859-a3f4-51abcf4a6aa9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 135,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

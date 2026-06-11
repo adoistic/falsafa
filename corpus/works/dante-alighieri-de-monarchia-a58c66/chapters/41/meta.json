@@ -1,0 +1,26 @@
+{
+  "work_slug": "dante-alighieri-de-monarchia-a58c66",
+  "work_title": "De Monarchia",
+  "chapter_number": 41,
+  "chapter_title": "CHAPTER IX: Argument from the two swords.",
+  "chapter_slug": "41",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "88716579-2f1a-5767-ac8c-cb72f7bd5667",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1138,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"
+    }
+  ]
+}

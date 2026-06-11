@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-methods-of-social-reform-and-oth-96a24b",
+  "work_title": "Methods of Social Reform and Other Papers",
+  "chapter_number": 54,
+  "chapter_title": "POSTAL NOTES, MONEY ORDERS, AND BANK CHEQUES.",
+  "chapter_slug": "54-postal-notes-money-orders-and-bank-cheques",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac825f3c-f7fc-594f-9154-88993387db40",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5516,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-methods-of-social-reform-and-other-papers"
+    }
+  ]
+}

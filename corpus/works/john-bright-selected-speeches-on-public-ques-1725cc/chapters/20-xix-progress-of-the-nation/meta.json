@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-bright-selected-speeches-on-public-ques-1725cc",
+  "work_title": "Selected Speeches on Public Questions",
+  "chapter_number": 20,
+  "chapter_title": "XIX: PROGRESS OF THE NATION",
+  "chapter_slug": "20-xix-progress-of-the-nation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "70a2447e-8bc2-5aec-a6ef-3d05b9bc0a2d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8385,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bright-selected-speeches-of-the-rt-hon-john-bright-m-p-on-public-questions"
+    }
+  ]
+}

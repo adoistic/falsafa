@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 13,
+  "chapter_title": "CHAPTER I.: THE PARTIES TO THE DISTRIBUTION OF WEALTH.",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "078b62f8-188c-51d3-b920-de5252a19fef",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2111,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

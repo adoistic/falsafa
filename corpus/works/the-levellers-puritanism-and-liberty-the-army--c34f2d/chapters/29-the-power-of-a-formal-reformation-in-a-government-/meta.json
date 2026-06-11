@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 29,
+  "chapter_title": "The Power of a Formal Reformation in a Government makes it not Christ’s Government",
+  "chapter_slug": "29-the-power-of-a-formal-reformation-in-a-government-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "582fad53-627d-54b5-8882-bc4a68033c3f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 97,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

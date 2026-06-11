@@ -1,0 +1,25 @@
+---
+work_id: "fcea5dd4-0a6c-5ef9-bd8f-ec8b612df03d"
+work_slug: "immanuel-kant-critique-of-practical-reason-and-fcea5d"
+work_title: Critique of Practical Reason and Other Works on the Theory of Ethics
+author_name: Immanuel Kant
+chapter_number: 66
+chapter_title: "VI.: —Ethics does not supply Laws for Actions (which is done by Jurisprudence), but only for the Maxims of Action."
+chapter_slug: "66-vi-ethics-does-not-supply-laws-for-actions-which-i"
+variant_id: "0a277a35-a65d-5b92-8411-48f97bcce0f5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 380
+source_url: "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+translator: Online Library of Liberty edition
+---
+
+The notion of duty stands in immediate relation to a law (even though I abstract from every end which is the matter of the law), as is shown by the formal principle of duty in the categorical imperative: “Act so that the maxims of thy action might become a universal law.” But in Ethics this is conceived as the law of thy own will, not of will in general, which might be that of others; for in the latter case it would give rise to a judicial duty which does not belong to the domain of Ethics. In Ethics, maxims are regarded as those subjective laws which merely have the specific character of universal legislation, which is only a negative principle (not to contradict a law in general). How, then, can there be further a law for the maxims of actions?
+
+It is the notion of an end which is also a duty, a notion peculiar to Ethics, that alone is the foundation of a law for the maxims of actions; by making the subjective end (that which every one has) subordinate to the objective end (that which every one ought to make his own). The imperative: “Thou shalt make this or that thy end (ex. gr. the happiness of others)” Edition: Rosenkranz; Page: [235] applies to the matter of the elective will (an object). Now since no free action is possible, without the agent having in view in it some Edition: current; Page: [300] end (as matter of his elective will), it follows that if there is an end which is also a duty, the maxims of actions, which are means to ends, must contain only the condition of fitness for a possible universal legislation; on the other hand, the end which is also a duty can make it a law that we should have such a maxim, whilst for the maxim itself the possibility of agreeing with a universal legislation is sufficient.
+
+For maxims of actions may be arbitrary, and are only limited by the condition of fitness for a universal legislation, which is the formal principle of actions. But a law abolishes the arbitrary character of actions, and is by this distinguished from recommendation (in which one only desires to know the best means to an end).

@@ -1,0 +1,26 @@
+{
+  "work_slug": "pelatiah-webster-political-essays-on-the-nature-a-610880",
+  "work_title": "Political Essays on the Nature and Operation of Money",
+  "chapter_number": 23,
+  "chapter_title": "AN ESSAY ON CREDIT: IN WHICH The Doctrine of BANKS is considered, AND Some Remarks are made on the PRESENT STATE of the ",
+  "chapter_slug": "23-an-essay-on-credit-in-which-the-doctrine-of-banks-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b450bb9d-ffc4-5a0b-9a19-4566f7671647",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13457,
+      "paragraph_count": 165,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/webster-political-essays-on-the-nature-and-operation-of-money"
+    }
+  ]
+}

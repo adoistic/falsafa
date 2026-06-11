@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-novum-organum-79da24",
+  "work_title": "Novum Organum",
+  "chapter_number": 6,
+  "chapter_title": "Table of the Degrees or Comparative Instances of Heat",
+  "chapter_slug": "06-table-of-the-degrees-or-comparative-instances-of-h",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d6fdbac-ef4f-5832-a1cf-4b3917682c89",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1403,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-novum-organum"
+    }
+  ]
+}

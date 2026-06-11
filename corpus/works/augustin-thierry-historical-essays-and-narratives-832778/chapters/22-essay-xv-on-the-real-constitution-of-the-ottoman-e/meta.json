@@ -1,0 +1,26 @@
+{
+  "work_slug": "augustin-thierry-historical-essays-and-narratives-832778",
+  "work_title": "Historical Essays and Narratives of the Merovingian Era",
+  "chapter_number": 22,
+  "chapter_title": "ESSAY XV.: ON THE REAL CONSTITUTION OF THE OTTOMAN EMPIRE, A PROPOS OF THE WORK ENTITLED, “THE REVOLUTION OF CONSTANTINO",
+  "chapter_slug": "22-essay-xv-on-the-real-constitution-of-the-ottoman-e",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ef7d64a-2385-576c-ba3a-d83b64b615b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2355,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thierry-the-historical-essays-and-narratives-of-the-merovingian-era"
+    }
+  ]
+}

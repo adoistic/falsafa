@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-theory-of-political-economy-20a14c",
+  "work_title": "The Theory of Political Economy",
+  "chapter_number": 67,
+  "chapter_title": "The Function of Capital.",
+  "chapter_slug": "67-the-function-of-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a48f93d4-5c9b-550e-bd3c-de3907dbd557",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 514,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-theory-of-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-defence-of-usury-ba123c",
+  "work_title": "Defence of Usury",
+  "chapter_number": 3,
+  "chapter_title": "LETTER III.: Reasons for Restraint.—Prevention of Prodigality.",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "07a65a99-52ef-5363-9afb-b22d496e39f4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2284,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-defence-of-usury"
+    }
+  ]
+}

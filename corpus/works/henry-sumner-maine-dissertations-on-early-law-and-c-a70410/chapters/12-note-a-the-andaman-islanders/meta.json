@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-dissertations-on-early-law-and-c-a70410",
+  "work_title": "Dissertations on Early Law and Custom",
+  "chapter_number": 12,
+  "chapter_title": "Note A.: THE ANDAMAN ISLANDERS.",
+  "chapter_slug": "12-note-a-the-andaman-islanders",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "44f03f7a-ec40-544e-8d19-3d6e85a93b17",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 863,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/maine-dissertations-on-early-law-and-custom"
+    }
+  ]
+}

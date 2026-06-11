@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-wrigley-hirst-free-trade-and-other-fundamental-46e79c",
+  "work_title": "Free Trade and Other Fundamental Doctrines of the Manchester School",
+  "chapter_number": 27,
+  "chapter_title": "II.—: COLONIAL EXPENDITURE AND GOVERNMENT IN 1848",
+  "chapter_slug": "27-ii-colonial-expenditure-and-government-in-1848",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "012e5209-13f0-5239-9db1-c6d5aff9f7c0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 17136,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hirst-free-trade-and-other-fundamental-doctrines-of-the-manchester-school"
+    }
+  ]
+}

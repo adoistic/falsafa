@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-principles-of-psychology-794dba",
+  "work_title": "The Principles of Psychology",
+  "chapter_number": 8,
+  "chapter_title": "CHAPTER III.: IMPERFECT AND SIMPLE QUANTITATIVE REASONING.",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c7f2c8ea-3e02-5328-88bd-ae75f09af62f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2964,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-principles-of-psychology-1855"
+    }
+  ]
+}

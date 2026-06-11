@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 35,
+  "chapter_title": "§ 6.: That Moral Approbation implies a Real Judgment",
+  "chapter_slug": "35-6-that-moral-approbation-implies-a-real-judgment",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f78d77dd-80bc-57e1-9f34-2844ae896704",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1851,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

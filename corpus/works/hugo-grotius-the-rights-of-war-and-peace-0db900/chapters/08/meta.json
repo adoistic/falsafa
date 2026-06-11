@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-rights-of-war-and-peace-0db900",
+  "work_title": "The Rights of War and Peace",
+  "chapter_number": 8,
+  "chapter_title": "CHAPTER I.",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "850f39c1-1c57-5bd3-810d-b7b24975b060",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5292,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
+    }
+  ]
+}

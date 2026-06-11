@@ -1,0 +1,23 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 30
+chapter_title: CHAPTER XXV
+chapter_slug: 30
+variant_id: "fe0d70b6-4c58-5e89-b29c-255aa1a4d320"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 669
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+augustine, coming into britain, first preached in the isle of thanet to king ethelbert, and having obtained licence, entered the kingdom of kent, in order to preach therein. [ad 597.]
+
+Augustine, thus strengthened by the confirmation of the blessed Father Gregory, returned to the work of the word of God, with the servants of Christ, and arrived in Britain. The powerful Ethelbert was at that time king of Kent; he had extended his dominions as far as the great river Humber, by which the Southern Saxons are divided from the Northern. On the east of Kent is the large Isle of Thanet containing according to the English way of reckoning, 600 families, divided from the other land by the river Wantsum, which is about three furlongs over, and fordable only in two places, for both ends of it run into the sea. In this island landed the servant of our Lord, Augustine, and his companions, being, as is reported, nearly forty men. They had, by order of the blessed Pope Gregory, taken interpreters of the nation of the Franks, and sending to Ethelbert, signified that they were come from Rome, and brought a joyful message, which most undoubtedly assured to all that took advantage of it everlasting joys in heaven, and a kingdom that would never end, with the living and true God. The king having heard this, ordered them to stay in that island where they had landed, and that they should be furnished with all necessaries, till he should consider what to do with them. For he had before heard of the Christian religion, having a Christian wife of the royal family of the Franks, called Bertha; whom he had received from her parents, upon condition that she should be permitted to practise her religion with the Bishop Luidhard, who was sent with her to preserve her faith. Some days after, the king came into the island, and sitting in the open air, ordered Augustine and his companions to be brought into his presence. For he had taken precaution that they should not come to him in any house, lest, according to an ancient superstition, if they practised any magical arts, they might impose upon him, and so get the better of him. But they came Edition: current; Page: [36] furnished with Divine, not with magic virtue, bearing a silver cross for their banner, and the image of our Lord and Saviour painted on a board; and singing the litany, they offered up their prayers to the Lord for the eternal salvation both of themselves and of those to whom they were come. When he had sat down, pursuant to the king’s commands, and preached to him and his attendants there present, the word of life, the king answered thus:—“Your words and promises are very fair, but as they are new to us, and of uncertain import, I cannot approve of them so far as to forsake that which I have so long followed with the whole English nation. But because you are come from far into my kingdom, and, as I conceive, are desirous to impart to us those things which you believe to be true, and most beneficial, we will not molest you, but give you favourable entertainment, and take care to supply you with your necessary sustenance; nor do we forbid you to preach and gain as many as you can to your religion.” Accordingly he permitted them to reside in the city of Canterbury, which was the metropolis of all his dominions, and, pursuant to his promise, besides allowing them sustenance, did not refuse them liberty to preach. It is reported that, as they drew near to the city, after their manner, with the holy cross, and the image of our sovereign Lord and King, Jesus Christ, they, in concert, sung this litany: “We beseech Thee, O Lord, in all Thy mercy, that thy anger and wrath be turned away from this city, and from the holy house, because we have sinned. Hallelujah.”

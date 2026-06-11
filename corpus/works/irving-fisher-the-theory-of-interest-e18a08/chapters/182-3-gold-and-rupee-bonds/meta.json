@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 182,
+  "chapter_title": "§3. Gold and Rupee Bonds",
+  "chapter_slug": "182-3-gold-and-rupee-bonds",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "81d007ff-5394-50f2-9b7e-7ac6523c4cec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 793,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

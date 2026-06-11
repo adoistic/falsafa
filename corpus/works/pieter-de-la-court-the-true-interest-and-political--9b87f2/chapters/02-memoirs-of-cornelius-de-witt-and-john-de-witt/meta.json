@@ -1,0 +1,26 @@
+{
+  "work_slug": "pieter-de-la-court-the-true-interest-and-political--9b87f2",
+  "work_title": "The True Interest and Political Maxims of the Republic of Holland",
+  "chapter_number": 2,
+  "chapter_title": "MEMOIRS OF Cornelius de Witt and John de Witt,",
+  "chapter_slug": "02-memoirs-of-cornelius-de-witt-and-john-de-witt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "06cf5ed6-4371-5dea-ba8e-528a224395ef",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13581,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/court-the-true-interest-and-political-maxims-of-the-republic-of-holland"
+    }
+  ]
+}

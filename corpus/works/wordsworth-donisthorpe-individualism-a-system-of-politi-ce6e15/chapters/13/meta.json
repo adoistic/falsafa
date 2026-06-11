@@ -1,0 +1,26 @@
+{
+  "work_slug": "wordsworth-donisthorpe-individualism-a-system-of-politi-ce6e15",
+  "work_title": "Individualism: A System of Politics",
+  "chapter_number": 13,
+  "chapter_title": "CHAPTER XII: absolutism in politics",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a487f86-2272-5121-a4c8-b39bf40b06c6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7570,
+      "paragraph_count": 88,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/donisthorpe-individualism-a-system-of-politics"
+    }
+  ]
+}

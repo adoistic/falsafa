@@ -1,0 +1,26 @@
+{
+  "work_slug": "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f",
+  "work_title": "The Ruins, or a Survey of the Revolutions of Empires",
+  "chapter_number": 14,
+  "chapter_title": "CHAP. XII.: LESSONS TAUGHT BY ANCIENT, REPEATED IN MODERN TIMES.",
+  "chapter_slug": "14-chap-xii-lessons-taught-by-ancient-repeated-in-mod",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0a33bd99-6004-5444-aed4-844ba850cb6e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4540,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/volney-the-ruins-or-a-survery-of-the-revolutions-of-empires"
+    }
+  ]
+}

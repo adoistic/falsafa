@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 5,
+  "chapter_title": "III.: OF THE CRITIQUE OF JUDGEMENT AS A MEANS OF COMBINING THE TWO PARTS OF PHILOSOPHY INTO A WHOLE.",
+  "chapter_slug": "05-iii-of-the-critique-of-judgement-as-a-means-of-com",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0b42c7f5-6318-5a91-a798-5ae88b29fb88",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 710,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

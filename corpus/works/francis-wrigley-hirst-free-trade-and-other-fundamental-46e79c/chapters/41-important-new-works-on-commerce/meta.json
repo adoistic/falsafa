@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-wrigley-hirst-free-trade-and-other-fundamental-46e79c",
+  "work_title": "Free Trade and Other Fundamental Doctrines of the Manchester School",
+  "chapter_number": 41,
+  "chapter_title": "IMPORTANT NEW WORKS ON COMMERCE.",
+  "chapter_slug": "41-important-new-works-on-commerce",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3292d5ae-162f-5a20-b8e9-571491408d00",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10925,
+      "paragraph_count": 161,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hirst-free-trade-and-other-fundamental-doctrines-of-the-manchester-school"
+    }
+  ]
+}

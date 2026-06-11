@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 60,
+  "chapter_title": "BRITISH SPECULATION IN SOUTH AMERICA",
+  "chapter_slug": "60-british-speculation-in-south-america",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9625460c-b9f7-582f-afc4-822317ed0209",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 820,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

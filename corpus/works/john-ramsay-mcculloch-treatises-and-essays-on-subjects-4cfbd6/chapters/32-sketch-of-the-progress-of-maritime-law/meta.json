@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-treatises-and-essays-on-subjects-4cfbd6",
+  "work_title": "Treatises and Essays on Subjects Connected with Economic Policy",
+  "chapter_number": 32,
+  "chapter_title": "SKETCH OF THE PROGRESS OF MARITIME LAW.",
+  "chapter_slug": "32-sketch-of-the-progress-of-maritime-law",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ebe74dc-0e5a-553d-8619-59c921f863f1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4272,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-treatises-and-essays-on-subjects-connected-with-economic-policy-1853"
+    }
+  ]
+}

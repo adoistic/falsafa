@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 133,
+  "chapter_title": "A DISCOURSE SHEWING, That the Spirit of Parliaments, with a Council in the Intervals, is not to be trusted for a Settlem",
+  "chapter_slug": "133-a-discourse-shewing-that-the-spirit-of-parliaments",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c0ed82ce-86ba-59d8-8d6e-2d002ce48885",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2378,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

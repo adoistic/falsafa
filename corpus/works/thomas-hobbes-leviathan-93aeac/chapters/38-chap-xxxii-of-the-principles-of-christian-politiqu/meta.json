@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 38,
+  "chapter_title": "CHAP. XXXII.: Of the Principles of Christian Politiques.",
+  "chapter_slug": "38-chap-xxxii-of-the-principles-of-christian-politiqu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "81af166d-0e2e-513e-b3e0-000a80c0d0db",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1955,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

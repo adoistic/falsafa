@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 116,
+  "chapter_title": "§ 5. Review of Eight Tests, heading the Table Rows",
+  "chapter_slug": "116-5-review-of-eight-tests-heading-the-table-rows",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "55ae0427-2e71-5a6f-a0e6-a5d2d90162ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 54,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

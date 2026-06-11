@@ -1,0 +1,26 @@
+{
+  "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
+  "work_title": "An Essay on Crimes and Punishments",
+  "chapter_number": 66,
+  "chapter_title": "CHAPTER XVII.: OF FALSE MONEY.",
+  "chapter_slug": "66",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "07bdf21a-243a-58c8-b012-f9c0c136896d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 153,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+    }
+  ]
+}

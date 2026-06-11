@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 71,
+  "chapter_title": "CONTRACTION OR INFLATION ?",
+  "chapter_slug": "71-contraction-or-inflation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d28cbcc-b7ac-5eb1-a5d4-af34be36dbef",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 404,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

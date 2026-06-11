@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-locke-two-treatises-of-government-fcc06c",
+  "work_title": "Two Treatises of Government",
+  "chapter_number": 364,
+  "chapter_title": "§. 201.",
+  "chapter_slug": "364-201",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7704e5e7-62ff-5d20-b7d0-6d5e1c36c48d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 119,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+    }
+  ]
+}

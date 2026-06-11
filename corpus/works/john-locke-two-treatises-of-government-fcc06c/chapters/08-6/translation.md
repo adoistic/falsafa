@@ -1,0 +1,21 @@
+---
+work_id: "fcc06cfa-2502-59f5-bb1a-03089f9078cd"
+work_slug: "john-locke-two-treatises-of-government-fcc06c"
+work_title: Two Treatises of Government
+author_name: John Locke
+chapter_number: 8
+chapter_title: §. 6.
+chapter_slug: "08-6"
+variant_id: "ff315294-38eb-5f20-beb3-ba58854793f3"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 604
+source_url: "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+translator: Online Library of Liberty edition
+---
+
+SIR Robert Filmer’s great position is, that men are not naturally free. This is the foundation on which his absolute monarchy stands, and from which it erects itself to an height, that its power is above every power, caput inter nubila, so high above all earthly and human things, that thought can scarce reach it; that promises and oaths, which tye the infinite Deity, cannot confine it. But if this foundation fails, all his fabric falls with it, and governments must be left again to the old way of being made by contrivance, and the consent of men (Άνϧϛωπίνη ϰτίσιϛ) making use of their reason to unite together into society. To prove this grand position of his, he tells us, p. 12. Men Edition: current; Page: [6] are born in subjection to their parents, and therefore cannot be free. And this authority of parents, he calls royal authority, p. 12, 14. Fatherly authority, right of fatherhood, p. 12, 20. One would have thought he would, in the beginning of such a work as this, on which was to depend the authority of princes, and the obedience of subjects, have told us expresly, what that fatherly authority is, have defined it, though not limited it, because in some other treatises of his he tells us, it is unlimited, and unlimitable; he should at least have given us such an account of it, that we might have had an entire notion of this fatherhood, or fatherly authority, whenever it came in our way in his writings: this I expected to have found in the first chapter of his Patriarcha. But instead thereof, having, 1. en passant, made his obeysance to the arcana imperii, p. 5. 2. made his compliment to the rights and liberties of this, or any other nation, p. 6. which he is going presently to null and destroy; and, 3. made his leg to those learned men, who did not see so far into the matter as himself, p. 7. he comes to fall on Bellarmine, Edition: current; Page: [7] p. 8. and, by a victory over him, establishes his fatherly authority beyond any question. Bellarmine being routed by his own confession, p. 11. the day is clear got, and there is no more need of any forces: for having done that, I observe not that he states the question, or rallies up any arguments to make good his opinion, but rather tells us the story, as he thinks fit, of this strange kind of domineering phantom, called the fatherhood, which whoever could catch, presently got empire, and unlimited absolute power. He assures us how this fatherhood began in Adam, continued its course, and kept the world in order all the time of the patriarchs till the flood, got out of the ark with Noah and his sons, made and supported all the kings of the earth till the captivity of the Israelites in Egypt, and then the poor fatherhood was under hatches, till God, by giving the Israelites kings, re-established the ancient and prime right of the lineal succession in paternal government. This is his business from p. 12. to 19. And then obviating an objection, and clearing a difficulty or two with one half reason, p. 23. to confirm the natural right of regal power, he ends the first chapter. I hope it is no injury to call an half quotation an half reason; for God says, Honour thy father and mother; but our author contents himself with half, leaves out thy Edition: current; Page: [8] mother quite, as little serviceable to his purpose. But of that more in another place.

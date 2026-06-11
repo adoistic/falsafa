@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-francis-bastable-public-finance-1ff8b2",
+  "work_title": "Public Finance",
+  "chapter_number": 37,
+  "chapter_title": "CHAPTER VIII: taxes on communications and acts",
+  "chapter_slug": "37",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "331ae441-637c-5598-8ae1-fe721cd18373",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4907,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bastable-public-finance"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 12,
+  "chapter_title": "(C): Examination of the Means Proposed, viz., Taxes.",
+  "chapter_slug": "12-c-examination-of-the-means-proposed-viz-taxes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "169d48ae-222f-5a49-9568-ce7f64bcbc31",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 705,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

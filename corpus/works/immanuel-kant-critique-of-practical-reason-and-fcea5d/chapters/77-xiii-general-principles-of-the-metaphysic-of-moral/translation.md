@@ -1,0 +1,29 @@
+---
+work_id: "fcea5dd4-0a6c-5ef9-bd8f-ec8b612df03d"
+work_slug: "immanuel-kant-critique-of-practical-reason-and-fcea5d"
+work_title: Critique of Practical Reason and Other Works on the Theory of Ethics
+author_name: Immanuel Kant
+chapter_number: 77
+chapter_title: "XIII.: —General Principles of the Metaphysic of Morals in the treatment of Pure Ethics."
+chapter_slug: "77-xiii-general-principles-of-the-metaphysic-of-moral"
+variant_id: "c6b1e20c-a14a-5220-a2bd-fd2d454c472b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 589
+source_url: "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+translator: Online Library of Liberty edition
+---
+
+First. A duty can have only a single ground of obligation; and if two or more proofs of it are adduced, this is a certain mark that either no valid proof has yet been given, or that Edition: current; Page: [314] there are several distinct duties which have been regarded as one.
+
+For all moral proofs, being philosophical, can only be drawn by means of rational knowledge from concepts, not like mathematics, through the construction of concepts. The latter science admits a variety of proofs of one and the same theorem; because in intuition à priori there may be several properties of an object, all of which lead back to the very same principle. If, for instance, to prove the duty of veracity, an argument is drawn first from the harm that a lie causes to other men; another from the worthlessness of a liar, and the violation of his own self-respect, what is proved in the former argument is a duty of benevolence, not of veracity, that is to say, not the duty which required to be proved, but a different one. Now, if in giving a variety of proofs for one and the same theorem, we flatter ourselves that the multitude of reasons will compensate the lack of weight in each taken separately, this is a very unphilosophical resource, since it betrays trickery and dishonesty; for several insufficient proofs placed beside one another do not produce certainty, nor even probability. Edition: Rosenkranz; Page: [252] They should advance as reason and consequence in a series, up to the sufficient reason, and it is only in this way that they can have the force of proof. Yet the former is the usual device of the rhetorician.
+
+Secondly. The difference between virtue and vice cannot be sought in the degree in which certain maxims are followed, but only in the specific quality of the maxims (their relation to the law). In other words, the vaunted principle of Aristotle, that virtue is the mean between two vices, is false. For instance, Edition: current; Page: [315] suppose that good management is given as the mean between two vices, prodigality and avarice; then its origin as a virtue can neither be defined as the gradual diminution of the former vice (by saving) nor as the increase of the expenses of the miserly. These vices, in fact, cannot be viewed as if they, proceeding as it were in opposite directions, met together in good management; but each of them has its own maxim, which necessarily contradicts that of the other.
+
+Edition: Rosenkranz; Page: [253] For the same reason, no vice can be defined as an excess in the practice of certain actions beyond what is proper (e. g. Prodigalitas est excessus in consumendis opibus); or, as a less exercise of them than is fitting (Avaritia est defectus, &c.). For since in this way the degree is left quite undefined, and the question whether conduct accords with duty or not, turns wholly on this, such an account is of no use as a definition.
+
+Thirdly. Ethical virtue must not be estimated by the power we attribute to man of fulfilling the law; but conversely, the Edition: current; Page: [316] moral power must be estimated by the law, which commands categorically; not, therefore, by the empirical knowledge that we have of men as they are, but by the rational knowledge how, according to the idea of humanity, they ought to be. These three maxims of the scientific treatment of Ethics are opposed to the older apophthegms:—

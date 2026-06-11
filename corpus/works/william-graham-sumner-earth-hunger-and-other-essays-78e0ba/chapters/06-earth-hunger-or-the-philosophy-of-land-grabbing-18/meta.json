@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-earth-hunger-and-other-essays-78e0ba",
+  "work_title": "Earth-Hunger and Other Essays",
+  "chapter_number": 6,
+  "chapter_title": "EARTH HUNGER OR THE PHILOSOPHY OF LAND GRABBING [1896]",
+  "chapter_slug": "06-earth-hunger-or-the-philosophy-of-land-grabbing-18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f550810c-9c8c-51a6-9cd2-381afc7a547c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10918,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/earth-hunger-and-other-essays-1913"
+    }
+  ]
+}

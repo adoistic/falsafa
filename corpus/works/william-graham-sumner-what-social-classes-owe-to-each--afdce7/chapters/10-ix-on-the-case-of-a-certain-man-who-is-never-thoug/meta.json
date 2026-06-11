@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-what-social-classes-owe-to-each--afdce7",
+  "work_title": "What Social Classes Owe to Each Other",
+  "chapter_number": 10,
+  "chapter_title": "IX.: ON THE CASE OF A CERTAIN MAN WHO IS NEVER THOUGHT OF.",
+  "chapter_slug": "10-ix-on-the-case-of-a-certain-man-who-is-never-thoug",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a197bc77-eeb9-57ec-b7b7-b481e14a3244",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2127,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-what-social-classes-owe-to-each-other"
+    }
+  ]
+}

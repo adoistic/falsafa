@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 67,
+  "chapter_title": "Democracy in the City From London’s Liberties or a Learned Argument of Law and Reason (Dec. 1650)",
+  "chapter_slug": "67-democracy-in-the-city-from-london-s-liberties-or-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ffe6faab-fbb3-5445-bf63-d4c4688ad01f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4424,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

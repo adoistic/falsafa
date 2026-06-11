@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 27,
+  "chapter_title": "CHAPTER VI: the principle of solution (continued). contribution and co-operation",
+  "chapter_slug": "27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ea43fcb-9920-514b-923d-d9efaeb056d6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 667,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

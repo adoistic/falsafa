@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0",
+  "work_title": "Money and the Mechanism of Exchange",
+  "chapter_number": 63,
+  "chapter_title": "English Silver Coin.",
+  "chapter_slug": "63-english-silver-coin",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bdcdaef4-628e-5c1c-9625-dfdcce60cc37",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 539,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+    }
+  ]
+}

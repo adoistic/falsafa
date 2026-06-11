@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 47,
+  "chapter_title": "b) Ueber den verschiedenen Grad der Absatzfähigkeit der Waaren.",
+  "chapter_slug": "47-b-ueber-den-verschiedenen-grad-der-absatzfahigkeit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "348b7f11-1e8b-51f6-9b6c-3e943e83876e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2097,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

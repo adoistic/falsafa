@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-ancient-law-78eea2",
+  "work_title": "Ancient Law",
+  "chapter_number": 22,
+  "chapter_title": "NOTE G.: MEDIEVAL AND MODERN TREATMENT OF THE LAW OF NATURE: BRACTON: FRENCH PUBLICISTS.",
+  "chapter_slug": "22-note-g-medieval-and-modern-treatment-of-the-law-of",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "020166df-05d6-5360-89a9-325aaa165ff7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2778,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-ancient-law"
+    }
+  ]
+}

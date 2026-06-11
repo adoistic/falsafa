@@ -1,0 +1,26 @@
+{
+  "work_slug": "averroes-ibn-rushd-the-philosophy-and-theology-of-a-3f48f4",
+  "work_title": "The Philosophy and Theology of Averroes",
+  "chapter_number": 4,
+  "chapter_title": "Ia.: APPENDIX. ON THE PROBLEM OF ETERNAL KNOWLEDGE, WHICH AVERROES HAS MENTIONED IN HIS DECISIVE DISCOURSE.",
+  "chapter_slug": "04-ia-appendix-on-the-problem-of-eternal-knowledge-wh",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a38a4bb8-a771-5cba-bc8b-d8c5d8a6d1b9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1460,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rushd-the-philosophy-and-theology-of-averroes"
+    }
+  ]
+}

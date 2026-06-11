@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-jacques-rousseau-emile-or-on-education-edc0fe",
+  "work_title": "Emile, or On Education",
+  "chapter_number": 8,
+  "chapter_title": "THE CREED OF A SAVOYARD PRIEST",
+  "chapter_slug": "08-the-creed-of-a-savoyard-priest",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5ec73b82-dd29-56dd-8d6d-d963144585bf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 50449,
+      "paragraph_count": 329,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rousseau-emile-or-education"
+    }
+  ]
+}

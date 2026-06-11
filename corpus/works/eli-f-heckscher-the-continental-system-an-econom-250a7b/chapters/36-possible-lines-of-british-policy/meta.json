@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 36,
+  "chapter_title": "POSSIBLE LINES OF BRITISH POLICY",
+  "chapter_slug": "36-possible-lines-of-british-policy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a896ad1e-61f6-540c-a551-226ef9b4db17",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1074,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

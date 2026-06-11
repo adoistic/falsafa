@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 1,
+  "chapter_title": "ADVERTISEMENT TO THE LONDON EDITION, BY THE EDITOR.",
+  "chapter_slug": "01-advertisement-to-the-london-edition-by-the-editor",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4e66f90f-214e-5589-9e3a-fde51a1cd84d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 309,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

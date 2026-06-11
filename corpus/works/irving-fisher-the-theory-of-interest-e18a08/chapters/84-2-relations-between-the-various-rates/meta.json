@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 84,
+  "chapter_title": "§2. Relations Between the Various Rates",
+  "chapter_slug": "84-2-relations-between-the-various-rates",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a1c559a2-05d0-5515-8d61-0b3863c35c81",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 661,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

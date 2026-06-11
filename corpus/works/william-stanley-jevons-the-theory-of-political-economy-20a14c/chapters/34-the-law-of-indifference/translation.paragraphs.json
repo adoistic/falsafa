@@ -1,0 +1,37 @@
+[
+  {
+    "id": "p-88f031",
+    "offset": 0,
+    "text": "When a commodity is perfectly uniform or homogeneous Edition: current; Page: [91] in quality, any portion may be indifferently used in place of an equal portion: hence, in the same market, and at the same moment, all portions must be exchanged at the same ratio. There can be no reason why a person should treat exactly similar things differently, and the slightest excess in what is demanded for one over the other will cause him to take the latter instead of the former. In nicely-balanced exchanges it is a very minute scruple which turns the scale and governs the choice. A minute difference of quality in a commodity may thus give rise to preference, and cause the ratio of exchange to differ. But where no difference exists at all, or where no difference is known to exist, there can be no ground for preference whatever. If, in selling a quantity of perfectly equal and uniform barrels of flour, a merchant arbitrarily fixed different prices on them, a purchaser would of course select the cheaper ones; and where there was absolutely no difference in the thing purchased, even an excess of a penny in the price of a thing worth a thousand pounds would be a valid ground of choice. Hence follows what is undoubtedly true, with proper explanations, that in the same open market, at any one moment, there cannot be two prices for the same kind of article. Such differences as may practically occur arise from extraneous circumstances, such as the defective credit of the purchasers, their imperfect knowledge of the market, and so on."
+  },
+  {
+    "id": "p-6bf8d7",
+    "offset": 1541,
+    "text": "The principle above expressed is a general law of Edition: current; Page: [92] the utmost importance in Economics, and I propose to call it The Law of Indifference, meaning that, when two objects or commodities are subject to no important difference as regards the purpose in view, they will either of them be taken instead of the other with perfect indifference by a purchaser. Every such act of indifferent choice gives rise to an equation of degrees of utility, so that in this principle of indifference we have one of the central pivots of the theory."
+  },
+  {
+    "id": "p-d25ef8",
+    "offset": 2098,
+    "text": "Though the price of the same commodity must be uniform at any one moment, it may vary from moment to moment, and must be conceived as in a state of continual change. Theoretically speaking, it would not usually be possible to buy two portions of the same commodity successively at the same ratio of exchange, because, no sooner would the first portion have been bought than the conditions of utility would be altered. When exchanges are made on a large scale, this result will be verified in practice. If a wealthy person invested £100,000 in the funds in the morning, it is hardly likely that the operation could be repeated in the afternoon at the same price. In any market, if a person goes on buying largely, he will ultimately Edition: current; Page: [93] raise the price against himself. Thus it is apparent that extensive purchases would best be made gradually, so as to secure the advantage of a lower price upon the earlier portions. In theory this effect of exchange upon the ratio of exchange must be conceived to exist in some degree, however small may be the purchases made. Strictly speaking, the ratio of exchange at any moment is that of dy to dx, of an infinitely small quantity of one commodity to the infinitely small quantity of another which is given for it. The ratio of exchange is really a differential coefficient. The quantity of any article purchased is a function of the price at which it is purchased, and the ratio of exchange expresses the rate at which the quantity of the article increases compared with what is given for it."
+  },
+  {
+    "id": "p-72e5fd",
+    "offset": 3658,
+    "text": "We must carefully distinguish, at the same time, between the Statics and Dynamics of this subject. The real condition of industry is one of perpetual motion and change. Commodities are being continually manufactured and exchanged and consumed. If we wished to have a complete solution of the problem in all its natural complexity, we should have to treat it as a problem of motion—a problem of dynamics. But it would surely be absurd to attempt the more difficult question when the more easy one is yet so imperfectly within our power. It is only as a purely statical problem that I can venture to treat the action of exchange. Holders of commodities will be regarded not as continuously passing on these commodities in Edition: current; Page: [94] streams of trade, but as possessing certain fixed amounts which they exchange until they come to equilibrium."
+  },
+  {
+    "id": "p-c5e016",
+    "offset": 4518,
+    "text": "It is much more easy to determine the point at which a pendulum will come to rest than to calculate the velocity at which it will move when displaced from that point of rest. Just so, it is a far more easy task to lay down the conditions under which trade is completed and interchange ceases, than to attempt to ascertain at what rate trade will go on when equilibrium is not attained."
+  },
+  {
+    "id": "p-7bf38a",
+    "offset": 4905,
+    "text": "The difference will present itself in this form: dynamically we could not treat the ratio of exchange otherwise than as the ratio of dy and dx, infinitesimal quantities of commodity. Our equations would then be regarded as differential equations, which would have to be integrated. But in the statical view of the question we can substitute the ratio of the finite quantities y and x. Thus, from the self-evident principle, stated on pp. 91, 92, that there cannot, in the same market, at the same moment, be two different prices for the same uniform commodity, it follows that the last increments in an act of exchange must be exchanged in the same ratio as the whole quantities exchanged. Suppose that two commodities are bartered in the ratio of x for y; then every mth part of x is given for the mth part of y, and it does not matter for which of the mth parts. No part of the commodity can be treated differently to any other part. We may carry this division to an indefinite Edition: current; Page: [95] extent by imagining m to be constantly increased, so that, at the limit, even an infinitely small part of x must be exchanged for an infinitely small part of y, in the same ratio as the whole quantities. This result we may express by stating that the increments concerned in the process of exchange must obey the equation"
+  },
+  {
+    "id": "p-ff43bb",
+    "offset": 6237,
+    "text": "The use which we shall make of this equation will be seen in the next section."
+  }
+]

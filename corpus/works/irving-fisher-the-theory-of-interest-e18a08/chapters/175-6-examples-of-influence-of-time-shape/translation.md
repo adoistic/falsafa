@@ -1,0 +1,33 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 175
+chapter_title: §6. Examples of Influence of Time Shape
+chapter_slug: "175-6-examples-of-influence-of-time-shape"
+variant_id: "23c02e8e-d9d6-52bf-9a73-de691db9a60b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 999
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+We still need to exemplify the most essential part of the theory, namely, that the rate of interest depends through the rate of impatience upon the time shape of the income stream. The time shape may be due either to natural or artificial causes, or to choice because of a high or low rate of return on investment. If the theory is correct, we should find, other things being equal, that when in any community the income streams of its in Edition: current; Page: [384] habitants are increasing, the rate of interest will be high, that when they are decreasing, the rate of interest will be low, and that when they alternate from one condition to the other, the rate of interest will alternate also in accordance with the period of the loan.
+
+The most striking examples of increasing income streams are found in new countries. It may be said that before the World War the United States almost always belonged to this category. Were it possible to express by exact statistics or diagrams the size of American incomes, they would undoubtedly show a steady increase since colonial days. Statistics almost equivalent to these desiderata are available (though not very accurate) in the form of the United States Census figures of per capita wealth, as well as in statistics of production and consumption of staple commodities and of exports and imports. These, combined with common observation and the statements of historians, lead to the conclusion that American incomes have been on the increase for two hundred years. It is also true that during this period of rising incomes the rate of interest has been high. The simplest interpretation of these facts is that Americans, being constantly under the influence of great expectations from the exploitation of great natural resources, have been always ready to promise a relatively large part of their abundant prospective future income for a relatively small addition to their present, just as he who expects soon to come into a fortune wishes to anticipate its realization by contracting a loan.
+
+Not only has the rate of interest been high in America as compared with other countries during this period of ascending incomes, but some of the other conditions having the same significance as a high rate of interest Edition: current; Page: [385] have also been in evidence. Thus, the country has been conspicuously a borrowing country, in debt to other countries. The proceeds of such loans from Europe have shown themselves in increased imports into the United States and diminished exports, creating a so-called unfavorable balance of trade. These phenomena have usually been expressed as a demand for capital, but, while it is quite true that the exploitation of our natural resources required the construction of railways and other forms of capital, this fact is better and more fully expressed in terms of income. We wanted, not the railways and machinery themselves, but the future enjoyable products to which this apparatus led. The labor of constructing these instruments necessarily tended to diminish the immediate enjoyable income of the country, but added to that of the expected future. It was to even up this disparity of immediate and remote income that loans were contracted. It does not matter whether the loans from the foreigner were received in the form of machinery and other instruments of production, or in the form of the comforts of life to support us while we ourselves constructed the instruments. In either case the essential fact is the transformation of the income stream rather than the need of capital, which is merely one of the means thereto.
+
+Not only have we witnessed the phenomena of high rates of interest and of borrowing during this period of American development, but it is also true that the character of the instruments created was for the most part of the unsubstantial and quickly returning kinds. Our highways, as John Rae pointed out, were little more than the natural surface of the earth after the removal of trees and rocks; our railways were lightly ballasted, sometimes even narrow gauge, and crooked to avoid the Edition: current; Page: [386] necessity of excavations and tunnels; our earliest buildings were rude and unsubstantial. Everything was done, not in a permanent manner with reference to the remote future, but in order to save a large first cost.
+
+During the last generation these conditions have been changed. The rates of interest in America are, in general, lower than formerly, and lower than in other countries, in many of which interest rates have risen. We have ceased to be a borrowing nation. We bought back many of our securities from abroad, and after the World War began to buy foreign securities. This was accomplished through the excess of exports of our abundant products over imports. We are now lending billions to Europe. Europe has become a borrower, the chief reason being that in her recovery from the War her income stream is rising. During that recovery from the impaired income wrought by the War, Europe in some places offers bigger returns over costs than America. That fact, combined with Europe's poverty, makes for high interest.
+
+The interest rate has fallen in the United States since 1920. This agrees with, or at least is consistent with, the theory that raising the level of national income tends, other things equal, to lower the rate of interest.
+
+Again, the character of the instruments which have been now for some time in process of construction in the United States is of the most substantial kind. Steel rails have long since taken the place of iron rails; railways have been straightened by expensive tunnels, by bridges, and by excavations; dwellings and other buildings have been made more substantial; first macadamized and later cement roads have rapidly supplanted the old dirt roads; and in every direction there has been an evident Edition: current; Page: [387] tendency to invest a large first cost in order to reduce future running expenses.

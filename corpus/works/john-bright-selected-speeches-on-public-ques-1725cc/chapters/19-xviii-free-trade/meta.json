@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-bright-selected-speeches-on-public-ques-1725cc",
+  "work_title": "Selected Speeches on Public Questions",
+  "chapter_number": 19,
+  "chapter_title": "XVIII: FREE TRADE",
+  "chapter_slug": "19-xviii-free-trade",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e189aa7-1490-518b-a315-786588e65b89",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6987,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bright-selected-speeches-of-the-rt-hon-john-bright-m-p-on-public-questions"
+    }
+  ]
+}

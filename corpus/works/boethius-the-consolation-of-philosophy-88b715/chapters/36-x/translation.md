@@ -1,0 +1,25 @@
+---
+work_id: "88b7154d-8ae8-5c6e-a1cb-5ca9ab169cd0"
+work_slug: "boethius-the-consolation-of-philosophy-88b715"
+work_title: The Consolation of Philosophy
+author_name: Boethius
+chapter_number: 36
+chapter_title: X
+chapter_slug: "36-x"
+variant_id: "7bf41e27-7593-521e-831d-d397f842a581"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 698
+source_url: "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"
+translator: Online Library of Liberty edition
+---
+
+THEN said Boethius, ‘O Philosophy, thou that art the mother of all virtues, I cannot gainsay thee nor deny what thou wast saying to me just now, for it is all true. I understand now that my happiness and the prosperity which I erstwhile accounted happiness are not such, seeing that they so speedily depart. What troubles me most when I ponder the matter narrowly is my firm persuasion that the greatest unhappiness in this present life is for a man to have happiness, and then to lose it.’
+
+Then answered Philosophy, that is to say Reason, ‘Of a truth thou shouldst not blame thy fate and thy prosperity, as thou art minded to do, for the loss of false joys that thou art suffering, because thou art wrong in thinking thyself unhappy. But if it be the loss of fancied joys that hath thus troubled and saddened thee I can clearly prove to thee that thou still hast the greater part of the happiness that once was thine. Tell me now, canst thou with justice bewail thy misfortune, as if good fortune had utterly forsaken thee? Why, thou hast still the most precious part of all that thou didst hold most worth having. How then canst thou Edition: current; Page: [20]bewail the worse and more harmful part, having kept the more precious? Come, thou knowest that the flower of mankind and the greatest honour to thyself is still living, even thy wife’s father, Symmachus. He is yet hale and hearty, and hath enough of all good things, and I know that thou wouldst not stick to lay down thy life for him, if thou wert to see him in any danger, for the man is full of wisdom and goodly parts, and free enough from all earthly cares, albeit he is much grieved for thy hardships and thy captivity. Is not thy wife also living, daughter of this same Symmachus, a virtuous and modest lady, beyond all women in chastity? All the good in her I may sum up in a word: that in all her ways she is her father’s daughter. For thee she lives, for thee alone, as she loves nothing else but thee; every blessing of this life is hers, but all hath she scorned for thy sake, refusing all, not having thee; that is her only want. By reason of thine absence all that she hath seems naught to her, for in her great love for thee she is in despair and well-nigh dead with weeping and sorrow. Again, let us take thy two sons. They are magistrates and senators; in them are manifest the gifts and virtues of their father and of their forefathers, as far as young men may resemble their elders. Therefore I wonder that thou canst not understand that thou art still very fortunate, being alive and in good health. Surely to be alive and well is the greatest gift mortal man may have, and besides this thou hast all those gifts that I have just told over to thee. Indeed, these are even more precious to a man than life itself; for Edition: current; Page: [21]many a man would rather die himself than see his wife and children die. Why then art thou disposed to weep without cause? As yet thou canst not in aught reproach thy fate, nor put the blame upon thy life; nor art thou, as thou thinkest, utterly undone. No unbearable affliction hath yet befallen thee, for thine anchor is still fast in the ground, those noblemen, I mean, that we were speaking of. They will not suffer thee to despair of this present life; and furthermore, thine own faith and the divine love and hope, these three will not suffer thee to despair of the life eternal.’
+
+To this the sorrowing Mind made answer, saying, ‘Oh, would that the anchors were as fast and enduring, in respect of God and of the world, as thou sayest! Then could I far more easily bear such adversities as might befall me, for they all seem lighter as long as the anchors hold. But nevertheless thou mayest perceive how my happiness and worldly honour are changed.’

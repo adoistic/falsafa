@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 37,
+  "chapter_title": "c) Einfluss der von dem Monopolisten fixirten Preise auf die in den Verkehrtretenden Quantitäten des Monopolgutes und au",
+  "chapter_slug": "37-c-einfluss-der-von-dem-monopolisten-fixirten-preis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8f285276-2579-5ac8-9e3a-b400263cdd7b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 866,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

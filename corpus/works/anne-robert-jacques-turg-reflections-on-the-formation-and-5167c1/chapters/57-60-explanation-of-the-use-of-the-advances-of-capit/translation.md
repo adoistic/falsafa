@@ -1,0 +1,21 @@
+---
+work_id: "5167c1c2-6a56-5480-a9be-3f27fc507a97"
+work_slug: "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1"
+work_title: Reflections on the Formation and Distribution of Riches
+author_name: Anne Robert Jacques Turgot
+chapter_number: 57
+chapter_title: 60. Explanation of the use of the advances of capitals in enterprises of industry; on their returns and the profits they
+chapter_slug: "57-60-explanation-of-the-use-of-the-advances-of-capit"
+variant_id: "11f18a35-4508-56ba-8f99-b5b84b43a877"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 562
+source_url: "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+translator: Online Library of Liberty edition
+---
+
+In early times, he that employed labouring people under him, furnished the materials himself, and paid from day to day the salaries of the workmen. It was the cultivator or the owner himself that gave to the spinner the hemp he had gathered, and he maintained her during the time of her working. Thence he passed the yarn to a weaver, to whom he gave every day the salary agreed upon. But those slight daily advances can only take place in the coarsest works. A vast number of arts, and even of those arts indispensable for the use of the most indigent members of society, require that the same materials should pass through many different hands, and undergo, during a considerable space of time, difficult and various operations. I have already mentioned the preparation of leather, of which shoes are made. Whoever has seen the workhouse of a tanner, cannot help feeling the absolute impossibility of one, or even several indigent persons providing themselves with leather, lime, tan, utensils, &c. and causing the requisite buildings to be erected to put the tan house to work, and of their living during a certain space of time, till their leather can be sold. In this art, and many others, must not those that work on it have learned the craft before they presume to touch the materials, lest they should waste them in their first trials? Here then is another absolute necessity of advances. Who shall now collect the materials for the manufactory, the ingredients, the requisite utensils for their preparation? Who is to construct canals, markets, and buildings of every denomination? How shall that multitude of workmen subsist till the time of their leather being sold, and of whom none individually would be able to prepare a single skin; and where the emolument of the sale of a single skin could not afford subsistence to any one of them? Who shall defray the expences for the instruction of the pupils and apprentices? Who shall maintain them until they are sufficiently instructed, guiding them gradually from an easy labour proportionate to their age, to works that demand more vigour and ability? It must then be one of those proprietors of capitals, or moveable accumulated property that must employ them, supplying them with advances in part for the construction and purchase of materials, and partly for the daily salaries of the workmen that are preparing them. It is he that must expect the sale of the leather, which is to return him not only his advances, but also an emolument sufficient to indemnify him for what his money would have procured him, had he turned it to the acquisition of lands, and moreover of the salary due to his troubles and care, to his risque, and even to his skill; for surely, upon equal profits, he would have preferred living without solicitude, on the revenue of land, which he could have purchased with the same capital. In proportion as this capital returns to him by the sale of his works, he employs it in new purchases for supporting his family and maintaining his manufactory; by this continual circulation, he lives on his profits, and lays by in store what he can spare to increase his stock, and to advance his enterprize by augmenting the mass of his capital, in order proportionably to augment his profits.

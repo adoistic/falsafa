@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 30,
+  "chapter_title": "[IIII. DE DEDITICIIS VEL LEGE AELIA SENTIA.]",
+  "chapter_slug": "30-iiii-de-dediticiis-vel-lege-aelia-sentia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9317a8c-1814-5ef9-8005-d1e40afee025",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 67,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

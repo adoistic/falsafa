@@ -1,0 +1,26 @@
+{
+  "work_slug": "pelatiah-webster-political-essays-on-the-nature-a-610880",
+  "work_title": "Political Essays on the Nature and Operation of Money",
+  "chapter_number": 16,
+  "chapter_title": "Humbly offered to the Public. [First published in Philadelphia, March 24, 1783.]",
+  "chapter_slug": "16-humbly-offered-to-the-public-first-published-in-ph",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "19124376-7af1-55f1-950c-aa8c21f3877d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14320,
+      "paragraph_count": 149,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/webster-political-essays-on-the-nature-and-operation-of-money"
+    }
+  ]
+}

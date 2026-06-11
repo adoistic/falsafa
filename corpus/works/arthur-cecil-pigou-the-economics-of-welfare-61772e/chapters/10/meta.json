@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 10,
+  "chapter_title": "Chapter IX: REACTIONS THROUGH THE NUMBERS OF THE POPULATION",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "31c9cbbc-138c-5f4e-a9c0-48bc66b97dae",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2136,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

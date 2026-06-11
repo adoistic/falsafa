@@ -1,0 +1,23 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 149
+chapter_title: CHAPTER III
+chapter_slug: 149
+variant_id: "6910e222-c778-5b80-8e75-d0e393b847a4"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 635
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+how he changed the winds by prayer, and brought the scattered ships safe to land
+
+From this time the lad becoming devoted to the Lord, as he afterwards assured his friends, often prayed to God amid dangers that surrounded him, and was defended by angelic assistance; nay, even in behalf of others who were in any danger, his benevolent piety sent forth prayers to God, and he was heard by Him who listens to the cry of the poor, and the men were rescued out of all their tribulations. There is, moreover, a monastery lying towards the south, not far from the mouth of the river Tyne, at that time consisting of monks, but now changed, like all other human things, by time, and inhabited by a noble company of virgins, dedicated to Christ. Now, as these pious servants of God were gone to bring from a distance in ships, up the above-named river, some timber for the use of the monastery, and had already come opposite the place where they were to bring the ships to land, behold a violent wind, rising from the west, carried away their ships, and scattered them to a distance from the river’s mouth. The brethren, seeing this from the monastery, launched some boats into the river, and tried to succour those who were on board the vessels, but were unable, because the force of the tide and violence of the winds overcame them. In despair therefore of human aid, they had recourse to God, and issuing forth from the monastery, they gathered themselves together on a point of rock, near which the vessels were tossing in the sea: here they bent their knees, and supplicated the Lord for those whom they saw under such imminent danger of destruction. But the Divine will was in no haste to grant these vows, however earnest; and this was, without a doubt, in order that it might be seen what effect was in Cuthbert’s prayers. For there was a large multitude of people standing on the other bank of the river, and Cuthbert also was among them. Whilst the monks were looking on in sorrow, seeing the vessels, five in number, hurried rapidly out to sea, so that they looked like five sea-birds on the waves, the multitude began to deride their manner of life, as if they had deserved to suffer this loss, by abandoning the usual modes of life, and framing Edition: current; Page: [292] for themselves new rules by which to guide their conduct. Cuthbert restrained the insults of the blasphemers, saying, “What are you doing, my brethren, in thus reviling those whom you see hurried to destruction? Would it not be better and more humane to entreat the Lord in their behalf, than thus to take delight in their misfortunes?” But the rustics, turning on him with angry minds and angry mouths, exclaimed, “Nobody shall pray for them: may God spare none of them! for they have taken away from men the ancient rites and customs, and how the new ones are to be attended to, nobody knows.” At this reply, Cuthbert fell on his knees to pray, and bent his head towards the earth; immediately the power of the winds was checked, the vessels, with their conductors rejoicing, were cast upon the land near the monastery, at the place intended. The rustics blushing for their infidelity, both on the spot extolled the faith of Cuthbert as it deserved, and never afterwards ceased to extol it: so that one of the most worthy brothers of our monastery, from whose mouth I received this narrative, said that he had often, in company with many others, heard it related by one of those who were present, a man of the most rustic simplicity, and altogether incapable of telling an untruth.

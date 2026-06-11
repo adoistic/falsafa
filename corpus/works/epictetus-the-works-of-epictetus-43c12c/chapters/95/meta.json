@@ -1,0 +1,26 @@
+{
+  "work_slug": "epictetus-the-works-of-epictetus-43c12c",
+  "work_title": "The Works of Epictetus",
+  "chapter_number": 95,
+  "chapter_title": "CHAPTER IX.: CONCERNING A PERSON WHO HAD GROWN IMMODEST.",
+  "chapter_slug": "95",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "015c9e7f-7c29-53a3-9561-1fa0fd00b476",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 749,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+    }
+  ]
+}

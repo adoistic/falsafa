@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-priestley-letters-to-the-right-honourable--7226ba",
+  "work_title": "Letters to the Right Honourable Edmund Burke",
+  "chapter_number": 12,
+  "chapter_title": "Of an Elective Clergy.",
+  "chapter_slug": "12-of-an-elective-clergy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ee6e7c1d-2213-5b2a-9fae-a80d814a40a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2023,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/priestley-letters-to-the-right-honourable-edmund-burke"
+    }
+  ]
+}

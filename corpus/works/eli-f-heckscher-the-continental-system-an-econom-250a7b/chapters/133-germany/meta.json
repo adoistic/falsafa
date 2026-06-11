@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 133,
+  "chapter_title": "GERMANY",
+  "chapter_slug": "133-germany",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fb120ae7-cb7f-5254-8e44-21bd052ddf0a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 742,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

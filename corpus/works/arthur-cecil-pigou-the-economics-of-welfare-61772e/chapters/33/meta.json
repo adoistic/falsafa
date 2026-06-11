@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 33,
+  "chapter_title": "Chapter XXI: PUBLIC CONTROL OF MONOPOLY",
+  "chapter_slug": "33",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1d1e8032-edb6-5869-b5ea-215683c68c6c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 15073,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

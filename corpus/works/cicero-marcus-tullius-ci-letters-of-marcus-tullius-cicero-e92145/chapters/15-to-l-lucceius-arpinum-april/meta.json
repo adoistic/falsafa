@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
+  "work_title": "Letters of Marcus Tullius Cicero",
+  "chapter_number": 15,
+  "chapter_title": "To L. Lucceius Arpinum (April)",
+  "chapter_slug": "15-to-l-lucceius-arpinum-april",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9779b761-2228-580a-a55e-523599651e97",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1913,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 1,
+  "chapter_title": "PREFACE",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "03f3de04-b3b1-534f-ad5b-052e30f9dae7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1199,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

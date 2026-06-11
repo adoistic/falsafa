@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 35,
+  "chapter_title": "Chapter I: INDUSTRIAL PEACE",
+  "chapter_slug": "35",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b96c2a46-ced6-5d25-9aa0-44a67ac58507",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1205,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

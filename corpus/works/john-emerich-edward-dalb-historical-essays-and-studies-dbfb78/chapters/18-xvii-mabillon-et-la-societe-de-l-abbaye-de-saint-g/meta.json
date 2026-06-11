@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-historical-essays-and-studies-dbfb78",
+  "work_title": "Historical Essays and Studies",
+  "chapter_number": 18,
+  "chapter_title": "XVII: MABILLON ET LA SOCIÉTÉ DE L’ABBAYE DE SAINT-GERMAIN-DES-PRÉS À LA FIN DU XVIIE SIÈCLE. Par Emmanuel de Broglie.",
+  "chapter_slug": "18-xvii-mabillon-et-la-societe-de-l-abbaye-de-saint-g",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bc6106ab-f401-572f-b799-71febc331691",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4388,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laurence-historical-essays-and-studies"
+    }
+  ]
+}

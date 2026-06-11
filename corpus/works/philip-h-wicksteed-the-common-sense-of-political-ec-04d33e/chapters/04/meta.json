@@ -1,0 +1,26 @@
+{
+  "work_slug": "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e",
+  "work_title": "The Common Sense of Political Economy",
+  "chapter_number": 4,
+  "chapter_title": "CHAPTER I: INTRODUCTORY: ADMINISTRATION OF RESOURCES AND CHOICE BETWEEN ALTERNATIVES. PRICE AND THE RELATIVE SCALE",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "439dd809-0286-5d2f-9ba7-a4bb31e38615",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9418,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wicksteed-the-commonsense-of-political-economy"
+    }
+  ]
+}

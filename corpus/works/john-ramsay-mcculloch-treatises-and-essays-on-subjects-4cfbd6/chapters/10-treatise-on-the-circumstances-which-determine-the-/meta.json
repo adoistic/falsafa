@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-treatises-and-essays-on-subjects-4cfbd6",
+  "work_title": "Treatises and Essays on Subjects Connected with Economic Policy",
+  "chapter_number": 10,
+  "chapter_title": "TREATISE ON THE CIRCUMSTANCES WHICH DETERMINE THE COURSE OF EXCHANGE.",
+  "chapter_slug": "10-treatise-on-the-circumstances-which-determine-the-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11bde88c-7e30-5b6c-ab01-657c879330b0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 84,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-treatises-and-essays-on-subjects-connected-with-economic-policy-1853"
+    }
+  ]
+}

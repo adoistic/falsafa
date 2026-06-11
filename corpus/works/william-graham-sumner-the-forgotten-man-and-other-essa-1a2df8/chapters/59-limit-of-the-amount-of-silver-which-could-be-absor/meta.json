@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 59,
+  "chapter_title": "Limit of the Amount of Silver which could be Absorbed.",
+  "chapter_slug": "59-limit-of-the-amount-of-silver-which-could-be-absor",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd5843fc-c85c-5d8d-8825-9bc0089ee8fa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 281,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

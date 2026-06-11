@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-protectionism-the-ism-which-teac-b66af5",
+  "work_title": "Protectionism: The -ism Which Teaches That Waste Makes Wealth",
+  "chapter_number": 4,
+  "chapter_title": "B.): Old and New Conceptions of the State.",
+  "chapter_slug": "04-b-old-and-new-conceptions-of-the-state",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0c24f139-f3a2-5cca-ad27-104048439369",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1103,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-protectionism-the-ism-which-teaches-that-waste-makes-wealth"
+    }
+  ]
+}

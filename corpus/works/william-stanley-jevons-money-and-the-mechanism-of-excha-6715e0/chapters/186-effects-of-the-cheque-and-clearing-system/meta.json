@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0",
+  "work_title": "Money and the Mechanism of Exchange",
+  "chapter_number": 186,
+  "chapter_title": "Effects of the Cheque and Clearing System.",
+  "chapter_slug": "186-effects-of-the-cheque-and-clearing-system",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8e8a4541-9d20-5ce8-9e24-53cc95940b1d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 688,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+    }
+  ]
+}

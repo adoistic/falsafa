@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 3,
+  "chapter_title": "HISTORICAL INTRODUCTION",
+  "chapter_slug": "03-historical-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1b645e6d-dd3f-5307-bf1e-b13c55ed1f6b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 389,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 20,
+  "chapter_title": "PART VI.",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dfd8649d-740e-5785-ab70-00d9ef8a8580",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5781,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-lectures-on-justice-police-reven-aac5d2",
+  "work_title": "Lectures on Justice, Police, Revenue, and Arms",
+  "chapter_number": 36,
+  "chapter_title": "[§ 8. Of Exclusive Privileges.]",
+  "chapter_slug": "36-8-of-exclusive-privileges",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a0ed843e-d2d7-55f5-a5cf-b6dae8026041",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 392,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-lectures-on-justice-police-revenue-and-arms-1763"
+    }
+  ]
+}

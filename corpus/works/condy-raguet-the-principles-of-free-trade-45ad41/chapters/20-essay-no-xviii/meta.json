@@ -1,0 +1,26 @@
+{
+  "work_slug": "condy-raguet-the-principles-of-free-trade-45ad41",
+  "work_title": "The Principles of Free Trade",
+  "chapter_number": 20,
+  "chapter_title": "ESSAY No. XVIII.",
+  "chapter_slug": "20-essay-no-xviii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e2fddda5-f233-589e-a798-89b0c1aa8f8a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1121,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raguet-the-principles-of-free-trade"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39",
+  "work_title": "An Essay on Crimes and Punishments",
+  "chapter_number": 58,
+  "chapter_title": "CHAPTER IX.: OF WITCHES.",
+  "chapter_slug": "58",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7606f430-3710-5810-a8ed-f8e85bd51367",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 557,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+    }
+  ]
+}

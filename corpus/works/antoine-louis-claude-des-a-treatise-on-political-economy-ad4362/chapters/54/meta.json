@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362",
+  "work_title": "A Treatise on Political Economy",
+  "chapter_number": 54,
+  "chapter_title": "SECTION SEVENTH.: Conclusion.",
+  "chapter_slug": "54",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4629a56f-43a8-50e0-90fe-d9b28e17fd9c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 733,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
+    }
+  ]
+}

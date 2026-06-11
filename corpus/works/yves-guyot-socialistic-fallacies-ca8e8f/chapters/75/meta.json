@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-socialistic-fallacies-ca8e8f",
+  "work_title": "Socialistic Fallacies",
+  "chapter_number": 75,
+  "chapter_title": "CHAPTER III: Admissions of the Apostles",
+  "chapter_slug": "75",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f22eabe3-ab73-5810-b47e-633743fa1f69",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1400,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+    }
+  ]
+}

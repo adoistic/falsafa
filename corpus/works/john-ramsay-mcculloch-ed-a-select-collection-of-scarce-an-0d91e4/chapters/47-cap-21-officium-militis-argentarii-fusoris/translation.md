@@ -1,0 +1,27 @@
+---
+work_id: "0d91e4fa-7943-5934-852f-9f73834988c6"
+work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4"
+work_title: A Select Collection of Scarce and Valuable Tracts on Money
+author_name: John Ramsay McCulloch (ed.)
+chapter_number: 47
+chapter_title: "Cap. 21.: Officium Militis Argentarii & Fusoris."
+chapter_slug: "47-cap-21-officium-militis-argentarii-fusoris"
+variant_id: "dc4644e6-2586-5c82-9914-981fcf61645d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 510
+source_url: "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+translator: Online Library of Liberty edition
+---
+
+PORRO Miles Argentarius ab inferiore Scaccario ad superius differt Loculum examinandi Argenti, cujus supra meminimus, quem cum intulerit Signatum Sigillo Vicecomitis, sub omnium oculis effundit in Scaccario xxiiii. Solidos quos de Acervo Sumptos prius Signaverit, factaque Commixtione eosdem, ut ponderi respondeant, mittit in unum Vasculum trutinæ libram ponderis, in alterum vero de Denariis quod Oportuit, Quo facto, numerat eosdem ut ex numero constare possit, si legitimi ponderis sint, cujuscunque vero ponderis inventi fuerint, seorsum mittit in Ciffum libram unam, hoc est xx. Solidos, ex quibus examen fiat, reliquos vero xxiiii. Solidos mittit in Loculum. Item duo Denarii præter libram examinandam dantur Fusori, non de Fisco, sed de parte Vicecomitis, quia in præmium sui laboris.
+
+Tunc eliguntur a Præsidente vel a Thesaurario, si ille absens fuerit, alii duo Vic. ut simul cum Argentario, Necnon et Vicecomite, cujus examen faciendum est, procedant ad Ignem, ubi Fusor ante præmonitus, præparatis Necessariis, eorum præstolatur adventum. Ibi iterum præsente Fusore et hiis qui a Baronibus missi sunt, diligenter computantur, et Fusori traduntur. Quos ille Suspiciens manu propria numerat, et sic disponit eos in Vasculum ignitorum Cinerum quod in Fornace est. Edition: current; Page: [257] Tunc igitur Artis Fusoriæ lege servata, redigit eos in Massam, conflans et emundans Argentum: Cæterum cavendum est ei, ne citra perfectionem subsistat, vel importunis æstuationibus vexet illud atque consumat. Illud propter Regis, hoc propter Vicecomitis Jacturam, set Modis omnibus provideat et quanta procuret industria ut non vexetur, set ad purum tantum excoquatur, hoc autem ipsum providere dicunt hii qui ad idem missi sunt a Majoribus. Facto igitur examine defert illud Argentarius ad Barones, Comitantibus illis, et tunc in omnium Oculis ponderat illud cum libra prædicta ponderis, supplet autem mox quod ignis consumpsit, appositis denariis ejusdem loculi, donec æquilibriter se habeat examen cum pondere. Tunc inscribitur idem examen desuper ducta Creta hiis verbis, Everwicscir, libra arsit tot vel tot denarios, et tunc illud Essaium dicitur. Non enim inscribitur nisi præconcessio quod sic stare debeat. Quod si Vicecomes, cujus est, Calumpniatus fuerit, illud quasi plus justo consumptum fuerit ignis scilicet exæstuatione vel plumbi infusione, vel et Fusor ipse, qualibet Occasione defecisse fateatur examen, iterum numerentur xx. Solidos, qui residui sunt in loculo prædicto, coram Baronibus sicut demonstratum est, et eadem ratione Servata, fiat examen. Hinc igitur constare potest, qua consideratione de acervo magno propositæ pecuniæ xliiii. Solidos seorsum ab initio mittantur in Loculum, apposito Vicecomitis Sigillo. Notandum vero est, quod Fusor duos percipit denarios pro Examine, sicut diximus. Quod si quovis Casu aliud faceret, et si tertio examinaverit, non percipiet quicquam, set contentus erit semel susceptis duobus.
+
+Discipulus. Miror a tantis tantam adhiberi diligentiam in unius libræ examinatione, cum nec magnus ex ea quæstus nec multa jactura proveniat.
+
+Magist. Non propter hanc tantum fiunt hæc, set propter omnes illas quæ ab eodem Vicecomite sub eodem Edition: current; Page: [258] nomine firme simul cum hac persolvuntur. Quantam enim ab hac libra per ignem purgatorium decidit, tantundem ex singulis aliis libris Noverit Vicecomes de summa sua substrahendum, ut si centum libras numeratas solverit, et libra examinis iii. denarii exciderint, Non computentur ei nisi nonaginta quinque.

@@ -1,0 +1,31 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 111
+chapter_title: CHAPTER XXII
+chapter_slug: 111
+variant_id: "79a777b5-05c8-512a-abe4-38e822210891"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 913
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+how a certain captive’s chains fell off when masses were sung for him. [ad 679.]
+
+In the aforesaid battle, wherein Elfwin, the king’s brother, was killed, a memorable fact is known to have happened, which I think ought not to be passed by in silence; for the relation of the same will conduce to the salvation of many. In that battle, one Imma, a youth belonging to the king, was left as dead, and having lain so all that day and the next night among the dead bodies, at length he came to himself, and sitting, bound up his wounds in the best way he could. Then having rested awhile, he stood up, and began to go off to seek some friends that might take care of him; but in so doing he was discovered and taken by some of the enemy’s army, and carried before their lord, who was an earl belonging to King Ethelred. Being asked by him who he was, and fearing to own himself a soldier, he answered, “He was a peasant, poor and married, and that he came to the army with others to bring provisions to the soldiers.” The earl entertained him, and ordered his wounds to be dressed; and when he began to recover, to prevent his escaping, he ordered him to be bound; but that could not be performed, for as soon as they that bound him were gone, his bonds were all loosened.
+
+He had a brother called Tunna, who was a priest and abbat of a monastery in the city which from him is still called Tunnacester. Hearing that his brother had been killed in the fight, he went to see whether he could find his body; and finding another very like him in all respects, concluding it to be his, he carried the same to his monastery, and buried it honourably, and took care often to say masses for the absolution of his soul; the celebration whereof occasioned what I have said, that none could bind him but he was presently loosed again. In the meantime, the earl that kept him was amazed, and began to inquire why he could not be bound; whether he had any spells Edition: current; Page: [200] about him, as are spoken of in fabulous stories. He answered, “He knew nothing of those contrivances; but I have,” said he, “a brother who is a priest in my country, and I know that he, supposing me to be killed, causes masses to be said for me; and if I were now in the other life, my soul there, through his intercession, would be delivered from pain.”
+
+Having continued with the earl some time, those who attentively observed him, by his countenance, mien, and discourse, took notice, that he was not of the meaner sort, as he had said, but of some quality. The earl then privately sending for him, pressed to know who he was, promising to do him no harm, if he would ingenuously confess his quality. Which when he had done, declaring that he had been the king’s servant, the earl answered, “I perceived by your answers that you were no peasant. And now you deserve to die, because all my brothers and relations were killed in that fight; yet I will not put you to death, because it will be a breach of my promise.”
+
+As soon, therefore, as he was recovered, he sold him at London, to a Freson, but he could not be bound by him the whole way as he was led along; but though his enemies put several sorts of bonds on him, they were all loosed. The buyer, perceiving that he could in no way be bound, gave him leave to ransom himself if he could; now it was at the third hour (nine in the morning) when the masses were wont to be said, that his bonds were generally loosed. He, having taken an oath that he would either return, or send him the money for his ransom, went into Kent to King Lothaire, who was son to the sister of Queen Etheldrida, above spoken of, for he had once been her servant. From him he obtained the price of his ransom, and as he had promised, sent it to his master.
+
+Returning afterwards into his own country, and coming to his brother, he gave him an exact account of all his fortunes, good and bad; and by his relation he understood, that his bonds had been generally loosed at those times when masses had been celebrated for him; and that other advantages which had accrued to him in his time of danger, had been conferred on him from Heaven, through the intercession of his brother, and the oblation of his saving sacrifice. Many persons, on hearing this account from the aforesaid man, were stirred up in the faith and Edition: current; Page: [201] devotion of piety either to prayer, or to almsgiving, or to offer up to our Lord the sacrifice of the holy oblation, for the deliverance of their friends who had departed this world; for they understood and knew that such saving sacrifice was available for the eternal redemption both of body and soul. This story was also told me by some of those who had heard it related by the person himself to whom it happened; therefore, I have thought fit to insert it in my Ecclesiastical History as I had it related to me.

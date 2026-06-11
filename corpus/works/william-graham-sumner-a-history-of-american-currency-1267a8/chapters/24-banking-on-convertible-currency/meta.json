@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 24,
+  "chapter_title": "BANKING ON CONVERTIBLE CURRENCY.",
+  "chapter_slug": "24-banking-on-convertible-currency",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bce80e24-5828-5755-96cc-a5c356277e8f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 190,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+---
+work_id: "8cb3633b-59b5-573f-ab9a-d6b28499d70b"
+work_slug: "walter-bagehot-lombard-street-a-description-of--8cb363"
+work_title: "Lombard Street: A Description of the Money Market"
+author_name: Walter Bagehot
+chapter_number: 26
+chapter_title: Note B. Extract from Evidence Given by Mr. Alderman Salomons before House of Commons Select Committee in 1858.
+chapter_slug: "26-note-b-extract-from-evidence-given-by-mr-alderman-"
+variant_id: "325c85b3-26df-5512-8bdd-c2eed5df3904"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 3273
+source_url: "https://oll.libertyfund.org/titles/bagehot-lombard-street-a-description-of-the-money-market"
+translator: Online Library of Liberty edition
+---
+
+1146. Chairman.] The effect upon yourselves of the pressure in November was, I presume, to induce you to increase your reserve in your own hands, and also to increase your deposits with the Bank of England?—Yes, that was so; but I wish to tell the Committee that that was done almost entirely by allowing the bills of exchange which we held to mature, and not by raising any money, or curtailing our accommodation to our customers. Perhaps it may be interesting to the Committee to know that on the 11th of November we held discounted bills for brokers to the amount of 5,623,000l. Out of those bills, 2,800,000l. matured between the 11th of November and the 4th of December, and 2,000,000l. more between the 4th of December and the 31st. So that about 5,000,000l. of bills matured between the 11th of November and the 31st of December; consequently we were prepared, merely by the maturing of our bills of exchange, for any demands that might possibly come upon us.
+
+1147. I understand you to say that you did not withdraw your usual accommodation from your own customers, but that you ceased to have in deposit with the bill-brokers so large a sum of money as you had before?—Not exactly that; the bills which we had discounted were allowed to mature, and we discounted less; we kept a large reserve of cash.
+
+1148. That is to say, you withdrew from the commercial world a part of that accommodation which you had previously given, and at the same time you increased your deposits with the Bank of England?—Yes, our deposits with the Bank of England were increased. We did not otherwise withdraw accommodation.
+
+1149. Mr. Weguelin.] Had you any money at call with the billbrokers?—A small amount; perhaps about 500,000l. or less, which we did not call in.
+
+1150. Chairman.] What I understand you to say is, that the effect of the commercial pressure upon you was to induce you upon the whole to withdraw from commerce an amount of accommodation which in other times you had given, and at the same time to increase your deposits with the Bank of England?—So far only as ceasing to discount with strangers, persons not having current accounts with us.
+
+1151. Or to give the same amount to the bill-broker?—For a while, instead of discounting for brokers and strangers, we allowed our bills to mature, and remained quiescent with a view to enable us to meet any demand that might be made on ourselves.
+
+1152. Except what you felt bound to your own customers to continue to give, you ceased to make advances?—Quite so; perhaps I might say at the same time, that besides a large balance which we kept at the Bank of England, which of course was as available as in our own tills, we increased our notes in our tills at the head office and at all the branches.
+
+1153. I suppose at that time large sales of public securities were made by the London joint stock banks, which securities were purchased by the public?—It is understood that some joint stock and other banks sold, but I believe it is quite certain that the public purchased largely, because they always purchase when the funds fall.
+
+1154. Are you prepared to give the Committee any opinion of your own as to the effect, one way or the other, which the system of the joint stock banks may have produced with regard to aggravating or diminishing the commercial pressure in the autumn of last year?—I should state, generally, that the joint stock banks, as well as all other banks, in London, by collecting money from those who had it to spare, must of necessity have assisted, and could not do otherwise than assist commerce, both then and at all other times.
+
+1155. You say that your discounts, either at your own counter or through the bill-brokers, are ordinarily very large, but that at the time of severest pressure you contracted them so far as you thought was just to your own immediate customers?—Yes; but the capital was still there, because it was at the Bank of England, and it was capable of being used for short periods; if we did not want it, others might have used it.
+
+1156. Mr. Weguelin.] In fact, it was used by the Bank of England?—Undoubtedly; I should suppose so; there is no question about it.
+
+1157. You, of course, felt quite certain that your deposits in the Bank of England might be had upon demand?—We had no doubt about it.
+
+1158. You did not take into consideration the effect of the law of 1844, which might have placed the Banking Department of the Bank of England in such a position as not to be able to meet the demands of its depositors?—I must say that that never gave us the smallest concern.
+
+1159. You therefore considered that, if the time should arrive, the Government would interfere with some measure as they had previously done to enable the Bank to meet the demands upon it?—We should always have thought that if the Bank of England had stopped payment, all the machinery of Government would have stopped with it, and we never could have believed that so formidable a calamity would have arisen if the Government could have prevented it.
+
+1160. Chairman.] The notion of the convertibility of the note being in danger never crossed your mind?—Never for a moment; nothing of the kind.
+
+1161. Mr. Weguelin.] I refer not to the convertibility of the note, but to the state of the Banking Department of the Bank of England?—If we had thought that there was any doubt whatever about it, we should have taken our bank-notes and put them in our own strong chest. We could never for a moment believe an event of that kind as likely to happen.
+
+1162. Therefore you think that the measure taken by the Government, of issuing a letter authorising the Bank of England to increase their issues of notes upon securities, was what was generally expected by the commercial world, and what in future the commercial world would look to in such a conjunction of circumstances?—We looked for some measure of that nature. That, no doubt, was the most obvious one. We had great doubts whether it would come when it did, until the very last moment.
+
+1163. Have you ever contemplated the possibility of the Bank refusing to advance, under circumstances similar to those which existed in November, 1857, upon good banking securities?—Of course I have, and it is a very difficult question to answer as to what its effect might be; but the notion appears to me to be so thoroughly ingrained in the minds of the commercial world, that whenever you have good security it ought to be convertible at the Bank in some shape or way, that I have very great doubt indeed whether the Bank can ever take a position to refuse to assist persons who have good commercial securities to offer.
+
+1164. Mr. Cayley.] When you say that you have come to some fresh arrangement with regard to your allowance of interest upon deposits, do you speak of yourselves as the London and Westminster Bank, or of some of the other banks in combination with yourselves?—I think all the banks have come to an understanding that it is not desirable, either for their proprietors or for the public, to follow closely at all times the alterations of the Bank. I believe it is understood amongst them all that they do not intend following that course in future.
+
+1165. Is that from a feeling that it is rather dangerous under particular circumstances?—I cannot admit as to its being dangerous, but there can be no doubt of this, that there is a notion in the public mind which we ought not to contend against, that when you offer a high rate of interest for money, you rather do it because you want the person's money, than because you are obeying the market rate; and I think it is desirable that we should show that if persons wish to employ their money, and want an excessive rate, they may take it away and employ it themselves.
+
+1166. You think that there is now a general understanding amongst the banks which you have mentioned, to act upon a different principle from that on which they acted during last October and November?—I think I may say that I know that to be the case.
+
+1167. Was not it the fact that this system of giving so high a rate of interest upon money at call commenced very much with the establishment of some banks during the last year or two, which, instead of demanding 10 days' or a month's notice, were willing to allow interest upon only three days' notice; did not that system begin about two years ago?—I do not think it began with the new banks; I think it began with one of the older banks; I know that as regards my own bank, that we were forced into it; I forgot to say, that with regard to ourselves in taking money on deposit, the parties must leave the money a month, or they lose interest. We do not take money from any depositor at interest unless upon the understanding and condition that it remains a month with us; he may withdraw it within the month, but then he forfeits interest; it will not carry interest unless it is with us a month, and then it is removable on demand without notice.
+
+1168. Is it or is it not a fact that some of the banks pay interest upon their current accounts?—Yes, I think most of the new banks do so; and the Union Bank of London does it.
+
+1169. At a smaller rate than upon their deposits, I presume?—I think at a smaller rate, but I believe it is a fixed rate on the minimum balance for some period, either six months or one month, I do not exactly know the period. I think I ought to add (and I believe it is the case with all the banks) that the London and Westminster Bank, from the day of its first institution until the present day, has never re-discounted a bill. No bill has ever left our bank unless it has been for payment.
+
+1170. Is not that generally the case with the London joint stock banks?—I believe it is the case.
+
+1171. Mr. Weguelin.] But you sometimes lend money upon bills deposited with you by bill-brokers?—Yes.
+
+1172. And you occasionally call in that money and re-deliver those securities?—Yes; but that we do to a very small extent.
+
+1173. Is not that equivalent to a re-discount of bills?—No; the discount of a bill and the lending money on bills are very different things. When we discount a bill, that bill becomes our property; it is in our control, and we keep it and lock it up until it falls due; but when brokers come to us and want to borrow, say 50,000l. on a deposit of bills, and we let them have the money and afterwards return those bills to them and we get back our money, surely that is not a re-discount.
+
+1174. When you want to employ your money for a short period, do you not frequently take bills of long date, and advance upon them?—But that is not a re-discount on our part. Very often brokers in borrowing money send in bills of long date, and afterwards we call in that loan; but that is no more a re-discount than lending money upon consols and calling in that money again. It is not an advance of ours; we do not seek it; they come to us and borrow our money, and give us a security; when we want our money we call for that money, and return their security. Surely that is not a re-discount.
+
+1175. Mr. Hankey.] Is there not this clear distinction between returning a bill on which you have made an advance and discounting a bill, that if you have discounted a bill your liability continues upon the bill until that bill has come to maturity?—Yes.
+
+1176. In the other case you have no further liability whatever?—Certainly.
+
+1177. Should you not consider that a very important distinction?—I think it is an important distinction. Take this case: suppose a party comes to us and borrows 50,000l., and we lend it him, and when the loan becomes due we take our money back again. Surely that is not a discount on our part.
+
+1178. Is there not this distinction, that if you re-discount you may go on pledging the liability of your bank to an almost unlimited amount, whereas in the other case you only get back that money which you have lent?—Undoubtedly.
+
+1179. Mr. Cayley.] The late Chancellor of the Exchequer stated before the adjournment, in a speech in the House of Commons, that during the Monday, Tuesday, Wednesday, and Thursday of the panic, the Bank was almost, if not entirely, the only body that discounted commercial bills; how can you reconcile that with what you have said, that you gave as much accommodation as usual to your customers?—I am not responsible for what the Chancellor of the Exchequer said; I am responsible for what I am now stating as to the course of our bank, that our advances to our customers on the 31st of December were nearly 500,000l. higher than they were on the 31st of October. With regard to our not discounting for other parties, it was in consequence of the discredit which prevailed, that it was necessary we should hold a portion of our deposits in order that they should be available in case persons called for them; a certain number of persons did so; in the month of November we had a reduction of our deposits, and if we had gone on discounting for brokers we should have had to go into the market ourselves to raise money on our Government securities, but we avoided that by not discounting, and leaving our money at the Bank of England.
+
+1180. Then you did not discount as much as usual for your customers during that period?—Yes. we did, and more.
+
+1181. But not to strangers?—Not to strangers; I make a distinction between our transactions with our customers, who of course expect us to give accommodation, and discounts for brokers, which is entirely voluntary, depending upon our having money to employ.
+
+1182. How would it have been if the letter had not issued at the last moment?—That is a question which I can hardly answer.
+
+1183. What do you mean by that general expression of yours?—It is impossible to predicate what may happen in time of panic and alarm. A great alarm prevailed certainly amongst the commercial world, and it could never have been alleviated, except by some extraordinary means of relief. We might probably have been in the state in which Hamburg was, where they have no bank-notes in circulation.
+
+1184. Mr. Spooner.] What did you mean by the expression, 'the last moment'? You said that the letter came out at the last moment; the last moment of what?—It was late in the day; it was a day of great distress. For two days there was a great deal of anxiety, and everybody expected that there would be some relief; and it was when expectation, I suppose, was highly excited that the letter came, and it gave relief.
+
+1185. Cannot you tell us what your opinion would have been, if that last moment had happened to have elapsed, and the letter had not come?—It is very difficult to say; it is too much to say that it could not have been got over. There can be no doubt whatever that what created the difficulty existed out of London, and not in it; and therefore it is much more difficult for me to give an opinion. I believe that the banking interest, both private and joint stock, was in a perfectly sound condition, and able to bear any strain which might have been brought upon it in London.
+
+1186. Mr. Hankey.] Can you give the Committee any idea as to what proportion of deposits you consider generally desirable to keep in reserve?—You must be very much guided by circumstances. In times of alarm, when there are failures, of course all bankers strengthen their reserves; our reserve then is larger. In times of ordinary business we find, both as regards our deposits at interest as well as those which are not at interest, that there is a constant circulation; that the receipts of money very nearly meet the payments.
+
+1187. You probably keep at all times a certain amount of your deposits totally unemployed; in reserve?—Yes.
+
+1188. In a normal state of commercial affairs, is there any fixed proportion, or can you give the Committee any idea of what you would consider about a fair and desirable proportion which should be so kept unemployed?—I think the best idea which I can give upon that subject is to give our annual statement, or balance sheet, for the 31st of December.
+
+1189. Does that show what amount of unemployed money you had on that day?—Yes. I will put in a statement, which perhaps will be the best means of meeting the question, showing the cash in hand on the 30th of June and the 31st of December in every year, as shown by our published accounts, together with our money at call and our Government securities; that will be perhaps the best and most convenient way of giving the information you desire to have. (See Table below.)
+
+1190. Do you consider that when your deposits are materially on the increase it is necessary to keep a larger amount of money in reserve than you would keep at other times?—I may say that, as a general rule, our reserve would always bear some proportion to our deposits.
+
+1191. Do you employ your money in the discounting of bills for other persons than your own customers?—Discount brokers.
+
+1192. Only to discount brokers?—Yes.
+
+1193. Not to strangers who are in the habit of bringing you in bills; commercial houses?—I should say generally not. We have one or two houses for whom we discount who have not accounts with us as bankers, but generally we do not discount except for our customers or for bill-brokers.
+
+1194. Do you consider that any advantage can arise to the public by the Bank of England advancing to a greater extent than can be considered strictly prudent on the soundest principle of banking, under the idea of their affording aid to the commercial world?—As I said before, as long as there are good bills in circulation, that is, bills about which there would be no doubt of their being paid at maturity, there should be some means by which those bills could be discounted.
+
+1195. And do you think that it is part of the functions of the Bank of England to discount a bill for anybody, merely because the party holding the bill wishes to convert it into cash?—As I said before, the Bank of England will have great difficulty in getting rid of that inconvenient idea which there is in the mind of the public, that the Bank of England is something more than an ordinary joint stock bank. I think it must depend very much upon circumstances whether you can or cannot refuse the discount of good bills which are offered to you.

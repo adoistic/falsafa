@@ -1,0 +1,26 @@
+{
+  "work_slug": "etienne-de-la-boetie-the-discourse-of-voluntary-servi-b0ceb4",
+  "work_title": "The Discourse of Voluntary Servitude",
+  "chapter_number": 2,
+  "chapter_title": "PART II.",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f5df5c4e-fbfc-523d-b529-ec5fb111e564",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6746,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/kurz-the-discourse-of-voluntary-servitude"
+    }
+  ]
+}

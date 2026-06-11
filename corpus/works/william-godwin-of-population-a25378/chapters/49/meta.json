@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-godwin-of-population-a25378",
+  "work_title": "Of Population",
+  "chapter_number": 49,
+  "chapter_title": "Chapter II.: of the number of human beings which the globe is capable of maintaining on our present systems of husbandry",
+  "chapter_slug": "49",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "00ad3049-32b2-5ff5-8f78-6bdd1972d001",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1869,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
+    }
+  ]
+}

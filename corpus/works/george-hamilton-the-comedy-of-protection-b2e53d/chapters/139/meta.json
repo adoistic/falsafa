@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 139,
+  "chapter_title": "CHAPTER II: TAXES ON EXTRA EUROPEAN GOODS IMPORTED FROM A EUROPEAN COUNTRY",
+  "chapter_slug": "139",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7cb1819a-eaf4-59ef-a417-f77a0d07889b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1202,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

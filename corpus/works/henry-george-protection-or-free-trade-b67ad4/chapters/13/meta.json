@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-protection-or-free-trade-b67ad4",
+  "work_title": "Protection or Free Trade",
+  "chapter_number": 13,
+  "chapter_title": "Chapter XII EXPORTS AND IMPORTS.",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b511fb52-d52f-5b99-ad9b-894bd9f3f971",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3004,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-protection-or-free-trade"
+    }
+  ]
+}

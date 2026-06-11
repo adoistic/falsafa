@@ -1,0 +1,27 @@
+---
+work_id: "20a14cb3-7dd1-579a-9282-22e87e83cc40"
+work_slug: "william-stanley-jevons-the-theory-of-political-economy-20a14c"
+work_title: The Theory of Political Economy
+author_name: William Stanley Jevons
+chapter_number: 86
+chapter_title: The Noxious Influence of Authority.
+chapter_slug: "86-the-noxious-influence-of-authority"
+variant_id: "05e5749c-25e3-5138-aaaf-2f5a3151d5c8"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 635
+source_url: "https://oll.libertyfund.org/titles/jevons-the-theory-of-political-economy"
+translator: Online Library of Liberty edition
+---
+
+I have but a few lines more to add. I have ventured in the preceding pages to call in question not a few of the favourite doctrines of economists. To me it is far more pleasant to agree than to differ; but it is impossible that one who has any regard for truth can long avoid protesting against doctrines which seem to him to be erroneous. There is ever a tendency of the most hurtful kind to allow opinions to crystallise into creeds. Especially does this tendency manifest itself when some eminent author, enjoying power of clear and comprehensive exposition, becomes recognised as an authority. His works may perhaps be the best which are extant upon the subject in question; they may combine more truth with less error than we can elsewhere meet. But "to err is human," and the best works should ever be open to criticism. If, instead of welcoming inquiry and criticism, the admirers of a great author accept his writings as authoritative, both in their excellences and in their defects, the most serious injury is done to truth. In matters of philosophy and science authority has ever been the Edition: current; Page: [274] great opponent of truth. A despotic calm is usually the triumph of error. In the republic of the sciences sedition and even anarchy are beneficial in the long run to the greatest happiness of the greatest number.
+
+In the physical sciences authority has greatly lost its noxious influence. Chemistry, in its brief existence of a century, has undergone three or four complete revolutions of theory. In the science of light, Newton's own authority was decisively set aside, though not until after it had retarded for nearly a century the progress of inquiry. Astronomers have not hesitated, within the last few years, to alter their estimates of all the dimensions of the planetary system, and of the universe, because good reasons have been shown for calling in question the real coincidence of previous measurements. In science and philosophy nothing must be held sacred. Truth indeed is sacred; but, as Pilate said, "What is truth?" Show us the undoubted infallible criterion of absolute truth, and we will hold it as a sacred inviolable thing. But in the absence of that infallible criterion, we have all an equal right to grope about in our search of it, and no body and no school nor clique must be allowed to set up a standard of orthodoxy which shall bar the freedom of scientific inquiry.
+
+I have added these words because I think there is some fear of the too great influence of authoritative writers in Political Economy. I protest against deference for any man, whether John Stuart Mill, or Edition: current; Page: [275] Adam Smith, or Aristotle, being allowed to check inquiry. Our science has become far too much a stagnant one, in which opinions rather than experience and reason are appealed to.
+
+There are valuable suggestions towards the improvement of the science contained in the works of such writers as Senior, Cairnes, Macleod, Cliffe-Leslie, Hearn, Shadwell, not to mention a long series of French economists from Baudeau and Le Trosne down to Bastiat and Courcelle-Seneuil; but they are neglected in England, because the excellence of their works was not comprehended by David Ricardo, the two Mills, Professor Fawcett, and others who have made the orthodox Ricardian school what it is. Under these circumstances it is a positive service to break the monotonous repetition of current questionable doctrines, even at the risk of new error. I trust that the theory now given may prove accurate; but, however this may be, it will not be useless if it cause inquiry to be directed into the true basis and form of a science which touches so directly the material welfare of the human race.

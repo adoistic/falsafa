@@ -1,0 +1,26 @@
+{
+  "work_slug": "knut-wicksell-the-influence-of-the-rate-of-int-4e7ec4",
+  "work_title": "The Influence of the Rate of Interest on Prices",
+  "chapter_number": 1,
+  "chapter_title": "Knut Wicksell, “The Influence of the Rate of Interest on Prices”, Economic Journal, XVII (1907), pp. 213–220. A paper re",
+  "chapter_slug": "01-knut-wicksell-the-influence-of-the-rate-of-interes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da5975cf-2bdf-5723-88c2-bcfb5ff4c4d7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3121,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wicksell-the-influence-of-the-rate-of-interest-on-prices"
+    }
+  ]
+}

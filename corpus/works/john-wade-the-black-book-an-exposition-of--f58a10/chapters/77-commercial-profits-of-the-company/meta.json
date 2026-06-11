@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 77,
+  "chapter_title": "COMMERCIAL PROFITS OF THE COMPANY.",
+  "chapter_slug": "77-commercial-profits-of-the-company",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14eb2d76-669b-51bb-a9cd-a4aa0498003e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1868,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

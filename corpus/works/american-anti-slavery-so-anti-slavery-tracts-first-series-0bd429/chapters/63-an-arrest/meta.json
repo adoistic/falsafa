@@ -1,0 +1,26 @@
+{
+  "work_slug": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+  "work_title": "Anti-Slavery Tracts, First Series",
+  "chapter_number": 63,
+  "chapter_title": "AN ARREST.",
+  "chapter_slug": "63-an-arrest",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d624c343-5632-561d-9c34-6634e7f8d385",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1640,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/anti-slavery-tracts-first-series-nos-1-20-1855-56"
+    }
+  ]
+}

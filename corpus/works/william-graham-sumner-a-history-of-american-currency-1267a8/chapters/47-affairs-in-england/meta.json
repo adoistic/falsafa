@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 47,
+  "chapter_title": "AFFAIRS IN ENGLAND.",
+  "chapter_slug": "47-affairs-in-england",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c1bf3914-a59b-5ff3-8b07-121383b5c242",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 136,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

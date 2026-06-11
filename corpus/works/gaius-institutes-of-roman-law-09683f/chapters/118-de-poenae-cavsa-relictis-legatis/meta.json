@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 118,
+  "chapter_title": "[DE POENAE CAVSA RELICTIS LEGATIS.]",
+  "chapter_slug": "118-de-poenae-cavsa-relictis-legatis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "87b2ebba-7187-5c5d-add6-d1573a989e79",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1570,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

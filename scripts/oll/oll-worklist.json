@@ -1,0 +1,1804 @@
+{
+ "works": [
+  {
+   "slug": "figgis-lectures-on-modern-history",
+   "author": "John Emerich Edward Dalberg-Acton (Lord Acton)",
+   "author_dates": "1834\u20131902",
+   "title": "Lectures on Modern History (Figgis ed.)",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/209/acton-lectures-on-modern-history.epub"
+  },
+  {
+   "slug": "laurence-historical-essays-and-studies",
+   "author": "John Emerich Edward Dalberg-Acton (Lord Acton)",
+   "author_dates": "1834\u20131902",
+   "title": "Historical Essays and Studies",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2201/acton-historical-essays-and-studies.epub"
+  },
+  {
+   "slug": "paul-letters-of-lord-acton-to-mary-daughter-of-the-right-hon-w-e-gladstone",
+   "author": "John Emerich Edward Dalberg-Acton (Lord Acton)",
+   "author_dates": "1834\u20131902",
+   "title": "Letters of Lord Acton to Mary Gladstone",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2064/acton-letters-of-lord-acton-to-mary-daughter-of-the-right-hon-w-e-gladstone.epub"
+  },
+  {
+   "slug": "acton-the-history-of-freedom-and-other-essays",
+   "author": "John Emerich Edward Dalberg-Acton (Lord Acton)",
+   "author_dates": "1834\u20131902",
+   "title": "The History of Freedom and Other Essays",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/75/acton-the-history-of-freedom-and-other-essays.epub"
+  },
+  {
+   "slug": "spencer-social-statics-1851",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "Social Statics",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/273/spencer-social-statics-1851.epub"
+  },
+  {
+   "slug": "spencer-the-data-of-ethics-1879",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "The Data of Ethics",
+   "era": "19th Century",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/331/spencer-the-data-of-ethics-1879.epub"
+  },
+  {
+   "slug": "spencer-political-institutions-being-part-v-of-the-principles-of-sociology",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "Political Institutions (Principles of Sociology, Part V)",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1336/spencer-political-institutions-being-part-v-of-the-principles-of-sociology.epub"
+  },
+  {
+   "slug": "spencer-the-principles-of-psychology-1855",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "The Principles of Psychology",
+   "era": "19th Century",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1394/spencer-the-principles-of-psychology-1855.epub"
+  },
+  {
+   "slug": "spencer-the-study-of-sociology-1873",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "The Study of Sociology",
+   "era": "19th Century",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1335/spencer-the-study-of-sociology-1873.epub"
+  },
+  {
+   "slug": "spencer-first-principles-1867",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "First Principles",
+   "era": "19th Century",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1390/spencer-first-principles-1867.epub"
+  },
+  {
+   "slug": "tocqueville-the-old-regime-and-the-revolution-1856",
+   "author": "Alexis de Tocqueville",
+   "author_dates": "1805\u20131859",
+   "title": "The Old Regime and the Revolution",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2419/tocqueville-the-old-regime-and-the-revolution-1856.epub"
+  },
+  {
+   "slug": "de-mattos-the-recollections-of-alexis-de-tocqueville-1896",
+   "author": "Alexis de Tocqueville",
+   "author_dates": "1805\u20131859",
+   "title": "The Recollections of Alexis de Tocqueville",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2421/tocqueville-the-recollections-of-alexis-de-tocqueville-1896.epub"
+  },
+  {
+   "slug": "bentham-defence-of-usury",
+   "author": "Jeremy Bentham",
+   "author_dates": "1748\u20131832",
+   "title": "Defence of Usury",
+   "era": "Enlightenment",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/277/bentham-defence-of-usury.epub"
+  },
+  {
+   "slug": "bentham-an-introduction-to-the-principles-of-morals-and-legislation",
+   "author": "Jeremy Bentham",
+   "author_dates": "1748\u20131832",
+   "title": "An Introduction to the Principles of Morals and Legislation",
+   "era": "Enlightenment",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/278/bentham-an-introduction-to-the-principles-of-morals-and-legislation.epub"
+  },
+  {
+   "slug": "bentham-a-protest-against-law-taxes",
+   "author": "Jeremy Bentham",
+   "author_dates": "1748\u20131832",
+   "title": "A Protest Against Law-Taxes",
+   "era": "Enlightenment",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/603/bentham-a-protest-against-law-taxes.epub"
+  },
+  {
+   "slug": "spooner-no-treason-no-vi-the-constitution-of-no-authority-1870",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "No Treason, No. VI: The Constitution of No Authority",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2194/spooner-no-treason-no-vi-the-constitution-of-no-authority-1870.epub"
+  },
+  {
+   "slug": "spooner-the-unconstitutionality-of-slavery-1860",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "The Unconstitutionality of Slavery",
+   "era": "19th Century",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2206/spooner-the-unconstitutionality-of-slavery-1860.epub"
+  },
+  {
+   "slug": "spooner-natural-law-or-the-science-of-justice-1882",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "Natural Law, or the Science of Justice",
+   "era": "19th Century",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2182/spooner-natural-law-or-the-science-of-justice-1882.epub"
+  },
+  {
+   "slug": "spooner-an-essay-on-the-trial-by-jury-1852",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "An Essay on the Trial by Jury",
+   "era": "19th Century",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2181/Spooner_TrialJury.epub"
+  },
+  {
+   "slug": "spooner-a-letter-to-grover-cleveland-1886",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "A Letter to Grover Cleveland",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2224/spooner-a-letter-to-grover-cleveland-1886.epub"
+  },
+  {
+   "slug": "spooner-the-law-of-intellectual-property-1855",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "The Law of Intellectual Property",
+   "era": "19th Century",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2243/spooner-the-law-of-intellectual-property-1855.epub"
+  },
+  {
+   "slug": "malthus-an-essay-on-the-principle-of-population-1798-1st-ed",
+   "author": "Thomas Robert Malthus",
+   "author_dates": "1766\u20131834",
+   "title": "An Essay on the Principle of Population (1st ed., 1798)",
+   "era": "Enlightenment",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/311/malthus-an-essay-on-the-principle-of-population-1798-1st-ed.epub"
+  },
+  {
+   "slug": "menger-grundsatze-der-volkswirtschaftslehre",
+   "author": "Carl Menger",
+   "author_dates": "1840\u20131921",
+   "title": "Grunds\u00e4tze der Volkswirtschaftslehre",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1279/menger-grundsatze-der-volkswirtschaftslehre.epub"
+  },
+  {
+   "slug": "malthus-principles-of-political-economy",
+   "author": "Thomas Robert Malthus",
+   "author_dates": "1766\u20131834",
+   "title": "Principles of Political Economy",
+   "era": "Enlightenment",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2188/malthus-principles-of-political-economy.epub"
+  },
+  {
+   "slug": "jevons-the-theory-of-political-economy",
+   "author": "William Stanley Jevons",
+   "author_dates": "1835\u20131882",
+   "title": "The Theory of Political Economy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/625/jevons-the-theory-of-political-economy.epub"
+  },
+  {
+   "slug": "jevons-methods-of-social-reform-and-other-papers",
+   "author": "William Stanley Jevons",
+   "author_dates": "1835\u20131882",
+   "title": "Methods of Social Reform and Other Papers",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/316/jevons-methods-of-social-reform-and-other-papers.epub"
+  },
+  {
+   "slug": "malthus-definitions-in-political-economy",
+   "author": "Thomas Robert Malthus",
+   "author_dates": "1766\u20131834",
+   "title": "Definitions in Political Economy",
+   "era": "Enlightenment",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2255/malthus-definitions-in-political-economy.epub"
+  },
+  {
+   "slug": "jevons-money-and-the-mechanism-of-exchange",
+   "author": "William Stanley Jevons",
+   "author_dates": "1835\u20131882",
+   "title": "Money and the Mechanism of Exchange",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/318/jevons-money-and-the-mechanism-of-exchange.epub"
+  },
+  {
+   "slug": "jevons-the-coal-question",
+   "author": "William Stanley Jevons",
+   "author_dates": "1835\u20131882",
+   "title": "The Coal Question",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/317/jevons-the-coal-question.epub"
+  },
+  {
+   "slug": "maine-lectures-on-the-early-history-of-institutions",
+   "author": "Henry Sumner Maine",
+   "author_dates": "1822\u20131888",
+   "title": "Lectures on the Early History of Institutions",
+   "era": "19th Century",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2040/maine-lectures-on-the-early-history-of-institutions.epub"
+  },
+  {
+   "slug": "senior-three-lectures-on-the-rate-of-wages",
+   "author": "Nassau William Senior",
+   "author_dates": "1790\u20131864",
+   "title": "Three Lectures on the Rate of Wages",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/117/senior-three-lectures-on-the-rate-of-wages.epub"
+  },
+  {
+   "slug": "senior-political-economy-1850-ed",
+   "author": "Nassau William Senior",
+   "author_dates": "1790\u20131864",
+   "title": "Political Economy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/116/senior-political-economy-1850-ed.epub"
+  },
+  {
+   "slug": "senior-four-introductory-lectures-on-political-economy",
+   "author": "Nassau William Senior",
+   "author_dates": "1790\u20131864",
+   "title": "Four Introductory Lectures on Political Economy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2289/senior-four-introductory-lectures-on-political-economy.epub"
+  },
+  {
+   "slug": "maine-dissertations-on-early-law-and-custom",
+   "author": "Henry Sumner Maine",
+   "author_dates": "1822\u20131888",
+   "title": "Dissertations on Early Law and Custom",
+   "era": "19th Century",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2078/maine-dissertations-on-early-law-and-custom.epub"
+  },
+  {
+   "slug": "pollock-ancient-law",
+   "author": "Henry Sumner Maine",
+   "author_dates": "1822\u20131888",
+   "title": "Ancient Law",
+   "era": "19th Century",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2001/maine-ancient-law.epub"
+  },
+  {
+   "slug": "senior-letters-on-the-factory-act",
+   "author": "Nassau William Senior",
+   "author_dates": "1790\u20131864",
+   "title": "Letters on the Factory Act",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2120/senior-letters-on-the-factory-act.epub"
+  },
+  {
+   "slug": "hodgskin-popular-political-economy-four-lectures-delivered-at-the-london-mechanics-institution",
+   "author": "Thomas Hodgskin",
+   "author_dates": "1787\u20131869",
+   "title": "Popular Political Economy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/320/hodgskin-popular-political-economy-four-lectures-delivered-at-the-london-mechanics-institution.epub"
+  },
+  {
+   "slug": "hodgskin-the-natural-and-artificial-right-of-property-contrasted",
+   "author": "Thomas Hodgskin",
+   "author_dates": "1787\u20131869",
+   "title": "The Natural and Artificial Right of Property Contrasted",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/323/hodgskin-the-natural-and-artificial-right-of-property-contrasted.epub"
+  },
+  {
+   "slug": "hodgskin-a-lecture-on-free-trade-in-connexion-with-the-corn-laws",
+   "author": "Thomas Hodgskin",
+   "author_dates": "1787\u20131869",
+   "title": "A Lecture on Free Trade in Connexion with the Corn Laws",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/321/hodgskin-a-lecture-on-free-trade-in-connexion-with-the-corn-laws.epub"
+  },
+  {
+   "slug": "bright-selected-speeches-of-the-rt-hon-john-bright-m-p-on-public-questions",
+   "author": "John Bright",
+   "author_dates": "1811\u20131889",
+   "title": "Selected Speeches on Public Questions",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1658/bright-selected-speeches-of-the-rt-hon-john-bright-m-p-on-public-questions.epub"
+  },
+  {
+   "slug": "morley-the-life-of-richard-cobden",
+   "author": "John Morley",
+   "author_dates": "1838\u20131923",
+   "title": "The Life of Richard Cobden",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1742/morley-the-life-of-richard-cobden.epub"
+  },
+  {
+   "slug": "erasmus-in-praise-of-folly",
+   "author": "Desiderius Erasmus",
+   "author_dates": "1466\u20131536",
+   "title": "In Praise of Folly",
+   "era": "Renaissance",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/551/erasmus-in-praise-of-folly.epub"
+  },
+  {
+   "slug": "erasmus-the-complaint-of-peace",
+   "author": "Desiderius Erasmus",
+   "author_dates": "1466\u20131536",
+   "title": "The Complaint of Peace",
+   "era": "Renaissance",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/87/erasmus-the-complaint-of-peace.epub"
+  },
+  {
+   "slug": "erasmus-the-manual-of-a-christian-knight",
+   "author": "Desiderius Erasmus",
+   "author_dates": "1466\u20131536",
+   "title": "The Manual of a Christian Knight (Enchiridion)",
+   "era": "Renaissance",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/191/erasmus-the-manual-of-a-christian-knight.epub"
+  },
+  {
+   "slug": "scott-the-freedom-of-the-seas-latin-and-english-version-magoffin-trans",
+   "author": "Hugo Grotius",
+   "author_dates": "1583\u20131645",
+   "title": "The Freedom of the Seas (Mare Liberum)",
+   "era": "Renaissance",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/552/grotius-the-freedom-of-the-seas-latin-and-english-version-magoffin-trans.epub"
+  },
+  {
+   "slug": "grotius-the-rights-of-war-and-peace-1901-ed",
+   "author": "Hugo Grotius",
+   "author_dates": "1583\u20131645",
+   "title": "The Rights of War and Peace",
+   "era": "Renaissance",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/553/grotius-the-rights-of-war-and-peace-1901-ed.epub"
+  },
+  {
+   "slug": "ferguson-an-essay-on-the-history-of-civil-society",
+   "author": "Adam Ferguson",
+   "author_dates": "1723\u20131816",
+   "title": "An Essay on the History of Civil Society",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1428/ferguson-an-essay-on-the-history-of-civil-society.epub"
+  },
+  {
+   "slug": "mcculloch-treatises-and-essays-on-subjects-connected-with-economic-policy-1853",
+   "author": "John Ramsay McCulloch",
+   "author_dates": "1789\u20131864",
+   "title": "Treatises and Essays on Subjects Connected with Economic Policy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2209/mcculloch-treatises-and-essays-on-subjects-connected-with-economic-policy-1853.epub"
+  },
+  {
+   "slug": "overton-an-arrow-against-all-tyrants",
+   "author": "Richard Overton",
+   "author_dates": "fl. 1640\u20131664",
+   "title": "An Arrow Against All Tyrants",
+   "era": "Renaissance",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2252/overton-an-arrow-against-all-tyrants.epub"
+  },
+  {
+   "slug": "lindsay-puritanism-and-liberty-being-the-army-debates-1647-9",
+   "author": "The Levellers",
+   "author_dates": "fl. 1638\u20131660",
+   "title": "Puritanism and Liberty: The Army Debates (1647\u20139)",
+   "era": "Renaissance",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2183/woodhouse-puritanism-and-liberty-being-the-army-debates-1647-9.epub"
+  },
+  {
+   "slug": "mcculloch-a-treatise-on-metallic-and-paper-money-and-banks-1858",
+   "author": "John Ramsay McCulloch",
+   "author_dates": "1789\u20131864",
+   "title": "A Treatise on Metallic and Paper Money and Banks",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2591/mcculloch-a-treatise-on-metallic-and-paper-money-and-banks-1858.epub"
+  },
+  {
+   "slug": "bryce-the-holy-roman-empire",
+   "author": "James Bryce",
+   "author_dates": "1838\u20131922",
+   "title": "The Holy Roman Empire",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2337/bryce-the-holy-roman-empire.epub"
+  },
+  {
+   "slug": "bagehot-lombard-street-a-description-of-the-money-market",
+   "author": "Walter Bagehot",
+   "author_dates": "1826\u20131877",
+   "title": "Lombard Street: A Description of the Money Market",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/128/bagehot-lombard-street-a-description-of-the-money-market.epub"
+  },
+  {
+   "slug": "condorcet-outlines-of-an-historical-view-of-the-progress-of-the-human-mind",
+   "author": "Marquis de Condorcet",
+   "author_dates": "1743\u20131794",
+   "title": "Outlines of an Historical View of the Progress of the Human Mind",
+   "era": "Enlightenment",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1669/condorcet-outlines-of-an-historical-view-of-the-progress-of-the-human-mind.epub"
+  },
+  {
+   "slug": "turgot-reflections-on-the-formation-and-distribution-of-riches",
+   "author": "Anne Robert Jacques Turgot",
+   "author_dates": "1727\u20131781",
+   "title": "Reflections on the Formation and Distribution of Riches",
+   "era": "Enlightenment",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/122/turgot-reflections-on-the-formation-and-distribution-of-riches.epub"
+  },
+  {
+   "slug": "condorcet-on-the-admission-of-women-to-the-rights-of-citizenship",
+   "author": "Marquis de Condorcet",
+   "author_dates": "1743\u20131794",
+   "title": "On the Admission of Women to the Rights of Citizenship",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1013/condorcet-on-the-admission-of-women-to-the-rights-of-citizenship.epub"
+  },
+  {
+   "slug": "smith-the-theory-of-moral-sentiments-and-on-the-origins-of-languages-stewart-ed",
+   "author": "Adam Smith",
+   "author_dates": "1723\u20131790",
+   "title": "The Theory of Moral Sentiments",
+   "era": "Enlightenment",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2620/smith-the-theory-of-moral-sentiments-and-on-the-origins-of-languages-stewart-ed.epub"
+  },
+  {
+   "slug": "smith-lectures-on-justice-police-revenue-and-arms-1763",
+   "author": "Adam Smith",
+   "author_dates": "1723\u20131790",
+   "title": "Lectures on Justice, Police, Revenue, and Arms",
+   "era": "Enlightenment",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2621/smith-lectures-on-justice-police-revenue-and-arms-1763.epub"
+  },
+  {
+   "slug": "rae-life-of-adam-smith",
+   "author": "John Rae",
+   "author_dates": "1845\u20131915",
+   "title": "Life of Adam Smith",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1411/rae-life-of-adam-smith.epub"
+  },
+  {
+   "slug": "godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind",
+   "author": "William Godwin",
+   "author_dates": "1756\u20131836",
+   "title": "Of Population",
+   "era": "Enlightenment",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1720/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind.epub"
+  },
+  {
+   "slug": "ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888",
+   "author": "David Ricardo",
+   "author_dates": "1772\u20131823",
+   "title": "The Works of David Ricardo",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1395/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888.epub"
+  },
+  {
+   "slug": "wollstonecraft-a-vindication-of-the-rights-of-woman",
+   "author": "Mary Wollstonecraft",
+   "author_dates": "1759\u20131797",
+   "title": "A Vindication of the Rights of Woman",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/126/wollstonecraft-a-vindication-of-the-rights-of-woman.epub"
+  },
+  {
+   "slug": "wollstonecraft-a-vindication-of-the-rights-of-men",
+   "author": "Mary Wollstonecraft",
+   "author_dates": "1759\u20131797",
+   "title": "A Vindication of the Rights of Men",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/991/wollstonecraft-a-vindication-of-the-rights-of-men.epub"
+  },
+  {
+   "slug": "paine-the-rights-of-man-part-i-1791-ed",
+   "author": "Thomas Paine",
+   "author_dates": "1737\u20131809",
+   "title": "The Rights of Man",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/798/paine-the-rights-of-man-part-i-1791-ed.epub"
+  },
+  {
+   "slug": "tyrrell-patriarcha-non-monarcha-the-patriarch-unmonarch-d",
+   "author": "James Tyrrell",
+   "author_dates": "1642\u20131718",
+   "title": "Patriarcha non Monarcha",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2168/tyrrell-patriarcha-non-monarcha-the-patriarch-unmonarch-d.epub"
+  },
+  {
+   "slug": "filmer-patriarcha-or-the-natural-power-of-kings",
+   "author": "Sir Robert Filmer",
+   "author_dates": "1588\u20131653",
+   "title": "Patriarcha, or the Natural Power of Kings",
+   "era": "Renaissance",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/221/filmer-patriarcha-or-the-natural-power-of-kings.epub"
+  },
+  {
+   "slug": "hollis-the-two-treatises-of-civil-government-hollis-ed",
+   "author": "John Locke",
+   "author_dates": "1632\u20131704",
+   "title": "Two Treatises of Government",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/222/locke-the-two-treatises-of-civil-government-hollis-ed.epub"
+  },
+  {
+   "slug": "smith-leviathan-1909-ed",
+   "author": "Thomas Hobbes",
+   "author_dates": "1588\u20131679",
+   "title": "Leviathan",
+   "era": "Renaissance",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/869/hobbes-leviathan-1909-ed.epub"
+  },
+  {
+   "slug": "pollock-the-genius-of-the-common-law",
+   "author": "Sir Frederick Pollock",
+   "author_dates": "1845\u20131937",
+   "title": "The Genius of the Common Law",
+   "era": "19th Century",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1954/pollock-the-genius-of-the-common-law.epub"
+  },
+  {
+   "slug": "dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919",
+   "author": "A. V. Dicey",
+   "author_dates": "1835\u20131922",
+   "title": "Lectures on the Relation between Law and Public Opinion in England",
+   "era": "19th Century",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1683/dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919.epub"
+  },
+  {
+   "slug": "pollock-the-law-of-torts-4th-ed",
+   "author": "Sir Frederick Pollock",
+   "author_dates": "1845\u20131937",
+   "title": "The Law of Torts",
+   "era": "19th Century",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2123/pollock-the-law-of-torts-4th-ed.epub"
+  },
+  {
+   "slug": "sumner-a-history-of-american-currency",
+   "author": "William Graham Sumner",
+   "author_dates": "1840\u20131910",
+   "title": "A History of American Currency",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1653/sumner-a-history-of-american-currency.epub"
+  },
+  {
+   "slug": "sumner-protectionism-the-ism-which-teaches-that-waste-makes-wealth",
+   "author": "William Graham Sumner",
+   "author_dates": "1840\u20131910",
+   "title": "Protectionism: The -ism Which Teaches That Waste Makes Wealth",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1655/sumner-protectionism-the-ism-which-teaches-that-waste-makes-wealth.epub"
+  },
+  {
+   "slug": "keller-the-forgotten-man-and-other-essays-corrected-edition",
+   "author": "William Graham Sumner",
+   "author_dates": "1840\u20131910",
+   "title": "The Forgotten Man and Other Essays",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2396/sumner-the-forgotten-man-and-other-essays-corrected-edition.epub"
+  },
+  {
+   "slug": "sumner-what-social-classes-owe-to-each-other",
+   "author": "William Graham Sumner",
+   "author_dates": "1840\u20131910",
+   "title": "What Social Classes Owe to Each Other",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/346/sumner-what-social-classes-owe-to-each-other.epub"
+  },
+  {
+   "slug": "keller-war-and-other-essays",
+   "author": "William Graham Sumner",
+   "author_dates": "1840\u20131910",
+   "title": "War and Other Essays",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/345/sumner-war-and-other-essays.epub"
+  },
+  {
+   "slug": "george-progress-and-poverty",
+   "author": "Henry George",
+   "author_dates": "1839\u20131897",
+   "title": "Progress and Poverty",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/328/george-progress-and-poverty.epub"
+  },
+  {
+   "slug": "earth-hunger-and-other-essays-1913",
+   "author": "William Graham Sumner",
+   "author_dates": "1840\u20131910",
+   "title": "Earth-Hunger and Other Essays",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2747/earth-hunger-and-other-essays-1913.epub"
+  },
+  {
+   "slug": "marshall-principles-of-economics-8th-ed",
+   "author": "Alfred Marshall",
+   "author_dates": "1842\u20131924",
+   "title": "Principles of Economics",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1676/marshall-principles-of-economics-8th-ed.epub"
+  },
+  {
+   "slug": "george-protection-or-free-trade",
+   "author": "Henry George",
+   "author_dates": "1839\u20131897",
+   "title": "Protection or Free Trade",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1652/george-protection-or-free-trade.epub"
+  },
+  {
+   "slug": "clark-the-distribution-of-wealth-a-theory-of-wages-interest-and-profits",
+   "author": "John Bates Clark",
+   "author_dates": "1847\u20131938",
+   "title": "The Distribution of Wealth",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/329/clark-the-distribution-of-wealth-a-theory-of-wages-interest-and-profits.epub"
+  },
+  {
+   "slug": "wicksteed-the-commonsense-of-political-economy",
+   "author": "Philip H. Wicksteed",
+   "author_dates": "1844\u20131927",
+   "title": "The Common Sense of Political Economy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1415/wicksteed-the-commonsense-of-political-economy.epub"
+  },
+  {
+   "slug": "brown-the-purchasing-power-of-money",
+   "author": "Irving Fisher",
+   "author_dates": "1867\u20131947",
+   "title": "The Purchasing Power of Money",
+   "era": "20th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1165/fisher-the-purchasing-power-of-money.epub"
+  },
+  {
+   "slug": "veblen-the-theory-of-the-leisure-class-an-economic-study-of-institutions",
+   "author": "Thorstein Veblen",
+   "author_dates": "1857\u20131929",
+   "title": "The Theory of the Leisure Class",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1657/veblen-the-theory-of-the-leisure-class-an-economic-study-of-institutions.epub"
+  },
+  {
+   "slug": "knight-risk-uncertainty-and-profit",
+   "author": "Frank H. Knight",
+   "author_dates": "1885\u20131972",
+   "title": "Risk, Uncertainty and Profit",
+   "era": "20th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/306/knight-risk-uncertainty-and-profit.epub"
+  },
+  {
+   "slug": "fisher-the-theory-of-interest",
+   "author": "Irving Fisher",
+   "author_dates": "1867\u20131947",
+   "title": "The Theory of Interest",
+   "era": "20th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1416/fisher-the-theory-of-interest.epub"
+  },
+  {
+   "slug": "pigou-the-economics-of-welfare",
+   "author": "Arthur Cecil Pigou",
+   "author_dates": "1877\u20131959",
+   "title": "The Economics of Welfare",
+   "era": "20th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1410/pigou-the-economics-of-welfare.epub"
+  },
+  {
+   "slug": "keynes-the-economic-consequences-of-the-peace",
+   "author": "John Maynard Keynes",
+   "author_dates": "1883\u20131946",
+   "title": "The Economic Consequences of the Peace",
+   "era": "20th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/303/keynes-the-economic-consequences-of-the-peace.epub"
+  },
+  {
+   "slug": "oppenheimer-the-state",
+   "author": "Franz Oppenheimer",
+   "author_dates": "1864\u20131943",
+   "title": "The State",
+   "era": "20th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1662/oppenheimer-the-state.epub"
+  },
+  {
+   "slug": "smiles-self-help-with-illustrations-of-character-and-conduct",
+   "author": "Samuel Smiles",
+   "author_dates": "1812\u20131904",
+   "title": "Self-Help",
+   "era": "19th Century",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/297/smiles-self-help-with-illustrations-of-character-and-conduct.epub"
+  },
+  {
+   "slug": "smith-liberty-and-liberalism-1888",
+   "author": "Bruce Smith",
+   "author_dates": "1851\u20131937",
+   "title": "Liberty and Liberalism",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/296/smith-liberty-and-liberalism-1888.epub"
+  },
+  {
+   "slug": "hobson-imperialism-a-study",
+   "author": "John A. Hobson",
+   "author_dates": "1858\u20131940",
+   "title": "Imperialism: A Study",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/127/hobson-imperialism-a-study.epub"
+  },
+  {
+   "slug": "donisthorpe-law-in-a-free-state",
+   "author": "Wordsworth Donisthorpe",
+   "author_dates": "1847\u20131914",
+   "title": "Law in a Free State",
+   "era": "19th Century",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/290/donisthorpe-law-in-a-free-state.epub"
+  },
+  {
+   "slug": "levy-taxation-and-anarchism-a-discussion-between-the-hon-auberon-herbert-and-j-h-levy",
+   "author": "Auberon Herbert and J. H. Levy",
+   "author_dates": "1838\u20131906 / 1838\u20131913",
+   "title": "Taxation and Anarchism",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2257/herbert-taxation-and-anarchism-a-discussion-between-the-hon-auberon-herbert-and-j-h-levy.epub"
+  },
+  {
+   "slug": "donisthorpe-individualism-a-system-of-politics",
+   "author": "Wordsworth Donisthorpe",
+   "author_dates": "1847\u20131914",
+   "title": "Individualism: A System of Politics",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/291/donisthorpe-individualism-a-system-of-politics.epub"
+  },
+  {
+   "slug": "robertson-the-natural-history-of-religion",
+   "author": "David Hume",
+   "author_dates": "1711\u20131776",
+   "title": "The Natural History of Religion",
+   "era": "Enlightenment",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/340/hume-the-natural-history-of-religion.epub"
+  },
+  {
+   "slug": "constant-the-liberty-of-ancients-compared-with-that-of-moderns-1819",
+   "author": "Benjamin Constant",
+   "author_dates": "1767\u20131830",
+   "title": "The Liberty of the Ancients Compared with that of the Moderns",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2251/constant-the-liberty-of-ancients-compared-with-that-of-moderns-1819.epub"
+  },
+  {
+   "slug": "coulthard-the-sphere-and-duties-of-government-1792-1854",
+   "author": "Wilhelm von Humboldt",
+   "author_dates": "1767\u20131835",
+   "title": "The Sphere and Duties of Government",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/589/humboldt-the-sphere-and-duties-of-government-1792-1854.epub"
+  },
+  {
+   "slug": "voltaire-an-essay-on-crimes-and-punishments",
+   "author": "Cesare Beccaria",
+   "author_dates": "1738\u20131794",
+   "title": "An Essay on Crimes and Punishments",
+   "era": "Enlightenment",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2193/beccaria-an-essay-on-crimes-and-punishments.epub"
+  },
+  {
+   "slug": "abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics",
+   "author": "Immanuel Kant",
+   "author_dates": "1724\u20131804",
+   "title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+   "era": "Enlightenment",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/360/kant-kants-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics--3.epub"
+  },
+  {
+   "slug": "cole-the-social-contract-and-discourses",
+   "author": "Jean-Jacques Rousseau",
+   "author_dates": "1712\u20131778",
+   "title": "The Social Contract and Discourses",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/638/rousseau-the-social-contract-and-discourses.epub"
+  },
+  {
+   "slug": "rousseau-emile-or-education",
+   "author": "Jean-Jacques Rousseau",
+   "author_dates": "1712\u20131778",
+   "title": "Emile, or On Education",
+   "era": "Enlightenment",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2256/rousseau-emile-or-education.epub"
+  },
+  {
+   "slug": "bacon-novum-organum",
+   "author": "Francis Bacon",
+   "author_dates": "1561\u20131626",
+   "title": "Novum Organum",
+   "era": "Renaissance",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1432/bacon-novum-organum.epub"
+  },
+  {
+   "slug": "hastie-kant-s-principles-of-politics-including-his-essay-on-perpetual-peace",
+   "author": "Immanuel Kant",
+   "author_dates": "1724\u20131804",
+   "title": "Kant's Principles of Politics, including his Essay on Perpetual Peace",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/358/kant-kants-principles-of-politics-including-his-essay-on-perpetual-peace.epub"
+  },
+  {
+   "slug": "bernard-the-critique-of-judgement",
+   "author": "Immanuel Kant",
+   "author_dates": "1724\u20131804",
+   "title": "The Critique of Judgement",
+   "era": "Enlightenment",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1217/kant-the-critique-of-judgement.epub"
+  },
+  {
+   "slug": "bacon-the-advancement-of-learning",
+   "author": "Francis Bacon",
+   "author_dates": "1561\u20131626",
+   "title": "The Advancement of Learning",
+   "era": "Renaissance",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1433/bacon-the-advancement-of-learning.epub"
+  },
+  {
+   "slug": "priestley-an-essay-on-the-first-principles-of-government",
+   "author": "Joseph Priestley",
+   "author_dates": "1733\u20131804",
+   "title": "An Essay on the First Principles of Government",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1767/priestley-an-essay-on-the-first-principles-of-government.epub"
+  },
+  {
+   "slug": "molyneux-the-case-of-ireland-being-bound-by-acts-of-parliament-in-england-stated",
+   "author": "William Molyneux",
+   "author_dates": "1656\u20131698",
+   "title": "The Case of Ireland's Being Bound by Acts of Parliament in England, Stated",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1769/molyneux-the-case-of-ireland-being-bound-by-acts-of-parliament-in-england-stated.epub"
+  },
+  {
+   "slug": "price-observations-on-the-nature-of-civil-liberty",
+   "author": "Richard Price",
+   "author_dates": "1723\u20131791",
+   "title": "Observations on the Nature of Civil Liberty",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1781/price-observations-on-the-nature-of-civil-liberty.epub"
+  },
+  {
+   "slug": "toland-the-oceana-and-other-works",
+   "author": "James Harrington",
+   "author_dates": "1611\u20131677",
+   "title": "The Oceana and Other Works",
+   "era": "Renaissance",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/916/harrington-the-oceana-and-other-works.epub"
+  },
+  {
+   "slug": "court-the-true-interest-and-political-maxims-of-the-republic-of-holland",
+   "author": "Pieter de la Court",
+   "author_dates": "1618\u20131685",
+   "title": "The True Interest and Political Maxims of the Republic of Holland",
+   "era": "Renaissance",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/85/court-the-true-interest-and-political-maxims-of-the-republic-of-holland.epub"
+  },
+  {
+   "slug": "machiavelli-the-art-of-war-neville-trans",
+   "author": "Niccol\u00f2 Machiavelli",
+   "author_dates": "1469\u20131527",
+   "title": "The Art of War",
+   "era": "Renaissance",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/984/machiavelli-the-art-of-war-neville-trans.epub"
+  },
+  {
+   "slug": "paul-the-thoughts-of-blaise-pascal",
+   "author": "Blaise Pascal",
+   "author_dates": "1623\u20131662",
+   "title": "The Thoughts (Pens\u00e9es) of Blaise Pascal",
+   "era": "Renaissance",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2407/pascal-the-thoughts-of-blaise-pascal.epub"
+  },
+  {
+   "slug": "descartes-the-method-meditations-and-philosophy-of-descartes",
+   "author": "Ren\u00e9 Descartes",
+   "author_dates": "1596\u20131650",
+   "title": "The Method, Meditations, and Philosophy of Descartes",
+   "era": "Renaissance",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1698/descartes-the-method-meditations-and-philosophy-of-descartes.epub"
+  },
+  {
+   "slug": "jebb-areopagitica-1644-jebb-ed",
+   "author": "John Milton",
+   "author_dates": "1608\u20131674",
+   "title": "Areopagitica",
+   "era": "Renaissance",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/103/milton-areopagitica-1644-jebb-ed.epub"
+  },
+  {
+   "slug": "galilei-dialogues-concerning-two-new-sciences",
+   "author": "Galileo Galilei",
+   "author_dates": "1564\u20131642",
+   "title": "Dialogues Concerning Two New Sciences",
+   "era": "Renaissance",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/753/galilei-dialogues-concerning-two-new-sciences.epub"
+  },
+  {
+   "slug": "calvin-the-institutes-of-the-christian-religion",
+   "author": "John Calvin",
+   "author_dates": "1509\u20131564",
+   "title": "The Institutes of the Christian Religion",
+   "era": "Renaissance",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/535/calvin-the-institutes-of-the-christian-religion.epub"
+  },
+  {
+   "slug": "luther-first-principles-of-the-reformation-1883",
+   "author": "Martin Luther",
+   "author_dates": "1483\u20131546",
+   "title": "First Principles of the Reformation",
+   "era": "Renaissance",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/720/luther-first-principles-of-the-reformation-1883.epub"
+  },
+  {
+   "slug": "zwingli-selected-works-of-huldrich-zwingli",
+   "author": "Huldrych Zwingli",
+   "author_dates": "1484\u20131531",
+   "title": "Selected Works of Huldrich Zwingli",
+   "era": "Renaissance",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1682/zwingli-selected-works-of-huldrich-zwingli.epub"
+  },
+  {
+   "slug": "reinhardt-de-monarchia",
+   "author": "Dante Alighieri",
+   "author_dates": "1265\u20131321",
+   "title": "De Monarchia",
+   "era": "Medieval",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2196/alighieri-de-monarchia.epub"
+  },
+  {
+   "slug": "deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo",
+   "author": "Anselm of Canterbury",
+   "author_dates": "1033\u20131109",
+   "title": "Proslogium; Monologium; and Cur Deus Homo",
+   "era": "Medieval",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1033/anselm-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo.epub"
+  },
+  {
+   "slug": "rushd-the-philosophy-and-theology-of-averroes",
+   "author": "Averroes (Ibn Rushd)",
+   "author_dates": "1126\u20131198",
+   "title": "The Philosophy and Theology of Averroes",
+   "era": "Medieval",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/77/rushd-the-philosophy-and-theology-of-averroes.epub"
+  },
+  {
+   "slug": "friedlaender-a-guide-for-the-perplexed",
+   "author": "Moses Maimonides",
+   "author_dates": "1138\u20131204",
+   "title": "The Guide for the Perplexed",
+   "era": "Medieval",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1256/maimonides-a-guide-for-the-perplexed.epub"
+  },
+  {
+   "slug": "taylor-an-inquiry-into-the-principles-and-policy-of-the-government-of-the-united-states",
+   "author": "John Taylor of Caroline",
+   "author_dates": "1753\u20131824",
+   "title": "An Inquiry into the Principles and Policy of the Government of the United States",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1308/taylor-an-inquiry-into-the-principles-and-policy-of-the-government-of-the-united-states.epub"
+  },
+  {
+   "slug": "woolsey-on-civil-liberty-and-self-government",
+   "author": "Theodore Dwight Woolsey",
+   "author_dates": "1801\u20131889",
+   "title": "On Civil Liberty and Self-Government",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1943/lieber-on-civil-liberty-and-self-government.epub"
+  },
+  {
+   "slug": "clarkson-an-essay-on-the-slavery-and-commerce-of-the-human-species",
+   "author": "Thomas Clarkson",
+   "author_dates": "1760\u20131846",
+   "title": "An Essay on the Slavery and Commerce of the Human Species",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1070/clarkson-an-essay-on-the-slavery-and-commerce-of-the-human-species.epub"
+  },
+  {
+   "slug": "anti-slavery-tracts-first-series-nos-1-20-1855-56",
+   "author": "American Anti-Slavery Society",
+   "author_dates": "fl. 1833\u20131870",
+   "title": "Anti-Slavery Tracts, First Series",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2764/anti-slavery-tracts-first-series-nos-1-20-1855-56.epub"
+  },
+  {
+   "slug": "lobb-the-life-and-times-of-frederick-douglass-from-1817-1882",
+   "author": "Frederick Douglass",
+   "author_dates": "1818\u20131895",
+   "title": "The Life and Times of Frederick Douglass",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2007/douglass-the-life-and-times-of-frederick-douglass-from-1817-1882.epub"
+  },
+  {
+   "slug": "marcet-conversations-on-political-economy",
+   "author": "Jane Marcet",
+   "author_dates": "1769\u20131858",
+   "title": "Conversations on Political Economy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2048/marcet-conversations-on-political-economy.epub"
+  },
+  {
+   "slug": "longfield-lectures-on-political-economy",
+   "author": "Mountifort Longfield",
+   "author_dates": "1802\u20131884",
+   "title": "Lectures on Political Economy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1949/longfield-lectures-on-political-economy.epub"
+  },
+  {
+   "slug": "cairnes-the-character-and-logical-method-of-political-economy",
+   "author": "John Elliott Cairnes",
+   "author_dates": "1823\u20131875",
+   "title": "The Character and Logical Method of Political Economy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/282/cairnes-the-character-and-logical-method-of-political-economy.epub"
+  },
+  {
+   "slug": "whately-introductory-lectures-on-political-economy",
+   "author": "Richard Whately",
+   "author_dates": "1787\u20131863",
+   "title": "Introductory Lectures on Political Economy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1377/whately-introductory-lectures-on-political-economy.epub"
+  },
+  {
+   "slug": "sismondi-political-economy-and-the-philosophy-of-government",
+   "author": "J. C. L. Simonde de Sismondi",
+   "author_dates": "1773\u20131842",
+   "title": "Political Economy and the Philosophy of Government",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1963/sismondi-political-economy-and-the-philosophy-of-government.epub"
+  },
+  {
+   "slug": "north-a-select-collection-of-early-english-tracts-on-commerce-1856",
+   "author": "John Ramsay McCulloch (ed.)",
+   "author_dates": "1789\u20131864",
+   "title": "A Select Collection of Early English Tracts on Commerce",
+   "era": "Renaissance",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2000/mcculloch-a-select-collection-of-early-english-tracts-on-commerce-1856.epub"
+  },
+  {
+   "slug": "higgs-the-physiocrats-six-lectures-on-the-french-economistes-of-the-18th-century",
+   "author": "Henry Higgs",
+   "author_dates": "1864\u20131940",
+   "title": "The Physiocrats",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/286/higgs-the-physiocrats-six-lectures-on-the-french-economistes-of-the-18th-century.epub"
+  },
+  {
+   "slug": "hollander-discourses-upon-trade",
+   "author": "Sir Dudley North",
+   "author_dates": "1641\u20131691",
+   "title": "Discourses upon Trade",
+   "era": "Renaissance",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/299/north-discourses-upon-trade.epub"
+  },
+  {
+   "slug": "barbon-a-discourse-of-trade",
+   "author": "Nicholas Barbon",
+   "author_dates": "1640\u20131698",
+   "title": "A Discourse of Trade",
+   "era": "Renaissance",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/982/barbon-a-discourse-of-trade.epub"
+  },
+  {
+   "slug": "raper-a-select-collection-of-scarce-and-valuable-tracts-on-money",
+   "author": "John Ramsay McCulloch (ed.)",
+   "author_dates": "1789\u20131864",
+   "title": "A Select Collection of Scarce and Valuable Tracts on Money",
+   "era": "Renaissance",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2060/mcculloch-a-select-collection-of-scarce-and-valuable-tracts-on-money.epub"
+  },
+  {
+   "slug": "tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws",
+   "author": "Antoine Louis Claude Destutt de Tracy",
+   "author_dates": "1754\u20131836",
+   "title": "A Commentary and Review of Montesquieu's Spirit of Laws",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/960/tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws.epub"
+  },
+  {
+   "slug": "tracy-a-treatise-on-political-economy",
+   "author": "Antoine Louis Claude Destutt de Tracy",
+   "author_dates": "1754\u20131836",
+   "title": "A Treatise on Political Economy",
+   "era": "Enlightenment",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/121/tracy-a-treatise-on-political-economy.epub"
+  },
+  {
+   "slug": "newcomb-the-a-b-c-of-finance",
+   "author": "Simon Newcomb",
+   "author_dates": "1835\u20131909",
+   "title": "The A B C of Finance",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/307/newcomb-the-a-b-c-of-finance.epub"
+  },
+  {
+   "slug": "raguet-the-principles-of-free-trade",
+   "author": "Condy Raguet",
+   "author_dates": "1784\u20131842",
+   "title": "The Principles of Free Trade",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2221/raguet-the-principles-of-free-trade.epub"
+  },
+  {
+   "slug": "laughlin-the-history-of-bimetallism-in-the-united-states-1898",
+   "author": "J. Laurence Laughlin",
+   "author_dates": "1850\u20131933",
+   "title": "The History of Bimetallism in the United States",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1167/laughlin-the-history-of-bimetallism-in-the-united-states-1898.epub"
+  },
+  {
+   "slug": "walker-political-economy",
+   "author": "Francis Amasa Walker",
+   "author_dates": "1840\u20131897",
+   "title": "Political Economy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/157/walker-political-economy.epub"
+  },
+  {
+   "slug": "taussig-tariff",
+   "author": "Frank William Taussig",
+   "author_dates": "1859\u20131940",
+   "title": "The Tariff History of the United States",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/120/taussig-tariff.epub"
+  },
+  {
+   "slug": "hamilton-the-comedy-of-protection-1906",
+   "author": "George Hamilton",
+   "author_dates": "1845\u20131909",
+   "title": "The Comedy of Protection",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2447/guyot-the-comedy-of-protection-1906.epub"
+  },
+  {
+   "slug": "walker-the-wages-question-a-treatise-on-wages-and-the-wages-class",
+   "author": "Francis Amasa Walker",
+   "author_dates": "1840\u20131897",
+   "title": "The Wages Question",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1423/walker-the-wages-question-a-treatise-on-wages-and-the-wages-class.epub"
+  },
+  {
+   "slug": "young-arthur-youngs-travels-in-france-during-the-years-1787-1788-1789",
+   "author": "Arthur Young",
+   "author_dates": "1741\u20131820",
+   "title": "Travels in France during the Years 1787, 1788, 1789",
+   "era": "Enlightenment",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/292/young-arthur-youngs-travels-in-france-during-the-years-1787-1788-1789.epub"
+  },
+  {
+   "slug": "hirst-free-trade-and-other-fundamental-doctrines-of-the-manchester-school",
+   "author": "Francis Wrigley Hirst",
+   "author_dates": "1873\u20131953",
+   "title": "Free Trade and Other Fundamental Doctrines of the Manchester School",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/94/hirst-free-trade-and-other-fundamental-doctrines-of-the-manchester-school.epub"
+  },
+  {
+   "slug": "chadwick-poor-law-commissioners-report-of-1834",
+   "author": "Edwin Chadwick and Nassau William Senior",
+   "author_dates": "1800\u20131890 / 1790\u20131864",
+   "title": "Poor Law Commissioners' Report of 1834",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1461/senior-poor-law-commissioners-report-of-1834.epub"
+  },
+  {
+   "slug": "johnston-selections-from-the-scottish-philosophy-of-common-sense",
+   "author": "Thomas Reid and others",
+   "author_dates": "1710\u20131796",
+   "title": "Selections from the Scottish Philosophy of Common Sense",
+   "era": "Enlightenment",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2044/reid-selections-from-the-scottish-philosophy-of-common-sense.epub"
+  },
+  {
+   "slug": "knight-general-history-of-civilization-in-europe",
+   "author": "Fran\u00e7ois Guizot",
+   "author_dates": "1787\u20131874",
+   "title": "General History of Civilization in Europe",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2244/guizot-general-history-of-civilization-in-europe.epub"
+  },
+  {
+   "slug": "thierry-the-historical-essays-and-narratives-of-the-merovingian-era",
+   "author": "Augustin Thierry",
+   "author_dates": "1795\u20131856",
+   "title": "Historical Essays and Narratives of the Merovingian Era",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2283/thierry-the-historical-essays-and-narratives-of-the-merovingian-era.epub"
+  },
+  {
+   "slug": "mill-elements-of-political-economy-3rd-ed-1844",
+   "author": "James Mill",
+   "author_dates": "1773\u20131836",
+   "title": "Elements of Political Economy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/302/mill-elements-of-political-economy-3rd-ed-1844.epub"
+  },
+  {
+   "slug": "mill-commerce-defended-1808",
+   "author": "James Mill",
+   "author_dates": "1773\u20131836",
+   "title": "Commerce Defended",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1668/mill-commerce-defended-1808.epub"
+  },
+  {
+   "slug": "melmoth-letters-of-marcus-tullius-cicero",
+   "author": "Cicero (Marcus Tullius Cicero)",
+   "author_dates": "106\u201343 BC",
+   "title": "Letters of Marcus Tullius Cicero",
+   "era": "Classical",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/541/cicero-letters-of-marcus-tullius-cicero.epub"
+  },
+  {
+   "slug": "higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books",
+   "author": "Epictetus",
+   "author_dates": "AD 50\u2013135",
+   "title": "The Works of Epictetus",
+   "era": "Classical",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1477/epictetus-the-works-of-epictetus-consisting-of-his-discourses-in-four-books.epub"
+  },
+  {
+   "slug": "bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops",
+   "author": "The Venerable Bede",
+   "author_dates": "AD 672\u2013735",
+   "title": "The Ecclesiastical History of the English Nation",
+   "era": "Medieval",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1249/bede-the-eccesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops.epub"
+  },
+  {
+   "slug": "gaius-institutes-of-roman-law",
+   "author": "Gaius",
+   "author_dates": "AD 130\u2013180",
+   "title": "Institutes of Roman Law",
+   "era": "Classical",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1154/gaius-institutes-of-roman-law.epub"
+  },
+  {
+   "slug": "sedgefield-the-consolation-of-philosophy",
+   "author": "Boethius",
+   "author_dates": "AD 477\u2013524",
+   "title": "The Consolation of Philosophy",
+   "era": "Classical",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1178/boethius-the-consolation-of-philosophy.epub"
+  },
+  {
+   "slug": "mckechnie-magna-carta-a-commentary",
+   "author": "William Sharp McKechnie",
+   "author_dates": "1863\u20131930",
+   "title": "Magna Carta: A Commentary on the Great Charter of King John",
+   "era": "19th Century",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/338/mckechnie-magna-carta-a-commentary.epub"
+  },
+  {
+   "slug": "volney-the-ruins-or-a-survery-of-the-revolutions-of-empires",
+   "author": "Constantin-Fran\u00e7ois Volney",
+   "author_dates": "1757\u20131820",
+   "title": "The Ruins, or a Survey of the Revolutions of Empires",
+   "era": "Enlightenment",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1706/volney-the-ruins-or-a-survery-of-the-revolutions-of-empires.epub"
+  },
+  {
+   "slug": "mably-remarks-concerning-the-government-and-laws-of-the-united-states-of-america",
+   "author": "Abb\u00e9 de Mably",
+   "author_dates": "1709\u20131785",
+   "title": "Remarks Concerning the Government and Laws of the United States of America",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2134/mably-remarks-concerning-the-government-and-laws-of-the-united-states-of-america.epub"
+  },
+  {
+   "slug": "wollstonecraft-an-historical-and-moral-view-of-the-origin-and-progress-of-the-french-revolution",
+   "author": "Mary Wollstonecraft",
+   "author_dates": "1759\u20131797",
+   "title": "An Historical and Moral View of the French Revolution",
+   "era": "Enlightenment",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/226/wollstonecraft-an-historical-and-moral-view-of-the-origin-and-progress-of-the-french-revolution.epub"
+  },
+  {
+   "slug": "chevalier-society-manners-and-politics-in-the-united-states",
+   "author": "Michel Chevalier",
+   "author_dates": "1806\u20131879",
+   "title": "Society, Manners, and Politics in the United States",
+   "era": "19th Century",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2135/chevalier-society-manners-and-politics-in-the-united-states.epub"
+  },
+  {
+   "slug": "richter-pictures-of-the-socialistic-future",
+   "author": "Eugen Richter",
+   "author_dates": "1838\u20131906",
+   "title": "Pictures of the Socialistic Future",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/295/richter-pictures-of-the-socialistic-future.epub"
+  },
+  {
+   "slug": "guyot-socialistic-fallacies",
+   "author": "Yves Guyot",
+   "author_dates": "1843\u20131928",
+   "title": "Socialistic Fallacies",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1166/guyot-socialistic-fallacies.epub"
+  },
+  {
+   "slug": "guyot-the-tyranny-of-socialism",
+   "author": "Yves Guyot",
+   "author_dates": "1843\u20131928",
+   "title": "The Tyranny of Socialism",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/91/guyot-the-tyranny-of-socialism.epub"
+  },
+  {
+   "slug": "smart-the-positive-theory-of-capital",
+   "author": "Eugen von B\u00f6hm-Bawerk",
+   "author_dates": "1851\u20131914",
+   "title": "The Positive Theory of Capital",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/283/bawerk-the-positive-theory-of-capital.epub"
+  },
+  {
+   "slug": "wicksell-the-influence-of-the-rate-of-interest-on-prices",
+   "author": "Knut Wicksell",
+   "author_dates": "1851\u20131926",
+   "title": "The Influence of the Rate of Interest on Prices",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/125/wicksell-the-influence-of-the-rate-of-interest-on-prices.epub"
+  },
+  {
+   "slug": "viner-studies-in-the-theory-of-international-trade",
+   "author": "Jacob Viner",
+   "author_dates": "1892\u20131970",
+   "title": "Studies in the Theory of International Trade",
+   "era": "20th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1414/viner-studies-in-the-theory-of-international-trade.epub"
+  },
+  {
+   "slug": "smart-capital-and-interest-a-critical-history-of-economic-theory",
+   "author": "Eugen von B\u00f6hm-Bawerk",
+   "author_dates": "1851\u20131914",
+   "title": "Capital and Interest: A Critical History of Economical Theory",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/284/bawerk-capital-and-interest-a-critical-history-of-economic-theory.epub"
+  },
+  {
+   "slug": "smart-natural-value",
+   "author": "Friedrich von Wieser",
+   "author_dates": "1851\u20131926",
+   "title": "Natural Value",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1685/wieser-natural-value.epub"
+  },
+  {
+   "slug": "westergaard-the-continental-system-an-economic-interpretation",
+   "author": "Eli F. Heckscher",
+   "author_dates": "1879\u20131952",
+   "title": "The Continental System: An Economic Interpretation",
+   "era": "20th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/327/heckscher-the-continental-system-an-economic-interpretation.epub"
+  },
+  {
+   "slug": "ely-a-history-of-political-economy",
+   "author": "Richard T. Ely",
+   "author_dates": "1854\u20131943",
+   "title": "A History of Political Economy",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1678/ingram-a-history-of-political-economy.epub"
+  },
+  {
+   "slug": "cannan-wealth-a-brief-explanation-of-the-causes-of-economic-wealth",
+   "author": "Edwin Cannan",
+   "author_dates": "1861\u20131935",
+   "title": "Wealth: A Brief Explanation of the Causes of Economic Welfare",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2063/cannan-wealth-a-brief-explanation-of-the-causes-of-economic-wealth.epub"
+  },
+  {
+   "slug": "biddle-a-treatise-on-political-economy",
+   "author": "Jean-Baptiste Say",
+   "author_dates": "1767\u20131832",
+   "title": "A Treatise on Political Economy (Biddle ed.)",
+   "era": "Enlightenment",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/274/say-a-treatise-on-political-economy.epub"
+  },
+  {
+   "slug": "bastable-public-finance",
+   "author": "Charles Francis Bastable",
+   "author_dates": "1855\u20131945",
+   "title": "Public Finance",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/275/bastable-public-finance.epub"
+  },
+  {
+   "slug": "tucker-four-tracts-on-political-and-commercial-subjects",
+   "author": "Josiah Tucker",
+   "author_dates": "1713\u20131799",
+   "title": "Four Tracts on Political and Commercial Subjects",
+   "era": "Enlightenment",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1673/tucker-four-tracts-on-political-and-commercial-subjects.epub"
+  },
+  {
+   "slug": "becker-the-declaration-of-independence-a-study-on-the-history-of-political-ideas",
+   "author": "Carl L. Becker",
+   "author_dates": "1873\u20131945",
+   "title": "The Declaration of Independence: A Study in the History of Political Ideas",
+   "era": "20th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1177/becker-the-declaration-of-independence-a-study-on-the-history-of-political-ideas.epub"
+  },
+  {
+   "slug": "gardiner-the-constitutional-documents-of-the-puritan-revolution-1625-1660",
+   "author": "Samuel Rawson Gardiner (ed.)",
+   "author_dates": "1829\u20131902",
+   "title": "The Constitutional Documents of the Puritan Revolution, 1625\u20131660",
+   "era": "Renaissance",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1434/gardiner-the-constitutional-documents-of-the-puritan-revolution-1625-1660.epub"
+  },
+  {
+   "slug": "fletcher-selected-discourses-and-speeches",
+   "author": "Andrew Fletcher of Saltoun",
+   "author_dates": "1653\u20131716",
+   "title": "Selected Political Writings and Speeches",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1222/fletcher-selected-discourses-and-speeches.epub"
+  },
+  {
+   "slug": "kurz-the-discourse-of-voluntary-servitude",
+   "author": "\u00c9tienne de La Bo\u00e9tie",
+   "author_dates": "1530\u20131563",
+   "title": "The Discourse of Voluntary Servitude",
+   "era": "Renaissance",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2250/boetie-the-discourse-of-voluntary-servitude.epub"
+  },
+  {
+   "slug": "taylor-construction-construed-and-constitutions-vindicated",
+   "author": "John Taylor of Caroline",
+   "author_dates": "1753\u20131824",
+   "title": "Construction Construed and Constitutions Vindicated",
+   "era": "Enlightenment",
+   "genre": "Law",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/899/taylor-construction-construed-and-constitutions-vindicated.epub"
+  },
+  {
+   "slug": "priestley-letters-to-the-right-honourable-edmund-burke",
+   "author": "Joseph Priestley",
+   "author_dates": "1733\u20131804",
+   "title": "Letters to the Right Honourable Edmund Burke",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1790/priestley-letters-to-the-right-honourable-edmund-burke.epub"
+  },
+  {
+   "slug": "macaulay-observations-on-the-reflections-of-the-rt-hon-edmund-burke-on-the-revolution-france",
+   "author": "Catharine Macaulay",
+   "author_dates": "1731\u20131791",
+   "title": "Observations on the Reflections of Edmund Burke on the Revolution in France",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1664/macaulay-reflections-on-the-revolution-in-france.epub"
+  },
+  {
+   "slug": "mackintosh-the-miscellaneous-works",
+   "author": "James Mackintosh",
+   "author_dates": "1765\u20131832",
+   "title": "The Miscellaneous Works of Sir James Mackintosh",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2266/mackintosh-the-miscellaneous-works.epub"
+  },
+  {
+   "slug": "thelwall-the-rights-of-nature-against-the-usurpations-of-establishments-1796",
+   "author": "John Thelwall",
+   "author_dates": "1764\u20131834",
+   "title": "The Rights of Nature against the Usurpations of Establishments",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2593/thelwall-the-rights-of-nature-against-the-usurpations-of-establishments-1796.epub"
+  },
+  {
+   "slug": "grote-essentials-of-parliamentary-reform",
+   "author": "George Grote",
+   "author_dates": "1794\u20131871",
+   "title": "Essentials of Parliamentary Reform",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2691/grote-essentials-of-parliamentary-reform.epub"
+  },
+  {
+   "slug": "wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835",
+   "author": "John Wade",
+   "author_dates": "1788\u20131875",
+   "title": "The Black Book: An Exposition of Abuses in Church and State",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2539/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835.epub"
+  },
+  {
+   "slug": "thomson-the-lives-of-the-twelve-caesars",
+   "author": "Suetonius",
+   "author_dates": "AD 69\u2013122",
+   "title": "The Lives of the Twelve Caesars",
+   "era": "Classical",
+   "genre": "History",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1888/tranquillus-the-lives-of-the-twelve-caesars.epub"
+  },
+  {
+   "slug": "gordon-a-discourse-of-standing-armies-1722",
+   "author": "Thomas Gordon",
+   "author_dates": "1691\u20131750",
+   "title": "A Discourse of Standing Armies",
+   "era": "Enlightenment",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1719/gordon-a-discourse-of-standing-armies-1722.epub"
+  },
+  {
+   "slug": "rolleston-philosophical-view-of-reform-1820",
+   "author": "Percy Bysshe Shelley",
+   "author_dates": "1792\u20131822",
+   "title": "A Philosophical View of Reform",
+   "era": "19th Century",
+   "genre": "Political Theory",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2510/shelley-philosophical-view-of-reform-1820.epub"
+  },
+  {
+   "slug": "hoxie-trade-unionism-in-the-united-states-general-character-and-types",
+   "author": "Robert Franklin Hoxie",
+   "author_dates": "1868\u20131916",
+   "title": "Trade Unionism in the United States",
+   "era": "20th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/95/hoxie-trade-unionism-in-the-united-states-general-character-and-types.epub"
+  },
+  {
+   "slug": "baker-where-and-why-public-ownership-has-failed",
+   "author": "Yves Guyot",
+   "author_dates": "1843\u20131928",
+   "title": "Where and Why Public Ownership Has Failed",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/326/guyot-where-and-why-public-ownership-has-failed.epub"
+  },
+  {
+   "slug": "brough-the-natural-law-of-money",
+   "author": "William Brough",
+   "author_dates": "1826\u20131917",
+   "title": "The Natural Law of Money",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1164/brough-the-natural-law-of-money.epub"
+  },
+  {
+   "slug": "webster-political-essays-on-the-nature-and-operation-of-money",
+   "author": "Pelatiah Webster",
+   "author_dates": "1726\u20131795",
+   "title": "Political Essays on the Nature and Operation of Money",
+   "era": "Enlightenment",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2161/webster-political-essays-on-the-nature-and-operation-of-money.epub"
+  },
+  {
+   "slug": "macaulay-fiat-money-inflation-in-france",
+   "author": "Andrew Dickson White",
+   "author_dates": "1832\u20131918",
+   "title": "Fiat Money Inflation in France",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/1948/white-fiat-money-inflation-in-france.epub"
+  },
+  {
+   "slug": "mccabe-toleration-and-other-essays",
+   "author": "Voltaire",
+   "author_dates": "1694\u20131778",
+   "title": "Toleration and Other Essays",
+   "era": "Enlightenment",
+   "genre": "Philosophy",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/349/voltaire-toleration-and-other-essays.epub"
+  },
+  {
+   "slug": "three-lectures-on-the-cost-of-obtaining-money",
+   "author": "Nassau William Senior",
+   "author_dates": "1790\u20131864",
+   "title": "Three Lectures on the Cost of Obtaining Money",
+   "era": "19th Century",
+   "genre": "Economics",
+   "epub_url": "https://oll-resources.s3.us-east-2.amazonaws.com/oll3/store/titles/2711/three-lectures-on-the-cost-of-obtaining-money.epub"
+  }
+ ]
+}

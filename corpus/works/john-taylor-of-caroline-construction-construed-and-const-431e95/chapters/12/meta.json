@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-taylor-of-caroline-construction-construed-and-const-431e95",
+  "work_title": "Construction Construed and Constitutions Vindicated",
+  "chapter_number": 12,
+  "chapter_title": "SECTION 10.: BANK DECISION—COMMON DEFENCE AND GENERAL WELFARE—NECESSARY AND PROPER—CONVENIENT—NATIONAL.",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d096961e-2283-5d6d-aaa9-6af48d112b97",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11324,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/taylor-construction-construed-and-constitutions-vindicated"
+    }
+  ]
+}

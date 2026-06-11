@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221",
+  "work_title": "The Recollections of Alexis de Tocqueville",
+  "chapter_number": 19,
+  "chapter_title": "CHAPTER I: MY RETURN TO FRANCE—FORMATION OF THE CABINET.",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a106395-9433-5217-a73f-f2e27d589d15",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3704,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/de-mattos-the-recollections-of-alexis-de-tocqueville-1896"
+    }
+  ]
+}

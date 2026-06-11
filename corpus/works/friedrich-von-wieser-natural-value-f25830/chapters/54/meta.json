@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 54,
+  "chapter_title": "CHAPTER III: foundation of the law of costs",
+  "chapter_slug": "54",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "173e9a65-105b-5f21-b0ec-d4ab24a3678f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1012,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

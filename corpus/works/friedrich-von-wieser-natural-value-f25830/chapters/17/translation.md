@@ -1,0 +1,29 @@
+---
+work_id: "f25830ec-af58-5aa2-bca1-8f4eca049ec8"
+work_slug: "friedrich-von-wieser-natural-value-f25830"
+work_title: Natural Value
+author_name: Friedrich von Wieser
+chapter_number: 17
+chapter_title: "CHAPTER III: exchange value in the objective sense"
+chapter_slug: 17
+variant_id: "24d1f6d9-9c0f-5dca-9871-5f0e11a25702"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 882
+source_url: "https://oll.libertyfund.org/titles/smart-natural-value"
+translator: Online Library of Liberty edition
+---
+
+No one can take his own personal valuetion of money, and of the money value of goods, outside of himself, and apply it to other people. No one will persuade a business man to let him have a commodity at half-price simply by proving that it is more difficult for him to procure the half-price than for some other person to procure double the price. And no business man could sell an article at twice the market price, simply because he could prove that the double gain was necessary to enable him to satisfy his most urgent wants. Every one needs to have an exact subjective estimate of the value of money to himself, as a private individual economising his own resources, in order to decide for himself what attitude he may take up with regard to things outside of him. But this personal attitude can have no effect on the movement of goods in the great economic exchange between one economy and another, or in the end between any economy and his own, except in so far as he may succeed in influencing the prices of Edition: current; Page: [51] gooda It is the prices that absolutely decide in exchange Goods fall to those who pay the highest prices, and—what is most important—the amount expended upon production is regulated by the prices expected from the sale of the goods Those goods which will be sold at the highest prices attract the most means of production. The rank of goods in economic exchange—their external economic power—is absolutely decided by their prices, however individuals may judge as to their intrinsic importance.
+
+When we speak generally of the value of goods we mean the economic rank given them by their prices. A good whose market price is £100 has, in the common usage of speech, absolutely, and for every one, ten times more value than one whose price is only £10. The dearest good is, in the ordinary use of words, also the most valuable. But we must make one single limitation: goods have ascribed to them as value only those prices which are paid for them in the usual run of cases. Exceptional prices, usurious prices, and “cut”prices form no foundation for value; and accordingly goods whose prices fluctuate greatly have, in common usage, no fixed“intrinsic” value.
+
+As a matter of fact some particular designation is indispensable for the ranking of goods in economic exchange, and it is impossible to find any other designation than that of value. And this not simply because we are forced to it from the outside as it were, by ordinary usage of speech, but because it essentially justifies itself. What subjective value does for the individual economy,—measuring every outlay and every return, and deciding the amount of consumption that is permissible and the extent to which production may be extended,—is done for economy generally by this ranking of goods as it is determined by relation to the objective prices. It is the measure for outlay and returns, and upon it distribution and production are dependent But it must be emphasised that the word value alters its original sense somewhat, when transferred from the subjective relation to wants to the objective relation to price. Subjective value represents a distinct feeling; that of being dependent upon the possession of a good for the satisfaction of a want,—a distinct degree of personal interest in goods Objective value, on the other hand, Edition: current; Page: [52] merely represents a definite price; a definite amount of payment which is expected or required in buying and selling. The former has its measure in the different gradations of desire, the latter in the quantities of coin,—in the figures of the price.
+
+Of course internal valuetions of personal interest do, always and without exception, attach to objective value also, but these valuetions are only subjective, being greater for one and smaller for another. Objective value or price is not in the least the expression of the economic valuetion of goods, even when it is the result of economic competition, and of the individual valuetions of all the different members of the economic community. Price is a social fact, but it does not denote the estimate put upon goods by society Luxuries are paid for more highly than necessaries, but who would affirm that they are therefore of greater social importance ? Those very persons Edition: current; Page: [53] who, on the market, come to an agreement regarding the price of goods—compelled thereto by the power of circumstances— will each reserve his own judgment upon the importance of the goods to him personally; and that authority which is earliest called upon to deliver the social judgment, the government, is universally considered to be the furthest removed from recognising the prices of goods as a measure of their social importance. A government, indeed, is, for the most part, concerned with the carrying through of just such economic tasks as could not be justified by their money return, if they were not justified by their utility.
+
+In what follows, when the word“exchange value”occurs, I shall always mean“exchange value in the objective sense.” There is no need to formulate the law of“exchange value”; we know it already, if only in a general way. It is the law of price.

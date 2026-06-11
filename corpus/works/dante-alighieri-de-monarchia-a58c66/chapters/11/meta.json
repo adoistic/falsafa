@@ -1,0 +1,26 @@
+{
+  "work_slug": "dante-alighieri-de-monarchia-a58c66",
+  "work_title": "De Monarchia",
+  "chapter_number": 11,
+  "chapter_title": "CHAPTER VIII: Men are made in the image of God; but God is one.",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9bba28e-79cd-5008-8848-99cd457e3319",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 245,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"
+    }
+  ]
+}

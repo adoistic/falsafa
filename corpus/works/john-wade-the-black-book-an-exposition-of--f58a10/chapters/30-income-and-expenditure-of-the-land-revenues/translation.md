@@ -1,0 +1,25 @@
+---
+work_id: "f58a10dd-5d81-5fcd-a344-bcad41192fb0"
+work_slug: "john-wade-the-black-book-an-exposition-of--f58a10"
+work_title: "The Black Book: An Exposition of Abuses in Church and State"
+author_name: John Wade
+chapter_number: 30
+chapter_title: "INCOME AND EXPENDITURE OF THE LAND-REVENUES."
+chapter_slug: "30-income-and-expenditure-of-the-land-revenues"
+variant_id: "1f60e832-e2da-5d90-9713-638c478b6185"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 730
+source_url: "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+translator: Online Library of Liberty edition
+---
+
+The estimate of the value of the land-revenues does not include the royal forests. In some of these are intermingling rights, and the Crown has no property in the soil. Such are New Forest and the forests of Epping, Sherwood, and Dean Forest; all the rights possessed by the Crown consist of the right of herbage for the deer, although in the great forest of Sherwood, comprising a sheet of land of 95,000 acres, not a single deer is kept. In the New Forest, out of 90,000 acres, the Crown has the right to enclose periodically 6,000 acres, which may be dissevered from the pasturage for the growth of timber. The most valuable property undoubtedly consists of the estates and leaseholds alone worth upwards of twenty millions sterling. These might be sold without encroaching on any possession in the least conducive to the dignity and enjoyment of the sovereign. What dignity, indeed, can there be in the king or his servants being jobbers in land, or hucksters in the sale of houses, leases, and ground-rents?
+
+It is not, however, the dignity nor the comfort of the king, but the patronage of his ministers, that is at stake. The preceding narrative has shown what an endless source of jobbing the crown-lands have been for centuries; of jobbing the most foul, rapacious, and iniquitous. Not only have the commons, but the distinguished names of the peerage—the great historical cognomens—been implicated in these peculating transactions. This description is not limited to the times of the Edwards and Henries, when there was no law to contravene the sovereign’s pleasure, or the sordid practices of his servants, but applies to the period subsequent to the Revolution, when the constitution is supposed to have been purified and perfected. Acts of parliament, indeed, were passed prescribing the minimum of rent (relatively to the full value) at which the crown-farms should be let,—namely one-third before the reign of George III. and one-eighth after the accession of the said king, stating, too, that, under the former regulation, two-thirds of the valued rack-rent, and, under the latter, seven-eighths should be paid in the shape of fine. But what of these statutory restraints? They were all set at nought; the “creatures were at their dirty work” again; and, in most cases, the rents reserved and the fines exacted were merely nominal. May it not be said, after this, that ministerial responsibility is a farce, and that it is sheer fatuity to expect justice will be enforced Edition: current; Page: [197] against public defaulters, when the accused and his judges are alike participant in the delinquency?
+
+The sale of the crown-lands would not only cut off a dangerous source of ministerial influence, but render them more conducive to national wealth, and effect a saving in the public expenditure. That costly establishment, the Board of Woods and Forests, is in future, it appears, (House of Commons, Dec. 9, 1831,) to be consolidated with the Board of Works, whereby the expense of two boards will be saved. Mr. Huskisson long depastured in this retreat, and retained to the last a singular partiality for the existing mode of administering the crown property. In the debate on Mr. Harvey’s motion, he observed that the House had no right to dispose of the hereditary revenues of the Crown without its consent. No one could gainsay this constitutional truism. No doubt an act of parliament would be requisite, and every one knows an act of parliament is not law till it receives the royal assent. In this, then, there is nothing peculiar. But the importance ascribed by this wily and selfish politician to the fact, that the royal forests formed a valuable nursery for the growth of timber, seemed a little inconsistent with his favourite principles of free trade. England depends much more on the produce of her looms and steam-engines than of her woods and forests; though we should be sorry, for the sake of merely increasing national capital, to see, throughout the country, the latter entirely superseded by the former. Agreeably with the dogmas of the school of which Mr. Huskisson was long a professed disciple, our supply of timber would be most advantageously obtained from the wastes of Canada and Norway, where it can be cheapest produced; while our own acres are best appropriated to the growth of cheap bread for the artisan and manufacturer.

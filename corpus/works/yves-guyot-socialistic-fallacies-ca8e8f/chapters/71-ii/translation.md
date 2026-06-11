@@ -1,0 +1,39 @@
+---
+work_id: "ca8e8fcd-ae8e-5bd8-9353-38946f0fd731"
+work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
+work_title: Socialistic Fallacies
+author_name: Yves Guyot
+chapter_number: 71
+chapter_title: II.
+chapter_slug: "71-ii"
+variant_id: "74c24671-ba08-527c-92c9-a46654ca030d"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 412
+source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+translator: Online Library of Liberty edition
+---
+
+In October, 1896, there were in Belgium, exclusive of State workshops, 326,089 enterprises in active work, and 11,306 enterprises (or 3.3 per cent.) lying idle. The 326,089 enterprises and divisions of enterprises were distributed as follows:—
+
+The population engaged in trades and industries numbers 1,102,000 individuals.
+
+Employers manufacturing in their own factories number 232,500; employers who send out work to be manufactured number 5,400; total, 237,900, or 21 per cent. Number of wage-earners 864,200, or 79 per cent.
+
+Persons in receipt of wages or salaries are distributed as follows:—
+
+The enterprises carried on by individuals or partnerships number 324,000; those carried on by limited companies number 2,000. The analysis of the census sets up two categories:—
+
+In the two categories almost the whole are carried on by individuals or partnerships. The number of limited companies is 1,854, but they employ 278,200 wage-earners out of a total of 600,000, or 41.90 per cent. of the total number of workmen employed in industry properly so-called. If we deduct the coal-mining industry, in which nearly all the workmen are employed by limited companies, this number falls to 164,000 out of 547,000. The mining industry (underground and surface mines combined) includes 115,800 workmen, of whom 97.48 per cent. are employed by limited companies.
+
+The industries in which enterprises carried on by limited companies employ between 75 and 100 per cent. of the total numbers employed are as follows:—
+
+Then there follow eight industries with less than 2,000 and more than 1,000 workmen, two with more than 500 and six with more than 100.
+
+A great deal is said of Belgian co-operative partnerships. They are 167 in number and only employ 2,100 workmen, of whom 660 are employed Edition: current; Page: [220] in baking and 611 in loading and unloading. The latter are really commercial labour partnerships.
+
+In industry, properly so-called, exclusive of home industries and of industries carried on in the public workshops, 160,400 out of 231,420 enterprises and divisions of enterprises, i.e., 69.32 per cent. or more than two-thirds, belong to the minor industries. In 14,500 one or two masters or heads of establishments work without the assistance of any workmen, members of their family or otherwise. In 17,800 (7.71 per cent.) one master or several masters in partnership work with one or more members of their families, who are very generally children. In the whole of the 231,400 there are only 70,900 or less than one-third, which employ at least one workman properly so-called.

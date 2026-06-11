@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-the-wages-question-b128f3",
+  "work_title": "The Wages Question",
+  "chapter_number": 11,
+  "chapter_title": "Part I, Chapter IX THERE IS NO WAGE-FUND IRRESPECTIVE OF THE NUMBER AND INDUSTRIAL QUALITY OF LABORERS.",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ba13f76-1a11-57c0-a18b-68f2ddba1930",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3636,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-the-wages-question-a-treatise-on-wages-and-the-wages-class"
+    }
+  ]
+}

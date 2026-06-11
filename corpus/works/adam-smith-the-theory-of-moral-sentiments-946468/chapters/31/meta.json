@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-the-theory-of-moral-sentiments-946468",
+  "work_title": "The Theory of Moral Sentiments",
+  "chapter_number": 31,
+  "chapter_title": "CHAPTER II.: Of the Extent of this influence of Fortune.",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a0e6393-c02e-5e1a-b6b7-e4f2df093c6d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3837,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-the-theory-of-moral-sentiments-and-on-the-origins-of-languages-stewart-ed"
+    }
+  ]
+}

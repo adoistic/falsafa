@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-maynard-keynes-the-economic-consequences-of-the-8e91dc",
+  "work_title": "The Economic Consequences of the Peace",
+  "chapter_number": 10,
+  "chapter_title": "I",
+  "chapter_slug": "10-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fff6411b-4cc2-565a-bfb2-e4f305fc7ff9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3037,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keynes-the-economic-consequences-of-the-peace"
+    }
+  ]
+}

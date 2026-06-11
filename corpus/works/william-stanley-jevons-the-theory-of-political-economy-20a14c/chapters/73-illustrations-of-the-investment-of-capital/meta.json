@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-theory-of-political-economy-20a14c",
+  "work_title": "The Theory of Political Economy",
+  "chapter_number": 73,
+  "chapter_title": "Illustrations of the Investment of Capital.",
+  "chapter_slug": "73-illustrations-of-the-investment-of-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5658bf28-d2e5-5cad-bbfc-8d2a603f5dca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 913,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-theory-of-political-economy"
+    }
+  ]
+}

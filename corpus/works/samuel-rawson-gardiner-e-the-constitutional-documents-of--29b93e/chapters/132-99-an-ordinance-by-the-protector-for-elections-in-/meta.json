@@ -1,0 +1,26 @@
+{
+  "work_slug": "samuel-rawson-gardiner-e-the-constitutional-documents-of--29b93e",
+  "work_title": "The Constitutional Documents of the Puritan Revolution, 1625–1660",
+  "chapter_number": 132,
+  "chapter_title": "99.: An Ordinance by the Protector for Elections in Scotland.",
+  "chapter_slug": "132-99-an-ordinance-by-the-protector-for-elections-in-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "19f3ae5d-401c-5452-900d-72eec3094a91",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1138,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gardiner-the-constitutional-documents-of-the-puritan-revolution-1625-1660"
+    }
+  ]
+}

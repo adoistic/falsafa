@@ -1,0 +1,21 @@
+---
+work_id: "fcc06cfa-2502-59f5-bb1a-03089f9078cd"
+work_slug: "john-locke-two-treatises-of-government-fcc06c"
+work_title: Two Treatises of Government
+author_name: John Locke
+chapter_number: 80
+chapter_title: §. 78.
+chapter_slug: "80-78"
+variant_id: "30b4d071-ef28-556b-8bcd-fe1b509fecfa"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 466
+source_url: "https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed"
+translator: Online Library of Liberty edition
+---
+
+SIR Robert, having not been very happy in any proof he brings for the sovereignty of Adam, is not much more fortunate in conveying it to future princes, who, if his politics be true, must all derive their titles from that first monarch. The ways he has assigned, as they lie scattered up and down in his writings, I will set down in his own words: in his preface he tells us, That Adam being monarch of the whole world, none of his posterity had any right to possess any thing, but by his grant or permission, or by succession from him. Here he makes two ways of conveyance of any thing Adam stood possessed of; and those are grants or succession. Again he says, All kings either are, or are to Edition: current; Page: [94] be reputed, the next heirs to those first progenitors, who were at first the natural parents of the whole people, p. 19. There cannot be any multitude of men whatsoever, but that in it, considered by itself, there is one man amongst them, that in nature hath a right to be the king of all the rest, as being the next heir to Adam, Observations, 253. Here in these places inheritance is the only way he allows of conveying monarchical power to princes. In other places he tells us, Observations, 155. All power on earth is either derived or usurped from the fatherly power, Observations, 158. All kings that now are, or ever were, are or were either fathers of their people, or heirs of such fathers, or usurpers of the right of such fathers, Observations, 253. And here he makes inheritance or usurpation the only ways whereby kings come by this original power: but yet he tells us, This fatherly empire, as it was of itself hereditary, so it was alienable by patent, and seizable by an usurper, Observations, 190. So then here inheritance, grant, or usurpation, will convey it. And last of all, which is most admirable, he tells us, p. 100. It skills not which way kings come by their power, whether by election, donation, succession, or by any other means; for it is still the manner of the government by supreme power, that makes them properly kings, and not the means of obtaining their crowns. Which I think is a full answer to all his whole hypothesis Edition: current; Page: [95] and discourse about Adam’s royal authority, as the fountain from which all princes were to derive theirs: and he might have spared the trouble of speaking so much as he does, up and down, of heirs and inheritance, if to make any one properly a king, needs no more but governing by supreme power, and it matters not by what means he came by it.

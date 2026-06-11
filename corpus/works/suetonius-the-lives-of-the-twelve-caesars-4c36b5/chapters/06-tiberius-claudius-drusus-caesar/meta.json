@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
+  "work_title": "The Lives of the Twelve Caesars",
+  "chapter_number": 6,
+  "chapter_title": "TIBERIUS CLAUDIUS DRUSUS CÆSAR.",
+  "chapter_slug": "06-tiberius-claudius-drusus-caesar",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9363129d-3d53-5eee-9ec2-b2732e53b42f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14630,
+      "paragraph_count": 61,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"
+    }
+  ]
+}

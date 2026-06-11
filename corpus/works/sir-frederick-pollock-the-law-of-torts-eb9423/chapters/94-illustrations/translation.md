@@ -1,0 +1,45 @@
+---
+work_id: "eb9423e0-ba11-50e8-a797-dd4d5059432a"
+work_slug: "sir-frederick-pollock-the-law-of-torts-eb9423"
+work_title: The Law of Torts
+author_name: Sir Frederick Pollock
+chapter_number: 94
+chapter_title: Illustrations.
+chapter_slug: "94-illustrations"
+variant_id: "10c54290-2319-50c4-941e-4239b8b92cde"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 867
+source_url: "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+translator: Online Library of Liberty edition
+---
+
+1. N. draws a bill on X. The bill is presented for acceptance at X.’s office when X. is not there. A., a friend of X., who is there but not concerned in X.’s business, accepts the bill as X.’s agent. He has not in fact any authority to accept, but believes that the bill is drawn in the regular course of business, and that X. will ratify the acceptance. The bill is dishonoured when due, and Z., the holder in due course, is unable to obtain payment. A. has deceived Z., though he honestly meant to act for the benefit of all parties to the bill; for he has represented to all to whom it might be offered in the course of circulation that he had authority to accept in the name of X., knowing that he had not such authority, and Z. has incurred loss by acting on that representation.
+
+2. A., B., and C. are partners in a firm; D. and E. agree with them to form a limited company to take over the business of the firm, and to become directors jointly with A., B., and C. A prospectus is prepared and issued with the authority of A., B., C., D., and E., stating, among other things, that the consideration to be paid by the company for the goodwill of the business is Rs. 10,00,000. Z. applies for and obtains shares in the company on the faith of this prospectus. In fact the firm is insolvent, and the Rs. 10,00,000 are intended to be applied in paying its debts. The company fails and is wound up, and Z. incurs liability as a contributory. A., B., C., D., and E. have deceived Z..
+
+3. In the case stated in the last illustration P. applies for and obtains shares on the formation of the company. Afterwards P. offers his shares for sale, and Q., having read the prospectus and relying on the truth of its contents, buys P.’s shares. The authors of the prospectus have not deceived Q., for it was addressed only to persons who might become original shareholders, and not to subsequent purchasers of shares.
+
+4. A. offers to sell his business to Z.; assures him that the annual profits, as shown by the books, exceed Rs. 5,000, and tells Z. that he may examine the books. Z., on the faith of A.’s statement, agrees to the terms proposed by A. without examining the books. If he had Edition: current; Page: [577] examined them he would have discovered, as the fact is, that the profits are much less than Rs. 5,000. This will not preclude Z. from suing A. for deceit.
+
+5. A. deals with Z., a gunsmith, and requires a gun for the use of A.’s son, B. Z., in B.’s presence, and knowing that the gun is wanted for B.’s use, warrants to A. that the gun is of good workmanship and materials and safe to use. A. thereupon buys the gun, and gives it to B. The gun is in fact badly made, and Z. knows it, and by reason thereof, the first time B. fires the gun, it bursts and wounds B. Z. has deceived B..
+
+Slander of title.41. A person wrongs another who causes harm to that other by making, for the purpose of injuring that other, a statement which is untrue, and which he does not believe to be true—
+
+Malicious prosecution.42. A person wrongs another who—
+
+falsely accuses that other of an offence, of which offence that other is acquitted by the Court before which the accusation is made, or, having been convicted in the first instance, is ultimately acquitted on appeal by reason of the original conviction having proceeded on evidence known by the accuser to be false, or on the wilful suppression by him of material information.
+
+Explanation.—The plaintiff must prove both the absence of reasonable and probable cause, and the existence of an indirect and improper motive for the prosecution.
+
+Abuse of process of Court.43. A person wrongs another who causes harm to that other by wilful abuse of any process of the law.
+
+Note.—There are other miscellaneous wrongs which may be generally described as malicious interference with rights. I think the doctrine of Lumley v. Gye and Bowen v. Hall really comes under this head, and does not (as has been suggested) establish a sort of right in rem not to have the fulfilment of contracts made with one interfered with. To the same class belongs Ashby v. White, as explained in Tozer v. Child, 7 E. & B. 377. But I submit that the law on these questions is neither settled enough to make immediate codification prudent, nor of sufficient practical importance to make it probable that delay will do any harm.
+
+The doctrine of Lumley v. Gye might be expressed in some such words as these:—
+
+“A person wrongs another who wilfully, and with the design of harming that other or gaining some advantage for himself over that other, procures a third person who has entered into a contract [qu. for exclusive personal services?] with that other to break his contract, whereby that other loses the benefit of the contract.”

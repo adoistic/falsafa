@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-brough-the-natural-law-of-money-5ff1e4",
+  "work_title": "The Natural Law of Money",
+  "chapter_number": 6,
+  "chapter_title": "CHAPTER IV.: PAPER-MONEY IN COLONIAL TIMES.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f1462d5-f4fc-540c-a5c8-e5af017f7aa9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3931,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brough-the-natural-law-of-money"
+    }
+  ]
+}

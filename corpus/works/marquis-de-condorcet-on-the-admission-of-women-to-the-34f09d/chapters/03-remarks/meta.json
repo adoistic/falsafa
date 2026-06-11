@@ -1,0 +1,26 @@
+{
+  "work_slug": "marquis-de-condorcet-on-the-admission-of-women-to-the-34f09d",
+  "work_title": "On the Admission of Women to the Rights of Citizenship",
+  "chapter_number": 3,
+  "chapter_title": "REMARKS.",
+  "chapter_slug": "03-remarks",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c92e9c13-5f07-5428-8082-e611ff09d8c7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 735,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/condorcet-on-the-admission-of-women-to-the-rights-of-citizenship"
+    }
+  ]
+}

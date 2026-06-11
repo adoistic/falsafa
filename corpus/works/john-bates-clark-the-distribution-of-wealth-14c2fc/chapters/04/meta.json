@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-bates-clark-the-distribution-of-wealth-14c2fc",
+  "work_title": "The Distribution of Wealth",
+  "chapter_number": 4,
+  "chapter_title": "Chapter II: The Place of Distribution within the Traditional Divisions of Economics",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e9a475a-9ba0-53f7-af36-1098d46894a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4532,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/clark-the-distribution-of-wealth-a-theory-of-wages-interest-and-profits"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "michel-chevalier-society-manners-and-politics-in--18e414",
+  "work_title": "Society, Manners, and Politics in the United States",
+  "chapter_number": 51,
+  "chapter_title": "BEDFORD SPRINGS.",
+  "chapter_slug": "51-bedford-springs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f2064bd0-8c99-5ff5-806e-feed26252c74",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3390,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chevalier-society-manners-and-politics-in-the-united-states"
+    }
+  ]
+}

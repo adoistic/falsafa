@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 22,
+  "chapter_title": "CHAPTER II.: THE APPEARANCE OF NEW ECONOMIC WANTS.",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2cbecff7-8ace-5100-b251-62d80d166d64",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3344,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

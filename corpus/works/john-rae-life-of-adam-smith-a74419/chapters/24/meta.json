@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-rae-life-of-adam-smith-a74419",
+  "work_title": "Life of Adam Smith",
+  "chapter_number": 24,
+  "chapter_title": "CHAPTER XXIII: FREE TRADE FOR IRELAND 1779",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3ac343f3-5255-5238-986f-5685576e1192",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3791,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/rae-life-of-adam-smith"
+    }
+  ]
+}

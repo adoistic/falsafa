@@ -1,0 +1,26 @@
+{
+  "work_slug": "theodore-dwight-woolsey-on-civil-liberty-and-self-govern-6f9899",
+  "work_title": "On Civil Liberty and Self-Government",
+  "chapter_number": 127,
+  "chapter_title": "chapter viii.: general and transitory clauses.",
+  "chapter_slug": "127",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2d6a528e-8941-5b21-8aae-d4c9c555543f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 321,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/woolsey-on-civil-liberty-and-self-government"
+    }
+  ]
+}

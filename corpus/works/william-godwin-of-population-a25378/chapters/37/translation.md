@@ -1,0 +1,41 @@
+---
+work_id: "a253781e-c271-5d6a-acce-659e24f5628d"
+work_slug: "william-godwin-of-population-a25378"
+work_title: Of Population
+author_name: William Godwin
+chapter_number: 37
+chapter_title: "CHAPTER V.: mr. malthus's eleven heads of the causes which keep down population considered."
+chapter_slug: 37
+variant_id: "d1ab5691-7d02-5f1b-a838-4504a63d02b8"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1101
+source_url: "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
+translator: Online Library of Liberty edition
+---
+
+I have complained, and with great reason, of the vague and unsatisfactory style of generalisation in which Mr. Malthus treats his subject. In one place however he makes an attempt at being particular, and enumerates the checks to population under eleven heads. I should therefore be doing injustice to his lucubrations, if I did not bestow some attention on this passage.
+
+The argument of the Essay on Population is this. The population of some parts of the United States doubles itself every twenty-five years in regular series: the population of Europe is at a stand, or nearly so: it is from the increase in these parts of America, that we must infer the inherent power and principle of population: the different state of the numbers of mankind in Europe must be owing to certain checks on population, which operate here, and not in the parts and countries alluded to. These checks Mr. Malthus is for the most part contented to speak of under the denominations of vice and misery.
+
+The passage which I am now going to offer to the attention of the reader is as follows. I transcribe it with no other variation, than the inserting in the proper places the Arabic numerals, for the sake of perspicuity.
+
+“The positive checks to population are extremely various, and include every cause, whether arising from vice or misery, which in any degree contributes to shorten the natural duration of human life. Under this head therefore may be enumerated, 1. all unwholesome occupations, 2. severe labour, 3. exposure to the seasons, 4. extreme poverty, 5. bad nursing of children, 6. great towns, 7. excesses of all kinds, 8. the whole train of common diseases and epidemics, 9. wars, 10. plague, 11. famine.”
+
+There is one thing that has been little, or not at all, adverted to by the disciples and favourers of Mr. Malthus. It is in no respect to the purpose, to produce a long catalogue of the vices that disfigure human society, or the miseries to which it is incident. This has nothing to do with our enquiry. Our only concern is with that vice and misery, or that degree of the one or the other, which exists here, and is not to be found in the northern parts of the United States of America.
+
+I have already treated in a former chapter, of the three last of Mr. Malthus's checks, war, pestilence Edition: current; Page: [356] and famine. They occur only incident-ally in Europe or elsewhere. Their history fortunately may be traced. They are not in the class of the obscure causes, among which Mr. Malthus delights to dwell, and which, according to him, are for ever active and awake to keep down the population of mankind.
+
+By this deduction then I reduce his eleven causes to eight: and I appeal to every impartial man to decide how pitiful a figure they make, when assigned as the sources of such stupendous effects as Mr. Malthus's theory requires from them. But even here, just reasoning requires that we should again subtract from this catalogue all those causes, and all those modifications and degrees of these causes, which are found to exist in the United States.
+
+There is still another and a portentous deduction which we are called on to make. It is but too true, that extreme poverty has been found to exist in some countries, and some periods in certain countries of Europe. It is but too true that England has exhibited a considerable portion of this evil for some years last past. Wherever extreme poverty lasts for any considerable length of time, and spreads itself over a large portion of mankind, it must be expected to keep down population. But this is still nothing to the purpose.
+
+There are certain parts of Europe, where extreme poverty and beggary are scarcely known, Edition: current; Page: [357] and in which there exists no such accumulation of wealth in the hands of a few individuals, as is to be found in more luxurious countries. Commerce has fortunately made little progress among them. Such a country is Switzerland; such a country is Sweden. Now what I require of Mr. Malthus is that he should shew such a difference in the operations of vice and misery, as should account for the republic of the United States doubling its population every twenty-five years in regular series by procreation only, while the population of Sweden perhaps exhibits no increase from century to century, and in its most favourable periods so small and drowsy an increase as that which is presented to us in the Swedish Tables.
+
+This I say he has not done, and this I add neither he nor his followers will ever be able to do. We shall see in the next Book, how the case stands with the United States as to all those causes which are calculated to counteract the multiplication of mankind. Meanwhile, it will appear that I had great reason in the outset to call his theory a house of cards. Without any investigation into the subject he has affirmed that the population of a part of the United. States increases successively in a geometrical ratio, and that by procreation only. This has never been proved, and shall be disproved. In the same manner he pretends to enumerate certain causes which keep down population to an Edition: current; Page: [358] immense extent in Europe, and which have no such operation (for here lies the pith of the question) in America. These causes, when narrowly looked into, crumble into nothing. Mankind do not increase, in the way in which he affirms, and he never had any substantial reason for the affirmation, in the New World. The increase of the numbers of mankind is not counteracted, in the way in which he affirms it is counteracted, in the Old World. The two pillars of his system are wholly a delusion. And, this delusion being blown away, we return to the same principles of good sense and philanthropy, by which all the celebrated legislators of all antiquity were guided as one man.
+
+In addition to what is here alleged, be it further remembered that, as has already abundantly appeared, it is the perishing of young children only, that can answer the purpose of Mr. Malthus's theory for keeping down the population of the Old World. This consideration entitles us to strike out again from Mr. Malthus's Table of checks, “severe labour,” “exposure to the seasons,” and “excesses of all kinds,” as having little or nothing to do with the mortality of young children.

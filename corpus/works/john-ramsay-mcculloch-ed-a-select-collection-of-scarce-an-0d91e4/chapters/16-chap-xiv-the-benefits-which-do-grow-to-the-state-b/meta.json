@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 16,
+  "chapter_title": "CHAP. XIV.: The benefits which do grow to the State by the not raising of Money, and the Prejudices which do grow by the",
+  "chapter_slug": "16-chap-xiv-the-benefits-which-do-grow-to-the-state-b",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "09c1cc0a-0594-5f2f-ba96-d4311e2e6824",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1413,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

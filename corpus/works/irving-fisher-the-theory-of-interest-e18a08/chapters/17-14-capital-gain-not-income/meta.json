@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 17,
+  "chapter_title": "§14. Capital Gain not Income",
+  "chapter_slug": "17-14-capital-gain-not-income",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e3628f25-aa02-5333-a9f6-6565384849b0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 933,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

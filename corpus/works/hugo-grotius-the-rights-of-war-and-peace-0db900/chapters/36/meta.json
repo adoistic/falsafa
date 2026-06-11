@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-rights-of-war-and-peace-0db900",
+  "work_title": "The Rights of War and Peace",
+  "chapter_number": 36,
+  "chapter_title": "CHAPTER VI.: On the Acquisition of Territory and Property by Right of Conquest.",
+  "chapter_slug": "36",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8d77f30a-f95e-5773-8088-908ac7b1896a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4313,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
+    }
+  ]
+}

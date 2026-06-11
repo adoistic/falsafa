@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-what-social-classes-owe-to-each--afdce7",
+  "work_title": "What Social Classes Owe to Each Other",
+  "chapter_number": 9,
+  "chapter_title": "VIII.: ON THE VALUE, AS A SOCIOLOGICAL PRINCIPLE, OF THE RULE TO MIND ONE’S OWN BUSINESS.",
+  "chapter_slug": "09-viii-on-the-value-as-a-sociological-principle-of-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ce3bb43-20a2-597f-9169-824cf0c6c621",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2169,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-what-social-classes-owe-to-each-other"
+    }
+  ]
+}

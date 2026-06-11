@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mill-elements-of-political-economy-3e1c36",
+  "work_title": "Elements of Political Economy",
+  "chapter_number": 5,
+  "chapter_title": "Section II. Capital",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ff9f29b-ad98-5dea-9de2-b1979d5c4acc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2016,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mill-elements-of-political-economy-3rd-ed-1844"
+    }
+  ]
+}

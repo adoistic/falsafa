@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-ancient-law-78eea2",
+  "work_title": "Ancient Law",
+  "chapter_number": 13,
+  "chapter_title": "CHAPTER VIII.: THE EARLY HISTORY OF PROPERTY.",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d620d7d6-2e0e-557f-90d9-41f8aa9d06e7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14308,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-ancient-law"
+    }
+  ]
+}

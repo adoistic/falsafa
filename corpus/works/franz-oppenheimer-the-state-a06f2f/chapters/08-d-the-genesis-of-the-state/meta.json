@@ -1,0 +1,26 @@
+{
+  "work_slug": "franz-oppenheimer-the-state-a06f2f",
+  "work_title": "The State",
+  "chapter_number": 8,
+  "chapter_title": "(d) the genesis of the state",
+  "chapter_slug": "08-d-the-genesis-of-the-state",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "30832d1d-3c39-55a3-b795-5b4ce5fd2faa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5287,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/oppenheimer-the-state"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-the-life-of-richard-cobden-23f473",
+  "work_title": "The Life of Richard Cobden",
+  "chapter_number": 47,
+  "chapter_title": "(11.): To William Hargreaves",
+  "chapter_slug": "47-11-to-william-hargreaves",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "790422a2-b362-5a1f-ac28-eefe3d0e876c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 328,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/morley-the-life-of-richard-cobden"
+    }
+  ]
+}

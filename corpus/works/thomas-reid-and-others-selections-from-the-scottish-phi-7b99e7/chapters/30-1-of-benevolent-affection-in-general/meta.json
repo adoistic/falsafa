@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 30,
+  "chapter_title": "§ 1.: Of Benevolent Affection in General",
+  "chapter_slug": "30-1-of-benevolent-affection-in-general",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eb12b05a-12f3-5b85-b94f-ee6d78f23b53",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 807,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

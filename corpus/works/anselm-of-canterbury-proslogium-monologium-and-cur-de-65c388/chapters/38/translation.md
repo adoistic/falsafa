@@ -1,0 +1,41 @@
+---
+work_id: "65c38856-6963-53d0-a517-e894e1b0a111"
+work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
+work_title: Proslogium; Monologium; and Cur Deus Homo
+author_name: Anselm of Canterbury
+chapter_number: 38
+chapter_title: CHAPTER XXV
+chapter_slug: 38
+variant_id: "01a2ac2c-b790-59b5-8dbb-cae716c9d60e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 932
+source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
+translator: Online Library of Liberty edition
+---
+
+What goods and how great, belong to those who enjoy this good.—Joy is multiplied in the blessed from the blessedness and joy of others
+
+Who shall enjoy this good? And what shall belong to him, and what shall not belong to him? At any rate, whatever he shall wish shall be his, and whatever he shall not wish shall not be his. For, these goods of body and soul will be such as eye hath not seen nor ear heard, neither has the heart of man conceived (Isaiah lxiv. 4; 1 Corinthians ii. 9).
+
+Why, then, dost thou wander abroad, slight man, in thy search for the goods of thy soul and thy body? Love the one good in which are all goods, and it sufficeth. Desire the simple good which is every good, and it is enough. For, what dost thou love, my flesh? What dost thou desire, my soul? There, there is whatever ye love, whatever ye desire.
+
+If beauty delights thee, there shall the righteous shine forth as the sun (Matthew xiii. 43). If swiftness or endurance, or freedom of body, which naught can withstand, delight thee, they shall be as angels of God,—because it is sown a natural body; it is raised a spiritual body (1 Corinthians xv. 44)—in power certainly, though not in nature. If it is a long and sound life that pleases thee, there a healthful eternity is, and an eternal health. For the righteous shall live forever (Wisdom v. 15), and the salvation of the righteous is of the Lord (Psalms xxxvii. 39). If it is satisfaction of hunger, they shall be satisfied when the glory of the Lord hath appeared (Psalms xvii. 15). If it is quenching of thirst, they shall be abundantly Edition: current; Page: [31] satisfied with the fatness of thy house (Psalms xxxvi. 8). If it is melody, there the choirs of angels sing forever, before God. If it is any not impure, but pure, pleasure, thou shalt make them drink of the river of thy pleasures, O God (Psalms xxxvi. 8).
+
+If it is wisdom that delights thee, the very wisdom of God will reveal itself to them. If friendship, they shall love God more than themselves, and one another as themselves. And God shall love them more than they themselves; for they love him, and themselves, and one another, through him, and he, himself and them, through himself. If concord, they shall all have a single will.
+
+If power, they shall have all power to fulfil their will, as God to fulfil his. For, as God will have power to do what he wills, through himself, so they will have power, through him, to do what they will. For, as they will not will aught else than he, he shall will whatever they will; and what he shall will cannot fail to be. If honor and riches, God shall make his good and faithful servants rulers over many things (Luke xii. 42); nay, they shall be called sons of God, and gods; and where his Son shall be, there they shall be also, heirs indeed of God, and joint-heirs with Christ (Romans viii. 17).
+
+If true security delights thee, undoubtedly they shall be as sure that those goods, or rather that good, will never and in no wise fail them; as they shall be sure that they will not lose it of their own accord; and that God, who loves them, will not take it away from those who love him against their will; and that nothing more powerful than God will separate him from them against his will and theirs.
+
+But what, or how great, is the joy, where such and Edition: current; Page: [32] so great is the good! Heart of man, needy heart, heart acquainted with sorrows, nay, overwhelmed with sorrows, how greatly wouldst thou rejoice, if thou didst abound in all these things! Ask thy inmost mind whether it could contain its joy over so great a blessedness of its own.
+
+Yet assuredly, if any other whom thou didst love altogether as thyself possessed the same blessedness, thy joy would be doubled, because thou wouldst rejoice not less for him than for thyself. But, if two, or three, or many more, had the same joy, thou wouldst rejoice as much for each one as for thyself, if thou didst love each as thyself. Hence, in that perfect love of innumerable blessed angels and sainted men, where none shall love another less than himself, every one shall rejoice for each of the others as for himself.
+
+If, then, the heart of man will scarce contain his joy over his own so great good, how shall it contain so many and so great joys? And doubtless, seeing that every one loves another so far as he rejoices in the other’s good, and as, in that perfect felicity, each one should love God beyond compare, more than himself and all the others with him; so he will rejoice beyond reckoning in the felicity of God, more than in his own and that of all the others with him.
+
+But if they shall so love God with all their heart, and all their mind, and all their soul, that still all the heart, and all the mind, and all the soul shall not suffice for the worthiness of this love; doubtless they will so rejoice with all their heart, and all their mind, and all their soul, that all the heart, and all the mind, and all the soul shall not suffice for the fulness of their joy.

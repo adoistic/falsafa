@@ -1,0 +1,26 @@
+{
+  "work_slug": "bruce-smith-liberty-and-liberalism-163e57",
+  "work_title": "Liberty and Liberalism",
+  "chapter_number": 9,
+  "chapter_title": "Chapter VII SOME INFIRMITIES OF DEMOCRATIC GOVERNMENT.",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "98ac007d-6961-5c0f-bde4-34a13a709994",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 15281,
+      "paragraph_count": 70,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-liberty-and-liberalism-1888"
+    }
+  ]
+}

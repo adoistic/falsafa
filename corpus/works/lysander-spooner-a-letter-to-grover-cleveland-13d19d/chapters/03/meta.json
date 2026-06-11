@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-a-letter-to-grover-cleveland-13d19d",
+  "work_title": "A Letter to Grover Cleveland",
+  "chapter_number": 3,
+  "chapter_title": "Section III.",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fb8bd90f-91c4-5526-aeb6-4ce5ee83c172",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 246,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
+    }
+  ]
+}

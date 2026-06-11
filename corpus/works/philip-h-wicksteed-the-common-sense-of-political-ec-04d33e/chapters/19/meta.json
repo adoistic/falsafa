@@ -1,0 +1,26 @@
+{
+  "work_slug": "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e",
+  "work_title": "The Common Sense of Political Economy",
+  "chapter_number": 19,
+  "chapter_title": "CHAPTER VI: THE DIAGRAMMATIC EXPOSITION OF THE LAW OF RENT AND ITS IMPLICATIONS",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c833355-969d-52ef-9ede-d3fe9ccda47f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7507,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wicksteed-the-commonsense-of-political-economy"
+    }
+  ]
+}

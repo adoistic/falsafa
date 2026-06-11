@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-maynard-keynes-the-economic-consequences-of-the-8e91dc",
+  "work_title": "The Economic Consequences of the Peace",
+  "chapter_number": 20,
+  "chapter_title": "V. The German Counter-Proposals",
+  "chapter_slug": "20-v-the-german-counter-proposals",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d37496a9-2fd5-5c42-abd4-a8556e486a15",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1320,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keynes-the-economic-consequences-of-the-peace"
+    }
+  ]
+}

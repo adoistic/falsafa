@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-ancient-law-78eea2",
+  "work_title": "Ancient Law",
+  "chapter_number": 18,
+  "chapter_title": "NOTE C.: EARLY FORMS OF LAW: “WRITTEN” AND “UNWRITTEN” LAW: EARLY CODES.",
+  "chapter_slug": "18-note-c-early-forms-of-law-written-and-unwritten-la",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e09ade3b-9916-5e21-a58d-d891310ac9b0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1614,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-ancient-law"
+    }
+  ]
+}

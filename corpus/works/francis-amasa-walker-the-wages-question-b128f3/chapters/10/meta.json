@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-the-wages-question-b128f3",
+  "work_title": "The Wages Question",
+  "chapter_number": 10,
+  "chapter_title": "Part I, Chapter VIII THE WAGES OF THE LABORER ARE PAID OUT OF THE PRODUCT OF HIS INDUSTRY.",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "680d63c6-3be6-540a-988e-ada7962d90d0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3099,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-the-wages-question-a-treatise-on-wages-and-the-wages-class"
+    }
+  ]
+}

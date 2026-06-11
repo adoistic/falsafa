@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-ferguson-an-essay-on-the-history-of-civil-cb55d2",
+  "work_title": "An Essay on the History of Civil Society",
+  "chapter_number": 31,
+  "chapter_title": "SECTION I.: Of Corruption in General.",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e300c5b8-dd3c-519e-ae54-e628009c4183",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2944,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ferguson-an-essay-on-the-history-of-civil-society"
+    }
+  ]
+}

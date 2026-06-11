@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-what-social-classes-owe-to-each--afdce7",
+  "work_title": "What Social Classes Owe to Each Other",
+  "chapter_number": 2,
+  "chapter_title": "I.: ON A NEW PHILOSPHY: THAT POVERTY IS THE BEST POLICY.",
+  "chapter_slug": "02-i-on-a-new-philosphy-that-poverty-is-the-best-poli",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c34a7605-6e11-5580-977f-08a3f7a03d77",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2931,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-what-social-classes-owe-to-each-other"
+    }
+  ]
+}

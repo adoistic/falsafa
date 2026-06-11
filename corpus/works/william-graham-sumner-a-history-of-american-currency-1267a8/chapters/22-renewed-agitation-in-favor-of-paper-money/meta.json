@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 22,
+  "chapter_title": "RENEWED AGITATION IN FAVOR OF PAPER MONEY.",
+  "chapter_slug": "22-renewed-agitation-in-favor-of-paper-money",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8c9794f6-034f-561c-9f12-3ac8036584b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 846,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

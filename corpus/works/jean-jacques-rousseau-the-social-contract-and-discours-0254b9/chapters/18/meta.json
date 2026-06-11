@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
+  "work_title": "The Social Contract and Discourses",
+  "chapter_number": 18,
+  "chapter_title": "CHAPTER IV: the limits of the sovereign power",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2724899d-83ec-568f-858e-f1e8b050232c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1350,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
+    }
+  ]
+}

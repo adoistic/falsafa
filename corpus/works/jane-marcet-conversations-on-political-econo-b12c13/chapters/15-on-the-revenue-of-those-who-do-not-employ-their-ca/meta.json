@@ -1,0 +1,26 @@
+{
+  "work_slug": "jane-marcet-conversations-on-political-econo-b12c13",
+  "work_title": "Conversations on Political Economy",
+  "chapter_number": 15,
+  "chapter_title": "ON THE REVENUE OF THOSE WHO DO NOT EMPLOY THEIR CAPITAL THEMSELVES.",
+  "chapter_slug": "15-on-the-revenue-of-those-who-do-not-employ-their-ca",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "84f37a7f-10c6-59cb-8991-bde55dd849a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4441,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marcet-conversations-on-political-economy"
+    }
+  ]
+}

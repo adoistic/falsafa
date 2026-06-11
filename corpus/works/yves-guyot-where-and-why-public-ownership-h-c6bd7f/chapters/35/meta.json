@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-where-and-why-public-ownership-h-c6bd7f",
+  "work_title": "Where and Why Public Ownership Has Failed",
+  "chapter_number": 35,
+  "chapter_title": "CHAPTER II: THE SAFETY OF TRAVELERS UPON STATE AND PRIVATE RAILWAY LINES",
+  "chapter_slug": "35",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "999b7ef8-c196-5ce1-86c8-4a9a5b99d821",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1465,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
+    }
+  ]
+}

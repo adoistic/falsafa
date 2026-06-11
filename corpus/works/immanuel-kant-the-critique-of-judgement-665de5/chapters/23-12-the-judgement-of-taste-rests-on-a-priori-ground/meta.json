@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 23,
+  "chapter_title": "§ 12.: The judgement of taste rests on a priori grounds",
+  "chapter_slug": "23-12-the-judgement-of-taste-rests-on-a-priori-ground",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ea71515-9556-5427-8ce2-54faf51bd61c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 475,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

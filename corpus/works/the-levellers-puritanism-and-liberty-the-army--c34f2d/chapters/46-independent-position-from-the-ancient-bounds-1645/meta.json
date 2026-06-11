@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 46,
+  "chapter_title": "Independent Position From The Ancient Bounds (1645)",
+  "chapter_slug": "46-independent-position-from-the-ancient-bounds-1645",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e1bf6517-1e94-5803-b5a4-70512912987c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8922,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

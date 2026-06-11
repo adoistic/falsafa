@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
+  "work_title": "The Social Contract and Discourses",
+  "chapter_number": 52,
+  "chapter_title": "CHAPTER VIII: civil religion",
+  "chapter_slug": "52",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "408cc531-228e-5d20-867d-7b40b8a15c28",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3469,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
+    }
+  ]
+}

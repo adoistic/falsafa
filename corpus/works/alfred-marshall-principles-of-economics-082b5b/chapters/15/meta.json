@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 15,
+  "chapter_title": "BOOK III, CHAPTER VI: VALUE AND UTILITY.",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "db03e6be-5ecc-5d92-8f5b-bec3b034ea81",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3537,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

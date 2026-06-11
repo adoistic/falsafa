@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-principles-of-psychology-794dba",
+  "work_title": "The Principles of Psychology",
+  "chapter_number": 23,
+  "chapter_title": "CHAPTER XVIII.: THE RELATIONS OF SIMILARITY AND DISSIMILARITY.",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d8770476-1f01-5031-975a-aaec4ecc5b94",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1410,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-principles-of-psychology-1855"
+    }
+  ]
+}

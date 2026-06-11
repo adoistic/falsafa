@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-treatises-and-essays-on-subjects-4cfbd6",
+  "work_title": "Treatises and Essays on Subjects Connected with Economic Policy",
+  "chapter_number": 34,
+  "chapter_title": "SKETCH OF THE LIFE AND WRITINGS OF FRANCIS QUESNAY.",
+  "chapter_slug": "34-sketch-of-the-life-and-writings-of-francis-quesnay",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c8783a2e-cce8-5483-8292-31501a13ebdf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4010,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-treatises-and-essays-on-subjects-connected-with-economic-policy-1853"
+    }
+  ]
+}

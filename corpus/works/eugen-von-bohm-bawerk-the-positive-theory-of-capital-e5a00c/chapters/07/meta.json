@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c",
+  "work_title": "The Positive Theory of Capital",
+  "chapter_number": 7,
+  "chapter_title": "Book I, Chapter IV: The True Conception of Capital",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d1927d66-aa08-5a51-b90b-83ca57425c6c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1545,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-the-positive-theory-of-capital"
+    }
+  ]
+}

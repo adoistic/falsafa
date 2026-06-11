@@ -1,0 +1,33 @@
+---
+work_id: "f25830ec-af58-5aa2-bca1-8f4eca049ec8"
+work_slug: "friedrich-von-wieser-natural-value-f25830"
+work_title: Natural Value
+author_name: Friedrich von Wieser
+chapter_number: 49
+chapter_title: "CHAPTER IX: the value of land"
+chapter_slug: 49
+variant_id: "f9b3ba63-d5b6-54a6-b185-9aacec2eccb3"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1011
+source_url: "https://oll.libertyfund.org/titles/smart-natural-value"
+translator: Online Library of Liberty edition
+---
+
+The value of land is calculated — according to the same principles as the value of a permanent rent—by capitalising the rent of land. This is a preposition which is held nowadays as self-evident. It was not always so, however, and, indeed could not always be so. In order to capitalise, a given rate of interest is necessary; and that an interest rate may be given, we need capital. To capitalise rent means to multiply it according to principles which are derived, as the name itself shows, from the valuation of capital.
+
+Imagine an ideal condition of agriculture where no capital whatever is employed. The land yields produce of all kinds and in great quantity. In these circumstances the value of each product can be estimated exactly; the value of each harvest can be estimated exactly; rent can be fixed exactly; — but there is no means by which to determine with certainty how many rents would be required to give the value of the land.
+
+Why is there no such means in the case of land as there is in the case of capital? The answer is simple. Capital reproduces itself in the gross return as a part of that gross return. Thus there is a fixed relation between the two “ known” quantities, gross return and net return, and the “ unknown” quantity, capital value; and this relation gives the measure for capitalisation. Land has not the same double position as productive factor and as product. It produces without being reproduced; and thus, to determine the value of land, it becomes necessary to bring to our aid the standard for capitalisation which we find in capital.
+
+From this consideration it follows that, so long as capital was scarce, it was impossible to obtain a fixed valuation of land. Every owner of land might estimate its value differently, inasmuch as he might take, as basis of calculation, either a greater or smaller number of yearly rentals, according to varying external circumstances, and according as his judgment was influenced by recklessness or by forethought. An egoist pure and simple, who calculated only with regard to his own lifetime, and to whom his land was of importance only because it secured him a rent for life, would estimate its value according to the probable duration of his life, and would thereby obtain a kind of fixed valuation; at all events, his land would represent to him a finite sum of value and not an infinite one. But one who thought of his children, and of succeeding generations, and took their interests into consideration in estimating the value of his land, would of necessity regard it as an infinite amount. As inconsiderate egoism may be counted exceptional, the value of land must, as a rule, have been estimated as infinite, or, at all events, as an amount incapable of being measured.
+
+As a matter of fact, this probably was the case with primitive economy. In the beginning, where land had any value at all ascribed to it—as, e.g., the pasture lands of nomadic tribes when there was no superfluous amount of such lands, — the opinion must have arisen that here man had to do with an indispensable condition of existence; a condition which required to be kept up permanently; and a condition whose importance could not in any way be compared with that of rapidly changing, coming and going, movable goods. The Edition: current; Page: [160] possession of pasture land was a matter of life and death, and the tribe, recognising that its continued existence depended upon the possession, would risk its uttermost to retain it. Even in present times a similar mode of thought may be met with in distant mountainous regions, where the peasant farms his solitary patch of land. His croft is inalienable from him, and its value indeterminable as against other goods. What should the peasant do if he ceased to be a peasant ? No sum of money that a buyer might offer could be any temptation to him, unless just then an occasion presented itself to exchange it for another and better piece of land—an unlikely possibility in the circumstances. The peasant's croft is and remains for him a good by itself, the value of it impossible of expression in goods of any other kind,—in fact, indeterminable.
+
+This conception alters only when capital has become more plentiful, and when the landowner has become more familiar with its use and its value. There are two circumstances which bring this about. The one is that land and capital begin to be exchanged for each other, according to the amount of the rents they yield, and thus people use the value of capital to express the value of land. The other, and more important, is that the land becomes more intensively cultivated, and itself employs much capital. Consequently, in every act of cultivation, the question has to be considered, how land and capital should be employed relatively to each other, so as to give the best returns of rent. The same return in crops may be produced by taking more or less land into cultivation, or by employing more or fewer doses of capital, and agriculturists have to decide on these points. Thus land and capital become commensurable in their products; and, whenever civilisation has got this length, it is impossible longer to avoid valuing land according to the fundamental laws of valuing capital. To do otherwise would be to renounce the only possible measure for calculation and economic decisions. Just as capitals can be rightly compared with each other only when calculated at the same rate of interest, so can land and capital be rightly compared only when the valuation of land assumes the rate of interest on capital.
+
+In the communistic state, it is true, the connection between Edition: current; Page: [161] land and capital, brought about by exchange of the one for the other, disappears, but the connection arising from their common co-operation in production remains. The capitalising of land value, accordingly, would remain as now.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 1,
+  "chapter_title": "EDITOR’S INTRODUCTION",
+  "chapter_slug": "01-editor-s-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e5195a1a-9e11-52b4-943e-c649fc7d7816",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9113,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

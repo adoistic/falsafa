@@ -1,0 +1,26 @@
+{
+  "work_slug": "josiah-tucker-four-tracts-on-political-and-com-61cd0d",
+  "work_title": "Four Tracts on Political and Commercial Subjects",
+  "chapter_number": 11,
+  "chapter_title": "THIRD SCHEME.",
+  "chapter_slug": "11-third-scheme",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b15e722a-bafe-5f43-bee7-38f5669a2836",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1212,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tucker-four-tracts-on-political-and-commercial-subjects"
+    }
+  ]
+}

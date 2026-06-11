@@ -1,0 +1,33 @@
+---
+work_id: "20a14cb3-7dd1-579a-9282-22e87e83cc40"
+work_slug: "william-stanley-jevons-the-theory-of-political-economy-20a14c"
+work_title: The Theory of Political Economy
+author_name: William Stanley Jevons
+chapter_number: 47
+chapter_title: The Gain by Exchange.
+chapter_slug: "47-the-gain-by-exchange"
+variant_id: "6d658380-b4a4-5563-ab68-d441efa45c5a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 947
+source_url: "https://oll.libertyfund.org/titles/jevons-the-theory-of-political-economy"
+translator: Online Library of Liberty edition
+---
+
+It is a most important result of this theory that the ratio of exchange gives no indication of the real benefit derived from the action of exchange. So Edition: current; Page: [142] many trades are occupied in buying and selling, and make their profits by buying low and selling high, that there arises a fallacious tendency to believe that the whole benefit of trade depends upon the differences of prices. It is implied that to pay a high price is worse than doing without the article, and the whole financial system of a great nation may be distorted in the effort to carry out a false theory.
+
+This is the result to which some of J. S. Mill's remarks, in his Theory of International Trade, would lead. That theory is always ingenious, and as it seems to me, nearly always true; but he draws from it the following conclusion: —"The countries which carry on their foreign trade on the most advantageous terms are those whose commodities are most in demand by foreign countries, and which have themselves the least demand for foreign commodities. From which, among other consequences, it follows that the richest countries, cœteris paribus, gain the least by a given amount of foreign commerce: since, having a greater demand for commodities generally, they are likely to have a greater demand for foreign commodities, and thus modify the terms of interchange to their own disadvantage. Their aggregate gains by foreign trade, doubtless, are generally greater than those of poorer countries, since they carry on a greater amount of such trade, and gain the benefit of cheapness on a larger consumption: but Edition: current; Page: [143] their gain is less on each individual article consumed."
+
+In the absence of any explanation to the contrary, this passage must be taken to mean that the advantage of foreign trade depends upon the terms of exchange, and that international trade is less advantageous to a rich than to a poor country. But such a conclusion involves confusion between two distinct things—the price of a commodity and its total utility. A country is not merely like a great mercantile firm buying and selling goods, and making a profit out of the difference of price; it buys goods in order to consume them. But, in estimating the benefit which a consumer derives from a commodity, it is the total utility which must be taken as the measure, not the final degree of utility on which the terms of exchange depend.
+
+To illustrate this truth we may employ the curves in Fig. VII. to represent the functions of utility of two commodities. Let the wool of Australia be represented by the line ob, and its total utility to Australia by the area of the curvilinear figure obrp. Let the utility of a second commodity, say cotton goods, to Australia be similarly represented in the lower curve, so that the quantity of commodity measured by o'b' gives a total utility represented by the figure o'p'r'b'. Then, if Australia gives half its wool, ab, for the quantity of cotton goods represented by o'a', it loses the utility aqrb, but gains that represented by the larger area o'p'q'a'. There is Edition: current; Page: [144] accordingly a considerable net gain of utility, which is the real object of exchange. Even had Australia sold its wool at a lower price, obtaining cotton goods
+
+only to the amount of o'c, the utility of this amount, op'sc, would have exceeded that of the wool given for it.
+
+So far is Mill's statement from being fundamentally correct, that I believe the truth lies in the opposite direction. As a general rule, the greatness of the price which a country is willing and able to pay for the productions of other countries, measures, or at least manifests, the greatness of the benefit which it derives from such imports. He who pays a high price must either have a very great need of that Edition: current; Page: [145] which he buys, or very little need of that which he pays for it; on either supposition there is gain by exchange. In questions of this sort there is but one rule which can be safely laid down, namely, that no one will buy a thing unless he expects advantage from the purchase; and perfect freedom of exchange, therefore, tends to the maximising of utility.
+
+One advantage of the Theory of Economics, carefully studied, will be to make us very careful in our conclusions when the matter is not of the simplest possible nature. The fact that we can most imperfectly estimate the total utility of any one commodity should prevent us, for instance, from attempting to measure the benefit of any trade. Accordingly, when Mill proceeds from his theory of international trade to that of taxation, and arrives at the conclusion that one nation may, by means of taxes on commodities imported, "appropriate to itself, at the expense of foreigners, a larger share than would otherwise belong to it of the increase in the general productiveness of the labour and capital of the world," I venture to question the truth of his results. I conceive that his arguments involve a confusion between the ratio of exchange and the total utility of a commodity, and a far more accurate knowledge of economical laws than any one yet possesses would be required to estimate the true effect of a tax. Customs duties may be requisite as a means of raising revenue, but the time is past when any economist should give the slightest Edition: current; Page: [146] countenance to their employment for manipulating trade, or for interfering with the natural tendency of exchange to increase utility.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 45,
+  "chapter_title": "(O): That Protection Brings into Employment Labor and Capital which would otherwise be Idle.",
+  "chapter_slug": "45-o-that-protection-brings-into-employment-labor-and",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8e14b131-bcb2-579c-b067-9d2f701c397c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 218,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

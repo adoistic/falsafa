@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 48,
+  "chapter_title": "NOTE ON THE RE-COINAGE OF 1696-99.",
+  "chapter_slug": "48-note-on-the-re-coinage-of-1696-99",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8188b9bc-60f3-5c8b-9d1a-b88395b04287",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1359,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

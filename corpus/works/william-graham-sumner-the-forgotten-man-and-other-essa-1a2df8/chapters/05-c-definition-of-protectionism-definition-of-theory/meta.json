@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 5,
+  "chapter_title": "(C): Definition of Protectionism — Definition of “Theory.”",
+  "chapter_slug": "05-c-definition-of-protectionism-definition-of-theory",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a2d8e88-c62c-57e3-84f5-6371b9b53b26",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1379,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

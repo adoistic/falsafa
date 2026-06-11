@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 76,
+  "chapter_title": "section III.: On the Effects of Taxes imposed on a particular Commodity.",
+  "chapter_slug": "76",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "20839ab3-e41b-5c0b-8d9a-50fc909792cf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 820,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

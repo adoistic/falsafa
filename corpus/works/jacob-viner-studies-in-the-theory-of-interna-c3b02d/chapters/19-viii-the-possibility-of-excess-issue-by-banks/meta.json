@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 19,
+  "chapter_title": "VIII. The Possibility of Excess Issue by Banks",
+  "chapter_slug": "19-viii-the-possibility-of-excess-issue-by-banks",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6c998298-11f3-544a-ab6a-7917d2ac36d0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1524,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

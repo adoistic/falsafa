@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221",
+  "work_title": "The Recollections of Alexis de Tocqueville",
+  "chapter_number": 20,
+  "chapter_title": "CHAPTER II: ASPECT OF THE CABINET—ITS FIRST ACTS UNTIL AFTER THE INSURRECTIONARY ATTEMPTS OF THE 13TH OF JUNE.",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eeda7a17-60c3-51e2-92a3-0960d7c09bad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5703,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/de-mattos-the-recollections-of-alexis-de-tocqueville-1896"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 6,
+  "chapter_title": "§. 4.: Zeit—Irrthum.",
+  "chapter_slug": "06-4-zeit-irrthum",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d384fbd4-0eee-5542-b876-1a9dbe0c30eb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1553,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

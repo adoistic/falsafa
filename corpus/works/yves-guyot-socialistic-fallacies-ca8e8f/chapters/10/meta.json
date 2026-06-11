@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-socialistic-fallacies-ca8e8f",
+  "work_title": "Socialistic Fallacies",
+  "chapter_number": 10,
+  "chapter_title": "CHAPTER VI: Morelly and the “Code de la Nature“",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8dfbef5-3088-5208-aeab-12bfe29a6ade",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 533,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+    }
+  ]
+}

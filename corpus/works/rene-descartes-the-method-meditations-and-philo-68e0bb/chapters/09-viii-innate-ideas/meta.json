@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 9,
+  "chapter_title": "VIII.: Innate Ideas.",
+  "chapter_slug": "09-viii-innate-ideas",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eae29141-f6f3-545a-9af8-db1cbdb2d27d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 412,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f",
+  "work_title": "The Ruins, or a Survey of the Revolutions of Empires",
+  "chapter_number": 29,
+  "chapter_title": "Sect. V.: Mystical or moral worship, or the system of a future state.",
+  "chapter_slug": "29-sect-v-mystical-or-moral-worship-or-the-system-of-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "241cfcce-5725-52e0-a50a-82ccfd0963a5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1116,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/volney-the-ruins-or-a-survery-of-the-revolutions-of-empires"
+    }
+  ]
+}

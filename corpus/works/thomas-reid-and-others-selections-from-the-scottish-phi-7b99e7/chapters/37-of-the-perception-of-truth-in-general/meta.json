@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 37,
+  "chapter_title": "OF THE PERCEPTION OF TRUTH IN GENERAL",
+  "chapter_slug": "37-of-the-perception-of-truth-in-general",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49263e0d-0540-57df-bc17-d1e8bb55f875",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2319,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

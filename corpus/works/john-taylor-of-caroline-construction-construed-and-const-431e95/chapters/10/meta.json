@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-taylor-of-caroline-construction-construed-and-const-431e95",
+  "work_title": "Construction Construed and Constitutions Vindicated",
+  "chapter_number": 10,
+  "chapter_title": "SECTION 8.: THE BANK DECISION.—SOVEREIGNTY OF SPHERES.",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11106701-2166-5520-a16c-3ccbad24bfbf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7523,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/taylor-construction-construed-and-constitutions-vindicated"
+    }
+  ]
+}

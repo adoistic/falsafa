@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-richter-pictures-of-the-socialistic-futu-81939f",
+  "work_title": "Pictures of the Socialistic Future",
+  "chapter_number": 26,
+  "chapter_title": "Chapter XXIII: FOREIGN COMPLICATIONS.",
+  "chapter_slug": "26",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "24411365-c4f3-5ac2-910b-4e2a40cc4ea3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1123,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
+    }
+  ]
+}

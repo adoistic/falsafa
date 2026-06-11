@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-the-forgotten-man-and-other-essa-1a2df8",
+  "work_title": "The Forgotten Man and Other Essays",
+  "chapter_number": 85,
+  "chapter_title": "STRIKES AND THE INDUSTRIAL ORGANIZATION",
+  "chapter_slug": "85-strikes-and-the-industrial-organization",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae22f7fb-c91b-58d7-82f2-131eb93b1c21",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1355,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-the-forgotten-man-and-other-essays-corrected-edition"
+    }
+  ]
+}

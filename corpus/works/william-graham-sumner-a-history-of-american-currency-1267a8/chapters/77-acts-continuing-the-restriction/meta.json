@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 77,
+  "chapter_title": "ACTS CONTINUING THE RESTRICTION.",
+  "chapter_slug": "77-acts-continuing-the-restriction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2eeca127-7389-5514-b70e-58208e1a83be",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 246,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

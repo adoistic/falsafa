@@ -1,0 +1,26 @@
+{
+  "work_slug": "pelatiah-webster-political-essays-on-the-nature-a-610880",
+  "work_title": "Political Essays on the Nature and Operation of Money",
+  "chapter_number": 10,
+  "chapter_title": "AN ESSAY ON The Economy, Policy, and Resources of the THIRTEEN STATES, AND The Means of their Preservation. [First publi",
+  "chapter_slug": "10-an-essay-on-the-economy-policy-and-resources-of-th",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e2a1d3ba-bb50-5297-b66a-4198f20a3927",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3250,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/webster-political-essays-on-the-nature-and-operation-of-money"
+    }
+  ]
+}

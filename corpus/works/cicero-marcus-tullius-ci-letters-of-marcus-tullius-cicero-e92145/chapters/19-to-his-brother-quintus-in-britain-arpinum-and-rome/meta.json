@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
+  "work_title": "Letters of Marcus Tullius Cicero",
+  "chapter_number": 19,
+  "chapter_title": "To His Brother Quintus (In Britain) Arpinum and Rome, 28 September",
+  "chapter_slug": "19-to-his-brother-quintus-in-britain-arpinum-and-rome",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "351e5372-627b-52da-bd95-e67d281f6696",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3570,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+    }
+  ]
+}

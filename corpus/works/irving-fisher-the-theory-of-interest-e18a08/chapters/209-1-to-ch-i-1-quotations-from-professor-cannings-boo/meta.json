@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 209,
+  "chapter_title": "§1 (to Ch. I, § 1) Quotations from Professor Canning's book",
+  "chapter_slug": "209-1-to-ch-i-1-quotations-from-professor-cannings-boo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d629b1b0-d29b-5e48-b346-0b16a705ae17",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 584,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

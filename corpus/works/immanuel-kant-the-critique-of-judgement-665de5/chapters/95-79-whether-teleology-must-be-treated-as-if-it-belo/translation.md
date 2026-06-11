@@ -1,0 +1,27 @@
+---
+work_id: "665de50e-81ff-5d11-85d9-3b5bd81fcf92"
+work_slug: "immanuel-kant-the-critique-of-judgement-665de5"
+work_title: The Critique of Judgement
+author_name: Immanuel Kant
+chapter_number: 95
+chapter_title: "§ 79.: Whether teleology must be treated as if it belonged to the doctrine of nature"
+chapter_slug: "95-79-whether-teleology-must-be-treated-as-if-it-belo"
+variant_id: "999e3d99-2bc3-5a59-887f-28bbefc0f6ce"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 501
+source_url: "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+translator: Online Library of Liberty edition
+---
+
+Every science must have its definite position in the encyclopaedia of all the sciences. If it is a philosophical science its position must be either in the theoretical or practical part. If again it has its place in the former of these, it must be either in the doctrine of nature, so far as it concerns that which can be an object of experience (in the doctrine of bodies, the doctrine of the soul, or the universal science of the world), or in the doctrine of God (the original ground of the world as the complex of all objects of experience).
+
+Now the question is, what place is due to Teleology? Does it belong to Natural Science (properly so called) or to Theology? One of the two it must be; for no science belongs to the transition from one to the other, because this transition only marks the articulation or organisation of the system, and not a place in it.
+
+That it does not belong to Theology as a part thereof, although it may be made of the most important use therein, is self-evident. For it has as Edition: current; Page: [335] its objects, natural productions, and their cause, and although it refers at the same time to the latter as to a ground lying outside of and beyond nature (a Divine Author), yet it does not do this for the determinant but only for the reflective Judgement in the consideration of nature (in order to guide our judgement on things in the world by means of such an Idea as a regulative principle, in conformity with the human Understanding).
+
+But it appears to belong just as little to Natural Science, which needs determinant and not merely reflective principles in order to supply objective grounds for natural effects. In fact, nothing is gained for the theory of nature or the mechanical explanation of its phenomena by means of its effective causes, by considering them as connected according to the relation of purposes. The exhibition of the purposes of nature in its products, so far as they constitute a system according to teleological concepts, properly belongs only to a description of nature which is drawn up in accordance with a particular guiding thread. Here Reason, no doubt, accomplishes a noble work, instructive and practically purposive in many points of view; but it gives no information as to the origin and the inner possibility of these forms, which is the special business of theoretical Natural Science. Teleology, therefore, as science, belongs to no Doctrine, but only to Criticism; and to the criticism of a special cognitive faculty, viz. Judgement. But so far as it contains principles a priori, it can and must furnish the method by which nature must be judged according to the principle of final causes. Hence its Methodology has at least negative influence upon the procedure in theoretical Natural Edition: current; Page: [336] Science, and also upon the relation which this can have in Metaphysic to Theology as its propaedeutic.

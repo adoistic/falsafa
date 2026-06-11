@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-the-tyranny-of-socialism-1e5c8b",
+  "work_title": "The Tyranny of Socialism",
+  "chapter_number": 24,
+  "chapter_title": "SOCIALISTIC METHODS.",
+  "chapter_slug": "24-socialistic-methods",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b84bb29a-7585-530f-bf40-43d3496b506d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2441,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/guyot-the-tyranny-of-socialism"
+    }
+  ]
+}

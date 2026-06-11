@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-thelwall-the-rights-of-nature-against-the-1c74cc",
+  "work_title": "The Rights of Nature against the Usurpations of Establishments",
+  "chapter_number": 2,
+  "chapter_title": "ADVERTISEMENT.",
+  "chapter_slug": "02-advertisement",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "75a4747a-1c0c-5090-be13-03ba4fb07282",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2670,
+      "paragraph_count": 82,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thelwall-the-rights-of-nature-against-the-usurpations-of-establishments-1796"
+    }
+  ]
+}

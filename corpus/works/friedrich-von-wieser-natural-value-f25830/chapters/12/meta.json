@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 12,
+  "chapter_title": "CHAPTER IX: the valuation of goods in stocks. the law of marginal utility the general law of value",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c5653417-9528-58df-a16f-9893549a3d58",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1093,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

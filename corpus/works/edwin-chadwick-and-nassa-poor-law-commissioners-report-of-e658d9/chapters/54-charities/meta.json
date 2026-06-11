@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 54,
+  "chapter_title": "Charities",
+  "chapter_slug": "54-charities",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f62565ff-57c1-5b25-a6d7-fe8899cc6c8d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3744,
+      "paragraph_count": 394,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

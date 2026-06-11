@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 37,
+  "chapter_title": "IX. Currency Reform Proposals",
+  "chapter_slug": "37-ix-currency-reform-proposals",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e60e183-25f2-5f00-8fd1-5e43f4fadd4c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2954,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

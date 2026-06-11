@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 10,
+  "chapter_title": "BOOK I, CHAPTER VII: OF THE LABOUR OF MANKIND, OF NATURE, AND OF MACHINERY RESPECTIVELY.",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "32b5226d-bd68-507d-b280-2a185ddb939a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2252,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

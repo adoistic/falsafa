@@ -1,0 +1,23 @@
+---
+work_id: "542875eb-ff23-56e6-8c35-7901b25dd56b"
+work_slug: "irving-fisher-the-purchasing-power-of-money-542875"
+work_title: The Purchasing Power of Money
+author_name: Irving Fisher
+chapter_number: 19
+chapter_title: § 2
+chapter_slug: "19-2"
+variant_id: "954397c7-276b-55e2-8f9c-71079ade9bf0"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 492
+source_url: "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+translator: Online Library of Liberty edition
+---
+
+We are now ready to study temporary or transitional changes in the factors of our equation of exchange. Let us begin by assuming a slight initial disturbance, such as would be produced, for instance, by an increase in the quantity of gold. This, through the equation of exchange, will cause a rise in prices. As prices rise, profits of business men, measured in money, will rise also, even if the costs of business were to rise in the same Edition: current; Page: [59] proportion. Thus, if a man who sold $10,000 of goods at a cost of $6000, thus clearing $4000, could get double prices at double cost, his profit would be double also, being $20,000—$12,000, which is $8000. Of course such a rise of prices would be purely nominal, as it would merely keep pace with the rise in price level. The business man would gain no advantage, for his larger money profits would buy no more than his former smaller money profits bought before. But, as a matter of fact, the business man's profits will rise more than this because the rate of interest he has to pay will not adjust itself immediately. Among his costs is interest, and this cost will not, at first, rise. Thus the profits will rise faster than prices. Consequently, he will find himself making greater profits than usual, and be encouraged to expand his business by increasing his borrowings. These borrowings are mostly in the form of short-time loans from banks; and, as we have seen, short-time loans engender deposits. As is well known, the correspondence between loans and deposits is remarkably exact.Therefore, deposit currency (M') will increase, but this extension of deposit currency tends further to raise the general level of prices, just as the increase of gold raised it in the first place.Hence prices, which were already outstripping the rate of interest, tend to outstrip it still further, enabling borrowers, Edition: current; Page: [60] who were already increasing their profits, to increase them still further. More loans are demanded, and although nominal interest may be forced up somewhat, still it keeps lagging below the normal level. Yet nominally the rate of interest has increased; and hence the lenders, too, including banks, are led to become more enterprising. Beguiled by the higher nominal rates into the belief that fairly high interest is being realized, they extend their loans, and with the resulting expansion of bank loans, deposit currency (M'), already expanded, expands still more. Also, if prices are rising, the money value of collateral may be greater, making it easier for borrowers to get large credit.Hence prices rise still further.This sequence of events may be briefly stated as follows:—
+
+In other words, a slight initial rise of prices sets in motion a train of events which tends to repeat itself. Rise of prices generates rise of prices, and continues to do so as long as the interest rate lags behind its normal figure.

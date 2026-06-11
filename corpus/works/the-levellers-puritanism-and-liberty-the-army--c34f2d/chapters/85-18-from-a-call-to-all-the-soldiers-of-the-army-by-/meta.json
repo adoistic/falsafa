@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 85,
+  "chapter_title": "18.: From A Call to all the Soldiers of the Army by the Free People of England (29th Oct.)",
+  "chapter_slug": "85-18-from-a-call-to-all-the-soldiers-of-the-army-by-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ad3756ab-27d3-5b13-989b-97e8b7b9917f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2265,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

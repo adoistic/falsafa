@@ -1,0 +1,33 @@
+---
+work_id: "18e41462-f9d8-5062-91ba-f0ad6c58baf7"
+work_slug: "michel-chevalier-society-manners-and-politics-in--18e414"
+work_title: Society, Manners, and Politics in the United States
+author_name: Michel Chevalier
+chapter_number: 23
+chapter_title: INTERCOMMUNICATION.
+chapter_slug: "23-intercommunication"
+variant_id: "1472532f-ad52-57be-8143-6e2bbb6f2850"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1031
+source_url: "https://oll.libertyfund.org/titles/chevalier-society-manners-and-politics-in-the-united-states"
+translator: Online Library of Liberty edition
+---
+
+The territory of the United States consists; 1. of the two great inland basins of the Mississippi and the St. Lawrence, which run, the former from north to south towards the Gulf of Mexico, the latter from south to north toward the gulf to which it gives its own name: 2. on the eastern side, of a group of smaller basins, which empty their waters into the Atlantic ocean, and of which the principal are those of the rivers Connecticut, Hudson, Delaware, Susquehanna, Potomac, James, Roanoke. Santee, Savannah, and Alatamaha. The Alleghany Mountains, which, from their lying in the direction of the length of the continent, are called the back-bone of the United States, form a natural water-shed, dividing the great inland basins from the eastern group of small basins. On the west, the valleys of the St. Lawrence and Mississippi are bounded by the Mexican Cordilleras, which here take the name of Rocky Mountains. At the foot of this chain spreads out a wide desert, bare of vegetation, and which, excepting some oases, can never, it is said, be peopled by man.
+
+Almost the whole English-American population is as yet on the left of the Mississippi. On the right bank there is only one State, and that one of the least important of the confederacy, and one Territory, that of Arkansas, which will soon become one of the members of the Union. Edition: current; Page: [228] The Alleghany chain does not reach a great height; being hardly as lofty as the Vosges, while the Rocky Mountains exceed in elevation the Pyrenees and even the Alps.
+
+The Alleghany system, although of no great height, rises from a very wide base, of which the breadth is nearly 150 miles by an air-line. Viewed as a whole, it consists of a number of cavities separated by as many ridges or crests, and stretching with great uniformity, nearly from one end of the chain to the other, from the shores of New England, where the mountains are washed by the sea, to the Gulf of Mexico, in the neighbourhood of which they gradually sink down. These alternations of the ridges and cavities form a series of parallel furrows, which may be traced on the surface, with some breaks, through a distance of 1200 or 1500 miles. The geological formations are arranged very nearly in conformity with these furrows, through great distances; there are, however, exceptions from this rule, for sometimes the same layer is seen to pass from one furrow to another, always cutting the former at a very acute angle.
+
+Notwithstanding this general character of regularity, these cavities are not hydrographical basins or river valleys. But the rivers, instead of hollowing out beds between two successive ridges, and thus passing off to the sea, frequently pass from one furrow to another, breaking through the weak points of the ridges. These openings or gaps, as they are here called, are highly useful as routes for roads, canals, and railroads, enabling the engineer, by Edition: current; Page: [229] following the course of the rivers, to flank heights, which it would have been almost impossible to top. Of all these openings the most interesting is that made by the Potomac through the Blue Ridge, at Harper’s Ferry, which Jefferson, in his Virginian enthusiasm, said was worth a voyage across the Atlantic.
+
+The United States may then be divided hydrographically into two distinct regions, the one to the east, the other to the west, of the Alleghanies; or into three, as under: 1. the Mississippi valley: 2. the valley of the St. Lawrence with the great lakes: 3. the Atlantic coast. This vast country may also be divided into the North and the South, and it has two commercial capitals, New York and New Orleans, which are, as it were, the two lungs of this great body, the two galvanic poles of the system. Between these two divisions, the North and the South, there are radical differences, both in a political and an industrial point of view. The social frame in the South is founded on slavery; in the North, on universal suffrage. The South is a great cotton-plantation, yielding also some subsidiary articles, such as tobacco, sugar, and rice. The North acts as factor or agent for the South, selling the productions of the latter, and furnishing her in return with those of Europe; as a sailor, carrying her cotton beyond sea; as an artisan, making all her household utensils and farming tools, her cotton-gins, her sugar-mills, her furniture, wearing apparel, and all other articles of daily use, and finding her also in corn and salted provisions.
+
+From these views it appears that the great public works in the United States must have the following objects: 1. To connect the Atlantic coast-region with the region beyond the Alleghanies; that is, to unite the rivers of the former, such as the Hudson, the Susquehanna, the Potomac, the James, or its bays, such as the Delaware and the Chesapeake, either with the Mississippi or its tributary the Edition: current; Page: [230] Ohio, or with the St. Lawrence, or the great lakes Erie and Ontario, whose waters are carried by the St. Lawrence to the Ocean: 2. To form communications between the Mississippi Valley and that of the St. Lawrence, that is, between one of the great tributaries of the Mississippi, such as the Ohio, the Illinois, or the Wabash, and Lake Erie or Lake Michigan, which, of all the great lakes of the St. Lawrence basin, reach the furthest southwards. 3. To connect together the northern and southern poles of the Union, New York and New Orleans.
+
+Independently of these three new systems of public works, which are in fact, in progress, and even in part completed, there are numerous secondary lines, intended to make the access to the centres of consumption more easy, or to open outlets from certain centres of production, whence arise two new classes of works; the one including the various canals and railroads, which, starting from the great cities as centres, radiate from them in all directions, and the other, comprising the similar works executed for the transportation of coal from the coal-regions.

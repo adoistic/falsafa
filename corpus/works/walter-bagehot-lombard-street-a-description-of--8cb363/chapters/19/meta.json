@@ -1,0 +1,26 @@
+{
+  "work_slug": "walter-bagehot-lombard-street-a-description-of--8cb363",
+  "work_title": "Lombard Street: A Description of the Money Market",
+  "chapter_number": 19,
+  "chapter_title": "Chapter VIII: The Government of the Bank of England",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "770bb5ad-d221-57ac-8b7b-5c5b318592b3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7641,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bagehot-lombard-street-a-description-of-the-money-market"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-what-social-classes-owe-to-each--afdce7",
+  "work_title": "What Social Classes Owe to Each Other",
+  "chapter_number": 7,
+  "chapter_title": "VI.: THAT HE WHO WOULD BE WELL TAKEN CARE OF MUST TAKE CARE OF HIMSELF.",
+  "chapter_slug": "07-vi-that-he-who-would-be-well-taken-care-of-must-ta",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4140a20f-7611-5e3c-b2f7-ef9cffaac4b3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3487,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-what-social-classes-owe-to-each-other"
+    }
+  ]
+}

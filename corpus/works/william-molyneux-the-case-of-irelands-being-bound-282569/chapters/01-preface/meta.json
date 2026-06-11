@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-molyneux-the-case-of-irelands-being-bound-282569",
+  "work_title": "The Case of Ireland's Being Bound by Acts of Parliament in England, Stated",
+  "chapter_number": 1,
+  "chapter_title": "PREFACE.",
+  "chapter_slug": "01-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "80392723-81ca-5290-8c68-9dfe4b0216f0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4561,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/molyneux-the-case-of-ireland-being-bound-by-acts-of-parliament-in-england-stated"
+    }
+  ]
+}

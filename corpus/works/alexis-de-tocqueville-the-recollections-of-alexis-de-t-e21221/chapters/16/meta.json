@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221",
+  "work_title": "The Recollections of Alexis de Tocqueville",
+  "chapter_number": 16,
+  "chapter_title": "CHAPTER X: THE DAYS OF JUNE—(continued).",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ea31c1a-9519-5dfe-813e-8d7ce1b9e74d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4575,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/de-mattos-the-recollections-of-alexis-de-tocqueville-1896"
+    }
+  ]
+}

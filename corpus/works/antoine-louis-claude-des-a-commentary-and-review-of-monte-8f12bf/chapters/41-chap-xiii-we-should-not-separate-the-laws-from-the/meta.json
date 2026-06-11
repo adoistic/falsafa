@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-commentary-and-review-of-monte-8f12bf",
+  "work_title": "A Commentary and Review of Montesquieu's Spirit of Laws",
+  "chapter_number": 41,
+  "chapter_title": "Chap. XIII.... We should not separate the laws from the purposes for which they were established: of the Roman laws agai",
+  "chapter_slug": "41-chap-xiii-we-should-not-separate-the-laws-from-the",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7b0db09f-5c55-5d90-9a7c-38067a2f8ecf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 234,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws"
+    }
+  ]
+}

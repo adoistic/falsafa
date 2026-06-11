@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221",
+  "work_title": "The Recollections of Alexis de Tocqueville",
+  "chapter_number": 2,
+  "chapter_title": "CHAPTER I: ORIGIN AND CHARACTER OF THESE RECOLLECTIONS—GENERAL ASPECT OF THE PERIOD PRECEDING THE REVOLUTION OF 1848—PRE",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bf1a6546-398e-51c0-9877-3c3a2ab749b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4191,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/de-mattos-the-recollections-of-alexis-de-tocqueville-1896"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "richard-price-observations-on-the-nature-of-ci-b35d14",
+  "work_title": "Observations on the Nature of Civil Liberty",
+  "chapter_number": 11,
+  "chapter_title": "SECT. III.: Of the Policy of the War with America.",
+  "chapter_slug": "11-sect-iii-of-the-policy-of-the-war-with-america",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8533ccbd-4006-5f77-b5a5-0addc03d9fb4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7883,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/price-observations-on-the-nature-of-civil-liberty"
+    }
+  ]
+}

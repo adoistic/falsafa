@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 18,
+  "chapter_title": "LEGAL-TENDER PAPER ABOLISHED.",
+  "chapter_slug": "18-legal-tender-paper-abolished",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9fe700e9-cd56-5fe2-81e7-24896f3e5e96",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 221,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

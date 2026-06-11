@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-hume-the-natural-history-of-religion-5e0aa3",
+  "work_title": "The Natural History of Religion",
+  "chapter_number": 15,
+  "chapter_title": "Section XIII.: Impious conceptions of the divine nature in popular religions of both kinds.",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c57d6fcf-c0fb-5656-9be2-6dc2af3e6209",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1052,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/robertson-the-natural-history-of-religion"
+    }
+  ]
+}

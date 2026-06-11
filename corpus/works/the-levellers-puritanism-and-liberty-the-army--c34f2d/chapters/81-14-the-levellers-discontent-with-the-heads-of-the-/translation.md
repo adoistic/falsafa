@@ -1,0 +1,45 @@
+---
+work_id: "c34f2dbe-8897-57b3-9d3e-5d21586e8249"
+work_slug: "the-levellers-puritanism-and-liberty-the-army--c34f2d"
+work_title: "Puritanism and Liberty: The Army Debates (1647–9)"
+author_name: The Levellers
+chapter_number: 81
+chapter_title: "14.: The Levellers’ Discontent with the Heads of the Proposals From [John Wildman], Putney Projects"
+chapter_slug: "81-14-the-levellers-discontent-with-the-heads-of-the-"
+variant_id: "1b4f8069-bbfe-588a-8dbb-00790079a3ac"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1413
+source_url: "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+translator: Online Library of Liberty edition
+---
+
+But . . . I must not . . . beguile you . . . by styling them The Army’s Proposals. * * * I scarce believe they passed a General Council before they were published. But that’s not all; for they last of all passed the King’s eye, and therefore it is no wonder that he moved for a personal treaty upon those Proposals. * * *
+
+When the Proposals were first composed there was a small restriction of the King’s negative voice: it was agreed to be proposed that whatsoever bill should be propounded by two immediate succeeding Parliaments should stand in full force and effect as any other law, though the King should refuse to consent. By this the people should not have been absolutely vassals to the King’s will: they should have been under some possibility of relief under any growing oppressions. But this entrenched too much upon the King’s interest to be insisted upon. * * *
+
+In that rough draft it was proposed that all who have been in hostility against the Parliament be incapable of bearing office of power or public trust for ten years, without consent of Parliament. But in further favour of the King’s interest, these ten years of excluding delinquents from power or trust, were changed to five years.
+
+It was further added, after this intercourse with the King, that the Council of State should have power to admit such delinquents to any office of power or trust before those five years were expired; and thus by the King’s insinuations to that council (if any such should be constituted), and their own relations’, the greatest delinquents in England would be in the greatest trust before twelve months’ end.
+
+In the composure of the Proposals it was desired that an act for the extirpation of bishops might be passed by the King. But if there should be none to preach up the King’s interest, and by flattering, seducing Edition: current; Page: [427] words to beguile the people, and foster high imaginations and superstitious conceits of the King in their hearts under the rude and general notion of authority, his lordliness and tyranny would be soon distasted. And therefore this proposal was so moderated that the office and function of the bishops might be continued; and it is now only proposed that the coercive power and jurisdiction of bishops, extending to any civil penalties upon any, be abolished.
+
+After this treaty with the King, the proposal for passing an Act to confirm the sale of bishops’ lands was wholly obliterated; and though the Army afterwards desired the Parliament to proceed in the sale and alienation of those lands, yet that was none of their proposals in order to a peace with the King. But according to their proposals for a settled peace, the King was first to be established on his throne with his usurped power of a negative voice to all laws or determinations of Parliament, and then they knew that the King might be at his choice whether he would permit an alienation of these lands. * * *
+
+You have seen the stream of power declared to proceed from a false fountain, the King’s will; the right to command your persons in the exercise of the militia, given away to the capital enemy; and a respect of persons allowed in the execution of the laws. Yet . . . I have not searched all your wounds received from your pretended friends. Let me search two or three more.
+
+First, by the Proposals the people are made to depend upon the King’s absolute will for the redress of all the grievances and oppressions under which they have groaned so many years. It is proposed, that the King be restored to the exercise of the regal power, part whereof, in the King[’s] and their interpretation, is his negative voice, before the least common grievance be redressed, a burden removed. Compare the fourteenth proposal with the thirteen preceding. By this whenever the Parliament shall remember their duty to study redress for the people’s grievances, they shall but sow the wind and reap the whirlwind, unless they gain the concurrence of the King’s will. Then in case the brutish vassalage under unknown laws, and worse than Turkish manner of their execution, should be laid to heart, and redress prepared; if it should be endeavoured to cut off those excretions of nature, the great lawyers, which grow up out of the ruins and decays of the natural members of the body politic; if the oppressions by unjust judges, justices and other officers, by illegal imprisonments during pleasure, by examining upon interrogatories, and those other oppressions by forced oaths, tithes, monopolies, forest laws, &c., should have suitable remedy contrived: yet the people’s good of all such labours shall depend solely upon the King’s will. Though the degrees of oppression, injustice, and cruelty are the turning stairs by which he ascends to his absolute stately majesty and greatness; yet he must be depended upon to remove oppressions. * * * Cleanliness must come forth out of uncleanness in the abstract. And seeing this is the order wherein the Army proposed the people’s grievances to be redressed, I know no Edition: current; Page: [428] other use of those Proposals than to support the tottering reputation of the grand officers in the minds of such as shall not discern their vanity.
+
+Secondly, by the Proposals all the Commons of England are made to depend upon the King’s absolute creatures for freedom. Although the Lords are the very offspring of the King’s corrupt will, and were never so honoured by the people as to have a trust committed to them to represent any county, yet those Proposals invest them with the highest authority, only because of the King’s patent:
+
+1. The Proposals allow them a power over the militia, co-ordinate and co-equal to the Representative of all the nation, the Commons in Parliament. * * *
+
+2. A judicial power in exposition and application of law (in no degree subordinate to the Commons) is estated in the Lords, by the ninth particular of the first proposal; so that any sentence of the Commons, representing all England, may be contradicted by five or six Lords, by virtue of the King’s patent. And likewise they are invested by the fourth proposal with a power equal to the Commons in the disposing all the offices of power and trust in the nation; and the third particular of the second proposal allows them the same power in raising of money for the public service. And a restriction to their usurpation of a negative voice to all the resolutions of the Commons, is not once named or intimated, although Ireton himself hath confessed in their councils that the King by his oath is obliged to confirm such laws as the Commons should choose—the word vulgus in the King’s oath, signifying people or folk, excludes the Lords totally from any right to intermeddle in making laws. And further the Proposals connive at least (in the tenth particular of the first proposal) at the Lords’ constant treasonable subversion of the fundamental laws of England, by molesting, summoning, attaching, and imprisoning the Commons, over whom by the known laws they have no original jurisdiction.
+
+Indeed it is offered that the Commons’ liberty may be cleared as to an exemption from any judgment of the Peers, without the concurring judgment of the House of Commons. But the Lords’ barbarous cruelty in vexing and imprisoning the Commons at their pleasure, and during their pleasure, is not motioned to be restrained: but it is rather insinuated that the Lords may pass upon the Commons and then desire the Commons’ concurrence. Thus they indulge the Lords in their most palpable injustice and open violation of the ancient English liberties contained in Magna Charta, and lately confirmed in the Petition of Right.
+
+And does not this practice run parallel with this proposal? Has not Cromwell suffered that gallant champion for English freedom, Lieutenant-Colonel John Lilburne, to consume in prison by that usurped lordly power? Yea, though Cromwell first engaged him against the lordly usurpation and tyranny, by impeaching the Earl of Manchester for his treachery; yet hath he not unworthily deserted both the prosecution Edition: current; Page: [429] of justice against him, and left his implored assistant alone to maintain the hazardous contest or to be crushed to pieces by their potency? * * *

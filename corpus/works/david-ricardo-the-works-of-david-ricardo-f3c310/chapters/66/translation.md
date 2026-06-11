@@ -1,0 +1,29 @@
+---
+work_id: "f3c3108a-fa4a-5c8b-8013-ac6868798c52"
+work_slug: "david-ricardo-the-works-of-david-ricardo-f3c310"
+work_title: The Works of David Ricardo
+author_name: David Ricardo
+chapter_number: 66
+chapter_title: section III.
+chapter_slug: 66
+variant_id: "783a5154-fb9f-548b-90bc-070d0af01690"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 925
+source_url: "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+translator: Online Library of Liberty edition
+---
+
+The Standard, its Imperfections—Variations below without Allowance of the countervailing variations above the Standard, their Effects—Correspondence with the Standard the Rule for Paper Money.
+
+While a standard is used, we are subject to only such a variation in the value of money as the standard itself is subject to; but against such variation there is no possible remedy, and late events have proved that, during periods of war, when gold and silver are used for the payment of large armies distant from home, those variations are much more considerable than has been generally allowed. This admission only proves that gold and silver are not so good a standard as they have been hitherto supposed,—that they are themselves subject to greater variations than it is desirable a standard should be subject to. They are, however, the best with which we are acquainted. If any other commodity less variable could be found, it might very properly be adopted as the future standard of our money, provided it had all the other qualities which fitted it for that purpose; but, while these metals are the standard, the currency should conform in value to them, and whenever it does not, and the market price of bullion is above the Mint price, the currency is depreciated. This proposition is unanswered, and is unanswerable.
+
+Much inconvenience arises from using two metals as the standard Edition: current; Page: [403] of our money; and it has long been a disputed point whether gold or silver should by law be made the principal or sole standard of money. In favour of gold it may be said, that its greater value under a smaller bulk eminently qualifies it for the standard in an opulent country; but this very quality subjects it to greater variations of value during periods of war or extensive commercial discredit, when it is often collected and hoarded, and may be urged as an argument against its use. The only objection to the use of silver as the standard is its bulk, which renders it unfit for the large payments required in a wealthy country; but this objection is entirely removed by the substituting of paper money as the general circulation medium of the country. Silver, too, is much more steady in its value, in consequence of its demand and supply being more regular; and as all foreign countries regulate the value of their money by the value of silver, there can be no doubt that, on the whole, silver is preferable to gold as a standard, and should be permanently adopted for that purpose.
+
+A better system of currency may, perhaps, be imagined than that which existed before the late laws made bank notes a legal tender; but while the law recognised a standard, while the Mint was open to any person who chose to take thither gold and silver to be coined into money, there was no other limit to the fall in the value of money than to the fall in the value of the precious metals. If gold had become as plentiful and as cheap as copper, bank notes would necessarily have partaken of the same depreciation, and all persons, the whole of whose possessions consisted of money—such as those who hold exchequer bills, who discount merchants' bills, or whose income is derived from annuities, as the holders of the public funds, mortgagees, and many others—would have borne all the evils of such a depreciation. With what justice, then, can it be maintained, that when gold and silver rise, money should be kept by force and by legislative interference at its former value, while no means are, or ever have been, used to prevent the fall of money when gold and silver fall? If the person possessed of money is subject to all the inconveniences of a fall in the value of his property, he ought also to have the benefits of the rise. If a paper currency without a standard be an improvement, let it be proved to be so, and then let the standard be disused; but do not preserve it to the disadvantage solely, never to the advantage, of a class of persons possessed of one out of the thousands of commodities which are circulating in the community, of which no other is subject to any such rule.
+
+The issuers of paper money should regulate their issues solely by the price of bullion, and never by the quantity of their paper in circulation. The quantity can never be too great nor too little while it preserves the same value as the standard. Money, indeed, should be rather more valuable than bullion, to compensate for the trifling delay which takes place before it is returned in exchange for bullion at the Mint. This delay is equivalent to a small Edition: current; Page: [404] seignorage; and coined money, or bank notes, which represent coined money, should in their natural and perfect state, be just so much more valuable than bullion. The Bank of England, by not having paid a due regard to this principle, have in former times been considerable losers. They supplied the country with all the coined money for which it had occasion, and, consequently, purchased bullion with their paper that they might carry it to the Mint to be coined. If their paper had been sustained by limiting its quantity at a value somewhat greater than bullion, they would, in the cheapness of their purchases, have covered all the expenses of brokerage and refining, including the just equivalent for the delay at the Mint.

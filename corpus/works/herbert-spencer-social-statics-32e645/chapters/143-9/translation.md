@@ -1,0 +1,29 @@
+---
+work_id: "32e64580-befc-5db9-a127-857b8835e8c6"
+work_slug: "herbert-spencer-social-statics-32e645"
+work_title: Social Statics
+author_name: Herbert Spencer
+chapter_number: 143
+chapter_title: § 9.
+chapter_slug: "143-9"
+variant_id: "69f458c1-238e-5548-a42b-5afe92b18961"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 809
+source_url: "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+translator: Online Library of Liberty edition
+---
+
+Those who cut short the arguments in favour of democracy by saying that it has been tried and found wanting, would do well to consider whether the governments they refer to really were democratic ones—whether a true democracy has ever been known—whether such a thing can be found even now. Of arrangements simulating it, the world has seen not a few. But Edition: current; Page: [237] that democracy itself has ever existed—existed, that is, for a sufficient length of time to admit of its fruits being judged—or that it was possible for it so to have existed during the past condition of humanity, is denied. A return to definitions settles the matter at once. A democracy, properly so called, is a political organization modelled in accordance with the law of equal freedom. And if so, those cannot be called democracies under which, as under the Greek and Roman governments, from four-fifths to eleven-twelfths of the people were slaves. Neither can those be called democracies, which, like the constitutions of mediæval Italy, conferred power on the burghers and nobles only. Nor can those even be called democracies, which, like the Swiss states, have always treated a certain unincorporated class as political outlaws. Enlarged aristocracies these should be termed; not democracies. No matter whether they be a minority or a majority to whom power is denied; the exclusion of them is in spirit the same, and the definition of a democracy is equally broken. The man who steals a penny we call dishonest, as well as the man who steals a pound; and we do so because his act equally testifies to a certain defect of character. Similarly we must consider a government aristocratic, be the class it excludes large or small.
+
+They, however, make the strangest mistake who, referring as they commonly do to the United States, urge the existence of slavery as itself an argument against democracy. Put in a definite form, this would aptly serve the logician as a specimen absurdity. A pseudo-democracy is found not democratic enough, and it is therefore inferred that democracy is a bad thing! Whilst some Autolycus is eulogizing honesty and quoting himself as a sample of it, he is detected in the act of picking his neighbour’s pocket; whereupon it is argued that honesty ought forthwith to be repudiated! With his mouth full of “noble sentiments,” and leading a seemingly moral life, a Joseph Surface deceives his friends; and, on its being discovered that he is a villain, there arises the exclamation—“What a shocking thing is this morality!”
+
+But, passing over what might further be said concerning the alleged failure of democracies, let it be granted that they have failed; let it be granted that there have from time to time been forms of government approaching to the democratic—nay, that in the course of revolutions the thing itself has had a transient existence; let all this be granted, it still proves nothing. For which is it amongst the endeavours of man that does not at first fail? Is not perseverance through a series of defeats the natural history of success? Does not the process we pass through in learning to walk afford us a type of all human experiences? Though we see a child make hundreds of bootless attempts to maintain its balance, we do not conclude that it is doomed to remain for ever upon all-fours. Nor do we, in the conduct of its education, cease telling it to “try again,” because it has many times fallen short of a desired achievement. Doubtless it would be unwise to base an argument upon the assumed analogy between the growth of the individual and of the state (though, both being governed by the same laws of human development, there is probably a genuine analogy between them); but the simile may fairly be employed to hint that the failure of past efforts made by society to preserve the erect attitude of democracy, by no means shows that such attitude is not the proper one.
+
+And, in fact, our theory anticipates such failures. We have already seen that a high form of government is rendered practicable only by a high type of character—that freedom can increase only as fast as control becomes needless—that the perfect man alone can realize the perfect state. A democracy, therefore, being the highest form that a government can assume—indicative, if not of the ultimate phase of civilization, still of the penultimate one—must of necessity fail in the hands of barbarous and semi-barbarous men.
+
+Whilst, then, it is maintained that nearly all these alleged failures of democracy are not failures of democracy at all, but of something else, it is argued that the fact of those comparatively genuine democracies set up during revolutions, Edition: current; Page: [239] lapsing rapidly back into pre-existing arrangements, is in nowise at variance with our position.

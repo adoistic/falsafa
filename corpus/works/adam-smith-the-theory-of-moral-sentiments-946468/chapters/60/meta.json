@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-the-theory-of-moral-sentiments-946468",
+  "work_title": "The Theory of Moral Sentiments",
+  "chapter_number": 60,
+  "chapter_title": "SECTION IV.: OF THE MANNER IN WHICH DIFFERENT AUTHORS HAVE TREATED OF THE PRACTICAL RULES OF MORALITY.",
+  "chapter_slug": "60",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5cff97c5-ac63-53fa-985d-22a83673ac50",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7329,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-the-theory-of-moral-sentiments-and-on-the-origins-of-languages-stewart-ed"
+    }
+  ]
+}

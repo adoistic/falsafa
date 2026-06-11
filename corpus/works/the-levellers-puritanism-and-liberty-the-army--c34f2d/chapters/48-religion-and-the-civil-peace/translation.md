@@ -1,0 +1,25 @@
+---
+work_id: "c34f2dbe-8897-57b3-9d3e-5d21586e8249"
+work_slug: "the-levellers-puritanism-and-liberty-the-army--c34f2d"
+work_title: "Puritanism and Liberty: The Army Debates (1647–9)"
+author_name: The Levellers
+chapter_number: 48
+chapter_title: "[Religion and the Civil Peace]"
+chapter_slug: "48-religion-and-the-civil-peace"
+variant_id: "a304eff3-e1b4-5ca8-ade6-8388c5c3f3af"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 575
+source_url: "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+translator: Online Library of Liberty edition
+---
+
+* * * First for civil peace, what is it but pax civitatis, the peace of the city? . . . Thus it pleased the Father of Lights Edition: current; Page: [267] to define it. Jer. 29. 7: Pray for the peace of the city. Which peace of the city, or citizens so compacted in a civil way of union, may be entire, unbroken, safe, &c., notwithstanding so many thousands of God’s people, the Jews, were there in bondage and would neither be constrained to the worship of the city Babel, nor restrained from so much of the worship of the true God as they then could practise, as is plain in the practice of the three worthies, Shadrach, Meshach, and Abednego, as also of Daniel (Dan. 3; and 6)—the peace of the city or kingdom being a far different peace from the peace of the religion, or spiritual worship, maintained and professed of the citizens. This peace of their worship (which worship also in some cities being various) being a false peace, God’s people were and ought to be nonconformitants, not daring either to be restrained from the true or constrained to false worship; and yet without breach of the civil or city peace, properly so called.
+
+Hence it is that so many glorious and flourishing cities of the world maintain their civil peace; yea, the very Americans and wildest pagans keep the peace of their towns or cities, though neither in one nor the other can any man prove a true church of God in those places, and consequently no spiritual and heavenly peace—the peace spiritual, whether true or false, being of a higher and far different nature from the peace of the place or people, [that] being merely and essentially civil and human.
+
+* * * To illustrate this. The church, or company of worshippers, whether true or false, is like unto a body or college of physicians in a city, like unto a corporation, society, or company of East India or Turkey merchants, or any other society or company in London; which companies may hold their courts, keep their records, hold disputations, and in matters concerning their society may dissent, divide, break into schisms and factions, sue and implead each other at the law, yea, wholly break up and dissolve into pieces and nothing, and yet the peace of the city not be in the least measure impaired or disturbed; because the essence or being of the city, and so the well-being and peace thereof, is essentially distinct from those particular societies; the city courts, city laws, city punishments, distinct from theirs. The city was before them, and stands absolute and entire when such a corporation or society is taken down. For instance further. The city or civil state of Ephesus was essentially distinct from the worship of Diana in the city, or of the whole city. Again the church of Christ in Ephesus, which were God’s people, converted and called out from the worship of that city unto Christianity or worship of Edition: current; Page: [268] God in Christ, was distinct from both. Now suppose that God remove the candlestick from Ephesus, yea, though the whole worship of the city of Ephesus should be altered; yet, if men be true and honestly ingenuous to city covenants, combinations, and principles, all this might be without the least impeachment or infringement of the peace of the city of Ephesus. * * *

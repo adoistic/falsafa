@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 92,
+  "chapter_title": "B. Principle of Maximum Present Value",
+  "chapter_slug": "92-b-principle-of-maximum-present-value",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "372f2a66-9117-5e40-b8fb-5f38f2cd3945",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 212,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

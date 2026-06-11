@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-letters-on-the-factory-act-9911ba",
+  "work_title": "Letters on the Factory Act",
+  "chapter_number": 2,
+  "chapter_title": "LETTERS FROM MR. SENIOR TO MR. THOMSON",
+  "chapter_slug": "02-letters-from-mr-senior-to-mr-thomson",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a82ae3c8-be00-5b88-b859-22a4e46ab2d6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5882,
+      "paragraph_count": 61,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-letters-on-the-factory-act"
+    }
+  ]
+}

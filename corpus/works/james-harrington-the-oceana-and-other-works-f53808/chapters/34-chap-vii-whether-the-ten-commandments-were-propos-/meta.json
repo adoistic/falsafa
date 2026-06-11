@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 34,
+  "chapter_title": "CHAP. VII.: Whether the Ten Commandments were propos’d by God or Moses, and voted by the People of Israel.",
+  "chapter_slug": "34-chap-vii-whether-the-ten-commandments-were-propos-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b6755e26-ad61-549a-91c6-ad02d3730256",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1604,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

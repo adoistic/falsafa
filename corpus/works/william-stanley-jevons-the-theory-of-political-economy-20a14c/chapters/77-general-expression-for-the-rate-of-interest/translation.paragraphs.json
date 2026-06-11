@@ -1,0 +1,37 @@
+[
+  {
+    "id": "p-fad4b3",
+    "offset": 0,
+    "text": "We may obtain a general expression for the rate of interest yielded by capital in any employment provided that we may suppose the produce for the same amount of labour to vary as some continuous function of the time elapsing between the expenditure of the labour and the enjoyment of the result. Let the time in question be t, and the produce for the same amount of labour the function of t denoted by Ft, which may be supposed always to increase with t. If we now extend the time to t + Dt, the produce will be F (t + Dt), and the increment of produce F (t + Dt) - Ft. The ratio which this increment bears to the increment of investment of capital will determine the rate of interest. Now, at the end of the time t, we might receive the product Ft, and this is the amount of capital which remains invested when we extend the time by Dt. Hence the amount of increased investment of capital is Dt · Ft; and, dividing the increment of produce by this last expression, we have"
+  },
+  {
+    "id": "p-186c7c",
+    "offset": 975,
+    "text": "When we reduce the magnitude of Dt infinitely, the limit of the first factor of the above expression is the differential coefficient of Ft, so that we find the rate of interest to be represented by"
+  },
+  {
+    "id": "p-426fdd",
+    "offset": 1174,
+    "text": "The interest of capital is, in other words, the rate of increase of the produce divided by the whole produce; but this is a quantity which must rapidly approach to zero, unless means can be found of continually maintaining the rate of increase. Unless a body moves with a rapidly increasing speed, the space it moves over in any unit of time must ultimately become inconsiderable compared with the whole space passed over from the commencement. There is no reason to suppose that industry, generally speaking, is capable of returning any such vastly increasing produce from the greater application of capital. Every new machine or other great invention will usually require a fixation of capital for a certain average time, and may be capable of paying interest upon it; but when this average time is reached, it fails to afford a return to more prolonged investments."
+  },
+  {
+    "id": "p-5b60c8",
+    "offset": 2044,
+    "text": "To take an instance, let us suppose that the produce of labour in some case is proportional to the interval of abstinence t; then we have say Ft = a · t, in which a is an unknown constant. The differential Edition: current; Page: [246] coefficient F't is now a; and the rate of interest"
+  },
+  {
+    "id": "p-5d3429",
+    "offset": 2332,
+    "text": "or"
+  },
+  {
+    "id": "p-5d3429",
+    "offset": 2336,
+    "text": "or"
+  },
+  {
+    "id": "p-d4abdc",
+    "offset": 2340,
+    "text": "; or the rate of interest varies inversely as the time of investment."
+  }
+]

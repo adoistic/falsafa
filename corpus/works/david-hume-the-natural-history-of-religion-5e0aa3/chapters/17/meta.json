@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-hume-the-natural-history-of-religion-5e0aa3",
+  "work_title": "The Natural History of Religion",
+  "chapter_number": 17,
+  "chapter_title": "Section XV.: General Corollary.",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a10f91b2-2c37-55f5-8b88-9a16d324d90a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4228,
+      "paragraph_count": 122,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/robertson-the-natural-history-of-religion"
+    }
+  ]
+}

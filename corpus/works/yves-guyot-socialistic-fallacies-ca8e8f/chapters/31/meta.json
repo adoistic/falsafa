@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-socialistic-fallacies-ca8e8f",
+  "work_title": "Socialistic Fallacies",
+  "chapter_number": 31,
+  "chapter_title": "CHAPTER II: The Claims of Marx and Engels",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d2ab558-b2c0-50bc-9449-2b01cec191e5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 394,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+    }
+  ]
+}

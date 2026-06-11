@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 17,
+  "chapter_title": "d) Die Gesetze, unter welchen die Güter in Rücksicht auf ihren ökonomischen Charakter stehen.",
+  "chapter_slug": "17-d-die-gesetze-unter-welchen-die-guter-in-rucksicht",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3cf1c67c-e783-5e35-9e0d-cfb5c5c508e0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 901,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

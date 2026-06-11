@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-earth-hunger-and-other-essays-78e0ba",
+  "work_title": "Earth-Hunger and Other Essays",
+  "chapter_number": 21,
+  "chapter_title": "Liberty and Discipline",
+  "chapter_slug": "21-liberty-and-discipline",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ec3ce5e-8cda-5de9-a4e4-78ae84605774",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1694,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/earth-hunger-and-other-essays-1913"
+    }
+  ]
+}

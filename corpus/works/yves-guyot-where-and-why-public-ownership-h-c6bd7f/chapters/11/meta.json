@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-where-and-why-public-ownership-h-c6bd7f",
+  "work_title": "Where and Why Public Ownership Has Failed",
+  "chapter_number": 11,
+  "chapter_title": "CHAPTER IV: STATE RAILWAYS OF AUSTRIA AND HUNGARY",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "759fc87c-a977-5f89-9a76-a907cb4c7972",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1033,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
+    }
+  ]
+}

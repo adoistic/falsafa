@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 13,
+  "chapter_title": "XII.: Hegelian Criticism — The Ego and the Infinite.",
+  "chapter_slug": "13-xii-hegelian-criticism-the-ego-and-the-infinite",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "671cbcf2-f755-5aa4-8ea0-5ff9e5c3492d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 16294,
+      "paragraph_count": 89,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 26,
+  "chapter_title": "V. Reform Without Departure from the Metallic Standard",
+  "chapter_slug": "26-v-reform-without-departure-from-the-metallic-stand",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3b1a5ee5-8a6a-57ee-a72a-87c1164623e6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1936,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

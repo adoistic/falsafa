@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-richter-pictures-of-the-socialistic-futu-81939f",
+  "work_title": "Pictures of the Socialistic Future",
+  "chapter_number": 12,
+  "chapter_title": "Chapter IX: THE GREAT MIGRATION.",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "75b8cb99-b93f-5e52-9462-a0c2e7ca2522",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1209,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
+    }
+  ]
+}

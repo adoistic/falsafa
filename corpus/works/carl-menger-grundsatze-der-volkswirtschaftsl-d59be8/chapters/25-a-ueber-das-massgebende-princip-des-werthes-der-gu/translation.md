@@ -1,0 +1,35 @@
+---
+work_id: "d59be8b2-383b-5ef0-a32a-50c5bc935998"
+work_slug: "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8"
+work_title: Grundsätze der Volkswirtschaftslehre
+author_name: Carl Menger
+chapter_number: 25
+chapter_title: a) Ueber das massgebende Princip des Werthes der Güter höherer Ordnung.
+chapter_slug: "25-a-ueber-das-massgebende-princip-des-werthes-der-gu"
+variant_id: "b54a47ab-7121-5bd0-a009-7a04bb397b45"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 903
+source_url: "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+translator: Online Library of Liberty edition
+---
+
+Unter den grundlegenden Irrthümern, welche von der weittragendsten Bedeutung für die bisherige Entwicklung unserer Wissenschaft waren, steht in erster Reihe der Grundsatz: dass die Güter desshalb für uns Werth erlangen, weil zur Hervorbringung derselben Güter verwandt wurden, welche Werth für uns hatten. Wir werden dort, wo wir von dem Preise der Güter höherer Ordnung sprechen werden, auf die besonderen Ursachen hinweisen, welche den obigen Irrthum zu Tage förderten und bewirkten, dass derselbe in einer allerdings mehrfach verclausulirten Form die Grundlage der herrschenden Preistheorien wurde. Hier sei zunächst constatirt, dass der obige Grundsatz so sehr aller Erfahrung widerstreitet (S. 120), dass derselbe unbedingt auch dann verworfen werden müsste, wenn das Problem der Feststellung eines Principes des Güterwerthes durch denselben eine formell richtige Lösung fände.
+
+Nun wird aber durch den obigen Grundsatz selbst dieser Zweck nicht erreicht, denn er bietet uns wohl einen Erklärungsgrund für den Werth jener Güter, welche wir als “Producte” bezeichnen können, nicht aber für jenen aller übrigen Güter, welche sich uns als die ursprünglichsten Elemente der Production darstellen, also zumal für den Werth aller uns von der Natur unmittelbar dargebotenen Güter, insbesondere der Bodennutzungen, ferner für den Werth der Arbeitsleistungen, und wie wir in Folge sehen werden, auch der Capitalnutzungen. Der Werth aller dieser Güter kann durch den obigen Grundsatz nicht erklärt werden, ja er wird durch denselben geradezu unbegreiflich.
+
+Durch den obigen Grundsatz wird demnach das Problem, einen für alle Fälle geltenden Erklärungsgrund des Güterwerthes festzustellen, weder sachlich noch auch formell richtig gelöst, denn einerseits steht er im Widerspruche zur Erfahrung, und andererseits ist seine Anwendbarkeit überall dort ausgeschlossen, Edition: current; Page: [124] wo Güter unserer Beobachtung vorliegen, welche nicht das Product der Verbindung von Gütern höherer Ordnung sind. Der Werth, welchen die Güter niederer Ordnung für uns haben, kann demnach nicht durch den Werth der Güter höherer Ordnung bedingt sein, welche bei der Production derselben verwendet wurden, vielmehr ist es klar, dass umgekehrt der Werth der Güter höherer Ordnung stets und ausnahmslos durch den voraussichtlichen Werth jener Güter niederer Ordnung bedingt ist, zu deren Hervorbringung sie dienen.
+
+Steht dies nun aber fest, so ist auch klar, dass der Werth der Güter höherer Ordnung auch nicht das massgebende Moment des voraussichtlichen Werthes der entsprechenden Güter niederer Ordnung, oder aber der Werth der zur Hervorbringung eines Gutes bereits verwendeten Güter höherer Ordnung das massgebende Moment seines effectiven Werthes sein kann, sondern umgekehrt unter allen Umständen der Werth der Güter höherer Ordnung sich nach dem vorraussichtlichen Werthe der Güter niederer Ordnung richtet, zu deren Hervorbringung dieselben von den wirthschaftenden Menschen bestimmt sind, oder voraussichtlich werden bestimmt werden.
+
+Dieser voraussichtliche Werth der Güter niederer Ordnung ist—was wohl beobachtet werden muss — nicht selten von jenem, welchen ähnliche Güter in der Gegenwart für uns haben, sehr verschieden, und finden desshalb die Güter höherer Ordnung, Edition: current; Page: [125] durch welche wir über Güter niederer Ordnung doch nur mit Rücksicht auf einen künftigen Zeitraum verfügen (S. 21 ff.), das Mass ihres Werthes keineswegs in dem letztern, sondern in dem erstern.
+
+Wenn wir z. B. über Salpeter, Schwefel, Kohle, die zur Schiesspulvererzeugung erforderlichen Arbeitsleistungen, Vorrichtungen etc. und mittelbar durch dieselben über eine Quantität Schiesspulver nach drei Monaten verfügen, so ist klar, dass der Werth, welchen das in Rede stehende Schiesspulver voraussichtlich für uns nach drei Monaten haben wird, nicht nothwendigerweise gleich sein muss, sondern grösser oder geringer sein kann, als der Werth, welchen eine gleiche Quantität dieses Gutes in der Gegenwart für uns hat und demgemäss auch der Werth der obigen Güter höherer Ordnung sein Mass nicht in dem Werthe des Schiesspulvers in der Gegenwart, sondern in jenem findét, welchen das bezügliche Product voraussichtlich nach Ablauf der Productionsfrist für uns haben wird. Ja, es ist der Fall denkbar, dass eine bestimmte Quantität eines Gutes niederer, beziehungsweise erster Ordnung, in der Gegenwart gänzlich werthlos ist (z. B. Eis im Winter), während doch die uns gleichzeitig verfügbaren entsprechenden Güter höherer Ordnung, welche uns Quantitäten des obigen Gutes in kommenden Zeiträumen sicherstellen (z. B. die zur künstlichen Eisproduction erforderlichen Materialien und Vorrichtungen in ihrer Gesammtheit) mit Rücksicht auf diese letztern Zeiträume allerdings Werth für uns haben und so umgekehrt.
+
+Zwischen dem Werthe, welchen Güter niederer, beziehungsweise erster Ordnung, für uns in der Gegenwart haben, und dem Werthe der zur Hervorbringung solcher Güter uns in der Gegenwart verfügbaren Güter höherer Ordnung, besteht demnach kein nothwendiger Zusammenhang, vielmehr ist es klar, dass die erstern ihren Werth aus dem Verhältnisse zwischen Bedarf und verfügbarer Quantität in der Gegenwart herleiten, die letztern aber aus dem voraussichtlichen Verhältnisse zwischen Bedarf und verfügbarer Quantität mit Rücksicht auf jenen kommenden Zeitraum, für welchen die bezüglichen Producte uns mittelst der in Rede stehenden Güter höherer Ordnung verfügbar sein Edition: current; Page: [126] werden. Steigt der voraussichtliche Werth eines Gutes niederer Ordnung in einem kommenden Zeitraume, so steigt auch unter sonst gleichen Verhältnissen der Werth derjenigen Güter höherer Ordnung, deren Besitz uns die Verfügung über die obigen Güter in dem in Rede stehenden Zeitraume sichert, während das Steigen oder Fallen des Werthes eines Gutes niederer Ordnung in der Gegenwart in keinem nothwendigen ursächlichen Zusammenhange mit dem Steigen oder Fallen des Werthes der entsprechenden uns in der Gegenwart verfügbaren Güter höherer Ordnung steht.
+
+Es ist demnach auch nicht der Werth der Güter niederer Ordnung in der Gegenwart, wornach sich der Werth der entsprechenden Güter höherer Ordnung richtet, sondern vielmehr unter allen Umständen der voraussichtliche Werth des Productes, welcher das massgebende Princip des Werthes der bezüglichen Güter höherer Ordnung ist.

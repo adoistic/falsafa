@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 53,
+  "chapter_title": "§ 39.: Of the communicability of a Sensation",
+  "chapter_slug": "53-39-of-the-communicability-of-a-sensation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7332ecd9-cbaf-58ae-8d5a-2921ab44af03",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 631,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

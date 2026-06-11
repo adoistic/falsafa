@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 31,
+  "chapter_title": "to the most serene princess, ELISABETH, Eldest Daughter of Frederick, King of Bohemia, Count Palatine, and Elector of th",
+  "chapter_slug": "31-to-the-most-serene-princess-elisabeth-eldest-daugh",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d3b636e9-e565-5451-8d87-fe28d5b12dc0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1117,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

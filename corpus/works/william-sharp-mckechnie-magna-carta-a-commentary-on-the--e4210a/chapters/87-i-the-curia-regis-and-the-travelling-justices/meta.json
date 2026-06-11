@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a",
+  "work_title": "Magna Carta: A Commentary on the Great Charter of King John",
+  "chapter_number": 87,
+  "chapter_title": "I.: The Curia Regis and the travelling Justices.",
+  "chapter_slug": "87-i-the-curia-regis-and-the-travelling-justices",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df6d86fb-72e5-586a-ab2b-faed4931f391",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 559,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+    }
+  ]
+}

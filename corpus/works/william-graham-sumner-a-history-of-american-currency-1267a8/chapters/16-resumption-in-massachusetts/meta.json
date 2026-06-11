@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 16,
+  "chapter_title": "RESUMPTION IN MASSACHUSETTS.",
+  "chapter_slug": "16-resumption-in-massachusetts",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cc189256-11ce-5495-a317-229c010e7579",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 403,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

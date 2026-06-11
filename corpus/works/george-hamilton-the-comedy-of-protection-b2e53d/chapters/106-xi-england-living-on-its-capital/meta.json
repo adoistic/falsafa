@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-hamilton-the-comedy-of-protection-b2e53d",
+  "work_title": "The Comedy of Protection",
+  "chapter_number": 106,
+  "chapter_title": "XI.—: England Living on its Capital.",
+  "chapter_slug": "106-xi-england-living-on-its-capital",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5f0e6654-9e00-551e-b8cf-536e2548f906",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 193,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hamilton-the-comedy-of-protection-1906"
+    }
+  ]
+}

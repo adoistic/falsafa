@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-ferguson-an-essay-on-the-history-of-civil-cb55d2",
+  "work_title": "An Essay on the History of Civil Society",
+  "chapter_number": 4,
+  "chapter_title": "SECT. IV.: Of the principles of War and Dissension.",
+  "chapter_slug": "04-sect-iv-of-the-principles-of-war-and-dissension",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "036daf3f-d629-5b0c-ae26-10117e2d4bcb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2177,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ferguson-an-essay-on-the-history-of-civil-society"
+    }
+  ]
+}

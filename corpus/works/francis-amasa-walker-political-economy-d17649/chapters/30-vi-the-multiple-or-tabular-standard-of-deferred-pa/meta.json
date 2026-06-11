@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 30,
+  "chapter_title": "VI.: the multiple or tabular standard of deferred payments.",
+  "chapter_slug": "30-vi-the-multiple-or-tabular-standard-of-deferred-pa",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "76682132-c94f-58f9-9720-3113bcdcb6e7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1759,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-defence-of-usury-ba123c",
+  "work_title": "Defence of Usury",
+  "chapter_number": 4,
+  "chapter_title": "LETTER IV.: Reasons for Restraint.—Protection of Indigence.",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "78993767-4e3d-5a2a-8c4b-4255d0f3ddc5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 911,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-defence-of-usury"
+    }
+  ]
+}

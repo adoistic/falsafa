@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 58,
+  "chapter_title": "61. Subdivisions of the industrious stipendiary class, in undertaking capitalists and simple workmen.",
+  "chapter_slug": "58-61-subdivisions-of-the-industrious-stipendiary-cla",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e1b9b5c1-7761-5d2a-af29-ebf76b5ccf4c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 77,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

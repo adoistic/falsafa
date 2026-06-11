@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-the-unconstitutionality-of-slave-5dd90c",
+  "work_title": "The Unconstitutionality of Slavery",
+  "chapter_number": 8,
+  "chapter_title": "CHAPTER VIII.: THE CONSTITUTION OF THE UNITED STATES.",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eb86cfd2-3c46-5146-8f9c-5002aeb5cd71",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 820,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-the-unconstitutionality-of-slavery-1860"
+    }
+  ]
+}

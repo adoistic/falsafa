@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 25,
+  "chapter_title": "§ 6.: Of Conception",
+  "chapter_slug": "25-6-of-conception",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "31c9953b-2e6d-558a-8f5d-84acdafe9d4e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 902,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

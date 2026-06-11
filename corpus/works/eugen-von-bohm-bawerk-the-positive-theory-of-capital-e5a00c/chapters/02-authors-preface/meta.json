@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c",
+  "work_title": "The Positive Theory of Capital",
+  "chapter_number": 2,
+  "chapter_title": "Author's Preface",
+  "chapter_slug": "02-authors-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "09adcb20-f882-57e9-bda1-cae1316cf5d9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1995,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-the-positive-theory-of-capital"
+    }
+  ]
+}

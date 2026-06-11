@@ -1,0 +1,55 @@
+---
+work_id: "93aeac41-8f27-5473-a24b-8c8499774284"
+work_slug: "thomas-hobbes-leviathan-93aeac"
+work_title: Leviathan
+author_name: Thomas Hobbes
+chapter_number: 22
+chapter_title: "CHAP. XVI.: Of Persons, Authors, and things Personated."
+chapter_slug: "22-chap-xvi-of-persons-authors-and-things-personated"
+variant_id: "35fc390b-7337-5e94-827b-4e266515c932"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1591
+source_url: "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+translator: Online Library of Liberty edition
+---
+
+A Person, is he, whose words or actions are considered, either as his own, or as representing the words or actions of an other man, or of any other thing to whom they are attributed, whether Truly or by Fiction.
+
+When they are considered as his owne, then is he called a Naturall Person: And when they are considered as representing the words and actions of an other, then is he a Feigned or Artificiall person.
+
+The word Person is latine: insteed whereof the Greeks have πρόσωπον which signifies the Face, as Persona in latine signifies the disguise, or outward appearance of a man, counterfeited on the Stage; and somtimes more particularly that part of it, which disguiseth the face, as a Mask or Visard: And from the Stage, hath been translated to any Representer of speech and action, as well in Tribunalls, as Theaters. So that a Person, is the same that an Actor is, both on the Stage and in common Conversation; and to Personate, is to Act, or Represent himselfe, or an other; and he that acteth another, is said to beare his Person, or act in his name; (in which sence Cicero useth it where he saies, Unus sustineo tres Personas; Mei, Adversarii, & Judicis, I beare three Persons; my own, my Adversaries, and the Judges;) and is called in diverse occasions, diversly; as a Representer,Edition: Hobbes1651; Page: [81] or Representative, a Lieutenant, a Vicar, an Attorney, a Deputy, a Procurator, an Actor, and the like.
+
+Of Persons Artificiall, some have their words and actions Owned by those whom they represent. And then the Person is the Actor; and he that owneth his words and actions, is the Author: In which case the Actor acteth by Authority. For that which in speaking of Edition: current; Page: [124] goods and possessions, is called an Owner, and in latine Dominus, in Greeke κύριος; speaking of Actions, is called Author. And as the Right of possession, is called Dominion; so the Right of doing any Action, is called Authority. So that by Authority, is alwayes understood a Right of doing any act: and done by Authority, done by Commission, or Licence from him whose right it is.
+
+From hence it followeth, that when the Actor maketh a Covenant by Authority, he bindeth thereby the Author, no lesse than if he had made it himselfe; and no lesse subjecteth him to all the consequences of the same. And therfore all that hath been said formerly, (Chap. 14.) of the nature of Covenants between man and man in their naturall capacity, is true also when they are made by their Actors, Representers, or Procurators, that have authority from them, so far-forth as is in their Commission, but no farther.
+
+And therefore he that maketh a Covenant with the Actor, or Representer, not knowing the Authority he hath, doth it at his own perill. For no man is obliged by a Covenant, whereof he is not Author; nor consequently by a Covenant made against, or beside the Authority he gave.
+
+When the Actor doth any thing against the Law of Nature by command of the Author, if he be obliged by former Covenant to obey him, not he, but the Author breaketh the Law of Nature: for though the Action be against the Law of Nature; yet it is not his: but contrarily, to refuse to do it, is against the Law of Nature, that forbiddeth breach of Covenant.
+
+And he that maketh a Covenant with the Author, by mediation of the Actor, not knowing what Authority he hath, but onely takes his word; in case such Authority be not made manifest unto him upon demand, is no longer obliged: For the Covenant made with the Author, is not valid, without his Counter-assurance. But if he that so Covenanteth, knew before hand he was to expect no other assurance, than the Actors word; then is the Covenant valid; because the Actor in this case maketh himselfe the Author. And therefore, as when the Edition: current; Page: [125] Authority is evident, the Covenant obligeth the Author, not the Actor; so when the Authority is feigned, it obligeth the Actor onely; there being no Author but himselfe.
+
+There are few things, that are uncapable of being represented by Fiction. Inanimate things, as a Church, an Hospital, a Bridge, may be personated by a Rector, Master, or Overseer. But things Inanimate, cannot be Authors, nor therefore give Authority to their Actors: Yet the Actors may have Authority to procure their maintenance, given them by those that are Owners, orEdition: Hobbes1651; Page: [82] Governours of those things. And therefore, such things cannot be Personated, before there be some state of Civill Government.
+
+Likewise Children, Fooles, and Mad-men that have no use of Reason, may be Personated by Guardians, or Curators; but can be no Authors (during that time) of any action done by them, longer then (when they shall recover the use of Reason) they shall judge the same reasonable. Yet during the Folly, he that hath right of governing them, may give Authority to the Guardian. But this again has no place but in a State Civill, because before such estate, there is no Dominion of Persons.
+
+An Idol, or meer Figment of the brain, may be Personated; as were the Gods of the Heathen; which by such Officers as the State appointed, were Personated, and held Possessions, and other Goods, and Rights, which men from time to time dedicated, and consecrated unto them. But Idols cannot be Authors: for an Idol is nothing. The Authority proceeded from the State: and therefore before introduction of Civill Government, the Gods of the Heathen could not be Personated.
+
+The true God may be Personated. As he was; first, by Moses; who governed the Israelites, (that were not his, but Gods people,) not in his own name, with Hoc dicit Moses; but in Gods Name, with Hoc dicit Dominus. Secondly, by the Son of man, his own Son, our Blessed Saviour Jesus Christ, that came to reduce the Jewes, and induce all Nations into the Kingdome of his Father; not as of himselfe, but as sent from his Father. And thirdly, by the Holy Ghost, or Comforter, speaking, and working Edition: current; Page: [126] in the Apostles: which Holy Ghost, was a Comforter that came not of himselfe; but was sent, and proceeded from them both.
+
+A Multitude of men, are made One Person, when they are by one man, or one Person, Represented; so that it be done with the consent of every one of that Multitude in particular. For it is the Unity of the Representer, not the Unity of the Represented, that maketh the Person One. And it is the Representer that beareth the Person, and but one Person: And Unity, cannot otherwise be understood in Multitude.
+
+And because the Multitude naturally is not One, but Many; they cannot be understood for one; but many Authors, of every thing their Representative saith, or doth in their name; Every man giving their common Representer, Authority from himselfe in particular; and owning all the actions the Representer doth, in case they give him Authority without stint: Otherwise, when they limit him in what, and how farre he shall represent them, none of them owneth more, than they gave him commission to Act.
+
+ality of Voyces. And if the Representative consist of many men, the voyce of the greater number, must be considered as the voyce of them all. For if the lesser number pronounce (for example) in the Affirmative, and the greater in the Negative, there will be Negatives more than enough to destroy the Affirmatives; and thereby the excesse of Negatives, standing uncontradicted, are the onely voyce the Representative hath.
+
+And a Representative of even number, especially when the number is not great, whereby the contradictory voyces are oftentimes equall, is therefore oftentimes mute, and uncapable of Action. Yet in some cases contradictory voyces equall in number, may determine a question; as in condemning, or absolving, equality of votes, even in that they condemne not, do absolve; but not on the contrary condemne, in that they absolve not. For when a Cause is heard; not to condemne, is to absolve: but on the contrary, to say that not absolving, is condemning, is not true. The like it is in a deliberation of executing presently, or deferring till another Edition: current; Page: [127] time: For when the voyces are equall, the not decreeing Execution, is a decree of Dilation.
+
+Or if the number be odde, as three, or more, (men, or assemblies;) whereof every one has by a Negative Voice, authority to take away the effect of all the Affirmative Voices of the rest, This number is no Representative; because by the diversity of Opinions, and Interests of men, it becomes oftentimes, and in cases of the greatest consequence, a mute Person, and unapt, as for many things else, so for the government of a Multitude, especially in time of Warre.
+
+Of Authors there be two sorts. The first simply so called; which I have before defined to be him, that owneth the Action of another simply. The second is he, that owneth an Action, or Covenant of another conditionally; that is to say, he undertaketh to do it, if the other doth it not, at, or before a certain time. And these Authors conditionall, are generally called Suretyes, in Latine Fidejussores, and Sponsores; and particularly for Debt, Prædes; and for Appearance before a Judge, or Magistrate, Vades.

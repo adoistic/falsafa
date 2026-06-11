@@ -1,0 +1,39 @@
+---
+work_id: "2035b6cb-d887-5ead-86ed-c80474b5f00a"
+work_slug: "andrew-dickson-white-fiat-money-inflation-in-france-2035b6"
+work_title: Fiat Money Inflation in France
+author_name: Andrew Dickson White
+chapter_number: 1
+chapter_title: INTRODUCTION.
+chapter_slug: "01-introduction"
+variant_id: "4adf85ad-0311-5257-8dd3-b75244ebf94e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 729
+source_url: "https://oll.libertyfund.org/titles/macaulay-fiat-money-inflation-in-france"
+translator: Online Library of Liberty edition
+---
+
+As far back as just before the civil war I made a large collection of documents which appeared during the French Revolution, including newspapers, reports, speeches, pamphlets, and illustrative material of every sort, and especially specimens of nearly all the issues of paper money then made—from notes of ten thousand francs to those of one sou.
+
+Upon this material, mainly, was based a course of lectures then given to my university students, and among these lectures one on Paper Money Inflation in France.
+
+This was given simply because it showed one important line of facts in that great struggle; and I recall, as if it were yesterday, my feeling of regret at being obliged to bestow so much care and labor upon a subject to all appearance so utterly devoid of practical value. I am sure that it never occurred either to my students or myself that it could have Edition: current; Page: [iv] any bearing on our own country. It certainly never entered into our minds that any such folly as that exhibited in those French documents of the eighteenth century would eventually find supporters in the United States of the nineteenth.
+
+Some years later, when there began to be proposals for large issues of paper, I wrought some of the facts thus collected into a speech in the Senate of the State of New York, showing the need of especial care in such dealings with financial necessities.
+
+In 1876, during the “greenback craze,” General Garfield and Mr. S. B. Chittenden, both members of the House of Representatives at that time, asked me to read a paper on the same general subject before an audience of Senators and Representatives of both parties in Washington. This I did, and also gave it before an assemblage of New York men of business at the Union League Club.
+
+Various editions of the paper were afterward published, among these one for campaign purposes, and it now appears that there is a demand for another, and that it may be of use in showing to what folly, cruelty, wrong, and ruin the passion for fiat money may lead.
+
+There is perhaps a special reason for issuing this new edition, in the fact that the principle involved Edition: current; Page: [v] in the proposed unlimited coinage of silver in the United States is, at bottom, identical with the idea which led to that fearful wreck of public and private prosperity in France.
+
+And there is an added reason in the fact that the utterances of the Chicago nominee and of the Populist platform point clearly and unmistakably to unlimited issues of paper money hereafter. Whatever so-called “Democrats” may intend at present, their candidate and his Populist supporters are logical enough to see that it would be inconsistent to stop at the unlimited issue of silver dollars, which really cost something, when they can issue unlimited paper dollars which virtually cost nothing.
+
+In thus exhibiting facts which Lord Bacon would have recognized as confirming his theory of The Possible Insanity of Great States, it is but just to acknowledge that the French proposal was vastly more sane than that now made in our own country. The French issues of paper rested not merely “on the will of a free people,” but on more than one third of the entire landed property of France; on the very choicest of real estate in city and country—the confiscated estates of the Church and the fugitive aristocracy—with power to use the paper thus issued in purchasing this real property at very Edition: current; Page: [vi] moderate prices. Our proposed unlimited issue of silver rests on we know not what; and the proposed issue of paper rests solely upon the judgment, the will, and the schemes for political success or personal gain of those Populist financiers who shall be put in control at Washington, and who will doubtless be astute enough to see and to use the enormous possibilities for stockjobbing and gambling in values which will accrue to those who, by controlling the issues of the circulating medium, can raise or depress the price of every share of stock, every bond, every yard of every fabric, every ounce of every commodity within the United States.
+
+I have taken all pains to be exact, giving the authority for every important statement, and now leave the whole matter with my readers.

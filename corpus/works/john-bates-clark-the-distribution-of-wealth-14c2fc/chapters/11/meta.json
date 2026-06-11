@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-bates-clark-the-distribution-of-wealth-14c2fc",
+  "work_title": "The Distribution of Wealth",
+  "chapter_number": 11,
+  "chapter_title": "Chapter IX: Capital and Capital-Goods contrasted",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "34bbd542-7f47-54ed-b6ea-d395e7f155b8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7305,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/clark-the-distribution-of-wealth-a-theory-of-wages-interest-and-profits"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-the-advancement-of-learning-b404cd",
+  "work_title": "The Advancement of Learning",
+  "chapter_number": 67,
+  "chapter_title": "VIII.—: The memory of the just is blessed, but the name of the wicked shall rot",
+  "chapter_slug": "67-viii-the-memory-of-the-just-is-blessed-but-the-nam",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9a3030d7-71cf-57de-8fb6-3110a528c6e6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 84,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-the-advancement-of-learning"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "p-5a11fb",
+    "offset": 0,
+    "text": "The need of some care in forming our conceptions of these quantities is strikingly illustrated by the fact that not quite fifty years ago so profound and philosophic a mathematician as the late Dean Peacock completely misapprehended the matter. In the first edition of his celebrated and invaluable Treatise on Algebra, published in 1830, he gives (§111, p. 91) the interest of money as an example of a quantity of three dimensions, and one which may be represented by a solid. He says: \"If p represent the principal or sum of money lent or forborne, r the rate of interest (of £1 for one year), and t the number of years, then the interest accumulated or due will be represented by prt; for if r be the interest of £1 for one year, pr will be the interest of a sum of money denoted by p for one year, and therefore prt will be the amount of this interest in t years, no interest being reckoned upon interest due: such would be the result according to the principles of Arithmetical Algebra."
+  },
+  {
+    "id": "p-8aa637",
+    "offset": 993,
+    "text": "\"If we now suppose prt represented respectively by lines which form the adjacent edges of a parallelopipedon, the solid thus formed will represent the Edition: current; Page: [250] interest accumulated or due: in other words, it will represent whatever is represented by the general formula prt when specific values and significations are given to its symbols: for in whatever manner we may suppose any one of the symbols of prt to vary, the solid will vary in the same proportion."
+  },
+  {
+    "id": "p-96213d",
+    "offset": 1476,
+    "text": "\"The lines which we assume to represent units of p, r, and t, are perfectly arbitrary, whether they are made equal to each other or not: this is clearly the case with p and t, which are quantities of a different nature: and the third quantity is likewise different from the other two, being an abstract numerical quantity: for it expresses the relation between the interest of £1 and £1, or between the interest of £100 and £100, which is the quotient of the division of one quantity by another of the same nature: thus, if the interest be five per cent, then : if four per cent, then : and similarly in other cases: the line, therefore, which is assumed to represent the abstract unit to which r is referred, is independent of the lines which represent units of p and of t, and may therefore be assumed at pleasure, equally with those lines."
+  },
+  {
+    "id": "p-d137c8",
+    "offset": 2320,
+    "text": "\"The lines which represent p and t form a rectangular area, which is the geometrical representation of their product: the third quantity r, being merely numerical, may either be represented by a line, as in the case just considered, when a solid parallelopipedon is made the representative of prt: or we may consider the area pt as representing the product prt when Edition: current; Page: [251] r = 1, and that this product in any other case is represented by a rectangle which bears to the rectangle pt the ratio of r to 1: this may be effected by increasing or diminishing one of the sides of the rectangle in the required ratio: the product prt may therefore be correctly represented either by a solid or an area, when one of the factors is an abstract number.\""
+  },
+  {
+    "id": "p-da9a86",
+    "offset": 3087,
+    "text": "The conclusion at which he arrives is a lame one, for he thinks that the same kind of quantity may be represented indifferently by a solid or an area. The fact is that Peacock confused a product of three factors with a quantity of three dimensions. He took these dimensions as if they were, say M = money, R = rate of interest, and T = time. If we simply multiply these together, as Peacock first does, we get a quantity apparently of three dimensions, MRT. If, according to Peacock's subsequent idea, we take R to be an abstract numerical quantity, then we have two dimensions left, namely, MT. He overlooks the fact that the rate of interest involves time negatively, although he describes r as \"the rate of interest (of £1 for one year).\" Correctly stated, the dimensions of prt, the quantity of interest are M × T -1 × T or M, that is simply the dimension of the money advanced."
+  },
+  {
+    "id": "p-40f35c",
+    "offset": 3971,
+    "text": "If you say, for instance, that the simple interest of £300 at five per cent per annum for five years is £75, there remains no reference in this result to time: £75 is simply £75, and is of exactly the same nature as the £300 which bore the interest."
+  },
+  {
+    "id": "p-b41564",
+    "offset": 4222,
+    "text": "That Peacock subsequently discovered error, or at least difficulty, in this section, is rendered probable by the fact that he omitted the illustration altogether in his second edition; but he does not, so far as I have observed, give any explanation."
+  }
+]

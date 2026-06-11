@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 17,
+  "chapter_title": "CHAPTER V.: WAGES.",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "284bbcb3-ebb5-5b2d-af37-30ee4721a929",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4416,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

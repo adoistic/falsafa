@@ -1,0 +1,26 @@
+{
+  "work_slug": "huldrych-zwingli-selected-works-of-huldrich-zwing-7053d2",
+  "work_title": "Selected Works of Huldrich Zwingli",
+  "chapter_number": 50,
+  "chapter_title": "ABOUT MAGISTRY.",
+  "chapter_slug": "50-about-magistry",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c9a30f8d-835b-58ea-ad53-c8cf67b0b1f3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 210,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/zwingli-selected-works-of-huldrich-zwingli"
+    }
+  ]
+}

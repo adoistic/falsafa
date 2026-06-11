@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-hume-the-natural-history-of-religion-5e0aa3",
+  "work_title": "The Natural History of Religion",
+  "chapter_number": 5,
+  "chapter_title": "Section III.: The same subject continued.",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7aadc194-827e-5b15-9e5c-7136c49cd7b4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1395,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/robertson-the-natural-history-of-religion"
+    }
+  ]
+}

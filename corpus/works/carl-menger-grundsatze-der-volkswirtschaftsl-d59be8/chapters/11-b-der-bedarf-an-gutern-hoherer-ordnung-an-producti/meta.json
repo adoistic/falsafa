@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 11,
+  "chapter_title": "b) Der Bedarf an Gütern höherer Ordnung (an Productionsmitteln).",
+  "chapter_slug": "11-b-der-bedarf-an-gutern-hoherer-ordnung-an-producti",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4fc6584f-bf3a-5f23-bd5c-4ad7bc09c532",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1184,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

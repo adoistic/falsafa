@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 13,
+  "chapter_title": "To the Right Honourable THOMAS EARL OF SOUTH-HAMPTON, Lord High Treasurer of England, Lord Warden of the New Forrest, Kn",
+  "chapter_slug": "13-to-the-right-honourable-thomas-earl-of-south-hampt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e270d570-2d4b-5b1c-87a3-72e2a3039ac7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 184,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

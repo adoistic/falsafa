@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-war-and-other-essays-b3f818",
+  "work_title": "War and Other Essays",
+  "chapter_number": 6,
+  "chapter_title": "IV: WITCHCRAFT [1909]",
+  "chapter_slug": "06-iv-witchcraft-1909",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "41cfbd41-6d07-5956-b430-d824fc2d23d5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6028,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-war-and-other-essays"
+    }
+  ]
+}

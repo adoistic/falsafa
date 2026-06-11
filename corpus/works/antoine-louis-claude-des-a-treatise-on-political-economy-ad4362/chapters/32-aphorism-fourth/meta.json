@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362",
+  "work_title": "A Treatise on Political Economy",
+  "chapter_number": 32,
+  "chapter_title": "APHORISM FOURTH.",
+  "chapter_slug": "32-aphorism-fourth",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f5a8d2a7-7e9b-5cbb-9c3b-f0a846e3ce52",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 160,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
+    }
+  ]
+}

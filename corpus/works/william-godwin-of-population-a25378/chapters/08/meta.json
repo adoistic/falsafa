@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-godwin-of-population-a25378",
+  "work_title": "Of Population",
+  "chapter_number": 8,
+  "chapter_title": "Chapter V.: Numbers Of Mankind In Ancient And Modern Times.",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd7fdc2b-ad6b-5539-8ff4-21c4e9c5051c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1594,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
+    }
+  ]
+}

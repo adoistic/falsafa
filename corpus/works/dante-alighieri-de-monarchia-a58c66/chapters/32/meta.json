@@ -1,0 +1,26 @@
+{
+  "work_slug": "dante-alighieri-de-monarchia-a58c66",
+  "work_title": "De Monarchia",
+  "chapter_number": 32,
+  "chapter_title": "CHAPTER XIII: Christ in dying confirmed the jurisdiction of the Roman Empire over all humanity.",
+  "chapter_slug": "32",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "36180142-1839-5fa4-8931-b76368340bc0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 529,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"
+    }
+  ]
+}

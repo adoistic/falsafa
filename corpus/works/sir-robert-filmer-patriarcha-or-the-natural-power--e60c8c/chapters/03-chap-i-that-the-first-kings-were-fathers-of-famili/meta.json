@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-robert-filmer-patriarcha-or-the-natural-power--e60c8c",
+  "work_title": "Patriarcha, or the Natural Power of Kings",
+  "chapter_number": 3,
+  "chapter_title": "CHAP I.: That the first Kings were Fathers of Families.",
+  "chapter_slug": "03-chap-i-that-the-first-kings-were-fathers-of-famili",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0477c54b-1aca-526e-875d-f6bea868a0a4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4311,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/filmer-patriarcha-or-the-natural-power-of-kings"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "j-c-l-simonde-de-sismond-political-economy-and-the-philos-860c69",
+  "work_title": "Political Economy and the Philosophy of Government",
+  "chapter_number": 32,
+  "chapter_title": "on the NATIONAL INCOME, or the INCOME OF THE COMMUNITY.",
+  "chapter_slug": "32-on-the-national-income-or-the-income-of-the-commun",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10ff57ee-6cc9-57ef-9c87-58bbdeba38c2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7614,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sismondi-political-economy-and-the-philosophy-of-government"
+    }
+  ]
+}

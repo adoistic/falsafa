@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-francis-bastable-public-finance-1ff8b2",
+  "work_title": "Public Finance",
+  "chapter_number": 21,
+  "chapter_title": "CHAPTER IV: the state as capitalist. administrative revenue",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "726250cb-0bd9-524e-b60e-4ff7c84f30a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4252,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bastable-public-finance"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "epictetus-the-works-of-epictetus-43c12c",
+  "work_title": "The Works of Epictetus",
+  "chapter_number": 27,
+  "chapter_title": "CHAPTER XXIII.: AGAINST EPICURUS.",
+  "chapter_slug": "27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bce85cc0-986d-5bb6-9a52-c1d622d1edc4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 303,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+    }
+  ]
+}

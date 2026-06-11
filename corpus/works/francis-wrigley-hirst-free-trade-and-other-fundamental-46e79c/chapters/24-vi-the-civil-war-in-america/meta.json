@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-wrigley-hirst-free-trade-and-other-fundamental-46e79c",
+  "work_title": "Free Trade and Other Fundamental Doctrines of the Manchester School",
+  "chapter_number": 24,
+  "chapter_title": "VI.—: THE CIVIL WAR IN AMERICA",
+  "chapter_slug": "24-vi-the-civil-war-in-america",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c17f17a3-4e28-5fec-8025-836df0631b66",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3874,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hirst-free-trade-and-other-fundamental-doctrines-of-the-manchester-school"
+    }
+  ]
+}

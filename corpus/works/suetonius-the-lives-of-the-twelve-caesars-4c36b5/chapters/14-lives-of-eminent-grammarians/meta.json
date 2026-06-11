@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
+  "work_title": "The Lives of the Twelve Caesars",
+  "chapter_number": 14,
+  "chapter_title": "LIVES OF EMINENT GRAMMARIANS.",
+  "chapter_slug": "14-lives-of-eminent-grammarians",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0337f4a8-5e58-553d-900b-c56f801a66d4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4871,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/thomson-the-lives-of-the-twelve-caesars"
+    }
+  ]
+}

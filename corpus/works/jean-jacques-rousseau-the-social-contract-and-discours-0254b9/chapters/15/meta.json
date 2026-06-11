@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
+  "work_title": "The Social Contract and Discourses",
+  "chapter_number": 15,
+  "chapter_title": "CHAPTER I: that sovereignty is inalienable",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b9b73d21-54f5-5f2c-bac6-047434bc2105",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 397,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
+    }
+  ]
+}

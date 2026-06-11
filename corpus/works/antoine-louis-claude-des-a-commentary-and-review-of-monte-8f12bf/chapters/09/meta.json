@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-commentary-and-review-of-monte-8f12bf",
+  "work_title": "A Commentary and Review of Montesquieu's Spirit of Laws",
+  "chapter_number": 9,
+  "chapter_title": "Book VII: Consequences of the Different Principles of the Three Forms of Government, Relative to Sumptuary Laws, to Luxu",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5816498a-8645-5f79-8c03-141f56a94359",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5201,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws"
+    }
+  ]
+}

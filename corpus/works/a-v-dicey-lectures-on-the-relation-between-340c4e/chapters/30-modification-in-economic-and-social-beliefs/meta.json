@@ -1,0 +1,26 @@
+{
+  "work_slug": "a-v-dicey-lectures-on-the-relation-between-340c4e",
+  "work_title": "Lectures on the Relation between Law and Public Opinion in England",
+  "chapter_number": 30,
+  "chapter_title": "Modification in Economic and Social Beliefs",
+  "chapter_slug": "30-modification-in-economic-and-social-beliefs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "93aa9563-ddb0-5979-a91b-cafe1e27909a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 427,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919"
+    }
+  ]
+}

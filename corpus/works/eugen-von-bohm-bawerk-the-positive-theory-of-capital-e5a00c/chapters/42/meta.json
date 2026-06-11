@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-von-bohm-bawerk-the-positive-theory-of-capital-e5a00c",
+  "work_title": "The Positive Theory of Capital",
+  "chapter_number": 42,
+  "chapter_title": "Book VI, Chapter V: The Profit of Capitalist Undertaking. The General Subsistence Market.",
+  "chapter_slug": "42",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "830f4879-ae9d-5d3a-8b8e-a540016b6881",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3419,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-the-positive-theory-of-capital"
+    }
+  ]
+}

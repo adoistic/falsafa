@@ -1,0 +1,26 @@
+{
+  "work_slug": "abbe-de-mably-remarks-concerning-the-governmen-569ca7",
+  "work_title": "Remarks Concerning the Government and Laws of the United States of America",
+  "chapter_number": 4,
+  "chapter_title": "Concerning the Dangers to which the American Confederation stands exposed; the Circumstances which will give rise to Tro",
+  "chapter_slug": "04-concerning-the-dangers-to-which-the-american-confe",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2bb0cc44-ac22-5f70-8df0-360c2e958d51",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 11231,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mably-remarks-concerning-the-government-and-laws-of-the-united-states-of-america"
+    }
+  ]
+}

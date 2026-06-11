@@ -1,0 +1,49 @@
+---
+work_id: "13d19d09-86e3-5dbf-974b-5e5faf8f0116"
+work_slug: "lysander-spooner-a-letter-to-grover-cleveland-13d19d"
+work_title: A Letter to Grover Cleveland
+author_name: Lysander Spooner
+chapter_number: 18
+chapter_title: Section XVIII.
+chapter_slug: 18
+variant_id: "b672aa70-856a-5394-ab9a-329a4182aa7a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 983
+source_url: "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
+translator: Online Library of Liberty edition
+---
+
+If, now, it be asked, what is this constitutional “obligation of contracts,” which the States are forbidden to impair, the answer is, that it is, and necessarily must be, the natural obligation; or that obligation, which contracts have, on principles Edition: current; Page: [59] of natural law, and natural justice, as distinguished from any arbitrary or unjust obligation, which lawmakers may assume to create, and attach to contracts.
+
+This natural obligation is the only one “obligation,” which all obligatory contracts can be said to have. It is the only inherent “obligation,” that any contract can be said to have. It is recognized all over the world—at least as far as it is known—as the one only true obligation, that any, or all, contracts can have. And, so far as it is known—it is held valid all over the world, except in those exceptional cases, where arbitrary and tyrannical governments have assumed to annul it, or substitute some other in its stead.
+
+The constitution assumes that this one “obligation of contracts,” which it designs to protect, is the natural one, because it assumes that it existed, and was known, at the time the constitution itself was established; and certainly no one “obligation,” other than the natural one, can be said to have been known, as applicable to all obligatory contracts, at the time the constitution was established. Unless, therefore, the constitution be presumed to have intended the natural “obligation,” it cannot be said to have intended any one “obligation” whatever; or, consequently, to have forbidden the violation of any one “obligation” whatever.
+
+It cannot be said that “the obligation,” which the constitution designed to protect, was any arbitrary “obligation,” that was unknown at the time the constitution was established, but that was to be created, and made known afterward; for then this provision of the constitution could have had no effect, until such arbitrary “obligation” should have been created, and made known. And as it gives us no information as to how, or by whom, this arbitrary “obligation” was to be created, or what the obligation itself was to be, or how it could ever be known to be the one that was intended to be protected, the provision itself becomes a mere nullity, having no effect to protect any “obligation” at all.
+
+It would be a manifest and utter absurdity to say that the constitution intended to protect any “obligation” whatever, unless it be presumed to have intended some particular “obligation,” that was known at the time; for that would be equivalent to saying that the constitution intended to establish a law, of which no man could know the meaning.
+
+But this is not all.
+
+The right of property is a natural right. The only real right of property, that is known to mankind, is the natural right. Men have also a natural right to convey their natural rights of property from one person to another. And there is no means known to mankind, by which this natural right of property can be transferred, or conveyed, by one man to another, except by such contracts as are naturally obligatory; that is, naturally capable of conveying and binding the right of property.
+
+All contracts whatsoever, that are naturally capable, competent, and sufficient to convey, transfer, and bind the natural right of property, are naturally obligatory; Edition: current; Page: [60] and really and truly do convey, transfer, and bind such rights of property as they purport to convey, transfer, and bind.
+
+All the other modes, by which one man has ever attempted to acquire the property of another, have been thefts, robberies, and frauds. But these, of course, have never conveyed any real rights of property.
+
+To make any contract binding, obligatory, and effectual for conveying and transferring rights of property, these three conditions only are essential, viz., 1, That it be entered into by parties, who are mentally competent to make reasonable contracts. 2. That the contract be a purely voluntary one: that is, that it be entered into without either force or fraud on either side. 3. That the right of property, which the contract purports to convey, be such an one as is naturally capable of being conveyed, or transferred, by one man to another.
+
+Subject to these conditions, all contracts whatsoever, for conveying rights of property—that is, for buying and selling, borrowing and lending, giving and receiving property—are naturally obligatory, and bind such rights of property as they purport to convey.
+
+Subject to these conditions, all contracts, for the conveyance of rights of property, are recognized as valid, all over the world, by both civilized and savage man, except in those particular cases where governments arbitrarily and tyrannically prohibit, alter, or invalidate them.
+
+This natural “obligation of contracts” must necessarily be presumed to be the one, and the only one, which the constitution forbids to be impaired, by any State law whatever, if we are to presume that the constitution was intended for the maintenance of justice, or men’s natural rights.
+
+On the other hand, if the constitution be presumed not to protect this natural “obligation of contracts,” we know not what other “obligation” it did intend to protect. It mentions no other, describes no other, gives us no hint of any other; and nobody can give us the least information as to what other “obligation of contracts” was intended.
+
+It could not have been any “obligation” which the State lawmakers might arbitrarily create, and annex to all contracts; for this is what no lawmakers have ever attempted to do. And it would be the height of absurdity to suppose they ever will invent any one “obligation,” and attach it to all contracts. They have only attempted either to annul, or impair, the natural “obligation” of particular contracts; or, in particular cases, to substitute other “obligations” of their own invention. And this is the most they will ever attempt to do.

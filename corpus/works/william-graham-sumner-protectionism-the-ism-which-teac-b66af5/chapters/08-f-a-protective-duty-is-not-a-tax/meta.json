@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-protectionism-the-ism-which-teac-b66af5",
+  "work_title": "Protectionism: The -ism Which Teaches That Waste Makes Wealth",
+  "chapter_number": 8,
+  "chapter_title": "F.): “A Protective Duty is not a Tax.”",
+  "chapter_slug": "08-f-a-protective-duty-is-not-a-tax",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "32d9732c-871d-5170-8ce3-5bed49f05521",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1041,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-protectionism-the-ism-which-teaches-that-waste-makes-wealth"
+    }
+  ]
+}

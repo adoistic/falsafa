@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 67,
+  "chapter_title": "DE CESSICIA TVTELA.",
+  "chapter_slug": "67-de-cessicia-tvtela",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3c7ed6cc-8a72-5012-9f24-b236cf698bd7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 165,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

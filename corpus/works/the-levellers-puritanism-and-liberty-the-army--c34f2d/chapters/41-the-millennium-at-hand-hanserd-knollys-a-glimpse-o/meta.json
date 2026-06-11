@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 41,
+  "chapter_title": "The Millennium at Hand [Hanserd Knollys], A Glimpse of Sion’s Glory (1641)",
+  "chapter_slug": "41-the-millennium-at-hand-hanserd-knollys-a-glimpse-o",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "beb0ca52-8aa5-508e-8f40-eb402b653cc7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4099,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

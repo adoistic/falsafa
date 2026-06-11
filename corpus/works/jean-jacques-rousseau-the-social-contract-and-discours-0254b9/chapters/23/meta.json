@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
+  "work_title": "The Social Contract and Discourses",
+  "chapter_number": 23,
+  "chapter_title": "CHAPTER IX: the people (continued)",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "524d3fae-de98-55cc-bd79-29b0fb15ec53",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 825,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/cole-the-social-contract-and-discourses"
+    }
+  ]
+}

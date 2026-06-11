@@ -1,0 +1,26 @@
+{
+  "work_slug": "mary-wollstonecraft-a-vindication-of-the-rights-of-w-7ebb3a",
+  "work_title": "A Vindication of the Rights of Woman",
+  "chapter_number": 17,
+  "chapter_title": "CHAPTER X: parental affection",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8d170bc-77fb-5dc7-9007-ef7dd5b63170",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1036,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wollstonecraft-a-vindication-of-the-rights-of-woman"
+    }
+  ]
+}

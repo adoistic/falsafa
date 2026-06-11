@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 74,
+  "chapter_title": "III. Terms of Trade and the Amount of Gain From Trade",
+  "chapter_slug": "74-iii-terms-of-trade-and-the-amount-of-gain-from-tra",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1bf101e4-c0e8-514d-81c4-0b5f1f58d43c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5018,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

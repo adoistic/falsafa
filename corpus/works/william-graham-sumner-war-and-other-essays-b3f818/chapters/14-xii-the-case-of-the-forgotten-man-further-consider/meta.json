@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-war-and-other-essays-b3f818",
+  "work_title": "War and Other Essays",
+  "chapter_number": 14,
+  "chapter_title": "XII: THE CASE OF THE FORGOTTEN MAN FURTHER CONSIDERED [1884]",
+  "chapter_slug": "14-xii-the-case-of-the-forgotten-man-further-consider",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "94b41aa6-c0d7-5339-8040-a28c8368157b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3864,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-war-and-other-essays"
+    }
+  ]
+}

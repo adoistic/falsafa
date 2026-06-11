@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f",
+  "work_title": "Capital and Interest: A Critical History of Economical Theory",
+  "chapter_number": 31,
+  "chapter_title": "Book VII, Chapter I: The Eclectics",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "014bec9a-eb00-581e-ab0f-a40f1b72c562",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6149,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-capital-and-interest-a-critical-history-of-economic-theory"
+    }
+  ]
+}

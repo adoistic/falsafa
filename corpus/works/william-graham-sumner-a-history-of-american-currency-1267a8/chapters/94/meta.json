@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-a-history-of-american-currency-1267a8",
+  "work_title": "A History of American Currency",
+  "chapter_number": 94,
+  "chapter_title": "CHAPTER III.: austrian paper money.",
+  "chapter_slug": "94",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "69e4f1b9-b2f0-5666-8d7c-ea34df0a1671",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2781,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+    }
+  ]
+}

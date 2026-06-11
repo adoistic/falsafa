@@ -1,0 +1,26 @@
+{
+  "work_slug": "boethius-the-consolation-of-philosophy-88b715",
+  "work_title": "The Consolation of Philosophy",
+  "chapter_number": 8,
+  "chapter_title": "§ 7. The Two Versions of the Lays of Boethius.",
+  "chapter_slug": "08-7-the-two-versions-of-the-lays-of-boethius",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5eca14b4-74b2-5124-9d39-2396a50f867f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1155,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 79,
+  "chapter_title": "SECTION II.: Of the different Modes of Assessment, and the Classes they press upon respectively.",
+  "chapter_slug": "79",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6266f431-13c1-5ff3-a2dd-7e33b665cc52",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6064,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

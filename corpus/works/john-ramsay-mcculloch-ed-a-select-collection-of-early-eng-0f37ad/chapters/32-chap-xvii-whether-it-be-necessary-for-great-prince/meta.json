@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 32,
+  "chapter_title": "Chap. XVII.: Whether it be necessary for great Princes to lay up store of Treasure.",
+  "chapter_slug": "32-chap-xvii-whether-it-be-necessary-for-great-prince",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6842a1fb-b5c3-56b9-ab96-608eae6a2c96",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 734,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

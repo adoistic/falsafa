@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221",
+  "work_title": "The Recollections of Alexis de Tocqueville",
+  "chapter_number": 14,
+  "chapter_title": "CHAPTER VIII: THE FEAST OF CONCORD AND THE PREPARATIONS FOR THE DAYS OF JUNE.",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dfc4b1e9-d465-53ab-b6b2-423fe81e403a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3047,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/de-mattos-the-recollections-of-alexis-de-tocqueville-1896"
+    }
+  ]
+}

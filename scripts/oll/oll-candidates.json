@@ -1,0 +1,3236 @@
+{
+ "works": [
+  {
+   "slug": "acton-the-history-of-freedom-and-other-essays",
+   "author": "John Emerich Edward Dalberg-Acton (Lord Acton)",
+   "author_dates": "1834\u20131902",
+   "title": "The History of Freedom and Other Essays",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "acton-lectures-on-the-french-revolution-lf-ed",
+   "author": "John Emerich Edward Dalberg-Acton (Lord Acton)",
+   "author_dates": "1834\u20131902",
+   "title": "Lectures on the French Revolution",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "laurence-historical-essays-and-studies",
+   "author": "John Emerich Edward Dalberg-Acton (Lord Acton)",
+   "author_dates": "1834\u20131902",
+   "title": "Historical Essays and Studies",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "laurence-lectures-on-modern-history",
+   "author": "John Emerich Edward Dalberg-Acton (Lord Acton)",
+   "author_dates": "1834\u20131902",
+   "title": "Lectures on Modern History",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "figgis-lectures-on-modern-history",
+   "author": "John Emerich Edward Dalberg-Acton (Lord Acton)",
+   "author_dates": "1834\u20131902",
+   "title": "Lectures on Modern History (Figgis ed.)",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "paul-letters-of-lord-acton-to-mary-daughter-of-the-right-hon-w-e-gladstone",
+   "author": "John Emerich Edward Dalberg-Acton (Lord Acton)",
+   "author_dates": "1834\u20131902",
+   "title": "Letters of Lord Acton to Mary Gladstone",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "acton-the-history-of-freedom-and-other-essays-2",
+   "author": "John Emerich Edward Dalberg-Acton (Lord Acton)",
+   "author_dates": "1834\u20131902",
+   "title": "The History of Freedom and Other Essays",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "bastiat-economic-sophisms",
+   "author": "Fr\u00e9d\u00e9ric Bastiat",
+   "author_dates": "1801\u20131850",
+   "title": "Economic Sophisms",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "bastiat-selected-essays-on-political-economy",
+   "author": "Fr\u00e9d\u00e9ric Bastiat",
+   "author_dates": "1801\u20131850",
+   "title": "Selected Essays on Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "the-law-revised-lf-ed",
+   "author": "Fr\u00e9d\u00e9ric Bastiat",
+   "author_dates": "1801\u20131850",
+   "title": "The Law",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "spencer-social-statics-1851",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "Social Statics",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "spencer-the-man-versus-the-state-1885-ed",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "The Man Versus the State",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "spencer-the-data-of-ethics-1879",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "The Data of Ethics",
+   "era": "19th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "spencer-the-study-of-sociology-1873",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "The Study of Sociology",
+   "era": "19th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "spencer-first-principles-1867",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "First Principles",
+   "era": "19th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "spencer-the-principles-of-psychology-1855",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "The Principles of Psychology",
+   "era": "19th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "spencer-justice-being-part-iv-of-the-principles-of-ethics-1891",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "Justice (Principles of Ethics, Part IV)",
+   "era": "19th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "spencer-political-institutions-being-part-v-of-the-principles-of-sociology",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "Political Institutions (Principles of Sociology, Part V)",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "spencer-the-principles-of-sociology-3-vols-1898",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "The Principles of Sociology",
+   "era": "19th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "spencer-essays-scientific-political-and-speculative-3-vols-1891",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "Essays: Scientific, Political, and Speculative",
+   "era": "19th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "spencer-an-autobiography-2-vols-1904",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "An Autobiography",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "mack-the-man-versus-the-state-with-six-essays-on-government-society-and-freedom-lf-ed",
+   "author": "Herbert Spencer",
+   "author_dates": "1820\u20131903",
+   "title": "The Man Versus the State, with Six Essays on Government, Society, and Freedom",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "schleifer-democracy-in-america-historical-critical-edition-4-vols-lf-ed-2010",
+   "author": "Alexis de Tocqueville",
+   "author_dates": "1805\u20131859",
+   "title": "Democracy in America",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "democracy-in-america-english-edition-2-vols",
+   "author": "Alexis de Tocqueville",
+   "author_dates": "1805\u20131859",
+   "title": "Democracy in America (English edition)",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "tocqueville-the-old-regime-and-the-revolution-1856",
+   "author": "Alexis de Tocqueville",
+   "author_dates": "1805\u20131859",
+   "title": "The Old Regime and the Revolution",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "de-mattos-the-recollections-of-alexis-de-tocqueville-1896",
+   "author": "Alexis de Tocqueville",
+   "author_dates": "1805\u20131859",
+   "title": "The Recollections of Alexis de Tocqueville",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "tocqueville-memoir-letters-and-remains-of-alexis-de-tocqueville-2-vols-1861",
+   "author": "Alexis de Tocqueville",
+   "author_dates": "1805\u20131859",
+   "title": "Memoir, Letters, and Remains of Alexis de Tocqueville",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "bentham-an-introduction-to-the-principles-of-morals-and-legislation",
+   "author": "Jeremy Bentham",
+   "author_dates": "1748\u20131832",
+   "title": "An Introduction to the Principles of Morals and Legislation",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "bentham-defence-of-usury",
+   "author": "Jeremy Bentham",
+   "author_dates": "1748\u20131832",
+   "title": "Defence of Usury",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "bentham-a-protest-against-law-taxes",
+   "author": "Jeremy Bentham",
+   "author_dates": "1748\u20131832",
+   "title": "A Protest Against Law-Taxes",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "bentham-works-of-jeremy-bentham-11-vols",
+   "author": "Jeremy Bentham",
+   "author_dates": "1748\u20131832",
+   "title": "The Works of Jeremy Bentham",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "spooner-an-essay-on-the-trial-by-jury-1852",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "An Essay on the Trial by Jury",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "spooner-natural-law-or-the-science-of-justice-1882",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "Natural Law, or the Science of Justice",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "spooner-no-treason-no-vi-the-constitution-of-no-authority-1870",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "No Treason, No. VI: The Constitution of No Authority",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "spooner-the-unconstitutionality-of-slavery-1860",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "The Unconstitutionality of Slavery",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "spooner-a-letter-to-grover-cleveland-1886",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "A Letter to Grover Cleveland",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "spooner-the-law-of-intellectual-property-1855",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "The Law of Intellectual Property",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "spooner-the-shorter-works-and-pamphlets-of-lysander-spooner-2-vols-1834-1884",
+   "author": "Lysander Spooner",
+   "author_dates": "1808\u20131887",
+   "title": "The Shorter Works and Pamphlets of Lysander Spooner",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "menger-grundsatze-der-volkswirtschaftslehre",
+   "author": "Carl Menger",
+   "author_dates": "1840\u20131921",
+   "title": "Grunds\u00e4tze der Volkswirtschaftslehre",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "menger-untersuchungen-uber-die-methode-der-sozialwissenschaften",
+   "author": "Carl Menger",
+   "author_dates": "1840\u20131921",
+   "title": "Untersuchungen \u00fcber die Methode der Socialwissenschaften",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "malthus-an-essay-on-the-principle-of-population-1798-1st-ed",
+   "author": "Thomas Robert Malthus",
+   "author_dates": "1766\u20131834",
+   "title": "An Essay on the Principle of Population (1st ed., 1798)",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "malthus-an-essay-on-the-principle-of-population-2-vols-1826-6th-ed",
+   "author": "Thomas Robert Malthus",
+   "author_dates": "1766\u20131834",
+   "title": "An Essay on the Principle of Population (6th ed., 1826)",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "malthus-principles-of-political-economy",
+   "author": "Thomas Robert Malthus",
+   "author_dates": "1766\u20131834",
+   "title": "Principles of Political Economy",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "malthus-definitions-in-political-economy",
+   "author": "Thomas Robert Malthus",
+   "author_dates": "1766\u20131834",
+   "title": "Definitions in Political Economy",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "jevons-the-theory-of-political-economy",
+   "author": "William Stanley Jevons",
+   "author_dates": "1835\u20131882",
+   "title": "The Theory of Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "jevons-money-and-the-mechanism-of-exchange",
+   "author": "William Stanley Jevons",
+   "author_dates": "1835\u20131882",
+   "title": "Money and the Mechanism of Exchange",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "jevons-the-coal-question",
+   "author": "William Stanley Jevons",
+   "author_dates": "1835\u20131882",
+   "title": "The Coal Question",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "jevons-methods-of-social-reform-and-other-papers",
+   "author": "William Stanley Jevons",
+   "author_dates": "1835\u20131882",
+   "title": "Methods of Social Reform and Other Papers",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "burke-a-vindication-of-natural-society",
+   "author": "Edmund Burke",
+   "author_dates": "1729\u20131797",
+   "title": "A Vindication of Natural Society",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "canavan-select-works-of-edmund-burke-4-vols",
+   "author": "Edmund Burke",
+   "author_dates": "1729\u20131797",
+   "title": "Select Works of Edmund Burke",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "burke-speech-of-edmund-burke-esq-on-moving-his-resolution-for-conciliation-with-the-colonies",
+   "author": "Edmund Burke",
+   "author_dates": "1729\u20131797",
+   "title": "Speech on Conciliation with the Colonies",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "burke-speech-of-edmund-burke-esq-on-american-taxation",
+   "author": "Edmund Burke",
+   "author_dates": "1729\u20131797",
+   "title": "Speech on American Taxation",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "burke-observations-on-a-late-state-of-the-nation",
+   "author": "Edmund Burke",
+   "author_dates": "1729\u20131797",
+   "title": "Observations on a Late State of the Nation",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "maine-popular-government",
+   "author": "Henry Sumner Maine",
+   "author_dates": "1822\u20131888",
+   "title": "Popular Government",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "pollock-ancient-law",
+   "author": "Henry Sumner Maine",
+   "author_dates": "1822\u20131888",
+   "title": "Ancient Law",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "maine-lectures-on-the-early-history-of-institutions",
+   "author": "Henry Sumner Maine",
+   "author_dates": "1822\u20131888",
+   "title": "Lectures on the Early History of Institutions",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "maine-dissertations-on-early-law-and-custom",
+   "author": "Henry Sumner Maine",
+   "author_dates": "1822\u20131888",
+   "title": "Dissertations on Early Law and Custom",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "senior-political-economy-1850-ed",
+   "author": "Nassau William Senior",
+   "author_dates": "1790\u20131864",
+   "title": "Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "senior-three-lectures-on-the-rate-of-wages",
+   "author": "Nassau William Senior",
+   "author_dates": "1790\u20131864",
+   "title": "Three Lectures on the Rate of Wages",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "senior-four-introductory-lectures-on-political-economy",
+   "author": "Nassau William Senior",
+   "author_dates": "1790\u20131864",
+   "title": "Four Introductory Lectures on Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "senior-letters-on-the-factory-act",
+   "author": "Nassau William Senior",
+   "author_dates": "1790\u20131864",
+   "title": "Letters on the Factory Act",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "hodgskin-popular-political-economy-four-lectures-delivered-at-the-london-mechanics-institution",
+   "author": "Thomas Hodgskin",
+   "author_dates": "1787\u20131869",
+   "title": "Popular Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "hodgskin-the-natural-and-artificial-right-of-property-contrasted",
+   "author": "Thomas Hodgskin",
+   "author_dates": "1787\u20131869",
+   "title": "The Natural and Artificial Right of Property Contrasted",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "hodgskin-a-lecture-on-free-trade-in-connexion-with-the-corn-laws",
+   "author": "Thomas Hodgskin",
+   "author_dates": "1787\u20131869",
+   "title": "A Lecture on Free Trade in Connexion with the Corn Laws",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "cobden-the-political-writings-of-richard-cobden-in-2-vols",
+   "author": "Richard Cobden",
+   "author_dates": "1804\u20131865",
+   "title": "The Political Writings of Richard Cobden",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "cobden-speeches-on-free-trade",
+   "author": "Richard Cobden",
+   "author_dates": "1804\u20131865",
+   "title": "Speeches on Free Trade",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "morley-the-life-of-richard-cobden",
+   "author": "John Morley",
+   "author_dates": "1838\u20131923",
+   "title": "The Life of Richard Cobden",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "bright-selected-speeches-of-the-rt-hon-john-bright-m-p-on-public-questions",
+   "author": "John Bright",
+   "author_dates": "1811\u20131889",
+   "title": "Selected Speeches on Public Questions",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "bright-speeches-on-questions-of-public-policy-2-vols",
+   "author": "John Bright",
+   "author_dates": "1811\u20131889",
+   "title": "Speeches on Questions of Public Policy",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "erasmus-the-complaint-of-peace",
+   "author": "Desiderius Erasmus",
+   "author_dates": "1466\u20131536",
+   "title": "The Complaint of Peace",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "erasmus-in-praise-of-folly",
+   "author": "Desiderius Erasmus",
+   "author_dates": "1466\u20131536",
+   "title": "In Praise of Folly",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "erasmus-the-manual-of-a-christian-knight",
+   "author": "Desiderius Erasmus",
+   "author_dates": "1466\u20131536",
+   "title": "The Manual of a Christian Knight (Enchiridion)",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "grotius-the-rights-of-war-and-peace-1901-ed",
+   "author": "Hugo Grotius",
+   "author_dates": "1583\u20131645",
+   "title": "The Rights of War and Peace",
+   "era": "Renaissance",
+   "genre": "Law"
+  },
+  {
+   "slug": "scott-the-freedom-of-the-seas-latin-and-english-version-magoffin-trans",
+   "author": "Hugo Grotius",
+   "author_dates": "1583\u20131645",
+   "title": "The Freedom of the Seas (Mare Liberum)",
+   "era": "Renaissance",
+   "genre": "Law"
+  },
+  {
+   "slug": "pufendorf-the-divine-feudal-law-or-covenants-with-mankind-represented",
+   "author": "Samuel von Pufendorf",
+   "author_dates": "1632\u20131694",
+   "title": "The Divine Feudal Law",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "montesquieu-complete-works-4-vols-1777",
+   "author": "Charles-Louis de Secondat, Baron de Montesquieu",
+   "author_dates": "1689\u20131755",
+   "title": "Complete Works (incl. The Spirit of the Laws)",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "hume-essays-moral-political-literary-lf-ed",
+   "author": "David Hume",
+   "author_dates": "1711\u20131776",
+   "title": "Essays, Moral, Political, and Literary",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "hume-philosophical-works-of-david-hume",
+   "author": "David Hume",
+   "author_dates": "1711\u20131776",
+   "title": "The Philosophical Works of David Hume",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "ferguson-an-essay-on-the-history-of-civil-society",
+   "author": "Adam Ferguson",
+   "author_dates": "1723\u20131816",
+   "title": "An Essay on the History of Civil Society",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "hutcheson-logic-metaphysics-and-the-natural-sociability-of-mankind",
+   "author": "Francis Hutcheson",
+   "author_dates": "1694\u20131746",
+   "title": "Logic, Metaphysics, and the Natural Sociability of Mankind",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "a-system-of-moral-philosophy",
+   "author": "Francis Hutcheson",
+   "author_dates": "1694\u20131746",
+   "title": "A System of Moral Philosophy",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "leidhold-an-inquiry-into-the-original-of-our-ideas-of-beauty-and-virtue-1726-2004",
+   "author": "Francis Hutcheson",
+   "author_dates": "1694\u20131746",
+   "title": "An Inquiry into the Original of Our Ideas of Beauty and Virtue",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "a-treatise-on-political-economy-lf-ed",
+   "author": "Jean-Baptiste Say",
+   "author_dates": "1767\u20131832",
+   "title": "A Treatise on Political Economy",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "mcculloch-the-principles-of-political-economy-1st-ed-1825",
+   "author": "John Ramsay McCulloch",
+   "author_dates": "1789\u20131864",
+   "title": "The Principles of Political Economy (1st ed., 1825)",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "mcculloch-treatises-and-essays-on-subjects-connected-with-economic-policy-1853",
+   "author": "John Ramsay McCulloch",
+   "author_dates": "1789\u20131864",
+   "title": "Treatises and Essays on Subjects Connected with Economic Policy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "mcculloch-a-treatise-on-metallic-and-paper-money-and-banks-1858",
+   "author": "John Ramsay McCulloch",
+   "author_dates": "1789\u20131864",
+   "title": "A Treatise on Metallic and Paper Money and Banks",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "hart-tracts-on-liberty-by-the-levellers-and-their-critics-1638-1660-7-vols",
+   "author": "The Levellers",
+   "author_dates": "fl. 1638\u20131660",
+   "title": "Tracts on Liberty by the Levellers and Their Critics",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "overton-an-arrow-against-all-tyrants",
+   "author": "Richard Overton",
+   "author_dates": "fl. 1640\u20131664",
+   "title": "An Arrow Against All Tyrants",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "lindsay-puritanism-and-liberty-being-the-army-debates-1647-9",
+   "author": "The Levellers",
+   "author_dates": "fl. 1638\u20131660",
+   "title": "Puritanism and Liberty: The Army Debates (1647\u20139)",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "lecky-the-history-of-the-decline-and-fall-of-the-roman-empire-12-vols",
+   "author": "William Edward Hartpole Lecky",
+   "author_dates": "1838\u20131903",
+   "title": "A History of England in the Eighteenth Century",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "lecky-democracy-and-liberty-1899-ed",
+   "author": "William Edward Hartpole Lecky",
+   "author_dates": "1838\u20131903",
+   "title": "Democracy and Liberty",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "lecky-history-of-european-morals-from-augustus-to-charlemagne-2-vols",
+   "author": "William Edward Hartpole Lecky",
+   "author_dates": "1838\u20131903",
+   "title": "History of European Morals from Augustus to Charlemagne",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "lecky-history-of-the-rise-and-influence-of-the-spirit-of-rationalism-in-europe-2-vols",
+   "author": "William Edward Hartpole Lecky",
+   "author_dates": "1838\u20131903",
+   "title": "History of the Rise and Influence of the Spirit of Rationalism in Europe",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "lecky-a-history-of-england-in-the-eighteenth-century-8-vols",
+   "author": "William Edward Hartpole Lecky",
+   "author_dates": "1838\u20131903",
+   "title": "A History of England in the Eighteenth Century",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "bryce-the-holy-roman-empire",
+   "author": "James Bryce",
+   "author_dates": "1838\u20131922",
+   "title": "The Holy Roman Empire",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "bryce-studies-in-history-and-jurisprudence-2-vols",
+   "author": "James Bryce",
+   "author_dates": "1838\u20131922",
+   "title": "Studies in History and Jurisprudence",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "bryce-modern-democracies-2-vols",
+   "author": "James Bryce",
+   "author_dates": "1838\u20131922",
+   "title": "Modern Democracies",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "mcdowell-the-american-commonwealth-2-vols",
+   "author": "James Bryce",
+   "author_dates": "1838\u20131922",
+   "title": "The American Commonwealth",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "bagehot-lombard-street-a-description-of-the-money-market",
+   "author": "Walter Bagehot",
+   "author_dates": "1826\u20131877",
+   "title": "Lombard Street: A Description of the Money Market",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "barrington-the-works-and-life-of-walter-bagehot-10-vols",
+   "author": "Walter Bagehot",
+   "author_dates": "1826\u20131877",
+   "title": "The Works and Life of Walter Bagehot",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "kaye-the-fable-of-the-bees-or-private-vices-publick-benefits-2-vols",
+   "author": "Bernard Mandeville",
+   "author_dates": "1670\u20131733",
+   "title": "The Fable of the Bees: or, Private Vices, Publick Benefits",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "condorcet-outlines-of-an-historical-view-of-the-progress-of-the-human-mind",
+   "author": "Marquis de Condorcet",
+   "author_dates": "1743\u20131794",
+   "title": "Outlines of an Historical View of the Progress of the Human Mind",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "condorcet-on-the-admission-of-women-to-the-rights-of-citizenship",
+   "author": "Marquis de Condorcet",
+   "author_dates": "1743\u20131794",
+   "title": "On the Admission of Women to the Rights of Citizenship",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "turgot-reflections-on-the-formation-and-distribution-of-riches",
+   "author": "Anne Robert Jacques Turgot",
+   "author_dates": "1727\u20131781",
+   "title": "Reflections on the Formation and Distribution of Riches",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "machan-the-principles-of-ethics-2-vols-1879-lf-ed",
+   "author": "Henry Sidgwick",
+   "author_dates": "1838\u20131900",
+   "title": "The Methods of Ethics",
+   "era": "19th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "smith-the-theory-of-moral-sentiments-and-on-the-origins-of-languages-stewart-ed",
+   "author": "Adam Smith",
+   "author_dates": "1723\u20131790",
+   "title": "The Theory of Moral Sentiments",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "smith-lectures-on-justice-police-revenue-and-arms-1763",
+   "author": "Adam Smith",
+   "author_dates": "1723\u20131790",
+   "title": "Lectures on Justice, Police, Revenue, and Arms",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "rae-life-of-adam-smith",
+   "author": "John Rae",
+   "author_dates": "1845\u20131915",
+   "title": "Life of Adam Smith",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888",
+   "author": "David Ricardo",
+   "author_dates": "1772\u20131823",
+   "title": "The Works of David Ricardo",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "godwin-an-enquiry-concerning-political-justice-in-2-vols",
+   "author": "William Godwin",
+   "author_dates": "1756\u20131836",
+   "title": "An Enquiry Concerning Political Justice",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind",
+   "author": "William Godwin",
+   "author_dates": "1756\u20131836",
+   "title": "Of Population",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "wollstonecraft-a-vindication-of-the-rights-of-woman",
+   "author": "Mary Wollstonecraft",
+   "author_dates": "1759\u20131797",
+   "title": "A Vindication of the Rights of Woman",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "wollstonecraft-a-vindication-of-the-rights-of-men",
+   "author": "Mary Wollstonecraft",
+   "author_dates": "1759\u20131797",
+   "title": "A Vindication of the Rights of Men",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "paine-the-rights-of-man-part-i-1791-ed",
+   "author": "Thomas Paine",
+   "author_dates": "1737\u20131809",
+   "title": "The Rights of Man",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "paine-the-writings-of-thomas-paine-4-vols",
+   "author": "Thomas Paine",
+   "author_dates": "1737\u20131809",
+   "title": "The Writings of Thomas Paine",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "sidney-discourses-concerning-government",
+   "author": "Algernon Sidney",
+   "author_dates": "1623\u20131683",
+   "title": "Discourses Concerning Government",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "filmer-patriarcha-or-the-natural-power-of-kings",
+   "author": "Sir Robert Filmer",
+   "author_dates": "1588\u20131653",
+   "title": "Patriarcha, or the Natural Power of Kings",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "tyrrell-patriarcha-non-monarcha-the-patriarch-unmonarch-d",
+   "author": "James Tyrrell",
+   "author_dates": "1642\u20131718",
+   "title": "Patriarcha non Monarcha",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "hollis-the-two-treatises-of-civil-government-hollis-ed",
+   "author": "John Locke",
+   "author_dates": "1632\u20131704",
+   "title": "Two Treatises of Government",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "locke-the-works-of-john-locke-in-nine-volumes",
+   "author": "John Locke",
+   "author_dates": "1632\u20131704",
+   "title": "The Works of John Locke",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "goldie-a-letter-concerning-toleration-and-other-writings",
+   "author": "John Locke",
+   "author_dates": "1632\u20131704",
+   "title": "A Letter Concerning Toleration and Other Writings",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "molesworth-english-works-of-thomas-hobbes-11-vols",
+   "author": "Thomas Hobbes",
+   "author_dates": "1588\u20131679",
+   "title": "The English Works of Thomas Hobbes",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "smith-leviathan-1909-ed",
+   "author": "Thomas Hobbes",
+   "author_dates": "1588\u20131679",
+   "title": "Leviathan",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "trenchard-catos-letters-4-vols-in-2-lf-ed",
+   "author": "John Trenchard and Thomas Gordon",
+   "author_dates": "1662\u20131723 / 1691\u20131750",
+   "title": "Cato's Letters",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "trenchard-the-independent-whig-4-vols-1720-1743",
+   "author": "John Trenchard and Thomas Gordon",
+   "author_dates": "1662\u20131723 / 1691\u20131750",
+   "title": "The Independent Whig",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "jay-the-federalist-gideon-ed",
+   "author": "Alexander Hamilton, James Madison, and John Jay",
+   "author_dates": "1755\u20131804 / 1751\u20131836 / 1745\u20131829",
+   "title": "The Federalist",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "lodge-the-works-of-alexander-hamilton-federal-edition-12-vols",
+   "author": "Alexander Hamilton",
+   "author_dates": "1755\u20131804",
+   "title": "The Works of Alexander Hamilton",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "madison-the-writings-of-james-madison-9-vols",
+   "author": "James Madison",
+   "author_dates": "1751\u20131836",
+   "title": "The Writings of James Madison",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "ford-the-works-of-thomas-jefferson-12-vols",
+   "author": "Thomas Jefferson",
+   "author_dates": "1743\u20131826",
+   "title": "The Works of Thomas Jefferson",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "adams-the-works-of-john-adams-10-vols",
+   "author": "John Adams",
+   "author_dates": "1735\u20131826",
+   "title": "The Works of John Adams",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "franklin-the-works-of-benjamin-franklin-in-12-vols",
+   "author": "Benjamin Franklin",
+   "author_dates": "1706\u20131790",
+   "title": "The Works of Benjamin Franklin",
+   "era": "Enlightenment",
+   "genre": "History"
+  },
+  {
+   "slug": "washington-george-washington-a-collection",
+   "author": "George Washington",
+   "author_dates": "1732\u20131799",
+   "title": "George Washington: A Collection",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "calhoun-union-and-liberty-the-political-philosophy-of-john-c-calhoun",
+   "author": "John C. Calhoun",
+   "author_dates": "1782\u20131850",
+   "title": "Union and Liberty: The Political Philosophy of John C. Calhoun",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "althusius-politica",
+   "author": "Johannes Althusius",
+   "author_dates": "1563\u20131638",
+   "title": "Politica",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "vattel-le-droit-des-gens-ou-principes-de-la-loi-naturelle-2-vols",
+   "author": "Emer de Vattel",
+   "author_dates": "1714\u20131767",
+   "title": "Le droit des gens, ou Principes de la loi naturelle",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "sharswood-commentaries-on-the-laws-of-england-in-four-books-2-vols",
+   "author": "Sir William Blackstone",
+   "author_dates": "1723\u20131780",
+   "title": "Commentaries on the Laws of England",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "shepherd-selected-writings-of-sir-edward-coke-3-vols",
+   "author": "Sir Edward Coke",
+   "author_dates": "1552\u20131634",
+   "title": "Selected Writings of Sir Edward Coke",
+   "era": "Renaissance",
+   "genre": "Law"
+  },
+  {
+   "slug": "pollock-the-genius-of-the-common-law",
+   "author": "Sir Frederick Pollock",
+   "author_dates": "1845\u20131937",
+   "title": "The Genius of the Common Law",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "pollock-the-law-of-torts-4th-ed",
+   "author": "Sir Frederick Pollock",
+   "author_dates": "1845\u20131937",
+   "title": "The Law of Torts",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "maitland-the-history-of-english-law-before-the-time-of-edward-i-2-vols",
+   "author": "Sir Frederick Pollock and Frederic William Maitland",
+   "author_dates": "1845\u20131937 / 1850\u20131906",
+   "title": "The History of English Law before the Time of Edward I",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "fisher-the-collected-papers-of-frederic-william-maitland-3-vols",
+   "author": "Frederic William Maitland",
+   "author_dates": "1850\u20131906",
+   "title": "The Collected Papers of Frederic William Maitland",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "maitland-political-theories-of-the-middle-ages-1881-1900",
+   "author": "Otto von Gierke",
+   "author_dates": "1841\u20131921",
+   "title": "Political Theories of the Middle Age",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "dicey-introduction-to-the-study-of-the-law-of-the-constitution-5th-ed",
+   "author": "A. V. Dicey",
+   "author_dates": "1835\u20131922",
+   "title": "Introduction to the Study of the Law of the Constitution",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "dicey-lectures-on-the-relation-between-law-and-pubic-opinion-2nd-ed-1919",
+   "author": "A. V. Dicey",
+   "author_dates": "1835\u20131922",
+   "title": "Lectures on the Relation between Law and Public Opinion in England",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "stephen-liberty-equality-fraternity-1874-ed",
+   "author": "James Fitzjames Stephen",
+   "author_dates": "1829\u20131894",
+   "title": "Liberty, Equality, Fraternity",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "sumner-what-social-classes-owe-to-each-other",
+   "author": "William Graham Sumner",
+   "author_dates": "1840\u20131910",
+   "title": "What Social Classes Owe to Each Other",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "keller-the-forgotten-man-and-other-essays-corrected-edition",
+   "author": "William Graham Sumner",
+   "author_dates": "1840\u20131910",
+   "title": "The Forgotten Man and Other Essays",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "sumner-protectionism-the-ism-which-teaches-that-waste-makes-wealth",
+   "author": "William Graham Sumner",
+   "author_dates": "1840\u20131910",
+   "title": "Protectionism: The -ism Which Teaches That Waste Makes Wealth",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "sumner-a-history-of-american-currency",
+   "author": "William Graham Sumner",
+   "author_dates": "1840\u20131910",
+   "title": "A History of American Currency",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "keller-war-and-other-essays",
+   "author": "William Graham Sumner",
+   "author_dates": "1840\u20131910",
+   "title": "War and Other Essays",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "earth-hunger-and-other-essays-1913",
+   "author": "William Graham Sumner",
+   "author_dates": "1840\u20131910",
+   "title": "Earth-Hunger and Other Essays",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "george-progress-and-poverty",
+   "author": "Henry George",
+   "author_dates": "1839\u20131897",
+   "title": "Progress and Poverty",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "george-protection-or-free-trade",
+   "author": "Henry George",
+   "author_dates": "1839\u20131897",
+   "title": "Protection or Free Trade",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "clark-the-distribution-of-wealth-a-theory-of-wages-interest-and-profits",
+   "author": "John Bates Clark",
+   "author_dates": "1847\u20131938",
+   "title": "The Distribution of Wealth",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "marshall-principles-of-economics-8th-ed",
+   "author": "Alfred Marshall",
+   "author_dates": "1842\u20131924",
+   "title": "Principles of Economics",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "wicksteed-the-commonsense-of-political-economy",
+   "author": "Philip H. Wicksteed",
+   "author_dates": "1844\u20131927",
+   "title": "The Common Sense of Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "fisher-the-theory-of-interest",
+   "author": "Irving Fisher",
+   "author_dates": "1867\u20131947",
+   "title": "The Theory of Interest",
+   "era": "20th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "brown-the-purchasing-power-of-money",
+   "author": "Irving Fisher",
+   "author_dates": "1867\u20131947",
+   "title": "The Purchasing Power of Money",
+   "era": "20th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "knight-risk-uncertainty-and-profit",
+   "author": "Frank H. Knight",
+   "author_dates": "1885\u20131972",
+   "title": "Risk, Uncertainty and Profit",
+   "era": "20th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "veblen-the-theory-of-the-leisure-class-an-economic-study-of-institutions",
+   "author": "Thorstein Veblen",
+   "author_dates": "1857\u20131929",
+   "title": "The Theory of the Leisure Class",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "pigou-the-economics-of-welfare",
+   "author": "Arthur Cecil Pigou",
+   "author_dates": "1877\u20131959",
+   "title": "The Economics of Welfare",
+   "era": "20th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "keynes-the-economic-consequences-of-the-peace",
+   "author": "John Maynard Keynes",
+   "author_dates": "1883\u20131946",
+   "title": "The Economic Consequences of the Peace",
+   "era": "20th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "hobson-imperialism-a-study",
+   "author": "John A. Hobson",
+   "author_dates": "1858\u20131940",
+   "title": "Imperialism: A Study",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "oppenheimer-the-state",
+   "author": "Franz Oppenheimer",
+   "author_dates": "1864\u20131943",
+   "title": "The State",
+   "era": "20th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "smiles-self-help-with-illustrations-of-character-and-conduct",
+   "author": "Samuel Smiles",
+   "author_dates": "1812\u20131904",
+   "title": "Self-Help",
+   "era": "19th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "smith-liberty-and-liberalism-1888",
+   "author": "Bruce Smith",
+   "author_dates": "1851\u20131937",
+   "title": "Liberty and Liberalism",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "herbert-the-right-and-wrong-of-compulsion-by-the-state-and-other-essays-1978-ed",
+   "author": "Auberon Herbert",
+   "author_dates": "1838\u20131906",
+   "title": "The Right and Wrong of Compulsion by the State, and Other Essays",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "herbert-the-voluntaryist-creed-and-a-plea-for-voluntaryism",
+   "author": "Auberon Herbert",
+   "author_dates": "1838\u20131906",
+   "title": "The Voluntaryist Creed and A Plea for Voluntaryism",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "mackay-a-plea-for-liberty-an-argument-against-socialism-and-socialistic-legislation-lf-ed",
+   "author": "Thomas Mackay",
+   "author_dates": "1849\u20131912",
+   "title": "A Plea for Liberty: An Argument against Socialism and Socialistic Legislation",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "donisthorpe-individualism-a-system-of-politics",
+   "author": "Wordsworth Donisthorpe",
+   "author_dates": "1847\u20131914",
+   "title": "Individualism: A System of Politics",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "donisthorpe-law-in-a-free-state",
+   "author": "Wordsworth Donisthorpe",
+   "author_dates": "1847\u20131914",
+   "title": "Law in a Free State",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "levy-taxation-and-anarchism-a-discussion-between-the-hon-auberon-herbert-and-j-h-levy",
+   "author": "Auberon Herbert and J. H. Levy",
+   "author_dates": "1838\u20131906 / 1838\u20131913",
+   "title": "Taxation and Anarchism",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "darwin-the-origin-of-species-2-vols",
+   "author": "Charles Darwin",
+   "author_dates": "1809\u20131882",
+   "title": "On the Origin of Species",
+   "era": "19th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "robertson-the-natural-history-of-religion",
+   "author": "David Hume",
+   "author_dates": "1711\u20131776",
+   "title": "The Natural History of Religion",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "constant-the-liberty-of-ancients-compared-with-that-of-moderns-1819",
+   "author": "Benjamin Constant",
+   "author_dates": "1767\u20131830",
+   "title": "The Liberty of the Ancients Compared with that of the Moderns",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "constant-principles-of-politics-applicable-to-all-governments",
+   "author": "Benjamin Constant",
+   "author_dates": "1767\u20131830",
+   "title": "Principles of Politics Applicable to All Governments",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "on-religion-considered-in-its-source-its-forms-and-its-developments",
+   "author": "Benjamin Constant",
+   "author_dates": "1767\u20131830",
+   "title": "On Religion Considered in Its Source, Its Forms, and Its Developments",
+   "era": "19th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "guizot-the-history-of-the-origins-of-representative-government-in-europe",
+   "author": "Fran\u00e7ois Guizot",
+   "author_dates": "1787\u20131874",
+   "title": "The History of the Origins of Representative Government in Europe",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "humboldt-ideen-zu-einem-versuch-die-granzen-der-wirksamkeit-des-staates-zu-bestimmen",
+   "author": "Wilhelm von Humboldt",
+   "author_dates": "1767\u20131835",
+   "title": "Ideen zu einem Versuch, die Grenzen der Wirksamkeit des Staats zu bestimmen",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "coulthard-the-sphere-and-duties-of-government-1792-1854",
+   "author": "Wilhelm von Humboldt",
+   "author_dates": "1767\u20131835",
+   "title": "The Sphere and Duties of Government",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "rousseau-emile-or-education",
+   "author": "Jean-Jacques Rousseau",
+   "author_dates": "1712\u20131778",
+   "title": "Emile, or On Education",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "vaughan-the-political-writings-of-jean-jacques-rousseau-2-vols",
+   "author": "Jean-Jacques Rousseau",
+   "author_dates": "1712\u20131778",
+   "title": "The Political Writings of Jean-Jacques Rousseau",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "cole-the-social-contract-and-discourses",
+   "author": "Jean-Jacques Rousseau",
+   "author_dates": "1712\u20131778",
+   "title": "The Social Contract and Discourses",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "voltaire-an-essay-on-crimes-and-punishments",
+   "author": "Cesare Beccaria",
+   "author_dates": "1738\u20131794",
+   "title": "An Essay on Crimes and Punishments",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "fleming-the-works-of-voltaire-a-contemporary-version-in-21-vols",
+   "author": "Voltaire",
+   "author_dates": "1694\u20131778",
+   "title": "The Works of Voltaire",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics",
+   "author": "Immanuel Kant",
+   "author_dates": "1724\u20131804",
+   "title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "hastie-kant-s-principles-of-politics-including-his-essay-on-perpetual-peace",
+   "author": "Immanuel Kant",
+   "author_dates": "1724\u20131804",
+   "title": "Kant's Principles of Politics, including his Essay on Perpetual Peace",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "bernard-the-critique-of-judgement",
+   "author": "Immanuel Kant",
+   "author_dates": "1724\u20131804",
+   "title": "The Critique of Judgement",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "bacon-novum-organum",
+   "author": "Francis Bacon",
+   "author_dates": "1561\u20131626",
+   "title": "Novum Organum",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "bacon-the-advancement-of-learning",
+   "author": "Francis Bacon",
+   "author_dates": "1561\u20131626",
+   "title": "The Advancement of Learning",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "shaftesbury-characteristicks-of-men-manners-opinions-times-3-vols",
+   "author": "Anthony Ashley Cooper, 3rd Earl of Shaftesbury",
+   "author_dates": "1671\u20131713",
+   "title": "Characteristicks of Men, Manners, Opinions, Times",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "paley-the-principles-of-moral-and-political-philosophy",
+   "author": "William Paley",
+   "author_dates": "1743\u20131805",
+   "title": "The Principles of Moral and Political Philosophy",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "price-observations-on-the-nature-of-civil-liberty",
+   "author": "Richard Price",
+   "author_dates": "1723\u20131791",
+   "title": "Observations on the Nature of Civil Liberty",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "priestley-an-essay-on-the-first-principles-of-government",
+   "author": "Joseph Priestley",
+   "author_dates": "1733\u20131804",
+   "title": "An Essay on the First Principles of Government",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "molyneux-the-case-of-ireland-being-bound-by-acts-of-parliament-in-england-stated",
+   "author": "William Molyneux",
+   "author_dates": "1656\u20131698",
+   "title": "The Case of Ireland's Being Bound by Acts of Parliament in England, Stated",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "toland-the-oceana-and-other-works",
+   "author": "James Harrington",
+   "author_dates": "1611\u20131677",
+   "title": "The Oceana and Other Works",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "court-the-true-interest-and-political-maxims-of-the-republic-of-holland",
+   "author": "Pieter de la Court",
+   "author_dates": "1618\u20131685",
+   "title": "The True Interest and Political Maxims of the Republic of Holland",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "cust-the-tudor-translations-machiavelli",
+   "author": "Niccol\u00f2 Machiavelli",
+   "author_dates": "1469\u20131527",
+   "title": "The Discourses and Other Works (Tudor Translations)",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "machiavelli-the-art-of-war-neville-trans",
+   "author": "Niccol\u00f2 Machiavelli",
+   "author_dates": "1469\u20131527",
+   "title": "The Art of War",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "detmold-the-historical-political-and-diplomatic-writings-4-vols",
+   "author": "Niccol\u00f2 Machiavelli",
+   "author_dates": "1469\u20131527",
+   "title": "The Historical, Political, and Diplomatic Writings",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "montaigne-essays-of-montaigne-in-10-vols",
+   "author": "Michel de Montaigne",
+   "author_dates": "1533\u20131592",
+   "title": "Essays of Montaigne",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "paul-the-thoughts-of-blaise-pascal",
+   "author": "Blaise Pascal",
+   "author_dates": "1623\u20131662",
+   "title": "The Thoughts (Pens\u00e9es) of Blaise Pascal",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "descartes-the-method-meditations-and-philosophy-of-descartes",
+   "author": "Ren\u00e9 Descartes",
+   "author_dates": "1596\u20131650",
+   "title": "The Method, Meditations, and Philosophy of Descartes",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "spinoza-the-chief-works-of-benedict-de-spinoza-2-vols",
+   "author": "Baruch Spinoza",
+   "author_dates": "1632\u20131677",
+   "title": "The Chief Works of Benedict de Spinoza",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "galilei-dialogues-concerning-two-new-sciences",
+   "author": "Galileo Galilei",
+   "author_dates": "1564\u20131642",
+   "title": "Dialogues Concerning Two New Sciences",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "newton-principia-mathematica-latin-ed",
+   "author": "Isaac Newton",
+   "author_dates": "1643\u20131727",
+   "title": "Philosophiae Naturalis Principia Mathematica",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "jebb-areopagitica-1644-jebb-ed",
+   "author": "John Milton",
+   "author_dates": "1608\u20131674",
+   "title": "Areopagitica",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "griswold-the-prose-works-of-john-milton-2-vols",
+   "author": "John Milton",
+   "author_dates": "1608\u20131674",
+   "title": "The Prose Works of John Milton",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "keble-the-works-of-that-learned-and-judicious-divine-mr-richard-hooker",
+   "author": "Richard Hooker",
+   "author_dates": "1554\u20131600",
+   "title": "The Works of Richard Hooker (Of the Laws of Ecclesiastical Polity)",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "calvin-the-institutes-of-the-christian-religion",
+   "author": "John Calvin",
+   "author_dates": "1509\u20131564",
+   "title": "The Institutes of the Christian Religion",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "luther-first-principles-of-the-reformation-1883",
+   "author": "Martin Luther",
+   "author_dates": "1483\u20131546",
+   "title": "First Principles of the Reformation",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "zwingli-selected-works-of-huldrich-zwingli",
+   "author": "Huldrych Zwingli",
+   "author_dates": "1484\u20131531",
+   "title": "Selected Works of Huldrich Zwingli",
+   "era": "Renaissance",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "province-the-summa-theologica-of-st-thomas-aquinas-part-i-10-vols",
+   "author": "Thomas Aquinas",
+   "author_dates": "1225\u20131274",
+   "title": "The Summa Theologica",
+   "era": "Medieval",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "j-aquinas-ethicus-or-the-moral-teaching-of-st-thomas-2-vols",
+   "author": "Thomas Aquinas",
+   "author_dates": "1225\u20131274",
+   "title": "Aquinas Ethicus: The Moral Teaching of St. Thomas",
+   "era": "Medieval",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "reinhardt-de-monarchia",
+   "author": "Dante Alighieri",
+   "author_dates": "1265\u20131321",
+   "title": "De Monarchia",
+   "era": "Medieval",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "on-temporal-and-spiritual-authority",
+   "author": "Robert Bellarmine",
+   "author_dates": "1542\u20131621",
+   "title": "On Temporal and Spiritual Authority",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "friedlaender-a-guide-for-the-perplexed",
+   "author": "Moses Maimonides",
+   "author_dates": "1138\u20131204",
+   "title": "The Guide for the Perplexed",
+   "era": "Medieval",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "rushd-the-philosophy-and-theology-of-averroes",
+   "author": "Averroes (Ibn Rushd)",
+   "author_dates": "1126\u20131198",
+   "title": "The Philosophy and Theology of Averroes",
+   "era": "Medieval",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo",
+   "author": "Anselm of Canterbury",
+   "author_dates": "1033\u20131109",
+   "title": "Proslogium; Monologium; and Cur Deus Homo",
+   "era": "Medieval",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "bayle-a-philosophical-commentary-on-these-words-of-the-gospel",
+   "author": "Pierre Bayle",
+   "author_dates": "1647\u20131706",
+   "title": "A Philosophical Commentary on the Words of the Gospel 'Compel Them to Come In'",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "sandoz-political-sermons-of-the-american-founding-era-1730-1805-2-vols",
+   "author": "Various",
+   "author_dates": "fl. 1730\u20131805",
+   "title": "Political Sermons of the American Founding Era, 1730\u20131805",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "lutz-colonial-origins-of-the-american-constitution-a-documentary-history",
+   "author": "Various",
+   "author_dates": "fl. 1620\u20131789",
+   "title": "Colonial Origins of the American Constitution: A Documentary History",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "farrand-the-records-of-the-federal-convention-of-1787-3vols",
+   "author": "Max Farrand (ed.)",
+   "author_dates": "1869\u20131945",
+   "title": "The Records of the Federal Convention of 1787",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "elliot-the-debates-in-the-several-state-conventions-5-vols",
+   "author": "Jonathan Elliot (ed.)",
+   "author_dates": "1784\u20131846",
+   "title": "The Debates in the Several State Conventions on the Adoption of the Federal Constitution",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "thorpe-the-federal-and-state-constitutions-7-vols",
+   "author": "Francis Newton Thorpe (ed.)",
+   "author_dates": "1857\u20131926",
+   "title": "The Federal and State Constitutions",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "otis-rights-of-the-british-colonies",
+   "author": "James Otis",
+   "author_dates": "1725\u20131783",
+   "title": "The Rights of the British Colonies Asserted and Proved",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "lee-empire-and-nation-letters-from-a-farmer",
+   "author": "John Dickinson and Richard Henry Lee",
+   "author_dates": "1732\u20131808 / 1732\u20131794",
+   "title": "Empire and Nation: Letters from a Farmer in Pennsylvania",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "leggett-democratick-editorials-essays-in-jacksonian-political-economy",
+   "author": "William Leggett",
+   "author_dates": "1801\u20131839",
+   "title": "Democratick Editorials: Essays in Jacksonian Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "taylor-tyranny-unmasked",
+   "author": "John Taylor of Caroline",
+   "author_dates": "1753\u20131824",
+   "title": "Tyranny Unmasked",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "taylor-an-inquiry-into-the-principles-and-policy-of-the-government-of-the-united-states",
+   "author": "John Taylor of Caroline",
+   "author_dates": "1753\u20131824",
+   "title": "An Inquiry into the Principles and Policy of the Government of the United States",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "tucker-view-of-the-constitution-of-the-united-states-with-selected-writings",
+   "author": "St. George Tucker",
+   "author_dates": "1752\u20131827",
+   "title": "View of the Constitution of the United States, with Selected Writings",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "woolsey-on-civil-liberty-and-self-government",
+   "author": "Theodore Dwight Woolsey",
+   "author_dates": "1801\u20131889",
+   "title": "On Civil Liberty and Self-Government",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "tiedeman-a-treatise-on-state-and-federal-control-of-persons-and-property-in-the-united-states-2-vols",
+   "author": "Christopher Gustavus Tiedeman",
+   "author_dates": "1857\u20131903",
+   "title": "A Treatise on State and Federal Control of Persons and Property in the United States",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "clarkson-an-essay-on-the-slavery-and-commerce-of-the-human-species",
+   "author": "Thomas Clarkson",
+   "author_dates": "1760\u20131846",
+   "title": "An Essay on the Slavery and Commerce of the Human Species",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "clarkson-the-history-of-the-abolition-of-the-african-slave-trade-2-vols",
+   "author": "Thomas Clarkson",
+   "author_dates": "1760\u20131846",
+   "title": "The History of the Abolition of the African Slave Trade",
+   "era": "Enlightenment",
+   "genre": "History"
+  },
+  {
+   "slug": "lobb-the-life-and-times-of-frederick-douglass-from-1817-1882",
+   "author": "Frederick Douglass",
+   "author_dates": "1818\u20131895",
+   "title": "The Life and Times of Frederick Douglass",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "anti-slavery-tracts-first-series-nos-1-20-1855-56",
+   "author": "American Anti-Slavery Society",
+   "author_dates": "fl. 1833\u20131870",
+   "title": "Anti-Slavery Tracts, First Series",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "chapman-harriet-martineau-s-autobiography-2-vols",
+   "author": "Harriet Martineau",
+   "author_dates": "1802\u20131876",
+   "title": "Harriet Martineau's Autobiography",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "martineau-illustrations-of-political-economy-9-vols",
+   "author": "Harriet Martineau",
+   "author_dates": "1802\u20131876",
+   "title": "Illustrations of Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "marcet-conversations-on-political-economy",
+   "author": "Jane Marcet",
+   "author_dates": "1769\u20131858",
+   "title": "Conversations on Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "whately-introductory-lectures-on-political-economy",
+   "author": "Richard Whately",
+   "author_dates": "1787\u20131863",
+   "title": "Introductory Lectures on Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "cairnes-the-character-and-logical-method-of-political-economy",
+   "author": "John Elliott Cairnes",
+   "author_dates": "1823\u20131875",
+   "title": "The Character and Logical Method of Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "longfield-lectures-on-political-economy",
+   "author": "Mountifort Longfield",
+   "author_dates": "1802\u20131884",
+   "title": "Lectures on Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "sismondi-political-economy-and-the-philosophy-of-government",
+   "author": "J. C. L. Simonde de Sismondi",
+   "author_dates": "1773\u20131842",
+   "title": "Political Economy and the Philosophy of Government",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "hull-the-economic-writings-of-sir-william-petty-2-vols",
+   "author": "Sir William Petty",
+   "author_dates": "1623\u20131687",
+   "title": "The Economic Writings of Sir William Petty",
+   "era": "Renaissance",
+   "genre": "Economics"
+  },
+  {
+   "slug": "higgs-essay-on-the-nature-of-trade-in-general-higgs-ed",
+   "author": "Richard Cantillon",
+   "author_dates": "1680s\u20131734",
+   "title": "Essay on the Nature of Trade in General",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "higgs-the-physiocrats-six-lectures-on-the-french-economistes-of-the-18th-century",
+   "author": "Henry Higgs",
+   "author_dates": "1864\u20131940",
+   "title": "The Physiocrats",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "barbon-a-discourse-of-trade",
+   "author": "Nicholas Barbon",
+   "author_dates": "1640\u20131698",
+   "title": "A Discourse of Trade",
+   "era": "Renaissance",
+   "genre": "Economics"
+  },
+  {
+   "slug": "hollander-discourses-upon-trade",
+   "author": "Sir Dudley North",
+   "author_dates": "1641\u20131691",
+   "title": "Discourses upon Trade",
+   "era": "Renaissance",
+   "genre": "Economics"
+  },
+  {
+   "slug": "north-a-select-collection-of-early-english-tracts-on-commerce-1856",
+   "author": "John Ramsay McCulloch (ed.)",
+   "author_dates": "1789\u20131864",
+   "title": "A Select Collection of Early English Tracts on Commerce",
+   "era": "Renaissance",
+   "genre": "Economics"
+  },
+  {
+   "slug": "raper-a-select-collection-of-scarce-and-valuable-tracts-on-money",
+   "author": "John Ramsay McCulloch (ed.)",
+   "author_dates": "1789\u20131864",
+   "title": "A Select Collection of Scarce and Valuable Tracts on Money",
+   "era": "Renaissance",
+   "genre": "Economics"
+  },
+  {
+   "slug": "clark-commerce-culture-and-liberty-readings-on-capitalism-before-adam-smith",
+   "author": "Various",
+   "author_dates": "fl. 1660\u20131776",
+   "title": "Commerce, Culture, and Liberty: Readings on Capitalism before Adam Smith",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "early-economic-thought-in-spain-1177-1740",
+   "author": "Various (School of Salamanca)",
+   "author_dates": "fl. 1177\u20131740",
+   "title": "Early Economic Thought in Spain, 1177\u20131740",
+   "era": "Renaissance",
+   "genre": "Economics"
+  },
+  {
+   "slug": "tracy-a-treatise-on-political-economy",
+   "author": "Antoine Louis Claude Destutt de Tracy",
+   "author_dates": "1754\u20131836",
+   "title": "A Treatise on Political Economy",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws",
+   "author": "Antoine Louis Claude Destutt de Tracy",
+   "author_dates": "1754\u20131836",
+   "title": "A Commentary and Review of Montesquieu's Spirit of Laws",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "raguet-the-principles-of-free-trade",
+   "author": "Condy Raguet",
+   "author_dates": "1784\u20131842",
+   "title": "The Principles of Free Trade",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "newcomb-the-a-b-c-of-finance",
+   "author": "Simon Newcomb",
+   "author_dates": "1835\u20131909",
+   "title": "The A B C of Finance",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "laughlin-the-history-of-bimetallism-in-the-united-states-1898",
+   "author": "J. Laurence Laughlin",
+   "author_dates": "1850\u20131933",
+   "title": "The History of Bimetallism in the United States",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "white-the-theory-of-free-banking-money-supply-under-competitive-note-issue",
+   "author": "Charles Holt Carroll",
+   "author_dates": "1799\u20131890",
+   "title": "The Theory of Free Banking",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "walker-political-economy",
+   "author": "Francis Amasa Walker",
+   "author_dates": "1840\u20131897",
+   "title": "Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "walker-the-wages-question-a-treatise-on-wages-and-the-wages-class",
+   "author": "Francis Amasa Walker",
+   "author_dates": "1840\u20131897",
+   "title": "The Wages Question",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "taussig-tariff",
+   "author": "Frank William Taussig",
+   "author_dates": "1859\u20131940",
+   "title": "The Tariff History of the United States",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "hamilton-the-comedy-of-protection-1906",
+   "author": "George Hamilton",
+   "author_dates": "1845\u20131909",
+   "title": "The Comedy of Protection",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "yeager-free-trade-americas-opportunity",
+   "author": "Various",
+   "author_dates": "fl. 19th\u201320th c.",
+   "title": "Free Trade: America's Opportunity",
+   "era": "20th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "hirst-free-trade-and-other-fundamental-doctrines-of-the-manchester-school",
+   "author": "Francis Wrigley Hirst",
+   "author_dates": "1873\u20131953",
+   "title": "Free Trade and Other Fundamental Doctrines of the Manchester School",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "wolowski-cyclopaedia-of-political-science-political-economy-3-vols",
+   "author": "John Joseph Lalor (ed.)",
+   "author_dates": "1840\u20131899",
+   "title": "Cyclopaedia of Political Science, Political Economy, and of the Political History of the United States",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "henderson-the-fortune-encyclopedia-of-economics",
+   "author": "Various",
+   "author_dates": "fl. 20th c.",
+   "title": "The Fortune Encyclopedia of Economics",
+   "era": "20th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "chadwick-poor-law-commissioners-report-of-1834",
+   "author": "Edwin Chadwick and Nassau William Senior",
+   "author_dates": "1800\u20131890 / 1790\u20131864",
+   "title": "Poor Law Commissioners' Report of 1834",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "young-arthur-youngs-travels-in-france-during-the-years-1787-1788-1789",
+   "author": "Arthur Young",
+   "author_dates": "1741\u20131820",
+   "title": "Travels in France during the Years 1787, 1788, 1789",
+   "era": "Enlightenment",
+   "genre": "History"
+  },
+  {
+   "slug": "garrett-the-origin-of-the-distinction-of-ranks",
+   "author": "John Millar",
+   "author_dates": "1735\u20131801",
+   "title": "The Origin of the Distinction of Ranks",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "phillips-an-historical-view-of-the-english-government",
+   "author": "John Millar",
+   "author_dates": "1735\u20131801",
+   "title": "An Historical View of the English Government",
+   "era": "Enlightenment",
+   "genre": "History"
+  },
+  {
+   "slug": "carmichael-the-writings-of-gershom-carmichael",
+   "author": "Gershom Carmichael",
+   "author_dates": "1672\u20131729",
+   "title": "The Writings of Gershom Carmichael",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "johnston-selections-from-the-scottish-philosophy-of-common-sense",
+   "author": "Thomas Reid and others",
+   "author_dates": "1710\u20131796",
+   "title": "Selections from the Scottish Philosophy of Common Sense",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "kames-principles-of-equity",
+   "author": "Henry Home, Lord Kames",
+   "author_dates": "1696\u20131782",
+   "title": "Principles of Equity",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "historical-law-tracts",
+   "author": "Henry Home, Lord Kames",
+   "author_dates": "1696\u20131782",
+   "title": "Historical Law-Tracts",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "harris-sketches-of-the-history-of-man-3-vols",
+   "author": "Henry Home, Lord Kames",
+   "author_dates": "1696\u20131782",
+   "title": "Sketches of the History of Man",
+   "era": "Enlightenment",
+   "genre": "History"
+  },
+  {
+   "slug": "the-works-of-william-robertson-in-eight-volumes-1840",
+   "author": "William Robertson",
+   "author_dates": "1721\u20131793",
+   "title": "The Works of William Robertson",
+   "era": "Enlightenment",
+   "genre": "History"
+  },
+  {
+   "slug": "knight-general-history-of-civilization-in-europe",
+   "author": "Fran\u00e7ois Guizot",
+   "author_dates": "1787\u20131874",
+   "title": "General History of Civilization in Europe",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "thierry-the-historical-essays-and-narratives-of-the-merovingian-era",
+   "author": "Augustin Thierry",
+   "author_dates": "1795\u20131856",
+   "title": "Historical Essays and Narratives of the Merovingian Era",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "hazlitt-history-of-the-conquest-of-england-by-the-normans-2-vols",
+   "author": "Augustin Thierry",
+   "author_dates": "1795\u20131856",
+   "title": "History of the Conquest of England by the Normans",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "the-origins-of-contemporary-france",
+   "author": "Hippolyte Taine",
+   "author_dates": "1828\u20131893",
+   "title": "The Origins of Contemporary France",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "macaulay-critical-and-historical-essays-contributed-to-the-edinburgh-review-3-vols",
+   "author": "Thomas Babington Macaulay",
+   "author_dates": "1800\u20131859",
+   "title": "Critical and Historical Essays Contributed to the Edinburgh Review",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "macaulay-the-miscellaneous-writings-of-lord-macaulay-in-2-vols",
+   "author": "Thomas Babington Macaulay",
+   "author_dates": "1800\u20131859",
+   "title": "The Miscellaneous Writings of Lord Macaulay",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "todd-the-history-of-england-6-vols",
+   "author": "David Hume",
+   "author_dates": "1711\u20131776",
+   "title": "The History of England",
+   "era": "Enlightenment",
+   "genre": "History"
+  },
+  {
+   "slug": "mill-the-history-of-british-india-6-vols-1826",
+   "author": "James Mill",
+   "author_dates": "1773\u20131836",
+   "title": "The History of British India",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "hart-the-political-writings-of-james-mill-1815-1836",
+   "author": "James Mill",
+   "author_dates": "1773\u20131836",
+   "title": "The Political Writings of James Mill",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "mill-elements-of-political-economy-3rd-ed-1844",
+   "author": "James Mill",
+   "author_dates": "1773\u20131836",
+   "title": "Elements of Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "mill-commerce-defended-1808",
+   "author": "James Mill",
+   "author_dates": "1773\u20131836",
+   "title": "Commerce Defended",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "livy-the-history-of-rome-by-titus-livius-in-6-vols",
+   "author": "Livy (Titus Livius)",
+   "author_dates": "59 BC\u2013AD 17",
+   "title": "The History of Rome (Spillan & Edmonds trans.)",
+   "era": "Classical",
+   "genre": "History"
+  },
+  {
+   "slug": "melmoth-letters-of-marcus-tullius-cicero",
+   "author": "Cicero (Marcus Tullius Cicero)",
+   "author_dates": "106\u201343 BC",
+   "title": "Letters of Marcus Tullius Cicero",
+   "era": "Classical",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "emerson-plutarch-s-morals-5-vols",
+   "author": "Plutarch",
+   "author_dates": "AD 46\u2013119",
+   "title": "Plutarch's Morals",
+   "era": "Classical",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "plutarch-plutarchs-lives-englished-by-sir-thomas-north-in-ten-volumes",
+   "author": "Plutarch",
+   "author_dates": "AD 46\u2013119",
+   "title": "Plutarch's Lives (North trans.)",
+   "era": "Classical",
+   "genre": "History"
+  },
+  {
+   "slug": "silverthorne-the-meditations-of-the-emperor-marcus-aurelius-antoninus-2008",
+   "author": "Marcus Aurelius",
+   "author_dates": "AD 121\u2013180",
+   "title": "The Meditations of the Emperor Marcus Aurelius Antoninus",
+   "era": "Classical",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books",
+   "author": "Epictetus",
+   "author_dates": "AD 50\u2013135",
+   "title": "The Works of Epictetus",
+   "era": "Classical",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "gaius-institutes-of-roman-law",
+   "author": "Gaius",
+   "author_dates": "AD 130\u2013180",
+   "title": "Institutes of Roman Law",
+   "era": "Classical",
+   "genre": "Law"
+  },
+  {
+   "slug": "tacitus-the-works-of-tacitus-4-vols-1737",
+   "author": "Tacitus (Cornelius Tacitus)",
+   "author_dates": "AD 56\u2013120",
+   "title": "The Works of Tacitus",
+   "era": "Classical",
+   "genre": "History"
+  },
+  {
+   "slug": "sedgefield-the-consolation-of-philosophy",
+   "author": "Boethius",
+   "author_dates": "AD 477\u2013524",
+   "title": "The Consolation of Philosophy",
+   "era": "Classical",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops",
+   "author": "The Venerable Bede",
+   "author_dates": "AD 672\u2013735",
+   "title": "The Ecclesiastical History of the English Nation",
+   "era": "Medieval",
+   "genre": "History"
+  },
+  {
+   "slug": "plucknett-a-concise-history-of-the-common-law",
+   "author": "Theodore F. T. Plucknett",
+   "author_dates": "1897\u20131965",
+   "title": "A Concise History of the Common Law",
+   "era": "20th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "mckechnie-magna-carta-a-commentary",
+   "author": "William Sharp McKechnie",
+   "author_dates": "1863\u20131930",
+   "title": "Magna Carta: A Commentary on the Great Charter of King John",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "select-essays-in-anglo-american-legal-history-3-vols",
+   "author": "Various",
+   "author_dates": "fl. 19th\u201320th c.",
+   "title": "Select Essays in Anglo-American Legal History",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "schools-select-essays-in-anglo-american-legal-history-3-vols",
+   "author": "Various",
+   "author_dates": "fl. 19th\u201320th c.",
+   "title": "Select Essays in Anglo-American Legal History",
+   "era": "19th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "pound-an-introduction-to-the-philosophy-of-law",
+   "author": "Roscoe Pound",
+   "author_dates": "1870\u20131964",
+   "title": "An Introduction to the Philosophy of Law",
+   "era": "20th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "frohnen-the-american-republic-primary-sources",
+   "author": "Various",
+   "author_dates": "fl. 1607\u20131789",
+   "title": "The American Republic: Primary Sources",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "frohnen-the-american-nation-primary-sources",
+   "author": "Various",
+   "author_dates": "fl. 1789\u20131865",
+   "title": "The American Nation: Primary Sources",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "l-considerations-sur-les-principaux-evenemens-de-la-revolution-francaise-3-vols",
+   "author": "Germaine de Sta\u00ebl",
+   "author_dates": "1766\u20131817",
+   "title": "Consid\u00e9rations sur les principaux \u00e9v\u00e9nements de la R\u00e9volution fran\u00e7aise",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "craiutu-considerations-on-the-principal-events-of-the-french-revolution-lf-ed",
+   "author": "Germaine de Sta\u00ebl",
+   "author_dates": "1766\u20131817",
+   "title": "Considerations on the Principal Events of the French Revolution",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "wollstonecraft-an-historical-and-moral-view-of-the-origin-and-progress-of-the-french-revolution",
+   "author": "Mary Wollstonecraft",
+   "author_dates": "1759\u20131797",
+   "title": "An Historical and Moral View of the French Revolution",
+   "era": "Enlightenment",
+   "genre": "History"
+  },
+  {
+   "slug": "volney-the-ruins-or-a-survery-of-the-revolutions-of-empires",
+   "author": "Constantin-Fran\u00e7ois Volney",
+   "author_dates": "1757\u20131820",
+   "title": "The Ruins, or a Survey of the Revolutions of Empires",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "mably-remarks-concerning-the-government-and-laws-of-the-united-states-of-america",
+   "author": "Abb\u00e9 de Mably",
+   "author_dates": "1709\u20131785",
+   "title": "Remarks Concerning the Government and Laws of the United States of America",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "encyclopedic-liberty-political-articles-in-the-dictionary-of-diderot-and-d-alembert",
+   "author": "Denis Diderot, Jean le Rond d'Alembert, and others",
+   "author_dates": "1713\u20131784 / 1717\u20131783",
+   "title": "Encyclopedic Liberty: Political Articles in the Dictionary of Diderot and d'Alembert",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "chevalier-society-manners-and-politics-in-the-united-states",
+   "author": "Michel Chevalier",
+   "author_dates": "1806\u20131879",
+   "title": "Society, Manners, and Politics in the United States",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "richter-pictures-of-the-socialistic-future",
+   "author": "Eugen Richter",
+   "author_dates": "1838\u20131906",
+   "title": "Pictures of the Socialistic Future",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "guyot-the-tyranny-of-socialism",
+   "author": "Yves Guyot",
+   "author_dates": "1843\u20131928",
+   "title": "The Tyranny of Socialism",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "guyot-socialistic-fallacies",
+   "author": "Yves Guyot",
+   "author_dates": "1843\u20131928",
+   "title": "Socialistic Fallacies",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "capital-a-critique-of-political-economy-3-vols",
+   "author": "Karl Marx",
+   "author_dates": "1818\u20131883",
+   "title": "Capital: A Critique of Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "karl-marx-and-the-close-of-his-system-a-criticism",
+   "author": "Eugen von B\u00f6hm-Bawerk",
+   "author_dates": "1851\u20131914",
+   "title": "Karl Marx and the Close of His System",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "smart-the-positive-theory-of-capital",
+   "author": "Eugen von B\u00f6hm-Bawerk",
+   "author_dates": "1851\u20131914",
+   "title": "The Positive Theory of Capital",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "smart-capital-and-interest-a-critical-history-of-economic-theory",
+   "author": "Eugen von B\u00f6hm-Bawerk",
+   "author_dates": "1851\u20131914",
+   "title": "Capital and Interest: A Critical History of Economical Theory",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "smart-natural-value",
+   "author": "Friedrich von Wieser",
+   "author_dates": "1851\u20131926",
+   "title": "Natural Value",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "wicksell-the-influence-of-the-rate-of-interest-on-prices",
+   "author": "Knut Wicksell",
+   "author_dates": "1851\u20131926",
+   "title": "The Influence of the Rate of Interest on Prices",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "fetter-capital-interest-and-rent",
+   "author": "Frank A. Fetter",
+   "author_dates": "1863\u20131949",
+   "title": "Capital, Interest, and Rent",
+   "era": "20th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "viner-studies-in-the-theory-of-international-trade",
+   "author": "Jacob Viner",
+   "author_dates": "1892\u20131970",
+   "title": "Studies in the Theory of International Trade",
+   "era": "20th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "westergaard-the-continental-system-an-economic-interpretation",
+   "author": "Eli F. Heckscher",
+   "author_dates": "1879\u20131952",
+   "title": "The Continental System: An Economic Interpretation",
+   "era": "20th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "biddle-a-treatise-on-political-economy",
+   "author": "Jean-Baptiste Say",
+   "author_dates": "1767\u20131832",
+   "title": "A Treatise on Political Economy (Biddle ed.)",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "bastable-public-finance",
+   "author": "Charles Francis Bastable",
+   "author_dates": "1855\u20131945",
+   "title": "Public Finance",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "cannan-the-history-of-local-rates-in-england",
+   "author": "Edwin Cannan",
+   "author_dates": "1861\u20131935",
+   "title": "Wealth: A Brief Explanation of the Causes of Economic Welfare",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "cannan-wealth-a-brief-explanation-of-the-causes-of-economic-wealth",
+   "author": "Edwin Cannan",
+   "author_dates": "1861\u20131935",
+   "title": "Wealth: A Brief Explanation of the Causes of Economic Welfare",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "ely-a-history-of-political-economy",
+   "author": "Richard T. Ely",
+   "author_dates": "1854\u20131943",
+   "title": "A History of Political Economy",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "eltis-commerce-and-government-considered-in-their-mutual-relationship",
+   "author": "\u00c9tienne Bonnot de Condillac",
+   "author_dates": "1714\u20131780",
+   "title": "Commerce and Government Considered in Their Mutual Relationship",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "josiah-tucker-a-selection-from-his-economic-and-political-writings",
+   "author": "Josiah Tucker",
+   "author_dates": "1713\u20131799",
+   "title": "A Selection from His Economic and Political Writings",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "tucker-four-tracts-on-political-and-commercial-subjects",
+   "author": "Josiah Tucker",
+   "author_dates": "1713\u20131799",
+   "title": "Four Tracts on Political and Commercial Subjects",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "oppenheimer-the-state-revised-lf-ed",
+   "author": "Franz Oppenheimer",
+   "author_dates": "1864\u20131943",
+   "title": "The State",
+   "era": "20th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "nisbet-the-present-age",
+   "author": "Robert Nisbet",
+   "author_dates": "1913\u20131996",
+   "title": "The Present Age",
+   "era": "20th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "frisch-the-pacificus-helvidius-debates-of-1793-1794",
+   "author": "Alexander Hamilton and James Madison",
+   "author_dates": "1755\u20131804 / 1751\u20131836",
+   "title": "The Pacificus-Helvidius Debates of 1793\u20131794",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "belz-the-webster-hayne-debate-on-the-nature-of-the-constitution-selected-documents",
+   "author": "Daniel Webster and Robert Hayne",
+   "author_dates": "1782\u20131852 / 1791\u20131839",
+   "title": "The Webster-Hayne Debate on the Nature of the Constitution",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "garrison-collected-works-of-james-wilson-2-vols",
+   "author": "James Wilson",
+   "author_dates": "1742\u20131798",
+   "title": "Collected Works of James Wilson",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "lutz-american-political-writing-during-the-founding-era-1760-1805-2-vols",
+   "author": "Various",
+   "author_dates": "fl. 1760\u20131805",
+   "title": "American Political Writing during the Founding Era, 1760\u20131805",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "mcdowell-friends-of-the-constitution-writings-of-the-other-federalists-1787-1788",
+   "author": "Various",
+   "author_dates": "fl. 1787\u20131788",
+   "title": "Friends of the Constitution: Writings of the 'Other' Federalists",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "mcilwain-constitutionalism-ancient-and-modern",
+   "author": "Charles Howard McIlwain",
+   "author_dates": "1871\u20131968",
+   "title": "Constitutionalism: Ancient and Modern",
+   "era": "20th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "becker-the-declaration-of-independence-a-study-on-the-history-of-political-ideas",
+   "author": "Carl L. Becker",
+   "author_dates": "1873\u20131945",
+   "title": "The Declaration of Independence: A Study in the History of Political Ideas",
+   "era": "20th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "morris-the-diary-and-letters-of-gouverneur-morris-2-vols",
+   "author": "Gouverneur Morris",
+   "author_dates": "1752\u20131816",
+   "title": "The Diary and Letters of Gouverneur Morris",
+   "era": "Enlightenment",
+   "genre": "History"
+  },
+  {
+   "slug": "adams-the-writings-of-albert-gallatin-3-vols",
+   "author": "Albert Gallatin",
+   "author_dates": "1761\u20131849",
+   "title": "The Writings of Albert Gallatin",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "hamilton-fugitive-essays-selected-writings-of-frank-chodorov",
+   "author": "Frank Chodorov",
+   "author_dates": "1887\u20131966",
+   "title": "Fugitive Essays: Selected Writings of Frank Chodorov",
+   "era": "20th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "chamberlin-americas-second-crusade",
+   "author": "William Henry Chamberlin",
+   "author_dates": "1897\u20131969",
+   "title": "America's Second Crusade",
+   "era": "20th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "emerson-the-works-of-ralph-waldo-emerson-in-12-vols-fireside-edition",
+   "author": "Ralph Waldo Emerson",
+   "author_dates": "1803\u20131882",
+   "title": "The Works of Ralph Waldo Emerson",
+   "era": "19th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "gardiner-the-constitutional-documents-of-the-puritan-revolution-1625-1660",
+   "author": "Samuel Rawson Gardiner (ed.)",
+   "author_dates": "1829\u20131902",
+   "title": "The Constitutional Documents of the Puritan Revolution, 1625\u20131660",
+   "era": "Renaissance",
+   "genre": "Law"
+  },
+  {
+   "slug": "firth-the-clarke-papers-selections-from-the-papers-of-william-clarke-4-vols",
+   "author": "William Clarke",
+   "author_dates": "1623\u20131666",
+   "title": "The Clarke Papers",
+   "era": "Renaissance",
+   "genre": "History"
+  },
+  {
+   "slug": "roper-the-crisis-of-the-seventeenth-century",
+   "author": "Hugh Trevor-Roper",
+   "author_dates": "1914\u20132003",
+   "title": "The Crisis of the Seventeenth Century",
+   "era": "20th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "fletcher-selected-discourses-and-speeches",
+   "author": "Andrew Fletcher of Saltoun",
+   "author_dates": "1653\u20131716",
+   "title": "Selected Political Writings and Speeches",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "womersely-excellencie-of-a-free-state",
+   "author": "Marchamont Nedham",
+   "author_dates": "1620\u20131678",
+   "title": "The Excellencie of a Free State",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "the-isle-of-pines-and-plato-redivivus",
+   "author": "Henry Neville",
+   "author_dates": "1620\u20131694",
+   "title": "The Isle of Pines and Plato Redivivus",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "champion-an-account-of-denmark-with-francogallia-and-some-considerations-for-the-promoting-of-agriculture-and-employing-the-poor",
+   "author": "Robert Molesworth",
+   "author_dates": "1656\u20131725",
+   "title": "An Account of Denmark, with Francogallia",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "kurz-the-discourse-of-voluntary-servitude",
+   "author": "\u00c9tienne de La Bo\u00e9tie",
+   "author_dates": "1530\u20131563",
+   "title": "The Discourse of Voluntary Servitude",
+   "era": "Renaissance",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "reflections-on-the-rise-and-fall-of-the-ancient-republicks",
+   "author": "Edward Wortley Montagu",
+   "author_dates": "1713\u20131776",
+   "title": "Reflections on the Rise and Fall of the Ancient Republicks",
+   "era": "Enlightenment",
+   "genre": "History"
+  },
+  {
+   "slug": "in-pursuit-of-happiness-and-good-government",
+   "author": "Charles Murray",
+   "author_dates": "b. 1943",
+   "title": "In Pursuit of Happiness and Good Government",
+   "era": "20th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "liberal-thought-in-argentina-1837-1940",
+   "author": "Various",
+   "author_dates": "fl. 1837\u20131940",
+   "title": "Liberal Thought in Argentina, 1837\u20131940",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "taylor-construction-construed-and-constitutions-vindicated",
+   "author": "John Taylor of Caroline",
+   "author_dates": "1753\u20131824",
+   "title": "Construction Construed and Constitutions Vindicated",
+   "era": "Enlightenment",
+   "genre": "Law"
+  },
+  {
+   "slug": "priestley-letters-to-the-right-honourable-edmund-burke",
+   "author": "Joseph Priestley",
+   "author_dates": "1733\u20131804",
+   "title": "Letters to the Right Honourable Edmund Burke",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "macaulay-observations-on-the-reflections-of-the-rt-hon-edmund-burke-on-the-revolution-france",
+   "author": "Catharine Macaulay",
+   "author_dates": "1731\u20131791",
+   "title": "Observations on the Reflections of Edmund Burke on the Revolution in France",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "winch-vindiciae-gallicae-and-other-writings-on-the-french-revolution",
+   "author": "James Mackintosh",
+   "author_dates": "1765\u20131832",
+   "title": "Vindiciae Gallicae and Other Writings on the French Revolution",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "mackintosh-the-miscellaneous-works",
+   "author": "James Mackintosh",
+   "author_dates": "1765\u20131832",
+   "title": "The Miscellaneous Works of Sir James Mackintosh",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "thompson-revolutionary-writings",
+   "author": "Thomas Spence and others",
+   "author_dates": "1750\u20131814",
+   "title": "Revolutionary Writings",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "thelwall-the-rights-of-nature-against-the-usurpations-of-establishments-1796",
+   "author": "John Thelwall",
+   "author_dates": "1764\u20131834",
+   "title": "The Rights of Nature against the Usurpations of Establishments",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "cobbett-paper-against-gold-and-glory-against-prosperity-1815",
+   "author": "William Cobbett",
+   "author_dates": "1763\u20131835",
+   "title": "Paper Against Gold",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "cobbett-selections-from-cobbetts-political-works-6-vols",
+   "author": "William Cobbett",
+   "author_dates": "1763\u20131835",
+   "title": "Selections from Cobbett's Political Works",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "grote-essentials-of-parliamentary-reform",
+   "author": "George Grote",
+   "author_dates": "1794\u20131871",
+   "title": "Essentials of Parliamentary Reform",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "smith-speeches-on-questions-of-public-policy-2-vols",
+   "author": "Goldwin Smith",
+   "author_dates": "1823\u20131910",
+   "title": "Speeches on Questions of Public Policy",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835",
+   "author": "John Wade",
+   "author_dates": "1788\u20131875",
+   "title": "The Black Book: An Exposition of Abuses in Church and State",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "paulton-the-league-1843-1846",
+   "author": "Abraham Walter Paulton",
+   "author_dates": "1812\u20131876",
+   "title": "The League (Anti-Corn-Law League newspaper)",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "anti-corn-law-league-the-three-prize-essays-on-agriculture-and-the-corn-law",
+   "author": "Anti-Corn-Law League",
+   "author_dates": "fl. 1838\u20131846",
+   "title": "The Three Prize Essays on Agriculture and the Corn Law",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "morley-burke",
+   "author": "John Morley",
+   "author_dates": "1838\u20131923",
+   "title": "Burke",
+   "era": "19th Century",
+   "genre": "History"
+  },
+  {
+   "slug": "passmore-the-perfectibility-of-man",
+   "author": "John Passmore",
+   "author_dates": "1914\u20132004",
+   "title": "The Perfectibility of Man",
+   "era": "20th Century",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "presser-the-ideal-element-in-law",
+   "author": "Roscoe Pound",
+   "author_dates": "1870\u20131964",
+   "title": "The Ideal Element in Law",
+   "era": "20th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "hittinger-the-natural-law-a-study-in-legal-and-social-history-and-philosophy",
+   "author": "Heinrich A. Rommen",
+   "author_dates": "1897\u20131967",
+   "title": "The Natural Law: A Study in Legal and Social History and Philosophy",
+   "era": "20th Century",
+   "genre": "Law"
+  },
+  {
+   "slug": "vile-constitutionalism-and-the-separation-of-powers",
+   "author": "M. J. C. Vile",
+   "author_dates": "1927\u20132018",
+   "title": "Constitutionalism and the Separation of Powers",
+   "era": "20th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "mcclellan-liberty-order-and-justice",
+   "author": "James McClellan",
+   "author_dates": "1937\u20132005",
+   "title": "Liberty, Order, and Justice",
+   "era": "20th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "haskins-a-historical-sketch-of-liberty-and-equality-lf-ed",
+   "author": "Frederick Pollock",
+   "author_dates": "1845\u20131937",
+   "title": "An Introduction to the History of the Science of Politics",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "rolleston-philosophical-view-of-reform-1820",
+   "author": "Percy Bysshe Shelley",
+   "author_dates": "1792\u20131822",
+   "title": "A Philosophical View of Reform",
+   "era": "19th Century",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "on-executive-power-in-great-states",
+   "author": "Jacques Necker",
+   "author_dates": "1732\u20131804",
+   "title": "On Executive Power in Great States",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "writings-on-standing-armies",
+   "author": "John Trenchard and Walter Moyle",
+   "author_dates": "1662\u20131723 / 1672\u20131721",
+   "title": "Writings on Standing Armies",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "gordon-a-discourse-of-standing-armies-1722",
+   "author": "Thomas Gordon",
+   "author_dates": "1691\u20131750",
+   "title": "A Discourse of Standing Armies",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "thomson-the-lives-of-the-twelve-caesars",
+   "author": "Suetonius",
+   "author_dates": "AD 69\u2013122",
+   "title": "The Lives of the Twelve Caesars",
+   "era": "Classical",
+   "genre": "History"
+  },
+  {
+   "slug": "rawlinson-the-history-4-vols",
+   "author": "Herodotus",
+   "author_dates": "c. 484\u2013425 BC",
+   "title": "The History (Rawlinson trans.)",
+   "era": "Classical",
+   "genre": "History"
+  },
+  {
+   "slug": "jowett-the-republic-1888-ed",
+   "author": "Plato",
+   "author_dates": "c. 428\u2013348 BC",
+   "title": "The Republic (Jowett trans.)",
+   "era": "Classical",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "dymes-constitution-of-athens",
+   "author": "Aristotle",
+   "author_dates": "384\u2013322 BC",
+   "title": "The Constitution of Athens",
+   "era": "Classical",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "aristotle-the-politics-2-vols",
+   "author": "Aristotle",
+   "author_dates": "384\u2013322 BC",
+   "title": "The Politics (Bolland ed.)",
+   "era": "Classical",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "smith-the-rationale-of-central-banking-and-the-free-banking-alternative",
+   "author": "Vera C. Smith",
+   "author_dates": "1912\u20131976",
+   "title": "The Rationale of Central Banking and the Free Banking Alternative",
+   "era": "20th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "hoxie-trade-unionism-in-the-united-states-general-character-and-types",
+   "author": "Robert Franklin Hoxie",
+   "author_dates": "1868\u20131916",
+   "title": "Trade Unionism in the United States",
+   "era": "20th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "baker-where-and-why-public-ownership-has-failed",
+   "author": "Yves Guyot",
+   "author_dates": "1843\u20131928",
+   "title": "Where and Why Public Ownership Has Failed",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "brough-the-natural-law-of-money",
+   "author": "William Brough",
+   "author_dates": "1826\u20131917",
+   "title": "The Natural Law of Money",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "webster-political-essays-on-the-nature-and-operation-of-money",
+   "author": "Pelatiah Webster",
+   "author_dates": "1726\u20131795",
+   "title": "Political Essays on the Nature and Operation of Money",
+   "era": "Enlightenment",
+   "genre": "Economics"
+  },
+  {
+   "slug": "macaulay-fiat-money-inflation-in-france",
+   "author": "Andrew Dickson White",
+   "author_dates": "1832\u20131918",
+   "title": "Fiat Money Inflation in France",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "bulletin-a-history-of-banking-in-all-the-leading-nations-4-vols",
+   "author": "Various",
+   "author_dates": "fl. 19th c.",
+   "title": "A History of Banking in All the Leading Nations",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "goldie-locke-political-essays",
+   "author": "John Locke",
+   "author_dates": "1632\u20131704",
+   "title": "Political Essays",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "hakluyt-the-free-sea-hakluyt-trans",
+   "author": "Hugo Grotius",
+   "author_dates": "1583\u20131645",
+   "title": "The Free Sea (Hakluyt trans.)",
+   "era": "Renaissance",
+   "genre": "Law"
+  },
+  {
+   "slug": "murphy-the-political-writings-of-william-penn",
+   "author": "William Penn",
+   "author_dates": "1644\u20131718",
+   "title": "The Political Writings of William Penn",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "exploring-the-bounds-of-liberty-political-writings-of-colonial-british-america-from-the-glorious-revolution-to-the-american-revolution",
+   "author": "Various",
+   "author_dates": "fl. 1688\u20131776",
+   "title": "Exploring the Bounds of Liberty: Political Writings of Colonial British America",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "the-crisis-a-british-defense-of-american-rights-1775-1776",
+   "author": "Various",
+   "author_dates": "fl. 1775\u20131776",
+   "title": "The Crisis: A British Defense of American Rights, 1775\u20131776",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "mccabe-toleration-and-other-essays",
+   "author": "Voltaire",
+   "author_dates": "1694\u20131778",
+   "title": "Toleration and Other Essays",
+   "era": "Enlightenment",
+   "genre": "Philosophy"
+  },
+  {
+   "slug": "selections-from-three-works",
+   "author": "Francisco Su\u00e1rez",
+   "author_dates": "1548\u20131617",
+   "title": "Selections from Three Works (De Legibus; Defensio Fidei; De Triplici Virtute)",
+   "era": "Renaissance",
+   "genre": "Law"
+  },
+  {
+   "slug": "three-lectures-on-the-cost-of-obtaining-money",
+   "author": "Nassau William Senior",
+   "author_dates": "1790\u20131864",
+   "title": "Three Lectures on the Cost of Obtaining Money",
+   "era": "19th Century",
+   "genre": "Economics"
+  },
+  {
+   "slug": "selected-discourses-and-speeches",
+   "author": "Andrew Fletcher of Saltoun",
+   "author_dates": "1653\u20131716",
+   "title": "Selected Discourses and Speeches",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  },
+  {
+   "slug": "collected-political-writings",
+   "author": "James Otis",
+   "author_dates": "1725\u20131783",
+   "title": "Collected Political Writings of James Otis",
+   "era": "Enlightenment",
+   "genre": "Political Theory"
+  }
+ ]
+}

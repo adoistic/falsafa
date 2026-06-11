@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-priestley-an-essay-on-the-first-principles-2bcc23",
+  "work_title": "An Essay on the First Principles of Government",
+  "chapter_number": 6,
+  "chapter_title": "SECTION V.: Of Religious Liberty, and Toleration in general.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ea423d2f-5902-59d6-8096-ca2325cfd8d5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4694,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/priestley-an-essay-on-the-first-principles-of-government"
+    }
+  ]
+}

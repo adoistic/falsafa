@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 49,
+  "chapter_title": "Edition: Hobbes1651; Page: [321]CHAP. XLIII.: Of what is Necessary for a Mans Reception into the Kingdome of Heaven.",
+  "chapter_slug": "49-edition-hobbes1651-page-321-chap-xliii-of-what-is-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b7a40938-2e34-5ec9-841d-9da26a236cbb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5925,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

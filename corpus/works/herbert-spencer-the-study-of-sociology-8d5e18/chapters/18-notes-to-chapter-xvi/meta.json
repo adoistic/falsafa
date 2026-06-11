@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-study-of-sociology-8d5e18",
+  "work_title": "The Study of Sociology",
+  "chapter_number": 18,
+  "chapter_title": "notes to chapter xvi.",
+  "chapter_slug": "18-notes-to-chapter-xvi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74e83fef-bafd-5cf4-b765-7e1193a32455",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6926,
+      "paragraph_count": 142,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-study-of-sociology-1873"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-commentary-and-review-of-monte-8f12bf",
+  "work_title": "A Commentary and Review of Montesquieu's Spirit of Laws",
+  "chapter_number": 1,
+  "chapter_title": "To his fellow citizens of the United States of America.",
+  "chapter_slug": "01-to-his-fellow-citizens-of-the-united-states-of-ame",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a21c3e58-66bc-558c-b7b7-59025546df92",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 307,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-commentary-and-review-of-montesquieus-spirit-of-laws"
+    }
+  ]
+}

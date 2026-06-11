@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0",
+  "work_title": "Money and the Mechanism of Exchange",
+  "chapter_number": 180,
+  "chapter_title": "Lowe's proposed Table of Reference.",
+  "chapter_slug": "180-lowes-proposed-table-of-reference",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c5692908-e520-5d8c-82e8-f441ec0e9f3f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 230,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+---
+work_id: "c3b02db6-e5c0-5b88-8e4f-0f154eb80580"
+work_slug: "jacob-viner-studies-in-the-theory-of-interna-c3b02d"
+work_title: Studies in the Theory of International Trade
+author_name: Jacob Viner
+chapter_number: 29
+chapter_title: I. Introduction
+chapter_slug: "29-i-introduction"
+variant_id: "c5bf2fa2-aaf4-566d-a76b-d490fea5dc47"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 730
+source_url: "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+translator: Online Library of Liberty edition
+---
+
+The downward trend of the English price level, which persisted without any sustained reversal from 1815 to the 1850's, was for English industry and labor only partially compensated by the progress in manufacturing technique and the fall in the prices of imported raw materials. The occasional prosperous intervals were ordinarily terminated by sharp financial crises, and were followed by intervals of depression and unemployment. There was general agreement that these business fluctuations were inherent in the new structure of industry, but there was also a widespread conviction that they had been accentuated by chronic mismanagement—or misbehaviour—of the currency. It became apparent soon after resumption of cash payments that strict adherence to a fixed metallic standard was not sufficient to assure the smooth and beneficent working of the currency system. The Bank of England succeeded throughout the period in maintaining convertibility of its paper notes, but on several occasions only with great difficulty and after resort to emergency measures. In Edition: current; Page: [219] 1825, in 1836, and again in 1839, suspension of convertibility was avoided only by a narrow margin. In 1847, and 1857, and 1866, the Bank was again in serious difficulty. Each period of special strain gave rise to an extensive controversy, turning on the quality of the Bank's management of its affairs and on the principles which should be followed in the management of the currency. That the currency was operating badly no one disputed, although there were not a few who would have agreed with Cobden that “managing the currency [was] ... just as possible as the management of the tides, or the regulation of stars, or the winds,” and that all that government could do, therefore, would be to place it on a wholly metallic basis, and then let “automatic” processes run their course.
+
+During this period the English banking system underwent important structural changes. In the belief that it was mainly the small notes which were presented for redemption in gold during periods of financial stress, the renewal in 1822 of the right to issue notes under £5 was repealed by an act passed in 1826. To promote the establishment of financially stronger country banks, an act of the same year authorized the establishment in the provinces of note-issuing banks with an unlimited number of partners. An act passed in 1833 exempted the Bank of England, in so far as its discounts of short-term paper were concerned, from the legal maximum interest rate of 5 per cent under the usury laws, and thus gave it the power to use the discount rate as an instrument of credit control. This act also made the Bank's notes legal tender except by the Bank itself as long as the Bank maintained convertibility into gold, and definitely proclaimed—what had previously been questionable—the right to establish in the London area non-note-issuing banking establishments with more than six partners. The joint-stock banks grew rapidly in number and in importance, both in the provinces and in London. By the 1850's there were at least three joint-stock banks in London with deposits in excess of those of the Bank of England. The Bank of England had gradually given up most of its ordinary Edition: current; Page: [220] commercial discount business, and its “private deposits” came to consist largely of bankers' balances held with the Bank as the equivalent of cash reserves.
+
+Finally, there was passed the Bank Charter Act of 1844, commonly referred to as Peel's Act, which was to remain the charter of English banking until the Great War. This act required the Bank formally to segregate the issue department from the banking department, and limited the issue department to a maximum issue of notes uncovered by bullion of £14,000,000, above which amount it could issue notes only in exchange for gold (or, within certain limits, silver). Country banks then issuing notes were permitted to continue such issue not to exceed the amount then in circulation, but the law made provision for the gradual absorption by the issue department of the Bank of England, as an addition to its uncovered issue, of the bulk of the note circulation of the country banks. Except as to note issue, the banking department of the Bank of England was left wholly free from statutory regulation, as were also the then existing private banks on all matters of consequence except the right to issue notes.

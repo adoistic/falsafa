@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-protection-or-free-trade-b67ad4",
+  "work_title": "Protection or Free Trade",
+  "chapter_number": 25,
+  "chapter_title": "Chapter XXIV THE PARADOX.",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5406d4d3-168b-51aa-9bbb-f4cce0d04526",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4309,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-protection-or-free-trade"
+    }
+  ]
+}

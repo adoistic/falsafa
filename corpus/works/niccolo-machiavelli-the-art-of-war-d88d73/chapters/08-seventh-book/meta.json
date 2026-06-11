@@ -1,0 +1,26 @@
+{
+  "work_slug": "niccolo-machiavelli-the-art-of-war-d88d73",
+  "work_title": "The Art of War",
+  "chapter_number": 8,
+  "chapter_title": "SEVENTH BOOK",
+  "chapter_slug": "08-seventh-book",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c623519-11bf-5c83-8794-3ba683599683",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9785,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/machiavelli-the-art-of-war-neville-trans"
+    }
+  ]
+}

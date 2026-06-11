@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-the-history-of-freedom-and-other-8702fe",
+  "work_title": "The History of Freedom and Other Essays",
+  "chapter_number": 19,
+  "chapter_title": "XVII: HISTORICAL PHILOSOPHY IN FRANCE AND FRENCH BELGIUM AND SWITZERLAND. By Robert Flint",
+  "chapter_slug": "19-xvii-historical-philosophy-in-france-and-french-be",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "364375f4-df6f-5256-b7bf-f4291586eb34",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3116,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/acton-the-history-of-freedom-and-other-essays"
+    }
+  ]
+}

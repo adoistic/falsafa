@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-law-of-torts-eb9423",
+  "work_title": "The Law of Torts",
+  "chapter_number": 59,
+  "chapter_title": "An Acte for lymytacion of Accions, and for avoyding of Suits in Lowe. (21 James I. c. 16.)",
+  "chapter_slug": "59-an-acte-for-lymytacion-of-accions-and-for-avoyding",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1a5102e3-698e-5144-b02e-29f029c524f5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 422,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+    }
+  ]
+}

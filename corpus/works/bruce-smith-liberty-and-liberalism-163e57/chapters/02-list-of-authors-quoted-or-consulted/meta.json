@@ -1,0 +1,26 @@
+{
+  "work_slug": "bruce-smith-liberty-and-liberalism-163e57",
+  "work_title": "Liberty and Liberalism",
+  "chapter_number": 2,
+  "chapter_title": "LIST OF AUTHORS QUOTED OR CONSULTED.",
+  "chapter_slug": "02-list-of-authors-quoted-or-consulted",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "010ee1e8-4377-5083-a055-3b853df0fbe1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1250,
+      "paragraph_count": 127,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-liberty-and-liberalism-1888"
+    }
+  ]
+}

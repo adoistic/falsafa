@@ -1,0 +1,117 @@
+---
+work_id: "09683f4f-833e-576f-99e6-7b556e9bd423"
+work_slug: "gaius-institutes-of-roman-law-09683f"
+work_title: Institutes of Roman Law
+author_name: Gaius
+chapter_number: 51
+chapter_title: DE STATV LIBERORVM.
+chapter_slug: "51-de-statv-liberorvm"
+variant_id: "74c85ee7-b28a-5ede-9615-0164d67d6070"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 3796
+source_url: "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+translator: Online Library of Liberty edition
+---
+
+It is to be remembered that we are speaking of a marriage between persons who have not the capacity of entering into a civil marriage with one another. When, however, a Roman citizen takes to wife an alien privileged as I described (§ 56), he contracts a civil marriage, and his son is born a Roman citizen and subject to his power.
+
+§ 77. So if a female Roman citizen marry an alien with whom she has capacity of civil marriage, her son is an alien and a lawful son of his father, just as if his mother had been an alien. At the present day, by a senatusconsult passed on the proposition of the late Emperor Hadrian, even without civil marriage the offspring of a Roman woman and alien is a lawful son of his father.
+
+§ 78. The rule we have stated that when a female Roman citizen marries an alien, the offspring is an alien, if there is no capacity of civil marriage between them, is enacted by the lex Minicia, which also provides that when a Roman citizen marries an alien woman, and there is no capacity of civil marriage between them, their offspring shall be an alien. This Edition: current; Page: [54] special enactment was required in the first case, as otherwise the child would follow the condition of the mother; for when there is no capacity of civil marriage between parents, their offspring belongs to the condition of his mother by jus gentium. But the part of this law which ordains that the offspring of a Roman citizen and an alien woman is an alien seems to be superfluous, since without any enactment this would be so under the rule of jus gentium.
+
+§ 79. So much so that it is under this rule of jus gentium that the offspring of a Latin freedwoman by a Roman citizen with whom she has no capacity of civil marriage is a Latin, since the statute did not refer to those who are now designated Latins; for the Latins mentioned in the statute are Latins in another sense, Latins by race and members of a foreign state, that is to say, aliens.
+
+By the same principle, conversely, the son of a Latin and a Roman woman is by birth a Roman citizen, whether their marriage was contracted under the lex Aelia Sentia or otherwise. Some, however, thought that if the marriage was contracted in accordance with the lex Aelia Sentia, the offspring is a Latin by birth, because on this hypothesis the lex Aelia Sentia and Junia confer a capacity of civil marriage, and a civil marriage always transmits to the offspring the status of the father: if the marriage was otherwise contracted, they held the offspring acquires by jus gentium the status of his mother. However, the law on this point is now determined by the senatusconsult passed on the proposition of the late Emperor Edition: current; Page: [55] Hadrian, which enacts that the son of a Latin and a Roman woman is under every hypothesis a Roman citizen.
+
+§ 81. Consistently herewith Hadrian’s senatusconsult provides that the offspring of the marriage of a Latin freedman with an alien woman or of an alien with a Latin freedwoman follows the mother’s condition.
+
+§ 82. Consistently herewith the offspring of a female slave and a freeman is by jus gentium a slave, the offspring of a freewoman and a slave is free.
+
+§ 83. We must observe, however, whether the jus gentium in any given instance is overruled by a statute or ordinance having the authority of a statute.
+
+§ 84. For instance, the Sc. Claudianum permitted to a female citizen of Rome having intercourse with a slave with his owner’s consent, to continue herself in virtue of the agreement free, while she gave birth to a slave, her agreement to that effect with the owner being made valid by the senatusconsult. Subsequently, however, the late Emperor Hadrian was induced by the injustice and anomaly of the ordinance to re-establish the rule of jus gentium, that as the mother continues free the offspring follows her status.
+
+§ 85. By a law (the name of which is unknown) the offspring of a female slave by a freeman might be free, for that law provided that the offspring of a freeman by another person’s female slave whom he believed to be free shall be free if they are male, but shall belong to their mother’s proprietor if they are female: but here too the late Emperor Vespasian was moved by the Edition: current; Page: [56] anomalous character of the rule to re-establish the canon of jus gentium, and declared that the offspring in every case, whether male or female, should be slaves and the property of their mother’s owner.
+
+§ 86. But another clause of that law continues in force, providing that the offspring of a freewoman by another person’s slave whom she knows to be a slave are born slaves, though where this law is not established the offspring by jus gentium follow the mother’s condition and are free.
+
+§ 87. When the child follows the mother’s condition instead of the father’s, it is obvious that he is not subject to the power of the father, even though the father is a Roman citizen: but in some cases, as I mentioned above (§ 67), when a mistake was the occasion of a non-civil marriage being contracted, the senate interferes and purges the defect of the marriage. and this generally has the effect of subjecting the son to the power of the father.
+
+&c. The rules relating to the status of the offspring of parents of unequal status are at first sight chaotic and bewildering, but they are reducible to a few canons. The most general canon is the rule of jus gentium, that children follow the condition of the mother. This is subject to two exceptions.
+
+1. Children born in civil wedlock follow the condition of the father. Cf. §§ 88, 89, 94.
+
+2. Children born in gentile (lawful) wedlock of a Roman mother and alien father follow the condition of the father: this was a special enactment of the lex Minicia.
+
+These rules are stated in the following passages: Lex naturae haec est ut qui nascitur sine legitimo matrimonio matrem sequatur nisi lex specialis aliud inducat, Dig. 1, 5, 24. ‘By the law of nature children not born in civil wedlock follow the status of the mother, in the absence of a special statute to the contrary.’ Connubio interveniente liberi semper patrem sequuntur: non interveniente connubio, matris conditioni accedunt, excepto eo qui ex Edition: current; Page: [57] peregrino et cive Romana peregrinus nascitur, quoniam lex Minicia (in MS. Mensia) ex alterutro peregrino natum deterioris parentis conditionem sequi jubet, Ulpian, 5, 8. ‘In civil wedlock the children have the status of the father, in the absence of civil wedlock of the mother; except that the children of an alien father and Roman mother are aliens, as the lex Minicia makes the children aliens when either parent is an alien.’
+
+The Sc. Claudianum introduced some special enactments respecting the intercourse of freewomen with slaves, which, however, were subsequently abolished.
+
+a. If a freewoman had intercourse with a slave with the consent of his proprietor she retained her freedom, though degraded to the class of a freedwoman, but her issue was the slave of the proprietor. The slavery of the issue was abolished by Hadrian, § 84.
+
+b. If a freewoman persisted in intercourse with the slave of another person against the will and in spite of the prohibition of the proprietor, after three denunciations on his part she was awarded to him by the magistrate as a slave, and her issue, whether born before or after the adjudication, became slaves of the same person, who also acquired her estate by a species of universal succession. Cf. §§ 91, 160. This terroristic law, which, from the minuteness with which the details are developed (Paulus, 2, 21), appears to have been often applied, was not abrogated till the time of Justinian, Inst. 3, 12, 1.
+
+c. If a freeman had intercourse with a slave whom he supposed to be free by a law the title of which is lost, but which possibly may be the Sc. Claudianum, her male children were born into freedom. This relief of error was abolished by Vespasian as anomalous (inelegans), § 85.
+
+There was some ground for the view that a marriage under the lex Aelia Sentia, because it was statutory (regulated by statute), was therefore a civil marriage; and we may regard the senatusconsult of Hadrian, which denied its civil character, as not purely declaratory.
+
+§ 88. Sed si ancilla ex ciue Romano conceperit, deinde manumissa ciuis Romana facta sit et tunc pariat, licet ciuis Romanus sit qui nascitur, sicut pater eius, non tamen in potestate patris est, quia neque ex iusto coitu conceptus est neque ex ullo senatusconsulto talis coitus quasi iustus constituitur.
+
+§ 89. Quod autem placuit, si ancilla ex ciue Romano conceperit, deinde manumissa pepererit, qui nascitur liberum nasci, naturali ratione fit; nam hi qui illegitime concipiuntur, statum sumunt ex eo tempore quo nascuntur; itaque si ex libera nascuntur, liberi fiunt, nec interest ex quo mater eos conceperit, cum ancilla fuerit; at hi qui legitime concipiuntur ex conceptionis tempore statum sumunt.
+
+§ 90. Itaque si cui mulieri ciui Romanae praegnati aqua et igni interdictum fuerit, eoque modo peregrina facta tunc pariat, conplures distinguunt et putant, siquidem ex iustis nuptiis conceperit, ciuem Romanum ex ea nasci, si uero uulgo conceperit, peregrinum ex ea nasci.
+
+§ 91. Item si qua mulier ciuis Romana praegnas ex senatusconsulto Claudiano ancilla facta sit ob id, quod alieno seruo inuito et denuntiante domino eius 〈coierit〉, conplures distinguunt et existimant, siquidem ex iustis nuptiis conceptus sit, ciuem Romanum ex ea nasci, si uero uulgo conceptus sit, seruum nasci eius cuius mater facta esset ancilla.
+
+§ 92. Peregrina quoque si uulgo conceperit, deinde ciuis Romana 〈fiat〉 et tunc pariat, ciuem Romanum parit; si uero ex peregrino secundum leges moresque peregrinorum conceperit, ita uidetur ex senatusconsulto quod auctore diuo Hadriano factum est ciuem Romanum parere, si et patri eius ciuitas Romana donetur.
+
+If a female slave conceive by a Roman citizen and become herself by manumission a Roman citizen before giving birth to a son, her son, though a Roman citizen like his father, is not in his father’s power, because he was not begotten in civil wedlock, and there is no senatusconsult which cures the defect of the intercourse in which he was begotten.
+
+§ 89. The decision that when a female slave conceives by a Roman citizen and is manumitted before childbirth, her offspring is born free, is a rule of natural law; for in illegitimate or non-civil conception the status of the offspring depends on the moment of birth, and the mother’s freedom at the moment of birth makes the offspring free, and the status of the father is immaterial; but in statutory or civil conception the status of the child is determined by the time of conception.
+
+Accordingly, if a female citizen of Rome being pregnant is interdicted from fire and water, and becoming thus an alien gives birth to a child, many jurists distinguish and hold that her offspring is a Roman citizen if begotten in civil wedlock, but if in promiscuous intercourse, an alien.
+
+§ 91. So if a female citizen of Rome being pregnant is reduced to slavery under the Sc. Claudianum for having intercourse with a slave in spite of the dissent and denunciation of his owner, many jurists make a distinction and hold that her offspring, if conceived in civil wedlock is a citizen of Rome, if conceived in illicit intercourse is a slave of the person who becomes proprietor of the mother.
+
+Also if an alien woman conceive in illicit intercourse and afterwards becomes a Roman citizen and gives birth to a child, the child is a Roman citizen; but if she conceived by an alien, to whom she was married in accordance with alien laws and customs, it seems that upon Hadrian’s senatusconsult her offspring is only born a Roman citizen, if the father also has acquired the Roman citizenship.
+
+Supposing the status of a parent changes during the period of gestation (if, for instance, the mother is a slave at the time of conception and free at the time of birth), what effect has this on the status of the issue? The following rule was adopted: in cases where the child follows the status of the father, that is, when it is begotten in civil marriage, the status of the father at the time of conception determines the status of the child; where the child follows the status of the mother, that is, when it is begotten in gentile marriage or in promiscuous intercourse, the status of the child is determined by the status of the mother at the moment of birth. Ulpian, 5, 10. ‘Children born in civil wedlock have their status fixed at the time of conception; children born out of civil wedlock have their status fixed at the time of delivery.’ That is to say, the legal position of the issue is made to follow the analogy of its physical condition. The physical influence of the father terminates with conception: his subsequent health, life, or death, does not affect the physical state of the child; but the child is affected by every change in the physical condition of the mother, her health, life, or death, up to the moment of birth. In imitation of this analogy, the status of the child, when it depended on the status of the father, was not affected by any change in that status subsequent to the period of conception; but when it depended on the status of the mother it varied with every change in that status up to the moment of birth. By the time of Gaius, though the change is not mentioned in the text, this rule was modified in favour of liberty, and it was established that if the mother was free either at the date of conception or at the date of birth or at any intermediate period, the issue was born free. Si libera conceperit et ancilla facta peperit, liberum parit, id enim favor libertatis exposcit. Si ancilla conceperit et medio tempore manumissa sit, rursus facta ancilla peperit, liberum parit, media enim tempora libertati prodesse, non nocere etiam possunt, Paulus, 2, 24, 2. Cf. Inst. 1, 4 pr.
+
+The issue of a mother who was a slave at the date of conception but is a citizen at the date of birth, though it is born a Roman citizen, is not subject to patria potestas, because it does not satisfy the definition in § 55, liberi quos justis nuptiis procreavimus, ‘a child begotten in civil wedlock.’
+
+Aquae et ignis interdictio was originally a permission to avoid punishment under the penal code by voluntary exile. Subsequently it was employed as a punishment, and under the emperors assumed the form of deportatio in insulam. It was attended with confiscation of goods, and involved loss of civitas but not of libertas, §§ 128, 161.
+
+The offspring of a wedded mother who was an alien at the date of conception and is a citizen at the date of birth, according Edition: current; Page: [60] to the general rule of jus gentium, should be born a Roman citizen; but this would contravene the above-mentioned lex Minicia, which enacted that the issue of a marriage is an alien whenever either parent is an alien, § 78.
+
+§ 93. Si peregrinus sibi liberisque suis ciuitatem Romanam petierit, non aliter filii in potestate eius fient, quam si imperator eos in potestatem redegerit; quod ita demum is facit, si causa cognita aestimauerit hoc filiis expedire. diligentius autem exactiusque causam cognoscit de inpuberibus absentibusque; et haec ita edicto diui Hadriani significantur.
+
+§ 94. Item si quis cum uxore praegnate ciuitate Romana donatus sit, quamuis is qui nascitur, ut supra diximus, ciuis Romanus sit, tamen in potestate patris non fit; idque subscriptione diui Hadriani significatur; qua de causa qui intellegit uxorem suam esse praegnatem, dum ciuitatem sibi et uxori ab imperatore petit, simul ab eodem petere debet, ut eum qui natus erit in potestate sua habeat.
+
+§ 95. Alia causa est eorum qui Latii iure cum liberis suis ad ciuitatem Romanam perueniunt; nam horum in potestate fiunt liberi. quod ius quibusdam peregrinis ciuitatibus datum est uel a populo Romano uel a senatu uel a Cae|sare.
+
+§ 96. — aut maius est Lati|um aut minus: maius est Latium, cum et hi qui decuriones leguntur et ei qui honorem aliquem aut magistratum gerunt ciuitatem Romanam consecuntur; minus Latium est, cum hi tantum qui magistratum uel honorem gerunt ad ciuitatem Romanam perueniunt: idque conpluribus epistulis principum significatur.
+
+§ 93. If an alien has obtained by petition for himself and his children a grant of Roman citizenship, the children do not fall under the power of the father except by express ordinance of the emperor, which he only makes if, on hearing the facts of the case, he deems it expedient for the interest of the children, and he makes a still more careful and minute inquiry if they are below the age of puberty and absent, as an ediot of the Emperor Hadrian intimates.
+
+Also if an alien and his pregnant wife receive a grant of Roman citizenship, the child, though a Roman citizen, as above mentioned, is not born in the power of his father according to a rescript of the late Emperor Hadrian; wherefore, if he knows his wife to be pregnant, an alien who petitions the emperor for Roman citizenship for himself and his wife ought at the same time to petition that his son may be subjected to his power.
+
+The rule is different for those who with their children are made Roman citizens by right of Latinity, for their children fall under their power; this right has been conceded to certain alien states either by the Roman people, or by the senate or by the emperor.
+
+§ 96. The right of Latinity is either greater or lesser. Greater Latinity is the right whereby those who are chosen decuriones or hold some high office or magistracy acquire Roman citizenship: lesser Edition: current; Page: [61] Latinity is when only those who are magistrates or hold high office acquire Roman citizenship, a distinction intimated by several imperial rescripts.
+
+The grant of civitas was either made to communities or to individuals. It was a lucrative source of revenue to the emperors. The fees to be paid were not small, Acts of the Apostles, 22, 28, and the new-made civis was regarded as a manumitted slave of the emperor, and was expected to remember the emperor in his will. The philosophic emperor, Marcus Aurelius, under whom Gaius flourished, granted Roman citizenship to all who were ready to pay the fees, data cunctis promiscue civitas Romana, Aurelius Victor, 16. Antoninus Caracalla, a. d. 212-217, after raising from one-twentieth to one-tenth the tax on manumissions and the testamentary succession and legacy duty, which was only levied on Roman citizens, exhausted for a time this source of revenue by conferring at a stroke Roman citizenship on every free subject of the empire: In orbe Romano qui sunt ex constitutione imperatoris Antonini cives Romani effecti sunt, Dig. 1, 5, 17. This was not a general manumission of slaves nor an abolition of the status of Latin or alien, but a grant of citizenship to all existing Latins and aliens, imposing in effect a capitation tax on the individuals, and leaving those orders to be again replenished by subsequent manumissions of Latini and dediticii. The value of the privileges of civis Romanus was gradually declining. The political portions of civitas had been extinguished by the establishment of the empire, and Rome was destined at last to undergo the fate she had inflicted on so many other cities. She was sacked by Alaric, king of the Goths, a. d. 410. She was entered by Genseric, king of the Vandals, and, after a sack of fourteen days, left a heap of ruins, a. d. 455. The splendour of the title of civis Romanus was sadly dimmed before Justinian made it acquirable by every form of manumission.
+
+Subscriptio was an imperial rescript written under the petition to which it was an answer: a rescript written on a separate document was called epistola. The latter was addressed to public functionaries, the former to private individuals, and by its connexion with the petition enabled a tribunal to which it was submitted to investigate the truth of the allegations on which it was founded. Cf. § 5, comm.; and see Roby, Private Law, Intr. p. 6, n. 2.
+
+The grant of patria potestas by the Emperor to the new-made citizen, § 93, may be assimilated to the legislative grant of patria potestas in adrogatio. Its different effects may be compared with Edition: current; Page: [62] the incidents of Naturalization and Denization in English law. Naturalization formerly only effected by act of parliament is retrospective, and puts an alien in exactly the same state as if he had been born in the king’s ligeance, and his son born before the naturalization may inherit: whereas the issue of a Denizen (an alien born who has obtained ex donatione regis letters patent to make him an English subject) cannot inherit to him, but his issue born after may. Blackstone.
+
+Before the recension of the text by Studemund Gaius was supposed to have defined greater Latinity in this section as the right whereby the magistrates of certain towns acquire the Roman franchise along with their wives and children, and lesser Latinity as the right whereby the magistrates themselves acquire the Roman franchise, but not their wives and children. The distinction made by Gaius between these two kinds of Latinity is not found in any other writer (cf. note to Muirhead’s Gaius, h. l.).
+
+The name of a senate in a municipality was ordo decurionum or simply ordo or curia, its members being decuriones or curiales. The office of decurio, which was at one time a coveted distinction, became very burdensome; and in order to make it more acceptable, privileges were from time to time attached to it, as e. g. Latium majus, and in later times legitimatio per oblationem curiae (Inst. 1, 10, 13). (Dig. 50, 2 de decurionibus.)
+
+It is to be noticed that the jus Latii could, according to Gaius, § 95, be constitutionally granted in three ways, either by the people itself (in Comitia), or by the senate (representing the people), or by the Emperor (in whom the power of the people was to a great extent vested).

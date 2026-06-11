@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 110,
+  "chapter_title": "DE HEREDIBVS INSTITVENDIS.",
+  "chapter_slug": "110-de-heredibvs-institvendis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab2a1af7-f2ed-5e4e-99b1-fddec2770a7b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1933,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 74
+chapter_title: CHAPTER XV
+chapter_slug: 74
+variant_id: "b0553f0b-5930-54e4-8f8f-9e58aa699b03"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 383
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+how bishop aidan foretold to certain seamen a storm that would happen, and gave them some holy oil to lay it. [ad 651.]
+
+How great the merits of Aidan were, was made manifest by the all-seeing Judge, with the testimony of miracles, whereof it will suffice to mention three as a memorial. A certain priest, whose name was Utta, a man of great gravity and sincerity, and on that account honoured by all men, even the princes of the world, being ordered to Kent, to bring from thence, as wife for King Oswy, Eanfleda, the daughter of King Edwin, who had been carried thither when her father was killed; and intending to go thither by land, but to return with the virgin by sea, repaired to Bishop Aidan, entreating him to offer up his prayers to our Lord for him and his company, who were then to set out on their journey. He, blessing and recommending them to our Lord, at the same time gave them some holy oil, saying, “I know that when you go abroad, you will meet with a storm and contrary wind; but do you remember to cast this oil I give you into the sea, and the wind shall cease immediately; you will have pleasant calm weather, and return home safe.”
+
+All which fell out as the bishop had predicted. For in the first place, the winds raging, the sailors endeavoured to ride it out at anchor, but all to no purpose; for the sea breaking in on all sides, and the ship beginning to be filled with water, they all concluded that certain death was at hand; the priest at last, remembering the bishop’s words, laid hold of the phial and cast some of the oil into Edition: current; Page: [128] the sea, which, as had been foretold, became presently calm. Thus it came to pass that the man of God, by the spirit of prophecy, foretold the storm that was to happen, and by virtue of the same spirit, though absent, appeased the same. Which miracle was not told me by a person of little credit, but by Cynemund, a most faithful priest of our church, who declared that it was related to him by Utta, the priest, on and by whom the same was wrought.

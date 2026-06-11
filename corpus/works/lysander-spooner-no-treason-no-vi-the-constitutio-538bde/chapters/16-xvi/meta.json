@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-no-treason-no-vi-the-constitutio-538bde",
+  "work_title": "No Treason, No. VI: The Constitution of No Authority",
+  "chapter_number": 16,
+  "chapter_title": "XVI.",
+  "chapter_slug": "16-xvi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f2d47243-2b13-5642-add1-eaa077704a30",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 391,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-no-treason-no-vi-the-constitution-of-no-authority-1870"
+    }
+  ]
+}

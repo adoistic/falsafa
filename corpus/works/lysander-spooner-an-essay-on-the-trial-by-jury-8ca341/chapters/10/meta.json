@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-an-essay-on-the-trial-by-jury-8ca341",
+  "work_title": "An Essay on the Trial by Jury",
+  "chapter_number": 10,
+  "chapter_title": "CHAPTER III.: ADDITIONAL PROOFS OF THE RIGHTS AND DUTIES OF JURORS.↩",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe20f990-1b04-52e0-9bb8-5083bbd3ca1e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 142,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-an-essay-on-the-trial-by-jury-1852"
+    }
+  ]
+}

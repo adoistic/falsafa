@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-bates-clark-the-distribution-of-wealth-14c2fc",
+  "work_title": "The Distribution of Wealth",
+  "chapter_number": 17,
+  "chapter_title": "Chapter XV: The Marginal Efficiency of Consumers' Wealth the Basis of Group Distribution",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "34972e51-1e36-5bab-b06d-e0772ea1dad0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3149,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/clark-the-distribution-of-wealth-a-theory-of-wages-interest-and-profits"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+---
+work_id: "ea854707-9687-5914-9151-824366018be2"
+work_slug: "alexis-de-tocqueville-the-old-regime-and-the-revolutio-ea8547"
+work_title: The Old Regime and the Revolution
+author_name: Alexis de Tocqueville
+chapter_number: 14
+chapter_title: "CHAPTER VIII.: THAT FRENCHMEN HAD GROWN MORE LIKE EACH OTHER THAN ANY OTHER PEOPLE."
+chapter_slug: 14
+variant_id: "c221e0f8-807c-569e-8ccd-c86a12646a11"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1279
+source_url: "https://oll.libertyfund.org/titles/tocqueville-the-old-regime-and-the-revolution-1856"
+translator: Online Library of Liberty edition
+---
+
+THE careful student of the old regime in France soon meets with two apparently contradictory facts.
+
+It appears that every body in the upper and middle classes of society, the only classes which are heard of, is exactly like his neighbor.
+
+At the same time, this homogeneous mass is split into an immense multitude of small bodies, and each body contains an exclusive set, which takes no concern for any interests but its own.
+
+When I think of these infinite subdivisions, and the want of union and sympathy they must have produced, I begin to understand how a great revolution could overthrow such a society, from top to bottom, in a moment. The shock must have leveled, at a blow, all party walls, and left behind it the most compact and homogeneous social body ever seen in the world.
+
+I have already described how provincial peculiarities had gradually worn off. That change tended powerfully to assimilate the French people. National unity loomed through the surviving distinctions of rank. The laws were uniform. As the eighteenth century advanced, the number of edicts, declarations, and Orders in Council, which applied the same rules with equal force to all parts of the kingdom, became larger Edition: current; Page: [102] and larger. Subjects as well as rulers entertained ideas of a general uniform system of legislation that should bear equally on all: this was a prominent feature in all the schemes of reform which saw the light during the thirty years preceding the Revolution. Two centuries before, the basis for such schemes may be said to have been wanting.
+
+Not only had all the provinces grown like each other, but the men also. A marked resemblance began to exist between men of all ranks and stations; or, at all events, among those who were not comprised in the class known as “the people.”
+
+This is clearly shown in the cahiers of the various classes presented in 1789. Their authors had evidently different interests to serve, but in all other respects they were alike.
+
+At former meetings of the States-General, on the contrary, the interests of the middle classes were common to the nobility, their aims were the same, their intercourse free from antagonism; but they seemed to be two distinct races.
+
+Time had maintained and occasionally aggravated the privileges which kept them apart, but in all other respects it had singularly labored to produce a resemblance between them.
+
+The impoverishment of the nobility had gone on steadily for several centuries. A man of rank observed sadly in 1755, “Notwithstanding their privileges, the nobility are falling daily deeper into difficulties and destruction, while the Third Estate inherits their fortunes.” No change had been made in the laws which protected the property of the aristocracy, Edition: current; Page: [103] or in their economical condition. Yet they grew poorer every where as they lost their power.
+
+One is almost inclined to fancy that human institutions, like the human body, contain, besides the particular organs appointed to perform specific functions, a central hidden force which is the vital principle. When this force is subdued, though the organs seem to act as usual, the whole machine languishes and dies. The French nobility still retained the use of entails (which, according to Burke, were more frequent and more binding in France than in England), laws of primogeniture, irredeemable ground-rents, and, generally, the beneficial rights they derived from feudal customs; they had been released from military service, but paid fewer taxes than ever, thus getting rid of the burden while they retained the privilege. They enjoyed, moreover, many other pecuniary advantages which their fathers had never had, and yet they grew poorer gradually as they mixed less in the theory and practice of government. It was their poverty which mainly led to the extensive subdivision of landed property that has already been noted. Men of rank sold their land piecemeal to the peasantry, reserving nothing but seigniorial rents, which furnished a nominal, not a substantial competency. Several French provinces, such as Limousin, which Turgot describes, were full of petty impoverished noblemen, who had no land left, and who lived on the produce of seigniorial rights and ground-rents.
+
+“In this province,” said an intendant, “at the beginning of the century, there were several thousand noble families, but not fifteen out of the whole number Edition: current; Page: [104] had an income of twenty thousand livres.” I find a memorandum addressed by the intendant of Franche-Comté to his successor in 1750, in which it is said that “the nobility of this section of country are of high rank, but very poor, and as proud as they are poor. The contrast between their former and their present condition is humiliating. It is a very good plan to keep them poor, in order that they shall need our aid and serve our purposes. They have formed,” he adds, “a society into which no one can obtain admission unless he can prove four quarterings. It is not incorporated by letters patent; but it is tolerated, as it meets but once a year, and in the presence of the intendant. These noblemen hear mass and dine together, after which they return home, some on their Rosinantes, some on foot. You will enjoy this comical assembly.”
+
+All over the Continent, in the countries where the feudal system was being displaced and no new aristocracy founded, as was the case in France, the nobility were relapsing into poverty. Their decline was peculiarly marked among the German nations bordering on the Rhine. England alone presented a contrast. There the old noble families had not only kept, but largely increased their fortunes, and were the chiefs of the nation in wealth as well as in power. The new families which had grown up by their side competed with them, but could not surpass them in magnificence.
+
+In France, the commoners (roturiers) inherited all the property lost by the nobility; they seemed to fatten on their substance. The laws did not hinder commoners from ruining themselves, or help them to acquire Edition: current; Page: [105] wealth; yet they did acquire it constantly, and became as rich or richer than men of rank. They often invested their means in the same kind of property as the nobles held; though usually residents of the city, they often owned country estates, and occasionally even seigniories.
+
+Both classes were educated alike, and led similar lives, hence more points of resemblance. The commoner was as well informed as the nobleman, and had obtained his information from the same source. Both were equally and similarly enlightened; both had received the same theoretical and literary education. Paris had become the sole preceptor of France, and shaped all minds in the same form and mould.
+
+There was, no doubt, at the close of the eighteenth century, a difference between the manners of the noble and the commoner, for nothing resists the leveling process so long as that superficial varnish called manners. But at bottom all the classes which ranked above the people were alike. Their ideas were the same; so were their habits, tastes, pleasures, books, and language. They differed in point of rights alone.
+
+I doubt whether the same fact existed to the same extent in any other country. Common interests had closely knit together the various social classes in England, but they differed widely in habits and ideas; for political liberty, so long enjoyed by that admirable power, though it unites men by close relations and mutual dependence, does not always assimilate them one to another; it is despotism which, in the long run, inevitably renders them mere duplicates one of the other, and types of selfishness.

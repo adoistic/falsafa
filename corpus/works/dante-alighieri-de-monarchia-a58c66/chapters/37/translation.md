@@ -1,0 +1,25 @@
+---
+work_id: "a58c66b4-7eaf-5b11-bc82-746fb1fc7cc2"
+work_slug: "dante-alighieri-de-monarchia-a58c66"
+work_title: De Monarchia
+author_name: Dante Alighieri
+chapter_number: 37
+chapter_title: "CHAPTER V: Argument from the precedence of Levi over Judah."
+chapter_slug: 37
+variant_id: "b349a444-dec1-588b-8324-51abe015f5b5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 287
+source_url: "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"
+translator: Online Library of Liberty edition
+---
+
+1. They also abstract an argument from the word of Moses, declaring that in Levi and Judah sprang from Jacob’s loins the types of these two sovereignties, the one being father of the priesthood, and the other father of temporal rulers. From this they argue: The relation of Levi to Judah is that of the Church to the Empire; Levi preceded Judah in birth according to Scripture; therefore the Church precedes the Empire in authority.
+
+2. Refutation is here easy, for I might as before overthrow by positive denial the assertion that Levi and Judah, the sons of Jacob, typified these sovereignties; but I will concede that point. When, however, they proceed to infer from their argument that as Levi had precedence Edition: current; Page: [158] in birth, so has the Church in authority, I repeat that the predicate of the conclusion is not the term of the major premise, for the one is “authority” and the other “birth,” things different in subject and meaning. There is an error, therefore, in the form of the syllogism, which is as follows: A precedes B in C; D is related to E as A is to B; therefore D precedes E in F. But F and C are dissimilar.
+
+3. If they become insistent, saying that F follows from C (that is, “authority” from “birth”), and that in an inference a consequent may replace an antecedent (as “animal” might replace “man”), I answer that it is untrue. Many are older in years who have no precedence in authority, but are superseded by their juniors; for instance, when bishops are younger than their arch-presbyters. And so the insistence is misplaced, for they have named as cause that which is none.

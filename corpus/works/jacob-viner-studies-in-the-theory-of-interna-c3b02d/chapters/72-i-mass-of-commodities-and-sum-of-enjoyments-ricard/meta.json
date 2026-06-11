@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 72,
+  "chapter_title": "I. “Mass of Commodities” and “Sum of Enjoyments”: Ricardo and Malthus",
+  "chapter_slug": "72-i-mass-of-commodities-and-sum-of-enjoyments-ricard",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3124c713-5153-5f51-aed8-689a551073a8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2787,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

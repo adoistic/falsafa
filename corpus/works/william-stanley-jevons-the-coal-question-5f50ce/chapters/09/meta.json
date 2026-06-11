@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-coal-question-5f50ce",
+  "work_title": "The Coal Question",
+  "chapter_number": 9,
+  "chapter_title": "Chapter VIII: OF SUPPOSED SUBSTITUTES FOR COAL.",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1b9ecf4d-74b3-5596-baf2-499829dbd86e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6315,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-coal-question"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 24,
+  "chapter_title": "d) Subjectiver Charakter des Werthmasses.—Arbeit und Werth.—Irrthum.",
+  "chapter_slug": "24-d-subjectiver-charakter-des-werthmasses-arbeit-und",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6cbfffa4-e974-51f8-85f2-c5bc00a9c1b6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1135,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

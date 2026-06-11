@@ -1,0 +1,26 @@
+{
+  "work_slug": "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388",
+  "work_title": "Proslogium; Monologium; and Cur Deus Homo",
+  "chapter_number": 31,
+  "chapter_title": "CHAPTER XVIII.",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "00d3b5e6-ef8f-50b6-bcaf-e05f3be49377",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 538,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
+    }
+  ]
+}

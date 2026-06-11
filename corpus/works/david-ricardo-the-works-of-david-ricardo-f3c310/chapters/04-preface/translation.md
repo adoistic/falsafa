@@ -1,0 +1,33 @@
+---
+work_id: "f3c3108a-fa4a-5c8b-8013-ac6868798c52"
+work_slug: "david-ricardo-the-works-of-david-ricardo-f3c310"
+work_title: The Works of David Ricardo
+author_name: David Ricardo
+chapter_number: 4
+chapter_title: PREFACE
+chapter_slug: "04-preface"
+variant_id: "f3d41caa-db8c-511d-b7fd-0142d6f977e5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 635
+source_url: "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+translator: Online Library of Liberty edition
+---
+
+The produce of the earth—all that is derived from its surface by the united application of labour, machinery, and capital, is divided among three classes of the community, namely, the proprietor of the land, the owner of the stock or capital necessary for its cultivation, and the labourers by whose industry it is cultivated.
+
+But in different stages of society, the proportions of the whole produce of the earth which will be allotted to each of these classes, under the names of rent, profit, and wages, will be essentially different; depending mainly on the actual fertility of the soil, on the accumulation of capital and population, and on the skill, ingenuity, and instruments employed in agriculture.
+
+To determine the laws which regulate this distribution, is the principal problem in Political Economy: much as the science has been improved by the writings of Turgot, Stuart, Smith, Say, Sismondi, and others, they afford very little satisfactory information respecting the natural course of rent, profit, and wages.
+
+In 1815, Mr Malthus, in his “Inquiry into the Nature and Progress of Rent,” and a Fellow of University College, Oxford, in his “Essay on the Application of Capital to Land,” presented to the world, nearly at the same moment, the true doctrine of rent; without a knowledge of which, it is impossible to understand the effect of the progress of wealth on profits and wages, or to trace satisfactorily the influence of taxation on different classes of the community; particularly when the commodities taxed are the productions immediately derived from the surface of the earth. Adam Smith, and the other able writers to whom I have alluded, not having viewed correctly the principles of rent, have, it appears Edition: current; Page: [6] to me, overlooked many important truths, which can only be discovered after the subject of rent is thoroughly understood.
+
+To supply this deficiency, abilities are required of a far superior cast to any possessed by the writer of the following pages; yet, after having given to this subject his best consideration—after the aid which he has derived from the works of the above-mentioned eminent writers—and after the valuable experience which a few late years, abounding in facts, have yielded to the present generation—it will not, he trusts, be deemed presumptuous in him to state his opinions on the laws of profits and wages, and on the operation of taxes. If the principles which he deems correct, should be found to be so, it will be for others, more able than himself, to trace them to all their important consequences.
+
+The writer, in combating received opinions, has found it necessary to advert more particularly to those passages in the writings of Adam Smith from which he sees reason to differ; but he hopes it will not, on that account, be suspected that he does not, in common with all those who acknowledge the importance of the science of Political Economy, participate in the admiration which the profound work of this celebrated author so justly excites.
+
+The same remark may be applied to the excellent works of M. Say, who not only was the first, or among the first, of continental writers, who justly appreciated and applied the principles of Smith, and who has done more than all other continental writers taken together, to recommend the principles of that enlightened and beneficial system to the nations of Europe; but who has succeeded in placing the science in a more logical and more instructive order; and has enriched it by several discussions, original, accurate, and profound. The respect, however, which the author entertains for the writings of this gentleman, has not prevented him from commenting with that freedom which he thinks the interests of science require, on such passages of the “Economic Politique” as appeared at variance with his own ideas.

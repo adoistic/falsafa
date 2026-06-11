@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 51,
+  "chapter_title": "§. 3.: Das Geld als “Massstab der Preise” und als ökonomischeste Form der Tauschvorräthe.",
+  "chapter_slug": "51-3-das-geld-als-massstab-der-preise-und-als-okonomi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d4204813-bef3-5dcf-812f-d891554866d4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1959,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

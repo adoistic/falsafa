@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-law-of-torts-eb9423",
+  "work_title": "The Law of Torts",
+  "chapter_number": 9,
+  "chapter_title": "3.: Liability for the Torts of Agents and Servants.",
+  "chapter_slug": "09-3-liability-for-the-torts-of-agents-and-servants",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d6e1785-dc7b-5388-8bb1-5fa0694ec975",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7824,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+    }
+  ]
+}

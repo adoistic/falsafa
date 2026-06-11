@@ -1,0 +1,25 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 75
+chapter_title: §3. Options Differing in Time Shape Only
+chapter_slug: "75-3-options-differing-in-time-shape-only"
+variant_id: "8f0d115e-b3aa-5862-b7a8-70dddd847ce7"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 509
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+Options differ in three chief ways corresponding to the characteristics, already noted, of the income stream, namely, (1) in composition, (2) in risk, and (3) in size and time shape. Options which differ primarily in composition or the kind of services rendered are illustrated by the options of using a building as a dwelling, as a shop, or as a factory. Options which differ primarily in the probability or risk are exemplified by the use of a ship on a hazardous voyage or in safe river transportation. Options which differ in size and time shape of the income stream are illustrated by the innumerable uses of land and artificial capital to produce different kinds of goods (income) of different degrees of immediateness as to the satisfactions they render.
+
+The third group of options (which differ in the size and time shape of the income stream) is the one which especially concerns us here. First, let us suppose only one degree of flexibility, permitting variation in the time when the income items arrive but no variation in their amounts. Let us suppose, then, that the income stream Edition: current; Page: [185] from any capital is fixed in aggregate amount, but that the times of receiving that income are controllable at will. This species of choice occurs approximately in the case of durable goods for consumption, which neither improve nor deteriorate with time. A stock of grain, for instance, may be used at almost any time, with little difference in the efficiency of the use and little cost except for storage. The same is true of coal, cloth, iron, and other durable raw materials, as well as, to some extent, of finished products such as tools and machinery, though usually deterioration from rust, or other injury by the elements, will set in if the use is too long deferred. Another simple example is a definite sum of money in a strong box which may be spent at any time, or times, desired. Thus a strong box containing $100,000 may be so used as to yield a real income of $100,000 for one year, or $10,000 a year for ten years, or $4,000 a year for twenty-five years.
+
+Such options afforded by durable goods (as when to use them) are perhaps the simplest of all options. Since extreme cases are especially instructive, let us imagine a community in which the income from all capital is of the character just described. That is, we suppose the total quantity of income obtainable is absolutely fixed, but the times at which it can be obtained are absolutely optional. This community would then be endowed with a definite quantum of income as fixed as the quantity of money in a strong box. That is, every dollar of income sacrificed from one year's income would eke out any other income by that same amount, a dollar, no more and no less; conversely, every dollar of income enjoyed in one year would reduce indulgence elsewhere by exactly a dollar. The rate of interest would be reduced to zero.

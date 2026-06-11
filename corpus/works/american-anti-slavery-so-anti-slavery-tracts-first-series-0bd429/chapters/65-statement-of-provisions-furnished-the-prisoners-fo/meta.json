@@ -1,0 +1,26 @@
+{
+  "work_slug": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+  "work_title": "Anti-Slavery Tracts, First Series",
+  "chapter_number": 65,
+  "chapter_title": "Statement of Provisions furnished the Prisoners for their first week at Lecompton.",
+  "chapter_slug": "65-statement-of-provisions-furnished-the-prisoners-fo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "de74907b-258d-5ffb-b200-7b45d09344a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 360,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/anti-slavery-tracts-first-series-nos-1-20-1855-56"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "antoine-louis-claude-des-a-treatise-on-political-economy-ad4362",
+  "work_title": "A Treatise on Political Economy",
+  "chapter_number": 66,
+  "chapter_title": "CHAPTER XII.: Of the Revenues and Expenses of a Government, and of its Debts.",
+  "chapter_slug": "66",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "574246bc-2406-5541-95d5-228940443799",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14790,
+      "paragraph_count": 90,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tracy-a-treatise-on-political-economy"
+    }
+  ]
+}

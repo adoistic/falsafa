@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 43,
+  "chapter_title": "demonstration.",
+  "chapter_slug": "43-demonstration",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "66e9997a-dfcc-5646-99ba-946e49b0beb0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 921,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

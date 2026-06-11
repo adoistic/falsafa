@@ -1,0 +1,23 @@
+---
+work_id: "6715e093-fd20-5bd0-9e37-ce76bee6c429"
+work_slug: "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0"
+work_title: Money and the Mechanism of Exchange
+author_name: William Stanley Jevons
+chapter_number: 175
+chapter_title: Cash Reserves of Bankers.
+chapter_slug: "175-cash-reserves-of-bankers"
+variant_id: "8e93098d-ad6e-567d-9370-15836bb8ee59"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 333
+source_url: "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+translator: Online Library of Liberty edition
+---
+
+It is important, but very difficult to decide, what is the amount of real cash held by the bankers of the United Kingdom in readiness to meet their liabilities. Many banks publish balance-sheets professing to show the reserve of ready money. I have already remarked (pp. 248-256) upon the ambiguity which attaches to the words money and cash as commonly used; and, when we inquire into the nature of the banker's ready money, it is found to consist in a great degree of money invested in government securities, deposited with other bankers, especially the Bank of England, or held "at call," that is, lent to speculators who invest it in negotiable securities. From the published balance-sheets we thus get no indication of the real metallic reserve of the country, available for the payment of foreign debts.
+
+Mr. R. H. Inglis Palgrave, in his important "Notes on Banking," published both in the Statistical Journal, for March, 1873 (Vol. xxxvi. p. 106), and as a separate book, has given the results of an inquiry into this subject, and states the amount of coin and Bank of England notes, held by the bankers of the United Kingdom, as not exceeding four or five per cent. of their liabilities, or from one twenty-fifth to one twentieth part. Mr. T. B. Moxon, of Stockport and Manchester, has subsequently made an elaborate inquiry into the same point, and finds that the cash reserve does not exceed about seven per cent. of the deposits and notes payable on demand. He remarks that even of this reserve a large proportion is absolutely indispensable for the daily transactions of the bankers' business, and could not be parted with. Thus the whole fabric of our vast commerce is found to depend upon the improbability that the merchants and other customers of the banks will ever want, simultaneously and suddenly, so much as one-twentieth part of the gold money which they have a right to receive on demand at any moment during banking hours.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 155,
+  "chapter_title": "The effects of diminishing coins by law, and what they suffer in private hands, very different. Currency by tale, regard",
+  "chapter_slug": "155-the-effects-of-diminishing-coins-by-law-and-what-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "34f1c933-1f2c-548a-8cdd-a3d13ef2f179",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 596,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

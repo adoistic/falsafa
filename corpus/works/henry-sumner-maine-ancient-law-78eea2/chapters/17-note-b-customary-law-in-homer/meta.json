@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-sumner-maine-ancient-law-78eea2",
+  "work_title": "Ancient Law",
+  "chapter_number": 17,
+  "chapter_title": "NOTE B.: CUSTOMARY LAW IN HOMER.",
+  "chapter_slug": "17-note-b-customary-law-in-homer",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "382136ef-15fc-5bad-876e-54000a3c2b20",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 813,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-ancient-law"
+    }
+  ]
+}

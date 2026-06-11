@@ -1,0 +1,39 @@
+---
+work_id: "e658d9ae-ff03-5bd8-bdf2-c6a20536f3be"
+work_slug: "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9"
+work_title: "Poor Law Commissioners' Report of 1834"
+author_name: Edwin Chadwick and Nassau William Senior
+chapter_number: 29
+chapter_title: 2. Assistant Overseers.
+chapter_slug: "29-2-assistant-overseers"
+variant_id: "8711f53f-6dfc-5481-9c75-ac1276d694eb"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 815
+source_url: "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+translator: Online Library of Liberty edition
+---
+
+The 59 Geo. III. c. 12, authorized the appointment of paid and permanent overseers to act as the assistants of the annual overseers. It appears by the returns of 1831, that they were then employed by not less than 3,249 parishes. And the reports of the Assistant Commissioners are unanimous as to their general utility.
+
+"I perceive no difference," says Mr. Okeden, "in the management of the poor in towns and villages, except that where there is an assistant overseer the management is the best."
+
+"Considerable saving," says Mr. Maclean, "has been effected in those parishes which have adopted the plan of paying and retaining permanently, though subject to annual re-election, an assistant overseer. I have invariably found these persons very intelligent, zealous, and, when properly encouraged and looked after, useful and economical to a parish."
+
+Captain Chapman states that, in the district investigated by him (Cornwall, Devonshire, and parts of Somersetshire and Wiltshire,)
+
+"Assistant overseers had been appointed in most of the larger parishes, and were found so much superior to the annual overseer as to be much on the increase. I only met with one instance in which the assistant overseer had been discontinued, viz., at Ashburton, where there had been great want of unanimity among the rate-payers; and the select vestry had also been discontinued, after having been adopted many years. The result was stated to be, great difficulty in finding persons qualified to act as overseers, and an immediate increase in the poor-rate.
+
+"Two instances came under my notice in large towns, where the assistant overseers had been suspected of embezzlement, and removed; but they had been replaced by others, and thus gave proof of the conviction of the parishioners of the superiority of the paid over the annual overseer.
+
+"Some instances occurred, in which the assistant overseers had received the thanks of the vestry for their exertions; and a few, in which they had received a gratuity, in addition to their salaries.
+
+"The assistant overseers were invariably intelligent, attentive, zealous, possessing great knowledge of the laws, and thus preventing litigation and saving expense. I found them frequently made the referee and oracle by ordinary overseers of the surrounding parishes. In St. Austell and Exeter, this was strikingly brought before me; on market-days Edition: current; Page: [106] the overseers apply in every difficulty to the assistant overseer at St. Austell, and in the same manner to the assistant treasurer in Exeter. Their efficiency, activity, and intelligence, when compared with those of the annual overseer, were so superior as to lead one to consider the introduction of the paid overseer the greatest improvement in the management of the poor, and that its universal adoption is one of the first steps towards any important amendment."
+
+A similar opinion, as to the necessity of appointing a paid overseer, is expressed by Mr. Codd, by Messrs. Cameron and Wrottesley, Mr. Majendie, Mr. Power, Mr. Moylan, Captain Pringle, Mr. Stuart, Mr. Richardson, Mr. Tweedy, Mr. Everett, Mr. Lewis, Mr. Walcott.
+
+It is to be observed, however, that under the statute, the adoption, the nomination, the continuance, and the salary of an assistant overseer depend on the vestry, and that the vestry, not the law, is "to determine and specify the duties to be by him executed and performed." A more perfect state of subserviency can scarcely exist. Whatever may be the vigilance and impartiality of an officer so appointed and paid, he cannot prevent the grossest extravagance or jobbing on the part of those who are in fact his masters, the vestry and the annual overseers; he may refuse his aid, but cannot interpose the slightest resistance. No refusal on his part can indeed be expected; it must be made at the risk of his place, and for the purpose of diminishing rates to which his contribution, if he contribute at all, must be trifling; nor could a profuse or corrupt vestry find any difficulty in selecting a willing instrument for their purposes. The testimonies which we have cited in favour of the assistant overseers, prove, however, that this is seldom the case; and it probably may be accounted for by the circumstance, that in the worst parishes an assistant overseer is not appointed. The adoption of such an officer may generally be considered a symptom of a desire, on the part of the rate-payers, for improvement. It follows, indeed, that those parishes in which the services of a strict and uncorrupt officer are most wanted, are precisely those in which such an officer is the least likely to be appointed or continued. This is the necessary imperfection of the permissive legislation of the 59th Geo. III., a statute which appears, from all our inquiries, to have been so useful where it has been adopted, that we cannot but regret that its adoption should depend on the will of a body so constituted as a vestry.

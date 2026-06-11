@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 29,
+  "chapter_title": "V.: the doctrine of the wage-fund.",
+  "chapter_slug": "29-v-the-doctrine-of-the-wage-fund",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b1277895-966a-5b0f-8e8a-8c3057b31525",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2236,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

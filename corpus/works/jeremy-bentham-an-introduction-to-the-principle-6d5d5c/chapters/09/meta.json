@@ -1,0 +1,26 @@
+{
+  "work_slug": "jeremy-bentham-an-introduction-to-the-principle-6d5d5c",
+  "work_title": "An Introduction to the Principles of Morals and Legislation",
+  "chapter_number": 9,
+  "chapter_title": "Chapter VIII: OF INTENTIONALITY",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a6fb850e-060c-575e-8d0b-b0a645aa02f2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2006,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bentham-an-introduction-to-the-principles-of-morals-and-legislation"
+    }
+  ]
+}

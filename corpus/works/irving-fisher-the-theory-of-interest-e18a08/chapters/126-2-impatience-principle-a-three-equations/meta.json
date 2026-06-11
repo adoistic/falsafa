@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 126,
+  "chapter_title": "§2. Impatience Principle A (Three Equations)",
+  "chapter_slug": "126-2-impatience-principle-a-three-equations",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc18e474-7d5c-58ea-8c6f-91c29a9b7987",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 189,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

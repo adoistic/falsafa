@@ -1,0 +1,39 @@
+---
+work_id: "ca8e8fcd-ae8e-5bd8-9353-38946f0fd731"
+work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
+work_title: Socialistic Fallacies
+author_name: Yves Guyot
+chapter_number: 32
+chapter_title: "CHAPTER IV: Formula B and the “Iron Law of Wages“"
+chapter_slug: 32
+variant_id: "e726d570-edee-5c21-9cbd-9d6277609070"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 635
+source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+translator: Online Library of Liberty edition
+---
+
+Turgot and wages—The actual price of labour and the price of the means of subsistence—Ricardo—Lassalle and the “iron law of wages”—Graduation of wages in the city of Paris—Rise of wages and diminution of the price of the means of subsistence—Share of capital and of labour in production in the United States—Bastiat and Rodbertus.
+
+Turgot said: “The price at which the poor workman sells his labour does not depend upon himself.” But does the price at which the merchant vends his goods depend upon himself? If no one wants them, no one will take them.
+
+Ricardo having based his theory of value entirely upon labour, attempted to find a mean or standard for it. He says, somewhat vaguely, “The natural price of labour is that price which is necessary to enable the labourers, one with another, to subsist and to perpetuate their race, without either increase or diminution… The natural price of labour, therefore, depends on the price of the food, necessaries, and conveniences required for the support of the labourer and his family. Nevertheless, he recognised that “the natural price of labour, estimated even in food and necessaries, is not absolutely fixed and constant.” He added that, “an English workman would consider his wages under their natural rate and too scanty to support a family if they enabled him to purchase no other food than potatoes, and to live in no better habitation than a mud cabin.”
+
+Lassalle's sonorous metaphor of “the iron law of wages” is derived from Ricardo's formula. It implies the equality of wages, and in 1848 the workmen were so fully aware that it was fallacious that Edition: current; Page: [109] Louis Blanc was obliged at the Luxembourg to refuse his support to the principle of equality of wages which he had preached. The graduated scale of wages in the city of Paris was set up by the workmen themselves in 1880. The scale of wages of the several classes of workmen in the building trade is as follows, according to the “Bordereaux des Salaires” published by the Labour Bureau in 1902:
+
+The navvy does not buy his bread cheaper than the rough-caster. If the “iron law” applies to the former, it does not apply to the latter.
+
+Mr. Bowley in his “Progress of the Nation” compares wages with M. Sauerbeck's “Index Numbers,” in which the means of subsistence play an important part.
+
+Wages have doubled between 1840 and 1900, rising from 50 to 100, or rather from 100 to 200, while prices have fallen from 100 to 61. Therefore, in 1840, £100 in wages would pay for £100 in commodities. In 1900, £200 in wages would pay for more than three times (3.2) £61 in commodities. Consequently the value of wages has risen in the proportion of 1 to 3.2, or, say, 220 per cent.
+
+Rodbertus enunciated a formula which Socialists who claim to be scientific attempt to substitute for the “iron law of wages.” This is “that the increase Edition: current; Page: [110] in the productivity of labour involves the reduction in the wages of the working classes to a constantly decreasing fraction of the social product.”
+
+I take the figures contained in the census of the whole of the industries of the United States:—
+
+Improvements in plant have not taken away work from the workmen, seeing that their numbers increased by 44 per cent. between 1890 and 1905. The rate of return on capital has decreased by 24 per cent., while wages have risen 11 per cent. This is a condemnation of Rodbertus' formula and a confirmation of Bastiat's, which he expresses as follows:—“In proportion as capital increases, the absolute share of capitalists in the total amount of production increases, and their relative share decreases. The workmen, on the other hand, see their share increasing in both respects.”

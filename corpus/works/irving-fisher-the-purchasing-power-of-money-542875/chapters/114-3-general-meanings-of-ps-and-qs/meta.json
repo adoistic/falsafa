@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 114,
+  "chapter_title": "§ 3. General Meanings of p's and Q's",
+  "chapter_slug": "114-3-general-meanings-of-ps-and-qs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "34c453a9-c2a6-5af6-bff2-d2d686bb0e99",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 332,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-robert-malthus-principles-of-political-economy-1c8433",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 6,
+  "chapter_title": "Section I.—: On the different sorts of Value.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc411dd6-da1a-55d6-bd18-4c378dc0aa02",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3714,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/malthus-principles-of-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 150,
+  "chapter_title": "XIV. DECEMBER 18, 1807",
+  "chapter_slug": "150-xiv-december-18-1807",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "46f17e91-b851-5f49-b997-bf6061b036a8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 179,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

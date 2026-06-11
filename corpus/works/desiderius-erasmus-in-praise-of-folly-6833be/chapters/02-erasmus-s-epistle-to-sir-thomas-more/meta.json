@@ -1,0 +1,26 @@
+{
+  "work_slug": "desiderius-erasmus-in-praise-of-folly-6833be",
+  "work_title": "In Praise of Folly",
+  "chapter_number": 2,
+  "chapter_title": "ERASMUS’S EPISTLE to Sir THOMAS MORE.",
+  "chapter_slug": "02-erasmus-s-epistle-to-sir-thomas-more",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3e85de23-4d2b-5c0a-ac4f-db3646d935a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1182,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/erasmus-in-praise-of-folly"
+    }
+  ]
+}

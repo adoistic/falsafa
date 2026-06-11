@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-historical-essays-and-studies-dbfb78",
+  "work_title": "Historical Essays and Studies",
+  "chapter_number": 15,
+  "chapter_title": "XIV: THE LIFE OF LORD HOUGHTON",
+  "chapter_slug": "15-xiv-the-life-of-lord-houghton",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "128ce0cc-1ff8-577d-8e70-bd7ca0e8b43b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4035,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/laurence-historical-essays-and-studies"
+    }
+  ]
+}

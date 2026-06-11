@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-a-letter-to-grover-cleveland-13d19d",
+  "work_title": "A Letter to Grover Cleveland",
+  "chapter_number": 9,
+  "chapter_title": "Section IX.",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7bb19d58-52f7-52dd-abd4-42e419c801d4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3087,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
+    }
+  ]
+}

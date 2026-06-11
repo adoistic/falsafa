@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-richter-pictures-of-the-socialistic-futu-81939f",
+  "work_title": "Pictures of the Socialistic Future",
+  "chapter_number": 32,
+  "chapter_title": "Chapter XXIX: A STORMY PARLIAMENTARY SITTING.",
+  "chapter_slug": "32",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d664e889-5f76-5c28-b6bf-5bb7b7fbe6fe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5347,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
+    }
+  ]
+}

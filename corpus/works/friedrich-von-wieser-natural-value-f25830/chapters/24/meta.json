@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 24,
+  "chapter_title": "CHAPTER III: the socialist reading of the problem. the claim of the labourer to the entire return",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "61a8e8d9-9d2d-5d75-b9d4-0be669b35dee",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1046,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e",
+  "work_title": "The Common Sense of Political Economy",
+  "chapter_number": 21,
+  "chapter_title": "BOOK III: ANALYTICAL AND PRACTICAL",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "185d0ca6-9fd4-5cb5-96c2-3326bda5a9b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 130,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wicksteed-the-commonsense-of-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "epictetus-the-works-of-epictetus-43c12c",
+  "work_title": "The Works of Epictetus",
+  "chapter_number": 73,
+  "chapter_title": "CHAPTER XIII.: WHAT SOLITUDE IS; AND WHAT A SOLITARY PERSON.",
+  "chapter_slug": "73",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e4e6f843-e59b-5673-8b2e-88fc45350c05",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 975,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+    }
+  ]
+}

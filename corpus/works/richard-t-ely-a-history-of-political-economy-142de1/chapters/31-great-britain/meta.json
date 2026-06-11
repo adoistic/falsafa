@@ -1,0 +1,26 @@
+{
+  "work_slug": "richard-t-ely-a-history-of-political-economy-142de1",
+  "work_title": "A History of Political Economy",
+  "chapter_number": 31,
+  "chapter_title": "Great Britain",
+  "chapter_slug": "31-great-britain",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "01616b6d-589a-547d-b300-57124000f434",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3895,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ely-a-history-of-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 167
+chapter_title: CHAPTER XXI
+chapter_slug: 167
+variant_id: "26b03c5b-b644-5eec-9107-c99e329c71b4"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 399
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+how even the sea was subservient to his wants
+
+But not only did the animals of the air and sea, for the sea itself, as the air and fire, on former occasions which we have mentioned, exemplified their obedience to the venerable man. For it is no wonder that every creature should obey his wishes, who so faithfully, and with his whole heart, obeyed the great Author of all creatures. But we for the most part have lost our dominion over the creation that has been subjected to us, because we neglect to obey the Lord and Creator of all things. The sea itself, I say, displayed the most ready obedience to Christ’s servant, when he had need of it. For he intended to build a little room in his monastery, adapted to his daily necessities; and on the side towards the sea, where the waves Edition: current; Page: [316] had scooped a hollow, it was necessary to put some support across the opening, which was twelve feet wide. He therefore asked the brethren, who came to visit him, when they returned the next time, to bring him a beam twelve feet long, to support his intended building. They readily promised to bring it, and having received his blessing, departed; but by the time they reached home they had entirely forgotten the matter, and on their next visit neglected to carry the timber which they had promised. He received them mildly, and giving them welcome in God’s name, asked them for the wood which he had requested them to bring. Then they, remembering what they had promised, apologized for their forgetfulness. Cuthbert, in the most gentle manner, pacified them, and requested them to sleep there, and remain till the morning; “for,” said he, “I do not think that God will forget my service or my necessities.” They accepted his invitation; and when they rose in the morning, they saw that the tide had, during the night, brought on shore a beam of the required size, and placed it exactly in the situation where the proposed chamber was to be built. When they saw this, they marvelled at the holiness of the venerable man, for that even the elements obeyed him, and took much shame to themselves for their forgetfulness and sloth, who were taught even by the senseless elements what obedience ought to be shown to God’s holy saints.

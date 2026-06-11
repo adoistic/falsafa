@@ -1,0 +1,31 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 103
+chapter_title: CHAPTER XIV
+chapter_slug: 103
+variant_id: "5ad8a8bd-0926-515f-bb20-68be52babaf4"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1004
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+how a pestilential mortality ceased through the intercession of king oswald. [ad 681.]
+
+In this monastery, at that time, certain manifestations of the heavenly grace are said to have been shown forth; for the tyranny of the Devil having been recently exploded, the faith of Christ began to prevail therein. Of which number I have thought it proper to perpetuate the memory of one which the most reverend Bishop Acca was wont to relate to me, affirming it had been told him by most creditable brothers of the same monastery. About the same time that this province of the South Saxons embraced the faith of Christ, a grievous mortality ran through many provinces of Britain; which, also, by the Divine dispensation, reached to the aforesaid monastery, then governed by the most reverend and religious priest of Christ, Eappa; and many, as well of those that had come thither with the bishop, as of those that had been called to the faith of the same province of the South Saxons, were snatched away out of this world. The brethren, in consequence, thought fit to keep a fast of three days, and to implore the Divine goodness, that it would vouchsafe to extend mercy to them, either by delivering those that were in danger by the distemper from death, or by delivering those who departed this life from eternal damnation.
+
+There was at that time in the monastery, a little boy, of the Saxon nation, lately called to the faith, who had been seized with the same distemper, and had long kept his bed. On the second day of the fasting and praying, it happened that the said boy was, about the second hour of the day, left alone in the place where he lay sick, and through the Divine disposition, the most blessed princes of the apostle vouchsafed to appear to him; for he was a lad of an extraordinarily mild and innocent disposition, and with sincere devotion observed the mysteries of the faith Edition: current; Page: [187] which he had received. The apostles therefore, saluting him in a most affectionate manner, said, “My child, do not fear death, about which you are so uneasy; for we will this day conduct you to the heavenly kingdom; but you are first to stay till the masses are said, that having received the body and blood of our Lord, to support you on your journey, and being so discharged through sickness and death, you may be carried up to the everlasting joys in heaven.
+
+“Call therefore to you the priest, Eappa, and tell him, that the Lord has heard your prayers and devotion, and has favourably accepted of your fast, and not one more shall die of this plague, either in the monastery or its adjacent possessions; but all your people who anywhere labour under this distemper, shall be eased of their pain, and restored to their former health, except you alone, who are this day to be delivered by death, and to be carried into heaven, to behold our Lord Christ, whom you have faithfully served: this favour the Divine mercy has vouchsafed to grant you, through the intercession of the godly and dear servant of God, King Oswald, who formerly ruled over the nation of the Northumbrians, with the authority of a temporal king, and such devotion of Christian piety as leads to the heavenly kingdom; for this very day that king was killed in war by the infidels, and taken up to the everlasting joys of souls in heaven, and associated among the number of the elect. Let them look in their books, wherein the departure of the dead is set down, and they will find that he was, this day, as we have said, taken out of this world. Let them, therefore, celebrate masses in all the oratories of this monastery, either in thanksgiving for their prayers being heard, or else in memory of the aforesaid King Oswald, who once governed their nation; and therefore he humbly offered up his prayers to our Lord for them, as for strangers of his nation: and let all the brethren, assembling in the church, communicate in the heavenly sacrifices, and so let them cease to fast, and refresh themselves with food.”
+
+The boy called the priest, and repeated all these words to him; the priest particularly inquired after the habit and form of the men that had appeared to him. He answered, “Their habit was noble, and their countenances most pleasant and beautiful, such as I had never seen before, Edition: current; Page: [188] nor did I think there could be any men so graceful and comely. One of them indeed was shorn like a clerk, the other had a long beard; and they said that one of them was called Peter, the other Paul; and both of them the servants of our Lord and Saviour Jesus Christ, sent by Him from heaven to protect our monastery.” The priest believed what the boy said, and going thence immediately, looked in his chronicle, and found that King Oswald had been killed on that very day. He then called the brethren, ordered dinner to be provided, masses to be said, and all of them to communicate as usual; causing also part of the Lord’s oblation of the same sacrifice to be carried to the sick boy.
+
+Soon after this, the boy died, on that same day; and by his death proved that what he had heard from the apostles of God was true. A further testimony of the truth of his words was, that no person besides himself, belonging to the same monastery, died at that time. By which vision, many that heard of it were wonderfully excited to implore the Divine mercy in adversity, and to adopt the wholesome remedy of fasting. From that time, the day of the nativity of that king and soldier of Christ began to be yearly honoured with the celebration of masses, not only in that monastery, but in many other places.

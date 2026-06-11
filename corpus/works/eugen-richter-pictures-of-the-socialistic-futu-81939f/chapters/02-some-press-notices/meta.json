@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-richter-pictures-of-the-socialistic-futu-81939f",
+  "work_title": "Pictures of the Socialistic Future",
+  "chapter_number": 2,
+  "chapter_title": "SOME PRESS NOTICES",
+  "chapter_slug": "02-some-press-notices",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9e4b404a-a801-5907-87a1-004b1a1936bc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 347,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
+    }
+  ]
+}

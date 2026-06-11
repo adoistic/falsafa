@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 66,
+  "chapter_title": "CHAPTER II: the province of a state economy",
+  "chapter_slug": "66",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "234f81b9-d880-51d6-965f-784b6460722f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2452,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-bryce-the-holy-roman-empire-ea9074",
+  "work_title": "The Holy Roman Empire",
+  "chapter_number": 8,
+  "chapter_title": "CHAPTER VI: CAROLINGIAN AND ITALIAN EMPERORS",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9e7ebeb6-ef00-5e1a-899a-bce0bb61c926",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3189,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bryce-the-holy-roman-empire"
+    }
+  ]
+}

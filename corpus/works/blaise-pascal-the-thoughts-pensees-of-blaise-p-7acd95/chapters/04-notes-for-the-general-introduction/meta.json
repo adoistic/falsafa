@@ -1,0 +1,26 @@
+{
+  "work_slug": "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95",
+  "work_title": "The Thoughts (Pensées) of Blaise Pascal",
+  "chapter_number": 4,
+  "chapter_title": "NOTES FOR THE GENERAL INTRODUCTION.",
+  "chapter_slug": "04-notes-for-the-general-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aec57f3c-8923-5cb5-88b1-3142cd3f9f60",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 583,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paul-the-thoughts-of-blaise-pascal"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-first-principles-7ee97f",
+  "work_title": "First Principles",
+  "chapter_number": 21,
+  "chapter_title": "CHAPTER VI.: THE PERSISTENCE OF FORCE.",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2fa14c4e-524f-554d-a02f-c5ebbb897abf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2578,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-first-principles-1867"
+    }
+  ]
+}

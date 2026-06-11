@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-robert-filmer-patriarcha-or-the-natural-power--e60c8c",
+  "work_title": "Patriarcha, or the Natural Power of Kings",
+  "chapter_number": 1,
+  "chapter_title": "The COPY of a LETTER",
+  "chapter_slug": "01-the-copy-of-a-letter",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f2462abf-e169-5edc-8163-f44c080016a7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 323,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/filmer-patriarcha-or-the-natural-power-of-kings"
+    }
+  ]
+}

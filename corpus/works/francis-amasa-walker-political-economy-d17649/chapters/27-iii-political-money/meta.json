@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 27,
+  "chapter_title": "III.: political money.",
+  "chapter_slug": "27-iii-political-money",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f27e913-6750-5da5-8662-0a7a3ecd93ff",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2189,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

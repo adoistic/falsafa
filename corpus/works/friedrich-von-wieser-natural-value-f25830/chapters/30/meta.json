@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 30,
+  "chapter_title": "CHAPTER IX: the individual factors of imputation. i.—supply",
+  "chapter_slug": "30",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b96b5a14-f5bd-5da3-b704-ce1384060105",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 348,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-bates-clark-the-distribution-of-wealth-14c2fc",
+  "work_title": "The Distribution of Wealth",
+  "chapter_number": 27,
+  "chapter_title": "Chapter XXV: Static Standards in a Dynamic Society",
+  "chapter_slug": "27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "56412bf6-b0a5-5765-b6c9-bd003059e1a8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9791,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/clark-the-distribution-of-wealth-a-theory-of-wages-interest-and-profits"
+    }
+  ]
+}

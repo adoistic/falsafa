@@ -1,0 +1,57 @@
+---
+work_id: "e658d9ae-ff03-5bd8-bdf2-c6a20536f3be"
+work_slug: "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9"
+work_title: "Poor Law Commissioners' Report of 1834"
+author_name: Edwin Chadwick and Nassau William Senior
+chapter_number: 16
+chapter_title: "[Part I, Section 1, (Administration of the Law, continued):] IN-DOOR RELIEF."
+chapter_slug: "16-part-i-section-1-administration-of-the-law-continu"
+variant_id: "defa89da-c1c6-586e-914f-ceb4b4338bba"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1381
+source_url: "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+translator: Online Library of Liberty edition
+---
+
+In-doors Relief, that which is given within the walls of the Poor-house, or as it is usually, but very seldom, properly denominated the Workhouse, is also subject to great mal-administration. When Mr. Chadwick's account of Reading was published, many readers thought that the management of the workhouses, described by him, must be an exception to the general rule. It is probable that the smallness of those workhouses prevents their inmates from suffering so much from the misconduct of one another, as is the case in the larger workhouses. But in all other respects, in the absence of classification, discipline, and employment, and the extravagance of allowances, the Reading workhouses seem to be merely fair specimens of the ordinary workhouses in thriving towns. The description of many of the London workhouses, in the Evidence collected by Mr. Codd, it is still less favourable than the Report from Reading.
+
+Mr. W. Lee, who has, for seventeen years, held the office of master of the workhouse of St. Pancras, containing more than 1000 inmates, says,—
+
+"It is a common remark among our paupers that they live better in the house than they ever lived before; and looking to the cleanliness, the airiness and roominess of the apartments, the goodness of the beds and bedding, and the wholesomeness and quantity of the food, this is probably the case. There are 300 children; if we get them places they throw them up, or misconduct themselves so as to lose them, and return to the workhouse as a matter of course, because they prefer the security and certainty of that mode of life to the slightest exercise of forbearance or diligence. As little or no classification can take place, the younger soon acquire all the bad habits of the older, and become for the most part as vitiated. This is peculiarly the case with respect to young girls. We are obliged to have many prostitutes among our inmates: they decoy the young girls, with whom they have met in the house, to leave it, and addict themselves to the same abandoned course."
+
+Mr. Bryand, clerk to the overseers of St. James's, Westminster, states, that the workhouse contains 811 persons, and that the parish has, besides, about 40 refractory poor in places called farm-houses, who, in consequence of their bad character, are excluded from the regular establishment. The workhouse inmates, therefore, are people of comparatively good character; and Mr. Bryand considers the workhouse to be better managed than most workhouses, or certainly as well.
+
+He goes on to say,—
+
+"Our paupers are allowed to leave the workhouse for one day in each week. It is a very common occurrence for both men and women, on the days that they are let out, to return in a state of intoxication. They are let out on the weekly days, about one o'clock, after dinner, and on festival days early in the morning: on these latter days, it not unfrequently happens that paupers, especially women, are brought into the house by constables or policemen, before twelve o'clock, in a beastly state of intoxication; they are received as a matter of course, and the care of the governor and matron is applied, not to their punishment, but to keeping them quiet and peaceable: if they can be rendered so, they are put to bed, and no further notice is taken of the case; if they cannot, and they are very violent and riotous, the heads of the house are obliged to have recourse to assistance to hold them or tie them down in their beds.
+
+"We have in the house many women who are known to be prostitutes: we have also notorious thieves. I recollect, in particular, W. Thomas and J. Selburn, now young men; both of them were brought up from infancy in the workhouse; these men are always supported either by the county or in the parish, except what they get by thieving. I am persuaded that parish poor-houses, as at present administered, have the effect of attracting paupers."
+
+Mr. Stephenson, vestry-clerk of St. Margaret's and St. John's, Westminster, says,—
+
+"For cleanliness, diet, lodgings, and medical attendance, no house can be more remarkable than that of St. Margaret's, and these advantages are extended to the bad as well as the good. The diet and accommodation of all are very superior to that which can be obtained by the most industrious of our independent labourers and mechanics."
+
+He is asked how it happens that there are in that workhouse 100 females between the ages of twenty-one and fifty? and answers, that "it arises from the bad character of the low population of Westminster." "Then I conclude that many of these women are prostitutes?"
+
+"Yes, a large majority. They walk the streets until they are reduced to great distress, and then apply to be taken into the house: they remain with us until their strength is recruited, and they return to their former practices. Indeed, it very often happens that they go out worse than they came in, owing to their intercourse, within the walls, with older and more vicious characters."
+
+The farm-houses to which Mr. Bryand referred, as places of confinement for the persons whose character is so bad that they are excluded from the society of the thieves and prostitutes of the regular workhouse, are large establishments, containing sometimes as many as 500 persons, apparently with scarcely any Edition: current; Page: [53] attempt at discipline, and with scarcely any means of enforcing it if attempted.
+
+Mr. Fry, whose parochial establishment contains 270 persons, and among them many discharged convicts, uses "mild remonstrance," unless they are much complained of by their fellow paupers, or act violently, in which case they are put into the black-hole for two or three hours.
+
+Mr. Perry, whose premises contain from 280 to 500, says,—
+
+"The only way in which we can punish them for misconduct is by remonstrance or discharge, but we do not use any system of coercion."
+
+Mr. Hall, the overseer of St. Botolph, Aldgate, says,—
+
+"We send our poor to farm-houses, paying 4s. 6d. per head per week for them; but it is the interest of the farm-house-keepers to give them so much liberty, on account of the consequent saving of provision, that their residence is not one of restraint nor their life one of hardship. It has been repeatedly said to me by paupers nominally confined in farm-houses, that they got 2d. a day from the keepers of those houses to leave them for the day, by which means the keepers saved their food for the day; and I have constantly seen persons, for whom I knew that we were paying to farm-houses, wandering about the streets, sometimes in a state of intoxication, and often I have had them come to my house in such a state, and insist, with much violence, upon getting further relief."
+
+And yet the London workhouses are not likely to be comparatively ill-managed. The number of persons of leisure and intelligence, who have the power to expose their faults, and are interested in doing so, makes it probable that they are, in fact, comparatively well administered. And we find their general management favourably contrasted with that of the Oxford workhouses.
+
+Mr. Bishop's picture of the Oxford House of Industry is, indeed, alarming; but many of its worst features re-appear in the descriptions of similar establishments scattered through our evidence. In some very few instances, among which Southwell, in Nottinghamshire, is pre-eminent, the workhouse appears to be a place in which the aged and impotent are maintained in comfort, and the able-bodied supported, but under such restrictions as to induce them to prefer to it a life of independent labour. But in by far the greater number of cases, it is a large almshouse, in which the young are trained in idleness, ignorance, and vice; the able-bodied maintained in sluggish sensual indolence; the aged and more respectable exposed to all the misery that is incident to dwelling in such a society, without government or classification, and the whole body of inmates subsisted on food far exceeding Edition: current; Page: [54] both in kind and in amount, not merely the diet of the independent labourer, but that of the majority of the persons who contribute to their support.

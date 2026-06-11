@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 39,
+  "chapter_title": "42. Metals, and particularly gold and silver, are the most proper for that purpose, and why.",
+  "chapter_slug": "39-42-metals-and-particularly-gold-and-silver-are-the",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7062d52b-985b-5821-8812-9308e9a6b3bf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 378,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

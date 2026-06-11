@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 52,
+  "chapter_title": "CHAP. XLVI.: Edition: Hobbes1651; Page: [367]Of Darknesse from Vain Philosophy, and Fabulous Traditions.",
+  "chapter_slug": "52-chap-xlvi-edition-hobbes1651-page-367-of-darknesse",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eec31d41-22f7-555b-ba26-cb5d5a5e35bc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7187,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

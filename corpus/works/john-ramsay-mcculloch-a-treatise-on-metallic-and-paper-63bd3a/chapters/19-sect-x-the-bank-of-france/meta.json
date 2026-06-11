@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-a-treatise-on-metallic-and-paper-63bd3a",
+  "work_title": "A Treatise on Metallic and Paper Money and Banks",
+  "chapter_number": 19,
+  "chapter_title": "Sect. X.—: The Bank of France,",
+  "chapter_slug": "19-sect-x-the-bank-of-france",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "de7d57d0-115f-56eb-9bce-c7d76cc0fcdf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1299,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-a-treatise-on-metallic-and-paper-money-and-banks-1858"
+    }
+  ]
+}

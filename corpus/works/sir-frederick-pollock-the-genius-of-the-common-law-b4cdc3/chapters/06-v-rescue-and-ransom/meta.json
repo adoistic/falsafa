@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-genius-of-the-common-law-b4cdc3",
+  "work_title": "The Genius of the Common Law",
+  "chapter_number": 6,
+  "chapter_title": "V.: RESCUE AND RANSOM",
+  "chapter_slug": "06-v-rescue-and-ransom",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a85cc302-d491-570f-98cc-058b0cc87124",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4890,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-genius-of-the-common-law"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "franz-oppenheimer-the-state-a06f2f",
+  "work_title": "The State",
+  "chapter_number": 20,
+  "chapter_title": "(c) the political and social disintegration of the primitive feudal state",
+  "chapter_slug": "20-c-the-political-and-social-disintegration-of-the-p",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cbd8de78-6893-577a-aab2-e42c95ccfda8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3856,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/oppenheimer-the-state"
+    }
+  ]
+}

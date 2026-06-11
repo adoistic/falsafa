@@ -1,0 +1,26 @@
+{
+  "work_slug": "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95",
+  "work_title": "The Thoughts (Pensées) of Blaise Pascal",
+  "chapter_number": 30,
+  "chapter_title": "THE ARRANGEMENT.",
+  "chapter_slug": "30-the-arrangement",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "496a6025-a3c9-55f1-acc4-f19bb00ba086",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 803,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/paul-the-thoughts-of-blaise-pascal"
+    }
+  ]
+}

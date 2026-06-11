@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 77,
+  "chapter_title": "§5. The Imaginary \"Figs\" Example",
+  "chapter_slug": "77-5-the-imaginary-figs-example",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fbfe0a1d-a4c5-5c05-9b8c-e35129e8c5e8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 355,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

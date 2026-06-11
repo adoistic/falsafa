@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-bryce-the-holy-roman-empire-ea9074",
+  "work_title": "The Holy Roman Empire",
+  "chapter_number": 13,
+  "chapter_title": "CHAPTER XI: THE EMPERORS IN ITALY: FREDERICK BARBAROSSA",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "15834974-dd64-550f-9e1e-68c95e6893b2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4082,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bryce-the-holy-roman-empire"
+    }
+  ]
+}

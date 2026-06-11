@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad",
+  "work_title": "A Select Collection of Early English Tracts on Commerce",
+  "chapter_number": 45,
+  "chapter_title": "SECT. IV.: Of Forreign Trade from Port to Port, the Nature and Advantage of it, differs from meer Carriage, and meer Imp",
+  "chapter_slug": "45-sect-iv-of-forreign-trade-from-port-to-port-the-na",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8bdb56fd-73fb-554a-aaee-88a85bf2675a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2537,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+    }
+  ]
+}

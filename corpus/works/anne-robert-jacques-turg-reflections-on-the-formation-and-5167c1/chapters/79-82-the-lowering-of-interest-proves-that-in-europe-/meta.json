@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 79,
+  "chapter_title": "82. The lowering of interest proves, that in Europe oeconomy has in general prevailed over luxury.",
+  "chapter_slug": "79-82-the-lowering-of-interest-proves-that-in-europe-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b445b019-85e9-573d-ac28-138773dc1ae1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 180,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

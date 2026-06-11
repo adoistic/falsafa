@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-rights-of-war-and-peace-0db900",
+  "work_title": "The Rights of War and Peace",
+  "chapter_number": 48,
+  "chapter_title": "CHAPTER XXI.: On Faith During the Continuance of War, on Truces, Safe-Conducts, and the Redemption of Prisoners.",
+  "chapter_slug": "48",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2891e189-f1c6-5f69-a219-4b3bc4150734",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3031,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 41,
+  "chapter_title": "XVI.: the principles of taxation.",
+  "chapter_slug": "41-xvi-the-principles-of-taxation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d54b0117-012b-5ce0-8adc-342c831f27d7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5996,
+      "paragraph_count": 66,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

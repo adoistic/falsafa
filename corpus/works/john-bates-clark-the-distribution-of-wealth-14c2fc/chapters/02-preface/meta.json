@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-bates-clark-the-distribution-of-wealth-14c2fc",
+  "work_title": "The Distribution of Wealth",
+  "chapter_number": 2,
+  "chapter_title": "Preface",
+  "chapter_slug": "02-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0200e54-d41e-58d5-97a9-95884e3573fe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2115,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/clark-the-distribution-of-wealth-a-theory-of-wages-interest-and-profits"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 149,
+  "chapter_title": "XIII. NOVEMBER 25, 1807",
+  "chapter_slug": "149-xiii-november-25-1807",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a8fb880f-cec7-5601-bd22-69a3b45265d3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1270,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

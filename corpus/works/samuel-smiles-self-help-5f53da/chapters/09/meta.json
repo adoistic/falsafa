@@ -1,0 +1,26 @@
+{
+  "work_slug": "samuel-smiles-self-help-5f53da",
+  "work_title": "Self-Help",
+  "chapter_number": 9,
+  "chapter_title": "Chapter VIII: BUSINESS QUALITIES.",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc8bc39e-adac-51d1-8181-397902457412",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8111,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smiles-self-help-with-illustrations-of-character-and-conduct"
+    }
+  ]
+}

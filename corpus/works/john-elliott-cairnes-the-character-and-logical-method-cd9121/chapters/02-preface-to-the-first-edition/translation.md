@@ -1,0 +1,29 @@
+---
+work_id: "cd91218b-d184-5ca5-84e7-d79a2c409a65"
+work_slug: "john-elliott-cairnes-the-character-and-logical-method-cd9121"
+work_title: The Character and Logical Method of Political Economy
+author_name: John Elliott Cairnes
+chapter_number: 2
+chapter_title: Preface to the First Edition
+chapter_slug: "02-preface-to-the-first-edition"
+variant_id: "b3aab8c7-12f9-5f7e-9883-710e9452eeb0"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 617
+source_url: "https://oll.libertyfund.org/titles/cairnes-the-character-and-logical-method-of-political-economy"
+translator: Online Library of Liberty edition
+---
+
+One of the conditions attached to the Whately Professorship of Political Economy requires that, at least, one lecture in the year shall be published by the Professor. In the following pages I have ventured considerably to exceed this requirement, the subject which I selected as most appropriate for my opening course not being such as could be conveniently compressed within a single lecture.
+
+With respect to the views advanced in this work, it may be well, in order to prevent misapprehension, to disclaim at the outset all pretence to the enunciation of any new method of conducting economic inquiries. My aim, on the contrary, has been to bring back the discussions of Political Economy to those tests and standards which were formerly considered the ultimate criteria of economic doctrine, but which have been completely lost sight of in many modern publications. With a view to this, I have endeavoured to ascertain and clearly to state the character of Political Economy, as this science appears to have been conceived by that succession of writers of which Smith, Malthus, Ricardo, and Mill are the most distinguished names; and from the character thus ascertained to deduce the logical method appropriate thereto; while I have sought further to fortify the conclusions to which I have been led, by the analogy of the method which in the physical sciences has been fruitful of such remarkable results.
+
+It may, perhaps, be thought that it would have conduced more to the advantage of economic science, if, instead of pausing to investigate the logical principles involved in its doctrines, I had turned those principles to practical account by directing investigation into new regions. To this I can only reply, that the contrarieties of opinion at present prevailing amongst writers on Political Economy are so numerous and so fundamental, that, as it seems to me, no other escape is open to economists from the confusion and the contradictions in which the science is involved, than by a recurrence to those primary considerations by which the importance of doctrines and the value of evidence are to be determined. To disregard this conflict of opinion, and to proceed to develop principles the foundations of which are constantly impugned, would be to prosecute inquiry to little purpose.
+
+The discussion of economic method with a view to this object has rendered it necessary for me to refer principally to those questions on which opinion is at present divided; and, in doing so, I have been led frequently to quote from recent writers for the purpose simply of dissenting from their doctrines. This course, which I would gladly have avoided had it been compatible with the end in view, has given to portions of these lectures more of a controversial character than is, perhaps, desirable.
+
+I feel also that some apology is due for the number and the length of the notes. As I have just stated, the nature of the subject required frequent reference to disputed topics. To have met the current objections to the principles which I assumed by stopping on each occasion to discuss them in the test, would have inconveniently broken the sequence of ideas, and hopelessly weakened the force of the general argument. On the other hand, to have wholly passed them by without notice would, perhaps, have been still more unsatisfactory to those who were disposed to adopt such objections. I should thus have been guilty of the imprudence of a commander who invades a country leaving numerous untaken fortresses in his rear. Under these circumstances I have had recourse to the only other alternative—that of transferring such discussions to the notes, or, where the argument is too long for a note, to an appendix.

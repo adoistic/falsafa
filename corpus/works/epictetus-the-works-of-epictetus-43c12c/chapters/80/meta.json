@@ -1,0 +1,26 @@
+{
+  "work_slug": "epictetus-the-works-of-epictetus-43c12c",
+  "work_title": "The Works of Epictetus",
+  "chapter_number": 80,
+  "chapter_title": "CHAPTER XX.: THAT SOME ADVANTAGE MAY BE GAINED FROM EVERY OUTWARD CIRCUMSTANCE.",
+  "chapter_slug": "80",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "231fe698-a559-568f-bf67-40052fd07d7e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 733,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+    }
+  ]
+}

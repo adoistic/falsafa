@@ -1,0 +1,22 @@
+[
+  {
+    "id": "p-57f796",
+    "offset": 0,
+    "text": "Prisms and cylinders which differ in both length and thickness offer resistances to fracture [i. e., can support at their ends loads] which are directly proportional to the cubes of the diameters of their bases and inversely proportional to their lengths."
+  },
+  {
+    "id": "p-e7eb37",
+    "offset": 257,
+    "text": "Let ABC and DEF be two such cylinders; then the resistance [bending strength] of the cylinder AC bears to the resistance of the cylinder DF a ratio which is the product of the cube of the diameter AB divided by the cube of the diameter DE, and of the length EF divided by the length BC. Make EG equal to BC: let H be a third proportional to the lines AB and DE; let I be a fourth proportional, [AB/DE=H/I]: and let I:S=EF:BC."
+  },
+  {
+    "id": "p-04d87a",
+    "offset": 684,
+    "text": "Now since the resistance of the cylinder AC is to that of the cylinder DG as the cube of AB is to the cube of DE, that is, as the length AB is to the length I; and since the resistance of the cylinder DG is to that of the cylinder DF as the length FE is to EG, that is, as I is to S, it follows that the length AB is to S as the resistance of the cylinder AC is to that of the cylinder DF. But the line AB bears to S a ratio which is the product of AB/I and I/S. Hence the resistance [bending strength] of the cylinder AC bears to the resistance of the cylinder DF a ratio which is the product of AB/I (that is, AB3/DE3) and of I/S (that is, EF/BC): which is what I meant to prove."
+  },
+  {
+    "id": "p-1d5354",
+    "offset": 1367,
+    "text": "This proposition having been demonstrated, let us next Edition: current; Page: [124] consider the case of prisms and cylinders which are similar. Concerning these we shall show that,"
+  }
+]

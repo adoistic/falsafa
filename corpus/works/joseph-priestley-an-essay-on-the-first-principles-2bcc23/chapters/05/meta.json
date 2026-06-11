@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-priestley-an-essay-on-the-first-principles-2bcc23",
+  "work_title": "An Essay on the First Principles of Government",
+  "chapter_number": 5,
+  "chapter_title": "SECTION IV.: In what manner an authoritative code of education would affect political and civil liberty.",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a87051a-13b7-5d20-ade4-2685fd3a0332",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5855,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/priestley-an-essay-on-the-first-principles-of-government"
+    }
+  ]
+}

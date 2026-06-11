@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-francis-bastable-public-finance-1ff8b2",
+  "work_title": "Public Finance",
+  "chapter_number": 33,
+  "chapter_title": "CHAPTER IV: taxes on property and income",
+  "chapter_slug": "33",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7054211d-6378-5aff-9d80-06a035689f1a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7347,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bastable-public-finance"
+    }
+  ]
+}

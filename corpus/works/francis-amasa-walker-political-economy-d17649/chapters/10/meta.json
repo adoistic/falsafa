@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 10,
+  "chapter_title": "CHAPTER V.: INCONVERTIBLE PAPER MONEY.",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "399a97de-2eba-5717-a4c1-1f9a16541efd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4766,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

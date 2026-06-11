@@ -1,0 +1,82 @@
+[
+  {
+    "id": "p-7d38e2",
+    "offset": 0,
+    "text": "THE mathematical proof that the principle of maximum present value of optional income streams is identical with the Investment Opportunity Principle B or that the rate of marginal return over cost is equal to the rate of interest is as follows:"
+  },
+  {
+    "id": "p-489709",
+    "offset": 246,
+    "text": "The present value V1 of any income stream y1', y1'',...,y1(m), of Individual 1 or their combined discounted value is"
+  },
+  {
+    "id": "p-40f06e",
+    "offset": 364,
+    "text": "The condition that this expression shall be a maximum is that the first differential quotient shall be zero. That is,"
+  },
+  {
+    "id": "p-75fa82",
+    "offset": 483,
+    "text": "This last equation expresses the relations which must exist between dy1', dy1'',..., dy1(m), in order that the income stream, y1', y1'',... y1(m), may have the maximum present value."
+  },
+  {
+    "id": "p-6b3ed8",
+    "offset": 667,
+    "text": "This condition contains within itself a number of subsidiary conditions. To derive these, let us consider a slight variation in the income stream, affecting only the income items pertaining to the first two years, y1', and y1'' (the remaining items, y1''',..., y1(m), being regarded for the time being as constant) and let us denote the magnitudes of dy1' and dy1'', under this assumption of restricted variations, by dy1' and dy1''. Then, under the condition assumed of constancy of y1''', y1iv,..., y1(m), dy1''', dy1iv,..., dy1(m), are equal to zero, and the equation becomes"
+  },
+  {
+    "id": "p-53f174",
+    "offset": 1247,
+    "text": "From this, it follows directly that"
+  },
+  {
+    "id": "p-5d4467",
+    "offset": 1284,
+    "text": "But the left-hand member of this equation is by definition one plus the marginal rate of return over cost. Since we have designated the rate of return over cost by r1' we may substitute 1 + r1' for the expression , and write the above equation thus:"
+  },
+  {
+    "id": "p-769a69",
+    "offset": 1535,
+    "text": "1 + r1' = 1 + i',"
+  },
+  {
+    "id": "p-00e78c",
+    "offset": 1554,
+    "text": "or thus:"
+  },
+  {
+    "id": "p-6960d7",
+    "offset": 1564,
+    "text": "r1' = i'."
+  },
+  {
+    "id": "p-3757a0",
+    "offset": 1575,
+    "text": "In other words, the condition that the marginal rate of return over cost is equal to the rate of interest follows as a consequence of the general condition that the present value of the income stream must be a maximum. This proposition and its proof are analogous to those in regard to desirability or wantability, which have already been discussed in the Appendix to Chapter XII, that the condition of maximum wantability is equivalent in the condition that the marginal rate of preference is equal to the rate of interest."
+  },
+  {
+    "id": "p-d80db0",
+    "offset": 2101,
+    "text": "The same reasoning may be applied to any pair of successive years. Thus, if we assume variations in y'' and y''', without any variations in the other elements of the income stream, y', yiv,..., y1m, the original differential equation becomes"
+  },
+  {
+    "id": "p-c277a5",
+    "offset": 2344,
+    "text": "or = 1 + i'',"
+  },
+  {
+    "id": "p-3bb8d2",
+    "offset": 2359,
+    "text": "or 1 + r1'' = 1 + i'',"
+  },
+  {
+    "id": "p-acbcb6",
+    "offset": 2383,
+    "text": "or r1'' = i''."
+  },
+  {
+    "id": "p-08e7b8",
+    "offset": 2399,
+    "text": "All this reasoning implies, in using the differentiation process, that there is continuous variation, and that, at the margin, it is possible to make slight variations in any two successive years' incomes without disturbing the incomes of the other years."
+  }
+]

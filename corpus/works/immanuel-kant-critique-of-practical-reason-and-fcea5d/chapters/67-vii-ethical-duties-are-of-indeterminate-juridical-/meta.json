@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 67,
+  "chapter_title": "VII.: —Ethical Duties are of indeterminate, Juridical Duties of strict, Obligation.",
+  "chapter_slug": "67-vii-ethical-duties-are-of-indeterminate-juridical-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f006df54-d07a-58bb-9155-fa20a0efbbf6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 675,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

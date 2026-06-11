@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-taylor-of-caroline-construction-construed-and-const-431e95",
+  "work_title": "Construction Construed and Constitutions Vindicated",
+  "chapter_number": 14,
+  "chapter_title": "SECTION 12.: PROTECTING DUTIES AND BOUNTIES.",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "540f60ee-a9a6-5144-8ed7-c990ceaa32d7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 21584,
+      "paragraph_count": 97,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/taylor-construction-construed-and-constitutions-vindicated"
+    }
+  ]
+}

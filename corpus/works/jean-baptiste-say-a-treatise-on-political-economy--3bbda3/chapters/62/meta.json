@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 62,
+  "chapter_title": "BOOK II, CHAPTER X: OF THE EFFECT OF REVENUE DERIVED BY ONE NATION FROM ANOTHER.",
+  "chapter_slug": "62",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e7a62db9-27b6-5851-bd8f-129ab0b52c1a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1081,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

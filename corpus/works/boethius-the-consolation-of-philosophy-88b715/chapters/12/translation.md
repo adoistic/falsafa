@@ -1,0 +1,23 @@
+---
+work_id: "88b7154d-8ae8-5c6e-a1cb-5ca9ab169cd0"
+work_slug: "boethius-the-consolation-of-philosophy-88b715"
+work_title: The Consolation of Philosophy
+author_name: Boethius
+chapter_number: 12
+chapter_title: Book iv, prose 2.
+chapter_slug: 12
+variant_id: "93ec739c-e2bf-589b-9fa1-b682785a2c89"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 373
+source_url: "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"
+translator: Online Library of Liberty edition
+---
+
+Þan quod she ‘Yif þat a wyȝt be myȝty to moene and goþ vpon hys feet, and anoþer to whom þilke naturel office of feet lakkeþ enforceþ hym to gone crepynge vpon hys handes, whiche of þise two-auȝte to ben holden more myȝty by ryȝt?’ ‘Knyt furþe þe remenaunt,’ quod I. ‘For no wyȝt ne douteþ þat he þat may gone by naturel office of feet ne be more myȝty þan he þat ne may nat.’ ‘But þe souereyne good,’ quod she, ‘þat is euenlyche purposed to þe good folk and to badde, þe good folke seken it by naturel office of uertnes, and þe shrewes enforcen hem to geten it by dyuerse couetise of erþely þinges, whiche þat nis no naturel office to geten þilke same souereyne goode. Trowest þou þat it be any oþer wyse?’ ‘Nay,’ quod I, ‘for þe consequence is open and shewynge of þinges þat I haue graunted: þat nedes goode folk moten ben myȝty, and shrewes feble and vnmyȝty.’ ‘Þou rennest aryȝt byfore me,’ quod she, ‘and þis þe iugement, þat is to seyn; I iuge of þe ryȝt as þise leches ben wont forto hopen of seke folk, whan þei aperceyuen þat nature is redressed and wiþstondeþ to þe maladie.’
+
+Rather more than a generation after Chaucer wrote his Boëce, a metrical version of the De Consolatione was made by one ‘Johannes Capellanus,’ as he is called in the manuscript copies still extant in the British Museum and other libraries. The real name of the translator is, in the Christ Church MS. at Oxford, given as John Walton, Canon of Osney [Oxford], afterwards Sub-dean of York. He is said to have translated the De Consolatione in 1410 at the request of Dame Elizabeth Berkeley. His version was printed for the first and only time in 1525, in The Boke of Comfort at the monastery of Tavistock. The first three books are in eight-line stanzas of the type ababbcbc, and the last two in seven-lined Edition: current; Page: [xxxvi]stanzas, Chaucer’s ‘rhyme royal.’ A preface and a historical introduction in verse are prefixed to the whole work, and there is another short proem to the fourth and fifth books. The following lines from the first proem are interesting:—

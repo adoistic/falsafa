@@ -1,0 +1,21 @@
+---
+work_id: "6da00a83-f993-57d9-ba7d-256248f7a5ee"
+work_slug: "moses-maimonides-the-guide-for-the-perplexed-6da00a"
+work_title: The Guide for the Perplexed
+author_name: Moses Maimonides
+chapter_number: 183
+chapter_title: CHAPTER V
+chapter_slug: 183
+variant_id: "a53448a9-e07d-5423-b134-11e48264baa5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 644
+source_url: "https://oll.libertyfund.org/titles/friedlaender-a-guide-for-the-perplexed"
+translator: Online Library of Liberty edition
+---
+
+It is necessary to notice that the plural marot elohim, “visions of God,” is here used, and not the singular mareh, “vision,” for there were several things, of different kinds, that were perceived by the prophet. The following three things were perceived by him: the Ofannim, the Ḥayyot, and the man above the Hayyot. The description of each of these visions is introduced by the word va-ereh, “and I beheld.” For the account of the Ḥayyot, begins, “And I looked (va-ereh), and behold a whirlwind,” etc. (Ezek. i. 4). The account of the Ofannim begins: “Now as I beheld (va-ereh) the Ḥayyot, behold one Ofan upon the earth” (ver. 15). The vision of that which is above the Ḥayyot in order and rank begins: “And I saw (va-ereh) as the colour of the amber, etc., from the appearance of his loins even upward” (ver. 27). The word va-ereh, “and I beheld,” only occurs these three times in the description of the Mercabah. The doctors of the Mishnah have already explained this fact, and my attention was called to it by their remarks. Edition: current; Page: [258] For they said that only the two first visions, namely, that of the Ḥayyot and the Ofannim, might be interpreted to others; but of the third vision, viz., that of the ḥashmal and all that is connected with it, only the heads of the sections may be taught. Rabbi [Jehudah], the Holy, is of opinion that all the three visions are called ma‘aseh mercabah, and nothing but the heads of the sections could be communicated to others. The exact words of the discussion are as follows:—Where does maaseh mercabhah end? Rabbi says, with the last va-ereh; Rabbi Yiẓḥak says it ends at the word ḥashmal (ver. 27). The portion from va-ereh to ḥashmal may be fully taught; of that which follows, only the heads of the sections; according to some it is the passage from va-ereh to ḥashmal, of which the heads of the sections may be taught, but that which follows may only be studied by those who possess the capacity, whilst those that cannot study it by themselves must leave it.—It is clear from the words of our Sages that different visions are described, as may also be inferred from the repetition of the word va-ereh, and that these visions are different from each other in degree; the last and highest of them is the vision commencing, “And I saw as the colour of ḥashmal”; that is to say, the divided figure of the man, described as “the appearance of fire, etc., from the appearance of his loins even upward, and from the appearance of his loins even downward,” etc. There is a difference of opinion among our Sages whether it is permitted to give by way of hints an exposition of any part of this third vision, or whether it is prohibited even to teach of it the heads of the sections, so that only the wise can arrive at understanding it by their own studies. You will also notice a difference of opinion among our Sages in reference to the two first visions, viz., that of the Ḥayyot and that of the Ofannim whether these may be taught explicitly or only by way of hints, dark sayings, and heads of sections. You must also notice the order of these three visions. First comes the vision of the Ḥayyot, because they are first in rank and in the causal relation, as it is said, “For the spirit of the Ḥayyah was in the Ofannim,” and also for other reasons. The vision of the Ofannim [comes next, and] is followed by one which is higher than the Ḥayyot, as has been shown. The cause of this arrangement is, that in study the first two must necessarily precede the third, and in fact they lead to it.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 6,
+  "chapter_title": "§ 3.: Judgment and Belief in some Cases precede Simple Apprehension",
+  "chapter_slug": "06-3-judgment-and-belief-in-some-cases-precede-simple",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "87d35e04-ab6b-5116-91de-aab68e8fa449",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 237,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-a-letter-to-grover-cleveland-13d19d",
+  "work_title": "A Letter to Grover Cleveland",
+  "chapter_number": 26,
+  "chapter_title": "The Circular Letter, From the Convention of the State of New York to the Governors of the several States in the Union.",
+  "chapter_slug": "26-the-circular-letter-from-the-convention-of-the-sta",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ea2fa6f-ed85-543a-9d54-770ca388bc96",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1630,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-a-letter-to-grover-cleveland-1886"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-study-of-sociology-8d5e18",
+  "work_title": "The Study of Sociology",
+  "chapter_number": 2,
+  "chapter_title": "our need of it.",
+  "chapter_slug": "02-our-need-of-it",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f3ac18c2-a388-5dee-a628-d07055f50918",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8026,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-study-of-sociology-1873"
+    }
+  ]
+}

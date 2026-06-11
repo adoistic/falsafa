@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 33,
+  "chapter_title": "§ 22.: The necessity of the universal agreement that is thought in a judgement of taste is a subjective necessity, which",
+  "chapter_slug": "33-22-the-necessity-of-the-universal-agreement-that-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ccd5ac35-0890-556d-a774-31d19e5cae25",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 412,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

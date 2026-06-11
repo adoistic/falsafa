@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-social-statics-32e645",
+  "work_title": "Social Statics",
+  "chapter_number": 22,
+  "chapter_title": "LEMMA II.",
+  "chapter_slug": "22-lemma-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "490cb8e1-1c1a-545d-bc90-ac86bc9b8e38",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 711,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+    }
+  ]
+}

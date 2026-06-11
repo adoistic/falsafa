@@ -1,0 +1,26 @@
+{
+  "work_slug": "eli-f-heckscher-the-continental-system-an-econom-250a7b",
+  "work_title": "The Continental System: An Economic Interpretation",
+  "chapter_number": 73,
+  "chapter_title": "Prize Decree (January 12, 1810)",
+  "chapter_slug": "73-prize-decree-january-12-1810",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "91d5237e-2803-5583-bff0-cff6f215b51f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 636,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+    }
+  ]
+}

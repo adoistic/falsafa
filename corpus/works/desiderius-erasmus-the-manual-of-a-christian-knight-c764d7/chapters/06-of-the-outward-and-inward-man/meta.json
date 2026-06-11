@@ -1,0 +1,26 @@
+{
+  "work_slug": "desiderius-erasmus-the-manual-of-a-christian-knight-c764d7",
+  "work_title": "The Manual of a Christian Knight (Enchiridion)",
+  "chapter_number": 6,
+  "chapter_title": "Of the outward and inward man.",
+  "chapter_slug": "06-of-the-outward-and-inward-man",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "027473b5-aaaf-5b1b-aa91-61ab1f70dd0b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2095,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/erasmus-the-manual-of-a-christian-knight"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
+  "work_title": "Grundsätze der Volkswirtschaftslehre",
+  "chapter_number": 40,
+  "chapter_title": "b) Wirkung der von den Concurrenten im Anbote zur Veräusserung gebrachten Quantitäten einer Waare auf die Preisbildung, ",
+  "chapter_slug": "40-b-wirkung-der-von-den-concurrenten-im-anbote-zur-v",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a3affe0-483a-526d-a4df-0871ee2a6944",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 605,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/menger-grundsatze-der-volkswirtschaftslehre"
+    }
+  ]
+}

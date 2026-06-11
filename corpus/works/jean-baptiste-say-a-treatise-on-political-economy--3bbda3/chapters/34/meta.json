@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 34,
+  "chapter_title": "SECTION VI.: Of the reason why Money is neither a Sign nor a Measure.",
+  "chapter_slug": "34",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14fbfffc-e51c-5df0-9984-9cf1f09e6af6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3798,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-the-principles-of-psychology-794dba",
+  "work_title": "The Principles of Psychology",
+  "chapter_number": 48,
+  "chapter_title": "CHAPTER II.: THE LAW OF INTELLIGENCE.",
+  "chapter_slug": "48",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f892821-c5cb-5f5b-b4d0-e85f0c5f778a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5296,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-the-principles-of-psychology-1855"
+    }
+  ]
+}

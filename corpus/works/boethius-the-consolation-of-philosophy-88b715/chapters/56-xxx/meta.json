@@ -1,0 +1,26 @@
+{
+  "work_slug": "boethius-the-consolation-of-philosophy-88b715",
+  "work_title": "The Consolation of Philosophy",
+  "chapter_number": 56,
+  "chapter_title": "XXX",
+  "chapter_slug": "56-xxx",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f439a8e5-f8a0-5d21-9b6a-e835e54db873",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 662,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sedgefield-the-consolation-of-philosophy"
+    }
+  ]
+}

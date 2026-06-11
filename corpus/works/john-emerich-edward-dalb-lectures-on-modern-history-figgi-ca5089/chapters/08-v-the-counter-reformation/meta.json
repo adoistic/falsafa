@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
+  "work_title": "Lectures on Modern History (Figgis ed.)",
+  "chapter_number": 8,
+  "chapter_title": "V: THE COUNTER–REFORMATION",
+  "chapter_slug": "08-v-the-counter-reformation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9a3adc0c-61e1-511c-b204-476a7f0a268d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6055,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 27,
+  "chapter_title": "Chapter XV: MONOPOLISTIC COMPETITION",
+  "chapter_slug": "27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c4bb13e5-92fb-5c51-a649-adab9d5ef011",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 994,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

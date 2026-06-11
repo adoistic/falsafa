@@ -1,0 +1,26 @@
+{
+  "work_slug": "sir-frederick-pollock-the-law-of-torts-eb9423",
+  "work_title": "The Law of Torts",
+  "chapter_number": 30,
+  "chapter_title": "2.—: Defamation in general.",
+  "chapter_slug": "30-2-defamation-in-general",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc9750af-4139-5339-a814-6b468fc4fd6c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1596,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pollock-the-law-of-torts-4th-ed"
+    }
+  ]
+}

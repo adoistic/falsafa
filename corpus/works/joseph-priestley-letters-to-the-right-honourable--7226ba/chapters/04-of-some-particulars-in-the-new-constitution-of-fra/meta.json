@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-priestley-letters-to-the-right-honourable--7226ba",
+  "work_title": "Letters to the Right Honourable Edmund Burke",
+  "chapter_number": 4,
+  "chapter_title": "Of some Particulars in the new Constitution of France, and some Circumstances attending the Dissolution of the old one.",
+  "chapter_slug": "04-of-some-particulars-in-the-new-constitution-of-fra",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fb06223a-b747-56fc-9159-4b6f1da1b6bf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2748,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/priestley-letters-to-the-right-honourable-edmund-burke"
+    }
+  ]
+}

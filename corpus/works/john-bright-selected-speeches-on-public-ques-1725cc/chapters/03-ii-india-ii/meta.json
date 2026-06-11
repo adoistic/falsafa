@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-bright-selected-speeches-on-public-ques-1725cc",
+  "work_title": "Selected Speeches on Public Questions",
+  "chapter_number": 3,
+  "chapter_title": "II: INDIA—II",
+  "chapter_slug": "03-ii-india-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9032776b-f6e9-57a4-8150-056979b9547a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5758,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bright-selected-speeches-of-the-rt-hon-john-bright-m-p-on-public-questions"
+    }
+  ]
+}

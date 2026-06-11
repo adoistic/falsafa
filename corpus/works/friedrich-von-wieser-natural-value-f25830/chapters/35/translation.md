@@ -1,0 +1,31 @@
+---
+work_id: "f25830ec-af58-5aa2-bca1-8f4eca049ec8"
+work_slug: "friedrich-von-wieser-natural-value-f25830"
+work_title: Natural Value
+author_name: Friedrich von Wieser
+chapter_number: 35
+chapter_title: "CHAPTER XIV: ricardo's differential rent: the first part"
+chapter_slug: 35
+variant_id: "781c33de-396f-500f-85dc-4e55470cfeda"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 971
+source_url: "https://oll.libertyfund.org/titles/smart-natural-value"
+translator: Online Library of Liberty edition
+---
+
+Ricardo, in his famous Principles, takes up what we may call Contract rent, the rent which emerges when an owner lets his land. It is generally granted that the law of this kind of rent is true also, in all essential respects, of that income which the owner of the land could obtain without letting it, by selling its products. What has been said as to imputation has probably shown that the analogy must be carried still further. The personal income which land yields is, in the last resort, dependent upon the fact that the land in question yields a return such that, after the shares of capital and labour are deducted, there remains a share which must, on natural laws, be imputed to the land. The problem of land rent, conceived of primarily as a problem ef division of income, in the last resort contains also a problem of distribution of return. As a problem of distribution of return it will emerge in the communistic state just as it does under existing social conditions, and in both cases the solution is fundamentally the same.
+
+Ricardo begins his statement with a disquisition upon primitive historical conditions. So long as population is thin, and it is unnecessary to cultivate even all its rich and fertile land in order to provide food, no single piece of land can obtain a rent. Who “would pay for the use of land when Edition: current; Page: [115] there was an abundant quantity not yet appropriated, and, therefore, at the disposal of whosoever might choose to cultivate it ” ? Should, however, population increase to a degree which necessitates the cultivation of land of the second quality, rent immediately commences on that of the first quality. Land of the second quality would require a greater expenditure of costs, in order to produce the same return as that of the first quality; it can therefore be cultivated only when the increased demand has raised the price of agricultural produce enough to cover the necessary costs. But this price leaves a surplus to land of the first quality, according to the saving of costs which it allows. If, further, land of the third quality requires to be cultivated, a rent emerges for that of the second quality, while the rent for land of the first quality is increased; and thus every new and poorer quality which is pressed into use creates a rent for those above it, measured by the difference in quality.
+
+To put it into exact figures. Suppose the value of wheat is 40s. per quarter, and that, with an expenditure of £200, the cultivation of a piece of land
+
+a private owner will confine himself to the cultivation of the two better classes of land, and will calculate to himself from the first class a rent of £40.
+
+In the communistic state the result will be the same, granting the same assumptions. So long as land of the first class is to be had in superfluity, or is “ free,” no share in the return which it helps to produce will be imputed to it. And why ? Because people have still the choice as to which of the many lands of equal quality they will cultivate, and because they are dependent upon no single one of these. Land of the second quality is cultivated only when that of the first is all under cultivation, and when, at the same time, the demand for land produce has risen sufficiently to meet the increased cost. When, by the higher value of the return, however, the increased cost on the second class of land has been thus covered, there remains to the first class a surplus which must be attributed to the land as rent. The land and its better Edition: current; Page: [116] quality are indeed the “cause” of the surplus return. It is impossible to derive the surplus from the cost goods, seeing that similar amounts and qualities of costs have been spent on both classes of land. A very simple negative proof will confirm the propriety of this method of imputation. Suppose a piece of first-class land be left uncultivated, the surplus return will immediately disappear; the cost goods will be incapable of reproducing it elsewhere, because there is no other piece of land of the same quality to take its place. There is no lack of practical opportunity to establish this conclusion. In every question as to the utilising of such lands we have to be fully apprised that they guarantee such and such rent if properly cultivated, and that this rent will have to be given up if they are left entirely uncultivated or used in some other way. If e.g. we have to make a road, we shall soon know that it leads through lands of the first quality by its costing extra the whole amount of the rent. But why multiply examples? If we are to calculate at all in production, it must be in this way. Were we to refrain from reckoning the differential rent, it would mean that we disregarded the circumstance that land, as a matter of fact, is of different degrees of fertility; it would mean that we were quite indifferent whether we got much return or little.
+
+In the inventory of the communistic state the lands of better quality will be entered at an amount corresponding to the capitalisation of their rents. The agricultural officials will require to be made responsible for the return of a rent from these better lands corresponding to their quality. In fact, in all those connections it will be impossible for the communistic state to act differently from any large landowner of the present day, who tries to manage his property economically, and to have an effectual control over his servants.

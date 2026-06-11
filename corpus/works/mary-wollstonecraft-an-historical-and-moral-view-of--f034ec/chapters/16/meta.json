@@ -1,0 +1,26 @@
+{
+  "work_slug": "mary-wollstonecraft-an-historical-and-moral-view-of--f034ec",
+  "work_title": "An Historical and Moral View of the French Revolution",
+  "chapter_number": 16,
+  "chapter_title": "CHAPTER III.",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "35052fe7-4fcf-5535-95e1-e8aa11dea6a3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1917,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wollstonecraft-an-historical-and-moral-view-of-the-origin-and-progress-of-the-french-revolution"
+    }
+  ]
+}

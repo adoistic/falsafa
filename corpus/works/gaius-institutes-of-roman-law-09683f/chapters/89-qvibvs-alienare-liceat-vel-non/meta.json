@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 89,
+  "chapter_title": "QVIBVS ALIENARE LICEAT VEL NON.",
+  "chapter_slug": "89-qvibvs-alienare-liceat-vel-non",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37d542ca-54f5-5f2f-808d-b269b8c6c8e9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1091,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

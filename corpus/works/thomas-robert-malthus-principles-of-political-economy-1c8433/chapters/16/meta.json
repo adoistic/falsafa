@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-robert-malthus-principles-of-political-economy-1c8433",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 16,
+  "chapter_title": "Section IV.—: Of the Causes which tend to lower Rents.",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2af78b88-56b8-5213-b5fe-b6112d299a12",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1146,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/malthus-principles-of-political-economy"
+    }
+  ]
+}

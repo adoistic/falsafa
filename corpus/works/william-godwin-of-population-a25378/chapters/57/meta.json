@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-godwin-of-population-a25378",
+  "work_title": "Of Population",
+  "chapter_number": 57,
+  "chapter_title": "CHAPTER III.: of the doctrines of the essay on population as they affect the principles of morality.",
+  "chapter_slug": "57",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "39331b4a-3baf-59e9-baf9-6008ef875963",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2411,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 44,
+  "chapter_title": "III.: INJUSTICE OF ARISTOCRATIC TAXATION.",
+  "chapter_slug": "44-iii-injustice-of-aristocratic-taxation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8918ea1f-8488-5592-a8b8-6663db51a26b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2293,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

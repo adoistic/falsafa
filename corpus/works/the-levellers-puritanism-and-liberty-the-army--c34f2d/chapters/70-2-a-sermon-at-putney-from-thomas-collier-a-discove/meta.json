@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 70,
+  "chapter_title": "2.: A Sermon at Putney From Thomas Collier, A Discovery of the New Creation (preached at the Headquarters, Putney, 29th ",
+  "chapter_slug": "70-2-a-sermon-at-putney-from-thomas-collier-a-discove",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b4f18264-c3e7-5112-94fa-454087d8d5a7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3580,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

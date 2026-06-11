@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a",
+  "work_title": "Magna Carta: A Commentary on the Great Charter of King John",
+  "chapter_number": 23,
+  "chapter_title": "II.: Previous Editions and Commentaries.",
+  "chapter_slug": "23-ii-previous-editions-and-commentaries",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0f7051d6-d84d-525b-90c8-4278ffa2a3f5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1994,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+    }
+  ]
+}

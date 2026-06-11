@@ -1,0 +1,71 @@
+---
+work_id: "3e1c3652-0c17-5735-963e-45174cee80b3"
+work_slug: "james-mill-elements-of-political-economy-3e1c36"
+work_title: Elements of Political Economy
+author_name: James Mill
+chapter_number: 31
+chapter_title: Section XVIII. Colonies
+chapter_slug: 31
+variant_id: "b8f062b2-1fc3-5c82-a62a-c23d26065462"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2102
+source_url: "https://oll.libertyfund.org/titles/mill-elements-of-political-economy-3rd-ed-1844"
+translator: Online Library of Liberty edition
+---
+
+Among the expedients which have been made use of, to force into particular channels a greater quantity of the means of production, than would have flowed into them of their own accord; colonies are a subject of sufficient importance to require a particular consideration.
+
+The only point of colonial policy, which it is here necessary to consider, is that of trade with the colonies. And the question is, whether any peculiar advantage may be derived from it.
+
+With respect to colonies, as with respect to foreign countries, the proposition will, doubtless, be admitted, that, whatever advantage is derived from trading with them, consists in what is received from them, not in what is sent; because that, if not followed by a return, would be altogether loss.
+
+The return from them is either money or commodities. The reader is by this time fully aware that a country derives no advantage from receiving money, more than from receiving any other species of commodity. It is also plain that where the colony has not mines of the precious metal, it cannot, under the monopoly of the mother country, have money, or any thing else, beside its own productions, to send.
+
+It is needless to consider the case of free trade with a colony, because that falls under the case or trade with any foreign country.
+
+The monopoly, which a mother country may reserve to herself, of the trade with her colonies, is of two sorts.
+
+First of all, she may trade with her colonies, by means of an exclusive company. In this case, the colony has no purchaser, to whom she is allowed to sell any thing, but the exclusive company; and no other seller, from whom she is allowed to buy any thing. The company, therefore, can make her buy, as dear as it pleases, the goods which the mother country sends to her, and sell, as cheap as it pleases, the goods which she sends to the mother country. In other words, the colony may, in these circumstances, be obliged to give for the produce of a certain quantity of the labour of the mother country, a much greater quantity of goods than the mother country could obtain, with the same quantity, from any other country, or from the colony in a state of freedom.
+
+The cases of a trade in these circumstances are two: the first, where the colony receives from the mother country, luxuries, comforts: the other, where she receives necessaries; either the necessaries of life, or the necessaries of industry, as iron, &c.
+
+In that case, in which the colony receives luxuries and comforts only from the mother country, there is a limit to the degree in which the mother country is enabled to profit by the labour of the colony. The colony may decline receiving such luxuries or comforts, if obliged to sacrifice for them too great a quantity of the produce of her labour, and may think it better to employ that great proportion of her labour, in providing such luxuries and comforts as she herself is capable of producing.
+
+If, however, the colony is dependant for necessaries upon the mother country, the exclusive company exercises over the colony a power altogether despotic. It may compel her to give the whole produce of her labour, for no more of the necessaries in question, than what is just sufficient to enable the population of the colony to live. If it is the necessaries of life, which the colony receives, the conclusion is obvious. If it is commodities, such as iron, and instruments of iron, without which her labour cannot be productively employed, the result is precisely the same. She may be made to pay for these articles so much of the whole produce of her labour, that nothing but what is necessary to keep the population alive may remain. It would be the interest of the mother country, not to lessen the population; because, with the population, the produce would be lessened, and hence the quantity of commodities which the mother country could receive.
+
+Instead, however, of trading with her colonies by means of an exclusive company, the mother country may leave the trade open to all her own merchants, only prohibiting the colony from trading with the merchants of any other country. In this case, the competition of the merchants in the mother country reduces the price of all the articles received by the colony, as low as they can be afforded—in other words, as low as in the mother country itself, allowance being made for the expense of carrying them. If it be said that the colonies afford a market; I reply, that the capital, which supplies commodities for that market, would still prepare commodities, if the colonies were annihilated; and those commodities would still find consumers. The labour and capital of a country cannot prepare more than the country will be willing to consume. Every individual has a desire to consume, either productively or unproductively, whatever he receives. Every country, therefore, contains within itself a market for all that it can produce. This will be made still more evident, when the subject of consumption, the cause and measure of markets, comes under consideration. There is, therefore, no advantage whatsoever derived, under freedom of competition, from that part of the trade with a colony which consists in supplying it with goods, since no more is gained by it, than such ordinary profits of stock as would have been gained if no such trade had existed. It is nevertheless true that the colony may lose by such a traffic, if the goods, which she is thus compelled to purchase of the mother country, might have been purchased cheaper in other countries.
+
+If there be any peculiar advantage, therefore, to the mother country, it must be derived from the cheapness of the goods, with which the colony supplies her. It is evident, that if the quantity of goods, sugar, for example, which the colony sends to the mother country, is so great as to glut the mother country; that is to supply its demand beyond the measure of other countries, and make the price of them in the mother country lower than it is in other countries, the mother country profits by compelling the colony to bring its goods exclusively to her market, since she would have to pay for them as high as other countries, if the people of the colony were at liberty to sell wherever they could obtain the greatest price.
+
+This advantage, if drawn by the mother country, would be drawn at the expense of the colony. In free trade, both parties gain. In the advantage produced by forcing, whatever is gained by the one party is lost by the other. The mother country, in compelling the colony to sell goods cheaper to her than she might sell them to other countries, merely imposes upon her a tribute; not direct, indeed, but not the less real because it is disguised.
+
+If any advantage is derived from restraining, any otherwise than by an exclusive company, the trade with the colonies, it must consist in forcing the colonies to sell to none but the mother country, not in forcing them to buy from none but the mother country. A great improvement, therefore, in colonial policy would be, to throw open the supply of the colonies, permitting them to purchase the goods which they want, wherever they could find the most favourable market, only restraining them in the sale of their goods: allowing them to buy wherever they pleased, permitting them to sell to none but the mother country.
+
+It is at the same time to be observed, that if the merchants of the mother country have freedom to export the goods which are derived from the colonies, the price of these goods will be raised in their own country to the level of the price in other countries. The competition of the merchants will, also, raise the price of the goods to a correspondent height in the colonies; and thus the benefit to the mother country is lost.
+
+Treaties of commerce are sometimes concluded, for the purpose of limiting the freedom of trade. One country can be limited to another in but two ways; either in its purchases, or its sales. Suppose that Great Britain binds some other country to purchase certain commodities exclusively from her; Great Britain can derive no advantage from such a treaty. The competition of her merchants will make them sell those commodities as cheap to the merchants of that country, as to their own countrymen. Their stock is not more profitably employed than it would be if no such trade existed. There are cases in which a country may gain by binding another country to sell to none but itself. If one country is bound to sell no commodities whatsoever, except to another particular country; this is the same case, exactly, with that of a colony bound to sell to none but the mother country. As no free country, however, is likely to bind itself to sell none of its commodities except to one other, this is not a case which we need to regard as practicable or real.
+
+One country may bind itself to sell exclusively to another particular country, not all the articles it has for foreign sale, but only some of them.
+
+These may be articles which yield nothing, even in a state of freedom, but the ordinary profits of stock; as cloth, hardware, hats, &c.: or they may be articles which yield something over and above the ordinary profits of stock; as corn, wine, minerals, &c. which are the source of rent.
+
+One country can derive no advantage from compelling another to sell to it, exclusively, articles of the first sort. If the price which the favoured country pays for the goods is not sufficient to afford the ordinary profits of stock, they will not be produced. If the price which it pays is sufficient to afford the ordinary profits of stock, it would, at that price, obtain the goods, without any treaty of restriction.
+
+The case is different, where the goods yield something, as rent, or the profits of a monopoly, over and above the profits of stock. The quantity which may be sent in this case to the favoured country, may sink there the price of the restricted commodity lower than it is in the neighbouring countries; and lower than the restricted country would, if not under restriction, be enabled to sell it in those countries. To this extent, and to this only, can one country benefit, by confining the trade of another to itself. The restriction may operate to a diminution of the profits of a monopolized commodity, or a diminution of rent.
+
+There is one mode of presenting this subject, which is apt to puzzle a mind not accustomed to trace the intricacies of this science.
+
+Suppose two countries, A and B, of which A is bound by treaty, or otherwise, to receive all its shoes from B, and to sell to B all its sugars: Suppose, also, that A could, if left at liberty, obtain its shoes 50 per cent. cheaper from some other country; in that case, it may for a moment appear, that B, obtains the sugars which it buys of A, with 50 per cent. less of its own labour, than it would if A were allowed to purchase where it pleased.
+
+If B paid for the supposed sugars in shoes, it would, no doubt, pay 50 per cent. more in the case of a free trade.
+
+But if there were any other article with which it could purchase those sugars, and which it could afford as cheap as any other country, it would lose nothing in the case of a free trade; it would purchase the same quantity of sugar with the produce of the same quantity of labour as before; only, that produce would be, not shoes, but some other article.
+
+That there would be articles which B could afford as cheap as any other country, is certain, because otherwise it could have no foreign trade.
+
+It may be said, however, that though B might have articles which it could sell as cheap as other countries, they might not be in demand in the country which produced the sugars. But if shoes only were in demand in the colonies, those other articles could purchase shoes where they were cheapest; and thus obtain the same quantity of sugar, in the free, as in the restricted state of the trade.

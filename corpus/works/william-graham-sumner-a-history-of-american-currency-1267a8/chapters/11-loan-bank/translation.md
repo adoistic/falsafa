@@ -1,0 +1,51 @@
+---
+work_id: "1267a8af-7d34-52a2-82a4-4f5aa4ee92c5"
+work_slug: "william-graham-sumner-a-history-of-american-currency-1267a8"
+work_title: A History of American Currency
+author_name: William Graham Sumner
+chapter_number: 11
+chapter_title: LOAN BANK.
+chapter_slug: "11-loan-bank"
+variant_id: "33cf0415-5ff1-5c72-adb7-5c80f4751526"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1391
+source_url: "https://oll.libertyfund.org/titles/sumner-a-history-of-american-currency"
+translator: Online Library of Liberty edition
+---
+
+There was a great clamor for more paper money of some sort, and those who opposed all paper joined those who opposed the Bank in carrying a scheme for a public issue. This was the first of the loan banks which were created in nearly if not quite all the colonies before the Revolution. In the process of time certain new developments Edition: current; Page: [19] were added, which were supposed to perfect the system. To take one of the most perfect specimens, which enjoyed the approval of Franklin, and which was made in Pennsylvania in 1723, the plan was as follows: the issue was for £15,000, put in the hands of commissioners in each county, according to the taxable assessment. The commissioners loaned the bills at 5 per cent. on mortgage of land. The loan was for 16 years, payable 1/16 annually, and the interest was to defray the expenses of government. Instalments repaid during the first 10 years of the period were to be loaned out again only for the remainder of the period.
+
+Rhode Island was the most unfortunate of all the colonies in her currency legislation. She kept peag longer than any of the others, and plunged into paper issues more recklessly than any. The loan bank system she tested to the bitter end.
+
+The first “bank” in that colony was for,£30,000, issued in 1715, for 10 years. In 1728 the time was extended to 13 years, and then 10 years more were allowed for the repayment, without interest beyond the first 13 years. In 1721 a second bank was issued of £40,000 for 5 years, extended in 1728 to 13 years, interest payable in hemp or flax. It was intended to act as a bounty on those articles. In 1731 the same colony laid a bounty on flax, hemp, whale oil, whale bone, and codfish.
+
+As this system of public loans is now advocated by the so-called “ labor-reformers,” it is especially worth while to know that it has been subjected here to a full experiment, and what its results were. Hutchinson says that the people of Massachusetts must have wondered that no one had before hit upon this marvellous expedient for paying the expenses of government. The persons who obtained loans in the ninth and tenth year of the bank period complained that they must pay back in seven or Edition: current; Page: [21] six years, whereas others enjoyed the loan for sixteen years. The banks were accordingly “ continued,” or renewed continually. New claimants who desired to come under this shower of wealth clamored for new banks on the ground of “justice” and “equality.” All who had received loans joined as a compact body in favor of further issues. All new issues to others depreciated the currency, and enabled them to pay back more easily. However, they did not in many cases pay at all, either principal or interest. Having accumulated large arrears they decamped, and, when process issued, could not be found. The mortgaged estates were found entangled in inextricable confusion. The legislatures, composed largely of men in the system, would allow no extreme measures. Foreclosures were rare, and did not pay for the trouble and excitement they caused. The paper became a political issue, and Douglas says the parties were no longer Whig or Tory, but Creditors and Debtors—the latter in the majority. Felt says that some of the loans of 1714 in Massachusetts, made for five years, were out over thirty years.
+
+In 1715 there was a petition from Boston merchants for more paper, which was laid over.
+
+Governor Shute recommended the Assembly to take measures to revive the low state of trade. They issued £100,000 of bills, “because bills were scarce.” These were issued on loan. Silver rose to 125. per oz.
+
+South Carolina had issued bills in 1712 for war expenses. “This emission fell a third the first year, a half the second, and continued to depreciate.”
+
+Felt quotes a writer who said: “The evils of litigation abound. People of estates cannot raise money, unless they dispose of them at half their value. Individuals depending on their labor are forced to take for their toil from one-half to two-thirds in goods, while their creditors imperiously demand cash of them. The private bank does not receive encouragement from the legislative authorities. £50,000 ought to be laid out for building a bridge over Charles river, so that workmen might be employed and currency Edition: current; Page: [23] enlarged, as well as the public accommodated, and ruin will come unless more bills of credit are emitted.” This was in 1719.
+
+In 1720 trade was stagnant, and there was a great cry for more bills. Let it be observed how this complaint is heard again every four or five years, although the amount of paper was continually increasing. It is the best instance in history of the way in which a country “grows up” to any amount of currency. Here was a sparse population in a new country with untouched resources, and it seemed to them necessary to have recourse to artificial issues of currency to “make business brisk;” to get up enterprises for the sake of “ making work;” and to lay bounties on products in order to enable the people to carry on production. The distress was real, but it came from turning their backs on what nature offered them gratuitously, and violating the laws by which they might have profited by these gifts.
+
+The commissioners of the New England colonies passed a resolution deprecating further issues of paper, but it had no effect. Widows, orphans, Edition: current; Page: [24] and salaried men suffered greatly from the depreciation. Hutchinson, referring to the temptation to trustees, says: “ The influence which a bad currency has on the morals of a people is greater than is generally imagined. Numbers of schemes for public and private emissions were proposed as remedies. The only effectual one, the utter abolition of the bills, was omitted.” Expeditions were favored for the purpose of bringing about issues of paper, and public works were advocated for the same reason. In 1721 Massachusetts issued £100,000, and forbade buying and selling silver. Hutchinson says: “ Such an act can no more be executed than an act to stop the ebbing and flowing of the sea.” £500 in paper were now equal to.£180 sterling.
+
+In 1720 Parliament passed an act forbidding any companies to carry on banking without a charter.
+
+In the same year the treasury of Massachusetts ceased to allow 5 per cent. premium on bills. £5,000 were issued in this year, redeemable from 1726 to 1730.
+
+The royal instructions forbade the governor to Edition: current; Page: [25] sign any acts for emitting bills, and the history of the next twenty years is a story of long conflicts between successive governors and the Lower House on this question. Governor Shute gave it up and went home. Lt.-Gov. Dummer signed a bill issuing £30,000 in 1724.
+
+In 1727 Wood's patent for coining pennies of English value was issued. They were to be so rated in the paper as to circulate. They were very unpopular because they reflected on the paper and marked its depreciation. In this year £50,000 were issued to help redeem the issue of 1716. On this ground Dummer signed it. The council also wanted to redeem the £30,000 issue of 1724, but the House would not agree. In 1728 the redemption of the £100,000 loan being enforced by orders from England, £60,000 more were allowed, “because bills were scarce.”
+
+Hutchinson comments on this: “It would be just as rational, when the blood in the human body is in a putrid and corrupt state, to increase the quantity by luxurious living, in order to restore it to health.” Interest was now Edition: current; Page: [26] charged on the loan at 4 per cent., because low interest encourages business. The natural rate was 8 per cent. A great speculation in unoccupied lands had sprung up in the last year Enough new towns were laid out for the whole existing population.
+
+During the administrations of Burnet and Belcher the war over paper issues went on, but the restriction was enforced to issue only for government expenses. The injunction was also to reduce the outstanding amount to £30,000, but this was not obeyed.

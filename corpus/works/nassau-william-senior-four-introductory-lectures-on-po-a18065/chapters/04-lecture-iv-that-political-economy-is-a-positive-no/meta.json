@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-four-introductory-lectures-on-po-a18065",
+  "work_title": "Four Introductory Lectures on Political Economy",
+  "chapter_number": 4,
+  "chapter_title": "LECTURE IV.: THAT POLITICAL ECONOMY IS A POSITIVE, NOT AN HYPOTHETICAL SCIENCE.—DEFINITION OF WEALTH.",
+  "chapter_slug": "04-lecture-iv-that-political-economy-is-a-positive-no",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "78155fc9-2deb-5510-8394-7d8b92ab4719",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5233,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-four-introductory-lectures-on-political-economy"
+    }
+  ]
+}

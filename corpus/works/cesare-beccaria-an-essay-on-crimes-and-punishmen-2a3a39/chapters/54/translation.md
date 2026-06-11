@@ -1,0 +1,47 @@
+---
+work_id: "2a3a3942-8c47-5947-addf-a3a17979adcb"
+work_slug: "cesare-beccaria-an-essay-on-crimes-and-punishmen-2a3a39"
+work_title: An Essay on Crimes and Punishments
+author_name: Cesare Beccaria
+chapter_number: 54
+chapter_title: "CHAPTER V.: OF PROFANATION."
+chapter_slug: 54
+variant_id: "7f23f929-52e7-5ba0-9291-678271c7da05"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 948
+source_url: "https://oll.libertyfund.org/titles/voltaire-an-essay-on-crimes-and-punishments"
+translator: Online Library of Liberty edition
+---
+
+Lewis IX. king of France, who for his virtues was numbered among the saints, made a law against blasphemers. He condemned them to a new punishment; their tongues were pierced with a hot iron. It was a kind of retaliation; the sinning member suffering the punishment. But it was somewhat difficult to determine what was blasphemy. Expressions frequently escape from a man in a passion, from joy, or even in conversation, which are merely expletives, such as the sela and the vab of the Hebrews, the pol and the Edition: current; Page: [176] ædepol of the Latins, as also per Deos immortales, an expression frequently used, without the least intention of swearing by the immortal gods.
+
+The words which are called oaths and blasphemy, are commonly vague terms that may be variously interpreted. The law by which they are punished, seems to be founded on that of the Jews, which says: Thou shalt not take the name of the Lord thy God in vain. The best commentators are of opinion, that this commandment relates to perjury; and there is the more reason to believe them right, as the word shave, which is translated in vain, properly signifies perjury. Now, what analogy can there be between perjury and Cabo de Dios, Cadedis, Sangbleu, Ventrebleu, Corpo de Dio, etc.?
+
+It was customary with the Jews to swear by the life of God, as the Lord liveth: the phrase was common; so that it was lying in the name of God that was forbidden.
+
+Philip Augustus, in 1181, condemned the nobility who should pronounce the words which are softened in the terms Tetebleu, Ventrebleu, Corbleu, Sangbleu, to pay a fine, and the plebeians to be drowned. The first part of this law seems puerile, the latter abominable. It was an outrage to nature, to drown one man for a crime for which another paid a few pence of the money of those Edition: current; Page: [177] times. So that this law, like many other, remained unexecuted, especially when the king was excommunicated, and his kingdom interdicted by Pope Celestine III.
+
+Saint Lewis, transported with zeal, ordered indiscriminately, that whosoever should pronounce these indecent words, should have his tongue bored, or his upper lip cut off. A citizen of Paris, having suffered this punishment, complained to Pope Innocent IV. This pontiff remonstrated to the king that the punishment was too great for the crime, which however had no effect upon his majesty. Happy had it been for mankind, if the popes had never affected any other superiority over kings.
+
+The ordinance of Lewis XIV. says, “Those who shall be convicted of having sworn by, or blasphemed the holy name of God, of his most holy mother, or of his saints, shall, for the first offence, pay a fine; for the second, third, and fourth, a double, triple, and quadruple fine; for the fifth, shall be put in the stocks; for the sixth, shall stand in the pillory, and lose his upper lip; for the seventh, shall have his tongue cut out.”
+
+This law appears to be humane and just, as it inflicts a cruel punishment only on a seven-fold repetition, which can hardly be presumed.
+
+But with regard to more atrocious profanations, which are called Sacrilege, the criminal ordinance mentions only robbing of churches; it takes no notice of public impieties, perhaps because they were not supposed to happen, or were too difficult to specify. They are left therefore to the discretion of the judge; and yet nothing ought to be left to discretion.
+
+In such extraordinary cases, how is the judge to act? He should consider the age of the offender, the nature and degree of his offence, and particularly the necessity of a public example. Pro qualitate personæ, quoque rei conditione et temporis et ætatis et sexus, vel clementius statuendum. If the law does not expressly say that such a crime shall be punished with death, what judge shall think himself authorised to pronounce that sentence? If the law be silent; if nevertheless a punishment be required, the judge ought certainly, without hesitation, to decree the least severe, because he is a man.
+
+Sacrilegious profanations are never committed except by young debauchees. Would you punish them as severely as if they had murdered a brother? Their youth pleads in their favour. They are not suffered to dispose of their possessions, because they are supposed to want maturity Edition: current; Page: [179] of judgment, sufficient to foresee the consequences of an imprudent transaction. Is it not therefore natural to suppose, that they are incapable of foreseeing the consequences of their impiety?
+
+Would you treat a wild young man, who, in his phrenzy, had profaned a sacred image, without stealing it, with the same rigour that you punished a Brinvilliers, who poisoned his father and his whole family?
+
+There is no law against the unhappy youth, and you are determined to make one that shall condemn him to the severest punishment! He deserved chastisement, but did he deserve such excruciating torture, and the most horrible death?
+
+But he had offended God! True, most grievously. Imitate God in your proceedings against him. If he be penitent, God forgives him. Impose a penance, and let him be pardoned.
+
+Your illustrious Montesquieu hath said: It is our duty to honour the Deity, and not to revenge him. Let us weigh these words. They do not mean, that we should neglect the maintenance of public decorum; but, as the judicious author of the preceding Essay observes, that it is absurd for an insect to pretend to revenge the Supreme Being. A village magistrate, or the magistrate of a city, is neither a Moses nor a Joshua.

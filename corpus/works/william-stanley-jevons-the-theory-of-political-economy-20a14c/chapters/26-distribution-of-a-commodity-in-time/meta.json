@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-theory-of-political-economy-20a14c",
+  "work_title": "The Theory of Political Economy",
+  "chapter_number": 26,
+  "chapter_title": "Distribution of a Commodity in Time.",
+  "chapter_slug": "26-distribution-of-a-commodity-in-time",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "04686a92-ed1a-5278-9d0e-6a56aa1239c6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 855,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-theory-of-political-economy"
+    }
+  ]
+}

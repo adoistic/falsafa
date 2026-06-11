@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 32,
+  "chapter_title": "VIII.: the knights of labor.",
+  "chapter_slug": "32-viii-the-knights-of-labor",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "193d27b1-643e-5575-bde3-2cdf64690ac5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3839,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

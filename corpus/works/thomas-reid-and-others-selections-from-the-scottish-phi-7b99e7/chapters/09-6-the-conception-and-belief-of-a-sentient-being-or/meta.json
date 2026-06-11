@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
+  "work_title": "Selections from the Scottish Philosophy of Common Sense",
+  "chapter_number": 9,
+  "chapter_title": "§ 6.: The Conception and Belief of a Sentient Being or Mind is suggested by our Constitution—The Notion of Relations not",
+  "chapter_slug": "09-6-the-conception-and-belief-of-a-sentient-being-or",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f4b3babe-df41-5f31-a653-a860ed86fcf5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1038,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/johnston-selections-from-the-scottish-philosophy-of-common-sense"
+    }
+  ]
+}

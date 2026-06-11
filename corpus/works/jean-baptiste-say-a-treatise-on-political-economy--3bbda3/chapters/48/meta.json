@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 48,
+  "chapter_title": "BOOK II, CHAPTER IV: OF NOMINAL VARIATION OF PRICE, AND OF THE PECULIAR VALUE OF BULLION AND OF COIN.",
+  "chapter_slug": "48",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "85ccc7be-7e8c-52d7-aee9-a9904b87118c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3345,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

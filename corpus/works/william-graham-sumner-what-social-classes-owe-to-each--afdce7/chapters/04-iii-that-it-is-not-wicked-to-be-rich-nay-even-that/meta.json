@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-what-social-classes-owe-to-each--afdce7",
+  "work_title": "What Social Classes Owe to Each Other",
+  "chapter_number": 4,
+  "chapter_title": "III.: THAT IT IS NOT WICKED TO BE RICH; NAY, EVEN, THAT IT IS NOT WICKED TO BE RICHER THAN ONE'S NEIGHBOR.",
+  "chapter_slug": "04-iii-that-it-is-not-wicked-to-be-rich-nay-even-that",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ec04d60-8611-53aa-b84f-89394f7d429f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3027,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-what-social-classes-owe-to-each-other"
+    }
+  ]
+}

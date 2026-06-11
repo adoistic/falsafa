@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 51,
+  "chapter_title": "Emigration",
+  "chapter_slug": "51-emigration",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0aa9e86e-90af-51ba-8da4-714d4fced4ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3090,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

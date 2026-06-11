@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 99,
+  "chapter_title": "VIII.: Silver the fittest material, hitherto known for money.",
+  "chapter_slug": "99-viii-silver-the-fittest-material-hitherto-known-fo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b51981e3-1e56-59e4-b4cc-36369f85e3de",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 447,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

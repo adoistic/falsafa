@@ -1,0 +1,39 @@
+---
+work_id: "5e6f3f7f-f894-5fc9-9823-164ea1f1c8aa"
+work_slug: "eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f"
+work_title: "Capital and Interest: A Critical History of Economical Theory"
+author_name: "Eugen von Böhm-Bawerk"
+chapter_number: 11
+chapter_title: "Book III, Chapter I: The Use of Capital"
+chapter_slug: 11
+variant_id: "f02cebc9-d41a-5c6b-8623-5860acdbfc18"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1005
+source_url: "https://oll.libertyfund.org/titles/smart-capital-and-interest-a-critical-history-of-economic-theory"
+translator: Online Library of Liberty edition
+---
+
+The Use theories are an offshoot of the Productivity theories, but an offshoot which quickly grew into an independent life of its own.
+
+They attach themselves directly to that idea on which the Productivity theories proper got into difficulties,—the idea that there is an exact causal connection between the value of products and the value of their means of production. If, as economists began to recognise, the value of every product is, as a rule, identical with the value of the means of production expended in making it, then every attempt to explain surplus value by the productive power of capital must fail; for the higher that power raises the value of the product, the higher must it raise the value of the capital itself as identical with it. The latter must follow the former with the fidelity of a shadow, and there should be no possibility of the slightest space between them.
+
+Nevertheless there is a space.
+
+This line of thought suggested almost of itself a new way of explanation. If, on the one hand, it is true that the value of every product is identical with the value of the means of production sacrificed in making it, and if, on the other hand, it is observed that, notwithstanding this, the product of capital is regularly greater than the value of the real capital thus sacrificed, the conviction almost forces itself on us that this real capital may not represent all the sacrifice that is made to obtain a product. Perhaps, besides this real capital, there is something else that must be expended at the same time; a something which claims a part of the value of the product,—the surplus value we are inquiring about.
+
+This Something was sought and found. Indeed, we might say that more than one was found. Three distinct opinions were put forward as to its nature; and out of the one fundamental idea there grew three distinct theories—the Use theory, the Abstinence theory, and the Labour theory. Of these the one that kept most closely by the Productivity theories, and indeed made its first appearance simply as an extension of them, is the Use theory.
+
+The fundamental idea of the Use theory is the following. Besides the substance of capital, the use (Gebrauch or Nutzung) of capital is an object of independent nature and of independent value. To obtain a return for capital it is not enough to sacrifice substance of capital alone; the use of the capital employed must be sacrificed also during the period of the production. Now since, as a matter of theory, the value of the product is equal to the sum of the values of the means of production spent in making it, and since, in conformity with this principle, the substance of capital and the use of capital, taken together, are equal to the value of the product, this product naturally must be greater than the value of the substance of capital by itself. In this way the phenomenon of surplus value is explained as being the share that falls to the part sacrifice, the "use of capital."
+
+This theory of course assumes that capital is productive, but less emphatically, and in a way that is quite free from ambiguity. It assumes that the accession of capital to a given amount of labour assists in obtaining a relatively greater product than labour, unsupported by capital, could obtain. It is not necessary, however, that the capitalist process of production on the whole, embracing as it does both the making and the employing of capital, should be profitable. If, e.g. a fisherman makes a net by 100 days' labour, and with the net catches 500 fish in the 100 days during which the net lasts, while another fisherman without any net has been able to catch three fish a day for the 200 days, evidently the total process has not been a profitable one. Notwithstanding the employment of capital, only 500 fish have been caught by an outlay of 200 days' labour, while in the other case 600 fish have been caught. Nevertheless, according to the Use theory—as also according to facts—the net once made must bear interest. For, once made, it helps to catch more fish than could be caught without a net, and this fact is sufficient to assure the surplus return of 200 fish being calculated as due to its assistance. But it is only calculated as such in association with its use. There will be ascribed, therefore, a part return of, perhaps 190 fish, or their value, to the substance of the net; the remainder will be ascribed to the use of the net. Thus emerges a surplus value and an interest on capital.
+
+If this very moderate amount of physical productivity on the part of capital is sufficient, according to the Use theory, to cause surplus value, it is self-evident that this theory in no way assumes any direct value productivity; indeed, rightly understood, it really excludes it.
+
+The relation of the Use theories to the productive power of capital will not, however, be found stated so clearly in the writings of their representatives as I have thought necessary to state it. On the contrary, indeed, appeals to the productive power of capital long accompany the development of the Use theory proper, and we are very often left in doubt whether the author relies, for his explanation of surplus value, more on the productive power of capital or on the arguments peculiar to the Use theory. It is only gradually that the Use theories have cut themselves clear of this confusion with the Productivity theory, and developed in complete independence.
+
+In what follows I mean, first, to show the historical development of the Use theories. Criticism of them I shall divide into two parts. Such critical remarks as refer simply to individual defects in individual theories I shall include at once with the historical statement. My critical estimate of the school as a whole will follow in a separate chapter.

@@ -1,0 +1,27 @@
+---
+work_id: "45ad41cc-7379-5c6a-b587-3aa73a883f31"
+work_slug: "condy-raguet-the-principles-of-free-trade-45ad41"
+work_title: The Principles of Free Trade
+author_name: Condy Raguet
+chapter_number: 103
+chapter_title: ESSAY No. CI.
+chapter_slug: "103-essay-no-ci"
+variant_id: "ef656fbc-dfd0-5f57-bf07-e9824c8e1be9"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 646
+source_url: "https://oll.libertyfund.org/titles/raguet-the-principles-of-free-trade"
+translator: Online Library of Liberty edition
+---
+
+Nature of the war carried on between the friends of free trade and their opponents. Who are the parties arrayed on each side.
+
+THE war at this day carried on throughout the world between the advocates of Free Trade and the Restrictive System, is one in reality in which the principle contended for, is, whether goods shall be cheap or dear; whether the people shall have two loaves of bread at their dinner, or one; two suits of clothes to their backs, or one. On the side of Free-Trade, although they may not know it, are arrayed, all the Edition: current; Page: [326] philosophers, who by their studies and researches into the hidden branches of knowledge are every day drawing out fresh treasures of wisdom, which are freely spread before the human family, that each individual may profit by their discoveries; all the men of science and mechanical genius, who are constantly occupied in inventing labour-saving machinery, by which the products of industry, whether employed in agriculture, commerce or manufactures, may be attainable with less labour than before; all the industrious classes—farmers, mechanics, navigators, merchants, artisans, and manufacturers who by increased skill in their business, closer application, and the observance of economy in time and expenditure, are every moment increasing the productive powers of land and labour. On the same side are enrolled, all the statesmen of Europe and America, who truly deserve that appellation, and all the philanthropists who are occupied in those unceasing exertions to better the condition of the poor, which we see every where exhibited: In fine, on the side of Free Trade are to be found, all those, in every part of the world, who understand the true nature of liberty, and who exert themselves to establish its true principles, in order that the whole human family may enjoy the greatest possible extent of comforts and blessings which their labour is capable of producing.
+
+On the restrictive side are to be found, in every country, the monopolists of every description, from the man who lives as the great landlords of England do, by plundering the poor man of half his loaf, to the man who robs him of one of his coats, or insists upon it that he shall have but half a spoonful of sugar to his cup of tea, that they may ride in coaches, and riot in luxury. On the same side are to be found no small number of honest but deluded people, who, for want of opportunity, or the ability to examine abstract and difficult questions, have been led into error—and a host of politicians and quack statesmen, who, having no knowledge of the subject of political philosophy, seize upon the Restrictive System as a hobby upon which they may ride into power. To this party also belong, in this country, a few individuals who understand the true nature of the question, but who have not principle, or independence enough to stand up in opposition to the doctrines which their conciences condemn.
+
+The efforts of the Free Trade party are, to make things cheap, or, in other words, procurable, for the least possible quantity of labour called for by the lights and improvements of the age. The efforts of the restrictive party are to make things dear, that is, cost more labour than is absolutely necessary to procure them. Thus far, however, philosophy, science, ingenuity, and skill, have beat their opponents. Every few days almost we see announced some invention or improvement by Edition: current; Page: [327] which some article can be had cheaper than before, or, of a better quality at the same price, which is the same thing. The power of steam carries the boat faster one way, than the tide carries her the other way, and thus, in spite of all the efforts of the restrictive party, she makes headway through the water.

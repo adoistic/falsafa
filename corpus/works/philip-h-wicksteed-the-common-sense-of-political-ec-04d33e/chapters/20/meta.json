@@ -1,0 +1,26 @@
+{
+  "work_slug": "philip-h-wicksteed-the-common-sense-of-political-ec-04d33e",
+  "work_title": "The Common Sense of Political Economy",
+  "chapter_number": 20,
+  "chapter_title": "CHAPTER VII: BANKING. BILLS. CURRENCY",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8c52a162-4661-552b-909d-eb32f3f1adc4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 19515,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wicksteed-the-commonsense-of-political-economy"
+    }
+  ]
+}

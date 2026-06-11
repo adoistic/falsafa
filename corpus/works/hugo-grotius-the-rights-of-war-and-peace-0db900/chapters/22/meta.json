@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-rights-of-war-and-peace-0db900",
+  "work_title": "The Rights of War and Peace",
+  "chapter_number": 22,
+  "chapter_title": "CHAPTER XVII.: On Damages Occasioned by Injury and the Obligation to Repair Them.",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9e51521f-6274-5ddc-8934-029760574b49",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2907,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
+    }
+  ]
+}

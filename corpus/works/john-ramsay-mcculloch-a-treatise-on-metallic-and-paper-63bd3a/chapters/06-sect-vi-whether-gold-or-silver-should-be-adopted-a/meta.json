@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-a-treatise-on-metallic-and-paper-63bd3a",
+  "work_title": "A Treatise on Metallic and Paper Money and Banks",
+  "chapter_number": 6,
+  "chapter_title": "Sect. VI.—: Whether Gold or Silver should be adopted as the Standard of the Currency, or whether it should consist of bo",
+  "chapter_slug": "06-sect-vi-whether-gold-or-silver-should-be-adopted-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c7f0e3e9-0d9e-5de0-9c26-685959e96972",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1960,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mcculloch-a-treatise-on-metallic-and-paper-money-and-banks-1858"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-novum-organum-79da24",
+  "work_title": "Novum Organum",
+  "chapter_number": 2,
+  "chapter_title": "APHORISMS—BOOK I: ON THE INTERPRETATION OF NATURE AND THE EMPIRE OF MAN",
+  "chapter_slug": "02-aphorisms-book-i-on-the-interpretation-of-nature-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f3142791-b15f-5a7e-a116-9213fcdb12c3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 24864,
+      "paragraph_count": 194,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-novum-organum"
+    }
+  ]
+}

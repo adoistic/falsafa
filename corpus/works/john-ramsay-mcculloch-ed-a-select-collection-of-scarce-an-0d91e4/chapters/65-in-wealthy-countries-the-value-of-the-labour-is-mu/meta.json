@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 65,
+  "chapter_title": "In wealthy countries, the value of the labour is much greater than that of the land.",
+  "chapter_slug": "65-in-wealthy-countries-the-value-of-the-labour-is-mu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "228542dd-f337-56f9-972f-1ebf9183fdde",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 354,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

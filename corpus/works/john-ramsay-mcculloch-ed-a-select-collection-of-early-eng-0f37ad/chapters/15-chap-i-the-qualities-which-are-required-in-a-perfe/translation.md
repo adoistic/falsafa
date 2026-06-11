@@ -1,0 +1,47 @@
+---
+work_id: "0f37adcc-8e76-5772-9588-3103cd646a75"
+work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-early-eng-0f37ad"
+work_title: A Select Collection of Early English Tracts on Commerce
+author_name: John Ramsay McCulloch (ed.)
+chapter_number: 15
+chapter_title: "Chap. I.: The Qualities which are required in a perfect Merchant of Forraign Trade."
+chapter_slug: "15-chap-i-the-qualities-which-are-required-in-a-perfe"
+variant_id: "a59f6e4f-6c65-51f6-9e43-d0cde366e758"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1129
+source_url: "https://oll.libertyfund.org/titles/north-a-select-collection-of-early-english-tracts-on-commerce-1856"
+translator: Online Library of Liberty edition
+---
+
+THe love and service of our Country consisteth not so much in the knowledge of those duties which are to be performed by others, as in the skilful practice Edition: current; Page: [122] of that which is done by our selves;As it is very commendable to know what is to be done by others in their places: So it were a great shame to be ignorant in the duties of our own Vocations. and therefore (my Son) it is now fit that I say something of the Merchant, which I hope in due time shall be thy Vocation: Yet herein are my thoughts free from all Ambition, although I rank thee in a place of so high estimation; for the Merchant is worthily called The Steward of the Kingdoms Stock, by way of Commerce with other Nations; a work of no less Reputation than Trust, which ought to be performed with great skill and conscience, that so the private gain may ever accompany the publique good. And because the nobleness of this Profession may the better stir up thy desires and endeavours to obtain those abilities which may effect it worthily, I will briefly set down the excellent qualities which are required in a perfect Merchant.
+
+1. He ought to be a good Penman, a good Arithmetician, and a good Accomptant, by that noble order of Debtor and Creditor, which is used onely amongst Merchants; also to be expert in the order and form of Charter-parties, Bills of Lading, Invoyces, Contracts, Bills of Exchange, and Policies of Ensurance.
+
+2. He ought to know the Measures, Weights, and Monies of all forraign Countries, especially where we have Trade, & the Monies not onely by their several denominations, but also by their intrinsique values in weight & fineness, compared with the Standard of this Kingdom, without which he cannot well direct his affaires.
+
+3. He ought to know the Customs, Tolls, Taxes, Impositions, Conducts and other charges upon all manner of Merchandize exported or imported to and from the said Forraign Countries.
+
+4. He ought to know in what several commodities each Country abounds, and what be the wares which they want, and how and from whence they are furnished with the same.
+
+5. He ought to understand, and to be a diligent observer of the rates of Exchanges by Bills, from one State to another, whereby he may the better direct his affairs, and remit over and receive home his Monies to the most advantage possible.
+
+6. He ought to know what goods are prohibited to be exported or imported in the said forraign Countreys, lest otherwise he should incur great danger and loss in the ordering of his affairs.
+
+7. He ought to know upon what rates and conditions to fraight his Ships, and ensure his adventures from one Countrey to another, and to be well acquainted with the laws, orders and customes of the Ensurance office both here and beyond the Seas, in the many aceidents which may happen upon the damage or loss of Ships or goods, or both these.
+
+8. He ought to have knowlege in the goodness and in the prices of all the several materials which are required for the building and repairing of Ships, and the divers workmanships of the same, as also for the Masts, Tackling, Cordage, Ordnance, Victuals, Munition, and Provisions of many kinds; together with the ordinary wages of Commanders, Officers, and Mariners, all which concern the Merchant as he is an Owner of Ships.
+
+9. He ought (by the divers occasions which happen sometime in the buying and selling of one commodity and sometimes in another) to have indifferent if not perfect knowledge in all manner of Merchandize or wares, which is to be as it were a man of all occupations and trades.
+
+10. He ought by his voyaging on the Seas to become skilful in the Art of Navigation.
+
+11. He ought, as he is a Traveller, and sometimes abiding in forraign Countreys, to attain to the speaking of divers Languages, and to be a diligent observer of Edition: current; Page: [124] the ordinary Revenues and expences of forraign Princes, together with their strength both by Sea and Land, their laws, customes, policies, manners, religions, arts, and the like; to be able to give account thereof in all occasions for the good of his Countrey.
+
+12. Lastly, although there be no necessity that such a Merchant should be a great Scholar; yet is it (at least) required, that in his youth he learn the Latine tongue, which will the better enable him in all the rest of his endeavours.
+
+Thus have I briefly showed thee a pattern for thy diligence, the Merchant in his qualities; which in truth are such and so many, that I find no other profession which leadeth into more worldly knowledge. And it cannot be denied but that their sufficiency doth appear likewise in the excellent government of State at Venice, Luca, Genoua, Florence, the Low Countreys, and divers other places of Christendom. And in those States also where they are least esteemed, yet is their skill and knowledge often used by those who sit in the highest places of Authority: It is therefore an act beyond rashness in some, who do dis-enable their Counsel and judgment (even in books printed) making them uncapable of those ways and means, which do either enrich or empoverish a Common-wealth, when in truth this is only effected by the mystery of their trade, as I shall plainly show in that which followeth. It is true indeed that many Merchants here in England finding less encouragement given to their profession than in other Countreys, and seeing themselves not so well esteemed as their Noble Vocation requireth, and according to the great consequence of the same, do not therefore labour to attain unto the excellence of their profession, neither is it practised by the Nobility of this Kingdom, as it is in other States from the Father to the Son throughout their generations, to the Edition: current; Page: [125] great encrease of their wealth, and maintenance of their names and families:There is more honor and profit in an Industrious life, than in a great inheritance which wasteth for want of vertue. Whereas the memory of our richest Merchants is suddenly extinguished; the Son being left rich, scorneth the profession of his Father, conceiving more honor to be a Gentleman (although but in name), to consume his estate in dark ignorance and excess, than to follow the steps of his Father as an Industrious Merchant to maintain and advance his Fortunes. But now leaving the Merchants praise we will come to his practice, or at least to so much thereof as concerns the bringing of Treasure into the Kingdom.

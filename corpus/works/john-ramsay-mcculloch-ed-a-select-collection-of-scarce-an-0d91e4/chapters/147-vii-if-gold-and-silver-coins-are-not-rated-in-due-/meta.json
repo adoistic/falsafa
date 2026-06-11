@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 147,
+  "chapter_title": "VII.: If gold and silver coins are not rated in due proportion to each other, as they are at a medium in the neighbourin",
+  "chapter_slug": "147-vii-if-gold-and-silver-coins-are-not-rated-in-due-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc7a0d0f-e5b5-5f35-be52-dbdb800a8dfe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 944,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 24,
+  "chapter_title": "CHAPTER XIV.: TAXES ON HOUSES.",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "69d0d814-b4fb-5ab9-bd84-ffc97cf66710",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1243,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

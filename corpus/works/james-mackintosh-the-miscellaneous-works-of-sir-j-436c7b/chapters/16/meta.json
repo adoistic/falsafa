@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 16,
+  "chapter_title": "SECTION V.: CONTROVERSIES CONCERNING THE MORAL FACULTIES AND THE SOCIAL AFFECTIONS.",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7f7563f7-05bf-5076-8654-1409f6acf3a7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 817,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

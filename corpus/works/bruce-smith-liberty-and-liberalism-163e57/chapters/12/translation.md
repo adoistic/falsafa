@@ -1,0 +1,1643 @@
+---
+work_id: "163e57aa-77fb-56b8-bccb-c56454b9105f"
+work_slug: "bruce-smith-liberty-and-liberalism-163e57"
+work_title: Liberty and Liberalism
+author_name: Bruce Smith
+chapter_number: 12
+chapter_title: Chapter X SOCIALISM AND COMMUNISM.
+chapter_slug: 12
+variant_id: "a1fa7b97-2016-50de-8ee2-4a0c7d2ec1c5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 52552
+source_url: "https://oll.libertyfund.org/titles/smith-liberty-and-liberalism-1888"
+translator: Online Library of Liberty edition
+---
+
+A short enquiry concerning the principal theories and practical experiments of ancient and modern times, in the search for an ideal form of Commonwealth.
+
+"If the elaborate schemes for regulating everything, and finding a place for everybody, could be carried out, we should have a state of society resembling that of ancient Peru, or that which, to their eternal honour, the Jesuits instituted and so long maintained in Paraguay.... We have passed out of the socialism of the tribal state, and cannot re-enter it again, except by a retrogression that would involve anarchy, and perhaps barbarism."—HENRY GEORGE, Progress and Poverty.
+
+"To try to make men equal, by altering social arrangements, is like trying to make the cards of equal value by shuffling the pack."—SIR JAMES FITZJAMES STEPHEN, Liberty, Equality, and Fraternity.
+
+"The great error of the majority of Socialists is that they do not sufficiently take into consideration the fact that the great incentive to labour and economy is individual interest."—M. DE LAVELEYE, The Progress of Socialism.—Contemporary Review, April, 1883.
+
+IN the preface to this work, I affirmed that the tendency of modern legislation was in the direction of certain forms of society, known as Communism and Socialism; and I undertook to show, as one of the links in the chain of my reasoning on behalf of true Liberalism or Individualism, that, wherever and whenever these forms of society had been resorted to, the result had invariably been—by reason of the necessary elimination of the element of self-interest—to sap the energies of the people constituting the community, and to reduce them all to the dead level of the tribal form of Edition: current; Page: [550] society, in which the conditions of life are of the most primitive, and progress, in the higher developments of man's nature, as in art, science, philosophy, and literature, almost unknown. That undertaking I now purpose to fulfil.
+
+The bearing of such an exposition upon the other portions of my work is obvious. I have personally done my utmost, and I have brought to my aid some of the greatest authorities in political literature to show that man, as an individual, and society, as an aggregation of individuals, can reach a high state of civilisation and progress, only by possessing the largest amount of liberty for the development of the bodily and mental powers, compatible with the like amount being enjoyed by each and all.
+
+The forms of society with which I purpose dealing, have, of necessity, as I shall show by actual evidence, the effect of stunting and discouraging that development, by requiring the able, the industrious, and the provident, to share with the stupid, the idle, and the improvident, whatever may be obtained as the reward of that energy and those virtues.
+
+In the one form of society, the governing power says:—"Be up and doing; if you have any faculty, be it bodily or mental, discover it; foster it, cultivate it, exercise it, and we shall secure to you all the honestly obtained rewards which those faculties have enabled you to acquire; and we shall secure to you also the peaceful unmolested enjoyment of such rewards when so obtained. We impose one condition—that you shall, in every way, assist us to secure the same liberties to all your fellow-citizens."
+
+In the other form of society, the governing body says:—"Be up and doing. If you have any faculty, be it bodily or mental, and it be, in our opinion, capable of benefitting the community, we shall require you to cultivate it and exercise it. Then, whatever fruits may result from that exercise, we shall require you to add to the common stock, so that those who are less gifted, less intelligent, less inclined to exert themselves, Edition: current; Page: [551] may not, in consequence, be less comfortably provided for than yourself."
+
+Can any man or woman, who knows anything of this subject, question the fairness of my contrast? Can any man or woman, who has a sound healthy brain, as well as a sound, healthy body, fail to see, at a glance, why such a form of society as that which the latter picture portrays, should quickly starve and ultimately kill the best and the noblest of man's activities and aspirations? To say to a man "You shall exercise your faculties, but the reward, in addition to a bare subsistence, shall be only a wreath of myrtle" would not perhaps be fatal to all our energies; for the love of enterprise, the desire for health, and the sense of self-respect, would of themselves, and for a time, prompt many of us to an otherwise unrewarded activity; but to be told: "You shall exercise your faculties, in order that you may assist to keep alive, and render more comfortable, the stupid, the idle, and the improvident," would produce in the mind of every man of spirit, feelings of rebellion against such flagrant injustice; and, as a result, such men would drop to the minimum of exertion, in sheer protest against such a grossly inequitable system of society. The two forms, then—that which I am endeavouring to champion, and that which I am endeavouring to condemn—produce a discord. They are absolutely inharmonious; and that fundamental incompatibility consists in the presence, in the one system, and the absence in the other, of that life-giving element which is known, unfavourably, by the term "self-interest."
+
+It becomes, therefore, almost essential to my defence of the existing state of society, that I should show that those forms, towards which we are fast drifting, are, at once, impossible of realisation and distinctly injurious, in proportion as they are approximated to. This I shall do; though with every desire to be faithful to the text of those who have advocated such forms of society, as well as true to the facts Edition: current; Page: [552] which are connected with the various experiments which have been already tried.
+
+I have little hope or expectation that any weak effort of mine, or even those of abler men in the same direction, will make themselves felt upon the overwhelming current of Socialism which is now sweeping over the civilised world. The human mind in the aggregate is ever tending towards some imaginary goal; and that it has now a decided set in the direction of such a form of society there can be no rational doubt. That tendency, too, has been brought about, among the less favoured in the struggle for existence, by the sometimes sincere, but always carelessly formed conviction that there are "better times" in store for everybody, but certainly for themselves, if only some change can be made.
+
+What chances there are of a turn in the current of public opinion, I shall speak of in closing the chapter. Everything, meanwhile, points in one direction. The parliament of Great Britain, as it now consists, is elected by five millions of men, of whom three-fifths belong to the working-classes. It is admitted by the Radical party that "the English masses are nearly impervious to political ideas;...and know vaguely what they want." If that be the case (and what political party should know better concerning the intellectual condition of the masses?) is it to be expected that they should fail to be attracted by the many promises of "better times" which are held out to them? The author of "The Radical Programme" rightly says, "there never was a time when instruction was more needed on these (political) topics;" yet, in the same breath, he says it is for "the people's leaders to indicate to them the precise methods and instruments by which their wishes may be realised." This is just the sort of "instruction" which is likely to precipitate a continued system of class legislation, by which the prosperous and the well-to-do will be Edition: current; Page: [553] encroached upon in every direction, in the matter of their liberties, and their property. But the "signs of the times" are numerous and equally various. "The set of civilisation (says the "Liberal" press of the colony of Victoria) is in the direction of the abolition of private property of all kinds, and of all the instruments of industry being acquired and monopolised by the state. The state is daily doing for its citizens what they have been in the habit of doing for themselves. The Socialist claims this as a concession to the philosophy of his principles; and he is sanguine that the individual will wither more and more, and the state be more with us, in every department of life, from the cradle to the grave. It will not only inspect our mines and dwellings for us, and take charge of our savings, and educate us, and secure to labour the rights it claims; but it will displace the capitalist in the scheme of things, cultivate our farms, keep our manufactories going, and take in hand, in fact, the work of production and distribution for the community. All this it will do through the magic aid of the co-operative principle. Under that beneficent principle, labour has been able to obtain a share in the profits which otherwise went into the pockets of the individual capitalist; and what the Socialist expects is that the same good results will accrue when it is worked by the state for the benefit of the entire community, as is ascribed to it when in the hands of an individual or a company. The only difference is that, in the one case, it means that society depends upon self-help, and, in the other, upon state-help. Self-help has given to England its co-operative stores; to France its co-operative factories; and to Germany its co-operative credit banks. For this self-help, shall we substitute state-help? That is the question which the Socialist answers in the affirmative." There is, about the latter part of this quotation, very strong evidence of doubt, on the part of the writer, either as to which is the wiser "ism" for society to Edition: current; Page: [554] adopt, or as to which is the most politic to preach from the newspaper point of view. However that may be, the quotation serves my purpose, inasmuch as it is a sympathetic summary of the Socialist doctrines. That the drift of public opinion is in that direction can be too easily seen from a mere perusal of the long list of interferences with individual liberty, with private enterprise, and with the rights of property, a number of which I have enumerated in an earlier chapter on "Modern Instances of Spurious Liberalism." Each of those instances may in itself appear, to some persons, of little importance or seriousness; but it must be remembered that the sea is made up of drops, and the universe of atoms. It would require an infinitely less proportion of such interferences to completely disorganise and revolutionise commerce and industry, and to subvert society itself. All of those interferences, moreover, set in one direction, viz., towards an equalisation of social conditions, which can only be brought about by taking from one class and bestowing upon another. Let me draw attention to a few of the "signs" which indicate the gathering clouds of unreasoned dissatisfaction and discontent, now showing themselves in almost every portion of the civilised world. In September of 1886, several French anarchists were put upon their trial in Paris, for using revolutionary language. The Avocat-Général enumerated "the well-known doctrines of the Socialist school to which the accused belonged." One of the accused admitted having said that "The Republic requires, in order to live, not only liberty, but equality and fraternity.... Let the working-men (he said) combine, if they do not wish to be always made use of. Let them form an army of the robbed against the robbers, of the murdered against the murderers; and, if we are driven to extremities, if we are provoked, if we are compelled to resort to the gun, then, so much the worse for those who give the provocation." A second of the accused inveighed (to Edition: current; Page: [555] the jury, in his own defence) against financiers, capitalists, and "the king of plunderers—Rothschild." He said, "he and his friends wished to make them disgorge, as was done under the old monarchy; and in doing so they would not be plunderers, but the enemies of the plunderers." He told the jury that they had to pronounce against the robbers, or against the robbed; but, whatever they did, they (the jury) might rest assured that they and their friends would continue, with zeal, the propoganda they had begun; and, when they came to form the government, they would send the financiers to execution. "This," says the report, "was received with applause from the back of the court." A third of the accused told the jury that what he and his friends—the Collectivists—wished, was to put an end to the legal murder and pillage, to which society was a prey. Their part was to tell the people that they were made tools of and plundered. That would continue until the proletariat had its 1789, as the bourgeoisie had had theirs. The bankers (he continued), like M. de Rothschild and the others, rob our robbers, and personally are neither friendly nor hostile to us. In the pockets of prolétaires, where there is nothing, finance loses its rights. We are told that we desire plunder; but the social revolution has for its object the suppression of plunder. We are reproached with having spoken of 'liberating guns.' Were the revolutions of 1789, and 1830, brought about with broom handles? All the administrations, the public institutions, and the army are schools of murder." These utterances, it must be observed, are chiefly speeches by the accused themselves, in their own defence. I have, in one case only, touched upon the original language, which is even more revolutionary. The above, however, more fully and clearly explains some of the revolutionary purposes of the particular Socialist school to which the accused belonged. The most significant feature of the whole trial, as showing how widespread such views of society must be in large Edition: current; Page: [556] continental cities like Paris, is the fact that "the jury, after 20 minutes' deliberation, acquitted the accused—the verdict being applauded by part of the audience." I am well aware that these are very extreme instances of Socialist views, and I may as well say, at once, that I am not quoting them for the purpose of illustrating the principles of that school of politics, but only to show to what a pitch of intensity dissatisfaction with the existing order of society has already been excited. I mention these utterances as an illustration also, from one section of society, of the tendency of public opinion. I shall have to mention several others, showing the existence of the same discontent in other and quite different directions. If we turn to the "Principles" of the Knights of Labour of the United States, we find there proposed, schemes certainly less drastic, but equally impracticable. Here are a few of them:
+
+There are of course other and unobjectionable principles, to which I need not refer. Those who can read between the lines will at once see, in such of the principles as I have set out, the same tendency to carp and sneer at wealth, private enterprise, and social advantages. Yet, it will also be observed, while depreciating them on the one hand, they demand a greater share on the other. All "productive industry" must be brought "within the folds of organisation,"—whatever that may mean. "Wealth" is not to be the standard of greatness. No sensible man has ever claimed it to be; but the knights, nevertheless, want what they term a "proper share" of it; they want also "more society advantages," and more of the "benefits, privileges, and emoluments" of the world. They want, in addition, everything necessary to make them capable of enjoying the blessings of good government. The "revising" of public lands can mean nothing but a redistribution; and such public institutions as railroads are not to have another acre. A modest desire is that which requires work done for the state, or for municipalities, not to be competed for. These principles show, with tolerable clearness, the drift of public opinion in the United States, among the working-classes. The Knights of Labour, who embrace those principles, have been stated, in The Times of October, 1886, to have first organised in 1869, and to number, at the present time, 111,395 members, grouped in 1610 lodges. They are thus a political factor of no inconsiderable importance. But this organisation, Edition: current; Page: [558] and the principles which its members have adopted, are by no means the most alarming "sign of the times" in the United States. It was there, indeed, that the notorious revolutionist, John Most, who was actually "expelled from the social democratic party in Germany on account of his extreme views," was so readily welcomed. He has been spoken of by a competent authority as having been "warmly received, and listened to with favour, by large bodies of workmen, while uttering counsels of war and bloodshed." He expressed his belief, thus publicly, that emancipation would be brought about by violence, as all great reforms in the past had been. He consequently advised them "to buy a musket, as it was (he said) a good thing to have. If it was not needed now (he continued) it could be placed in a corner, and it occupied but little space."
+
+The presiding officer, in closing one of his meetings, emphasised this part of Most's address, and "told the labourers that a piece of paper would never make them free; that a musket was worth a hundred votes; and then he closed the meeting with the line:—
+
+"Lead and powder alone can make us free."
+
+There can be no doubt," concludes Professor Ely, "that a considerable portion of his hearers sympathised with his views. They listened approvingly, and applauded his fiercest remarks most loudly." That such a man, holding and advocating such views, should appear in the United States, is significant of nothing; but that an audience of citizens, in a great industrial community such as it is, should have allowed views of that character to be unequivocally expressed, and should have even applauded them, is indeed significant of a state of public feeling among certain classes of the community which bodes evil for the future. It is said that New York alone possesses three social democratic Edition: current; Page: [559] newspapers, two of which are published in the German, and one in the English language—two out of the three being dailies. The motto of one of the German papers is: "All measures are legal against tyrants." We may fairly infer that these publications are self-supporting; and with that further fact before us, we can tolerably well imagine the widespread currency of such views as they would promulgate. Turn now to Great Britain, and though we shall find much less evidence of such revolutionary views being widely entertained, nevertheless the late Socialist meetings held in Trafalgar Square, and the subsequent revolutionary raid which was made upon the property of a large number of citizens, point to the presence of a deep-seated discontent in the minds of thousands of the less provident classes of that, and probably many other large cities. But, putting aside the consideration of such views, which are of course discountenanced by everybody having a "visible (and regular) means of support," and dealing with the next class of expressed discontent, we find such prominent statesmen even as Mr. Chamberlain boldly promulgating doctrines almost as subversive of existing institutions as those of the knights of labour. In advocating local government, he says: "It will bring you into contact with the masses. By its means you will be able to increase their comforts, to secure their health, to multiply the luxuries which they may enjoy in common; to carry out a vast co-operative system for mutual aid and support; to lessen the inequalities of our social system, and to raise the standard of all classes in the community." Again, "It belongs to the...duty of the state...to protect the weak, and to provide for the poor; to redress the inequalities of our social system;...to raise the average enjoyment of the population." How is all this to be done? Only by taxation. The poor cannot be taxed; so "the comforts," "the health," "the luxuries," and the "enjoyments" of those who have not, are to be paid for by Edition: current; Page: [560] those who have. This is unmistakable Socialism, and Mr. Chamberlain himself, and his exponent in "The Radical Programme" have, as I have shown, admitted the fact. Observe, too, the extent to which professed Socialism has developed in England. Mr. Hyndman, one of the leaders, if not the leader, of the movement in England, says:—"Socialism has become as familiar in Great Britain as Radicalism, and is advancing among the working-classes in particular, almost too fast for our organisation to keep pace with it." At the present time there is "one rapidly increasing Socialist organisation—the Social Democratic Federation—with fifteen active branches in London alone, besides those in the principal industrial centres throughout the provinces." Again he says:—"Not only are our actual numbers of registered and paying members increasing daily, but thousands, who dare not openly join our ranks, gather round us gladly, in any emergency, and show at all our great meetings. We are, in fact, voicing a general and deepening discontent with the present state of society among the working-classes, and giving a form to those aspirations for better things, which, but for us, would infallibly break out in sheer destructive anarchism and revenge, at the critical moment. What renders our movement the more serious is the undoubted fact that the army reserve men, everywhere, sympathise with us, owing partly to the inconsiderate manner in which they have been treated, and partly to the fact that they share the bitter feeling which is growing among their own class.... Hitherto we have devoted ourselves, almost exclusively, to education and agitation, delivering more than 2,000 lectures and addresses on Socialism, last year, in London alone." Mr. Hyndman mentions six Socialist journals published in London. Allowing for a fair percentage of exaggeration in this account of Socialist Edition: current; Page: [561] progress, it is sufficiently evident that the tendency is wide-spread and growing. If we turn from the proletariat of France, the working-classes of America, and the Radical and Socialist parties of Great Britain, to calmer and less biased sources, we find the same desire for altered social arrangements, and, unfortunately, the same belief in the theories known as Socialism and Communism, as promising a better condition of things—in fact "better times" for everybody! M. de Laveleye, who has given a large amount of attention to the history and growth of Communistic societies in different parts of the world, and in different ages, has published the result of his researches in a volume entitled "De la Propriété et de ses Formes Primitives" ("Primitive Property".) To have made so close a study, as he has done, of so special a department of political science, is to have acquired the reputation of "an authority" among those who have not the time or inclination to pursue the investigation for themselves. And any expressions of opinion in favour of institutions so carefully investigated, coming from such an authority, count for much among their less studious advocates. M. de Laveleye does not openly champion Socialism or Communism as desirable systems, but he certainly says as much in their favour as he can do, without committing himself to such open advocacy. It will be part of my duty to criticise, in a subsequent part of this chapter, many of his comments and conclusions. I mention one or two here merely as further evidence of the drift of public opinion. "Caste and its privileges," he says, "are abolished; the principle of the equality of all, in the eye of the law, is everywhere proclaimed; the suffrage is bestowed on all; and still there is a cry for equality of conditions." Again, "economists reiterate that all property is the result of labour; and yet, as before, under the empire of existing institutions, those who labour have no property, and, with Edition: current; Page: [562] difficulty, gain the bare means of existence, while those who do not labour live in opulence and own the soil. As the former class compose the great majority, how can they be prevented from using, some day, the preponderance at their disposal, in an endeavour to alter the laws which regulate the distribution of wealth, so as to carry into practice the maxim of St. Paul: 'qui non laborat, nec manducet'? The destiny of modern democracies is already written (he continues) in the history of ancient democracies. It was the struggle between the rich and the poor which destroyed them, just as it will destroy modern societies, unless they guard against it." The last five words of this quotation are safely vague. M. de Laveleye will be found, by those who read his work, to be sufficiently iconoclastic as regards existing and time-honoured institutions. He is, however, not fertile in suggesting remedies. He has nothing to say as to how the destruction of modern society by Socialism is to be "guarded against," except it be in a few approving comments on the primitive, in some cases almost barbarous constitutions of certain of the communities dealt with in his work referred to. The fact that so learned an authority as M. de Laveleye should, as I shall further show him to have done, tacitly recommend Communistic and Socialistic principles, is an important sign of the times, as to the wide reception which those principles are receiving in our own day. Strongest of all, as a source of encouragement to Socialists, and highly valuable to them as a pillar of their school, is the fact that so careful and impartial a thinker as John Stuart Mill should have spoken in terms favourable to their cause. Mill's extreme fairness has, indeed, led to much harm, if to say so is not a paradox. It would be more correct to say his method of showing that fairness. It has more than once happened that, in his desire to do justice to both sides of an argument, he has set out carefully Edition: current; Page: [563] whatever can be said on either side. Having become a considerable authority on economic questions, enthusiasts are eager to get from his writings any quotation which appears to help their cause. His writings happen to offer every opportunity for such persons to extract a quotation from what Mill deemed the favourable side of their argument, but which should, to do him justice, be read only in connection with the context. Mill has in this way given material to Communists; but I think I can show subsequently that the conditions upon which he approved such a scheme of society were such as to render it impossible. Socialists have not failed to use the quotations which appear to suit them; but they have carefully omitted the conditions referred to. "If," says Mill, "the choice were to be made between Communism, with all its chances, and the present state of society with all its sufferings and injustices; if the institution of private property necessarily carried with it, as a consequence, that the produce of labour should be apportioned as we now see it, almost in an inverse ratio to the labour—the largest portions to those who have never worked at all, the next largest to those whose work is only nominal, and so on in a decending scale, the remuneration dwindling as the work grows harder and more disagreeable, until the most fatiguing and exhausting bodily labour cannot count with certainty on being able to earn even the necessaries of life; if this or Communism were the alternative, all the difficulties, great or small, of Communism, would be but as dust in the balance." Again, "The restraints of Communism would be freedom, in comparison with the present condition of the majority of the human race." This is indeed splendid material for Socialist advocates. I shall subsequently deal with the conditions which follow on these quotations. But it can now Edition: current; Page: [564] be sufficiently seen how the drift of public opinion is setting. As M. de Laveleye says in his preface, "everywhere Socialism makes rapid progress.... In Germany Socialism is an organised party, which has its journals, carries on a struggle in all the large towns, and sends to the Reichstag an increasing number of representatives. In Austria, Spain, and England, the masses of working men are penetrated with its ideas; and, what is more serious, even professors of political economy became Katheder Socialisten." On the Continent, in the United States, and in Great Britain, we discover the principles of the school to be widely entertained; and we find also men of research, like M. de Laveleye, and thinkers like Mill, consciously or unconsciously transforming theories into settled convictions, in the minds of its disciples, by virtue of the authority which attaches to their writings. It is now sufficiently evident from the foregoing facts, and from the tendency which I have fully illustrated in previous chapters that, throughout Europe, and throughout all English-speaking communities, there is going up, as M de Laveleye says, "a cry for equality of conditions." I propose now to analyse that cry in two ways; first, through the medium of the works of the principal of its advocates; and secondly, by the light of practical experience, gained from actual experiments in ancient and modern times.
+
+It will be a sufficiently remote point from which to commence my brief and hurried survey, to deal with theories and communities prior to, and contemporary with Aristotle. The political wisdom of that writer is, unfortunately, more proverbial than intimately known, even among those who claim to make a "profession" of the subject. It would indeed be fortunate if his writings were more frequently and more widely studied; for there is scarcely a form of government, there is scarcely a political movement connected with modern Edition: current; Page: [565] history, which does not seem to have had its counter part, even prior to his time, and to have been commented upon by him, upon the principle expressed by Bolingbroke—that "history is philosophy, teaching by example." Having regard to the immense range of Aristotle's knowledge, as well as to his comprehensive grasp of whatever he touched, it may readily be inferred how large an amount of political experience had preceded his time, to have led him to affirm that "almost all things have already been found out." Certainly a study of his writings will show that very little has occurred in history since his time, which involves any new political principle, notwithstanding that upwards of twenty-two centuries have passed away.
+
+In the fifth chapter of the second book of his "Politics," we have a short but almost exhaustive treatise on the subject of "Community of Property," and a criticism of the various ideal commonwealths which had been evolved from the minds of Socrates, Plato, Phaleas and Hippodamus; as also an analysis of the constitution of society adopted by the Spartans. In this chapter, we have the various stages of community of property, from Socialism to extreme Communism, discussed and criticised from almost every point of view. The attractions and advantages of such forms, as also the inconveniences, the impracticability, and the proneness to sap the virtues, are all fully dealt with. As they have to do with times long prior to the more detailed theories which are influencing the new growth of this particular school, I shall deal shortly with them here. The chapter referred to opens with a statement of the question, as to how property should be regulated under the "most perfect form of government?" "Is it better," he says, "that not only the possessions, but also the produce of them Edition: current; Page: [566] should be in common, or that the soil should belong to a particular owner, but that its produce should be brought together and used as one common stock, as some nations at present do; or, that the soil should be common, and be cultivated in common, whilst the produce is divided among individuals for their special use, as is said to be the practice among some of the barbarians; or whether both the soil and the fruit should be in common." Human nature has not altered much since Aristotle's time. "If (he says) there be not an equal proportion between their labour and what they consume, those who labour hard, and have but a small proportion of the produce, will, of necessity, complain against those who take a large share, and do but little labour. Upon the whole, it is difficult to live together as a community, and thus to have all things that man can possess in common.... This (he continues) is evident from the partnerships of those who go out to settle a colony; for nearly all of them have disputes with each other upon the most common matters, and come to blows upon trifles." It is evident, from this, that the experiments, which had, in and before Aristotle's age, been attempted, had not shown Communism to be capable of producing a millennial condition of things, such as is now frequently predicted as likely to result from its establishment. Aristotle then says: "The manner of life which is now established, more particularly when embellished with good morals and a system of upright laws, is far superior to it; for it will embrace the advantages of both.... For the fact that enery man's attention is employed on his own particular concerns, will prevent mutual complaints; and prosperity will increase as each person labours to improve his own private property; and it will then happen that, from a principle of virtue, they will perform good offices to each other, according to the proverb, 'All thing are common among friends.'" Elsewhere, he says: "With respect to pleasure, it is unspeakable Edition: current; Page: [567] how advantageous it is that a man should think he has something of his own." The effect on the virtues of benevolence or liberality, by the establishment of community of property, is also touched upon. "It is (he observes) very pleasant to oblige and assist our friends, and companions, and strangers, which cannot be unless property be private; but this cannot result where they make the state too entirely one.... They destroy the offices of two principal virtues, modesty and liberality.... liberality as it relates to private property, without which no one can appear liberal, or do any generous action; for the office of liberality consists in imparting to others what is our own."
+
+Aristotle admits, as every one must do, the attractiveness of the social picture which Communism presents to the imagination; and I shall show, subsequently, how great an influence the imagination has had upon some of its most celebrated advocates in France and Germany. "This system of polity (says Aristotle) does indeed recommend itself by its good appearances and specious pretences to humanity; and the man who hears it proposed will receive it gladly, concluding that there will be a wonderful bond of friendship between all its members; particularly when any one censures the evils which are now to be found in society, as arising from property not being common; as for example, the disputes which arise between man and man, upon their contracts with each other; the judgments passed to punish perjury, and the flattering of the rich; none of which arise from properties being private, but from the corruption of mankind." This passage might have been written in the nineteenth century A.D., instead of in the fourth century B.C. Edition: current; Page: [568] Every word of it is applicable to our own day. I shall be able to show, in corroboration of Aristotle's conclusion regarding the corruption of mankind, that, in almost all of the instances in which Communistic experiments in the United States have failed, the leaders have attributed the fact to exactly the same cause. Here follows a very valuable conclusion, apparently based on actual historical experience. "We see (says Aristotle) those who live in one community, and have all things in common, disputing with each other oftener than those who have their property separate; but we observe fewer instances of strife, because of the very small number of those who have property in common, compared with those where it is appropriated. It is also but right to mention (he adds) not only the evils from which they who share property in common will be preserved, but also the advantages which they will lose; for, viewed as a whole, this manner of life will be found impracticable." So much, then, for the deductions of the most practical philosopher of ancient times, regarding the Communistic experiments which had been made, and the theories which had been propounded prior to, and during his own age.
+
+I purposely pass by Aristotle's criticism of the ideal commonwealths pictured by Socrates, Plato, and others, as also his comments upon certain features of the government of Sparta. To dwell upon those subjects would involve more space than I have for that purpose, at my disposal, and would not, after all, have much bearing upon the modern school of Socialism, with which I desire more especially to deal.
+
+I come now to what has been termed "Early Christian Communism," which comprehends various attempts at a state or condition of society, more strictly in accordance with the principles of simplicity and fraternity taught by Christ and His followers.
+
+As Mr. Kaufmann has said, "The moral enthusiasm, Edition: current; Page: [569] which springs from religious convictions, is a prime motor in all social reform; and hence there came into action a powerful influence on European society, as Christianity gradually spread throughout the Roman Empire." A century before Christ, all the property of the city of Rome was held by about two thousand families, the remainder of the population, numbering about a million and a quarter, consisting principally of paupers. The ownership of the lands was confined to a small number of proprietors, and the cultivation of the soil was, for the most part, carried on by slaves. Certain senators possessed enormous fortunes for those times, which excited the envy of many of the less successful, and served as splendid material for the agitator and the Socialist dreamer. The luxury of the wealthy had become a bye-word; and the reckless extravagance, on pleasures of the most enervating and ephemeral nature, had brought the affluent classes into hatred and contempt. "The hour for reform (says a writer of Roman history) had surely come." Christianity came, with its extremely altruistic teachings; and Christ himself has since been claimed by prominent Communists, such as Cabet, to have "proclaimed, preached, prescribed and practised" Communism. "The Communism practised by the early Church was not so much a rigid logical deduction from the teachings of Christ, as it was the result of spontaneous love of the brethren, who were all united by the same common bond, and all equally ready to devote their goods and possessions to the common welfare." The fact that "the end of all things" was said and considered to be at hand, constituted an important factor in producing a disregard for worldly wealth and comforts; which disregard would obviously conduce to the adoption of Communistic practices. Mr. Kaufmann speaks of the early establishment of a "Commonwealth of Love" as an experiment; but he adds that, Edition: current; Page: [570] after an ephemeral existence, it had to be abandoned. Another attempt of a similar character is recorded as having taken place in Jerusalem. The society was called "The Poor Saints." It also failed; and Mr. Kaufmann gives, as a reason, the fact that "an equal share of all, in the enjoyment of property, demands an equal amount of common labour and skill in all. As that is not possible (he adds), ruin follows, when all the available surplus of accumulated capital is consumed 'among so many,' not to speak of the effect of 'idleness, selfishness, and unthrift,' the rocks on which any ordinary communistic society would most probably founder." I purposely pass over the social organisation of the Essenes, notwithstanding that they embraced many of the principles peculiar to Communism. I do so because, as a community, they are acknowledged to have been established and to have adopted their self-denying mode of life, quite irrespective of any influence from the teachings of Christ. Speaking generally, "the Communism of the early Christians was the result of religious ardour, the first-fruits, so to speak, of the newly embraced faith, manifesting itself in a premature attempt at social reform." That the mode of life, to which Communists themselves claim that Christ's teaching would practically lead, did not become more general, has been attributed to the "ambition and worldliness of the Church, as it increased in power." "Christian Socialism"—that is to say, those social experiments which may be said to have sprung directly from Christ's teaching, form but a small part of the material for a history of this subject. Nevertheless it is a very important part; for modern Communists, such as Cabet and others, affirm that Communism itself is the logical outcome of the equality of men, implied, if not actually taught by Christ. There is one feature, however, in connection with Christian Socialism, which many Socialists completely lose sight of; and I shall have Edition: current; Page: [571] occasion to point out that the same feature characterises all the existing Communistic societies of the United States. It is, that the act of joining such a community was purely voluntary. The modern tendencies to Socialism and Communism, against which I have had occasion to protest in the earlier chapters of this work, all involve the compulsory confiscation, by act of parliament, of a part of the property of certain citizens, who happen to be better off than their neighbours. Where the aggregation of the large or small accumulations of a number of persons is voluntarily entered into, there can be no possible objection. The fact that it is so entered into is the strongest possible evidence that each and all of those, so uniting, see, in such an act, some end, some goal, some purpose to be attained, which they deem more valuable than the possibilities of other results, such as might arise from the retention of the same accumulations as separate individuals. In the one case the principle of self-interest is just as active as in the other. The leaning to the one form of society may have been regarded, from the Christian Socialists' point of view, as "worldliness": but the leaning to the other form, viz., that in which individual wealth and other mundane considerations were subordinated to what were deemed higher and better aspirations, regarded from a more temporal standpoint, might be with equal reason termed (in the words of Oliver Wendell Holmes) "other-worldliness." This distinction, however, between voluntary Communism, such as was practised as the result of Christ's teaching, and the modern attempts at a compulsory approximation to equal social conditions, is very important to observe.
+
+Mr. Kaufmann has said that "With every new revival of religious feeling, similar tendencies (to a system of social equality and a community of goods) prevailed"; and that "similar attempts were made to reintroduce Communistic institutions, because they were supposed to be in keeping Edition: current; Page: [572] with the spirit of primitive Christianity." It is said that during the first four centuries of the Christian era, "the fathers of the Church" often looked back regretfully to the Apostolic age, when the brethren "had all things in common." St. Chrysostum, with becoming mildness, said: "If we ourselves adopted in our own day this mode of life, the result would be an immense addition of happiness to rich and poor alike; both would have an equal share of advantage." And St. Ambrose, in somewhat more confident terms, laid it down that "Nature has given all things in common to all men. Nature has established a common right, and it is usurpation which has produced a private claim." Besides, these, however, there are many other utterances, equally strong, in support of the rights of property. "In none of them (says Mr. Kaufman) is there any encouragement of schemes for a violent reconstruction of society on purely communistic principles, such as are put forward by modern Socialists." During the particular period with which I am now dealing (the middle ages), the most definite experiments in communistic principles were those which were attempted in the establishments of the monastic orders. These orders were numerous—the Beghards, Fratricelli, the Cathari, the Brothers of the Common Lot, and others, "who all more or less practised Communism, on religious grounds, and as a protest against the abuses of private property, which they denominated "that accursed vice of property." The practice of Communism in these monasteries was an undoubted success, that is to say, under the circumstances. Standing out prominently, as they did, in contrast with the oppression and tyranny which characterised the feudalism of those times, they may well be said to have "served as a model for a reformed society." Mr. Kaufmann himself admits that "the moral government of ecclesiastical communities Edition: current; Page: [573] secured the triumph of law and order over the violence of the feudal lords...the principles of association, co-operation, and a fair division of labour and enjoyment, fraternal love, and devotion to the common good, lawful obedience under free institutions and a spirit of beneficence towards those without—in fact, the leading principle of all Utopias—found some realisation in these monastic institutions before the dawn of modern civilisation." But how was all this brought about? What were the circumstances under which this apparent triumph of Communism took place? In the first place, they were not altogether self-supporting. "Without the existence of a larger outer world (says Mr. Kaufmann) which, to a certain extent, ministered to the wants of these recluses, their societies...could not have stood the test of time." There was, moreover, another, and a very exceptional reason for their continued existence; one, too, that could never be availed of in any other social organisation. I refer to the rule of celibacy which prevented the usual increase in numbers. It will be seen from these two facts that their continued existence is really no evidence of the practical possibilities of Communism applied to society in its normal condition of existence. Communists certainly point to these establishments as patterns for modern society; but there is no doubt that, as Mr. Kaufmann says, "their constitution cannot serve as a pattern to the world at large, which is not ready for the austerities of the cloister, or abstinence from the material enjoyments of life, which formed the leading principles of monachism." With the secularisation of the Church and the increase of wealth among the monasteries, principally derived from outside sources, even these social oases in the desert of feudalism became demoralised and disorganised.
+
+Among the numerous sects which flourished during this period may be mentioned the Brothers of the Common Edition: current; Page: [574] Lot, or the Brothers of the Common Life, and the Apostolici. These two most call for attention. The former originated in the younger Florentius, vicar of Deventer, asking of his superior, "what harm would it do were I and these clerks, who are here copying, to put our weekly earnings into a common fund and live together," to which no objection, but encouragement was offered. The society grew into great proportions. Their object, it is necessary to observe, was to "extend the usefulness of practical Christianity, by the simplicity of their common life, by their rigorous code of morality, and by the introduction of a higher spiritual tone of devotion." Female societies were formed on similar lines, and the members engaged in sewing, weaving, and other forms of manual labour. These institutions "spread rapidly, and increased in importance and prosperity." Mr. Kaufmann says: "When they had fulfilled their mission, they passed away without a struggle;" but, he adds that "their success, as far as it went, proves the possibility of active co-operation on Communistic principles, if accompanied by the affectionate association of mind and heart, actuated by the highest motives of morality, the spirit of pietism and self-surrender." But he adds, as he might well do, that "the application of such principles to the Utopian schemes of most modern Communists, who make material enjoyment and self-indulgence, irrespective of moral considerations, the summum bonum of existence, is therefore, out of the question." Such societies teach us "that the development and success of co-operative association depend on the growth of a higher motive power; manifesting itself in acts of self-denial and brotherly love among all classes of society." Can any scheme for the regeneration of society which depends on such virtues be fairly termed "practicable"?
+
+We have seen how the equalising influences of the Church were gradually lessened and ultimately destroyed by reason of the growth of wealth and luxury in the Church itself; and how, out of this one important departure from the precepts of Christ, it gradually drifted into a condition of extravagance and vice, which, by the law of social oscillation, to which I have referred in a previous chapter, ultimately led to that great counter movement known as the Reformation. Numerous sects at first appeared, "all protesting against the wealth and corruption of the clergy."
+
+Numerous social reformers, such as Fra Dolcino, and many political agitators such as Arnold of Brescia, for the most part men of unsullied virtue and reputation, now appeared upon the scene.
+
+These were men who, as Dean Milman says, combined the qualities of the monk and the republican. They were admirers, also, of the simple and lowly mode of life which was associated with Christ's teaching. In addition to these aids to the impending social changes, there existed certain spiritual societies animated by much the same desires. The Waldenses and the Minorities were the most important of these. They professed "rigid evangelical poverty, and avoided the pursuits by which wealth might be gained." The former were looking for the early re-appearance of the Messiah, when they expected absolute equality to be established.
+
+Some idea may be obtained of the style of life which they led, from the following description by a monk belonging to another and contemporary order. "They have no settled place of abode. They go about barefoot, two by two, in woollen garments, possessing nothing, but like the apostles having all things in common: following, naked, Him who had not where to lay his head." Their Socialism was purely Edition: current; Page: [576] voluntary. The existing condition of the Church, in those times, naturally caused them and their peculiarly pure, pious, and simple mode of life, to be regarded with disapproval. They underwent considerable persecution, and were in time broken up. Some of them joined the Hussites, of whom I shall speak hereafter.
+
+The Lollards were another community who numbered at one time as many as 24,000, and who are described by Mr. Kaufmann as having had a "strong communistic tendency."
+
+"There is (says the same writer), no evidence to show that any of their tenets favoured compulsory Communism, or encouraged a subversion of society." It is true that John Ball, the "mad priest of Kent," who was connected with the Lollards, entertained and gave expression to unmistakable socialistic opinions. He proclaimed, for instance, the "original equality of mankind," and asserted that "as they were governed by the laws of nature, they kept upon even ground, and maintained this blessed purity." He affirmed that "all those distinctions of dignity and degree are inventions of oppression; tricks to keep people out of their ease and liberty; and, in effect, nothing else but a conspiracy of the rich against the poor." But, as Mr. Kaufmann observes, Ball had probably no more the sympathy of the upper class of Lollards, than have the violent spirits of the social democracy at the present moment of the higher clergy and the educated classes in Prussia. Be this as it may, the history of the Lollards, as an association of people, supplies us with no evidence of the practical success of Socialism or Communism, as advocated in our own day. That, indeed, is the only question with which I am concerned in this chapter.
+
+The Taborites, who constituted a society of Christian Communists, built the town of Tabor, and spread their political and social ideas throughout the kingdom of Edition: current; Page: [577] Bohemia. Mr. Kaufmann says that with the establishment of this new Christian republic, on the principle of a community of goods, "the second advent of Christ was expected, and, along with it, a final restitution of things." The same writer says: "Multitudes hastened to lay their property at the feet of the clergy, as in the days of the Apostles; and a state of society, free from pain and bodily necessities was looked forward to, as on the eve of appearing.... They called each other brothers and sisters; they divided equally among themselves their substance, after the pattern of the early Christians; their life was grave, and similar to that of the most rigid Puritans." It appears that, as results of this Utopian experiment, there were "no contentions, no peculations, and no boisterous festivities." The Taborites were now drawn into fierce conflict with the Hussites (of whom it is said, they had degenerated into a herd of "ferocious and desperate fanatics"), and on account of the ravages and the devastation which the country underwent, "manufactures and commerce came to an end; the manners and habits of the people became course and violent; and the Taborite forces, recruited with foreign adventures, lost their religious character." When Piccolomini visited Tabor, to confer with the Bohemians on some matters in dispute between themselves and the Emperor of Germany, he found the people rough and uncultured. Their clothes and dwellings (the latter composed of wood and clay) indicated poverty and social stagnation. They had lived for a time upon the spoil which they had obtained on their marauding expeditions, but, as Mr. Kaufmann says, 'they had at last found it necessary' to return to commerce, and to abandon the principle of community of goods."
+
+The same writer, who, in the volume from which I have quoted, as also in others dealing with the same subject, has Edition: current; Page: [578] proved himself a specialist in such matters, says, in regard to this particular community: "Such was the unsatisfactory result of an ill-organised society, modelled on the plan of a Communistic Utopia.... Ignorance of economic laws, and a consequent inability of the leaders to organise the new society on a satisfactory basis, prevented the establishment of industrial institutions which would provide a means of livelihood in times of peace. Social competency, not to say social progress, under such circumstances, was out of the question. When the available wealth of the Taborites had been divided equally among all, and consumed; when the spoils of war had ceased to replenish the stores of the community, want and necessity made their appearance, followed by the consciousness that a return to the old order had become necessary to preserve the people from starvation." Speaking, generally, of the different sects and brotherhoods which existed between the seventh and the fourteenth centuries, Mr. Kaufmann says: "If we follow these efforts at social reform, from the exodus of the Paulicians out of Pontus and Capadocia, when, driven by persecution westwards, they settled in Bulgaria, Croatia, and Dalmatia, presently to appear in Italy, France, Germany, England, and Hungary, under the various names of Cathari, Apostolicals, Fratricelli, Belguins, Waldenses, Albigenses, Lollards, and Hussites, we shall find a recurrence of the same cycle of ideas, exhibited in similar effects, and meeting with similar rebuffs on the part of the outer world, and being finally dissolved, on account of faulty internal organisation." I pass now to another Socialist community known as the Moravian Brotherhood—an association which has been described as "peacefully developing, out of similar beginnings, but making Christian self-sacrifice for the common good, the rule of life: thus introducing lasting and beneficent social reforms, while avoiding Socialistic revolutions."
+
+This brotherhood, in its modern organisation, was founded by Count Zinzendorf about 1750. The "United Brethren" (the more comprehensive title under which the former may be included) are constantly being referred to by modern Socialist writers, as affording encouragement to similar efforts for the reconstruction of society. They consisted of two distinct branches: the Hutterites and the Herrnhuters. The followers of Hutter settled in Moravia. They "established a community of goods," and were distinguished for their "purity of manners, and the earnestness of their religious convictions." To start with, therefore, they were a specially selected class, such as could not be obtained by any indiscriminate congregation of the masses in a modern state. We are told, moreover, that "none but men of blameless lives and devout characters were admitted into the community." This, also, is a condition which renders any success they may have attained, as a community, absolutely inapplicable to any modern experiment, such as is being advocated by Socialists in our own day. Imagine, for instance, the effect of mixing, in one community, a number of men with "blameless lives and devout characters" with an equal number of such men as those I have referred to in the account of the Paris prosecutions! It is not difficult to predict the result which would at once follow. The rules of this brotherhood were extremely rigid. "Meals were taken together in silence; the food was frugal, and the clothing of the simplest kind, and uniform in appearance. Work was done noiselessly, and feasts and festivals were totally abolished." The first rule of the society was not to suffer any idle persons among the brethren. No one was exempt from work of some sort, and the worst offenders were expelled from the communities and thrust back into the world! Notwithstanding all these rigid conditions, and these exceptional aids to success, "internal dissensions and religious disputes arose, and undermined Edition: current; Page: [580] the foundations of the newly-formed communities, and they had to be dissolved." Many members returned to their original homes in Germany and Switzerland, and "became objects of public charity." So great a failure was this (Hutterite) experiment considered, that the Zurich authorities prohibited further emigration for a similar purpose, on the ground that "the emigrants returned to the states, and became a burden to their relatives." The last vestiges of this particular brotherhood disappeared in 1620. Another branch of the Moravian Brethren, known as the Unitas Fratrum, which was established on the confines of Moravia and Silesia, came to an end by persecution and other violent means, about the same time. At first they met with great success, and rapidly increased in numbers. They were held in great esteem by the outside world; and their escape from the persecution of the times was so remarkable that many persons, then and since, have regarded them as having received special divine protection. In the year 1500 they numbered 200 parishes. Their particular history is, however, not of much consequence to my present purpose, for Mr. Kaufmann says: "There is no proof of the actual establishment among them of a community of goods," and, in fact, quotes authorities in support of the contrary position. From the disappearance of this branch, nothing is heard of the Brethren until nearly a century later. Indeed, they seemed to have become extinct; but, as a fact, their religious and social institutions were carefully preserved by a few adherents, who remained here and there in secrecy and retirement. The condition of Europe, during the century which followed, became again such as is calculated to prompt a certain class of minds to yearn for the peace, retirement, repose, and simplicity of life, which were impossible in the midst of society as then existing. Monarchical power was at high tide; the principal countries of Europe were, or had Edition: current; Page: [581] just been engaged in war; taxation was heavy on the people, and questions of social reform seemed doomed to be disregarded. Count Zinzendorf, who was occupying a post of honour in the council chamber of Saxony, disgusted with the enormities of government which he saw around him, and anxious for "peace of mind, away from the vices of society," withdrew to the quiet hamlet of Herrnhut. The remnant of the Brethren, who had, meanwhile, been living in Bohemia and Moravia, joined him, and they, together, formed the nucleus of the new society of the United Brethren, "whose settlements," Mr. Kaufmann says, "now extend over almost every part of the habitable globe." I shall accept the fact that this organisation exists, as a proof of the soundness of the constitution under which its members live. We have yet to see, however, whether that constitution, and the conditions of life, are such as to justify the belief that society, as a whole, could exist and prosper under similar conditions. And, further, it is necessary to see to what extent Socialistic or Communistic principles are regarded and acted upon among them.
+
+In the first place, it will be observed that admission to membership was purely voluntary; that is to say, there was no movement made to draw members into it, such as can in any way be considered analagous to the modern Socialist attempts to force a division of property, and an equalisation of the conditions of living, by means of the iron hand of the legislature. It will be observed, also, that the association had an essentially religious foundation; for we are told by Mr. Kaufmann that "this settlement was intended as a standing protest against the corruptions of civil life, and the decadence of true religion in Germany." Now, it is necessary to observe, further, that in all the modern schemes for the regeneration of society, by the adoption and practice of Socialist principles, that "corruption of civil life," and the indifference to religious observances, which constituted the Edition: current; Page: [582] "decadence" spoken of—all these infirmities, which the Brethren were so careful to exclude from their community, would, in the realisation of the more modern schemes, have to be taken in as part and parcel of the community. Whether similar results could then be hoped for, it is for the student of human nature and of society to determine. But, let us see further, whether the mode of life would be possible in an indiscriminately populated state. Zinzendorf himself underwent hardships, trials, and disappointments, in his spiritual ardour for the good of his organisation. He traversed Europe, Great Britain, and even parts of America, in his eagerness to extend the brotherhood. He died in 1760. The immense development of the organisation seems to have necessitated some important constitutional alterations "in favour of self-government." "Thus," says Mr. Kaufmann, "the society was preserved from splitting up." The same writer adds: "Although not actually Communists in their social organisation, they aimed at comparative equality;" but he quotes (from a Moravian authority) as a note to this observation, that the "comparative equality" is aimed at now, only to some extent, solely in spiritual matters, and touches secular relations only in so far as is at once desirable and inevitable."
+
+The organisation appears to be very elaborate in the regulation of the daily life of its members. "Accumulation of capital is rendered practically impossible, since the superfluities of the more wealthy are expected to be devoted to the wants of the needy." That principle would suit the modern Socialist in all conscience; but I fear some of the conditions of living, which I shall in a moment enumerate, would not meet with so ready an acceptance. "The general prosperity of the state," says Mr. Kaufmann, "is greatly dependent on the spirit of Christian self-denial and devotion to the missionary cause which exists among them." "No one," Edition: current; Page: [583] says one of its historians, "thought of living to himself, but only for the Lord and His Church; everywhere might be witnessed a severe temperance; all were prepared to be satisfied with the most frugal fare, narrow house accommodation, and furniture of the most simple kind.... In a word, the love of poverty, side by side with continued labour,.... were the sources of comparative wealth;.... so that no one lacked the necessaries of life, while no one enjoyed any superfluities. If any one sought external ease and comfort, or wished to amass property, not being disposed to follow the Saviour in His poverty and holiness, one could soon discover that he was not fit to remain a member of the society."
+
+I might pause here, and ask whether that one condition, viz., of "loving poverty" would suit the typical modern Socialist? If it would; then he has no cause for discontent with the existing condition of society! I venture to think however, that this is the whole point at issue. The Socialist dislikes poverty, and he is bent on a greater, if not absolute equalisation of wealth and social conditions; not because he desires his neighbour to have less—for that, per se, can do him no good—but in order that he himself may have more. He is, in fact, crying out for a change in social arrangements, because he does not love poverty. No one can blame him for that; but he would do well to infer from the fact (1.) that he is not qualified to become one of the Brethren! and (2.) that the constitution under which that sect live would not work successfully, except under that and other equally difficult conditions. If, too, Socialists are sincere in their conviction that such a state of society is practicable with a mixed population, and they feel perfectly content to live under such conditions, it may fairly be asked why they do not join them, instead of disturbing the existing society, by demanding that it also should be altered to a similar pattern?
+
+About the middle of the eighteenth century this sect numbered in all 70,000. In 1852 their number was estimated at 18,000 only. Mr. Kaufmann estimates their present number at 30,969, irrespective of the various missions numbering 76,642. The same writer, in concluding his interesting sketch of the history of the Moravian Brotherhood, indulges in some interesting philosophical reflections, suggested by a study of that history. "We have seen (he says) how religious fervour, in its most simple form, has all along been the main source of strength in the still existing branch, the success of which, numerically and financially, has depended entirely on the rigour and purity of the religious life. The abatement, therefore, of religious ardour, or the development of religious animosities, might, at any time, prove a serious danger to the society. How, then (he asks) could any large body of human beings, say a nation or aggregate of nations, be held together socially, in the presence of religious differences, and the animosities they would be sure to engender among its component members?" I venture upon another valuable quotation regarding the success of this great and laudable organisation, with every word of which I heartily agree. "It still remains a doubtful proposition, whether the civilisation and contented simplicity of the Moravians is the highest possible condition to be sought for by social reformers. Have their general culture and mental development reached that height of perfection which we, in the age of refined intellectualism, regard as the highest ideal? Have progress in the arts and sciences, and the enlightened toleration which accompanies such advancement, been the distinguishing mark of this excellent society? What would happen if their patriarchal simplicity became the general rule for all mankind? Retrogression, rather than progress, would be the result. The dull monotony of life, deprived of that which embellishes and gives the charm of novelty and variety to existence, Edition: current; Page: [585] would soon become unsupportable. The regular tread of the companies of workers, proceeding, day after day, to their labour, in mute self-absorption, acquitting themselves of the task rigorously assigned to them by authority; the uniformity of sombre dress and furniture, with its oppressive influence on the senses; and the passive obedience to orders, without the exercise of spontaneity and individual discovery, would deaden the mental activities, and reduce the rational creature to the condition of a self-acting machine.... They have not produced, as yet, any real genius; and their social status has never passed the point of respectable mediocrity.... They may (he concludes) serve as models of self-devotion,...but, while human nature remains as it is, their social organisation, as a whole, can never serve as a pattern for the reconstruction of the society of the future." One of the most remarkable experiments in Communism which have yet been attempted is that which is known as the Christian Republic of Paraguay. Its history and results, cursorily viewed, would seem to constitute it an almost complete realisation of the dreams in which Communist theorists have from time to time indulged; for Voltaire, even, has spoken of it as, "in some respects, the triumph of humanity." Whether, on a closer scrutiny of the facts, it is entitled to be so regarded I shall hereafter question. It is a remarkable exception to the almost invariable rule, by which such experiments have consisted in an attempt to maintain, in a condition of Communism, the same standard of civilisation and worldly comfort which prevails in a highly prosperous society, conducted in accordance with what I may term the principles of individualism. The Christian Republic at Paraguay consisted in the application of Communistic principles, by a civilised race, to "a people just emerging from barbarism"—the element of religion being employed as one of, if not the chief among its Edition: current; Page: [586] auxiliaries. This community was established in the New World, towards the end of the sixteenth century, some time before the Pilgrim Fathers set out to found their home in New England. The Spanish Jesuits, to whom the credit of this so-called "triumph" must be awarded, were apparently perfect masters of human nature, and of organisation and discipline. The natives themselves, of whom this community was formed, seem to have been peculiarly disposed and adapted to benefit by the influences which this superior body of men were about to bring to bear upon them. They have been described as "of a gentle and docile disposition: to a certain extent the result of their mild and genial surroundings; easily made amenable to religious instructors, and perhaps rendered prone to superstition by awe-inspiring natural phenomena, such as terrible thunderstorms and lightning. Averse to commercial enterprise...they retained a natural simplicity, and a hospitable and even generous disposition, though somewhat wanting in moral fibre and vigorous independence." The nature of the country in which they lived, and by which they were surrounded, has also been graphically represented by the same writer. "A fertile soil, irrigated by two noble rivers and their tributaries; possessing no difficulties of transit, owing to the absence of lofty mountains; navigable rivers, encouraging inland communication; abundant variety in native produce, and wood in plenty for building both houses and ships—natural conditions, all favourable to the social experiments of the invaders." Climate, soil, natural advantages, people—everything seems to have favoured the establishment of an ideal commonwealth upon the principles of community of property, that is, if any stable community can be permanently founded on such principles. The primitive condition of the people was a further advantage, since the reaching of a certain condition of living, which Edition: current; Page: [587] might have been regarded by emigrants from a civilised society as inferior to what had gone before, would be by them regarded as an advance from what they had been accustomed to. Moreover, they were ignorant of the condition of extreme wealth and luxury in which certain classes of European society were living; and, thus, were removed from the influence of one of the most important elements of discontent among the poorer sections of a civilised community. Such being the conditions which favoured the work undertaken by the Jesuit missionaries, they "collected the scattered bands of natives who had been roaming in forests and living in caverns, strangers to the pleasures of home, and the security and sweet enjoyments of a civilised life." They provided them with food and shelter; "established a guild of weavers to manufacture European stuffs for clothing the natives; opened an apothecary's shop, a public library, and educational establishments to instruct their new converts in the principles of religion and the arts of life; they encouraged native industry, and taught the rudiments of a commercial system, applied to inward traffic; and they established agencies for the exportation of goods.... At the same time, they carefully preserved the natives from competition among themselves, by establishing a community of goods;...they gained a powerful ascendancy over the native mind...and secured their affection and admiration." Within fifty years of the establishment of this community, it had increased to over thirty settlements, and the population amounted to upwards of 100,000 natives. The Jesuits were careful to retain the teaching and the magistracy of the community in their own hands. In the adjoining provinces there dwelt a population of lawless settlers, to be proof against whose incursions, a large number of the natives were trained in the arts of self-defence and fortification. The settlements were Edition: current; Page: [588] not unfrequently attacked by these lawless neighbours, and the natives in many instances displayed considerable powers of defence. Let us now glance at the mode of life which resulted from this carefully and ingeniously organised social scheme, which, it must be observed, was started on its career, favoured with every advantage which nature could possibly bestow; and then let it be asked whether such a mode of life would be acceptable, or even bearable to the average European citizen? In the first place, it appears to have been essentially religious, the standard being maintained by a strict and rigid discipline. The sexes were kept apart in public places, and the marriages were arranged by ecclesiastical authority. It has been said by one writer that the greatest inequality existed between the mode of life and social condition of the natives, and those of the Jesuits themselves; that while the former was expected to be content with a mud hut and the most limited supply of domestic comforts, the padres luxuriated in all the most modern conveniences of an European home; that while the former toiled hard for the meagre supplies which were conceded to him, the latter accumulated the profits derived from the exportation of his produce, and thus amassed immense funds for their Order. On the other hand, it has been said of the missionaries that—"Nobles by birth, and learned men, fresh from the universities of Europe, might be seen acting as shepherds, masons, and carpenters, and carrying on all manner of common trades for the purpose of teaching and stimulating the natives." Be this as it may, the average standard of life among these people, notwithstanding their climate, soil, rivers, and other natural advantages, seems to have been no higher than that of the most needy English agricultural labourer. The cultivation of the mind and the intellect, through such channels as art, literature, science, philosophy, music, and other of the distinctly elevating influences of our Edition: current; Page: [589] daily life, seem to have been forgotten factors in their humdrum and homespun existence. The "common level" of the inhabitants, which seems to be the ideal of almost all Communist theorists, was certainly attained; but that level was no higher than the lowest level of society in every other rural community in which the principles of Individualism are allowed to operate. It is true that, in such a community, with all their simplicity and regularity of life, none was allowed to sink to the "lowest depths" which are reached by the dregs of great cities; but it must be at once apparent that there can be no possible analogy between two such communities. A race of people who attempted to live together according to such principles in a large city like London or Paris, would undergo revolution or disintegration in a less number of hours than the society under consideration lasted years. The success (if so it may be called) of such an association of men, under all the favourable influences which I have mentioned, can have no application to society as it exists in even the most fertile portions of Great Britain. The whole population, as we have seen, amounted to no more than 100,000, spread, too, over an immense virgin territory of the most fertile and favoured character. Under the existing system of society, which is so much denounced by Socialists and others, that number can be concentrated in a mere suburb of a city like London, and, notwithstanding, all sufficiently enjoy life to prefer it to the primitive and clock-work existence which the natives of Paraguay seem to have undergone. And if so much territory and so many natural advantages were required to enable 100,000 persons to be maintained as they were; what proportion of the universe, let me ask, would be required to maintain the forty millions or so who are now inhabiting the comparatively limited territory of Great Britain and Ireland, or, further, to maintain the 200,000,000 or more, who are at present finding a home and a living in Edition: current; Page: [590] four countries alone—Great Britain and Ireland, France, Germany, and the United States? It must be remembered, too, that this community was, from its initiation to its disintegration, in a perpetual condition of leading strings. As Southey says, in his tale of Paraguay—
+
+"Their inoffensive lives in pupilage
+
+Perpetually, but peacefully, they led."
+
+One of the most indispensable conditions of soundness in any social constitution is the inherent capability to resist any possible aggression from without. That condition has never yet been found to be present in any society based on Communist principles; nor is the community we are now considering any exception to that rule. When diplomatic arrangements were made between Spain (under the suzerainty of which these settlements were held) and Portugal, by which a considerable portion of the population of Paraguay fell as hostages into the hands of the Portuguese, the Jesuits, having failed to avert the exchange, roused their population to rebellion and civil war. The war was continued, intermittently, for some years, but the natives of Paraguay were finally subdued. The conquered people were treated as slaves, or compelled to retire to the forests from which their ancestors had been originally drawn. Mr. Kaufmann says: "The settlements, entirely deprived of the patriarchal government of the priests after the final expulsion of the Jesuits in 1768, consequent upon their suppression in Europe, soon returned to their original condition." And the same writer observes elsewhere: "When this controlling authority was removed, the whole elaborately constructed scheme fell to pieces.... The people, who had been held in a state of helpless tutelage for a century and a-half, lacked the power of self-government, and the once splendid edifice of an Utopian Republic rapidly crumbled to pieces."
+
+I have alluded, in a former chapter, to that important principle observable in the history of society, philosophically considered, by which communities are frequently diverted from the path of true and permanent progress, by reason of the errors which have been committed in their organisation and subsequent government. Mr. Kaufmann has, in my opinion, put his finger on the weak spot in the course of his diagnosis of the constitution of the Paraguay community. "Community of goods (he says) weakens the motives for exertion, and retards economic progress. The low level of mediocrity was rarely surpassed by the natives, simply because their was no inducement offered for extra exertion. The men and women of the settlement did what the "fathers" bid them do, and received with thankfulness the necessaries of life and scanty creature comforts in return; but nothing stirred them up into greater activity, when their immediate wants had been supplied. The spiritual authority once removed, nothing but the slave whip of Spanish government inspectors would accelerate their movements; and, when freed from this latter bondage, their natural indolence, and the insecurity of acquired possessions lamed every further effort towards industrial progress among the independent natives." Washburn, in his history of Paraguay, has said much the same thing. "It was only after the influence of the Jesuits had emasculated the general mind of all sense of responsibility, and every feeling of personal reliance, that the whole race became the willing forgers of their own fetters." The amount of freedom which these people enjoyed in personal matters can be readily inferred from the fact that the most important and far-reaching of all steps in life, whether for a man or a woman, that of choosing for life a domestic partner "for better or for worse," was taken out of the domain of Edition: current; Page: [592] individual judgment, and left to the discretion of the padres.
+
+John Stuart Mill, in his chapter on "Communism," has shortly expressed himself regarding this community. After reviewing the facts and circumstances connected with its establishment, he says: "That it could be brought into action at all, was probably owing to the immense distance, in point of knowledge and intellect, which separated the few rulers from the whole body of the ruled, without any intermediate orders, either social or intellectual. In any other circumstances, it would probably have been a complete failure."
+
+I pass now to a review of quite another series of Communist attempts, which have been made at different times in Europe and Asia. These have all been carefully investigated by M. Emile de Laveleye, through the medium of a number of other works by writers who have made special studies of the respective communities therein dealt with. I have before referred to M. de Laveleye's work. I shall now pass in brief review the various social constitutions treated of by that writer; and, in doing so, offer comments from time to time on his deductions.
+
+M. de Laveleye is quite evidently a Socialist at heart; and one can easily discern, throughout his work, a somewhat unscientific tendency to "make the best" of his data in the Socialist cause. He says: "Modern democracies will only escape the destiny of ancient democracies, by adopting laws such as shall secure the distribution of property among a larger number of holders, and shall establish a very general equality of conditions. The lofty maxim of justice, 'to every one according to his work,' must be realised, so that Edition: current; Page: [593] property may actually be the result of labour, and that the well-being of each may be proportional to the co-operation which he gives to production." This is nothing more or less than the now stereotyped Socialist cry, about capital belonging to the labourers. If one labourer, in this generation, thinks fit to display some providence and self-denial, in order that he may provide against the many contingencies of our daily life, and thus saves a little money, the next or following generation of labourers, who happen to be contemporary with the fortunate possessor of his father's or grandfather's hard-earned savings, turn round and exclaim: "You have no right to that money—it is the result of labour, and, as we happen to be the labourers of this generation, we claim to have part of the savings of a labourer of two or three generations ago." Socialists do not use those exact words; but they fairly represent the summarised logic of their arguments. The saved wages of one generation are dubbed "capital" in the next, and claimed to be public property. If such a theory were right, the first, and in fact only moral to be drawn from it would be: "Don't save—don't make any provision for your own old age, or for anybody who comes after you." The effect of a whole community living up to such a moral can be easily imagined.
+
+M. de Laveleye's treatise should have more than the usual interest for Australian colonists; for he has, in his preface, expressed a hope that the citizens of those colonies will not adopt what he terms "the strict and severe right of property," but rather "return to the traditions of their ancestors." Let us now see what they were, and what condition of life and civilisation they produced for those who adopted them as social guides, so that we may judge as to the merits of a system of society, thus held up as a model for imitation.
+
+In the opening chapter of his work, M. de Laveleye makes the confession that "it is only after a series of progressive Edition: current; Page: [594] evolutions, and at a comparatively recent period, that individual ownership, as applied to land, is constituted."
+
+In dealing with the "Village Communities in Russia," he tells us that "the members of the same group or community join together their agricultural implements, and collectively cultivate their land, and manage the capital—that is the cattle—destined to make it productive. There the system of common property is a direct consequence of the pastoral life and the family organisation." These conditions appear to be all which a Socialist could wish; for not only the land, but the stock, and even the implements, are held in common. The aggregation of the inhabitants of a village, thus possessing in common the land attached to it, is called the "Mir."
+
+M. de Laveleye has devoted a chapter to what he terms the "economic results of the Russian Mir;" and from that it will be seen what condition of society has been attained under its form of government. That those results are regarded with some satisfaction, is shown by the fact that "the Panslavists believe that the community of the Mir will ensure the future greatness of Russia."
+
+If M. de Laveleye had entitled this particular chapter referred to, "Some infirmities of the Mir," it would have been more consistent with what he has therein written.
+
+It seems to be admitted that the people who live under this form of government are little, if any, better off than the most poorly paid and most uncultured agricultural labourer of Ireland. The soil is admittedly badly cultivated, and M. de Laveleye says: "If the soil of Russia is badly cultivated by the peasants, it is because, until lately, bowed beneath the yoke of serfage, they want instruction, motive, energy." And he adds: "In all Western Europe, we have to admire the marvels accomplished by private ownership; while, in Russia, agriculture abides by the processes of two thousand Edition: current; Page: [595] years ago." He says, elsewhere, that this is the "result of a want of information": apparently forgetful of the fact that information, regarding a better condition of things, cannot be forthcoming, until that "better condition of things" is realised, which, by his own showing, has not been the case even after two thousand years of experience!
+
+The advantages and disadvantages of the Mir have been summed up by M. de Laveleye himself; and I venture to think that the summary itself is a more than sufficient condemnation of the whole system which he impliedly recommends. The alleged advantages are shortly these: "Every able labourer has a right to claim a share in the land," by means of which "a proletariat, with all its miseries, cannot arise." "The children do not suffer for the idleness, the misfortune, or the extravagance of their parents." "Each family being proprietor, there exists an element of order, of conservatism, and tradition, which preserves the society from social disorders." "The soil remaining the inalienable patrimony of all the inhabitants, there is no ground to fear the struggle between capital and labour." "The Mir is favourable to colonisation." These are the sum total of the "advantages" of this system of government, as claimed by one of its strongest advocates; but it is a significant fact that Schedo-Ferroti (from whom M. de Laveleye has drawn much of his information regarding the Mir,) "wishes to reform the system, by giving each family the hereditary enjoyment of his parcel, which it might sell, devise or lease." In this significant admission the whole Socialist fabric falls to the grounds; for, at once, that objectionable element—capital—would be created. M. de Laveleye admits that "the point really calculated to alarm economists" is that "it removes every obstacle to the increase of population, and even offers a premium for the multiplying of offspring." He admits, also, that the mortality among young children is "large"; and he puts Edition: current; Page: [596] the proportion at 1 to 26 of the population, as compared with 1 to 49 in England. The cause of this has, he informs us, been ascertained to be that "the mothers are overburdened with work," which fact is a further illustration of the degraded condition of society under the system. M. de Laveleye himself admits that "the system is opposed to the progress of intensive agriculture, because it prevents capital being sunk in the land;" that "the intermingling of the parcels of land leads to compulsory agriculture, and so favours routine, and maintains the old methods of cropping;" that "the joint responsibility of all the members of the commune, for recruits, and for the payment of the taxes, tends to make the industrious pay the share of the idle, and so weakens the motive of individual interest;" and he adds, with somewhat ingenuous candour, evidently unmindful that in doing so he is taking away the very foundation of his arguments for Socialism: "The moment this motive is weakened, it must be replaced by constraint, that the social life may not stop; so that the peasant, if no longer the serf of the lord, is still the serf of the commune. Individual interest (he adds) not being sufficiently brought into play, men become idle, and the whole social body is in a state of stagnation." Could an advocate make a more damaging confession?
+
+M. de Laveleye claims that "Pauperism, the bane of Western societies, is unknown in the Mir," but he supplies an answer also to that claim. "It has been replied (he says) that if it prevents a real proletariat from being developed, it is by keeping everyone in poverty, and so creating a nation of proletarians." It is argued, he says, that "the condition of the Russian peasant is hardly better than that of the agricultural labourer of the West; that he is neither better clothed, better lodged, nor better fed; that equality is maintained, but that it is the equality of destitution." This I certainly should argue; and M. de Laveleye's only reply is as Edition: current; Page: [597] follows: "The wants of the Russian peasant are simple and few in number, but they are satisfied; his mode of life is not refined, but he knows no other and is content!" If such a condition of living is satisfactory to M. de Laveleye, as the be-all and end-all of mundane existence, it is to be feared that that distinguished writer has set up a poor and humiliating standard regarding man's mission in the world. And if a system of government, which produces such a low type of humanity, as is thus pictured, is preferable to that which has produced the wealth, the comfort, the culture, the refinement, and the aspirations of the middle classes of Western Europe, then, indeed, has mankind laboured in vain.
+
+"The Russian (says M. de Laveleye), resigned to his lot, attached to ancient tradition, always ready to obey the orders of his superiors, full of veneration for his priests and his emperor, and content with an existence, which he never seeks to improve, is perhaps happier and more light-hearted than the enterprising and unsettled Yankee in the midst of his riches and his progress."
+
+The above is obviously the ideal which M. de Laveleye sets up for society to aspire to; and in such case it is not difficult to understand why the social conditions realised under the Russian Mir should find a champion in him. But yet, that writer has a somewhat contradictory leaning towards the much-despised Western civilisation. He can apparently see some room for improvement in the condition of this Russian Communist; but it involves the adoption of Western ideas! "Suppose (he says), that the Russian peasants...were to receive such instruction as is given in the American school, and that they were put on a level with the recent progress of agriculture." It would be indeed interesting to know how M. de Laveleye supposes the "American schools" are enabled to give instruction; and how he imagines the "recent progress in agriculture" has been rendered possible. A knowledge of agricultural Edition: current; Page: [598] chemistry is certainly not intuitive. It has to be learnt by experience; and men must have accumulated that much-abused element called "capital," before they can afford the leisure to study such a subject. The modern agricultural machinery, the advantages of which M. de Laveleye so much desires to see enjoyed by the Russian Communists, means much more even than the chemical knowledge. It means, in the first place, the saving and accumulation of wealth, to train men as engineers; the saving and accumulation of wealth, to erect workshops and machinery; the existence of a "demand," by a prosperous community of agriculturalists, of such machinery; and, at the back of all this, some security for property, and some incentive to exertion and invention, to induce men to attain such results. A very slight knowledge of human nature will enable one to determine whether such results would or could ever be obtained, if all men were, as M. de Laveleye describes his ideal Russian Communist, a "serf of the Commune," "weakened in the motive of self-interest," and "content with an existence which he never seeks to improve;" as also member of "a social body in a state of stagnation"! This writer would evidently have one-half the world live in the degraded and poverty-stricken, yet "contented" condition of the Russian Communist, while the other half of the world went on, under the present conditions of society, and supplied the former with "instruction in the most recent progress of agriculture"! I can, I think, with confidence, ask whether a system, which produces such results as those of the Russian Mir, is worthy of being held up to Australian colonists, or to any other civilised community, as a model for society?
+
+I have dealt, at some length, with this first form of Communist societies, as treated by M. de Laveleye, in order that some idea may be obtained of the extremely illogical and unphilosophical manner in which the whole subject has Edition: current; Page: [599] been treated in the work referred to. I shall now pass more rapidly through the other illustrations, by which he attempts to justify his partiality for such forms of society. The second illustration which he has offered, concerning the advantages to be derived from what he terms "a very general equality of conditions," is that supplied by "The Village Communities in Java and India." "The magnificent Dutch colony of Java, (he says) with more than seventeen millions of inhabitants, possesses a communal organisation similar to that of Russia." I need not go into detail, as to the form of that organisation. My object is merely to show what social results have obtained under its working. The people, we are told, "cultivate principally rice, which forms almost the sole food of the Javanese." The social arrangements are evidently similar to those of the Russian Mir, in the matter of an improvident increase of population. The population increases there "more rapidly than in any other country in the world." It has been so rapid, indeed, that each peasant only obtains "1½ to 2½ roods of land," out of which he evidently has to get his living. M. de Laveleye quotes M. Berysma (an authority on this branch of the subject) as having asserted that "the system will soon result in converting all the Javanese into a people of proletarians; that there will still be equality, but that it will be an equality of misery." "In India," M. de Laveleye says, "the primitive community no longer exists," from which we may fairly infer that, as a system, it did not answer. It has certainly not survived. The Javanese are described by M. de Laveleye as being, "like all Asiatics, improvident;" but he adds that they also are "happy and contented"! To be ignorant of Western civilisation, and to be contented, appears to be M. de Laveleye's ideal; for speaking of the Russian peasant, he says: "He knows no other mode of life and is content." Europeans, Americans, and colonists do know another Edition: current; Page: [600] mode of life, and it is therefore quite another question whether this humiliating ideal would render them content! The only point regarding the Javanese, and their system of Communism, in which we are here interested, is as to whether that daily life, in which their sole food is rice, and their sole occupation its cultivation, would satisfy the people of existing civilised communities, as a condition which they might reach by a resort to similar principles. I venture to think not.
+
+The third illustration offered by M. de Laveleye is that afforded by "The Allmends of Switzerland." That writer says: "They (the Allmends) have secured the inhabitants from the most remote times, in the enjoyment of liberty, equality, and order, and as great a degree of happiness as is compatible with human destinies;" and he adds: "This exceptional good fortune is attributable to the fact that ancient communal institutions have been preserved, and, with them, the communal ownership." As an opening sentence to an account of a Communist experiment, this certainly appears promising. We shall see how far the facts accord with it. In the first place, there is an utter absence of equality among the residents of the "Cantons," as they are called—there is an inequality, in fact, which consists in a system of aristocratic privilege's, such as would never be tolerated by modern Socialists. "Mere habitation within the commune (says M. de Laveleye), or even the exercise of political membership, is not sufficient to constitute a title to the enjoyment of the common domain; descent from a family, which has possessed the right from time immemorial, or at least from before the commencement of the present century, being necessary. Collective succession is based on succession in the family; that is to say, descent in a privileged family gives the right to a share in the collective inheritance." Again, he says: "Side by side, in the same Edition: current; Page: [601] village, with a group of persons using the communal land, may be found inhabitants excluded from all the advantages which so materially improve the position of the former." Even in the ordinary matter of wood-supply, taken from the "communal forests," the inhabitants of a village are divided into four classes; and the wood is distributed among them in unequal portions, according to that classification. In a particular district known as Uri, the distribution of what is contradictorily called the communal possessions, is most unequal. It is not even as M. de Laveleye would have it—"To every one according to his work"—but, as he himself says, "to every one according to his wants." "It follows (he says) that the rich are benefited and the poor sacrificed." These inequalities have apparently led to differences. It is, in fact, anything but an Utopian community; for, in the words of M. de Laveleye himself, "Here, for long past, as in Florence, Athens, or Rome, the great and the small, the fat and the lean, have been at issue." The occupation of the people seems to be for the most part agricultural, from which fact the social condition can be fairly inferred. Private property seems to be an established institution; and it would appear that the use, even of the communal property, is divided, not equally, but according to the extent of that private property in each owner's hands. The people are described as "simple.' They appear to live a routine life; for "every member of the Commune" is compelled to devote a certain number of days' labour to the bottling of the communal wine, and to take part in cultivating the communal corn lands. The members cannot, moreover, claim their share in the communal property, even on marriage and coming of age. "They have to wait eight years, and then only have a quarter of their entire share." Every inhabitant may send Edition: current; Page: [602] "a cow and some goats" on to the common pasturage, and receive "two cubic metres of timber, and one hundred faggots." "If he grow tobacco on his plot of arable" (says M. de Laveleye) the produce is sufficient for his whole maintenance; and he adds: "It follows from this system that there is no pauperism." The facts concerning the social life of these people would rather suggest that thousands are certainly no better off than the most badly provided agricultural labourer. Under the head of "Advantages of the Allmend," M. de Laveleye says, "It is to be regretted that so many thousands of men depend for their daily subsistence on a single occupation, which is liable to interruption, from time to time, by every kind of crisis;" but he claims that "when they have a small field to cultivate, they can bear a stoppage of their trade, without being reduced to the last extremity." This is certainly not much to boast about in a community which, in M. de Laveleye's opinion, has "secured as great a degree of happiness as is compatible with human destinies." Their happiness certainly appears to be of a very primitive order. "Part of the communal revenue," M. de Laveleye tells us, "is spent in the purchase of cheese." The "basis of their banquets consists of wine and bread," and "the women are often present and moderate the excessive drinking." M. de Laveleye contends that the workmen in "great modern industries" are often "cosmopolitan wanderers," lacking patriotism, while, to the commoner under the Allmend, the native soil is "a veritable alma parens—a good foster-mother." "The patriotism of the Swiss (he says) works wonders," and "brings him from the ends of the world home to his native place." M. de Laveleye has not given any reason to account for the "contented Swiss" having gone to "the ends of the world"! Is it quite consistent with the Utopian contentment with his own national arrangements that he Edition: current; Page: [603] should thus wander away to lands where, what M. de Laveleye terms, the "unsettled Yankee," and, I might add, the restless Australian, are ever struggling towards an advanced social position? In order to show how happy and prosperous the commoner of the Swiss Allmend is, M. de Laveleye has resorted to two somewhat unfair contrasts. First he compares him with the Manchester mechanic, and, of course, draws a double picture in which the former has much the advantage. But it must be remembered that in any comparison between two societies, under systems of Communism and Individualism respectively, it is only fair and reasonable that the average of each society should be taken as illustrations. The Manchester mechanic can scarcely be taken as representing the average human production of the existing English social system. That system produces, in the first place, a refined and cultured aristocracy, and a remarkable list of poets, philosophers, scientists, artists, sculptors, engineers, architects, lawyers, divines, and littérateurs. It enables society to accumulate property of all kinds, conducive to man's comfort and enjoyment, in quantities and value which the mind cannot grasp; it substitutes for the mere but of the primitive agriculturalist every form and character of dwelling, from the classic and ornate palaces of the sovereign, to the simple thatched home of the cottager; it furnishes those dwellings in such a manner that the humblest of them contains, in the hundred and one results of the division of labour, more comfort than any single man could produce for himself in a whole lifetime; it puts us within reach of the accumulated and corrected knowledge of centuries, in medicine and science, by means of which diseases and scourges, which at one age were fatal to whole peoples, are now under man's almost complete control; it enables man to be supplied with luxuries and amusements which in a primitive community it would be impossible to possess; it supplies us with a literature which bridges Edition: current; Page: [604] centuries of history, and comprehends the thoughts and feelings of the greatest minds of all ages; it supplies us, either in our homes or in our public galleries, with works of art which no primitive people could possibly imagine to exist; it has, by offering incentives to industry, supplied man with materials, productive of happiness, to an extent, and in a variety which would bewilder the primitive mind. But such systems as those with which I have been dealing—what have they done? They have enabled the members of them to obtain a bare subsistence—and nothing more. They have given no protection or encouragement to the institution of private property; and in doing that they have removed from the individual the most powerful spring of action—self-interest; by means of which, they have reduced him to a condition of "social stagnation." Is it then a fair test, to compare a Manchester mechanic with the best type of men such as have been produced under the Swiss Allmends? But M. de Laveleye is not content with even such a comparison. In a subsequent part of his work, he has drawn a contrast between what he terms a "proud, active, independent, and industrious commoner of the Swiss Allmend," and a "degraded inmate" of an English workhouse! It would be about as fair on the other side to compare the highest product of Western civilisation—say a philosopher like Mr. Herbert Spencer, or a famous writer, such as M. de Laveleye himself, with one of the most degraded and destitute members of a Swiss Canton!
+
+I have, I think, said enough, regarding the condition of living under the Swiss Allmends, to show that the system—almost an exclusively agricultural one—would be in every way entirely unsuited to the industrious and thickly-populated countries of Western Europe, where territory is limited, and the people are to be counted in tens of millions.
+
+"The German Mark" is the next form of Communism with which M. de Laveleye has dealt, in the work to which I have referred. Whatever merit may be claimed for this form of village communities, which existed in "Ancient" Germany only, it is now an institution of the past. It did not, in fact, survive; and, since the Germans, as a people, are themselves one of the most progressive races in the world, we may reasonably infer that the social organisation which existed in ancient times, under the name of the Mark, so far failed to harmonise with that progressive element in the national character, as to lead to its absolute abandonment. This fact, in itself, raises a strong presumption against its economic merits. But, let us see what M. de Laveleye has to say in its favour. The constitution of this form of communities seems to have been familiar to those of Russia and Java. The element of private property was not altogether unknown under it, for we are told that "hereditary ownership applied to the house and enclosure belonging to it," though the rest of the territory was "the undivided property of the clan." M. de Laveleye, going as far back as the date of "Cæsar's Commentaries," for an account of the social condition of the inhabitants of these communities, quotes from such writings as follows:—"Those who remain in the country cultivate the soil for themselves, and, in their turn, take arms the next year, while the others remain at home.... They consume little corn, but live chiefly on milk and the flesh of their herds and devote themselves to the chase." The chase, and the rearing of their herds, provide the greatest part of their food; agriculture takes but the third place." M. de Laveleye offers a somewhat picturesque comparison between the "German peasant of to-day" and a member of one of these village communities, in which Edition: current; Page: [606] the former is disposed of in two lines, and, by an ingenious literary touch made to appear a miserable down-trodden creature; whereas, by a fine use of somewhat poetic phraseology, the latter is decked out in all the characteristics of the hero and the victor. "How great," he says, "is the difference between a member of one of these village communities and the German peasant who occupies his place to-day! The former lives on animal food, venison, mutton, beef, milk, and cheese; while the latter lives on rye bread and potatoes; meat being too dear, he only eats it very rarely, on great holidays. The former made his body hardy and his limbs supple by continual exercise; he swam rivers, chased the wild ox the whole day through, in the vast forests, and trained himself in the management of arms. He considers himself the equal of all, and recognises no authority above him. He chooses his chiefs as he will, and takes part in the administration of the interest of the community; as juror he decides the differences, the quarrels, and the crimes of his fellows; as warrior he never lays aside his arms, and, by the clash of them, signalises the adoption of any important resolution. His mode of life is barbarous, in the sense that he never thinks of providing for the refined wants begotten by civilisation, but he brings into active use and so develops all the faculties of man—strength of body first, then will, foresight, reflection." Where, I may ask, is this fine specimen of humanity now? He appears to have had plenty to eat, and a diet, too, of a somewhat invigorating nature. He is said to have possessed a fine physique, and to have developed all his faculties, in fact, "all the faculties of man." Surely, it is a melancholy confession that, with all these advantages around him, and with what M. de Laveleye considers such an enviable social organisation, he should have "died out"! The much despised "German peasant of to-day" shows no such signs of Edition: current; Page: [607] decay, notwithstanding M. de Laveleye's sympathy for him. The former was the product of a communal form of government; the latter is the product of the "strict and severe right of property," which he so distinctly deprecates. M. de Laveleye would do well to reflect whether these two sets of circumstances are illustrations of propter hoc or post hoc.
+
+M. de Laveleye's ideal of a citizen is difficult to understand. In picturing the lot of the Russian peasant, whom he holds up as a model result of the Mir, he describes him as "resigned to his lot, attached to ancient tradition, always ready to obey the orders of his superior, full of veneration for his priests, and content with an existence which he never seeks to improve." On the other hand, in picturing the lot of the "German peasant of the present day," whom he regards as the pitiable result of "the strict and severe right of property," he describes him as "lazy; overwhelmed by the powerful hierarchies, political, judicial, administrative, and ecclesiastical, which tower above him; he is not his own master; he is an appendage of society, which disposes of him as of other property. He trembles before his pastor or the rural guard; on all sides are authorities which command him and which he must obey. Might these not be descriptions of the same class; the one being clothed in the language of the advocate, the other in the language of the opponent? The one is "lazy" whilst the other is "resigned to his lot, and content with an existence which he never seeks to improve;" the one is "not his own master," but surrounded on all sides with "authorities which command him, and which he must obey," whilst the other is "always ready to obey the orders of his superiors." The one "trembles before his pastor," whilst the other is "full of veneration for his priest." The one is "overwhelmed by the powerful hierarchies, political, judicial, administrative," whilst the other is attached to ancient tradition, ready to obey the orders of his superiors Edition: current; Page: [608] and full of veneration for his emperor, and is, in fact, "the serf of the commune." Yet the one class is condemned by M. de Laveleye, and the other held up as a model for imitation! Mere words would seem to be capable of deceiving even those who use them most deftly. In the concluding portion of M. de Laveleye's chapter on the German Mark, that writer says: "Modern societies possess a collective power incomparably greater than that of primitive societies; but in the latter, when they escaped conquest, the individual was endowed with far superior energy." This is certainly not borne out by M. de Laveleye's own statements in the same work. He admits that, while "in all western Europe, we have to admire the marvels accomplished by private ownership, in Russia agriculture abides by the processes of two thousand years ago." He admits that the American is "unsettled and enterprising," living in the midst of "riches and progress;" that he is "eager for change and action, a thirst for gain, always in search of novelty; accustomed to count on nobody but himself, and a finished type of Individualism;" but he, in the same breath, describes the Russian as "content with an existence which he never seeks to improve.... and wanting in "instruction, motive, and energy." Moreover, M. de Laveleye himself has admitted that under this system of primitive property, "individual interest is not brought into play, men become idle, and the whole social body is in a state of stagnation." He may well observe, as he has done, that "to estimate the relative value of the collective principle, and the principle of Individualism, we need only compare Russia and the United States." Yet, the writer of this and the previous admissions contends that, in the primitive societies, the individual was endowed with "far superior energy"!
+
+The German Mark then, according to M. de Laveleye's own showing, never succeeded in producing any higher Edition: current; Page: [609] form of manhood than that of the "heroic barbarian;" and notwithstanding that he spent the whole day in training himself in the management of arms, it did not even succeed in enabling him to survive the advances of other less heroic forms of society!
+
+I need not, I think, dwell upon the utter impossibility of such a form of society being maintained (in which unlimited territory would be required to afford hunting-grounds for such a people) among a community, so large as that of Germany, the population of which is now nearly fifty millions. The whole territory of the German empire (208,000 square miles) would give to each member of the population about 2 1/2 acres, which would be hardly sufficient to maintain a race who "chased the wild ox the whole day," and "never laid aside their arms."
+
+I may then, I imagine, conclude, so far as I have gone, that if the Communist's millennium is ever going to be realised, it will not be by a return to the form of society which was produced by the Russian Mir, the Swiss Almends, or the Swiss Mark.
+
+But M. de Laveleye has other illustrations to offer of the beneficial results of Communist principles. He devotes a few pages to the agrarian system of the Irish Celts, concerning whom the little knowledge we possess shows "that the same institutions existed originally among them as among other nations—joint property, and even community of wives, and cannibalism." As a Communist organisation, that system came to an untimely end, by reason of just the same cause which would make any primitive form of society impracticable in any European country. M. de Laveleye quotes authorities to show that "It was the increase of the population which put an end to the periodic re-distribution of the collective property."
+
+Under the head of "Agrarian Communities, among the Arabs and other nations," M. de Laveleye shows that by the system existing at Algeria "the Arabs have (now) arrived at very much the same point in economic evolution as the Germans had in the time of Tacitus"! There is nothing there said which would be at all likely to cause the citizens of any European or colonial community to emulate the system of society which has been thus realised. M. de Laveleye has generalised his data so far as to have concluded that "the same institutions produce among all races similar results." And in a subsequent chapter he endeavours to show how universal is the rule that family communities succeed to village communities. "We have seen everywhere," he says, "in India or Java, as in Peru or Mexico, alike among the negroes of Africa and the Aryans of Europe, the elementary social group was the village community, which was in possession of the land, and divided equally, among all the families, its temporary enjoyment. At a later period, when common ownership with periodical partition fell into disuse, the soil did not immediately become the private property of individual owners, but it was held as the hereditary inalienable patrimony of separate families, who lived in common under the same roof, or within the same inclosure." M. de Laveleye has not attempted to bridge the chasm which exists between the two systems, and which is summarily described above by the expression "fell into disuse." Why did the communal system fall into disuse? That is a question which requires answering; and the burden of finding a satisfactory answer is thrown upon those who affirm the success of the institution thus "fallen into disuse" or given up. Until that answer is forthcoming, we are justified, by a knowledge of man himself, by a knowledge of the process of evolution, by a knowledge of history itself, in inferring that it became Edition: current; Page: [611] unsuited to those who had previously practised it and lived under it.
+
+Lest I should be suspected of misunderstanding M. de Laveleye, in representing him as an advocate for the Communist principles which primitive communities followed, I venture the following further quotations from his preface. "If," he says, "Western societies had preserved equality, by consecrating the natural right of property, their normal development would have been similar to that of Switzerland. They would have escaped the feudal aristocracy, the absolute monarchy, and the demogogic democracy with which we are threatened. The communes, inhabited by free men, property holders, and equals, would have been allied by a federal bond to form the state; and the states, in their turn, would have been able to form a federal union such as the United States." To show further that he is quite serious in his occasional obvservations expressive of approval of the communal system, I quote the following, also from his preface. "The knowledge of primitive forms of property may be of direct interest to new colonies which have immense territories at their disposal, such as Australia and the United States, for it might be introduced there in preference to quiritary property."
+
+M. de Laveleye has thus undertaken to show, from actual facts, that Communist principles are sound and practicable. Has he succeeded? I think not; for, out of all his illustrations, there is not one which does not prove its own absolute impracticability for any people limited in territory, or desiring any ordinary standard of enterprise and activity.
+
+I shall pass now to a review of the theories of the more modern Socialists of France and Germany, and endeavour to present their merits and demerits with equally fair prominence. I shall, in that review, touch upon the various Edition: current; Page: [612] schemes proposed by Owen, St. Simon, Karl Marx, Fourier, Louis Blanc, Cabet, Proudhon, Lasalle, Baboeuf, and Rodbertus. I shall then investigate, with fitting brevity, the Socialist and Communist experiments which have been attempted, and are (some of them) now being continued in the United States. I shall then close the chapter with a few concluding generalisations on the results of my investigations.
+
+Professor Ely, to whose careful, impartial, and comprehensive treatise, I am greatly indebted, in connection with this branch of my subject, very properly insists upon the necessity of distinguishing between the Communism and Socialism of the middle ages, (with which I have already dealt) and those of a more modern date: that is to say, from the latter part of the eighteenth century; and he quotes Schäffle as having said of the latter that "it would not have been understood among the ancients and the oppressed classes of the middle ages." In the former parts of this chapter, I have had frequent occasion to draw attention to the fact, that in all the Communist schemes (if so they may be called) of the middle ages, or of more modern times, such as those with which I have already dealt, the participation in the communal system was purely voluntary. And that appears to be the distinction between the modern theories and those of former times. As Professor Ely says, speaking of all the Communist organisations which existed previous to the Revolution of 1789, "No attempt was made by their authors or any group of immediate disciples to regenerate the world by substituting them for existing social and economic organisations." Even those speculations which immediately preceded the Revolution differ from those which followed it in that respect— Edition: current; Page: [613] such, for instance, as those of Mably, Morelly, Brissot de Warville, and Rousseau. It is true that Brissot (as Professor Ely puts it) "tickled the palates of those, craving literary and philosophical sensation, by declaring private property to be theft," but it is equally true that he defended private property in the National Convention of 1792. Rousseau, too, had in his writings characterised the claimants of property as enemies to the human race; nevertheless, in his "Political Economy," he regards property as the basis of the social compact, the first condition of which was that every one should be fully protected in its enjoyment. Mr. John Morley, indeed, says of Rousseau, that he "never thought of the subversion of society, or its reorganisation on a Communistic basis."
+
+The Revolution of 1789 seems, then, a fairly distinct epoch from which to date the rise of the modern schools of Socialism and Communism. In the language of French political writers, since that epoch, the working-classes are spoken of in different and more dignified terms. The poor man is now a proletarian, and the class to which he belongs is spoken of (in the aggregate) as the proletariat. It would be interesting, had I the space at my command, to investigate with some detail the various causes which led to the new departure in the nature of social schemes, after the Revolution epoch. I cannot, however, do so, and must be content to observe that when the complete subversion of existing institutions occurred, as a consequence of the Revolution, men found themselves alone and isolated as citizens of a great but disorganised community. They were very much in the position of a regiment of soldiers which had been kept together and held in discipline by the presence and control of their commander, who had suddenly been removed from that control, and thus left them in an isolated straggling condition. The disorganisation of Edition: current; Page: [614] existing institutions had deprived citizens of the binding and controlling influences of society. There was no standard; no acknowledged guage by which to test the propriety of individual action. A period of the most complete individualism set in, and men of all kinds were (to use an expressive phrase) "put upon their metal." Professor Ely says: "Each one was left free to pursue his own interests in his own way;" and he adds: "Commerce and industries took a wonderful start, and, by the aid of inventions and discoveries, expanded in such a rapid and all-embracing manner as to astound the world." Unfortunately, far too favourable results were expected. The theories of a sound Liberalism had to some extent been realised; but too much was anticipated from it. Those doctrines had, as Professor Ely says, "been expected to usher in the millennium, and, instead of that, they beheld the same wretched, unhappy, sinful world, which they thought they had left." Enthusiasts and dreamers; men who allowed the poetic side of their minds to obtain too great an influence over their judgment in mundane affairs—these, all, were disappointed, and of course followed up that disappointment by picturing a brighter and a better condition of things. But they were only pictures. It requires some resolution to enable the mind to face the most ugly facts concerning human nature. The fertile imagination passes them lightly over; for the recollection of them blurs and discolours the dreams and pictures of the fancy. To look for a millennium, as human nature is constituted and situated, involves the omission, in our mental calculations, of some of the most permanent factors in the operation. And this is, as I shall sufficiently show, what has led to both the conception and the ultimate abandonment of almost every Utopian scheme of modern times. Edition: current; Page: [615] What we call "wretchedness, unhappiness, and sin," are the inevitable results of the gap which does, and must always exist between our powers and our aspirations—between our capabilities and our most laudable desires. We must all work if we would be even moderately happy. The labourer works for a living, and finds pleasure in physical rest and relaxation. The capitalist works mentally in the worry and anxiety lest his possessions should be lost or become lessened; and he finds pleasure in mental rest and relaxation. The apparently idle man, in many cases, works harder than them all, in the absolute pursuit of pleasure; and, in many cases, he never secures it! But all have their disappointments; their causes for unhappiness; and their times of wretchedness; and it will require either a new world for humanity to live in, or a radical alteration in human nature itself, before the dreams or hopes of the poetic mind are, or can be realised. The most we can hope for and seek to produce, is the minimum of human pain and anxiety, not in our own generation only, but in our race, of which innumerable generations have to follow us; and that can only be realised by looking the world in which we live, and human nature itself, just as it is, straight in the face, and, after the most careful investigation of its characteristics and its wants, immediate and remote, as also its ever-present infirmaties, basing our social and political theories, not upon the material of which we should like human nature to be made, but on that of which it is made—in short, upon fact, not upon fancy. The French Revolution produced innumerable prose poets, some of whom contributed to the literature of their age, whilst many were content to give their Utopian theories the more ephemeral existence which is afforded by unrecorded human speech. The law of social oscillation here performed its part with unerring fidelity. The pendulum of men's minds, after a time, swung back from the belief in a pure individualism such as had prevailed, to a longing for Edition: current; Page: [616] the other extreme of a "regenerated society"—"a golden age," in which "humble simplicity and trustful dependence on the part of the labourers," were expected to be met by "generous benevolence and protective care on the part of the master."
+
+Let us now examine the various schemes by which these fond hopes were claimed to be capable of realisation. Professor Ely has well said that "in order to obtain an adequate idea of Socialism, and of the justice of its claims, we must imagine ourselves, for the time being, labourers, with all their trials and sufferings. We must endeavour to think ourselves into their condition." This, every fairly disposed mind would do, so long as the point of view is not so entirely exclusive as to involve the neglect of the interests of the numerous other classes who go to make up society as a whole. And it is necessary to remember, always, that every scheme which aims at increased human happiness, must have regard to the next and following generations, which may be weakened and demoralised in their self-helping faculties, by the unwise indulgence of the existing one. That is an element of enormous importance: too frequently lost sight of in our political calculations.
+
+We would do well, too, to remember that the greatest Socialist authorities of modern times have not been, as many suppose, mere worthless penniless demagogues, or lazy fluent agitators, who find it easier to talk than to work. As a fact, many or most of the leading authorities have been "men of character, wealth, talent, and even high social standing." But this fact "cuts two ways"; for it will be found that the easiness of their circumstances had, in several cases, obviated the necessity for their coming into contact with the less poetic side of human nature, a knowledge of which would, perhaps, have convinced them of the impracticable nature of their schemes.
+
+I have spoken hitherto of Communism and Socialism jointly, as if there were very slight differences between the two schools. It is necessary that I should now explain the difference between them, according to the latest acceptation of the terms. Mill says: "The word Socialism, which originated among the English Communists, and was assumed by them as a name to designate their own doctrine, is now, on the Continent, employed in a larger sense; not necessarily implying Communism, or the entire abolition of private property, but applied to any system which requires that the land and the instruments of production should be the property, not of individuals, but of communities, or associations, or of the government." Elsewhere, the same writer speaks of the Communistic doctrine, as forming the "extreme limit of Socialism, according to which not only the instruments of production, the land and capital, are the joint property of the community, but the produce is divided and the labour apportioned, as far as possible, equally." These definitions seem very clear—indeed too clear; for it would apparently be impossible to find two minds which understand the former term—Socialism—with exactly the same limitations. M. de Laveleye, in a comparatively late article, has said: "I never yet met with a clear definition, or even with any precise indication as to the meaning of the word;" and Proudhon, when interrogated by the magistrate, in 1848, concerning his political creed, replied, "Certainly I am a Socialist," and on being further asked to explain its meaning replied, "Socialism is any aspiration towards the amelioration of society." If the latter definition were strictly correct, Socialism could certainly do little harm. There could not be any possible objection to the indulgence, by any and every citizen, in his aspirations for the amelioration of society. We all have such aspirations. But the real point Edition: current; Page: [618] at issue is whether any and every citizen, or even a majority of citizens, should be allowed to force his or their schemes for that "amelioration" upon the remainder of his fellows, by aid of the iron hand of parliament. Proudhon's definition, if such it may be called, is useless in another sense. Socialism seeks the immediate amelioration, without sufficient regard for the morale and the mental and bodily discipline of future generations. Moreover, that amelioration is assumed to be realisable by providing the poor with more of the comforts of life, which are first to be taken from the well-to-do—forcibly. I can see very plainly, from a tolerably comprehensive reading of Socialist literature, that the term itself is now understood to include all legislative attempts at the equalisation of social conditions, that is to say, such as involve interference by the state beyond the limits at which that interference is necessary to secure equal liberties or equal opportunities. This conclusion is confirmed by M. de Laveleye in the article referred to, where, in criticising the vague definition previously mentioned, he says: "Proudhon's definition is too wide; he omits two most important characteristics of Socialism. The first is, that the great aim of the system is to equalise social conditions; and the second is that it endeavours to effect this through the medium of the law or the state. The aim of Socialism (he adds) is equality; and it will not admit that liberty alone could lead to a reign of justice." It is quite possible that there may be many persons who, not having given this subject a large amount of attention, may be inclined to consider that a "small extent" of the levelling, which the adoption of such principles would involve, would not do "much harm;" and they may therefore view the school, as I have defined it, as a not very dreadful danger. To such persons I can only say that, from that line which I have drawn as a limit to state interference up to pure Socialism and pure Communism, there is no acknowledged halting-place. If once the principle is introduced, Edition: current; Page: [619] there is no intermediate principle upon which the interference can be curtailed. The system of confiscation—for it involves that from the moment of its departure from the true limits—will go on without restraint, except it be of a physical nature; and the disorganisation of society, on its present basis, will have commenced. I shall have an opportunity, in a subsequent part of this chapter, of mentioning some of the most extreme and impracticable of the demands of the Socialist party, in which still further confirmation will be afforded of my definition. It is quite possible that, when Mill published his "Principles of Political Economy," his definition may have been sufficiently broad; but twenty years or more have made a great difference in the attitude and tone of the Socialist school; and I shall subsequently show that he even much altered his views on the whole subject. It will now be found, as I have said, to include all legislative attempts at the equalisation of social conditions—other than those which have the effect merely of securing equal liberties or opportunities to all citizens. The following passage from Professor Ely's interesting work will, I think, fully explain the attitude of the most modern form which Socialism has taken. "Socialism (he says) is the opposite to Individualism. A Socialist is one who looks to society, organised in the state, for aid in bringing about a more perfect distribution of economic goods, and an elevation of humanity. The Individualist regards each man, not as his brother's keeper, but as his own, and desires every man to work out his own salvation, material and spiritual."
+
+One of the most interesting figures among the prominent advocates of Socialism in France is that of Count Henry de Saint-Simon. He was born at Paris, in 1760, and is said to have belonged to a noble family of France, which could Edition: current; Page: [620] trace its origin to Charlemagne. The family produced many distinguished nobles and commoners. Professor Ely says of him that "he did not desire the dead and uninteresting level of Communism, but placed before him, as an ideal, a social system which should more readily render to man the just fruits of his own individual exertions, than does our present society. There is one fact concerning Saint-Simon, which is observable in connection with almost every one of the most ardent advocates of the more complete and elaborate Communist and Socialist schemes, viz., that their enthusiasm bordered, if not frequently trespassed, on the domain of mental unsoundness. Through a family quarrel St. Simon lost titles and an immense fortune. This he seems to have regarded somewhat philosophically, merely observing, "I have lost the titles and fortune of the Duke of SaintSimon, but I have inherited his passion for glory." In order that he might not forget what he conceived to be the grand destiny in store for him, he ordered his servant to awaken him every morning with the words, "Arise, Monsieur le Comte; you have grand deeds to perform." He entered the army, and subsequently fought in the American war under Washington. Although promoted to the rank of colonel in the French army, at the age of twenty-three, he gave up the military career. He claimed to have closely studied American society and its institutions while there. "The life purpose which I set before me (he said) was to study the movements of the human mind, in order that I might then labour for the perfection of civilisation."
+
+That he was not content to do the very small and insignificant part which even the greatest of men must be satisfied to contribute to the world's progress and improvement, is shown by the somewhat ill-digested schemes which he promulgated. He proposed the building a canal to unite the Edition: current; Page: [621] Atlantic with the Pacific. A few years later he formed designs for connecting Madrid with the sea; but the French Revolution then occurring, he turned his attention to matters of more immediate concern. He sided with the people, and was elected president of the Commune, where his property was situated. In his address to the electors, he stated his intention of giving up his title, as he regarded it as inferior to that of an ordinary citizen. He was, notwithstanding the real bent of his sympathies, imprisoned on account of his rank. Then followed an event, which I venture to think conclusive, as to his lacking the soundness of mind essential to the discussion or investigation of sociological and political matters. He had a vision—his ancestor, Charlemagne, appeared to him, and encouraged him with a prophecy of future greatness. The language of the prophecy consisted of the usual style of phraseology adopted by spectres. "Since the world has existed (said Charlemagne) no family has enjoyed the honour of producing a hero and a philosopher of the first rank; this honour has been reserved for my house. My son, thy success as a philosopher will equal mine as a warrior and politician." Having made some very successful investments in the purchase of confiscated national lands, he devoted seven years to preparatory study of physiology and the physical sciences. Professor Ely says: "What he had in view was a science of the sciences; a science to classify facts derived from all sciences and to unite them into one whole"; and he adds: "It was from him that his scholar Auguste Comte derived his idea of founding a universal science.
+
+It is a remarkable fact that Comte himself was visionary enough to believe that the "regeneration of society," as the result of his "system," would come in his life time; and he actually fixed the dates at which the different European countries should separately undergo the change in government, in order that European society should not Edition: current; Page: [622] be inconvenienced by the sudden transformation! His enthusiasm carried him so far that he wrote of the "Great Western Republic" which was to be formed of the five advanced nations—the French, Italian, Spanish, British and German, as if it were about to immediately become an accomplished fact; and he even designed an European flag which was to be used when all of the above nations had thus merged under the fraternising influences of the "Religion of Humanity." Saint-Simon lost all his money, and ultimately became a copyist at about £50 a year. "He copied nine hours a day, and robbed himself of sleep in order to develop his philosophical and social system." Although he wrote several other works, it is from that entitled "Nouveau Christianisme"—The new Christianity—that his disciples principally draw their teaching. Comte and other of his pupils and admirers were around his death-bed, and the scene was both touching and dramatic. One of the last sentences uttered by him was addressed to his favourite scholar, Rodrigues, and clearly shows that, notwithstanding all his schemes for the regeneration of society, he clearly recognised the absolute necessity of affording free play to human faculties. "Rodrigues (he said) do not forget, but remember that to accomplish grand deeds you must be enthusiastic. All my life is comprised in this one thought: to guarantee to all men the freest development of their faculties." Let us see how this principle, which is compatible with the soundest Individualism or Liberalism, was reconciled with his theories of Socialism. One of the first steps in Saint-Simon's scheme was that universal peace was to be guaranteed. Here we at once see distinct evidences of the poet and the dreamer. In order to realise this Utopian condition of things, an European parliament was to be formed, composed of true leaders, whose business it would Edition: current; Page: [623] be to arbitrate between nations. "Secondly (says Professor Ely) leadership is to establish universal association, guaranteeing labour to all, and a reward in proportion to services rendered. Equality is to be avoided, as involving greater injustice than our present economic life. Recompense in proportion to merit is the true maxim; but, as all are to be guaranteed work, all must work, either mentally or physically.... An idler is a parasite.... Wealthy idlers are thieves; another class of idlers consists of beggars, and this last class of do-nothings, Saint-Simon considered scarcely less contemptible and dangerous than the first." In Saint Simon's kingdom, everything which was good, and true, and beautiful, was to be encouraged; it was to be essentially religious, and its chiefs were to be its priests. Saint-Simon considered revolution injurious, and regarded it as unfitted to secure social regeneration; because it is destructive, while what is sought is a constructive power. Reform, in his view, must be brought about by public opinion, and public opinion should be enlightened by printed and spoken word. The king was to take the title of the "First industrial of his kingdom." Professor Ely says that though authority is to be found in the works of Saint-Simon for all the fundamental ideas of his followers, nevertheless he is not accountable for some of their later extravagances. He regards it as almost impossible to separate his teaching from that of his followers. "The New Christianity" was the Bible of the Saint-Simon religion. In it Saint-Simon contended that all morality must be derived immediately from the principle that men ought to regard each other as brothers. The economic features of this school are shortly as follow: Production was to be carried on in common, and the fruits of labour to be divided according to an ideal standard. The Saint-Simonians were dissatisfied with the ill-regulated distribution under the existing régime most people are— Edition: current; Page: [624] and they believed it possible to remedy this evil by the substitution of state property for private property. In this, most practical and reasonable men will differ from them. They certainly disapproved any equal distribution of labour's product; for they recognised that the effect of such a practice would be to reward the energetic and the intelligent, no more than the idle and the stupid. They held that men were, by nature, unequal, and should accordingly be rewarded for the exercise of their superior abilities in the general interest. Caste was not intended to be abolished; for society was to consist of priests, servants, and industrials: the latter consisting of those engaged in manufactures, agriculture, and commerce. The government was to consist of the chiefs of the priests, the chiefs of the servants, and the chiefs of the industrials. All property was to belong to the state. Professor Ely observes that it is not clearly stated how the ruling body was to be selected, whether by popular vote or otherwise; but it would seem that the Saint-Simonians assumed that the good, and the wise, and the best would be voluntarily, and without dissension, selected as leaders—an assumption (adds Professor Ely very pertinently) scarcely warranted by the world's experience with universal suffrage.
+
+Inheritance was absolutely excluded from this scheme of regeneration. When the Saint-Simonians were charged, in 1830, by the Chamber of Deputies, with advocating community of goods, and of wives, they put their defence in the form of a pamphlet, from which we can obtain some interesting data concerning their tenets. Some of the principles there expressed are compatible with the most absolute Individualism, and it is presumed would be rejected by the still more modern Socialist school.
+
+"The system of community of goods (they say) means a division among all the members of society, either of the means of production, or of the fruits of the toil of all. The Edition: current; Page: [625] Saint-Simonians reject this equal division of property, which would constitute in their eyes a more reprehensible act of violence, a more revolting injustice than the present unequal division.... They believe in the natural inequality of men, and regard this inequality as the very basis of association, as the indispensable condition of social order.... Each one should rank according to his capacity, and be rewarded according to his works. But, in virtue of this law, they demand the abolition of all privileges of birth...the destruction of inheritance. They demand that land, capital, and all the instruments of labour should become common property, and be so managed that each one's portion should correspond to his capacity, and his reward to his labours." The new faith gained a large number of adherents. A "Sacred College of Apostles" was formed; missions and bishoprics were established; organs, for the dissemination of their doctrines were started; a distinguishing costume (blue) was adopted, varied in shade according to rank, and ultimately, in the craving for symbols, they resorted to a kind of waistcoat "so contrived that no one could put it on or take it off without assistance," the object being "to represent the dependence of man upon his fellow-man." The whole school now became involved in a species of mock sentimentality. One of the "fathers" of the regular assemblies, together with a number of other disciples, withdrew from the association, in consequence of the second "father" endeavouring to introduce principles much akin to free-love. A female Messiah was then looked for, and from one extravagance to another the association broke up, and the members became scattered.
+
+Mill, speaking of Communist societies, says: "The two of the highest intellectual pretension are those which, from Edition: current; Page: [626] the names of their real or reputed authors, have been called St. Simonism and Fourierism; the former defunct as a system, but which, during the few years of its public promulgation, sowed the seeds of nearly all the Socialist tendencies which have since spread so widely in France."
+
+I pass now to a notice of François Noël Babœuf, who was born in 1764. He also was of a good family, his father having held the rank of major in the Austrian Army. He entered, at an early age, into the civil service, but was arrested on a charge of forgery, for which he received a sentence of twenty years' imprisonment. He, however, escaped to Paris, and threw in his lot with the revolutionary movement. He had studied the Greek and Roman Socialist institutions, and founded the pioneer Socialist paper called the Tribune of the People. Through this medium, under cover of the nom de plume "Caius Gracchus," he attacked existing institutions. He was ultimately imprisoned (1795) for giving expression to revolutionary projects. As soon as he obtained his release, he (with others) organised a conspiracy (called the conspiracy of Babœuf) to overthrow existing institutions, and to establish the Communistic millennium, which he and his colleagues (who had been fellow-prisoners) had arranged, in theory, while undergoing sentence. They called themselves "Equals." Their success was so great that, in 1796, as many as seventeen thousand men were ready to co-operate with them in the subversion of the Directory, and the establishment of a Communist government. One of the most prominent among them exposed the conspiracy, and the principals were arrested. Babœuf himself, and another, were condemned to death. Babœuf was executed in 1797.
+
+He never published any systematic work, and the theories of his proposed scheme of Communism must be gleaned from his articles, and from other sources, such as the "Manifesto of the Equals," and Buonarroti's "History of the Conspiracy for Edition: current; Page: [627] Equality." In the latter work, Babœuf's views are largely expounded. The leading principle of the school is that "the aim of society is the happiness of all, and happiness is considered to consist in equality." The doctrine of equality, as here understood, was absolute. No single man must be richer or more powerful than his fellows. This was considered indispensable. The first and fundamental article of the manifesto ran thus: "Nature has given to every man an equal right to the enjoyment of all goods." They did not propose a "general division" of existing property, and then to go on as before; nor was everything necessary to the scheme to be carried out at once. Deliberation and consideration were by no means disregarded. It was, in fact, estimated that it would occupy fifty years before all property would be nationalised. At first, only corporate bodies and public institutions were to be nationalised, and the property of living persons was to follow, only on their demise. All was to become common property. Every one was to work in the common interest, in proportion to his capabilities. People were to be classified according to their employment, and each class was to choose a leader. Each commune was to have its assembly of delegates, and the assembly or council was to determine the capacity and occupation of all its constituents, subject to the supervision of the central council. The manufactured goods were to be stored up in public magazines, and subsequently distributed. The trade with foreign countries was to be maintained; and, with that view, storehouses were to be erected near the frontier. The surplus products were to be kept in reserve for times of want. Over-exertion was to be avoided! Citizens were to live in villages, as the crowding in large cities was considered unnatural, and detrimental to morals. Everybody was to have accommodation in a comfortable dwelling-house, and wearing apparel of the same make and Edition: current; Page: [628] shape. The food was to be frugal, and luxury was to be stringently prohibited, as interfering with man's proper mission. Agriculture was to receive most attention, while the industrial pursuits and the arts were to be restricted to such as had the aptitude to acquire them speedily. All literary productions were to undergo careful examination before publication and dissemination. Children were to be removed from the family at an early age, so as to avoid the beginnings of inequality. As Mr. Kaufmann has observed, "The fatal errors implied in this system scarcely require a refutation.... The total suppression of individual liberty; the establishment of a complete despotism; the trampling under foot of the arts and sciences—in fact, all that raises society." One is inclined to ask, How long would such a system last? And, even if it did last, what would become, in a few generations, of human energy, human enterprise, ambition, refinement, culture, and the aspirations for a still better and happier existence, which, though doomed to produce for us constant disappointment, nevertheless supply us with an ideal to which we are ever making some infinitesimal approximation. Such feelings would, inevitably, be eradicated, or, at least, so completely suppressed as to reduce everyone to the mere animal existence. "The whole scheme," says Professor Ely, "is dreary and monotonous.... All must be dressed alike, all must eat the same quantity of the same kind of food, and all must be educated alike.... All things are contrived to level down, and not to level up; to bring the highest down to the plane of stupid self-satisfied mediocrity, and not to elevate the less fortunate to higher thoughts, feelings, and enjoyments;" and the same authority adds, "This most cheerless of all Communistic schemes fitly took Edition: current; Page: [629] its origin among those sunk in the most degraded materialism of the French Revolution"
+
+I pass now to a scheme of social reform which Mill has characterised as worthy of being counted "among the most remarkable productions of the past and present age." I refer to that of Charles Fourier. It has been said that "Saint-Simon was a man of impulse and feeling; Fourier was a man of the understanding and logic. The former founded a religion; the latter a science." Fourier was born in 1772, and sprang from the middle classes. He combined, in his younger years, an unusual love of the practical and the beautiful. He visited several continental countries as a commercial traveller, and, on his father's death, inherited about £5000, all of which he lost during the siege of Lyons. He was taken prisoner; but subsequently, being released, joined the army, from which, after two years, he was compelled to retire on the score of ill-health. He is said to have lacked the qualities which secure great worldly success. At the age of thirty-six he published his first work, consisting of a rough outline of a social scheme which his mind had, at an early age, begun to evolve. During the following five years, he had not secured a single disciple. He communicated with Robert Owen, but received no encouragement. The Saint-Simonians, even, are said to have regarded him with contempt. His knowledge of the world does not seem to have been great; for he began his search for disciples by publicly announcing "that he would be at home every day at noon to meet any one disposed to furnish a miltion francs for an establishment, based on the principles he had published." As might be expected, nobody came, though, it is said, he kept the appointment every day for twelve years. One would, at the first blush, pronounce as impracticable, a scheme for regenerating the Edition: current; Page: [630] whole of society which required on a small experiment a million francs but, during his life, an experiment was made. A philanthropic member of the Chamber of Deputies offered an estate for the purpose, and the necessary number of converts was accordingly found. Fourier himself was not satisfied with the management, and the experiment failed. By this time, however, he had won over many disciples, and he is said to have thus obtained the means of living in comfort. There is a purely scientific side to his theories which I need not go into at great length. His work "The Theory of the Four Movements and the General Destinies," represents society, animal life, organic life, and material, as being subject to one law—that of gravitation. He applied to those four elements the same theory which Newton discovered regarding matter. This discovery, in the opinion of Fourier, provided for "the sudden passage from social chaos to universal harmony." Here again we see the dreamer and the idealist. Professor Ely, to whom I am indebted for most of my information regarding this, as well as the other short sketches of the most prominent of the French and German Socialists, says of this particular work—"The Four Movements"—that "the fantastic notions and ridiculous prophecies contained in it were the subject of so much ridicule, that, for a long time, he (Fourier) would not mention the book, and was unwilling to hear others speak of it." His chief work was his "Treatise on Domestic Agriculture, or Industrial Gravitation." In this, he gave a complete exposition of his system, which was indeed sufficiently comprehensive, since it included "man and the earth, and the heavens above, and the waters under the earth." Much of the subject matter is suggestive of the abstruse and useless speculations regarding first principles, which were indulged in by such philosophers as Pythagoras Edition: current; Page: [631] and Heraclitus. They are full of such phrases as "eternal and indestructible principles;" "acting and moving principles;" "passive principles." Some of the prophecies which he indulged in, as the result of calculations in figures, are strangely suggestive of a disordered mind. He, for instance, made an estimate which induced him to affirm that the human race was limited in its earthly existence to eighty thousand years. That period was divided as follows: Infancy, 5,000 years; growth, 35,000; decline, 35,000; dotage, 5,000. As might be expected, the transition from infancy to growth was to be contemporaneous with the adoption of his theories! Much of the matter is of the most childish and ridiculous nature. Professor Ely speaks of them (and mentions a good many of them) as "nonsensical speculations." It is to his "New Industrial and Social World" that we must look for the more practical and useful side of his philosophy. But even that is pregnant with useless divisions and subdivisions of the senses, and the feelings of the mind and body. These punctilious classifications remind one of the lengthy and unscientific divisions and subdivisions of the modern popular phrenologist. Fourier, somewhat differently to other Socialists, claimed free-play for the passions, which our present form of society did not in his opinion allow. He aims always at what he calls "harmony." How he reconciles a greater free-play of passions than society has hitherto enjoyed, with harmony, there is no means of learning. The number of persons who were to dwell together in one building, in his ideal community, was regulated by a calculation, based on the number of our passions, which he estimated at twelve. By some arithmetical method of his own, he fixed upon a number, varying from four hundred to two thousand. A larger number would, he considered, produce discord. That such an event might happen with two thousand people in one building (a sort of gigantic boarding-house) does not Edition: current; Page: [632] seem to have appeared likely! He contended that all labour became pleasant, so long as it was voluntary, and upon that assumption much of his system is based. I shall, subsequently, show that Mill even regarded this as a most valuable feature in his system. He relied much on unrewarded rivalry, and evidently anticipated that the era of the "myrtle wreath" would be repeated and universally welcomed. Some idea of his mental condition can be obtained from the fact that he entered into, and made known the results of a calculation, by which he showed that if England would adopt his theories, the labour would become so productive as to enable her to pay off the national debt in six months, by the sale of hen's eggs!
+
+"We are going (he said) to extinguish the colossal English debt on a fixed day, with half of the eggs produced during a single year. We shall not lay violent hands on a single fowl, and the work of accomplishing our purpose, instead of being burdensome, will be an amusement for the globe." Professor Ely says: "Such amusing and ridiculous passages in his writings do not give us any sufficient ground for condemning the cardinal principles of Fourierism." I venture, however, to think that if writers like Mill or Spencer had indulged in the publication of such nonsense, few thoughtful men would care to spend much time in studying their remaining productions. The one principle which seems to lie at the root of his more rational theories, is that of co-operation. He objects to the waste of time and energy in the maintenance of hundreds of retail shops; in the fact of two lines of railway running in the same direction; in the cooking of four hundred small dinners where Edition: current; Page: [633] one large one would do. But there is a reason for all that. Experience shows that institutions of all kinds can become top-heavy; that organisations, when grown beyond a certain size, can be less economically managed than small ones; and, regarding dinners, people are prepared to set off the extra trouble and exertion, or the extra expenditure, against the privacy which is enjoyed by dining alone with one's family. No one, I think, can study the writings, and the system of Fourier, without feeling that it will utterly fail in pleasing the modern school. I shall have occasion, subsequently, to refer to certain practical experiments which have been made upon the principles of Fourierism, as the system is called. The most remarkable was that at Brook Farm. There are thirty-four experiments recorded, all of which failed.
+
+It is worthy of observation, too, as showing that the most perfect harmony does not exist among Socialists themselves, that among the later of Fourier's writings was a severe attack on the principles of the Saint-Simonians and the Owenites. Mill has, in his treatise on Political Economy, thus summarised Fourier's principles, omitting all the useless portions which I have felt bound to record, in order to give an impartial account of his writings. "This system (he says) does not contemplate the abolition of private property, nor even of inheritance; on the contrary, it avowedly takes into consideration, as an element in the distribution of the produce, capital as well as labour. It proposes that the operations of industry should be carried on by associations of about two thousand members, combining their labour on a district of about a square league in extent, under the guidance of chiefs selected by themselves. In the distribution, a certain minimum is first assigned for every member of the community, whether capable or not of labour. The remainder of the produce is shared in certain proportions, to Edition: current; Page: [634] be determined beforehand, among the three elements—labour, capital, and talent." The element of co-operation, which I have before mentioned as being an important factor in the system, was expected to do away with the middle-man, and thus produce further economy.
+
+The thirty-four trials, or experiments, which the system has undergone, should certainly constitute a fair test of its practicability and advantages. Regarding the latter, they seem to be confined to the guaranteeing of a bare living to everybody; and one is inclined to ask why so much should be disorganised to produce so small a result? To reorganise society, so that it might be divided into what are termed phalanxes of two thousand individuals, each of which is to be self-contained and self-supporting, would involve the most complete subversion and reconstruction of all existing institutions. And, after all, is it not a very moot question, whether it would, in the end, benefit society to establish a form of government, by which a livelihood was guaranteed to everybody, irrespective of his or her deserts?
+
+The name of Etienne Cabet is well known as a Socialist writer. His parentage was exceedingly humble, but he received a good education and practised as a lawyer in Paris. He became Attorney-General of Corsica, at the age of forty two. He was afterwards elected to the Chamber of Deputies. He published a journal called Le Populaire, in which he advocated moderate Communistic principles. He was sentenced to two years' imprisonment for a disloyal article, but escaped to London. He is said to have been much influenced by his perusal of More's "Utopia." He subsequently published his "Voyage to Icaria," which he called a philosophical and social romance. He therein pictured a country, in every way ideal—in which all the virtues were abundant and crime was unknown. He himself described it as "a second promised land, an Eden, an Elysium, a new terrestrial paradise." The object of the work was to show Edition: current; Page: [635] that Communism is practicable! Cabet, in short, believed he could establish such a society as he described. He, in fact, made the attempt, having obtained a grant of a large tract of land on the Red River, in Texas. The history of that experiment I shall briefly relate when I come to treat of other American experiments. Suffice it to say, here, that it was a melancholy failure. Cabet's ideas were altogether wild and incapable of realisation. When the community was established, Cabet himself spent much of his time in writing an account of what he could do in the community if he only had a million dollars! He proposed to have a theatre, parks, gasworks, hot and cold baths to the houses, and other comforts and indulgences, which are usually subjects for condemnation with most of his school. Cabet's principles were simple. "Fraternity" was the key-note to his whole scheme. He required fifty years for the transition of society from the existing form to that of Communism. He proposed to begin by moving much in the same direction as that toward which society appears to be now-a-days tending—by legislating for the training of children; for the exemption of the poor from taxation; for the progressive taxation of the rich; also for a minimum of wages. He generously offered society this consolation—that "the system of absolute equality, of community of goods and of labour, will not be obliged to be applied completely, perfectly, universally, and definitely, until the expiration of fifty years"! The political organisation of his ideal community was to be a democratic republic. There was to be a parliament, very much like our present one. The Icarians, as the inhabitants were called, were to choose their representatives, who were to make laws, and to provide amusements for the people. Uniformity was to be a prominent feature in the community, and this was to apply even to the clothes, except that a little liberty would be allowed in the matter of colour! Women were to be Edition: current; Page: [636] accorded high considerations. Work was to be common. If there were too many applicants for any particular class of work, the choice was to be made by competitive examination. Men were to be superannuated at the age of sixty-five, and women at fifty. Everybody was to work seven hours a day in summer, and five in winter. In this scheme, unlike many others, machinery was to be regarded favourably, for it was proposed to do all the "dirty work" by that means. Art in every form was to be encouraged. It will be seen that the whole scheme, which is said to have been the result of a dream, is devoid of any novel or leading principle from which any great accession of human happiness could be expected. Cabet is another of the instances in which an improperly balanced mind arrived at fanciful and impracticable conclusions. I shall give a short account of his Communist experiments in a subsequent part of the chapter.
+
+Piere-Joseph Proudhon is a prominent figure among French Socialists. He also was of humble parentage—in fact, came from the masses; and he was proud of the fact. He followed, successively, the callings of an agricultural labourer, a cow-herd, a waiter, a publisher's reader, and an author. He undertook the problem of uniting "absolute and unqualified individualism with perfect justice in the production of goods, and in their distribution." He undertook, in fact, to reconcile two schools which are really irreconcilable—Socialism, which is ever aiming at equal social conditions; and Individualism, which recognises the inequality of social conditions as one of the most wholesome spurs to individual development and social progress. One of the most suggestive doctrines which he sought to promulgate, was that which regarded property as theft, and property-holders as thieves. Professor Ely says: "Proudhon was the first to prove directly and scientifically that private Edition: current; Page: [637] property per se was a monstrosity—was robbery;" but it can scarcely be said that he proved it. He certainly tried hard to do so. He admitted that he hated the rich, and all the existing institutions which result from the recognition of private property; but subsequently his mind modified this feeling into one of contempt only! He also attacked the SaintSimonians and Fourierists, and had little mercy for the political economists. It may be well said of Proudhon, that he only did half of that which he undertook to do. He said: "I will destroy and I will build up again." Indeed, he adopted that as his motto. (Destruam et œdificabo.) But he did little else except abuse and expose existing institutions. He contributed little in their place. He purposely eschewed practical politics, because he knew no existing form which corresponded with or approached his ideal. He was, however, elected, ultimately, to the Constituent Assembly; and an opportunity presented itself for him to propose a positive measure of social reform. It took the shape of an organisation of state credit, on which no interest was to be charged. It was ignominiously rejected by 691 votes to 2. Having failed to secure state assistance for his scheme, he endeavoured to dispense with its assistance, and, accordingly, founded a bank, which collapsed after an existence of a few weeks. "Thus," says Professor Ely, "ended the attempt of the last French Socialist to carry out a scheme of social and economic regeneration. He was then imprisoned for three years for breaches of the press laws, and, during his imprisonment, wrote an important theological work, which went through six editions. The book was seized, and he was again sentenced to three years' imprisonment, but managed to escape to Belgium. Proudhon insists on the soil being the common property of mankind, and denies the right of any authority to dispose of it. He denies, also, that anyone can claim property in anything he does not produce. He claims free access to the soil, and to the instruments of Edition: current; Page: [638] labour. But he seems to lose sight altogether of the element of exchange, by which one man who has produced (say) an acre of wheat, exchanges it for a dray or a plough, by which the latter would become his, just as if he had produced them. But Proudhon would not return to Communism. He considers that a robbery of the strong by the weak. "Property (he says) is exploitation of the weak by the strong. Community is exploitation of the strong by the weak.... In the system of property, inequality of conditions results from force, under whatever name it may disguise itself—force, physical and intellectual; force of circumstances, hazard, fortune; force of acquired property, etc. In community inequality springs from mediocrity of talent and of labour elevated to an equality with force; and this injurious equation is revolting to conscience, and causes merit to labour." In short, Proudhon would allow no one to possess or control anything which he did not actually make or produce for himself. He says, elsewhere, "I am an anarchist.... Anarchy—the absence of master, of sovereign." This he seems elsewhere to somewhat contradict, for he proposes a "Department of Statistics," by which every question of internal politics ought to be solved.... The science of government belongs of right (he says) to one of the sections of the Academy of Sciences.... Since every citizen may address a mémoire to the Academy, every citizen is a legislator; but the opinion of no one counts, except in so far as it is demonstrated to be true." From this it would certainly appear that the "Academy of Sciences" would be "the master," and "the sovereign," and, moreover, a very despotic one; for it would take hints from citizens, but not be bound to adopt them. The measures he proposed to enact on this basis were: (1) A national bank for the exchange of products, without intermediates, but through the medium of paper money. This paper would measure value by labour-time. Professor Ely considers Proudhon Edition: current; Page: [639] "inconsistent" and "paradoxical." He gives him credit for honesty of purpose, but considers his schemes as "utterly impracticable." The following "appeal to the Deity," with which he closes his first mémoire, will, I think, convince most persons that he, too, like many of his school, was mentally unsound; and that fact, from which I see no escape, will account for what appears to me the absolute incomprehensibility of his proposals. "Thou God (he says), who has placed in my heart the sentiment of justice, before my reason comprehended it, hear my ardent prayer. Thou hast dictated that which I have written. Thou has formed my thought; thou has directed my studies; thou has separated my spirit from curiosity, and my heart from attachment, in order that I should publish the truth, before the master and the slave," and so on. He concludes this "appeal," by picturing the future, in which "the great, the small, the rich, and the poor, will unite in one ineffable fraternity; and all together, chanting a new hymn, will re-erect thy altar, O God of liberty and of equality"!
+
+Another recognised authority in the field of Socialist and Communist literature is Karl Rodbertus, born in 1805. He differs from those, concerning whose theories I have already spoken, in being a German. He began life as a jurist, and subsequently became a farmer. He took a practical part in the politics of Prussia, in the years 1848 and 1849, and became Prussian Minister of Education and Public Worship. He soon abandoned the more active life, and retired to the country, to secure the leisure and retirement necessary to the pursuit of scientific and literary subjects. Professor Ely speaks of Rodbertus as "one of the ablest Socialists who ever lived, and perhaps the best respresentative of pure theoretical Socialism."
+
+His writings were principally directed toward solving the two great problems of pauperism, and the evils arising from over production. He starts with the principle which has Edition: current; Page: [640] been so much emphasised by Mr. Henry George, in his "Progress and Poverty," viz., that "All economic goods are to be regarded as the products of labour, and cost nothing more than labour." This no one will contradict; but it is quite another matter to contend that, therefore, "all economic goods belong to the labourers." This is really what Mr. Henry George and other Socialists contend. They seem to forget that a labourer can and does sell his labour for money, called wages; and that when he does this the result of that labour becomes the honestly acquired property of him who so bought it.
+
+When a workman has bought a table or chair with the money he got in exchange for his own labour (say) as a bricklayer, he will not be found willing to admit that the table or the chair belongs to the carpenter who made it. Nor, if a labourer, by saving his earnings, were able to put his son in possession of a comfortable cottage, would he willingly admit that the son was less entitled to it than the builders who erected it. He would properly argue, in such a case, that what he had saved was his own; that he had the right to give it to his son, in the form of a cottage; that the builders of the cottage had fairly exchanged it for his accumulated wages; and that, therefore, they had given up all control or claim upon it. This simple illustration involves the history of all legally-acquired property; yet Socialists speak of it, when it has reached that form, as "capital," and dwell upon the fact that, inasmuch as it was the product of labour, therefore it should belong to the labourers. No one would object to Rodbertus' fundamental principle; but there is every reason to object to the illogical inferences and deductions which are drawn from it. The economic theories of Rodbertus are very elaborate and very ingenious; but I cannot enter into them here, except so far as they bear upon the scheme he proposed as an alternative to the existing condition of society. He proposed to prevent the recurrence of Edition: current; Page: [641] poverty and commercial panics by state interference of such a character as to secure to labourers "a share in the national products." This was expected to be realised, by estimating the value of the products of society during the year; then apportioning that value between the capitalist and the labourer. All the products of the year would be first deposited in magazines provided for the purpose; and the labourers, having been first paid in labour-time money, that is to say a kind of paper money representing so many hours of labour, according to the proportion allotted to him, would be allowed to present that paper money, and get goods from the magazines in exchange, on the same valuation as that upon which they had been paid. "This," says Professor Ely, "is the solution of the problem of securing for the labourers a fixed share of production, and an amount of goods which increases with increased production." The same authority says that many practical men have regarded the scheme with favour, and quotes the opinion of a German architect who had prepared a table of proportions to facilitate the division. I venture, however, to say that any manufacturer or any practical business man would at once condemn the scheme as involving waste, and materially increasing cost. The object of the scheme (beyond that of securing a fixed share of the products for the labourer) is to obviate the necessity of what are now termed middle-men; but, in this respect, it would inevitably fail. The middle-man is he who singles out the most successful and the most economical manufacturer, and, having purchased from him large quantities of his products, makes it his business to preserve them in good order, and hold them in readiness for sale, in smaller quantities, to the actual consumers. This, it is presumed, would all be done by the public magazines; but the questions which need to be answered are: Would it be done Edition: current; Page: [642] more economically? Would it be done as thoroughly? Magazines would have to be built, and the expense of doing so would correspond to the building of the stores and warehouses of middle-men. Large numbers of men and women would have to be employed to receive, to classify, to keep in order, to distribute to the consumers, to keep accounts with the manufacturers. All these services would have to be paid for, as is now the case with the middle-man. Like all great state undertakings, the cost would be greatly increased, as compared with the cost of the same work carried out by private enterprise. There would have to be heads of departments, and again, boards, having jurisdiction over those heads. Such persons would correspond with the existing middle-men under the existing system. The heads of large departments would have to be men of ability, and they would have to be paid accordingly. Under the existing system, such men become merchants and shopkeepers, and by means of the ever-prevailing competition, the extra cost of an article, in consequence of passing through the middleman's hands, is determined by and reduced to the cost of rent, labour, services of clerks, insurance, interest on money, and the lowest amount which such merchant or shopkeeper is willing to give his services for to the business world. If large profits are being made, more men are drawn into the business, until the profits are so small that some are driven out by reason of the remuneration being considered insufficient. Hence the charges which the consumer has to pay, over and above the cost from the producer, would almost exactly correspond with the cost of the labour above mentioned in connection with the magazines. And competent heads of departments would require just as much as the merchants and shopkeepers receive under the present system, that is to say, when there had been deducted from the merchant's profits that which represented interest on his capital. Besides all this, however, it must be remembered what a Edition: current; Page: [643] great increase of cost is involved in state work, as compared with that done by private and interested persons. The supervision is less keen; the stimulus is considerably reduced; the wants of the public are not so much consulted; and there are not by any means so many incentives to economy or thoroughness. Again, the manufacturer would have to be paid for his goods when received into the magazine, which would involve an enormous sum of money, or he would have to materially increase his prices for the produce, to compensate him for the loss of interest pending the sale of the goods so lodged in the magazine. The truth is, the more the scheme is considered in the light of business experience, the more crude and impracticable it appears. Rodbertus did not expect to see his scheme realised immediately. He expected it to occupy one or two centuries! He recognised three stages in economic progress. (1.) The stage of private property in human beings—slavery. (2.) The stage of private property in capital, i.e., the instruments and means of labour. (3.) The stage of private property in income alone. In the third stage each was to enjoy the full fruits of his labour. Even when the third stage was reached, many people would save their income; and thus the envy of human nature would be still excited. Professor Ely says that Rodbertus "waged no crusade against land or capital," and adds that "all the leading Socialists of to-day, to whatever Socialistic group they may belong, have been influenced greatly by Rodbertus." I pass now to another prominent member of the school. Louis Blanc was an author, politician, and Socialist. He was born in 1813, and first earned a living as a copyist and teacher, subsequently becoming a writer. His first Socialistic work—"Organisation of Labour"—appeared in 1840, in serial form, but it subsequently reached a ninth edition. He was prominent in the Revolution of 1848, and was a member of the Provisional Government of that year. He endeavoured Edition: current; Page: [644] by virtue of that position, though unsuccessfully, to introduce a number of his Socialistic theories. Louis Blanc considered happiness and development the end and aim of our earthly existence, with which most persons will agree; but he contended (and here he parts company with most thinkers) that society, as a whole, was under an obligation to secure the means to those ends, to every individual constituting it. Want and misery, in his opinion, were the result of a neglect to fulfil this obligation. Individualism, private property, private competition, he considered, should be abandoned, and a spirit of fraternity adopted as a substitute. "Fraternity (he says) means that we are all common members of one great family; that society, the work of man, ought to be organised on the model of the human body, the work of God; and found the power of governing upon persuasion—upon the voluntary consent of the hearts of the governed." This is all very pretty; it is, indeed, poetic! but is it not a most impracticable theory, involving the avoidance of the most ugly side of human nature? In one place he speaks of "demanding that the right to live should be regulated, should be guaranteed." In another place he speaks of guaranteeing work only. He contends that "the poor cannot combine and produce for themselves, without the intervention of capitalists, because they lack the instruments of labour." He then contends that the state, acting as the poor man's banker, should furnish these. It might be asked here what would the state do, supposing all men neglected to save means, and thus became poor. Would the state become everybody's banker, and, if so, where would the state obtain its means? Throughout Louis Blanc's proposals there seems to be the same misconception of which I have spoken elsewhere, viz., the belief that "the state really possesses some creative powers: some mysterious means of doing more for the people than they can do for Edition: current; Page: [645] themselves. He proposed that the state should grant credit, without charging interest, and that the money required for the purpose should be raised by taxation, by the profits derived from state railways, and from other public enterprises, such as mines, insurances, and banks. It will be seen by this, that it was contemplated to obtain money by loan or taxation from citizens, and re-lend it to citizens. It was to be lent without interest, but loans from citizens were to be repaid with interest. We are not informed what precaution would be taken to prevent citizens from thus borrowing for nothing, and re-lending, through third persons, the same money to the state on interest.
+
+Louis Blanc provided, as part of his scheme, that everyone should, in the first place, use his best exertions on behalf of the community. He held that a man's various abilities were not given him that he should exercise them solitarily—they are but "the supreme indication of that which each one owes to society." If one man is twice as strong as his neighbour, that was, in his opinion, a "proof that nature had destined him to bear a double burden." Weakness, he held, was a creditor of strength; ignorance, a creditor of learning. The more a man can do, the more he ought. Louis Blanc, it will be seen, was sanguine enough to believe that, under such a regime as he proposed, men and women would enjoy the same incentives to put forth their best efforts. What then did he propose to reward them with? "Each one" was to "produce according to his faculties, and consume according to his wants." By what all-seeing authority the wants of each were to be determined, I am unable to discover. The whole scheme reads rather like a dream, than as the serious proposal of a man of the world. As Professor Ely says:—"It is a glorious ideal, but (he asks) will it ever become a reality this side of the Golden Gates of Paradise?"
+
+Karl Marx was born in 1818. He was of good family, and was educated for the profession of the law. He Edition: current; Page: [646] abandoned the more lucrative and practical profession for the study of philosophy. He drifted into newspaper work, and became editor of the Rhenish Gazette, which was, on account of its principles, suppressed. In Paris, to which he removed, he again attracted the notice of the authorities by his revolutionary writing. He was, thereupon, banished, and next went to Brussels. In 1847 he formulated a manifesto for the Communistic party, the concluding words of which were, "The Communists scorn to conceal their views and purposes. They declare openly that their aims can be attained only by a violent overthrow of the existing social order. Let the ruling classes tremble before a Communistic revolution. The proletarians have nothing to lose except their chains. They have a world to gain. Proletarians of all lands unite!"
+
+Marx's work, entitled "Capital," was left unfinished, but the two volumes which he completed have been spoken of as "the Bible of the Social Democrats." Professor Ely says it deserves the name, for "it defends their doctrines with acuteness of understanding and profundity of learning, and ranks among the ablest politico-economic treatises ever written."
+
+Marx dwells, like most of his school, upon the proportions of the value of produce which go to the capitalist and the workman respectively. "The foundation (he says) of the capitalistic method of production is to be found in that theft which deprived the masses of their rights in the soil, in the earth, the common heritage of all." The objections which Marx raised to existing institutions were based on economic contentions of a somewhat abstruse character. But he was sanguine enough to believe that under an altered condition of things, such as he wished to see realised, idlers would disappear from the earth. Of course he included in that the idle rich.
+
+Some idea regarding his ideal condition of society can be best obtained from the principles of the International Working-men's Association, of the general council of which he was the guiding spirit. That association was based on social democratic principles, and was made sufficiently comprehensive to embrace all labourers, in all countries, "without regard to colour, creed, or nationality." I confess I am unable to extract from the accounts before me of Marx's teachings, any clear and definite scheme of social redemption from the evils with which he charges existing institutions; but he thought the time had come when the proletariat must take the reins into their own hands.
+
+The last figure with which I shall deal, among French and German Socialists, is that of Ferdinand Lassalle. He was born in 1825. He devoted himself principally to philology and philosophy at the German universities. Some of his earlier writings elicited the most profound admiration. It was not till 1862 that his enthusiasm for the working-classes first found expression. The formation of the German Social Democratic party was the result. It is said that, previous to that time, German labourers "had been considered contented and peacable," and that whatever might be done among English and French workmen, "it was hopeless to attempt to move the phlegmatic German." Lassalle, however, disappointed this expectation; but he did it, not so much by any original matter or proposals, as by popularising and simplifying the writings of Rodbertus and Marx. He dwelt, again and again, upon the wages theory propounded by Ricardo, which he stigmatised as the "iron law of wages." He regarded that law as the primary cause of what he and others considered the unjust method of distributing the produce of the world between the capitalist and the workman. He, of course, viewed unfavourably, the present system of wages, and he therefore wished to see some more equitable Edition: current; Page: [648] method substituted for it; but he did not develop any clear and satisfactory proposal. His dearth of resource, in the nature of practical reform, is indeed proved by the fact that he suggested the governments aiding the working-classes in borrowing a sum equal to about fourteen millions of English money, in order to establish co-operative associations for production. It has been said that Lassalle never seriously believed in this proposal, but merely used it as a means to popularity with the working-classes. It is also recorded that, in writing to Rodbertus, he expressed his willingness to abandon the proposal if anything better could be suggested. This, if true, would indeed point to a want of resource, both in himself and Rodbertus; for it is only fair to assume that Lassalle had read everything Rodbertus had written. Professor Ely says that even this proposal for productive co-operative associations was borrowed from Louis Blanc. Lassalle, like a good many more Socialist writers, complains of capital being based on theft; and he reiterates the somewhat stale contention "that labour alone is the source of wealth, and if capitalists and landlord were swept out of existence, the entire social product would go to the labourer." Lassalle cannot be said to have left behind him any definite theory of society. He was, however, the first to stir up the contented and apathetic character of the German working-classes. The effect of Lassalle's teaching on the German workmen has been summed up as follows:—"They hold that they are the state; that all political power ought to be of, and through, and for them; that their good and amelioration ought to be the aim of the state; that their affair is the affair of mankind; that their personal interest moves and beats with the pulse of history, with the living principle of moral development." This passage, I venture Edition: current; Page: [649] to think, is in some degree applicable to other than the German working-classes. It, in truth, describes the confident and self-sufficient tone of a large portion of the English-speaking working-classes, who have been led, by their united success, to take a much exaggerated view of their own importance as a section of society. The mere application of the term working-classes has led to a false belief that they alone contribute to the production of the world's wants. There is an utter disregard for the fact that the existence of all the other classes, who undergo just as much wear and tear as themselves, though it may be mentally instead of bodily, has the effect of enabling them to confine their attention wholly and solely upon their particular work. If no men were trained as doctors, each working-man would be compelled to become his own "medicine-man;" and, as a consequence, he would be compelled to perform less of his own work in order to have the leisure to perform any such function and obtain the medicine, whatever it might be, which he judged desirable. If there were no merchants, or "middle-men," as they are disparagingly called by many Socialists, each farmer would have to grind his own wheat, and hawk it round to bakers; perhaps make it into bread, and sell it by the loaf. Instead of this, he now sends the wheat in to the merchant, or his local agent, and in due time receives his account sales. The merchant, again, having a connection among millers or exporters, is able to realise at once, thus saving the farmer endless time and loss of concentration. If it were not for the existence of the manufacturer, who provides capital, and organises large works, each workman would, instead of going regularly, year after year, to the same spot, and getting regular employment, be compelled to seek a livelihood from house to house, and in many cases he would find the result precarious and disappointing. The same remarks apply to all mental occupations which are called for by the complicated wants of Edition: current; Page: [650] society. The merchant, in fact, exchanges with the farmer some of his financial knowledge and administrative ability for some of the latter's knowledge concerning, and exertion expended upon, the cultivation of his farm land. The proprietor of a factory practically exchanges with his workmen a portion of the benefits of his capital and organising power, for a portion of their manual work. In that way, every member of the community, who performs for society any work, though it be of the most special character, is just as much a labourer as the railway navvy, or the bricklayer's hodman. It is certainly time that this false and mischievous cry about the rights of labour was properly studied.
+
+The present sketch of the history of Socialism and Communism would be unmistakably incomplete without some reference to the work and enthusiasm of Robert Owen. His theories do not call for refutation, for they have long since been subjected to the strictly logical test of practical experiment, and failed—as utterly as it is possible for any Utopian scheme to fail. I shall refer to the history of the communities themselves, in dealing with others connected with the United States. A moment's reflection concerning his theories would enable any practical work-a-day mind to have predicted failure for such a scheme.
+
+In Robert Owen's work, entitled "Lectures on an Entirely New State of Society," he says: "In this new state of society, there is to be no necessity for individual responsibility." Elsewhere he says, in the form of question and answer, "What do you understand by a new and superior state of society? I understand...an improved condition of the human race, in which there will be neither ignorance nor poverty; and in which sin and misery will be unknown." Could enthusiasm and imagination go further? Owen wrote another work, entitled "New Views on Society, or, Edition: current; Page: [651] an Essay on the Formation of Human Character." In it, he contended that "all men are equal,"—whatever that may mean. He also claimed that all men have a right to an equal share of those external natural goods, granted by God to man. And he contended, likewise, that all men have equal requirements. Upon these principles, as a basis, he built up a theory, and established a community. The latter was, as I have said, a painful failure. It tumbled about its author's ears in a less number of weeks, than it took him years to conceive the theories upon which it was based. Do such theories need further criticism?
+
+I come now to the subject of Socialist and Communist experiments. There is, connected with actual experiment a value which is peculiar to itself. Every man has had, at some time of his life, personal experience of the futility of controversy on certain subjects. The subject of man's rights, and that of the possibilities of social regeneration are undoubtedly among the number. An enthusiastic Socialist, and an unimpulsive and strictly logical Individualist, might spend days and weeks in controversy, with a view to determining the merits and demerits of the two schools. It is highly probable that, in the end, they would part company, only strengthened in their original opinions. The real points of controversy would be: (1.) Whether the new scheme was really practicable; (2.) whether, if practicable, it produced for immediate purposes, and guaranteed to future generations, as much happiness as the existing arrangements of society. The enthusiast would, in his eagerness for his theory, see a way out of every difficulty which the Individualist raised. He would take a most favourable view of human nature, and would expect every individual member of the community to be as eager for the success of the scheme as himself. He would picture good seasons, good crops, modest demands, and much sweet forbearance and patience among the members. The enthusiast would not Edition: current; Page: [652] concern himself much about the future generations, who might not be so wrapped up in the theory as himself; and he would consider permanent happiness to be inevitable with a simple prosaic life. How is it possible to reason on such matters? The differences of opinion would be found to go back even to first principles—probably to the rules of reasoning itself. But with experiment all is different. The "ifs" and the "buts" of controversy are put aside. The test is not what would happen, but what does happen. The human nature, the climate, the soil, the means at the disposal of the experimentalists, are no longer what either the Communist or the Individualist chooses to picture them. They are what they are. The results are now worked out according to the relentless logic of fact, and controversy becomes redundant. The practical experiments which have taken place in the United States, viewed in connection with their results, constitute the most serious and the most convincing blow that Socialist and Communist theories have ever undergone. They are worth volumes: even whole libraries of verbal criticism, as evidence of the demoralising and degrading effect of such schemes upon human nature, as compared with the results of a judiciously-guarded free play of individual interest and individual effort among men.
+
+It is necessary to observe, in regard to the whole of these experiments, that they possessed two enormous advantages, in comparison with such communities as would be forth-coming as the result of a legislative change from the existing form of society. First: They have been formed exclusively of volunteers; that is to say, of men and women who voluntarily and cheerfully entered into the new social compact. The old saying, that "one volunteer is worth half-a-dozen pressed men," applies with equal force to social experiments as to human warfare. If an ideal scheme of society is found incapable of producing for its members an increase of happiness in the first few generations, when Edition: current; Page: [653] every member is a willing and perhaps even an enthusiastic citizen, what sort of result is to be looked for in a community of people, the bulk of whom have been forced into membership by physical or legislative revolution, and who are therefore filled with feelings of discontent, and seized with a desire for revenge on those who have wrested from them, for the use of others, their lawfully acquired possessions? One might, I venture to think, as well expect the disturbed and enraged occupants of a ravaged beehive to peacefully re-swarm on the hand of their disturber. But there is yet another incalculable advantage, which the members of these experimental societies have enjoyed; that is, the almost unlimited territory which they have possessed, as a field for their primitive industries, on which they have invariably had to fall back. It will be seen that, in almost every case, the establishment of such communities was favoured by the possession of an amount of territory, which the whole world itself could scarcely supply to the population of Europe, in the same proportion. Some idea may be obtained, from the following figures, of the amount of land requisite for an universal experiment on the same scale.
+
+The Shakers community, which, in 1875, numbered 2415 souls in all, occupied 100,000 acres, which gives 41 acres to each individual. In order that the people of Great Britain might be possessed of similar territory they would require 2,500,000 square miles, or about thirty times the area of the whole of Great Britain itself. It will be seen from this that, even if the communities in question could be pronounced successes, they would still have failed to prove the possibility of all European communities being dealt with in the same way. In fact, the people of Great Britain, instead of possessing forty-one acres, each would have to earn a living off one and a-half!
+
+Let me now proceed to a short account of the communities as they are, or rather were, in 1874 or 1875. It will be Edition: current; Page: [654] observed that, in the majority of the cases with which I am about to deal, the religious spirit has constituted an important and favourable factor, in rendering the members of such bodies more amenable to the self-sacrifice and self-denial which become indispensable under the primitive circumstances which have invariably surrounded such associations. Some of the communities have certainly dispensed with that element; but, as Mr. Kaufmann says, "those experiments have been most successful which have been inaugurated under religious auspices, while those lacking that element have enjoyed only an ephemeral existence."
+
+One of the most important of the American associations to which I have referred is that which took the name of the Amana Community. The inhabitants of this community are also known by the name of the Inspirationists, on account of their belief in the influence of direct inspiration in determining their movements. They came originally from Germany, in 1842, and settled in Iowa, United States. They were not Communists in the first place, but adopted those principles, under the impression that they "were commanded, by inspiration, to put all their means together and live in community;" to which they add that they "soon saw they could not have got on or have kept together on any other plan." In 1875, or a short time previous, they numbered 1450, owning 25,000 acres. They numbered in 1873 1600, and owned 30,000 acres. Their is the largest and richest community in the United States. According to Mr. Charles Nordhoff, they live in a most rigid, pious, and primitive way. The males and the females take their meals apart, in order, according to their own rules, "to prevent silly conversation and trifling conduct." This latter fact will give some idea of the rigid nature of their mode of living. They seem to deny themselves many of the most ordinary Edition: current; Page: [655] comforts of life which even the poorest workman can afford now-a-days; for Mr. Nordhoff mentions that, at meal time, they used no table-cloth; and that they have no carpets to their floors. They live also an extremely hum-drum existence, unrelieved by any outbursts of gaiety. Their conduct too, would seem to be regulated with as much monotony as is the case with the inmates of a charitable institution; for each person has a ticket which contains directions as to what he or she is to do, and the costumes are all of a dingy colour, and of a monotonous uniformity. The women work very hard, and all ornaments are forbidden. The greatest care seems to be exercised to keep the sexes apart; and this rule is observed even during the hours of leisure. Even the children are not allowed to mix together. The boys and girls, Mr. Nordhoff says, are permitted to take a walk on Sunday afternoon, but the former are sent one way and the latter another. They profess misogamy, having been advised, by one of their teachers, "to fly from intercourse with women, as a very highly dangerous magnet and magical fire;" but many are unable to follow this advice, and do marry. As a consequence, they are degraded in the estimation of their fellows, and henceforth occupy a lower status in the society. Some idea may be obtained of the rigour of the discipline which membership involves. Among the rules for daily life are the following:—"To avoid unnecessary words—not to disturb your serenity or peace of mind—neither to desire nor to grieve—to have no intercourse with worldly wise men—to fly from the society of women-kind as much as possible—to avoid dinners, weddings, feasts, entirely—to constantly practise abstinence and temperance, so as to be as wakeful after eating as before it." The community contains no library, but a few newspapers are taken. The principal reading consists of the Bible, and their own "inspired" records. Mr. Nordhoff considered that they led a plain dull life, but concluded Edition: current; Page: [656] that they were quiet, industrious, contented. Bearing in view the extremely low expenditure which the life of an individual must involve under such a régime, the fact that the community has continued in existence is not surprising; especially when it be remembered that they occupy about sixteen acres for every member. They employ hands from outside the community, and seem to avail themselves of the outside world in many respects, by purchasing numerous articles of daily want. One of the foremen of the community made a candid admission to Mr. Nordhoff, which is valuable, as showing the effect of such a system upon the motives to energy. He said that three hired hands from without the community would do as much work as five or six members. The question is, Can such a life be called success? They are contented! That would satisfy M. de Laveleye! But is that a test? The Australian aborigine is contented, so long as white men will leave him alone! This however, is very certain, that such a race and such a community must inevitably die out. Even if they increase in numbers, in the face of their professed misogamy, their territory must become in time insufficient for them, inasmuch as they rely principally upon agriculture for their support. But, even supposing that and the other contingencies did not happen, can they be said to be a success as a people? Are they progressing in the scale of human development? Will their posterity be better off or as well off as themselves? If not, they cannot be considered a success. Moreover, would it be other than childish to expect a forced form of society of the same kind to be content with the meagre fare and the hum-drum, homespun, and positively dreary existence which they seem to lead?
+
+The second community with which I shall deal is that of the Shakers of Lebanon. The sect seems to have originated Edition: current; Page: [657] in the year 1747, by a Quaker, who alleged he had had supernatural dreams and revelations. They were joined, in 1758, by one Ann Lee, a blacksmith's daughter of Manchester, who ultimately became a prominent leader, subsequent to the establishment of the sect in America. She was then known as "Mother Ann." Mr. Nordhoff dates their settlement in the Mount Lebanon district at 1792. When he visited them, shortly before 1875, the date of the publication of his work, he found them numbering 2415 souls, with an acreage of 100,000 in land. Mr. Kaufmann mentions that one of the branches has since been disbanded. In the first place, it is noticeable that the religious element played, and continues to play an important part in their cohesion as a community. They are Spiritualists, and receive strange communications from the spirit-land, during their religious services.
+
+"Their habits of life (says Mr. Kaufmann) are frugal. They rise at half-past four in summer, and five in winter; breakfast between six and seven, dine at twelve, and sup at six; by nine, or half-past, they are all in bed and lights are out.... They eat in the general hall, and the preparation of food is left to the sisters, who take it in turn, as they also do the washing, ironing, and other light work. Their diet is simple. All turn to work after breakfast, under the leadership of caretakers or foremen, who are subordinate to the deacons." "They have an uniform style of dress, call each other by their first name, say 'yea' and 'nay,' but not 'thee' and 'thou.'...Their social habits have led them to a generally similar style of architecture, whose peculiarities are in seeking the useful only, and caring nothing for grace and beauty, and avoiding ornament." On the whole, they appear to live a simple, prosaic, uninteresting, and unvaried life. Everything they use and Edition: current; Page: [658] consume is of the simplest and plainest description; and they appear never to indulge in what we term amusements of any kind. The most rigid severance is practised between the sexes—"they eat apart, labour apart, worship apart." They find consolation in having "no scandal, no tea-parties, no gossip." They mortify the body; few eat meat; they have "no pet animals, but cats for killing rats," and smoking is prohibited. "Since they cannot perpetuate themselves, on account of their celibate life, and have also ceased to reinforce their ranks by the adoption of children, the rate of increase in membership has not kept pace with the vast accumulation of wealth, mainly in landed property. The society, therefore, seems in danger of painless extinction, unless new religious revivals, among other sects, replenish their dwindling numbers." Regarding the intellectual side of life, it is to be feared that this community has under gone a retrograde movement. Their architecture is plain and uninteresting. "They are not a reading people, and the libraries of their most cultivated leaders are of extremely limited range." They have one music-room at one of their branches. The largest library contains only 400 volumes of history, voyages, and travels; but it contains "no novels and only a few stories for children." One society is distinguished for its love of flowers; but Mr. Kaufmann adds that he had been told they do not cultivate any. He says, also, that "the walls of the rooms are not adorned with pictures, but are lined, instead, with wooden pegs for hats, cloaks, and shawls, the useful being preferred to the ornamental. From this (he adds), we may conclude that a taste for natural beauty, art, and literature is but imperfectly cultivated among the people. Harriet Martineau once visited Mount Lebanon, and speaks in high terms regarding their prosperity, industry, and cleanliness; and concludes by saying, Edition: current; Page: [659] "If happiness lay in bread and butter and such things, these people have attained the summum bonum." Mr. Kaufmann says, "such a mode of life tends to hinder social progress and mental development. It keeps all on the same plane of rigid uniformity by means of rules and regulations, and prevents the expansion of the intellect into the regions of imagination and discovery. Dullness and monotony characterise their daily life." The principal features in connection with these people, which permanently exclude the possibility of their condition being used as an argument in favour of an universal and compulsory Socialism or Communism in older societies, are the following:—(1), They possess territory of an exceptionally fine quality, in quantity which would equal forty-one acres to each individual, as compared with one and a half in countries populated as thickly as Great Britain. (2), They lead a celibate life, as a consequence of which the population has had, and will continue to have a constant tendency to decrease. (3), Their life is one of exceptional frugality and simplicity, so that the cost of living has been reduced to a minimum, which could never be maintained in a mixed society. (4), They have the economic advantage of a strong religious element in their midst, by which that simplicity and frugality are constantly inculcated, and by which the tendency to discontent and dissatisfaction with their simple lot is securely counteracted. (5), Membership of the community is purely voluntary. (6), They do not strictly regard Communistic principles; for they purchase many of the necessities of their already primitive life outside the community, and thus augment the comforts of their sufficiently monotonous existence, by means of conveniences and improvements resulting from the institution of separate property.
+
+It would be superfluous to dwell upon the impossibility of such a life satisfying, or even being capable of continuance Edition: current; Page: [660] by the class who give loud and threatening expression to their dissatisfaction with existing institutions.
+
+The Harmony Society of Pennsylvania, historically considered, is entitled to rank as one of the more important of these communities. It was founded by George Rapp in 1805. He had to commence with 300 converts, who followed him from Baltimore to the Far West. The first purchase of land consisted of 50,000 acres, or about 170 acres to each individual. It was agreed among them to "throw all their possessions into a common fund; to adopt a uniform dress and style of house; to keep, thenceforth, all things in common, and to labour for the common good of the whole body." The principle of their constitution was that they should assign everything to Rapp, and submit to his government; he, in return, guaranteeing to supply them with all the necessaries of life. Anyone who chose to withdraw, could do so at any time, and have his money or property returned. Rapp was an excellent business man, and things went on very prosperously. In time, like the Shakers, they adopted the rule of celibacy. Twelve years after being established, they sold their land for 100,000 dollars. They then removed to Indiana; but, not being satisfied with their purchase, they sold the land to Robert Owen for 150,000 dollars, and bought another called Economy, on the Ohio, near Pittsburg. Economy has been described as "a model of a well-built, well-arranged country village." In 1832, there arose some internal differences, and a number of members seceded, and were paid out to the sum of 15,000 dollars. On making their second move, they had agreed to burn the books showing what each had put into the association. Then they agreed to adopt as a maxim—"Mine is thine." The religious element played a prominent part in this community. Rapp early inculcated the duties of "humility, simplicity of living, self-sacrifice, love to neighbour, regular and persevering industry, prayer and self-examination." Their Edition: current; Page: [661] daily life was consistent with this teaching. The men, and sometimes the women, laboured in the field; they wore a very plain dress and no jewellery; they were opposed to dancing, or any such frivolous amusement; but they enjoyed all the comforts of a simple life. They interested themselves in music and flowers; they possessed a small library and took in newspapers from the outside world. Some idea of their standard of worldly happiness may be obtained from the following expressions of one of the members to Mr. Nordhoff. "As each labours for all," he said, "and as the interest of one is the interest of all, there is no occasion for selfishness, and no room for waste. We were brought up to be economical—to waste is to sin. We live simply, and each has enough, all that we can eat and wear, and no man can do more than that." The funds of the association have increased greatly, and they are viewed by the outside world as a prosperous community. But though at one time numbering 1000, they have dwindled in number to 100, and most of these are old. Mr. Kaufmann says:—"The young people, on reaching maturity, were allowed to decide between becoming full members of the society or leaving it, or remaining as wages labourers. Many prefer the latter alternative, though, in such cases, required to conform to the customs of the society, including celibacy." This is not favourable evidence as to the happiness and contentment which is produced. But the following is even much less so:—"The greatest number prefer a life of complete independence to the restraints of Communism, hence the rapidly diminishing numbers.... Their large factories are closed, for there are no people to man them; and some of their other outlying works are carried on by means of Chinese labour and hired servants." It will be seen from the above particulars that the community bids fair to die out. That the greater Edition: current; Page: [662] number should prefer a life of complete independence is a strong piece of evidence against their organisation and all its cramping effects upon the intellect, the sentiments, the affections, and the energies of human nature. It must be again observed that, with this community, as with that of the Shakers, there are several circumstances which quite exclude it from the category of examples of what might result from a forced Communism or Socialism, made up of a mixed and partly unwilling population. (1.) All who joined it did so of their own free will, and with a knowledge of, and willingness to conform to the simple, primitive, and self-denying life which membership involved. (2.) They had, to start with, about twenty-eight times the territory that each man, woman, and child, could be allotted in a country like Great Britain. (3.) They adopted a life of celibacy, and thus produced a constant reduction instead of an increase in their numbers. (4.) They entertained beliefs which greatly assisted them in becoming reconciled to a mechanical and colourless existence, viz., the belief in the speedy appearance of Christ, and in the necessity for making a preparation for that event—their chief aim in life. (5.) They did not really conform to Communistic principles; for Mr. Nordhoff tells us that "their means gave employment to many hundreds of people in different parts of Western Pennsylvania."
+
+The Separatists of Zoar, Ohio, are a community over which I need not spend much time. They prove even less than those I have dealt with. They were founded in 1817, on a religious basis. At first, they prohibited marriage, but in time that regulation broke down. They, however, live a somewhat rigid life, the sexes sitting apart, on all occasions. They consist of 300 or more members. The life they have led and still lead, is one of the most extreme frugality and roughness. Mr. Nordhoff says, "The people would not attract attention anywhere; they dress and look like common Edition: current; Page: [663] labourers. Their leader even might anywhere be taken for a German farm-hand."
+
+The Perfectionists of Oneida and Wallingford can scarcely be classified as Communists; for, although they hold their property in common, they employ a large number of persons outside their own body, and put all the mere drudgery on the hired people; so that any success they may have attained can have even less application, as an illustration of what an universal and forced Communism or Socialism would effect. This association arose from a combination of religious influences, and the currency in America of the Communist theories of Fourier. The leader was John Humphrey Noyes. Beginning with a few relations, on forty acres of land, and with a reserve of 2000 dollars, they progressed, by dint of great labour, and the manly submission to many drawbacks, until, in 1876, they numbered 283 members, and possessed about 900 acres. They carried their Communism to such an extreme as to apply it to the sexes; holding that there is no intrinsic difference between property in things, and property in persons. Hence arose the practice of "Free love." This has, however, been changed, and marriage or celibacy is optional. They have a common dwelling-house, with a large hall for the evening gatherings of the community, furnished with a stage for musical and dramatic performances. They have a library of 4000 volumes. They avail themselves of the most modern literature, the most modern printing machinery; they send some of the young women to New York to receive musical instruction, and their young men to the Yale University. They study classics and the sciences. Their ranks include lawyers, clergymen, merchants, physicians, teachers, farmers, and mechanics; but they are now closed against the outside world. They profess the principles of self-denial and self-restraint; but, Edition: current; Page: [664] on the whole, seem to live a tolerably indulgent life. It will be of course observed that the circumstances of such a community can have little, if any application, to the universal theories of Communist advocates; for their mode of existence would require schools of science on one side, established by the private enterprise of another community, schools of music on another side, a labouring class outside themselves, willing to do the drudgery of their work, and a large literary class also outside themselves, as well as manufacturers of musical instruments, and printing and other machinery, composers of music, and a hundred other conveniences, all developments of an individualistic form of society. To properly illustrate the probable result of Communism, pure and simple, all these wants must be supplied from within; otherwise they must be dispensed with. Mr. Kaufmann says, speaking of this, and certain other communities, "The commercial successes of these settlements must be attributed to the fact that they are in a great measure trading communities, in a new country, where the demand generally exceeds the supply...in fact, owe their prosperity to the existence of a larger society resting on the old foundation, and are dependent on the egotistic principle of competition, as a supplement to their own Socialism. Not only (he adds), are all surplus commodities sold to these outsiders, but the drudgery work of the Communistic society is in most cases, now at least, performed by hirelings from the same source; so that the social problems which make the introduction of Communism so difficult, viz., how the commercial risks of society may be forestalled, and the lowest work of drudgery be provided for, in a society of equals, wanting the ordinary stimulus of exertion—have not as yet been solved by these fraternities."
+
+The Aurora and Bethel Communes originated in the secession of a number of dissatisfied members from Rapp's Edition: current; Page: [665] Economy. They, at first, placed themselves under an adventurer, who called himself Count Leon; but he having deserted them, they afterwards placed themselves under a Dr. Keil, who was desirous of forming a sect of his own. Keil had been a man-milliner in Germany. Subsequently he posed as a mystic, and professed a sufficient knowledge and command of magnetism to enable him to cure diseases. He professed, also, to have in his possession a mysterious volume, written in human blood, and containing receipts for the cure of various diseases. Finally, he became a Methodist, and then burned the book in question, amid a much studied ceremony. He left the Methodists, in order to form the sect in connection with which he is most known. The nucleus of the Bethel Communes consisted of ten or twelve families, who settled in Washington Territory; but they soon increased in numbers. The Communes of Aurora and Bethel are separate, but a description of one will sufficiently explain the nature and condition of the other.
+
+The fundamental principle of the associations was that all interest, and all property, should be absolutely common. That, in fact, was the interpretation which Keil placed upon the injunction "Love one another." Another rule which was carefully observed was that there should be no compulsion upon anyone. If any member complained that he had put more than any other into the common fund, he could have it back, and sever his connection with the association. Their mode of living is now of the very plainest. Rigid economy is, in fact, impressed upon every one as a duty owing to the whole. Fourier's plan of changing work is practised. No man is allowed to confine himself to any particular occupation. If the brickmakers are needed, and the shoemakers are not busy, the trowel has to be substituted for the awl. After harvest they turn their attention to the saw-mills or the workshops. The houses and apartments are without Edition: current; Page: [666] carpets, and the clothing is of the cheapest description; that of the women consisting of calico, with sun-bonnets. They have no sofas or easy-chairs. Their seats consist of hard-wood benches. They have no pictures, no books, except the Bible and a hymn-book; in fact, nothing to please the tastes. Mr. Nordhoff says: they have "few amusements.... There is so little social life that there is not even a hall for public meetings in the whole village. Apple parings and occasional picnics in the summer; the playing of a band; a sermon twice a month, and visiting among the families are the chief, indeed the only excitements in their monotonous lives." The same writer says elsewhere: "It seems to me that I saw in the faces and forms of the people the results of this too monotonous existence. The young women are mostly pale, flat-chested and somewhat thin. The young men look good-natured, but aimless.... The young women were undersized; not robust or strong, with no rosy cheeks, and a subdued air throughout."
+
+"Occasionally," Mr. Nordhoff was told, "they have idle or drunken men, who are duly admonished of their wrong, and, if they are incorrigible, are made to leave the place. It is quite evident that beyond securing for themselves a bare existence, with which they seem satisfied, they are in a state of social stagnation. As to intellectual progress, they scarcely seem to know what it means. When spoken to, in reference to the subject of art, and their apparent neglect of the beautiful, they replied: "We have all that is necessary—we have duties to do. We must support our widows, our orphans and our old people, who can no longer produce." Keil was asked, also, by Mr. Nordhoff, what they would do with a young member who wanted to go to college; to which he replied, "We don't labour to support persons in such undertakings." Mr. Nordhoff says they seem to be satisfied; but he adds "what surprised me most was to find Edition: current; Page: [667] a considerable number of people, in the United States, satisfied with so little." He admits, however, that they have had no criminals, sent no one to gaol, had no law-suit, no insane, nor any blind, deaf or deformed. The immunity from crime is accounted for by the rigid discipline and the practice of exclusion for grave offences. The immunity from law-suits results from the community of property; and the absence of insane, blind, deaf or deformed is not surprising, as the whole community only comprehended from eighty to ninety families. Mr. Nordhoff attributed their indifference to art, literature, and other branches of culture, to "the stern repression of the whole intellectual side of life by their leader." As showing that even this community is inclined to turn away from the rigid observance of its first principle, Mr. Nordhoff "had reason to believe that a little selfish earning of private spending money is winked at." They certainly purchased some "comforts" outside the community, as for instance tobacco. Keil himself was apparently not quite sure that they would hold together as a community; for in 1872, though all the property was in his name, he, finding himself getting old, and "being urged (Mr. Nordhoff imagines) by some of the leading men," made a division of the whole estate, and gave a title deed to each.
+
+The last Communist experiment with which I shall here deal, is that of the Icarians. This association was established by Cabet, concerning whose principles I have elsewhere spoken, in my brief review of French and German Socialism. After various vicissitudes, to which I have already referred, he selected Texas as a field for his operations, and in accordance with the scheme which had been revealed to him in dreams, he induced a number of people to sail for the Red River country—in all 69. They were attacked with yellow fever, and suffered considerable loss. He took out a second contingent, and established them in the town of Nauvoo, in Edition: current; Page: [668] Illinois, which township the Moravians had deserted. At one time the community numbered 1500. Cabet was, from the first, a most unpractical man. He instituted a printing office almost immediately after establishing the settlement, and published a somewhat contradictory pamphlet, showing what he could do if only he had half a million dollars! One of the opening sentences of this now celebrated production runs thus: "If I had five hundred thousand dollars, this would open to us an immense credit, and, in this way, vastly increase our means." He drew an attractive picture, in the same production, of "dwellings supplied with gas and hot and cold water; of factories fitted up on the largest scale; of fertile farms under the best culture; of schools high and elementary; of theatres and other places of amusement; of elegantly kept pleasure grounds, etc." It is unnecessary to go into the history of this association, which was short-lived. For a time, they were successful in the cultivation of their land, and the carrying on of their various trades. It is said that Cabet developed a dictatorial spirit. Whether this is so or not, the Icarians failed to agree, and all were scattered save 50 or 60, who followed Cabet to St. Louis, where he died. The new community experienced a hard struggle, but ultimately grew into a more prosperous condition; though there is nothing to be said concerning them, which shows that Cabet's ideas in regard to the regeneration of society were more sound than those of the many others, whose theories and experiments I have dealt with. One somewhat unsophistical writer has said: "If there had been harmony and no division, I think that Icaria would have been prosperous to-day"; and, again, "The difficulty of Frenchmen living harmoniously in a commune seems the great source of disaster.... A Frenchman has a great deal of individualism, and not a great deal of patience and forbearance." Even those who are members Edition: current; Page: [669] of the remaining association do not now adhere to the strict principles of Communism; for "the directors buy the goods needed by them twice a year at wholesale." They have no servants and "are too poor for the enjoyment of luxuries."
+
+Professor Ely quotes from a letter written by a gentleman to Mr. Nordhoff, when he heard that the latter had visited Icaria and intended to describe it. "Please (said the correspondent) deal gently and cautiously with Icaria. The man who sees only the chaotic village and the wooden shoes, and only chronicles those, will commit a serious error. In that village are buried fortunes, noble hopes, and the aspirations of good and great men like Cabet." Surely the "chaotic village and the wooden shoes" are a truth—pitiable, but nevertheless real. And does not that truth deserve to be—is there not an obligation that it should be—widely known, and held up to all ages, in order that "fortunes, noble hopes, and the aspirations of good and great men like Cabet" may be no more "buried" in futile and fruitless attempts at the realisation of the dreams and visions of hyper-sanguine, even disordered minds!
+
+Those communities, with which I have dealt, are all whose history, condition, and comparative success, as bearing upon the soundness of Communistic theories, it is my intention to review. They are the principal ones, and show better than any others can do what is the maximum of success which has been attained by the adoption of such principles. There have been others with less success, an account of which would only strengthen the evidence against the possibility of disciplining men into equality.
+
+Mr. Noyes concludes his interesting work with a chapter entitled, "Reviews and Results," and it contains many sad but instructive confessions. He speaks of the "almost entire Edition: current; Page: [670] unanimity in the witnesses, who testify as to the causes of the failure" of many of these defunct communities.
+
+These are a few of the melancholy confessions which have been candidly made by the spokesman of more "buried hopes and aspirations." Surely there is a lesson in them all. But it has yet to be learnt by many would-be leaders of men. Communist and Socialist views are still spreading in the very face of such failures. I shall show to Edition: current; Page: [671] what extent, by a brief review of two magazine articles by M. de Laveleye and Mr. H. M. Hyndman, respectively. The former is a recognised authority on the historic side of the subject, and therefore his opinions as to the modern growth of the school are valuable, however much we may fail to value his method of analysing its foundation and principles. Mr. Hyndman is known, principally, as being the recognised leader of the Social Democratic party, which has made itself notorious by certain excesses in and about the neighbourhood of Trafalgar Square, London. Mr. Hyndman has published a work entitled, "The Historical Basis of Socialism." I have carefully perused the book, in order to discover a scientific basis, in which I have hitherto considered that school so lamentably deficient. I am bound to say I failed to find any basis whatever, unless it were a number of vague, unfounded allegations, regarding capital and capitalists. The work is, I venture to say, exceedingly unsatisfactory, not only in its subject matter, but even in its own construction and method of treatment.
+
+In the earlier part of this chapter, I referred to a passage in Mill, which has, more than once, been quoted by Socialists in support of their doctrines. I expressed an opinion that that passage needed to be read in connection with its context, which was usually omitted. I shall refer to it now. First, Mill said that "if the choice lay between Communism and the present state of society...all the difficulties of the former would be but as dust in the balance." And again he said: "The restraints of Communism would be freedom, in comparison with the present condition of the majority of the human race." The continuation of the first quotation is as follows: "But to make the comparison applicable we must compare Communism at its best with the régime of individual property, not as it is, but as it might be. The principle of private property has never had a fair trial in any country; and less so, perhaps, in this country (England) than in some Edition: current; Page: [672] others." If the various attempts at "social regeneration" which I have endeavoured to describe, fairly illustrate the general effects of Communism or Socialism upon the human mind, and the human energies, then, the following quotation from the same chapter should, once for all, exclude such schemes from future speculations as to a better condition of society. Speaking of the conjectures which are indulged in, as to the ultimate form which society will take, he says: "The decision will probably depend mainly upon one consideration, viz: which of the two systems is consistent with the greatest amount of human liberty. After the means of subsistence are assured, the next in strength of the personal wants of human beings is liberty; and (unlike the physical wants which, as civilisation advances become more moderate and more amenable to control) it increases instead of diminishing in intensity, as the intelligence and the moral faculties are more developed. The perfection, both of social arrangements and of practical morality, would be to secure to all persons complete independence and freedom of action, subject to no restriction but that of not doing injury to others; and the education which taught, or the social institutions which required them to exchange the control of their own actions for any amount of comfort or affluence, or to renounce liberty for the sake of equality, would deprive them of one of the most elevated characteristics of human nature." Further, Mill says: "It is yet to be ascertained whether the Communistic scheme would be consistent with that multiform development of human nature, those manifold unlikenesses, that diversity of tastes and talents, and variety of intellectual points of view, which, not only form a great part of the interest of human life, but, by bringing intellects into a stimulating collision, and, by presenting to each innumerable notions that he would not have conceived of himself, are the mainsprings of mental and moral progression." The question is, he continues, Edition: current; Page: [673] "Whether there would be any asylum left for individuality of character; whether public opinion would not be a tyrannical yoke; whether the absolute dependence of each on all, and surveillance of each by all, would not grind all down into a tame uniformity of thoughts, feelings and actions."
+
+I venture to say that a careful study of the history, and the condition of the various communities with each of which I have been compelled to deal very shortly, in the preceding sketch, will conclusively prove that all the characteristics which Mill has mentioned, as indispensable to a progressive society, will be found wanting; and all the infirmities, which he enumerates as fatal to that progression, will be discovered to have attached themselves to the numerous peoples who formed the materials for those social experiments. Instead of what Mill calls a "multiform development of human nature," we find no development at all; instead of "manifold unlikenesses," we find everywhere likeness, uniformity, stereotype; instead of a "diversity of tastes and talents," we find taste and talent almost eradicated. And what has been preserved? Nothing more than a degenerated form of that which was developed in the outside world. Mill speaks, too, of "a variety of intellectual points of view;" but not only is there no variety, but scarcely any intellect (in the proper sense of the term) remaining. The "stimulating collision" is not only impossible to be found, but strictly avoided, as one of the discords which Communism seeks to obviate; and, instead, the tame uniformity of thoughts, feelings, and actions, which Mill would deprecate, finds a complete and permanent realisation. As Sir Erskine May well says: "The natural effect of such theories would be to repress the energies of mankind; and it is their avowed object to proscribe all the more elevated aims and faculties of individuals, and all Edition: current; Page: [674] the arts and accomplishments of life.... The individual man is no more than a mechanical part of the whole community; he has no free will, no independence of thought or action. Every act of his life is prescribed for him. Individual liberty is surrendered to the state; everything that men prize most in life is to be taken out of their hands. Their religion, their education, the management of their families, their property, their industry, their earnings, are dictated by the ruling powers. Such a scheme of government, if practicable, would create despotism, exceeding any known in the history of the world."
+
+But I wish to go further in the matter of Mill's opinion. His "Principles" were published in 1848, and it was not till much later in life that he gave this question of a regenerated society, the close attention and study which it requires. In 1869, he had given the subject much more consideration, and, as a result, he wrote three papers, in which he dealt somewhat exhaustively with its sociological and philosophical aspects. These papers were kept by him during his life, with the intention, I believe, of being expanded and elaborated into a volume. They, were, however, posthumously published, with a preface by Miss Helen Fawcett, from which it will be seen that Mill himself considered the papers sufficiently complete for publication. They appeared in the February, March, and April numbers of the Fortnightly Review for 1879, under the title of "Chapters on Socialism." They contain so much of importance that I shall venture to quote several passages from them. Dealing, first, with the interest which the subject calls for, he says: It is of the utmost importance that all reflecting persons should take into early consideration what these popular political creeds are likely to be, and that every single article of them should be brought under the fullest light of investigation and discussion, so that, if possible, when the time shall be ripe, whatever is Edition: current; Page: [675] right in them may be adopted and what is wrong rejected, by general consent; and that, instead of a hostile conflict, physical or only moral, between the old and the new, the best parts of both may be combined in a renovated social fabric." In looking forward to the moment of choice between the Socialist and the Individualist régimes, Mill takes a somewhat Utopian view of the tribunal by which, or the frame of mind in which such a choice should be made. He says: "It should be the object to ascertain what institutions of property would be established by an unprejudiced legislator, absolutely impartial between the possessors of property, and the non-possessors." From what we have seen of the constitution of the House of Commons, and the proportion which the masses bear to the propertied classes, it is sufficiently evident that the determination will lay with the masses up to that point at which the propertied class will (to use De Tocqueville's words) "have recourse to physical force." Indeed, it is not at all likely that those who thus possess the balance of power will calmly delegate the settlement of an (at first sight) apparently easy conflict, to so mild and impartial a tribunal. They have the power, though they have not quite realised it; and when the realisation does fully come, we may expect to see it used. I have, in an early chapter, spoken of the naturalness of the tendency on the part of the masses to look for a continuous flow of benefits from Liberal legislation. I find Mill has expressed much the same thought: "Having, after long struggles, attained in some countries, and nearly attained in others, the point at which, for them at least, there is no further progress to make in the department of purely political rights, is it possible that the less fortunate classes should not ask themselves whether progress ought to stop there?" The masses themselves, in the older Edition: current; Page: [676] communities, are, or seem to be, allowing themselves to be persuaded that they are still suffering injury at the hands of the capitalist class. Mr. Hyndman, whom they do not repudiate as a leader, says, regarding the manner in which "the great evolution and revolution will be brought about," "The emancipation of the last slave class, the wage-slave proletariat of the great machine, industry, is the work of the immediate future." Against this somewhat windy and grandiloquent piece of braggartism it would be useless to quote the somewhat unanswerable figures of Mr. Giffen, the valuable testimony of Mr Gladstone in his "Jubilee Essay," or the recent report of the Royal Commission on commercial depression, all of which point to a distinct advance in the social condition of the working-classes of Great Britain. These facts are far too economic, too unpoetic, for the Socialist mind. Mill even says: "Society as at present constituted, is not descending into that abyss, but gradually, though surely, rising out of it; and this improvement is likely to be progressive, if bad laws do not interfere with it." Again he says: "The present system is not, as many Socialists believe, hurrying us into a state of general indigence and slavery, from which only Socialism can save us. The evils and injustices suffered under the present system are great, but they are not increasing; on the contrary, the general tendency is towards their slow diminution. There is not any one abuse or injustice now prevailing in society, by merely abolishing which, the human race would pass out of suffering into happiness." And, elsewhere, he observes: "As far as concerns the motives to exertion in the general body, Communism has no advantages which may not be reached under private property, while as regards the managing heads, it is at a considerable advantage."
+
+The competition which we hear so much deprecated is, indeed, one of the most important elements in producing Edition: current; Page: [677] this hopeful result; for every day we find the progress of manufacture producing important reductions in the cost of every-day wants. The masses, who thus decry one of the most health-giving and life-giving influences of our social organisation, shut their eyes to one-half of its effects. As Mill says: "The most enlightened of them have a very imperfect and one-sided notion" concerning it. "They forget that it is a cause of high prices and values, as well as low; that the buyers of labour, and of commodities, compete with one another, as well as the sellers." In concluding these "Chapters," Mill says: "The one certainty is that Communism, to be successful, requires a high standard of both moral and intellectual education, in all the members of the community. It is for Communism to prove, by practical experiment, its power of giving that training. Experiments alone can show whether there is, as yet, in any portion of the population, a sufficiently high level of moral cultivation to make Communism succeed, and to give to the next generation, among themselves, the education necessary to keep up that high level permanently. If Communist associations show that they can be durable and prosperous, they will multiply, and will probably be adopted by successive portions of the population of the more advanced countries, as they become morally fitted for that mode of life. But, to force unprepared populations into Communist societies, even if a political revolution gave the power to make such an attempt, would end in disappointment. If practical trials are necessary to test the capabilities of Communism, they are no less required for those other forms of Socialism, which recognise the difficulties of Communism, and contrive means to surmount them."
+
+The future is indeed a matter for speculation. Everything seems to point to great social changes, especially in the Old World. It is to be feared, however, that the drift is only in Edition: current; Page: [678] the direction of destroying existing institutions, and that there is nowhere yet conceived any substitute by which the inevitable "ills which flesh is heir to" can be avoided or even mitigated. We have, as Lord Derby lately said, "got new masters. We don't know exactly what they wish, or what they intend, possibly for the excellent reason that they do not quite know themselves. It is important for us (he adds) if many of us begin parting with more capital than we can easily spare, to wish to see how the new governing class is going to treat property in the thousand ways in which property is affected by legislation." We have, every day, dinned into our ears such phrases as the "rights of labour." There seem to exist, too, some strangely exaggerated notions as to the nature and extent of those rights; but in any case the masses are looking for an epoch in history, which is described in such vague terms as "the emancipation of labour," the "enfranchisement of the proletariat," the "unshackling of the wage-slave," and so forth The so-called "Liberal" press of the colony of Victoria, (ever sanguine regarding the masses), speaking of this looked-for industrial millennium, says, (one would think almost in irony) "Whatever may have been the blunders, or even the crimes of the working-classes, if they will only rise above the gross materialism that can worship merely muscle and brute strength; if they will have faith, and only accept as leaders, men who are prophets of the soul, and not charlatans; if they will seek to use and not abuse the time that they have gained for leisure and recreation, then much of the future is in their hands, and we can trust them to use it well. If the average Australian working-man is steadily tending towards the higher ideal, leaving behind him the prejudices and passions of a class: if capital and labour are in the future to work harmoniously, seeing that they are mutually dependent; if from the old position of mere slavery there is to arise a Edition: current; Page: [679] new, and wiser, and nobler, and purer harmony; if those banners may float before the army of pioneers as they march to the temple of honour, truth and virtue, then, indeed, we may all welcome and rejoice in—The Triumph of Labour." This is indeed a series of beautiful hypotheses! If, forsooth, "The Triumph of Labour," as a subject for welcome, is to depend upon the realisation of all of them, then, either the "triumph" must be indefinitely prolonged, or the prediction bodes trouble!
+
+I have now finished the task which I undertook to perform. I venture to think I have fairly fulfilled the promises which I had the hardihood to make in my earlier chapters.
+
+I have, in the first place, shown that, in our own day, the term "Liberalism" has altogether ceased to convey the meaning which attached to it, as a political term, during its earlier currency—that is to say, freedom for the individual. I have shown, further, how, in the present day, that, and other terms, each of which originally signified some tolerably distinct political policy, have had attached to them meanings as numerous as they are contradictory—all of which confusion has arisen from a neglect to regard first principles, and a vain desire to protect human nature from its own ineradicable infirmities, by means of ill-digested and impracticable legislative schemes, calculated to prevent the fittest from making greater progress than is achieved by the unfittest of their kind. I have shown how, by the application to such schemes of terms otherwise favourably associated, much that is in itself unjust and retrogressive has passed among the thoughtless as sound and desirable. That the term "Liberalism," and the preceding political partytitles, for which, as I have shown, it served as a substitute, did involve the principle of liberty for the individual, as opposed to the trammels of a despotic form of government—whether of the monarch or of an aristocracy—I have, I Edition: current; Page: [680] think, sufficiently demonstrated, in the chapter on "The Origin and History of Party Titles." Next, I have shown, in the two chapters, entitled respectively, "Historic Liberalism" and "Modern Liberalism," that liberty for the individual was the fundamental principle which inspired the efforts of those whom we now justly regard as the noblest and most worthy of our ancestors; and that, but for their continuous recognition of, and persistent demand for that great principle, the English, as a people, would not in our day have occupied their present proud position among the nations of the world.
+
+In striking contrast with the growth of civil freedom, and the spirit of true Liberalism in historic times, I have shown how vain were the occasionally well-meant, but ignorantly-conceived attempts to increase the national prosperity, by means of legislative interference with the various human activities of a progressive people. I have then endeavoured to indicate how little hope current events afford of an improved condition of political thought, under the existing system of democratic government; and, in further confirmation of this somewhat pessimist view, I have subsequently shown the unmistakable tendency of modern and impending legislation, and attempted to portray, as vividly as my limited powers will admit, the great wave of Socialism which has already distinctly shown itself on the political horizon, and now threatens to sweep over the whole face of organised society; to wipe out the most valued of its existing land-marks; and to subvert many of the most deeply founded institutions of its highest civilisation.
+
+I have carefully guarded myself against the possible charge of confining my efforts to mere negative criticism, by endeavouring to show that the necessity for the maximum liberty of each citizen, subject to the equal liberty of all, has an unquestionably scientific basis—that in fact, human progress and social development, as also the intellectual Edition: current; Page: [681] advancement of the human race, depend mainly, if not absolutely, upon the recognition of that, as one of the first of sociological principles.
+
+Finally, and as an indispensable complement of my earlier contentions, I have investigated the whole history of Socialism and Communism, from the Christian era to the present day, as also examined the doctrines of the most modern and influential leaders of those schools in Germany and France. I have, I think, shown that whenever and whenever those doctrines have been rigidly and honestly practised, they have invariably resulted in reducing the whole of the individuals, who participated in such experiments, down to the dead level of the modern and much commiserated agricultural labourer, and by abolishing almost every class, but those actually engaged in physical work, deprived the members of the society, thus organised, of all the refining and elevating influences which flow from the study of art, literature, science, philosophy, and the higher and truer phases of religious feeling and belief.
+
+The untried doctrines of ardent theorists, such as those of the French and German schools, cannot, until actually practised, be conclusively proved unworkable, or injurious to society; but, regarding those which have not yet been so tested, I venture to believe that a perusal of such of their principles as I have been able to enumerate will lead most of my readers to agree with me in judging them to be wild and impracticable, and conceived without due regard for the incurable infirmities of human nature, as well as without a proper recognition of the vanity of attempting to equalise either the wants, the capabilities, or the aspirations of mankind.
+
+The future will, however, tell its own tale. If "the people," in their vain desire to thus equalise social conditions, are about to continue the already commenced course of legislation, aimed at "increasing the comforts, securing the health, and Edition: current; Page: [682] multiplying the luxuries" of those who fail to secure such advantages for themselves; then, indeed, the prospect is far from being bright. Hear the admission of The Pall Malt Gazette—that suddenly converted exponent of virtue—"It is the feeblest, the least moral, and most worthless classes of the community which multiply the most rapidly. It is the pauper and the criminal class which supplies the human rabbits who multiply in the warrens of our own great cities. The educated and the well-to-do increase much less rapidly. Hence, the annual increase in the population proceeds mainly from the classes which add no strength to the nation; and those who are constantly within half-a-crown of starvation are those who bring forth the multitude of the diseased and incapable children, who bubble out of the ground for torment in this world, if not in the next.... Statesmen should no longer stand idly by, watching the multiplication of the unfit, and the survival of the weakest and worst of the community."
+
+In concluding, I can only say that I vividly realise the truth of the following note of warning, sounded by Sir Henry Maine:—"If (he says) I am in any degree right, popular government, especially as it approaches the democratic form, will tax to the utmost all the political sagacity and statesmanship of the world, to keep it from misfortune. If the "Socialist Revolution" is at hand, as predicted by writers of the Hyndman stamp, it is as well that the minority should know of its approach. But I venture to think that it will not be "reasoned, orderly and peaceful," as he and other Socialists have hoped! If existing institutions are to be subverted, and legally-acquired private property confiscated by the masses, in their desire to "equalise social conditions," it will not be completed by peaceful legislation; for there is, I imagine, enough spirit left in the breasts of the provident and self-helping classes to lead them, as a last resort, to a more fundamental law than legislation! Socialists may, I think, Edition: current; Page: [683] count upon this—that if the enfranchised masses in European countries prove their incapability to wield with judgment the legislative power which their mere numbers give them, and, instead, use that power regardless of principle, and with the brute force of which it is capable, they will find those, whom they would drag down with them, ready converts to the more primitive method of contention, the resort to which will have been forced upon them in defence of their common liberties!
+
+[1] "Popular Government,"p. 151.
+
+[2] "History of the Radical Party in Parliament"(Harris), p. 348.
+
+[3] "History of the Radical Party in Parliament" (Harris), p. 348.
+
+[4] "Speech on Conservative and Liberal Principles," 1872.
+
+[5] Lord Selbourne, in a paper entitled "Thoughts about Party," published in the January (1887) number of the Contemporary Review, says: "That a machinery should exist, by which a party, without change of name, and indeed arrogating to itself the sole right to the old name, should be liable to have its internal character and its practical objects suddenly transformed into something essentially different from what they were understood to be before; that this should be done without any previous preparation by the natural and spontaneous growth of opinion within its ranks, is a thing which could hardly have been thought possible if it had not happened."
+
+[6] "Phases of Party" (C. H. Chambers), 1872, p. 6
+
+[7] Macaulay incidently mentions several other names which attached themselves to certain groups of politicians at different and previous periods of history, but, as they all enjoyed a most ephemeral currency, I have purposely passed them over.
+
+[8] "History of England," chap. 1.
+
+[9] Macaulay's "History of England," chap. 1.
+
+[10] "History of England," chap. 1.
+
+[11] "History of England," chap. 1.
+
+[12] Macaulay's "History of England," chap. 1.
+
+[13] "Phases of Party" (C. H. Chambers), 1872, p. 6.
+
+[14] "History of England," chap. 55.
+
+[15] "History of England," chap. 55.
+
+[16] "History of England," chap. 55.
+
+[17] "Clarendon," vol. ii, p. 415.
+
+[18] "History of England," chap. 55.
+
+[19] "History of England," chap. 1.
+
+[20] "History of England," chap. 2.
+
+[21] "Phases of Party," p. 17.
+
+[22] "History of England," chap. 1.
+
+[23] "Constitutional History of England," chap. 12, note.
+
+[24] "English Parties and Conservatism," page 69.
+
+[25] Macaulay's "History of England," chap. 2.
+
+[26] Macaulay's "History of England," chap. 2.
+
+[27] "History of England," chap. 68.
+
+[28] "Constitutional History of England," chap. 12.
+
+[29] "The Earl of Chatham." Collected Essays.
+
+[30] "History of England," chap. 11.
+
+[31] "Constitutional History of England," chap. 16.
+
+[32] "Constitutional History of England," chap. 16.
+
+[33] "Constitutional History of England," chap 12.
+
+[34] Essay on "The Parties of Great Britain." Collected Essays.
+
+[35] Essay on the "Succession of Spain." Collected Essays. [It is worthy of notice, how much truth there is in this prediction. Lord Randolph Churchill, as one of the leading spirits of the Tory party of to-day, lately advocated legislative measures, which would have been considered very "advanced" Whiggism in 1832, in fact was only lately advocated by the extreme Radical party.]
+
+[36] "Essay on the Earl of Chatham." Collected Essays by Lord Macaulay.
+
+[37] "Essay on Earl of Chatham." Collected Essays.
+
+[38] "Constitutional History of England," chap. 16
+
+[39] "History of Our Own Times." Justin McCarthy, vol. i., p. 20.
+
+[40] "Phases of Party," p. 64.
+
+[41] "Phases of Party," p. 64.
+
+[42] "Middle and Extreme Parties." Collected Essays.
+
+[43] Middle and Extreme Parties Collected Essays.
+
+[44] "Why am I a Liberal?" p. 35.
+
+[45] "Why am I a Liberal? p. 36.
+
+[46] "Why am I a Liberal?" p. 39.
+
+[47] "Why am I a Liberal?" p. 53.
+
+[48] "Why am I a Liberal?" p. 57.
+
+[49] "Why am I a Liberal?" p. 60.
+
+[50] "Why am I a Liberal?" p. 70.
+
+[51] "History of the Thirty Years' Peace," vol. i., p. 226.
+
+[52] "History of the Radical Party in Parliament," William Harris, p. 8.
+
+[53] "History of England in the Eighteenth Century," vol. iii., p. 174. "See also Wingrove Cooke's "History of Parties," vol. iii., p. 188.
+
+[54] "History of the Radical Party in Parliament," p. 8.
+
+[55] "History of the Radical Party in Parliament," p. 15.
+
+[56] "Capitalisation of Labour." Wordsworth Donisthorpe, 1887.
+
+[57] "Democracy," Wordsworth Donisthorpe, p. 53.
+
+[1] "Influence of Authority in Matters of Opinion," p. 95.
+
+[2] "History of the French Revolution." Collected Essays.
+
+[3] "Democracy in Europe."—Introduction.
+
+[4] "Democracy in Europe.—Introduction.
+
+[5] "It cannot rensonably be doubted that the family was the great source of personal law."—"Village Communities," Sir Henry S. Maine.
+
+[6] "Early History of Institutions," Sir Henry Maine, p. 64.
+
+[7] "Reform and Reformers." H. B. Stanton.
+
+[8] Green's "History of the English People," p. 87.
+
+[9] "History of England," chap. 1.
+
+[10] "History of England," chap. 4.
+
+[11] Hume quotes Malmesbury, as saying that he promised also "to govern the English and Normans by equal laws."
+
+[12] Hume's "History of England," chap. 4.
+
+[13] "Hume's History of England," chap. 4.
+
+[14] Robert, Earl of Montaigne, had 973 manors and lordships; Allan, Earl of Brittany and Richmond, 442; Odo, Bishop of Baienx, 439; and a score more of the Conqueror's chief followers were treated with the same lavish generosity. It has been computed that the whole county of Norfolk was divided among sixty-six proprietors.
+
+[15] "Hume's History of England," chap. 4.
+
+[16] "Green's Short History of the English People," chap. 2.
+
+[17] "Hume's History of England," chap. 4.
+
+[18] "A bridgment of English History." Edmund Burke, chap. 3.
+
+[19] "A bridgment of English History." Edmund Burke, chap. 3.
+
+[20] "Hume's History of England," chap. 6.
+
+[21] "A bridgment of English History." Edmund Burke, chap. iv.
+
+[22] "A bridgment of English History." Edmund Burke, chap. iv.
+
+[23] "A bridgment of English History." Edmund Burke, chap. iv.
+
+[24] "Hume's History of England," chap. 6.
+
+[25] "Hume's History of England," chap. 6.
+
+[26] "Green's Short History of the English People," chap. 2.
+
+[27] "Green's Short History of the English People," chap. 2.
+
+[28] "History of England," chap. 11.
+
+[29] "Constitutional History of England," chap. 1.
+
+[30] "History of England," chap. 11.
+
+[31] "Letters on a Regicide Peace." Collected Works, vol. v.
+
+[32] "Democracy in America," vol. i., p. 250.
+
+[33] "Democracy in Europe," Sir Erskine May, vol. ii., p. 347.
+
+[34] Reeve's "History of English Law," vol. i., pp. 262-3.
+
+[35] Reeve's "History of English Law," vol. i., p. 266.
+
+[36] "History of Civilisation in Europe," chap. 13.
+
+[37] "History of England," chap. 11., appendix 2.
+
+[38] "History of England," chap. 12.
+
+[39] "Middle Ages," vol. ii., p. 108.
+
+[40] "Abridgment of English History," chap. 8.
+
+[41] Green's "History of the English People," chap. 8.
+
+[42] Green's "History of the English People," chap. 8.
+
+[43] Hume's "History of England," chap. 50.
+
+[44] Hume's "History of England," chap. 50.
+
+[45] Hume's "History of England," chap. 50.
+
+[46] "Hume's "History of England," chap. 50.
+
+[47] "Memorials of Hampden." Macaulay's Essays.
+
+[48] "Tonnage duties, those imposed on wines imported according to a certain rate per ton. This, with poundage, was formerly granted to the sovereign for life, by acts of parliament, usually passed at the beginning of each reign."—Wharton's Law Lexicon," p. 965.
+
+[49] "History of England," chap. 50.
+
+[50] "emocracy in Europe," vol ii., p. 376.
+
+[51] Hume's "History of England," chap. 51.
+
+[52] Hume's "History of England," chap. 51.
+
+[53] Green's "History of the English People," chap. 8.
+
+[54] "History of England," vol. i., p. 89, and Collected Essays: "Lord Nugent's Memorials."
+
+[55] "History of England," chap. 2.
+
+[56] Hallam's "Constitutional History of England," chap. 7.
+
+[57] "Constitutional History of England," chap. 12.
+
+[58] Chap. 12.
+
+[59] "History of England," chap. 6.
+
+[60] "History of England," chap. 67
+
+[61] "History of Civilisation," chap. 7.
+
+[62] Macaulay's "History of England, chap. 6.
+
+[63] Buckle's "History of Civilisation," vol. i., p. 496, note.
+
+[64] "Collected Works," vol. ii., p. 4.
+
+[65] Macaulay's "History of England," vol. i., chap. 2.
+
+[66] Macaulay's "History of England," chap. 4.
+
+[67] Macaulay's "History of England," vol. ii., chap. 6.
+
+[68] Macaulay's Essays: "History of the Revolution."
+
+[69] "Reflections on the Revolution in France." Collected Works, vol. ii.
+
+[70] "Constitutional History of England," chap. 15.
+
+[71] Hallam's "Constitutional History of England," chap. 15. See also Green's "Short History of the English People," chap. 9.
+
+[72] Burke's "Reflections on the French Revolution." Collected Works, vol. ii.
+
+[73] I. William and Mary, quoted by Burke. "Reflections on the French Revolution." Collected Works, vol. ii.
+
+[74] "History of Civilisation in Europe," vol. i., lecture 13.
+
+[75] "Constitutional History of England," chap. 14.
+
+[76] "Constitutional History of England," chap. 14.
+
+[77] "Constitutional History of England," chap. 14.
+
+[78] "Constitutional History of England," chap. 14.
+
+[79] "Reflections on the French Revolution." Collected Works, vol. ii.
+
+[80] "Address to the King." Collected Works, vol. v., p. 473.
+
+[81] "History of the Revolution." Collected Essays.
+
+[82] Hume's "History of England," vol. iv., p. 120. Note.—Though this quotation written upwards of a century ago, is inaccurate in speaking of the site of the United States as consisting of "savage deserts," it is nevertheless of value, as recording, in general words, the spirit by which the early colonists were actuated.
+
+[83] Burke's Collected Works, vol. i., p. 464.
+
+[84] Encyclopedia Britannica, ninth edition, "America."
+
+[85] Green's "History of the English People," 749.
+
+[86] "Collected Works," vol. i., p. 463.
+
+[87] "Speech on American Taxation." Collected Works, vol. i.
+
+[88] "Speech on American Taxation." Collected Works (Bohn), vol. i., p. 392.
+
+[89] This I presume was a reference to the great inequalities in parliamentary representation, which left Manchester and such towns as had grown up into sudden prominence comparatively disfranchised.
+
+[90] "Speech on American Taxation." Collected Works, vol. i., p. 433.4.
+
+[91] Green's "History of the English People," chap. 10.
+
+[92] Green's "History of the English People," chap. 10.
+
+[93] Collected Works, vol. v., p. 481.
+
+[94] "Democracy in Europe," vol. ii., p. 131.
+
+[95] Green's "History of the English People," chap. 7.
+
+[96] Green's "Short History," chap. 8.
+
+[97] Green's "Short History," chap. 8.
+
+[98] "Speech at Bristol." Collected Works, vol. ii.
+
+[99] Collected Works, vol. iii.
+
+[100] Collected Works, vol. iii. Note.—The capitals are so printed in the original.
+
+[101] Green's "History of the English People," chap. 10.
+
+[102] Green's "History of the English People," chap. 10.
+
+[103] Green's "History," chap. 10.
+
+[104] "Reform and Reformers," (H. B. Stanton, London, 1853.) Note: I am indebted to this admirable little work for most of the dates and facts which I have given concerning this important event.
+
+[105] "Collected Works," vol. vi.
+
+[106] "Democracy in Europe," vol. ii., p. 461.
+
+[107] "History of the Revolution" (Collected Essays.)
+
+[108] "Reflections on the Revolution in France." Collected Works, vol. ii.
+
+[109] "Democracy in Europe."
+
+[1] Hume's "History of England," vol. i., App. 2.
+
+[2] Hume's "History of England," vol. i., App. 2.
+
+[3] Green's "History of the English People," chap. 4.
+
+[4] Green's "History of the English People," chap. 4.
+
+[5] Green's "History of the English People," chap. 4.
+
+[6] Green's "History of the English People," chap. 4.
+
+[7] Harris' "Radical Party in Parliament," p. 203.
+
+[8] "History of Our Own Times," vol. i., p. 59.
+
+[9] "Speech on the Penal Laws against Catholics." Collected Works, vol. iii.
+
+[10] "Speech on Parliamentary Reform," 5th July, 1831.
+
+[11] "History of Civilisation," vol. i., 447.
+
+[12] "History of England," vol. i., chap. 12.
+
+[13] "History of England," vol. ii., chap. 21.
+
+[14] "History of England," vol. iv., appendix
+
+[15] Smollett's "History of England," vol. ii., chap. 22.
+
+[16] Smollett's "History of England," vol. ii., chap. 26.
+
+[17] Smollett's "History of England," vol. iii., chap. 28.
+
+[18] "History of Our Own Times," vol. i., 174.
+
+[19] "Reform and Reformers chap. 22.
+
+[20] "Reform and Reformers, p. 217.
+
+[21] "Wealth of Nations," Book iv., chap. 2.
+
+[22] "Wealth of Nations," Book iv., chap. 2.
+
+[23] "History of Our Own Times," vol. i., p. 177.
+
+[24] "History of Our Own Times," chap. 14.
+
+[25] "History of Our Own Times," vol. i., chap. 14.
+
+[26] "Speech at Edinburgh," December 2nd, 1845. (Collected Speeches.)
+
+[27] "Speech at Edinburgh," December 2nd, 1845. (Collected Speeches.) Note.—Macaulay was referring, in this sentence, to the contention, which was actually persisted in by some of the supporters of the existing Corn Laws, that cheapness of bread was calculated to injure the working classes.
+
+[28] "History of the Radical Party in Parliament," p. 348.
+
+[29] "History of the Radical Party in Parliament," p. 348.
+
+[30] "Democracy in Europe," vol. ii., p. 467.
+
+[31] "History of Civilisation," vol. i., p. 273.
+
+[32] "History of Civilisation," vol. i., p. 273.
+
+[33] "History of Civilisation," vol. i., p. 503.
+
+[34] "Speech on Freetrade," December 19th, 1845.
+
+[35] "Speech on Foreign Policy," October 29, 1858.
+
+[36] "Speech on Ireland," November 2, 1866.
+
+[37] The Times, October 16, 1885.
+
+[38] "Social Statics," p. 326.
+
+[39] "Social Statics," p. 94.
+
+[40] Gilchrist's "Life of Richard Cobden."
+
+[41] "History of Our Own Times," vol. i. 68.
+
+[42] "History of Our Own Times," vol. i., p. 55.
+
+[43] "History of Our Own Times," vol. i., p. 56.
+
+[44] "History of Our Own Times," vol. i., p. 56.
+
+[45] "History of Our Own Times," vol. i., 234.
+
+[46] "History of Our Own Times," vol. i., 68.
+
+[47] "Speech on The People's Charter," May 3rd, 1842.
+
+[48] "Speech on The People's Charter," May 3rd, 1842.
+
+[49] "History of Our Own Times," vol. i., p. 240.
+
+[50] "History of Our Own Times," vol. i., p. 242.
+
+[51] "Democracy in Europe," vol. i., 32.
+
+[52] "Democracy in Europe," vol. i., p. 38.
+
+[53] Green's "History of the English People," chap. 2.
+
+[54] Green's "History of the English People." chap. 2.
+
+[55] Green's "History of the English People," chap. 2.
+
+[56] Hume's "History of England," vol. i., chap. 10.
+
+[57] Hume's "History of England," vol. i., chap. 10.
+
+[58] Hume's "History of England," vol. i., chap. 10.
+
+[59] Hume's "History of England," vol. i., chap. 13.
+
+[60] Hume's "History of England," vol. i., chap. 13.
+
+[61] Green's "History of the English People," chap. 4.
+
+[62] Smollett's "History of England," vol. ii., chap. 22.
+
+[63] McCarthy's "History of Our Own Times," vol. ii., chap. 49.
+
+[64] "Speech on Jewish Disabilities," 17th April, 1833.
+
+[65] Collected Essays, "Civil Disabilities of the Jews."
+
+[66] Collected Essays, "Civil Disabilities of the Jews."
+
+[67] Collected Speeches, "Admission of Jews to Parliament."
+
+[68] Collected Speeches, "Admission of Jews to Parliament."
+
+[69] McCarthy's "History of Our Own Times," vol. ii., page 48.
+
+[70] Green's "History of the English People," chap. 5.
+
+[71] Green's "History of the English People," chap. 5.
+
+[72] "History of the Radical Party in Parliament," p. 30.
+
+[73] "Vol. iii., p. 204."
+
+[74] "Life of Richard Cobden." (John McGilchrist), p. 157.
+
+[75] "Speech on Ireland," March 14, 1868. Collected Speeches
+
+[76] "Democracy in Europe," vol. ii., p. 473.
+
+[77] McCarthy's "History of Our Own Times," vol. i., p. 35.
+
+[78] "Personal Life of George Grote," p. 76.
+
+[79] "Radical Party in Parliament," p. 236.
+
+[80] "Speech on Reform," Glasgow, December 21, 1858.
+
+[81] "Speech on Reform." Glasgow, Dec. 21, 1858.
+
+[82] "Speech on Ireland." Dublin, Nov. 2, 1866.
+
+[83] McCarthy's "History of Our Own Times," vol. ii., p. 359.
+
+[84] McCarthy's "History of Our Own Times," vol. ii., page 360.
+
+[85] "History of Our Own Times," vol. ii., p. 359.
+
+[86] "Life of W. E. Gladstone," Lewis Apjolm, p. 209.
+
+[87] "Why am I a Liberal?" p. 48.
+
+[88] "General Election Speeches," 1885.
+
+[1] My reason for choosing the above heading, for the present chapter, is that I may be enabled to draw as clear as possible a distinction between what I conceive to be the true principles upon which all movements, attempted under the authority of the political term "Liberalism," should be based, and those other principles which, while claiming to rightly conform to the traditions of that title, are in fact entirely and absolutely false to them, and really calculated to undermine and destroy some of the greatest Liberal results associated with our nation's history. I have, accordingly, entitled the one set of principles "True Liberalism," and, in the next chapter I have dealt with what I conceive to be the false and perverted school referred to, under the title "Spurious Liberalism."
+
+[2] "Over-Legislation." (Collected Essays.) Herbert Sponc
+
+[3] "Reflections on the French Revolution." (Collected Works, vol. ii., p. 333.)
+
+[4] "Reflections on the French Revolution." (Collected Works, vol. ii., p. 334.)
+
+[5] "Reflections on the French Revolution." (Collected Works, vol. ii., p. 334.)
+
+[6] "The State in Relation to Labour," W. Stanley Jevons, p. 18.
+
+[7] Political Speech (Newcastle-upon-Tyne, 14th Nov., 1885.)
+
+[8] "Order and Progress," pp. 228, 229.
+
+[9] "Influence of Authority in Matters of Opinion," p. 173.
+
+[10] Although frequently using and quoting others in the use of the expressions "science of politics," "science of government," I am aware that they are, by some authorities, considered incorrect. J. S. Mill, for instance, has said;—"The science of legislation is an Incorrect and misleading expression. Legislation is making laws. We do not talk of the science of making anything. Even the 'science of government,' would be an objectionable expression were it not that 'government' is often loosely taken to signify, not the act of governing, but the state or condition of being governed, or of being under a government." ("Unsettled Questions of Political Economy," p. 136.) With the greatest respect for so high an authority, I venture to think that the word "government," when coupled with the word "science," is more often used to signify that body of natural laws which regulate the "order and progress" of mankind, and a knowledge of which is essential to the successful government of a people. A knowledge of the science of astronomy, or of some portion of it, is essential to a practice of the art of navigation. A knowledge of the science of sociology, and of the other sciences which are subordinate to it (biology and sociology) are equally essential to the art of government. I venture to think, therefore, that the expression "science of government" is rather intended to signify that body of laws (included in sociology) upon which government depends. That is, evidently, the sense in which Burke uses it, for, he says, it requires "a deep knowledge of human nature and human necessities." I shall henceforth use the expression "science of government," as signifying the science of the body of laws upon which good government depends. Sir Geo. Cornewall Lewis, in his "Treatise on Politics" (vol. ii., p. 132), has spoken of "the science of the natural laws, which regulate the condition of nations, and determine their prosperity, decline, or stagnation."
+
+[11] "Reign of Law," p. 384.
+
+[12] "Representative Government," p. 30.
+
+[13] "Political Speech" (Newcastle-on-Tyne), November 14, 1885. Note—Mr. Stanley Jevons goes into considerable detail on this point:—"At whatever the legislator aims, he must consult all those sciences whose probabilities bear upon this end. If, for instance, the matter under consideration be colliery explosions, supposed to arise from the firing of shots or blasts, there is (1) the probability that the blasting is really the cause of the explosion; (2) the probability that more efficient ventilation would render the blasting harmless; (3) that, if gunpowder were prohibited, compressed air or some other agent would be brought into successful operation; (4) that if blasting were confined to the nighttime the mines could still be worked; and so forth, until we come finally to the probability that if the mines in question were actually thrown out of use, more harm than good would result. The legislator (he adds) must look at such questions in an all-round manner. He is neither chemist, nor physicist, nor physician, nor economist, nor moralist, but all of these in some degree, and something more as well, in the sense that he must gather, to a focus, the complex calculus of probabilities, the data of which are supplied by the separate investigators." ("The State in Relation to Labour," p. 29.)
+
+[14] "Sphere and Duties of Government" (Wilhelm von Humboldt), p. 5.
+
+[15] "On Liberty," p. 5. Note.—Mr. Stanley Jevons has adopted the very dangerous (though ultimately true) maxim that "anything is right and expedient which adds to the sum of happiness of the community;" but he clearly sees the difficulties and dangers liable to arise from its hasty application to legislative proposals. "It is not (he says) sufficient to show, by direct experiment, or other incontestable evidence, that an addition of happiness is made. We must also assure ourselves that there is no equivalent or greater subtraction of happiness—a subtraction which may take effect either as regards other people or subsequent times. This (he adds) it need hardly be said is a more difficult matter." ("The State in Relation to Labour," p. 28.)
+
+[16] "History of Civilisation," vol. i., pp. 276-7.
+
+[17] "History of Civilisation," vol. i., pp. 276-7.
+
+[18] "History of Civilisation," vol. i., p. 281.
+
+[19] "History of Civilisation," vol. i., p. 283.
+
+[20] "Man versus The State." Herbert Spencer, p. 50.
+
+[21] "Man versus The State," p. 10.
+
+[22] "Politics," book iii., chap. 12.
+
+[23] When Macaulay was criticising the essay on Government by the elder Mill, in the Edinburgh Review, he said of Bentham's definition of the end of government, which Mill had quoted, that it was "far less precise than that which is in the mouths of the vulgar," and added, "The first man with whom Mr. Mill may travel in a stage-coach, will tell him that government exists for the protection of the persons and property of men." (Essay on "Mill on Government," March, 1829. Edinburgh Review.)
+
+[24] Sir T. Erskine May, in the interesting preface to his "Democracy in Europe," says: "It should be the aim of enlightened statesmen to prepare society for its increasing responsibilities: to educate the people, to train them in the ways of freedom; to entrust them with larger franchises; to reform the laws, and to bring the government of the state into harmony with the judgment of its wisest citizens.
+
+[25] "Principles of Political Economy," J. S. Mill, p. 264.
+
+[26] "Principles of Political Economy," J. S. Mill, p. 264.
+
+[27] "Two Treatises on Government," chap. 8.
+
+[28] It has been ingeniously observed that almost simultaneously with the setting apart a special day for thanksgiving purposes on the recovery of health by the Prince of Wales, the medical man who had attended his Royal Highness was knighted for the skill he had displayed.
+
+[29] Mr. Herbert Spencer has classified in the order of their importance what he calls "the leading kinds of activity which constitute human life." He places, first, those activities which directly minister to self-preservation, viz., the actions and precautions by which from moment to moment we secure personal safety; second, those which by securing the necessities of life indirectly minister to self-preservation. ("Education, Physical, Moral, and Intellectual," p. 9.)
+
+[30] "Man versus The State," p. 96.
+
+[31] "Two Treatises on Government," chap. 6.
+
+[32] "Social Starics."
+
+[33] Speech: "Political Principles," Nov. 16, 1885.
+
+[34] "Misscellaneous Essays," vol. vii., p. 206.
+
+[35] "Sphere and Duties of Government," p. 18.
+
+[36] "Sphere and Duties of Government," p. 18.
+
+[37] Speech: "Political Principles," Nov. 16, 1885.
+
+[38] "Speech: "Political Principles," Nov. 16, 1885.
+
+[39] Speech: "Foreign Policy," Oct. 29, 1858.
+
+[40] "Letter on the Affairs of America," 1777, Works, vol. ii., p. 31.
+
+[41] "Politics." Book iv., chap. 4. Book vi., chap. 2.
+
+[42] "Democracy in Europe," vol. i., p. 22.
+
+[43] "Democracy in Europe," vol. i., p. 3.
+
+[44] "Remarks on Political Terms," 1832, p. 202.
+
+[45] "Commentaries," vol. ii., p. 500. Note.—I have, in a subsequent chapter, dealt with the somewhat complex question of "rights," which this latter definition raises. That question appears to me to depend chiefly upon the view we take as to the source of our liberty. Blackstone and others consider that man, in becoming an unit of society, entirely gives up a part of his natural liberty. Sir Geo. C. Lewis and others consider that we give up all the liberty we really possessed and then have all which is considered good for society that individuals should possess, secured to us by the laws of our country. Mr. Spencer seems to adopt Blackstone's view. I defer to a subsequent chapter any detailed treatment.
+
+[46] Speech: "Political Principles," 1885.
+
+[47] Speech: "Political Principles," 1885.
+
+[48] "Why am I a Liberal?" p. 35.
+
+[49] "Why am I a Liberal?" p. 39.
+
+[50] "Why am I a Liberal?" p. 41.
+
+[51] "Lectures, Addresses, and Literary Remains," p 59.
+
+[52] "Political Speech," 27th Nov., 1885.
+
+[53] "Equality, Liberty, and Fraternity," p. 235.
+
+[54] Joseph Cowen. "Political Speech," Nov. 16, 1885.
+
+[55] "British Constitution," p. 100.
+
+[56] "Commentaries," vol., i., p. 127.
+
+[57] "Commentaries," vol. i., p. 127.
+
+[58] "History of Constitutional Reform," (James Murdoch), p. 26
+
+[59] "Parliamentary Reform," Collected Essays, vol. ii., p. 376.
+
+[60] "Speeches on Disestablishment," Oct. 14, 1885.
+
+[61] "Democracy in America."
+
+[62] "Reign of Law," (Duke of Argyle), p. 339.
+
+[63] "Reign of Law," p. 340.
+
+[64] "Letter to Hon. H. W. Pope. Times. 14th May, 1886.
+
+[65] "Principles of Political Economy," p. 309.
+
+[66] "General Election (1885) Speeches," p. 248.
+
+[67] "At the present day," says Buckle, "eighty years after the publication of Adam Smith's 'Wealth of Nations,' there is not to be found any one of tolerable education who is not ashamed of holding opinions, which, before the time of Adam Smith, were universally received." "History of Civilisation," vol. i., p. 216.
+
+[68] Buckle says of the Corn-Laws Repeal: "All that was done was to repeal the old laws and leave trade to its natural freedom;" and elsewhere, "Every great reform which has been affected, has consisted not in doing something new, but in undoing something old.... the whole scope and tendency of modern legislation is to restore things to that natural channel from which the ignorance of preceding legislation had driven them."
+
+[69] "The Radical Programme," p. 4.
+
+[70] "The Radical Programme," p. 33.
+
+[71] "The Radical Programme," p. 33.
+
+[72] The details of this act were copied from a preceding assize, dating as far back as the reign of John.
+
+[73] "History of England," vol. i., p. 532.
+
+[74] Hume's "History of England," chap. 16.
+
+[75] 37 Edward III., chap. 3.
+
+[76] Hume's "History of England," vol. ii., chap 16.
+
+[77] Hume's "History of England," vol. ii., chap 16.
+
+[78] Hume's "History of England," vol. ii., chap. 16.
+
+[79] "Social Statics," p. 328.
+
+[80] 4 Henry IV., chap. 15. 5 Henry IV., chap. 9.
+
+[81] 3 Henry VII., chap. 5.
+
+[82] 7 Henry VII., chap. 8.
+
+[83] "History of England," vol. ii., chap. 26.
+
+[84] 4 Henry VII., chap. 23.
+
+[85] 11 Henry VII., chap. 13.
+
+[86] "History of England," vol. ii., chap. 26.
+
+[87] 4 Henry VII., chaps. 8, 9.
+
+[88] 11 Henry VII., chap. 72.
+
+[89] "Liberty or Law" (Wordsworth Donisthorpe), p. 20.
+
+[90] Hume's "History of England," vol. iii., chap. 37.
+
+[91] Hume's "History of England," vol. iii., chap. 38.
+
+[92] Hume's "History of England," vol. iii., chap. 45.
+
+[93] "The State in Relation to Labour" (W. Stanley Jevons), p. 37.
+
+[94] History of England," (Smollett), vol. ii, chap. 26.
+
+[95] Craik's "History of British Commerce," vol. i., 137.
+
+[96] "Man versus The State," p. 49.
+
+[97] Trant's "Trades' Unions," p. 15.
+
+[98] Trant's "Trades' Unions," p. 19.
+
+[99] Trant's "Trades' Unions' p. 20.
+
+[100] Trant's "Trades' Unions," p. 20.
+
+[101] Trant's "Trades' Union," p. 21.
+
+[102] Trant's "Trades' Unions," p. 21.
+
+[103] Trant's "Trades' Unions," p. 22.
+
+[104] Froude's "History of England," vol, i., p. 27.
+
+[105] "The Man versus The State," p. 49.
+
+[106] Trant's "Trades Unions," p. 7.
+
+[107] Hume's "History of England," vol. ii., chap. 16.
+
+[108] "History of England," ii., 134.
+
+[109] "History of England," J. A. Froude, i., 15.
+
+[110] "The Man versus The State," p. 49.
+
+[111] Trant's "Trades' Unions," p. 7.
+
+[112] Hume's "History of England," vol. ii., p. 133.
+
+[113] "Social Statics," p. 315.
+
+[114] "History of Civilisation," vol. i., p. 213.
+
+[115] 'History of Civilisation," vol. i., pp. 276, 277.
+
+[116] "History of Civilisation," p. 283.
+
+[1] I have elsewhere quoted Sir George Cornewall Lewis to the effect that "if political science be properly understood...there is no reason why it should not possess the same degree of certainty which belongs to other sciences founded on observation."—Influence of Authority, p. 289.
+
+[2] I have already shown elsewhere that no less than four-fifths of the legislation, from the time of Henry III. to the year 1872, has been wholly or partially repealed, and that, even of that passed in the present reign, 650 acts have been similarly treated.
+
+[3] Throughout this chapter, and perhaps in some of the others, I have made a frequent use of the term "ignorant." I use this term in no offensive sense. I use the word to indicate merely a "want of knowledge" of, or an indifference to the subject in connection with which it is used. The wisest of men are ignorant of some subject; and, in speaking of the ignorance of the working-classes of such matters as those of Political Economy and Political Science, I mean only to indicate their lack of knowledge of them, without regard to other subjects concerning which they may be very well informed.
+
+[4] I venture to utilise this gross inconsistency more than once, because I think it cuts at the very root of some of the more extravagant conclusions of the present Radical party.
+
+[5] The Times (18th September, 1885).
+
+[6] "Popular Government."
+
+[7] The Reform Bill of 1832 is said to have doubled the aggregate number of voters
+
+[8] "Popular Government" (Sir Henry Maine), p. 89.
+
+[9] "Popular Government," p. 98.
+
+[10] "Government of England," p. 352.
+
+[11] "Political Progress," p. 207.
+
+[12] "Liberty and Socialism," p. 20.—NOTE.—I have said a good deal regarding the efforts for class legislation which are regularly put forth by the working classes. I am of course, aware that similar efforts are, at times, made by other classes to obtain legislation in their own interest, though in a much more limited degree. What, however, calls, I think, for most attention is the persistency and the invariableness of those efforts by the former class, and the unquestionable belief, which seems to exist among them, that their own interest, as distinguished from that of the whole community, is a perfectly legitimate and honourable basis upon which to rear a legislative edifice.
+
+[13] "Democracy in America," vol. i., p. 272.
+
+[14] "Democracy in America," vol. i., p. 267.
+
+[15] "Democracy in America," vol. i., pp. 262, 264.
+
+[16] "Influence of Authority in Matters of Opinion," p. 10.
+
+[17] "Influence of Authority," p. 112.
+
+[18] "Influence of Authority," p. 112.
+
+[19] "Influence of Authority," p. 110.
+
+[20] "Influence of Authority," p. 111.
+
+[21] "Influence of Authority," p. 122.
+
+[22] I confess this is by no means scientific criticism, but I quote it as a finely-framed and correctly-conceived condemnation of the common practice of politicians, and even statesmen, to flatter the working-classes into a false belief as to their own wisdom and judgment in matters political. The same eloquent writer has well said: "Now, whether a man flatters the many or the few, the flatterer is a despicable character. It matters not in what age he appears: change the century you do not change the man. He who fawned upon the prince or upon the duke had something of the reptile in his character; but he who fawns upon the masses in their day of power is only a reptile which has changed the direction of its crawling. He who, in this nineteenth century, echoes the cry that the voice of the people is the voice of God, is just the man who, if he had been born two thousand years ago, would have been the loudest and hoarsest in that cringing crowd of slaves who bowed before a prince invested with the delegated majesty of Rome, and cried 'It is the voice of God, and not of a man.'"—Lectures, Addresses, and Literary Remains, p. 5.
+
+[23] Truth, July 29, 1886.
+
+[24] "Address on Disestablishment," The Times, October 15, 1885.
+
+[25] "Man versus the State," p. 82.
+
+[26] Speech: "Conservative and Liberal Principles," June 24, 1872.
+
+[27] "Dissertations and Discussions," 1859, p. 380.
+
+[28] "Critical and Historical Essays."
+
+[29] "Social Statics," p. 364.
+
+[30] "Intercolonial Trades' Union Congress Report," President's Address, p. 51.
+
+[31] "Man versus The State," p. 31.
+
+[32] "Intercolonial Trades' Union Congress," 1884, Official Report, p. 128.
+
+[33] Order and Progress, "Function of Workmen," p. 222.
+
+[34] "Principles of Political Economy," p. 572.
+
+[35] "Sphere and Duties of Government." Humboldt, 1854, p. 26.
+
+[36] "Man v. The State," p. 24.
+
+[37] Speech, October 11, 1885.
+
+[38] Speech, October 13, 1886.
+
+[39] Speech at Edinburgh, November 2, 1852.
+
+[40] "Popular Government," p. 127.
+
+[41] "History of Civilisation," vol. i. p. 275.
+
+[42] "History of Civilisation," vol. i., p. 275.
+
+[43] "History of Civilisation," vol. i., p. 276.
+
+[44] "History of Civilisation," vol. i., p. 283.
+
+[45] "On Liberty," J. S. Mill, p. 49.
+
+[46] "Man versus The State," p. 51.
+
+[47] Speech at Newcastle-on-Tyne, November 27, 1885.
+
+[48] Speech at Newcastle-on-Tyne, November 27, 1885.
+
+[49] "Popular Government," pp. 48-50.
+
+[50] "Study of Sociology," p. 16.
+
+[51] "Popular Government," Sir Henry Maine, 1885, p. x., preface.
+
+[52] I do not regard the somewhat despotic conduct of Geo. III., in connection with the American War, as any exception to this broad statement, for however disposed he may have felt to have his own way in opposing the colonists, he was careful to keep within constitutional limits.
+
+[53] I regard as exceptions to this general rule the many nobles who identified themselves with the popular side at different stages of history, and for different purposes.
+
+[54] "Primitive Property." Preface.
+
+[55] Mill, in one of his "Chapters on Socialism," observes, indeed, appropos of this misconception, "Having, after long struggles, attained in some countries, and nearly attained in others, the point at which for them there is no further progress to make in the department of purely political rights, is it possible that the less fortunate classes should not ask themselves whether progress ought to stop there?"
+
+[56] "Progress and Poverty," p. 227.
+
+[57] "Radicalism and Ransom," (M. J. Lyons), 1885.
+
+[58] "Locksley Hall and the Jubilee," Nineteenth Century (Jan. 1887.)
+
+[59] "History of Civilisation," vol. i., p. 216.
+
+[60] "Principles of Political Economy," p. 221.
+
+[61] "Wealth of Nations," p. 281.
+
+[62] "Wealth of Nations," p. 286.
+
+[63] "Wealth of Nations," p. 286.
+
+[64] "Social Statics," p. 376.
+
+[65] The Times (October 14, 1885).
+
+[66] May 15, 1885.
+
+[67] "Wealth-Creation," A. Mongredian, 1882, p. 19.
+
+[68] "Wealth-Creation," p. 19.
+
+[69] "Wealth-Creation," p. 21.
+
+[70] The Times, May 5, 1886.
+
+[71] "Addresses and Literary Remains," p. 202.
+
+[72] "Man versus The State," p. 59.
+
+[73] 'Socialism at St. Stephen's in 1883.'
+
+[74] "Theory of Legislation," p. 110
+
+[75] "Theory of Legislation," p. 120.
+
+[76] "I am well aware of the distinction that has been drawn by jurists and others between the nature of real and personal property, and of the claim that is made that, in the case of the former, the state has a right at any time to take it, notwithstanding the unwillingness of the proprietor. "It is," says Cowen, "argued by some that no compensation is due—that as all had equal rights to it, all still have. Admit the contention. What then? The original right was worthless. Land must be enclosed and cultivated and drained to give it value. The man or woman who did this first sold their improvements, or gave them to his or their successors—to a tribe or to a person. The land thus improved passed from one to another.... Then it may be traced back to its origin. Every successive owner did something, little or much, to add to its value, until what was once a rock became a garden, what was once a swamp or forest became a site of a factory or palace.... Some of these transfers may have come in questionable form, but purchase and possession have ripened into indefeasible titles, which can only be upset by robbers or revolution." Cowen's "Speeches," p. 51.
+
+[77] "Popular Government," p. 32.
+
+[78] "Popular Government," p. 102.
+
+[79] "Influence of Authority in Matters of Opinion," G. C. Lewis, p. 266.
+
+[80] "Republican Government," (L. L. Jennings), London, 1868, p. 83.
+
+[81] "Republican Government," p. 165.
+
+[82] "Democracy in the United States" (R. H. Gillet), New York.
+
+[83] "Influence of Authority," p. 266.
+
+[84] "Republican Government," p. 263.
+
+[85] Newspaper Report of Debates.
+
+[86] Speeches at Newcastle, 1885.
+
+[87] Times Report, August 13, 1886.
+
+[88] "Influence of Authority," p. 189.
+
+[89] "Man versus The State," p. 31.
+
+[90] "Municipal Socialism," W. C. Crofts, pp. 10-14.
+
+[91] I am indebted for all my information, under this head, to Mr. W. C. Croft's interesting pamphlet on "Municipal Socialism."
+
+[92] I am indebted for the greater part of my material drawn from the 1886 session of the House of Commons to the annual report of the Liberty and Property Defence League of London.
+
+[93] "Speech," Sep. 11th, 1885, (The Times.)
+
+[94] "Speech," The Times, Oct. 16, 1885.
+
+[95] "Commentaries," vol. i., p. 327.
+
+[96] "Man versus The State."
+
+[1] "Principles of Political Economy," p. 568.
+
+[2] "Principles of Political Economy," p. 569.
+
+[3] "Municipal and State Socialism," 1886.
+
+[4] "Influence of Authority," (Sir Geo. C. Lewis) p. 217. † "Influence of Authority," p. 132.
+
+[5] "Principles of Political Economy," p. 570.
+
+[6] "Speech," October 12, 1885.
+
+[7] "Economic Socialism," Contemporary Review, November, 1886.
+
+[8] "Sphere and Duties of Government," p. 11.
+
+[9] "Two treatises on Government," p. 219.
+
+[10] "Social Statics," p. 306.
+
+[11] "Reign of Law," p. 370.
+
+[12] "Two treatises on Government," p. 219.
+
+[13] "Commentaries," vol. ii., p. 500.
+
+[14] "Principles of Political Economy," p. 569.
+
+[15] "Over-Legislation." (Collected Essays), Herbert Spencer.
+
+[16] "Radical Programme," p 13.
+
+[17] "Radical Programme," p. 13.
+
+[18] "Speech," July 12, 1886.
+
+[19] "Commentaries," vol. ii., p. 500.
+
+[20] "Commentaries," vol. ii., p. 500.
+
+[21] "The State in Relation to Labour," p. 8.
+
+[22] "Theory of Legislation," p. 113.
+
+[23] "Theory of Legislation," p. 95.
+
+[24] "Jurisprudence," vol. i., p. 354.
+
+[25] "Reflections on the French Revolution," vol. ii., Collected Works, p. 332.
+
+[26] "Two Treatises on Government," John Locke.
+
+[27] I have heard one of the most prominent of Australian politicians (who owes his reputation and success entirely to his having been considered "the friend of the working man") confess that the surest road to popularity with that class was by persuading them they were injured. I hope the charge is not universally true, but I know that the method was adopted with great success by the politician mentioned.
+
+[28] "Municipal and State Socialism," p. 15
+
+[29] I am well aware that the first of these three principles could, strictly speaking, be included within the second, for to impose taxes is really to interfere with property; and to use the public revenue, in which each and every citizen has an interest, practically produces a similar result; but inasmuch as the lapping of the two is not palpable, I have chosen to separate them.
+
+[30] "It is not sufficient (says Professor Stanley Jevons) to show by direct experiment or other incontestable evidence that an addition of happiness is made. We must also assure ourselves that there is no equivalent or greater subtraction of happiness—a substraction which may take effect either as regards other people or subsequent times."
+
+[31] As an instance of the manner in which this principle of prescription may be abused, the author of "The Radical Programme," to which I have already referred, actually claims that, inasmuch as the state has already thrown on the community at large three-fourths of the burden of maintaining state-schools, it has "admitted" that there is "a duty to provide the whole": therefore that such schools should be free! If such a contention can come from such a quarter, one would have little cause for surprise at hearing it contended that the state had, for all time, admitted the right of every poor man and every idle man to receive support from his fellowcitizens. Mr. Chamberlain has in fact already spoken of the claim to such assistance as "a right."
+
+[32] "Influence of Authority in Matters of Opinion," p. 164.
+
+[33] "Social Statics," p. 341.
+
+[34] "Man versus The State," p. 19.
+
+[35] "Principles of Political Economy," p. 584.
+
+[36] "Popular Government," p. 49.
+
+[37] Speech at Edinburgh, October, 1885.
+
+[38] Quoted by Mr. Herbert Spencer in "The Man versus The State," p. 58.
+
+[39] Fawcett says, "It would not be safe to conclude that the Poor law ought to be abolished because of the Socialism which attaches to the system. Such a question ought to be determined by a careful balancing of advantages and disadvantages; and we believe that when this is done the conclusion will be that the abolition of the poor law, from the stimulus which would be given to all the evils associated with indiscriminate charity, would produce consequences which would be far more serious than any mischief which results from a poor law system, when carefully and properly administered." "Principles of Political Economy," p. 298.
+
+[40] "Social Statics," p. 306.
+
+[41] "Radical Programme," p. 52.
+
+[42] "Radical Programme," p. 107.
+
+[43] "Social Statics," p. 367.
+
+[44] "Man versus The State," p. 27.
+
+[45] "Social Statics," p. 379.
+
+[46] "Sphere and Duties of Government," p. 69.
+
+[47] "The Man versus The State," p. 31.
+
+[48] "Lay Sermons, Addresses, and Reviews" (Thomas Henry Huxley), 1870.
+
+[49] "Social Statics," p. 361.
+
+[50] "Sphere and Duties of Government," p. 71.
+
+[51] "Wealth of Nations," p. 328.
+
+[52] "Wealth of Nations," p. 329.
+
+[53] "Principles of Political Economy," p. 577.
+
+[54] "Principles of Political Economy," p. 576.
+
+[55] "Liberal Manifesto." September, 1885.
+
+[56] "Political Speech." October, 1885.
+
+[57] "Manual of Political Economy," p. 299.
+
+[58] "Political Speech." October, 1885
+
+[59] The whole of this "alternative proposition," as it is called, is significantly printed in italics in the original.
+
+[60] "Manual of Political Economy," p. 286.
+
+[61] As an illustration of the absurd extremes to which this notion of "rights" can be carried, under excitement, an American writer on the subject of Democracy, states that, in the manifesto of a new journal, published in Chicago in the working man's interest, it was broadly affirmed that "there are no rights but the rights of labour."
+
+[62] "Lay Sermons, Addresses, and Reviews," p 47.
+
+[63] "The Radical Programme," p. 32.
+
+[64] "Collected Speeches," p. 50, 51.
+
+[65] In the Times of August 12, 1886, there is a report of a meeting of the shareholders of "The Small Farm and Labourers' Company," by which it would appear that, without resort to state assistance, but by private enterprise, a number of small farmers had been settled upon the various subdivisions of a large estate which had been purchased and cut up for the purpose. The chairman announced that, in addition to the good they had done the small settlers, they could pay a dividend of five per cent. to the shareholders. Lord Wantage, who spoke at the meeting, said: "Messrs. Chamberlain and J. Collings were in favour of legislation on the subject, and they had promised to throw on the rates the risk and burden of doing for the labourers that which the labourers could perfectly well do for themselves."
+
+[66] Figures have been published by the N. S. W. Government to show that the absolute alienation of the public lands had cost the state 16 per cent. of the whole purchase money. The percentage on collecting rents would be, of course, less, but would occur more frequently.
+
+[67] Professor Fawcett's "Manual of Political Economy," p. 284, 5.
+
+[68] This actual condition of things has been already realised in some of the Australian colonies. In New South Wales and Victoria, on more than one occasion, the question of whether a candidate would advocate "remission of interest" on selections has been made the crucial test of his fitness for election; and as it has been found an inexpensive proceeding to promise to be "liberal" with other people's money, candidates have not been wanting to avail themselves of it. I believe in the latter colony the remission actually took place, and I have already referred to the case of a colonial minister practically promising post ponement of interest on advances made to trusts for irrigating certain farm lands (see p. 405). The South Australian public records show that on one occasion a large number of balances of the actual purchase money owing on state lands were remitted by parliament, in response to political agitation, such as Professor Fawcett describes. The balances thus remitted, amounted in the aggregate, I believe, to upwards of half a million of money.
+
+[69] "Manual of Political Economy," p. 285.
+
+[70] "The Radical Programme," p. 55.
+
+[71] "Social Statics," pp. 306-308.
+
+[72] It must always be a matter for consideration whether, in the building and maintenance of vessels of war, and the manufacture of armaments, the state cannot fulfil its requirements more economically by private enterprise, than by the establishment of works of its own.
+
+[73] "On Liberty," p. 64.
+
+[74] See "On Liberty," p. 64, Mill's "Political Economy," p. 577. Collected Essays, by Herbert Spencer, vol. ii., p. 87, "Wealth of Nations," p. 280.
+
+[75] "Political Economy," p. 289.
+
+[76] Some idea of the incentives to economy and safety, in the management of the railway companies of Great Britain, may be obtained, by a glance at the numerous annual comparative tables which are published in Whittaker's Almanac, concerning the periodical results of those companies. The managing body of each is constantly being spurred into increased activity and better judgment, by seeing their own results, side by side with those of others, not only as to the amount of dividends paid, but as to the per centage of the working expenses on the earnings (carried out even to decimals); the number of lives lost and persons injured; the amount of compensation paid; and a number of other particulars, which I have not room to detail—all of which constitute an ever-present guage, as to what can be done.
+
+[77] "Southey's Colloquies on Society" (Collected Essays), p 109.
+
+[78] "Municipal Socialism" (W. C. Crofts), p. 39.
+
+[79] "Over-Legislation in 1884," p. 38.
+
+[80] "Municipal Socialism" (W. C. Crofts), p. 42.
+
+[81] "Jus" (Individualist Newspaper), January 7, 1887.
+
+[82] Certain suburbs of one particular Australian city afford an example of the effect of municipalities confining themselves to saying that every citizen shall pave the footpath in front of his house, without themselves carrying out the work. The result is that as many as six different kinds of pavement may be seen opposite contiguous houses. Some uniformity is at least desirable in such a matter.
+
+[83] "Social Statics," p. 406.
+
+[84] NOTE.—Although I have mentioned here the effect this legislative interference has had upon the individual liberty of the citizen wishing to purchase or to sell, my chief reason for dealing with it under the second of the three principles which I have laid down is to show in what way, and to what extent it interferes with the property of citizens.
+
+[85] This has reference to the Victorian act, which prohibits the work-people from eating their dinner in the workroom.
+
+[86] The late Professor Fawcett protested (Speech, July 30, 1873), against state-interference with adult women's labour, on the ground that there was no more justification for it than there was for interfering with the labour of men.
+
+[87] For further treatment of this subject, see p. 335 et seq.
+
+[88] "The Basis of Individualism" (Wordsworth Donisthorpe), Westminster Review July, 1886.
+
+[89] It will, of course, be understood that I am not attempting to prescribe, what may be considered, the "spiritual requirements" of a "happy" life. Considerations of that nature are distinctly supplementary to those of a purely mundane character, to which I have confined my observations.
+
+[1] The Times (Paris Correspondent).
+
+[2] "French and German Socialism" (Professor R. T. Ely), p. 27.
+
+[3] "French and German Socialism" (Professor R. T. Ely), p. 27.
+
+[4] "Socialism in England" (H. M. Hyndman), North American Review, Sept. 1886.
+
+[5] "Socialism in England" (H. M. Hyndman), North American Review, Sept. 1886.
+
+[6] "Socialism in England" (H. M. Hyndman), North American Review, Sept. 1886.
+
+[7] "Primitive Property." Preface, p. xxvi.
+
+[8] "Primitive Property." Preface.
+
+[9] "Principles of Political Economy," p. 128.
+
+[10] "Principles of Political Economy," p. 129.
+
+[11] What I have shown to be the condition of public opinion among the masses in Paris, can be shown also regarding Germany and Russia, though in the former the expressions of discontent have not taken so violent a form.
+
+[12] This very observation of Bolingbroke's has, in a different form, been anticipated by Aristotle. "The legislator (he says) ought to know that he should consult the experience of long time, and of many years, which would plainly enough inform him whether such a scheme is useful: for almost all things have already been found out.' "Politics," book ii., chap. 5.
+
+[13] There is an excellent note to this part of the text, in my edition of Aristotle's "Politics." It is so pertinent that I quote it. "We have here," says the Editor (Dr. Gillies), "almost a Christian argument against the ideal community of goods proposed by Socrates. In a state, where the principle of unity is thus carried out, it will be impossible to exercise the social duties of liberality, kindness, etc.; and there will be no room for the virtues of benevolence, charity, modesty, etc. But virtue cannot exist, if its proper objects are withdrawn; this result, then, shows that, however fair and plausible such an Utopian theory may be, it is contrary to the nature of man, and therefore false in principle."
+
+[14] "Socialism and Communism" (Rev. M. Kaufmann, M. A.), p. 7.
+
+[15] "Socialism and Communism," p. 12.
+
+[16] "Socialism and Communism," p. 19.
+
+[17] "Socialism and Communism," p. 23.
+
+[18] "Socialism and Communism," p. 39.
+
+[19] "The former of these are said to have derived their name from Peter Waldo, a Lyons merchant, who led an influential party, eager for a reform in the corruptions of the clergy. The latter also derived their name from their founder—Fratres Minores.
+
+[20] "Socialism and Communism," p. 55.
+
+[21] "Socialism and Communism," p. 64.
+
+[22] "Socialism and Communism," p. 66.
+
+[23] "Socialism and Communism," p. 91
+
+[24] "Socialism and Communism," p. 95.
+
+[25] "Socialism and Communism," p. 104.
+
+[26] "Socialism and Communism," p. 115.
+
+[27] "Socialism and Communism," p. 120.
+
+[28] "Socialism and Communism," p. 122.
+
+[29] Southey had considerable sympathy with Socialist principles, as can be seen by a reference to his "Colloquies on Society," which were so severely handled by Macaulay.
+
+[30] "Socialism and Communism," p. 135.
+
+[31] "Socialism and Communism," p. 138
+
+[32] "History of Paraguay" (C. A. Washburn, New York, 1871) vol. i., p. 66.
+
+[33] "Principles of Political Economy," p. 131. NOTE.—I take this opportunity of acknowledging my great indebtedness to Mr. Kaufmann for the facts contained in his interesting volume.
+
+[34] I am bound to say, at the risk of being considered presumptuous, that although willing to admit the industry and research involved in M. de Laveleye's work I cannot but think that the subject is anything but philosophically treated.
+
+[35] "Primitive Property," p. 7.
+
+[36] "Primitive Property," p. 26
+
+[37] "Primitive Property," p. 30.
+
+[38] "Primitive Property," p. 35.
+
+[39] "Primitive Property," p. 44.
+
+[40] "Primitive Property," p. 57.
+
+[41] "Primitive Property," p. 62.
+
+[42] "Primitive Property," p. 72.
+
+[43] "Primitive Property," p. 77.
+
+[44] "Primitive Property," p. 78.
+
+[45] "Primitive Property," p. 86.
+
+[46] "Primitive Property," p. 82.
+
+[47] "Primitive Property," p. 97.
+
+[48] "Primitive Property," p. 99.
+
+[49] "Primitive Property," p. 102.
+
+[50] This quotation from Cæsar really refers to the Suevi; but M. Laveleye adds—"These are the habitual features characteristic of the economic condition of the German tribes;" so I am justified in using the extract as descriptive of the condition of things under the German Mark.
+
+[51] "Primitive Property," p. 117.
+
+[52] "Primitive Property," p. 19.
+
+[53] "Primitive Property," p. 116.
+
+[54] "Primitive Property," p. 35.
+
+[55] "Primitive Property," p. 35.
+
+[56] "Primitive Property," p. 122.
+
+[57] "Primitive Property," p. 133.
+
+[58] "Primitive Property," p. 177.
+
+[59] 'Primitive Property" (Preface), p. xlii.
+
+[60] "French and German Socialism in Modern Times" (Richard P. Ely, Ph. D.), Trübner and Co., 1885.
+
+[61] "Socialism as presented by Kaufmann."
+
+[62] "French and German Socialism," p. 3.
+
+[63] "Rousseau" (John Morley, 1873), vol. i., p. 192.
+
+[64] "French and German Socialism," p. 7.
+
+[65] "French and German Socialism," p. 11.
+
+[66] "French and German Socialism," p. 20
+
+[67] "Principles of Political Economy," p. 125.
+
+[68] "Principles of Political Economy," p. 130.
+
+[69] Contemporary Review, April, 1883.
+
+[70] I have already referred to De Tocqueville's statement, in which he said: "If ever the free institutions of America are destroyed, that event may be attributed to the unlimited authority of the majority, which may at some future time urge the minorities to desperation, and oblige them to have recourse to physical force.
+
+[71] "French and German Socialism," p. 53.
+
+[72] "French and German Socialism," p. 54.
+
+[73] "French and German Socialism," p. 55.
+
+[74] See "General View of Positivism," Auguste Comte. Trubner and Co., 1865.
+
+[75] "French and German Socialism," p. 59.
+
+[76] "French and German Socialism," p. 61.
+
+[77] "French and German Socialism," p. 64.
+
+[78] These two words occupy a small space, but they beg the whole question. One can imagine what that "so managed" would be in a country like America, with its fifty millions of people to have allotted to them "each according to his works." The contemplation alone is bewildering.
+
+[79] "Principles of Political Economy," p. 125.
+
+[80] "French and German Socialism," p. 34.
+
+[81] I am indebted for most of the above summary to the Rev. M. Kaufmann's interesting work, "Socialism: its Nature; its Dangers; and its Remedies considered."
+
+[82] "French and German Socialism," p. 38.
+
+[83] "Principles of Political Economy," p. 131.
+
+[84] "French and German Socialism," p. 85.
+
+[85] "French and German Socialism," p. 87.
+
+[86] "French and German Socialism," p. 87.
+
+[87] "French and German Socialism," p. 95. NOTE.—Professor Ely has set out at length Fourier's calculation. One might almost imagine, on reading it, that Fourier intended to apply his Socialist theories to the fowls themselves. It does not appear to have occurred to him that the production of nearly a billion pounds worth of eggs would somewhat glut the market! Nor does it seem to have occurred to him that, if so much money could be so easily made out of eggs, he had wasted his time by waiting twelve years for a million francs to enable him to make his first experiment. Moreover, if money were so easily made, it is difficult to understand why he was so anxious to interfere with existing institutions!
+
+[88] See "History of American Socialism" (J. H. Noyes), 1870.
+
+[89] "French and German Socialism," p. 125.
+
+[90] "French and German Socialism," p. 166.
+
+[91] "French and German Socialism," p. 119.
+
+[92] "French and German Socialism," p. 173.
+
+[93] "French and German Socialism," p. 168.
+
+[94] "French and German Socialism," p. 102.
+
+[95] "French and German Socialism," p. 202.
+
+[96] John Rae, Contemporary Review, June, 1881. Quoted by Professor Ely ("French and German Socialism").
+
+[97] "Lectures on an Entirely New State of Society," Robert Owen, p. 57.
+
+[98] Lecture, p. 145.
+
+[99] "Socialism and Communism," p. 147.
+
+[100] "Socialism and Communism," p. 167
+
+[101] I am indebted principally to Mr. Charles Nordhoff's "Communistic Societies of the United States" (1875) for the greater part of my information regarding these communities.
+
+[102] "Socialism and Communism," p. 152.
+
+[103] "Communistic Societies of the United States."
+
+[104] For interesting accounts of this sect see Hepworth Dixon's "New America" and Mr. Howell's charming novel, "The Undiscovered Country."
+
+[105] "Socialism and Communism," p. 154.
+
+[106] Quoted by Mr. Kaufmann.
+
+[107] Quoted by Mr. Kaufmann.
+
+[108] "Socialism and Communism," p. 162.
+
+[109] "Communistic Societies of the United States."
+
+[110] "Socialism and Communism," p. 177.
+
+[111] "Communistic Societies of the United States."
+
+[112] "Communistic Societies of the United States."
+
+[113] "English and French Socialism," p. 48.
+
+[114] "English and French Socialism," p. 48.
+
+[115] "American Socialisms," (Trübner) 1870.
+
+[116] "American Socialisms," page 647.
+
+[117] "Principles of Political Economy." p. 128.
+
+[118] "Principles of Political Economy," p. 129.
+
+[119] "Principles of Political Economy," p. 130.
+
+[120] "Principles of Political Economy," p. 130.
+
+[121] "Democracy in Europe." Introduction, p. lxv.
+
+[122] "Chapters on Socialism" (J. S. Mill).—Fortnightly Review, February, 1879.
+
+[123] "Chapters on Socialism."
+
+[124] "Chapters on Socialism."
+
+[125] "Chapters on Socialism."
+
+[126] "Chapters on Socialism."
+
+[127] Speech at Liverpool, October 19th, 1886.

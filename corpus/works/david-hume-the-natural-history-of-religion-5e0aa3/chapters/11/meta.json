@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-hume-the-natural-history-of-religion-5e0aa3",
+  "work_title": "The Natural History of Religion",
+  "chapter_number": 11,
+  "chapter_title": "Section IX.: Comparison of these Religions with regard to Persecution and Toleration.",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3bf2ba32-8576-5a9d-a825-608a86de1306",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1001,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/robertson-the-natural-history-of-religion"
+    }
+  ]
+}

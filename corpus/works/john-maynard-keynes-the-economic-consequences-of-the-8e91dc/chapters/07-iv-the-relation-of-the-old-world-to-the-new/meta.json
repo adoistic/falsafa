@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-maynard-keynes-the-economic-consequences-of-the-8e91dc",
+  "work_title": "The Economic Consequences of the Peace",
+  "chapter_number": 7,
+  "chapter_title": "IV. The Relation of the Old World to the New",
+  "chapter_slug": "07-iv-the-relation-of-the-old-world-to-the-new",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2cd135ec-0aea-5f51-96fd-ade5355fa1e1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 824,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keynes-the-economic-consequences-of-the-peace"
+    }
+  ]
+}

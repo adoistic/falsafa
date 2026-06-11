@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 41,
+  "chapter_title": "CHAP. XXXV.: Edition: Hobbes1651; Page: [216] Of the Signification in Scripture of Kingdome Of God, of Holy, SACRED, and",
+  "chapter_slug": "41-chap-xxxv-edition-hobbes1651-page-216-of-the-signi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "91f841d3-cff1-5631-816a-145012573ffe",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3086,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

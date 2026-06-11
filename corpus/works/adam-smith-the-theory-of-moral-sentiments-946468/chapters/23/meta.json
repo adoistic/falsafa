@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-the-theory-of-moral-sentiments-946468",
+  "work_title": "The Theory of Moral Sentiments",
+  "chapter_number": 23,
+  "chapter_title": "CHAPTER III.: That where there is no approbation of the conduct of the person who confers the benefit, there is little s",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7403e67f-b2ab-5efa-b064-364c9372e6dd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 773,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-the-theory-of-moral-sentiments-and-on-the-origins-of-languages-stewart-ed"
+    }
+  ]
+}

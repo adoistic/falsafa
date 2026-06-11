@@ -1,0 +1,33 @@
+---
+work_id: "a253781e-c271-5d6a-acce-659e24f5628d"
+work_slug: "william-godwin-of-population-a25378"
+work_title: Of Population
+author_name: William Godwin
+chapter_number: 24
+chapter_title: "APPENDIX TO CHAPTERS IV, V, & VI."
+chapter_slug: "24-appendix-to-chapters-iv-v-vi"
+variant_id: "a9379986-203c-5720-91eb-ce60ae7e0300"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 860
+source_url: "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
+translator: Online Library of Liberty edition
+---
+
+Upon looking back to the preceding Chapters on the subject of the population of Sweden, I am apprehensive I have granted too much on Edition: current; Page: [192] the point of the increase of the number of inhabitants in that country. Dr. Price, in his enquiry respecting the value of lives, was necessarily compelled to a very close study of the Tables of the Population of Sweden, these Tables being so greatly superior, in the judgment with which they were originally planned, the care and fidelity with which they have been executed, and the constancy with which they have been kept up and pursued, to any thing that is to be found of the same nature in any other part of the world.
+
+The following is in part the result of Dr. Price's observations on the subject.
+
+“The enumerations and deaths for the first nine years, from 1755 to 1763, included the whole kingdom of Sweden, consisting of twenty-six principalities or provinces. In 1764 there was a suspension of all the observations. In 1765 they were taken up again; but in this and the following years the enumeration of one of the provinces was omitted, together with the registration of the deaths in that province. In the three years from 1767 to 1770 three provinces were omitted in the enumerations and registers. In the three years from 1770 to 1773 there was also an omission of three provinces, together with the city of Stockholm. And in the remaining three years to 1776, four out of the fifteen dioceses in Sweden were omitted.”
+
+“The whole number of males living in the three years from 1765 to 1767 [I apprehend the doctor should have said, “living, according to the enumeration for 1766”] was 1,182,848, and of females, 1,290,068. I have said that one of the twenty-six provinces of Sweden was omitted in the observations for these three years. The addition of this province will make the inhabitants of Sweden in 1766 above two millions and a half. In 1757 they were 2,323,195. They increased therefore at the rate of near 200,000 in nine years. But it appears that this increase had not been of long continuance; for, had it been so, a table formed from the decrements as given by the registers, and by taking the medium of annual deaths from 1755 to 1763 for the radix, would have given the probabilities of living much too small through the whole duration of life; whereas it does so only in the first stages of life. From 45 to 60 it gives them nearly equal; and after 60 it gives them greater, which is a plain proof that about the beginning of this century [the eighteenth)] Sweden was decreasing. To the same purpose it appears from the enumerations, that, while the numbers living in the first stages of life were increasing fast, the numbers in the last stages were decreasing.”
+
+In the preceding remarks Dr. Price had an Edition: current; Page: [194] advantage in some respects, which I cannot pretend to. He was engaged in a regular correspondence with Mr. Wargentin, to whom we appear to have been in the first instance so much indebted for the judicious conduct visible in the collections of the registers and enumerations of Sweden. That meritorious compiler transmitted to the doctor regularly the Tables of the Swedish population for a series of years, which are only given at irregular intervals in the Memoirs of the Royal Academy at Stockholm, from which I have transcribed them: and he appears further to have answered several queries which Dr. Price proposed to him, as to particular points not to be found in the registers and enumerations.
+
+On this account I will not quit the subject without inserting here a Table from Dr. Price's book, similar to those I have already inserted, but founded on an average of twenty-one years, from 1755 to 1776. And it is sufficiently remarkable that the numbers in this Table fall short, both in the amount of the child-bearing women, and of the inhabitants generally, of each of the enumerations exhibited by Mr. Wargentin in the Memoirs of the Academy for the early part of this period.
+
+The result of the whole then is, that there is some probability, but by no means a certainty, that the population of Sweden has experienced an increase in most periods of time, from the commencement of the enumerations in the middle of the last century, to the present hour. But it is impossible to ascertain the rate of that increase, since its very existence is by no means beyond the reach of doubt. And yet this is all we have, by way of evidence, from the source of enumerations, of the inherent power in man of augmenting the number of his species. Respecting Sweden we have something approaching to authentic information: we may safely pronounce, that if there has been any actual increase, it at least amounts to comparatively very little. Of the rest of the world, so far as relates to a comparison of the number of native inhabitants from parent to child in successive periods, we know nothing.

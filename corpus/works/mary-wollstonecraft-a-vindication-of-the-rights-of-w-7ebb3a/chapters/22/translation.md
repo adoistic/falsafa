@@ -1,0 +1,51 @@
+---
+work_id: "7ebb3a46-fbea-56ac-adda-292f9a2a4dc8"
+work_slug: "mary-wollstonecraft-a-vindication-of-the-rights-of-w-7ebb3a"
+work_title: A Vindication of the Rights of Woman
+author_name: Mary Wollstonecraft
+chapter_number: 22
+chapter_title: section ii
+chapter_slug: 22
+variant_id: "57e0562e-d4e1-5d05-bf4a-ce34d5f4675c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1315
+source_url: "https://oll.libertyfund.org/titles/wollstonecraft-a-vindication-of-the-rights-of-woman"
+translator: Online Library of Liberty edition
+---
+
+Another instance of that feminine weakness of character, often produced by a confined education, is a romantic twist of the mind, which has been very properly termed sentimental.
+
+Women subjected by ignorance to their sensations, and only taught to look for happiness in love, refine on sensual feelings, and adopt metaphysical notions respecting that passion, which lead them shamefully to neglect the duties of life, and frequently Edition: current; Page: [283] in the midst of these sublime refinements they plump into actual vice.
+
+These are the women who are amused by the reveries of the stupid novelists, who, knowing little of human nature, work up stale tales, and describe meretricious scenes, all retailed in a sentimental jargon, which equally tend to corrupt the taste, and draw the heart aside from its daily duties. I do not mention the understanding, because never having been exercised, like the lurking particles of fire which are supposed universally to pervade matter.a
+
+Females, in fact, denied all political privileges, and not allowed, as married women, excepting in criminal cases, a civil existence, have their attention naturally drawn from the interest of the whole community to that of the minute parts, though the private duty of any member of society must be very imperfectly performed when not connected with the general good. The mighty business of female life is to please, and restrained from entering into more important concerns by political and civil oppression, sentiments become events, and reflection deepens what it should, and would have effaced, if the understanding had been allowed to take a wider range
+
+But, confined to trifling employments, they naturally imbibe opinions which the only kind of reading calculated to interest an innocent frivolous mind, inspires. Unable to grasp any thing great, is it surprising that they find the reading of history a very dry task, and disquisitions addressed to the understanding intolerably tedious, and almost unintelligible? Thus are they necessarily dependent on the novelist for amusement. Yet, when I exclaim against novels, I mean when contrasted with those works which exercise the understanding and regulate the imagination. – For any kind of reading I think better than leaving a blank still a blank, because the mind must receive a degree of enlargement and obtain a little strength by a slight exertion of its thinking powers; besides, even the productions that are only addressed to the imagination, raise the reader a little above the gross gratification of appetites, to which the mind has not given a shade of delicacy.
+
+This observation is the result of experience; for I have known several notable women, and one in particular, who was a very good woman – as good as such a narrow mind would allow her Edition: current; Page: [284] to be, who took care that her daughters (three in number) should never see a novel. As she was a woman of fortune and fashion, they had various masters to attend them, and a sort of menial governess to watch their footsteps. From their masters they learned how tables, chairs, etc. were called in French and Italian; but as the few books thrown in their way were far above their capacities, or devotional, they neither acquired ideas nor sentiments, and passed their time, when not compelled to repeat words, in dressing, quarrelling with each other, or conversing with their maids by stealth, till they were brought into company as marriageable.
+
+Their mother, a widow, was busy in the mean time in keeping up her connections, as she termed a numerous acquaintance, lest her girls should want a proper introduction into the great world. And these young ladies, with minds vulgar in every sense of the word, and spoiled tempers, entered life puffed up with notions of their own consequence, and looking down with contempt on those who could not vie with them in dress and parade
+
+With respect to love, nature, or their nurses, had taken care to teach them the physical meaning of the word; and, as they had few topics of conversation, and fewer refinements of sentiment, they expressed their gross wishes not in very delicate phrases, when they spoke freely, talking of matrimony.
+
+Could these girls have been injured by the perusal of novels? I almost forgot a shade in the character of one of them; she affected a simplicity bordering on folly, and with a simper would utter the most immodest remarks and questions, the full meaning of which she had learned whilst secluded from the world, and afraid to speak in her mother’s presence, who governed with a high hand: they were all educated, as she prided herself, in a most exemplary manner; and read their chapters and psalms before breakfast, never touching a silly novel.
+
+This is only one instance; but I recollect many other women who, not led by degrees to proper studies, and not permitted to choose for themselves, have indeed been overgrown children, or have obtained, by mixing in the world, a little of what is termed common sense: that is, a distinct manner of seeing common occurrences, as they stand detached: but what deserves the name of intellect, the power of gaining general or Edition: current; Page: [285] abstract ideas, or even intermediate ones, was out of the question. Their minds were quiescent, and when they were not roused by sensible objects and employments of that kind, they were low-spirited, would cry, or go to sleep.
+
+When, therefore, I advise my sex not to read such flimsy works, it is to induce them to read something superiour; for I coincide in opinion with a sagacious man, who, having a daughter and niece under his care, pursued a very different plan with each.
+
+The niece, who had considerable abilities, had, before she was left to his guardianship, been indulged in desultory reading. Her he endeavoured to lead, and did lead to history and moral essays; but his daughter, whom a fond weak mother had indulged, and who consequently was averse to every thing like application, he allowed to read novels: and used to justify his conduct by saying, that if she ever attained a relish for reading them, he should have some foundation to work upon; and that erroneous opinions were better than none at all.
+
+In fact the female mind has been so totally neglected, that knowledge was only to be acquired from this muddy source, till from reading novels some women of superiour talents learned to despise them.
+
+The best method, I believe, that can be adopted to correct a fondness for novels is to ridicule them: not indiscriminately, for then it would have little effect; but, if a judicious person, with some turn for humour, would read several to a young girl, and point out both by tones, and apt comparisons with pathetic incidents and heroic characters in history, how foolishly and ridiculously they caricatured human nature, just opinions might be substituted instead of romantic sentiments.
+
+In one respect, however, the majority of both sexes resemble, and equally shew a want of taste and modesty. Ignorant women, forced to be chaste to preserve their reputation, allow their imagination to revel in the unnatural and meretricious scenes sketched by the novel writers of the day, slighting as insipid the sober dignity, and matron graces of history, whilst Edition: current; Page: [286] men carry the same vitiated taste into life, and fly for amusement to the wanton, from the unsophisticated charms of virtue, and the grave respectability of sense.
+
+Besides, the reading of novels makes women, and particularly ladies of fashion, very fond of using strong expressions and superlatives in conversation; and, though the dissipated artificial life which they lead prevents their cherishing any strong legitimate passion, the language of passion in affected tones slips for ever from their glib tongues, and every trifle produces those phosphoric bursts which only mimick in the dark the flame of passion.

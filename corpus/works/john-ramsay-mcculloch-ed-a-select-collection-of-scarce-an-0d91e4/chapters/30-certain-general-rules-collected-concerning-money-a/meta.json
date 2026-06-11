@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 30,
+  "chapter_title": "Certain General RULES collected concerning Money and Bullion out of the late Consultation at Court.",
+  "chapter_slug": "30-certain-general-rules-collected-concerning-money-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54a6b451-fb18-5cdf-b1f1-6bee9e346877",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1014,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

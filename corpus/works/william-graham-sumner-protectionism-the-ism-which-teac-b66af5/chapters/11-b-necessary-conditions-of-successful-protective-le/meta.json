@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-protectionism-the-ism-which-teac-b66af5",
+  "work_title": "Protectionism: The -ism Which Teaches That Waste Makes Wealth",
+  "chapter_number": 11,
+  "chapter_title": "B.): Necessary Conditions of Successful Protective Legislation.",
+  "chapter_slug": "11-b-necessary-conditions-of-successful-protective-le",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1c7469ce-fa6c-5707-9f82-1e934d303795",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1407,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/sumner-protectionism-the-ism-which-teaches-that-waste-makes-wealth"
+    }
+  ]
+}

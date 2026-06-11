@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 24,
+  "chapter_title": "MEDITATION I.: Of the Things on Which We May Doubt.",
+  "chapter_slug": "24-meditation-i-of-the-things-on-which-we-may-doubt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7608d18d-bbbc-53d3-ad95-f7a415564f1a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2185,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

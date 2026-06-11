@@ -1,0 +1,26 @@
+{
+  "work_slug": "michel-chevalier-society-manners-and-politics-in--18e414",
+  "work_title": "Society, Manners, and Politics in the United States",
+  "chapter_number": 3,
+  "chapter_title": "RAILROAD FROM LONDON TO PARIS.",
+  "chapter_slug": "03-railroad-from-london-to-paris",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eb1d1251-0b7f-5d7d-871f-cb98d5ae8c33",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3245,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chevalier-society-manners-and-politics-in-the-united-states"
+    }
+  ]
+}

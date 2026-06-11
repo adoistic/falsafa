@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-chadwick-and-nassa-poor-law-commissioners-report-of-e658d9",
+  "work_title": "Poor Law Commissioners' Report of 1834",
+  "chapter_number": 37,
+  "chapter_title": "I. NATIONAL CHARGE",
+  "chapter_slug": "37-i-national-charge",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cc878c91-f39c-57f9-9739-a42a6422590f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 973,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chadwick-poor-law-commissioners-report-of-1834"
+    }
+  ]
+}

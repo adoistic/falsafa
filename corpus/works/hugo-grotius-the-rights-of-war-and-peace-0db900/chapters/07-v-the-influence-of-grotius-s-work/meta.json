@@ -1,0 +1,26 @@
+{
+  "work_slug": "hugo-grotius-the-rights-of-war-and-peace-0db900",
+  "work_title": "The Rights of War and Peace",
+  "chapter_number": 7,
+  "chapter_title": "V. The Influence of Grotius’s Work.",
+  "chapter_slug": "07-v-the-influence-of-grotius-s-work",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4d65f21b-884d-5d37-9641-45dd0b14dae7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1874,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/grotius-the-rights-of-war-and-peace-1901-ed"
+    }
+  ]
+}

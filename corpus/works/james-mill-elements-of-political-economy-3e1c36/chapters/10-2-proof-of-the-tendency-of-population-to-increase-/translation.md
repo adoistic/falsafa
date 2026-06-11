@@ -1,0 +1,39 @@
+---
+work_id: "3e1c3652-0c17-5735-963e-45174cee80b3"
+work_slug: "james-mill-elements-of-political-economy-3e1c36"
+work_title: Elements of Political Economy
+author_name: James Mill
+chapter_number: 10
+chapter_title: 2. Proof of the tendency of Population to increase rapidly.
+chapter_slug: "10-2-proof-of-the-tendency-of-population-to-increase-"
+variant_id: "7505fe2f-53ef-5375-8c6a-c1e5e0fee638"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1039
+source_url: "https://oll.libertyfund.org/titles/mill-elements-of-political-economy-3rd-ed-1844"
+translator: Online Library of Liberty edition
+---
+
+The natural tendency of population to increase is to be collected from two sets of circumstances; the physiological constitution of the female of the human species; and the statements respecting the rate of increase in different countries.
+
+The facts respecting the physiological constitution of the human female are well ascertained, and are indubitable grounds of conclusion. The statements respecting the rate of increase in different countries will be found to be, either suppositions with respect to matters of fact, upon the conformity of which suppositions to any real matters of fact we can have no assurance; or statements of facts, of such a nature, as prove nothing with regard to the points in dispute.
+
+That the possible rate of increase in the numbers of mankind depends upon the constitution of the female, will not be disputed. The facts, which are fully ascertained in regard to the female of the human species, and the inferences which the sciences of physiology and comparative anatomy enable us to derive from the analogy of other animals, whose anatomy and physiology resemble those of the human species, afford the means of very satisfactory conclusions on this subject.
+
+The females of those species of animals, whose period and mode of gestation are similar to those of the female of our own species, and which bring forth one at a birth, are capable, when placed in the most favourable circumstances, of a birth every year, from the time when the power of producing begins, till the time when it ends, omitting one year now and then, which, at the most, amounts to a very small proportion on the whole.
+
+The suckling of the infant, in the case of the female of the human species, if continued more than three months, has a tendency to postpone the epoch of conception beyond the period of a year. This, it is to be observed, is the only physiological peculiarity which authorizes an inference of any difference in the frequency of the births in the case of the female of the human species, and in that of those other species to which we have referred.
+
+To reason correctly, we should make an allowance for that peculiarity. Let such ample allowance be made as will include all interruptions; let us say that one birth in two years is natural to the female of the human species. In Europe, to which we may at present confine our observations, the period of child-bearing in women extends, from sixteen or seventeen, to forty-five, years of age. Let us make still more allowance, and say it extends only from twenty to forty years of age. In that period, at the allowance of two years to one birth, there is time for ten births, which may be regarded as not more than the number natural to the female of the human species.
+
+Under favourable circumstances, the mortality among children is very small. Mortality among the children of very poor people is unavoidable, from want of the necessary means of health. Among the children of people in easy circumstances, who know and practise the rules for the preservation of health, the mortality is small; and there can be no doubt, that, under more skilful modes of managing the food, and clothing, the air, the exercise, and education of children, even this mortality would be greatly diminished.
+
+We may conclude, therefore, that, in the most favourable circumstances, ten births are the measure of fecundity in the female of the human species; and that of the children born a small proportion would die before the age of maturity. For occasional instances of barrenness, and for this small degree of mortality, let us make much more than the necessary allowance, a deduction of one-half; and say, That every human pair, united at an early age, commanding a full supply of things necessary for physical welfare, exempt from the necessity of oppressive labour, and sufficiently skilled to make the best use of their circumstances for preventing disease and mortality among themselves and their children, would, one with another, rear five children. If this is the case, it is needless to exhibit an accurate calculation, to show that population would double itself in some moderate portion of years. It is evident, at once, that it would double itself in a small number of years.
+
+To meet a conclusion so well established as this, recourse has been had to certain tables, respecting population, and respecting births and deaths, in various countries. The reasoning from these tables evades the point in dispute. I know no tables which exhibit any thing, even if we give them, what they never deserve, credit for exactness, except the mere fact with regard to the state of increase. They show, or pretend to show, whether a certain population is increasing or not increasing; and, if increasing, at what rate. But, if it appeared, from such tables, that the population of every country in the world were stationary, no man, capable of reasoning, would infer, that the human race is incapable of increasing. Every body knows the fact, that in the greater number of countries, the population is stationary, or nearly so. But what does this prove, so long as we are not informed, by what causes it is prevented from increasing? We know well, that there are two causes, by which it may be prevented from increasing, how great soever its natural tendency to increase. The one is poverty; under which, let the number born be what it may, all but a certain number undergo a premature destruction. The other is prudence; by which either marriages are sparingly contracted, or care is taken that children, beyond a certain number, shall not be the fruit. It is useless to inform us, that there is little or no increase of population in certain countries, if we receive not, at the same time, accurate information of the degree in which poverty, or prudence, or other causes, operate to prevent it.
+
+That population, therefore, has such a tendency to increase as would enable it to double itself in a small number of years, is a proposition resting on the strongest evidence, which nothing worth the name of evidence has been brought to controvert.

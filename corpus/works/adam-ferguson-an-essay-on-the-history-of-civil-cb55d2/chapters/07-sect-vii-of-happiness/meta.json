@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-ferguson-an-essay-on-the-history-of-civil-cb55d2",
+  "work_title": "An Essay on the History of Civil Society",
+  "chapter_number": 7,
+  "chapter_title": "SECT. VII.: Of Happiness.",
+  "chapter_slug": "07-sect-vii-of-happiness",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54c92525-37bb-5d83-a464-cea30c28ede6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3170,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ferguson-an-essay-on-the-history-of-civil-society"
+    }
+  ]
+}

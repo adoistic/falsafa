@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 59,
+  "chapter_title": "CHAP. III.: Of Fixation of the Balance, or of Agrarian Laws.",
+  "chapter_slug": "59-chap-iii-of-fixation-of-the-balance-or-of-agrarian",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e1418a46-b1ba-5ca8-b324-c1b8885d9dd9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 150,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

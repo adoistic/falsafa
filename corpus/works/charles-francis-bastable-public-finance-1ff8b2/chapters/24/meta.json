@@ -1,0 +1,26 @@
+{
+  "work_slug": "charles-francis-bastable-public-finance-1ff8b2",
+  "work_title": "Public Finance",
+  "chapter_number": 24,
+  "chapter_title": "CHAPTER II: the general features of taxation",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c05e28e6-b3ed-55a2-a19e-fcbb9cef83bc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4703,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bastable-public-finance"
+    }
+  ]
+}

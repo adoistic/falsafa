@@ -1,0 +1,25 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 33
+chapter_title: §3. Impatience Depends on Income
+chapter_slug: "33-3-impatience-depends-on-income"
+variant_id: "e01eccea-2350-5112-9a3c-a71384f1e005"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 619
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+Time preference, a concept which psychologically underlies interest, lends itself to express any situation, either preference for present as against future goods or preference for future as against present goods or for no preference. The term impatience carries with it the presumption that present goods are preferred. But I shall treat the two terms (impatience and time preference) as synonymous. Henceforth the term impatience will be the one chiefly used partly because its meaning is more self-evident, partly because it is shorter, and partly because it does carry a presumption as to the usual direction of the time preference. The degree of impatience varies, of course, with the individual, but when we have selected our individual, the degree of his impatience depends on his entire income stream, beginning at the present instant and stretching indefinitely into the future; that is, Edition: current; Page: [67] on the amount of his expected real income and the manner in which it is expected to be distributed in time. It depends in particular on the relative abundance of the early as compared with the remote income items—or what we shall call the time shape of the expected income stream. If income is particularly abundant in the future; that is, if the person expects an increase in his income stream, he would willingly promise to sacrifice out of that increase, when it comes, a relatively large sum for the sake of receiving a relatively small sum at once. Thus the possessor of a strawberry patch might, in winter, be willing to exchange two boxes of strawberries, due in six months, for one available today. On the other hand, if immediate income is abundant but future income scarce, the opposite relation may exist. In strawberry season, the same man might willingly give up two boxes of his then abundant crop for the right to only one box in the succeeding winter. That is, time preference may not always be a preference for present over future goods; it may, under certain conditions, be the opposite. Impatience may be and sometimes is negative!
+
+It is, therefore, not necessary in beginning our study of interest to distinguish, as many writers do, between the principles which lead to the existence of interest and those which regulate the rate of interest. By the existence of interest these writers mean that the rate is greater than zero. It seems preferable to reverse the order of the two problems and seek first to find the principles which fix the terms on which present and future goods exchange, without restricting ourselves in advance to the thesis that, always and necessarily, present goods command a premium over future goods. If our principles permit the deviations from par to be in either direction, this Edition: current; Page: [68] will mean that the rate of interest may under certain circumstances be zero (i.e., non-existent), or even negative, so that, in such a case, future goods would command a premium over present. After these general principles have been established a special study will then be in order to discover why the rate of interest is, in actual experience, almost never zero or negative.
+
+We noted, in Chapter II, that when gold, or any other durable commodity capable of being stored or kept without cost, is the standard of comparison, the rate of interest in terms of that standard cannot fall below zero. Does the reason why interest is, in general experience, positive rather than negative lie entirely in human nature? Or does it lie partly in the income stream? These special questions can best be answered after we have found the general principles by which the rate of interest, be it positive, negative, or zero, is determined.

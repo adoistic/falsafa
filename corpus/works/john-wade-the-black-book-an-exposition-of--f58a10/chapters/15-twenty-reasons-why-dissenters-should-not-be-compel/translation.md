@@ -1,0 +1,25 @@
+---
+work_id: "f58a10dd-5d81-5fcd-a344-bcad41192fb0"
+work_slug: "john-wade-the-black-book-an-exposition-of--f58a10"
+work_title: "The Black Book: An Exposition of Abuses in Church and State"
+author_name: John Wade
+chapter_number: 15
+chapter_title: Twenty Reasons why Dissenters should not be compelled to pay Church Rates and Tithes, or in any way to support the Churc
+chapter_slug: "15-twenty-reasons-why-dissenters-should-not-be-compel"
+variant_id: "7bb9b589-34aa-5877-9163-57237eb96552"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 230
+source_url: "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+translator: Online Library of Liberty edition
+---
+
+A desirable fact to ascertain is, the relative strength of religious sects in the several counties of England. Official returns, as before stated, have been received for the county of Lancaster, (Parl. Paper, No. 664, Sess. 1830,) but for no other county. From these returns it appears the number of parish churches in Lancashire is 65, parochial chapels 157, chapels of ease 59: total number of churches and chapels of the establishment, 281. The total number of dissenting places of worship is 590, and of sectarians 255,411. So that one-fourth of the population of Lancashire are open and professing non-conformists.
+
+We shall conclude with stating the results of the inquiries of the Dissenters on this subject. They have exhibited a statement of the number of church livings and the number of chapels or congregations in each county in England. Their statement, we apprehend, is not far from the truth; it is certainly not exaggerated, as will appear from comparing the results of their inquiries with the official returns for Lancashire. It does not contain the unitarian chapels in England and Wales; this sect has 169 chapels; they are a numerous and increasing body; in Lancashire alone there are 28 congregations of that persuasion, with 5,099 members.
+
+In the next chapter, on the Church of Ireland, we shall endeavour to ascertain the proportion of Conformists and Separatists in the United Kingdom.

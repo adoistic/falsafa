@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 13,
+  "chapter_title": "§ 10.: Future Progress of Law. Legislation and Interpretation; the Legislative Assemblies.",
+  "chapter_slug": "13-10-future-progress-of-law-legislation-and-interpre",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37d7f824-564d-52d0-a751-1bca0cf1a8e0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2257,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

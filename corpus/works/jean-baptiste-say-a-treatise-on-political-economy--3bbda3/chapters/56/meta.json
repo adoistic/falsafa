@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 56,
+  "chapter_title": "BOOK II, CHAPTER VIII: OF THE REVENUE OF CAPITAL.",
+  "chapter_slug": "56",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11aaf449-8657-5637-9c56-acbd7680bd54",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 172,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

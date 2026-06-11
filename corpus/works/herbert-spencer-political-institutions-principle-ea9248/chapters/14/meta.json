@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-political-institutions-principle-ea9248",
+  "work_title": "Political Institutions (Principles of Sociology, Part V)",
+  "chapter_number": 14,
+  "chapter_title": "CHAPTER XIII.: judicial and executive systems.",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "017905b8-f5d4-5802-947b-66e5ed287113",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7117,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-political-institutions-being-part-v-of-the-principles-of-sociology"
+    }
+  ]
+}

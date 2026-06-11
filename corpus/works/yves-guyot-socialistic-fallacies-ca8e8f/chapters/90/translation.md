@@ -1,0 +1,45 @@
+---
+work_id: "ca8e8fcd-ae8e-5bd8-9353-38946f0fd731"
+work_slug: "yves-guyot-socialistic-fallacies-ca8e8f"
+work_title: Socialistic Fallacies
+author_name: Yves Guyot
+chapter_number: 90
+chapter_title: "CHAPTER II: The Sovereignty of the Strikers"
+chapter_slug: 90
+variant_id: "0fcbcf84-4b1b-5601-8831-d2d543df4a3e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 878
+source_url: "https://oll.libertyfund.org/titles/guyot-socialistic-fallacies"
+translator: Online Library of Liberty edition
+---
+
+Tyranny of strikers—Fressenville—Montluçon—Mines of the Pas-de-Calais, according to M. Clemenceau—Necessity for armed force—Orders to police and military—Claim to monopoly of labour during a strike.
+
+Every government is under an obligation, under pain of abdication, to assure a minimum of security and to safeguard at least the appearance of freedom of labour. It cannot permit incitement during every strike to acts of incendiarism and pillage such as were witnessed at Fressenville on April 11th, 1906. It therefore employs police and troops and has to proceed to arrest a few imprudently violent spirits. Thereupon those who Edition: current; Page: [275] sympathise with the strikers immediately say what the supporters of the Sisters of the Convent of St. Esprit said, and characterise their acts as the “provocations of the Government.” A few recent examples will prove the truth of these assertions.
+
+From April 6th to May 21st the town of Montluçon was in the hands of a small body of strike leaders who, thanks to the cowardice of the authorities charged with the duty of ensuring order, terrorised the bulk of the population and interrupted work from April 30th. A force of soldiers was despatched, but was shut up in the factories; the Labour Exchange (“Bourse du Travail”) was allowed to order the tradesmen and proprietors of cafés and restaurants to close their establishments on pain of pillage and destruction. On the following day, patrols of strikers were allowed to stop the workmen or to refuse to allow them to proceed without permits, for which they were obliged to pay. The leaders felt themselves to be masters of the situation to such an extent that they put up tents, which they furnished and heated in front of the establishments which they placed under an interdict.
+
+M. Clemenceau, in his speech at Lyons in April, 1906, gave a description of the acts of violence which were being perpetrated at the same moment in the mines of the Pas-de-Calais, in the following words:—
+
+“Can they tell me that to ransack the houses of the workers, to pillage farms and markets, to drive women and children from their homes to drag into the public square a wretched woman, with tattered garments, whose only crime is to be the wife of a man who remains at work, to seize miners on their way home from a mine and make them carry insulting placards, to force them to their knees with blows and constrain them to ask for pardon for having Edition: current; Page: [276] worked, and join the ranks of idlers for their crime—can they tell me that these are acts which a Government is unable to repress without denouncing itself as a Government of reactionaries?”
+
+M. Clemenceau had often reproached various Ministers with having sent troops to the scenes of strikes. He was himself obliged to send 60,000 men to the Pas-de-Calais and the Nord.
+
+But when the mob sees officers, privates and police resigning themselves to insults and to threats, it proceeds to assault them, and when it is impossible to order military and police to submit to be disarmed, wounded and killed without resistance, the result is a number of casualties.
+
+The Socialists have introduced a new theory as regards strikes. In connection with the dock strike at Marseilles, M. Jaurès said, on July 5th, 1904:—
+
+“We, as Socialists, have always proclaimed that a strike suspends, but does not put an end to, the contract of labour; that a relationship, a bond, subsists between an enterprise and its workmen, even when they are on strike, such as prevents its proprietor from calling in other workmen in the place of those with whom it is his duty to negotiate, except by a veritable abuse of power.”
+
+According to this theory, the wage-earners are entitled to stop work, but the employer must consider them as irremovable. They have left the work which it was their duty to perform; their employer remains permanently bound to them, the work which he requires remains their property and he has no right to give it to others. Thus a trader, A, may refuse to sell a particular commodity at a price, X. The would-be purchaser is not to have the right to buy the same article at a lower price from B.
+
+If the employer is unable to satisfy the requirements of his workmen on strike, and if he be permanently bound to them, he has but one resource—to close his works. Would M. Jaurés, Edition: current; Page: [277] in such a case, consider that the workmen have a perpetual monopoly of the work which is not to be carried out there?
+
+This theory of the law was adopted by the committee which proposed the draft law relating to the contract of labour introduced by M. Doumergue on July 2nd, 1906, and adopted by him. The Rheims “Conseil de Prudhommes” has followed an example derived from such high authority.
+
+Some new legislators will be logical and propose that workmen be paid wages during a strike or that they should at all events draw sums by way of indemnity for the stoppage of work, for if they are out of work, this is due to the ill-will and stupidity of the employer, and must be taken into account accordingly.

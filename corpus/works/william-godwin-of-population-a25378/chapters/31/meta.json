@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-godwin-of-population-a25378",
+  "work_title": "Of Population",
+  "chapter_number": 31,
+  "chapter_title": "Section III: Of the ratio of increase in human population.",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e02ee354-83d5-521b-ac42-856d640d4ea9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6079,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
+    }
+  ]
+}

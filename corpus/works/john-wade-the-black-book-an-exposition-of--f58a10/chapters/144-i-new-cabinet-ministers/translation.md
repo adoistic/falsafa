@@ -1,0 +1,75 @@
+---
+work_id: "f58a10dd-5d81-5fcd-a344-bcad41192fb0"
+work_slug: "john-wade-the-black-book-an-exposition-of--f58a10"
+work_title: "The Black Book: An Exposition of Abuses in Church and State"
+author_name: John Wade
+chapter_number: 144
+chapter_title: "I.—: NEW CABINET MINISTERS."
+chapter_slug: "144-i-new-cabinet-ministers"
+variant_id: "6f17206e-91b4-5787-9d3f-7897e6cc5516"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1639
+source_url: "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+translator: Online Library of Liberty edition
+---
+
+Peel, sir Robert, first lord of the treasury and chancellor of the exchequer.
+
+The premier’s claims to public confidence may be decided by two points of his Tamworth address. He could not pledge himself to corporation reform, but he would give to the ‘suggestions’ of the Commissioners ‘a full and unprejudiced consideration.’ So sir Robert has yet to learn that the corporations of England and Ireland need reformation! Secondly, ‘I cannot give my consent to the alienation of church property in any part of the United Kingdom from strictly ecclesiastical purposes.’ This means that for the maintenance of the Irish sinecure church he will perpetuate the military executions of Rathcormack, and yield no substantial relief to the grievances of the Dissenters. From such a dreadful Reformer as sir Robert, heaven preserve us!
+
+Lyndhurst, lord, lord high chancellor of England.
+
+An accomplished judge but no law reformer, as his first chancellorship proved, and in favour of hanging for forgery. A second Shaftesbury in politics, with a private trait or two of the late Sheridan, and reputed patron of Mr. Barnes, the supervisor of the ‘leading journal of Europe.’ Upon the Reform Bill, April 2, 1832, lord Lyndhurst said,—‘Let me conjure you, then, by voting against the second reading of this Bill, to avoid those calamities which menace the Constitution.’
+
+Roslyn, earl of, lord president of the council.
+
+Commonly called ‘rat Roslyn,’ but not, as reported, without ‘a tail.’ since, beside his lord presidentship, he is general in the army, colonel of 9th lancers, and director of chancery, Scotland.
+
+Wharncliffe, baron, lord privy seal.
+
+We suspect this honest but prejudiced old Tory has had more to do with late changes than the world is aware of. If we are not misinformed the ‘odd trick’ of a great personage, in suddenly dismissing his ministers, was mainly brought about by the ‘Dragon of Wantley’ and earl Munster, the last of whom Edition: current; Page: [125] the Whigs did not think quite worthy of the governor-generalship of India. The privy seal gentleman, it will be recollected, was at the head of the ‘Waverers’ in the House of Lords, and had the audacity to move for the absolute rejection of the Reform Bill. The baron is bold, and oftener than once has distinguished himself in Yorkshire in the van of his yeomanry cavalry.
+
+Wellington, duke of, secretary for the foreign department.
+
+About ‘his Highness’ there can be no mistake. But really his modesty in yielding the premiership to sir Robert is a new trait of character we were unapprised of. His grace may have other virtues that blush unseen, beside even his love of the Turk and Don Carlos.
+
+Goulburn, right hon. H. secretary for the home department.
+
+Pensioner of £2000 a-year as late Irish secretary. From his famous speech on the civil list in 1830 he seems to differ with the late Charles James Fox, and to doubt, with Machiavel, whether in matters of government, ‘Honesty is the best policy.’ His bungling oration on the last mentioned occasion was in great part the unintentional cause of the upsetting of the Wellington ministry, and was a fine attempt at the ‘humbug,’ as his doings in respect of French claims and the sugar duties were of the ‘hotch-potch.’ Notwithstanding, he will make an excellent home secretary on the Sidmouth model, and we dare say will have no objection to revive, if needful, a little of the Oliver and Castles system. After his speeches on the Universities Bill he must be as great a consolation to the Dissenters of England as sir H. Hardinge is to the Catholics of Ireland. Upon the Irish Church Temporalities Bill, last year, Feb. 12, Mr. Goulburn said, ‘Of this he was convinced, that the church must be ultimately one of the best means of the salvation of the country.’ We wish it may prove true, and if rightly interpreted we are not sure it may not so turn out.
+
+Aberdeen, earl of, secretary for the colonial department.
+
+Formerly secretary for foreign affairs, and as profoundly versed in the conceits of diplomacy (mind this is no joke) as in matters of antiquarian research. The noble lord is altogether an antique, and one is at a loss to discover his fitness for grappling with the modern difficulties likely to arise in the West India colonies. But this is the Duke’s, or rather, and by courtesy, we should say his man Robert’s affair and not ours.
+
+De Grey, earl, first lord of the admiralty.
+
+Alias Robinson, alias Thomas Philip Weddell, alias lord Grantham, alias the custos rot. of Bedfordshire, alias the eldest brother of the earl of Ripon. The various designations this nobleman has thought fit to assume renders his personal identification difficult, but he is best known, we believe, by his second title of lord Grantham, and used to be more distinguished by his large whiskers than any thing else. He is colonel of the York hussar yeomanry cavalry, and no doubt the blue Peters of the royal fleet, as well as the masters attendant and so forth of the dock-yards, will be greatly edified by having their stores and rigging overhauled by one so admirably fit for the office as the new first lord of the admiralty.
+
+Murray, sir George, master-general of the ordnance.
+
+Has valuable military appointments as colonel and governor, and his wife, who is a daughter of the old lord Uxbridge, and first married an Erskine, is a pensioner. Sir George, who is an able quarter-master-general, may have satisfied himself (for we are partial judges in our own cause) but has satisfied nobody else about his tergiversations with the Dissenters, and his rejection by the electors of Perthshire is one of the most pleasing results of the general election.
+
+Baring, right hon. Alex. president of the board of trade and master of the mint.
+
+A very puzzling personage this, who bears true allegiance to nought save his long purse. In 1824 Mr. Baring headed the merchants of London in petitioning for free trade. He has since become a restrictionist in commercial matters, and will perhaps go along with the Duke in carrying us back to the dark ages of monopoly. But, as before hinted, he is an undefinable being. Even in the House of Commons he generally speaks one way (oftener two or three) and votes another, and we verily believe if he were not compelled by the rules of the house to give plumpers he would split his vote into fractional parts. Marquis Chandos could not go into the ministry because he differed with sir Robert Peel on the malt duty, but ‘Jock o’ the Mint, (an apt office truly for a loan-monger and millionaire,) though of the same opinion as the marquis according to the latest return (Feb. 27, 1834,) yet, being of a more multiform character, was able, we suppose, on condition of plural offices to compromise with the premier.
+
+Ellenborough, lord, president of the board of control.
+
+Receives about £9000 a-year from sinecure appointments derived from his father, the hurly burly chief justice, who, according to the writers in the Law Magazine, was partial to red herrings; as much so seemingly as judge Jefferies to home-brewed, with which, in a cellar in Wapping, he was caught tippling after perpetrating his cruelties in the west of England. In the good old times of Toryism, when offices in the superior courts formed regular articles of traffic, two of the most lucrative in the King’s Bench, and in the gift of the then chief justice Ellenborough, became vacant. For one of them, the chief clerkship, his lordship was offered £80,000, but he preferred keeping it in his own hands until his son was of age, and to whom he gave the appointment, receiving during his minority the emoluments, which swelled his official income to £16,000 a-year, and enabled him after death to bequeath £320,000 personal property. It is surprising that a system which afforded such delicious pickings should be looked back upon with fond recollections, and even now be tenaciously clung to? We wonder whether the priggish President on his re-appointment to the India Board will revive his famous receipt for the management of the India judges by placing the wild ones between two ‘tame elephants.’ An imputation of an ‘itchy palm’ has been broached against the noble lord, but as it hangs on a slender thread we scorn to notice the accusation.
+
+Knatchbull, sir Edward, paymaster of the forces.
+
+An obtuse and inveterate Tory from his father. At a Church-and-King dinner, Dec. 20, 1834, sir Edward said,—‘It was his fixed determination to continue to pursue the path which had met their approbation;’ in the same breath expressing the certainty that ‘they would consult the best interests of the country by keeping the Church and State just as delivered to them by their ancestors.’ Within a month after he receives an important appointment in the government, is made a cabinet minister and privy counsellor; which, we should think, puts an end to the farce of sir Robert’s being a reforming administration.
+
+Herries, right hon. J. C. secretary-at-war.
+
+Pensioner of £1400 a-year, and man of detail, who has graduated through the offices of chief commissary, auditor of the civil list, and chancellor of the exchequer. Character, in this instance, cannot be requisite.
+
+Hardinge, sir H. chief secretary for Ireland.
+
+This is the unkindest cut of all, and sir Henry is a cutting man, who rather unnecessarily, we think, sought some time ago to signalise his courage on a very amiable nobleman. But what a mind and temper to select to still the boiling cauldron of Ireland and disintegrate her social chaos! It cannot be sir Robert Peel’s appointment; it must be the Duke’s, who has been desirous of raising, like himself, one of his military bravos to civil distinction.

@@ -1,0 +1,43 @@
+---
+work_id: "f3c3108a-fa4a-5c8b-8013-ac6868798c52"
+work_slug: "david-ricardo-the-works-of-david-ricardo-f3c310"
+work_title: The Works of David Ricardo
+author_name: David Ricardo
+chapter_number: 56
+chapter_title: CHAPTER VI.
+chapter_slug: 56
+variant_id: "bde03cbb-2e22-54b9-8fbe-c5fea4795e74"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1421
+source_url: "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+translator: Online Library of Liberty edition
+---
+
+OBSERVATIONS ON THE PRINCIPLES OF SEIGNORAGE.
+
+Dr smith, though favourable to a small seignorage on the coin, was fully aware of the evils which might attend a large one.
+
+The limits, beyond which a seignorage cannot be advantageously extended, are the actual expenses incurred by the manufacturing of bullion into coin. If a seignorage exceeds these expenses, an advantage will accrue to false coiners by imitating the coins, although they should actually make them of their legal weight and standard; but even in this case, as the addition of money to the circulation beyond the regular demands of commerce will diminish the value of that money, the trade of false coiners must cease when the value of the coin does not exceed the value of bullion more than the actual expenses of fabrication. If the public could be secured from such illegal additions to the circulating medium, there could be no seignorage so high which a Government might not advantageously exact; as the coined money would, in the same degree, exceed the value of bullion. If the seignorage amounted to 10 per cent., bullion would necessarily be 10 per cent. under the Mint price; and if it were 50 per cent., that also would the value of coin exceed the value of bullion. It appears, then, that although a given weight of bullion can never exceed in value a given weight of coin, a given weight of coin may exceed in value a given weight of bullion by the whole expense of seignorage, however great that seignorage may be, provided that there was effectual security against the increase of money through the imitation of the coins by illegal means. And it appears also, that if no such security could be given, the trade of the false coiner would cease as soon as he had added so much to the amount of the coin as to diminish its value on a comparison with bullion, to the actual expenses incurred. That these principles are correct may be proved from the consideration of the circumstances which give value to a bank note. A bank note is of no more intrinsic value than the piece of paper on which it is made. It may be considered as a piece of money on which the seignorage is enormous, amounting to all its value; yet if the public is sufficiently protected against the too great increase of such notes, either by the indiscretion of the issuers, or by the Edition: current; Page: [346] practices of false coiners or forgers, they must, in the ordinary operations of trade, retain their value.
+
+Whilst such money is kept within certain limits, any value may be given to it as currency; 3l. 17s. 10½d. may be worth an ounce of gold bullion, the value at which it was originally issued, or it may be reduced to the value of half an ounce; and if the Bank which issued had the exclusive privilege of procuring money to be coined at the Mint, 3l. 17s. 10½d. of their notes might be rendered of equal value to 1, 2, 3, or any number of ounces of gold bullion.
+
+The value of such money must depend wholly upon its quantity; and in the case supposed, the Bank would not only have the power of limiting the amount of paper money, but of metallic money also.
+
+I have before endeavoured to show, that, previously to the establishment of banks, the precious metals employed as money were necessarily distributed amongst the different countries of the world in the proportion that their trade and payments required; that, whatever the value of the bullion so employed for the purposes of currency might be, the equal demands and necessities of all countries would prevent the quantity allotted to each from being either increased or diminished, unless the proportions in the trade of countries should undergo some alteration which should make a different division necessary; that England or any other country might substitute paper instead of bullion for the uses of money, but that the value of such paper must be regulated by the amount of coin of its bullion value which would have circulated had there been no paper.
+
+Under this point of view the paper currency of any particular country represents a certain weight of bullion which, her commerce and payments continuing the same, could neither be increased nor diminished; 3l. 17s. 10½d. of coin or paper currency might represent an ounce of gold bullion, or 4l. 13s. might, in consequence of some internal regulation, do the same; but the actual amount of bullion so represented would, under the same circumstances of commerce and payments, be eternally the same.
+
+Suppose that England's share amounted to a million of ounces; if, by a law which could be effectually executed, a million and a half of ounces in coin could be forced or retained in circulation by preventing its being melted or exported; or if, by means of a restriction bill, the Bank should be enabled to maintain an amount of paper which should represent a million and a half of ounces of coined gold in circulation, such million and a half would be of no more value in currency than a million of ounces; and consequently an ounce and a half of coined gold, or bank notes which represented that amount, would purchase no more of any commodity than an ounce of gold bullion. If, on the other hand, Government were to charge a seignorage of 50 per cent., or if the issues of the Bank were to be exceedingly limited, whilst they had also the exclusive right of coining, so that the whole amount of their notes did not exceed what should represent, at the Mint price, half a million of Edition: current; Page: [347] ounces of gold, that half million would in currency pass for the same value as the million of ounces in one case, and the million and a half in the other did before.
+
+From these principles it results, that there can exist no depreciation of money but from excess. However debased a coinage may become, it will preserve its Mint value, that is to say, it will pass in circulation for the intrinsic value of the bullion which it ought to contain, provided it be not in too great abundance. It is a mistaken theory, therefore, to suppose that guineas of 5 dwts. and 8 grains cannot circulate with guineas of 5 dwts. or less. As they might be in such limited quantity that both the one and the other might actually pass in currency for a value equal to 5 dwts. 10 grains, there would be no temptation to withdraw either from circulation; there would be a real profit in retaining them. In practice, indeed, it would seldom occur that the heavier pieces would escape the melting pot, but it would arise wholly from the augmentation of such currency, either by the liberal issues of the Bank, or by the supply of false money which the arts of the false coiner would throw into circulation.
+
+Our silver currency now passes at a value in currency above its bullion value, because, notwithstanding the profit obtained by the counterfeiter, it has not yet been supplied in sufficient abundance to affect its value.
+
+It is on this principle, too, that the fact must be accounted for, that the price of bullion previously to the recoinage in 1696 did not rise so high as might have been expected from the then debased state of the currency; the quantity had not been increased in the same proportion as the quality had been debased.
+
+It also follows from these principles, that in a country where gold is the measure of value, the price of gold bullion (where the law offers no restraint against exportation) can never exceed its Mint price; and that it can never fall more below it than the expenses of coinage; and that these variations depend wholly on the supply of coin or paper currency being proportioned to the trade of the country; or, in other words, that nothing can raise the value of bullion even so high as the Mint price but an excess of circulation. If, indeed, any power in the State have the privilege of increasing the paper currency at pleasure, and be at the same time protected from the payment of its notes, there is no other limit to the rise of the price of gold than the will of the issuers.

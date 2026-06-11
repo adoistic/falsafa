@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-von-wieser-natural-value-f25830",
+  "work_title": "Natural Value",
+  "chapter_number": 42,
+  "chapter_title": "CHAPTER II: the value of capital and the interest on capital i.—discounting",
+  "chapter_slug": "42",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a68239b8-c6d0-5608-9946-9464808577e6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1792,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smart-natural-value"
+    }
+  ]
+}

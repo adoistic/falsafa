@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-robert-malthus-principles-of-political-economy-1c8433",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 24,
+  "chapter_title": "Section III.—: Of the Causes which principally influence the Demand for Labour, and the Increase of the Population.",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ad154be4-43fa-5180-9a28-66b6e01d3425",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2722,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/malthus-principles-of-political-economy"
+    }
+  ]
+}

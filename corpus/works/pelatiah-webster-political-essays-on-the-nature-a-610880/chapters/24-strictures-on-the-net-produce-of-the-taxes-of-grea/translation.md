@@ -1,0 +1,81 @@
+---
+work_id: "61088004-fe0b-5e6b-81df-ab5e37a33ff5"
+work_slug: "pelatiah-webster-political-essays-on-the-nature-a-610880"
+work_title: Political Essays on the Nature and Operation of Money
+author_name: Pelatiah Webster
+chapter_number: 24
+chapter_title: "STRICTURES ON THE NET PRODUCE OF THE TAXES of Great-Britain, In the Year 1784, as published by Order of their House of C"
+chapter_slug: "24-strictures-on-the-net-produce-of-the-taxes-of-grea"
+variant_id: "2e7b9a4a-ebb0-57b7-8dc3-c3ab33cffa79"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2513
+source_url: "https://oll.libertyfund.org/titles/webster-political-essays-on-the-nature-and-operation-of-money"
+translator: Online Library of Liberty edition
+---
+
+HAVING by accident met with a list or detail of the British taxes for 1784, and the net produce of each of them, which lays open in a pretty clear manner the sources of the British revenues, and points out the ways and means by which those immense sums are raised, which are necessary for the current services of the year, payment of the interest of their vast national debt, support of their public credit, &c. and as the attention of the Thirteen American States is, or ought to be, much fixed on a public revenue, and, of course, on our trade, out of which it must grow; I thought the practice and example of so old, so experienced, and successful a people as the Britons, Edition: current; Page: [[465]] might be of use to us at this time, and therefore procured the account or list of their revenues above referred to, to be published in the Pennsylvania Packet of August 4, 1785, and added these Strictures on them.
+
+Whether the British government has expended the vast, the immense sums produced by their sinance for the last 90 years, for purposes salutary and beneficial to the nation, or not, is out of the present question; but their success in raising these vast sums is certainly surprising. Especially when we consider that this has been done in such a manner, that the nation has not only, not been impoverished thereby, but has been increasing rapidly in the most substantial riches, during the whole time it supported the immense pressure of their taxes.
+
+The houses of Great-Britain are now much more valuable than they were 90 years ago; the live stock of their farms is greatly increased; their lands are better cultivated, and much more productive; their conveniences for transportation are greatly increased by mending roads, opening canals, and clearing rivers for inland navigation: their manufactures are vastly increased, both in quantity and value; the trading stock of their merchants, their shipping, and the exports of their manufactures, and produce of their lands, are vastly increased since the year 1694, when the Bank of England was first institured, and the scheme of funding the public debts had its origin. By these only the wealth of the nation can be truly estimated.
+
+This real wealth, considered as national, has very little connexion with the public funds or stocks; for should they all fail, this must continue, and out of it might always be produced funds or stocks sufficient for the use of the public: this kind of wealth must then be considered as the real, substantial wealth of the nation; the great basis on which all the superstructures of public credit or nominal wealth must be built, and by which they must be supported.
+
+The fact is, then, that this real wealth of Britain is much greater now than it was 90 years ago, notwithstanding the amazing taxes which have been paid during the whole of the last 90 years, and the vast debt which now Edition: current; Page: [[466]] lies on the nation: indeed, this real wealth, as observed before, has little connexion with this public debt; but, on the whole, is rather helped than hurt by it; for it appears very plain, that the national wealth has increased faster under the weight of that debt, than ever it did before the doctrine of creating and funding a national debt was thought of.
+
+It appears, then, that the national debt, or the public credit, may fail, without destroying the real and substantial wealth of the nation; for if the public credit was to fail, as our Continental money, and their South-Sea stock, once did, and every person who had any thing in the funds should lose it all, this would not destroy the houses, fields, cattle, &c. of the country; it would only produce a shift of property from one person to another; would produce infinite injustice and ruin to individuals, indeed, and no degree of punishment would be too great for those, thro’ whose mismanagement, fraud, and corruption, such a thing should happen; but it would by no means bring on the destruction of the nation.
+
+All that could happen would be, that those who had monies in the stocks would lose them; and those who were taxed to support the stocks, would be liberated from the burden of tax; but the fields would produce the same quantity of wheat, and the meadows would fatten the same number of cattle, as before; and, of course, the bread and the meat would be as plenty as ever, and the more bread and meat the country produced, the richer it certainly would be.
+
+Therefore, a man who buys lands and puts them into high cultivation, or erects mills, shops, &c. for manufactories and conveniencies of life, possesses most substantial wealth of high independence; whilst the man who deals in public securities and paper credit, depends on the humor, the honor, the wisdom, and the justice of the nation, and therefore acquires a wealth ‘which is liable to moth and rust, and which thieves can steal.’
+
+The long experience of Great-Britain affords a most irrefragable proof of fact, that both those kinds of wealth are mutual supports of each other, i. e. that public credit Edition: current; Page: [[467]] increases the value and produce of the lands and manufactures, whilst, at the same time, the lands and manufactures produce the great staple and extensive commerce, which enable the nation, by a proper management, to support the public credit; and, therefore, what this proper management is, becomes a matter of much importance for us to know, and carefully attend to.
+
+For Britain and America, in one great thing, are alike, viz. the source of wealth in both countries is the same; the lands and manufactures are the first matter which affords the great staples of commerce, as well as the most capital home-supplies of the people; therefore, it is probable, that the same management or line of conduct which has proved advantageous to them, may be so to us.
+
+We see in the account of the taxes of Britain, a specimen and a good deal of the detail of this important management,—on which I beg leave to remark—
+
+I. They are very careful to make their revenues in such form that their produce shall be certain, and their amount capable of pretty exact computation.
+
+II. To be guarded against all possible delay or disappointment, they circulate their revenues mostly thro’ the bank, or at least keep the exchequer so closely connected with the bank, that they can at all times avail themselves of a bank-credit when they need it: so that they are always able to satisfy the demands of every creditor of the public funds, without the least delay or trouble: this could not, perhaps, by any possibility, be done in any other method than by the help of the bank, and the importance of it will be obvious to any body, who considers that public credit can by no possibility be supported in any other way than by most punctual payments to the public creditors: the experience of all nations, but especially our own, has taught us that public promises and paper, or public laws of regulation and tender, can do nothing towards the support of public credit, without punctual payment of the public creditors.
+
+III. They have ever made it an object of great care, to lay and collect the public taxes in such a manner as should be the most easy, the most insensible, and the most advantageous of Edition: current; Page: [[468]] any they could devise: this is, indeed, the materia magna of the whole subject (which is odious and heavy, under all forms of delicacy and prudence that any administration can devise) as instances of this, it is easy to observe—
+
+1. That the great burden of their taxes consists in the customs, excise, and stamps; the net produce of these is above 9,000,000l. sterling, in all which, lands, labor, and farmer’s stock are not called on, nor is any person compelied to pay any of the taxes, unless he chooses to be concerned in the articles taxed.
+
+2. The tax is laid in a very great measure on either articles of mere luxury, or such fine and rich goods as are consumed mostly by people of wealth, e. g. about one half of this tax is on drinkable liquors (for under this class I shall doubtless be allowed to rank malt, hops, tea, &c. &c. the sole use of which is to make such liquors) these are mostly articles of luxury, as wines, spirits, strong beer, &c. Tobacco and snuff are great articles, as also are East-India goods, carriages, &c. most of which are either articles of mere luxury, or the consumption of very wealthy people. But,
+
+3. Goods of necessary consumption are not wholly omitted, as we see in the articles of hides, tallow, candles, salt, coals, paper, &c. but in these the heaviest part of the burden falls on the rich, as they consume these articles with much greater prodigality and profuseness than the poor.
+
+4. Very poor people have very small use for any papers which pay a stamp-duty, and, of course, those duties are almost wholly paid by people of at least good substance, if not great wealth.
+
+5. The heaviest and most painful part of said taxes is that on houses and windows, ranked under the head of incidents; this is said to be paid by the poor tenants, many of whom brick up their windows to avoid the tax.
+
+6. The land-tax at 4s. on the pound (not mentioned in the account) produces about 2,000,000 a year: but this, tho’ called 4s. is really not more than 1s. or perhaps not 6d. because that tax is laid on an old assessment or estimate of the lands of England, which sets them at less than a quarter of their present value, and some very improved estates are not Edition: current; Page: [[469]] estimated at one-tenth of their present value, and, of course, if a man has rents to amount of 100l. per annum, his tax may be 5l. or perhaps not 40s. This, and the tax on houses and windows, are all which bear any resemblance to our taxes on polis and estates, and, in point of weight and burden, bear no proportion to ours.
+
+On the mode of the English taxes, and the operation of their national debt, the following things may be noted, and deserve our consideration.
+
+I. Their taxes being chiefly on luxuries are a benefit and saving to the nation; they lessen the consumption, and of course restrain the excesses, of luxury, and prevent the vices, expenses, and mischiefs, which would otherwise ensue.
+
+II. The taxes prevent the exportation of money; that part of the price of the goods taxed, which goes to pay the duty, cannot be exported, but goes into the public treasury, whence it issues in half-yearly payments to the public creditors all over the nation.
+
+III. This produces a great plenty and brisk circulation of cash; for these payments are all made without the least delay, and in ready cash, and the amount being very large (perhaps, about half the current cash of the nation yearly) makes a very large and brisk circulation of cash, and the frequency of the payments keeps up that circulation into almost an equable flow thro’ the year.
+
+IV. From this plenty and quick circulation of cash produced by the taxes, each individual, or at least the nation at large, derives a benefit which more than compensates the tax which is the purchase of it; for every one knows the odds of doing business in a place where cash is plenty and briskly circulating, and in a place where it is scarce and stagnant; this will soon produce a difference in the proceeds of any man’s business, equal to his share of the tax.
+
+V. This shows a reason why the British nation increases rapidly in wealth under the pressure of vast taxes, and has uniformly done so for 90 years past; i. e. the benefits resulting from the tax are more than a compensation for the inconvenience of paying it. So that it leaves a balance of profit in favor of the nation or individual who pays it.
+
+VI. This benefit results chiefly from the great punctuality with which the public creditors are paid—to a day—to an hour—without the least put off or delay. This not only sets the example, but gives the power, of punctual payments, and strongly tends to introduce the general practice of it, to the vast advantage of all trade. This depends on the same principle as the old adage, viz. “If you would make money fast, pay a high rent;” i. e. it is better to have a stand in a place of brisk business, tho’ the rent is high, than to fit down in a dull place at a low rent, or even rent-free.
+
+VII. This punctuality of the public payments, which produces so many vast advantages, becomes practicable only by the close connexion which subsists between the public treasury and the bank; but these advantages are not the whole of the benefits thence derived, the same thing enables the treasury to furnish any sum of money in an instant, which any emergency may make necessary; so that the nation is never in danger of losing the benefit of any important manœuvre for want of cash.
+
+By this means they have often been enabled to oppose foreign enemies, crush interior rebellions, support their great trading companies at a hard push, give aid to the bank, and ever to preserve their public credit.
+
+And could that discerning, successful people have possessed wisdom and gravity of counsel enough to make the best use of their own advantages, sua si hona norint, their happiness and glory must have been vast indeed. Had they in improvements of their husbandry and trade, in meliorating and decorating their country, spent the money which they have wasted in needless subsidies to foreign princes, in Continental and American wars, and many other fatal policies, their strength, their riches, their respectability, their happiness would have risen superior to that of any nation on the face of the earth.
+
+This is the nation from which we derive our origin, and I hope we may respect the honors of our parentage, without imitating the vices of our ancestors. And what I have to wish is, that tho’ we are broken off from them, we may Edition: current; Page: [[471]] have wisdom and sound judgment enough to esteem and imitate those parts of their policy which have raised them above the nations round them, whilst their fatal calamities may sufficiently warn us to avoid their mistakes and errors. It is with this view that I offer these thoughts to my fellow-citizens, which, I doubt not, will be received with candor, as I know they are written with fincerity.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-protection-or-free-trade-b67ad4",
+  "work_title": "Protection or Free Trade",
+  "chapter_number": 6,
+  "chapter_title": "Chapter V THE PROTECTIVE UNIT.",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "af2565ca-970a-5baf-9e56-8428c3b2b75c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2265,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-protection-or-free-trade"
+    }
+  ]
+}

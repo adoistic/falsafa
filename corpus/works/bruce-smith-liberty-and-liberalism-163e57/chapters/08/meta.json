@@ -1,0 +1,26 @@
+{
+  "work_slug": "bruce-smith-liberty-and-liberalism-163e57",
+  "work_title": "Liberty and Liberalism",
+  "chapter_number": 8,
+  "chapter_title": "Chapter VI SPURIOUS LIBERALISM—HISTORIC INSTANCES.",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "415479d1-3cc6-5385-9407-f5af430f79e7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7744,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-liberty-and-liberalism-1888"
+    }
+  ]
+}

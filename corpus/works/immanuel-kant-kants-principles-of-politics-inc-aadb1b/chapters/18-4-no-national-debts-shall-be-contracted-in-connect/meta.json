@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-kants-principles-of-politics-inc-aadb1b",
+  "work_title": "Kant's Principles of Politics, including his Essay on Perpetual Peace",
+  "chapter_number": 18,
+  "chapter_title": "4.: ‘No National Debts shall be contracted in connection with the external affairs of the State.’",
+  "chapter_slug": "18-4-no-national-debts-shall-be-contracted-in-connect",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f39918de-6a5c-5524-93d6-32e6a5bf56e8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 309,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hastie-kant-s-principles-of-politics-including-his-essay-on-perpetual-peace"
+    }
+  ]
+}

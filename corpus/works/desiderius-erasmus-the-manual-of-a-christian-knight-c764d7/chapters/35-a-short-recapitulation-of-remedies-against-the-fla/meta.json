@@ -1,0 +1,26 @@
+{
+  "work_slug": "desiderius-erasmus-the-manual-of-a-christian-knight-c764d7",
+  "work_title": "The Manual of a Christian Knight (Enchiridion)",
+  "chapter_number": 35,
+  "chapter_title": "A short recapitulation of remedies against the flame of lust.",
+  "chapter_slug": "35-a-short-recapitulation-of-remedies-against-the-fla",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "64839cff-0992-5eea-82e4-3b60b7ea886c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 220,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/erasmus-the-manual-of-a-christian-knight"
+    }
+  ]
+}

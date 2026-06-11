@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-political-economy-a41b6e",
+  "work_title": "Political Economy",
+  "chapter_number": 6,
+  "chapter_title": "STATEMENT OF THE FOUR ELEMENTARY PROPOSITIONS OF THE SCIENCE OF POLITICAL ECONOMY.",
+  "chapter_slug": "06-statement-of-the-four-elementary-propositions-of-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "34170500-9666-5528-a506-5edb29e7c279",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 222,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-political-economy-1850-ed"
+    }
+  ]
+}

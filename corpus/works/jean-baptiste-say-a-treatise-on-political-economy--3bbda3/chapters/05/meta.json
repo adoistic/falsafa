@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 5,
+  "chapter_title": "BOOK I, CHAPTER II.: OF THE DIFFERENT KINDS OF INDUSTRY, AND THE MODE IN WHICH THEY CONCUR IN PRODUCTION.",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4c77642b-1455-5706-b9e3-e0f2ae1c0aef",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2815,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

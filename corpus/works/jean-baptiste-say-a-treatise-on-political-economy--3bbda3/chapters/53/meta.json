@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 53,
+  "chapter_title": "SECTION III.: Of the Profits of the Master-agent, or Adventurer, in Industry.",
+  "chapter_slug": "53",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae1fa3d4-8fa3-531a-8cf5-7009812849d5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1355,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

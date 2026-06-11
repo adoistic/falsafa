@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 57,
+  "chapter_title": "§ 43.: Of Art in general",
+  "chapter_slug": "57-43-of-art-in-general",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49a6fb8f-9520-5b2a-968d-4d0050531211",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 628,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 103,
+  "chapter_title": "§7. Many Families of Willingness Lines",
+  "chapter_slug": "103-7-many-families-of-willingness-lines",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e9c5822-92d2-5f52-9b25-1bb0de9a3611",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 403,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

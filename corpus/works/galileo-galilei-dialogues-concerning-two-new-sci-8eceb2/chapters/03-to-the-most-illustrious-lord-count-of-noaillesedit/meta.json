@@ -1,0 +1,26 @@
+{
+  "work_slug": "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2",
+  "work_title": "Dialogues Concerning Two New Sciences",
+  "chapter_number": 3,
+  "chapter_title": "TO THE MOST ILLUSTRIOUS LORD COUNT OF NOAILLESEdition: NatlEd; Page: [43]",
+  "chapter_slug": "03-to-the-most-illustrious-lord-count-of-noaillesedit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "636ff94a-c25d-51cc-b31c-14a4381e18a2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 603,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/galilei-dialogues-concerning-two-new-sciences"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 9,
+  "chapter_title": "VII.: OF THE AESTHETICAL REPRESENTATION OF THE PURPOSIVENESS OF NATURE.",
+  "chapter_slug": "09-vii-of-the-aesthetical-representation-of-the-purpo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5315c877-ae2a-55a9-ae04-8cd4924ce5d8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1364,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+---
+work_id: "e18a08e8-b731-53ee-9e84-c26740c3feee"
+work_slug: "irving-fisher-the-theory-of-interest-e18a08"
+work_title: The Theory of Interest
+author_name: Irving Fisher
+chapter_number: 42
+chapter_title: §12. Impatience Schedules
+chapter_slug: "42-12-impatience-schedules"
+variant_id: "7b383dce-4014-5e30-b527-5d7bce3252ef"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 872
+source_url: "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+translator: Online Library of Liberty edition
+---
+
+Unfortunately for purposes of exposition, the relation between impatience and income cannot be expressed in a simple schedule or a simple curve, as can the relation between demand and price, or supply and price, or marginal want and quantity consumed, for the reason that income means not a single magnitude merely, but a conglomeration of magnitudes. As mathematicians would express it, to state that income impatience depends on the character of income, its size, shape, and probability is to state that this impatience is a function of all the different magnitudes which need to be specified in a complete description of that income. A geometrical representation, therefore, of the dependence of time preference on the various magnitudes which characterize income would be impossible. For a curve can be in two dimensions Edition: current; Page: [95] only and hence can represent the dependence of a magnitude on only one independent variable. Even a surface can only represent dependence on two. But for our requirement, i.e., in order to represent the dependence of a man's impatience on the infinite number of successive elements constituting his income stream, we should need not two or three dimensions simply but a space of n dimensions.
+
+We may represent, however, the relation between time preference and income by a schedule like the ordinary demand schedule and supply schedule, if we make a list of income streams of all possible sizes, shapes, and probabilities, specifying for each individual income all its characteristics—its size, time shape (that is, its relative magnitude in successive time intervals), and the certainty or uncertainty of its various parts, to say nothing of its heterogeneous and varying composition. Having thus compiled a list of all possible income streams, it would only be necessary for us to assign to each of them the rate of impatience pertaining to it.
+
+Such a schedule would be too complicated and cumbersome to be carried out in detail; but the following will roughly indicate some of the main groups of which it would consist. In this schedule I have represented, by the three horizontal lines, three different classes of income—two extreme types and one mean type—so that the corresponding rates of time preference range themselves in a descending series of numbers. The three vertical columns show three different classes of individuals, two being of extreme types, and the third of a mixed or medium type. Thus, the numbers in the table grow smaller as we proceed toward the right and as we proceed downward, the smallest numbers of all being the lower right-hand Edition: current; Page: [96] corner. This represents a man whose rate of impatience is only 1 per cent, being low both because his income is large, decreasing and assured, and because his nature is farsighted, self-controlled, accustomed to save, and desirous to provide for heirs.
+
+This schematic representation is, in the effort to be general, rather vague. We may be more specific if, instead of thinking of a man's income stream as uncertain and variable at every point, we think of it, for the moment, as certain throughout and as invariable, or frozen, at all points of time except two—the present time and one year hence.
+
+Restricted by this highly artificial hypothesis, we can construct for the man an impatience and demand schedule and demand and supply schedules for loans and interest analogous to the ordinary utility schedule and demand or supply schedule for commodities and prices. Edition: current; Page: [97] Thus the demand schedule might be that a certain prospective borrower is willing, for each successive one hundred dollars added to his present income, to give, out of next year's income, as follows:
+
+Such a schedule is expressed geometrically in Chapters X and XI.
+
+Since the time preference of an individual is a derivative of his marginal want for present and his marginal want for future income, the above schedule is likewise a sort of derivative of the ordinary want schedules (utility schedules) of present and future income. But the more general schedule previously given, not restricted to two years, but recognizing uncertainty and variability of the person's income stream at all its points, is more appropriate for our present purpose.
+
+We see then that each individual has a rate of impatience dependent on his own personal nature and on the nature of his income. If all individuals' incomes were rigid, that is, incapable of being modified, and if there were no loan or money market by which immediate and future income could be exchanged, there could be no common market rate of interest. There would be a separate rate of time preference for each individual. One man would be willing to part with $100 today for the sake of $101 next year, while another would require $200 or $1000. But nothing would happen toward equalizing these divergent rates.
+
+But given a loan market, the individuals toward the end of the list will tend to borrow; and those toward the beginning will tend to lend. The effect of such operations is to reduce the high rates of time preference and to increase the low ones until a middle ground is reached in the common rate of interest. This process will be discussed in the following chapter.

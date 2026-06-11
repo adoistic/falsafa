@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-three-lectures-on-the-rate-of-wa-3af630",
+  "work_title": "Three Lectures on the Rate of Wages",
+  "chapter_number": 2,
+  "chapter_title": "LECTURE I.: DEFINITION OF HIGH AND LOW WAGES.",
+  "chapter_slug": "02-lecture-i-definition-of-high-and-low-wages",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f359f79e-47ce-5bd3-9ee3-226d7e83ddfa",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3374,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-three-lectures-on-the-rate-of-wages"
+    }
+  ]
+}

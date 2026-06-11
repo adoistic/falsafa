@@ -1,0 +1,26 @@
+{
+  "work_slug": "alexis-de-tocqueville-the-recollections-of-alexis-de-t-e21221",
+  "work_title": "The Recollections of Alexis de Tocqueville",
+  "chapter_number": 21,
+  "chapter_title": "CHAPTER III: OUR DOMESTIC POLICY—INTERNAL QUARRELS IN THE CABINET—ITS DIFFICULTIES IN ITS RELATIONS WITH THE MAJORITY AN",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfe8a3f8-20fe-512f-88c3-dd7333eda00e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5984,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/de-mattos-the-recollections-of-alexis-de-tocqueville-1896"
+    }
+  ]
+}

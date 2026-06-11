@@ -1,0 +1,39 @@
+---
+work_id: "91a5c993-a93f-5eda-a64d-e315561c8d03"
+work_slug: "voltaire-toleration-and-other-essays-91a5c9"
+work_title: Toleration and Other Essays
+author_name: Voltaire
+chapter_number: 6
+chapter_title: HOW TOLERATION MAY BE ADMITTED
+chapter_slug: "06-how-toleration-may-be-admitted"
+variant_id: "8473d1b4-3b7a-5d78-bab8-5167f322968a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 986
+source_url: "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+translator: Online Library of Liberty edition
+---
+
+I venture to think that some enlightened and magnanimous minister, some humane and wise prelate, some prince who puts his interest in the number of his subjects and his glory in their welfare, may deign to glance at this inartistic and defective paper. He will supply its defects and say to himself: What do I risk in seeing my land cultivated and enriched by a larger number of industrious workers, the revenue increased, the State more flourishing?
+
+Germany would be a desert strewn with the bones of Catholics, Protestants, and Anabaptists, slain by each other, if the peace of Westphalia had not at length brought freedom of conscience.
+
+We have Jews at Bordeaux and Metz and in Alsace; we have Lutherans, Molinists, and Jansenists; can we not suffer and control Calvinists on much the same terms as those on which Catholics are tolerated at London? The more sects there are, the less danger in each. Multiplicity enfeebles them. They are all restrained by just laws which forbid disorderly meetings, insults, and sedition, and are ever enforced by the community.
+
+We know that many fathers of families, who have made large fortunes in foreign lands, are ready to return to their country. They ask only the protection of natural law, the validity of their marriages, security as to the condition of their children, the right to inherit from their fathers, and the enfranchisement of their persons. They ask not for public chapels, or the right to municipal offices and dignities. Catholics have not these things in England and other countries. It is not a question of giving immense privileges and secure positions to a faction, but of allowing a peaceful people to live, and of moderating the laws once, but no longer, necessary. It is not our place to tell the ministry what is to be done; we do but ask consideration for the unfortunate.
+
+How many ways there are of making them useful, and preventing them from ever being dangerous! The prudence of the ministry and the Council, supported as it is by force, will easily discover these means, which are already happily employed by other nations.
+
+There are still fanatics among the Calvinistic populace; but it is certain that there are far more among the convulsionary [bigoted Catholic] populace. The dregs of the fanatical worshippers of St. Medard count as nothing in the nation; the dregs of the Calvinistic prophets are annihilated. The great means to reduce the number of fanatics, if any remain, is to submit that disease of the mind to the treatment of reason, which slowly, but infallibly, enlightens men. Reason is gentle and humane. It inspires liberality, suppresses discord, Edition: current; Page: [28] and strengthens virtue; it has more power to make obedience to the laws attractive than force has to compel it. And shall we take no account of the ridicule that attaches to-day to the enthusiasm of these good people? Ridicule is a strong barrier to the extravagance of all sectarians. The past is as if it had never been. We must always start from the present—from the point which nations have already reached.
+
+There was a time when it was thought necessary to issue decrees against those who taught a doctrine at variance with the categories of Aristotle, the abhorrence of a vacuum, the quiddities, the universal apart from the object. We have in Europe more than a hundred volumes of jurisprudence on sorcery and the way to distinguish between false and real sorcerers. The excommunication of grasshoppers and harmful insects has been much practised, and still survives in certain rituals. But the practice is over; Aristotle and the sorcerers and grasshoppers are left in peace. There are countless instances of this folly, once thought so important. Other follies arise from time to time; but they have their day and are abandoned. What would happen to-day if a man were minded to call himself a Carpocratian, a Eutychian, a Monothelite, a Monophysist, a Nestorian, or a Manichæan? We should laugh at him, as at a man dressed in the garb of former days.
+
+The nation was beginning to open its eyes when the Jesuits Le Tellier and Doucin fabricated the bull Unigenitus and sent it to Rome. They thought that they still lived in those ignorant times when Edition: current; Page: [29] the most absurd statements were accepted without inquiry. They ventured even to condemn the proposition, a truth of all times and all places: “The fear of unjust excommunication should not prevent one from doing one’s duty.” It was a proscription of reason, of the liberties of the Gallican Church, and of the fundamental principle of morals. It was to say to men: God commands you never to do your duty if you fear injustice. Never was commonsense more outrageously challenged! The counsellors of Rome were not on their guard. The papal court was persuaded that the bull was necessary, and that the nation desired it; it was signed, sealed, and dispatched. You know the results; assuredly, if they had been foreseen, the bull would have been modified. There were angry quarrels, which the prudence and goodness of the king have settled.
+
+So it is in regard to a number of the points which divide the Protestants and ourselves. Some are of no consequence; some are more serious; but on these points the fury of the controversy has so far abated that the Protestants themselves no longer enter into disputes in their churches.
+
+It is a time of disgust, of satiety, or, rather, of reason, that may be used as an epoch and guarantee of public tranquillity. Controversy is an epidemic disease that nears its end, and what is now needed is gentle treatment. It is to the interest of the State that its expatriated children should return modestly to the homes of their fathers. Humanity demands it, reason counsels it, and politics need not fear it.

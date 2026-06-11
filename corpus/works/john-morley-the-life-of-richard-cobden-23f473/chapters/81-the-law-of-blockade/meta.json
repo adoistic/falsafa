@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-the-life-of-richard-cobden-23f473",
+  "work_title": "The Life of Richard Cobden",
+  "chapter_number": 81,
+  "chapter_title": "The Law of Blockade",
+  "chapter_slug": "81-the-law-of-blockade",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1195ffe1-5ee2-55d7-aca1-a8b25a0cf6b7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 213,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/morley-the-life-of-richard-cobden"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "pelatiah-webster-political-essays-on-the-nature-a-610880",
+  "work_title": "Political Essays on the Nature and Operation of Money",
+  "chapter_number": 13,
+  "chapter_title": "STRICTURES ON A Publication in the Freeman’s Journal of May 16, 1781, signed TIMOLEON. [First published in Philadelphia,",
+  "chapter_slug": "13-strictures-on-a-publication-in-the-freeman-s-journ",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9a345769-73be-5ccb-875c-fb3aac1d7c78",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3006,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/webster-political-essays-on-the-nature-and-operation-of-money"
+    }
+  ]
+}

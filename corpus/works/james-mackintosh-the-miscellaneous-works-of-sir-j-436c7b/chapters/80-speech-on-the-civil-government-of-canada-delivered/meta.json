@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 80,
+  "chapter_title": "SPEECH ON THE CIVIL GOVERNMENT OF CANADA. DELIVERED IN THE HOUSE OF COMMONS ON THE 2d OF MAY, 1828.",
+  "chapter_slug": "80-speech-on-the-civil-government-of-canada-delivered",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd7275c0-3233-5175-99e0-3ba879d7b930",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4123,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

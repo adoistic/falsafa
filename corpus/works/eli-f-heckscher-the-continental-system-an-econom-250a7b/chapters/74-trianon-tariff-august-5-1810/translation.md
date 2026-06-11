@@ -1,0 +1,21 @@
+---
+work_id: "250a7b43-ec95-5f8a-be6f-a40fd2b3d743"
+work_slug: "eli-f-heckscher-the-continental-system-an-econom-250a7b"
+work_title: "The Continental System: An Economic Interpretation"
+author_name: Eli F. Heckscher
+chapter_number: 74
+chapter_title: Trianon Tariff (August 5, 1810)
+chapter_slug: "74-trianon-tariff-august-5-1810"
+variant_id: "bdb6154a-1b6e-541d-878c-5b8db15a97ee"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 461
+source_url: "https://oll.libertyfund.org/titles/westergaard-the-continental-system-an-economic-interpretation"
+translator: Online Library of Liberty edition
+---
+
+The whole of this arrangement has taken its name from the Trianon tariff of August 5, 1810, which is one of the fundamental laws of the new system. This does not provide for customs duties based on a percentage of the values, but laid down specific duties by weight (per 100 kilograms) on the different kinds of colonial goods. Duties of 40 and 50 per cent. still seem to have been applied, however, for prize goods and goods imported by licence, respectively. How high these rates were may perhaps be more clearly set forth by comparing with the highest rates of duty, namely, those on goods from nonFrench colonies, in the tariff of 1806, to which reference has already been made; and yet the 1806 duties had already formed the corner-stone of a whole series of rises in customs duties. The duties at different dates are tabulated in appendix ii, which will perhaps afford the clearest view of the amount of the increase. The most violent was the rate on raw cotton, which as late as 1804 was assessed at only one franc per 100 kilograms. In 1806 this rate was raised to not less than sixty francs, notwithstanding that raw cotton had become the foundation of a main department in the new industrial development which began under the Empire. These rates, however, dwindle into insignificance when compared with what was now enacted. According to the Trianon tariff, South American and long-stapled Georgia cotton had to pay 800 francs; Levantine cotton, if imported by sea, 400 francs, and Edition: current; Page: [202] if passing through the custom-houses on the Rhine, 200 francs; other cotton, except Neapolitan, 600 francs. This classification was evidently intended to hit hardest the goods which were most dependent on English imports. We have already mentioned the fact that all goods from French (Dutch) colonies, with the corresponding vessels, were free, and that the direct imports by American vessels only paid one quarter of the amount, a matter which in reality meant nothing, as the British blockade prevented all such direct imports. Indigo was raised from 15 francs (1803) to 900 francs, after which (in January, 1813) there followed a new rise to 1,100 francs; cloves from 3 francs (1806) to 600 francs; tea from 3 francs (besides, in certain cases, 10 per cent. of the value) to 600 francs for green tea and 150 francs for other kinds; coffee and cocoa from 150 francs and 200 francs, respectively (1806), to 400 francs and 1,000 francs; while fine cinnamon, cochineal and nutmeg, which had not been specified in the older tariffs, all paid 2,000 francs per 100 kilograms. Some thirty new headings were added to the tariff by a supplementary schedule of September 27 of the same year.

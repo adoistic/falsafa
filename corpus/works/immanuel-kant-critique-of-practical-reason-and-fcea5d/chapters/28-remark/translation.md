@@ -1,0 +1,21 @@
+---
+work_id: "fcea5dd4-0a6c-5ef9-bd8f-ec8b612df03d"
+work_slug: "immanuel-kant-critique-of-practical-reason-and-fcea5d"
+work_title: Critique of Practical Reason and Other Works on the Theory of Ethics
+author_name: Immanuel Kant
+chapter_number: 28
+chapter_title: remark.
+chapter_slug: "28-remark"
+variant_id: "aa0a9c16-32fd-561c-a2c1-5822ac585658"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 427
+source_url: "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+translator: Online Library of Liberty edition
+---
+
+Pure geometry has postulates which are practical propositions, but contain nothing further than the assumption that we can do something if it is required that we should do it, and these are the only geometrical propositions that concern actual existence. They are, then, practical rules under a problematical condition of the will; but here the rule says:—We absolutely must proceed in a certain manner. The practical rule is, therefore, unconditional, and hence it is conceived à priori as a categorically practical proposition by which the will is objectively determined absolutely and immediately (by the practical rule itself, which thus is in this case a law); for pure reason practical of itself is here directly legislative. The will is thought as independent on empirical conditions, and, therefore, as pure will determined by the mere form of the law, and this principle of determination is regarded as the supreme condition of all maxims. The thing is strange enough, and has no parallel in all the rest of our practical knowledge. For the à priori thought of a possible universal legislation which is therefore merely problematical, is unconditionally commanded as a law without borrowing anything from experience or from any external will. This, however, is not a precept to do something by which some desired effect can be attained (for then the will would depend on physical conditions), but a rule that determines the will à priori only so far as regards the forms of its maxims; and thus it is at least not impossible to conceive that Edition: current; Page: [120] a law, which only applies to the subjective form of principles, yet serves as a principle of determination by means of the objective form of law in general. We may call the consciousness of this fundamental law a fact of reason, because we cannot reason it out from antecedent data of reason, e. g. the consciousness of freedom (for this is not antecedently given), but it forces itself on us as a synthetic à priori proposition Edition: Rosenkranz; Page: [143], which is not based on any intuition, either pure or empirical. It would, indeed, be analytical if the freedom of the will were presupposed, but to presuppose freedom as a positive concept would require an intellectual intuition, which cannot here be assumed; however, when we regard this law as given, it must be observed, in order not to fall into any misconception that it is not an empirical fact, but the sole fact of the pure reason, which thereby announces itself as originally legislative (sic volo, sic jubeo).

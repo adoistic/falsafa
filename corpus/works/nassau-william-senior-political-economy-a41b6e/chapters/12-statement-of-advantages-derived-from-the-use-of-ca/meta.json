@@ -1,0 +1,26 @@
+{
+  "work_slug": "nassau-william-senior-political-economy-a41b6e",
+  "work_title": "Political Economy",
+  "chapter_number": 12,
+  "chapter_title": "Statement of Advantages derived from the Use of Capital.",
+  "chapter_slug": "12-statement-of-advantages-derived-from-the-use-of-ca",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5555c29f-94a6-57b6-8aa3-c78bdcaa688e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7326,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/senior-political-economy-1850-ed"
+    }
+  ]
+}

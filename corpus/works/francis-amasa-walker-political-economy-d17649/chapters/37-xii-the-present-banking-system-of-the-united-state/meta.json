@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 37,
+  "chapter_title": "XII.: the present banking system of the united states.",
+  "chapter_slug": "37-xii-the-present-banking-system-of-the-united-state",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "84d99b81-06b0-571c-9deb-1af9dfef8168",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3187,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

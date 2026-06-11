@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 78,
+  "chapter_title": "TO THE READER.",
+  "chapter_slug": "78-to-the-reader",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b3213501-a4cc-56dd-a17a-d45be42e96ad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8089,
+      "paragraph_count": 402,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

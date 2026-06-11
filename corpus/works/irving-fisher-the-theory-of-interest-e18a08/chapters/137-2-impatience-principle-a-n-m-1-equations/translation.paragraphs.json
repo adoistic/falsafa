@@ -1,0 +1,27 @@
+[
+  {
+    "id": "p-8c2fb9",
+    "offset": 0,
+    "text": "Impatience Principle A states that the individual rates of preference are functions of the income streams, and gives the following equations:"
+  },
+  {
+    "id": "p-f4e594",
+    "offset": 143,
+    "text": "f1' = F1' (y1' + x1', y1'' + x1'',..., y1(m) + x1(m)), f2' = F2' (y2' + x2', y2'' + x2'',..., y2(m) + x2(m)), ............. ............. fn' = Fn' (yn' + xn', yn'' + xn'',..., yn(m) + xn(m))."
+  },
+  {
+    "id": "p-d83386",
+    "offset": 337,
+    "text": "But these equations express the various individuals' rates of impatience only for the first year's income compared with the next. (They are the slopes of the Willingness lines.) To express their impatience for the second year's income compared with the third, there will be another set of equations, namely:"
+  },
+  {
+    "id": "p-df905a",
+    "offset": 646,
+    "text": "f1'' = F1'' (y1'' + x1'', y1''' + x1''',..., y1(m) + x1(m)), f2'' = F2'' (y2'' + x2'', y2''' + x2''',..., y2(m) + x2 (m)), ............. ............. fn'' = Fn'' (yn'' + xn'', yn''' + xn''',..., yn(m) + xn(m))."
+  },
+  {
+    "id": "p-bac237",
+    "offset": 859,
+    "text": "For the third year, as compared with its successor, there would be another similar set, with ''' in place of '', and so on to the (m - 1) year as compared with the last, or m year. Since each of these (m - 1) groups of Edition: current; Page: [304] equations contains n separate equations, there are in all n (m - 1) equations in the entire set expressing Impatience Principle A."
+  }
+]

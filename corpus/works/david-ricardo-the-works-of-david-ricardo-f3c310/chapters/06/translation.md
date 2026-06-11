@@ -1,0 +1,31 @@
+---
+work_id: "f3c3108a-fa4a-5c8b-8013-ac6868798c52"
+work_slug: "david-ricardo-the-works-of-david-ricardo-f3c310"
+work_title: The Works of David Ricardo
+author_name: David Ricardo
+chapter_number: 6
+chapter_title: SECTION II.
+chapter_slug: 06
+variant_id: "c76bbc01-fb69-5c1a-89ac-a48d8da3547b"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 547
+source_url: "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+translator: Online Library of Liberty edition
+---
+
+Labour of different qualities differently rewarded. This no cause of variation in the relative value of commodities.
+
+In speaking, however, of labour, as being the foundation of all value, and the relative quantity of labour as almost exclusively determining the relative value of commodities, I must not be supposed to be Edition: current; Page: [15] inattentive to the different qualities of labour, and the difficulty of comparing an hour's or a day's labour, in one employment, with the same duration of labour in another. The estimation in which different qualities of labour are held, comes soon to be adjusted in the market with sufficient precision for all practical purposes, and depends much on the comparative skill of the labourer, and intensity of the labour performed. The scale, when once formed, is liable to little variation. If a day's labour of a working jeweller be more valuable than a day's labour of a common labourer, it has long ago been adjusted, and placed in its proper position in the scale of value.
+
+In comparing, therefore, the value of the same commodity, at different periods of time, the consideration of the comparative skill and intensity of labour, required for that particular commodity, needs scarcely to be attended to, as it operates equally at both periods. One description of labour at one time is compared with the same description of labour at another; if a tenth, a fifth, or a fourth, has been added or taken away, an effect proportioned to the cause will be produced on the relative value of the commodity.
+
+If a piece of cloth be now of the value of two pieces of linen, and if, in ten years hence, the ordinary value of a piece of cloth should be four pieces of linen, we may safely conclude, that either more labour is required to make the cloth, or less to make the linen, or that both causes have operated.
+
+As the inquiry to which I wish to draw the reader's attention, relates to the effect of the variations in the relative value of commodities, and not in their absolute value, it will be of little importance to examine into the comparative degree of estimation in which the different kinds of human labour are held. We may fairly conclude, that whatever inequality there might originally have been in them, whatever the ingenuity, skill, or time necessary for the acquirement of one species of manual dexterity more than another, it continues nearly the same from one generation to another; or at least, that the variation is very inconsiderable from year to year, and therefore, can have little effect, for short periods, on the relative value of commodities.
+
+“The proportion between the different rates both of wages and Edition: current; Page: [16] profit in the different employments of labour and stock, seems not to be much affected, as has already been observed, by the riches or poverty, the advancing, stationary, or declining state of the society. Such revolutions in the public welfare, though they affect the general rates both of wages and profit, must in the end affect them equally in all different employments. The proportion between them therefore must remain the same, and cannot well be altered, at least for any considerable time, by any such revolutions.”

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-wade-the-black-book-an-exposition-of--f58a10",
+  "work_title": "The Black Book: An Exposition of Abuses in Church and State",
+  "chapter_number": 97,
+  "chapter_title": "I.—: PROGRESS OF THE CONSTITUTION UP TO THE REFORM BILL.",
+  "chapter_slug": "97-i-progress-of-the-constitution-up-to-the-reform-bi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99536469-da3a-5d6d-9abb-69434af255a8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3088,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/wade-the-black-book-an-exposition-of-abuses-in-church-and-state-1835"
+    }
+  ]
+}

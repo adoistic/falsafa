@@ -1,0 +1,26 @@
+{
+  "work_slug": "american-anti-slavery-so-anti-slavery-tracts-first-series-0bd429",
+  "work_title": "Anti-Slavery Tracts, First Series",
+  "chapter_number": 15,
+  "chapter_title": "Suppression of Slave Insurrections. (Const., Art. 1, sec. 8; Art. 4, sec. 4.)",
+  "chapter_slug": "15-suppression-of-slave-insurrections-const-art-1-sec",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0ccc7b74-f8f5-5fab-b3cf-4a2f5ed18e32",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 380,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/anti-slavery-tracts-first-series-nos-1-20-1855-56"
+    }
+  ]
+}

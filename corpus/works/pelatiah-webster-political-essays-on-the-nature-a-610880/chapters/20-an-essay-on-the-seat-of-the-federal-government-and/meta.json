@@ -1,0 +1,26 @@
+{
+  "work_slug": "pelatiah-webster-political-essays-on-the-nature-a-610880",
+  "work_title": "Political Essays on the Nature and Operation of Money",
+  "chapter_number": 20,
+  "chapter_title": "AN ESSAY ON THE SEAT OF THE Federal Government, AND THE EXCLUSIVE JURISDICTION OF CONGRESS OVER A Ten Miles District; WI",
+  "chapter_slug": "20-an-essay-on-the-seat-of-the-federal-government-and",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1ed00b8c-384a-524b-8c6a-9cc716cb8480",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9763,
+      "paragraph_count": 109,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/webster-political-essays-on-the-nature-and-operation-of-money"
+    }
+  ]
+}

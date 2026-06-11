@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
+  "work_title": "Letters of Marcus Tullius Cicero",
+  "chapter_number": 31,
+  "chapter_title": "To Aulus Cæcina (in Exile) Rome (September)",
+  "chapter_slug": "31-to-aulus-caecina-in-exile-rome-september",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dab57b9b-bd3e-5df3-a6da-1c8ceaa07451",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1764,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "p-bd0aea",
+    "offset": 0,
+    "text": "The times of descent along planes of different length, slope and height bear to one another a ratio which is equal to the product of the ratio of the lengths by the square root of the inverse ratio of their heights."
+  },
+  {
+    "id": "p-4c864e",
+    "offset": 217,
+    "text": "Draw the planes AB and AC, having different inclinations, lengths, and heights. My theorem then is that the ratio of the time of descent along AC to that along AB is equal to the product of the ratio of AC to AB by the square root of the inverse ratio of their heights."
+  },
+  {
+    "id": "p-e19ed1",
+    "offset": 488,
+    "text": "For let AD be a perpendicular to which are drawn the horizontal lines BG and CD; also let AL be a mean proportional to the heights AG and AD; from the point L draw a horizontal line meeting AC in F; accordingly AF will be a mean proportional between AC and AE. Now since the time of descent along AC is to that along AE as the length AF is to AE; and since the time along AE is to that along AB as AE is to AB, it is clear that the time along AC is to that along AB as AF is to AB."
+  },
+  {
+    "id": "p-d29e34",
+    "offset": 971,
+    "text": "Thus it remains to be shown that the ratio of AF to AB is equal to the product of the ratio of AC to AB by the ratio of AG to AL, which is the inverse ratio of the square roots of the heights DA and GA. Now it is evident that, if we consider the line AC in connection with AF and AB, the ratio of AF to AC is the same as that of AL to AD, or AG to AL which is the square root of the ratio of the heights AG and AD; but the ratio of AC to AB is the ratio of the lengths themselves. Hence follows the theorem."
+  }
+]

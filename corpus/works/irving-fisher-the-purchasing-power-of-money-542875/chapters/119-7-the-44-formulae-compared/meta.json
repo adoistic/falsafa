@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-purchasing-power-of-money-542875",
+  "work_title": "The Purchasing Power of Money",
+  "chapter_number": 119,
+  "chapter_title": "§ 7. The 44 Formulæ Compared",
+  "chapter_slug": "119-7-the-44-formulae-compared",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a902f7a7-899d-52ad-9979-d0baaa53b494",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2205,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/brown-the-purchasing-power-of-money"
+    }
+  ]
+}

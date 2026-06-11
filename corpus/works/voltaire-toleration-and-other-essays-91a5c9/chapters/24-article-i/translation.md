@@ -1,0 +1,41 @@
+---
+work_id: "91a5c993-a93f-5eda-a64d-e315561c8d03"
+work_slug: "voltaire-toleration-and-other-essays-91a5c9"
+work_title: Toleration and Other Essays
+author_name: Voltaire
+chapter_number: 24
+chapter_title: ARTICLE I.
+chapter_slug: "24-article-i"
+variant_id: "66371574-08e6-5d8e-87bd-cd90b8d619c1"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 908
+source_url: "https://oll.libertyfund.org/titles/mccabe-toleration-and-other-essays"
+translator: Online Library of Liberty edition
+---
+
+Illustrious Romans, it is not the Apostle Paul who has the honour of addressing you. It is not that worthy Jew who was born at Tarsus, according to the Acts of the Apostles, and at Giscala according to Jerome and other fathers; a dispute that has led some to believe that one may be born in two different places at the same time, just as there are among you certain bodies which are created by a few Latin words, and are found in a hundred thousand places at the same time.
+
+It is not the bald, hot-headed man, with long and broad nose, black eyebrows, thick and continuous, and broad shoulders and crooked legs, who, having carried off the daughter of his master Gamaliel, and being subsequently dissatisfied with her, divorced Edition: current; Page: [127] her; and, in pique, if we may believe contemporary Jewish writers, put himself at the head of the nascent body of the Christians.
+
+It is not that St. Paul who, when he was a servant of Gamaliel, had the good Stephen, the patron of deacons and of those who are stoned, slain with stones, and who, while it was done, took care of the cloaks of the murderers—a fitting employment for a priest’s valet. It is not he who fell from his horse, blinded in midday by a heavenly light, and to whom God said in the air, as he says every day to so many others: “Why persecutest thou me?” It is not he who wrote to the half-Jewish, half-Christian shopkeepers of Corinth: “Have we not power to eat and to drink . . . and to lead about a sister or a wife? Who goeth to war any time at his own charge?” By those fine words the Reverend Father Menou, Jesuit and apostle of Lorraine, profited so well that they brought him, at Nancy, eighty thousand francs a year, a palace, and more than one handsome woman.
+
+It is not he who wrote to the little flock in Thessalonica that the universe was about to be destroyed, and on that account it was not worth while keeping money about one. As Paul said: “For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God; and the dead in Christ shall rise first; then we which are alive and remain shall be caught up together with them.”
+
+Observe, generous Romans, that St. Paul did but announce these pleasant things to the tailors and grocers of Thessalonica in virtue of the express prophecy of Luke (ch. xxi.), who had publicly—that is, to some fifteen or sixteen chosen souls among the people—averred that this generation would not pass away before the son of man came on the clouds with great power and glory. It is true, O Romans, that Jesus came not on the clouds with a great power; but at least the popes have had this great power, and thus are the prophecies fulfilled.
+
+He who writes this epistle to the Romans is, again, not that St. Paul, half Jew, half Christian, who, having preached Jesus and announced the destruction of the Mosaic law, not only went to Judaise in the temple of Hershalaim, which he vulgar call Jerusalem, but, on the advice of his friend James, observed there certain rigorous practices which the Holy Inquisition now punishes with death.
+
+He who writes to you has been neither priest’s valet, nor murderer, nor keeper of cloaks, nor apostate, nor maker of tents, nor buried in the depths of the sea, like Jonah, for twenty-four hours, nor caught up to the third heaven, like Elias, without learning what the third heaven is.
+
+He who writes to you is more a citizen than this Saul Paul, who, it is said, boasted of being one, and assuredly was not. For Tarsus, if he came from there, was not made a Roman colony until the time of Caracalla [211–217 a.d.]; and Giscala Edition: current; Page: [129] in Galilee, from which it is more probable that he came, since he was of the tribe of Benjamin, was certainly not a Roman town. Roman citizenship was not bestowed on Jews at Tarsus or anywhere else. The author of the Acts of the Apostles (xvi., 37) asserts that this Jew Paul and another Jew named Silas were arrested by the authorities in the town of Philippi in Macedonia (a town founded by the father of Alexander, near which the battle between Cassius and Brutus, on the one side, and Antony and Octavian, on the other, decided the fate of your empire). Paul and Silas were scourged for stirring up the populace, and Paul said to the officers: “They have beaten us, being Romans” (Acts xvi., 37). Commentators freely admit that Silas was not a Roman citizen. They do not say that the author of Acts lied, but they agree that what he says is untrue; and I am sorry for the Holy Spirit, who, no doubt, dictated the Acts of the Apostles.
+
+In fine, he who now writes to the descendants of Marcellus, the Scipios, the Catos, Cicero, Titus, and the Antonines, is a Roman gentleman of an ancient and transplanted family, one who cherishes his venerable country, bemoans her condition, and has left his heart in her Capitol.
+
+Romans, listen to your fellow-citizen; listen to Rome and your ancient valour.
+
+L’Italico valor non è ancor morto.

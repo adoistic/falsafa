@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4",
+  "work_title": "A Select Collection of Scarce and Valuable Tracts on Money",
+  "chapter_number": 152,
+  "chapter_title": "XI.: Debasing the standard, would not prevent coins from being melted, or exported.",
+  "chapter_slug": "152-xi-debasing-the-standard-would-not-prevent-coins-f",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9cf4b3d9-3c5c-56f1-b0db-01e8a9c2483d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 353,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+    }
+  ]
+}

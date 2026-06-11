@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-stanley-jevons-the-theory-of-political-economy-20a14c",
+  "work_title": "The Theory of Political Economy",
+  "chapter_number": 1,
+  "chapter_title": "PREFACE TO THE FIRST EDITION (1871)",
+  "chapter_slug": "01-preface-to-the-first-edition-1871",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f780a143-c8b1-5786-a365-29384354fbd1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 992,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/jevons-the-theory-of-political-economy"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+---
+work_id: "32e64580-befc-5db9-a127-857b8835e8c6"
+work_slug: "herbert-spencer-social-statics-32e645"
+work_title: Social Statics
+author_name: Herbert Spencer
+chapter_number: 186
+chapter_title: § 4.
+chapter_slug: "186-4"
+variant_id: "07f6fbab-f69a-50df-bcac-3be06832d6f8"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 441
+source_url: "https://oll.libertyfund.org/titles/spencer-social-statics-1851"
+translator: Online Library of Liberty edition
+---
+
+There are few sayings more trite than this, that love of offspring is one of our most powerful passions. To become a parent is an almost universal wish. The intensity of affection exhibited in the glistening eye, the warm kiss, and the fondling caress—in the untiring patience, and the ever ready alarm of the mother, is a theme on which philosophers have written and poets have sung in all ages. Every one has remarked how commonly the feeling overmasters all others. Observe the self-gratulation with which maternity witnesses Edition: current; Page: [335] her first-born’s unparalleled achievements. Mark the pride with which the performances of each little brat are exhibited to every visitor as indicating a precocious genius. Consider again the deep interest which in later days a father feels in his children’s mental welfare, and the anxiety he manifests to get them on in life; the promptings of his natural affection being ofttimes sharpened by the reflection that the comfort of his old age may, perchance, be dependent upon their success.
+
+Now “servants and interpreters of nature” have usually supposed these feelings to be of some use. Hitherto they have always thought that the gratification accruing to a mother from the forwardness of her little ones serves as a stimulus to the proper culture of their minds—that the honour which the father expects to derive from the distinction of his sons acts as an incentive to their improvement—and that the anticipation by parents of the distress which ill-trained children may one day entail constitutes an additional spur to the proper management of them. In these strong affections and mutual dependencies observers believed they saw an admirably-arranged chain of influences, calculated to secure the mental and physical development of successive generations; and in the simplicity of their faith had concluded that these divinely-appointed means were fully sufficient for this purpose. It would appear, however, according to the state-educationists, that they have been mistaken. It seems that this apparatus of feelings is wholly insufficient to work out the desideratum—that this combination of affections and interests was not provided for such a purpose, or, what is the same thing, that it has no purpose at all. And so, in default of any natural provision for supplying the exigency, legislators exhibit to us the design and specification of a state-machine, made up of masters, ushers, inspectors, and councils, to be worked by a due proportion of taxes, and to be plentifully supplied with raw material, in the shape of little boys and girls, out of which it is to grind a population of well-trained men and women, who shall be “useful members of the community”!

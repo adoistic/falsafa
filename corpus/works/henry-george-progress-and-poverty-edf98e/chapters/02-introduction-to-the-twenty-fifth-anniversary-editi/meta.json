@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-progress-and-poverty-edf98e",
+  "work_title": "Progress and Poverty",
+  "chapter_number": 2,
+  "chapter_title": "Introduction to the Twenty-Fifth Anniversary Edition of \"Progress And Poverty\"",
+  "chapter_slug": "02-introduction-to-the-twenty-fifth-anniversary-editi",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b27f461-d9f6-512b-87a7-c867366311cc",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1260,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
+  "work_title": "Lectures on Modern History (Figgis ed.)",
+  "chapter_number": 21,
+  "chapter_title": "XVIII: FREDERIC THE GREAT",
+  "chapter_slug": "21-xviii-frederic-the-great",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2d5907de-b836-5a56-8cd8-513224d7b304",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5097,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/figgis-lectures-on-modern-history"
+    }
+  ]
+}

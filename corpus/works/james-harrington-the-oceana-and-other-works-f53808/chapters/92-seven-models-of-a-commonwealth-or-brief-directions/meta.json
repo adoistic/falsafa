@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 92,
+  "chapter_title": "Seven Models of a Commonwealth: OR, BRIEF DIRECTIONS SHEWING How a fit and perfect Model of Popular Government may be ma",
+  "chapter_slug": "92-seven-models-of-a-commonwealth-or-brief-directions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a32bc33b-15ab-5bf8-a740-f9172a03e18f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 168,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

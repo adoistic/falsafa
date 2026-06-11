@@ -1,0 +1,26 @@
+{
+  "work_slug": "jacob-viner-studies-in-the-theory-of-interna-c3b02d",
+  "work_title": "Studies in the Theory of International Trade",
+  "chapter_number": 61,
+  "chapter_title": "III. Trade in More Than two Commodities",
+  "chapter_slug": "61-iii-trade-in-more-than-two-commodities",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e1b91ae-187b-53b1-adfc-9e2020454fa3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3047,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/viner-studies-in-the-theory-of-international-trade"
+    }
+  ]
+}

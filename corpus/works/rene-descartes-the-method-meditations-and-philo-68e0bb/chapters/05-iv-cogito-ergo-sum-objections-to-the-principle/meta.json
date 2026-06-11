@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 5,
+  "chapter_title": "IV.: Cogito Ergo Sum — Objections to the Principle.",
+  "chapter_slug": "05-iv-cogito-ergo-sum-objections-to-the-principle",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6fc982c9-f136-51a6-930c-c54b95231ed1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2691,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

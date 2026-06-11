@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 85,
+  "chapter_title": "§ 69.: What is an antinomy of the Judgement?",
+  "chapter_slug": "85-69-what-is-an-antinomy-of-the-judgement",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "732e30a3-d4b7-5bc2-8871-4d3ad8a3b844",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 367,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

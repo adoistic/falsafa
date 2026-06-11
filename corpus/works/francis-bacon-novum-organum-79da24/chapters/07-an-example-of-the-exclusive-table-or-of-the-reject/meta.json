@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-bacon-novum-organum-79da24",
+  "work_title": "Novum Organum",
+  "chapter_number": 7,
+  "chapter_title": "An Example of the Exclusive Table, or of the Rejection of Natures from the Form of Heat",
+  "chapter_slug": "07-an-example-of-the-exclusive-table-or-of-the-reject",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cae3d731-6bfc-5cfd-a5b8-02677c0b75ec",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 311,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bacon-novum-organum"
+    }
+  ]
+}

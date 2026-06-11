@@ -1,0 +1,26 @@
+{
+  "work_slug": "nicholas-barbon-a-discourse-of-trade-e7c561",
+  "work_title": "A Discourse of Trade",
+  "chapter_number": 9,
+  "chapter_title": "|71| Of the Chief Causes of the Decay of TRADE in England, and Fall of the RENTS of LAND.",
+  "chapter_slug": "09-71-of-the-chief-causes-of-the-decay-of-trade-in-en",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ce75f1f-2318-5324-be2a-b7ffe1de418e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3693,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/barbon-a-discourse-of-trade"
+    }
+  ]
+}

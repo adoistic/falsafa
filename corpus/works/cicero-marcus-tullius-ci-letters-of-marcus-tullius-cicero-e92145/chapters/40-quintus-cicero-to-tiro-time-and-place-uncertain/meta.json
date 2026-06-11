@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
+  "work_title": "Letters of Marcus Tullius Cicero",
+  "chapter_number": 40,
+  "chapter_title": "Quintus Cicero to Tiro (Time and place uncertain)",
+  "chapter_slug": "40-quintus-cicero-to-tiro-time-and-place-uncertain",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2d218726-fd0c-57bc-a292-0d2e3a0652bb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 166,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/melmoth-letters-of-marcus-tullius-cicero"
+    }
+  ]
+}

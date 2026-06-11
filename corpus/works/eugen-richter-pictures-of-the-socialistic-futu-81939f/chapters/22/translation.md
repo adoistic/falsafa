@@ -1,0 +1,39 @@
+---
+work_id: "81939f1a-b5af-5797-ab79-a8204fd3b62e"
+work_slug: "eugen-richter-pictures-of-the-socialistic-futu-81939f"
+work_title: Pictures of the Socialistic Future
+author_name: Eugen Richter
+chapter_number: 22
+chapter_title: "Chapter XIX: RECREATIONS OF THE PEOPLE."
+chapter_slug: 22
+variant_id: "c04896b6-52f3-50ae-922c-a6586a306270"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1199
+source_url: "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
+translator: Online Library of Liberty edition
+---
+
+Open-Air concerts are continually being given in the various public squares of Berlin. The new Chancellor is going the right way to work to make himself popular. In all the theatres there are two performances on week-days, and three on Sundays, and these are all gratis. As a matter of course, the theatres which our busy, industrious Community inherited from the bourgeoisie have proved very inadequate in point of number and size. It has hence been found necessary to supplement them by the addition of various other large buildings. Amongst others, many of the churches are now appropriated to this purpose. As regards the latter, there are still to be found persons here and there who show some scruples, and who somehow do not seem to be able to cut themselves loose from old and deep-rooted superstitions. But it is perfectly clear that the churches have become common property; and it is equally clear, from the provisions of the law framed at the Erfurt Conference of October, 1891, and subsequently adopted, Edition: current; Page: [65] that no common property can be devoted to ecclesiastical or religious purposes.
+
+Naturally, no other plays are given at the theatres than such as represent the glories of the new order, and which keep the sordidness of past capitalists and plunderers in lively remembrance. For any considerable length of time there is, it must be confessed, an element of monotony in this. But, anyhow, it shows up the rightness of our principles, and this is sometimes very necessary.
+
+At first, everyone was at liberty to go to any theatre, just wherever and however he liked. But this senseless competition is now superceded by a well-devised organisation of the people's diversions. It was found that the representations of classic, socialistic plays were made to rows of empty seats, whereas in places where special artistes were engaged, the spectators were packed like sardines. They used to fight almost for the best places. Now all that is different, and the Town Council distributes in rotation to the various theatrical managers the pieces to be represented. The several managers dispose of the seats by lottery to such spectators as have been apportioned to them for that particular evening and play, thus following the plan introduced in 1889 at the socialistic Popular Free Theatre.
+
+There is a saying, "Good luck in love, bad luck at play." And we have experienced the truth of this. As luck would have it, my wife and I have lately, on three successive occasions, got such bad places assigned to us through this lottery system that she could hear nothing, and I found it just as impossible to see anything. She is a little hard of hearing, and I am very short-sighted. Neither of these qualities is in perfect Edition: current; Page: [66] harmony with the idea of social equality as illustrated by the theatre.
+
+Dancing is another of the diversions which are arranged every evening by the city authorities. The entrance is on the same principle as in the case of the theatres, and young and old are all equally entitled to appear. The reform of the etiquette of dancing seemed, at first, to present some few difficulties from a socialistic point of view. This reform has, however, been carried out, and the equality of the ladies is now thereby asserted that the choice of partners made by the ladies alternates regularly with the choice made by the gentlemen. Bebel says, indeed, that women have just the same right to seek that men have to seek them. But the attempt to apply this principle to dancing, by leaving it optional to each sex, in every single dance, to solicit partners, had soon to be abandoned, as it was found that the order of the dances was in danger of becoming involved in inextricable entanglement.
+
+Various interesting letters have appeared in the Onward, which discuss, in a very exhaustive and subtle manner, the question whether, in a socialised community, in the dance, such a thing is conceivable as a "right" on the part of certain women to men; or vice versâ, a right on the part of men to women? The equal obligation all round to labour, as one lady points out in the Onward, clearly entitles all alike to enjoy the same recompense. One part of this recompense is found in joining in those dances which have been organised by the State. No lady could find any pleasure in the dance without a partner of the other sex, whilst it is even more apparent that no gentleman would dance without a lady.
+
+On the part of this lady, the practical solution of the difficulty was suggested in the Onward, that for the future all partners at dancing, irrespective of age, beauty, ugliness, and everything else, be chosen by drawing lots. She contends that precisely as in a socialised community there are no persons without work, and without shelter, so in the same way there must never be any ladies at a dance without their proper partners.
+
+But a professor of Modern Natural Law has sent a letter to the paper expressing the fear that, in process of time, this method of organising the selection of partners in the dance might have unforeseen results of an unpleasant kind. He fears it might in time lead to a demand for the recognition of a right of marriage, to a demand that the State take the regulation of marriage into its own hands, by a gigantic universal raffle of men and women. He is strongly of opinion that, precisely as a marriage-tie is a strictly private contract, made without the intervention of any functionary whatever, so in the same way must a temporary union between a lady and a gentleman in the dance preserve the character of a private contract; and he deprecates the idea of any master of the ceremonies meddling, either by lottery or in any other way, with such engagements.
+
+As a matter of fact though, I understand that a large number of ladies take the view that a consistent social equality demands the abolition of the differences between married and unmarried. These ladies have lately joined the party of the Younkers, although in reality they themselves are for the most part of a somewhat ripe age. Anyhow, the extension of the right of voting to women may materially tend to Edition: current; Page: [68] add strength to the Opposition at the approaching election.
+
+Preparations are now being made for a speedy general election. The vast number of calls which the preliminary arrangements for the new socialistic State made upon the time and attention of the Government did not admit of the elections taking place at an earlier date. The right to vote is possessed by all persons of both sexes who have passed their twentieth year. The system of election decided upon is the so-called system of proportional election, which was adopted by the Erfurt Conference in October, 1891. According to this system, large electoral divisions, with several candidates, are constituted, and each political party returns to Parliament a number of representatives in proportion to the votes recorded for that particular party.

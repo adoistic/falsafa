@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-critique-of-practical-reason-and-fcea5d",
+  "work_title": "Critique of Practical Reason and Other Works on the Theory of Ethics",
+  "chapter_number": 6,
+  "chapter_title": "The Autonomy of the Will as the Supreme Principle of Morality.",
+  "chapter_slug": "06-the-autonomy-of-the-will-as-the-supreme-principle-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6785cba6-0463-5022-8240-f425856364c5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 201,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/abbott-kant-s-critique-of-practical-reason-and-other-works-on-the-theory-of-ethics"
+    }
+  ]
+}

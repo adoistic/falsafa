@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-political-economy-d17649",
+  "work_title": "Political Economy",
+  "chapter_number": 20,
+  "chapter_title": "CHAPTER VIII.: THE REACTION OF DISTRIBUTION UPON PRODUCTION.",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b1fdf0fd-9e0b-5fd0-a31a-c60a80814d82",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4479,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-political-economy"
+    }
+  ]
+}

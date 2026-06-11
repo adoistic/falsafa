@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 38,
+  "chapter_title": "§ 26.: Of that estimation of the magnitude of natural things which is requisite for the Idea of the Sublime",
+  "chapter_slug": "38-26-of-that-estimation-of-the-magnitude-of-natural-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ace8eaac-4931-5d85-8892-2a5ac76dbfdf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2474,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

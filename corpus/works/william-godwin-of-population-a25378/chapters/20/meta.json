@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-godwin-of-population-a25378",
+  "work_title": "Of Population",
+  "chapter_number": 20,
+  "chapter_title": "CHAPTER IV.: accounts which are given of the population of sweden.",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "59ddcdf0-89d1-55ad-95f7-27606520e64c",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1329,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
+    }
+  ]
+}

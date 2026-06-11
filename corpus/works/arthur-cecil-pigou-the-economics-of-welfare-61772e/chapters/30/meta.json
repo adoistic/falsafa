@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 30,
+  "chapter_title": "Chapter XVIII: THE SPECIAL PROBLEM OF RAILWAY RATES",
+  "chapter_slug": "30",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b446bff9-9455-50b6-8554-52ec157a0692",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9127,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

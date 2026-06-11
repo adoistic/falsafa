@@ -1,0 +1,26 @@
+{
+  "work_slug": "arthur-cecil-pigou-the-economics-of-welfare-61772e",
+  "work_title": "The Economics of Welfare",
+  "chapter_number": 15,
+  "chapter_title": "Chapter III: THE VALUES OF MARGINAL SOCIAL NET PRODUCTS AND THE SIZE OF THE NATIONAL DIVIDEND",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd965f5b-b3b5-562a-93cd-92687defb2c3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1907,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/pigou-the-economics-of-welfare"
+    }
+  ]
+}

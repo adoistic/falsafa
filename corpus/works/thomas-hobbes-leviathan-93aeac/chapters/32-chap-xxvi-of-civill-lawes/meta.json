@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 32,
+  "chapter_title": "CHAP. XXVI.: Of Civill Lawes.",
+  "chapter_slug": "32-chap-xxvi-of-civill-lawes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0711746b-1159-5683-b38b-d8a41e7a0628",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7951,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-earth-hunger-and-other-essays-78e0ba",
+  "work_title": "Earth-Hunger and Other Essays",
+  "chapter_number": 26,
+  "chapter_title": "Liberty and Machinery",
+  "chapter_slug": "26-liberty-and-machinery",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4a00d694-45a5-5755-afee-f2d9a514d787",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1581,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/earth-hunger-and-other-essays-1913"
+    }
+  ]
+}

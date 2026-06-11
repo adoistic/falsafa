@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 210,
+  "chapter_title": "§1 (to Ch. X, § 2) [Geometric representation of incomes for three years]",
+  "chapter_slug": "210-1-to-ch-x-2-geometric-representation-of-incomes-fo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0f340437-4256-53ce-8894-29a0eca0873f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 496,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

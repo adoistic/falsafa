@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-godwin-of-population-a25378",
+  "work_title": "Of Population",
+  "chapter_number": 50,
+  "chapter_title": "CHAPTER III.: calculation of the productive powers of the soil of england and wales.",
+  "chapter_slug": "50",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aed87ff3-b4c3-52ac-98c4-d9346fd18e38",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1007,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/godwin-of-population-an-enquiry-concerning-the-power-of-increase-in-the-numbers-of-mankind"
+    }
+  ]
+}

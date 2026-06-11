@@ -1,0 +1,26 @@
+{
+  "work_slug": "joseph-priestley-an-essay-on-the-first-principles-2bcc23",
+  "work_title": "An Essay on the First Principles of Government",
+  "chapter_number": 12,
+  "chapter_title": "THE CONTENTS.",
+  "chapter_slug": "12-the-contents",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6d35a14d-5dd0-508d-b6ba-b56a2152fa21",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 62,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/priestley-an-essay-on-the-first-principles-of-government"
+    }
+  ]
+}

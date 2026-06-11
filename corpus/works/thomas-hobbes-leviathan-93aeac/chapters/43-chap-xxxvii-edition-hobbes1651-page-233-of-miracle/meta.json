@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hobbes-leviathan-93aeac",
+  "work_title": "Leviathan",
+  "chapter_number": 43,
+  "chapter_title": "CHAP. XXXVII.: Edition: Hobbes1651; Page: [233] Of Miracles, and their Use.",
+  "chapter_slug": "43-chap-xxxvii-edition-hobbes1651-page-233-of-miracle",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "087a89c4-0925-54d7-b4d0-769529b46a8e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2981,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-leviathan-1909-ed"
+    }
+  ]
+}

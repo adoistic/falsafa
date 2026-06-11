@@ -1,0 +1,26 @@
+{
+  "work_slug": "immanuel-kant-the-critique-of-judgement-665de5",
+  "work_title": "The Critique of Judgement",
+  "chapter_number": 100,
+  "chapter_title": "§ 84.: Of the final purpose of the existence of a world, i.e. of creation itself",
+  "chapter_slug": "100-84-of-the-final-purpose-of-the-existence-of-a-worl",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f018ac3c-e69d-5673-a2fe-efc88afbe781",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 620,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bernard-the-critique-of-judgement"
+    }
+  ]
+}

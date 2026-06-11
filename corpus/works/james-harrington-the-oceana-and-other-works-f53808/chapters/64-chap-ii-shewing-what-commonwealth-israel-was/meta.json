@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 64,
+  "chapter_title": "CHAP. II.: Shewing what Commonwealth Israel was.",
+  "chapter_slug": "64-chap-ii-shewing-what-commonwealth-israel-was",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4c2ba262-3a64-5265-8056-4f79ad8cf625",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7582,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

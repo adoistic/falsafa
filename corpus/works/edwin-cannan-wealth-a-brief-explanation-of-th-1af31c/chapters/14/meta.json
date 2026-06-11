@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-cannan-wealth-a-brief-explanation-of-th-1af31c",
+  "work_title": "Wealth: A Brief Explanation of the Causes of Economic Welfare",
+  "chapter_number": 14,
+  "chapter_title": "CHAPTER XII: incomes from work",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74c2bc16-bade-5d4a-91f9-9da08ccc3069",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5816,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/cannan-wealth-a-brief-explanation-of-the-causes-of-economic-wealth"
+    }
+  ]
+}

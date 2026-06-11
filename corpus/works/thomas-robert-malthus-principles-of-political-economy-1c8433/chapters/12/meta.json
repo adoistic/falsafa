@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-robert-malthus-principles-of-political-economy-1c8433",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 12,
+  "chapter_title": "Section VII.—: On the Variations in the Value of Money in the same, and different Countries.",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e1df617a-8765-58e8-bdae-901f130c3773",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4245,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/malthus-principles-of-political-economy"
+    }
+  ]
+}

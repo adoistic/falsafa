@@ -1,0 +1,26 @@
+{
+  "work_slug": "richard-t-ely-a-history-of-political-economy-142de1",
+  "work_title": "A History of Political Economy",
+  "chapter_number": 12,
+  "chapter_title": "Italy",
+  "chapter_slug": "12-italy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e411be3-d2e2-5b20-b077-90d086e5424e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2538,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ely-a-history-of-political-economy"
+    }
+  ]
+}

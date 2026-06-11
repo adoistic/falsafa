@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-the-life-of-richard-cobden-23f473",
+  "work_title": "The Life of Richard Cobden",
+  "chapter_number": 72,
+  "chapter_title": "CHAPTER XXXV.: correspondence with mr. delane.",
+  "chapter_slug": "72",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e20631de-8ff8-5724-ba6f-eb80af1e2038",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2149,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/morley-the-life-of-richard-cobden"
+    }
+  ]
+}

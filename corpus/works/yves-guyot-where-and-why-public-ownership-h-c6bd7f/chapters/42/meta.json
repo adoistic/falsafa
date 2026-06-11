@@ -1,0 +1,26 @@
+{
+  "work_slug": "yves-guyot-where-and-why-public-ownership-h-c6bd7f",
+  "work_title": "Where and Why Public Ownership Has Failed",
+  "chapter_number": 42,
+  "chapter_title": "CHAPTER II: BLUFF",
+  "chapter_slug": "42",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d0cc8ef-0343-596e-babc-e413c444b42f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 855,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
+    }
+  ]
+}

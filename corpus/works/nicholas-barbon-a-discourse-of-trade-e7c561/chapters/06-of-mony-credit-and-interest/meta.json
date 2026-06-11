@@ -1,0 +1,26 @@
+{
+  "work_slug": "nicholas-barbon-a-discourse-of-trade-e7c561",
+  "work_title": "A Discourse of Trade",
+  "chapter_number": 6,
+  "chapter_title": "Of Mony, Credit and Interest.",
+  "chapter_slug": "06-of-mony-credit-and-interest",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "421c03de-b7b4-519e-b290-1e04fb29a44a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1951,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/barbon-a-discourse-of-trade"
+    }
+  ]
+}

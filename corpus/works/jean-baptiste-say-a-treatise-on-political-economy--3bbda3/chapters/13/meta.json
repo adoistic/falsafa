@@ -1,0 +1,26 @@
+{
+  "work_slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
+  "work_title": "A Treatise on Political Economy (Biddle ed.)",
+  "chapter_number": 13,
+  "chapter_title": "BOOK I, CHAPTER X: OF THE TRANSFORMATIONS UNDERGONE BY CAPITAL IN THE PROGRESS OF PRODUCTION",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1dc03ed2-3cee-59bc-a234-77bec00eb2ce",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1607,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/biddle-a-treatise-on-political-economy"
+    }
+  ]
+}

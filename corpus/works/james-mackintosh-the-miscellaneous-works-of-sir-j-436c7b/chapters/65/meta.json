@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+  "work_title": "The Miscellaneous Works of Sir James Mackintosh",
+  "chapter_number": 65,
+  "chapter_title": "SECTION I.: The General Expediency and Necessity of a Revolution in France.",
+  "chapter_slug": "65",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "afcdcfbc-a021-5152-af2e-712650ba9b99",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 15305,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/mackintosh-the-miscellaneous-works"
+    }
+  ]
+}

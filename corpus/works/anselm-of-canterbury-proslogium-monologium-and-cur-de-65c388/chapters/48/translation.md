@@ -1,0 +1,41 @@
+---
+work_id: "65c38856-6963-53d0-a517-e894e1b0a111"
+work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
+work_title: Proslogium; Monologium; and Cur Deus Homo
+author_name: Anselm of Canterbury
+chapter_number: 48
+chapter_title: CHAPTER VIII
+chapter_slug: 48
+variant_id: "28eb5fa1-51e0-57ad-91fc-de70970567f3"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 948
+source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
+translator: Online Library of Liberty edition
+---
+
+How it is to be understood that this Nature created all things from nothing.
+
+But we are confronted with a doubt regarding this term nothing. For, from whatever source anything is created, that source is the cause of what is created from it, and, necessarily, every cause affords some assistance to the being of what it effects. This is so firmly believed, as a result of experience, by every one, that the belief can be wrested from no one by argument, and can scarcely be purloined by sophistry.
+
+Accordingly, if anything was created from nothing, this very nothing was the cause of what was created from it. But how could that which had no existence assist anything in coming into existence? If, however, no aid to the existence of anything ever had its source in nothing, who can be convinced, and how, that anything is created out of nothing?
+
+Moreover, nothing either means something, or does not mean something. But if nothing is something, whatever has been created from nothing has been created from something. If, however, nothing is not Edition: current; Page: [53] something; since it is inconceivable that anything should be created from what does not exist, nothing is created from nothing; just as all agree that nothing comes from nothing. Whence, it evidently follows, that whatever is created is created from something; for it is created either from something or from nothing. Whether, then, nothing is something, or nothing is not something, it apparently follows, that whatever has been created was created from something.
+
+But, if this is posited as a truth, then it is so posited in opposition to the whole argument propounded in the preceding chapter. Hence, since what was nothing will thus be something, that which was something in the highest degree will be nothing. For, from the discovery of a certain Substance existing in the greatest degree of all existing beings, my reasoning had brought me to this conclusion, that all other beings were so created by this Substance, that that from which they were created was nothing. Hence, if that from which they were created, which I supposed to be nothing, is something, whatever I supposed to have been ascertained regarding the supreme Being, is nothing.
+
+What, then, is to be our understanding of the term nothing?—For I have already determined not to neglect in this meditation any possible objection, even if it be almost foolish.—In three ways, then—and this suffices for the removal of the present obstacle—can the statement that any substance was created from nothing be explained.
+
+There is one way, according to which we wish it to be understood, that what is said to have been created from nothing has not been created at all; just Edition: current; Page: [54] as, to one who asks regarding a dumb man, of what he speaks, the answer is given, “of nothing,” that is, he does not speak at all. According to this interpretation, to one who enquires regarding the supreme Being, or regarding what never has existed and does not exist at all, as to whence it was created, the answer, “from nothing” may properly be given; that is, it never was created. But this answer is unintelligible in the case of any of those things that actually were created.
+
+There is another interpretation which is, indeed, capable of supposition, but cannot be true; namely, that if anything is said to have been created from nothing, it was created from nothing itself (de nihilo ipso), that is, from what does not exist at all, as if this very nothing were some existent being, from which something could be created. But, since this is always false, as often as it is assumed an irreconcilable contradiction follows.
+
+There is a third interpretation, according to which a thing is said to have been created from nothing, when we understand that it was indeed created, but that there is not anything whence it was created. Apparently it is said with a like meaning, when a man is afflicted without cause, that he is afflicted “over nothing.”
+
+If, then, the conclusion reached in the preceding chapter is understood in this sense, that with the exception of the supreme Being all things have been created by that Being from nothing, that is, not from anything; just as this conclusion consistently follows the preceding arguments, so, from it, nothing inconsistent is inferred; although it may be said, without inconsistency or any contradiction, that what has been Edition: current; Page: [55] created by the creative Substance was created from nothing, in the way that one frequently says a rich man has been made from a poor man, or that one has recovered health from sickness; that is, he who was poor before, is rich now, as he was not before; and he who was ill before, is well now, as he was not before.
+
+In this way, then, we can understand, without inconsistency, the statement that the creative Being created all things from nothing, or that all were created through it from nothing; that is, those things which before were nothing, are now something. For, indeed, from the very word that we use, saying that it created them or that they were created, we understand that when this Being created them, it created something, and that when they were created, they were created only as something. For so, beholding a man of very lowly fortunes exalted with many riches and honors by some one, we say, “Lo, he has made that man out of nothing”; that is, the man who was before reputed as nothing is now, by virtue of that other’s making, truly reckoned as something.

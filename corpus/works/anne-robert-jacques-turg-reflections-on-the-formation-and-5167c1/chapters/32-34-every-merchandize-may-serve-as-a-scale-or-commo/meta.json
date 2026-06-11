@@ -1,0 +1,26 @@
+{
+  "work_slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
+  "work_title": "Reflections on the Formation and Distribution of Riches",
+  "chapter_number": 32,
+  "chapter_title": "34. Every merchandize may serve as a scale or common measure, by which to compare the value of any other.",
+  "chapter_slug": "32-34-every-merchandize-may-serve-as-a-scale-or-commo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "493c58a9-868d-5eb3-8f99-e2b510ee1f01",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 284,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/turgot-reflections-on-the-formation-and-distribution-of-riches"
+    }
+  ]
+}

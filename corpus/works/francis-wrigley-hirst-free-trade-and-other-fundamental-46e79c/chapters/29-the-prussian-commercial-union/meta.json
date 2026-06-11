@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-wrigley-hirst-free-trade-and-other-fundamental-46e79c",
+  "work_title": "Free Trade and Other Fundamental Doctrines of the Manchester School",
+  "chapter_number": 29,
+  "chapter_title": "The Prussian Commercial Union.",
+  "chapter_slug": "29-the-prussian-commercial-union",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c428a670-3d22-544e-9a76-0c941dd28ea0",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1510,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hirst-free-trade-and-other-fundamental-doctrines-of-the-manchester-school"
+    }
+  ]
+}

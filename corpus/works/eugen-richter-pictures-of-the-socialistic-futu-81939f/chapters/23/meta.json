@@ -1,0 +1,26 @@
+{
+  "work_slug": "eugen-richter-pictures-of-the-socialistic-futu-81939f",
+  "work_title": "Pictures of the Socialistic Future",
+  "chapter_number": 23,
+  "chapter_title": "Chapter XX: DISAGREEABLE EXPERIENCES.",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8666a8b4-b3a5-5bef-afe3-eab449e0bbaf",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1077,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/richter-pictures-of-the-socialistic-future"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-ricardo-the-works-of-david-ricardo-f3c310",
+  "work_title": "The Works of David Ricardo",
+  "chapter_number": 26,
+  "chapter_title": "CHAPTER XVI.: TAXES ON WAGES.",
+  "chapter_slug": "26",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fcd26198-636d-5361-bd39-97a07f58cc1e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8749,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/ricardo-the-works-of-david-ricardo-mcculloch-ed-1846-1888"
+    }
+  ]
+}

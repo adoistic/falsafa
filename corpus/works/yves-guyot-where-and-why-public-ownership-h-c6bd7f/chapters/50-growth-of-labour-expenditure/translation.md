@@ -1,0 +1,33 @@
+---
+work_id: "c6bd7f59-f3c2-5fb7-8cef-3162d99bc1e6"
+work_slug: "yves-guyot-where-and-why-public-ownership-h-c6bd7f"
+work_title: Where and Why Public Ownership Has Failed
+author_name: Yves Guyot
+chapter_number: 50
+chapter_title: GROWTH OF LABOUR EXPENDITURE
+chapter_slug: "50-growth-of-labour-expenditure"
+variant_id: "6ad0ec83-c2a8-504f-b04d-a86c5a25dfc0"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 477
+source_url: "https://oll.libertyfund.org/titles/baker-where-and-why-public-ownership-has-failed"
+translator: Online Library of Liberty edition
+---
+
+But these combined results tar all the States with the same brush, and that is altogether unfair. Four of the states are not under labour administration, while two (New South Wales and West Australia) are so. Separating the returns for last year into the two groups, we have the following:
+
+The two labour-governed states secured £1,114,000 of the year's revenue expansion, while the remaining four gained only £664,000; but the latter group all lived within their incomes, while the two labour administrations lived much beyond them. Similar results were shown in the preceding year, only of a less pronounced character, and they are again apparent in the new financial year's estimates, and both these labour administrations have already imposed more taxation, and their programs include yet additional taxation in 1913–14.
+
+Labour has been three years in office in New South Wales, and two years in West Australia. But a three years'comparison of the two groups is altogether remarkable:
+
+The whole reason for the marked retrogression under labour finance has been in the striking growth of their expenditure, which relatively in the past three years has been twice as rapid under labour administration as under what Australians term Liberal administration. Edition: current; Page: [446] It is quite to be understood. Labour came into office on the votes of a class, and that class is master. It cannot be denied what it asks for, and in fact the legislative programs have to be submitted to the caucus at the Trades Halls and approved before they can be put forward.
+
+When these administrations came into office—and the caucus into power—it was boasted that the burden of their schemes should be placed upon the shoulders able to bear it. But their expenditures have run away from their incomes all the same, and the burden has been spread, as the increased cost of living specially affects labour.
+
+What is more, in the efforts to find money for state employees, which have multiplied greatly, loans have been called upon to supplement revenue freely. The railways and other public works are needed, but the effect of the increased loan expenditure on the volume of state employment has been marked all the same. However, the effect upon revenue has been beyond controversy. Happily, all six of the state governments are not under labour rule, and the commonwealth has recently made a change. The state election in New South Wales, just ahead, may do so likewise. But in the foregoing statements facts only have been dealt with, and facts are above the party cries current in Australia.
+
+With respect to the revenue estimates for the current year, over £2,000,000 of the expected increases go to the two labour administrations and £1,000,000 to the remaining four states; but, then, the labor governments are augmenting taxation, and may not realize their estimates. However, that remains to be proved.

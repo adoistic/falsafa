@@ -1,0 +1,37 @@
+[
+  {
+    "id": "p-d1f6f4",
+    "offset": 0,
+    "text": "When the motion of a body is the resultant of two uniform motions, one horizontal, the other perpendicular, the square of the resultant momentum is equal to the sum of the squares of the two component momenta."
+  },
+  {
+    "id": "p-deaf68",
+    "offset": 211,
+    "text": "Let us imagine any body urged by two uniform motions and let ab represent the vertical displacement, while bc represents the displacement which, in the same interval of time, takes place in a horizontal direction. If then the distances ab and bc are traversed, during the same time-interval, with uniform motions the corresponding momenta will be to each other as the distances ab and bc are to each other; but the body which is urged by these two motions describes the diagonal ac; its momentum is proportional to ac. Also the square of ac is equal to the sum of the squares of ab and bc. Hence the square of the resultant momentum is equal to the sum of the squares of the two momenta ab and bc."
+  },
+  {
+    "id": "p-070003",
+    "offset": 910,
+    "text": "q. e. d."
+  },
+  {
+    "id": "p-c8810d",
+    "offset": 920,
+    "text": "At this point there is just one slight difficulty which needs to be cleared up; for it seems to me that the conclusion Edition: current; Page: [258] just reached contradicts a previous proposition in which it is claimed that the speed [impeto] of a body coming from a to b is equal to that in coming from a to c; while now you conclude that the speed [impeto] at c is greater than that at b."
+  },
+  {
+    "id": "p-0f4516",
+    "offset": 1313,
+    "text": "Both propositions, Simplicio, are true, yet there is a great difference between them. Here we are speaking of a body urged by a single motion which is the resultant of two uniform motions, while there we were speaking of two bodies each urged with naturally accelerated motions, one along the vertical ab the other along the inclined plane ac. Besides the time-intervals were there not supposed to be equal, that along the incline ac being greater than that along the vertical ab; but the motions of which we now speak, those along ab, bc, ac, are uniform and simultaneous."
+  },
+  {
+    "id": "p-3ec2d8",
+    "offset": 1888,
+    "text": "Pardon me; I am satisfied; pray go on."
+  },
+  {
+    "id": "p-df50ba",
+    "offset": 1928,
+    "text": "Our Author next undertakes to explain what happens when a body is urged by a motion compounded of one which is horizontal and uniform and of another which is vertical but naturally accelerated; from these two components results the path of a projectile, which is a parabola. The problem is to determine the speed [impeto] of the projectile at each point. With this purpose in view our Author sets forth as follows the manner, or rather the method, of measuring such speed [impeto] along the path which is taken by a heavy body starting from rest and falling with a naturally accelerated motion."
+  }
+]

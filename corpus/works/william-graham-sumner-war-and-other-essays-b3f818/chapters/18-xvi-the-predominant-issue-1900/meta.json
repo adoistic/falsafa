@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-graham-sumner-war-and-other-essays-b3f818",
+  "work_title": "War and Other Essays",
+  "chapter_number": 18,
+  "chapter_title": "XVI: THE PREDOMINANT ISSUE [1900]",
+  "chapter_slug": "18-xvi-the-predominant-issue-1900",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1b51aaf8-23c5-57e8-81b2-11dd54292458",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4788,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/keller-war-and-other-essays"
+    }
+  ]
+}

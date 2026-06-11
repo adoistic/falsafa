@@ -1,0 +1,23 @@
+---
+work_id: "a93a80fb-783a-5393-8704-2b8591a79738"
+work_slug: "lysander-spooner-natural-law-or-the-science-of-ju-a93a80"
+work_title: Natural Law, or the Science of Justice
+author_name: Lysander Spooner
+chapter_number: 10
+chapter_title: Section VI.
+chapter_slug: 10
+variant_id: "c109102d-2303-56bb-8cb5-3e4bfa0d40d0"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 370
+source_url: "https://oll.libertyfund.org/titles/spooner-natural-law-or-the-science-of-justice-1882"
+translator: Online Library of Liberty edition
+---
+
+If there be in nature such a principle as justice, such a principle as honesty, such principles as we describe by the words mine and thine, such principles as men’s natural rights of person and property, then we have an immutable and universal law; a law that we can learn, as we learn any other science; a law that is paramount to, and excludes, every thing that conflicts with it; a law that tells us what is just and what is unjust, what is honest and what is dishonest, what things are mine and what things are thine, what are my rights of person and property and what are your rights of person and property, and where is the boundary between each and all of my rights of person and property and each and all of your rights of person and property. And this law is the paramount law, and the same law, over all the world, at all times, and for all peoples; and will be the same paramount and only law, at all times, and for all peoples, so long as man shall live upon the earth.
+
+But if, on the other hand, there be in nature no such principle as justice, no such principle as honesty, no such principle as men’s natural rights of person or property, then all such words as justice and injustice, honesty and dishonesty, all such words as mine and thine, all words that signify that one thing is one man’s property and that another thing is another man’s property, all words that are used to describe men’s natural rights of person or property, all such words as are used to describe injuries and crimes, should be struck out of all human languages as having no meanings; and it should be declared, at once and forever, that the greatest force and the greatest frauds, for the time being, are the supreme and only laws for governing the relations of men with each other; and that, from henceforth, all persons and combinations of persons—those that call themselves governments, as well as all others—are to be left free to practice upon each other all the force, and all the fraud, of which they are capable.

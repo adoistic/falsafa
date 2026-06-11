@@ -1,0 +1,26 @@
+{
+  "work_slug": "galileo-galilei-dialogues-concerning-two-new-sci-8eceb2",
+  "work_title": "Dialogues Concerning Two New Sciences",
+  "chapter_number": 81,
+  "chapter_title": "Proposition V, Problem",
+  "chapter_slug": "81-proposition-v-problem",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2f5e0012-8158-5af2-94ea-e981b3a0999a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 389,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/galilei-dialogues-concerning-two-new-sciences"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-the-unconstitutionality-of-slave-5dd90c",
+  "work_title": "The Unconstitutionality of Slavery",
+  "chapter_number": 14,
+  "chapter_title": "CHAPTER XIII.: THE CHILDREN OF SLAVES ARE BORN FREE.",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fb79767e-9c48-54df-bb20-734dc5d1bf9a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13142,
+      "paragraph_count": 177,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-the-unconstitutionality-of-slavery-1860"
+    }
+  ]
+}

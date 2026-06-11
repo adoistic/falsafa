@@ -1,0 +1,43 @@
+---
+work_id: "43c12c17-b6e4-511f-accf-6238146e1803"
+work_slug: "epictetus-the-works-of-epictetus-43c12c"
+work_title: The Works of Epictetus
+author_name: Epictetus
+chapter_number: 39
+chapter_title: "CHAPTER V.: HOW NOBLENESS OF MIND MAY BE CONSISTENT WITH PRUDENCE."
+chapter_slug: 39
+variant_id: "7947babc-6a60-58c4-aae2-24a903656d02"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1216
+source_url: "https://oll.libertyfund.org/titles/higginson-the-works-of-epictetus-consisting-of-his-discourses-in-four-books"
+translator: Online Library of Liberty edition
+---
+
+THE materials of action are variable, but the use we make of them should be constant.
+
+How, then, shall one combine composure and tranquillity with energy; doing nothing rashly, nothing carelessly?
+
+By imitating those who play at games. The dice are variable; the pieces are variable. How do I know what will fall out? But it is my business, to manage carefully and dexterously whatever happens. Thus in life too, this is the chief business, to consider and discriminate things; and say, “Externals are not in my power; choice is. Where shall I seek good and evil? Within; in what is my own.” But in what is controlled by others, count nothing good or evil, profitable or hurtful, or any such thing.
+
+What, then, are we to treat these in a careless way?
+
+By no means; for this, on the other hand, would be a perversion of the will, and so contrary to nature. But we are to act with care, because the use of our materials is not indifferent; and at the same time with calmness and tranquillity, because the materials themselves are uncertain. For where a thing is not uncertain, there no one can restrain or compel me. Where I am capable of being restrained or compelled, the acquisition does not depend upon me; nor is it either good or evil. The use of it, indeed, is either good or evil; but that does depend upon me. It is difficult, I own, to blend and unite tranquillity in Edition: current; Page: [105] accepting, and energy in using, the facts of life; but it is not impossible; if it be, it is impossible to be happy. How do we act in a voyage? What is in my power? To choose the pilot, the sailors, the day, the hour. Afterwards comes a storm. What have I to care for? My part is performed. This matter belongs to another, to the pilot. But the ship is sinking; what then have I to do? That which alone I can do; I submit to being drowned, without fear, without clamor, or accusing God; but as one who knows, that what is born, must likewise die. For I am not eternity, but a man; a part of the whole, as an hour is of the day. I must come like an hour, and like an hour must pass away. What signifies it whether by drowning, or by a fever? For, in some way or other, pass I must.
+
+This you may see to be the practice of those who play skilfully at ball. No one contends for the ball itself, as either a good or an evil; but how he may throw and catch it again. Here lies the address, here the art, the nimbleness, the skill; lest I fail to catch it, even when I open my breast for it, while another catches it, whenever I throw it. But if we catch or throw it, in fear and trembling, what kind of play will this be? How shall we keep ourselves steady; or how see the order of the game? One will say, throw: another, do not throw: a third, you have thrown once already. This is a mere quarrel; not a play. Therefore Socrates well understood playing at ball.
+
+“What do you mean?”
+
+When he joked at his trial. “Tell me,” said he, “Anytus, how can you say that I do not believe in a God? What do you think demons are? Are they Edition: current; Page: [106] not either the offspring of the gods, or compounded of gods and men?” — Yes. — “Do you think, then, that one can believe there are mules, and not believe that there are asses?” This was just as if he had been playing at ball. And what was the ball he had to play with? Life, chains, exile, a draught of poison, separation from a wife, and leaving his children orphans. These were what he had to play with; and yet he did play, and threw the ball with address. Thus we should be careful as to the play, but indifferent as to the ball. We are by all means to manage our materials with art; not taking them for the best; but showing our art about them, whatever they may happen to be. Thus a weaver does not make the wool, but employs his art upon what is given him. It is another who gives you food, and property; and may take them away, and your paltry body too. Do you, however, work upon the materials you have received; and then, if you come off unhurt, others, no doubt, who meet you, will congratulate you on your escape. But he who has a clearer insight into such things, will praise and congratulate you if he sees you to have done well; but if you owe your escape to any unbecoming action, he will do the contrary. For where there is a reasonable cause for rejoicing, there is cause likewise for congratulation.
+
+How, then, are some external circumstances said to be according to nature; others contrary to it?
+
+Only when we are viewed as isolated individuals. I will allow that it is natural for the foot, (for instance,) to be clean. But if you take it as a foot, and not as a mere isolated thing, it will be fit that it should walk in the dirt, and tread upon thorns; and sometimes that it should even be cut off, for the good Edition: current; Page: [107] of the whole; otherwise it is no longer a foot. We should reason in some such manner concerning ourselves. Who are you? A man. If then, indeed, you consider yourself isolatedly, it is natural that you should live to old age, should be prosperous and healthy; but if you consider yourself as a man, and as a part of the whole, it will be fit, in view of that whole, that you should at one time be sick; at another, take a voyage, and be exposed to danger; sometimes be in want; and possibly die before your time. Why, then, are you displeased? Do not you know, that otherwise, just as the other ceases to be a foot, so you are no longer a man? For what is a man? A part of a commonwealth; first and chiefly of that which includes both gods and men; and next, of that to which you immediately belong, which is a miniature of the universal city.
+
+What, then, must I, at one time, go before a tribunal; must another, at another time, be scorched by a fever; another be exposed to the sea; another die; another be condemned?
+
+Yes; for it is impossible, in such a body, in such a world, and among such companions, but that some one or other of us must meet with such circumstances. Your business, then, is simply to say what you ought, to order things as the case requires. After this comes some one and says, “I pronounce that you have acted unjustly.” Much good may it do you; I have done my part. You are to look to it, whether you have done yours; for you may as well understand that there is some danger in that quarter also.

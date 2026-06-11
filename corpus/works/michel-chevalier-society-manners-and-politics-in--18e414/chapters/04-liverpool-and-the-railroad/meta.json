@@ -1,0 +1,26 @@
+{
+  "work_slug": "michel-chevalier-society-manners-and-politics-in--18e414",
+  "work_title": "Society, Manners, and Politics in the United States",
+  "chapter_number": 4,
+  "chapter_title": "LIVERPOOL AND THE RAILROAD.",
+  "chapter_slug": "04-liverpool-and-the-railroad",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "264c9b49-f45f-532b-8654-664ad79f7b26",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2648,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/chevalier-society-manners-and-politics-in-the-united-states"
+    }
+  ]
+}

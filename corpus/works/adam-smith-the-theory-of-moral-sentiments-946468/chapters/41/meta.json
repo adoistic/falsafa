@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-the-theory-of-moral-sentiments-946468",
+  "work_title": "The Theory of Moral Sentiments",
+  "chapter_number": 41,
+  "chapter_title": "CHAPTER I.: Of the Influence of Custom and Fashion upon our notions of Beauty and Deformity.",
+  "chapter_slug": "41",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8b378991-1873-5ce3-bebb-838c1843fbd6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2837,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/smith-the-theory-of-moral-sentiments-and-on-the-origins-of-languages-stewart-ed"
+    }
+  ]
+}

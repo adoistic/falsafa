@@ -1,0 +1,26 @@
+{
+  "work_slug": "desiderius-erasmus-the-manual-of-a-christian-knight-c764d7",
+  "work_title": "The Manual of a Christian Knight (Enchiridion)",
+  "chapter_number": 23,
+  "chapter_title": "The twelfth rule.",
+  "chapter_slug": "23-the-twelfth-rule",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "34b2caa4-6ae2-5af2-b5fe-456a2418ff71",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 279,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/erasmus-the-manual-of-a-christian-knight"
+    }
+  ]
+}

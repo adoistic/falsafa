@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-protection-or-free-trade-b67ad4",
+  "work_title": "Protection or Free Trade",
+  "chapter_number": 28,
+  "chapter_title": "Chapter XXVII THE LION IN THE WAY.",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c18271f2-a007-56da-ae92-526d83b377d8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2182,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-protection-or-free-trade"
+    }
+  ]
+}

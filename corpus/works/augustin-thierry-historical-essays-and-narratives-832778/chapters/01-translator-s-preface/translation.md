@@ -1,0 +1,35 @@
+---
+work_id: "83277835-8c0b-5ffb-b13e-e4f8c76712ed"
+work_slug: "augustin-thierry-historical-essays-and-narratives-832778"
+work_title: Historical Essays and Narratives of the Merovingian Era
+author_name: Augustin Thierry
+chapter_number: 1
+chapter_title: TRANSLATOR’S PREFACE.
+chapter_slug: "01-translator-s-preface"
+variant_id: "2cb5ed45-642e-58a5-aa1b-623faa5e6bc5"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 936
+source_url: "https://oll.libertyfund.org/titles/thierry-the-historical-essays-and-narratives-of-the-merovingian-era"
+translator: Online Library of Liberty edition
+---
+
+It may be necessary to say a word respecting the contents of the following pages, and their arrangement. In the original, the Narratives of the Merovingian Era are preceded by a very long and learned dissertation, entitled Considérations sur l’Histoire de France. This it has been thought advisable to omit. It is quite a distinct work from the “Narratives,” although published with them. Very useful to professed students of French history, it could have little interest for any other class of readers.
+
+The Essays originally entitled “Dix Ans d’Etudes Historiques,” are of very great and very general interest; and devoted, as the greater portion is, to the history of our own country, will doubtless meet with proper attention. They are the best introduction to the study of their Author’s great work, “The Conquest of England by the Normans.”
+
+The Autobiographical Preface has been transposed from the Historical Essays, where it first appeared in 1834. The last essay of the Dix Ans d’Etudes Historiques, being the first of the Merovingian Narratives, appears in its proper place. These are the only changes made in the arrangement; and the reasons for them are sufficiantly obvious.
+
+M. Thierry’s general characteristics, together with some account of his works, have been sketched by the writer of an article on the state of historical science in France in the “British and Foreign Review,” from which we borrow the following details:
+
+“M. Thierry is chief of the descriptive school. He is an artist in a very high sense of the word: the art of M. Barante sinks into the feeblest trick, compared with that wider, deeper, well-proportioned work which Thierry raises from materials of the past. Inferior to Barante in style, he is immensely superior in point of construction. He is always animated; often eloquent and picturesque; but his language is not always commendable; it is frequently ambiguous and inelegant. His great power lies in artistic construction. He groups the masses of details with unrivaled ease and effect; he seizes all the points of interest or importance, and makes the others subservient to them in a manner almost unique. In this respect he is a great writer, and a model worthy to be studied.
+
+“Thierry is a model also of unwearied energy and erudition. His life is a lesson to all men of letters: at once grand, thoughtful and affecting. In it may be read the triumph of a great intellect, when fortified by a noble purpose, over the painful ‘ills that flesh is heir to.’ He has prostituted his pen to no court or ministry: he has sacrificed his soul to no luxurious and ignoble idleness. History has been his passion and reward. Blindness, paralysis and helplessness have been the fatal consequences of his too great application: the eyes that read so eagerly, gradually dimmed until they lost all power; the very hand that traced the narrative of his country’s struggles refuses now to Edition: current; Page: [vi] hold a pen. Nothing remains of him but the great heart and intellect, ‘de faire amitié avec les ténèbres,’ as he pathetically says. It is a sad spectacle. The visitor goes expecting to see the animated enthusiastic author of the ‘Norman Conquest;’ and he sees the servant bearing in his arms a helpless creature, who, however, when gently placed in his chair, begins to talk with all the faith and enthusiasm of youth. The spirit-sighted countenance of the ‘old man eloquent,’ warms into a glow as he speaks of his favourite study. You forget, as you hear him talk, that he is so afflicted. He does not forget it, but he does not repine. . . .
+
+“The ‘Narratives of the Merovingian Era,’ is the production of the matured and practised hand of its author: it is essentially a work of art, though important ideas relative to the science of history are implied in it. As a portraiture of the sixth century it is unequaled; it joins the picturesqueness, animation and exciting interest of a novel by Scott, to the minute fidelity of exhaustive erudition. The way in which the various elements of society, the highest and the meanest, are selected and grouped round certain individuals and certain events, so as both to illustrate the characters and the times, reveals the hand of a profound artist. The details of social life, minute yet unostentatious, are brought forward to elucidate the various points in the narrative, not to glitter as a vain display of learning. The couleur locale is so well preserved, that you never for an instant doubt that you are reading of barbarians, and of barbarians corrupted by contact with Roman civilization, and modified by the Christian religion. Owing to the title, and to the want of interest generally felt for the Merovingians, Theirry’s work seems to have had few readers in this country. Had the public been aware that these Narratives were explanatory of the social state of the sixth century—that they gave a vivid picture of the Roman, barbarian and Christian elements in a state of imperfect fusion—that they brought the vigour and wild energy of the Gauls face to face with the last remains of Roman greatness and luxury, kept in imperfect check by Christianity—then, indeed, more attention would have been bestowed upon the work.”
+
+Some portion of this translation has been submitted to M. Thierry, whose approbation and warm encouragement to proceed, have given the translator courage to appear before the public. Fidelity, as strict as the nature of the two languages would admit, has been the translator’s aim; how far that has been achieved remains for others to decide.

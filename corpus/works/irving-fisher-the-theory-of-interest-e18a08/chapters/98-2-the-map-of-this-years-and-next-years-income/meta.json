@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 98,
+  "chapter_title": "§2. The Map of This Year's and Next Year's Income",
+  "chapter_slug": "98-2-the-map-of-this-years-and-next-years-income",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "28e54944-61ba-59dd-8ee4-b45417a239ad",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 692,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+---
+work_id: "3d6fa510-9378-5f7a-a7e2-1fcacb92d834"
+work_slug: "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5"
+work_title: The Ecclesiastical History of the English Nation
+author_name: The Venerable Bede
+chapter_number: 116
+chapter_title: CHAPTER XXVII
+chapter_slug: 116
+variant_id: "deef9eb3-141a-53eb-b124-0952e9aa7bff"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 857
+source_url: "https://oll.libertyfund.org/titles/bede-the-ecclesiastical-history-of-the-english-nation-and-lives-of-saints-and-bishops"
+translator: Online Library of Liberty edition
+---
+
+cuthbert, a man of god, is made bishop; and how he lived and taught whilst still in a monastic life. [ad 685.]
+
+The same year that King Egfrid departed this life, he (as has been said) promoted to the bishopric of the church of Lindisfarne the holy and venerable Cuthbert, who had for many years led a solitary life, in great continence of body and mind, in a very small island, called Farne, distant almost nine miles from that same church, in the ocean. From his very childhood he had always been inflamed with the desire of a religious life; but he took upon him the habit and name of a monk when he was a young man: he first entered into the monastery of Melrose, which is on the bank of the river Tweed, and was then governed by the Abbat Eata, a meek and simple man, who was afterwards made bishop of the church of Hagulstad or Lindisfarne, as has been said above, over which monastery at that time was placed Boisil, a priest of great virtue and of a prophetic spirit. Cuthbert, humbly submitting himself to this man’s direction, from him received both the knowledge of the Holy Scriptures, and example of good works.
+
+After he had departed to our Lord, Cuthbert was placed over that monastery, where he instructed many in regular life, both by the authority of a master, and the example of his own behaviour. Nor did he afford admonitions and an example of a regular life to his monastery alone, but endeavoured to convert the people round about far and near from the life of foolish custom, to the love of heavenly joys; for many profaned the faith which they had received by their wicked actions; and some also, in the time of a mortality, neglecting the sacraments of faith which they had received, had recourse to the false remedies of idolatry, as if they could have put a stop to the plague sent from God, by enchantments, spells, or other secrets of the hellish art. In order to correct the error of both sorts, he often went out of the monastery, sometimes on horseback, but oftener on foot, and repaired to the neighbouring towns, where he preached the way of truth to Edition: current; Page: [215] such as were gone astray; which had been also done by Boisil in his time. It was then the custom of the English people, that when a clerk or priest came into the town, they all, at his command, flocked together to hear the word; willingly heard what was said, and more willingly practised those things that they could hear or understand. But Cuthbert was so skilful an orator, so fond was he of enforcing his subject, and such a brightness appeared in his angelic face, that no man present presumed to conceal from him the most hidden secrets of his heart, but all openly confessed what they had done; because they thought the same guilt could not be concealed from him, and wiped off the guilt of what they had so confessed with worthy fruits of penance, as he commanded. He was wont chiefly to resort to those places, and preach in such villages, as being seated high up amid craggy uncouth mountains, were frightful to others to behold, and whose poverty and barbarity rendered them inaccessible to other teachers; which nevertheless he, having entirely devoted himself to that pious labour, did so industriously apply himself to polish with his doctrine, that when he departed out of his monastery, he would often stay a week, sometimes two or three, and sometimes a whole month, before he returned home, continuing among the mountains to allure that rustic people by his preaching and example to heavenly employments.
+
+This venerable servant of our Lord, having thus spent many years in the monastery of Melrose, and there become conspicuous by many miracles, his most reverend abbat, Eata, removed him to the isle of Lindisfarne, that he might there also, by the authority of a superior and his own example, instruct the brethren in the observance of regular discipline; for the same reverend father then governed that place also as abbat; for, from ancient times, the bishop was wont to reside there with his clergy, and the abbat with his monks, who were likewise under the care of the bishop; because Aidan, who was the first bishop of the place, being himself a monk, brought monks thither, and settled the monastic institution there; as the blessed Father Augustine is known to have done before in Kent, the most reverend Pope Gregory writing to him, as has been said above, to this effect:—“But since, my brother, having been instructed in monastic rules, you must not Edition: current; Page: [216] live apart from your clergy in the church of the English, which has been lately, through the help of God, converted to the faith; you must, therefore, establish that course of life, which was among our ancestors in the primitive church, among whom, none called anything that he possessed his own; but all things were in common to them.”

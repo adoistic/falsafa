@@ -1,0 +1,23 @@
+---
+work_id: "0d91e4fa-7943-5934-852f-9f73834988c6"
+work_slug: "john-ramsay-mcculloch-ed-a-select-collection-of-scarce-an-0d91e4"
+work_title: A Select Collection of Scarce and Valuable Tracts on Money
+author_name: John Ramsay McCulloch (ed.)
+chapter_number: 79
+chapter_title: "V.: Of the comparative riches or wealth of nations."
+chapter_slug: "79-v-of-the-comparative-riches-or-wealth-of-nations"
+variant_id: "9b22aae9-cf5b-52e0-8a28-4209d5a9151c"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 658
+source_url: "https://oll.libertyfund.org/titles/raper-a-select-collection-of-scarce-and-valuable-tracts-on-money"
+translator: Online Library of Liberty edition
+---
+
+16. The comparative riches and strength of nations, are not to be reckoned from the extent of their dominions, or simply from their numbers of people; but rather from the fertility and aptness of the soil, for furnishing useful and necessary products; from the industry of the inhabitants, and their skilfulness in arts; and besides all this, from their having a well-modelled, and well-administered government: For a good government is itself a most valuable treasure, a main source of riches, and of all temporal Edition: current; Page: [364] blessings. The Russian map, takes in a larger extent of country than all Europe; and yet that nation till of late, made no great figure upon the stage of the world. I am inclined to think that the territory of Great Britain, is more valuable, though less extensive, than France; and the English artists upon the whole, take the lead of all the world. The French are much more numerous than we are, and perhaps also more skilful in the arts of war; and their government, for sudden enterprises, is better framed than ours: But the English commonalty are more robust, brave and intrepid when roused; and have from their soil and skill in arts, such great resources and advantages, that if they do but preserve their constitution entire, maintain a public spirit, with union and concord amongst themselves; they may continue their independency upon other nations, to the latest times. But futurity is not ours: Let us, whilst we are, each in his place, act our parts like men, and all will be well.
+
+The stock of a nation in all sorts of productions, natural and artificial, is to be included in the idea of its riches; and more especially its stock of those things that are necessary for the support of life, and for defence against enemies: For as men are circumstanced, this last also is a necessary ingredient. An industrious and skilful nation, having the land well stocked; the houses well furnished; Edition: current; Page: [365] the shops, warehouses, granaries and magazines of all sorts, well filled; may with great propriety be said to be rich: To this estimate, must be also added all the goods in foreign warehouses, that are the property of its merchants. When the riches of a country, are considered under this extensive view; the whole amount of its cash or bullion, cannot make so considerable a part, as people are apt to imagine. We shall consider more particularly hereafter, in what sense, and how far, gold and silver are riches: But we are not to form an idea of the riches of past ages, from the abundance they had of those metals. The Inca’s of Peru were not the richer, for the immense masses of gold they possessed; and its being so greedily eoveted, proved the cause of the loss of their country: Could they have changed their gold into iron, it would have been vastly more serviceable to them; and with it, they might probably have defended their country, against those merciless invaders, that used them so barbarously. We should not yet perhaps, reckon those people so very despicable and poor, because they had but few of the arts amongst them: They were in possession of a goodly country; had plenty of sustenance; of such apparel and buildings, as gave them content: If they had no learning, they yet had good manners, probity, and a regular government; worthy, in many respects, the imitation of the politest Europeans. But we, having tasted the sweet fruits of arts, could not part with them, without feeling the utmost reluctance; without being in a high degree sensible of the calamitous distresses of poverty. It is in the product of arts, that riches chiefly consist; and if we reckon by this standard, the present age is probably richer than any of the past; and our own nation is herein, not inferior to any of its neighbours.

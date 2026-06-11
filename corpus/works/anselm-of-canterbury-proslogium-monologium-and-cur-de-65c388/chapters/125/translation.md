@@ -1,0 +1,43 @@
+---
+work_id: "65c38856-6963-53d0-a517-e894e1b0a111"
+work_slug: "anselm-of-canterbury-proslogium-monologium-and-cur-de-65c388"
+work_title: Proslogium; Monologium; and Cur Deus Homo
+author_name: Anselm of Canterbury
+chapter_number: 125
+chapter_title: CHAPTER V.
+chapter_slug: 125
+variant_id: "0e6f9749-6ccd-524d-a14d-dfd373dd7563"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 913
+source_url: "https://oll.libertyfund.org/titles/deane-proslogium-monologium-an-appendix-in-behalf-of-the-fool-by-gaunilon-and-cur-deus-homo"
+translator: Online Library of Liberty edition
+---
+
+A particular discussion of certain statements of Gaunilon’s. In the first place, he misquoted the argument which he undertook to refute.
+
+The nature of the other objections which you, in behalf of the fool, urge against me it is easy, even for a man of small wisdom, to detect; and I had therefore thought it unnecessary to show this. But since I hear that some readers of these objections think they have some weight against me, I will discuss them briefly.
+
+In the first place, you often repeat that I assert that what is greater than all other beings is in the understanding; and if it is in the understanding, it exists also in reality, for otherwise the being which is greater than all would not be greater than all.
+
+Nowhere in all my writings is such a demonstration found. For the real existence of a being which Edition: current; Page: [162] is said to be greater than all other beings cannot be demonstrated in the same way with the real existence of one that is said to be a being than which a greater cannot be conceived.
+
+If it should be said that a being than which a greater cannot be conceived has no real existence, or that it is possible that it does not exist, or even that it can be conceived not to exist, such an assertion can be easily refuted. For the non-existence of what does not exist is possible, and that whose non-existence is possible can be conceived not to exist. But whatever can be conceived not to exist, if it exists, is not a being than which a greater cannot be conceived; but if it does not exist, it would not, even if it existed, be a being than which a greater cannot be conceived. But it cannot be said that a being than which a greater is inconceivable, if it exists, is not a being than which a greater is inconceivable; or that if it existed, it would not be a being than which a greater is inconceivable.
+
+It is evident, then, that neither is it non-existent, nor is it possible that it does not exist, nor can it be conceived not to exist. For otherwise, if it exists, it is not that which it is said to be in the hypothesis; and if it existed, it would not be what it is said to be in the hypothesis.
+
+But this, it appears, cannot be so easily proved of a being which is said to be greater than all other beings. For it is not so evident that what can be conceived not to exist is not greater than all existing beings, as it is evident that it is not a being than which a greater cannot be conceived. Nor is it so indubitable that if a being greater than all other beings exists, it is no other than the being than which a greater cannot be conceived; or that if it were such a being, Edition: current; Page: [163] some other might not be this being in like manner; as it is certain with regard to a being which is hypothetically posited as one than which a greater cannot be conceived.
+
+For consider: if one should say that there is a being greater than all other beings, and that this being can nevertheless be conceived not to exist; and that a being greater than this, although it does not exist, can be conceived to exist: can it be so clearly inferred in this case that this being is therefore not a being greater than all other existing beings, as it would be most positively affirmed in the other case, that the being under discussion is not, therefore, a being than which a greater cannot be conceived?
+
+For the former conclusion requires another premise than the predication, greater than all other beings. In my argument, on the other hand, there is no need of any other than this very predication, a being than which a greater cannot be conceived.
+
+If the same proof cannot be applied when the being in question is predicated to be greater than all others, which can be applied when it is predicated to be a being than which a greater cannot be conceived, you have unjustly censured me for saying what I did not say; since such a predication differs so greatly from that which I actually made. If, on the other hand, the other argument is valid, you ought not to blame me so for having said what can be proved.
+
+Whether this can be proved, however, he will easily decide who recognises that this being than which a greater cannot be conceived is demonstrable. For by no means can this being than which a greater cannot be conceived be understood as any other than that which alone is greater than all. Hence, just as Edition: current; Page: [164] that than which a greater cannot be conceived is understood, and is in the understanding, and for that reason is asserted to exist in the reality of fact: so what is said to be greater than all other beings is understood and is in the understanding, and therefore it is necessarily inferred that it exists in reality.
+
+You see, then, with how much justice you have compared me with your fool, who, on the sole ground that he understands what is described to him, would affirm that a lost island exists.

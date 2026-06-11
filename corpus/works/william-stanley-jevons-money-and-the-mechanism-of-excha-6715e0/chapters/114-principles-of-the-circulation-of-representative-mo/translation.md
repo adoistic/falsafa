@@ -1,0 +1,25 @@
+---
+work_id: "6715e093-fd20-5bd0-9e37-ce76bee6c429"
+work_slug: "william-stanley-jevons-money-and-the-mechanism-of-excha-6715e0"
+work_title: Money and the Mechanism of Exchange
+author_name: William Stanley Jevons
+chapter_number: 114
+chapter_title: Principles of the Circulation of Representative Money.
+chapter_slug: "114-principles-of-the-circulation-of-representative-mo"
+variant_id: "4d479aaa-e931-5a74-942d-564a0bad5e81"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 531
+source_url: "https://oll.libertyfund.org/titles/jevons-money-and-the-mechanism-of-exchange"
+translator: Online Library of Liberty edition
+---
+
+In the last two sections of Chapter VIII. (pp. 80-85), we found that by analysing the motives of individuals in receiving, holding, or paying away metallic money, we could arrive at certain laws of circulation, which were amply confirmed by experience. It was also pointed out that the same laws might be extended mutatis mutandis, to the mixed circulation of metallic and paper money. Habit is almost as powerful in supporting the use of representative money as of real metallic coins. Persons who have long been accustomed to pay away certain pieces of paper without loss, will continue to regard them as good currency until some rude shock is given to their confidence. This may go so far that a dirty bit of paper, containing a promise to pay a sovereign, will be actually preferred to the beautiful gold coils which it promises. The currency of Scotland is a standing proof of this assertion; and the same may be said of Norway, where, until 1874, no gold at all was in circulation, and notes for one, five, or ten dollars formed the principal part of the currency.
+
+There is one all-important point in which representative differs from metallic money; it will not circulate beyond the boundaries of the district or country where it is legally current or habitually employed. No doubt Bank of England notes are frequently carried abroad by travellers, and are in most places readily exchanged for the money of the locality; but they never circulate, and are treated as bills upon London, forming a convenient mode of remittance. They do not satisfy a debt from this to another country, but rather create it, an English bank-note, in the hands of a Paris banker, representing a claim which he has upon the Bank of England. The only money which can really be exported in payment of debts due to foreign merchants is standard metallic money. Hence paper money has exactly the same capacity for driving out standard money that light or depreciated coins possess.
+
+In the case of inconvertible notes this has always been most obvious. As the quantity of such notes issued progressively increases, as almost always happens, coin must be exported, otherwise the currency would become excessive. But when most of the coin is gone, need of it begins to be felt for making foreign payments, and then the value of the paper falls below that of the coin which it is supposed to correspond to. Many persons begin to hoard the coins for the sake of anticipated profit, and nothing but paper is soon to be found in circulation. This effect of paper in driving coin out of use has been manifested over and over again, as in the time of the assignats of the French Revolution, the suspension of specie payments at the Bank of England between 1797 and 1819, and the late American war. One of the most recent and striking instances is to be found in Italy, where large quantities of beautiful gold and silver coins had been struck in the years 1862 to 1865, but all disappeared very rapidly from circulation as soon as the cours forcé of paper money was proclaimed.

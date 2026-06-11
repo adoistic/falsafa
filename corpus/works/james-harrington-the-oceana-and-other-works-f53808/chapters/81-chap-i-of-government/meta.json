@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 81,
+  "chapter_title": "CHAP. I.: Of GOVERNMENT.",
+  "chapter_slug": "81-chap-i-of-government",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b1d4b31c-82b3-5fcd-85f8-92a0e8f11657",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 423,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

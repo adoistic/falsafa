@@ -1,0 +1,26 @@
+{
+  "work_slug": "dante-alighieri-de-monarchia-a58c66",
+  "work_title": "De Monarchia",
+  "chapter_number": 37,
+  "chapter_title": "CHAPTER V: Argument from the precedence of Levi over Judah.",
+  "chapter_slug": "37",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b349a444-dec1-588b-8324-51abe015f5b5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 287,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/reinhardt-de-monarchia"
+    }
+  ]
+}

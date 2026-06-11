@@ -1,0 +1,26 @@
+{
+  "work_slug": "gaius-institutes-of-roman-law-09683f",
+  "work_title": "Institutes of Roman Law",
+  "chapter_number": 22,
+  "chapter_title": "§ 19.: Literary activity in the domain of Law to the time of Gaius.",
+  "chapter_slug": "22-19-literary-activity-in-the-domain-of-law-to-the-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c2ee8983-d322-5a30-a3bf-65e58f3f6d0a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 224,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/gaius-institutes-of-roman-law"
+    }
+  ]
+}

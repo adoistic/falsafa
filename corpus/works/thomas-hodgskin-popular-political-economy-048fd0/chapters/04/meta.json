@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-hodgskin-popular-political-economy-048fd0",
+  "work_title": "Popular Political Economy",
+  "chapter_number": 4,
+  "chapter_title": "CHAPTER I: MENTAL AND BODILY LABOUR.—PRODUCTIVE LABOUR.",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7359f708-0ee2-5841-9a61-b61560e828a6",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2141,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hodgskin-popular-political-economy-four-lectures-delivered-at-the-london-mechanics-institution"
+    }
+  ]
+}

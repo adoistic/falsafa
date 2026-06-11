@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-the-law-of-intellectual-property-cbbb74",
+  "work_title": "The Law of Intellectual Property",
+  "chapter_number": 6,
+  "chapter_title": "SECTION V.: What Things are Subjects of Property?",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3c20f139-2944-57ff-9f85-f00c5f0793df",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1396,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-the-law-of-intellectual-property-1855"
+    }
+  ]
+}

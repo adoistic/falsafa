@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-harrington-the-oceana-and-other-works-f53808",
+  "work_title": "The Oceana and Other Works",
+  "chapter_number": 142,
+  "chapter_title": "PART I.: For the Civil Part, it is proposed,",
+  "chapter_slug": "142",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2f4cfb4b-6ac1-5340-8fa5-b04d6262ed4d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3525,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/toland-the-oceana-and-other-works"
+    }
+  ]
+}

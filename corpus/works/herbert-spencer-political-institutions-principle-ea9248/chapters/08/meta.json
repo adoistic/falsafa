@@ -1,0 +1,26 @@
+{
+  "work_slug": "herbert-spencer-political-institutions-principle-ea9248",
+  "work_title": "Political Institutions (Principles of Sociology, Part V)",
+  "chapter_number": 8,
+  "chapter_title": "CHAPTER VII.: compound political heads.",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c773eb87-2f2a-5767-b7dd-ae6137289386",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9658,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spencer-political-institutions-being-part-v-of-the-principles-of-sociology"
+    }
+  ]
+}

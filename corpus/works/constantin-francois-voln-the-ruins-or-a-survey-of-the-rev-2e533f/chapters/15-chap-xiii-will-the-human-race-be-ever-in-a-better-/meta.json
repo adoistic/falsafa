@@ -1,0 +1,26 @@
+{
+  "work_slug": "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f",
+  "work_title": "The Ruins, or a Survey of the Revolutions of Empires",
+  "chapter_number": 15,
+  "chapter_title": "CHAP. XIII.: WILL THE HUMAN RACE BE EVER IN A BETTER CONDITION THAN AT PRESENT.",
+  "chapter_slug": "15-chap-xiii-will-the-human-race-be-ever-in-a-better-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "26c176ad-8b58-5eb1-9706-162a239c4b38",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2477,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/volney-the-ruins-or-a-survery-of-the-revolutions-of-empires"
+    }
+  ]
+}

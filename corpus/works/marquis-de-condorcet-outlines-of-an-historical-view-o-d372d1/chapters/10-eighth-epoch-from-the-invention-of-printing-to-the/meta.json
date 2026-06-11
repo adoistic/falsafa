@@ -1,0 +1,26 @@
+{
+  "work_slug": "marquis-de-condorcet-outlines-of-an-historical-view-o-d372d1",
+  "work_title": "Outlines of an Historical View of the Progress of the Human Mind",
+  "chapter_number": 10,
+  "chapter_title": "EIGHTH EPOCH. From the Invention of Printing, to the Period when the Sciences and Philosophy threw off the Yoke of Autho",
+  "chapter_slug": "10-eighth-epoch-from-the-invention-of-printing-to-the",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b9ad9fa-ec99-556d-a82f-e0514d136dd1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8532,
+      "paragraph_count": 85,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/condorcet-outlines-of-an-historical-view-of-the-progress-of-the-human-mind"
+    }
+  ]
+}

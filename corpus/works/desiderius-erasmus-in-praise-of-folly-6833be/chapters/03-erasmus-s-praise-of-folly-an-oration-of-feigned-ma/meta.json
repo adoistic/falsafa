@@ -1,0 +1,26 @@
+{
+  "work_slug": "desiderius-erasmus-in-praise-of-folly-6833be",
+  "work_title": "In Praise of Folly",
+  "chapter_number": 3,
+  "chapter_title": "ERASMUS’s Praise of FOLLY. An oration, of feigned matter, spoken by Folly in her own person.",
+  "chapter_slug": "03-erasmus-s-praise-of-folly-an-oration-of-feigned-ma",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2400a60f-e574-5bca-86dc-9e9ef5fa67b2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 42608,
+      "paragraph_count": 160,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/erasmus-in-praise-of-folly"
+    }
+  ]
+}

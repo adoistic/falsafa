@@ -1,0 +1,26 @@
+{
+  "work_slug": "josiah-tucker-four-tracts-on-political-and-com-61cd0d",
+  "work_title": "Four Tracts on Political and Commercial Subjects",
+  "chapter_number": 8,
+  "chapter_title": "TRACT IV.: THE True Interest of Great-Britain SET FORTH In REGARD to the COLONIES; And the only Means of Living in Peace",
+  "chapter_slug": "08-tract-iv-the-true-interest-of-great-britain-set-fo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5a58c114-ac98-5dfd-a08f-e7a920c8065f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3306,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/tucker-four-tracts-on-political-and-commercial-subjects"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "edwin-cannan-wealth-a-brief-explanation-of-th-1af31c",
+  "work_title": "Wealth: A Brief Explanation of the Causes of Economic Welfare",
+  "chapter_number": 7,
+  "chapter_title": "CHAPTER V: the social order",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d5a5c531-3895-54b2-8e32-b1c4cb7b1c5e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6674,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/cannan-wealth-a-brief-explanation-of-the-causes-of-economic-wealth"
+    }
+  ]
+}

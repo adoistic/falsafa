@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 70,
+  "chapter_title": "APPENDIX L RICARDO'S DOCTRINE AS TO TAXES AND IMPROVEMENTS IN AGRICULTURE.",
+  "chapter_slug": "70-appendix-l-ricardos-doctrine-as-to-taxes-and-impro",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d6fc9745-e0c9-53a6-97e2-56c523adef03",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 70540,
+      "paragraph_count": 753,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}

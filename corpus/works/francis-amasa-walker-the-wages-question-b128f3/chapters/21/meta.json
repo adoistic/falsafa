@@ -1,0 +1,26 @@
+{
+  "work_slug": "francis-amasa-walker-the-wages-question-b128f3",
+  "work_title": "The Wages Question",
+  "chapter_number": 21,
+  "chapter_title": "Part II, Chapter XVI THE TRUE WAGES QUESTION.",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8075486c-d072-5a3a-9121-8fe1892f1129",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4005,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/walker-the-wages-question-a-treatise-on-wages-and-the-wages-class"
+    }
+  ]
+}

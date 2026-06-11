@@ -1,0 +1,26 @@
+{
+  "work_slug": "lysander-spooner-an-essay-on-the-trial-by-jury-8ca341",
+  "work_title": "An Essay on the Trial by Jury",
+  "chapter_number": 26,
+  "chapter_title": "TAXATION.↩",
+  "chapter_slug": "26-taxation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3601e4ba-581a-542e-964a-cdaa2e694588",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1034,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/spooner-an-essay-on-the-trial-by-jury-1852"
+    }
+  ]
+}

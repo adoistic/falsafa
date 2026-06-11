@@ -1,0 +1,26 @@
+{
+  "work_slug": "richard-price-observations-on-the-nature-of-ci-b35d14",
+  "work_title": "Observations on the Nature of Civil Liberty",
+  "chapter_number": 6,
+  "chapter_title": "SECT. II.: Of Civil Liberty and the Principles of Government.",
+  "chapter_slug": "06-sect-ii-of-civil-liberty-and-the-principles-of-gov",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "257228b6-b9f7-54e5-954c-317d7875db74",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2866,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/price-observations-on-the-nature-of-civil-liberty"
+    }
+  ]
+}

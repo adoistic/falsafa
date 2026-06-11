@@ -1,0 +1,26 @@
+{
+  "work_slug": "marquis-de-condorcet-outlines-of-an-historical-view-o-d372d1",
+  "work_title": "Outlines of an Historical View of the Progress of the Human Mind",
+  "chapter_number": 11,
+  "chapter_title": "NINTH EPOCH. From the Time of Descartes, to the Formation of the French Republic.",
+  "chapter_slug": "11-ninth-epoch-from-the-time-of-descartes-to-the-form",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bde2022e-1502-561c-b2ff-db672a5526b8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 16963,
+      "paragraph_count": 155,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/condorcet-outlines-of-an-historical-view-of-the-progress-of-the-human-mind"
+    }
+  ]
+}

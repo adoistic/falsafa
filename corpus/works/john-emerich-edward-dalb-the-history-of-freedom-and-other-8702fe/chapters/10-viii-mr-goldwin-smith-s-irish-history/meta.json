@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-emerich-edward-dalb-the-history-of-freedom-and-other-8702fe",
+  "work_title": "The History of Freedom and Other Essays",
+  "chapter_number": 10,
+  "chapter_title": "VIII: MR. GOLDWIN SMITH’S IRISH HISTORY",
+  "chapter_slug": "10-viii-mr-goldwin-smith-s-irish-history",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7501d983-6d10-5286-833d-c34cbb88f86d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13414,
+      "paragraph_count": 68,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/acton-the-history-of-freedom-and-other-essays"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "p-f593bc",
+    "offset": 0,
+    "text": "Let ACIB be the quadrant of a circle; from B draw BE parallel to AC; about any point in the line BE describe a circle BOES, touching AB at B and intersecting the circumference of the quadrant at I. Join the points C and B; draw the line CI, prolonging it to S. Then, I say, the line CI is always less than CO. Draw the line AI touching the circle BOE. Then,Edition: NatlEd; Page: [261] if the line DI be drawn, it will be equal to DB; but, since DB touches the quadrant, DI will also be tangent to it and will be at right angles to AI; thus AI touches the circle BOE at I. And since the angle AIC is greater than the angle ABC, subtending as it does a larger arc, it follows that the angle SIN is also greater than the angle ABC. Wherefore the arc IES is greater than the arc BO, and the line CS, being nearer the center, is longer than CB. Consequently CO is greater than CI, since SC:CB=OC:CI."
+  },
+  {
+    "id": "p-d4d8af",
+    "offset": 897,
+    "text": "This result would be all the more marked if, as in the second figure, the arc BIC were less than a quadrant. For the perpendicular DB would then cut the circle CIB; and so also would Edition: current; Page: [237] DI which is equal to BD; the angle DIA would be obtuse and therefore the line AIN would cut the circle BIE. Since the angle ABC is less than the angle AIC, which is equal to SIN, and still less than the angle which the tangent at I would make with the line SI, it follows that the arc SEI is far greater than the arc BO; whence, etc."
+  },
+  {
+    "id": "p-070003",
+    "offset": 1445,
+    "text": "q. e. d."
+  }
+]

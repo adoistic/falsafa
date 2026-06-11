@@ -1,0 +1,26 @@
+{
+  "work_slug": "robert-franklin-hoxie-trade-unionism-in-the-united-sta-abf08c",
+  "work_title": "Trade Unionism in the United States",
+  "chapter_number": 1,
+  "chapter_title": "Robert F. Hoxie, “Trade Unionism in the United States: General Character and Types” Journal of Political Economy, vol. 2",
+  "chapter_slug": "01-robert-f-hoxie-trade-unionism-in-the-united-states",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9756df8-cc5a-53b8-a55e-8f08eaa6c8cd",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5210,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/hoxie-trade-unionism-in-the-united-states-general-character-and-types"
+    }
+  ]
+}

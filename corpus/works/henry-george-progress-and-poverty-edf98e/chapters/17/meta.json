@@ -1,0 +1,26 @@
+{
+  "work_slug": "henry-george-progress-and-poverty-edf98e",
+  "work_title": "Progress and Poverty",
+  "chapter_number": 17,
+  "chapter_title": "Chapter III Of Interest and the Cause of Interest",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cc0378c3-8fd6-5adf-8eef-ad92623549db",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5435,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/george-progress-and-poverty"
+    }
+  ]
+}

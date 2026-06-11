@@ -1,0 +1,43 @@
+---
+work_id: "e4210a4a-f107-56e4-9d0c-e90e8ca0dccf"
+work_slug: "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a"
+work_title: "Magna Carta: A Commentary on the Great Charter of King John"
+author_name: William Sharp McKechnie
+chapter_number: 220
+chapter_title: CHAPTER FIFTY–NINE.
+chapter_slug: 220
+variant_id: "238fc54d-cfd3-5adb-b99f-a875825be736"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1272
+source_url: "https://oll.libertyfund.org/titles/mckechnie-magna-carta-a-commentary"
+translator: Online Library of Liberty edition
+---
+
+Nos faciemus Alexandro regi Scottorum de sororibus suis, et obsidibus reddendis, et libertatibus suis, et jure suo, secundum formam in qua faciemus aliis baronibus nostris Anglie, nisi aliter esse debeat per cartas quas habemus de Willelmo patre ipsius, quondam rege Scottorum; et hoc erit per judicium parium suorum in curia nostra.
+
+We will do towards Alexander, King of Scots, concerning the return of his sisters and his hostages, and concerning his franchises, and his right, in the same manner as we shall do towards our other barons of England, unless it ought to be otherwise according to the charters which we hold from William his father, formerly King of Scots; and this shall be according to the judgment of his peers in our court.
+
+The barons welcomed allies whether from Wales or Scotland; and this chapter was dictated by a desire to conciliate Alexander. John was forced to promise to restore to the King of Scots his sisters and other hostages, together with his franchises and his “right.”
+
+Opinions have been, and still are, sharply divided as to whether, or in what degree, Scotland was subject to feudal overlordship. David I. and his successors, Kings of Scotland, had been wont to do fealty and homage to the Kings of England; but this fact has received different interpretations. Such homage, it is argued, was performed in respect of certain English baronies which happened to belong by hereditary right to the Kings of Scotland, Edition: current; Page: [460] namely, the earldom of Huntingdon, and the counties of Northumberland, Cumberland, and Westmoreland. The terms of homage did not indicate for what fiefs it was sworn—whether for the English earldoms alone, or for the country north of Tweed as well.
+
+The position of the Kings of Scots remained ambiguous, until William the Lion was placed at a terrible disadvantage by his capture at Alnwick in 1174. To gain release, he ratified the Treaty of Falaise on 8th December, of that year, by which he agreed to hold his territories as fiefs of the English Crown. All his tenants in Scotland were to take oath to Henry; while hostages were surrendered, along with the castles of Berwick, Roxburgh, Jedburgh, Edinburgh, and Stirling.
+
+Henry’s diplomacy was undone by his successor. Richard, preparing for his crusade of 1190, sold recklessly every right that would fetch a price: William bought back the independence of his kingdom; but this restoration of the relations that prevailed previous to 1174, involved a restoration of the old ambiguities. When Richard died, William despatched ambassadors to England, pressing claims upon the northern counties, promising to support John’s title in return for their admission, and adding threats. John avoided committing himself until his position in England was assured; thereafter he commanded William to do homage unconditionally. The Scots King disregarded the first summons, but yielded to a second, yet “reserving always his own right.” The saving clause left everything vague as before.
+
+In April, 1209, the King of Scots incurred John’s displeasure. William’s only son, Alexander, was demanded as a hostage, or alternatively three border castles must be delivered up. After a refusal, the old King gave in on Edition: current; Page: [461] 7th August, 1209. Alexander did homage on behalf of his father “for the aforesaid castles and other lands which he held,” and found sureties for the payment of 15,000 marks. William’s daughters, Margaret and Isabel, became wards of John, who had the right to bestow them in marriage. There seems to have been an understanding that one of them should wed John’s eldest son. Margaret and Isabel, though virtually prisoners in Corfe Castle, were honourably treated there. The Close Rolls contain orders for supplying them with articles of comfort and luxury. Thus on 6th July, 1213, John instructed the Mayor of Winchester to despatch in haste, for the use of his niece Eleanor and of the two Scots princesses, robes of dark green (tunics and super–tunics) with capes of cambric and fur of miniver, together with twenty–three yards of good linen cloth, with light shoes for summer wear, “and the Mayor is to come himself with all the above articles to Corfe, there to receive the money for the cost of the same.”
+
+Meanwhile, events in Scotland had favoured English pretensions. In 1212, Cuthred, a claimant for the Scottish throne, endeavoured to dethrone King William. English succour was asked and paid for by a treaty sealed at Norham on 7th February, 1212, by which William granted to John the right to marry the young Alexander, then fourteen years of age, “sicut hominem suum ligium,” to whomsoever he would, at any time within the next six years, but always “without disparagement.” William pledged himself and his son to keep faith and allegiance to John’s son, Henry, “as their liege lord” against all mortals. William had saved his Crown, but Scotland was sinking into the position Edition: current; Page: [462] of a vassal state. On 28th October, 1213, Innocent III. ordered the King of Scotland and his son to show fealty and devotion to King John.
+
+William the Lion died at Stirling on 4th December, 1214, and Alexander’s peaceful succession was facilitated by the knowledge that he had the support of John. Such was the position of affairs when John was brought to bay at Runnymede. The barons were willing to bid for the alliance of Alexander; yet it was unnecessary to bid high. John was made to promise to restore Alexander’s sisters and other hostages unconditionally, but words were used which committed him on none of the disputed points. Franchises and “right” were to be restored only in so far as accorded with William’s “charters,” as interpreted by the judgment of the English barons in the court of the English King.
+
+The allusion in the text to the Scottish King as one among “our other barons of England” need not be pressed against Alexander, any more than similar expressions should be pressed against John, whose position as Duke of Normandy and Aquitaine in no way made England a fief of the French Crown or prevented him becoming a vassal of Rome. In questions affecting his feudal position in France, John’s peers were the dukes and counts of that country; and similarly those who had a right to sit in judgment as Alexander’s peers over his claims to English fiefs were the English earls and barons. Such a tribunal was not likely to give decisions favourable to Scots pretensions, at the expense of England.
+
+Alexander, though no party to the treaty at Runnymede, Edition: current; Page: [463] was willing to profit by it: on 7th July, 1215, he despatched the Bishop of St. Andrews and five laymen to John “concerning our business which we have against you to be transacted in your court.” Nothing came of this; and Alexander invaded England in order to push his claims. John swore his usual oath, “by God’s teeth,” that he would “chase the little red–haired fox–cub from his hiding–holes.”
+
+By the treaty of Lambeth (12th September, 1217), Louis and Henry were each to send a copy of the peace to Alexander that he might be included in its terms on his restoring castles, lands, and prisoners, taken by him in the war. On 23rd September, they joined in urging him to restore Carlisle, and Alexander, anxious to preserve his English honour of Huntingdon, was constrained to yield. The deeper question at issue between England and Scotland was still unsolved when the relations between the two countries entered on a new phase, as a consequence of the attempts at annexation made by Edward I., “the hammer of the Scots.”

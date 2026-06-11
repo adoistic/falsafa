@@ -1,0 +1,26 @@
+{
+  "work_slug": "the-levellers-puritanism-and-liberty-the-army--c34f2d",
+  "work_title": "Puritanism and Liberty: The Army Debates (1647–9)",
+  "chapter_number": 30,
+  "chapter_title": "The National and Congregational Church-covenant, both lawful, or both unlawful * * *",
+  "chapter_slug": "30-the-national-and-congregational-church-covenant-bo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d3f39626-5a4a-5c80-ac85-fc01e65fb896",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 234,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/lindsay-puritanism-and-liberty-being-the-army-debates-1647-9"
+    }
+  ]
+}

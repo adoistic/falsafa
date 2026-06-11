@@ -1,0 +1,26 @@
+{
+  "work_slug": "irving-fisher-the-theory-of-interest-e18a08",
+  "work_title": "The Theory of Interest",
+  "chapter_number": 173,
+  "chapter_title": "§4. Examples of Influence of Composition of Income",
+  "chapter_slug": "173-4-examples-of-influence-of-composition-of-income",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "56aceef1-822c-54b4-9df7-1dcc0f43f90a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 149,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/fisher-the-theory-of-interest"
+    }
+  ]
+}

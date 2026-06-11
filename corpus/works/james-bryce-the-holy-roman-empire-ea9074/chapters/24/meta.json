@@ -1,0 +1,26 @@
+{
+  "work_slug": "james-bryce-the-holy-roman-empire-ea9074",
+  "work_title": "The Holy Roman Empire",
+  "chapter_number": 24,
+  "chapter_title": "CHAPTER XXII: SUMMARY AND REFLECTIONS",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "48f27160-b691-5fc3-8f10-222333ec1f4e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8817,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/bryce-the-holy-roman-empire"
+    }
+  ]
+}

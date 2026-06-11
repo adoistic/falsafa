@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-the-method-meditations-and-philo-68e0bb",
+  "work_title": "The Method, Meditations, and Philosophy of Descartes",
+  "chapter_number": 21,
+  "chapter_title": "to the very sage and illustrious the DEAN AND DOCTORS OF THE SACRED FACULTY OF THEOLOGY OF PARIS.",
+  "chapter_slug": "21-to-the-very-sage-and-illustrious-the-dean-and-doct",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c0098ee-ee17-5e5a-9c77-576022efe17b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1771,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/descartes-the-method-meditations-and-philosophy-of-descartes"
+    }
+  ]
+}

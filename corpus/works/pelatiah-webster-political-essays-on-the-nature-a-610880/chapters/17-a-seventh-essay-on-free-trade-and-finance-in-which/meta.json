@@ -1,0 +1,26 @@
+{
+  "work_slug": "pelatiah-webster-political-essays-on-the-nature-a-610880",
+  "work_title": "Political Essays on the Nature and Operation of Money",
+  "chapter_number": 17,
+  "chapter_title": "A SEVENTH ESSAY ON Free Trade and Finance; In which the Expediency of Funding the Public Securities; Striking further Su",
+  "chapter_slug": "17-a-seventh-essay-on-free-trade-and-finance-in-which",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5682c411-efc1-5446-b85e-2e5cb824ce95",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13267,
+      "paragraph_count": 152,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/webster-political-essays-on-the-nature-and-operation-of-money"
+    }
+  ]
+}

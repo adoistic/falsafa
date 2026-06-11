@@ -1,0 +1,26 @@
+{
+  "work_slug": "alfred-marshall-principles-of-economics-082b5b",
+  "work_title": "Principles of Economics",
+  "chapter_number": 55,
+  "chapter_title": "BOOK VI, CHAPTER X: LAND TENURE.",
+  "chapter_slug": "55",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3214ce64-6610-5056-8519-c1c1bafeec9e",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6133,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://oll.libertyfund.org/titles/marshall-principles-of-economics-8th-ed"
+    }
+  ]
+}
