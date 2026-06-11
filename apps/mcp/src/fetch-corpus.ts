@@ -25,10 +25,10 @@ import { Readable } from "node:stream";
 import { pipeline } from "node:stream/promises";
 
 export const CORPUS_RELEASE = {
-  tag: "corpus-2026-06-11b",
+  tag: "corpus-2026-06-11c",
   asset: "falsafa-corpus.tar.gz",
-  sha256: "b5501638e5831451506da8d998e6cc74abd9968606cb3671ff87209ac3e0c425",
-  works: 945,
+  sha256: "180f42ba7d2a3a71288afeca168c864581eda4bd148900cbc2468a157a0166b8",
+  works: 949,
 };
 
 const RELEASE_URL = `https://github.com/adoistic/falsafa/releases/download/${CORPUS_RELEASE.tag}/${CORPUS_RELEASE.asset}`;
