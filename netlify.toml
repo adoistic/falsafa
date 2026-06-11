@@ -1,0 +1,13 @@
+# Netlify serves the prebuilt static site that GitHub Actions produces
+# (.github/workflows/deploy-netlify.yml). Netlify itself does not build:
+# the corpus is large and the build is heavy, so it runs in CI and only the
+# finished dist is uploaded here. Astro emits directory-format pages
+# (foo/index.html), which Netlify serves at clean URLs without extra rules.
+[build]
+  publish = "apps/site/dist"
+
+[[headers]]
+  for = "/pagefind/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+    Cache-Control = "public, max-age=86400"
