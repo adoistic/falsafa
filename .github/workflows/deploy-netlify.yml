@@ -25,7 +25,7 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -55,7 +55,6 @@ jobs:
           npx -y netlify-cli@17 deploy \
             --dir=dist \
             --prod \
-            --no-build \
             --message "GHA build ${GITHUB_SHA::7}" \
             --site "$NETLIFY_SITE_ID" \
             --auth "$NETLIFY_AUTH_TOKEN"
