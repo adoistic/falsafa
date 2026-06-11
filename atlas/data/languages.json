@@ -1,0 +1,102 @@
+[
+  {
+    "id": "greek",
+    "name": "Greek",
+    "endonym": "Ἑλληνική",
+    "script": "greek",
+    "dir": "ltr",
+    "bcp47": "grc",
+    "hue": "#3d6b9e",
+    "note": "The language most of this atlas flows out of. Philosophy, medicine, mathematics and astronomy were composed in it between the 5th century BCE and the 3rd century CE, then carried east before they were carried west."
+  },
+  {
+    "id": "sanskrit",
+    "name": "Sanskrit",
+    "endonym": "संस्कृतम्",
+    "script": "devanagari",
+    "bcp47": "sa",
+    "dir": "ltr",
+    "hue": "#a34a2a",
+    "note": "The second great source language of the atlas. Indian astronomy and story literature entered the Islamic world through it, decades before most of the Greek corpus did."
+  },
+  {
+    "id": "middle-persian",
+    "name": "Middle Persian",
+    "endonym": "Pārsīg",
+    "script": "pahlavi",
+    "bcp47": "pal",
+    "dir": "rtl",
+    "hue": "#2e7d72",
+    "note": "The court language of Sasanian Iran and the bridge between India and the Arabic world. Almost everything written in it is lost; its translations survive through their own descendants."
+  },
+  {
+    "id": "syriac",
+    "name": "Syriac",
+    "endonym": "ܣܘܪܝܝܐ",
+    "script": "syriac",
+    "bcp47": "syc",
+    "dir": "rtl",
+    "hue": "#74682a",
+    "note": "The workshop language of the eastern churches. Syriac-speaking Christian physicians and monks made the first translations of Greek science, and the 9th-century Arabic translators often worked through Syriac rather than directly from Greek."
+  },
+  {
+    "id": "arabic",
+    "name": "Arabic",
+    "endonym": "العربية",
+    "script": "arabic",
+    "bcp47": "ar",
+    "dir": "rtl",
+    "hue": "#1f6b4a",
+    "note": "The center of gravity. For about three centuries from the founding of Baghdad, Arabic absorbed Greek, Syriac, Sanskrit and Persian learning, reworked it, and became the language Europe translated science out of."
+  },
+  {
+    "id": "hebrew",
+    "name": "Hebrew",
+    "endonym": "עברית",
+    "script": "hebrew",
+    "bcp47": "he",
+    "dir": "rtl",
+    "hue": "#8a6420",
+    "note": "Jewish translators in Iberia, Provence and Italy carried Arabic philosophy and medicine into Hebrew, and sometimes onward into Latin. Several Arabic works now survive in Hebrew better than in Arabic."
+  },
+  {
+    "id": "latin",
+    "name": "Latin",
+    "endonym": "Latina",
+    "script": "latin",
+    "bcp47": "la",
+    "dir": "ltr",
+    "hue": "#7d2f35",
+    "note": "The destination language of the 12th-century translation movement. Toledo, Sicily and Monte Cassino turned Arabic learning into the curriculum of the new European universities."
+  },
+  {
+    "id": "castilian",
+    "name": "Castilian",
+    "endonym": "Castellano",
+    "script": "latin",
+    "bcp47": "osp",
+    "dir": "ltr",
+    "hue": "#b06c28",
+    "note": "One of the first European vernaculars to translate directly from Arabic, at the court of Alfonso X of Castile and in the decades before his reign."
+  },
+  {
+    "id": "dutch",
+    "name": "Dutch",
+    "endonym": "Nederlands",
+    "script": "latin",
+    "bcp47": "nl",
+    "dir": "ltr",
+    "hue": "#56683b",
+    "note": "One crossing in this atlas, and a disputed one: the anonymous 1672 translation of Hayy ibn Yaqzan associated with Spinoza's circle in Amsterdam."
+  },
+  {
+    "id": "english",
+    "name": "English",
+    "endonym": "English",
+    "script": "latin",
+    "bcp47": "en",
+    "dir": "ltr",
+    "hue": "#4a5468",
+    "note": "A late arrival. English readers met the Arabic philosophical tradition through 17th and 18th century Oxford and London, where this atlas currently ends."
+  }
+]

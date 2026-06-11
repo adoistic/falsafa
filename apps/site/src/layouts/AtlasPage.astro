@@ -1,0 +1,34 @@
+---
+/**
+ * Layout for the transmission atlas (ported from the Naql project).
+ * Wraps Base with the atlas token scope, optional JSON-LD, and the
+ * markdown-sibling link the atlas pages advertise to machine readers.
+ */
+import Base from "./Base.astro";
+import "../styles/atlas.css";
+
+interface Props {
+  title: string;
+  description: string;
+  /** Path of the markdown sibling of this page, if it has one. */
+  markdown?: string;
+  /** JSON-LD payload, rendered as-is. */
+  jsonLd?: Record<string, unknown>;
+}
+
+const { title, description, markdown, jsonLd } = Astro.props;
+---
+
+<Base title={title} description={description} surface="reader">
+  <Fragment slot="head">
+    {markdown && (
+      <link rel="alternate" type="text/markdown" href={markdown} title="Markdown version" />
+    )}
+    {jsonLd && (
+      <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+    )}
+  </Fragment>
+  <div class="atlas-scope">
+    <slot />
+  </div>
+</Base>

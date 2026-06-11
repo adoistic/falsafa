@@ -1,0 +1,211 @@
+---
+import AtlasPage from '../../layouts/AtlasPage.astro';
+import WorkCard from '../../components/atlas/WorkCard.astro';
+import ConfidenceMark from '../../components/atlas/ConfidenceMark.astro';
+import { stats, works } from '../../lib/atlas/data.ts';
+
+const s = stats();
+const centuries = Math.round((s.latest - s.earliestComposed) / 100);
+const sorted = [...works].sort((a, b) => a.composed.from - b.composed.from);
+
+const description =
+  'An atlas of how books crossed languages: who carried each classical text from Greek, Sanskrit, Arabic and Syriac into the languages that kept it alive, with evidence for every link. The historical case for Falsafa.';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: 'Naql, the Falsafa transmission atlas',
+  description,
+  license: 'https://creativecommons.org/licenses/by/4.0/',
+};
+---
+
+<AtlasPage title="Atlas" description={description} jsonLd={jsonLd}>
+  <div class="wrap">
+    <header class="hero">
+      <p class="tag tag-line rise">The atlas of carried books</p>
+      <h1 class="rise rise-1">Every classical text that survives was&nbsp;carried.</h1>
+      <p class="lede rise rise-2">
+        Across {centuries} centuries, books crossed from Greek and Sanskrit into Syriac, Arabic,
+        Hebrew, Latin and Castilian. Each crossing was a decision by a person with a name. This
+        atlas maps who moved which book, where, when, and on what evidence; the companion book,
+        <a class="link" href="/book/">Carried Across</a>, makes the argument, and Falsafa's
+        whole design follows from it.
+      </p>
+      <dl class="stats rise rise-3">
+        <div><dt>Works</dt><dd>{s.works}</dd></div>
+        <div><dt>Crossings</dt><dd>{s.transmissions}</dd></div>
+        <div><dt>Carriers</dt><dd>{s.people}</dd></div>
+        <div><dt>Languages</dt><dd>{s.languages}</dd></div>
+        <div><dt>Places</dt><dd>{s.places}</dd></div>
+        <div><dt>Sources</dt><dd>{s.sources}</dd></div>
+      </dl>
+    </header>
+
+    <section class="block">
+      <p class="tag tag-line">The chains</p>
+      <div class="grid">
+        {sorted.map((work) => <WorkCard work={work} />)}
+      </div>
+      <p class="more">
+        Or follow the people: <a class="link" href="/atlas/people/">the carriers</a>, the
+        <a class="link" href="/atlas/places/">cities</a>, the
+        <a class="link" href="/atlas/languages/">languages</a>, and the whole relay on
+        <a class="link" href="/atlas/timeline/">one timeline</a>.
+      </p>
+    </section>
+
+    <section class="block">
+      <p class="tag tag-line">The grades</p>
+      <div class="cols">
+        <div class="prose">
+          <p>
+            In hadith scholarship a report is only as strong as its isnad, the chain of named
+            people who carried it. The atlas borrows that standard: every link names its
+            carriers and cites the scholarship in
+            <a href="/atlas/sources/">the bibliography</a>, and every link carries a grade.
+            Where the record is thin, the atlas says so instead of smoothing it over. The
+            method, and what the checking changed, is on
+            <a href="/atlas/about/">the about page</a>; the data model is on
+            <a href="/atlas/ontology/">the ontology page</a>.
+          </p>
+        </div>
+        <ul class="grades">
+          <li>
+            <ConfidenceMark confidence="attested" />
+            <p>Named in the medieval record itself, or settled in modern scholarship.</p>
+          </li>
+          <li>
+            <ConfidenceMark confidence="probable" />
+            <p>The standard scholarly view, with real uncertainty in actor, place or date.</p>
+          </li>
+          <li>
+            <ConfidenceMark confidence="disputed" />
+            <p>Scholars disagree. The disagreement is part of the record, so it is recorded.</p>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="block">
+      <p class="tag tag-line">For machine readers</p>
+      <div class="prose">
+        <p>
+          The dataset is open (CC BY 4.0) and machine-legible: every work, carrier and place
+          page has a markdown sibling (append <code>.md</code> to the URL), and the full graph
+          ships at <a href="/atlas/graph.json">/atlas/graph.json</a>. The same discipline runs
+          the rest of Falsafa; see <a href="/engine/">the engine room</a>.
+        </p>
+      </div>
+    </section>
+  </div>
+</AtlasPage>
+
+<style>
+  .wrap {
+    max-width: 72rem;
+    margin-inline: auto;
+    padding-inline: clamp(1rem, 4vw, 2.5rem);
+  }
+
+  .hero {
+    padding-block: clamp(3rem, 8vw, 5rem) clamp(2rem, 5vw, 3.5rem);
+    max-width: 46rem;
+  }
+
+  .hero h1 {
+    font-size: var(--text-display);
+    margin: 1.2rem 0 1.6rem;
+  }
+
+  .lede {
+    font-size: 1.22rem;
+    line-height: 1.55;
+    margin-block: 0.9em;
+    max-width: 40em;
+  }
+
+  .stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: clamp(1.4rem, 4vw, 3rem);
+    margin-top: 2.2rem;
+    border-top: 1px solid var(--color-hairline);
+    padding-top: 1.4rem;
+  }
+
+  .stats div {
+    display: grid;
+    gap: 0.1rem;
+  }
+
+  .stats dt {
+    font-family: var(--font-mono);
+    font-size: 0.66rem;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+  }
+
+  .stats dd {
+    margin: 0;
+    font-size: 1.7rem;
+    font-weight: 600;
+    font-feature-settings: 'tnum';
+  }
+
+  .block {
+    padding-block: clamp(1.8rem, 4vw, 3rem);
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr));
+    gap: 1.1rem;
+    margin-top: 1.6rem;
+  }
+
+  .more {
+    margin-top: 1.6rem;
+    font-size: 1.05rem;
+  }
+
+  .cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(1.5rem, 4vw, 4rem);
+    margin-top: 1.6rem;
+    align-items: start;
+  }
+
+  @media (max-width: 760px) {
+    .cols {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .grades {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 1.1rem;
+  }
+
+  .grades li {
+    border: 1px solid var(--color-hairline);
+    border-radius: 4px;
+    background: var(--color-paper-raised);
+    padding: 1rem 1.2rem;
+  }
+
+  .grades p {
+    margin: 0.45rem 0 0;
+    font-size: 0.98rem;
+    color: var(--color-ink-muted);
+  }
+
+  .block .prose {
+    margin-top: 1.4rem;
+  }
+</style>

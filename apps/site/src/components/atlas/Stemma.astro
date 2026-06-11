@@ -1,0 +1,127 @@
+---
+import type { Work } from '../../lib/atlas/schema.ts';
+import { languageById, personById, placeById, stemmaOf } from '../../lib/atlas/data.ts';
+import { formatSpan } from '../../lib/atlas/format.ts';
+import StemmaBranch from './StemmaBranch.astro';
+
+interface Props {
+  work: Work;
+}
+
+const { work } = Astro.props;
+const roots = stemmaOf(work.id);
+const original = languageById.get(work.original.lang)!;
+const author = work.author ? personById.get(work.author) : undefined;
+const composedAt = work.composed.place ? placeById.get(work.composed.place) : undefined;
+
+const attributionNote: Record<string, string> = {
+  traditional: 'traditional attribution',
+  anonymous: 'anonymous',
+  misattributed: 'misattributed',
+};
+---
+
+<section class="stemma" aria-label={`Transmission chain of ${work.title}`}>
+  <div class="origin">
+    <span class="dot" style={`--hue: ${original.hue}`} aria-hidden="true"></span>
+    <div class="card">
+      <div class="head">
+        <span class="when mono">{formatSpan(work.composed)}</span>
+        <a class="link-quiet lang" href={`/atlas/languages/${original.id}/`}>{original.name}</a>
+        <span class="tag">original</span>
+      </div>
+      <p class="byline">
+        {author && (
+          <>
+            <span class="verb">written by</span>
+            <a class="link" href={`/atlas/people/${author.id}/`}>{author.name}</a>
+          </>
+        )}
+        {!author && work.attribution && <span class="verb">{attributionNote[work.attribution]}</span>}
+        {composedAt && (
+          <>
+            <span class="sep" aria-hidden="true">·</span>
+            <span class="verb">in</span>
+            <a class="link" href={`/atlas/places/${composedAt.id}/`}>{composedAt.name}</a>
+          </>
+        )}
+      </p>
+    </div>
+  </div>
+  <StemmaBranch nodes={roots} fork={roots.length > 1} />
+</section>
+
+<style>
+  .origin {
+    position: relative;
+    padding-inline-start: 2.2rem;
+    padding-block-end: 2.4rem;
+  }
+
+  .origin::before {
+    content: '';
+    position: absolute;
+    inset-inline-start: 0.48rem;
+    top: 1.3rem;
+    bottom: 0;
+    width: 1.5px;
+    background: var(--color-hairline);
+  }
+
+  .dot {
+    position: absolute;
+    inset-inline-start: -0.12rem;
+    top: 0.18rem;
+    width: 1.3rem;
+    height: 1.3rem;
+    border-radius: 50%;
+    background: var(--color-paper);
+    border: 4px solid var(--hue);
+    box-shadow: 0 0 0 3px var(--color-paper);
+  }
+
+  .card {
+    display: grid;
+    gap: 0.3rem;
+  }
+
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.9rem;
+    flex-wrap: wrap;
+  }
+
+  .when {
+    font-size: 0.78rem;
+    font-weight: 500;
+  }
+
+  .lang {
+    font-weight: 600;
+    font-size: 1.02rem;
+  }
+
+  .lang:hover {
+    color: var(--color-lapis);
+  }
+
+  .head .tag {
+    color: var(--color-gold);
+  }
+
+  .byline {
+    margin: 0;
+    font-size: 1.02rem;
+  }
+
+  .verb {
+    font-style: italic;
+    color: var(--color-ink-muted);
+  }
+
+  .sep {
+    color: var(--color-ink-faint);
+    margin-inline: 0.35rem;
+  }
+</style>

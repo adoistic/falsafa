@@ -1,0 +1,224 @@
+---
+import Base from "../../layouts/Base.astro";
+import { manifest } from "../../lib/corpus";
+
+const m = manifest();
+const totalChapters = m.works.reduce((s, w) => s + (w.total_logical_chapters ?? 0), 0);
+
+const description =
+  "The technical artifact behind the library: a deterministic MCP librarian, an adversarial eval suite, the case against vector databases, and the numbers behind every claim.";
+
+const rooms = [
+  {
+    href: "/try/",
+    title: "Try it live",
+    blurb:
+      "Ask the librarian a question with your own API key. Any model, streaming, every citation resolvable to a paragraph. Install instructions for Claude, Cursor and Codex included.",
+    label: "/try",
+  },
+  {
+    href: "/eval/",
+    title: "The eval explorer",
+    blurb:
+      "Over a thousand adversarial retrieval cases, browsable one by one: the question, each model arm, the tool trace, and the cited paragraphs deep-linked into the corpus. Audit any row.",
+    label: "/eval",
+  },
+  {
+    href: "/thesis/",
+    title: "The thesis",
+    blurb:
+      "Why this corpus ships with no vector database: markdown, stable paragraph IDs and ten deterministic tools, with the ablation charts that test the claim instead of asserting it.",
+    label: "/thesis",
+  },
+  {
+    href: "/numbers/",
+    title: "By the numbers",
+    blurb:
+      "Corpus totals, eval pass rates, build metrics. Every figure deep-links to the data that produced it.",
+    label: "/numbers",
+  },
+];
+---
+
+<Base title="Engine room" description={description} surface="engine">
+  <div class="container">
+    <header class="hero">
+      <p class="kicker">The engine room</p>
+      <h1>The library is the demo</h1>
+      <p class="lede">
+        Falsafa reads as a quiet library: {m.counts.works} works,
+        {totalChapters.toLocaleString("en-US")} chapters, free and public. Underneath it is a
+        working argument about how machines should read: a librarian, with deterministic tools and
+        honest citations, instead of a vector database. This wing of the site is that argument,
+        with the receipts.
+      </p>
+      <p class="lede-secondary">
+        The historical case comes first: <a href="/book/">Carried Across</a>, a short book on how
+        ideas travel, argues that knowledge survives only when carriers keep the chains legible,
+        and the <a href="/atlas/">atlas</a> behind it traces fourteen books across a thousand
+        years of named hands. Falsafa is that practice continued for the newest readers. The pages
+        below are the engineering that follows from it.
+      </p>
+    </header>
+
+    <section class="rooms" aria-label="Engine room sections">
+      {
+        rooms.map((room) => (
+          <a class="room" href={room.href}>
+            <p class="room-label">{room.label}</p>
+            <h2>{room.title}</h2>
+            <p class="room-blurb">{room.blurb}</p>
+          </a>
+        ))
+      }
+    </section>
+
+    <section class="install">
+      <h2>Run the librarian yourself</h2>
+      <p>
+        The whole corpus and all ten tools ship as one npm package, no API key, no server, no
+        telemetry. The first run downloads about 48 MB of corpus.
+      </p>
+      <pre><code>claude mcp add falsafa npx -y @falsafa/mcp</code></pre>
+      <p class="install-foot">
+        More install targets on <a href="/try/">the try page</a>. Source, pipeline and eval suite
+        on <a href="https://github.com/adoistic/falsafa">GitHub</a>.
+      </p>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .container {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: var(--s-12) var(--s-8) var(--s-24);
+  }
+
+  .kicker {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin: 0 0 var(--s-3);
+  }
+
+  .hero h1 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h1);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: var(--lh-display);
+    margin: 0 0 var(--s-6);
+  }
+
+  .lede {
+    font-family: var(--font-display);
+    font-style: italic;
+    color: var(--ink-muted);
+    font-size: var(--fs-h3);
+    line-height: 1.45;
+    max-width: 62ch;
+    margin: 0 0 var(--s-6);
+  }
+
+  .lede-secondary {
+    font-family: var(--font-body);
+    font-size: var(--fs-body);
+    line-height: var(--lh-body);
+    max-width: 68ch;
+    margin: 0 0 var(--s-12);
+  }
+
+  .lede-secondary a,
+  .install a {
+    color: var(--accent);
+  }
+
+  .rooms {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--s-6);
+    padding: var(--s-12) 0;
+    border-top: 1px solid var(--rule);
+  }
+
+  .room {
+    display: block;
+    border: 1px solid var(--rule);
+    padding: var(--s-6) var(--s-6) var(--s-8);
+    color: var(--ink);
+    text-decoration: none;
+    transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+
+  .room:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+  }
+
+  .room-label {
+    font-family: var(--font-mono);
+    font-size: 12px;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-3);
+  }
+
+  .room h2 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h3);
+    font-weight: 600;
+    margin: 0 0 var(--s-3);
+  }
+
+  .room:hover h2 {
+    color: var(--accent);
+  }
+
+  .room-blurb {
+    font-family: var(--font-body);
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--ink-muted);
+    margin: 0;
+  }
+
+  .install {
+    padding-top: var(--s-12);
+    border-top: 1px solid var(--rule);
+  }
+
+  .install h2 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h2);
+    font-weight: 600;
+    margin: 0 0 var(--s-3);
+  }
+
+  .install p {
+    font-family: var(--font-body);
+    font-size: var(--fs-body);
+    line-height: var(--lh-body);
+    max-width: 68ch;
+    margin: 0 0 var(--s-4);
+  }
+
+  .install pre {
+    background: var(--highlight);
+    border: 1px solid var(--rule);
+    padding: var(--s-4) var(--s-6);
+    overflow-x: auto;
+    margin: 0 0 var(--s-4);
+  }
+
+  .install code {
+    font-family: var(--font-mono);
+    font-size: 14px;
+  }
+
+  .install-foot {
+    color: var(--ink-muted);
+  }
+</style>

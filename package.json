@@ -25,7 +25,8 @@
     "cross-link": "bun run scripts/cross-link.ts",
     "images": "bun run scripts/generate-images.ts",
     "test": "bun test",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "validate:atlas": "bun run scripts/validate-atlas.ts"
   },
   "devDependencies": {
     "@types/bun": "latest",

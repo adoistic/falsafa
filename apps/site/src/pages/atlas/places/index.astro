@@ -1,0 +1,127 @@
+---
+import AtlasPage from '../../../layouts/AtlasPage.astro';
+import { places, transmissionsByPlace, works } from '../../../lib/atlas/data.ts';
+
+const rows = [...places]
+  .map((place) => {
+    const crossings = transmissionsByPlace(place.id);
+    const composedHere = works.filter((w) => w.composed.place === place.id).length;
+    const earliest =
+      crossings.length > 0
+        ? Math.min(...crossings.map((t) => t.date.from))
+        : Number.POSITIVE_INFINITY;
+    return { place, crossings: crossings.length, composedHere, earliest };
+  })
+  .sort((a, b) => a.earliest - b.earliest || b.crossings - a.crossings);
+---
+
+<AtlasPage
+  title="Places"
+  description="The cities and regions where the crossings happened: Baghdad, Cordoba, Toledo, Monte Cassino, Oxford and the rest."
+>
+  <div class="wrap">
+    <header class="head">
+      <p class="tag tag-line">Places</p>
+      <h1>Where the work was done</h1>
+      <p class="lede">
+        Translation movements are city phenomena. A court that pays, a library worth raiding, and
+        people who live between two languages: every place here had all three at once.
+      </p>
+    </header>
+    <ul class="grid" role="list">
+      {
+        rows.map(({ place, crossings, composedHere }) => (
+          <li>
+            <a class="card link-quiet" href={`/atlas/places/${place.id}/`}>
+              <h2>{place.name}</h2>
+              <p class="meta mono">
+                {crossings > 0 && `${crossings} ${crossings === 1 ? 'crossing' : 'crossings'}`}
+                {crossings > 0 && composedHere > 0 && ' · '}
+                {composedHere > 0 && `${composedHere} ${composedHere === 1 ? 'work composed' : 'works composed'}`}
+              </p>
+              <p class="note">{place.note}</p>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</AtlasPage>
+
+<style>
+  .wrap {
+    max-width: 72rem;
+    margin-inline: auto;
+    padding-inline: clamp(1rem, 4vw, 2.5rem);
+  }
+
+  .head {
+    padding-block: clamp(2.5rem, 6vw, 4.5rem) 1rem;
+    max-width: 46rem;
+  }
+
+  .head h1 {
+    font-size: var(--text-h1);
+    margin: 1.1rem 0 0.8rem;
+  }
+
+  .lede {
+    font-size: 1.15rem;
+    color: var(--color-ink-muted);
+  }
+
+  .grid {
+    list-style: none;
+    margin: 0;
+    padding: 1.5rem 0 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr));
+    gap: 1.1rem;
+  }
+
+  .card {
+    display: grid;
+    gap: 0.45rem;
+    align-content: start;
+    height: 100%;
+    padding: 1.3rem 1.4rem;
+    border: 1px solid var(--color-hairline);
+    border-radius: 4px;
+    background: var(--color-paper-raised);
+    transition: border-color 140ms ease-out, transform 140ms ease-out;
+  }
+
+  .card:hover {
+    color: inherit;
+    border-color: color-mix(in oklab, var(--color-lapis) 45%, var(--color-hairline));
+    transform: translateY(-2px);
+  }
+
+  .card:hover h2 {
+    color: var(--color-lapis);
+  }
+
+  .card h2 {
+    font-size: 1.35rem;
+    margin: 0;
+  }
+
+  .meta {
+    font-size: 0.66rem;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--color-gold);
+    margin: 0;
+  }
+
+  .note {
+    margin: 0;
+    font-size: 0.96rem;
+    line-height: 1.55;
+    color: var(--color-ink-muted);
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>

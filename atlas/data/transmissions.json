@@ -1,0 +1,734 @@
+[
+  {
+    "id": "de-anima-arabic-ishaq",
+    "work": "de-anima",
+    "from": "original",
+    "language": "arabic",
+    "kind": "translation",
+    "people": [{ "person": "ishaq-ibn-hunayn", "role": "translator" }],
+    "place": "baghdad",
+    "date": { "from": 870, "to": 900, "ca": true },
+    "note": "Ishaq translated the work twice; the Fihrist reports the first version was left slightly unfinished. His Arabic is lost as an independent text. An older anonymous Arabic version also circulated, which Averroes quotes in nine passages as 'the other translation'.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "fihrist", "detail": "reports the double translation, the first incomplete" },
+      { "source": "treiger-2017", "detail": "reconstruction of the lost translation from its descendants" }
+    ]
+  },
+  {
+    "id": "de-anima-commentary-ibn-rushd",
+    "work": "de-anima",
+    "from": "de-anima-arabic-ishaq",
+    "language": "arabic",
+    "kind": "commentary",
+    "people": [{ "person": "ibn-rushd", "role": "commentator" }],
+    "date": { "from": 1186, "ca": true },
+    "note": "The Long Commentary quotes Ishaq's translation in full as its lemmata, which is why the lost Arabic survives inside it. Where it was written is not documented; Averroes was then moving between al-Andalus and the Almohad court in Marrakesh.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "taylor-2009", "detail": "dating to c. 1186, within a range of roughly 1181-1190" },
+      { "source": "sep-ibn-rushd" }
+    ]
+  },
+  {
+    "id": "de-anima-latin-scot",
+    "work": "de-anima",
+    "from": "de-anima-commentary-ibn-rushd",
+    "language": "latin",
+    "kind": "translation",
+    "people": [{ "person": "michael-scot", "role": "translator" }],
+    "date": { "from": 1220, "to": 1224, "ca": true },
+    "note": "In use in Paris by about 1225, where Averroes became simply 'the Commentator' within a decade. The unicity-of-intellect reading drawn from this book was condemned at Paris in 1270 and 1277. Only a few of the fifty-plus manuscripts name Scot; stylometry supports the attribution.",
+    "confidence": "probable",
+    "evidence": [
+      { "source": "hasse-2010", "detail": "stylometric case for Scot's authorship of the anonymous Averroes translations" },
+      { "source": "hasse-sep" }
+    ]
+  },
+  {
+    "id": "de-anima-hebrew-zerahyah",
+    "work": "de-anima",
+    "from": "de-anima-arabic-ishaq",
+    "language": "hebrew",
+    "kind": "translation",
+    "people": [{ "person": "zerahyah-hen", "role": "translator" }],
+    "place": "rome",
+    "date": { "from": 1284 },
+    "note": "Made from the Arabic in Rome. Together with the Latin lemmata, it is one of the witnesses from which Ishaq's lost translation is reconstructed. Its closing section follows a different Arabic version that completed Ishaq's unfinished text, as the Hebrew preface itself records.",
+    "confidence": "attested",
+    "evidence": [{ "source": "treiger-2017" }]
+  },
+
+  {
+    "id": "elements-arabic-hajjaj",
+    "work": "elements",
+    "from": "original",
+    "language": "arabic",
+    "kind": "translation",
+    "people": [
+      { "person": "al-hajjaj", "role": "translator" },
+      { "person": "yahya-ibn-khalid", "role": "commissioner" }
+    ],
+    "place": "baghdad",
+    "date": { "from": 786, "to": 805, "ca": true },
+    "note": "The first known Arabic Euclid, made for the Barmakid vizier during Harun al-Rashid's reign. It survives only indirectly, through the preface and readings preserved with al-Nayrizi's commentary.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "fihrist" },
+      { "source": "murdoch-1971", "detail": "the transmission history of both al-Hajjaj recensions" }
+    ]
+  },
+  {
+    "id": "elements-arabic-hajjaj-mamun",
+    "work": "elements",
+    "from": "elements-arabic-hajjaj",
+    "language": "arabic",
+    "kind": "revision",
+    "people": [
+      { "person": "al-hajjaj", "role": "reviser" },
+      { "person": "al-mamun", "role": "patron" }
+    ],
+    "place": "baghdad",
+    "date": { "from": 813, "to": 833, "ca": true },
+    "note": "A second, deliberately leaner recension to win the favor of the new caliph. Al-Hajjaj said he left out the superfluities, filled up the gaps and corrected the errors, for an edition aimed at specialists.",
+    "confidence": "attested",
+    "evidence": [{ "source": "murdoch-1971", "detail": "quoting the preface preserved in the Leiden al-Nayrizi codex" }]
+  },
+  {
+    "id": "elements-arabic-ishaq",
+    "work": "elements",
+    "from": "original",
+    "language": "arabic",
+    "kind": "translation",
+    "people": [{ "person": "ishaq-ibn-hunayn", "role": "translator" }],
+    "place": "baghdad",
+    "date": { "from": 875, "to": 900, "ca": true },
+    "note": "A fresh translation from the Greek, made in the Hunayn workshop two generations after al-Hajjaj.",
+    "confidence": "attested",
+    "evidence": [{ "source": "fihrist" }, { "source": "murdoch-1971" }]
+  },
+  {
+    "id": "elements-arabic-thabit",
+    "work": "elements",
+    "from": "elements-arabic-ishaq",
+    "language": "arabic",
+    "kind": "revision",
+    "people": [{ "person": "thabit-ibn-qurra", "role": "reviser" }],
+    "place": "baghdad",
+    "date": { "from": 880, "to": 901, "ca": true },
+    "note": "Thabit collated Ishaq's text against Greek manuscripts and earlier versions. The Ishaq-Thabit recension became the preferred Arabic Elements.",
+    "confidence": "attested",
+    "evidence": [{ "source": "murdoch-1971" }]
+  },
+  {
+    "id": "elements-latin-adelard",
+    "work": "elements",
+    "from": "elements-arabic-hajjaj",
+    "language": "latin",
+    "kind": "translation",
+    "people": [{ "person": "adelard-of-bath", "role": "translator" }],
+    "date": { "from": 1120, "ca": true },
+    "note": "Adelard's Version I, the true translation, made from the al-Hajjaj tradition; which of the two recensions he had is debated. The far more popular Version II, long credited to him, is now attributed to Robert of Chester.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "busard-folkerts-1992", "detail": "reattribution of Version II to Robert of Chester" },
+      { "source": "murdoch-1971" }
+    ]
+  },
+  {
+    "id": "elements-latin-gerard",
+    "work": "elements",
+    "from": "elements-arabic-thabit",
+    "language": "latin",
+    "kind": "translation",
+    "people": [{ "person": "gerard-of-cremona", "role": "translator" }],
+    "place": "toledo",
+    "date": { "from": 1150, "to": 1187, "ca": true },
+    "note": "Made from the Ishaq-Thabit recension as part of Gerard's Toledo program, alongside his Almagest and Canon.",
+    "confidence": "attested",
+    "evidence": [{ "source": "murdoch-1971" }, { "source": "lemay-1978" }]
+  },
+  {
+    "id": "elements-latin-campanus",
+    "work": "elements",
+    "from": "elements-latin-adelard",
+    "language": "latin",
+    "kind": "revision",
+    "people": [{ "person": "campanus-of-novara", "role": "reviser" }],
+    "date": { "from": 1255, "to": 1261, "ca": true },
+    "note": "Campanus reworked the Adelard-tradition text with fuller proofs and additions of his own. His redaction became the standard university Euclid for two centuries.",
+    "confidence": "attested",
+    "evidence": [{ "source": "murdoch-1971" }]
+  },
+  {
+    "id": "elements-edition-ratdolt",
+    "work": "elements",
+    "from": "elements-latin-campanus",
+    "language": "latin",
+    "kind": "edition",
+    "people": [{ "person": "erhard-ratdolt", "role": "editor" }],
+    "place": "venice",
+    "date": { "from": 1482 },
+    "note": "The first printed Euclid, and the first book to solve the printing of geometric diagrams. Through Campanus and Adelard it descends from the Arabic line; a printed Greek text appeared only in 1533.",
+    "confidence": "attested",
+    "evidence": [{ "source": "murdoch-1971" }]
+  },
+
+  {
+    "id": "almagest-arabic-hajjaj",
+    "work": "almagest",
+    "from": "original",
+    "language": "arabic",
+    "kind": "translation",
+    "title": { "text": "المجسطي", "translit": "al-Majisṭī" },
+    "people": [
+      { "person": "al-hajjaj", "role": "translator" },
+      { "person": "al-mamun", "role": "patron" }
+    ],
+    "place": "baghdad",
+    "date": { "from": 827, "to": 828 },
+    "note": "The earliest surviving Arabic Almagest, dated 212 of the Hijra. Lost Syriac and 'old Arabic' versions of around 800, promoted by the Barmakids, preceded it.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "pal-project", "detail": "work entry for the al-Hajjaj version" },
+      { "source": "kunitzsch-1974" }
+    ]
+  },
+  {
+    "id": "almagest-arabic-ishaq",
+    "work": "almagest",
+    "from": "original",
+    "language": "arabic",
+    "kind": "translation",
+    "people": [{ "person": "ishaq-ibn-hunayn", "role": "translator" }],
+    "place": "baghdad",
+    "date": { "from": 879, "to": 890, "ca": true },
+    "note": "The second surviving Arabic translation, made half a century after al-Hajjaj's.",
+    "confidence": "attested",
+    "evidence": [{ "source": "pal-project" }]
+  },
+  {
+    "id": "almagest-arabic-thabit",
+    "work": "almagest",
+    "from": "almagest-arabic-ishaq",
+    "language": "arabic",
+    "kind": "revision",
+    "people": [{ "person": "thabit-ibn-qurra", "role": "reviser" }],
+    "place": "baghdad",
+    "date": { "from": 890, "to": 901, "ca": true },
+    "note": "Completed before Thabit's death in 901. The Ishaq-Thabit Almagest became the standard eastern text.",
+    "confidence": "attested",
+    "evidence": [{ "source": "pal-project" }]
+  },
+  {
+    "id": "almagest-latin-gerard",
+    "work": "almagest",
+    "from": "almagest-arabic-hajjaj",
+    "language": "latin",
+    "kind": "translation",
+    "title": { "text": "Almagesti" },
+    "people": [{ "person": "gerard-of-cremona", "role": "translator" }],
+    "place": "toledo",
+    "date": { "from": 1140, "to": 1175, "ca": true },
+    "note": "Completed by 1175: a colophon records a copy made on 11 August of that year, and the work may have begun decades earlier. This edge follows the al-Hajjaj version for Books I-IX; Kunitzsch showed that Books X-XIII and the star catalogue follow the Ishaq-Thabit recension instead. A direct Greek-to-Latin translation made in Sicily in the mid-12th century circulated little.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "pal-project", "detail": "'existed by 1175, but may have been made long before'" },
+      { "source": "kunitzsch-1974", "detail": "Books I-IX from al-Hajjaj, Books X-XIII and the star catalogue from Ishaq-Thabit" }
+    ]
+  },
+
+  {
+    "id": "simple-drugs-syriac-sergius",
+    "work": "on-simple-drugs",
+    "from": "original",
+    "language": "syriac",
+    "kind": "translation",
+    "people": [{ "person": "sergius-of-reshaina", "role": "translator" }],
+    "date": { "from": 500, "to": 536, "ca": true },
+    "note": "Part of the first sustained translation of Greek medicine into any language, made by the Alexandria-trained chief physician of Reshaina before his death in 536.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "hunayn-risala", "detail": "Hunayn records and grades Sergius's Syriac versions" },
+      { "source": "bhayro-2017", "detail": "the surviving palimpsest witness of this translation" }
+    ]
+  },
+  {
+    "id": "simple-drugs-syriac-hunayn",
+    "work": "on-simple-drugs",
+    "from": "simple-drugs-syriac-sergius",
+    "language": "syriac",
+    "kind": "revision",
+    "people": [{ "person": "hunayn-ibn-ishaq", "role": "reviser" }],
+    "place": "baghdad",
+    "date": { "from": 840, "to": 873, "ca": true },
+    "note": "Hunayn treated his predecessors like a strict examiner. The Risala records him grading Sergius's versions and revising or replacing them against better Greek manuscripts.",
+    "confidence": "attested",
+    "evidence": [{ "source": "hunayn-risala" }, { "source": "lamoreaux-2016" }]
+  },
+  {
+    "id": "simple-drugs-arabic-hunayn-school",
+    "work": "on-simple-drugs",
+    "from": "simple-drugs-syriac-hunayn",
+    "language": "arabic",
+    "kind": "translation",
+    "people": [
+      { "person": "hunayn-ibn-ishaq", "role": "translator" },
+      { "person": "hubaysh", "role": "translator" }
+    ],
+    "place": "baghdad",
+    "date": { "from": 845, "to": 875, "ca": true },
+    "note": "The school's Arabic Galen was typically made from Hunayn's Syriac rather than directly from Greek, much of it by his nephew Hubaysh. The Risala records the division of hands work by work.",
+    "confidence": "probable",
+    "evidence": [{ "source": "hunayn-risala" }, { "source": "strohmaier-ei2" }]
+  },
+
+  {
+    "id": "materia-medica-arabic-istifan",
+    "work": "materia-medica",
+    "from": "original",
+    "language": "arabic",
+    "kind": "translation",
+    "people": [
+      { "person": "istifan-ibn-basil", "role": "translator" },
+      { "person": "hunayn-ibn-ishaq", "role": "reviser" }
+    ],
+    "place": "baghdad",
+    "date": { "from": 847, "to": 861, "ca": true },
+    "note": "Made during al-Mutawakkil's reign and corrected by Hunayn. Where Istifan could not identify a plant, he left its Greek name standing in Arabic letters rather than guess.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "ibn-juljul", "detail": "the primary account of the translation and its revision" },
+      { "source": "pormann-savage-smith-2007" }
+    ]
+  },
+  {
+    "id": "materia-medica-revision-cordoba",
+    "work": "materia-medica",
+    "from": "materia-medica-arabic-istifan",
+    "language": "arabic",
+    "kind": "revision",
+    "people": [
+      { "person": "nicholas-the-monk", "role": "reviser" },
+      { "person": "hasdai-ibn-shaprut", "role": "scholar" },
+      { "person": "ibn-juljul-person", "role": "scholar" },
+      { "person": "abd-al-rahman-iii", "role": "patron" }
+    ],
+    "place": "cordoba",
+    "date": { "from": 951, "to": 962, "ca": true },
+    "note": "An illustrated Greek codex arrived from Constantinople around 948 as a state gift; the monk Nicholas followed around 951, after the caliph asked for someone who could read it. The circle did not retranslate: it identified the transliterated Greek drug names against the pictures and the pharmacies of al-Andalus.",
+    "confidence": "attested",
+    "evidence": [{ "source": "ibn-juljul", "detail": "written by a participant in the circle" }]
+  },
+
+  {
+    "id": "aphorisms-arabic-hunayn",
+    "work": "aphorisms",
+    "from": "original",
+    "language": "arabic",
+    "kind": "translation",
+    "title": { "text": "الفصول", "translit": "Kitāb al-Fuṣūl" },
+    "people": [{ "person": "hunayn-ibn-ishaq", "role": "translator" }],
+    "place": "baghdad",
+    "date": { "from": 840, "to": 873, "ca": true },
+    "note": "Made from the Greek through Hunayn's own Syriac, and carried as the lemmata of his translation of Galen's commentary, which is how the freestanding Arabic text circulated.",
+    "confidence": "attested",
+    "evidence": [{ "source": "overwien-2015", "detail": "the Greek-Syriac-Arabic working method reconstructed" }]
+  },
+  {
+    "id": "aphorisms-latin-constantine",
+    "work": "aphorisms",
+    "from": "aphorisms-arabic-hunayn",
+    "language": "latin",
+    "kind": "translation",
+    "people": [{ "person": "constantine-the-african", "role": "translator" }],
+    "place": "monte-cassino",
+    "date": { "from": 1077, "to": 1098, "ca": true },
+    "note": "Translated with Galen's commentary during Constantine's Monte Cassino years. It displaced the late antique Latin version that had circulated since Ravenna, entered the Articella, and gave Salerno's practical school its theoretical backbone.",
+    "confidence": "attested",
+    "evidence": [{ "source": "burnett-jacquart-1994" }]
+  },
+
+  {
+    "id": "enneads-edition-porphyry",
+    "work": "enneads",
+    "from": "original",
+    "language": "greek",
+    "kind": "edition",
+    "people": [{ "person": "porphyry", "role": "editor" }],
+    "date": { "from": 300, "to": 305, "ca": true },
+    "note": "Porphyry arranged his teacher's treatises into six enneads, groups of nine, some thirty years after Plotinus died. Every later tradition received the book in this editorial shape.",
+    "confidence": "attested",
+    "evidence": [{ "source": "adamson-sep" }]
+  },
+  {
+    "id": "enneads-arabic-theology",
+    "work": "enneads",
+    "from": "enneads-edition-porphyry",
+    "language": "arabic",
+    "kind": "adaptation",
+    "title": { "text": "أثولوجيا أرسطاطاليس", "translit": "Uthūlūjiyā Arisṭāṭālīs" },
+    "people": [
+      { "person": "ibn-naima-al-himsi", "role": "translator" },
+      { "person": "al-kindi", "role": "reviser" },
+      { "person": "ahmad-ibn-al-mutasim", "role": "patron" }
+    ],
+    "place": "baghdad",
+    "date": { "from": 833, "to": 842, "ca": true },
+    "note": "A rearranged, interpretively expanded paraphrase of selections from Enneads IV-VI, circulating as the Theology of Aristotle. The preface names the production team honestly; the Aristotle label may be a later addition rather than a forgery. Ibn Sina found the attribution 'somewhat suspect' and commented on the book anyway.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "adamson-sep", "detail": "the dedication to Ahmad dates the redaction to 833-842" },
+      { "source": "zimmermann-1986" }
+    ]
+  },
+
+  {
+    "id": "panchatantra-pahlavi-burzoy",
+    "work": "panchatantra",
+    "from": "original",
+    "language": "middle-persian",
+    "kind": "adaptation",
+    "title": { "translit": "Karīrak ud Damanak" },
+    "people": [
+      { "person": "burzoy", "role": "translator" },
+      { "person": "khosrow-i", "role": "commissioner" }
+    ],
+    "date": { "from": 550, "to": 570, "ca": true },
+    "note": "Burzoy's compilation joined the five Panchatantra books with chapters from the Mahabharata and other Indian sources. The book's own frame story says he was sent to India for a herb that revives the dead and learned that the herb was a book. The Pahlavi text is lost; everything west of India descends from it.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "de-blois-1990", "detail": "analysis of the five versions of the voyage narrative" },
+      { "source": "riedel-2010" }
+    ]
+  },
+  {
+    "id": "panchatantra-syriac-bud",
+    "work": "panchatantra",
+    "from": "panchatantra-pahlavi-burzoy",
+    "language": "syriac",
+    "kind": "translation",
+    "title": { "translit": "Kalilag and Damnag" },
+    "people": [{ "person": "bud-the-periodeutes", "role": "translator" }],
+    "date": { "from": 570, "ca": true },
+    "note": "The Old Syriac version, made from the Pahlavi by an itinerant cleric of the Church of the East. It is the oldest surviving witness to Burzoy's lost book.",
+    "confidence": "attested",
+    "evidence": [{ "source": "de-blois-1990" }]
+  },
+  {
+    "id": "panchatantra-arabic-ibn-al-muqaffa",
+    "work": "panchatantra",
+    "from": "panchatantra-pahlavi-burzoy",
+    "language": "arabic",
+    "kind": "adaptation",
+    "title": { "text": "كليلة ودمنة", "translit": "Kalīla wa-Dimna" },
+    "people": [{ "person": "ibn-al-muqaffa", "role": "translator" }],
+    "date": { "from": 750, "ca": true },
+    "note": "Less a translation than a reinvention, with chapters of Ibn al-Muqaffa's own added, including Dimna's trial. It founded Arabic literary prose; its translator was executed within the decade.",
+    "confidence": "attested",
+    "evidence": [{ "source": "riedel-2010" }, { "source": "de-blois-1990" }]
+  },
+  {
+    "id": "panchatantra-hebrew-joel",
+    "work": "panchatantra",
+    "from": "panchatantra-arabic-ibn-al-muqaffa",
+    "language": "hebrew",
+    "kind": "translation",
+    "people": [{ "person": "rabbi-joel", "role": "translator" }],
+    "date": { "from": 1100, "to": 1200, "ca": true },
+    "note": "The bridge between the Arabic and Latin Europe. Rabbi Joel is known only because the next translator in the chain says he worked from him.",
+    "confidence": "probable",
+    "evidence": [{ "source": "riedel-2010", "detail": "attested only through John of Capua's preface" }]
+  },
+  {
+    "id": "panchatantra-latin-capua",
+    "work": "panchatantra",
+    "from": "panchatantra-hebrew-joel",
+    "language": "latin",
+    "kind": "translation",
+    "title": { "text": "Directorium humanae vitae" },
+    "people": [{ "person": "john-of-capua", "role": "translator" }],
+    "date": { "from": 1263, "to": 1278 },
+    "note": "The Directory of Human Life, made by a Jewish convert from Rabbi Joel's Hebrew. Most of the European vernacular versions, and through them La Fontaine's 'Pilpay', descend from this Latin.",
+    "confidence": "attested",
+    "evidence": [{ "source": "riedel-2010" }]
+  },
+  {
+    "id": "panchatantra-castilian",
+    "work": "panchatantra",
+    "from": "panchatantra-arabic-ibn-al-muqaffa",
+    "language": "castilian",
+    "kind": "translation",
+    "title": { "text": "Calila e Dimna" },
+    "people": [{ "person": "alfonso-x", "role": "commissioner" }],
+    "date": { "from": 1251, "ca": true },
+    "note": "Translated directly from the Arabic at the order of Alfonso, then still crown prince; the translator's name is not recorded. The year 1251 is the accepted emendation of the colophon's era-year; the 15th-century reading of 1261 and its claim of a Latin intermediary are both rejected.",
+    "confidence": "attested",
+    "evidence": [{ "source": "riedel-2010" }]
+  },
+
+  {
+    "id": "sindhind-arabic-fazari",
+    "work": "brahmasphutasiddhanta",
+    "from": "original",
+    "language": "arabic",
+    "kind": "adaptation",
+    "title": { "translit": "Zīj al-Sindhind al-kabīr" },
+    "people": [
+      { "person": "al-fazari", "role": "translator" },
+      { "person": "yaqub-ibn-tariq", "role": "translator" },
+      { "person": "al-mansur", "role": "commissioner" }
+    ],
+    "place": "baghdad",
+    "date": { "from": 771, "to": 775, "ca": true },
+    "note": "An Indian embassy reached al-Mansur's court in 771 or 773 with an astronomer in its party. The Arabic Sindhind made from his text mixes Indian parameters with Persian and Greek material; the Sanskrit source was probably a sibling text of Brahmagupta's school rather than the Brahmasphutasiddhanta itself.",
+    "confidence": "probable",
+    "evidence": [
+      { "source": "pingree-1970", "detail": "reconstruction of the lost zij from quoted fragments" },
+      { "source": "bea-2007" }
+    ]
+  },
+  {
+    "id": "sindhind-arabic-khwarizmi",
+    "work": "brahmasphutasiddhanta",
+    "from": "sindhind-arabic-fazari",
+    "language": "arabic",
+    "kind": "adaptation",
+    "title": { "translit": "Zīj al-Sindhind" },
+    "people": [{ "person": "al-khwarizmi", "role": "author" }],
+    "place": "baghdad",
+    "date": { "from": 820, "ca": true },
+    "note": "Al-Khwarizmi's own tables in the Sindhind tradition, drawn up under al-Ma'mun. The Arabic original is lost.",
+    "confidence": "attested",
+    "evidence": [{ "source": "toomer-1973" }, { "source": "bea-2007" }]
+  },
+  {
+    "id": "sindhind-revision-maslama",
+    "work": "brahmasphutasiddhanta",
+    "from": "sindhind-arabic-khwarizmi",
+    "language": "arabic",
+    "kind": "revision",
+    "people": [
+      { "person": "maslama-al-majriti", "role": "reviser" },
+      { "person": "ibn-al-saffar", "role": "reviser" }
+    ],
+    "place": "cordoba",
+    "date": { "from": 1000, "ca": true },
+    "note": "Recomputed for the meridian of Cordoba and the Islamic calendar, around the turn of the millennium. This Andalusi recension is the only form in which al-Khwarizmi's tables survived.",
+    "confidence": "attested",
+    "evidence": [{ "source": "bea-2007" }]
+  },
+  {
+    "id": "sindhind-latin-adelard",
+    "work": "brahmasphutasiddhanta",
+    "from": "sindhind-revision-maslama",
+    "language": "latin",
+    "kind": "translation",
+    "people": [{ "person": "adelard-of-bath", "role": "translator" }],
+    "date": { "from": 1126 },
+    "note": "Manuscript-dated to 1126, one family precisely to 26 January. The attribution reads 'presumably Adelard': two manuscripts intersperse chapters by Petrus Alfonsi, and a version of the tables is keyed to 1116, suggesting an earlier attempt he revised.",
+    "confidence": "probable",
+    "evidence": [
+      { "source": "mercier-1987", "detail": "the 1126 dating and the Petrus Alfonsi precursor question" }
+    ]
+  },
+
+  {
+    "id": "topics-syriac-athanasius",
+    "work": "topics",
+    "from": "original",
+    "language": "syriac",
+    "kind": "translation",
+    "people": [{ "person": "athanasius-of-balad", "role": "translator" }],
+    "date": { "from": 660, "to": 687, "ca": true },
+    "note": "Sixth-century Syriac logic had stopped at the early Prior Analytics, following the Alexandrian curriculum. Athanasius, trained at the monastery of Qenneshre, completed the Syriac Organon under Umayyad rule, a century before anyone needed it in Arabic.",
+    "confidence": "attested",
+    "evidence": [{ "source": "tannous-2018" }, { "source": "dancona-sep" }]
+  },
+  {
+    "id": "topics-arabic-timothy",
+    "work": "topics",
+    "from": "topics-syriac-athanasius",
+    "language": "arabic",
+    "kind": "translation",
+    "people": [
+      { "person": "timothy-i", "role": "translator" },
+      { "person": "abu-nuh", "role": "translator" },
+      { "person": "al-mahdi", "role": "commissioner" }
+    ],
+    "place": "baghdad",
+    "date": { "from": 782, "ca": true },
+    "note": "Commissioned by the caliph for staged interreligious debate. Timothy's surviving letters show him asking fellow clerics to search the Mar Mattai monastery library for Syriac versions and commentaries on the later Organon. The Syriac exemplar is presumed to be Athanasius of Balad's version, the only one known; Timothy does not name it.",
+    "confidence": "attested",
+    "evidence": [{ "source": "gutas-1998", "detail": "the episode documented from Timothy's own correspondence" }]
+  },
+
+  {
+    "id": "al-jabr-latin-robert",
+    "work": "al-jabr",
+    "from": "original",
+    "language": "latin",
+    "kind": "translation",
+    "people": [{ "person": "robert-of-chester", "role": "translator" }],
+    "place": "segovia",
+    "date": { "from": 1145 },
+    "note": "The first Latin algebra, finished at Segovia in 'era 1183' of the Spanish calendar, which converts to 1145. The familiar title Liber algebrae et almucabola comes from a 1915 edition based on late copies, not from Robert's manuscripts.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "hughes-1989", "detail": "critical edition from the earliest manuscripts" },
+      { "source": "burnett-2004", "detail": "on the Robert of Chester and Robert of Ketton question" }
+    ]
+  },
+  {
+    "id": "al-jabr-latin-gerard",
+    "work": "al-jabr",
+    "from": "original",
+    "language": "latin",
+    "kind": "translation",
+    "people": [{ "person": "gerard-of-cremona", "role": "translator" }],
+    "place": "toledo",
+    "date": { "from": 1150, "to": 1187, "ca": true },
+    "note": "Gerard's independent translation, undated in the manuscripts, made in Toledo before his death in 1187. It circulated alongside Robert's and was the version most algebraists used.",
+    "confidence": "attested",
+    "evidence": [{ "source": "lemay-1978" }, { "source": "burnett-2001" }]
+  },
+
+  {
+    "id": "qanun-latin-gerard",
+    "work": "qanun",
+    "from": "original",
+    "language": "latin",
+    "kind": "translation",
+    "title": { "text": "Liber Canonis" },
+    "people": [{ "person": "gerard-of-cremona", "role": "translator" }],
+    "place": "toledo",
+    "date": { "from": 1150, "to": 1187, "ca": true },
+    "note": "Made with his team of collaborators in Toledo. The attribution rests on the Commemoratio librorum, the list of translations his students compiled at his death, where the Canon is item 63. A rival attribution to a 13th-century 'Gerard de Sabloneta' has no medieval testimony behind it.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "lemay-1978", "detail": "item 63 in the students' list" },
+      { "source": "burnett-2001" }
+    ]
+  },
+  {
+    "id": "qanun-hebrew-nathan",
+    "work": "qanun",
+    "from": "original",
+    "language": "hebrew",
+    "kind": "translation",
+    "people": [{ "person": "nathan-ha-meati", "role": "translator" }],
+    "place": "rome",
+    "date": { "from": 1279 },
+    "note": "The first complete Hebrew Canon, finished in Rome in 1279. The Hebrew text was printed at Naples in 1491-92, before the Arabic ever reached print.",
+    "confidence": "attested",
+    "evidence": [{ "source": "siraisi-1987" }]
+  },
+  {
+    "id": "qanun-edition-princeps",
+    "work": "qanun",
+    "from": "qanun-latin-gerard",
+    "language": "latin",
+    "kind": "edition",
+    "people": [{ "person": "adolf-rusch", "role": "editor" }],
+    "place": "strasbourg",
+    "date": { "from": 1473, "ca": true },
+    "note": "The editio princeps, usually credited to Strasbourg around 1473, with Milan 1473 also claimed. About 15 editions followed by 1500, and some 60 more, whole or in part, between 1500 and 1674; Montpellier and Louvain still taught the book around 1650.",
+    "confidence": "probable",
+    "evidence": [{ "source": "siraisi-1987", "detail": "census of the printed editions" }]
+  },
+  {
+    "id": "qanun-edition-medici",
+    "work": "qanun",
+    "from": "original",
+    "language": "arabic",
+    "kind": "edition",
+    "people": [{ "person": "raimondi", "role": "editor" }],
+    "place": "rome",
+    "date": { "from": 1593 },
+    "note": "The Medici Oriental Press printed the Arabic text itself in Rome, in type cut for the purpose, largely for export back to the lands that wrote it. The book had waited five and a half centuries for its own language to reach print.",
+    "confidence": "attested",
+    "evidence": [{ "source": "siraisi-1987" }]
+  },
+
+  {
+    "id": "maqasid-latin-gundissalinus",
+    "work": "maqasid",
+    "from": "original",
+    "language": "latin",
+    "kind": "translation",
+    "title": { "text": "Summa theoricae philosophiae" },
+    "people": [
+      { "person": "gundissalinus", "role": "translator" },
+      { "person": "magister-iohannes", "role": "translator" }
+    ],
+    "place": "toledo",
+    "date": { "from": 1162, "to": 1180, "ca": true },
+    "note": "The translators omitted the prologue in which al-Ghazali announces he is reporting doctrines in order to demolish them; a Latin rendering survives in exactly one Paris manuscript. Read cold, the book made 'Algazel' a faithful Avicennian for four centuries. The print era fixed the error in place: Venice 1506, as Logica et philosophia Algazelis.",
+    "confidence": "attested",
+    "evidence": [
+      { "source": "minnema-2014", "detail": "manuscript census, the lone surviving prologue, and the 'cave hic' marginalia" },
+      { "source": "griffel-sep" }
+    ]
+  },
+
+  {
+    "id": "hayy-latin-pococke",
+    "work": "hayy-ibn-yaqzan",
+    "from": "original",
+    "language": "latin",
+    "kind": "translation",
+    "title": { "text": "Philosophus Autodidactus" },
+    "people": [
+      { "person": "edward-pococke-younger", "role": "translator" },
+      { "person": "edward-pococke-elder", "role": "editor" }
+    ],
+    "place": "oxford",
+    "date": { "from": 1671 },
+    "note": "A bilingual Arabic-Latin edition, the son translating at twenty-three, the father supplying the Aleppo manuscript and the preface. Published the year Locke drafted the first versions of the Essay Concerning Human Understanding, in the same university.",
+    "confidence": "attested",
+    "evidence": [{ "source": "russell-1994" }]
+  },
+  {
+    "id": "hayy-dutch-anonymous",
+    "work": "hayy-ibn-yaqzan",
+    "from": "hayy-latin-pococke",
+    "language": "dutch",
+    "kind": "translation",
+    "people": [{ "person": "johannes-bouwmeester", "role": "translator" }],
+    "place": "amsterdam",
+    "date": { "from": 1672 },
+    "note": "Published anonymously in 1672 and reissued in 1701. The translator is unnamed in the book; scholarship places the work in Spinoza's circle, with Bouwmeester the usual candidate, and even the source text, the Latin or the Arabic itself, is argued over.",
+    "confidence": "disputed",
+    "evidence": [
+      { "source": "russell-1994" },
+      { "source": "ben-zaken-2011", "detail": "the Spinoza circle attribution and its limits" }
+    ]
+  },
+  {
+    "id": "hayy-english-keith",
+    "work": "hayy-ibn-yaqzan",
+    "from": "hayy-latin-pococke",
+    "language": "english",
+    "kind": "translation",
+    "title": { "text": "An Account of the Oriental Philosophy" },
+    "people": [{ "person": "george-keith", "role": "translator" }],
+    "date": { "from": 1674 },
+    "note": "The first English version, made from the Latin by the Quaker George Keith, whose movement read the self-taught islander as a parable of the inner light.",
+    "confidence": "attested",
+    "evidence": [{ "source": "russell-1994" }]
+  },
+  {
+    "id": "hayy-english-ockley",
+    "work": "hayy-ibn-yaqzan",
+    "from": "original",
+    "language": "english",
+    "kind": "translation",
+    "title": { "text": "The Improvement of Human Reason" },
+    "people": [{ "person": "simon-ockley", "role": "translator" }],
+    "place": "london",
+    "date": { "from": 1708 },
+    "note": "Translated directly from the Arabic, bypassing the Latin. Eleven years before Robinson Crusoe, whose debt to the book is often suggested and still debated.",
+    "confidence": "attested",
+    "evidence": [{ "source": "russell-1994" }, { "source": "ben-zaken-2011" }]
+  }
+]

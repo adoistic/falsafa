@@ -1,0 +1,156 @@
+---
+import AtlasPage from '../../layouts/AtlasPage.astro';
+import { bookMeta, chapters } from '../../lib/atlas/book.ts';
+import { stats } from '../../lib/atlas/data.ts';
+
+const s = stats();
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Book',
+  name: bookMeta.title,
+  alternateName: `${bookMeta.title}: ${bookMeta.subtitle}`,
+  author: { '@type': 'Person', name: bookMeta.author },
+  abstract:
+    'A short book on how ideas travel, built from the Naql atlas: who carried classical texts between languages, who paid, what broke in transit, and why nobody planned any of it.',
+};
+---
+
+<AtlasPage
+  title={bookMeta.title}
+  description={`${bookMeta.title}: ${bookMeta.subtitle}. A short book built from the atlas: ${s.works} chains, every claim graded and sourced.`}
+  jsonLd={jsonLd}
+>
+  <div class="wrap">
+    <header class="cover">
+      <p class="tag tag-line rise">{bookMeta.series}</p>
+      <h1 class="rise rise-1">{bookMeta.title}</h1>
+      <p class="subtitle rise rise-2">{bookMeta.subtitle}</p>
+      <p class="byline rise rise-3">{bookMeta.author}</p>
+      <p class="pitch rise rise-4">
+        Ideas do not travel. They are carried, one decision at a time, by people with names, for
+        reasons of their own, at prices someone agreed to pay. Nine chapters and an afterword on the mechanics of
+        carrying, drawn from the {s.works} verified chains of this atlas: the bodies books live
+        in, the bilingual communities that did the work, the patrons who paid, the lone
+        obsessives, the productive errors, the absence of any plan, and what carrying means now
+        that some of the readers are machines.
+      </p>
+    </header>
+
+    <section class="contents">
+      <p class="tag tag-line">Contents</p>
+      <ol class="toc" role="list">
+        {
+          chapters.map((c) => (
+            <li>
+              <a class="row link-quiet" href={`/book/${c.slug}/`}>
+                <span class="num mono">{c.number === 0 ? '·' : c.number}</span>
+                <span class="title">{c.title}</span>
+              </a>
+            </li>
+          ))
+        }
+      </ol>
+    </section>
+
+    <section class="print-note">
+      <p class="tag tag-line">The object</p>
+      <p>
+        The book is another build target of the repository. Chapters are markdown under
+        <code>book/manuscript/</code>; the appendices of the
+        <a class="link" href="/book/print/">print edition</a> (all fourteen chains, the method
+        note, the bibliography) are generated from the same dataset that builds this site, so
+        the book cannot drift from the atlas. Open the print edition and print it to PDF from the browser.
+      </p>
+    </section>
+  </div>
+</AtlasPage>
+
+<style>
+  .wrap {
+    max-width: 46rem;
+    margin-inline: auto;
+    padding-inline: clamp(1rem, 4vw, 2.5rem);
+  }
+
+  .cover {
+    padding-block: clamp(3rem, 8vw, 6rem) 1rem;
+  }
+
+  .cover h1 {
+    font-size: var(--text-display);
+    margin: 1.4rem 0 0.4rem;
+  }
+
+  .subtitle {
+    font-size: 1.5rem;
+    font-style: italic;
+    color: var(--color-ink-muted);
+    margin: 0 0 1.2rem;
+  }
+
+  .byline {
+    font-family: var(--font-mono);
+    font-size: 0.78rem;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--color-gold);
+    margin: 0 0 2rem;
+  }
+
+  .pitch {
+    font-size: 1.18rem;
+    line-height: 1.6;
+    max-width: 38em;
+  }
+
+  .contents {
+    padding-block: 2rem;
+  }
+
+  .toc {
+    list-style: none;
+    margin: 1.2rem 0 0;
+    padding: 0;
+  }
+
+  .toc li {
+    border-top: 1px solid var(--color-hairline);
+  }
+
+  .toc li:last-child {
+    border-bottom: 1px solid var(--color-hairline);
+  }
+
+  .row {
+    display: flex;
+    align-items: baseline;
+    gap: 1.2rem;
+    padding: 0.85rem 0.4rem;
+  }
+
+  .row:hover .title {
+    color: var(--color-lapis);
+  }
+
+  .num {
+    font-size: 0.78rem;
+    color: var(--color-gold);
+    min-width: 1.2rem;
+    text-align: end;
+  }
+
+  .title {
+    font-size: 1.22rem;
+    font-weight: 500;
+  }
+
+  .print-note {
+    padding-block: 1rem 2rem;
+  }
+
+  .print-note p:last-child {
+    margin-top: 1.2rem;
+    color: var(--color-ink);
+  }
+</style>

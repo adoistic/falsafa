@@ -1,0 +1,70 @@
+---
+import type { Work } from '../../lib/atlas/schema.ts';
+import { languageById, transmissionsOf } from '../../lib/atlas/data.ts';
+
+interface Props {
+  work: Work;
+}
+
+const { work } = Astro.props;
+
+const seen = new Set<string>([work.original.lang]);
+const hops = [work.original.lang];
+for (const t of transmissionsOf(work.id)) {
+  if (!seen.has(t.language)) {
+    seen.add(t.language);
+    hops.push(t.language);
+  }
+}
+const langs = hops.map((id) => languageById.get(id)!);
+---
+
+<span class="mini" aria-label={`Languages: ${langs.map((l) => l.name).join(', then ')}`}>
+  {
+    langs.map((lang, i) => (
+      <span class="hop">
+        {i > 0 && <span class="joint" aria-hidden="true" />}
+        <span class="dot" style={`--hue: ${lang.hue}`} aria-hidden="true" />
+        <span class="name">{lang.name}</span>
+      </span>
+    ))
+  }
+</span>
+
+<style>
+  .mini {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    row-gap: 0.3rem;
+  }
+
+  .hop {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .joint {
+    width: 1.1rem;
+    height: 1px;
+    background: var(--color-hairline);
+    margin-inline: 0.4rem;
+  }
+
+  .dot {
+    width: 0.55rem;
+    height: 0.55rem;
+    border-radius: 50%;
+    background: var(--hue);
+    margin-inline-end: 0.38rem;
+    flex: none;
+  }
+
+  .name {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+  }
+</style>

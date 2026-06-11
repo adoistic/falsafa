@@ -4,6 +4,12 @@ A reading site and an open-source MCP server over the same translated corpus
 of philosophical and classical texts. Built by [Adnan](https://meetadnan.com).
 Free, public, MIT.
 
+Why it exists, in one line: every classical text that survives was
+carried, by translators, revisers and patrons with names, and Falsafa
+continues that practice for machine readers. The long form of the
+argument is the book at `/book` (Carried Across: how ideas travel) and
+the evidence is the transmission atlas at `/atlas`.
+
 The fastest way in:
 
 ```bash
@@ -221,6 +227,9 @@ Eleven artifacts on the launch list:
 | 10 | gstack Skill: `gstack skills install falsafa-methodology` | pending |
 | 11 | arXiv preprint | pending — gated on graded-score eval rework (`TODOS.md`) |
 | 12 | PR back to PerseusDL | pending |
+| 13 | `falsafa.ai/atlas` the transmission atlas (Naql merged in) | built, on `feat/reader-engine-split-atlas` |
+| 14 | `falsafa.ai/book` Carried Across, with the Why-Falsafa afterword | built, on `feat/reader-engine-split-atlas` |
+| 15 | `falsafa.ai/engine` reader/engine split with engine-room hub | built, on `feat/reader-engine-split-atlas` |
 
 The corpus + MCP (Phase 1), BYOK demo at `/try` (Phase 2), and the
 eval explorer + thesis methodology + redesigned A/B benchmark chart

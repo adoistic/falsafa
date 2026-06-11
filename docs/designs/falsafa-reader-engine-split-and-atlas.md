@@ -22,16 +22,16 @@ currently is the site rather than a wing of it.
 
 ### 2.1 Two surfaces, one site, no broken URLs
 
-- **Reader surface (default):** `/`, `/works`, `/authors/*`, `/eras/*`,
+- Reader surface (default): `/`, `/works`, `/authors/*`, `/eras/*`,
   reading pages, `/about`, plus the new `/atlas`, `/book`, and `/perseus`
   (when it ships). Header nav: Library · Authors · Eras · Atlas · Book ·
   About, with one quiet right-aligned link: "Engine room".
-- **Engine surface:** new hub at `/engine/` introducing the technical
+- Engine surface: new hub at `/engine/` introducing the technical
   artifact, linking the existing pages at their existing URLs: `/thesis`,
   `/eval`, `/numbers`, `/try`, MCP install, methodology, accessibility.
   Engine pages get an engine variant of the header (Engine: Thesis · Evals ·
   Numbers · Try · MCP, plus "Back to the library"). No URL changes anywhere.
-- **Homepage reimagined reader-first:** the library is the hero (featured
+- Homepage reimagined reader-first: the library is the hero (featured
   works, eras, search). One restrained section near the foot: "Why this
   library exists" (links to /book and /atlas) and "How it works under the
   hood" (links to /engine). The current homepage's technical pitch moves to
@@ -110,4 +110,4 @@ currently is the site rather than a wing of it.
 ## 4. Out of scope here
 
 Remote MCP deployment, eval scoring rework, the arXiv preprint, full-archive
-ingestion, /perseus showcase art. They stay on their own plans.
+ingestion, /perseus gallery art. They stay on their own plans.

@@ -1,0 +1,62 @@
+---
+import type { Confidence } from '../../lib/atlas/schema.ts';
+
+interface Props {
+  confidence: Confidence;
+}
+
+const { confidence } = Astro.props;
+
+const meaning: Record<Confidence, string> = {
+  attested:
+    'Attested: named in the medieval record itself or settled in modern scholarship.',
+  probable: 'Probable: the standard scholarly view, with some uncertainty in date or actor.',
+  disputed: 'Disputed: scholars disagree about this link; see the cited evidence.',
+};
+---
+
+<a
+  class={`seal seal-${confidence}`}
+  href="/atlas/about/#grades"
+  title={meaning[confidence]}
+  aria-label={meaning[confidence]}
+>
+  <span class="glyph" aria-hidden="true"></span>
+  {confidence}
+</a>
+
+<style>
+  .seal {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    font-weight: 500;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    cursor: help;
+    text-decoration: none;
+  }
+
+  .seal:hover {
+    text-decoration: underline;
+    text-underline-offset: 0.25em;
+  }
+
+  .glyph {
+    width: 0.55rem;
+    height: 0.55rem;
+    rotate: 45deg;
+    flex: none;
+  }
+
+  .seal-attested { color: var(--color-gold); }
+  .seal-attested .glyph { background: var(--color-gold-leaf); }
+
+  .seal-probable { color: var(--color-ink-muted); }
+  .seal-probable .glyph { border: 1.5px solid var(--color-ink-faint); }
+
+  .seal-disputed { color: var(--color-madder); }
+  .seal-disputed .glyph { border: 1.5px dashed var(--color-madder); }
+</style>

@@ -133,6 +133,29 @@ a:focus-visible {
   border-bottom-color: var(--accent);
 }
 
+/* The crossing between the two surfaces: library <-> engine room.
+   Set apart from the section nav by a hairline and a fainter voice. */
+.surface-link {
+  margin-left: var(--s-4);
+  padding-left: var(--s-6);
+  border-left: 1px solid var(--rule);
+  color: var(--ink-muted);
+  font-weight: 500;
+}
+
+.surface-link::after {
+  content: " \2192";
+}
+
+.nav-drawer-link.surface-link {
+  margin-left: 0;
+  padding-left: 0;
+  border-left: none;
+  border-top: 1px solid var(--rule);
+  padding-top: var(--s-4);
+  margin-top: var(--s-2);
+}
+
 .header-actions {
   display: flex;
   gap: var(--s-3);

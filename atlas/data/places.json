@@ -1,0 +1,98 @@
+[
+  {
+    "id": "athens",
+    "name": "Athens",
+    "modern": "Athens, Greece",
+    "note": "Aristotle taught at the Lyceum here in the 4th century BCE. The school texts that came out of it spent the next two thousand years being copied, carried and translated."
+  },
+  {
+    "id": "alexandria",
+    "name": "Alexandria",
+    "modern": "Alexandria, Egypt",
+    "note": "The Hellenistic research city. Euclid compiled the Elements here around 300 BCE and Ptolemy completed the Almagest here around 150 CE. Its curriculum, especially the medical one, set the pattern that Syriac and Arabic teaching later inherited."
+  },
+  {
+    "id": "rome",
+    "name": "Rome",
+    "modern": "Rome, Italy",
+    "note": "Galen wrote most of his enormous corpus here as physician to emperors, and Plotinus taught here in the 260s. A thousand years later Rome was a translation site again: Nathan ha-Me'ati made the Hebrew Canon of Medicine here in 1279, and the Medici Oriental Press printed the Arabic text of the Canon here in 1593."
+  },
+  {
+    "id": "bhillamala",
+    "name": "Bhillamala",
+    "modern": "Bhinmal, Rajasthan, India",
+    "note": "Capital of the Gurjara kingdom, where Brahmagupta composed the Brahmasphutasiddhanta in 628 CE. The astronomy worked out here reached Baghdad within a century and a half."
+  },
+  {
+    "id": "baghdad",
+    "name": "Baghdad",
+    "modern": "Baghdad, Iraq",
+    "note": "Founded in 762 as the Abbasid capital and, for the next two centuries, the engine room of the translation movement. Caliphs, viziers and private families paid for Greek, Syriac, Sanskrit and Persian books to be turned into Arabic at rates no city had ever sustained."
+  },
+  {
+    "id": "hamadan",
+    "name": "Hamadan",
+    "modern": "Hamadan, Iran",
+    "note": "Where Ibn Sina, working as a vizier by day and writing by night, completed the Canon of Medicine around 1024 after beginning it at Jurjan and continuing it at Rayy."
+  },
+  {
+    "id": "cordoba",
+    "name": "Cordoba",
+    "modern": "Córdoba, Spain",
+    "note": "Capital of Umayyad al-Andalus and the western pole of Arabic science. A Byzantine gift manuscript was studied here by a Jewish vizier, a Greek monk and Muslim physicians in the 950s, and around 1000 the city's astronomers refit Baghdad's star tables to their own meridian."
+  },
+  {
+    "id": "al-andalus",
+    "name": "al-Andalus",
+    "region": "Islamic Spain",
+    "note": "The Iberian world in which Ibn Tufayl and Ibn Rushd worked under the Almohads. Its libraries, captured city by city during the Reconquista, supplied the Latin translators of the 12th century."
+  },
+  {
+    "id": "toledo",
+    "name": "Toledo",
+    "modern": "Toledo, Spain",
+    "note": "Taken by Castile in 1085 with its Arabic libraries intact. For the next century it was Europe's translation office: Gerard of Cremona alone turned more than seventy Arabic works into Latin here, usually with local Mozarab and Jewish collaborators."
+  },
+  {
+    "id": "segovia",
+    "name": "Segovia",
+    "modern": "Segovia, Spain",
+    "note": "Where Robert of Chester finished the first Latin translation of al-Khwarizmi's algebra in 1145, dating the colophon by the Spanish era."
+  },
+  {
+    "id": "monte-cassino",
+    "name": "Monte Cassino",
+    "modern": "Monte Cassino, Italy",
+    "note": "The mother abbey of the Benedictines. Constantine the African worked here in the late 11th century, turning Arabic medicine into the Latin texts that transformed the nearby school of Salerno."
+  },
+  {
+    "id": "venice",
+    "name": "Venice",
+    "modern": "Venice, Italy",
+    "note": "The printing capital of the late 15th century. Euclid was printed here for the first time in 1482, in a Latin text descended from the Arabic line rather than the Greek."
+  },
+  {
+    "id": "strasbourg",
+    "name": "Strasbourg",
+    "modern": "Strasbourg, France",
+    "note": "Where the Canon of Medicine is usually thought to have been first printed, around 1473, four centuries after Gerard translated it."
+  },
+  {
+    "id": "oxford",
+    "name": "Oxford",
+    "modern": "Oxford, England",
+    "note": "Home of the Bodleian Library and of England's first chair of Arabic. The Pocockes, father and son, edited and translated Hayy ibn Yaqzan here in 1671 from a manuscript bought in Aleppo."
+  },
+  {
+    "id": "london",
+    "name": "London",
+    "modern": "London, England",
+    "note": "Where Simon Ockley published his 1708 English translation of Hayy ibn Yaqzan, made directly from the Arabic."
+  },
+  {
+    "id": "amsterdam",
+    "name": "Amsterdam",
+    "modern": "Amsterdam, Netherlands",
+    "note": "The freest publishing city of 17th-century Europe. An anonymous Dutch Hayy ibn Yaqzan appeared here in 1672, usually placed in Spinoza's circle."
+  }
+]

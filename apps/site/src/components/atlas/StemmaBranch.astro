@@ -1,0 +1,256 @@
+---
+import type { StemmaNode } from '../../lib/atlas/data.ts';
+import {
+  languageById,
+  personById,
+  placeById,
+  sourceLanguageOf,
+} from '../../lib/atlas/data.ts';
+import { formatSpan } from '../../lib/atlas/format.ts';
+import ConfidenceMark from './ConfidenceMark.astro';
+import Evidence from './Evidence.astro';
+import OriginalTitle from './OriginalTitle.astro';
+import StemmaBranch from './StemmaBranch.astro';
+
+interface Props {
+  nodes: StemmaNode[];
+  /** True when this list branches off a node with several children. */
+  fork?: boolean;
+}
+
+const { nodes, fork = false } = Astro.props;
+
+const roleVerb: Record<string, string> = {
+  translator: 'translated by',
+  reviser: 'revised by',
+  author: 'written by',
+  patron: 'for',
+  commissioner: 'commissioned by',
+  commentator: 'commentary by',
+  editor: 'edited by',
+  scholar: 'with',
+};
+
+const kindLabel: Record<string, string> = {
+  translation: 'translation',
+  revision: 'revision',
+  adaptation: 'adaptation',
+  commentary: 'commentary',
+  edition: 'printed edition',
+};
+
+/** Group a transmission's people by role, preserving role order of appearance. */
+function byRole(people: { person: string; role: string }[]) {
+  const order: string[] = [];
+  const grouped = new Map<string, string[]>();
+  for (const { person, role } of people) {
+    if (!grouped.has(role)) {
+      grouped.set(role, []);
+      order.push(role);
+    }
+    grouped.get(role)!.push(person);
+  }
+  return order.map((role) => ({ role, ids: grouped.get(role)! }));
+}
+---
+
+<ol class:list={['branch', { fork }]} role="list">
+  {
+    nodes.map((node) => {
+      const t = node.transmission;
+      const target = languageById.get(t.language)!;
+      const from = sourceLanguageOf(t);
+      const place = t.place ? placeById.get(t.place) : undefined;
+      return (
+        <li class="node">
+          <span class="dot" style={`--hue: ${target.hue}`} aria-hidden="true" />
+          <div class="card">
+            <div class="head">
+              <span class="when mono">{formatSpan(t.date)}</span>
+              <span class="passage">
+                <a class="link-quiet lang" href={`/atlas/languages/${from.id}/`}>{from.name}</a>
+                <span class="arrow" aria-hidden="true">→</span>
+                <a class="link-quiet lang strong" href={`/atlas/languages/${target.id}/`}>
+                  {target.name}
+                </a>
+              </span>
+              <span class="kind">{kindLabel[t.kind]}</span>
+              <span class="grade">
+                <ConfidenceMark confidence={t.confidence} />
+              </span>
+            </div>
+            {t.title && (
+              <p class="title">
+                <OriginalTitle text={t.title.text} translit={t.title.translit} lang={t.language} />
+              </p>
+            )}
+            <p class="carriers">
+              {byRole(t.people).map(({ role, ids }, i) => (
+                <span class="role-group">
+                  {i > 0 && <span class="sep" aria-hidden="true">·</span>}
+                  <span class="verb">{roleVerb[role] ?? role}</span>{' '}
+                  {ids.map((id, j) => {
+                    const person = personById.get(id)!;
+                    return (
+                      <span>
+                        {j > 0 && ' and '}
+                        <a class="link" href={`/atlas/people/${person.id}/`}>{person.name}</a>
+                      </span>
+                    );
+                  })}
+                </span>
+              ))}
+              {place && (
+                <span class="role-group">
+                  <span class="sep" aria-hidden="true">·</span>
+                  <span class="verb">in</span>{' '}
+                  <a class="link" href={`/atlas/places/${place.id}/`}>{place.name}</a>
+                </span>
+              )}
+            </p>
+            <p class="note">{t.note}</p>
+            <Evidence evidence={t.evidence} />
+          </div>
+          {node.children.length > 0 && (
+            <StemmaBranch nodes={node.children} fork={node.children.length > 1} />
+          )}
+        </li>
+      );
+    })
+  }
+</ol>
+
+<style>
+  .branch {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .branch.fork {
+    padding-inline-start: clamp(1.1rem, 3.5vw, 2.4rem);
+  }
+
+  .node {
+    position: relative;
+    padding-inline-start: 2.2rem;
+    padding-block-end: 2.4rem;
+  }
+
+  /* The rail: from this node's dot down through everything below it. */
+  .node::before {
+    content: '';
+    position: absolute;
+    inset-inline-start: 0.48rem;
+    top: 1.15rem;
+    bottom: 0;
+    width: 1.5px;
+    background: var(--color-hairline);
+  }
+
+  .node:last-child:not(:has(.branch))::before {
+    display: none;
+  }
+
+  /* Forked branches get a tick back to the parent rail. */
+  .branch.fork > .node::after {
+    content: '';
+    position: absolute;
+    inset-inline-start: calc(-1 * clamp(1.1rem, 3.5vw, 2.4rem) + 0.48rem);
+    width: calc(clamp(1.1rem, 3.5vw, 2.4rem) - 0.1rem);
+    top: 0.62rem;
+    height: 1.5px;
+    background: var(--color-hairline);
+  }
+
+  .dot {
+    position: absolute;
+    inset-inline-start: 0;
+    top: 0.28rem;
+    width: 1.05rem;
+    height: 1.05rem;
+    border-radius: 50%;
+    background: var(--hue);
+    box-shadow:
+      0 0 0 3px var(--color-paper),
+      0 0 0 4px color-mix(in oklab, var(--hue) 45%, var(--color-paper));
+  }
+
+  .card {
+    display: grid;
+    gap: 0.45rem;
+  }
+
+  .head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.9rem;
+    flex-wrap: wrap;
+  }
+
+  .when {
+    font-size: 0.78rem;
+    font-weight: 500;
+    color: var(--color-ink);
+  }
+
+  .passage {
+    font-size: 1.02rem;
+  }
+
+  .passage .lang:hover {
+    color: var(--color-lapis);
+  }
+
+  .passage .strong {
+    font-weight: 600;
+  }
+
+  .arrow {
+    color: var(--color-gold);
+    margin-inline: 0.25rem;
+  }
+
+  .kind {
+    font-style: italic;
+    color: var(--color-ink-muted);
+    font-size: 0.95rem;
+  }
+
+  .grade {
+    margin-inline-start: auto;
+  }
+
+  .title {
+    margin: 0;
+    font-size: 1.18rem;
+  }
+
+  .carriers {
+    margin: 0;
+    font-size: 1.02rem;
+  }
+
+  .verb {
+    font-style: italic;
+    color: var(--color-ink-muted);
+  }
+
+  .sep {
+    color: var(--color-ink-faint);
+    margin-inline: 0.35rem;
+  }
+
+  .note {
+    margin: 0;
+    max-width: 60ch;
+    color: var(--color-ink);
+  }
+
+  @media (max-width: 640px) {
+    .grade {
+      margin-inline-start: 0;
+      flex-basis: 100%;
+    }
+  }
+</style>

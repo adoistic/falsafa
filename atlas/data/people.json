@@ -1,0 +1,609 @@
+[
+  {
+    "id": "aristotle",
+    "name": "Aristotle",
+    "original": { "text": "Ἀριστοτέλης", "lang": "greek" },
+    "born": -384,
+    "died": -322,
+    "roles": ["author"],
+    "note": "Philosopher of Stagira and teacher at the Lyceum in Athens. No author in this atlas was carried further: his school texts crossed into Syriac, Arabic, Hebrew and Latin, and for centuries 'the Philosopher' needed no name.",
+    "sources": [{ "source": "dancona-sep" }]
+  },
+  {
+    "id": "euclid",
+    "name": "Euclid",
+    "original": { "text": "Εὐκλείδης", "lang": "greek" },
+    "fl": "fl. c. 300 BCE, Alexandria",
+    "roles": ["author"],
+    "note": "Compiler of the Elements, the most copied mathematical text in history. Almost nothing is known of his life beyond his city and his book.",
+    "sources": [{ "source": "murdoch-1971" }]
+  },
+  {
+    "id": "ptolemy",
+    "name": "Ptolemy",
+    "original": { "text": "Κλαύδιος Πτολεμαῖος", "lang": "greek" },
+    "born": 100,
+    "died": 170,
+    "ca": true,
+    "roles": ["author"],
+    "note": "Alexandrian astronomer whose Mathematike Syntaxis became, through its Arabic name, the Almagest. His mathematical model of the heavens held for fourteen hundred years.",
+    "sources": [{ "source": "pal-project" }]
+  },
+  {
+    "id": "galen",
+    "name": "Galen",
+    "original": { "text": "Γαληνός", "lang": "greek" },
+    "born": 129,
+    "died": 216,
+    "ca": true,
+    "roles": ["author"],
+    "note": "Physician of Pergamon who wrote most of his vast corpus in Rome as doctor to emperors. Medieval medicine in Syriac, Arabic and Latin is, to a first approximation, commentary on him.",
+    "sources": [{ "source": "pormann-savage-smith-2007" }]
+  },
+  {
+    "id": "dioscorides",
+    "name": "Dioscorides",
+    "original": { "text": "Διοσκουρίδης", "lang": "greek" },
+    "fl": "fl. mid-1st century CE",
+    "roles": ["author"],
+    "note": "Greek army physician from Anazarbus in Cilicia. His catalogue of drugs and the plants they come from stayed in working use, in one language or another, for over fifteen hundred years.",
+    "sources": [{ "source": "pormann-savage-smith-2007" }]
+  },
+  {
+    "id": "hippocrates",
+    "name": "Hippocrates",
+    "original": { "text": "Ἱπποκράτης", "lang": "greek" },
+    "born": -460,
+    "died": -370,
+    "ca": true,
+    "roles": ["author"],
+    "note": "Physician of Cos and the name under which Greek medicine's founding texts travel. The Aphorisms attributed to him opened medical curricula from Alexandria to Salerno.",
+    "sources": [{ "source": "overwien-2015" }]
+  },
+  {
+    "id": "plotinus",
+    "name": "Plotinus",
+    "original": { "text": "Πλωτῖνος", "lang": "greek" },
+    "born": 204,
+    "died": 270,
+    "ca": true,
+    "roles": ["author"],
+    "note": "The founder of Neoplatonism, who taught in Rome and wrote the treatises his student Porphyry arranged as the Enneads. In Arabic, by a famous accident, much of him circulated under Aristotle's name.",
+    "sources": [{ "source": "adamson-sep" }]
+  },
+  {
+    "id": "porphyry",
+    "name": "Porphyry",
+    "original": { "text": "Πορφύριος", "lang": "greek" },
+    "born": 234,
+    "died": 305,
+    "ca": true,
+    "roles": ["editor"],
+    "note": "Plotinus' student and editor. He arranged his teacher's treatises into six groups of nine, the Enneads, and that editorial shape is what every later tradition received.",
+    "sources": [{ "source": "adamson-sep" }]
+  },
+  {
+    "id": "brahmagupta",
+    "name": "Brahmagupta",
+    "original": { "text": "ब्रह्मगुप्त", "lang": "sanskrit" },
+    "born": 598,
+    "died": 668,
+    "ca": true,
+    "roles": ["author"],
+    "note": "Astronomer and mathematician of Bhillamala in western India. His Brahmasphutasiddhanta of 628 treats zero as a number with rules of its own, and his school's astronomy reached Baghdad within 150 years.",
+    "sources": [{ "source": "pingree-1970" }]
+  },
+  {
+    "id": "ibn-sina",
+    "name": "Ibn Sina",
+    "original": { "text": "ابن سينا", "lang": "arabic" },
+    "aka": ["Avicenna"],
+    "born": 980,
+    "died": 1037,
+    "ca": true,
+    "roles": ["author"],
+    "note": "Philosopher and physician of Bukhara, Jurjan, Rayy, Hamadan and Isfahan, usually while employed as a court vizier. He wrote the Canon of Medicine in stages across those cities; Europe knew him as Avicenna and taught him for six centuries.",
+    "sources": [{ "source": "gutas-sep-ibn-sina" }]
+  },
+  {
+    "id": "al-ghazali",
+    "name": "al-Ghazali",
+    "original": { "text": "أبو حامد الغزالي", "lang": "arabic" },
+    "aka": ["Algazel"],
+    "born": 1058,
+    "died": 1111,
+    "roles": ["author"],
+    "note": "Jurist, theologian and Sufi of Tus and Baghdad, the most influential critic of the Aristotelian philosophers in Islam. Latin Europe, reading his survey of their doctrines without its preface, took him for their loyal disciple and called him Algazel.",
+    "sources": [{ "source": "griffel-sep" }]
+  },
+  {
+    "id": "ibn-tufayl",
+    "name": "Ibn Tufayl",
+    "original": { "text": "ابن طفيل", "lang": "arabic" },
+    "born": 1110,
+    "died": 1185,
+    "ca": true,
+    "roles": ["author"],
+    "note": "Physician and vizier to the Almohad caliph Abu Ya'qub Yusuf, and Ibn Rushd's patron at court. His philosophical tale of a self-taught child alone on an island became, five centuries later, an unlikely best seller in Latin, Dutch and English. He died in Marrakesh in 1185 or 1186.",
+    "sources": [{ "source": "russell-1994" }, { "source": "ben-zaken-2011" }]
+  },
+  {
+    "id": "al-khwarizmi",
+    "name": "al-Khwarizmi",
+    "original": { "text": "محمد بن موسى الخوارزمي", "lang": "arabic" },
+    "born": 780,
+    "died": 850,
+    "ca": true,
+    "roles": ["author"],
+    "note": "Mathematician and astronomer in al-Ma'mun's Baghdad. Two common nouns descend from his output: algebra, from the title of his book on equations, and algorithm, from the Latin rendering of his name.",
+    "sources": [{ "source": "toomer-1973" }]
+  },
+  {
+    "id": "ibn-rushd",
+    "name": "Ibn Rushd",
+    "original": { "text": "ابن رشد", "lang": "arabic" },
+    "aka": ["Averroes", "the Commentator"],
+    "born": 1126,
+    "died": 1198,
+    "roles": ["author", "commentator"],
+    "note": "Judge of Cordoba and Seville, court physician to the Almohads, and the most thorough commentator Aristotle ever had. Latin universities knew him simply as the Commentator. He died in Marrakesh in December 1198, out of favor and far from his books.",
+    "sources": [{ "source": "sep-ibn-rushd" }]
+  },
+  {
+    "id": "hunayn-ibn-ishaq",
+    "name": "Hunayn ibn Ishaq",
+    "original": { "text": "حنين بن إسحاق", "lang": "arabic" },
+    "aka": ["Johannitius"],
+    "born": 808,
+    "died": 873,
+    "ca": true,
+    "roles": ["translator", "reviser", "scholar"],
+    "note": "The greatest of the Baghdad translators: an Arab Christian of the Church of the East, born in al-Hira, who catalogued 129 works of Galen and translated about a hundred of them into Syriac or Arabic himself. He hunted manuscripts across Mesopotamia, Syria, Palestine and Egypt, graded earlier translations like an examiner, and served al-Mutawakkil as court physician. Some traditions place his death in 877. His paymasters were mostly private patrons, against the later legend that a caliphal House of Wisdom employed him.",
+    "sources": [{ "source": "strohmaier-ei2" }, { "source": "hunayn-risala" }, { "source": "gutas-1998" }]
+  },
+  {
+    "id": "ishaq-ibn-hunayn",
+    "name": "Ishaq ibn Hunayn",
+    "original": { "text": "إسحاق بن حنين", "lang": "arabic" },
+    "died": 910,
+    "ca": true,
+    "roles": ["translator"],
+    "note": "Hunayn's son and the philosophical specialist of the family workshop. Where his father concentrated on Galen, Ishaq turned Aristotle, Euclid and Ptolemy into Arabic. He died in 910 or 911.",
+    "sources": [{ "source": "fihrist" }, { "source": "treiger-2017" }]
+  },
+  {
+    "id": "hubaysh",
+    "name": "Hubaysh ibn al-Hasan",
+    "fl": "fl. later 9th century, Baghdad",
+    "roles": ["translator"],
+    "note": "Hunayn's nephew and one of the main hands of his school. Much of the Arabic Galen that circulates under Hunayn's name was Hubaysh's work from his uncle's Syriac versions, a division of labor the Risala records candidly.",
+    "sources": [{ "source": "hunayn-risala" }, { "source": "strohmaier-ei2" }]
+  },
+  {
+    "id": "thabit-ibn-qurra",
+    "name": "Thabit ibn Qurra",
+    "original": { "text": "ثابت بن قرة", "lang": "arabic" },
+    "born": 836,
+    "died": 901,
+    "roles": ["reviser", "translator", "scholar"],
+    "note": "Mathematician from Harran, a pagan Sabian in a city of star worshippers, recruited to Baghdad by the Banu Musa. He revised the Arabic Euclid and Ptolemy with a mathematician's eye, which is why later readers preferred the versions he touched.",
+    "sources": [{ "source": "murdoch-1971" }, { "source": "pal-project" }]
+  },
+  {
+    "id": "al-hajjaj",
+    "name": "al-Hajjaj ibn Yusuf ibn Matar",
+    "original": { "text": "الحجاج بن يوسف بن مطر", "lang": "arabic" },
+    "fl": "fl. 786-833, Baghdad",
+    "roles": ["translator", "reviser"],
+    "note": "The first known Arabic translator of Euclid's Elements and one of the first of the Almagest. He translated Euclid once for the Barmakid vizier Yahya ibn Khalid and again, leaner, for al-Ma'mun, saying he had cut the superfluities and corrected the errors.",
+    "sources": [{ "source": "bea-2007" }, { "source": "murdoch-1971" }]
+  },
+  {
+    "id": "sergius-of-reshaina",
+    "name": "Sergius of Reshaina",
+    "died": 536,
+    "roles": ["translator", "scholar"],
+    "note": "Chief physician of Reshaina in Mesopotamia, trained in Alexandria under Ammonius, and the first great translator of Greek medicine into Syriac. Hunayn's Risala names twenty-six works of Galen in his versions, three centuries before Hunayn graded and replaced them. He died in Constantinople.",
+    "sources": [{ "source": "hunayn-risala" }, { "source": "bhayro-2017" }]
+  },
+  {
+    "id": "istifan-ibn-basil",
+    "name": "Istifan ibn Basil",
+    "fl": "fl. mid-9th century, Baghdad",
+    "roles": ["translator"],
+    "note": "Translator of Dioscorides into Arabic in Hunayn's circle. Where he could not identify a plant he left its Greek name standing in Arabic letters, an honest gap that took a century and a Byzantine manuscript to close.",
+    "sources": [{ "source": "ibn-juljul" }, { "source": "pormann-savage-smith-2007" }]
+  },
+  {
+    "id": "nicholas-the-monk",
+    "name": "Nicholas the monk",
+    "fl": "fl. 951-961, Cordoba",
+    "roles": ["reviser", "scholar"],
+    "note": "A Greek monk sent from Constantinople after the caliph of Cordoba admitted that nobody in al-Andalus could read the illustrated Dioscorides the emperor had sent. He worked with the city's physicians to pin the Greek plant names to real Andalusian drugs, and died early in al-Hakam II's reign.",
+    "sources": [{ "source": "ibn-juljul" }]
+  },
+  {
+    "id": "hasdai-ibn-shaprut",
+    "name": "Hasdai ibn Shaprut",
+    "original": { "text": "חסדאי אבן שפרוט", "lang": "hebrew" },
+    "born": 915,
+    "died": 970,
+    "ca": true,
+    "roles": ["scholar", "patron"],
+    "note": "Jewish physician, diplomat and de facto foreign minister to Abd al-Rahman III, and head of Iberia's Jewish community. He presided over the Cordoba circle that corrected the Arabic Dioscorides against the Byzantine gift manuscript.",
+    "sources": [{ "source": "ibn-juljul" }]
+  },
+  {
+    "id": "ibn-juljul-person",
+    "name": "Ibn Juljul",
+    "born": 944,
+    "died": 994,
+    "ca": true,
+    "roles": ["scholar"],
+    "note": "Cordoban physician and historian of medicine. He took part in the Dioscorides revision as a young man and later wrote the Generations of Physicians, the book through which we know the whole episode.",
+    "sources": [{ "source": "ibn-juljul" }]
+  },
+  {
+    "id": "burzoy",
+    "name": "Burzoy",
+    "aka": ["Burzoe", "Borzuya"],
+    "fl": "fl. mid-6th century, court of Khosrow I",
+    "roles": ["translator"],
+    "note": "Physician to Khosrow I Anushirvan. The story the book tells about him says he went to India for a herb that raises the dead and came back having understood that the herb was a book. His Middle Persian Kalila compilation is lost; everything west of India descends from it.",
+    "sources": [{ "source": "de-blois-1990" }]
+  },
+  {
+    "id": "bud-the-periodeutes",
+    "name": "Bud the periodeutes",
+    "fl": "fl. c. 570",
+    "roles": ["translator"],
+    "note": "An itinerant supervising cleric of the Church of the East, a rank above priest and below bishop, who made the Old Syriac Kalilag and Damnag from Burzoy's Persian. His translation is the oldest surviving witness to the lost Pahlavi book.",
+    "sources": [{ "source": "de-blois-1990" }]
+  },
+  {
+    "id": "ibn-al-muqaffa",
+    "name": "Ibn al-Muqaffa",
+    "original": { "text": "عبد الله بن المقفع", "lang": "arabic" },
+    "born": 720,
+    "died": 757,
+    "ca": true,
+    "roles": ["translator", "author"],
+    "note": "Persian convert to Islam, state secretary, and the founder of Arabic literary prose. His Kalila wa-Dimna is less a translation than a reinvention; it became one of the most copied books in Arabic. He was executed around 756-759, still in his thirties.",
+    "sources": [{ "source": "riedel-2010" }, { "source": "de-blois-1990" }]
+  },
+  {
+    "id": "rabbi-joel",
+    "name": "Rabbi Joel",
+    "fl": "fl. 12th century",
+    "roles": ["translator"],
+    "note": "The Hebrew translator of Kalila wa-Dimna, known only because John of Capua says he worked from Rabbi Joel's version. A carrier whose entire biography is one sentence in someone else's preface.",
+    "sources": [{ "source": "riedel-2010" }]
+  },
+  {
+    "id": "john-of-capua",
+    "name": "John of Capua",
+    "fl": "fl. 1263-1278, Rome",
+    "roles": ["translator"],
+    "note": "A Jewish convert to Christianity who translated the Hebrew Kalila into Latin as the Directorium humanae vitae, the version through which the fables entered most European vernaculars.",
+    "sources": [{ "source": "riedel-2010" }]
+  },
+  {
+    "id": "alfonso-x",
+    "name": "Alfonso X of Castile",
+    "aka": ["Alfonso the Learned", "el Sabio"],
+    "born": 1221,
+    "died": 1284,
+    "roles": ["commissioner", "patron"],
+    "note": "King of Castile from 1252 and patron of a court translation industry that moved Arabic learning into Castilian rather than Latin. The Calila e Dimna of 1251 was made at his order while he was still crown prince.",
+    "sources": [{ "source": "riedel-2010" }]
+  },
+  {
+    "id": "al-fazari",
+    "name": "al-Fazari",
+    "fl": "fl. 770s, Baghdad",
+    "roles": ["translator", "scholar"],
+    "note": "Astronomer at al-Mansur's court who, with Yaqub ibn Tariq, turned the Sanskrit astronomy brought by an Indian embassy into the Arabic Zij al-Sindhind. Medieval biographers split him into a father and son; modern scholarship reads the reports as one man, Muhammad ibn Ibrahim al-Fazari.",
+    "sources": [{ "source": "pingree-1970" }, { "source": "bea-2007" }]
+  },
+  {
+    "id": "yaqub-ibn-tariq",
+    "name": "Yaqub ibn Tariq",
+    "fl": "fl. 770s, Baghdad",
+    "roles": ["scholar", "translator"],
+    "note": "Al-Fazari's collaborator on the Arabic Sindhind, said to have worked directly with the visiting Indian astronomer on the parameters.",
+    "sources": [{ "source": "pingree-1970" }]
+  },
+  {
+    "id": "maslama-al-majriti",
+    "name": "Maslama al-Majriti",
+    "original": { "text": "مسلمة المجريطي", "lang": "arabic" },
+    "died": 1007,
+    "ca": true,
+    "roles": ["reviser", "scholar"],
+    "note": "The leading astronomer of Umayyad Cordoba, from Madrid when Madrid was a frontier town. Around 1000 he and his pupil Ibn al-Saffar recomputed al-Khwarizmi's Baghdad tables for the meridian of Cordoba and the Islamic calendar, the version Europe would later receive.",
+    "sources": [{ "source": "bea-2007" }]
+  },
+  {
+    "id": "ibn-al-saffar",
+    "name": "Ibn al-Saffar",
+    "died": 1035,
+    "roles": ["reviser", "scholar"],
+    "note": "Maslama al-Majriti's pupil and collaborator on the Cordoba revision of al-Khwarizmi's tables.",
+    "sources": [{ "source": "bea-2007" }]
+  },
+  {
+    "id": "adelard-of-bath",
+    "name": "Adelard of Bath",
+    "born": 1080,
+    "died": 1152,
+    "ca": true,
+    "roles": ["translator"],
+    "note": "England's first Arabist, who traveled the Norman Mediterranean for seven years and came home urging readers to follow reason rather than authority. His Latin Euclid of c. 1120 and his 1126 version of al-Khwarizmi's tables opened Arabic mathematics to the Latin schools.",
+    "sources": [{ "source": "mercier-1987" }, { "source": "murdoch-1971" }]
+  },
+  {
+    "id": "robert-of-chester",
+    "name": "Robert of Chester",
+    "fl": "fl. 1140s, Spain",
+    "roles": ["translator"],
+    "note": "The Englishman who finished the first Latin translation of al-Khwarizmi's algebra at Segovia in 1145. Whether he is the same man as Robert of Ketton, who had translated the Qur'an for Peter the Venerable two years earlier, is a live scholarly question; if so, one translator carried both the Qur'an and algebra into Latin.",
+    "sources": [{ "source": "hughes-1989" }, { "source": "burnett-2004" }]
+  },
+  {
+    "id": "gerard-of-cremona",
+    "name": "Gerard of Cremona",
+    "born": 1114,
+    "died": 1187,
+    "ca": true,
+    "roles": ["translator"],
+    "note": "The most prolific translator of the Middle Ages. His students say he went to Toledo for love of the Almagest, which no Latin library had, learned Arabic there, and stayed for life. He never signed his work; after his death his students listed the seventy-plus books he had translated, working with local collaborators like the Mozarab Galib.",
+    "sources": [{ "source": "lemay-1978" }, { "source": "burnett-2001" }]
+  },
+  {
+    "id": "michael-scot",
+    "name": "Michael Scot",
+    "born": 1175,
+    "died": 1236,
+    "ca": true,
+    "roles": ["translator", "scholar"],
+    "note": "Scottish scholar and court astrologer, in Toledo by 1217, then Bologna, the papal curia, and from about 1227 the court of Frederick II. He carried Averroes into Latin; only one of those translations bears his name, and stylometry credits him with the rest. Dante put him among the diviners in hell.",
+    "sources": [{ "source": "burnett-1994" }, { "source": "hasse-2010" }]
+  },
+  {
+    "id": "zerahyah-hen",
+    "name": "Zerahyah ben Isaac Hen",
+    "fl": "fl. 1277-1291, Rome",
+    "roles": ["translator"],
+    "note": "Barcelona-born Hebrew translator working in Rome. His 1284 Hebrew De Anima, made from the Arabic, is one of the surviving witnesses to Ishaq ibn Hunayn's lost translation.",
+    "sources": [{ "source": "treiger-2017" }]
+  },
+  {
+    "id": "gundissalinus",
+    "name": "Dominicus Gundissalinus",
+    "fl": "fl. 1162-1181, Toledo",
+    "roles": ["translator"],
+    "note": "Archdeacon at Toledo and the philosophical specialist among its translators, usually working in tandem with Arabic-speaking collaborators. His Latin Ghazali, made with Magister Iohannes, accidentally manufactured a phantom Aristotelian named Algazel.",
+    "sources": [{ "source": "minnema-2014" }, { "source": "burnett-2001" }]
+  },
+  {
+    "id": "magister-iohannes",
+    "name": "Magister Iohannes",
+    "aka": ["Iohannes Hispanus"],
+    "died": 1215,
+    "roles": ["translator"],
+    "note": "Toledan master, later dean of the cathedral, who collaborated with Gundissalinus on translations from Arabic. Long confused with the earlier translator John of Seville; Charles Burnett untangled the two.",
+    "sources": [{ "source": "minnema-2014" }]
+  },
+  {
+    "id": "constantine-the-african",
+    "name": "Constantine the African",
+    "died": 1098,
+    "ca": true,
+    "roles": ["translator"],
+    "note": "A merchant or scholar from Ifriqiya, probably a Muslim convert to Christianity, who became a monk at Monte Cassino around 1077 and spent two decades turning Arabic medicine into Latin. He presented much of it under his own name, which contemporaries already complained about. He died before 1098 or 1099.",
+    "sources": [{ "source": "burnett-jacquart-1994" }]
+  },
+  {
+    "id": "athanasius-of-balad",
+    "name": "Athanasius of Balad",
+    "died": 687,
+    "roles": ["translator", "scholar"],
+    "note": "Syriac Orthodox patriarch trained at the monastery of Qenneshre on the Euphrates, the powerhouse of Greek learning in the early Islamic Middle East. His seventh-century translations completed the Syriac Organon a century before the caliphs wanted it in Arabic.",
+    "sources": [{ "source": "tannous-2018" }]
+  },
+  {
+    "id": "timothy-i",
+    "name": "Timothy I",
+    "born": 740,
+    "died": 823,
+    "ca": true,
+    "roles": ["translator"],
+    "note": "Patriarch of the Church of the East from 780, resident in Baghdad and at ease at the caliph's court. His surviving letters show him hunting Syriac Aristotle manuscripts in monastery libraries to fulfill al-Mahdi's commission for an Arabic Topics.",
+    "sources": [{ "source": "gutas-1998" }]
+  },
+  {
+    "id": "abu-nuh",
+    "name": "Abu Nuh al-Anbari",
+    "fl": "fl. c. 780, Baghdad",
+    "roles": ["translator"],
+    "note": "Christian secretary to the governor of Mosul and Timothy I's collaborator on the Arabic Topics.",
+    "sources": [{ "source": "gutas-1998" }]
+  },
+  {
+    "id": "ibn-naima-al-himsi",
+    "name": "Ibn Na'ima al-Himsi",
+    "fl": "fl. early 9th century, Baghdad",
+    "roles": ["translator"],
+    "note": "Translator from Homs in al-Kindi's circle. His Arabic Plotinus, reworked and prefaced, became the Theology of Aristotle; the preface names him honestly even though the title does not.",
+    "sources": [{ "source": "adamson-sep" }]
+  },
+  {
+    "id": "al-kindi",
+    "name": "al-Kindi",
+    "original": { "text": "الكندي", "lang": "arabic" },
+    "born": 801,
+    "died": 870,
+    "ca": true,
+    "roles": ["reviser", "scholar"],
+    "note": "The first philosopher of the Arabs, tutor to the Abbasid prince Ahmad ibn al-Mu'tasim, and impresario of a translation circle that put Greek metaphysics into Arabic. He corrected the Arabic Plotinus paraphrase for his student; the result carried Aristotle's name and Neoplatonism's content.",
+    "sources": [{ "source": "adamson-sep" }, { "source": "gutas-1998" }]
+  },
+  {
+    "id": "ahmad-ibn-al-mutasim",
+    "name": "Ahmad ibn al-Mu'tasim",
+    "fl": "fl. 833-842, Baghdad",
+    "roles": ["patron"],
+    "note": "Abbasid prince, son of the caliph al-Mu'tasim and al-Kindi's student, dedicatee of the Theology of Aristotle. The dedication is what lets scholars date the book.",
+    "sources": [{ "source": "adamson-sep" }]
+  },
+  {
+    "id": "nathan-ha-meati",
+    "name": "Nathan ha-Me'ati",
+    "fl": "fl. 1279-1283, Rome",
+    "roles": ["translator"],
+    "note": "Hebrew translator in Rome, called the prince of translators by later tradition. His complete Hebrew Canon of Medicine, finished in 1279, made Ibn Sina a working author inside European Jewish medicine.",
+    "sources": [{ "source": "siraisi-1987" }]
+  },
+  {
+    "id": "campanus-of-novara",
+    "name": "Campanus of Novara",
+    "born": 1220,
+    "died": 1296,
+    "ca": true,
+    "roles": ["reviser", "scholar"],
+    "note": "Chaplain to popes and mathematician. His mid-13th-century reworking of the Latin Euclid, built on the Adelard tradition, became the standard university text and, in 1482, the first Euclid ever printed.",
+    "sources": [{ "source": "murdoch-1971" }]
+  },
+  {
+    "id": "erhard-ratdolt",
+    "name": "Erhard Ratdolt",
+    "born": 1442,
+    "died": 1528,
+    "ca": true,
+    "roles": ["editor"],
+    "note": "Augsburg printer working in Venice who solved the problem nobody had solved in twenty-five years of printing: how to set geometric diagrams in type. His 1482 Elements is one of the most beautiful scientific books ever made.",
+    "sources": [{ "source": "murdoch-1971" }]
+  },
+  {
+    "id": "adolf-rusch",
+    "name": "Adolf Rusch",
+    "born": 1435,
+    "died": 1489,
+    "ca": true,
+    "roles": ["editor"],
+    "note": "Strasbourg printer usually credited with the first printed edition of the Latin Canon of Medicine, around 1473.",
+    "sources": [{ "source": "siraisi-1987" }]
+  },
+  {
+    "id": "raimondi",
+    "name": "Giovanni Battista Raimondi",
+    "born": 1536,
+    "died": 1614,
+    "ca": true,
+    "roles": ["editor"],
+    "note": "Director of the Medici Oriental Press in Rome, which cut Arabic type good enough to print the Canon in its own language in 1593, mostly for export back to the lands that wrote it.",
+    "sources": [{ "source": "siraisi-1987" }]
+  },
+  {
+    "id": "edward-pococke-elder",
+    "name": "Edward Pococke the elder",
+    "born": 1604,
+    "died": 1691,
+    "roles": ["editor", "scholar"],
+    "note": "England's first professor of Arabic, at Oxford from 1636. As Levant Company chaplain in Aleppo in the 1630s he bought the manuscript of Hayy ibn Yaqzan that his son would translate; he edited the Arabic and wrote the preface of the 1671 edition.",
+    "sources": [{ "source": "russell-1994" }]
+  },
+  {
+    "id": "edward-pococke-younger",
+    "name": "Edward Pococke the younger",
+    "born": 1648,
+    "died": 1727,
+    "roles": ["translator"],
+    "note": "Translated Ibn Tufayl into Latin at twenty-three, as Philosophus Autodidactus, in the bilingual Oxford edition of 1671 that he produced with his father.",
+    "sources": [{ "source": "russell-1994" }]
+  },
+  {
+    "id": "george-keith",
+    "name": "George Keith",
+    "born": 1638,
+    "died": 1716,
+    "ca": true,
+    "roles": ["translator"],
+    "note": "Quaker preacher who Englished the Philosophus Autodidactus in 1674, three years after the Latin appeared. The Quakers read the self-taught islander as a parable of the inner light.",
+    "sources": [{ "source": "russell-1994" }]
+  },
+  {
+    "id": "simon-ockley",
+    "name": "Simon Ockley",
+    "born": 1678,
+    "died": 1720,
+    "roles": ["translator"],
+    "note": "Cambridge Arabist, professor of Arabic from 1711, chronically poor and partly writing from debtors' prison. His 1708 Improvement of Human Reason translated Ibn Tufayl directly from the Arabic for English readers.",
+    "sources": [{ "source": "russell-1994" }, { "source": "ben-zaken-2011" }]
+  },
+  {
+    "id": "johannes-bouwmeester",
+    "name": "Johannes Bouwmeester",
+    "born": 1634,
+    "died": 1680,
+    "roles": ["translator"],
+    "note": "Amsterdam physician, close friend of Spinoza and co-founder of the literary society Nil Volentibus Arduum. The anonymous 1672 Dutch Hayy ibn Yaqzan is usually laid at his door, without proof.",
+    "sources": [{ "source": "russell-1994" }, { "source": "ben-zaken-2011" }]
+  },
+  {
+    "id": "yahya-ibn-khalid",
+    "name": "Yahya ibn Khalid al-Barmaki",
+    "died": 805,
+    "roles": ["patron", "commissioner"],
+    "note": "Barmakid vizier to Harun al-Rashid and one of the earliest great patrons of translation, commissioning the first Arabic Euclid and promoting the first Arabic Almagest before his family's spectacular fall.",
+    "sources": [{ "source": "gutas-1998" }, { "source": "bea-2007" }]
+  },
+  {
+    "id": "al-mansur",
+    "name": "al-Mansur",
+    "born": 714,
+    "died": 775,
+    "ca": true,
+    "roles": ["patron", "commissioner"],
+    "note": "Second Abbasid caliph, founder of Baghdad, and the ruler whose court received the Indian embassy of the early 770s. Astrology convinced him; the Arabic Sindhind was the result.",
+    "sources": [{ "source": "gutas-1998" }, { "source": "pingree-1970" }]
+  },
+  {
+    "id": "al-mahdi",
+    "name": "al-Mahdi",
+    "born": 744,
+    "died": 785,
+    "ca": true,
+    "roles": ["commissioner", "patron"],
+    "note": "Third Abbasid caliph. Needing Aristotle's manual of dialectic for staged debates with theologians of other faiths, he commissioned the patriarch Timothy I to produce an Arabic Topics around 782.",
+    "sources": [{ "source": "gutas-1998" }]
+  },
+  {
+    "id": "al-mamun",
+    "name": "al-Ma'mun",
+    "original": { "text": "المأمون", "lang": "arabic" },
+    "born": 786,
+    "died": 833,
+    "roles": ["patron"],
+    "note": "Seventh Abbasid caliph and the translation movement's most famous patron. Al-Khwarizmi dedicated the algebra to him; al-Hajjaj made his second Euclid and his Almagest under him. Later legend inflated his library into a formal academy.",
+    "sources": [{ "source": "gutas-1998" }]
+  },
+  {
+    "id": "khosrow-i",
+    "name": "Khosrow I Anushirvan",
+    "died": 579,
+    "roles": ["patron", "commissioner"],
+    "note": "Sasanian king of kings, reigned 531-579, remembered in Persian tradition as the just king and collector of the world's wisdom. He sent his physician Burzoy to India, and the Kalila tradition is the most durable thing his court produced.",
+    "sources": [{ "source": "de-blois-1990" }]
+  },
+  {
+    "id": "abd-al-rahman-iii",
+    "name": "Abd al-Rahman III",
+    "original": { "text": "عبد الرحمن الثالث", "lang": "arabic" },
+    "born": 891,
+    "died": 961,
+    "roles": ["patron"],
+    "note": "First Umayyad caliph of Cordoba, reigned 912-961. When Constantinople sent him a luxury Dioscorides nobody in al-Andalus could read, he wrote back asking for a Greek tutor, and got one.",
+    "sources": [{ "source": "ibn-juljul" }]
+  }
+]
