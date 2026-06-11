@@ -1,0 +1,2097 @@
+[
+  {
+    "id": "p-95e892",
+    "offset": 0,
+    "text": "If two similar plane numbers by multiplying one another make some number, the product will be square."
+  },
+  {
+    "id": "p-ac6d7c",
+    "offset": 103,
+    "text": "Let A, B be two similar plane numbers, and let A by multiplying B make C; I say that C is square."
+  },
+  {
+    "id": "p-809ab8",
+    "offset": 202,
+    "text": "For let A by multiplying itself make D."
+  },
+  {
+    "id": "p-e30124",
+    "offset": 243,
+    "text": "Therefore D is square."
+  },
+  {
+    "id": "p-9590d7",
+    "offset": 267,
+    "text": "Since then A by multiplying itself has made D, and by multiplying B has made C, therefore, as A is to B, so is D to C. [ VII. 17]"
+  },
+  {
+    "id": "p-e76822",
+    "offset": 398,
+    "text": "And, since A, B are similar plane numbers, therefore one mean proportional number falls between A, B. [ VIII. 18]"
+  },
+  {
+    "id": "p-06ffcc",
+    "offset": 513,
+    "text": "But, if numbers fall between two numbers in continued proportion, as many as fall between them, so many also fall between those which have the same ratio; [ VIII. 8] so that one mean proportional number falls between D, C also."
+  },
+  {
+    "id": "p-ee8963",
+    "offset": 742,
+    "text": "And D is square; therefore C is also square. [ VIII. 22] Q. E. D."
+  },
+  {
+    "id": "p-3842ff",
+    "offset": 809,
+    "text": "If two numbers by multiplying one another make a square number, they are similar plane numbers."
+  },
+  {
+    "id": "p-284e47",
+    "offset": 906,
+    "text": "Let A, B be two numbers, and let A by multiplying B make the square number C; I say that A, B are similar plane numbers."
+  },
+  {
+    "id": "p-27773a",
+    "offset": 1028,
+    "text": "For let A by multiplying itself make D; therefore D is square."
+  },
+  {
+    "id": "p-7b2919",
+    "offset": 1092,
+    "text": "Now, since A by multiplying itself has made D, and by multiplying B has made C, therefore, as A is to B, so is D to C. [ VII. 17]"
+  },
+  {
+    "id": "p-de9ffe",
+    "offset": 1223,
+    "text": "And, since D is square, and C is so also, therefore D, C are similar plane numbers."
+  },
+  {
+    "id": "p-8dde84",
+    "offset": 1308,
+    "text": "Therefore one mean proportional number falls between D, C. [ VIII. 18]"
+  },
+  {
+    "id": "p-c35862",
+    "offset": 1380,
+    "text": "And, as D is to C, so is A to B; therefore one mean proportional number falls between A, B also. [ VIII. 8]"
+  },
+  {
+    "id": "p-e027f1",
+    "offset": 1489,
+    "text": "But, if one mean proportional number fall between two numbers, they are similar plane numbers; [ VIII. 20] therefore A, B are similar plane numbers. Q. E. D."
+  },
+  {
+    "id": "p-9a942e",
+    "offset": 1648,
+    "text": "If a cube number by multiplying itself make some number, the product will be cube."
+  },
+  {
+    "id": "p-504759",
+    "offset": 1732,
+    "text": "For let the cube number A by multiplying itself make B; I say that B is cube."
+  },
+  {
+    "id": "p-1aa516",
+    "offset": 1811,
+    "text": "For let C, the side of A, be taken, and let C by multiplying itself make D."
+  },
+  {
+    "id": "p-267a96",
+    "offset": 1888,
+    "text": "It is then manifest that C by multiplying D has made A."
+  },
+  {
+    "id": "p-bd3485",
+    "offset": 1945,
+    "text": "Now, since C by multiplying itself has made D, therefore C measures D according to the units in itself."
+  },
+  {
+    "id": "p-09e1d2",
+    "offset": 2050,
+    "text": "But further the unit also measures C according to the units in it; therefore, as the unit is to C, so is C to D. [ VII. Def. 20]"
+  },
+  {
+    "id": "p-97224b",
+    "offset": 2180,
+    "text": "Again, since C by multiplying D has made A, therefore D measures A according to the units in C."
+  },
+  {
+    "id": "p-431b65",
+    "offset": 2277,
+    "text": "But the unit also measures C according to the units in it; therefore, as the unit is to C, so is D to A."
+  },
+  {
+    "id": "p-3f858a",
+    "offset": 2383,
+    "text": "But, as the unit is to C, so is C to D; therefore also, as the unit is to C, so is C to D, and D to A."
+  },
+  {
+    "id": "p-7b6ce9",
+    "offset": 2487,
+    "text": "Therefore between the unit and the number A two mean proportional numbers C, D have fallen in continued proportion."
+  },
+  {
+    "id": "p-79aaae",
+    "offset": 2604,
+    "text": "Again, since A by multiplying itself has made B, therefore A measures B according to the units in itself."
+  },
+  {
+    "id": "p-c46808",
+    "offset": 2711,
+    "text": "But the unit also measures A according to the units in it; therefore, as the unit is to A, so is A to B. [ VII. Def. 20]"
+  },
+  {
+    "id": "p-c7e200",
+    "offset": 2833,
+    "text": "But between the unit and A two mean proportional numbers have fallen; therefore two mean proportional numbers will also fall between A, B. [ VIII. 8]"
+  },
+  {
+    "id": "p-02617b",
+    "offset": 2984,
+    "text": "But, if two mean proportional numbers fall between two numbers, and the first be cube, the second will also be cube. [ VIII. 23]"
+  },
+  {
+    "id": "p-882d1b",
+    "offset": 3114,
+    "text": "And A is cube; therefore B is also cube. Q. E. D."
+  },
+  {
+    "id": "p-70a196",
+    "offset": 3165,
+    "text": "If a cube number by multiplying a cube number make some number, the product will be cube."
+  },
+  {
+    "id": "p-3ec7f8",
+    "offset": 3256,
+    "text": "For let the cube number A by multiplying the cube number B make C; I say that C is cube."
+  },
+  {
+    "id": "p-9f4b94",
+    "offset": 3346,
+    "text": "For let A by multiplying itself make D; therefore D is cube. [ IX. 3]"
+  },
+  {
+    "id": "p-43e822",
+    "offset": 3417,
+    "text": "And, since A by multiplying itself has made D, and by multiplying B has made C therefore, as A is to B, so is D to C. [ VII. 17]"
+  },
+  {
+    "id": "p-32e2f1",
+    "offset": 3547,
+    "text": "And, since A, B are cube numbers, A, B are similar solid numbers."
+  },
+  {
+    "id": "p-ed124d",
+    "offset": 3614,
+    "text": "Therefore two mean proportional numbers fall between A, B; [ VIII. 19] so that two mean proportional numbers will fall between D, C also. [ VIII. 8]"
+  },
+  {
+    "id": "p-d7b565",
+    "offset": 3764,
+    "text": "And D is cube; therefore C is also cube [ VIII. 23] Q. E. D."
+  },
+  {
+    "id": "p-b5c5c1",
+    "offset": 3826,
+    "text": "If a cube number by multiplying any number make a cube number, the multiplied number will also be cube."
+  },
+  {
+    "id": "p-2bf0a5",
+    "offset": 3931,
+    "text": "For let the cube number A by multiplying any number B make the cube number C; I say that B is cube."
+  },
+  {
+    "id": "p-9f4b94",
+    "offset": 4032,
+    "text": "For let A by multiplying itself make D; therefore D is cube. [ IX. 3]"
+  },
+  {
+    "id": "p-7b2919",
+    "offset": 4103,
+    "text": "Now, since A by multiplying itself has made D, and by multiplying B has made C, therefore, as A is to B, so is D to C. [ VII. 17]"
+  },
+  {
+    "id": "p-505537",
+    "offset": 4234,
+    "text": "And since D, C are cube, they are similar solid numbers."
+  },
+  {
+    "id": "p-990244",
+    "offset": 4292,
+    "text": "Therefore two mean proportional numbers fall between D, C. [ VIII. 19]"
+  },
+  {
+    "id": "p-b106ba",
+    "offset": 4364,
+    "text": "And, as D is to C, so is A to B; therefore two mean proportional numbers fall between A, B also. [ VIII. 8]"
+  },
+  {
+    "id": "p-fa857a",
+    "offset": 4473,
+    "text": "And A is cube; therefore B is also cube. [ VIII. 23]"
+  },
+  {
+    "id": "p-93d3df",
+    "offset": 4527,
+    "text": "If a number by multiplying itself make a cube number, it will itself also be cube."
+  },
+  {
+    "id": "p-3896dc",
+    "offset": 4611,
+    "text": "For let the number A by multiplying itself make the cube number B; I say that A is also cube."
+  },
+  {
+    "id": "p-8a9ea9",
+    "offset": 4706,
+    "text": "For let A by multiplying B make C."
+  },
+  {
+    "id": "p-8b17b7",
+    "offset": 4742,
+    "text": "Since, then, A by multiplying itself has made B, and by multiplying B has made C, therefore C is cube."
+  },
+  {
+    "id": "p-92ae34",
+    "offset": 4846,
+    "text": "And, since A by multiplying itself has made B, therefore A measures B according to the units in itself."
+  },
+  {
+    "id": "p-e012ff",
+    "offset": 4951,
+    "text": "But the unit also measures A according to the units in it."
+  },
+  {
+    "id": "p-84b562",
+    "offset": 5011,
+    "text": "Therefore, as the unit is to A, so is A to B. [ VII. Def. 20]"
+  },
+  {
+    "id": "p-ea918c",
+    "offset": 5074,
+    "text": "And, since A by multiplying B has made C, therefore B measures C according to the units in A."
+  },
+  {
+    "id": "p-e012ff",
+    "offset": 5169,
+    "text": "But the unit also measures A according to the units in it."
+  },
+  {
+    "id": "p-3f8018",
+    "offset": 5229,
+    "text": "Therefore, as the unit is to A, so is B to C. [ VII. Def. 20]"
+  },
+  {
+    "id": "p-ce948e",
+    "offset": 5292,
+    "text": "But, as the unit is to A, so is A to B; therefore also, as A is to B, so is B to C."
+  },
+  {
+    "id": "p-a8cd57",
+    "offset": 5377,
+    "text": "And, since B, C are cube, they are similar solid numbers."
+  },
+  {
+    "id": "p-505af2",
+    "offset": 5436,
+    "text": "Therefore there are two mean proportional numbers between B, C. [ VIII. 19]"
+  },
+  {
+    "id": "p-ec1bee",
+    "offset": 5513,
+    "text": "And, as B is to C, so is A to B."
+  },
+  {
+    "id": "p-71bc64",
+    "offset": 5547,
+    "text": "Therefore there are two mean proportional numbers between A, B also. [ VIII. 8]"
+  },
+  {
+    "id": "p-ef6670",
+    "offset": 5628,
+    "text": "And B is cube; therefore A is also cube. [cf. VIII. 23] Q. E. D."
+  },
+  {
+    "id": "p-5af26b",
+    "offset": 5694,
+    "text": "If a composite number by multiplying any number make some number, the product will be solid."
+  },
+  {
+    "id": "p-1fa30e",
+    "offset": 5788,
+    "text": "For let the composite number A by multiplying any number B make C; I say that C is solid."
+  },
+  {
+    "id": "p-c91603",
+    "offset": 5879,
+    "text": "For, since A is composite, it will be measured by some number. [ VII. Def. 13]"
+  },
+  {
+    "id": "p-8529b8",
+    "offset": 5959,
+    "text": "Let it be measured by D; and, as many times as D measures A, so many units let there be in E."
+  },
+  {
+    "id": "p-a8c442",
+    "offset": 6054,
+    "text": "Since then D measures A according to the units in E, therefore E by multiplying D has made A. [ VII. Def. 15]"
+  },
+  {
+    "id": "p-11e237",
+    "offset": 6165,
+    "text": "And, since A by multiplying B has made C, and A is the product of D, E, therefore the product of D, E by multiplying B has made C."
+  },
+  {
+    "id": "p-7f42ce",
+    "offset": 6297,
+    "text": "Therefore C is solid, and D, E, B are its sides. Q. E. D."
+  },
+  {
+    "id": "p-4f59af",
+    "offset": 6356,
+    "text": "If as many numbers as we please beginning from an unit be in continued proportion, the third from the unit will be square, as will also those which successively leave out one; the fourth will be cube, as will also all those which leave out two; and the seventh will be at once cube and square, as will also those which leave out five."
+  },
+  {
+    "id": "p-d43319",
+    "offset": 6692,
+    "text": "Let there be as many numbers as we please, A, B, C, D, E, F, beginning from an unit and in continued proportion; I say that B, the third from the unit, is square, as are also all those which leave out one; C, the fourth, is cube, as are also all those which leave out two; and F, the seventh, is at once cube and square, as are also all those which leave out five."
+  },
+  {
+    "id": "p-99020f",
+    "offset": 7058,
+    "text": "For since, as the unit is to A, so is A to B, therefore the unit measures the number A the same number of times that A measures B. [ VII. Def. 20]"
+  },
+  {
+    "id": "p-0f1ea1",
+    "offset": 7206,
+    "text": "But the unit measures the number A according to the units in it; therefore A also measures B according to the units in A."
+  },
+  {
+    "id": "p-82a79c",
+    "offset": 7329,
+    "text": "Therefore A by multiplying itself has made B; therefore B is square."
+  },
+  {
+    "id": "p-032159",
+    "offset": 7399,
+    "text": "And, since B, C, D are in continued proportion, and B is square, therefore D is also square. [ VIII. 22]"
+  },
+  {
+    "id": "p-94f07c",
+    "offset": 7505,
+    "text": "For the same reason F is also square."
+  },
+  {
+    "id": "p-d2a22c",
+    "offset": 7544,
+    "text": "Similarly we can prove that all those which leave out one are square."
+  },
+  {
+    "id": "p-6b335a",
+    "offset": 7615,
+    "text": "I say next that C, the fourth from the unit, is cube, as are also all those which leave out two."
+  },
+  {
+    "id": "p-cf1277",
+    "offset": 7713,
+    "text": "For since, as the unit is to A, so is B to C, therefore the unit measures the number A the same number of times that B measures C."
+  },
+  {
+    "id": "p-69c5ee",
+    "offset": 7845,
+    "text": "But the unit measures the number A according to the units in A; therefore B also measures C according to the units in A."
+  },
+  {
+    "id": "p-2814fb",
+    "offset": 7967,
+    "text": "Therefore A by multiplying B has made C."
+  },
+  {
+    "id": "p-6fbce9",
+    "offset": 8009,
+    "text": "Since then A by multiplying itself has made B, and by multiplying B has made C, therefore C is cube."
+  },
+  {
+    "id": "p-bdea14",
+    "offset": 8111,
+    "text": "And, since C, D, E, F are in continued proportion, and C is cube, therefore F is also cube. [ VIII. 23]"
+  },
+  {
+    "id": "p-e54d11",
+    "offset": 8216,
+    "text": "But it was also proved square; therefore the seventh from the unit is both cube and square."
+  },
+  {
+    "id": "p-5cced2",
+    "offset": 8309,
+    "text": "Similarly we can prove that all the numbers which leave out five are also both cube and square. Q. E. D."
+  },
+  {
+    "id": "p-ab0420",
+    "offset": 8415,
+    "text": "If as many numbers as we please beginning from an unit be in continued proportion, and the number after the unit be square, all the rest will also be square. And, if the number after the unit be cube, all the rest will also be cube."
+  },
+  {
+    "id": "p-283223",
+    "offset": 8649,
+    "text": "Let there be as many numbers as we please, A, B, C, D, E, F, beginning from an unit and in continued proportion, and let A, the number after the unit, be square; I say that all the rest will also be square."
+  },
+  {
+    "id": "p-863c51",
+    "offset": 8857,
+    "text": "Now it has been proved that B, the third from the unit, is square, as are also all those which leave out one; [ IX. 8] I say that all the rest are also square."
+  },
+  {
+    "id": "p-0324f5",
+    "offset": 9018,
+    "text": "For, since A, B, C are in continued proportion, and A is square, therefore C is also square. [ VIII. 22]"
+  },
+  {
+    "id": "p-0f02d2",
+    "offset": 9124,
+    "text": "Again, since B, C, D are in continued proportion, and B is square, D is also square. [ VIII. 22]"
+  },
+  {
+    "id": "p-fac1e0",
+    "offset": 9222,
+    "text": "Similarly we can prove that all the rest are also square."
+  },
+  {
+    "id": "p-a716cd",
+    "offset": 9281,
+    "text": "Next, let A be cube; I say that all the rest are also cube."
+  },
+  {
+    "id": "p-b89816",
+    "offset": 9342,
+    "text": "Now it has been proved that C, the fourth from the unit, is cube, as also are all those which leave out two; [ IX. 8] I say that all the rest are also cube."
+  },
+  {
+    "id": "p-379f75",
+    "offset": 9500,
+    "text": "For, since, as the unit is to A, so is A to B, therefore the unit measures A the same number of times as A measures B."
+  },
+  {
+    "id": "p-13850e",
+    "offset": 9620,
+    "text": "But the unit measures A according to the units in it; therefore A also measures B according to the units in itself; therefore A by multiplying itself has made B."
+  },
+  {
+    "id": "p-e0c59b",
+    "offset": 9783,
+    "text": "And A is cube."
+  },
+  {
+    "id": "p-5d6636",
+    "offset": 9799,
+    "text": "But, if a cube number by multiplying itself make some number, the product is cube. [ IX. 3]"
+  },
+  {
+    "id": "p-afd2ad",
+    "offset": 9892,
+    "text": "Therefore B is also cube."
+  },
+  {
+    "id": "p-cbb89c",
+    "offset": 9919,
+    "text": "And, since the four numbers A, B, C, D are in continued proportion, and A is cube, D also is cube. [ VIII. 23]"
+  },
+  {
+    "id": "p-5874e9",
+    "offset": 10031,
+    "text": "For the same reason E is also cube, and similarly all the rest are cube. Q. E. D."
+  },
+  {
+    "id": "p-68e235",
+    "offset": 10114,
+    "text": "If as many numbers as we please beginning from an unit be in continued proportion, and the number after the unit be not square, neither will any other be square except the third from the unit and all those which leave out one. And, if the number after the unit be not cube, neither will any other be cube except the fourth from the unit and all those which leave out two."
+  },
+  {
+    "id": "p-7bbb29",
+    "offset": 10487,
+    "text": "Let there be as many numbers as we please, A, B, C, D, E, F, beginning from an unit and in continued proportion, and let A, the number after the unit, not be square; I say that neither will any other be square except the third from the unit ltand those which leave out onegt."
+  },
+  {
+    "id": "p-e742f3",
+    "offset": 10764,
+    "text": "For, if possible, let C be square."
+  },
+  {
+    "id": "p-642794",
+    "offset": 10800,
+    "text": "But B is also square; [ IX. 8] [therefore B, C have to one another the ratio which a square number has to a square number]."
+  },
+  {
+    "id": "p-49c4b4",
+    "offset": 10925,
+    "text": "And, as B is to C, so is A to B; therefore A, B have to one another the ratio which a square number has to a square number; [so that A, B are similar plane numbers]. [ VIII. 26, converse]"
+  },
+  {
+    "id": "p-88a5bb",
+    "offset": 11114,
+    "text": "And B is square; therefore A is also square: which is contrary to the hypothesis."
+  },
+  {
+    "id": "p-dc4031",
+    "offset": 11197,
+    "text": "Therefore C is not square."
+  },
+  {
+    "id": "p-bba9c5",
+    "offset": 11225,
+    "text": "Similarly we can prove that neither is any other of the numbers square except the third from the unit and those which leave out one."
+  },
+  {
+    "id": "p-fa88f5",
+    "offset": 11359,
+    "text": "Next, let A not be cube."
+  },
+  {
+    "id": "p-d5f579",
+    "offset": 11385,
+    "text": "I say that neither will any other be cube except the fourth from the unit and those which leave out two."
+  },
+  {
+    "id": "p-4d97eb",
+    "offset": 11491,
+    "text": "For, if possible, let D be cube."
+  },
+  {
+    "id": "p-5347ff",
+    "offset": 11525,
+    "text": "Now C is also cube; for it is fourth from the unit. [ IX. 8]"
+  },
+  {
+    "id": "p-080136",
+    "offset": 11587,
+    "text": "And, as C is to D, so is B to C; therefore B also has to C the ratio which a cube has to a cube."
+  },
+  {
+    "id": "p-43bb5d",
+    "offset": 11685,
+    "text": "And C is cube; therefore B is also cube. [ VIII. 25]"
+  },
+  {
+    "id": "p-a524d8",
+    "offset": 11739,
+    "text": "And since, as the unit is to A, so is A to B, and the unit measures A according to the units in it, therefore A also measures B according to the units in itself; therefore A by multiplying itself has made the cube number B."
+  },
+  {
+    "id": "p-2d023b",
+    "offset": 11964,
+    "text": "But, if a number by multiplying itself make a cube number, it is also itself cube. [ IX. 6]"
+  },
+  {
+    "id": "p-3aed2f",
+    "offset": 12057,
+    "text": "Therefore A is also cube: which is contrary to the hypothesis."
+  },
+  {
+    "id": "p-59eb46",
+    "offset": 12121,
+    "text": "Therefore D is not cube."
+  },
+  {
+    "id": "p-c1b624",
+    "offset": 12147,
+    "text": "Similarly we can prove that neither is any other of the numbers cube except the fourth from the unit and those which leave out two. Q. E. D."
+  },
+  {
+    "id": "p-a7c8ca",
+    "offset": 12289,
+    "text": "If as many numbers as we please beginning from an unit be in continued proportion, the less measures the greater according to some one of the numbers which have place among the proportional numbers."
+  },
+  {
+    "id": "p-74bf4b",
+    "offset": 12489,
+    "text": "Let there be as many numbers as we please, B, C, D, E, beginning from the unit A and in continued proportion; I say that B, the least of the numbers B, C, D, E, measures E according to some one of the numbers C, D."
+  },
+  {
+    "id": "p-fbd64b",
+    "offset": 12705,
+    "text": "For since, as the unit A is to B, so is D to E, therefore the unit A measures the number B the same number of times as D measures E; therefore, alternately, the unit A measures D the same number of times as B measures E. [ VII. 15]"
+  },
+  {
+    "id": "p-852c75",
+    "offset": 12938,
+    "text": "But the unit A measures D according to the units in it; therefore B also measures E according to the units in D; so that B the less measures E the greater according to some number of those which have place among the proportional numbers.—"
+  },
+  {
+    "id": "p-ce6597",
+    "offset": 13178,
+    "text": "Porism. And it is manifest that, whatever place the measuring number has, reckoned from the unit, the same place also has the number according to which it measures, reckoned from the number measured, in the direction of the number before it.—"
+  },
+  {
+    "id": "p-047604",
+    "offset": 13422,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-e3b3d5",
+    "offset": 13432,
+    "text": "If as many numbers as we please beginning from an unit be in continued proportion, by however many prime numbers the last is measured, the next to the unit will also be measured by the same."
+  },
+  {
+    "id": "p-4988e5",
+    "offset": 13624,
+    "text": "Let there be as many numbers as we please, A, B, C, D, beginning from an unit, and in continued proportion; I say that, by however many prime numbers D is measured, A will also be measured by the same."
+  },
+  {
+    "id": "p-a1afb2",
+    "offset": 13827,
+    "text": "For let D be measured by any prime number E; I say that E measures A."
+  },
+  {
+    "id": "p-2d727e",
+    "offset": 13898,
+    "text": "For suppose it does not; now E is prime, and any prime number is prime to any which it does not measure; [ VII. 29] therefore E, A are prime to one another."
+  },
+  {
+    "id": "p-df42cd",
+    "offset": 14056,
+    "text": "And, since E measures D, let it measure it according to F, therefore E by multiplying F has made D."
+  },
+  {
+    "id": "p-703097",
+    "offset": 14157,
+    "text": "Again, since A measures D according to the units in C, [ IX. 11 and Por.] therefore A by multiplying C has made D."
+  },
+  {
+    "id": "p-89f734",
+    "offset": 14273,
+    "text": "But, further, E has also by multiplying F made D; therefore the product of A, C is equal to the product of E, F."
+  },
+  {
+    "id": "p-3efb75",
+    "offset": 14387,
+    "text": "Therefore, as A is to E, so is F to C. [ VII. 19]"
+  },
+  {
+    "id": "p-8371ed",
+    "offset": 14438,
+    "text": "But A, E are prime, primes are also least, [ VII. 21] and the least measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [ VII. 20] therefore E measures C."
+  },
+  {
+    "id": "p-b8fc7d",
+    "offset": 14673,
+    "text": "Let it measure it according to G; therefore E by multiplying G has made C."
+  },
+  {
+    "id": "p-b025b4",
+    "offset": 14749,
+    "text": "But, further, by the theorem before this, A has also by multiplying B made C. [ IX. 11 and Por.]"
+  },
+  {
+    "id": "p-5775b6",
+    "offset": 14847,
+    "text": "Therefore the product of A, B is equal to the product of E, G."
+  },
+  {
+    "id": "p-65a86d",
+    "offset": 14911,
+    "text": "Therefore, as A is to E, so is G to B. [ VII. 19]"
+  },
+  {
+    "id": "p-5c1317",
+    "offset": 14962,
+    "text": "But A, E are prime, primes are also least, [ VII. 21] and the least numbers measure those which have the same ratio with them the same number of times, the antecedent the antecedent and the consequent the consequent: [ VII. 20] therefore E measures B."
+  },
+  {
+    "id": "p-d386f9",
+    "offset": 15215,
+    "text": "Let it measure it according to H; therefore E by multiplying H has made B."
+  },
+  {
+    "id": "p-4148ba",
+    "offset": 15291,
+    "text": "But further A has also by multiplying itself made B; [ IX. 8] therefore the product of E, H is equal to the square on A."
+  },
+  {
+    "id": "p-3b9e81",
+    "offset": 15413,
+    "text": "Therefore, as E is to A, so is A to H. [ VII. 19]"
+  },
+  {
+    "id": "p-d47f8f",
+    "offset": 15464,
+    "text": "But A, E are prime, primes are also least, [ VII. 21] and the least measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [ VII. 20] therefore E measures A, as antecedent antecedent."
+  },
+  {
+    "id": "p-147351",
+    "offset": 15725,
+    "text": "But, again, it also does not measure it: which is impossible."
+  },
+  {
+    "id": "p-4ca2e3",
+    "offset": 15788,
+    "text": "Therefore E, A are not prime to one another."
+  },
+  {
+    "id": "p-b8987f",
+    "offset": 15834,
+    "text": "Therefore they are composite to one another."
+  },
+  {
+    "id": "p-6e662a",
+    "offset": 15880,
+    "text": "But numbers composite to one another are measured by some number. [ VII. Def. 14]"
+  },
+  {
+    "id": "p-7e94e9",
+    "offset": 15963,
+    "text": "And, since E is by hypothesis prime, and the prime is not measured by any number other than itself, therefore E measures A, E, so that E measures A."
+  },
+  {
+    "id": "p-e5e745",
+    "offset": 16113,
+    "text": "[But it also measures D; therefore E measures A, D.]"
+  },
+  {
+    "id": "p-45cc95",
+    "offset": 16167,
+    "text": "Similarly we can prove that, by however many prime numbers D is measured, A will also be measured by the same. Q. E. D."
+  },
+  {
+    "id": "p-60a609",
+    "offset": 16288,
+    "text": "If as many numbers as we please beginning from an unit be in continued proportion, and the number after the unit be prime, the greatest will not be measured by any except those which have a place among the proportional numbers."
+  },
+  {
+    "id": "p-a7723a",
+    "offset": 16517,
+    "text": "Let there be as many numbers as we please, A, B, C, D, beginning from an unit and in continued proportion, and let A, the number after the unit, be prime; I say that D, the greatest of them, will not be measured by any other number except A, B, C."
+  },
+  {
+    "id": "p-7f0158",
+    "offset": 16766,
+    "text": "For, if possible, let it be measured by E, and let E not be the same with any of the numbers A, B, C."
+  },
+  {
+    "id": "p-80d5bb",
+    "offset": 16869,
+    "text": "It is then manifest that E is not prime."
+  },
+  {
+    "id": "p-5241ef",
+    "offset": 16911,
+    "text": "For, if E is prime and measures D, it will also measure A [ IX. 12], which is prime, though it is not the same with it: which is impossible."
+  },
+  {
+    "id": "p-64dc79",
+    "offset": 17053,
+    "text": "Therefore E is not prime."
+  },
+  {
+    "id": "p-14e7cf",
+    "offset": 17080,
+    "text": "Therefore it is composite."
+  },
+  {
+    "id": "p-440129",
+    "offset": 17108,
+    "text": "But any composite number is measured by some prime number; [ VII. 31] therefore E is measured by some prime number."
+  },
+  {
+    "id": "p-1a4bda",
+    "offset": 17225,
+    "text": "I say next that it will not be measured by any other prime except A."
+  },
+  {
+    "id": "p-c6754b",
+    "offset": 17295,
+    "text": "For, if E is measured by another, and E measures D, that other will also measure D; so that it will also measure A [ IX. 12], which is prime, though it is not the same with it: which is impossible."
+  },
+  {
+    "id": "p-25cec6",
+    "offset": 17494,
+    "text": "Therefore A measures E."
+  },
+  {
+    "id": "p-828d08",
+    "offset": 17519,
+    "text": "And, since E measures D, let it measure it according to F."
+  },
+  {
+    "id": "p-e24adc",
+    "offset": 17579,
+    "text": "I say that F is not the same with any of the numbers A, B, C."
+  },
+  {
+    "id": "p-a91eaf",
+    "offset": 17642,
+    "text": "For, if F is the same with one of the numbers A, B, C, and measures D according to E, therefore one of the numbers A, B, C also measures D according to E."
+  },
+  {
+    "id": "p-ba1722",
+    "offset": 17798,
+    "text": "But one of the numbers A, B, C measures D according to some one of the numbers A, B, C; [ IX. 11] therefore E is also the same with one of the numbers A, B, C: which is contrary to the hypothesis."
+  },
+  {
+    "id": "p-a4fb49",
+    "offset": 17996,
+    "text": "Therefore F is not the same as any one of the numbers A, B, C."
+  },
+  {
+    "id": "p-84e5f4",
+    "offset": 18060,
+    "text": "Similarly we can prove that F is measured by A, by proving again that F is not prime."
+  },
+  {
+    "id": "p-8e858e",
+    "offset": 18147,
+    "text": "For, if it is, and measures D, it will also measure A [ IX. 12], which is prime, though it is not the same with it: which is impossible; therefore F is not prime."
+  },
+  {
+    "id": "p-14e7cf",
+    "offset": 18311,
+    "text": "Therefore it is composite."
+  },
+  {
+    "id": "p-e0cb7a",
+    "offset": 18339,
+    "text": "But any composite number is measured by some prime number; [ VII. 31] therefore F is measured by some prime number."
+  },
+  {
+    "id": "p-1a4bda",
+    "offset": 18456,
+    "text": "I say next that it will not be measured by any other prime except A."
+  },
+  {
+    "id": "p-bf4ca2",
+    "offset": 18526,
+    "text": "For, if any other prime number measures F, and F measures D, that other will also measure D; so that it will also measure A [ IX. 12], which is prime, though it is not the same with it: which is impossible."
+  },
+  {
+    "id": "p-c7cbf3",
+    "offset": 18734,
+    "text": "Therefore A measures F."
+  },
+  {
+    "id": "p-6677d7",
+    "offset": 18759,
+    "text": "And, since E measures D according to F, therefore E by multiplying F has made D."
+  },
+  {
+    "id": "p-ed0e47",
+    "offset": 18841,
+    "text": "But, further, A has also by multiplying C made D; [ IX. 11] therefore the product of A, C is equal to the product of E, F."
+  },
+  {
+    "id": "p-9e254c",
+    "offset": 18965,
+    "text": "Therefore, proportionally, as A is to E, so is F to C. [ VII. 19]"
+  },
+  {
+    "id": "p-c7960e",
+    "offset": 19032,
+    "text": "But A measures E; therefore F also measures C."
+  },
+  {
+    "id": "p-65e3ae",
+    "offset": 19080,
+    "text": "Let it measure it according to G."
+  },
+  {
+    "id": "p-e230fb",
+    "offset": 19115,
+    "text": "Similarly, then, we can prove that G is not the same with any of the numbers A, B, and that it is measured by A."
+  },
+  {
+    "id": "p-1b5052",
+    "offset": 19229,
+    "text": "And, since F measures C according to G therefore F by multiplying G has made C."
+  },
+  {
+    "id": "p-beb017",
+    "offset": 19310,
+    "text": "But, further, A has also by multiplying B made C; [ IX. 11] therefore the product of A, B is equal to the product of F, G."
+  },
+  {
+    "id": "p-f7b09f",
+    "offset": 19434,
+    "text": "Therefore, proportionally, as A is to F, so is G to B. [ VII. 19]"
+  },
+  {
+    "id": "p-c957c3",
+    "offset": 19501,
+    "text": "But A measures F; therefore G also measures B."
+  },
+  {
+    "id": "p-c7ccef",
+    "offset": 19549,
+    "text": "Let it measure it according to H."
+  },
+  {
+    "id": "p-477e1f",
+    "offset": 19584,
+    "text": "Similarly then we can prove that H is not the same with A."
+  },
+  {
+    "id": "p-4f785b",
+    "offset": 19644,
+    "text": "And, since G measures B according to H, therefore G by multiplying H has made B."
+  },
+  {
+    "id": "p-216129",
+    "offset": 19726,
+    "text": "But further A has also by multiplying itself made B; [ IX. 8] therefore the product of H, G is equal to the square on A."
+  },
+  {
+    "id": "p-7361fc",
+    "offset": 19848,
+    "text": "Therefore, as H is to A, so is A to G. [ VII. 19]"
+  },
+  {
+    "id": "p-a9ff4b",
+    "offset": 19899,
+    "text": "But A measures G;lt therefore H also measures A, which is prime, though it is not the same with it: which is absurd."
+  },
+  {
+    "id": "p-aa2af7",
+    "offset": 20017,
+    "text": "Therefore D the greatest will not be measured by any other number except A, B, C. Q. E. D."
+  },
+  {
+    "id": "p-0883ba",
+    "offset": 20109,
+    "text": "If a number be the least that is measured by prime numbers, it will not be measured by any other prime number except those originally measuring it."
+  },
+  {
+    "id": "p-7ea692",
+    "offset": 20258,
+    "text": "For let the number A be the least that is measured by the prime numbers B, C, D; I say that A will not be measured by any other prime number except B, C, D."
+  },
+  {
+    "id": "p-8ec056",
+    "offset": 20416,
+    "text": "For, if possible, let it be measured by the prime number E, and let E not be the same with any one of the numbers B, C, D."
+  },
+  {
+    "id": "p-8fde91",
+    "offset": 20540,
+    "text": "Now, since E measures A, let it measure it according to F; therefore E by multiplying F has made A."
+  },
+  {
+    "id": "p-aee228",
+    "offset": 20641,
+    "text": "And A is measured by the prime numbers B, C, D."
+  },
+  {
+    "id": "p-d4fa32",
+    "offset": 20690,
+    "text": "But, if two numbers by multiplying one another make some number, and any prime number measure the product, it will also measure one of the original numbers; [ VII. 30] therefore B, C, D will measure one of the numbers E, F."
+  },
+  {
+    "id": "p-4f9eb7",
+    "offset": 20915,
+    "text": "Now they will not measure E; for E is prime and not the same with any one of the numbers B, C, D."
+  },
+  {
+    "id": "p-53652f",
+    "offset": 21014,
+    "text": "Therefore they will measure F, which is less than A: which is impossible, for A is by hypothesis the least number measured by B, C, D."
+  },
+  {
+    "id": "p-f763ad",
+    "offset": 21150,
+    "text": "Therefore no prime number will measure A except B, C, D. Q. E. D."
+  },
+  {
+    "id": "p-9782a2",
+    "offset": 21217,
+    "text": "If three numbers in continued proportion be the least of those which have the same ratio with them, any two whatever added together will be prime to the remaining number."
+  },
+  {
+    "id": "p-612f95",
+    "offset": 21389,
+    "text": "Let A, B, C, three numbers in continued proportion, be the least of those which have the same ratio with them; I say that any two of the numbers A, B, C whatever added together are prime to the remaining number, namely A, B to C; B, C to A; and further A, C to B."
+  },
+  {
+    "id": "p-19aea8",
+    "offset": 21654,
+    "text": "For let two numbers DE, EF, the least of those which have the same ratio with A, B, C, be taken. [ VIII. 2]"
+  },
+  {
+    "id": "p-8b11e6",
+    "offset": 21763,
+    "text": "It is then manifest that DE by multiplying itself has made A, and by multiplying EF has made B, and, further, EF by multiplying itself has made C. [ VIII. 2]"
+  },
+  {
+    "id": "p-6d04b0",
+    "offset": 21922,
+    "text": "Now, since DE, EF are least, they are prime to one another. [ VII. 22]"
+  },
+  {
+    "id": "p-23000b",
+    "offset": 21994,
+    "text": "But, if two numbers be prime to one another, their sum is also prime to each; [ VII. 28] therefore DF is also prime to each of the numbers DE, EF."
+  },
+  {
+    "id": "p-8407e0",
+    "offset": 22142,
+    "text": "But further DE is also prime to EF; therefore DF, DE are prime to EF."
+  },
+  {
+    "id": "p-08afc1",
+    "offset": 22213,
+    "text": "But, if two numbers be prime to any number, their product is also prime to the other; [ VII. 24] so that the product of FD, DE is prime to EF; hence the product of FD, DE is also prime to the square on EF. [ VII. 25]"
+  },
+  {
+    "id": "p-e8c253",
+    "offset": 22431,
+    "text": "But the product of FD, DE is the square on DE together with the product of DE, EF; [ II. 3] therefore the square on DE together with the product of DE, EF is prime to the square on EF."
+  },
+  {
+    "id": "p-6f8a2d",
+    "offset": 22617,
+    "text": "And the square on DE is A, the product of DE, EF is B, and the square on EF is C; therefore A, B added together are prime to C."
+  },
+  {
+    "id": "p-c2daca",
+    "offset": 22746,
+    "text": "Similarly we can prove that B, C added together are prime to A."
+  },
+  {
+    "id": "p-715254",
+    "offset": 22811,
+    "text": "I say next that A, C added together are also prime to B."
+  },
+  {
+    "id": "p-f157ef",
+    "offset": 22869,
+    "text": "For, since DF is prime to each of the numbers DE, EF, the square on DF is also prime to the product of DE, EF. [ VII. 24, 25]"
+  },
+  {
+    "id": "p-fcdc44",
+    "offset": 22996,
+    "text": "But the squares on DE, EF together with twice the product of DE, EF are equal to the square on DF; [ II. 4] therefore the squares on DE, EF together with twice the product of DE, EF are prime to the product of DE, EF."
+  },
+  {
+    "id": "p-f32974",
+    "offset": 23215,
+    "text": "Separando, the squares on DE, EF together with once the product of DE, EF are prime to the product of DE, EF."
+  },
+  {
+    "id": "p-ebdbf4",
+    "offset": 23326,
+    "text": "Therefore, separando again, the squares on DE, EF are prime to the product of DE, EF."
+  },
+  {
+    "id": "p-bbbe43",
+    "offset": 23413,
+    "text": "And the square on DE is A, the product of DE, EF is B, and the square on EF is C."
+  },
+  {
+    "id": "p-686080",
+    "offset": 23496,
+    "text": "Therefore A, C added together are prime to B. Q. E. D."
+  },
+  {
+    "id": "p-6508b0",
+    "offset": 23552,
+    "text": "If two numbers be prime to one another, the second will not be to any other number as the first is to the second."
+  },
+  {
+    "id": "p-0ac088",
+    "offset": 23667,
+    "text": "For let the two numbers A, B be prime to one another; I say that B is not to any other number as A is to B."
+  },
+  {
+    "id": "p-e4faf6",
+    "offset": 23776,
+    "text": "For, if possible, as A is to B, so let B be to C."
+  },
+  {
+    "id": "p-8ef84c",
+    "offset": 23827,
+    "text": "Now A, B are prime, primes are also least, [ VII. 21] and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [ VII. 20] therefore A measures B as antecedent antecedent."
+  },
+  {
+    "id": "p-453c81",
+    "offset": 24095,
+    "text": "But it also measures itself; therefore A measures A, B which are prime to one another: which is absurd."
+  },
+  {
+    "id": "p-def5f6",
+    "offset": 24200,
+    "text": "Therefore B will not be to C, as A is to B. Q. E. D."
+  },
+  {
+    "id": "p-dd04c3",
+    "offset": 24254,
+    "text": "If there be as many numbers as we please in continued proportion, and the extremes of them be prime to one another, the last will not be to any other number as the first to the second."
+  },
+  {
+    "id": "p-f1dd09",
+    "offset": 24440,
+    "text": "For let there be as many numbers as we please, A, B, C, D, in continued proportion, and let the extremes of them, A, D, be prime to one another; I say that D is not to any other number as A is to B."
+  },
+  {
+    "id": "p-04a1b9",
+    "offset": 24640,
+    "text": "For, if possible, as A is to B, so let D be to E; therefore, alternately, as A is to D, so is B to E. [ VII. 13]"
+  },
+  {
+    "id": "p-0ea1f7",
+    "offset": 24754,
+    "text": "But A, D are prime, primes are also least, [ VII. 21] and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent. [ VII. 20]"
+  },
+  {
+    "id": "p-47d5b7",
+    "offset": 24973,
+    "text": "Therefore A measures B."
+  },
+  {
+    "id": "p-61b1b9",
+    "offset": 24998,
+    "text": "And, as A is to B, so is B to C."
+  },
+  {
+    "id": "p-8a6ea3",
+    "offset": 25032,
+    "text": "Therefore B also measures C; so that A also measures C."
+  },
+  {
+    "id": "p-aefaf2",
+    "offset": 25089,
+    "text": "And since, as B is to C, so is C to D, and B measures C, therefore C also measures D."
+  },
+  {
+    "id": "p-aa65b1",
+    "offset": 25176,
+    "text": "But A measured C; so that A also measures D."
+  },
+  {
+    "id": "p-2968f3",
+    "offset": 25222,
+    "text": "But it also measures itself; therefore A measures A, D which are prime to one another: which is impossible."
+  },
+  {
+    "id": "p-f06e8a",
+    "offset": 25331,
+    "text": "Therefore D will not be to any other number as A is to B. Q. E. D."
+  },
+  {
+    "id": "p-f6d919",
+    "offset": 25399,
+    "text": "Given two numbers, to investigate whether it is possible to find a third proportional to them."
+  },
+  {
+    "id": "p-87e684",
+    "offset": 25495,
+    "text": "Let A, B be the given two numbers, and let it be required to investigate whether it is possible to find a third proportional to them."
+  },
+  {
+    "id": "p-778424",
+    "offset": 25630,
+    "text": "Now A, B are either prime to one another or not."
+  },
+  {
+    "id": "p-17851b",
+    "offset": 25680,
+    "text": "And, if they are prime to one another, it has been proved that it is impossible to find a third proportional to them. [ IX. 16]"
+  },
+  {
+    "id": "p-90307c",
+    "offset": 25809,
+    "text": "Next, let A, B not be prime to one another, and let B by multiplying itself make C."
+  },
+  {
+    "id": "p-c18ab3",
+    "offset": 25894,
+    "text": "Then A either measures C or does not measure it."
+  },
+  {
+    "id": "p-1ae4c9",
+    "offset": 25944,
+    "text": "First, let it measure it according to D; therefore A by multiplying D has made C."
+  },
+  {
+    "id": "p-bf1b3d",
+    "offset": 26027,
+    "text": "But, further, B has also by multiplying itself made C; therefore the product of A, D is equal to the square on B."
+  },
+  {
+    "id": "p-547c69",
+    "offset": 26142,
+    "text": "Therefore, as A is to B, so is B to D; [ VII. 19] therefore a third proportional number D has been found to A, B."
+  },
+  {
+    "id": "p-c81248",
+    "offset": 26257,
+    "text": "Next, let A not measure C; I say that it is impossible to find a third proportional number to A, B."
+  },
+  {
+    "id": "p-9faeb2",
+    "offset": 26358,
+    "text": "For, if possible, let D, such third proportional, have been found."
+  },
+  {
+    "id": "p-4ffdcc",
+    "offset": 26426,
+    "text": "Therefore the product of A, D is equal to the square on B."
+  },
+  {
+    "id": "p-7d7ddf",
+    "offset": 26486,
+    "text": "But the square on B is C; therefore the product of A, D is equal to C."
+  },
+  {
+    "id": "p-a70c5a",
+    "offset": 26558,
+    "text": "Hence A by multiplying D has made C; therefore A measures C according to D."
+  },
+  {
+    "id": "p-005dd1",
+    "offset": 26635,
+    "text": "But, by hypothesis, it also does not measure it: which is absurd."
+  },
+  {
+    "id": "p-9c327e",
+    "offset": 26702,
+    "text": "Therefore it is not possible to find a third proportional number to A, B when A does not measure C. Q. E. D."
+  },
+  {
+    "id": "p-f62908",
+    "offset": 26812,
+    "text": "Given three numbers, to investigate when it is possible to find a fourth proportional to them."
+  },
+  {
+    "id": "p-cc3d2e",
+    "offset": 26908,
+    "text": "Let A, B, C be the given three numbers, and let it be required to investigate when it is possible to find a fourth proportional to them."
+  },
+  {
+    "id": "p-2cae35",
+    "offset": 27046,
+    "text": "Now either they are not in continued proportion, and the extremes of them are prime to one another; or they are in continued proportion, and the extremes of them are not prime to one another; or they are not in continued proportion, nor are the extremes of them prime to one another; or they are in continued proportion, and the extremes of them are prime to one another."
+  },
+  {
+    "id": "p-76c067",
+    "offset": 27419,
+    "text": "If then A, B, C are in continued proportion, and the extremes of them A, C are prime to one another, it has been proved that it is impossible to find a fourth proportional number to them. [ IX. 17]"
+  },
+  {
+    "id": "p-178e16",
+    "offset": 27618,
+    "text": "†Next, let A, B, C not be in continued proportion, the extremes being again prime to one another; I say that in this case also it is impossible to find a fourth proportional to them."
+  },
+  {
+    "id": "p-f933f7",
+    "offset": 27802,
+    "text": "For, if possible, let D have been found, so that, as A is to B, so is C to D, and let it be contrived that, as B is to C, so is D to E."
+  },
+  {
+    "id": "p-108f9c",
+    "offset": 27939,
+    "text": "Now, since, as A is to B, so is C to D, and, as B is to C, so is D to E, therefore, ex aequali, as A is to C, so is C to E. [ VII. 14]"
+  },
+  {
+    "id": "p-60ec08",
+    "offset": 28075,
+    "text": "But A, C are prime, primes are also least, [ VII. 21] and the least numbers measure those which have the same ratio, the antecedent the antecedent and the consequent the consequent. [ VII. 20]"
+  },
+  {
+    "id": "p-44f7b4",
+    "offset": 28269,
+    "text": "Therefore A measures C as antecedent antecedent."
+  },
+  {
+    "id": "p-60d916",
+    "offset": 28319,
+    "text": "But it also measures itself; therefore A measures A, C which are prime to one another: which is impossible."
+  },
+  {
+    "id": "p-b96af2",
+    "offset": 28428,
+    "text": "Therefore it is not possible to find a fourth proportional to A, B, C.†"
+  },
+  {
+    "id": "p-e2fc94",
+    "offset": 28501,
+    "text": "Next, let A, B, C be again in continued proportion, but let A, C not be prime to one another."
+  },
+  {
+    "id": "p-9ac52f",
+    "offset": 28596,
+    "text": "I say that it is possible to find a fourth proportional to them."
+  },
+  {
+    "id": "p-7d1b74",
+    "offset": 28662,
+    "text": "For let B by multiplying C make D; therefore A either measures D or does not measure it."
+  },
+  {
+    "id": "p-2bb4b0",
+    "offset": 28752,
+    "text": "First, let it measure it according to E; therefore A by multiplying E has made D."
+  },
+  {
+    "id": "p-a0f63a",
+    "offset": 28835,
+    "text": "But, further, B has also by multiplying C made D; therefore the product of A, E is equal to the product of B, C; therefore, proportionally, as A is to B, so is C to E; [ VII. 19] therefore E has been found a fourth proportional to A, B, C."
+  },
+  {
+    "id": "p-6c385b",
+    "offset": 29076,
+    "text": "Next, let A not measure D; I say that it is impossible to find a fourth proportional number to A, B, C."
+  },
+  {
+    "id": "p-227616",
+    "offset": 29181,
+    "text": "For, if possible, let E have been found; therefore the product of A, E is equal to the product of B, C. [ VII. 19]"
+  },
+  {
+    "id": "p-57365f",
+    "offset": 29297,
+    "text": "But the product of B, C is D; therefore the product of A, E is also equal to D."
+  },
+  {
+    "id": "p-543b4c",
+    "offset": 29378,
+    "text": "Therefore A by multiplying E has made D; therefore A measures D according to E, so that A measures D."
+  },
+  {
+    "id": "p-da7a96",
+    "offset": 29481,
+    "text": "But it also does not measure it: which is absurd."
+  },
+  {
+    "id": "p-41a5a5",
+    "offset": 29532,
+    "text": "Therefore it is not possible to find a fourth proportional number to A, B, C when A does not measure D."
+  },
+  {
+    "id": "p-d03094",
+    "offset": 29637,
+    "text": "Next, let A, B, C not be in continued proportion, nor the extremes prime to one another."
+  },
+  {
+    "id": "p-e8efb8",
+    "offset": 29727,
+    "text": "And let B by multiplying C make D."
+  },
+  {
+    "id": "p-832511",
+    "offset": 29763,
+    "text": "Similarly then it can be proved that, if A measures D, it is possible to find a fourth proportional to them, but, if it does not measure it, impossible. Q. E. D."
+  },
+  {
+    "id": "p-305059",
+    "offset": 29926,
+    "text": "Prime numbers are more than any assigned multitude of prime numbers."
+  },
+  {
+    "id": "p-074489",
+    "offset": 29996,
+    "text": "Let A, B, C be the assigned prime numbers; I say that there are more prime numbers than A, B, C."
+  },
+  {
+    "id": "p-35cdbc",
+    "offset": 30094,
+    "text": "For let the least number measured by A, B, C be taken, and let it be DE; let the unit DF be added to DE."
+  },
+  {
+    "id": "p-0464c9",
+    "offset": 30200,
+    "text": "Then EF is either prime or not."
+  },
+  {
+    "id": "p-291a8f",
+    "offset": 30233,
+    "text": "First, let it be prime; then the prime numbers A, B, C, EF have been found which are more than A, B, C."
+  },
+  {
+    "id": "p-19bb38",
+    "offset": 30338,
+    "text": "Next, let EF not be prime; therefore it is measured by some prime number. [ VII. 31]"
+  },
+  {
+    "id": "p-3d232b",
+    "offset": 30424,
+    "text": "Let it be measured by the prime number G."
+  },
+  {
+    "id": "p-6e106b",
+    "offset": 30467,
+    "text": "I say that G is not the same with any of the numbers A, B, C."
+  },
+  {
+    "id": "p-11cbee",
+    "offset": 30530,
+    "text": "For, if possible, let it be so."
+  },
+  {
+    "id": "p-c2f568",
+    "offset": 30563,
+    "text": "Now A, B, C measure DE; therefore G also will measure DE."
+  },
+  {
+    "id": "p-6795f6",
+    "offset": 30622,
+    "text": "But it also measures EF."
+  },
+  {
+    "id": "p-8d8f2e",
+    "offset": 30648,
+    "text": "Therefore G, being a number, will measure the remainder, the unit DF: which is absurd."
+  },
+  {
+    "id": "p-7c3754",
+    "offset": 30736,
+    "text": "Therefore G is not the same with any one of the numbers A, B, C."
+  },
+  {
+    "id": "p-2bf353",
+    "offset": 30802,
+    "text": "And by hypothesis it is prime."
+  },
+  {
+    "id": "p-438d1b",
+    "offset": 30834,
+    "text": "Therefore the prime numbers A, B, C, G have been found which are more than the assigned multitude of A, B, C. Q. E. D."
+  },
+  {
+    "id": "p-d82951",
+    "offset": 30954,
+    "text": "If as many even numbers as we please be added together, the whole is even."
+  },
+  {
+    "id": "p-947138",
+    "offset": 31030,
+    "text": "For let as many even numbers as we please, AB, BC, CD, DE, be added together; I say that the whole AE is even."
+  },
+  {
+    "id": "p-06fee9",
+    "offset": 31142,
+    "text": "For, since each of the numbers AB, BC, CD, DE is even, it has a half part; [ VII. Def. 6] so that the whole AE also has a half part."
+  },
+  {
+    "id": "p-fe6317",
+    "offset": 31276,
+    "text": "But an even number is that which is divisible into two equal parts; [ id.] therefore AE is even. Q. E. D."
+  },
+  {
+    "id": "p-0481c8",
+    "offset": 31383,
+    "text": "If as many odd numbers as we please be added together, and their multitude be even, the whole will be even."
+  },
+  {
+    "id": "p-da502b",
+    "offset": 31492,
+    "text": "For let as many odd numbers as we please, AB, BC, CD, DE, even in multitude, be added together; I say that the whole AE is even."
+  },
+  {
+    "id": "p-d908d8",
+    "offset": 31622,
+    "text": "For, since each of the numbers AB, BC, CD, DE is odd, if an unit be subtracted from each, each of the remainders will be even; [ VII. Def. 7] so that the sum of them will be even. [ IX. 21]"
+  },
+  {
+    "id": "p-f3e441",
+    "offset": 31813,
+    "text": "But the multitude of the units is also even."
+  },
+  {
+    "id": "p-0235b0",
+    "offset": 31859,
+    "text": "Therefore the whole AE is also even. [ IX. 21] Q. E. D."
+  },
+  {
+    "id": "p-2a9605",
+    "offset": 31916,
+    "text": "If as many odd numbers as we please be added together, and their multitude be odd, the whole will also be odd."
+  },
+  {
+    "id": "p-8c7626",
+    "offset": 32028,
+    "text": "For let as many odd numbers as we please, AB, BC, CD, the multitude of which is odd, be added together; I say that the whole AD is also odd."
+  },
+  {
+    "id": "p-b0c205",
+    "offset": 32170,
+    "text": "Let the unit DE be subtracted from CD; therefore the remainder CE is even. [ VII. Def. 7]"
+  },
+  {
+    "id": "p-520f11",
+    "offset": 32261,
+    "text": "But CA is also even; [ IX. 22] therefore the whole AE is also even. [ IX. 21]"
+  },
+  {
+    "id": "p-334525",
+    "offset": 32340,
+    "text": "And DE is an unit."
+  },
+  {
+    "id": "p-f2f527",
+    "offset": 32360,
+    "text": "Therefore AD is odd. [ VII. Def. 7] Q. E. D."
+  },
+  {
+    "id": "p-65e004",
+    "offset": 32406,
+    "text": "If from an even number an even number be subtracted, the remainder will be even."
+  },
+  {
+    "id": "p-d00a8a",
+    "offset": 32488,
+    "text": "For from the even number AB let the even number BC be subtracted: I say that the remainder CA is even."
+  },
+  {
+    "id": "p-1acaa7",
+    "offset": 32592,
+    "text": "For, since AB is even, it has a half part. [ VII. Def. 6]"
+  },
+  {
+    "id": "p-03a215",
+    "offset": 32651,
+    "text": "For the same reason BC also has a half part; so that the remainder [ CA also has a half part, and] AC is therefore even. Q. E. D."
+  },
+  {
+    "id": "p-ed11d0",
+    "offset": 32782,
+    "text": "If from an even number an odd number be subtracted, the remainder will be odd."
+  },
+  {
+    "id": "p-15d3bf",
+    "offset": 32862,
+    "text": "For from the even number AB let the odd number BC be subtracted; I say that the remainder CA is odd."
+  },
+  {
+    "id": "p-5981a7",
+    "offset": 32964,
+    "text": "For let the unit CD be subtracted from BC; therefore DB is even. [ VII. Def. 7]"
+  },
+  {
+    "id": "p-bb94a2",
+    "offset": 33045,
+    "text": "But AB is also even; therefore the remainder AD is also even. [ IX. 24]"
+  },
+  {
+    "id": "p-a1946b",
+    "offset": 33118,
+    "text": "And CD is an unit; therefore CA is odd. [ VII. Def. 7] Q. E. D."
+  },
+  {
+    "id": "p-ca6f32",
+    "offset": 33183,
+    "text": "If from an odd number an odd number be subtracted, the remainder will be even."
+  },
+  {
+    "id": "p-9fad7d",
+    "offset": 33263,
+    "text": "For from the odd number AB let the odd number BC be subtracted; I say that the remainder CA is even."
+  },
+  {
+    "id": "p-56ffef",
+    "offset": 33365,
+    "text": "For, since AB is odd, let the unit BD be subtracted; therefore the remainder AD is even. [ VII. Def. 7]"
+  },
+  {
+    "id": "p-cbb612",
+    "offset": 33470,
+    "text": "For the same reason CD is also even; [ VII. Def. 7] so that the remainder CA is also even. [ IX. 24] Q. E. D."
+  },
+  {
+    "id": "p-6b6e3b",
+    "offset": 33581,
+    "text": "If from an odd number an even number be subtracted, the remainder will be odd."
+  },
+  {
+    "id": "p-543d9b",
+    "offset": 33661,
+    "text": "For from the odd number AB let the even number BC be subtracted; I say that the remainder CA is odd."
+  },
+  {
+    "id": "p-b7821f",
+    "offset": 33763,
+    "text": "Let the unit AD be subtracted; therefore DB is even. [ VII. Def. 7]"
+  },
+  {
+    "id": "p-ae52a6",
+    "offset": 33832,
+    "text": "But BC is also even; therefore the remainder CD is even. [ IX. 24]"
+  },
+  {
+    "id": "p-be0349",
+    "offset": 33900,
+    "text": "Therefore CA is odd. [ VII. Def. 7] Q. E. D."
+  },
+  {
+    "id": "p-64107d",
+    "offset": 33946,
+    "text": "If an odd number by multiplying an even number make some number, the product will be even."
+  },
+  {
+    "id": "p-f2c449",
+    "offset": 34038,
+    "text": "For let the odd number A by multiplying the even number B make C; I say that C is even."
+  },
+  {
+    "id": "p-95e4f2",
+    "offset": 34127,
+    "text": "For, since A by multiplying B has made C, therefore C is made up of as many numbers equal to B as there are units in A. [ VII. Def. 15]"
+  },
+  {
+    "id": "p-1d31c7",
+    "offset": 34264,
+    "text": "And B is even; therefore C is made up of even numbers."
+  },
+  {
+    "id": "p-7bde78",
+    "offset": 34320,
+    "text": "But, if as many even numbers as we please be added together, the whole is even. [ IX. 21]"
+  },
+  {
+    "id": "p-0f3f15",
+    "offset": 34411,
+    "text": "Therefore C is even. Q. E. D."
+  },
+  {
+    "id": "p-97ed25",
+    "offset": 34442,
+    "text": "If an odd number by multiplying an odd number make some number, the product will be odd."
+  },
+  {
+    "id": "p-7067bd",
+    "offset": 34532,
+    "text": "For let the odd number A by multiplying the odd number B make C; I say that C is odd."
+  },
+  {
+    "id": "p-95e4f2",
+    "offset": 34619,
+    "text": "For, since A by multiplying B has made C, therefore C is made up of as many numbers equal to B as there are units in A. [ VII. Def. 15]"
+  },
+  {
+    "id": "p-cccd6c",
+    "offset": 34756,
+    "text": "And each of the numbers A, B is odd; therefore C is made up of odd numbers the multitude of which is odd."
+  },
+  {
+    "id": "p-a0a4b6",
+    "offset": 34863,
+    "text": "Thus C is odd. [ IX. 23] Q. E. D."
+  },
+  {
+    "id": "p-bf8704",
+    "offset": 34898,
+    "text": "If an odd number measure an even number, it will also measure the half of it."
+  },
+  {
+    "id": "p-549b00",
+    "offset": 34977,
+    "text": "For let the odd number A measure the even number B; I say that it will also measure the half of it."
+  },
+  {
+    "id": "p-024f2e",
+    "offset": 35078,
+    "text": "For, since A measures B, let it measure it according to C; I say that C is not odd."
+  },
+  {
+    "id": "p-11cbee",
+    "offset": 35163,
+    "text": "For, if possible, let it be so."
+  },
+  {
+    "id": "p-bdfda2",
+    "offset": 35196,
+    "text": "Then, since A measures B according to C, therefore A by multiplying C has made B."
+  },
+  {
+    "id": "p-6f18ce",
+    "offset": 35279,
+    "text": "Therefore B is made up of odd numbers the multitude of which is odd."
+  },
+  {
+    "id": "p-169a85",
+    "offset": 35349,
+    "text": "Therefore B is odd: [ IX. 23] which is absurd, for by hypothesis it is even."
+  },
+  {
+    "id": "p-d1efbe",
+    "offset": 35427,
+    "text": "Therefore C is not odd; therefore C is even."
+  },
+  {
+    "id": "p-24d540",
+    "offset": 35473,
+    "text": "Thus A measures B an even number of times."
+  },
+  {
+    "id": "p-500965",
+    "offset": 35517,
+    "text": "For this reason then it also measures the half of it. Q. E. D."
+  },
+  {
+    "id": "p-298988",
+    "offset": 35581,
+    "text": "If an odd number be prime to any number, it will also be prime to the double of it."
+  },
+  {
+    "id": "p-e2feda",
+    "offset": 35666,
+    "text": "For let the odd number A be prime to any number B, and let C be double of B; I say that A is prime to C."
+  },
+  {
+    "id": "p-7b27bf",
+    "offset": 35772,
+    "text": "For, if they are not prime to one another, some number will measure them."
+  },
+  {
+    "id": "p-196387",
+    "offset": 35847,
+    "text": "Let a number measure them, and let it be D."
+  },
+  {
+    "id": "p-f4494a",
+    "offset": 35892,
+    "text": "Now A is odd; therefore D is also odd."
+  },
+  {
+    "id": "p-702350",
+    "offset": 35932,
+    "text": "And since D which is odd measures C, and C is even, therefore [ D] will measure the half of C also. [ IX. 30]"
+  },
+  {
+    "id": "p-7f84b9",
+    "offset": 36043,
+    "text": "But B is half of C; therefore D measures B."
+  },
+  {
+    "id": "p-ef453c",
+    "offset": 36088,
+    "text": "But it also measures A; therefore D measures A, B which are prime to one another: which is impossible."
+  },
+  {
+    "id": "p-21d08d",
+    "offset": 36192,
+    "text": "Therefore A cannot but be prime to C."
+  },
+  {
+    "id": "p-006a15",
+    "offset": 36231,
+    "text": "Therefore A, C are prime to one another. Q. E. D."
+  },
+  {
+    "id": "p-0f751b",
+    "offset": 36282,
+    "text": "Each of the numbers which are continually doubled beginning from a dyad is even-times even only."
+  },
+  {
+    "id": "p-460528",
+    "offset": 36380,
+    "text": "For let as many numbers as we please, B, C, D, have been continually doubled beginning from the dyad A; I say that B, C, D are eventimes even only."
+  },
+  {
+    "id": "p-413d2a",
+    "offset": 36529,
+    "text": "Now that each of the numbers B, C, D is even-times even is manifest; for it is doubled from a dyad."
+  },
+  {
+    "id": "p-f85d72",
+    "offset": 36630,
+    "text": "I say that it is also even-times even only."
+  },
+  {
+    "id": "p-cdc345",
+    "offset": 36675,
+    "text": "For let an unit be set out."
+  },
+  {
+    "id": "p-fd5891",
+    "offset": 36704,
+    "text": "Since then as many numbers as we please beginning from an unit are in continued proportion, and the number A after the unit is prime, therefore D, the greatest of the numbers A, B, C, D, will not be measured by any other number except A, B, C. [ IX. 13]"
+  },
+  {
+    "id": "p-d9dbb9",
+    "offset": 36959,
+    "text": "And each of the numbers A, B, C is even; therefore D is even-times even only. [ VII. Def. 8]"
+  },
+  {
+    "id": "p-24653b",
+    "offset": 37053,
+    "text": "Similarly we can prove that each of the numbers B, C is even-times even only. Q. E. D."
+  },
+  {
+    "id": "p-0f3e23",
+    "offset": 37141,
+    "text": "If a number have its half odd, it is even-times odd only."
+  },
+  {
+    "id": "p-34ae1b",
+    "offset": 37200,
+    "text": "For let the number A have its half odd; I say that A is even-times odd only."
+  },
+  {
+    "id": "p-69503b",
+    "offset": 37278,
+    "text": "Now that it is even-times odd is manifest; for the half of it, being odd, measures it an even number of times. [ VII. Def. 9]"
+  },
+  {
+    "id": "p-305ee3",
+    "offset": 37405,
+    "text": "I say next that it is also even-times odd only."
+  },
+  {
+    "id": "p-73a144",
+    "offset": 37454,
+    "text": "For, if A is even-times even also, it will be measured by an even number according to an even number; [ VII. Def. 8] so that the half of it will also be measured by an even number though it is odd: which is absurd."
+  },
+  {
+    "id": "p-6b5691",
+    "offset": 37670,
+    "text": "Therefore A is even-times odd only. Q. E. D."
+  },
+  {
+    "id": "p-f2ae59",
+    "offset": 37716,
+    "text": "If a number neither be one of those which are continually doubled from a dyad, nor have its half odd, it is both eventimes even and even-times odd."
+  },
+  {
+    "id": "p-3aa7c9",
+    "offset": 37865,
+    "text": "For let the number A neither be one of those doubled from a dyad, nor have its half odd; I say that A is both even-times even and even-times odd."
+  },
+  {
+    "id": "p-ba00fe",
+    "offset": 38012,
+    "text": "Now that A is even-times even is manifest; for it has not its half odd. [ VII. Def. 8]"
+  },
+  {
+    "id": "p-7247e9",
+    "offset": 38100,
+    "text": "I say next that it is also even-times odd."
+  },
+  {
+    "id": "p-63be6c",
+    "offset": 38144,
+    "text": "For, if we bisect A, then bisect its half, and do this continually, we shall come upon some odd number which will measure A according to an even number."
+  },
+  {
+    "id": "p-4e35a8",
+    "offset": 38298,
+    "text": "For, if not, we shall come upon a dyad, and A will be among those which are doubled from a dyad: which is contrary to the hypothesis."
+  },
+  {
+    "id": "p-0f5b8a",
+    "offset": 38433,
+    "text": "Thus A is even-times odd."
+  },
+  {
+    "id": "p-c9e84c",
+    "offset": 38460,
+    "text": "But it was also proved even-times even."
+  },
+  {
+    "id": "p-33d6c0",
+    "offset": 38501,
+    "text": "Therefore A is both even-times even and even-times odd. Q. E. D."
+  },
+  {
+    "id": "p-96c039",
+    "offset": 38567,
+    "text": "If as many numbers as we please be in continued proportion, and there be subtracted from the second and the last numbers equal to the first, then, as the excess of the second is to the first, so will the excess of the last be to all those before it."
+  },
+  {
+    "id": "p-96ee3a",
+    "offset": 38818,
+    "text": "Let there be as many numbers as we please in continued proportion, A, BC, D, EF, beginning from A as least, and let there be subtracted from BC and EF the numbers BG, FH, each equal to A; I say that, as GC is to A, so is EH to A, BC, D."
+  },
+  {
+    "id": "p-b1d021",
+    "offset": 39056,
+    "text": "For let FK be made equal to BC, and FL equal to D."
+  },
+  {
+    "id": "p-1dbcb5",
+    "offset": 39108,
+    "text": "Then, since FK is equal to BC, and of these the part FH is equal to the part BG, therefore the remainder HK is equal to the remainder GC."
+  },
+  {
+    "id": "p-c6a59c",
+    "offset": 39247,
+    "text": "And since, as EF is to D, so is D to BC, and BC to A, while D is equal to FL, BC to FK, and A to FH, therefore, as EF is to FL, so is LF to FK, and FK to FH."
+  },
+  {
+    "id": "p-d401c6",
+    "offset": 39406,
+    "text": "Separando, as EL is to LF, so is LK to FK, and KH to FH. [ VII. 11, 13]"
+  },
+  {
+    "id": "p-d31863",
+    "offset": 39479,
+    "text": "Therefore also, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents; [ VII. 12] therefore, as KH is to FH, so are EL, LK. KH to LF, FK, HF."
+  },
+  {
+    "id": "p-d3db42",
+    "offset": 39674,
+    "text": "But KH is equal to CG, FH to A, and LF, FK, HF to D, BC, A; therefore, as CG is to A, so is EH to D, BC, A."
+  },
+  {
+    "id": "p-4e9fe6",
+    "offset": 39783,
+    "text": "Therefore, as the excess of the second is to the first, so is the excess of the last to all those before it. Q. E. D."
+  },
+  {
+    "id": "p-44800a",
+    "offset": 39902,
+    "text": "If as many numbers as we please beginning from an unit be set out continuously in double proportion, until the sum of all becomes prime, and if the sum multiplied into the last make some number, the product will be perfect."
+  },
+  {
+    "id": "p-48a9a2",
+    "offset": 40127,
+    "text": "For let as many numbers as we please, A, B, C, D, beginning from an unit be set out in double proportion, until the sum of all becomes prime, let E be equal to the sum, and let E by multiplying D make FG; I say that FG is perfect."
+  },
+  {
+    "id": "p-4c3cd8",
+    "offset": 40359,
+    "text": "For, however many A, B, C, D are in multitude, let so many E, HK, L, M be taken in double proportion beginning from E; therefore, ex aequali, as A is to D, so is E to M. [ VII. 14]"
+  },
+  {
+    "id": "p-c7b005",
+    "offset": 40541,
+    "text": "Therefore the product of E, D is equal to the product of A, M. [ VII. 19]"
+  },
+  {
+    "id": "p-4500fc",
+    "offset": 40616,
+    "text": "And the product of E, D is FG; therefore the product of A, M is also FG."
+  },
+  {
+    "id": "p-5943b3",
+    "offset": 40690,
+    "text": "Therefore A by multiplying M has made FG; therefore M measures FG according to the units in A."
+  },
+  {
+    "id": "p-c5cd67",
+    "offset": 40786,
+    "text": "And A is a dyad; therefore FG is double of M."
+  },
+  {
+    "id": "p-f5080d",
+    "offset": 40833,
+    "text": "But M, L, HK, E are continuously double of each other; therefore E, HK, L, M, FG are continuously proportional in double proportion."
+  },
+  {
+    "id": "p-5e1535",
+    "offset": 40967,
+    "text": "Now let there be subtracted from the second HK and the last FG the numbers HN, FO, each equal to the first E; therefore, as the excess of the second is to the first, so is the excess of the last to all those before it. [ IX. 35]"
+  },
+  {
+    "id": "p-dffeda",
+    "offset": 41197,
+    "text": "Therefore, as NK is to E, so is OG to M, L, KH, E."
+  },
+  {
+    "id": "p-dad94a",
+    "offset": 41249,
+    "text": "And NK is equal to E; therefore OG is also equal to M, L, HK, E."
+  },
+  {
+    "id": "p-7710ae",
+    "offset": 41315,
+    "text": "But FO is also equal to E, and E is equal to A, B, C, D and the unit."
+  },
+  {
+    "id": "p-46e6b2",
+    "offset": 41386,
+    "text": "Therefore the whole FG is equal to E, HK, L, M and A, B, C, D and the unit; and it is measured by them."
+  },
+  {
+    "id": "p-0290b0",
+    "offset": 41491,
+    "text": "I say also that FG will not be measured by any other number except A, B, C, D, E, HK, L, M and the unit."
+  },
+  {
+    "id": "p-8243c2",
+    "offset": 41597,
+    "text": "For, if possible, let some number P measure FG, and let P not be the same with any of the numbers A, B, C, D, E, HK, L, M."
+  },
+  {
+    "id": "p-8eb9e0",
+    "offset": 41721,
+    "text": "And, as many times as P measures FG, so many units let there be in Q; therefore Q by multiplying P has made FG."
+  },
+  {
+    "id": "p-b4c43e",
+    "offset": 41834,
+    "text": "But, further, E has also by multiplying D made FG; therefore, as E is to Q, so is P to D. [ VII. 19]"
+  },
+  {
+    "id": "p-265624",
+    "offset": 41936,
+    "text": "And, since A, B, C, D are continuously proportional beginning from an unit, therefore D will not be measured by any other number except A, B, C. [ IX. 13]"
+  },
+  {
+    "id": "p-d4f4f9",
+    "offset": 42092,
+    "text": "And, by hypothesis, P is not the same with any of the numbers A, B, C; therefore P will not measure D."
+  },
+  {
+    "id": "p-e9798b",
+    "offset": 42196,
+    "text": "But, as P is to D, so is E to Q; therefore neither does E measure Q. [ VII. Def. 20]"
+  },
+  {
+    "id": "p-e322f3",
+    "offset": 42282,
+    "text": "And E is prime; and any prime number is prime to any number which it does not measure. [ VII. 29]"
+  },
+  {
+    "id": "p-cb4997",
+    "offset": 42381,
+    "text": "Therefore E, Q are prime to one another."
+  },
+  {
+    "id": "p-e29d74",
+    "offset": 42423,
+    "text": "But primes are also least, [ VII. 21] and the least numbers measure those which have the same ratio the same number of times, the antecedent the antecedent and the consequent the consequent; [ VII. 20] and, as E is to Q, so is P to D; therefore E measures P the same number of times that Q measures D."
+  },
+  {
+    "id": "p-498bde",
+    "offset": 42726,
+    "text": "But D is not measured by any other number except A, B, C; therefore Q is the same with one of the numbers A, B, C."
+  },
+  {
+    "id": "p-6ea929",
+    "offset": 42842,
+    "text": "Let it be the same with B."
+  },
+  {
+    "id": "p-000767",
+    "offset": 42870,
+    "text": "And, however many B, C, D are in multitude, let so many E, HK, L be taken beginning from E."
+  },
+  {
+    "id": "p-9db2bc",
+    "offset": 42963,
+    "text": "Now E, HK, L are in the same ratio with B, C, D; therefore, ex aequali, as B is to D, so is E to L. [ VII. 14]"
+  },
+  {
+    "id": "p-fbbf71",
+    "offset": 43075,
+    "text": "Therefore the product of B, L is equal to the product of D, E. [ VII. 19]"
+  },
+  {
+    "id": "p-595dca",
+    "offset": 43150,
+    "text": "But the product of D, E is equal to the product of Q, P; therefore the product of Q, P is also equal to the product of B, L."
+  },
+  {
+    "id": "p-b7c614",
+    "offset": 43276,
+    "text": "Therefore, as Q is to B, so is L to P. [ VII. 19]"
+  },
+  {
+    "id": "p-b0b653",
+    "offset": 43327,
+    "text": "And Q is the same with B; therefore L is also the same with P; which is impossible, for by hypothesis P is not the same with any of the numbers set out."
+  },
+  {
+    "id": "p-e94c88",
+    "offset": 43481,
+    "text": "Therefore no number will measure FG except A, B, C, D, E, HK, L, M and the unit."
+  },
+  {
+    "id": "p-0cd0fd",
+    "offset": 43563,
+    "text": "And FG was proved equal to A, B, C, D, E, HK, L, M and the unit; and a perfect number is that which is equal to its own parts; [ VII. Def. 22] therefore FG is perfect. Q. E. D."
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "work_slug": "hippocrates-aphorisms-55e562",
+  "work_title": "Aphorisms",
+  "chapter_number": 1,
+  "chapter_title": "Aphorisms",
+  "chapter_slug": "01-aphorisms",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "48e5fbd9-6383-55db-ac70-c7ce929cd55f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9989,
+      "paragraph_count": 413,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0627.tlg012.perseus-eng2"
+    }
+  ]
+}

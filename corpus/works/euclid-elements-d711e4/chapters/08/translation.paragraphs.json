@@ -1,0 +1,1657 @@
+[
+  {
+    "id": "p-d1a513",
+    "offset": 0,
+    "text": "If there be as many numbers as we please in continued proportion, and the extremes of them be prime to one another, the numbers are the least of those which have the same ratio with them."
+  },
+  {
+    "id": "p-162484",
+    "offset": 189,
+    "text": "Let there be as many numbers as we please, A, B, C, D, in continued proportion, and let the extremes of them A, D be prime to one another; I say that A, B, C, D are the least of those which have the same ratio with them."
+  },
+  {
+    "id": "p-d87727",
+    "offset": 411,
+    "text": "For, if not, let E, F, G, H be less than A, B, C, D, and in the same ratio with them."
+  },
+  {
+    "id": "p-295cfc",
+    "offset": 498,
+    "text": "Now, since A, B, C, D are in the same ratio with E, F, G, H, and the multitude of the numbers A, B, C, D is equal to the multitude of the numbers E, F, G, H, therefore, ex aequali, as A is to D, so is E to H. [ VII. 14]"
+  },
+  {
+    "id": "p-413628",
+    "offset": 719,
+    "text": "But A, D are prime, primes are also least, [ VII. 21] and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent. [ VII. 20]"
+  },
+  {
+    "id": "p-3fc056",
+    "offset": 994,
+    "text": "Therefore A measures E, the greater the less: which is impossible."
+  },
+  {
+    "id": "p-e3472e",
+    "offset": 1062,
+    "text": "Therefore E, F, G, H which are less than A, B, C, D are not in the same ratio with them."
+  },
+  {
+    "id": "p-432d3d",
+    "offset": 1152,
+    "text": "Therefore A, B, C, D are the least of those which have the same ratio with them. Q. E. D."
+  },
+  {
+    "id": "p-9c3146",
+    "offset": 1243,
+    "text": "To find numbers in continued proportion, as many as may be prescribed, and the least that are in a given ratio."
+  },
+  {
+    "id": "p-708589",
+    "offset": 1356,
+    "text": "Let the ratio of A to B be the given ratio in least numbers; thus it is required to find numbers in continued proportion, as many as may be prescribed, and the least that are in the ratio of A to B."
+  },
+  {
+    "id": "p-d48337",
+    "offset": 1556,
+    "text": "Let four be prescribed; let A by multiplying itself make C, and by multiplying B let it make D; let B by multiplying itself make E; further, let A by multiplying C, D, E make F, G, H, and let B by multiplying E make K."
+  },
+  {
+    "id": "p-ccbc0b",
+    "offset": 1776,
+    "text": "Now, since A by multiplying itself has made C, and by multiplying B has made D, therefore, as A is to B, so is C to D. [ VII. 17]"
+  },
+  {
+    "id": "p-74065a",
+    "offset": 1907,
+    "text": "Again, since A by multiplying B has made D, and B by multiplying itself has made E, therefore the numbers A, B by multiplying B have made the numbers D, E respectively."
+  },
+  {
+    "id": "p-770fab",
+    "offset": 2077,
+    "text": "Therefore, as A is to B, so is D to E. [ VII. 18]"
+  },
+  {
+    "id": "p-d62f8a",
+    "offset": 2128,
+    "text": "But, as A is to B, so is C to D; therefore also, as C is to D, so is D to E."
+  },
+  {
+    "id": "p-cb4dcc",
+    "offset": 2206,
+    "text": "And, since A by multiplying C, D has made F, G, therefore, as C is to D, so is F to G. [ VII. 17]"
+  },
+  {
+    "id": "p-66c76d",
+    "offset": 2305,
+    "text": "But, as C is to D, so was A to B; therefore also, as A is to B, so is F to G."
+  },
+  {
+    "id": "p-c08ddd",
+    "offset": 2384,
+    "text": "Again, since A by multiplying D, E has made G, H, therefore, as D is to E, so is G to H. [ VII. 17]"
+  },
+  {
+    "id": "p-72c914",
+    "offset": 2485,
+    "text": "But, as D is to E, so is A to B."
+  },
+  {
+    "id": "p-7b6427",
+    "offset": 2519,
+    "text": "Therefore also, as A is to B, so is G to H."
+  },
+  {
+    "id": "p-0bf672",
+    "offset": 2564,
+    "text": "And, since A, B by multiplying E have made H, K, therefore, as A is to B, so is H to K. [ VII. 18]"
+  },
+  {
+    "id": "p-2300d8",
+    "offset": 2664,
+    "text": "But, as A is to B, so is F to G, and G to H."
+  },
+  {
+    "id": "p-00729b",
+    "offset": 2710,
+    "text": "Therefore also, as F is to G, so is G to H, and H to K; therefore C, D, E, and F, G, H, K are proportional in the ratio of A to B."
+  },
+  {
+    "id": "p-53dbe6",
+    "offset": 2842,
+    "text": "I say next that they are the least numbers that are so."
+  },
+  {
+    "id": "p-c3a2ea",
+    "offset": 2899,
+    "text": "For, since A, B are the least of those which have the same ratio with them, and the least of those which have the same ratio are prime to one another, [ VII. 22] therefore A, B are prime to one another."
+  },
+  {
+    "id": "p-37bd8d",
+    "offset": 3103,
+    "text": "And the numbers A, B by multiplying themselves respectively have made the numbers C, E, and by multiplying the numbers C, E respectively have made the numbers F, K; therefore C, E and F, K are prime to one another respectively. [ VII. 27]"
+  },
+  {
+    "id": "p-0f8857",
+    "offset": 3343,
+    "text": "But, if there be as many numbers as we please in continued proportion, and the extremes of them be prime to one another, they are the least of those which have the same ratio with them. [ VIII. 1]"
+  },
+  {
+    "id": "p-f9d25d",
+    "offset": 3541,
+    "text": "Therefore C, D, E and F, G, H, K are the least of those which have the same ratio with A, B. Q. E. D."
+  },
+  {
+    "id": "p-369fd7",
+    "offset": 3644,
+    "text": "Porism. From this it is manifest that, if three numbers in continued proportion be the least of those which have the same ratio with them, the extremes of them are squares, and, if four numbers, cubes."
+  },
+  {
+    "id": "p-762287",
+    "offset": 3847,
+    "text": "If as many numbers as we please in continued proportion be the least of those which have the same ratio with them, the extremes of them are prime to one another."
+  },
+  {
+    "id": "p-e71937",
+    "offset": 4010,
+    "text": "Let as many numbers as we please, A, B, C, D, in continued proportion be the least of those which have the same ratio with them; I say that the extremes of them A, D are prime to one another."
+  },
+  {
+    "id": "p-aef5a3",
+    "offset": 4203,
+    "text": "For let two numbers E, F, the least that are in the ratio of A, B, C, D, be taken, [ VII. 33] then three others G, H, K with the same property; and others, more by one continually, [ VIII. 2] until the multitude taken becomes equal to the multitude of the numbers A, B, C, D."
+  },
+  {
+    "id": "p-163018",
+    "offset": 4480,
+    "text": "Let them be taken, and let them be L, M, N, O."
+  },
+  {
+    "id": "p-6e1485",
+    "offset": 4528,
+    "text": "Now, since E, F are the least of those which have the same ratio with them, they are prime to one another. [ VII. 22]"
+  },
+  {
+    "id": "p-126057",
+    "offset": 4647,
+    "text": "And, since the numbers E, F by multiplying themselves respectively have made the numbers G, K, and by multiplying the numbers G, K respectively have made the numbers L, O, [ VIII. 2, Por.] therefore both G, K and L, O are prime to one another. [ VII. 27]"
+  },
+  {
+    "id": "p-754e50",
+    "offset": 4903,
+    "text": "And, since A, B, C, D are the least of those which have the same ratio with them, while L, M, N, O are the least that are in the same ratio with A, B, C, D, and the multitude of the numbers A, B, C, D is equal to the multitude of the numbers L, M, N, O, therefore the numbers A, B, C, D are equal to the numbers L, M, N, O respectively; therefore A is equal to L, and D to O."
+  },
+  {
+    "id": "p-75f455",
+    "offset": 5280,
+    "text": "And L, O are prime to one another."
+  },
+  {
+    "id": "p-d88758",
+    "offset": 5316,
+    "text": "Therefore A, D are also prime to one another. Q. E. D."
+  },
+  {
+    "id": "p-c2455a",
+    "offset": 5372,
+    "text": "Given as many ratios as we please in least numbers, to find numbers in continued proportion which are the least in the given ratios."
+  },
+  {
+    "id": "p-af56ec",
+    "offset": 5506,
+    "text": "Let the given ratios in least numbers be that of A to B, that of C to D, and that of E to F; thus it is required to find numbers in continued proportion which are the least that are in the ratio of A to B, in the ratio of C to D, and in the ratio of E to F."
+  },
+  {
+    "id": "p-744988",
+    "offset": 5765,
+    "text": "Let G, the least number measured by B, C, be taken. [ VII. 34]"
+  },
+  {
+    "id": "p-7cfe68",
+    "offset": 5829,
+    "text": "And, as many times as B measures G, so many times also let A measure H, and, as many times as C measures G, so many times also let D measure K."
+  },
+  {
+    "id": "p-5d393e",
+    "offset": 5974,
+    "text": "Now E either measures or does not measure K."
+  },
+  {
+    "id": "p-8a99e3",
+    "offset": 6020,
+    "text": "First, let it measure it."
+  },
+  {
+    "id": "p-9437c4",
+    "offset": 6047,
+    "text": "And, as many times as E measures K, so many times let F measure L also."
+  },
+  {
+    "id": "p-7c7f44",
+    "offset": 6120,
+    "text": "Now, since A measures H the same number of times that B measures G, therefore, as A is to B, so is H to G. [ VII. Def. 20, VII. 13]"
+  },
+  {
+    "id": "p-756f44",
+    "offset": 6253,
+    "text": "For the same reason also, as C is to D, so is G to K, and further, as E is to F, so is K to L; therefore H, G, K, L are continuously proportional in the ratio of A to B, in the ratio of C to D, and in the ratio of E to F."
+  },
+  {
+    "id": "p-76a7fb",
+    "offset": 6476,
+    "text": "I say next that they are also the least that have this property."
+  },
+  {
+    "id": "p-bad311",
+    "offset": 6542,
+    "text": "For, if H, G, K, L are not the least numbers continuously proportional in the ratios of A to B, of C to D, and of E to F, let them be N, O, M, P."
+  },
+  {
+    "id": "p-411c29",
+    "offset": 6689,
+    "text": "Then since, as A is to B, so is N to O, while A, B are least, and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent; therefore B measures O. [ VII. 20]"
+  },
+  {
+    "id": "p-c5b89c",
+    "offset": 6996,
+    "text": "For the same reason C also measures O; therefore B, C measure O; therefore the least number measured by B, C will also measure O. [ VII. 35]"
+  },
+  {
+    "id": "p-3c1deb",
+    "offset": 7138,
+    "text": "But G is the least number measured by B, C; therefore G measures O, the greater the less: which is impossible."
+  },
+  {
+    "id": "p-807760",
+    "offset": 7250,
+    "text": "Therefore there will be no numbers less than H, G, K, L which are continuously in the ratio of A to B, of C to D, and of E to F."
+  },
+  {
+    "id": "p-d3fe0c",
+    "offset": 7380,
+    "text": "Next, let E not measure K."
+  },
+  {
+    "id": "p-8ab565",
+    "offset": 7408,
+    "text": "Let M, the least number measured by E, K, be taken."
+  },
+  {
+    "id": "p-8b8b72",
+    "offset": 7461,
+    "text": "And, as many times as K measures M, so many times let H, G measure N, O respectively, and, as many times as E measures M, so many times let F measure P also."
+  },
+  {
+    "id": "p-6593e0",
+    "offset": 7620,
+    "text": "Since H measures N the same number of times that G measures O, therefore, as H is to G, so is N to O. [ VII. 13 and Def. 20]"
+  },
+  {
+    "id": "p-78551a",
+    "offset": 7746,
+    "text": "But, as H is to G, so is A to B; therefore also, as A is to B, so is N to O."
+  },
+  {
+    "id": "p-b475c8",
+    "offset": 7824,
+    "text": "For the same reason also, as C is to D, so is O to M."
+  },
+  {
+    "id": "p-fd6d65",
+    "offset": 7879,
+    "text": "Again, since E measures M the same number of times that F measures P, therefore, as E is to F, so is M to P; [ VII. 13 and Def. 20] therefore N, O, M, P are continuously proportional in the ratios of A to B, of C to D, and of E to F."
+  },
+  {
+    "id": "p-27663c",
+    "offset": 8114,
+    "text": "I say next that they are also the least that are in the ratios A: B, C: D, E: F."
+  },
+  {
+    "id": "p-3cbd9b",
+    "offset": 8196,
+    "text": "For, if not, there will be some numbers less than N, O, M, P continuously proportional in the ratios A: B, C: D, E: F."
+  },
+  {
+    "id": "p-c5fabf",
+    "offset": 8316,
+    "text": "Let them be Q, R, S, T."
+  },
+  {
+    "id": "p-39d6b8",
+    "offset": 8341,
+    "text": "Now since, as Q is to R, so is A to B, while A, B are least, and the least numbers measure those which have the same ratio with them the same number of times, the antecedent the antecedent and the consequent the consequent, [ VII. 20] therefore B measures R."
+  },
+  {
+    "id": "p-33b9f7",
+    "offset": 8601,
+    "text": "For the same reason C also measures R; therefore B, C measure R."
+  },
+  {
+    "id": "p-389572",
+    "offset": 8667,
+    "text": "Therefore the least number measured by B, C will also measure R. [ VII. 35]"
+  },
+  {
+    "id": "p-2f38e1",
+    "offset": 8744,
+    "text": "But G is the least number measured by B, C; therefore G measures R."
+  },
+  {
+    "id": "p-18fc3f",
+    "offset": 8813,
+    "text": "And, as G is to R, so is K to S: [ VII. 13] therefore K also measures S."
+  },
+  {
+    "id": "p-dd708f",
+    "offset": 8887,
+    "text": "But E also measures S; therefore E, K measure S."
+  },
+  {
+    "id": "p-c8ec28",
+    "offset": 8937,
+    "text": "Therefore the least number measured by E, K will also measure S. [ VII. 35]"
+  },
+  {
+    "id": "p-aca6ba",
+    "offset": 9014,
+    "text": "But M is the least number measured by E, K; therefore M measures S, the greater the less: which is impossible."
+  },
+  {
+    "id": "p-12cc3b",
+    "offset": 9126,
+    "text": "Therefore there will not be any numbers less than N, O, M, P continuously proportional in the ratios of A to B, of C to D, and of E to F; therefore N, O, M, P are the least numbers continuously proportional in the ratios A: B, C: D, E: F. Q. E. D."
+  },
+  {
+    "id": "p-1a8b59",
+    "offset": 9375,
+    "text": "Plane numbers have to one another the ratio compounded of the ratios of their sides."
+  },
+  {
+    "id": "p-435fa4",
+    "offset": 9461,
+    "text": "Let A, B be plane numbers, and let the numbers C, D be the sides of A, and E, F of B; I say that A has to B the ratio compounded of the ratios of the sides."
+  },
+  {
+    "id": "p-8836f9",
+    "offset": 9619,
+    "text": "For, the ratios being given which C has to E and D to F, let the least numbers G, H, K that are continuously in the ratios C: E, D: F be taken, so that, as C is to E, so is G to H, and, as D is to F, so is H to K. [ VIII. 4]"
+  },
+  {
+    "id": "p-e521d3",
+    "offset": 9845,
+    "text": "And let D by multiplying E make L."
+  },
+  {
+    "id": "p-23c071",
+    "offset": 9881,
+    "text": "Now, since D by multiplying C has made A, and by multiplying E has made L, therefore, as C is to E, so is A to L. [ VII. 17]"
+  },
+  {
+    "id": "p-4c345a",
+    "offset": 10007,
+    "text": "But, as C is to E, so is G to H; therefore also, as G is to H, so is A to L."
+  },
+  {
+    "id": "p-bfc9fb",
+    "offset": 10085,
+    "text": "Again, since E by multiplying D has made L, and further by multiplying F has made B, therefore, as D is to F, so is L to B. [ VII. 17]"
+  },
+  {
+    "id": "p-3d2847",
+    "offset": 10221,
+    "text": "But, as D is to F, so is H to K; therefore also, as H is to K, so is L to B."
+  },
+  {
+    "id": "p-ea331e",
+    "offset": 10299,
+    "text": "But it was also proved that, as G is to H, so is A to L; therefore, ex aequali, as G is to K, so is A to B. [ VII. 14]"
+  },
+  {
+    "id": "p-1815e9",
+    "offset": 10419,
+    "text": "But G has to K the ratio compounded of the ratios of the sides; therefore A also has to B the ratio compounded of the ratios of the sides. Q. E. D."
+  },
+  {
+    "id": "p-2f2bfe",
+    "offset": 10568,
+    "text": "If there be as many numbers as we please in continued proportion, and the first do not measure the second, neither will any other measure any other."
+  },
+  {
+    "id": "p-678c5d",
+    "offset": 10718,
+    "text": "Let there be as many numbers as we please, A, B, C, D, E, in continued proportion, and let A not measure B; I say that neither will any other measure any other."
+  },
+  {
+    "id": "p-724189",
+    "offset": 10880,
+    "text": "Now it is manifest that A, B, C, D, E do not measure one another in order; for A does not even measure B."
+  },
+  {
+    "id": "p-d315e5",
+    "offset": 10987,
+    "text": "I say, then, that neither will any other measure any other."
+  },
+  {
+    "id": "p-55c2a3",
+    "offset": 11048,
+    "text": "For, if possible, let A measure C."
+  },
+  {
+    "id": "p-f67795",
+    "offset": 11084,
+    "text": "And, however many A, B, C are, let as many numbers F, G, H, the least of those which have the same ratio with A, B, C, be taken. [ VII. 33]"
+  },
+  {
+    "id": "p-979d80",
+    "offset": 11225,
+    "text": "Now, since F, G, H are in the same ratio with A, B, C, and the multitude of the numbers A, B, C is equal to the multitude of the numbers F, G, H, therefore, ex aequali, as A is to C, so is F to H. [ VII. 14]"
+  },
+  {
+    "id": "p-b21b1a",
+    "offset": 11434,
+    "text": "And since, as A is to B, so is F to G, while A does not measure B, therefore neither does F measure G; [ VII. Def. 20] therefore F is not an unit, for the unit measures any number."
+  },
+  {
+    "id": "p-ae5662",
+    "offset": 11616,
+    "text": "Now F, H are prime to one another. [ VIII. 3]"
+  },
+  {
+    "id": "p-ba5081",
+    "offset": 11663,
+    "text": "And, as F is to H, so is A to C; therefore neither does A measure C."
+  },
+  {
+    "id": "p-38efa8",
+    "offset": 11733,
+    "text": "Similarly we can prove that neither will any other measure any other. Q. E. D."
+  },
+  {
+    "id": "p-4c6282",
+    "offset": 11813,
+    "text": "If there be as many numbers as we please in continued proportion, and the first measure the last, it will measure the second also."
+  },
+  {
+    "id": "p-c45246",
+    "offset": 11945,
+    "text": "Let there be as many numbers as we please, A, B, C, D, in continued proportion; and let A measure D; I say that A also measures B."
+  },
+  {
+    "id": "p-1bdc5c",
+    "offset": 12077,
+    "text": "For, if A does not measure B, neither will any other of the numbers measure any other. [ VIII. 6]"
+  },
+  {
+    "id": "p-e8bea5",
+    "offset": 12176,
+    "text": "But A measures D."
+  },
+  {
+    "id": "p-f3a5d8",
+    "offset": 12195,
+    "text": "Therefore A also measures B. Q. E. D."
+  },
+  {
+    "id": "p-824954",
+    "offset": 12234,
+    "text": "If between two numbers there fall numbers in continued proportion with them, then, however many numbers fall between them in continued proportion, so many will also fall in continued proportion between the numbers which have the same ratio with the original numbers."
+  },
+  {
+    "id": "p-e8e805",
+    "offset": 12502,
+    "text": "Let the numbers C, D fall between the two numbers A, B in continued proportion with them, and let E be made in the same ratio to F as A is to B; I say that, as many numbers as have fallen between A, B in continued proportion, so many will also fall between E, F in continued proportion."
+  },
+  {
+    "id": "p-8bcf4b",
+    "offset": 12790,
+    "text": "For, as many as A, B, C, D are in multitude, let so many numbers G, H, K, L, the least of those which have the same ratio with A, C, D, B, be taken; [ VII. 33] therefore the extremes of them G, L are prime to one another. [ VIII. 3]"
+  },
+  {
+    "id": "p-205a84",
+    "offset": 13024,
+    "text": "Now, since A, C, D, B are in the same ratio with G, H, K, L, and the multitude of the numbers A, C, D, B is equal to the multitude of the numbers G, H, K, L, therefore, ex aequali, as A is to B, so is G to L. [ VII. 14]"
+  },
+  {
+    "id": "p-e5cd65",
+    "offset": 13245,
+    "text": "But, as A is to B, so is E to F; therefore also, as G is to L, so is E to F."
+  },
+  {
+    "id": "p-123216",
+    "offset": 13323,
+    "text": "But G, L are prime, primes are also least, [ VII. 21] and the least numbers measure those which have the same ratio the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent. [ VII. 20]"
+  },
+  {
+    "id": "p-5c5b13",
+    "offset": 13598,
+    "text": "Therefore G measures E the same number of times as L measures F."
+  },
+  {
+    "id": "p-08f6c6",
+    "offset": 13664,
+    "text": "Next, as many times as G measures E, so many times let H, K also measure M, N respectively; therefore G, H, K, L measure E, M, N, F the same number of times."
+  },
+  {
+    "id": "p-14ea94",
+    "offset": 13823,
+    "text": "Therefore G, H, K, L are in the same ratio with E, M, N, F. [ VII. Def. 20]"
+  },
+  {
+    "id": "p-e5e192",
+    "offset": 13900,
+    "text": "But G, H, K, L are in the same ratio with A, C, D, B; therefore A, C, D, B are also in the same ratio with E, M, N, F."
+  },
+  {
+    "id": "p-2fa6a0",
+    "offset": 14020,
+    "text": "But A, C, D, B are in continued proportion; therefore E, M, N, F are also in continued proportion."
+  },
+  {
+    "id": "p-749c1a",
+    "offset": 14120,
+    "text": "Therefore, as many numbers as have fallen between A, B in continued proportion with them, so many numbers have also fallen between E, F in continued proportion. Q. E. D."
+  },
+  {
+    "id": "p-de3e4e",
+    "offset": 14291,
+    "text": "If two numbers be prime to one another, and numbers fall between them in continued proportion, then, however many numbers fall between them in continued proportion, so many will also fall between each of them and an unit in continued proportion."
+  },
+  {
+    "id": "p-f600ed",
+    "offset": 14538,
+    "text": "Let A, B be two numbers prime to one another, and let C, D fall between them in continued proportion, and let the unit E be set out; I say that, as many numbers as fall between A, B in continued proportion, so many will also fall between either of the numbers A, B and the unit in continued proportion."
+  },
+  {
+    "id": "p-3230a8",
+    "offset": 14842,
+    "text": "For let two numbers F, G, the least that are in the ratio of A, C, D, B, be taken, three numbers H, K, L with the same property, and others more by one continually, until their multitude is equal to the multitude of A, C, D, B. [ VIII. 2]"
+  },
+  {
+    "id": "p-fb2ba1",
+    "offset": 15082,
+    "text": "Let them be taken, and let them be M, N, O, P."
+  },
+  {
+    "id": "p-683858",
+    "offset": 15130,
+    "text": "It is now manifest that F by multiplying itself has made H and by multiplying H has made M, while G by multiplying itself has made L and by multiplying L has made P. [ VIII. 2, Por.]"
+  },
+  {
+    "id": "p-d89a70",
+    "offset": 15314,
+    "text": "And, since M, N, O, P are the least of those which have the same ratio with F, G, and A, C, D, B are also the least of those which have the same ratio with F, G, [ VIII. 1] while the multitude of the numbers M, N, O, P is equal to the multitude of the numbers A, C, D, B, therefore M, N, O, P are equal to A, C, D, B respectively; therefore M is equal to A, and P to B."
+  },
+  {
+    "id": "p-01359a",
+    "offset": 15685,
+    "text": "Now, since F by multiplying itself has made H, therefore F measures H according to the units in F."
+  },
+  {
+    "id": "p-ec7a93",
+    "offset": 15785,
+    "text": "But the unit E also measures F according to the units in it; therefore the unit E measures the number F the same number of times as F measures H."
+  },
+  {
+    "id": "p-4e53c6",
+    "offset": 15932,
+    "text": "Therefore, as the unit E is to the number F, so is F to H. [ VII. Def. 20]"
+  },
+  {
+    "id": "p-14c8b9",
+    "offset": 16008,
+    "text": "Again, since F by multiplying H has made M, therefore H measures M according to the units in F."
+  },
+  {
+    "id": "p-9dbc6b",
+    "offset": 16105,
+    "text": "But the unit E also measures the number F according to the units in it; therefore the unit E measures the number F the same number of times as H measures M."
+  },
+  {
+    "id": "p-b16ef0",
+    "offset": 16263,
+    "text": "Therefore, as the unit E is to the number F, so is H to M."
+  },
+  {
+    "id": "p-54c120",
+    "offset": 16323,
+    "text": "But it was also proved that, as the unit E is to the number F, so is F to H; therefore also, as the unit E is to the number F, so is F to H, and H to M."
+  },
+  {
+    "id": "p-f1bfc3",
+    "offset": 16477,
+    "text": "But M is equal to A; therefore, as the unit E is to the number F, so is F to H, and H to A."
+  },
+  {
+    "id": "p-48ff6c",
+    "offset": 16570,
+    "text": "For the same reason also, as the unit E is to the number G, so is G to L and L to B."
+  },
+  {
+    "id": "p-dd674f",
+    "offset": 16656,
+    "text": "Therefore, as many numbers as have fallen between A, B in continued proportion, so many numbers also have fallen between each of the numbers A, B and the unit E in continued proportion. Q. E. D."
+  },
+  {
+    "id": "p-5221ca",
+    "offset": 16852,
+    "text": "If numbers fall between each of two numbers and an unit in continued proportion, however many numbers fall between each of them and an unit in continued proportion, so many also will fall between the numbers themselves in continued proportion."
+  },
+  {
+    "id": "p-eedda0",
+    "offset": 17097,
+    "text": "For let the numbers D, E and F, G respectively fall between the two numbers A, B and the unit C in continued proportion; I say that, as many numbers as have fallen between each of the numbers A, B and the unit C in continued proportion, so many numbers will also fall between A, B in continued proportion."
+  },
+  {
+    "id": "p-33333a",
+    "offset": 17404,
+    "text": "For let D by multiplying F make H, and let the numbers D, F by multiplying H make K, L respectively."
+  },
+  {
+    "id": "p-993e0c",
+    "offset": 17506,
+    "text": "Now, since, as the unit C is to the number D, so is D to E, therefore the unit C measures the number D the same number of times as D measures E. [ VII. Def. 20]"
+  },
+  {
+    "id": "p-a71c80",
+    "offset": 17668,
+    "text": "But the unit C measures the number D according to the units in D; therefore the number D also measures E according to the units in D; therefore D by multiplying itself has made E."
+  },
+  {
+    "id": "p-c658bf",
+    "offset": 17849,
+    "text": "Again, since, as C is to the number D, so is E to A, therefore the unit C measures the number D the same number of times as E measures A."
+  },
+  {
+    "id": "p-d9dcca",
+    "offset": 17988,
+    "text": "But the unit C measures the number D according to the units in D; therefore E also measures A according to the units in D; therefore D by multiplying E has made A."
+  },
+  {
+    "id": "p-b3b142",
+    "offset": 18153,
+    "text": "For the same reason also F by multiplying itself has made G, and by multiplying G has made B."
+  },
+  {
+    "id": "p-8f895b",
+    "offset": 18248,
+    "text": "And, since D by multiplying itself has made E and by multiplying F has made H, therefore, as D is to F, so is E to H. [ VII. 17]"
+  },
+  {
+    "id": "p-177622",
+    "offset": 18378,
+    "text": "For the same reason also, as D is to F, so is H to G. [ VII. 18]"
+  },
+  {
+    "id": "p-78032d",
+    "offset": 18444,
+    "text": "Therefore also, as E is to H, so is H to G."
+  },
+  {
+    "id": "p-45c8c9",
+    "offset": 18489,
+    "text": "Again, since D by multiplying the numbers E, H has made A, K respectively, therefore, as E is to H, so is A to K. [ VII. 17]"
+  },
+  {
+    "id": "p-c709ab",
+    "offset": 18615,
+    "text": "But, as E is to H, so is D to F; therefore also, as D is to F, so is A to K."
+  },
+  {
+    "id": "p-dee4f5",
+    "offset": 18693,
+    "text": "Again, since the numbers D, F by multiplying H have made K, L respectively, therefore, as D is to F, so is K to L. [ VII. 18]"
+  },
+  {
+    "id": "p-84a81a",
+    "offset": 18820,
+    "text": "But, as D is to F, so is A to K; therefore also, as A is to K, so is K to L."
+  },
+  {
+    "id": "p-a2d548",
+    "offset": 18898,
+    "text": "Further, since F by multiplying the numbers H, G has made L, B respectively, therefore, as H is to G, so is L to B. [ VII. 17]"
+  },
+  {
+    "id": "p-7a0207",
+    "offset": 19026,
+    "text": "But, as H is to G, so is D to F; therefore also, as D is to F, so is L to B."
+  },
+  {
+    "id": "p-b85a9c",
+    "offset": 19104,
+    "text": "But it was also proved that, as D is to F, so is A to K and K to L; therefore also, as A is to K, so is K to L and L to B."
+  },
+  {
+    "id": "p-6a6d4d",
+    "offset": 19228,
+    "text": "Therefore A, K, L, B are in continued proportion."
+  },
+  {
+    "id": "p-d5d0f2",
+    "offset": 19279,
+    "text": "Therefore, as many numbers as fall between each of the numbers A, B and the unit C in continued proportion, so many also will fall between A, B in continued proportion. Q. E. D."
+  },
+  {
+    "id": "p-962b08",
+    "offset": 19458,
+    "text": "Between two square numbers there is one mean proportional number, and the square has to the square the ratio duplicate of that which the side has to the side."
+  },
+  {
+    "id": "p-c80c20",
+    "offset": 19618,
+    "text": "Let A, B be square numbers, and let C be the side of A, and D of B; I say that between A, B there is one mean proportional number, and A has to B the ratio duplicate of that which C has to D."
+  },
+  {
+    "id": "p-c7513f",
+    "offset": 19811,
+    "text": "For let C by multiplying D make E."
+  },
+  {
+    "id": "p-460d39",
+    "offset": 19847,
+    "text": "Now, since A is a square and C is its side, therefore C by multiplying itself has made A."
+  },
+  {
+    "id": "p-54ce0c",
+    "offset": 19938,
+    "text": "For the same reason also D by multiplying itself has made B."
+  },
+  {
+    "id": "p-43f0bb",
+    "offset": 20000,
+    "text": "Since then C by multiplying the numbers C, D has made A, E respectively, therefore, as C is to D, so is A to E. [ VII. 17]"
+  },
+  {
+    "id": "p-2a58b4",
+    "offset": 20124,
+    "text": "For the same reason also, as C is to D, so is E to B. [ VII. 18]"
+  },
+  {
+    "id": "p-848467",
+    "offset": 20190,
+    "text": "Therefore also, as A is to E, so is E to B."
+  },
+  {
+    "id": "p-4a0282",
+    "offset": 20235,
+    "text": "Therefore between A, B there is one mean proportional number."
+  },
+  {
+    "id": "p-71f3bd",
+    "offset": 20298,
+    "text": "I say next that A also has to B the ratio duplicate of that which C has to D."
+  },
+  {
+    "id": "p-07be0f",
+    "offset": 20377,
+    "text": "For, since A, E, B are three numbers in proportion, therefore A has to B the ratio duplicate of that which A has to E. [ V. Def. 9]"
+  },
+  {
+    "id": "p-2719d4",
+    "offset": 20510,
+    "text": "But, as A is to E, so is C to D."
+  },
+  {
+    "id": "p-118e38",
+    "offset": 20544,
+    "text": "Therefore A has to B the ratio duplicate of that which the side C has to D. Q. E. D."
+  },
+  {
+    "id": "p-3605fa",
+    "offset": 20630,
+    "text": "Between two cube numbers there are two mean proportional numbers, and the cube has to the cube the ratio triplicate of that which the side has to the side."
+  },
+  {
+    "id": "p-c6547c",
+    "offset": 20787,
+    "text": "Let A, B be cube numbers, and let C be the side of A, and D of B; I say that between A, B there are two mean proportional numbers, and A has to B the ratio triplicate of that which C has to D."
+  },
+  {
+    "id": "p-f632d9",
+    "offset": 20981,
+    "text": "For let C by multiplying itself make E, and by multiplying D let it make F; let D by multiplying itself make G, and let the numbers C, D by multiplying F make H, K respectively."
+  },
+  {
+    "id": "p-bd76e4",
+    "offset": 21160,
+    "text": "Now, since A is a cube, and C its side, and C by multiplying itself has made E, therefore C by multiplying itself has made E and by multiplying E has made A."
+  },
+  {
+    "id": "p-7353a6",
+    "offset": 21319,
+    "text": "For the same reason also D by multiplying itself has made G and by multiplying G has made B."
+  },
+  {
+    "id": "p-ee4b8c",
+    "offset": 21413,
+    "text": "And, since C by multiplying the numbers C, D has made E, F respectively, therefore, as C is to D, so is E to F. [ VII. 17]"
+  },
+  {
+    "id": "p-1e0438",
+    "offset": 21537,
+    "text": "For the same reason also, as C is to D, so is F to G. [ VII. 18]"
+  },
+  {
+    "id": "p-8f9d29",
+    "offset": 21603,
+    "text": "Again, since C by multiplying the numbers E, F has made A, H respectively, therefore, as E is to F, so is A to H. [ VII. 17]"
+  },
+  {
+    "id": "p-cd6ad4",
+    "offset": 21729,
+    "text": "But, as E is to F, so is C to D."
+  },
+  {
+    "id": "p-ad0551",
+    "offset": 21763,
+    "text": "Therefore also, as C is to D, so is A to H."
+  },
+  {
+    "id": "p-4de3c7",
+    "offset": 21808,
+    "text": "Again, since the numbers C, D by multiplying F have made H, K respectively, therefore, as C is to D, so is H to K. [ VII. 18]"
+  },
+  {
+    "id": "p-27d1b7",
+    "offset": 21935,
+    "text": "Again, since D by multiplying each of the numbers F, G has made K, B respectively, therefore, as F is to G, so is K to B. [ VII. 17]"
+  },
+  {
+    "id": "p-6de829",
+    "offset": 22069,
+    "text": "But, as F is to G, so is C to D; therefore also, as C is to D, so is A to H, H to K, and K to B."
+  },
+  {
+    "id": "p-28f14c",
+    "offset": 22167,
+    "text": "Therefore H, K are two mean proportionals between A, B."
+  },
+  {
+    "id": "p-a6cbbf",
+    "offset": 22224,
+    "text": "I say next that A also has to B the ratio triplicate of that which C has to D."
+  },
+  {
+    "id": "p-4d9b7b",
+    "offset": 22304,
+    "text": "For, since A, H, K, B are four numbers in proportion, therefore A has to B the ratio triplicate of that which A has to H. [ V. Def. 10]"
+  },
+  {
+    "id": "p-6e5950",
+    "offset": 22441,
+    "text": "But, as A is to H, so is C to D; therefore A also has to B the ratio triplicate of that which C has to D. Q. E. D."
+  },
+  {
+    "id": "p-f17d30",
+    "offset": 22557,
+    "text": "If there be as many numbers as we please in continued proportion, and each by multiplying itself make some number, the products will be proportional; and, if the original numbers by multiplying the products make certain numbers, the latter will also be proportional."
+  },
+  {
+    "id": "p-d08a51",
+    "offset": 22825,
+    "text": "Let there be as many numbers as we please, A, B, C, in continued proportion, so that, as A is to B, so is B to C; let A, B, C by multiplying themselves make D, E, F, and by multiplying D, E, F let them make G, H, K; I say that D, E, F and G, H, K are in continued proportion."
+  },
+  {
+    "id": "p-cfebcc",
+    "offset": 23102,
+    "text": "For let A by multiplying B make L, and let the numbers A, B by multiplying L make M. N respectively."
+  },
+  {
+    "id": "p-35555c",
+    "offset": 23204,
+    "text": "And again let B by multiplying C make O, and let the numbers B, C by multiplying O make P, Q respectively."
+  },
+  {
+    "id": "p-dae772",
+    "offset": 23312,
+    "text": "Then, in manner similar to the foregoing, we can prove that D, L, E and G, M, N, H are continuously proportional in the ratio of A to B, and further E, O, F and H, P, Q, K are continuously proportional in the ratio of B to C."
+  },
+  {
+    "id": "p-f3aaa2",
+    "offset": 23539,
+    "text": "Now, as A is to B, so is B to C; therefore D, L, E are also in the same ratio with E, O, F, and further G, M, N, H in the same ratio with H, P, Q, K."
+  },
+  {
+    "id": "p-72f2b3",
+    "offset": 23690,
+    "text": "And the multitude of D, L, E is equal to the multitude of E, O, F, and that of G, M, N, H to that of H, P, Q, K; therefore, ex acquali, as D is to E, so is E to F, and, as G is to H, so is H to K. [ VII. 14] Q. E. D."
+  },
+  {
+    "id": "p-8c4794",
+    "offset": 23908,
+    "text": "If a square measure a square, the side will also measure the side; and, if the side measure the side, the square will also measure the square."
+  },
+  {
+    "id": "p-f3715a",
+    "offset": 24052,
+    "text": "Let A, B be square numbers, let C, D be their sides, and let A measure B; I say that C also measures D."
+  },
+  {
+    "id": "p-ac3357",
+    "offset": 24157,
+    "text": "For let C by multiplying D make E; therefore A, E, B are continuously proportional in the ratio of C to D. [ VIII. 11]"
+  },
+  {
+    "id": "p-cdb42c",
+    "offset": 24277,
+    "text": "And, since A, E, B are continuously proportional, and A measures B, therefore A also measures E. [ VIII. 7]"
+  },
+  {
+    "id": "p-b45428",
+    "offset": 24386,
+    "text": "And, as A is to E, so is C to D; therefore also C measures D. [ VII. Def. 20]"
+  },
+  {
+    "id": "p-c0583a",
+    "offset": 24465,
+    "text": "Again, let C measure D; I say that A also measures B."
+  },
+  {
+    "id": "p-46e0d0",
+    "offset": 24520,
+    "text": "For, with the same construction, we can in a similar manner prove that A, E, B are continuously proportional in the ratio of C to D."
+  },
+  {
+    "id": "p-d054f8",
+    "offset": 24654,
+    "text": "And since, as C is to D, so is A to E, and C measures D, therefore A also measures E. [ VII. Def. 20]"
+  },
+  {
+    "id": "p-ec4cce",
+    "offset": 24757,
+    "text": "And A, E, B are continuously proportional; therefore A also measures B."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 24830,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-6a2c39",
+    "offset": 24855,
+    "text": "If a cube number measure a cube number, the side will also measure the side; and, if the side measure the side, the cube will also measure the cube."
+  },
+  {
+    "id": "p-3f6993",
+    "offset": 25005,
+    "text": "For let the cube number A measure the cube B, and let C be the side of A and D of B; I say that C measures D."
+  },
+  {
+    "id": "p-6c7fd5",
+    "offset": 25116,
+    "text": "For let C by multiplying itself make E, and let D by multiplying itself make G; further, let C by multiplying D make F, and let C, D by multiplying F make H, K respectively."
+  },
+  {
+    "id": "p-9914af",
+    "offset": 25291,
+    "text": "Now it is manifest that E, F, G and A, H, K, B are continuously proportional in the ratio of C to D. [ VIII. 11, 12]"
+  },
+  {
+    "id": "p-8ba862",
+    "offset": 25409,
+    "text": "And, since A, H, K, B are continuously proportional, and A measures B, therefore it also measures H. [ VIII. 7]"
+  },
+  {
+    "id": "p-7d3ac8",
+    "offset": 25522,
+    "text": "And, as A is to H, so is C to D; therefore C also measures D. [ VII. Def. 20]"
+  },
+  {
+    "id": "p-5a6337",
+    "offset": 25601,
+    "text": "Next, let C measure D; I say that A will also measure B."
+  },
+  {
+    "id": "p-cd0f7e",
+    "offset": 25659,
+    "text": "For, with the same construction, we can prove in a similar manner that A, H, K, B are continuously proportional in the ratio of C to D."
+  },
+  {
+    "id": "p-04d066",
+    "offset": 25796,
+    "text": "And, since C measures D, and, as C is to D, so is A to H, therefore A also measures H, [ VII. Def. 20] so that A measures B also. Q. E. D."
+  },
+  {
+    "id": "p-b8476f",
+    "offset": 25936,
+    "text": "If a square number do not measure a square number, neither will the side measure the side; and, if the side do not measure the side, neither will the square measure the square."
+  },
+  {
+    "id": "p-0a80c9",
+    "offset": 26114,
+    "text": "Let A, B be square numbers, and let C, D be their sides; and let A not measure B; I say that neither does C measure D."
+  },
+  {
+    "id": "p-98f064",
+    "offset": 26234,
+    "text": "For, if C measures D, A will also measure B. [ VIII. 14]"
+  },
+  {
+    "id": "p-6d5cef",
+    "offset": 26292,
+    "text": "But A does not measure B; therefore neither will C measure D."
+  },
+  {
+    "id": "p-0a3275",
+    "offset": 26355,
+    "text": "Again, let C not measure D; I say that neither will A measure B."
+  },
+  {
+    "id": "p-d104f8",
+    "offset": 26421,
+    "text": "For, if A measures B, C will also measure D. [ VIII. 14]"
+  },
+  {
+    "id": "p-c4c6e1",
+    "offset": 26479,
+    "text": "But C does not measure D; therefore neither will A measure B. Q. E. D."
+  },
+  {
+    "id": "p-f50d69",
+    "offset": 26551,
+    "text": "If a cube number do not measure a cube number, neither will the side measure the side; and, if the side do not measure the side, neither will the cube measure the cube."
+  },
+  {
+    "id": "p-7fa5d8",
+    "offset": 26721,
+    "text": "For let the cube number A not measure the cube number B, and let C be the side of A, and D of B; I say that C will not measure D."
+  },
+  {
+    "id": "p-19d9fb",
+    "offset": 26852,
+    "text": "For if C measures D, A will also measure B. [ VIII. 15]"
+  },
+  {
+    "id": "p-5026e0",
+    "offset": 26909,
+    "text": "But A does not measure B; therefore neither does C measure D."
+  },
+  {
+    "id": "p-0a3275",
+    "offset": 26972,
+    "text": "Again, let C not measure D; I say that neither will A measure B."
+  },
+  {
+    "id": "p-0d0795",
+    "offset": 27038,
+    "text": "For, if A measures B, C will also measure D. [ VIII. 15]"
+  },
+  {
+    "id": "p-c4c6e1",
+    "offset": 27096,
+    "text": "But C does not measure D; therefore neither will A measure B. Q. E. D."
+  },
+  {
+    "id": "p-5b30bc",
+    "offset": 27168,
+    "text": "Between two similar plane numbers there is one mean proportional number; and the plane number has to the plane number the ratio duplicate of that which the corresponding side has to the corresponding side."
+  },
+  {
+    "id": "p-aaafe2",
+    "offset": 27375,
+    "text": "Let A, B be two similar plane numbers, and let the numbers C, D be the sides of A, and E, F of B."
+  },
+  {
+    "id": "p-1a43b1",
+    "offset": 27474,
+    "text": "Now, since similar plane numbers are those which have their sides proportional, [ VII. Def. 21] therefore, as C is to D, so is E to F."
+  },
+  {
+    "id": "p-2d0afc",
+    "offset": 27610,
+    "text": "I say then that between A, B there is one mean proportional number, and A has to B the ratio duplicate of that which C has to E, or D to F, that is, of that which the corresponding side has to the corresponding side."
+  },
+  {
+    "id": "p-1db75d",
+    "offset": 27828,
+    "text": "Now since, as C is to D, so is E to F, therefore, alternately, as C is to E, so is D to F. [ VII. 13]"
+  },
+  {
+    "id": "p-66b165",
+    "offset": 27931,
+    "text": "And, since A is plane, and C, D are its sides, therefore D by multiplying C has made A."
+  },
+  {
+    "id": "p-e570bc",
+    "offset": 28020,
+    "text": "For the same reason also E by multiplying F has made B."
+  },
+  {
+    "id": "p-e75f7e",
+    "offset": 28077,
+    "text": "Now let D by multiplying E make G."
+  },
+  {
+    "id": "p-7c3ff6",
+    "offset": 28113,
+    "text": "Then, since D by multiplying C has made A, and by multiplying E has made G, therefore, as C is to E, so is A to G. [ VII. 17]"
+  },
+  {
+    "id": "p-3f7636",
+    "offset": 28240,
+    "text": "But, as C is to E, so is D to F; therefore also, as D is to F, so is A to G."
+  },
+  {
+    "id": "p-5b2e6a",
+    "offset": 28318,
+    "text": "Again, since E by multiplying D has made G, and by multiplying F has made B, therefore, as D is to F, so is G to B. [ VII. 17]"
+  },
+  {
+    "id": "p-bd9014",
+    "offset": 28446,
+    "text": "But it was also proved that, as D is to F, so is A to G; therefore also, as A is to G, so is G to B."
+  },
+  {
+    "id": "p-570a42",
+    "offset": 28548,
+    "text": "Therefore A, G, B are in continued proportion."
+  },
+  {
+    "id": "p-4a0282",
+    "offset": 28596,
+    "text": "Therefore between A, B there is one mean proportional number."
+  },
+  {
+    "id": "p-2b3ce2",
+    "offset": 28659,
+    "text": "I say next that A also has to B the ratio duplicate of that which the corresponding side has to the corresponding side, that is, of that which C has to E or D to F."
+  },
+  {
+    "id": "p-4123c7",
+    "offset": 28825,
+    "text": "For, since A, G, B are in continued proportion, A has to B the ratio duplicate of that which it has to G. [ V. Def. 9]"
+  },
+  {
+    "id": "p-794bfe",
+    "offset": 28945,
+    "text": "And, as A is to G, so is C to E, and so is D to F."
+  },
+  {
+    "id": "p-10dc9a",
+    "offset": 28997,
+    "text": "Therefore A also has to B the ratio duplicate of that which C has to E or D to F. Q. E. D."
+  },
+  {
+    "id": "p-121614",
+    "offset": 29089,
+    "text": "Between two similar solid numbers there fall two mean proportional numbers; and the solid number has to the similar solid number the ratio triplicate of that which the corresponding side has to the corresponding side."
+  },
+  {
+    "id": "p-742c7d",
+    "offset": 29308,
+    "text": "Let A, B be two similar solid numbers, and let C, D, E be the sides of A, and F, G, H of B."
+  },
+  {
+    "id": "p-a2769e",
+    "offset": 29401,
+    "text": "Now, since similar solid numbers are those which have their sides proportional, [ VII. Def. 21] therefore, as C is to D, so is F to G, and, as D is to E, so is G to H."
+  },
+  {
+    "id": "p-f93276",
+    "offset": 29570,
+    "text": "I say that between A, B there fall two mean proportional numbers, and A has to B the ratio triplicate of that which C has to F, D to G, and also E to H."
+  },
+  {
+    "id": "p-8819a7",
+    "offset": 29724,
+    "text": "For let C by multiplying D make K, and let F by multiplying G make L."
+  },
+  {
+    "id": "p-104af5",
+    "offset": 29795,
+    "text": "Now, since C, D are in the same ratio with F, G, and K is the product of C, D, and L the product of F, G, K, L are similar plane numbers; [ VII. Def. 21] therefore between K, L there is one mean proportional number. [ VIII. 18]"
+  },
+  {
+    "id": "p-9ff0bc",
+    "offset": 30024,
+    "text": "Let it be M"
+  },
+  {
+    "id": "p-f58454",
+    "offset": 30037,
+    "text": "Therefore M is the product of D, F, as was proved in the theorem preceding this. [ VIII. 18]"
+  },
+  {
+    "id": "p-7ec2d1",
+    "offset": 30131,
+    "text": "Now, since D by multiplying C has made K, and by multiplying F has made M, therefore, as C is to F, so is K to M. [ VII. 17]"
+  },
+  {
+    "id": "p-ce9587",
+    "offset": 30257,
+    "text": "But, as K is to M, so is M to L."
+  },
+  {
+    "id": "p-291f30",
+    "offset": 30291,
+    "text": "Therefore K, M, L are continuously proportional in the ratio of C to F."
+  },
+  {
+    "id": "p-c3efdf",
+    "offset": 30364,
+    "text": "And since, as C is to D, so is F to G, alternately therefore, as C is to F, so is D to G. [ VII. 13]"
+  },
+  {
+    "id": "p-74b6a4",
+    "offset": 30466,
+    "text": "For the same reason also, as D is to G, so is E to H."
+  },
+  {
+    "id": "p-3c57d5",
+    "offset": 30521,
+    "text": "Therefore K, M, L are continuously proportional in the ratio of C to F, in the ratio of D to G, and also in the ratio of E to H."
+  },
+  {
+    "id": "p-51d3ca",
+    "offset": 30651,
+    "text": "Next, let E, H by multiplying M make N, O respectively."
+  },
+  {
+    "id": "p-d6b412",
+    "offset": 30708,
+    "text": "Now, since A is a solid number, and C, D, E are its sides, therefore E by multiplying the product of C, D has made A."
+  },
+  {
+    "id": "p-19489c",
+    "offset": 30827,
+    "text": "But the product of C, D is K; therefore E by multiplying K has made A."
+  },
+  {
+    "id": "p-df2d2f",
+    "offset": 30899,
+    "text": "For the same reason also H by multiplying L has made B."
+  },
+  {
+    "id": "p-0e2500",
+    "offset": 30956,
+    "text": "Now, since E by multiplying K has made A, and further also by multiplying M has made N, therefore, as K is to M, so is A to N. [ VII. 17]"
+  },
+  {
+    "id": "p-efed8d",
+    "offset": 31095,
+    "text": "But, as K is to M, so is C to F, D to G, and also E to H; therefore also, as C is to F, D to G, and E to H, so is A to N."
+  },
+  {
+    "id": "p-60c9e3",
+    "offset": 31218,
+    "text": "Again, since E, H by multiplying M have made N, O respectively, therefore, as E is to H, so is N to O. [ VII. 18]"
+  },
+  {
+    "id": "p-09e0a3",
+    "offset": 31333,
+    "text": "But, as E is to H, so is C to F and D to G; therefore also, as C is to F, D to G, and E to H, so is A to N and N to O."
+  },
+  {
+    "id": "p-642a88",
+    "offset": 31453,
+    "text": "Again, since H by multiplying M has made O, and further also by multiplying L has made B, therefore, as M is to L, so is O to B. [ VII. 17]"
+  },
+  {
+    "id": "p-edd4fc",
+    "offset": 31594,
+    "text": "But, as M is to L, so is C to F, D to G, and E to H."
+  },
+  {
+    "id": "p-94a068",
+    "offset": 31648,
+    "text": "Therefore also, as C is to F, D to G, and E to H, so not only is O to B, but also A to N and N to O."
+  },
+  {
+    "id": "p-c7d2e2",
+    "offset": 31750,
+    "text": "Therefore A, N, O, B are continuously proportional in the aforesaid ratios of the sides."
+  },
+  {
+    "id": "p-d47003",
+    "offset": 31840,
+    "text": "I say that A also has to B the ratio triplicate of that which the corresponding side has to the corresponding side, that is, of the ratio which the number C has to F, or D to G, and also E to H."
+  },
+  {
+    "id": "p-4fe6cd",
+    "offset": 32036,
+    "text": "For, since A, N, O, B are four numbers in continued proportion, therefore A has to B the ratio triplicate of that which A has to N. [ V. Def. 10]"
+  },
+  {
+    "id": "p-f4b133",
+    "offset": 32183,
+    "text": "But, as A is to N, so it was proved that C is to F, D to G, and also E to H."
+  },
+  {
+    "id": "p-f7562e",
+    "offset": 32261,
+    "text": "Therefore A also has to B the ratio triplicate of that which the corresponding side has to the corresponding side, that is, of the ratio which the number C has to F, D to G, and also E to H. Q. E. D."
+  },
+  {
+    "id": "p-0b22fc",
+    "offset": 32462,
+    "text": "If one mean proportional number fall between two numbers, the numbers will be similar plane numbers."
+  },
+  {
+    "id": "p-aff05e",
+    "offset": 32564,
+    "text": "For let one mean proportional number C fall between the two numbers A, B; I say that A, B are similar plane numbers."
+  },
+  {
+    "id": "p-a0be19",
+    "offset": 32682,
+    "text": "Let D, E, the least numbers of those which have the same ratio with A, C, be taken; [ VII. 33] therefore D measures A the same number of times that E measures C. [ VII. 20]"
+  },
+  {
+    "id": "p-8a8d48",
+    "offset": 32856,
+    "text": "Now, as many times as D measures A, so many units let there be in F; therefore F by multiplying D has made A, so that A is plane, and D, F are its sides."
+  },
+  {
+    "id": "p-1ddf76",
+    "offset": 33011,
+    "text": "Again, since D, E are the least of the numbers which have the same ratio with C, B, therefore D measures C the same number of times that E measures B. [ VII. 20]"
+  },
+  {
+    "id": "p-7a4a13",
+    "offset": 33174,
+    "text": "As many times, then, as E measures B, so many units let there be in G; therefore E measures B according to the units in G; therefore G by multiplying E has made B."
+  },
+  {
+    "id": "p-fdc7e6",
+    "offset": 33339,
+    "text": "Therefore B is plane, and E, G are its sides."
+  },
+  {
+    "id": "p-50e6b8",
+    "offset": 33386,
+    "text": "Therefore A, B are plane numbers."
+  },
+  {
+    "id": "p-38995a",
+    "offset": 33421,
+    "text": "I say next that they are also similar."
+  },
+  {
+    "id": "p-22aadb",
+    "offset": 33461,
+    "text": "For, † since F by multiplying D has made A, and by multiplying E has made C, therefore, as D is to E, so is A to C, that is, C to B. [ VII. 17]"
+  },
+  {
+    "id": "p-ea88a6",
+    "offset": 33606,
+    "text": "Again, † since E by multiplying F, G has made C, B respectively, therefore, as F is to G, so is C to B. [ VII. 17]"
+  },
+  {
+    "id": "p-7afd6f",
+    "offset": 33722,
+    "text": "But, as C is to B, so is D to E; therefore also, as D is to E, so is F to G."
+  },
+  {
+    "id": "p-ae557f",
+    "offset": 33800,
+    "text": "And alternately, as D is to F, so is E to G. [ VII. 13]"
+  },
+  {
+    "id": "p-1d493a",
+    "offset": 33857,
+    "text": "Therefore A, B are similar plane numbers; for their sides are proportional. Q. E. D."
+  },
+  {
+    "id": "p-83ecec",
+    "offset": 33943,
+    "text": "If two mean proportional numbers fall between two numbers, the numbers are similar solid numbers."
+  },
+  {
+    "id": "p-024446",
+    "offset": 34042,
+    "text": "For let two mean proportional numbers C, D fall between the two numbers A, B; I say that A, B are similar solid numbers."
+  },
+  {
+    "id": "p-6d3fa5",
+    "offset": 34164,
+    "text": "For let three numbers E, F, G, the least of those which have the same ratio with A, C, D, be taken; [ VII. 33 or VIII. 2] therefore the extremes of them E, G are prime to one another. [ VIII. 3]"
+  },
+  {
+    "id": "p-4addb1",
+    "offset": 34360,
+    "text": "Now, since one mean proportional number F has fallen between E, G, therefore E, G are similar plane numbers. [ VIII. 20]"
+  },
+  {
+    "id": "p-822247",
+    "offset": 34482,
+    "text": "Let, then, H, K be the sides of E, and L, M of G."
+  },
+  {
+    "id": "p-878918",
+    "offset": 34533,
+    "text": "Therefore it is manifest from the theorem before this that E, F, G are continuously proportional in the ratio of H to L and that of K to M."
+  },
+  {
+    "id": "p-330f0e",
+    "offset": 34674,
+    "text": "Now, since E, F, G are the least of the numbers which have the same ratio with A, C, D, and the multitude of the numbers E, F, G is equal to the multitude of the numbers A, C, D, therefore, ex aequali, as E is to G, so is A to D. [ VII. 14]"
+  },
+  {
+    "id": "p-a00411",
+    "offset": 34916,
+    "text": "But E, G are prime, primes are also least, [ VII. 21] and the least measure those which have the same ratio with them the same number of times, the greater the greater and the less the less, that is, the antecedent the antecedent and the consequent the consequent; [ VII. 20] therefore E measures A the same number of times that G measures D."
+  },
+  {
+    "id": "p-024e4e",
+    "offset": 35260,
+    "text": "Now, as many times as E measures A, so many units let there be in N."
+  },
+  {
+    "id": "p-59f061",
+    "offset": 35330,
+    "text": "Therefore N by multiplying E has made A."
+  },
+  {
+    "id": "p-218bf0",
+    "offset": 35372,
+    "text": "But E is the product of H, K; therefore N by multiplying the product of H, K has made A."
+  },
+  {
+    "id": "p-0dce12",
+    "offset": 35462,
+    "text": "Therefore A is solid, and H, K, N are its sides."
+  },
+  {
+    "id": "p-de3011",
+    "offset": 35512,
+    "text": "Again, since E, F, G are the least of the numbers which have the same ratio as C, D, B, therefore E measures C the same number of times that G measures B."
+  },
+  {
+    "id": "p-75bd7c",
+    "offset": 35668,
+    "text": "Now, as many times as E measures C, so many units let there be in O."
+  },
+  {
+    "id": "p-3316ad",
+    "offset": 35738,
+    "text": "Therefore G measures B according to the units in O; therefore O by multiplying G has made B."
+  },
+  {
+    "id": "p-681834",
+    "offset": 35832,
+    "text": "But G is the product of L, M; therefore O by multiplying the product of L, M has made B."
+  },
+  {
+    "id": "p-6528b9",
+    "offset": 35922,
+    "text": "Therefore B is solid, and L, M, O are its sides; therefore A, B are solid."
+  },
+  {
+    "id": "p-51d866",
+    "offset": 35998,
+    "text": "I say that they are also similar."
+  },
+  {
+    "id": "p-ae576a",
+    "offset": 36033,
+    "text": "For since N, O by multiplying E have made A, C, therefore, as N is to O, so is A to C, that is, E to F. [ VII. 18]"
+  },
+  {
+    "id": "p-621f16",
+    "offset": 36149,
+    "text": "But, as E is to F, so is H to L and K to M; therefore also, as H is to L, so is K to M and N to O."
+  },
+  {
+    "id": "p-5a988e",
+    "offset": 36249,
+    "text": "And H, K, N are the sides of A, and O, L, M the sides of B."
+  },
+  {
+    "id": "p-7ad84f",
+    "offset": 36310,
+    "text": "Therefore A, B are similar solid numbers. Q. E. D."
+  },
+  {
+    "id": "p-ad5130",
+    "offset": 36362,
+    "text": "If three numbers be in continued proportion, and the first be square, the third will also be square."
+  },
+  {
+    "id": "p-525ca2",
+    "offset": 36464,
+    "text": "Let A, B, C be three numbers in continued proportion, and let A the first be square; I say that C the third is also square."
+  },
+  {
+    "id": "p-546087",
+    "offset": 36589,
+    "text": "For, since between A, C there is one mean proportional number, B, therefore A, C are similar plane numbers. [ VIII. 20]"
+  },
+  {
+    "id": "p-f20ebe",
+    "offset": 36710,
+    "text": "But A is square; therefore C is also square. Q. E. D."
+  },
+  {
+    "id": "p-334001",
+    "offset": 36765,
+    "text": "If four numbers be in continued proportion, and the first be cube, the fourth will also be cube."
+  },
+  {
+    "id": "p-7e6574",
+    "offset": 36863,
+    "text": "Let A, B, C, D be four numbers in continued proportion, and let A be cube; I say that D is also cube."
+  },
+  {
+    "id": "p-bd3987",
+    "offset": 36966,
+    "text": "For, since between A, D there are two mean proportional numbers B, C, therefore A, D are similar solid numbers. [ VIII. 21]"
+  },
+  {
+    "id": "p-8411b3",
+    "offset": 37091,
+    "text": "But A is cube; therefore D is also cube. Q. E. D."
+  },
+  {
+    "id": "p-4fc9d3",
+    "offset": 37142,
+    "text": "If two numbers have to one another the ratio which a square number has to a square number, and the first be square, the second will also be square."
+  },
+  {
+    "id": "p-0c8959",
+    "offset": 37291,
+    "text": "For let the two numbers A, B have to one another the ratio which the square number C has to the square number D, and let A be square; I say that B is also square."
+  },
+  {
+    "id": "p-5a0fa4",
+    "offset": 37455,
+    "text": "For, since C, D are square, C, D are similar plane numbers."
+  },
+  {
+    "id": "p-872e76",
+    "offset": 37516,
+    "text": "Therefore one mean proportional number falls between C, D. [ VIII. 18]"
+  },
+  {
+    "id": "p-73b9fb",
+    "offset": 37588,
+    "text": "And, as C is to D, so is A to B; therefore one mean proportional number falls between A, B also. [ VIII. 8]"
+  },
+  {
+    "id": "p-eb9a1b",
+    "offset": 37697,
+    "text": "And A is square; therefore B is also square. [ VIII. 22] Q. E. D."
+  },
+  {
+    "id": "p-bdfeb3",
+    "offset": 37764,
+    "text": "If two numbers have to one another the ratio which a cube number has to a cube number, and the first be cube, the second will also be cube."
+  },
+  {
+    "id": "p-405783",
+    "offset": 37905,
+    "text": "For let the two numbers A, B have to one another the ratio which the cube number C has to the cube number D, and let A be cube; I say that B is also cube."
+  },
+  {
+    "id": "p-8b62c6",
+    "offset": 38061,
+    "text": "For, since C, D are cube, C, D are similar solid numbers."
+  },
+  {
+    "id": "p-9abc00",
+    "offset": 38120,
+    "text": "Therefore two mean proportional numbers fall between C, D. [ VIII. 19]"
+  },
+  {
+    "id": "p-04c16e",
+    "offset": 38192,
+    "text": "And, as many numbers as fall between C, D in continued proportion, so many will also fall between those which have the same ratio with them; [ VIII. 8] so that two mean proportional numbers fall between A, B also."
+  },
+  {
+    "id": "p-94733a",
+    "offset": 38407,
+    "text": "Let E, F so fall."
+  },
+  {
+    "id": "p-de2f89",
+    "offset": 38426,
+    "text": "Since, then, the four numbers A, E, F, B are in continued proportion, and A is cube, therefore B is also cube. [ VIII. 23] Q. E. D."
+  },
+  {
+    "id": "p-20f6cc",
+    "offset": 38559,
+    "text": "Similar plane numbers have to one another the ratio which a square number has to a square number."
+  },
+  {
+    "id": "p-f34bd6",
+    "offset": 38658,
+    "text": "Let A, B be similar plane numbers; I say that A has to B the ratio which a square number has to a square number."
+  },
+  {
+    "id": "p-a2b5fb",
+    "offset": 38772,
+    "text": "For, since A, B are similar plane numbers, therefore one mean proportional number falls between A, B. [ VIII. 18]"
+  },
+  {
+    "id": "p-4dc329",
+    "offset": 38887,
+    "text": "Let it so fall, and let it be C; and let D, E, F, the least numbers of those which have the same ratio with A, C, B, be taken; [ VII. 33 or VIII. 2] therefore the extremes of them D, F are square. [ VIII. 2, Por.]"
+  },
+  {
+    "id": "p-d2f36b",
+    "offset": 39102,
+    "text": "And since, as D is to F, so is A to B, and D, F are square, therefore A has to B the ratio which a square number has to a square number. Q. E. D."
+  },
+  {
+    "id": "p-bab8bb",
+    "offset": 39249,
+    "text": "Similar solid numbers have to one another the ratio which a cube number has to a cube number."
+  },
+  {
+    "id": "p-254750",
+    "offset": 39344,
+    "text": "Let A, B be similar solid numbers; I say that A has to B the ratio which a cube number has to a cube number."
+  },
+  {
+    "id": "p-128022",
+    "offset": 39454,
+    "text": "For, since A, B are similar solid numbers, therefore two mean proportional numbers fall between A, B. [ VIII. 19]"
+  },
+  {
+    "id": "p-8da0ab",
+    "offset": 39569,
+    "text": "Let C, D so fall, and let E, F, G, H, the least numbers of those which have the same ratio with A, C, D, B, and equal with them in multitude, be taken; [ VII. 33 or VIII. 2] therefore the extremes of them E, H are cube. [ VIII. 2, Por.]"
+  },
+  {
+    "id": "p-2db526",
+    "offset": 39807,
+    "text": "And, as E is to H, so is A to B; therefore A also has to B the ratio which a cube number has to a cube number. Q. E. D."
+  }
+]

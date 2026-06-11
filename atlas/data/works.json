@@ -2,35 +2,84 @@
   {
     "id": "de-anima",
     "title": "On the Soul",
-    "original": { "text": "Περὶ Ψυχῆς", "translit": "Peri Psychēs", "lang": "greek" },
+    "original": {
+      "text": "Περὶ Ψυχῆς",
+      "translit": "Peri Psychēs",
+      "lang": "greek"
+    },
     "author": "aristotle",
-    "composed": { "from": -350, "ca": true, "place": "athens" },
+    "composed": {
+      "from": -350,
+      "ca": true,
+      "place": "athens"
+    },
     "field": "philosophy",
     "summary": "Aristotle's treatise on what it is to be alive: nutrition, perception, imagination, intellect. Its third book, on the intellect, became the most fought-over text in medieval philosophy, in Arabic and then in Latin.",
     "detail": "The chain doubles back on itself. Ishaq ibn Hunayn's 9th-century Arabic translation is lost, and Averroes' Long Commentary survives complete only in Michael Scot's Latin. So modern scholars reconstruct Baghdad's Arabic De Anima out of the Latin lemmata of this very translation, with help from a Hebrew version of 1284. A marginal note in the tradition even records the seam where Ishaq's first, unfinished version stopped.",
-    "sources": [{ "source": "treiger-2017" }, { "source": "taylor-2009" }]
+    "sources": [
+      {
+        "source": "treiger-2017"
+      },
+      {
+        "source": "taylor-2009"
+      }
+    ]
   },
   {
     "id": "elements",
     "title": "Elements",
-    "original": { "text": "Στοιχεῖα", "translit": "Stoicheia", "lang": "greek" },
+    "original": {
+      "text": "Στοιχεῖα",
+      "translit": "Stoicheia",
+      "lang": "greek"
+    },
     "author": "euclid",
-    "composed": { "from": -300, "ca": true, "place": "alexandria" },
+    "composed": {
+      "from": -300,
+      "ca": true,
+      "place": "alexandria"
+    },
     "field": "mathematics",
     "summary": "The axiomatic compilation of Greek geometry and number theory, and the most reprinted scientific text ever written. For most of its history, readers west of Byzantium met it through Arabic.",
     "detail": "Europe read Euclid through Arabic for roughly four centuries. The first printed Elements, set in Venice in 1482 with diagrams nobody else had managed to print, descends through Campanus from the Adelard line, which rests on al-Hajjaj's Baghdad Arabic. A printed Greek text appeared only in 1533, in Basel.",
-    "sources": [{ "source": "murdoch-1971" }, { "source": "busard-folkerts-1992" }]
+    "sources": [
+      {
+        "source": "murdoch-1971"
+      },
+      {
+        "source": "busard-folkerts-1992"
+      }
+    ],
+    "read_slug": "euclid-elements-d711e4"
   },
   {
     "id": "almagest",
     "title": "Almagest",
-    "original": { "text": "Μαθηματικὴ Σύνταξις", "translit": "Mathēmatikē Syntaxis", "lang": "greek" },
+    "original": {
+      "text": "Μαθηματικὴ Σύνταξις",
+      "translit": "Mathēmatikē Syntaxis",
+      "lang": "greek"
+    },
     "author": "ptolemy",
-    "composed": { "from": 150, "ca": true, "place": "alexandria" },
+    "composed": {
+      "from": 150,
+      "ca": true,
+      "place": "alexandria"
+    },
     "field": "astronomy",
     "summary": "Ptolemy's mathematical model of the heavens, completed in Alexandria around 150 CE. Even its common name records the crossing: Almagest is Latin for al-Majisti, the Arabic rendering of a Greek superlative, 'the greatest'.",
     "detail": "One book pulled the most prolific translator of the Middle Ages across Europe. Gerard of Cremona's students wrote that he went to Toledo 'for love of the Almagest, which he could not find at all among the Latins', learned Arabic there, and stayed for life. Daniel of Morley, who heard him dispute in public at Toledo, identifies him in passing as the man who Latinized the Almagest 'with Galib the Mozarab interpreting'.",
-    "sources": [{ "source": "pal-project" }, { "source": "kunitzsch-1974" }, { "source": "lemay-1978" }]
+    "sources": [
+      {
+        "source": "pal-project"
+      },
+      {
+        "source": "kunitzsch-1974"
+      },
+      {
+        "source": "lemay-1978"
+      }
+    ]
   },
   {
     "id": "on-simple-drugs",
@@ -41,78 +90,187 @@
       "lang": "greek"
     },
     "author": "galen",
-    "composed": { "from": 170, "to": 200, "ca": true, "place": "rome" },
+    "composed": {
+      "from": 170,
+      "to": 200,
+      "ca": true,
+      "place": "rome"
+    },
     "field": "pharmacology",
     "summary": "Galen's eleven-book theory of what individual drugs do and why. It stands here for the whole Galenic corpus, whose passage through Syriac into Arabic was the largest single undertaking of the translation movement.",
     "detail": "Sergius of Reshaina's 6th-century Syriac version, which Hunayn graded and revised three centuries later, was eventually scraped down and overwritten with hymns. The undertext came back only in the 2010s, when multispectral imaging recovered the Syriac Galen Palimpsest, letter by letter, from under the liturgy.",
-    "sources": [{ "source": "hunayn-risala" }, { "source": "bhayro-2017" }, { "source": "lamoreaux-2016" }]
+    "sources": [
+      {
+        "source": "hunayn-risala"
+      },
+      {
+        "source": "bhayro-2017"
+      },
+      {
+        "source": "lamoreaux-2016"
+      }
+    ]
   },
   {
     "id": "materia-medica",
     "title": "De Materia Medica",
-    "original": { "text": "Περὶ ὕλης ἰατρικῆς", "translit": "Peri hylēs iatrikēs", "lang": "greek" },
+    "original": {
+      "text": "Περὶ ὕλης ἰατρικῆς",
+      "translit": "Peri hylēs iatrikēs",
+      "lang": "greek"
+    },
     "author": "dioscorides",
-    "composed": { "from": 50, "to": 70, "ca": true },
+    "composed": {
+      "from": 50,
+      "to": 70,
+      "ca": true
+    },
     "field": "pharmacology",
     "summary": "The Greek catalogue of drugs and the plants, minerals and animals they come from, in continuous medical use longer than almost any book ever written. Its Arabic career needed two cities and a diplomatic incident.",
     "detail": "When a lavishly illustrated Greek copy reached Cordoba as a Byzantine state gift, the accompanying note warned that it was useless without someone who could read Greek, and nobody in al-Andalus could. The caliph wrote back to Constantinople for help. The result was a working group of a Jewish vizier, a Byzantine monk and Muslim physicians, matching Greek plant pictures to real Andalusian drugs.",
-    "sources": [{ "source": "ibn-juljul" }, { "source": "pormann-savage-smith-2007" }]
+    "sources": [
+      {
+        "source": "ibn-juljul"
+      },
+      {
+        "source": "pormann-savage-smith-2007"
+      }
+    ]
   },
   {
     "id": "aphorisms",
     "title": "Aphorisms",
-    "original": { "text": "Ἀφορισμοί", "translit": "Aphorismoi", "lang": "greek" },
+    "original": {
+      "text": "Ἀφορισμοί",
+      "translit": "Aphorismoi",
+      "lang": "greek"
+    },
     "author": "hippocrates",
-    "composed": { "from": -400, "ca": true },
+    "composed": {
+      "from": -400,
+      "ca": true
+    },
     "field": "medicine",
     "summary": "The most memorized text of ancient medicine, beginning with the most famous sentence in it: life is short, the art long. Medical students recited it in Greek, Syriac, Arabic, Hebrew and Latin for over two thousand years.",
     "detail": "Latin Europe already had a late antique Aphorisms, translated from Greek around the 5th or 6th century. Constantine the African's new version from the Arabic, carrying Galen's commentary with it, displaced that older text and entered the Articella, the bundle of treatises on which European medical examinations were built for centuries.",
-    "sources": [{ "source": "overwien-2015" }, { "source": "burnett-jacquart-1994" }]
+    "sources": [
+      {
+        "source": "overwien-2015"
+      },
+      {
+        "source": "burnett-jacquart-1994"
+      }
+    ],
+    "read_slug": "hippocrates-aphorisms-55e562"
   },
   {
     "id": "enneads",
     "title": "Enneads",
-    "original": { "text": "Ἐννεάδες", "translit": "Enneades", "lang": "greek" },
+    "original": {
+      "text": "Ἐννεάδες",
+      "translit": "Enneades",
+      "lang": "greek"
+    },
     "author": "plotinus",
-    "composed": { "from": 253, "to": 270, "place": "rome" },
+    "composed": {
+      "from": 253,
+      "to": 270,
+      "place": "rome"
+    },
     "field": "philosophy",
     "summary": "Plotinus' collected treatises, edited after his death by his student Porphyry into six groups of nine. In Arabic, selections from the last three Enneads circulated under the wrong name, as the Theology of Aristotle, and that error organized centuries of philosophy.",
     "detail": "The Theology opens with 'Aristotle' recounting, in the first person, Plotinus' out-of-body ascent: often have I been alone with my soul, and have doffed my body and laid it aside. For centuries Arabic readers believed the sober logician of the Organon had personally reported an ecstatic ascent to the intelligible world. The preface, honestly, names the real translator, the corrector and the patron all along.",
-    "sources": [{ "source": "adamson-sep" }, { "source": "zimmermann-1986" }]
+    "sources": [
+      {
+        "source": "adamson-sep"
+      },
+      {
+        "source": "zimmermann-1986"
+      }
+    ]
   },
   {
     "id": "panchatantra",
     "title": "Panchatantra",
-    "original": { "text": "पञ्चतन्त्र", "translit": "Pañcatantra", "lang": "sanskrit" },
+    "original": {
+      "text": "पञ्चतन्त्र",
+      "translit": "Pañcatantra",
+      "lang": "sanskrit"
+    },
     "author": null,
     "attribution": "traditional",
-    "composed": { "from": 300, "ca": true },
+    "composed": {
+      "from": 300,
+      "ca": true
+    },
     "field": "fables",
     "summary": "The Sanskrit mirror for princes told through animal fables, traditionally ascribed to the sage Vishnu Sharma. The surviving text dates to around 300 CE; the material is older. No secular book before print crossed more languages.",
     "detail": "The two jackals of the Sanskrit frame story, Karataka and Damanaka, fossilize phonetically through every language of the chain: Kalilag and Damnag in Syriac, Kalila and Dimna in Arabic, Calila e Dimna in Castilian. The title of the medieval world's most translated storybook still carries the sound of its Sanskrit characters.",
-    "sources": [{ "source": "olivelle-1997" }, { "source": "de-blois-1990" }, { "source": "riedel-2010" }]
+    "sources": [
+      {
+        "source": "olivelle-1997"
+      },
+      {
+        "source": "de-blois-1990"
+      },
+      {
+        "source": "riedel-2010"
+      }
+    ]
   },
   {
     "id": "brahmasphutasiddhanta",
     "title": "Brahmasphutasiddhanta",
-    "original": { "text": "ब्राह्मस्फुटसिद्धान्त", "translit": "Brāhmasphuṭasiddhānta", "lang": "sanskrit" },
+    "original": {
+      "text": "ब्राह्मस्फुटसिद्धान्त",
+      "translit": "Brāhmasphuṭasiddhānta",
+      "lang": "sanskrit"
+    },
     "author": "brahmagupta",
-    "composed": { "from": 628, "place": "bhillamala" },
+    "composed": {
+      "from": 628,
+      "place": "bhillamala"
+    },
     "field": "astronomy",
     "summary": "Brahmagupta's treatise of 628: planetary astronomy, and the first surviving systematic arithmetic of zero and negative numbers. Its school's methods reached Baghdad with an Indian embassy and became the Arabic Sindhind tradition.",
     "detail": "The Baghdad adaptation is lost, and survives only as the Latin translation of an Andalusi revision: a book born in 7th-century Rajasthan reaches us as a 1126 Latin text of a Cordoba reworking of a vanished Arabic original. Even the name fossilized the route. Sindhind is Sanskrit siddhanta worn smooth by Arabic mouths, and later bibliographers, no longer recognizing the word, solemnly glossed it as 'the perpetual eternity'.",
-    "sources": [{ "source": "pingree-1970" }, { "source": "bea-2007" }, { "source": "mercier-1987" }]
+    "sources": [
+      {
+        "source": "pingree-1970"
+      },
+      {
+        "source": "bea-2007"
+      },
+      {
+        "source": "mercier-1987"
+      }
+    ]
   },
   {
     "id": "topics",
     "title": "Topics",
-    "original": { "text": "Τοπικά", "translit": "Topika", "lang": "greek" },
+    "original": {
+      "text": "Τοπικά",
+      "translit": "Topika",
+      "lang": "greek"
+    },
     "author": "aristotle",
-    "composed": { "from": -350, "ca": true, "place": "athens" },
+    "composed": {
+      "from": -350,
+      "ca": true,
+      "place": "athens"
+    },
     "field": "logic",
     "summary": "Aristotle's manual of dialectic: how to argue from accepted opinions without contradicting yourself. Exactly the tool a caliph needed for staged interreligious debate, which is how it got its Arabic commission.",
     "detail": "The commission is documented from the inside. Timothy I's own letters survive, and in them the patriarch of the Church of the East can be watched writing to fellow clerics, asking them to ransack the library of the Mar Mattai monastery for Syriac versions of the later Organon to serve the caliph al-Mahdi's order. A caliph, a patriarch, and a century-old monastery shelf: the whole translation movement in one episode.",
-    "sources": [{ "source": "gutas-1998" }, { "source": "dancona-sep" }]
+    "sources": [
+      {
+        "source": "gutas-1998"
+      },
+      {
+        "source": "dancona-sep"
+      }
+    ]
   },
   {
     "id": "al-jabr",
@@ -123,43 +281,106 @@
       "lang": "arabic"
     },
     "author": "al-khwarizmi",
-    "composed": { "from": 813, "to": 833, "ca": true, "place": "baghdad" },
+    "composed": {
+      "from": 813,
+      "to": 833,
+      "ca": true,
+      "place": "baghdad"
+    },
     "field": "mathematics",
     "summary": "Al-Khwarizmi's compendium on solving equations by completion and balancing, written in Baghdad with al-Ma'mun's encouragement. The discipline it founded still carries the first noun of its title: al-jabr, algebra.",
     "detail": "The moment algebra entered Latin is dated in a calendar nobody outside Iberia used. Robert of Chester's colophon says he finished at Segovia in 'era 1183', the Spanish era, which runs 38 years ahead of Anno Domini. The famous date 1145 is itself a conversion. And if Robert of Chester is the same man as Robert of Ketton, the same Englishman had translated the Qur'an into Latin two years before.",
-    "sources": [{ "source": "hughes-1989" }, { "source": "toomer-1973" }]
+    "sources": [
+      {
+        "source": "hughes-1989"
+      },
+      {
+        "source": "toomer-1973"
+      }
+    ]
   },
   {
     "id": "qanun",
     "title": "Canon of Medicine",
-    "original": { "text": "القانون في الطب", "translit": "al-Qānūn fī al-ṭibb", "lang": "arabic" },
+    "original": {
+      "text": "القانون في الطب",
+      "translit": "al-Qānūn fī al-ṭibb",
+      "lang": "arabic"
+    },
     "author": "ibn-sina",
-    "composed": { "from": 1012, "to": 1025, "ca": true, "place": "hamadan" },
+    "composed": {
+      "from": 1012,
+      "to": 1025,
+      "ca": true,
+      "place": "hamadan"
+    },
     "field": "medicine",
     "summary": "Ibn Sina's complete system of medicine, begun at Jurjan, continued at Rayy and finished at Hamadan around 1024, in the gaps of a political career. In Latin it organized European medical teaching into the 17th century.",
     "detail": "Gerard of Cremona never signed his translations. When he died in 1187 his students, afraid his name would vanish, appended to one of his manuscripts a short life and a list of his seventy-plus translations. The Canon is item 63. It was printed about 15 times before 1500 and in some 60 further editions between 1500 and 1674, and was still taught at Montpellier and Louvain around 1650.",
-    "sources": [{ "source": "siraisi-1987" }, { "source": "lemay-1978" }, { "source": "gutas-sep-ibn-sina" }]
+    "sources": [
+      {
+        "source": "siraisi-1987"
+      },
+      {
+        "source": "lemay-1978"
+      },
+      {
+        "source": "gutas-sep-ibn-sina"
+      }
+    ]
   },
   {
     "id": "maqasid",
     "title": "Aims of the Philosophers",
-    "original": { "text": "مقاصد الفلاسفة", "translit": "Maqāṣid al-falāsifa", "lang": "arabic" },
+    "original": {
+      "text": "مقاصد الفلاسفة",
+      "translit": "Maqāṣid al-falāsifa",
+      "lang": "arabic"
+    },
     "author": "al-ghazali",
-    "composed": { "from": 1093, "to": 1094, "ca": true, "place": "baghdad" },
+    "composed": {
+      "from": 1093,
+      "to": 1094,
+      "ca": true,
+      "place": "baghdad"
+    },
     "field": "philosophy",
     "summary": "Al-Ghazali's lucid survey of the philosophers' doctrines, adapted from Ibn Sina's Persian. Tradition read it as the warm-up for his demolition of those same doctrines in the Incoherence of the Philosophers; recent scholarship questions that tidy story. Latin Europe read it without the ending either way.",
     "detail": "The prologue in which al-Ghazali says he is only reporting doctrines in order to refute them was translated into Latin, then lost from the circulating text. It survives in exactly one manuscript in Paris. Every other copy opened cold with the doctrines, so for four centuries Latin readers took Islam's most famous critic of philosophy for Avicenna's loyal epitomist, while nervous copyists scrawled 'cave hic', beware here, in the margins of some forty manuscripts.",
-    "sources": [{ "source": "minnema-2014" }, { "source": "griffel-sep" }]
+    "sources": [
+      {
+        "source": "minnema-2014"
+      },
+      {
+        "source": "griffel-sep"
+      }
+    ]
   },
   {
     "id": "hayy-ibn-yaqzan",
     "title": "Hayy ibn Yaqzan",
-    "original": { "text": "حي بن يقظان", "translit": "Ḥayy ibn Yaqẓān", "lang": "arabic" },
+    "original": {
+      "text": "حي بن يقظان",
+      "translit": "Ḥayy ibn Yaqẓān",
+      "lang": "arabic"
+    },
     "author": "ibn-tufayl",
-    "composed": { "from": 1163, "to": 1184, "ca": true, "place": "al-andalus" },
+    "composed": {
+      "from": 1163,
+      "to": 1184,
+      "ca": true,
+      "place": "al-andalus"
+    },
     "field": "philosophy",
     "summary": "A philosophical novel about a child who grows up alone on an island and reasons his way, unaided, to physics, metaphysics and God. Written in 12th-century al-Andalus; rediscovered by 17th-century Europe at exactly the moment Europe was arguing about innate ideas.",
     "detail": "The whole European career of the book runs through one physical object: a manuscript copied in 1303, bought in Aleppo in the 1630s by Edward Pococke the elder, and shelved in the Bodleian. His son's Latin translation came off the Oxford press in 1671, the very year John Locke, a colleague and friend of both Pocockes, drafted the first versions of the Essay Concerning Human Understanding. The self-taught islander and the tabula rasa met in the same building.",
-    "sources": [{ "source": "russell-1994" }, { "source": "ben-zaken-2011" }]
+    "sources": [
+      {
+        "source": "russell-1994"
+      },
+      {
+        "source": "ben-zaken-2011"
+      }
+    ]
   }
 ]

@@ -1,0 +1,26 @@
+{
+  "work_slug": "euclid-elements-d711e4",
+  "work_title": "Elements",
+  "chapter_number": 12,
+  "chapter_title": "Book 12",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d4cfbae-786b-55e9-9ee0-931c8849266c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15958,
+      "paragraph_count": 391,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1799.tlg001.perseus-eng2:12"
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 ---
 import type { GetStaticPaths } from "astro";
 import Reader from "../../../../layouts/Reader.astro";
+import { works as atlasWorks } from "../../../../lib/atlas/data.ts";
 import VariantSwitcher from "../../../../components/VariantSwitcher.astro";
 import ChapterBody from "../../../../components/ChapterBody.astro";
 import {
@@ -69,6 +70,9 @@ function bylineFor(v: ChapterVariantContent) {
   return null;
 }
 const byline = bylineFor(variant);
+// Atlas reconciliation: single-chapter works redirect straight here, so the
+// journey link must live on the reader page as well.
+const atlasEntry = atlasWorks.find((aw) => aw.read_slug === workSlug) ?? null;
 
 /**
  * Some source titles are entirely uppercase ("INTRODUCTION", "CHAPTER I").
@@ -132,6 +136,11 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
         ) : (
           <span>{byline.who}</span>
         )}
+      </p>
+    )}
+    {atlasEntry && (
+      <p class="atlas-journey">
+        <a href={`/atlas/works/${atlasEntry.id}/`}>Trace this book's journey in the atlas &rarr;</a>
       </p>
     )}
     <VariantSwitcher meta={variant.meta} workSlug={work.slug} current={variantType as ContentType} />

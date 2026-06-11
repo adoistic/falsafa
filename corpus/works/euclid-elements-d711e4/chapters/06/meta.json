@@ -1,0 +1,26 @@
+{
+  "work_slug": "euclid-elements-d711e4",
+  "work_title": "Elements",
+  "chapter_number": 6,
+  "chapter_title": "Book 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "764f0620-01a9-5b08-bf4d-9d6923bbe0b4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11854,
+      "paragraph_count": 404,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1799.tlg001.perseus-eng2:6"
+    }
+  ]
+}

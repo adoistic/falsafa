@@ -1,0 +1,26 @@
+{
+  "work_slug": "euclid-elements-d711e4",
+  "work_title": "Elements",
+  "chapter_number": 10,
+  "chapter_title": "Book 10",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ffc1e62-cf8f-5272-aa8b-68ac7527f87e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 48689,
+      "paragraph_count": 1646,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1799.tlg001.perseus-eng2:10"
+    }
+  ]
+}

@@ -413,3 +413,15 @@
     animation: none;
   }
 }
+
+/* Atlas reconciliation link on reader pages */
+.atlas-journey {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 500;
+  margin: var(--s-3) 0 0;
+}
+
+.atlas-journey a {
+  color: var(--accent);
+}

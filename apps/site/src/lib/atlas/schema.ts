@@ -106,6 +106,8 @@ const title = z
 export const workSchema = z.object({
   id: slug,
   title: z.string().min(1),
+  /** Corpus slug of a readable copy in the falsafa library, when one exists. */
+  read_slug: z.string().optional(),
   original: title.and(z.object({ lang: slug })),
   author: slug.nullable(),
   attribution: z.enum(['traditional', 'anonymous', 'misattributed']).optional(),

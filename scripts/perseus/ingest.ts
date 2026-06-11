@@ -25,7 +25,7 @@
  * Run: bun run scripts/perseus/ingest.ts
  */
 import { createHash } from "node:crypto";
-import { readFileSync, writeFileSync } from "node:fs";
+import { readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 
 const root = resolve(import.meta.dir, "..", "..");
@@ -236,9 +236,18 @@ function pickEnglish(cts: string): CtsTranslation | null {
 }
 
 async function main() {
-  const tranche = JSON.parse(
-    readFileSync(resolve(import.meta.dir, "tranche-1.json"), "utf-8"),
-  ) as { works: TrancheWork[] };
+  // All tranche files contribute; the list grows one JSON file at a time.
+  const trancheFiles = readdirSync(import.meta.dir)
+    .filter((f) => /^tranche-\d+\.json$/.test(f))
+    .sort();
+  const tranche = { works: [] as TrancheWork[] };
+  for (const f of trancheFiles) {
+    const t = JSON.parse(readFileSync(resolve(import.meta.dir, f), "utf-8")) as {
+      works: TrancheWork[];
+    };
+    tranche.works.push(...t.works);
+    console.log(`${f}: ${t.works.length} works`);
+  }
 
   const rawWorks: unknown[] = [];
   const auditedChapters: unknown[] = [];

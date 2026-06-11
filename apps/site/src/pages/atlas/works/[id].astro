@@ -79,6 +79,13 @@ const jsonLd = {
       </div>
 
       <aside class="margin">
+        {work.read_slug && (
+          <div class="read-link">
+            <a class="link" href={`/works/${work.read_slug}/`}>
+              Read this work in the library &rarr;
+            </a>
+          </div>
+        )}
         <div class="detail">
           <p class="tag">Worth knowing</p>
           <p>{work.detail}</p>
@@ -161,6 +168,15 @@ const jsonLd = {
     display: grid;
     gap: 1.6rem;
     align-content: start;
+  }
+
+  .read-link {
+    border: 1px solid var(--color-hairline);
+    border-left: 3px solid var(--color-lapis);
+    background: var(--color-paper-raised);
+    border-radius: 4px;
+    padding: 0.9rem 1.25rem;
+    font-size: 1.05rem;
   }
 
   .detail {
