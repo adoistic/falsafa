@@ -1,0 +1,69 @@
+---
+work_id: "7ec06db8-b337-532b-b3ea-420fa819aedb"
+work_slug: "william-allan-chapple-the-fertility-of-the-unfit-7ec06d"
+work_title: The Fertility of the Unfit
+author_name: William Allan Chapple
+chapter_number: 1
+chapter_title: Chapter I
+chapter_slug: 01
+variant_id: "2517f6fd-9601-505b-be8d-5602a591d48e"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1872
+source_url: "https://www.gutenberg.org/ebooks/16254"
+translator: Project Gutenberg edition
+---
+
+THE PROBLEM STATED.
+
+_The spread of moral restraint as a check.--Predicted by Malthus.--The declining Birth-rate.--Its Universality.--Most conspicuous in New Zealand.--Great increase in production of food.--With rising food rate falling birth-rate.--Malthus's checks.--His use of the term "moral restraint."--The growing desire to evade family obligations.--Spread of physiological knowledge.--All limitation involves self restraint.--Motives for limitation.--Those who do and those who do not limit.--Poverty and the Birth-rate. Defectives prolific and propagate their kind.--Moral restraint held to include all sexual interference designed to limit families.--Power of self-control an attribute of the best citizens.--Its absence an attribute of the worst.--Humanitarianism increases the number and protects the lives of defectives.--The ratio of the unfit to the fit.--Its dangers to the State.--Antiquity of the problem.--The teaching of the ancients.--Surgical methods already advocated._
+
+A century has passed since Malthus made his immortal contribution to the supreme problem of all ages and all people, but the whole aspect of the population question has changed since his day. The change, however, was anticipated by the great economist, and predicted in the words:--"The history of modern civilisation is largely the history of the gradual victory of the third check over the two others" (*vide* Essay, 7th edition, p. 476). The third check is moral restraint and the two others vice and misery.
+
+The statistics of all civilized nations show a gradual and progressive decline in the birth-rate much more marked of recent years. In Germany, between the years 1875 and 1899, it has diminished from 40 to 35.9 per thousand of the population. In England and Wales, it dropped from 35 to 29.3 during the same time; in Ireland, from 26 to 22.9; in France, from 26 to 21.9; in the United States of America (between the years 1880 and 1890) the decline has been from 36 to 30; while in New Zealand it gradually and persistently declined from 40.8 in 1880 to 25.6 in 1900.
+
+During the period, 1875-1890, the rapid strides made in industry and production have been unparallelled in the history of the world. Wealth has accumulated on all sides, and production and distribution have far outrun the needs and demands of population. To-day food is far more abundant, cheaper, and therefore more accessible to all classes of the people than it was 50 years ago, and coincident with this rapid and abundant increase in those things which go to supply the necessities, the comforts, and even the luxuries of life, there has been a constant and uniform decline in the birth-rate, and this decrease is even more conspicuous in those nations in which the rate of production has been most pronounced. It would even be true to say that the birth-rate during recent years is in inverse proportion to the rate of production.
+
+At first sight this might appear to falsify the law of population enunciated by Malthus. Malthus maintained that population tended to increase beyond the means of subsistence; that three checks constantly operated to limit population--vice, misery, and moral restraint: vice, due largely to diseased conditions, misery, due to poverty and want, and moral restraint due to a dread of these. I shall show later that nothing has been said or written to add to or take away from the truth and force of these great principles, but, that the moral restraint of Malthus has been practised to an extent, and in a direction of which the great economist never dreamt. By moral restraint in the limitation of families Malthus meant only delayed marriage. In so far as men and women abstained from, or delayed their marriage, on the ground of inability to support a family, they fulfilled the law, and followed the advice of Malthus. Continence without the marriage bond was assumed; incontinence was classed with another check vice.
+
+Contrary to the expectations arising out of the famous progressions, wealth and production have increased and the birth-rate has decreased. It is the purpose of this work to show what are the causes that have led to this decline, that those causes are not equally operative through all classes of the people, and that the chief cause of the decline of the birth-rate is the desire on the part of both sexes to limit the number they have to support and educate. The considerations that lead up to, and, to some extent, justify this desire, will be discussed later.
+
+The fact remains that an increasingly large number of people have come to the conclusion that the burden and responsibility of family obligations limit their enjoyments in life, their ambition, and even their scope for usefulness, and have discovered, through the spread of physiological information, means by which marriage may be entered upon without necessarily incurring these responsibilities and limitations.
+
+It is the knowledge of these physiological laws and the practice of rules arising out of that knowledge, that account for the declining birth-rate of civilized nations.
+
+If it be true that the birth-rate is controlled by a voluntary effort on the part of married people to limit their families, and that that effort implies self restraint and self denial, it would not be too much to claim that those most capable of exercising self-control and with the strongest motives for such exercise, are those most responsible for the declining birth-rate, and that those with least self-control and the fewest motives for exercising the control they have, are most likely to have the normal number of children.
+
+It has already been suggested, that the desire to limit families is due to a consciousness of responsibility on the part of prospective parents. They realise the stress of competition in the struggle for existence, they are anxious for their own pecuniary and social stability, and even more anxious that the children, for whose birth they are responsible, should be provided with the necessities and comforts of life which health and development require. They are eager, too, that their children should be equipped with a good education, and thus be given a fair advantage in the race of life.
+
+To the great mass of people this is possible only when the numbers of the family are limited. As the numbers of the family increase, the difficulties of clothing and feeding and educating increase, and each member is the poorer for every birth, and in this sense an increasing birth-rate is a cause of poverty. The sense in which poverty causes a high birth-rate will be dealt with later on.
+
+It will be readily conceded, that those actuated by the motives just considered, those with the keenest sense of responsibility in life, those capable of exercising the self-restraint which family limitation requires, constitute the best type of citizens in any community. From such the State has good reason to expect the best stock.
+
+It is one purpose of this work to show that this class, which can and should produce the best in the largest numbers, is being overwhelmed with the burden of supporting an ever-increasing number of incapables, and, largely in consequence of this increasing burden and responsibility, are unwilling to produce, because they are unable adequately to support their own kind.
+
+There is a class in every large community, whose sense of responsibility in life is at zero, whose self-control is substituted by the law and its sanctions, and whose modes and habits of life are little better than those of the lower animals. Their appetites are stronger, their desires, though fewer, are more intense, and their self-control less easily and less frequently exerted than those in the highest planes of life.
+
+In the first place then they have less desire to limit their families, and less power to exercise the self-restraint that is necessary to do so. Less sense of responsibility is attached to the rearing of a family, whilst the education of their children gives them little or no concern. They entertain no ambition that members of their family should compete in the struggle for social status. Their instincts and their impulses are their guide in all things. They marry early, and procreation is unrestrained except by the hardships of life.
+
+This constitutes a numerous class in every large community, and includes the criminal, the drunkard, and the pauper, and many defectives such as epileptics and imbeciles. Now all these propagate their kind. The checks to the increase of this class, are the checks which are common to the lower animals, and which were elaborated in his first essay by Malthus. They are vice and misery.
+
+If it were not for moral restraint (not the limited restraint of Malthus, delayed marriages simply), but restraint in the wider sense, within as well as without the marriage bond, and including all artificial checks to conception, these two checks, vice and misery, would absolutely control the population of the world.
+
+The mind of man has added to the checks which control increase in the lower animals, a new check, which applies to, and can be exercised only by himself, and the problem is, how far will misery and vice as checks to the population be eliminated, and moral restraint take their places? And if this restraint must control and determine the population of the future how far will its exercise affect the moral and mental evolution of the race?
+
+If moral restraint with the consequent limitations of families is the peculiar characteristic of the best people in the state, and the absence of this characteristic expressing itself in normal fertility is peculiar to the worst people of the state, the future of the race may be divined, by reference to the history of the great nations of antiquity.
+
+An accumulating amount of evidence shows that society is face to face with this grave aspect of the population question. The birth-rate of the unfit is steadily maintained. Improved conditions of life increase the number that arrive at maturity and enter the procreative period, so that not only are defectives born into the world at a constant rate, but sanitary laws and a growing impatience with the sufferings of the poor, tend so to improve their conditions of life, as to increase their birth-rate and their chances of arriving at adult life.
+
+Shortly stated then, the problem that society has to solve is this,--The birth-rate is rapidly declining amongst the most fit to produce the best offspring, while it is steadily maintained amongst the least fit, so that the relative proportion of the unfit born into the world is annually increasing.
+
+What should be the State's attitude to this problem, and how it should attempt to solve it will be discussed in detail in a subsequent chapter. Let it suffice to say now, that the right of the State to interfere directly with the limitation of families amongst the best classes would find few advocates amongst reformers.
+
+The right of the State to say, however, that the criminal, the drunkard, the diseased, and the pauper, shall not propagate their kind should be stoutly maintained by all rational men.
+
+Most of the nations of history have recognized the gravity of the population question, but they were mostly concerned with the tendency of the numbers in the State to increase beyond the means of subsistence, instead of the tendency to degeneration as it now concerns us.

@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-06-11T14:23:58.820Z",
+ "generated_at": "2026-06-11T14:58:12.184Z",
  "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
  "counts": {
-  "works": 945,
-  "authors": 158,
+  "works": 949,
+  "authors": 162,
   "eras": 10,
-  "genres": 18,
+  "genres": 19,
   "languages": 9
  },
  "works": [
@@ -17963,6 +17963,82 @@
    "difficulty": "Advanced",
    "description": "Our Knowledge of the External World, by Bertrand Russell (1872-1970), from Project Gutenberg's public-domain text.",
    "thothica_role": "catalog"
+  },
+  {
+   "slug": "vatsyayana-the-kama-sutra-of-vatsyayana-f55b41",
+   "title": "The Kama Sutra of Vatsyayana",
+   "author": "Vatsyayana",
+   "author_slug": "vatsyayana",
+   "era": "Ancient",
+   "era_slug": "ancient",
+   "genre": "Indic",
+   "genre_slug": "indic",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 16,
+   "total_variant_entries": 16,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Kama Sutra of Vatsyayana, by Vatsyayana (fl. c. 3rd century CE), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "paul-popenoe-and-roswell-applied-eugenics-d3c68e",
+   "title": "Applied Eugenics",
+   "author": "Paul Popenoe and Roswell Hill Johnson",
+   "author_slug": "paul-popenoe-and-roswell-hill-johnson",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Social Theory",
+   "genre_slug": "social-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 20,
+   "total_variant_entries": 20,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "Applied Eugenics, by Paul Popenoe and Roswell Hill Johnson (1918), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "william-allan-chapple-the-fertility-of-the-unfit-7ec06d",
+   "title": "The Fertility of the Unfit",
+   "author": "William Allan Chapple",
+   "author_slug": "william-allan-chapple",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Social Theory",
+   "genre_slug": "social-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 12,
+   "total_variant_entries": 12,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Fertility of the Unfit, by William Allan Chapple (1864-1936), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "albert-moll-the-sexual-life-of-the-child-20c689",
+   "title": "The Sexual Life of the Child",
+   "author": "Albert Moll",
+   "author_slug": "albert-moll",
+   "era": "20th Century",
+   "era_slug": "20th-century",
+   "genre": "Social Theory",
+   "genre_slug": "social-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 9,
+   "total_variant_entries": 9,
+   "published_year": null,
+   "difficulty": "Advanced",
+   "description": "The Sexual Life of the Child, by Albert Moll (1862-1939), from Project Gutenberg's public-domain text.",
+   "thothica_role": "catalog"
   }
  ],
  "authors": {
@@ -19700,6 +19776,30 @@
    "works": [
     "victor-cousin-lectures-on-the-true-the-beautif-ab35d3"
    ]
+  },
+  "vatsyayana": {
+   "name": "Vatsyayana",
+   "works": [
+    "vatsyayana-the-kama-sutra-of-vatsyayana-f55b41"
+   ]
+  },
+  "paul-popenoe-and-roswell-hill-johnson": {
+   "name": "Paul Popenoe and Roswell Hill Johnson",
+   "works": [
+    "paul-popenoe-and-roswell-applied-eugenics-d3c68e"
+   ]
+  },
+  "william-allan-chapple": {
+   "name": "William Allan Chapple",
+   "works": [
+    "william-allan-chapple-the-fertility-of-the-unfit-7ec06d"
+   ]
+  },
+  "albert-moll": {
+   "name": "Albert Moll",
+   "works": [
+    "albert-moll-the-sexual-life-of-the-child-20c689"
+   ]
   }
  },
  "eras": {
@@ -19734,7 +19834,8 @@
     "unknown-parasara-smrti-2259be",
     "unknown-visnu-smrti-27f0d8",
     "unknown-yama-smrti-552f8d",
-    "unknown-yajnavalkya-smrti-cb88d6"
+    "unknown-yajnavalkya-smrti-cb88d6",
+    "vatsyayana-the-kama-sutra-of-vatsyayana-f55b41"
    ]
   },
   "20th-century": {
@@ -19777,7 +19878,10 @@
     "roscoe-pound-an-introduction-to-the-philosoph-99e279",
     "william-james-essays-in-radical-empiricism-8cbaba",
     "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
-    "bertrand-russell-our-knowledge-of-the-external-wo-7bfcd1"
+    "bertrand-russell-our-knowledge-of-the-external-wo-7bfcd1",
+    "paul-popenoe-and-roswell-applied-eugenics-d3c68e",
+    "william-allan-chapple-the-fertility-of-the-unfit-7ec06d",
+    "albert-moll-the-sexual-life-of-the-child-20c689"
    ]
   },
   "19th-century": {
@@ -20738,7 +20842,8 @@
     "unknown-vratisasana-d0fe75",
     "unknown-vrhaspatitattva-b60b28",
     "unknown-yama-smrti-552f8d",
-    "unknown-yajnavalkya-smrti-cb88d6"
+    "unknown-yajnavalkya-smrti-cb88d6",
+    "vatsyayana-the-kama-sutra-of-vatsyayana-f55b41"
    ]
   },
   "political-social-theory": {
@@ -21734,6 +21839,14 @@
    "works": [
     "peter-coffey-ontology-or-the-theory-of-being-bd2c2d"
    ]
+  },
+  "social-theory": {
+   "name": "Social Theory",
+   "works": [
+    "paul-popenoe-and-roswell-applied-eugenics-d3c68e",
+    "william-allan-chapple-the-fertility-of-the-unfit-7ec06d",
+    "albert-moll-the-sexual-life-of-the-child-20c689"
+   ]
   }
  },
  "languages": {
@@ -22724,7 +22837,11 @@
     "john-stuart-mill-on-liberty-34cdb0",
     "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
     "victor-cousin-lectures-on-the-true-the-beautif-ab35d3",
-    "bertrand-russell-our-knowledge-of-the-external-wo-7bfcd1"
+    "bertrand-russell-our-knowledge-of-the-external-wo-7bfcd1",
+    "vatsyayana-the-kama-sutra-of-vatsyayana-f55b41",
+    "paul-popenoe-and-roswell-applied-eugenics-d3c68e",
+    "william-allan-chapple-the-fertility-of-the-unfit-7ec06d",
+    "albert-moll-the-sexual-life-of-the-child-20c689"
    ]
   }
  }

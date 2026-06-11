@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-allan-chapple-the-fertility-of-the-unfit-7ec06d",
+  "work_title": "The Fertility of the Unfit",
+  "chapter_number": 9,
+  "chapter_title": "Chapter IX",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ffcb27c3-2649-5b34-a6b9-100643d0c945",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2832,
+      "paragraph_count": 66,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/16254"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "paul-popenoe-and-roswell-applied-eugenics-d3c68e",
+  "work_title": "Applied Eugenics",
+  "chapter_number": 17,
+  "chapter_title": "Chapter XVIII",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "170c2a3e-561d-5503-8aee-7b4b38a80522",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13924,
+      "paragraph_count": 172,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/19560"
+    }
+  ]
+}
