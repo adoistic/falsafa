@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 701
 source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi001.perseus-eng2:2"
-translator: Perseus Digital Library
+translator: James Rhoades
 ---
 
 the shepherd Corydon with love was fired for fair Alexis, his own master's joy:

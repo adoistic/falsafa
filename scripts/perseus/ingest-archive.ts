@@ -58,7 +58,7 @@ async function groupName(repo: string, group: string): Promise<string> {
   if (groupNames.has(key)) return groupNames.get(key)!;
   const xml = await fetchText(`${RAW}/${repo}/master/data/${group}/__cts__.xml`);
   const name =
-    (xml && /<ti:groupname[^>]*>([\s\S]*?)<\/ti:groupname>/.exec(xml)?.[1]?.trim()) || "Unknown";
+    (xml && /<(?:ti:)?groupname[^>]*>([\s\S]*?)<\/(?:ti:)?groupname>/.exec(xml)?.[1]?.trim()) || "Unknown";
   groupNames.set(key, name);
   return name;
 }
@@ -81,7 +81,7 @@ async function buildWork(e: Entry): Promise<Built | { skip: string }> {
   let translator = "Perseus Digital Library";
   let title = "";
   if (cts) {
-    title = /<ti:title[^>]*>([\s\S]*?)<\/ti:title>/.exec(cts)?.[1]?.trim() ?? "";
+    title = /<(?:ti:)?title[^>]*>([\s\S]*?)<\/(?:ti:)?title>/.exec(cts)?.[1]?.trim() ?? "";
     const eng = pickEnglish(cts);
     if (eng) {
       engUrnTail = eng.urn.split(":").pop()!;

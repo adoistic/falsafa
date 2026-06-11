@@ -1,0 +1,38 @@
+{
+  "work_slug": "phaedrus-fabulae-6b12c9",
+  "work_title": "Fabulae",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "40529ad2-ead4-51c2-a02b-8f6f3edc3b47",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2412,
+      "paragraph_count": 428,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0975.phi001.perseus-lat2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aa05a7e8-dea7-5a33-b772-2d57b8293063",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3817,
+      "paragraph_count": 601,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0975.phi001.perseus-eng1:4"
+    }
+  ]
+}

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 854
 source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi001.perseus-eng2:6"
-translator: Perseus Digital Library
+translator: James Rhoades
 ---
 
 first my Thalia stooped in sportive mood to Syracusan strains, nor blushed within the woods to house her. When I sought to tell of battles and of kings, the Cynthian god plucked at mine ear and warned me: “Tityrus, beseems a shepherd-wight to feed fat sheep, but sing a slender song.” Now, Varus, I— for lack there will not who would laud thy deeds, and treat of dolorous wars—will rather tune to the slim oaten reed my silvan lay.

@@ -168,11 +168,11 @@ export interface CtsTranslation {
 
 /** Parse __cts__.xml: pick the last English translation listed. */
 export function pickEnglish(cts: string): CtsTranslation | null {
-  const re = /<ti:translation\b[^>]*urn="([^"]+)"[^>]*xml:lang="eng"[^>]*>([\s\S]*?)<\/ti:translation>/g;
+  const re = /<(?:ti:)?translation\b[^>]*urn="([^"]+)"[^>]*xml:lang="eng"[^>]*>([\s\S]*?)<\/(?:ti:)?translation>/g;
   let pick: CtsTranslation | null = null;
   let m: RegExpExecArray | null;
   while ((m = re.exec(cts)) !== null) {
-    const desc = /<ti:description[^>]*>([\s\S]*?)<\/ti:description>/.exec(m[2]!)?.[1] ?? "";
+    const desc = /<(?:ti:)?description[^>]*>([\s\S]*?)<\/(?:ti:)?description>/.exec(m[2]!)?.[1] ?? "";
     const d = decodeEntities(desc);
     const lastFirst = /([A-Z][A-Za-z'-]+),\s*([A-Z][A-Za-z .'-]+?),\s*translator/.exec(d);
     const translatedBy = /translat(?:ed|ion)\s+by\s+([A-Z][A-Za-z .'-]+?)[.,]/.exec(d);
@@ -190,7 +190,7 @@ export interface CtsEdition {
 
 /** Pick the source-language edition (perseus-grc/lat): last one listed. */
 export function pickEdition(cts: string): CtsEdition | null {
-  const re = /<ti:edition\b[^>]*urn="([^"]+)"[^>]*>/g;
+  const re = /<(?:ti:)?edition\b[^>]*urn="([^"]+)"[^>]*>/g;
   let pick: CtsEdition | null = null;
   let m: RegExpExecArray | null;
   while ((m = re.exec(cts)) !== null) pick = { urn: m[1]! };

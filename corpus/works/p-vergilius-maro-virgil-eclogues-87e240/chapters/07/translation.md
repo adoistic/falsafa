@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 688
 source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi001.perseus-eng2:7"
-translator: Perseus Digital Library
+translator: James Rhoades
 ---
 
 daphnis beneath a rustling ilex-tree had sat him down; Thyrsis and Corydon had gathered in the flock, Thyrsis the sheep, and Corydon the she-goats swollen with milk— both in the flower of age, Arcadians both, ready to sing, and in like strain reply.

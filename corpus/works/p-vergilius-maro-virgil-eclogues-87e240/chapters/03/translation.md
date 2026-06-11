@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1201
 source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi001.perseus-eng2:3"
-translator: Perseus Digital Library
+translator: James Rhoades
 ---
 
 MENALCAS:

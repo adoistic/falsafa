@@ -1,0 +1,38 @@
+{
+  "work_slug": "titus-livius-livy-ab-urbe-condita-882964",
+  "work_title": "Ab urbe condita",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ff80871c-bd9d-532f-b769-168b1e1c95fe",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 270,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0914.phi001.perseus-lat2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "00a8558f-3806-5846-9a3d-551437e8e48d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 27972,
+      "paragraph_count": 490,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0914.phi001.perseus-eng3:5"
+    }
+  ]
+}

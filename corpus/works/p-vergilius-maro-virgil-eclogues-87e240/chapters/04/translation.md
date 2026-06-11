@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 600
 source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi001.perseus-eng2:4"
-translator: Perseus Digital Library
+translator: James Rhoades
 ---
 
 muses of Sicily, essay we now a somewhat loftier task! Not all men love coppice or lowly tamarisk: sing we woods, woods worthy of a Consul let them be.

@@ -1,0 +1,26 @@
+{
+  "work_slug": "titus-livius-livy-history-of-rome-books-21-45-39-01cdaf",
+  "work_title": "History of Rome, books 21-45 - 39",
+  "chapter_number": 1,
+  "chapter_title": "History of Rome, books 21-45 - 39",
+  "chapter_slug": "01-history-of-rome-books-21-45-39",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "734c23dc-b824-5259-86a5-567d979ec24d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 23812,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0914.phi00139.perseus-eng3"
+    }
+  ]
+}

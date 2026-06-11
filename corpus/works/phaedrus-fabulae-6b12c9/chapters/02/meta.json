@@ -1,0 +1,38 @@
+{
+  "work_slug": "phaedrus-fabulae-6b12c9",
+  "work_title": "Fabulae",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "41883fd3-9748-521a-95af-f88e5c62aa67",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 961,
+      "paragraph_count": 173,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0975.phi001.perseus-lat2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f9403285-b37f-5776-a2dd-256ca4ccdc68",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1688,
+      "paragraph_count": 266,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0975.phi001.perseus-eng1:2"
+    }
+  ]
+}

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 745
 source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi001.perseus-eng2:10"
-translator: Perseus Digital Library
+translator: James Rhoades
 ---
 
 This now, the very latest of my toils, vouchsafe me, Arethusa! needs must I sing a brief song to Gallus—brief, but yet such as Lycoris' self may fitly read.

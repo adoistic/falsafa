@@ -1,0 +1,38 @@
+{
+  "work_slug": "titus-livius-livy-ab-urbe-condita-882964",
+  "work_title": "Ab urbe condita",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2f9db437-0ec8-5a4a-9eb0-c965fd6e2e99",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 17957,
+      "paragraph_count": 587,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0914.phi001.perseus-lat2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f77f1fbf-4f30-524d-933f-32c872713785",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 28727,
+      "paragraph_count": 486,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0914.phi001.perseus-eng3:4"
+    }
+  ]
+}

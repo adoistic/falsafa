@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 1109
 source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi001.perseus-eng2:8"
-translator: Perseus Digital Library
+translator: James Rhoades
 ---
 
 of Damon and Alphesiboeus now, those shepherd-singers at whose rival strains the heifer wondering forgot to graze, the lynx stood awe-struck, and the flowing streams, unwonted loiterers, stayed their course to hear— how Damon and Alphesiboeus sang their pastoral ditties, will I tell the tale.

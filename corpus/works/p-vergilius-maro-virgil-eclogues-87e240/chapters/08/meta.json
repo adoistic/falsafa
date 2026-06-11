@@ -11,6 +11,18 @@
   "default_variant": "translation.md",
   "variants": [
     {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5d1060e7-b703-5ff2-b20c-ef5ea77d051a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 751,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi001.perseus-lat2:8"
+    },
+    {
       "file": "translation.md",
       "content_type": "translation",
       "variant_id": "5f411bb0-b784-5863-bfa5-7b6eaf9b55d2",

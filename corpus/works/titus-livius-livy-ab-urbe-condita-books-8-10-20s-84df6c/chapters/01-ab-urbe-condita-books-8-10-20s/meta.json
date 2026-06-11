@@ -1,0 +1,26 @@
+{
+  "work_slug": "titus-livius-livy-ab-urbe-condita-books-8-10-20s-84df6c",
+  "work_title": "Ab Urbe Condita, books 8-10 - 20s",
+  "chapter_number": 1,
+  "chapter_title": "Ab Urbe Condita, books 8-10 - 20s",
+  "chapter_slug": "01-ab-urbe-condita-books-8-10-20s",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1c02e765-3429-5104-b641-e2718ac7cdfa",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 246,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0914.phi00120s.perseus-eng1"
+    }
+  ]
+}
