@@ -10,15 +10,12 @@ name: Deploy site to Netlify
 #   NETLIFY_AUTH_TOKEN  — a Netlify personal access token
 #   NETLIFY_SITE_ID     — the API ID of the Netlify site to deploy to
 
+# Netlify now builds + deploys natively from the GitHub integration (see
+# netlify.toml). This workflow is the FALLBACK: if Netlify's own builder
+# cannot handle the build at scale, run this manually (it builds in a
+# 16 GB runner and deploys the prebuilt dist via the Netlify CLI). Needs
+# NETLIFY_AUTH_TOKEN + NETLIFY_SITE_ID secrets.
 on:
-  push:
-    branches: [main]
-    paths:
-      - "apps/site/**"
-      - "corpus/**"
-      - "works.json"
-      - "corpus-audit.json"
-      - ".github/workflows/deploy-netlify.yml"
   workflow_dispatch: {}
 
 concurrency:

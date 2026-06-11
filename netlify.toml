@@ -1,10 +1,15 @@
-# Netlify serves the prebuilt static site that GitHub Actions produces
-# (.github/workflows/deploy-netlify.yml). Netlify itself does not build:
-# the corpus is large and the build is heavy, so it runs in CI and only the
-# finished dist is uploaded here. Astro emits directory-format pages
-# (foo/index.html), which Netlify serves at clean URLs without extra rules.
+# Netlify builds the site directly from this monorepo. The corpus lives at the
+# repo root and the site is a bun workspace under apps/site, so the build runs
+# bun at the root (for the workspace install) and then builds the site, whose
+# prebuild reads the corpus from ../../corpus. The Astro build's heap ceiling
+# is raised in apps/site/package.json for the ~28k-page scale.
 [build]
+  command = "bun install && cd apps/site && bun run build"
   publish = "apps/site/dist"
+
+[build.environment]
+  BUN_VERSION = "1.2.18"
+  NODE_VERSION = "20"
 
 [[headers]]
   for = "/pagefind/*"
