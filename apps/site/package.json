@@ -12,7 +12,7 @@
     "prepare-corpus": "bun run scripts/prepare-corpus.ts",
     "build-paragraph-index": "bun run scripts/build-paragraph-index.ts",
     "dev": "astro dev",
-    "build": "astro build && pagefind --site dist",
+    "build": "NODE_OPTIONS=--max-old-space-size=7680 astro build && pagefind --site dist",
     "preview": "astro preview",
     "check": "astro check",
     "search:build": "astro build && pagefind --site dist && rm -rf public/pagefind && cp -r dist/pagefind public/pagefind"
