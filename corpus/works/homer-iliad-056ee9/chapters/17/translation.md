@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 7378
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:17"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Brave Menelaos son of Atreus now came to know that Patroklos had fallen, and made his way through the front ranks clad in full armor to bestride him. As a cow stands lowing over her first calf, even so did yellow-haired Menelaos bestride Patroklos. He held his round shield and his spear in front of him, resolute to kill any who should dare face him. But the son of Panthoos had also noted the body, and came up to Menelaos saying, "Menelaos, son of Atreus, draw back, leave the body, and let the bloodstained spoils be. I was first of the Trojans and their brave allies to drive my spear into Patroklos, let me, therefore, have my full glory [ kleos] among the Trojans, or I will take aim and kill you."

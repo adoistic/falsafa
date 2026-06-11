@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5748
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:10"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Thence we went on to the Aeolian island where lives Aeolus son of Hippotas, dear to the immortal gods. It is an island that floats (as it were) upon the sea, iron bound with a wall that girds it. Now, Aeolus has six daughters and six sons in the bloom of youth, so he made the sons marry the daughters, and they all live with their dear father and mother, feasting and enjoying every conceivable kind of luxury. All day long the atmosphere of the house is loaded with the savor of roasting meats till it groans again, yard and all; but by night they sleep on their well-made bedsteads, each with his own wife between the blankets. These were the people among whom we had now come.

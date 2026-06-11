@@ -1524,7 +1524,7 @@
     "date": {
       "from": 1898
     },
-    "note": "Plain prose by the novelist of Erewhon. The Perseus Digital Library's revised encoding of this translation is the text carried in this library.",
+    "note": "Plain prose by the novelist of Erewhon. The text carried in this library is the Perseus revision by Timothy Power and Gregory Nagy, which restores Greek names (Zeus for Jove, Odysseus for Ulysses).",
     "confidence": "attested",
     "evidence": [
       {
@@ -1554,8 +1554,8 @@
     ],
     "place": "florence",
     "date": {
-      "from": 1362,
-      "to": 1366,
+      "from": 1360,
+      "to": 1362,
       "ca": true
     },
     "note": "The companion crossing to the Latin Iliad, from the same household project.",
@@ -1581,9 +1581,9 @@
     "place": "london",
     "date": {
       "from": 1614,
-      "to": 1616
+      "to": 1615
     },
-    "note": "Completed the first whole Homer in English, collected in 1616.",
+    "note": "Twelve books in 1614, the complete Odyssey in 1615; The Whole Works of Homer of 1616 collected the pair into the first complete English Homer.",
     "confidence": "attested",
     "evidence": [
       {
@@ -1632,7 +1632,7 @@
     "date": {
       "from": 1900
     },
-    "note": "Butler's prose Odyssey, written by a man convinced the original was a young woman's book. The Perseus revised encoding of it is the text carried in this library.",
+    "note": "Butler's prose Odyssey, written by a man convinced the original was a young woman's book. The text carried in this library is the Perseus revision by Timothy Power and Gregory Nagy.",
     "confidence": "attested",
     "evidence": [
       {
@@ -1734,6 +1734,10 @@
       {
         "person": "ishaq-ibn-hunayn",
         "role": "translator"
+      },
+      {
+        "person": "ustath",
+        "role": "translator"
       }
     ],
     "place": "baghdad",
@@ -1742,7 +1746,7 @@
       "to": 910,
       "ca": true
     },
-    "note": "The Arabic Ethics survives in one Fez manuscript with tangled credits: the bibliographers name Ishaq, but part of the surviving text seems to belong to the older Ustath tradition. The attribution, not the existence, is what scholarship disputes.",
+    "note": "The Arabic Ethics survives in one Fez manuscript whose credits are composite: Books I-IV are Ishaq ibn Hunayn's, Books V-X belong to the earlier Ustath of al-Kindi's circle. The existence is attested; the seams are what scholarship keeps relitigating.",
     "confidence": "probable",
     "evidence": [
       {
@@ -1769,7 +1773,7 @@
       "to": 1247,
       "ca": true
     },
-    "note": "The first complete Latin Ethics, made from the Greek with a team of helpers and accompanying Greek commentaries: a bishop running a translation workshop between diocesan duties.",
+    "note": "The first complete Latin Ethics to survive and circulate, made from the Greek with a team of helpers and accompanying Greek commentaries: a bishop running a translation workshop between diocesan duties. A Toledo rival saluted him in a preface as 'Robert of the Big Head but the exquisite intellect'.",
     "confidence": "attested",
     "evidence": [
       {
@@ -1873,11 +1877,10 @@
     "place": "london",
     "date": {
       "from": 1848,
-      "to": 1852,
-      "ca": true
+      "to": 1849
     },
-    "note": "The literal Bohn's Library version; the text carried in this library through the Perseus First1KGreek encoding.",
-    "confidence": "probable",
+    "note": "The literal Bohn's Library version of the Rev. Henry Dale, 1848-49; the text carried in this library through the Perseus First1KGreek encoding of the 1851-52 printing.",
+    "confidence": "attested",
     "evidence": [
       {
         "source": "dale-1848"
@@ -1961,7 +1964,7 @@
     "date": {
       "from": 1682
     },
-    "note": "The first complete English De Rerum Natura, two and a half centuries after Poggio pulled the poem back into circulation.",
+    "note": "The first complete English verse translation to be published, two and a half centuries after Poggio pulled the poem back into circulation. Lucy Hutchinson's complete version of the 1650s stayed in manuscript until 1996.",
     "confidence": "attested",
     "evidence": [
       {
@@ -2063,7 +2066,7 @@
     "date": {
       "from": 1794
     },
-    "note": "Made because British judges claimed to administer Hindu law they could not read. Jones worked with Bengal's pandits and died in April of the year his Institutes appeared: a chain where the demand side was an empire's courtroom.",
+    "note": "Jones proposed the codification project to Cornwallis himself in 1788, having written three years earlier that he could no longer bear to be 'at the mercy of our pandits, who deal out Hindu law as they please'. The Institutes were printed by order of the Government at Calcutta early in 1794; Jones died there that April.",
     "confidence": "attested",
     "evidence": [
       {

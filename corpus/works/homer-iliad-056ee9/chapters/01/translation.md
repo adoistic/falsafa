@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5927
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:1"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Sing, O goddess, the anger [ mênis] of Achilles son of Peleus, that brought countless ills upon the Achaeans. Many a brave soul [ psukhê] did it send hurrying down to Hades, and many a hero did it yield a prey to dogs and vultures, for so was the will of Zeus fulfilled from the day on which the son of Atreus, king of men, and great Achilles, first fell out with one another. And which of the gods was it that set them on to quarrel? It was the son of Zeus and Leto; for he was angry with the king and sent a pestilence upon the host to plague the people, because the son of Atreus had dishonored Chryses his priest. Now Chryses had come to the ships of the Achaeans to free his daughter, and had brought with him a great ransom: moreover he bore in his hand the scepter of Apollo wreathed with a suppliant's wreath and he besought the Achaeans, but most of all the two sons of Atreus, who were their chiefs. "Sons of Atreus," he cried, "and all other Achaeans, may the gods who dwell in Olympus grant you to sack the city of Priam, and to reach your homes in safety;

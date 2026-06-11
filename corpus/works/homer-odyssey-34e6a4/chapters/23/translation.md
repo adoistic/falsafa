@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 3763
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:23"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Eurykleia now went upstairs laughing to tell her mistress that her dear husband had come home. Her aged knees became young again and her feet were nimble for joy as she went up to her mistress and bent over her head to speak to her. "Wake up Penelope, my dear child," she exclaimed, "and see with your own eyes something that you have been wanting this long time past. Odysseus has at last indeed come home again, and has killed the suitors who were giving so much trouble in his house, eating up his estate and ill-treating his son."

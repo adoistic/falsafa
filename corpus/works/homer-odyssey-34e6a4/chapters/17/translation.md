@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5881
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:17"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 When the child of morning, rosy-fingered Dawn, appeared, Telemakhos bound on his sandals and took a strong spear that suited his hands, for he wanted to go into the city. "Old friend," said he to the swineherd, "I will now go to the town and show myself to my mother, for she will never leave off grieving till she has seen me. As for this unfortunate stranger, take him to the town and let him beg there of any one who will give him a drink and a piece of bread. I have trouble enough of my own, and cannot be burdened with other people. If this makes him angry so much the worse for him, but I like to tell the truth [ alêthês]."

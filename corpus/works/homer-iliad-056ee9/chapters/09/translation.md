@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 7071
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:9"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Thus did the Trojans watch. But Panic, comrade of blood-stained Rout, had taken fast hold of the Achaeans and their princes were all of them in despair. As when the two winds that blow from Thrace - the north and the northwest - spring up of a sudden and rouse the fury of the main [ pontos] - in a moment the dark waves uprear their heads and scatter their sea-wrack in all directions - even thus troubled were the hearts of the Achaeans.

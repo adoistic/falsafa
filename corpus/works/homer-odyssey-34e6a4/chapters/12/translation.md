@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4635
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:12"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 "After we were clear of the river Okeanos, and had got out into the open sea, we went on till we reached the Aeaean island where there is dawn and sunrise as in other places. We then drew our ship on to the sands and disembarked onto the shore, where we went to sleep and waited till day should break.

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 3373
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:7"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Thus, then, did Odysseus wait and pray; but the girl drove on to the town. When she reached her father's house she drew up at the gateway, and her brothers - comely as the gods - gathered round her, took the mules out of the wagon, and carried the clothes into the house, while she went to her own room, where an old servant, Eurymedousa of Apeira, lit the fire for her. This old woman had been brought by sea from Apeira, and had been chosen as a prize for Alkinoos because he was king over the Phaeacians, and the people in the dêmos obeyed him as though he were a god. She had been nurse to Nausicaa, and had now lit the fire for her, and brought her supper for her into her own room.

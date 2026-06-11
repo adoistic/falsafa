@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5455
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:14"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Odysseus now left the haven, and took the rough track up through the wooded country and over the crest of the mountain till he reached the place where Athena had said that he would find the swineherd, who was the most thrifty servant he had. He found him sitting in front of his hut, which was by the yards that he had built on a site which could be seen from far. He had made them spacious and fair to see, with a free ran for the pigs all round them; he had built them during his master's absence, of stones which he had gathered out of the ground, without saying anything to Penelope or Laertes, and he had fenced them on top with thorn bushes. Outside the yard he had run a strong fence of oaken posts, split, and set pretty close together, while inside lie had built twelve sties near one another for the sows to lie in. There were fifty pigs wallowing in each sty, all of them breeding sows; but the boars slept outside and were much fewer in number, for the suitors kept on eating them, and the swineherd had to send them the best he had continually. There were three hundred and sixty boar pigs, and the herdsman's four hounds, which were as fierce as wolves, slept always with them. The swineherd was at that moment cutting out a pair of sandals from a good stout ox hide. Three of his men were out herding the pigs in one place or another, and he had sent the fourth to town with a boar that he had been forced to send the suitors that they might sacrifice it and have their fill of meat.

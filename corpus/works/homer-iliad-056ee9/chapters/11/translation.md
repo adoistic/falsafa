@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 8608
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:11"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 And now as Dawn rose from her couch beside Tithonos, harbinger of light alike to mortals and immortals, Zeus sent fierce Discord with the ensign of war in her hands to the ships of the Achaeans. She took her stand by the huge black hull of Odysseus' ship which was middlemost of all, so that her voice might carry farthest on either side, on the one hand towards the tents of Ajax son of Telamon, and on the other towards those of Achilles - for these two heroes, well-assured of their own strength, had valorously drawn up their ships at the two ends of the line. There she took her stand, and raised a cry both loud and shrill that filled the Achaeans with courage, giving them heart to fight resolutely and with all their might, so that they had rather stay there and do battle than go home in their ships.

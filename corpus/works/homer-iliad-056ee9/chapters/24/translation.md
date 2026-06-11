@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 8421
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:24"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 The assembly [ agôn] now broke up and the people went their ways each to his own ship. There they made ready their supper, and then bethought them of the blessed boon of sleep; but Achilles still wept for thinking of his dear comrade, and sleep, before whom all things bow, could take no hold upon him. This way and that did he turn as he yearned after the might and manfulness of Patroklos; he thought of all they had done together, and all they had gone through both on the field of battle and on the waves of the weary sea. As he dwelt on these things he wept bitterly and lay now on his side, now on his back, and now face downwards, till at last he rose and went out as one distraught to wander upon the seashore. Then, when he saw dawn breaking over beach and sea, he yoked his horses to his chariot, and bound the body of Hektor behind it that he might drag it about. Thrice did he drag it round the tomb [ sêma] of the son of Menoitios, and then went back into his tent, leaving the body on the ground full length and with its face downwards. But Apollo would not suffer it to be disfigured, for he pitied the man, dead though he now was; therefore he shielded him with his golden aegis continually, that he might take no hurt while Achilles was dragging him.

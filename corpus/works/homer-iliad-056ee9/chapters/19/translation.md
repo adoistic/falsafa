@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4076
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:19"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Now when Dawn in robe of saffron was hastening from the streams of Okeanos, to bring light to mortals and immortals, Thetis reached the ships with the armor that the god had given her. She found her son fallen about the body of Patroklos and weeping bitterly. Many also of his followers were weeping round him, but when the goddess came among them she clasped his hand in her own, saying, "My son, grieve as we may we must let this man lie, for it is by heaven's will that he has fallen; now, therefore, accept from Hephaistos this rich and goodly armor, which no man has ever yet borne upon his shoulders."

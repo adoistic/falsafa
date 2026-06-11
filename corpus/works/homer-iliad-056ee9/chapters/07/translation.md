@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4427
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:7"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 With these words Hektor passed through the gates, and his brother Alexander with him, both eager for the fray. As when heaven sends a breeze to sailors who have long looked for one in vain, and have labored at their oars at sea [ pontos] till they are faint with toil, even so welcome was the sight of these two heroes to the Trojans.

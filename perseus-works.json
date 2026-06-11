@@ -21,7 +21,7 @@
     "name": "Greek",
     "direction": "ltr"
    },
-   "description": "The wrath of Achilles in the tenth year of the Trojan war: the founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised for Perseus.",
+   "description": "The wrath of Achilles in the tenth year of the Trojan war: the founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised by Timothy Power and Gregory Nagy.",
    "difficulty": "Intermediate",
    "is_published": true,
    "published_year": -750,
@@ -34,7 +34,7 @@
      "chapter_number": 1,
      "word_count": 5927,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "8bf56ff9-af18-535b-a43e-f6dc7d425643",
@@ -43,7 +43,7 @@
      "chapter_number": 2,
      "word_count": 8016,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "b9b9b90e-22e1-5338-a417-4899eb65dc5f",
@@ -52,7 +52,7 @@
      "chapter_number": 3,
      "word_count": 4076,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "1dc866f5-eae7-586b-818d-ebca1e55b350",
@@ -61,7 +61,7 @@
      "chapter_number": 4,
      "word_count": 5078,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "205b6aa6-6968-5457-8967-5428d15bff9b",
@@ -70,7 +70,7 @@
      "chapter_number": 5,
      "word_count": 8633,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "853585fd-ed22-53c4-9962-23a6a497f3e8",
@@ -79,7 +79,7 @@
      "chapter_number": 6,
      "word_count": 5032,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "a83e0af9-2243-52b2-82fe-8b9a820b1244",
@@ -88,7 +88,7 @@
      "chapter_number": 7,
      "word_count": 4427,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "4864655f-cff2-51f0-9d1e-966a905b9aa8",
@@ -97,7 +97,7 @@
      "chapter_number": 8,
      "word_count": 5316,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "ca645451-2fb1-5245-aea4-112468cd36d3",
@@ -106,7 +106,7 @@
      "chapter_number": 9,
      "word_count": 7071,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "858f38f8-763d-5dcc-947b-8bc90db1e21d",
@@ -115,7 +115,7 @@
      "chapter_number": 10,
      "word_count": 5545,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "5d90eecb-6481-5656-bfd0-6e795f23ad5a",
@@ -124,7 +124,7 @@
      "chapter_number": 11,
      "word_count": 8608,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "17aa761b-46b4-53c4-a346-b3a0783f9f32",
@@ -133,7 +133,7 @@
      "chapter_number": 12,
      "word_count": 4796,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "c26f391b-124b-5c4d-9b31-9c8cdb5bf3c8",
@@ -142,7 +142,7 @@
      "chapter_number": 13,
      "word_count": 8481,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "0d89843e-3978-50fa-88fd-133ee67b318f",
@@ -151,7 +151,7 @@
      "chapter_number": 14,
      "word_count": 5295,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "895dfd88-7de5-5c00-8f43-54efed63a7ed",
@@ -160,7 +160,7 @@
      "chapter_number": 15,
      "word_count": 7495,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "86499125-24d2-5efe-a6dd-a9af12cfac78",
@@ -169,7 +169,7 @@
      "chapter_number": 16,
      "word_count": 9086,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "6125cccf-73c3-5969-8684-cf451b4804b3",
@@ -178,7 +178,7 @@
      "chapter_number": 17,
      "word_count": 7378,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "e7d27f91-b192-56ff-b564-1d5f6bb47661",
@@ -187,7 +187,7 @@
      "chapter_number": 18,
      "word_count": 6077,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "95c4bf4c-0a76-53b9-90c3-6986990299c1",
@@ -196,7 +196,7 @@
      "chapter_number": 19,
      "word_count": 4076,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "64fd9abe-3c4b-5f90-a29c-81a38f44ff50",
@@ -205,7 +205,7 @@
      "chapter_number": 20,
      "word_count": 5047,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "81437a17-956c-55d0-bd27-6b2828c31be5",
@@ -214,7 +214,7 @@
      "chapter_number": 21,
      "word_count": 6227,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "930478f9-4dbd-503d-a82c-db5612cb6285",
@@ -223,7 +223,7 @@
      "chapter_number": 22,
      "word_count": 5537,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "d368918f-cc61-5abf-9b07-41e9a1ccaf21",
@@ -232,7 +232,7 @@
      "chapter_number": 23,
      "word_count": 9154,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "6ba2d4b7-f640-53fe-a40c-371afbdfd982",
@@ -241,7 +241,7 @@
      "chapter_number": 24,
      "word_count": 8421,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     }
    ]
   },
@@ -266,7 +266,7 @@
     "name": "Greek",
     "direction": "ltr"
    },
-   "description": "The ten-year homecoming of Odysseus, the second founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised for Perseus.",
+   "description": "The ten-year homecoming of Odysseus, the second founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised by Timothy Power and Gregory Nagy.",
    "difficulty": "Intermediate",
    "is_published": true,
    "published_year": -725,
@@ -279,7 +279,7 @@
      "chapter_number": 1,
      "word_count": 4213,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "c52c0f47-5443-5318-aa1c-527836cb58ae",
@@ -288,7 +288,7 @@
      "chapter_number": 2,
      "word_count": 4267,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "57ac960b-2aa8-5839-bc81-9ae6297968e0",
@@ -297,7 +297,7 @@
      "chapter_number": 3,
      "word_count": 4769,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "02abe49f-131e-54f5-9427-d89929c45078",
@@ -306,7 +306,7 @@
      "chapter_number": 4,
      "word_count": 8168,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "c3a4dec5-8430-5e13-90f9-051886581db2",
@@ -315,7 +315,7 @@
      "chapter_number": 5,
      "word_count": 4723,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "e0b17604-a090-51d6-970e-9a6ffce923e7",
@@ -324,7 +324,7 @@
      "chapter_number": 6,
      "word_count": 3481,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "2f4d2b92-5273-5df8-9ed0-dfe9edbd7a79",
@@ -333,7 +333,7 @@
      "chapter_number": 7,
      "word_count": 3373,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "7ded2cb5-4fb1-5b76-8c53-366a3028bfec",
@@ -342,7 +342,7 @@
      "chapter_number": 8,
      "word_count": 5706,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "a13dde3a-7ba2-5685-812b-5fe9f6ae8fb8",
@@ -351,7 +351,7 @@
      "chapter_number": 9,
      "word_count": 5872,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "26f18b49-40c2-5a50-8862-333b3454f9a8",
@@ -360,7 +360,7 @@
      "chapter_number": 10,
      "word_count": 5748,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "9c83ae53-98dd-5d75-89b9-923d37811400",
@@ -369,7 +369,7 @@
      "chapter_number": 11,
      "word_count": 6150,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "2828b845-ff4e-5c96-9e71-75362e243039",
@@ -378,7 +378,7 @@
      "chapter_number": 12,
      "word_count": 4635,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "63dc19d9-0a38-51bf-9c07-5f9d5fc62634",
@@ -387,7 +387,7 @@
      "chapter_number": 13,
      "word_count": 4276,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "03605af1-862e-5308-89d9-02bccf1e90af",
@@ -396,7 +396,7 @@
      "chapter_number": 14,
      "word_count": 5455,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "42822680-7c8c-567d-8aaf-2d1d761f269e",
@@ -405,7 +405,7 @@
      "chapter_number": 15,
      "word_count": 5431,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "915f6953-7c9b-50c2-9ffa-d07d12cf271d",
@@ -414,7 +414,7 @@
      "chapter_number": 16,
      "word_count": 4599,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "610cc3de-855f-518a-bd23-203b76787889",
@@ -423,7 +423,7 @@
      "chapter_number": 17,
      "word_count": 5881,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "0c6c3fd4-262a-546a-90fe-4d0fb9527e22",
@@ -432,7 +432,7 @@
      "chapter_number": 18,
      "word_count": 4228,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "66787398-48c4-508d-81ac-8ea9a47f1b62",
@@ -441,7 +441,7 @@
      "chapter_number": 19,
      "word_count": 6061,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "a1a8088f-a2bc-5b6d-bbc0-0eed6f703781",
@@ -450,7 +450,7 @@
      "chapter_number": 20,
      "word_count": 3847,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "35ccd30e-b67b-59a9-b6bb-8c01d92308d0",
@@ -459,7 +459,7 @@
      "chapter_number": 21,
      "word_count": 4322,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "64087fed-3714-5fee-b966-a59159b7b2be",
@@ -468,7 +468,7 @@
      "chapter_number": 22,
      "word_count": 4593,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "5ad738ed-8edc-59b5-aaaf-bd78cafc48a4",
@@ -477,7 +477,7 @@
      "chapter_number": 23,
      "word_count": 3763,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
      "id": "1237842c-9234-5390-9342-ee13b225b54e",
@@ -486,7 +486,7 @@
      "chapter_number": 24,
      "word_count": 5278,
      "is_original": false,
-     "translator": "Samuel Butler, revised for Perseus"
+     "translator": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     }
    ]
   },
@@ -1497,5 +1497,5 @@
   }
  ],
  "source": "Perseus Digital Library, PerseusDL canonical repositories (TEI encodings CC BY-SA 4.0; translations in this tranche public domain)",
- "exported_at": "2026-06-11T07:03:54.165Z"
+ "exported_at": "2026-06-11T10:35:24.728Z"
 }

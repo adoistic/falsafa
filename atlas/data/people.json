@@ -1746,5 +1746,23 @@
         "source": "falsafa-2026"
       }
     ]
+  },
+  {
+    "id": "ustath",
+    "name": "Ustath",
+    "aka": [
+      "Eustathius"
+    ],
+    "ca": true,
+    "fl": "early 9th century",
+    "roles": [
+      "translator"
+    ],
+    "note": "Translator of al-Kindi's circle, a generation before the Hunayn workshop. Books V-X of the surviving Arabic Nicomachean Ethics are his.",
+    "sources": [
+      {
+        "source": "akasoy-fidora-2005"
+      }
+    ]
   }
 ]

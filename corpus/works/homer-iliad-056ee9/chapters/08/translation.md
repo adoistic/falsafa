@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5316
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:8"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Now when Morning, clad in her robe of saffron, had begun to suffuse light over the earth, Zeus called the gods in council on the topmost crest of serrated Olympus. Then he spoke and all the other gods gave ear. "Hear me," said he, "gods and goddesses, that I may speak even as I am minded. Let none of you neither goddess nor god try to cross me, but obey me every one of you that I may bring this matter to an end. If I see anyone acting apart and helping either Trojans or Danaans, he shall be beaten beyond the limits of universal order [ kosmos] ere he come back again to Olympus; or I will hurl him down into dark Tartaros far into the deepest pit under the earth, where the gates are iron and the floor bronze, as far beneath Hades as heaven is high above the earth, that you may learn how much the mightiest I am among you. Try me and find out for yourselves. Hang me a golden chain from heaven, and lay hold of it all of you, gods and goddesses together - tug as you will, you will not drag Zeus the supreme counselor from heaven to earth; but were I to pull at it myself I should draw you up with earth and sea into the bargain, then would I bind the chain about some pinnacle of Olympus and leave you all dangling in the mid firmament. So far am I above all others either of gods or men."

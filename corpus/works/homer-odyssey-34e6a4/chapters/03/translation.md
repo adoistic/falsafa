@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4769
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:3"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 But as the sun was rising from the fair sea into the firmament of heaven to shed light on mortals and immortals, they reached Pylos the city of Neleus. Now the people of Pylos were gathered on the sea shore to offer sacrifice of black bulls to Poseidon lord of the Earthquake. There were nine guilds with five hundred men in each, and there were nine bulls to each guild. As they were eating the inward meats and burning the thigh bones [on the embers] in the name of Poseidon, Telemakhos and his crew arrived, furled their sails, brought their ship to anchor, and went ashore.

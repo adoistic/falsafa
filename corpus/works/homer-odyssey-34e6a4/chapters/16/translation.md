@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4599
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:16"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Meanwhile Odysseus and the swineherd had lit a fire in the hut and were getting breakfast ready at daybreak for they had sent the men out with the pigs. When Telemakhos came up, the dogs did not bark, but fawned upon him, so Odysseus, hearing the sound of feet and noticing that the dogs did not bark, said to Eumaios:

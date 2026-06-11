@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5431
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:15"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 But Athena went to the fair city of Lacedaemon to tell Odysseus’ son that he was to return [ nostos] at once. She found him and Peisistratos sleeping in the forecourt of Menelaos’ house; Peisistratos was fast asleep, but Telemakhos could get no rest all night for thinking of his unhappy father, so Athena went close up to him and said:

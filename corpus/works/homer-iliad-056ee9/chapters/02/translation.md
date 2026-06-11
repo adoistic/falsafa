@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 8016
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:2"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Now the other gods and the armed warriors on the plain slept soundly, but Zeus was wakeful, for he was thinking how to do honor to Achilles, and destroy many people at the ships of the Achaeans.

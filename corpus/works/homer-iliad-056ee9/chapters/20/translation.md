@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5047
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:20"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Thus, then, did the Achaeans arm by their ships round you, O son of Peleus, who were hungering for battle; while the Trojans over against them armed upon the rise of the plain.

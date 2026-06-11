@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 6061
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:19"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Odysseus was left in the room, pondering on the means whereby with Athena's help he might be able to kill the suitors. Presently he said to Telemakhos, "Telemakhos, we must get the armor together and take it down inside. Make some excuse when the suitors ask you why you have removed it. Say that you have taken it to be out of the way of the smoke, inasmuch as it is no longer what it was when Odysseus went away, but has become soiled and begrimed with soot. Add to this more particularly that you are afraid a daimôn may set them on to quarrel over their wine, and that they may do each other some harm which may disgrace both banquet and wooing, for the sight of arms sometimes tempts people to use them."

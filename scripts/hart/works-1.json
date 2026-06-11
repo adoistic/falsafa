@@ -1,0 +1,24 @@
+{
+  "note": "Public-domain English texts from David Hart's Digital Library of Liberty and Power. Hart's own modern translations (Pittwater Free Press, 2025-26) carry no reuse license and are deliberately absent; ask him before adding any.",
+  "works": [
+    {
+      "url": "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html",
+      "title": "The Society of Tomorrow",
+      "author": {
+        "name": "Gustave de Molinari",
+        "biography": "Belgian-born economist of the French liberal school, editor of the Journal des economistes for decades, and the first theorist to ask whether even security could be supplied by competition rather than monopoly.",
+        "birth_year": 1819,
+        "death_year": 1912,
+        "nationality": "Belgian"
+      },
+      "era": "19th Century",
+      "genre": "Political & Social Theory",
+      "language": "French",
+      "description": "Molinari's late forecast of a world ordered by free contract: the state of war giving way to the state of peace, written at the end of six decades of argument. The 1904 English edition, from the shelves of David Hart's Digital Library of Liberty and Power.",
+      "difficulty": "Intermediate",
+      "published_year": 1899,
+      "translator": "P. H. Lee Warner (1904)",
+      "skip_headings": ["Source", "Table of Contents"]
+    }
+  ]
+}

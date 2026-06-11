@@ -10,7 +10,7 @@ era: Ancient
 genre: Literature
 language: Greek
 language_direction: ltr
-description: "The ten-year homecoming of Odysseus, the second founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised for Perseus."
+description: "The ten-year homecoming of Odysseus, the second founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised by Timothy Power and Gregory Nagy."
 difficulty: Intermediate
 published_year: -725
 total_logical_chapters: 24
@@ -20,7 +20,7 @@ thothica_role: catalog
 
 # Odyssey
 
-The ten-year homecoming of Odysseus, the second founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised for Perseus.
+The ten-year homecoming of Odysseus, the second founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised by Timothy Power and Gregory Nagy.
 
 ## Chapters
 

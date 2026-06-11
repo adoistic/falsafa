@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5032
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:6"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 The fight between Trojans and Achaeans was now left to rage as it would, and the tide of war surged hither and thither over the plain as they aimed their bronze-shod spears at one another between the streams of Simoeis and Xanthos.

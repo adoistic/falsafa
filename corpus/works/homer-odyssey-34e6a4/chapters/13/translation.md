@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4276
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:13"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Thus did he speak, and they all held their peace throughout the covered room, enthralled by the charm of his story, till presently Alkinoos began to speak.

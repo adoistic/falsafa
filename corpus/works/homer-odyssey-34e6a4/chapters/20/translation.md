@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 3847
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:20"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Odysseus slept in the room upon an undressed bullock's hide, on the top of which he threw several skins of the sheep the suitors had eaten, and Eurynome threw a cloak over him after he had laid himself down. There, then, Odysseus lay wakefully brooding upon the way in which he should kill the suitors; and by and by, the women who had been in the habit of misconducting themselves with them, left the house giggling and laughing with one another. This made Odysseus very angry, and he doubted whether to get up and kill every single one of them then and there, or to let them sleep one more and last time with the suitors. His heart growled within him, and as a bitch with puppies growls and shows her teeth when she sees a stranger, so did his heart growl with anger at the evil deeds that were being done: but he beat his breast and said, "Heart, be still, you had worse than this to bear on the day when the terrible Cyclops ate your brave companions; yet you bore it in silence till your cunning got you safe out of the cave, though you made sure of being killed."

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4593
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:22"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Then Odysseus tore off his rags, and sprang on to the broad pavement with his bow and his quiver full of arrows. He shed the arrows on to the ground at his feet and said, "The mighty contest [ athlos] is at an end. I will now see whether Apollo will grant it to me to hit another mark which no man has yet hit."

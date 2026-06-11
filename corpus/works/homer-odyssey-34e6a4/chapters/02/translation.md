@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4267
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:2"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Now when the child of morning, rosy-fingered Dawn, appeared, Telemakhos rose and dressed himself. He bound his sandals on to his comely feet, girded his sword about his shoulder, and left his room looking like an immortal god. He at once sent the criers round to call the people in assembly, so they called them and the people gathered thereon; then, when they were got together, he went to the place of assembly spear in hand - not alone, for his two hounds went with him. Athena endowed him with a presence of such divine comeliness [ kharis] that all marveled at him as he went by, and when he took his place in his father's seat even the oldest councilors made way for him.

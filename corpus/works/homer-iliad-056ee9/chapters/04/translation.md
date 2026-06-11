@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5078
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:4"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Now the gods were sitting with Zeus in council upon the golden floor while Hebe went round pouring out nectar for them to drink, and as they pledged one another in their cups of gold they looked down upon the town of Troy. The son of Kronos then began to tease Hera, talking at her so as to provoke her. "Menelaos," said he, "has two good friends among the goddesses, Hera of Argos, and Athena of Alalkomene, but they only sit still and look on, while Aphrodite keeps ever by Alexander's side to defend him in any danger; indeed she has just rescued him when he made sure that it was all over with him - for the victory really did lie with Menelaos. We must consider what we shall do about all this; shall we set them fighting anew or make peace between them? If you will agree to this last Menelaos can take back Helen and the city of Priam may remain still inhabited."

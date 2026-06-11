@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4723
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:5"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 And now, as Dawn rose from her couch beside Tithonos - harbinger of light alike to mortals and immortals - the gods met in council and with them, Zeus the lord of thunder, who is their king. Thereon Athena began to tell them of the many sufferings of Odysseus, for she pitied him away there in the house of the nymph Calypso.

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5545
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:10"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Now the other princes of the Achaeans slept soundly the whole night through, but Agamemnon son of Atreus was troubled, so that he could get no rest. As when fair Hera's lord flashes his lightning in token of great rain or hail or snow when the snow-flakes whiten the ground, or again as a sign that he will open the wide jaws of hungry war, even so did Agamemnon heave many a heavy sigh, for his soul trembled within him. When he looked upon the plain of Troy he marveled at the many watchfires burning in front of Ilion, and at the sound of pipes and flutes and of the hum of men, but when presently he turned towards the ships and hosts of the Achaeans, he tore his hair by handfuls before Zeus on high, and groaned aloud for the very disquietness of his soul. In the end he deemed it best to go at once to Nestor son of Neleus, and see if between them they could find any way of the Achaeans from destruction. He therefore rose, put on his shirt, bound his sandals about his comely feet, flung the skin of a huge tawny lion over his shoulders - a skin that reached his feet- and took his spear in his hand.

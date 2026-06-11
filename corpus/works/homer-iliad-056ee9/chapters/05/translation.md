@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 8633
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:5"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Then Pallas Athena put valor into the heart of Diomedes, son of Tydeus, that he might excel all the other Argives, and cover himself with glory [ kleos]. She made a stream of fire flare from his shield and helmet like the star that shines most brilliantly in summer after its bath in the waters of Okeanos - even such a fire did she kindle upon his head and shoulders as she bade him speed into the thickest uproar of the fight.

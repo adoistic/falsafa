@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 6227
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:21"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Now when they came to the ford of the full-flowing river Xanthos, begotten of immortal Zeus, Achilles cut their forces in two: one half he chased over the plain towards the city by the same way that the Achaeans had taken when fleeing panic-stricken on the preceding day with Hektor in full triumph; this way did they flee pell-mell, and Hera sent down a thick mist in front of them to stay them. The other half were hemmed in by the deep silver-eddying stream, and fell into it with a great uproar. The waters resounded, and the banks rang again, as they swam hither and thither with loud cries amid the whirling eddies. As locusts flying to a river before the blast of a grass firethe flame comes on and on till at last it overtakes them and they huddle into the water - even so was the eddying stream of Xanthos filled with the uproar of men and horses, all struggling in confusion before Achilles.

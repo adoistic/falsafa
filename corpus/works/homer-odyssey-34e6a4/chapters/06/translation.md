@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 3481
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:6"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 So here Odysseus slept, overcome by sleep and toil; but Athena went off to the dêmos and city of the Phaeacians - a people who used to live in the fair town of Hypereia, near the lawless Cyclopes. Now the Cyclopes were stronger in force [ biê] than they and plundered them, so their king Nausithoos moved them thence and settled them in Scheria, far from all other people. He surrounded the city with a wall, built houses and temples, and divided the lands among his people; but he was dead and gone to the house of Hades, and King Alkinoos, whose counsels were inspired of heaven, was now reigning. To his house, then, did Athena go in furtherance of the return [ nostos] of Odysseus.

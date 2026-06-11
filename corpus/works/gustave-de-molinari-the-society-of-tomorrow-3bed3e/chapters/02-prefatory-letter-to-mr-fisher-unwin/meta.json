@@ -1,0 +1,26 @@
+{
+  "work_slug": "gustave-de-molinari-the-society-of-tomorrow-3bed3e",
+  "work_title": "The Society of Tomorrow",
+  "chapter_number": 2,
+  "chapter_title": "Prefatory Letter TO MR. FISHER UNWIN",
+  "chapter_slug": "02-prefatory-letter-to-mr-fisher-unwin",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd88233a-372c-59ed-8366-f7b05c7df2ef",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 415,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
+    }
+  ]
+}

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 6150
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:11"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Then, when we had got down to the sea shore we drew our ship into the water and got her mast and sails into her; we also put the sheep on board and took our places, weeping and in great distress of mind. Circe, that great and cunning goddess, sent us a fair wind that blew dead aft and stayed steadily with us keeping our sails all the time well filled; so we did whatever wanted doing to the ship's gear and let her go as the wind and helmsman headed her. All day long her sails were full as she held her course over the sea, but when the sun went down and darkness was over all the earth, we got into the deep waters of the river Okeanos, where lie the dêmos and city of the Cimmerians who live enshrouded in mist and darkness which the rays of the sun never pierce neither at his rising nor as he goes down again out of the heavens, but the poor wretches live in one long melancholy night. When we got there we beached the ship, took the sheep out of her, and went along by the waters of Okeanos till we came to the place of which Circe had told us.

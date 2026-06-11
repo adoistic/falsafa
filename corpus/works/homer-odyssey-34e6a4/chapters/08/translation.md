@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5706
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:8"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Now when the child of morning, rosy-fingered Dawn, appeared, Alkinoos and Odysseus both rose, and Alkinoos led the way to the Phaeacian place of assembly, which was near the ships. When they got there they sat down side by side on a seat of polished stone, while Athena took the form of one of Alkinoos’ servants, and went round the town in order to contrive nostos for great-hearted Odysseus. She went up to the citizens, man by man, and said, "Aldermen and town councilors of the Phaeacians, come to the assembly all of you and listen to the stranger who has just come off a long voyage to the house of King Alkinoos; he looks like an immortal god."

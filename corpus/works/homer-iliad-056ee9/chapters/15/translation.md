@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 7495
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:15"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 But when their flight had taken them past the trench and the set stakes, and many had fallen by the hands of the Danaans, the Trojans made a halt on reaching their chariots, routed and pale with fear. Zeus now woke on the crests of Ida, where he was lying with golden-throned Hera by his side, and starting to his feet he saw the Trojans and Achaeans, the one thrown into confusion, and the others driving them pell-mell before them with King Poseidon in their midst. He saw Hektor lying on the ground with his comrades gathered round him, gasping for breath, wandering in mind and vomiting blood, for it was not the feeblest of the Achaeans who struck him.

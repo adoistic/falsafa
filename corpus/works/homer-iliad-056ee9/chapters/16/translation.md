@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 9086
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:16"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Thus did they fight about the ship of Protesilaos. Then Patroklos drew near to Achilles with tears welling from his eyes, as from some spring whose crystal stream falls over the ledges of a high precipice. When Achilles saw him thus weeping he was sorry for him and said, "Why, Patroklos, do you stand there weeping like some silly child that comes running to her mother, and begs to be taken up and carried- she catches hold of her mother's dress to stay her though she is in a hurry, and looks tearfully up until her mother carries her - even such tears, Patroklos, are you now shedding. Have you anything to say to the Myrmidons or to myself? or have you had news from Phthia which you alone know? They tell me Menoitios son of Aktor is still alive, as also Peleus son of Aiakos, among the Myrmidons - men whose loss we two should bitterly deplore; or are you grieving about the Argives and the way in which they are being killed at the ships, through their own high-handed doings? Do not hide in your mind [ noos] anything from me but tell me that both of us may know about it."

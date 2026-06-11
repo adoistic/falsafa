@@ -1,0 +1,26 @@
+{
+  "work_slug": "gustave-de-molinari-the-society-of-tomorrow-3bed3e",
+  "work_title": "The Society of Tomorrow",
+  "chapter_number": 29,
+  "chapter_title": "Note E. The Economic and Socialist Conceptions of the Society of the Future",
+  "chapter_slug": "29-note-e-the-economic-and-socialist-conceptions-of-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cf044d6e-d39a-5d29-b42a-31ba4489bd2d",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1203,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
+    }
+  ]
+}

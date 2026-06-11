@@ -450,7 +450,7 @@
     "field": "philosophy",
     "read_slug": "plato-republic-2bf014",
     "summary": "The design of the just city and the just soul. The Arabs philosophized with it secondhand; the West got it whole only when Ficino's Latin Plato was printed in 1484.",
-    "detail": "The Republic is the strange inverse of this atlas's Aristotle chains: Baghdad never had the full text, so Averroes, lacking the Politics, wrote his political commentary on the Republic instead, and that commentary survives through Hebrew. The complete book reached Latin with Ficino in Florence and English with Spens and then Jowett; the Loeb English of Paul Shorey is the one this library carries.",
+    "detail": "The Republic is the strange inverse of this atlas's Aristotle chains: no complete Arabic translation survives and scholars doubt one ever existed, so the Arabs knew the book chiefly through Galen's synopsis, and Averroes, lacking the Politics, wrote his political commentary on the Republic instead, a work that now survives through Samuel ben Judah's Hebrew of 1320-22. The complete book reached Latin with Ficino in Florence and English with Spens and then Jowett; the Loeb English of Paul Shorey is the one this library carries.",
     "sources": [
       {
         "source": "hankins-1990"
@@ -556,7 +556,7 @@
     "field": "philosophy",
     "read_slug": "lucretius-de-rerum-natura-4543ca",
     "summary": "Epicurus in Latin verse: atoms, void, and freedom from fear. The book slept through the Middle Ages in a few Carolingian copies until a papal secretary found one in 1417.",
-    "detail": "Two ninth-century manuscripts, the Oblongus and the Quadratus, carried the poem through the centuries when nobody quoted it. In January 1417 Poggio Bracciolini, hunting manuscripts between jobs at the Council of Constance, found a copy in a German monastery and sent it to Florence; his own find is lost, the copy made from it survives. Creech gave it complete English verse in 1682; the Leonard verse translation of 1916 is the one this library carries.",
+    "detail": "Carolingian monks copied the poem in the ninth century and then the world forgot to read it; two of those copies, the Oblongus and the Quadratus, sleep through the whole story in northern libraries, unknown to the humanists. In January 1417 Poggio Bracciolini, hunting manuscripts on leave from the Council of Constance, found a descendant of that copying in a German monastery he never named, probably Fulda. His find is lost; the transcription Niccoli made from it survives in Florence, along with Poggio's letters demanding his book back for fourteen years. Creech gave the poem published English verse in 1682; the Leonard verse translation of 1916 is the one this library carries.",
     "sources": [
       {
         "source": "reynolds-wilson-2013"
@@ -716,7 +716,7 @@
     "field": "poetry",
     "read_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
     "summary": "The published divan of the greatest Urdu ghazal poet, translated in parts for a century and a half by everyone who loved it, and carried here entire.",
-    "detail": "Ghalib pruned his own divan ruthlessly for its first printing in Delhi in 1841; the rejected verses fill scholarly editions to this day. English has nibbled at it ever since, a ghazal here, a quatrain there, because the radif, the repeated end-phrase every couplet must land on, defeats translators. The complete AI-assisted crossing in this library keeps the radif: in its first ghazal every couplet still lands on 'it is not there'.",
+    "detail": "Ghalib pruned his own divan ruthlessly for its first Delhi lithograph of October 1841; the rejected verses fill scholarly editions to this day. English nibbled for a century and a half, a ghazal here, ten there, because the radif, the repeated end-phrase every couplet must land on, defeats translators; complete versions arrived only with Niazi (2002) and Rahman (2003). The AI-assisted crossing in this library differs in form and address: it keeps the radif, and every line travels with its original and transliteration. In its first ghazal every couplet still lands on 'it is not there'.",
     "sources": [
       {
         "source": "falsafa-2026"

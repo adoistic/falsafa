@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4228
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:18"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Now there came a certain common tramp who used to go begging all over the city of Ithaca, and was notorious as an incorrigible glutton and drunkard. This man had no strength [ biê] nor stay in him, but he was a great hulking fellow to look at; his real name, the one his mother gave him, was Arnaios, but the young men of the place called him Iros, because he used to run errands for any one who would send him. As soon as he came he began to insult Odysseus, and to try and drive him out of his own house.

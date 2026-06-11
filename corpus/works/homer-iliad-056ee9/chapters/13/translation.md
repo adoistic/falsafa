@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 8481
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:13"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Now when Zeus had thus brought Hektor and the Trojans to the ships, he left them to their never-ending toil [ ponos], and turned his keen eyes away, looking elsewhere towards the horse-breeders of Thrace, the Mysians, fighters at close quarters, the noble Hippemolgoi, who live on milk, and the Abians, the most just [ dikaioi] of humankind. He no longer turned so much as a glance towards Troy, for he did not think that any of the immortals would go and help either Trojans or Danaans.

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4076
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:3"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 When the companies were thus arrayed, each under its own leader, the Trojans advanced as a flight of wild fowl or cranes that scream overhead when rain and winter drive them over the flowing waters of Okeanos to bring death and destruction on the Pygmies, and they wrangle in the air as they fly; but the Achaeans marched silently, in high heart, and minded to stand by one another.

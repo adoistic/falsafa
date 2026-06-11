@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5295
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:14"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Nestor was sitting over his wine, but the cry of battle did not escape him, and he said to the son of Asklepios, "What, noble Machaon, is the meaning of all this? The shouts of men fighting by our ships grow stronger and stronger; stay here, therefore, and sit over your wine, while fair Hekamede heats you a bath and washes the clotted blood from off you. I will go at once to the look-out station and see what it is all about."

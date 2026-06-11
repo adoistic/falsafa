@@ -19,7 +19,7 @@
       "description": "The wrath of Achilles in the tenth year of the Trojan war: the founding epic of Greek literature, in English translation from the Perseus Digital Library.",
       "difficulty": "Intermediate",
       "published_year": -750,
-      "translator_override": "Samuel Butler, revised for Perseus"
+      "translator_override": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
       "repo": "canonical-greekLit",
@@ -39,7 +39,7 @@
       "description": "The ten-year homecoming of Odysseus, the second founding epic of Greek literature, in English translation from the Perseus Digital Library.",
       "difficulty": "Intermediate",
       "published_year": -725,
-      "translator_override": "Samuel Butler, revised for Perseus"
+      "translator_override": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
     },
     {
       "repo": "canonical-greekLit",

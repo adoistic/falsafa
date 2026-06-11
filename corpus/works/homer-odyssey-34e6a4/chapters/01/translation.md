@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 4213
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:1"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Tell me, O Muse, of that many-sided hero who traveled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the people with whose customs and thinking [ noos] he was acquainted; many things he suffered at sea while seeking to save his own life [ psukhê] and to achieve the safe homecoming [ nostos] of his companions; but do what he might he could not save his men, for they perished through their own sheer recklessness in eating the cattle of the Sun-god Helios; so the god prevented them from ever reaching home. Tell me, as you have told those who came before me, about all these things, O daughter of Zeus, starting from whatsoever point you choose.

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5278
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:24"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Then Hermes of Cyllene summoned the ghosts [ psukhai] of the suitors, and in his hand he held the fair golden wand with which he seals men's eyes in sleep or wakes them just as he pleases; with this he roused the ghosts and led them, while they followed whining and gibbering behind him. As bats fly squealing in the hollow of some great cave, when one of them has fallen out of the cluster in which they hang, even so did the ghosts whine and squeal as Hermes the healer of sorrow led them down into the dark abode of death. When they had passed the waters of Okeanos and the rock Leukas, they came to the gates of the sun and the dêmos of dreams, whereon they reached the meadow of asphodel where dwell the souls and shadows of them that can labor no more.

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 9154
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:23"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Thus did they make their moan throughout the city, while the Achaeans when they reached the Hellespont went back every man to his own ship. But Achilles would not let the Myrmidons go, and spoke to his brave comrades saying, "Myrmidons, famed horsemen and my own trusted friends, not yet, I say, let us unyoke, but with horse and chariot draw near to the body and mourn Patroklos, in due honor to the dead. When we have had full comfort of lamentation we will unyoke our horses and take supper all of us here."

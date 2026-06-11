@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-06-11T07:03:54.306Z",
+ "generated_at": "2026-06-11T10:37:15.569Z",
  "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
  "counts": {
-  "works": 51,
-  "authors": 30,
+  "works": 52,
+  "authors": 31,
   "eras": 5,
   "genres": 5,
   "languages": 8
@@ -728,7 +728,7 @@
    "total_variant_entries": 24,
    "published_year": -750,
    "difficulty": "Intermediate",
-   "description": "The wrath of Achilles in the tenth year of the Trojan war: the founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised for Perseus.",
+   "description": "The wrath of Achilles in the tenth year of the Trojan war: the founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised by Timothy Power and Gregory Nagy.",
    "thothica_role": "catalog"
   },
   {
@@ -747,7 +747,7 @@
    "total_variant_entries": 24,
    "published_year": -725,
    "difficulty": "Intermediate",
-   "description": "The ten-year homecoming of Odysseus, the second founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised for Perseus.",
+   "description": "The ten-year homecoming of Odysseus, the second founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised by Timothy Power and Gregory Nagy.",
    "thothica_role": "catalog"
   },
   {
@@ -977,6 +977,25 @@
    "difficulty": "Advanced",
    "description": "The axiomatic compilation of Greek geometry, read in Arabic before Europe read it in Greek; the atlas traces that journey. In English translation from the Perseus Digital Library. Translated by Thomas Little Heath.",
    "thothica_role": "catalog"
+  },
+  {
+   "slug": "gustave-de-molinari-the-society-of-tomorrow-3bed3e",
+   "title": "The Society of Tomorrow",
+   "author": "Gustave de Molinari",
+   "author_slug": "gustave-de-molinari",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Political & Social Theory",
+   "genre_slug": "political-social-theory",
+   "language": "French",
+   "language_slug": "french",
+   "language_direction": "ltr",
+   "total_logical_chapters": 32,
+   "total_variant_entries": 32,
+   "published_year": 1899,
+   "difficulty": "Intermediate",
+   "description": "Molinari's late forecast of a world ordered by free contract: the state of war giving way to the state of peace, written at the end of six decades of argument. The 1904 English edition, from the shelves of David Hart's Digital Library of Liberty and Power. Translated by P. H. Lee Warner (1904).",
+   "thothica_role": "catalog"
   }
  ],
  "authors": {
@@ -1180,6 +1199,12 @@
    "works": [
     "euclid-elements-d711e4"
    ]
+  },
+  "gustave-de-molinari": {
+   "name": "Gustave de Molinari",
+   "works": [
+    "gustave-de-molinari-the-society-of-tomorrow-3bed3e"
+   ]
   }
  },
  "eras": {
@@ -1244,7 +1269,8 @@
     "mirza-ghalib-diwan-e-ghalib-74ed4c",
     "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
     "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
-    "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+    "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+    "gustave-de-molinari-the-society-of-tomorrow-3bed3e"
    ]
   },
   "enlightenment": {
@@ -1311,7 +1337,8 @@
     "charles-comte-traite-de-legislation-vol-ii-20331d",
     "charles-comte-traite-de-legislation-vol-iii-ca589a",
     "charles-comte-traite-de-legislation-vol-iv-bca040",
-    "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+    "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+    "gustave-de-molinari-the-society-of-tomorrow-3bed3e"
    ]
   },
   "philosophy": {
@@ -1397,7 +1424,8 @@
     "charles-comte-traite-de-legislation-vol-iii-ca589a",
     "charles-comte-traite-de-legislation-vol-iv-bca040",
     "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
-    "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+    "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+    "gustave-de-molinari-the-society-of-tomorrow-3bed3e"
    ]
   },
   "german": {

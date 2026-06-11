@@ -10,7 +10,7 @@ era: Ancient
 genre: Literature
 language: Greek
 language_direction: ltr
-description: "The wrath of Achilles in the tenth year of the Trojan war: the founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised for Perseus."
+description: "The wrath of Achilles in the tenth year of the Trojan war: the founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised by Timothy Power and Gregory Nagy."
 difficulty: Intermediate
 published_year: -750
 total_logical_chapters: 24
@@ -20,7 +20,7 @@ thothica_role: catalog
 
 # Iliad
 
-The wrath of Achilles in the tenth year of the Trojan war: the founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised for Perseus.
+The wrath of Achilles in the tenth year of the Trojan war: the founding epic of Greek literature, in English translation from the Perseus Digital Library. Translated by Samuel Butler, revised by Timothy Power and Gregory Nagy.
 
 ## Chapters
 

@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5537
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:22"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Thus the Trojans in the city, scared like fawns, wiped the sweat from off them and drank to quench their thirst, leaning against the goodly battlements, while the Achaeans with their shields laid upon their shoulders drew close up to the walls. But stern fate bade Hektor stay where he was before Ilion and the Scaean gates. Then Phoebus Apollo spoke to the son of Peleus saying, "Why, son of Peleus, do you, who are but man, give chase to me who am immortal? Have you not yet found out that it is a god whom you pursue so furiously? You did not inflict struggles [ ponos] on the Trojans whom you had routed, and now they are within their walls, while you have been decoyed hither away from them. Me you cannot kill, for death can take no hold upon me."

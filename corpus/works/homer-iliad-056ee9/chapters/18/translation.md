@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 6077
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:18"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 Thus then did they fight as it were a flaming fire. Meanwhile the fleet runner Antilokhos, who had been sent as messenger, reached Achilles, and found him sitting by his tall ships and boding that which was indeed too surely true. "Alas," said he to himself in the heaviness of his heart, "why are the Achaeans again scouring the plain and flocking towards the ships? Heaven grant the gods be not now bringing that sorrow upon me of which my mother Thetis spoke, saying that while I was yet alive the bravest of the Myrmidons should fall before the Trojans, and see the light of the sun no longer. I fear the brave son of Menoitios has fallen through his own daring and yet I bade him return to the ships as soon as he had driven back those that were bringing fire against them, and not join battle with Hektor."

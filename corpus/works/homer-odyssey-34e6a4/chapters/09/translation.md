@@ -15,7 +15,7 @@ language_direction: ltr
 script: latin
 word_count: 5872
 source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:9"
-translator: Samuel Butler, revised for Perseus
+translator: Samuel Butler, revised by Timothy Power and Gregory Nagy
 ---
 
 And Odysseus answered, "King Alkinoos, it is a good thing to hear a bard with such a divine voice as this man has. There is nothing better or more delightful than when merriment [ euphrosunê] prevails over a whole dêmos, with the guests sitting orderly to listen, while the table is loaded with bread and meats, and the cup-bearer draws wine and fills his cup for every man. This is indeed as fair a sight as a man can see. Now, however, since you are inclined to ask the story of my sorrows, and rekindle my own sad memories in respect of them, I do not know how to begin, nor yet how to continue and conclude my tale, for the hand of heaven has been laid heavily upon me.

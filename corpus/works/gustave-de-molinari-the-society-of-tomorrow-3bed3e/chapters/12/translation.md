@@ -1,0 +1,39 @@
+---
+work_id: "3bed3e21-0098-5a01-83ce-3f05144abb7f"
+work_slug: "gustave-de-molinari-the-society-of-tomorrow-3bed3e"
+work_title: The Society of Tomorrow
+author_name: Gustave de Molinari
+chapter_number: 12
+chapter_title: Chapter III Free Constitution of Governments and Their Natural Functions
+chapter_slug: 12
+variant_id: "79102126-c14d-5cb8-b541-90eea0165be4"
+content_type: translation
+layout: prose
+language: english
+source_language: French
+language_direction: ltr
+script: latin
+word_count: 1131
+source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
+translator: thothica
+---
+
+We have seen that political sovereignty grew out of the right of property. Warlike societies seized a territory and its inhabitants for the purpose of founding a political State. The conquerors, become owners, used the lives and property of subjects according to their absolute will. To maintain States against the pressure of political and armed competition it was necessary to concentrate the rights of sovereignty. They became hereditary in the family of a chief, who might justifiably have used the words of Louis XIV., "l'Etat c'est moi!" This chief might grant his subjects certain rights, such as the rights of labour, exchange, and testamentary disposition; also certain guarantees of property and liberty. But permissions of this kind were entirely voluntary; he retained his owner's right of resumption. Moreover, he maintained absolute claims on life, liberty, and property to be used as, and whenever, required for the maintenance and welfare of the State. This supreme power—an attribute of sovereignty—has passed to the modern State, whose citizens delegate its exercise to government. Its original justification was the destruction, or dispossession, with which political and warlike competition continually menaced the proprietary association in each State. Conquest, to-day, implies little more than a nominal change of allegiance, and the damages which it inflicts are rather moral than material. But the right survives, though in a contracted form, and it will continue to exist while the nations are compelled to rely upon war as their sole guarantee against aggression, or the sole means of enforcing what each claims to be justice in cases of dispute.
+
+But if security and rights are no longer weakened because a collective guarantee replaces the guarantee which each nation provided for itself, as the national assurance of protection has replaced the system of individual self-defence, the position is at once reversed, war ceases, and with it all need for that unlimited right of requisition over life, liberty, and property, which is the inevitable attribute of a government charged with maintaining national liberties during a State of War. Under the new order, the charges and services which the requirements of national security demand of the individual, will cease to be uncertain or contingent. They will become capable of valuation and a permanent assessment since they are:—
+
+1. That every citizen shares in a guarantee of the civilised community against barbarian hordes or nations in an inferior state of civilisation, and outside the collective guarantee. But the extraordinary advances in the industries of production and destruction have given civilisation so great a prepotency that risks of this class are insignificant, and 100,000 men can easily maintain the frontiers of the civilised world against all attacks.
+
+2. That every citizen helps to maintain a collective force, which shall be strong enough to execute the verdicts of international justice upon States refusing obedience, or attempting forcibly to maintain a personal estimate of right. A collective guarantee of the peace of nations entails absolute surrender, by each guarantor, of the rights of individual judgment and individual execution of judgment. This surrender was long since imposed upon all subjects of a State, as the sole basis of social security, and it is universally observed except by the criminal and the duellist. Criminals break this obligation in blind obedience to the dictates of cupidity, or those other passions which are only capable of satisfaction at the expense of another. Duellists justify their default by denying the sufficiency of a collective justice in the case of certain personal offences. Society is usually content to ignore the duellist while carefully abstaining from any recognition of a claim which is in direct negation to its own; but it pursues the criminal so unceasingly that a numerically inconsiderable force of police is able to guarantee—though more or less imperfectly—individual life and property.
+
+Civilised States could not be treated as criminals, but the instinct for war and a false idea of national honour might place nations in the relative position of duellists. The collective guarantee would intervene, at such a time, to enforce their renunciation of the right of personal justice, and to affirm the State of Peace. Every interposition of this kind would be a new demonstration of the irresistible power of the collective sanction, and the strongest member of the association must soon recognise its relative impotence. Then the guarantors may disband their contingent of armed forces, for public opinion will suffice to sanction the decrees of international justice. The guarantee of internal peace and external security will then only require an insignificant and constantly diminishing contribution from the members of the confederated States.
+
+The primacy of national interest over all other claims ceases, at this point, to demand an absolute right of requisition over individual life, property, and liberty, so that it is possible to ascertain the exact and inviolable relation of individual and governmental rights. And we shall see that this adjustment will be fixed and determined by the nature of the public services and the conditions of their production.
+
+Public services are the natural attributes of government, and are of two classes—general and local. General services are within the sphere of government proper; local services belong to provincial and local administrations.
+
+The first duty of government is to ensure internal and external security to nation and citizen alike. Services proper to it differ essentially from those of the private association for they are naturally collective. Armies secure an entire nation from external aggression, and a police force exists for the equal benefit of all who inhabit the district which it serves. It is therefore no less necessary than just that all consumers of these naturally collective services should contribute to their cost in proportion to the service rendered and the benefit received. The failure of one consumer to bear his quota of the costs of such production reacts on the entire community, who are compelled to bear a proportion of his defalcations over and above their own contribution.
+
+It seems almost superfluous to insist on the essential minority of naturally collective services. A police force serves every inhabitant of the districts in which it acts, but the mere establishment of a bakery does not appease their hunger. Bread, with all other victual, clothes, &c., are articles of naturally individual consumption; social security is an article of naturally collective consumption.
+
+The substitution of a collective guarantee of peace for the individual action of each State must, consequently, restrict the number of functions, which are the natural and essential duty of government, to:— A share in the common defensive apparatus protecting the association from external aggression; A share in the machinery which guarantees internal peace within the association; The provision of internal security within its own State, and the further performance of those services which are naturally and essentially collective.

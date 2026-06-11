@@ -25,8 +25,13 @@ import { resolve } from "node:path";
 const root = resolve(import.meta.dir, "..", "..");
 const tempDir = resolve(root, ".perseus-corpus-tmp");
 
-if (!existsSync(resolve(root, "perseus-works.json"))) {
-  console.error("perseus-works.json not found. Run scripts/perseus/ingest.ts first.");
+// Default input pair is the Perseus tranche; pass another pair as CLI args
+// (e.g. hart-works.json hart-audit.json) to apply a different additive set.
+const worksFile = process.argv[2] ?? "perseus-works.json";
+const auditFile = process.argv[3] ?? "perseus-audit.json";
+
+if (!existsSync(resolve(root, worksFile))) {
+  console.error(`${worksFile} not found. Run the matching ingester first.`);
   process.exit(1);
 }
 
@@ -38,9 +43,9 @@ execFileSync(
     "run",
     resolve(root, "scripts/convert.ts"),
     "--works",
-    "perseus-works.json",
+    worksFile,
     "--audit",
-    "perseus-audit.json",
+    auditFile,
     "--out",
     ".perseus-corpus-tmp",
   ],
