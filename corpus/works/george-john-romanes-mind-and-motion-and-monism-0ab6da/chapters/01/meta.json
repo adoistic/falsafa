@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-john-romanes-mind-and-motion-and-monism-0ab6da",
+  "work_title": "Mind and Motion and Monism",
+  "chapter_number": 1,
+  "chapter_title": "Chapter I",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "65e4f1c3-ea1d-5823-a083-4615133615a5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1883,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/22283"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "henri-bergson-laughter-an-essay-on-the-meaning-4ca582",
+  "work_title": "Laughter: An Essay on the Meaning of the Comic",
+  "chapter_number": 3,
+  "chapter_title": "Chapter III",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9d4fcbd8-3214-5098-8a15-b428e7b90372",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 13645,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4352"
+    }
+  ]
+}

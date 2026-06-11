@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-alexander-gunn-modern-french-philosophy-a-study-6b06ab",
+  "work_title": "Modern French Philosophy: A Study of the Development Since Comte",
+  "chapter_number": 6,
+  "chapter_title": "Chapter VI — ETHICS",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c3665d16-b5f6-576b-bb13-74cc5df87565",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 15548,
+      "paragraph_count": 147,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5246"
+    }
+  ]
+}

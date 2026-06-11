@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-alexander-gunn-bergson-and-his-philosophy-6671b6",
+  "work_title": "Bergson and His Philosophy",
+  "chapter_number": 14,
+  "chapter_title": "Section II — Books dealing Indirectly with Bergson",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "04b015a8-ef57-5710-8c5d-9d9d8e95c92a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1006,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5717"
+    }
+  ]
+}

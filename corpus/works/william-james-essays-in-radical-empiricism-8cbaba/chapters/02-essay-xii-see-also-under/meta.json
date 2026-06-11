@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-james-essays-in-radical-empiricism-8cbaba",
+  "work_title": "Essays in Radical Empiricism",
+  "chapter_number": 2,
+  "chapter_title": "Essay XII — _See also_ under",
+  "chapter_slug": "02-essay-xii-see-also-under",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f951292c-7d0d-5f09-a0b4-ed103ab79427",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 82,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/32547"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "lewis-carroll-the-game-of-logic-8f7431",
+  "work_title": "The Game of Logic",
+  "chapter_number": 1,
+  "chapter_title": "Chapter I",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "820084c3-9f4a-547d-8789-62a37ddaaed5",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7326,
+      "paragraph_count": 182,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4763"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+---
+work_id: "02c22a08-1a27-5e79-98a5-a318a9a0586e"
+work_slug: "baruch-spinoza-ethics-02c22a"
+work_title: Ethics
+author_name: Baruch Spinoza
+chapter_number: 5
+chapter_title: Part I — I showed in general terms, that all things (and
+chapter_slug: 05
+variant_id: "ce703e10-f4a8-53ce-bbe0-de16f6c39da6"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 2248
+source_url: "https://www.gutenberg.org/ebooks/3800"
+translator: Project Gutenberg edition
+---
+
+consequently, also, the human mind) depend as to their essence and existence on God, yet that demonstration, though legitimate and placed beyond the chances of doubt, does not affect our mind so much, as when the same conclusion is derived from the actual essence of some particular thing, which we say depends on God.
+
+PROP. XXXVII. There is nothing in nature, which is contrary to this intellectual love, or which can take it away.
+
+Proof.--This intellectual love follows necessarily from the nature of the mind, in so far as the latter is regarded through the nature of God as an eternal truth (V. xxxiii. and xxix.). If, therefore, there should be anything which would be contrary to this love, that thing would be contrary to that which is true; consequently, that, which should be able to take away this love, would cause that which is true to be false; an obvious absurdity. Therefore there is nothing in nature which, &c. Q.E.D.
+
+Note.--The Axiom of Part IV. has reference to particular things, in so far as they are regarded in relation to a given time and place: of this, I think, no one can doubt.
+
+PROP. XXXVIII. In proportion as the mind understands more things by the second and third kind of knowledge, it is less subject to those emotions which are evil, and stands in less fear of death.
+
+Proof.--The mind's essence consists in knowledge (II. xi.); therefore, in proportion as the mind understands more things by the second and third kinds of knowledge, the greater will be the part of it that endures (V. xxix. and xxiii.), and, consequently (by the last Prop.), the greater will be the part that is not touched by the emotions, which are contrary to our nature, or in other words, evil (IV. xxx.). Thus, in proportion as the mind understands more things by the second and third kinds of knowledge, the greater will be the part of it, that remains unimpaired, and, consequently, less subject to emotions, &c. Q.E.D.
+
+Note.--Hence we understand that point which I touched on in IV. xxxix. note, and which I promised to explain in this Part; namely, that death becomes less hurtful, in proportion as the mind's clear and distinct knowledge is greater, and, consequently, in proportion as the mind loves God more. Again, since from the third kind of knowledge arises the highest possible acquiescence (V. xxvii.), it follows that the human mind can attain to being of such a nature, that the part thereof which we have shown to perish with the body (V. xxi.) should be of little importance when compared with the part which endures. But I will soon treat of the subject at greater length.
+
+PROP. XXXIX. He, who possesses a body capable of the greatest number of activities, possesses a mind whereof the greatest part is eternal.
+
+Proof.--He, who possesses a body capable of the greatest number of activities, is least agitated by those emotions which are evil (IV. xxxviii.)--that is (IV. xxx.), by those emotions which are contrary to our nature; therefore (V. x.), he possesses the power of arranging and associating the modifications of the body according to the intellectual order, and, consequently, of bringing it about, that all the modifications of the body should be referred to the idea of God; whence it will come to pass that (V. xv.) he will be affected with love towards God, which (V. xvi.) must occupy or constitute the chief part of the mind; therefore (V. xxxiii.), such a man will possess a mind whereof the chief part is eternal. Q.E.D.
+
+Note.--Since human bodies are capable of the greatest number of activities, there is no doubt but that they may be of such a nature, that they may be referred to minds possessing a great knowledge of themselves and of God, and whereof the greatest or chief part is eternal, and, therefore, that they should scarcely fear death. But, in order that this may be understood more clearly, we must here call to mind, that we live in a state of perpetual variation, and, according as we are changed for the better or the worse, we are called happy or unhappy.
+
+For he, who, from being an infant or a child, becomes a corpse, is called unhappy; whereas it is set down to happiness, if we have been able to live through the whole period of life with a sound mind in a sound body. And, in reality, he, who, as in the case of an infant or a child, has a body capable of very few activities, and depending, for the most part, on external causes, has a mind which, considered in itself alone, is scarcely conscious of itself, or of God, or of things; whereas, he, who has a body capable of very many activities, has a mind which, considered in itself alone, is highly conscious of itself, of God, and of things. In this life, therefore, we primarily endeavour to bring it about, that the body of a child, in so far as its nature allows and conduces thereto, may be changed into something else capable of very many activities, and referable to a mind which is highly conscious of itself, of God, and of things; and we desire so to change it, that what is referred to its imagination and memory may become insignificant, in comparison with its intellect, as I have already said in the note to the last Proposition.
+
+PROP. XL. In proportion as each thing possesses more of perfection, so is it more active, and less passive; and, vice versâ, in proportion as it is more active, so is it more perfect.
+
+Proof.--In proportion as each thing is more perfect, it possesses more of reality (II. Def. vi.), and, consequently (III. iii. and note), it is to that extent more active and less passive. This demonstration may be reversed, and thus prove that, in proportion as a thing is more active, so is it more perfect. Q.E.D.
+
+Corollary.--Hence it follows that the part of the mind which endures, be it great or small, is more perfect than the rest. For the eternal part of the mind (V. xxiii. xxix.) is the understanding, through which alone we are said to act (III. iii.); the part which we have shown to perish is the imagination (V. xxi.), through which only we are said to be passive (III. iii. and general Def. of the Emotions); therefore, the former, be it great or small, is more perfect than the latter. Q.E.D.
+
+Note.--Such are the doctrines which I had purposed to set forth concerning the mind, in so far as it is regarded without relation to the body; whence, as also from I. xxi. and other places, it is plain that our mind, in so far as it understands, is an eternal mode of thinking, which is determined by another eternal mode of thinking, and this other by a third, and so on to infinity; so that all taken together at once constitute the eternal and infinite intellect of God.
+
+PROP. XLI. Even if we did not know that our mind is eternal, we should still consider as of primary importance piety and religion, and generally all things which, in Part IV., we showed to be attributable to courage and high--mindedness.
+
+Proof.--The first and only foundation of virtue, or the rule of right living is (IV. xxii. Coroll. and xxiv.) seeking one's own true interest. Now, while we determined what reason prescribes as useful, we took no account of the mind's eternity, which has only become known to us in this Fifth Part. Although we were ignorant at that time that the mind is eternal, we nevertheless stated that the qualities attributable to courage and high--mindedness are of primary importance. Therefore, even if we were still ignorant of this doctrine, we should yet put the aforesaid precepts of reason in the first place. Q.E.D.
+
+Note.--The general belief of the multitude seems to be different. Most people seem to believe that they are free, in so far as they may obey their lusts, and that they cede their rights, in so far as they are bound to live according to the commandments of the divine law. They therefore believe that piety, religion, and, generally, all things attributable to firmness of mind, are burdens, which, after death, they hope to lay aside, and to receive the reward for their bondage, that is, for their piety and religion; it is not only by this hope, but also, and chiefly, by the fear of being horribly punished after death, that they are induced to live according to the divine commandments, so far as their feeble and infirm spirit will carry them.
+
+If men had not this hope and this fear, but believed that the mind perishes with the body, and that no hope of prolonged life remains for the wretches who are broken down with the burden of piety, they would return to their own inclinations, controlling everything in accordance with their lusts, and desiring to obey fortune rather than themselves. Such a course appears to me not less absurd than if a man, because he does not believe that he can by wholesome food sustain his body for ever, should wish to cram himself with poisons and deadly fare; or if, because he sees that the mind is not eternal or immortal, he should prefer to be out of his mind altogether, and to live without the use of reason; these ideas are so absurd as to be scarcely worth refuting.
+
+PROP. XLII. Blessedness is not the reward of virtue, but virtue itself; neither do we rejoice therein, because we control our lusts, but, contrariwise, because we rejoice therein, we are able to control our lusts.
+
+Proof.--Blessedness consists in love towards God (V. xxxvi and note), which love springs from the third kind of knowledge (V. xxxii. Coroll.); therefore this love (III. iii. lix.) must be referred to the mind, in so far as the latter is active; therefore (IV. Def. viii.) it is virtue itself. This was our first point. Again, in proportion as the mind rejoices more in this divine love or blessedness, so does it the more understand (V. xxxii.); that is (V. iii. Coroll.), so much the more power has it over the emotions, and (V. xxxviii.) so much the less is it subject to those emotions which are evil; therefore, in proportion as the mind rejoices in this divine love or blessedness, so has it the power of controlling lusts. And, since human power in controlling the emotions consists solely in the understanding, it follows that no one rejoices in blessedness, because he has controlled his lusts, but, contrariwise, his power of controlling his lusts arises from this blessedness itself. Q.E.D.
+
+Note.--I have thus completed all I wished to set forth touching the mind's power over the emotions and the mind's freedom. Whence it appears, how potent is the wise man, and how much he surpasses the ignorant man, who is driven only by his lusts. For the ignorant man is not only distracted in various ways by external causes without ever gaining the true acquiescence of his spirit, but moreover lives, as it were unwitting of himself, and of God, and of things, and as soon as he ceases to suffer, ceases also to be.
+
+Whereas the wise man, in so far as he is regarded as such, is scarcely at all disturbed in spirit, but, being conscious of himself, and of God, and of things, by a certain eternal necessity, never ceases to be, but always possesses true acquiescence of his spirit.
+
+If the way which I have pointed out as leading to this result seems exceedingly hard, it may nevertheless be discovered. Needs must it be hard, since it is so seldom found. How would it be possible, if salvation were ready to our hand, and could without great labour be found, that it should be by almost all men neglected? But all things excellent are as difficult as they are rare.
+
+End of the Ethics by Benedict de Spinoza
+
+"Affectiones"
+
+"Forma"
+
+"Animata"
+
+A Baconian phrase. Nov. Org. Aph. 100. [Pollock, p. 126, n.]
+
+Conscientiæ morsus--thus rendered by Mr. Pollock.
+
+By "men" in this and the following propositions, I mean men whom we regard without any particular emotion.
+
+So Van Vloten and Bruder. The Dutch version and Camerer read, "an internal cause." "Honor" = Gloria.
+
+See previous endnote.
+
+Ovid, "Amores," II. xix. 4,5. Spinoza transposes the verses.
+
+"Speremus pariter, pariter metuamus amantes;
+
+Ferreus est, si quis, quod sinit alter, amat."
+
+This is possible, though the human mind is part of the divine intellect, as I have shown in II. xiii. note.
+
+Gloria.
+
+Ov. Met. vii.20, "Video meliora proboque, Deteriora sequor."
+
+Honestas
+
+Land reads: "Quod ipsius agendi potentia juvatur"--which I have translated above. He suggests as alternative readings to 'quod', 'quo' (= whereby) and 'quodque' (= and that).
+
+"Maltim praesens minus prae majori futuro." (Van Vloten). Bruder reads: "Malum praesens minus, quod causa est faturi alicujus mali." The last word of the latter is an obvious misprint, and is corrected by the Dutch translator into "majoris boni." (Pollock, p. 268, note.)
+
+Continuo. Rendered "constantly" by Mr. Pollock on the ground that the classical meaning of the word does not suit the context. I venture to think, however, that a tolerable sense may be obtained without doing violence to Spinoza's scholarship.
+
+Affectiones. Camerer reads affectus----emotions.

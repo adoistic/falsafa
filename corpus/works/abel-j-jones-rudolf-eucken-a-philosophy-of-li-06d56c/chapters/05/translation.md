@@ -1,0 +1,47 @@
+---
+work_id: "06d56c4d-1e9a-5f0a-a8b3-d79a11e785e3"
+work_slug: "abel-j-jones-rudolf-eucken-a-philosophy-of-li-06d56c"
+work_title: "Rudolf Eucken: A Philosophy of Life"
+author_name: Abel J. Jones
+chapter_number: 5
+chapter_title: Chapter V
+chapter_slug: 05
+variant_id: "183e059b-5c12-554d-baeb-976cdf4501ad"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 1521
+source_url: "https://www.gutenberg.org/ebooks/14357"
+translator: Project Gutenberg edition
+---
+
+THE "HIGH" AND THE "LOW"
+
+Eucken makes the recognition of the existence of a Universal Spiritual Life the starting-point of his constructive work. He takes up a position which he calls the nöological position. Many theories take up a materialistic position; they assert the reality of the material world, and endeavour to explain the world of matter as something independent of the human mind. Other theories assert the superiority of mind over matter, and endeavour to examine the mind as though it were independent of the material world. These two types of theories have been in continual conflict; the one has attempted to prove that thought is entirely conditioned by sense impressions received from the material world, the other regards the phenomena of nature as really nothing other than processes of the mind.
+
+Eucken finds reality existing in the spiritual life, which while neither material nor merely mental, is superior to both, admits the existence (in a certain sense) of both, and does away with the opposition between the rival types of theories. Eucken does not minimise or ignore the existence of the natural world. The question for him is not the independent existence of the worlds of nature and mind--this he admits; he is concerned rather with the superiority of the spiritual life over the merely material and mental.
+
+The natural life of man has been variously viewed in different ages. The writer of the Pentateuch described man as made in the image of God, and the natural man was exalted on this account. Some of the old Greek philosophers, too, found much in nature that was divine. Christianity took a different view of the matter--it exalted the spirit, and emphasised the baseness of the material. The growth of the sciences made man again a mere tool of laws and methods, but it considered matter as superior to mind, mind being entirely dependent upon impressions received from matter. The question continually recurs--which is the high, which is the low? Shall nature triumph over spirit, or spirit over nature?
+
+Pantheism replies to the question by denying that there is anything high as distinguished from the low. There is but one; and that one--the whole universe--is God. There is no evil in the world, says pantheism, everything is good--if we could understand things as they really are we should find no oppositions in the universe, and no contradictions in the nature of things. The world as it is, is the best of all possible worlds--there is perfect harmony, though we fail to appreciate it. Other optimistic theories, too, deny the existence of evil and pain, and try to explain our ideas of sin to be mere "points of view." If we could see the whole, they tell us, we should see how the parts harmonise, but now we only see some of the parts and fail to appreciate the harmony. In this way they try to explain away as unreal the phenomena of evil and pain.
+
+But Eucken has no patience with such theories. For him the oppositions and contradictions of life are too real and persistent. The antagonisms "stir us with disgust and indignation." Evil cannot be considered trivial, and must not be glossed over; it is in the world, and the more deeply we appreciate the fact the better it will be for the human soul.
+
+Man in his lower stages of development is just a child of nature, and his standards of life are those of the lower world. He seeks those things that satisfy the senses, he attempts the satiation of the lower cravings. In the realm of morals his standard is utility--that is good which helps him to obtain more pleasure and to avoid pain. In social life his conduct is dictated by custom--this is the highest appeal. The development of man along the lines of nature ends at this point--and if nothing more is to happen, then he must remain at a low level of development. Matter and mind cannot take him beyond--the mind as such only helps towards the further satisfaction of the lower demands of man.
+
+But there is something far greater in highly developed manhood than the petty and selfish. Man is capable of conceiving and adopting higher standards of morality than those of utility and pleasure, and it is the spiritual life that enables him to do this. It is the spiritual that frees the individual from the slavery of the sense world--from his selfishness and superficial interests--that teaches him to care less for the things of the flesh, and far more for the beautiful, the good, and the true, and that enables him to pursue high aims regardless of the fact that they may entail suffering and loss in other directions. This, then, is the "High" in the world; the natural life is the "Low."
+
+But what is the relation of the natural to the spiritual life? In the first place, the spiritual cannot be derived from the natural, inasmuch as the former is immensely superior to the latter, and that not merely in degree, but in its very essence. The spiritual is entirely on a higher plane of reality, and there cannot be transition from the natural to the spiritual world. The natural has its limitations, and beyond these cannot go. So far as the natural world is concerned man can never rise above seeking for pleasure, and making expediency and social approbation the standards of life, hence there is little wonder that those ethical teachers who make nature their basis, deny the possibility of action that is unselfish and free. "The Spiritual Life," however, as Eucken says, "has an independent origin, and evolves new powers and standards."
+
+Neither do the two aspects run together in life in parallel lines. On the contrary, the spiritual life cannot manifest itself at all until a certain stage of development is reached in nature. It would seem impossible to conceive of the animal rising above its animal instincts and tendencies; its whole life is conditioned by its animal nature and its environment. Man stands at the junction of the stages between the purely natural and the purely spiritual. On the one hand, he is a member of the animal world, he has its instincts, its desires and its limitations; on the other hand, he has within him the germ of spirituality. He belongs to both worlds, the natural and the spiritual. He cannot shake off the natural and remain a man--to separate the two means death to man as we know him. But there is a great difference between his position in the natural world and his position in the spiritual world. He seems to be the last word in the world of nature, he has reached heights far beyond those reached by any other flesh and blood. He is, so far as we know, the culminating point of natural evolution--the final possibility in the natural world. But the stage of nature only represents the first stage in the development of the universe.
+
+There is an infinitely higher stage of life, the spiritual life. And if man is the final point of progress in the world of nature, he is, in his primitive state, only at the threshold of the spiritual world. But he is not an entire stranger to the spiritual--the germ is in him, and the spiritual is consequently not an alien world for him. If the spiritual were something entirely foreign it would be vain to expect much progress through mere impulses from without. On the contrary, it is the spiritual that makes man really great, and is the most fundamental part of his nature.
+
+The two stages of life, then, are present in man--the natural and the spiritual; the former highly developed, the latter, at first, in an undeveloped state.
+
+Now the great aim of the universe is to pass gradually from the natural to the spiritual plane of life. This does not mean that the latter is the product of the former stage, for this is not the case. It means that the deeper reality in life is the spiritual, and that the spiritual develops through the natural in its own particular way. And this particular way is not a mere development but a *self*-development. The aim of the spiritual is to develop its own self through the human being. In this way man is given the possibility of developing a self--a personality in a very real sense.
+
+Thus we arrive at some idea of the relation there exists between the spiritual and the natural, and of the place of the spiritual and the natural in man. The spiritual is neither the product nor an attribute of the natural. Man is the border creature of the two worlds; he represents the ultimate possibility of the one, and possesses potentialities in regard to the other. The great object of his life must be to develop, through making use of and conquering the life of nature, his higher self into a free, spiritual, and immortal personality. The progressive stages in this direction must be dealt with in the next chapter.

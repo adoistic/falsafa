@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-critical-miscellanies-vol-3-essa-de642d",
+  "work_title": "Critical Miscellanies, Vol. 3, Essay 10: Auguste Comte",
+  "chapter_number": 1,
+  "chapter_title": "Critical Miscellanies, Vol. 3, Essay 10: Auguste Comte",
+  "chapter_slug": "01-critical-miscellanies-vol-3-essay-10-auguste-comte",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "12619c39-6f04-5e48-910e-7a335275815f",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12245,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/29033"
+    }
+  ]
+}

@@ -1,0 +1,922 @@
+[
+  {
+    "id": "p-ccef33",
+    "offset": 0,
+    "text": "*Of Reduction.*"
+  },
+  {
+    "id": "p-9e7f5d",
+    "offset": 17,
+    "text": "§ 667. We revert now to the standpoint of the old logicians, who regarded the Dictum de Omni et Nullo as the principle of all syllogistic reasoning. From this point of view the essence of mediate inference consists in showing that a special case, or class of cases, comes under a general rule. But a great deal of our ordinary reasoning does not conform to this type. It was therefore judged necessary to show that it might by a little manipulation be brought into conformity with it. This process is called Reduction."
+  },
+  {
+    "id": "p-439df8",
+    "offset": 537,
+    "text": "§ 668. Reduction is of two kinds--"
+  },
+  {
+    "id": "p-07831b",
+    "offset": 573,
+    "text": "(1) Direct or Ostensive."
+  },
+  {
+    "id": "p-13f456",
+    "offset": 599,
+    "text": "(2) Indirect or Ad Impossibile."
+  },
+  {
+    "id": "p-541740",
+    "offset": 632,
+    "text": "§ 669. The problem of direct, or ostensive, reduction is this--"
+  },
+  {
+    "id": "p-ff4e44",
+    "offset": 697,
+    "text": "Given any mood in one of the imperfect figures (II, III and IV) how to alter the form of the premisses so as to arrive at the same conclusion in the perfect figure, or at one from which it can be immediately inferred. The alteration of the premisses is effected by means of immediate inference and, where necessary, of transposition."
+  },
+  {
+    "id": "p-0f4996",
+    "offset": 1032,
+    "text": "§ 670. The problem of indirect reduction, or reductio (per deductionem) ad impossibile, is this--Given any mood in one of the imperfect figures, to show by means of a syllogism in the perfect figure that its conclusion cannot be false."
+  },
+  {
+    "id": "p-9168b0",
+    "offset": 1269,
+    "text": "§ 671. The object of reduction is to extend the sanction of the Dictum de Omni et Nullo to the imperfect figures, which do not obviously conform to it."
+  },
+  {
+    "id": "p-56074e",
+    "offset": 1422,
+    "text": "§ 672. The mood required to be reduced is called the Reducend; that to which it conforms, when reduced, is called the Reduct."
+  },
+  {
+    "id": "p-8d25a5",
+    "offset": 1549,
+    "text": "*Direct or Ostensive Reduction.*"
+  },
+  {
+    "id": "p-832b15",
+    "offset": 1583,
+    "text": "§ 673. In the ordinary form of direct reduction, the only kind of immediate inference employed is conversion, either simple or by limitation; but the aid of permutation and of conversion by negation and by contraposition may also be resorted to."
+  },
+  {
+    "id": "p-c3edc6",
+    "offset": 1830,
+    "text": "§ 674. There are two moods, Baroko and Bokardo, which cannot be reduced ostensively except by the employment of some of the means last mentioned. Accordingly, before the introduction of permutation into the scheme of logic, it was necessary to have recourse to some other expedient, in order to demonstrate the validity of these two moods. Indirect reduction was therefore devised with a special view to the requirements of Baroko and Bokardo: but the method, as will be seen, is equally applicable to all the moods of the imperfect figures."
+  },
+  {
+    "id": "p-71efd2",
+    "offset": 2373,
+    "text": "§ 675. The mnemonic lines, 'Barbara, Celarent, etc., provide complete directions for the ostensive reduction of all the moods of the second, third, and fourth figures to the first, with the exception of Baroko and Bokardo. The application of them is a mere mechanical trick, which will best be learned by seeing the process performed."
+  },
+  {
+    "id": "p-a12592",
+    "offset": 2709,
+    "text": "§ 676. Let it be understood that the initial consonant of each name of a figured mood indicates that the reduct will be that mood which begins with the same letter. Thus the B of Bramantip indicates that Bramantip, when reduced, will become Barbara."
+  },
+  {
+    "id": "p-65c4c9",
+    "offset": 2960,
+    "text": "§ 677. Where m appears in the name of a reducend, me shall have to take as major that premiss which before was minor, and vice versa-in other words, to transpose the premisses, m stands for mutatio or metathesis."
+  },
+  {
+    "id": "p-86c31e",
+    "offset": 3174,
+    "text": "§ 678. s, when it follows one of the premisses of a reducend, indicates that the premiss in question must be simply converted; when it follows the conclusion, as in Disamis, it indicates that the conclusion arrived at in the first figure is not identical in form with the original conclusion, but capable of being inferred from it by simple conversion. Hence s in the middle of a name indicates something to be done to the original premiss, while s at the end indicates something to be done to the new conclusion."
+  },
+  {
+    "id": "p-143d61",
+    "offset": 3689,
+    "text": "§ 679. P indicates conversion per accidens, and what has just been said of s applies, mutatis mutandis, to p."
+  },
+  {
+    "id": "p-51c50f",
+    "offset": 3800,
+    "text": "§ 680. k may be taken for the present to indicate that Baroko and Bokardo cannot be reduced ostensively."
+  },
+  {
+    "id": "p-802c43",
+    "offset": 3906,
+    "text": "§ 681. FIGURE II."
+  },
+  {
+    "id": "p-fb43d5",
+    "offset": 3925,
+    "text": "Cesare. \\ / Celarent. No A is B. \\ = / No B is A. All C is B. / \\ All C is B. .'. No C is A. / \\ .'. No C is A."
+  },
+  {
+    "id": "p-3f8801",
+    "offset": 4038,
+    "text": "Camestres. \\ / Celarent. All A is B. \\ = / No B is C. No C is B. / \\ All A is B. .'. No C is A. / \\ .'. No A is C. .'. No C is A."
+  },
+  {
+    "id": "p-b41088",
+    "offset": 4169,
+    "text": "Festino. Ferio. No A is B. \\ / No B is A. Some C is B. | = | Some C is B. .'. Some C is not A./ \\ .'. Some C is not A. [Baroko]"
+  },
+  {
+    "id": "p-d9dc9d",
+    "offset": 4298,
+    "text": "§ 682. FIGURE III."
+  },
+  {
+    "id": "p-3f9141",
+    "offset": 4318,
+    "text": "Darapti. \\ / Darii. All B is A. \\ = / All B is A. All B is C. / \\ Some C is B. .'. Some C is A. / \\ Some C is A."
+  },
+  {
+    "id": "p-8e73f0",
+    "offset": 4432,
+    "text": "Disamis. \\ / Darii. Some B is A. \\ = / All B is C. All B is C. / \\ Some A is B. .'. Some C is A. / \\ .'. Some A is C. .'. Some C is A."
+  },
+  {
+    "id": "p-7b5f14",
+    "offset": 4568,
+    "text": "Datisi. \\ / Darii. All B is A. \\ = / All B is A. Some B is C. / \\ Some C is B. .'. Some C is A. / \\ .'. Some C is A."
+  },
+  {
+    "id": "p-4ecd9f",
+    "offset": 4686,
+    "text": "Felapton. \\ / Ferio. No B is A. \\ = / No B is A. All B is C. / \\ Some C is B. .'. Some C is not-A. / \\ .'. Some C is not-A."
+  },
+  {
+    "id": "p-a206a9",
+    "offset": 4811,
+    "text": "[Bokardo]."
+  },
+  {
+    "id": "p-0484e1",
+    "offset": 4823,
+    "text": "Ferison. \\ / Ferio. No B is A. \\ = / No B is A. Some B is C. / \\ Some C is B .'. Some C is not A. / \\ .'. Some C is not A."
+  },
+  {
+    "id": "p-be8cc7",
+    "offset": 4947,
+    "text": "§ 683. FIGURE IV."
+  },
+  {
+    "id": "p-8158a7",
+    "offset": 4966,
+    "text": "Bramantip. \\ / Barbara. All A is B. \\ = / All B is C. All B is C. / \\ All A is B. .. Some C is A. / \\ .. All A is C. .'. Some C is A."
+  },
+  {
+    "id": "p-545061",
+    "offset": 5101,
+    "text": "Camenes Celarent All A is B \\ / No B is C. No B is C. | = | All A is B. .. No C is A./ \\ .'. No A is C. .'. No C is A."
+  },
+  {
+    "id": "p-c4b25d",
+    "offset": 5221,
+    "text": "Dimaris. Darii. Some A is B. \\ / All B is C. All B is C. | = | Some A is B. .'. Some C is A./ \\ .'. Some A is C. .'. Some C is A."
+  },
+  {
+    "id": "p-df4f4a",
+    "offset": 5352,
+    "text": "Fesapo. Ferio. No A is B. \\ / No B is A. All B is C. | = | Some C is B. .'. Some C is not A./ \\ .'. Some C is not A."
+  },
+  {
+    "id": "p-a21b93",
+    "offset": 5470,
+    "text": "Fresison. Ferio. No A is B. \\ / No B is A. Some B is C. | = | Some C is B. .'. Some C is not A./ \\ .'. Some C is not A."
+  },
+  {
+    "id": "p-1f3b50",
+    "offset": 5591,
+    "text": "§ 684. The reason why Baroko and Bokardo cannot be reduced ostensively by the aid of mere conversion becomes plain on an inspection of them. In both it is necessary, if we are to obtain the first figure, that the position of the middle term should be changed in one premiss. But the premisses of both consist of A and 0 propositions, of which A admits only of conversion by limitation, the effect of which would be to produce two particular premisses, while 0 does not admit of conversion at all,"
+  },
+  {
+    "id": "p-e5bbd9",
+    "offset": 6089,
+    "text": "It is clear then that the 0 proposition must cease to be 0 before we can get any further. Here permutation comes to our aid; while conversion by negation enables us to convert the A proposition, without loss of quantity, and to elicit the precise conclusion we require out of the reduct of Boltardo."
+  },
+  {
+    "id": "p-3828bc",
+    "offset": 6390,
+    "text": "(Baroko) Fanoao. Ferio. All A is B. \\ / No not-B is A. Some C is not-B. | = | Some C is not-B. .'. Some C is not-A./ \\ .'. Some C is not-A."
+  },
+  {
+    "id": "p-abc94f",
+    "offset": 6531,
+    "text": "(Bokardo) Donamon. Darii. Some B is not-A. \\ / All B is C. All B is C. | = | Some not-A is B .'. Some C is not-A./ \\ .'. Some not-A is C. .'. Some C is not-A."
+  },
+  {
+    "id": "p-c94a25",
+    "offset": 6691,
+    "text": "§ 685. In the new symbols, Fanoao and Donamon, [pi] has been adopted as a symbol for permutation; n signifies conversion by negation. In Donamon the first n stands for a process which resolves itself into permutation followed by simple conversion, the second for one which resolves itself into simple conversion followed by permutation, according to the extended meaning which we have given to the term 'conversion by negation.' If it be thought desirable to distinguish these two processes, the ugly symbol Do[pi]samos[pi] may be adopted in place of Donamon."
+  },
+  {
+    "id": "p-0adce5",
+    "offset": 7252,
+    "text": "§ 686. The foregoing method, which may be called Reduction by Negation, is no less applicable to the other moods of the second figure than to Baroko. The symbols which result from providing for its application would make the second of the mnemonic lines run thus--"
+  },
+  {
+    "id": "p-6d5b50",
+    "offset": 7518,
+    "text": "Benare[pi], Cane[pi]e, Denilo[pi], Fano[pi]o secundae."
+  },
+  {
+    "id": "p-cc4bde",
+    "offset": 7574,
+    "text": "§ 687. The only other combination of mood and figure in which it will be found available is Camenes, whose name it changes to Canene."
+  },
+  {
+    "id": "p-d97c7b",
+    "offset": 7709,
+    "text": "(Cesare) Benarea. Barbara. No A is B. \\ / All B is not-A. All C is B. | = | All C is B. .'. No C is A. / \\ .'. All C is not-A. .'. No C is A."
+  },
+  {
+    "id": "p-2ad0cd",
+    "offset": 7852,
+    "text": "(Camestres) Cane[pi]e. Celarent. All A is B. \\ / No not-B is A. No C is B. | = | All C is not-B. .'. No C is A. / \\ .'. No C is A."
+  },
+  {
+    "id": "p-3b15c9",
+    "offset": 7984,
+    "text": "(Festino) Denilo[pi]. Darii. No A is B. \\ / All B is not-A. Some C is B. | = | Some C is B. .'. Some C is not A./ \\ .'. Some C is not-A. .'. Some C is not A."
+  },
+  {
+    "id": "p-bcf3d5",
+    "offset": 8143,
+    "text": "(Camenes) Canene. Celarent. All A is B. \\ / No not-B is A. No B is C. | = | All C is not-B. .'. No C is A. / \\ .'. No C is A."
+  },
+  {
+    "id": "p-6dea09",
+    "offset": 8270,
+    "text": "§ 689. The following will serve as a concrete instance of Cane[pi]e reduced to the first figure."
+  },
+  {
+    "id": "p-66546d",
+    "offset": 8368,
+    "text": "All things of which we have a perfect idea are perceptions. A substance is not a perception. .'. A substance is not a thing of which we have a perfect idea."
+  },
+  {
+    "id": "p-539bbd",
+    "offset": 8526,
+    "text": "When brought into Celarent this becomes--"
+  },
+  {
+    "id": "p-ad3b89",
+    "offset": 8569,
+    "text": "No not-perception is a thing of which we have a perfect idea. A substance is a not-perception. .'. No substance is a thing of which we have a perfect idea."
+  },
+  {
+    "id": "p-3dba9f",
+    "offset": 8726,
+    "text": "§ 690. We may also bring it, if we please, into Barbara, by permuting the major premiss once more, so as to obtain the contrapositive of the original--"
+  },
+  {
+    "id": "p-514411",
+    "offset": 8879,
+    "text": "All not-perceptions are things of which we have an imperfect idea. All substances are not-perceptions. .'. All substances are things of which we have an imperfect idea."
+  },
+  {
+    "id": "p-c81d48",
+    "offset": 9049,
+    "text": "*Indirect Reduction.*"
+  },
+  {
+    "id": "p-094f59",
+    "offset": 9072,
+    "text": "§ 691. We will apply this method to Baroko."
+  },
+  {
+    "id": "p-51ef77",
+    "offset": 9117,
+    "text": "All A is B. All fishes are oviparous. Some C is not B. Some marine animals are not oviparous. .'. Some C is not A. .'. Some marine animals are not fishes."
+  },
+  {
+    "id": "p-4e2b68",
+    "offset": 9273,
+    "text": "§ 692. The reasoning in such a syllogism is evidently conclusive: but it does not conform, as it stands, to the first figure, nor (permutation apart) can its premisses be twisted into conformity with it. But though we cannot prove the conclusion true in the first figure, we can employ that figure to prove that it cannot be false, by showing that the supposition of its falsity would involve a contradiction of one of the original premisses, which are true ex hypothesi."
+  },
+  {
+    "id": "p-d10455",
+    "offset": 9746,
+    "text": "§ 693. If possible, let the conclusion 'Some C is not A' be false. Then its contradictory 'All C is A' must be true. Combining this as minor with the original major, we obtain premisses in the first figure,"
+  },
+  {
+    "id": "p-f382a0",
+    "offset": 9954,
+    "text": "All A is B, All fishes are oviparous, All C is A, All marine animals are fishes,"
+  },
+  {
+    "id": "p-122e18",
+    "offset": 10036,
+    "text": "which lead to the conclusion"
+  },
+  {
+    "id": "p-3e4ee9",
+    "offset": 10066,
+    "text": "All C is B, All marine animals are oviparous."
+  },
+  {
+    "id": "p-fed039",
+    "offset": 10113,
+    "text": "But this conclusion conflicts with the original minor, 'Some C is not B,' being its contradictory. But the original minor is ex hypothesi true. Therefore the new conclusion is false. Therefore it must either be wrongly drawn or else one or both of its premisses must be false. But it is not wrongly drawn; since it is drawn in the first figure, to which the Dictum de Omni et Nullo applies. Therefore the fault must lie in the premisses. But the major premiss, being the same with that of the original syllogism, is ex hypothesi true. Therefore the minor premiss, 'All C is A,' is false. But this being false, its contradictory must be true. Now its contradictory is the original conclusion, 'Some C is not A,' which is therefore proved to be true, since it cannot be false."
+  },
+  {
+    "id": "p-c25e8d",
+    "offset": 10889,
+    "text": "§ 694. It is convenient to represent the two syllogisms in juxtaposition thus--"
+  },
+  {
+    "id": "p-df82f3",
+    "offset": 10970,
+    "text": "Baroko. Barbara. All A is B. All A is B. Some C is not B. \\/ All C is A. .'. Some C is not A. /\\ All C is B."
+  },
+  {
+    "id": "p-893971",
+    "offset": 11080,
+    "text": "§ 695. The lines indicate the propositions which conflict with one another. The initial consonant of the names Baroko and Eokardo indicates that the indirect reduct will be Barbara. The k indicates that the O proposition, which it follows, is to be dropped out in the new syllogism, and its place supplied by the contradictory of the old conclusion."
+  },
+  {
+    "id": "p-aa5048",
+    "offset": 11431,
+    "text": "§ 696. In Bokardo the two syllogisms will stand thus--"
+  },
+  {
+    "id": "p-6121aa",
+    "offset": 11487,
+    "text": "Bokardo. Barbara. Some B is not A. \\ / All C is A. All B is C. X All B is C. .'. Some C is not A./ \\ .'. All B is A."
+  },
+  {
+    "id": "p-76caf9",
+    "offset": 11605,
+    "text": "§ 697. The method of indirect reduction, though invented with a special view to Baroko and Bokardo, is applicable to all the moods of the imperfect figures. The following modification of the mnemonic lines contains directions for performing the process in every case:--Barbara, Celarent, Darii, Ferioque prioris; Felake, Dareke, Celiko, Baroko secundae; Tertia Cakaci, Cikari, Fakini, Bekaco, Bokardo, Dekilon habet; quarta insuper addit Cakapi, Daseke, Cikasi, Cepako, Cesïkon."
+  },
+  {
+    "id": "p-dd6fa5",
+    "offset": 12085,
+    "text": "§ 698. The c which appears in two moods of the third figure, Cakaci and Bekaco, signifies that the new conclusion is the contrary, instead of, as usual, the contradictory of the discarded premiss."
+  },
+  {
+    "id": "p-d2fdc3",
+    "offset": 12283,
+    "text": "§ 699. The letters s and p, which appear only in the fourth figure, signify that the new conclusion does not conflict directly with the discarded premiss, but with its converse, either simple or per accidens, as the case may be."
+  },
+  {
+    "id": "p-e2c4c4",
+    "offset": 12513,
+    "text": "§ 700. l, n and r are meaningless, as in the original lines."
+  },
+  {
+    "id": "p-268cd3",
+    "offset": 12575,
+    "text": "CHAPTER XIX."
+  },
+  {
+    "id": "p-759d12",
+    "offset": 12589,
+    "text": "*Of Immediate Inference as applied to Complex Propositions.*"
+  },
+  {
+    "id": "p-b0e704",
+    "offset": 12651,
+    "text": "§ 701. So far we have treated of inference, or reasoning, whether mediate or immediate, solely as applied to simple propositions. But it will be remembered that we divided propositions into simple and complex. I t becomes incumbent upon us therefore to consider the laws of inference as applied to complex propositions. Inasmuch however as every complex proposition is reducible to a simple one, it is evident that the same laws of inference must apply to both."
+  },
+  {
+    "id": "p-9b7d47",
+    "offset": 13114,
+    "text": "§ 702. We must first make good this initial statement as to the essential identity underlying the difference of form between simple and complex propositions."
+  },
+  {
+    "id": "p-05ae53",
+    "offset": 13273,
+    "text": "§ 703. Complex propositions are either Conjunctive or Disjunctive (§ 214)."
+  },
+  {
+    "id": "p-fbfc25",
+    "offset": 13349,
+    "text": "§ 704. Conjunctive propositions may assume any of the four forms, A, E, I, O, as follows--"
+  },
+  {
+    "id": "p-b845bd",
+    "offset": 13441,
+    "text": "(A) If A is B, C is always D. (E) If A is B, C is never D. (I) If A is B, C is sometimes D. (O) If A is B, C is sometimes not D."
+  },
+  {
+    "id": "p-bbb695",
+    "offset": 13571,
+    "text": "§ 705. These admit of being read in the form of simple propositions, thus--"
+  },
+  {
+    "id": "p-3f2b06",
+    "offset": 13648,
+    "text": "(A) If A is B, C is always D = All cases of A being B are cases of C being D. (Every AB is a CD.)"
+  },
+  {
+    "id": "p-a02a21",
+    "offset": 13747,
+    "text": "(E) If A is B, C is never D = No cases of A being B are cases of C being D. (No AB is a CD.)"
+  },
+  {
+    "id": "p-f714f7",
+    "offset": 13841,
+    "text": "(I) If A is B, C is sometimes D = Some cases of A being B are cases of C being D. (Some AB's are CD's.)"
+  },
+  {
+    "id": "p-699dc5",
+    "offset": 13946,
+    "text": "(O) If A is B, C is sometimes not D = Some cases of A being B are not cases of C being D. (Some AB's are not CD's.)"
+  },
+  {
+    "id": "p-5571d3",
+    "offset": 14063,
+    "text": "§ 706. Or, to take concrete examples,"
+  },
+  {
+    "id": "p-88844e",
+    "offset": 14102,
+    "text": "(A) If kings are ambitious, their subjects always suffer. = All cases of ambitious kings are cases of subjects suffering."
+  },
+  {
+    "id": "p-f89def",
+    "offset": 14225,
+    "text": "(E) If the wind is in the south, the river never freezes. = No cases of wind in the south are cases of the river freezing."
+  },
+  {
+    "id": "p-9c20c6",
+    "offset": 14349,
+    "text": "(I) If a man plays recklessly, the luck sometimes goes against him. = Some cases of reckless playing are cases of going against one."
+  },
+  {
+    "id": "p-caf484",
+    "offset": 14483,
+    "text": "(O) If a novel has merit, the public sometimes do not buy it. = Some cases of novels with merit are not cases of the public buying."
+  },
+  {
+    "id": "p-8775fc",
+    "offset": 14616,
+    "text": "§ 707. We have seen already that the disjunctive differs from the conjunctive proposition in this, that in the conjunctive the truth of the antecedent involves the truth of the consequent, whereas in the disjunctive the falsity of the antecedent involves the truth of the consequent. The disjunctive proposition therefore"
+  },
+  {
+    "id": "p-c51d4d",
+    "offset": 14939,
+    "text": "Either A is B or C is D"
+  },
+  {
+    "id": "p-53086e",
+    "offset": 14964,
+    "text": "may be reduced to a conjunctive"
+  },
+  {
+    "id": "p-a13375",
+    "offset": 14997,
+    "text": "If A is not B, C is D,"
+  },
+  {
+    "id": "p-d5d0de",
+    "offset": 15021,
+    "text": "and so to a simple proposition with a negative term for subject."
+  },
+  {
+    "id": "p-d2910e",
+    "offset": 15087,
+    "text": "All cases of A not being B are cases of C being D. (Every not-AB is a CD.)"
+  },
+  {
+    "id": "p-3cf504",
+    "offset": 15163,
+    "text": "§ 708. It is true that the disjunctive proposition, more than any other form, except U, seems to convey two statements in one breath. Yet it ought not, any more than the E proposition, to be regarded as conveying both with equal directness. The proposition 'No A is B' is not considered to assert directly, but only implicitly, that 'No B is A.' In the same way the form 'Either A is B or C is D' ought to be interpreted as meaning directly no more than this, 'If A is not B, C is D.' It asserts indeed by implication also that 'If C is not D, A is B.' But this is an immediate inference, being, as we shall presently see, the contrapositive of the original. When we say 'So and so is either a knave or a fool,' what we are directly asserting is that, if he be not found to be a knave, he will be found to be a fool. By implication we make the further statement that, if he be not cleared of folly, he will stand condemned of knavery. This inference is so immediate that it seems indistinguishable from the former proposition: but since the two members of a complex proposition play the part of subject and predicate, to say that the two statements are identical would amount to asserting that the same proposition can have two subjects and two predicates. From this point of view it becomes clear that there is no difference but one of expression between the disjunctive and the conjunctive proposition. The disjunctive is merely a peculiar way of stating a conjunctive proposition with a negative antecedent."
+  },
+  {
+    "id": "p-cc09dd",
+    "offset": 16675,
+    "text": "§ 709. Conversion of Complex Propositions."
+  },
+  {
+    "id": "p-0f11c0",
+    "offset": 16719,
+    "text": "A / If A is B, C is always D. \\ .'. If C is D, A is sometimes B."
+  },
+  {
+    "id": "p-e52e55",
+    "offset": 16785,
+    "text": "E / If A is B, C is never D. \\ .'. If C is D, A is never B."
+  },
+  {
+    "id": "p-27a402",
+    "offset": 16846,
+    "text": "I / If A is S, C is sometimes D. \\ .'. If C is D, A is sometimes B."
+  },
+  {
+    "id": "p-6cec7e",
+    "offset": 16915,
+    "text": "§ 710. Exactly the same rules of conversion apply to conjunctive as to simple propositions."
+  },
+  {
+    "id": "p-e44439",
+    "offset": 17008,
+    "text": "§ 711. A can only be converted per accidens, as above."
+  },
+  {
+    "id": "p-4c47eb",
+    "offset": 17064,
+    "text": "The original proposition"
+  },
+  {
+    "id": "p-4fd08a",
+    "offset": 17090,
+    "text": "'If A is B, C is always D'"
+  },
+  {
+    "id": "p-4da565",
+    "offset": 17118,
+    "text": "is equivalent to the simple proposition"
+  },
+  {
+    "id": "p-beaa85",
+    "offset": 17159,
+    "text": "'All cases of A being B are cases of C being D.'"
+  },
+  {
+    "id": "p-67d3e8",
+    "offset": 17209,
+    "text": "This, when converted, becomes"
+  },
+  {
+    "id": "p-8c8e0a",
+    "offset": 17240,
+    "text": "'Some cases of C being D are cases of A being B,'"
+  },
+  {
+    "id": "p-4c0547",
+    "offset": 17291,
+    "text": "which, when thrown back into the conjunctive form, becomes"
+  },
+  {
+    "id": "p-ef3454",
+    "offset": 17351,
+    "text": "'If C is D, A is sometimes B.'"
+  },
+  {
+    "id": "p-2d503a",
+    "offset": 17383,
+    "text": "§ 712. This expression must not be misunderstood as though it contained any reference to actual existence. The meaning might be better conveyed by the form"
+  },
+  {
+    "id": "p-e1c08b",
+    "offset": 17540,
+    "text": "'If C is D, A may be B.'"
+  },
+  {
+    "id": "p-1acd8b",
+    "offset": 17566,
+    "text": "But it is perhaps as well to retain the other, as it serves to emphasize the fact that formal logic is concerned only with the connection of ideas."
+  },
+  {
+    "id": "p-198571",
+    "offset": 17715,
+    "text": "§ 713. A concrete instance will render the point under discussion clearer. The example we took before of an A proposition in the conjunctive form--"
+  },
+  {
+    "id": "p-2a4793",
+    "offset": 17864,
+    "text": "'If kings are ambitious, their subjects always suffer'"
+  },
+  {
+    "id": "p-4f797d",
+    "offset": 17920,
+    "text": "may be converted into"
+  },
+  {
+    "id": "p-df0fcc",
+    "offset": 17943,
+    "text": "'If subjects suffer, it may be that their kings are ambitious,'"
+  },
+  {
+    "id": "p-144026",
+    "offset": 18008,
+    "text": "i.e. among the possible causes of suffering on the part of subjects is to be found the ambition of their rulers, even if every actual case should be referred to some other cause. It is in this sense only that the inference is a necessary one. But then this is the only sense which formal logic is competent to recognise. To judge of conformity to fact is no part of its province. From 'Every AB is a CD' it follows that ' Some CD's are AB's' with exactly the same necessity as that with which 'Some B is A' follows from 'All A is B.' In the latter case also neither proposition may at all conform to fact. From 'All centaurs are animals' it follows necessarily that 'Some animals are centaurs': but as a matter of fact this is not true at all."
+  },
+  {
+    "id": "p-a2b402",
+    "offset": 18753,
+    "text": "§ 714. The E and the I proposition may be converted simply, as above."
+  },
+  {
+    "id": "p-c2452b",
+    "offset": 18824,
+    "text": "§ 715. O cannot be converted at all. From the proposition"
+  },
+  {
+    "id": "p-abf43f",
+    "offset": 18883,
+    "text": "'If a man runs a race, he sometimes does not win it,'"
+  },
+  {
+    "id": "p-ee1622",
+    "offset": 18938,
+    "text": "it certainly does not follow that"
+  },
+  {
+    "id": "p-aa79d8",
+    "offset": 18973,
+    "text": "'If a man wins a race, he sometimes does not run it.'"
+  },
+  {
+    "id": "p-23a90e",
+    "offset": 19028,
+    "text": "§ 716. There is a common but erroneous notion that all conditional propositions are to be regarded as affirmative. Thus it has been asserted that, even when we say that 'If the night becomes cloudy, there will be no dew,' the proposition is not to be regarded as negative, on the ground that what we affirm is a relation between the cloudiness of night and the absence of dew. This is a possible, but wholly unnecessary, mode of regarding the proposition. It is precisely on a par with Hobbes's theory of the copula in a simple proposition being always affirmative. It is true that it may always be so represented at the cost of employing a negative term; and the same is the case here."
+  },
+  {
+    "id": "p-b49b8f",
+    "offset": 19716,
+    "text": "§ 717. There is no way of converting a disjunctive proposition except by reducing it to the conjunctive form."
+  },
+  {
+    "id": "p-81f4c0",
+    "offset": 19827,
+    "text": "§ 718. *Permutation of Complex Propositions*."
+  },
+  {
+    "id": "p-256896",
+    "offset": 19874,
+    "text": "(A) If A is B, C is always D. .'. If A is B, C is never not-D. (E)"
+  },
+  {
+    "id": "p-db6ded",
+    "offset": 19942,
+    "text": "(E) If A is B, C is never D. .'. If A is B, C is always not-D. (A)"
+  },
+  {
+    "id": "p-085a7d",
+    "offset": 20010,
+    "text": "(I) If A is B, C is sometimes D. .'. If A is B, C is sometimes not not-D. (O)"
+  },
+  {
+    "id": "p-87d341",
+    "offset": 20089,
+    "text": "(O) If A is B, C is sometimes not D. .'. If A is B, C is sometimes not-D. (I)"
+  },
+  {
+    "id": "p-ca93cc",
+    "offset": 20168,
+    "text": "(A) If a mother loves her children, she is always kind to them. .'. If a mother loves her children, she is never unkind to them. (E)"
+  },
+  {
+    "id": "p-5fd593",
+    "offset": 20302,
+    "text": "(E) If a man tells lies, his friends never trust him. .'. If a man tells lies, his friends always distrust him. (A)"
+  },
+  {
+    "id": "p-b672f1",
+    "offset": 20419,
+    "text": "(I) If strangers are confident, savage dogs are sometimes friendly. .'. If strangers are confident, savage dogs are sometimes not unfriendly. (O)"
+  },
+  {
+    "id": "p-69124b",
+    "offset": 20566,
+    "text": "(O) If a measure is good, its author is sometimes not popular. .'. If a measure is good, its author is sometimes unpopular. (I)"
+  },
+  {
+    "id": "p-728985",
+    "offset": 20695,
+    "text": "§ 720. The disjunctive proposition may be permuted as it stands without being reduced to the conjunctive form."
+  },
+  {
+    "id": "p-5b559a",
+    "offset": 20807,
+    "text": "Either A is B or C is D. .'. Either A is B or C is not not-D."
+  },
+  {
+    "id": "p-770157",
+    "offset": 20870,
+    "text": "Either a sinner must repent or he will be damned. .'. Either a sinner must repent or he will not be saved."
+  },
+  {
+    "id": "p-0f46cf",
+    "offset": 20978,
+    "text": "§ 721. *Conversion by Negation of Complex Propositions.*"
+  },
+  {
+    "id": "p-d9293b",
+    "offset": 21036,
+    "text": "(A) If A is B, C is always D. .'. If C is not-D, A is never B. (E)"
+  },
+  {
+    "id": "p-ecef68",
+    "offset": 21104,
+    "text": "(E) If A is B, C is never D. .'. If C is D, A is always not-B. (A)"
+  },
+  {
+    "id": "p-19efcd",
+    "offset": 21172,
+    "text": "(I) If A is B, C is sometimes D. .'. If C is D, A is sometimes not not-B. (O)"
+  },
+  {
+    "id": "p-ed9e96",
+    "offset": 21251,
+    "text": "(O) If A is B, C is sometimes not D. .'. If C is not-D, A is sometimes B. (I)"
+  },
+  {
+    "id": "p-104eb1",
+    "offset": 21330,
+    "text": "(E per acc.) If A is B, C is never D. .'. If C is not-D, A is sometimes B. (I)"
+  },
+  {
+    "id": "p-3817e0",
+    "offset": 21410,
+    "text": "(A per ace.) If A is B, C is always D. .'. If C is D, A is sometimes not not-D. (O)"
+  },
+  {
+    "id": "p-d476a8",
+    "offset": 21495,
+    "text": "(A) If a man is a smoker, he always drinks. .'. If a man is a total abstainer, he never smokes. (E)"
+  },
+  {
+    "id": "p-973d59",
+    "offset": 21596,
+    "text": "(E) If a man merely does his duty, no one ever thanks him. .'. If people thank a man, he has always done more than his duty. (A)"
+  },
+  {
+    "id": "p-474482",
+    "offset": 21726,
+    "text": "(I) If a statesman is patriotic, he sometimes adheres to a party. .'. If a statesman adheres to a party, he is sometimes not unpatriotic. (O)"
+  },
+  {
+    "id": "p-c9e5fb",
+    "offset": 21869,
+    "text": "(O) If a book has merit, it sometimes does not sell. .'. If a book fails to sell, it sometimes has merit. (I)"
+  },
+  {
+    "id": "p-31444f",
+    "offset": 21980,
+    "text": "(E per acc.) If the wind is high, rain never falls. .'. If rain falls, the wind is sometimes high. (I)"
+  },
+  {
+    "id": "p-05b370",
+    "offset": 22084,
+    "text": "(A per acc.) If a thing is common, it is always cheap. .'. If a thing is cheap, it is sometimes not uncommon. (O)"
+  },
+  {
+    "id": "p-b25b6c",
+    "offset": 22199,
+    "text": "§ 723. When applied to disjunctive propositions, the distinctive features of conversion by negation are still discernible. In each of the following forms of inference the converse differs in quality from the convertend and has the contradictory of one of the original terms (§ 515)."
+  },
+  {
+    "id": "p-4adb5d",
+    "offset": 22483,
+    "text": "(A) Either A is B or C is always D. .'. Either C is D or A is never not-B. (E)"
+  },
+  {
+    "id": "p-aa1f24",
+    "offset": 22563,
+    "text": "(E) Either A is B or C is never D. .'. Either C is not-D or A is always B. (A)"
+  },
+  {
+    "id": "p-ea4ecc",
+    "offset": 22643,
+    "text": "(I) Either A is B or C is sometimes D. .'. Either C is not-D or A is sometimes not B. (O)"
+  },
+  {
+    "id": "p-359413",
+    "offset": 22734,
+    "text": "(O) Either A is B or C is sometimes not D. .'. Either C is D or A is sometimes not-B. (I)"
+  },
+  {
+    "id": "p-70e323",
+    "offset": 22825,
+    "text": "(A) Either miracles are possible or every ancient historian is untrustworthy. .'. Either ancient historians are untrustworthy or miracles are not impossible. (E)"
+  },
+  {
+    "id": "p-0395e1",
+    "offset": 22988,
+    "text": "(E) Either the tide must turn or the vessel can not make the port. .'. Either the vessel cannot make the port or the tide must turn. (A)"
+  },
+  {
+    "id": "p-670ba5",
+    "offset": 23126,
+    "text": "(1) Either he aims too high or the cartridges are sometimes bad. .'. Either the cartridges are not bad or he sometimes does not aim too high. (0)"
+  },
+  {
+    "id": "p-d01905",
+    "offset": 23273,
+    "text": "(O) Either care must be taken or telegrams will sometimes not be correct. .'. Either telegrams are correct or carelessness is sometimes shown. (1)"
+  },
+  {
+    "id": "p-622191",
+    "offset": 23421,
+    "text": "§ 726. In the above examples the converse of E looks as if it had undergone no change but the mere transposition of the alternative. This appearance arises from mentally reading the E as an A proposition: but, if it were so taken, the result would be its contrapositive, and not its converse by negation."
+  },
+  {
+    "id": "p-0c86c3",
+    "offset": 23727,
+    "text": "§ 727. The converse of I is a little difficult to grasp. It becomes easier if we reduce it to the equivalent conjunctive--"
+  },
+  {
+    "id": "p-3512b0",
+    "offset": 23851,
+    "text": "'If the cartridges are bad, he sometimes does not aim too high.'"
+  },
+  {
+    "id": "p-0fef42",
+    "offset": 23917,
+    "text": "Here, as elsewhere, 'sometimes' must not be taken to mean more than 'it may be that.'"
+  },
+  {
+    "id": "p-bba46a",
+    "offset": 24004,
+    "text": "§ 728. *Conversion by Contraposition of Complex Propositions.*"
+  },
+  {
+    "id": "p-683ac3",
+    "offset": 24068,
+    "text": "As applied to conjunctive propositions conversion by contraposition assumes the following forms--"
+  },
+  {
+    "id": "p-a47348",
+    "offset": 24167,
+    "text": "(A) If A is B, C is always D. .'. If C is not-D, A is always not-B."
+  },
+  {
+    "id": "p-6bd30d",
+    "offset": 24236,
+    "text": "(O) If A is B, C is sometimes not D. .'. If C is not-D, A is sometimes not not-B."
+  },
+  {
+    "id": "p-de36f9",
+    "offset": 24319,
+    "text": "(A) If a man is honest, he is always truthful. .'. If a man is untruthful, he is always dishonest."
+  },
+  {
+    "id": "p-635652",
+    "offset": 24419,
+    "text": "(O) If a man is hasty, he is sometimes not malevolent. .'. If a man is benevolent, he is sometimes not unhasty."
+  },
+  {
+    "id": "p-cd0d55",
+    "offset": 24532,
+    "text": "§ 729. As applied to disjunctive propositions conversion by contraposition consists simply in transposing the two alternatives."
+  },
+  {
+    "id": "p-92c606",
+    "offset": 24661,
+    "text": "(A) Either A is B or C is D. .'. Either C is D or A is B."
+  },
+  {
+    "id": "p-a7ddef",
+    "offset": 24720,
+    "text": "For, when reduced to the conjunctive shape, the reasoning would run thus--"
+  },
+  {
+    "id": "p-e0ef88",
+    "offset": 24796,
+    "text": "If A is not B, C is D. .'. If C is not D, A is B."
+  },
+  {
+    "id": "p-7ecc20",
+    "offset": 24847,
+    "text": "which is the same in form as"
+  },
+  {
+    "id": "p-fcc68d",
+    "offset": 24877,
+    "text": "All not-A is B. .'. All not-B is A."
+  },
+  {
+    "id": "p-0558b5",
+    "offset": 24914,
+    "text": "Similarly in the case of the O proposition"
+  },
+  {
+    "id": "p-66eb00",
+    "offset": 24958,
+    "text": "(O) Either A is B or C is sometimes not D. .'. Either C is D or A is sometimes not B."
+  },
+  {
+    "id": "p-052987",
+    "offset": 25045,
+    "text": "§ 730. On comparing these results with the converse by negation of each of the same propositions, A and 0, the reader will see that they differ from them, as was to be expected, only in being permuted. The validity of the inference may be tested, both here and in the case of conversion by negation, by reducing the disjunctive proposition to the conjunctive, and so to the simple form, then performing the process as in simple propositions, and finally throwing the converse, when so obtained, back into the disjunctive form. We will show in this manner that the above is really the contrapositive of the 0 proposition."
+  },
+  {
+    "id": "p-423c26",
+    "offset": 25667,
+    "text": "(O) Either A is B or C is sometimes not D."
+  },
+  {
+    "id": "p-c638a9",
+    "offset": 25711,
+    "text": "= If A is not B, C is sometimes not D."
+  },
+  {
+    "id": "p-1814f8",
+    "offset": 25751,
+    "text": "= Some cases of A not being B are not cases of C being D. (Some A is not B.)"
+  },
+  {
+    "id": "p-0bffda",
+    "offset": 25829,
+    "text": "= Some cases of C not being D are not cases of A being B. (Some not-B is not not-A.)"
+  },
+  {
+    "id": "p-8aafdc",
+    "offset": 25915,
+    "text": "= If C is not D, A is sometimes not B."
+  },
+  {
+    "id": "p-7abc8b",
+    "offset": 25955,
+    "text": "= Either C is D or A is sometimes not B."
+  }
+]

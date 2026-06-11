@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-the-problems-of-philosophy-47c80e",
+  "work_title": "The Problems of Philosophy",
+  "chapter_number": 2,
+  "chapter_title": "Chapter II — THE EXISTENCE OF MATTER",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da19141f-ec17-5d83-afda-c99c286f5be4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2723,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5827"
+    }
+  ]
+}

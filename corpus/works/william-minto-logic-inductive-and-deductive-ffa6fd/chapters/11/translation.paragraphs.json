@@ -1,0 +1,67 @@
+[
+  {
+    "id": "p-5a3f3b",
+    "offset": 0,
+    "text": "METHODS OF OBSERVATION.--MINOR METHODS."
+  },
+  {
+    "id": "p-77802f",
+    "offset": 41,
+    "text": "I.--CONCOMITANT VARIATIONS."
+  },
+  {
+    "id": "p-beb13f",
+    "offset": 70,
+    "text": "_Whatever phenomenon varies in any manner whenever another phenomenon varies in some particular manner, is either a cause or an effect of that phenomenon, or is connected with it through some fact of causation._"
+  },
+  {
+    "id": "p-e3092d",
+    "offset": 283,
+    "text": "This simple principle is constantly applied by us in connecting and disconnecting phenomena. If we hear a sound which waxes and wanes with the rise and fall of the wind, we at once connect the two phenomena. We may not know what the causal connexion is, but if they uniformly vary together, there is at once a presumption that the one is causally dependent on the other, or that both are effects of the same cause."
+  },
+  {
+    "id": "p-02d8ad",
+    "offset": 699,
+    "text": "This principle was employed by Wells in his researches into Dew. Some bodies are worse conductors of heat than others, and rough surfaces radiate heat more rapidly than smooth. Wells made observations on conductors and radiators of various degrees, and found that the amount of dew deposited was greater or less according as the objects conducted heat slowly or radiated heat rapidly. He thus established what Herschel called a \"scale of intensity\" between the conducting and radiating properties of the bodies bedewed, and the amount of the dew deposit. The explanation was that in bad conductors the surface cools more quickly than in good conductors because heat is more slowly supplied from within. Similarly in rough surfaces there is a more rapid cooling because heat is given off more quickly. But whatever the explanation might be, the mere concomitant variation of the dew deposit with these properties showed that there was some causal connexion between them."
+  },
+  {
+    "id": "p-e7bb35",
+    "offset": 1670,
+    "text": "It must be remembered that the mere fact of concomitant variation is only an index that some causal connexion exists. The nature of the connexion must be ascertained by other means, and may remain a problem, one of the uses of such observed facts being indeed to suggest problems, for inquiry. Thus a remarkable concomitance has been observed between spots on the sun, displays of Aurora Borealis, and magnetic storms. The probability is that they are causally connected, but science has not yet discovered how. Similarly in the various sciences properties are arranged in scales of intensity, and any correspondence between two scales becomes a subject for investigation on the assumption that it points to a causal connexion. We shall see afterwards how in social investigations concomitant variations in averages furnish material for reasoning."
+  },
+  {
+    "id": "p-7c9394",
+    "offset": 2519,
+    "text": "When two variants can be precisely measured, the ratio of the variation may be ascertained by the Method of Single Difference. We may change an antecedent in degree, and watch the corresponding change in the effect, taking care that no other agent influences the effect in the meantime. Often when we cannot remove an agent altogether, we may remove it in a measurable amount, and observe the result. We cannot remove friction altogether, but the more it is diminished, the further will a body travel under the impulse of the same force."
+  },
+  {
+    "id": "p-1d5dc2",
+    "offset": 3058,
+    "text": "Until a concomitant variation has been fully explained, it is merely an empirical law, and any inference that it extends at the same rate beyond the limits of observation must be made with due caution. \"Parallel variation,\" says Professor Bain, \"is sometimes interrupted by critical points, as in the expansion of bodies by heat, which suffers a reverse near the point of cooling. Again, the energy of a solution does not always follow the strength; very dilute solutions occasionally exercise a specific power not possessed in any degree by stronger. So, in the animal body, food and stimulants operate proportionally up to a certain point, at which their further operation is checked by the peculiarities in the structure of the living organs.... We cannot always reason from a few steps in a series to the whole series, partly because of the occurrence of critical points, and partly from the development at the extremes of new and unsuspected powers. Sir John Herschel remarks that until very recently 'the formulae empirically deduced for the elasticity of steam, those for the resistance of fluids, and on other similar subjects, have almost invariably failed to support the theoretical structures that have been erected upon them'.\""
+  },
+  {
+    "id": "p-8732ab",
+    "offset": 4299,
+    "text": "II.--SINGLE RESIDUE."
+  },
+  {
+    "id": "p-f23883",
+    "offset": 4321,
+    "text": "_Subduct from any phenomenon such part as previous induction has shown to be the effect of certain antecedents, and the residue of the phenomenon is the effect of the remaining antecedents._"
+  },
+  {
+    "id": "p-6a0eec",
+    "offset": 4513,
+    "text": "\"Complicated phenomena, in which several causes concurring, opposing, or quite independent of each other, operate at once, so as to produce a compound effect, may be simplified by subducting the effect of all the known causes, as well as the nature of the case permits, either by deductive reasoning or by appeal to experience, and thus leaving as it were a *residual phenomenon* to be explained. It is by this process, in fact, that science, in its present advanced state, is chiefly promoted. Most of the phenomena which nature presents are very complicated; and when the effects of all known causes are estimated with exactness, and subducted, the residual facts are constantly appearing in the form of phenomena altogether new, and leading to the most important conclusions.\""
+  },
+  {
+    "id": "p-6bd95d",
+    "offset": 5294,
+    "text": "It is obvious that this is not a primary method of observation, but a method that may be employed with great effect to guide observation when a considerable advance has been made in accurate knowledge of agents and their mode of operation. The greatest triumph of the method, the discovery of the planet Neptune, was won some years after the above passage from Herschel's Discourse was written. Certain perturbations were observed in the movements of the planet Uranus: that is to say, its orbit was found not to correspond exactly with what it should be when calculated according to the known influences of the bodies then known to astronomers. These perturbations were a residual phenomenon. It was supposed that they might be due to the action of an unknown planet, and two astronomers, Adams and Le Verrier, simultaneously calculated the position of a body such as would account for the observed deviations. When telescopes were directed to the spot thus indicated, the planet Neptune was discovered. This was in September, 1846: before its actual discovery, Sir John Herschel exulted in the prospect of it in language that strikingly expresses the power of the method. \"We see it,\" he said, \"as Columbus saw America from the shores of Spain. Its movements have been felt, trembling along the far-reaching line of our analysis, with a certainty hardly inferior to that of ocular demonstration.\""
+  },
+  {
+    "id": "p-3911be",
+    "offset": 6694,
+    "text": "Many of the new elements in Chemistry have been discovered in this way. For example, when distinctive spectrums had been observed for all known substances, then on the assumption that every substance has a distinctive spectrum, the appearance of lines not referable to any known substance indicated the existence of hitherto undiscovered substances and directed search for them. Thus Bunsen in 1860 discovered two new alkaline metals, Caesium and Rubidium. He was examining alkalies left from the evaporation of a large quantity of mineral water from Durkheim. On applying the spectroscope to the flame which this particular salt or mixture of salts gave off, he found that some bright lines were visible which he had never observed before, and which he knew were not produced either by potash or soda. He then set to work to analyse the mixture, and ultimately succeeded in separating two new alkaline substances. When he had succeeded in getting them separate, it was of course by the Method of Difference that he ascertained them to be capable of producing the lines that had excited his curiosity."
+  }
+]

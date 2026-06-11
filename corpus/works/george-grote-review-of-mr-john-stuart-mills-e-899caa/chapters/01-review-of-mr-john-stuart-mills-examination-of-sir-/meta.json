@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-grote-review-of-mr-john-stuart-mills-e-899caa",
+  "work_title": "Review of Mr. John Stuart Mill's Examination of Sir William Hamilton's Philosophy",
+  "chapter_number": 1,
+  "chapter_title": "Review of Mr. John Stuart Mill's Examination of Sir William Hamilton's Philosophy",
+  "chapter_slug": "01-review-of-mr-john-stuart-mills-examination-of-sir-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "78f60450-5a2f-5f16-840a-28d0f1cce7ea",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 16597,
+      "paragraph_count": 109,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/12002"
+    }
+  ]
+}

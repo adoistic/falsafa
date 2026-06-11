@@ -36,7 +36,7 @@ for (const w of m.works) {
 const ssrPick = featuredPool[0]!;
 
 // Era nodes for the timeline
-const eraOrder = ["Ancient", "Classical", "Hellenistic", "Imperial", "Late Antiquity", "Medieval", "Enlightenment", "19th Century", "20th Century", "Unknown"];
+const eraOrder = ["Ancient", "Classical", "Hellenistic", "Imperial", "Late Antiquity", "Medieval", "Renaissance", "Enlightenment", "19th Century", "20th Century", "Unknown"];
 const eraEntries = eraOrder
   .filter((e) => m.eras[e.toLowerCase().replace(/[^a-z0-9]+/g, "-")])
   .map((label) => {

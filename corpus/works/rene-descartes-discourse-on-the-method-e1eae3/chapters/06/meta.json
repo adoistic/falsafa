@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-discourse-on-the-method-e1eae3",
+  "work_title": "Discourse on the Method",
+  "chapter_number": 6,
+  "chapter_title": "Part VI",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ce84c8f-c1cc-5769-a27d-08c8b238adc4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5724,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/59"
+    }
+  ]
+}

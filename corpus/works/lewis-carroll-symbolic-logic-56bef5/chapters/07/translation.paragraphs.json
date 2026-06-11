@@ -1,0 +1,917 @@
+[
+  {
+    "id": "p-326d73",
+    "offset": 0,
+    "text": "THE METHOD OF SUBSCRIPTS."
+  },
+  {
+    "id": "p-4434d4",
+    "offset": 27,
+    "text": "CHAPTER I."
+  },
+  {
+    "id": "p-b7062f",
+    "offset": 39,
+    "text": "*INTRODUCTORY.*"
+  },
+  {
+    "id": "p-4aba35",
+    "offset": 56,
+    "text": "Let us agree that \"x_{1}\" shall mean \"Some existing Things have the Attribute x\", i.e. (more briefly) \"Some x exist\"; also that \"xy_{1}\" shall mean \"Some xy exist\", and so on. Such a Proposition may be called an '=Entity=.'"
+  },
+  {
+    "id": "p-74094c",
+    "offset": 281,
+    "text": "[Note that, when there are *two* letters in the expression, it does not in the least matter which stands *first*: \"xy_{1}\" and \"yx_{1}\" mean exactly the same.]"
+  },
+  {
+    "id": "p-ed29cc",
+    "offset": 442,
+    "text": "Also that \"x_{0}\" shall mean \"No existing Things have the Attribute x\", i.e. (more briefly) \"No x exist\"; also that \"xy_{0}\" shall mean \"No xy exist\", and so on. Such a Proposition may be called a '=Nullity='."
+  },
+  {
+    "id": "p-c74463",
+    "offset": 653,
+    "text": "Also that \"+\" shall mean \"and\"."
+  },
+  {
+    "id": "p-1251df",
+    "offset": 686,
+    "text": "[Thus \"ab*{1} + cd*{0}\" means \"Some ab exist and no cd exist\".]"
+  },
+  {
+    "id": "p-968dfa",
+    "offset": 751,
+    "text": "Also that \"¶\" shall mean \"would, if true, prove\"."
+  },
+  {
+    "id": "p-47ae6b",
+    "offset": 802,
+    "text": "[Thus, \"x*{0} ¶ xy*{0}\" means \"The Proposition 'No x exist' would, if true, prove the Proposition 'No xy exist'\".]"
+  },
+  {
+    "id": "p-6239a6",
+    "offset": 918,
+    "text": "When two Letters are both of them accented, or both *not* accented, they are said to have '=Like Signs=', or to be '=Like=': when one is accented, and the other not, they are said to have '=Unlike Signs=', or to be '=Unlike='."
+  },
+  {
+    "id": "p-4cd4a5",
+    "offset": 1146,
+    "text": "pg071"
+  },
+  {
+    "id": "p-333fc7",
+    "offset": 1153,
+    "text": "CHAPTER II."
+  },
+  {
+    "id": "p-a87d62",
+    "offset": 1166,
+    "text": "*REPRESENTATION OF PROPOSITIONS OF RELATION.*"
+  },
+  {
+    "id": "p-25a569",
+    "offset": 1213,
+    "text": "Let us take, first, the Proposition \"Some x are y\"."
+  },
+  {
+    "id": "p-be2051",
+    "offset": 1266,
+    "text": "This, we know, is equivalent to the Proposition of Existence \"Some xy exist\". (See p. 31.) Hence it may be represented by the expression \"xy_{1}\"."
+  },
+  {
+    "id": "p-e53de4",
+    "offset": 1414,
+    "text": "The Converse Proposition \"Some y are x\" may of course be represented by the *same* expression, viz. \"xy_{1}\"."
+  },
+  {
+    "id": "p-2026b2",
+    "offset": 1525,
+    "text": "Similarly we may represent the three similar Pairs of Converse Propositions, viz.--"
+  },
+  {
+    "id": "p-e42f92",
+    "offset": 1610,
+    "text": "\"Some x are y'\"  = \"Some y' are x\", \"Some x' are y\"  = \"Some y are x'\", \"Some x' are y'\" = \"Some y' are x'\"."
+  },
+  {
+    "id": "p-da996b",
+    "offset": 1720,
+    "text": "Let us take, next, the Proposition \"No x are y\"."
+  },
+  {
+    "id": "p-8e5782",
+    "offset": 1770,
+    "text": "This, we know, is equivalent to the Proposition of Existence \"No xy exist\". (See p. 33.) Hence it may be represented by the expression \"xy_{0}\"."
+  },
+  {
+    "id": "p-e87df8",
+    "offset": 1916,
+    "text": "The Converse Proposition \"No y are x\" may of course be represented by the *same* expression, viz. \"xy_{0}\"."
+  },
+  {
+    "id": "p-2026b2",
+    "offset": 2025,
+    "text": "Similarly we may represent the three similar Pairs of Converse Propositions, viz.--"
+  },
+  {
+    "id": "p-4c64cc",
+    "offset": 2110,
+    "text": "\"No x are y'\"  = \"No y' are x\", \"No x' are y\"  = \"No y are x'\", \"No x' are y'\" = \"No y' are x'\". pg072 Let us take, next, the Proposition \"All x are y\"."
+  },
+  {
+    "id": "p-8c3bfa",
+    "offset": 2264,
+    "text": "Now it is evident that the Double Proposition of Existence \"Some x exist and no xy' exist\" tells us that *some* x-Things exist, but that *none* of them have the Attribute y': that is, it tells us that *all* of them have the Attribute y: that is, it tells us that \"All x are y\"."
+  },
+  {
+    "id": "p-eb2a96",
+    "offset": 2543,
+    "text": "Also it is evident that the expression \"x*{1} + xy'*{0}\" represents this Double Proposition."
+  },
+  {
+    "id": "p-cad0f4",
+    "offset": 2637,
+    "text": "Hence it also represents the Proposition \"All x are y\"."
+  },
+  {
+    "id": "p-e1f14e",
+    "offset": 2694,
+    "text": "[The Reader will perhaps be puzzled by the statement that the Proposition \"All x are y\" is equivalent to the Double Proposition \"Some x exist and no xy' exist,\" remembering that it was stated, at p. 33, to be equivalent to the Double Proposition \"Some x are y and no x are y'\" (i.e. \"Some xy exist and no xy' exist\"). The explanation is that the Proposition \"Some xy exist\" contains *superfluous information*. \"Some x exist\" is enough for our purpose.]"
+  },
+  {
+    "id": "p-7c8450",
+    "offset": 3148,
+    "text": "This expression may be written in a shorter form, viz. \"x*{1}y'*{0}\", since *each* Subscript takes effect back to the *beginning* of the expression."
+  },
+  {
+    "id": "p-eb2c00",
+    "offset": 3298,
+    "text": "Similarly we may represent the seven similar Propositions \"All x are y'\", \"All x' are y\", \"All x' are y'\", \"All y are x\", \"All y are x'\", \"All y' are x\", and \"All y' are x'\"."
+  },
+  {
+    "id": "p-241c87",
+    "offset": 3474,
+    "text": "[The Reader should make out all these for himself.]"
+  },
+  {
+    "id": "p-177f02",
+    "offset": 3527,
+    "text": "It will be convenient to remember that, in translating a Proposition, beginning with \"All\", from abstract form into subscript form, or _vice versâ*, the Predicate *changes sign_ (that is, changes from positive to negative, or else from negative to positive)."
+  },
+  {
+    "id": "p-0f66ca",
+    "offset": 3787,
+    "text": "[Thus, the Proposition \"All y are x'\" becomes \"y*{1}x*{0}\", where the Predicate changes from x' to x."
+  },
+  {
+    "id": "p-6f4638",
+    "offset": 3890,
+    "text": "Again, the expression \"x'*{1}y'*{0}\" becomes \"All x' are y\", where the Predicate changes for y' to y.]"
+  },
+  {
+    "id": "p-4ed4a8",
+    "offset": 3994,
+    "text": "pg073"
+  },
+  {
+    "id": "p-368057",
+    "offset": 4001,
+    "text": "CHAPTER III."
+  },
+  {
+    "id": "p-b44cd0",
+    "offset": 4015,
+    "text": "*SYLLOGISMS.*"
+  },
+  {
+    "id": "p-72b956",
+    "offset": 4030,
+    "text": "*Representation of Syllogisms.*"
+  },
+  {
+    "id": "p-b45706",
+    "offset": 4063,
+    "text": "We already know how to represent each of the three Propositions of a Syllogism in subscript form. When that is done, all we need, besides, is to write the three expressions in a row, with \"+\" between the Premisses, and \"¶\" before the Conclusion."
+  },
+  {
+    "id": "p-4f0dad",
+    "offset": 4310,
+    "text": "[Thus the Syllogism"
+  },
+  {
+    "id": "p-85ce0a",
+    "offset": 4331,
+    "text": "\"No x are m'; All m are y. .'. No x are y'.\""
+  },
+  {
+    "id": "p-38acab",
+    "offset": 4377,
+    "text": "may be represented thus:--"
+  },
+  {
+    "id": "p-da3527",
+    "offset": 4405,
+    "text": "xm'*{0} + m*{1}y'*{0} ¶ xy'*{0}"
+  },
+  {
+    "id": "p-7bbf48",
+    "offset": 4438,
+    "text": "When a Proposition has to be translated from concrete form into subscript form, the Reader will find it convenient, just at first, to translate it into *abstract* form, and *thence* into subscript form. But, after a little practice, he will find it quite easy to go straight from concrete form to subscript form.]"
+  },
+  {
+    "id": "p-331749",
+    "offset": 4753,
+    "text": "pg074 § 2."
+  },
+  {
+    "id": "p-64fb6e",
+    "offset": 4765,
+    "text": "*Formulæ for solving Problems in Syllogisms.*"
+  },
+  {
+    "id": "p-b11694",
+    "offset": 4812,
+    "text": "When once we have found, by Diagrams, the Conclusion to a given Pair of Premisses, and have represented the Syllogism in subscript form, we have a *Formula*, by which we can at once find, without having to use Diagrams again, the Conclusion to any *other* Pair of Premisses having the *same* subscript forms."
+  },
+  {
+    "id": "p-ede8b1",
+    "offset": 5122,
+    "text": "[Thus, the expression"
+  },
+  {
+    "id": "p-d78f55",
+    "offset": 5145,
+    "text": "xm*{0} + ym'*{0} ¶ xy_{0}"
+  },
+  {
+    "id": "p-9d764b",
+    "offset": 5172,
+    "text": "is a Formula, by which we can find the Conclusion to any Pair of Premisses whose subscript forms are"
+  },
+  {
+    "id": "p-616687",
+    "offset": 5274,
+    "text": "xm*{0} + ym'*{0}"
+  },
+  {
+    "id": "p-be971f",
+    "offset": 5292,
+    "text": "For example, suppose we had the Pair of Propositions"
+  },
+  {
+    "id": "p-d93050",
+    "offset": 5346,
+    "text": "\"No gluttons are healthy; No unhealthy men are strong\"."
+  },
+  {
+    "id": "p-c1a099",
+    "offset": 5403,
+    "text": "proposed as Premisses. Taking \"men\" as our 'Universe', and making m = healthy; x = gluttons; y = strong; we might translate the Pair into abstract form, thus:--"
+  },
+  {
+    "id": "p-3c2077",
+    "offset": 5565,
+    "text": "\"No x are m; No m' are y\"."
+  },
+  {
+    "id": "p-830d87",
+    "offset": 5593,
+    "text": "These, in subscript form, would be"
+  },
+  {
+    "id": "p-cc934e",
+    "offset": 5629,
+    "text": "xm*{0} + m'y*{0}"
+  },
+  {
+    "id": "p-b5e1ea",
+    "offset": 5647,
+    "text": "which are identical with those in our *Formula*. Hence we at once know the Conclusion to be"
+  },
+  {
+    "id": "p-4b86bf",
+    "offset": 5740,
+    "text": "xy_{0}"
+  },
+  {
+    "id": "p-ffc1be",
+    "offset": 5748,
+    "text": "that is, in abstract form,"
+  },
+  {
+    "id": "p-231f9f",
+    "offset": 5776,
+    "text": "\"No x are y\";"
+  },
+  {
+    "id": "p-64d716",
+    "offset": 5791,
+    "text": "that is, in concrete form,"
+  },
+  {
+    "id": "p-99beb4",
+    "offset": 5819,
+    "text": "\"No gluttons are strong\".]"
+  },
+  {
+    "id": "p-140825",
+    "offset": 5847,
+    "text": "I shall now take three different forms of Pairs of Premisses, and work out their Conclusions, once for all, by Diagrams; and thus obtain some useful Formulæ. I shall call them \"Fig. I\", \"Fig. II\", and \"Fig. III\". pg075 Fig. I."
+  },
+  {
+    "id": "p-930ca3",
+    "offset": 6075,
+    "text": "This includes any Pair of Premisses which are both of them Nullities, and which contain Unlike Eliminands."
+  },
+  {
+    "id": "p-35ff1d",
+    "offset": 6183,
+    "text": "The simplest case is"
+  },
+  {
+    "id": "p-53a4fb",
+    "offset": 6205,
+    "text": "·---------------· ·-------· xm*{0} + ym'*{0} |(O) | | |(O)| | | ·---|---· | |---|---| | |(O)|(O)| | | | | |---|---|---|---| ·-------· | | | | | | ·---|---· | .'. xy_{0} |(O) | | ·---------------·"
+  },
+  {
+    "id": "p-687c6b",
+    "offset": 6402,
+    "text": "In this case we see that the Conclusion is a Nullity, and that the Retinends have kept their Signs."
+  },
+  {
+    "id": "p-aa9160",
+    "offset": 6503,
+    "text": "And we should find this Rule to hold good with *any* Pair of Premisses which fulfil the given conditions."
+  },
+  {
+    "id": "p-d65a7a",
+    "offset": 6610,
+    "text": "[The Reader had better satisfy himself of this, by working out, on Diagrams, several varieties, such as"
+  },
+  {
+    "id": "p-9acb01",
+    "offset": 6715,
+    "text": "m*{1}x*{0} + ym'*{0} (which ¶ xy*{0}) xm'*{0} + m*{1}y*{0} (which ¶ xy*{0}) x'm*{0} + ym'*{0} (which ¶ x'y_{0}) m'*{1}x'*{0} + m*{1}y'*{0} (which ¶ x'y'_{0}).]"
+  },
+  {
+    "id": "p-a119f8",
+    "offset": 6876,
+    "text": "If either Retinend is asserted in the *Premisses* to exist, of course it may be so asserted in the *Conclusion*."
+  },
+  {
+    "id": "p-44b670",
+    "offset": 6990,
+    "text": "Hence we get two *Variants* of Fig. I, viz."
+  },
+  {
+    "id": "p-09f2a7",
+    "offset": 7035,
+    "text": "(a) where *one* Retinend is so asserted;"
+  },
+  {
+    "id": "p-451293",
+    "offset": 7077,
+    "text": "(b) where *both* are so asserted."
+  },
+  {
+    "id": "p-bcb747",
+    "offset": 7112,
+    "text": "[The Reader had better work out, on Diagrams, examples of these two Variants, such as"
+  },
+  {
+    "id": "p-4f0073",
+    "offset": 7199,
+    "text": "m*{1}x*{0} + y*{1}m'*{0} (which proves y*{1}x*{0}) x*{1}m'*{0} + m*{1}y*{0} (which proves x*{1}y*{0}) x'*{1}m*{0} + y*{1}m'*{0} (which proves x'*{1}y*{0} + y*{1}x'*{0}).]"
+  },
+  {
+    "id": "p-d399fc",
+    "offset": 7371,
+    "text": "The Formula, to be remembered, is"
+  },
+  {
+    "id": "p-d78f55",
+    "offset": 7406,
+    "text": "xm*{0} + ym'*{0} ¶ xy_{0}"
+  },
+  {
+    "id": "p-991956",
+    "offset": 7433,
+    "text": "with the following two Rules:--"
+  },
+  {
+    "id": "p-f6b511",
+    "offset": 7466,
+    "text": "(1) _Two Nullities, with Unlike Eliminands, yield a Nullity, in which both Retinends keep their Signs._ pg076 (2) _A Retinend, asserted in the Premisses to exist, may be so asserted in the Conclusion._"
+  },
+  {
+    "id": "p-85a8e6",
+    "offset": 7669,
+    "text": "[Note that Rule (1) is merely the Formula expressed in words.]"
+  },
+  {
+    "id": "p-f50c05",
+    "offset": 7733,
+    "text": "Fig. II."
+  },
+  {
+    "id": "p-b7e1ef",
+    "offset": 7743,
+    "text": "This includes any Pair of Premisses, of which one is a Nullity and the other an Entity, and which contain Like Eliminands."
+  },
+  {
+    "id": "p-35ff1d",
+    "offset": 7867,
+    "text": "The simplest case is"
+  },
+  {
+    "id": "p-60b4c5",
+    "offset": 7889,
+    "text": "xm*{0} + ym*{1}"
+  },
+  {
+    "id": "p-dae237",
+    "offset": 7906,
+    "text": "·---------------· ·-------· | | | | | | | ·---|---· | |---|---| | |(O)|(O)| | |(I)| | |---|---|---|---| ·-------· | |(I)| | | | ·---|---· | .'. x'y_{1} | | | ·---------------·"
+  },
+  {
+    "id": "p-c29065",
+    "offset": 8083,
+    "text": "In this case we see that the Conclusion is an Entity, and that the Nullity-Retinend has changed its Sign."
+  },
+  {
+    "id": "p-aa9160",
+    "offset": 8190,
+    "text": "And we should find this Rule to hold good with *any* Pair of Premisses which fulfil the given conditions."
+  },
+  {
+    "id": "p-d65a7a",
+    "offset": 8297,
+    "text": "[The Reader had better satisfy himself of this, by working out, on Diagrams, several varieties, such as"
+  },
+  {
+    "id": "p-a384f8",
+    "offset": 8402,
+    "text": "x'm*{0} + ym*{1} (which ¶ xy_{1}) x*{1}m'*{0} + y'm'*{1} (which ¶ x'y'*{1}) m*{1}x*{0} + y'm*{1} (which ¶ x'y'*{1}).]"
+  },
+  {
+    "id": "p-ad6899",
+    "offset": 8521,
+    "text": "The Formula, to be remembered, is,"
+  },
+  {
+    "id": "p-1cdcee",
+    "offset": 8557,
+    "text": "xm*{0} + ym*{1} ¶ x'y_{1}"
+  },
+  {
+    "id": "p-321980",
+    "offset": 8584,
+    "text": "with the following Rule:--"
+  },
+  {
+    "id": "p-764083",
+    "offset": 8612,
+    "text": "_A Nullity and an Entity, with Like Eliminands, yield an Entity, in which the Nullity-Retinend changes its Sign._"
+  },
+  {
+    "id": "p-5463bf",
+    "offset": 8727,
+    "text": "[Note that this Rule is merely the Formula expressed in words.]"
+  },
+  {
+    "id": "p-666f7b",
+    "offset": 8792,
+    "text": "pg077 Fig. III."
+  },
+  {
+    "id": "p-d73105",
+    "offset": 8809,
+    "text": "This includes any Pair of Premisses which are both of them Nullities, and which contain Like Eliminands asserted to exist."
+  },
+  {
+    "id": "p-35ff1d",
+    "offset": 8933,
+    "text": "The simplest case is"
+  },
+  {
+    "id": "p-eb3968",
+    "offset": 8955,
+    "text": "xm*{0} + ym*{0} + m_{1}"
+  },
+  {
+    "id": "p-d174ac",
+    "offset": 8980,
+    "text": "[Note that \"m*{1}\" is here stated *separately_, because it does not matter in which of the two Premisses it occurs: so that this includes the *three* forms \"m*{1}x*{0} + ym*{0}\", \"xm*{0} + m*{1}y*{0}\", and \"m*{1}x*{0} + m*{1}y*{0}\".]"
+  },
+  {
+    "id": "p-e0ffb5",
+    "offset": 9215,
+    "text": "·---------------· ·-------· | | | | | | | ·---|---· | |---|---| | |(O)|(O)| | | |(I)| |---|---|---|---| ·-------· | |(O)|(I)| | | ·---|---· | .'. x'y'_{1} | | | ·---------------·"
+  },
+  {
+    "id": "p-ccc985",
+    "offset": 9395,
+    "text": "In this case we see that the Conclusion is an Entity, and that *both* Retinends have changed their Signs."
+  },
+  {
+    "id": "p-aa9160",
+    "offset": 9502,
+    "text": "And we should find this Rule to hold good with *any* Pair of Premisses which fulfil the given conditions."
+  },
+  {
+    "id": "p-d65a7a",
+    "offset": 9609,
+    "text": "[The Reader had better satisfy himself of this, by working out, on Diagrams, several varieties, such as"
+  },
+  {
+    "id": "p-6ef540",
+    "offset": 9714,
+    "text": "x'm*{0} + m*{1}y*{0} (which ¶ xy'*{1}) m'*{1}x*{0} + m'y'*{0} (which ¶ x'y*{1}) m*{1}x'*{0} + m*{1}y'*{0} (which ¶ xy_{1}).]"
+  },
+  {
+    "id": "p-d399fc",
+    "offset": 9840,
+    "text": "The Formula, to be remembered, is"
+  },
+  {
+    "id": "p-cc7ae0",
+    "offset": 9875,
+    "text": "xm*{0} + ym*{0} + m*{1} ¶ x'y'*{1}"
+  },
+  {
+    "id": "p-9e83ae",
+    "offset": 9911,
+    "text": "with the following Rule (which is merely the Formula expressed in words):--"
+  },
+  {
+    "id": "p-52ac0f",
+    "offset": 9988,
+    "text": "_Two Nullities, with Like Eliminands asserted to exist, yield an Entity, in which both Retinends change their Signs._"
+  },
+  {
+    "id": "p-2f0f3c",
+    "offset": 10107,
+    "text": "In order to help the Reader to remember the peculiarities and Formulæ of these three Figures, I will put them all together in one Table. pg078 TABLE IX. _______________________________________________________ | | | Fig. I. | | | | xm*{0} + ym'*{0} ¶ xy_{0} | | | | Two Nullities, with Unlike Eliminands, yield a | | Nullity, in which both Retinends keep their Signs. | | | | A Retinend, asserted in the Premisses to exist, may | | be so asserted in the Conclusion. | |_______________________________________________________| | | | Fig. II. | | | | xm*{0} + ym*{1} ¶ x'y_{1} | | | | A Nullity and an Entity, with Like Eliminands, | | yield an Entity, in which the Nullity-Retinend | | changes its Sign. | |_______________________________________________________| | | | Fig. III. | | | | xm*{0} + ym*{0} + m*{1} ¶ x'y'*{1} | | | | Two Nullities, with Like Eliminands asserted | | to exist, yield an Entity, in which both Retinends | | change their Signs. | |_______________________________________________________|"
+  },
+  {
+    "id": "p-c9e693",
+    "offset": 11121,
+    "text": "I will now work out, by these Formulæ, as models for the Reader to imitate, some Problems in Syllogisms which have been already worked, by Diagrams, in Book V., Chap. II."
+  },
+  {
+    "id": "p-59b8b9",
+    "offset": 11293,
+    "text": "(1) [see p. 64]"
+  },
+  {
+    "id": "p-622e1e",
+    "offset": 11310,
+    "text": "\"No son of mine is dishonest; People always treat an honest man with respect.\""
+  },
+  {
+    "id": "p-f1fac7",
+    "offset": 11390,
+    "text": "Univ. \"men\"; m = honest; x = my sons; y = treated with respect."
+  },
+  {
+    "id": "p-9ad166",
+    "offset": 11455,
+    "text": "xm'*{0} + m*{1}y'*{0} ¶ xy'*{0} [Fig. I."
+  },
+  {
+    "id": "p-ad1291",
+    "offset": 11497,
+    "text": "*i.e.* \"No son of mine ever fails to be treated with respect.\" pg079 (2) [see p. 64]"
+  },
+  {
+    "id": "p-745ce0",
+    "offset": 11583,
+    "text": "\"All cats understand French; Some chickens are cats.\""
+  },
+  {
+    "id": "p-6068d6",
+    "offset": 11638,
+    "text": "Univ. \"creatures\"; m = cats; x = understanding French; y = chickens."
+  },
+  {
+    "id": "p-5974b1",
+    "offset": 11708,
+    "text": "m*{1}x'*{0} + ym*{1} ¶ xy*{1} [Fig. II."
+  },
+  {
+    "id": "p-234097",
+    "offset": 11749,
+    "text": "*i.e.* \"Some chickens understand French.\""
+  },
+  {
+    "id": "p-40405d",
+    "offset": 11792,
+    "text": "(3) [see p. 64]"
+  },
+  {
+    "id": "p-e66228",
+    "offset": 11809,
+    "text": "\"All diligent students are successful; All ignorant students are unsuccessful.\""
+  },
+  {
+    "id": "p-1c9312",
+    "offset": 11890,
+    "text": "Univ. \"students\"; m = successful; x = diligent; y = ignorant."
+  },
+  {
+    "id": "p-2a2a4e",
+    "offset": 11953,
+    "text": "x*{1}m'*{0} + y*{1}m*{0} ¶ x*{1}y*{0} + y*{1}x*{0} [Fig. I (b)."
+  },
+  {
+    "id": "p-0f9185",
+    "offset": 12018,
+    "text": "*i.e.* \"All diligent students are learned; and all ignorant students are idle.\""
+  },
+  {
+    "id": "p-6db310",
+    "offset": 12099,
+    "text": "(4) [see p. 66]"
+  },
+  {
+    "id": "p-1aeca7",
+    "offset": 12116,
+    "text": "\"All soldiers are strong; All soldiers are brave. Some strong men are brave.\""
+  },
+  {
+    "id": "p-c38354",
+    "offset": 12195,
+    "text": "Univ. \"men\"; m = soldiers; x = strong; y = brave."
+  },
+  {
+    "id": "p-1ce38f",
+    "offset": 12246,
+    "text": "m*{1}x'*{0} + m*{1}y'*{0} ¶ xy_{1} [Fig. III."
+  },
+  {
+    "id": "p-83a00b",
+    "offset": 12293,
+    "text": "Hence proposed Conclusion is right."
+  },
+  {
+    "id": "p-764bf7",
+    "offset": 12330,
+    "text": "(5) [see p. 67]"
+  },
+  {
+    "id": "p-dae8a8",
+    "offset": 12347,
+    "text": "\"I admire these pictures; When I admire anything, I wish to examine it thoroughly. I wish to examine some of these pictures thoroughly.\""
+  },
+  {
+    "id": "p-06c09e",
+    "offset": 12485,
+    "text": "Univ. \"things\"; m = admired by me; x = these; y = things which I wish to examine thoroughly."
+  },
+  {
+    "id": "p-296c5d",
+    "offset": 12579,
+    "text": "x*{1}m'*{0} + m*{1}y'*{0} ¶ x*{1}y'*{0} [Fig. I (a)."
+  },
+  {
+    "id": "p-98ea57",
+    "offset": 12633,
+    "text": "Hence proposed Conclusion, xy*{1}, is *incomplete*, the *complete_ one being \"I wish to examine *all* these pictures thoroughly.\" pg080 (6) [see p. 67]"
+  },
+  {
+    "id": "p-256860",
+    "offset": 12786,
+    "text": "\"None but the brave deserve the fair; Some braggarts are cowards. Some braggarts do not deserve the fair.\""
+  },
+  {
+    "id": "p-e41e2e",
+    "offset": 12894,
+    "text": "Univ. \"persons\"; m = brave; x = deserving of the fair; y = braggarts."
+  },
+  {
+    "id": "p-157f8e",
+    "offset": 12965,
+    "text": "m'x*{0} + ym'*{1} ¶ x'y_{1} [Fig. II."
+  },
+  {
+    "id": "p-83a00b",
+    "offset": 13004,
+    "text": "Hence proposed Conclusion is right."
+  },
+  {
+    "id": "p-3cd1ed",
+    "offset": 13041,
+    "text": "(7) [see p. 69]"
+  },
+  {
+    "id": "p-e0739b",
+    "offset": 13058,
+    "text": "\"No one, who means to go by the train and cannot get a conveyance, and has not enough time to walk to the station, can do without running;"
+  },
+  {
+    "id": "p-85215e",
+    "offset": 13198,
+    "text": "This party of tourists mean to go by the train and cannot get a conveyance, but they have plenty of time to walk to the station."
+  },
+  {
+    "id": "p-62e4e3",
+    "offset": 13328,
+    "text": "This party of tourists need not run.\""
+  },
+  {
+    "id": "p-af3b21",
+    "offset": 13367,
+    "text": "Univ. \"persons meaning to go by the train, and unable to get a conveyance\"; m = having enough time to walk to the station; x = needing to run; y = these tourists."
+  },
+  {
+    "id": "p-7ae577",
+    "offset": 13531,
+    "text": "m'x'*{0} + y*{1}m'_{0} do not come under any of the three Figures. Hence it is necessary to return to the Method of Diagrams, as shown at p. 69."
+  },
+  {
+    "id": "p-7d0e78",
+    "offset": 13677,
+    "text": "Hence there is no Conclusion."
+  },
+  {
+    "id": "p-bb8f8a",
+    "offset": 13708,
+    "text": "[Work Examples § =4=, 12-20 (p. 100); § =5=, 13-24 (pp. 101, 102); § =6=, 1-6 (p. 106); § =7=, 1-3 (pp. 107, 108). Also read Note (A), at p. 164.]"
+  },
+  {
+    "id": "p-22b44a",
+    "offset": 13856,
+    "text": "pg081 § 3."
+  },
+  {
+    "id": "p-2bf16e",
+    "offset": 13868,
+    "text": "*Fallacies.*"
+  },
+  {
+    "id": "p-598166",
+    "offset": 13882,
+    "text": "Any argument which *deceives* us, by seeming to prove what it does not really prove, may be called a '=Fallacy=' (derived from the Latin verb *fallo* \"I deceive\"): but the particular kind, to be now discussed, consists of a Pair of Propositions, which are proposed as the Premisses of a Syllogism, but yield no Conclusion."
+  },
+  {
+    "id": "p-cbbe5e",
+    "offset": 14206,
+    "text": "When each of the proposed Premisses is a Proposition in *I*, or *E*, or *A*, (the only kinds with which we are now concerned,) the Fallacy may be detected by the 'Method of Diagrams,' by simply setting them out on a Triliteral Diagram, and observing that they yield no information which can be transferred to the Biliteral Diagram."
+  },
+  {
+    "id": "p-75c6f0",
+    "offset": 14539,
+    "text": "But suppose we were working by the 'Method of *Subscripts*,' and had to deal with a Pair of proposed Premisses, which happened to be a 'Fallacy,' how could we be certain that they would not yield any Conclusion?"
+  },
+  {
+    "id": "p-bbbf02",
+    "offset": 14752,
+    "text": "Our best plan is, I think, to deal with *Fallacies* in the same was as we have already dealt with *Syllogisms*: that is, to take certain forms of Pairs of Propositions, and to work them out, once for all, on the Triliteral Diagram, and ascertain that they yield *no* Conclusion; and then to record them, for future use, as *Formulæ for Fallacies*, just as we have already recorded our three *Formulæ for Syllogisms*. pg082 Now, if we were to record the two Sets of Formulæ in the *same* shape, viz. by the Method of Subscripts, there would be considerable risk of confusing the two kinds. Hence, in order to keep them distinct, I propose to record the Formulæ for *Fallacies* in *words*, and to call them \"Forms\" instead of \"Formulæ.\""
+  },
+  {
+    "id": "p-421fbe",
+    "offset": 15488,
+    "text": "Let us now proceed to find, by the Method of Diagrams, three \"Forms of Fallacies,\" which we will then put on record for future use. They are as follows:--"
+  },
+  {
+    "id": "p-d99eca",
+    "offset": 15644,
+    "text": "(1) Fallacy of Like Eliminands not asserted to exist. (2) Fallacy of Unlike Eliminands with an Entity-Premiss. (3) Fallacy of two Entity-Premisses."
+  },
+  {
+    "id": "p-d72e34",
+    "offset": 15793,
+    "text": "These shall be discussed separately, and it will be seen that each fails to yield a Conclusion."
+  },
+  {
+    "id": "p-0e80b6",
+    "offset": 15890,
+    "text": "(1) *Fallacy of Like Eliminands not asserted to exist.*"
+  },
+  {
+    "id": "p-c1c840",
+    "offset": 15947,
+    "text": "It is evident that neither of the given Propositions can be an *Entity*, since that kind asserts the *existence* of both of its Terms (see p. 20). Hence they must both be *Nullities*."
+  },
+  {
+    "id": "p-965abd",
+    "offset": 16132,
+    "text": "Hence the given Pair may be represented by (xm*{0} + ym*{0}), with or without x*{1}, y*{1}."
+  },
+  {
+    "id": "p-f0e706",
+    "offset": 16225,
+    "text": "These, set out on Triliteral Diagrams, are"
+  },
+  {
+    "id": "p-b7644e",
+    "offset": 16269,
+    "text": "xm*{0} + ym*{0} x*{1}m*{0} + ym_{0} ·---------------· ·---------------· | | | | (I) | | ·---|---· | | ·---|---· | | |(O)|(O)| | | |(O)|(O)| | |---|---|---|---| |---|---|---|---| | |(O)| | | | |(O)| | | | ·---|---· | | ·---|---· | | | | | | | ·---------------· ·---------------·"
+  },
+  {
+    "id": "p-5cdb43",
+    "offset": 16548,
+    "text": "xm*{0} + y*{1}m*{0} x*{1}m*{0} + y*{1}m_{0} ·---------------· ·---------------· | | | | (I) | | ·---|---· | | ·---|---· | | |(O)|(O)| | | |(O)|(O)| | |(I)|---|---|---| |(I)|---|---|---| | |(O)| | | | |(O)| | | | ·---|---· | | ·---|---· | | | | | | | ·---------------· ·---------------· pg083 (2) *Fallacy of Unlike Eliminands with an Entity-Premiss.*"
+  },
+  {
+    "id": "p-c7aee6",
+    "offset": 16900,
+    "text": "Here the given Pair may be represented by (xm*{0} + ym'*{1}) with or without x*{1} or m*{1}."
+  },
+  {
+    "id": "p-f0e706",
+    "offset": 16994,
+    "text": "These, set out on Triliteral Diagrams, are"
+  },
+  {
+    "id": "p-9faf5f",
+    "offset": 17038,
+    "text": "xm*{0} + ym'*{1} x*{1}m*{0} + ym'*{1} m*{1}x*{0} + ym'*{1} ·---------------· ·---------------· ·---------------· | | | | (I) | | | | | ·---|---· | | ·---|---· | | ·---|---· | | |(O)|(O)| | | |(O)|(O)| | | |(O)|(O)| | |(I)|---|---|---| |(I)|---|---|---| |(I)|---|---|---| | | | | | | | | | | | | (I) | | | ·---|---· | | ·---|---· | | ·---|---· | | | | | | | | | | ·---------------· ·---------------· ·---------------·"
+  },
+  {
+    "id": "p-45c59d",
+    "offset": 17456,
+    "text": "(3) *Fallacy of two Entity-Premisses.*"
+  },
+  {
+    "id": "p-d2e529",
+    "offset": 17496,
+    "text": "Here the given Pair may be represented by either (xm*{1} + ym*{1}) or (xm*{1} + ym'*{1})."
+  },
+  {
+    "id": "p-f0e706",
+    "offset": 17587,
+    "text": "These, set out on Triliteral Diagrams, are"
+  },
+  {
+    "id": "p-a7f9ee",
+    "offset": 17631,
+    "text": "xm*{1} + ym*{1} xm*{1} + ym'*{1} ·---------------· ·---------------· | | | | | | | ·---|---· | | ·---|---· | | | (I) | | | | (I) | | |---|(I)|---|---| |(I)|---|---|---| | | | | | | | | | | | ·---|---· | | ·---|---· | | | | | | | ·---------------· ·---------------·"
+  },
+  {
+    "id": "p-d28b5e",
+    "offset": 17897,
+    "text": "pg084 § 4."
+  },
+  {
+    "id": "p-d78256",
+    "offset": 17909,
+    "text": "*Method of proceeding with a given Pair of Propositions.*"
+  },
+  {
+    "id": "p-d62238",
+    "offset": 17968,
+    "text": "Let us suppose that we have before us a Pair of Propositions of Relation, which contain between them a Pair of codivisional Classes, and that we wish to ascertain what Conclusion, if any, is consequent from them. We translate them, if necessary, into subscript-form, and then proceed as follows:--"
+  },
+  {
+    "id": "p-c0f2dc",
+    "offset": 18267,
+    "text": "(1) We examine their Subscripts, in order to see whether they are"
+  },
+  {
+    "id": "p-a1302c",
+    "offset": 18334,
+    "text": "(a) a Pair of Nullities; or (b) a Nullity and an Entity; or (c) a Pair of Entities."
+  },
+  {
+    "id": "p-79d21f",
+    "offset": 18419,
+    "text": "(2) If they are a Pair of Nullities, we examine their Eliminands, in order to see whether they are Unlike or Like."
+  },
+  {
+    "id": "p-d65b47",
+    "offset": 18535,
+    "text": "If their Eliminands are *Unlike*, it is a case of Fig. I. We then examine their Retinends, to see whether one or both of them are asserted to *exist*. If one Retinend is so asserted, it is a case of Fig. I (a); if both, it is a case of Fig. I (b)."
+  },
+  {
+    "id": "p-708589",
+    "offset": 18784,
+    "text": "If their Eliminands are Like, we examine them, in order to see whether either of them is asserted to exist. If so, it is a case of Fig. III.; if not, it is a case of \"Fallacy of Like Eliminands not asserted to exist.\""
+  },
+  {
+    "id": "p-01a34e",
+    "offset": 19003,
+    "text": "(3) If they are a Nullity and an Entity, we examine their Eliminands, in order to see whether they are Like or Unlike."
+  },
+  {
+    "id": "p-cbc0ed",
+    "offset": 19123,
+    "text": "If their Eliminands are Like, it is a case of Fig. II.; if *Unlike*, it is a case of \"Fallacy of Unlike Eliminands with an Entity-Premiss.\""
+  },
+  {
+    "id": "p-6ea685",
+    "offset": 19264,
+    "text": "(4) If they are a Pair of Entities, it is a case of \"Fallacy of two Entity-Premisses.\""
+  },
+  {
+    "id": "p-9de3e2",
+    "offset": 19352,
+    "text": "[Work Examples § =4=, 1-11 (p. 100); § =5=, 1-12 (p. 101); § =6=, 7-12 (p. 106); § =7=, 7-12 (p. 108).]"
+  },
+  {
+    "id": "p-38afb5",
+    "offset": 19457,
+    "text": "pg085"
+  }
+]

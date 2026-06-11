@@ -1,0 +1,26 @@
+{
+  "work_slug": "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
+  "work_title": "Ontology, or the Theory of Being",
+  "chapter_number": 7,
+  "chapter_title": "Chapter VII — REALITY AND THE BEAUTIFUL",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c243f354-db18-57c4-97b0-76bb77a49040",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5685,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/35722"
+    }
+  ]
+}

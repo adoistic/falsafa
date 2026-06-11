@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-a-system-of-logic-ratiocinative--879415",
+  "work_title": "A System of Logic, Ratiocinative and Inductive",
+  "chapter_number": 11,
+  "chapter_title": "Chapter XIX",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f9f55bdc-6ec8-51c8-af0e-bc9d23f5b278",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2746,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/27942"
+    }
+  ]
+}

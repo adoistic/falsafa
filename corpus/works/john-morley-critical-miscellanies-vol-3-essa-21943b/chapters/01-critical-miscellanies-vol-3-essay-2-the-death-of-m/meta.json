@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-critical-miscellanies-vol-3-essa-21943b",
+  "work_title": "Critical Miscellanies, Vol. 3, Essay 2: The Death of Mr. Mill",
+  "chapter_number": 1,
+  "chapter_title": "Critical Miscellanies, Vol. 3, Essay 2: The Death of Mr. Mill",
+  "chapter_slug": "01-critical-miscellanies-vol-3-essay-2-the-death-of-m",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ca99c70-774c-50d4-a6ce-a5d56d8153c2",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 14075,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/20887"
+    }
+  ]
+}

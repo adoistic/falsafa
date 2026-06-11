@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-nietzsche-beyond-good-and-evil-7eb383",
+  "work_title": "Beyond Good and Evil",
+  "chapter_number": 2,
+  "chapter_title": "Chapter II — THE FREE SPIRIT",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ded1cd6d-b6a7-5f87-9e5c-2413e8d15741",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6648,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4363"
+    }
+  ]
+}

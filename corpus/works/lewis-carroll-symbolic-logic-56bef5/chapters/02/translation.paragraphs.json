@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "p-ab82a9",
+    "offset": 0,
+    "text": "PROPOSITIONS."
+  },
+  {
+    "id": "p-4434d4",
+    "offset": 15,
+    "text": "CHAPTER I."
+  },
+  {
+    "id": "p-d5a4a7",
+    "offset": 27,
+    "text": "*PROPOSITIONS GENERALLY.*"
+  },
+  {
+    "id": "p-ae0d41",
+    "offset": 54,
+    "text": "*Introductory.*"
+  },
+  {
+    "id": "p-882edf",
+    "offset": 71,
+    "text": "Note that the word \"some\" is to be regarded, henceforward, as meaning \"one or more.\""
+  },
+  {
+    "id": "p-6fa960",
+    "offset": 157,
+    "text": "The word 'Proposition,' as used in ordinary conversation, may be applied to *any* word, or phrase, which conveys any information whatever."
+  },
+  {
+    "id": "p-59d1d3",
+    "offset": 297,
+    "text": "[Thus the words \"yes\" and \"no\" are Propositions in the ordinary sense of the word; and so are the phrases \"you owe me five farthings\" and \"I don't!\""
+  },
+  {
+    "id": "p-9d2682",
+    "offset": 447,
+    "text": "Such words as \"oh!\" or \"never!\", and such phrases as \"fetch me that book!\" \"which book do you mean?\" do not seem, at first sight, to convey any *information*; but they can easily be turned into equivalent forms which do so, viz. \"I am surprised,\" \"I will never consent to it,\" \"I order you to fetch me that book,\" \"I want to know which book you mean.\"]"
+  },
+  {
+    "id": "p-e015cf",
+    "offset": 801,
+    "text": "But a '=Proposition=,' as used in this First Part of \"Symbolic Logic,\" has a peculiar form, which may be called its '=Normal form='; and if any Proposition, which we wish to use in an argument, is not in normal form, we must reduce it to such a form, before we can use it. pg009 A '=Proposition=,' when in normal form, asserts, as to certain two Classes, which are called its '=Subject=' and '=Predicate=,' either"
+  },
+  {
+    "id": "p-654fb1",
+    "offset": 1216,
+    "text": "(1) that *some* Members of its Subject are Members of its Predicate;"
+  },
+  {
+    "id": "p-b009d6",
+    "offset": 1286,
+    "text": "or (2) that *no* Members of its Subject are Members of its Predicate;"
+  },
+  {
+    "id": "p-9c853a",
+    "offset": 1357,
+    "text": "or (3) that *all* Members of its Subject are Members of its Predicate."
+  },
+  {
+    "id": "p-05ac5a",
+    "offset": 1429,
+    "text": "The Subject and the Predicate of a Proposition are called its '=Terms=.'"
+  },
+  {
+    "id": "p-e0b752",
+    "offset": 1503,
+    "text": "Two Propositions, which convey the *same* information, are said to be '=equivalent='."
+  },
+  {
+    "id": "p-d41c15",
+    "offset": 1590,
+    "text": "[Thus, the two Propositions, \"I see John\" and \"John is seen by me,\" are equivalent.]"
+  },
+  {
+    "id": "p-1d7c86",
+    "offset": 1676,
+    "text": "*Normal form of a Proposition.*"
+  },
+  {
+    "id": "p-4ba968",
+    "offset": 1709,
+    "text": "A Proposition, in normal form, consists of four parts, viz.--"
+  },
+  {
+    "id": "p-ab58cb",
+    "offset": 1772,
+    "text": "(1) The word \"some,\" or \"no,\" or \"all.\" (This word, which tells us *how many* Members of the Subject are also Members of the Predicate, is called the '=Sign of Quantity=.')"
+  },
+  {
+    "id": "p-10911c",
+    "offset": 1946,
+    "text": "(2) Name of Subject."
+  },
+  {
+    "id": "p-cb2311",
+    "offset": 1968,
+    "text": "(3) The verb \"are\" (or \"is\"). (This is called the '=Copula=.')"
+  },
+  {
+    "id": "p-25bfcc",
+    "offset": 2032,
+    "text": "(4) Name of Predicate."
+  },
+  {
+    "id": "p-ad5aca",
+    "offset": 2056,
+    "text": "pg010 § 3."
+  },
+  {
+    "id": "p-d47f3d",
+    "offset": 2068,
+    "text": "*Various kinds of Propositions.*"
+  },
+  {
+    "id": "p-58fcb3",
+    "offset": 2102,
+    "text": "A Proposition, that begins with \"Some\", is said to be '=Particular=.' It is also called 'a Proposition =in I=.'"
+  },
+  {
+    "id": "p-6d5d42",
+    "offset": 2215,
+    "text": "[Note, that it is called 'Particular,' because it refers to a *part* only of the Subject.]"
+  },
+  {
+    "id": "p-961a8f",
+    "offset": 2307,
+    "text": "A Proposition, that begins with \"No\", is said to be '=Universal Negative=.' It is also called 'a Proposition =in E=.'"
+  },
+  {
+    "id": "p-677d33",
+    "offset": 2426,
+    "text": "A Proposition, that begins with \"All\", is said to be '=Universal Affirmative=.' It is also called 'a Proposition =in A=.'"
+  },
+  {
+    "id": "p-e333ea",
+    "offset": 2549,
+    "text": "[Note, that they are called 'Universal', because they refer to the *whole* of the Subject.]"
+  },
+  {
+    "id": "p-4ff0a6",
+    "offset": 2642,
+    "text": "A Proposition, whose Subject is an *Individual*, is to be regarded as *Universal*."
+  },
+  {
+    "id": "p-db14c1",
+    "offset": 2726,
+    "text": "[Let us take, as an example, the Proposition \"John is not well\". This of course implies that there is an *Individual*, to whom the speaker refers when he mentions \"John\", and whom the listener *knows* to be referred to. Hence the Class \"men referred to by the speaker when he mentions 'John'\" is a one-Member Class, and the Proposition is equivalent to \"*All* the men, who are referred to by the speaker when he mentions 'John', are not well.\"]"
+  },
+  {
+    "id": "p-89c60d",
+    "offset": 3172,
+    "text": "Propositions are of two kinds, 'Propositions of Existence' and 'Propositions of Relation.'"
+  },
+  {
+    "id": "p-ca1bfa",
+    "offset": 3264,
+    "text": "These shall be discussed separately."
+  },
+  {
+    "id": "p-48c594",
+    "offset": 3302,
+    "text": "pg011"
+  },
+  {
+    "id": "p-333fc7",
+    "offset": 3309,
+    "text": "CHAPTER II."
+  },
+  {
+    "id": "p-0298eb",
+    "offset": 3322,
+    "text": "*PROPOSITIONS OF EXISTENCE.*"
+  },
+  {
+    "id": "p-d0a0db",
+    "offset": 3352,
+    "text": "A '=Proposition of Existence=', when in normal form, has, for its *Subject*, the Class \"existing Things\"."
+  },
+  {
+    "id": "p-871ea5",
+    "offset": 3459,
+    "text": "Its Sign of Quantity is \"Some\" or \"No\"."
+  },
+  {
+    "id": "p-5bbe23",
+    "offset": 3500,
+    "text": "[Note that, though its Sign of Quantity tells us *how many* existing Things are Members of its Predicate, it does *not* tell us the *exact* number: in fact, it only deals with *two* numbers, which are, in ascending order, \"0\" and \"1 or more.\"]"
+  },
+  {
+    "id": "p-827e65",
+    "offset": 3745,
+    "text": "It is called \"a Proposition of Existence\" because its effect is to assert the *Reality* (i.e. the real *existence*), or else the *Imaginariness*, of its Predicate."
+  },
+  {
+    "id": "p-e7cebb",
+    "offset": 3910,
+    "text": "[Thus, the Proposition \"Some existing Things are honest men\" asserts that the Class \"honest men\" is *Real*."
+  },
+  {
+    "id": "p-8d6c3b",
+    "offset": 4019,
+    "text": "This is the *normal* form; but it may also be expressed in any one of the following forms:--"
+  },
+  {
+    "id": "p-e37964",
+    "offset": 4113,
+    "text": "(1) \"Honest men exist\"; (2) \"Some honest men exist\"; (3) \"The Class 'honest men' exists\"; (4) \"There are honest men\"; (5) \"There are some honest men\"."
+  },
+  {
+    "id": "p-ffd3f4",
+    "offset": 4265,
+    "text": "Similarly, the Proposition \"No existing Things are men fifty feet high\" asserts that the Class \"men 50 feet high\" is *Imaginary*."
+  },
+  {
+    "id": "p-8d6c3b",
+    "offset": 4396,
+    "text": "This is the *normal* form; but it may also be expressed in any one of the following forms:--"
+  },
+  {
+    "id": "p-36bec3",
+    "offset": 4490,
+    "text": "(1) \"Men 50 feet high do not exist\"; (2) \"No men 50 feet high exist\"; (3) \"The Class 'men 50 feet high' does not exist\"; (4) \"There are not any men 50 feet high\"; (5) \"There are no men 50 feet high.\"]"
+  },
+  {
+    "id": "p-47c593",
+    "offset": 4692,
+    "text": "pg012"
+  },
+  {
+    "id": "p-368057",
+    "offset": 4699,
+    "text": "CHAPTER III."
+  },
+  {
+    "id": "p-795406",
+    "offset": 4713,
+    "text": "*PROPOSITIONS OF RELATION.*"
+  },
+  {
+    "id": "p-ae0d41",
+    "offset": 4742,
+    "text": "*Introductory.*"
+  },
+  {
+    "id": "p-0ad1e9",
+    "offset": 4759,
+    "text": "A =Proposition of Relation=, of the kind to be here discussed, has, for its Terms, two Specieses of the same Genus, such that each of the two Names conveys the idea of some Attribute *not* conveyed by the other."
+  },
+  {
+    "id": "p-b73b5d",
+    "offset": 4972,
+    "text": "[Thus, the Proposition \"Some merchants are misers\" is of the right kind, since \"merchants\" and \"misers\" are Specieses of the same Genus \"men\"; and since the Name \"merchants\" conveys the idea of the Attribute \"mercantile\", and the name \"misers\" the idea of the Attribute \"miserly\", each of which ideas is *not* conveyed by the other Name."
+  },
+  {
+    "id": "p-d90da5",
+    "offset": 5311,
+    "text": "But the Proposition \"Some dogs are setters\" is *not* of the right kind, since, although it is true that \"dogs\" and \"setters\" are Specieses of the same Genus \"animals\", it is *not* true that the Name \"dogs\" conveys the idea of any Attribute not conveyed by the Name \"setters\". Such Propositions will be discussed in Part II.]"
+  },
+  {
+    "id": "p-7c9266",
+    "offset": 5637,
+    "text": "The Genus, of which the two Terms are Specieses, is called the '=Universe of Discourse=,' or (more briefly) the '=Univ.='"
+  },
+  {
+    "id": "p-834e29",
+    "offset": 5760,
+    "text": "The Sign of Quantity is \"Some\" or \"No\" or \"All\"."
+  },
+  {
+    "id": "p-169cc0",
+    "offset": 5810,
+    "text": "[Note that, though its Sign of Quantity tells us *how many* Members of its Subject are *also* Members of its Predicate, it does not tell us the *exact* number: in fact, it only deals with *three* numbers, which are, in ascending order, \"0\", \"1 or more\", \"the total number of Members of the Subject\".]"
+  },
+  {
+    "id": "p-ac8905",
+    "offset": 6112,
+    "text": "It is called \"a Proposition of Relation\" because its effect is to assert that a certain *relationship* exists between its Terms."
+  },
+  {
+    "id": "p-ad41bd",
+    "offset": 6242,
+    "text": "pg013 § 2."
+  },
+  {
+    "id": "p-aad140",
+    "offset": 6254,
+    "text": "*Reduction of a Proposition of Relation to Normal form.*"
+  },
+  {
+    "id": "p-0ca89d",
+    "offset": 6312,
+    "text": "The Rules, for doing this, are as follows:--"
+  },
+  {
+    "id": "p-d1b3f8",
+    "offset": 6358,
+    "text": "(1) Ascertain what is the *Subject* (i.e., ascertain what Class we are *talking about*);"
+  },
+  {
+    "id": "p-689ecf",
+    "offset": 6448,
+    "text": "(2) If the verb, governed by the Subject, is *not* the verb \"are\" (or \"is\"), substitute for it a phrase beginning with \"are\" (or \"is\");"
+  },
+  {
+    "id": "p-838ddb",
+    "offset": 6585,
+    "text": "(3) Ascertain what is the *Predicate* (i.e., ascertain what Class it is, which is asserted to contain *some*, or *none*, or *all*, of the Members of the Subject);"
+  },
+  {
+    "id": "p-cb1c31",
+    "offset": 6749,
+    "text": "(4) If the Name of each Term is *completely expressed* (i.e. if it contains a Substantive), there is no need to determine the 'Univ.'; but, if either Name is *incompletely expressed*, and contains *Attributes* only, it is then necessary to determine a 'Univ.', in order to insert its Name as the Substantive."
+  },
+  {
+    "id": "p-406a7b",
+    "offset": 7059,
+    "text": "(5) Ascertain the *Sign of Quantity*;"
+  },
+  {
+    "id": "p-0dc6fc",
+    "offset": 7098,
+    "text": "(6) Arrange in the following order:--"
+  },
+  {
+    "id": "p-e2b209",
+    "offset": 7137,
+    "text": "Sign of Quantity, Subject, Copula, Predicate."
+  },
+  {
+    "id": "p-1f225c",
+    "offset": 7184,
+    "text": "[Let us work a few Examples, to illustrate these Rules."
+  },
+  {
+    "id": "p-31306c",
+    "offset": 7241,
+    "text": "\"Some apples are not ripe.\""
+  },
+  {
+    "id": "p-aa6f34",
+    "offset": 7270,
+    "text": "(1) The Subject is \"apples.\""
+  },
+  {
+    "id": "p-9e9e9a",
+    "offset": 7300,
+    "text": "(2) The Verb is \"are.\""
+  },
+  {
+    "id": "p-68532b",
+    "offset": 7324,
+    "text": "(3) The Predicate is \"not-ripe * * *.\" (As no Substantive is expressed, and we have not yet settled what the Univ. is to be, we are forced to leave a blank.)"
+  },
+  {
+    "id": "p-fb6b8d",
+    "offset": 7483,
+    "text": "(4) Let Univ. be \"fruit.\""
+  },
+  {
+    "id": "p-3e5ba3",
+    "offset": 7510,
+    "text": "(5) The Sign of Quantity is \"some.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 7547,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-9cd3ea",
+    "offset": 7580,
+    "text": "\"Some | apples | are | not-ripe fruit.\""
+  },
+  {
+    "id": "p-a05370",
+    "offset": 7621,
+    "text": "pg014 (2)"
+  },
+  {
+    "id": "p-a917e3",
+    "offset": 7632,
+    "text": "\"None of my speculations have brought me as much as 5 per cent.\""
+  },
+  {
+    "id": "p-c8ba89",
+    "offset": 7698,
+    "text": "(1) The Subject is \"my speculations.\""
+  },
+  {
+    "id": "p-6f3c16",
+    "offset": 7737,
+    "text": "(2) The Verb is \"have brought,\" for which we substitute the phrase \"are * * * that have brought\"."
+  },
+  {
+    "id": "p-ccd569",
+    "offset": 7836,
+    "text": "(3) The Predicate is \"* * * that have brought &c.\""
+  },
+  {
+    "id": "p-101b40",
+    "offset": 7888,
+    "text": "(4) Let Univ. be \"transactions.\""
+  },
+  {
+    "id": "p-9008a4",
+    "offset": 7922,
+    "text": "(5) The Sign of Quantity is \"none of.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 7962,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-b4191c",
+    "offset": 7995,
+    "text": "\"None of | my speculations | are | transactions that have brought me as much as 5 per cent.\""
+  },
+  {
+    "id": "p-a29f9e",
+    "offset": 8089,
+    "text": "\"None but the brave deserve the fair.\""
+  },
+  {
+    "id": "p-fd6653",
+    "offset": 8129,
+    "text": "To begin with, we note that the phrase \"none but the brave\" is equivalent to \"no *not*-brave.\""
+  },
+  {
+    "id": "p-168f27",
+    "offset": 8225,
+    "text": "(1) The Subject has for its *Attribute* \"not-brave.\" But no *Substantive* is supplied. So we express the Subject as \"not-brave * * *.\""
+  },
+  {
+    "id": "p-ca1018",
+    "offset": 8361,
+    "text": "(2) The Verb is \"deserve,\" for which we substitute the phrase \"are deserving of\"."
+  },
+  {
+    "id": "p-a2fc07",
+    "offset": 8444,
+    "text": "(3) The Predicate is \"* * * deserving of the fair.\""
+  },
+  {
+    "id": "p-ff5151",
+    "offset": 8497,
+    "text": "(4) Let Univ. be \"persons.\""
+  },
+  {
+    "id": "p-e8c578",
+    "offset": 8526,
+    "text": "(5) The Sign of Quantity is \"no.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 8561,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-0e2ea5",
+    "offset": 8594,
+    "text": "\"No | not-brave persons | are | persons deserving of the fair.\""
+  },
+  {
+    "id": "p-4b6758",
+    "offset": 8659,
+    "text": "\"A lame puppy would not say \"thank you\" if you offered to lend it a skipping-rope.\""
+  },
+  {
+    "id": "p-33ccf4",
+    "offset": 8744,
+    "text": "(1) The Subject is evidently \"lame puppies,\" and all the rest of the sentence must somehow be packed into the Predicate."
+  },
+  {
+    "id": "p-a0589a",
+    "offset": 8866,
+    "text": "(2) The Verb is \"would not say,\" &c., for which we may substitute the phrase \"are not grateful for.\""
+  },
+  {
+    "id": "p-171861",
+    "offset": 8968,
+    "text": "(3) The Predicate may be expressed as \"* * * not grateful for the loan of a skipping-rope.\""
+  },
+  {
+    "id": "p-6e80b5",
+    "offset": 9061,
+    "text": "(4) Let Univ. be \"puppies.\""
+  },
+  {
+    "id": "p-89f5d8",
+    "offset": 9090,
+    "text": "(5) The Sign of Quantity is \"all.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 9126,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-b60b46",
+    "offset": 9159,
+    "text": "\"All | lame puppies | are | puppies not grateful for the loan of a skipping-rope.\""
+  },
+  {
+    "id": "p-683c98",
+    "offset": 9243,
+    "text": "pg015 (5)"
+  },
+  {
+    "id": "p-016137",
+    "offset": 9254,
+    "text": "\"No one takes in the *Times*, unless he is well-educated.\""
+  },
+  {
+    "id": "p-690d73",
+    "offset": 9314,
+    "text": "(1) The Subject is evidently persons who are not well-educated (\"no *one*\" evidently means \"no *person*\")."
+  },
+  {
+    "id": "p-0f3708",
+    "offset": 9422,
+    "text": "(2) The Verb is \"takes in,\" for which we may substitute the phrase \"are persons taking in.\""
+  },
+  {
+    "id": "p-11aa3d",
+    "offset": 9515,
+    "text": "(3) The Predicate is \"persons taking in the *Times*.\""
+  },
+  {
+    "id": "p-ff5151",
+    "offset": 9570,
+    "text": "(4) Let Univ. be \"persons.\""
+  },
+  {
+    "id": "p-e8c578",
+    "offset": 9599,
+    "text": "(5) The Sign of Quantity is \"no.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 9634,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-e26012",
+    "offset": 9667,
+    "text": "\"No | persons who are not well-educated | are | persons taking in the *Times*.\""
+  },
+  {
+    "id": "p-6b78be",
+    "offset": 9748,
+    "text": "\"My carriage will meet you at the station.\""
+  },
+  {
+    "id": "p-d9b819",
+    "offset": 9793,
+    "text": "(1) The Subject is \"my carriage.\" This, being an 'Individual,' is equivalent to the Class \"my carriages.\" (Note that this Class contains only *one* Member.)"
+  },
+  {
+    "id": "p-6dfea0",
+    "offset": 9951,
+    "text": "(2) The Verb is \"will meet\", for which we may substitute the phrase \"are * * * that will meet.\""
+  },
+  {
+    "id": "p-d7a371",
+    "offset": 10048,
+    "text": "(3) The Predicate is \"* * * that will meet you at the station.\""
+  },
+  {
+    "id": "p-927fd7",
+    "offset": 10113,
+    "text": "(4) Let Univ. be \"things.\""
+  },
+  {
+    "id": "p-89f5d8",
+    "offset": 10141,
+    "text": "(5) The Sign of Quantity is \"all.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 10177,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-2a5ba3",
+    "offset": 10210,
+    "text": "\"All | my carriages | are | things that will meet you at the station.\""
+  },
+  {
+    "id": "p-0e5d52",
+    "offset": 10282,
+    "text": "\"Happy is the man who does not know what 'toothache' means!\""
+  },
+  {
+    "id": "p-45d86e",
+    "offset": 10344,
+    "text": "(1) The Subject is evidently \"the man &c.\" (Note that in this sentence, the *Predicate* comes first.) At first sight, the Subject seems to be an '*Individual*'; but on further consideration, we see that the article \"the\" does *not* imply that there is only *one* such man. Hence the phrase \"the man who\" is equivalent to \"all men who\"."
+  },
+  {
+    "id": "p-9e9e9a",
+    "offset": 10681,
+    "text": "(2) The Verb is \"are.\""
+  },
+  {
+    "id": "p-74817b",
+    "offset": 10705,
+    "text": "(3) The Predicate is \"happy * * *.\""
+  },
+  {
+    "id": "p-da2671",
+    "offset": 10742,
+    "text": "(4) Let Univ. be \"men.\""
+  },
+  {
+    "id": "p-89f5d8",
+    "offset": 10767,
+    "text": "(5) The Sign of Quantity is \"all.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 10803,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-003cb5",
+    "offset": 10836,
+    "text": "\"All | men who do not know what 'toothache' means | are | happy men.\""
+  },
+  {
+    "id": "p-6c52e3",
+    "offset": 10907,
+    "text": "pg016 (8)"
+  },
+  {
+    "id": "p-f48592",
+    "offset": 10918,
+    "text": "\"Some farmers always grumble at the weather, whatever it may be.\""
+  },
+  {
+    "id": "p-38081f",
+    "offset": 10985,
+    "text": "(1) The Subject is \"farmers.\""
+  },
+  {
+    "id": "p-2eb10b",
+    "offset": 11016,
+    "text": "(2) The Verb is \"grumble,\" for which we substitute the phrase \"are * * * who grumble.\""
+  },
+  {
+    "id": "p-b17d73",
+    "offset": 11104,
+    "text": "(3) The Predicate is \"* * * who always grumble &c.\""
+  },
+  {
+    "id": "p-ff5151",
+    "offset": 11157,
+    "text": "(4) Let Univ. be \"persons.\""
+  },
+  {
+    "id": "p-3e5ba3",
+    "offset": 11186,
+    "text": "(5) The Sign of Quantity is \"some.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 11223,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-7abdaa",
+    "offset": 11256,
+    "text": "\"Some | farmers | are | persons who always grumble at the weather, whatever it may be.\""
+  },
+  {
+    "id": "p-2fa606",
+    "offset": 11345,
+    "text": "\"No lambs are accustomed to smoke cigars.\""
+  },
+  {
+    "id": "p-1e26ef",
+    "offset": 11389,
+    "text": "(1) The Subject is \"lambs.\""
+  },
+  {
+    "id": "p-9e9e9a",
+    "offset": 11418,
+    "text": "(2) The Verb is \"are.\""
+  },
+  {
+    "id": "p-8503a8",
+    "offset": 11442,
+    "text": "(3) The Predicate is \"* * * accustomed &c.\""
+  },
+  {
+    "id": "p-a7b046",
+    "offset": 11487,
+    "text": "(4) Let Univ. be \"animals.\""
+  },
+  {
+    "id": "p-e8c578",
+    "offset": 11516,
+    "text": "(5) The Sign of Quantity is \"no.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 11551,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-2281cd",
+    "offset": 11584,
+    "text": "\"No | lambs | are | animals accustomed to smoke cigars.\""
+  },
+  {
+    "id": "p-31a35a",
+    "offset": 11642,
+    "text": "\"I ca'n't understand examples that are not arranged in regular order, like those I am used to.\""
+  },
+  {
+    "id": "p-ea4508",
+    "offset": 11739,
+    "text": "(1) The Subject is \"examples that,\" &c."
+  },
+  {
+    "id": "p-8e4d23",
+    "offset": 11780,
+    "text": "(2) The Verb is \"I ca'n't understand,\" which we must alter, so as to have \"examples,\" instead of \"I,\" as the nominative case. It may be expressed as \"are not understood by me.\""
+  },
+  {
+    "id": "p-5877f0",
+    "offset": 11958,
+    "text": "(3) The Predicate is \"* * * not understood by me.\""
+  },
+  {
+    "id": "p-93bf1f",
+    "offset": 12010,
+    "text": "(4) Let Univ. be \"examples.\""
+  },
+  {
+    "id": "p-89f5d8",
+    "offset": 12040,
+    "text": "(5) The Sign of Quantity is \"all.\""
+  },
+  {
+    "id": "p-020a52",
+    "offset": 12076,
+    "text": "(6) The Proposition now becomes"
+  },
+  {
+    "id": "p-e6dda9",
+    "offset": 12109,
+    "text": "\"All | examples that are not arranged in regular order like those I am used to | are | examples not understood by me.\"]"
+  },
+  {
+    "id": "p-649848",
+    "offset": 12230,
+    "text": "pg017 § 3."
+  },
+  {
+    "id": "p-b73a16",
+    "offset": 12242,
+    "text": "_A Proposition of Relation, beginning with \"All\", is a Double Proposition._"
+  },
+  {
+    "id": "p-758645",
+    "offset": 12319,
+    "text": "A Proposition of Relation, beginning with \"All\", asserts (as we already know) that \"*All* Members of the Subject are Members of the Predicate\". This evidently contains, as a *part* of what it tells us, the smaller Proposition \"*Some* Members of the Subject are Members of the Predicate\"."
+  },
+  {
+    "id": "p-7c686c",
+    "offset": 12608,
+    "text": "[Thus, the Proposition \"*All* bankers are rich men\" evidently contains the smaller Proposition \"*Some* bankers are rich men\".]"
+  },
+  {
+    "id": "p-736bb2",
+    "offset": 12736,
+    "text": "The question now arises \"What is the *rest* of the information which this Proposition gives us?\""
+  },
+  {
+    "id": "p-5cdc0c",
+    "offset": 12834,
+    "text": "In order to answer this question, let us begin with the smaller Proposition, \"*Some* Members of the Subject are Members of the Predicate,\" and suppose that this is *all* we have been told; and let us proceed to inquire what *else* we need to be told, in order to know that \"*All* Members of the Subject are Members of the Predicate\"."
+  },
+  {
+    "id": "p-9dbe94",
+    "offset": 13169,
+    "text": "[Thus, we may suppose that the Proposition \"*Some* bankers are rich men\" is all the information we possess; and we may proceed to inquire what *other* Proposition needs to be added to it, in order to make up the entire Proposition \"*All* bankers are rich men\".]"
+  },
+  {
+    "id": "p-ea66df",
+    "offset": 13432,
+    "text": "Let us also suppose that the 'Univ.' (i.e. the Genus, of which both the Subject and the Predicate are Specieses) has been divided (by the Process of *Dichotomy*) into two smaller Classes, viz."
+  },
+  {
+    "id": "p-8ada82",
+    "offset": 13626,
+    "text": "(1) the Predicate;"
+  },
+  {
+    "id": "p-268195",
+    "offset": 13646,
+    "text": "(2) the Class whose Differentia is *contradictory* to that of the Predicate."
+  },
+  {
+    "id": "p-8f0640",
+    "offset": 13724,
+    "text": "[Thus, we may suppose that the Genus \"men,\" (of which both \"bankers\" and \"rich men\" are Specieses) has been divided into the two smaller Classes, \"rich men\", \"poor men\".] pg018 Now we know that *every* Member of the Subject is (as shown at p. 6) a Member of the Univ. Hence *every* Member of the Subject is either in Class (1) or else in Class (2)."
+  },
+  {
+    "id": "p-2acc16",
+    "offset": 14074,
+    "text": "[Thus, we know that *every* banker is a Member of the Genus \"men\". Hence, *every* banker is either in the Class \"rich men\", or else in the Class \"poor men\".]"
+  },
+  {
+    "id": "p-d5f4a4",
+    "offset": 14233,
+    "text": "Also we have been told that, in the case we are discussing, *some* Members of the Subject are in Class (1). What *else* do we need to be told, in order to know that *all* of them are there? Evidently we need to be told that *none* of them are in Class (2); i.e. that *none* of them are Members of the Class whose Differentia is *contradictory* to that of the Predicate."
+  },
+  {
+    "id": "p-b18e2b",
+    "offset": 14604,
+    "text": "[Thus, we may suppose we have been told that *some* bankers are in the Class \"rich men\". What *else* do we need to be told, in order to know that *all* of them are there? Evidently we need to be told that *none* of them are in the Class \"*poor* men\".]"
+  },
+  {
+    "id": "p-479e1b",
+    "offset": 14857,
+    "text": "Hence a Proposition of Relation, beginning with \"All\", is a *Double* Proposition, and is '=equivalent=' to (i.e. gives the same information as) the *two* Propositions"
+  },
+  {
+    "id": "p-687db1",
+    "offset": 15025,
+    "text": "(1) \"*Some* Members of the Subject are Members of the Predicate\";"
+  },
+  {
+    "id": "p-0ee531",
+    "offset": 15092,
+    "text": "(2) \"*No* Members of the Subject are Members of the Class whose Differentia is *contradictory* to that of the Predicate\"."
+  },
+  {
+    "id": "p-c274f5",
+    "offset": 15215,
+    "text": "[Thus, the Proposition \"*All* bankers are rich men\" is a *Double* Proposition, and is equivalent to the *two* Propositions"
+  },
+  {
+    "id": "p-3b1083",
+    "offset": 15339,
+    "text": "(1) \"*Some* bankers are rich men\";"
+  },
+  {
+    "id": "p-0789f1",
+    "offset": 15375,
+    "text": "(2) \"*No* bankers are *poor* men\".]"
+  },
+  {
+    "id": "p-503a47",
+    "offset": 15412,
+    "text": "pg019 § 4."
+  },
+  {
+    "id": "p-e31954",
+    "offset": 15424,
+    "text": "_What is implied, in a Proposition of Relation, as to the Reality of its Terms?_"
+  },
+  {
+    "id": "p-3be731",
+    "offset": 15506,
+    "text": "Note that the rules, here laid down, are *arbitrary*, and only apply to Part I of my \"Symbolic Logic.\""
+  },
+  {
+    "id": "p-8d8788",
+    "offset": 15610,
+    "text": "A Proposition of Relation, beginning with \"Some\", is henceforward to be understood as asserting that there are *some existing Things*, which, being Members of the Subject, are also Members of the Predicate; i.e. that *some existing Things* are Members of *both* Terms at once. Hence it is to be understood as implying that *each* Term, taken by itself, is *Real*."
+  },
+  {
+    "id": "p-e30267",
+    "offset": 15975,
+    "text": "[Thus, the Proposition \"Some rich men are invalids\" is to be understood as asserting that *some existing Things* are \"rich invalids\". Hence it implies that *each* of the two Classes, \"rich men\" and \"invalids\", taken by itself, is *Real*.]"
+  },
+  {
+    "id": "p-13e152",
+    "offset": 16215,
+    "text": "A Proposition of Relation, beginning with \"No\", is henceforward to be understood as asserting that there are *no existing Things* which, being Members of the Subject, are also Members of the Predicate; i.e. that _no existing Things* are Members of *both_ Terms at once. But this implies nothing as to the *Reality* of either Term taken by itself."
+  },
+  {
+    "id": "p-30b2dc",
+    "offset": 16563,
+    "text": "[Thus, the Proposition \"No mermaids are milliners\" is to be understood as asserting that *no existing Things* are \"mermaid-milliners\". But this implies nothing as to the *Reality*, or the *Unreality*, of either of the two Classes, \"mermaids\" and \"milliners\", taken by itself. In this case as it happens, the Subject is *Imaginary*, and the Predicate *Real*.]"
+  },
+  {
+    "id": "p-bf5ae0",
+    "offset": 16923,
+    "text": "A Proposition of Relation, beginning with \"All\", contains (see § 3) a similar Proposition beginning with \"Some\". Hence it is to be understood as implying that *each* Term, taken by itself, is *Real*."
+  },
+  {
+    "id": "p-7c0922",
+    "offset": 17124,
+    "text": "[Thus, the Proposition \"All hyænas are savage animals\" contains the Proposition \"Some hyænas are savage animals\". Hence it implies that *each* of the two Classes, \"hyænas\" and \"savage animals\", taken by itself, is *Real*.]"
+  },
+  {
+    "id": "p-71470b",
+    "offset": 17348,
+    "text": "pg020 § 5."
+  },
+  {
+    "id": "p-92af5d",
+    "offset": 17360,
+    "text": "_Translation of a Proposition of Relation into one or more Propositions of Existence._"
+  },
+  {
+    "id": "p-5a2ae2",
+    "offset": 17448,
+    "text": "We have seen that a Proposition of Relation, beginning with \"Some,\" asserts that *some existing Things*, being Members of its Subject, are *also* Members of its Predicate. Hence, it asserts that some existing Things are Members of *both*; i.e. it asserts that some existing Things are Members of the Class of Things which have *all* the Attributes of the Subject and the Predicate."
+  },
+  {
+    "id": "p-b90ed0",
+    "offset": 17831,
+    "text": "Hence, to translate it into a Proposition of Existence, we take \"existing Things\" as the new *Subject*, and Things, which have *all* the Attributes of the Subject and the Predicate, as the new Predicate."
+  },
+  {
+    "id": "p-efcafb",
+    "offset": 18036,
+    "text": "Similarly for a Proposition of Relation beginning with \"No\"."
+  },
+  {
+    "id": "p-5f1051",
+    "offset": 18098,
+    "text": "A Proposition of Relation, beginning with \"All\", is (as shown in § 3) equivalent to *two* Propositions, one beginning with \"Some\" and the other with \"No\", each of which we now know how to translate."
+  },
+  {
+    "id": "p-1f225c",
+    "offset": 18298,
+    "text": "[Let us work a few Examples, to illustrate these Rules."
+  },
+  {
+    "id": "p-31306c",
+    "offset": 18355,
+    "text": "\"Some apples are not ripe.\""
+  },
+  {
+    "id": "p-c74dca",
+    "offset": 18384,
+    "text": "Here we arrange thus:--"
+  },
+  {
+    "id": "p-8bebf3",
+    "offset": 18409,
+    "text": "\"Some\" *Sign of Quantity*. \"existing Things\" *Subject*. \"are\" *Copula*. \"not-ripe apples\" *Predicate*."
+  },
+  {
+    "id": "p-feecb3",
+    "offset": 18513,
+    "text": "or thus:--"
+  },
+  {
+    "id": "p-fc4842",
+    "offset": 18525,
+    "text": "\"Some | existing Things | are | not-ripe apples.\" pg021 (2)"
+  },
+  {
+    "id": "p-f48592",
+    "offset": 18586,
+    "text": "\"Some farmers always grumble at the weather, whatever it may be.\""
+  },
+  {
+    "id": "p-c74dca",
+    "offset": 18653,
+    "text": "Here we arrange thus:--"
+  },
+  {
+    "id": "p-87e54d",
+    "offset": 18678,
+    "text": "\"Some | existing Things | are | farmers who always grumble at the weather, whatever it may be.\""
+  },
+  {
+    "id": "p-2fa606",
+    "offset": 18775,
+    "text": "\"No lambs are accustomed to smoke cigars.\""
+  },
+  {
+    "id": "p-c74dca",
+    "offset": 18819,
+    "text": "Here we arrange thus:--"
+  },
+  {
+    "id": "p-a594fd",
+    "offset": 18844,
+    "text": "\"No | existing Things |are | lambs accustomed to smoke cigars.\""
+  },
+  {
+    "id": "p-a917e3",
+    "offset": 18909,
+    "text": "\"None of my speculations have brought me as much as 5 per cent.\""
+  },
+  {
+    "id": "p-c74dca",
+    "offset": 18975,
+    "text": "Here we arrange thus:--"
+  },
+  {
+    "id": "p-bb2b54",
+    "offset": 19000,
+    "text": "\"No | existing Things | are | speculations of mine, which have brought me as much as 5 per cent.\""
+  },
+  {
+    "id": "p-a29f9e",
+    "offset": 19099,
+    "text": "\"None but the brave deserve the fair.\""
+  },
+  {
+    "id": "p-950508",
+    "offset": 19139,
+    "text": "Here we note, to begin with, that the phrase \"none but the brave\" is equivalent to \"no not-brave men.\" We then arrange thus:--"
+  },
+  {
+    "id": "p-2e1614",
+    "offset": 19267,
+    "text": "\"No | existing Things | are | not-brave men deserving of the fair.\""
+  },
+  {
+    "id": "p-99c784",
+    "offset": 19336,
+    "text": "\"All bankers are rich men.\""
+  },
+  {
+    "id": "p-74fd50",
+    "offset": 19365,
+    "text": "This is equivalent to the two Propositions \"Some bankers are rich men\" and \"No bankers are poor men.\""
+  },
+  {
+    "id": "p-c74dca",
+    "offset": 19468,
+    "text": "Here we arrange thus:--"
+  },
+  {
+    "id": "p-bfe361",
+    "offset": 19493,
+    "text": "\"Some | existing Things | are | rich bankers\"; and \"No | existing Things | are | poor bankers.\"]"
+  },
+  {
+    "id": "p-d51697",
+    "offset": 19591,
+    "text": "[Work Examples § =1=, 1-4 (p. 97).]"
+  },
+  {
+    "id": "p-4dc7db",
+    "offset": 19628,
+    "text": "pg022"
+  }
+]

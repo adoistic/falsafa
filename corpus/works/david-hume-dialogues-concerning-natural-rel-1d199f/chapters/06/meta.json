@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-hume-dialogues-concerning-natural-rel-1d199f",
+  "work_title": "Dialogues Concerning Natural Religion",
+  "chapter_number": 6,
+  "chapter_title": "Part 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4232eabc-c29a-5690-bbcf-12e6b2d65805",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2022,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4583"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-the-analysis-of-mind-944053",
+  "work_title": "The Analysis of Mind",
+  "chapter_number": 4,
+  "chapter_title": "Lecture V — PSYCHOLOGICAL AND PHYSICAL CAUSAL LAWS",
+  "chapter_slug": "04-lecture-v-psychological-and-physical-causal-laws",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe11f2e5-b9b5-524a-a6ae-e28c95e21606",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4188,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/2529"
+    }
+  ]
+}

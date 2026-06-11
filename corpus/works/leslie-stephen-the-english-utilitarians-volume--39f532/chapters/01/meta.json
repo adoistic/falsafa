@@ -1,0 +1,26 @@
+{
+  "work_slug": "leslie-stephen-the-english-utilitarians-volume--39f532",
+  "work_title": "The English Utilitarians, Volume 1",
+  "chapter_number": 1,
+  "chapter_title": "Chapter I",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a6bb3539-7c5a-5896-93bb-8187cb33b9f1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12978,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/27597"
+    }
+  ]
+}

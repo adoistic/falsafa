@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-the-problems-of-philosophy-47c80e",
+  "work_title": "The Problems of Philosophy",
+  "chapter_number": 15,
+  "chapter_title": "Chapter XV — THE VALUE OF PHILOSOPHY",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b61b0d2c-e394-5f1b-bc1c-5196b74b8332",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2494,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5827"
+    }
+  ]
+}

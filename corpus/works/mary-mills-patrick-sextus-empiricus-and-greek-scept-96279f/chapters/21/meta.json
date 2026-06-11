@@ -1,0 +1,26 @@
+{
+  "work_slug": "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f",
+  "work_title": "Sextus Empiricus and Greek Scepticism",
+  "chapter_number": 21,
+  "chapter_title": "Chapter XXII",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "023948f1-e7df-5427-9ae2-5a2287392f35",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 104,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/17556"
+    }
+  ]
+}

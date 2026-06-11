@@ -1,0 +1,1962 @@
+[
+  {
+    "id": "p-e80420",
+    "offset": 0,
+    "text": "*ANSWERS.*"
+  },
+  {
+    "id": "p-3cb65b",
+    "offset": 12,
+    "text": "*Answers to § 1.* AN1"
+  },
+  {
+    "id": "p-270732",
+    "offset": 35,
+    "text": "1. \"All\" *Sign of Quantity.* \"persons represented by the Name 'I'\" (or \"I's\") *Subject.* \"are\" *Copula.* \"persons who have been out for a walk\" *Predicate.*"
+  },
+  {
+    "id": "p-192bbc",
+    "offset": 193,
+    "text": "or, more briefly,"
+  },
+  {
+    "id": "p-b5a9b9",
+    "offset": 212,
+    "text": "\"All | 'I's | are | persons who have been out for a walk\"."
+  },
+  {
+    "id": "p-a6f809",
+    "offset": 272,
+    "text": "2. \"All | 'I's | are | persons who feel better\"."
+  },
+  {
+    "id": "p-97c2af",
+    "offset": 322,
+    "text": "3. \"No | persons who are not 'John' | are | persons who have read the letter\"."
+  },
+  {
+    "id": "p-75e920",
+    "offset": 402,
+    "text": "4. \"No | Members of the Class 'you and I' | are | old persons\"."
+  },
+  {
+    "id": "p-471135",
+    "offset": 467,
+    "text": "5. \"No | fat creatures | are | creatures that run well\"."
+  },
+  {
+    "id": "p-2d620d",
+    "offset": 525,
+    "text": "6. \"No | not-brave persons | are | persons deserving of the fair\"."
+  },
+  {
+    "id": "p-a89982",
+    "offset": 593,
+    "text": "7. \"No | not-pale persons | are | persons who look poetical\"."
+  },
+  {
+    "id": "p-9716ec",
+    "offset": 656,
+    "text": "8. \"Some | judges | are | persons who lose their tempers\"."
+  },
+  {
+    "id": "p-593b7e",
+    "offset": 716,
+    "text": "9. \"All | 'I's | are | persons who do not neglect important business\"."
+  },
+  {
+    "id": "p-0296c4",
+    "offset": 788,
+    "text": "10. \"All | difficult things | are | things that need attention\"."
+  },
+  {
+    "id": "p-073316",
+    "offset": 854,
+    "text": "11. \"All | unwholesome things | are | things that should be avoided\"."
+  },
+  {
+    "id": "p-712b5b",
+    "offset": 925,
+    "text": "12. \"All | laws passed last week | are | laws relating to excise\"."
+  },
+  {
+    "id": "p-b1130b",
+    "offset": 993,
+    "text": "13. \"All | logical studies | are | things that puzzle me\"."
+  },
+  {
+    "id": "p-56b79a",
+    "offset": 1053,
+    "text": "14. \"No | persons in the house | are | Jews\"."
+  },
+  {
+    "id": "p-eef4d8",
+    "offset": 1100,
+    "text": "15. \"Some | not well-cooked dishes | are | unwholesome dishes\"."
+  },
+  {
+    "id": "p-4af254",
+    "offset": 1165,
+    "text": "16. \"All | unexciting books | are | books that make one drowsy\"."
+  },
+  {
+    "id": "p-16fdad",
+    "offset": 1231,
+    "text": "17. \"All | men who know what they're about | are | men who can detect a sharper\"."
+  },
+  {
+    "id": "p-3f1464",
+    "offset": 1314,
+    "text": "18. \"All | Members of the Class 'you and I' | are | persons who know what they're about\"."
+  },
+  {
+    "id": "p-39f39f",
+    "offset": 1405,
+    "text": "19. \"Some | bald persons | are | persons accustomed to wear wigs\"."
+  },
+  {
+    "id": "p-de0f8e",
+    "offset": 1473,
+    "text": "20. \"All | fully occupied persons | are | persons who do not talk about their grievances\"."
+  },
+  {
+    "id": "p-cda92f",
+    "offset": 1565,
+    "text": "21. \"No | riddles that can be solved | are | riddles that interest me\"."
+  },
+  {
+    "id": "p-f48bcc",
+    "offset": 1638,
+    "text": "pg126 *Answers to § 2.* AN2"
+  },
+  {
+    "id": "p-d94206",
+    "offset": 1667,
+    "text": "1 ·---------------· |(O) | | | ·---|---· | | |(O)|(O)| | |---|---|---|---| | | | | | | ·---|---· | |(O) | | ·---------------·"
+  },
+  {
+    "id": "p-5235f8",
+    "offset": 1794,
+    "text": "2 ·---------------· |(I) | (O)| | ·---|---· | | | | | | |---|---|---|---| | | | | | | ·---|---· | |(O) | (O)| ·---------------·"
+  },
+  {
+    "id": "p-c0ab01",
+    "offset": 1923,
+    "text": "3 ·---------------· | | | | ·---|---· | | |(O)| | | |---|---|---|---| | |(O)|(I)| | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-4d1d9c",
+    "offset": 2046,
+    "text": "4 ·---------------· |(O) | | | ·---|---· | | | (I) | | |---|---|---|(I)| | |(O)|(O)| | | ·---|---· | |(O) | | ·---------------·"
+  },
+  {
+    "id": "p-d0d83c",
+    "offset": 2175,
+    "text": "5 ·---------------· |(O) | (I)| | ·---|---· | | | | | | |---|---|---|---| | | | | | | ·---|---· | |(O) | (O)| ·---------------·"
+  },
+  {
+    "id": "p-ae8747",
+    "offset": 2304,
+    "text": "6 ·---------------· | | | | ·---|---· | | | |(O)| | |---|---|---|---| | |(O)|(O)| | | ·---|---· | | (I) | ·---------------·"
+  },
+  {
+    "id": "p-f273d0",
+    "offset": 2429,
+    "text": "7 ·---------------· |(O) | (O)| | ·---|---· | | |(I)|(O)| | |---|---|---|---| | | |(O)| | | ·---|---· | | | (I)| ·---------------·"
+  },
+  {
+    "id": "p-297ede",
+    "offset": 2561,
+    "text": "8 ·---------------· | | | | ·---|---· | | |(O)| | | |---|---|---|---| | |(O)| | | | ·---|---· | | (I) | ·---------------·"
+  },
+  {
+    "id": "p-fd3ee8",
+    "offset": 2684,
+    "text": "9 ·---------------· | | | | ·---|---· | | |(O)|(O)| | |---|---|---|---| | |(O)|(I)| | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-c02749",
+    "offset": 2809,
+    "text": "10 ·---------------· |(O) | | | ·---|---· | | | | | | |---|---|---|---| | |(O)|(O)| | | ·---|---· | |(O) | | ·---------------·"
+  },
+  {
+    "id": "p-6def12",
+    "offset": 2937,
+    "text": "11 ·---------------· | | | | ·---|---· | | |(O)| | | |---|---|---|---| | |(O)| | | | ·---|---· | |(O) | (O)| ·---------------·"
+  },
+  {
+    "id": "p-9e0b4e",
+    "offset": 3065,
+    "text": "12 ·---------------· | | (O)| | ·---|---· | | | (I) | | |---|---|(I)|---| | | | | | | ·---|---· | | | (O)| ·---------------·"
+  },
+  {
+    "id": "p-0ca179",
+    "offset": 3191,
+    "text": "13 ·---------------· | | | | ·---|---· | | | |(O)| | |---|---|---|---| | |(I)|(O)| | | ·---|---· | |(O) | (O)| ·---------------·"
+  },
+  {
+    "id": "p-8a11e1",
+    "offset": 3321,
+    "text": "14 ·---------------· | (I) | | ·---|---· | | | |(O)| | |---|(I)|---|---| | | |(O)| | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-8d8fe0",
+    "offset": 3445,
+    "text": "15 ·---------------· |(O) | | | ·---|---· | | | | | | |---|(I)|---|---| | | | | | | ·---|---· | |(O) | (O)| ·---------------·"
+  },
+  {
+    "id": "p-a8911f",
+    "offset": 3572,
+    "text": "16 ·---------------· | (I) | | ·---|---· | | |(O)|(O)| | |---|---|---|---| | |(O)| | | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-ed12c7",
+    "offset": 3698,
+    "text": "17 ·---------------· |(I) | (O)| | ·---|---· | | | | | | |---|---|---|---| | | | | | | ·---|---· | | | (O)| ·---------------·"
+  },
+  {
+    "id": "p-191c12",
+    "offset": 3825,
+    "text": "18 ·---------------· | (I) | | ·---|---· | | |(O)|(O)| | |---|---|---|(I)| | | | | | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-4e255d",
+    "offset": 3949,
+    "text": "19 ·---------------· | | | | ·---|---· | | | |(I)| | |---|---|---|---| | |(O)|(O)| | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-87ab58",
+    "offset": 4073,
+    "text": "20 ·---------------· | | | | ·---|---· | | |(I)| | | |---|---|---|---| | |(O)|(O)| | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-587203",
+    "offset": 4197,
+    "text": "21 ·---------------· | | (O)| | ·---|---· | | | | | | |---|---|(I)|---| | | | | | | ·---|---· | |(I) | (O)| ·---------------·"
+  },
+  {
+    "id": "p-5c10be",
+    "offset": 4324,
+    "text": "22 ·---------------· | | | | ·---|---· | | |(O)|(O)| | |---|---|---|---| | |(I)| | | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-984a3a",
+    "offset": 4448,
+    "text": "23 ·---------------· |(O) | (O)| | ·---|---· | | |(O)| | | |---|---|---|---| | |(O)| | | | ·---|---· | |(I) | | ·---------------·"
+  },
+  {
+    "id": "p-7a1382",
+    "offset": 4579,
+    "text": "24 ·---------------· | | (O)| | ·---|---· | | | (I) | | |---|---|---|---| | |(O)|(O)| | | ·---|---· | | | (O)| ·---------------· pg127 25 ·---------------· | | | | ·---|---· | | |(I)|(O)| | |---|---|---|---| | | |(O)| | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-3ba0d9",
+    "offset": 4838,
+    "text": "26 ·---------------· |(O) | (O)| | ·---|---· | | | | | | |---|---|---|---| | | | | | | ·---|---· | |(I) | | ·---------------·"
+  },
+  {
+    "id": "p-ed7302",
+    "offset": 4965,
+    "text": "27 ·---------------· | | (O)| | ·---|---· | | | | | | |---|---|---|---| | | (I) | | | ·---|---· | | | (O)| ·---------------·"
+  },
+  {
+    "id": "p-68d495",
+    "offset": 5091,
+    "text": "28 ·---------------· |(O) | (O)| | ·---|---· | | |(O)| | | |---|---|(I)|---| | |(O)| | | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-34889f",
+    "offset": 5219,
+    "text": "29 ·---------------· | | | | ·---|---· | | | |(O)| | |---|---|---|---| | |(O)|(O)| | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-ca6b5b",
+    "offset": 5343,
+    "text": "30 ·---------------· | | | | ·---|---· | | |(O)|(O)| | |---|---|---|(I)| | | | | | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-54674a",
+    "offset": 5465,
+    "text": "31 ·---------------· |(I) | (O)| | ·---|---· | | | | | | |---|---|(I)|---| | | | | | | ·---|---· | | | (O)| ·---------------·"
+  },
+  {
+    "id": "p-24a9b3",
+    "offset": 5592,
+    "text": "32 ·---------------· |(O) | (I)| | ·---|---· | | |(O)|(O)| | |---|---|---|---| | |(I)| | | | ·---|---· | |(O) | | ·---------------·"
+  },
+  {
+    "id": "p-32408d",
+    "offset": 5725,
+    "text": "*Answers to § 3.* AN3"
+  },
+  {
+    "id": "p-d6befa",
+    "offset": 5748,
+    "text": "1. Some xy exist, or some x are y, or some y are x."
+  },
+  {
+    "id": "p-aa4409",
+    "offset": 5801,
+    "text": "2. No information."
+  },
+  {
+    "id": "p-2bd365",
+    "offset": 5821,
+    "text": "3. All y' are x'."
+  },
+  {
+    "id": "p-157cbd",
+    "offset": 5840,
+    "text": "4. No xy exist, &c."
+  },
+  {
+    "id": "p-3f77be",
+    "offset": 5861,
+    "text": "5. All y' are x."
+  },
+  {
+    "id": "p-472619",
+    "offset": 5879,
+    "text": "6. All x' are y."
+  },
+  {
+    "id": "p-a72fb4",
+    "offset": 5897,
+    "text": "7. All x are y."
+  },
+  {
+    "id": "p-ba5102",
+    "offset": 5914,
+    "text": "8. All x' are y', and all y are x."
+  },
+  {
+    "id": "p-86d207",
+    "offset": 5950,
+    "text": "9. All x' are y'."
+  },
+  {
+    "id": "p-08e215",
+    "offset": 5969,
+    "text": "10. All x are y'."
+  },
+  {
+    "id": "p-573e8e",
+    "offset": 5988,
+    "text": "11. No information."
+  },
+  {
+    "id": "p-c68a97",
+    "offset": 6009,
+    "text": "12. Some x'y' exist, &c."
+  },
+  {
+    "id": "p-ddff2c",
+    "offset": 6035,
+    "text": "13. Some xy' exist, &c."
+  },
+  {
+    "id": "p-123076",
+    "offset": 6060,
+    "text": "14. No xy' exist, &c."
+  },
+  {
+    "id": "p-2cdb76",
+    "offset": 6083,
+    "text": "15. Some xy exist, &c."
+  },
+  {
+    "id": "p-828afd",
+    "offset": 6107,
+    "text": "16. All y are x."
+  },
+  {
+    "id": "p-35e20d",
+    "offset": 6125,
+    "text": "17. All x' are y, and all y' are x."
+  },
+  {
+    "id": "p-6c8869",
+    "offset": 6162,
+    "text": "18. All x are y', and all y are x'."
+  },
+  {
+    "id": "p-911fa1",
+    "offset": 6199,
+    "text": "19. All x are y, and all y' are x'."
+  },
+  {
+    "id": "p-bacb24",
+    "offset": 6236,
+    "text": "20. All y are x'."
+  },
+  {
+    "id": "p-993fa3",
+    "offset": 6255,
+    "text": "*Answers to § 4.* AN4"
+  },
+  {
+    "id": "p-ea30ad",
+    "offset": 6278,
+    "text": "1. No x' are y'."
+  },
+  {
+    "id": "p-e4ca57",
+    "offset": 6296,
+    "text": "2. Some x' are y'."
+  },
+  {
+    "id": "p-d32f44",
+    "offset": 6316,
+    "text": "3. Some x are y'."
+  },
+  {
+    "id": "p-a4d0ec",
+    "offset": 6335,
+    "text": "4. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-08c335",
+    "offset": 6401,
+    "text": "5. Some x' are y'."
+  },
+  {
+    "id": "p-97241d",
+    "offset": 6421,
+    "text": "6. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-ba5b73",
+    "offset": 6487,
+    "text": "7. Some x are y'."
+  },
+  {
+    "id": "p-a6d0ef",
+    "offset": 6506,
+    "text": "8. Some x' are y'."
+  },
+  {
+    "id": "p-d971f5",
+    "offset": 6526,
+    "text": "9. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-57fc34",
+    "offset": 6595,
+    "text": "10. All x are y, and all y' are x'."
+  },
+  {
+    "id": "p-d3fe8a",
+    "offset": 6632,
+    "text": "11. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-3c1429",
+    "offset": 6699,
+    "text": "12. All y are x'."
+  },
+  {
+    "id": "p-b29c3b",
+    "offset": 6718,
+    "text": "13. No x' are y."
+  },
+  {
+    "id": "p-da4ed3",
+    "offset": 6736,
+    "text": "14. No x' are y'."
+  },
+  {
+    "id": "p-bfaeee",
+    "offset": 6755,
+    "text": "15. No x are y."
+  },
+  {
+    "id": "p-b0291f",
+    "offset": 6772,
+    "text": "16. All x are y', and all y are x'. pg128 17. No x are y'."
+  },
+  {
+    "id": "p-572962",
+    "offset": 6832,
+    "text": "18. No x are y."
+  },
+  {
+    "id": "p-a94fb3",
+    "offset": 6849,
+    "text": "19. Some x are y'."
+  },
+  {
+    "id": "p-08e6c3",
+    "offset": 6869,
+    "text": "20. No x are y'."
+  },
+  {
+    "id": "p-f1e5d8",
+    "offset": 6887,
+    "text": "21. Some y are x'."
+  },
+  {
+    "id": "p-327c99",
+    "offset": 6907,
+    "text": "22. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-be8946",
+    "offset": 6977,
+    "text": "23. Some x are y."
+  },
+  {
+    "id": "p-0982d6",
+    "offset": 6996,
+    "text": "24. All y are x'."
+  },
+  {
+    "id": "p-8cc78f",
+    "offset": 7015,
+    "text": "25. Some y are x'."
+  },
+  {
+    "id": "p-d42b34",
+    "offset": 7035,
+    "text": "26. All y are x."
+  },
+  {
+    "id": "p-55d10c",
+    "offset": 7053,
+    "text": "27. All x are y, and all y' are x'."
+  },
+  {
+    "id": "p-079d1f",
+    "offset": 7090,
+    "text": "28. Some y are x'."
+  },
+  {
+    "id": "p-7d613a",
+    "offset": 7110,
+    "text": "29. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-634090",
+    "offset": 7177,
+    "text": "30. Some y are x'."
+  },
+  {
+    "id": "p-5f34a9",
+    "offset": 7197,
+    "text": "31. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-46a6f8",
+    "offset": 7264,
+    "text": "32. No x are y'."
+  },
+  {
+    "id": "p-6ce178",
+    "offset": 7282,
+    "text": "33. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-07deab",
+    "offset": 7349,
+    "text": "34. Some x are y."
+  },
+  {
+    "id": "p-9a2387",
+    "offset": 7368,
+    "text": "35. All y are x'."
+  },
+  {
+    "id": "p-49f88f",
+    "offset": 7387,
+    "text": "36. Some y are x'."
+  },
+  {
+    "id": "p-4ed38e",
+    "offset": 7407,
+    "text": "37. Some x are y'."
+  },
+  {
+    "id": "p-4efffa",
+    "offset": 7427,
+    "text": "38. No x are y."
+  },
+  {
+    "id": "p-011f45",
+    "offset": 7444,
+    "text": "39. Some x' are y'."
+  },
+  {
+    "id": "p-f1d4df",
+    "offset": 7465,
+    "text": "40. All y' are x."
+  },
+  {
+    "id": "p-931fa2",
+    "offset": 7484,
+    "text": "41. All x are y'."
+  },
+  {
+    "id": "p-c55f70",
+    "offset": 7503,
+    "text": "42. No x are y."
+  },
+  {
+    "id": "p-11a2ef",
+    "offset": 7520,
+    "text": "*Answers to § 5.* AN5"
+  },
+  {
+    "id": "p-700fd5",
+    "offset": 7543,
+    "text": "1. Somebody who has been out for a walk is feeling better."
+  },
+  {
+    "id": "p-478142",
+    "offset": 7603,
+    "text": "2. No one but John knows what the letter is about."
+  },
+  {
+    "id": "p-912ad7",
+    "offset": 7655,
+    "text": "3. You and I like walking."
+  },
+  {
+    "id": "p-9c19f0",
+    "offset": 7683,
+    "text": "4. Honesty is sometimes the best policy."
+  },
+  {
+    "id": "p-a5434d",
+    "offset": 7725,
+    "text": "5. Some greyhounds are not fat."
+  },
+  {
+    "id": "p-1e17d5",
+    "offset": 7758,
+    "text": "6. Some brave persons get their deserts."
+  },
+  {
+    "id": "p-e5c6a7",
+    "offset": 7800,
+    "text": "7. Some rich persons are not Esquimaux."
+  },
+  {
+    "id": "p-4452cd",
+    "offset": 7841,
+    "text": "8. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-95378b",
+    "offset": 7910,
+    "text": "9. John is ill."
+  },
+  {
+    "id": "p-f0cd82",
+    "offset": 7927,
+    "text": "10. Some things, that are not umbrellas, should be left behind on a journey."
+  },
+  {
+    "id": "p-0b69a0",
+    "offset": 8005,
+    "text": "11. No music is worth paying for, unless it causes vibration in the air."
+  },
+  {
+    "id": "p-1dbf74",
+    "offset": 8079,
+    "text": "12. Some holidays are tiresome."
+  },
+  {
+    "id": "p-ad22ec",
+    "offset": 8112,
+    "text": "13. Englishmen are not Frenchmen."
+  },
+  {
+    "id": "p-14fbfc",
+    "offset": 8147,
+    "text": "14. No photograph of a lady is satisfactory."
+  },
+  {
+    "id": "p-44fa37",
+    "offset": 8193,
+    "text": "15. No one looks poetical unless he is phlegmatic."
+  },
+  {
+    "id": "p-468153",
+    "offset": 8245,
+    "text": "16. Some thin persons are not cheerful."
+  },
+  {
+    "id": "p-acaa46",
+    "offset": 8286,
+    "text": "17. Some judges do not exercise self-control."
+  },
+  {
+    "id": "p-b40de0",
+    "offset": 8333,
+    "text": "18. Pigs are not fed on barley-water."
+  },
+  {
+    "id": "p-554d04",
+    "offset": 8372,
+    "text": "19. Some black rabbits are not old. pg129 20. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-87e66e",
+    "offset": 8484,
+    "text": "21. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-8ab016",
+    "offset": 8551,
+    "text": "22. Some lessons need attention."
+  },
+  {
+    "id": "p-acbc11",
+    "offset": 8585,
+    "text": "23. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-ff0fee",
+    "offset": 8652,
+    "text": "24. No one, who forgets a promise, fails to do mischief."
+  },
+  {
+    "id": "p-6ae6c7",
+    "offset": 8710,
+    "text": "25. Some greedy creatures cannot fly."
+  },
+  {
+    "id": "p-3eeadc",
+    "offset": 8749,
+    "text": "26. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-f6c69c",
+    "offset": 8819,
+    "text": "27. No bride-cakes are things that need not be avoided."
+  },
+  {
+    "id": "p-66b825",
+    "offset": 8876,
+    "text": "28. John is happy."
+  },
+  {
+    "id": "p-abea00",
+    "offset": 8896,
+    "text": "29. Some people, who are not gamblers, are not philosophers."
+  },
+  {
+    "id": "p-32bba2",
+    "offset": 8958,
+    "text": "30. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-e9a07b",
+    "offset": 9028,
+    "text": "31. None of my lodgers write poetry."
+  },
+  {
+    "id": "p-9af98d",
+    "offset": 9066,
+    "text": "32. Senna is not nice."
+  },
+  {
+    "id": "p-42310c",
+    "offset": 9090,
+    "text": "33. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-068e4e",
+    "offset": 9160,
+    "text": "34. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-0def66",
+    "offset": 9227,
+    "text": "35. Logic is unintelligible."
+  },
+  {
+    "id": "p-98163b",
+    "offset": 9257,
+    "text": "36. Some wild creatures are fat."
+  },
+  {
+    "id": "p-fcba08",
+    "offset": 9291,
+    "text": "37. All wasps are unwelcome."
+  },
+  {
+    "id": "p-517371",
+    "offset": 9321,
+    "text": "38. All black rabbits are young."
+  },
+  {
+    "id": "p-a2d6de",
+    "offset": 9355,
+    "text": "39. Some hard-boiled things can be cracked."
+  },
+  {
+    "id": "p-8b604e",
+    "offset": 9400,
+    "text": "40. No antelopes fail to delight the eye."
+  },
+  {
+    "id": "p-b216c7",
+    "offset": 9443,
+    "text": "41. All well-fed canaries are cheerful."
+  },
+  {
+    "id": "p-643795",
+    "offset": 9484,
+    "text": "42. Some poetry is not producible at will."
+  },
+  {
+    "id": "p-afb23e",
+    "offset": 9528,
+    "text": "43. No country infested by dragons fails to be fascinating."
+  },
+  {
+    "id": "p-ede8a8",
+    "offset": 9589,
+    "text": "44. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-eeacb7",
+    "offset": 9656,
+    "text": "45. Some picturesque things are not made of sugar."
+  },
+  {
+    "id": "p-f84f99",
+    "offset": 9708,
+    "text": "46. No children can sit still."
+  },
+  {
+    "id": "p-187716",
+    "offset": 9740,
+    "text": "47. Some cats cannot whistle."
+  },
+  {
+    "id": "p-ac03fb",
+    "offset": 9771,
+    "text": "48. You are terrible."
+  },
+  {
+    "id": "p-6efee5",
+    "offset": 9794,
+    "text": "49. Some oysters are not amusing."
+  },
+  {
+    "id": "p-bba9f5",
+    "offset": 9829,
+    "text": "50. Nobody in the house has a beard a yard long."
+  },
+  {
+    "id": "p-c665d2",
+    "offset": 9879,
+    "text": "51. Some ill-fed canaries are unhappy."
+  },
+  {
+    "id": "p-0a4898",
+    "offset": 9919,
+    "text": "52. My sisters cannot sing."
+  },
+  {
+    "id": "p-a0d5a3",
+    "offset": 9948,
+    "text": "53. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-f01716",
+    "offset": 10018,
+    "text": "54. Some rich things are nice."
+  },
+  {
+    "id": "p-6e355a",
+    "offset": 10050,
+    "text": "55. My cousins are none of them judges, and judges are none of them cousins of mine."
+  },
+  {
+    "id": "p-662455",
+    "offset": 10136,
+    "text": "56. Something wearisome is not eagerly wished for."
+  },
+  {
+    "id": "p-fccc49",
+    "offset": 10188,
+    "text": "57. Senna is nasty."
+  },
+  {
+    "id": "p-a0027d",
+    "offset": 10209,
+    "text": "58. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-d4491b",
+    "offset": 10279,
+    "text": "59. Niggers are not any of them tall."
+  },
+  {
+    "id": "p-a4947f",
+    "offset": 10318,
+    "text": "60. Some obstinate persons are not philosophers."
+  },
+  {
+    "id": "p-3a1293",
+    "offset": 10368,
+    "text": "61. John is happy."
+  },
+  {
+    "id": "p-894342",
+    "offset": 10388,
+    "text": "62. Some unwholesome dishes are not present here (i.e. cannot be spoken of as \"these\")."
+  },
+  {
+    "id": "p-b63058",
+    "offset": 10477,
+    "text": "63. No books suit feverish patients unless they make one drowsy."
+  },
+  {
+    "id": "p-37470f",
+    "offset": 10543,
+    "text": "64. Some greedy creatures cannot fly."
+  },
+  {
+    "id": "p-f416d1",
+    "offset": 10582,
+    "text": "65. You and I can detect a sharper."
+  },
+  {
+    "id": "p-476f62",
+    "offset": 10619,
+    "text": "66. Some dreams are not lambs. pg130 67. No lizard needs a hairbrush."
+  },
+  {
+    "id": "p-fd8663",
+    "offset": 10690,
+    "text": "68. Some things, that may escape notice, are not battles."
+  },
+  {
+    "id": "p-bb0740",
+    "offset": 10749,
+    "text": "69. My cousins are not any of them judges."
+  },
+  {
+    "id": "p-75fbe8",
+    "offset": 10793,
+    "text": "70. Some hard-boiled things can be cracked."
+  },
+  {
+    "id": "p-a2fe94",
+    "offset": 10838,
+    "text": "71. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-e647dd",
+    "offset": 10908,
+    "text": "72. She is unpopular."
+  },
+  {
+    "id": "p-9b2128",
+    "offset": 10931,
+    "text": "73. Some people, who wear wigs, are not children of yours."
+  },
+  {
+    "id": "p-67751a",
+    "offset": 10991,
+    "text": "74. No lobsters expect impossibilities."
+  },
+  {
+    "id": "p-b353c0",
+    "offset": 11032,
+    "text": "75. No nightmare is eagerly desired."
+  },
+  {
+    "id": "p-baf01c",
+    "offset": 11070,
+    "text": "76. Some nice things are not plumcakes."
+  },
+  {
+    "id": "p-c4c95d",
+    "offset": 11111,
+    "text": "77. Some kinds of jam need not be shunned."
+  },
+  {
+    "id": "p-3a68ef",
+    "offset": 11155,
+    "text": "78. All ducks are ungraceful."
+  },
+  {
+    "id": "p-94ec6b",
+    "offset": 11186,
+    "text": "79. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-fc760d",
+    "offset": 11253,
+    "text": "80. No man, who begs in the street, should fail to keep accounts."
+  },
+  {
+    "id": "p-a47d0b",
+    "offset": 11320,
+    "text": "81. Some savage creatures are not spiders."
+  },
+  {
+    "id": "p-694b5c",
+    "offset": 11364,
+    "text": "82. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-31e685",
+    "offset": 11434,
+    "text": "83. No travelers, who do not carry plenty of small change, fail to lose their luggage."
+  },
+  {
+    "id": "p-705128",
+    "offset": 11522,
+    "text": "84. [No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss.]"
+  },
+  {
+    "id": "p-b492a3",
+    "offset": 11592,
+    "text": "85. Judges are none of them cousins of mine."
+  },
+  {
+    "id": "p-b38e13",
+    "offset": 11638,
+    "text": "86. All my lodgers are sane."
+  },
+  {
+    "id": "p-d6bd03",
+    "offset": 11668,
+    "text": "87. Those who are busy are contented, and discontented people are not busy."
+  },
+  {
+    "id": "p-c1f9cc",
+    "offset": 11745,
+    "text": "88. None of my cousins are judges."
+  },
+  {
+    "id": "p-4a2c48",
+    "offset": 11781,
+    "text": "89. No nightingale dislikes sugar."
+  },
+  {
+    "id": "p-44748b",
+    "offset": 11817,
+    "text": "90. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-0c9f8b",
+    "offset": 11884,
+    "text": "91. Some excuses are not clear explanations."
+  },
+  {
+    "id": "p-13cbcc",
+    "offset": 11930,
+    "text": "92. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-9ff353",
+    "offset": 11997,
+    "text": "93. No kind deed need cause scruple."
+  },
+  {
+    "id": "p-2f945c",
+    "offset": 12035,
+    "text": "94. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-d82b58",
+    "offset": 12102,
+    "text": "95. [No Concl. Fallacy of Like Eliminands not asserted to exist.]"
+  },
+  {
+    "id": "p-c68997",
+    "offset": 12169,
+    "text": "96. No cheats are trustworthy."
+  },
+  {
+    "id": "p-36f942",
+    "offset": 12201,
+    "text": "97. No clever child of mine is greedy."
+  },
+  {
+    "id": "p-dbeb0f",
+    "offset": 12241,
+    "text": "98. Some things, that are meant to amuse, are not Acts of Parliament."
+  },
+  {
+    "id": "p-72798c",
+    "offset": 12312,
+    "text": "99. No tour, that is ever forgotten, is worth writing a book about."
+  },
+  {
+    "id": "p-8fdc9c",
+    "offset": 12381,
+    "text": "100. No obedient child of mine is contented."
+  },
+  {
+    "id": "p-8a641b",
+    "offset": 12427,
+    "text": "101. Your visit does not annoy me."
+  },
+  {
+    "id": "p-c1b868",
+    "offset": 12463,
+    "text": "*Answers to § 6.* AN6"
+  },
+  {
+    "id": "p-8a6f70",
+    "offset": 12486,
+    "text": "1. Conclusion right."
+  },
+  {
+    "id": "p-370909",
+    "offset": 12508,
+    "text": "2. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-b7ade1",
+    "offset": 12572,
+    "text": "3. Concl. right."
+  },
+  {
+    "id": "p-3c46b2",
+    "offset": 12590,
+    "text": "4. Concl. right."
+  },
+  {
+    "id": "p-a01b45",
+    "offset": 12608,
+    "text": "5. Concl. right."
+  },
+  {
+    "id": "p-cadbd5",
+    "offset": 12626,
+    "text": "6. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-2adf45",
+    "offset": 12690,
+    "text": "7. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-40497e",
+    "offset": 12757,
+    "text": "8. Concl. right."
+  },
+  {
+    "id": "p-f43191",
+    "offset": 12775,
+    "text": "9. Concl. right."
+  },
+  {
+    "id": "p-ee944b",
+    "offset": 12793,
+    "text": "10. Concl. right."
+  },
+  {
+    "id": "p-5ad33f",
+    "offset": 12812,
+    "text": "11. Concl. right."
+  },
+  {
+    "id": "p-4d7495",
+    "offset": 12831,
+    "text": "12. Concl. right."
+  },
+  {
+    "id": "p-ccf387",
+    "offset": 12850,
+    "text": "13. Concl. right."
+  },
+  {
+    "id": "p-329f4b",
+    "offset": 12869,
+    "text": "14. Concl. right."
+  },
+  {
+    "id": "p-968e19",
+    "offset": 12888,
+    "text": "15. Concl. right. pg131 16. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-70cfb1",
+    "offset": 12977,
+    "text": "17. Concl. right."
+  },
+  {
+    "id": "p-534377",
+    "offset": 12996,
+    "text": "18. Concl. right."
+  },
+  {
+    "id": "p-212bcd",
+    "offset": 13015,
+    "text": "19. Concl. right."
+  },
+  {
+    "id": "p-0e3a94",
+    "offset": 13034,
+    "text": "20. Concl. right."
+  },
+  {
+    "id": "p-aea761",
+    "offset": 13053,
+    "text": "21. Concl. right."
+  },
+  {
+    "id": "p-c198ed",
+    "offset": 13072,
+    "text": "22. Concl. wrong: the right one is \"Some x are y.\""
+  },
+  {
+    "id": "p-8afdfd",
+    "offset": 13124,
+    "text": "23. Concl. right."
+  },
+  {
+    "id": "p-42d047",
+    "offset": 13143,
+    "text": "24. Concl. right."
+  },
+  {
+    "id": "p-a89b75",
+    "offset": 13162,
+    "text": "25. Concl. right."
+  },
+  {
+    "id": "p-82b924",
+    "offset": 13181,
+    "text": "26. Concl. right."
+  },
+  {
+    "id": "p-07199b",
+    "offset": 13200,
+    "text": "27. Concl. right."
+  },
+  {
+    "id": "p-1b7a93",
+    "offset": 13219,
+    "text": "28. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-cd53c9",
+    "offset": 13284,
+    "text": "29. Concl. right."
+  },
+  {
+    "id": "p-2227e4",
+    "offset": 13303,
+    "text": "30. Concl. right."
+  },
+  {
+    "id": "p-308c34",
+    "offset": 13322,
+    "text": "31. Concl. right."
+  },
+  {
+    "id": "p-e8e771",
+    "offset": 13341,
+    "text": "32. Concl. right."
+  },
+  {
+    "id": "p-8512df",
+    "offset": 13360,
+    "text": "33. Concl. right."
+  },
+  {
+    "id": "p-d0e807",
+    "offset": 13379,
+    "text": "34. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-f8a244",
+    "offset": 13447,
+    "text": "35. Concl. right."
+  },
+  {
+    "id": "p-190dcd",
+    "offset": 13466,
+    "text": "36. Concl. right."
+  },
+  {
+    "id": "p-fb5d57",
+    "offset": 13485,
+    "text": "37. Concl. right."
+  },
+  {
+    "id": "p-8c71de",
+    "offset": 13504,
+    "text": "38. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-d117fa",
+    "offset": 13569,
+    "text": "39. Concl. right."
+  },
+  {
+    "id": "p-49d4f5",
+    "offset": 13588,
+    "text": "40. Concl. right."
+  },
+  {
+    "id": "p-ed8b35",
+    "offset": 13607,
+    "text": "*Answers to § 7.* AN7"
+  },
+  {
+    "id": "p-d041a0",
+    "offset": 13630,
+    "text": "1. Concl. right."
+  },
+  {
+    "id": "p-afd618",
+    "offset": 13648,
+    "text": "2. Concl. right."
+  },
+  {
+    "id": "p-b7ade1",
+    "offset": 13666,
+    "text": "3. Concl. right."
+  },
+  {
+    "id": "p-a73785",
+    "offset": 13684,
+    "text": "4. Concl. wrong: right one is \"Some epicures are not uncles of mine.\""
+  },
+  {
+    "id": "p-a01b45",
+    "offset": 13755,
+    "text": "5. Concl. right."
+  },
+  {
+    "id": "p-947c0c",
+    "offset": 13773,
+    "text": "6. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-287b29",
+    "offset": 13840,
+    "text": "7. Concl. wrong: right one is \"The publication, in which I saw it, tells lies.\""
+  },
+  {
+    "id": "p-3e2992",
+    "offset": 13921,
+    "text": "8. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-a2b19a",
+    "offset": 13988,
+    "text": "9. Concl. wrong: right one is \"Some tedious songs are not his.\""
+  },
+  {
+    "id": "p-ee944b",
+    "offset": 14053,
+    "text": "10. Concl. right."
+  },
+  {
+    "id": "p-a4aa78",
+    "offset": 14072,
+    "text": "11. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-c6c40d",
+    "offset": 14140,
+    "text": "12. Concl. wrong: right one is \"Some fierce creatures do not drink coffee.\""
+  },
+  {
+    "id": "p-166e35",
+    "offset": 14217,
+    "text": "13. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-329f4b",
+    "offset": 14285,
+    "text": "14. Concl. right."
+  },
+  {
+    "id": "p-fede58",
+    "offset": 14304,
+    "text": "15. Concl. wrong: right one is \"Some shallow persons are not students.\""
+  },
+  {
+    "id": "p-11ad07",
+    "offset": 14377,
+    "text": "16. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-2ebc6b",
+    "offset": 14442,
+    "text": "17. Concl. wrong: right one is \"Some business, other than railways, is unprofitable.\""
+  },
+  {
+    "id": "p-8d39dc",
+    "offset": 14529,
+    "text": "18. Concl. wrong: right one is \"Some vain persons are not Professors.\""
+  },
+  {
+    "id": "p-212bcd",
+    "offset": 14601,
+    "text": "19. Concl. right."
+  },
+  {
+    "id": "p-1c8c48",
+    "offset": 14620,
+    "text": "20. Concl. wrong: right one is \"Wasps are not puppies.\""
+  },
+  {
+    "id": "p-ea54fe",
+    "offset": 14677,
+    "text": "21. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-4f26c0",
+    "offset": 14745,
+    "text": "22. No Concl. Same Fallacy."
+  },
+  {
+    "id": "p-8afdfd",
+    "offset": 14774,
+    "text": "23. Concl. right."
+  },
+  {
+    "id": "p-926af7",
+    "offset": 14793,
+    "text": "24. Concl. wrong: right one is \"Some chocolate-creams are delicious.\""
+  },
+  {
+    "id": "p-f7ee97",
+    "offset": 14864,
+    "text": "25. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-4a9b44",
+    "offset": 14929,
+    "text": "26. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-6163a7",
+    "offset": 14997,
+    "text": "27. Concl. wrong: right one is \"Some pillows are not pokers.\""
+  },
+  {
+    "id": "p-e16384",
+    "offset": 15060,
+    "text": "28. Concl. right."
+  },
+  {
+    "id": "p-9446f0",
+    "offset": 15079,
+    "text": "29. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-9acef2",
+    "offset": 15147,
+    "text": "30. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-308c34",
+    "offset": 15212,
+    "text": "31. Concl. right."
+  },
+  {
+    "id": "p-010346",
+    "offset": 15231,
+    "text": "32. No Concl. Fallacy of Like Eliminands not asserted to exist."
+  },
+  {
+    "id": "p-9fab48",
+    "offset": 15296,
+    "text": "33. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss. pg132 34. Concl. wrong: right one is \"Some dreaded persons are not begged to prolong their visits.\""
+  },
+  {
+    "id": "p-081b27",
+    "offset": 15464,
+    "text": "35. Concl. wrong: right one is \"No man walks on neither.\""
+  },
+  {
+    "id": "p-190dcd",
+    "offset": 15523,
+    "text": "36. Concl. right."
+  },
+  {
+    "id": "p-c5675f",
+    "offset": 15542,
+    "text": "37. No Concl. Fallacy of Unlike Eliminands with an Entity-Premiss."
+  },
+  {
+    "id": "p-fa67da",
+    "offset": 15610,
+    "text": "38. Concl. wrong: right one is \"Some persons, dreaded by children, are not emperors.\""
+  },
+  {
+    "id": "p-27a942",
+    "offset": 15697,
+    "text": "39. Concl. incomplete: the omitted portion is \"Sugar is not salt.\""
+  },
+  {
+    "id": "p-49d4f5",
+    "offset": 15765,
+    "text": "40. Concl. right."
+  },
+  {
+    "id": "p-65721f",
+    "offset": 15784,
+    "text": "*Answers to § 8.* AN8"
+  },
+  {
+    "id": "p-160af2",
+    "offset": 15807,
+    "text": "1. a*{1}b*{0} + b*{1}a*{0}."
+  },
+  {
+    "id": "p-581ed6",
+    "offset": 15836,
+    "text": "2. d*{1}a*{0}."
+  },
+  {
+    "id": "p-63923f",
+    "offset": 15852,
+    "text": "3. ac_{0}."
+  },
+  {
+    "id": "p-2143df",
+    "offset": 15864,
+    "text": "4. a*{1}d*{0}."
+  },
+  {
+    "id": "p-1a0d2d",
+    "offset": 15880,
+    "text": "5. cd_{0}."
+  },
+  {
+    "id": "p-39d879",
+    "offset": 15892,
+    "text": "6. d*{1}c*{0}."
+  },
+  {
+    "id": "p-2f6845",
+    "offset": 15908,
+    "text": "7. a'c_{0}."
+  },
+  {
+    "id": "p-666e4e",
+    "offset": 15921,
+    "text": "8. c*{1}a'*{0}."
+  },
+  {
+    "id": "p-a08052",
+    "offset": 15938,
+    "text": "9. c'd_{0}."
+  },
+  {
+    "id": "p-155461",
+    "offset": 15951,
+    "text": "10. b*{1}a*{0}."
+  },
+  {
+    "id": "p-b7dd50",
+    "offset": 15968,
+    "text": "11. d*{1}b*{0}."
+  },
+  {
+    "id": "p-c95498",
+    "offset": 15985,
+    "text": "12. a'd_{0}."
+  },
+  {
+    "id": "p-1adc19",
+    "offset": 15999,
+    "text": "13. e*{1}b*{0}."
+  },
+  {
+    "id": "p-f0ff8c",
+    "offset": 16016,
+    "text": "14. d*{1}e'*{0}."
+  },
+  {
+    "id": "p-56dd3f",
+    "offset": 16034,
+    "text": "15. e*{1}a'*{0}."
+  },
+  {
+    "id": "p-29b518",
+    "offset": 16052,
+    "text": "16. b'c_{0}."
+  },
+  {
+    "id": "p-7f70cb",
+    "offset": 16066,
+    "text": "17. a*{1}b*{0}."
+  },
+  {
+    "id": "p-60ca9b",
+    "offset": 16083,
+    "text": "18. d*{1}c*{0}."
+  },
+  {
+    "id": "p-f50b53",
+    "offset": 16100,
+    "text": "19. a*{1}d*{0}."
+  },
+  {
+    "id": "p-baaf48",
+    "offset": 16117,
+    "text": "20. ac_{0}."
+  },
+  {
+    "id": "p-00910f",
+    "offset": 16130,
+    "text": "21. de_{0}."
+  },
+  {
+    "id": "p-bebcbb",
+    "offset": 16143,
+    "text": "22. a*{1}b'*{0}."
+  },
+  {
+    "id": "p-4bb714",
+    "offset": 16161,
+    "text": "23. h*{1}c*{0}."
+  },
+  {
+    "id": "p-d91cfd",
+    "offset": 16178,
+    "text": "24. e*{1}a*{0}."
+  },
+  {
+    "id": "p-70f5d5",
+    "offset": 16195,
+    "text": "25. e*{1}c'*{0}."
+  },
+  {
+    "id": "p-5b7538",
+    "offset": 16213,
+    "text": "26. e*{1}c'*{0}."
+  },
+  {
+    "id": "p-fcf97f",
+    "offset": 16231,
+    "text": "27. hk'_{0}."
+  },
+  {
+    "id": "p-51fc89",
+    "offset": 16245,
+    "text": "28. e*{1}d'*{0}."
+  },
+  {
+    "id": "p-713187",
+    "offset": 16263,
+    "text": "29. l'a_{0}."
+  },
+  {
+    "id": "p-604014",
+    "offset": 16277,
+    "text": "30. k*{1}b'*{0}."
+  },
+  {
+    "id": "p-ff1f8e",
+    "offset": 16295,
+    "text": "*Answers to § 9.* AN9"
+  },
+  {
+    "id": "p-d7887b",
+    "offset": 16318,
+    "text": "1. Babies cannot manage crocodiles."
+  },
+  {
+    "id": "p-8a7df6",
+    "offset": 16355,
+    "text": "2. *Your* presents to me are not made of tin."
+  },
+  {
+    "id": "p-7d6243",
+    "offset": 16402,
+    "text": "3. All my potatoes in this dish are old ones."
+  },
+  {
+    "id": "p-a4d488",
+    "offset": 16449,
+    "text": "4. My servants never say \"shpoonj.\""
+  },
+  {
+    "id": "p-0e38d5",
+    "offset": 16486,
+    "text": "5. My poultry are not officers."
+  },
+  {
+    "id": "p-76d798",
+    "offset": 16519,
+    "text": "6. None of *your* sons are fit to serve on a jury."
+  },
+  {
+    "id": "p-66ba1e",
+    "offset": 16571,
+    "text": "7. No pencils of mine are sugar-plums."
+  },
+  {
+    "id": "p-f66045",
+    "offset": 16611,
+    "text": "8. Jenkins is inexperienced."
+  },
+  {
+    "id": "p-749fc8",
+    "offset": 16641,
+    "text": "9. No comet has a curly tail."
+  },
+  {
+    "id": "p-f07428",
+    "offset": 16672,
+    "text": "10. No hedge-hog takes in the *Times*."
+  },
+  {
+    "id": "p-707572",
+    "offset": 16712,
+    "text": "11. This dish is unwholesome."
+  },
+  {
+    "id": "p-8e0bf4",
+    "offset": 16743,
+    "text": "12. My gardener is very old."
+  },
+  {
+    "id": "p-b07b05",
+    "offset": 16773,
+    "text": "13. All humming-birds are small."
+  },
+  {
+    "id": "p-6781c8",
+    "offset": 16807,
+    "text": "14. No one with a hooked nose ever fails to make money."
+  },
+  {
+    "id": "p-bd4557",
+    "offset": 16864,
+    "text": "15. No gray ducks in this village wear lace collars."
+  },
+  {
+    "id": "p-7b7a73",
+    "offset": 16918,
+    "text": "16. No jug in this cupboard will hold water."
+  },
+  {
+    "id": "p-82e245",
+    "offset": 16964,
+    "text": "17. These apples were grown in the sun."
+  },
+  {
+    "id": "p-8477b8",
+    "offset": 17005,
+    "text": "18. Puppies, that will not lie still, never care to do worsted work."
+  },
+  {
+    "id": "p-c503a2",
+    "offset": 17075,
+    "text": "19. No name in this list is unmelodious."
+  },
+  {
+    "id": "p-13ba8a",
+    "offset": 17117,
+    "text": "20. No M.P. should ride in a donkey-race, unless he has perfect self-command."
+  },
+  {
+    "id": "p-74e02b",
+    "offset": 17196,
+    "text": "21. No goods in this shop, that are still on sale, may be carried away. pg133 22. No acrobatic feat, which involves turning a quadruple somersault, is ever attempted in a circus."
+  },
+  {
+    "id": "p-230e2e",
+    "offset": 17376,
+    "text": "23. Guinea-pigs never really appreciate Beethoven."
+  },
+  {
+    "id": "p-e67737",
+    "offset": 17428,
+    "text": "24. No scentless flowers please me."
+  },
+  {
+    "id": "p-617ec4",
+    "offset": 17465,
+    "text": "25. Showy talkers are not really well-informed."
+  },
+  {
+    "id": "p-c210b2",
+    "offset": 17514,
+    "text": "26. None but red-haired boys learn Greek in this school."
+  },
+  {
+    "id": "p-deb465",
+    "offset": 17572,
+    "text": "27. Wedding-cake always disagrees with me."
+  },
+  {
+    "id": "p-3b9ab5",
+    "offset": 17616,
+    "text": "28. Discussions, that go on while Tomkins is in the chair, endanger the peacefulness of our Debating-Club."
+  },
+  {
+    "id": "p-b807a1",
+    "offset": 17724,
+    "text": "29. All gluttons, who are children of mine, are unhealthy."
+  },
+  {
+    "id": "p-348be1",
+    "offset": 17784,
+    "text": "30. An egg of the Great Auk is not to be had for a song."
+  },
+  {
+    "id": "p-3b9837",
+    "offset": 17842,
+    "text": "31. No books sold here have gilt edges, unless they are priced at 5s. and upwards."
+  },
+  {
+    "id": "p-f0a8e0",
+    "offset": 17926,
+    "text": "32. When you cut your finger, you will find Tincture of Calendula useful."
+  },
+  {
+    "id": "p-003614",
+    "offset": 18001,
+    "text": "33. *I* have never come across a mermaid at sea."
+  },
+  {
+    "id": "p-da3dec",
+    "offset": 18051,
+    "text": "34. All the romances in this library are well-written."
+  },
+  {
+    "id": "p-e1b8ec",
+    "offset": 18107,
+    "text": "35. No bird in this aviary lives on mince-pies."
+  },
+  {
+    "id": "p-d83336",
+    "offset": 18156,
+    "text": "36. No plum-pudding, that has not been boiled in a cloth, can be distinguished from soup."
+  },
+  {
+    "id": "p-ee66f7",
+    "offset": 18247,
+    "text": "37. All *your* poems are uninteresting."
+  },
+  {
+    "id": "p-84b655",
+    "offset": 18288,
+    "text": "38. None of my peaches have been grown in a hot-house."
+  },
+  {
+    "id": "p-044945",
+    "offset": 18344,
+    "text": "39. No pawnbroker is dishonest."
+  },
+  {
+    "id": "p-8550ec",
+    "offset": 18377,
+    "text": "40. No kitten with green eyes will play with a gorilla."
+  },
+  {
+    "id": "p-0e05c3",
+    "offset": 18434,
+    "text": "41. All *my* friends dine at the lower table."
+  },
+  {
+    "id": "p-b1d0d7",
+    "offset": 18481,
+    "text": "42. My writing-desk is full of live scorpions."
+  },
+  {
+    "id": "p-040518",
+    "offset": 18529,
+    "text": "43. No Mandarin ever reads Hogg's poems."
+  },
+  {
+    "id": "p-d272cb",
+    "offset": 18571,
+    "text": "44. Shakespeare was clever."
+  },
+  {
+    "id": "p-383245",
+    "offset": 18600,
+    "text": "45. Rainbows are not worth writing odes to."
+  },
+  {
+    "id": "p-792bfe",
+    "offset": 18645,
+    "text": "46. These Sorites-examples are difficult."
+  },
+  {
+    "id": "p-021861",
+    "offset": 18688,
+    "text": "47. All my dreams come true."
+  },
+  {
+    "id": "p-94b4b1",
+    "offset": 18718,
+    "text": "48. All the English pictures here are painted in oils."
+  },
+  {
+    "id": "p-1fa9be",
+    "offset": 18774,
+    "text": "49. Donkeys are not easy to swallow."
+  },
+  {
+    "id": "p-1e9817",
+    "offset": 18812,
+    "text": "50. Opium-eaters never wear white kid gloves."
+  },
+  {
+    "id": "p-e3fc74",
+    "offset": 18859,
+    "text": "51. A good husband always comes home for his tea."
+  },
+  {
+    "id": "p-4c7096",
+    "offset": 18910,
+    "text": "52. Bathing-machines are never made of mother-of-pearl."
+  },
+  {
+    "id": "p-062a49",
+    "offset": 18967,
+    "text": "53. Rainy days are always cloudy."
+  },
+  {
+    "id": "p-d5d13e",
+    "offset": 19002,
+    "text": "54. No heavy fish is unkind to children."
+  },
+  {
+    "id": "p-04c789",
+    "offset": 19044,
+    "text": "55. No engine-driver lives on barley-sugar."
+  },
+  {
+    "id": "p-1dfc9d",
+    "offset": 19089,
+    "text": "56. All the animals in the yard gnaw bones."
+  },
+  {
+    "id": "p-cc62e1",
+    "offset": 19134,
+    "text": "57. No badger can guess a conundrum."
+  },
+  {
+    "id": "p-e2ccaa",
+    "offset": 19172,
+    "text": "58. No cheque of yours, received by me, is payable to order."
+  },
+  {
+    "id": "p-255829",
+    "offset": 19234,
+    "text": "59. I cannot read any of Brown's letters."
+  },
+  {
+    "id": "p-c797f2",
+    "offset": 19277,
+    "text": "60. I always avoid a kangaroo."
+  },
+  {
+    "id": "p-35904d",
+    "offset": 19309,
+    "text": "pg134"
+  }
+]

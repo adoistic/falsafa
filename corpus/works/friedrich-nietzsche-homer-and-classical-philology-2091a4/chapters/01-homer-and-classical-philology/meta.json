@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-nietzsche-homer-and-classical-philology-2091a4",
+  "work_title": "Homer and Classical Philology",
+  "chapter_number": 1,
+  "chapter_title": "Homer and Classical Philology",
+  "chapter_slug": "01-homer-and-classical-philology",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f258f66f-8d96-5c53-b7af-c9ed78e92758",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6610,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/18188"
+    }
+  ]
+}

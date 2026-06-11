@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-the-problems-of-philosophy-47c80e",
+  "work_title": "The Problems of Philosophy",
+  "chapter_number": 5,
+  "chapter_title": "Chapter V — KNOWLEDGE BY ACQUAINTANCE AND KNOWLEDGE BY DESCRIPTION",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d4f01165-38f4-56a1-91a4-4b20340784b1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3812,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5827"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "baruch-spinoza-theologico-political-treatise-pa-3f6451",
+  "work_title": "Theologico-Political Treatise, Part 3",
+  "chapter_number": 3,
+  "chapter_title": "Chapter X — ; indeed, had it not been so, I should certainly have decided to",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e7209d2d-e8d0-5911-966e-c4e7f70797cb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3389,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/991"
+    }
+  ]
+}

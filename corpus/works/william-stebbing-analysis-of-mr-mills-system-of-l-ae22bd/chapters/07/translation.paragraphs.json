@@ -1,0 +1,27 @@
+[
+  {
+    "id": "p-4b921b",
+    "offset": 0,
+    "text": "CHANCE, AND ITS ELIMINATION."
+  },
+  {
+    "id": "p-024cc2",
+    "offset": 30,
+    "text": "Empirical laws are certain only in those limits within which they have been *observed* to be true. But, even within those limits, the connection of two phenomena may, as the same effect may be produced by several different causes, be due to Chance; that is, it may, though being, as all facts must be, the result of some law, be a coincidence whence, simply because we do not know all the circumstances, *we* have no ground to infer an uniformity. When neither Deduction, nor the Method of Difference, can be applied, the only way of inferring that coincidences are not casual, is by observing the frequency of their occurrence, not their absolute frequency, but whether they occur *more* often than chance would (that is, more often than the positive frequency of the phenomena would) account for. If, in such cases, we could ascend to the causes of the two phenomena, we should find at some stage some cause or causes common to both. Till we can do this, the fact of the connection between them is only an empirical law; but still it is a law."
+  },
+  {
+    "id": "p-17baca",
+    "offset": 1077,
+    "text": "Sometimes an effect is the result partly of chance, and partly of law: viz. when the total effect is the result partly of the effects of casual conjunctions of causes, and partly of the effects of some constant cause which they blend with and modify. This is a case of Composition of Causes. The object being to find *how much* of the result is attributable to a given constant cause, the only resource, when the variable causes cannot be wholly excluded from the experiment, is to ascertain what is the effect of all of *them* taken together, and then to eliminate this, which is the casual part of the effect, in reckoning up the results. If the results of frequent experiments, in which the constant cause is kept invariable, oscillate round one point, that average or middle point is due to the constant cause, and the variable remainder to chance; that is, to causes the coexistence of which with the constant cause was merely casual. The test of the sufficiency of such an induction is, whether or not an increase in the number of experiments materially alters the average."
+  },
+  {
+    "id": "p-706163",
+    "offset": 2158,
+    "text": "We can thus discover not merely *how much* of the effect, but even whether *any* part of it whatever is due to a constant cause, when this latter is so uninfluential as otherwise to escape notice (e.g. the loading of dice). This case of the Elimination of Chance is called _The discovery of a residual phenomenon by eliminating the effects of chance._"
+  },
+  {
+    "id": "p-855f41",
+    "offset": 2511,
+    "text": "The mathematical doctrine of chances, or Theory of Probabilities, considers what deviation from the average chance by itself can possibly occasion in some number of instances smaller than is required for a fair average."
+  }
+]

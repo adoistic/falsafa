@@ -1,0 +1,142 @@
+[
+  {
+    "id": "p-981079",
+    "offset": 0,
+    "text": "ASCERTAINMENT OF FACTS OF CAUSATION."
+  },
+  {
+    "id": "p-459912",
+    "offset": 38,
+    "text": "I.--*POST HOC ERGO PROPTER HOC*."
+  },
+  {
+    "id": "p-ff8832",
+    "offset": 72,
+    "text": "One of the chief contributions of the Old Logic to Inductive Method was a name for a whole important class of misobservations. The fallacy entitled *Post Hoc ergo Propter Hoc*--\"After, therefore, Because of\"--consisted in alleging mere sequence as a proof of consequence or causal sequence. The sophist appeals to experience, to observed facts: the sequence which he alleges has been observed. But the appeal is fallacious: the observation on which he relies amounts only to this, that the one event has followed upon the other. This much must be observable in all cases of causal sequence, but it is not enough for proof. *Post hoc ergo propter hoc* may be taken as a generic name for imperfect proof of causation from observed facts of succession."
+  },
+  {
+    "id": "p-271852",
+    "offset": 823,
+    "text": "The standard example of the fallacy is the old Kentish peasant's argument that Tenterden Steeple was the cause of Goodwin Sands. Sir Thomas More (as Latimer tells the story in one of his Sermons to ridicule incautious inference) had been sent down into Kent as a commissioner to inquire into the cause of the silting up of Sandwich Haven. Among those who came to his court was the oldest inhabitant, and thinking that he from his great age must at least have seen more than anybody else, More asked him what he had to say as to the cause of the sands. \"Forsooth, sir,\" was the greybeard's answer, \"I am an old man: I think that Tenterden Steeple is the cause of Goodwin Sands. For I am an old man, and I may remember the building of Tenterden Steeple, and I may remember when there was no steeple at all there. And before that Tenterden Steeple was in building, there was no manner of speaking of any flats or sands that stopped the haven; and, therefore, I think that Tenterden Steeple is the cause of the destroying and decaying of Sandwich Haven.\""
+  },
+  {
+    "id": "p-5943c0",
+    "offset": 1875,
+    "text": "This must be taken as Latimer meant it to be, as a ridiculous example of a purely imbecile argument from observation, but the appeal to experience may have more show of reason and yet be equally fallacious. The believers in Kenelm Digby's \"Ointment of Honour\" appealed to experience in support of its efficacy. The treatment was to apply the ointment, not to the wound, but to the sword that had inflicted it, to dress this carefully at regular intervals, and, meantime, having bound up the wound, to leave it alone for seven days. It was observed that many cures followed upon this treatment. But those who inferred that the cure was due to the bandaging of the sword, failed to observe that there was another circumstance that might have been instrumental, namely, the exclusion of the air and the leaving of the wound undisturbed while the natural healing processes went on. And it was found upon further observation that binding up the wound alone answered the purpose equally well whether the sword was dressed or not."
+  },
+  {
+    "id": "p-2bc1a8",
+    "offset": 2900,
+    "text": "In cases where *post hoc* is mistaken for *propter hoc*, simple sequence for causal sequence, there is commonly some bias of prejudice or custom which fixes observation on some one antecedent and diverts attention from other circumstances and from what may be observed to follow in other cases. In the minds of Digby and his followers there was probably a veneration for the sword as the weapon of honour, and a superstitious belief in some secret sympathy between the sword and its owner. So when the practice of poisoning was common, and suspicion was flurried by panic fear, observation was often at fault. Pope Clement VIII. was said to have been killed by the fumes of a poisoned candle which was placed in his bedroom. Undoubtedly candles were there, but those who attributed the Pope's death to them took no notice of the fact that a brazier of burning charcoal was at the same time in the apartment with no sufficient outlet for its fumes. Prince Eugene is said to have received a poisoned letter, which he suspected and immediately threw from him. To ascertain whether his suspicions were well founded the letter was administered to a dog, which, to make assurance doubly sure, was fortified by an antidote. The dog died, but no inquiry seems to have been made into the character of the antidote."
+  },
+  {
+    "id": "p-9ad3db",
+    "offset": 4207,
+    "text": "Hotspur's retort to Glendower showed a sound sense of the true value to be attached to mere priority."
+  },
+  {
+    "id": "p-8f0e5c",
+    "offset": 4310,
+    "text": "*Glendower*. At my nativity The front of heaven was full of fiery shapes, Of burning cressets: and at my birth The frame and huge foundation of the earth Shaked like a coward."
+  },
+  {
+    "id": "p-29dac5",
+    "offset": 4487,
+    "text": "*Hotspur*. Why so it would have done at the same season, if your mother's cat had but kittened, though yourself had never been born."
+  },
+  {
+    "id": "p-70b117",
+    "offset": 4621,
+    "text": "1 Hen. IV., 3, 1, 13."
+  },
+  {
+    "id": "p-16454f",
+    "offset": 4644,
+    "text": "We all admit at once that the retort was just. What principle of sound conclusion was involved in it? It is the business of Inductive Logic to make such principles explicit."
+  },
+  {
+    "id": "p-ceb9e1",
+    "offset": 4819,
+    "text": "Taking *Post Hoc ergo Propter Hoc* as a generic name for fallacious arguments of causation based on observed facts, for the fallacious proof of causation from experience, the question for Logic is, What more than mere *sequence* is required to prove *consequence?* When do observations of *Post Hoc* warrant the conclusion *Propter Hoc?*"
+  },
+  {
+    "id": "p-779e1f",
+    "offset": 5158,
+    "text": "II.--MEANING OF \"CAUSE\".--METHODS OF OBSERVATION--MILL'S EXPERIMENTAL METHODS."
+  },
+  {
+    "id": "p-d4d0c7",
+    "offset": 5238,
+    "text": "The methods formulated by Mill under the name of Experimental Methods are methods actually practised by men of science with satisfactory results, and are perfectly sound in principle. They were, indeed, in substance, taken by him from the practice of the scientific laboratory and study as generalised by Herschel. In effect what Mill did was to restate them and fit them into a system. But the controversies into which he was tempted in so doing have somewhat obscured their exact function in scientific inquiry. Hostile critics, finding that they did not serve the ends that he seemed to claim for them, have jumped to the conclusion that they are altogether illusory and serve no purpose at all."
+  },
+  {
+    "id": "p-e1ac33",
+    "offset": 5938,
+    "text": "First, we must dismiss the notion, encouraged by Mill's general theory of Inference, that the Experimental Methods have anything special to do with the observation and inferential extension of uniformities such as that death is common to all organised beings. One of the Methods, as we shall see, that named by Mill the Method of Agreement, does incidentally and collaterally establish empirical laws in the course of its observations, and this probably accounts for the prominence given to it in Mill's system. But this is not its end and aim, and the leading Method, that named by him the Method of Difference, establishes as fact only a particular case of causal coincidence. It is with the proof of theories of causation that the Experimental Methods are concerned: they are methods of observing with a view to such proof."
+  },
+  {
+    "id": "p-b6b492",
+    "offset": 6766,
+    "text": "The next point to be made clear is that the facts of causation with which the Methods are concerned are observable facts, relations among phenomena, but that the causal relations or conditions of which they are the proof are not phenomena, in the meaning of being manifest to the senses, but rather noumena, inasmuch as they are reached by reasoning from what is manifest."
+  },
+  {
+    "id": "p-eb76bb",
+    "offset": 7140,
+    "text": "Take, for example, what is known as the *quaquaversus* principle in Hydrostatics, that pressure upon a liquid is propagated equally in all directions. We cannot observe this extension of pressure among the liquid particles directly. It cannot be traced among the particles by any of our senses. But we can assume that it is so, consider what ought to be visible if it is so, and then observe whether the visible facts are in accordance with the hypothesis. A box can be made, filled with water, and so fitted with pistons on top and bottom and on each of its four sides that they will indicate the amount of pressure on them from within. Let pressure then be applied through a hole in the top, and the pistons show that it has been communicated to them equally. The application of the pressure and the yielding of the pistons are observable facts, facts in causal sequence: what happens among the particles of the liquid is not observed but reasonably conjectured, is not *phenomenal* but *noumenal*."
+  },
+  {
+    "id": "p-730b9b",
+    "offset": 8142,
+    "text": "This distinction, necessary to an understanding of the scope of the Methods, was somewhat obscured by Mill in his preliminary discussion of the meaning of \"cause\". Very rightly, though somewhat inconsistently with his first theory of Induction, he insists that \"the notion of Cause being the root of the whole theory of Induction, it is indispensable that this idea should at the very outset of our inquiry be, with the utmost practicable degree of precision, fixed and determined\". But in this determination, not content with simply recognising that it is with phenomena that the Experimental Methods primarily deal, it being indeed only phenomena that can be the subjects of experimental management and observation, he starts by declaring that science has not to do with any causes except such as are phenomenal--\"when I speak of the cause of any phenomenon, I do not mean a cause which is not itself a phenomenon\"--and goes on to define as the only correct meaning of cause \"the sum total of conditions,\" including among them conditions which are not phenomenal, in the sense of being directly open to observation."
+  },
+  {
+    "id": "p-ed054a",
+    "offset": 9261,
+    "text": "When Mill protested that he had regard only to phenomenal causes, he spoke as the partisan of a philosophical tradition. It would have been well if he had acted upon his own remark that the proper understanding of the scientific method of investigating cause is independent of metaphysical analysis of what cause means. Curiously enough, this remark is the preface to an analysis of cause which has but slight relevance to science, and is really the continuation of a dispute begun by Hume. This is the key to his use of the word phenomenon: it must be interpreted with reference to this: when he spoke of causes as phenomenal, he opposed the word to \"occult\" in some supposed metaphysical sense. And this irrelevant discussion, into the vortex of which he allowed himself to be carried, obscured the fact, elsewhere fully recognised by Mill himself, that science does attempt to get beyond phenomena at ultimate laws which are not themselves phenomena though they bind phenomena together. The \"colligation\" of the facts, to use Whewell's phrase, is not a phenomenon, but a noumenon."
+  },
+  {
+    "id": "p-00dbf9",
+    "offset": 10346,
+    "text": "The truth is that a very simple analysis of \"cause\" is sufficient for the purposes of scientific inquiry. It is enough to make sure that causal sequence or consequence shall not be confounded with simple sequence. Causal sequence is simple sequence and something more, that something more being expressed by calling it causal. What we call a cause is not merely antecedent or prior in time to what we call its effect: it is so related to the effect that if it or an equivalent event had not happened the effect would not have happened. Anything in the absence of which a phenomenon would not have come to pass as it did come to pass is a cause in the ordinary sense. We may describe it as an indispensable antecedent, with this reservation (which will be more fully understood afterwards), that if we speak of a general effect, such as death, the antecedents must be taken with corresponding generality."
+  },
+  {
+    "id": "p-985620",
+    "offset": 11251,
+    "text": "It is misleading to suggest, as Mill does, by defining cause as \"the sum total of conditions\"--a definition given to back up his conception of cause as phenomenal--that science uses the word cause in a different meaning from that of ordinary speech. It is quite true that \"the cause, philosophically speaking, is the sum total of the conditions, positive and negative, taken together: the whole of the contingencies of every description, which being realised, the consequent invariably follows\". But this does not imply any discrepancy between the scientific or philosophical meaning and the ordinary meaning. It is only another way of saying that the business of science or philosophy is to furnish a complete explanation of an event, an account of all its indispensable antecedents. The plain man would not refuse the name of cause to anything that science or philosophy could prove to be an indispensable antecedent, but his interest in explanation is more limited. It is confined to what he wants to know for the purpose he has in hand. Nor could the man of science consistently refuse the name of cause to what the plain man applies it to, if it really was something in consequence of which the event took place. Only his interest in explanation is different. The indispensable antecedents that he wants to know may not be the same. Science or philosophy applies itself to the satisfaction of a wider curiosity: it wants to know all the causes, the whole why, the sum total of conditions. To that end the various departments of science interest themselves in various species of conditions. But all understand the word cause in the ordinary sense."
+  },
+  {
+    "id": "p-d4e098",
+    "offset": 12904,
+    "text": "We must not conclude from accidental differences in explanation or statement of cause, dependent on the purpose in view, that the word Cause is used in different senses. In answering a question as to the cause of anything, we limit ourselves to what we suppose our interrogator to be ignorant of and desirous of knowing. If asked why the bells are ringing, we mention a royal marriage, or a victory, or a church meeting, or a factory dinner hour, or whatever the occasion may be. We do not consider it necessary to mention that the bells are struck by a clapper. Our hearer understands this without our mentioning it. Nor do we consider it necessary to mention the acoustic condition, that the vibration of the bells is communicated to our ears through the air, or the physiological condition, that the vibrations in the drums of our ears are conveyed by a certain mechanism of bone and tissue to the nerves. Our hearer may not care to know this, though quite prepared to admit that these conditions are indispensable antecedents. Similarly, a physiographer, in stating the cause of the periodical inundation of the Nile, would consider it enough to mention the melting of snow on the mountains in the interior of Africa, without saying anything of such conditions as the laws of gravity or the laws of liquefaction by heat, though he knows that these conditions are also indispensable. Death is explained by the doctor when referred to a gunshot wound, or a poison, or a virulent disease. The Pathologist may inquire further, and the Moral Philosopher further still. But all inquiries into indispensable conditions are inquiries into cause. And all alike have to be on their guard against mistaking simple sequence for consequence."
+  },
+  {
+    "id": "p-d5db57",
+    "offset": 14638,
+    "text": "To speak of the sum total of conditions, as the Cause in a distinctively scientific sense, is misleading in another direction. It rather encourages the idea that science investigates conditions in the lump, merely observing the visible relations between sets of antecedents and their consequents. Now this is the very thing that science must avoid in order to make progress. It analyses the antecedent situation, tries to separate the various coefficients, and finds out what they are capable of singly. It must recognise that some of the antecedents of which it is in search are not open to observation. It is these, indeed, for the most part that constitute the special subject-matter of the sciences in Molar as well as in Molecular Physics. For practical every-day purposes, it is chiefly the visible succession of phenomena that concerns us, and we are interested in the latent conditions only in as far as they provide safer ground for inference regarding such visible succession. But to reach the latent conditions is the main work of science."
+  },
+  {
+    "id": "p-6a6336",
+    "offset": 15690,
+    "text": "It is, however, only through observation of what is open to the senses that science can reach the underlying conditions, and, therefore, to understand its methods we must consider generally what is open to observation in causal succession. What can be observed when phenomena follow one another as cause and effect, that is, when the one happens in consequence of the happening of the other? In Hume's theory, which Mill formally adopted with a modification, there is nothing observable but the constancy or invariability of the connexion. When we say that Fire burns, there is nothing to be observed except that a certain sensation invariably follows upon close proximity to fire. But this holds good only if our observation is arbitrarily limited to the facts enounced in the expression. If this theory were sound, science would be confined to the observation of empirical laws. But that there is something wrong with it becomes apparent when we reflect that it has been ascertained beyond doubt that in many observed changes, and presumably in all, there is a transference of energy from one form to another. The paralogism really lies in the assumption from which Hume deduced his theory, namely, that every idea is a copy of some impression. As a matter of fact, we have ideas that are not copies of any one impression, but a binding together, colligation, or intellection of several impressions. Psychological analysis shows us that even when we say that things exist with certain qualities, we are expressing not single impressions or mental phenomena, but supposed causes and conditions of such, *noumena* in short, which connect our recollections of many separate impressions and expectations of more."
+  },
+  {
+    "id": "p-d38a04",
+    "offset": 17402,
+    "text": "The Experimental Methods proceed on the assumption that there is other outward and visible evidence of causal connexion than invariability of sequence. In the leading Method it is assumed that when events may be observed to follow one another in a certain way, they are in causal sequence. If we can make sure that an antecedent change is the only change that has occurred in an antecedent situation, we have proof positive that any immediately subsequent change in the situation is a consequent, that the successive changes are in causal sequence. Thus when Pascal's barometer was carried to the top of Puy le Dome, and the mercury in it fell, the experimenters argued that the fall of the mercury was causally connected with the change of elevation, all the other circumstances remaining the same. This is the foundation of the so-called Method of Difference. To determine that the latent condition was a difference in the weight of the atmosphere, needed other observations, calculations and inferences; but if it could be shown that the elevation was the only antecedent changed in a single instance, causal connexion was established between this and the phenomenon of the fall of the barometer."
+  },
+  {
+    "id": "p-1367aa",
+    "offset": 18603,
+    "text": "It is obvious that in coming to this conclusion we assume what cannot be demonstrated but must simply be taken as a working principle to be confirmed by its accordance with experience, that nothing comes into being without some change in the antecedent circumstances. This is the assumption known as the Law of Causation--*ex nihilo nihil fit*."
+  },
+  {
+    "id": "p-8b6976",
+    "offset": 18949,
+    "text": "Again, certain observable facts are taken as evidence that there is no causal connexion. On the assumption that any antecedent in whose absence a phenomenon takes place is not causally connected with it, we set aside or eliminate various antecedents as fortuitous or non-causal. This negative principle, as we shall see, is the foundation of what Mill called the Method of Agreement."
+  },
+  {
+    "id": "p-c3c827",
+    "offset": 19334,
+    "text": "Be it remarked, once for all, that before coming to a conclusion on the Positive Method or Method of Difference, we may often have to make many observations on the Negative Method. Thus Pascal's experimenters, before concluding that the change of altitude was the only influential change, tried the barometer in exposed positions and in sheltered, when the wind blew and when it was calm, in rain and in fog, in order to prove that these circumstances were indifferent. We must expound and illustrate the methods separately, but every method known to science may have in practice to be employed in arriving at a single conclusion."
+  }
+]

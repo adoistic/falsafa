@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-alexander-gunn-bergson-and-his-philosophy-6671b6",
+  "work_title": "Bergson and His Philosophy",
+  "chapter_number": 10,
+  "chapter_title": "Chapter X",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cd73f3f1-e9c7-5adc-9bb6-62ca8a807f18",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3895,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5717"
+    }
+  ]
+}

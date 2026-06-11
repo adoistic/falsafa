@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-essays-on-some-unsettled-questio-0b285d",
+  "work_title": "Essays on Some Unsettled Questions of Political Economy",
+  "chapter_number": 1,
+  "chapter_title": "Essays on Some Unsettled Questions of Political Economy",
+  "chapter_slug": "01-essays-on-some-unsettled-questions-of-political-ec",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4a56c00b-bc8a-5375-ac71-c5cb7ec7db87",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 49397,
+      "paragraph_count": 428,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/12004"
+    }
+  ]
+}

@@ -1,0 +1,672 @@
+[
+  {
+    "id": "p-deadb7",
+    "offset": 0,
+    "text": "SORITESES."
+  },
+  {
+    "id": "p-4434d4",
+    "offset": 12,
+    "text": "CHAPTER I."
+  },
+  {
+    "id": "p-b7062f",
+    "offset": 24,
+    "text": "*INTRODUCTORY.*"
+  },
+  {
+    "id": "p-0925e0",
+    "offset": 41,
+    "text": "When a Set of three or more Biliteral Propositions are such that all their Terms are Species of the same Genus, and are also so related that two of them, taken together, yield a Conclusion, which, taken with another of them, yields another Conclusion, and so on, until all have been taken, it is evident that, if the original Set were true, the last Conclusion would *also* be true."
+  },
+  {
+    "id": "p-c79010",
+    "offset": 425,
+    "text": "Such a Set, with the last Conclusion tacked on, is called a '=Sorites='; the original Set of Propositions is called its '=Premisses='; each of the intermediate Conclusions is called a '=Partial Conclusion=' of the Sorites; the last Conclusion is called its '=Complete Conclusion=,' or, more briefly, its '=Conclusion='; the Genus, of which all the Terms are Species, is called its '=Universe of Discourse=', or, more briefly, its '=Univ.='; the Terms, used as Eliminands in the Syllogisms, are called its '=Eliminands='; and the two Terms, which are retained, and therefore appear in the Conclusion, are called its '=Retinends='."
+  },
+  {
+    "id": "p-098cf8",
+    "offset": 1056,
+    "text": "[Note that each *Partial* Conclusion contains one or two *Eliminands*; but that the *Complete* Conclusion contains *Retinends* only.]"
+  },
+  {
+    "id": "p-0297a2",
+    "offset": 1191,
+    "text": "The Conclusion is said to be '=consequent=' from the Premisses; for which reason it is usual to prefix to it the word \"Therefore\" (or the symbol \".'.\")."
+  },
+  {
+    "id": "p-706478",
+    "offset": 1345,
+    "text": "[Note that the question, whether the Conclusion is or is not *consequent* from the Premisses, is not affected by the *actual* truth or falsity of any one of the Propositions which make up the Sorites, by depends entirely on their _relationship to one another_. pg086 As a specimen-Sorites, let us take the following Set of 5 Propositions:--"
+  },
+  {
+    "id": "p-d78cbf",
+    "offset": 1687,
+    "text": "(1) \"No a are b'; (2) All b are c; (3) All c are d; (4) No e' are a'; (5) All h are e'\"."
+  },
+  {
+    "id": "p-052c71",
+    "offset": 1777,
+    "text": "Here the first and second, taken together, yield \"No a are c'\"."
+  },
+  {
+    "id": "p-1f7901",
+    "offset": 1842,
+    "text": "This, taken along with the third, yields \"No a are d'\"."
+  },
+  {
+    "id": "p-34b27d",
+    "offset": 1899,
+    "text": "This, taken along with the fourth, yields \"No d' are e'\"."
+  },
+  {
+    "id": "p-1bad15",
+    "offset": 1958,
+    "text": "And this, taken along with the fifth, yields \"All h are d\"."
+  },
+  {
+    "id": "p-e7d95c",
+    "offset": 2019,
+    "text": "Hence, if the original Set were true, this would *also* be true."
+  },
+  {
+    "id": "p-a0961c",
+    "offset": 2085,
+    "text": "Hence the original Set, with this tacked on, is a *Sorites*; the original Set is its *Premisses*; the Proposition \"All h are d\" is its *Conclusion*; the Terms a, b, c, e are its *Eliminands*; and the Terms d and h are its *Retinends*."
+  },
+  {
+    "id": "p-d65ec5",
+    "offset": 2321,
+    "text": "Hence we may write the whole Sorites thus:--"
+  },
+  {
+    "id": "p-d82acf",
+    "offset": 2367,
+    "text": "\"No a are b'; All b are c; All c are d; No e' are a'; All h are e'. .'. All h are d\"."
+  },
+  {
+    "id": "p-3026a7",
+    "offset": 2454,
+    "text": "In the above Sorites, the 3 Partial Conclusions are the Positions \"No a are e'\", \"No a are d'\", \"No d' are e'\"; but, if the Premisses were arranged in other ways, other Partial Conclusions might be obtained. Thus, the order 41523 yields the Partial Conclusions \"No c' are b'\", \"All h are b\", \"All h are c\". There are altogether *nine* Partial Conclusions to this Sorites, which the Reader will find it an interesting task to make out for himself.]"
+  },
+  {
+    "id": "p-3aafb8",
+    "offset": 2903,
+    "text": "pg087"
+  },
+  {
+    "id": "p-333fc7",
+    "offset": 2910,
+    "text": "CHAPTER II."
+  },
+  {
+    "id": "p-c36606",
+    "offset": 2923,
+    "text": "*PROBLEMS IN SORITESES.*"
+  },
+  {
+    "id": "p-ae0d41",
+    "offset": 2949,
+    "text": "*Introductory.*"
+  },
+  {
+    "id": "p-143a2c",
+    "offset": 2966,
+    "text": "The Problems we shall have to solve are of the following form:--"
+  },
+  {
+    "id": "p-0afbd9",
+    "offset": 3032,
+    "text": "\"Given three or more Propositions of Relation, which are proposed as Premisses: to ascertain what Conclusion, if any, is consequent from them.\""
+  },
+  {
+    "id": "p-21f723",
+    "offset": 3177,
+    "text": "We will limit ourselves, at present, to Problems which can be worked by the Formulæ of Fig. I. (See p. 75.) Those, that require *other* Formulæ, are rather too hard for beginners."
+  },
+  {
+    "id": "p-3bb982",
+    "offset": 3358,
+    "text": "Such Problems may be solved by either of two Methods, viz."
+  },
+  {
+    "id": "p-80dedf",
+    "offset": 3418,
+    "text": "(1) The Method of Separate Syllogisms; (2) The Method of Underscoring."
+  },
+  {
+    "id": "p-ca1bfa",
+    "offset": 3490,
+    "text": "These shall be discussed separately."
+  },
+  {
+    "id": "p-fe24d8",
+    "offset": 3528,
+    "text": "pg088 § 2."
+  },
+  {
+    "id": "p-6ae249",
+    "offset": 3540,
+    "text": "*Solution by Method of Separate Syllogisms.*"
+  },
+  {
+    "id": "p-0ca89d",
+    "offset": 3586,
+    "text": "The Rules, for doing this, are as follows:--"
+  },
+  {
+    "id": "p-a3bacf",
+    "offset": 3632,
+    "text": "(1) Name the 'Universe of Discourse'."
+  },
+  {
+    "id": "p-869567",
+    "offset": 3671,
+    "text": "(2) Construct a Dictionary, making a, b, c, &c. represent the Terms."
+  },
+  {
+    "id": "p-704ad5",
+    "offset": 3741,
+    "text": "(3) Put the Proposed Premisses into subscript form."
+  },
+  {
+    "id": "p-fea60c",
+    "offset": 3794,
+    "text": "(4) Select two which, containing between them a pair of codivisional Classes, can be used as the Premisses of a Syllogism."
+  },
+  {
+    "id": "p-02b97f",
+    "offset": 3918,
+    "text": "(5) Find their Conclusion by Formula."
+  },
+  {
+    "id": "p-f3ddd7",
+    "offset": 3957,
+    "text": "(6) Find a third Premiss which, along with this Conclusion, can be used as the Premisses of a second Syllogism."
+  },
+  {
+    "id": "p-3b9aaa",
+    "offset": 4070,
+    "text": "(7) Find a second Conclusion by Formula."
+  },
+  {
+    "id": "p-951894",
+    "offset": 4112,
+    "text": "(8) Proceed thus, until all the proposed Premisses have been used."
+  },
+  {
+    "id": "p-62c4de",
+    "offset": 4180,
+    "text": "(9) Put the last Conclusion, which is the Complete Conclusion of the Sorites, into concrete form."
+  },
+  {
+    "id": "p-86970b",
+    "offset": 4279,
+    "text": "[As an example of this process, let us take, as the proposed Set of Premisses,"
+  },
+  {
+    "id": "p-a74666",
+    "offset": 4359,
+    "text": "(1) \"All the policemen on this beat sup with our cook; (2) No man with long hair can fail to be a poet; (3) Amos Judd has never been in prison; (4) Our cook's 'cousins' all love cold mutton; (5) None but policemen on this beat are poets; (6) None but her 'cousins' ever sup with our cook; (7) Men with short hair have all been in prison.\""
+  },
+  {
+    "id": "p-92f206",
+    "offset": 4699,
+    "text": "Univ. \"men\"; a = Amos Judd; b = cousins of our cook; c = having been in prison; d = long-haired; e = loving cold mutton; h = poets; k = policemen on this beat; l = supping with our cook pg089 We now have to put the proposed Premisses into *subscript* form. Let us begin by putting them into *abstract* form. The result is"
+  },
+  {
+    "id": "p-76c1ff",
+    "offset": 5022,
+    "text": "(1) \"All k are l; (2) No d are h'; (3) All a are c'; (4) All b are e; (5) No k' are h; (6) No b' are l; (7) All d' are c.\""
+  },
+  {
+    "id": "p-cd088f",
+    "offset": 5146,
+    "text": "And it is now easy to put them into *subscript* form, as follows:--"
+  },
+  {
+    "id": "p-e3c9cb",
+    "offset": 5215,
+    "text": "(1) k*{1}l'*{0} (2) dh'_{0} (3) a*{1}c*{0} (4) b*{1}e'*{0} (5) k'h_{0} (6) b'l_{0} (7) d'*{1}c'*{0}"
+  },
+  {
+    "id": "p-b68a16",
+    "offset": 5316,
+    "text": "We now have to find a pair of Premisses which will yield a Conclusion. Let us begin with No. (1), and look down the list, till we come to one which we can take along with it, so as to form Premisses belonging to Fig. I. We find that No. (5) will do, since we can take k as our Eliminand. So our first syllogism is"
+  },
+  {
+    "id": "p-419c1d",
+    "offset": 5631,
+    "text": "(1) k*{1}l'*{0} (5) k'h_{0} .'. l'h_{0} ... (8)"
+  },
+  {
+    "id": "p-859c94",
+    "offset": 5680,
+    "text": "We must now begin again with l'h_{0} and find a Premiss to go along with it. We find that No. (2) will do, h being our Eliminand. So our next Syllogism is"
+  },
+  {
+    "id": "p-db546a",
+    "offset": 5836,
+    "text": "(8) l'h_{0} (2) dh'_{0} .'. l'd_{0} ... (9)"
+  },
+  {
+    "id": "p-21a626",
+    "offset": 5881,
+    "text": "We have now used up Nos. (1), (5), and (2), and must search among the others for a partner for l'd_{0}. We find that No. (6) will do. So we write"
+  },
+  {
+    "id": "p-992d30",
+    "offset": 6028,
+    "text": "(9) l'd_{0} (6) b'l_{0} .'. db'_{0} ... (10)"
+  },
+  {
+    "id": "p-66eb57",
+    "offset": 6074,
+    "text": "Now what can we take along with db'_{0}? No. (4) will do."
+  },
+  {
+    "id": "p-2fce0f",
+    "offset": 6133,
+    "text": "(10) db'_{0} (4) b*{1}e'*{0} .'. de'_{0} ... (11) pg090 Along with this we may take No. (7)."
+  },
+  {
+    "id": "p-b20851",
+    "offset": 6227,
+    "text": "(11) de'_{0} (7) d'*{1}c'*{0} .'. c'e'_{0} ... (12)"
+  },
+  {
+    "id": "p-7d7750",
+    "offset": 6280,
+    "text": "And along with this we may take No. (3)."
+  },
+  {
+    "id": "p-772949",
+    "offset": 6322,
+    "text": "(12) c'e'_{0} (3) a*{1}c*{0} .'. a*{1}e'*{0}"
+  },
+  {
+    "id": "p-6eeb6a",
+    "offset": 6368,
+    "text": "This Complete Conclusion, translated into *abstract* form, is"
+  },
+  {
+    "id": "p-2e0dd8",
+    "offset": 6431,
+    "text": "\"All a are e\";"
+  },
+  {
+    "id": "p-e6fbf6",
+    "offset": 6447,
+    "text": "and this, translated into *concrete* form, is"
+  },
+  {
+    "id": "p-0eb8da",
+    "offset": 6494,
+    "text": "\"Amos Judd loves cold mutton.\""
+  },
+  {
+    "id": "p-0cec74",
+    "offset": 6526,
+    "text": "In actually *working* this Problem, the above explanations would, of course, be omitted, and all, that would appear on paper, would be as follows:--"
+  },
+  {
+    "id": "p-e3c9cb",
+    "offset": 6676,
+    "text": "(1) k*{1}l'*{0} (2) dh'_{0} (3) a*{1}c*{0} (4) b*{1}e'*{0} (5) k'h_{0} (6) b'l_{0} (7) d'*{1}c'*{0}"
+  },
+  {
+    "id": "p-419c1d",
+    "offset": 6777,
+    "text": "(1) k*{1}l'*{0} (5) k'h_{0} .'. l'h_{0} ... (8)"
+  },
+  {
+    "id": "p-db546a",
+    "offset": 6826,
+    "text": "(8) l'h_{0} (2) dh'_{0} .'. l'd_{0} ... (9)"
+  },
+  {
+    "id": "p-992d30",
+    "offset": 6871,
+    "text": "(9) l'd_{0} (6) b'l_{0} .'. db'_{0} ... (10)"
+  },
+  {
+    "id": "p-01e4f0",
+    "offset": 6917,
+    "text": "(10) db'_{0} (4) b*{1}e'*{0} .'. de'_{0} ... (11)"
+  },
+  {
+    "id": "p-b20851",
+    "offset": 6968,
+    "text": "(11) de'_{0} (7) d'*{1}c'*{0} .'. c'e'_{0} ... (12)"
+  },
+  {
+    "id": "p-772949",
+    "offset": 7021,
+    "text": "(12) c'e'_{0} (3) a*{1}c*{0} .'. a*{1}e'*{0}"
+  },
+  {
+    "id": "p-879377",
+    "offset": 7067,
+    "text": "Note that, in working a Sorites by this Process, we may begin with *any* Premiss we choose.]"
+  },
+  {
+    "id": "p-18bb35",
+    "offset": 7161,
+    "text": "pg091 § 3."
+  },
+  {
+    "id": "p-838648",
+    "offset": 7173,
+    "text": "*Solution by Method of Underscoring.*"
+  },
+  {
+    "id": "p-782e11",
+    "offset": 7212,
+    "text": "Consider the Pair of Premisses"
+  },
+  {
+    "id": "p-616687",
+    "offset": 7244,
+    "text": "xm*{0} + ym'*{0}"
+  },
+  {
+    "id": "p-a27956",
+    "offset": 7262,
+    "text": "which yield the Conclusion xy_{0}"
+  },
+  {
+    "id": "p-bbe8aa",
+    "offset": 7297,
+    "text": "We see that, in order to get this Conclusion, we must eliminate m and m', and write x and y together in one expression."
+  },
+  {
+    "id": "p-e4ad6e",
+    "offset": 7418,
+    "text": "Now, if we agree to *mark* m and m' as eliminated, and to read the two expressions together, as if they were written in one, the two Premisses will then exactly represent the *Conclusion*, and we need not write it out separately."
+  },
+  {
+    "id": "p-968988",
+    "offset": 7649,
+    "text": "Let us agree to mark the eliminated letters by *underscoring* them, putting a *single* score under the *first*, and a *double* one under the *second*."
+  },
+  {
+    "id": "p-13849c",
+    "offset": 7801,
+    "text": "The two Premisses now become"
+  },
+  {
+    "id": "p-6dd5c4",
+    "offset": 7831,
+    "text": "xm*{0} + ym'*{0} - ="
+  },
+  {
+    "id": "p-8b8c67",
+    "offset": 7853,
+    "text": "which we read as \"xy_{0}\"."
+  },
+  {
+    "id": "p-a5669e",
+    "offset": 7881,
+    "text": "In copying out the Premisses for underscoring, it will be convenient to *omit all subscripts*. As to the \"0's\" we may always *suppose* them written, and, as to the \"1's\", we are not concerned to know *which* Terms are asserted to *exist*, except those which appear in the *Complete* Conclusion; and for *them* it will be easy enough to refer to the original list. pg092 [I will now go through the process of solving, by this method, the example worked in § 2."
+  },
+  {
+    "id": "p-f3c263",
+    "offset": 8342,
+    "text": "The Data are"
+  },
+  {
+    "id": "p-4fd5db",
+    "offset": 8356,
+    "text": "1 2 3 4 k*{1}l'*{0} + dh'*{0} + a*{1}c*{0} + b*{1}e'_{0} +"
+  },
+  {
+    "id": "p-1082a7",
+    "offset": 8416,
+    "text": "5 6 7 k'h*{0} + b'l*{0} + d'*{1}c'*{0}"
+  },
+  {
+    "id": "p-970149",
+    "offset": 8456,
+    "text": "The Reader should take a piece of paper, and write out this solution for himself. The first line will consist of the above Data; the second must be composed, bit by bit, according to the following directions."
+  },
+  {
+    "id": "p-86b78a",
+    "offset": 8666,
+    "text": "We begin by writing down the first Premiss, with its numeral over it, but omitting the subscripts."
+  },
+  {
+    "id": "p-b651ab",
+    "offset": 8766,
+    "text": "We have now to find a Premiss which can be combined with this, *i.e.*, a Premiss containing either k' or l. The first we find is No. 5; and this we tack on, with a +."
+  },
+  {
+    "id": "p-4bbe0c",
+    "offset": 8934,
+    "text": "To get the *Conclusion* from these, k and k' must be eliminated, and what remains must be taken as one expression. So we *underscore* them, putting a *single* score under k, and a *double* one under k'. The result we read as l'h."
+  },
+  {
+    "id": "p-4a8271",
+    "offset": 9165,
+    "text": "We must now find a Premiss containing either l or h'. Looking along the row, we fix on No. 2, and tack it on."
+  },
+  {
+    "id": "p-247138",
+    "offset": 9276,
+    "text": "Now these 3 Nullities are really equivalent to (l'h + dh'), in which h and h' must be eliminated, and what remains taken as one expression. So we *underscore* them. The result reads as l'd."
+  },
+  {
+    "id": "p-8083a5",
+    "offset": 9467,
+    "text": "We now want a Premiss containing l or d'. No. 6 will do."
+  },
+  {
+    "id": "p-302877",
+    "offset": 9525,
+    "text": "These 4 Nullities are really equivalent to (l'd + b'l). So we underscore l' and l. The result reads as db'."
+  },
+  {
+    "id": "p-9b7fa4",
+    "offset": 9634,
+    "text": "We now want a Premiss containing d' or b. No. 4 will do."
+  },
+  {
+    "id": "p-e6f373",
+    "offset": 9692,
+    "text": "Here we underscore b' and b. The result reads as de'."
+  },
+  {
+    "id": "p-5bb3a7",
+    "offset": 9747,
+    "text": "We now want a Premiss containing d' or e. No. 7 will do."
+  },
+  {
+    "id": "p-3057a6",
+    "offset": 9805,
+    "text": "Here we underscore d and d'. The result reads as c'e'."
+  },
+  {
+    "id": "p-46cc50",
+    "offset": 9861,
+    "text": "We now want a Premiss containing c or e. No. 3 will do--in fact *must* do, as it is the only one left."
+  },
+  {
+    "id": "p-9510da",
+    "offset": 9965,
+    "text": "Here we underscore c' and c; and, as the whole thing now reads as e'a, we tack on e'a*{0} as the *Conclusion_, with a ¶."
+  },
+  {
+    "id": "p-7b5ba3",
+    "offset": 10087,
+    "text": "We now look along the row of Data, to see whether e' or a has been given as *existent*. We find that a has been so given in No. 3. So we add this fact to the Conclusion, which now stands as ¶ e'a*{0} + a*{1}, *i.e.* ¶ a*{1}e'*{0}; i.e. \"All a are e.\""
+  },
+  {
+    "id": "p-410405",
+    "offset": 10339,
+    "text": "If the Reader has faithfully obeyed the above directions, his written solution will now stand as follows:--"
+  },
+  {
+    "id": "p-4fd5db",
+    "offset": 10448,
+    "text": "1 2 3 4 k*{1}l'*{0} + dh'*{0} + a*{1}c*{0} + b*{1}e'_{0} +"
+  },
+  {
+    "id": "p-1082a7",
+    "offset": 10508,
+    "text": "5 6 7 k'h*{0} + b'l*{0} + d'*{1}c'*{0}"
+  },
+  {
+    "id": "p-a0317d",
+    "offset": 10548,
+    "text": "1 5 2 6 4 7 3 kl' + k'h + dh' + b'l + be' + d'c' + ac -- = - -= - = = = - ="
+  },
+  {
+    "id": "p-55a169",
+    "offset": 10625,
+    "text": "¶ e'a*{0} + a*{1}"
+  },
+  {
+    "id": "p-fb8c8d",
+    "offset": 10644,
+    "text": "*i.e.* ¶ a*{1}e'*{0};"
+  },
+  {
+    "id": "p-56b74d",
+    "offset": 10667,
+    "text": "*i.e.* \"All a are e.\" pg093 The Reader should now take a second piece of paper, and copy the Data only, and try to work out the solution for himself, beginning with some other Premiss."
+  },
+  {
+    "id": "p-16b8de",
+    "offset": 10853,
+    "text": "If he fails to bring out the Conclusion a*{1}e'*{0}, I would advise him to take a third piece of paper, and *begin again*!]"
+  },
+  {
+    "id": "p-fbb81d",
+    "offset": 10978,
+    "text": "I will now work out, in its briefest form, a Sorites of 5 Premisses, to serve as a model for the Reader to imitate in working examples."
+  },
+  {
+    "id": "p-d39d86",
+    "offset": 11115,
+    "text": "(1) \"I greatly value everything that John gives me; (2) Nothing but this bone will satisfy my dog; (3) I take particular care of everything that I greatly value; (4) This bone was a present from John; (5) The things, of which I take particular care, are things I do *not* give to my dog\"."
+  },
+  {
+    "id": "p-9819bc",
+    "offset": 11405,
+    "text": "Univ. \"things\"; a = given by John to me; b = given by me to my dog; c = greatly valued by me; d = satisfactory to my dog; e = taken particular care of by me; h = this bone."
+  },
+  {
+    "id": "p-e6186a",
+    "offset": 11579,
+    "text": "1 2 3 4 5 a*{1}c'*{0} + h'd*{0} + c*{1}e'*{0} + h*{1}a'*{0} + e*{1}b_{0}"
+  },
+  {
+    "id": "p-a92f0a",
+    "offset": 11653,
+    "text": "1 3 4 2 5 ac' + ce' + ha' + h'd + eb ¶ db_{0} -- =- -= = ="
+  },
+  {
+    "id": "p-0c0073",
+    "offset": 11713,
+    "text": "i.e. \"Nothing, that I give my dog, satisfies him,\" or, \"My dog is not satisfied with *anything* that I give him!\""
+  },
+  {
+    "id": "p-9ee30f",
+    "offset": 11828,
+    "text": "[Note that, in working a Sorites by this process, we may begin with *any* Premiss we choose. For instance, we might begin with No. 5, and the result would then be"
+  },
+  {
+    "id": "p-340462",
+    "offset": 11992,
+    "text": "5 3 1 4 2 eb + ce' + ac' + ha' + h'd ¶ bd_{0}] - -= -= -= ="
+  },
+  {
+    "id": "p-90dbc3",
+    "offset": 12053,
+    "text": "[Work Examples § =4=, 25-30 (p. 100); § =5=, 25-30 (p. 102); § =6=, 13-15 (p. 106); § =7=, 13-15 (p. 108); § =8=, 1-4, 13, 14, 19, 24 (pp. 110, 111); § =9=, 1-4, 26, 27, 40, 48 (pp. 112, 116, 119, 121).]"
+  },
+  {
+    "id": "p-d1ca25",
+    "offset": 12258,
+    "text": "pg094 The Reader, who has successfully grappled with all the Examples hitherto set, and who thirsts, like Alexander the Great, for \"more worlds to conquer,\" may employ his spare energies on the following 17 Examination-Papers. He is recommended not to attempt more than *one* Paper on any one day. The answers to the questions about words and phrases may be found by referring to the Index at p. 197."
+  },
+  {
+    "id": "p-965fe7",
+    "offset": 12660,
+    "text": "I. § =4=, 31 (p. 100); § =5=, 31-34 (p. 102); § =6=, 16, 17 (p. 106); § =7=, 16 (p. 108); § =8=, 5, 6 (p. 110); § =9=, 5, 22, 42 (pp. 112, 115, 119). What is 'Classification'? And what is a 'Class'?"
+  },
+  {
+    "id": "p-72b52e",
+    "offset": 12860,
+    "text": "II. § =4=, 32 (p. 100); § =5=, 35-38 (pp. 102, 103); § =6=, 18 (p. 107); § =7=, 17, 18 (p. 108); § =8=, 7, 8 (p. 110); § =9=, 6, 23, 43 (pp. 112, 115, 119). What are 'Genus', 'Species', and 'Differentia'?"
+  },
+  {
+    "id": "p-e4cf02",
+    "offset": 13066,
+    "text": "III. § =4=, 33 (p. 100); § =5=, 39-42 (p. 103); § =6=, 19, 20 (p. 107); § =7=, 19 (p. 109); § =8=, 9, 10 (p. 111); § =9=, 7, 24, 44 (pp. 113, 116, 120). What are 'Real' and 'Imaginary' Classes?"
+  },
+  {
+    "id": "p-c4ef3f",
+    "offset": 13261,
+    "text": "IV. § =4=, 34 (p. 100); § =5=, 43-46 (p. 103); § =6=, 21 (p. 107); § =7=, 20, 21 (p. 109); § =8=, 11, 12 (p. 111); § =9=, 8, 25, 45 (pp. 113, 116, 120). What is 'Division'? When are Classes said to be 'Codivisional'?"
+  },
+  {
+    "id": "p-2dfc33",
+    "offset": 13479,
+    "text": "V. § =4=, 35 (p. 100); § =5=, 47-50 (p. 103); § =6=, 22, 23 (p. 107); § =7=, 22 (p. 109); § =8=, 15, 16 (p. 111); § =9=, 9, 28, 46 (pp. 113, 116, 120). What is 'Dichotomy'? What arbitrary rule does it sometimes require? pg095 VI. § =4=, 36 (p. 100); § =5=, 51-54 (p. 103); § =6=, 24 (p. 107); § =7=, 23, 24 (p. 109); § =8=, 17 (p. 111); § =9=, 10, 29, 47 (pp. 113, 117, 120). What is a 'Definition'?"
+  },
+  {
+    "id": "p-eacd3b",
+    "offset": 13880,
+    "text": "VII. § =4=, 37 (p. 100); § =5=, 55-58 (pp. 103, 104); § =6=, 25, 26 (p. 107); § =7=, 25 (p. 109); § =8=, 18 (p. 111); § =9=, 11, 30, 49 (pp. 113, 117, 121). What are the 'Subject' and the 'Predicate' of a Proposition? What is its 'Normal' form?"
+  },
+  {
+    "id": "p-74bfe7",
+    "offset": 14126,
+    "text": "VIII. § =4=, 38 (p. 100); § =5=, 59-62 (p. 104); § =6=, 27 (p. 107); § =7=, 26, 27 (p. 109); § =8=, 20 (p. 111); § =9=, 12, 31, 50 (pp. 113, 117, 121). What is a Proposition 'in *I*'? 'In *E*'? And 'in *A*'?"
+  },
+  {
+    "id": "p-838349",
+    "offset": 14335,
+    "text": "IX. § =4=, 39 (p. 100); § =5=, 63-66 (p. 104); § =6=, 28, 29 (p. 107); § =7=, 28 (p. 109); § =8=, 21 (p. 111); § =9=, 13, 32, 51 (pp. 114, 117, 121). What is the 'Normal' form of a Proposition of Existence?"
+  },
+  {
+    "id": "p-18e3af",
+    "offset": 14543,
+    "text": "X. § =4=, 40 (p. 100); § =5=, 67-70 (p. 104); § =6=, 30 (p. 107); § =7=, 29, 30 (p. 109); § =8=, 22 (p. 111); § =9=, 14, 33, 52 (pp. 114, 117, 122). What is the 'Universe of Discourse'?"
+  },
+  {
+    "id": "p-80666b",
+    "offset": 14730,
+    "text": "XI. § =4=, 41 (p. 100); § =5=, 71-74 (p. 104); § =6=, 31, 32 (p. 107); § =7=, 31 (p. 109); § =8=, 23 (p. 111); § =9=, 15, 34, 53 (pp. 114, 118, 122). What is implied, in a Proposition of Relation, as to the Reality of its Terms?"
+  },
+  {
+    "id": "p-b046ef",
+    "offset": 14960,
+    "text": "XII. § =4=, 42 (p. 100); § =5=, 75-78 (p. 105); § =6=, 33 (p. 107); § =7=, 32, 33 (pp. 109, 110); § =8=, 25 (p. 111); § =9=, 16, 35, 54 (pp. 114, 118, 122). Explain the phrase \"sitting on the fence\"."
+  },
+  {
+    "id": "p-8df4bd",
+    "offset": 15161,
+    "text": "XIII. § =5=, 79-83 (p. 105); § =6=, 34, 35 (p. 107); § =7=, 34 (p. 110); § =8=, 26 (p. 111); § =9=, 17, 36, 55 (pp. 114, 118, 122). What are 'Converse' Propositions?"
+  },
+  {
+    "id": "p-009f2c",
+    "offset": 15328,
+    "text": "XIV. § =5=, 84-88 (p. 105); § =6=, 36 (p. 107); § =7=, 35, 36 (p. 110); § =8=, 27 (p. 111); § =9=, 18, 37, 56 (pp. 114, 118, 123). What are 'Concrete' and 'Abstract' Propositions? pg096 XV. § =5=, 89-93 (p. 105); § =6=, 37, 38 (p. 107); § =7=, 37 (p. 110); § =8=, 28 (p. 111); § =9=, 19, 38, 57 (pp. 115, 118, 123). What is a 'Syllogism'? And what are its 'Premisses' and its 'Conclusion'?"
+  },
+  {
+    "id": "p-8e7fe1",
+    "offset": 15719,
+    "text": "XVI. § =5=, 94-97 (p. 106); § =6=, 39 (p. 107); § =7=, 38, 39 (p. 110); § =8=, 29 (p. 111); § =9=, 20, 39, 58 (pp. 115, 119, 123). What is a 'Sorites'? And what are its 'Premisses', its 'Partial Conclusions', and its 'Complete Conclusion'?"
+  },
+  {
+    "id": "p-4ff746",
+    "offset": 15960,
+    "text": "XVII. § =5=, 98-101 (p. 106); § =6=, 40 (p. 107); § =7=, 40 (p. 110); § =8=, 30 (p. 111); § =9=, 21, 41, 59, 60 (pp. 115, 119, 124). What are the 'Universe of Discourse', the 'Eliminands', and the 'Retinends', of a Syllogism? And of a Sorites?"
+  },
+  {
+    "id": "p-3ab1f6",
+    "offset": 16205,
+    "text": "pg097"
+  }
+]

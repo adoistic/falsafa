@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-the-problems-of-philosophy-47c80e",
+  "work_title": "The Problems of Philosophy",
+  "chapter_number": 7,
+  "chapter_title": "Chapter VII — ON OUR KNOWLEDGE OF GENERAL PRINCIPLES",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5867fb22-f56e-5813-84ab-c0d120e3db25",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3153,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5827"
+    }
+  ]
+}

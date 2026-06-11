@@ -1,0 +1,3307 @@
+[
+  {
+    "id": "p-e4f45a",
+    "offset": 0,
+    "text": "*EXAMPLES.*"
+  },
+  {
+    "id": "p-e5f18c",
+    "offset": 13,
+    "text": "§ 1. EX1"
+  },
+  {
+    "id": "p-00cb55",
+    "offset": 23,
+    "text": "*Propositions of Relation, to be reduced to normal form.*"
+  },
+  {
+    "id": "p-d0d7a3",
+    "offset": 82,
+    "text": "1. I have been out for a walk."
+  },
+  {
+    "id": "p-72f4da",
+    "offset": 114,
+    "text": "2. I am feeling better."
+  },
+  {
+    "id": "p-c3a691",
+    "offset": 139,
+    "text": "3. No one has read the letter but John."
+  },
+  {
+    "id": "p-750c95",
+    "offset": 180,
+    "text": "4. Neither you nor I are old."
+  },
+  {
+    "id": "p-1e2f80",
+    "offset": 211,
+    "text": "5. No fat creatures run well."
+  },
+  {
+    "id": "p-726ab7",
+    "offset": 242,
+    "text": "6. None but the brave deserve the fair."
+  },
+  {
+    "id": "p-a4d73e",
+    "offset": 283,
+    "text": "7. No one looks poetical unless he is pale."
+  },
+  {
+    "id": "p-7d2f26",
+    "offset": 328,
+    "text": "8. Some judges lose their tempers."
+  },
+  {
+    "id": "p-5b8007",
+    "offset": 364,
+    "text": "9. I never neglect important business."
+  },
+  {
+    "id": "p-1c1384",
+    "offset": 404,
+    "text": "10. What is difficult needs attention."
+  },
+  {
+    "id": "p-0937ba",
+    "offset": 444,
+    "text": "11. What is unwholesome should be avoided."
+  },
+  {
+    "id": "p-c03887",
+    "offset": 488,
+    "text": "12. All the laws passed last week relate to excise."
+  },
+  {
+    "id": "p-b98edf",
+    "offset": 541,
+    "text": "13. Logic puzzles me."
+  },
+  {
+    "id": "p-51a24b",
+    "offset": 564,
+    "text": "14. There are no Jews in the house."
+  },
+  {
+    "id": "p-dd42ea",
+    "offset": 601,
+    "text": "15. Some dishes are unwholesome if not well-cooked."
+  },
+  {
+    "id": "p-a2f6ae",
+    "offset": 654,
+    "text": "16. Unexciting books make one drowsy."
+  },
+  {
+    "id": "p-7b8cc6",
+    "offset": 693,
+    "text": "17. When a man knows what he's about, he can detect a sharper."
+  },
+  {
+    "id": "p-fbbbf9",
+    "offset": 757,
+    "text": "18. You and I know what we're about."
+  },
+  {
+    "id": "p-346288",
+    "offset": 795,
+    "text": "19. Some bald people wear wigs."
+  },
+  {
+    "id": "p-6a38cb",
+    "offset": 828,
+    "text": "20. Those who are fully occupied never talk about their grievances."
+  },
+  {
+    "id": "p-735478",
+    "offset": 897,
+    "text": "21. No riddles interest me if they can be solved."
+  },
+  {
+    "id": "p-0863e0",
+    "offset": 948,
+    "text": "pg098 § 2. EX2"
+  },
+  {
+    "id": "p-40b1b0",
+    "offset": 964,
+    "text": "_Pairs of Abstract Propositions, one in terms of x and m, and the other in terms of y and m, to be represented on the same Triliteral Diagram._"
+  },
+  {
+    "id": "p-9a3a3b",
+    "offset": 1109,
+    "text": "1. No x are m; No m' are y."
+  },
+  {
+    "id": "p-513596",
+    "offset": 1138,
+    "text": "2. No x' are m'; All m' are y."
+  },
+  {
+    "id": "p-d2c79e",
+    "offset": 1170,
+    "text": "3. Some x' are m; No m are y."
+  },
+  {
+    "id": "p-632d94",
+    "offset": 1201,
+    "text": "4. All m are x; All m' are y'."
+  },
+  {
+    "id": "p-268a84",
+    "offset": 1233,
+    "text": "5. All m' are x; All m' are y'."
+  },
+  {
+    "id": "p-d67e92",
+    "offset": 1266,
+    "text": "6. All x' are m'; No y' are m."
+  },
+  {
+    "id": "p-67db16",
+    "offset": 1298,
+    "text": "7. All x are m; All y' are m'."
+  },
+  {
+    "id": "p-916e8b",
+    "offset": 1330,
+    "text": "8. Some m' are x'; No m are y."
+  },
+  {
+    "id": "p-9b9adf",
+    "offset": 1362,
+    "text": "9. All m are x'; No m are y."
+  },
+  {
+    "id": "p-732032",
+    "offset": 1392,
+    "text": "10. No m are x'; No y are m'."
+  },
+  {
+    "id": "p-c6e45e",
+    "offset": 1423,
+    "text": "11. No x' are m'; No m are y."
+  },
+  {
+    "id": "p-81b4e1",
+    "offset": 1454,
+    "text": "12. Some x are m; All y' are m."
+  },
+  {
+    "id": "p-8b9225",
+    "offset": 1487,
+    "text": "13. All x' are m; No m are y."
+  },
+  {
+    "id": "p-00e1e5",
+    "offset": 1518,
+    "text": "14. Some x are m'; All m are y."
+  },
+  {
+    "id": "p-6e39b4",
+    "offset": 1551,
+    "text": "15. No m' are x'; All y are m."
+  },
+  {
+    "id": "p-700c57",
+    "offset": 1583,
+    "text": "16. All x are m'; No y are m."
+  },
+  {
+    "id": "p-44bc79",
+    "offset": 1614,
+    "text": "17. Some m' are x; No m' are y'."
+  },
+  {
+    "id": "p-a351c1",
+    "offset": 1648,
+    "text": "18. All x are m'; Some m' are y'."
+  },
+  {
+    "id": "p-cde6da",
+    "offset": 1683,
+    "text": "19. All m are x; Some m are y'."
+  },
+  {
+    "id": "p-b9e79e",
+    "offset": 1716,
+    "text": "20. No x' are m; Some y are m."
+  },
+  {
+    "id": "p-742dd7",
+    "offset": 1748,
+    "text": "21. Some x' are m'; All y' are m."
+  },
+  {
+    "id": "p-62f505",
+    "offset": 1783,
+    "text": "22. No m are x; Some m are y."
+  },
+  {
+    "id": "p-a92a1f",
+    "offset": 1814,
+    "text": "23. No m' are x; All y are m'."
+  },
+  {
+    "id": "p-97e62c",
+    "offset": 1846,
+    "text": "24. All m are x; No y' are m'."
+  },
+  {
+    "id": "p-8556de",
+    "offset": 1878,
+    "text": "25. Some m are x; No y' are m."
+  },
+  {
+    "id": "p-756a03",
+    "offset": 1910,
+    "text": "26. All m' are x'; Some y are m'."
+  },
+  {
+    "id": "p-dd909a",
+    "offset": 1945,
+    "text": "27. Some m are x'; No y' are m'."
+  },
+  {
+    "id": "p-7c1919",
+    "offset": 1979,
+    "text": "28. No x are m'; All m are y'."
+  },
+  {
+    "id": "p-feacf0",
+    "offset": 2011,
+    "text": "29. No x' are m; No m are y'."
+  },
+  {
+    "id": "p-55b940",
+    "offset": 2042,
+    "text": "30. No x are m; Some y' are m'."
+  },
+  {
+    "id": "p-05e5e5",
+    "offset": 2075,
+    "text": "31. Some m' are x; All y' are m;"
+  },
+  {
+    "id": "p-648db3",
+    "offset": 2109,
+    "text": "32. All x are m'; All y are m."
+  },
+  {
+    "id": "p-46ecd3",
+    "offset": 2141,
+    "text": "pg099 § 3. EX3"
+  },
+  {
+    "id": "p-23b28d",
+    "offset": 2157,
+    "text": "*Marked Triliteral Diagrams, to be interpreted in terms of x and y.*"
+  },
+  {
+    "id": "p-8e0b83",
+    "offset": 2227,
+    "text": "1 ·---------------· |(O) | | | ·---|---· | | |(I)|(O)| | |---|---|---|---| | | |(O)| | | ·---|---· | |(O) | | ·---------------·"
+  },
+  {
+    "id": "p-2e0e1a",
+    "offset": 2356,
+    "text": "2 ·---------------· |(O) | | | ·---|---· | | | |(O)| | |---|---|---|(I)| | | |(O)| | | ·---|---· | |(O) | | ·---------------·"
+  },
+  {
+    "id": "p-bb2fa3",
+    "offset": 2483,
+    "text": "3 ·---------------· | | (O)| | ·---|---· | | |(O)|(O)| | |---|---|---|---| | | |(I)| | | ·---|---· | | | (O)| ·---------------·"
+  },
+  {
+    "id": "p-4e6f04",
+    "offset": 2612,
+    "text": "4 ·---------------· |(O) | (O)| | ·---|---· | | |(O)| | | |---|---|(I)|---| | |(O)| | | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-206114",
+    "offset": 2739,
+    "text": "5 ·---------------· | | (I)| | ·---|---· | | | |(O)| | |---|---|---|---| | | |(O)| | | ·---|---· | |(O) | (O)| ·---------------·"
+  },
+  {
+    "id": "p-7c44e7",
+    "offset": 2869,
+    "text": "6 ·---------------· |(O) | (O)| | ·---|---· | | | | | | |---|---|---|---| | | |(O)| | | ·---|---· | |(I) | (O)| ·---------------·"
+  },
+  {
+    "id": "p-6c03c5",
+    "offset": 3000,
+    "text": "7 ·---------------· |(O) | (O)| | ·---|---· | | |(I)|(O)| | |---|---|---|---| | | |(O)| | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-972304",
+    "offset": 3129,
+    "text": "8 ·---------------· |(I) | | | ·---|---· | | |(O)| | | |---|---|---|---| | |(O)|(I)| | | ·---|---· | |(O) | | ·---------------·"
+  },
+  {
+    "id": "p-ce4424",
+    "offset": 3258,
+    "text": "9 ·---------------· | | | | ·---|---· | | |(O)| | | |---|---|---|---| | |(O)|(I)| | | ·---|---· | |(O) | (O)| ·---------------·"
+  },
+  {
+    "id": "p-7fbe03",
+    "offset": 3387,
+    "text": "10 ·---------------· |(O) | (O)| | ·---|---· | | |(O)|(I)| | |---|---|---|---| | |(O)| | | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-86909a",
+    "offset": 3517,
+    "text": "11 ·---------------· |(O) | (O)| | ·---|---· | | | (I) | | |---|---|---|---| | |(O)| | | | ·---|---· | | | (O)| ·---------------·"
+  },
+  {
+    "id": "p-9cca9f",
+    "offset": 3648,
+    "text": "12 ·---------------· |(O) | | | ·---|---· | | | | | | |---|(I)|---|---| | | | | | | ·---|---· | |(O) | (I)| ·---------------·"
+  },
+  {
+    "id": "p-4d183c",
+    "offset": 3775,
+    "text": "13 ·---------------· |(O) | (I)| | ·---|---· | | | |(O)| | |---|---|---|---| | | |(O)| | | ·---|---· | |(O) | | ·---------------·"
+  },
+  {
+    "id": "p-6d7407",
+    "offset": 3906,
+    "text": "14 ·---------------· |(O) | (O)| | ·---|---· | | | |(O)| | |---|---|---|---| | | |(O)| | | ·---|---· | | (I) | ·---------------·"
+  },
+  {
+    "id": "p-8ee229",
+    "offset": 4036,
+    "text": "15 ·---------------· | | | | ·---|---· | | |(I)| | | |---|---|---|---| | |(O)|(O)| | | ·---|---· | | | | ·---------------·"
+  },
+  {
+    "id": "p-1a25c7",
+    "offset": 4160,
+    "text": "16 ·---------------· |(I) | | | ·---|---· | | | | | | |---|---|---|---| | |(O)| | | | ·---|---· | |(O) | (O)| ·---------------·"
+  },
+  {
+    "id": "p-ac45e8",
+    "offset": 4289,
+    "text": "17 ·---------------· | | (O)| | ·---|---· | | | |(I)| | |---|---|---|---| | |(O)|(O)| | | ·---|---· | |(I) | (O)| ·---------------·"
+  },
+  {
+    "id": "p-17cb1e",
+    "offset": 4422,
+    "text": "18 ·---------------· |(O) | (O)| | ·---|---· | | |(O)|(I)| | |---|---|---|---| | |(O)| | | | ·---|---· | |(I) | | ·---------------·"
+  },
+  {
+    "id": "p-c5f7fe",
+    "offset": 4555,
+    "text": "19 ·---------------· |(O) | (O)| | ·---|---· | | |(I)|(O)| | |---|---|---|---| | | |(O)| | | ·---|---· | | | (I)| ·---------------·"
+  },
+  {
+    "id": "p-cafc61",
+    "offset": 4688,
+    "text": "20 ·---------------· |(O) | | | ·---|---· | | |(O)|(O)| | |---|---|---|---| | |(I)| | | | ·---|---· | |(O) | | ·---------------·"
+  },
+  {
+    "id": "p-b8e012",
+    "offset": 4818,
+    "text": "pg100 § 4. EX4"
+  },
+  {
+    "id": "p-9f7463",
+    "offset": 4834,
+    "text": "_Pairs of Abstract Propositions, proposed as Premisses: Conclusions to be found._"
+  },
+  {
+    "id": "p-ddfe1d",
+    "offset": 4917,
+    "text": "1. No m are x'; All m' are y."
+  },
+  {
+    "id": "p-960090",
+    "offset": 4948,
+    "text": "2. No m' are x; Some m' are y'."
+  },
+  {
+    "id": "p-df26ac",
+    "offset": 4981,
+    "text": "3. All m' are x; All m' are y'."
+  },
+  {
+    "id": "p-32dd39",
+    "offset": 5014,
+    "text": "4. No x' are m'; All y' are m."
+  },
+  {
+    "id": "p-ed1da7",
+    "offset": 5046,
+    "text": "5. Some m are x'; No y are m."
+  },
+  {
+    "id": "p-226664",
+    "offset": 5077,
+    "text": "6. No x' are m; No m are y."
+  },
+  {
+    "id": "p-10809f",
+    "offset": 5106,
+    "text": "7. No m are x'; Some y' are m."
+  },
+  {
+    "id": "p-c49bb0",
+    "offset": 5138,
+    "text": "8. All m' are x'; No m' are y."
+  },
+  {
+    "id": "p-1a740e",
+    "offset": 5170,
+    "text": "9. Some x' are m'; No m are y'."
+  },
+  {
+    "id": "p-0c05de",
+    "offset": 5203,
+    "text": "10. All x are m; All y' are m'."
+  },
+  {
+    "id": "p-704bf7",
+    "offset": 5236,
+    "text": "11. No m are x; All y' are m'."
+  },
+  {
+    "id": "p-d94727",
+    "offset": 5268,
+    "text": "12. No x are m; All y are m."
+  },
+  {
+    "id": "p-e3697d",
+    "offset": 5298,
+    "text": "13. All m' are x; No y are m."
+  },
+  {
+    "id": "p-03e35b",
+    "offset": 5329,
+    "text": "14. All m are x; All m' are y."
+  },
+  {
+    "id": "p-9aa9dd",
+    "offset": 5361,
+    "text": "15. No x are m; No m' are y."
+  },
+  {
+    "id": "p-6a3461",
+    "offset": 5391,
+    "text": "16. All x are m'; All y are m."
+  },
+  {
+    "id": "p-fec6d7",
+    "offset": 5423,
+    "text": "17. No x are m; All m' are y."
+  },
+  {
+    "id": "p-cce008",
+    "offset": 5454,
+    "text": "18. No x are m'; No m are y."
+  },
+  {
+    "id": "p-ec8454",
+    "offset": 5484,
+    "text": "19. All m are x; All m are y'."
+  },
+  {
+    "id": "p-0a0752",
+    "offset": 5516,
+    "text": "20. No m are x; All m' are y."
+  },
+  {
+    "id": "p-6c9e71",
+    "offset": 5547,
+    "text": "21. All x are m; Some m' are y."
+  },
+  {
+    "id": "p-d5fc64",
+    "offset": 5580,
+    "text": "22. Some x are m; All y are m."
+  },
+  {
+    "id": "p-82e605",
+    "offset": 5612,
+    "text": "23. All m are x; Some y are m."
+  },
+  {
+    "id": "p-9662cc",
+    "offset": 5644,
+    "text": "24. No x are m; All y are m."
+  },
+  {
+    "id": "p-5dea3f",
+    "offset": 5674,
+    "text": "25. Some m are x'; All y' are m'."
+  },
+  {
+    "id": "p-448cfe",
+    "offset": 5709,
+    "text": "26. No m are x'; All y are m."
+  },
+  {
+    "id": "p-5d3fb0",
+    "offset": 5740,
+    "text": "27. All x are m'; All y' are m."
+  },
+  {
+    "id": "p-456478",
+    "offset": 5773,
+    "text": "28. All m are x'; Some m are y."
+  },
+  {
+    "id": "p-ecb548",
+    "offset": 5806,
+    "text": "29. No m are x; All y are m'."
+  },
+  {
+    "id": "p-ae718a",
+    "offset": 5837,
+    "text": "30. All x are m'; Some y are m."
+  },
+  {
+    "id": "p-aa6b8a",
+    "offset": 5870,
+    "text": "31. All x are m; All y are m."
+  },
+  {
+    "id": "p-5e682e",
+    "offset": 5901,
+    "text": "32. No x are m'; All m are y."
+  },
+  {
+    "id": "p-a25624",
+    "offset": 5932,
+    "text": "33. No m are x; No m are y."
+  },
+  {
+    "id": "p-027dd6",
+    "offset": 5961,
+    "text": "34. No m are x'; Some y are m."
+  },
+  {
+    "id": "p-ce446c",
+    "offset": 5993,
+    "text": "35. No m are x; All y are m."
+  },
+  {
+    "id": "p-36c2b0",
+    "offset": 6023,
+    "text": "36. All m are x'; Some y are m."
+  },
+  {
+    "id": "p-1e6ae0",
+    "offset": 6056,
+    "text": "37. All m are x; No y are m."
+  },
+  {
+    "id": "p-e1100b",
+    "offset": 6086,
+    "text": "38. No m are x; No m' are y."
+  },
+  {
+    "id": "p-a87b69",
+    "offset": 6116,
+    "text": "39. Some m are x'; No m are y."
+  },
+  {
+    "id": "p-1ad494",
+    "offset": 6148,
+    "text": "40. No x' are m; All y' are m."
+  },
+  {
+    "id": "p-7460dc",
+    "offset": 6180,
+    "text": "41. All x are m'; No y are m'."
+  },
+  {
+    "id": "p-f9f5bf",
+    "offset": 6212,
+    "text": "42. No m' are x; No y are m."
+  },
+  {
+    "id": "p-bf44f6",
+    "offset": 6242,
+    "text": "pg101 § 5. EX5"
+  },
+  {
+    "id": "p-40de99",
+    "offset": 6258,
+    "text": "_Pairs of Concrete Propositions, proposed as Premisses: Conclusions to be found._"
+  },
+  {
+    "id": "p-6ed19d",
+    "offset": 6341,
+    "text": "1. I have been out for a walk; I am feeling better."
+  },
+  {
+    "id": "p-518e8e",
+    "offset": 6394,
+    "text": "2. No one has read the letter but John; No one, who has *not* read it, knows what it is about."
+  },
+  {
+    "id": "p-b5b9d4",
+    "offset": 6490,
+    "text": "3. Those who are not old like walking; You and I are young."
+  },
+  {
+    "id": "p-16d031",
+    "offset": 6551,
+    "text": "4. Your course is always honest; Your course is always the best policy."
+  },
+  {
+    "id": "p-1bf13d",
+    "offset": 6624,
+    "text": "5. No fat creatures run well; Some greyhounds run well."
+  },
+  {
+    "id": "p-3f0007",
+    "offset": 6681,
+    "text": "6. Some, who deserve the fair, get their deserts; None but the brave deserve the fair."
+  },
+  {
+    "id": "p-4483e2",
+    "offset": 6769,
+    "text": "7. Some Jews are rich; All Esquimaux are Gentiles."
+  },
+  {
+    "id": "p-24d2ba",
+    "offset": 6821,
+    "text": "8. Sugar-plums are sweet; Some sweet things are liked by children."
+  },
+  {
+    "id": "p-3d78f1",
+    "offset": 6889,
+    "text": "9. John is in the house; Everybody in the house is ill."
+  },
+  {
+    "id": "p-5adf0c",
+    "offset": 6946,
+    "text": "10. Umbrellas are useful on a journey; What is useless on a journey should be left behind."
+  },
+  {
+    "id": "p-994b3d",
+    "offset": 7038,
+    "text": "11. Audible music causes vibration in the air; Inaudible music is not worth paying for."
+  },
+  {
+    "id": "p-aa817d",
+    "offset": 7127,
+    "text": "12. Some holidays are rainy; Rainy days are tiresome."
+  },
+  {
+    "id": "p-cf6ed4",
+    "offset": 7182,
+    "text": "13. No Frenchmen like plumpudding; All Englishmen like plumpudding."
+  },
+  {
+    "id": "p-7369f0",
+    "offset": 7251,
+    "text": "14. No portrait of a lady, that makes her simper or scowl, is satisfactory; No photograph of a lady ever fails to make her simper or scowl."
+  },
+  {
+    "id": "p-39a16d",
+    "offset": 7392,
+    "text": "15. All pale people are phlegmatic; No one looks poetical unless he is pale."
+  },
+  {
+    "id": "p-f15062",
+    "offset": 7470,
+    "text": "16. No old misers are cheerful; Some old misers are thin."
+  },
+  {
+    "id": "p-694e7e",
+    "offset": 7529,
+    "text": "17. No one, who exercises self-control, fails to keep his temper; Some judges lose their tempers. pg102 18. All pigs are fat; Nothing that is fed on barley-water is fat."
+  },
+  {
+    "id": "p-989dcd",
+    "offset": 7700,
+    "text": "19. All rabbits, that are not greedy, are black; No old rabbits are free from greediness."
+  },
+  {
+    "id": "p-8a903d",
+    "offset": 7791,
+    "text": "20. Some pictures are not first attempts; No first attempts are really good."
+  },
+  {
+    "id": "p-319e67",
+    "offset": 7869,
+    "text": "21. I never neglect important business; Your business is unimportant."
+  },
+  {
+    "id": "p-ad2659",
+    "offset": 7940,
+    "text": "22. Some lessons are difficult; What is difficult needs attention."
+  },
+  {
+    "id": "p-6b4251",
+    "offset": 8008,
+    "text": "23. All clever people are popular; All obliging people are popular."
+  },
+  {
+    "id": "p-5b8e37",
+    "offset": 8077,
+    "text": "24. Thoughtless people do mischief; No thoughtful person forgets a promise."
+  },
+  {
+    "id": "p-b497f9",
+    "offset": 8154,
+    "text": "25. Pigs cannot fly; Pigs are greedy."
+  },
+  {
+    "id": "p-c1480e",
+    "offset": 8193,
+    "text": "26. All soldiers march well; Some babies are not soldiers."
+  },
+  {
+    "id": "p-6c7efb",
+    "offset": 8253,
+    "text": "27. No bride-cakes are wholesome; What is unwholesome should be avoided."
+  },
+  {
+    "id": "p-1c8ed5",
+    "offset": 8327,
+    "text": "28. John is industrious; No industrious people are unhappy."
+  },
+  {
+    "id": "p-ebb40a",
+    "offset": 8388,
+    "text": "29. No philosophers are conceited; Some conceited persons are not gamblers."
+  },
+  {
+    "id": "p-50c80c",
+    "offset": 8465,
+    "text": "30. Some excise laws are unjust; All the laws passed last week relate to excise."
+  },
+  {
+    "id": "p-6c90ab",
+    "offset": 8547,
+    "text": "31. No military men write poetry; None of my lodgers are civilians."
+  },
+  {
+    "id": "p-32a827",
+    "offset": 8616,
+    "text": "32. No medicine is nice; Senna is a medicine."
+  },
+  {
+    "id": "p-2dabf4",
+    "offset": 8663,
+    "text": "33. Some circulars are not read with pleasure; No begging-letters are read with pleasure."
+  },
+  {
+    "id": "p-6300db",
+    "offset": 8754,
+    "text": "34. All Britons are brave; No sailors are cowards."
+  },
+  {
+    "id": "p-4f78a5",
+    "offset": 8806,
+    "text": "35. Nothing intelligible ever puzzles *me*; Logic puzzles me."
+  },
+  {
+    "id": "p-08054f",
+    "offset": 8869,
+    "text": "36. Some pigs are wild; All pigs are fat. pg103 37. All wasps are unfriendly; All unfriendly creatures are unwelcome."
+  },
+  {
+    "id": "p-2dee4e",
+    "offset": 8988,
+    "text": "38. No old rabbits are greedy; All black rabbits are greedy."
+  },
+  {
+    "id": "p-8dacb7",
+    "offset": 9050,
+    "text": "39. Some eggs are hard-boiled; No eggs are uncrackable."
+  },
+  {
+    "id": "p-68d813",
+    "offset": 9107,
+    "text": "40. No antelope is ungraceful; Graceful creatures delight the eye."
+  },
+  {
+    "id": "p-c973d2",
+    "offset": 9175,
+    "text": "41. All well-fed canaries sing loud; No canary is melancholy if it sings loud."
+  },
+  {
+    "id": "p-36ffb9",
+    "offset": 9255,
+    "text": "42. Some poetry is original; No original work is producible at will."
+  },
+  {
+    "id": "p-119369",
+    "offset": 9325,
+    "text": "43. No country, that has been explored, is infested by dragons; Unexplored countries are fascinating."
+  },
+  {
+    "id": "p-da3ec9",
+    "offset": 9428,
+    "text": "44. No coals are white; No niggers are white."
+  },
+  {
+    "id": "p-446d00",
+    "offset": 9475,
+    "text": "45. No bridges are made of sugar; Some bridges are picturesque."
+  },
+  {
+    "id": "p-a5118a",
+    "offset": 9540,
+    "text": "46. No children are patient; No impatient person can sit still."
+  },
+  {
+    "id": "p-b5d390",
+    "offset": 9605,
+    "text": "47. No quadrupeds can whistle; Some cats are quadrupeds."
+  },
+  {
+    "id": "p-ce9d26",
+    "offset": 9663,
+    "text": "48. Bores are terrible; You are a bore."
+  },
+  {
+    "id": "p-63f059",
+    "offset": 9704,
+    "text": "49. Some oysters are silent; No silent creatures are amusing."
+  },
+  {
+    "id": "p-60c3d4",
+    "offset": 9767,
+    "text": "50. There are no Jews in the house; No Gentiles have beards a yard long."
+  },
+  {
+    "id": "p-103d2d",
+    "offset": 9841,
+    "text": "51. Canaries, that do not sing loud, are unhappy; No well-fed canaries fail to sing loud."
+  },
+  {
+    "id": "p-310605",
+    "offset": 9932,
+    "text": "52. All my sisters have colds; No one can sing who has a cold."
+  },
+  {
+    "id": "p-4023a0",
+    "offset": 9996,
+    "text": "53. All that is made of gold is precious; Some caskets are precious."
+  },
+  {
+    "id": "p-6da4eb",
+    "offset": 10066,
+    "text": "54. Some buns are rich; All buns are nice."
+  },
+  {
+    "id": "p-523f4a",
+    "offset": 10110,
+    "text": "55. All my cousins are unjust; All judges are just. pg104 56. Pain is wearisome; No pain is eagerly wished for."
+  },
+  {
+    "id": "p-eb2f53",
+    "offset": 10223,
+    "text": "57. All medicine is nasty; Senna is a medicine."
+  },
+  {
+    "id": "p-e0861c",
+    "offset": 10272,
+    "text": "58. Some unkind remarks are annoying; No critical remarks are kind."
+  },
+  {
+    "id": "p-3ade3b",
+    "offset": 10341,
+    "text": "59. No tall men have woolly hair; Niggers have woolly hair."
+  },
+  {
+    "id": "p-ae6d76",
+    "offset": 10402,
+    "text": "60. All philosophers are logical; An illogical man is always obstinate."
+  },
+  {
+    "id": "p-9997ae",
+    "offset": 10475,
+    "text": "61. John is industrious; All industrious people are happy."
+  },
+  {
+    "id": "p-7764b9",
+    "offset": 10535,
+    "text": "62. These dishes are all well-cooked; Some dishes are unwholesome if not well-cooked."
+  },
+  {
+    "id": "p-ed2df2",
+    "offset": 10622,
+    "text": "63. No exciting books suit feverish patients; Unexciting books make one drowsy."
+  },
+  {
+    "id": "p-284705",
+    "offset": 10703,
+    "text": "64. No pigs can fly; All pigs are greedy."
+  },
+  {
+    "id": "p-305a60",
+    "offset": 10746,
+    "text": "65. When a man knows what he's about, he can detect a sharper; You and I know what we're about."
+  },
+  {
+    "id": "p-e28f9b",
+    "offset": 10843,
+    "text": "66. Some dreams are terrible; No lambs are terrible."
+  },
+  {
+    "id": "p-a5452c",
+    "offset": 10897,
+    "text": "67. No bald creature needs a hairbrush; No lizards have hair."
+  },
+  {
+    "id": "p-5d9ac7",
+    "offset": 10960,
+    "text": "68. All battles are noisy; What makes no noise may escape notice."
+  },
+  {
+    "id": "p-a9a68e",
+    "offset": 11027,
+    "text": "69. All my cousins are unjust; No judges are unjust."
+  },
+  {
+    "id": "p-c51232",
+    "offset": 11081,
+    "text": "70. All eggs can be cracked; Some eggs are hard-boiled."
+  },
+  {
+    "id": "p-85c50e",
+    "offset": 11138,
+    "text": "71. Prejudiced persons are untrustworthy; Some unprejudiced persons are disliked."
+  },
+  {
+    "id": "p-80fddd",
+    "offset": 11221,
+    "text": "72. No dictatorial person is popular; She is dictatorial."
+  },
+  {
+    "id": "p-07f33b",
+    "offset": 11280,
+    "text": "73. Some bald people wear wigs; All your children have hair."
+  },
+  {
+    "id": "p-f478c5",
+    "offset": 11342,
+    "text": "74. No lobsters are unreasonable; No reasonable creatures expect impossibilities. pg105 75. No nightmare is pleasant; Unpleasant experiences are not eagerly desired."
+  },
+  {
+    "id": "p-e50419",
+    "offset": 11509,
+    "text": "76. No plumcakes are wholesome; Some wholesome things are nice."
+  },
+  {
+    "id": "p-409770",
+    "offset": 11574,
+    "text": "77. Nothing that is nice need be shunned; Some kinds of jam are nice."
+  },
+  {
+    "id": "p-975478",
+    "offset": 11645,
+    "text": "78. All ducks waddle; Nothing that waddles is graceful."
+  },
+  {
+    "id": "p-b657f6",
+    "offset": 11702,
+    "text": "79. Sandwiches are satisfying; Nothing in this dish is unsatisfying."
+  },
+  {
+    "id": "p-bfdbfb",
+    "offset": 11772,
+    "text": "80. No rich man begs in the street; Those who are not rich should keep accounts."
+  },
+  {
+    "id": "p-dee9e3",
+    "offset": 11854,
+    "text": "81. Spiders spin webs; Some creatures, that do not spin webs, are savage."
+  },
+  {
+    "id": "p-eff8f8",
+    "offset": 11929,
+    "text": "82. Some of these shops are not crowded; No crowded shops are comfortable."
+  },
+  {
+    "id": "p-cf8a27",
+    "offset": 12005,
+    "text": "83. Prudent travelers carry plenty of small change; Imprudent travelers lose their luggage."
+  },
+  {
+    "id": "p-95498d",
+    "offset": 12098,
+    "text": "84. Some geraniums are red; All these flowers are red."
+  },
+  {
+    "id": "p-b296bc",
+    "offset": 12154,
+    "text": "85. None of my cousins are just; All judges are just."
+  },
+  {
+    "id": "p-41303f",
+    "offset": 12209,
+    "text": "86. No Jews are mad; All my lodgers are Jews."
+  },
+  {
+    "id": "p-96216e",
+    "offset": 12256,
+    "text": "87. Busy folk are not always talking about their grievances; Discontented folk are always talking about their grievances."
+  },
+  {
+    "id": "p-6e4aa5",
+    "offset": 12379,
+    "text": "88. None of my cousins are just; No judges are unjust."
+  },
+  {
+    "id": "p-c5fbe6",
+    "offset": 12435,
+    "text": "89. All teetotalers like sugar; No nightingale drinks wine."
+  },
+  {
+    "id": "p-b6e21c",
+    "offset": 12496,
+    "text": "90. No riddles interest me if they can be solved; All these riddles are insoluble."
+  },
+  {
+    "id": "p-265034",
+    "offset": 12580,
+    "text": "91. All clear explanations are satisfactory; Some excuses are unsatisfactory."
+  },
+  {
+    "id": "p-057526",
+    "offset": 12659,
+    "text": "92. All elderly ladies are talkative; All good-tempered ladies are talkative."
+  },
+  {
+    "id": "p-2c3dd7",
+    "offset": 12738,
+    "text": "93. No kind deed is unlawful; What is lawful may be done without scruple. pg106 94. No babies are studious; No babies are good violinists."
+  },
+  {
+    "id": "p-10b377",
+    "offset": 12878,
+    "text": "95. All shillings are round; All these coins are round."
+  },
+  {
+    "id": "p-d02949",
+    "offset": 12935,
+    "text": "96. No honest men cheat; No dishonest men are trustworthy."
+  },
+  {
+    "id": "p-70d702",
+    "offset": 12995,
+    "text": "97. None of my boys are clever; None of my girls are greedy."
+  },
+  {
+    "id": "p-de101f",
+    "offset": 13057,
+    "text": "98. All jokes are meant to amuse; No Act of Parliament is a joke."
+  },
+  {
+    "id": "p-ab7b7b",
+    "offset": 13124,
+    "text": "99. No eventful tour is ever forgotten; Uneventful tours are not worth writing a book about."
+  },
+  {
+    "id": "p-c639ad",
+    "offset": 13218,
+    "text": "100. All my boys are disobedient; All my girls are discontented."
+  },
+  {
+    "id": "p-956151",
+    "offset": 13284,
+    "text": "101. No unexpected pleasure annoys me; Your visit is an unexpected pleasure."
+  },
+  {
+    "id": "p-c6562e",
+    "offset": 13362,
+    "text": "§ 6. EX6"
+  },
+  {
+    "id": "p-06ae91",
+    "offset": 13372,
+    "text": "_Trios of Abstract Propositions, proposed as Syllogisms: to be examined._"
+  },
+  {
+    "id": "p-4a32a1",
+    "offset": 13447,
+    "text": "1. Some x are m; No m are y'. Some x are y."
+  },
+  {
+    "id": "p-56e567",
+    "offset": 13492,
+    "text": "2. All x are m; No y are m'. No y are x'."
+  },
+  {
+    "id": "p-750871",
+    "offset": 13535,
+    "text": "3. Some x are m'; All y' are m. Some x are y."
+  },
+  {
+    "id": "p-c42b66",
+    "offset": 13582,
+    "text": "4. All x are m; No y are m. All x are y'."
+  },
+  {
+    "id": "p-dd1251",
+    "offset": 13625,
+    "text": "5. Some m' are x'; No m' are y. Some x' are y'."
+  },
+  {
+    "id": "p-30210f",
+    "offset": 13674,
+    "text": "6. No x' are m; All y are m'. All y are x'."
+  },
+  {
+    "id": "p-edfbcf",
+    "offset": 13719,
+    "text": "7. Some m' are x'; All y' are m'. Some x' are y'."
+  },
+  {
+    "id": "p-94734d",
+    "offset": 13770,
+    "text": "8. No m' are x'; All y' are m'. All y' are x."
+  },
+  {
+    "id": "p-9dfd51",
+    "offset": 13817,
+    "text": "9. Some m are x'; No m are y. Some x' are y'."
+  },
+  {
+    "id": "p-d0e499",
+    "offset": 13864,
+    "text": "10. All m' are x'; All m' are y. Some y are x'."
+  },
+  {
+    "id": "p-9063a5",
+    "offset": 13913,
+    "text": "11. All x are m'; Some y are m. Some y are x'."
+  },
+  {
+    "id": "p-fec54e",
+    "offset": 13961,
+    "text": "12. No x are m; No m' are y'. No x are y'."
+  },
+  {
+    "id": "p-7a80f3",
+    "offset": 14005,
+    "text": "13. No x are m; All y' are m. All y' are x'."
+  },
+  {
+    "id": "p-df7d6b",
+    "offset": 14051,
+    "text": "14. All m' are x'; All m' are y. Some y are x'."
+  },
+  {
+    "id": "p-060dd2",
+    "offset": 14100,
+    "text": "15. Some m are x'; All y are m'. Some x' are y'."
+  },
+  {
+    "id": "p-94257f",
+    "offset": 14150,
+    "text": "16. No x' are m; All y' are m'. Some y' are x."
+  },
+  {
+    "id": "p-40feed",
+    "offset": 14198,
+    "text": "17. No m' are x; All m' are y'. Some x' are y'. pg107 18. No x' are m; Some m are y. Some x are y."
+  },
+  {
+    "id": "p-99295e",
+    "offset": 14298,
+    "text": "19. Some m are x; All m are y. Some y are x'."
+  },
+  {
+    "id": "p-8d3502",
+    "offset": 14345,
+    "text": "20. No x' are m'; Some m' are y'. Some x are y'."
+  },
+  {
+    "id": "p-8c2325",
+    "offset": 14395,
+    "text": "21. No m are x; All m are y'. Some x' are y'."
+  },
+  {
+    "id": "p-50699d",
+    "offset": 14442,
+    "text": "22. All x' are m; Some y are m'. All x' are y'."
+  },
+  {
+    "id": "p-539b22",
+    "offset": 14491,
+    "text": "23. All m are x; No m' are y'. No x' are y'."
+  },
+  {
+    "id": "p-b4abc7",
+    "offset": 14537,
+    "text": "24. All x are m'; All m' are y. All x are y."
+  },
+  {
+    "id": "p-1f8d71",
+    "offset": 14583,
+    "text": "25. No x are m'; All m are y. No x are y'."
+  },
+  {
+    "id": "p-48f4b9",
+    "offset": 14627,
+    "text": "26. All m are x'; All y are m. All y are x'."
+  },
+  {
+    "id": "p-39306a",
+    "offset": 14673,
+    "text": "27. All x are m; No m are y'. All x are y."
+  },
+  {
+    "id": "p-a25f29",
+    "offset": 14717,
+    "text": "28. All x are m; No y' are m'. All x are y."
+  },
+  {
+    "id": "p-ed8c73",
+    "offset": 14762,
+    "text": "29. No x' are m; No m' are y'. No x' are y'."
+  },
+  {
+    "id": "p-0ffa26",
+    "offset": 14808,
+    "text": "30. All x are m; All m are y'. All x are y'."
+  },
+  {
+    "id": "p-94aca1",
+    "offset": 14854,
+    "text": "31. All x' are m'; No y' are m'. All x' are y."
+  },
+  {
+    "id": "p-287fc2",
+    "offset": 14902,
+    "text": "32. No x are m; No y' are m'. No x are y'."
+  },
+  {
+    "id": "p-499ac8",
+    "offset": 14946,
+    "text": "33. All m are x'; All y' are m. All y' are x'."
+  },
+  {
+    "id": "p-515634",
+    "offset": 14994,
+    "text": "34. All x are m'; Some y are m'. Some y are x."
+  },
+  {
+    "id": "p-4e0073",
+    "offset": 15042,
+    "text": "35. Some x are m; All m are y. Some x are y."
+  },
+  {
+    "id": "p-fadd90",
+    "offset": 15088,
+    "text": "36. All m are x'; All y are m. All y are x'."
+  },
+  {
+    "id": "p-751219",
+    "offset": 15134,
+    "text": "37. No m are x'; All m are y'. Some x are y'."
+  },
+  {
+    "id": "p-49eeea",
+    "offset": 15181,
+    "text": "38. No x are m; No m are y'. No x are y'."
+  },
+  {
+    "id": "p-ceaba0",
+    "offset": 15224,
+    "text": "39. No m are x; Some m are y'. Some x' are y'."
+  },
+  {
+    "id": "p-b6c7cb",
+    "offset": 15272,
+    "text": "40. No m are x'; Some y are m. Some x are y."
+  },
+  {
+    "id": "p-5a519e",
+    "offset": 15318,
+    "text": "§ 7. EX7"
+  },
+  {
+    "id": "p-c37bbb",
+    "offset": 15328,
+    "text": "_Trios of Concrete Propositions, proposed as Syllogisms: to be examined._"
+  },
+  {
+    "id": "p-c815cc",
+    "offset": 15403,
+    "text": "1. No doctors are enthusiastic; You are enthusiastic. You are not a doctor."
+  },
+  {
+    "id": "p-f21d03",
+    "offset": 15480,
+    "text": "2. Dictionaries are useful; Useful books are valuable. Dictionaries are valuable."
+  },
+  {
+    "id": "p-d91395",
+    "offset": 15563,
+    "text": "3. No misers are unselfish; None but misers save egg-shells. No unselfish people save egg-shells."
+  },
+  {
+    "id": "p-534790",
+    "offset": 15662,
+    "text": "4. Some epicures are ungenerous; All my uncles are generous. My uncles are not epicures. pg108 5. Gold is heavy; Nothing but gold will silence him. Nothing light will silence him."
+  },
+  {
+    "id": "p-649320",
+    "offset": 15843,
+    "text": "6. Some healthy people are fat; No unhealthy people are strong. Some fat people are not strong."
+  },
+  {
+    "id": "p-23edf4",
+    "offset": 15940,
+    "text": "7. \"I saw it in a newspaper.\" \"All newspapers tell lies.\" It was a lie."
+  },
+  {
+    "id": "p-76c859",
+    "offset": 16013,
+    "text": "8. Some cravats are not artistic; I admire anything artistic. There are some cravats that I do not admire."
+  },
+  {
+    "id": "p-245edc",
+    "offset": 16121,
+    "text": "9. His songs never last an hour; A song, that lasts an hour, is tedious. His songs are never tedious."
+  },
+  {
+    "id": "p-2fd708",
+    "offset": 16224,
+    "text": "10. Some candles give very little light; Candles are *meant* to give light. Some things, that are meant to give light, give very little."
+  },
+  {
+    "id": "p-2396db",
+    "offset": 16362,
+    "text": "11. All, who are anxious to learn, work hard; Some of these boys work hard. Some of these boys are anxious to learn."
+  },
+  {
+    "id": "p-de4ecf",
+    "offset": 16480,
+    "text": "12. All lions are fierce; Some lions do not drink coffee. Some creatures that drink coffee are not fierce."
+  },
+  {
+    "id": "p-c25455",
+    "offset": 16588,
+    "text": "13. No misers are generous; Some old men are ungenerous. Some old men are misers."
+  },
+  {
+    "id": "p-a2a66e",
+    "offset": 16671,
+    "text": "14. No fossil can be crossed in love; An oyster may be crossed in love. Oysters are not fossils."
+  },
+  {
+    "id": "p-de16d0",
+    "offset": 16769,
+    "text": "15. All uneducated people are shallow; Students are all educated. No students are shallow."
+  },
+  {
+    "id": "p-cb2839",
+    "offset": 16861,
+    "text": "16. All young lambs jump; No young animals are healthy, unless they jump. All young lambs are healthy."
+  },
+  {
+    "id": "p-5df6b5",
+    "offset": 16965,
+    "text": "17. Ill-managed business is unprofitable; Railways are never ill-managed. All railways are profitable."
+  },
+  {
+    "id": "p-3b3a04",
+    "offset": 17069,
+    "text": "18. No Professors are ignorant; All ignorant people are vain. No professors are vain. pg109 19. A prudent man shuns hyænas; No banker is imprudent. No banker fails to shun hyænas."
+  },
+  {
+    "id": "p-e10d6a",
+    "offset": 17250,
+    "text": "20. All wasps are unfriendly; No puppies are unfriendly. Puppies are not wasps."
+  },
+  {
+    "id": "p-244528",
+    "offset": 17331,
+    "text": "21. No Jews are honest; Some Gentiles are rich. Some rich people are dishonest."
+  },
+  {
+    "id": "p-4bbe22",
+    "offset": 17412,
+    "text": "22. No idlers win fame; Some painters are not idle. Some painters win fame."
+  },
+  {
+    "id": "p-d792d9",
+    "offset": 17489,
+    "text": "23. No monkeys are soldiers; All monkeys are mischievous. Some mischievous creatures are not soldiers."
+  },
+  {
+    "id": "p-b2c118",
+    "offset": 17593,
+    "text": "24. All these bonbons are chocolate-creams; All these bonbons are delicious. Chocolate-creams are delicious."
+  },
+  {
+    "id": "p-b1d173",
+    "offset": 17703,
+    "text": "25. No muffins are wholesome; All buns are unwholesome. Buns are not muffins."
+  },
+  {
+    "id": "p-5db43f",
+    "offset": 17782,
+    "text": "26. Some unauthorised reports are false; All authorised reports are trustworthy. Some false reports are not trustworthy."
+  },
+  {
+    "id": "p-90d779",
+    "offset": 17904,
+    "text": "27. Some pillows are soft; No pokers are soft. Some pokers are not pillows."
+  },
+  {
+    "id": "p-a0161f",
+    "offset": 17981,
+    "text": "28. Improbable stories are not easily believed; None of his stories are probable. None of his stories are easily believed."
+  },
+  {
+    "id": "p-ad9f55",
+    "offset": 18105,
+    "text": "29. No thieves are honest; Some dishonest people are found out. Some thieves are found out."
+  },
+  {
+    "id": "p-79e3dc",
+    "offset": 18198,
+    "text": "30. No muffins are wholesome; All puffy food is unwholesome. All muffins are puffy."
+  },
+  {
+    "id": "p-1ac408",
+    "offset": 18283,
+    "text": "31. No birds, except peacocks, are proud of their tails; Some birds, that are proud of their tails, cannot sing. Some peacocks cannot sing."
+  },
+  {
+    "id": "p-eedae3",
+    "offset": 18424,
+    "text": "32. Warmth relieves pain; Nothing, that does not relieve pain, is useful in toothache. Warmth is useful in toothache. pg110 33. No bankrupts are rich; Some merchants are not bankrupts. Some merchants are rich."
+  },
+  {
+    "id": "p-2432cd",
+    "offset": 18635,
+    "text": "34. Bores are dreaded; No bore is ever begged to prolong his visit. No one, who is dreaded, is ever begged to prolong his visit."
+  },
+  {
+    "id": "p-4637b9",
+    "offset": 18765,
+    "text": "35. All wise men walk on their feet; All unwise men walk on their hands. No man walks on both."
+  },
+  {
+    "id": "p-a8a7b7",
+    "offset": 18861,
+    "text": "36. No wheelbarrows are comfortable; No uncomfortable vehicles are popular. No wheelbarrows are popular."
+  },
+  {
+    "id": "p-4b7983",
+    "offset": 18967,
+    "text": "37. No frogs are poetical; Some ducks are unpoetical. Some ducks are not frogs."
+  },
+  {
+    "id": "p-c001d0",
+    "offset": 19048,
+    "text": "38. No emperors are dentists; All dentists are dreaded by children. No emperors are dreaded by children."
+  },
+  {
+    "id": "p-5350d6",
+    "offset": 19154,
+    "text": "39. Sugar is sweet; Salt is not sweet. Salt is not sugar."
+  },
+  {
+    "id": "p-5eb1f9",
+    "offset": 19213,
+    "text": "40. Every eagle can fly; Some pigs cannot fly. Some pigs are not eagles."
+  },
+  {
+    "id": "p-2ae2c1",
+    "offset": 19287,
+    "text": "§ 8. EX8"
+  },
+  {
+    "id": "p-435b1d",
+    "offset": 19297,
+    "text": "_Sets of Abstract Propositions, proposed as Premisses for Soriteses: Conclusions to be found._"
+  },
+  {
+    "id": "p-33591e",
+    "offset": 19393,
+    "text": "[N.B. At the end of this Section instructions are given for varying these Examples.]"
+  },
+  {
+    "id": "p-6bae2e",
+    "offset": 19479,
+    "text": "1. 1. No c are d; 2. All a are d; 3. All b are c."
+  },
+  {
+    "id": "p-a26d07",
+    "offset": 19530,
+    "text": "2. 1. All d are b; 2. No a are c'; 3. No b are c."
+  },
+  {
+    "id": "p-0156df",
+    "offset": 19581,
+    "text": "3. 1. No b are a; 2. No c are d'; 3. All d are b."
+  },
+  {
+    "id": "p-14f189",
+    "offset": 19632,
+    "text": "4. 1. No b are c; 2. All a are b; 3. No c' are d."
+  },
+  {
+    "id": "p-afdf80",
+    "offset": 19683,
+    "text": "5. 1. All b' are a'; 2. No b are c; 3. No a' are d."
+  },
+  {
+    "id": "p-b1a198",
+    "offset": 19736,
+    "text": "6. 1. All a are b'; 2. No b' are c; 3. All d are a."
+  },
+  {
+    "id": "p-0e7694",
+    "offset": 19789,
+    "text": "7. 1. No d are b'; 2. All b are a; 3. No c are d'."
+  },
+  {
+    "id": "p-07cb26",
+    "offset": 19841,
+    "text": "8. 1. No b' are d; 2. No a' are b; 3. All c are d. pg111 9. 1. All b' are a; 2. No a are d; 3. All b are c."
+  },
+  {
+    "id": "p-021b11",
+    "offset": 19950,
+    "text": "10. 1. No c are d; 2. All b are c; 3. No a are d'."
+  },
+  {
+    "id": "p-2b484d",
+    "offset": 20002,
+    "text": "11. 1. No b are c; 2. All d are a; 3. All c' are a'."
+  },
+  {
+    "id": "p-a7fab0",
+    "offset": 20056,
+    "text": "12. 1. No c are b'; 2. All c' are d'; 3. All b are a."
+  },
+  {
+    "id": "p-16e837",
+    "offset": 20111,
+    "text": "13. 1. All d are e; 2. All c are a; 3. No b are d'; 4. All e are a'."
+  },
+  {
+    "id": "p-7f6aab",
+    "offset": 20181,
+    "text": "14. 1. All e are b; 2. All a are e; 3. All d are b'; 4. All a' are c;"
+  },
+  {
+    "id": "p-ec40b7",
+    "offset": 20252,
+    "text": "15. 1. No b' are d; 2. All e are c; 3. All b are a; 4. All d' are c'."
+  },
+  {
+    "id": "p-6a618a",
+    "offset": 20323,
+    "text": "16. 1. No a' are e; 2. All d are c'; 3. All a are b; 4. All e' are d."
+  },
+  {
+    "id": "p-69a4fa",
+    "offset": 20394,
+    "text": "17. 1. All d are c; 2. All a are e; 3. No b are d'; 4. All c are e'."
+  },
+  {
+    "id": "p-f54f20",
+    "offset": 20464,
+    "text": "18. 1. All a are b; 2. All d are e; 3. All a' are c'; 4. No b are e."
+  },
+  {
+    "id": "p-e02c37",
+    "offset": 20534,
+    "text": "19. 1. No b are c; 2. All e are h; 3. All a are b; 4. No d are h; 5. All e' are c."
+  },
+  {
+    "id": "p-098bd0",
+    "offset": 20618,
+    "text": "20. 1. No d are h'; 2. No c are e; 3. All h are b; 4. No a are d'; 5. No b are e'."
+  },
+  {
+    "id": "p-3f8cc4",
+    "offset": 20702,
+    "text": "21. 1. All b are a; 2. No d are h; 3. No c are e; 4. No a are h'; 5. All c' are b."
+  },
+  {
+    "id": "p-5245f1",
+    "offset": 20786,
+    "text": "22. 1. All e are d'; 2. No b' are h'; 3. All c' are d; 4. All a are e; 5. No c are h."
+  },
+  {
+    "id": "p-06f5b6",
+    "offset": 20873,
+    "text": "23. 1. All b' are a'; 2. No d are e'; 3. All h are b'; 4. No c are e; 5. All d' are a."
+  },
+  {
+    "id": "p-084c67",
+    "offset": 20961,
+    "text": "24. 1. All h' are k'; 2. No b' are a; 3. All c are d; 4. All e are h'; 5. No d are k'; 6. No b are c'."
+  },
+  {
+    "id": "p-8c410e",
+    "offset": 21065,
+    "text": "25. 1. All a are d; 2. All k are b; 3. All e are h; 4. No a' are b; 5. All d are c; 6. All h are k."
+  },
+  {
+    "id": "p-1509b1",
+    "offset": 21166,
+    "text": "26. 1. All a' are h; 2. No d' are k'; 3. All e are b'; 4. No h are k; 5. All a are e; 6. No b' are d."
+  },
+  {
+    "id": "p-30350d",
+    "offset": 21269,
+    "text": "27. 1. All c are d'; 2. No h are b; 3. All a' are k; 4. No c are e'; 5. All b' are d; 6. No a are c'."
+  },
+  {
+    "id": "p-cb463c",
+    "offset": 21372,
+    "text": "28. 1. No a' are k; 2. All e are b; 3. No h are k'; 4. No d' are c; 5. No a are b; 6. All c' are h."
+  },
+  {
+    "id": "p-a67093",
+    "offset": 21473,
+    "text": "29. 1. No e are k; 2. No b' are m; 3. No a are c'; 4. All h' are e; 5. All d are k; 6. No c are b; 7. All d' are l; 8. No h are m'."
+  },
+  {
+    "id": "p-3d0280",
+    "offset": 21606,
+    "text": "30. 1. All n are m; 2. All a' are e; 3. No c' are l; 4. All k are r'; 5. No a are h'; 6. No d are l'; 7. No c are n'; 8. All e are b; 9. All m are r; 10. All h are d."
+  },
+  {
+    "id": "p-709af8",
+    "offset": 21774,
+    "text": "[N.B. In each Example, in Sections 8 and 9, it is possible to begin with *any* Premiss, at pleasure, and thus to get as many different Solutions (all of course yielding the *same* Complete Conclusion) as there are Premisses in the Example. Hence § 8 really contains 129 different Examples, and § 9 contains 273.]"
+  },
+  {
+    "id": "p-15c7c6",
+    "offset": 22088,
+    "text": "pg112 § 9. EX9"
+  },
+  {
+    "id": "p-d097bc",
+    "offset": 22104,
+    "text": "_Sets of Concrete Propositions, proposed as Premisses for Soriteses: Conclusions to be found._"
+  },
+  {
+    "id": "p-cb9abb",
+    "offset": 22200,
+    "text": "(1) Babies are illogical;"
+  },
+  {
+    "id": "p-675fcb",
+    "offset": 22227,
+    "text": "(2) Nobody is despised who can manage a crocodile;"
+  },
+  {
+    "id": "p-66bd49",
+    "offset": 22279,
+    "text": "(3) Illogical persons are despised."
+  },
+  {
+    "id": "p-5b25da",
+    "offset": 22316,
+    "text": "Univ. \"persons\"; a = able to manage a crocodile; b = babies; c = despised; d = logical."
+  },
+  {
+    "id": "p-b9b3e3",
+    "offset": 22405,
+    "text": "(1) My saucepans are the only things I have that are made of tin;"
+  },
+  {
+    "id": "p-73d5ea",
+    "offset": 22472,
+    "text": "(2) I find all *your* presents very useful;"
+  },
+  {
+    "id": "p-e8f4db",
+    "offset": 22517,
+    "text": "(3) None of my saucepans are of the slightest use."
+  },
+  {
+    "id": "p-00669c",
+    "offset": 22569,
+    "text": "Univ. \"things of mine\"; a = made of tin; b = my saucepans; c = useful; d = your presents."
+  },
+  {
+    "id": "p-1b693c",
+    "offset": 22660,
+    "text": "(1) No potatoes of mine, that are new, have been boiled;"
+  },
+  {
+    "id": "p-3173d2",
+    "offset": 22718,
+    "text": "(2) All my potatoes in this dish are fit to eat;"
+  },
+  {
+    "id": "p-dbfcaa",
+    "offset": 22768,
+    "text": "(3) No unboiled potatoes of mine are fit to eat."
+  },
+  {
+    "id": "p-31941b",
+    "offset": 22818,
+    "text": "Univ. \"my potatoes\"; a = boiled; b = eatable; c = in this dish; d = new."
+  },
+  {
+    "id": "p-df54a5",
+    "offset": 22892,
+    "text": "(1) There are no Jews in the kitchen;"
+  },
+  {
+    "id": "p-3dc50e",
+    "offset": 22931,
+    "text": "(2) No Gentiles say \"shpoonj\";"
+  },
+  {
+    "id": "p-83a46b",
+    "offset": 22963,
+    "text": "(3) My servants are all in the kitchen."
+  },
+  {
+    "id": "p-e18005",
+    "offset": 23004,
+    "text": "Univ. \"persons\"; a = in the kitchen; b = Jews; c = my servants; d = saying \"shpoonj.\""
+  },
+  {
+    "id": "p-2f11d9",
+    "offset": 23091,
+    "text": "(1) No ducks waltz;"
+  },
+  {
+    "id": "p-22a7f9",
+    "offset": 23112,
+    "text": "(2) No officers ever decline to waltz;"
+  },
+  {
+    "id": "p-5c257b",
+    "offset": 23152,
+    "text": "(3) All my poultry are ducks."
+  },
+  {
+    "id": "p-c052ec",
+    "offset": 23183,
+    "text": "Univ. \"creatures\"; a = ducks; b = my poultry; c = officers; d = willing to waltz."
+  },
+  {
+    "id": "p-aefd8e",
+    "offset": 23266,
+    "text": "(1) Every one who is sane can do Logic;"
+  },
+  {
+    "id": "p-e10876",
+    "offset": 23307,
+    "text": "(2) No lunatics are fit to serve on a jury;"
+  },
+  {
+    "id": "p-b48240",
+    "offset": 23352,
+    "text": "(3) None of *your* sons can do Logic."
+  },
+  {
+    "id": "p-2c1503",
+    "offset": 23391,
+    "text": "Univ. \"persons\"; a = able to do Logic; b = fit to serve on a jury; c = sane; d = your sons. pg113 =7.="
+  },
+  {
+    "id": "p-ecb14f",
+    "offset": 23495,
+    "text": "(1) There are no pencils of mine in this box;"
+  },
+  {
+    "id": "p-a97395",
+    "offset": 23542,
+    "text": "(2) No sugar-plums of mine are cigars;"
+  },
+  {
+    "id": "p-04c83f",
+    "offset": 23582,
+    "text": "(3) The whole of my property, that is not in this box, consists of cigars."
+  },
+  {
+    "id": "p-aefa0e",
+    "offset": 23658,
+    "text": "Univ. \"things of mine\"; a = cigars; b = in this box; c = pencils; d = sugar-plums."
+  },
+  {
+    "id": "p-c45be9",
+    "offset": 23742,
+    "text": "(1) No experienced person is incompetent;"
+  },
+  {
+    "id": "p-c490db",
+    "offset": 23785,
+    "text": "(2) Jenkins is always blundering;"
+  },
+  {
+    "id": "p-a6e619",
+    "offset": 23820,
+    "text": "(3) No competent person is always blundering."
+  },
+  {
+    "id": "p-929254",
+    "offset": 23867,
+    "text": "Univ. \"persons\"; a = always blundering; b = competent; c = experienced; d = Jenkins."
+  },
+  {
+    "id": "p-99619a",
+    "offset": 23953,
+    "text": "(1) No terriers wander among the signs of the zodiac;"
+  },
+  {
+    "id": "p-9c38f5",
+    "offset": 24008,
+    "text": "(2) Nothing, that does not wander among the signs of the zodiac, is a comet;"
+  },
+  {
+    "id": "p-c0edc3",
+    "offset": 24086,
+    "text": "(3) Nothing but a terrier has a curly tail."
+  },
+  {
+    "id": "p-70414e",
+    "offset": 24131,
+    "text": "Univ. \"things\"; a = comets; b = curly-tailed; c = terriers; d = wandering among the signs of the zodiac."
+  },
+  {
+    "id": "p-f7d4bf",
+    "offset": 24237,
+    "text": "(1) No one takes in the *Times*, unless he is well-educated;"
+  },
+  {
+    "id": "p-44dbed",
+    "offset": 24299,
+    "text": "(2) No hedge-hogs can read;"
+  },
+  {
+    "id": "p-57f6fa",
+    "offset": 24328,
+    "text": "(3) Those who cannot read are not well-educated."
+  },
+  {
+    "id": "p-e4c411",
+    "offset": 24378,
+    "text": "Univ. \"creatures\"; a = able to read; b = hedge-hogs; c = taking in the Times; d = well-educated."
+  },
+  {
+    "id": "p-8d72ab",
+    "offset": 24476,
+    "text": "(1) All puddings are nice;"
+  },
+  {
+    "id": "p-316056",
+    "offset": 24504,
+    "text": "(2) This dish is a pudding;"
+  },
+  {
+    "id": "p-e878d2",
+    "offset": 24533,
+    "text": "(3) No nice things are wholesome."
+  },
+  {
+    "id": "p-483137",
+    "offset": 24568,
+    "text": "Univ. \"things\"; a = nice; b = puddings; c = this dish; d = wholesome."
+  },
+  {
+    "id": "p-2f8dca",
+    "offset": 24639,
+    "text": "(1) My gardener is well worth listening to on military subjects;"
+  },
+  {
+    "id": "p-573038",
+    "offset": 24705,
+    "text": "(2) No one can remember the battle of Waterloo, unless he is very old;"
+  },
+  {
+    "id": "p-1fca66",
+    "offset": 24777,
+    "text": "(3) Nobody is really worth listening to on military subjects, unless he can remember the battle of Waterloo."
+  },
+  {
+    "id": "p-c1dfca",
+    "offset": 24887,
+    "text": "Univ. \"persons\"; a = able to remember the battle of Waterloo; b = my gardener; c = well worth listening to on military subjects; d = very old. pg114 =13.="
+  },
+  {
+    "id": "p-2f4ebb",
+    "offset": 25043,
+    "text": "(1) All humming-birds are richly coloured;"
+  },
+  {
+    "id": "p-632c9e",
+    "offset": 25087,
+    "text": "(2) No large birds live on honey;"
+  },
+  {
+    "id": "p-94b356",
+    "offset": 25122,
+    "text": "(3) Birds that do not live on honey are dull in colour."
+  },
+  {
+    "id": "p-cbe6c0",
+    "offset": 25179,
+    "text": "Univ. \"birds\"; a = humming-birds; b = large; c = living on honey; d = richly coloured."
+  },
+  {
+    "id": "p-fe68fc",
+    "offset": 25267,
+    "text": "(1) No Gentiles have hooked noses;"
+  },
+  {
+    "id": "p-a6c8c5",
+    "offset": 25303,
+    "text": "(2) A man who is a good hand at a bargain always makes money;"
+  },
+  {
+    "id": "p-c96c23",
+    "offset": 25366,
+    "text": "(3) No Jew is ever a bad hand at a bargain."
+  },
+  {
+    "id": "p-40c8ac",
+    "offset": 25411,
+    "text": "Univ. \"persons\"; a = good hands at a bargain; b = hook-nosed; c = Jews; d = making money."
+  },
+  {
+    "id": "p-94f127",
+    "offset": 25502,
+    "text": "(1) All ducks in this village, that are branded 'B,' belong to Mrs. Bond;"
+  },
+  {
+    "id": "p-6ba730",
+    "offset": 25577,
+    "text": "(2) Ducks in this village never wear lace collars, unless they are branded 'B';"
+  },
+  {
+    "id": "p-9814aa",
+    "offset": 25658,
+    "text": "(3) Mrs. Bond has no gray ducks in this village."
+  },
+  {
+    "id": "p-cefd20",
+    "offset": 25708,
+    "text": "Univ. \"ducks in this village\"; a = belonging to Mrs. Bond; b = branded 'B'; c = gray; d = wearing lace-collars."
+  },
+  {
+    "id": "p-7ff45a",
+    "offset": 25821,
+    "text": "(1) All the old articles in this cupboard are cracked;"
+  },
+  {
+    "id": "p-894569",
+    "offset": 25877,
+    "text": "(2) No jug in this cupboard is new;"
+  },
+  {
+    "id": "p-e018bb",
+    "offset": 25914,
+    "text": "(3) Nothing in this cupboard, that is cracked, will hold water."
+  },
+  {
+    "id": "p-c4700f",
+    "offset": 25979,
+    "text": "Univ. \"things in this cupboard\"; a = able to hold water; b = cracked; c = jugs; d = old."
+  },
+  {
+    "id": "p-0b898f",
+    "offset": 26069,
+    "text": "(1) All unripe fruit is unwholesome;"
+  },
+  {
+    "id": "p-8ff224",
+    "offset": 26107,
+    "text": "(2) All these apples are wholesome;"
+  },
+  {
+    "id": "p-6e1798",
+    "offset": 26144,
+    "text": "(3) No fruit, grown in the shade, is ripe."
+  },
+  {
+    "id": "p-68cc56",
+    "offset": 26188,
+    "text": "Univ. \"fruit\"; a = grown in the shade; b = ripe; c = these apples; d = wholesome."
+  },
+  {
+    "id": "p-cd4fb7",
+    "offset": 26271,
+    "text": "(1) Puppies, that will not lie still, are always grateful for the loan of a skipping-rope;"
+  },
+  {
+    "id": "p-d2d7d1",
+    "offset": 26363,
+    "text": "(2) A lame puppy would not say \"thank you\" if you offered to lend it a skipping-rope."
+  },
+  {
+    "id": "p-6a1870",
+    "offset": 26450,
+    "text": "(3) None but lame puppies ever care to do worsted-work."
+  },
+  {
+    "id": "p-324c68",
+    "offset": 26507,
+    "text": "Univ. \"puppies\"; a = caring to do worsted-work; b = grateful for the loan of a skipping-rope; c = lame; d = willing to lie still. pg115 =19.="
+  },
+  {
+    "id": "p-11c319",
+    "offset": 26650,
+    "text": "(1) No name in this list is unsuitable for the hero of a romance;"
+  },
+  {
+    "id": "p-4eade8",
+    "offset": 26717,
+    "text": "(2) Names beginning with a vowel are always melodious;"
+  },
+  {
+    "id": "p-65c418",
+    "offset": 26773,
+    "text": "(3) No name is suitable for the hero of a romance, if it begins with a consonant."
+  },
+  {
+    "id": "p-eb72f5",
+    "offset": 26856,
+    "text": "Univ. \"names\"; a = beginning with a vowel; b = in this list; c = melodious; d = suitable for the hero of a romance."
+  },
+  {
+    "id": "p-8be8ed",
+    "offset": 26973,
+    "text": "(1) All members of the House of Commons have perfect self-command;"
+  },
+  {
+    "id": "p-3d223e",
+    "offset": 27041,
+    "text": "(2) No M.P., who wears a coronet, should ride in a donkey-race;"
+  },
+  {
+    "id": "p-eec201",
+    "offset": 27106,
+    "text": "(3) All members of the House of Lords wear coronets."
+  },
+  {
+    "id": "p-7d4cd2",
+    "offset": 27160,
+    "text": "Univ. \"M.P.'s\"; a = belonging to the House of Commons; b = having perfect self-command; c = one who may ride in a donkey-race; d = wearing a coronet."
+  },
+  {
+    "id": "p-f4d75f",
+    "offset": 27311,
+    "text": "(1) No goods in this shop, that have been bought and paid for, are still on sale;"
+  },
+  {
+    "id": "p-c1a3b7",
+    "offset": 27394,
+    "text": "(2) None of the goods may be carried away, unless labeled \"sold\";"
+  },
+  {
+    "id": "p-95835f",
+    "offset": 27461,
+    "text": "(3) None of the goods are labeled \"sold,\" unless they have been bought and paid for."
+  },
+  {
+    "id": "p-af141d",
+    "offset": 27547,
+    "text": "Univ. \"goods in this shop\"; a = allowed to be carried away; b = bought and paid for; c = labeled \"sold\"; d = on sale."
+  },
+  {
+    "id": "p-a5e2cb",
+    "offset": 27666,
+    "text": "(1) No acrobatic feats, that are not announced in the bills of a circus, are ever attempted there;"
+  },
+  {
+    "id": "p-9a1fd4",
+    "offset": 27766,
+    "text": "(2) No acrobatic feat is possible, if it involves turning a quadruple somersault;"
+  },
+  {
+    "id": "p-61cfbd",
+    "offset": 27849,
+    "text": "(3) No impossible acrobatic feat is ever announced in a circus bill."
+  },
+  {
+    "id": "p-5d7c3f",
+    "offset": 27919,
+    "text": "Univ. \"acrobatic feats\"; a = announced in the bills of a circus; b = attempted in a circus; c = involving the turning of a quadruple somersault; d = possible."
+  },
+  {
+    "id": "p-eede4c",
+    "offset": 28079,
+    "text": "(1) Nobody, who really appreciates Beethoven, fails to keep silence while the Moonlight-Sonata is being played;"
+  },
+  {
+    "id": "p-188913",
+    "offset": 28192,
+    "text": "(2) Guinea-pigs are hopelessly ignorant of music;"
+  },
+  {
+    "id": "p-d341f8",
+    "offset": 28243,
+    "text": "(3) No one, who is hopelessly ignorant of music, ever keeps silence while the Moonlight-Sonata is being played."
+  },
+  {
+    "id": "p-0a3557",
+    "offset": 28356,
+    "text": "Univ. \"creatures\"; a = guinea-pigs; b = hopelessly ignorant of music; c = keeping silence while the Moonlight-Sonata is being played; d = really appreciating Beethoven. pg116 =24.="
+  },
+  {
+    "id": "p-2312b9",
+    "offset": 28538,
+    "text": "(1) Coloured flowers are always scented;"
+  },
+  {
+    "id": "p-64d0b3",
+    "offset": 28580,
+    "text": "(2) I dislike flowers that are not grown in the open air;"
+  },
+  {
+    "id": "p-a29961",
+    "offset": 28639,
+    "text": "(3) No flowers grown in the open air are colourless."
+  },
+  {
+    "id": "p-924eec",
+    "offset": 28693,
+    "text": "Univ. \"flowers\"; a = coloured; b = grown in the open air; c = liked by me; d = scented."
+  },
+  {
+    "id": "p-e807c4",
+    "offset": 28782,
+    "text": "(1) Showy talkers think too much of themselves;"
+  },
+  {
+    "id": "p-c01093",
+    "offset": 28831,
+    "text": "(2) No really well-informed people are bad company;"
+  },
+  {
+    "id": "p-15d555",
+    "offset": 28884,
+    "text": "(3) People who think too much of themselves are not good company."
+  },
+  {
+    "id": "p-268fa5",
+    "offset": 28951,
+    "text": "Univ. \"persons\"; a = good company; b = really well-informed; c = showy talkers; d = thinking too much of one's self."
+  },
+  {
+    "id": "p-9bf412",
+    "offset": 29069,
+    "text": "(1) No boys under 12 are admitted to this school as boarders;"
+  },
+  {
+    "id": "p-86d5c3",
+    "offset": 29132,
+    "text": "(2) All the industrious boys have red hair;"
+  },
+  {
+    "id": "p-3736b2",
+    "offset": 29177,
+    "text": "(3) None of the day-boys learn Greek;"
+  },
+  {
+    "id": "p-942142",
+    "offset": 29216,
+    "text": "(4) None but those under 12 are idle."
+  },
+  {
+    "id": "p-91481e",
+    "offset": 29255,
+    "text": "Univ. \"boys in this school\"; a = boarders; b = industrious; c = learning Greek; d = red-haired; e = under 12."
+  },
+  {
+    "id": "p-d77d9b",
+    "offset": 29366,
+    "text": "(1) The only articles of food, that my doctor allows me, are such as are not very rich;"
+  },
+  {
+    "id": "p-55d8e5",
+    "offset": 29455,
+    "text": "(2) Nothing that agrees with me is unsuitable for supper;"
+  },
+  {
+    "id": "p-509004",
+    "offset": 29514,
+    "text": "(3) Wedding-cake is always very rich;"
+  },
+  {
+    "id": "p-f1f1ca",
+    "offset": 29553,
+    "text": "(4) My doctor allows me all articles of food that are suitable for supper."
+  },
+  {
+    "id": "p-9d060e",
+    "offset": 29629,
+    "text": "Univ. \"articles of food\"; a = agreeing with me; b = allowed by my doctor; c = suitable for supper; d = very rich; e = wedding-cake."
+  },
+  {
+    "id": "p-40985c",
+    "offset": 29762,
+    "text": "(1) No discussions in our Debating-Club are likely to rouse the British Lion, so long as they are checked when they become too noisy;"
+  },
+  {
+    "id": "p-80b9bb",
+    "offset": 29897,
+    "text": "(2) Discussions, unwisely conducted, endanger the peacefulness of our Debating-Club;"
+  },
+  {
+    "id": "p-973bf7",
+    "offset": 29983,
+    "text": "(3) Discussions, that go on while Tomkins is in the Chair, are likely to rouse the British Lion;"
+  },
+  {
+    "id": "p-e5598a",
+    "offset": 30081,
+    "text": "(4) Discussions in our Debating-Club, when wisely conducted, are always checked when they become too noisy."
+  },
+  {
+    "id": "p-3b8717",
+    "offset": 30190,
+    "text": "Univ. \"discussions in our Debating-Club\"; a = checked when too noisy; b = dangerous to the peacefulness of our Debating-Club; c = going on while Tomkins is in the chair; d = likely to rouse the British Lion; e = wisely conducted. pg117 =29.="
+  },
+  {
+    "id": "p-7d4ca5",
+    "offset": 30433,
+    "text": "(1) All my sons are slim;"
+  },
+  {
+    "id": "p-a3029f",
+    "offset": 30460,
+    "text": "(2) No child of mine is healthy who takes no exercise;"
+  },
+  {
+    "id": "p-07655c",
+    "offset": 30516,
+    "text": "(3) All gluttons, who are children of mine, are fat;"
+  },
+  {
+    "id": "p-eda143",
+    "offset": 30570,
+    "text": "(4) No daughter of mine takes any exercise."
+  },
+  {
+    "id": "p-b13387",
+    "offset": 30615,
+    "text": "Univ. \"my children\"; a = fat; b = gluttons; c = healthy; d = sons; e = taking exercise."
+  },
+  {
+    "id": "p-37fbb5",
+    "offset": 30704,
+    "text": "(1) Things sold in the street are of no great value;"
+  },
+  {
+    "id": "p-3d1374",
+    "offset": 30758,
+    "text": "(2) Nothing but rubbish can be had for a song;"
+  },
+  {
+    "id": "p-a81c57",
+    "offset": 30806,
+    "text": "(3) Eggs of the Great Auk are very valuable;"
+  },
+  {
+    "id": "p-04392e",
+    "offset": 30852,
+    "text": "(4) It is only what is sold in the street that is really *rubbish*."
+  },
+  {
+    "id": "p-2eb064",
+    "offset": 30921,
+    "text": "Univ. \"things\"; a = able to be had for a song; b = eggs of the Great Auk; c = rubbish; d = sold in the street; e = very valuable."
+  },
+  {
+    "id": "p-e1b10d",
+    "offset": 31052,
+    "text": "(1) No books sold here have gilt edges, except what are in the front shop;"
+  },
+  {
+    "id": "p-e7ba1b",
+    "offset": 31128,
+    "text": "(2) All the *authorised* editions have red labels;"
+  },
+  {
+    "id": "p-9cb203",
+    "offset": 31180,
+    "text": "(3) All the books with red labels are priced at 5s. and upwards;"
+  },
+  {
+    "id": "p-a3e0dd",
+    "offset": 31246,
+    "text": "(4) None but *authorised* editions are ever placed in the front shop."
+  },
+  {
+    "id": "p-61a5b6",
+    "offset": 31317,
+    "text": "Univ. \"books sold here\"; a = authorised editions; b = gilt-edged; c = having red labels; d = in the front shop; e = priced at 5s. and upwards."
+  },
+  {
+    "id": "p-c13e3e",
+    "offset": 31461,
+    "text": "(1) Remedies for bleeding, which fail to check it, are a mockery;"
+  },
+  {
+    "id": "p-f52d93",
+    "offset": 31528,
+    "text": "(2) Tincture of Calendula is not to be despised;"
+  },
+  {
+    "id": "p-624670",
+    "offset": 31578,
+    "text": "(3) Remedies, which will check the bleeding when you cut your finger, are useful;"
+  },
+  {
+    "id": "p-15f815",
+    "offset": 31661,
+    "text": "(4) All mock remedies for bleeding are despicable."
+  },
+  {
+    "id": "p-159066",
+    "offset": 31713,
+    "text": "Univ. \"remedies for bleeding\"; a = able to check bleeding; b = despicable; c = mockeries; d = Tincture of Calendula; e = useful when you cut your finger."
+  },
+  {
+    "id": "p-3baba3",
+    "offset": 31868,
+    "text": "(1) None of the unnoticed things, met with at sea, are mermaids;"
+  },
+  {
+    "id": "p-b290d6",
+    "offset": 31934,
+    "text": "(2) Things entered in the log, as met with at sea, are sure to be worth remembering;"
+  },
+  {
+    "id": "p-9d6008",
+    "offset": 32020,
+    "text": "(3) I have never met with anything worth remembering, when on a voyage;"
+  },
+  {
+    "id": "p-068ef6",
+    "offset": 32093,
+    "text": "(4) Things met with at sea, that are noticed, are sure to be recorded in the log;"
+  },
+  {
+    "id": "p-a07e3c",
+    "offset": 32176,
+    "text": "Univ. \"things met with at sea\"; a = entered in log; b = mermaids; c = met with by me; d = noticed; e = worth remembering. pg118 =34.="
+  },
+  {
+    "id": "p-5a5873",
+    "offset": 32311,
+    "text": "(1) The only books in this library, that I do *not* recommend for reading, are unhealthy in tone;"
+  },
+  {
+    "id": "p-ca621f",
+    "offset": 32410,
+    "text": "(2) The bound books are all well-written;"
+  },
+  {
+    "id": "p-2f7239",
+    "offset": 32453,
+    "text": "(3) All the romances are healthy in tone;"
+  },
+  {
+    "id": "p-5cd070",
+    "offset": 32496,
+    "text": "(4) I do not recommend you to read any of the unbound books."
+  },
+  {
+    "id": "p-587758",
+    "offset": 32558,
+    "text": "Univ. \"books in this library\"; a = bound; b = healthy in tone; c = recommended by me; d = romances; e = well-written."
+  },
+  {
+    "id": "p-151d92",
+    "offset": 32677,
+    "text": "(1) No birds, except ostriches, are 9 feet high;"
+  },
+  {
+    "id": "p-fe3cbe",
+    "offset": 32727,
+    "text": "(2) There are no birds in this aviary that belong to any one but *me*;"
+  },
+  {
+    "id": "p-393f18",
+    "offset": 32799,
+    "text": "(3) No ostrich lives on mince-pies;"
+  },
+  {
+    "id": "p-de98f1",
+    "offset": 32836,
+    "text": "(4) I have no birds less than 9 feet high."
+  },
+  {
+    "id": "p-871d1b",
+    "offset": 32880,
+    "text": "Univ. \"birds\"; a = in this aviary; b = living on mince-pies; c = my; d = 9 feet high; e = ostriches."
+  },
+  {
+    "id": "p-aad74f",
+    "offset": 32982,
+    "text": "(1) A plum-pudding, that is not really solid, is mere porridge;"
+  },
+  {
+    "id": "p-a61dd1",
+    "offset": 33047,
+    "text": "(2) Every plum-pudding, served at my table, has been boiled in a cloth;"
+  },
+  {
+    "id": "p-02383e",
+    "offset": 33120,
+    "text": "(3) A plum-pudding that is mere porridge is indistinguishable from soup;"
+  },
+  {
+    "id": "p-f69313",
+    "offset": 33194,
+    "text": "(4) No plum-puddings are really solid, except what are served at *my* table."
+  },
+  {
+    "id": "p-6a2f36",
+    "offset": 33272,
+    "text": "Univ. \"plum-puddings\"; a = boiled in a cloth; b = distinguishable from soup; c = mere porridge; d = really solid; e = served at my table."
+  },
+  {
+    "id": "p-f3e11a",
+    "offset": 33411,
+    "text": "(1) No interesting poems are unpopular among people of real taste;"
+  },
+  {
+    "id": "p-0468b7",
+    "offset": 33479,
+    "text": "(2) No modern poetry is free from affectation;"
+  },
+  {
+    "id": "p-abf1b2",
+    "offset": 33527,
+    "text": "(3) All *your* poems are on the subject of soap-bubbles;"
+  },
+  {
+    "id": "p-1aed29",
+    "offset": 33585,
+    "text": "(4) No affected poetry is popular among people of real taste;"
+  },
+  {
+    "id": "p-73e47f",
+    "offset": 33648,
+    "text": "(5) No ancient poem is on the subject of soap-bubbles."
+  },
+  {
+    "id": "p-bc25a9",
+    "offset": 33704,
+    "text": "Univ. \"poems\"; a = affected; b = ancient; c = interesting; d = on the subject of soap-bubbles; e = popular among people of real taste; h = written by you."
+  },
+  {
+    "id": "p-17e87a",
+    "offset": 33860,
+    "text": "(1) All the fruit at this Show, that fails to get a prize, is the property of the Committee;"
+  },
+  {
+    "id": "p-6734d4",
+    "offset": 33954,
+    "text": "(2) None of my peaches have got prizes;"
+  },
+  {
+    "id": "p-60486f",
+    "offset": 33995,
+    "text": "(3) None of the fruit, sold off in the evening, is unripe;"
+  },
+  {
+    "id": "p-cf6c9c",
+    "offset": 34055,
+    "text": "(4) None of the ripe fruit has been grown in a hot-house;"
+  },
+  {
+    "id": "p-c9227a",
+    "offset": 34114,
+    "text": "(5) All fruit, that belongs to the Committee, is sold off in the evening."
+  },
+  {
+    "id": "p-dc031f",
+    "offset": 34189,
+    "text": "Univ. \"fruit at this Show\"; a = belonging to the Committee; b = getting prizes; c = grown in a hot-house; d = my peaches; e = ripe; h = sold off in the evening. pg119 =39.="
+  },
+  {
+    "id": "p-dcf757",
+    "offset": 34363,
+    "text": "(1) Promise-breakers are untrustworthy;"
+  },
+  {
+    "id": "p-7ff951",
+    "offset": 34404,
+    "text": "(2) Wine-drinkers are very communicative;"
+  },
+  {
+    "id": "p-054c03",
+    "offset": 34447,
+    "text": "(3) A man who keeps his promises is honest;"
+  },
+  {
+    "id": "p-41ab64",
+    "offset": 34492,
+    "text": "(4) No teetotalers are pawnbrokers;"
+  },
+  {
+    "id": "p-673d9a",
+    "offset": 34529,
+    "text": "(5) One can always trust a very communicative person."
+  },
+  {
+    "id": "p-1ae81f",
+    "offset": 34584,
+    "text": "Univ. \"persons\"; a = honest; b = pawnbrokers; c = promise-breakers; d = trustworthy; e = very communicative; h = wine-drinkers."
+  },
+  {
+    "id": "p-4ece1d",
+    "offset": 34713,
+    "text": "(1) No kitten, that loves fish, is unteachable;"
+  },
+  {
+    "id": "p-c8f452",
+    "offset": 34762,
+    "text": "(2) No kitten without a tail will play with a gorilla;"
+  },
+  {
+    "id": "p-f13580",
+    "offset": 34818,
+    "text": "(3) Kittens with whiskers always love fish;"
+  },
+  {
+    "id": "p-6fceec",
+    "offset": 34863,
+    "text": "(4) No teachable kitten has green eyes;"
+  },
+  {
+    "id": "p-983c18",
+    "offset": 34904,
+    "text": "(5) No kittens have tails unless they have whiskers."
+  },
+  {
+    "id": "p-c91756",
+    "offset": 34958,
+    "text": "Univ. \"kittens\"; a = green-eyed; b = loving fish; c = tailed; d = teachable; e = whiskered; h = willing to play with a gorilla."
+  },
+  {
+    "id": "p-dd7b4a",
+    "offset": 35087,
+    "text": "(1) All the Eton men in this College play cricket;"
+  },
+  {
+    "id": "p-18555e",
+    "offset": 35139,
+    "text": "(2) None but the Scholars dine at the higher table;"
+  },
+  {
+    "id": "p-7a6e30",
+    "offset": 35192,
+    "text": "(3) None of the cricketers row;"
+  },
+  {
+    "id": "p-a794cb",
+    "offset": 35225,
+    "text": "(4) *My* friends in this College all come from Eton;"
+  },
+  {
+    "id": "p-e78d4f",
+    "offset": 35279,
+    "text": "(5) All the Scholars are rowing-men."
+  },
+  {
+    "id": "p-b11415",
+    "offset": 35317,
+    "text": "Univ. \"men in this College\"; a = cricketers; b = dining at the higher table; c = Etonians; d = my friends; e = rowing-men; h = Scholars."
+  },
+  {
+    "id": "p-b61fd1",
+    "offset": 35455,
+    "text": "(1) There is no box of mine here that I dare open;"
+  },
+  {
+    "id": "p-b14798",
+    "offset": 35507,
+    "text": "(2) My writing-desk is made of rose-wood;"
+  },
+  {
+    "id": "p-50f17e",
+    "offset": 35550,
+    "text": "(3) All my boxes are painted, except what are here;"
+  },
+  {
+    "id": "p-f1157b",
+    "offset": 35603,
+    "text": "(4) There is no box of mine that I dare not open, unless it is full of live scorpions;"
+  },
+  {
+    "id": "p-99d06f",
+    "offset": 35691,
+    "text": "(5) All my rose-wood boxes are unpainted."
+  },
+  {
+    "id": "p-ee1d41",
+    "offset": 35734,
+    "text": "Univ. \"my boxes\"; a = boxes that I dare open; b = full of live scorpions; c = here; d = made of rose-wood; e = painted; h = writing-desks."
+  },
+  {
+    "id": "p-c85142",
+    "offset": 35874,
+    "text": "(1) Gentiles have no objection to pork;"
+  },
+  {
+    "id": "p-ffe08f",
+    "offset": 35915,
+    "text": "(2) Nobody who admires pigsties ever reads Hogg's poems;"
+  },
+  {
+    "id": "p-0e901b",
+    "offset": 35973,
+    "text": "(3) No Mandarin knows Hebrew;"
+  },
+  {
+    "id": "p-3d17ef",
+    "offset": 36004,
+    "text": "(4) Every one, who does not object to pork, admires pigsties;"
+  },
+  {
+    "id": "p-e5ce8d",
+    "offset": 36067,
+    "text": "(5) No Jew is ignorant of Hebrew."
+  },
+  {
+    "id": "p-91fe12",
+    "offset": 36102,
+    "text": "Univ. \"persons\"; a = admiring pigsties; b = Jews; c = knowing Hebrew; d = Mandarins; e = objecting to pork; h = reading Hogg's poems. pg120 =44.="
+  },
+  {
+    "id": "p-d88ebc",
+    "offset": 36249,
+    "text": "(1) All writers, who understand human nature, are clever;"
+  },
+  {
+    "id": "p-2da9d7",
+    "offset": 36308,
+    "text": "(2) No one is a true poet unless he can stir the hearts of men;"
+  },
+  {
+    "id": "p-fdaa0b",
+    "offset": 36373,
+    "text": "(3) Shakespeare wrote \"Hamlet\";"
+  },
+  {
+    "id": "p-093842",
+    "offset": 36406,
+    "text": "(4) No writer, who does not understand human nature, can stir the hearts of men;"
+  },
+  {
+    "id": "p-e8fbfb",
+    "offset": 36488,
+    "text": "(5) None but a true poet could have written \"Hamlet.\";"
+  },
+  {
+    "id": "p-5d5a30",
+    "offset": 36544,
+    "text": "Univ. \"writers\"; a = able to stir the hearts of men; b = clever; c = Shakespeare; d = true poets; e = understanding human nature; h = writer of 'Hamlet.'"
+  },
+  {
+    "id": "p-dab1da",
+    "offset": 36699,
+    "text": "(1) I despise anything that cannot be used as a bridge;"
+  },
+  {
+    "id": "p-a78bdd",
+    "offset": 36756,
+    "text": "(2) Everything, that is worth writing an ode to, would be a welcome gift to me;"
+  },
+  {
+    "id": "p-750a06",
+    "offset": 36837,
+    "text": "(3) A rainbow will not bear the weight of a wheel-barrow;"
+  },
+  {
+    "id": "p-a1b869",
+    "offset": 36896,
+    "text": "(4) Whatever can be used as a bridge will bear the weight of a wheel-barrow;"
+  },
+  {
+    "id": "p-6d4c1c",
+    "offset": 36974,
+    "text": "(5) I would not take, as a gift, a thing that I despise."
+  },
+  {
+    "id": "p-a9b854",
+    "offset": 37032,
+    "text": "Univ. \"things\"; a = able to bear the weight of a wheel-barrow; b = acceptable to me; c = despised by me; d = rainbows; e = useful as a bridge; h = worth writing an ode to."
+  },
+  {
+    "id": "p-3c41a3",
+    "offset": 37205,
+    "text": "(1) When I work a Logic-example without grumbling, you may be sure it is one that I can understand;"
+  },
+  {
+    "id": "p-639ec1",
+    "offset": 37306,
+    "text": "(2) These Soriteses are not arranged in regular order, like the examples I am used to;"
+  },
+  {
+    "id": "p-527b04",
+    "offset": 37394,
+    "text": "(3) No easy example ever make my head ache;"
+  },
+  {
+    "id": "p-235e3b",
+    "offset": 37439,
+    "text": "(4) I ca'n't understand examples that are not arranged in regular order, like those I am used to;"
+  },
+  {
+    "id": "p-53e090",
+    "offset": 37538,
+    "text": "(5) I never grumble at an example, unless it gives me a headache."
+  },
+  {
+    "id": "p-2096d8",
+    "offset": 37605,
+    "text": "Univ. \"Logic-examples worked by me\"; a = arranged in regular order, like the examples I am used to; b = easy; c = grumbled at by me; d = making my head ache; e = these Soriteses; h = understood by me."
+  },
+  {
+    "id": "p-02e4c2",
+    "offset": 37807,
+    "text": "(1) Every idea of mine, that cannot be expressed as a Syllogism, is really ridiculous;"
+  },
+  {
+    "id": "p-b4f43c",
+    "offset": 37895,
+    "text": "(2) None of my ideas about Bath-buns are worth writing down;"
+  },
+  {
+    "id": "p-117232",
+    "offset": 37957,
+    "text": "(3) No idea of mine, that fails to come true, can be expressed as a Syllogism;"
+  },
+  {
+    "id": "p-829fc3",
+    "offset": 38037,
+    "text": "(4) I never have any really ridiculous idea, that I do not at once refer to my solicitor;"
+  },
+  {
+    "id": "p-efce41",
+    "offset": 38128,
+    "text": "(5) My dreams are all about Bath-buns;"
+  },
+  {
+    "id": "p-11e56b",
+    "offset": 38168,
+    "text": "(6) I never refer any idea of mine to my solicitor, unless it is worth writing down."
+  },
+  {
+    "id": "p-e9a4da",
+    "offset": 38254,
+    "text": "Univ. \"my ideas\"; a = able to be expressed as a Syllogism; b = about Bath-buns; c = coming true; d = dreams; e = really ridiculous h = referred to my solicitor; k = worth writing down. pg121 =48.="
+  },
+  {
+    "id": "p-289af2",
+    "offset": 38452,
+    "text": "(1) None of the pictures here, except the battle-pieces, are valuable;"
+  },
+  {
+    "id": "p-c13a34",
+    "offset": 38524,
+    "text": "(2) None of the unframed ones are varnished;"
+  },
+  {
+    "id": "p-e5d98d",
+    "offset": 38570,
+    "text": "(3) All the battle-pieces are painted in oils;"
+  },
+  {
+    "id": "p-fd1f29",
+    "offset": 38618,
+    "text": "(4) All those that have been sold are valuable;"
+  },
+  {
+    "id": "p-cb54a0",
+    "offset": 38667,
+    "text": "(5) All the English ones are varnished;"
+  },
+  {
+    "id": "p-092db3",
+    "offset": 38708,
+    "text": "(6) All those in frames have been sold."
+  },
+  {
+    "id": "p-78c0da",
+    "offset": 38749,
+    "text": "Univ. \"the pictures here\"; a = battle-pieces; b = English; c = framed; d = oil-paintings; e = sold; h = valuable; k = varnished."
+  },
+  {
+    "id": "p-ee0042",
+    "offset": 38879,
+    "text": "(1) Animals, that do not kick, are always unexcitable;"
+  },
+  {
+    "id": "p-cbdfdc",
+    "offset": 38935,
+    "text": "(2) Donkeys have no horns;"
+  },
+  {
+    "id": "p-9e7bb0",
+    "offset": 38963,
+    "text": "(3) A buffalo can always toss one over a gate;"
+  },
+  {
+    "id": "p-14355b",
+    "offset": 39011,
+    "text": "(4) No animals that kick are easy to swallow;"
+  },
+  {
+    "id": "p-a46e2e",
+    "offset": 39058,
+    "text": "(5) No hornless animal can toss one over a gate;"
+  },
+  {
+    "id": "p-9da8f6",
+    "offset": 39108,
+    "text": "(6) All animals are excitable, except buffaloes."
+  },
+  {
+    "id": "p-c8cb74",
+    "offset": 39158,
+    "text": "Univ. \"animals\"; a = able to toss one over a gate; b = buffaloes; c = donkeys; d = easy to swallow; e = excitable; h = horned; k = kicking."
+  },
+  {
+    "id": "p-55edd4",
+    "offset": 39299,
+    "text": "(1) No one, who is going to a party, ever fails to brush his hair;"
+  },
+  {
+    "id": "p-bf88ba",
+    "offset": 39367,
+    "text": "(2) No one looks fascinating, if he is untidy;"
+  },
+  {
+    "id": "p-a377a3",
+    "offset": 39415,
+    "text": "(3) Opium-eaters have no self-command;"
+  },
+  {
+    "id": "p-ba5706",
+    "offset": 39455,
+    "text": "(4) Every one, who has brushed his hair, looks fascinating;"
+  },
+  {
+    "id": "p-62e1c2",
+    "offset": 39516,
+    "text": "(5) No one wears white kid gloves, unless he is going to a party;"
+  },
+  {
+    "id": "p-c5dd35",
+    "offset": 39583,
+    "text": "(6) A man is always untidy, if he has no self-command."
+  },
+  {
+    "id": "p-c506fb",
+    "offset": 39639,
+    "text": "Univ. \"persons\"; a = going to a party; b = having brushed one's hair; c = having self-command; d = looking fascinating; e = opium-eaters; h = tidy; k = wearing white kid gloves."
+  },
+  {
+    "id": "p-92c348",
+    "offset": 39818,
+    "text": "(1) No husband, who is always giving his wife new dresses, can be a cross-grained man;"
+  },
+  {
+    "id": "p-06f26a",
+    "offset": 39906,
+    "text": "(2) A methodical husband always comes home for his tea;"
+  },
+  {
+    "id": "p-9702e9",
+    "offset": 39963,
+    "text": "(3) No one, who hangs up his hat on the gas-jet, can be a man that is kept in proper order by his wife;"
+  },
+  {
+    "id": "p-212fa8",
+    "offset": 40068,
+    "text": "(4) A good husband is always giving his wife new dresses;"
+  },
+  {
+    "id": "p-8b6db2",
+    "offset": 40127,
+    "text": "(5) No husband can fail to be cross-grained, if his wife does not keep him in proper order;"
+  },
+  {
+    "id": "p-6dd7a9",
+    "offset": 40220,
+    "text": "(6) An unmethodical husband always hangs up his hat on the gas-jet."
+  },
+  {
+    "id": "p-087b0a",
+    "offset": 40289,
+    "text": "Univ. \"husbands\"; a = always coming home for his tea; b = always giving his wife new dresses; c = cross-grained; d = good; e = hanging up his hat on the gas-jet; h = kept in proper order; k = methodical. pg122 =52.="
+  },
+  {
+    "id": "p-398221",
+    "offset": 40506,
+    "text": "(1) Everything, not absolutely ugly, may be kept in a drawing-room;"
+  },
+  {
+    "id": "p-165f90",
+    "offset": 40575,
+    "text": "(2) Nothing, that is encrusted with salt, is ever quite dry;"
+  },
+  {
+    "id": "p-44b5c5",
+    "offset": 40637,
+    "text": "(3) Nothing should be kept in a drawing-room, unless it is free from damp;"
+  },
+  {
+    "id": "p-74dd4f",
+    "offset": 40713,
+    "text": "(4) Bathing-machines are always kept near the sea;"
+  },
+  {
+    "id": "p-59f9f6",
+    "offset": 40765,
+    "text": "(5) Nothing, that is made of mother-of-pearl, can be absolutely ugly;"
+  },
+  {
+    "id": "p-990522",
+    "offset": 40836,
+    "text": "(6) Whatever is kept near the sea gets encrusted with salt."
+  },
+  {
+    "id": "p-ffffc6",
+    "offset": 40897,
+    "text": "Univ. \"things\"; a = absolutely ugly; b = bathing-machines; c = encrusted with salt; d = kept near the sea; e = made of mother-of-pearl; h = quite dry; k = things that may be kept in a drawing-room."
+  },
+  {
+    "id": "p-a6253b",
+    "offset": 41096,
+    "text": "(1) I call no day \"unlucky,\" when Robinson is civil to me;"
+  },
+  {
+    "id": "p-9e13a9",
+    "offset": 41156,
+    "text": "(2) Wednesdays are always cloudy;"
+  },
+  {
+    "id": "p-6ff7da",
+    "offset": 41191,
+    "text": "(3) When people take umbrellas, the day never turns out fine;"
+  },
+  {
+    "id": "p-cb1770",
+    "offset": 41254,
+    "text": "(4) The only days when Robinson is uncivil to me are Wednesdays;"
+  },
+  {
+    "id": "p-725459",
+    "offset": 41320,
+    "text": "(5) Everybody takes his umbrella with him when it is raining;"
+  },
+  {
+    "id": "p-c4d7fe",
+    "offset": 41383,
+    "text": "(6) My \"lucky\" days always turn out fine."
+  },
+  {
+    "id": "p-e43c0a",
+    "offset": 41426,
+    "text": "Univ. \"days\"; a = called by me 'lucky'; b = cloudy; c = days when people take umbrellas; d = days when Robinson is civil to me; e = rainy; h = turning out fine; k = Wednesdays."
+  },
+  {
+    "id": "p-ff55d2",
+    "offset": 41604,
+    "text": "(1) No shark ever doubts that it is well fitted out;"
+  },
+  {
+    "id": "p-9e01e0",
+    "offset": 41658,
+    "text": "(2) A fish, that cannot dance a minuet, is contemptible;"
+  },
+  {
+    "id": "p-fa092e",
+    "offset": 41716,
+    "text": "(3) No fish is quite certain that it is well fitted out, unless it has three rows of teeth;"
+  },
+  {
+    "id": "p-7b0713",
+    "offset": 41809,
+    "text": "(4) All fishes, except sharks, are kind to children;"
+  },
+  {
+    "id": "p-e97110",
+    "offset": 41863,
+    "text": "(5) No heavy fish can dance a minuet;"
+  },
+  {
+    "id": "p-6f9f43",
+    "offset": 41902,
+    "text": "(6) A fish with three rows of teeth is not to be despised."
+  },
+  {
+    "id": "p-ef4c1b",
+    "offset": 41962,
+    "text": "Univ. \"fishes\"; a = able to dance a minuet; b = certain that he is well fitted out; c = contemptible; d = having 3 rows of teeth; e = heavy; h = kind to children; k = sharks."
+  },
+  {
+    "id": "p-2fc0db",
+    "offset": 42138,
+    "text": "(1) All the human race, except my footmen, have a certain amount of common-sense;"
+  },
+  {
+    "id": "p-2fabc9",
+    "offset": 42221,
+    "text": "(2) No one, who lives on barley-sugar, can be anything but a mere baby;"
+  },
+  {
+    "id": "p-dfadd7",
+    "offset": 42294,
+    "text": "(3) None but a hop-scotch player knows what real happiness is;"
+  },
+  {
+    "id": "p-1300e1",
+    "offset": 42358,
+    "text": "(4) No mere baby has a grain of common sense;"
+  },
+  {
+    "id": "p-ea0f5d",
+    "offset": 42405,
+    "text": "(5) No engine-driver ever plays hop-scotch;"
+  },
+  {
+    "id": "p-d49281",
+    "offset": 42450,
+    "text": "(6) No footman of mine is ignorant of what true happiness is."
+  },
+  {
+    "id": "p-6748c2",
+    "offset": 42513,
+    "text": "Univ. \"human beings\"; a = engine-drivers; b = having common sense; c = hop-scotch players; d = knowing what real happiness is; e = living on barley-sugar; h = mere babies; k = my footmen. pg123 =56.="
+  },
+  {
+    "id": "p-dd02a9",
+    "offset": 42714,
+    "text": "(1) I trust every animal that belongs to me;"
+  },
+  {
+    "id": "p-b71932",
+    "offset": 42760,
+    "text": "(2) Dogs gnaw bones;"
+  },
+  {
+    "id": "p-544601",
+    "offset": 42782,
+    "text": "(3) I admit no animals into my study, unless they will beg when told to do so;"
+  },
+  {
+    "id": "p-78b4fc",
+    "offset": 42862,
+    "text": "(4) All the animals in the yard are mine;"
+  },
+  {
+    "id": "p-605869",
+    "offset": 42905,
+    "text": "(5) I admit every animal, that I trust, into my study;"
+  },
+  {
+    "id": "p-1cba03",
+    "offset": 42961,
+    "text": "(6) The only animals, that are really willing to beg when told to do so, are dogs."
+  },
+  {
+    "id": "p-d6c7e6",
+    "offset": 43045,
+    "text": "Univ. \"animals\"; a = admitted to my study; b = animals that I trust; c = dogs; d = gnawing bones; e = in the yard; h = my; k = willing to beg when told."
+  },
+  {
+    "id": "p-eefc3d",
+    "offset": 43199,
+    "text": "(1) Animals are always mortally offended if I fail to notice them;"
+  },
+  {
+    "id": "p-3b8364",
+    "offset": 43267,
+    "text": "(2) The only animals that belong to *me* are in that field;"
+  },
+  {
+    "id": "p-c41dbd",
+    "offset": 43328,
+    "text": "(3) No animal can guess a conundrum, unless it has been properly trained in a Board-School;"
+  },
+  {
+    "id": "p-e277f9",
+    "offset": 43421,
+    "text": "(4) None of the animals in that field are badgers;"
+  },
+  {
+    "id": "p-9a14be",
+    "offset": 43473,
+    "text": "(5) When an animal is mortally offended, it always rushes about wildly and howls;"
+  },
+  {
+    "id": "p-29f73f",
+    "offset": 43556,
+    "text": "(6) I never notice any animal, unless it belongs to me;"
+  },
+  {
+    "id": "p-4100ce",
+    "offset": 43613,
+    "text": "(7) No animal, that has been properly trained in a Board-School, ever rushes about wildly and howls."
+  },
+  {
+    "id": "p-b23a01",
+    "offset": 43715,
+    "text": "Univ. \"animals\"; a = able to guess a conundrum; b = badgers; c = in that field; d = mortally offended; e = my; h = noticed by me; k = properly trained in a Board-School; l = rushing about wildly and howling."
+  },
+  {
+    "id": "p-a4fd3b",
+    "offset": 43924,
+    "text": "(1) I never put a cheque, received by me, on that file, unless I am anxious about it;"
+  },
+  {
+    "id": "p-5c050c",
+    "offset": 44011,
+    "text": "(2) All the cheques received by me, that are not marked with a cross, are payable to bearer;"
+  },
+  {
+    "id": "p-927ae3",
+    "offset": 44105,
+    "text": "(3) None of them are ever brought back to me, unless they have been dishonoured at the Bank;"
+  },
+  {
+    "id": "p-c476cc",
+    "offset": 44199,
+    "text": "(4) All of them, that are marked with a cross, are for amounts of over £100;"
+  },
+  {
+    "id": "p-834dbb",
+    "offset": 44277,
+    "text": "(5) All of them, that are not on that file, are marked \"not negotiable\";"
+  },
+  {
+    "id": "p-e2df80",
+    "offset": 44351,
+    "text": "(6) No cheque of yours, received by me, has ever been dishonoured;"
+  },
+  {
+    "id": "p-ff70ec",
+    "offset": 44419,
+    "text": "(7) I am never anxious about a cheque, received by me, unless it should happen to be brought back to me;"
+  },
+  {
+    "id": "p-d18d9a",
+    "offset": 44525,
+    "text": "(8) None of the cheques received by me, that are marked \"not negotiable,\" are for amounts of over £100."
+  },
+  {
+    "id": "p-4ef55d",
+    "offset": 44630,
+    "text": "Univ. \"cheques received by me\"; a = brought back to me; b = cheques that I am anxious about; c = honoured; d = marked with a cross; e = marked 'not negotiable'; h = on that file; k = over £100; l = payable to bearer; m = your. pg124 =59.="
+  },
+  {
+    "id": "p-ff7ebc",
+    "offset": 44870,
+    "text": "(1) All the dated letters in this room are written on blue paper;"
+  },
+  {
+    "id": "p-c97fee",
+    "offset": 44937,
+    "text": "(2) None of them are in black ink, except those that are written in the third person;"
+  },
+  {
+    "id": "p-a83ab9",
+    "offset": 45024,
+    "text": "(3) I have not filed any of them that I can read;"
+  },
+  {
+    "id": "p-df28d0",
+    "offset": 45075,
+    "text": "(4) None of them, that are written on one sheet, are undated;"
+  },
+  {
+    "id": "p-8af31e",
+    "offset": 45138,
+    "text": "(5) All of them, that are not crossed, are in black ink;"
+  },
+  {
+    "id": "p-5dbd76",
+    "offset": 45196,
+    "text": "(6) All of them, written by Brown, begin with \"Dear Sir\";"
+  },
+  {
+    "id": "p-cffdc1",
+    "offset": 45255,
+    "text": "(7) All of them, written on blue paper, are filed;"
+  },
+  {
+    "id": "p-234c98",
+    "offset": 45307,
+    "text": "(8) None of them, written on more than one sheet, are crossed;"
+  },
+  {
+    "id": "p-683e8c",
+    "offset": 45371,
+    "text": "(9) None of them, that begin with \"Dear Sir,\" are written in the third person."
+  },
+  {
+    "id": "p-ba1fc4",
+    "offset": 45451,
+    "text": "Univ. \"letters in this room\"; a = beginning with \"Dear Sir\"; b = crossed; c = dated; d = filed; e = in black ink; h = in third person; k = letters that I can read; l = on blue paper; m = on one sheet; n = written by Brown."
+  },
+  {
+    "id": "p-bcdf47",
+    "offset": 45675,
+    "text": "(1) The only animals in this house are cats;"
+  },
+  {
+    "id": "p-4350a1",
+    "offset": 45721,
+    "text": "(2) Every animal is suitable for a pet, that loves to gaze at the moon;"
+  },
+  {
+    "id": "p-e66654",
+    "offset": 45794,
+    "text": "(3) When I detest an animal, I avoid it;"
+  },
+  {
+    "id": "p-39912b",
+    "offset": 45836,
+    "text": "(4) No animals are carnivorous, unless they prowl at night;"
+  },
+  {
+    "id": "p-e08f7c",
+    "offset": 45897,
+    "text": "(5) No cats fails to kill mice;"
+  },
+  {
+    "id": "p-6bba04",
+    "offset": 45930,
+    "text": "(6) No animals ever take to me, except what are in this house;"
+  },
+  {
+    "id": "p-058f95",
+    "offset": 45994,
+    "text": "(7) Kangaroos are not suitable for pets;"
+  },
+  {
+    "id": "p-6a942a",
+    "offset": 46036,
+    "text": "(8) None but carnivora kill mice;"
+  },
+  {
+    "id": "p-c837d7",
+    "offset": 46071,
+    "text": "(9) I detest animals that do not take to me;"
+  },
+  {
+    "id": "p-017a16",
+    "offset": 46117,
+    "text": "(10) Animals, that prowl at night, always love to gaze at the moon."
+  },
+  {
+    "id": "p-afbb13",
+    "offset": 46186,
+    "text": "Univ. \"animals\"; a = avoided by me; b = carnivora; c = cats; d = detested by me; e = in this house; h = kangaroos; k = killing mice; l = loving to gaze at the moon; m = prowling at night; n = suitable for pets; r = taking to me."
+  },
+  {
+    "id": "p-3a9294",
+    "offset": 46416,
+    "text": "pg125"
+  }
+]

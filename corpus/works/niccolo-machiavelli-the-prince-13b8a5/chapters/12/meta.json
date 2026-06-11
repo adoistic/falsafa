@@ -1,0 +1,26 @@
+{
+  "work_slug": "niccolo-machiavelli-the-prince-13b8a5",
+  "work_title": "The Prince",
+  "chapter_number": 12,
+  "chapter_title": "Chapter XII — HOW MANY KINDS OF SOLDIERY THERE ARE, AND CONCERNING MERCENARIES",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe1eabb8-b029-54fa-a842-6ac03a831800",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1979,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1232"
+    }
+  ]
+}

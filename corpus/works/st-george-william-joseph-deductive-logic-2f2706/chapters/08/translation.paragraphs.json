@@ -1,0 +1,127 @@
+[
+  {
+    "id": "p-715a41",
+    "offset": 0,
+    "text": "*Of the Special Uses of the Four Figures.*"
+  },
+  {
+    "id": "p-9c4e0b",
+    "offset": 44,
+    "text": "§ 648. The first figure is useful for proving the properties of a thing."
+  },
+  {
+    "id": "p-19e960",
+    "offset": 118,
+    "text": "§ 649. The second figure is useful for proving distinctions between things."
+  },
+  {
+    "id": "p-45efd9",
+    "offset": 195,
+    "text": "§ 650. The third figure is useful for proving instances or exceptions."
+  },
+  {
+    "id": "p-b84a59",
+    "offset": 267,
+    "text": "§ 651. The fourth figure is useful for proving the species of a genus."
+  },
+  {
+    "id": "p-8ec9a0",
+    "offset": 339,
+    "text": "FIGURE 1."
+  },
+  {
+    "id": "p-569c93",
+    "offset": 350,
+    "text": "B is or is not A. C is B. .'. C is or is not A."
+  },
+  {
+    "id": "p-306220",
+    "offset": 399,
+    "text": "We prove that C has or has not the property A by predicating of it B, which we know to possess or not to possess that property."
+  },
+  {
+    "id": "p-6ef6ab",
+    "offset": 528,
+    "text": "Luminous objects are material. Comets are luminous. .'. Comets are material."
+  },
+  {
+    "id": "p-8b3e88",
+    "offset": 606,
+    "text": "No moths are butterflies. The Death's head is a moth. .'. The Death's head is not a butterfly."
+  },
+  {
+    "id": "p-abcb76",
+    "offset": 702,
+    "text": "FIGURE II."
+  },
+  {
+    "id": "p-ed208c",
+    "offset": 714,
+    "text": "A is B. A is not B. C is not B. C is B. .'. C is not A. .'. C is not A."
+  },
+  {
+    "id": "p-64e048",
+    "offset": 787,
+    "text": "We establish the distinction between C and A by showing that A has an attribute which C is devoid of, or is devoid of an attribute which C has."
+  },
+  {
+    "id": "p-792991",
+    "offset": 932,
+    "text": "All fishes are cold-blooded. A whale is not cold-blooded. .'. A whale is not a fish."
+  },
+  {
+    "id": "p-f9aa65",
+    "offset": 1018,
+    "text": "No fishes give milk. A whale gives milk. .'. A whale is not a fish."
+  },
+  {
+    "id": "p-573beb",
+    "offset": 1087,
+    "text": "FIGURE III."
+  },
+  {
+    "id": "p-1b5642",
+    "offset": 1100,
+    "text": "B is A. B is not A. B is C. B is C. .'. Some C is A. .'. Some C is not A."
+  },
+  {
+    "id": "p-9ebcfd",
+    "offset": 1175,
+    "text": "We produce instances of C being A by showing that C and A meet, at all events partially, in B. Thus if we wish to produce an instance of the compatibility of great learning with original powers of thought, we might say"
+  },
+  {
+    "id": "p-52a347",
+    "offset": 1395,
+    "text": "Sir William Hamilton was an original thinker. Sir William Hamilton was a man of great learning. .'. Some men of great learning are original thinkers."
+  },
+  {
+    "id": "p-4ea053",
+    "offset": 1546,
+    "text": "Or we might urge an exception to the supposed rule about Scotchmen being deficient in humour under the same figure, thus--"
+  },
+  {
+    "id": "p-f4a070",
+    "offset": 1670,
+    "text": "Sir Walter Scott was not deficient in humour. Sir Walter Scott was a Scotchman. .'. Some Scotchmen are not deficient in humour."
+  },
+  {
+    "id": "p-29ce7b",
+    "offset": 1799,
+    "text": "FIGURE IV."
+  },
+  {
+    "id": "p-b023e2",
+    "offset": 1811,
+    "text": "All A is B, No A is B. All B is C. All B is C. .'. Some C is A .'.Some C is not A."
+  },
+  {
+    "id": "p-4fbe4d",
+    "offset": 1895,
+    "text": "We show here that A is or is not a species of C by showing that A falls, or does not fall, under the class B, which itself falls under C. Thus--"
+  },
+  {
+    "id": "p-4e2e0e",
+    "offset": 2041,
+    "text": "All whales are mammals. All mammals are warm-blooded. .'. Some warm-blooded animals are whales. No whales are fishes. All fishes are cold-blooded. .'. Some cold-blooded animals are not whales."
+  }
+]

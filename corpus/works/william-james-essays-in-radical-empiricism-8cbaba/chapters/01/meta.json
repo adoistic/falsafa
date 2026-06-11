@@ -1,0 +1,26 @@
+{
+  "work_slug": "william-james-essays-in-radical-empiricism-8cbaba",
+  "work_title": "Essays in Radical Empiricism",
+  "chapter_number": 1,
+  "chapter_title": "Section VII — of [the first essay], I treated of this class of",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "41b2715e-17df-5ba0-a26b-46ce03fc7e64",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 26039,
+      "paragraph_count": 306,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/32547"
+    }
+  ]
+}

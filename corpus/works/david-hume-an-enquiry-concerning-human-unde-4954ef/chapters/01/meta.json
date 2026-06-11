@@ -1,0 +1,26 @@
+{
+  "work_slug": "david-hume-an-enquiry-concerning-human-unde-4954ef",
+  "work_title": "An Enquiry Concerning Human Understanding",
+  "chapter_number": 1,
+  "chapter_title": "Section I",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0d90c1fe-1edd-59b5-a22c-5e0e0b8d3330",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3591,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/9662"
+    }
+  ]
+}

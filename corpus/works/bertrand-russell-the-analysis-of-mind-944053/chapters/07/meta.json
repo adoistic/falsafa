@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-the-analysis-of-mind-944053",
+  "work_title": "The Analysis of Mind",
+  "chapter_number": 7,
+  "chapter_title": "Section I — )",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "765535df-bfdf-5c29-94ce-46bdbcf7ca7d",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 964,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/2529"
+    }
+  ]
+}

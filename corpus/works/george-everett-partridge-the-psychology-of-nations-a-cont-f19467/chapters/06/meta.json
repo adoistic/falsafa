@@ -1,0 +1,26 @@
+{
+  "work_slug": "george-everett-partridge-the-psychology-of-nations-a-cont-f19467",
+  "work_title": "The Psychology of Nations: A Contribution to the Philosophy of History",
+  "chapter_number": 6,
+  "chapter_title": "Chapter V",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "135d2fc4-cccc-5c8f-9758-fcd20b1e9587",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4906,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/20814"
+    }
+  ]
+}

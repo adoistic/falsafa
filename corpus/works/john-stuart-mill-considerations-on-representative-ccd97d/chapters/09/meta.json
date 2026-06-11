@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-considerations-on-representative-ccd97d",
+  "work_title": "Considerations on Representative Government",
+  "chapter_number": 9,
+  "chapter_title": "Chapter IX — --Should there be Two Stages of Election?",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f7fa3373-eb4e-5b0e-b518-8ac00309b1a8",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2490,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5669"
+    }
+  ]
+}

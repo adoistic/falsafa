@@ -1,0 +1,26 @@
+{
+  "work_slug": "baruch-spinoza-on-the-improvement-of-the-unders-23a33c",
+  "work_title": "On the Improvement of the Understanding",
+  "chapter_number": 1,
+  "chapter_title": "On the Improvement of the Understanding",
+  "chapter_slug": "01-on-the-improvement-of-the-understanding",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "95d54f13-d0f2-5442-a258-a72d78dee0a1",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 16268,
+      "paragraph_count": 202,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1016"
+    }
+  ]
+}

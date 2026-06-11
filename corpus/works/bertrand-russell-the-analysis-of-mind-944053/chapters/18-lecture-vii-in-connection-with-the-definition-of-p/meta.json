@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-the-analysis-of-mind-944053",
+  "work_title": "The Analysis of Mind",
+  "chapter_number": 18,
+  "chapter_title": "Lecture VII — , in connection with the definition of perception. We there",
+  "chapter_slug": "18-lecture-vii-in-connection-with-the-definition-of-p",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ffb33fe-95c7-5830-951a-2339b57421c9",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3734,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/2529"
+    }
+  ]
+}

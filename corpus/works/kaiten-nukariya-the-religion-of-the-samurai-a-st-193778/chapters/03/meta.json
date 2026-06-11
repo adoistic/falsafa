@@ -1,0 +1,26 @@
+{
+  "work_slug": "kaiten-nukariya-the-religion-of-the-samurai-a-st-193778",
+  "work_title": "The Religion of the Samurai: A Study of Zen Philosophy",
+  "chapter_number": 3,
+  "chapter_title": "Chapter VII",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11a04e85-6952-502c-9218-b30dcdcb2090",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7713,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5173"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "st-george-william-joseph-a-guide-to-stoicism-720b0e",
+  "work_title": "A Guide to Stoicism",
+  "chapter_number": 1,
+  "chapter_title": "A Guide to Stoicism",
+  "chapter_slug": "01-a-guide-to-stoicism",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a0c90c45-fce5-528f-becd-73a2959cd41b",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 17831,
+      "paragraph_count": 169,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/7514"
+    }
+  ]
+}

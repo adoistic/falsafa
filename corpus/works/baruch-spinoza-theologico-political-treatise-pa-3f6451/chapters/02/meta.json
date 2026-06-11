@@ -1,0 +1,26 @@
+{
+  "work_slug": "baruch-spinoza-theologico-political-treatise-pa-3f6451",
+  "work_title": "Theologico-Political Treatise, Part 3",
+  "chapter_number": 2,
+  "chapter_title": "Chapter XII — - OF THE TRUE ORIGINAL OF THE DIVINE LAW, AND",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7882a61e-5f33-5c80-95a2-38925c40a640",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 315,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/991"
+    }
+  ]
+}

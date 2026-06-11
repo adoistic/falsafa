@@ -1,0 +1,26 @@
+{
+  "work_slug": "richard-william-church-bacon-d0bce2",
+  "work_title": "Bacon",
+  "chapter_number": 4,
+  "chapter_title": "Chapter IV",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c2063e9e-fb03-5fbf-a0d3-0deb93c451ca",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6081,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/13888"
+    }
+  ]
+}

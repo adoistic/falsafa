@@ -1,0 +1,26 @@
+{
+  "work_slug": "emile-faguet-initiation-into-philosophy-db6cb4",
+  "work_title": "Initiation into Philosophy",
+  "chapter_number": 5,
+  "chapter_title": "Chapter II",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "307fa7e2-8665-5e43-b4b5-f37d932fefdb",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3888,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/9304"
+    }
+  ]
+}

@@ -1,0 +1,862 @@
+[
+  {
+    "id": "p-83d380",
+    "offset": 0,
+    "text": "CROSS QUESTIONS."
+  },
+  {
+    "id": "p-05c8a4",
+    "offset": 18,
+    "text": "\"The Man in the Wilderness asked of me 'How many strawberries grow in the sea?'\" __________"
+  },
+  {
+    "id": "p-dc7c9d",
+    "offset": 111,
+    "text": "1. Elementary."
+  },
+  {
+    "id": "p-666110",
+    "offset": 127,
+    "text": "1. What is an 'Attribute'? Give examples."
+  },
+  {
+    "id": "p-6e1efd",
+    "offset": 170,
+    "text": "2. When is it good sense to put \"is\" or \"are\" between two names? Give examples."
+  },
+  {
+    "id": "p-f7e664",
+    "offset": 251,
+    "text": "3. When is it NOT good sense? Give examples."
+  },
+  {
+    "id": "p-a57e75",
+    "offset": 297,
+    "text": "4. When it is NOT good sense, what is the simplest agreement to make, in order to make good sense?"
+  },
+  {
+    "id": "p-084f08",
+    "offset": 397,
+    "text": "5. Explain 'Proposition', 'Term', 'Subject', and 'Predicate'. Give examples."
+  },
+  {
+    "id": "p-933eff",
+    "offset": 475,
+    "text": "6. What are 'Particular' and 'Universal' Propositions? Give examples."
+  },
+  {
+    "id": "p-557f60",
+    "offset": 546,
+    "text": "7. Give a rule for knowing, when we look at the smaller Diagram, what Attributes belong to the things in each compartment."
+  },
+  {
+    "id": "p-e09d1e",
+    "offset": 670,
+    "text": "8. What does \"some\" mean in Logic? [See pp. 55, 6]"
+  },
+  {
+    "id": "p-e040eb",
+    "offset": 722,
+    "text": "9. In what sense do we use the word 'Universe' in this Game?"
+  },
+  {
+    "id": "p-347f9d",
+    "offset": 784,
+    "text": "10. What is a 'Double' Proposition? Give examples."
+  },
+  {
+    "id": "p-afe974",
+    "offset": 836,
+    "text": "11. When is a class of Things said to be 'exhaustively' divided? Give examples."
+  },
+  {
+    "id": "p-f223f8",
+    "offset": 917,
+    "text": "12. Explain the phrase \"sitting on the fence.\""
+  },
+  {
+    "id": "p-d37438",
+    "offset": 965,
+    "text": "13. What two partial Propositions make up, when taken together, \"all x are y\"?"
+  },
+  {
+    "id": "p-6481ec",
+    "offset": 1045,
+    "text": "14. What are 'Individual' Propositions? Give examples."
+  },
+  {
+    "id": "p-340ae2",
+    "offset": 1101,
+    "text": "15. What kinds of Propositions imply, in this Game, the EXISTENCE of their Subjects?"
+  },
+  {
+    "id": "p-a3c84b",
+    "offset": 1187,
+    "text": "16. When a Proposition contains more than two Attributes, these Attributes may in some cases be re-arranged, and shifted from one Term to the other. In what cases may this be done? Give examples."
+  },
+  {
+    "id": "p-26bace",
+    "offset": 1384,
+    "text": "Break up each of the following into two partial Propositions:"
+  },
+  {
+    "id": "p-dc7504",
+    "offset": 1447,
+    "text": "17. All tigers are fierce."
+  },
+  {
+    "id": "p-94b017",
+    "offset": 1475,
+    "text": "18. All hard-boiled eggs are unwholesome."
+  },
+  {
+    "id": "p-d5de33",
+    "offset": 1518,
+    "text": "19. I am happy."
+  },
+  {
+    "id": "p-8801d5",
+    "offset": 1535,
+    "text": "20. John is not at home."
+  },
+  {
+    "id": "p-e79b01",
+    "offset": 1561,
+    "text": "[See pp. 56, 7]"
+  },
+  {
+    "id": "p-b94421",
+    "offset": 1578,
+    "text": "21. Give a rule for knowing, when we look at the larger Diagram, what Attributes belong to the Things contained in each compartment."
+  },
+  {
+    "id": "p-ab9f70",
+    "offset": 1712,
+    "text": "22. Explain 'Premisses', 'Conclusion', and 'Syllogism'. Give examples."
+  },
+  {
+    "id": "p-e87e9b",
+    "offset": 1784,
+    "text": "23. Explain the phrases 'Middle Term' and 'Middle Terms'."
+  },
+  {
+    "id": "p-adf297",
+    "offset": 1843,
+    "text": "24. In marking a pair of Premisses on the larger Diagram, why is it best to mark NEGATIVE Propositions before AFFIRMATIVE ones?"
+  },
+  {
+    "id": "p-0a506c",
+    "offset": 1972,
+    "text": "25. Why is it of no consequence to us, as Logicians, whether the Premisses are true or false?"
+  },
+  {
+    "id": "p-6e9071",
+    "offset": 2067,
+    "text": "26. How can we work Syllogisms in which we are told that \"some x are y\" is to be understood to mean \"the Attribute x, y are COMPATIBLE\", and \"no x are y\" to mean \"the Attributes x, y are INCOMPATIBLE\"?"
+  },
+  {
+    "id": "p-d6ca3e",
+    "offset": 2270,
+    "text": "27. What are the two kinds of 'Fallacies'?"
+  },
+  {
+    "id": "p-673e19",
+    "offset": 2314,
+    "text": "28. How may we detect 'Fallacious Premisses'?"
+  },
+  {
+    "id": "p-ad86a0",
+    "offset": 2361,
+    "text": "29. How may we detect a 'Fallacious Conclusion'?"
+  },
+  {
+    "id": "p-d1dc2e",
+    "offset": 2411,
+    "text": "30. Sometimes the Conclusion, offered to us, is not identical with the correct Conclusion, and yet cannot be fairly called 'Fallacious'. When does this happen? And what name may we give to such a Conclusion?"
+  },
+  {
+    "id": "p-930eb3",
+    "offset": 2620,
+    "text": "[See pp. 57-59]"
+  },
+  {
+    "id": "p-5bef9a",
+    "offset": 2637,
+    "text": "2. Half of Smaller Diagram."
+  },
+  {
+    "id": "p-e2f3df",
+    "offset": 2666,
+    "text": "Propositions to be represented."
+  },
+  {
+    "id": "p-1ee196",
+    "offset": 2699,
+    "text": "----------- | | | | x | | | | --y-----y'-"
+  },
+  {
+    "id": "p-8ad9a9",
+    "offset": 2742,
+    "text": "1. Some x are not-y."
+  },
+  {
+    "id": "p-31fffd",
+    "offset": 2764,
+    "text": "2. All x are not-y."
+  },
+  {
+    "id": "p-150855",
+    "offset": 2785,
+    "text": "3. Some x are y, and some are not-y."
+  },
+  {
+    "id": "p-434b06",
+    "offset": 2823,
+    "text": "4. No x exist."
+  },
+  {
+    "id": "p-2b6831",
+    "offset": 2839,
+    "text": "5. Some x exist."
+  },
+  {
+    "id": "p-dcdb1e",
+    "offset": 2857,
+    "text": "6. No x are not-y."
+  },
+  {
+    "id": "p-037531",
+    "offset": 2877,
+    "text": "7. Some x are not-y, and some x exist."
+  },
+  {
+    "id": "p-63fabf",
+    "offset": 2917,
+    "text": "Taking x=\"judges\"; y=\"just\";"
+  },
+  {
+    "id": "p-d5d729",
+    "offset": 2947,
+    "text": "8. No judges are just."
+  },
+  {
+    "id": "p-a88266",
+    "offset": 2971,
+    "text": "9. Some judges are unjust."
+  },
+  {
+    "id": "p-ffa8f6",
+    "offset": 2999,
+    "text": "10. All judges are just."
+  },
+  {
+    "id": "p-be1db1",
+    "offset": 3025,
+    "text": "Taking x=\"plums\"; y=\"wholesome\";"
+  },
+  {
+    "id": "p-243374",
+    "offset": 3059,
+    "text": "11. Some plums are wholesome."
+  },
+  {
+    "id": "p-27ae03",
+    "offset": 3090,
+    "text": "12. There are no wholesome plums."
+  },
+  {
+    "id": "p-deeef8",
+    "offset": 3125,
+    "text": "13. Plums are some of them wholesome, and some not."
+  },
+  {
+    "id": "p-1200ac",
+    "offset": 3178,
+    "text": "14. All plums are unwholesome."
+  },
+  {
+    "id": "p-dae86c",
+    "offset": 3210,
+    "text": "[See pp. 59, 60]"
+  },
+  {
+    "id": "p-c37e6d",
+    "offset": 3228,
+    "text": "----- | | | x | | |--y--| | | | x' | | -----"
+  },
+  {
+    "id": "p-d50653",
+    "offset": 3274,
+    "text": "Taking y=\"diligent students\"; x=\"successful\";"
+  },
+  {
+    "id": "p-d20871",
+    "offset": 3321,
+    "text": "15. No diligent students are unsuccessful."
+  },
+  {
+    "id": "p-0cdeae",
+    "offset": 3365,
+    "text": "16. All diligent students are successful."
+  },
+  {
+    "id": "p-395c8c",
+    "offset": 3408,
+    "text": "17. No students are diligent."
+  },
+  {
+    "id": "p-f73cb7",
+    "offset": 3439,
+    "text": "18. There are some diligent, but unsuccessful, students."
+  },
+  {
+    "id": "p-7b58db",
+    "offset": 3497,
+    "text": "19. Some students are diligent."
+  },
+  {
+    "id": "p-4de65e",
+    "offset": 3530,
+    "text": "[See pp. 60, 1]"
+  },
+  {
+    "id": "p-66aa7f",
+    "offset": 3547,
+    "text": "3. Half of Smaller Diagram."
+  },
+  {
+    "id": "p-f04f68",
+    "offset": 3576,
+    "text": "Symbols to be interpreted."
+  },
+  {
+    "id": "p-1ee196",
+    "offset": 3604,
+    "text": "----------- | | | | x | | | | --y-----y'-"
+  },
+  {
+    "id": "p-7e89f2",
+    "offset": 3647,
+    "text": "Taking x=\"good riddles\"; y=\"hard\";"
+  },
+  {
+    "id": "p-2995ba",
+    "offset": 3683,
+    "text": "[See pp. 61, 2]"
+  },
+  {
+    "id": "p-e4cf12",
+    "offset": 3700,
+    "text": "Taking x=\"lobster\"; y=\"selfish\";"
+  },
+  {
+    "id": "p-7bbefb",
+    "offset": 3734,
+    "text": "----- | | x | | | |--y'-| | | x' | | | -----"
+  },
+  {
+    "id": "p-eca658",
+    "offset": 3780,
+    "text": "Taking y=\"healthy people\"; x=\"happy\";"
+  },
+  {
+    "id": "p-e38170",
+    "offset": 3819,
+    "text": "[See p. 62]"
+  },
+  {
+    "id": "p-0d3ed8",
+    "offset": 3832,
+    "text": "4. Smaller Diagram."
+  },
+  {
+    "id": "p-e2f3df",
+    "offset": 3853,
+    "text": "Propositions to be represented."
+  },
+  {
+    "id": "p-45897c",
+    "offset": 3886,
+    "text": "----------- | | | | x | |--y--|--y'-| | x' | | | | -----------"
+  },
+  {
+    "id": "p-af4841",
+    "offset": 3950,
+    "text": "1. All y are x."
+  },
+  {
+    "id": "p-40cb28",
+    "offset": 3967,
+    "text": "2. Some y are not-x."
+  },
+  {
+    "id": "p-cbc0d4",
+    "offset": 3989,
+    "text": "3. No not-x are not-y."
+  },
+  {
+    "id": "p-87748c",
+    "offset": 4013,
+    "text": "4. Some x are not-y."
+  },
+  {
+    "id": "p-78e13b",
+    "offset": 4035,
+    "text": "5. Some not-y are x."
+  },
+  {
+    "id": "p-ca3d59",
+    "offset": 4057,
+    "text": "6. No not-x are y."
+  },
+  {
+    "id": "p-13317f",
+    "offset": 4077,
+    "text": "7. Some not-x are not-y."
+  },
+  {
+    "id": "p-6e5c1e",
+    "offset": 4103,
+    "text": "8. All not-x are not-y."
+  },
+  {
+    "id": "p-b8568f",
+    "offset": 4128,
+    "text": "9. Some not-y exist."
+  },
+  {
+    "id": "p-3d541f",
+    "offset": 4150,
+    "text": "10. No not-x exist."
+  },
+  {
+    "id": "p-1b7229",
+    "offset": 4171,
+    "text": "11. Some y are x, and some are not-x."
+  },
+  {
+    "id": "p-b57864",
+    "offset": 4210,
+    "text": "12. All x are y, and all not-y are not-x."
+  },
+  {
+    "id": "p-45d897",
+    "offset": 4253,
+    "text": "[See pp. 62, 3]"
+  },
+  {
+    "id": "p-d1d313",
+    "offset": 4270,
+    "text": "Taking \"nations\" as Universe; x=\"civilised\"; y=\"warlike\";"
+  },
+  {
+    "id": "p-98451b",
+    "offset": 4329,
+    "text": "13. No uncivilised nation is warlike."
+  },
+  {
+    "id": "p-1c8495",
+    "offset": 4368,
+    "text": "14. All unwarlike nations are uncivilised."
+  },
+  {
+    "id": "p-bf882d",
+    "offset": 4412,
+    "text": "15. Some nations are unwarlike."
+  },
+  {
+    "id": "p-8492eb",
+    "offset": 4445,
+    "text": "16. All warlike nations are civilised, and all civilised nations are warlike."
+  },
+  {
+    "id": "p-dc3cd0",
+    "offset": 4524,
+    "text": "17. No nation is uncivilised."
+  },
+  {
+    "id": "p-ea7b4b",
+    "offset": 4555,
+    "text": "Taking \"crocodiles\" as Universe; x=\"hungry\"; and y=\"amiable\";"
+  },
+  {
+    "id": "p-c5f046",
+    "offset": 4618,
+    "text": "18. All hungry crocodiles are unamiable."
+  },
+  {
+    "id": "p-f7286f",
+    "offset": 4660,
+    "text": "19. No crocodiles are amiable when hungry."
+  },
+  {
+    "id": "p-46fa8e",
+    "offset": 4704,
+    "text": "20. Some crocodiles, when not hungry, are amiable; but some are not."
+  },
+  {
+    "id": "p-46f6c3",
+    "offset": 4774,
+    "text": "21. No crocodiles are amiable, and some are hungry."
+  },
+  {
+    "id": "p-1f659c",
+    "offset": 4827,
+    "text": "22. All crocodiles, when not hungry, are amiable; and all unamiable crocodiles are hungry."
+  },
+  {
+    "id": "p-3510a0",
+    "offset": 4919,
+    "text": "23. Some hungry crocodiles are amiable, and some that are not hungry are unamiable."
+  },
+  {
+    "id": "p-2c3339",
+    "offset": 5004,
+    "text": "[See pp. 63, 4]"
+  },
+  {
+    "id": "p-a2f0a4",
+    "offset": 5021,
+    "text": "5. Smaller Diagram."
+  },
+  {
+    "id": "p-f04f68",
+    "offset": 5042,
+    "text": "Symbols to be interpreted."
+  },
+  {
+    "id": "p-45897c",
+    "offset": 5070,
+    "text": "----------- | | | | x | |--y--|--y'-| | x' | | | | -----------"
+  },
+  {
+    "id": "p-00e7b3",
+    "offset": 5134,
+    "text": "Taking \"houses\" as Universe; x=\"built of brick\"; and y=\"two-storied\"; interpret"
+  },
+  {
+    "id": "p-e37ab4",
+    "offset": 5215,
+    "text": "[See p. 65]"
+  },
+  {
+    "id": "p-7aac52",
+    "offset": 5228,
+    "text": "Taking \"boys\" as Universe; x=\"fat\"; and y=\"active\"; interpret"
+  },
+  {
+    "id": "p-c08163",
+    "offset": 5291,
+    "text": "Taking \"cats\" as Universe; x=\"green-eyed\"; and y=\"good-tempered\"; interpret"
+  },
+  {
+    "id": "p-504d49",
+    "offset": 5368,
+    "text": "[See pp. 65, 6]"
+  },
+  {
+    "id": "p-415695",
+    "offset": 5385,
+    "text": "6. Larger Diagram."
+  },
+  {
+    "id": "p-e2f3df",
+    "offset": 5405,
+    "text": "Propositions to be represented."
+  },
+  {
+    "id": "p-a73f55",
+    "offset": 5438,
+    "text": "----------- | | | | --x-- | | | | | | |--y--m--y'-| | | | | | | --x'- | | | | -----------"
+  },
+  {
+    "id": "p-38e084",
+    "offset": 5529,
+    "text": "1. No x are m."
+  },
+  {
+    "id": "p-5a6048",
+    "offset": 5545,
+    "text": "2. Some y are m'."
+  },
+  {
+    "id": "p-7466c1",
+    "offset": 5564,
+    "text": "3. All m are x'."
+  },
+  {
+    "id": "p-5548f6",
+    "offset": 5582,
+    "text": "4. No m' are y'."
+  },
+  {
+    "id": "p-8de51b",
+    "offset": 5600,
+    "text": "5. No m are x; All y are m."
+  },
+  {
+    "id": "p-596fca",
+    "offset": 5629,
+    "text": "6. Some x are m; No y are m."
+  },
+  {
+    "id": "p-44e0d8",
+    "offset": 5659,
+    "text": "7. All m are x'; No m are y."
+  },
+  {
+    "id": "p-3163ff",
+    "offset": 5689,
+    "text": "8. No x' are m; No y' are m'."
+  },
+  {
+    "id": "p-c9b710",
+    "offset": 5720,
+    "text": "[See pp. 67,8]"
+  },
+  {
+    "id": "p-15ccde",
+    "offset": 5736,
+    "text": "Taking \"rabbits\" as Universe; m=\"greedy\"; x=\"old\"; and y=\"black\"; represent"
+  },
+  {
+    "id": "p-b7154c",
+    "offset": 5813,
+    "text": "9. No old rabbits are greedy."
+  },
+  {
+    "id": "p-625f1d",
+    "offset": 5844,
+    "text": "10. Some not-greedy rabbits are black."
+  },
+  {
+    "id": "p-133af4",
+    "offset": 5884,
+    "text": "11. All white rabbits are free from greediness."
+  },
+  {
+    "id": "p-dbe773",
+    "offset": 5933,
+    "text": "12. All greedy rabbits are young."
+  },
+  {
+    "id": "p-e93759",
+    "offset": 5968,
+    "text": "13. No old rabbits are greedy; All black rabbits are greedy."
+  },
+  {
+    "id": "p-89b1f0",
+    "offset": 6030,
+    "text": "14. All rabbits, that are not greedy, are black; No old rabbits are free from greediness."
+  },
+  {
+    "id": "p-5926ea",
+    "offset": 6121,
+    "text": "Taking \"birds\" as Universe; m=\"that sing loud\"; x=\"well-fed\"; and y=\"happy\"; represent"
+  },
+  {
+    "id": "p-55c549",
+    "offset": 6209,
+    "text": "15. All well-fed birds sing loud; No birds, that sing loud, are unhappy."
+  },
+  {
+    "id": "p-3b1ce1",
+    "offset": 6283,
+    "text": "16. All birds, that do not sing loud, are unhappy; No well-fed birds fail to sing loud."
+  },
+  {
+    "id": "p-554318",
+    "offset": 6372,
+    "text": "Taking \"persons\" as Universe; m=\"in the house\"; x=\"John\"; and y=\"having a tooth-ache\"; represent"
+  },
+  {
+    "id": "p-555de5",
+    "offset": 6470,
+    "text": "17. John is in the house; Everybody in the house is suffering from tooth-ache."
+  },
+  {
+    "id": "p-5ef655",
+    "offset": 6550,
+    "text": "18. There is no one in the house but John; Nobody, out of the house, has a tooth-ache."
+  },
+  {
+    "id": "p-ead235",
+    "offset": 6638,
+    "text": "[See pp. 68-70]"
+  },
+  {
+    "id": "p-36042c",
+    "offset": 6655,
+    "text": "Taking \"persons\" as Universe; m=\"I\"; x=\"that has taken a walk\"; y=\"that feels better\"; represent"
+  },
+  {
+    "id": "p-69f843",
+    "offset": 6753,
+    "text": "19. I have been out for a walk; I feel much better."
+  },
+  {
+    "id": "p-f80452",
+    "offset": 6806,
+    "text": "Choosing your own 'Universe' &c., represent"
+  },
+  {
+    "id": "p-df733a",
+    "offset": 6851,
+    "text": "20. I sent him to bring me a kitten; He brought me a kettle by mistake."
+  },
+  {
+    "id": "p-8c0d4d",
+    "offset": 6924,
+    "text": "[See pp. 70, 1]"
+  },
+  {
+    "id": "p-9e817d",
+    "offset": 6941,
+    "text": "7. Both Diagrams to be employed."
+  },
+  {
+    "id": "p-0695ae",
+    "offset": 6975,
+    "text": "----------- | | | ----------- | --x-- | | | | | | | | | | x | |--y--m--y'-| |--y--|--y'-| | | | | | | x' | | --x'- | | | | | | | ----------- -----------"
+  },
+  {
+    "id": "p-27deba",
+    "offset": 7129,
+    "text": "N.B. In each Question, a small Diagram should be drawn, for x and y only, and marked in accordance with the given large Diagram: and then as many Propositions as possible, for x and y, should be read off from this small Diagram."
+  },
+  {
+    "id": "p-76f4b3",
+    "offset": 7359,
+    "text": "[See p. 72]"
+  },
+  {
+    "id": "p-8c2187",
+    "offset": 7372,
+    "text": "Mark, in a large Diagram, the following pairs of Propositions from the preceding Section: then mark a small Diagram in accordance with it, &c."
+  },
+  {
+    "id": "p-be49b0",
+    "offset": 7516,
+    "text": "5. No. 13. [see p. 49] 9. No. 17. 6. No. 14. 10. No. 18. 7. No. 15. 11. No. 19. [see p. 50] 8. No. 16. 12. No. 20."
+  },
+  {
+    "id": "p-78d053",
+    "offset": 7632,
+    "text": "Mark, on a large Diagram, the following Pairs of Propositions: then mark a small Diagram, &c. These are, in fact, Pairs of PREMISSES for Syllogisms: and the results, read off from the small Diagram, are the CONCLUSIONS."
+  },
+  {
+    "id": "p-65b88a",
+    "offset": 7853,
+    "text": "13. No exciting books suit feverish patients; Unexciting books make one drowsy."
+  },
+  {
+    "id": "p-fd18be",
+    "offset": 7934,
+    "text": "14. Some, who deserve the fair, get their deserts; None but the brave deserve the fair."
+  },
+  {
+    "id": "p-f7a29a",
+    "offset": 8023,
+    "text": "15. No children are patient; No impatient person can sit still."
+  },
+  {
+    "id": "p-b1cd30",
+    "offset": 8088,
+    "text": "[See pp. 72-5]"
+  },
+  {
+    "id": "p-6ead6a",
+    "offset": 8104,
+    "text": "16. All pigs are fat; No skeletons are fat."
+  },
+  {
+    "id": "p-15f6c9",
+    "offset": 8149,
+    "text": "17. No monkeys are soldiers; All monkeys are mischievous."
+  },
+  {
+    "id": "p-1f79a2",
+    "offset": 8208,
+    "text": "18. None of my cousins are just; No judges are unjust."
+  },
+  {
+    "id": "p-109f68",
+    "offset": 8264,
+    "text": "19. Some days are rainy; Rainy days are tiresome."
+  },
+  {
+    "id": "p-4cb94c",
+    "offset": 8315,
+    "text": "20. All medicine is nasty; Senna is a medicine."
+  },
+  {
+    "id": "p-243a1b",
+    "offset": 8364,
+    "text": "21. Some Jews are rich; All Patagonians are Gentiles."
+  },
+  {
+    "id": "p-ef51bb",
+    "offset": 8419,
+    "text": "22. All teetotalers like sugar; No nightingale drinks wine."
+  },
+  {
+    "id": "p-8a848d",
+    "offset": 8480,
+    "text": "23. No muffins are wholesome; All buns are unwholesome."
+  },
+  {
+    "id": "p-0542be",
+    "offset": 8537,
+    "text": "24. No fat creatures run well; Some greyhounds run well."
+  },
+  {
+    "id": "p-b4b96b",
+    "offset": 8595,
+    "text": "25. All soldiers march; Some youths are not soldiers."
+  },
+  {
+    "id": "p-ff034b",
+    "offset": 8650,
+    "text": "26. Sugar is sweet; Salt is not sweet."
+  },
+  {
+    "id": "p-527e50",
+    "offset": 8690,
+    "text": "27. Some eggs are hard-boiled; No eggs are uncrackable."
+  },
+  {
+    "id": "p-36abbc",
+    "offset": 8747,
+    "text": "28. There are no Jews in the house; There are no Gentiles in the garden."
+  },
+  {
+    "id": "p-0ec693",
+    "offset": 8821,
+    "text": "[See pp. 75-82]"
+  },
+  {
+    "id": "p-6035a2",
+    "offset": 8838,
+    "text": "29. All battles are noisy; What makes no noise may escape notice."
+  },
+  {
+    "id": "p-a21ce4",
+    "offset": 8905,
+    "text": "30. No Jews are mad; All Rabbis are Jews."
+  },
+  {
+    "id": "p-ae9f29",
+    "offset": 8948,
+    "text": "31. There are no fish that cannot swim; Some skates are fish."
+  },
+  {
+    "id": "p-9296a9",
+    "offset": 9011,
+    "text": "32. All passionate people are unreasonable; Some orators are passionate."
+  },
+  {
+    "id": "p-f96f33",
+    "offset": 9085,
+    "text": "[See pp. 82-84]"
+  }
+]

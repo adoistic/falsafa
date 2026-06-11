@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-autobiography-fd9256",
+  "work_title": "Autobiography",
+  "chapter_number": 4,
+  "chapter_title": "Chapter IV",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "680a78c3-ccad-5bc7-8b11-c581e9c6d93a",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10677,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/10378"
+    }
+  ]
+}

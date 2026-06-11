@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-discourse-on-the-method-e1eae3",
+  "work_title": "Discourse on the Method",
+  "chapter_number": 1,
+  "chapter_title": "Part I",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5ac0a119-f0ee-59b1-82ce-9bfa241f8ef4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2635,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/59"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "p-2e9369",
+    "offset": 0,
+    "text": "INDUCTIVE LOGIC, OR THE LOGIC OF SCIENCE."
+  },
+  {
+    "id": "p-a993c8",
+    "offset": 43,
+    "text": "INTRODUCTION."
+  },
+  {
+    "id": "p-a2da39",
+    "offset": 58,
+    "text": "Perhaps the simplest way of disentangling the leading features of the departments of Logic is to take them in relation to historical circumstances. These features are writ large, as it were, in history. If we recognise that all bodies of doctrine have their origin in practical needs, we may conceive different ages as controlled each by a distinctive spirit, which issues its mandate to the men of the age, assigning to them their distinctive work."
+  },
+  {
+    "id": "p-8733b3",
+    "offset": 509,
+    "text": "The mandate issued to the age of Plato and Aristotle was _Bring your beliefs into harmony one with another_. The Aristotelian Logic was framed in response to this order: its main aim was to devise instruments for making clear the coherence, the concatenation, the mutual implication of current beliefs."
+  },
+  {
+    "id": "p-3cd62f",
+    "offset": 813,
+    "text": "The mandate of the Mediaeval Spirit was _Bring your beliefs into harmony with dogma_. The mediaeval logic was contracted from Aristotle's under this impulse. Induction as conceived by him was neglected, allowed to dwindle, almost to disappear from Logic. Greater prominence was given to Deduction."
+  },
+  {
+    "id": "p-952c7e",
+    "offset": 1112,
+    "text": "Then as Dogmatic Authority became aggressive, and the Church through its officials claimed to pronounce on matters outside Theology, a new spirit was roused, the mandate of which was, _Bring your beliefs into harmony with facts_. It was under this impulse that a body of methodical doctrine vaguely called Induction gradually originated."
+  },
+  {
+    "id": "p-09d539",
+    "offset": 1451,
+    "text": "In dealing with the genesis of the Old Logic, we began with Aristotle. None can dispute his title to be called its founder. But who was the founder of the New Logic? In what circumstances did it originate?"
+  },
+  {
+    "id": "p-8ec310",
+    "offset": 1658,
+    "text": "The credit of founding Induction is usually given to Francis Bacon, Lord Verulam. That great man claimed it for himself in calling his treatise on the Interpretation of Nature the *Novum Organum*. The claim is generally conceded. Reid's account of the matter represents the current belief since Bacon's own time."
+  },
+  {
+    "id": "p-2f6245",
+    "offset": 1972,
+    "text": "\"After man had laboured in the search of truth near two thousand years by the help of Syllogisms, [Lord] Bacon proposed the method of INDUCTION as a more effectual engine for that purpose. His *Novum Organum* gave a new turn to the thoughts and labours of the inquisitive, more remarkable and more useful than that which the *Organon* of Aristotle had given before, and may be considered as a second grand era in the progress of human nature.... Most arts have been reduced to rules after they had been brought to a considerable degree of perfection by the natural sagacity of artists; and the rules have been drawn from the best examples of the art that had been before exhibited; but the art of philosophical induction was delineated by [Lord] Bacon in a very ample manner before the world had seen any tolerable example of it.\""
+  },
+  {
+    "id": "p-39810b",
+    "offset": 2804,
+    "text": "There is a radical misconception here, which, for reasons that I hope to make plain, imperatively needs to be cleared up. It obscures the very essence of \"philosophical induction\"."
+  },
+  {
+    "id": "p-a47878",
+    "offset": 2986,
+    "text": "There are three ways in which movement in any direction may be helped forward, Exhortation, Example, and Precept. Exhortation: a man may exhort to the practice of an art and thereby give a stimulus. Example: he may practise the art himself, and show by example how a thing should be done. Precept: he may formulate a clear method, and so make plain how to do it. Let us see what was Bacon's achievement in each of those three ways."
+  },
+  {
+    "id": "p-f692fd",
+    "offset": 3419,
+    "text": "Undoubtedly Bacon's powerful eloquence and high political position contributed much to make the study of Nature fashionable. He was high in place and great in intellect, one of the commanding personalities of his time. Taking \"all knowledge for his province,\" though study was really but his recreation, he sketched out a plan of universal conquest with a clearness and confidence that made the mob eager to range themselves under his leadership. He was the magnificent demagogue of science. There had been champions of \"Induction\" before him, but they had been comparatively obscure and tongue-tied."
+  },
+  {
+    "id": "p-622d58",
+    "offset": 4021,
+    "text": "While, however, we admit to the full the great services of this mighty advocate in making an \"Inductive\" method popular, we should not forget that he had pioneers even in hortatory leadership. His happiest watchword, the Interpretation of Nature, as distinguished from the Interpretation of Authoritative Books, was not of his invention. If we read Whewell's *History of the Inductive Sciences*, we shall find that many before him had aspired to \"give a new turn to the labors of the inquisitive,\" and in particular to substitute inquisition for disquisition."
+  },
+  {
+    "id": "p-76ad70",
+    "offset": 4582,
+    "text": "One might compile from Whewell a long catalogue of eminent men before Bacon who held that the study of Nature was the proper work of the inquisitive: Leonardo da Vinci (1452-1519), one of the wonders of mankind for versatility, a miracle of excellence in many things, painter, sculptor, engineer, architect, astronomer, and physicist; Copernicus (1473-1543), the author of the Heliocentric theory; Telesius (1508-1588), a theoretical reformer, whose *De Rerum Natura* (1565) anticipated not a little of the *Novum Organum*; Cesalpinus (1520-1603), the Botanist; Gilbert (1540-1603), the investigator of Magnetism. By all these men experiment and observation were advocated as the only way of really increasing knowledge. They all derided mere book-learning. The conception of the world of sense as the original MS. of which systems of philosophy are but copies, was a familiar image with them. So also was Bacon's epigrammatic retort to those who wish to rest on the wisdom of the ancients, that antiquity is the youth of the world and that we are the true ancients. \"We are older,\" said Giordano Bruno, \"and have lived longer than our predecessors.\""
+  },
+  {
+    "id": "p-e2073f",
+    "offset": 5734,
+    "text": "This last argument, indeed, is much older than the sixteenth century. It was used by the Doctor Mirabilis of the thirteenth, the Franciscan Friar, Roger Bacon (1214-1292). \"The later men are, the more enlightened they are; and wise men now are ignorant of much the world will some day know.\" The truth is that if you are in search of a Father for Inductive Philosophy, the mediaeval friar has better claims than his more illustrious namesake. His enthusiasm for the advancement of learning was not less nobly ambitious and far-reaching, and he was himself an ardent experimenter and inventor. His *Opus Majus*--an eloquent outline of his projects for a new learning, addressed in 1265 to Pope Clement IV., through whom he offered to give to the Church the empire of the world as Aristotle had given it to Alexander--was almost incredibly bold, comprehensive and sagacious. Fixing upon Authority, Custom, Popular Opinion, and the Pride of Supposed Knowledge, as the four causes of human ignorance, he urged a direct critical study of the Scriptures, and after an acute illustration of the usefulness of Grammar and Mathematics (widely interpreted), concluded with Experimental Science as the great source of human knowledge. I have already quoted (p. 15) the Friar's distinction between the two modes of Knowing, Argument and Experience, wherein he laid down that it is only experience that makes us feel certain. It were better, he cried in his impatience, to burn Aristotle and make a fresh start than to accept his conclusions without inquiry."
+  },
+  {
+    "id": "p-d19a39",
+    "offset": 7281,
+    "text": "Experimental Science, the sole mistress of Speculative Science, has three great Prerogatives among other parts of Knowledge. First, she tests by experiment the noblest conclusions of all other sciences. Next, she discovers respecting the notions which other sciences deal with, magnificent truths to which these sciences can by no means attain. Her third dignity is that she by her own power and without respect to other sciences investigates the secret of Nature."
+  },
+  {
+    "id": "p-fed26b",
+    "offset": 7747,
+    "text": "So far, then, as Exhortation goes, King James's great lawyer and statesman was not in advance of Pope Clement's friar. Their first principle was the same. It is only by facts that theories can be tested. Man must not impose his own preconceptions (_anticipationes mentis_) on nature. Man is only the interpreter of nature. Both were also at one in holding that the secrets of nature could not be discovered by discussion, but only by observation and experiment."
+  },
+  {
+    "id": "p-3d76c6",
+    "offset": 8210,
+    "text": "Francis Bacon, however, went beyond all his predecessors in furnishing an elaborate Method for the interpretation of Nature. When he protested against the intellect's being left to itself (_intellectus sibi permissus_), he meant more than speculation left unchecked by study of the facts. He meant also that the interpreter must have a method. As man, he says, cannot move rocks by the mere strength of his hands without instruments, so he cannot penetrate to the secrets of Nature by mere strength of his intellect without instruments. These instruments he undertakes to provide in his Inductive Method or _Novum Organum_. And it is important to understand precisely what his methods were, because it is on the ground of them that he is called the founder of Inductive Philosophy, and because this has created a misapprehension of the methods actually followed by men of science."
+  },
+  {
+    "id": "p-2c723e",
+    "offset": 9092,
+    "text": "Ingenious, penetrating, wide-ranging, happy in nomenclature, the *Novum Organum* is a wonderful monument of the author's subtle wit and restless energy; but, beyond giving a general impulse to testing speculative fancies by close comparison with facts, it did nothing for science. His method--with its Tables of Preliminary Muster for the Intellect (*tabulae comparentiae primae instantiarum ad intellectum*, facts collected and methodically arranged for the intellect to work upon); its Elimination upon first inspection of obviously accidental concomitants (*Rejectio sive Exclusiva naturarum*); its Provisional Hypothesis (*Vindemiatio Prima sive Interpretatio Inchoata*); its advance to a true Induction or final Interpretation by examination of special instances (he enumerates twenty-seven, 3 x 3 x 3, *Prerogativas Instantiarum*, trying to show the special value of each for the inquirer)--was beautifully regular and imposing, but it was only a vain show of a method. It was rendered so chiefly by the end or aim that Bacon proposed for the inquirer. In this he was not in advance of his age; on the contrary, he was probably behind Roger Bacon, and certainly far behind such patient and concentrated thinkers as Copernicus, Gilbert, and Galileo--no discredit to the grandeur of his intellect when we remember that science was only his recreation, the indulgence of his leisure from Law and State."
+  },
+  {
+    "id": "p-cc5b35",
+    "offset": 10499,
+    "text": "In effect, his method came to this. Collect as many instances as you can of the effect to be investigated, and the absence of it where you would expect it, arrange them methodically, then put aside guesses at the cause which are obviously unsuitable, then draw up a probably explanation, then proceed to make this exact by further comparison with instances. It is when we consider what he directed the inquirer to search for that we see why so orderly a method was little likely to be fruitful."
+  },
+  {
+    "id": "p-5ce3dc",
+    "offset": 10995,
+    "text": "He starts from the principle that the ultimate object of all knowledge is use, practice (*scimus ut operemur*). We want to know how Nature produces things that we may produce them for ourselves, if we can. The inquirer's first aim, therefore, should be to find out how the qualities of bodies are produced, to discover the *formae* or formal causes of each quality. An example shows what he meant by this. Gold is a crowd or conjugation of various qualities or \"natures\"; it is yellow, it has a certain weight, it is malleable or ductile to a certain degree, it is not volatile (loses nothing under fire), it can be melted, it is soluble. If we knew the *forma* or formal cause of each of those qualities, we could make gold, provided the causes were within our control. The first object, then, of the investigator of Nature is to discover such *formae*, in order to be able to effect the transformation of bodies. It may be desirable also to know the _latens processus_, any steps not apparent to the senses by which a body grows from its first germs or rudiments, and the *schematismus* or ultimate inner constitution of the body. But the discovery of the *formae* of the constituent qualities (*naturae singulae*), heat, colour, density or rarity, sweetness, saltness, and so forth, is the grand object of the Interpreter of Nature; and it is for this that Bacon prescribed his method."
+  },
+  {
+    "id": "p-2594eb",
+    "offset": 12385,
+    "text": "The *Sylva Sylvarum*, or Natural History, a miscellaneous collection of facts and fictions, observations and traditions, with guesses at the explanation of them, affords us a measure of Bacon's own advancement as an interpreter of Nature. It was a posthumous work, and the editor, his secretary, tells us that he often said that if he had considered his reputation he would have withheld it from the world, because it was not digested according to his own method: yet he persuaded himself that the causes therein assigned were far more certain than those rendered by others, \"not for any excellence of his own wit, but in respect of his continual conversation with Nature and Experience,\" and mankind might stay upon them till true Axioms were more fully discovered. When, however, we examine the causes assigned, we find that in practice Bacon could not carry out his own precepts: that he did not attempt to creep up to an explanation by slow and patient ascent, but jumped to the highest generalisations: and that his explanatory notions were taken not from nature, but from the ordinary traditions of mediaeval physical science. He deceived himself, in short, in thinking that he could throw aside tradition and start afresh from observation."
+  },
+  {
+    "id": "p-7191a3",
+    "offset": 13633,
+    "text": "For example. He is struck by the phenomenon of bubbles on water: \"It seemeth somewhat strange that the air should rise so swiftly, while it is in the water, and when it cometh to the top should be stayed by so weak a cover as that of the bubble is\". The swift ascent of the air he explains as a \"motion of percussion,\" the water descending and forcing up the air, and not a \"motion of levity\" in the air itself. \"The cause of the enclosure of the bubble is for that the appetite to resist separation or discontinuance, which is strong in solids, is also in liquors, though fainter and weaker.\" \"The same reason is of the roundness of the bubble, as well for the skin of water as for the air within. For the air likewise avoideth discontinuance, and therefore casteth itself into a round figure. And for the stop and arrest of the air a little while, it showeth that the air of itself hath little or no appetite of ascending.\" These notions were not taken direct from the facts: they descended from Aristotle. He differs from Aristotle, however, in his explanation of the colours of birds' feathers. \"Aristotle giveth the cause vainly\" that birds are more in the beams of the sun than beasts. \"But that is manifestly untrue; for cattle are more in the sun than birds, that live commonly in the woods or in some covert. The true cause is that the excrementitious moisture of living creatures, which maketh as well the feathers in birds as the hair in beasts, passeth in birds through a finer and more delicate strainer than it doth in beasts. For feathers pass through quills, and hair through skin.\" It is an instance of percolation or filtering: other effects of the same cause being the gums of trees, which are but a fine passage or straining of the juice through the wood and bark, and Cornish Diamonds and Rock Rubies, which are in like manner \"fine exudations of stone\"."
+  },
+  {
+    "id": "p-b7bc2c",
+    "offset": 15510,
+    "text": "These examples of Bacon's Inductions are taken from the *Sylva* at random. But the example which best of all illustrates his attitude as a scientific investigator is the remark he makes in the _Novum Organum_ about the Copernican theory. Elsewhere he says that there is nothing to choose between it and the Ptolemaic; and in the _Novum Organum_ (lib. ii. 5) he remarks that \"no one can hope to terminate the question whether in diurnal motion it is really the earth or the sky that rotates, unless he shall first have comprehended the nature of spontaneous rotation\". That is, we must first find out the *forma* or formal cause of spontaneous rotation. This is a veritable *instantia crucis*, as fixing Bacon's place in the mediaeval and not in the new world of scientific speculation."
+  },
+  {
+    "id": "p-6d69b3",
+    "offset": 16297,
+    "text": "Bacon, in short, in the practice of induction did not advance an inch beyond Aristotle. Rather he retrograded, inasmuch as he failed to draw so clear a line between the respective spheres of Inductive collection of facts and Explanation. There are two sources of general propositions, according to Aristotle, Induction and Nous. By Induction he meant the generalisation of facts open to sense, the summation of observed particulars, the *inductio per enumerationem simplicem* of the schoolmen. By Nous he meant the Reason or Speculative Faculty, as exercised with trained sagacity by experts. Thus by Induction we gather that all horned animals ruminate. The explanation of this is furnished by the Nous, and the explanation that commended itself to the trained sagacity of his time was that Nature having but a limited amount of hard material and having spent this on the horns, had none left for teeth, and so provided four stomachs by way of compensation. Bacon's guesses at causes are on the same scientific level with this, only he rather confused matters by speaking of them as if they were inductions from fact, instead of being merely fancies superinduced upon fact. His theory of interpretation, it is true, was so far an advance that he insisted on the necessity of verifying every hypothesis by further appeal to facts, though in practice he himself exercised no such patience and never realised the conditions of verification. Against this, again, must be set the fact that by calling his method induction, and laying so much stress on the collection of facts, he fostered, and, indeed, fixed in the public mind the erroneous idea that the whole work of science consists in observation. The goal of science, as Herschel said, is Explanation, though every explanation must be made to conform to fact, and explanation is only another term for attaining to higher generalisations, higher unities."
+  },
+  {
+    "id": "p-ae7d61",
+    "offset": 18204,
+    "text": "The truth is that Induction, if that is the name we use for scientific method, is not, as Reid conceived, an exception to the usual rule of arts in being the invention of one man. Bacon neither invented nor practised it. It was perfected gradually in the practice of men of science. The birthplace of it as a conscious method was in the discussions of the Royal Society of London, as the birthplace of the Aristotelian Logic was in the discussions of the Athenian schools. Its first great triumph was Newton's law of Gravitation. If we are to name it after its first illustrious practitioner, we must call it the Newtonian method, not the Baconian. Newton really stands to the Scientific Method of Explanation as Aristotle stands to the Method of Dialectic and Deduction. He partly made it explicit in his _Regulae Philosophandi_ (1685). Locke, his friend and fellow-member of the Royal Society, who applied the method to the facts of Mind in his *Essay Concerning Human Understanding* (1691), made it still further explicit in the Fourth Book of that famous work."
+  },
+  {
+    "id": "p-93e0b4",
+    "offset": 19270,
+    "text": "It was, however, a century and a half later that an attempt was first made to incorporate scientific method with Logic under the name of Induction, and add it as a new wing to the old Aristotelian building. This was the work of John Stuart Mill, whose System of Logic, Deductive and Inductive, was first published in 1843."
+  },
+  {
+    "id": "p-b341f0",
+    "offset": 19594,
+    "text": "The genesis of Mill's System of Logic, as of other things, throws light upon its character. And in inquiries into the genesis of anything that man makes we may profitably follow Aristotle's division of causes. The Efficient Cause is the man himself, but we have also to find out the Final Cause, his object or purpose in making the thing, the Material Cause, the sources of his material, and the Formal Cause, the reason why he shaped it as he did. In the case of Mill's system we have to ask: What first moved him to formulate the methods of scientific investigation? Whence did he derive his materials? Why did he give his scientific method the form of a supplement to the old Aristotelian Logic? We cannot absolutely separate the three inquiries, but motive, matter and form each had a traceable influence on the leading features of his System."
+  },
+  {
+    "id": "p-df1f7f",
+    "offset": 20443,
+    "text": "First, then, as to his motive. It is a mistake to suppose that Mill's object was to frame an organon that might assist men of science as ordinarily understood in making discoveries. Bacon, his secretary tells us, was wont to complain that he should be forced to be a Workman and a Labourer in science when he thought he deserved to be an Architect in this building. And men of science have sometimes rebuked Mill for his presumption in that, not being himself an investigator in any department of exact science, he should volunteer to teach them their business. But Mill was really guilty of no such presumption. His object, on the contrary, was to learn their method with a view to its application to subjects that had not yet undergone scientific treatment. Briefly stated, his purpose was to go to the practical workers in the exact sciences, Astronomy, Chemistry, Heat, Light, Electricity, Molar and Molecular Physics; ascertain, not so much how they made their discoveries as how they assured themselves and others that their conclusions were sound; and having ascertained their tests of truth and principles of proof, to formulate these tests so that they might be applied to propositions outside the range of the exact sciences, propositions in Politics, Ethics, History, Psychology. More particularly he studied how scientific men verify, and when they accept as proved, propositions of causation, explanations of the causes of things. In effect, his survey of scientific method was designed to lead up to the Sixth Book in his System, the Logic of the Moral Sciences. There are multitudes of floating endoxes or current opinions concerning man and his concerns, assigning causes for the conduct and character of individuals and of communities. Mill showed himself quite aware that the same modes of investigation may not be practicable, and that it may not be possible, though men are always ready to assign causes with confidence, to ascertain causes with the same degree of certainty: but at least the conditions of exact verification should be the same, and it is necessary to see what they are in order to see how far they can be realised."
+  },
+  {
+    "id": "p-0d47c3",
+    "offset": 22597,
+    "text": "That such was Mill's design in the main is apparent on internal evidence, and it was the internal evidence that first struck me. But there is external evidence as well. We may first adduce some essays on the Spirit of the Age, published in the *Examiner* in 1831, essays which drew from Carlyle the exclamation, \"Here is a new Mystic!\" These essays have never been republished, but they contain Mill's first public expression of the need for a method in social inquiries. He starts from the Platonic idea that no state can be stable in which the judgment of the wisest in political affairs is not supreme. He foresees danger in the prevalent anarchy of opinion. How is it to be averted? How are men to be brought to accept loyally the judgment of the expert in public affairs? They accept at once and without question the decisions of the specially skilled in the physical sciences. Why is this? For one reason, because there is complete agreement among experts. And why is there this complete agreement? Because all accept the same tests of truth, the same conditions of proof. Is it not possible to obtain among political investigators similar unanimity as to their methods of arriving at conclusions, so as to secure similar respect for their authority?"
+  },
+  {
+    "id": "p-f0666c",
+    "offset": 23855,
+    "text": "We need not stop to ask whether this was a vain dream, and whether it must not always be the case that to ensure confidence in a political or moral adviser more is needed than faith in his special knowledge and trained sagacity. Our point is that in 1831 Mill was in search of a method of reasoning in social questions. Opportunely soon after, early in 1832, was published Herschel's _Discourse on the Study of Natural Philosophy_, the first attempt by an eminent man of science to make the methods of science explicit. Mill reviewed this book in the *Examiner*, and there returns more definitely to the quest on which he was bent. \"The uncertainty,\" he says, \"that hangs over the very elements of moral and social philosophy proves that the means of arriving at the truth in those sciences are not yet properly understood. And whither can mankind so advantageously turn, in order to learn the proper means and to form their minds to the proper habits, as to that branch of knowledge in which by universal acknowledgment the greatest number of truths have been ascertained and the greatest possible degree of certainty arrived at?\""
+  },
+  {
+    "id": "p-5e389d",
+    "offset": 24988,
+    "text": "We learn from Mill himself that he made an attempt about this time, while his mind was full of Herschel's Discourse, to connect a scientific method with the body of the Old Logic. But he could not make the junction to his satisfaction, and abandoned the attempt in despair. A little later, in 1837, upon the appearance of Whewell's *History of the Inductive Sciences*, he renewed it, and this time with happier results. Whewell's *Philosophy of the Inductive Sciences* was published in 1840, but by that time Mill's system was definitely shaped."
+  },
+  {
+    "id": "p-07ee13",
+    "offset": 25535,
+    "text": "It was, then, to Herschel and Whewell, but especially to the former, that Mill owed the raw materials of his Inductive Method. But why did he desire to concatenate this with the old Logic? Probably because he considered that this also had its uses for the student of society, the political thinker. He had inherited a respect for the old Logic from his father. But it was the point at which he sought to connect the new material with the old, the point of junction between the two, that determined the form of his system. We find the explanation of this in the history of the old Logic. It so happened that Whately's Logic was in the ascendant, and Whately's treatment of Induction gives the key to Mill's."
+  },
+  {
+    "id": "p-e38897",
+    "offset": 26243,
+    "text": "Towards the end of the first quarter of this century there was a great revival of the study of Logic at Oxford. The study had become mechanical, Aldrich's Compendium, an intelligent but exceedingly brief abstract of the Scholastic Logic, being the text-book beyond which no tutor cared to go. The man who seems to have given new life to the study was a tutor who subsequently became Bishop of Llandaff, Edward Copleston. The first public fruits of the revival begun by him was Whately's article on Logic in the *Encyclopaedia Metropolitana*, published as a separate book in 1827. Curiously enough, one of Whately's most active collaborators in the work was John Henry Newman, so that the common room of Oriel, which Mr. Froude describes as the centre from which emanated the High Church Movement, may also be said to have been the centre from which emanated the movement that culminated in the revolution of Logic."
+  },
+  {
+    "id": "p-2b4bfc",
+    "offset": 27159,
+    "text": "The publication of Whately's Logic made a great stir. It was reviewed by Mill, then a young man of twenty-one, in the *Westminster Review* (1828), and by Hamilton, then forty-five years of age, in the *Edinburgh* (1833). There can be no doubt that it awakened Mill's interest in the subject. A society formed for the discussion of philosophical questions, and called the Speculative Society, met at Grote's house in 1825, and for some years following. Of this society young Mill was a member, and their continuous topic in 1827 was Logic, Whately's treatise being used as a sort of text-book."
+  },
+  {
+    "id": "p-a16e65",
+    "offset": 27753,
+    "text": "It is remarkable that Mill's review of Whately, the outcome of these discussions, says very little about Induction. At that stage Mill's chief concern seems to have been to uphold the usefulness of Deductive Logic, and he even goes so far as to scoff at its eighteenth century detractors and their ambition to supersede it with a system of Induction. The most striking feature of the article is the brilliant defence of the Syllogism as an analysis of arguments to which I have already referred. He does not deny that an Inductive Logic might be useful as a supplement, but apparently he had not then formed the design of supplying such a supplement. When, however, that design seriously entered his mind, consequent upon the felt need of a method for social investigations, it was Whately's conception of Induction that he fell back upon. Historically viewed, his System of Logic was an attempt to connect the practical conditions of proof set forth in Herschel's discourse with the theoretic view of Induction propounded in Whately's. The tag by which he sought to attach the new material to the old system was the Inductive Enthymeme of the Schoolmen as interpreted by Whately."
+  },
+  {
+    "id": "p-4b09c3",
+    "offset": 28935,
+    "text": "Whately's interpretation--or misinterpretation--of this Enthymeme, and the conception of Induction underlying it, since it became Mill's ruling conception of Induction, and virtually the formative principle of his system, deserves particular attention."
+  },
+  {
+    "id": "p-2f7028",
+    "offset": 29189,
+    "text": "\"This, that and the other horned animal, ox, sheep, goat, ruminate; *therefore*, all horned animals ruminate.\""
+  },
+  {
+    "id": "p-4b7923",
+    "offset": 29301,
+    "text": "The traditional view of this Enthymeme I have given in my chapter on Formal Induction (p. 238). It is that a Minor Premiss is suppressed: \"This, that and the other constitute the whole class\". This is the form of the Minor in Aristotle's Inductive Syllogism."
+  },
+  {
+    "id": "p-74f26e",
+    "offset": 29561,
+    "text": "But, Whately argued, how do we know that this, that and the other--the individuals we have examined--constitute the whole class? Do we not assume that what belongs to the individuals examined belongs to the whole class? This tacit assumption, he contended, is really at the bottom of the Enthymeme, and its proper completion is to take this as the Major Premiss, with the enumeration of individuals as the Minor. Thus:--"
+  },
+  {
+    "id": "p-82321e",
+    "offset": 29983,
+    "text": "What belongs to the individuals examined belongs to the whole class."
+  },
+  {
+    "id": "p-02d0ee",
+    "offset": 30053,
+    "text": "The property of the ruminating belongs to the individuals examined, ox, sheep, goat, etc."
+  },
+  {
+    "id": "p-b33347",
+    "offset": 30144,
+    "text": "*Therefore*, it belongs to all."
+  },
+  {
+    "id": "p-0c091c",
+    "offset": 30177,
+    "text": "In answer to this, Hamilton repeated the traditional view, treating Whately's view merely as an instance of the prevailing ignorance of the history of Logic. He pointed out besides that Whately's Major was the postulate of a different kind of inference from that contemplated in Aristotle's Inductive Syllogism, Material as distinguished from Formal inference. This is undeniable if we take this syllogism purely as an argumentative syllogism. The \"all\" of the conclusion simply covers the individuals enumerated and admitted to be \"all\" in the Minor Premiss. If a disputant admits the cases produced to be all and can produce none to the contrary, he is bound to admit the conclusion. Now the inference contemplated by Whately was not inference from an admission to what it implies, but inference from a series of observations to all of a like kind, observed and unobserved."
+  },
+  {
+    "id": "p-e65b47",
+    "offset": 31054,
+    "text": "It is not worth while discussing what historical justification Whately had for his view of Induction. It is at least arguable that the word had come to mean, if it did not mean with Aristotle himself, more than a mere summation of particulars in a general statement. Even Aristotle's respondent in the concession of his Minor admitted that the individuals enumerated constituted all in the truly general sense, not merely all observed but all beyond the range of observation. The point, however, is insignificant. What really signifies is that while Hamilton, after drawing the line between Formal Induction and Material, fell back and entrenched himself within that line, Mill caught up Whately's conception of Induction, pushed forward, and made it the basis of his System of Logic."
+  },
+  {
+    "id": "p-fff294",
+    "offset": 31840,
+    "text": "In Mill's definition, the mere summation of particulars, _Inductio per enumerationem simplicem ubi non reperitur instantia contradictoria_, is Induction improperly so called. The only process worthy of the name is Material Induction, inference to the unobserved. Here only is there an advance from the known to the unknown, a veritable \"inductive hazard\"."
+  },
+  {
+    "id": "p-7739ca",
+    "offset": 32197,
+    "text": "Starting then with this conception of inference to the unobserved as the only true inference, and with an empirical law--a generality extended from observed cases to unobserved--as the type of such inference, Mill saw his way to connecting a new Logic with the old. We must examine this junction carefully, and the brilliant and plausible arguments by which he supported it; we shall find that, biased by this desire to connect the new with the old, he gave a misleading dialectic setting to his propositions, and, in effect, confused the principles of Argumentative conclusion on the one hand and of Scientific Observation and Inference on the other. The conception of Inference which he adopted from Whately was too narrow on both sides for the uses to which he put it. Be it understood that in the central methods both of Syllogistic and of Science, Mill was substantially in accord with tradition; it is in his mode of junction, and the light thereby thrown upon the ends and aims of both, that he is most open to criticism."
+  },
+  {
+    "id": "p-2cb1c3",
+    "offset": 33227,
+    "text": "As regards the relation between Deduction and Induction, Mill's chief proposition was the brilliant paradox that all inference is at bottom Inductive, that Deduction is only a partial and accidental stage in a process the whole of which may be called Induction. An opinion was abroad--fostered by the apparently exclusive devotion of Logic to Deduction--that all inference is essentially Deductive. Not so, answered Mill, meeting this extreme with another: all inference is essentially Inductive. He arrives at this through the conception that Induction is a generalisation from observed particulars, while Deduction is merely the extension of the generalisation to a new case, a new particular. The example that he used will make his meaning plain."
+  },
+  {
+    "id": "p-d383aa",
+    "offset": 33978,
+    "text": "Take a common Syllogism:--"
+  },
+  {
+    "id": "p-6d7262",
+    "offset": 34006,
+    "text": "All men are mortal. Socrates is a man. Socrates is mortal."
+  },
+  {
+    "id": "p-568edd",
+    "offset": 34066,
+    "text": "\"The proposition,\" Mill says, \"that Socrates is mortal is evidently an inference. It is got at as a conclusion from something else. But do we in reality conclude it from the proposition, All men are mortal?\" He answers that this cannot be, because if it is not true that Socrates is mortal it cannot be true that all men are mortal. It is clear that our belief in the mortality of Socrates must rest on the same ground as our belief in the mortality of men in general. He goes on to ask whence we derive our knowledge of the general truth, and answers: \"Of course from observation. Now all which man can observe are individual cases.... A general truth is but an aggregate of particular truths. But a general proposition is not merely a compendious form for recording a number of particular facts.... It is also a process of inference. From instances which we have observed we feel warranted in concluding that what we have found true in those instances, holds in all similar ones, past, present, and future. We then record all that we have observed together with what we infer from our observations, in one concise expression.\" A general proposition is thus at once a summary of particular facts and a memorandum of our right to infer from them. And when we make a deduction we are, as it were, interpreting this memorandum. But it is upon the particular facts that the inference really rests, and Mill contends that we might if we chose infer to the particular conclusion at once without going through the form of a general inference. Thus Mills seeks to make good his point that all inference is essentially Inductive, and that it is only for convenience that the word Induction has been confined to the general induction, while the word Deduction is applied to the process of interpreting our memorandum."
+  },
+  {
+    "id": "p-94cd83",
+    "offset": 35876,
+    "text": "Clear and consecutive as this argument is, it is fundamentally confusing. It confuses the nature of Syllogistic conclusion or Deduction, and at the same time gives a partial and incomplete account of the ground of Material inference."
+  },
+  {
+    "id": "p-e38684",
+    "offset": 36111,
+    "text": "The root of the first confusion lies in raising the question of the ground of material inference in connexion with the Syllogism. As regards the usefulness of the Syllogism, this is an IGNORATIO ELENCHI. That the Major and the conclusion rest upon the same ground as matters of belief is indisputable: but it is irrelevant. In so far as \"Socrates is mortal\" is an inference from facts, it is not the conclusion of a Syllogism. This is implicitly and with unconscious inconsistency recognised by Mill when he represents Deduction as the interpretation of a memorandum. To represent Deduction as the interpretation of a memorandum--a very happy way of putting it and quite in accordance with Roger Bacon's view--is really inconsistent with regarding Deduction as an occasional step in the process of Induction. If Deduction is the interpretation of a memorandum, it is no part of the process of inference from facts. The conditions of correct interpretation as laid down in Syllogism are one thing, and the methods of correct inference from the facts, the methods of science that he was in search of, are another."
+  },
+  {
+    "id": "p-9c9520",
+    "offset": 37224,
+    "text": "Let us emphasise this view of Deduction as the interpretation of a memorandum. It corresponds exactly with the view that I have taken in discussing the utility of the Syllogism. Suppose we want to know whether a particular conclusion is consistent with our memorandum, what have we to look to? We have to put our memorandum into such a form that it is at once apparent whether or not it covers our particular case. The Syllogism aspires to be such a form. That is the end and aim of it. It does not enable us to judge whether the memorandum is a legitimate memorandum or not. It only makes clear that if the memorandum is legitimate, so is the conclusion. How to make clear and consistent memoranda of our beliefs in words is a sufficiently complete description of the main purpose of Deductive Logic."
+  },
+  {
+    "id": "p-34cec1",
+    "offset": 38027,
+    "text": "Instead, then, of trying to present Deduction and Induction as parts of the same process, which he was led to do by his desire to connect the new and the old, Mill ought rather, in consistency as well as in the interests of clear system, to have drawn a line of separation between the two as having really different ends, the conditions of correct conclusion from accepted generalities on the one hand, and the conditions of correct inference from facts on the other. Whether the first should be called inference at all is a question of naming that ought to have been considered by itself. We may refuse to call it inference, but we only confuse ourselves and others if we do not acknowledge that in so doing we are breaking with traditional usage. Perhaps the best way in the interests of clearness is to compromise with tradition by calling the one Formal Inference and the other Material Inference."
+  },
+  {
+    "id": "p-1fbd7b",
+    "offset": 38930,
+    "text": "It is with the latter that the Physical Sciences are mainly concerned, and it was the conditions and methods of its correct performance that Mill desired to systematise in his Inductive Logic. We have next to see how his statement of the grounds of Material Inference was affected by his connexion of Deduction and Induction. Here also we shall find a reason for a clearer separation between the two departments of Logic."
+  },
+  {
+    "id": "p-f6a694",
+    "offset": 39353,
+    "text": "In his antagonism to a supposed doctrine that all reasoning is from general to particular, Mill maintained *simpliciter* that all reasoning is from particulars to particulars. Now this is true only *secundum quid*, and although in the course of his argument Mill introduced the necessary qualifications, the unqualified thesis was confusing. It is perfectly true that we may infer--we can hardly be said to reason--from observed particulars to unobserved. We may even infer, and infer correctly, from a single case. The village matron, called in to prescribe for a neighbour's sick child, infers that what cured her own child will cure the neighbour's, and prescribes accordingly. And she may be right. But it is also true that she may be wrong, and that no fallacy is more common than reasoning from particulars to particulars without the requisite precautions. This is the moral of one of the fables of Camerarius. Two donkeys were travelling in the same caravan, the one laden with salt, the other with hay. The one laden with salt stumbled in crossing a stream, his panniers dipped in the stream, the salt melted, and his burden was lightened. When they came to another stream, the donkey that was laden with hay dipped his panniers in the water, expecting a similar result. Mill's illustrations of correct inference from particulars to particulars were really irrelevant. What we are concerned with in considering the grounds of Inference, is the condition of correct inference, and no inference to an unobserved case is sound unless it is of a like kind with the observed case or cases on which it is founded, that is to say, unless we are entitled to make a general proposition. We need not go through the form of making a general proposition, but if a general proposition for all particulars of a certain description is not legitimate, no more is the particular inference. Mill, of course, did not deny this, he was only betrayed by the turn of his polemic into an unqualified form of statement that seemed to ignore it."
+  },
+  {
+    "id": "p-c5199e",
+    "offset": 41383,
+    "text": "But this was not the worst defect of Mill's attempt at a junction of old and new through Whately's conception of Induction. A more serious defect was due to the insufficiency of this conception to represent all the modes of scientific inference. When a certain attribute has been found in a certain connexion in this, that, and the other, to the extent of all observed instances, we infer that it will be found in all, that the connexion that has obtained within the range of our actual experience has obtained beyond that range and will obtain in the future. Call this an observed uniformity of nature: we hold ourselves justified in expecting that the observed uniformities of nature will continue. Such an observed uniformity--that All animals have a nervous system, that All animals die, that Quinine cures ague--is also called an Empirical Law."
+  },
+  {
+    "id": "p-581ef9",
+    "offset": 42234,
+    "text": "But while we are justified in extending an empirical law beyond the limits within which it has been observed to hold good, it is a mistake to suppose that the main work of science is the collection of empirical laws, and that the only scientific inference is the inference from the observed prevalence of an empirical law to its continuance. With science the collection of empirical laws is only a preliminary: \"the goal of science,\" in Herschel's phrase, \"is explanation\". In giving such prominence to empirical laws in his theory, Mill confined Induction to a narrower scope than science ascribes to it. Science aims at reaching \"the causes of things\": it tries to penetrate behind observed uniformities to the explanation of them. In fact, as long as a science consists only of observed uniformities, as long as it is in the empirical stage, it is a science only by courtesy. Astronomy was in this stage before the discovery of the Law of Gravitation. Medicine is merely empirical as long as its practice rests upon such generalisations as that Quinine cures ague, without knowing why. It is true that this explanation may consist only in the discovery of a higher or deeper uniformity, a more recondite law of connexion: the point is that these deeper laws are not always open to observation, and that the method of reaching them is not merely observing and recording."
+  },
+  {
+    "id": "p-d45986",
+    "offset": 43608,
+    "text": "In the body of his Inductive Logic, Mill gave a sufficient account of the Method of Explanation as practised in scientific inquiry. It was only his mode of approaching the subject that was confusing, and made it appear as if the proper work of science were merely extending observed generalities, as when we conclude that all men will die because all men have died, or that all horned animals ruminate because all hitherto observed have had this attribute. A minor source of confusion incident to the same controversy was his refusing the title of Induction proper to a mere summary of particulars. He seemed thereby to cast a slight upon the mere summation of particulars. And yet, according to his theory, it was those particulars that were the basis of the Induction properly so called. That all men will die is an inference from the observation summed up in the proposition that all men have died. If we refuse the name of Induction to the general proposition of fact, what are we to call it? The truth is that the reason why the word Induction is applied indifferently to the general proposition of fact and the general proposition applicable to all time is that, once we are sure of the facts, the transition to the inference is so simple an affair that it has not been found necessary in practice to distinguish them by different names."
+  },
+  {
+    "id": "p-0f2053",
+    "offset": 44953,
+    "text": "Our criticism of Mill would itself mislead if it were taken to mean that the methods of science which he formulated are not the methods of science or that his system of those methods is substantially incomplete. His Inductive Logic as a system of scientific method was a great achievement in organisation, a veritable *Novum Organum* of knowledge. What kept him substantially right was that the methods which he systematised were taken from the practice of men of science. Our criticism amounts only to this, that in correlating the new system with the old he went upon a wrong track. For more than two centuries Deduction had been opposed to Induction, the *ars disserendi* to the *ars inveniendi*. In trying to reconcile them and bring them under one roof, Mill drew the bonds too tight. In stating the terms of the union between the two partners, he did not separate their spheres of work with sufficient distinctness."
+  },
+  {
+    "id": "p-5947aa",
+    "offset": 45876,
+    "text": "Mill's theory of Deduction and Induction and the voluminous criticism to which in its turn it has been subjected have undoubtedly been of great service in clearing up the foundations of reasoning. But the moral of it is that if we are to make the methods of Science a part of Logic, and to name this department Induction, it is better to discard altogether the questions of General and Particular which are pertinent to Syllogism, and to recognise the new department simply as being concerned with a different kind of inference, inference from facts to what lies beyond them, inference from the observed to the unobserved."
+  },
+  {
+    "id": "p-733ba8",
+    "offset": 46500,
+    "text": "That this is the general aim and proper work of Science is evident from its history. Get at the secrets of Nature by the study of Nature, penetrate to what is unknown and unexperienced by help of what is known and has been experienced, was the cry of the early reformers of Science. Thus only, in Roger Bacon's phrase, could certainty--assured, well grounded, rational belief--be reached. This doctrine, like every other, can be understood only by what it was intended to deny. The way of reaching certainty that Roger Bacon repudiated was argument, discussion, dialectic. This \"concludes a question but does not make us feel certain, or acquiesce in the contemplation of truth that is not also found in Experience\". Argument is not necessarily useless; the proposition combated is only that by it alone--by discussion that does not go beyond accepted theories or conceptions--rational belief about the unknown cannot be reached. The proposition affirmed is that to this end the conclusions of argument must be tested by experience."
+  },
+  {
+    "id": "p-792264",
+    "offset": 47534,
+    "text": "Observation of facts then is a cardinal part of the method of Science. The facts on which our inferences are based, by which our conclusions are tested, must be accurate. But in thus laying emphasis on the necessity of accurate observation, we must beware of rushing to the opposite extreme, and supposing that observation alone is enough. Observation, the accurate use of the senses (by which we must understand inner as well as outer sense), is not the whole work of Science. We may stare at facts every minute of our waking day without being a whit the wiser unless we exert our intellects to build upon them or under them. To make our examination fruitful, we must have conceptions, theories, speculations, to bring to the test. The comparison of these with the facts is the inductive verification of them. Science has to exercise its ingenuity both in making hypotheses and in contriving occasions for testing them by observation. These contrived occasions are its artificial experiments, which have come to be called experiments simply by contrast with conclusive observations for which Nature herself furnishes the occasion. The observations of Science are not passive observations. The word experiment simply means trial, and every experiment, natural or artificial, is the trial of a hypothesis. In the language of Leonardo da Vinci, \"Theory is the general, Experiments are the soldiers\"."
+  },
+  {
+    "id": "p-cd34f7",
+    "offset": 48933,
+    "text": "Observation and Inference go hand in hand in the work of Science, but with a view to a methodical exposition of its methods, we may divide them broadly into Methods of Observation and Methods of Inference. There are errors specially incident to Observation, and errors specially incident to Inference. How to observe correctly and how to make correct inferences from our observations are the two objects of our study in Inductive Logic: we study the examples of Science because they have been successful in accomplishing those objects."
+  },
+  {
+    "id": "p-11afc5",
+    "offset": 49470,
+    "text": "That all inference to the unobserved is founded on facts, on the data of experience, need not be postulated. It is enough to say that Inductive Logic is concerned with inference in so far as it is founded on the data of experience. But inasmuch as all the data of experience are not of equal value as bases of inference, it is well to begin with an analysis of them, if we wish to take a comprehensive survey of the various modes of inference and the conditions of their validity."
+  }
+]

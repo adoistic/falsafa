@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-morley-burke-cfb4a4",
+  "work_title": "Burke",
+  "chapter_number": 8,
+  "chapter_title": "Chapter VIII",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "862d74f8-3064-5e36-836b-b2e215d33cee",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10439,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/12922"
+    }
+  ]
+}

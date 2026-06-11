@@ -1,0 +1,27 @@
+---
+work_id: "ae22bd02-fd87-52d5-9eeb-3396275f694f"
+work_slug: "william-stebbing-analysis-of-mr-mills-system-of-l-ae22bd"
+work_title: "Analysis of Mr. Mill's System of Logic"
+author_name: William Stebbing
+chapter_number: 28
+chapter_title: Chapter XI
+chapter_slug: 28
+variant_id: "0ccc43c7-6ffa-5287-babe-7ad56e60ca6a"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 508
+source_url: "https://www.gutenberg.org/ebooks/30866"
+translator: Project Gutenberg edition
+---
+
+THE LOGIC OF PRACTICE, OR ART; INCLUDING MORALITY AND POLICY.
+
+Practical Ethics, i.e. Morality, is an art; and therefore its Method must be that of Art in general. Now, Art from the major premiss, supplied by itself, viz. that the end is desirable, and from the theorem, lent by Science, of the combinations of circumstances by which the end can be reached, concludes that to secure this combination of circumstances is desirable; if it also appear practicable, it turns the theorem into a rule. Unless Science's report as to the circumstances is a full one, the rule may fail; and as, in any case, rules of conduct cannot comprise more than the ordinary conditions of the effect (or they would be too cumbrous for use), they must, at least in moral subjects, be considered, till confronted with the theorems, which are the reasons of them, provisional only. Practical maxims, therefore, till so confronted, are not universally true even for a given end, much less for conduct generally, and must not be used, as they are by the *geometrical* school, as ultimate premisses.
+
+Any particular art consists of its rules, *together with* the theorems on which they depend; and Art in general consists of the truths of Science; only these must be arranged in the order most convenient, not, as in Science (which is an enquiry into the course of nature), for thought, but for practice. Intermediate scientific truths must be framed to serve as first principles of the various arts: and through them the end or purpose of an art will be connected with the means for realising the conditions of its attainment. The end itself, however, is defined by the art, not by the science. Each art has one first principle or major premiss which does not, as the propositions of Science, assert that a thing *is* or *will be*, but recommends it as what *ought to be*. A scientific theory, however complete, of the history and tendencies of society does not show us (without Teleology, i.e. the Doctrine of Ends) what are the preferable ends. Art itself has its Philosophia Prima, for ascertaining the standard of ends. There can be but one such standard or general principle to which all rules of practice should conform; for, if there were several, a higher yet would be needed, as umpire when they disagreed. In Morality the felt need of a standard has been sometimes supplied by the hypothesis of intuitive moral principles: but a standard would still be wanted for the other two branches of the Art of Life, viz. Prudence or Policy, and Taste; and *their* standard when found would serve for Morality as well. The true standard, or general principle, is, *the promotion of the happiness of* ALL _sentient beings*. This is not the *sole_ end; for instance, ideal nobleness of will or conduct should be pursued in preference to the *specific* pursuit of happiness; but all ends whatsoever must be justified and should be controlled by it.
+
+LONDON PRINTED BY SPOTTISWOODE AND CO. NEW-STREET SQUARE

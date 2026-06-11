@@ -1,0 +1,26 @@
+{
+  "work_slug": "niccolo-machiavelli-the-prince-13b8a5",
+  "work_title": "The Prince",
+  "chapter_number": 8,
+  "chapter_title": "Chapter VIII — CONCERNING THOSE WHO HAVE OBTAINED A PRINCIPALITY BY WICKEDNESS",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd4f3e6f-1510-5544-bbbd-64de0b0588e4",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1548,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/1232"
+    }
+  ]
+}

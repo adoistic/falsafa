@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-our-knowledge-of-the-external-wo-7bfcd1",
+  "work_title": "Our Knowledge of the External World",
+  "chapter_number": 2,
+  "chapter_title": "Lecture II",
+  "chapter_slug": "02-lecture-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "19441f15-21a6-5b99-95c2-3fc3f512eba3",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8307,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/37090"
+    }
+  ]
+}

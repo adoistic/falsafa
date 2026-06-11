@@ -1,0 +1,29 @@
+---
+work_id: "ae22bd02-fd87-52d5-9eeb-3396275f694f"
+work_slug: "william-stebbing-analysis-of-mr-mills-system-of-l-ae22bd"
+work_title: "Analysis of Mr. Mill's System of Logic"
+author_name: William Stebbing
+chapter_number: 4
+chapter_title: Chapter XIV
+chapter_slug: 04
+variant_id: "55b9c3f7-9c4a-58eb-8da1-64ec9f5352e0"
+content_type: translation
+layout: prose
+language: english
+source_language: English
+language_direction: ltr
+script: latin
+word_count: 757
+source_url: "https://www.gutenberg.org/ebooks/30866"
+translator: Project Gutenberg edition
+---
+
+THE LIMITS TO THE EXPLANATION OF LAWS OF NATURE. HYPOTHESES.
+
+The constant tendency of science, operating by the Deductive Method, is to resolve all laws, even those which once seemed ultimate and not derivative, into others still more general. But no process of *resolving* will ever reduce the number of ultimate laws below the number of those varieties of our feelings which are distinguishable in quality, and not merely in quantity or degree. The *ideal* limit of the explanation of natural phenomena is to show that each of these ultimate facts has (since the differences in the different cases of it affect our sensations as differences in degree only, and not in quality) only one sort of cause or mode of production; and that all the seemingly different modes of production or causes of it are resolvable into one. But *practically* this limit is never attained. Thus, though various laws of Causes of Motion have been resolved into others (e.g. the fall of bodies to the earth, and the motions of the planets, into the one law of mutual attraction), many causes of it remain still unresolved and distinct.
+
+Hypotheses are made for the sake of this resolving and explaining of laws. When we do not *know* of any more general laws into which to resolve an uniformity, we then (either on no or on insufficient evidence) *suppose* some, imagining either causes (as, e.g. Descartes did the Vortices), or the laws of their operation (as did Newton respecting the planetary central force); but we never feign both cause and law. The use of a hypothesis is to enable us to apply the Deductive Method before the laws of the causes have been ascertained by Induction. In those cases where a false law could not have led to a true result (as was the case with Newton's hypothesis as to the law of the Attractive force) the third part of the process in the Deductive Method, viz. Verification, which shows that the results deduced are true, amounts to a complete induction, and one conforming to the canon of the Method of Difference. But this is the case only when either the cause is known to be one given agent (and only its law is unknown), or to be one of several given agents.
+
+An assumed cause, on the other hand, cannot be accepted as true simply *because* it explains the phenomena (since two conflicting hypotheses often do this even originally, or, as Dr. Whewell himself allows, may at any rate by modifications be made to do it); nor *because* it moreover leads to the prediction of other results which turn out true (since this shows only what was indeed apparent already from its agreement with the old facts, viz. that the phenomena are governed by laws partially identical with the laws of other causes); nor *because* we cannot imagine any other hypothesis which will account for the facts (since there may be causes unknown to our present experience which will equally account for them). The utility of such assumptions *of causes* depends on their being, in their own nature, *capable* (as Descartes' Vortices were not, though possibly the Luminiferous Ether may be) of being, at some time or other, proved directly by independent evidence to be the causes. And this was, perhaps, all that Newton meant by his _veræ causæ_, which alone, he said, may be assigned as causes of phenomena. Assumptions of causes, which fulfil this condition, are, in science, even indispensable, with a view both to experimental inquiry, and still more to the application of the Deductive Method. They may be accepted, not indeed, as Dr. Whewell thinks they may be, as proof, but as suggesting a line of experiment and observation which may result in proof. And this is actually the method used by practical men for eliciting the truth from involved statements. They first extemporise, from a few of the particulars, a rude theory of the mode in which the event happened; and then keep altering it to square with the rest of the facts, which they review one by one.
+
+The attempting, as in Geology, to conjecture, in conformity with known laws, in what former collocations of known agents (though *not* known to have been formerly present) individual existing facts may have originated, is not Hypothesis but Induction; for then we do not *suppose* causes, but legitimately infer from known effects to unknown causes. Of this nature was Laplace's theory, whether weak or not, as to the origin of the earth and planets.

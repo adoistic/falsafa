@@ -1,0 +1,26 @@
+{
+  "work_slug": "bertrand-russell-the-problems-of-philosophy-47c80e",
+  "work_title": "The Problems of Philosophy",
+  "chapter_number": 11,
+  "chapter_title": "Chapter XI — ON INTUITIVE KNOWLEDGE",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5c897816-3626-5e76-93ee-bf294f8dd1f7",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2069,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/5827"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "rene-descartes-selections-from-the-principles-o-d4ee5f",
+  "work_title": "Selections from the Principles of Philosophy",
+  "chapter_number": 1,
+  "chapter_title": "Part I — OF THE PRINCIPLES OF HUMAN KNOWLEDGE",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ebe84621-88a9-5cae-9219-e051dbd61a36",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12708,
+      "paragraph_count": 153,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4391"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "p-f4dafe",
+    "offset": 0,
+    "text": "*The Disjunctive Syllogism regarded as an Immediate Inference*."
+  },
+  {
+    "id": "p-b4fe3f",
+    "offset": 65,
+    "text": "§ 770. If no stress be laid on the transition from disjunctive hypothesis to fact, the disjunctive syllogism will run with the same facility as its predecessor into the moulds of immediate inference."
+  },
+  {
+    "id": "p-929ac6",
+    "offset": 266,
+    "text": "*Denial of Antecedent*. Subalternation."
+  },
+  {
+    "id": "p-2ef351",
+    "offset": 307,
+    "text": "Either A is B or C is D, Every case of A not being B is a case of C being D. .'. A not being B, C is D. .'. Some case of A not being B is a case of C being D."
+  },
+  {
+    "id": "p-b79ced",
+    "offset": 467,
+    "text": "*Denial of Consequent*. Conversion by Contraposition + Subalternation."
+  },
+  {
+    "id": "p-7ba0f0",
+    "offset": 539,
+    "text": "Either A is B or C is D. All cases of A not being B are cases of C being D. .'. C not being D, A is B .'. All cases of C not being D are cases of A being B. .'. Some case of C not being D is a case of A being B."
+  },
+  {
+    "id": "p-eeed09",
+    "offset": 752,
+    "text": "§ 773. Similarly the two invalid types of disjunctive syllogism will be found to coincide with fallacies of immediate inference."
+  },
+  {
+    "id": "p-13779c",
+    "offset": 882,
+    "text": "*Affirmation of Antecedent*. Contraposition without Conversion."
+  },
+  {
+    "id": "p-f6d56e",
+    "offset": 947,
+    "text": "Either A is B or C is D. All cases of A not being B are cases of C being D. .'. A being B, C is not D .'. All cases of A being B are cases of C not being D."
+  },
+  {
+    "id": "p-08fd73",
+    "offset": 1105,
+    "text": "§ 775. The affirmation of the antecedent thus comes under the formula--"
+  },
+  {
+    "id": "p-cf584c",
+    "offset": 1178,
+    "text": "All not-A is B, .'. All A is not-B,"
+  },
+  {
+    "id": "p-622e2b",
+    "offset": 1215,
+    "text": "a form of inference which cannot hold except where A and B are known to be incompatible. Who, for instance, would assent to this?--"
+  },
+  {
+    "id": "p-d2beb3",
+    "offset": 1348,
+    "text": "All non-boating men play cricket. .'. All boating men are non-cricketers."
+  },
+  {
+    "id": "p-2127da",
+    "offset": 1423,
+    "text": "*Affirmation of Consequent*. Simple Conversion of A."
+  },
+  {
+    "id": "p-19416e",
+    "offset": 1477,
+    "text": "Either A is B or C is D. All cases of A not being B are cases of C being D. .'.C being D, A is not B. .'. All cases of C being D are cases of A not being B."
+  },
+  {
+    "id": "p-a2be62",
+    "offset": 1635,
+    "text": "§ 777. We may however argue in this way--"
+  },
+  {
+    "id": "p-0bf3d9",
+    "offset": 1678,
+    "text": "Conversion of A per accidens. Either A is B or C is D. All cases of A not being B are cases of C being D. .'. C being D, A is sometimes B. .'. Some cases of C being D are cases of A not being B."
+  },
+  {
+    "id": "p-14168b",
+    "offset": 1874,
+    "text": "The men who pass this examination must have either talent or industry. .'. Granting that they are industrious, they may be without talent."
+  }
+]

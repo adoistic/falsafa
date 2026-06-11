@@ -1,0 +1,26 @@
+{
+  "work_slug": "friedrich-nietzsche-beyond-good-and-evil-7eb383",
+  "work_title": "Beyond Good and Evil",
+  "chapter_number": 5,
+  "chapter_title": "Chapter V — THE NATURAL HISTORY OF MORALS",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e402b153-b01a-5cad-bf0b-e030d32300de",
+      "language": "english",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 7016,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://www.gutenberg.org/ebooks/4363"
+    }
+  ]
+}
