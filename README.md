@@ -21,7 +21,7 @@ the rule-based wiki layer — `read_wiki` and `read_wiki_full`),
 zero API keys, zero state, zero inference cost on our side. Karpathy-flavored:
 the MCP is a librarian, not a second LLM. Your model does the reasoning.
 
-> First run downloads ~48 MB (the corpus ships inside the tarball). If your
+> First run downloads the corpus snapshot (~185 MB compressed, ~800 MB on disk) from a GitHub release into your cache, verifies its checksum, and builds a local search index; the npm package itself is ~100 KB. If your
 > MCP client times out before the download completes, run
 > `npx -y @falsafa/mcp` once in a terminal first to warm npm's cache.
 
