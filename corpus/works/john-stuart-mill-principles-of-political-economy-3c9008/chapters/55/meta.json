@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 55,
+  "chapter_title": "CHAPTER XXIII. OF THE RATE OF INTEREST.",
+  "chapter_slug": "55",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cff7142c-2c7e-5399-b0a1-95a8ed74b39e",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5467,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

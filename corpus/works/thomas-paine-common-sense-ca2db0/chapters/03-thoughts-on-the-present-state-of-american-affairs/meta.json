@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-paine-common-sense-ca2db0",
+  "work_title": "Common Sense",
+  "chapter_number": 3,
+  "chapter_title": "THOUGHTS, on the present STATE of AMERICAN AFFAIRS.",
+  "chapter_slug": "03-thoughts-on-the-present-state-of-american-affairs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f941b2da-c40d-59fb-930c-dab586d0d96a",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6241,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/EnglishClassicalLiberals/Paine/1776-CommonSense/index.html"
+    }
+  ]
+}

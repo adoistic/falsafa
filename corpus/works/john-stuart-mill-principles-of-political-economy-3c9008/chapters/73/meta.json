@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 73,
+  "chapter_title": "CHAPTER VIII. OF THE ORDINARY FUNCTIONS OF GOVERNMENT, CONSIDERED AS TO THEIR ECONOMICAL EFFECTS.",
+  "chapter_slug": "73",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "474d887f-dd20-5688-8464-85fa1aadc4af",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3112,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

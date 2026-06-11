@@ -43,6 +43,11 @@ interface HartWork {
   translator: string;
   /** h3 headings to skip (site chrome, not chapters) */
   skip_headings: string[];
+  /** When set, ONLY h3 headings matching this regex become chapters
+      (the Guillaumin multi-pane readers mix chrome and content). */
+  heading_allow?: string;
+  /** True for works written in English: stored as originals, no translator. */
+  original_english?: boolean;
 }
 
 function uuidFrom(input: string): string {
@@ -69,10 +74,15 @@ function decodeEntities(s: string): string {
 }
 
 function textOf(html: string): string {
-  return decodeEntities(html.replace(/<[^>]+>/g, " "))
-    .replace(/↩/g, "") // the back-arrow anchors on headings
-    .replace(/\s+/g, " ")
-    .trim();
+  return (
+    decodeEntities(html.replace(/<[^>]+>/g, " "))
+      .replace(/↩/g, "") // the back-arrow anchors on headings
+      // edition page markers rendered as text: [ I-6 ], [ II-410 ], [ I-vi ], [ 113 ]
+      .replace(/\[\s*[IVX]+-[0-9ivxlc]+b?\s*\]/g, " ")
+      .replace(/\[\s*[0-9]{1,3}b?\s*\]/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+  );
 }
 
 const works = JSON.parse(
@@ -87,14 +97,21 @@ for (const w of works.works) {
     maxBuffer: 32 * 1024 * 1024,
   }).toString("utf-8");
 
+  // Guillaumin reader cleanup: Cannan-style margin notes are inline spans,
+  // endnote references are bracketed anchors; both leave the text stream.
+  const cleaned = html
+    .replace(/<span class="margnote[^"]*">[\s\S]*?<\/span>/g, " ")
+    .replace(/\[\s*<a[^>]*>\s*\d+\s*<\/a>\s*\]/g, " ");
+
   // chapters = h3 sections; paragraphs = <p> within each section
-  const parts = html.split(/<h3\b[^>]*>/).slice(1);
+  const parts = cleaned.split(/<h3\b[^>]*>/).slice(1);
   const chapters: { title: string; paragraphs: string[] }[] = [];
   for (const part of parts) {
     const endTitle = part.indexOf("</h3>");
     const title = textOf(part.slice(0, endTitle));
     if (!title || w.skip_headings.some((sk) => title.toLowerCase().startsWith(sk.toLowerCase())))
       continue;
+    if (w.heading_allow && !new RegExp(w.heading_allow, "i").test(title)) continue;
     const bodyHtml = part.slice(endTitle + 5);
     const paragraphs = [...bodyHtml.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/g)]
       .map((m) => textOf(m[1]!))
@@ -118,7 +135,7 @@ for (const w of works.works) {
       chapter_id: chapterId,
       chapter_number: i + 1,
       chapter_title: c.title,
-      content_type: "translation",
+      content_type: w.original_english ? "original" : "translation",
       layout: "prose",
       language_name: "English",
       script: "latin",
@@ -135,8 +152,8 @@ for (const w of works.works) {
       content,
       chapter_number: i + 1,
       word_count: wordCount,
-      is_original: false,
-      translator: w.translator,
+      is_original: w.original_english ?? false,
+      translator: w.original_english ? undefined : w.translator,
     };
   });
 
@@ -154,7 +171,7 @@ for (const w of works.works) {
     era: { name: w.era },
     genre: { name: w.genre },
     language: { name: w.language, direction: "ltr" },
-    description: `${w.description} Translated by ${w.translator}.`,
+    description: w.original_english ? w.description : `${w.description} Translated by ${w.translator}.`,
     difficulty: w.difficulty,
     is_published: true,
     published_year: w.published_year,

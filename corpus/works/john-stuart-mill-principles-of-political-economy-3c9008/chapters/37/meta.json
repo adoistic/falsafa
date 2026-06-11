@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 37,
+  "chapter_title": "CHAPTER VI. SUMMARY OF THE THEORY OF VALUE.",
+  "chapter_slug": "37",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dc4f15f2-62d8-581a-8d32-caa5085c2b30",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1972,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

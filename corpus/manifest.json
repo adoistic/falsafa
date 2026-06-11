@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-06-11T10:50:40.374Z",
+ "generated_at": "2026-06-11T11:17:32.310Z",
  "source": "neondb + Perseus Digital Library tranche (scripts/perseus/)",
  "counts": {
-  "works": 52,
-  "authors": 31,
+  "works": 55,
+  "authors": 34,
   "eras": 5,
   "genres": 5,
-  "languages": 8
+  "languages": 9
  },
  "works": [
   {
@@ -996,6 +996,63 @@
    "difficulty": "Intermediate",
    "description": "Molinari's late forecast of a world ordered by free contract: the state of war giving way to the state of peace, written at the end of six decades of argument. The 1904 English edition, from the shelves of David Hart's Digital Library of Liberty and Power. Translated by P. H. Lee Warner (1904).",
    "thothica_role": "catalog"
+  },
+  {
+   "slug": "thomas-paine-common-sense-ca2db0",
+   "title": "Common Sense",
+   "author": "Thomas Paine",
+   "author_slug": "thomas-paine",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Political & Social Theory",
+   "genre_slug": "political-social-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 4,
+   "total_variant_entries": 4,
+   "published_year": 1776,
+   "difficulty": "Beginner",
+   "description": "The pamphlet that turned a colonial tax dispute into an argument for independence, in the first-edition text of January 1776. Originally English; from the shelves of David Hart's Digital Library of Liberty and Power.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+   "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+   "author": "Adam Smith",
+   "author_slug": "adam-smith",
+   "era": "Enlightenment",
+   "era_slug": "enlightenment",
+   "genre": "Political & Social Theory",
+   "genre_slug": "political-social-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 36,
+   "total_variant_entries": 36,
+   "published_year": 1776,
+   "difficulty": "Advanced",
+   "description": "The founding book of political economy, in Edwin Cannan's scholarly edition of 1904. Originally English; from the shelves of David Hart's Digital Library of Liberty and Power.",
+   "thothica_role": "catalog"
+  },
+  {
+   "slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+   "title": "Principles of Political Economy",
+   "author": "John Stuart Mill",
+   "author_slug": "john-stuart-mill",
+   "era": "19th Century",
+   "era_slug": "19th-century",
+   "genre": "Political & Social Theory",
+   "genre_slug": "political-social-theory",
+   "language": "English",
+   "language_slug": "english",
+   "language_direction": "ltr",
+   "total_logical_chapters": 76,
+   "total_variant_entries": 76,
+   "published_year": 1871,
+   "difficulty": "Advanced",
+   "description": "The textbook of classical political economy in its author's final text, the seventh edition of 1871. Originally English; from the shelves of David Hart's Digital Library of Liberty and Power.",
+   "thothica_role": "catalog"
   }
  ],
  "authors": {
@@ -1205,6 +1262,24 @@
    "works": [
     "gustave-de-molinari-the-society-of-tomorrow-3bed3e"
    ]
+  },
+  "thomas-paine": {
+   "name": "Thomas Paine",
+   "works": [
+    "thomas-paine-common-sense-ca2db0"
+   ]
+  },
+  "adam-smith": {
+   "name": "Adam Smith",
+   "works": [
+    "adam-smith-an-inquiry-into-the-nature-and-c-915b31"
+   ]
+  },
+  "john-stuart-mill": {
+   "name": "John Stuart Mill",
+   "works": [
+    "john-stuart-mill-principles-of-political-economy-3c9008"
+   ]
   }
  },
  "eras": {
@@ -1270,7 +1345,8 @@
     "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
     "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
     "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
-    "gustave-de-molinari-the-society-of-tomorrow-3bed3e"
+    "gustave-de-molinari-the-society-of-tomorrow-3bed3e",
+    "john-stuart-mill-principles-of-political-economy-3c9008"
    ]
   },
   "enlightenment": {
@@ -1282,7 +1358,9 @@
     "charles-comte-traite-de-legislation-vol-iv-bca040",
     "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
     "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
-    "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+    "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+    "thomas-paine-common-sense-ca2db0",
+    "adam-smith-an-inquiry-into-the-nature-and-c-915b31"
    ]
   }
  },
@@ -1338,7 +1416,10 @@
     "charles-comte-traite-de-legislation-vol-iii-ca589a",
     "charles-comte-traite-de-legislation-vol-iv-bca040",
     "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
-    "gustave-de-molinari-the-society-of-tomorrow-3bed3e"
+    "gustave-de-molinari-the-society-of-tomorrow-3bed3e",
+    "thomas-paine-common-sense-ca2db0",
+    "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+    "john-stuart-mill-principles-of-political-economy-3c9008"
    ]
   },
   "philosophy": {
@@ -1456,6 +1537,14 @@
    "works": [
     "lucretius-de-rerum-natura-4543ca",
     "virgil-aeneid-659242"
+   ]
+  },
+  "english": {
+   "name": "English",
+   "works": [
+    "thomas-paine-common-sense-ca2db0",
+    "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+    "john-stuart-mill-principles-of-political-economy-3c9008"
    ]
   }
  }

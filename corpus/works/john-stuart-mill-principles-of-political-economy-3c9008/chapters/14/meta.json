@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 14,
+  "chapter_title": "CHAPTER XII. OF THE LAW OF THE INCREASE OF PRODUCTION FROM LAND.",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dc2dedf7-8c5c-5c89-b1b0-2e6a5baeb580",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5478,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

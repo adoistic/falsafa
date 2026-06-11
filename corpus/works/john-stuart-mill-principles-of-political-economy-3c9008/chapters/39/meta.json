@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 39,
+  "chapter_title": "CHAPTER VII. OF MONEY",
+  "chapter_slug": "39",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "11b86619-9526-58b5-b329-731931d8a739",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2567,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

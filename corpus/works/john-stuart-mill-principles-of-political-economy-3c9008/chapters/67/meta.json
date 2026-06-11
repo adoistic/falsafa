@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 67,
+  "chapter_title": "CHAPTER II. ON THE GENERAL PRINCIPLES OF TAXATION.",
+  "chapter_slug": "67",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a1e6ea7e-008d-50c2-babf-de913ce917c0",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8358,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

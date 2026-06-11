@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 11,
+  "chapter_title": "CHAPTER IX. OF PRODUCTION ON A LARGE, AND PRODUCTION ON A SMALL SCALE.",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "80a40576-4351-55f4-99fb-c04374c5d839",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 9188,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

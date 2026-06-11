@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 57,
+  "chapter_title": "CHAPTER XXV. OF THE COMPETITION OF DIFFERENT COUNTRIES IN THE SAME MARKET.",
+  "chapter_slug": "57",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ea7d28c4-2919-5847-975d-b35a0d8591c7",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4033,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

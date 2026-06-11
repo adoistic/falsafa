@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 10,
+  "chapter_title": "CHAPTER VIII. OF CO-OPERATION, OR THE COMBINATION OF LABOUR.",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8c0da613-beba-5c30-95dd-44a0fb747d88",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6560,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+  "work_title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "chapter_number": 18,
+  "chapter_title": "CHAPTER IV. OF STOCK LENT AT INTEREST",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8c33ec49-eb75-5f1b-a3f1-ae997d79b236",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3632,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Smith_WoN-CannanEdition1904/Smith_WoN-Cannan1904-4Panes.margnotes.html"
+    }
+  ]
+}

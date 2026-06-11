@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 53,
+  "chapter_title": "CHAPTER XXI. OF THE DISTRIBUTION OF THE PRECIOUS METALS THROUGH THE COMMERCIAL WORLD.",
+  "chapter_slug": "53",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6a89bfca-ffb0-5944-9cc6-8f683d135875",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3304,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

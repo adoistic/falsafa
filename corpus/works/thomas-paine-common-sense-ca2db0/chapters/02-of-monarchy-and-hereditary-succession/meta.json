@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-paine-common-sense-ca2db0",
+  "work_title": "Common Sense",
+  "chapter_number": 2,
+  "chapter_title": "Of MONARCHY and hereditary succession.",
+  "chapter_slug": "02-of-monarchy-and-hereditary-succession",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e4492372-e075-5d2a-b46f-8a46bc755bdb",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3482,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/EnglishClassicalLiberals/Paine/1776-CommonSense/index.html"
+    }
+  ]
+}

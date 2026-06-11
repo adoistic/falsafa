@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+  "work_title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "chapter_number": 32,
+  "chapter_title": "CHAPTER IX. OF THE AGRICULTURAL SYSTEMS, OR OF THOSE SYSTEMS OF POLITICAL ŒCONOMY, WHICH REPRESENT THE PRODUCE OF LAND AS EITHER THE SOLE OR THE PRINCIPAL SOURCE OF THE REVENUE AND WEALTH OF EVERY COUNTRY",
+  "chapter_slug": "32",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d913737b-803a-57c4-b202-a9e69bf32d35",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 10826,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Smith_WoN-CannanEdition1904/Smith_WoN-Cannan1904-4Panes.margnotes.html"
+    }
+  ]
+}

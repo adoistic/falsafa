@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 22,
+  "chapter_title": "CHAPTER VII. CONTINUATION OF THE SAME SUBJECT.",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "11697139-7463-55e9-a004-382ba4cbc9fb",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5760,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

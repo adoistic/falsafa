@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 41,
+  "chapter_title": "CHAPTER IX. OF THE VALUE OF MONEY, AS DEPENDENT ON COST OF PRODUCTION.",
+  "chapter_slug": "41",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "13990c6e-90a6-51df-99d9-e0c1f64e84b8",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2867,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

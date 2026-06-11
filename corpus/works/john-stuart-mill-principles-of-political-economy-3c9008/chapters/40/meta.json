@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 40,
+  "chapter_title": "CHAPTER VIII. OF THE VALUE OF MONEY, AS DEPENDENT ON DEMAND AND SUPPLY.",
+  "chapter_slug": "40",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3b7d03fd-3dfe-54d2-a61b-15ebf006b92f",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4245,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

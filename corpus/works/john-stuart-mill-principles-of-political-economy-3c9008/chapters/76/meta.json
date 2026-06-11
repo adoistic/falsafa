@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 76,
+  "chapter_title": "CHAPTER XI. OF THE GROUNDS AND LIMITS OF THE LAISSER-FAIRE OR NON-INTERFERENCE PRINCIPLE.",
+  "chapter_slug": "76",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aa885114-05eb-5132-8e15-f3a491341a2f",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 15657,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

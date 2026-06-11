@@ -57,7 +57,12 @@ const html = renderMarkdownWithParagraphIds(cleaned, sidecar);
 // Only English translation variants are indexed by Pagefind. Transliterations
 // (romanized) and originals (source script) are quote-only material and would
 // pollute the search corpus with romanized noise.
-const indexable = frontmatter.content_type === "translation";
+// Translations are the search surface; native-English originals (Paine,
+// Smith, Mill) belong there too, matching the MCP's english scope.
+const indexable =
+  frontmatter.content_type === "translation" ||
+  (frontmatter.content_type === "original" &&
+    frontmatter.language?.toLowerCase() === "english");
 ---
 
 {
