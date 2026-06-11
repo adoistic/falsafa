@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-philopoemen-3f9a39",
+  "work_title": "Philopoemen",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f12f662d-7257-5587-a6bc-f5e64323a2de",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 363,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg027.perseus-grc2:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8f45c89-5cc5-5218-880f-df91d5fbd88e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 569,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg027.perseus-eng2:9"
+    }
+  ]
+}

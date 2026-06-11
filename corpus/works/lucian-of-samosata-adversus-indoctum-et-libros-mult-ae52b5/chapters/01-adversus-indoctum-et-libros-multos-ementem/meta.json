@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-adversus-indoctum-et-libros-mult-ae52b5",
+  "work_title": "Adversus indoctum et libros multos ementem",
+  "chapter_number": 1,
+  "chapter_title": "Adversus indoctum et libros multos ementem",
+  "chapter_slug": "01-adversus-indoctum-et-libros-multos-ementem",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "15a540b0-792a-5db6-92b7-93d4528c497c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3816,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg028.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cbd2cda8-7a40-5095-b5b5-818e78ecf19b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4684,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg028.perseus-eng4"
+    }
+  ]
+}

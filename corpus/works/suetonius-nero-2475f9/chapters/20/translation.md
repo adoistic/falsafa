@@ -1,0 +1,21 @@
+---
+work_id: "2475f9a8-4d68-51ad-9a33-09da1364cda0"
+work_slug: "suetonius-nero-2475f9"
+work_title: Nero
+author_name: Suetonius
+chapter_number: 20
+chapter_title: Chapter 21
+chapter_slug: 20
+variant_id: "424c1445-b568-58be-b405-f7a7d4c8c6e4"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 356
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo016.perseus-eng2:20"
+translator: Perseus Digital Library
+---
+
+At Rome also, being extremely proud of his singing, he ordered the games called Neronia to be celebrated before the time fixed for their return. All now becoming importunate to hear "his heavenly voice," he informed them, "that he would gratify those who desired it at the gardens." But the soldiers then on guard seconding the voice of the people, he promised to comply with their request immediately, and with all his heart. He instantly ordered his name to be entered upon the list of musicians who proposed to contend, and having thrown his lot into the urn among the rest, took his turn, and entered, attended by the prefects of the pretorian cohorts bearing his harp, and followed by the military tribunes, and several of his intimate friends. After he had taken his station, and made the usual prelude, he commanded Cluvius Rufus, a man of consular rank, to proclaim in the theatre, that he intended to sing the story of Niobe. This he accordingly did, and continued it until nearly ten o'clock, but deferred the disposal of the crown, and the remaining part of the solemnity, until the next year; that he might have more frequent opportunities of performing. But that being too long, he could not refrain from often appearing as a public performer during the interval. He made no scruple of exhibiting on the stage, even in the spectacles presented to the people by private persons, and was offered by one of the praetors, no less than a million of sesterces for his services. He likewise sang tragedies in a mask; the visors of the heroes and gods, as also of the heroines and goddesses, being formed into a resemblance of his own face, and that of any woman he was in love with. Amongst the rest, he sung "Canace in Labour," "Orestes the Murderer of his Mother," "Oedipus Blinded," and "Hercules Mad." In the last tragedy, it is said that a young sentinel, posted at the entrance of the stage, seeing him in a prison dress and bound with fetters, as the fable of the play required, ran to his assistance.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-matthew-36d81d",
+  "work_title": "Matthew",
+  "chapter_number": 23,
+  "chapter_title": "Chapter 23",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "43a4303c-5e62-54df-9e33-7b56bba09d4f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 655,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg001.perseus-grc2:23"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c10d4742-8cbc-52c0-b126-b479729eff69",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 816,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg001.perseus-eng2:23"
+    }
+  ]
+}

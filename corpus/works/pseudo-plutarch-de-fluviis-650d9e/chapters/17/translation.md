@@ -1,0 +1,47 @@
+---
+work_id: "650d9e3e-bb32-5c43-b67f-dd9c086e5a8f"
+work_slug: "pseudo-plutarch-de-fluviis-650d9e"
+work_title: De Fluviis
+author_name: "Pseudo-Plutarch"
+chapter_number: 17
+chapter_title: Chapter 18
+chapter_slug: 17
+variant_id: "0ba8305b-2df0-58e7-960a-3ed1e482123f"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 874
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0094.tlg001.perseus-eng2:17"
+translator: R. White
+---
+
+INACHUS is a river in the territories of Argos, formerly called Carmanor. Afterwards Haliacmon, for this reason.
+
+Haliacmon, a Tirynthian by birth, while he kept sheep upon the mountain Coccygium, happened against his will to see Jupiter and Rhea sporting together; for which being struck mad, and hurried by the violence of the frenzy, he flung himself into the river Carmanor, which after that was called Haliacmon. Afterwards it was called Inachus upon this occasion.
+
+Inachus, the son of Oceanus, after that Jupiter had deflowered his daughter Io, pursued the Deity close at the heels, abusing and cursing him all the way as he went. Which so offended Jupiter, that he sent Tisiphone, one of the Furies, who haunted and plagued him to that degree, that he flung himself into the river Haliacmon, afterwards called by his own name Inachus.
+
+In this river grows an herb called cynura, not unlike our common rue, which the women that desire to miscarry without any danger lay upon their navels, being first steeped in wine.
+
+There is also found in this river a certain stone, not unlike a beryl, which in the hands of those who intend to bear false witness will grow black. Of these stones there are many laid up in the temple of Juno Prosymnaea;—as Timotheus relates in his Argolica, and Agatho the Samian in his Second Book of Rivers.
+
+Agathocles the Milesian, in his History of Rivers, also adds, that Inachus for his impiety was thunderstruck by Jupiter, and so the river dried up.
+
+Near to this river lie the mountains Mycenae, Apesantus, Coccygium, and Athenaeum; so called for these reasons. Apesantus was first called Selenaeus. For Juno, resolving to be revenged upon Hercules, called the moon (Selene) to her assistance, who by the help of her magical charms filled a large chest full of foam and froth, out of which sprang an immense lion; which Iris binding with her own girdle carried to the mountain Opheltium, where the lion killed and tore in pieces Apesantus, one of the shepherds belonging to that place. And from that accident, by the will of the Gods, the hill was called Apesantus;—as Demodocus writes in his First Book of the History of Hercules.
+
+In this river grows an herb called selene, with the froth of which, being gathered in the spring, the shepherds anoint their feet, and keep them from being bit or stung by any creeping vermin.
+
+Mycenae was formerly called Argion, from the many-eyed Argos; but afterwards the name was changed upon this occasion. When Perseus had slain Medusa, Stheno and Euryale, sisters to her that was killed, pursued him as a murderer. But coming to this hill and despairing to overtake him, out of that extreme love which they had for their sister they made such a bellowing (μυκηθμός), that the natives from thence called the top of the mountain Mycenae;—as Ctesias the Ephesian relates in his First Book of the Acts of Perseus. But Chrysermus the Corinthian relates the story thus in the First Book of his Peloponnesiacs. For he says that, when Perseus was carried aloft in the air and lit upon this mountain, he lost the chape of his scabbard. At what time this same Gorgophonos (or Gorgon-slayer), king of the Epidaurians, being expelled his kingdom, received this answer upon his consulting the oracle, that he should visit all the cities of the Argolic territory, and that where he found the chape of a scabbard (called in Greek μυκής), he should build a city. Thereupon coming to the mountain Argium, and finding there an ivory scabbard, he built a city, and from the accident called it Mycenae.
+
+In this mountain there is found a stone, which is called corybas, of a crow-color, which he that finds and wears about him shall never be afraid of any monstrous apparitions. As for the mountain Apesantus, this may be added, that Apesantus, the son of Acrisius, as he was a hunting in that place, chanced to tread upon a venomous serpent, which occasioned his death. Whom when his father had buried, in memory of his son he named the hill Apesantus, which before was called Selinuntius.
+
+The mountain Coccygium derived its name from this accident. Jupiter falling desperately in love with his sister Juno, and having vanquished her by his importunity, begat a male child. From whence the mountain, before called Lyrceum, was named Coccygium;—as Agathonymus relates in his Persis.
+
+In this mountain grows a tree, which is called paliurus; upon the boughs of which whatever fowl happens to perch, it is presently entangled as it were with bird-lime, and cannot stir; only the cuckoo it lets go free, without any harm; —as Ctesiphon testifies in his First Book of Trees.
+
+As for the mountain Athenaeum, it derives its name from Minerva. For after the destruction of Troy, Diomede returning to Argos, ascended the mountain Ceraunius, and there erecting a temple to Minerva, called the mountain Athenaeum from her name Athena.
+
+Upon the top of this mountain grows a root like to that of rue, which if any woman unwarily taste of, she presently runs mad. This root is called Adrastea;—as Plesimachus writes in his Second Book of the Returns of the Heroes.

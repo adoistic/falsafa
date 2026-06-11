@@ -1,0 +1,39 @@
+{
+  "work_slug": "boethius-de-consolatione-philosophiae-905cdc",
+  "work_title": "De consolatione philosophiae",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f39324ad-745d-5a69-8c2f-de269c1df60c",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5690,
+      "paragraph_count": 215,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0058.stoa001.perseus-lat2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b40ad93a-09eb-502a-94fe-11efa028f9aa",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8698,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0058.stoa001.perseus-eng1:4"
+    }
+  ]
+}

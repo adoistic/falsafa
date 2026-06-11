@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-comparison-of-philopoemen-and-ti-43221f",
+  "work_title": "Comparison of Philopoemen and Titus",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "958db2d6-6198-5e67-aac8-d066c9ffa222",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 154,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg029.perseus-grc2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7455664d-87f3-5fce-a4f9-994eee31dd21",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 268,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg029.perseus-eng2:3"
+    }
+  ]
+}

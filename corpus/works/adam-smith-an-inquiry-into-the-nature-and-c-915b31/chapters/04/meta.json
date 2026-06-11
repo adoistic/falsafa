@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+  "work_title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "chapter_number": 4,
+  "chapter_title": "CHAPTER I. OF THE DIVISION OF LABOUR",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7282fe8c-538a-5e12-9847-9bc22992bd43",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3472,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Smith_WoN-CannanEdition1904/Smith_WoN-Cannan1904-4Panes.margnotes.html"
+    }
+  ]
+}

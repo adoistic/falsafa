@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-lucullus-e19b26",
+  "work_title": "Lucullus",
+  "chapter_number": 29,
+  "chapter_title": "Chapter 29",
+  "chapter_slug": "29",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fbd40e1f-1340-56c2-978e-1e48bb8919b2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 427,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg036.perseus-grc2:29"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9c90d3bc-a4aa-5b16-bb34-6316e5fb15c7",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 649,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg036.perseus-eng2:29"
+    }
+  ]
+}

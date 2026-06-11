@@ -1,0 +1,38 @@
+{
+  "work_slug": "flavius-josephus-life-of-josephus-92e1f9",
+  "work_title": "Life of Josephus",
+  "chapter_number": 1,
+  "chapter_title": "Life of Josephus",
+  "chapter_slug": "01-life-of-josephus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cc659c8b-b6b2-58db-bb0e-766440734092",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 15781,
+      "paragraph_count": 430,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg002.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9fca1fb2-e724-5320-8b96-bf09f5afd98c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 25167,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0526.tlg002.perseus-eng2"
+    }
+  ]
+}

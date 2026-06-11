@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-philippicae-f2d191",
+  "work_title": "Philippicae",
+  "chapter_number": 40,
+  "chapter_title": "Chapter 25",
+  "chapter_slug": "40",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f21dd8c-31bc-5e73-9365-53d6a6d06a9a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 501,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:40"
+    }
+  ]
+}

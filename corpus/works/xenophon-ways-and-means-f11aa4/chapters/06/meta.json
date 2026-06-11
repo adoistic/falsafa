@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-ways-and-means-f11aa4",
+  "work_title": "Ways and Means",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f247a182-8082-59a1-b83b-5b44dd8b2893",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 171,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg011.perseus-grc2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "08deb500-192c-5bda-82fd-e5b695b4ed8a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 251,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg011.perseus-eng2:6"
+    }
+  ]
+}

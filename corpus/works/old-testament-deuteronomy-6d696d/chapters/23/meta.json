@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-deuteronomy-6d696d",
+  "work_title": "Deuteronomy",
+  "chapter_number": 23,
+  "chapter_title": "Chapter 23",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "24072dfe-e4e6-503d-b10c-0a2c8c5fcc71",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 457,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:23"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "87c048ca-d184-518b-8617-d962bdf98e06",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 678,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg005.perseus-eng2:23"
+    }
+  ]
+}

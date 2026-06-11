@@ -1,0 +1,39 @@
+{
+  "work_slug": "homer-odyssey-34e6a4",
+  "work_title": "Odyssey",
+  "chapter_number": 17,
+  "chapter_title": "Book 17",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "47e5fcab-0bc2-59a9-9d16-76626976c138",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4379,
+      "paragraph_count": 606,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:17"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "610cc3de-855f-518a-bd23-203b76787889",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5881,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg002.perseus-eng4:17"
+    }
+  ]
+}

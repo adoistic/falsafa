@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 28,
+  "chapter_title": "CHAPTER XIII. THE REMEDIES FOR LOW WAGES FURTHER CONSIDERED.",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6e9dba55-4f35-5b6b-8e28-04493d2a8975",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 4968,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

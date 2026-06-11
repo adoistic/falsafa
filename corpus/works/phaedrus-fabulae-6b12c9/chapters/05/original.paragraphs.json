@@ -1,0 +1,872 @@
+[
+  {
+    "id": "p-bac349",
+    "offset": 0,
+    "text": "Aesopi nomen sicubi interposuero,"
+  },
+  {
+    "id": "p-201ca3",
+    "offset": 35,
+    "text": "Cui reddidi iam pridem quicquid debui,"
+  },
+  {
+    "id": "p-a23414",
+    "offset": 75,
+    "text": "Auctoritatis esse scito gratia:"
+  },
+  {
+    "id": "p-b9ece8",
+    "offset": 108,
+    "text": "Ut quidam artifices nostro faciunt saeculo,"
+  },
+  {
+    "id": "p-bbcfc9",
+    "offset": 153,
+    "text": "Qui pretium operibus maius inveniunt novis,"
+  },
+  {
+    "id": "p-a2194c",
+    "offset": 198,
+    "text": "Si marmori ascripserunt Praxitelen suo,"
+  },
+  {
+    "id": "p-40b0c9",
+    "offset": 239,
+    "text": "Trito Myronem argento, tabulae Zeuxidem."
+  },
+  {
+    "id": "p-ead031",
+    "offset": 281,
+    "text": "Adeo fucatae plus vetustati favet"
+  },
+  {
+    "id": "p-8262ef",
+    "offset": 316,
+    "text": "Invidia mordax quam bonis praesentibus."
+  },
+  {
+    "id": "p-ddbe1d",
+    "offset": 357,
+    "text": "Sed iam ad fabellam talis exempli feror."
+  },
+  {
+    "id": "p-ecff93",
+    "offset": 399,
+    "text": "Demetrius qui dictus est Phalereus,"
+  },
+  {
+    "id": "p-f25ec9",
+    "offset": 436,
+    "text": "Athenas occupavit imperio improbo."
+  },
+  {
+    "id": "p-45cfc5",
+    "offset": 472,
+    "text": "Ut mos est vulgi, passim et certatim ruit,"
+  },
+  {
+    "id": "p-0b36d5",
+    "offset": 516,
+    "text": "\"Feliciter!\" succlamans. Ipsi principes"
+  },
+  {
+    "id": "p-fe91c1",
+    "offset": 557,
+    "text": "Illam osculantur, qua sunt oppressi, manum,"
+  },
+  {
+    "id": "p-33ee9a",
+    "offset": 602,
+    "text": "Tacite gementes tristem fortunae vicem."
+  },
+  {
+    "id": "p-bb2413",
+    "offset": 643,
+    "text": "Quin etiam resides et sequentes otium,"
+  },
+  {
+    "id": "p-ebe735",
+    "offset": 683,
+    "text": "Ni defuisse noceat, repunt ultimi;"
+  },
+  {
+    "id": "p-041f38",
+    "offset": 719,
+    "text": "In quis Menander, nobilis comoediis"
+  },
+  {
+    "id": "p-18ad18",
+    "offset": 756,
+    "text": "Quas, ipsum ignorans, legerat Demetrius"
+  },
+  {
+    "id": "p-16938f",
+    "offset": 797,
+    "text": "Et admiratus fuerat ingenium viri,"
+  },
+  {
+    "id": "p-b8cf8b",
+    "offset": 833,
+    "text": "Unguento delibutus, vestitu fluens,"
+  },
+  {
+    "id": "p-82c98f",
+    "offset": 870,
+    "text": "Veniebat gressu delicato et languido."
+  },
+  {
+    "id": "p-6d2051",
+    "offset": 909,
+    "text": "Hunc ubi tyrannus vidit extremo agmine:"
+  },
+  {
+    "id": "p-768440",
+    "offset": 950,
+    "text": "Quisnam cinaedus ille in conspectum meum"
+  },
+  {
+    "id": "p-68ce7a",
+    "offset": 992,
+    "text": "Audet venire? Responderunt proximi:"
+  },
+  {
+    "id": "p-7d20ac",
+    "offset": 1029,
+    "text": "Hic est Menander scriptor. Mutatus statim:"
+  },
+  {
+    "id": "p-428f80",
+    "offset": 1073,
+    "text": "Homo inquit fieri non potest formosior."
+  },
+  {
+    "id": "p-0eb644",
+    "offset": 1114,
+    "text": "Duo cum incidissent in latronem milites,"
+  },
+  {
+    "id": "p-48e720",
+    "offset": 1156,
+    "text": "Unus profugit, alter autem restitit"
+  },
+  {
+    "id": "p-cfb9d5",
+    "offset": 1193,
+    "text": "Et vindicavit sese forti dextera."
+  },
+  {
+    "id": "p-f32913",
+    "offset": 1228,
+    "text": "Latrone exciso timidus accurrit comes"
+  },
+  {
+    "id": "p-7e20e5",
+    "offset": 1267,
+    "text": "Stringitque gladium, dein reiecta paenula:"
+  },
+  {
+    "id": "p-dcef9e",
+    "offset": 1311,
+    "text": "Cedo inquit illum; iam curabo sentiat,"
+  },
+  {
+    "id": "p-0a7dc6",
+    "offset": 1351,
+    "text": "Quos attentarit. Tunc, qui depugnaverat:"
+  },
+  {
+    "id": "p-508da8",
+    "offset": 1393,
+    "text": "Vellem istis verbis saltem adiuvisses modo;"
+  },
+  {
+    "id": "p-b2aca8",
+    "offset": 1438,
+    "text": "Constantior fuissem vera existimans."
+  },
+  {
+    "id": "p-3596cf",
+    "offset": 1476,
+    "text": "Nunc conde ferrum et linguam pariter futtilem."
+  },
+  {
+    "id": "p-48dcc7",
+    "offset": 1524,
+    "text": "Ut possis alios ignorantes fallere,"
+  },
+  {
+    "id": "p-45bb29",
+    "offset": 1561,
+    "text": "Ego qui sum expertus quantis fugias viribus,"
+  },
+  {
+    "id": "p-a5acef",
+    "offset": 1607,
+    "text": "Scio quam virtuti non sit credendum tuae."
+  },
+  {
+    "id": "p-110ae4",
+    "offset": 1650,
+    "text": "Illi assignari debet haec narratio"
+  },
+  {
+    "id": "p-f4dfe3",
+    "offset": 1686,
+    "text": "Qui re secunda fortis est, dubia fugax."
+  },
+  {
+    "id": "p-b11bdb",
+    "offset": 1727,
+    "text": "Calvi momordit musca nudatum caput;"
+  },
+  {
+    "id": "p-34b59d",
+    "offset": 1764,
+    "text": "Quam opprimere captans alapam sibi duxit gravem."
+  },
+  {
+    "id": "p-60b462",
+    "offset": 1814,
+    "text": "Tunc illa irridens: Punctum volucris parvulae"
+  },
+  {
+    "id": "p-758b23",
+    "offset": 1861,
+    "text": "Voluisti morte ulcisci; quid facies tibi,"
+  },
+  {
+    "id": "p-3e0207",
+    "offset": 1904,
+    "text": "Iniuriae qui addideris contumeliam?"
+  },
+  {
+    "id": "p-13c449",
+    "offset": 1941,
+    "text": "Respondit: Mecum facile redeo in gratiam,"
+  },
+  {
+    "id": "p-c05114",
+    "offset": 1984,
+    "text": "Quia non fuisse mentem laedendi scio."
+  },
+  {
+    "id": "p-0d1d7b",
+    "offset": 2023,
+    "text": "Sed te, contempti generis animal improbum,"
+  },
+  {
+    "id": "p-0d49c6",
+    "offset": 2067,
+    "text": "Quae delectaris bibere humanum sanguinem,"
+  },
+  {
+    "id": "p-1cd96d",
+    "offset": 2110,
+    "text": "Optem necare vel maiore incommodo."
+  },
+  {
+    "id": "p-727b1d",
+    "offset": 2146,
+    "text": "†Hoc argumentum veniam ei dari docet"
+  },
+  {
+    "id": "p-662091",
+    "offset": 2184,
+    "text": "Qui casu peccat. Nam qui consilio est nocens,"
+  },
+  {
+    "id": "p-909d20",
+    "offset": 2231,
+    "text": "Illum esse quamvis dignum poena iudico."
+  },
+  {
+    "id": "p-537a44",
+    "offset": 2272,
+    "text": "Quidam immolasset verrem cum sancto Herculi,"
+  },
+  {
+    "id": "p-edfe0e",
+    "offset": 2318,
+    "text": "Cui pro salute votum debebat sua,"
+  },
+  {
+    "id": "p-dc5f90",
+    "offset": 2353,
+    "text": "Asello iussit reliquias poni hordei."
+  },
+  {
+    "id": "p-acd8b4",
+    "offset": 2391,
+    "text": "Quas aspernatus ille sic locutus est:"
+  },
+  {
+    "id": "p-ed5c4b",
+    "offset": 2430,
+    "text": "Libenter istum prorsus appeterem cibum,"
+  },
+  {
+    "id": "p-062a9a",
+    "offset": 2471,
+    "text": "Nisi, qui nutritus illo est, iugulatus foret."
+  },
+  {
+    "id": "p-b7b4dd",
+    "offset": 2518,
+    "text": "Huius respectu fabulae deterritus"
+  },
+  {
+    "id": "p-150aef",
+    "offset": 2553,
+    "text": "Periculosum semper vitavi lucrum."
+  },
+  {
+    "id": "p-6c4cbf",
+    "offset": 2588,
+    "text": "Sed dicis: Qui rapuere divitias, habent."
+  },
+  {
+    "id": "p-734c80",
+    "offset": 2630,
+    "text": "Numeremus agedum qui deprensi perierunt:"
+  },
+  {
+    "id": "p-41f842",
+    "offset": 2672,
+    "text": "Maiorem turbam punitorum reperies."
+  },
+  {
+    "id": "p-cac805",
+    "offset": 2708,
+    "text": "Paucis temeritas est bono, multis malo."
+  },
+  {
+    "id": "p-9989b8",
+    "offset": 2749,
+    "text": "Pravo favore labi mortales solent"
+  },
+  {
+    "id": "p-b2059d",
+    "offset": 2784,
+    "text": "Et, pro iudicio dum stant erroris sui,"
+  },
+  {
+    "id": "p-3fb5e1",
+    "offset": 2824,
+    "text": "Ad paenitendum rebus manifestis agi."
+  },
+  {
+    "id": "p-d68b8c",
+    "offset": 2862,
+    "text": "Facturus ludos dives quidam nobilis"
+  },
+  {
+    "id": "p-06f061",
+    "offset": 2899,
+    "text": "Proposito cunctos invitavit praemio"
+  },
+  {
+    "id": "p-60d664",
+    "offset": 2936,
+    "text": "Quam quisque posset ut novitatem ostenderet."
+  },
+  {
+    "id": "p-313de8",
+    "offset": 2982,
+    "text": "Venere artifices laudis ad certamina;"
+  },
+  {
+    "id": "p-e8f25f",
+    "offset": 3021,
+    "text": "Quos inter scurra, notus urbano sale,"
+  },
+  {
+    "id": "p-d5bdf8",
+    "offset": 3060,
+    "text": "Habere dixit se genus spectaculi"
+  },
+  {
+    "id": "p-0b7d60",
+    "offset": 3094,
+    "text": "Quod in theatro numquam prolatum foret."
+  },
+  {
+    "id": "p-949740",
+    "offset": 3135,
+    "text": "Dispersus rumor civitatem concitat."
+  },
+  {
+    "id": "p-471f25",
+    "offset": 3172,
+    "text": "Paulo ante vacua turbam deficiunt loca."
+  },
+  {
+    "id": "p-86f47d",
+    "offset": 3213,
+    "text": "In scaena vero postquam solus constitit"
+  },
+  {
+    "id": "p-2f92e5",
+    "offset": 3254,
+    "text": "Sine apparatu, nullis adiutoribus,"
+  },
+  {
+    "id": "p-ea3e68",
+    "offset": 3290,
+    "text": "Silentium ipsa fecit exspectatio."
+  },
+  {
+    "id": "p-5de493",
+    "offset": 3325,
+    "text": "Ille in sinum repente demisit caput"
+  },
+  {
+    "id": "p-ae5689",
+    "offset": 3362,
+    "text": "Et sic porcelli vocem est imitatus sua,"
+  },
+  {
+    "id": "p-26837c",
+    "offset": 3403,
+    "text": "Verum ut subesse pallio contenderent"
+  },
+  {
+    "id": "p-917649",
+    "offset": 3441,
+    "text": "Et excuti iuberent. Quo facto simul"
+  },
+  {
+    "id": "p-029019",
+    "offset": 3478,
+    "text": "Nihil est repertum, multis onerant lancibus"
+  },
+  {
+    "id": "p-b096b5",
+    "offset": 3523,
+    "text": "Hominemque plausu prosequuntur maximo."
+  },
+  {
+    "id": "p-fce1f1",
+    "offset": 3563,
+    "text": "Hoc vidit fieri rusticus: Non mehercules"
+  },
+  {
+    "id": "p-c2bd66",
+    "offset": 3605,
+    "text": "Me vincet inquit, et statim professus est"
+  },
+  {
+    "id": "p-c06a70",
+    "offset": 3648,
+    "text": "Idem facturum melius se postridie."
+  },
+  {
+    "id": "p-f46463",
+    "offset": 3684,
+    "text": "Fit turba maior. Iam favor mentes tenet"
+  },
+  {
+    "id": "p-05d18d",
+    "offset": 3725,
+    "text": "Et derisuri, non spectaturi sedent."
+  },
+  {
+    "id": "p-fe8008",
+    "offset": 3762,
+    "text": "Uterque prodit. Scurra degrunnit prior"
+  },
+  {
+    "id": "p-6bc8d6",
+    "offset": 3802,
+    "text": "Movetque plausus et clamores suscitat."
+  },
+  {
+    "id": "p-0307af",
+    "offset": 3842,
+    "text": "Tunc simulans sese vestimentis rusticus"
+  },
+  {
+    "id": "p-be26a8",
+    "offset": 3883,
+    "text": "Porcellum obtegere (quod faciebat scilicet,"
+  },
+  {
+    "id": "p-77befb",
+    "offset": 3928,
+    "text": "Sed, in priore quia nil compererant, latens)"
+  },
+  {
+    "id": "p-a1b424",
+    "offset": 3974,
+    "text": "Pervellit aurem vero, quem celaverat,"
+  },
+  {
+    "id": "p-3fcad9",
+    "offset": 4013,
+    "text": "Et cum dolore vocem naturae exprimit."
+  },
+  {
+    "id": "p-df48cb",
+    "offset": 4052,
+    "text": "Acclamat populus scurram multo similius"
+  },
+  {
+    "id": "p-7f6976",
+    "offset": 4093,
+    "text": "Imitatum, et cogit rusticum trudi foras."
+  },
+  {
+    "id": "p-faea87",
+    "offset": 4135,
+    "text": "At ille profert ipsum porcellum e sinu,"
+  },
+  {
+    "id": "p-122e20",
+    "offset": 4176,
+    "text": "Turpemque aperto pignore errorem probans:"
+  },
+  {
+    "id": "p-72e4d1",
+    "offset": 4219,
+    "text": "En hic declarat quales sitis iudices!"
+  },
+  {
+    "id": "p-54c59b",
+    "offset": 4258,
+    "text": "Invenit calvus forte in trivio pectinem."
+  },
+  {
+    "id": "p-0e5086",
+    "offset": 4300,
+    "text": "Accessit alter aeque defectus pilis."
+  },
+  {
+    "id": "p-b39be6",
+    "offset": 4338,
+    "text": "Heia! inquit in commune quodcumque est lucri!"
+  },
+  {
+    "id": "p-160ce4",
+    "offset": 4385,
+    "text": "Ostendit ille praedam et adiecit simul:"
+  },
+  {
+    "id": "p-11f982",
+    "offset": 4426,
+    "text": "Superum voluntas favit; sed fato invido"
+  },
+  {
+    "id": "p-4e9f71",
+    "offset": 4467,
+    "text": "Carbonem, ut aiunt, pro thesauro invenimus."
+  },
+  {
+    "id": "p-5637b4",
+    "offset": 4512,
+    "text": "Quem spes delusit, huic querela convenit."
+  },
+  {
+    "id": "p-573097",
+    "offset": 4555,
+    "text": "Ubi vanus animus aura captus frivola"
+  },
+  {
+    "id": "p-438994",
+    "offset": 4593,
+    "text": "Arripuit insolentem sibi fiduciam,"
+  },
+  {
+    "id": "p-755f2f",
+    "offset": 4629,
+    "text": "Facile ad derisum stulta levitas ducitur."
+  },
+  {
+    "id": "p-8ebf54",
+    "offset": 4672,
+    "text": "Princeps tibicen notior paulo fuit,"
+  },
+  {
+    "id": "p-5cc585",
+    "offset": 4709,
+    "text": "Operam Bathyllo solitus in scaena dare."
+  },
+  {
+    "id": "p-87b25d",
+    "offset": 4750,
+    "text": "Is forte ludis (non satis memini quibus)"
+  },
+  {
+    "id": "p-b6df79",
+    "offset": 4792,
+    "text": "Dum pegma rapitur, concidit casu gravi"
+  },
+  {
+    "id": "p-893457",
+    "offset": 4832,
+    "text": "Nec opinans, et sinistram fregit tibiam,"
+  },
+  {
+    "id": "p-ba6932",
+    "offset": 4874,
+    "text": "Duas cum dextras maluisset perdere."
+  },
+  {
+    "id": "p-483d9f",
+    "offset": 4911,
+    "text": "Inter manus sublatus et multum gemens"
+  },
+  {
+    "id": "p-1e5caa",
+    "offset": 4950,
+    "text": "Domum refertur. Aliquot menses transeunt,"
+  },
+  {
+    "id": "p-04dcda",
+    "offset": 4993,
+    "text": "Ad sanitatem dum venit curatio."
+  },
+  {
+    "id": "p-aa616c",
+    "offset": 5026,
+    "text": "Ut spectatorum mos est et lepidum genus,"
+  },
+  {
+    "id": "p-9a9b88",
+    "offset": 5068,
+    "text": "Desiderari coepit, cuius flatibus"
+  },
+  {
+    "id": "p-274eb9",
+    "offset": 5103,
+    "text": "Solebat excitari saltantis vigor."
+  },
+  {
+    "id": "p-cee5c4",
+    "offset": 5138,
+    "text": "Erat facturus ludos quidam nobilis,"
+  },
+  {
+    "id": "p-3ad1eb",
+    "offset": 5175,
+    "text": "Et incipiebat a se Princeps ingredi:"
+  },
+  {
+    "id": "p-74c021",
+    "offset": 5213,
+    "text": "Reducem tum adducit prece, pretio ut tantummodo"
+  },
+  {
+    "id": "p-e2ec74",
+    "offset": 5262,
+    "text": "Ipso ludorum ostenderet sese die."
+  },
+  {
+    "id": "p-64475f",
+    "offset": 5297,
+    "text": "Qui simul advenit, rumor de tibicine"
+  },
+  {
+    "id": "p-a278bd",
+    "offset": 5335,
+    "text": "Fremit in theatro. Quidam affirmant mortuum,"
+  },
+  {
+    "id": "p-dbf66b",
+    "offset": 5381,
+    "text": "Quidam in conspectum proditurum sine mora."
+  },
+  {
+    "id": "p-6678ef",
+    "offset": 5425,
+    "text": "Aulaeo misso, devolutis tonitribus"
+  },
+  {
+    "id": "p-618bb0",
+    "offset": 5461,
+    "text": "Di sunt locuti more translaticio."
+  },
+  {
+    "id": "p-f1b647",
+    "offset": 5496,
+    "text": "Tunc chorus ignotum modo reducto canticum"
+  },
+  {
+    "id": "p-e89599",
+    "offset": 5539,
+    "text": "Insonuit, cuius haec fuit sententia:"
+  },
+  {
+    "id": "p-aebe56",
+    "offset": 5577,
+    "text": "Laetare, incolumis Roma, salvo principe!"
+  },
+  {
+    "id": "p-e3a39b",
+    "offset": 5619,
+    "text": "In plausus consurrectum est. Iactat basia"
+  },
+  {
+    "id": "p-8a231c",
+    "offset": 5662,
+    "text": "Tibicen: gratulari fautores putat."
+  },
+  {
+    "id": "p-02fc59",
+    "offset": 5698,
+    "text": "Equester ordo stultum errorem intellegit"
+  },
+  {
+    "id": "p-6d3a7d",
+    "offset": 5740,
+    "text": "Magnoque risu canticum repeti iubet."
+  },
+  {
+    "id": "p-25acb9",
+    "offset": 5778,
+    "text": "Iteratur illud. Homo meus se in pulpito"
+  },
+  {
+    "id": "p-72333b",
+    "offset": 5819,
+    "text": "Totum prosternit. Plaudit illudens eques."
+  },
+  {
+    "id": "p-97bf05",
+    "offset": 5862,
+    "text": "Rogare populus hunc coronam existimat."
+  },
+  {
+    "id": "p-f326fd",
+    "offset": 5902,
+    "text": "Ut vero cuneis notuit res omnibus,"
+  },
+  {
+    "id": "p-935427",
+    "offset": 5938,
+    "text": "Princeps, ligato crure nivea fascia,"
+  },
+  {
+    "id": "p-a40e61",
+    "offset": 5976,
+    "text": "Niveisque tunicis, niveis etiam calceis,"
+  },
+  {
+    "id": "p-df6e0a",
+    "offset": 6018,
+    "text": "Superbiens honore divinae domus,"
+  },
+  {
+    "id": "p-ad9b07",
+    "offset": 6052,
+    "text": "Ab universis capite est protrusus foras."
+  },
+  {
+    "id": "p-ec9642",
+    "offset": 6094,
+    "text": "Cursu volucri, pendens in novacula,"
+  },
+  {
+    "id": "p-874075",
+    "offset": 6131,
+    "text": "Calvus, comosa fronte, nudo corpore,"
+  },
+  {
+    "id": "p-dd0f91",
+    "offset": 6169,
+    "text": "(Quem si occuparis, teneas; elapsum semel"
+  },
+  {
+    "id": "p-c52e6c",
+    "offset": 6212,
+    "text": "Non ipse possit Iuppiter reprehendere),"
+  },
+  {
+    "id": "p-d9aa72",
+    "offset": 6253,
+    "text": "Occasionem rerum significat brevem."
+  },
+  {
+    "id": "p-db2d01",
+    "offset": 6290,
+    "text": "Effectus impediret ne segnis mora,"
+  },
+  {
+    "id": "p-5be69a",
+    "offset": 6326,
+    "text": "Finxere antiqui talem effigiem Temporis."
+  },
+  {
+    "id": "p-db2581",
+    "offset": 6368,
+    "text": "Angusto in aditu taurus luctans cornibus"
+  },
+  {
+    "id": "p-92f0e3",
+    "offset": 6410,
+    "text": "Cum vix intrare posset ad praesepia,"
+  },
+  {
+    "id": "p-6d8fb3",
+    "offset": 6448,
+    "text": "Monstrabat vitulus quo se pacto plecteret."
+  },
+  {
+    "id": "p-c6458a",
+    "offset": 6492,
+    "text": "Tace inquit ante hoc novi quam tu natus es."
+  },
+  {
+    "id": "p-a0f95d",
+    "offset": 6537,
+    "text": "Qui doctiorem emendat sibi dici putet."
+  },
+  {
+    "id": "p-8d15cf",
+    "offset": 6577,
+    "text": "Adversus omnes fortis veloces feras"
+  },
+  {
+    "id": "p-f24318",
+    "offset": 6614,
+    "text": "Canis cum domino semper fecisset satis,"
+  },
+  {
+    "id": "p-a70370",
+    "offset": 6655,
+    "text": "Languere coepit annis ingravantibus."
+  },
+  {
+    "id": "p-3d662b",
+    "offset": 6693,
+    "text": "Aliquando obiectus hispidi pugnae suis"
+  },
+  {
+    "id": "p-3e478e",
+    "offset": 6733,
+    "text": "Arripuit aurem, sed cariosis dentibus"
+  },
+  {
+    "id": "p-0432ba",
+    "offset": 6772,
+    "text": "Praedam dimisit. Hic tunc venator dolens"
+  },
+  {
+    "id": "p-d58f4e",
+    "offset": 6814,
+    "text": "Canem obiurgabat. Cui latrans contra senex:"
+  },
+  {
+    "id": "p-f6d161",
+    "offset": 6859,
+    "text": "Non te destituit animus, sed vires meae."
+  },
+  {
+    "id": "p-2f8ad7",
+    "offset": 6901,
+    "text": "Quod fuimus laudas, si iam damnas quod sumus."
+  },
+  {
+    "id": "p-7db899",
+    "offset": 6948,
+    "text": "Hoc cur, Philete, scripserim, pulchre vides."
+  }
+]

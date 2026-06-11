@@ -1,0 +1,38 @@
+{
+  "work_slug": "aeschylus-supplices-99ccb8",
+  "work_title": "Supplices",
+  "chapter_number": 1,
+  "chapter_title": "Supplices",
+  "chapter_slug": "01-supplices",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5ade11f5-7820-59d9-a36f-e92aae01c149",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5223,
+      "paragraph_count": 1074,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "47279421-ab19-585e-90db-d09d64c461e5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 8699,
+      "paragraph_count": 479,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg001.perseus-eng2"
+    }
+  ]
+}

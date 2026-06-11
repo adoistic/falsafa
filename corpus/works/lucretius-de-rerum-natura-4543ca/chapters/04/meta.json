@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucretius-de-rerum-natura-4543ca",
+  "work_title": "De Rerum Natura",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3fa85ce2-3a4b-5ba5-9248-51a7a8e1816b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8546,
+      "paragraph_count": 400,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0550.phi001.perseus-lat1:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1385b0f-f3cb-516f-b6f6-857b38a2631c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 12862,
+      "paragraph_count": 1701,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0550.phi001.perseus-eng1:4"
+    }
+  ]
+}

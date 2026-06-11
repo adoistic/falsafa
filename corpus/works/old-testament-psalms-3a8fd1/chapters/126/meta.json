@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 126,
+  "chapter_title": "Chapter 127",
+  "chapter_slug": "126",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6b85feea-a432-5175-8b42-aaea1d9cfe8e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 84,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:126"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f87ac159-8f3c-52b5-9059-bc4ac997844a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 106,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:126"
+    }
+  ]
+}

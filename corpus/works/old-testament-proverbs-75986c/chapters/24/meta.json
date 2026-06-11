@@ -1,0 +1,39 @@
+{
+  "work_slug": "old-testament-proverbs-75986c",
+  "work_title": "Proverbs",
+  "chapter_number": 24,
+  "chapter_title": "Chapter 24",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "50d29ed0-508d-5591-8588-7c3659ef2846",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1292,
+      "paragraph_count": 187,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg029.1st1K-grc1:24"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac83ee61-48e6-5418-a540-da1c1a66a5c0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 540,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg029.perseus-eng2:24"
+    }
+  ]
+}

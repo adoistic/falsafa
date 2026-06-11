@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-2-ezra-6ef17f",
+  "work_title": "2 Ezra",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "66b86bb8-a923-526e-aaef-af3f29944810",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 747,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg018.1st1K-grc1:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7675cac0-e62f-5b71-895f-19568ec24163",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1073,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg018.perseus-eng4:7"
+    }
+  ]
+}

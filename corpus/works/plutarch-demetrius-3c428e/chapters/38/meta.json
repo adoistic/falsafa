@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-demetrius-3c428e",
+  "work_title": "Demetrius",
+  "chapter_number": 38,
+  "chapter_title": "Chapter 38",
+  "chapter_slug": "38",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "633b11a3-dfa9-54a8-9af5-b228098ea45f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 459,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg057.perseus-grc2:38"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "27925e5e-9ad6-50b7-9c26-1463b2dec6d3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 679,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg057.perseus-eng2:38"
+    }
+  ]
+}

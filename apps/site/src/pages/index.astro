@@ -36,7 +36,7 @@ for (const w of m.works) {
 const ssrPick = featuredPool[0]!;
 
 // Era nodes for the timeline
-const eraOrder = ["Ancient", "Antiquity", "Medieval", "Enlightenment", "19th Century", "20th Century", "Unknown"];
+const eraOrder = ["Ancient", "Classical", "Hellenistic", "Imperial", "Late Antiquity", "Medieval", "Enlightenment", "19th Century", "20th Century", "Unknown"];
 const eraEntries = eraOrder
   .filter((e) => m.eras[e.toLowerCase().replace(/[^a-z0-9]+/g, "-")])
   .map((label) => {
@@ -132,6 +132,36 @@ const description = `A premium reading platform for translated philosophical and
       <p class="all-works-link">
         <a href="/works/">Browse all {m.counts.works} works →</a>
       </p>
+    </section>
+
+    <section class="why">
+      <div class="why-col">
+        <p class="kicker">Why this library exists</p>
+        <h2>Every classical text that survives was carried</h2>
+        <p class="why-text">
+          Aristotle did not reach you in Greek alone. He reached you because a patriarch in
+          Baghdad, a monk on the Euphrates, a judge in Cordoba and a wandering Scot each decided
+          one book was worth the labor of another language. Falsafa is that practice continued
+          for the newest readers, human and machine. The argument has a book and an atlas behind
+          it.
+        </p>
+        <p class="why-links">
+          <a href="/book/">Read Carried Across, the book →</a>
+          <a href="/atlas/">Trace the atlas of carried books →</a>
+        </p>
+      </div>
+      <div class="why-col engine-teaser">
+        <p class="kicker">Under the hood</p>
+        <h2>A librarian, with no vector database</h2>
+        <p class="why-text">
+          The corpus ships as markdown with stable paragraph IDs and ten deterministic tools, so
+          any AI can read it and cite it honestly. The evals, the thesis and the live demo live
+          in the engine room.
+        </p>
+        <p class="why-links">
+          <a href="/engine/">Enter the engine room →</a>
+        </p>
+      </div>
     </section>
   </div>
 </Base>
@@ -319,5 +349,65 @@ const description = `A premium reading platform for translated philosophical and
   .all-works-link {
     margin: 0;
     font-family: var(--font-sans);
+  }
+
+  /* The justification block: the book and atlas on the left, the engine
+     teaser on the right. The library leads; the machinery whispers. */
+  .why {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--s-12);
+    margin-top: var(--s-24);
+    padding-top: var(--s-12);
+    border-top: 1px solid var(--rule);
+  }
+
+  @media (min-width: 860px) {
+    .why {
+      grid-template-columns: 3fr 2fr;
+      gap: var(--s-16);
+    }
+  }
+
+  .why h2 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h2);
+    font-weight: 600;
+    line-height: 1.2;
+    margin: 0 0 var(--s-4);
+    max-width: 24ch;
+  }
+
+  .why-text {
+    font-family: var(--font-body);
+    font-size: var(--fs-body);
+    line-height: var(--lh-body);
+    max-width: 58ch;
+    margin: 0 0 var(--s-5);
+  }
+
+  .why-links {
+    display: flex;
+    flex-direction: column;
+    gap: var(--s-2);
+    margin: 0;
+    font-family: var(--font-sans);
+    font-weight: 500;
+  }
+
+  .why-links a {
+    color: var(--accent);
+  }
+
+  .engine-teaser {
+    border-left: none;
+    padding-left: 0;
+  }
+
+  @media (min-width: 860px) {
+    .engine-teaser {
+      border-left: 1px solid var(--rule);
+      padding-left: var(--s-12);
+    }
   }
 </style>

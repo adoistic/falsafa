@@ -1,0 +1,822 @@
+[
+  {
+    "id": "p-a900b1",
+    "offset": 0,
+    "text": "(Enter CHREMES from his house.)"
+  },
+  {
+    "id": "p-7b3c65",
+    "offset": 33,
+    "text": "CHREMES:\n(to himself.)\nIt is now daybreak. Why do I delay to knock at my neighbor’s door, that he may learn from me the first that his son has returned? Although I am aware that the youth would not prefer this. But when I see him tormenting himself so miserably about his absence, can I conceal a joy so unhoped for, especially when there can be no danger to him from the discovery? I will not do so; but as far as I can I will assist the old man. As I see my son aiding his friend and year’s-mate, and acting as his confidant in his concerns, it is but right that we old men as well should assist each other.\n(Enter MENEDEMUS from his house.)"
+  },
+  {
+    "id": "p-644c04",
+    "offset": 678,
+    "text": "MENEDEMUS:\n(to himself)\nAssuredly I was either born with a disposition peculiarly suited for misery, or else that saying which I hear commonly repeated, that time assuages human sorrow, is false. For really my sorrow about my son increases daily; and the longer he is away from me, the more anxiously do I wish for him, and the more I miss him."
+  },
+  {
+    "id": "p-09ff64",
+    "offset": 1024,
+    "text": "CHREMES:\n(apart.)\nBut I see him coming out of his house; I’ll go speak to him. (Aloud.) Menedemus, good-morrow; I bring you news, which you would especially desire to be imparted."
+  },
+  {
+    "id": "p-ff9079",
+    "offset": 1205,
+    "text": "MENEDEMUS:\nPray, have you heard any thing about my son, Chremes?"
+  },
+  {
+    "id": "p-feab5a",
+    "offset": 1271,
+    "text": "CHREMES:\nHe’s alive, and well."
+  },
+  {
+    "id": "p-2903e7",
+    "offset": 1303,
+    "text": "MENEDEMUS:\nWhy, where is he, pray?"
+  },
+  {
+    "id": "p-95d2b1",
+    "offset": 1339,
+    "text": "CHREMES:\nHere, at my house, at home."
+  },
+  {
+    "id": "p-538df5",
+    "offset": 1377,
+    "text": "MENEDEMUS:\nMy son?"
+  },
+  {
+    "id": "p-36f958",
+    "offset": 1397,
+    "text": "CHREMES:\nSuch is the fact."
+  },
+  {
+    "id": "p-3d1808",
+    "offset": 1425,
+    "text": "MENEDEMUS:\nCome home?"
+  },
+  {
+    "id": "p-e04bd1",
+    "offset": 1448,
+    "text": "CHREMES:\nCertainly."
+  },
+  {
+    "id": "p-ef1e5c",
+    "offset": 1469,
+    "text": "MENEDEMUS:\nMy son, Clinia, come home?"
+  },
+  {
+    "id": "p-077ca1",
+    "offset": 1508,
+    "text": "CHREMES:\nI say so."
+  },
+  {
+    "id": "p-0fa762",
+    "offset": 1528,
+    "text": "MENEDEMUS:\nLet us go. Lead me to him, I beg of you."
+  },
+  {
+    "id": "p-fed913",
+    "offset": 1581,
+    "text": "CHREMES:\nHe does not wish you yet to know of his return, and he shuns your presence; he’s afraid that, on account of that fault, your former severity may even be increased."
+  },
+  {
+    "id": "p-c5eae6",
+    "offset": 1755,
+    "text": "MENEDEMUS:\nDid you not tell him how I was affected?"
+  },
+  {
+    "id": "p-665e6f",
+    "offset": 1808,
+    "text": "CHREMES:\nNo—"
+  },
+  {
+    "id": "p-458f4c",
+    "offset": 1822,
+    "text": "MENEDEMUS:\nFor what reason, Chremes?"
+  },
+  {
+    "id": "p-f9a8ff",
+    "offset": 1860,
+    "text": "CHREMES:\nBecause there you would judge extremely ill both for yourself and for him, if you were to show yourself of a spirit so weak and irresolute."
+  },
+  {
+    "id": "p-b405a4",
+    "offset": 2010,
+    "text": "MENEDEMUS:\nI can not help it: enough already, enough, have I proved a rigorous father."
+  },
+  {
+    "id": "p-0e4117",
+    "offset": 2098,
+    "text": "CHREMES:\nAh"
+  },
+  {
+    "id": "p-152bc6",
+    "offset": 2111,
+    "text": "Menedemus! you are too precipitate in either extreme, either with profuseness or with parsimony too great. Into the same error will you fall from the one side as from the other. In the first place, formerly, rather than allow your son to visit a young woman, who was then content with a very little, and to whom any thing was acceptable, you frightened him away from here. After that, she began, quite against her inclination, to seek a subsistence upon the town. Now, when she can not be supported without a great expense, you are ready to give any thing. For, that you may know how perfectly she is trained to extravagance, in the first place, she has already brought with her more than ten female attendants, all laden with clothes and jewels of gold; if a satrap had been her admirer, he never could support her expenses, much less can you."
+  },
+  {
+    "id": "p-5e7a79",
+    "offset": 2957,
+    "text": "MENEDEMUS:\nIs she at your house?"
+  },
+  {
+    "id": "p-cafdbf",
+    "offset": 2991,
+    "text": "CHREMES:\nIs she, do you ask?"
+  },
+  {
+    "id": "p-e9940d",
+    "offset": 3021,
+    "text": "I have felt it; for I have given her and her retinue one dinner; had I to give them another such, it would be all over with me; for, to pass by other matters, what a quantity of wine she did consume for me in tasting only, saying thus, This wine is too acid, respected sir, do please look for something more mellow."
+  },
+  {
+    "id": "p-b5b2d8",
+    "offset": 3338,
+    "text": "I opened all the casks, all the vessels; she kept all on the stir: and this but a single night. What do you suppose will become of you when they are constantly preying upon you? So may the Gods prosper me, Menedemus, I do pity your lot."
+  },
+  {
+    "id": "p-4071ba",
+    "offset": 3576,
+    "text": "MENEDEMUS:\nLet him do what he will;"
+  },
+  {
+    "id": "p-6ddeb1",
+    "offset": 3613,
+    "text": "let him take, waste, and squander; I’m determined to endure it, so long as I only have him with me."
+  },
+  {
+    "id": "p-4fa754",
+    "offset": 3714,
+    "text": "CHREMES:\nIf it is your determination thus to act, I hold it to be of very great foment that he should not be aware that with a full knowledge you grant him this."
+  },
+  {
+    "id": "p-743daf",
+    "offset": 3877,
+    "text": "MENEDEMUS:\nWhat shall I do?"
+  },
+  {
+    "id": "p-d96376",
+    "offset": 3906,
+    "text": "CHREMES:\nAny thing, rather than what you are thinking of;"
+  },
+  {
+    "id": "p-426c85",
+    "offset": 3965,
+    "text": "supply him with money through some other person; suffer yourself to be imposed upon by the artifices of his servant: although I have smelt out this too, that they are about that, and are secretly planning it among them. Syrus is always whispering with that servant of yours; they impart their plans to the young men; and it were better for you to lose a talent this way, than a mina the other. The money is not the question now, but this—in what way we can supply it to the young man with the least danger. For if he once knows the state of your feelings, that you would sooner part with your life, and sooner with all your money, than allow your son to leave you; whew! what an inlet will you be opening for his debauchery! aye, and so much so, that henceforth to live can not be desirable to you. For we all become worse through indulgence. Whatever comes into his head, he’ll be wishing for; nor will he reflect whether that which he desires is right or wrong. You will not be able to endure your estate and him going to ruin. You will refuse to supply him: he will immediately have recourse to the means by which he finds that he has the greatest hold upon you, and threaten that he will immediately leave you."
+  },
+  {
+    "id": "p-121e60",
+    "offset": 5181,
+    "text": "MENEDEMUS:\nYou seem to speak the truth, and just what is the fact."
+  },
+  {
+    "id": "p-b094cd",
+    "offset": 5249,
+    "text": "CHREMES:\nI’faith, I have not been sensible of sleep this night with my eyes, for thinking of this—how to restore your son to you."
+  },
+  {
+    "id": "p-1d77e9",
+    "offset": 5380,
+    "text": "MENEDEMUS:\n(taking his hand.)\nGive me your right hand. I request that you will still act in a like manner, Chremes."
+  },
+  {
+    "id": "p-6d2457",
+    "offset": 5497,
+    "text": "CHREMES:\nI am ready to serve you."
+  },
+  {
+    "id": "p-e33020",
+    "offset": 5532,
+    "text": "MENEDEMUS:\nDo you know what it is I now want you to do?"
+  },
+  {
+    "id": "p-d78e99",
+    "offset": 5589,
+    "text": "CHREMES:\nTell me."
+  },
+  {
+    "id": "p-fb9ec4",
+    "offset": 5608,
+    "text": "MENEDEMUS:\nAs you have perceived that they are laying a plan to deceive me, that they may hasten to complete it. I long to give him whatever he wants: I am now longing to behold him."
+  },
+  {
+    "id": "p-113e4e",
+    "offset": 5792,
+    "text": "CHREMES:\nI’ll lend my endeavors. This little business is in my way. Our neighbors Simus and Crito are disputing here about boundaries;"
+  },
+  {
+    "id": "p-cf57e2",
+    "offset": 5928,
+    "text": "they have chosen me for arbitrator. I’ll go and tell them that I can not possibly give them my attention to-day as I had stated I would. I’ll be here immediately.\n(Exit.)"
+  },
+  {
+    "id": "p-ceb99c",
+    "offset": 6100,
+    "text": "MENEDEMUS:\nPray do. (To himself.) Ye Gods, by our trust in you! That the nature of all men should be so constituted, that they can see and judge of other men’s affairs better than their own! Is it because in our own concerns we are biased either with joy or grief in too great a degree? How much wiser now is he for me, than I have been for myself!\n(Re-enter CHREMES.)"
+  },
+  {
+    "id": "p-581503",
+    "offset": 6470,
+    "text": "CHREMES:\nI have disengaged myself, that I might lend you my services at my leisure. Syrus must be found and instructed by me in this business."
+  },
+  {
+    "id": "p-b042b4",
+    "offset": 6614,
+    "text": "Some one, I know not who, is coming out of my house: do you step hence home, that they may not perceive that we are conferring together.\n(MENEDEMUS goes into his house.)"
+  },
+  {
+    "id": "p-0d9ccd",
+    "offset": 6785,
+    "text": "(Enter SYRUS from the house of CHREMES.)"
+  },
+  {
+    "id": "p-e82116",
+    "offset": 6827,
+    "text": "SYRUS:\n(aloud to himself.)\nRun to and fro in every direction; still, money, you must be found: a trap must be laid for the old man."
+  },
+  {
+    "id": "p-debb70",
+    "offset": 6960,
+    "text": "CHREMES:\n(apart, overhearing him.)\nWas I deceived in saying that they were planning this?"
+  },
+  {
+    "id": "p-773083",
+    "offset": 7051,
+    "text": "That servant of Clinia’s is somewhat dull; therefore that province has been assigned to this one of ours."
+  },
+  {
+    "id": "p-70d539",
+    "offset": 7158,
+    "text": "SYRUS:\n(in a low voice.)\nWho’s that speaking? (Catches sight of CGREMES.) I’m undone! Did he hear it, I wonder?"
+  },
+  {
+    "id": "p-f44e93",
+    "offset": 7271,
+    "text": "CHREMES:\nSyrus."
+  },
+  {
+    "id": "p-b00128",
+    "offset": 7288,
+    "text": "SYRUS:\nWell—"
+  },
+  {
+    "id": "p-ba95f6",
+    "offset": 7302,
+    "text": "CHREMES:\nWhat are you doing here?"
+  },
+  {
+    "id": "p-c23620",
+    "offset": 7337,
+    "text": "SYRUS:\nAll right. Really, I am quite surprised at you, Chremes, up so early, after drinking so much yesterday."
+  },
+  {
+    "id": "p-605040",
+    "offset": 7449,
+    "text": "CHREMES:\nNot too much."
+  },
+  {
+    "id": "p-d12be1",
+    "offset": 7473,
+    "text": "SYRUS:\nNot too much, say you? Really, you’ve seen the old age of an eagle, as the saying is."
+  },
+  {
+    "id": "p-8f8cdb",
+    "offset": 7567,
+    "text": "CHREMES:\nPooh, pooh!"
+  },
+  {
+    "id": "p-a43437",
+    "offset": 7589,
+    "text": "SYRUS:\nA pleasant and agreeable woman this Courtesan."
+  },
+  {
+    "id": "p-0e8d97",
+    "offset": 7644,
+    "text": "CHREMES:\nWhy, so she seemed to me, in fact."
+  },
+  {
+    "id": "p-bb2972",
+    "offset": 7689,
+    "text": "SYRUS:\nAnd really of handsome appearance."
+  },
+  {
+    "id": "p-8b63e5",
+    "offset": 7732,
+    "text": "CHREMES:\nWell enough."
+  },
+  {
+    "id": "p-422755",
+    "offset": 7755,
+    "text": "SYRUS:\nNot like those of former days, but as times are now, very passable:"
+  },
+  {
+    "id": "p-9eb913",
+    "offset": 7831,
+    "text": "nor do I in the least wonder that Clinia doats upon her. But he has a father—a certain covetous, miserable, and niggardly person—this neighbor of ours (pointing to the house). Do you know him? Yet, as if he was not abounding in wealth, his son ran away through want. Are you aware that it is the fact, as I am saying?"
+  },
+  {
+    "id": "p-5631be",
+    "offset": 8150,
+    "text": "CHREMES:\nHow should I not be aware?"
+  },
+  {
+    "id": "p-e9001c",
+    "offset": 8187,
+    "text": "A fellow that deserves the mill."
+  },
+  {
+    "id": "p-c3cb40",
+    "offset": 8221,
+    "text": "SYRUS:\nWho?"
+  },
+  {
+    "id": "p-0db044",
+    "offset": 8234,
+    "text": "CHREMES:\nThat servant of the young gentleman, I mean."
+  },
+  {
+    "id": "p-83c7d2",
+    "offset": 8289,
+    "text": "SYRUS:\n(aside.)\nSyrus! I was sadly afraid for you."
+  },
+  {
+    "id": "p-e7e748",
+    "offset": 8341,
+    "text": "CHREMES:\nTo suffer it to come to this!"
+  },
+  {
+    "id": "p-4c84be",
+    "offset": 8381,
+    "text": "SYRUS:\nWhat was he to do?"
+  },
+  {
+    "id": "p-542cf8",
+    "offset": 8408,
+    "text": "CHREMES:\nDo you ask the question? He ought to have found some expedient, contrived some stratagem, by means of which there might have been something for the young man to give to his mistress, and thus have saved this crabbed old fellow in spite of himself."
+  },
+  {
+    "id": "p-e08b63",
+    "offset": 8666,
+    "text": "SYRUS:\nYou are surely joking."
+  },
+  {
+    "id": "p-ae7eee",
+    "offset": 8697,
+    "text": "CHREMES:\nThis ought to have been done by him, Syrus."
+  },
+  {
+    "id": "p-e39ad5",
+    "offset": 8751,
+    "text": "SYRUS:\nHow now—pray, do you commend servants, who deceive their masters?"
+  },
+  {
+    "id": "p-0b955c",
+    "offset": 8825,
+    "text": "CHREMES:\nUpon occasion—I certainly do commend them."
+  },
+  {
+    "id": "p-1d4fca",
+    "offset": 8878,
+    "text": "SYRUS:\nQuite right."
+  },
+  {
+    "id": "p-fa7e1e",
+    "offset": 8899,
+    "text": "CHREMES:\nInasmuch as it often is the remedy for great disturbances."
+  },
+  {
+    "id": "p-d5387f",
+    "offset": 8968,
+    "text": "Then would this man’s only son have staid at home."
+  },
+  {
+    "id": "p-1ee260",
+    "offset": 9020,
+    "text": "SYRUS:\n(aside.)\nWhether he says this in jest or in earnest, I don’t know; only, in fact, that he gives me additional zest for longing still more to trick him."
+  },
+  {
+    "id": "p-89a655",
+    "offset": 9180,
+    "text": "CHREMES:\nAnd what is he now waiting for, Syrus? Is it until his father drives him away from here a second time, when he can no longer support her expenses?"
+  },
+  {
+    "id": "p-21d3a3",
+    "offset": 9337,
+    "text": "Has he no plot on foot against the old gentleman?"
+  },
+  {
+    "id": "p-25818e",
+    "offset": 9388,
+    "text": "SYRUS:\nHe is a stupid fellow."
+  },
+  {
+    "id": "p-1b5200",
+    "offset": 9419,
+    "text": "CHREMES:\nThen you ought to assist him—for the sake of the young man."
+  },
+  {
+    "id": "p-a23ad0",
+    "offset": 9489,
+    "text": "SYRUS:\nFor my part, I can do so easily, if you command me; for I know well in what fashion it is usually done."
+  },
+  {
+    "id": "p-600ddd",
+    "offset": 9601,
+    "text": "CHREMES:\nSo much the better, i’ faith."
+  },
+  {
+    "id": "p-c0c9a1",
+    "offset": 9641,
+    "text": "SYRUS:\n’Tis not my way to tell an untruth."
+  },
+  {
+    "id": "p-f1ed30",
+    "offset": 9685,
+    "text": "CHREMES:\nDo it then."
+  },
+  {
+    "id": "p-867894",
+    "offset": 9707,
+    "text": "SYRUS:\nBut hark you! Just take care and remember this, in case any thing of this sort should perchance happen at a future time, such are human affairs!—your son might do the same."
+  },
+  {
+    "id": "p-94b237",
+    "offset": 9888,
+    "text": "CHREMES:\nThe necessity will not arise, I trust."
+  },
+  {
+    "id": "p-1f211b",
+    "offset": 9937,
+    "text": "SYRUS:\nI’ faith, and I trust so too: nor do I say so now, because I have suspected him in any way;"
+  },
+  {
+    "id": "p-ff4797",
+    "offset": 10037,
+    "text": "but in case, none the more —You see what his age is; (aside) and truly, Chremes, if an occasion does happen, I may be able to handle you right handsomely."
+  },
+  {
+    "id": "p-91994a",
+    "offset": 10193,
+    "text": "CHREMES:\nAs to that, we’ll consider what is requisite when the occasion does happen. At present do you set about this matter.\n(Goes into his house.)"
+  },
+  {
+    "id": "p-3f97be",
+    "offset": 10343,
+    "text": "SYRUS:\n(to himself.)\nNever on any occasion did I hear my master talk more to the purpose;"
+  },
+  {
+    "id": "p-14dc80",
+    "offset": 10434,
+    "text": "nor at any time could I believe that I was authorized to play the rogue with greater impunity. I wonder who it is coming out of our house?\n(Stands aside.)"
+  },
+  {
+    "id": "p-936dac",
+    "offset": 10590,
+    "text": "(Enter CHREMES and CLITIPHO from the house of the former.)"
+  },
+  {
+    "id": "p-6ba572",
+    "offset": 10650,
+    "text": "CHREMES:\nPray, what does this mean? What behavior is this, Clitipho? Is this acting as becomes you?"
+  },
+  {
+    "id": "p-b47e35",
+    "offset": 10751,
+    "text": "CLITIPHO:\nWhat have I done?"
+  },
+  {
+    "id": "p-295eb6",
+    "offset": 10780,
+    "text": "CHREMES:\nDid I not see you just now putting your hand into this Courtesan’s bosom?"
+  },
+  {
+    "id": "p-a1463a",
+    "offset": 10864,
+    "text": "SYRUS:\n(apart.)\nIt’s all up with us—I’m utterly undone!"
+  },
+  {
+    "id": "p-7e553b",
+    "offset": 10921,
+    "text": "CLITIPHO:\nWhat, I?"
+  },
+  {
+    "id": "p-ccc302",
+    "offset": 10941,
+    "text": "CHREMES:\nWith these self-same eyes I saw it—don’t deny it."
+  },
+  {
+    "id": "p-d9445b",
+    "offset": 11001,
+    "text": "Besides, you wrong him unworthily in not keeping your hands off: for indeed it is a gross affront to entertain a person, your friend, at your house, and to take liberties with his mistress. Yesterday, for instance, at wine, how rude you were—"
+  },
+  {
+    "id": "p-0a93f7",
+    "offset": 11245,
+    "text": "SYRUS:\n(apart.)\n’Tis the truth"
+  },
+  {
+    "id": "p-fa6571",
+    "offset": 11277,
+    "text": "CHREMES:\nHow annoying you were! So much so, that for my part, as the Gods may prosper me, I dreaded what in the end might be the consequence."
+  },
+  {
+    "id": "p-247601",
+    "offset": 11420,
+    "text": "I understand lovers. They resent highly things that you would not imagine."
+  },
+  {
+    "id": "p-6aee1b",
+    "offset": 11496,
+    "text": "CLITIPHO:\nBut he has full confidence in me, father, that I would not do any thing of that kind."
+  },
+  {
+    "id": "p-d2aa52",
+    "offset": 11593,
+    "text": "CHREMES:\nBe it so; still, at least, you ought to go somewhere for a little time away from their presence. Passion prompts to many a thing; your presence acts as a restraint upon doing them. I form a judgment from myself. There’s not one of my friends this day to whom I would venture, Clitipho, to disclose all my secrets. With one, his station forbids it; with another, I am ashamed of the action itself, lest I may appear a fool or devoid of shame; do you rest assured that he does the same. But it is our part to be sensible of this; and, when and where it is requisite, to show due complaisance."
+  },
+  {
+    "id": "p-3ab026",
+    "offset": 12194,
+    "text": "SYRUS:\n(coming forward and whispering to CLITIPHO.)\nWhat is it he is saying?"
+  },
+  {
+    "id": "p-fbc846",
+    "offset": 12272,
+    "text": "CLITIPHO:\n(aside, to SYRUS.)\nI’m utterly undone!"
+  },
+  {
+    "id": "p-07defe",
+    "offset": 12322,
+    "text": "SYRUS:\nClitipho, these same injunctions I gave you."
+  },
+  {
+    "id": "p-3357b1",
+    "offset": 12375,
+    "text": "You have acted the part of a prudent and discreet person."
+  },
+  {
+    "id": "p-762beb",
+    "offset": 12434,
+    "text": "CLITIPHO:\nHold your tongue, I beg."
+  },
+  {
+    "id": "p-2b9b99",
+    "offset": 12470,
+    "text": "SYRUS:\nVery good."
+  },
+  {
+    "id": "p-fde0e0",
+    "offset": 12489,
+    "text": "CHREMES:\n(approaching them.)\nSyrus, I am ashamed of him."
+  },
+  {
+    "id": "p-77fa1a",
+    "offset": 12547,
+    "text": "SYRUS:\nI believe it; and not without reason. Why, he vexes myself even."
+  },
+  {
+    "id": "p-9a4bb7",
+    "offset": 12620,
+    "text": "CLITIPHO:\n(to SYRUS.)\nDo you persist, then?"
+  },
+  {
+    "id": "p-870ab6",
+    "offset": 12665,
+    "text": "SYRUS:\nI’ faith, I’m saying the truth, as it appears to me."
+  },
+  {
+    "id": "p-c5d9d5",
+    "offset": 12726,
+    "text": "CLITIPHO:\nMay I not go near them?"
+  },
+  {
+    "id": "p-88d9eb",
+    "offset": 12761,
+    "text": "CHREMES:\nHow now—pray, is there but one way of going near them?"
+  },
+  {
+    "id": "p-436865",
+    "offset": 12826,
+    "text": "SYRUS:\n(aside.)\nConfusion! He’ll be betraying himself before I’ve got the money."
+  },
+  {
+    "id": "p-2107f4",
+    "offset": 12908,
+    "text": "(Aloud.) Chremes, will you give attention to me, who am but a silly person?"
+  },
+  {
+    "id": "p-daeae7",
+    "offset": 12985,
+    "text": "CHREMES:\nWhat am I to do?"
+  },
+  {
+    "id": "p-148e88",
+    "offset": 13012,
+    "text": "SYRUS:\nBid him go somewhere out of the way."
+  },
+  {
+    "id": "p-551d44",
+    "offset": 13057,
+    "text": "CLITIPHO:\nWhere am I to go?"
+  },
+  {
+    "id": "p-1b2a47",
+    "offset": 13086,
+    "text": "SYRUS:\nWhere you please; leave the place to them; be off and take a walk."
+  },
+  {
+    "id": "p-9a86d9",
+    "offset": 13161,
+    "text": "CLITIPHO:\nTake a walk! where?"
+  },
+  {
+    "id": "p-481151",
+    "offset": 13192,
+    "text": "SYRUS:\nPshaw! Just as if there was no place to walk in. Why, then, go this way, that way, where you will."
+  },
+  {
+    "id": "p-9d12bd",
+    "offset": 13299,
+    "text": "CHREMES:\nHe says right, I’m of his opinion."
+  },
+  {
+    "id": "p-8b01a9",
+    "offset": 13344,
+    "text": "CLITIPHO:\nMay the Gods extirpate you, Syrus, for thrusting me away from here."
+  },
+  {
+    "id": "p-d28d38",
+    "offset": 13423,
+    "text": "SYRUS:\n(aside to CLITIPHO.)\nThen do you for the future keep those hands of yours within bounds. (Exit CLITIPHO.) Really now (to CHREMES), what do you think? What do you imagine will become of him next, unless, so far as the Gods afford you the means, you watch him, correct and admonish him?"
+  },
+  {
+    "id": "p-a07eaa",
+    "offset": 13716,
+    "text": "CHREMES:\nI’ll take care of that."
+  },
+  {
+    "id": "p-3ce836",
+    "offset": 13750,
+    "text": "SYRUS:\nBut now, master, he must be looked after by you."
+  },
+  {
+    "id": "p-2c7577",
+    "offset": 13807,
+    "text": "CHREMES:\nIt shall be done."
+  },
+  {
+    "id": "p-d83b83",
+    "offset": 13835,
+    "text": "SYRUS:\nIf you are wise,—for now he minds me less and less every day."
+  },
+  {
+    "id": "p-fc7983",
+    "offset": 13905,
+    "text": "CHREMES:\nWhat say you? What have you done, Syrus, about that matter which I was mentioning to you a short time since? Have you any plan that suits you, or not yet even?"
+  },
+  {
+    "id": "p-a448e2",
+    "offset": 14075,
+    "text": "SYRUS:\nYou mean the design upon Menedemus? I have; I have just hit upon one."
+  },
+  {
+    "id": "p-597b1c",
+    "offset": 14153,
+    "text": "CHREMES:\nYou are a clever fellow; what is it? Tell me."
+  },
+  {
+    "id": "p-dbd065",
+    "offset": 14209,
+    "text": "SYRUS:\nI’ll tell you; but, as one matter arises out of another—"
+  },
+  {
+    "id": "p-6a69de",
+    "offset": 14274,
+    "text": "CHREMES:\nWhy, what. is it, Syrus?"
+  },
+  {
+    "id": "p-1ebe30",
+    "offset": 14309,
+    "text": "SYRUS:\nThis Courtesan is a very bad woman."
+  },
+  {
+    "id": "p-2ef375",
+    "offset": 14353,
+    "text": "CHREMES:\nSo she seems."
+  },
+  {
+    "id": "p-d0bdbe",
+    "offset": 14377,
+    "text": "SYRUS:\nAye, if you did but know."
+  },
+  {
+    "id": "p-844eef",
+    "offset": 14411,
+    "text": "O shocking! just see what she is hatching. There was a certain old woman here from Corinth,—this Bacchis lent her a thousand silver drachmae."
+  },
+  {
+    "id": "p-9cdbd7",
+    "offset": 14554,
+    "text": "CHREMES:\nWhat then?"
+  },
+  {
+    "id": "p-127ecc",
+    "offset": 14575,
+    "text": "SYRUS:\nShe is now dead: she has left a daughter, a young girl. She has been left with this Bacchis as a pledge for that sum."
+  },
+  {
+    "id": "p-ba93ee",
+    "offset": 14701,
+    "text": "CHREMES:\nI understand you."
+  },
+  {
+    "id": "p-45b2d8",
+    "offset": 14729,
+    "text": "SYRUS:\nShe has brought her hither along with her, her I mean who is now with your wife."
+  },
+  {
+    "id": "p-9cdbd7",
+    "offset": 14818,
+    "text": "CHREMES:\nWhat then?"
+  },
+  {
+    "id": "p-028e43",
+    "offset": 14839,
+    "text": "SYRUS:\nShe is soliciting Clinia at once to advance her this money; she says, however, that this girl is to be a security, that, at a future time, she will repay the thousand pieces of money."
+  },
+  {
+    "id": "p-e3611e",
+    "offset": 15031,
+    "text": "CHREMES:\nAnd would she really be a security?"
+  },
+  {
+    "id": "p-14dbc3",
+    "offset": 15077,
+    "text": "SYRUS:\nDear me, is it to be doubted?"
+  },
+  {
+    "id": "p-ce71d7",
+    "offset": 15115,
+    "text": "I think so."
+  },
+  {
+    "id": "p-74fc6d",
+    "offset": 15128,
+    "text": "CHREMES:\nWhat then do you intend doing?"
+  },
+  {
+    "id": "p-655c03",
+    "offset": 15169,
+    "text": "SYRUS:\nWhat, I? I shall go to Menedemus; I’ll tell him she is a captive from Caria, rich, and of noble family; if he redeems her, there will be a considerable profit in this transaction."
+  },
+  {
+    "id": "p-4d33df",
+    "offset": 15357,
+    "text": "CHREMES:\nYou are in an error."
+  },
+  {
+    "id": "p-ef2b2d",
+    "offset": 15388,
+    "text": "SYRUS:\nWhy so?"
+  },
+  {
+    "id": "p-5849e8",
+    "offset": 15404,
+    "text": "CHREMES:\nI’ll now answer you for Menedemus—I will not purchase her."
+  },
+  {
+    "id": "p-70b7db",
+    "offset": 15473,
+    "text": "SYRUS:\nWhat is it you say? Do speak more agreeably to our wishes."
+  },
+  {
+    "id": "p-f5811f",
+    "offset": 15540,
+    "text": "CHREMES:\nBut there is no occasion."
+  },
+  {
+    "id": "p-fd5682",
+    "offset": 15576,
+    "text": "SYRUS:\nNo occasion?"
+  },
+  {
+    "id": "p-53d36d",
+    "offset": 15597,
+    "text": "CHREMES:\nCertainly not, i’ faith."
+  },
+  {
+    "id": "p-0e2bed",
+    "offset": 15632,
+    "text": "SYRUS:\nHow so, I wonder?"
+  },
+  {
+    "id": "p-7d03b1",
+    "offset": 15658,
+    "text": "CHREMES:\nYou shall soon know."
+  },
+  {
+    "id": "p-65493c",
+    "offset": 15689,
+    "text": "SYRUS:\nStop, stop; what is the reason that there is such a great noise at our door?\n(They retire out of sight.)"
+  }
+]

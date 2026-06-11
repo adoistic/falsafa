@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-nausimachus-and-xenopeit-d99a40",
+  "work_title": "Against Nausimachus and Xenopeithes",
+  "chapter_number": 1,
+  "chapter_title": "Against Nausimachus and Xenopeithes",
+  "chapter_slug": "01-against-nausimachus-and-xenopeithes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ad77635a-ae4c-5da5-b0bb-c40bec489663",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1849,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg038.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0b615087-4db1-5978-ac0f-cd82434e5d1b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2854,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg038.perseus-eng2"
+    }
+  ]
+}

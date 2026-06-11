@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+  "work_title": "Letters to Atticus",
+  "chapter_number": 413,
+  "chapter_title": "Chapter text=A:book=15:letter=24",
+  "chapter_slug": "413",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c4be693a-8af8-5067-a59a-e17606cefced",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 75,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:413"
+    }
+  ]
+}

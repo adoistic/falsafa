@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-demosthenes-4388af",
+  "work_title": "Demosthenes",
+  "chapter_number": 24,
+  "chapter_title": "Chapter 24",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3f417c1c-c59c-5547-99eb-c444481562eb",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 125,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg054.perseus-grc2:24"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5f53cb0b-22e4-5671-8790-d2975f17d309",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 208,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg054.perseus-eng2:24"
+    }
+  ]
+}

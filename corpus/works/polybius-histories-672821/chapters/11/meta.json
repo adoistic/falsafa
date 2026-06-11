@@ -1,0 +1,38 @@
+{
+  "work_slug": "polybius-histories-672821",
+  "work_title": "Histories",
+  "chapter_number": 11,
+  "chapter_title": "Book 11",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7b453382-dcbf-5a73-9732-75dcbe97c9b6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8279,
+      "paragraph_count": 323,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ebf617ec-4ffa-5cc9-95a1-db48aa25dbfa",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 10647,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-eng2:11"
+    }
+  ]
+}

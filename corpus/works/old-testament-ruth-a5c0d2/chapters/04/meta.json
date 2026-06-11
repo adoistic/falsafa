@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ruth-a5c0d2",
+  "work_title": "Ruth",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8b2b6f77-0e7f-5ab6-95f3-5722572af8c5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 520,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg010.1st1K-grc1:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23afb803-c9a3-55ca-99c7-6fdb1a64c6df",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 640,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg010.perseus-eng2:4"
+    }
+  ]
+}

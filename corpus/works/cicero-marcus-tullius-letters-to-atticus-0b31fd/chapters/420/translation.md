@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 420
+chapter_title: "Chapter text=A:book=16:letter=16a"
+chapter_slug: 420
+variant_id: "947a3660-60cc-540c-9215-0139924a3f65"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 644
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:420"
+translator: Perseus Digital Library
+---
+
+TO L. MUNATIUS PLANCUS (AT ROME) (ARPINUM BEFORE 6TH OF JULY)
+
+MARCUS Cicero greets Lucius Munatius Plancus, praetor-designate. I know you are fond of our friend Atticus, while for my society you show so much taste that upon my word I think I have few friends so attentive and affectionate. For to our ancestral ties—so close, old, and legitimate—a great additional force has been added by your personal kind feeling towards me and an equal and mutual one on my part towards you. Now you are acquainted with the case of the Buthrotians, for I have often pleaded it and clearly set it forth in your hearing. Its history is as follows. As soon as we observed that the territory of Buthrotum was declared confiscate, Atticus in great alarm drew up a petition. He put that in my hands to present to Caesar: for I happened to be going to dine with him on that day. I presented that petition to Caesar. He approved of the plea and wrote in answer to Atticus saying that his demand was fair. He, however, warned him that the Buthrotians must pay their arrears to the day. Atticus in his eager desire for the preservation of the state paid the money out of his own pocket. That being done I approached Caesar, stated the Buthrotian case, and obtained a decree of the most generous nature, which was countersigned by men of the highest rank. In these circumstances I own that I used to be surprised at Caesar allowing a number of men who had cast greedy eyes on the Buthrotian territory to hold meetings; and that he not only allowed that, but even put you at the head of the land-commission. Accordingly, on my remonstrating with him, and indeed so often that I incurred a rebuke from him for not trusting his fidelity to his word, he told both Marcus Messalla and Atticus himself not to be alarmed, and made no concealment of the fact that he did not wish—for he was fond of popularity, as you know—to hurt the feelings of those who were in possession; but since they had already crossed the sea, he would see to their being removed to some other land. This is what happened while he was alive. Well, after Caesar's death, as soon as the consuls in accordance with a decree of the senate began hearing cases, what I have just told you was laid before them. They admitted the plea without any hesitation and said that they would send you a despatch. However, my dear Plancus, though I did not doubt that a senatorial decree, a law, and the decision and despatch of the consuls would have the greatest weight with you, and although I quite understood that you wished to please Atticus himself, yet in view of our friendship and mutual goodwill I have ventured to beg of you, what your own unique kindness and exquisite goodness of heart would be sure to obtain from you. It is that, what I feel sure you will do of your own accord, you should out of compliment to me do with heartiness, completeness, and speed. No one is a warmer, more charming, or dearer friend than Atticus is to me. Formerly it was only his money, and that a very large sum, that was at stake: now it concerns his credit also, that he should by your assistance maintain what he had secured by the exertion of great industry and influence both in Caesar's lifetime and after it. If I obtain this favour from you, I should wish you to consider that I shall construe your liberality as a personal benefit of the highest kind to myself. I will attend with zeal and diligence to whatever I may think is your wish or to your interest. Take care of your health.

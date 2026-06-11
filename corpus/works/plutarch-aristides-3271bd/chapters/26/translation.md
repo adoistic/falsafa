@@ -1,0 +1,25 @@
+---
+work_id: "3271bd9e-cd6b-5eb0-97dd-d9c60cec3dd4"
+work_slug: "plutarch-aristides-3271bd"
+work_title: Aristides
+author_name: Plutarch
+chapter_number: 26
+chapter_title: Chapter 26
+chapter_slug: 26
+variant_id: "57123635-2a2d-59d2-be04-e0d526ea2ff8"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 260
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg024.perseus-eng2:26"
+translator: Bernadotte Perrin
+---
+
+As touching the death of Aristides, some say he died in Pontus, on an expedition in the public service; others at Athens, of old age, honored and admired by his countrymen. But Craterus the Macedonian tells something like this about the death of the man. After the exile of Themistocles, he says, the people waxed wanton, as it were, and produced a great crop of sycophants, who hounded down the noblest and most influential men, and subjected them to the malice of the multitude, now exalted with its prosperity and power.
+
+Among these he says that Aristides also was convicted of bribery, on prosecution of Diophantus of the deme Amphitrope, for having taken money from the Ionians when he was regulating the tributes; and, further, that being unable to pay the judgment, which was fifty minas, he sailed away and died somewhere in Ionia. But Craterus furnishes no documentary proof of this,—no judgment of the court, no degree of indictment,—although he is wont to record such things with all due fullness, and to adduce his authorities.
+
+All the rest, as I may venture to say,—all who rehearse the shortcomings of the people in dealing with their leaders,—compile and descant upon the exile of Themistocles, the imprisonment of Miltiades, the fine of Pericles, the death of Paches in the court room,—he slew himself on the rostrum when he saw that he was convicted,—and many such a case, and they put into the list the ostracism of Aristides, but of such a condemnation as this for bribery they make no mention whatsoever.

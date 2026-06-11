@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-demosthenes-4388af",
+  "work_title": "Demosthenes",
+  "chapter_number": 29,
+  "chapter_title": "Chapter 29",
+  "chapter_slug": "29",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "16ed4ed2-a6d1-59d9-85d6-cfd13f9b7cd5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 258,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg054.perseus-grc2:29"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "41ff5b32-0045-523d-892a-b666494bf911",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 397,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg054.perseus-eng2:29"
+    }
+  ]
+}

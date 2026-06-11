@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-luke-f4a47d",
+  "work_title": "Luke",
+  "chapter_number": 23,
+  "chapter_title": "Chapter 23",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ac6e4c28-b9da-50a1-a220-2b1797a77103",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 846,
+      "paragraph_count": 145,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg003.perseus-grc2:23"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6242fade-d6e5-53ed-9f05-f88b81d862f8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1053,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg003.perseus-eng2:23"
+    }
+  ]
+}

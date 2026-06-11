@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+  "work_title": "Letters to Atticus",
+  "chapter_number": 142,
+  "chapter_title": "Chapter text=A:book=7:letter=17",
+  "chapter_slug": "142",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cddf37df-7139-5e2a-8dde-3f26f435f584",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 733,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:142"
+    }
+  ]
+}

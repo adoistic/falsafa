@@ -1,0 +1,2547 @@
+[
+  {
+    "id": "p-7841e9",
+    "offset": 0,
+    "text": "A solid is that which has length, breadth, and depth."
+  },
+  {
+    "id": "p-529461",
+    "offset": 55,
+    "text": "An extremity of a solid is a surface."
+  },
+  {
+    "id": "p-c28d73",
+    "offset": 94,
+    "text": "A straight line is at right angles to a plane, when it makes right angles with all the straight lines which meet it and are in the plane."
+  },
+  {
+    "id": "p-eaf9b3",
+    "offset": 233,
+    "text": "A plane is at right angles to a plane when the straight lines drawn, in one of the planes, at right angles to the common section of the planes are at right angles to the remaining plane."
+  },
+  {
+    "id": "p-e5a093",
+    "offset": 421,
+    "text": "The inclination of a straight line to a plane is, assuming a perpendicular drawn from the extremity of the straight line which is elevated above the plane to the plane, and a straight line joined from the point thus arising to the extremity of the straight line which is in the plane, the angle contained by the straight line so drawn and the straight line standing up."
+  },
+  {
+    "id": "p-a8fcb2",
+    "offset": 792,
+    "text": "The inclination of a plane to a plane is the acute angle contained by the straight lines drawn at right angles to the common section at the same point, one in each of the planes."
+  },
+  {
+    "id": "p-44353d",
+    "offset": 972,
+    "text": "A plane is said to be similarly inclined to a plane as another is to another when the said angles of the inclinations are equal to one another."
+  },
+  {
+    "id": "p-333006",
+    "offset": 1117,
+    "text": "Parallel planes are those which do not meet."
+  },
+  {
+    "id": "p-51d09f",
+    "offset": 1163,
+    "text": "Similar solid figures are those contained by similar planes equal in multitude."
+  },
+  {
+    "id": "p-8b2f91",
+    "offset": 1244,
+    "text": "Equal and similar solid figures are those contained by similar planes equal in multitude and in magnitude."
+  },
+  {
+    "id": "p-82ac89",
+    "offset": 1352,
+    "text": "A solid angle is the inclination constituted by more than two lines which meet one another and are not in the same surface, towards all the lines."
+  },
+  {
+    "id": "p-24a900",
+    "offset": 1500,
+    "text": "Otherwise: A solid angle is that which is contained by more than two plane angles which are not in the same plane and are constructed to one point."
+  },
+  {
+    "id": "p-2e7892",
+    "offset": 1649,
+    "text": "A pyramid is a solid figure, contained by planes, which is constructed from one plane to one point."
+  },
+  {
+    "id": "p-62e6cc",
+    "offset": 1750,
+    "text": "A prism is a solid figure contained by planes two of which, namely those which are opposite, are equal, similar and parallel, while the rest are parallelograms."
+  },
+  {
+    "id": "p-b87fc3",
+    "offset": 1912,
+    "text": "When, the diameter of a semicircle remaining fixed, the semicircle is carried round and restored again to the same position from which it began to be moved, the figure so comprehended is a sphere."
+  },
+  {
+    "id": "p-8b89e4",
+    "offset": 2110,
+    "text": "The axis of the sphere is the straight line which remains fixed and about which the semicircle is turned."
+  },
+  {
+    "id": "p-372bcc",
+    "offset": 2217,
+    "text": "The centre of the sphere is the same as that of the semicircle."
+  },
+  {
+    "id": "p-0fe40e",
+    "offset": 2282,
+    "text": "A diameter of the sphere is any straight line drawn through the centre and terminated in both directions by the surface of the sphere."
+  },
+  {
+    "id": "p-d349d3",
+    "offset": 2418,
+    "text": "When, one side of those about the right angle in a right-angled triangle remaining fixed, the triangle is carried round and restored again to the same position from which it began to be moved, the figure so comprehended is a cone."
+  },
+  {
+    "id": "p-4bcb69",
+    "offset": 2650,
+    "text": "And, if the straight line which remains fixed be equal to the remaining side about the right angle which is carried round, the cone will be right-angled; if less, obtuse-angled; and if greater, acute-angled."
+  },
+  {
+    "id": "p-e15ccd",
+    "offset": 2859,
+    "text": "The axis of the cone is the straight line which remains fixed and about which the triangle is turned."
+  },
+  {
+    "id": "p-4f85e1",
+    "offset": 2962,
+    "text": "And the base is the circle described by the straight line which is carried round."
+  },
+  {
+    "id": "p-b2e556",
+    "offset": 3045,
+    "text": "When, one side of those about the right angle in a rectangular parallelogram remaining fixed, the parallelogram is carried round and restored again to the same position from which it began to be moved, the figure so comprehended is a cylinder."
+  },
+  {
+    "id": "p-014a38",
+    "offset": 3290,
+    "text": "The axis of the cylinder is the straight line which remains fixed and about which the parallelogram is turned."
+  },
+  {
+    "id": "p-ecca4a",
+    "offset": 3402,
+    "text": "And the bases are the circles described by the two sides opposite to one another which are carried round."
+  },
+  {
+    "id": "p-6e2f6b",
+    "offset": 3509,
+    "text": "Similar cones and cylinders are those in which the axes and the diameters of the bases are proportional."
+  },
+  {
+    "id": "p-edaebb",
+    "offset": 3615,
+    "text": "A cube is a solid figure contained by six equal squares."
+  },
+  {
+    "id": "p-21cebc",
+    "offset": 3673,
+    "text": "An octahedron is a solid figure contained by eight equal and equilateral triangles."
+  },
+  {
+    "id": "p-242779",
+    "offset": 3758,
+    "text": "An icosahedron is a solid figure contained by twenty equal and equilateral triangles."
+  },
+  {
+    "id": "p-9a53d5",
+    "offset": 3845,
+    "text": "A dodecahedron is a solid figure contained by twelve equal, equilateral, and equiangular pentagons."
+  },
+  {
+    "id": "p-b4712a",
+    "offset": 3946,
+    "text": "A part of a straight line cannot be in the plane of reference and a part in a plane more elevated."
+  },
+  {
+    "id": "p-ed8248",
+    "offset": 4046,
+    "text": "For, if possible, let a part AB of the straight line ABC be in the plane of reference, and a part BC in a plane more elevated."
+  },
+  {
+    "id": "p-dfb208",
+    "offset": 4174,
+    "text": "There will then be in the plane of reference some straight line continuous with AB in a straight line."
+  },
+  {
+    "id": "p-6730bd",
+    "offset": 4278,
+    "text": "Let it be BD; therefore AB is a common segment of the two straight lines ABC, ABD: which is impossible, inasmuch as, if we describe a circle with centre B and distance AB, the diameters will cut off unequal circumferences of the circle."
+  },
+  {
+    "id": "p-135ac0",
+    "offset": 4516,
+    "text": "Therefore a part of a straight line cannot be in the plane of reference, and a part in a plane more elevated. Q. E. D."
+  },
+  {
+    "id": "p-9404ea",
+    "offset": 4636,
+    "text": "If two straight lines cut one another, they are in one plane, and every triangle is in one plane."
+  },
+  {
+    "id": "p-bd8ffb",
+    "offset": 4735,
+    "text": "For let the two straight lines AB, CD cut one another at the point E; I say that AB, CD are in one plane, and every triangle is in one plane."
+  },
+  {
+    "id": "p-d39d2c",
+    "offset": 4878,
+    "text": "For let points F, G be taken at random on EC, EB, let CB, FG be joined, and let FH, GK be drawn across; I say first that the triangle ECB is in one plane."
+  },
+  {
+    "id": "p-f276ae",
+    "offset": 5034,
+    "text": "For, if part of the triangle ECB, either FHC or GBK, is in the plane of reference, and the rest in another, a part also of one of the straight lines EC, EB will be in the plane of reference, and a part in another."
+  },
+  {
+    "id": "p-2da911",
+    "offset": 5249,
+    "text": "But, if the part FCBG of the triangle ECB be in the plane of reference, and the rest in another, a part also of both the straight lines EC, EB will be in the plane of reference and a part in another: which was proved absurd. [ XI. 1]"
+  },
+  {
+    "id": "p-9bc7fc",
+    "offset": 5484,
+    "text": "Therefore the triangle ECB is in one plane."
+  },
+  {
+    "id": "p-f0cfce",
+    "offset": 5529,
+    "text": "But, in whatever plane the triangle ECB is, in that plane also is each of the straight lines EC, EB, and, in whatever plane each of the straight lines EC, EB is, in that plane are AB, CD also. [ XI. 1]"
+  },
+  {
+    "id": "p-04f4ef",
+    "offset": 5732,
+    "text": "Therefore the straight lines AB, CD are in one plane, and every triangle is in one plane. Q. E. D."
+  },
+  {
+    "id": "p-22cc2c",
+    "offset": 5832,
+    "text": "If two planes cut one another, their common section is a straight line."
+  },
+  {
+    "id": "p-924985",
+    "offset": 5905,
+    "text": "For let the two planes AB, BC cut one another, and let the line DB be their common section; I say that the line DB is a straight line."
+  },
+  {
+    "id": "p-d965a7",
+    "offset": 6041,
+    "text": "For, if not, from D to B let the straight line DEB be joined in the plane AB, and in the plane BC the straight line DFB."
+  },
+  {
+    "id": "p-501581",
+    "offset": 6163,
+    "text": "Then the two straight lines DEB, DFB will have the same extremities, and will clearly enclose an area: which is absurd."
+  },
+  {
+    "id": "p-19f2d3",
+    "offset": 6284,
+    "text": "Therefore DEB, DFB are not straight lines."
+  },
+  {
+    "id": "p-376b66",
+    "offset": 6328,
+    "text": "Similarly we can prove that neither will there be any other straight line joined from D to B except DB the common section of the planes AB, BC."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 6473,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-f0fb59",
+    "offset": 6498,
+    "text": "If a straight line be set up at right angles to two straight lines which cut one another, at their common point of section, it will also be at right angles to the plane through them."
+  },
+  {
+    "id": "p-22d0da",
+    "offset": 6682,
+    "text": "For let a straight line EF be set up at right angles to the two straight lines AB, CD, which cut one another at the point E, from E; I say that EF is also at right angles to the plane through AB, CD."
+  },
+  {
+    "id": "p-7664ed",
+    "offset": 6883,
+    "text": "For let AE, EB, CE, ED be cut off equal to one another, and let any straight line GEH be drawn across through E, at random; let AD, CB be joined, and further let FA, FG, FD, FC, FH, FB be joined from the point F taken at random lton EF gt."
+  },
+  {
+    "id": "p-7f5f25",
+    "offset": 7124,
+    "text": "Now, since the two straight lines AE, ED are equal to the two straight lines CE, EB, and contain equal angles, [ I. 15] therefore the base AD is equal to the base CB, and the triangle AED will be equal to the triangle CEB; [ I. 4] so that the angle DAE is also equal to the angle EBC."
+  },
+  {
+    "id": "p-1bfac8",
+    "offset": 7410,
+    "text": "But the angle AEG is also equal to the angle BEH; [ I. 15] therefore AGE, BEH are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely that adjacent to the equal angles, that is to say, AE to EB; therefore they will also have the remaining sides equal to the remaining sides. [ I. 26]"
+  },
+  {
+    "id": "p-ac28f9",
+    "offset": 7752,
+    "text": "Therefore GE is equal to EH, and AG to BH."
+  },
+  {
+    "id": "p-c2a0dd",
+    "offset": 7796,
+    "text": "And, since AE is equal to EB, while FE is common and at right angles, therefore the base FA is equal to the base FB. [ I. 4]"
+  },
+  {
+    "id": "p-c4a081",
+    "offset": 7922,
+    "text": "For the same reason FC is also equal to FD."
+  },
+  {
+    "id": "p-3b574b",
+    "offset": 7967,
+    "text": "And, since AD is equal to CB, and FA is also equal to FB, the two sides FA, AD are equal to the two sides FB, BC respectively; and the base FD was proved equal to the base FC; therefore the angle FAD is also equal to the angle FBC. [ I. 8]"
+  },
+  {
+    "id": "p-b56462",
+    "offset": 8208,
+    "text": "And since, again, AG was proved equal to BH, and further FA also equal to FB, the two sides FA, AG are equal to the two sides FB, BH."
+  },
+  {
+    "id": "p-ef95f1",
+    "offset": 8343,
+    "text": "And the angle FAG was proved equal to the angle FBH; therefore the base FG is equal to the base FH. [ I. 4]"
+  },
+  {
+    "id": "p-6dbbf6",
+    "offset": 8452,
+    "text": "Now since, again, GE was proved equal to EH, and EF is common, the two sides GE, EF are equal to the two sides HE, EF; and the base FG is equal to the base FH; therefore the angle GEF is equal to the angle HEF. [ I. 8]"
+  },
+  {
+    "id": "p-036de6",
+    "offset": 8672,
+    "text": "Therefore each of the angles GEF, HEF is right."
+  },
+  {
+    "id": "p-d21e21",
+    "offset": 8721,
+    "text": "Therefore FE is at right angles to GH drawn at random through E."
+  },
+  {
+    "id": "p-3c3330",
+    "offset": 8787,
+    "text": "Similarly we can prove that FE will also make right angles with all the straight lines which meet it and are in the plane of reference."
+  },
+  {
+    "id": "p-bdbbdf",
+    "offset": 8924,
+    "text": "But a straight line is at right angles to a plane when it makes right angles with all the straight lines which meet it and are in that same plane; [ XI. Def. 3] therefore FE is at right angles to the plane of reference."
+  },
+  {
+    "id": "p-3e9c4c",
+    "offset": 9145,
+    "text": "But the plane of reference is the plane through the straight lines AB, CD."
+  },
+  {
+    "id": "p-3fbcbd",
+    "offset": 9221,
+    "text": "Therefore FE is at right angles to the plane through AB, CD."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 9283,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-d65db6",
+    "offset": 9308,
+    "text": "If a straight line be set up at right angles to three straight lines which meet one another, at their common point of section, the three straight lines are in one plane."
+  },
+  {
+    "id": "p-3fc785",
+    "offset": 9479,
+    "text": "For let a straight line AB be set up at right angles to the three straight lines BC, BD, BE, at their point of meeting at B; I say that BC, BD, BE are in one plane."
+  },
+  {
+    "id": "p-6202f6",
+    "offset": 9645,
+    "text": "For suppose they are not, but, if possible, let BD, BE be in the plane of reference and BC in one more elevated; let the plane through AB, BC be produced; it will thus make, as common section in the plane of reference, a straight line. [ XI. 3]"
+  },
+  {
+    "id": "p-d10242",
+    "offset": 9891,
+    "text": "Let it make BF."
+  },
+  {
+    "id": "p-d6992a",
+    "offset": 9908,
+    "text": "Therefore the three straight lines AB, BC, BF are in one plane, namely that drawn through AB, BC."
+  },
+  {
+    "id": "p-3038d9",
+    "offset": 10007,
+    "text": "Now, since AB is at right angles to each of the straight lines BD, BE, therefore AB is also at right angles to the plane through BD, BE. [ XI. 4]"
+  },
+  {
+    "id": "p-269a18",
+    "offset": 10154,
+    "text": "But the plane through BD, BE is the plane of reference; therefore AB is at right angles to the plane of reference."
+  },
+  {
+    "id": "p-4d2ff9",
+    "offset": 10270,
+    "text": "Thus AB will also make right angles with all the straight lines which meet it and are in the plane of reference. [ XI. Def. 3]"
+  },
+  {
+    "id": "p-b53d82",
+    "offset": 10398,
+    "text": "But BF which is in the plane of reference meets it; therefore the angle ABF is right."
+  },
+  {
+    "id": "p-9ab1aa",
+    "offset": 10485,
+    "text": "But, by hypothesis, the angle ABC is also right; therefore the angle ABF is equal to the angle ABC."
+  },
+  {
+    "id": "p-64cc11",
+    "offset": 10586,
+    "text": "And they are in one plane: which is impossible."
+  },
+  {
+    "id": "p-2c3673",
+    "offset": 10635,
+    "text": "Therefore the straight line BC is not in a more elevated plane; therefore the three straight lines BC, BD, BE are in one plane."
+  },
+  {
+    "id": "p-03abc9",
+    "offset": 10764,
+    "text": "Therefore, if a straight line be set up at right angles to three straight lines, at their point of meeting, the three straight lines are in one plane. Q. E. D."
+  },
+  {
+    "id": "p-eb71e9",
+    "offset": 10925,
+    "text": "If two straight lines be at right angles to the same plane, the straight lines will be parallel."
+  },
+  {
+    "id": "p-e999ed",
+    "offset": 11023,
+    "text": "For let the two straight lines AB, CD be at right angles to the plane of reference; I say that AB is parallel to CD."
+  },
+  {
+    "id": "p-2f4058",
+    "offset": 11141,
+    "text": "For let them meet the plane of reference at the points B, D, let the straight line BD be joined, let DE be drawn, in the plane of reference, at right angles to BD, let DE be made equal to AB, and let BE, AE, AD be joined."
+  },
+  {
+    "id": "p-c0f75a",
+    "offset": 11364,
+    "text": "Now, since AB is at right angles to the plane of reference, it will also make right angles with all the straight lines which meet it and are in the plane of reference. [ XI. Def. 3]"
+  },
+  {
+    "id": "p-4e29cb",
+    "offset": 11547,
+    "text": "But each of the straight lines BD, BE is in the plane of reference and meets AB; therefore each of the angles ABD, ABE is right."
+  },
+  {
+    "id": "p-1f8329",
+    "offset": 11677,
+    "text": "For the same reason each of the angles CDB, CDE is also right."
+  },
+  {
+    "id": "p-6ac42b",
+    "offset": 11741,
+    "text": "And, since AB is equal to DE, and BD is common, the two sides AB, BD are equal to the two sides ED, DB; and they include right angles; therefore the base AD is equal to the base BE. [ I. 4]"
+  },
+  {
+    "id": "p-0b80c3",
+    "offset": 11932,
+    "text": "And, since AB is equal to DE, while AD is also equal to BE, the two sides AB, BE are equal to the two sides ED, DA; and AE is their common base; therefore the angle ABE is equal to the angle EDA. [ I. 8]"
+  },
+  {
+    "id": "p-0747d1",
+    "offset": 12137,
+    "text": "But the angle ABE is right; therefore the angle EDA is also right; therefore ED is at right angles to DA."
+  },
+  {
+    "id": "p-9dfb5e",
+    "offset": 12244,
+    "text": "But it is also at right angles to each of the straight lines BD, DC; therefore ED is set up at right angles to the three straight lines BD, DA, DC at their point of meeting; therefore the three straight lines BD, DA, DC are in one plane. [ XI. 5]"
+  },
+  {
+    "id": "p-3454ba",
+    "offset": 12492,
+    "text": "But, in whatever plane DB, DA are, in that plane is AB also, for every triangle is in one plane; [ XI. 2] therefore the straight lines AB, BD, DC are in one plane."
+  },
+  {
+    "id": "p-00e83c",
+    "offset": 12657,
+    "text": "And each of the angles ABD, BDC is right; therefore AB is parallel to CD. [ I. 28]"
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 12741,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-9d98d8",
+    "offset": 12766,
+    "text": "If two straight lines be parallel and points be taken at random on each of them, the straight line joining the points is in the same plane with the parallel straight lines."
+  },
+  {
+    "id": "p-624434",
+    "offset": 12940,
+    "text": "Let AB, CD be two parallel straight lines, and let points E, F be taken at random on them respectively; I say that the straight line joining the points E, F is in the same plane with the parallel straight lines."
+  },
+  {
+    "id": "p-982e28",
+    "offset": 13153,
+    "text": "For suppose it is not, but, if possible, let it be in a more elevated plane as EGF, and let a plane be drawn through EGF; it will then make, as section in the plane of reference, a straight line. [ XI. 3]"
+  },
+  {
+    "id": "p-be5dfe",
+    "offset": 13359,
+    "text": "Let it make it, as EF; therefore the two straight lines EGF, EF will enclose an area: which is impossible."
+  },
+  {
+    "id": "p-e815b0",
+    "offset": 13467,
+    "text": "Therefore the straight line joined from E to F is not in a plane more elevated; therefore the straight line joined from E to F is in the plane through the parallel straight lines AB, CD."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 13655,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-eb90b7",
+    "offset": 13680,
+    "text": "If two straight lines be parallel, and one of them be at right angles to any plane, the remaining one will also be at right angles to the same plane."
+  },
+  {
+    "id": "p-09fe0d",
+    "offset": 13831,
+    "text": "Let AB, CD be two parallel straight lines, and let one of them, AB, be at right angles to the plane of reference; I say that the remaining one, CD, will also be at right angles to the same plane."
+  },
+  {
+    "id": "p-69a2f5",
+    "offset": 14028,
+    "text": "For let AB, CD meet the plane of reference at the points B, D, and let BD be joined; therefore AB, CD, BD are in one plane. [ XI. 7]"
+  },
+  {
+    "id": "p-60f253",
+    "offset": 14162,
+    "text": "Let DE be drawn, in the plane of reference, at right angles to BD, let DE be made equal to AB, and let BE, AE, AD be joined."
+  },
+  {
+    "id": "p-67d510",
+    "offset": 14288,
+    "text": "Now, since AB is at right angles to the plane of reference, therefore AB is also at right angles to all the straight lines which meet it and are in the plane of reference; [ XI. Def. 3] therefore each of the angles ABD, ABE is right."
+  },
+  {
+    "id": "p-340af4",
+    "offset": 14523,
+    "text": "And, since the straight line BD has fallen on the parallels AB, CD, therefore the angles ABD, CDB are equal to two right angles. [ I. 29]"
+  },
+  {
+    "id": "p-28f107",
+    "offset": 14662,
+    "text": "But the angle ABD is right; therefore the angle CDB is also right; therefore CD is at right angles to BD."
+  },
+  {
+    "id": "p-b06f4c",
+    "offset": 14769,
+    "text": "And, since AB is equal to DE, and BD is common, the two sides AB, BD are equal to the two sides ED, DB; and the angle ABD is equal to the angle EDB, for each is right; therefore the base AD is equal to the base BE."
+  },
+  {
+    "id": "p-c6b8db",
+    "offset": 14985,
+    "text": "And, since AB is equal to DE, and BE to AD, the two sides AB, BE are equal to the two sides ED, DA respectively, and AE is their common base; therefore the angle ABE is equal to the angle EDA."
+  },
+  {
+    "id": "p-c1d861",
+    "offset": 15179,
+    "text": "But the angle ABE is right; therefore the angle EDA is also right; therefore ED is at right angles to AD."
+  },
+  {
+    "id": "p-f640d6",
+    "offset": 15286,
+    "text": "But it is also at right angles to DB; therefore ED is also at right angles to the plane through BD, DA. [ XI. 4]"
+  },
+  {
+    "id": "p-4ecf20",
+    "offset": 15400,
+    "text": "Therefore ED will also make right angles with all the straight lines which meet it and are in the plane through BD, DA."
+  },
+  {
+    "id": "p-896c65",
+    "offset": 15521,
+    "text": "But DC is in the plane through BD, DA, inasmuch as AB, BD are in the plane through BD, DA, [ XI. 2] and DC is also in the plane in which AB, BD are."
+  },
+  {
+    "id": "p-faeb99",
+    "offset": 15671,
+    "text": "Therefore ED is at right angles to DC, so that CD is also at right angles to DE."
+  },
+  {
+    "id": "p-b0050f",
+    "offset": 15753,
+    "text": "But CD is also at right angles to BD."
+  },
+  {
+    "id": "p-a7cb6a",
+    "offset": 15792,
+    "text": "Therefore CD is set up at right angles to the two straight lines DE, DB which cut one another, from the point of section at D; so that CD is also at right angles to the plane through DE, DB. [ XI. 4]"
+  },
+  {
+    "id": "p-c6c118",
+    "offset": 15993,
+    "text": "But the plane through DE, DB is the plane of reference; therefore CD is at right angles to the plane of reference."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 16109,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-06466a",
+    "offset": 16134,
+    "text": "Straight lines which are parallel to the same straight line and are not in the same plane with it are also parallel to one another."
+  },
+  {
+    "id": "p-a7b80e",
+    "offset": 16267,
+    "text": "For let each of the straight lines AB, CD be parallel to EF, not being in the same plane with it; I say that AB is parallel to CD."
+  },
+  {
+    "id": "p-400bb3",
+    "offset": 16399,
+    "text": "For let a point G be taken at random on EF, and from it let there be drawn GH, in the plane through EF, AB, at right angles to EF, and GK in the plane through FE, CD again at right angles to EF."
+  },
+  {
+    "id": "p-d1787c",
+    "offset": 16595,
+    "text": "Now, since EF is at right angles to each of the straight lines GH, GK, therefore EF is also at right angles to the plane through GH, GK. [ XI. 4]"
+  },
+  {
+    "id": "p-fd2089",
+    "offset": 16742,
+    "text": "And EF is parallel to AB; therefore AB is also at right angles to the plane through HG, GK. [ XI. 8]"
+  },
+  {
+    "id": "p-6ebdb8",
+    "offset": 16844,
+    "text": "For the same reason CD is also at right angles to the plane through HG, GK; therefore each of the straight lines AB, CD is at right angles to the plane through HG, GK."
+  },
+  {
+    "id": "p-54f042",
+    "offset": 17013,
+    "text": "But if two straight lines be at right angles to the same plane, the straight lines are parallel; [ XI. 6] therefore AB is parallel to CD."
+  },
+  {
+    "id": "p-99546f",
+    "offset": 17152,
+    "text": "If two straight lines meeting one another be parallel to two straight lines meeting one another not in the same plane, they will contain equal angles."
+  },
+  {
+    "id": "p-a09b10",
+    "offset": 17304,
+    "text": "For let the two straight lines AB, BC meeting one another be parallel to the two straight lines DE, EF meeting one another, not in the same plane; I say that the angle ABC is equal to the angle DEF."
+  },
+  {
+    "id": "p-1cc9ca",
+    "offset": 17504,
+    "text": "For let BA, BC, ED, EF be cut off equal to one another, and let AD, CF, BE, AC, DF be joined."
+  },
+  {
+    "id": "p-4650e7",
+    "offset": 17599,
+    "text": "Now, since BA is equal and parallel to ED, therefore AD is also equal and parallel to BE. [ I. 33]"
+  },
+  {
+    "id": "p-a5a4d7",
+    "offset": 17699,
+    "text": "For the same reason CF is also equal and parallel to BE."
+  },
+  {
+    "id": "p-f0caea",
+    "offset": 17757,
+    "text": "Therefore each of the straight lines AD, CF is equal and parallel to BE."
+  },
+  {
+    "id": "p-31d55e",
+    "offset": 17831,
+    "text": "But straight lines which are parallel to the same straight line and are not in the same plane with it are parallel to one another; [ XI. 9] therefore AD is parallel and equal to CF."
+  },
+  {
+    "id": "p-e879d9",
+    "offset": 18014,
+    "text": "And AC, DF join them; therefore AC is also equal and parallel to DF. [ I. 33]"
+  },
+  {
+    "id": "p-557d03",
+    "offset": 18093,
+    "text": "Now, since the two sides AB, BC are equal to the two sides DE, EF, and the base AC is equal to the base DF, therefore the angle ABC is equal to the angle DEF. [ I. 8]"
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 18261,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-be9fdb",
+    "offset": 18277,
+    "text": "From a given elevated point to draw a straight line perpendicular to a given plane."
+  },
+  {
+    "id": "p-a76d5f",
+    "offset": 18362,
+    "text": "Let A be the given elevated point, and the plane of reference the given plane; thus it is required to draw from the point A a straight line perpendicular to the plane of reference."
+  },
+  {
+    "id": "p-ca548d",
+    "offset": 18544,
+    "text": "Let any straight line BC be drawn, at random, in the plane of reference, and let AD be drawn from the point A perpendicular to BC. [ I. 12]"
+  },
+  {
+    "id": "p-f02cb3",
+    "offset": 18685,
+    "text": "If then AD is also perpendicular to the plane of reference, that which was enjoined will have been done."
+  },
+  {
+    "id": "p-d76acb",
+    "offset": 18791,
+    "text": "But, if not, let DE be drawn from the point D at right angles to BC and in the plane of reference, [ I. 11] let AF be drawn from A perpendicular to DE, [ I. 12] and let GH be drawn through the point F parallel to BC. [ I. 31]"
+  },
+  {
+    "id": "p-0b2265",
+    "offset": 19018,
+    "text": "Now, since BC is at right angles to each of the straight lines DA, DE, therefore BC is also at right angles to the plane through ED, DA. [ XI. 4]"
+  },
+  {
+    "id": "p-055fe2",
+    "offset": 19165,
+    "text": "And GH is parallel to it; but, if two straight lines be parallel, and one of them be at right angles to any plane, the remaining one will also be at right angles to the same plane; [ XI. 8] therefore GH is also at right angles to the plane through ED, DA."
+  },
+  {
+    "id": "p-c9dc8b",
+    "offset": 19422,
+    "text": "Therefore GH is also at right angles to all the straight lines which meet it and are in the plane through ED, DA. [ XI. Def. 3]"
+  },
+  {
+    "id": "p-27c7dd",
+    "offset": 19551,
+    "text": "But AF meets it and is in the plane through ED, DA; therefore GH is at right angles to FA, so that FA is also at right angles to GH."
+  },
+  {
+    "id": "p-2ebb47",
+    "offset": 19685,
+    "text": "But AF is also at right angles to DE; therefore AF is at right angles to each of the straight lines GH, DE."
+  },
+  {
+    "id": "p-04d87a",
+    "offset": 19794,
+    "text": "But, if a straight line be set up at right angles to two straight lines which cut one another, at the point of section, it will also be at right angles to the plane through them; [ XI. 4] therefore FA is at right angles to the plane through ED, GH."
+  },
+  {
+    "id": "p-e17f5d",
+    "offset": 20044,
+    "text": "But the plane through ED, GH is the plane of reference; therefore AF is at right angles to the plane of reference."
+  },
+  {
+    "id": "p-5da0da",
+    "offset": 20160,
+    "text": "Therefore from the given elevated point A the straight line AF has been drawn perpendicular to the plane of reference. Q. E. F."
+  },
+  {
+    "id": "p-56bfb6",
+    "offset": 20289,
+    "text": "To set up a straight line at right angles to a given plane from a given point in it."
+  },
+  {
+    "id": "p-15d169",
+    "offset": 20375,
+    "text": "Let the plane of reference be the given plane, and A the point in it; thus it is required to set up from the point A a straight line at right angles to the plane of reference."
+  },
+  {
+    "id": "p-3eb791",
+    "offset": 20552,
+    "text": "Let any elevated point B be conceived, from B let BC be drawn perpendicular to the plane of reference, [ XI. 11] and through the point A let AD be drawn parallel to BC. [ I. 31]"
+  },
+  {
+    "id": "p-e4f31f",
+    "offset": 20731,
+    "text": "Then, since AD, CB are two parallel straight lines, while one of them, BC, is at right angles to the plane of reference, therefore the remaining one, AD, is also at right angles to the plane of reference. [ XI. 8]"
+  },
+  {
+    "id": "p-b92cad",
+    "offset": 20946,
+    "text": "Therefore AD has been set up at right angles to the given plane from the point A in it."
+  },
+  {
+    "id": "p-521281",
+    "offset": 21035,
+    "text": "From the same point two straight lines cannot be set up at right angles to the same plane on the same side."
+  },
+  {
+    "id": "p-1257fe",
+    "offset": 21144,
+    "text": "For, if possible, from the same point A let the two straight lines AB, AC be set up at right angles to the plane of reference and on the same side, and let a plane be drawn through BA, AC; it will then make, as section through A in the plane of reference, a straight line. [ XI. 3]"
+  },
+  {
+    "id": "p-07cf10",
+    "offset": 21427,
+    "text": "Let it make DAE; therefore the straight lines AB, AC, DAE are in one plane."
+  },
+  {
+    "id": "p-399fe0",
+    "offset": 21504,
+    "text": "And, since CA is at right angles to the plane of reference, it will also make right angles with all the straight lines which meet it and are in the plane of reference. [ XI. Def. 3]"
+  },
+  {
+    "id": "p-f5467a",
+    "offset": 21687,
+    "text": "But DAE meets it and is in the plane of reference; therefore the angle CAE is right."
+  },
+  {
+    "id": "p-e002d3",
+    "offset": 21773,
+    "text": "For the same reason the angle BAE is also right; therefore the angle CAE is equal to the angle BAE."
+  },
+  {
+    "id": "p-64cc11",
+    "offset": 21874,
+    "text": "And they are in one plane: which is impossible."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 21923,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-dbdd3d",
+    "offset": 21948,
+    "text": "Planes to which the same straight line is at right angles will be parallel."
+  },
+  {
+    "id": "p-3966a9",
+    "offset": 22025,
+    "text": "For let any straight line AB be at right angles to each of the planes CD, EF; I say that the planes are parallel."
+  },
+  {
+    "id": "p-682c76",
+    "offset": 22140,
+    "text": "For, if not, they will meet when produced."
+  },
+  {
+    "id": "p-d9d48f",
+    "offset": 22184,
+    "text": "Let them meet; they will then make, as common section, a straight line. [ XI. 3]"
+  },
+  {
+    "id": "p-432cb6",
+    "offset": 22266,
+    "text": "Let them make GH; let a point K be taken at random on GH, and let AK, BK be joined."
+  },
+  {
+    "id": "p-97e463",
+    "offset": 22351,
+    "text": "Now, since AB is at right angles to the plane EF, therefore AB is also at right angles to BK which is a straight line in the plane EF produced; [ XI. Def. 3] therefore the angle ABK is right."
+  },
+  {
+    "id": "p-0e1568",
+    "offset": 22544,
+    "text": "For the same reason the angle BAK is also right."
+  },
+  {
+    "id": "p-83c2a2",
+    "offset": 22594,
+    "text": "Thus, in the triangle ABK, the two angles ABK, BAK are equal to two right angles: which is impossible. [ I. 17]"
+  },
+  {
+    "id": "p-cd54a9",
+    "offset": 22707,
+    "text": "Therefore the planes CD, EF will not meet when produced; therefore the planes CD, EF are parallel. [ XI. Def. 8]"
+  },
+  {
+    "id": "p-8e6cd7",
+    "offset": 22821,
+    "text": "Therefore planes to which the same straight line is at right angles are parallel. Q. E. D."
+  },
+  {
+    "id": "p-335c29",
+    "offset": 22913,
+    "text": "If two straight lines meeting one another be parallel to two straight lines meeting one another, not being in the same plane, the planes through them are parallel."
+  },
+  {
+    "id": "p-421b05",
+    "offset": 23078,
+    "text": "For let the two straight lines AB, BC meeting one another be parallel to the two straight lines DE, EF meeting one another, not being in the same plane; I say that the planes produced through AB, BC and DE, EF will not meet one another."
+  },
+  {
+    "id": "p-1ac5c7",
+    "offset": 23316,
+    "text": "For let BG be drawn from the point B perpendicular to the plane through DE, EF [ XI. 11], and let it meet the plane at the point G; through G let GH be drawn parallel to ED, and GK parallel to EF. [ I. 31]"
+  },
+  {
+    "id": "p-82b62b",
+    "offset": 23523,
+    "text": "Now, since BG is at right angles to the plane through DE, EF, therefore it will also make right angles with all the straight lines which meet it and are in the plane through DE, EF. [ XI. Def. 3]"
+  },
+  {
+    "id": "p-ac0733",
+    "offset": 23720,
+    "text": "But each of the straight lines GH, GK meets it and is in the plane through DE, EF; therefore each of the angles BGH, BGK is right."
+  },
+  {
+    "id": "p-737f99",
+    "offset": 23852,
+    "text": "And, since BA is parallel to GH, [ XI. 9] therefore the angles GBA, BGH are equal to two right angles. [ I. 29]"
+  },
+  {
+    "id": "p-08d41f",
+    "offset": 23965,
+    "text": "But the angle BGH is right; therefore the angle GBA is also right; therefore GB is at right angles to BA."
+  },
+  {
+    "id": "p-28d6c6",
+    "offset": 24072,
+    "text": "For the same reason GB is also at right angles to BC."
+  },
+  {
+    "id": "p-02a34b",
+    "offset": 24127,
+    "text": "Since then the straight line GB is set up at right angles to the two straight lines BA, BC which cut one another, therefore GB is also at right angles to the plane through BA, BC. [ XI. 4]"
+  },
+  {
+    "id": "p-ee8c7c",
+    "offset": 24317,
+    "text": "But planes to which the same straight line is at right angles are parallel; [ XI. 14] therefore the plane through AB, BC is parallel to the plane through DE, EF."
+  },
+  {
+    "id": "p-1f1af1",
+    "offset": 24480,
+    "text": "Therefore, if two straight lines meeting one another be parallel to two straight lines meeting one another, not in the same plane, the planes through them are parallel. Q. E. D."
+  },
+  {
+    "id": "p-1b6c2e",
+    "offset": 24659,
+    "text": "If two parallel planes be cut by any plane, their common sections are parallel."
+  },
+  {
+    "id": "p-2f5c6b",
+    "offset": 24740,
+    "text": "For let the two parallel planes AB, CD be cut by the plane EFGH, and let EF, GH be their common sections; I say that EF is parallel to GH."
+  },
+  {
+    "id": "p-b7d9d2",
+    "offset": 24880,
+    "text": "For, if not, EF, GH will, when produced, meet either in the direction of F, H or of E, G."
+  },
+  {
+    "id": "p-f4fefb",
+    "offset": 24971,
+    "text": "Let them be produced, as in the direction of F, H, and let them, first, meet at K."
+  },
+  {
+    "id": "p-fb1627",
+    "offset": 25055,
+    "text": "Now, since EFK is in the plane AB, therefore all the points on EFK are also in the plane AB. [ XI. 1]"
+  },
+  {
+    "id": "p-b9df1b",
+    "offset": 25158,
+    "text": "But K is one of the points on the straight line EFK; therefore K is in the plane AB."
+  },
+  {
+    "id": "p-b25640",
+    "offset": 25244,
+    "text": "For the same reason K is also in the plane CD; therefore the planes AB, CD will meet when produced."
+  },
+  {
+    "id": "p-fc8e5f",
+    "offset": 25345,
+    "text": "But they do not meet, because they are, by hypothesis, parallel; therefore the straight lines EF, GH will not meet when produced in the direction of F, H."
+  },
+  {
+    "id": "p-c5791e",
+    "offset": 25501,
+    "text": "Similarly we can prove that neither will the straight lines EF, GH meet when produced in the direction of E, G."
+  },
+  {
+    "id": "p-b8f1de",
+    "offset": 25614,
+    "text": "But straight lines which do not meet in either direction are parallel. [ I. Def. 23]"
+  },
+  {
+    "id": "p-308db6",
+    "offset": 25700,
+    "text": "Therefore EF is parallel to GH."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 25733,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-93ad18",
+    "offset": 25758,
+    "text": "If two straight lines be cut by parallel planes, they will be cut in the same ratios."
+  },
+  {
+    "id": "p-7902cf",
+    "offset": 25845,
+    "text": "For let the two straight lines AB, CD be cut by the parallel planes GH, KL, MN at the points A, E, B and C, F, D; I say that, as the straight line AE is to EB, so is CF to FD."
+  },
+  {
+    "id": "p-051892",
+    "offset": 26022,
+    "text": "For let AC, BD, AD be joined, let AD meet the plane KL at the point O, and let EO, OF be joined."
+  },
+  {
+    "id": "p-f43c65",
+    "offset": 26120,
+    "text": "Now, since the two parallel planes KL, MN are cut by the plane EBDO, their common sections EO, BD are parallel. [ XI. 16]"
+  },
+  {
+    "id": "p-06462f",
+    "offset": 26243,
+    "text": "For the same reason, since the two parallel planes GH, KL are cut by the plane AOFC, their common sections AC, OF are parallel. [ id.]"
+  },
+  {
+    "id": "p-1e6b6e",
+    "offset": 26379,
+    "text": "And, since the straight line EO has been drawn parallel to BD, one of the sides of the triangle ABD, therefore, proportionally, as AE is to EB, so is AO to OD. [ VI. 2]"
+  },
+  {
+    "id": "p-965271",
+    "offset": 26549,
+    "text": "Again, since the straight line OF has been drawn parallel to AC, one of the sides of the triangle ADC, proportionally, as AO is to OD, so is CF to FD. [ id.]"
+  },
+  {
+    "id": "p-4113c9",
+    "offset": 26708,
+    "text": "But it was also proved that, as AO is to OD, so is AE to EB; therefore also, as AE is to EB, so is CF to FD. [ V. 11]"
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 26827,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-f91eff",
+    "offset": 26852,
+    "text": "If a straight line be at right angles to any plane, all the planes through it will also be at right angles to the same plane."
+  },
+  {
+    "id": "p-f070d6",
+    "offset": 26979,
+    "text": "For let any straight line AB be at right angles to the plane of reference; I say that all the planes through AB are also at right angles to the plane of reference."
+  },
+  {
+    "id": "p-f3fe60",
+    "offset": 27144,
+    "text": "For let the plane DE be drawn through AB, let CE be the common section of the plane DE and the plane of reference, let a point F be taken at random on CE, and from F let FG be drawn in the plane DE at right angles to CE. [ I. 11]"
+  },
+  {
+    "id": "p-071ce3",
+    "offset": 27375,
+    "text": "Now, since AB is at right angles to the plane of reference, AB is also at right angles to all the straight lines which meet it and are in the plane of reference; [ XI. Def. 3] so that it is also at right angles to CE; therefore the angle ABF is right."
+  },
+  {
+    "id": "p-861175",
+    "offset": 27628,
+    "text": "But the angle GFB is also right; therefore AB is parallel to FG. [ I. 28]"
+  },
+  {
+    "id": "p-9a88ea",
+    "offset": 27703,
+    "text": "But AB is at right angles to the plane of reference; therefore FG is also at right angles to the plane of reference. [ XI. 8]"
+  },
+  {
+    "id": "p-6f98d9",
+    "offset": 27830,
+    "text": "Now a plane is at right angles to a plane, when the straight lines drawn, in one of the planes, at right angles to the common section of the planes are at right angles to the remaining plane. [ XI. Def. 4]"
+  },
+  {
+    "id": "p-50995b",
+    "offset": 28037,
+    "text": "And FG, drawn in one of the planes DE at right angles to CE, the common section of the planes, was proved to be at right angles to the plane of reference; therefore the plane DE is at right angles to the plane of reference."
+  },
+  {
+    "id": "p-95684c",
+    "offset": 28262,
+    "text": "Similarly also it can be proved that all the planes through AB are at right angles to the plane of reference."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 28373,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-43d6b1",
+    "offset": 28398,
+    "text": "If two planes which cut one another be at right angles to any plane, their common section will also be at right angles to the same plane."
+  },
+  {
+    "id": "p-c57a89",
+    "offset": 28537,
+    "text": "For let the two planes AB, BC be at right angles to the plane of reference, and let BD be their common section; I say that BD is at right angles to the plane of reference."
+  },
+  {
+    "id": "p-15411e",
+    "offset": 28710,
+    "text": "For suppose it is not, and from the point D let DE be drawn in the plane AB at right angles to the straight line AD, and DF in the plane BC at right angles to CD."
+  },
+  {
+    "id": "p-af0145",
+    "offset": 28874,
+    "text": "Now, since the plane AB is at right angles to the plane of reference, and DE has been drawn in the plane AB at right angles to AD, their common section, therefore DE is at right angles to the plane of reference. [ XI. Def. 4]"
+  },
+  {
+    "id": "p-79ec04",
+    "offset": 29101,
+    "text": "Similarly we can prove that DF is also at right angles to the plane of reference."
+  },
+  {
+    "id": "p-e1f978",
+    "offset": 29184,
+    "text": "Therefore from the same point D two straight lines have been set up at right angles to the plane of reference on the same side: which is impossible. [ XI. 13]"
+  },
+  {
+    "id": "p-2c195c",
+    "offset": 29344,
+    "text": "Therefore no straight line except the common section DB of the planes AB, BC can be set up from the point D at right angles to the plane of reference."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 29496,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-a92364",
+    "offset": 29521,
+    "text": "If a solid angle be contained by three plane angles, any two, taken together in any manner, are greater than the remaining one."
+  },
+  {
+    "id": "p-61909f",
+    "offset": 29650,
+    "text": "For let the solid angle at A be contained by the three plane angles BAC, CAD, DAB; I say that any two of the angles BAC, CAD, DAB, taken together in any manner, are greater than the remaining one."
+  },
+  {
+    "id": "p-71fe9f",
+    "offset": 29848,
+    "text": "If now the angles BAC, CAD, DAB are equal to one another, it is manifest that any two are greater than the remaining one."
+  },
+  {
+    "id": "p-02b590",
+    "offset": 29971,
+    "text": "But, if not, let BAC be greater, and on the straight line AB, and at the point A on it, let the angle BAE be constructed, in the plane through BA, AC, equal to the angle DAB; let AE be made equal to AD, and let BEC, drawn across through the point E, cut the straight lines AB, AC at the points B, C; let DB, DC be joined."
+  },
+  {
+    "id": "p-c784fe",
+    "offset": 30294,
+    "text": "Now, since DA is equal to AE, and AB is common, two sides are equal to two sides; and the angle DAB is equal to the angle BAE; therefore the base DB is equal to the base BE. [ I. 4]"
+  },
+  {
+    "id": "p-0dd358",
+    "offset": 30477,
+    "text": "And, since the two sides BD, DC are greater than BC, [ I. 20] and of these DB was proved equal to BE, therefore the remainder DC is greater than the remainder EC."
+  },
+  {
+    "id": "p-eedcfa",
+    "offset": 30641,
+    "text": "Now, since DA is equal to AE, and AC is common, and the base DC is greater than the base EC, therefore the angle DAC is greater than the angle EAC. [ I. 25]"
+  },
+  {
+    "id": "p-b2919a",
+    "offset": 30799,
+    "text": "But the angle DAB was also proved equal to the angle BAE; therefore the angles DAB, DAC are greater than the angle BAC."
+  },
+  {
+    "id": "p-adf39f",
+    "offset": 30920,
+    "text": "Similarly we can prove that the remaining angles also, taken together two and two, are greater than the remaining one."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 31040,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-3bd7be",
+    "offset": 31065,
+    "text": "Any solid angle is contained by plane angles less than four right angles."
+  },
+  {
+    "id": "p-f3764a",
+    "offset": 31140,
+    "text": "Let the angle at A be a solid angle contained by the plane angles BAC, CAD, DAB; I say that the angles BAC, CAD, DAB are less than four right angles."
+  },
+  {
+    "id": "p-ae6fd2",
+    "offset": 31291,
+    "text": "For let points B, C, D be taken at random on the straight lines AB, AC, AD respectively, and let BC, CD, DB be joined."
+  },
+  {
+    "id": "p-bb1ac9",
+    "offset": 31411,
+    "text": "Now, since the solid angle at B is contained by the three plane angles CBA, ABD, CBD, any two are greater than the remaining one; [ XI. 20] therefore the angles CBA, ABD are greater than the angle CBD."
+  },
+  {
+    "id": "p-5cc12d",
+    "offset": 31614,
+    "text": "For the same reason the angles BCA, ACD are also greater than the angle BCD, and the angles CDA, ADB are greater than the angle CDB; therefore the six angles CBA, ABD, BCA, ACD, CDA, ADB are greater than the three angles CBD, BCD, CDB."
+  },
+  {
+    "id": "p-ad1b59",
+    "offset": 31851,
+    "text": "But the three angles CBD, BDC, BCD are equal to two right angles; [ I. 32] therefore the six angles CBA, ABD, BCA, ACD, CDA, ADB are greater than two right angles."
+  },
+  {
+    "id": "p-eb068a",
+    "offset": 32016,
+    "text": "And, since the three angles of each of the triangles ABC, ACD, ADB are equal to two right angles, therefore the nine angles of the three triangles, the angles CBA, ACB, BAC, ACD, CDA, CAD, ADB, DBA, BAD are equal to six right angles; and of them the six angles ABC, BCA, ACD, CDA, ADB, DBA are greater than two right angles; therefore the remaining three angles BAC, CAD, DAB containing the solid angle are less than four right angles."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 32453,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-c9c86d",
+    "offset": 32478,
+    "text": "If there be three plane angles of which two, taken together in any manner, are greater than the remaining one, and they are contained by equal straight lines, it is possible to construct a triangle out of the straight lines joining the extremities of the equal straight lines."
+  },
+  {
+    "id": "p-39ce0a",
+    "offset": 32756,
+    "text": "Let there be three plane angles ABC, DEF, GHK, of which two, taken together in any manner, are greater than the remaining one, namely the angles ABC, DEF greater than the angle GHK, the angles DEF, GHK greater than the angle ABC, and, further, the angles GHK, ABC greater than the angle DEF; let the straight lines AB, BC, DE, EF, GH, HK be equal, and let AC, DF, GK be joined; I say that it is possible to construct a triangle out of straight lines equal to AC, DF, GK, that is, that any two of the straight lines AC, DF, GK are greater than the remaining one."
+  },
+  {
+    "id": "p-9942c4",
+    "offset": 33319,
+    "text": "Now, if the angles ABC, DEF, GHK are equal to one another, it is manifest that, AC, DF, GK being equal also, it is possible to construct a triangle out of straight lines equal to AC, DF, GK."
+  },
+  {
+    "id": "p-366b2f",
+    "offset": 33511,
+    "text": "But, if not, let them be unequal, and on the straight line HK, and at the point H on it, let the angle KHL be constructed equal to the angle ABC; let HL be made equal to one of the straight lines AB, BC, DE, EF, GH, HK, and let KL, GL be joined."
+  },
+  {
+    "id": "p-0eda33",
+    "offset": 33758,
+    "text": "Now, since the two sides AB, BC are equal to the two sides KH, HL, and the angle at B is equal to the angle KHL, therefore the base AC is equal to the base KL. [ I. 4]"
+  },
+  {
+    "id": "p-ebaab3",
+    "offset": 33927,
+    "text": "And, since the angles ABC, GHK are greater than the angle DEF, while the angle ABC is equal to the angle KHL, therefore the angle GHL is greater than the angle DEF."
+  },
+  {
+    "id": "p-7f7c19",
+    "offset": 34093,
+    "text": "And, since the two sides GH, HL are equal to the two sides DE, EF, and the angle GHL is greater than the angle DEF, therefore the base GL is greater than the base DF. [ I. 24]"
+  },
+  {
+    "id": "p-2c833b",
+    "offset": 34270,
+    "text": "But GK, KL are greater than GL."
+  },
+  {
+    "id": "p-5d57ea",
+    "offset": 34303,
+    "text": "Therefore GK, KL are much greater than DF."
+  },
+  {
+    "id": "p-98d26c",
+    "offset": 34347,
+    "text": "But KL is equal to AC; therefore AC, GK are greater than the remaining straight line DF."
+  },
+  {
+    "id": "p-78b79d",
+    "offset": 34437,
+    "text": "Similarly we can prove that AC, DF are greater than GK, and further DF, GK are greater than AC."
+  },
+  {
+    "id": "p-4830f3",
+    "offset": 34534,
+    "text": "Therefore it is possible to construct a triangle out of straight lines equal to AC, DF, GK. Q. E. D."
+  },
+  {
+    "id": "p-a9f33d",
+    "offset": 34636,
+    "text": "To construct a solid angle out of three plane angles two of which, taken together in any manner, are greater than the remaining one: thus the three angles must be less than four right angles."
+  },
+  {
+    "id": "p-0db09c",
+    "offset": 34829,
+    "text": "Let the angles ABC, DEF, GHK be the three given plane angles, and let two of these, taken together in any manner, be greater than the remaining one, while, further, the three are less than four right angles; thus it is required to construct a solid angle out of angles equal to the angles ABC, DEF, GHK."
+  },
+  {
+    "id": "p-ad46b0",
+    "offset": 35134,
+    "text": "Let AB, BC, DE, EF, GH, HK be cut off equal to one another, and let AC, DF, GK be joined; it is therefore possible to construct a triangle out of straight lines equal to AC, DF, GK. [ XI. 22]"
+  },
+  {
+    "id": "p-cef1c5",
+    "offset": 35327,
+    "text": "Let LMN be so constructed that AC is equal to LM, DF to MN, and further GK to NL, let the circle LMN be described about the triangle LMN, let its centre be taken, and let it be O; let LO, MO, NO be joined; I say that AB is greater than LO."
+  },
+  {
+    "id": "p-44a72a",
+    "offset": 35568,
+    "text": "For, if not, AB is either equal to LO, or less."
+  },
+  {
+    "id": "p-34ec9a",
+    "offset": 35617,
+    "text": "First, let it be equal."
+  },
+  {
+    "id": "p-c8e2c3",
+    "offset": 35642,
+    "text": "Then, since AB is equal to LO, while AB is equal to BC, and OL to OM, the two sides AB, BC are equal to the two sides LO, OM respectively; and, by hypothesis, the base AC is equal to the base LM; therefore the angle ABC is equal to the angle LOM. [ I. 8]"
+  },
+  {
+    "id": "p-14d334",
+    "offset": 35898,
+    "text": "For the same reason the angle DEF is also equal to the angle MON, and further the angle GHK to the angle NOL; therefore the three angles ABC, DEF, GHK are equal to the three angles LOM, MON, NOL."
+  },
+  {
+    "id": "p-711ce3",
+    "offset": 36095,
+    "text": "But the three angles LOM, MON, NOL are equal to four right angles; therefore the angles ABC, DEF, GHK are equal to four right angles."
+  },
+  {
+    "id": "p-e0353d",
+    "offset": 36230,
+    "text": "But they are also, by hypothesis, less than four right angles: which is absurd."
+  },
+  {
+    "id": "p-f06359",
+    "offset": 36311,
+    "text": "Therefore AB is not equal to LO."
+  },
+  {
+    "id": "p-a9a0c9",
+    "offset": 36345,
+    "text": "I say next that neither is AB less than LO."
+  },
+  {
+    "id": "p-86249d",
+    "offset": 36390,
+    "text": "For, if possible, let it be so, and let OP be made equal to AB, and OQ equal to BC, and let PQ be joined."
+  },
+  {
+    "id": "p-e533e5",
+    "offset": 36497,
+    "text": "Then, since AB is equal to BC, OP is also equal to OQ, so that the remainder LP is equal to QM."
+  },
+  {
+    "id": "p-1ab0d4",
+    "offset": 36594,
+    "text": "Therefore LM is parallel to PQ, [ VI. 2] and LMO is equiangular with PQO; [ I. 29] therefore, as OL is to LM, so is OP to PQ; [ VI. 4] and alternately, as LO is to OP, so is LM to PQ. [ V. 16]"
+  },
+  {
+    "id": "p-477a54",
+    "offset": 36788,
+    "text": "But LO is greater than OP; therefore LM is also greater than PQ."
+  },
+  {
+    "id": "p-fac4b9",
+    "offset": 36854,
+    "text": "But LM was made equal to AC; therefore AC is also greater than PQ."
+  },
+  {
+    "id": "p-863c32",
+    "offset": 36922,
+    "text": "Since, then, the two sides AB, BC are equal to the two sides PO, OQ, and the base AC is greater than the base PQ, therefore the angle ABC is greater than the angle POQ. [ I. 25]"
+  },
+  {
+    "id": "p-d80d0c",
+    "offset": 37101,
+    "text": "Similarly we can prove that the angle DEF is also greater than the angle MON, and the angle GHK greater than the angle NOL."
+  },
+  {
+    "id": "p-ad20f2",
+    "offset": 37226,
+    "text": "Therefore the three angles ABC, DEF, GHK are greater than the three angles LOM, MON, NOL."
+  },
+  {
+    "id": "p-934bd4",
+    "offset": 37317,
+    "text": "But, by hypothesis, the angles ABC, DEF, GHK are less than four right angles; therefore the angles LOM, MON, NOL are much less than four right angles."
+  },
+  {
+    "id": "p-1c368a",
+    "offset": 37469,
+    "text": "But they are also equal to four right angles: which is absurd."
+  },
+  {
+    "id": "p-a721d6",
+    "offset": 37533,
+    "text": "Therefore AB is not less than LO."
+  },
+  {
+    "id": "p-b3f9c9",
+    "offset": 37568,
+    "text": "And it was proved that neither is it equal; therefore AB is greater than LO."
+  },
+  {
+    "id": "p-c2343e",
+    "offset": 37646,
+    "text": "Let then OR be set up from the point O at right angles to the plane of the circle LMN, [ XI. 12] and let the square on OR be equal to that area by which the square on AB is greater than the square on LO; [Lemma] let RL, RM, RN be joined."
+  },
+  {
+    "id": "p-1091f3",
+    "offset": 37885,
+    "text": "Then, since RO is at right angles to the plane of the circle LMN, therefore RO is also at right angles to each of the straight lines LO, MO, NO."
+  },
+  {
+    "id": "p-53aeb0",
+    "offset": 38031,
+    "text": "And, since LO is equal to OM, while OR is common and at right angles, therefore the base RL is equal to the base RM. [ I. 4]"
+  },
+  {
+    "id": "p-cbcffb",
+    "offset": 38157,
+    "text": "For the same reason RN is also equal to each of the straight lines RL, RM; therefore the three straight lines RL, RM, RN are equal to one another."
+  },
+  {
+    "id": "p-cd807d",
+    "offset": 38305,
+    "text": "Next, since by hypothesis the square on OR is equal to that area by which the square on AB is greater than the square on LO, therefore the square on AB is equal to the squares on LO, OR."
+  },
+  {
+    "id": "p-3269ad",
+    "offset": 38493,
+    "text": "But the square on LR is equal to the squares on LO, OR, for the angle LOR is right; [ I. 47] therefore the square on AB is equal to the square on RL; therefore AB is equal to RL."
+  },
+  {
+    "id": "p-77f610",
+    "offset": 38673,
+    "text": "But each of the straight lines BC, DE, EF, GH, HK is equal to AB, while each of the straight lines RM, RN is equal to RL; therefore each of the straight lines AB, BC, DE, EF, GH, HK is equal to each of the straight lines RL, RM, RN."
+  },
+  {
+    "id": "p-603686",
+    "offset": 38907,
+    "text": "And, since the two sides LR, RM are equal to the two sides AB, BC, and the base LM is by hypothesis equal to the base AC, therefore the angle LRM is equal to the angle ABC. [ I. 8]"
+  },
+  {
+    "id": "p-c5b33d",
+    "offset": 39089,
+    "text": "For the same reason the angle MRN is also equal to the angle DEF, and the angle LRN to the angle GHK."
+  },
+  {
+    "id": "p-0d1bdc",
+    "offset": 39192,
+    "text": "Therefore, out of the three plane angles LRM, MRN, LRN, which are equal to the three given angles ABC, DEF, GHK, the solid angle at R has been constructed, which is contained by the angles LRM, MRN, LRN. Q. E. F."
+  },
+  {
+    "id": "p-3a5bc1",
+    "offset": 39406,
+    "text": "Lemma. But how it is possible to take the square on OR equal to that area by which the square on AB is greater than the square on LO, we can show as follows."
+  },
+  {
+    "id": "p-7df197",
+    "offset": 39565,
+    "text": "Let the straight lines AB, LO be set out, and let AB be the greater; let the semicircle ABC be described on AB, and into the semicircle ABC let AC be fitted equal to the straight line LO, not being greater than the diameter AB; [ IV. 1] let CB be joined"
+  },
+  {
+    "id": "p-926a8d",
+    "offset": 39820,
+    "text": "Since then the angle ACB is an angle in the semicircle ACB, therefore the angle ACB is right. [ III. 31]"
+  },
+  {
+    "id": "p-f9c864",
+    "offset": 39926,
+    "text": "Therefore the square on AB is equal to the squares on AC, CB. [ I. 47]"
+  },
+  {
+    "id": "p-7b0fbc",
+    "offset": 39998,
+    "text": "Hence the square on AB is greater than the square on AC by the square on CB."
+  },
+  {
+    "id": "p-2de0ac",
+    "offset": 40076,
+    "text": "But AC is equal to LO."
+  },
+  {
+    "id": "p-a04220",
+    "offset": 40100,
+    "text": "Therefore the square on AB is greater than the square on LO by the square on CB."
+  },
+  {
+    "id": "p-043cb0",
+    "offset": 40182,
+    "text": "If then we cut off OR equal to BC, the square on AB will be greater than the square on LO by the square on OR. Q. E. F."
+  },
+  {
+    "id": "p-bb26b8",
+    "offset": 40303,
+    "text": "If a solid be contained by parallel planes, the opposite planes in it are equal and parallelogrammic."
+  },
+  {
+    "id": "p-29d784",
+    "offset": 40406,
+    "text": "For let the solid CDHG be contained by the parallel planes AC, GF, AH, DF, BF, AE; I say that the opposite planes in it are equal and parallelogrammic."
+  },
+  {
+    "id": "p-6f87c6",
+    "offset": 40559,
+    "text": "For, since the two parallel planes BG, CE are cut by the plane AC, their common sections are parallel. [ XI. 16]"
+  },
+  {
+    "id": "p-8d4be5",
+    "offset": 40673,
+    "text": "Therefore AB is parallel to DC."
+  },
+  {
+    "id": "p-aff682",
+    "offset": 40706,
+    "text": "Again, since the two parallel planes BF, AE are cut by the plane AC, their common sections are parallel. [ XI. 16]"
+  },
+  {
+    "id": "p-03f881",
+    "offset": 40822,
+    "text": "Therefore BC is parallel to AD."
+  },
+  {
+    "id": "p-214f42",
+    "offset": 40855,
+    "text": "But AB was also proved parallel to DC; therefore AC is a parallelogram."
+  },
+  {
+    "id": "p-36bcab",
+    "offset": 40928,
+    "text": "Similarly we can prove that each of the planes DF, FG, GB, BF, AE is a parallelogram."
+  },
+  {
+    "id": "p-7b862a",
+    "offset": 41015,
+    "text": "Let AH, DF be joined."
+  },
+  {
+    "id": "p-6176bd",
+    "offset": 41038,
+    "text": "Then, since AB is parallel to DC, and BH to CF, the two straight lines AB, BH which meet one another are parallel to the two straight lines DC, CF which meet one another, not in the same plane; therefore they will contain equal angles; [ XI. 10] therefore the angle ABH is equal to the angle DCF."
+  },
+  {
+    "id": "p-fe5f89",
+    "offset": 41336,
+    "text": "And, since the two sides AB, BH are equal to the two sides DC, CF, [ I. 34] and the angle ABH is equal to the angle DCF, therefore the base AH is equal to the base DF, and the triangle ABH is equal to the triangle DCF. [ I. 4]"
+  },
+  {
+    "id": "p-352893",
+    "offset": 41564,
+    "text": "And the parallelogram BG is double of the triangle ABH, and the parallelogram CE double of the triangle DCF; [ I. 34] therefore the parallelogram BG is equal to the parallelogram CE."
+  },
+  {
+    "id": "p-7a0f09",
+    "offset": 41748,
+    "text": "Similarly we can prove that AC is also equal to GF, and AE to BF."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 41815,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-f164bf",
+    "offset": 41840,
+    "text": "If a parallelepipedal solid be cut by a plane which is parallel to the opposite planes, then, as the base is to the base, so will the solid be to the solid."
+  },
+  {
+    "id": "p-4d485b",
+    "offset": 41998,
+    "text": "For let the parallelepipedal solid ABCD be cut by the plane FG which is parallel to the opposite planes RA, DH; I say that, as the base AEFV is to the base EHCF, so is the solid ABFU to the solid EGCD."
+  },
+  {
+    "id": "p-4d810a",
+    "offset": 42201,
+    "text": "For let AH be produced in each direction, let any number of straight lines whatever, AK, KL, be made equal to AE, and any number whatever, HM, MN, equal to EH; and let the parallelograms LP, KV, HW, MS and the solids LQ, KR, DM, MT be completed."
+  },
+  {
+    "id": "p-6c0dec",
+    "offset": 42448,
+    "text": "Then, since the straight lines LK, KA, AE are equal to one another, the parallelograms LP, KV, AF are also equal to one another, KO, KB, AG are equal to one another, and further LX, KQ, AR are equal to one another, for they are opposite. [ XI. 24]"
+  },
+  {
+    "id": "p-3c9ded",
+    "offset": 42697,
+    "text": "For the same reason the parallelograms EC, HW, MS are also equal to one another, HG, HI, IN are equal to one another, and further DH, MY, NT are equal to one another."
+  },
+  {
+    "id": "p-bab39f",
+    "offset": 42865,
+    "text": "Therefore in the solids LQ, KR, AU three planes are equal to three planes."
+  },
+  {
+    "id": "p-8272c1",
+    "offset": 42941,
+    "text": "But the three planes are equal to the three opposite; therefore the three solids LQ, KR, AU are equal to one another."
+  },
+  {
+    "id": "p-5531b7",
+    "offset": 43060,
+    "text": "For the same reason the three solids ED, DM, MT are also equal to one another."
+  },
+  {
+    "id": "p-6f8be0",
+    "offset": 43140,
+    "text": "Therefore, whatever multiple the base LF is of the base AF, the same multiple also is the solid LU of the solid AU."
+  },
+  {
+    "id": "p-92dd1e",
+    "offset": 43257,
+    "text": "For the same reason, whatever multiple the base NF is of the base FH, the same multiple also is the solid NU of the solid HU."
+  },
+  {
+    "id": "p-6ea8cc",
+    "offset": 43384,
+    "text": "And, if the base LF is equal to the base NF, the solid LU is also equal to the solid NU; if the base LF exceeds the base NF, the solid LU also exceeds the solid NU; and, if one falls short, the other falls short."
+  },
+  {
+    "id": "p-e9d033",
+    "offset": 43598,
+    "text": "Therefore, there being four magnitudes, the two bases AF, FH, and the two solids AU, UH, equimultiples have been taken of the base AF and the solid AU, namely the base LF and the solid LU, and equimultiples of the base HF and the solid HU, namely the base NF and the solid NU, and it has been proved that, if the base LF exceeds the base FN, the solid LU also exceeds the solid NU, if the bases are equal, the solids are equal, and if the base falls short, the solid falls short."
+  },
+  {
+    "id": "p-2059a5",
+    "offset": 44079,
+    "text": "Therefore, as the base AF is to the base FH, so is the solid AU to the solid UH. [ V. Def. 5] Q. E. D."
+  },
+  {
+    "id": "p-f49ca7",
+    "offset": 44183,
+    "text": "On a given straight line, and at a given point on it, to construct a solid angle equal to a given solid angle."
+  },
+  {
+    "id": "p-9801a3",
+    "offset": 44295,
+    "text": "Let AB be the given straight line, A the given point on it, and the angle at D, contained by the angles EDC, EDF, FDC, the given solid angle; thus it is required to construct on the straight line AB, and at the point A on it, a solid angle equal to the solid angle at D."
+  },
+  {
+    "id": "p-d29afa",
+    "offset": 44567,
+    "text": "For let a point F be taken at random on DF, let FG be drawn from F perpendicular to the plane through ED, DC, and let it meet the plane at G, [ XI. 11] let DG be joined, let there be constructed on the straight line AB and at the point A on it the angle BAL equal to the angle EDC, and the angle BAK equal to the angle EDG, [ I. 23] let AK be made equal to DG, let KH be set up from the point K at right angles to the plane through BA, AL, [ XI. 12] let KH be made equal to GF, and let HA be joined; I say that the solid angle at A, contained by the angles BAL, BAH, HAL is equal to the solid angle at D contained by the angles EDC, EDF, FDC."
+  },
+  {
+    "id": "p-44f39d",
+    "offset": 45211,
+    "text": "For let AB, DE be cut off equal to one another, and let HB, KB, FE, GE be joined."
+  },
+  {
+    "id": "p-ab9836",
+    "offset": 45294,
+    "text": "Then, since FG is at right angles to the plane of reference, it will also make right angles with all the straight lines which meet it and are in the plane of reference; [ XI. Def. 3] therefore each of the angles FGD, FGE is right."
+  },
+  {
+    "id": "p-03548b",
+    "offset": 45526,
+    "text": "For the same reason each of the angles HKA, HKB is also right."
+  },
+  {
+    "id": "p-2b4ecb",
+    "offset": 45590,
+    "text": "And, since the two sides KA, AB are equal to the two sides GD, DE respectively, and they contain equal angles, therefore the base KB is equal to the base GE. [ I. 4]"
+  },
+  {
+    "id": "p-0e0dd0",
+    "offset": 45757,
+    "text": "But KH is also equal to GF, and they contain right angles; therefore HB is also equal to FE. [ I. 4]"
+  },
+  {
+    "id": "p-47d08e",
+    "offset": 45859,
+    "text": "Again, since the two sides AK, KH are equal to the two sides DG, GF, and they contain right angles, therefore the base AH is equal to the base FD. [ I. 4]"
+  },
+  {
+    "id": "p-57af2d",
+    "offset": 46015,
+    "text": "But AB is also equal to DE; therefore the two sides HA, AB are equal to the two sides DF, DE."
+  },
+  {
+    "id": "p-327746",
+    "offset": 46110,
+    "text": "And the base HB is equal to the base FE; therefore the angle BAH is equal to the angle EDF. [ I. 8]"
+  },
+  {
+    "id": "p-6cc099",
+    "offset": 46211,
+    "text": "For the same reason the angle HAL is also equal to the angle FDC."
+  },
+  {
+    "id": "p-d3c0f2",
+    "offset": 46278,
+    "text": "And the angle BAL is also equal to the angle EDC."
+  },
+  {
+    "id": "p-5dbc62",
+    "offset": 46329,
+    "text": "Therefore on the straight line AB, and at the point A on it, a solid angle has been constructed equal to the given solid angle at D. Q. E. F."
+  },
+  {
+    "id": "p-40262b",
+    "offset": 46472,
+    "text": "On a given straight line to describe a parallelepipedal solid similar and similarly situated to a given parallelepipedal solid."
+  },
+  {
+    "id": "p-f5975e",
+    "offset": 46601,
+    "text": "Let AB be the given straight line and CD the given parallelepipedal solid; thus it is required to describe on the given straight line AB a parallelepipedal solid similar and similarly situated to the given parallelepipedal solid CD."
+  },
+  {
+    "id": "p-d004cf",
+    "offset": 46835,
+    "text": "For on the straight line AB and at the point A on it let the solid angle, contained by the angles BAH, HAK, KAB, be constructed equal to the solid angle at C, so that the angle BAH is equal to the angle ECF, the angle BAK equal to the angle ECG, and the angle KAH to the angle GCF; and let it be contrived that, as EC is to CG, so is BA to AK, and, as GC is to CF, so is KA to AH. [ VI. 12]"
+  },
+  {
+    "id": "p-d2bc5d",
+    "offset": 47227,
+    "text": "Therefore also, ex aequali, as EC is to CF, so is BA to AH. [ V. 22]"
+  },
+  {
+    "id": "p-39e1c6",
+    "offset": 47297,
+    "text": "Let the parallelogram HB and the solid AL be completed."
+  },
+  {
+    "id": "p-f1d20d",
+    "offset": 47354,
+    "text": "Now since, as EC is to CG, so is BA to AK, and the sides about the equal angles ECG, BAK are thus proportional, therefore the parallelogram GE is similar to the parallelogram KB."
+  },
+  {
+    "id": "p-8fb421",
+    "offset": 47534,
+    "text": "For the same reason the parallelogram KH is also similar to the parallelogram GF, and further FE to HB; therefore three parallelograms of the solid CD are similar to three parallelograms of the solid AL."
+  },
+  {
+    "id": "p-777afa",
+    "offset": 47739,
+    "text": "But the former three are both equal and similar to the three opposite parallelograms, and the latter three are both equal and similar to the three opposite parallelograms; therefore the whole solid CD is similar to the whole solid AL. [ XI. Def. 9]"
+  },
+  {
+    "id": "p-06a9e1",
+    "offset": 47989,
+    "text": "Therefore on the given straight line AB there has been described AL similar and similarly situated to the given parallelepipedal solid CD. Q. E. F."
+  },
+  {
+    "id": "p-803c54",
+    "offset": 48138,
+    "text": "If a parallelepipedal solid be cut by a plane through the diagonals of the opposite planes, the solid will be bisected by the plane."
+  },
+  {
+    "id": "p-b8b722",
+    "offset": 48272,
+    "text": "For let the parallelepipedal solid AB be cut by the plane CDEF through the diagonals CF, DE of opposite planes; I say that the solid AB will be bisected by the plane CDEF."
+  },
+  {
+    "id": "p-ba9545",
+    "offset": 48445,
+    "text": "For, since the triangle CGF is equal to the triangle CFB, [ I. 34] and ADE to DEH, while the parallelogram CA is also equal to the parallelogram EB, for they are opposite, and GE to CH, therefore the prism contained by the two triangles CGF, ADE and the three parallelograms GE, AC, CE is also equal to the prism contained by the two triangles CFB, DEH and the three parallelograms CH, BE, CE; for they are contained by planes equal both in multitude and in magnitude. [ XI. Def. 10]"
+  },
+  {
+    "id": "p-8f96de",
+    "offset": 48930,
+    "text": "Hence the whole solid AB is bisected by the plane CDEF. Q. E. D."
+  },
+  {
+    "id": "p-8a24d0",
+    "offset": 48996,
+    "text": "Parallelepipedal solids which are on the same base and of the same height, and in which the extremities of the sides which stand up are on the same straight lines, are equal to one another."
+  },
+  {
+    "id": "p-175ac9",
+    "offset": 49187,
+    "text": "Let CM, CN be parallelepipedal solids on the same base AB and of the same height, and let the extremities of their sides which stand up, namely AG, AF, LM, LN, CD, CE, BH, BK, be on the same straight lines FN, DK; I say that the solid CM is equal to the solid CN."
+  },
+  {
+    "id": "p-24b14c",
+    "offset": 49452,
+    "text": "For, since each of the figures CH, CK is a parallelogram, CB is equal to each of the straight lines DH, EK, [ I. 34] hence DH is also equal to EK."
+  },
+  {
+    "id": "p-1ffde1",
+    "offset": 49600,
+    "text": "Let EH be subtracted from each; therefore the remainder DE is equal to the remainder HK."
+  },
+  {
+    "id": "p-781881",
+    "offset": 49690,
+    "text": "Hence the triangle DCE is also equal to the triangle HBK, [ I. 8, 4] and the parallelogram DG to the parallelogram HN. [ I. 36]"
+  },
+  {
+    "id": "p-ac6ea3",
+    "offset": 49819,
+    "text": "For the same reason the triangle AFG is also equal to the triangle MLN."
+  },
+  {
+    "id": "p-1e9cc6",
+    "offset": 49892,
+    "text": "But the parallelogram CF is equal to the parallelogram BM, and CG to BN, for they are opposite; therefore the prism contained by the two triangles AFG, DCE and the three parallelograms AD, DG, CG is equal to the prism contained by the two triangles MLN, HBK and the three parallelograms BM, HN, BN."
+  },
+  {
+    "id": "p-f584dd",
+    "offset": 50192,
+    "text": "Let there be added to each the solid of which the parallelogram AB is the base and GEHM its opposite; therefore the whole parallelepipedal solid CM is equal to the whole parallelepipedal solid CN."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 50390,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-50d2e3",
+    "offset": 50415,
+    "text": "Parallelepipedal solids which are on the same base and of the same height, and in which the extremities of the sides which stand up are not on the same straight lines, are equal to one another."
+  },
+  {
+    "id": "p-618c52",
+    "offset": 50610,
+    "text": "Let CM, CN be parallelepipedal solids on the same base AB and of the same height, and let the extremities of their sides which stand up, namely AF, AG, LM, LN, CD, CE, BH, BK, not be on the same straight lines; I say that the solid CM is equal to the solid CN."
+  },
+  {
+    "id": "p-cc5d84",
+    "offset": 50872,
+    "text": "For let NK, DH be produced and meet one another at R, and further let FM, GE be produced to P, Q; let AO, LP, CQ, BR be joined."
+  },
+  {
+    "id": "p-1df2ed",
+    "offset": 51001,
+    "text": "Then the solid CM, of which the parallelogram ACBL is the base, and FDHM its opposite, is equal to the solid CP, of which the parallelogram ACBL is the base, and OQRP its opposite; for they are on the same base ACBL and of the same height, and the extremities of their sides which stand up, namely AF, AO, LM, LP, CD, CQ, BH, BR, are on the same straight lines FP, DR. [ XI. 29]"
+  },
+  {
+    "id": "p-dea465",
+    "offset": 51381,
+    "text": "But the solid CP, of which the parallelogram ACBL is the base, and OQRP its opposite, is equal to the solid CN, of which the parallelogram ACBL is the base and GEKN its opposite; for they are again on the same base ACBL and of the same height, and the extremities of their sides which stand up, namely AG, AO, CE, CQ, LN, LP, BK, BR, are on the same straight lines GQ, NR."
+  },
+  {
+    "id": "p-59352b",
+    "offset": 51755,
+    "text": "Hence the solid CM is also equal to the solid CN."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 51806,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-d30ae3",
+    "offset": 51831,
+    "text": "Parallelepipedal solids which are on equal bases and of the same height are equal to one another."
+  },
+  {
+    "id": "p-7d1738",
+    "offset": 51930,
+    "text": "Let the parallelepipedal solids AE, CF, of the same height, be on equal bases AB, CD."
+  },
+  {
+    "id": "p-e2cf97",
+    "offset": 52017,
+    "text": "I say that the solid AE is equal to the solid CF."
+  },
+  {
+    "id": "p-c86ca7",
+    "offset": 52068,
+    "text": "First, let the sides which stand up, HK, BE, AG, LM, PQ, DF, CO, RS, be at right angles to the bases AB, CD; let the straight line RT be produced in a straight line with CR; on the straight line RT, and at the point R on it, let the angle TRU be constructed equal to the angle ALB, [ I. 23] let RT be made equal to AL, and RU equal to LB, and let the base RW and the solid XU be completed."
+  },
+  {
+    "id": "p-1cde08",
+    "offset": 52459,
+    "text": "Now, since the two sides TR, RU are equal to the two sides AL, LB, and they contain equal angles, therefore the parallelogram RW is equal and similar to the parallelogram HL."
+  },
+  {
+    "id": "p-0a305e",
+    "offset": 52635,
+    "text": "Since again AL is equal to RT, and LM to RS, and they contain right angles, therefore the parallelogram RX is equal and similar to the parallelogram AM."
+  },
+  {
+    "id": "p-f58367",
+    "offset": 52789,
+    "text": "For the same reason LE is also equal and similar to SU; therefore three parallelograms of the solid AE are equal and similar to three parallelograms of the solid XU."
+  },
+  {
+    "id": "p-a72b63",
+    "offset": 52956,
+    "text": "But the former three are equal and similar to the three opposite, and the latter three to the three opposite; [ XI. 24] therefore the whole parallelepipedal solid AE is equal to the whole parallelepipedal solid XU. [ XI. Def. 10]"
+  },
+  {
+    "id": "p-b3eb65",
+    "offset": 53187,
+    "text": "Let DR, WU be drawn through and meet one another at Y, let aTb be drawn through T parallel to DY, let PD be produced to a, and let the solids YX, RI be completed."
+  },
+  {
+    "id": "p-6d5df8",
+    "offset": 53351,
+    "text": "Then the solid XY, of which the parallelogram RX is the base and Yc its opposite, is equal to the solid XU of which the parallelogram RX is the base and UV its opposite, for they are on the same base RX and of the same height, and the extremities of their sides which stand up, namely RY, RU, Tb, TW, Se, Sd, Xc, XV, are on the same straight lines YW, eV. [ XI. 29]"
+  },
+  {
+    "id": "p-042980",
+    "offset": 53718,
+    "text": "But the solid XU is equal to AE: therefore the solid XY is also equal to the solid AE."
+  },
+  {
+    "id": "p-e68b4e",
+    "offset": 53806,
+    "text": "And, since the parallelogram RUWT is equal to the parallelogram YT for they are on the same base RT and in the same parallels RT, YW, [ I. 35] while RUWT is equal to CD, since it is also equal to AB, therefore the parallelogram YT is also equal to CD."
+  },
+  {
+    "id": "p-c8a65d",
+    "offset": 54059,
+    "text": "But DT is another parallelogram; therefore, as the base CD is to DT, so is YT to DT. [ V. 7]"
+  },
+  {
+    "id": "p-31d40c",
+    "offset": 54153,
+    "text": "And, since the parallelepipedal solid CI has been cut by the plane RF which is parallel to opposite planes, as the base CD is to the base DT, so is the solid CF to the solid RI. [ XI. 25]"
+  },
+  {
+    "id": "p-59a33c",
+    "offset": 54342,
+    "text": "For the same reason, since the parallelepipedal solid YI has been cut by the plane RX which is parallel to opposite planes, as the base YT is to the base TD, so is the solid YX to the solid RI. [ XI. 25]"
+  },
+  {
+    "id": "p-7e0eea",
+    "offset": 54547,
+    "text": "But, as the base CD is to DT, so is YT to DT; therefore also, as the solid CF is to the solid RI, so is the solid YX to RI. [ V. 11]"
+  },
+  {
+    "id": "p-47f9d3",
+    "offset": 54681,
+    "text": "Therefore each of the solids CF, YX has to RI the same ratio; therefore the solid CF is equal to the solid YX. [ V. 9]"
+  },
+  {
+    "id": "p-5aa378",
+    "offset": 54801,
+    "text": "But YX was proved equal to AE; therefore AE is also equal to CF."
+  },
+  {
+    "id": "p-41106f",
+    "offset": 54867,
+    "text": "Next, let the sides standing up, AG, HK, BE, LM, CN, PQ, DF, RS, not be at right angles to the bases AB, CD; I say again that the solid AE is equal to the solid CF."
+  },
+  {
+    "id": "p-619282",
+    "offset": 55033,
+    "text": "For from the points K, E, G, M, Q, F, N, S let KO, ET, GU, MV, QW, FX, NY, SI be drawn perpendicular to the plane of reference, and let them meet the plane at the points O, T, U, V, W, X, Y, I, and let OT, OU, UV, TV, WX, WY, YI, IX be joined."
+  },
+  {
+    "id": "p-078fd1",
+    "offset": 55278,
+    "text": "Then the solid KV is equal to the solid QI, for they are on the equal bases KM, QS and of the same height, and their sides which stand up are at right angles to their bases. [First part of this Prop.]"
+  },
+  {
+    "id": "p-2b0f0a",
+    "offset": 55480,
+    "text": "But the solid KV is equal to the solid AE, and QI to CF; for they are on the same base and of the same height, while the extremities of their sides which stand up are not on the same straight lines. [ XI. 30]"
+  },
+  {
+    "id": "p-900194",
+    "offset": 55690,
+    "text": "Therefore the solid AE is also equal to the solid CF."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 55745,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-e3e58e",
+    "offset": 55770,
+    "text": "Parallelepipedal solids which are of the same height are to one another as their bases."
+  },
+  {
+    "id": "p-095a6a",
+    "offset": 55859,
+    "text": "Let AB, CD be parallelepipedal solids of the same height; I say that the parallelepipedal solids AB, CD are to one another as their bases, that is, that, as the base AE is to the base CF, so is the solid AB to the solid CD."
+  },
+  {
+    "id": "p-dd0d35",
+    "offset": 56084,
+    "text": "For let FH equal to AE be applied to FG, [ I. 45] and on FH as base, and with the same height as that of CD, let the parallelepipedal solid GK be completed."
+  },
+  {
+    "id": "p-b2b9ad",
+    "offset": 56242,
+    "text": "Then the solid AB is equal to the solid GK; for they are on equal bases AE, FH and of the same height. [ XI. 31]"
+  },
+  {
+    "id": "p-741f9c",
+    "offset": 56356,
+    "text": "And, since the parallelepipedal solid CK is cut by the plane DG which is parallel to opposite planes, therefore, as the base CF is to the base FH, so is the solid CD to the solid DH. [ XI. 25]"
+  },
+  {
+    "id": "p-f9f88e",
+    "offset": 56550,
+    "text": "But the base FH is equal to the base AE, and the solid GK to the solid AB; therefore also, as the base AE is to the base CF, so is the solid AB to the solid CD."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 56712,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-c020f5",
+    "offset": 56737,
+    "text": "Similar parallelepipedal solids are to one another in the triplicate ratio of their corresponding sides."
+  },
+  {
+    "id": "p-d87159",
+    "offset": 56843,
+    "text": "Let AB, CD be similar parallelepipedal solids, and let AE be the side corresponding to CF; I say that the solid AB has to the solid CD the ratio triplicate of that which AE has to CF."
+  },
+  {
+    "id": "p-a05402",
+    "offset": 57028,
+    "text": "For let EK, EL, EM be produced in a straight line with AE, GE, HE, let EK be made equal to CF, EL equal to FN, and further EM equal to FR, and let the parallelogram KL and the solid KP be completed."
+  },
+  {
+    "id": "p-5e0f86",
+    "offset": 57228,
+    "text": "Now, since the two sides KE, EL are equal to the two sides CF, FN, while the angle KEL is also equal to the angle CFN, inasmuch as the angle AEG is also equal to the angle CFN because of the similarity of the solids AB, CD, therefore the parallelogram KL is equal ltand similargt to the parallelogram CN."
+  },
+  {
+    "id": "p-ecdc63",
+    "offset": 57534,
+    "text": "For the same reason the parallelogram KM is also equal and similar to CR, and further EP to DF; therefore three parallelograms of the solid KP are equal and similar to three parallelograms of the solid CD."
+  },
+  {
+    "id": "p-36a959",
+    "offset": 57741,
+    "text": "But the former three parallelograms are equal and similar to their opposites, and the latter three to their opposites; [ XI. 24] therefore the whole solid KP is equal and similar to the whole solid CD. [ XI. Def. 10]"
+  },
+  {
+    "id": "p-468852",
+    "offset": 57959,
+    "text": "Let the parallelogram GK be completed, and on the parallelograms GK, KL as bases, and with the same height as that of AB, let the solids EO, LQ be completed."
+  },
+  {
+    "id": "p-f09c9b",
+    "offset": 58118,
+    "text": "Then since; owing to the similarity of the solids AB, CD, as AE is to CF, so is EG to FN, and EH to FR, while CF is equal to EK, FN to EL, and FR to EM, therefore, as AE is to EK, so is GE to EL, and HE to EM."
+  },
+  {
+    "id": "p-7e5897",
+    "offset": 58329,
+    "text": "But, as AE is to EK, so is AG to the parallelogram GK, as GE is to EL, so is GK to KL, and, as HE is to EM, so is QE to KM; [ VI. 1] therefore also, as the parallelogram AG is to GK, so is GK to KL, and QE to KM."
+  },
+  {
+    "id": "p-f3dc6b",
+    "offset": 58543,
+    "text": "But, as AG is to GK, so is the solid AB to the solid EO, as GK is to KL, so is the solid OE to the solid QL, and, as QE is to KM, so is the solid QL to the solid KP; [ XI. 32] therefore also, as the solid AB is to EO, so is EO to QL, and QL to KP."
+  },
+  {
+    "id": "p-7fd8e5",
+    "offset": 58792,
+    "text": "But, if four magnitudes be continuously proportional, the first has to the fourth the ratio triplicate of that which it has to the second; [ V. Def. 10] therefore the solid AB has to KP the ratio triplicate of that which AB has to EO."
+  },
+  {
+    "id": "p-ac4444",
+    "offset": 59028,
+    "text": "But, as AB is to EO, so is the parallelogram AG to GK, and the straight line AE to EK [ VI. 1]; hence the solid AB has also to KP the ratio triplicate of that which AE has to EK."
+  },
+  {
+    "id": "p-c08278",
+    "offset": 59208,
+    "text": "But the solid KP is equal to the solid CD, and the straight line EK to CF; therefore the solid AB has also to the solid CD the ratio triplicate of that which the corresponding side of it, AE, has to the corresponding side CF."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 59435,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-5c9a55",
+    "offset": 59460,
+    "text": "Porism. From this it is manifest that, if four straight lines be ltcontinuouslygt proportional, as the first is to the fourth, so will a parallelepipedal solid on the first be to the similar and similarly described parallelepipedal solid on the second, inasmuch as the first has to the fourth the ratio triplicate of that which it has to the second."
+  },
+  {
+    "id": "p-f1ea7c",
+    "offset": 59811,
+    "text": "In equal parallelepipedal solids the bases are reciprocally proportional to the heights; and those parallelepipedal solids in which the bases are reciprocally proportional to the heights are equal."
+  },
+  {
+    "id": "p-d791e0",
+    "offset": 60010,
+    "text": "Let AB, CD be equal parallelepipedal solids; I say that in the parallelepipedal solids AB, CD the bases are reciprocally proportional to the heights, that is, as the base EH is to the base NQ, so is the height of the solid CD to the height of the solid AB."
+  },
+  {
+    "id": "p-2bba5a",
+    "offset": 60268,
+    "text": "First, let the sides which stand up, namely AG, EF, LB, HK, CM, NO, PD, QR, be at right angles to their bases; I say that, as the base EH is to the base NQ, so is CM to AG."
+  },
+  {
+    "id": "p-527701",
+    "offset": 60442,
+    "text": "If now the base EH is equal to the base NQ, while the solid AB is also equal to the solid CD, CM will also be equal to AG."
+  },
+  {
+    "id": "p-72dbd1",
+    "offset": 60566,
+    "text": "For parallelepipedal solids of the same height are to one another as the bases; [ XI. 32] and, as the base EH is to NQ, so will CM be to AG, and it is manifest that in the parallelepipedal solids AB, CD the bases are reciprocally proportional to the heights."
+  },
+  {
+    "id": "p-ba1415",
+    "offset": 60826,
+    "text": "Next, let the base EH not be equal to the base NQ, but let EH be greater."
+  },
+  {
+    "id": "p-660aca",
+    "offset": 60901,
+    "text": "Now the solid AB is equal to the solid CD; therefore CM is also greater than AG."
+  },
+  {
+    "id": "p-4827d3",
+    "offset": 60983,
+    "text": "Let then CT be made equal to AG, and let the parallelepipedal solid VC be completed on NQ as base and with CT as height."
+  },
+  {
+    "id": "p-3f7c78",
+    "offset": 61105,
+    "text": "Now, since the solid AB is equal to the solid CD, and CV is outside them, while equals have to the same the same ratio, [ V. 7] therefore, as the solid AB is to the solid CV, so is the solid CD to the solid CV."
+  },
+  {
+    "id": "p-22e3d3",
+    "offset": 61317,
+    "text": "But, as the solid AB is to the solid CV, so is the base EH to the base NQ, for the solids AB, CV are of equal height; [ XI. 32] and, as the solid CD is to the solid CV, so is the base MQ to the base TQ [ XI. 25] and CM to CT [ VI. 1]; therefore also, as the base EH is to the base NQ, so is MC to CT."
+  },
+  {
+    "id": "p-633b60",
+    "offset": 61619,
+    "text": "But CT is equal to AG; therefore also, as the base EH is to the base NQ, so is MC to AG."
+  },
+  {
+    "id": "p-b31105",
+    "offset": 61709,
+    "text": "Therefore in the parallelepipedal solids AB, CD the bases are reciprocally proportional to the heights."
+  },
+  {
+    "id": "p-305367",
+    "offset": 61814,
+    "text": "Again, in the parallelepipedal solids AB, CD let the bases be reciprocally proportional to the heights, that is, as the base EH is to the base NQ, so let the height of the solid CD be to the height of the solid AB; I say that the solid AB is equal to the solid CD."
+  },
+  {
+    "id": "p-5be63d",
+    "offset": 62080,
+    "text": "Let the sides which stand up be again at right angles to the bases."
+  },
+  {
+    "id": "p-2981d8",
+    "offset": 62149,
+    "text": "Now, if the base EH is equal to the base NQ, and, as the base EH is to the base NQ, so is the height of the solid CD to the height of the solid AB, therefore the height of the solid CD is also equal to the height of the solid AB."
+  },
+  {
+    "id": "p-afc228",
+    "offset": 62380,
+    "text": "But parallelepipedal solids on equal bases and of the same height are equal to one another; [ XI. 31] therefore the solid AB is equal to the solid CD."
+  },
+  {
+    "id": "p-59a18c",
+    "offset": 62532,
+    "text": "Next, let the base EH not be equal to the base NQ, but let EH be greater; therefore the height of the solid CD is also greater than the height of the solid AB, that is, CM is greater than AG."
+  },
+  {
+    "id": "p-7e782a",
+    "offset": 62725,
+    "text": "Let CT be again made equal to AG, and let the solid CV be similarly completed."
+  },
+  {
+    "id": "p-9cd574",
+    "offset": 62805,
+    "text": "Since, as the base EH is to the base NQ, so is MC to AG, while AG is equal to CT, therefore, as the base EH is to the base NQ, so is CM to CT."
+  },
+  {
+    "id": "p-5a07d8",
+    "offset": 62949,
+    "text": "But, as the base EH is to the base NQ, so is the solid AB to the solid CV, for the solids AB, CV are of equal height; [ XI. 32] and, as CM is to CT, so is the base MQ to the base QT [ VI. 1] and the solid CD to the solid CV. [ XI. 25]"
+  },
+  {
+    "id": "p-8ac301",
+    "offset": 63185,
+    "text": "Therefore also, as the solid AB is to the solid CV, so is the solid CD to the solid CV; therefore each of the solids AB, CD has to CV the same ratio."
+  },
+  {
+    "id": "p-1e92d8",
+    "offset": 63336,
+    "text": "Therefore the solid AB is equal to the solid CD. [ V. 9]"
+  },
+  {
+    "id": "p-5b9a5c",
+    "offset": 63394,
+    "text": "Now let the sides which stand up, FE, BL, GA, HK, ON, DP, MC, RQ, not be at right angles to their bases; let perpendiculars be drawn from the points F, G, B, K, O, M, D, R to the planes through EH, NQ, and let them meet the planes at S, T, U, V, W, X, Y, a, and let the solids FV, Oa be completed; I say that, in this case too, if the solids AB, CD are equal, the bases are reciprocally proportional to the heights, that is, as the base EH is to the base NQ, so is the height of the solid CD to the height of the solid AB."
+  },
+  {
+    "id": "p-17394e",
+    "offset": 63918,
+    "text": "Since the solid AB is equal to the solid CD, while AB is equal to BT, for they are on the same base FK and of the same height; [ XI. 29, 30] and the solid CD is equal to DX, for they are again on the same base RO and of the same height; [ id.] therefore the solid BT is also equal to the solid DX."
+  },
+  {
+    "id": "p-5db521",
+    "offset": 64217,
+    "text": "Therefore, as the base FK is to the base OR, so is the height of the solid DX to the height of the solid BT. [Part 1.]"
+  },
+  {
+    "id": "p-5763ad",
+    "offset": 64337,
+    "text": "But the base FK is equal to the base EH, and the base OR to the base NQ; therefore, as the base EH is to the base NQ, so is the height of the solid DX to the height of the solid BT."
+  },
+  {
+    "id": "p-837068",
+    "offset": 64520,
+    "text": "But the solids DX, BT and the solids DC, BA have the same heights respectively; therefore, as the base EH is to the base NQ, so is the height of the solid DC to the height of the solid AB."
+  },
+  {
+    "id": "p-b31105",
+    "offset": 64710,
+    "text": "Therefore in the parallelepipedal solids AB, CD the bases are reciprocally proportional to the heights."
+  },
+  {
+    "id": "p-305367",
+    "offset": 64815,
+    "text": "Again, in the parallelepipedal solids AB, CD let the bases be reciprocally proportional to the heights, that is, as the base EH is to the base NQ, so let the height of the solid CD be to the height of the solid AB; I say that the solid AB is equal to the solid CD."
+  },
+  {
+    "id": "p-d7d11e",
+    "offset": 65081,
+    "text": "For, with the same construction, since, as the base EH is to the base NQ, so is the height of the solid CD to the height of the solid AB, while the base EH is equal to the base FK, and NQ to OR, therefore, as the base FK is to the base OR, so is the height of the solid CD to the height of the solid AB."
+  },
+  {
+    "id": "p-274979",
+    "offset": 65386,
+    "text": "But the solids AB, CD and BT, DX have the same heights respectively; therefore, as the base FK is to the base OR, so is the height of the solid DX to the height of the solid BT."
+  },
+  {
+    "id": "p-62197a",
+    "offset": 65565,
+    "text": "Therefore in the parallelepipedal solids BT, DX the bases are reciprocally proportional to the heights; therefore the solid BT is equal to the solid DX. [Part 1.]"
+  },
+  {
+    "id": "p-167e83",
+    "offset": 65729,
+    "text": "But BT is equal to BA, for they are on the same base FK and of the same height; [ XI. 29, 30] and the solid DX is equal to the solid DC. [ id.]"
+  },
+  {
+    "id": "p-4bc823",
+    "offset": 65874,
+    "text": "Therefore the solid AB is also equal to the solid CD. Q. E. D."
+  },
+  {
+    "id": "p-df7a80",
+    "offset": 65938,
+    "text": "If there be two equal plane angles, and on their vertices there be set up elevated straight lines containing equal angles with the original straight lines respectively, if on the elevated straight lines points be taken at random and perpendiculars be drawn from them to the planes in which the original angles are, and if from the points so arising in the planes straight lines be joined to the vertices of the original angles, they will contain, with the elevated straight lines, equal angles."
+  },
+  {
+    "id": "p-fbbd4b",
+    "offset": 66434,
+    "text": "Let the angles BAC, EDF be two equal rectilineal angles, and from the points A, D let the elevated straight lines AG, DM be set up containing, with the original straight lines, equal angles respectively, namely, the angle MDE to the angle GAB and the angle MDF to the angle GAC, let points G, M be taken at random on AG, DM, let GL, MN be drawn from the points G, M perpendicular to the planes through BA, AC and ED, DF, and let them meet the planes at L, N, and let LA, ND be joined; I say that the angle GAL is equal to the angle MDN."
+  },
+  {
+    "id": "p-366d1b",
+    "offset": 66972,
+    "text": "Let AH be made equal to DM, and let HK be drawn through the point H parallel to GL."
+  },
+  {
+    "id": "p-f1982d",
+    "offset": 67057,
+    "text": "But GL is perpendicular to the plane through BA, AC; therefore HK is also perpendicular to the plane through. BA, AC. [ XI. 8]"
+  },
+  {
+    "id": "p-b5d276",
+    "offset": 67185,
+    "text": "From the points K, N let KC, NF, KB, NE be drawn perpendicular to the straight lines AC, DF, AB, DE, and let HC, CB, MF, FE be joined."
+  },
+  {
+    "id": "p-bf1817",
+    "offset": 67321,
+    "text": "Since the square on HA is equal to the squares on HK, KA, and the squares on KC, CA are equal to the square on KA, [ I. 47] therefore the square on HA is also equal to the squares on HK, KC, CA."
+  },
+  {
+    "id": "p-975ff2",
+    "offset": 67517,
+    "text": "But the square on HC is equal to the squares on HK, KC; [ I. 47] therefore the square on HA is equal to the squares on HC, CA."
+  },
+  {
+    "id": "p-86b522",
+    "offset": 67645,
+    "text": "Therefore the angle HCA is right. [ I. 48]"
+  },
+  {
+    "id": "p-c82362",
+    "offset": 67689,
+    "text": "For the same reason the angle DFM is also right."
+  },
+  {
+    "id": "p-62500b",
+    "offset": 67739,
+    "text": "Therefore the angle ACH is equal to the angle DFM."
+  },
+  {
+    "id": "p-cdb29e",
+    "offset": 67791,
+    "text": "But the angle HAC is also equal to the angle MDF."
+  },
+  {
+    "id": "p-0b55de",
+    "offset": 67842,
+    "text": "Therefore MDF, HAC are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely, that subtending one of the equal angles, that is, HA equal to MD; therefore they will also have the remaining sides equal to the remaining sides respectively. [ I. 26]"
+  },
+  {
+    "id": "p-aa8503",
+    "offset": 68144,
+    "text": "Therefore AC is equal to DF."
+  },
+  {
+    "id": "p-f4c448",
+    "offset": 68174,
+    "text": "Similarly we can prove that AB is also equal to DE."
+  },
+  {
+    "id": "p-bfe44e",
+    "offset": 68227,
+    "text": "Since then AC is equal to DF, and AB to DE, the two sides CA, AB are equal to the two sides FD, DE."
+  },
+  {
+    "id": "p-76bc01",
+    "offset": 68328,
+    "text": "But the angle CAB is also equal to the angle FDE; therefore the base BC is equal to the base EF, the triangle to the triangle, and the remaining angles to the remaining angles; [ I. 4] therefore the angle ACB is equal to the angle DFE."
+  },
+  {
+    "id": "p-cbeeaa",
+    "offset": 68565,
+    "text": "But the right angle ACK is also equal to the right angle DFN; therefore the remaining angle BCK is also equal to the remaining angle EFN."
+  },
+  {
+    "id": "p-ba6b52",
+    "offset": 68704,
+    "text": "For the same reason the angle CBK is also equal to the angle FEN."
+  },
+  {
+    "id": "p-cc2ca7",
+    "offset": 68771,
+    "text": "Therefore BCK, EFN are two triangles which have two angles equal to two angles respectively, and one side equal to one side, namely, that adjacent to the equal angles, that is, BC equal to EF; therefore they will also have the remaining sides equal to the remaining sides. [ I. 26]"
+  },
+  {
+    "id": "p-4e853d",
+    "offset": 69054,
+    "text": "Therefore CK is equal to FN."
+  },
+  {
+    "id": "p-f7fdbb",
+    "offset": 69084,
+    "text": "But AC is also equal to DF; therefore the two sides AC, CK are equal to the two sides DF, FN; and they contain right angles."
+  },
+  {
+    "id": "p-6bbf56",
+    "offset": 69210,
+    "text": "Therefore the base AK is equal to the base DN. [ I. 4]"
+  },
+  {
+    "id": "p-2c7756",
+    "offset": 69266,
+    "text": "And, since AH is equal to DM, the square on AH is also equal to the square on DM."
+  },
+  {
+    "id": "p-acfce6",
+    "offset": 69349,
+    "text": "But the squares on AK, KH are equal to the square on AH, for the angle AKH is right; [ I. 47] and the squares on DN, NM are equal to the square on DM, for the angle DNM is right; [ I. 47] therefore the squares on AK, KH are equal to the squares on DN, NM; and of these the square on AK is equal to the square on DN; therefore the remaining square on KH is equal to the square on NM; therefore HK is equal to MN."
+  },
+  {
+    "id": "p-da581d",
+    "offset": 69762,
+    "text": "And, since the two sides HA, AK are equal to the two sides MD, DN respectively, and the base HK was proved equal to the base MN, therefore the angle HAK is equal to the angle MDN. [ I. 8]"
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 69951,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-96729e",
+    "offset": 69967,
+    "text": "Porism. From this it is manifest that, if there be two equal plane angles, and if there be set up on them elevated straight lines which are equal and contain equal angles with the original straight lines respectively, the perpendiculars drawn from their extremities to the planes in which are the original angles are equal to one another. Q. E. D."
+  },
+  {
+    "id": "p-7259b5",
+    "offset": 70316,
+    "text": "If three straight lines be proportional, the parallelepipedal solid formed out of the three is equal to the parallelepipedal solid on the mean which is equilateral, but equiangular with the aforesaid solid."
+  },
+  {
+    "id": "p-d7f0a6",
+    "offset": 70524,
+    "text": "Let A, B, C be three straight lines in proportion, so that, as A is to B, so is B to C; I say that the solid formed out of A, B, C is equal to the solid on B which is equilateral, but equiangular with the aforesaid solid."
+  },
+  {
+    "id": "p-a177b5",
+    "offset": 70747,
+    "text": "Let there be set out the solid angle at E contained by the angles DEG, GEF, FED, let each of the straight lines DE, GE, EF be made equal to B, and let the parallelepipedal solid EK be completed, let LM be made equal to A, and on the straight line LM, and at the point L on it, let there be constructed a solid angle equal to the solid angle at E, namely that contained by NLO, OLM, MLN; let LO be made equal to B, and LN equal to C."
+  },
+  {
+    "id": "p-148e99",
+    "offset": 71181,
+    "text": "Now, since, as A is to B, so is B to C, while A is equal to LM, B to each of the straight lines LO, ED, and C to LN, therefore, as LM is to EF, so is DE to LN."
+  },
+  {
+    "id": "p-08d829",
+    "offset": 71342,
+    "text": "Thus the sides about the equal angles NLM, DEF are reciprocally proportional; therefore the parallelogram MN is equal to the parallelogram DF. [ VI. 14]"
+  },
+  {
+    "id": "p-3f86f5",
+    "offset": 71496,
+    "text": "And, since the angles DEF, NLM are two plane rectilineal angles, and on them the elevated straight lines LO, EG are set up which are equal to one another and contain equal angles with the original straight lines respectively, therefore the perpendiculars drawn from the points G, O to the planes through NL, LM and DE, EF are equal to one another; [ XI. 35, Por.] hence the solids LH, EK are of the same height."
+  },
+  {
+    "id": "p-6c3f0b",
+    "offset": 71909,
+    "text": "But parallelepipedal solids on equal bases and of the same height are equal to one another; [ XI. 31] therefore the solid HL is equal to the solid EK."
+  },
+  {
+    "id": "p-25d4b4",
+    "offset": 72061,
+    "text": "And LH is the solid formed out of A, B, C, and EK the solid on B; therefore the parallelepipedal solid formed out of A, B, C is equal to the solid on B which is equilateral, but equiangular with the aforesaid solid. Q. E. D."
+  },
+  {
+    "id": "p-46568e",
+    "offset": 72287,
+    "text": "If four straight lines be proportional, the parallelepipedal solids on them which are similar and similarly described will also be proportional; and, if the parallelepipedal solids on them which are similar and similarly described be proportional, the straight lines will themselves also be proportional."
+  },
+  {
+    "id": "p-dc3e7b",
+    "offset": 72593,
+    "text": "Let AB, CD, EF, GH be four straight lines in proportion, so that, as AB is to CD, so is EF to GH; and let there be described on AB, CD, EF, GH the similar and similarly situated parallelepipedal solids KA, LC, ME, NG; I say that, as KA is to LC, so is ME to NG."
+  },
+  {
+    "id": "p-155b8a",
+    "offset": 72856,
+    "text": "For, since the parallelepipedal solid KA is similar to LC, therefore KA has to LC the ratio triplicate of that which AB has to CD. [ XI. 33]"
+  },
+  {
+    "id": "p-a73cbe",
+    "offset": 72998,
+    "text": "For the same reason ME also has to NG the ratio triplicate of that which EF has to GH. [ id.]"
+  },
+  {
+    "id": "p-26fbb7",
+    "offset": 73093,
+    "text": "And, as AB is to CD, so is EF to GH."
+  },
+  {
+    "id": "p-9c8a14",
+    "offset": 73131,
+    "text": "Therefore also, as AK is to LC, so is ME to NG."
+  },
+  {
+    "id": "p-a75397",
+    "offset": 73180,
+    "text": "Next, as the solid AK is to the solid LC, so let the solid ME be to the solid NG; I say that, as the straight line AB is to CD, so is EF to GH."
+  },
+  {
+    "id": "p-5b531e",
+    "offset": 73325,
+    "text": "For since, again, KA has to LC the ratio triplicate of that which AB has to CD, [ XI. 33] and ME also has to NG the ratio triplicate of that which EF has to GH, [ id.] and, as KA is to LC, so is ME to NG, therefore also, as AB is to CD, so is EF to GH."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 73579,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-cc1ee9",
+    "offset": 73604,
+    "text": "If the sides of the opposite planes of a cube be bisected, and planes be carried through the points of section, the common section of the planes and the diameter of the cube bisect one another."
+  },
+  {
+    "id": "p-990cae",
+    "offset": 73799,
+    "text": "For let the sides of the opposite planes CF, AH of the cube AF be bisected at the points K, L, M, N, O, Q, P, R, and through the points of section let the planes KN, OR be carried; let US be the common section of the planes, and DG the diameter of the cube AF."
+  },
+  {
+    "id": "p-4baf19",
+    "offset": 74061,
+    "text": "I say that UT is equal to TS, and DT to TG."
+  },
+  {
+    "id": "p-64d32e",
+    "offset": 74106,
+    "text": "For let DU, UE, BS, SG be joined."
+  },
+  {
+    "id": "p-9bb57c",
+    "offset": 74141,
+    "text": "Then, since DO is parallel to PE, the alternate angles DOU, UPE are equal to one another. [ I. 29]"
+  },
+  {
+    "id": "p-06b50a",
+    "offset": 74241,
+    "text": "And, since DO is equal to PE, and OU to UP, and they contain equal angles, therefore the base DU is equal to the base UE, the triangle DOU is equal to the triangle PUE, and the remaining angles are equal to the remaining angles; [ I. 4] therefore the angle OUD is equal to the angle PUE."
+  },
+  {
+    "id": "p-9ed901",
+    "offset": 74530,
+    "text": "For this reason DUE is a straight line. [ I. 14]"
+  },
+  {
+    "id": "p-9069f5",
+    "offset": 74580,
+    "text": "For the same reason, BSG is also a straight line, and BS is equal to SG."
+  },
+  {
+    "id": "p-fcb8da",
+    "offset": 74654,
+    "text": "Now, since CA is equal and parallel to DB, while CA is also equal and parallel to EG, therefore DB is also equal and parallel to EG. [ XI. 9]"
+  },
+  {
+    "id": "p-217347",
+    "offset": 74797,
+    "text": "And the straight lines DE, BG join their extremities; therefore DE is parallel to BG. [ I. 33]"
+  },
+  {
+    "id": "p-14bd1d",
+    "offset": 74893,
+    "text": "Therefore the angle EDT is equal to the angle BGT, for they are alternate; [ I. 29] and the angle DTU is equal to the angle GTS. [ I. 15]"
+  },
+  {
+    "id": "p-5cfba3",
+    "offset": 75032,
+    "text": "Therefore DTU, GTS are two triangles which have two angles equal to two angles, and one side equal to one side, namely that subtending one of the equal angles, that is, DU equal to GS, for they are the halves of DE, BG; therefore they will also have the remaining sides equal to the remaining sides. [ I. 26]"
+  },
+  {
+    "id": "p-c0bc70",
+    "offset": 75342,
+    "text": "Therefore DT is equal to TG, and UT to TS."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 75386,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-8768fa",
+    "offset": 75411,
+    "text": "If there be two prisms of equal height, and one have a parallelogram as base and the other a triangle, and if the parallelogram be double of the triangle, the prisms will be equal."
+  },
+  {
+    "id": "p-aa392b",
+    "offset": 75593,
+    "text": "Let ABCDEF, GHKLMN be two prisms of equal height, let one have the parallelogram AF as base, and the other the triangle GHK, and let the parallelogram AF be double of the triangle GHK; I say that the prism ABCDEF is equal to the prism GHKLMN."
+  },
+  {
+    "id": "p-78abaa",
+    "offset": 75837,
+    "text": "For let the solids AO, GP be completed."
+  },
+  {
+    "id": "p-6cc0c8",
+    "offset": 75878,
+    "text": "Since the parallelogram AF is double of the triangle GHK, while the parallelogram HK is also double of the triangle GHK, [ I. 34] therefore the parallelogram AF is equal to the parallelogram HK."
+  },
+  {
+    "id": "p-a70d36",
+    "offset": 76074,
+    "text": "But parallelepipedal solids which are on equal bases and of the same height are equal to one another; [ XI. 31] therefore the solid AO is equal to the solid GP."
+  },
+  {
+    "id": "p-5cf721",
+    "offset": 76236,
+    "text": "And the prism ABCDEF is half of the solid AO, and the prism GHKLMN is half of the solid GP; [ XI. 28] therefore the prism ABCDEF is equal to the prism GHKLMN."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 76396,
+    "text": "Therefore etc. Q. E. D."
+  }
+]

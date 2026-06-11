@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-vitae-decem-oratorum-fa7cc2",
+  "work_title": "Vitae decem oratorum",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8accfc17-9aa3-5aea-badc-d26a59adcbbb",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 488,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg121.perseus-grc2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "24dc0bbb-7459-5585-9833-03ad5a0c0eba",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 782,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg121.perseus-eng4:6"
+    }
+  ]
+}

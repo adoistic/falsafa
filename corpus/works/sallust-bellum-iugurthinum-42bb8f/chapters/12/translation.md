@@ -1,0 +1,21 @@
+---
+work_id: "42bb8ffd-42cc-5876-ac1a-70a998d0ec3b"
+work_slug: "sallust-bellum-iugurthinum-42bb8f"
+work_title: Bellum Iugurthinum
+author_name: Sallust
+chapter_number: 12
+chapter_title: Chapter 12
+chapter_slug: 12
+variant_id: "264926d4-9f80-5f24-8847-46f9ba20369f"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 286
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi002.perseus-eng2:12"
+translator: Perseus Digital Library
+---
+
+At the first meeting of the princes, of which I have just spoken, it had been resolved, in consequence of their disagreement, that the treasures should be divided among them, and that limits should be set to the jurisdiction of each. Days were accordingly appointed for both these purposes, but the earlier of the two for the division of the money. The princes, in the mean time, retired into separate places of abode in the neighborhood of the treasury. Hiempsal, residing in the town of Thirmida, happened to occupy the house of a man, who, being Jugurtha's chief lictor, had always been liked and favored by his master. This man, thus opportunely presented as an instrument, Jugurtha loaded with promises, and induced him to go to his house, as if for the purpose of looking over it, and provide himself with false keys to the gates; for the true ones used to be given to Hiempsal; adding, that he himself, when circumstances should call for his presence, would be at the place with a large body of men. This commission the Numidian speedily executed, and, according to his instructions, admitted Jugurtha's men in the night, who, as soon as they had entered the house, went different ways in quest of the prince; some of his attendants they killed while asleep, and others as they met them; they searched into secret places, broke open those that were shut, and filled the whole premises with uproar and tumult. Hiempsal, after a time, was found concealed in the hut of a maid-servant, where, in his alarm and ignorance of the locality, he had at first taken refuge. The Numidians, as they had been ordered, brought his head to Jugurtha.

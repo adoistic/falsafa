@@ -1,0 +1,35 @@
+---
+work_id: "3271bd9e-cd6b-5eb0-97dd-d9c60cec3dd4"
+work_slug: "plutarch-aristides-3271bd"
+work_title: Aristides
+author_name: Plutarch
+chapter_number: 10
+chapter_title: Chapter 10
+chapter_slug: 10
+variant_id: "709adfb7-636c-5ef8-af26-b5608129dd5b"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 611
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg024.perseus-eng2:10"
+translator: Bernadotte Perrin
+---
+
+At this Xerxes grew exceeding fearful, and hurried straight to the Hellespont; but Mardonius, with the flower of the army, to the number of three hundred thousand men, was left behind. He was a formidable adversary, and because his confidence in his infantry was strong, he wrote threateningly to the Hellenes, saying:
+
+Ye have conquered with your maritime timbers landsmen who know not how to ply the oar; but now, broad is the land of Thessaly and fair the plain of Boeotia for brave horsemen and men-at-arms to contend in. But to the Athenians he sent separate letters and proposals from the King, who promised to rebuild their city, give them much money, and make them lords of the Hellenes, if only they would cease fighting against him.
+
+When the Lacedaemonians learned this, they took flight, and sent an embassy to Athens, begging the Athenians to despatch their wives and children to Sparta, and to accept from her a support for their aged and infirm; for great was the distress among the people, since it had so recently lost both land and city.
+
+However, after listening to the embassy, on motion of Aristides, they answered with an admirable answer, declaring that they could be tolerant with their foes for supposing that everything was to be bought for wealth and money, since their foes could conceive of nothing higher than these things; but they were indignant at the Lacedaemonians for having an eye only to the penury and indigence that now reigned at Athens, and for being so unmindful of the valor and ambition of the Athenians as to exhort them to contend for Hellas merely to win their rations.
+
+When Aristides had made this motion and had introduced the waiting embassies into the Assembly, he bade the Lacedaemonians tell their people that there was not bulk of gold above or below ground so large that the Athenians would take it in payment for the freedom of the Hellenes; and to the messengers of Mardonius he said, pointing to the sun: As long as yonder sun journeys his appointed journey, so long will the Athenians wage war against the Persians in behalf of the land which has been ravaged by them and of the temples which they have defiled and consumed with fire.
+
+Still further, he made a motion that the priests should solemnly curse all who came to a parley with the Medes or forsook the alliance of the Hellenes. When Mardonius for the second time invaded Attica, again the people crossed over to Salamis. Then Aristides, who had been sent as envoy to Lacedaemon, inveighed against their sluggishness and indifference, in that they had once more abandoned Athens to the Barbarian, and demanded that they go to the aid of what was still left of Hellas.
+
+On hearing this, the Ephors, as long as it was day, publicly disported themselves in easygoing festival fashion; for it was their festival of the Hyacinthia. But in the night they selected five thousand Spartans, each of whom had seven Helots to attend upon him, and sent them forth without the knowledge of the Athenians. So when Aristides came before them with renewed invectives, they laughed and said he was but a sleepy babbler, for that their army was already in Arcadia on its march against the strangers (they called the Persians strangers).
+
+But Aristides declared they were jesting out of all season, forasmuch as they were deceiving their friends instead of their enemies. This is the way Idomeneus tell the story. But in the decree which Aristides caused to be passed, he himself is not named as envoy, but Cimon, Xanthippus, and Myronides.

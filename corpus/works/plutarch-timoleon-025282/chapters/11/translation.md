@@ -1,0 +1,35 @@
+---
+work_id: "0252821e-3c4c-5bd3-b11c-8ad61c2e31a7"
+work_slug: "plutarch-timoleon-025282"
+work_title: Timoleon
+author_name: Plutarch
+chapter_number: 11
+chapter_title: Chapter 10
+chapter_slug: 11
+variant_id: "632836df-c24c-5760-83cf-d9c0d0c4812d"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 423
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg018.perseus-eng2:11"
+translator: Bernadotte Perrin
+---
+
+However, after Timoleon had met the envoys of Hicetas and the commanders of the Carthaginians, he calmly said that he would obey their commands (for what would he accomplish by refusing?), but he wished that, before he went away, their proposals and his reply should be made in the presence of the people of Rhegium, a Greek city and a friend of both parties;
+
+for this would conduce to his own safety, and they, on their part, would abide more firmly by their promises regarding the Syracusans if they made a people witness to the agreements into which they entered.
+
+In making this overture to them he was contriving a deceit which should secure his safe passage across the strait, and the leaders of the Rhegians helped him contrive it, since they were all desirous that the affairs of the Sicilian Greeks should be in the hands of the Corinthians, and feared to have the Barbarians as neighbours.
+
+Therefore they convened an assembly and closed the gates, in order that the citizens might not engage in any other business; then they came forward and addressed the multitude in lengthy speeches, one handing over to another the same topic and coming to no conclusion, but protracting the time to no apparent purpose, until the Corinthian triremes should have put to sea, and keeping the Carthaginians in the assembly free from all suspicion, since Timoleon also was there and led them to think that he was on the point of rising to address the people.
+
+But when some one secretly brought him word that the other triremes had put to sea, and that one only, his own, had been left behind and was waiting for him, he slipped through the crowd unnoticed, with the connivance of the Rhegians about the bema, went down to the sea, and sailed off with all speed.
+
+And they put in at Tauromenium in Sicily, whither they had been earnestly invited some time ago, and where they were now kindly received by Andromachus, the master and ruler of the city.
+
+Andromachus was father of Timaeus the historian, and after making himself by far the most powerful of the rulers in Sicily at that time not only led his own citizens in the ways of law and justice, but was also known to be always averse and hostile to tyrants.
+
+Therefore at this time also he allowed Timoleon to make the city a base of operations, and persuaded his citizens to join the Corinthians in their struggle to set Sicily free.

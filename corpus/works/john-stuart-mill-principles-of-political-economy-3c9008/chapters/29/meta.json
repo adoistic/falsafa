@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 29,
+  "chapter_title": "CHAPTER XIV. OF THE DIFFERENCES OF WAGES IN DIFFERENT EMPLOYMENTS.",
+  "chapter_slug": "29",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a0300765-fd7a-562e-a919-deed5c3509a0",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8043,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

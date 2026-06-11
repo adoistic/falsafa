@@ -1,0 +1,38 @@
+{
+  "work_slug": "virgil-aeneid-659242",
+  "work_title": "Aeneid",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ed72df30-8782-5336-b672-132afe6a39ff",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5025,
+      "paragraph_count": 328,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi003.perseus-lat2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aba41a34-f06b-5471-9588-2b40d1a3ef1c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8315,
+      "paragraph_count": 325,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi003.perseus-eng2:2"
+    }
+  ]
+}

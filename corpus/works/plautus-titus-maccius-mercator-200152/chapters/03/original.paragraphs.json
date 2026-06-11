@@ -1,0 +1,957 @@
+[
+  {
+    "id": "p-1fed1f",
+    "offset": 0,
+    "text": "Lysimachvs:\nAmíce amico operam dedi: vicinus quod rogavit, hoc emi mercimonium. mea es tu, sequere sane."
+  },
+  {
+    "id": "p-58f2da",
+    "offset": 106,
+    "text": "ne plora: nimis stulte facis, oculos corrumpis tales."
+  },
+  {
+    "id": "p-03b645",
+    "offset": 161,
+    "text": "quin tibi quidem quod rideas magis est, quam ut lamentere."
+  },
+  {
+    "id": "p-482bb6",
+    "offset": 221,
+    "text": "Pasicompsa:"
+  },
+  {
+    "id": "p-4cbffe",
+    "offset": 234,
+    "text": "Amabo ecastor, mi senex, eloquere—"
+  },
+  {
+    "id": "p-40ce4f",
+    "offset": 270,
+    "text": "Lysimachvs:\nExquire quidvis."
+  },
+  {
+    "id": "p-7993cb",
+    "offset": 300,
+    "text": "Pasicompsa:\nCur emeris me."
+  },
+  {
+    "id": "p-3c6d20",
+    "offset": 328,
+    "text": "Lysimachvs:\nTene ego? ut quod imperetur facias, item quod tu mihi si imperes, ego faciam."
+  },
+  {
+    "id": "p-35a760",
+    "offset": 419,
+    "text": "Pasicompsa:\nFacere certumst pro copia et sapientia quae te velle arbitrabor."
+  },
+  {
+    "id": "p-4cbd24",
+    "offset": 497,
+    "text": "Lysimachvs:\nLaboriosi nil tibi quicquam operis imperabo."
+  },
+  {
+    "id": "p-482bb6",
+    "offset": 555,
+    "text": "Pasicompsa:"
+  },
+  {
+    "id": "p-266cda",
+    "offset": 568,
+    "text": "Namque edepol equidem, mi senex, non didici baiolare nec pecua ruri pascere nec pueros nutricare."
+  },
+  {
+    "id": "p-40bfa0",
+    "offset": 667,
+    "text": "Lysimachvs:\nBona si esse vis, bene erit tibi."
+  },
+  {
+    "id": "p-28dd72",
+    "offset": 714,
+    "text": "Pasicompsa:\nTum pol ego perii misera."
+  },
+  {
+    "id": "p-bcba86",
+    "offset": 753,
+    "text": "Lysimachvs:\nQui?"
+  },
+  {
+    "id": "p-d65c75",
+    "offset": 771,
+    "text": "Pasicompsa:\nQuia illim unde huc advecta sum, malis bene esse solitumst."
+  },
+  {
+    "id": "p-d3a74a",
+    "offset": 844,
+    "text": "Lysimachvs:\nQuasi dicas nullam mulierem bonam esse."
+  },
+  {
+    "id": "p-3de948",
+    "offset": 897,
+    "text": "Pasicompsa:\nHaud equidem dico, nec mos meust ut praedicem quod ego omnis scire credam."
+  },
+  {
+    "id": "p-9e2e64",
+    "offset": 985,
+    "text": "Lysimachvs:\nOratio edepol pluris est huius quam quanti haec emptast."
+  },
+  {
+    "id": "p-602ed2",
+    "offset": 1055,
+    "text": "rogare hoc unum te volo."
+  },
+  {
+    "id": "p-973efc",
+    "offset": 1081,
+    "text": "Pasicompsa:\nRoganti respondebo."
+  },
+  {
+    "id": "p-c17a25",
+    "offset": 1114,
+    "text": "Lysimachvs:\nQuid ais tu? quid nomen tibi dicam esse?"
+  },
+  {
+    "id": "p-830884",
+    "offset": 1168,
+    "text": "Pasicompsa:\nPasicompsae."
+  },
+  {
+    "id": "p-5e99dc",
+    "offset": 1194,
+    "text": "Lysimachvs:\nEx forma nomen inditumst. sed quid ais, Pasicompsa?"
+  },
+  {
+    "id": "p-403674",
+    "offset": 1259,
+    "text": "possin tu, si usus venerit, subtemen tenue nere?"
+  },
+  {
+    "id": "p-262baf",
+    "offset": 1309,
+    "text": "Pasicompsa:\nPossum."
+  },
+  {
+    "id": "p-91d01d",
+    "offset": 1330,
+    "text": "Lysimachvs:\nSi tenue scis, scio te uberius posse nere."
+  },
+  {
+    "id": "p-1c5ad3",
+    "offset": 1386,
+    "text": "Pasicompsa:\nDe lanificio neminem metuo, una aetate quae sit."
+  },
+  {
+    "id": "p-26c019",
+    "offset": 1448,
+    "text": "Lysimachvs:\nBonam hercle te et frugi arbitror, matura iam † inde aetate quom scis facere officium tuom, mulier."
+  },
+  {
+    "id": "p-2f6a22",
+    "offset": 1561,
+    "text": "Pasicompsa:\nPol docta didici."
+  },
+  {
+    "id": "p-be7036",
+    "offset": 1592,
+    "text": "operam accusari non sinam meam."
+  },
+  {
+    "id": "p-5901eb",
+    "offset": 1625,
+    "text": "Lysimachvs:\nEm istaec hercle res est."
+  },
+  {
+    "id": "p-8245ea",
+    "offset": 1664,
+    "text": "ovem tibi eccillam dabo, natam annos sexaginta, peculiarem."
+  },
+  {
+    "id": "p-63cfc2",
+    "offset": 1725,
+    "text": "Pasicompsa:\nMi senex, tam vetulam?"
+  },
+  {
+    "id": "p-f2f398",
+    "offset": 1761,
+    "text": "Lysimachvs:\nGeneris graecist;"
+  },
+  {
+    "id": "p-3776dc",
+    "offset": 1792,
+    "text": "eam si curabis, perbonast, tondetur nimium scite."
+  },
+  {
+    "id": "p-0c6644",
+    "offset": 1843,
+    "text": "Pasicompsa:\nHonoris causa quidquid est quod dabitur gratum habebo."
+  },
+  {
+    "id": "p-b62ec2",
+    "offset": 1911,
+    "text": "Lysimachvs:"
+  },
+  {
+    "id": "p-3c1555",
+    "offset": 1924,
+    "text": "Nunc, mulier, ne tu frustra sis, mea non es, ne arbitrere."
+  },
+  {
+    "id": "p-c253c8",
+    "offset": 1984,
+    "text": "Pasicompsa:\nDic igitur quaeso, quoia sum?"
+  },
+  {
+    "id": "p-508ef1",
+    "offset": 2027,
+    "text": "Lysimachvs:\nTuo ero redempta es rursum;"
+  },
+  {
+    "id": "p-3d7660",
+    "offset": 2068,
+    "text": "ego te redemi, ílle mecum oravit."
+  },
+  {
+    "id": "p-f68f67",
+    "offset": 2103,
+    "text": "Pasicompsa:\nAnimus rediit, si mecum servatur fides."
+  },
+  {
+    "id": "p-d58179",
+    "offset": 2156,
+    "text": "Lysimachvs:\nBono animo es, liberabit ille te homo: ita edepol deperit, atque hodie primum vidit."
+  },
+  {
+    "id": "p-482bb6",
+    "offset": 2254,
+    "text": "Pasicompsa:"
+  },
+  {
+    "id": "p-e25f34",
+    "offset": 2267,
+    "text": "Ecastor iam bienniumst, quom mecum rem coëpit."
+  },
+  {
+    "id": "p-dc230e",
+    "offset": 2315,
+    "text": "nunc, quando amicum te scio esse illius, indicabo."
+  },
+  {
+    "id": "p-d3b22f",
+    "offset": 2367,
+    "text": "Lysimachvs:\nQuid ais tu? iam bienniumst, quom tecum rém habet?"
+  },
+  {
+    "id": "p-1e3f25",
+    "offset": 2431,
+    "text": "Pasicompsa:\nCerto;"
+  },
+  {
+    "id": "p-208fbc",
+    "offset": 2451,
+    "text": "et intér nos coniuravimus, ego cum illo et ille mecum:"
+  },
+  {
+    "id": "p-9a1ddd",
+    "offset": 2507,
+    "text": "ego cum viro et ílle cum muliere, nisi cum illo aut ille mecum, neuter stupri causa caput limaret."
+  },
+  {
+    "id": "p-4ca50d",
+    "offset": 2607,
+    "text": "Lysimachvs:\nDi immortales, etiam cum uxore non cubet?"
+  },
+  {
+    "id": "p-c8988d",
+    "offset": 2662,
+    "text": "Pasicompsa:\nAmabo, án maritust?"
+  },
+  {
+    "id": "p-ea491b",
+    "offset": 2695,
+    "text": "neque est neque erit."
+  },
+  {
+    "id": "p-1fc21c",
+    "offset": 2718,
+    "text": "Lysimachvs:\nNolim quidem. homo hercle periuravit."
+  },
+  {
+    "id": "p-0f4d61",
+    "offset": 2769,
+    "text": "Pasicompsa:\nNullum adulescentem plus amo."
+  },
+  {
+    "id": "p-6e89d2",
+    "offset": 2812,
+    "text": "Lysimachvs:\nPuer est ille quidem, stulta."
+  },
+  {
+    "id": "p-b1afeb",
+    "offset": 2855,
+    "text": "nam illi quidem hau sane diust quom dentes exciderunt."
+  },
+  {
+    "id": "p-482bb6",
+    "offset": 2911,
+    "text": "Pasicompsa:"
+  },
+  {
+    "id": "p-1233c1",
+    "offset": 2924,
+    "text": "Quid, dentes?"
+  },
+  {
+    "id": "p-2fd45a",
+    "offset": 2939,
+    "text": "Lysimachvs:\nNihil est. sequere sis. hunc me diem unum oravit ut apud me praehiberem locum, ideo quia uxor rurist.—"
+  },
+  {
+    "id": "p-616ed4",
+    "offset": 3055,
+    "text": "Demipho:\nTandem impetravi ut egomet me corrumperem:"
+  },
+  {
+    "id": "p-5c8b0e",
+    "offset": 3108,
+    "text": "emptast amica clam uxorem et clam filium."
+  },
+  {
+    "id": "p-124e86",
+    "offset": 3151,
+    "text": "certumst, antiqua recolam et servibo mihi."
+  },
+  {
+    "id": "p-b4cd92",
+    "offset": 3195,
+    "text": "decurso spatio breve quod vitae relicuomst voluptáte, vino et amore delectavero."
+  },
+  {
+    "id": "p-7009eb",
+    "offset": 3277,
+    "text": "nam hanc se bene habere aetatem nimiost aequius."
+  },
+  {
+    "id": "p-fee2e8",
+    "offset": 3327,
+    "text": "adulescens quom sis, tum quom est sanguis integer, rei tuae quaerundae convenit operam dare;"
+  },
+  {
+    "id": "p-93e54d",
+    "offset": 3421,
+    "text": "demum igitur quom sis iam senex, tum in otium te conloces, dum potes ames: id iam lucrumst quod vivis. hoc ut dico, factis persequar."
+  },
+  {
+    "id": "p-fe4369",
+    "offset": 3556,
+    "text": "interea tamen huc intro ad me invisam domum:"
+  },
+  {
+    "id": "p-097bfe",
+    "offset": 3602,
+    "text": "uxor me exspectat iam dudum esuriens domi;"
+  },
+  {
+    "id": "p-277846",
+    "offset": 3646,
+    "text": "iam iurgio enicabit, si intro rediero."
+  },
+  {
+    "id": "p-4d9693",
+    "offset": 3686,
+    "text": "verum hercle postremo, utut est, non ibo tamen, sed hunc vicinum prius conveniam quam domum redeam; ut mihi aedis aliquas conducat volo, ubi habitet istaec mulier. atque eccum it foras."
+  },
+  {
+    "id": "p-6b00c1",
+    "offset": 3873,
+    "text": "Lysimachvs:\nAdducam ego illum iam ad te, si convenero."
+  },
+  {
+    "id": "p-94f1e9",
+    "offset": 3929,
+    "text": "Demipho:\nMe dicit."
+  },
+  {
+    "id": "p-02a3cf",
+    "offset": 3949,
+    "text": "Lysimachvs:\nQuid ais, Demipho?"
+  },
+  {
+    "id": "p-4e2e36",
+    "offset": 3981,
+    "text": "Demipho:\nEst mulier domi?"
+  },
+  {
+    "id": "p-1259c5",
+    "offset": 4008,
+    "text": "Lysimachvs:\nQuid censes?"
+  },
+  {
+    "id": "p-34fcfe",
+    "offset": 4034,
+    "text": "Demipho:\nQuid si visam?"
+  },
+  {
+    "id": "p-40557d",
+    "offset": 4059,
+    "text": "Lysimachvs:\nQuid properas? mane."
+  },
+  {
+    "id": "p-aca84d",
+    "offset": 4093,
+    "text": "Demipho:\nQuid faciam?"
+  },
+  {
+    "id": "p-2528ca",
+    "offset": 4116,
+    "text": "Lysimachvs:\nQuod opust facto facito ut cogites."
+  },
+  {
+    "id": "p-8683ac",
+    "offset": 4165,
+    "text": "Demipho:"
+  },
+  {
+    "id": "p-913226",
+    "offset": 4175,
+    "text": "Quid cogitem? equidem hercle opus hoc facto existimo, ut illo íntro eam."
+  },
+  {
+    "id": "p-810055",
+    "offset": 4249,
+    "text": "Lysimachvs:\nItane vero, vervex? intro eas?"
+  },
+  {
+    "id": "p-68c73b",
+    "offset": 4293,
+    "text": "Demipho:\nQuid aliud faciam?"
+  },
+  {
+    "id": "p-190a22",
+    "offset": 4322,
+    "text": "Lysimachvs:\nPrius hoc ausculta, atque ades:"
+  },
+  {
+    "id": "p-95bfbe",
+    "offset": 4367,
+    "text": "prius etiamst, quod te facere ego aequom censeo."
+  },
+  {
+    "id": "p-af2e2a",
+    "offset": 4417,
+    "text": "nam nunc si illuc intro ieris, amplecti voles, confabulari atque osculari."
+  },
+  {
+    "id": "p-02a363",
+    "offset": 4493,
+    "text": "Demipho:\nTu quidem meum animum gestas: scis quid acturus siem."
+  },
+  {
+    "id": "p-e2148e",
+    "offset": 4557,
+    "text": "Lysimachvs:\nPervorse facies."
+  },
+  {
+    "id": "p-0d4984",
+    "offset": 4587,
+    "text": "Demipho:\nQuodne ames—"
+  },
+  {
+    "id": "p-928bf9",
+    "offset": 4610,
+    "text": "Lysimachvs:\nTanto minus."
+  },
+  {
+    "id": "p-7009c2",
+    "offset": 4636,
+    "text": "ieiunitatis plenus, anima foetida, senex hircosus tu osculere mulierem?"
+  },
+  {
+    "id": "p-ee4e18",
+    "offset": 4709,
+    "text": "utíne adveniens vomitum excutias mulieri?"
+  },
+  {
+    "id": "p-9b1445",
+    "offset": 4752,
+    "text": "scio pol te amare, quom istaec praemonstras mihi."
+  },
+  {
+    "id": "p-e8eefe",
+    "offset": 4803,
+    "text": "Demipho:\nQuid si igitur unum faciam hoc? si censes, coquom aliquem arripiamus, prandium qui percoquat apud te hic usque ad vesperum."
+  },
+  {
+    "id": "p-6e4fc8",
+    "offset": 4937,
+    "text": "Lysimachvs:\nEm istuc censeo."
+  },
+  {
+    "id": "p-436fca",
+    "offset": 4967,
+    "text": "nunc tu sapienter loquere atque amatorie."
+  },
+  {
+    "id": "p-db0a11",
+    "offset": 5010,
+    "text": "Demipho:\nQuid stamus? quin ergo imus atque obsonium curamus, pulchre ut simus?"
+  },
+  {
+    "id": "p-ec9c6a",
+    "offset": 5090,
+    "text": "Lysimachvs:\nEquidem te sequor."
+  },
+  {
+    "id": "p-1de5a3",
+    "offset": 5122,
+    "text": "atque hercle invenies tu locum illi, si sapis:"
+  },
+  {
+    "id": "p-0e00c4",
+    "offset": 5170,
+    "text": "nullum hercle praeter hunc diem illa apud med erit."
+  },
+  {
+    "id": "p-e4c75b",
+    "offset": 5223,
+    "text": "metuo ego uxórem, cras si rure redierit ne illam hic offendat."
+  },
+  {
+    "id": "p-b6f2e9",
+    "offset": 5287,
+    "text": "Demipho:\nRes parata est, sequere me.—"
+  },
+  {
+    "id": "p-d4ae2d",
+    "offset": 5326,
+    "text": "Charinvs:\nSúmne ego homo miser, qui nusquam bene queo quiescere?"
+  },
+  {
+    "id": "p-b1a900",
+    "offset": 5392,
+    "text": "si domi sum, foris est animus, sin foris sum, animus domist."
+  },
+  {
+    "id": "p-bec9ea",
+    "offset": 5454,
+    "text": "ita mi in pectore atque in corde facit amor incendium:"
+  },
+  {
+    "id": "p-d644fe",
+    "offset": 5510,
+    "text": "ni ex oculis lacrumae defendant, iam ardeat credo caput."
+  },
+  {
+    "id": "p-3a757f",
+    "offset": 5568,
+    "text": "spem teneo, salutem amisi; redeat an non, nescio:"
+  },
+  {
+    "id": "p-80bc24",
+    "offset": 5619,
+    "text": "si opprimit pater quod dixit, exsulatum abiit salus;"
+  },
+  {
+    "id": "p-4fa233",
+    "offset": 5673,
+    "text": "sin sodalis quod promisit fecit, non abiit salus."
+  },
+  {
+    "id": "p-63c718",
+    "offset": 5724,
+    "text": "sed tamen dem si podagrosis pedibus esset Eutychus, iam a portu rediisse potuit. id illi vitium maxumumst, quod nimis tardus est advorsum mei animi sententiam."
+  },
+  {
+    "id": "p-476917",
+    "offset": 5885,
+    "text": "sed in est, quem currentem video? ípsus est. ibo obviam."
+  },
+  {
+    "id": "p-75547d",
+    "offset": 5943,
+    "text": "nunc, quod restat, ei disperii: voltus neutiquam huius placet;"
+  },
+  {
+    "id": "p-1753ca",
+    "offset": 6007,
+    "text": "tristis incédit (pectus ardet, haereo), quassat caput."
+  },
+  {
+    "id": "p-cd6a26",
+    "offset": 6063,
+    "text": "Eutyche."
+  },
+  {
+    "id": "p-963e56",
+    "offset": 6073,
+    "text": "Evtychvs:\nEu, Charine."
+  },
+  {
+    "id": "p-5df59c",
+    "offset": 6097,
+    "text": "Charinvs:\nPrius quam recipias anhelitum, uno verbo eloquere: ubi égo sum? hicine an apud mortuos?"
+  },
+  {
+    "id": "p-83267a",
+    "offset": 6196,
+    "text": "Evtychvs:\nNeque apud mortuos neque hic es."
+  },
+  {
+    "id": "p-3a3611",
+    "offset": 6240,
+    "text": "Charinvs:\nSalvos sum, immortalitas mihi data est: hic emit illam, pulchre os sublevit patri."
+  },
+  {
+    "id": "p-c28d5e",
+    "offset": 6334,
+    "text": "impetrabilior qui vivat nullus est. dice, obsecro:"
+  },
+  {
+    "id": "p-07e434",
+    "offset": 6386,
+    "text": "si neque hic neque Acherunti sum, úbi sum?"
+  },
+  {
+    "id": "p-b56cec",
+    "offset": 6430,
+    "text": "Evtychvs:\nNusquam gentium."
+  },
+  {
+    "id": "p-ce6431",
+    "offset": 6458,
+    "text": "Charinvs:"
+  },
+  {
+    "id": "p-defdda",
+    "offset": 6469,
+    "text": "Disperii, illaec interemit me modó oratio."
+  },
+  {
+    "id": "p-8b39ca",
+    "offset": 6513,
+    "text": "Evtychvs:\nOdiosast oratio, cum rém agas longinquom loqui."
+  },
+  {
+    "id": "p-3eeb9b",
+    "offset": 6572,
+    "text": "Charinvs:\nQuidquid est, ad capita rerum perveni."
+  },
+  {
+    "id": "p-a38f45",
+    "offset": 6622,
+    "text": "Evtychvs:\nPrimum omnium:"
+  },
+  {
+    "id": "p-c987ee",
+    "offset": 6648,
+    "text": "periimus."
+  },
+  {
+    "id": "p-797140",
+    "offset": 6659,
+    "text": "Charinvs:\nQuin tu illud potius nuntias quod nescio?"
+  },
+  {
+    "id": "p-38e4fb",
+    "offset": 6712,
+    "text": "Evtychvs:\nMulier alienata est abs te."
+  },
+  {
+    "id": "p-76c45e",
+    "offset": 6751,
+    "text": "Charinvs:\nEutyché, capital facis."
+  },
+  {
+    "id": "p-47130d",
+    "offset": 6786,
+    "text": "Evtychvs:"
+  },
+  {
+    "id": "p-0eb443",
+    "offset": 6797,
+    "text": "Qui?"
+  },
+  {
+    "id": "p-f0260e",
+    "offset": 6803,
+    "text": "Charinvs:\nQuia aequalem et sodalem, liberum civem, enicas."
+  },
+  {
+    "id": "p-2d7b6f",
+    "offset": 6863,
+    "text": "Evtychvs:\nNe di sierint."
+  },
+  {
+    "id": "p-36d940",
+    "offset": 6889,
+    "text": "Charinvs:\nDemisisti gladium in iugulum: iam cadam."
+  },
+  {
+    "id": "p-58a6eb",
+    "offset": 6941,
+    "text": "Evtychvs:\nQuaeso hercle, animum ne desponde."
+  },
+  {
+    "id": "p-77e2c2",
+    "offset": 6987,
+    "text": "Charinvs:\nNullust quem despondeam."
+  },
+  {
+    "id": "p-0b6a00",
+    "offset": 7023,
+    "text": "loquere porro aliam malam rem. cui est empta?"
+  },
+  {
+    "id": "p-0c9fd7",
+    "offset": 7070,
+    "text": "Evtychvs:\nNescio."
+  },
+  {
+    "id": "p-5a975b",
+    "offset": 7089,
+    "text": "iam addicta atque abducta erat, quom ad portum venio."
+  },
+  {
+    "id": "p-dbebff",
+    "offset": 7144,
+    "text": "Charinvs:\nVae mihi, montis tu quidem mali in me ardentis iam dudum iacis."
+  },
+  {
+    "id": "p-fa760f",
+    "offset": 7219,
+    "text": "perge, excrucia, carnufex, quandoquidem occepisti semel."
+  },
+  {
+    "id": "p-47130d",
+    "offset": 7277,
+    "text": "Evtychvs:"
+  },
+  {
+    "id": "p-ce6431",
+    "offset": 7288,
+    "text": "Charinvs:"
+  },
+  {
+    "id": "p-47130d",
+    "offset": 7299,
+    "text": "Evtychvs:"
+  },
+  {
+    "id": "p-ce6431",
+    "offset": 7310,
+    "text": "Charinvs:"
+  },
+  {
+    "id": "p-47130d",
+    "offset": 7321,
+    "text": "Evtychvs:"
+  },
+  {
+    "id": "p-ce6431",
+    "offset": 7332,
+    "text": "Charinvs:"
+  },
+  {
+    "id": "p-47130d",
+    "offset": 7343,
+    "text": "Evtychvs:"
+  },
+  {
+    "id": "p-18c929",
+    "offset": 7354,
+    "text": "Evtychvs:\nQuid ego feci?"
+  },
+  {
+    "id": "p-6505ba",
+    "offset": 7380,
+    "text": "Charinvs:\nPerdidisti me et fidem mecum tuam."
+  },
+  {
+    "id": "p-046a40",
+    "offset": 7426,
+    "text": "Evtychvs:\nDi sciunt culpam meam istanc non esse ullam."
+  },
+  {
+    "id": "p-49561d",
+    "offset": 7482,
+    "text": "Charinvs:\nEugepae, deos absentis testis memoras: quí ego istuc credam tibi?"
+  },
+  {
+    "id": "p-3f27bd",
+    "offset": 7559,
+    "text": "Evtychvs:\nQuia tibi in manu est quod credas, ego quod dicam, id mi in manust."
+  },
+  {
+    "id": "p-4f9549",
+    "offset": 7638,
+    "text": "Charinvs:\nDe istac ré argutus es, ut par pari respondeas, ad mandata claudus caecus mutus mancus debilis."
+  },
+  {
+    "id": "p-a885fb",
+    "offset": 7745,
+    "text": "promittebas te os sublinere meo patri: egomet credidi homini docto rem mandare, is lapidi mando maximo."
+  },
+  {
+    "id": "p-ecf604",
+    "offset": 7850,
+    "text": "Evtychvs:\nQuid ego facerem?"
+  },
+  {
+    "id": "p-847e8b",
+    "offset": 7879,
+    "text": "Charinvs:\nQuid tu faceres? men rogas? requireres, rogitares quis esset aut unde esset, qua prosapia, civisne esset an peregrinus."
+  },
+  {
+    "id": "p-9e4a26",
+    "offset": 8010,
+    "text": "Evtychvs:\nCivem esse aibant Atticum."
+  },
+  {
+    "id": "p-23e731",
+    "offset": 8048,
+    "text": "Charinvs:\nVbi habitaret invenires saltem, si nomen nequis."
+  },
+  {
+    "id": "p-47130d",
+    "offset": 8108,
+    "text": "Evtychvs:"
+  },
+  {
+    "id": "p-13edda",
+    "offset": 8119,
+    "text": "Nemo aiebat scire."
+  },
+  {
+    "id": "p-1d43e5",
+    "offset": 8139,
+    "text": "Charinvs:\nAt saltem hóminis faciem exquireres."
+  },
+  {
+    "id": "p-78bb66",
+    "offset": 8187,
+    "text": "Evtychvs:\nFeci."
+  },
+  {
+    "id": "p-bf71c8",
+    "offset": 8204,
+    "text": "Charinvs:\nQua forma esse aiebant igitur?"
+  },
+  {
+    "id": "p-e59816",
+    "offset": 8246,
+    "text": "Evtychvs:\nEgo dicam tibi:"
+  },
+  {
+    "id": "p-b3b0c2",
+    "offset": 8273,
+    "text": "canum, varum, ventriosum, bucculentum, breviculum, subnigris oculis, oblongis malis, pansam aliquantulum."
+  },
+  {
+    "id": "p-aeb13a",
+    "offset": 8380,
+    "text": "Charinvs:\nNon hominem mihi, sed thensaurum nescio quem memoras mali."
+  },
+  {
+    "id": "p-f58fe3",
+    "offset": 8450,
+    "text": "numquid est quod dicas aliud de illo?"
+  },
+  {
+    "id": "p-d815f0",
+    "offset": 8489,
+    "text": "Evtychvs:\nTantum, quod sciam."
+  },
+  {
+    "id": "p-56111f",
+    "offset": 8520,
+    "text": "Charinvs:\nEdepol ne ille oblongis malis mihi dedit magnum malum."
+  },
+  {
+    "id": "p-ae3f31",
+    "offset": 8586,
+    "text": "non possum durare, certumst exulatum hinc ire me."
+  },
+  {
+    "id": "p-66a803",
+    "offset": 8637,
+    "text": "sed quam capiam civitatem, cogito, potissimum:"
+  },
+  {
+    "id": "p-ad7fb1",
+    "offset": 8685,
+    "text": "Megares, Eretriam, Corinthum, Chalcidem, Cretam, Cyprum,"
+  },
+  {
+    "id": "p-9c7d38",
+    "offset": 8743,
+    "text": "Sicyonem, Cnidum, Zacynthum, Lesbiam, Boeotiam."
+  },
+  {
+    "id": "p-010f75",
+    "offset": 8792,
+    "text": "Evtychvs:\nCur istuc coeptas consilium?"
+  },
+  {
+    "id": "p-087bba",
+    "offset": 8832,
+    "text": "Charinvs:\nQuia enim me adflictat amor."
+  },
+  {
+    "id": "p-3a6187",
+    "offset": 8872,
+    "text": "Evtychvs:\nQuid tu ais? quid cum illuc, quo nunc ire paritas, veneris, sí ibi amare forte occipias atque item eius sit inopia, iam inde porro aufugies, deinde item illinc, sí item evenerit?"
+  },
+  {
+    "id": "p-7a386c",
+    "offset": 9062,
+    "text": "quis modus tibi exílio tandem eveniet, qui finis fugae?"
+  },
+  {
+    "id": "p-b22891",
+    "offset": 9119,
+    "text": "quae patria aut domus tibi stabilis esse poterit? dic mihi."
+  },
+  {
+    "id": "p-91b17f",
+    "offset": 9180,
+    "text": "cedo, si hac urbe abis, amorem te hic relicturum putas?"
+  },
+  {
+    "id": "p-d48601",
+    "offset": 9237,
+    "text": "si id fore ita sat animo acceptum est, certum id, pro certo si habes, quanto te satiust rus aliquo abire, ibi esse, ibi vivere adeo dum illius te cupiditas atque amor missum facit?"
+  },
+  {
+    "id": "p-76c5cf",
+    "offset": 9419,
+    "text": "Charinvs:\nIam dixisti?"
+  },
+  {
+    "id": "p-37d089",
+    "offset": 9443,
+    "text": "Evtychvs:\nDixi."
+  },
+  {
+    "id": "p-94a812",
+    "offset": 9460,
+    "text": "Charinvs:\nFrustra dixti. hoc mihi certissumumst."
+  },
+  {
+    "id": "p-a50fc3",
+    "offset": 9510,
+    "text": "eo domum, patrem atque matrem ut meos salutem, postea clam patrem patria hac effugiam, aut aliquid capiam consili.—"
+  },
+  {
+    "id": "p-1f7753",
+    "offset": 9627,
+    "text": "Evtychvs:\nVt corripuit se repente atque abiit. heu misero mihi, si ille abierit, mea factum omnes dicent esse ignavia."
+  },
+  {
+    "id": "p-950d23",
+    "offset": 9747,
+    "text": "certumst praeconum iubere iam quantum est conducier, qui illam investigent, qui inveniant. post ad praetorem ilico ibo, orabo, ut conquaestores det mi in vicis omnibus;"
+  },
+  {
+    "id": "p-1dbba6",
+    "offset": 9917,
+    "text": "nam mihi nil relicti quicquam áliud iam esse intellego.—"
+  }
+]

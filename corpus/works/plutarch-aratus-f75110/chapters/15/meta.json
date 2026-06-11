@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-aratus-f75110",
+  "work_title": "Aratus",
+  "chapter_number": 15,
+  "chapter_title": "Chapter 15",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4cabd589-f6cc-5b4d-bfde-77be89bad725",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 178,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg063.perseus-grc2:15"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5c9eb93e-e306-55bd-8afd-a1a08bdac584",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 271,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg063.perseus-eng2:15"
+    }
+  ]
+}

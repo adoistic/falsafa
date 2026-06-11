@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-comparison-of-dion-and-brutus-7f9097",
+  "work_title": "Comparison of Dion and Brutus",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3c21aa4d-c726-5cf7-b51b-05d3825af983",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 188,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg062.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cf180a96-19ac-54e9-861b-6083c4d58907",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 271,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg062.perseus-eng2:1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-acts-895886",
+  "work_title": "Acts",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "56f21d1d-b85d-5e8f-9f2b-c9b2a6229b60",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 685,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3504e719-d14a-5fe1-85c4-1d28a52b1866",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 840,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:4"
+    }
+  ]
+}

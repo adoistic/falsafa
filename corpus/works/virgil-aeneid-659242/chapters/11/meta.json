@@ -1,0 +1,38 @@
+{
+  "work_slug": "virgil-aeneid-659242",
+  "work_title": "Aeneid",
+  "chapter_number": 11,
+  "chapter_title": "Book 11",
+  "chapter_slug": "11",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "27e8fcce-84b0-54ea-8ca2-72e286d2cef7",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5898,
+      "paragraph_count": 347,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi003.perseus-lat2:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ceb8a8b-2e95-55b1-9504-740320632fb0",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9206,
+      "paragraph_count": 257,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi003.perseus-eng2:11"
+    }
+  ]
+}

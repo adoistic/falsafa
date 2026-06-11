@@ -1,0 +1,38 @@
+{
+  "work_slug": "polycarp-epistula-ad-philippenses-d8f567",
+  "work_title": "Epistula ad Philippenses",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a9cc369f-1448-512b-b72d-63eb71505149",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 88,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1622.tlg001.1st1K-grc1:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dea963a8-17a5-5aae-bab8-067471872138",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 107,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1622.tlg001.perseus-eng1:9"
+    }
+  ]
+}

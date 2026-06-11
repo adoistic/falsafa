@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-against-philocrates-a42769",
+  "work_title": "Against Philocrates",
+  "chapter_number": 1,
+  "chapter_title": "Against Philocrates",
+  "chapter_slug": "01-against-philocrates",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "655e0ae8-aeab-5b6f-aa5b-bb652d975270",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 661,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg029.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cc6ac735-eb90-5c81-a56d-8859f33baee0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 995,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg029.perseus-eng2"
+    }
+  ]
+}

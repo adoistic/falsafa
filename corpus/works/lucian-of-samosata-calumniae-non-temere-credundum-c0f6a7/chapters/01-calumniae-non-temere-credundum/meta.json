@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-calumniae-non-temere-credundum-c0f6a7",
+  "work_title": "Calumniae non temere credundum",
+  "chapter_number": 1,
+  "chapter_title": "Calumniae non temere credundum",
+  "chapter_slug": "01-calumniae-non-temere-credundum",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9410177c-48ac-5241-a1e0-01bd7a972bb9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3142,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg013.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e4a6cb3a-9349-550d-8060-c44d59c386a6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3635,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg013.perseus-eng4"
+    }
+  ]
+}

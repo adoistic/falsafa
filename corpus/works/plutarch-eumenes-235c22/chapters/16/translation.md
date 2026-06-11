@@ -1,0 +1,31 @@
+---
+work_id: "235c2281-6859-5644-9b8f-10939087fb46"
+work_slug: "plutarch-eumenes-235c22"
+work_title: Eumenes
+author_name: Plutarch
+chapter_number: 16
+chapter_title: Chapter 16
+chapter_slug: 16
+variant_id: "30418088-36a6-5eda-9169-10e178df3771"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 513
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg041.perseus-eng2:16"
+translator: Bernadotte Perrin
+---
+
+But meanwhile most of the forces with Eumenes had assembled, and, admiring his sagacity, demanded that he should be sole commander. At this, Antigenes and Teutamus, the leaders of the Silver-shields, were filled with vexation and jealousy, so that they plotted against the life of Eumenes, and, assembling most of the satraps and generals, deliberated when and how they might put him out of the way.
+
+They were unanimous in the decision to make every use of him in the ensuing battle, and after the battle to kill him at once. But Eudamus, the master of the elephants, and Phaedimus, secretly brought word to Eumenes of this decision; not that they were moved by any goodwill or kindness, but because they were anxious not to lose the money they had lent him. These men Eumenes commended, and then went off to his tent, where he said to his friends that he was living in a great herd of wild beasts. Then he made his will, and tore up and destroyed his papers; he did not wish that after his death, in consequence of the secrets contained in these documents, accusations and calumnies should be brought against his correspondents.
+
+After this business had been finished, he deliberated whether to give over the victory to the enemy, or to take flight through Media and Armenia and invade Cappadocia. He came to no decision while his friends were with him, but after considering many expedients with a mind which was as versatile as his fortunes were changeable, he proceeded to draw up his forces, urging on the Greeks and the Barbarians, and himself exhorted by the phalanx and the Silver-shields to be of good courage, since, as they felt sure, the enemy would not withstand their attack.
+
+And indeed they were the oldest soldiers of Philip and Alexander, war’s athletes as it were, without a defeat or a fall up to that time, many of them now seventy years old, and not a man younger than sixty. And so, when they charged upon the forces of Antigonus, they shouted: It is against your fathers that ye sin, ye miscreants; and falling upon them in a rage they crushed their whole phalanx at once, not a man withstanding them, and most of their opponents being cut to pieces at close quarters.
+
+At this point, then, Antigonus was defeated overwhelmingly, but with his cavalry he got the upper hand; for Peucestas fought in a way that was altogether lax and ignoble, and Antigonus captured all the baggage. He was a man who kept cool in the presence of danger, and he was aided by the ground.
+
+For the plain were they fought was vast, and its soil was neither deep nor trodden hard, but sandy and full of a dry and saline substance, which, loosened up by the trampling of so many horses and men during the battle, issued forth in a dust like lime, and this made the air all white and obscured the vision. Therefore it was easy for Antigonus to capture the enemy’s baggage unobserved.

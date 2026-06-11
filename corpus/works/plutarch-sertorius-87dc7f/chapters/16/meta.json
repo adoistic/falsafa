@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-sertorius-87dc7f",
+  "work_title": "Sertorius",
+  "chapter_number": 16,
+  "chapter_title": "Chapter 16",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c719fe81-9502-501c-b583-80d78586a883",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 260,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg042.perseus-grc2:16"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2d6aac4b-2fa6-59d4-a183-860f2fada11f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 439,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg042.perseus-eng2:16"
+    }
+  ]
+}

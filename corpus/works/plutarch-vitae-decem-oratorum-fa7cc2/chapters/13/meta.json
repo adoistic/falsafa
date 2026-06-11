@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-vitae-decem-oratorum-fa7cc2",
+  "work_title": "Vitae decem oratorum",
+  "chapter_number": 13,
+  "chapter_title": "Chapter 13",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2577be5f-b3a2-5ceb-850d-ed810b726f49",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 411,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg121.perseus-grc2:13"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e0ab2dd8-ed4a-57ff-ac32-b75b1f97e273",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 554,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg121.perseus-eng4:13"
+    }
+  ]
+}

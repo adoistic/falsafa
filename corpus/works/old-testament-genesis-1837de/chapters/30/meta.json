@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-genesis-1837de",
+  "work_title": "Genesis",
+  "chapter_number": 30,
+  "chapter_title": "Chapter 30",
+  "chapter_slug": "30",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3687e5ad-2052-5ee0-89d9-15fce9640984",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 910,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:30"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "34ac9452-c814-527e-9ee5-8e72ee1511d3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 939,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg001.perseus-eng2:30"
+    }
+  ]
+}

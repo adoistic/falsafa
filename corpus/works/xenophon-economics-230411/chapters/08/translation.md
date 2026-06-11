@@ -1,0 +1,69 @@
+---
+work_id: "230411ed-5d3a-593b-b0af-c4315852c2e9"
+work_slug: "xenophon-economics-230411"
+work_title: Economics
+author_name: Xenophon
+chapter_number: 8
+chapter_title: Chapter 8
+chapter_slug: 08
+variant_id: "64e51814-917e-5ed8-80bc-45be31ba78b6"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 1483
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg003.perseus-eng2:8"
+translator: Perseus Digital Library
+---
+
+And did you find, Ischomachus, that they acted as a stimulus to her diligence?
+
+I asked. Yes, indeed, answered Ischomachus, and I recollect that she was vexed and blushed crimson, because she could not give me something from the stores when I asked for it.
+
+And seeing that she was annoyed, I said: Don’t worry, dear, because you cannot give me what I am asking for. For not to be able to use a thing when you want it is poverty unquestionably; but a failure to get the thing that you seek is less grievous than not to seek it at all because you know that it does not exist. The fact is, you are not to blame for this, but I, because I handed over the things to you without giving directions where they were to be put, so that you might know where to put them and where to find them.
+
+My dear, there is nothing so convenient or so good for human beings as order. Thus, a chorus is a combination of human beings; but when the members of it do as they choose, it becomes mere confusion, and there is no pleasure in watching it; but when they act and chant in an orderly fashion, then those same men at once seem worth seeing and worth hearing.
+
+Again, my dear, an army in disorder is a confused mass, an easy prey to enemies, a disgusting sight to friends and utterly useless,—donkey, trooper, carrier, light-armed, horseman, chariot, huddled together. For how are they to march in such a plight, when they hamper one another, some walking while others run, some running while others halt, chariot colliding with horseman, donkey with chariot, carrier with trooper?
+
+If there is fighting to be done, how can they fight in such a state? For the units that must needs run away when attacked are enough to trample underfoot the heavy infantry.
+
+But an army in orderly array is a noble sight to friends, and an unwelcome spectacle to the enemy. What friend would not rejoice as he watches a strong body of troopers marching in order, would not admire cavalry riding in squadrons? And what enemy would not fear troopers, horsemen, light-armed, archers, slingers disposed in serried ranks and following their officers in orderly fashion?
+
+Nay, even on the march where order is kept, though they number tens of thousands, all move steadily forward as one man; for the line behind is continually filling up the gap.
+
+Or, again, why is a man-of-war laden with men terrible to an enemy and a goodly sight to friends, if not for its speed? Why do the men on board not hamper one another? Is it not just because they are seated in order, swing forward and backward in order, embark and disembark in order?
+
+If I want a type of disorder, I think of a farmer who has stored barley, wheat and pulse in one bin; and then when he wants a bannock or a loaf or a pudding, must pick out the grain instead of finding it separate and ready for use.
+
+And so, my dear, if you do not want this confusion, and wish to know exactly how to manage our goods, and to find with ease whatever is wanted, and to satisfy me by giving me anything I ask for, let us choose the place that each portion should occupy; and, having put the things in their place, let us instruct the maid to take them from it and put them back again. Thus we shall know what is safe and sound and what is not; for the place itself will miss whatever is not in it, and a glance will reveal anything that wants attention, and the knowledge where each thing is will quickly bring it to hand, so that we can use it without trouble.
+
+Once I had an opportunity of looking over the great Phoenician merchantman, Socrates, and I thought I had never seen tackle so excellently and accurately arranged. For I never saw so many bits of stuff packed away separately in so small a receptacle.
+
+As you know, a ship needs a great quantity of wooden and corded implements when she comes into port or puts to sea, much rigging, as it is called, when she sails, many contrivances to protect her against enemy vessels; she carries a large supply of arms for the men, and contains a set of household utensils for each mess. In addition to all this, she is laden with cargo which the skipper carries for profit.
+
+And all the things I mention were contained in a chamber of little more than a hundred square cubits. And I noticed that each kind of thing was so neatly stowed away that there was no confusion, no work for a searcher, nothing out of place, no troublesome untying to cause delay when anything was wanted for immediate use.
+
+I found that the steersman’s servant, who is called the mate, knows each particular section so exactly, that he can tell even when away where everything is kept and how much there is of it, just as well as a man who knows how to spell can tell how many letters there are in Socrates and in what order they come.
+
+Now I saw this man in his spare time inspecting all the stores that are wanted, as a matter of course, in the ship. I was surprised to see him looking over them, and asked what he was doing. Sir, he answered, I am looking to see how the ship’s tackle is stored, in case of accident, or whether anything is missing or mixed up with other stuff.
+
+For when God sends a storm at sea, there’s no time to search about for what you want or to serve it out if it’s in a muddle. For God threatens and punishes careless fellows, and you’re lucky if he merely refrains from destroying the innocent; and if he saves you when you do your work well, you have much cause to thank heaven.
+
+Now after seeing the ship’s tackle in such perfect order, I told my wife: Considering that folk aboard a merchant vessel, even though it be a little one, find room for things and keep order, though tossed violently to and fro, and find what they want to get, though terror-stricken, it would be downright carelessness on our part if we, who have large storerooms in our house to keep everything separate and whose house rests on solid ground, fail to find a good and handy place for everything. Would it not be sheer stupidity on our part?
+
+How good it is to keep one’s stock of utensils in order, and how easy to find a suitable place in a house to put each set in, I have already said.
+
+And what a beautiful sight is afforded by boots of all sorts and conditions ranged in rows! How beautiful it is to see cloaks of all sorts and conditions kept separate, or blankets, or brazen vessels, or table furniture! Yes, no serious man will smile when I claim that there is beauty in the order even of pots and pans set out in neat array, however much it may move the laughter of a wit.
+
+There is nothing, in short, that does not gain in beauty when set out in order. For each set looks like a troop of utensils, and the space between the sets is beautiful to see, when each set is kept clear of it, just as a troop of dancers about the altar is a beautiful spectacle in itself, and even the free space looks beautiful and unencumbered.
+
+We can test the truth of what I say, dear, without any inconvenience and with very little trouble. Moreover, my dear, there is no ground for any misgiving that it is hard to find someone who will get to know the various places and remember to put each set in its proper place.
+
+For we know, I take it, that the city as a whole has ten thousand times as much of everything as we have; and yet you may order any sort of servant to buy something in the market and to bring it home, and he will be at no loss: every one of them is bound to know where he should go to get each article. Now the only reason for this is that everything is kept in a fixed place.
+
+But when you are searching for a person, you often fail to find him, though he may be searching for you himself. And for this again the one reason is that no place of meeting has been fixed.
+
+Such is the gist of the conversation I think I remember having with her about the arrangement of utensils and their use.

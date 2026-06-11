@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-i-kings-d39927",
+  "work_title": "I Kings",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b46b450c-d919-5906-81ca-01bc2d59f86b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1348,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg013.1st1K-grc1:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "48a5cdae-7f94-59eb-a5fb-0ed48e9fc353",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1441,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg013.perseus-eng2:1"
+    }
+  ]
+}

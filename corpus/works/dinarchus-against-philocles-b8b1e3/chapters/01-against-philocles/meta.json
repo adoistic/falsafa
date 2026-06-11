@@ -1,0 +1,38 @@
+{
+  "work_slug": "dinarchus-against-philocles-b8b1e3",
+  "work_title": "Against Philocles",
+  "chapter_number": 1,
+  "chapter_title": "Against Philocles",
+  "chapter_slug": "01-against-philocles",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "27942527-b535-52bb-9309-95a007b0a3a4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1379,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0029.tlg006.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b57c2f59-aa8a-543c-a89d-887acd7f4d56",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1848,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0029.tlg006.perseus-eng2"
+    }
+  ]
+}

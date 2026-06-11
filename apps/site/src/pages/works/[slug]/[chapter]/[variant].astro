@@ -1,6 +1,7 @@
 ---
 import type { GetStaticPaths } from "astro";
 import Reader from "../../../../layouts/Reader.astro";
+import { works as atlasWorks } from "../../../../lib/atlas/data.ts";
 import VariantSwitcher from "../../../../components/VariantSwitcher.astro";
 import ChapterBody from "../../../../components/ChapterBody.astro";
 import {
@@ -38,6 +39,16 @@ const work = works().find((w) => w.slug === workSlug)!;
 const idx = readWorkIndex(workSlug);
 const chapters = listChapters(workSlug);
 const chapterIndex = chapters.findIndex((c) => c.chapter_slug === chapterSlug);
+// Link neighbors at the same variant when they have it; otherwise fall back
+// to the neighbor's default variant (some chapters lack a translation).
+function neighborHref(c: (typeof chapters)[number] | null): string | null {
+  if (!c) return null;
+  const types = c.variants.map((v) => v.content_type);
+  const fallback =
+    c.variants.find((v) => v.file === c.default_variant)?.content_type ?? types[0];
+  const target = types.includes(variantType as ContentType) ? variantType : fallback;
+  return `/works/${workSlug}/${c.chapter_slug}/${target}/`;
+}
 const prev = chapterIndex > 0 ? chapters[chapterIndex - 1] : null;
 const next = chapterIndex < chapters.length - 1 ? chapters[chapterIndex + 1] : null;
 // Single-chapter works (e.g. Cynewulf's Andreas/Elene/Juliana, the Comte
@@ -48,12 +59,20 @@ const next = chapterIndex < chapters.length - 1 ? chapters[chapterIndex + 1] : n
 const isSingleChapter = chapters.length === 1;
 
 function bylineFor(v: ChapterVariantContent) {
-  if (v.frontmatter.translator) return { verb: "Translated by", who: "Thothica" };
-  if (v.frontmatter.transliterator) return { verb: "Transliterated by", who: "Thothica" };
-  if (v.frontmatter.curator) return { verb: "Curated by", who: "Thothica" };
+  const credit = (verb: string, raw: unknown) => {
+    const name = String(raw);
+    const isThothica = name.toLowerCase() === "thothica";
+    return { verb, who: isThothica ? "Thothica" : name, linked: isThothica };
+  };
+  if (v.frontmatter.translator) return credit("Translated by", v.frontmatter.translator);
+  if (v.frontmatter.transliterator) return credit("Transliterated by", v.frontmatter.transliterator);
+  if (v.frontmatter.curator) return credit("Curated by", v.frontmatter.curator);
   return null;
 }
 const byline = bylineFor(variant);
+// Atlas reconciliation: single-chapter works redirect straight here, so the
+// journey link must live on the reader page as well.
+const atlasEntry = atlasWorks.find((aw) => aw.read_slug === workSlug) ?? null;
 
 /**
  * Some source titles are entirely uppercase ("INTRODUCTION", "CHAPTER I").
@@ -112,9 +131,16 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
     {byline && (
       <p class="byline">
         {byline.verb}{" "}
-        <a href="https://thothica.com" rel="noopener">
-          {byline.who}
-        </a>
+        {byline.linked ? (
+          <a href="https://thothica.com" rel="noopener">{byline.who}</a>
+        ) : (
+          <span>{byline.who}</span>
+        )}
+      </p>
+    )}
+    {atlasEntry && (
+      <p class="atlas-journey">
+        <a href={`/atlas/works/${atlasEntry.id}/`}>Trace this book's journey in the atlas &rarr;</a>
       </p>
     )}
     <VariantSwitcher meta={variant.meta} workSlug={work.slug} current={variantType as ContentType} />
@@ -131,7 +157,7 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
   {!isSingleChapter && (
     <footer class="reader-footer">
       {prev ? (
-        <a class="nav-link" href={`/works/${work.slug}/${prev.chapter_slug}/${variant.variant.content_type}/`}>
+        <a class="nav-link" href={neighborHref(prev)!}>
           ← Previous
           <strong>{prev.chapter_title}</strong>
         </a>
@@ -143,7 +169,7 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
       </a>
 
       {next ? (
-        <a class="nav-link" href={`/works/${work.slug}/${next.chapter_slug}/${variant.variant.content_type}/`} style="text-align: right">
+        <a class="nav-link" href={neighborHref(next)!} style="text-align: right">
           Next →
           <strong>{next.chapter_title}</strong>
         </a>

@@ -1,0 +1,38 @@
+{
+  "work_slug": "clemens-romanus-clement--the-first-epistle-of-clement-to--e75139",
+  "work_title": "The First Epistle of Clement to the Corinthians",
+  "chapter_number": 22,
+  "chapter_title": "Chapter 22",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "26ae065f-60bd-5ab6-a0c8-c5c791ee8214",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 112,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1271.tlg001.1st1K-grc1:22"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c3281b5-288d-5925-9aa4-4ac10bdf64f8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 145,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1271.tlg001.perseus-eng1:22"
+    }
+  ]
+}

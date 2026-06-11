@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-publicola-0b0e18",
+  "work_title": "Publicola",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a40cd45b-5213-5d6d-9c4b-8c46c15e82d9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 380,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg008.perseus-grc2:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ffb203fc-ce50-5b88-a353-17ecaaad5b19",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 536,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg008.perseus-eng2:9"
+    }
+  ]
+}

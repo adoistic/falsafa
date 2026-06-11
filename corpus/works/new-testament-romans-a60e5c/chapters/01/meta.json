@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-romans-a60e5c",
+  "work_title": "Romans",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8692ab16-4470-5d33-a7c0-c7d50bfd9b3a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 543,
+      "paragraph_count": 90,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg006.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "60690195-58c2-568d-9f3b-e3dcfe188bf4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 707,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg006.perseus-eng2:1"
+    }
+  ]
+}

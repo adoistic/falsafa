@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-i-samuel-eefceb",
+  "work_title": "I Samuel",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "70a50ed3-e9f5-50ea-a197-f7a01c64ed1a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 730,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg011.1st1K-grc1:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7a5f3bbe-70b8-5d1b-a78c-c45592ff21df",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 727,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg011.perseus-eng2:1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ii-chronicles-6396b0",
+  "work_title": "II Chronicles",
+  "chapter_number": 15,
+  "chapter_title": "Chapter 15",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c1a2c815-2ccd-5588-b98f-ae92a8705684",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 382,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1:15"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9837b900-5c1f-5826-a5b1-6077db8343c7",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 505,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg016.perseus-eng2:15"
+    }
+  ]
+}

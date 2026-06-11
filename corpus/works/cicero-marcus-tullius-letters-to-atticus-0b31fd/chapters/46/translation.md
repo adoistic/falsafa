@@ -1,0 +1,25 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 46
+chapter_title: "Chapter text=A:book=3:letter=3"
+chapter_slug: 46
+variant_id: "536f86e5-99e0-5d14-b946-23059437773a"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 516
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:46"
+translator: Perseus Digital Library
+---
+
+We have no record in Cicero's correspondence of the final measures taken by Clodius against him. We find him when the correspondence for this year opens on his way to exile: all his boasts of staying and fighting have been thrown to the winds. Clodius, indeed, had not simply done what Cicero expected at the worst—impeached him. He had gone more systematically to work. Among other measures calculated to win popularity, he proposed a modification of the lex Aelia Fufia, declaring it illegal for a magistrate to stop legislative comitia by "watching the sky." Thus freed from one hindrance, he next proposed and carried a law for the prosecution of any magistrate who had put a citizen to death without trial (qui indemnatos cives necavisset). Cicero at once recognized his danger: if the people voted this law, a jury could scarcely fail to condemn. The triumvirs would do nothing. Pompey, after all his promises, avoided seeing Cicero as much as possible: Caesar offered him a legatio again; and though he spoke against giving the law a retrospective effect, he could not consistently object to the law itself, and showed no sign of desiring to shelter Cicero, except on his consenting to leave Rome. Cicero then adopted the course which was open to all citizens threatened with a prosecution—that of going away from Rome—and started apparently with the view of going to Malta. Whether it was wise or not, Cicero afterwards lamented having taken this course, and thought that he had better have braved the danger and stood his trial. It at any rate facilitated the next move of Clodius, who proposed and carried a bill forbidding Cicero "fire and water " within 500 (afterwards reduced to 400) miles of Italy, and confiscating his property. Accordingly, Cicero had to go much farther than he had intended. He crossed from Brundisium to Dyrrachium, and proceeded along the via Egnatia to its terminus at Thessalonica, where he spent the autumn, B.C. 58. In November, B.C. 58, he returned to Dyrrachium, ready for the recall which he heard was imminent. Meanwhile his town house was destroyed, its site made a templum, and a statue of Liberty set up in it, and his villas at Tusculum and Antium dismantled. The dangers of his position are not exaggerated in his letters, and may account for much of their melancholy tone. He had lost the protection of the laws, and any one of his many enemies meeting him might have killed him with practical impunity. He seems to have left Rome in April.
+
+TO ATTICUS (AT ROME) Vibo, APRIL
+
+I hope I may see the day when I shall thank you for having Compelled me to remain alive! At present I thoroughly repent it. But I beg you to come and see me at Vibo at once, to which town I have for several reasons directed my journey. But if you will only come there, I shall be able to consult you about my entire journey and exile. If you don't do so, I shall be surprised, but I feel sure you will.

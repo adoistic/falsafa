@@ -1,0 +1,38 @@
+{
+  "work_slug": "sophocles-electra-b089ca",
+  "work_title": "Electra",
+  "chapter_number": 1,
+  "chapter_title": "Electra",
+  "chapter_slug": "01-electra",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "90d419ba-5c4a-51e1-9c48-ca442a0f7985",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9120,
+      "paragraph_count": 1485,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc422514-a6e0-5c3d-a65f-8127e428ead0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 13734,
+      "paragraph_count": 616,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2"
+    }
+  ]
+}

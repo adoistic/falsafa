@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 78,
+  "chapter_title": "Chapter 78",
+  "chapter_slug": "78",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b9cc2c91-0330-505c-b0ba-6fac61d91ac4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 310,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:78"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8328584-b499-5e27-a75c-ea4c79860d4e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1167,
+      "paragraph_count": 72,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:78"
+    }
+  ]
+}

@@ -1,0 +1,977 @@
+[
+  {
+    "id": "p-3b512e",
+    "offset": 0,
+    "text": "Chrysalvs:\nErilis patria, salve, quam ego biennio, postquam hinc in Ephesum abii, conspicio lubens."
+  },
+  {
+    "id": "p-0473cd",
+    "offset": 101,
+    "text": "saluto te, vicine Apollo, qui aedibus propinquos nostris accolis, veneroque te, ne Nicobulum me sinas nostrum senem prius cónvenire quam sodalem viderim"
+  },
+  {
+    "id": "p-4b99c5",
+    "offset": 255,
+    "text": "Mnesilochi Pistoclerum, quem ad epistulam"
+  },
+  {
+    "id": "p-8e1bbd",
+    "offset": 298,
+    "text": "Mnesilochus misit super amica Bacchide."
+  },
+  {
+    "id": "p-ba7d5f",
+    "offset": 339,
+    "text": "Pistoclervs:\nMirumst me ut redeam te opere tanto quaesere, qui abire hinc nullo pacto possim, si velim:"
+  },
+  {
+    "id": "p-783fc0",
+    "offset": 444,
+    "text": "ita me vadatum amore vinctumque adtines."
+  },
+  {
+    "id": "p-fe3687",
+    "offset": 486,
+    "text": "Chrysalvs:\nPro di immortales, Pistoclerum conspicor."
+  },
+  {
+    "id": "p-ccfaf3",
+    "offset": 540,
+    "text": "o Pistoclere, salve."
+  },
+  {
+    "id": "p-22ccb6",
+    "offset": 562,
+    "text": "Pistoclervs:\nSalve, Chrysale."
+  },
+  {
+    "id": "p-9ab780",
+    "offset": 593,
+    "text": "Chrysalvs:\nCompendi verba multa iam faciam tibi."
+  },
+  {
+    "id": "p-1b6064",
+    "offset": 643,
+    "text": "venire tu me gaudes: ego credo tibi;"
+  },
+  {
+    "id": "p-57b21b",
+    "offset": 681,
+    "text": "hospitium et cenam pollicere, ut convenit peregre advenienti: ego autem venturum adnuo."
+  },
+  {
+    "id": "p-3e8a1c",
+    "offset": 770,
+    "text": "salutem tibi ab sodáli solidam nuntio:"
+  },
+  {
+    "id": "p-45a52a",
+    "offset": 810,
+    "text": "rogabis me úbi sit: vivit."
+  },
+  {
+    "id": "p-5c104d",
+    "offset": 838,
+    "text": "Pistoclervs:\nNempe recté valet?"
+  },
+  {
+    "id": "p-fcae34",
+    "offset": 871,
+    "text": "Chrysalvs:\nIstuc volebam ego ex te percontarier."
+  },
+  {
+    "id": "p-d1762d",
+    "offset": 921,
+    "text": "Pistoclervs:\nQui scire possum?"
+  },
+  {
+    "id": "p-0d5912",
+    "offset": 953,
+    "text": "Chrysalvs:\nNullus plus."
+  },
+  {
+    "id": "p-d801f9",
+    "offset": 978,
+    "text": "Pistoclervs:\nQuemnam ad modum?"
+  },
+  {
+    "id": "p-6e5be3",
+    "offset": 1010,
+    "text": "Chrysalvs:\nQuia si illa inventa est, quam ille amat, recte valet;"
+  },
+  {
+    "id": "p-152152",
+    "offset": 1077,
+    "text": "si non inventa est, minus valet moribundusque est."
+  },
+  {
+    "id": "p-ddb58d",
+    "offset": 1129,
+    "text": "animast amica amanti: sí abest, nullus est;"
+  },
+  {
+    "id": "p-3a5be4",
+    "offset": 1174,
+    "text": "si adest, res nullast: ipsus est—nequam et miser."
+  },
+  {
+    "id": "p-b37b18",
+    "offset": 1225,
+    "text": "sed tu quid factitasti mandatis super?"
+  },
+  {
+    "id": "p-66775b",
+    "offset": 1265,
+    "text": "Pistoclervs:\nEgon ut, quod ab illoc attigisset nuntius, non impetratum id advenienti ei redderem?"
+  },
+  {
+    "id": "p-361f0a",
+    "offset": 1364,
+    "text": "regiones colere mavellem Acherunticas."
+  },
+  {
+    "id": "p-02549e",
+    "offset": 1404,
+    "text": "Chrysalvs:\nEho, an ínvenisti Bacchidem?"
+  },
+  {
+    "id": "p-b49b9f",
+    "offset": 1445,
+    "text": "Pistoclervs:\nSamiam quidem."
+  },
+  {
+    "id": "p-62a81d",
+    "offset": 1474,
+    "text": "Chrysalvs:\nVide quaeso, ne quis tractet illam indiligens;"
+  },
+  {
+    "id": "p-d9ad39",
+    "offset": 1533,
+    "text": "scis tu ut confringi vas cito Samium solet."
+  },
+  {
+    "id": "p-68ed60",
+    "offset": 1578,
+    "text": "Pistoclervs:"
+  },
+  {
+    "id": "p-18747e",
+    "offset": 1592,
+    "text": "Iamne ut soles?"
+  },
+  {
+    "id": "p-30fe84",
+    "offset": 1609,
+    "text": "Chrysalvs:\nDic ubi ea nunc est, obsecro."
+  },
+  {
+    "id": "p-b59b00",
+    "offset": 1651,
+    "text": "Pistoclervs:\nHic, exeuntem me unde aspexisti modo."
+  },
+  {
+    "id": "p-1139d7",
+    "offset": 1703,
+    "text": "Chrysalvs:\nVt istúc est lepidum: proximae viciniae habitat. ecquidnam meminit Mnesilochi?"
+  },
+  {
+    "id": "p-eb3ab8",
+    "offset": 1794,
+    "text": "Pistoclervs:\nRogas?"
+  },
+  {
+    "id": "p-ca2af7",
+    "offset": 1815,
+    "text": "immo unice unum plurimi pendit."
+  },
+  {
+    "id": "p-56e012",
+    "offset": 1848,
+    "text": "Chrysalvs:\nPapae."
+  },
+  {
+    "id": "p-68ed60",
+    "offset": 1867,
+    "text": "Pistoclervs:"
+  },
+  {
+    "id": "p-a7c997",
+    "offset": 1881,
+    "text": "Immo ut eam credis? misera amans desiderat."
+  },
+  {
+    "id": "p-cc5102",
+    "offset": 1926,
+    "text": "Chrysalvs:\nScitum istuc."
+  },
+  {
+    "id": "p-45ac15",
+    "offset": 1952,
+    "text": "Pistoclervs:\nImmo, Chrysale, em non tantulum umquam intermittit tempus quin eum nominet."
+  },
+  {
+    "id": "p-b16672",
+    "offset": 2042,
+    "text": "Chrysalvs:\nTanto hercle melior."
+  },
+  {
+    "id": "p-ad861a",
+    "offset": 2075,
+    "text": "Pistoclervs:\nImmo—"
+  },
+  {
+    "id": "p-3d832b",
+    "offset": 2095,
+    "text": "Chrysalvs:\nImmo hercle abiero potius."
+  },
+  {
+    "id": "p-35a1a1",
+    "offset": 2134,
+    "text": "Pistoclervs:\nNum invitus rem bene gestam audis eri?"
+  },
+  {
+    "id": "p-4621e0",
+    "offset": 2187,
+    "text": "Chrysalvs:"
+  },
+  {
+    "id": "p-cc4aba",
+    "offset": 2199,
+    "text": "Non res, sed actor mihi cor odio sauciat."
+  },
+  {
+    "id": "p-2e0554",
+    "offset": 2242,
+    "text": "etiam Epidicum, quam ego fabulam aeque ac me ipsum amo, nullam aeque invitus specto, sí agit Pellio."
+  },
+  {
+    "id": "p-40dc9c",
+    "offset": 2344,
+    "text": "sed Bacchis etiam fortis tibi visast?"
+  },
+  {
+    "id": "p-eb3ab8",
+    "offset": 2383,
+    "text": "Pistoclervs:\nRogas?"
+  },
+  {
+    "id": "p-9bdbeb",
+    "offset": 2404,
+    "text": "ni nanctus Venerem essem, hanc Iunonem dicerem."
+  },
+  {
+    "id": "p-4621e0",
+    "offset": 2453,
+    "text": "Chrysalvs:"
+  },
+  {
+    "id": "p-e95f52",
+    "offset": 2465,
+    "text": "Edepol, Mnesiloche, ut hanc rem natam intellego, quod ames paratumst: quod des inventost opus."
+  },
+  {
+    "id": "p-dbaf79",
+    "offset": 2561,
+    "text": "nam istic fortasse auro est opust."
+  },
+  {
+    "id": "p-7da4e4",
+    "offset": 2597,
+    "text": "Pistoclervs:\nPhílippeo quidem."
+  },
+  {
+    "id": "p-7fa1ab",
+    "offset": 2629,
+    "text": "Chrysalvs:\nAtque eo fortasse iám opust."
+  },
+  {
+    "id": "p-0139ce",
+    "offset": 2670,
+    "text": "Pistoclervs:\nImmo etiam prius:"
+  },
+  {
+    "id": "p-61f531",
+    "offset": 2702,
+    "text": "nam iam huc adveniet miles."
+  },
+  {
+    "id": "p-bf6143",
+    "offset": 2731,
+    "text": "Chrysalvs:\nEt miles quidem?"
+  },
+  {
+    "id": "p-68ed60",
+    "offset": 2760,
+    "text": "Pistoclervs:"
+  },
+  {
+    "id": "p-b3a741",
+    "offset": 2774,
+    "text": "Qui de amittenda Bacchide aurum hic exiget."
+  },
+  {
+    "id": "p-15ba9f",
+    "offset": 2819,
+    "text": "Chrysalvs:\nVeniat quando volt, atque ita ne mihi sit morae."
+  },
+  {
+    "id": "p-359097",
+    "offset": 2880,
+    "text": "domist: non metuo nec ego quoiquam supplico, dum quidem hoc valebit pectus perfidia meum."
+  },
+  {
+    "id": "p-11fd54",
+    "offset": 2971,
+    "text": "abi intro, ego hic curabo. tu intus dicito"
+  },
+  {
+    "id": "p-b09005",
+    "offset": 3015,
+    "text": "Mnesilochum adesse Bacchidi."
+  },
+  {
+    "id": "p-02ea5f",
+    "offset": 3045,
+    "text": "Pistoclervs:\nFaciam ut iubes.—"
+  },
+  {
+    "id": "p-46e0ea",
+    "offset": 3077,
+    "text": "Chrysalvs:\nNegotium hoc ad me adtinet aurarium."
+  },
+  {
+    "id": "p-8cdf49",
+    "offset": 3126,
+    "text": "mille et ducentos Philippos áttulimus aureos"
+  },
+  {
+    "id": "p-1fcd38",
+    "offset": 3172,
+    "text": "Epheso, quos hospes debuit nostro seni."
+  },
+  {
+    "id": "p-1eabed",
+    "offset": 3213,
+    "text": "inde ego hodie aliquam machinabor machinam, unde aurum efficiam amanti erili filio."
+  },
+  {
+    "id": "p-53928f",
+    "offset": 3298,
+    "text": "sed foris concrepuit nostra: quinam exit foras?"
+  },
+  {
+    "id": "p-50d410",
+    "offset": 3347,
+    "text": "Nicobvlvs:\nIbo in Piraeum, visam écquae advenerit in portum ex Epheso navis mercatoria."
+  },
+  {
+    "id": "p-452e5b",
+    "offset": 3436,
+    "text": "nam meus formidat animus, nostrum tam diu ibi desidere neque redire filium."
+  },
+  {
+    "id": "p-4621e0",
+    "offset": 3513,
+    "text": "Chrysalvs:"
+  },
+  {
+    "id": "p-3e8f06",
+    "offset": 3525,
+    "text": "Extexam ego illum pulchre iam, si di volunt."
+  },
+  {
+    "id": "p-bc4f02",
+    "offset": 3571,
+    "text": "haud dormitandumst: opus est chryso Chrysalo."
+  },
+  {
+    "id": "p-4df5b9",
+    "offset": 3618,
+    "text": "adibo hunc, quem quidem ego hódie faciam hic arietem"
+  },
+  {
+    "id": "p-90d5ed",
+    "offset": 3672,
+    "text": "Phrixi, itaque tondebo auro usque ad vivam cutem."
+  },
+  {
+    "id": "p-0c44e3",
+    "offset": 3723,
+    "text": "servos salutat Nicobulum Chrysalus."
+  },
+  {
+    "id": "p-35ebf5",
+    "offset": 3760,
+    "text": "Nicobvlvs:"
+  },
+  {
+    "id": "p-00693f",
+    "offset": 3772,
+    "text": "Pro di immortales, Chrysale, ubi mist filius?"
+  },
+  {
+    "id": "p-fae202",
+    "offset": 3819,
+    "text": "Chrysalvs:\nQuin tu salutem primum reddis quam dedi?"
+  },
+  {
+    "id": "p-731679",
+    "offset": 3872,
+    "text": "Nicobvlvs:\nSalve. sed ubinamst Mnesilochus?"
+  },
+  {
+    "id": "p-fbbf63",
+    "offset": 3917,
+    "text": "Chrysalvs:\nVivit, valet."
+  },
+  {
+    "id": "p-d73277",
+    "offset": 3943,
+    "text": "Nicobvlvs:\nVenitne?"
+  },
+  {
+    "id": "p-8ec029",
+    "offset": 3964,
+    "text": "Chrysalvs:\nVenit."
+  },
+  {
+    "id": "p-be6ee0",
+    "offset": 3983,
+    "text": "Nicobvlvs:\nEuax, aspersisti aquam."
+  },
+  {
+    "id": "p-7e7b0b",
+    "offset": 4019,
+    "text": "benene usque valuit?"
+  },
+  {
+    "id": "p-a74dd2",
+    "offset": 4041,
+    "text": "Chrysalvs:\nPancratice atque athletice."
+  },
+  {
+    "id": "p-35ebf5",
+    "offset": 4081,
+    "text": "Nicobvlvs:"
+  },
+  {
+    "id": "p-cb3eea",
+    "offset": 4093,
+    "text": "Quid hoc? qua causa éum in Ephesum miseram, accepitne aurum ab hospite Archidemide?"
+  },
+  {
+    "id": "p-994272",
+    "offset": 4178,
+    "text": "Chrysalvs:\nHeu, cor meum et cerebrum, Nicobule, finditur, istius hominis ubi fit quomque mentio."
+  },
+  {
+    "id": "p-0deddd",
+    "offset": 4276,
+    "text": "tun hospitem illum nominas hostem tuom?"
+  },
+  {
+    "id": "p-35ebf5",
+    "offset": 4317,
+    "text": "Nicobvlvs:"
+  },
+  {
+    "id": "p-43dcbc",
+    "offset": 4329,
+    "text": "Quid ita, obsecro hercle?"
+  },
+  {
+    "id": "p-22d865",
+    "offset": 4356,
+    "text": "Chrysalvs:\nQuia edepol certo scio,"
+  },
+  {
+    "id": "p-affa8e",
+    "offset": 4392,
+    "text": "Volcanus, Luna, Sol, Dies, dei quattuor, scelestiorem nullum inluxere alterum."
+  },
+  {
+    "id": "p-0a62f7",
+    "offset": 4472,
+    "text": "Nicobvlvs:\nQuamne Archidemidem?"
+  },
+  {
+    "id": "p-07d818",
+    "offset": 4505,
+    "text": "Chrysalvs:\nQuam, inquam, Archidemidem."
+  },
+  {
+    "id": "p-b85fda",
+    "offset": 4545,
+    "text": "Nicobvlvs:\nQuid fecit?"
+  },
+  {
+    "id": "p-f3561e",
+    "offset": 4569,
+    "text": "Chrysalvs:\nQuid non fecit? quin tu id me rogas?"
+  },
+  {
+    "id": "p-7c9aed",
+    "offset": 4618,
+    "text": "primumdum infitias ire coepit filio, negare se debere tibi triobulum."
+  },
+  {
+    "id": "p-79d575",
+    "offset": 4689,
+    "text": "continuo ántiquom hospitem nostrum sibi"
+  },
+  {
+    "id": "p-2e2bec",
+    "offset": 4730,
+    "text": "Mnesilochus advocavit, Pelagonem senem;"
+  },
+  {
+    "id": "p-c4a9d6",
+    "offset": 4771,
+    "text": "eo praésente homini extemplo ostendit symbolum, quem tute dederas, ad eum ut ferret, filio."
+  },
+  {
+    "id": "p-479dcf",
+    "offset": 4864,
+    "text": "Nicobvlvs:\nQuid ubi ei ostendit symbolum?"
+  },
+  {
+    "id": "p-b79b70",
+    "offset": 4907,
+    "text": "Chrysalvs:\nInfit dicere adulterinum et non eum esse symbolum."
+  },
+  {
+    "id": "p-5831be",
+    "offset": 4970,
+    "text": "quotque innocenti ei dixit contumelias!"
+  },
+  {
+    "id": "p-fc1525",
+    "offset": 5011,
+    "text": "adulterare eum aibat rebus ceteris."
+  },
+  {
+    "id": "p-35ebf5",
+    "offset": 5048,
+    "text": "Nicobvlvs:"
+  },
+  {
+    "id": "p-7c6add",
+    "offset": 5060,
+    "text": "Habetin aurum? íd mihi dici volo."
+  },
+  {
+    "id": "p-6dea85",
+    "offset": 5095,
+    "text": "Chrysalvs:\nPostquam quidem praétor recuperatores dedit, damnatus demum, vi coactus reddidit ducentós et mille Phílippum."
+  },
+  {
+    "id": "p-3c3f13",
+    "offset": 5217,
+    "text": "Nicobvlvs:\nTantum debuit."
+  },
+  {
+    "id": "p-2556dc",
+    "offset": 5244,
+    "text": "Chrysalvs:\nPorro etiam ausculta pugnam quam voluit dare."
+  },
+  {
+    "id": "p-35ebf5",
+    "offset": 5302,
+    "text": "Nicobvlvs:"
+  },
+  {
+    "id": "p-9d602c",
+    "offset": 5314,
+    "text": "Etiamnest quid porro?"
+  },
+  {
+    "id": "p-a083e7",
+    "offset": 5337,
+    "text": "Chrysalvs:\nEm, áccipitrina haec nunc erit."
+  },
+  {
+    "id": "p-940504",
+    "offset": 5381,
+    "text": "Nicobvlvs:\nDeceptus sum, Autolyco hospiti aurum credidi."
+  },
+  {
+    "id": "p-f2c597",
+    "offset": 5439,
+    "text": "Chrysalvs:\nQuin tu audi."
+  },
+  {
+    "id": "p-3602ee",
+    "offset": 5465,
+    "text": "Nicobvlvs:\nImmo ingenium avidi haud pernoram hospitis."
+  },
+  {
+    "id": "p-0a3a0b",
+    "offset": 5521,
+    "text": "Chrysalvs:\nPostquam aurum abstulimus, in navem conscendimus, domi cupientes. forte ut adsedi in stega, dum circumspecto, átque ego lembum conspicor longum, strigorem maleficum exornarier."
+  },
+  {
+    "id": "p-5e2226",
+    "offset": 5710,
+    "text": "Nicobvlvs:\nPerii hercle, lembus ille mihi laedit latus."
+  },
+  {
+    "id": "p-7b33ca",
+    "offset": 5767,
+    "text": "Chrysalvs:\nIs erat communis cum hospite et praedonibus."
+  },
+  {
+    "id": "p-7d00fd",
+    "offset": 5824,
+    "text": "Nicobvlvs:\nAdeon me fuisse fungum, ut qui illi crederem, cum mi ipsum nomen eius Archidemides clamaret dempturum esse, si quid crederem?"
+  },
+  {
+    "id": "p-65d0b4",
+    "offset": 5962,
+    "text": "Chrysalvs:\nIs lembus nostrae navi insidias dabat."
+  },
+  {
+    "id": "p-b886ef",
+    "offset": 6013,
+    "text": "occepi ego observare eos quam rem gerant."
+  },
+  {
+    "id": "p-605fe1",
+    "offset": 6056,
+    "text": "interea e portu nostra navis solvitur."
+  },
+  {
+    "id": "p-34b42d",
+    "offset": 6096,
+    "text": "ubi portu eximus, homines remigio sequi, neque aves neque venti citius. quoniam sentio quae res gereretur, navem extemplo statuimus."
+  },
+  {
+    "id": "p-24f6c2",
+    "offset": 6230,
+    "text": "quoniam vident nos stare, occeperunt ratem turbare in portu."
+  },
+  {
+    "id": "p-85ed78",
+    "offset": 6292,
+    "text": "Nicobvlvs:\nEdepol mortalis malos."
+  },
+  {
+    "id": "p-55c77a",
+    "offset": 6327,
+    "text": "quid denique agitis?"
+  },
+  {
+    "id": "p-446ea1",
+    "offset": 6349,
+    "text": "Chrysalvs:\nRursum in portum recipimus."
+  },
+  {
+    "id": "p-d059f8",
+    "offset": 6389,
+    "text": "Nicobvlvs:\nSapienter factum a vobis. quid illi postea?"
+  },
+  {
+    "id": "p-ea07df",
+    "offset": 6445,
+    "text": "Chrysalvs:\nRevorsionem ad terram faciunt vesperi."
+  },
+  {
+    "id": "p-52f275",
+    "offset": 6496,
+    "text": "Nicobvlvs:\nAurum hercle auferre voluere: ei rei operam dabant."
+  },
+  {
+    "id": "p-11eb28",
+    "offset": 6560,
+    "text": "Chrysalvs:\nNon me fefellit, sensi, eo exanimatus fui."
+  },
+  {
+    "id": "p-afc45a",
+    "offset": 6615,
+    "text": "quoniam videmus auro insidias fieri, capimus consilium continuo; postridie auferimus aurum ómne illis praesentibus, palam atque aperte, ut illi id factum sciscerent."
+  },
+  {
+    "id": "p-591659",
+    "offset": 6782,
+    "text": "Nicobvlvs:\nScite hercle. cedo quid illi?"
+  },
+  {
+    "id": "p-141e11",
+    "offset": 6824,
+    "text": "Chrysalvs:\nTristes ilico, quom extemplo a portu íre nos cum auro vident, subducunt lembum capitibus quassantibus."
+  },
+  {
+    "id": "p-94da6d",
+    "offset": 6939,
+    "text": "nos apud Theotímum omne aurum deposivimus, qui illic sacerdos est Dianae Ephesiae."
+  },
+  {
+    "id": "p-8d4cc5",
+    "offset": 7023,
+    "text": "Nicobvlvs:\nQuis istíc Theotimust?"
+  },
+  {
+    "id": "p-fcf45a",
+    "offset": 7058,
+    "text": "Chrysalvs:\nMegalobuli filius, qui nunc in Ephesost Ephesiis carissimus."
+  },
+  {
+    "id": "p-4d4343",
+    "offset": 7131,
+    "text": "Nicobvlvs:\nNe ille hercle mihi sit multo tanto carior, si me illo auro tanto circumduxerit."
+  },
+  {
+    "id": "p-320a28",
+    "offset": 7224,
+    "text": "Chrysalvs:\nQuin in eapse aede Dianai conditumst;"
+  },
+  {
+    "id": "p-4dc142",
+    "offset": 7274,
+    "text": "ibidem publicitus servant."
+  },
+  {
+    "id": "p-68e1a9",
+    "offset": 7302,
+    "text": "Nicobvlvs:\nOccidistis me;"
+  },
+  {
+    "id": "p-a424f2",
+    "offset": 7329,
+    "text": "nimio hic privatim servaretur rectius."
+  },
+  {
+    "id": "p-700875",
+    "offset": 7369,
+    "text": "sed nilne áttulistis inde auri domum?"
+  },
+  {
+    "id": "p-dc61e1",
+    "offset": 7408,
+    "text": "Chrysalvs:\nImmo etiam. verum quantum attulerit nescio."
+  },
+  {
+    "id": "p-e0ab70",
+    "offset": 7464,
+    "text": "Nicobvlvs:\nQuid? nescis?"
+  },
+  {
+    "id": "p-7b86ef",
+    "offset": 7490,
+    "text": "Chrysalvs:\nQuia Mnesilochus noctu clanculum devenit ad Theotimum, nec mihi credere nec cuiquam in navi voluit: eo ego nescio quantillum attulerit; verum haud permultum attulit."
+  },
+  {
+    "id": "p-8a4cc9",
+    "offset": 7668,
+    "text": "Nicobvlvs:\nEtiam dimidium censes?"
+  },
+  {
+    "id": "p-48bf48",
+    "offset": 7703,
+    "text": "Chrysalvs:\nNon edepol scio;"
+  },
+  {
+    "id": "p-8c5abe",
+    "offset": 7732,
+    "text": "verum haud opinor."
+  },
+  {
+    "id": "p-cb03f5",
+    "offset": 7752,
+    "text": "Nicobvlvs:\nFertne partem tertiam?"
+  },
+  {
+    "id": "p-8389ce",
+    "offset": 7787,
+    "text": "Chrysalvs:\nNon hercle opinor; verum verum nescio."
+  },
+  {
+    "id": "p-903509",
+    "offset": 7838,
+    "text": "profecto de auro nil scio nisi nescio."
+  },
+  {
+    "id": "p-202918",
+    "offset": 7878,
+    "text": "nunc tibimet illuc navi capiundumst iter, ut illúd reportes aurum ab Theotimo domum."
+  },
+  {
+    "id": "p-3153bd",
+    "offset": 7964,
+    "text": "atque heus tu."
+  },
+  {
+    "id": "p-81c85e",
+    "offset": 7980,
+    "text": "Nicobvlvs:\nQuid vis?"
+  },
+  {
+    "id": "p-1e1b1a",
+    "offset": 8002,
+    "text": "Chrysalvs:\nAnulum gnati tui facito ut memineris ferre."
+  },
+  {
+    "id": "p-caad1a",
+    "offset": 8058,
+    "text": "Nicobvlvs:\nQuid opust anulo?"
+  },
+  {
+    "id": "p-4621e0",
+    "offset": 8088,
+    "text": "Chrysalvs:"
+  },
+  {
+    "id": "p-803446",
+    "offset": 8100,
+    "text": "Quia id sígnumst cum Theotimo, quí eum illi adferet, ei aurum ut reddat."
+  },
+  {
+    "id": "p-e52eba",
+    "offset": 8174,
+    "text": "Nicobvlvs:\nMeminero, et recte mones."
+  },
+  {
+    "id": "p-f9c94c",
+    "offset": 8212,
+    "text": "sed divesne est istic Theotimus?"
+  },
+  {
+    "id": "p-ab2de3",
+    "offset": 8246,
+    "text": "Chrysalvs:\nEtiam rogas?"
+  },
+  {
+    "id": "p-eaa4f1",
+    "offset": 8271,
+    "text": "quin auro hábeat soccis subpactum solum?"
+  },
+  {
+    "id": "p-01312e",
+    "offset": 8313,
+    "text": "Nicobvlvs:\nCur ita fastidit?"
+  },
+  {
+    "id": "p-fb7bdd",
+    "offset": 8343,
+    "text": "Chrysalvs:\nTantas divitias habet;"
+  },
+  {
+    "id": "p-442be2",
+    "offset": 8378,
+    "text": "nescit quid faciat auro."
+  },
+  {
+    "id": "p-b9d30c",
+    "offset": 8404,
+    "text": "Nicobvlvs:\nMihi dederit velim."
+  },
+  {
+    "id": "p-c7da3e",
+    "offset": 8436,
+    "text": "sed qui praesente id aurum Theotimo datumst?"
+  },
+  {
+    "id": "p-801147",
+    "offset": 8482,
+    "text": "Chrysalvs:\nPopulo praesente: nullust Ephesi quin sciat."
+  },
+  {
+    "id": "p-a665d6",
+    "offset": 8539,
+    "text": "Nicobvlvs:\nIstuc sapienter saltem fecit filius, cum diviti homini id aurum servandum dedit;"
+  },
+  {
+    "id": "p-fd9952",
+    "offset": 8632,
+    "text": "ab eo licebit quamvis subito sumere."
+  },
+  {
+    "id": "p-32452c",
+    "offset": 8670,
+    "text": "Chrysalvs:\nImmo em tantisper numquam te morabitur, quin habeas illud quo die illuc veneris."
+  },
+  {
+    "id": "p-d31249",
+    "offset": 8763,
+    "text": "Nicobvlvs:\nCensebam me effugisse a vita marituma, ne navigarem tandem hoc aetatis senex;"
+  },
+  {
+    "id": "p-200d7f",
+    "offset": 8853,
+    "text": "id mi haud, utrum velim, licere intellego:"
+  },
+  {
+    "id": "p-c53e67",
+    "offset": 8897,
+    "text": "ita bellus hospes fecit Archidemides."
+  },
+  {
+    "id": "p-34f05c",
+    "offset": 8936,
+    "text": "ubi nunc est ergo meus Mnesilochus filius?"
+  },
+  {
+    "id": "p-00c1e0",
+    "offset": 8980,
+    "text": "Chrysalvs:\nDeos átque amicos iit salutatum ad forum."
+  },
+  {
+    "id": "p-9454f7",
+    "offset": 9034,
+    "text": "Nicobvlvs:\nAt ego hinc ad illum, ut convenam quantum potest.—"
+  },
+  {
+    "id": "p-4621e0",
+    "offset": 9097,
+    "text": "Chrysalvs:"
+  },
+  {
+    "id": "p-2ee5cb",
+    "offset": 9109,
+    "text": "Ille est oneratus recte et plus iusto vehit."
+  },
+  {
+    "id": "p-f8192d",
+    "offset": 9155,
+    "text": "exorsa haec tela non male omnino mihi est:"
+  },
+  {
+    "id": "p-7c39ec",
+    "offset": 9199,
+    "text": "ut amantem erilem copem facerem filium, ita feci, ut auri quantum vellet sumeret, quantum autem lubeat reddere ut reddat patri."
+  },
+  {
+    "id": "p-9e82e9",
+    "offset": 9328,
+    "text": "senex in Ephesum íbit aurum arcessere, hic nostra agetur aetas in malacum modum, siquidem híc relinquet neque secum abducet senex med et Mnesilochum. quas ego hic turbas dabo!"
+  },
+  {
+    "id": "p-aefa31",
+    "offset": 9505,
+    "text": "sed quid futurumst, cum hoc senex resciverit, cum se excucurrisse illuc frustra sciverit nosque aurum abusos? quid mihi fiet postea?"
+  },
+  {
+    "id": "p-2e5516",
+    "offset": 9639,
+    "text": "credo hercle adveniens nomen mutabit mihi facietque extemplo Crucisalum me ex Chrysalo."
+  },
+  {
+    "id": "p-d2660a",
+    "offset": 9728,
+    "text": "aufugero hercle, si magis usus venerit."
+  },
+  {
+    "id": "p-868fef",
+    "offset": 9769,
+    "text": "si ero reprehensus, macto ego illum infortunio:"
+  },
+  {
+    "id": "p-93c5fd",
+    "offset": 9818,
+    "text": "si illi sunt virgae ruri, at mihi tergum domist."
+  },
+  {
+    "id": "p-5811b8",
+    "offset": 9868,
+    "text": "nunc ibo, erili filio hanc fabricam dabo super auro amicaque eius inventa Bacchide.—"
+  }
+]

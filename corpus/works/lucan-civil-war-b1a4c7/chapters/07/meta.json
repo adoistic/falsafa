@@ -1,0 +1,39 @@
+{
+  "work_slug": "lucan-civil-war-b1a4c7",
+  "work_title": "Civil War",
+  "chapter_number": 7,
+  "chapter_title": "Book 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose",
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c839cc6a-d95b-5635-847c-734f1573d944",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 143,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0917.phi001.perseus-lat2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3c0f9977-c9ab-5f14-95b0-46f22dcef461",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8371,
+      "paragraph_count": 1043,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0917.phi001.perseus-eng2:7"
+    }
+  ]
+}

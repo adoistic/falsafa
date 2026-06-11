@@ -1,0 +1,39 @@
+{
+  "work_slug": "homer-iliad-056ee9",
+  "work_title": "Iliad",
+  "chapter_number": 20,
+  "chapter_title": "Book 20",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "59667f15-3281-5bcf-a1f9-09bf3c8e4f9c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3577,
+      "paragraph_count": 503,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:20"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "64fd9abe-3c4b-5f90-a29c-81a38f44ff50",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5047,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:20"
+    }
+  ]
+}

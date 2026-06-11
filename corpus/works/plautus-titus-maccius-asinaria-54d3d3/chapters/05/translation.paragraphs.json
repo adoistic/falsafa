@@ -1,0 +1,987 @@
+[
+  {
+    "id": "p-80b49f",
+    "offset": 0,
+    "text": "(Enter CLEAERETA and PHEILENIUM, from the house of the former.)"
+  },
+  {
+    "id": "p-845fca",
+    "offset": 65,
+    "text": "CLEAERETA:\nAnd am I unable to render you obedient to my injunctions?"
+  },
+  {
+    "id": "p-6f1a93",
+    "offset": 135,
+    "text": "Or are you so disposed as to be free from the control of your mother?"
+  },
+  {
+    "id": "p-1d35b4",
+    "offset": 206,
+    "text": "PHILENIUM:\nHow could I propitiate Piety, if I could desire to please you, being endowed with these manners, after the fashion, mother, that you enjoin upon me?"
+  },
+  {
+    "id": "p-c01126",
+    "offset": 367,
+    "text": "CLEAERETA:\nIs it consistent with propriety for you to oppose my precepts?"
+  },
+  {
+    "id": "p-178318",
+    "offset": 442,
+    "text": "PHILENIUM:\nHow so?"
+  },
+  {
+    "id": "p-474466",
+    "offset": 462,
+    "text": "CLEAERETA:\nIs this worshipping Piety, to lessen the authority of a mother?"
+  },
+  {
+    "id": "p-1d4979",
+    "offset": 538,
+    "text": "PHILENIUM:\nThose who act right I blame not, nor do I love those who do wrong."
+  },
+  {
+    "id": "p-87faf0",
+    "offset": 617,
+    "text": "CLEAERETA:\nYou are a very prating, lovesick girl."
+  },
+  {
+    "id": "p-e4724d",
+    "offset": 668,
+    "text": "PHILENIUM:\nMother, that is my living. His tongue woos me, his person seeks me, his passion pleads, opportunity prompts."
+  },
+  {
+    "id": "p-efa73e",
+    "offset": 789,
+    "text": "CLEAERETA:\nI was purposing to convince you. Are you come as my accuser?"
+  },
+  {
+    "id": "p-d9cc9b",
+    "offset": 862,
+    "text": "PHILENIUM:\nBy my troth, I neither do accuse you, nor do I think it right I should do so;"
+  },
+  {
+    "id": "p-61f707",
+    "offset": 952,
+    "text": "but I do complain of my lot, when I am separated from him whom I love."
+  },
+  {
+    "id": "p-ab487a",
+    "offset": 1024,
+    "text": "CLEAERETA:\nWill then one bit of the whole day’s talk be left for myself?"
+  },
+  {
+    "id": "p-6e6d03",
+    "offset": 1098,
+    "text": "PHILENIUM:\nBoth my share of the speaking and your own do I give up to you. Do you yourself keep the signal both for speaking and for being silent."
+  },
+  {
+    "id": "p-30d795",
+    "offset": 1246,
+    "text": "But, i’ faith, if I only put up my oars in the boat-house while I’m resting, all the welfare of the household is at a standstill for you."
+  },
+  {
+    "id": "p-a9b093",
+    "offset": 1385,
+    "text": "CLEAERETA:\nHow say you, the out and out most insolent woman that ever I saw? How often have I forbidden you to speak to Argyrippus, the son of Demaenetus, or to touch him, or to hold discourse with him, or to look at him? What has he ever given? What has he ordered to be brought to our house? Or do you fancy to yourself that smooth words are gold?—that clever speeches are as good as presents? Of your own accord you fell in love with him; of your own accord you go after him; of your own accord you request him to be sent for to you. Those who are givers, those same you laugh at; those who are cheating us, you are dying for. If any one promises you that he’ll make you rich when his mother dies, ought you to be waiting for that?"
+  },
+  {
+    "id": "p-a7d513",
+    "offset": 2121,
+    "text": "I’ faith, a great risk impends over ourselves and the household, that we may die of hunger while we are awaiting her death. Now therefore, unless he brings me here twenty minae of silver, upon my word, though profuse of his tears, he shall certainly be turned from here out of doors. This day’s the end of excuses for poverty at my house."
+  },
+  {
+    "id": "p-d632be",
+    "offset": 2461,
+    "text": "PHILENIUM:\nIf, my mother, you were to order me to go without victuals, I would submit."
+  },
+  {
+    "id": "p-5d5521",
+    "offset": 2549,
+    "text": "CLEAERETA:\nI don’t forbid you to love those who give that for the sake of which they ought to be loved."
+  },
+  {
+    "id": "p-bc87a4",
+    "offset": 2654,
+    "text": "PHILENIUM:\nWhat, mother, if this inclination of mine is fixed? What am I to do? Tell me."
+  },
+  {
+    "id": "p-18dbed",
+    "offset": 2744,
+    "text": "CLEAERETA:\nOh dear—look at my head, if, indeed, you consider your own interest."
+  },
+  {
+    "id": "p-f15b92",
+    "offset": 2825,
+    "text": "PHILENIUM:\nEven the shepherd, mother, that feeds the sheep of another, has a certain one of his own to be the consoler of his hopes. For the sake of my affection, do allow me to love Argyrippus only, who is my choice."
+  },
+  {
+    "id": "p-f52a9c",
+    "offset": 3044,
+    "text": "CLEAERETA:\nGo in-doors, for, upon my word, there is really nothing more impudent than yourself."
+  },
+  {
+    "id": "p-36e370",
+    "offset": 3141,
+    "text": "PHILENIUM:\nMother, you have given birth to a daughter obedient to your commands.\n(They go into the house.)"
+  },
+  {
+    "id": "p-d8e68a",
+    "offset": 3249,
+    "text": "(Enter LEONIDA and LIBANUS.)"
+  },
+  {
+    "id": "p-193fb0",
+    "offset": 3279,
+    "text": "LEONIDA:\nGreat praise and thanks we give deservedly to perfidy, when relying upon our tricks, our stratagems, and our devices, upon our confidence in our shoulder-blades and the hardihood resulting from the elm-twigs so oft applied, against the whips, the searing-irons, the crosses, and the fetters, the cords, the chains, the prisons, the stocks, the shackles, the collars, and taskmasters most cruel and well acquainted with our backs, who many a time before have imprinted scars upon our shoulder-blades; by conquering, now, these legions, troops and armies of thieves, by our prowess, through our perjuries, O brave, have we gained the victory. This, through the valour of this comrade of mine, and through my own courtesy, has been brought about."
+  },
+  {
+    "id": "p-e5826b",
+    "offset": 4033,
+    "text": "LIBANUS:\nWhat man is there more firm than myself at enduring stripes?"
+  },
+  {
+    "id": "p-a7d137",
+    "offset": 4104,
+    "text": "LEONIDA:\nBy the powers, you who can extol your exploits now, as I can do exploits, which in peace and in warfare you have so — villanously performed;"
+  },
+  {
+    "id": "p-04e846",
+    "offset": 4255,
+    "text": "verily, in troth, many in number may they be now recounted according to your deserts; where you have defrauded him that trusted you, where you have proved faithless to your master, where knowingly and wilfully you have on solemn oath been perjured, where you have bored through party walls, where you have been detected in theft, where you have full oft pleaded your cause, as you hung up, against eight clever, hardened fellows, sturdy stripers."
+  },
+  {
+    "id": "p-b520b7",
+    "offset": 4703,
+    "text": "LIBANUS:\nCertainly I do admit, Leonida, that it is true as you say. But verily, in troth, your many misdeeds, too, may be recounted as well and truly; where wilfully you have proved faithless to the trusting, where you have been detected in theft and scourged in public, where you have proved forsworn, where you have laid hands on sacred things, where to your masters you have full oft proved a loss, a trouble, and a disgrace, where you have stoutly denied that that was given to you which had been entrusted to you, where you have proved more faithful to your wench than to your friend, where through your hardihood you have frequently reduced to weariness eight sturdy lictors, armed with pliant twigs of elm. (To the AUDIENCE.) Is the compliment ill repaid in the way that I’ve praised my comrade?"
+  },
+  {
+    "id": "p-a31765",
+    "offset": 5507,
+    "text": "LEONIDA:\nJust as befits both me and yourself, and our dispositions."
+  },
+  {
+    "id": "p-95f4c5",
+    "offset": 5576,
+    "text": "LIBANUS:\nNow drop this, and answer me this that I ask."
+  },
+  {
+    "id": "p-3edf99",
+    "offset": 5632,
+    "text": "LEONIDA:\nEnquire of me what you please."
+  },
+  {
+    "id": "p-a5990c",
+    "offset": 5673,
+    "text": "LIBANUS:\nHave you got the twenty silver minae?"
+  },
+  {
+    "id": "p-7528b3",
+    "offset": 5721,
+    "text": "LEONIDA:\nGuess —"
+  },
+  {
+    "id": "p-ca545b",
+    "offset": 5739,
+    "text": "Upon my word, the old gentleman Demaenetus, has been very obliging to us. How cleverly he pretended that I was Saurea. With the greatest difficulty did I withhold my laughter, when he rebuked the stranger, because in his absence he had been unwilling to put confidence in me; and with what readiness did he call me Saurea the chamberlain."
+  },
+  {
+    "id": "p-a2fd69",
+    "offset": 6079,
+    "text": "LIBANUS:\nStop a moment."
+  },
+  {
+    "id": "p-740748",
+    "offset": 6104,
+    "text": "LEONIDA:\nWhat’s the matter?"
+  },
+  {
+    "id": "p-ad610c",
+    "offset": 6133,
+    "text": "LIBANUS:\nIsn’t this Philenium that’s coming from in-doors, and Argyrippus with her."
+  },
+  {
+    "id": "p-6835b3",
+    "offset": 6218,
+    "text": "LEONIDA:\nKeep silence,’tis he; let’s listen quietly to them."
+  },
+  {
+    "id": "p-1001bb",
+    "offset": 6280,
+    "text": "In tears, she holds him, weeping, by the lappet of his garment; what, I wonder, am I to say is the matter?"
+  },
+  {
+    "id": "p-c2aaba",
+    "offset": 6388,
+    "text": "LIBANUS:\nLet’s listen in silence."
+  },
+  {
+    "id": "p-8f3124",
+    "offset": 6423,
+    "text": "LEONIDA:\nDear me, a thought, I’ faith, has just come into my mind; I very much wish I had a long stick here."
+  },
+  {
+    "id": "p-72b77a",
+    "offset": 6533,
+    "text": "LIBANUS:\nFor what reason?"
+  },
+  {
+    "id": "p-a46c64",
+    "offset": 6560,
+    "text": "LEONIDA:\nWith which to beat these asses, if perchance they should begin to bray out here, from within the bag.\n(They stand apart.)"
+  },
+  {
+    "id": "p-85b1ea",
+    "offset": 6692,
+    "text": "(Enter ARGYRIPPUS from the house of CLEAERETA, followed by PHILENIUM.)"
+  },
+  {
+    "id": "p-1273c8",
+    "offset": 6764,
+    "text": "ARGYRIPPUS:\nWhy are you holding me back?"
+  },
+  {
+    "id": "p-294427",
+    "offset": 6806,
+    "text": "PHILENIUM:\nBecause, as I love you, I cannot bear your departing."
+  },
+  {
+    "id": "p-87c59a",
+    "offset": 6872,
+    "text": "ARGYRIPPUS:\nFarewell."
+  },
+  {
+    "id": "p-e221a6",
+    "offset": 6895,
+    "text": "PHILENIUM:\nI should fare somewhat better, if you were to remain here."
+  },
+  {
+    "id": "p-79e610",
+    "offset": 6966,
+    "text": "ARGYRIPPUS:\nBlessings on you."
+  },
+  {
+    "id": "p-aad783",
+    "offset": 6997,
+    "text": "PHILENIUM:\nDo you wish for blessings on me, to whom you are bringing disease by your departure?"
+  },
+  {
+    "id": "p-4465cf",
+    "offset": 7094,
+    "text": "ARGYRIPPUS:\nYour mother has bid me the last farewell; she has requested me to go home."
+  },
+  {
+    "id": "p-c89a7b",
+    "offset": 7182,
+    "text": "PHILENIUM:\nA bitter death will she cause her daughter, if I must part from you."
+  },
+  {
+    "id": "p-826bcb",
+    "offset": 7263,
+    "text": "LIBANUS:\n(apart, to LEONIDA.)\nTroth now, the man has been turned out of doors there."
+  },
+  {
+    "id": "p-49f1e8",
+    "offset": 7349,
+    "text": "LEONIDA:\n(apart.)\nSuch is the fact."
+  },
+  {
+    "id": "p-b5af7d",
+    "offset": 7386,
+    "text": "ARGYRIPPUS:\nPrithee, do let me go."
+  },
+  {
+    "id": "p-e8019d",
+    "offset": 7422,
+    "text": "PHILENIUM:\nWhither are you going now? Why don’t you stay here?"
+  },
+  {
+    "id": "p-fac13f",
+    "offset": 7486,
+    "text": "ARGYRIPPUS:\nThis night, if you choose, I’ll stay."
+  },
+  {
+    "id": "p-de66bd",
+    "offset": 7537,
+    "text": "LIBANUS:\n(apart.)\nDon’t you hear him? How profuse he is of his attentions by night. But now, in the daytime, he’s engaged; surely he’s a Solon to write laws whereby the public may regulate itself. Psha! those who would be in readiness for themselves to pay obedience to his laws, would decidedly never do any good; they would be drinking night and day."
+  },
+  {
+    "id": "p-45748c",
+    "offset": 7891,
+    "text": "LEONIDA:\n(apart.)\nTroth now, for sure, he wouldn’t budge a foot from her if she would let him, who is now in such haste, and is threatening that he’s going away from her."
+  },
+  {
+    "id": "p-55829c",
+    "offset": 8063,
+    "text": "LIBANUS:\n(apart.)\nNow make an end of your talk, that I may catch his discourse."
+  },
+  {
+    "id": "p-84c595",
+    "offset": 8144,
+    "text": "ARGYRIPPUS:\nFarewell!"
+  },
+  {
+    "id": "p-db31dd",
+    "offset": 8167,
+    "text": "PHILENIUM:\nWhither are you hastening?"
+  },
+  {
+    "id": "p-004e42",
+    "offset": 8206,
+    "text": "ARGYRIPPUS:\nKindly fare you well! I shall see you in the other world. For indeed now, so soon as I can, I shall sever myself from life."
+  },
+  {
+    "id": "p-2c0907",
+    "offset": 8343,
+    "text": "PHILENIUM:\nPrithee, why, while I do not deserve it, do you wish to consign me to death?"
+  },
+  {
+    "id": "p-984bde",
+    "offset": 8432,
+    "text": "ARGYRIPPUS:\nI—you? whom, if I were to hear that you were in want of life, at once would I present you my own life, and from my own would add to yours."
+  },
+  {
+    "id": "p-40d8ed",
+    "offset": 8584,
+    "text": "PHILENIUM:\nWhy, then, do you threaten that you will quit life? For what do you suppose that I shall do, if you do that which you are talking of? I’m determined to do everything exactly the same to myself that you do to yourself."
+  },
+  {
+    "id": "p-d180d6",
+    "offset": 8814,
+    "text": "ARGYRIPPUS:\nO! sweeter than honey are you to me."
+  },
+  {
+    "id": "p-fad37e",
+    "offset": 8864,
+    "text": "PHILENIUM:\nAnd surely you are my life. Embrace me."
+  },
+  {
+    "id": "p-ce2df6",
+    "offset": 8916,
+    "text": "ARGYRIPPUS:\nI do so with pleasure.\n(They embrace.)"
+  },
+  {
+    "id": "p-d6fb60",
+    "offset": 8968,
+    "text": "PHILENIUM:\nWould that thus we might be carried to the tomb."
+  },
+  {
+    "id": "p-84120a",
+    "offset": 9029,
+    "text": "LEONIDA:\n(apart.)\nO Libanus, how wretched is the man that loves."
+  },
+  {
+    "id": "p-b3aaee",
+    "offset": 9095,
+    "text": "LIBANUS:\n(apart.)\nAye, but surely, faith, the man that’s hanging up is much more wretched."
+  },
+  {
+    "id": "p-8fe672",
+    "offset": 9187,
+    "text": "LEONIDA:\n(apart.)\nI know that, who have had experience of it. Let’s go round them: let’s accost them, one on the one side, one on the other.\n(One walks towards them from each side.)"
+  },
+  {
+    "id": "p-436394",
+    "offset": 9370,
+    "text": "LIBANUS:\nHealth to you, master. But is this female, smoke, that you are embracing?"
+  },
+  {
+    "id": "p-453c5a",
+    "offset": 9454,
+    "text": "ARGYRIPPUS:\nWhy so?"
+  },
+  {
+    "id": "p-199a89",
+    "offset": 9475,
+    "text": "LIBANUS:\nBecause your eyes are filled with tears;’twas for that reason I asked."
+  },
+  {
+    "id": "p-b6b951",
+    "offset": 9556,
+    "text": "ARGYRIPPUS:\nOne who would have been a protector to you, you have lost."
+  },
+  {
+    "id": "p-02e132",
+    "offset": 9628,
+    "text": "LIBANUS:\nI’ faith, I surely haven’t lost one; for this reason, be cause I never had one."
+  },
+  {
+    "id": "p-bdbf46",
+    "offset": 9718,
+    "text": "LEONIDA:\nHealth to you, Philenium."
+  },
+  {
+    "id": "p-a17edb",
+    "offset": 9754,
+    "text": "PHILENIUM:\nWhat you desire, the Gods will give you."
+  },
+  {
+    "id": "p-f758c7",
+    "offset": 9807,
+    "text": "LIBANUS:\nI could desire your favours, and a cask of wine, if wishes were to come to pass."
+  },
+  {
+    "id": "p-107816",
+    "offset": 9898,
+    "text": "ARGYRIPPUS:\nWhip-knave, beware how you speak a word."
+  },
+  {
+    "id": "p-604527",
+    "offset": 9952,
+    "text": "LIBANUS:\nWhy,’tis for you, not for myself, I wish it."
+  },
+  {
+    "id": "p-45835f",
+    "offset": 10007,
+    "text": "ARGYRIPPUS:\nFor that reason, then, say on what you please."
+  },
+  {
+    "id": "p-f7c70a",
+    "offset": 10067,
+    "text": "LIBANUS:\n(pointing to LEONIDA.)\nTroth, I’d like to give him a beating."
+  },
+  {
+    "id": "p-043524",
+    "offset": 10139,
+    "text": "LEONIDA:\nWho, pray, would allow you to do so, you frizzle- pated mountebank? Could you thrash me, you, who reckon as your daily food your own thrashings?"
+  },
+  {
+    "id": "p-0f83ed",
+    "offset": 10294,
+    "text": "ARGYRIPPUS:\nHow far superior, Libanus, are your lots to my own, who never will live this day until the evening."
+  },
+  {
+    "id": "p-6a318f",
+    "offset": 10407,
+    "text": "LIBANUS:\nFor what reason, prithee?"
+  },
+  {
+    "id": "p-7101ba",
+    "offset": 10443,
+    "text": "ARGYRIPPUS:\n(pointing to PHILENIUM.)\nBecause I’m in love with her, and she’s in love with me, and nowhere have I anything to bestow upon her; for that reason has her mother expelled me with all my affection from her house. The twenty minae of silver have brought me to my end, which the young man, Diabolus, declared that he would give her this day, in order that she mightn’t send her anywhere, for this whole year, except to himself. Don’t you see of what force are twenty minae of silver, or what they can effect? The man who parts with them is happy; I, who part not with them, am undone."
+  },
+  {
+    "id": "p-a6091b",
+    "offset": 11037,
+    "text": "LIBANUS:\nHas he already paid the money?"
+  },
+  {
+    "id": "p-c32b7a",
+    "offset": 11078,
+    "text": "ARGYRIPPUS:\nHe hasn’t paid it."
+  },
+  {
+    "id": "p-ed217a",
+    "offset": 11110,
+    "text": "LIBANUS:\nBe of good courage; don’t be afraid."
+  },
+  {
+    "id": "p-ebe6a3",
+    "offset": 11157,
+    "text": "LEONIDA:\n(to LIBANUS.)\nStep this way, Libanus, I want you."
+  },
+  {
+    "id": "p-1fabe8",
+    "offset": 11217,
+    "text": "LIBANUS:\nCertainly, if you want anything.\n(Steps aside, putting his hand on the shoulder of LEONIDA.)"
+  },
+  {
+    "id": "p-5ca824",
+    "offset": 11320,
+    "text": "ARGYRIPPUS:\nI entreat of you, is it more pleasant in this same matter for you to discourse hugging one another?"
+  },
+  {
+    "id": "p-0d1a2d",
+    "offset": 11433,
+    "text": "LIBANUS:\nUnderstand, master, that all things are not equally sweet to all persons.’Tis pleasant for you lovers to converse, hugging one another; I care nothing for his hugging (pointing to LEONIDA), and (pointing to PHILENIUM) she despises mine. Do you then yourself do that which you would be suggesting to us to do."
+  },
+  {
+    "id": "p-223438",
+    "offset": 11752,
+    "text": "ARGYRIPPUS:\nIndeed I will, and really with pleasure, i’ faith. (Placing his arm round PHILENIUM’S neck.) In the meantime, if it seems good to you, do you step aside there."
+  },
+  {
+    "id": "p-821b6a",
+    "offset": 11925,
+    "text": "LEONIDA:\n(to LIBANUS.)\nShould you like our master to be bantered a bit?"
+  },
+  {
+    "id": "p-c57cd5",
+    "offset": 11998,
+    "text": "LIBANUS:\nHe really is deserving of it."
+  },
+  {
+    "id": "p-ade724",
+    "offset": 12038,
+    "text": "LEONIDA:\nShould you like me, in his presence, to make Philenium embrace me?"
+  },
+  {
+    "id": "p-575452",
+    "offset": 12115,
+    "text": "LIBANUS:\nI’ faith, I should like it."
+  },
+  {
+    "id": "p-3504ff",
+    "offset": 12153,
+    "text": "LEONIDA:\nFollow me this way.\n(They join ARGYRIPPUS.)"
+  },
+  {
+    "id": "p-c45f37",
+    "offset": 12207,
+    "text": "ARGYRIPPUS:\nIs there any escape at all? Have you conversed enough?"
+  },
+  {
+    "id": "p-1cdcd3",
+    "offset": 12275,
+    "text": "LEONIDA:\nListen, and give attention, and devour my words."
+  },
+  {
+    "id": "p-c2245b",
+    "offset": 12334,
+    "text": "First of all, that we are your slaves, we don’t deny; but if twenty silver minae are forthcoming for you, by what name will you call us?"
+  },
+  {
+    "id": "p-9d7f8c",
+    "offset": 12472,
+    "text": "ARGYRIPPUS:\nFreed-men."
+  },
+  {
+    "id": "p-83c69f",
+    "offset": 12496,
+    "text": "LEONIDA:\nAnd not patrons?"
+  },
+  {
+    "id": "p-2dd5f7",
+    "offset": 12523,
+    "text": "ARGYRIPPUS:\nThat in preference."
+  },
+  {
+    "id": "p-d4c132",
+    "offset": 12556,
+    "text": "LEONIDA:\n(produces the bag.)\nHere are twenty minae in this bag. These, if you like, I’ll give you."
+  },
+  {
+    "id": "p-f1eaa2",
+    "offset": 12656,
+    "text": "ARGYRIPPUS:\nMay the Deities ever preserve you, protector of your master, honor to the people, treasury of resources, preserver of my inner man, and commander of love; place it here, put down that bag, here on the spot, at once."
+  },
+  {
+    "id": "p-c71051",
+    "offset": 12885,
+    "text": "LEONIDA:\nI don’t like you, who are my master, to carry this load."
+  },
+  {
+    "id": "p-e885a4",
+    "offset": 12952,
+    "text": "ARGYRIPPUS:\nStill, do you rid yourself of the trouble, and fasten that bag to myself."
+  },
+  {
+    "id": "p-d2d1f1",
+    "offset": 13039,
+    "text": "LEONIDA:\nI’ll carry it, porter-like; you, as befits my master, go, without any burden, before me."
+  },
+  {
+    "id": "p-9234ab",
+    "offset": 13138,
+    "text": "ARGYRIPPUS:\nHow now?"
+  },
+  {
+    "id": "p-7f6706",
+    "offset": 13160,
+    "text": "Why’s this?"
+  },
+  {
+    "id": "p-8dbcba",
+    "offset": 13173,
+    "text": "Why don’t you give up the bag here, for your master to feel its weight?"
+  },
+  {
+    "id": "p-8ffaa7",
+    "offset": 13246,
+    "text": "LEONIDA:\nBid her to whom I’m about to give it, to beg and entreat it of me. For that’s a dangerous spot where you bid me put it down at once."
+  },
+  {
+    "id": "p-76d506",
+    "offset": 13389,
+    "text": "PHILENIUM:\n(to LEONIDA.)\nApple of my eye, my rose, my life, my delight,"
+  },
+  {
+    "id": "p-a0579d",
+    "offset": 13462,
+    "text": "Leonida, do give me the money, and don’t sever us lovers asunder."
+  },
+  {
+    "id": "p-1f23e7",
+    "offset": 13529,
+    "text": "LEONIDA:\n(to PHILENIUM.)\nCall me, then, your little sparrow, your chicken, your quail, your pet lamb: say that I’m your pet kid or your pet calf; take me by the ears, press your lips to my lips."
+  },
+  {
+    "id": "p-c79e6d",
+    "offset": 13725,
+    "text": "ARGYRIPPUS:\nShe, kiss you, you whip-scoundrel?"
+  },
+  {
+    "id": "p-948e15",
+    "offset": 13773,
+    "text": "LEONIDA:\nReally, how unbecoming it does seem!"
+  },
+  {
+    "id": "p-8cc08b",
+    "offset": 13820,
+    "text": "But, by the powers, you shan’t get it this day, if my knees are not embraced."
+  },
+  {
+    "id": "p-aeb474",
+    "offset": 13899,
+    "text": "ARGYRIPPUS:\n(aside.)\nNecessity compels to anything. (To LEONIDA.) Let them be embraced (kneels down and embraces his knees): now give what I’m asking for."
+  },
+  {
+    "id": "p-9b7347",
+    "offset": 14055,
+    "text": "PHILENIUM:\nCome, my Leonida, prithee do bring safety to your master thus in love. Redeem yourself from him by this service, and purchase him for yourself with this money."
+  },
+  {
+    "id": "p-5a3268",
+    "offset": 14227,
+    "text": "LEONIDA:\nYou are very pretty and amiable; and if this were mine, you should never this day ask me for it, but I would give it you:’tis better for you to ask it of him (pointing to LIBANUS), for’twas he gave it me to keep for him. Approach him then prettily, my pretty one. (Delivers the bag to LIBANUS.) Take this, please, Libanus."
+  },
+  {
+    "id": "p-6e4438",
+    "offset": 14560,
+    "text": "ARGYRIPPUS:\nScoundrel, are you still trifling with me?"
+  },
+  {
+    "id": "p-65ab57",
+    "offset": 14616,
+    "text": "LEONIDA:\nI’ faith, I should never have done so, if you hadn’t embraced my knees so roughly. (Aside to LIBANUS.) Come, please, in your turn, do you at once have some sport with him, and give her an embrace."
+  },
+  {
+    "id": "p-920a9a",
+    "offset": 14823,
+    "text": "LIBANUS:\n(aside to LEONIDA.)\nHold your tongue; trust me for that."
+  },
+  {
+    "id": "p-c16619",
+    "offset": 14890,
+    "text": "ARGYRIPPUS:\nWhy don’t we accost him, Philenium? (pointing to LIBANUS) —really, a very worthy fellow, upon my faith, and not like this thief (pointing to LEONIDA)."
+  },
+  {
+    "id": "p-719757",
+    "offset": 15054,
+    "text": "LIBANUS:\n(aside to LEONIDA.)\nWe must walk up and down; now, in my turn, they’ll be entreating me."
+  },
+  {
+    "id": "p-b30054",
+    "offset": 15153,
+    "text": "ARGYRIPPUS:\nBy heaven, Libanus, I do entreat you, be pleased by your deeds to come to your master’s rescue; do give me those twenty minae: you see that thus in love I stand in need of them."
+  },
+  {
+    "id": "p-1850d1",
+    "offset": 15344,
+    "text": "LIBANUS:\nIt shall be seen to; I wish it done; return here at nightfall. Now bid her, ever so little, to beg and entreat them of me."
+  },
+  {
+    "id": "p-81bef5",
+    "offset": 15477,
+    "text": "PHILENIUM:\n(to LIBANUS.)\nDo you wish me to begin with caressing, or with kissing you?"
+  },
+  {
+    "id": "p-68de18",
+    "offset": 15564,
+    "text": "LIBANUS:\nWhy, really, with them both."
+  },
+  {
+    "id": "p-bc8ece",
+    "offset": 15603,
+    "text": "PHILENIUM:\nAnd do you then, I do entreat you, prove the saving of us both."
+  },
+  {
+    "id": "p-00c2e8",
+    "offset": 15679,
+    "text": "ARGYRIPPUS:\nO Libanus, my patron, do give me that;’tis more becoming for the freed-man, than for the patron, to be carrying a burden in the street."
+  },
+  {
+    "id": "p-8aa386",
+    "offset": 15828,
+    "text": "PHILENIUM:\nMy Libanus, golden apple of my eye, the gift and the very grace of love; there’s a dear, whatever you wish, I’ll do; prithee, do give us that money."
+  },
+  {
+    "id": "p-28d3ae",
+    "offset": 15989,
+    "text": "LIBANUS:\nCall me, then, your little duck, dove, or your puppet; your swallow, jackdaw, little sparrow, your mannikin:"
+  },
+  {
+    "id": "p-8f3b55",
+    "offset": 16108,
+    "text": "make of me the reptile that crawls, so that I may have a double tongue; enfold me in your arms, and embrace my neck."
+  },
+  {
+    "id": "p-0996bd",
+    "offset": 16226,
+    "text": "ARGYRIPPUS:\nShe, embrace you, villain?"
+  },
+  {
+    "id": "p-61b652",
+    "offset": 16266,
+    "text": "LIBANUS:\nReally, how undeserving I do seem. You shan’t for no purpose have uttered a speech so unseemly against me. By my troth, if indeed you expect to get this money, this day you shall carry myself on your shoulders."
+  },
+  {
+    "id": "p-2c318b",
+    "offset": 16487,
+    "text": "ARGYRIPPUS:\nWhat? I, carry you?"
+  },
+  {
+    "id": "p-0e3d5c",
+    "offset": 16520,
+    "text": "LIBANUS:\nOtherwise, you shan’t get this money from me."
+  },
+  {
+    "id": "p-98544f",
+    "offset": 16576,
+    "text": "ARGYRIPPUS:\nHeavens, I’m undone! Still, if indeed it is decorous for the master to carry the servant, mount."
+  },
+  {
+    "id": "p-d5019a",
+    "offset": 16686,
+    "text": "LIBANUS:\nIn this way are proud people wont to be tamed. Stand still then, just as you were wont to do when formerly a boy. Do you understand what I say? (He prepares to get upon the shoulders of ARGYRIPPUS.) Aye—so—move on: I praise you much; not any horse is there more clever than yourself as a horse."
+  },
+  {
+    "id": "p-0982dc",
+    "offset": 16991,
+    "text": "ARGYRIPPUS:\n(while stooping.)\nGet on, directly."
+  },
+  {
+    "id": "p-1f976e",
+    "offset": 17040,
+    "text": "LIBANUS:\nI’ll do so. (He gets on.) Hallo!—what’s the matter? How are you going? By my troth, I’ll deprive you of your barley then, if you don’t amble, lifting up your feet."
+  },
+  {
+    "id": "p-1d2859",
+    "offset": 17214,
+    "text": "ARGYRIPPUS:\nPrithee, Libanus, there’s enough now."
+  },
+  {
+    "id": "p-5b27ad",
+    "offset": 17265,
+    "text": "LIBANUS:\nNever this day, by my troth, shall you get anything by entreaty. For now up hill with the spur will I push on my steed. After that, I’ll deliver you to the millers, that there you may be tortured as you run."
+  },
+  {
+    "id": "p-24a9ac",
+    "offset": 17483,
+    "text": "Stand still, that I may now at once get down for the hill, although you are but a bad one.\n(Gets off his shoulders.)"
+  },
+  {
+    "id": "p-7e7797",
+    "offset": 17601,
+    "text": "ARGYRIPPUS:\nWell now—since you’ve both made fun of me just as you liked, are you going to give the money?"
+  },
+  {
+    "id": "p-8d9d70",
+    "offset": 17708,
+    "text": "LIBANUS:\nWhy, yes, if, indeed, you erect to me a statue and an altar, and then sacrifice an ox to me here as though to a God; for I am the Divinity Salvation to you."
+  },
+  {
+    "id": "p-dbe780",
+    "offset": 17875,
+    "text": "LEONIDA:\nNay, but, master, do you betake yourself away from him, and do you come to me."
+  },
+  {
+    "id": "p-58897d",
+    "offset": 17964,
+    "text": "And, what he has demanded for himself, will you erect a statue for me, and offer prayers to me?"
+  },
+  {
+    "id": "p-5c928a",
+    "offset": 18061,
+    "text": "ARGYRIPPUS:\nBut what Divinity am I to call you?"
+  },
+  {
+    "id": "p-1d1b54",
+    "offset": 18110,
+    "text": "LEONIDA:\nFortune, and that the Propitious one."
+  },
+  {
+    "id": "p-aba235",
+    "offset": 18158,
+    "text": "ARGYRIPPUS:\nYou are better than he then."
+  },
+  {
+    "id": "p-e03c79",
+    "offset": 18200,
+    "text": "LIBANUS:\nWhy, is there ever anything better for a man than Salvation?"
+  },
+  {
+    "id": "p-b1995a",
+    "offset": 18271,
+    "text": "ARGYRIPPUS:\nThough I praise Fortune, still, not to speak in dispraise of the Divinity Salvation—"
+  },
+  {
+    "id": "p-c08508",
+    "offset": 18369,
+    "text": "PHILENIUM:\nBy the powers, but they are good, both of them."
+  },
+  {
+    "id": "p-2e05db",
+    "offset": 18429,
+    "text": "ARGYRIPPUS:\nI shall know it, when they have conferred anything that’s good."
+  },
+  {
+    "id": "p-e7e8d5",
+    "offset": 18506,
+    "text": "LEONIDA:\nWish for that which you desire to befall you."
+  },
+  {
+    "id": "p-f1f2ee",
+    "offset": 18562,
+    "text": "ARGYRIPPUS:\nWhat if I do wish it?"
+  },
+  {
+    "id": "p-706ef7",
+    "offset": 18597,
+    "text": "LEONIDA:\nIt shall come to pass."
+  },
+  {
+    "id": "p-2939c3",
+    "offset": 18630,
+    "text": "ARGYRIPPUS:\nI wish for her to be devoted to me alone this whole year round."
+  },
+  {
+    "id": "p-34280d",
+    "offset": 18707,
+    "text": "LEONIDA:\nYou have obtained it."
+  },
+  {
+    "id": "p-614b8f",
+    "offset": 18739,
+    "text": "ARGYRIPPUS:\nDo you really say so?"
+  },
+  {
+    "id": "p-447bf5",
+    "offset": 18774,
+    "text": "LEONIDA:\nI do say so for certain."
+  },
+  {
+    "id": "p-81c669",
+    "offset": 18809,
+    "text": "LIBANUS:\nCome to me, in my turn, and make trial: wish ardently for that which you especially desire to happen to you; it shall be done."
+  },
+  {
+    "id": "p-456cc3",
+    "offset": 18946,
+    "text": "ARGYRIPPUS:\nWhat other thing could I ardently wish for rather than that of which I am in want?"
+  },
+  {
+    "id": "p-a87c43",
+    "offset": 19042,
+    "text": "Oblige me with twenty silver minae to give to her mother."
+  },
+  {
+    "id": "p-8d0189",
+    "offset": 19101,
+    "text": "LIBANUS:\nThey shall be given: take care and be of good courage, your wishes shall be fulfilled."
+  },
+  {
+    "id": "p-4df13e",
+    "offset": 19198,
+    "text": "ARGYRIPPUS:\nJust as they are wont, Salvation and Fortune are deceiving mortals."
+  },
+  {
+    "id": "p-a6824f",
+    "offset": 19279,
+    "text": "LEONIDA:\nI this day have been the head in finding this money for you."
+  },
+  {
+    "id": "p-eb6129",
+    "offset": 19350,
+    "text": "LIBANUS:\nI have been the foot."
+  },
+  {
+    "id": "p-6f2cb8",
+    "offset": 19382,
+    "text": "ARGYRIPPUS:\nWhy, neither head nor foot of your talking is visible;"
+  },
+  {
+    "id": "p-3b472c",
+    "offset": 19450,
+    "text": "I can understand neither what you mean, nor why you are trifling with me."
+  },
+  {
+    "id": "p-5a3587",
+    "offset": 19525,
+    "text": "LIBANUS:\nI think that now you’ve been teased enough; now let’s disclose the matter as it really stands. Give your attention, Argyrippus, if you please. Your father has ordered us to bring this money to you."
+  },
+  {
+    "id": "p-f05126",
+    "offset": 19733,
+    "text": "ARGYRIPPUS:\nHow very à propos and opportunely you have brought it."
+  },
+  {
+    "id": "p-d01290",
+    "offset": 19801,
+    "text": "LIBANUS:\n(giving him the bag.)\nHere, in this, there will be twenty good minae, obtained by bad means:"
+  },
+  {
+    "id": "p-7078b9",
+    "offset": 19904,
+    "text": "these, on certain conditions, he bade us give you."
+  },
+  {
+    "id": "p-de2f0a",
+    "offset": 19956,
+    "text": "ARGYRIPPUS:\nPrithee, what are they?"
+  },
+  {
+    "id": "p-b69868",
+    "offset": 19993,
+    "text": "LIBANUS:\nThat you would grant him her favours and an entertainment."
+  },
+  {
+    "id": "p-460a10",
+    "offset": 20062,
+    "text": "ARGYRIPPUS:\nBid him come, I beg. For him who deserves it right well, we’ll do what he wishes, him who has brought these scattered loves of ours to a happy result."
+  },
+  {
+    "id": "p-a5958f",
+    "offset": 20226,
+    "text": "LEONIDA:\nYou’ll permit your father then, Argyrippus, to caress her?"
+  },
+  {
+    "id": "p-237ecc",
+    "offset": 20295,
+    "text": "ARGYRIPPUS:\nShe, by being restored to me, will easily cause me to permit it."
+  },
+  {
+    "id": "p-fb0fa1",
+    "offset": 20373,
+    "text": "Prithee, Leonida, run, and beg my father to come here."
+  },
+  {
+    "id": "p-05572f",
+    "offset": 20429,
+    "text": "LIBANUS:\nHe has been in the house some time."
+  },
+  {
+    "id": "p-895ca5",
+    "offset": 20475,
+    "text": "ARGYRIPPUS:\nHe hasn’t come this way, at all events."
+  },
+  {
+    "id": "p-1ab721",
+    "offset": 20528,
+    "text": "LIBANUS:\n(pointing to the back way.)\nHe came round that way by the lane, through the garden, lest any one of his friends should see him coming here; he’s afraid that his wife may come to know of it. If your mother knew about the money, how it was obtained—"
+  },
+  {
+    "id": "p-356823",
+    "offset": 20786,
+    "text": "ARGYRIPPUS:\nWell, well— do use words of good omens;"
+  },
+  {
+    "id": "p-d90dfb",
+    "offset": 20839,
+    "text": "go in-doors quickly, farewell."
+  },
+  {
+    "id": "p-5bdf07",
+    "offset": 20871,
+    "text": "LEONIDA:\nAnd you two, love on.\n(He and LIBANUS go into the house of DEMAENETUS; ARGYRIPPUS and PHILENIUM into that of CLEAERETA.)"
+  }
+]

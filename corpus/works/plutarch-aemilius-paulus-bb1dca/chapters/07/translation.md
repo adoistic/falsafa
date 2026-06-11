@@ -1,0 +1,43 @@
+---
+work_id: "bb1dca75-cfb5-5d39-a1ea-40b33aae8481"
+work_slug: "plutarch-aemilius-paulus-bb1dca"
+work_title: Aemilius Paulus
+author_name: Plutarch
+chapter_number: 7
+chapter_title: Chapter 8
+chapter_slug: 07
+variant_id: "b0c988ba-1121-5f7e-8e55-b083e118fb3e"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 561
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg019.perseus-eng2:7"
+translator: Bernadotte Perrin
+---
+
+Antigonus, who was the most powerful of Alexander’s generals and successors, and acquired for himself and his line the title of King, had a son Demetrius, and his son was Antigonus surnamed Gonatas.
+
+His son in turn was Demetrius, who, after reigning himself for a short time, died, leaving a son Philip still in his boyhood.
+
+The leading Macedonians, fearing the anarchy which might result, called in Antigonus, a cousin of the dead king, and married him to Philip’s mother, calling him first regent and general, and then, finding his rule moderate and conducive to the general good, giving him the title of King. He received the surname of Doson, which implied that he was given to promising but did not perform his engagements.
+
+After him Philip succeeded to the throne, and, though still a youth, flowered out in the qualities which most distinguish kings, and led men to believe that he would restore Macedonia to her ancient dignity, and that he, and he alone, would check the power of Rome, which already extended over all the world.
+
+But after he was defeated in a great battle at Scotussa by Titus Flamininus, for a time he took a humble posture, entrusted all his interests to the Romans, and was content to come off with a moderate fine.
+
+Afterwards, however, his condition oppressed him, and thinking that to reign by favour of the Romans was more the part of a captive satisfied with meat and drink than of a man possessed of courage and spirit, he turned his thoughts to war, and made his arrangements for it in secrecy and with cunning.
+
+Thus, those of his cities which lay on the highroads and the seashore he suffered to become weak and rather desolate, so as to awaken contempt, while in the interior he was collecting a large force; he also filled the fortresses, strongholds, and cities of the interior with an abundance of arms, money, and men fit for service, in this way preparing himself for the war, and yet keeping it hidden away, as it were, and concealed.
+
+Thus, he had arms to equip thirty thousand men laid up in reserve, eight million bushels of grain had been immured in his strongholds, and a sum of money sufficient to maintain for ten years ten thousand mercenaries fighting in defence of the country.
+
+But Philip, before he could put these plans and preparations into effect, died of grief and anguish of mind; for he came to know that he had unjustly put to death one of his sons, Demetrius, on false charges made by the other, who was his inferior.
+
+The son, however, whom he left, Perseus, along with his father’s kingdom, inherited his hatred of the Romans, but was not equal to the burden because of the littleness and baseness of his character, in which, among all sorts of passions and distempers, avarice was the chief trait.
+
+And it is said that he was not even a true-born son, but that Philip’s wife took him at his birth from his mother, a certain sempstress, an Argive woman named Gnathaenion, and passed him off as her own.
+
+And this was the chief reason, as it would seem, why he feared Demetrius and compassed his death, lest the royal house having a true-born heir to the throne, should uncover his own spurious birth.

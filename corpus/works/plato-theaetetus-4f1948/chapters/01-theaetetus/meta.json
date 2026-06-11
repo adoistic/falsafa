@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-theaetetus-4f1948",
+  "work_title": "Theaetetus",
+  "chapter_number": 1,
+  "chapter_title": "Theaetetus",
+  "chapter_slug": "01-theaetetus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cdb41c6e-23dd-5ba0-ac97-89e58f183934",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 23501,
+      "paragraph_count": 1257,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg006.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5368a371-a7d9-5b1d-853c-c68e4e14143a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 33917,
+      "paragraph_count": 1076,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg006.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-caius-marcius-coriolanus-f96f13",
+  "work_title": "Caius Marcius Coriolanus",
+  "chapter_number": 28,
+  "chapter_title": "Chapter 28",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5f54816d-dac2-5466-b78d-ff8c2ccd2407",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 190,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg016.perseus-grc2:28"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4e6bb3de-337b-57a3-a7c3-6fe9b6b16838",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 302,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg016.perseus-eng2:28"
+    }
+  ]
+}

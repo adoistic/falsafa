@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-aratus-f75110",
+  "work_title": "Aratus",
+  "chapter_number": 28,
+  "chapter_title": "Chapter 28",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4f36da57-cfe1-5d01-9c0e-54e05e478d5f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 208,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg063.perseus-grc2:28"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "45129e43-2472-51a9-9d75-2b90e77cb995",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 330,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg063.perseus-eng2:28"
+    }
+  ]
+}

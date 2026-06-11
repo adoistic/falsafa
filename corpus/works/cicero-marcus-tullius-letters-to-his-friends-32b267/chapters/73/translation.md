@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 73
+chapter_title: "Chapter text=F:book=7:letter=11"
+chapter_slug: 73
+variant_id: "3d8f6afc-9a0b-5239-9619-d858f7231d25"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 363
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:73"
+translator: Perseus Digital Library
+---
+
+TO C. TREBATIUS TESTA (IN GAUL) ROME (JANUARY OR FEBRUARY)
+
+If you had not left Rome before, you certainly would have left it now. For who wants a lawyer when there are so many interregna? I shall advise all defendants in civil suits to ask each interrex for two adjournments for obtaining legal assistance. Do you think that I have taken a pretty good hint from you as to civil procedure? But come! How are you? What is happening? For I notice in your letter a tendency to be even jocose. These are better signs than the signa in my Tusculan villa. But I want to know what it means. You say, indeed, that you are consulted by Caesar, but I should have preferred his consulting by you. If that is taking place, or you think it likely to take place, by all means persevere in your military service and stay on: I shall console myself for my loss of you by the hope that it will be your gain: but if, on the other hand, things are not paying with you, come back to us. For either something will turn up sooner or later here, or, if not, one conversation between you and me, by heaven, will be worth more than all the Samobrivae in the world. Finally, if you return speedily, there will be no talk about it; but if you stay away much longer without getting anything, I am in terror not only of Laberius, but of our comrade Valerius also. For it would make a capital character for a farce—a British lawyer! I am not laughing though you may laugh, but, as usual, when writing to you, I jest on the most serious subject. Joking apart, I advise you in the most friendly spirit, that if you hold a position for yourself worthy of my introduction, you should put up with the loss of my society and farther your own career and wealth: but if things are stagnant with you there, come back to us. In spite of everything you will get all you want, by your own good qualities certainly, but also by my extreme affection for you.

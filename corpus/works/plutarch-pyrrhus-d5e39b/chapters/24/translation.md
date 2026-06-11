@@ -1,0 +1,27 @@
+---
+work_id: "d5e39b37-e85c-5e93-93f5-26c6ad3bd1a5"
+work_slug: "plutarch-pyrrhus-d5e39b"
+work_title: Pyrrhus
+author_name: Plutarch
+chapter_number: 24
+chapter_title: Chapter 24
+chapter_slug: 24
+variant_id: "7008e703-adfe-5a40-a495-16638f97f229"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 338
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg030.perseus-eng2:24"
+translator: Bernadotte Perrin
+---
+
+But the Barbarians combined against him as he was setting sail. With the Carthaginians he fought a sea-fight in the strait and lost many of his ships, but escaped with the rest to Italy; and here the Mamertines, more than ten thousand of whom had crossed in advance of him, though they were afraid to match forces with him, yet threw his whole army into confusion by setting upon him and assailing him in difficult regions. Two of his elephants fell, and great numbers of his rearguard were slain.
+
+Accordingly, riding up in person from the van, he sought to ward off the enemy, and ran great risks in contending with men who were trained to fight and were inspired with high courage. And when he was wounded on the head with a sword and withdrew a little from the combatants, the enemy were all the more elated. One of them ran forth far in advance of the rest, a man who was huge in body and resplendent in armour, and in a bold voice challenged Pyrrhus to come out, if he were still alive.
+
+This angered Pyrrhus, and wheeling round in spite of his guards, he pushed his way through them-full of wrath, smeared with blood, and with a countenance terrible to look upon, and before the Barbarian could strike dealt him such a blow on the head with his sword that, what with the might of his arm and the excellent temper of his steel, it cleaved its way down through, so that at one instant the parts of the sundered body fell to either side.
+
+This checked the Barbarians from any further advance, for they were amazed and confounded at Pyrrhus, and thought him some superior being. So he accomplished the rest of his march unmolested and came to Tarentum, bringing twenty thousand foot and three thousand horse. Then, adding to his force the best troops of the Tarentines, he forthwith led them against the Romans, who were encamped in the country of the Samnites.

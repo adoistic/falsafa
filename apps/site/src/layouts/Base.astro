@@ -10,9 +10,16 @@ interface Props {
   title: string;
   description?: string;
   ogImage?: string;
+  /**
+   * Which of the two site surfaces this page belongs to. The reader surface
+   * is the library: works, authors, eras, the atlas, the book. The engine
+   * surface is the technical artifact: thesis, evals, numbers, the live
+   * demo, MCP. Same site, same URLs; only the chrome changes.
+   */
+  surface?: "reader" | "engine";
 }
 
-const { title, description, ogImage } = Astro.props;
+const { title, description, ogImage, surface = "reader" } = Astro.props;
 const siteName = "Falsafa";
 const fullTitle = title === siteName ? title : `${title} · ${siteName}`;
 
@@ -20,13 +27,25 @@ const fullTitle = title === siteName ? title : `${title} · ${siteName}`;
 // still highlights READ. Order matters — first match wins.
 const path = Astro.url.pathname;
 type NavItem = { label: string; href: string; matchPrefix: string };
-const navItems: NavItem[] = [
+const readerNav: NavItem[] = [
   { label: "Read", href: "/works/", matchPrefix: "/works/" },
+  { label: "Atlas", href: "/atlas/", matchPrefix: "/atlas/" },
+  { label: "Book", href: "/book/", matchPrefix: "/book/" },
+  { label: "About", href: "/about/", matchPrefix: "/about/" },
+];
+const engineNav: NavItem[] = [
+  { label: "Engine", href: "/engine/", matchPrefix: "/engine/" },
   { label: "Try", href: "/try/", matchPrefix: "/try/" },
   { label: "Eval", href: "/eval/", matchPrefix: "/eval/" },
   { label: "Thesis", href: "/thesis/", matchPrefix: "/thesis/" },
   { label: "Numbers", href: "/numbers/", matchPrefix: "/numbers/" },
 ];
+const navItems = surface === "engine" ? engineNav : readerNav;
+// The quiet crossing between the two surfaces.
+const crossLink =
+  surface === "engine"
+    ? { label: "Library", href: "/" }
+    : { label: "Engine room", href: "/engine/" };
 const isActive = (item: NavItem) => path === item.href || path.startsWith(item.matchPrefix);
 ---
 
@@ -80,6 +99,7 @@ const isActive = (item: NavItem) => path === item.href || path.startsWith(item.m
             {item.label}
           </a>
         ))}
+        <a href={crossLink.href} class="nav-link surface-link">{crossLink.label}</a>
       </nav>
 
       <div class="header-actions">
@@ -150,6 +170,11 @@ const isActive = (item: NavItem) => path === item.href || path.startsWith(item.m
               </a>
             </li>
           ))}
+          <li>
+            <a href={crossLink.href} class="nav-drawer-link surface-link">
+              {crossLink.label}
+            </a>
+          </li>
         </ul>
       </nav>
     </div>
@@ -163,11 +188,12 @@ const isActive = (item: NavItem) => path === item.href || path.startsWith(item.m
     <footer class="site-footer">
       <div>
         Translations and transliterations by
-        <a href="https://thothica.com">Thothica</a>.
+        <a href="https://thothica.com">Thothica</a>, unless the chapter
+        credits another translator.
       </div>
       <div class="caveat">
-        Translations and transliterations are AI-assisted. AI can make
-        mistakes &mdash; when accuracy matters, verify against the
+        Thothica's translations and transliterations are AI-assisted. AI can
+        make mistakes &mdash; when accuracy matters, verify against the
         original-language source linked on each chapter page. See
         <a href="/about/#sources">/about/#sources</a> for the
         underlying source archives.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-apophthegmata-laconica-573905",
+  "work_title": "Apophthegmata Laconica",
+  "chapter_number": 13,
+  "chapter_title": "Chapter 18",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "269d6403-e017-5586-8542-e8b6fea4ed0c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 218,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg082.perseus-grc4:13"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cf15bf0f-b53d-58a6-8ebc-21f7d22f1155",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 64,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg082.perseus-eng4:13"
+    }
+  ]
+}

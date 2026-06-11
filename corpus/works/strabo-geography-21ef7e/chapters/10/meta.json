@@ -1,0 +1,38 @@
+{
+  "work_slug": "strabo-geography-21ef7e",
+  "work_title": "Geography",
+  "chapter_number": 10,
+  "chapter_title": "Book 9",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d5f8d7d7-6368-5b46-9d2f-d78b76d9822e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 14880,
+      "paragraph_count": 107,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0099.tlg001.perseus-grc2:10"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aed41033-64da-59c6-b67f-a61206776ce8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 23572,
+      "paragraph_count": 290,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0099.tlg001.perseus-eng4:10"
+    }
+  ]
+}

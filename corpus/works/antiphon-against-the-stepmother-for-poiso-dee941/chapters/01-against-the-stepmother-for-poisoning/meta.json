@@ -1,0 +1,38 @@
+{
+  "work_slug": "antiphon-against-the-stepmother-for-poiso-dee941",
+  "work_title": "Against the Stepmother for Poisoning",
+  "chapter_number": 1,
+  "chapter_title": "Against the Stepmother for Poisoning",
+  "chapter_slug": "01-against-the-stepmother-for-poisoning",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "95cdadb9-0af7-50fe-b0d0-5b0c55e1f112",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1756,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0028.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1c0cba6-591e-5d6f-bb99-e08ef8ba1486",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2383,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0028.tlg001.perseus-eng2"
+    }
+  ]
+}

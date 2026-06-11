@@ -1,0 +1,38 @@
+{
+  "work_slug": "virgil-aeneid-659242",
+  "work_title": "Aeneid",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "31c9946f-7317-5c40-aac6-680a4dc46ff4",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4865,
+      "paragraph_count": 321,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi003.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1308952e-654a-50d5-a426-d68e694df06a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8033,
+      "paragraph_count": 274,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi003.perseus-eng2:1"
+    }
+  ]
+}

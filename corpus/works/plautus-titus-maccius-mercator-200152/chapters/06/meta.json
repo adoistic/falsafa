@@ -1,0 +1,26 @@
+{
+  "work_slug": "plautus-titus-maccius-mercator-200152",
+  "work_title": "Mercator",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "06",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "72750822-9e45-5fb6-a080-6df446634eaa",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3356,
+      "paragraph_count": 214,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi011.perseus-eng2:6"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "ovid-metamorphoses-b0cbc2",
+  "work_title": "Metamorphoses",
+  "chapter_number": 16,
+  "chapter_title": "Book 16",
+  "chapter_slug": "16",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "747d2c1e-68f6-58b8-a7dd-ffa8c672a831",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9068,
+      "paragraph_count": 845,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi006.perseus-eng4:16"
+    }
+  ]
+}

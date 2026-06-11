@@ -1,0 +1,38 @@
+{
+  "work_slug": "aeschylus-persians-42a872",
+  "work_title": "Persians",
+  "chapter_number": 1,
+  "chapter_title": "Persians",
+  "chapter_slug": "01-persians",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "63ab7ad9-6484-5ba4-9ec2-700d5c6f2d47",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5421,
+      "paragraph_count": 1064,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg002.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49797fb5-3527-53de-979d-b52e91d1e35e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9157,
+      "paragraph_count": 279,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg002.perseus-eng2"
+    }
+  ]
+}

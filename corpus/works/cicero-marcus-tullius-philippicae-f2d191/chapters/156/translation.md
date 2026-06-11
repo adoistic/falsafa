@@ -1,0 +1,23 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 156
+chapter_title: Chapter 10
+chapter_slug: 156
+variant_id: "076a503c-2462-5ffb-9025-bed1e896076c"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 579
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:156"
+translator: Perseus Digital Library
+---
+
+Add to these considerations the way men talk, the way in which they nourish suspicion, the way in which they take dislikes. Imitate me whom you have always praised; for I rejected a province fully appointed and provided by the senate, for the purpose of discarding all other thoughts, and devoting all my efforts to extinguishing the conflagration that threatened to consume my country. There was no one except me alone, to whom, indeed, you would, in consideration of our intimacy, have been sure to communicate any thing which concerned your interests, who would believe that the province had been decreed to you against your will. I entreat you, check, as is due to your eminent wisdom, this report, and do not seem to be desirous of that which you do not in reality care about. And you should take the more care of this point, because your colleague, a most illustrious man, can not fall under the same suspicion. He knows nothing of all that is going on here; he suspects nothing; he is conducting the war; he is standing in battle array; he is fighting for his blood and for his life; he will hear of the province being decreed to him before he could imagine that there had been time for such a proceeding. I am afraid that our armies too, which have devoted themselves to the republic, not from any compulsory levy, but of their own voluntary zeal, will be checked in their ardor, if they suppose that we are thinking of any thing but instant war.
+
+But if provinces appear to the consuls as things to be desired, as they often have been desired by many illustrious men; first restore us Brutus, the light and glory of the state; whom we ought to preserve like that statue which fell from heaven, and is guarded by the protection of Vesta: which, as long as it is safe, insures our safety also. Then we will raise you, if it be possible, even to heaven on our shoulders; unquestionably we will select for you the most worthy provinces. But at present let us apply ourselves to the business before us. And the question is, whether we will live as freemen, or die; for death is certainly to be preferred to slavery. What more need I say? Suppose that proposition causes delay in the pursuit of Dolabella? For when will the consul arrive? Are we waiting till there is not even a vestige of the towns and cities of Asia left? “But they will send some one of their officers.”—That will certainly be a step that I shall quite approve of; I who just now objected to giving any extraordinary military command to ever so illustrious a man if he were only a private individual. “But they will send a man worthy of such a charge.” Will they send one more worthy than Publius Servilius? But the city has not such a man. What then he himself thinks ought to be given to no one, not even by the senate, can I approve of that being conferred by the decision of one man? We have need, O conscript fathers, of a man ready and prepared, and of one who has a military command legally conferred on him; and of one who, besides this, has authority, and a name, and an army, and a courage which has been already tried in his exertions for the deliverance of the republic.

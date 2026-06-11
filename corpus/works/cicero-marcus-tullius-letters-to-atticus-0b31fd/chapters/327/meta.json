@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+  "work_title": "Letters to Atticus",
+  "chapter_number": 327,
+  "chapter_title": "Chapter text=A:book=13:letter=11",
+  "chapter_slug": "327",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a63bbf14-6f4d-5547-8360-e8b1a79c6cc4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 167,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:327"
+    }
+  ]
+}

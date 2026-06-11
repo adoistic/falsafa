@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-nero-2475f9",
+  "work_title": "Nero",
+  "chapter_number": 43,
+  "chapter_title": "Chapter 45",
+  "chapter_slug": "43",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "62b1f492-9c55-5762-a84e-7b029f6a598b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 81,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo016.perseus-lat2:43"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d3ccd2bb-773f-56bd-8517-1664d01e15d6",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 159,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo016.perseus-eng2:43"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "catullus-c-valerius-carmina-e8bcbc",
+  "work_title": "Carmina",
+  "chapter_number": 31,
+  "chapter_title": "Chapter 35",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "027c3f5b-c9ff-51d0-85e3-c19b4dac95f7",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 133,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0472.phi001.perseus-eng4:31"
+    }
+  ]
+}

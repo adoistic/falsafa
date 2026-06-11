@@ -1,0 +1,38 @@
+{
+  "work_slug": "plautus-titus-maccius-trinummus-d64ecd",
+  "work_title": "Trinummus",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "06",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "96853d89-8e3b-5646-9a6d-9b05f32acd5c",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 705,
+      "paragraph_count": 93,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi019.perseus-lat2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2d7bc915-6327-5faf-b2a3-3932be0def9e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5020,
+      "paragraph_count": 264,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi019.perseus-eng2:6"
+    }
+  ]
+}

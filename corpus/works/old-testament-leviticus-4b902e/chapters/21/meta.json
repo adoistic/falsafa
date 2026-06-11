@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-leviticus-4b902e",
+  "work_title": "Leviticus",
+  "chapter_number": 21,
+  "chapter_title": "Chapter 21",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b98d91c5-352e-55e9-b8a0-06a8d9ed5f1c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 452,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg003.1st1K-grc1:21"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc0b14a7-7dad-5dc7-b88b-1f885da84b47",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 576,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg003.perseus-eng2:21"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 96
+chapter_title: Chapter 14
+chapter_slug: 96
+variant_id: "e726e984-40c3-528f-8f4d-5c20d58a1bea"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 395
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:96"
+translator: Perseus Digital Library
+---
+
+And, furthermore I give my vote that the most simple honors be decreed to Marcus Lepidus as a reward for his eminent services to the republic. He has at all times wished the Roman people to be free; and he gave the greatest proof of his inclination and opinion on that day, when, while Antonius was placing the diadem on Caesar's head, he turned his face away, and by his groans and sorrow showed plainly what a hatred of slavery he had, how desirous he was for the Roman people to be free, and how he had endured those things which he had endured, more because of the necessity of the times, than because they harmonized with his sentiments. And who of us can forget with what great moderation he behaved during that crisis of the city which ensued after the death of Caesar? These are great merits; but I hasten to speak of greater still. For (O ye immortal gods!) what could happen more to be admired by foreign nations, or more to be desired by the Roman people than, at a time when there was a most important civil war, the result of which we were all dreading, that it should be extinguished by prudence rather than that arms and violence should be able to put every thing to the hazard of a battle? And if Caesar had been guided by the same principles in that odious and miserable war, we should have—to say nothing of their father—the two sons of Cnaeus Pompeius, that most illustrious and virtuous man, safe among us; men whose piety and filial affection certainly ought not to have been their ruin. Would that Marcus. Lepidus had been able to save them all! He showed that he would have done so, by his conduct in cases where he had the power; when he restored Sextus Pompeius to the state, a great ornament to the republic, and a most illustrious monument of his clemency. Sad was that picture, melancholy was the destiny then of the Roman people. For after Pompeius the father was dead, he who was the light of the Roman people, the son too, who was wholly like his father, was also slain. But all these calamities appear to me to have been effaced by the kindness of the immortal gods, Sextus Pompeius being preserved to the republic.

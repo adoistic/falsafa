@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-harmonides-b744a7",
+  "work_title": "Harmonides",
+  "chapter_number": 1,
+  "chapter_title": "Harmonides",
+  "chapter_slug": "01-harmonides",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dd0da97a-6b01-563b-9738-f65474317d28",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 978,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg060.perseus-grc3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c541dd91-ada1-5172-b146-f1746f34ebc0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1078,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg060.perseus-eng4"
+    }
+  ]
+}

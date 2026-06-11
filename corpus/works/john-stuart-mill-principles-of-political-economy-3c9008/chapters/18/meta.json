@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 18,
+  "chapter_title": "CHAPTER III. OF THE CLASSES AMONG WHOM THE PRODUCE IS DISTRIBUTED.",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "46349196-29e8-5b5e-ba3b-fef3dd8056be",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1273,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

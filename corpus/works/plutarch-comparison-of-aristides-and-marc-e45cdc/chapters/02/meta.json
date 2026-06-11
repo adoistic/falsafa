@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-comparison-of-aristides-and-marc-e45cdc",
+  "work_title": "Comparison of Aristides and Marcus Cato",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "80b562b2-9977-5566-8339-18b13d7ccbf2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 248,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg026.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e1ef0ab-edd0-5a2d-b9fe-757b9f50e5e5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 378,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg026.perseus-eng2:2"
+    }
+  ]
+}

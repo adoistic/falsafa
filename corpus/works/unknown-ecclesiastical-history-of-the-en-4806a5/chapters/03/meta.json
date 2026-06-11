@@ -1,0 +1,26 @@
+{
+  "work_slug": "unknown-ecclesiastical-history-of-the-en-4806a5",
+  "work_title": "Ecclesiastical History of the English Nation",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e3665294-69c8-5b17-b27c-cb61e9614df5",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 26503,
+      "paragraph_count": 136,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0054.stoa006.perseus-eng1:3"
+    }
+  ]
+}

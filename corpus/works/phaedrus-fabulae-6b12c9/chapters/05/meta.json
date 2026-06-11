@@ -1,0 +1,38 @@
+{
+  "work_slug": "phaedrus-fabulae-6b12c9",
+  "work_title": "Fabulae",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0997a5d7-dc74-52f2-9bd8-5a928c6bc5be",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 961,
+      "paragraph_count": 174,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0975.phi001.perseus-lat2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d70451a5-fbad-542d-8378-c1e24abf1479",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2189,
+      "paragraph_count": 348,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0975.phi001.perseus-eng1:5"
+    }
+  ]
+}

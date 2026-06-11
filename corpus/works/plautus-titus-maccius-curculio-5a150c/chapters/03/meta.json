@@ -1,0 +1,38 @@
+{
+  "work_slug": "plautus-titus-maccius-curculio-5a150c",
+  "work_title": "Curculio",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "03",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6b132a21-7a8b-5646-9b96-3b533a55a56f",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 624,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi008.perseus-lat2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b645c00e-5b74-50e1-9a75-efb2ee5f2493",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2327,
+      "paragraph_count": 102,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi008.perseus-eng2:3"
+    }
+  ]
+}

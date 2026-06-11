@@ -1,0 +1,38 @@
+{
+  "work_slug": "julius-caesar-civil-war-b3986b",
+  "work_title": "Civil War",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fab41e8d-524d-501c-be15-6fdb88855639",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 15023,
+      "paragraph_count": 112,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0448.phi002.perseus-lat3:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa947dae-5214-5b62-9379-9841584e885a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 24660,
+      "paragraph_count": 112,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0448.phi002.perseus-eng2:3"
+    }
+  ]
+}

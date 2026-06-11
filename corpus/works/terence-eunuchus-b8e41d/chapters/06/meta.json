@@ -1,0 +1,38 @@
+{
+  "work_slug": "terence-eunuchus-b8e41d",
+  "work_title": "Eunuchus",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "06",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "750a2f02-e37d-50b4-9d6b-ed52b73993e7",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2079,
+      "paragraph_count": 346,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0134.phi003.perseus-lat2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c609cc41-cb7a-5827-bafb-2e4fdb4f48e0",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3475,
+      "paragraph_count": 219,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0134.phi003.perseus-eng2:6"
+    }
+  ]
+}

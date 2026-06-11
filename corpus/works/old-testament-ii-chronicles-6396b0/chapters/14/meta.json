@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ii-chronicles-6396b0",
+  "work_title": "II Chronicles",
+  "chapter_number": 14,
+  "chapter_title": "Chapter 14",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ea04a84e-6694-5784-b8f7-71fe075873ba",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 422,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1:14"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "35ad31c6-d968-5536-9df8-5e1e5fbd207b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 429,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg016.perseus-eng2:14"
+    }
+  ]
+}

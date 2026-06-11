@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-leviticus-4b902e",
+  "work_title": "Leviticus",
+  "chapter_number": 19,
+  "chapter_title": "Chapter 19",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d78738f8-f9a7-5926-9008-40489f4f8176",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 701,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg003.1st1K-grc1:19"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6baa7e2b-c2c1-5028-926f-430708bd7505",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 883,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg003.perseus-eng2:19"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "apuleius-metamorphoses-4e92f8",
+  "work_title": "Metamorphoses",
+  "chapter_number": 6,
+  "chapter_title": "Book 5",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a36fc73f-c670-5e69-bc38-3bf0378addae",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3856,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1212.phi002.perseus-lat1:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bad2a997-c96f-5766-958b-f5ddbc438ac1",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7709,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1212.phi002.perseus-eng1:6"
+    }
+  ]
+}

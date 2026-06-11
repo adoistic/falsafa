@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-caesar-5ac08c",
+  "work_title": "Caesar",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f8fd79db-a165-59bc-a561-075ab90e51a9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 268,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg048.perseus-grc2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "402f3858-28c4-5cf5-b4e3-f8b9711914c8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 433,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg048.perseus-eng2:7"
+    }
+  ]
+}

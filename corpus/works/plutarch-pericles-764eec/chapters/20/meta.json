@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-pericles-764eec",
+  "work_title": "Pericles",
+  "chapter_number": 20,
+  "chapter_title": "Chapter 20",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9b87ded5-3a7b-5e4c-b857-9b490c01cbc8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 159,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg012.perseus-grc2:20"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c29ef47-a66e-59ae-90ac-a6da1ebf2808",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 257,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg012.perseus-eng2:20"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-exodus-8299d2",
+  "work_title": "Exodus",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dc6a5027-e8c6-5ad5-b7cd-1647b2dd4f1c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 594,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg002.1st1K-grc1:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d5494fbb-6fc0-5326-9371-10ba0df76fd6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 738,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg002.perseus-eng2:3"
+    }
+  ]
+}

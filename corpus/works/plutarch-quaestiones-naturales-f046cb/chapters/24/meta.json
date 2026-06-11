@@ -1,0 +1,26 @@
+{
+  "work_slug": "plutarch-quaestiones-naturales-f046cb",
+  "work_title": "Quaestiones Naturales",
+  "chapter_number": 24,
+  "chapter_title": "Chapter 27",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2beb71a8-2898-5fa2-b309-48bcdd13c210",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 98,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg125.perseus-eng2:24"
+    }
+  ]
+}

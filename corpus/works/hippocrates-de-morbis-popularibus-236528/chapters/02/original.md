@@ -1,0 +1,493 @@
+---
+work_id: "2365287d-7042-53ce-a613-70a50544bcfa"
+work_slug: "hippocrates-de-morbis-popularibus-236528"
+work_title: De morbis popularibus
+author_name: Hippocrates
+chapter_number: 2
+chapter_title: Book 3
+chapter_slug: 02
+variant_id: "2a0b6ea9-6369-5c83-88e5-938f33740b48"
+content_type: original
+layout: prose
+language: Greek
+source_language: Greek
+language_direction: ltr
+script: greek
+word_count: 7070
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0627.tlg006.perseus-eng4:2"
+curator: thothica
+---
+
+Pythion, who lived by the temple of Earth, was seized with trembling which began in the hands.
+
+First day. Acute fever; wandering.
+
+Second day. General exacerbation.
+
+Third day. Same symptoms.
+
+Fourth day. Stools scanty, uncompounded and bilious.
+
+Fifth day. General exacerbation; fitful sleep; constipation.
+
+Sixth day. Varied, reddish sputa.
+
+Seventh day. Mouth drawn awry.
+
+Eighth day. General exacerbation; tremblings persisted; urine from the beginning to the eighth day thin, colourless, with a cloudy substance floating in it.
+
+Tenth day. Sweat; sputa somewhat concocted; crisis; urine somewhat thin about the time of the crisis. After the crisis, forty days subsequent to it, abscess in the seat, and an abscession through strangury.
+
+Hermocrates, who lay sick by the new wall, was seized with fever. He began to feel pain in the head and loins; tension of the hypochondrium without swelling; tongue at the beginning parched; deafness at once; no sleep; no great thirst; urine thick, red, with no sediment on standing; stools not scanty, and burnt.
+
+Fifth day. Urine thin, with particles floating in it, without sediment; at night delirium.
+
+Sixth day. Jaundice; general exacerbation; not rational.
+
+Seventh day. Discomfort; urine thin, and as before. The following days similar. About the eleventh day there seemed to be general relief; coma began; urine thicker, reddish, thin at the bottom, without sediment; by degrees grew more rational.
+
+Fourteenth day. No fever; no sweat; sleep; reason quite recovered; urine as before.
+
+About the seventeenth day there was a relapse, and the patient grew hot. On the following days there was acute fever; urine thin; delirium.
+
+Twentieth day. A fresh crisis; no fever; no sweat. All the time the patient had no appetite; was perfectly collected but could not talk; tongue dry; no thirst; snatches of sleep; coma. About the twenty-fourth day he grew hot; bowels loose with copious, thin discharges. On the following days acute fever; tongue parched.
+
+Twenty-seventh day. Death.
+
+In this case deafness persisted throughout; urine thick, red, without settling, or thin, colourless, with substances floating in it. The patient had no power to take food.
+
+The man lying sick in the garden of Delearces had for a long time heaviness in the head and pain in the right temple. From some exciting cause he was seized with fever, and took to his bed.
+
+Second day. Slight flow of unmixed blood from the left nostril. The bowels were well moved; urine thin and varied, with particles in small groups, like barley-meal or semen, floating in it.
+
+Third day. Acute fever; stools black, thin, frothy, with a livid sediment in them; slight stupor; getting up caused distress; in the urine a livid, rather viscous sediment.
+
+Fourth day. Vomited scanty, bilious, yellow vomits, and after a short interval, verdigris-coloured ones; slight flow of unmixed blood from the left nostril; stools unaltered and urine unaltered; sweat about the head and collar-bones; spleen enlarged; pain in the direction of the thigh; tension, soft under-neath, of the right hypochondrium; no sleep at night; slight delirium.
+
+Fifth day. Stools more copious, black, frothy; a black sediment in the stools; no sleep at night; delirium.
+
+Sixth day. Stools black, oily, viscid, foul-smelling; slept; was more rational.
+
+Seventh day. Tongue dry; thirsty; no sleep; delirium; urine thin, not of a good colour.
+
+Eighth day. Stools black, scanty, compact; sleep; was collected; not very thirsty.
+
+Ninth day. Rigor, acute fever; sweat; chill; delirium; squinting of the right eye; tongue dry; thirsty; sleepless.
+
+Tenth day. Symptoms about the same.
+
+Eleventh day. Quite rational; no fever; slept, urine thin about the time of the crisis.
+
+The patient remained free from fever for two days, relapsed on the fourteenth day, and immediately had no sleep at night and was completely delirious.
+
+Fifteenth day. Urine muddy, like that which has been stirred up after settling; acute fever; completely delirious; no sleep; pain in knees and legs. On the application of a suppository, black, solid motions were passed.
+
+Sixteenth day. Urine thin, with a cloudy substance floating in it; delirium.
+
+Seventeenth day. Extremities cold in the early morning; would wrap himself up; acute fever; sweated all over; was relieved; more rational; some fever; thirst; vomited bilious matters, yellow and scanty; solid motions from the bowels; after a while they became black, scanty and thin; urine thin, and not of a good colour.
+
+Eighteenth day. Was not rational; comatose.
+
+Nineteenth day. The same symptoms.
+
+Twentieth day. Slept; completely rational; sweated; no fever; no thirst; urine thin.
+
+Twenty-first day. Slightly delirious; rather thirsty; pain in the hypochondrium and throbbing about the navel continuously.
+
+Twenty-fourth day. Sediment in urine; completely rational.
+
+Twenty-seventh day. Pain in the right hip, but in other respects very comfortable; sediment in the urine.
+
+About the twenty-ninth day pain in the right eye; urine thin.
+
+Fortieth day. Passed motions full of phlegm, white and rather frequent; copious sweat all over; a perfect crisis.
+
+Philistes in Thasos had for a long time pain in the head, and at last fell into a state of stupor and took to his bed. Heavy drinking having caused continuous fevers the pain grew worse. At night he grew hot at the first.
+
+First day. Vomited bilious matters, scanty, at first yellow, afterwards increasing and of the colour of verdigris; solid motions from the bowels; an uncomfortable night.
+
+Second day. Deafness; acute fever; tension of the right hypochondrium, which fell inwards. Urine thin, transparent, with a small quantity of substance, like semen, floating in it. About mid-day became raving.
+
+Third day. Uncomfortable.
+
+Fourth day. Convulsions; exacerbation.
+
+Fifth day. Died early in the morning.
+
+Chaerion, who lay sick in the house of Demaenetus, was seized with fever after drinking. At once there was painful heaviness of the head; no sleep; bowels disturbed with thin, rather bilious stools.
+
+Third day. Acute fever, trembling of the head, particularly of the lower lip; after a while rigor, convulsions, complete delirium; an uncomfortable night.
+
+Fourth day. Quiet; snatches of sleep; wandering.
+
+Fifth day. Pain; general exacerbation; irrational talk; uncomfortable night; no sleep.
+
+Sixth day. The same symptoms.
+
+Seventh day. Rigor; acute fever; sweating all over; crisis.
+
+This patient’s stools were throughout bilious, scanty and uncompounded. Urine thin, not of a good colour, with a cloudy substance floating in it. About the eighth day the urine had a better colour, with a slight, white sediment; quite rational and no fever; an intermission.
+
+Ninth day. Relapse.
+
+About the fourteenth day acute fever.
+
+Sixteenth day. Vomited bilious, yellow matters rather frequently.
+
+Seventeenth day. Rigor; acute fever; sweating; crisis ended the fever.
+
+Urine after relapse and crisis of a good colour, with a sediment; no delirium during the relapse.
+
+Eighteenth day. Slight heat; rather thirsty; urine thin, with cloudy substance floating in it; slight delirium.
+
+Nineteenth day. No fever; pain in the neck; sediment in urine.
+
+Twentieth day. Complete crisis.
+
+The maiden daughter of Euryanax was seized with fever. Throughout the illness she suffered no thirst and had no inclination for food. Slight alvine discharges; urine thin, scanty, and not of a good colour. At the beginning of the fever suffered pain in the seat. On the sixth day did not sweat, being without fever; a crisis. The sore near the seat suppurated slightly, and burst at the crisis. After the crisis, on the seventh day, she had a rigor; grew slightly hot; sweated. Afterwards the extremities always cold. About the tenth day, after the sweating that occurred, she grew delirious, but was soon rational again. They said that the trouble was due to eating grapes. After an intermission, on the twelfth day she again wandered a great deal; the bowels were disturbed, with bilious, uncompounded, scanty, thin, irritating stools, which frequently made her get up. She died the seventh day from the second attack of delirium. This patient at the beginning of the illness had pain in the throat, which was red throughout. The uvula was drawn back. Many fluxes, scanty and acrid. She had a cough with signs of coction, but brought up nothing. No appetite for any food the whole time, nor did she desire anything. No thirst, and she drank nothing worth mentioning. She was silent, and did not converse at all. Depression, the patient despairing of herself. There was also some inherited tendency to consumption.
+
+The woman suffering from angina who lay sick in the house of Aristion began her complaint with indistinctness of speech. Tongue red, and grew parched.
+
+First day. Shivered, and grew hot.
+
+Third day. Rigor; acute fever; a reddish, hard swelling in the neck, extending to the breast on either side; extremities cold and livid, breathing elevated; drink returned through the nostrilsshe could not swallowstools and urine ceased.
+
+Fourth day. General exacerbation.
+
+Fifth day. Death.
+
+The youth who lay sick by the Liars’ Market was seized with fever after unaccustomed fatigue, toil and running.
+
+First day. Bowels disturbed with bilious, thin, copious stools; urine thin and blackish; no sleep; thirst.
+
+Second day. General exacerbation; stools more copious and more unfavourable. No sleep; mind disordered; slight sweating.
+
+Third day. Uncomfortable; thirst; nausea; much tossing; distress; delirium; extremities livid and cold; tension, soft underneath, of the hypochondrium on both sides.
+
+Fourth day. No sleep; grew worse.
+
+Seventh day. Died, being about twenty years old.
+
+The woman who lodged with Tisamenus was in bed with a troublesome attack of inflammation of the upper bowel. Copious vomits; could not retain her drink. Pains in the region of the hypochondria. The pains were also lower, in the region of the bowels. Constant tormina. No thirst. She grew hot, though the extremities were cold all the time.
+
+Nausea; sleeplessness. Urine scanty and thin. Excreta crude, thin and scanty. It was no longer possible to do her any good, and she died.
+
+A woman who was one of the house of Pantimides after a miscarriage was seized with fever on the first day. Tongue dry; thirst; nausea; sleeplessness. Bowels disordered, with thin, copious and crude stools.
+
+Second day. Rigor; acute fever; copious stools; no sleep.
+
+Third day. The pains greater.
+
+Fourth day. Delirium.
+
+Seventh day. Death.
+
+The bowels were throughout loose, with copious, thin, crude stools. Urine scanty and thin.
+
+Another woman, after a miscarriage about the fifth month, the wife of Hicetas, was seized with fever. At the beginning she had alternations of coma and sleeplessness; pain in the loins; heaviness in the head.
+
+Second day. Bowels disordered with scanty, thin stools, which at first were uncompounded.
+
+Third day. Stools more copious and worse; no sleep at night.
+
+Fourth day. Delirium; fears; depression. Squinting of the right eye; slight cold sweat about the head; extremities cold.
+
+Fifth day. General exacerbation; much wandering, with rapid recovery of reason; no thirst; no sleep; stools copious and unfavourable throughout; urine scanty, thin and blackish; extremities cold and rather livid.
+
+Sixth day. Same symptoms.
+
+Seventh day. Death.
+
+A woman who lay sick by the Liars’ Market, after giving birth in a first and painful delivery to a male child, was seized with fever. From the very first there was thirst, nausea, slight pain at the stomach, dry tongue, bowels disordered with thin and scanty discharges, no sleep.
+
+Second day. Slight rigor; acute fever; slight, cold sweating around the head.
+
+Third day. In pain; crude, thin, copious discharges from the bowels.
+
+Fourth day. Rigor; general exacerbation; sleepless.
+
+Fifth day. In pain.
+
+Sixth day. The same symptoms; copious, fluid discharges from the bowels.
+
+Seventh day. Rigor; acute fever; thirst; much tossing; towards evening cold sweat all over; chill; extremities cold, and would not be warmed. At night she again had a rigor; the extremities would not be warmed; no sleep; slight delirium, but quickly was rational again.
+
+Eighth day. About mid-day recovered her heat; thirst; coma; nausea; vomited bilious, scanty, yellowish matters. An uncomfortable night; no sleep; unconsciously passed a copious discharge of urine.
+
+Ninth day. General abatement of the symptoms; coma. Towards evening slight rigor; vomited scanty, bilious matters.
+
+Tenth day. Rigor; exacerbation of the fever; no sleep whatsoever. In the early morning a copious discharge of urine without sediment; extremities were warmed.
+
+Eleventh day. Vomited bilious matters, of the colour of verdigris. A rigor shortly afterwards, and the extremities became cold again; in the evening sweat, rigor and copious vomiting; a painful night.
+
+Twelfth day. Vomited copious, black, fetid matters; much hiccoughing; painful thirst.
+
+Thirteenth day. Vomited black, fetid, copious matters; rigor. About mid-day lost her speech.
+
+Fourteenth day. Epistaxis; death.
+
+The bowels of this patient were throughout loose, and there were shivering fits. Age about seventeen.
+
+CONSTITUTION
+
+The year was southerly and rainy, with no winds throughout. About the rising of Arcturus, while during the immediately preceding period droughts had prevailed, there were now heavy rains, with southerly winds. Autumn dark and cloudy, with abundance of rain. The winter southerly, humid, and mild after the solstice. Long after the solstice, near the equinox, wintry weather returned, and at the actual equinoctial period there were northerly winds with snow, but not for long. The spring southerly again, with no winds; many rains throughout until the Dog Star. The summer was clear and warm, with waves of stifling heat. The Etesian winds were faint and intermittent. But, on the other hand, near the rising of Arcturus there were heavy rains with northerly winds.
+
+The year having proved southerly, wet and mild, in the winter the general health was good except for the consumptives, who will be described in due course.
+
+Early in the spring, at the same time as the cold snaps which occurred, were many malignant cases of erysipelas, some from a known exciting cause and some not. Many died, and many suffered pain in the throat. Voices impaired; ardent fevers; phrenitis; aphthae in the mouth; tumours in the private parts; inflammations of the eyes; carbuncles; disordered bowels; loss of appetite; thirst in some cases, though not in all; urine disordered, copious, bad; long coma alternating with sleeplessness; absence of crisis in many cases, and obscure crises; dropsies; many consumptives. Such were the diseases epidemic. There were patients suffering from each of the above types, and fatal cases were many. The symptoms in each type were as follow.
+
+Many were attacked by the erysipelas all over the body when the exciting cause was a trivial accident or a very small wound; especially when the patients were about sixty years old and the wound was in the head, however little the neglect might have been. Many even while undergoing treatment suffered from severe inflammations, and the erysipelas would quickly spread widely in all directions. Most of the patients experienced abscessions ending in suppurations. Flesh, sinews and bones fell away in large quantities. The flux which formed was not like pus, but was a different sort of putre-faction with a copious and varied flux. If any of these symptoms occurred in the head, there was loss of hair from all the head and from the chin; the bones were bared and fell away, and there were copious fluxes. Fever was sometimes present and sometimes absent. These symptoms were terrifying rather than dangerous. For whenever they resulted in suppuration or some similar coction the cases usually recovered. But whenever the inflammation and the erysipelas disappeared without producing any such abscession, there were many deaths. The course of the disease was the same to whatever part of the body it spread. Many lost the arm and the entire forearm. If the malady settled in the sides there was rotting either before or behind. In some cases the entire thigh was bared, or the shin and the entire foot. But the most dangerous of all such cases were when the pubes and genital organs were attacked. Such were the sores which sprang from an exciting cause. In many cases, however, sores occurred in fevers, before a fever, or supervening on fevers. In some of these also, when an abscession took place through suppuration, or when a seasonable disturbance of the bowels occurred or a passing of favourable urine, this gave rise to a solution; but when none of these events happened, and the symptoms disappeared without a sign, death resulted. It was in the spring that by far the greater number of cases of erysipelas occurred, but they continued throughout the summer and during autumn.
+
+Much trouble was caused to some patients by the tumours in the throat, inflammations of the tongue and the abscesses about the teeth. Many had the symptom of impaired and muffled voice, at first at the beginning of the cases of consumption, but also in the ardent fevers and in phrenitis.
+
+Now the ardent fevers and phrenitis began early in the spring after the cold snaps which occurred, and very many fell sick at that time. These suffered acute and fatal symptoms. The constitution of the ardent fevers that occurred was as follows. At the beginning coma, nausea, shivering, acute fever, no great thirst, no delirium, slight epistaxis. The exacerbations in most cases on even days, and about the time of the exacerbations there was loss of memory with prostration and speechlessness. The feet and hands of these patients were always colder than usual, most especially about the times of exacerbation. Slowly and in no healthy manner they recovered their heat, becoming rational again and conversing. Either the coma held them continuously without sleep, or they were wakeful and in pain. Bowels disordered in the majority of these cases, with crude, thin, copious stools. Urine copious, thin, with no critical or favourable sign, nor did any other critical sign appear in these patients. For there occurred neither favourable hemorrhage nor any other of the usual critical abscessions. The manner of their dying varied with the individual; it was usually irregular, at the crises, but in some cases after long loss of speech and in many with sweating. These were the symptoms attending the fatal cases of ardent fever, and the cases of phrenitis were similar. These suffered from no thirst at all, and no case showed the mad delirium that attacked others, but they passed away overpowered by a dull oppression of stupor.
+
+There were other fevers also, which I shall describe in due course. Many had aphthae and sores in the mouth. Fluxes about the genitals were copious; sores, tumours external and internal; the swellings which appear in the groin. Watery inflammations of the eyes, chronic and painful. Growths on the eyelids, external and internal, in many cases destroying the sight, which are called figs. There were also often growths on other sores, particularly in the genitals. Many carbuncles in the summer, and other affections called rot. Large pustules. Many had large tetters.
+
+The bowel troubles in many cases turned out many and harmful. In the first place many were attacked by painful tenesmus, mostly childrenall in fact who were approaching pubertyand most of these died. Many lienteries. Cases of dysentery, but they too were not very painful. Stools bilious, greasy, thin and watery. In many cases this condition of the bowels constituted the disease itself, fever being sometimes absent and sometimes present. Painful tormina and malignant colic. There were evacuations, though the bulk of the contents remained behind. The evacuations did not take away the pains, and yielded with difficulty to the remedies administered. Purgings, in fact, did harm in most cases. Of those in this condition many died rapidly, though a few held out longer. In brief, all patients, whether the disease was prolonged or acute, died chiefly from the bowel complaints. For the bowels carried all off together.
+
+Loss of appetite, to a degree that I never met before, attended all the cases described above, but most especially the last, and of them, and of the others also, especially such as were fatally stricken.
+
+Thirst afflicted some, but not others; of the fever patients, as well as of the other cases, none were unseasonably affected, but as far as drink was concerned you could diet them as you pleased.
+
+The urine that was passed was copious, not in proportion to, but far exceeding, the drink administered. Yet the urine too that was passed showed a great malignancy. For it had neither the proper consistency, nor coction, nor cleansing powers; it signified for most patients wasting, trouble, pains, and absence of crisis.
+
+Coma attended mostly the phrenitis and ardent fevers, without excluding, however, all the other diseases of the most severe sort that were accompanied by fever. Most patients throughout either were sunk in heavy coma or slept only in fitful snatches.
+
+Many other forms also of fever were epidemic: tertians, quartans, night fevers, fevers continuous, protracted, irregular, fevers attended with nausea, fevers of no definite character. All these cases suffered severely from trouble. For the bowels in most cases were disordered, with shivering fits. Sweats portended no crisis, and the character of the urine was as I have described. Most of these cases were protracted, for the abscessions too which took place did not prove critical as in other cases; nay rather, in all cases all symptoms marked obscurity of crisis, or absence of crisis, or protraction of the disease, but most especially in the patients last described. A few of these had a crisis about the eightieth day; with most recovery followed no rule. A few of them died of dropsy, without taking to their bed; many sufferers from the other diseases too were troubled with swellings, most particularly the consumptives.
+
+The severest and most troublesome disease, as well as the most fatal, was the consumption. Many cases began in the winter, and of these several took to their bed, though some went about ailing without doing so. Early in the spring most of those who had gone to bed died, while none of the others lost their cough, though it became easier in the summer. During autumn all took to bed and many died. Most of these were ill for a long time. Now most of these began suddenly to grow worse, showing the following symptoms:—-frequent shivering; often continuous and acute fever; unseasonable, copious, cold sweats throughout; great chill with difficult recovery of heat; bowels variously constipated, then quickly relaxing, and violently relaxing in all cases near the end; the humours about the lungs spread downwards; abundance of unfavourable urine; malignant wasting. The coughs throughout were frequent, bringing up copious, concocted and liquid sputa, but without much pain; but even if there was pain, in all cases the purging from the lungs took place very mildly. The throat did not smart very much, nor did salt humours cause any distress at all. The fluxes, however, viscid, white, moist, frothy, which came from the head, were abundant. But by far the worst symptom that attended both these cases and the others was the distaste for food, as has been mentioned. They had no relish either for drink with nourishment, but they remained entirely without thirst. Heaviness in the body. Coma. In most of them there was swelling, which developed into dropsy. Shivering fits and delirium near death.
+
+The physical characteristics of the consumptives were:—-skin smooth, whitish, lentil-coloured, reddish; bright eyes; a leucophlegmatic condition; shoulder-blades projecting like wings. Women too so. As to those with a melancholic or a rather sanguine complexion, they were attacked by ardent fevers, phrenitis and dysenteric troubles. Tenesmus affected young, phlegmatic people; the chronic diarrhoea and acrid, greasy stools affected persons of a bilious temperament.
+
+In all the cases described spring was the worst enemy, and caused the most deaths; summer was the most favourable season, in which fewest died. In autumn and during the season of the Pleiades, on the other hand, there were again deaths, usually on the fourth day. And it seems to me natural that the coming on of summer should have been helpful. For the coming on of winter resolves the diseases of summer, and the coming on of summer removes those of winter. And yet in itself the summer in question was not healthful; in fact it was suddenly hot, southerly, and calm. But nevertheless the change from the other constitution proved beneficial.
+
+The power, too, to study correctly what has been written I consider to be an important part of the art of medicine. The man who has learnt these things and uses them will not, I think, make great mistakes in the art. And it is necessary to learn accurately each constitution of the seasons as well as the disease; what common element in the constitution or in the disease is good, and what common element in the constitution or in the disease is bad; what malady is protracted and fatal, what is protracted and likely to end in recovery; what acute illness is fatal, what acute illness is likely to end in recovery. With this knowledge it is easy to examine the order of the critical days, and to prognosticate therefrom. One who has knowledge of these matters can know whom he ought to treat, as well as the time and method of treatment.
+
+In Thasos the Parian who lay sick beyond the temple of Artemis was seized with acute fever, which at the beginning was continuous and ardent. Thirst. At the beginning coma followed by sleeplessness. Bowels disordered at the beginning; urine thin.
+
+Sixth day. Oily urine; delirium.
+
+Seventh day. General exacerbation; no sleep; urine similar and mind disordered; stools bilious and fatty.
+
+Eighth day. Slight epistaxis; vomited scanty matters of the colour of verdigris; snatches of sleep.
+
+Ninth day. Same symptoms.
+
+Tenth day. General improvement.
+
+Eleventh day. Sweated all over; grew chilly, but quickly recovered heat.
+
+Fourteenth day. Acute fever; stools bilious, thin, copious; substance floating in urine; delirium.
+
+Seventeenth day. In pain; no sleep, while the fever grew worse.
+
+Twentieth day. Sweated all over; no fever; stools bilious; aversion to food; coma.
+
+Twenty-fourth day. Relapse.
+
+Thirty-fourth day. No fever; no constipation; recovered heat.
+
+Fortieth day. No fever; bowels constipated for a short time; aversion to food; became slightly feverish again, throughout irregularly, the fever being sometimes absent, sometimes present; for if the fever intermitted and was alleviated there was a relapse soon afterwards. He took little bits of food, and that of an unsuitable sort. Sleep bad; delirium at the relapses. Urine at these times had consistency, but was troubled and bad. Bowels constipated, but afterwards relaxed. Continuous slight fevers. Stools thin and copious.
+
+Hundred and twentieth day. Death.
+
+In this case the bowels continuously from the first day loose with bilious, loose, copious stools, or constipated with hot, undigested stools. Urine throughout bad; mostly comatose; painful sleeplessness; continued aversion to food.
+
+In Thasos the woman who lay sick by the Cold Water, on the third day after giving birth to a daughter without lochial discharge, was seized with acute fever accompanied by shivering. For a long time before her delivery she had suffered from fever, being confined to bed and averse to food. After the rigor that took place, the fevers were continuous, acute, and attended with shivering.
+
+Eighth and following days. Much delirium, quickly followed by recovery of reason; bowels disturbed with copious, thin, watery and bilious stools; no thirst.
+
+Eleventh day. Was rational, but comatose. Urine copious, thin and black; no sleep.
+
+Twentieth day. Slight chills, but heat quickly recovered; slight wandering; no sleep; bowels the same; urine watery and copious.
+
+Twenty-seventh day. No fever; bowels constipated; not long afterwards severe pain in the right hip for a long time. Fevers again attended; urine watery.
+
+Fortieth day. Pain in the hip relieved; continuous coughing, with watery, copious sputa; bowels constipated; aversion to food; urine the same. The fevers, without entirely intermitting, were exacerbated irregularly, sometimes increasing and sometimes not doing so.
+
+Sixtieth day. The coughing ceased without any critical sign; there was no coction of the sputa, nor any of the usual abscessions; jaw on the right side convulsed; comatose; wandering, but reason quickly recovered; desperately averse to food; jaw relaxed; passed small, bilious stools; fever grew more acute, with shivering. On the succeeding days she lost power of speech, but would afterwards converse.
+
+Eightieth day. Death.
+
+The urine of this patient was throughout black, thin and watery. Coma was present, aversion to food, despondency, sleeplessness, irritability, restlessness, the mind being affected by melancholy.
+
+In Thasos Pythion, who lay sick above the shrine of Heracles, after labour, fatigue and careless living, was seized by violent rigor and acute fever. Tongue dry; thirst; bilious; no sleep; urine rather black, with a substance suspended in it, which formed no sediment.
+
+Second day. About mid-day chill in the extremities, especially in the hands and head; could not speak or utter a sound; respiration short for a long time; recovered warmth; thirst; a quiet night; slight sweats about the head.
+
+Third day. A quiet day, but later, about sunset, grew rather chilly; nausea; distress; painful night without sleep; small, solid stools were passed.
+
+Fourth day. Early morning peaceful, but about mid-day all symptoms were exacerbated; chill; speechless and voiceless; grew worse; recovered warmth after a time; black urine with a substance floating in it; night peaceful; slept.
+
+Fifth day. Seemed to be relieved, but there was heaviness in the bowels with pain; thirst; painful night.
+
+Sixth day. Early morning peaceful; towards evening the pains were greater; exacerbation; but later a little clyster caused a good movement of the bowels. Slept at night.
+
+Seventh day. Nausea; rather uneasy; urine oily; much distress at night; wandering; no sleep at all.
+
+Eighth day. Early in the morning snatches of sleep; but quickly there was chill; loss of speech; respiration thin and weak; in the evening he recovered warmth again; was delirious; towards morning slightly better; stools uncompounded, small, bilious.
+
+Ninth day. Comatose; nausea whenever he woke up. Not over-thirsty. About sunset was uncomfortable; wandered; a bad night.
+
+Tenth day. In the early morning was speechless; great chill; acute fever; much sweat; death.
+
+In this case the pains on even days.
+
+The patient suffering from phrenitis on the first day that he took to bed vomited copiously thin vomits of the colour of verdigris; much fever with shivering; continuous sweating all over; painful heaviness of head and neck; urine thin, with small, scattered substances floating in it, which did not settle. Copious excreta at a single evacuation; delirium; no sleep. Second day. In the early morning speechless; acute fever; sweating; no intermission; throbbing all over the body; convulsions at night.
+
+Third day. General exacerbation.
+
+Fourth day. Death.
+
+In Larisa a bald man suddenly experienced pain in the right thigh. No remedy did any good.
+
+First day. Acute fever of the ardent type; the patient was quiet, but the pains persisted.
+
+Second day. The pains in the thigh subsided, but the fever grew worse; the patient was rather uncomfortable and did not sleep; extremities cold; copious and unfavourable urine was passed.
+
+Third day. The pain in the thigh ceased, but there was derangement of the intellect, with distress and much tossing.
+
+Fourth day. Death about mid-day.
+
+In Abdera Pericles was seized with acute fever, continuous and painful; much thirst; nausea; could not retain what he drank. There was slight enlargement of the spleen and heaviness in the head.
+
+First day. Epistaxis from the left nostril; the fever, however, increased greatly. Copious urine, turbid and white. On standing it did not settle.
+
+Second day. General exacerbation; the urine, however, had consistency, but there was some sediment; the nausea was relieved and the patient slept.
+
+Third day. The fever went down; abundance of urine, with concocted and copious sediment; a quiet night.
+
+Fourth day. About mid-day a hot, violent sweating all over; no fever; crisis; no relapse.
+
+In Abdera the maiden who lay sick by the Sacred Way was seized with a fever of the ardent type. She was thirsty and sleepless. Menstruation occurred for the first time.
+
+Sixth day. Much nausea; redness; shivering; restlessness.
+
+Seventh day. Same symptoms. Urine thin but of good colour; no trouble in the bowels.
+
+Eighth day. Deafness; acute fever; sleeplessness; nausea; shivering; was rational; urine similar.
+
+Ninth day Same symptoms, and also on the following days. The deafness persisted.
+
+Fourteenth day. Reason disturbed; the fever subsided.
+
+Seventeenth day. Copious epistaxis; the deafness improved a little. On the following days nausea and deafness, while there was also delirium.
+
+Twentieth day. Pain in the feet; deafness; the delirium ceased; slight epistaxis; sweating; no fever.
+
+Twenty-fourth day. The fever returned, with the deafness; pain in the feet persisted; delirium.
+
+Twenty-seventh day. Copious sweating; no fever; the deafness ceased; the pain in the feet remained, but in other respects there was a perfect crisis.
+
+In Abdera Anaxion, who lay sick by the Thracian gate, was seized with acute fever. Continuous pain in the right side; a dry cough, with no sputa on the first days. Thirst; sleeplessness; urine of good colour, copious and thin.
+
+Sixth day. Delirium; warm applications gave no relief.
+
+Seventh day. In pain, for the fever grew worse and the pains were not relieved, while the coughing was troublesome and there was difficulty in breathing.
+
+Eighth day. I bled him in the arm. There was an abundant, proper flow of blood; the pains were relieved, although the dry coughing persisted.
+
+Eleventh day. The fever went down; slight sweating about the head; the coughing and the sputa more moist.
+
+Seventeenth day. Began to expectorate small, concocted sputa; was relieved.
+
+Twentieth day. Sweated and was free from fever; after a crisis was thirsty, and the cleansings from the lungs were not favourable.
+
+Twenty-seventh day. The fever returned; coughing, with copious, concocted sputa; copious, white sediment in urine; thirst and difficulty in breathing disappeared.
+
+Thirty-fourth day. Sweated all over; no fever; general crisis.
+
+In Abdera Heropythus had pain in the head without taking to bed, but shortly afterwards was compelled to do so. He lived close to the Upper Road. An acute, ardent fever seized him. Vomited at the beginning copious, bilious matters; thirst; great discomfort; urine thin and black, sometimes with, sometimes without, substances suspended in it. Painful night, with fever rising now in this way, now in that, but for the most part irregularly. About the fourteenth day, deafness; the fever grew worse; urine the same.
+
+Twentieth day. Much delirium, also on the following days.
+
+Fortieth day. Copious epistaxis; more rational; some deafness, but less than before; the fever went down. Frequent, but slight, epistaxis on the following days. About the sixtieth day the bleedings from the nose ceased, but there was violent pain in the right hip and the fever increased. Not long afterwards, pains in all the lower parts. It happened that either the fever was higher and the deafness great, or else, though these symptoms were relieved and less severe, yet the pains in the lower parts about the hips grew worse. But from about the eightieth day all the symptoms were relieved without any disappearing. The urine that was passed was of good colour and had greater deposits, while the delirious mutterings were less. About the hundredth day the bowels were disordered with copious, bilious stools, and copious evacuations of this nature were passed for a long time. Then followed painful symptoms of dysentery, with relief of the other symptoms. In brief, the fever disappeared and the deafness ceased.
+
+Hundred and twentieth day. Complete crisis.
+
+In Abdera Nicodemus after venery and drunkenness was seized with fever. At the beginning he had nausea and cardialgia; thirst; tongue parched; urine thin and black.
+
+Second day. The fever increased; shivering; nausea; no sleep; bilious, yellow vomits; urine the same; a quiet night; sleep.
+
+Third day. All symptoms less severe; relief. But about sunset he was again somewhat uncomfortable; painful night.
+
+Fourth day. Rigor; much fever; pains every-where; urine thin, with floating substance in it; the night, on the other hand, was quiet.
+
+Fifth day. All symptoms present, but relieved.
+
+Sixth day. Same pains everywhere; substance floating in urine; much delirium.
+
+Seventh day. Relief.
+
+Eighth day. All the other symptoms less severe.
+
+Tenth day and following days. The pains were present, but all less severe. The exacerbations and the pains in the case of this patient tended through-out to occur on the even days.
+
+Twentieth day. Urine white, having consistency; no sediment on standing. Copious sweating; seemed to lose his fever, but towards evening grew hot again, with pains in the same parts; shivering; thirst; slight delirium.
+
+Twenty-fourth day. Much white urine, with much sediment. Hot sweating all over; the fever passed away in a crisis.
+
+In Thasos a woman of gloomy temperament, after a grief with a reason for it, without taking to bed lost sleep and appetite, and suffered thirst and nausea. She lived near the place of Pylades on the plain.
+
+First day. As night began there were fears, much rambling, depression and slight feverishness. Early in the morning frequent convulsions; whenever these frequent convulsions intermitted, she wandered and uttered obscenities; many pains, severe and continuous.
+
+Second day. Same symptoms; no sleep; fever more acute.
+
+Third day. The convulsions ceased, but were succeeded by coma and oppression, followed in turn by wakefulness. She would jump up; could not restrain herself; wandered a great deal; fever acute; on this night a copious, hot sweating all over; no fever; slept, was perfectly rational, and had a crisis. About the third day urine black and thin, with particles mostly round floating in it, which did not settle. Near the crisis copious menstruation.
+
+In Larisa a maiden was seized with an acute fever of the ardent type. Sleeplessness; thirst; tongue sooty and parched; urine of good colour, but thin.
+
+Second day. In pain; no sleep.
+
+Third day. Copious stools, watery and of a yellowish green; similar stools on the following days, passed without distress.
+
+Fourth day. Scanty, thin urine, with a substance suspended in it which did not settle; delirium at night.
+
+Sixth day. Violent and abundant epistaxis; after a shivering fit followed a hot, copious sweating all over; no fever; a crisis. In the fever and after the crisis menstruation for the first time, for she was a young maiden. Throughout she suffered nausea and shivering; redness of the face; pain in the eyes; heaviness in the head. In this case there was no relapse, but a definite crisis. The pains on the even days.
+
+Apollonius in Abdera was ailing for a long time without being confined to bed. He had a swollen abdomen, and a continual pain in the region of the liver had been present for a long time; moreover, he became during this period jaundiced and flatulent; his complexion was whitish. After dining and drinking unseasonably cow’s milk he at first grew rather hot; he took to his bed. Having drunk copiously of milk, boiled and raw, both goat’s and sheep’s, and adopting a thoroughly bad regimen, he suffered much therefrom. For there were exacerbations of the fever; the bowels passed practically nothing of the food taken; the urine was thin and scanty. No sleep. Grievous distension; much thirst; coma; painful swelling of the right hypochondrium; extremities all round rather cold; slight delirious mutterings; forgetfulness of every-thing he said; he was not himself. About the fourteenth day from his taking to bed, after a rigor, he grew hot; wildly delirious; shouting, distress, much rambling, followed by calm; the coma came on at this time. Afterwards the bowels were disordered with copious stools, bilious, uncompounded and crude; urine black, scanty and thin. Great discomfort. The evacuations showed varying symptoms; they were either black, scanty and verdigris-coloured, or else greasy, crude and smarting; at times they seemed actually to be like milk. About the twenty-fourth day comfortable; in other respects the same, but he had lucid intervals. He remembered nothing since he took to bed. But he quickly was again delirious, and all symptoms took a sharp turn for the worse. About the thirtieth day acute fever; copious, thin stools; wandering; cold extremities; speechlessness.
+
+Thirty-fourth day. Death.
+
+This patient throughout, from the time I had knowledge of the case, suffered from disordered bowels; urine thin and black; coma; sleeplessness; extremities cold; delirious throughout.
+
+In Cyzicus a woman gave birth with difficult labour to twin daughters, and the lochial discharge was far from good.
+
+First day. Acute fever with shivering; painful heaviness of head and neck. Sleepless from the first, but silent, sulky and refractory. Urine thin and of no colour; thirsty; nausea generally; bowels irregularly disturbed with constipation following.
+
+Sixth day. Much wandering at night; no sleep.
+
+About the eleventh day she went out of her mind and then was rational again; urine black, thin, and then, after an interval, oily; copious, thin, disordered stools.
+
+Fourteenth day. Many convulsions; extremities cold; no further recovery of reason; urine suppressed.
+
+Sixteenth day. Speechless.
+
+Seventeenth day. Death.
+
+In Thasos the wife of Delearces, who lay sick on the plain, was seized after a grief with an acute fever with shivering. From the beginning she would wrap herself up, and throughout, without speaking a word, she would fumble, pluck, scratch, pick hairs, weep and then laugh, but she did not sleep; though stimulated, the bowels passed nothing. She drank a little when the attendants suggested it. Urine thin and scanty; fever slight to the touch; coldness of the extremities.
+
+Ninth day. Much wandering followed by return of reason; silent.
+
+Fourteenth day. Respiration rare and large with long intervals, becoming afterwards short.
+
+Seventeenth day. Bowels under a stimulus passed disordered matters, then her very drink passed unchanged; nothing coagulated. The patient noticed nothing; the skin tense and dry.
+
+Twentieth day. Much rambling followed by recovery of reason; speechless; respiration short.
+
+Twenty-first day. Death.
+
+The respiration of this patient throughout was rare and large; took no notice of anything; she constantly wrapped herself up; either much rambling or silence throughout.
+
+In Meliboea a youth took to his bed after being for a long time heated by drunkenness and sexual indulgence. He had shivering fits, nausea, sleeplessness, but no thirst.
+
+First day. Copious, solid stools passed in abundance of fluid, and on the following days the excreta were copious, watery and of a greenish yellow. Urine thin, scanty and of no colour; respiration rare and large with long intervals; tension, soft underneath, of the hypochondrium, extending out to either side; continual throbbing throughout of the epigastrium; urine oily.
+
+Tenth day. Delirious but quiet, for he was orderly and silent; skin dry and tense; stools either copious and thin or bilious and greasy.
+
+Fourteenth day. General exacerbation; delirious with much wandering talk.
+
+Twentieth day. Wildly out of his mind; much tossing; urine suppressed; slight quantities of drink were retained.
+
+Twenty-fourth day. Death.

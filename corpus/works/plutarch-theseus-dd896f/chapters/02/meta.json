@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-theseus-dd896f",
+  "work_title": "Theseus",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f5641669-90d9-5fb2-803f-95c3bed47f2e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 89,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg001.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f30c10e2-89a5-505e-9ff5-9520f8089759",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 127,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg001.perseus-eng3:2"
+    }
+  ]
+}

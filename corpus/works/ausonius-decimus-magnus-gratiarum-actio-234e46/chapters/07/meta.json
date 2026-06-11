@@ -1,0 +1,26 @@
+{
+  "work_slug": "ausonius-decimus-magnus-gratiarum-actio-234e46",
+  "work_title": "Gratiarum Actio",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0b068e38-7a87-5167-affe-257fe470977c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 489,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa014.perseus-eng1:7"
+    }
+  ]
+}

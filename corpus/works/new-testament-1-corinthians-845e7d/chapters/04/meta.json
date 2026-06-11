@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-1-corinthians-845e7d",
+  "work_title": "1 Corinthians",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9f599a01-7de7-5e7c-965c-9aa56e913d95",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 345,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg007.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab131753-0290-506e-8368-4fb4b365be2d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 488,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg007.perseus-eng2:4"
+    }
+  ]
+}

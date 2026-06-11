@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-micah-53a4d9",
+  "work_title": "Micah",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bcf4193b-9fd6-5904-b568-995fd170b232",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 390,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg038.1st1K-grc1:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ecf0624b-7f7f-5478-96c3-8050868d55dd",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 337,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg038.perseus-eng2:3"
+    }
+  ]
+}

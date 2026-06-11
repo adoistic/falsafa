@@ -1,0 +1,26 @@
+{
+  "work_slug": "athenaeus-of-naucratis-deipnosophistae-9c89b8",
+  "work_title": "Deipnosophistae",
+  "chapter_number": 16,
+  "chapter_title": "Book 15",
+  "chapter_slug": "16",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0830022a-af11-557c-bef2-c1c05a01c6b4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 22121,
+      "paragraph_count": 967,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0008.tlg001.perseus-eng2:16"
+    }
+  ]
+}

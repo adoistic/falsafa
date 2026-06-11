@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-metamorphoses-b0cbc2",
+  "work_title": "Metamorphoses",
+  "chapter_number": 10,
+  "chapter_title": "Book 10",
+  "chapter_slug": "10",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "64b539f3-5c13-5a7c-a5f6-dbce56aff4fc",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4884,
+      "paragraph_count": 291,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi006.perseus-lat2:10"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "61c42f30-63e8-51aa-b151-64f6a2f93e8a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9179,
+      "paragraph_count": 828,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi006.perseus-eng4:10"
+    }
+  ]
+}

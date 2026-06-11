@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-esther-1c694f",
+  "work_title": "Esther",
+  "chapter_number": 10,
+  "chapter_title": "Chapter 10",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4d07ab3c-4250-5d61-98a0-9d522ed6ef51",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 944,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg019.1st1K-grc1:10"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "834b7ff7-9f39-5b0a-b2dc-9365480a2bf0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 91,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg019.perseus-eng2:10"
+    }
+  ]
+}

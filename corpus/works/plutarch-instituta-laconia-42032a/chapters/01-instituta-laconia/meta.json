@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-instituta-laconia-42032a",
+  "work_title": "Instituta Laconia",
+  "chapter_number": 1,
+  "chapter_title": "Instituta Laconia",
+  "chapter_slug": "01-instituta-laconia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "addebd07-dbb3-5e5d-904e-5c9a93ce9e47",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1617,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg082a.perseus-grc4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dce9ea0e-2472-526d-9502-2cfc926670eb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2822,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg082a.perseus-eng2"
+    }
+  ]
+}

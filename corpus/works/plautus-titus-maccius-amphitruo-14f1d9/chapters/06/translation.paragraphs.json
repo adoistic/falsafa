@@ -1,0 +1,922 @@
+[
+  {
+    "id": "p-0e13ec",
+    "offset": 0,
+    "text": "(Enter AMPHITRYON.)"
+  },
+  {
+    "id": "p-5bed57",
+    "offset": 21,
+    "text": "AMPHITRYON:\n(to himself.)\nNaucrates, whom I wanted to find, was not on board ship;"
+  },
+  {
+    "id": "p-4b33ea",
+    "offset": 105,
+    "text": "neither at home nor in the city do I meet with any one that has seen him; for through all the streets have I crawled, the wrestling-rings and the perfumers’ shops, to the market, too, and in the shambles, the school for exercise, and the Forum, the doctors’ shops, the barbers’ shops, and among all the sacred buildings. I’m wearied out with seeking him, and yet I nowhere meet with Naucrates."
+  },
+  {
+    "id": "p-7d8a4c",
+    "offset": 500,
+    "text": "Now I’ll go home, and from my wife will I continue to make enquiry into this matter, who the person was, by the side of whom she submitted her body to dishonor. For it were better that I was dead, than that I this day should leave this enquiry incomplete. (Goes up to the door.) But the house is closed. A pretty thing indeed! This is done just like the other things have been done: I’ll knock at the door. (Knocks.)"
+  },
+  {
+    "id": "p-2a4e97",
+    "offset": 918,
+    "text": "Open this door; ho there! is there anybody here? Is any one going to open this door?"
+  },
+  {
+    "id": "p-9a8388",
+    "offset": 1004,
+    "text": "(MERCURY appears on the top of the house, with a chaplet on his head, pretending to be drunk.)"
+  },
+  {
+    "id": "p-a6ca80",
+    "offset": 1100,
+    "text": "MERCURY:\nWho’s that at the door?"
+  },
+  {
+    "id": "p-31d249",
+    "offset": 1134,
+    "text": "AMPHITRYON:\n’Tis I."
+  },
+  {
+    "id": "p-773bb7",
+    "offset": 1155,
+    "text": "MERCURY:\nWho’s’tis I?"
+  },
+  {
+    "id": "p-9baf24",
+    "offset": 1178,
+    "text": "AMPHITRYON:\n’Tis I that say so."
+  },
+  {
+    "id": "p-afc07c",
+    "offset": 1211,
+    "text": "MERCURY:\nFor sure, Jupiter and all the Deities are angered with you who are banging at the door this way."
+  },
+  {
+    "id": "p-38a235",
+    "offset": 1318,
+    "text": "AMPHITRYON:\nIn what manner?"
+  },
+  {
+    "id": "p-58e3a7",
+    "offset": 1347,
+    "text": "MERCURY:\nIn this manner, that without a doubt you must be spending a wretched life."
+  },
+  {
+    "id": "p-cfa310",
+    "offset": 1432,
+    "text": "AMPHITRYON:\nSosia."
+  },
+  {
+    "id": "p-52aa3b",
+    "offset": 1452,
+    "text": "MERCURY:\nWell; I’m Sosia, unless you think that I’ve forgotten myself."
+  },
+  {
+    "id": "p-358d52",
+    "offset": 1524,
+    "text": "What do you want now?"
+  },
+  {
+    "id": "p-d2d3b5",
+    "offset": 1547,
+    "text": "AMPHITRYON:\nWhat, you rascal, and do you even ask me that, what it is I want?"
+  },
+  {
+    "id": "p-4ab5f5",
+    "offset": 1626,
+    "text": "MERCURY:\nI do so ask you; you blockhead, you’ve almost broken the hinges from off the door. Did you fancy that doors were supplied us at the public charge? Why are you looking up at me, you stupid? What do you want now for yourself, or what fellow are you?"
+  },
+  {
+    "id": "p-e98cda",
+    "offset": 1884,
+    "text": "AMPHITRYON:\nYou whip-scoundrel, do you even ask me who I am, you hell of elm-saplings?"
+  },
+  {
+    "id": "p-b021d9",
+    "offset": 1972,
+    "text": "I’ faith, this day I’ll make you burn with smarts of the scourge for these speeches of yours."
+  },
+  {
+    "id": "p-9e9c81",
+    "offset": 2067,
+    "text": "MERCURY:\nYou surely must have formerly been a spendthrift in your young days."
+  },
+  {
+    "id": "p-b30f13",
+    "offset": 2146,
+    "text": "AMPHITRYON:\nHow so?"
+  },
+  {
+    "id": "p-d8107b",
+    "offset": 2167,
+    "text": "MERCURY:\nBecause in your old age you come begging a hap-ill of me for yourself."
+  },
+  {
+    "id": "p-a0d6fd",
+    "offset": 2248,
+    "text": "AMPHITRYON:\nSlave! for your own torture do you give vent to these expressions this day."
+  },
+  {
+    "id": "p-1396d6",
+    "offset": 2337,
+    "text": "MERCURY:\nNow I’m performing a sacrifice to you."
+  },
+  {
+    "id": "p-bdfb4c",
+    "offset": 2386,
+    "text": "AMPHITRYON:\nHow?"
+  },
+  {
+    "id": "p-9152ec",
+    "offset": 2404,
+    "text": "MERCURY:\nWhy, because I devote you to ill-luck with this libation.\n(Throws water on him.)"
+  },
+  {
+    "id": "p-b167ae",
+    "offset": 2495,
+    "text": "AMPHITRYON:\nWhat, you, devote me, you villain? If the Gods have not this day taken away my usual form, I’ll take care that you shall be laden with bull’s hide thongs, you victim of Saturn. So surely will I devote you to the cross and to torture. Come out of doors, you whip-knave."
+  },
+  {
+    "id": "p-35c3fe",
+    "offset": 2777,
+    "text": "MERCURY:\nYou shadowy ghost—you, frighten me with your threats? If you don’t betake yourself off from here this instant, if you knock once more, if the door makes a noise with your little finger even, I’ll break your head with this tile, so that with your teeth you may sputter out your tongue."
+  },
+  {
+    "id": "p-8e6702",
+    "offset": 3072,
+    "text": "AMPHITRYON:\nWhat, rascal, would you be for driving me away from my own house? What, would you hinder me from knocking at my own door? I’ll this instant tear it from off all its hinges."
+  },
+  {
+    "id": "p-aefaba",
+    "offset": 3258,
+    "text": "MERCURY:\nDo you persist?"
+  },
+  {
+    "id": "p-173c28",
+    "offset": 3284,
+    "text": "AMPHITRYON:\nI do persist."
+  },
+  {
+    "id": "p-5ace66",
+    "offset": 3311,
+    "text": "MERCURY:\nTake that, then.\n(Throws a tile at him.)"
+  },
+  {
+    "id": "p-3077d9",
+    "offset": 3362,
+    "text": "AMPHITRYON:\nScoundrel! at your master? If I lay hands upon you this day, I’ll bring you to that pitch of misery, that you shall be miserable for evermore."
+  },
+  {
+    "id": "p-011b7f",
+    "offset": 3518,
+    "text": "MERCURY:\nSurely, you must have been playing the Bacchanal, old gentleman."
+  },
+  {
+    "id": "p-47073a",
+    "offset": 3593,
+    "text": "AMPHITRYON:\nWhy so?"
+  },
+  {
+    "id": "p-e62714",
+    "offset": 3614,
+    "text": "MERCURY:\nInasmuch as you take me to be your slave."
+  },
+  {
+    "id": "p-7a4906",
+    "offset": 3666,
+    "text": "AMPHITRYON:\nWhat? I—take you?"
+  },
+  {
+    "id": "p-275a62",
+    "offset": 3697,
+    "text": "MERCURY:\nPlague upon you! I know no master but Amphitryon."
+  },
+  {
+    "id": "p-01fafe",
+    "offset": 3757,
+    "text": "AMPHITRYON:\n(to himself.)\nHave I lost my form? It’s strange that Sosia shouldn’t know me. I’ll make trial. (Calling out.)\nHow now! Tell me who I appear to be? Am I not really Amphitryon?"
+  },
+  {
+    "id": "p-fdcc34",
+    "offset": 3945,
+    "text": "MERCURY:\nAmphitryon? Are you in your senses? Has it not been told you before, old fellow, that you have been playing the Bacchanal, to be asking another person who you are? Get away, I recommend you, don’t be troublesome while Amphitryon, who has just come back from the enemy, is indulging himself with the company of his wife."
+  },
+  {
+    "id": "p-10bd00",
+    "offset": 4275,
+    "text": "AMPHITRYON:\nWhat wife?"
+  },
+  {
+    "id": "p-74e3a7",
+    "offset": 4299,
+    "text": "MERCURY:\nAlcmena."
+  },
+  {
+    "id": "p-9d8a30",
+    "offset": 4318,
+    "text": "AMPHITRYON:\nWhat man?"
+  },
+  {
+    "id": "p-cbfd3e",
+    "offset": 4341,
+    "text": "MERCURY:\nHow often do you want it told? Amphitryon, my master;—don’t be troublesome."
+  },
+  {
+    "id": "p-51ee02",
+    "offset": 4427,
+    "text": "AMPHITRYON:\nWho’s he sleeping with?"
+  },
+  {
+    "id": "p-6e3dc1",
+    "offset": 4464,
+    "text": "MERCURY:\nTake care that you don’t meet with some mishap in trifling with me this way."
+  },
+  {
+    "id": "p-5f1b2c",
+    "offset": 4551,
+    "text": "AMPHITRYON:\nPrithee, do tell me, my dear Sosia."
+  },
+  {
+    "id": "p-f69881",
+    "offset": 4600,
+    "text": "MERCURY:\nMore civilly said—with Alcmena."
+  },
+  {
+    "id": "p-545fbf",
+    "offset": 4642,
+    "text": "AMPHITRYON:\nIn the same chamber?"
+  },
+  {
+    "id": "p-de0d29",
+    "offset": 4676,
+    "text": "MERCURY:\nYes, as I fancy, he is sleeping with her side by side."
+  },
+  {
+    "id": "p-4b98f0",
+    "offset": 4741,
+    "text": "AMPHITRYON:\nAlas!—wretch that I am!"
+  },
+  {
+    "id": "p-0cd0ca",
+    "offset": 4778,
+    "text": "MERCURY:\n(to the AUDIENCE.)\nIt really is a gain which he imagines to be a misfortune. For to lend one’s wife to another is just as though you were to let out barren land to be ploughed."
+  },
+  {
+    "id": "p-c4a2fe",
+    "offset": 4965,
+    "text": "AMPHITRYON:\nSosia!"
+  },
+  {
+    "id": "p-827f05",
+    "offset": 4985,
+    "text": "MERCURY:\nWhat, the plague, about Sosia?"
+  },
+  {
+    "id": "p-560a91",
+    "offset": 5026,
+    "text": "AMPHITRYON:\nDon’t you know me, you whip-scoundrel?"
+  },
+  {
+    "id": "p-2c0c05",
+    "offset": 5078,
+    "text": "MERCURY:\nI know that you are a troublesome fellow, who have no need to go buy a lawsuit."
+  },
+  {
+    "id": "p-840383",
+    "offset": 5168,
+    "text": "AMPHITRYON:\nStill once more—am I not your master Amphitryon?"
+  },
+  {
+    "id": "p-ff995d",
+    "offset": 5230,
+    "text": "MERCURY:\nYou are Bacchus himself, and not Amphitryon. How often do you want to be told? Any times more? My master Amphitryon, in the same chamber, is holding Alcmena in his embraces. If you persist, I’ll produce him here, and not without your great discomfiture."
+  },
+  {
+    "id": "p-b9b161",
+    "offset": 5494,
+    "text": "AMPHITRYON:\nI wish him to be fetched. (Aside.) I pray that this day, in return for my services, I may not lose house, wife, and household, together with my figure."
+  },
+  {
+    "id": "p-62a0df",
+    "offset": 5659,
+    "text": "MERCURY:\nWell, I’ll fetch him; but, in the meantime, do you mind about the door, please. (Aside.) I suppose that by this he has brought the sacrifice that he was intending, as far as the banquet. (Aloud.) If you are troublesome, you shan’t escape without my making a sacrifice of you.\n(He retires into the house.)"
+  },
+  {
+    "id": "p-7ba6bc",
+    "offset": 5974,
+    "text": "AMPHITRYON:\nYe Gods, by my trust in you, what madness is distracting my household? What wondrous things have I seen since I arrived from abroad! Why, it’s true, surely, what was once heard tell of, how that men of Attica were transformed in Arcadia, and remained as savage wild beasts, and were not ever afterwards known unto their parents."
+  },
+  {
+    "id": "p-2e9698",
+    "offset": 6316,
+    "text": "(Enter BLEPHARO and SOSIA, at a distance.)"
+  },
+  {
+    "id": "p-84cd5b",
+    "offset": 6360,
+    "text": "BLEPHARO:\nWhat’s this, Sosia? Great marvels are these that you are telling of. Do you say that you found another Sosia at home exactly like yourself?"
+  },
+  {
+    "id": "p-58037a",
+    "offset": 6511,
+    "text": "SOSIA:\nI do say so—but, hark you, since I have produced a Sosia, Amphitryon an Amphitryon, how do you know whether you, perchance, may not be producing another Blepharo? O that the Gods would grant that you as well, belaboured with fists, and with your teeth knocked out, going without your breakfast, might credit this. ForI, that other Sosia, that is to say, who am yonder, has mauled me in a dreadful manner."
+  },
+  {
+    "id": "p-5bae01",
+    "offset": 6924,
+    "text": "BLEPHARO:\nReally, it is wonderful; but it’s as well to mend our pace; for, as I perceive, Amphitryon is waiting for us, and my empty stomach is grumbling."
+  },
+  {
+    "id": "p-183aeb",
+    "offset": 7080,
+    "text": "AMPHITRYON:\n(apart.)\n—And why do I mention foreign legends? More wondrous things they relate to have happened among our Theban race in former days; that mighty searcher for Europa, attacking the monster sprung from Mars, suddenly produced his enemies from the serpent-seed; and in that battle fought, brother pressed on brother with lance and helm; the Epirote land, too, beheld the author of our race, together with the daughter of Venus, gliding as serpents. From on high supreme Jove thus willed it; thus destiny directs. All the noblest of our country, in return for their bright achievements, are pursued with direful woes. This fatality is pressing hard on me—still I could endure disasters so great, and submit to woes hardly to be endured—"
+  },
+  {
+    "id": "p-f6d19b",
+    "offset": 7829,
+    "text": "SOSIA:\nBlepharo."
+  },
+  {
+    "id": "p-eb87af",
+    "offset": 7847,
+    "text": "BLEPHARO:\nWhat’s the matter?"
+  },
+  {
+    "id": "p-c85629",
+    "offset": 7877,
+    "text": "SOSIA:\nI don’t know; I suspect something wrong."
+  },
+  {
+    "id": "p-6ee2f0",
+    "offset": 7926,
+    "text": "BLEPHARO:\nWhy?"
+  },
+  {
+    "id": "p-1ab0a8",
+    "offset": 7942,
+    "text": "SOSIA:\nLook, please, our master, like an humble courtier, is walking before the door bolted fast."
+  },
+  {
+    "id": "p-ec9605",
+    "offset": 8041,
+    "text": "BLEPHARO:\nIt’s nothing; walking to and fro, he’s looking for an appetite."
+  },
+  {
+    "id": "p-44573a",
+    "offset": 8116,
+    "text": "SOSIA:\nAfter a singular fashion, indeed; for he has shut the door, that it mayn’t escape out of the house."
+  },
+  {
+    "id": "p-e4fe5b",
+    "offset": 8224,
+    "text": "BLEPHARO:\nYou do go yelping on."
+  },
+  {
+    "id": "p-aa3c5c",
+    "offset": 8257,
+    "text": "SOSIA:\nI go neither yelping on nor barking on; if you listen to me, observe him. I don’t know why he’s by himself alone; he’s making some calculation, I suppose. I can hear from this spot what he says— don’t be in a hurry."
+  },
+  {
+    "id": "p-8ab8f8",
+    "offset": 8481,
+    "text": "AMPHITRYON:\n(apart.)\nHow much I fear lest the Gods should blot out the glory I have acquired in the conquest of the foe. In wondrous manner do I see the whole of my household in commotion. And then my wife, so full of viciousness, incontinence, and dishonor, kills me outright. But about the goblet, it is a singular thing; yet the seal was properly affixed. And what besides? She recounted to me the battles I had fought; Pterelas, too, besieged and bravely slain by my own hand, Aye, aye—now I know the trick; this was done by Sosia’s contrivance, who as well has disgracefully presumed to-day to get before me on my arrival."
+  },
+  {
+    "id": "p-43229d",
+    "offset": 9110,
+    "text": "SOSIA:\n(to BLEPHARO.)\nHe’s talking about me, and in terms that I had rather not. Prithee, don’t let’s accost this man until he has disclosed his wrath."
+  },
+  {
+    "id": "p-e3b138",
+    "offset": 9263,
+    "text": "BLEPHARO:\nJust as you please."
+  },
+  {
+    "id": "p-bc0a6c",
+    "offset": 9294,
+    "text": "AMPHITRYON:\n(apart.)\nIf it is granted me this day to lay hold of that whip-scoundrel, I’ll show him what it is to deceive his master, and to assail me with threats and tricks."
+  },
+  {
+    "id": "p-e2989a",
+    "offset": 9471,
+    "text": "SOSIA:\nDo you hear him?"
+  },
+  {
+    "id": "p-da2963",
+    "offset": 9496,
+    "text": "BLEPHARO:\nI hear him."
+  },
+  {
+    "id": "p-badd5a",
+    "offset": 9519,
+    "text": "SOSIA:\nThat implement (pointing to AMPHITRYON’S walkingstick) is a burden for my shoulder-blades. Let’s accost the man, if you please. Do you know what is in the habit of being commonly said?"
+  },
+  {
+    "id": "p-27f7f1",
+    "offset": 9712,
+    "text": "BLEPHARO:\nWhat you are going to say, I don’t know; what you’ll have to endure I pretty well guess."
+  },
+  {
+    "id": "p-cdad82",
+    "offset": 9812,
+    "text": "SOSIA:\nIt’s an old adage— Hunger and delay summon anger to the nostrils."
+  },
+  {
+    "id": "p-d4048c",
+    "offset": 9886,
+    "text": "BLEPHARO:\nAye, and well suited to the occasion. Let’s address him directly—Amphitryon!"
+  },
+  {
+    "id": "p-d08630",
+    "offset": 9974,
+    "text": "AMPHITRYON:\n(looking round.)\nIs it Blepharo I hear? It’s strange why he’s come to me. Still, he presents himself opportunely, for me to prove the guilty conduct of my wife. Why have you come here to me, Blepharo?"
+  },
+  {
+    "id": "p-0aa1ea",
+    "offset": 10188,
+    "text": "BLEPHARO:\nHave you so soon forgotten how early in the morning you sent Sosia to the ship, that I might take a repast with you to-day?"
+  },
+  {
+    "id": "p-d36279",
+    "offset": 10323,
+    "text": "AMPHITRYON:\nNever in this world was it done. But where is that scoundrel?"
+  },
+  {
+    "id": "p-eeca22",
+    "offset": 10398,
+    "text": "BLEPHARO:\nWho?"
+  },
+  {
+    "id": "p-cfa310",
+    "offset": 10414,
+    "text": "AMPHITRYON:\nSosia."
+  },
+  {
+    "id": "p-a01aca",
+    "offset": 10434,
+    "text": "BLEPHARO:\nSee, there he is.\n(Points at him.)"
+  },
+  {
+    "id": "p-17acb0",
+    "offset": 10480,
+    "text": "AMPHITRYON:\n(looking about.)\nWhere? BLEPH. Before your eyes; don’t you see him?"
+  },
+  {
+    "id": "p-f966b3",
+    "offset": 10561,
+    "text": "AMPHITRYON:\nI can hardly see for anger, so distracted has that fellow made me this day. You shall never escape my making a sacrifice of you. (Offers to strike SOSIA, on which BLEPHARO prevents him.) Do let me, Blepharo."
+  },
+  {
+    "id": "p-a9c448",
+    "offset": 10782,
+    "text": "BLEPHARO:\nListen, I pray."
+  },
+  {
+    "id": "p-840264",
+    "offset": 10809,
+    "text": "AMPHITRYON:\nSay on, I’m listening— (gives a blow to SOSIA) you take that."
+  },
+  {
+    "id": "p-b41c1a",
+    "offset": 10884,
+    "text": "SOSIA:\nFor what reason? Am I not in good time? I couldn’t have gone quicker, if I had betaken myself on the oar-like wings of Daedalus.\n(AMPHITRYON tries to strike him again.)"
+  },
+  {
+    "id": "p-b9a5ea",
+    "offset": 11061,
+    "text": "BLEPHARO:\nPrithee, do leave him alone; we couldn’t quicken our pace any further."
+  },
+  {
+    "id": "p-d0ed8a",
+    "offset": 11143,
+    "text": "AMPHITRYON:\nWhether it was the pace of a man on stilts or that of the tortoise, I’m determined to be the death of this villain. (Striking him at each sentence.) Take that for the roof; that for the tiles; that for closing the door; that for making fun of your master; that for your abusive language."
+  },
+  {
+    "id": "p-d59868",
+    "offset": 11444,
+    "text": "BLEPHARO:\nWhat injury has he been doing to you?"
+  },
+  {
+    "id": "p-3479e0",
+    "offset": 11493,
+    "text": "AMPHITRYON:\nDo you ask? Shut out of doors, from that housetop (pointing to it) he has driven me away from my house."
+  },
+  {
+    "id": "p-bb6935",
+    "offset": 11610,
+    "text": "SOSIA:\nWhat, I?"
+  },
+  {
+    "id": "p-95e25d",
+    "offset": 11627,
+    "text": "AMPHITRYON:\nWhat did you threaten that you would do if I knocked at that door? Do you deny it, you scoundrel?"
+  },
+  {
+    "id": "p-1a9950",
+    "offset": 11738,
+    "text": "SOSIA:\nWhy shouldn’t I deny it? See, he’s sufficiently a witness with whom I have just now come; I was sent on purpose that by your invitation I might bring him to your house."
+  },
+  {
+    "id": "p-e4f783",
+    "offset": 11915,
+    "text": "AMPHITRYON:\nWho sent you, villain?"
+  },
+  {
+    "id": "p-f1a592",
+    "offset": 11951,
+    "text": "SOSIA:\nHe who asks me the question."
+  },
+  {
+    "id": "p-e60f93",
+    "offset": 11988,
+    "text": "AMPHITRYON:\nWhen, of all things?"
+  },
+  {
+    "id": "p-314d41",
+    "offset": 12022,
+    "text": "SOSIA:\nSome little time since-not long since—just now. When you were reconciled at home to your wife."
+  },
+  {
+    "id": "p-dec372",
+    "offset": 12125,
+    "text": "AMPHITRYON:\nBacchus must have demented you."
+  },
+  {
+    "id": "p-985b2f",
+    "offset": 12170,
+    "text": "SOSIA:\nMay I not be paying my respects to Bacchus this day, nor yet to Ceres. You ordered the vessels to be made clean, that you might perform a sacrifice, and you sent me to fetch him (pointing to BLEPHARO), that he might breakfast with you."
+  },
+  {
+    "id": "p-cf468f",
+    "offset": 12414,
+    "text": "AMPHITRYON:\nBlepharo, may I perish outright if I have either been in the house, or if I have sent him. (To SOSIA.) Tell me—where did you leave me?"
+  },
+  {
+    "id": "p-81c9a4",
+    "offset": 12562,
+    "text": "SOSIA:\nAt home, with your wife Alcmena. Leaving you, I flew towards the harbour, and invited him in your name. We are come, and I’ve not seen you since till now."
+  },
+  {
+    "id": "p-e9635d",
+    "offset": 12725,
+    "text": "AMPHITRYON:\nVillanous fellow! With my wife, say you? You shall never go away without getting a beating.\n(Gives him a blow.)"
+  },
+  {
+    "id": "p-6d3dee",
+    "offset": 12850,
+    "text": "SOSIA:\n(crying out.)\nBlepharo!"
+  },
+  {
+    "id": "p-dfac2d",
+    "offset": 12882,
+    "text": "BLEPHARO:\nAmphitryon, do let him alone, for my sake, and listen to me."
+  },
+  {
+    "id": "p-258c66",
+    "offset": 12954,
+    "text": "AMPHITRYON:\nWell then, I’ll let him alone. What do you want? Say on."
+  },
+  {
+    "id": "p-2582cd",
+    "offset": 13024,
+    "text": "BLEPHARO:\nHe has just now been telling me most extraordi nary marvels. A juggler, or a sorcerer, perhaps, has enchanted all this household of yours. Do enquire in other quarters, and examine how it is. And don’t cause this poor fellow to be tortured, before you understand the matter."
+  },
+  {
+    "id": "p-63ee55",
+    "offset": 13310,
+    "text": "AMPHITRYON:\nYou give good advice; let’s go in, I want you also to be my advocate against my wife.\n(Knocks at the door.)"
+  },
+  {
+    "id": "p-98235a",
+    "offset": 13431,
+    "text": "(Enter JUPITER, from the house.)"
+  },
+  {
+    "id": "p-ce2460",
+    "offset": 13465,
+    "text": "JUPITER:\nWho with such weighty blows has been shaking this door on all the hinges? Who has been making such a great disturbance for this long while before the house? If I find him out, I’ll sacrifice him to the shades of the Teleboans. There’s nothing, as the common saying is, that goes on well with me to-day. I left Blepharo and Sosia that I might find my kinsman Naucrates; him I have not found, and them I have lost. But I espy them; I’ll go meet them, to enquire if they have any news."
+  },
+  {
+    "id": "p-fec248",
+    "offset": 13958,
+    "text": "SOSIA:\nBlepharo, that’s our master that’s coming out of the house; but this man’s the sorcerer."
+  },
+  {
+    "id": "p-a0e96d",
+    "offset": 14055,
+    "text": "BLEPHARO:\nO Jupiter! What do I behold? This is not, but that is, Amphitryon; if this is, why really that cannot be he, unless, indeed, he is double."
+  },
+  {
+    "id": "p-ee2192",
+    "offset": 14205,
+    "text": "JUPITER:\nSee now, here’s Sosia with Blepharo; I’ll accost them the first. Well, Sosia, come to us at last? I’m quite hungry."
+  },
+  {
+    "id": "p-06922f",
+    "offset": 14331,
+    "text": "SOSIA:\nDidn’t I tell you, Blepharo, that this one was the sorcerer?"
+  },
+  {
+    "id": "p-3439a4",
+    "offset": 14400,
+    "text": "AMPHITRYON:\nNay, Theban citizens, I say that this is he (pointing to JUPITER) who in my house has made my wife guilty of incontinence, through whom I find a store of unchastity laid up for me."
+  },
+  {
+    "id": "p-4ec736",
+    "offset": 14594,
+    "text": "SOSIA:\n(to JUPITER)\nMaster, if now you are hungry, crammed full of fisticuffs, I betake me to you."
+  },
+  {
+    "id": "p-bf0e61",
+    "offset": 14694,
+    "text": "AMPHITRYON:\nDo you persist, whip-scoundrel?"
+  },
+  {
+    "id": "p-db6f39",
+    "offset": 14739,
+    "text": "SOSIA:\nHie thee to Acheron, sorcerer."
+  },
+  {
+    "id": "p-7ff681",
+    "offset": 14778,
+    "text": "AMPHITRYON:\nWhat, I a sorcerer? (Strikes him.) Take that."
+  },
+  {
+    "id": "p-5c9b2d",
+    "offset": 14837,
+    "text": "JUPITER:\nWhat madness possesses you, stranger, for you to be beating my servant?"
+  },
+  {
+    "id": "p-5ac8cb",
+    "offset": 14919,
+    "text": "AMPHITRYON:\nYour servant?"
+  },
+  {
+    "id": "p-c6618a",
+    "offset": 14946,
+    "text": "JUPITER:\nMine."
+  },
+  {
+    "id": "p-c060af",
+    "offset": 14962,
+    "text": "AMPHITRYON:\nYou lie."
+  },
+  {
+    "id": "p-4fd754",
+    "offset": 14984,
+    "text": "JUPITER:\nSosia, go in-doors, and take care the breakfast is got ready while I’m sacrificing this fellow."
+  },
+  {
+    "id": "p-fa5291",
+    "offset": 15090,
+    "text": "SOSIA:\nI’ll go. (Aside.) Amphitryon, I suppose, will receive the other Amphitryon as courteously as I, that other Sosia, did me, Sosia, a while ago. Meantime, while they are contending, I’ll turn aside into the victualling department: I’ll clean out all the dishes, and all the vessels I’ll drain.\n(Goes into the house.)"
+  },
+  {
+    "id": "p-91bfc1",
+    "offset": 15412,
+    "text": "(JUPITER, AMPHITRYON, and BLEPHARO.)"
+  },
+  {
+    "id": "p-b6d44d",
+    "offset": 15450,
+    "text": "JUPITER:\nDo you say that I lie?"
+  },
+  {
+    "id": "p-38a197",
+    "offset": 15483,
+    "text": "AMPHITRYON:\nYou lie, I say, you corrupter of my family."
+  },
+  {
+    "id": "p-2bcabd",
+    "offset": 15540,
+    "text": "JUPITER:\nFor that disgraceful speech, I’ll drag you along here, seizing you by the throat.\n(Seizes him by the throat.)"
+  },
+  {
+    "id": "p-9c1e0f",
+    "offset": 15660,
+    "text": "AMPHITRYON:\nAh wretched me!"
+  },
+  {
+    "id": "p-37f875",
+    "offset": 15689,
+    "text": "JUPITER:\nBut you should have had a care of this beforehand."
+  },
+  {
+    "id": "p-7a7e8c",
+    "offset": 15750,
+    "text": "AMPHITRYON:\nBlepharo, aid me!"
+  },
+  {
+    "id": "p-9e4f32",
+    "offset": 15781,
+    "text": "BLEPHARO:\n(aside.)\nThe two are so exactly alike that I don’t know which to side with. Still, so far as possible, I’ll put an end to their contention. (Aloud.) Amphitryon, don’t slay Amphitryon in fight; let go his throat, I pray."
+  },
+  {
+    "id": "p-a92779",
+    "offset": 16012,
+    "text": "JUPITER:\nAre you calling this fellow Amphitryon?"
+  },
+  {
+    "id": "p-850e64",
+    "offset": 16062,
+    "text": "BLEPHARO:\nWhy not? Formerly he was but one, but now he has become double. While you are wanting to be he, the other, too, doesn’t cease to be of his form. Meanwhile, prithee, do leave go of his neck."
+  },
+  {
+    "id": "p-4bb455",
+    "offset": 16263,
+    "text": "JUPITER:\nI will leave go. (Lets go of AMPHITRYON.) But tell me, does that fellow appear to you to be Amphitryon?"
+  },
+  {
+    "id": "p-4d2309",
+    "offset": 16377,
+    "text": "BLEPHARO:\nReally, both of you do."
+  },
+  {
+    "id": "p-a3ff05",
+    "offset": 16412,
+    "text": "AMPHITRYON:\nO supreme Jupiter! when this day didst thou take from me my form? I’ll proceed to make enquiry of him; are you Amphitryon?"
+  },
+  {
+    "id": "p-6c7aed",
+    "offset": 16548,
+    "text": "JUPITER:\nDo you deny it?"
+  },
+  {
+    "id": "p-84f12d",
+    "offset": 16574,
+    "text": "AMPHITRYON:\nDownright do I deny it, inasmuch as in Thebes there is no other Amphitryon besides myself."
+  },
+  {
+    "id": "p-6c952a",
+    "offset": 16678,
+    "text": "JUPITER:\nOn the contrary, no other besides myself; and, in fact, do you, Blepharo, be the judge."
+  },
+  {
+    "id": "p-556565",
+    "offset": 16776,
+    "text": "BLEPHARO:\nI’ll make this matter clear by proofs, if I can. (To AMPHITRYON.) Do you answer first."
+  },
+  {
+    "id": "p-d1784c",
+    "offset": 16874,
+    "text": "AMPHITRYON:\nWith pleasure."
+  },
+  {
+    "id": "p-59b681",
+    "offset": 16902,
+    "text": "BLEPHARO:\nBefore the battle with the Taphians was begun by you, what orders did you give me?"
+  },
+  {
+    "id": "p-6a4ae0",
+    "offset": 16996,
+    "text": "AMPHITRYON:\nThe ship being in readiness, for you carefully to keep close to the rudder."
+  },
+  {
+    "id": "p-3be725",
+    "offset": 17085,
+    "text": "JUPITER:\nThat if our people should take to flight, I might betake myself in safety thither."
+  },
+  {
+    "id": "p-634d59",
+    "offset": 17178,
+    "text": "BLEPHARO:\nAnything else as well?"
+  },
+  {
+    "id": "p-71c405",
+    "offset": 17212,
+    "text": "AMPHITRYON:\nThat the bag loaded with treasure should be carefully guarded."
+  },
+  {
+    "id": "p-054705",
+    "offset": 17288,
+    "text": "JUPITER:\nBecause the money—"
+  },
+  {
+    "id": "p-a6c988",
+    "offset": 17317,
+    "text": "BLEPHARO:\nHold your tongue, you, if you please; it’s my place to ask. Did you know the amount?"
+  },
+  {
+    "id": "p-ffb640",
+    "offset": 17413,
+    "text": "JUPITER:\nFifty Attic talents."
+  },
+  {
+    "id": "p-eafea0",
+    "offset": 17444,
+    "text": "BLEPHARO:\nHe tells the truth to a nicety. And you (to AMPHITRYON), how many Philippeans?"
+  },
+  {
+    "id": "p-6eaea9",
+    "offset": 17534,
+    "text": "AMPHITRYON:\nTwo thousand."
+  },
+  {
+    "id": "p-881949",
+    "offset": 17561,
+    "text": "JUPITER:\nAnd obols twice as many."
+  },
+  {
+    "id": "p-8f7ecf",
+    "offset": 17596,
+    "text": "BLEPHARO:\nEach of you states the matter correctly. Inside the bag one of you must have been shut up."
+  },
+  {
+    "id": "p-80c3a7",
+    "offset": 17698,
+    "text": "JUPITER:\nAttend, please. With this right hand, as you know, I slew king Pterelas; his spoils I seized, and the goblet from which he had been used to drink I brought away in a casket; I made a present of it to my wife, with whom this day at home I bathed, I sacrificed, and slept."
+  },
+  {
+    "id": "p-14c17d",
+    "offset": 17979,
+    "text": "AMPHITRYON:\nAh me! what do I hear? I scarcely am myself. For, awake, I am asleep; awake, I am in a dream; alive and well, I come to destruction. I am that same Amphitryon, the descendant of Gorgophone, the general of the Thebans, and the sole combatant for Creon against the Teleboans; I, who have subdued by my might the Acarnanians and the Taphians, and, by my consummate warlike prowess, their king. Over these have I appointed Cephalus, the son of the great Deioneus."
+  },
+  {
+    "id": "p-69d463",
+    "offset": 18452,
+    "text": "JUPITER:\nI am he who by warfare and my valour crushed the hostile ravagers. They had destroyed Electryon and the brothers of my wife. Wandering through the Ionian, the Aegean, and the Cretan seas, with piratical violence they laid waste Achaia, Aetolia, and Phocis."
+  },
+  {
+    "id": "p-c382da",
+    "offset": 18719,
+    "text": "AMPHITRYON:\nImmortal Gods! I cannot trust my own self, so exactly does he relate all the things that happened there. Consider, Blepharo."
+  },
+  {
+    "id": "p-7e82d4",
+    "offset": 18857,
+    "text": "BLEPHARO:\nOne thing only remains; if so it is, do you be Amphitryons both of you."
+  },
+  {
+    "id": "p-6afe17",
+    "offset": 18940,
+    "text": "JUPITER:\nI knew what you would say. The scar that I have on the muscle of my right arm, from the wound which Pterelas gave me—"
+  },
+  {
+    "id": "p-ac3f38",
+    "offset": 19068,
+    "text": "BLEPHARO:\nWell, that."
+  },
+  {
+    "id": "p-3d6bc6",
+    "offset": 19091,
+    "text": "AMPHITRYON:\nQuite to the purpose."
+  },
+  {
+    "id": "p-225974",
+    "offset": 19126,
+    "text": "JUPITER:\nSee you! look, behold!"
+  },
+  {
+    "id": "p-d7ec23",
+    "offset": 19159,
+    "text": "BLEPHARO:\nUncover, and I’ll look."
+  },
+  {
+    "id": "p-5670c9",
+    "offset": 19194,
+    "text": "JUPITER:\nWe have uncovered. Look!\n(They show their naked arms.)"
+  },
+  {
+    "id": "p-5888b0",
+    "offset": 19259,
+    "text": "BLEPHARO:\n(looking at the right arm of each.)\nSupreme Jupiter, what do I behold? On the right-arm muscle of each, in the same spot, the scar clearly appears with the same mark, reddish and somewhat livid, just as it has first commenced to close. Reasoning is at a standstill, all judgment is struck dumb; I don’t know what to do."
+  },
+  {
+    "id": "p-d4330d",
+    "offset": 19590,
+    "text": "BLEPHARO:\nDo you settle these matters between yourselves; I’m off, for I have business; and I do not think that I have ever anywhere beheld such extraordinary wonders."
+  },
+  {
+    "id": "p-fc59b9",
+    "offset": 19759,
+    "text": "AMPHITRYON:\nBlepharo, I pray that you’ll stay as my advocate, and not go away."
+  },
+  {
+    "id": "p-3c107a",
+    "offset": 19839,
+    "text": "BLEPHARO:\nFarewell. What need is there of me for an advocate, who don’t know which of the two to side with?"
+  },
+  {
+    "id": "p-dda3da",
+    "offset": 19948,
+    "text": "JUPITER:\nI’m going hence in-doors: Alcmena is in labour.\n(Exit BLEPHARO, and JUPITER goes into AMPHITRYON’S house.)"
+  },
+  {
+    "id": "p-b7e0c9",
+    "offset": 20065,
+    "text": "AMPHITRYON:\n(aloud to himself.)\nI’m undone, wretch that I am;"
+  },
+  {
+    "id": "p-2304d3",
+    "offset": 20128,
+    "text": "for what am I to do, when my advocates and friends are now forsaking me? Never, by heavens, shall he deride me unrevenged, whoever he is. Now will I betake myself straight to the king, and tell him of the matter as it has happened. By my faith, I will this day take vengeance on this Thessalian sorcerer, who has wrongfully distracted the minds of my household."
+  },
+  {
+    "id": "p-906994",
+    "offset": 20491,
+    "text": "But where is he? (Looking around.) By my troth, he’s off into the house, to my wife, I suppose. What other person lives in Thebes more wretched than myself? What now shall I do? I, whom all men deny and deride just as they please. I am resolved; I’ll burst into the house; there, whatever person I perceive, whether maid-servant or man-servant, whether wife or whether paramour, whether father or whether grandfather, I’ll behead that person in the house; neither Jupiter nor all the Deities shall hinder me from this, even if they would, but that I’ll do just as I have resolved.\n(As he advances to the door, it thunders, and he falls in a swoon upon the ground.)"
+  }
+]

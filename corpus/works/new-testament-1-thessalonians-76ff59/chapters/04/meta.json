@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-1-thessalonians-76ff59",
+  "work_title": "1 Thessalonians",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4ac78197-ce57-5e64-aaf6-6acd71a233d5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 308,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg013.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f09e474c-0e50-5f0b-a53d-eedaf0361898",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 402,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg013.perseus-eng2:4"
+    }
+  ]
+}

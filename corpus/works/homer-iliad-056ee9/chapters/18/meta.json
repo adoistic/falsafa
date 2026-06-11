@@ -1,0 +1,39 @@
+{
+  "work_slug": "homer-iliad-056ee9",
+  "work_title": "Iliad",
+  "chapter_number": 18,
+  "chapter_title": "Book 18",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "21fdcd38-842b-50c5-8fc0-54c9b61395d4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4420,
+      "paragraph_count": 617,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:18"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e7d27f91-b192-56ff-b564-1d5f6bb47661",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6077,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:18"
+    }
+  ]
+}

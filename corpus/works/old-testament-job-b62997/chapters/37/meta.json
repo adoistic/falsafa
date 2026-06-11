@@ -1,0 +1,39 @@
+{
+  "work_slug": "old-testament-job-b62997",
+  "work_title": "Job",
+  "chapter_number": 37,
+  "chapter_title": "Chapter 37",
+  "chapter_slug": "37",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5e8b4b67-54b2-585d-8ef3-7342d991eb4e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 500,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg032.1st1K-grc1:37"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "07537dea-270a-5f94-81a1-558931daf0e2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 400,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg032.perseus-eng2:37"
+    }
+  ]
+}

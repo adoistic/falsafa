@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-1-peter-8eb45e",
+  "work_title": "1 Peter",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6c7e5681-8a50-5651-aaec-66c5c7befeb2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 201,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg021.perseus-grc2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2714a29e-392a-5816-bb4c-b90d21a45456",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 297,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg021.perseus-eng2:5"
+    }
+  ]
+}

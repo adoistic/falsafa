@@ -1,0 +1,39 @@
+{
+  "work_slug": "old-testament-proverbs-75986c",
+  "work_title": "Proverbs",
+  "chapter_number": 19,
+  "chapter_title": "Chapter 19",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e143ef50-2996-50a5-a215-f3fa8d439328",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 436,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg029.1st1K-grc1:19"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1a7aa52d-d833-5e3e-a360-9e8c4d76fe3b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 478,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg029.perseus-eng2:19"
+    }
+  ]
+}

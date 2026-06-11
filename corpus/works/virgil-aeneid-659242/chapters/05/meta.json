@@ -1,0 +1,38 @@
+{
+  "work_slug": "virgil-aeneid-659242",
+  "work_title": "Aeneid",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8340962b-1936-5943-b47e-50806aa785cd",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5551,
+      "paragraph_count": 402,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi003.perseus-lat2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c08cc53c-0b58-5591-820d-16ca004b96c7",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8598,
+      "paragraph_count": 246,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi003.perseus-eng2:5"
+    }
+  ]
+}

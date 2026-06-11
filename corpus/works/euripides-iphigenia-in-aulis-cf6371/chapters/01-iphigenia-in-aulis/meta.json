@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-iphigenia-in-aulis-cf6371",
+  "work_title": "Iphigenia in Aulis",
+  "chapter_number": 1,
+  "chapter_title": "Iphigenia in Aulis",
+  "chapter_slug": "01-iphigenia-in-aulis",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d0a5b68a-2a35-55e2-a939-78b9a4c99d0f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9799,
+      "paragraph_count": 1653,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3a216f15-d1be-55f3-98ee-6a8608705360",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 14866,
+      "paragraph_count": 560,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2"
+    }
+  ]
+}

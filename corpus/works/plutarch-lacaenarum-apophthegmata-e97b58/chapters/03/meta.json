@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-lacaenarum-apophthegmata-e97b58",
+  "work_title": "Lacaenarum Apophthegmata",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3605681a-442b-5356-af26-6b496cff32a4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 88,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg082b.perseus-grc4:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c279aa50-8119-5586-bb90-ec7860514c8e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 245,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg082b.perseus-eng2:3"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-publicola-0b0e18",
+  "work_title": "Publicola",
+  "chapter_number": 20,
+  "chapter_title": "Chapter 20",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "288bc1f9-21a0-5ea2-a655-2fbd98d2d254",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 130,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg008.perseus-grc2:20"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0aaa9725-0159-5c99-991f-288dd4b3be44",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 196,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg008.perseus-eng2:20"
+    }
+  ]
+}

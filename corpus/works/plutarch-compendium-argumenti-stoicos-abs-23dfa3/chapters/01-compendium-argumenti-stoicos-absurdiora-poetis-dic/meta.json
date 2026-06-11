@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-compendium-argumenti-stoicos-abs-23dfa3",
+  "work_title": "Compendium argumenti Stoicos absurdiora poetis dicere",
+  "chapter_number": 1,
+  "chapter_title": "Compendium argumenti Stoicos absurdiora poetis dicere",
+  "chapter_slug": "01-compendium-argumenti-stoicos-absurdiora-poetis-dic",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2d6545f6-456c-5a3d-b95f-2a101741163e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 502,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg137.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "272a88c4-f7bc-56c9-8dd1-3ff25d151066",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 814,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg137.perseus-eng2"
+    }
+  ]
+}

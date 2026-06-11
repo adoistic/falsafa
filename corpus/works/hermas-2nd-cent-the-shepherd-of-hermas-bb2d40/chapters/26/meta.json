@@ -1,0 +1,38 @@
+{
+  "work_slug": "hermas-2nd-cent-the-shepherd-of-hermas-bb2d40",
+  "work_title": "The Shepherd of Hermas",
+  "chapter_number": 26,
+  "chapter_title": "Book 26",
+  "chapter_slug": "26",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fa50f085-233c-5928-86db-d62916bb9631",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7852,
+      "paragraph_count": 197,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1419.tlg001.1st1K-grc1:26"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49ab67b9-3fcf-5065-a8eb-c7bce2fd5cd8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 10057,
+      "paragraph_count": 196,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1419.tlg001.perseus-eng1:26"
+    }
+  ]
+}

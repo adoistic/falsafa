@@ -1,0 +1,21 @@
+---
+work_id: "311ae72f-0571-54bf-84ba-1c4cffbaf679"
+work_slug: "pseudo-caesar-de-bello-alexandrino-311ae7"
+work_title: De Bello Alexandrino
+author_name: "Pseudo-Caesar"
+chapter_number: 40
+chapter_title: Chapter 40
+chapter_slug: 40
+variant_id: "90f64d22-ca18-59ee-9be9-9f52aa2371cf"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 262
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0428.phi001.perseus-eng1:40"
+translator: Perseus Digital Library
+---
+
+The signal to attack was given almost simultaneously on both sides: then came the charge, with hotly contested and fluctuating fighting. Thus the Thirty-Sixth legion launched an attack on the king’s cavalry outside the trench and fought so successful an action that it advanced up to the walls of the town, crossed the trench, and attacked the enemy in rear. The Pontic legion, however, on the other Hank, drew back a little from the enemy, and attempted, moreover, to go round or cross the trench, so as to attack the enemy’s exposed flank but in the actual crossing of the trench it was pinned down and overwhelmed. The legions of Deiotarus, indeed, offered scarcely any resistance to the attack. Consequently the king’s forces, victorious on their own right wing and in the centre of the line, now turned upon the Thirty-Sixth legion. The latter, nevertheless, bore up bravely under the victors’ attack and, though surrounded by large enemy forces, yet with consummate presence of mind formed a circle and so made a fighting withdrawal to the foothills, where Pharnaces was loth to pursue it owing to the hilly nature of the ground. And so, with the Pontic legion an almost total loss and a large proportion of the troops of Deiotarus killed, the Thirty-Sixth legion retired to higher ground with losses not exceeding 250 men. There fell in that battle not a few Roman knights—brilliant and distinguished men. After sustaining this defeat Domitius none the less collected the remnants of his scattered army and withdrew by safe routes through Cappadocia into Asia.

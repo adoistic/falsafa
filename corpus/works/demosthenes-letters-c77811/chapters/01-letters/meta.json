@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-letters-c77811",
+  "work_title": "Letters",
+  "chapter_number": 1,
+  "chapter_title": "Letters",
+  "chapter_slug": "01-letters",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "362d96c4-9923-518d-9c8a-522316a6cd42",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6063,
+      "paragraph_count": 108,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg063.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99094cc1-04dd-54fd-b1a2-b0a0e098a93f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9912,
+      "paragraph_count": 96,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg063.perseus-eng2"
+    }
+  ]
+}

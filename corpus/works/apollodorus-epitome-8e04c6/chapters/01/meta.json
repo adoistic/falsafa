@@ -1,0 +1,38 @@
+{
+  "work_slug": "apollodorus-epitome-8e04c6",
+  "work_title": "Epitome",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ac5244c1-dff6-53cf-89b9-ba35d0820b69",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1116,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0548.tlg002.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "262a0dbc-08c3-5f81-a37b-ae1a64a234f8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1515,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0548.tlg002.perseus-eng2:1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-hebrews-1c3d2f",
+  "work_title": "Hebrews",
+  "chapter_number": 12,
+  "chapter_title": "Chapter 12",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ced84313-ff86-580a-87e7-8d7dd8a26f63",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 475,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg019.perseus-grc2:12"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "09c5942c-83b1-5926-826a-6b650c229a80",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 694,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg019.perseus-eng2:12"
+    }
+  ]
+}

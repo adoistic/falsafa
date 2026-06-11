@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-genesis-1837de",
+  "work_title": "Genesis",
+  "chapter_number": 16,
+  "chapter_title": "Chapter 16",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "88c34468-4e6d-5573-a08f-a10f9ea4ec97",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 360,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:16"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "074ca30f-d56d-5768-9859-ecf10735e8e4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 389,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg001.perseus-eng2:16"
+    }
+  ]
+}

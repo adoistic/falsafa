@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-leviticus-4b902e",
+  "work_title": "Leviticus",
+  "chapter_number": 11,
+  "chapter_title": "Chapter 11",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f1190201-8b49-5244-964c-c4b2cc362753",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 916,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg003.1st1K-grc1:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d71d360b-14b7-5a9c-9428-3d0c80d5fc48",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1040,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg003.perseus-eng2:11"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+---
+work_id: "727b88b0-3818-5e23-a3d0-6f99e953c8ad"
+work_slug: "suetonius-galba-727b88"
+work_title: Galba
+author_name: Suetonius
+chapter_number: 3
+chapter_title: Chapter 3
+chapter_slug: 03
+variant_id: "37055278-f562-50e2-8310-18fbaadfd602"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 462
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo017.perseus-eng2:3"
+translator: Perseus Digital Library
+---
+
+To give even a short account of the whole family, would be tedious. I shall, therefore, only slightly notice that branch of it from which he was descended. Why, or whence, the first of the Sulpicii who had the cognomen of Galba, was so called, is uncertain. Some are of opinion, that it was because he set fire to a city in Spain, after he had a long time attacked it to no purpose, with torches dipped in the gum called Galbanum: others said he was so named, because, in a lingering disease, he made use of it as a remedy, wrapped up in wool: others, on account of his being prodigiously corpulent, such a one being called, in the language of the Gauls, Galba; or, on the contrary, because he was of a slender habit of body, like those insects which breed in a sort of oak, and are called Galbae. Sergius Galba, a person of consular rank, and the most eloquent man of his time, gave a lustre to the family. History relates, that, when he was pro-praetor of Spain, he perfidiously put to the sword thirty thousand Lusitanians, and by that means gave occasion to the war of Viriatus. His grandson being incensed against Julius Caesar, whose lieutenant he had been in Gaul, because he was through him disappointed of the consulship, joined with Cassius and Brutus in the conspiracy against him, for which he was condemned by the Pedian law. From him were descended the grandfather and father of the emperor Galba. The grandfather was more celebrated for his application to study, than for any figure he made in the government. For he rose no higher than the praetorship, but published a large and not uninteresting history. His father attained to the consulship: he was a short man and hump-backed, but a tolerable orator, and an industrious pleader. He was twice married: the first of his wives was Mummia Achaica, daughter of Catulus, and great-grand-daughter of Lucius Mummius, who sacked Corinth; and the other, Livia Ocellina, a very rich and beautiful woman, by whom it is supposed he was courted for the nobleness of his descent. They say, that she was farther encouraged to persevere in her advances, by an incident which evinced the great ingenuousness of his disposition. Upon her pressing her suit, he took an opportunity, when they were alone, of stripping off his toga, and showing her the deformity of his person, that he might not be thought to impose upon her. He had by Achaica two sons, Caius and Sergius. The elder of these, Caius, having very much reduced his estate, retired from town, and being prohibited by Tiberius from standing for a pro-consulship in his year, put an end to his own life.

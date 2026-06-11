@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-numbers-e47f4a",
+  "work_title": "Numbers",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e1adacee-65c2-5328-85d4-dce3106eefb3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 556,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aeecba64-3577-50c2-b95e-bb983f064196",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 710,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg004.perseus-eng2:6"
+    }
+  ]
+}

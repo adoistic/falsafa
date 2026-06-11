@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-jeremiah-490c3f",
+  "work_title": "Jeremiah",
+  "chapter_number": 26,
+  "chapter_title": "Chapter 26",
+  "chapter_slug": "26",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "56ef2f9b-8fb8-533b-8ee0-08cee873b85c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1101,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1:26"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3307afb2-976a-5000-a6e4-bc4a9c7d98b4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 775,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg049.perseus-eng2:26"
+    }
+  ]
+}

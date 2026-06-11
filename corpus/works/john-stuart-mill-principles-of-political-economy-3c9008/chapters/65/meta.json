@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 65,
+  "chapter_title": "CHAPTER VII. ON THE PROBABLE FUTURITY OF THE LABOURING CLASSES.",
+  "chapter_slug": "65",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7367c063-6d4b-5394-95a1-b7a2c31c3c0d",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 12284,
+      "paragraph_count": 72,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

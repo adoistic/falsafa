@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-jude-e873f6",
+  "work_title": "Jude",
+  "chapter_number": 1,
+  "chapter_title": "Jude",
+  "chapter_slug": "01-jude",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "64a87243-116a-50f3-9da4-33d1940fb584",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 456,
+      "paragraph_count": 75,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg026.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d4c40a1-4eca-5aed-b66f-63ad4af31710",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 609,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg026.perseus-eng2"
+    }
+  ]
+}

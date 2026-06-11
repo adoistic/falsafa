@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 156
+chapter_title: "Chapter text=A:book=8:letter=12c"
+chapter_slug: 156
+variant_id: "d0093f20-c254-59a8-85e4-ad72456dd185"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 605
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:156"
+translator: Perseus Digital Library
+---
+
+POMPEY TO L. DOMITIUS AHENOBARBUS (IN CORFINIUM)
+
+LUCERIA, 16 FEBRUARY GNAEUS POMPRIUS, proconsul, salutes Lucius Domitius, proconsul. M. Calenius has brought me a despatch from you dated the 16th of February, in which you say that your intention is to watch Caesar, and, if he commences his march upon me by the coast road, to come to me with speed into Samnium; but that, if he spends time about the towns in your district, you wish to resist him in case of his approaching you. I think your plan is spirited and gallant; but I am compelled to be more solicitous as to whether we may not, if divided, be unequal to our opponent; since he has large forces and is likely soon to have larger. For a man of your foresight ought not to reckon how many cohorts Caesar has at this moment against you, but what amounts of infantry and cavalry he is likely to collect before long. This is proved in my eyes by a letter from Bussenius to me, in which he says—as I learn from other letters also—that Curio is drawing the garrisons in Umbria and Etruria together, and marching to join Caesar. Now if all these forces are combined, even suppose a detachment is sent to Alba, and another threatens you, and though Caesar should not offer battle, but should remain on the defensive in his own strongholds, you will still be at a stand, and will not be able, isolated with a force the size of yours, to offer a resistance to such vast numbers sufficient even to allow of your foraging for corn. Wherefore I strongly urge you to come here as soon as possible with your entire force. The consuls have decided to do so. I sent a message to you by M. Tuscilius to say that we must take care that the two legions should not, without the cohorts from Picenum, be allowed to come within sight of Caesar. Wherefore do not disturb yourself if you hear that I am making a backward movement, should Caesar chance to advance towards me: for I think I must by all means avoid being caught in the toils and prevented from stirring. For I cannot construct a camp owing to the season and the disposition of my soldiers, nor is it proper to call in the garrisons from all the towns, lest I should be left without a place of retreat. Accordingly, I have not mustered more than fourteen Cohorts at Luceria. The consuls are about to bring in all garrisons to me, or are going to Sicily. For I must either have an army sufficiently strong to make me feel sure of being able to break out, or hold districts of such a kind as to enable us to act on the defensive. At the present time we have neither, for Caesar has occupied a large part of Italy, and we have an army neither as well-appointed nor as large as he has. We must therefore be careful and look to the main interests of the Republic. I urge on you again and again to come to me at the earliest opportunity with your whole force. We may even now restore the fortunes of the state, if we conduct our operations in common: if we are divided we shall be weak. I am quite satisfied of this. After I had written the above, Sicca brought me a despatch and message from you. You urged me to come to you: I do not think that I can do so, because I don't feel great confidence in these legions.

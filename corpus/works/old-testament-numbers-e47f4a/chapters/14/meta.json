@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-numbers-e47f4a",
+  "work_title": "Numbers",
+  "chapter_number": 14,
+  "chapter_title": "Chapter 14",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8c488e92-ae5c-5453-bc84-1c7fe1790d4f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 964,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:14"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "acd705f4-5072-5365-99d4-d4bde7ccf683",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1153,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg004.perseus-eng2:14"
+    }
+  ]
+}

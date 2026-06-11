@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-philippicae-f2d191",
+  "work_title": "Philippicae",
+  "chapter_number": 186,
+  "chapter_title": "Chapter 13",
+  "chapter_slug": "186",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae045ab8-d8af-5ef0-b835-df2640ee132c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 317,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:186"
+    }
+  ]
+}

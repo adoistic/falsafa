@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-quomodo-adolescens-poetas-audire-d720d8",
+  "work_title": "Quomodo adolescens poetas audire debeat",
+  "chapter_number": 1,
+  "chapter_title": "Quomodo adolescens poetas audire debeat",
+  "chapter_slug": "01-quomodo-adolescens-poetas-audire-debeat",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3a67a09e-19fc-5e55-8e8c-c7ed7ee567ed",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9880,
+      "paragraph_count": 123,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg068.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ffa57ca0-35e6-5fb6-beac-044474cb91d4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 16200,
+      "paragraph_count": 190,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg068.perseus-eng4"
+    }
+  ]
+}

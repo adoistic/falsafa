@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-to-the-children-of-jason-c89467",
+  "work_title": "To the Children of Jason",
+  "chapter_number": 1,
+  "chapter_title": "To the Children of Jason",
+  "chapter_slug": "01-to-the-children-of-jason",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4caf8c00-b909-56e5-b227-5f014712f08c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 889,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg023.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2eb339d6-0c64-5e90-a79a-3f5b717cb205",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1285,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg023.perseus-eng2"
+    }
+  ]
+}

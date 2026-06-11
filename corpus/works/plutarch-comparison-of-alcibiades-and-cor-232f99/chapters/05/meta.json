@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-comparison-of-alcibiades-and-cor-232f99",
+  "work_title": "Comparison of Alcibiades and Coriolanus",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4d0698ec-dc65-583f-828f-573e2affa7e8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 81,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg017.perseus-grc2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a1422db6-e6a0-5071-9154-3627a57af7cf",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 124,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg017.perseus-eng2:5"
+    }
+  ]
+}

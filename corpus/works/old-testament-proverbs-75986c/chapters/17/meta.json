@@ -1,0 +1,39 @@
+{
+  "work_slug": "old-testament-proverbs-75986c",
+  "work_title": "Proverbs",
+  "chapter_number": 17,
+  "chapter_title": "Chapter 17",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ca1503a9-6d43-573e-817c-e66b863bfe0f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 459,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg029.1st1K-grc1:17"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0b8fb1c-2ffd-5c40-8635-c49aa304bf05",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 462,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg029.perseus-eng2:17"
+    }
+  ]
+}

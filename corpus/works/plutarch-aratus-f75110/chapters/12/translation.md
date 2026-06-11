@@ -1,0 +1,29 @@
+---
+work_id: "f75110de-c340-539b-8ba4-36a4abfd3c5e"
+work_slug: "plutarch-aratus-f75110"
+work_title: Aratus
+author_name: Plutarch
+chapter_number: 12
+chapter_title: Chapter 12
+chapter_slug: 12
+variant_id: "9cbf8a3f-8f17-5977-b975-a1d086e4de36"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 379
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg063.perseus-eng2:12"
+translator: Bernadotte Perrin
+---
+
+But the exiles were not to be dissuaded from molesting those who were in possession of their property, and the city was in danger of an upheaval. Aratus saw that his only hope was in the generosity of Ptolemy, and therefore determined to sail to Egypt and beg the king to furnish him with money for the settlement of these disputes.
+
+So he put to sea from Mothone above Malea, intending to make the shortest passage. But the steersman could not make head against a strong wind and high waves that came in from the open sea, and being carried out of his course got with difficulty to Adria, which was a hostile place. For it was in the power of Antigonus, and held a garrison of his. Aratus anticipated arrest by landing, and forsaking the ship withdrew a long way from the sea, having with him one of his friends, Timanthes.
+
+They threw themselves into a place that was thickly covered with woods, and had a grievous night of it. A little later the commander of the garrison came to the ship in search of Aratus, and was deceived by his servants, who had been instructed to say that he had run away at once and had sailed off to Euboea. The ship, however, with its cargo and the servants of Aratus, was declared a prize of war and detained.
+
+After a few days, while still in this helpless plight, Aratus met with a rare piece of good fortune, for a Roman ship put in at the place where he was staying, sometimes on a lookout-place, and sometimes hiding himself. The ship was bound for Syria, but after going on board Aratus persuaded the master of the vessel to convey him as far as Caria. Thither he was conveyed, encountering fresh perils by sea and perils as great as before.
+
+From Caria, after a long time, he made his way across to Egypt, and found the king both naturally well disposed towards him, and much gratified because Aratus had sent him drawings and paintings from Greece. In these matters Aratus had a refined judgement, and was continually collecting and acquiring works of artistic skill and excellence, especially those of Pamphilus and Melanthus. These he would send to Ptolemy.

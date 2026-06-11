@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-lacritus-d511c8",
+  "work_title": "Against Lacritus",
+  "chapter_number": 1,
+  "chapter_title": "Against Lacritus",
+  "chapter_slug": "01-against-lacritus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6f8f4f9b-4dbb-5bad-be12-3614d0389a1c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3653,
+      "paragraph_count": 75,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg035.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d077f44e-640a-581d-9c65-6844e2657f6b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5347,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg035.perseus-eng2"
+    }
+  ]
+}

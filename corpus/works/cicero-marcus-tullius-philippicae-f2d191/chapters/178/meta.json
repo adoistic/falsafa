@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-philippicae-f2d191",
+  "work_title": "Philippicae",
+  "chapter_number": 178,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "178",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7176eeb3-1540-5302-b289-6a129b4fe8bc",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 625,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:178"
+    }
+  ]
+}

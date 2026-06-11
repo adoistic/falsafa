@@ -1,0 +1,112 @@
+---
+import { marked } from 'marked';
+import AtlasPage from '../../layouts/AtlasPage.astro';
+import { bookMeta, chapterLabel, chapterMarkdown, chapters } from '../../lib/atlas/book.ts';
+
+export function getStaticPaths() {
+  return chapters.map((chapter, i) => ({
+    params: { slug: chapter.slug },
+    props: {
+      chapter,
+      prev: chapters[i - 1] ?? null,
+      next: chapters[i + 1] ?? null,
+    },
+  }));
+}
+
+const { chapter, prev, next } = Astro.props;
+const html = marked.parse(chapterMarkdown(chapter), { async: false });
+const description = `${bookMeta.title}, ${chapterLabel(chapter).toLowerCase()}: ${chapter.title}.`;
+---
+
+<AtlasPage title={`${chapter.title} · ${bookMeta.title}`} description={description}>
+  <article class="wrap">
+    <header class="head">
+      <p class="tag tag-line rise">
+        <a class="link-quiet book-link" href="/book/">{bookMeta.title}</a> · {chapterLabel(chapter)}
+      </p>
+      <h1 class="rise rise-1">{chapter.title}</h1>
+    </header>
+    <div class="prose chapter rise rise-2" set:html={html} />
+    <nav class="pager" aria-label="Chapters">
+      {
+        prev ? (
+          <a class="link" href={`/book/${prev.slug}/`} rel="prev">
+            &larr; {prev.title}
+          </a>
+        ) : (
+          <a class="link" href="/book/">&larr; Contents</a>
+        )
+      }
+      {
+        next ? (
+          <a class="link" href={`/book/${next.slug}/`} rel="next">
+            {next.title} &rarr;
+          </a>
+        ) : (
+          <a class="link" href="/book/print/">Print edition &rarr;</a>
+        )
+      }
+    </nav>
+  </article>
+</AtlasPage>
+
+<style>
+  .wrap {
+    max-width: 42rem;
+    margin-inline: auto;
+    padding-inline: clamp(1rem, 4vw, 2.5rem);
+  }
+
+  .head {
+    padding-block: clamp(2.5rem, 6vw, 4.5rem) 0;
+  }
+
+  .head h1 {
+    font-size: var(--text-h1);
+    margin: 1.1rem 0 1.6rem;
+  }
+
+  .book-link:hover {
+    color: var(--color-lapis);
+  }
+
+  .chapter {
+    font-size: 1.22rem;
+    line-height: 1.66;
+  }
+
+  .chapter :global(p:first-of-type)::first-letter {
+    float: left;
+    font-size: 3.4em;
+    line-height: 0.82;
+    padding-right: 0.09em;
+    padding-top: 0.04em;
+    font-weight: 500;
+    color: var(--color-lapis);
+  }
+
+  .chapter :global(hr) {
+    border: none;
+    margin: 2.2em 0;
+    text-align: center;
+  }
+
+  .chapter :global(hr)::after {
+    content: '◆';
+    color: var(--color-gold-leaf);
+    font-size: 0.8rem;
+    letter-spacing: 1em;
+  }
+
+  .pager {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    flex-wrap: wrap;
+    border-top: 1px solid var(--color-hairline);
+    margin-top: 3rem;
+    padding-block: 1.4rem 1rem;
+    font-size: 1.02rem;
+  }
+</style>

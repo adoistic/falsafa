@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-1-thessalonians-76ff59",
+  "work_title": "1 Thessalonians",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ec7b3e72-637a-5108-8195-9b57e500a7d3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 389,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg013.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eab82440-4174-5d33-b9cd-736585d35d0e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 470,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg013.perseus-eng2:2"
+    }
+  ]
+}

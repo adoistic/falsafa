@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-his-brother-quintus-7b02ec",
+  "work_title": "Letters to his brother Quintus",
+  "chapter_number": 1,
+  "chapter_title": "Letters to his brother Quintus",
+  "chapter_slug": "01-letters-to-his-brother-quintus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a9952c1a-518c-5c34-8308-38afbd9e5f04",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7574,
+      "paragraph_count": 82,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi058.perseus-lat1:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "243bf503-523f-543c-8223-28eb9881f298",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 60154,
+      "paragraph_count": 142,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi058.perseus-eng1"
+    }
+  ]
+}

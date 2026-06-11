@@ -1,0 +1,29 @@
+---
+work_id: "c5ffb23e-6209-58b2-b5da-2b7206f70edb"
+work_slug: "plutarch-cimon-c5ffb2"
+work_title: Cimon
+author_name: Plutarch
+chapter_number: 12
+chapter_title: Chapter 12
+chapter_slug: 12
+variant_id: "db1793a2-9551-5299-b864-86ad32b1df32"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 507
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg035.perseus-eng2:12"
+translator: Bernadotte Perrin
+---
+
+And surely there was no one who humbled the Great King himself, and reduced his haughty spirit, more than Cimon. For he did not let him go quietly away from Hellas, but followed right at his heels, as it were, and before the Barbarians had come to a halt and taken breath, he sacked and overthrew here, or subverted and annexed to the Hellenes there, until Asia from Ionia to Pamphylia was entirely cleared of Persian arms.
+
+Learning that the generals of the King were lurking about Pamphylia with a great army and many ships, and wishing to make them afraid to enter at all the sea to the west of the Chelidonian isles, he set sail from Cnidus and Triopium with two hundred triremes. These vessels had been from the beginning very well constructed for speed and maneuvering by Themistocles; but Cimon now made them broader, and put bridges between their decks, in order that with their numerous hoplites they might be more effective in their onsets.
+
+Putting in at Phaselis, which was a Hellenic city, but refused to admit his armament or even to abandon the King’s cause, he ravaged its territory and assaulted its walls. But the Chians, who formed part of his fleet and were of old on friendly terms with the people of Phaselis, laboured to soften Cimon’s hostility, and at the same time, by shooting arrows over the walls with little documents attached, they conveyed messages of their success to the men of Phaselis.
+
+So finally Cimon made friends with them on condition that they should pay ten talents and join him in his expedition against the Barbarians. Now Ephorus says that Tithraustes was commander of the royal fleet, and Pherendates of the infantry; but Callisthenes says that it was Ariomandes, the son of Gobryas, who, as commander-in-chief of all the forces, lay at anchor with the fleet off the mouth of the Eurymedon, and that he was not at all eager to fight with the Hellenes, but was waiting for eighty Phoenician ships to sail up from Cyprus.
+
+Wishing to anticipate their arrival, Cimon put out to sea, prepared to force the fighting if his enemy should decline an engagement. At first the enemy put into the river, that they might not be forced to fight; but when the Athenians bore down on them there, they sailed out to meet them. They had six hundred ships, according to Phanodemus, three hundred and fifty, according to Ephorus. Whatever the number, nothing was achieved by them on the water which was worthy of such a force, but they straightway put about and made for shore, where the foremost of them abandoned their ships and fled for refuge to the infantry which was drawn up near by; those who were overtaken were destroyed with their ships. Whereby also it is plain that the Barbarian ships which went into action were very numerous indeed, since, though many, of course, made their escape and many were destroyed, still two hundred were captured by the Athenians.

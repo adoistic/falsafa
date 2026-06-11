@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+  "work_title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "chapter_number": 25,
+  "chapter_title": "CHAPTER II. OF RESTRAINTS UPON THE IMPORTATION FROM FOREIGN COUNTRIES OF SUCH GOODS AS CAN BE PRODUCED AT HOME",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9e4634e3-3873-5a68-aae3-73b953adafc1",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 8313,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Smith_WoN-CannanEdition1904/Smith_WoN-Cannan1904-4Panes.margnotes.html"
+    }
+  ]
+}

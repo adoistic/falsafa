@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-acts-895886",
+  "work_title": "Acts",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a62290b7-abab-51b6-99d0-42c1d9c6cd31",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 280,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "621dd849-6ed7-502b-8b13-ba9611967c28",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 337,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:6"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-philopoemen-3f9a39",
+  "work_title": "Philopoemen",
+  "chapter_number": 21,
+  "chapter_title": "Chapter 21",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "39246c8e-bb95-5a2d-ba34-650eb491f8eb",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 352,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg027.perseus-grc2:21"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "41ad0c5d-5cbe-5424-b0f1-70714c211e45",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 493,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg027.perseus-eng2:21"
+    }
+  ]
+}

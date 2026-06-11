@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-demetrius-3c428e",
+  "work_title": "Demetrius",
+  "chapter_number": 52,
+  "chapter_title": "Chapter 52",
+  "chapter_slug": "52",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1c30cc9d-ed8d-5bc6-b852-7342ec37eb95",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 211,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg057.perseus-grc2:52"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a573d7f-5b57-5359-ad61-b708fd015724",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 306,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg057.perseus-eng2:52"
+    }
+  ]
+}

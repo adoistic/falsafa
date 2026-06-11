@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-theseus-dd896f",
+  "work_title": "Theseus",
+  "chapter_number": 27,
+  "chapter_title": "Chapter 27",
+  "chapter_slug": "27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "32b7eb6d-c6f0-55f5-b1c5-ad64d18f0151",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 387,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg001.perseus-grc2:27"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a9730205-edbb-5bd1-89bb-a89a5c9ab652",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 575,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg001.perseus-eng3:27"
+    }
+  ]
+}

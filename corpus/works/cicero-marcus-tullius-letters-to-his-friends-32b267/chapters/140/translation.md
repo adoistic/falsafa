@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 140
+chapter_title: "Chapter text=F:book=3:letter=9"
+chapter_slug: 140
+variant_id: "4c69d091-a9ed-5594-87fd-53eaa6bd8e2a"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 738
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:140"
+translator: Perseus Digital Library
+---
+
+TO APPIUS CLAUDIUS PULCHER (AT ROME) LAODICEA, FEBRUARY
+
+AT last! A letter worthy of Appius Claudius, full of kindness, cordiality, and consideration! No doubt the sight of the city restored your old city-bred courtesy. For the letters which you sent me on your journey before leaving Asia—one about my forbidding legates to start for Rome, the other about stopping the building operations at Appia—were very unpleasant reading for me. Accordingly, conscious of my unbroken friendliness to you, I wrote back with some little irritation. However, when I read the letter you gave to my freedman Philotimus, I saw and understood that there were many persons in the province who did not wish us to entertain the feelings towards each other which we actually were entertaining; but that as soon as you approached the city, or rather as soon as you saw your relatives, you ascertained from them how loyal I had been to you in your absence, how careful and unremitting in fulfilling all my obligations to you. Accordingly, you can imagine how much I value that sentence in your letter, "If anything occurs affecting your position, though that is hardly possible, yet, if it does, I will return your favours in full." That, however, will be an easy task for you: for there is nothing impossible for zeal and kindness, or rather affection. For my part, though I always myself thought that it would be so, and was frequently assured of it in letters, I yet was extremely delighted by the announcement in your letter of your strong, or rather certain, hope of a triumph. And, indeed, it was not because it made it the easier for me to obtain one—for that would be a motive truly Epicurean —but, by Hercules, because the splendour of your position is dear to me in itself and for itself Wherefore, as you have more people than others have whom you know to be starting for this province—for they nearly all come to you to ask if you have any commands—you will very greatly oblige me if you will send me a letter, as soon as you have obtained what you confidently expect and I heartily wish. If the process of making up their minds and the dilatory proceedings of the long bench, as our friend Pompey calls it, deprive you of this or that particular day (for what more can they do?), yet your high claims will hold the field. But if you care for me, if you wish me to care for you, write to me, that I may enjoy the delight as soon as possible. I should wish you also to pay me the promised addition to your former present. I am both anxious to complete my knowledge of augural law, and am also, by Hercules, incredibly delighted with attentions and presents from you. As for the wish you express for something of the same sort from me, I certainly must consider the best style of composition to repay you for your gift: for it is assuredly not my way—putting as I do, and as you often observe with surprise, so much energy into the task of writing—to let myself be thought to have been slack about it, especially in a case involving a charge not simply of slackness, but of ingratitude as well. However, I will see about it. The promise you make, I beg you, in the name of your good faith and energetic character, as well as in that of our friendship—no affair of yesterday, but now a thoroughly established fact—to take measures to fulfil, and to exert yourself to secure a supplicatio being voted in my honour in as complimentary terms and at as early a date as possible. I certainly sent my despatch later than I could have wished, in regard to which the difficulty of navigation was not the only irritating circumstance: I believe, in fact, that my despatch arrived just when the senate was in vacation. But this I did under your influence and by your advice, and I think I was quite right not to send a despatch the very moment I was greeted as imperator, but only when other services had been performed and the summer campaign was concluded. You will then, I hope, see to these matters, as you profess your intention of doing, and will regard myself, my affairs, and my friends as recommended to your care.

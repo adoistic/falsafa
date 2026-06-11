@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-iphigenia-in-tauris-51b6ae",
+  "work_title": "Iphigenia in Tauris",
+  "chapter_number": 1,
+  "chapter_title": "Iphigenia in Tauris",
+  "chapter_slug": "01-iphigenia-in-tauris",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1a3136a2-6304-5fa1-837f-c3949c88690c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8859,
+      "paragraph_count": 1494,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg013.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "08d65272-a8d9-5798-9d08-6ae98ac6624f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12882,
+      "paragraph_count": 525,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg013.perseus-eng2"
+    }
+  ]
+}

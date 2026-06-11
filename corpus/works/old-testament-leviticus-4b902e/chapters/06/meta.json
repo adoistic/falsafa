@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-leviticus-4b902e",
+  "work_title": "Leviticus",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "94af72b6-93f2-571f-9f31-ae9752731cd1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 830,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg003.1st1K-grc1:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd3d57f6-00d7-5a12-8066-2109eca8b237",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 843,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg003.perseus-eng2:6"
+    }
+  ]
+}

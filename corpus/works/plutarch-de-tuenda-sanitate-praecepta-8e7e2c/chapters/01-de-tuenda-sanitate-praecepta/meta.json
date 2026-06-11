@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-tuenda-sanitate-praecepta-8e7e2c",
+  "work_title": "De tuenda sanitate praecepta",
+  "chapter_number": 1,
+  "chapter_title": "De tuenda sanitate praecepta",
+  "chapter_slug": "01-de-tuenda-sanitate-praecepta",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "18760ee0-b02b-54b4-b0a7-9dc1d56bddf5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6922,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg077.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f01a8e8e-9917-5b56-8cfd-5c9817816933",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 10102,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg077.perseus-eng4"
+    }
+  ]
+}

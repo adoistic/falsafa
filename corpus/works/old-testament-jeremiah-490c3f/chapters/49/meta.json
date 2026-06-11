@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-jeremiah-490c3f",
+  "work_title": "Jeremiah",
+  "chapter_number": 49,
+  "chapter_title": "Chapter 49",
+  "chapter_slug": "49",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "83786b91-f342-582c-8ec4-a8208e1306a6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 766,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1:49"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d0bd3567-c6e9-5c8e-af26-cb779c868487",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1163,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg049.perseus-eng2:49"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-fabius-maximus-ee77a0",
+  "work_title": "Fabius Maximus",
+  "chapter_number": 20,
+  "chapter_title": "Chapter 20",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c37f29cc-9df6-5062-95b6-d193502b96e3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 351,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg013.perseus-grc2:20"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c87ddbbb-217f-5237-8841-87ffaf3f4eff",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 514,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg013.perseus-eng2:20"
+    }
+  ]
+}

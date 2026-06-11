@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 210
+chapter_title: "Chapter text=A:book=10:letter=8b"
+chapter_slug: 210
+variant_id: "32a856aa-4f8d-5227-bb18-719fddc37f54"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 293
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:210"
+translator: Perseus Digital Library
+---
+
+CAESAR TO CICERO (AT FORMIAE) ON THE ROAD TO SPAIN, 16 APRIL
+
+CAEsAR imperator greets Cicero imperator. Although I had come to the conclusion that you were not likely to do anything unadvisedly or imprudently, yet, being made anxious by common report, I thought that I ought to write to you and to appeal to you, in the name of our mutual kindness, not to go anywhere now that fortune has declared in my favour, that you had not thought yourself bound to go even when it was still uncertain. For you will have at once committed a somewhat serious offence against our friendship, and have adopted a course far from beneficial to yourself: since you will make it clear that you have not followed fortune—for all the good luck has notoriously been on our side, all the bad on theirs-nor the merits of the cause, for they are the same now as when you judged it best not to assist at their deliberations: but you will shew that you have condemned some act of mine, and that is the heaviest blow you can inflict on me. In the name of our friendship, I beg you not to do so. Finally, what can be more becoming to a good man, and a peaceable and quiet citizen, than to hold aloof from civil strife? It is a thing some would have been glad to do, but could not on account of the danger. For yourself, when you have satisfied yourself as to the evidence which my life furnishes, and the decision at which my friendship for you has arrived, you will find nothing at once safer and more honourable than to abstain entirely from active intervention in the fray. On the march, 16 April.

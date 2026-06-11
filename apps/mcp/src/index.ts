@@ -25,6 +25,7 @@ import {
   type CallToolRequest,
 } from "@modelcontextprotocol/sdk/types.js";
 import { Corpus, MCPError } from "./corpus.ts";
+import { downloadCorpus, buildSearchIndex } from "./fetch-corpus.ts";
 
 // Read version from package.json so the MCP `initialize` handshake reports
 // the same version that npm shows. `import.meta.url` resolves the same way
@@ -49,7 +50,16 @@ import {
 // Server setup
 // ─────────────────────────────────────────────────────────────────────────
 
-const corpus = new Corpus();
+// The corpus outgrew the npm tarball; first run downloads the snapshot
+// from the GitHub release into the user cache (stderr-only progress).
+let corpus: Corpus;
+try {
+  corpus = new Corpus();
+} catch {
+  await downloadCorpus();
+  corpus = new Corpus();
+}
+buildSearchIndex(corpus.rootPath);
 const works = corpus.works();
 console.error(`[falsafa-mcp] corpus loaded: ${works.length} works from ${corpus.rootPath}`);
 

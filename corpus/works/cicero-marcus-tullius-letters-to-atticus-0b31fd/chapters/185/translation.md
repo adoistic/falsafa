@@ -1,0 +1,27 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 185
+chapter_title: "Chapter text=A:book=9:letter=5"
+chapter_slug: 185
+variant_id: "756b105f-efe5-5ee6-a88a-bf4d31bfe7c7"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 638
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:185"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) FORMIAE, 10 MARCH
+
+ON your birthday you wrote me a letter full of advice, and not only shewing the greatest kindness to me, but also the most admirable wisdom. Philotimus delivered it to me the day after receiving it from you. The points you put are indeed of extreme difficulty—the journey to the Upper Sea, a voyage by the Lower, a departure to Arpinum, lest I should seem to have avoided Caesar, a continuance at Formiae, lest I should seem to have put myself forward to congratulate him— but nothing is more distressing than the sight of those things, which, I tell you, must before long be seen. Curtius Postumus has been with me: I told you how oppressive he was. Q. Fufius also has been to see me. What a triumphant look! What assurance! Post haste for Brundisium: denouncing the crime of Pompey, the recklessness and folly of the senate. If I can't stand such things in my own villa, shall I be able to put up with Curtius in the senate-house? But suppose me to endure this with good temper, what will be the sequel of the usual "Speak, Marcus Tullius"? To say nothing of the Republican cause, which I look upon as lost, both from the wounds inflicted on it and the cures prepared for them, what am I to do about Pompey? With whom—for why should I deny it?-I am downright angry. For I am always more affected by the causes of events than by the events themselves. Therefore, turning over these disastrous events in my mind—and what could be more disastrous!-or rather, coming to the conclusion that they are his doing and his fault, I feel more hostile to him than to Caesar himself: just as our ancestors decided that the day of the battle of the Allia was more fatal than that of the capture of the city, because the latter evil was the result of the former; and accordingly the one day is even now regarded as accursed, while the other is generally unknown—so I, remembering the errors of ten years, among which was also that year which ruined me, without his defending me (not to put it more strongly), and being fully aware of the rashness, incompetence, and carelessness of the present management, felt my anger growing. But that is all forgotten now. It is of his kindness that I think, and also of my own position. I understand-later, indeed, than I could have wished, thanks to the letters and conversations of Balbus—I see plainly, I repeat, that the one object now, nay, the one object from the beginning, was the death of Pompey. As for me, therefore, since Homer's hero, when his goddess mother said to him, "For next to Hector's death thy doom is fixed," answered his mother: Death, then! since fate allowed me not to save
+
+The friend I loved.
+
+What should I do for one who was not merely a "friend," but a "benefactor" also? One, too, of such a great character, and engaged in such a great cause? Why, in truth, I regard such duties as worth the loss of life. In your Optimates, however, I have no sort of confidence, and henceforth do not devote myself either to their service. I see how they are surrendering themselves to Caesar, and will continue to do so in the future. Do you suppose that those decrees of the municipalities as to Pompey's illness are to be compared with these congratulations now offered to Caesar on his victory? "All terror," you will say. Yes, but they themselves assert that they were alarmed on the former occasion. However, let us wait to see what has happened at Brundisium, Perhaps from that may come a change of plan and in the tone of my letters.

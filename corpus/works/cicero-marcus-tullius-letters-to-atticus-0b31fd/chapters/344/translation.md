@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 344
+chapter_title: "Chapter text=A:book=13:letter=44"
+chapter_slug: 344
+variant_id: "22142df5-a739-5b5c-af77-75f5144ae4eb"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 223
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:344"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) TUSCULUM (20 JULY)
+
+What a delightful letter! Though the procession was odious, it is nevertheless not odious "to know everything"—even about Cotta. The people were splendid not to clap even the figure of Victory owing to its impious neighbour. Brutus has been to see me, and is very strongly in favour of my writing something to Caesar. I assented, but this procession puts me off it. Well, after all, did you venture to make the presentation to Varro? I am anxious for his opinion: but when will he read it through? As to Attica, I quite approve: for it is something that her melancholy should be relieved both by taking part in the spectacle, as well as by the feeling of its sacred associations and the general talk about it. Please send me a Cotta; I have got a Libo with me, and I had already possessed a Casca. Brutus brought me a message from Titus Ligarius that the mention of L. Corfidius in my speech for Ligarius was a mistake of mine. But it was only what is called "a lapse of memory." I knew that Corfidius was very closely connected with the Ligarii, but I see now that he was already dead. Please therefore instruct Pharnaces, Antaeus, and Salvius to erase that name from all the copies.

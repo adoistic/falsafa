@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-theseus-dd896f",
+  "work_title": "Theseus",
+  "chapter_number": 35,
+  "chapter_title": "Chapter 35",
+  "chapter_slug": "35",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f6ac3fb1-e54e-5998-ad21-2cece70eb5f6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 324,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg001.perseus-grc2:35"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b163f725-cfec-5f68-bbf5-82d50c94fdd4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 485,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg001.perseus-eng3:35"
+    }
+  ]
+}

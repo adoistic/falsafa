@@ -1,0 +1,282 @@
+[
+  {
+    "id": "p-a680d2",
+    "offset": 0,
+    "text": "(Enter LYCO.)"
+  },
+  {
+    "id": "p-5bceeb",
+    "offset": 15,
+    "text": "LYCO:\nI seem to be in opulence; I’ve struck my balance, how much money I have, and how much I owe. I’m rich, if I don’t pay those to whom I’m in debt. If I do pay those to whom I’m in debt, my debts are the greatest."
+  },
+  {
+    "id": "p-b89e4f",
+    "offset": 233,
+    "text": "But really, upon my faith, when I carefully consider, if they press me hard, I’ll resort to the Praetor. Most bankers have this habit, for one to borrow of the other, and to pay nobody, and to discharge the debt with their fists, if any one duns in a loudish tone."
+  },
+  {
+    "id": "p-a59f0c",
+    "offset": 499,
+    "text": "The person that has in a short time acquired wealth, unless in good time he saves it, in good time comes to starvation. I’d like to buy a servant for myself, who now, however, must be sought by me on hire: there’s occasion for my ready money.\n(within.)"
+  },
+  {
+    "id": "p-180cdb",
+    "offset": 753,
+    "text": "CURCULIO:\nDon’t you be reminding me now I’m full; I recollect and understand."
+  },
+  {
+    "id": "p-1f9b20",
+    "offset": 832,
+    "text": "I’ll render up to you all this cleverly carried out; do hold your peace. I’ faith, I’ve surely filled myself in-doors right well, and still in my stomach I’ve left room for one corner, in which to stow away the remnants of these remnants.\n(Seeing LYCO.)\nWho’s this that with covered head is saluting Aesculapius? Heyday, the very man I wanted. (To an ATTENDANT.) Follow me."
+  },
+  {
+    "id": "p-fd1e90",
+    "offset": 1207,
+    "text": "I’ll make pretence as though I didn’t know him. (Aloud.) Hark you; I want you."
+  },
+  {
+    "id": "p-b96016",
+    "offset": 1287,
+    "text": "LYCO:\n(turning round.)\nOne-eyed man, save you."
+  },
+  {
+    "id": "p-101c6d",
+    "offset": 1335,
+    "text": "CURCULIO:\nPrithee, do you jeer me?"
+  },
+  {
+    "id": "p-7313be",
+    "offset": 1371,
+    "text": "LYCO:\nI suppose that you are of the family of the Coclites; for they are one-eyed."
+  },
+  {
+    "id": "p-2b3be9",
+    "offset": 1455,
+    "text": "CURCULIO:\nThis was knocked out for me by a catapulta, at Sicyon."
+  },
+  {
+    "id": "p-4feaf4",
+    "offset": 1521,
+    "text": "LYCO:\nWhat matters it to me, pray, if it had been knocked out by a broken pot with cinders in it?"
+  },
+  {
+    "id": "p-f392cd",
+    "offset": 1620,
+    "text": "CURCULIO:\n(aside.)\nThis fellow’s a wizard, surely; he tells the truth, for such catapultas are often directed at me.\n(Aloud.)\nYoung man, as I bear this mark on my face in the service of the public, prithee don’t be uncivil to me."
+  },
+  {
+    "id": "p-c9b01b",
+    "offset": 1851,
+    "text": "LYCO:\nMay I then inforize you, if I may not incomitiatize?"
+  },
+  {
+    "id": "p-c0d227",
+    "offset": 1911,
+    "text": "CURCULIO:\nYou shan’t be inforizing me, indeed; and really I don’t care at all about your Forum or your Comitia. But if you can point me out this person that I’m seeking, you will be doing me a real and a great service. I’m looking for Lyco the banker."
+  },
+  {
+    "id": "p-fd10af",
+    "offset": 2164,
+    "text": "LYCO:\nTell me why you are now seeking for him, or, of what country are you?"
+  },
+  {
+    "id": "p-3132fc",
+    "offset": 2241,
+    "text": "CURCULIO:\nI’ll tell you: I’m come from Therapontigonus Platagidorus, the Captain."
+  },
+  {
+    "id": "p-4104fe",
+    "offset": 2324,
+    "text": "LYCO:\nI’ faith, I know the name: (aside) for with that same name, when I wrote, I filled four whole sides. (To CURCULIO.) But why are you seeking for Lyco?"
+  },
+  {
+    "id": "p-36f1af",
+    "offset": 2481,
+    "text": "CURCULIO:\n(showing the letter.)\nI’ve been ordered to deliver this letter to him."
+  },
+  {
+    "id": "p-8c5ff1",
+    "offset": 2563,
+    "text": "LYCO:\nWhat person are you?"
+  },
+  {
+    "id": "p-b9b94e",
+    "offset": 2591,
+    "text": "CURCULIO:\nHis freed-man, whom all call Summanus."
+  },
+  {
+    "id": "p-002661",
+    "offset": 2641,
+    "text": "LYCO:\nSummanus, my greetings. But why Summanus? Let me know."
+  },
+  {
+    "id": "p-04e6e0",
+    "offset": 2703,
+    "text": "CURCULIO:\nBecause, when in my drunken fit I’ve gone to sleep, I summane the garments; for that reason do all people call me Summanus."
+  },
+  {
+    "id": "p-94b582",
+    "offset": 2838,
+    "text": "LYCO:\n’Twere better for you to look out for entertainment for you somewhere else; really in my own house I have no room for a Summanus. But I am the person that you are looking for."
+  },
+  {
+    "id": "p-e44a00",
+    "offset": 3021,
+    "text": "CURCULIO:\nPrithee, are you he,"
+  },
+  {
+    "id": "p-b055fe",
+    "offset": 3053,
+    "text": "Lyco the banker?"
+  },
+  {
+    "id": "p-ecadea",
+    "offset": 3071,
+    "text": "LYCO:\nI am."
+  },
+  {
+    "id": "p-963bed",
+    "offset": 3084,
+    "text": "CURCULIO:\nTherapontigonus requested me to give you a hearty greeting, and to deliver this letter."
+  },
+  {
+    "id": "p-10b93f",
+    "offset": 3183,
+    "text": "LYCO:\nWhat, to me?"
+  },
+  {
+    "id": "p-39feaa",
+    "offset": 3203,
+    "text": "CURCULIO:\nJust so. Take it, recognize the seal. Do you know it? (LYCO takes the letter.)"
+  },
+  {
+    "id": "p-351ca1",
+    "offset": 3293,
+    "text": "LYCO:\nWhy should I not know it? On which, a man, holding a shield, is cleaving an elephant asunder with a sword."
+  },
+  {
+    "id": "p-11bbfd",
+    "offset": 3407,
+    "text": "CURCULIO:\nWhat’s written there he bade me request you to do immediately, if you wished for his esteem."
+  },
+  {
+    "id": "p-26948b",
+    "offset": 3511,
+    "text": "LYCO:\nStep aside; I’ll look what’s written in it."
+  },
+  {
+    "id": "p-1c19d1",
+    "offset": 3562,
+    "text": "CURCULIO:\n(stepping aside.)\nBy all means, at your pleasure, so long as I receive of you that which I’m come for."
+  },
+  {
+    "id": "p-51febb",
+    "offset": 3676,
+    "text": "LYCO:\n(reads.)\nTherapontigonus Platagidorus, the Captain, his guest, sends to his host Lyco, at Epidaurus, right hearty greeting."
+  },
+  {
+    "id": "p-b42c8d",
+    "offset": 3807,
+    "text": "CURCULIO:\n(aside.)\nThis fellow’s my own; he’s swallowing the hook."
+  },
+  {
+    "id": "p-d65ecc",
+    "offset": 3875,
+    "text": "LYCO:\n(going on.)\nI beg and request of you that, the person who delivers this letter to you, to him be given up the girl whom I purchased there (which I did there in your presence, and you being the negotiator), and the golden trinkets and clothes as well. You know already how it was agreed upon. You give the money to the Procurer, and give the young woman to this person. (To CURCULIO.) Where is he himself? Why doesn’t he come?"
+  },
+  {
+    "id": "p-a39c48",
+    "offset": 4308,
+    "text": "CURCULIO:\nI’ll tell you; because it is but four days since we arrived in Caria, from India; there he now intends to order a solid golden statue to be made of Philippean gold, which is to be seven feet high—a memorial of his exploits."
+  },
+  {
+    "id": "p-7b7534",
+    "offset": 4543,
+    "text": "LYCO:\nFor what reason this?"
+  },
+  {
+    "id": "p-5fdbbb",
+    "offset": 4572,
+    "text": "CURCULIO:\nI’ll tell you; why, because within twenty days he singly has subdued the Persians, Paphlagonians, Sinopians, Arabians, Cretans, Syrians, Rhodia and Lycia, Peredia and Bibesia,"
+  },
+  {
+    "id": "p-225da2",
+    "offset": 4759,
+    "text": "Centauromachia and Classia Unomammia, and all Libya, and all Conterebromia; one half even of all nations has he conquered unaided in twenty days."
+  },
+  {
+    "id": "p-9c76af",
+    "offset": 4906,
+    "text": "LYCO:\nDear me!"
+  },
+  {
+    "id": "p-3fef53",
+    "offset": 4922,
+    "text": "CURCULIO:\nWhy are you surprised?"
+  },
+  {
+    "id": "p-32aeaa",
+    "offset": 4956,
+    "text": "LYCO:\nWhy, because if all these people were penned up in a cage as close as chickens, even so they couldn’t be encompassed in a year. Upon my faith, I do believe that you are come from him; for you do jabber such nonsense."
+  },
+  {
+    "id": "p-981eb3",
+    "offset": 5180,
+    "text": "CURCULIO:\nAye, and I can tell you still more, if you like."
+  },
+  {
+    "id": "p-c4487e",
+    "offset": 5240,
+    "text": "LYCO:\nNo; I don’t want it. Follow me this way. I’ll pay you that, on account of which you came;"
+  },
+  {
+    "id": "p-cb2d83",
+    "offset": 5337,
+    "text": "and lo, I see (from his house.) Save you, Procurer."
+  },
+  {
+    "id": "p-5abd2b",
+    "offset": 5390,
+    "text": "CAPPADOX:\nMay the Gods prosper you."
+  },
+  {
+    "id": "p-a6da60",
+    "offset": 5427,
+    "text": "LYCO:\nDo you know what this is about which I’m come to you?"
+  },
+  {
+    "id": "p-852a57",
+    "offset": 5488,
+    "text": "CAPPADOX:\nSay on what you please."
+  },
+  {
+    "id": "p-466535",
+    "offset": 5523,
+    "text": "LYCO:\nYou are to receive the money, and to send away the young woman with him. (Pointing to CURCULIO.)"
+  },
+  {
+    "id": "p-ce50b0",
+    "offset": 5627,
+    "text": "CAPPADOX:\nBut what if I’m bound on oath to another?"
+  },
+  {
+    "id": "p-b62c21",
+    "offset": 5680,
+    "text": "LYCO:\nWhat matters that to you, so long as you get the money?"
+  },
+  {
+    "id": "p-40931e",
+    "offset": 5743,
+    "text": "CAPPADOX:\nHe who advises is as good as an accomplice. Do you follow."
+  },
+  {
+    "id": "p-d80a9f",
+    "offset": 5813,
+    "text": "CURCULIO:\nProcurer, take care that you don’t cause me any delay."
+  },
+  {
+    "id": "p-860aca",
+    "offset": 5879,
+    "text": "(They go into the house of CAPPADOX.)"
+  }
+]

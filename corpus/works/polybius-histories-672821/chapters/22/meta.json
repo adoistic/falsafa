@@ -1,0 +1,38 @@
+{
+  "work_slug": "polybius-histories-672821",
+  "work_title": "Histories",
+  "chapter_number": 22,
+  "chapter_title": "Book 22",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b454b91f-31a0-582c-91bd-799c62dab150",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4331,
+      "paragraph_count": 188,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:22"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5079ca41-d815-5959-b0bb-3290c259e5fb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5735,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-eng2:22"
+    }
+  ]
+}

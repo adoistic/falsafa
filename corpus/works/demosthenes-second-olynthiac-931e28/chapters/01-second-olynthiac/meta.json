@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-second-olynthiac-931e28",
+  "work_title": "Second Olynthiac",
+  "chapter_number": 1,
+  "chapter_title": "Second Olynthiac",
+  "chapter_slug": "01-second-olynthiac",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9d06a7ca-46be-563c-806a-0846f6b2a2a9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2043,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg002.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7996ead8-2aa0-5b41-86d9-7539027c2060",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2699,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg002.perseus-eng2"
+    }
+  ]
+}

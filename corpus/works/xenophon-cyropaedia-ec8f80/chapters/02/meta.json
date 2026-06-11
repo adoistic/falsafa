@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-cyropaedia-ec8f80",
+  "work_title": "Cyropaedia",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ce78593e-6569-5f44-a186-9050f4d9c9e1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7910,
+      "paragraph_count": 118,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg007.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c356aed3-90e2-5cac-b680-05126b7fdcd2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11439,
+      "paragraph_count": 175,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg007.perseus-eng2:2"
+    }
+  ]
+}

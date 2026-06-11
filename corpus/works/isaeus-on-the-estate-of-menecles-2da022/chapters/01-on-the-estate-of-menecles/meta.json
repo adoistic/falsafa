@@ -1,0 +1,38 @@
+{
+  "work_slug": "isaeus-on-the-estate-of-menecles-2da022",
+  "work_title": "On the Estate of Menecles",
+  "chapter_number": 1,
+  "chapter_title": "On the Estate of Menecles",
+  "chapter_slug": "01-on-the-estate-of-menecles",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "adc09819-9250-5c91-b603-07e87a45bf7d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2758,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg002.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "814fb4f5-e39b-52e8-ba1e-020cf58fbdd5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3816,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg002.perseus-eng2"
+    }
+  ]
+}

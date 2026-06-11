@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-platonicae-quaestiones-7d9c6a",
+  "work_title": "Platonicae quaestiones",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ade35059-74ec-53b7-8e7f-28f826b60792",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 781,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg133.perseus-grc2:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "387c90ce-c184-5a53-8dea-0c05a2919d57",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1003,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg133.perseus-eng2:9"
+    }
+  ]
+}

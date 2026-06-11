@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-joshua-53e442",
+  "work_title": "Joshua",
+  "chapter_number": 16,
+  "chapter_title": "Chapter 16",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "227d8640-811a-5c90-9435-e35d2815892b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 235,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:16"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f961a03-ca96-5ce5-aa60-749539d45466",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 270,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg006.perseus-eng2:16"
+    }
+  ]
+}

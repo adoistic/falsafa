@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-nicias-44a491",
+  "work_title": "Nicias",
+  "chapter_number": 18,
+  "chapter_title": "Chapter 18",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f2390602-5bd8-541b-b10c-ee28cf0648ff",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 405,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg038.perseus-grc2:18"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ded55206-7bfc-5ba4-a347-7b5bc03ffcc1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 590,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg038.perseus-eng2:18"
+    }
+  ]
+}

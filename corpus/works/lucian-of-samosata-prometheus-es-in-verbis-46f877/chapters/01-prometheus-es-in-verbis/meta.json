@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-prometheus-es-in-verbis-46f877",
+  "work_title": "Prometheus es in verbis",
+  "chapter_number": 1,
+  "chapter_title": "Prometheus es in verbis",
+  "chapter_slug": "01-prometheus-es-in-verbis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2c52a766-a936-5c7e-b1a3-0686258ccd2c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1009,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg064.perseus-grc3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "59e23e2e-460e-581b-857c-a4a11ed4e6ba",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1165,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg064.perseus-eng4"
+    }
+  ]
+}

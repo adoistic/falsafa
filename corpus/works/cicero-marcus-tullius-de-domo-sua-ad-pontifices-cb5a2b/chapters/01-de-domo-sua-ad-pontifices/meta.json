@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-de-domo-sua-ad-pontifices-cb5a2b",
+  "work_title": "De domo sua ad pontifices",
+  "chapter_number": 1,
+  "chapter_title": "De domo sua ad pontifices",
+  "chapter_slug": "01-de-domo-sua-ad-pontifices",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c43919f3-114a-59e9-a3ca-58f0dff345c0",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 14643,
+      "paragraph_count": 149,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi020.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4238c132-867f-56b3-8a1a-dfe607fad8e4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 27607,
+      "paragraph_count": 90,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi020.perseus-eng1"
+    }
+  ]
+}

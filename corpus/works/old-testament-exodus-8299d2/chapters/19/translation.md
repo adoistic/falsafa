@@ -1,0 +1,67 @@
+---
+work_id: "8299d271-ad9b-57fa-bac5-0b4002bb9fb3"
+work_slug: "old-testament-exodus-8299d2"
+work_title: Exodus
+author_name: Old Testament
+chapter_number: 19
+chapter_title: Chapter 19
+chapter_slug: 19
+variant_id: "e1091150-dfb7-5c75-8cd0-37d2c097694f"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 645
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg002.perseus-eng2:19"
+translator: Perseus Digital Library
+---
+
+In the third month after the children of Israel had gone forth out of the land of Egypt, on that same day they came into the wilderness of Sinai.
+
+When they had departed from Rephidim, and had come to the wilderness of Sinai, they encamped in the wilderness; and there Israel encamped before the mountain.
+
+Moses went up to God, and Yahweh called to him out of the mountain, saying, This is what you shall tell the house of Jacob, and tell the children of Israel:
+
+You have seen what I did to the Egyptians, and how I bore you on eagles’ wings, and brought you to myself.
+
+Now therefore, if you will indeed obey my voice, and keep my covenant, then you shall be my own possession from among all peoples; for all the earth is mine;
+
+and you shall be to me a kingdom of priests, and a holy nation. These are the words which you shall speak to the children of Israel.
+
+Moses came and called for the elders of the people, and set before them all these words which Yahweh commanded him.
+
+All the people answered together, and said, All that Yahweh has spoken we will do. Moses reported the words of the people to Yahweh.
+
+Yahweh said to Moses, Behold, I come to you in a thick cloud, that the people may hear when I speak with you, and may also believe you forever. Moses told the words of the people to Yahweh.
+
+Yahweh said to Moses, Go to the people, and sanctify them today and tomorrow, and let them wash their garments, and be ready against the third day; for on the third day Yahweh will come down in the sight of all the people on Mount Sinai.
+
+You shall set bounds to the people round about, saying, Be careful that you don’t go up onto the mountain, or touch its border. Whoever touches the mountain shall be surely put to death.
+
+No hand shall touch him, but he shall surely be stoned or shot through; whether it is animal or man, he shall not live. When the trumpet sounds long, they shall come up to the mountain.
+
+Moses went down from the mountain to the people, and sanctified the people; and they washed their clothes.
+
+He said to the people, Be ready by the third day. Don’t have sexual relations with a woman.
+
+It happened on the third day, when it was morning, that there were thunders and lightnings, and a thick cloud on the mountain, and the sound of an exceedingly loud trumpet; and all the people who were in the camp trembled.
+
+Moses led the people out of the camp to meet God; and they stood at the lower part of the mountain.
+
+Mount Sinai, the whole of it, smoked, because Yahweh descended on it in fire; and its smoke ascended like the smoke of a furnace, and the whole mountain quaked greatly.
+
+When the sound of the trumpet grew louder and louder, Moses spoke, and God answered him by a voice.
+
+Yahweh came down on Mount Sinai, to the top of the mountain. Yahweh called Moses to the top of the mountain, and Moses went up.
+
+Yahweh said to Moses, Go down, charge the people, lest they break through to Yahweh to gaze, and many of them perish.
+
+Let the priests also, who come near to Yahweh, sanctify themselves, lest Yahweh break forth on them.
+
+Moses said to Yahweh, The people can’t come up to Mount Sinai, for you charged us, saying, Set bounds around the mountain, and sanctify it.
+
+Yahweh said to him, Go down and you shall bring Aaron up with you, but don’t let the priests and the people break through to come up to Yahweh, lest he break forth on them.
+
+So Moses went down to the people, and told them.

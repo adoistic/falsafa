@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-numa-1285cf",
+  "work_title": "Numa",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ca5bfd65-c7b5-54a3-a565-8b583724607c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 236,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg005.perseus-grc2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "58b4512a-e795-5e3c-8ea8-a515ebd67104",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 366,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg005.perseus-eng2:6"
+    }
+  ]
+}

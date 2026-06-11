@@ -1,0 +1,38 @@
+{
+  "work_slug": "polybius-histories-672821",
+  "work_title": "Histories",
+  "chapter_number": 36,
+  "chapter_title": "Book 36",
+  "chapter_slug": "36",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "270eb8bf-d2a6-5664-99b7-5108dd0a2e06",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5371,
+      "paragraph_count": 215,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:36"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "090c5974-f83f-56c8-968f-45de6161bf09",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1651,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-eng2:36"
+    }
+  ]
+}

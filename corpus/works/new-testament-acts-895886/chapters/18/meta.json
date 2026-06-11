@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-acts-895886",
+  "work_title": "Acts",
+  "chapter_number": 18,
+  "chapter_title": "Chapter 18",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cd9e4f28-37fd-5210-ab1d-a73f8e060118",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 510,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:18"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "787a1891-9882-50ea-9fff-aad56d344273",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 659,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:18"
+    }
+  ]
+}

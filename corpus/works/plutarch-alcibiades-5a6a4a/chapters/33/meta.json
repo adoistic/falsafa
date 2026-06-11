@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-alcibiades-5a6a4a",
+  "work_title": "Alcibiades",
+  "chapter_number": 33,
+  "chapter_title": "Chapter 33",
+  "chapter_slug": "33",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4f4a7b6f-2395-54a7-b653-f40fb030445d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 151,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg015.perseus-grc2:33"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "263db534-9dbf-59ce-be42-47e2882b5673",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 221,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg015.perseus-eng2:33"
+    }
+  ]
+}

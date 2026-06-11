@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-zephaniah-6f6de1",
+  "work_title": "Zephaniah",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "09ce7ac0-7aea-5c31-81dc-c26163a6ca54",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 781,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg044.1st1K-grc1:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5376c085-d1bb-5d2c-b6a4-0f7de473f850",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 590,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg044.perseus-eng2:3"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-isaiah-d893d5",
+  "work_title": "Isaiah",
+  "chapter_number": 33,
+  "chapter_title": "Chapter 33",
+  "chapter_slug": "33",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fb93e906-2bae-5f59-9f95-a9e2d856df7f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 704,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg048.1st1K-grc1:33"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6d792cf4-3121-5ed8-b496-be2bfe71a87f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 574,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg048.perseus-eng2:33"
+    }
+  ]
+}

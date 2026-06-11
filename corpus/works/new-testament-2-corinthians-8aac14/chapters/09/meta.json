@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-2-corinthians-8aac14",
+  "work_title": "2 Corinthians",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "32f2bc34-f226-5578-95fd-d73f45658bf7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 284,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg008.perseus-grc2:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b13bc346-d3e4-5d57-aa0c-ac2a48b252fb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 375,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg008.perseus-eng2:9"
+    }
+  ]
+}

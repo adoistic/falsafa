@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-jeremiah-490c3f",
+  "work_title": "Jeremiah",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ef542f20-71c8-5a36-9d05-9971823df5b7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 581,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg049.1st1K-grc1:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bc14d7bc-cb7d-54e5-96dc-a9d034265a56",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 516,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg049.perseus-eng2:1"
+    }
+  ]
+}

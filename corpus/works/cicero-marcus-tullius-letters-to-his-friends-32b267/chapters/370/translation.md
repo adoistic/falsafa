@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 370
+chapter_title: "Chapter text=F:book=12:letter=23"
+chapter_slug: 370
+variant_id: "bbae57b2-8a7c-56c8-b0a8-9321b5336614"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 505
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:370"
+translator: Perseus Digital Library
+---
+
+TO Q. CORNIFICIUS (IN AFRICA) ROME (MIDDLE OF OCTOBER)
+
+Tratorius has explained to me the whole state of the case regarding your governorship and the position of your province. How many intolerable things are being done in all quarters! But considering your high rank, the treatment accorded to you is still less endurable. For because you put up with these things in the loftiness of your spirit and character without excessive irritation, they none the less call for your vengeance, even though they do not sting your heart. But of this at a future time. I feel sure that a gazette of transactions in the city reaches you. If I had not thought so I would have written an account of them myself, and first and foremost of the attempt made by Octavianus. In regard to this the common people think it a charge trumped up by Antony, as an excuse for making an inroad upon the young man's money. Men of the world, however, and loyalists both believe that it took place and approve of it. In short, I have great hopes of him. There is nothing he may not be expected to do in future for fame and glory's sake. Antonius, however, our whilom intimate friend, feels himself to be the object of such violent dislike, that though he caught the assassins within his own doors, he does not venture to make the fact public. On the 9th of October he set out to meet the four Macedonian legions, which his idea is to win over to his side by money-bounties, to lead them to the city, and station them as fetters for our necks. There is the state of the Republic for you, if a republic can be said to exist in a camp. And in this matter I often lament your fortune in not being old enough ever to have had a taste of a sound and healthy republic. And up to this time indeed it was at least possible to hope: now even that is snatched from us. For what hope can there be, when Antony ventures to say in a public meeting that Cannutius is "seeking a place for himself with men, for whom as long as he was alive there could be no place in the state "? For my part I bear these things, and in fact all that can befall a mortal, in such a way as to make me grateful to philosophy, which not only diverts me from anxious thoughts, but also arms me against all assaults of fortune. And you too, I think, should do the same: and believe that to a man who is clear of all wrong-doing nothing is to be reckoned an evil. But you understand this better than I. I always thought highly of our friend Tratorius, but I have been specially struck by his eminent fidelity, activity, and good sense in your business affairs. Take care of your health: nothing you can do could please me more than that.

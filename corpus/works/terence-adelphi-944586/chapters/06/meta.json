@@ -1,0 +1,38 @@
+{
+  "work_slug": "terence-adelphi-944586",
+  "work_title": "Adelphi",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "06",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c316cfb0-78b2-50c2-b18d-b2d7fcc11e89",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2105,
+      "paragraph_count": 366,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0134.phi006.perseus-lat2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f703198-397a-5138-bbe8-41a95f221621",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3900,
+      "paragraph_count": 216,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0134.phi006.perseus-eng2:6"
+    }
+  ]
+}

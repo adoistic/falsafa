@@ -1,0 +1,21 @@
+---
+work_id: "311ae72f-0571-54bf-84ba-1c4cffbaf679"
+work_slug: "pseudo-caesar-de-bello-alexandrino-311ae7"
+work_title: De Bello Alexandrino
+author_name: "Pseudo-Caesar"
+chapter_number: 70
+chapter_title: Chapter 70
+chapter_slug: 70
+variant_id: "ba2caa24-56ed-50c4-a316-171d307559c4"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 272
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0428.phi001.perseus-eng1:70"
+translator: Perseus Digital Library
+---
+
+Caesar replied that he would be scrupulously fair to Pharnaces if the latter intended to carry out his promises. He warned the envoys,however,in his usual tactful language, not to tax him with the case of Deiotarus or pride themselves unduly on their good services in having refused to send Pompeius auxiliary troops. For whereas nothing gave him greater pleasure than granting pardon when it was humbly entreated, yet it was impossible for him to condone public outrages against the provinces in the ease of those who had been loyal towards himself. In point of fact. he went on, that very act of loyalty which you call to mind proved more expedient to Pharnaces, who thereby had the foresight to avoid defeat, than to myself, for whose victory the immortal gods were responsible. As for the great and serious outrages perpetrated against Roman citizens engaged in trade in Pontus, since it is not in my power to set them to rights, I accordingly forgive Pharnaces. I cannot, in fact, restore to murdered men the life they have lost, nor to the mutilated their manhood and such indeed is the punishment—worse than death—that Roman citizens have undergone. Pharnaces, however, must withdraw forthwith from Pontus, release the household slaves of the tax-gatherers, and make all other such restitution as lies in his power to the allies and Roman citizens. If he does this, then—and not before—shall he send me the tributes and gifts which triumphant commanders are in the habit of receiving from their friends. (Pharnaces had, in fact, sent him a golden crown.) Such was the reply with which the envoys were sent back.

@@ -1,0 +1,577 @@
+[
+  {
+    "id": "p-6954e3",
+    "offset": 0,
+    "text": "(Enter MILPHIO.)"
+  },
+  {
+    "id": "p-0320c4",
+    "offset": 18,
+    "text": "MILPHIO:\nI’m awaiting in what way my plot is to proceed. I’m bent upon ruining this Procurer, since he torments my afflicted master; but he in his turn beats me, and strikes me with his fist and heels."
+  },
+  {
+    "id": "p-4ed209",
+    "offset": 221,
+    "text": "It’s a misery to be in the service of one who is in love, especially one who is debarred from the object which he woos. Heyday! I see Syncerastus, the Procurer’s servant, betaking himself from the Temple. I’ll listen to what he has to say.\n(He stands aside.)"
+  },
+  {
+    "id": "p-e99553",
+    "offset": 481,
+    "text": "(Enter SYNCERASTUS, with some cooking utensils, from the Temple of Venus.)"
+  },
+  {
+    "id": "p-682030",
+    "offset": 557,
+    "text": "SYNCERASTUS:\n(to himself)\nIt’s quite clear that Gods and men neglect the benefit of him who has a master like a person of such character as I have for a master."
+  },
+  {
+    "id": "p-04f5e4",
+    "offset": 719,
+    "text": "There’s not another person anywhere in the world more perjured or more wicked than is my master, nor one so filthy or so defiled with dirt. So may the Gods bless me, I’d rather pass my life either in the stone quarries or at the mill, with my sides hampered with heavy irons, than pass this servitude with a Procurer. What a race this is!"
+  },
+  {
+    "id": "p-394096",
+    "offset": 1059,
+    "text": "What corruptors of men they are! Ye Gods, by our hopes in you, every kind of men you may see there, just as though you had come to Acheron —horse and foot, a freed-man, a thief, or a runaway, if you choose, one whipped, chained, or condemned to slavery. He who has got money to pay, whatever sort of person he is—all kinds are taken in; throughout all the house, in consequence, are darkened spots and hiding-places: drinking and eating are going on, just as though in a cookshop, and in no less degree. There may you see epistles written in letters inscribed on pottery, and sealed with pitch: the names are upon them in letters a cubit long; such a perfect levy on vintners have we got at our house."
+  },
+  {
+    "id": "p-f13d2a",
+    "offset": 1762,
+    "text": "MILPHIO:\n(apart.)\nUpon my faith, it is quite wonderful, if his master doesn’t make him his heir;"
+  },
+  {
+    "id": "p-203841",
+    "offset": 1860,
+    "text": "for really, the way he soliloquizes, he’s making a speech over him as though dead and gone. I’d both like to accost the fellow, and yet I listen to him with extreme delight."
+  },
+  {
+    "id": "p-126caa",
+    "offset": 2035,
+    "text": "SYNCERASTUS:\n(to himself.)\nWhen I see these things going on, I’m vexed that slaves, purchased at the heaviest price, should at our house be robbed of the savings which ought to go to their masters. But at last nothing is left visible: badly gotten, badly gone."
+  },
+  {
+    "id": "p-1d94f2",
+    "offset": 2297,
+    "text": "MILPHIO:\n(apart.)\nThis man goes on talking quite as though he himself were an honest fellow, when, upon my faith, he himself is able to make worthlessness more worthless."
+  },
+  {
+    "id": "p-eec033",
+    "offset": 2469,
+    "text": "SYNCERASTUS:\n(to himself.)\nNow I’m taking home these vessels from the Temple of Venus, where with his sacrifice my master has not been able to propitiate Venus on her festive day."
+  },
+  {
+    "id": "p-be5b20",
+    "offset": 2650,
+    "text": "MILPHIO:\n(apart.)\nCharming Venus!"
+  },
+  {
+    "id": "p-4c2efd",
+    "offset": 2685,
+    "text": "SYNCERASTUS:\n(to himself.)\nBut our Courtesans, with their first victims, appeased Venus in an instant."
+  },
+  {
+    "id": "p-6498ab",
+    "offset": 2789,
+    "text": "MILPHIO:\nO charming Venus, once again!"
+  },
+  {
+    "id": "p-6fc304",
+    "offset": 2829,
+    "text": "SYNCERASTUS:\n(moving.)\nNow I’ll go home."
+  },
+  {
+    "id": "p-594732",
+    "offset": 2871,
+    "text": "MILPHIO:\n(coming forward.)\nHallo! Syncerastus!"
+  },
+  {
+    "id": "p-0c0f0a",
+    "offset": 2919,
+    "text": "SYNCERASTUS:\n(looking around.)\nWho’s calling Syncerastus?"
+  },
+  {
+    "id": "p-43dcaf",
+    "offset": 2978,
+    "text": "MILPHIO:\nYour friend."
+  },
+  {
+    "id": "p-4211fb",
+    "offset": 3001,
+    "text": "SYNCERASTUS:\nYou don’t act like a friend, in causing me delay when I’ve got a burden."
+  },
+  {
+    "id": "p-625637",
+    "offset": 3088,
+    "text": "MILPHIO:\nBut in return for this matter I’ll lend you my aid, when you please, and when you give me your commands. Consider the agreement signed."
+  },
+  {
+    "id": "p-b7c5cb",
+    "offset": 3234,
+    "text": "SYNCERASTUS:\nIf so it is to be, I’ll give you my services in this—"
+  },
+  {
+    "id": "p-027a8e",
+    "offset": 3302,
+    "text": "MILPHIO:\nIn what way?"
+  },
+  {
+    "id": "p-6b2230",
+    "offset": 3325,
+    "text": "SYNCERASTUS:\nWhy that, when I’m to have a beating, you yourself may substitute your hide."
+  },
+  {
+    "id": "p-8fe144",
+    "offset": 3416,
+    "text": "MILPHIO:\nGet along with you."
+  },
+  {
+    "id": "p-92b92b",
+    "offset": 3446,
+    "text": "SYNCERASTUS:\nI don’t understand what sort of person you are."
+  },
+  {
+    "id": "p-4a02ec",
+    "offset": 3508,
+    "text": "MILPHIO:\nI’m good for nothing."
+  },
+  {
+    "id": "p-e5c3a7",
+    "offset": 3540,
+    "text": "SYNCERASTUS:\nBe so to yourself, then."
+  },
+  {
+    "id": "p-14379d",
+    "offset": 3579,
+    "text": "MILPHIO:\nI want you."
+  },
+  {
+    "id": "p-4cdf5c",
+    "offset": 3601,
+    "text": "SYNCERASTUS:\nBut my burden is pressing me."
+  },
+  {
+    "id": "p-a8371f",
+    "offset": 3645,
+    "text": "MILPHIO:\nThen, do you set it down, and turn your face to me."
+  },
+  {
+    "id": "p-877703",
+    "offset": 3707,
+    "text": "SYNCERASTUS:\nI’ll do so, although I have no leisure.\n(Puts down his load.)"
+  },
+  {
+    "id": "p-50012c",
+    "offset": 3783,
+    "text": "MILPHIO:\nSave you, Syncerastus."
+  },
+  {
+    "id": "p-135ca5",
+    "offset": 3816,
+    "text": "SYNCERASTUS:\nO Milphio, may all the Gods and Goddesses favour—"
+  },
+  {
+    "id": "p-807872",
+    "offset": 3880,
+    "text": "MILPHIO:\nWhat person, pray?"
+  },
+  {
+    "id": "p-50331a",
+    "offset": 3909,
+    "text": "SYNCERASTUS:\nNeither you, nor me, Milphio, nor my own master, in fact."
+  },
+  {
+    "id": "p-ba7e58",
+    "offset": 3981,
+    "text": "MILPHIO:\nWhom are they to favour, then?"
+  },
+  {
+    "id": "p-a59359",
+    "offset": 4022,
+    "text": "SYNCERASTUS:\nAny one else they please; for not one of us is deserving of it."
+  },
+  {
+    "id": "p-08c9d1",
+    "offset": 4100,
+    "text": "MILPHIO:\nYou speak wittily."
+  },
+  {
+    "id": "p-d89581",
+    "offset": 4129,
+    "text": "SYNCERASTUS:\nIt befits me to do so."
+  },
+  {
+    "id": "p-95e49d",
+    "offset": 4166,
+    "text": "MILPHIO:\nWhat are you doing?"
+  },
+  {
+    "id": "p-e52001",
+    "offset": 4196,
+    "text": "SYNCERASTUS:\nI’m doing that which, clearly, adulterers don’t generally do."
+  },
+  {
+    "id": "p-e8e8cc",
+    "offset": 4272,
+    "text": "MILPHIO:\nWhat’s that?"
+  },
+  {
+    "id": "p-17faca",
+    "offset": 4295,
+    "text": "SYNCERASTUS:\nBringing all off in safety."
+  },
+  {
+    "id": "p-8e4fdd",
+    "offset": 4337,
+    "text": "MILPHIO:\nMay the Gods confound you and your master!"
+  },
+  {
+    "id": "p-395752",
+    "offset": 4390,
+    "text": "SYNCERASTUS:\nMay they not confound me. I could make them ruin him, if I chose— ruin my master, did I not fear for myself, Milphio."
+  },
+  {
+    "id": "p-4a7dd2",
+    "offset": 4522,
+    "text": "MILPHIO:\nWhat is it? Tell me."
+  },
+  {
+    "id": "p-fb8ce2",
+    "offset": 4553,
+    "text": "SYNCERASTUS:\nYou are a bad one."
+  },
+  {
+    "id": "p-3b1096",
+    "offset": 4586,
+    "text": "MILPHIO:\nI am a bad one."
+  },
+  {
+    "id": "p-abf9f3",
+    "offset": 4612,
+    "text": "SYNCERASTUS:\nIt goes but badly with me."
+  },
+  {
+    "id": "p-8f2412",
+    "offset": 4653,
+    "text": "MILPHIO:\nJust tell me, then; you ought to be in quite other plight. Why is it that it goes badly with you, who have at home in superabundance what to eat, and what to drink? You don’t give a single three-obol piece away to a mistress, and have her for nothing."
+  },
+  {
+    "id": "p-b67fdd",
+    "offset": 4915,
+    "text": "SYNCERASTUS:\nMay Jupiter so love me—"
+  },
+  {
+    "id": "p-6c816c",
+    "offset": 4953,
+    "text": "MILPHIO:\nI’ faith, in the degree that you deserve, to wit."
+  },
+  {
+    "id": "p-0de21e",
+    "offset": 5013,
+    "text": "SYNCERASTUS:\nHow I do long for this family to come to ruin."
+  },
+  {
+    "id": "p-787be8",
+    "offset": 5074,
+    "text": "MILPHIO:\nIf you long for it, lend your aid."
+  },
+  {
+    "id": "p-08ff34",
+    "offset": 5119,
+    "text": "SYNCERASTUS:\nWithout feathers it isn’t easy to fly: my wings have got no feathers."
+  },
+  {
+    "id": "p-d53ecb",
+    "offset": 5203,
+    "text": "MILPHIO:\nTroth, then, don’t pluck out any hairs; then, in the next two months, your arm-pits will be fit for flying."
+  },
+  {
+    "id": "p-196591",
+    "offset": 5321,
+    "text": "SYNCERASTUS:\nAway to utter perdition!"
+  },
+  {
+    "id": "p-e4f759",
+    "offset": 5360,
+    "text": "MILPHIO:\nAway yourself, and your master!"
+  },
+  {
+    "id": "p-ffcdc9",
+    "offset": 5402,
+    "text": "SYNCERASTUS:\nBut, really, if a person knew him well, the fellow might soon be ruined."
+  },
+  {
+    "id": "p-570e85",
+    "offset": 5489,
+    "text": "MILPHIO:\nWhy so?"
+  },
+  {
+    "id": "p-de388d",
+    "offset": 5507,
+    "text": "SYNCERASTUS:\nJust as though you could be silent on any matter."
+  },
+  {
+    "id": "p-cfce4b",
+    "offset": 5571,
+    "text": "MILPHIO:\nI’ll keep the matter more strictly secret for you than that which has been told to a dumb woman."
+  },
+  {
+    "id": "p-3cf60b",
+    "offset": 5678,
+    "text": "SYNCERASTUS:\nI could easily bring my mind to believe you there, if I did not know you."
+  },
+  {
+    "id": "p-785ea4",
+    "offset": 5766,
+    "text": "MILPHIO:\nTrust me boldly at my own peril."
+  },
+  {
+    "id": "p-2fe009",
+    "offset": 5809,
+    "text": "SYNCERASTUS:\nI shall trust you to my cost, and still I will trust you."
+  },
+  {
+    "id": "p-d5a924",
+    "offset": 5881,
+    "text": "MILPHIO:\nDon’t you know that your master is a mortal enemy of my master?"
+  },
+  {
+    "id": "p-9eb464",
+    "offset": 5955,
+    "text": "SYNCERASTUS:\nI know it."
+  },
+  {
+    "id": "p-053477",
+    "offset": 5980,
+    "text": "MILPHIO:\nBy reason of the love affair?"
+  },
+  {
+    "id": "p-5d979b",
+    "offset": 6020,
+    "text": "SYNCERASTUS:\nYou are losing all your pains."
+  },
+  {
+    "id": "p-570e85",
+    "offset": 6065,
+    "text": "MILPHIO:\nWhy so?"
+  },
+  {
+    "id": "p-3ae1c5",
+    "offset": 6083,
+    "text": "SYNCERASTUS:\nBecause you are teaching one that has been taught."
+  },
+  {
+    "id": "p-fb3870",
+    "offset": 6148,
+    "text": "MILPHIO:\nWhy, then, do you doubt that my master will do a mischief to your master with pleasure, so far as he can do, with his deserving it? Then besides, if you lend some assistance, on that account he’ll be able to do it the more easily."
+  },
+  {
+    "id": "p-888e06",
+    "offset": 6389,
+    "text": "SYNCERASTUS:\nBut I’m afraid of this, Milphio—"
+  },
+  {
+    "id": "p-184956",
+    "offset": 6436,
+    "text": "MILPHIO:\nWhat is it that you’re afraid of?"
+  },
+  {
+    "id": "p-56e090",
+    "offset": 6480,
+    "text": "SYNCERASTUS:\nThat while I’m preparing the plot against my master, I may be betrayed by yourself."
+  },
+  {
+    "id": "p-fb0c73",
+    "offset": 6578,
+    "text": "If my master knows that I’ve been talking to any individual, he’ll forthwith be making me from Syncerastus into Brokenlegs."
+  },
+  {
+    "id": "p-26727b",
+    "offset": 6703,
+    "text": "MILPHIO:\nOn my word, never shall any mortal be made the wiser by me; only to my master alone will I tell it; and to him, too, in such a way that he shall not disclose that this matter originated in yourself."
+  },
+  {
+    "id": "p-7e1e77",
+    "offset": 6912,
+    "text": "SYNCERASTUS:\nI shall trust you at my peril, and yet I will trust you."
+  },
+  {
+    "id": "p-1e0193",
+    "offset": 6983,
+    "text": "But do you keep this a secret to yourself."
+  },
+  {
+    "id": "p-59dc24",
+    "offset": 7027,
+    "text": "MILPHIO:\nTo Faith herself it is not more safely confided. Speak out boldly (there’s room and opportunity); we are here alone."
+  },
+  {
+    "id": "p-b416b0",
+    "offset": 7154,
+    "text": "SYNCERASTUS:\nIf your master chooses to act with caution, he’ll prove the ruin of my master."
+  },
+  {
+    "id": "p-1a70c3",
+    "offset": 7247,
+    "text": "MILPHIO:\nHow can that be?"
+  },
+  {
+    "id": "p-e98f01",
+    "offset": 7274,
+    "text": "SYNCERASTUS:\nEasily."
+  },
+  {
+    "id": "p-64cd6b",
+    "offset": 7296,
+    "text": "MILPHIO:\nThen let me be acquainted with this easily, that he may know it as well."
+  },
+  {
+    "id": "p-f0f6be",
+    "offset": 7379,
+    "text": "SYNCERASTUS:\nBecause Adelphasium, whom your master dotes on is free by birth."
+  },
+  {
+    "id": "p-027a8e",
+    "offset": 7458,
+    "text": "MILPHIO:\nIn what way?"
+  },
+  {
+    "id": "p-88973a",
+    "offset": 7481,
+    "text": "SYNCERASTUS:\nIn the same way that her other sister Anterastylis is."
+  },
+  {
+    "id": "p-2980ce",
+    "offset": 7550,
+    "text": "MILPHIO:\nBut how am I to believe that?"
+  },
+  {
+    "id": "p-2c5f93",
+    "offset": 7590,
+    "text": "SYNCERASTUS:\nBecause he bought them at Anactorium, when little children, of a Sicilian pirate."
+  },
+  {
+    "id": "p-c5b69b",
+    "offset": 7686,
+    "text": "MILPHIO:\nFor how much?"
+  },
+  {
+    "id": "p-f6c47f",
+    "offset": 7710,
+    "text": "SYNCERASTUS:\nFor eighteen minae."
+  },
+  {
+    "id": "p-671ce9",
+    "offset": 7744,
+    "text": "MILPHIO:\n(with an air of surprise.)\nThese two for eighteen minae?"
+  },
+  {
+    "id": "p-65f535",
+    "offset": 7811,
+    "text": "SYNCERASTUS:\nAnd their nurse for the third."
+  },
+  {
+    "id": "p-9678a8",
+    "offset": 7856,
+    "text": "He, too, who sold them told him that he was selling persons who had been kidnapped:"
+  },
+  {
+    "id": "p-528259",
+    "offset": 7941,
+    "text": "he said that they were free-born, and from Carthage."
+  },
+  {
+    "id": "p-f926f5",
+    "offset": 7995,
+    "text": "MILPHIO:\nYe Gods, by our hopes in you! you mention a most interesting matter; for my master Agorastocles was born in the same place; he was stolen thence when about six years old; after that, the person who stole him brought him here and sold him to my master; that person adopted him as heir to his wealth, when he departed this life."
+  },
+  {
+    "id": "p-83e5c5",
+    "offset": 8332,
+    "text": "SYNCERASTUS:\nYou mention everything that can render it the more easy; let him assert their freedom, his own countrywomen, in an action on their freedom."
+  },
+  {
+    "id": "p-0bf43d",
+    "offset": 8486,
+    "text": "MILPHIO:\nOnly do keep silence and hold your tongue."
+  },
+  {
+    "id": "p-69f18c",
+    "offset": 8539,
+    "text": "SYNCERASTUS:\nHe certainly will bring the Procurer to a backgammon, if he gets them away."
+  },
+  {
+    "id": "p-f36681",
+    "offset": 8629,
+    "text": "MILPHIO:\nNay but, I’ll cause him to be ruined before he moves one foot;’tis so contrived already."
+  },
+  {
+    "id": "p-9bbdbb",
+    "offset": 8728,
+    "text": "SYNCERASTUS:\nMay the Gods grant it so, that I don’t continue the slave of this Procurer."
+  },
+  {
+    "id": "p-accc18",
+    "offset": 8818,
+    "text": "MILPHIO:\nOn the contrary, upon my faith, I’ll cause you to be a free man with myself, if the Gods are willing."
+  },
+  {
+    "id": "p-8a2b34",
+    "offset": 8930,
+    "text": "SYNCERASTUS:\nMay the Gods grant it so! Do you detain me for anything else, Milphio?"
+  },
+  {
+    "id": "p-3f1e7a",
+    "offset": 9015,
+    "text": "MILPHIO:\nFare you well, and may happiness attend you."
+  },
+  {
+    "id": "p-4e326a",
+    "offset": 9070,
+    "text": "SYNCERASTUS:\nI’ faith, that lies in the power of yourself and your master. Farewell, and mind that these things have been told in secrecy."
+  },
+  {
+    "id": "p-70f1d0",
+    "offset": 9210,
+    "text": "MILPHIO:\nThis has not been mentioned even. Farewell."
+  },
+  {
+    "id": "p-8a8f3a",
+    "offset": 9264,
+    "text": "SYNCERASTUS:\nBut really it’s of no use, unless this is done while it is warm."
+  },
+  {
+    "id": "p-eef76c",
+    "offset": 9343,
+    "text": "MILPHIO:\nYou are right in your advice, and so it shall be done."
+  },
+  {
+    "id": "p-871196",
+    "offset": 9408,
+    "text": "SYNCERASTUS:\nThere’s excellent material, if you provide an excellent workman."
+  },
+  {
+    "id": "p-d071b8",
+    "offset": 9487,
+    "text": "MILPHIO:\nCan’t you hold your tongue?"
+  },
+  {
+    "id": "p-9b5e6d",
+    "offset": 9525,
+    "text": "SYNCERASTUS:\nI’ll hold my tongue and be off."
+  },
+  {
+    "id": "p-db8b95",
+    "offset": 9571,
+    "text": "MILPHIO:\nA grand opportunity you’ve made for me. (SYNCERASTUS goes into the house of LYCUS.) He’s gone from here. The immortal Gods do will my master to be preserved, and this Procurer utterly ruined; a mischief so great is impending upon him. Is it not the fact, before one weapon has been launched, then another presses upon him?"
+  },
+  {
+    "id": "p-245d6f",
+    "offset": 9904,
+    "text": "I’ll go in-doors, that I may recount these matters to my master. For if I were to call him out hither before the house, and, what you’ve (to the AUDIENCE) just heard, if I were now here to repeat the same, it would be folly. I’d rather in-doors be an annoyance to my master singly, than be so here to all of you. Immortal Gods, what misfortunes, what great calamities do this day await this Procurer. But now there’s no reason why I should delay."
+  },
+  {
+    "id": "p-214ec2",
+    "offset": 10352,
+    "text": "This business is resolved upon; no pausing is allowed; for both this must be cleverly managed, which has just now been entrusted to me, and that plan as well which was formed at home must be attended to. If there’s any delay, he who sends me a heavy mischance will be acting rightly. Now I’ll off in-doors; until my master comes from the Forum, I’ll wait at home.\n(Goes into the house of AGORASTOCLES.)"
+  }
+]

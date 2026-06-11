@@ -1,0 +1,38 @@
+{
+  "work_slug": "pseudo-caesar-de-bello-alexandrino-311ae7",
+  "work_title": "De Bello Alexandrino",
+  "chapter_number": 59,
+  "chapter_title": "Chapter 59",
+  "chapter_slug": "59",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "00de0a08-821e-50c8-91ab-9c9446f08088",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 114,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0428.phi001.perseus-lat1:59"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5b5ceab7-05f2-512d-9b58-742f98f8934c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 191,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0428.phi001.perseus-eng1:59"
+    }
+  ]
+}

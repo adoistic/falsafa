@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-deuteronomy-6d696d",
+  "work_title": "Deuteronomy",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ba7dce8f-db69-530f-af4d-8672ecefec10",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1189,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cb068f89-a5d4-5fbc-afd4-c11e752372c3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1222,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg005.perseus-eng2:1"
+    }
+  ]
+}

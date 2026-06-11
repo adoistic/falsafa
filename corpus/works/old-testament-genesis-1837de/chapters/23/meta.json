@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-genesis-1837de",
+  "work_title": "Genesis",
+  "chapter_number": 23,
+  "chapter_title": "Chapter 23",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3f4ad892-6788-563b-ac57-f1ccde86eb34",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 427,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:23"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "88a50127-0c81-523f-b380-846795764da0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 524,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg001.perseus-eng2:23"
+    }
+  ]
+}

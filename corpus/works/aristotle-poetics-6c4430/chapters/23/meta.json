@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristotle-poetics-6c4430",
+  "work_title": "Poetics",
+  "chapter_number": 23,
+  "chapter_title": "Chapter 23",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cf643489-913d-51f5-aaa7-c736ba6f5f6d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 241,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg034.perseus-grc2:23"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4909ef0a-0555-528b-a090-ad2aacd2bd8a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 380,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg034.perseus-eng2:23"
+    }
+  ]
+}

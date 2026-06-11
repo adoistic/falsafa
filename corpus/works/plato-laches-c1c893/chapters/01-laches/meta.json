@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-laches-c1c893",
+  "work_title": "Laches",
+  "chapter_number": 1,
+  "chapter_title": "Laches",
+  "chapter_slug": "01-laches",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f56bd415-6122-5724-8a6d-5114d9ce3c37",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7904,
+      "paragraph_count": 265,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg019.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ad056fc5-52de-574e-aef3-d78c52e3f559",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 10963,
+      "paragraph_count": 269,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg019.perseus-eng2"
+    }
+  ]
+}

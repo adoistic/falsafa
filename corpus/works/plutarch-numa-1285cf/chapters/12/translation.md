@@ -1,0 +1,33 @@
+---
+work_id: "1285cf93-fd08-5124-b96f-18f462b157a3"
+work_slug: "plutarch-numa-1285cf"
+work_title: Numa
+author_name: Plutarch
+chapter_number: 12
+chapter_title: Chapter 12
+chapter_slug: 12
+variant_id: "17aa2648-df92-5a34-b9de-a128e051a640"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 620
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg005.perseus-eng2:12"
+translator: Bernadotte Perrin
+---
+
+The Pontifices also explain and direct the ancestral rites of burial for those who desire it, and they were taught by Numa not to regard any such offices as a pollution, but to honour the gods below also with the customary rites, since they receive into their keeping the most sovereign part of us, and particularly the goddess called Libitina, who presides over the solemn services for the dead, whether she is Proserpina, or, as the most learned Romans maintain, Venus; thereby not inaptly connecting man’s birth and death with the power of one and the same goddess.
+
+Numa himself also regulated the periods of mourning according to ages. For instance, over a child of less than three years there was to be no mourning at all; over one older than that, the mourning was not to last more months than it had lived years, up to ten; and no age was to be mourned longer than that, but ten months was the period set for the longest mourning. This is also the period during which women who have lost their husbands remain in widowhood, and she who took another husband before this term was out, was obliged by the laws of Numa to sacrifice a cow with calf.
+
+Numa also established many other orders of priesthood, of which I shall mention two, besides, those of the Salii and the Fetiales, which more than any others give evidence of the man’s reverent piety. The Fetiales were guardians of peace, so to speak, and in my opinion took their name from their office, which was to put a stop to disputes by oral conference, or parley and they would not suffer a hostile expedition to be made before every hope of getting justice had been cut off.
+
+For the Greeks call it peace when two parties settle their quarrels by mutual conference, and not by violence. And the Roman Fetiales often went to those who were doing them a wrong and made personal appeals for fair treatment; but if the unfair treatment continued, they called the gods to witness, invoked many dreadful evils upon themselves and their country in case they resorted to hostilities unjustly, and so declared war upon them.
+
+But if they forbade it or withheld their consent, neither soldier nor king of Rome could lawfully take up arms. War had to begin with their verdict that it was just, and the ruler, on receiving this verdict, must then deliberate on the proper way to wage it. And it is said that the dreadful disaster which the city experienced at the hands of the Gauls was in consequence of the illegal treatment of these priests.
+
+For when the Barbarians were besieging Clusium, Fabius Ambustus was sent from Rome to their camp to bring about a cessation of hostilities on behalf of the besieged. But on receiving an unseemly answer, he thought his office of ambassador was at an end, and committed the youthful folly of taking up arms for the Clusians and challenging the bravest of the Barbarians to single combat.
+
+Fabius fought successfully, unhorsed his adversary, and stripped him of his armour. But when the Gauls discovered who he was, they sent a herald to Rome denouncing Fabius for violating a truce, breaking his oath, and fighting against them before war was formally declared. At Rome the Fetiales tried to persuade the senate to deliver Fabius into the hands of the Gauls, but he took refuge with the multitude, and through the favour of the populace evaded his punishment. After a little, therefore, the Gauls came up and sacked Rome, with the exception of the Capitol. But this story is more fully given in my Life of Camillus.

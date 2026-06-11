@@ -7,6 +7,7 @@
 
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
 import { resolve, join, dirname } from "node:path";
+import { cachedCorpus } from "./fetch-corpus.ts";
 import { fileURLToPath } from "node:url";
 
 // ─────────────────────────────────────────────────────────────────────────
@@ -35,6 +36,9 @@ export function resolveCorpusRoot(): string {
   // Last fallback: cwd
   const cwd = resolve(process.cwd(), "corpus");
   if (existsSync(join(cwd, "manifest.json"))) return cwd;
+  // First-run cache (downloaded from the GitHub release by index.ts)
+  const cached = cachedCorpus();
+  if (cached) return cached;
   throw new Error(
     "Falsafa corpus not found. Set FALSAFA_CORPUS env var to the corpus directory path.",
   );

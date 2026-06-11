@@ -8,6 +8,11 @@ export const getStaticPaths = (() => {
 }) satisfies GetStaticPaths;
 
 const { work } = Astro.props;
+
+// Reconciliation with the transmission atlas: when this work's journey is
+// mapped there, the page links to its chain.
+import { works as atlasWorks } from "../../../lib/atlas/data.ts";
+const atlasEntry = atlasWorks.find((aw) => aw.read_slug === work.slug) ?? null;
 const idx = readWorkIndex(work.slug);
 const chapters = listChapters(work.slug);
 
@@ -96,6 +101,13 @@ const redirectTo = isSingleChapter && onlyChapter
         <a href={`/authors/${work.author_slug}/`}>{work.author}</a>
       </p>
       {work.description && <p class="description">{work.description}</p>}
+      {atlasEntry && (
+        <p class="atlas-link">
+          <a href={`/atlas/works/${atlasEntry.id}/`}>
+            Trace this book's journey in the atlas &rarr;
+          </a>
+        </p>
+      )}
 
       <div class="meta-grid">
         <div>
@@ -399,5 +411,14 @@ const redirectTo = isSingleChapter && onlyChapter
     text-transform: uppercase;
     letter-spacing: 0.1em;
     color: var(--ink-muted);
+  }
+  .atlas-link {
+    font-family: var(--font-sans);
+    font-weight: 500;
+    margin: var(--s-4) 0 0;
+  }
+
+  .atlas-link a {
+    color: var(--accent);
   }
 </style>

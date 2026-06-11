@@ -1,0 +1,23 @@
+---
+work_id: "42bb8ffd-42cc-5876-ac1a-70a998d0ec3b"
+work_slug: "sallust-bellum-iugurthinum-42bb8f"
+work_title: Bellum Iugurthinum
+author_name: Sallust
+chapter_number: 16
+chapter_title: Chapter 16
+chapter_slug: 16
+variant_id: "fa8f4ee8-d370-5938-98e2-68efde991828"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 207
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi002.perseus-eng2:16"
+translator: Perseus Digital Library
+---
+
+Yet that party gained the superiority in the senate, which preferred money and interest to justice. A decree was made, "that ten commissioners should divide the kingdom, which Micipsa had possessed, between Jugurtha and Adherbal." Of this commission the leading person was Lucius Opimius, a man of distinction, and of great influence at that time in the senate, from having in his consulship, on the death of Caius Gracchus and Marcus Fulvius Flaccus, prosecuted the victory of the nobility over the plebeians with great severity.
+
+Jugurtha, though he had already counted Scaurus among his friends at Rome, yet received him with the most studied ceremony, and, by presents and promises, wrought on him so effectually, that he preferred the prince's interest to his own character, honor, and all other considerations. The rest of the commissioners he assailed in a similar way, and gained over most of them; by a few only integrity was more regarded than lucre. In the division of the kingdom, that part of Numidia which borders on Mauretania, and which is superior in fertility and population, was allotted to Jugurtha; of the other part, which, though better furnished with harbors and buildings, was more valuable in appearance than in reality, Adherbal became the possessor.

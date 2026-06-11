@@ -1,0 +1,21 @@
+---
+work_id: "5fa68674-5128-526b-ad8e-7e50aa516351"
+work_slug: "tacitus-cornelius-dialogus-5fa686"
+work_title: Dialogus
+author_name: Tacitus, Cornelius
+chapter_number: 25
+chapter_title: Chapter 25
+chapter_slug: 25
+variant_id: "d696694e-e13b-576a-b111-c4831fae1921"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 415
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi003.perseus-eng1:25"
+translator: William Jackson Brodribb
+---
+
+Messala replied, I will take the line you have prescribed for me. Certainly I need not argue long against Aper, who began by raising what I think a controversy about a name, implying that it is not correct to call ancients those whom we all know to have lived a hundred years ago. I am not fighting about a word. Let him call them ancients or elders or any other name he prefers, provided only we have the admission that the eloquence of that age exceeded ours. If again he freely admits that even in the same, much more in different periods, there were many varieties of oratory, against this part too of his argument I say nothing. I maintain, however, that just as among Attic orators we give the first place to Demosthenes and assign the next to Aeschines, Hyperides, Lysias and Lycurgus, while all agree in regarding this as pre-eminently the age of speakers, so among ourselves Cicero indeed was superior to all the elo- quent men of his day, though Calvus, Asinius, C&aelig;sar, Caelius, and Brutus may claim the right of being preferred to those who preceded and who followed them. It matters nothing that they differ in special points, seeing that they are generically alike. Calvus is the more terse, Asinius has the finer rhythm, C&aelig;sar greater brilliancy, Caelius is the more caustic, Brutus the more earnest, Cicero the more impassioned, the richer and more forcible. Still about them all there is the same healthy tone of eloquence. Take into your hand the works of all alike and you see that amid wide differences of genius, there is a resemblance and affinity of intellect and moral purpose. Grant that they disparaged each other (and certainly there are some passages in their letters which show mutual ill-will), still this is the failing, not of the orator, but of the man. Calvus, Asinius, Cicero himself, I presume, were apt to be envious and ill-natured, and to have the other faults of human infirmity. Brutus alone of the number in my opinion laid open the convictions of his heart frankly and ingenuously, without ill-will or envy. Is it possible that he envied Cicero, when he seems not to have envied even C&aelig;sar? As to Servius Galba, and Caius Laelius, and others of the ancients whom Aper has persistently assailed, he must not expect me to defend them, for I admit that their eloquence, being yet in its infancy and imperfectly developed, had certain defects.

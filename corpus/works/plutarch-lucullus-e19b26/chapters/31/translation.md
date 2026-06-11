@@ -1,0 +1,35 @@
+---
+work_id: "e19b265b-8b99-5a57-9332-bef51825252b"
+work_slug: "plutarch-lucullus-e19b26"
+work_title: Lucullus
+author_name: Plutarch
+chapter_number: 31
+chapter_title: Chapter 31
+chapter_slug: 31
+variant_id: "65cbfedd-fa4b-5659-bc6a-941f82d93ae8"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 617
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg036.perseus-eng2:31"
+translator: Bernadotte Perrin
+---
+
+Such speeches, and even worse than these, coming to the ears of Lucullus, he gave up his expedition against the Parthians, and marched once more against Tigranes, it being now the height of summer. And yet, after crossing the Taurus, he was discouraged to find the plains still covered with unripe grain, so much later are the seasons there, owing to the coolness of the atmosphere.
+
+However, he descended from the mountains, routed the Armenians who twice or thrice ventured to attack him, and then plundered their villages without fear, and, by taking away the grain which had been stored up for Tigranes, reduced his enemy to the straits which he had been fearing for himself. Then he challenged them to battle by encompassing their camp with a moat, and by ravaging their territory before their eyes; but this did not move them, so often had they been defeated. He therefore broke camp and marched against Artaxas, the royal residence of Tigranes, where were his wives and young children, thinking that Tigranes would not give these up without fighting.
+
+It is said that Hannibal the Carthaginian, after Antiochus had been conquered by the Romans, left him and went to Artaxas the Armenian, to whom he gave many excellent suggestions and instructions. For instance, observing that a section of the country which had the greatest natural advantages and attractions was lying idle and neglected, he drew up a plan for a city there, and then brought Artaxas to the place and showed him its possibilities, and urged him to undertake the building.
+
+The king was delighted, and begged Hannibal to superintend the work himself, whereupon a very great and beautiful city arose there, which was named after the king, and proclaimed the capital of Armenia. When Lucullus marched against this city, Tigranes could not suffer it quietly, but put himself at the head of his forces, and on the fourth day encamped over against the Romans, keeping the river Arsania between himself and them, which they must of necessity cross on their way to Artaxata.
+
+Thereupon Lucullus sacrificed to the gods, in full assurance that the victory was already his, and then crossed the river with twelve cohorts in the van, and the rest disposed so as to prevent the enemy from closing in upon his flanks. For large bodies of horsemen and picked soldiers confronted him, and these were covered by Mardian mounted archers and Iberian lancers, on whom Tigranes relied beyond any other mercenaries, deeming them the most warlike.
+
+However, they did not shine in action, but after a slight skirmish with the Roman cavalry, gave way before the advancing infantry, scattered to right and left in flight, and drew after them the cavalry in pursuit. On the dispersion of these troops, Tigranes rode out at the head of his cavalry, and when Lucullus saw their splendour and their numbers he was afraid.
+
+He therefore recalled his cavalry from their pursuit of the flying enemy, and taking the lead of his troops in person, set upon the Atropateni, who were stationed opposite him with the magnates of the king’s following, and before coming to close quarters, sent them off in panic flight. Of three kings who together confronted the Romans, Mithridates of Pontus seems to have fled most disgracefully, for he could not endure even their shouting.
+
+The pursuit was long and lasted through the whole night, and the Romans were worn out, not only with killing their enemies, but also with taking prisoners and getting all sorts of booty. Livy says that in the former battle a greater number of the enemy, but in this more men of high station were slain and taken prisoners.

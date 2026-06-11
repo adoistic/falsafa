@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ezekiel-835f8a",
+  "work_title": "Ezekiel",
+  "chapter_number": 14,
+  "chapter_title": "Chapter 14",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d66ff76e-91e4-559f-89ef-800999684b1b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 757,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1:14"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "89d54d39-39c3-5596-8fff-245cdca7c0bb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 729,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg053.perseus-eng2:14"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-laws-948029",
+  "work_title": "Laws",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2d82f708-317b-5353-ba22-67d7533223a3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7070,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg034.perseus-grc2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "96d4c29e-abf4-5620-8fc8-518b70d3afd3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9816,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg034.perseus-eng2:5"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "ignatius-of-antioch-epistles-394582",
+  "work_title": "Epistles",
+  "chapter_number": 26,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "26",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2b32d9ac-292f-56b9-8cf2-4d66a8a0f0d1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 81,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1:26"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f959b394-ddb2-5e97-9466-8cca3c066d31",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 57,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1443.tlg001.perseus-eng1:26"
+    }
+  ]
+}

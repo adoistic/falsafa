@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ezekiel-835f8a",
+  "work_title": "Ezekiel",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "028a518c-a59a-5f7b-bada-4ee624c53115",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 536,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "26c58883-cc05-5f98-b0d2-ce6f54c8a14b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 460,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg053.perseus-eng2:6"
+    }
+  ]
+}

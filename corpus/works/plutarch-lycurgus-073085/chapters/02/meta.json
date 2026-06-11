@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-lycurgus-073085",
+  "work_title": "Lycurgus",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "10dbb4df-6ef7-50e4-8342-8fb71b57ba6b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 187,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg004.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd284def-8407-5fa2-bb19-8012c56d81d3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 299,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg004.perseus-eng2:2"
+    }
+  ]
+}

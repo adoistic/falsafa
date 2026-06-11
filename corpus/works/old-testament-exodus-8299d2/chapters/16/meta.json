@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-exodus-8299d2",
+  "work_title": "Exodus",
+  "chapter_number": 16,
+  "chapter_title": "Chapter 16",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "79fecf28-5cab-5925-8b06-898d852bc6b8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 799,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg002.1st1K-grc1:16"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2af18f30-1e8d-5381-ab7d-7863774af47c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 984,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg002.perseus-eng2:16"
+    }
+  ]
+}

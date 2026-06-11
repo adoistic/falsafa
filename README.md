@@ -4,6 +4,12 @@ A reading site and an open-source MCP server over the same translated corpus
 of philosophical and classical texts. Built by [Adnan](https://meetadnan.com).
 Free, public, MIT.
 
+Why it exists, in one line: every classical text that survives was
+carried, by translators, revisers and patrons with names, and Falsafa
+continues that practice for machine readers. The long form of the
+argument is the book at `/book` (Carried Across: how ideas travel) and
+the evidence is the transmission atlas at `/atlas`.
+
 The fastest way in:
 
 ```bash
@@ -15,7 +21,7 @@ the rule-based wiki layer — `read_wiki` and `read_wiki_full`),
 zero API keys, zero state, zero inference cost on our side. Karpathy-flavored:
 the MCP is a librarian, not a second LLM. Your model does the reasoning.
 
-> First run downloads ~48 MB (the corpus ships inside the tarball). If your
+> First run downloads the corpus snapshot (~185 MB compressed, ~800 MB on disk) from a GitHub release into your cache, verifies its checksum, and builds a local search index; the npm package itself is ~100 KB. If your
 > MCP client times out before the download completes, run
 > `npx -y @falsafa/mcp` once in a terminal first to warm npm's cache.
 
@@ -221,6 +227,9 @@ Eleven artifacts on the launch list:
 | 10 | gstack Skill: `gstack skills install falsafa-methodology` | pending |
 | 11 | arXiv preprint | pending — gated on graded-score eval rework (`TODOS.md`) |
 | 12 | PR back to PerseusDL | pending |
+| 13 | `falsafa.ai/atlas` the transmission atlas (Naql merged in) | built, on `feat/reader-engine-split-atlas` |
+| 14 | `falsafa.ai/book` Carried Across, with the Why-Falsafa afterword | built, on `feat/reader-engine-split-atlas` |
+| 15 | `falsafa.ai/engine` reader/engine split with engine-room hub | built, on `feat/reader-engine-split-atlas` |
 
 The corpus + MCP (Phase 1), BYOK demo at `/try` (Phase 2), and the
 eval explorer + thesis methodology + redesigned A/B benchmark chart

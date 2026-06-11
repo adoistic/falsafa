@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-on-the-property-of-eraton-53fa81",
+  "work_title": "On The Property Of Eraton",
+  "chapter_number": 1,
+  "chapter_title": "On The Property Of Eraton",
+  "chapter_slug": "01-on-the-property-of-eraton",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bbcdf8b7-a371-55b4-81c1-64868e4c15c4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 587,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg017.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "73af00a6-bb7c-5fe6-aeb9-292661a83962",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 867,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg017.perseus-eng2"
+    }
+  ]
+}

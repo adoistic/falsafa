@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-cicero-e5c3e9",
+  "work_title": "Cicero",
+  "chapter_number": 40,
+  "chapter_title": "Chapter 40",
+  "chapter_slug": "40",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a0229f39-be66-56fe-a484-b5a04e4aca50",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 227,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg055.perseus-grc2:40"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab4fc337-b69d-546b-9130-3a8f75ae441f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 319,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg055.perseus-eng2:40"
+    }
+  ]
+}

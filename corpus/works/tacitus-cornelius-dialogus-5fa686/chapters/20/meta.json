@@ -1,0 +1,38 @@
+{
+  "work_slug": "tacitus-cornelius-dialogus-5fa686",
+  "work_title": "Dialogus",
+  "chapter_number": 20,
+  "chapter_title": "Chapter 20",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4e45e49d-735e-5546-ba76-ae6b01d90c0c",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 223,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi003.perseus-lat1:20"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ada1e416-3892-5bf0-bf8e-bf8d66e3f414",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 350,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi003.perseus-eng1:20"
+    }
+  ]
+}

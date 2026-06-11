@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-capienda-ex-inimicis-utilitat-9c8eaf",
+  "work_title": "De capienda ex inimicis utilitate",
+  "chapter_number": 1,
+  "chapter_title": "De capienda ex inimicis utilitate",
+  "chapter_slug": "01-de-capienda-ex-inimicis-utilitate",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4434edae-e84f-519a-aa3c-8fb4a2807ce3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2993,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg072.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "70726c19-fd3d-5be5-8cd0-41405cc7b8d4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5990,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg072.perseus-eng4"
+    }
+  ]
+}

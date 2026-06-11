@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-philippicae-f2d191",
+  "work_title": "Philippicae",
+  "chapter_number": 165,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "165",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e26fe22d-485c-5868-9c29-ea8694675b5a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 341,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:165"
+    }
+  ]
+}

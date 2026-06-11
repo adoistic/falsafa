@@ -1,0 +1,21 @@
+---
+work_id: "3902f872-70c1-51cc-bb46-4f90c7c8bdde"
+work_slug: "suetonius-caligula-3902f8"
+work_title: Caligula
+author_name: Suetonius
+chapter_number: 16
+chapter_title: Chapter 16
+chapter_slug: 16
+variant_id: "5fafe974-094f-59df-b8e6-c24613acae4a"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 431
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo014.perseus-eng2:16"
+translator: Perseus Digital Library
+---
+
+The Spintriae he banished from the city, being prevailed upon not to throw them into the sea, as he had intended. The writings of Titus Lubienus, Cordus Cremutius, and Cassius Severus, which had been suppressed by an act of the senate, he permitted to be drawn from obscurity, and universally read; observing, "that it would be for his own advantage to have the transactions of former times delivered to posterity." He published accounts of the proceedings of the government-a practice which had been introduced by Augustus, but discontinued by Tiberius. He granted the magistrates a full and free jurisdiction, without any appeal to himself. He made a very strict and exact review of the Roman knights, but conducted it with moderation; publicly depriving of his horse every knight who lay under the stigma of any thing base and dishonourable; but passing over the names of those knights who were only guilty of venial faults, in calling over the list of the order. To lighten the labours of the judges, he added a fifth class to the former four. He attempted likewise to restore to the people their ancient right of voting in the choice of magistrates. He paid very honourably, and without any dispute, the legacies left by Tiberius in his will, though it had been set aside; as likewise those left by the will of Livia Augusta, which Tiberius had annulled. He remitted the hundredth penny, due to the government in all auctions throughout Italy. He made up to many their losses sustained by fire; and. when he restored their kingdoms. to any princes, he likewise allowed them all the arrears of the taxes.-and revenues which had accrued in the interval; as in the case of Antiochus of Comagene, where the confiscation would have amounted to a hundred millions of sesterces. To prove to the world that he was ready to encourage good examples of every kind, he gave to a freed-woman eighty thousand sesterces, for not discovering a crime committed by her patron, though she had been put to exquisite torture for that purpose. For all these acts of beneficence, amongst other honours, a golden shield was decreed to him, which the colleges of priests were to carry annually, upon a fixed day, into the Capitol, with the senate attending, and the youth of the nobility, of both sexes, celebrating the praise of his virtues in songs. It was likewise ordained, that the day on which he succeeded to the empire should be called Palilia, in token of the city's being at that time, as it were, new founded.

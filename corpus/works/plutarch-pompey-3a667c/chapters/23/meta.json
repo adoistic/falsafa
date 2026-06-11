@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-pompey-3a667c",
+  "work_title": "Pompey",
+  "chapter_number": 23,
+  "chapter_title": "Chapter 23",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "76319b94-4b86-5504-96ca-3700af414db9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 253,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg045.perseus-grc2:23"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ddfd5975-a6c1-552a-9e32-285bf2c42e3e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 368,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg045.perseus-eng2:23"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+  "work_title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "chapter_number": 20,
+  "chapter_title": "CHAPTER I. OF THE NATURAL PROGRESS OF OPULENCE",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0889a6ba-34d8-52e7-945c-c0a8cc74460e",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 1969,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Smith_WoN-CannanEdition1904/Smith_WoN-Cannan1904-4Panes.margnotes.html"
+    }
+  ]
+}

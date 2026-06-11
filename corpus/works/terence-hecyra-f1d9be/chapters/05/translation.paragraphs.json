@@ -1,0 +1,732 @@
+[
+  {
+    "id": "p-cc2b1f",
+    "offset": 0,
+    "text": "(Enter PAMPHILUS and PARMENO.)"
+  },
+  {
+    "id": "p-4f1108",
+    "offset": 32,
+    "text": "PAMPHILUS:\nNo individual, I do believe, ever met with more crosses in love than I. Alas! unhappy me! that I have thus been sparing of life! Was it for this I was so very impatient to return home? O, how much more preferable had it been for me to pass my life any where in the world than to return here and be sensible that I am thus wretched! For all of us know who have met with trouble from any cause, that all the time that passes before we come to the knowledge of it, is so much gain."
+  },
+  {
+    "id": "p-b259b0",
+    "offset": 523,
+    "text": "PARMENO:\nStill, as it is, you’ll the sooner know how to extricate yourself from these misfortunes. If you had not returned, this breach might have become much wider;"
+  },
+  {
+    "id": "p-405557",
+    "offset": 690,
+    "text": "but now, Pamphilus, I am sure that both will be awed by your presence. You will learn the facts, remove their enmity, restore them to good feeling once again. These are but trifles which you have persuaded yourself are so grievous."
+  },
+  {
+    "id": "p-128f49",
+    "offset": 923,
+    "text": "PAMPHILUS:\nWhy comfort me? Is there a person in all the world so wretched as I? Before I took her to wife, I had my heart engaged by other affections."
+  },
+  {
+    "id": "p-5ffa31",
+    "offset": 1075,
+    "text": "Now, though on this subject I should be silent, it is easy for any one to know how much I have suffered; yet I never dared refuse her whom my father forced upon me. With difficulty did I withdraw myself from another, and disengage my affections so firmly rooted there! and hardly had I fixed them in another quarter, when, lo! a new misfortune has arisen, which may tear me from her too. Then besides, I suppose that in this matter I shall find either my mother or my wife in fault;"
+  },
+  {
+    "id": "p-e72907",
+    "offset": 1559,
+    "text": "and when I find such to be the fact, what remains but to become still more wretched? For duty, Parmeno, bids me bear with the feelings of a mother; then, to my wife I am bound by obligations; with so much temper did she formerly bear my usage, and on no occasion disclose the many wrongs inflicted on her by me. But, Parmeno, something of consequence, I know not what it is, must have happened for this misunderstanding to have arisen between them, that has lasted so long."
+  },
+  {
+    "id": "p-f05978",
+    "offset": 2034,
+    "text": "PARMENO:\nOr else something frivolous, i’ faith, if you would only give words their proper value; those which are sometimes the greatest enmities, do not argue the greatest injuries; for it often happens that in certain circumstances, in which another would not even be out of temper, for the very same reason a passionate man becomes your greatest enemy."
+  },
+  {
+    "id": "p-662ed1",
+    "offset": 2390,
+    "text": "What enmities do children entertain among themselves for trifling injuries! For what reason? Why, because they have a weak understanding to direct them. Just so are these women, almost like children with their fickle feelings; perhaps a single word has occasioned this enmity between them, master."
+  },
+  {
+    "id": "p-ea70a0",
+    "offset": 2689,
+    "text": "PAMPHILUS:\nGo, Parmeno, into the house, and carry word that I have arrived. (A noise is heard in the house of PHIDIPPUS.)"
+  },
+  {
+    "id": "p-726f52",
+    "offset": 2812,
+    "text": "PARMENO:\n(starting.)\nHa! What means this?"
+  },
+  {
+    "id": "p-5c4bef",
+    "offset": 2855,
+    "text": "PAMPHILUS:\nBe silent."
+  },
+  {
+    "id": "p-0aa19f",
+    "offset": 2878,
+    "text": "I perceive a bustling about, and a running to and fro."
+  },
+  {
+    "id": "p-6d7386",
+    "offset": 2934,
+    "text": "PARMENO:\n(going to the door.)\nCome then, I’ll approach nearer to the door. (He listens.) Ha! did you hear?"
+  },
+  {
+    "id": "p-7ab68e",
+    "offset": 3042,
+    "text": "PAMPHILUS:\nDon’t be prating. (He listens.) O Jupiter, I heard a shriek!"
+  },
+  {
+    "id": "p-4ec004",
+    "offset": 3115,
+    "text": "PARMENO:\nYou yourself are talking, while you forbid me."
+  },
+  {
+    "id": "p-3e8b2f",
+    "offset": 3172,
+    "text": "MYRRHINA:\n(within the house.)\nPrithee, my child, do be silent."
+  },
+  {
+    "id": "p-677827",
+    "offset": 3236,
+    "text": "PAMPHILUS:\nThat seems to be the voice of Philumena’s mother. I’m undone"
+  },
+  {
+    "id": "p-33a94e",
+    "offset": 3309,
+    "text": "PARMENO:\nWhy so?"
+  },
+  {
+    "id": "p-88b549",
+    "offset": 3327,
+    "text": "PAMPHILUS:\nUtterly ruined!"
+  },
+  {
+    "id": "p-c8f337",
+    "offset": 3355,
+    "text": "PARMENO:\nFor what reason?"
+  },
+  {
+    "id": "p-512027",
+    "offset": 3382,
+    "text": "PAMPHILUS:\nParmeno, you are concealing from me some great misfortune to me unknown."
+  },
+  {
+    "id": "p-39cab2",
+    "offset": 3467,
+    "text": "PARMENO:\nThey said that your wife, Philumena, was in alarm about something, I know not what; whether that may be it, perchance, I don’t know."
+  },
+  {
+    "id": "p-a1facb",
+    "offset": 3610,
+    "text": "PAMPHILUS:\nI am undone! Why didn’t you tell me of this?"
+  },
+  {
+    "id": "p-fbb87c",
+    "offset": 3667,
+    "text": "PARMENO:\nBecause I couldn’t tell every thing at once."
+  },
+  {
+    "id": "p-e0802e",
+    "offset": 3722,
+    "text": "PAMPHILUS:\nWhat is the malady?"
+  },
+  {
+    "id": "p-a4b9bd",
+    "offset": 3754,
+    "text": "PARMENO:\nI don’t know."
+  },
+  {
+    "id": "p-582aa0",
+    "offset": 3778,
+    "text": "PAMPHILUS:\nWhat! has no one brought a physician to see her?"
+  },
+  {
+    "id": "p-a4b9bd",
+    "offset": 3839,
+    "text": "PARMENO:\nI don’t know."
+  },
+  {
+    "id": "p-f8a1d1",
+    "offset": 3863,
+    "text": "PAMPHILUS:\nWhy delay going in-doors, that I may know as soon as possible for certain what it is?"
+  },
+  {
+    "id": "p-37c4b7",
+    "offset": 3961,
+    "text": "In what condition, Philumena, am I now to find you? But if you are in any peril, beyond a doubt I will perish with you. (Goes into the house of PHIDIPPUS.)"
+  },
+  {
+    "id": "p-992d07",
+    "offset": 4118,
+    "text": "PARMENO:\n(to himself.)\nThere is no need for me to follow him into the house at present, for I see that we are all disagreeable to them. Yesterday, no one would give Sostrata admittance."
+  },
+  {
+    "id": "p-1cb7d2",
+    "offset": 4305,
+    "text": "If, perchance, the malady should become worse, which really I could far from wish, for my master’s sake especially, they would at once say that Sostrata’s servant had been in there; they would invent a story that I had brought some mischief against their lives and persons, in consequence of which the malady had been increased."
+  },
+  {
+    "id": "p-c66572",
+    "offset": 4635,
+    "text": "My mistress would be blamed, and I should incur heavy punishment."
+  },
+  {
+    "id": "p-879f7c",
+    "offset": 4702,
+    "text": "(Enter SOSTRATA.)"
+  },
+  {
+    "id": "p-167191",
+    "offset": 4721,
+    "text": "SOSTRATA:\n(to herself.)\nIn dreadful alarm, I have for some time heard, I know not what confusion going on here; I’m sadly afraid Philumena’s illness is getting worse. Aesculapius, I do entreat thee, and thee, Health, that it may not be so. Now I’ll go visit her.\n(Approaches the door.)"
+  },
+  {
+    "id": "p-290228",
+    "offset": 5008,
+    "text": "PARMENO:\n(coming forward.)\nHark you, Sostrata."
+  },
+  {
+    "id": "p-23cc06",
+    "offset": 5056,
+    "text": "SOSTRATA:\n(turning round.)\nWell."
+  },
+  {
+    "id": "p-7305d8",
+    "offset": 5090,
+    "text": "PARMENO:\nYou will again be shut out there."
+  },
+  {
+    "id": "p-ac3ba3",
+    "offset": 5134,
+    "text": "SOSTRATA:\nWhat, Parmeno, is it you? I’m undone! wretch that I am, what shall I do? Am I not to go see the wife of Pamphilus, when she is ill here next door?"
+  },
+  {
+    "id": "p-0dd2ec",
+    "offset": 5292,
+    "text": "PARMENO:\nNot go see her! Don’t even send any person for the purpose of seeing her; for I’m of opinion that he who loves, a person to whom he is an object of dislike, commits a double mistake: he himself takes a useless trouble, and causes annoyance to the other."
+  },
+  {
+    "id": "p-12e969",
+    "offset": 5556,
+    "text": "Besides, your son went in to see how she is, as soon as he arrived."
+  },
+  {
+    "id": "p-612b2c",
+    "offset": 5625,
+    "text": "SOSTRATA:\nWhat is it you say? Has Pamphilus arrived?"
+  },
+  {
+    "id": "p-eaea10",
+    "offset": 5679,
+    "text": "PARMENO:\nHe has."
+  },
+  {
+    "id": "p-d127c9",
+    "offset": 5697,
+    "text": "SOSTRATA:\nI give thanks unto the Gods! Well, through that news my spirits are revived, and anxiety has departed from my heart."
+  },
+  {
+    "id": "p-62ef26",
+    "offset": 5825,
+    "text": "PARMENO:\nFor this reason, then, I am especially unwilling you should go in there; for if Philumena’s malady at all abates, she will, I am sure, when they are by themselves, at once tell him all the circumstances; both what misunderstandings have arisen between you, and how the difference first began. But see, he’s coming out-how sad he looks!\n(Re-enter PAMPHILUS, from the house of PHIDIPPUS.)"
+  },
+  {
+    "id": "p-0b0f4a",
+    "offset": 6222,
+    "text": "SOSTRATA:\n(running up to him.)\nO my son!\n(Embraces him.)"
+  },
+  {
+    "id": "p-29671a",
+    "offset": 6280,
+    "text": "PAMPHILUS:\nMy mother, blessings on you."
+  },
+  {
+    "id": "p-acc2bd",
+    "offset": 6321,
+    "text": "SOSTRATA:\nI rejoice that you are returned safe. Is Philumena in a fair way?"
+  },
+  {
+    "id": "p-56a5f6",
+    "offset": 6398,
+    "text": "PAMPHILUS:\nShe is a little better.\n(Weeping.)"
+  },
+  {
+    "id": "p-1682b3",
+    "offset": 6445,
+    "text": "SOSTRATA:\nWould that the Gods may grant it so! Why, then, do you weep, or why so dejected?"
+  },
+  {
+    "id": "p-ad9e71",
+    "offset": 6537,
+    "text": "PAMPHILUS:\nAll’s well, mother."
+  },
+  {
+    "id": "p-b163f3",
+    "offset": 6569,
+    "text": "SOSTRATA:\nWhat meant that confusion? Tell me; was she suddenly taken ill?"
+  },
+  {
+    "id": "p-c8b3da",
+    "offset": 6644,
+    "text": "PAMPHILUS:\nSuch was the fact."
+  },
+  {
+    "id": "p-207b7d",
+    "offset": 6675,
+    "text": "SOSTRATA:\nWhat is her malady?"
+  },
+  {
+    "id": "p-46d0ad",
+    "offset": 6706,
+    "text": "PAMPHILUS:\nA fever."
+  },
+  {
+    "id": "p-69d2c5",
+    "offset": 6727,
+    "text": "SOSTRATA:\nAn intermitting one?"
+  },
+  {
+    "id": "p-dacb28",
+    "offset": 6759,
+    "text": "PAMPHILUS:\nSo they say. Go in the house, please, mother; I’ll follow you immediately."
+  },
+  {
+    "id": "p-374347",
+    "offset": 6846,
+    "text": "SOSTRATA:\nVery well. (Goes into her house.)"
+  },
+  {
+    "id": "p-23a6b8",
+    "offset": 6891,
+    "text": "PAMPHILUS:\nDo you run and meet the servants, Parmeno, and help them with the baggage."
+  },
+  {
+    "id": "p-00a061",
+    "offset": 6978,
+    "text": "PARMENO:\nWhy, don’t they know the way themselves to come to our house?"
+  },
+  {
+    "id": "p-3bdcd5",
+    "offset": 7050,
+    "text": "PAMPHILUS:\n(stamping.)\nDo you loiter?\n(Exit PARMENO.)"
+  },
+  {
+    "id": "p-4ce02c",
+    "offset": 7105,
+    "text": "(PAMPHILUS, alone.)"
+  },
+  {
+    "id": "p-1ad421",
+    "offset": 7126,
+    "text": "PAMPHILUS:\nI can not discover any fitting commencement of my troubles, at which to begin to narrate the things that have so unexpectedly befallen me, some of which with these eyes I have beheld; some I have heard with my ears; and on account of which I so hastily betook myself, in extreme agitation, out of doors."
+  },
+  {
+    "id": "p-ba3187",
+    "offset": 7442,
+    "text": "For just now, when, full of alarm, I rushed into the house, expecting to find my wife afflicted with some other malady than what I have found it to be—ah me! immediately the servant-maids beheld that I had arrived, they all at the same moment joyfully exclaimed, He is come, from having so suddenly caught sight of me. But I soon perceived the countenances of all of them change, because at so unseasonable a juncture chance had brought me there. One of them in the mean time hastily ran before me to give notice that I had come. Impatient to see my wife, I followed close. When I entered the room, that instant, to my sorrow, I found out her malady; for neither did the time afford any interval to enable her to conceal it, nor could she complain in any other accents than those which the case itself prompted. When I perceived this: O disgraceful conduct! I exclaimed, and instantly hurried away from the spot in tears, overwhelmed by such an incredible and shocking circumstance. Her mother followed me; just as I got to the threshold, she threw herself on her knees: I felt compassion for her. Assuredly it is the fact, in my opinion, just as matters befall us all, so are we elated or depressed."
+  },
+  {
+    "id": "p-52bf4c",
+    "offset": 8644,
+    "text": "At once she began to address me in these words: O my dear Pamphilus, you see the reason why she left your house; for violence was offered to her when formerly a maid, by some villain to us unknown. Now, she took refuge here then, that from you and others she might conceal her labor."
+  },
+  {
+    "id": "p-d7eb8f",
+    "offset": 8929,
+    "text": "But when I call to mind her entreaties, I can not, wretched as I am, refrain from tears. hatever chance or fortune it is, said she, which has brought you here to-day, by it we do both conjure you, if with equity and justice we may, that her misfortune may be concealed by you, and kept a secret from all. If ever you were sensible, my dear Pamphilus, that she was tenderly disposed toward you, she now asks you to grant her this favor in return, without making any difficulty of it."
+  },
+  {
+    "id": "p-cb18e6",
+    "offset": 9413,
+    "text": "But as to taking her back, act quite according to your own convenience. You alone are aware of her lying-in, and that the child is none of yours. For it is said that it was two months after the marriage before she had commerce with you. And then, this is but the seventh month since she came to you."
+  },
+  {
+    "id": "p-ba4e1c",
+    "offset": 9714,
+    "text": "That you are sensible of this, the circumstances themselves prove. Now, if it is possible, Pamphilus, I especially wish, and will use my endeavors, that her labor may remain unknown to her father, and to all, in fact. But if that can not be managed, and they do find it out, I will say that she miscarried; I am sure no one will suspect otherwise than, what is so likely, the child was by you."
+  },
+  {
+    "id": "p-917450",
+    "offset": 10109,
+    "text": "It shall be instantly exposed; in that case there is no inconvenience whatever to yourself, and you will be concealing an outrage so undeservingly committed upon her, poor thing! I promised this, and I am resolved to keep faith in what I said. But as to taking her back, really I do not think that would be at all creditable, nor will I do so, although love for her, and habit, have a strong influence upon me."
+  },
+  {
+    "id": "p-83c938",
+    "offset": 10521,
+    "text": "I weep when it occurs to my mind, what must be her life, and how great her loneliness in future. O Fortune, thou hast never been found constant! But by this time my former passion has taught me experience in the present case. The means by which I got rid of that, I must employ on the present occasion. Parmeno is coming with the servants; it is far from convenient that he should be here under present circumstances, for he was the only person to whom I trusted the secret that I kept aloof from her when I first married her. I am afraid lest, if he should frequently hear her cries, he might find out that she is in labor. He must be dispatched by me somewhere till Philumena is delivered."
+  },
+  {
+    "id": "p-a8f150",
+    "offset": 11214,
+    "text": "(Enter at a distance PARMENO and SOSIA, with people carrying baggage.)"
+  },
+  {
+    "id": "p-f2fce1",
+    "offset": 11286,
+    "text": "PARMENO:\n(to SOSIA.)\nDo you say that this voyage was disagreeable to you?"
+  },
+  {
+    "id": "p-27fe65",
+    "offset": 11361,
+    "text": "SOSIA:\nUpon my faith, Parmeno, it can not be so much as expressed in words, how disagreeable it is to go on a voyage."
+  },
+  {
+    "id": "p-714f9c",
+    "offset": 11480,
+    "text": "PARMENO:\nDo you say so?"
+  },
+  {
+    "id": "p-7546fb",
+    "offset": 11505,
+    "text": "SOSIA:\nO lucky man! You don’t know what evils you have escaped, by never having been at sea."
+  },
+  {
+    "id": "p-e8d38e",
+    "offset": 11599,
+    "text": "For to say nothing of other hardships, mark this one only; thirty days or more was I on board that ship, and every moment, to my horror, was in continual expectation of death: such unfavorable weather did we always meet with."
+  },
+  {
+    "id": "p-382e0b",
+    "offset": 11826,
+    "text": "PARMENO:\nHow annoying!"
+  },
+  {
+    "id": "p-f66842",
+    "offset": 11850,
+    "text": "SOSIA:\nThat’s not unknown to me: in fine, upon my faith, I would rather run away than go back, if I knew that I should have to go back there."
+  },
+  {
+    "id": "p-0a377c",
+    "offset": 11993,
+    "text": "PARMENO:\nWhy really, but slight causes formerly made you, Sosia, do what now you are threatening to do. But I see Pamphilus himself standing before the door. (To the Attendants, who go into the house of LACHES.) Go in-doors; I’ll accost him, to see if he wants any thing with me."
+  },
+  {
+    "id": "p-0d5ab6",
+    "offset": 12274,
+    "text": "(Accosts PAMPHILUS.) What, still standing here, master?"
+  },
+  {
+    "id": "p-a5e25c",
+    "offset": 12331,
+    "text": "PAMPHILUS:\nYes, and waiting for you."
+  },
+  {
+    "id": "p-dcc814",
+    "offset": 12369,
+    "text": "PARMENO:\nWhat’s the matter?"
+  },
+  {
+    "id": "p-418126",
+    "offset": 12398,
+    "text": "PAMPHILUS:\nYou must run across to the citadel."
+  },
+  {
+    "id": "p-6b7b1a",
+    "offset": 12446,
+    "text": "PARMENO:\nWho must?"
+  },
+  {
+    "id": "p-1e641b",
+    "offset": 12466,
+    "text": "PAMPHILUS:\nYou."
+  },
+  {
+    "id": "p-8e8e69",
+    "offset": 12483,
+    "text": "PARMENO:\nTo the citadel? Why thither?"
+  },
+  {
+    "id": "p-8c4a7a",
+    "offset": 12522,
+    "text": "PAMPHILUS:\nTo meet Callidemides, my entertainer at Myconos, who came over in the same ship with me."
+  },
+  {
+    "id": "p-6ab458",
+    "offset": 12623,
+    "text": "PARMENO:\n(aside.)\nConfusion! I should say he has made a vow that if ever he should return home safe, he would rupture me with walking."
+  },
+  {
+    "id": "p-883bcf",
+    "offset": 12759,
+    "text": "PAMPHILUS:\nWhy are you lingering?"
+  },
+  {
+    "id": "p-7448e3",
+    "offset": 12794,
+    "text": "PARMENO:\nWhat do you wish me to say? Or am I to meet him only?"
+  },
+  {
+    "id": "p-96d805",
+    "offset": 12858,
+    "text": "PAMPHILUS:\nNo; say that I can not meet him to-day, as I appointed, so that he may not wait for me to no purpose. Fly!"
+  },
+  {
+    "id": "p-f748ba",
+    "offset": 12977,
+    "text": "PARMENO:\nBut I don’t know the man’s appearance."
+  },
+  {
+    "id": "p-327341",
+    "offset": 13026,
+    "text": "PAMPHILUS:\nThen I’ll tell you how to know it;"
+  },
+  {
+    "id": "p-f14c6d",
+    "offset": 13073,
+    "text": "a huge fellow, ruddy, with curly hair, fat, with gray eyes and freckled countenance."
+  },
+  {
+    "id": "p-14db9b",
+    "offset": 13159,
+    "text": "PARMENO:\nMay the Gods confound him! What if he shouldn’t come? Am I to wait there, even till the evening?"
+  },
+  {
+    "id": "p-ce4d6f",
+    "offset": 13266,
+    "text": "PAMPHILUS:\nYes, wait there. Run!"
+  },
+  {
+    "id": "p-c54fd5",
+    "offset": 13300,
+    "text": "PARMENO:\nI can’t; I am so tired.\n(Exit slowly.)"
+  },
+  {
+    "id": "p-b2d0a7",
+    "offset": 13349,
+    "text": "PAMPHILUS:\nHe’s off. What shall I do in this distressed situation? Really, I don’t know in what way I’m to conceal this, as Myrrhina entreated me, her daughter’s lying-in; but I do pity the woman. What I can, I’ll do; only so long, however, as I observe my duty; for it is proper that I should be regardful of a parent, rather than of my passion. But look—I see Phidippus and my father."
+  },
+  {
+    "id": "p-a67f07",
+    "offset": 13737,
+    "text": "They are coming this way; what to say to them, I’m at a loss.\n(Stands apart.)"
+  },
+  {
+    "id": "p-8888ef",
+    "offset": 13816,
+    "text": "(Enter, at a distance, LACHES and PHIDIPPUS.)"
+  },
+  {
+    "id": "p-3dc5ae",
+    "offset": 13863,
+    "text": "LACHES:\nDid you not say, just now, that she was waiting for my son’s return?"
+  },
+  {
+    "id": "p-bd2160",
+    "offset": 13941,
+    "text": "PHIDIPPUS:\nJust so."
+  },
+  {
+    "id": "p-397f7e",
+    "offset": 13962,
+    "text": "LACHES:\nThey say that he has arrived; let her return."
+  },
+  {
+    "id": "p-ac1817",
+    "offset": 14017,
+    "text": "PAMPHILUS:\n(apart to himself aloud.)\nWhat excuse to make to my father for not taking her back, I don’t know!"
+  },
+  {
+    "id": "p-506498",
+    "offset": 14127,
+    "text": "LACHES:\n(turning round.)\nWho was it I heard speaking here?"
+  },
+  {
+    "id": "p-e02a1e",
+    "offset": 14187,
+    "text": "PAMPHILUS:\n(apart.)\nI am resolved to persevere in the course I determined to pursue."
+  },
+  {
+    "id": "p-d1f1d0",
+    "offset": 14273,
+    "text": "LACHES:\n’Tis the very person about whom I was talking to you."
+  },
+  {
+    "id": "p-9d33f9",
+    "offset": 14336,
+    "text": "PAMPHILUS:\nHealth to you, my father."
+  },
+  {
+    "id": "p-f0965e",
+    "offset": 14374,
+    "text": "LACHES:\nHealth to you, my son."
+  },
+  {
+    "id": "p-13cab2",
+    "offset": 14406,
+    "text": "PHIDIPPUS:\nI am glad that you have returned, Pamphilus, and the more especially so, as you are safe and well."
+  },
+  {
+    "id": "p-3f9139",
+    "offset": 14517,
+    "text": "PAMPHILUS:\nI believe you."
+  },
+  {
+    "id": "p-a48470",
+    "offset": 14544,
+    "text": "LACHES:\nHave you but just arrived?"
+  },
+  {
+    "id": "p-c6d634",
+    "offset": 14580,
+    "text": "PAMPHILUS:\nOnly just now."
+  },
+  {
+    "id": "p-f03265",
+    "offset": 14607,
+    "text": "LACHES:\nTell me, what has our cousin Phania left us?"
+  },
+  {
+    "id": "p-4dffe4",
+    "offset": 14661,
+    "text": "PAMPHILUS:\nWhy really, i’ faith, he was a man very much devoted to pleasure while he lived; and those who are so, don’t much benefit their heirs, but for themselves leave this commendation: While he lived, he lived well."
+  },
+  {
+    "id": "p-bb6732",
+    "offset": 14883,
+    "text": "LACHES:\nSo then, you have brought home nothing more than a single sentiment?"
+  },
+  {
+    "id": "p-316bc3",
+    "offset": 14961,
+    "text": "PAMPHILUS:\nWhatever he has left, we are the gainers by it."
+  },
+  {
+    "id": "p-5bb0e0",
+    "offset": 15021,
+    "text": "LACHES:\nWhy no, it has proved a loss; for I could have wished him alive and well."
+  },
+  {
+    "id": "p-7ad98f",
+    "offset": 15104,
+    "text": "PHIDIPPUS:\nYou may wish that with impunity;"
+  },
+  {
+    "id": "p-c41d86",
+    "offset": 15149,
+    "text": "he’ll never come to life again; and after all I know which of the two you would prefer."
+  },
+  {
+    "id": "p-3a8a57",
+    "offset": 15238,
+    "text": "LACHES:\nYesterday, he (pointing to PHIDIPPUS) desired Philumena to be fetched to his house. (Whispers to PHIDIPPUS, nudging him with his elbow.) Say that you desired it."
+  },
+  {
+    "id": "p-ebc37b",
+    "offset": 15409,
+    "text": "PHIDIPPUS:\n(aside to LACHES)\nDon’t punch me so. (To PAMPHILUS.) I desired it."
+  },
+  {
+    "id": "p-dbfa83",
+    "offset": 15488,
+    "text": "LACHES:\nBut he’ll now send her home again."
+  },
+  {
+    "id": "p-2033c1",
+    "offset": 15532,
+    "text": "PHIDIPPUS:\nOf course."
+  },
+  {
+    "id": "p-cf2763",
+    "offset": 15555,
+    "text": "PAMPHILUS:\nI know the whole affair, and how it happened; I heard it just now, on my arrival."
+  },
+  {
+    "id": "p-bc1669",
+    "offset": 15649,
+    "text": "LACHES:\nThen may the Gods confound those spiteful people who told this news with such readiness!"
+  },
+  {
+    "id": "p-44e6e1",
+    "offset": 15747,
+    "text": "PAMPHILUS:\n(to PHIDIPPUS.)\nI am sure that it has been my study, that with reason no slight might possibly be committed by your family; and if I were now truthful to mention of how faithful, loving, and tender a disposition I have proved toward her, I could do so truly, did I not rather wish that you should learn it of herself; for by that method you will be the more ready to place confidence in my disposition when she, who is now acting unjustly toward me, speaks favorably of me. And that through no fault of mine this separation has taken place, I call the Gods to witness. But since she considers that it is not befitting her to give way to my mother, and with readiness to conform to her temper, and as on no other terms it is possible for good feeling to exist between them, either my mother must be separated, Phidippus, from me, or else Philumena. Now affection urges me rather to consult my mother’s pleasure."
+  },
+  {
+    "id": "p-cdf5df",
+    "offset": 16670,
+    "text": "LACHES:\nPamphilus, your words have reached my ears not otherwise than to my satisfaction, since I find that you post-pone all considerations for your parent. But take care, Pamphilus, lest impelled by resentment, you carry matters too far."
+  },
+  {
+    "id": "p-0f2333",
+    "offset": 16911,
+    "text": "PAMPHILUS:\nHow, impelled by resentment, could, I now be biased against her who never has been guilty of any thing toward me, father, that I could not wish, and who has often deserved as well as I could desire? I both love and praise and exceedingly regret her, for I have found by experience that she was of a wondrously engaging disposition with regard to myself;"
+  },
+  {
+    "id": "p-7f764d",
+    "offset": 17277,
+    "text": "and I sincerely wish that she may spend the remainder of her life with a husband who may prove more fortunate than me, since necessity thus tears her from me."
+  },
+  {
+    "id": "p-1fff5e",
+    "offset": 17437,
+    "text": "PHIDIPPUS:\n’Tis in your own power to prevent that."
+  },
+  {
+    "id": "p-43e837",
+    "offset": 17489,
+    "text": "LACHES:\nIf you are in your senses, order her to come back."
+  },
+  {
+    "id": "p-4b58e9",
+    "offset": 17549,
+    "text": "PAMPHILUS:\nIt is not my intention, father; I shall study my mother’s interests.\n(Going away.)"
+  },
+  {
+    "id": "p-37541d",
+    "offset": 17644,
+    "text": "LACHES:\nWhither are you going? Stay, stay, I tell you; whither are you going?\n(Exit PAMPHILUS.)"
+  },
+  {
+    "id": "p-9d5149",
+    "offset": 17741,
+    "text": "PHIDIPPUS:\nWhat obstinacy is this?"
+  },
+  {
+    "id": "p-40a9a1",
+    "offset": 17777,
+    "text": "LACHES:\nDid I not tell you, Phidippus, that he would take this matter amiss? It was for that reason I entreated you to send your daughter back."
+  },
+  {
+    "id": "p-7cee6b",
+    "offset": 17922,
+    "text": "PHIDIPPUS:\nUpon my faith, I did not believe he would be so brutish;"
+  },
+  {
+    "id": "p-9121e4",
+    "offset": 17991,
+    "text": "does he now fancy that I shall come begging to him? If so it is that he chooses to take back his wife, why, let him; if he is of another mind, let him pay back her portion, and take himself off."
+  },
+  {
+    "id": "p-9b7f34",
+    "offset": 18187,
+    "text": "LACHES:\nJust look at that, now; you too are getting obstinate and huffish."
+  },
+  {
+    "id": "p-599116",
+    "offset": 18263,
+    "text": "PHIDIPPUS:\n(speaking with anger.)\nYou have returned to us in a very ungovernable mood, Pamphilus."
+  },
+  {
+    "id": "p-7fa346",
+    "offset": 18362,
+    "text": "LACHES:\nThis anger will depart; although he has some reason for being vexed."
+  },
+  {
+    "id": "p-9cc4a3",
+    "offset": 18440,
+    "text": "PHIDIPPUS:\nBecause you have had a windfall, a little money, your minds are elevated."
+  },
+  {
+    "id": "p-c605c1",
+    "offset": 18526,
+    "text": "LACHES:\nAre you going to fall out with me, too?"
+  },
+  {
+    "id": "p-25861c",
+    "offset": 18575,
+    "text": "PHIDIPPUS:\nLet him consider, and bring me word to-day, whether he will or will not, that she may belong to another if she does not to him. (Goes hastily into his own house.)"
+  },
+  {
+    "id": "p-bdd145",
+    "offset": 18750,
+    "text": "LACHES:\nPhidippus, stay; listen to a few words—He’s off; what matters it to me? In fine, let them manage it between themselves, just as they please; since neither my son nor he pay any regard to me; they care but little for what I say. I’ll carry the quarrel to my wife, by whose planning all these things have been brought about, and against her I will vent all the vexation that I feel."
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-cyclops-33b10f",
+  "work_title": "Cyclops",
+  "chapter_number": 1,
+  "chapter_title": "Cyclops",
+  "chapter_slug": "01-cyclops",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aff9eafa-e72e-5cba-bb67-5cfc64b9a844",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4383,
+      "paragraph_count": 744,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0bbbd1a-c1be-58c2-b4ab-464e555974f9",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6671,
+      "paragraph_count": 303,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg001.perseus-eng2"
+    }
+  ]
+}

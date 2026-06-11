@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-brutus-4e3e58",
+  "work_title": "Brutus",
+  "chapter_number": 32,
+  "chapter_title": "Chapter 32",
+  "chapter_slug": "32",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e5299c68-a911-5098-9fe3-1905347e84cb",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 110,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg061.perseus-grc2:32"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6b7f3a5-bc10-5e23-a606-8e1d6567d1ee",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 172,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg061.perseus-eng2:32"
+    }
+  ]
+}

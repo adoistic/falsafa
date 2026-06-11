@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-alexander-1ed01a",
+  "work_title": "Alexander",
+  "chapter_number": 24,
+  "chapter_title": "Chapter 24",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bedfe9f8-ba14-5204-95aa-4d5a0001f11e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 381,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg047.perseus-grc2:24"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "86483eb7-6411-557f-9bc8-61f48e544323",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 578,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg047.perseus-eng2:24"
+    }
+  ]
+}

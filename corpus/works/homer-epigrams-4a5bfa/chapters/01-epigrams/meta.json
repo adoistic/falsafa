@@ -1,0 +1,38 @@
+{
+  "work_slug": "homer-epigrams-4a5bfa",
+  "work_title": "Epigrams",
+  "chapter_number": 1,
+  "chapter_title": "Epigrams",
+  "chapter_slug": "01-epigrams",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8acc8b84-2eb1-5ee4-bf7b-944e5d9ef0e3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 735,
+      "paragraph_count": 109,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg003.perseus-grc1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "28304154-7f95-5d4d-aae8-e2afec4ec7b5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1103,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg003.perseus-eng1"
+    }
+  ]
+}

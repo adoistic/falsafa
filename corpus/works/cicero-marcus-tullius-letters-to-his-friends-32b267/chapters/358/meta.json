@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-his-friends-32b267",
+  "work_title": "Letters to his Friends",
+  "chapter_number": 358,
+  "chapter_title": "Chapter text=F:book=11:letter=29",
+  "chapter_slug": "358",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "64fe9fdc-0447-5e4c-9203-c2a5a04261fd",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 415,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:358"
+    }
+  ]
+}

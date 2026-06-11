@@ -1,0 +1,38 @@
+{
+  "work_slug": "athenaeus-of-naucratis-deipnosophistae-9c89b8",
+  "work_title": "Deipnosophistae",
+  "chapter_number": 11,
+  "chapter_title": "Book 10",
+  "chapter_slug": "11",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "64a006dd-6b89-5e6f-8276-d7638309027c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 20722,
+      "paragraph_count": 1170,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6b436725-70ea-5468-a382-2bdd92ec1d17",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 29015,
+      "paragraph_count": 1367,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0008.tlg001.perseus-eng2:11"
+    }
+  ]
+}

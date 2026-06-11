@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-cratylus-ebc166",
+  "work_title": "Cratylus",
+  "chapter_number": 1,
+  "chapter_title": "Cratylus",
+  "chapter_slug": "01-cratylus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ac99fb3f-1fad-56ce-b36b-8959f0558c9c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 18890,
+      "paragraph_count": 776,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg005.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f72dc058-18fc-5314-9924-571fe9a46c73",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 24086,
+      "paragraph_count": 773,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg005.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-critias-ef5907",
+  "work_title": "Critias",
+  "chapter_number": 1,
+  "chapter_title": "Critias",
+  "chapter_slug": "01-critias",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f615ae8c-704d-5493-b135-7af991db770f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4961,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg032.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f73de5d8-250c-5520-a1a2-67b33aa3a3fb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 7240,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg032.perseus-eng2"
+    }
+  ]
+}

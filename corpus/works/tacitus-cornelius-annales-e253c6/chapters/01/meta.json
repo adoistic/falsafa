@@ -1,0 +1,26 @@
+{
+  "work_slug": "tacitus-cornelius-annales-e253c6",
+  "work_title": "Annales",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c9e5f45d-1829-526b-a028-430f40ed024b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 19487,
+      "paragraph_count": 113,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi005.perseus-eng1:1"
+    }
+  ]
+}

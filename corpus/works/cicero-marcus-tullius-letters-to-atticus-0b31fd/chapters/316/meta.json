@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+  "work_title": "Letters to Atticus",
+  "chapter_number": 316,
+  "chapter_title": "Chapter text=A:book=13:letter=32",
+  "chapter_slug": "316",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3c00bfb7-193b-5e06-9e31-cf563f962439",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 415,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:316"
+    }
+  ]
+}

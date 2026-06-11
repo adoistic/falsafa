@@ -1,0 +1,38 @@
+{
+  "work_slug": "julius-caesar-gallic-war-83f999",
+  "work_title": "Gallic War",
+  "chapter_number": 7,
+  "chapter_title": "Book 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c402854e-8df1-5a0b-bdfb-cbce2e267b3b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 11476,
+      "paragraph_count": 479,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0448.phi001.perseus-lat2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3e447e53-cdde-51a2-97bb-ecf1ad1ef393",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 19626,
+      "paragraph_count": 90,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0448.phi001.perseus-eng2:7"
+    }
+  ]
+}

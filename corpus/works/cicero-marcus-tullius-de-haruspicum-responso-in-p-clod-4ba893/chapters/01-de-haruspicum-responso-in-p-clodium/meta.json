@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-de-haruspicum-responso-in-p-clod-4ba893",
+  "work_title": "De haruspicum responso in P. Clodium",
+  "chapter_number": 1,
+  "chapter_title": "De haruspicum responso in P. Clodium",
+  "chapter_slug": "01-de-haruspicum-responso-in-p-clodium",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e90a4875-b858-5f6b-8946-d35f7bc4a9b3",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7240,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi021.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cbf34157-d363-5ac5-8313-6a5aece7e5e4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 13595,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi021.perseus-eng1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-apollodorus-against-nicostratus-7d9517",
+  "work_title": "Apollodorus Against Nicostratus",
+  "chapter_number": 1,
+  "chapter_title": "Apollodorus Against Nicostratus",
+  "chapter_slug": "01-apollodorus-against-nicostratus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "114e60ae-c1c9-5fc4-aab7-20d86af4ba9e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2013,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg053.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0998f87c-72aa-507c-8f0d-1180e1f4b11e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3228,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg053.perseus-eng2"
+    }
+  ]
+}

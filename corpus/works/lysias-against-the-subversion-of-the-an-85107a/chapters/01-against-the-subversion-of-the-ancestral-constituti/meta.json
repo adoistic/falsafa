@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-against-the-subversion-of-the-an-85107a",
+  "work_title": "Against The Subversion of the Ancestral Constitution",
+  "chapter_number": 1,
+  "chapter_title": "Against The Subversion of the Ancestral Constitution",
+  "chapter_slug": "01-against-the-subversion-of-the-ancestral-constituti",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5f6c6716-9090-52c8-9043-fd6ddba1beca",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 553,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg034.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37d68248-53d8-5d69-bd29-51e3ba5d3ff7",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 849,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg034.perseus-eng2"
+    }
+  ]
+}

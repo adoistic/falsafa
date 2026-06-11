@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-euthyphro-2da19d",
+  "work_title": "Euthyphro",
+  "chapter_number": 1,
+  "chapter_title": "Euthyphro",
+  "chapter_slug": "01-euthyphro",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a40288bf-a722-5e23-abb6-97aa3055338c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5386,
+      "paragraph_count": 234,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg001.perseus-grc1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2d043af0-9230-5a77-b49c-218e6a689a9e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6978,
+      "paragraph_count": 233,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg001.perseus-eng2"
+    }
+  ]
+}

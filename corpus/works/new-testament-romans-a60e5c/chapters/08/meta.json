@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-romans-a60e5c",
+  "work_title": "Romans",
+  "chapter_number": 8,
+  "chapter_title": "Chapter 8",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6c6397bd-732a-5057-930c-14dd43e5257a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 656,
+      "paragraph_count": 109,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg006.perseus-grc2:8"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "82b697a7-c09f-5bff-8739-d63074eab692",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 890,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg006.perseus-eng2:8"
+    }
+  ]
+}

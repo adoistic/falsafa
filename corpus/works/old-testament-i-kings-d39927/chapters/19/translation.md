@@ -1,0 +1,61 @@
+---
+work_id: "d3992775-dd2f-5a9b-9abe-aa2ad586b672"
+work_slug: "old-testament-i-kings-d39927"
+work_title: I Kings
+author_name: Old Testament
+chapter_number: 19
+chapter_title: Chapter 19
+chapter_slug: 19
+variant_id: "79e32432-d6c0-5c61-b22d-d42b146a6061"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 704
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg013.perseus-eng2:19"
+translator: Perseus Digital Library
+---
+
+Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword.
+
+Then Jezebel send a messenger to Elijah, saying, So let the gods do to me, and more also, if I don’t make your life as the life of one of them by tomorrow about this time.
+
+When he saw that, he arose, and went for his life, and came to Beersheba, which belongs to Judah, and left his servant there.
+
+But he himself went a day’s journey into the wilderness, and came and sat down under a juniper tree: and he requested for himself that he might die, and said, It is enough; now, O Yahweh, take away my life; for I am not better than my fathers.
+
+He lay down and slept under a juniper tree; and, behold, an angel touched him, and said to him, Arise and eat.
+
+He looked, and, behold, there was at his head a cake baked on the coals, and a jar of water. He ate and drink, and laid him down again.
+
+The angel of Yahweh came again the second time, and touched him, and said, Arise and eat, because the journey is too great for you.
+
+He arose, and ate and drink, and went in the strength of that food forty days and forty nights to Horeb the Mount of God.
+
+He came there to a cave, and lodged there; and, behold, the word of Yahweh came to him, and he said to him, What are you doing here, Elijah?
+
+He said, I have been very jealous for Yahweh, the God of hosts; for the children of Israel have forsaken your covenant, thrown down your altars, and slain your prophets with the sword: and I, even I only, am left; and they seek my life, to take it away.
+
+He said, Go forth, and stand on the mountain before Yahweh. Behold, Yahweh passed by, and a great and strong wind tore the mountains, and broke in pieces the rocks before Yahweh; but Yahweh was not in the wind: and after the wind an earthquake; but Yahweh was not in the earthquake:
+
+and after the earthquake a fire; but Yahweh was not in the fire: and after the fire a still small voice.
+
+It was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entrance of the cave. Behold, there came a voice to him, and said, What are you doing here, Elijah?
+
+He said, I have been very jealous for Yahweh, the God of hosts; for the children of Israel have forsaken your covenant, thrown down your altars, and slain your prophets with the sword; and I, even I only, am left; and they seek my life, to take it away.
+
+Yahweh said to him, Go, return on your way to the wilderness of Damascus: and when you come, you shall anoint Hazael to be king over Syria;
+
+and Jehu the son of Nimshi shall you anoint to be king over Israel; and Elisha the son of Shaphat of Abel Meholah shall you anoint to be prophet in your room.
+
+It shall happen, that he who escapes from the sword of Hazael shall Jehu kill; and he who escapes from the sword of Jehu shall Elisha kill.
+
+Yet will I leave [me] seven thousand in Israel, all the knees which have not bowed to Baal, and every mouth which has not kissed him.
+
+So he departed there, and found Elisha the son of Shaphat, who was plowing, with twelve yoke [of oxen] before him, and he with the twelfth: and Elijah passed over to him, and cast his mantle on him.
+
+He left the oxen, and ran after Elijah, and said, Let me, I pray you, kiss my father and my mother, and then I will follow you. He said to him, Go back again; for what have I done to you?
+
+He returned from following him, and took the yoke of oxen, and killed them, and boiled their flesh with the instruments of the oxen, and gave to the people, and they ate. Then he arose, and went after Elijah, and ministered to him.

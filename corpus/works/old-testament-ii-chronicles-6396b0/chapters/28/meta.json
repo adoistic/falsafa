@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ii-chronicles-6396b0",
+  "work_title": "II Chronicles",
+  "chapter_number": 28,
+  "chapter_title": "Chapter 28",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "951ecf97-3ae7-5d6b-8ca5-c2413875a252",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 818,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1:28"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9a30353-2ed5-53e2-ab0e-443f4998187d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 881,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg016.perseus-eng2:28"
+    }
+  ]
+}

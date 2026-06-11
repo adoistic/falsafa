@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 307
+chapter_title: "Chapter text=A:book=13:letter=1"
+chapter_slug: 307
+variant_id: "1db1e957-b1d0-51c2-a217-7d35d431d513"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 343
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:307"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) TUSCULUM, 23 MAY
+
+In your letter to my son you spoke with a serious gravity, and yet with a moderation which nothing could surpass. It is exactly what I should have wished. Your letters to the Tullii also are extremely wise. So either these letters will fulfil their object or we must think of other measures. As to money moreover I perceive that you are making every effort or rather have done so. If you succeed, I shall owe the suburban pleasure-grounds to you. There is indeed no other kind of property that I should prefer, principally of course for the purpose which I have resolved to carry out. And in regard to this you relieve my impatience by your promise, or rather your undertaking as to this summer. In the second place, there is nothing that can possibly be better adapted for my declining years and for an alleviation of my melancholy. My eagerness for this drives me at times to wish to spur you on. But I suppress the impulse: for I have no doubt that, when you know me to be very much set on a thing, your eagerness will surpass my own. Accordingly I look upon it as already done. I am anxious to hear what those friends of yours decide as to the letter to Caesar. Nicias is as devoted to you as he is bound to be, and is greatly delighted at your remembering him. I am indeed strongly attached to our friend Peducaeus. For I have on the one hand transferred to him all the esteem which I had for his father, and on the other I love him for his own sake as much as I loved the other,—but it is you that I love the most for wishing us to be thus mutually attached. If you inspect the pleasure-grounds and tell me about the letter, you will give me something to write to you about: if not, I shall yet write something. For a subject will never be quite wanting.

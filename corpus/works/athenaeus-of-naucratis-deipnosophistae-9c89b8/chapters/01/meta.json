@@ -1,0 +1,39 @@
+{
+  "work_slug": "athenaeus-of-naucratis-deipnosophistae-9c89b8",
+  "work_title": "Deipnosophistae",
+  "chapter_number": 1,
+  "chapter_title": "Book pref",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "26747bfe-2764-5eda-8a56-69f694ca6206",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 13430,
+      "paragraph_count": 596,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b37c7d15-42a7-5801-accf-43f3c5b64052",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 312,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0008.tlg001.perseus-eng2:1"
+    }
+  ]
+}

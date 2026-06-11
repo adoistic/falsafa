@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-sulla-3d5f55",
+  "work_title": "Sulla",
+  "chapter_number": 11,
+  "chapter_title": "Chapter 11",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fe74f7e0-570a-55dc-b14d-a3175f040aa7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 272,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg033.perseus-grc2:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6955ad08-99fc-5e57-9281-45fbd093c15d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 386,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg033.perseus-eng2:11"
+    }
+  ]
+}

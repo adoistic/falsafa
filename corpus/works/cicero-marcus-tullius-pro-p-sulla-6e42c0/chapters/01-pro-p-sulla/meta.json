@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-pro-p-sulla-6e42c0",
+  "work_title": "Pro P. Sulla",
+  "chapter_number": 1,
+  "chapter_title": "Pro P. Sulla",
+  "chapter_slug": "01-pro-p-sulla",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1b6157a4-c49c-5d48-8578-69e5f49b5836",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8965,
+      "paragraph_count": 104,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi015.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "686201e3-c6a2-58df-a1a9-be397df15f28",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 16613,
+      "paragraph_count": 95,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi015.perseus-eng2"
+    }
+  ]
+}

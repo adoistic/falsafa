@@ -1,0 +1,39 @@
+{
+  "work_slug": "plautus-titus-maccius-asinaria-54d3d3",
+  "work_title": "Asinaria",
+  "chapter_number": 1,
+  "chapter_title": "Chapter front",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8dbba2b7-1cb6-5069-8507-89b57ed9ef11",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 101,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi002.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8dff49cd-62c9-56fc-b9c5-dd2b179c52c1",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 472,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi002.perseus-eng2:1"
+    }
+  ]
+}

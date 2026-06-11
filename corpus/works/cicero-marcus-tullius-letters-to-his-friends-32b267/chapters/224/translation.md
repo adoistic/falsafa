@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 224
+chapter_title: "Chapter text=F:book=9:letter=20"
+chapter_slug: 224
+variant_id: "956e72b7-da29-57c5-a129-17c64f467e47"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 492
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:224"
+translator: Perseus Digital Library
+---
+
+TO L. PAPIRIUS PAETUS (AT NAPLES) ROME (AUGUST)
+
+I was doubly charmed by your letter, first because it made me laugh myself' and secondly because I saw that you could still laugh. Nor did I in the least object to being overwhelmed with your shafts of ridicule, as though I were a light skirmisher in the war of wits. What I am vexed at is that I have not been able, as I intended, to run over to see you: for you would not have had a mere guest, but a brother-in-arms. And such a hero! not the man whom you used to do for by the hors d'oeuvre. I now bring an unimpaired appetite to the egg, and so the fight is maintained right up to the roast veal. The compliments you used to pay me in old times—"What a contented person!" "What an easy guest to entertain! "—are things of the past. All my anxiety about the good of the state, all meditating of speeches to be delivered in the senate, all getting up of briefs I have cast to the winds. I have thrown myself into the camp of my old enemy Epicurus—not, however, with a view to the extravagance of the present day, but to that refined splendour of yours—I mean your old style when you had money to spend (though you never had more landed estate). Therefore prepare! You have to deal with a man, who not only has a large appetite, but who also knows a thing or two. You are aware of the extravagance of your bourgeois gentilhomme. You must forget all your little baskets and your omelettes. I am now so far advanced in the art that I frequently venture to ask your friend Verrius and Camillus to dinner—what dandies! how fastidious! But think of my audacity: I even gave Hirtius a dinner, without a peacock however. In that dinner my cook could not imitate him in anything but the hot sauce. So this is my way of life nowadays: in the morning I receive not only a large number of "loyalists," who, how ever, look gloomy enough, but also our exultant conquerors here, who in my case are quite prodigal in polite and affectionate attentions. When the stream of morning callers has ebbed, I wrap myself up in my books, either writing or reading. There are also some visitors who listen to my discourses under the belief of my being a man of learning, because I am a trifle more learned than themselves. After that all my time is given to my bodily comfort. I have mourned for my country more deeply and longer than any mother for her only son. But take care, if you love me, to keep your health, lest I should take advantage of your being laid up to eat you out of house and home. For I am resolved not to spare you even when you are ill.

@@ -1,0 +1,25 @@
+---
+work_id: "42bb8ffd-42cc-5876-ac1a-70a998d0ec3b"
+work_slug: "sallust-bellum-iugurthinum-42bb8f"
+work_title: Bellum Iugurthinum
+author_name: Sallust
+chapter_number: 17
+chapter_title: Chapter 17
+chapter_slug: 17
+variant_id: "8c9d0df6-1d49-56e3-bcd4-5de30b8c286e"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 291
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi002.perseus-eng2:17"
+translator: Perseus Digital Library
+---
+
+My subject seems to require of me, in this place, a brief account of the situation of Africa, and of those nations in it with whom we have had war or alliances. But of those tracts and countries, which, from their heat, or difficulty of access, or extent of desert, have been but little visited, I can not possibly give any exact description. Of the rest I shall speak with all possible brevity.
+
+In the division of the earth, most writers consider Africa as a third part; a few admit only two divisions, Asia and Europe, and include Africa in Europe. It is bounded, on the west, by the strait connecting our sea with the ocean; on the east, by a vast sloping tract, which the natives call the Catabathmos." The sea is boisterous, and deficient in harbors; the soil is fertile in corn, and good for pasturage, but unproductive of trees. There is a scarcity of water both from rain and from land-springs. The natives are healthy, swift of foot, and able to endure fatigue. Most of them die by the gradual decay of age, except such as perish by the sword or beasts of prey; for disease finds but few victims. Animals of a venomous nature they have in great numbers.
+
+Concerning the original inhabitants of Africa, the settlers that afterward joined them, and the manner in which they intermingled, I shall offer the following brief account, which, though it differs from the general opinion, is that which was interpreted to me from the Punic volumes said to have belonged to King Hiempsal, and which the inhabitants of that country believe to be consistent with fact. For the truth of the statement, however, the writers themselves must be responsible.

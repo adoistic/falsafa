@@ -1,0 +1,38 @@
+{
+  "work_slug": "seneca-lucius-annaeus-apocolocyntosis-1cb5a3",
+  "work_title": "Apocolocyntosis",
+  "chapter_number": 1,
+  "chapter_title": "Apocolocyntosis",
+  "chapter_slug": "01-apocolocyntosis",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5f2986fb-a594-539e-b404-bcace90b61ba",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3001,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi011.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a55c5a89-be07-51ae-916f-dc6bfda7c8a5",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4995,
+      "paragraph_count": 118,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1017.phi011.perseus-eng2"
+    }
+  ]
+}

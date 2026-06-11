@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-lysander-dfd661",
+  "work_title": "Lysander",
+  "chapter_number": 25,
+  "chapter_title": "Chapter 25",
+  "chapter_slug": "25",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "30965faf-6e27-5573-b97d-66e33466ef59",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 187,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg032.perseus-grc2:25"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14a20958-faa5-5f1d-9181-0bf68c1a7d88",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 287,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg032.perseus-eng2:25"
+    }
+  ]
+}

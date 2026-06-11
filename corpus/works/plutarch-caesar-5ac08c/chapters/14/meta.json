@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-caesar-5ac08c",
+  "work_title": "Caesar",
+  "chapter_number": 14,
+  "chapter_title": "Chapter 14",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aaa71abe-e30b-556a-ad88-0fac1b0ba3b4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 456,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg048.perseus-grc2:14"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "78a9101c-8e48-5e28-81fd-5895a83000b5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 676,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg048.perseus-eng2:14"
+    }
+  ]
+}

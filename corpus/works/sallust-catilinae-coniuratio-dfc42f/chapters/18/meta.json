@@ -1,0 +1,38 @@
+{
+  "work_slug": "sallust-catilinae-coniuratio-dfc42f",
+  "work_title": "Catilinae Coniuratio",
+  "chapter_number": 18,
+  "chapter_title": "Chapter 17",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "70d0c347-0117-5d24-9d8c-ec88e6d9ad78",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 154,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi001.perseus-lat4:18"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "72de30f5-7278-54cb-a0f1-10a67bbf77b2",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 298,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi001.perseus-eng2:18"
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+---
+import AtlasPage from '../../../layouts/AtlasPage.astro';
+import ConfidenceMark from '../../../components/atlas/ConfidenceMark.astro';
+import {
+  languageById,
+  people,
+  placeById,
+  sourceById,
+  sourceLanguageOf,
+  transmissionsByPerson,
+  workById,
+  worksByAuthor,
+} from '../../../lib/atlas/data.ts';
+import { formatSpan, lifeDates } from '../../../lib/atlas/format.ts';
+
+export function getStaticPaths() {
+  return people.map((person) => ({ params: { id: person.id }, props: { person } }));
+}
+
+const { person } = Astro.props;
+const original = person.original ? languageById.get(person.original.lang) : undefined;
+const wrote = worksByAuthor(person.id);
+const carried = transmissionsByPerson(person.id);
+const personSources = person.sources.map((ref) => sourceById.get(ref.source)!);
+const dates = lifeDates(person.born, person.died, person.ca, person.fl);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: person.name,
+  ...(person.aka?.length ? { alternateName: person.aka } : {}),
+  description: person.note,
+};
+---
+
+<AtlasPage
+  title={person.name}
+  description={person.note.split('. ').slice(0, 2).join('. ')}
+  markdown={`/atlas/people/${person.id}.md`}
+  jsonLd={jsonLd}
+>
+  <article class="wrap">
+    <header class="head">
+      <p class="tag tag-line rise">{person.roles.join(' · ')}</p>
+      <h1 class="rise rise-1">
+        {person.name}
+        {person.original && original && (
+          <span
+            class={`orig script-${original.script}`}
+            lang={original.bcp47}
+            dir={original.dir}
+          >
+            {person.original.text}
+          </span>
+        )}
+      </h1>
+      <p class="byline rise rise-2">
+        {dates && <span class="mono dates">{dates}</span>}
+        {person.aka?.length ? <span class="aka">also known as {person.aka.join(', ')}</span> : null}
+      </p>
+      <p class="bio prose rise rise-3">{person.note}</p>
+    </header>
+
+    {
+      wrote.length > 0 && (
+        <section class="block">
+          <p class="tag tag-line">Works in the atlas</p>
+          <ul class="works" role="list">
+            {wrote.map((w) => (
+              <li>
+                <a class="link" href={`/atlas/works/${w.id}/`}>{w.title}</a>
+                {w.original.translit && <i> · {w.original.translit}</i>}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      carried.length > 0 && (
+        <section class="block">
+          <p class="tag tag-line">Crossings</p>
+          <ul class="crossings" role="list">
+            {carried.map((t) => {
+              const work = workById.get(t.work)!;
+              const from = sourceLanguageOf(t);
+              const to = languageById.get(t.language)!;
+              const role = t.people.find((p) => p.person === person.id)!.role;
+              const place = t.place ? placeById.get(t.place) : undefined;
+              return (
+                <li>
+                  <span class="when mono">{formatSpan(t.date)}</span>
+                  <span class="what">
+                    <a class="link" href={`/atlas/works/${work.id}/`}>{work.title}</a>
+                    {', '}
+                    {from.name} <span class="arrow" aria-hidden="true">→</span>{' '}
+                    <a class="link-quiet lang" href={`/atlas/languages/${to.id}/`}>{to.name}</a>
+                    <span class="role"> · {role}</span>
+                    {place && (
+                      <span class="role">
+                        {' '}· <a class="link-quiet lang" href={`/atlas/places/${place.id}/`}>{place.name}</a>
+                      </span>
+                    )}
+                  </span>
+                  <span class="grade"><ConfidenceMark confidence={t.confidence} /></span>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      )
+    }
+
+    <section class="block">
+      <p class="tag tag-line">Sources</p>
+      <ul class="sources" role="list">
+        {
+          personSources.map((s) => (
+            <li>
+              <a class="link" href={`/atlas/sources/#${s.id}`}>
+                {s.author} ({s.year}). {s.title}.
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+  </article>
+</AtlasPage>
+
+<style>
+  .wrap {
+    max-width: 52rem;
+    margin-inline: auto;
+    padding-inline: clamp(1rem, 4vw, 2.5rem);
+  }
+
+  .head {
+    padding-block: clamp(2.5rem, 6vw, 4.5rem) 0.5rem;
+  }
+
+  .head h1 {
+    font-size: var(--text-h1);
+    margin: 1.1rem 0 0.7rem;
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .orig {
+    font-weight: 400;
+    color: var(--color-ink-muted);
+    font-size: 0.8em;
+    unicode-bidi: isolate;
+  }
+
+  .byline {
+    display: flex;
+    gap: 1.2rem;
+    align-items: baseline;
+    flex-wrap: wrap;
+    margin: 0 0 1rem;
+  }
+
+  .dates {
+    font-size: 0.8rem;
+    color: var(--color-ink-muted);
+  }
+
+  .aka {
+    font-style: italic;
+    color: var(--color-ink-muted);
+  }
+
+  .bio {
+    font-size: 1.14rem;
+  }
+
+  .block {
+    padding-block: 1.6rem;
+  }
+
+  .works, .sources {
+    list-style: none;
+    margin: 1rem 0 0;
+    padding: 0;
+    display: grid;
+    gap: 0.45rem;
+    font-size: 1.05rem;
+  }
+
+  .works i {
+    color: var(--color-ink-muted);
+  }
+
+  .sources {
+    font-size: 0.95rem;
+  }
+
+  .crossings {
+    list-style: none;
+    margin: 1.2rem 0 0;
+    padding: 0;
+  }
+
+  .crossings li {
+    display: grid;
+    grid-template-columns: 7.5rem minmax(0, 1fr) auto;
+    gap: 1rem;
+    padding: 0.7rem 0.2rem;
+    border-top: 1px solid var(--color-hairline);
+    align-items: baseline;
+  }
+
+  .crossings li:last-child {
+    border-bottom: 1px solid var(--color-hairline);
+  }
+
+  .when {
+    font-size: 0.74rem;
+    color: var(--color-ink-muted);
+  }
+
+  .arrow {
+    color: var(--color-gold);
+  }
+
+  .lang:hover {
+    color: var(--color-lapis);
+  }
+
+  .role {
+    color: var(--color-ink-muted);
+    font-style: italic;
+    font-size: 0.95em;
+  }
+
+  @media (max-width: 640px) {
+    .crossings li {
+      grid-template-columns: 1fr;
+      gap: 0.2rem;
+    }
+  }
+</style>

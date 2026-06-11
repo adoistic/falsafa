@@ -1,0 +1,29 @@
+---
+work_id: "3d5f5527-8162-539f-82f0-7c5bcc0cbcdc"
+work_slug: "plutarch-sulla-3d5f55"
+work_title: Sulla
+author_name: Plutarch
+chapter_number: 34
+chapter_title: Chapter 34
+chapter_slug: 34
+variant_id: "e4da3669-c9c9-5e95-8955-a782d168d388"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 415
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg033.perseus-eng2:34"
+translator: Bernadotte Perrin
+---
+
+His triumph, however, which was imposing from the costliness and rarity of the royal spoils, had a greater ornament in the noble spectacle of the exiles. For the most distinguished and influential of the citizens, crowned with garlands, followed in the procession, calling Sulla their saviour and father, since indeed it was through him that they were returning to their native city and bringing with them their wives and children.
+
+And when at last the whole spectacle was over, he gave an account of his achievements in a speech to the people, enumerating the instances of his good fortune with no less emphasis than his deeds of valour, and finally, in view of these, he ordered that he receive the surname of Fortunate (for this is what the word Felix most nearly means). But he himself, in writing to the Greeks on official business, styled himself Epaphroditus, or Favourite of Venus, his trophies in our country his name is thus inscribed: Lucius Cornelius Sulla Epaphroditus.
+
+Besides this, when Metella bore him twin children, he named the male child Faustus, and the female Fausta; for the Romans call what is auspicious and joyful, faustum. And to such an extent did he put more confidence in his good fortunes than in his achievements, that, although he had slain great numbers of the citizens, and introduced great innovations and changes in the government of the city, he laid down his office of dictator, and put the consular elections in the hands of the people; and when they were held, he did not go near them himself, but walked up and down the forum like a private man, exposing his person freely to all who wished to call him to account.
+
+Contrary to his wishes, a certain bold enemy of his was likely to be chosen consul, Marcus Lepidus, not through his own efforts, but owing to the success which Pompey had in soliciting votes for him from the people.
+
+And so, when Sulla saw Pompey going away from the polls delighted with his victory, he called him to him, and said: What a fine policy this is of thine, young man, to elect Lepidus in preference to Catulus, the most unstable instead of the best of men! Now, surely, it is high time for thee to be watchful, after strengthening thine adversary against thyself. And in saying this, Sulla was something of a prophet; for Lepidus speedily waxed insolent and went to war with Pompey and his party.

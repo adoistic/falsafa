@@ -1,0 +1,33 @@
+---
+work_id: "dfd661a7-7a0f-5411-9892-ecdc6f527cb6"
+work_slug: "plutarch-lysander-dfd661"
+work_title: Lysander
+author_name: Plutarch
+chapter_number: 19
+chapter_title: Chapter 19
+chapter_slug: 19
+variant_id: "5adc4892-96a6-59c5-a185-ec1eec11eee4"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 569
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg032.perseus-eng2:19"
+translator: Bernadotte Perrin
+---
+
+Now to the leading men, and to his equals, the ambition of Lysander was annoying merely. But since, owing to the court that was paid to him, great haughtiness and severity crept into his character along with his ambition, there was no such moderation as would become a popular leader either in his rewards or punishments, but the prizes he awarded to his friends and allies were irresponsible lordships over cities, and absolute sovereignties, while the sole punishment that could satisfy his wrath was the death of his enemy; not even exile was allowed.
+
+Nay, at a later time, fearing lest the active popular leaders of Miletus should go into exile, and desiring to bring from their retreats those also who were in hiding, he made oath that he would do them no harm; but when the first put faith in him and the second came forth, he delivered them all over to the oligarchs for slaughter, being no less than eight hundred of both classes.
+
+In the other cities also untold numbers of the popular party were slain, since he killed not only for his own private reasons, but also gratified by his murders the hatred and cupidity of his many friends everywhere, and shared the bloody work with them. Wherefore Eteocles the Lacedaemonian won great approval when he said that Hellas could not have borne two Lysanders. Now this same utterance was made by Archestratus concerning Alcibiades also, as Theophrastus tells us.
+
+But in his case it was insolence, and wanton self-will, that gave most offence; whereas Lysander’s power was made dreadful and oppressive by the cruelty of his disposition. The Lacedaemonians paid little heed to the rest of his accusers, but when Pharnabazus, who was outraged by Lysander’s pillaging and wasting his territory, sent men to Sparta to denounce him, the ephors were incensed, and when they found Thorax, one of Lysander’s friends and fellow-generals, with money in his private possession, they put him to death, and sent a dispatch-scroll to Lysander, ordering him home.
+
+The dispatch-scroll is of the following character. When the ephors send out an admiral or a general, they make two round pieces of wood exactly alike in length and thickness, so that each corresponds to the other in its dimensions, and keep one themselves, while they give the other to their envoy. These pieces of wood they call scytalae.
+
+Whenever, then, they wish to send some secret and important message, they make a scroll of parchment long and narrow, like a leathern strap, and wind it round their scytale, leaving no vacant space thereon, but covering its surface all round with the parchment. After doing this, they write what they wish on the parchment, just as it lies wrapped about the scytale; and when they have written their message, they take the parchment off and send it, without the piece of wood, to the commander.
+
+He, when he has received it, cannot otherwise get any meaning out of it,—since the letters have no connection, but are disarranged,—unless he takes his own scytale and winds the strip of parchment about it, so that, when its spiral course is restored perfectly, and that which follows is joined to that which precedes, he reads around the staff, and so discovers the continuity of the message. And the parchment, like the staff, is called scytale, as the thing measured bears the name of the measure.

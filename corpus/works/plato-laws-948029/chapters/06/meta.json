@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-laws-948029",
+  "work_title": "Laws",
+  "chapter_number": 6,
+  "chapter_title": "Book 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b6d64c35-4e8a-5def-81eb-80b0be633b72",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 11020,
+      "paragraph_count": 126,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg034.perseus-grc2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "133eb6b0-3bad-53e6-9445-951fe741c29b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15331,
+      "paragraph_count": 126,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg034.perseus-eng2:6"
+    }
+  ]
+}

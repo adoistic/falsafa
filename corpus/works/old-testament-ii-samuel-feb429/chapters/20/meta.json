@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ii-samuel-feb429",
+  "work_title": "II Samuel",
+  "chapter_number": 20,
+  "chapter_title": "Chapter 20",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2f31278a-d9ee-50ef-84f7-806110efc329",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 701,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg012.1st1K-grc1:20"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2534b688-e355-5226-8c49-e14da69e9d35",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 838,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg012.perseus-eng2:20"
+    }
+  ]
+}

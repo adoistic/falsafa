@@ -1,0 +1,23 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 47
+chapter_title: Chapter 32
+chapter_slug: 47
+variant_id: "6689c271-41d1-5ceb-b899-17b4a4592efb"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 636
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:47"
+translator: Perseus Digital Library
+---
+
+You went a great distance to meet Caesar on his return from Spain. You went rapidly, you returned rapidly, in order that we might see that, if you were not brave, you were at least active. You again became intimate with him; I am sure I do not know how. Caesar had this peculiar characteristic; whoever he knew to be utterly ruined by debt, and needy, even if he knew him also to be an audacious and worthless man, he willingly admitted him to his intimacy. You then, being admirably recommended to him by these circumstances, were ordered to be appointed consul, and that too as his own colleague. I do not make any complaint against Dolabella, who was at that time acting under compulsion, and was cajoled and deceived, But who is there who does not know with what great perfidy both of you treated Dolabella in that business? Caesar induced him to stand for the consulship. After having promised it to him, and pledged himself to aid him, he prevented his getting it, and transferred it to himself. And you endorsed his treachery with your own eagerness.
+
+The first of January arrives. We are convened in the senate. Dolabella inveighed against him with much more fluency and premeditation than I am doing now. And what things were they which he said in his anger, O ye good gods! First of all, after Caesar had declared that before he departed he would order Dolabella to be made consul (and they deny that he was a king who was always doing and saying something of this sort).—but after Caesar had said this, then this virtuous augur said that he was invested with a pontificate of that sort that he was able, by means of the auspices, either to hinder or to vitiate the comitia, just as he pleased; and he declared that he would do so. And here, in the first place, remark the incredible stupidity of the man. For what do you mean? Could you not just as well have done what you said you had now the power to do by the privileges with which that pontificate had invested you, even if you were not an augur, if you were consul? Perhaps you could even do it more easily. For we augurs have only the power of announcing that the auspices are being observed, but the consuls and other magistrates have the right also of observing them whenever they choose. Be it so. You said this out of ignorance. For one must not demand prudence from a man who is never sober. But still remark his impudence. Many months before, he said in the senate that he would either prevent the comitia from assembling for the election of Dolabella by means of the auspices, or that he would do what he actually did do. Can any one divine beforehand what defect there will be in the auspices, except the man who has already determined to observe the heavens? which in the first place it is forbidden by law to do at the time of the comitia. And if any one has; been observing the heavens, he is bound to give notice of it, not after the comitia are assembled, but before they are held. But this man's ignorance is joined to impudence, nor does he know what an augur ought to know, nor do what a modest man ought to do. And just recollect the whole of his conduct during his consulship from that day up to the ides of March. What lictor was ever so humble, so abject? He himself had no power at all; he begged every thing of others; and thrusting his head into the hind part of his litter, he begged favors of his colleagues, to sell them himself afterward.

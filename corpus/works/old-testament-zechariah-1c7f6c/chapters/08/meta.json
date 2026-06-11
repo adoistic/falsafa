@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-zechariah-1c7f6c",
+  "work_title": "Zechariah",
+  "chapter_number": 8,
+  "chapter_title": "Chapter 8",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "42e7d612-b0d5-5403-801e-358af8ee44aa",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 658,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg046.1st1K-grc1:8"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1cd645da-40da-5b0f-ad84-2202139e2cfd",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 650,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg046.perseus-eng2:8"
+    }
+  ]
+}

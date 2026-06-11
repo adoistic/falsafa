@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 57,
+  "chapter_title": "Chapter 57",
+  "chapter_slug": "57",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e69fb8c4-0b92-5e2f-898d-bc0c12ba541a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 156,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:57"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe6068b7-d352-5618-b36f-14f30c3be717",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 224,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:57"
+    }
+  ]
+}

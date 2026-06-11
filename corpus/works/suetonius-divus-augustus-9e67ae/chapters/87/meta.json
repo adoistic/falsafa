@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-divus-augustus-9e67ae",
+  "work_title": "Divus Augustus",
+  "chapter_number": 87,
+  "chapter_title": "Chapter 88",
+  "chapter_slug": "87",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d02e8d54-6adb-5aa9-8933-40bb7c499472",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 112,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo012.perseus-lat2:87"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d8c8d6c4-c2cf-5018-aa3a-faf159711e64",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 78,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo012.perseus-eng2:87"
+    }
+  ]
+}

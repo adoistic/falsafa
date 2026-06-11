@@ -1,0 +1,2532 @@
+[
+  {
+    "id": "p-63e49c",
+    "offset": 0,
+    "text": "A point is that which has no part."
+  },
+  {
+    "id": "p-5dddfb",
+    "offset": 36,
+    "text": "A line is breadthless length."
+  },
+  {
+    "id": "p-c882c5",
+    "offset": 67,
+    "text": "The extremities of a line are points."
+  },
+  {
+    "id": "p-3acf94",
+    "offset": 106,
+    "text": "A straight line is a line which lies evenly with the points on itself."
+  },
+  {
+    "id": "p-72e1f6",
+    "offset": 178,
+    "text": "A surface is that which has length and breadth only."
+  },
+  {
+    "id": "p-b3d3e0",
+    "offset": 232,
+    "text": "The extremities of a surface are lines."
+  },
+  {
+    "id": "p-634b28",
+    "offset": 273,
+    "text": "A plane surface is a surface which lies evenly with the straight lines on itself."
+  },
+  {
+    "id": "p-acbc4a",
+    "offset": 356,
+    "text": "A plane angle is the inclination to one another of two lines in a plane which meet one another and do not lie in a straight line."
+  },
+  {
+    "id": "p-dc16a2",
+    "offset": 487,
+    "text": "And when the lines containing the angle are straight, the angle is called rectilineal."
+  },
+  {
+    "id": "p-ad111e",
+    "offset": 575,
+    "text": "When a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, and the straight line standing on the other is called a perpendicular to that on which it stands."
+  },
+  {
+    "id": "p-30fee3",
+    "offset": 804,
+    "text": "An obtuse angle is an angle greater than a right angle."
+  },
+  {
+    "id": "p-91f3cf",
+    "offset": 861,
+    "text": "An acute angle is an angle less than a right angle."
+  },
+  {
+    "id": "p-a987c7",
+    "offset": 914,
+    "text": "A boundary is that which is an extremity of anything."
+  },
+  {
+    "id": "p-7e6c79",
+    "offset": 969,
+    "text": "A figure is that which is contained by any boundary or boundaries."
+  },
+  {
+    "id": "p-f11c7f",
+    "offset": 1037,
+    "text": "A circle is a plane figure contained by one line such that all the straight lines falling upon it from one point among those lying within the figure are equal to one another;"
+  },
+  {
+    "id": "p-a97d65",
+    "offset": 1213,
+    "text": "And the point is called the centre of the circle."
+  },
+  {
+    "id": "p-e182f7",
+    "offset": 1264,
+    "text": "A diameter of the circle is any straight line drawn through the centre and terminated in both directions by the circumference of the circle, and such a straight line also bisects the circle."
+  },
+  {
+    "id": "p-a07bcc",
+    "offset": 1456,
+    "text": "A semicircle is the figure contained by the diameter and the circumference cut off by it. And the centre of the semicircle is the same as that of the circle."
+  },
+  {
+    "id": "p-7c96dd",
+    "offset": 1615,
+    "text": "Rectilineal figures are those which are contained by straight lines, trilateral figures being those contained by three, quadrilateral those contained by four, and multilateral those contained by more than four straight lines."
+  },
+  {
+    "id": "p-a7a713",
+    "offset": 1842,
+    "text": "Of trilateral figures, an equilateral triangle is that which has its three sides equal, an isosceles triangle that which has two of its sides alone equal, and a scalene triangle that which has its three sides unequal."
+  },
+  {
+    "id": "p-e69531",
+    "offset": 2061,
+    "text": "Further, of trilateral figures, a right-angled triangle is that which has a right angle, an obtuse-angled triangle that which has an obtuse angle, and an acuteangled triangle that which has its three angles acute."
+  },
+  {
+    "id": "p-6a50be",
+    "offset": 2276,
+    "text": "Of quadrilateral figures, a square is that which is both equilateral and right-angled; an oblong that which is right-angled but not equilateral; a rhombus that which is equilateral but not right-angled; and a rhomboid that which has its opposite sides and angles equal to one another but is neither equilateral nor right-angled. And let quadrilaterals other than these be called trapezia."
+  },
+  {
+    "id": "p-8b631a",
+    "offset": 2666,
+    "text": "Parallel straight lines are straight lines which, being in the same plane and being produced indefinitely in both directions, do not meet one another in either direction."
+  },
+  {
+    "id": "p-c89e00",
+    "offset": 2838,
+    "text": "Let the following be postulated:"
+  },
+  {
+    "id": "p-4984a6",
+    "offset": 2872,
+    "text": "To draw a straight line from any point to any point."
+  },
+  {
+    "id": "p-7eb9f7",
+    "offset": 2926,
+    "text": "To produce a finite straight line continuously in a straight line."
+  },
+  {
+    "id": "p-5250d7",
+    "offset": 2994,
+    "text": "To describe a circle with any centre and distance."
+  },
+  {
+    "id": "p-b9ad2e",
+    "offset": 3046,
+    "text": "That all right angles are equal to one another."
+  },
+  {
+    "id": "p-edfab3",
+    "offset": 3095,
+    "text": "That, if a straight line falling on two straight lines make the interior angles on the same side less than two right angles, the two straight lines, if produced indefinitely, meet on that side on which are the angles less than the two right angles."
+  },
+  {
+    "id": "p-c4c9de",
+    "offset": 3345,
+    "text": "Things which are equal to the same thing are also equal to one another."
+  },
+  {
+    "id": "p-98e993",
+    "offset": 3418,
+    "text": "If equals be added to equals, the wholes are equal."
+  },
+  {
+    "id": "p-9876b3",
+    "offset": 3471,
+    "text": "If equals be subtracted from equals, the remainders are equal."
+  },
+  {
+    "id": "p-d3fe9f",
+    "offset": 3535,
+    "text": "[7] Things which coincide with one another are equal to one another."
+  },
+  {
+    "id": "p-9ed423",
+    "offset": 3605,
+    "text": "[8] The whole is greater than the part."
+  },
+  {
+    "id": "p-93cd22",
+    "offset": 3646,
+    "text": "Enunciation On a given finite straight line to construct an equilateral triangle."
+  },
+  {
+    "id": "p-c6a847",
+    "offset": 3729,
+    "text": "Proof. Let AB be the given finite straight line."
+  },
+  {
+    "id": "p-171696",
+    "offset": 3779,
+    "text": "Thus it is required to construct an equilateral triangle on the straight line AB."
+  },
+  {
+    "id": "p-d2e3a3",
+    "offset": 3862,
+    "text": "With centre A and distance AB let the circle BCD be described; [ Post. 3] again, with centre B and distance BA let the circle ACE be described; [ Post. 3] and from the point C, in which the circles cut one another, to the points A, B let the straight lines CA, CB be joined. [ Post. 1]"
+  },
+  {
+    "id": "p-c8a777",
+    "offset": 4149,
+    "text": "Now, since the point A is the centre of the circle CDB, AC is equal to AB. [ Def. 15]"
+  },
+  {
+    "id": "p-c1b7e6",
+    "offset": 4236,
+    "text": "Again, since the point B is the centre of the circle CAE, BC is equal to BA. [ Def. 15]"
+  },
+  {
+    "id": "p-3d9ce9",
+    "offset": 4325,
+    "text": "But CA was also proved equal to AB; therefore each of the straight lines CA, CB is equal to AB."
+  },
+  {
+    "id": "p-9b8356",
+    "offset": 4422,
+    "text": "And things which are equal to the same thing are also equal to one another; [ C.N. 1] therefore CA is also equal to CB."
+  },
+  {
+    "id": "p-6a507f",
+    "offset": 4543,
+    "text": "Therefore the three straight lines CA, AB, BC are equal to one another."
+  },
+  {
+    "id": "p-e58c6d",
+    "offset": 4616,
+    "text": "Therefore the triangle ABC is equilateral; and it has been constructed on the given finite straight line AB."
+  },
+  {
+    "id": "p-3a8240",
+    "offset": 4726,
+    "text": "QED. (Being) what it was required to do."
+  },
+  {
+    "id": "p-6e902d",
+    "offset": 4768,
+    "text": "Enunciation To place at a given point (as an extremity) a straight line equal to a given straight line."
+  },
+  {
+    "id": "p-10af2d",
+    "offset": 4873,
+    "text": "Proof. Let A be the given point, and BC the given straight line."
+  },
+  {
+    "id": "p-76b8f4",
+    "offset": 4939,
+    "text": "Thus it is required to place at the point A (as an extremity) a straight line equal to the given straight line BC."
+  },
+  {
+    "id": "p-5383b7",
+    "offset": 5055,
+    "text": "From the point A to the point B let the straight line AB be joined; [ Post. 1] and on it let the equilateral triangle DAB be constructed. [ I. 1]"
+  },
+  {
+    "id": "p-55de9b",
+    "offset": 5202,
+    "text": "Let the straight lines AE, BF be produced in a straight line with DA, DB; [ Post. 2] with centre B and distance BC let the circle CGH be described; [ Post. 3] and again, with centre D and distance DG let the circle GKL be described. [ Post. 3]"
+  },
+  {
+    "id": "p-ee8e5b",
+    "offset": 5447,
+    "text": "Then, since the point B is the centre of the circle CGH, BC is equal to BG."
+  },
+  {
+    "id": "p-153bf9",
+    "offset": 5524,
+    "text": "Again, since the point D is the centre of the circle GKL, DL is equal to DG."
+  },
+  {
+    "id": "p-ddf3d4",
+    "offset": 5602,
+    "text": "And in these DA is equal to DB; therefore the remainder AL is equal to the remainder BG. [ C.N. 3]"
+  },
+  {
+    "id": "p-26bae1",
+    "offset": 5702,
+    "text": "But BC was also proved equal to BG; therefore each of the straight lines AL, BC is equal to BG."
+  },
+  {
+    "id": "p-b99e51",
+    "offset": 5799,
+    "text": "And things which are equal to the same thing are also equal to one another; [ C.N. 1] therefore AL is also equal to BC."
+  },
+  {
+    "id": "p-4b5a12",
+    "offset": 5920,
+    "text": "Therefore at the given point A the straight line AL is placed equal to the given straight line BC."
+  },
+  {
+    "id": "p-3a8240",
+    "offset": 6020,
+    "text": "QED. (Being) what it was required to do."
+  },
+  {
+    "id": "p-c1aea7",
+    "offset": 6062,
+    "text": "Enunciation Given two unequal straight lines, to cut off from the greater a straight line equal to the less."
+  },
+  {
+    "id": "p-ccf7f4",
+    "offset": 6172,
+    "text": "Proof. Let AB, C be the-two given unequal straight lines, and let AB be the greater of them."
+  },
+  {
+    "id": "p-fc4226",
+    "offset": 6266,
+    "text": "Thus it is required to cut off from AB the greater a straight line equal to C the less."
+  },
+  {
+    "id": "p-42f897",
+    "offset": 6355,
+    "text": "At the point A let AD be placed equal to the straight line C; [ I. 2] and with centre A and distance AD let the circle DEF be described. [ Post. 3] Now, since the point A is the centre of the circle DEF, AE is equal to AD. [ Def. 15] But C is also equal to AD. Therefore each of the straight lines AE, C is equal to AD; so that AE is also equal to C. [ C.N. 1]"
+  },
+  {
+    "id": "p-47ba73",
+    "offset": 6717,
+    "text": "Therefore, given the two straight lines AB, C, from AB the greater AE has been cut off equal to C the less."
+  },
+  {
+    "id": "p-3a8240",
+    "offset": 6826,
+    "text": "QED. (Being) what it was required to do."
+  },
+  {
+    "id": "p-0b51e2",
+    "offset": 6868,
+    "text": "Enunciation If two triangles have the two sides equal to two sides respectively, and have the angles contained by the equal straight lines equal, they will also have the base equal to the base, the triangle will be equal to the triangle, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend."
+  },
+  {
+    "id": "p-9381c2",
+    "offset": 7228,
+    "text": "Proof. Let ABC, DEF be two triangles having the two sides AB, AC equal to the two sides DE, DF respectively, namely AB to DE and AC to DF, and the angle BAC equal to the angle EDF."
+  },
+  {
+    "id": "p-0ac559",
+    "offset": 7410,
+    "text": "I say that the base BC is also equal to the base EF, the triangle ABC will be equal to the triangle DEF, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend, that is, the angle ABC to the angle DEF, and the angle ACB to the angle DFE."
+  },
+  {
+    "id": "p-aa173d",
+    "offset": 7714,
+    "text": "For, if the triangle ABC be applied to the triangle DEF, and if the point A be placed on the point D and the straight line AB on DE, then the point B will also coincide with E, because AB is equal to DE."
+  },
+  {
+    "id": "p-edff04",
+    "offset": 7919,
+    "text": "Again, AB coinciding with DE, the straight line AC will also coincide with DF, because the angle BAC is equal to the angle EDF; hence the point C will also coincide with the point F, because AC is again equal to DF."
+  },
+  {
+    "id": "p-ebfa15",
+    "offset": 8136,
+    "text": "But B also coincided with E; hence the base BC will coincide with the base EF."
+  },
+  {
+    "id": "p-1e4a92",
+    "offset": 8216,
+    "text": "[For if, when B coincides with E and C with F, the base BC does not coincide with the base EF, two straight lines will enclose a space: which is impossible. Therefore the base BC will coincide with EF] and will be equal to it. [ C.N. 4]"
+  },
+  {
+    "id": "p-8775c5",
+    "offset": 8454,
+    "text": "Thus the whole triangle ABC will coincide with the whole triangle DEF, and will be equal to it."
+  },
+  {
+    "id": "p-48bdee",
+    "offset": 8551,
+    "text": "And the remaining angles will also coincide with the remaining angles and will be equal to them, the angle ABC to the angle DEF, and the angle ACB to the angle DFE."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 8717,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-b09c63",
+    "offset": 8733,
+    "text": "QED. (Being) what it was required to prove."
+  },
+  {
+    "id": "p-b367cb",
+    "offset": 8778,
+    "text": "Enunciation In isosceles triangles the angles at the base are equal to one another, and, if the equal straight lines be produced further, the angles under the base will be equal to one another."
+  },
+  {
+    "id": "p-55c823",
+    "offset": 8973,
+    "text": "Proof. Let ABC be an isosceles triangle having the side AB equal to the side AC; and let the straight lines BD, CE be produced further in a straight line with AB, AC. [ Post. 2]"
+  },
+  {
+    "id": "p-307bae",
+    "offset": 9152,
+    "text": "I say that the angle ABC is equal to the angle ACB, and the angle CBD to the angle BCE."
+  },
+  {
+    "id": "p-7bf97f",
+    "offset": 9241,
+    "text": "Let a point F be taken at random on BD; from AE the greater let AG be cut off equal to AF the less; [ I. 3] and let the straight lines FC, GB be joined. [ Post. 1]"
+  },
+  {
+    "id": "p-157dd6",
+    "offset": 9406,
+    "text": "Then, since AF is equal to AG and AB to AC, the two sides FA, AC are equal to the two sides GA, AB, respectively; and they contain a common angle, the angle FAG. Therefore the base FC is equal to the base GB, and the triangle AFC is equal to the triangle AGB, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend, that is, the angle ACF to the angle ABG, and the angle AFC to the angle AGB. [ I. 4]"
+  },
+  {
+    "id": "p-2f60d1",
+    "offset": 9873,
+    "text": "And, since the whole AF is equal to the whole AG, and in these AB is equal to AC, the remainder BF is equal to the remainder CG."
+  },
+  {
+    "id": "p-48a376",
+    "offset": 10003,
+    "text": "But FC was also proved equal to GB; therefore the two sides BF, FC are equal to the two sides CG, GB respectively; and the angle BFC is equal to the angle CGB, while the base BC is common to them; therefore the triangle BFC is also equal to the triangle CGB, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend; therefore the angle FBC is equal to the angle GCB, and the angle BCF to the angle CBG."
+  },
+  {
+    "id": "p-9045fc",
+    "offset": 10471,
+    "text": "Accordingly, since the whole angle ABG was proved equal to the angle ACF, and in these the angle CBG is equal to the angle BCF, the remaining angle ABC is equal to the remaining angle ACB; and they are at the base of the triangle ABC. But the angle FBC was also proved equal to the angle GCB; and they are under the base."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 10794,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 10810,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-f3e123",
+    "offset": 10820,
+    "text": "Enunciation If in a triangle two angles be equal to one another, the sides which subtend the equal angles will also be equal to one another."
+  },
+  {
+    "id": "p-f796c7",
+    "offset": 10962,
+    "text": "Proof. Let ABC be a triangle having the angle ABC equal to the angle ACB;"
+  },
+  {
+    "id": "p-f6a500",
+    "offset": 11037,
+    "text": "I say that the side AB is also equal to the side AC."
+  },
+  {
+    "id": "p-4188eb",
+    "offset": 11091,
+    "text": "For, if AB is unequal to AC, one of them is greater."
+  },
+  {
+    "id": "p-9ac374",
+    "offset": 11145,
+    "text": "Let AB be greater; and from AB the greater let DB be cut off equal to AC the less;"
+  },
+  {
+    "id": "p-df9928",
+    "offset": 11229,
+    "text": "let DC be joined."
+  },
+  {
+    "id": "p-56b7aa",
+    "offset": 11248,
+    "text": "Then, since DB is equal to AC, and BC is common, the two sides DB, BC are equal to the two sides AC, CB respectively; and the angle DBC is equal to the angle ACB; therefore the base DC is equal to the base AB, and the triangle DBC will be equal to the triangle ACB, the less to the greater: which is absurd. Therefore AB is not unequal to AC; it is therefore equal to it."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 11621,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 11637,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-f5d4df",
+    "offset": 11647,
+    "text": "Enunciation Given two straight lines constructed on a straight line (from its extremities) and meeting in a point, there cannot be constructed on the same straight line (from its extremities), and on the same side of it, two other straight lines meeting in another point and equal to the former two respectively, namely each to that which has the same extremity with it."
+  },
+  {
+    "id": "p-3b8dc8",
+    "offset": 12019,
+    "text": "Proof. For, if possible, given two straight lines AC, CB constructed on the straight line AB and meeting at the point C, let two other straight lines AD, DB be constructed on the same straight line AB, on the same side of it, meeting in another point D and equal to the former two respectively, namely each to that which has the same extremity with it, so that CA is equal to DA which has the same extremity A with it, and CB to DB which has the same extremity B with it; and let CD be joined."
+  },
+  {
+    "id": "p-c78663",
+    "offset": 12514,
+    "text": "Then, since AC is equal to AD, the angle ACD is also equal to the angle ADC; [ I. 5] therefore the angle ADC is greater than the angle DCB; therefore the angle CDB is much greater than the angle DCB."
+  },
+  {
+    "id": "p-4acf60",
+    "offset": 12715,
+    "text": "Again, since CB is equal to DB, the angle CDB is also equal to the angle DCB. But it was also proved much greater than it: which is impossible."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 12860,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 12876,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-d287fc",
+    "offset": 12886,
+    "text": "Enunciation If two triangles have the two sides equal to two sides respectively, and have also the base equal to the base, they will also have the angles equal which are contained by the equal straight lines."
+  },
+  {
+    "id": "p-d47396",
+    "offset": 13096,
+    "text": "Proof. Let ABC, DEF be two triangles having the two sides AB, AC equal to the two sides DE, DF respectively, namely AB to DE, and AC to DF; and let them have the base BC equal to the base EF;"
+  },
+  {
+    "id": "p-c04ff9",
+    "offset": 13289,
+    "text": "I say that the angle BAC is also equal to the angle EDF."
+  },
+  {
+    "id": "p-59e5bf",
+    "offset": 13347,
+    "text": "For, if the triangle ABC be applied to the triangle DEF, and if the point B be placed on the point E and the straight line BC on EF, the point C will also coincide with F, because BC is equal to EF."
+  },
+  {
+    "id": "p-6c0f84",
+    "offset": 13547,
+    "text": "Then, BC coinciding with EF, BA, AC will also coincide with ED, DF; for, if the base BC coincides with the base EF, and the sides BA, AC do not coincide with ED, DF but fall beside them as EG, GF, then, given two straight lines constructed on a straight line (from its extremities) and meeting in a point, there will have been constructed on the same straight line (from its extremities), and on the same side of it, two other straight lines meeting in another point and equal to the former two respectively, namely each to that which has the same extremity with it. But they cannot be so constructed. [ I. 7]"
+  },
+  {
+    "id": "p-8ca27b",
+    "offset": 14158,
+    "text": "Therefore it is not possible that, if the base BC be applied to the base EF, the sides BA, AC should not coincide with ED, DF; they will therefore coincide, so that the angle BAC will also coincide with the angle EDF, and will be equal to it."
+  },
+  {
+    "id": "p-a4797d",
+    "offset": 14402,
+    "text": "If therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 14421,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-5d79a2",
+    "offset": 14431,
+    "text": "Enunciation To bisect a given rectilineal angle."
+  },
+  {
+    "id": "p-61ddc8",
+    "offset": 14481,
+    "text": "Proof. Let the angle BAC be the given rectilineal angle."
+  },
+  {
+    "id": "p-7c15b8",
+    "offset": 14539,
+    "text": "Thus it is required to bisect it."
+  },
+  {
+    "id": "p-295fd0",
+    "offset": 14574,
+    "text": "Let a point D be taken at random on AB; let AE be cut off from AC equal to AD; [ I. 3] let DE be joined, and on DE let the equilateral triangle DEF be constructed; let AF be joined."
+  },
+  {
+    "id": "p-e8d692",
+    "offset": 14757,
+    "text": "I say that the angle BAC has been bisected by the straight line AF."
+  },
+  {
+    "id": "p-c799f3",
+    "offset": 14826,
+    "text": "For, since AD is equal to AE, and AF is common, the two sides DA, AF are equal to the two sides EA, AF respectively."
+  },
+  {
+    "id": "p-7dd887",
+    "offset": 14944,
+    "text": "And the base DF is equal to the base EF; therefore the angle DAF is equal to the angle EAF. [ I. 8]"
+  },
+  {
+    "id": "p-4b32c0",
+    "offset": 15045,
+    "text": "Therefore the given rectilineal angle BAC has been bisected by the straight line AF."
+  },
+  {
+    "id": "p-a470f0",
+    "offset": 15131,
+    "text": "Q. E. F."
+  },
+  {
+    "id": "p-484beb",
+    "offset": 15141,
+    "text": "Enunciation To bisect a given finite straight line."
+  },
+  {
+    "id": "p-c6a847",
+    "offset": 15194,
+    "text": "Proof. Let AB be the given finite straight line."
+  },
+  {
+    "id": "p-552714",
+    "offset": 15244,
+    "text": "Thus it is required to bisect the finite straight line AB."
+  },
+  {
+    "id": "p-920853",
+    "offset": 15304,
+    "text": "Let the equilateral triangle ABC be constructed on it, [ I. 1] and let the angle ACB be bisected by the straight line CD; [ I. 9]"
+  },
+  {
+    "id": "p-dce9b1",
+    "offset": 15435,
+    "text": "I say that the straight line AB has been bisected at the point D."
+  },
+  {
+    "id": "p-b92f1c",
+    "offset": 15502,
+    "text": "For, since AC is equal to CB, and CD is common, the two sides AC, CD are equal to the two sides BC, CD respectively; and the angle ACD is equal to the angle BCD; therefore the base AD is equal to the base BD. [ I. 4]"
+  },
+  {
+    "id": "p-d71acc",
+    "offset": 15720,
+    "text": "Therefore the given finite straight line AB has been bisected at D."
+  },
+  {
+    "id": "p-a470f0",
+    "offset": 15789,
+    "text": "Q. E. F."
+  },
+  {
+    "id": "p-d347af",
+    "offset": 15799,
+    "text": "Enunciation To draw a straight line at right angles to a given straight line from a given point on it."
+  },
+  {
+    "id": "p-630341",
+    "offset": 15903,
+    "text": "Proof. Let AB be the given straight line, and C the given point on it."
+  },
+  {
+    "id": "p-794a7d",
+    "offset": 15975,
+    "text": "Thus it is required to draw from the point C a straight line at right angles to the straight line AB."
+  },
+  {
+    "id": "p-3534cc",
+    "offset": 16078,
+    "text": "Let a point D be taken at random on AC; let CE be made equal to CD; [ I. 3] on DE let the equilateral triangle FDE be constructed, [ I. 1] and let FC be joined;"
+  },
+  {
+    "id": "p-aa4170",
+    "offset": 16240,
+    "text": "I say that the straight line FC has been drawn at right angles to the given straight line AB from C the given point on it."
+  },
+  {
+    "id": "p-baa68c",
+    "offset": 16364,
+    "text": "For, since DC is equal to CE, and CF is common, the two sides DC, CF are equal to the two sides EC, CF respectively; and the base DF is equal to the base FE; therefore the angle DCF is equal to the angle ECF; [ I. 8] and they are adjacent angles."
+  },
+  {
+    "id": "p-c14c46",
+    "offset": 16612,
+    "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right; [ Def. 10] therefore each of the angles DCF, FCE is right."
+  },
+  {
+    "id": "p-db97bc",
+    "offset": 16807,
+    "text": "Therefore the straight line CF has been drawn at right angles to the given straight line AB from the given point C on it."
+  },
+  {
+    "id": "p-a470f0",
+    "offset": 16930,
+    "text": "Q. E. F."
+  },
+  {
+    "id": "p-433fd4",
+    "offset": 16940,
+    "text": "Enunciation To a given infinite straight line, from a given point which is not on it, to draw a perpendicular straight line."
+  },
+  {
+    "id": "p-7ced98",
+    "offset": 17066,
+    "text": "Proof. Let AB be the given infinite straight line, and C the given point which is not on it; thus it is required to draw to the given infinite straight line AB, from the given point C which is not on it, a perpendicular straight line."
+  },
+  {
+    "id": "p-bd11c8",
+    "offset": 17302,
+    "text": "For let a point D be taken at random on the other side of the straight line AB, and with centre C and distance CD let the circle EFG be described; [ Post. 3] let the straight line EG be bisected at H, [ I. 10] and let the straight lines CG, CH, CE be joined. [ Post. 1]"
+  },
+  {
+    "id": "p-df3832",
+    "offset": 17573,
+    "text": "I say that CH has been drawn perpendicular to the given infinite straight line AB from the given point C which is not on it."
+  },
+  {
+    "id": "p-f32de0",
+    "offset": 17699,
+    "text": "For, since GH is equal to HE, and HC is common, the two sides GH, HC are equal to the two sides EH, HC respectively; and the base CG is equal to the base CE; therefore the angle CHG is equal to the angle EHC. [ I. 8] And they are adjacent angles."
+  },
+  {
+    "id": "p-a3e8cb",
+    "offset": 17947,
+    "text": "But, when a straight line set up on a straight line makes the adjacent angles equal to one another, each of the equal angles is right, and the straight line standing on the other is called a perpendicular to that on which it stands. [ Def. 10]"
+  },
+  {
+    "id": "p-85dfb5",
+    "offset": 18192,
+    "text": "Therefore CH has been drawn perpendicular to the given infinite straight line AB from the given point C which is not on it."
+  },
+  {
+    "id": "p-a470f0",
+    "offset": 18317,
+    "text": "Q. E. F."
+  },
+  {
+    "id": "p-5bd00a",
+    "offset": 18327,
+    "text": "Enunciation If a straight line set up on a straight line make angles, it will make either two right angles or angles equal to two right angles."
+  },
+  {
+    "id": "p-704718",
+    "offset": 18472,
+    "text": "Proof. For let any straight line AB set up on the straight line CD make the angles CBA, ABD;"
+  },
+  {
+    "id": "p-c4e0b6",
+    "offset": 18566,
+    "text": "I say that the angles CBA, ABD are either two right angles or equal to two right angles."
+  },
+  {
+    "id": "p-964590",
+    "offset": 18656,
+    "text": "Now, if the angle CBA is equal to the angle ABD, they are two right angles. [ Def. 10]"
+  },
+  {
+    "id": "p-c7489c",
+    "offset": 18744,
+    "text": "But, if not, let BE be drawn from the point B at right angles to CD; [ I. 11] therefore the angles CBE, EBD are two right angles."
+  },
+  {
+    "id": "p-eda70e",
+    "offset": 18875,
+    "text": "Then, since the angle CBE is equal to the two angles CBA, ABE, let the angle EBD be added to each; therefore the angles CBE, EBD are equal to the three angles CBA, ABE, EBD. [ C. N. 2]"
+  },
+  {
+    "id": "p-1c8b02",
+    "offset": 19061,
+    "text": "Again, since the angle DBA is equal to the two angles DBE, EBA, let the angle ABC be added to each; therefore the angles DBA. ABC are equal to the three angles DBE, EBA, ABC. [ C. N. 2]"
+  },
+  {
+    "id": "p-98b356",
+    "offset": 19248,
+    "text": "But the angles CBE, EBD were also proved equal to the same three angles; and things which are equal to the same thing are also equal to one another; [ C. N. 1] therefore the angles CBE, EBD are also equal to the angles DBA, ABC. But the angles CBE, EBD are two right angles; therefore the angles DBA, ABC are also equal to two right angles."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 19590,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 19606,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-f2f7fc",
+    "offset": 19616,
+    "text": "Enunciation If with any straight line, and at a point on it, two straight lines not lying on the same side make the adjacent angles equal to two right angles, the two straight lines will be in a straight line with one another."
+  },
+  {
+    "id": "p-70ff77",
+    "offset": 19844,
+    "text": "Proof. For with any straight line AB, and at the point B on it, let the two straight lines BC, BD not lying on the same side make the adjacent angles ABC, ABD equal to two right angles;"
+  },
+  {
+    "id": "p-14397d",
+    "offset": 20031,
+    "text": "I say that BD is in a straight line with CB."
+  },
+  {
+    "id": "p-860cd6",
+    "offset": 20077,
+    "text": "For, if BD is not in a straight line with BC, let BE be in a straight line with CB."
+  },
+  {
+    "id": "p-9fd913",
+    "offset": 20162,
+    "text": "Then, since the straight line AB stands on the straight line CBE, the angles ABC, ABE are equal to two right angles. [ I. 13] But the angles ABC, ABD are also equal to two right angles; therefore the angles CBA, ABE are equal to the angles CBA, ABD. [ Post. 4 and C.N. 1]"
+  },
+  {
+    "id": "p-9e0e9f",
+    "offset": 20435,
+    "text": "Let the angle CBA be subtracted from each; therefore the remaining angle ABE is equal to the remaining angle ABD, [ C.N. 3] the less to the greater: which is impossible. Therefore BE is not in a straight line with CB."
+  },
+  {
+    "id": "p-9d83bb",
+    "offset": 20654,
+    "text": "Similarly we can prove that neither is any other straight line except BD. Therefore CB is in a straight line with BD."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 20773,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 20789,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-4c49e3",
+    "offset": 20799,
+    "text": "Enunciation If two straight lines cut one another, they make the vertical angles equal to one another."
+  },
+  {
+    "id": "p-a87fef",
+    "offset": 20903,
+    "text": "Proof. For let the straight lines AB, CD cut one another at the point E;"
+  },
+  {
+    "id": "p-c9a50c",
+    "offset": 20977,
+    "text": "I say that the angle AEC is equal to the angle DEB, and the angle CEB to the angle AED."
+  },
+  {
+    "id": "p-2196ec",
+    "offset": 21066,
+    "text": "For, since the straight line AE stands on the straight line CD, making the angles CEA, AED, the angles CEA, AED are equal to two right angles [ I. 13]"
+  },
+  {
+    "id": "p-ed9ef8",
+    "offset": 21218,
+    "text": "Again, since the straight line DE stands on the straight line AB, making the angles AED, DEB, the angles AED, DEB are equal to two right angles. [ I. 13]"
+  },
+  {
+    "id": "p-415810",
+    "offset": 21373,
+    "text": "But the angles CEA, AED were also proved equal to two right angles; therefore the angles CEA, AED are equal to the angles AED DEB. [ Post. 4 and C. N. 1] Let the angle AED be subtracted from each; therefore the remaining angle CEA is equal to the remaining angle BED. [ C. N. 3]"
+  },
+  {
+    "id": "p-6c2f4a",
+    "offset": 21653,
+    "text": "Similarly it can be proved that the angles CEB, DEA are also equal."
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 21722,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-f42cf8",
+    "offset": 21747,
+    "text": "[Porism. From this it is manifest that, if two straight lines cut one another, they will make the angles at the point of section equal to four right angles."
+  },
+  {
+    "id": "p-818877",
+    "offset": 21905,
+    "text": "Enunciation In any triangle, if one of the sides be produced, the exterior angle is greater than either of the interior and opposite angles."
+  },
+  {
+    "id": "p-37ff82",
+    "offset": 22047,
+    "text": "Proof. Let ABC be a triangle, and let one side of it BC be produced to D;"
+  },
+  {
+    "id": "p-0ec07c",
+    "offset": 22122,
+    "text": "I say that the exterior angle ACD is greater than either of the interior and opposite angles CBA, BAC."
+  },
+  {
+    "id": "p-6cb18c",
+    "offset": 22226,
+    "text": "Let AC be bisected at E [ I. 10], and let BE be joined and produced in a straight line to F;"
+  },
+  {
+    "id": "p-2c2231",
+    "offset": 22320,
+    "text": "let EF be made equal to BE [ I. 3], let FC be joined [ Post. 1], and let AC be drawn through to G [ Post. 2]."
+  },
+  {
+    "id": "p-f0f1cc",
+    "offset": 22431,
+    "text": "Then, since AE is equal to EC, and BE to EF, the two sides AE, EB are equal to the two sides CE, EF respectively; and the angle AEB is equal to the angle FEC, for they are vertical angles. [ I. 15] Therefore the base AB is equal to the base FC, and the triangle ABE is equal to the triangle CFE, and the remaining angles are equal to the remaining angles respectively, namely those which the equal sides subtend; [ I. 4] therefore the angle BAE is equal to the angle ECF."
+  },
+  {
+    "id": "p-d6842e",
+    "offset": 22904,
+    "text": "But the angle ECD is greater than the angle ECF; [ C. N. 5] therefore the angle ACD is greater than the angle BAE."
+  },
+  {
+    "id": "p-ec7df0",
+    "offset": 23020,
+    "text": "Similarly also, if BC be bisected, the angle BCG, that is, the angle ACD [ I. 15], can be proved greater than the angle ABC as well."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 23154,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 23170,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-b8a8e5",
+    "offset": 23180,
+    "text": "Enunciation In any triangle two angles taken together in any manner are less than two right angles."
+  },
+  {
+    "id": "p-d5af8a",
+    "offset": 23281,
+    "text": "Proof. Let ABC be a triangle; I say that two angles of the triangle ABC taken together in any manner are less than two right angles."
+  },
+  {
+    "id": "p-71bb96",
+    "offset": 23415,
+    "text": "For let BC be produced to D. [ Post. 2]"
+  },
+  {
+    "id": "p-0f64c6",
+    "offset": 23456,
+    "text": "Then, since the angle ACD is an exterior angle of the triangle ABC, it is greater than the interior and opposite angle ABC. [ I. 16] Let the angle ACB be added to each; therefore the angles ACD, ACB are greater than the angles ABC, BCA. But the angles ACD, ACB are equal to two right angles. [ I. 13]"
+  },
+  {
+    "id": "p-fc53f2",
+    "offset": 23758,
+    "text": "Therefore the angles ABC, BCA are less than two right angles."
+  },
+  {
+    "id": "p-26af77",
+    "offset": 23821,
+    "text": "Similarly we can prove that the angles BAC, ACB are also less than two right angles, and so are the angles CAB, ABC as well."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 23947,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 23963,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-4002a0",
+    "offset": 23973,
+    "text": "Enunciation In any triangle the greater side subtends the greater angle."
+  },
+  {
+    "id": "p-c0c45f",
+    "offset": 24047,
+    "text": "Proof. For let ABC be a triangle having the side AC greater than AB;"
+  },
+  {
+    "id": "p-6494d9",
+    "offset": 24117,
+    "text": "I say that the angle ABC is also greater than the angle BCA."
+  },
+  {
+    "id": "p-75e9a4",
+    "offset": 24179,
+    "text": "For, since AC is greater than AB, let AD be made equal to AB [ I. 3], and let BD bejoined."
+  },
+  {
+    "id": "p-5e3121",
+    "offset": 24271,
+    "text": "Then, since the angle ADB is an exterior angle of the triangle BCD, it is greater than the interior and opposite angle DCB. [ I. 16]"
+  },
+  {
+    "id": "p-8e215e",
+    "offset": 24405,
+    "text": "But the angle ADB is equal to the angle ABD, since the side AB is equal to AD; therefore the angle ABD is also greater than the angle ACB; therefore the angle ABC is much greater than the angle ACB."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 24605,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 24621,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-34ae3b",
+    "offset": 24631,
+    "text": "Enunciation In any triangle the greater angle is subtended by the greater side."
+  },
+  {
+    "id": "p-ed1292",
+    "offset": 24712,
+    "text": "Proof. Let ABC be a triangle having the angle ABC greater than the angle BCA;"
+  },
+  {
+    "id": "p-f83d4d",
+    "offset": 24791,
+    "text": "I say that the side AC is also greater than the side AB."
+  },
+  {
+    "id": "p-5e3126",
+    "offset": 24849,
+    "text": "For, if not, AC is either equal to AB or less."
+  },
+  {
+    "id": "p-2dcd35",
+    "offset": 24897,
+    "text": "Now AC is not equal to AB; for then the angle ABC would also have been equal to the angle ACB; [ I. 5] but it is not; therefore AC is not equal to AB."
+  },
+  {
+    "id": "p-a5a489",
+    "offset": 25049,
+    "text": "Neither is AC less than AB, for then the angle ABC would also have been less than the angle ACB; [ I. 18] but it is not; therefore AC is not less than AB."
+  },
+  {
+    "id": "p-6d5aa8",
+    "offset": 25205,
+    "text": "And it was proved that it is not equal either. Therefore AC is greater than AB."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 25286,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 25302,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-25b8a7",
+    "offset": 25312,
+    "text": "Enunciation In any triangle two sides taken together in any manner are greater than the remaining one."
+  },
+  {
+    "id": "p-e4358b",
+    "offset": 25416,
+    "text": "Proof. For let ABC be a triangle; I say that in the triangle ABC two sides taken together in any manner are greater than the remaining one, namely BA, AC greater than BC, AB, BC greater than AC, BC, CA greater than AB."
+  },
+  {
+    "id": "p-961808",
+    "offset": 25636,
+    "text": "For let BA be drawn through to the point D, let DA be made equal to CA, and let DC be joined."
+  },
+  {
+    "id": "p-141436",
+    "offset": 25731,
+    "text": "Then, since DA is equal to AC, the angle ADC is also equal to the angle ACD; [ I. 5] therefore the angle BCD is greater than the angle ADC. [ C.N. 5]"
+  },
+  {
+    "id": "p-bf5ec5",
+    "offset": 25882,
+    "text": "And, since DCB is a triangle having the angle BCD greater than the angle BDC, and the greater angle is subtended by the greater side, [ I. 19] therefore DB is greater than BC."
+  },
+  {
+    "id": "p-10cac5",
+    "offset": 26059,
+    "text": "But DA is equal to AC; therefore BA, AC are greater than BC."
+  },
+  {
+    "id": "p-f0d9f8",
+    "offset": 26121,
+    "text": "Similarly we can prove that AB, BC are also greater than CA, and BC, CA than AB."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 26203,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 26219,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-9d95c2",
+    "offset": 26229,
+    "text": "Enunciation If on one of the sides of a triangle, from its extremities, there be constructed two straight lines meeting within the triangle, the straight lines so constructed will be less than the remaining two sides of the triangle, but will contain a greater angle."
+  },
+  {
+    "id": "p-5b3e3f",
+    "offset": 26498,
+    "text": "Proof. On BC, one of the sides of the triangle ABC, from its extremities B, C, let the two straight lines BD, DC be constructed meeting within the triangle;"
+  },
+  {
+    "id": "p-3e8c91",
+    "offset": 26656,
+    "text": "I say that BD, DC are less than the remaining two sides of the triangle BA, AC, but contain an angle BDC greater than the angle BAC."
+  },
+  {
+    "id": "p-942b0a",
+    "offset": 26790,
+    "text": "For let BD be drawn through to E."
+  },
+  {
+    "id": "p-557167",
+    "offset": 26825,
+    "text": "Then, since in any triangle two sides are greater than the remaining one, [ I. 20] therefore, in the triangle ABE, the two sides AB, AE are greater than BE."
+  },
+  {
+    "id": "p-d152b7",
+    "offset": 26983,
+    "text": "Let EC be added to each; therefore BA, AC are greater than BE, EC."
+  },
+  {
+    "id": "p-0cbbcd",
+    "offset": 27051,
+    "text": "Again, since, in the triangle CED, the two sides CE, ED are greater than CD, let DB be added to each; therefore CE, EB are greater than CD, DB."
+  },
+  {
+    "id": "p-bc8965",
+    "offset": 27196,
+    "text": "But BA, AC were proved greater than BE, EC; therefore BA, AC are much greater than BD, DC."
+  },
+  {
+    "id": "p-50ac96",
+    "offset": 27288,
+    "text": "Again, since in any triangle the exterior angle is greater than the interior and opposite angle, [ I. 16] therefore, in the triangle CDE, the exterior angle BDC is greater than the angle CED."
+  },
+  {
+    "id": "p-22af69",
+    "offset": 27481,
+    "text": "For the same reason, moreover, in the triangle ABE also, the exterior angle CEB is greater than the angle BAC. But the angle BDC was proved greater than the angle CEB; therefore the angle BDC is much greater than the angle BAC."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 27710,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 27726,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-1870ce",
+    "offset": 27736,
+    "text": "Enunciation Out of three straight lines, which are equal to three given straight lines, to construct a triangle: thus it is necessary that two of the straight lines taken together in any manner should be greater than the remaining one. [ I. 20]"
+  },
+  {
+    "id": "p-cf1ad7",
+    "offset": 27982,
+    "text": "Proof. Let the three given straight lines be A, B, C, and of these let two taken together in any manner be greater than the remaining one, namely A, B greater than C, A, C greater than B, and B, C greater than A; thus it is required to construct a triangle out of straight lines equal to A, B, C."
+  },
+  {
+    "id": "p-aa5be4",
+    "offset": 28280,
+    "text": "Let there be set out a straight line DE, terminated at D but of infinite length in the direction of E, and let DF be made equal to A, FG equal to B, and GH equal to C. [ I. 3]"
+  },
+  {
+    "id": "p-cf2150",
+    "offset": 28457,
+    "text": "With centre F and distance FD let the circle DKL be described; again, with centre G and distance GH let the circle KLH be described; and let KF, KG be joined;"
+  },
+  {
+    "id": "p-817e55",
+    "offset": 28617,
+    "text": "I say that the triangle KFG has been constructed out of three straight lines equal to A, B, C."
+  },
+  {
+    "id": "p-e7e0c5",
+    "offset": 28713,
+    "text": "For, since the point F is the centre of the circle DKL, FD is equal to FK."
+  },
+  {
+    "id": "p-64874f",
+    "offset": 28789,
+    "text": "But FD is equal to A; therefore KF is also equal to A."
+  },
+  {
+    "id": "p-2d4d3e",
+    "offset": 28845,
+    "text": "Again, since the point G is the centre of the circle LKH, GH is equal to GK."
+  },
+  {
+    "id": "p-9012ed",
+    "offset": 28923,
+    "text": "But GH is equal to C; therefore KG is also equal to C. And FG is also equal to B; therefore the three straight lines KF, FG, GK are equal to the three straight lines A, B, C."
+  },
+  {
+    "id": "p-f245c5",
+    "offset": 29099,
+    "text": "Therefore out of the three straight lines KF, FG, GK, which are equal to the three given straight lines A, B, C, the triangle KFG has been constructed."
+  },
+  {
+    "id": "p-a470f0",
+    "offset": 29252,
+    "text": "Q. E. F."
+  },
+  {
+    "id": "p-35d37d",
+    "offset": 29262,
+    "text": "Enunciation On a given straight line and at a point on it to construct a rectilineal angle equal to a given rectilineal angle."
+  },
+  {
+    "id": "p-4ca00b",
+    "offset": 29390,
+    "text": "Proof. Let AB be the given straight line, A the point on it, and the angle DCE the given rectilineal angle;"
+  },
+  {
+    "id": "p-9a5799",
+    "offset": 29499,
+    "text": "thus it is required to construct on the given straight line AB, and at the point A on it, a rectilineal angle equal to the given rectilineal angle DCE."
+  },
+  {
+    "id": "p-1873cb",
+    "offset": 29652,
+    "text": "On the straight lines CD, CE respectively let the points D, E be taken at random; let DE be joined, and out of three straight lines which are equal to the three straight lines CD, DE, CE let the triangle AFG be constructed in such a way that CD is equal to AF, CE to AG, and further DE to FG."
+  },
+  {
+    "id": "p-a50bda",
+    "offset": 29946,
+    "text": "Then, since the two sides DC, CE are equal to the two sides FA, AG respectively, and the base DE is equal to the base FG, the angle DCE is equal to the angle FAG. [ I. 8]"
+  },
+  {
+    "id": "p-a71bc4",
+    "offset": 30118,
+    "text": "Therefore on the given straight line AB, and at the point A on it, the rectilineal angle FAG has been constructed equal to the given rectilineal angle DCE."
+  },
+  {
+    "id": "p-a470f0",
+    "offset": 30275,
+    "text": "Q. E. F."
+  },
+  {
+    "id": "p-4ea45c",
+    "offset": 30285,
+    "text": "Enunciation If two triangles have the two sides equal to two sides respectively, but have the one of the angles contained by the equal straight lines greater than the other, they will also have the base greater than the base."
+  },
+  {
+    "id": "p-b807f4",
+    "offset": 30512,
+    "text": "Proof. Let ABC, DEF be two triangles having the two sides AB, AC equal to the two sides DE, DF respectively, namely AB to DE, and AC to DF, and let the angle at A be greater than the angle at D;"
+  },
+  {
+    "id": "p-297741",
+    "offset": 30708,
+    "text": "I say that the base BC is also greater than the base EF."
+  },
+  {
+    "id": "p-1c2cda",
+    "offset": 30766,
+    "text": "For, since the angle BAC is greater than the angle EDF, let there be constructed, on the straight line DE, and at the point D on it, the angle EDG equal to the angle BAC; [ I. 23] let DG be made equal to either of the two straight lines AC, DF, and let EG, FG be joined."
+  },
+  {
+    "id": "p-8cfd03",
+    "offset": 31038,
+    "text": "Then, since AB is equal to DE, and AC to DG, the two sides BA, AC are equal to the two sides ED, DG, respectively; and the angle BAC is equal to the angle EDG; therefore the base BC is equal to the base EG. [ I. 4]"
+  },
+  {
+    "id": "p-aff1e5",
+    "offset": 31254,
+    "text": "Again, since DF is equal to DG, the angle DGF is also equal to the angle DFG; [ I. 5] therefore the angle DFG is greater than the angle EGF."
+  },
+  {
+    "id": "p-9f7085",
+    "offset": 31396,
+    "text": "Therefore the angle EFG is much greater than the angle EGF."
+  },
+  {
+    "id": "p-d6a9e1",
+    "offset": 31457,
+    "text": "And, since EFG is a triangle having the angle EFG greater than the angle EGF, and the greater angle is subtended by the greater side, [ I. 19] the side EG is also greater than EF."
+  },
+  {
+    "id": "p-3038ab",
+    "offset": 31638,
+    "text": "But EG is equal to BC. Therefore BC is also greater than EF."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 31700,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 31716,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-11907d",
+    "offset": 31726,
+    "text": "Enunciation If two triangles have the two sides equal to two sides respectively, but have the base greater than the base, they will also have the one of the angles contained by the equal straight lines greater than the other."
+  },
+  {
+    "id": "p-05768d",
+    "offset": 31953,
+    "text": "Proof. Let ABC, DEF be two triangles having the two sides AB, AC equal to the two sides DE, DF respectively, namely AB to DE, and AC to DF; and let the base BC be greater than the base EF;"
+  },
+  {
+    "id": "p-69e1fb",
+    "offset": 32143,
+    "text": "I say that the angle BAC is also greater than the angle EDF."
+  },
+  {
+    "id": "p-5143c0",
+    "offset": 32205,
+    "text": "For, if not, it is either equal to it or less."
+  },
+  {
+    "id": "p-168588",
+    "offset": 32253,
+    "text": "Now the angle BAC is not equal to the angle EDF; for then the base BC would also have been equal to the base EF, [ I. 4] but it is not; therefore the angle BAC is not equal to the angle EDF."
+  },
+  {
+    "id": "p-a91184",
+    "offset": 32445,
+    "text": "Neither again is the angle BAC less than the angle EDF; for then the base BC would also have been less than the base EF, [ I. 24] but it is not; therefore the angle BAC is not less than the angle EDF."
+  },
+  {
+    "id": "p-a4541d",
+    "offset": 32647,
+    "text": "But it was proved that it is not equal either; therefore the angle BAC is greater than the angle EDF."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 32750,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 32766,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-a12bf0",
+    "offset": 32776,
+    "text": "Enunciation If two triangles have the two angles equal to two angles respectively, and one side equal to one side, namely, either the side adjoining the equal angles, or that subtending one of the equal angles, they will also have the remaining sides equal to the remaining sides and the remaining angle to the remaining angle."
+  },
+  {
+    "id": "p-58d4b2",
+    "offset": 33105,
+    "text": "Proof. Let ABC, DEF be two triangles having the two angles ABC, BCA equal to the two angles DEF, EFD respectively, namely the angle ABC to the angle DEF, and the angle BCA to the angle EFD; and let them also have one side equal to one side, first that adjoining the equal angles, namely BC to EF;"
+  },
+  {
+    "id": "p-296118",
+    "offset": 33403,
+    "text": "I say that they will also have the remaining sides equal to the remaining sides respectively, namely AB to DE and AC to DF, and the remaining angle to the remaining angle, namely the angle BAC to the angle EDF."
+  },
+  {
+    "id": "p-16ba99",
+    "offset": 33615,
+    "text": "For, if AB is unequal to DE, one of them is greater."
+  },
+  {
+    "id": "p-6b837b",
+    "offset": 33669,
+    "text": "Let AB be greater, and let BG be made equal to DE; and let GC be joined."
+  },
+  {
+    "id": "p-380f10",
+    "offset": 33743,
+    "text": "Then, since BG is equal to DE, and BC to EF, the two sides GB, BC are equal to the two sides DE, EF respectively; and the angle GBC is equal to the angle DEF; therefore the base GC is equal to the base DF, and the triangle GBC is equal to the triangle DEF, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [ I. 4] therefore the angle GCB is equal to the angle DFE. But the angle DFE is by hypothesis equal to the angle BCA; therefore the angle BCG is equal to the angle BCA, the less to the greater: which is impossible. Therefore AB is not unequal to DE, and is therefore equal to it."
+  },
+  {
+    "id": "p-bd17da",
+    "offset": 34389,
+    "text": "But BC is also equal to EF; therefore the two sides AB, BC are equal to the two sides DE, EF respectively, and the angle ABC is equal to the angle DEF; therefore the base AC is equal to the base DF, and the remaining angle BAC is equal to the remaining angle EDF. [ I. 4]"
+  },
+  {
+    "id": "p-510e30",
+    "offset": 34662,
+    "text": "Again, let sides subtending equal angles be equal, as AB to DE;"
+  },
+  {
+    "id": "p-88d42d",
+    "offset": 34727,
+    "text": "I say again that the remaining sides will be equal to the remaining sides, namely AC to DF and BC to EF, and further the remaining angle BAC is equal to the remaining angle EDF."
+  },
+  {
+    "id": "p-73ba87",
+    "offset": 34906,
+    "text": "For, if BC is unequal to EF, one of them is greater."
+  },
+  {
+    "id": "p-75bf6f",
+    "offset": 34960,
+    "text": "Let BC be greater, if possible, and let BH be made equal to EF; let AH be joined."
+  },
+  {
+    "id": "p-5b9f4c",
+    "offset": 35043,
+    "text": "Then, since BH is equal to EF, and AB to DE, the two sides AB, BH are equal to the two sides DE, EF respectively, and they contain equal angles; therefore the base AH is equal to the base DF, and the triangle ABH is equal to the triangle DEF, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [ I. 4] therefore the angle BHA is equal to the angle EFD."
+  },
+  {
+    "id": "p-477bd9",
+    "offset": 35454,
+    "text": "But the angle EFD is equal to the angle BCA; therefore, in the triangle AHC, the exterior angle BHA is equal to the interior and opposite angle BCA: which is impossible. [ I. 16]"
+  },
+  {
+    "id": "p-156f7d",
+    "offset": 35634,
+    "text": "Therefore BC is not unequal to EF, and is therefore equal to it."
+  },
+  {
+    "id": "p-ac31ac",
+    "offset": 35700,
+    "text": "But AB is also equal to DE; therefore the two sides AB, BC are equal to the two sides DE, EF respectively, and they contain equal angles; therefore the base AC is equal to the base DF, the triangle ABC equal to the triangle DEF, and the remaining angle BAC equal to the remaining angle EDF. [ I. 4]"
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 36000,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 36016,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-e2391c",
+    "offset": 36026,
+    "text": "Enunciation If a straight line falling on two straight lines make the alternate angles equal to one another, the straight lines will be parallel to one another."
+  },
+  {
+    "id": "p-43798e",
+    "offset": 36188,
+    "text": "Proof. For let the straight line EF falling on the two straight lines AB, CD make the alternate angles AEF, EFD equal to one another;"
+  },
+  {
+    "id": "p-a1e2cd",
+    "offset": 36323,
+    "text": "I say that AB is parallel to CD."
+  },
+  {
+    "id": "p-b6d865",
+    "offset": 36357,
+    "text": "For, if not, AB, CD when produced will meet either in the direction of B, D or towards A, C."
+  },
+  {
+    "id": "p-cba8af",
+    "offset": 36451,
+    "text": "Let them be produced and meet, in the direction of B, D, at G."
+  },
+  {
+    "id": "p-60f907",
+    "offset": 36515,
+    "text": "Then, in the triangle GEF, the exterior angle AEF is equal to the interior and opposite angle EFG: which is impossible. [ I. 16]"
+  },
+  {
+    "id": "p-d1febb",
+    "offset": 36645,
+    "text": "Therefore AB, CD when produced will not meet in the direction of B, D."
+  },
+  {
+    "id": "p-ac4823",
+    "offset": 36717,
+    "text": "Similarly it can be proved that neither will they meet towards A, C."
+  },
+  {
+    "id": "p-bedcb3",
+    "offset": 36787,
+    "text": "But straight lines which do not meet in either direction are parallel; [ Def. 23] therefore AB is parallel to CD."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 36902,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 36918,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-0b162e",
+    "offset": 36928,
+    "text": "Enunciation If a straight line falling on two straight lines make the exterior angle equal to the interior and opposite angle on the same side, or the interior angles on the same side equal to two right angles, the straight lines will be parallel to one another."
+  },
+  {
+    "id": "p-01816a",
+    "offset": 37192,
+    "text": "Proof. For let the straight line EF falling on the two straight lines AB, CD make the exterior angle EGB equal to the interior and opposite angle GHD, or the interior angles on the same side, namely BGH, GHD, equal to two right angles;"
+  },
+  {
+    "id": "p-a1e2cd",
+    "offset": 37429,
+    "text": "I say that AB is parallel to CD."
+  },
+  {
+    "id": "p-176ccb",
+    "offset": 37463,
+    "text": "For, since the angle EGB is equal to the angle GHD, while the angle EGB is equal to the angle AGH, [ I. 15] the angle AGH is also equal to the angle GHD; and they are alternate; therefore AB is parallel to CD. [ I. 27]"
+  },
+  {
+    "id": "p-17996b",
+    "offset": 37683,
+    "text": "Again, since the angles BGH, GHD are equal to two right angles, and the angles AGH, BGH are also equal to two right angles, [ I. 13] the angles AGH, BGH are equal to the angles BGH, GHD."
+  },
+  {
+    "id": "p-ae06e1",
+    "offset": 37871,
+    "text": "Let the angle BGH be subtracted from each; therefore the remaining angle AGH is equal to the remaining angle GHD; and they are alternate; therefore AB is parallel to CD. [ I. 27]"
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 38051,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 38067,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-ad0df9",
+    "offset": 38077,
+    "text": "Enunciation A straight line falling on parallel straight lines makes the alternate angles equal to one another, the exterior angle equal to the interior and opposite angle, and the interior angles on the same side equal to two right angles."
+  },
+  {
+    "id": "p-de6e9f",
+    "offset": 38319,
+    "text": "Proof. For let the straight line EF fall on the parallel straight lines AB, CD;"
+  },
+  {
+    "id": "p-178358",
+    "offset": 38400,
+    "text": "I say that it makes the alternate angles AGH, GHD equal, the exterior angle EGB equal to the interior and opposite angle GHD, and the interior angles on the same side, namely BGH, GHD, equal to two right angles."
+  },
+  {
+    "id": "p-1bbdd2",
+    "offset": 38613,
+    "text": "For, if the angle AGH is unequal to the angle GHD, one of them is greater."
+  },
+  {
+    "id": "p-70b044",
+    "offset": 38689,
+    "text": "Let the angle AGH be greater."
+  },
+  {
+    "id": "p-5b1268",
+    "offset": 38720,
+    "text": "Let the angle BGH be added to each; therefore the angles AGH, BGH are greater than the angles BGH, GHD."
+  },
+  {
+    "id": "p-2c2f13",
+    "offset": 38825,
+    "text": "But the angles AGH, BGH are equal to two right angles; [ I. 13] therefore the angles BGH, GHD are less than two right angles."
+  },
+  {
+    "id": "p-8c80fd",
+    "offset": 38952,
+    "text": "But straight lines produced indefinitely from angles less than two right angles meet; [ Post. 5] therefore AB, CD, if produced indefinitely, will meet; but they do not meet, because they are by hypothesis parallel."
+  },
+  {
+    "id": "p-c76b86",
+    "offset": 39168,
+    "text": "Therefore the angle AGH is not unequal to the angle GHD, and is therefore equal to it."
+  },
+  {
+    "id": "p-fead4d",
+    "offset": 39256,
+    "text": "Again, the angle AGH is equal to the angle EGB; [ I. 15] therefore the angle EGB is also equal to the angle GHD. [ C.N. 1]"
+  },
+  {
+    "id": "p-214f4a",
+    "offset": 39380,
+    "text": "Let the angle BGH be added to each; therefore the angles EGB, BGH are equal to the angles BGH, GHD. [ C.N. 2]"
+  },
+  {
+    "id": "p-acc5f0",
+    "offset": 39491,
+    "text": "But the angles EGB, BGH are equal to two right angles; [ I. 13] therefore the angles BGH, GHD are also equal to two right angles."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 39622,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 39638,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-190d9f",
+    "offset": 39648,
+    "text": "Enunciation Straight lines parallel to the same straight line are also parallel to one another."
+  },
+  {
+    "id": "p-36a226",
+    "offset": 39745,
+    "text": "Proof. Let each of the straight lines AB, CD be parallel to EF; I say that AB is also parallel to CD."
+  },
+  {
+    "id": "p-af4181",
+    "offset": 39848,
+    "text": "For let the straight line GK fall upon them;"
+  },
+  {
+    "id": "p-a3b787",
+    "offset": 39894,
+    "text": "Then, since the straight line GK has fallen on the parallel straight lines AB, EF, the angle AGK is equal to the angle GHF. [ I. 29]"
+  },
+  {
+    "id": "p-c6fe65",
+    "offset": 40028,
+    "text": "Again, since the straight line GK has fallen on the parallel straight lines EF, CD, the angle GHF is equal to the angle GKD. [ I. 29]"
+  },
+  {
+    "id": "p-6631cf",
+    "offset": 40163,
+    "text": "But the angle AGK was also proved equal to the angle GHF; therefore the angle AGK is also equal to the angle GKD; [ C.N. 1] and they are alternate."
+  },
+  {
+    "id": "p-ccd65d",
+    "offset": 40312,
+    "text": "Therefore AB is parallel to CD."
+  },
+  {
+    "id": "p-047604",
+    "offset": 40345,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-5b0139",
+    "offset": 40355,
+    "text": "Enunciation Through a given point to draw a straight line parallel to a given straight line."
+  },
+  {
+    "id": "p-90db62",
+    "offset": 40449,
+    "text": "Proof. Let A be the given point, and BC the given straight line; thus it is required to draw through the point A a straight line parallel to the straight line BC."
+  },
+  {
+    "id": "p-9dedd1",
+    "offset": 40613,
+    "text": "Let a point D be taken at random on BC, and let AD be joined; on the straight line DA, and at the point A on it, let the angle DAE be constructed equal to the angle ADC [ I. 23]; and let the straight line AF be produced in a straight line with EA."
+  },
+  {
+    "id": "p-9c4b5a",
+    "offset": 40862,
+    "text": "Then, since the straight line AD falling on the two straight lines BC, EF has made the alternate angles EAD, ADC equal to one another, therefore EAF is parallel to BC. [ I. 27]"
+  },
+  {
+    "id": "p-d0ca3b",
+    "offset": 41040,
+    "text": "Therefore through the given point A the straight line EAF has been drawn parallel to the given straight line BC."
+  },
+  {
+    "id": "p-a470f0",
+    "offset": 41154,
+    "text": "Q. E. F."
+  },
+  {
+    "id": "p-e5cfc1",
+    "offset": 41164,
+    "text": "Enunciation In any triangle, if one of the sides be produced, the exterior angle is equal to the two interior and opposite angles, and the three interior angles of the triangle are equal to two right angles."
+  },
+  {
+    "id": "p-37ff82",
+    "offset": 41373,
+    "text": "Proof. Let ABC be a triangle, and let one side of it BC be produced to D;"
+  },
+  {
+    "id": "p-f927af",
+    "offset": 41448,
+    "text": "I say that the exterior angle ACD is equal to the two interior and opposite angles CAB, ABC, and the three interior angles of the triangle ABC, BCA, CAB are equal to two right angles."
+  },
+  {
+    "id": "p-ed4746",
+    "offset": 41633,
+    "text": "For let CE be drawn through the point C parallel to the straight line AB. [ I. 31]"
+  },
+  {
+    "id": "p-5e541b",
+    "offset": 41717,
+    "text": "Then, since AB is parallel to CE, and AC has fallen upon them, the alternate angles BAC, ACE are equal to one another. [ I. 29]"
+  },
+  {
+    "id": "p-6766fc",
+    "offset": 41846,
+    "text": "Again, since AB is parallel to CE, and the straight line BD has fallen upon them, the exterior angle ECD is equal to the interior and opposite angle ABC. [ I. 29]"
+  },
+  {
+    "id": "p-c56d0c",
+    "offset": 42010,
+    "text": "But the angle ACE was also proved equal to the angle BAC; therefore the whole angle ACD is equal to the two interior and opposite angles BAC, ABC."
+  },
+  {
+    "id": "p-893832",
+    "offset": 42158,
+    "text": "Let the angle ACB be added to each; therefore the angles ACD, ACB are equal to the three angles ABC, BCA, CAB."
+  },
+  {
+    "id": "p-4a813d",
+    "offset": 42270,
+    "text": "But the angles ACD, ACB are equal to two right angles; [ I. 13] therefore the angles ABC, BCA, CAB are also equal to two right angles."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 42406,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 42422,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-dabb2a",
+    "offset": 42432,
+    "text": "Enunciation The straight lines joining equal and parallel straight lines (at the extremities which are) in the same directions (respectively) are themselves also equal and parallel."
+  },
+  {
+    "id": "p-55f4cd",
+    "offset": 42615,
+    "text": "Proof. Let AB, CD be equal and parallel, and let the straight lines AC, BD join them (at the extremities which are) in the same directions (respectively); I say that AC, BD are also equal and parallel."
+  },
+  {
+    "id": "p-f164a5",
+    "offset": 42818,
+    "text": "Let BC be joined."
+  },
+  {
+    "id": "p-fdff65",
+    "offset": 42837,
+    "text": "Then, since AB is parallel to CD, and BC has fallen upon them, the alternate angles ABC, BCD are equal to one another. [ I. 29]"
+  },
+  {
+    "id": "p-553fb3",
+    "offset": 42966,
+    "text": "And, since AB is equal to CD, and BC is common, the two sides AB, BC are equal to the two sides DC, CB; and the angle ABC is equal to the angle BCD; therefore the base AC is equal to the base BD, and the griangle ABC is equal to the triangle DCB, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend; [ I. 4] therefore the angle ACB is equal to the angle CBD."
+  },
+  {
+    "id": "p-f11e49",
+    "offset": 43394,
+    "text": "And, since the straight line BC falling on the two straight lines AC, BD has made the alternate angles equal to one another, AC is parallel to BD. [ I. 27]"
+  },
+  {
+    "id": "p-8f398d",
+    "offset": 43551,
+    "text": "And it was also proved equal to it."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 43588,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 43604,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-41367f",
+    "offset": 43614,
+    "text": "Enunciation In parallelogrammic areas the opposite sides and angles are equal to one another, and the diameter bisects the areas."
+  },
+  {
+    "id": "p-db60b3",
+    "offset": 43745,
+    "text": "Proof. Let ACDB be a parallelogrammic area, and BC its diameter; I say that the opposite sides and angles of the parallelogram ACDB are equal to one another, and the diameter BC bisects it."
+  },
+  {
+    "id": "p-85c9a0",
+    "offset": 43936,
+    "text": "For, since AB is parallel to CD, and the straight line BC has fallen upon them, the alternate angles ABC, BCD are equal to one another. [ I. 29]"
+  },
+  {
+    "id": "p-ae9e2f",
+    "offset": 44082,
+    "text": "Again, since AC is parallel to BD, and BC has fallen upon them, the alternate angles ACB, CBD are equal to one another. [ I. 29]"
+  },
+  {
+    "id": "p-83f74b",
+    "offset": 44212,
+    "text": "Therefore ABC, DCB are two triangles having the two angles ABC, BCA equal to the two angles DCB, CBD respectively, and one side equal to one side, namely that adjoining the equal angles and common to both of them, BC; therefore they will also have the remaining sides equal to the remaining sides respectively, and the remaining angle to the remaining angle; [ I. 26] therefore the side AB is equal to CD, and AC to BD, and further the angle BAC is equal to the angle CDB."
+  },
+  {
+    "id": "p-8e2d90",
+    "offset": 44686,
+    "text": "And, since the angle ABC is equal to the angle BCD, and the angle CBD to the angle ACB, the whole angle ABD is equal to the whole angle ACD. [ C.N. 2] And the angle BAC was also proved equal to the angle CDB."
+  },
+  {
+    "id": "p-b295e2",
+    "offset": 44896,
+    "text": "Therefore in parallelogrammic areas the opposite sides and angles are equal to one another."
+  },
+  {
+    "id": "p-3bda65",
+    "offset": 44989,
+    "text": "I say, next, that the diameter also bisects the areas."
+  },
+  {
+    "id": "p-715911",
+    "offset": 45045,
+    "text": "For, since AB is equal to CD, and BC is common, the two sides AB, BC are equal to the two sides DC, CB respectively; and the angle ABC is equal to the angle BCD; therefore the base AC is also equal to DB, and the triangle ABC is equal to the triangle DCB. [ I. 4]"
+  },
+  {
+    "id": "p-8c3b43",
+    "offset": 45310,
+    "text": "Therefore the diameter BC bisects the parallelogram ACDB."
+  },
+  {
+    "id": "p-047604",
+    "offset": 45369,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-ef3bfe",
+    "offset": 45379,
+    "text": "Enunciation Parallelograms which are on the same base and in the same parallels are equal to one another."
+  },
+  {
+    "id": "p-635652",
+    "offset": 45486,
+    "text": "Proof. Let ABCD, EBCF be parallelograms on the same base BC and in the same parallels AF, BC; I say that ABCD is equal to the parallelogram EBCF."
+  },
+  {
+    "id": "p-6df6cf",
+    "offset": 45633,
+    "text": "For, since ABCD is a parallelogram, AD is equal to BC. [ I. 34]"
+  },
+  {
+    "id": "p-51654b",
+    "offset": 45698,
+    "text": "For the same reason also EF is equal to BC, so that AD is also equal to EF; [ C.N. 1] and DE is common; therefore the whole AE is equal to the whole DF. [ C.N. 2]"
+  },
+  {
+    "id": "p-f47a9d",
+    "offset": 45862,
+    "text": "But AB is also equal to DC; [ I. 34] therefore the two sides EA, AB are equal to the two sides FD, DC respectively, and the angle FDC is equal to the angle EAB, the exterior to the interior; [ I. 29] therefore the base EB is equal to the base FC, and the triangle EAB will be equal to the triangle FDC. [ I. 4]"
+  },
+  {
+    "id": "p-925efd",
+    "offset": 46174,
+    "text": "Let DGE be subtracted from each; therefore the trapezium ABGD which remains is equal to the trapezium EGCF which remains. [ C.N. 3]"
+  },
+  {
+    "id": "p-934ab6",
+    "offset": 46307,
+    "text": "Let the triangle GBC be added to each; therefore the whole parallelogram ABCD is equal to the whole parallelogram EBCF. [ C.N. 2]"
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 46438,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 46454,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-564847",
+    "offset": 46464,
+    "text": "Enunciation Parallelograms which are on equal bases and in the same parallels are equal to one another."
+  },
+  {
+    "id": "p-e27d44",
+    "offset": 46569,
+    "text": "Proof. Let ABCD, EFGH be parallelograms which are on equal bases BC, FG and in the same parallels AH, BG; I say that the parallelogram ABCD is equal to EFGH."
+  },
+  {
+    "id": "p-4a47eb",
+    "offset": 46728,
+    "text": "For let BE, CH be joined."
+  },
+  {
+    "id": "p-58ffae",
+    "offset": 46755,
+    "text": "Then, since BC is equal to FG while FG is equal to EH, BC is also equal to EH. [ C.N. 1]"
+  },
+  {
+    "id": "p-8ed30f",
+    "offset": 46845,
+    "text": "But they are also parallel."
+  },
+  {
+    "id": "p-80e8d5",
+    "offset": 46874,
+    "text": "And EB, HC join them; but straight lines joining equal and parallel straight lines (at the extremities which are) in the same directions (respectively) are equal and parallel. [ I. 33]"
+  },
+  {
+    "id": "p-4dfcd0",
+    "offset": 47060,
+    "text": "Therefore EBCH is a parallelogram. [ I. 34]"
+  },
+  {
+    "id": "p-b9510c",
+    "offset": 47105,
+    "text": "And it is equal to ABCD; for it has the same base BC with it, and is in the same parallels BC, AH with it. [ I. 35]"
+  },
+  {
+    "id": "p-2d83a7",
+    "offset": 47222,
+    "text": "For the same reason also EFGH is equal to the same EBCH; [ I. 35] so that the parallelogram ABCD is also equal to EFGH. [ C.N. 1]"
+  },
+  {
+    "id": "p-d54e5c",
+    "offset": 47353,
+    "text": "Therefore etc. Q. E. D."
+  },
+  {
+    "id": "p-9f25a4",
+    "offset": 47378,
+    "text": "Enunciation Triangles which are on the same base and in the same parallels are equal to one another."
+  },
+  {
+    "id": "p-00f882",
+    "offset": 47480,
+    "text": "Proof. Let ABC, DBC be triangles on the same base BC and in the same parallels AD, BC; I say that the triangle ABC is equal to the triangle DBC."
+  },
+  {
+    "id": "p-dbf959",
+    "offset": 47626,
+    "text": "Let AD be produced in both directions to E, F; through B let BE be drawn parallel to CA, [ I. 31] and through C let CF be drawn parallel to BD. [ I. 31]"
+  },
+  {
+    "id": "p-9d8147",
+    "offset": 47780,
+    "text": "Then each of the figures EBCA, DBCF is a parallelogram; and they are equal, for they are on the same base BC and in the same parallels BC, EF. [ I. 35]"
+  },
+  {
+    "id": "p-fe2d80",
+    "offset": 47933,
+    "text": "Moreover the triangle ABC is half of the parallelogram EBCA; for the diameter AB bisects it. [ I. 34]"
+  },
+  {
+    "id": "p-a4bf2b",
+    "offset": 48036,
+    "text": "And the triangle DBC is half of the parallelogram DBCF; for the diameter DC bisects it. [ I. 34]"
+  },
+  {
+    "id": "p-89b483",
+    "offset": 48134,
+    "text": "[But the halves of equal things are equal to one another.]"
+  },
+  {
+    "id": "p-6f8e49",
+    "offset": 48194,
+    "text": "Therefore the triangle ABC is equal to the triangle DBC."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 48252,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 48268,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-a29d72",
+    "offset": 48278,
+    "text": "Enunciation Triangles which are on equal bases and in the same parallels are equal to one another."
+  },
+  {
+    "id": "p-ddfffb",
+    "offset": 48378,
+    "text": "Proof. Let ABC, DEF be triangles on equal bases BC, EF and in the same parallels BF, AD; I say that the triangle ABC is equal to the triangle DEF."
+  },
+  {
+    "id": "p-c5efce",
+    "offset": 48526,
+    "text": "For let AD be produced in both directions to G, H; through B let BG be drawn parallel to CA, [ I. 31] and through F let FH be drawn parallel to DE."
+  },
+  {
+    "id": "p-fe667e",
+    "offset": 48675,
+    "text": "Then each of the figures GBCA, DEFH is a parallelogram; and GBCA is equal to DEFH;"
+  },
+  {
+    "id": "p-498217",
+    "offset": 48759,
+    "text": "for they are on equal bases BC, EF and in the same parallels BF, GH. [ I. 36]"
+  },
+  {
+    "id": "p-aefacb",
+    "offset": 48838,
+    "text": "Moreover the triangle ABC is half of the parallelogram GBCA; for the diameter AB bisects it. [ I. 34]"
+  },
+  {
+    "id": "p-24c432",
+    "offset": 48941,
+    "text": "And the triangle FED is half of the parallelogram DEFH; for the diameter DF bisects it. [ I. 34]"
+  },
+  {
+    "id": "p-89b483",
+    "offset": 49039,
+    "text": "[But the halves of equal things are equal to one another.]"
+  },
+  {
+    "id": "p-a2af05",
+    "offset": 49099,
+    "text": "Therefore the triangle ABC is equal to the triangle DEF."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 49157,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 49173,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-5d8344",
+    "offset": 49183,
+    "text": "Enunciation Equal triangles which are on the same base and on the same side are also in the same parallels."
+  },
+  {
+    "id": "p-f08d43",
+    "offset": 49292,
+    "text": "Proof. Let ABC, DBC be equal triangles which are on the same base BC and on the same side of it; [I say that they are also in the same parallels.]"
+  },
+  {
+    "id": "p-449851",
+    "offset": 49440,
+    "text": "And [For] let AD be joined; I say that AD is parallel to BC."
+  },
+  {
+    "id": "p-94714c",
+    "offset": 49502,
+    "text": "For, if not, let AE be drawn through the point A parallel to the straight line BC, [ I. 31] and let EC be joined."
+  },
+  {
+    "id": "p-c53238",
+    "offset": 49617,
+    "text": "Therefore the triangle ABC is equal to the triangle EBC; for it is on the same base BC with it and in the same parallels. [ I. 37]"
+  },
+  {
+    "id": "p-e37c19",
+    "offset": 49749,
+    "text": "But ABC is equal to DBC; therefore DBC is also equal to EBC, [ C.N. 1] the greater to the less: which is impossible."
+  },
+  {
+    "id": "p-0eb914",
+    "offset": 49867,
+    "text": "Therefore AE is not parallel to BC."
+  },
+  {
+    "id": "p-a9ef98",
+    "offset": 49904,
+    "text": "Similarly we can prove that neither is any other straight line except AD; therefore AD is parallel to BC."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 50011,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 50027,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-1b39ee",
+    "offset": 50037,
+    "text": "Equal triangles which are on equal bases and on the same side are also in the same parallels."
+  },
+  {
+    "id": "p-76c28d",
+    "offset": 50132,
+    "text": "Let ABC, CDE be equal triangles on equal bases BC, CE and on the same side."
+  },
+  {
+    "id": "p-c40be1",
+    "offset": 50209,
+    "text": "I say that they are also in the same parallels."
+  },
+  {
+    "id": "p-f92d80",
+    "offset": 50258,
+    "text": "For let AD be joined; I say that AD is parallel to BE."
+  },
+  {
+    "id": "p-a49d5d",
+    "offset": 50314,
+    "text": "For, if not, let AF be drawn through A parallel to BE [ I. 31], and let FE be joined."
+  },
+  {
+    "id": "p-3bfa06",
+    "offset": 50401,
+    "text": "Therefore the triangle ABC is equal to the triangle FCE; for they are on equal bases BC, CE and in the same parallels BE, AF. [ I. 38]"
+  },
+  {
+    "id": "p-c6acfe",
+    "offset": 50537,
+    "text": "But the triangle ABC is equal to the triangle DCE; therefore the triangle DCE is also equal to the triangle FCE, [ C.N. 1] the greater to the less: which is impossible. Therefore AF is not parallel to BE."
+  },
+  {
+    "id": "p-c9f447",
+    "offset": 50743,
+    "text": "Similarly we can prove that neither is any other straight line except AD; therefore AD is parallel to BE."
+  },
+  {
+    "id": "p-c05c57",
+    "offset": 50850,
+    "text": "Therefore etc. Q. E. D.]"
+  },
+  {
+    "id": "p-cf355a",
+    "offset": 50876,
+    "text": "Enunciation If a parallelogram have the same base with a triangle and be in the same parallels, the parallelogram is double of the triangle."
+  },
+  {
+    "id": "p-acf8b5",
+    "offset": 51018,
+    "text": "Proof. For let the parallelogram ABCD have the same base BC with the triangle EBC, and let it be in the same parallels BC, AE;"
+  },
+  {
+    "id": "p-baa885",
+    "offset": 51146,
+    "text": "I say that the parallelogram ABCD is double of the triangle BEC."
+  },
+  {
+    "id": "p-c35dd8",
+    "offset": 51212,
+    "text": "For let AC be joined."
+  },
+  {
+    "id": "p-fd1133",
+    "offset": 51235,
+    "text": "Then the triangle ABC is equal to the triangle EBC; for it is on the same base BC with it and in the same parallels BC, AE. [ I. 37]"
+  },
+  {
+    "id": "p-6afe32",
+    "offset": 51369,
+    "text": "But the parallelogram ABCD is double of the triangle ABC; for the diameter AC bisects it; [ I. 34] so that the parallelogram ABCD is also double of the triangle EBC."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 51536,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 51552,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-862c49",
+    "offset": 51562,
+    "text": "Enunciation To construct, in a given rectilineal angle, a parallelogram equal to a given triangle."
+  },
+  {
+    "id": "p-dc4753",
+    "offset": 51662,
+    "text": "Proof. Let ABC be the given triangle, and D the given rectilineal angle; thus it is required to construct in the rectilineal angle D a parallelogram equal to the triangle ABC."
+  },
+  {
+    "id": "p-64e5b1",
+    "offset": 51839,
+    "text": "Let BC be bisected at E, and let AE be joined; on the straight line EC, and at the point E on it, let the angle CEF be constructed equal to the angle D; [ I. 23] through A let AG be drawn parallel to EC, and [ I. 31] through C let CG be drawn parallel to EF."
+  },
+  {
+    "id": "p-dbc718",
+    "offset": 52099,
+    "text": "Then FECG is a parallelogram."
+  },
+  {
+    "id": "p-f8168a",
+    "offset": 52130,
+    "text": "And, since BE is equal to EC, the triangle ABE is also equal to the triangle AEC, for they are on equal bases BE, EC and in the same parallels BC, AG; [ I. 38] therefore the triangle ABC is double of the triangle AEC."
+  },
+  {
+    "id": "p-b5d8cc",
+    "offset": 52349,
+    "text": "But the parallelogram FECG is also double of the triangle AEC, for it has the same base with it and is in the same parallels with it; [ I. 41] therefore the parallelogram FECG is equal to the triangle ABC."
+  },
+  {
+    "id": "p-0aa757",
+    "offset": 52556,
+    "text": "And it has the angle CEF equal to the given angle D."
+  },
+  {
+    "id": "p-1b39bd",
+    "offset": 52610,
+    "text": "Therefore the parallelogram FECG has been constructed equal to the given triangle ABC, in the angle CEF which is equal to D. Q. E. F."
+  },
+  {
+    "id": "p-358375",
+    "offset": 52745,
+    "text": "Enunciation In any parallelogram the complements of the parallelograms about the diameter are equal to one another."
+  },
+  {
+    "id": "p-8ccb6f",
+    "offset": 52862,
+    "text": "Proof. Let ABCD be a parallelogram, and AC its diameter; and about AC let EH, FG be parallelograms, and BK, KD the so-called complements;"
+  },
+  {
+    "id": "p-f94a4d",
+    "offset": 53001,
+    "text": "I say that the complement BK is equal to the complement KD."
+  },
+  {
+    "id": "p-31d1bb",
+    "offset": 53062,
+    "text": "For, since ABCD is a parallelogram, and AC its diameter, the triangle ABC is equal to the triangle ACD. [ I. 34]"
+  },
+  {
+    "id": "p-eaa983",
+    "offset": 53176,
+    "text": "Again, since EH is a parallelogram, and AK is its diameter, the triangle AEK is equal to the triangle AHK."
+  },
+  {
+    "id": "p-c2c562",
+    "offset": 53284,
+    "text": "For the same reason the triangle KFC is also equal to KGC."
+  },
+  {
+    "id": "p-30a0e0",
+    "offset": 53344,
+    "text": "Now, since the triangle AEK is equal to the triangle AHK, and KFC to KGC, the triangle AEK together with KGC is equal to the triangle AHK together with KFC. [ C.N. 2]"
+  },
+  {
+    "id": "p-5a19de",
+    "offset": 53512,
+    "text": "And the whole triangle ABC is also equal to the whole ADC; therefore the complement BK which remains is equal to the complement KD which remains. [ C.N. 3]"
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 53669,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 53685,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-7f3a01",
+    "offset": 53695,
+    "text": "Enunciation To a given straight line to apply, in a given rectilineal angle, a parallelogram equal to a given triangle."
+  },
+  {
+    "id": "p-6ad1b2",
+    "offset": 53816,
+    "text": "Proof. Let AB be the given straight line, C the given triangle and D the given rectilineal angle; thus it is required to apply to the given straight line AB, in an angle equal to the angle D, a parallelogram equal to the given triangle C."
+  },
+  {
+    "id": "p-db74f2",
+    "offset": 54056,
+    "text": "Let the parallelogram BEFG be constructed equal to the triangle C, in the angle EBG which is equal to D [ I. 42]; let it be placed so that BE is in a straight line with AB; let FG be drawn through to H, and let AH be drawn through A parallel to either BG or EF. [ I. 31]"
+  },
+  {
+    "id": "p-b43875",
+    "offset": 54328,
+    "text": "Let HB be joined."
+  },
+  {
+    "id": "p-88053f",
+    "offset": 54347,
+    "text": "Then, since the straight line HF falls upon the parallels AH, EF, the angles AHF, HFE are equal to two right angles. [ I. 29] Therefore the angles BHG, GFE are less than two right angles; and straight lines produced indefinitely from angles less than two right angles meet; [ Post. 5] therefore HB, FE, when produced, will meet."
+  },
+  {
+    "id": "p-0647d2",
+    "offset": 54677,
+    "text": "Let them be produced and meet at K; through the point K let KL be drawn parallel to either EA or FH, [ I. 31] and let HA, GB be produced to the points L, M."
+  },
+  {
+    "id": "p-79914a",
+    "offset": 54835,
+    "text": "Then HLKF is a parallelogram, HK is its diameter, and AG, ME are parallelograms. and LB, BF the so-called complements, about HK; therefore LB is equal to BF. [ I. 43]"
+  },
+  {
+    "id": "p-50c782",
+    "offset": 55003,
+    "text": "But BF is equal to the triangle C; therefore LB is also equal to C. [ C.N. 1]"
+  },
+  {
+    "id": "p-683014",
+    "offset": 55082,
+    "text": "And, since the angle GBE is equal to the angle ABM, [ I. 15] while the angle GBE is equal to D, the angle ABM is also equal to the angle D."
+  },
+  {
+    "id": "p-fb5a72",
+    "offset": 55223,
+    "text": "Therefore the parallelogram LB equal to the given triangle C has been applied to the given straight line AB, in the angle ABM which is equal to D."
+  },
+  {
+    "id": "p-a470f0",
+    "offset": 55371,
+    "text": "Q. E. F."
+  },
+  {
+    "id": "p-ebc4b5",
+    "offset": 55381,
+    "text": "Enunciation To construct, in a given rectilineal angle, a parallelogram equal to a given rectilineal figure."
+  },
+  {
+    "id": "p-33f216",
+    "offset": 55491,
+    "text": "Proof. Let ABCD be the given rectilineal figure and E the given rectilineal angle; thus it is required to construct, in the given angle E, a parallelogram equal to the rectilineal figure ABCD."
+  },
+  {
+    "id": "p-f4f7e0",
+    "offset": 55685,
+    "text": "Let DB be joined, and let the parallelogram FH be constructed equal to the triangle ABD, in the angle HKF which is equal to E; [ I. 42] let the parallelogram GM equal to the triangle DBC be applied to the straight line GH, in the angle GHM which is equal to E. [ I. 44]"
+  },
+  {
+    "id": "p-c7fb17",
+    "offset": 55956,
+    "text": "Then, since the angle E is equal to each of the angles HKF, GHM, the angle HKF is also equal to the angle GHM. [ C.N. 1]"
+  },
+  {
+    "id": "p-170d87",
+    "offset": 56078,
+    "text": "Let the angle KHG be added to each; therefore the angles FKH, KHG are equal to the angles KHG, GHM."
+  },
+  {
+    "id": "p-ad4275",
+    "offset": 56179,
+    "text": "But the angles FKH, KHG are equal to two right angles; [ I. 29] therefore the angles KHG, GHM are also equal to two right angles."
+  },
+  {
+    "id": "p-0ca2b0",
+    "offset": 56310,
+    "text": "Thus, with a straight line GH, and at the point H on it, two straight lines KH, HM not lying on the same side make the adjacent angles equal to two right angles; therefore KH is in a straight line with HM. [ I. 14]"
+  },
+  {
+    "id": "p-3995ad",
+    "offset": 56526,
+    "text": "And, since the straight line HG falls upon the parallels KM, FG, the alternate angles MHG, HGF are equal to one another. [ I. 29]"
+  },
+  {
+    "id": "p-5d5a0d",
+    "offset": 56657,
+    "text": "Let the angle HGL be added to each; therefore the angles MHG, HGL are equal to the angles HGF, HGL. [ C.N. 2]"
+  },
+  {
+    "id": "p-7c2a8c",
+    "offset": 56768,
+    "text": "But the angles MHG, HGL are equal to two right angles; [ I. 29] therefore the angles HGF, HGL are also equal to two right angles. [ C.N. 1] Therefore FG is in a straight line with GL. [ I. 14]"
+  },
+  {
+    "id": "p-dbdea1",
+    "offset": 56962,
+    "text": "And, since FK is equal and parallel to HG, [ I. 34] and HG to ML also, KF is also equal and parallel to ML; [ C.N. 1; I. 30] and the straight lines KM, FL join them (at their extremities); therefore KM, FL are also equal and parallel. [ I. 33] Therefore KFLM is a parallelogram."
+  },
+  {
+    "id": "p-417b89",
+    "offset": 57242,
+    "text": "And, since the triangle ABD is equal to the parallelogram FH, and DBC to GM, the whole rectilineal figure ABCD is equal to the whole parallelogram KFLM."
+  },
+  {
+    "id": "p-690e08",
+    "offset": 57396,
+    "text": "Therefore the parallelogram KFLM has been constructed equal to the given rectilineal figure ABCD, in the angle FKM which is equal to the given angle E."
+  },
+  {
+    "id": "p-a470f0",
+    "offset": 57549,
+    "text": "Q. E. F."
+  },
+  {
+    "id": "p-3928e6",
+    "offset": 57559,
+    "text": "Enunciation On a given straight line to describe a square."
+  },
+  {
+    "id": "p-5d470f",
+    "offset": 57619,
+    "text": "Proof. Let AB be the given straight line; thus it is required to describe a square on the straight line AB."
+  },
+  {
+    "id": "p-2058b5",
+    "offset": 57728,
+    "text": "Let AC be drawn at right angles to the straight line AB from the point A on it [ I. 11], and let AD be made equal to AB; through the point D let DE be drawn parallel to AB, and through the point B let BE be drawn parallel to AD. [ I. 31]"
+  },
+  {
+    "id": "p-881e13",
+    "offset": 57967,
+    "text": "Therefore ADEB is a parallelogram; therefore AB is equal to DE, and AD to BE. [ I. 34]"
+  },
+  {
+    "id": "p-f88a50",
+    "offset": 58055,
+    "text": "But AB is equal to AD; therefore the four straight lines BA, AD, DE, EB are equal to one another; therefore the parallelogram ADEB is equilateral."
+  },
+  {
+    "id": "p-e55ce3",
+    "offset": 58203,
+    "text": "I say next that it is also right-angled."
+  },
+  {
+    "id": "p-1968ba",
+    "offset": 58245,
+    "text": "For, since the straight line AD falls upon the parallels AB, DE, the angles BAD, ADE are equal to two right angles. [ I. 29]"
+  },
+  {
+    "id": "p-750765",
+    "offset": 58371,
+    "text": "But the angle BAD is right; therefore the angle ADE is also right."
+  },
+  {
+    "id": "p-f5b970",
+    "offset": 58439,
+    "text": "And in parallelogrammic areas the opposite sides and angles are equal to one another; [ I. 34] therefore each of the opposite angles ABE, BED is also right. Therefore ADEB is right-angled."
+  },
+  {
+    "id": "p-0b9def",
+    "offset": 58629,
+    "text": "And it was also proved equilateral."
+  },
+  {
+    "id": "p-8a7ad4",
+    "offset": 58666,
+    "text": "Therefore it is a square; and it is described on the straight line AB."
+  },
+  {
+    "id": "p-a470f0",
+    "offset": 58738,
+    "text": "Q. E. F."
+  },
+  {
+    "id": "p-233aeb",
+    "offset": 58748,
+    "text": "Enunciation In right-angled triangles the square on the side subtending the right angle is equal to the squares on the sides containing the right angle."
+  },
+  {
+    "id": "p-6fa740",
+    "offset": 58902,
+    "text": "Proof. Let ABC be a right-angled triangle having the angle BAC right;"
+  },
+  {
+    "id": "p-180060",
+    "offset": 58973,
+    "text": "I say that the square on BC is equal to the squares on BA, AC."
+  },
+  {
+    "id": "p-2cda65",
+    "offset": 59037,
+    "text": "For let there be described on BC the square BDEC, and on BA, AC the squares GB, HC; [ I. 46] through A let AL be drawn parallel to either BD or CE, and let AD, FC be joined."
+  },
+  {
+    "id": "p-e2b669",
+    "offset": 59212,
+    "text": "Then, since each of the angles BAC, BAG is right, it follows that with a straight line BA, and at the point A on it, the two straight lines AC, AG not lying on the same side make the adjacent angles equal to two right angles; therefore CA is in a straight line with AG. [ I. 14]"
+  },
+  {
+    "id": "p-6bd051",
+    "offset": 59492,
+    "text": "For the same reason BA is also in a straight line with AH."
+  },
+  {
+    "id": "p-d48282",
+    "offset": 59552,
+    "text": "And, since the angle DBC is equal to the angle FBA: for each is right: let the angle ABC be added to each; therefore the whole angle DBA is equal to the whole angle FBC. [ C.N. 2]"
+  },
+  {
+    "id": "p-a7d87e",
+    "offset": 59733,
+    "text": "And, since DB is equal to BC, and FB to BA, the two sides AB, BD are equal to the two sides FB, BC respectively, and the angle ABD is equal to the angle FBC; therefore the base AD is equal to the base FC, and the triangle ABD is equal to the triangle FBC. [ I. 4]"
+  },
+  {
+    "id": "p-2afb43",
+    "offset": 59998,
+    "text": "Now the parallelogram BL is double of the triangle ABD, for they have the same base BD and are in the same parallels BD, AL. [ I. 41]"
+  },
+  {
+    "id": "p-87180b",
+    "offset": 60133,
+    "text": "And the square GB is double of the triangle FBC, for they again have the same base FB and are in the same parallels FB, GC. [ I. 41]"
+  },
+  {
+    "id": "p-69c588",
+    "offset": 60267,
+    "text": "[But the doubles of equals are equal to one another.] Therefore the parallelogram BL is also equal to the square GB."
+  },
+  {
+    "id": "p-b1d662",
+    "offset": 60385,
+    "text": "Similarly, if AE, BK be joined, the parallelogram CL can also be proved equal to the square HC; therefore the whole square BDEC is equal to the two squares GB, HC. [ C.N. 2]"
+  },
+  {
+    "id": "p-966257",
+    "offset": 60560,
+    "text": "And the square BDEC is described on BC, and the squares GB, HC on BA, AC."
+  },
+  {
+    "id": "p-f28ff1",
+    "offset": 60635,
+    "text": "Therefore the square on the side BC is equal to the squares on the sides BA, AC."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 60717,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 60733,
+    "text": "Q. E. D."
+  },
+  {
+    "id": "p-fee99e",
+    "offset": 60743,
+    "text": "Enunciation If in a triangle the square on one of the sides be equal to the squares on the remaining two sides of the triangle, the angle contained by the remaining two sides of the triangle is right."
+  },
+  {
+    "id": "p-b53d3f",
+    "offset": 60945,
+    "text": "Proof. For in the triangle ABC let the square on one side BC be equal to the squares on the sides BA, AC;"
+  },
+  {
+    "id": "p-55c219",
+    "offset": 61052,
+    "text": "I say that the angle BAC is right."
+  },
+  {
+    "id": "p-49c0dd",
+    "offset": 61088,
+    "text": "For let AD be drawn from the point A at right angles to the straight line AC, let AD be made equal to BA, and let DC be joined."
+  },
+  {
+    "id": "p-f6e0f6",
+    "offset": 61217,
+    "text": "Since DA is equal to AB, the square on DA is also equal to the square on AB."
+  },
+  {
+    "id": "p-2d7dfc",
+    "offset": 61295,
+    "text": "Let the square on AC be added to each; therefore the squares on DA, AC are equal to the squares on BA, AC."
+  },
+  {
+    "id": "p-4579cf",
+    "offset": 61403,
+    "text": "But the square on DC is equal to the squares on DA, AC, for the angle DAC is right; [ I. 47] and the square on BC is equal to the squares on BA, AC, for this is the hypothesis; therefore the square on DC is equal to the square on BC, so that the side DC is also equal to BC."
+  },
+  {
+    "id": "p-86e055",
+    "offset": 61679,
+    "text": "And, since DA is equal to AB, and AC is common, the two sides DA, AC are equal to the two sides BA, AC; and the base DC is equal to the base BC; therefore the angle DAC is equal to the angle BAC. [ I. 8] But the angle DAC is right; therefore the angle BAC is also right."
+  },
+  {
+    "id": "p-a95ec2",
+    "offset": 61951,
+    "text": "Therefore etc."
+  },
+  {
+    "id": "p-047604",
+    "offset": 61967,
+    "text": "Q. E. D."
+  }
+]

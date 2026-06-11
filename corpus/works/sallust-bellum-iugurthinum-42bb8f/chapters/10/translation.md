@@ -1,0 +1,25 @@
+---
+work_id: "42bb8ffd-42cc-5876-ac1a-70a998d0ec3b"
+work_slug: "sallust-bellum-iugurthinum-42bb8f"
+work_title: Bellum Iugurthinum
+author_name: Sallust
+chapter_number: 10
+chapter_title: Chapter 10
+chapter_slug: 10
+variant_id: "fd9d6f16-82d8-5720-9680-ff73e3287fdb"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 399
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi002.perseus-eng2:10"
+translator: Perseus Digital Library
+---
+
+"I received you, Jugurtha, at a very early age, into my kingdom, at a time when you had lost your father, and were without prospects or resources, expecting that, in return for my kindness, I should not be less loved by you than by my own children, if I should have any. Nor have my anticipations deceived me; for, to say nothing of your other great and noble deeds, you have lately, on your return from Numantia, brought honor and glory both to me and my kingdom; by your bravery, you have rendered the Romans, from being previously our friends, more friendly to us than ever; the name of our family is revived in Spain; and, finally, what is most difficult among mankind, you have suppressed envy by preeminent merit.
+
+"And now, since nature is putting a period to my life, I exhort and conjure you, by this right hand, and by the fidelity which you owe to my kingdom, to regard these princes, who are your cousins by birth, and your brothers by my generosity, with sincere affection; and not to be more anxious to attach to yourself strangers, than to retain the love of those connected with you by blood. It is not armies, or treasures, that form the defenses of a kingdom, but friends, whom you can neither command by force nor purchase with gold; for they are acquired only by good offices and integrity. And who can be a greater friend than one brother to another? Or what stranger will you find faithful, if you are at enmity with your own family? I leave you a kingdom, which will be strong if you act honorably, but weak, if you are ill-affected to each other; for by concord even small states are increased, but by discord, even the greatest fall to nothing.
+
+"But on you, Jugurtha, who are superior in age and wisdom, it is incumbent, more than on your brothers, to be cautions that nothing of a contrary tendency may arise; for, in all disputes, he that is the stronger, even though he receive the injury, appears, because his power is greater, to have inflicted it. And do you, Adherbal and Hiempsal, respect and regard a kinsman of such a character; imitate his virtues, and make it your endeavor to show that I have not adopted a better son than those whom I have begotten."

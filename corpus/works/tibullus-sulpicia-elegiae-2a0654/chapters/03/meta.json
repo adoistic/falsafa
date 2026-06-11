@@ -1,0 +1,26 @@
+{
+  "work_slug": "tibullus-sulpicia-elegiae-2a0654",
+  "work_title": "Sulpicia Elegiae",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ca39d36-ef48-5096-86a2-c9c50c659d3a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 51,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0660.phi003.perseus-eng2:3"
+    }
+  ]
+}

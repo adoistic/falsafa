@@ -1,0 +1,29 @@
+---
+work_id: "44a491b9-8d1b-555b-991a-080119bb4b2a"
+work_slug: "plutarch-nicias-44a491"
+work_title: Nicias
+author_name: Plutarch
+chapter_number: 14
+chapter_title: Chapter 14
+chapter_slug: 14
+variant_id: "82213087-231b-5ff8-9a7f-0efbce188291"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 550
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg038.perseus-eng2:14"
+translator: Bernadotte Perrin
+---
+
+Now, that Nicias should oppose the voting of the expedition, and should not be so buoyed up by vain hopes nor so crazed by the magnitude of his command as to change his real opinion,—this marked him as a man of honesty and discretion. But when he availed naught either in his efforts to divert the people from the war or in his desire to be relieved of his command,—the people as it were picking him up bodily and setting him over their forces as general,— then it was no longer a time for the exceeding caution and hesitation which he displayed, gazing back homewards from his ship like a child, and many times resuming and dwelling on the thought that the people had not yielded to his reasonings, till he took the edge from the zeal of his colleagues in command and lost the fittest time for action. He ought rather at once to have engaged the enemy at close quarters and put fortune to the test in struggles for the mastery.
+
+Instead of this, while Lamachus urged that they sail direct to Syracuse and give battle close to the city, and Alcibiades that they rob the Syracusans of their allied cities first and then proceed against them, Nicias proposed and urged in opposition that they make their way quietly by sea along the coasts of Sicily, circumnavigate the island, make a display of their troops and triremes, and then sail back to Athens, after having first culled out a small part of their force to give the Egestaeans a taste of succor. In this way he soon relaxed the resolution and depressed the spirits of his men.
+
+After a little while the Athenians summoned Alcibiades home to stand his trial, and then Nicias, who nominally had still a colleague in the command, but really wielded sole power, made no end of sitting idle, or cruising aimlessly about, or taking deliberate counsel, until the vigorous hopes of his men grew old and feeble, and the consternation and fear with which the first sight of his forces had filled his enemies slowly subsided.
+
+While Alcibiades was yet with the fleet, sixty ships sailed for Syracuse, of which fifty lay out in the offing, drawn up so as to command the harbor, while ten rowed in to reconnoiter. These made formal proclamation by voice of herald that the people of Leontini should return to their homes. They also captured a ship of the enemy with tablets on board in which the Syracusans had recorded lists of the citizens by tribes. These lists had been deposited at some distance from the city, in the sanctuary of Olympian Zeus, but had been sent for at that time with a view to determining and enrolling those who had come to military age.
+
+Now when these had been captured by the Athenians and brought to their generals, and the number of names was seen, the soothsayers were in distress lest in this circumstance lie the fulfillment of what was predicted by the oracle which said: The Athenians shall take all the Syracusans. However, they say that it was in another circumstance altogether that this prophecy was fulfilled for the Athenians, namely, at the time when Callippus the Athenian slew Dion and got possession of Syracuse.

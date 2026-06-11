@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-alexander-1ed01a",
+  "work_title": "Alexander",
+  "chapter_number": 31,
+  "chapter_title": "Chapter 31",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fc5bd12e-1cde-5834-9722-feac46afe62a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 397,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg047.perseus-grc2:31"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "00aeba16-1cf1-57ca-947f-fe49fe0e0609",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 592,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg047.perseus-eng2:31"
+    }
+  ]
+}

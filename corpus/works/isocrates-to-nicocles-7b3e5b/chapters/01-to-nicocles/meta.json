@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-to-nicocles-7b3e5b",
+  "work_title": "To Nicocles",
+  "chapter_number": 1,
+  "chapter_title": "To Nicocles",
+  "chapter_slug": "01-to-nicocles",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7cf9359c-939f-5aa8-881f-69920d618b9c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2994,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg013.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "846e31f2-25d8-5a75-b170-f0c0b7ed8fe0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4479,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg013.perseus-eng2"
+    }
+  ]
+}

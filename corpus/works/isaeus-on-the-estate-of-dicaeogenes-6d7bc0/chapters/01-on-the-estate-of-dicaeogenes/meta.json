@@ -1,0 +1,38 @@
+{
+  "work_slug": "isaeus-on-the-estate-of-dicaeogenes-6d7bc0",
+  "work_title": "On the Estate of Dicaeogenes",
+  "chapter_number": 1,
+  "chapter_title": "On the Estate of Dicaeogenes",
+  "chapter_slug": "01-on-the-estate-of-dicaeogenes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e721b22a-1584-58ce-a6d6-fb611ad25dfa",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3084,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg005.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4fb008f4-5173-5317-ac30-3d6bd51a6bef",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4679,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg005.perseus-eng2"
+    }
+  ]
+}

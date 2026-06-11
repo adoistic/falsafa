@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-agesilaus-4ad6b6",
+  "work_title": "Agesilaus",
+  "chapter_number": 11,
+  "chapter_title": "Chapter 11",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c5aea7c4-fc2a-540b-8741-e23e9a083b26",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 384,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg044.perseus-grc2:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10b29f22-07fb-5cbe-ab35-354d229202bb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 547,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg044.perseus-eng2:11"
+    }
+  ]
+}

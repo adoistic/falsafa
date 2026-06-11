@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-juppiter-tragoedus-51b28f",
+  "work_title": "Juppiter Tragoedus",
+  "chapter_number": 1,
+  "chapter_title": "Juppiter Tragoedus",
+  "chapter_slug": "01-juppiter-tragoedus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d7b202ad-b3e2-54d9-a991-c1a413f0de37",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6711,
+      "paragraph_count": 232,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg018.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "710faec0-963c-54e0-9f73-19f601857754",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9060,
+      "paragraph_count": 200,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg018.perseus-eng5"
+    }
+  ]
+}

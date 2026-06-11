@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-euthydemus-f5912a",
+  "work_title": "Euthydemus",
+  "chapter_number": 1,
+  "chapter_title": "Euthydemus",
+  "chapter_slug": "01-euthydemus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "295c605d-0109-54d8-904d-744a90fba938",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 12544,
+      "paragraph_count": 718,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg021.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ef59c52b-5776-5b69-88c7-842ba66cc140",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 17056,
+      "paragraph_count": 687,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg021.perseus-eng2"
+    }
+  ]
+}

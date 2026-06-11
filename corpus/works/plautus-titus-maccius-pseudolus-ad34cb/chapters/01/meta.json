@@ -1,0 +1,39 @@
+{
+  "work_slug": "plautus-titus-maccius-pseudolus-ad34cb",
+  "work_title": "Pseudolus",
+  "chapter_number": 1,
+  "chapter_title": "Chapter front",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d129c0ac-bc13-5b8c-a12a-4d4cfd3b4bd7",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4746,
+      "paragraph_count": 603,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi016.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9e1996b4-6866-5bc5-9ccd-105ee5690dfc",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 537,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi016.perseus-eng2:1"
+    }
+  ]
+}

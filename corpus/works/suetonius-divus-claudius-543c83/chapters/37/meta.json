@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-divus-claudius-543c83",
+  "work_title": "Divus Claudius",
+  "chapter_number": 37,
+  "chapter_title": "Chapter 37",
+  "chapter_slug": "37",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3cd5b0ff-67e4-5228-89a7-8165e0451665",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 99,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo015.perseus-lat2:37"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7730228b-c034-5d97-9b71-e8d9fc5b5d62",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 264,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo015.perseus-eng2:37"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-garrulitate-13baaa",
+  "work_title": "De Garrulitate",
+  "chapter_number": 1,
+  "chapter_title": "De Garrulitate",
+  "chapter_slug": "01-de-garrulitate",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4e9768db-f259-5ce5-8b65-5aeb796e1232",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5870,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg101.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5706bad1-5e95-5012-a2e4-d99a4e81885d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11288,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg101.perseus-eng4"
+    }
+  ]
+}

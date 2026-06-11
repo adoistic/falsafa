@@ -14,7 +14,7 @@ package's `prepack` hook, which depends on the source tree's `corpus/`
 directory and `bun`. Registry installs ship the corpus pre-bundled in the
 tarball.
 
-> **First run downloads ~48 MB** (the corpus ships inside the tarball). If
+> **First run downloads the corpus snapshot (~185 MB compressed, ~800 MB on disk)** from a GitHub release into your cache directory, verifies its checksum, and builds a local search index. The npm package itself is ~100 KB. If
 > your MCP client's startup timeout is short — Claude Code in particular —
 > run `npx -y @falsafa/mcp` once in a terminal first. npm caches the
 > package, and your client's spawn resolves instantly thereafter.

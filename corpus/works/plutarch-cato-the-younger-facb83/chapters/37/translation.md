@@ -1,0 +1,29 @@
+---
+work_id: "facb8376-83b5-5212-98b7-d55b52cc4cd3"
+work_slug: "plutarch-cato-the-younger-facb83"
+work_title: Cato the Younger
+author_name: Plutarch
+chapter_number: 37
+chapter_title: Chapter 37
+chapter_slug: 37
+variant_id: "b02cc611-8cdc-5cf8-80e7-548e34dd5168"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 452
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg050.perseus-eng2:37"
+translator: Bernadotte Perrin
+---
+
+Munatius, however, states that his anger arose, not from Cato’s distrust of him, but from his inconsiderate conduct towards him, and from a certain jealousy which Munatius himself felt towards Canidius. For Munatius himself also published a treatise about Cato, which Thrasea chiefly followed.
+
+Munatius says that he came to Cyprus after the others, and found that no provision had been made for his entertainment; he says, too, that on going to Cato’s door he was repulsed, because Cato had some engagement inside with Canidius. He says, further, that his measured protest met with no measured reply, for Cato told him that excessive affection, according to Theophrastus, was likely to become a ground for hatred in many cases. And so thou too, said Cato, by reason of thine especial affection for me, art vexed to think thyself less honoured than is meet.
+
+Canidius I employ more than others both because I have made trial of him, and because I trust him; he came at the very first, and shows himself to be incorrupt. This private conversation, however, between himself and Cato, Munatius says was reported by Cato to Canidius, and that therefore, when he heard of it, he would no longer go to Cato’s table, or visit him, or share his counsels, when he was invited. Further, Munatius says, when Cato threatened to take security from him, as the Romans do in the case of those who refuse to obey orders, he paid no attention to the threat, but sailed away, and for a long time continued to be angry with Cato.
+
+Then, Munatius says, Marcia, who was still living with Cato, spoke with her husband about the matter; and when it chanced that both men were invited to supper by Barca, Cato, who came late and after the others had taken their places, asked where he should recline; and when Barca told him to recline where he pleased, Cato looked about the room and said: I will take my place by Munatius. So he went round and reclined by his side, but made no further show of friendship during the supper.
+
+Marcia, however, made a second request in the matter, Munatius says, and Cato wrote to him, saying that he wished to confer with him about something. So Munatius went to Cato’s house early in the morning, and was detained there by Marcia until all the other visitors had gone away. Then Cato came in, threw both arms about him, kissed him, and lavished kindness upon him. Such incidents, now, in my opinion, quite as much as deeds of greatness and publicity, shed considerable light upon the perception and manifestation of character, and I have therefore recounted them at greater length.

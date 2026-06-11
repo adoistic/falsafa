@@ -1,0 +1,39 @@
+{
+  "work_slug": "homer-iliad-056ee9",
+  "work_title": "Iliad",
+  "chapter_number": 9,
+  "chapter_title": "Book 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1d77b5dc-924f-565f-ad88-afc54ca06540",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5093,
+      "paragraph_count": 709,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ca645451-2fb1-5245-aea4-112468cd36d3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 7071,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:9"
+    }
+  ]
+}

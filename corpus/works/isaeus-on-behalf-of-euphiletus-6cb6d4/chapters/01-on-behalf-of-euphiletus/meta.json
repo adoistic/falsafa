@@ -1,0 +1,38 @@
+{
+  "work_slug": "isaeus-on-behalf-of-euphiletus-6cb6d4",
+  "work_title": "On Behalf of Euphiletus",
+  "chapter_number": 1,
+  "chapter_title": "On Behalf of Euphiletus",
+  "chapter_slug": "01-on-behalf-of-euphiletus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f64c1b14-2671-5fe4-89bd-4338e59be858",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 951,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg012.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b3eaa13a-0bb9-51ab-bd4f-4be7f62283b7",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1301,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg012.perseus-eng2"
+    }
+  ]
+}

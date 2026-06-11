@@ -1,0 +1,29 @@
+---
+work_id: "91f85b97-392f-51c9-8c9e-3eb578f81a67"
+work_slug: "lucian-of-samosata-dialogi-deorum-91f85b"
+work_title: Dialogi deorum
+author_name: Lucian of Samosata
+chapter_number: 13
+chapter_title: Book 18
+chapter_slug: 13
+variant_id: "0dcba5ae-db11-5073-bf40-9aa310218e59"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 366
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg068.perseus-eng4:13"
+translator: Francis George Fowler
+---
+
+Hera: Well, Zeus, I should be ashamed if I had such a son; so effeminate, and so given to drinking; tying up his hair in a ribbon, indeed! and spending most of his time among mad women, himself as much a woman as any of them; dancing to flute and drum and cymbal! He resembles any one rather than his father.
+
+Zeus: Anyhow, my dear, this wearer of ribbons, this woman among women, not content with conquering Lydia, subduing Thrace, and enthralling the people of Tmolus, has been on an expedition all the way to India with his womanish host, captured elephants, taken possession of the country, and led their king captive after a brief resistance. And he never stopped dancing all the time, never relinquished the thyrsus and the ivy; always drunk (as you say) and always inspired! If any scoffer presumes to make light of his ceremonial, he does not go unpunished; he is bound with vine-twigs; or his own mother mistakes him for a fawn, and tears him limb from limb. Are not these manful doings, worthy of a son of Zeus? No doubt he is fond of his comforts, too, and his amusements; we need not complain of that: you may judge from his drunken achievements, what a handful the fellow would be if he were sober.
+
+Hera: I suppose you will tell me next, that the invention of wine is very much to his credit; though you see for yourself how drunken men stagger about and misbehave themselves; one would think the liquor had made them mad. Look at Icarius, the first to whom he gave the vine: beaten to death with mattocks by his own boon companions!
+
+Zeus: Pooh, nonsense. That is not Dionysus’s fault, nor the wine’s fault; it comes of the immoderate use of it. Men will drink their wine neat, and drink too much of it. Taken in moderation, it engenders cheerfulness and benevolence. Dionysus is not likely to treat any of his guests as Icarius was treated. —No; I see what it is:—you are jealous, my love; you can’t forget about Semele, and so you must disparage the noble achievements of her son.
+
+Francis George Fowler

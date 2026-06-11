@@ -1,0 +1,38 @@
+{
+  "work_slug": "isaeus-on-the-estate-of-cleonymus-09d83b",
+  "work_title": "On The Estate of Cleonymus",
+  "chapter_number": 1,
+  "chapter_title": "On The Estate of Cleonymus",
+  "chapter_slug": "01-on-the-estate-of-cleonymus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8f3ec0b4-566d-5c8a-9da6-935e38f8dd04",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2716,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ee5ff359-0585-58d2-9b1f-4349777a34be",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3882,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg001.perseus-eng2"
+    }
+  ]
+}

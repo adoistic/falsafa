@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 36,
+  "chapter_title": "CHAPTER V. OF RENT, IN ITS RELATION TO VALUE.",
+  "chapter_slug": "36",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "667d25c4-e01d-533a-808e-12282913c2d5",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3927,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

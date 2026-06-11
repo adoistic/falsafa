@@ -1,0 +1,23 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 65
+chapter_title: Chapter 4
+chapter_slug: 65
+variant_id: "6160bc26-d57d-5f42-8f97-2ab12aac6117"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 643
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:65"
+translator: Perseus Digital Library
+---
+
+And the things which I have said about Caesar and about his army, are, indeed, already well known to you. For by the admirable valor of Caesar, and by the firmness of the veteran soldiers, and by the admirable discernment of those legions which have followed our authority, and the liberty of the Roman people, and the valor of Caesar, Antonius has been repelled from his attempts upon our lives. But these things, as I have said, happened before; but this recent edict of Decimus Brutus, which has just been issued, can certainly not be passed over in silence. For he promises to preserve the province of Gaul in obedience to the senate and people of Rome. O citizen, born for the republic; mindful of the name he bears; imitator of his ancestors! Nor, indeed, was the acquisition of liberty so much an object of desire to our ancestors when Tarquinius was expelled, as, now that Antonius is driven away, the preservation of it is to us. Those men had learned to obey kings ever since the foundation of the city, but we from the time when the kings were driven out have forgotten how to be slaves. And that Tarquinius, whom our ancestors expelled, was not either considered or called cruel or impious, but only The Proud. That vice which we have often borne in private individuals, our ancestors could not endure even in a king.
+
+Lucius Brutus could not endure a proud king. Shall Decimus Brutus submit to the kingly power of a man who is wicked and impious? What atrocity did Tarquinius ever commit equal to the innumerable acts of the sort which Antonius has done and is still doing? Again, the kings were used to consult the senate; nor, as is the ease when Antonius holds a senate, were armed barbarians ever introduced into the council of the king. The kings paid due regard to the auspices, which this man, though consul and augur, has neglected, not only by passing laws in opposition to the auspices but also by making his colleague (whom he himself had appointed irregularly, and had falsified the auspices in order to do so) join in passing them. Again, what king was ever so preposterously impudent as to have all the profits and kindnesses, and privileges of his kingdom on sale? But what immunity is there, what rights of citizenship, what rewards that this man has not sold to individuals and to cities and to entire provinces.? We have never heard of anything base or sordid being imputed to Tarquinius. But at the house of this man gold was constantly being weighed out in the spinning room, and money was being paid, and in one single house every soul who had any interest in the business was selling the whole empire of the Roman people. We have never heard of any executions of Roman citizens by the orders of Tarquinius; but this man both at Suessa murdered the man whom he had thrown into prison, and at Brundusium massacred about three hundred most gallant men and most virtuous citizens. Lastly, Tarquinius was conducting a war in defense of the Roman people at the very time when he was expelled. Antonius was leading an army against the Roman people at the time when, being abandoned by the legions, he cowered at the name of Caesar and at his army, and neglecting the regular sacrifices, he offered up before daylight vows which he could never mean to perform; and at this very moment he is endeavoring to invade a province of the Roman people. The Roman people, therefore, has already received and is still looking for greater services at the hand of Decimus Brutus than our ancestors received from Lucius Brutus, the founder of this race and name which we ought to be so anxious to preserve.

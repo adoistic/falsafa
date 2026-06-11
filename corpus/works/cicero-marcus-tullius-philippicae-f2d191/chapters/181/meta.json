@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-philippicae-f2d191",
+  "work_title": "Philippicae",
+  "chapter_number": 181,
+  "chapter_title": "Chapter 8",
+  "chapter_slug": "181",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8323277-d200-5ce9-aa90-c1eb14d28999",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 423,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:181"
+    }
+  ]
+}

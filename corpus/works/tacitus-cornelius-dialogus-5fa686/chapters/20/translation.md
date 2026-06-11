@@ -1,0 +1,21 @@
+---
+work_id: "5fa68674-5128-526b-ad8e-7e50aa516351"
+work_slug: "tacitus-cornelius-dialogus-5fa686"
+work_title: Dialogus
+author_name: Tacitus, Cornelius
+chapter_number: 20
+chapter_title: Chapter 20
+chapter_slug: 20
+variant_id: "ada1e416-3892-5bf0-bf8e-bf8d66e3f414"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 350
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi003.perseus-eng1:20"
+translator: William Jackson Brodribb
+---
+
+Who will now tolerate an advocate who begins by speaking of the feebleness of his constitution, as is usual in the openings of Corvinus? Who will sit out the five books against Verres? Who will endure those huge volumes, on a legal plea or form, which we have read in the speeches for Marcus Tullius and Aulus Caecina? In our day the judge anticipates the speaker, and unless he is charmed and imposed on by the train of arguments, or the brilliancy of the thoughts, or the grace and elegance of the descriptive sketches, he is deaf to his eloquence. Even the mob of bystanders, and the chance listeners who flock in, now usually require brightness and beauty in a speech, and they no more endure in the law-court the harshness and roughness of antiquity, than they would an actor on the stage who chose to reproduce the gestures of Roscius or Ambivius. So again the young, those whose studies are on the anvil, who go after the orators with a view to their own progress, are anxious not merely to hear but also to carry back home some brilliant passage worthy of remembrance. They tell it one to another, and often mention it in letters to their colonies and provinces, whether it is a reflection lighted up by a neat and pithy phrase, or a passage bright with choice and poetic ornament. For we now expect from a speaker even poetic beauty, not indeed soiled with the old rust of Accius or Pacuvius, but such as is produced from the sacred treasures of Horace, Virgil, and Lucan. Thus the age of our orators, in conforming itself to the ear and the taste of such a class, has advanced in beauty and ornateness. Nor does it follow that our speeches are less successful because they bring pleasure to the ears of those who have to decide. What if you were to assume that the temples of the present day are weaker, because, instead of being built of rough blocks and ill-shaped tiles, they shine with marble and glitter with gold?

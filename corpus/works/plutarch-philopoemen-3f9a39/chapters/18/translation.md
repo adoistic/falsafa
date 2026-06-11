@@ -1,0 +1,35 @@
+---
+work_id: "3f9a3937-fecf-5915-9eab-0203c3ec9b7d"
+work_slug: "plutarch-philopoemen-3f9a39"
+work_title: Philopoemen
+author_name: Plutarch
+chapter_number: 18
+chapter_title: Chapter 18
+chapter_slug: 18
+variant_id: "08009564-f74e-5d74-b678-83107f450bdf"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 588
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg027.perseus-eng2:18"
+translator: Bernadotte Perrin
+---
+
+But being now seventy years of age, and for the eighth time general of the Achaeans, he hoped not only to pass that year of office without war, but also that affairs would permit him to spend the rest of his life in peace and quiet. For as our diseases seem to lose their virulence as our bodily strength declines, so among the Greek cities the spirit of contention lapsed as their power waned.
+
+Nevertheless, some divine displeasure threw him down, like an all but victorious runner, at the very goal of his life. For it is recorded that at some conference, when others present were lavishing praise upon one who was reputed to be a redoubtable general, Philopoemen contemptuously said: Yet why should any account be made of this man, who has been taken alive by his enemies?
+
+And a few days afterwards Deinocrates the Messenian, a man who had a private quarrel with Philopoemen and was obnoxious to everybody else because of his baseness and unbridled life, induced Messene to revolt from the Achaean league, and was reported about to seize the village called Colonis. Philopoemen at the time lay sick of a fever at Argos, but on learning these facts, he hastened to Megalopolis in a single day, a journey of more than four hundred furlongs.
+
+From there he at once set out for the rescue, taking with him the horsemen. These were the city’s most prominent men, but altogether young, and serving as volunteers under Philopoemen out of good will and admiration for him. They rode off towards Messene and encountered Deinocrates, who came to meet them at Evander’s hill. Him they put to flight;
+
+but the five hundred men who were guarding the open country of Messene suddenly attacked them, and when those who had before been worsted saw this, they collected together along the hills. Then Philopoemen, fearing that he would be enveloped, and trying to spare his horsemen, withdrew over difficult ground, bringing up the rear himself and frequently riding out against the enemy, and trying to draw their attacks entirely upon himself. They did not venture, however, to return his attacks, but merely shouted and threatened his flanks.
+
+Withdrawing from the line frequently, then, to spare his young men, and sending them one by one into safety, before he was aware of it he was left alone among numerous enemies. Even then no one ventured to come to close quarters with him, but he was pelted with missiles from a distance and forced upon rocky and precipitous places, so that he had difficulty in managing his horse and kept tearing him with the spur.
+
+His age, owing to his generous exercise, was not burdensome, and in no way impeded his escape; but at that time his body was enfeebled by sickness and worn out with a long journey, so that he was heavy and stiff, and at length his horse stumbled and threw him to the ground. His fall was a heavy one and his head was hurt, and he lay for a long time speechless, so that his enemies thought him dead and tried to turn his body over and strip it of its armour.
+
+But when he raised his head and opened his eyes, they threw themselves in a throng upon him, tied his hands behind his back, and led him away, treating with great insolence and contumely a man who could never have even dreamed that he would suffer such a fate at the hands of Deinocrates.

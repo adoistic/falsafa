@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-ars-amatoria-36e617",
+  "work_title": "Ars Amatoria",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4389d529-a9c4-589e-b014-4978213d6d99",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5173,
+      "paragraph_count": 812,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi004.perseus-lat2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "48dbc8e3-6347-5120-bfdd-4ed51f6c0384",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7057,
+      "paragraph_count": 910,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi004.perseus-eng2:3"
+    }
+  ]
+}

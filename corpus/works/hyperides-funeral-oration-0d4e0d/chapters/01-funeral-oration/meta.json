@@ -1,0 +1,38 @@
+{
+  "work_slug": "hyperides-funeral-oration-0d4e0d",
+  "work_title": "Funeral Oration",
+  "chapter_number": 1,
+  "chapter_title": "Funeral Oration",
+  "chapter_slug": "01-funeral-oration",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c002a77d-bc0b-5512-b521-ea2c33fca47f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2446,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0030.tlg006.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "58681f85-a716-5166-96d3-c790de5f1ca8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2580,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0030.tlg006.perseus-eng2"
+    }
+  ]
+}

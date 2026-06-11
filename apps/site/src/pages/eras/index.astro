@@ -1,0 +1,103 @@
+---
+import Base from "../../layouts/Base.astro";
+import { manifest } from "../../lib/corpus";
+
+const m = manifest();
+const eraOrder = ["Ancient", "Classical", "Hellenistic", "Imperial", "Late Antiquity", "Medieval", "Enlightenment", "19th Century", "20th Century", "Unknown"];
+const eras = eraOrder
+  .map((label) => {
+    const slug = label.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+    const entry = m.eras[slug];
+    return entry ? { label, slug, count: entry.works.length } : null;
+  })
+  .filter((e): e is NonNullable<typeof e> => e !== null);
+---
+
+<Base
+  title="Eras"
+  description="The catalog by era, from the ancient world to the twentieth century."
+>
+  <div class="container">
+    <header>
+      <p class="kicker">The catalog</p>
+      <h1>By era</h1>
+    </header>
+    <ul class="era-list" role="list">
+      {
+        eras.map((e) => (
+          <li>
+            <a href={`/eras/${e.slug}/`} class="era-row">
+              <span class="era-name">{e.label}</span>
+              <span class="era-count">{e.count} {e.count === 1 ? "work" : "works"}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</Base>
+
+<style>
+  .container {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: var(--s-12) var(--s-8) var(--s-24);
+  }
+
+  .kicker {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin: 0 0 var(--s-3);
+  }
+
+  h1 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h1);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin: 0 0 var(--s-8);
+  }
+
+  .era-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .era-list li {
+    border-top: 1px solid var(--rule);
+  }
+
+  .era-list li:last-child {
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .era-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    padding: var(--s-5) var(--s-2);
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .era-row:hover .era-name {
+    color: var(--accent);
+  }
+
+  .era-name {
+    font-family: var(--font-display);
+    font-size: var(--fs-h3);
+    font-weight: 600;
+  }
+
+  .era-count {
+    font-family: var(--font-sans);
+    font-size: 13px;
+    color: var(--ink-muted);
+  }
+</style>

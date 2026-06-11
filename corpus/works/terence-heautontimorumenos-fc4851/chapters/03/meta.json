@@ -1,0 +1,38 @@
+{
+  "work_slug": "terence-heautontimorumenos-fc4851",
+  "work_title": "Heautontimorumenos",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "03",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "669f2d8a-4877-521b-b634-1f08a371a638",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1341,
+      "paragraph_count": 202,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0134.phi002.perseus-lat2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "028831ec-241b-51a5-b35e-f214c84cd016",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2172,
+      "paragraph_count": 82,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0134.phi002.perseus-eng2:3"
+    }
+  ]
+}

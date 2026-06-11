@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-demetrius-3c428e",
+  "work_title": "Demetrius",
+  "chapter_number": 14,
+  "chapter_title": "Chapter 14",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "30f7d8e6-3f59-5646-9494-83431a847889",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 164,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg057.perseus-grc2:14"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "de512bd3-2f14-5140-873c-a96908d785b0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 235,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg057.perseus-eng2:14"
+    }
+  ]
+}

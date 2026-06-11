@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-cimon-c5ffb2",
+  "work_title": "Cimon",
+  "chapter_number": 18,
+  "chapter_title": "Chapter 18",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c8c810ce-7aa3-52a6-ab3c-b4850e626e65",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 432,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg035.perseus-grc2:18"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfbae6f3-5ea7-56fe-9da4-416c61417ca3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 639,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg035.perseus-eng2:18"
+    }
+  ]
+}

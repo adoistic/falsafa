@@ -1,0 +1,38 @@
+{
+  "work_slug": "tacitus-cornelius-agricola-b912ef",
+  "work_title": "Agricola",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4ebe8042-62fc-52d8-ae97-ebb78857f681",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 166,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi001.perseus-lat1:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "69641f05-2e32-5160-9c67-6e780bf4a057",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 211,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi001.perseus-eng1:6"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-domitianus-2cd73b",
+  "work_title": "Domitianus",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "980a6df6-069c-571e-9821-9adc8bd89b12",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 118,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo022.perseus-lat2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d67c3c46-7473-5a69-92bd-f88b684e2136",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 233,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo022.perseus-eng2:6"
+    }
+  ]
+}

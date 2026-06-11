@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-laws-948029",
+  "work_title": "Laws",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6c104e34-8fbd-5665-b699-0cf410083ee7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6492,
+      "paragraph_count": 171,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg034.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "926a8fa9-079f-5c33-9b8d-865f70364c75",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9063,
+      "paragraph_count": 171,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg034.perseus-eng2:4"
+    }
+  ]
+}

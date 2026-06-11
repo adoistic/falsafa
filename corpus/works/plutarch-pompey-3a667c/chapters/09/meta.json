@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-pompey-3a667c",
+  "work_title": "Pompey",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1cb910a2-3be9-5b82-8e78-3b8f58dac8e9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 170,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg045.perseus-grc2:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a4749a11-351b-5e9e-a3d9-985ed695cc6f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 254,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg045.perseus-eng2:9"
+    }
+  ]
+}

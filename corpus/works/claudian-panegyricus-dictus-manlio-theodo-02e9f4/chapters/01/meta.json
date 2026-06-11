@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-panegyricus-dictus-manlio-theodo-02e9f4",
+  "work_title": "Panegyricus dictus Manlio Theodoro consuli",
+  "chapter_number": 1,
+  "chapter_title": "Chapter praef",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a1433ea7-954f-5735-b13e-0338ca4d9757",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 114,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa013.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8fed0c4b-d497-5f49-b3e7-0ce96ab2bed0",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 195,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa013.perseus-eng1:1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "vitruvius-pollio-on-architecture-f22b40",
+  "work_title": "On Architecture",
+  "chapter_number": 6,
+  "chapter_title": "Book 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f4664d1b-6542-5010-9a3f-d8db66f4ed78",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5027,
+      "paragraph_count": 75,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1056.phi001.perseus-lat1:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3100b663-3012-5eea-af7a-226374abc1c8",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8080,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1056.phi001.perseus-eng1:6"
+    }
+  ]
+}

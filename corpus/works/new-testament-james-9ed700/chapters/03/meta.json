@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-james-9ed700",
+  "work_title": "James",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fa2f3982-407e-582c-86a9-23cf96f6fb77",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 295,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg020.perseus-grc2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a71eaf4a-81f0-5378-8fc0-8751b5f6436b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 372,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg020.perseus-eng2:3"
+    }
+  ]
+}

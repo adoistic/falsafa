@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-leviticus-4b902e",
+  "work_title": "Leviticus",
+  "chapter_number": 18,
+  "chapter_title": "Chapter 18",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "86ba22e6-866b-5959-9769-87ec7d530873",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 524,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg003.1st1K-grc1:18"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "547a0814-7d7c-539e-a9fc-945b4b500cd2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 641,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg003.perseus-eng2:18"
+    }
+  ]
+}

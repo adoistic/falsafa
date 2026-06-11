@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 22,
+  "chapter_title": "Chapter 22",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8f01edff-657d-5d4d-b958-eeea504b4c04",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 96,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:22"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4bca789d-a604-5325-a4a3-0c6d31dbafb7",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 552,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:22"
+    }
+  ]
+}

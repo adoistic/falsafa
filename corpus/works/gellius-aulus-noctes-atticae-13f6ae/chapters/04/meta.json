@@ -1,0 +1,38 @@
+{
+  "work_slug": "gellius-aulus-noctes-atticae-13f6ae",
+  "work_title": "Noctes Atticae",
+  "chapter_number": 4,
+  "chapter_title": "Book 3",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "34245915-9a9e-5661-a8c9-dc40fec8f5fd",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 408,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1254.phi001.perseus-lat2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "21e8b9e3-a5c1-58b1-bb36-ea3fcc37a749",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9194,
+      "paragraph_count": 128,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1254.phi001.perseus-eng1:4"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-caligula-3902f8",
+  "work_title": "Caligula",
+  "chapter_number": 31,
+  "chapter_title": "Chapter 31",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "83416d3a-5f69-5ed4-9fc1-042342857895",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 142,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo014.perseus-lat2:31"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11e22522-72be-5871-bb63-6c2ac224708c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 83,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo014.perseus-eng2:31"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-against-pancleon-0f6fdd",
+  "work_title": "Against Pancleon",
+  "chapter_number": 1,
+  "chapter_title": "Against Pancleon",
+  "chapter_slug": "01-against-pancleon",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "77ac2bb0-c8cc-5a70-b7ac-d474281b8cb6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 777,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg023.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd318b67-afcb-5cd0-8576-a7e13fc49b50",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1189,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg023.perseus-eng2"
+    }
+  ]
+}

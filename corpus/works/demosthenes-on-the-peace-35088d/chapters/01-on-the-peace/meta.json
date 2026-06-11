@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-on-the-peace-35088d",
+  "work_title": "On the Peace",
+  "chapter_number": 1,
+  "chapter_title": "On the Peace",
+  "chapter_slug": "01-on-the-peace",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a761ac3b-d90e-5e76-b641-34b840849321",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1455,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg005.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "22e44211-1b2f-5d98-a4dc-e6bf24796e1a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1984,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg005.perseus-eng2"
+    }
+  ]
+}

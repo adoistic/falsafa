@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-against-callimachus-527974",
+  "work_title": "Against Callimachus",
+  "chapter_number": 1,
+  "chapter_title": "Against Callimachus",
+  "chapter_slug": "01-against-callimachus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "840b4f3b-47c1-5d68-8106-3155587051fd",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3563,
+      "paragraph_count": 73,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg002.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "72b72470-4f78-59a6-9d51-509655496139",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5874,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg002.perseus-eng2"
+    }
+  ]
+}

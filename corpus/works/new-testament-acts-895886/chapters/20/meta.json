@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-acts-895886",
+  "work_title": "Acts",
+  "chapter_number": 20,
+  "chapter_title": "Chapter 20",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c02d8f85-ab4a-5f5f-a429-b9e9c2813f8d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 677,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:20"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d13d4965-0c53-53d6-ac70-0ff305c38a58",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 864,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:20"
+    }
+  ]
+}

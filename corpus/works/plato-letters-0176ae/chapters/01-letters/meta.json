@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-letters-0176ae",
+  "work_title": "Letters",
+  "chapter_number": 1,
+  "chapter_title": "Letters",
+  "chapter_slug": "01-letters",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5b5f18a3-8246-5301-8d8f-87c0f15ff67f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 16894,
+      "paragraph_count": 124,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg036.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "050b91e7-f1f8-5487-9096-10baa273db51",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 25497,
+      "paragraph_count": 78,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg036.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "isaeus-on-the-estate-of-philoctemon-976e19",
+  "work_title": "On the Estate of Philoctemon",
+  "chapter_number": 1,
+  "chapter_title": "On the Estate of Philoctemon",
+  "chapter_slug": "01-on-the-estate-of-philoctemon",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e02ca3b0-29cc-59c6-9337-2ff9e9810274",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3648,
+      "paragraph_count": 78,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg006.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f57740de-ad64-57a6-8f7f-257b2abadd7d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5418,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg006.perseus-eng2"
+    }
+  ]
+}

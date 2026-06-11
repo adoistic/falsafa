@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 138,
+  "chapter_title": "Chapter 140",
+  "chapter_slug": "138",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4c71f7e7-a552-5e75-896f-ab4dcf3e1e99",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 350,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:138"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5022ea9e-a044-57af-84e3-cf9f9cbe12ed",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 233,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:138"
+    }
+  ]
+}

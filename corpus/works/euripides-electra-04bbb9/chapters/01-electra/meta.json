@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-electra-04bbb9",
+  "work_title": "Electra",
+  "chapter_number": 1,
+  "chapter_title": "Electra",
+  "chapter_slug": "01-electra",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dae27b99-edc0-59bb-ade3-0993cdb0e7fc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8101,
+      "paragraph_count": 1363,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ef08c2db-73dc-53e7-81a1-cdc85b721def",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12200,
+      "paragraph_count": 449,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2"
+    }
+  ]
+}

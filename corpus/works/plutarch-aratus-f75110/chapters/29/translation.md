@@ -1,0 +1,31 @@
+---
+work_id: "f75110de-c340-539b-8ba4-36a4abfd3c5e"
+work_slug: "plutarch-aratus-f75110"
+work_title: Aratus
+author_name: Plutarch
+chapter_number: 29
+chapter_title: Chapter 29
+chapter_slug: 29
+variant_id: "03ab2223-db9d-59fb-8be8-77d97909c788"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 480
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg063.perseus-eng2:29"
+translator: Bernadotte Perrin
+---
+
+A little while after this, Aratus heard that Aristippus was plotting against Cleonae, but feared to attack it while his enemy was posted at Corinth; he therefore assembled an army by public proclamation. And after ordering his troops to carry provisions for several days, he marched down to Cenchreae, by this stratagem inviting Aristippus to attack Cleonae in the belief that his enemy was riot at hand; and this was actually what happened. For the tyrant set out at once from Argos with his forces.
+
+But Aratus, returning from Cenchreae to Corinth as soon as it was dark, and posting guards along all the roads, led his Achaeans towards Cleonae, and they followed him in such good order and with such swiftness and alacrity that not only while they were on the march, but also when they had got into Cleonae, before the night was over, and had arrayed themselves for battle, Aristippus knew nothing at all of it.
+
+Then, at daybreak, the gates were thrown open, the trumpet gave its loud signal, and dashing at a run and with shouts upon the enemy Aratus routed them at once, and kept on pursuing where he most suspected that Aristippus was in flight, the country having many diverging routes.
+
+The pursuit continued as far as Mycenae, where the tyrant was overtaken and slain by a certain Cretan named Tragiscus, as Deinias relates; and besides him there fell over fifteen hundred. But although Aratus had won so brilliant a success, and had lost not a single one of his own soldiers, he nevertheless did not take Argos nor set it free, since Agias and the younger Aristomachus burst into the city with troops of the king and took control of affairs.
+
+This success, then, refuted much of the calumny heaped upon Aratus, as well as the scoffing and abusive stories of the flatterers of the tyrants, who would recount, to please their masters, how the general of the Achaeans always had cramps in the bowels when a battle was imminent, and how torpor and dizziness would seize him as soon as the trumpeter stood by to give the signal, and how, after he had drawn up his forces and passed the watchword along, he would ask his lieutenants and captains whether there was any further need of his presence (since the die was already cast), and then go off to await the issue anxiously at a distance.
+
+For these stories were so prevalent that even in the schools of philosophy, when the query arises whether palpitation of the heart and change of colour and looseness of the bowels, in the presence of seeming peril, are the mark of cowardice, or of some faulty temperament and chilliness in the body, Aratus is always mentioned by name as one who was a good general, but always had these symptoms when a contest was impending.

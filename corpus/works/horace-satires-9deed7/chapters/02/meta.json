@@ -1,0 +1,39 @@
+{
+  "work_slug": "horace-satires-9deed7",
+  "work_title": "Satires",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "958ada54-43c1-5be1-8789-94d65501c5c4",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7270,
+      "paragraph_count": 344,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0893.phi004.perseus-lat2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bf18285d-e8c0-5537-b3bf-447cc9f97d8b",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 13380,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0893.phi004.perseus-eng2:2"
+    }
+  ]
+}

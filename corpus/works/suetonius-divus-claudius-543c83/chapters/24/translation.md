@@ -1,0 +1,21 @@
+---
+work_id: "543c83ed-8f5c-53fb-aaae-ef7d6d9cca25"
+work_slug: "suetonius-divus-claudius-543c83"
+work_title: Divus Claudius
+author_name: Suetonius
+chapter_number: 24
+chapter_title: Chapter 24
+chapter_slug: 24
+variant_id: "2ca23aee-93bd-515d-aa24-875997dc42ee"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 342
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo015.perseus-eng2:24"
+translator: Perseus Digital Library
+---
+
+He likewise granted the consular ornaments to his Ducenarian procurators. From those who declined the senatorian dignity, he took away the equestrian. Although he had in the beginning of his reign declared, that he would admit no man into the senate who was not the great-grandson of a Roman citizen, yet he gave the "broad hem" to the son of a freedman, on condition that he should be adopted by a Roman knight. Being afraid, however, of incurring censure by such an act, he informed the public, that his ancestor Appius Caecus, the censor, had elected the sons of freedmen into the senate; for he was ignorant, it seems, that in the times of Appius, and a long while afterwards, persons manumitted were not called freedmen, but only their sons who were free-born. Instead of the expense which the college of quaestors was obliged to incur in paving the high-ways, he ordered them to give the people an exhibition of gladiators; and relieving them of the provinces of Ostia and [Cisalpine] Gaul, he reinstated them in the charge of the treasury, which, since it was taken from them, had been managed by the praetors, or those who had formerly filled that office. He gave the triumphal ornaments to Silanus, who was betrothed to his daughter, though he was under age; and in other cases, he bestowed them on so many, and with so little reserve, that there is extant a letter unanimously addressed to him by all the legions, begging him "to grant his consular lieutenants the triumphal ornaments at the time of their appointment to commands, in order to prevent their seeking occasion to engage in unnecessary wars." He decreed to Aulus Plautius the honour of an ovation, going to meet him at his entering the city, and walking with him in the procession to the Capitol, and back, in which he took the left side, giving him the post of honour. He allowed Gabinius Secundus, upon his conquest of the Chauci, a German tribe, to assume the cognomen of Chaucius.

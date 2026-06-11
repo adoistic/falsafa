@@ -1,0 +1,21 @@
+---
+work_id: "48cd426b-c481-51ce-b541-a84d2907fbc8"
+work_slug: "suetonius-divus-vespasianus-48cd42"
+work_title: Divus Vespasianus
+author_name: Suetonius
+chapter_number: 7
+chapter_title: Chapter 7
+chapter_slug: 07
+variant_id: "a305a084-9389-5062-83cc-2c2bd364c7fd"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 346
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo020.perseus-eng2:7"
+translator: Perseus Digital Library
+---
+
+Having, therefore, entered on a civil war, and sent forward his generals and forces into Italy, he himself, in the meantime, passed over to Alexandria, to obtain possession of the key of Egypt. Here having entered alone, without attendants, the temple of Serapis, to take the auspices respecting the establishment of his power, and having done his utmost to propitiate the deity, upon turning round, [his freedman] Basilides appeared before him, and seemed to offer him the sacred leaves, chaplets, and cakes, according to the usage of the place, although no one had admitted him, and he had long laboured under a muscular debility, which would hardly have allowed him to walk into the temple; besides which, it was certain that at the very time he was far away. Immediately after this, arrived letters with intelligence that Vitellius's troops had been defeated at Cremona, and he himself slain at Rome. Vespasian, the new emperor, having been raised unexpectedly from a low estate, wanted something which might clothe him with divine majesty and authority. This, likewise, was now added. A poor man who was blind, and another who was lame, came both together before him, when he was seated on the tribunal, imploring him to heal them, and saying that they were admonished in a dream by the god Serapis to seek his aid, who assured them that he would restore sight to the one by anointing his eyes with his spittle, and give strength to the leg of the other, if he vouchsafed but to touch it with his heel. At first he could scarcely believe that the thing would any how succeed, and therefore hesitated to venture on making the experiment. At length, however, by the advice of his friends, he made the attempt publicly, in the presence of the assembled multitudes, and it was crowned with success in both cases. About the same time, at Tegea in Arcadia, by the direction of some soothsayers, several vessels of ancient workmanship were dug out of a consecrated place, on which there was an effigy resembling Vespasian.

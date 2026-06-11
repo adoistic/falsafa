@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-i-chronicles-e140e5",
+  "work_title": "I Chronicles",
+  "chapter_number": 11,
+  "chapter_title": "Chapter 11",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7d7f99f2-4895-5784-8da0-da9d8ae6e53c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 929,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg015.1st1K-grc1:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "07c43639-e684-5445-9892-81353c226a8a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 940,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg015.perseus-eng2:11"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "note": "First Perseus tranche: a curated core of Greek and Latin works with English translations in the PerseusDL canonical repositories. Composition years are approximate (negative = BCE). The ingester discovers the English translation URN from each work's __cts__.xml and records the translator from its description.",
+  "works": [
+    {
+      "repo": "canonical-greekLit",
+      "group": "tlg0012",
+      "work": "tlg001",
+      "title": "Iliad",
+      "author": {
+        "name": "Homer",
+        "biography": "The name the Greek tradition gave to the poet of the Iliad and Odyssey, the two epics at the foundation of Greek literature. Whether one poet or a tradition of singers stands behind the name is an old and open question.",
+        "birth_year": null,
+        "death_year": null,
+        "nationality": "Greek"
+      },
+      "era": "Ancient",
+      "genre": "Literature",
+      "language": "Greek",
+      "description": "The wrath of Achilles in the tenth year of the Trojan war: the founding epic of Greek literature, in English translation from the Perseus Digital Library.",
+      "difficulty": "Intermediate",
+      "published_year": -750,
+      "translator_override": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
+    },
+    {
+      "repo": "canonical-greekLit",
+      "group": "tlg0012",
+      "work": "tlg002",
+      "title": "Odyssey",
+      "author": {
+        "name": "Homer",
+        "biography": "The name the Greek tradition gave to the poet of the Iliad and Odyssey, the two epics at the foundation of Greek literature. Whether one poet or a tradition of singers stands behind the name is an old and open question.",
+        "birth_year": null,
+        "death_year": null,
+        "nationality": "Greek"
+      },
+      "era": "Ancient",
+      "genre": "Literature",
+      "language": "Greek",
+      "description": "The ten-year homecoming of Odysseus, the second founding epic of Greek literature, in English translation from the Perseus Digital Library.",
+      "difficulty": "Intermediate",
+      "published_year": -725,
+      "translator_override": "Samuel Butler, revised by Timothy Power and Gregory Nagy"
+    },
+    {
+      "repo": "canonical-greekLit",
+      "group": "tlg0016",
+      "work": "tlg001",
+      "title": "The Histories",
+      "author": {
+        "name": "Herodotus",
+        "biography": "Historian of Halicarnassus, called the father of history. His inquiry into the Persian wars ranges across the peoples, places and stories of the whole world he could reach.",
+        "birth_year": -484,
+        "death_year": -425,
+        "nationality": "Greek"
+      },
+      "era": "Ancient",
+      "genre": "History",
+      "language": "Greek",
+      "description": "The first great work of history: Herodotus' inquiry into the war between Greece and Persia and everything he learned along the way, in English translation from the Perseus Digital Library.",
+      "difficulty": "Intermediate",
+      "published_year": -430
+    },
+    {
+      "repo": "canonical-greekLit",
+      "group": "tlg0003",
+      "work": "tlg001",
+      "title": "History of the Peloponnesian War",
+      "author": {
+        "name": "Thucydides",
+        "biography": "Athenian general and historian of the war between Athens and Sparta, which he fought in, was exiled from, and recorded with a rigor that made his book the model of critical history.",
+        "birth_year": -460,
+        "death_year": -400,
+        "nationality": "Greek"
+      },
+      "era": "Ancient",
+      "genre": "History",
+      "language": "Greek",
+      "description": "The war that broke the Greek world, told by a participant who set out to write a possession for all time, in English translation from the Perseus Digital Library.",
+      "difficulty": "Advanced",
+      "published_year": -400
+    },
+    {
+      "repo": "canonical-greekLit",
+      "group": "tlg0059",
+      "work": "tlg002",
+      "title": "Apology",
+      "author": {
+        "name": "Plato",
+        "biography": "Athenian philosopher, student of Socrates and teacher of Aristotle. His dialogues made philosophy a written art and set its agenda for the next two thousand years.",
+        "birth_year": -428,
+        "death_year": -348,
+        "nationality": "Greek"
+      },
+      "era": "Ancient",
+      "genre": "Philosophy",
+      "language": "Greek",
+      "description": "Socrates' defense before the Athenian jury that condemned him, as Plato wrote it, in English translation from the Perseus Digital Library.",
+      "difficulty": "Beginner",
+      "published_year": -390
+    },
+    {
+      "repo": "canonical-greekLit",
+      "group": "tlg0059",
+      "work": "tlg003",
+      "title": "Crito",
+      "author": {
+        "name": "Plato",
+        "biography": "Athenian philosopher, student of Socrates and teacher of Aristotle. His dialogues made philosophy a written art and set its agenda for the next two thousand years.",
+        "birth_year": -428,
+        "death_year": -348,
+        "nationality": "Greek"
+      },
+      "era": "Ancient",
+      "genre": "Philosophy",
+      "language": "Greek",
+      "description": "Socrates in prison, offered escape, arguing instead about what a citizen owes the laws, in English translation from the Perseus Digital Library.",
+      "difficulty": "Beginner",
+      "published_year": -390
+    },
+    {
+      "repo": "canonical-greekLit",
+      "group": "tlg0059",
+      "work": "tlg004",
+      "title": "Phaedo",
+      "author": {
+        "name": "Plato",
+        "biography": "Athenian philosopher, student of Socrates and teacher of Aristotle. His dialogues made philosophy a written art and set its agenda for the next two thousand years.",
+        "birth_year": -428,
+        "death_year": -348,
+        "nationality": "Greek"
+      },
+      "era": "Ancient",
+      "genre": "Philosophy",
+      "language": "Greek",
+      "description": "Socrates' last day, spent arguing for the immortality of the soul, ending with the hemlock, in English translation from the Perseus Digital Library.",
+      "difficulty": "Intermediate",
+      "published_year": -380
+    },
+    {
+      "repo": "canonical-greekLit",
+      "group": "tlg0059",
+      "work": "tlg011",
+      "title": "Symposium",
+      "author": {
+        "name": "Plato",
+        "biography": "Athenian philosopher, student of Socrates and teacher of Aristotle. His dialogues made philosophy a written art and set its agenda for the next two thousand years.",
+        "birth_year": -428,
+        "death_year": -348,
+        "nationality": "Greek"
+      },
+      "era": "Ancient",
+      "genre": "Philosophy",
+      "language": "Greek",
+      "description": "A drinking party where each guest speaks in praise of love, crowned by Socrates' account of the ladder from one beautiful body to beauty itself, in English translation from the Perseus Digital Library.",
+      "difficulty": "Intermediate",
+      "published_year": -380
+    },
+    {
+      "repo": "canonical-greekLit",
+      "group": "tlg0059",
+      "work": "tlg030",
+      "title": "Republic",
+      "author": {
+        "name": "Plato",
+        "biography": "Athenian philosopher, student of Socrates and teacher of Aristotle. His dialogues made philosophy a written art and set its agenda for the next two thousand years.",
+        "birth_year": -428,
+        "death_year": -348,
+        "nationality": "Greek"
+      },
+      "era": "Ancient",
+      "genre": "Philosophy",
+      "language": "Greek",
+      "description": "Plato's design for the just city and the just soul, the most influential book in the history of political philosophy, in English translation from the Perseus Digital Library.",
+      "difficulty": "Advanced",
+      "published_year": -375
+    },
+    {
+      "repo": "canonical-greekLit",
+      "group": "tlg0086",
+      "work": "tlg010",
+      "title": "Nicomachean Ethics",
+      "author": {
+        "name": "Aristotle",
+        "biography": "Philosopher of Stagira, student of Plato and tutor of Alexander. His school texts organized the sciences for two millennia and traveled further than any other body of work in this library's atlas.",
+        "birth_year": -384,
+        "death_year": -322,
+        "nationality": "Greek"
+      },
+      "era": "Ancient",
+      "genre": "Philosophy",
+      "language": "Greek",
+      "description": "Aristotle's lectures on the good life: virtue as a practice, friendship, pleasure and contemplation, in English translation from the Perseus Digital Library.",
+      "difficulty": "Advanced",
+      "published_year": -340
+    },
+    {
+      "repo": "canonical-latinLit",
+      "group": "phi0550",
+      "work": "phi001",
+      "title": "De Rerum Natura",
+      "author": {
+        "name": "Lucretius",
+        "biography": "Roman poet and Epicurean. His one surviving work argues, in six books of verse, that the world is atoms and void and that understanding this frees the mind from fear.",
+        "birth_year": -99,
+        "death_year": -55,
+        "nationality": "Roman"
+      },
+      "era": "Ancient",
+      "genre": "Philosophy",
+      "language": "Latin",
+      "description": "On the Nature of Things: Epicurean physics and peace of mind in Latin verse, in English translation from the Perseus Digital Library.",
+      "difficulty": "Advanced",
+      "published_year": -55,
+      "translator_override": "William Ellery Leonard"
+    },
+    {
+      "repo": "canonical-latinLit",
+      "group": "phi0690",
+      "work": "phi003",
+      "title": "Aeneid",
+      "author": {
+        "name": "Virgil",
+        "biography": "Rome's national poet. The Aeneid, commissioned under Augustus and unfinished at his death, gave Rome its founding epic and Europe its model of literary epic for centuries.",
+        "birth_year": -70,
+        "death_year": -19,
+        "nationality": "Roman"
+      },
+      "era": "Ancient",
+      "genre": "Literature",
+      "language": "Latin",
+      "description": "Aeneas from burning Troy to the shores of Italy: Rome's founding epic, in English translation from the Perseus Digital Library.",
+      "difficulty": "Intermediate",
+      "published_year": -19,
+      "translator_override": "Theodore C. Williams"
+    }
+  ]
+}

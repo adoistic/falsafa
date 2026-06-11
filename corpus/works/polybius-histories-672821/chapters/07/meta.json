@@ -1,0 +1,38 @@
+{
+  "work_slug": "polybius-histories-672821",
+  "work_title": "Histories",
+  "chapter_number": 7,
+  "chapter_title": "Book 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "db855c94-7fd5-5b25-90b6-80e71ee3005c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4487,
+      "paragraph_count": 159,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2145f806-0b2d-576b-a84a-10109f12a822",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5600,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-eng2:7"
+    }
+  ]
+}

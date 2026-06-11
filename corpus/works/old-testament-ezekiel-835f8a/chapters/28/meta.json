@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ezekiel-835f8a",
+  "work_title": "Ezekiel",
+  "chapter_number": 28,
+  "chapter_title": "Chapter 28",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7d27be72-1880-58eb-895f-3d962d4ba112",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1123,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1:28"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e5f5e7c6-ec46-5084-a36e-ed8f93141ab3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 779,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg053.perseus-eng2:28"
+    }
+  ]
+}

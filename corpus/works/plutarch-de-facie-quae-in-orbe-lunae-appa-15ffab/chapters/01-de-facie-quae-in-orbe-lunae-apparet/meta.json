@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-facie-quae-in-orbe-lunae-appa-15ffab",
+  "work_title": "De Facie Quae in orbe Lunae Apparet",
+  "chapter_number": 1,
+  "chapter_title": "De Facie Quae in orbe Lunae Apparet",
+  "chapter_slug": "01-de-facie-quae-in-orbe-lunae-apparet",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b6e45287-562d-58bb-b3b8-b32ad143be21",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 12687,
+      "paragraph_count": 160,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg126.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b786480c-966b-51b7-a1f2-1bec5b8719b1",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 20094,
+      "paragraph_count": 83,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg126.perseus-eng4"
+    }
+  ]
+}

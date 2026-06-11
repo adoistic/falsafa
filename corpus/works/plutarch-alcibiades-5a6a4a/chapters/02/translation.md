@@ -1,0 +1,31 @@
+---
+work_id: "5a6a4a15-b640-51c1-b3a6-c59b57f1bd75"
+work_slug: "plutarch-alcibiades-5a6a4a"
+work_title: Alcibiades
+author_name: Plutarch
+chapter_number: 2
+chapter_title: Chapter 2
+chapter_slug: 02
+variant_id: "a5d77995-5730-5121-bc45-62519388cad9"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 443
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg015.perseus-eng2:2"
+translator: Bernadotte Perrin
+---
+
+His character, in later life, displayed many inconsistencies and marked changes, as was natural amid his vast undertakings and varied fortunes. He was naturally a man of many strong passions, the mightiest of which were the love of rivalry and the love of preeminence. This is clear from the stories recorded of his boyhood.
+
+He was once hard pressed in wrestling, and to save himself from getting a fall, set his teeth in his opponent’s arms, where they clutched him, and was like to have bitten through them. His adversary, letting go his hold, cried: You bite, Alcibiades, as women do! Not I, said Alcibiades, but as lions do. While still a small boy, he was playing knucklebones in the narrow street, and just as it was his turn to throw, a heavy-laden wagon came along.
+
+In the first place, he bade the driver halt, since his cast lay right in the path of the wagon. The driver, however, was a boorish fellow, and paid no heed to him, but drove his team along. Whereupon, while the other boys scattered out of the way, Alcibiades threw himself flat on his face in front of the team, stretched himself out at full length, and bade the driver go on if he pleased. At this the fellow pulled up his beasts sharply, in terror; the spectators, too, were affrighted, and ran with shouts to help the boy.
+
+At school, he usually paid due heed to his teachers, but he refused to play the flute, holding it to be an ignoble and illiberal thing. The use of the plectrum and the lyre, he argued, wrought no havoc with the bearing and appearance which were becoming to a gentleman; but let a man go to blowing on a flute, and even his own kinsmen could scarcely recognize his features.
+
+Moreover, the lyre blended its tones with the voice or song of its master; whereas the flute closed and barricaded the mouth, robbing its master both of voice and speech. Flutes, then, said he, for the sons of Thebes; they know not how to converse. But we Athenians, as our fathers say, have Athena for foundress and Apollo for patron, one of whom cast the flute away in disgust, and the other flayed the presumptuous flute-player.
+
+Thus, half in jest and half in earnest, Alcibiades emancipated himself from this discipline, and the rest of the boys as well. For word soon made its way to them that Alcibiades loathed the art of flute-playing and scoffed at its disciples, and rightly, too. Wherefore the flute was dropped entirely from the programme of a liberal education and was altogether despised.

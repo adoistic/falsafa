@@ -1,0 +1,38 @@
+{
+  "work_slug": "appianus-of-alexandria-hannibalic-war-774587",
+  "work_title": "Hannibalic War",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "94e05576-2ee7-5241-a1ca-ee9a642d3857",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 627,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg008.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "72d8d9b5-73a8-59c4-a21d-3ad0b10b13d9",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 844,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg008.perseus-eng2:1"
+    }
+  ]
+}

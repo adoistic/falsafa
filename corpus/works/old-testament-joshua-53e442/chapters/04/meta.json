@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-joshua-53e442",
+  "work_title": "Joshua",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6b5536a4-e3dc-5495-bd30-a542484ffbc6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 535,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8d5cd79d-bee4-54c5-865c-35e7152c0116",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 683,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg006.perseus-eng2:4"
+    }
+  ]
+}

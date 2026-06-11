@@ -1,0 +1,123 @@
+---
+work_id: "90c80191-2876-58ed-b411-bf6992da553c"
+work_slug: "cicero-marcus-tullius-pro-m-tullio-90c801"
+work_title: Pro M. Tullio
+author_name: Cicero, Marcus Tullius
+chapter_number: 1
+chapter_title: Pro M. Tullio
+chapter_slug: "01-pro-m-tullio"
+variant_id: "cb02bef6-8696-59cf-8a9f-04c8a5765d3d"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 3326
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi006.perseus-lat2"
+curator: thothica
+---
+
+A ntea sic hanc causam a gere s tatue ra m, recupe ratores, ut infitia turos adversarios arbitrarer tantam caedem et tam atrocem ad familiam suam pertinere. animo soluto a cura et a cogitatione veneram, quod intellegebam facile id me testibus planum facere posse. vero postea quam non modo confessus est vir primarius, L. Quin ctius la borabam ut, quod arguebam, id factum esse ostenderem; nunc in eo consumenda est oratio ut ne adversarii, quod infitiari nullo modo potuerunt, cum maxime cuperent, id cum confessi sunt, meliore loco esse videantur.
+
+tum vestrum difficilius iudicium, mea facilis defensio fore videbatur. enim omnia in tes tibus quid est facilius quam de eo qui confitetur iudicare? autem difficile est satis copiose de eo dicere quod nec atrocius verbis demonstrari potest quam re ipsa est, neque apertius oratione mea fieri quam ipsorum confessione factum est.
+
+Cum in hac re quam commemoravi mihi mutanda ratio defensionis minus diligenter illius existimationem quam rem M. Tulli viderer defendere. quoniam Quinctius ad causam pertinere putavit res ita multas, falsas praesertim et inique confictas, proferre de vita et moribus et existimatione M. Tulli, multis de causis mihi Fabius debebit ignoscere, si minus eius famae parcere videbor quam antea consului.
+
+Pri.. ore putavit ad officium suum pertinere adversario nulla in re parcere, quid me oportet Tullium pro Tullio facere, homine coniuncto mecum non minus animo quam nomine? mihi magis illud laborandum videtur, recuperatores, ut quod antea nihil in istum dixi probar e possi m, quam ne in eo reprehendar quod hoc tempore respondeo.
+
+et tum id feci quod oportuit, et nunc faciam quod necesse est. cum esset de re pecuniaria controversia, quod damnum datum M. Tullio diceremus, alienum mea natura videbatur quicquam de existimatione P. Fabi dicere, non quia res postulare non videretur. ergo est? postulat causa, tamen, nisi plane cogit ingratiis, ad male dicendum non soleo descendere. cum coactus dicam, si quid forte dicam, tamen id ipsum verecunde modiceque faciam, tantum ut, quoniam sibi me non esse inimicum potuit priore actione Fabius iudicare, nunc M. Tullio fidelem certumque amicum esse cognoscat.
+
+Vnum hoc abs te, L. Quincti, pervelim impetrare—quod tametsi eo volo quia mihi utile est, tamen abs te idcirco quia aequum est, postulo—ut ita tibi multum temporis ad dicendum sumas ut his aliquid ad iudicandum relinquas. antea non defensionis tuae modus, sed nox tibi finem dicendi fecit; nunc, si tibi placere potest, ne idem facias, id abs te postulo. hoc idcirco postulo quod te aliquid censeam praeterire oportere aut non quam ornatissime et copiosissime dicere, verum ut semel una quaque de re dicas; quod si facies, non vereor ne dicendo dies eximatur.
+
+vestrum est, recuperatores, Qvantae pecvniae paret dolo malo familiae P. Fabi vi hominibvs armatis coactisve damnvm datvm esse M. Tvllio. rei taxationem nos fecimus; aestimatio vestra est; iudicium datum est in quadruplum.
+
+Cum omnes leges omniaque iudicia quae paulo graviora atque asperiora videntur esse ex improborum iniquitate et iniuria nata sunt, tum hoc iudicium paucis hisce annis propter hominum malam consuetudinem nimiamque licentiam constitutum est. cum multae familiae dicerentur in agris longinquis et pascuis armatae esse caedisque facere, cumque ea consuetudo non solum ad res privatorum sed ad summam rem publicam pertinere videretur, M. Lucullus, qui summa aequitate et sapientia ius dixit, primus hoc iudicium composuit et id spectavit ut omnes ita familias suas continerent ut non modo armati damnum nemini darent verum etiam lacessiti iure se potius quam armis defenderent;
+
+et cum sciret de damno legem esse Aquiliam, tamen hoc ita existimavit, apud maiores nostros cum et res et cupiditates minores essent et familiae non magnae magno metu continerentur ut perraro fieret ut homo occideretur, idque nefarium ac singulare facinus putaretur, nihil opus fuisse iudicio de vi coactis armatisque hominibus; quod enim usu non veniebat, de eo si quis legem aut iudicium constitueret, non tam prohibere videretur quam admonere.
+
+temporibus cum ex bello diuturno atque domestico res in eam consuetudinem venisset ut homines minore religione armis uterentur, necesse putavit esse et in universam familiam iudicium dare, quod a familia factum diceretur, et recuperatores dare, ut quam primum res iudicaretur, et poenam graviorem constituere, ut metu comprimeretur audacia, et illam latebram tollere: ' damnum iniuria. ' in aliis causis debet valere et valet lege Aquilia, id ex huius modi damno quod vi per servos armatos datum esset ipsi statuerent quo tempore possent suo iure arma capere, manum cogere, homines occidere. Cum iudicium ita daret ut hoc solum in iudicium veniret, videreturne vi hominibus coactis armatisve damnum dolo malo familiae datum, neque illud adderet ' inivria,' putavit se audaciam improborum sustulisse, cum spem defensionis nullam reliquisset.
+
+quod iudicium et quo consilio constitutum sit cognostis, nunc rem ipsam, ut gesta sit, dum breviter vobis demonstro, attendite.
+
+habet in agro Thurino M. Tullius paternum, recuperatores, quem se habere usque eo non moleste tulit, donec vicinum eius modi nactus est qui agri finis armis proferre mallet quam iure defendere. P. Fabius nuper emit agrum de C. Claudio senatore, cui fundo erat adfinis M. Tullius, sane magno, dimidio fere pluris incultum exustis villis omnibus quam quanti integrum atque ornatissimum carissimis pretiis ipse Claudius emerat clam circumscripsisse isti a consulari Macedonia et Asia. illud addam quod ad rem pertinet: imperatore mortuo pecuniam nescio quo modo quaesitam dum volt in praedio ponere, non posuit, sed abiecit. adhuc m
+
+.. am calamitate vicinorum corrigit, et quod stomachum suum damno Tulli exp lere conatus est.
+
+in eo agro centuria quae Populiana nominatur, recuperatores, quae semper M. Tulli fuit, quam etiam pater pos sederat posita esse et ad fundum eius convenire. primum, quod eum negoti totius et emptionis suae paenitebat, fundum proscripsit; eum autem emptum habebat cum socio Cn. Acerronio, viro op timo modum proscripsisse.
+
+appellat. sane adroganter quod commodum fuit respondit. Nequedum finis auctor demonstraverat. ad procuratorem litteras et ad vilicum Tullius facturum negavit; illis absentibus finis Acerronio demonstravit neque tamen hanc centuriam Populianam vacuam tradidit. Acerronius, quo modo potuit, se de tota re ex mine eius modi semustilatus effugit. iste interea in saltum homines electos maximis animis et viribus et eis arma quae cuique habilia atque apta essent comparat, prorsus ut quivis intellegeret non eos ad rem rusticam, verum ad caedem ac pugnam comparari.
+
+illo tempore Q. Cati Aemiliani, hominis honesti, quem vos nostis, duo homines occiderunt; multa alia fecerunt; passim vagabantur armati, non obscure, sed ut plane intellegere viderentur ad quam rem parati essent; agros, vias denique infestas habebant. in Thurinum interea Tullius. iste pater familias Asiaticus beatus, novus arator et idem pecuarius, cum ambularet in agro, animadvertit in hac ipsa centuria Populiana aedificium non ita magnum servumque M. Tulli Philinum.
+
+' vobis,' inquit, 'istic negoti in meo est?' respondit pudenter, at non stulte, dominum esse ad villam; posse eum cum eo disceptare si quid vellet. Fabius Acerronium—nam ibi tum erat—ut secum simul veniat ad Tullium.. villam erat Tullius. Fabius ut aut ipse Tullium deduceret aut ab eo deduceretur. deducturum se Tullius, vadimonium Fabio Romam promissurum. in ea condicione Fabius. disceditur.
+
+nocte, iam fere cum lux adpropinquaret, ad illud aedificium de quo antea dixi, quod erat in centuria Populiana, servi P. Fabi frequentes armatique veniunt; introitum ipsi sibi vi manuque patefaciunt; homines magni preti servos M. Tulli nec opinantis adoriuntur; quod facile factu fuit, neque tam multos neque repugnantis multi armati paratique occidunt tantumque odi crudelitatisque hab uerunt ut eos omnis gurgulionibus insectis relinquerent, ne, si quem semivivum ac spirantem etiam reliquissent, minor eis honor haberetur; praeterea tectum villamque disturbant.
+
+rem tam atrocem, tam indignam, tam repentinam nuntiat M. Tullio Philinus, quem antea nominavi, qui graviter saucius e caede effugerat. Tullius statim dimittit ad amicos, quorum ex vicinitate Thurina bona atque honesta copia praesto fuit.
+
+acerba res et misera videbatur. Cum amici in comm turbarunt.
+
+, quaeso, in eas res quas commemoro hominum honestorum testimonium. quae mei testes dicunt, fatetur adversarius eos vere dicere; quae mei testes non dicunt, quia non viderunt nec sciunt, ea dicit ipse adversarius. testes dicunt occisos homines; cruorem in locis pluribus, deiectum aedificium se vidisse dicunt; nihil amplius. Fabius? Horum nihil negat. ergo addit amplius?
+
+Suam familiam fecisse dicit. modo? hominibus armatis. animo? Vt id fieret quod factum est. est id? Vt homines M. Tulli occiderentur. ergo eo animo factum est ut homines unum in locum convenirent, ut arma caperent, ut certo consilio certum in locum proficiscerentur, ut idoneum tempus eligerent, ut caedem facerent, id si voluerunt et cogitarunt et perfecerunt, potestis eam voluntatem, id consilium, id factum a dolo malo seiungere?
+
+istuc totum ' dolo malo ' additur in hoc iudicio eius causa qui agit, non illius quicum agitur. ut intellegatis, recuperatores, quaeso ut diligenter attendatis; profecto quin ita sit non dubitabitis.
+
+ita iudicium daretur ut id concluderetur quod a familia factum esset, si quae familia ipsa in caede interesse noluisset et homines aut servos aut liberos coegisset aut conduxisset, totum hoc iudicium et praetoris severitas dissolveretur. enim potest hoc iudicare, qua in re familia non interfuisset, in ea re eam ipsam familiam vi armatis hominibus damnum dedisse., id quia poterat fieri et facile poterat, idcirco non satis habitum est quaeri quid familia ipsa fecisset, verum etiam illud, quid familiae dolo malo factum esset.
+
+cum facit ipsa familia vim armatis coactisve hominibus et damnum cuipiam dat, id dolo malo fieri necesse est; cum autem rationem init ut ea fiat, familia ipsa non facit, fit autem dolo malo eius. addito ' dolo malo ' actoris et petitoris fit causa copiosior. Vtrum enim ostendere potest, sive eam ipsam familiam sibi damnum dedisse, sive consilio et opera eius familiae factum esse, vincat necesse est.
+
+praetores per hos annos interdicere hoc modo, velut inter me et M. Claudium: Vnde dolo malo tvo, M. Tvlli, M. Clavdivs avt familia avt procvrator eivs vi detrvsvs est, cetera ex formula., ubi ita interdictum est et sponsio facta, ego me ad iudicem sic defendam ut vi me deiecisse confitear, dolo malo negem, ecquis me audiat? opinor equidem, quia, si vi deieci M. Claudium, dolo malo deieci; in vi enim dolus malus inest, et Claudio utrumvis satis est planum facere, vel se a me ipso vi deiectum esse vel me consilium inisse ut vi deiceretur.
+
+igitur datur Claudio, cum ita interdicitur, unde dolo malo meo vi deiectus sit, quam si daretur, unde a me vi deiectus esset. in hoc posteriore, nisi ipse egomet deiecissem, vincerem sponsionem; in illo priore, ubi dolus malus additur, sive consilium inissem, sive ipse deiecissem, necesse erat te dolo malo meo vi deiectum iudicari.
+
+persimile atque adeo plane idem est in hoc iudicio, recuperatores. enim abs te, si ita iudicium datum esset: Qvantae pecvniae paret a familia P. Fabii vi hominibvs armatis damnvm M. Tvllio datvm, quid haberes quod diceres?, opinor. enim omnia et familiam P. Fabi fecisse et vi hominibus armatis fecisse. additum est ' dolo malo,' id te adiuvare putas in quo opprimitur et excluditur omnis tua defensio?
+
+si additum id non esset ac tibi libitum esset ita defendere, tuam familiam non fecisse, vinceres, si id probare potuisses., sive illa defensione uti voluisses sive hac qua uteris, condemneris necesse est; nisi putamus eum in iudi cium venire qui consilium inierit, illum qui fecerit non venire, cum consilium sine facto intellegi possit, factum sine consilio non possit., quod factum eius modi est ut sine occulto consilio, sine nocte, sine vi, sine damno alterius, sine armis, sine caede, sine maleficio fieri non potuerit, id sine dolo malo factum iudicabitur?, qua in re praetor illi improbam defensionem tolli voluit, in ea re mihi difficiliorem actionem factam putabitis?
+
+mihi isti singulari ingenio videntur esse qui et id quod mihi contra illos datum est ipsi adripiunt et scopulo atque saxis pro portu stationeque utuntur. in dolo malo volunt delitiscere, in quo, non modo cum omnia ipsi fecerunt quae fatentur, verum etiam si per alios id fecissent, haererent ac tenerentur.
+
+non in una re sola, quod mihi satis est, neque in universa re solum, sed singillatim in omnibus dolum malum exstare dico. capiunt ut ad servos M. Tulli veniant; dolo malo faciunt. capiunt; dolo malo faciunt. ad insidiandum atque celandum idoneum eligunt; dolo malo faciunt. in tectum inruunt; in ipsa vi dolus est. homines, tectum diruunt; nec homo occidi nec consulto alteri damnum dari sine dolo malo potest. si omnes partes sunt eius modi ut in singulis dolus malus haereat, universam rem et totum facinus sine dolo malo factum iudicabitis?
+
+ad haec Quinctius? nihil certum neque unum, in quo non modo possit verum putet se posse consistere. enim illud ini e c i t, nihil posse dolo malo familiae fieri. loco non solum fecit ut defenderet Fabium, sed ut omnino huiusce modi iudicia dissolveret. si venit id in iudicium de familia quod omnino familia nulla potest committere, nullum est iudicium, absolvantur omnes de si mili causa necesse est, bona me hercule!
+
+hoc solum esset, tamen vos, tales viri, nolle deberetis maximam rem coniunctam cum summa re publica fortunisque privatorum, severissimum iudicium maximaque ratione compositum per vos videri esse dissolutum. non id solum agitur hoc iudicium sic exspectatur ut non unae rei statui, sed omnibus constitui putetur.
+
+ego intellego, et tamen dicendum est ad ea quae dixit Quinctius, non quo ad rem pertineat, sed ne quid, quia a me praetermissum sit, pro concesso putetur.
+
+oportere quaeri, homines M. Tulli iniuria occisi sint necne. quo hoc primum quaero, venerit ea res in hoc iudicium necne. non venit, quid attinet aut nos dicere aut hos quaerere? autem venit, quid attinuit te tam multis verbis a praetore postulare ut adderet in iudicium ' inivria,' et, quia non impetrasses, tribunos pl. appellare et hic in iudicio queri praetoris iniquitatem, quod de iniuria non addidisset?
+
+cum praetorem postulabas, cum tribunos appellabas, nempe ita dicebas, potestatem tibi fieri oportere ut, si posses, recuperatoribus persuaderes non esse iniuria M. Tullio damnum datum. ergo ideo in iudicium addi voluisti, ut de eo tibi apud recuperatores dicere liceret, eo non addito nihilo minus tamen ita dicis, quasi id ipsum a quo d e pul s u s es impetraris? quibus verbis in decernendo Metellus usus est ceteri que quos appellasti? haec omnium fuit oratio, quod vi hominibus armatis coactisve familia fecisse diceretur, id tametsi nullo iure fieri potuerit, tamen se nihil addituros? recte, recuperatores.
+
+cum perfugio nullo constituto tamen haec scelera servi audacissime faciant, domini impudentissime confiteantur, quid censetis fore, si praetor iudicet eius modi caedis fieri iure posse? quicquam interest utrum magistratus peccato defensionem constituant an peccandi potestatem licentiamque permittant?
+
+, recuperatores, non damno commoventur magistratus ut in haec verba iudicium dent. si id esset, nec recuperatores potius darent quam iudicem nec in universam familiam, sed in eum qui cum nominatim ageretur, nec in quadruplum, sed in duplum, et ad ' damnvm ' adderetur ' inivria. ' enim is qui hoc iudicium dedit, de ceteris damnis ab lege Aquilia recedit, in quibus nihil agitur nisi damnum, qua de re praetor animum debet advertere.
+
+hoc iudicio videtis agi de vi, videtis agi de hominibus armatis, videtis aedificiorum expugnationes, agri vastationes, hominum trucidationes, incendia, rapinas, sanguinem in iudicium venire, et miramini satis habuisse eos qui hoc iudicium dederunt id quaeri, utrum haec tam acerba, tam indigna, tam atrocia facta essent necne, non utrum iure facta an iniuria? ergo praetores a lege Aquilia recesserunt, quae de damno est, sed de vi et armis severum iudicium constituerunt, nec ius et iniuriam quaeri nusquam putarunt oportere, sed eos qui armis quam iure agere maluissent de iure et iniuria disputare noluerunt.
+
+ideo de iniuria non addiderunt quod in aliis rebus non adderent, sed ne ipsi iudicarent posse homines servos iure arma capere et manum cogere, neque quod putarent, si additum esset, posse hoc talibus viris persuaderi non iniuria factum, sed ne quod tamen scutum dare in iudicio viderentur eis quos propter haec arma in iudicium vocavissent.
+
+illud interdictum apud maiores nostros de vi quod hodie quoque est: Vnde tv avt familia avt procvrator tvvs illvm avt familiam avt procvratorem illivs in hoc anno vi deiecisti. additur illius iam hoc causa quicum agitur: cvm ille possideret, et hoc amplius: qvod nec vi nec clam nec precario possideret.
+
+dantur ei qui vi alterum detrusisse dicitur; quorum si unum quodlibet probare iudici potuerit, etiam si confessus erit se vi deiecisse, vincat necesse est vel non possedisse eum qui deiectus sit, vel vi ab se possedisse, vel clam, vel precario. qui de vi confessus esset tot defensiones tamen ad causam obtinendam maiores reliquerunt.
+
+illud alterum interdictum consideremus, quod item nunc est constitutum propter eandem iniquitatem temporum nimiamque hominum licentiam boni debent dicere.
+
+ille legem mihi de xii tabulis recitavit, quae permittit ut furem noctu liceat occidere et luce, si se telo defendat, et legem antiquam de legibus sacratis, quae iubeat inpune occidi eum qui tribunum pl. pulsaverit., ut opinor, praeterea de legibus.
+
+in re hoc primum quaero, quid ad hoc iudicium recitari istas leges pertinuerit. quem tribunum pl. servi M. Tulli pulsaverunt? opinor. furatum domum P. Fabi noctu venerunt? id quidem. luce furatum venerunt et se telo defenderunt? non potest. istis legibus quas recitasti certe non potuit istius familia servos M. Tulli occidere.
+
+',' inquit, 'ad eam rem recitavi, sed ut hoc intellegeres, non visum esse maioribus nostris tam indignum istuc nescio quid quam tu putas, hominem occidi.' primum istae ipsae leges quas recitas, ut mittam cetera, significant quam noluerint maiores nostri, nisi cum pernecesse esset, hominem occidi. lex sacrata est, quam rogarunt armati, ut inermes sine periculo possent esse. re non iniuria, quo magistratu munitae leges sunt, eius magistratus corpus legibus vallatum esse voluerunt.
+
+Furem, hoc est praedonem et latronem, luce occidi vetant xii tabulae; cum intra parietes tuos hostem certissimum teneas, nisi se telo defendit, inquit, etiam si cum telo venerit, nisi utetur telo eo ac repugnabit, non occides; quod si repugnat, ' endoplorato,' hoc est conclamato, ut aliqui audiant et conveniant. ad hanc clementiam addi potest, qui ne hoc quidem permiserint, ut domi suae caput suum sine testibus et arbitris ferro defendere liceret?
+
+est cui magis ignosci conveniat, quoniam me ad xii tabulas revocas, quam si quis quem imprudens occiderit?, opinor. enim tacita lex est humanitatis ut ab homine consili, non fortunae poena repetatur. huiusce rei veniam maiores non dederunt. lex est in xii tabulis: telvm manv fvgit ma gis qvam iecit qui furem occiderit, iniuria occiderit. ob rem? ius constitutum nullum est., si se telo defenderit? iniuria. ita? constitutum est.
+
+.. tamen per vim factum esset, tamen in eo ipso loco qui tuus esset, non modo servos M. Tulli occidere iure non potuisti verum etiam, si tectum hoc insciente aut per vim demolitus esses quod hic in tuo aedificasset et suum esse defenderet, id vi aut clam factum iudicaretur. ipse iam statue quam verum sit, cum paucas tegulas deicere impune familia tua non potuerit, maximam caedem sine fraude facere potuisse. ipse tecto illo disturbato si hodie postulem, quod vi aut clam factum sit, tu aut per arbitrum restituas aut sponsione condemneris necesse est; nunc hoc probabis viris talibus, cum aedificium tuo iure disturbare non potueris quod esset, quem ad modum tu vis, in tuo, homines qui in eo aedificio fuerint te tuo iure potuisse occidere?
+
+' servus meus non comparet, qui visus est cum tuis; at casa mea est incensa a tuis.' ad haec respondeam? falsa esse; verum tamen confitebor. postea? sequitur, ut familiam M. Tulli concidi oportuerit? me hercule ut corium peti, vix ut gravius expostulari; verum ut esses durissimus, agi quidem usitato iure et cotidiana actione potuit. opus fuit vi, quid armatis hominibus, quid caede, quid sanguine?
+
+' enim oppugnatum me fortasse venissent.' est illorum in causa perdita extrema non oratio neque defensio, sed coniectura et quasi divinatio. oppugnatum venturi erant? quem? Fabium. consilio? Vt occiderent. ob causam? quid ut proficerent? qui comperisti? et ut rem perspicuam quam paucissimis verbis agam, dubitari hoc potest, recuperatores, utri oppugnasse videantur, qui ad villam venerunt, an qui in villa manserunt?
+
+qui occisi sunt, an ei ex quorum numero saucius factus est nemo? qui cur facerent, causa non fuit, an ei qui fecisse se confitentur? ut hoc tibi credam, metuisse te ne oppugnarere, quis hoc statuit umquam, aut cui concedi sine summo omnium periculo potest, ut eum iure potuerit occidere a quo metuisse se dicat ne ipse posterius occideretur?

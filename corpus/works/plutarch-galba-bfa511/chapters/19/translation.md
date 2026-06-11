@@ -1,0 +1,29 @@
+---
+work_id: "bfa51120-6999-54d0-b864-b8ee71ad836d"
+work_slug: "plutarch-galba-bfa511"
+work_title: Galba
+author_name: Plutarch
+chapter_number: 19
+chapter_title: Chapter 19
+chapter_slug: 19
+variant_id: "42ea8a3b-fa83-58cf-bc78-b2fef235852f"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 409
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg065.perseus-eng2:19"
+translator: Bernadotte Perrin
+---
+
+The legions also that were under the command of Tigellinus frequently behaved with similar insolence, and letters on the subject were sent to Galba by his agents. So the emperor, fearing that it was not only his old age but also his childlessness that brought him into contempt, planned to adopt some young man of illustrious family and appoint him his successor.
+
+Marcus Otho, now, was a man of good lineage, but from his very childhood corrupted by luxury and the pursuit of pleasure as few Romans were. And as Homer often calls Paris the husband of fair-haired Helen, giving him a dignity borrowed from his wife, since he had no other title to fame, so Otho was celebrated at Rome for his marriage with Poppaea. With Poppaea Nero was enamoured while she was the wife of Crispinus, but since he respected his own wife still and feared his mother, he put Otho up to soliciting her favours for him.
+
+For because of Otho’s lavish prodigality Nero made an intimate friend of him, and was well pleased to be rallied by him often for parsimony and meanness. Thus, we are told that Nero once anointed himself with a costly ointment and sprinkled a little of it upon Otho; whereupon Otho, entertaining the emperor in his turn on the following day, suddenly brought into play gold and silver pipes on all sides of the room, out of which the ointment gushed freely, like so much water.
+
+But as for Poppaea, Otho corrupted her with hopes of Nero’s favour and seduced her first himself, and persuaded her to leave her husband. However, after she had come to live with him as his wife, he was not content to have only a share in her favours, and was loth to give Nero a share, while Poppaea herself, as we are told, was not displeased at the rivalry between them.
+
+For it is said that she would shut out Nero although Otho was not at home; whether it was that she sought to keep his pleasure in her from cloying, or whether, as some say, she recoiled from a marriage with the emperor, but was not averse to having him as a lover, out of mere wantonness. Otho, accordingly, came into peril of his life; and it was strange that although his own wife and sister were put to death by Nero on account of his marriage with Poppaea, Otho himself was spared.

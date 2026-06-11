@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-pelopidas-ddfb4d",
+  "work_title": "Pelopidas",
+  "chapter_number": 14,
+  "chapter_title": "Chapter 14",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5f536f80-8b94-5139-998f-2a635e564e39",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 194,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg021.perseus-grc2:14"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9cde9cf-d888-5fca-bee0-c808b68681df",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 260,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg021.perseus-eng2:14"
+    }
+  ]
+}

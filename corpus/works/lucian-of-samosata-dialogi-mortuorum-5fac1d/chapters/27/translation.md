@@ -1,0 +1,63 @@
+---
+work_id: "5fac1d71-6879-5b51-abf0-837256f0b9fa"
+work_slug: "lucian-of-samosata-dialogi-mortuorum-5fac1d"
+work_title: Dialogi mortuorum
+author_name: Lucian of Samosata
+chapter_number: 27
+chapter_title: Book 27
+chapter_slug: 27
+variant_id: "abdb80c7-89bb-53c9-b60c-2cfc9f3c40f2"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 978
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg066.perseus-eng4:27"
+translator: Francis George Fowler
+---
+
+Diogenes: Now, friends, we have plenty of time; what say you to a stroll? we might go to the entrance and have a look at the new-comers—what they are and how they behave.
+
+Antisthenes: The very thing. It will be an amusing sight—some weeping, some imploring to be let go, some resisting; when Hermes collars them, they will stick their heels in and throw their weight back; and all to no purpose.
+
+Crato: Very well; and meanwhile, let me give you my experiences on the way down.
+
+Diogenes: Yes, go on, Crates; I dare say you saw some entertaining sights.
+
+Crato: We were a large party, of which the most distinguished were Ismenodorus, a rich townsman of ours, Arsaces, ruler of Media, and Oroetes the Armenian. Ismenodorus had been murdered by robbers going to Eleusis over Cithaeron, I believe. He was moaning, nursing his wound, apostrophizing the young children he had left, and cursing his foolhardiness. He knew Cithaeron and the Eleutherae district were all devastated by the wars, and yet he must take only two servants with him— with five bowls and four cups of solid gold in his baggage, too.
+
+Crato: Arsaces was an old man of rather imposing aspect; he expressed his feelings in true barbaric fashion, was exceedingly angry at being expected to walk, and kept calling for his horse. In point of factit had died with him, it and he having been simultaneously transfixed by a Thracian pikeman in the fight with the Cappadocians on the Araxes, Arsaces described to us how he had charged far in advance of his men, and the Thracian, standing his ground and sheltering himself with his buckler, warded off the lance, and then, planting his pike, transfixed man and horse together.
+
+Antisthenes: How could it possibly be done simultaneously?
+
+Crato: Oh, quite simple, The Median was charging with his thirty-foot lance in front of him; the Thracian knocked it aside with his buckler; the point glanced by; then he knelt, received the charge on his pike, pierced the horse’s chest—the spirited beast impaling itself by its own impetus—, and finally ran Arsaces through groin and buttock. You see what happened; it was the horse’s doing rather than the man’s. However, Arsaces did not at all appreciate equality, and wanted to come down on horseback.
+
+Crato: As for Oroetes, he was so tender-footed that he could not stand, far less walk. That is the way with all the Medes—once they are off their horses, they go delicately on tiptoe as if they were treading on thorns. He threw himself down, and there he lay; nothing would induce him to get up; so the excellent Hermes had to pick him up and carry him to the ferry; how I laughed!
+
+Antisthenes: When I came down, I did not keep with the crowd; I left them to their blubberings, ran on to the ferry, and secured a comfortable seat for the passage. Then as we crossed, they were divided between tears and sea-sickness, and gave me a merry time of it.
+
+Diogenes: You two have described your fellow passengers; now for mine. There came down with me Blepsias, the Pisatan usurer, Lampis, an Acarnanian freelance, and the Corinthian millionaire Damis, The last had been poisoned by his son, Lampis had cut his throat for love of the courtesan Myrtium, and the wretched Blepsias is supposed to have died of starvation; his awful pallor and extreme emaciation looked like it. I inquired into the manner of their deaths, though I knew very well. When Damis exclaimed upon his son, ‘You only have your deserts,’ I remarked,—‘an old man of ninety living in luxury yourself with your million of money, and fobbing off your eighteen-year son with a few pence! As for you, sir Acarnanian’—he was groaning and cursing Myrtium—, ‘why put the blame on Love? it belongs to yourself; you were never afraid of an enemy—took all sorts of risks in other people’s service—and then let yourself be caught, my hero, by the artificial tears and sighs of the first wench you came across.’ Blepsias uttered his own condemnation, without giving me time to do it for him: he had hoarded his money for heirs who were nothing to him, and been fool enough to reckon on immortality. I assure you it was no common satisfaction I derived from their whinings.
+
+Diogenes: But here we are at the gate; we must keep our eyes open, and get the earliest view. Lord, lord, what a mixed crowd! and all in tears except these babes and sucklings. Why, the hoary seniors are all lamentation too; strange! has madam Life given them a love-potion?
+
+Diogenes: I must interrogate this most reverend senior of them all.—Sir, why weep, seeing that you have died full of years? has your excellency any complaint to make, after so long a term? Ah, but you were doubtless a king.
+
+Pauper: Not so.
+
+Diogenes: A provincial governor, then?
+
+Pauper: No, nor that.
+
+Diogenes: I see; you were wealthy, and do not like leaving your boundless luxury to die.
+
+Pauper: You are quite mistaken; I was near ninety, made a miserable livelihood out of my line and rod, was excessively poor, childless, a cripple, and had nearly lost my sight.
+
+Diogenes: And you still wished to live?
+
+Pauper: Ay, sweet is the light, and dread is death; would that one might escape it!
+
+Diogenes: You are beside yourself, old man; you are like a child kicking at the pricks, you contemporary of the ferryman. Well, we need wonder no more at youth, when age is still in love with life; one would have thought it should court death as the cure for its proper ills. —And now let us go our way, before our loitering here brings suspicion on us; they may think we are planning an escape.
+
+Henry Watson Fowler

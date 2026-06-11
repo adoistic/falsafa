@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-on-organization-b8f961",
+  "work_title": "On Organization",
+  "chapter_number": 1,
+  "chapter_title": "On Organization",
+  "chapter_slug": "01-on-organization",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fa148e30-74fa-5f24-a4b7-65c39796b5cc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2310,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg013.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1d0cb0b9-3668-57ce-bf9e-7fd01e75fe29",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3154,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg013.perseus-eng2"
+    }
+  ]
+}

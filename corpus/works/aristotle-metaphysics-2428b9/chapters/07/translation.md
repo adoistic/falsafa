@@ -1,0 +1,423 @@
+---
+work_id: "2428b902-2f43-5fea-a900-16ef8f00cc04"
+work_slug: "aristotle-metaphysics-2428b9"
+work_title: Metaphysics
+author_name: Aristotle
+chapter_number: 7
+chapter_title: Book 7
+chapter_slug: 07
+variant_id: "d201d243-ca13-5140-8ae8-4ce9d0571ff5"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 13292
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg025.perseus-eng2:7"
+translator: Hugh Tredennick
+---
+
+The term being has several senses, which we have classified in our discussion of the number of senses in which terms are used. It denotes first the what of a thing, i.e. the individuality; and then the quality or quantity or any other such category. Now of all these senses which being has, the primary sense is clearly the what, which denotes the substance
+
+(because when we describe the quality of a particular thing we say that it is good or bad, and not five feet high or a man; but when we describe what it is, we say not that it is white or hot or five feet high, but that it is a man or a god), and all other things are said to be because they are either quantities or qualities or affections or some other such thing.
+
+Hence one might raise the question whether the terms to walk and to be well and to sit signify each of these things as being, or not; and similarly in the case of any other such terms; for not one of them by nature has an independent existence or can be separated from its substance. Rather, if anything it is the thing which walks or sits or is well that is existent.
+
+The reason why these things are more truly existent is because their subject is something definite; i.e. the substance and the individual, which is clearly implied in a designation of this kind, since apart from it we cannot speak of the good or sitting. Clearly then it is by reason of the substance that each of the things referred to exists.
+
+Hence that which is primarily, not in a qualified sense but absolutely, will be substance.
+
+Now primary has several meanings; but nevertheless substance is primary in all senses, both in definition and in knowledge and in time. For none of the other categories can exist separately, but substance alone;
+
+and it is primary also in definition, because in the formula of each thing the formula of substance must be inherent; and we assume that we know each particular thing most truly when we know what man or fire is— rather than its quality or quantity or position; because we know each of these points too when we know what the quantity or quality is.
+
+Indeed, the question which was raised long ago, is still and always will be, and which always baffles us— What is Being? —is in other words What is substance? Some say that it is one; others, more than one; some, finite; others, infinite. And so for us too our chief and primary and practically our only concern is to investigate the nature of being in the sense of substance.
+
+Substance is thought to be present most obviously in bodies. Hence we call animals and plants and their parts substances, and also natural bodies, such as fire, water, earth, etc., and all things which are parts of these or composed of these, either of parts or them or of their totality; e.g. the visible universe and its parts, the stars and moon and sun.
+
+We must consider whether (a) these are the only substances, or (b) these and some others, or (c) some of these, or (d) some of these and some others, or (e) none of these, but certain others. Some hold that the bounds of body—i.e. the surface, line, point and unit—are substances, and in a truer sense than body or the solid.
+
+Again, some believe that there is nothing of this kind besides sensible things, while others believe in eternal entities more numerous and more real than sensible things. Thus Plato posited the Forms and the objects of mathematics as two kinds of substance, and as a third the substance of sensible bodies;
+
+and Speusippus assumed still more kinds of substances, starting with the One, and positing principles for each kind: one for numbers, another for magnitudes, and then another for the soul. In this way he multiplies the kinds of substance. Some again hold that the Forms and numbers have the same nature, and that other things—lines and planes—are dependent upon them; and soon back to the substance of the visible universe and sensible things.
+
+We must consider, then, with regard to these matters, which of the views expressed is right and which wrong; and what things are substances; and whether there are any substances besides the sensible substances, or not; and how sensible substances exist; and whether there is any separable substance (and if so, why and how) or no substance besides the sensible ones. We must first give a rough sketch of what substance is.
+
+The term substance is used, if not in more, at least in four principal cases; for both the essence and the universal and the genus are held to be the substance of the particular, and fourthly the substrate. The substrate is that of which the rest are predicated, while it is not itself predicated of anything else. Hence we must first determine its nature, for the primary substrate is considered to be in the truest sense substance.
+
+Now in one sense we call the matter the substrate; in another, the shape; and in a third, the combination of the two. By matter I mean, for instance, bronze; by shape, the arrangement of the form; and by the combination of the two, the concrete thing: the statue. Thus if the form is prior to the matter and more truly existent, by the same argument it will also be prior to the combination.
+
+We have now stated in outline the nature of substance—that it is not that which is predicated of a subject, but that of which the other things are predicated. But we must not merely define it so, for it is not enough. Not only is the statement itself obscure, but also it makes matter substance; for if matter is not substance, it is beyond our power to say what else is.
+
+For when everything else is removed, clearly nothing but matter remains; because all the other things are affections, products and potencies of bodies, and length, breadth and depth are kinds of quantity, and not substances. For quantity is not a substance; rather the substance is that to which these affections primarily belong.
+
+But when we take away length and breadth and depth we can see no thing remaining, unless it be the something bounded by them; so that on this view matter must appear to be the only substance. By matter I mean that which in itself is neither a particular thing nor a quantity nor designated by any of the categories which define Being.
+
+For there is something of which each of these is predicated, whose being is different from that of each one of the categories; because all other things are predicated of substance, but this is predicated of matter. Thus the ultimate substrate is in itself neither a particular thing nor a quantity nor anything else. Nor indeed is it the negations of these; for the negations too will only apply to it accidentally.
+
+If we hold this view, it follows that matter is substance. But this is impossible; for it is accepted that separability and individuality belong especially to substance. Hence it would seem that the form and the combination of form and matter are more truly substance than matter is.
+
+The substance, then, which consists of both—I mean of matter and form—may be dismissed, since it is posterior and obvious. Matter too is in a sense evident. We must consider the third type, for this is the most perplexing.
+
+Now it is agreed that some sensible things are substances, and so we should begin our inquiry in connection with these.
+
+It is convenient to advance to the more intelligible; for learning is always acquired in this way, by advancing through what is less intelligible by nature to what is more so. And just as in actions it is our task to start from the good of the individual and make absolute good good for the individual, so it is our task to start from what is more intelligible to oneself and make what is by nature intelligible intelligible to oneself.
+
+Now that which is intelligible and primary to individuals is often but slightly intelligible, and contains but little reality; but nevertheless, starting from that which is imperfectly intelligible but intelligible to oneself, we must try to understand the absolutely intelligible; advancing, as we have said, by means of these very things which are intelligible to us.
+
+Since we distinguished at the beginning the number of ways in which substance is defined, and since one of these appeared to be essence, we must investigate this.
+
+First, let us make certain linguistic statements about it.
+
+The essence of each thing is that which it is said to be per se. To be you is not to be cultured, because you are not of your own nature cultured. Your essence, then, is that which you are said to be of your own nature. But not even all of this is the essence; for the essence is not that which is said to be per se in the sense that whiteness is said to belong to a surface, because being a surface is not being white.
+
+Nor is the essence the combination of both, being a white surface. Why? Because the word itself is repeated. Hence the formula of the essence of each thing is that which defines the term but does not contain it. Thus if being a white surface is the same as being a smooth surface, white and smooth are one and the same.
+
+But since in the other categories too there are compounds with substance (because there is a substrate for each category, e.g. quality, quantity, time, place and motion), we must inquire whether there is a formula of the essence of each one of them; whether these compounds, e.g. white man, also have an essence.
+
+Let the compound be denoted by X. What is the essence of X?
+
+But this is not even a per se expression. We reply that there are two ways in which a definition can be not per se true of its subject: (a) by an addition, and (b) by an omission.
+
+In one case the definition is not per se true because the term which is being defined is combined with something else; as if, e.g., in defining whiteness one were to state the definition of a white man. In the other, because something else (which is not in the definition) is combined with the subject; as if, e.g., X were to denote white man, and X were defined as white. White man is white, but its essence is not to be white. But is to be X an essence at all?
+
+Surely not. The essence is an individual type; but when a subject has something distinct from it predicated of it, it is not an individual type. E.g., white man is not an individual type; that is, assuming that individuality belongs only to substances. Hence essence belongs to all things the account of which is a definition.
+
+We have a definition, not if the name and the account signify the same (for then all accounts would be definitions; because any account can have a name, so that even the Iliad will be a definition), but if the account is of something primary. Such are all statements which do not involve the predication of one thing of another.
+
+Hence essence will belong to nothing except species of a genus, but to these only; for in these the predicate is not considered to be related to the subject by participation or affection, nor as an accident. But of everything else as well, if it has a name, there will be a formula of what it means —that X belongs to Y; or instead of a simple formula one more exact—but no definition, nor essence.
+
+Or perhaps definition, like the what, has more than one sense. For the what in one sense means the substance and the individual, and in another each one of the categories: quantity, quality, etc.
+
+Just as is applies to everything, although not in the same way, but primarily to one thing and secondarily to others; so what it is applies in an unqualified sense to substance, and to other things in a qualified sense. For we might ask also what quality is, so that quality also is a what it is; not however without qualification, but just as in the case of not-being some say by a verbal quibble that not-being is —not in an unqualified sense, but is not-being—so too with quality.
+
+Now although we must also consider how we should express ourselves in each particular case, it is still more important to consider what the facts are. Hence now, since the language which we are using is clear, similarly essence also will belong primarily and simply to substance, and secondarily to other things as well; just as the what it is is not essence simply, but the essence of a quality or quantity.
+
+For it must be either by equivocation that we say that these things are, or by adding and subtracting qualifications, as we say that the unknowable is known; since the truth is that we use the terms neither equivocally nor in the same sense, but just as we use the term medical in relation to one and the same thing; but not of one and the same thing, nor yet equivocally. The term medical is applied to a body and a function and an instrument, neither equivocally nor in one sense, but in relation to one thing.
+
+However, in whichever way one chooses to speak of these things, it matters nothing; but this point is clear: that the primary and unqualified definition, and the essence, belong to substances. It is true that they belong equally to other things too, but not primarily. For if we assume this, it does not necessarily follow that there is a definition of anything which means the same as any formula; it must mean the same as a particular kind of formula, i.e. the formula of one thing— one not by continuity like the Iliad, or things which are arbitrarily combined, but in one of the proper senses of one. And one has the same variety of senses as being. Being means sometimes the individual thing, sometimes the quantity, sometimes the quality. Hence even white man will have a formula and definition; but in a different sense from the definition of whiteness and substance.
+
+The question arises: If one denies that a formula involving an added determinant is a definition, how can there be a definition of terms which are not simple but coupled? Because they can only be explained by adding a determinant.
+
+I mean, e.g., there is nose and concavity and snubness, the term compounded of the two, because the one is present in the other. Neither concavity nor snubness is an accidental, but a per se affection of the nose. Nor are they attributes in the sense that white is of Callias or a man, because Callias is white and is by accident a man; but in the sense that male is an attribute of animal, and equality of quantity, and all other attributes which we say belong per se.
+
+That is, all things which involve the formula or name of the subject of the affection, and cannot be explained apart from it. Thus white can be explained apart from man, but not female apart from animal. Thus either these terms have no essence or definition, or else they have it in a different sense, as we have said.
+
+But there is also another difficulty about them. If snub nose is the same as concave nose, snub will be the same as concave. But if not, since it is impossible to speak of snub apart from the thing of which it is a per se affection (because snub means a concavity in the nose), either it is impossible to call the nose snub, or it will be a tautology, concave-nose nose because snub nose will equal concave-nose nose.
+
+Hence it is absurd that such terms as these should have an essence. Otherwise there will be an infinite regression; for in snub-nose nose there will be yet another nose. Clearly, then, there is definition of substance alone. If there were definition of the other categories also, it would have to involve an added determinant, as in the case of the qualitative; and of the odd, for this cannot be defined apart from number; nor can female apart from animal.
+
+By involving an added determinant I mean descriptions which involve a tautology, as in the above examples. Now if this is true, there will be no definition of compound expressions either; e.g., odd number. We fail to realize this because our terms are not used accurately. If on the other hand there are definitions of these too, either they are defined in a different way, or, as we have said, definition and essence must be used in more than one sense;
+
+thus in one sense there will be no definition of anything, and nothing will have an essence, except substances; and in another those other things will have a definition and essence. It is obvious, then, that the definition is the formula of the essence, and that the essence belongs either only to substances, or especially and primarily and simply.
+
+We must inquire whether the essence is the same as the particular thing, or different. This is useful for our inquiry about substance; because a particular thing is considered to be nothing other than its own substance, and the essence is called the substance of the thing.
+
+In accidental predications, indeed, the thing itself would seem to be different from its essence; e.g., white man is different from essence of white man. If it were the same, essence of man and essence of white man would be the same. For man and white man are the same, they say, and therefore essence of white man is the same as essence of man.
+
+But perhaps it is not necessarily true that the essence of accidental combinations is the same as that of the simple terms; because the extremes of the syllogism are not identical with the middle term in the same way. Perhaps it might be thought to follow that the accidental extremes are identical; e.g. essence of white and essence of cultured; but this is not admitted.
+
+But in per se expressions, is the thing necessarily the same as its essence, e.g., if there are substances which have no other substances or entities prior to them, such as some hold the Ideas to be?
+
+For if the Ideal Good is to be different from the essence of good, and the Ideal Animal and Being from the essence of animal and being, there will be other substances and entities and Ideas besides the ones which they describe; and prior to them, if essence is substance. And if they are separate from each other, there will be no knowledge of the Ideas, and the essences will not exist
+
+(by being separate I mean if neither the essence of good is present in the Ideal Good, nor being good in the essence of good); for it is when we know the essence of it that we have knowledge of a thing. And it is the same with other essences as with the essence of good; so that if the essence of good is not good, neither will the essence of being be, nor the essence of one be one.
+
+Either all essences exist alike, or none of them; and so if not even the essence of being is, neither will any other essence exist. Again that to which essentially good does not apply cannot be good. Hence the good must be one with the essence of good, the beautiful with the essence of beauty, and so with all terms which are not dependent upon something else, but self-subsistent and primary.
+
+For it is enough if this is so, even if they are not Forms; or perhaps rather even if they are. (At the same time it is clear also that if the Ideas are such as some hold, the substrate will not be substance; for the Ideas must be substances, but not involving a substrate, because if they did involve one they would exist in virtue of its participation in them.)
+
+That each individual thing is one and the same with its essence, and not merely accidentally so, is apparent, not only from the foregoing considerations, but because to have knowledge of the individual is to have knowledge of its essence; so that by setting out examples it is evident that both must be identical.
+
+But as for the accidental term, e.g. cultured or white, since it has two meanings, it is not true to say that the term itself is the same as its essence; for both the accidental term and that of which it is an accident are white, so that in one sense the essence and the term itself are the same, and in another they are not, because the essence is not the same as the man or the white man, but it is the same as the affection.
+
+The absurdity 〈of separating a thing from its essence〉 will be apparent also if one supplies a name for each essence; for then there will be another essence besides the original one, e.g. the essence of horse will have a further essence. Yet why should not some things be identified with their essence from the outset, if essence is substance? Indeed not only are the thing and its essence one, but their formula is the same, as is clear from what we have just stated; for it is not by accident that the essence of one, and the one, are one.
+
+Moreover, if they are different, there will be an infinite series; for the essence of one and the one will both exist; so that in that case too the same principle will apply. Clearly, then, in the case of primary and self-subsistent terms, the individual thing and its essence are one and the same.
+
+It is obvious that the sophistical objections to this thesis are met in the same way as the question whether Socrates is the same as the essence of Socrates; for there is no difference either in the grounds for asking the question or in the means of meeting it successfully. We have now explained in what sense the essence is, and in what sense it is not, the same as the individual thing.
+
+Of things which are generated, some are generated naturally, others artificially, and others spontaneously; but everything which is generated is generated by something and from something and becomes something. When I say becomes something I mean in any of the categories; it may come to be either a particular thing or of some quantity or quality or in some place.
+
+Natural generation is the generation of things whose generation is by nature.
+
+That from which they are generated is what we call matter; that by which, is something which exists naturally; and that which they become is a man or a plant or something else of this kind, which we call substance in the highest degree. All things which are generated naturally or artificially have matter; for it is possible for each one of them both to be and not to be, and this possibility is the matter in each individual thing.
+
+And in general both that from which and that in accordance with which they are generated, is nature; for the thing generated, e.g. plant or animal, has a nature. And that by which they are generated is the so-called formal nature, which has the same form as the thing generated (although it is in something else); for man begets man.
+
+Such is the generation of things which are naturally generated; the other kinds of generation are called productions. All productions proceed from either art or potency or thought.
+
+Some of them are also generated spontaneously and by chance in much the same way as things which are naturally generated; for sometimes even in the sphere of nature the same things are generated both from seed and without it. We shall consider cases of this kind later. Things are generated artificially whose form is contained in the soul (by form I mean the essence of each thing, and its primary substance);
+
+for even contraries have in a sense the same form. For the substance of the privation is the opposite substance; e.g., health is the substance of disease; for disease is the absence of health, and health is the formula and knowledge in the soul. Now the healthy subject is produced as the result of this reasoning: since health is so-and-so, if the subject is to be healthy, it must have such-and-such a quality, e.g. homogeneity; and if so, it must have heat.
+
+And the physician continues reasoning until he arrives at what he himself finally can do; then the process from this point onwards, i.e. the process towards health, is called production. Therefore it follows in a sense that health comes from health and a house from a house; that which has matter from that which has not (for the art of medicine or of building is the form of health or the house). By substance without matter I mean the essence.
+
+In generations and motions part of the process is called cogitation, and part production—that which proceeds from the starting-point and the form is cogitation, and that which proceeds from the conclusion of the cogitation is production. Each of the other intermediate measures is carried out in the same way. I mean, e.g., that if A is to be healthy, his physical condition will have to be made uniform. What, then, does being made uniform entail? So-and-so; and this will be achieved if he is made hot. What does this entail? So-and-so; now this is potentially present, and the thing is now in his power.
+
+The thing which produces, and from which the process of recovering health begins, is the form in the soul, if the process is artificial; if spontaneous, it is whatever is the starting-point of the production for the artificial producer; as in medical treatment the starting-point is, perhaps, the heating of the patient; and this the doctor produces by friction. Heat in the body, then, is either a part of health, or is followed (directly or through several intermediaries) by something similar which is a part of health. This is the ultimate thing, namely that produces, and in this sense is a part of, health—or of the house
+
+(in the form of stones) or of other things. Therefore, as we say, generation would be impossible if nothing were already existent. It is clear, then, that some part must necessarily pre-exist; because the matter is a part, since it is matter which pre-exists in the product and becomes something. But then is matter part of the formula? Well, we define bronze circles in both ways; we describe the matter as bronze, and the form as such-and-such a shape; and this shape is the proximate genus in which the circle is placed.
+
+The bronze circle, then, has its matter in its formula. Now as for that from which, as matter, things are generated, some things when they are generated are called not so-and-so, but made of so-and-so; e.g., a statue is not called stone, but made of stone. But the man who becomes healthy is not called after that from which he becomes healthy. This is because the generation proceeds from the privation and the substrate, which we call matter (e.g., both the man and the invalid become healthy), but it is more properly said to proceed from the privation; e.g., a man becomes healthy from being an invalid rather than from being a man. Hence a healthy person is not called an invalid, but a man, and a healthy man. But where the privation is obscure and has no name—e.g. in bronze the privation of any given shape, or in bricks and wood the privation of the shape of a house—the generation is considered to proceed from these materials, as in the former case from the invalid.
+
+Hence just as in the former case the subject is not called that from which it is generated, so in this case the statue is not called wood, but is called by a verbal change not wood, but wooden; not bronze, but made of bronze; not stone, but made of stone; and the house is called not bricks, but made of bricks. For if we consider the matter carefully, we should not even say without qualification that a statue is generated from wood, or a house from bricks; because that from which a thing is generated should not persist, but be changed. This, then, is why we speak in this way.
+
+Now since that which is generated is generated by something (by which I mean the starting-point of the process of generation), and from something (by which let us understand not the privation but the matter; for we have already distinguished the meanings of these), and becomes something (i.e. a sphere or circle or whatever else it may be); just as the craftsman does not produce the substrate, i.e. the bronze, so neither does he produce the sphere; except accidentally, inasmuch as the bronze sphere is a sphere, and he makes the former.
+
+For to make an individual thing is to make it out of the substrate in the fullest sense. I mean that to make the bronze round is not to make the round or the sphere, but something else; i.e. to produce this form in another medium. For if we make the form, we must make it out of something else; for this has been assumed. E.g., we make a bronze sphere; we do this in the sense that from A, i.e. bronze, we make B, i.e. a sphere.
+
+If, then, we make the spherical form itself, clearly we shall have to make it in the same way; and the processes of generation will continue to infinity.
+
+It is therefore obvious that the form (or whatever we should call the shape in the sensible thing) is not generated—generation does not apply to it— nor is the essence generated; for this is that which is induced in something else either by art or by nature or by potency.
+
+But we do cause a bronze sphere to be, for we produce it from bronze and a sphere; we induce the form into this particular matter, and the result is a bronze sphere. But if the essence of sphere in general is generated, something must be generated from something; for that which is generated will always have to be divisible, and be partly one thing and partly another; I mean partly matter and partly form.
+
+If then a sphere is the figure whose circumference is everywhere equidistant from the center, part of this will be the medium in which that which we produce will be contained, and part will be in that medium; and the whole will be the thing generated, as in the case of the bronze sphere. It is obvious, then, from what we have said, that the thing in the sense of form or essence is not generated, whereas the concrete whole which is called after it is generated; and that in everything that is generated matter is present, and one part is matter and the other form.
+
+Is there then some sphere besides the particular spheres, or some house besides the bricks? Surely no individual thing would ever have been generated if form had existed thus independently. Form means of such a kind; it is not a definite individual, but we produce or generate from the individual something of such a kind; and when it is generated it is an individual of such a kind.
+
+The whole individual, Callias or Socrates, corresponds to this bronze sphere, but man and animal correspond to bronze sphere in general.
+
+Obviously therefore the cause which consists of the Forms (in the sense in which some speak of them, assuming that there are certain entities besides particulars), in respect at least of generation and destruction, is useless; nor, for this reason at any rate, should they be regarded as self-subsistent substances.
+
+Indeed in some cases it is even obvious that that which generates is of the same kind as that which is generated—not however identical with it, nor numerically one with it, but formally one—e.g. in natural productions (for man begets man), unless something happens contrary to nature, as when a horse sires a mule. And even these cases are similar; for that which would be common to both horse and ass, the genus immediately above them, has no name; but it would probably be both, just as the mule is both.
+
+Thus obviously there is no need to set up a form as a pattern (for we should have looked for Forms in these cases especially, since living things are in a special sense substances); the thing which generates is sufficient to produce, and to be the cause of the form in the matter. The completed whole, such-and-such a form induced in this flesh and these bones, is Callias or Socrates. And it is different from that which generated it, because the matter is different but identical in form, because the form is indivisible.
+
+The question might be raised why some things are generated both artificially and spontaneously—e.g. health—and others not; e.g. a house. The reason is that in some cases the matter—which is the starting-point of the process in the production and generation of artificial things, and in which some part of the result is already existent—is such that it can initiate its own motion, and in other cases it is not; and of the former kind some can initiate motion in a particular way, and some cannot. For many things can move themselves, but not in a particular way, e.g. so as to dance.
+
+It is impossible, then, for any things whose matter is of this kind (e.g. stones) to be moved in this particular way except by something else; but in that particular way it is possible. And it is so with fire. For this reason some things cannot exist apart from the possessor of the art, and others can; because the motion can be initiated by those things which do not indeed possess the art, but can themselves be moved either by other things which do not possess the art, or by the motion from the part of the product which pre-exists in them.
+
+It is clear also from what we have said that in a sense all artificial things are generated either from something which bears the same name (as is the case with natural objects) or from a part of themselves which bears the same name as themselves (e.g. a house from a house, inasmuch as it is generated by mind; for the art is the form), or from something which contains some part; that is if the generation is not accidental; for the direct and independent cause of the production is a part of the product.
+
+Heat in the motion produces heat in the body; and either this is health or a part of health, or a part of health or health accompanies it. And this is why heat is said to produce health, because it produces that of which health is a concomitant and consequence. Therefore as essence is the starting-point of everything in syllogisms (because syllogisms start from the what of a thing), so too generation proceeds from it.
+
+And it is the same with natural formations as it is with the products of art. For the seed produces just as do those things which function by art. It contains the form potentially, and that from which the seed comes has in some sense the same name as the product (for we must not expect that all should have the same name in the sense that man is produced by man —since woman is also produced by man); unless the product is a freak. This is why a mule is not produced by a mule.
+
+Those natural objects which are produced, like artificial objects, spontaneously, are those whose matter can also initiate for itself that motion which the seed initiates. Those whose matter cannot do this cannot be generated otherwise than by their proper parents.
+
+It is not only with reference to substance that our argument shows that the form is not generated; the same argument is common in its application to all the primary divisions, i.e. quantity, quality and the other categories.
+
+For just as the bronze sphere is generated, but not the sphere nor the bronze; and as in the case of bronze, if it is generated the form and matter are not (because they must always pre-exist), so it is too with the what and the quality and quantity and the other categories similarly; for it is not the quality that is generated, but the wood of that quality; nor is it the size, but the wood or animal of that size.
+
+But a peculiarity of substance may be gathered from this: that some other substance must pre-exist in actuality which produces it; e.g. an animal, if an animal is being generated; but a quality or quantity need not pre-exist otherwise than potentially.
+
+Since a definition is a formula, and every formula has parts; and since the formula is related to the thing in the same way as the part of the formula to the part of the thing, the question now arises: Must the formula of the parts be contained in the formula of the whole, or not? It seems clear that it is so in some cases, but not in others.
+
+The formula of the circle does not include that of the segments, but the formula of the syllable includes that of the letters. And yet the circle is divisible into its segments in just the same way as the syllable into its letters.
+
+Again, if the parts are prior to the whole, and the acute angle is part of the right angle, and the finger part of the animal, the acute angle will be prior to the right angle, and the finger to the man.
+
+But it is considered that the latter are prior; for in the formula the parts are explained from them; and the wholes are prior also in virtue of their ability to exist independently. The truth probably is that part has several meanings, one of which is that which measures in respect of quantity. However, let us dismiss this question and consider of what, in the sense of parts, substance consists.
+
+If then matter, form, and the combination of the two are distinct, and if both matter and form and their combination are substance, there is one sense in which even matter may be called part of a thing; and another in which it is not, but the only parts are those elements of which the formula of the form consists. E.g., flesh is not a part of concavity, because flesh is the matter in which concavity is induced; but it is a part of snubness. And bronze is part of the statue as a concrete whole, but not of the statue in the sense of form.
+
+We may speak of the form (or the thing as having a form) as an individual thing, but we may never so speak of that which is material by itself. This is why the formula of the circle does not contain that of the segments, whereas the formula of the syllable does contain that of the letters; for the letters are parts of the formula of the form; they are not matter; but the segments are parts in the sense of matter in which the form is induced. They approximate, however, more closely to the form than does the bronze when roundness is engendered in bronze.
+
+But there is a sense in which not even all the letters will be contained in the formula of the syllable; e.g. particular letters on wax or sounds in the air; for these too are part of the syllable in the sense that they are its sensible matter.
+
+For even if the line is divided and resolved into its halves, or if the man is resolved into bones and muscles and flesh, it does not follow that they are composed of these as parts of their essence, but as their matter; and these are parts of the concrete whole, but not of the form, or that to which the formula refers. Hence they are not in the formulae.
+
+Accordingly in some cases the formula will include the formula of such parts as the above, but in others it need not necessarily contain their formula, unless it is the formula of the concrete object. It is for this reason that some things are composed of parts in the sense of principles into which they can be resolved, while others are not.
+
+All things which are concrete combinations of form and matter (e.g. the snub or the bronze circle) can be resolved into form and matter, and the matter is a part of them; but such as are not concrete combinations with matter, but are without matter—whose formulae refer to the form only—cannot be resolved; either not at all, or at least not in this way.
+
+Thus these material components are principles and parts of the concrete objects, but they are neither parts nor principles of the form. For this reason the clay statue can be resolved into clay, and the sphere into bronze, and Callias into flesh and bones, and the circle too into segments, because it is something which is combined with matter. For we use the same name for the absolute circle and for the particular circle, since there is no special name for the particular circles.
+
+We have now stated the truth; nevertheless let us recapitulate and state it more clearly. All constituents which are parts of the formula, and into which the formula can be divided, are prior to their wholes—either all or some of them. But the formula of the right angle is not divisible into the formula of an acute angle, but vice versa; since in defining the acute angle we use the right angle, because the acute angle is less than a right angle.
+
+It is the same with the circle and the semicircle; for the semicircle is defined by means of the circle. And the finger is defined by means of the whole body; for a finger is a particular kind of part of a man. Thus such parts as are material, and into which the whole is resolved as into matter, are posterior to the whole; but such as are parts in the sense of parts of the formula and of the essence as expressed in the formula, are prior; either all or some of them.
+
+And since the soul of animals (which is the substance of the living creature) is their substance in accordance with the formula, and the form and essence of that particular kind of body (at least each part, if it is to be properly defined, will not be defined apart from its function; and this will not belong to it apart from perception); therefore the parts of the soul are prior, either all or some of them, to the concrete animal; and similarly in other individual cases.
+
+But the body and its parts are posterior to this substance, and it is not the substance, but the concrete whole, which is resolved into these parts as into matter. Therefore in one sense these parts are prior to the concrete whole, and in another not; for they cannot exist in separation. A finger cannot in every state be a part of a living animal; for the dead finger has only the name in common with the living one.
+
+Some parts are contemporary with the whole: such as are indispensable and in which the formula and the essence are primarily present; e.g. the heart or perhaps the brain, for it does not matter which of them is of this nature. But man and horse and terms which are applied in this way to individuals, but universally, are not substance, but a kind of concrete whole composed of this particular formula and this particular matter regarded as universal. But individually Socrates is already composed of ultimate matter; and similarly in all other cases.
+
+A part, then, may be part of the form (by form I mean essence), or of the concrete whole composed of form and matter, or of the matter itself. But only the parts of the form are parts of the formula, and the formula refers to the universal; for circle is the same as essence of circle, and soul the same as essence of soul.
+
+But when we come to the concrete thing, e.g. this circle—which is a particular individual, either sensible or intelligible (by intelligible circles I mean those of mathematics, and by sensible those which are of bronze or wood)—of these individuals there is no definition;
+
+we apprehend them by intelligence or perception; and when they have passed from the sphere of actuality it is uncertain whether they exist or not, but they are always spoken of and apprehended by the universal formula. But the matter is in itself unknowable. Some matter is sensible and some intelligible; sensible, such as bronze and wood and all movable matter; intelligible, that which is present in sensible things not qua sensible, e.g. the objects of mathematics.
+
+We have now discussed the case of the whole and part, and of prior and posterior. But we must answer the question, when we are asked which is prior—the right angle and circle and animal, or that into which they are resolved and of which they are composed, i.e. their parts—by saying that neither is absolutely prior.
+
+For if the soul also is the animal or living thing, or the soul of the individual is the individual, and being a circle is the circle, and being a right angle or the essence of the right angle is the right angle, then we must admit that the whole in one sense is posterior to the part in one sense: e.g. to the parts in the formula and the parts of a particular right angle
+
+(since both the material right angle of bronze and the right angle included by individual lines are posterior to their parts), but the immaterial angle is posterior to the parts in the formula, but prior to the parts in the individual. We must not give an unqualified answer. And if the soul is not the animal but something else, even so we must say that some wholes are prior and some are not, as has been stated.
+
+The question naturally presents itself, what sort of parts belong to the form and what sort belong not to it but to the concrete object. Yet if this is not plain it is impossible to define the particular; because the definition refers to the universal and the form. Therefore if it is not clear what kind of parts are material and what kind are not, the formula of the thing will not be clear either.
+
+In the case of things which can be seen to be induced in specifically different materials, as, e.g., a circle is in bronze and stone and wood, it seems clear that these things, the bronze and the stone, are in no sense part of the essential substance of the circle, because it is separable from them.
+
+As for things which are not visibly separable, there is no reason why the same should not apply to them; e.g., if all the circles that had ever been seen were bronze; for the bronze would be none the less no part of the form, but it is difficult to separate it in thought.
+
+For example, the form of man is always manifested in flesh and bones and elements of this kind; then are these actually parts of the form and formula, or are they not so, but matter, though since the form is not induced in other materials, we cannot separate it?
+
+Now since this seems to be possible, but it is not clear when, some thinkers are doubtful even in the case of the circle and the triangle, considering that it is not proper to define them by lines and continuous space, but that all these are to the circle or triangle as flesh or bone is to man, and bronze or stone to the statue; and they reduce everything to numbers, and say that the formula of line is the formula of 2.
+
+And of the exponents of the Forms, some make 2 the Ideal line, and some the form of the line; for they say that in some cases the form and that of which it is the form, e.g. 2 and the form of 2, are the same; but in the case of line this is no longer so.
+
+It follows, then, that there is one form of many things whose form is clearly different (a consequence which confronted the Pythagoreans too), and that it is possible to make one supreme Form of everything, and not to regard the rest as forms. In this way, however, all things would be one.
+
+Now we have stated that the question of definitions involves some difficulty, and have shown why this is so. Hence to reduce everything in this way and to dispose of the matter is going too far; for some things are presumably a particular form in particular matter, or particular things in a particular state.
+
+And the analogy in the case of the living thing which the younger Socrates used to state is not a good one; for it leads one away from the truth, and makes one suppose that it is possible for a man to exist without his parts, as a circle does without the bronze. But the case is not similar; for the animal is sensible and cannot be defined without motion, and hence not unless its parts are in some definite condition;
+
+for it is not the hand in any condition that is a part of a man, but only when it can perform its function, and so has life in it. Without life in it it is not a part.
+
+And with respect to mathematical objects, why are the formulae of the parts not parts of the formulae of the whole; e.g., why are the formulae of the semicircles not parts of the formula of the circle? for they are not sensible.
+
+Probably this makes no difference; because there will be matter even of some things which are not sensible. Indeed there will be matter in some sense in everything which is not essence or form considered independently, but a particular thing. Thus the semicircles will be parts not of the universal circle but of the particular circles, as we said before —for some matter is sensible, and some intelligible.
+
+It is clear also that the soul is the primary substance, and the body matter; and man or animal is the combination of both taken universally. And Socrates or Coriscus has a double sense, that is if the soul too can be called Socrates (for by Socrates some mean the soul and some the concrete person); but if Socrates means simply this soul and this body, the individual is composed similarly to the universal.
+
+Whether there is some other material component of these substances besides their matter, and whether we should look for some further substance in them, such as numbers or something of that kind, must be considered later. It is with a view to this that we are trying to determine the nature of sensible substances, since in a sense the study of sensible substances belongs to physics or secondary philosophy; for the physicist must know not only about the matter, but also about the substance according to the formula; this is even more essential.
+
+And in the case of definitions, in what sense the elements in the formula are parts of the definition, and why the definition is one formula (for the thing is clearly one, but in virtue of what is it one, seeing that it has parts?); this must be considered later.
+
+We have stated, then, in a general account which covers all cases, what essence is, and how it is independent; and why the formula of the essence of some things contains the parts of the thing defined, while that of others does not; and we have shown that the material parts of a thing cannot be present in the formula of the substance (since they are not even parts of the substance in that sense, but of the concrete substance; and of this in one sense there is a formula, and in another sense there is not.
+
+There is no formula involving the matter, for this is indeterminate; but there is a formula in accordance with the primary substance, e.g., in the case of a man, the formula of the soul; because the substance is the indwelling form, of which and of the matter the so called concrete substance is composed. E.g., concavity is such a form, since from this and nose is derived snub nose and snubness —for nose will be present twice over in these expressions);
+
+but in the concrete substance, e.g. snub nose or Callias, matter will be present too. We have stated also that the essence and the individual are in some cases the same, as in the case of the primary substances; e.g. crookedness and essence of crookedness, if this is primary.
+
+By primary I mean that which does not imply the presence of something in something else as a material substrate. But such things as are material or are compounded with matter are not the same as their essence; not even if they are accidentally one, e.g. Socrates and cultured; for these are only accidentally the same.
+
+Now let us first deal with definition, in so far as it has not been dealt with in the Analytics; for the problem stated there has a bearing upon our discussion of substance. The problem I mean is this: what constitutes the unity of the thing of which we say that the formula is a definition? E.g., in the case of man, two-footed animal; for let us take this as the formula of man.
+
+Why, then, is this a unity and not a plurality, animal and two-footed? For in the case of man and white we have a plurality when the latter does not refer to the former, but a unity when it does refer to it, and the subject, man, has an attribute; for then they become a unity and we have the white man.
+
+But in the case before us one term does not partake of the other; the genus is not considered to partake of its differentiae, for then the same thing would be partaking simultaneously of contraries, since the differentiae by which the genus is distinguished are contrary. And even if it does partake of them, the same argument applies, since the differentiae are many; e.g. terrestrial, two-footed, wingless.
+
+Why is it that these are a unity and not a plurality? Not because they are present in one genus, for in that case all the differentiae of the genus will form a unity. But all the elements in the definition must form a unity, because the definition is a kind of formula which is one and defines substance, so that it must be a formula of one particular thing; because the substance denotes one thing and an individual, as we say.
+
+We must first examine definitions which are reached by the process of division.
+
+For there is nothing else in the definition but the primary genus and the differentiae; the other genera consist of the primary genus together with the differentiae which are taken with it. E.g., the primary genus is animal; the next below it, two-footed animal; and again, two-footed wingless animal; and similarly also if the expression contains more terms still.
+
+In general it does not matter whether it contains many or few terms, nor, therefore, whether it contains few or two. Of the two one is differentia and the other genus; e.g., in two-footed animal animal is genus, and the other term differentia.
+
+If, then, the genus absolutely does not exist apart from the species which it includes, or if it exists, but only as matter (for speech is genus and matter, and the differentiae make the species, i.e. the letters, out of it), obviously the definition is the formula composed of the differentiae.
+
+But further we must also divide by the differentia of the differentia. E.g., having feet is a differentia of animal; then in turn we must discover the differentia of animal having feet qua having feet. Accordingly we should not say that of that which has feet one kind is winged and another wingless, (that is if we are to speak correctly; if we say this it will be through incapability), but only that one kind is cloven-footed and another not; because these are differentiae of foot, since cloven-footedness is a kind of footedness.
+
+And thus we tend always to progress until we come to the species which contain no differentiae. At this point there will be just as many species of foot as there are differentiae, and the kinds of animals having feet will be equal in number to the differentiae. Then, if this is so, obviously the ultimate differentia will be the substance and definition of the thing, since we need not state the same things more than once in definitions, because this is superfluous.
+
+However, it does happen; for when we say footed two-footed animal we have simply said animal having feet, having two feet. And if we divide this by its proper division, we shall be stating the same thing several times, as many times as there are differentiae.
+
+If, then, we keep on taking a differentia of a differentia, one of them, the last, will be the form and the substance. But if we proceed with reference to accidental qualities—e.g. if we divide that which has feet into white and black—there will be as many differentiae as there are divisions. It is therefore obvious that the definition is the formula derived from the differentiae, and strictly speaking from the last of them.
+
+This will be clear if we change the order of such definitions, e.g. that of man, saying two-footed footed animal; for footed is superfluous when we have already said two-footed. But there is no question of order in the substance; for how are we to think of one part as posterior and the other prior?
+
+With regard, then, to definitions by division, let this suffice as a preliminary statement of their nature.
+
+Since the subject of our inquiry is substance, let us return to it. Just as the substrate and the essence and the combination of these are called substance, so too is the universal. With two of these we have already dealt, i.e. with the essence and the substrate; of the latter we have said that it underlies in two senses—either being an individual thing (as the animal underlies its attributes), or as matter underlies the actuality.
+
+The universal also is thought by some to be in the truest sense a cause and a principle. Let us therefore proceed to discuss this question too; for it seems impossible that any universal term can be substance.
+
+First, the substance of an individual is the substance which is peculiar to it and belongs to nothing else; whereas the universal is common; for by universal we mean that which by nature appertains to several things.
+
+Of what particular, then, will the universal be the substance? Either of all or of none. But it cannot be the substance of all; while, if it is to be the substance of one, the rest also will be that one; because things whose substance is one have also one essence and are themselves one.
+
+Again, substance means that which is not predicated of a subject, whereas the universal is always predicated of some subject.
+
+But perhaps although the universal cannot be substance in the sense that essence is, it can be present in the essence, as animal can be present in man and horse.
+
+Then clearly there is in some sense a formula of the universal. It makes no difference even if there is not a formula of everything that is in the substance; for the universal will be none the less the substance of something; e.g., man will be the substance of the man in whom it is present. Thus the same thing will happen again; e.g. animal will be the substance of that in which it is present as peculiar to it.
+
+Again, it is impossible and absurd that the individual or substance, if it is composed of anything, should be composed not of substances nor of the individual, but of a quality; for then non-substance or quality will be prior to substance or the individual. Which is impossible; for neither in formula nor in time nor in generation can the affections of substance be prior to the substance, since then they would be separable.
+
+Again, a substance will be present in Socrates, who is a substance; so that it will be the substance of two things. And in general it follows that if man and all terms used in this way are substance, none of the elements in the formula is the substance of anything, nor can it exist apart from the species or in anything else; I mean, e.g., that neither animal nor any other element of the formula can exist apart from the particular species.
+
+If we look at the question from this standpoint it is obvious that no universal attribute is substance; and it is also clear from the fact that none of the common predicates means so-and-so, but such and-such. Otherwise amongst many other awkward consequences we have the third man.
+
+Again, it is clear in this way too. Substance can not consist of substances actually present in it; for that which is actually two can never be actually one, whereas if it is potentially two it can be one. E.g., the double consists of two halves—that is, potentially; for the actualization separates the halves.
+
+Thus if substance is one, it cannot consist of substances present in it even in this sense, as Democritus rightly observes; he says that it is impossible for two to come from one, or one from two, because he identifies substance with the atoms.
+
+Clearly then the same will also hold good in the case of number (assuming that number is a composition of units, as it is said to be by some); because either 2 is not 1, or there is not actually a unit in it.
+
+The consequence involves a difficulty; for if no substance can consist of universals, because they mean of such a kind, and not a particular thing; and if no substance can be actually composed of substances, every substance will be incomposite, and so there will be no formula of any substance.
+
+But in point of fact it is universally held, and has been previously stated, that substance is the only or chief subject of definition; but on this showing there is no definition even of substance. Then there can be no definition of anything; or rather in a sense there can, and in a sense cannot. What this means will be clearer from what follows later.
+
+From these same considerations it is clear also what consequence follows for those who maintain that the Forms are substances and separable, and who at the same time make the species consist of the genus and the differentiae. If there are Forms, and if animal is present in the man and the horse, it is either numerically one and the same with them, or not.
+
+(In formula they are clearly one; for in each case the speaker will enunciate the same formula.) If, then, there is in some sense an Absolute Man, who is an individual and exists separately, then the constituents, e.g. animal and two-footed, must have an individual meaning and be separable and substances. Hence there must be an Absolute Animal too.
+
+(i) Then if the animal which is in the horse and the man is one and the same, as you are one and the same with yourself, how can the one which in things that exist separately be one, and why should not this animal also be separated from itself? Again, if it is to partake of two-footed and of many-footed, an impossibility follows; for contrary attributes will belong to it although it is one and individual.
+
+But if it does not, in what sense is it that one calls an animal two-footed or terrestrial? Perhaps the terms are combined and in contact or mixed. But all these expressions are absurd.
+
+(2) But there is a different animal in each species. Then there will be practically an infinity of things of which animal is the substance, since it is not in an accidental sense that man is derived from animal.
+
+Again, the Absolute Animal will be a plurality. For (a) the animal in each species will be the substance of that species, since the species is called after it and no other thing. Otherwise man would be derived from that other thing, which would be the genus of man. (b) Further, all the constituents of man will be Ideas. Then, since nothing can be the Idea of one thing and the substance of another (for this is impossible), each and every animal in the various species will be the Absolute Animal.
+
+Further, from what will these Forms be derived, and how can they be derived from the Absolute Animal? Or how can the animal, whose very essence is animal, exist apart from the Absolute Animal? And further, in the case of sensible things both these and still more absurd consequences follow. If, then, these consequences are impossible, clearly there are not Forms of sensible things in the sense in which some hold that there are.
+
+Since substance is of two kinds, the concrete thing and the formula (I mean that one kind of substance is the formula in combination with the matter, and the other is the formula in its full sense), substances in the former sense admit of destruction, for they also admit of generation. But the formula does not admit of destruction in the sense that it is ever being destroyed, since neither does it so admit of generation (for the essence of house is not generated, but only the essence of this house); formulae are, and are not, independently of generation and destruction; for it has been shown that no one either generates or creates them.
+
+For this reason also there is no definition or demonstration of particular sensible substances, because they contain matter whose nature is such that it can both exist and not exist. Hence all the individual instances of them are perishable.
+
+If, then, the demonstration and definition of necessary truths requires scientific knowledge, and if, just as knowledge cannot be sometimes knowledge and sometimes ignorance (it is opinion that is of this nature), so too demonstration and definition cannot vary (it is opinion that is concerned with that which can be otherwise than it is)— then clearly there can be neither definition nor demonstration of individual sensible substances.
+
+For (a) things which perish are obscure to those who have knowledge of them when they are removed from the sphere of their perception, and (b) even though their formulae are preserved in the soul, there will no longer be either definition or demonstration of them. Therefore in cases relating to definition, when we are trying to define any individual, we must not fail to realize that our definition may always be upset; because it is impossible to define these things.
+
+Nor, indeed, can any Idea be defined; for the Idea is an individual, as they say, and separable; and the formula must consist of words, and the man who is defining must not coin a word, because it would not be comprehensible. But the words which are in use are common to all the things which they denote; and so they must necessarily apply to something else as well. E.g., if a man were to define you, he would say that you are an animal which is lean or white or has some other attribute, which will apply to something else as well.
+
+And if it should be said that there is no reason why all the attributes separately should not belong to several things, and yet in combination belong to this alone, we must reply, (1.) that they also belong to both the elements; e.g., two-footed animal belongs both to animal and to two-footed (and in the case of eternal elements this is even necessarily so; since they are prior to the compound, and parts of it.
+
+Indeed they are also separable, if the term man is separable—for either neither can be separable, or both are so. If neither, the genus will not exist apart from the species, or if it is so to exist, so will the differentia); (2.) that animal and two-footed are prior in being to two-footed animal, and that which is prior to something else is not destroyed together with it.
+
+Again, if the Ideas are composed of Ideas (for constituents are less composite than that which they compose), still the elements of which the Idea is composed (e.g. animal and two-footed) will have to be predicated of many particulars. Otherwise, how can they be known? For there would be an Idea which cannot be predicated of more than one thing. But this is not considered possible; every Idea is thought to admit of participation.
+
+Thus, as we have said, the impossibility of defining individuals is hard to realize when we are dealing with eternal entities, especially in the case of such as are unique, e.g. the sun and moon. For people go wrong not only by including in the definition attributes on whose removal it will still be sun—e.g., that which goes round the earth, or night-hidden (for they suppose that if it stops or becomes visible it will no longer be sun; but it is absurd that this should be so, since the sun denotes a definite substance)—they also mention attributes which may apply to something else; e.g., if another thing with those attributes comes into being, clearly it will be a sun. The formula, then, is general; but the sun was supposed to be an individual, like Cleon or Socrates.
+
+Why does not one of the exponents of the Ideas produce a definition of them? If they were to try, it would become obvious that what we have just said is true.
+
+It is obvious that even of those things which are thought to be substances the majority are potentialities; both the parts of living things (for none of them has a separate substantial existence; and when they are separated, although they still exist, they exist as matter), and earth, fire and air; for none of these is one thing —they are a mere aggregate before they are digested and some one thing is generated from them.
+
+It might be supposed very reasonably that the parts of living things and the corresponding parts of their vital principle are both, i.e. exist both actually and potentially, because they contain principles of motion derived from something in their joints; and hence some animals live even when they are divided. Nevertheless it is only potentially that all of them will exist when they are one and continuous by nature and not by force or concretion; for this sort of thing is malformation.
+
+And since unity has the same variety of senses as being, and the substance of Unity is one, and things whose substance is numerically one are numerically one, evidently neither Unity nor Being can be the substance of things, just as neither being an element or principle can be the substance; but we ask what the principle is so that we may refer to something more intelligible.
+
+Now of these concepts Being and Unity are more nearly substance than are principle, element and cause; but not even the former are quite substance, since nothing else that is common is substance; for substance belongs to nothing except itself and that which contains it and of which it is the substance.
+
+Again, Unity cannot exist in many places at the same time, but that which is common is present in many things at the same time. Hence it is clear that no universal exists in separation apart from its particulars. The exponents of the Forms are partly right in their account when they make the Forms separate; that is, if the Forms are substances, but they are also partly wrong, since by Form they mean the one-over-many.
+
+The reason for this is that they cannot explain what are the imperishable substances of this kind which exist besides particular sensible substances; so they make them the same in kind as perishable things (for these we know); i.e., they make Ideal Man and Ideal Horse, adding the word Ideal to the names of sensible things.
+
+However, I presume that even if we had never seen the stars, none the less there would be eternal substances besides those which we knew; and so in the present case even if we cannot apprehend what they are, still there must be eternal substances of some kind.
+
+It is clear, then, both that no universal term is substance and that no substance is composed of substances.
+
+As for what and what sort of thing we mean by substance, let us explain this by making, as it were, another fresh start. Perhaps in this way we shall also obtain some light upon that kind of substance which exists in separation from sensible substances. Since, then, substance is a kind of principle and cause, we had better pursue our inquiry from this point.
+
+Now when we ask why a thing is, it is always in the sense why does A belong to B?
+
+To ask why the cultured man is a cultured man is to ask either, as we have said, why the man is cultured, or something else. Now to ask why a thing is itself is no question; because when we ask the reason of a thing the fact must first be evident; e.g., that the moon suffers eclipse;
+
+and because it is itself is the one explanation and reason which applies to all questions such as why is man man? or why is the cultured person cultured? (unless one were to say that each thing is indivisible from itself, and that this is what being one really means); but this, besides being a general answer, is a summary one. We may, however, ask why a man is an animal of such-and-such a kind.
+
+It is clear, then, that we are not asking why he who is a man is a man; therefore we are asking why A, which is predicated of B, belongs to B. (The fact that A does belong to B must be evident, for if this is not so, the question is pointless.) E.g., Why does it thunder? means why is a noise produced in the clouds? for the true form of the question is one thing predicated in this way of another.
+
+Or again, why are these things, e.g. bricks and stones, a house? Clearly then we are inquiring for the cause (i.e., to speak abstractly, the essence); which is in the case of some things, e.g. house or bed, the end, and in others the prime mover—for this also is a cause. We look for the latter kind of cause in the case of generation and destruction, but for the former also in the case of existence.
+
+What we are now looking for is most obscure when one term is not predicated of another; e.g. when we inquire what man is; because the expression is a simple one not analyzed into subject and attributes. We must make the question articulate before we ask it; otherwise we get something which shares the nature of a pointless and of a definite question.
+
+Now since we must know that the fact actually exists, it is surely clear that the question is why is the matter so-and-so? e.g. why are these materials a house? Because the essence of house is present in them. And this matter, or the body containing this particular form, is man. Thus what we are seeking is the cause (i.e. the form) in virtue of which the matter is a definite thing; and this is the substance of the thing.
+
+Clearly then in the case of simple entities inquiry and explanation are impossible; in such cases there is a different mode of inquiry.
+
+Now since that which is composed of something in such a way that the whole is a unity; not as an aggregate is a unity, but as a syllable is —the syllable is not the letters, nor is BA the same as B and A; nor is flesh fire and earth; because after dissolution the compounds, e.g. flesh or the syllable, no longer exist; but the letters exist, and so do fire and earth.
+
+Therefore the syllable is some particular thing; not merely the letters, vowel and consonant, but something else besides. And flesh is not merely fire and earth, or hot and cold, but something else besides.
+
+Since then this something else must be either an element or composed of elements, (a) if it is an element, the same argument applies again; for flesh will be composed of this and fire and earth, and again of another element, so that there will be an infinite regression. And (b) if it is composed of elements, clearly it is composed not of one (otherwise it will itself be that element) but of several; so that we shall use the same argument in this case as about the flesh or the syllable.
+
+It would seem, however, that this something else is something that is not an element, but is the cause that this matter is flesh and that matter a syllable, and similarly in other cases.
+
+And this is the substance of each thing, for it is the primary cause of its existence. And since, although some things are not substances, all substances are constituted in accordance with and by nature, substance would seem to be this nature, which is not an element but a principle. An element is that which is present as matter in a thing, and into which the thing is divided; e.g., A and B are the elements of the syllable.

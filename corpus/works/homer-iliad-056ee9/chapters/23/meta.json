@@ -1,0 +1,39 @@
+{
+  "work_slug": "homer-iliad-056ee9",
+  "work_title": "Iliad",
+  "chapter_number": 23,
+  "chapter_title": "Book 23",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "608a698a-0197-5b25-8995-711db66552b1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6352,
+      "paragraph_count": 897,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d368918f-cc61-5abf-9b07-41e9a1ccaf21",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9154,
+      "paragraph_count": 71,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0012.tlg001.perseus-eng4:23"
+    }
+  ]
+}

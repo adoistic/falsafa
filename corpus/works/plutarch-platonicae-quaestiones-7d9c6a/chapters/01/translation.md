@@ -1,0 +1,29 @@
+---
+work_id: "7d9c6a8f-cbc8-52b4-8f57-0079425af85e"
+work_slug: "plutarch-platonicae-quaestiones-7d9c6a"
+work_title: Platonicae quaestiones
+author_name: Plutarch
+chapter_number: 1
+chapter_title: Chapter 1
+chapter_slug: 01
+variant_id: "77dfcc51-9348-5b3c-b35d-d6d5a923da35"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 909
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg133.perseus-eng2:1"
+translator: R. Brown
+---
+
+WHAT IS THE REASON THAT GOD BADE SOCRATES TO ACT THE MIDWIFE’S PART TO OTHERS, BUT CHARGED HIMSELF NOT TO GENERATE; AS HE SAYS IN THEAETETUS?
+
+FOR he would never have used the name of God in such a merry, jesting manner, though Plato in that book makes Socrates several times to talk with great boasting and arrogance, as he does now. There are many, dear friend, so affected towards me, that they are ready even to bite me, when I offer to cure them of the least madness. For they will not be persuaded that I do it out of goodwill, because they are ignorant that no God bears ill-will to man, and that therefore I wish ill to no man; but I cannot allow myself either to stand in a lie or to stifle the truth. Whether therefore did he style his own nature, which was of a very strong and pregnant wit, by the name of God,—as Menander says, For our mind is God, and as Heraclitus, Man’s genius is a Deity? Or did some divine cause or some Daemon or other impart this way of philosophizing to Socrates, whereby always interrogating others, he cleared them of pride, error, and ignorance, and of being troublesome both to themselves and to others? For about that time there happened to be in Greece several sophisters; to these some young men paid great sums of money, for which they purchased a strong opinion of learning and wisdom, and of being stout disputants; but this sort of disputation spent much time in trifling squabblings, which were of no credit or profit. Now Socrates, using an argumentative discourse by way of a purgative remedy, procured belief and authority to what he said, because in refuting others he himself affirmed nothing; and he the sooner gained upon people, because he seemed rather to be inquisitive after the truth as well as they, than to maintain his own opinion.
+
+Now, however useful a thing judgment is, it is mightily impeached by the begetting of a man’s own fancies. For the lover is blinded with the thing loved; and nothing of a man’s own is so beloved as is the opinion and discourse which he has begotten. And the distribution of children, said to be the justest, in respect of discourses is the unjustest; for there a man must take his own, but here a man must choose the best, though it be another man’s. Therefore he that has children of his own, is a worse judge of other men’s; it being true, as the sophister said well, The Eleans would be the most proper judges of the Olympic games, were no Eleans gamesters. So he that would judge of disputations cannot be just, if he either seeks the bays for himself, or is himself antagonist to either of the antagonists. For as the Grecian captains, when they were to decide by their suffrages who had behaved himself the best, every man of them voted for himself; so there is not a philosopher of them all but would do the like, besides those that acknowledge, like Socrates, that they can say nothing that is their own; and these only are the pure uncorrupt judges of the truth. For as the air in the ears, unless it be still and void of noise in itself, with out any sound or buzzing, does not exactly take sounds; so the philosophical judgment in disputations, if it be disturbed and obstreperous within, is hardly comprehensive of what is said without. For our familiar and inbred opinion will not admit that which is at variance with itself, as the number of sects and parties proves, of which philosophy—if she deals with them in the best manner—must hold one to be right, and all the others to be at war with the truth in their opinions.
+
+Furthermore, if men can comprehend and know nothing, God did justly interdict Socrates the procreation of false and unstable discourses, which are like wind-eggs, and bid him convince others who were of any other opinion. And reasoning, which rids us of the greatest of evils, error and vanity of mind, is none of the least benefit to us; For God has not granted this to the Esculapians. Nor did Socrates give physic to the body; indeed he purged the mind of secret corruption. But if there be any knowledge of the truth, and if the truth be one, he has as much that learns it of him that invented it, as the inventor himself. Now he the most easily attains the truth, that is persuaded he has it not; and he chooses best, just as he that has no children of his own adopts the best.
+
+Mark this well, that poetry, mathematics, oratory, and sophistry, which are the things the Deity forbade Socrates to generate, are of no value; and that of the sole wisdom about what is divine and intelligible (which Socrates called amiable and eligible for itself), there is neither generation nor invention by man, but reminiscence. Wherefore Socrates taught nothing, but suggesting principles of doubt, as birth-pains, to young men, he excited and at the same time confirmed the innate notions. This he called his Art of Midwifery, which did not (as others professed) extrinsically confer intelligence upon his auditors; but demonstrated it to be innate, yet imperfect and confused, and in want of a nurse to feed and strengthen it.

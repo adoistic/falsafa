@@ -1,0 +1,39 @@
+{
+  "work_slug": "homeric-hymns-hymn-26-to-dionysus-2ce5a9",
+  "work_title": "Hymn 26 To Dionysus",
+  "chapter_number": 1,
+  "chapter_title": "Hymn 26 To Dionysus",
+  "chapter_slug": "01-hymn-26-to-dionysus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3e4dd672-69fd-5ad7-bb8a-f3510a1b9c0a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 89,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg026.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b5666ee-ed87-5ea8-8c73-4e4f51813ebe",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 138,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg026.perseus-eng2"
+    }
+  ]
+}

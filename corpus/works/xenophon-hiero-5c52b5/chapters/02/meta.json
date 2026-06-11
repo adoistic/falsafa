@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-hiero-5c52b5",
+  "work_title": "Hiero",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "79b02bce-2173-51fe-9a17-202e52d8528b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 676,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg008.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f7f7748-7d2f-5dc2-ae5a-d07e95f2dc9a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 828,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg008.perseus-eng2:2"
+    }
+  ]
+}

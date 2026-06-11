@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-metamorphoses-b0cbc2",
+  "work_title": "Metamorphoses",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b32cf765-b3b8-5ef0-90f7-e6b2ce313fe5",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4413,
+      "paragraph_count": 269,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi006.perseus-lat2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "481b36f9-1e64-5301-a6f9-af6986dcdaf0",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 9226,
+      "paragraph_count": 830,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi006.perseus-eng4:5"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-in-c-verrem-6c527e",
+  "work_title": "In C. Verrem",
+  "chapter_number": 3,
+  "chapter_title": "Book 2",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4bdb16fe-dd37-5e41-a200-15fb39ffa243",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 18313,
+      "paragraph_count": 195,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi005.perseus-lat2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8c55a572-9012-57a1-b2a5-45f8e27d4e50",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 32723,
+      "paragraph_count": 194,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi005.perseus-eng2:3"
+    }
+  ]
+}

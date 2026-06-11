@@ -1,0 +1,21 @@
+---
+work_id: "234e46b3-b72c-533b-a755-365940a803c3"
+work_slug: "ausonius-decimus-magnus-gratiarum-actio-234e46"
+work_title: Gratiarum Actio
+author_name: Ausonius, Decimus Magnus
+chapter_number: 14
+chapter_title: Chapter 14
+chapter_slug: 14
+variant_id: "60bcaef4-cac2-5ec0-ad72-cac78bb49680"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 412
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0045.stoa014.perseus-eng1:14"
+translator: Perseus Digital Library
+---
+
+From your boyhood you have never let a single day pass without worshipping God, without discharging your vows the moment that they became due, with clean hands and a pure heart, a stainless conscience, and—a rare quality— with undivided thoughts. Was there ever a prince whose going forth was attended with better auguries, whose progress was less ostentatious, whose state was less extravagant, whose attire in private life was more seemly or in the field more severe? In athletic pursuits who ever matched your fleetness of foot, who so supple in disengaging at wrestling, who cleared so great a height in leaping? No one ever launched a javelin with a more forceful swing, no one hurled darts with greater speed or struck the mark more surely. We used to wonder at the poet 1 when he spoke of Numidians who use no reins, and at that other who summed up by saying that in riding it is with the lash alone that they urge their horses to full speed or make them stand.2 While we read we could not understand this, but we realized it when we saw you drop the reins and at the same time draw your bow, or urge on your horse with the whip when he slackened speed and check his exuberance likewise with the whip. Those who were supposed to instruct you in this do not do these things: nay, rather, those who are supposed to instruct you are now learning from you. Again, in the matter of food, was ever a priest more self-denying on religious grounds? Or in the matter of wine, was there ever an old man more sparing at table? The altar of Vesta is not more hallowed than the privacy of your bedchamber, the couch of a priest is not more pure, the bed of a prophet not more chaste. In your relations with your friends I do not say that you return like for like: you anticipate our services, or whenever we have the advantage in paying our duty to you, you flush up shyly with an embarrassment which we rather ought to feel when we have been anticipated by our Sovereign. In that place which we ordinarily speak of as your Consistory, but which I regard as your sanctuary, none of your predecessors ever thought out more deeply what he had to say, or arranged his thoughts more skilfully, or delivered them, when so arranged, in a more masterly style.

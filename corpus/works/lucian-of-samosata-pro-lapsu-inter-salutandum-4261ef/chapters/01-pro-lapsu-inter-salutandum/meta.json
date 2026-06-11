@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-pro-lapsu-inter-salutandum-4261ef",
+  "work_title": "Pro lapsu inter salutandum",
+  "chapter_number": 1,
+  "chapter_title": "Pro lapsu inter salutandum",
+  "chapter_slug": "01-pro-lapsu-inter-salutandum",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d6cfe885-93f4-577e-bd6c-acca2696def6",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1592,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg058.perseus-grc3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ed609523-f308-5029-9e93-75f22ece3206",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1854,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg058.perseus-eng4"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ii-chronicles-6396b0",
+  "work_title": "II Chronicles",
+  "chapter_number": 20,
+  "chapter_title": "Chapter 20",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "18bda1d1-f034-5527-abc4-0b6de6e4dfcd",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1132,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1:20"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "48393f44-4a73-5afd-a42c-983f914d6ba6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1094,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg016.perseus-eng2:20"
+    }
+  ]
+}

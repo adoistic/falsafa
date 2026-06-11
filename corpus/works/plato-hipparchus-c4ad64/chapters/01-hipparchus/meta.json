@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-hipparchus-c4ad64",
+  "work_title": "Hipparchus",
+  "chapter_number": 1,
+  "chapter_title": "Hipparchus",
+  "chapter_slug": "01-hipparchus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f417e351-0f82-5d04-8392-1cb34f434424",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2397,
+      "paragraph_count": 162,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg015.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "95d0ade7-218e-5b80-8f47-2f70e50b5054",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3294,
+      "paragraph_count": 162,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg015.perseus-eng2"
+    }
+  ]
+}

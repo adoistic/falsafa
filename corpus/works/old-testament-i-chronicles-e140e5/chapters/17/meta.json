@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-i-chronicles-e140e5",
+  "work_title": "I Chronicles",
+  "chapter_number": 17,
+  "chapter_title": "Chapter 17",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2bc79897-e156-5188-a950-268661bb728d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 736,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg015.1st1K-grc1:17"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2515954-b3ad-5e6b-bae6-50114182e41d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 752,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg015.perseus-eng2:17"
+    }
+  ]
+}

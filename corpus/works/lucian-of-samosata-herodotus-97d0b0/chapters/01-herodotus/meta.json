@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-herodotus-97d0b0",
+  "work_title": "Herodotus",
+  "chapter_number": 1,
+  "chapter_title": "Herodotus",
+  "chapter_slug": "01-herodotus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e7036dea-a71e-5986-9157-b5dc9691684b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 918,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg056.perseus-grc3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfe79c5f-1e9c-5345-acb1-5170520415d8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1153,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg056.perseus-eng4"
+    }
+  ]
+}

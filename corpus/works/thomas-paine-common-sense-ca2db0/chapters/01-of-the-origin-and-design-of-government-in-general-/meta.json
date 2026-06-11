@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-paine-common-sense-ca2db0",
+  "work_title": "Common Sense",
+  "chapter_number": 1,
+  "chapter_title": "Of the Origin and Design of GOVERNMENT in general, with concise Remarks on the ENGLISH CONSTITUTION.",
+  "chapter_slug": "01-of-the-origin-and-design-of-government-in-general-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "82e6315b-95da-5ffc-b80e-3c3b522a7192",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2157,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/EnglishClassicalLiberals/Paine/1776-CommonSense/index.html"
+    }
+  ]
+}

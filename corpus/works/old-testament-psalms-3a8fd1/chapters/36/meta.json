@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 36,
+  "chapter_title": "Chapter 36",
+  "chapter_slug": "36",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "64f7e91e-9aff-54b3-86bd-4f155bc83288",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 731,
+      "paragraph_count": 92,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:36"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f78541b3-ff4b-5c00-963e-f532df6bbf6c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 218,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:36"
+    }
+  ]
+}

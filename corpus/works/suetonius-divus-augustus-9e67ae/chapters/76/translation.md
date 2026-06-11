@@ -1,0 +1,21 @@
+---
+work_id: "9e67aec7-1ba9-5172-b62b-f1479b1e7090"
+work_slug: "suetonius-divus-augustus-9e67ae"
+work_title: Divus Augustus
+author_name: Suetonius
+chapter_number: 76
+chapter_title: Chapter 77
+chapter_slug: 76
+variant_id: "be2e26f0-d99d-5ac4-99a5-bcf75bbe273e"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 267
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo012.perseus-eng2:76"
+translator: Perseus Digital Library
+---
+
+In person he was handsome and graceful through every period of his life. But he was negligent in his dress; and so careless about dressing his hair, that he usually had it done in great haste, by several barbers at a time. His beard he sometimes clipped, and sometimes shaved; and either read or wrote during the operation. His countenance, either when discoursing or silent, was so calm and serene, that a Gaul of the first rank declared amongst his friends, that he was so softened by it, as to be restrained from throwing him down a precipice, in his passage over the Alps, when he had been admitted to approach him, under pretence of conferring with him. His eyes were bright and piercing; and he was willing it should be thought that there was something of a divine vigour in them. He was likewise not a little pleased to see people, upon his looking stedfastly at them, lower their countenances, as if the sun shone in their eyes. But in his old age, he saw very imperfectly with his left eye. His teeth were thin set, small and scaly, his hair a little curled, and inclining to a yellow colour. His eye-brows met; his ears were small, and he had an aquiline nose. His complexion was betwixt brown and fair; his stature but low; though Julius Marathus, his freedman, says he was five feet and nine inches in height. This, however, was so much concealed by the just proportion of his limbs, that it was only perceivable upon comparison with some taller person standing by him.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-demosthenes-4388af",
+  "work_title": "Demosthenes",
+  "chapter_number": 17,
+  "chapter_title": "Chapter 17",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "77dd29f3-81c7-51d7-99af-c48e564d07ca",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 216,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg054.perseus-grc2:17"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8a28c08f-86f1-5c53-b9e8-b58997863c1e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 341,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg054.perseus-eng2:17"
+    }
+  ]
+}

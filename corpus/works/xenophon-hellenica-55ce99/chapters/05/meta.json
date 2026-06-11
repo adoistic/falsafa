@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-hellenica-55ce99",
+  "work_title": "Hellenica",
+  "chapter_number": 5,
+  "chapter_title": "Book 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a22825dc-425e-57ba-8c35-8dace0e83803",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10489,
+      "paragraph_count": 172,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg001.perseus-grc2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e7b5526f-65b7-52d4-ac45-5368efb770cb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 16031,
+      "paragraph_count": 180,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg001.perseus-eng2:5"
+    }
+  ]
+}

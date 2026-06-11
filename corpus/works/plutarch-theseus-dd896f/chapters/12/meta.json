@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-theseus-dd896f",
+  "work_title": "Theseus",
+  "chapter_number": 12,
+  "chapter_title": "Chapter 12",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3c32ce2b-7dff-5c34-9ef7-d217073b39e1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 196,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg001.perseus-grc2:12"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "80e87b87-0999-5798-a89c-befc4d31ec86",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 320,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg001.perseus-eng3:12"
+    }
+  ]
+}

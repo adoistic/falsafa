@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-fabius-maximus-ee77a0",
+  "work_title": "Fabius Maximus",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "77801be5-4532-50b9-b9f6-c92279b57034",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 392,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg013.perseus-grc2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "76a0f6e7-06ef-56d2-8644-2e29b8ff3e7c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 625,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg013.perseus-eng2:5"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-de-consulatu-stilichonis-92c379",
+  "work_title": "de consulatu Stilichonis",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cedb69e2-7d1f-5e9d-98c6-d935c21653b5",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2390,
+      "paragraph_count": 125,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa004.perseus-lat2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1cadfa56-1a8f-5179-b69a-8fb13e50368c",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4118,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa004.perseus-eng1:3"
+    }
+  ]
+}

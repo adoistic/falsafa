@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-philippians-5d049d",
+  "work_title": "Philippians",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "56f62fe0-7443-5d8b-8ea0-f47266496c42",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 503,
+      "paragraph_count": 82,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg011.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c992d73-ad2b-58b3-9a4f-523d2d10e241",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 649,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg011.perseus-eng2:1"
+    }
+  ]
+}

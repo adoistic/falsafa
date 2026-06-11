@@ -1,0 +1,39 @@
+{
+  "work_slug": "old-testament-job-b62997",
+  "work_title": "Job",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "02f7cb1d-9363-5033-b1e4-5af3827be987",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 504,
+      "paragraph_count": 70,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg032.1st1K-grc1:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "adebad6b-2c94-55b4-bc9e-9b6599ae0c15",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 531,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg032.perseus-eng2:9"
+    }
+  ]
+}

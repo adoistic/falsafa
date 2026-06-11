@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-in-rufinum-b26ecc",
+  "work_title": "In Rufinum",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "957e1ced-ca4e-5eef-bae6-f0624e283e75",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3308,
+      "paragraph_count": 179,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa009.perseus-lat2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "025e0d6a-46c6-56db-9f2e-284c320ba74f",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5786,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa009.perseus-eng1:2"
+    }
+  ]
+}

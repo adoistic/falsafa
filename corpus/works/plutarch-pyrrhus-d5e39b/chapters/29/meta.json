@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-pyrrhus-d5e39b",
+  "work_title": "Pyrrhus",
+  "chapter_number": 29,
+  "chapter_title": "Chapter 29",
+  "chapter_slug": "29",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "74c6a104-fe97-5178-b5e5-4fb836609ae5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 347,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg030.perseus-grc2:29"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ccf02775-0279-5c2e-90d5-d517323c9b54",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 530,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg030.perseus-eng2:29"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "thomas-paine-common-sense-ca2db0",
+  "work_title": "Common Sense",
+  "chapter_number": 4,
+  "chapter_title": "OF THE PRESENT ABILITY OF AMERICA, WITH SOME MISCELLANEOUS REFLECTIONS.",
+  "chapter_slug": "04-of-the-present-ability-of-america-with-some-miscel",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0cf910ee-9380-5b76-b725-21e6cd1383f4",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3573,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/EnglishClassicalLiberals/Paine/1776-CommonSense/index.html"
+    }
+  ]
+}

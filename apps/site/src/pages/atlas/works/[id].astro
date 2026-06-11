@@ -1,0 +1,210 @@
+---
+import AtlasPage from '../../../layouts/AtlasPage.astro';
+import OriginalTitle from '../../../components/atlas/OriginalTitle.astro';
+import Stemma from '../../../components/atlas/Stemma.astro';
+import {
+  languageById,
+  personById,
+  sourceById,
+  transmissionsOf,
+  works,
+} from '../../../lib/atlas/data.ts';
+import { centuryOf } from '../../../lib/atlas/format.ts';
+
+export function getStaticPaths() {
+  return works.map((work) => ({ params: { id: work.id }, props: { work } }));
+}
+
+const { work } = Astro.props;
+const author = work.author ? personById.get(work.author) : undefined;
+const original = languageById.get(work.original.lang)!;
+const crossings = transmissionsOf(work.id);
+const workSources = work.sources.map((ref) => sourceById.get(ref.source)!);
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Book',
+  name: work.title,
+  alternateName: work.original.translit ?? work.original.text,
+  ...(author ? { author: { '@type': 'Person', name: author.name } } : {}),
+  inLanguage: original.bcp47,
+  abstract: work.summary,
+};
+---
+
+<AtlasPage
+  title={work.title}
+  description={work.summary}
+  markdown={`/atlas/works/${work.id}.md`}
+  jsonLd={jsonLd}
+>
+  <article class="wrap">
+    <header class="head">
+      <p class="tag tag-line rise">
+        {work.field} · {centuryOf(work.composed.from)} · {crossings.length}
+        {crossings.length === 1 ? 'crossing' : 'crossings'}
+      </p>
+      <h1 class="rise rise-1">{work.title}</h1>
+      <p class="original rise rise-2">
+        <OriginalTitle
+          text={work.original.text}
+          translit={work.original.translit}
+          lang={work.original.lang}
+          size="hero"
+        />
+      </p>
+      <p class="byline rise rise-3">
+        {author && (
+          <>
+            <a class="link" href={`/atlas/people/${author.id}/`}>{author.name}</a>,{' '}
+          </>
+        )}
+        {!author && work.attribution === 'traditional' && 'Traditionally attributed, '}
+        {!author && work.attribution === 'anonymous' && 'Anonymous, '}
+        {!author && work.attribution === 'misattributed' && 'Misattributed, '}
+        in <a class="link" href={`/atlas/languages/${original.id}/`}>{original.name}</a>
+      </p>
+    </header>
+
+    <div class="body">
+      <div class="main">
+        <section class="prose">
+          <p>{work.summary}</p>
+        </section>
+
+        <section class="chain-block">
+          <p class="tag tag-line">The chain</p>
+          <Stemma work={work} />
+        </section>
+      </div>
+
+      <aside class="margin">
+        {work.read_slug && (
+          <div class="read-link">
+            <a class="link" href={`/works/${work.read_slug}/`}>
+              Read this work in the library &rarr;
+            </a>
+          </div>
+        )}
+        <div class="detail">
+          <p class="tag">Worth knowing</p>
+          <p>{work.detail}</p>
+        </div>
+        <div class="cites">
+          <p class="tag">Sources for this work</p>
+          <ul>
+            {workSources.map((s) => (
+              <li>
+                <a class="link" href={`/atlas/sources/#${s.id}`}>
+                  {s.author.split(',')[0]} {s.year}
+                </a>
+              </li>
+            ))}
+          </ul>
+          <p class="md-note">
+            Machine-readable: <a class="link mono" href={`/atlas/works/${work.id}.md`}>{work.id}.md</a>
+          </p>
+        </div>
+      </aside>
+    </div>
+  </article>
+</AtlasPage>
+
+<style>
+  .wrap {
+    max-width: 72rem;
+    margin-inline: auto;
+    padding-inline: clamp(1rem, 4vw, 2.5rem);
+  }
+
+  .head {
+    padding-block: clamp(2.5rem, 6vw, 4.5rem) 1.5rem;
+    border-bottom: 1px solid var(--color-hairline);
+    max-width: 52rem;
+  }
+
+  .head h1 {
+    font-size: var(--text-h1);
+    margin: 1.1rem 0 0.9rem;
+  }
+
+  .original {
+    margin: 0 0 1rem;
+  }
+
+  .byline {
+    font-size: 1.1rem;
+    color: var(--color-ink-muted);
+    margin: 0;
+  }
+
+  .body {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 18rem;
+    gap: clamp(2rem, 5vw, 4.5rem);
+    padding-block: 2rem 3rem;
+  }
+
+  @media (max-width: 900px) {
+    .body {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .prose p {
+    font-size: 1.18rem;
+    margin-top: 0;
+  }
+
+  .chain-block {
+    margin-top: 2.2rem;
+  }
+
+  .chain-block .tag-line {
+    margin-bottom: 1.8rem;
+  }
+
+  .margin {
+    display: grid;
+    gap: 1.6rem;
+    align-content: start;
+  }
+
+  .read-link {
+    border: 1px solid var(--color-hairline);
+    border-left: 3px solid var(--color-lapis);
+    background: var(--color-paper-raised);
+    border-radius: 4px;
+    padding: 0.9rem 1.25rem;
+    font-size: 1.05rem;
+  }
+
+  .detail {
+    border: 1px solid var(--color-hairline);
+    border-left: 3px solid var(--color-gold-leaf);
+    background: var(--color-paper-raised);
+    border-radius: 4px;
+    padding: 1.1rem 1.25rem;
+  }
+
+  .detail p:last-child {
+    margin: 0.5rem 0 0;
+    font-size: 0.98rem;
+    line-height: 1.6;
+  }
+
+  .cites ul {
+    list-style: none;
+    margin: 0.5rem 0 0;
+    padding: 0;
+    display: grid;
+    gap: 0.25rem;
+    font-size: 0.95rem;
+  }
+
+  .md-note {
+    margin-top: 1.1rem;
+    font-size: 0.85rem;
+    color: var(--color-ink-muted);
+  }
+</style>

@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 202
+chapter_title: "Chapter text=F:book=15:letter=15"
+chapter_slug: 202
+variant_id: "74b97f54-7584-5cee-ac1c-ca4d344c2374"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 737
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:202"
+translator: Perseus Digital Library
+---
+
+TO GAIUS CASSIUS (IN ASIA?) BRUNDISIUM (AUGUST OR EARLY SEPTEMBER)
+
+ALTHOUGH both of us, from a hope of peace and a loathing for Civil bloodshed, desired to hold aloof from an obstinate prosecution of war, nevertheless, since I think I was the first to adopt that policy, I am perhaps more bound to give you satisfaction on that point, than to expect it from you. Although, as I am often wont to recall in my own mind, my intimate talk with you and yours with me led us both to the Conclusion that it was reasonable that, if not the cause as a whole, yet at least our judgment should be decided by the result of one battle. Nor does anyone ever sincerely criticise this opinion of ours, except those who think it better that the constitution should be utterly destroyed, rather than remain in a maimed and weakened state. I, on the Contrary, saw of course no personal hope from its destruction, much from its surviving fragments. But a state of things has followed which makes it more surprising that those events were possible, than that we did not foresee what was going to happen, and were unable with our merely human faculties to prophesy it. For my part, I confess that my view was that, when that battle had been fought, which seemed as it were to be the last word of fate, the conquerors would desire measures to be taken for the safety of the community at large, the conquered for their own. But both of these policies I regarded as depending on the promptness of the victor. If that promptness had been displayed, Africa would have experienced the same indulgence which Asia and Achaia too have witnessed, you yourself, as I think, acting as agent and intercessor. But the hours having been allowed to slip away-always most precious, and never more so than in civil wars—the year that intervened induced some to hope for victory, others to think lightly of the defeat itself. And the blame for all this mischief is on the shoulders of fortune. For who would have thought such a serious delay as that of the Alexandrian war was going to be added to the war already fought, or that a princeling like that Pharnaces of yours was going to cause a panic in Asia. For ourselves, however, though our policy was the same, our fortune has been different. For you have adopted the rôle of taking an active part in his councils, and of thus keeping yourself in a position to foresee what was going to happen, which more than anything else relieves one's anxiety. I, who was in a hurry to see Caesar in Italy—for that is what I thought would happen-and, when he returned after sparing many of the most honourable men, to "spur the willing horse" (as the phrase goes) in the direction of peace, am now most widely separated from him, and have been so all along. Moreover, I am living in the hearing of the groans of Italy and the most heartrending complaints in Rome: to which we might perhaps have contributed some alleviation, I in my way, you in yours, and everyone in his own, if only the chief man had been there. Wherefore I would have you, in view of your unbroken affection for me, write and tell me what you know, what you feel, and what you think I am to expect or ought to do. A letter from you will be of great value in my eyes, and would that I had obeyed that first one, which you sent me from Luceria! For I should then have retained my position without any of this distress. [Between the date of the last letter to Terentia (1 September) and that of the next (1 October) Caesar had landed at Tarentum, and, meeting Cicero, who was coming to greet him, alighted from his carriage, embraced him, had a long conversation with him on the road, and gave him free leave to live where he chose. Cicero seems to have at once started for his favourite round of visits to his villas, and then gone to Rome. This is the end, then, of the episode in his life connected with the Civil War. Henceforth, till Caesar's assassination, he lives a comparatively retired and literary life, seldom appearing in the senate or as an advocate.]

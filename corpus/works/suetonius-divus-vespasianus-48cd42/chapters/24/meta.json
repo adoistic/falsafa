@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-divus-vespasianus-48cd42",
+  "work_title": "Divus Vespasianus",
+  "chapter_number": 24,
+  "chapter_title": "Chapter 24",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "586c69ca-0ae5-50a1-b124-95bcdbdef7ab",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 140,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo020.perseus-eng2:24"
+    }
+  ]
+}

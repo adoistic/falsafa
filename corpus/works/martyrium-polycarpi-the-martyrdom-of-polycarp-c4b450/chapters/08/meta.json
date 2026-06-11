@@ -1,0 +1,38 @@
+{
+  "work_slug": "martyrium-polycarpi-the-martyrdom-of-polycarp-c4b450",
+  "work_title": "The Martyrdom of Polycarp",
+  "chapter_number": 8,
+  "chapter_title": "Chapter 8",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aad48803-7132-573c-8c91-57ec2ef49929",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 146,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1484.tlg001.1st1K-grc1:8"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3df14d06-a2b0-5cd6-bace-bb9efea8b554",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 202,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1484.tlg001.perseus-eng1:8"
+    }
+  ]
+}

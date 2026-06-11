@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-1-timothy-61120c",
+  "work_title": "1 Timothy",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8c2fa6cf-a38e-54e0-be62-0bb877dd3b02",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 307,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg015.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ede998e-3b31-51e1-a441-2640c42f7500",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 430,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg015.perseus-eng2:1"
+    }
+  ]
+}

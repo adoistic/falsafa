@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-galba-727b88",
+  "work_title": "Galba",
+  "chapter_number": 8,
+  "chapter_title": "Chapter 8",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "11a6cd09-539d-59e6-b033-46f7ddcbce33",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 177,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo017.perseus-lat2:8"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8f0ac2a1-cd9c-52cf-92fa-0a8375656b8e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 191,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo017.perseus-eng2:8"
+    }
+  ]
+}

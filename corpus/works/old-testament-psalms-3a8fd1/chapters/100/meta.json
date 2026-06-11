@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 100,
+  "chapter_title": "Chapter 100",
+  "chapter_slug": "100",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9e4ebb34-03c2-5c10-9b1a-360268304c4c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 123,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:100"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d97eab5-06fe-570e-8e70-ee81b9526f5c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 77,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:100"
+    }
+  ]
+}

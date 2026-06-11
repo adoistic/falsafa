@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ezekiel-835f8a",
+  "work_title": "Ezekiel",
+  "chapter_number": 8,
+  "chapter_title": "Chapter 8",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "effca113-6376-57dd-b9e0-999d2757cf60",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 706,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1:8"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6331661d-d267-58e6-ad01-f1e4e081e0d4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 635,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg053.perseus-eng2:8"
+    }
+  ]
+}

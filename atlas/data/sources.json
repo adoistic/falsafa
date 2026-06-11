@@ -1,0 +1,592 @@
+[
+  {
+    "id": "gutas-1998",
+    "kind": "book",
+    "author": "Gutas, Dimitri",
+    "title": "Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and Early Abbasid Society",
+    "year": 1998,
+    "publisher": "Routledge",
+    "note": "The standard account of why and how the Abbasid translation movement happened. Also the corrective on the House of Wisdom legend."
+  },
+  {
+    "id": "burnett-2001",
+    "kind": "article",
+    "author": "Burnett, Charles",
+    "title": "The Coherence of the Arabic-Latin Translation Program in Toledo in the Twelfth Century",
+    "year": 2001,
+    "publisher": "Science in Context 14"
+  },
+  {
+    "id": "burnett-1994",
+    "kind": "article",
+    "author": "Burnett, Charles",
+    "title": "Michael Scot and the Transmission of Scientific Culture from Toledo to Bologna via the Court of Frederick II Hohenstaufen",
+    "year": 1994,
+    "publisher": "Micrologus 2"
+  },
+  {
+    "id": "burnett-2004",
+    "kind": "reference",
+    "author": "Burnett, Charles",
+    "title": "Ketton, Robert of (fl. 1141-1157)",
+    "year": 2004,
+    "publisher": "Oxford Dictionary of National Biography"
+  },
+  {
+    "id": "hasse-2010",
+    "kind": "book",
+    "author": "Hasse, Dag Nikolaus",
+    "title": "Latin Averroes Translations of the First Half of the Thirteenth Century",
+    "year": 2010,
+    "publisher": "Olms"
+  },
+  {
+    "id": "hasse-sep",
+    "kind": "reference",
+    "author": "Hasse, Dag Nikolaus",
+    "title": "Influence of Arabic and Islamic Philosophy on the Latin West",
+    "year": 2020,
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/arabic-islamic-influence/"
+  },
+  {
+    "id": "sep-ibn-rushd",
+    "kind": "reference",
+    "author": "Ben Ahmed, Fouad and Pasnau, Robert",
+    "title": "Ibn Rushd [Averroes]",
+    "year": 2021,
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/ibn-rushd/"
+  },
+  {
+    "id": "adamson-sep",
+    "kind": "reference",
+    "author": "Adamson, Peter",
+    "title": "The Theology of Aristotle",
+    "year": 2025,
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/theology-aristotle/"
+  },
+  {
+    "id": "zimmermann-1986",
+    "kind": "article",
+    "author": "Zimmermann, F. W.",
+    "title": "The Origins of the So-Called Theology of Aristotle",
+    "year": 1986,
+    "publisher": "In Kraye, Ryan and Schmitt (eds.), Pseudo-Aristotle in the Middle Ages"
+  },
+  {
+    "id": "griffel-sep",
+    "kind": "reference",
+    "author": "Griffel, Frank",
+    "title": "al-Ghazali",
+    "year": 2025,
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/al-ghazali/"
+  },
+  {
+    "id": "minnema-2014",
+    "kind": "article",
+    "author": "Minnema, Anthony H.",
+    "title": "Algazel Latinus: The Audience of the Summa theoricae philosophiae, 1150-1600",
+    "year": 2014,
+    "publisher": "Traditio 69"
+  },
+  {
+    "id": "murdoch-1971",
+    "kind": "reference",
+    "author": "Murdoch, John E.",
+    "title": "Euclid: Transmission of the Elements",
+    "year": 1971,
+    "publisher": "Dictionary of Scientific Biography, vol. 4"
+  },
+  {
+    "id": "busard-folkerts-1992",
+    "kind": "book",
+    "author": "Busard, H. L. and Folkerts, M.",
+    "title": "Robert of Chester's (?) Redaction of Euclid's Elements, the so-called Adelard II Version",
+    "year": 1992,
+    "publisher": "Birkhäuser"
+  },
+  {
+    "id": "pal-project",
+    "kind": "reference",
+    "author": "Ptolemaeus Arabus et Latinus project",
+    "title": "Work entries for the Arabic and Latin Almagest translations",
+    "year": 2023,
+    "publisher": "Bavarian Academy of Sciences",
+    "url": "https://ptolemaeus.badw.de/"
+  },
+  {
+    "id": "kunitzsch-1974",
+    "kind": "book",
+    "author": "Kunitzsch, Paul",
+    "title": "Der Almagest: Die Syntaxis Mathematica des Claudius Ptolemäus in arabisch-lateinischer Überlieferung",
+    "year": 1974,
+    "publisher": "Harrassowitz"
+  },
+  {
+    "id": "strohmaier-ei2",
+    "kind": "reference",
+    "author": "Strohmaier, Gotthard",
+    "title": "Hunayn b. Ishak al-Ibadi",
+    "year": 1971,
+    "publisher": "Encyclopaedia of Islam, 2nd ed., Brill"
+  },
+  {
+    "id": "lamoreaux-2016",
+    "kind": "book",
+    "author": "Lamoreaux, John C. (ed. and tr.)",
+    "title": "Hunayn ibn Ishaq on His Galen Translations",
+    "year": 2016,
+    "publisher": "Brigham Young University Press"
+  },
+  {
+    "id": "hunayn-risala",
+    "kind": "primary",
+    "author": "Hunayn ibn Ishaq",
+    "title": "Risala on the Galen translations made by him and his school",
+    "year": 856,
+    "note": "Hunayn's own catalogue of 129 Galenic titles, who translated each into Syriac or Arabic, for whom, and how reliably. The most detailed self-report any medieval translator left."
+  },
+  {
+    "id": "fihrist",
+    "kind": "primary",
+    "author": "Ibn al-Nadim",
+    "title": "Kitab al-Fihrist",
+    "year": 987,
+    "note": "The Baghdad bookseller's catalogue of every book known to him, with translator attributions that anchor much of the Arabic side of this atlas."
+  },
+  {
+    "id": "ibn-juljul",
+    "kind": "primary",
+    "author": "Ibn Juljul",
+    "title": "Tabaqat al-atibba wa-l-hukama",
+    "year": 987,
+    "note": "Generations of the physicians, written in Cordoba. The primary source for both the Baghdad Dioscorides translation and the Byzantine gift manuscript episode, by a participant in the Cordoba revision circle."
+  },
+  {
+    "id": "pormann-savage-smith-2007",
+    "kind": "book",
+    "author": "Pormann, Peter E. and Savage-Smith, Emilie",
+    "title": "Medieval Islamic Medicine",
+    "year": 2007,
+    "publisher": "Edinburgh University Press"
+  },
+  {
+    "id": "de-blois-1990",
+    "kind": "book",
+    "author": "de Blois, François",
+    "title": "Burzoy's Voyage to India and the Origin of the Book of Kalilah wa Dimnah",
+    "year": 1990,
+    "publisher": "Royal Asiatic Society"
+  },
+  {
+    "id": "riedel-2010",
+    "kind": "reference",
+    "author": "Riedel, Dagmar",
+    "title": "Kalila wa Demna i. Redactions and Circulation",
+    "year": 2010,
+    "publisher": "Encyclopaedia Iranica",
+    "url": "https://iranicaonline.org/articles/kalila-demna-i"
+  },
+  {
+    "id": "olivelle-1997",
+    "kind": "book",
+    "author": "Olivelle, Patrick",
+    "title": "Pancatantra: The Book of India's Folk Wisdom",
+    "year": 1997,
+    "publisher": "Oxford University Press"
+  },
+  {
+    "id": "pingree-1970",
+    "kind": "article",
+    "author": "Pingree, David",
+    "title": "The Fragments of the Works of al-Fazari",
+    "year": 1970,
+    "publisher": "Journal of Near Eastern Studies 29"
+  },
+  {
+    "id": "bea-2007",
+    "kind": "reference",
+    "author": "Hockey, Thomas et al. (eds.)",
+    "title": "Biographical Encyclopedia of Astronomers (entries: Fazari, Khwarizmi, Majriti, Hajjaj ibn Yusuf ibn Matar)",
+    "year": 2007,
+    "publisher": "Springer"
+  },
+  {
+    "id": "mercier-1987",
+    "kind": "article",
+    "author": "Mercier, Raymond",
+    "title": "Astronomical Tables in the Twelfth Century",
+    "year": 1987,
+    "publisher": "In Burnett (ed.), Adelard of Bath: An English Scientist and Arabist of the Early Twelfth Century"
+  },
+  {
+    "id": "hughes-1989",
+    "kind": "book",
+    "author": "Hughes, Barnabas B.",
+    "title": "Robert of Chester's Latin Translation of al-Khwarizmi's al-Jabr: A New Critical Edition",
+    "year": 1989,
+    "publisher": "Steiner Verlag"
+  },
+  {
+    "id": "toomer-1973",
+    "kind": "reference",
+    "author": "Toomer, G. J.",
+    "title": "al-Khwarizmi",
+    "year": 1973,
+    "publisher": "Dictionary of Scientific Biography"
+  },
+  {
+    "id": "siraisi-1987",
+    "kind": "book",
+    "author": "Siraisi, Nancy G.",
+    "title": "Avicenna in Renaissance Italy: The Canon and Medical Teaching in Italian Universities after 1500",
+    "year": 1987,
+    "publisher": "Princeton University Press"
+  },
+  {
+    "id": "lemay-1978",
+    "kind": "reference",
+    "author": "Lemay, Richard",
+    "title": "Gerard of Cremona",
+    "year": 1978,
+    "publisher": "Dictionary of Scientific Biography, vol. 15 supplement",
+    "note": "Includes the Commemoratio librorum, the list of Gerard's translations drawn up by his students after his death in 1187."
+  },
+  {
+    "id": "gutas-sep-ibn-sina",
+    "kind": "reference",
+    "author": "Gutas, Dimitri",
+    "title": "Ibn Sina [Avicenna]",
+    "year": 2016,
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/ibn-sina/"
+  },
+  {
+    "id": "treiger-2017",
+    "kind": "article",
+    "author": "Treiger, Alexander",
+    "title": "Reconstructing Ishaq ibn Hunayn's Arabic Translation of Aristotle's De Anima",
+    "year": 2017,
+    "publisher": "Arabic Sciences and Philosophy 27"
+  },
+  {
+    "id": "taylor-2009",
+    "kind": "book",
+    "author": "Taylor, Richard C. (tr.)",
+    "title": "Averroes: Long Commentary on the De Anima of Aristotle",
+    "year": 2009,
+    "publisher": "Yale University Press"
+  },
+  {
+    "id": "russell-1994",
+    "kind": "book",
+    "author": "Russell, G. A. (ed.)",
+    "title": "The 'Arabick' Interest of the Natural Philosophers in Seventeenth-Century England",
+    "year": 1994,
+    "publisher": "Brill"
+  },
+  {
+    "id": "ben-zaken-2011",
+    "kind": "book",
+    "author": "Ben-Zaken, Avner",
+    "title": "Reading Hayy Ibn-Yaqzan: A Cross-Cultural History of Autodidacticism",
+    "year": 2011,
+    "publisher": "Johns Hopkins University Press"
+  },
+  {
+    "id": "overwien-2015",
+    "kind": "article",
+    "author": "Overwien, Oliver",
+    "title": "The Paradigmatic Translator and His Method: Hunayn ibn Ishaq's Translation of the Hippocratic Aphorisms from Greek via Syriac into Arabic",
+    "year": 2015,
+    "publisher": "Intellectual History of the Islamicate World 3"
+  },
+  {
+    "id": "burnett-jacquart-1994",
+    "kind": "book",
+    "author": "Burnett, Charles and Jacquart, Danielle (eds.)",
+    "title": "Constantine the African and Ali ibn al-Abbas al-Magusi: The Pantegni and Related Texts",
+    "year": 1994,
+    "publisher": "Brill"
+  },
+  {
+    "id": "tannous-2018",
+    "kind": "book",
+    "author": "Tannous, Jack",
+    "title": "The Making of the Medieval Middle East: Religion, Society, and Simple Believers",
+    "year": 2018,
+    "publisher": "Princeton University Press"
+  },
+  {
+    "id": "dancona-sep",
+    "kind": "reference",
+    "author": "D'Ancona, Cristina",
+    "title": "Greek Sources in Arabic and Islamic Philosophy",
+    "year": 2022,
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/arabic-islamic-greek/"
+  },
+  {
+    "id": "bhayro-2017",
+    "kind": "article",
+    "author": "Bhayro, Siam et al.",
+    "title": "The Syriac Galen Palimpsest: A Tale of Two Texts",
+    "year": 2017,
+    "publisher": "Journal of Semitic Studies / Project MUSE"
+  },
+  {
+    "id": "wilson-1992",
+    "kind": "book",
+    "author": "N. G. Wilson",
+    "title": "From Byzantium to Italy: Greek Studies in the Italian Renaissance",
+    "year": 1992,
+    "publisher": "Duckworth",
+    "note": "Standard account of the recovery of Greek in the West, including Pilatus's Homer and Valla's Thucydides and Herodotus."
+  },
+  {
+    "id": "reynolds-wilson-2013",
+    "kind": "reference",
+    "author": "L. D. Reynolds and N. G. Wilson",
+    "title": "Scribes and Scholars: A Guide to the Transmission of Greek and Latin Literature",
+    "year": 2013,
+    "publisher": "Oxford University Press, 4th ed.",
+    "note": "The standard survey of how classical texts survived and were recovered, including Poggio's manuscript hunts."
+  },
+  {
+    "id": "hankins-1990",
+    "kind": "book",
+    "author": "James Hankins",
+    "title": "Plato in the Italian Renaissance",
+    "year": 1990,
+    "publisher": "Brill",
+    "note": "The standard study of Ficino's Latin Plato and its readers."
+  },
+  {
+    "id": "akasoy-fidora-2005",
+    "kind": "book",
+    "author": "Anna A. Akasoy and Alexander Fidora (eds.), with D. M. Dunlop",
+    "title": "The Arabic Version of the Nicomachean Ethics",
+    "year": 2005,
+    "publisher": "Brill",
+    "note": "Edition of the surviving Arabic Ethics with Dunlop's account of its disputed translator attributions."
+  },
+  {
+    "id": "dod-1982",
+    "kind": "article",
+    "author": "Bernard G. Dod",
+    "title": "Aristoteles latinus, in The Cambridge History of Later Medieval Philosophy",
+    "year": 1982,
+    "publisher": "Cambridge University Press",
+    "note": "Reference list of the medieval Latin Aristotle, including Grosseteste's Ethics of 1246-47."
+  },
+  {
+    "id": "hobbes-1629",
+    "kind": "primary",
+    "author": "Thomas Hobbes",
+    "title": "Eight Bookes of the Peloponnesian Warre",
+    "year": 1629,
+    "publisher": "London",
+    "note": "The first English Thucydides made directly from the Greek; Hobbes's preface calls him 'the most politic historiographer that ever writ'."
+  },
+  {
+    "id": "dale-1848",
+    "kind": "primary",
+    "author": "Henry Dale",
+    "title": "The History of Thucydides, literally translated",
+    "year": 1848,
+    "publisher": "Bohn's Classical Library, London",
+    "note": "The Victorian crib-style translation carried in the Perseus First1KGreek encoding."
+  },
+  {
+    "id": "chapman-1611",
+    "kind": "primary",
+    "author": "George Chapman",
+    "title": "The Iliads of Homer",
+    "year": 1611,
+    "publisher": "London",
+    "note": "Completion of the first full English Iliad, issued in parts from 1598."
+  },
+  {
+    "id": "chapman-1616",
+    "kind": "primary",
+    "author": "George Chapman",
+    "title": "The Whole Works of Homer",
+    "year": 1616,
+    "publisher": "London",
+    "note": "Collects his Odyssey of 1614-15 with the Iliad: the first complete English Homer."
+  },
+  {
+    "id": "pope-1715",
+    "kind": "primary",
+    "author": "Alexander Pope",
+    "title": "The Iliad of Homer",
+    "year": 1715,
+    "publisher": "London, 1715-1720",
+    "note": "Published by subscription; the financial model is part of the story."
+  },
+  {
+    "id": "pope-1725",
+    "kind": "primary",
+    "author": "Alexander Pope",
+    "title": "The Odyssey of Homer",
+    "year": 1725,
+    "publisher": "London, 1725-1726",
+    "note": "With William Broome and Elijah Fenton as collaborators."
+  },
+  {
+    "id": "butler-1898",
+    "kind": "primary",
+    "author": "Samuel Butler",
+    "title": "The Iliad of Homer, rendered into English prose",
+    "year": 1898,
+    "publisher": "London",
+    "note": "The novelist's plain-prose Homer; the Perseus English Iliad derives from it."
+  },
+  {
+    "id": "butler-1900",
+    "kind": "primary",
+    "author": "Samuel Butler",
+    "title": "The Odyssey, rendered into English prose",
+    "year": 1900,
+    "publisher": "London",
+    "note": "Companion to his Iliad; the Perseus English Odyssey derives from it."
+  },
+  {
+    "id": "ficino-1484",
+    "kind": "primary",
+    "author": "Marsilio Ficino",
+    "title": "Platonis Opera Omnia, Latin translation",
+    "year": 1484,
+    "publisher": "Florence",
+    "note": "The first complete Plato in any Western language since antiquity."
+  },
+  {
+    "id": "jowett-1871",
+    "kind": "primary",
+    "author": "Benjamin Jowett",
+    "title": "The Dialogues of Plato",
+    "year": 1871,
+    "publisher": "Oxford",
+    "note": "The translation through which anglophone readers met Plato for a century."
+  },
+  {
+    "id": "shorey-1930",
+    "kind": "primary",
+    "author": "Paul Shorey",
+    "title": "Plato: The Republic (Loeb Classical Library)",
+    "year": 1930,
+    "publisher": "Harvard University Press, 1930-1935",
+    "note": "The Loeb English carried in the Perseus encoding and in this library."
+  },
+  {
+    "id": "rackham-1926",
+    "kind": "primary",
+    "author": "Harris Rackham",
+    "title": "Aristotle: The Nicomachean Ethics (Loeb Classical Library)",
+    "year": 1926,
+    "publisher": "Harvard University Press",
+    "note": "The Loeb English carried in the Perseus encoding and in this library."
+  },
+  {
+    "id": "godley-1920",
+    "kind": "primary",
+    "author": "A. D. Godley",
+    "title": "Herodotus (Loeb Classical Library)",
+    "year": 1920,
+    "publisher": "Harvard University Press, 1920-1925",
+    "note": "The Loeb English carried in the Perseus encoding and in this library."
+  },
+  {
+    "id": "creech-1682",
+    "kind": "primary",
+    "author": "Thomas Creech",
+    "title": "T. Lucretius Carus, his six books De natura rerum, done into English verse",
+    "year": 1682,
+    "publisher": "Oxford",
+    "note": "The first complete English De Rerum Natura."
+  },
+  {
+    "id": "leonard-1916",
+    "kind": "primary",
+    "author": "William Ellery Leonard",
+    "title": "Of the Nature of Things",
+    "year": 1916,
+    "publisher": "London and New York",
+    "note": "The verse translation carried in the Perseus encoding and in this library."
+  },
+  {
+    "id": "dryden-1697",
+    "kind": "primary",
+    "author": "John Dryden",
+    "title": "The Works of Virgil",
+    "year": 1697,
+    "publisher": "London",
+    "note": "The Aeneid that ruled English for a century, sold by subscription."
+  },
+  {
+    "id": "williams-1910",
+    "kind": "primary",
+    "author": "Theodore C. Williams",
+    "title": "The Aeneid of Virgil",
+    "year": 1910,
+    "publisher": "Boston",
+    "note": "The verse translation carried in the Perseus encoding and in this library."
+  },
+  {
+    "id": "jones-1794",
+    "kind": "primary",
+    "author": "William Jones",
+    "title": "Institutes of Hindu Law: or, the Ordinances of Menu",
+    "year": 1794,
+    "publisher": "Calcutta",
+    "note": "The first complete English Manusmriti, made for the courts of British Bengal."
+  },
+  {
+    "id": "cannon-1990",
+    "kind": "book",
+    "author": "Garland Cannon",
+    "title": "The Life and Mind of Oriental Jones",
+    "year": 1990,
+    "publisher": "Cambridge University Press",
+    "note": "Standard biography of William Jones."
+  },
+  {
+    "id": "buhler-1886",
+    "kind": "primary",
+    "author": "Georg Buhler",
+    "title": "The Laws of Manu (Sacred Books of the East, vol. 25)",
+    "year": 1886,
+    "publisher": "Oxford University Press",
+    "note": "The scholarly English Manusmriti of the nineteenth century."
+  },
+  {
+    "id": "schmidt-1996",
+    "kind": "book",
+    "author": "James Schmidt (ed.)",
+    "title": "What is Enlightenment? Eighteenth-Century Answers and Twentieth-Century Questions",
+    "year": 1996,
+    "publisher": "University of California Press",
+    "note": "Contains an English translation of Fichte's Reclamation of the Freedom of Thought."
+  },
+  {
+    "id": "hart-dlp",
+    "kind": "reference",
+    "author": "David M. Hart",
+    "title": "The Digital Library of Liberty and Power (davidmhart.com)",
+    "year": 2026,
+    "publisher": "davidmhart.com",
+    "note": "Hart's open digital library of classical-liberal texts; the source of the French and German editions behind Thothica's translations of Comte, Dunoyer and Fichte."
+  },
+  {
+    "id": "falsafa-2026",
+    "kind": "reference",
+    "author": "Thothica",
+    "title": "Falsafa: the library and librarian (falsafa.ai)",
+    "year": 2026,
+    "publisher": "falsafa.ai",
+    "note": "The library carrying the AI-assisted English translations whose crossings the newest chains record."
+  }
+]

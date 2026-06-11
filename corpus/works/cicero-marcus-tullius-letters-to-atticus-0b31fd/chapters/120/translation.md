@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 120
+chapter_title: "Chapter text=A:book=6:letter=5"
+chapter_slug: 120
+variant_id: "4bd7c03a-a039-55c4-af0c-2868fa7e22a0"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 595
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:120"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) TARSUS, 26 JUNE
+
+By this time you must surely be in Rome; and I rejoice at your safe arrival there, if it is so. As long, in fact, as you were absent from town, you seemed to me farther removed from me than if you were at home, for my own affairs were less known to me, and so were those of the state. Wherefore, though I hope by the time you read this to be far advanced on my way home, pray send letters frequently, and as talkative as possible on every kind of subject, to meet me: above all, on the subject on which I wrote to you before: my wife's freedman, as in our meetings and conversations he continually stammered and seemed at a loss, appeared to me to have a little cooked the accounts of the Crotonian." Please run that to earth, as is your wont; but still more the following: When leaving the city of the seven hills he handed in an account of two debts of 24 and 48 minae due to Camillus: and entered himself as liable for 24 minae from the Crotonian's estate, and 48 from the property in the Chersonese. And having received in legacies two sums of 640 minae, of this he says that not a penny has been paid, though it was all due on the 1st of the 2nd month: but that Milo's freedman, the namesake of Conon's father (Timotheus), had entirely failed to provide for the payment of the money. In regard, then, to this money, if possible secure the whole amount, and if not, don't neglect the interest calculated from the above-mentioned day. I have felt much alarm about this all the days I had to endure him. For he visited me to survey the situation, and almost with a hope of something turning up. But when he gave up that hope he quitted me without reason assigned, and with the remark: "I yield, 'Twere shame to linger here. And he flung in my teeth the proverb, "Never refuse a good offer." See to the surplus, and do the best that can be done in the matter. Although I am now almost at the end of my year's full term of office—for there are only thirty-three days left—I am yet overpowered with anxiety for the province to the highest possible degree. For as Syria is in a war fever, and Bibulus has the burden of an extreme anxiety as to the war in the midst of such bitter private sorrow, and as his legates, quaestor, and friends write to me to come to his aid, though I have only a weak army (the auxiliaries are certainly good, Galatians, Pisidians, Lycians—for they are the flower of my force), yet I thought it my duty to keep my army as near as possible to the enemy, as long as the decree of the senate allowed me to remain governor of the province. But what pleases me most is that Bibulus is not importunate; he writes to me about everything rather than this, and the day of my departure is insensibly creeping on. When that arrives there is another "problem "—who to put in charge, unless my quaestor Caidus shall have arrived, of whom as yet I have had no certain intelligence. I should like, by Hercules, to compose a longer letter, but I neither have anything to tell you, nor can I jest for anxiety. Good-bye, therefore, and give my love to the little maid "Atticula" and our Pilia.

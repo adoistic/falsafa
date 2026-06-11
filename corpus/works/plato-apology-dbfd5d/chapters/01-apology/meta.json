@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-apology-dbfd5d",
+  "work_title": "Apology",
+  "chapter_number": 1,
+  "chapter_title": "Apology",
+  "chapter_slug": "01-apology",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "98ee9d5c-0981-5381-9fc2-38462a8cb5d9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8703,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg002.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd11b7ea-03e3-538c-b9f6-65ea97b21c1e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11743,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg002.perseus-eng2"
+    }
+  ]
+}

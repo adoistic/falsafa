@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 131
+chapter_title: "Chapter text=F:book=15:letter=13"
+chapter_slug: 131
+variant_id: "6b31466f-9049-545e-925e-f35f860ec45f"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 498
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:131"
+translator: Perseus Digital Library
+---
+
+TO L. AEMILIUS PAULLUS (CONSUL) CILICIA, JANUARY
+
+IT has been one of the strongest wishes of my heart to be in Rome with you on many accounts, but especially that you might have clearly before your eyes, both during your canvass and your actual administration, how eager I was to fulfil my obligation to you. And, indeed, as far as your canvass was concerned, it always seemed to me to be plain sailing, yet I nevertheless wished to give some actual aid. In your consulship truly I am anxious that you should have still less difficulty, yet I am vexed to think that I, as consul, had a full view of your zealous kindness when you were a young man, whilst you cannot have one of mine now that I am so far advanced in life. But there has been, I think, a kind of fatality ordaining that you should always have the opportunity of advancing my honour, while I never had anything-except the wish—enabling me to repay you. My consulship and my restoration alike you honoured by your support. It has happened that the occasion for my performing active public service has fallen in your consulship. Accordingly, though your brilliant position and high rank, as well as my own great office and high reputation, would seem to demand that I should urge you, and beg you at some length, to see to a decree of the senate being passed on the subject of my services in as complimentary terms as possible, yet I do not venture to put it strongly to you, lest I should appear to have forgotten your habitual kindness to me, or should admit the thought of your having forgotten. Accordingly, I will do as I think you would wish, and confine my petition to a few words, when it is made to a man that all the world knows has done me eminent service. If others had been consuls, you are the man of all others, Paullus, to whom I should have sent asking you to secure for me their warmest support. As it is, the chief power and greatest influence being in your hands, and our close connexion being known to everybody, I do beg you warmly, that you should see to a decree being passed in regard to my services in as complimentary terms and as speedily as possible. That these services deserve honour and congratulation you will learn from the despatch which I have addressed officially to you, your colleague, and the senate. I would further beg you to undertake the support of my other interests of every kind, and above all of my reputation. And let it be among your first concerns, as I asked you in a previous letter also, to prevent any extension of time in my tenure of office. I am eager to see you while you are still consul, and to gain all I hope for in your consulship, whether here or at home. Farewell.

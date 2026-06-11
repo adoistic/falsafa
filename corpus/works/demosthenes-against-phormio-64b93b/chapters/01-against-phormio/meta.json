@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-phormio-64b93b",
+  "work_title": "Against Phormio",
+  "chapter_number": 1,
+  "chapter_title": "Against Phormio",
+  "chapter_slug": "01-against-phormio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0117e24a-2280-56f2-9106-9f354f961f13",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3259,
+      "paragraph_count": 68,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg034.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "af7b7c92-4233-5062-b547-e73525bf1a56",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 4844,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg034.perseus-eng2"
+    }
+  ]
+}

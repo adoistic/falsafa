@@ -1,0 +1,38 @@
+{
+  "work_slug": "demades-on-the-twelve-years-a2768c",
+  "work_title": "On the Twelve Years",
+  "chapter_number": 1,
+  "chapter_title": "On the Twelve Years",
+  "chapter_slug": "01-on-the-twelve-years",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3331c3cb-bcf4-5a3d-856c-017ab8cbebe4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2006,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0535.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "524f64a5-f0c5-5d2f-b334-4b45bf9cb2d3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2706,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0535.tlg001.perseus-eng2"
+    }
+  ]
+}

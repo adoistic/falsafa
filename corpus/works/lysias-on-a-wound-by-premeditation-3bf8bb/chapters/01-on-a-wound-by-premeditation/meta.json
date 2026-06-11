@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-on-a-wound-by-premeditation-3bf8bb",
+  "work_title": "On A Wound By Premeditation",
+  "chapter_number": 1,
+  "chapter_title": "On A Wound By Premeditation",
+  "chapter_slug": "01-on-a-wound-by-premeditation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1930dc53-e499-5478-9c6b-a1632627b96e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 947,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg004.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14bd3e7f-8c43-5050-8b8d-ef5dae848b67",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1491,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg004.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,767 @@
+[
+  {
+    "id": "p-ff283b",
+    "offset": 0,
+    "text": "(Enter LABRAX, at a distance.)"
+  },
+  {
+    "id": "p-975b80",
+    "offset": 32,
+    "text": "LABRAX:\n(to himself.)\nWhat other mortal being is there living this day more wretched than myself, whom before the commissioned judges Plesidippus has just now cast? Palaestra has just been taken from me by award. I’m ruined outright. But I do believe that Procurers were procreated for mere sport;"
+  },
+  {
+    "id": "p-356b2f",
+    "offset": 331,
+    "text": "so much do all persons make sport if any misfortune befalls a Procurer. Now I’ll go look here, in the Temple of Venus, for that other female, that her at least I may take away, the only portion of my property that remains.\n(He retires a little distance.)"
+  },
+  {
+    "id": "p-936cc1",
+    "offset": 587,
+    "text": "(Enter GRIPUS, from the cottage of DAEMONES, with a spit in his hand.)"
+  },
+  {
+    "id": "p-2d75a1",
+    "offset": 659,
+    "text": "GRIPUS:\n(calling to the PEOPLE within.)\nBy the powers, you shall never this day at nightfall behold Gripus alive, unless the wallet is restored to me."
+  },
+  {
+    "id": "p-2a644c",
+    "offset": 811,
+    "text": "LABRAX:\n(behind.)\nI’m ready to die; when I hear mentior made anywhere of a wallet, I’m thumped, as it were with a stake, upon the breast."
+  },
+  {
+    "id": "p-e816ce",
+    "offset": 950,
+    "text": "GRIPUS:\n(at the door, continuing.)\nThat scoundrel is free; I, the person that held the net in the sea, and drew up the wallet, to him you refuse to give anything."
+  },
+  {
+    "id": "p-92f68f",
+    "offset": 1114,
+    "text": "LABRAX:\n(behind.)\nO ye immortal Gods! by his talk this person has made me prick up my ears."
+  },
+  {
+    "id": "p-8e5523",
+    "offset": 1207,
+    "text": "GRIPUS:\n(continuing.)\nBy my troth, in letters a cubit long, I’ll immediately post it up in every quarter,"
+  },
+  {
+    "id": "p-afdc3e",
+    "offset": 1314,
+    "text": "If any person has lost a wallet with plenty of gold and silver, let him come to Gripus. You shan’t keep it as you are wishing."
+  },
+  {
+    "id": "p-aed9c1",
+    "offset": 1442,
+    "text": "LABRAX:\n(behind.)\nI’ faith, this person knows, as I think, who has got the wallet. This person must be accosted by me; ye Gods, aid me, I do entreat you.\n(Some one calls GRIPUS, from within.)"
+  },
+  {
+    "id": "p-800607",
+    "offset": 1635,
+    "text": "GRIPUS:\nWhy are you calling me back in-doors? (He rubs away at the spit.) I want to clean this here before the door."
+  },
+  {
+    "id": "p-14e5b1",
+    "offset": 1753,
+    "text": "But surely this, I’ faith, has been made of rust, and not of iron; so that the more I rub it, it becomes quite red and more slender. Why surely this spit has been drugged; it does waste away so in my hands."
+  },
+  {
+    "id": "p-b626fe",
+    "offset": 1961,
+    "text": "LABRAX:\n(accosting him.)\nSave you, young man."
+  },
+  {
+    "id": "p-6930c4",
+    "offset": 2008,
+    "text": "GRIPUS:\nMay the Gods prosper you with your shorn pate."
+  },
+  {
+    "id": "p-433ae9",
+    "offset": 2064,
+    "text": "LABRAX:\nWhat’s going on?"
+  },
+  {
+    "id": "p-1cd22b",
+    "offset": 2090,
+    "text": "GRIPUS:\nA spit being cleaned."
+  },
+  {
+    "id": "p-1264c4",
+    "offset": 2121,
+    "text": "LABRAX:\nHow do you do?"
+  },
+  {
+    "id": "p-30bba4",
+    "offset": 2145,
+    "text": "GRIPUS:\nWhat are you? Prithee, are you a medicant?"
+  },
+  {
+    "id": "p-2fe7a1",
+    "offset": 2197,
+    "text": "LABRAX:\nNo, I’ faith, I am more than a medicant by one letter."
+  },
+  {
+    "id": "p-7b4c5e",
+    "offset": 2261,
+    "text": "GRIPUS:\nThen you are a mendicant."
+  },
+  {
+    "id": "p-0bc894",
+    "offset": 2296,
+    "text": "LABRAX:\nYou’ve hit it to a nicety."
+  },
+  {
+    "id": "p-42a099",
+    "offset": 2332,
+    "text": "GRIPUS:\nYour appearance seems suitable to it. But what’s the matter with you?"
+  },
+  {
+    "id": "p-353221",
+    "offset": 2411,
+    "text": "LABRAX:\nTroth, this last night I was shipwrecked at sea the vessel was cast away, and to my misfortune I lost there everything that I had."
+  },
+  {
+    "id": "p-1e2479",
+    "offset": 2551,
+    "text": "GRIPUS:\nWhat did you lose?"
+  },
+  {
+    "id": "p-71fee6",
+    "offset": 2579,
+    "text": "LABRAX:\nA wallet with plenty of gold and silver."
+  },
+  {
+    "id": "p-73f9e8",
+    "offset": 2629,
+    "text": "GRIPUS:\nDo you at all remember what there was in the wallet which was lost?"
+  },
+  {
+    "id": "p-b65009",
+    "offset": 2706,
+    "text": "LABRAX:\nWhat matters for us now to be talking of it, if, in spite of it, it’s lost?"
+  },
+  {
+    "id": "p-f91325",
+    "offset": 2791,
+    "text": "GRIPUS:\nWhat if I know who has found it? I wish to learn from you the tokens."
+  },
+  {
+    "id": "p-ccf0b1",
+    "offset": 2870,
+    "text": "LABRAX:\nEight hundred golden pieces were there in a purse, besides a hundred Philippean minae in a wash-leather bag apart."
+  },
+  {
+    "id": "p-c9f188",
+    "offset": 2994,
+    "text": "GRIPUS:\n(aside.)\nTroth, it is a noble prize; I shall be getting a handsome reward. The Gods show respect to mortals; therefore I shall come off bounteously rewarded. No doubt, it is this man’s wallet. (To LABRAX.) Do you proceed to relate the rest."
+  },
+  {
+    "id": "p-c6f695",
+    "offset": 3244,
+    "text": "LABRAX:\nA large talent of silver of full weight was in a purse, besides a bowl, a goblet, a beaker, a boat, and a cup."
+  },
+  {
+    "id": "p-625ea0",
+    "offset": 3364,
+    "text": "GRIPUS:\nAstonishing! you really did have some splendid riches."
+  },
+  {
+    "id": "p-5fe097",
+    "offset": 3428,
+    "text": "LABRAX:\nA shocking expression is that, and a most abominable one. You did have, and now have not."
+  },
+  {
+    "id": "p-b17fb6",
+    "offset": 3527,
+    "text": "GRIPUS:\nWhat would you be ready to give to one who should find these out for you, and give you information? Say, speedily and at once."
+  },
+  {
+    "id": "p-15c076",
+    "offset": 3663,
+    "text": "LABRAX:\nThree hundred didrachms."
+  },
+  {
+    "id": "p-4345b0",
+    "offset": 3697,
+    "text": "GRIPUS:\nRubbish."
+  },
+  {
+    "id": "p-648de2",
+    "offset": 3715,
+    "text": "LABRAX:\nFour hundred."
+  },
+  {
+    "id": "p-f847b8",
+    "offset": 3738,
+    "text": "GRIPUS:\nOld thrums."
+  },
+  {
+    "id": "p-04832c",
+    "offset": 3759,
+    "text": "LABRAX:\nFive hundred."
+  },
+  {
+    "id": "p-300b66",
+    "offset": 3782,
+    "text": "GRIPUS:\nA rotten nut."
+  },
+  {
+    "id": "p-5e3446",
+    "offset": 3805,
+    "text": "LABRAX:\nSix hundred."
+  },
+  {
+    "id": "p-388aee",
+    "offset": 3827,
+    "text": "GRIPUS:\nYou are prating about mere tiny weevils."
+  },
+  {
+    "id": "p-cb5c2a",
+    "offset": 3877,
+    "text": "LABRAX:\nI’ll give seven hundred."
+  },
+  {
+    "id": "p-e06a47",
+    "offset": 3911,
+    "text": "GRIPUS:\nYour mouth is hot, you are cooling it just now."
+  },
+  {
+    "id": "p-db5117",
+    "offset": 3968,
+    "text": "LABRAX:\nI’ll give a thousand didrachms."
+  },
+  {
+    "id": "p-dbd05f",
+    "offset": 4009,
+    "text": "GRIPUS:\nYou are dreaming."
+  },
+  {
+    "id": "p-e9cafe",
+    "offset": 4036,
+    "text": "LABRAX:\nI add no more;"
+  },
+  {
+    "id": "p-bef5ba",
+    "offset": 4060,
+    "text": "be off with you."
+  },
+  {
+    "id": "p-d1ca11",
+    "offset": 4078,
+    "text": "GRIPUS:\nHear me then; if, I’ faith, I should be off from here, I shan’t be here."
+  },
+  {
+    "id": "p-9ab9d7",
+    "offset": 4160,
+    "text": "LABRAX:\nWould you like a hundred as well as the thousand?"
+  },
+  {
+    "id": "p-cf7c86",
+    "offset": 4219,
+    "text": "GRIPUS:\nYou are asleep."
+  },
+  {
+    "id": "p-bdbf5b",
+    "offset": 4244,
+    "text": "LABRAX:\nSay how much you ask."
+  },
+  {
+    "id": "p-f24d01",
+    "offset": 4275,
+    "text": "GRIPUS:\nThat you mayn’t be adding anything against your inclination, a great talent; it’s not possible for three obols to be bated thence; then do you say either yes or no at once."
+  },
+  {
+    "id": "p-02c0a4",
+    "offset": 4457,
+    "text": "LABRAX:\n(aside.)\nWhat’s to be done here? It’s a matter of necessity, I see: (to GRIPUS) the talent shall be paid."
+  },
+  {
+    "id": "p-f033c4",
+    "offset": 4572,
+    "text": "GRIPUS:\n(going towards the altar.)\nJust step this way; I wish Venus here to put the question to you."
+  },
+  {
+    "id": "p-a7b2f4",
+    "offset": 4674,
+    "text": "LABRAX:\nWhatever you please, that command me."
+  },
+  {
+    "id": "p-7b3f97",
+    "offset": 4721,
+    "text": "GRIPUS:\nTouch this altar of Venus."
+  },
+  {
+    "id": "p-b7f4a1",
+    "offset": 4757,
+    "text": "LABRAX:\n(touching it.)\nI am touching it."
+  },
+  {
+    "id": "p-11cecd",
+    "offset": 4799,
+    "text": "GRIPUS:\nBy Venus here must you swear to me."
+  },
+  {
+    "id": "p-ac7af2",
+    "offset": 4844,
+    "text": "LABRAX:\nWhat must I swear?"
+  },
+  {
+    "id": "p-6cb2b3",
+    "offset": 4872,
+    "text": "GRIPUS:\nWhat I shall bid you."
+  },
+  {
+    "id": "p-427ea0",
+    "offset": 4903,
+    "text": "LABRAX:\nDictate in words just as you like. (Aside.) What I’ve got at home, I shall never beg of any one else."
+  },
+  {
+    "id": "p-af715e",
+    "offset": 5014,
+    "text": "GRIPUS:\nTake hold of this altar."
+  },
+  {
+    "id": "p-3e2571",
+    "offset": 5048,
+    "text": "LABRAX:\n(taking hold of it.)\nI am taking hold of it."
+  },
+  {
+    "id": "p-a49ad5",
+    "offset": 5102,
+    "text": "GRIPUS:\nSwear that you will pay me the money on that same day on which you shall gain possession of the wallet."
+  },
+  {
+    "id": "p-37ff1b",
+    "offset": 5215,
+    "text": "LABRAX:\nBe it so."
+  },
+  {
+    "id": "p-386f2e",
+    "offset": 5234,
+    "text": "GRIPUS:\n(speaking, while LABRAX repeats after him.)\nVenus of Cyrene, I invoke thee as my witness, if I shall find that wallet which I lost in the ship, safe with the gold and silver, and it shall come into my possession— Then to this Gripus do I promise; say so and place your hand upon me."
+  },
+  {
+    "id": "p-52779f",
+    "offset": 5526,
+    "text": "LABRAX:\nThen to this Gripus do I promise, Venus, do thou hear me—"
+  },
+  {
+    "id": "p-5b32aa",
+    "offset": 5593,
+    "text": "GRIPUS:\n(followed by LABRAX.)\nThat I will forthwith give him a great talent of silver. \""
+  },
+  {
+    "id": "p-a330ec",
+    "offset": 5683,
+    "text": "GRIPUS:\nIf you defraud me, say, may Venus utterly destroy your body, and your existence in your calling. (Aside.) As it is, do you have this for yourself, when you’ve once taken the oath."
+  },
+  {
+    "id": "p-08f648",
+    "offset": 5872,
+    "text": "LABRAX:\nIf, Venus, I shall do anything amiss against this oath, I supplicate thee that all Procurers may henceforth be wretched."
+  },
+  {
+    "id": "p-ecc071",
+    "offset": 6002,
+    "text": "GRIPUS:\n(aside.)\nAs it is, it shall be so, even if you do keep your oath. Do you wait here; (going towards the cottage) —I’ll at once make the old gentleman come out; do you forthwith demand of him that wallet.\n(Goes in.)"
+  },
+  {
+    "id": "p-8e7e90",
+    "offset": 6225,
+    "text": "LABRAX:\n(to himself.)\nIf ever so much he shall restore to me this wallet, I’m not this day indebted to him three obols even."
+  },
+  {
+    "id": "p-dc1497",
+    "offset": 6351,
+    "text": "It’s according to my own intention what my tongue swears. (The door opens.) But I’ll hold my peace; see, here he’s coming out, and bringing the old man."
+  },
+  {
+    "id": "p-d13778",
+    "offset": 6505,
+    "text": "(Enter GRIPUS, followed by DAEMONES, with the wallet.)"
+  },
+  {
+    "id": "p-e7f1a0",
+    "offset": 6561,
+    "text": "GRIPUS:\nFollow this way."
+  },
+  {
+    "id": "p-128b83",
+    "offset": 6587,
+    "text": "Where is this Procurer?"
+  },
+  {
+    "id": "p-f9e025",
+    "offset": 6612,
+    "text": "Hark you (to LABRAX), see now; this person (pointing at DAEMONES) has got your wallet."
+  },
+  {
+    "id": "p-9f09e9",
+    "offset": 6700,
+    "text": "DAEMONES:\nI have got it, and I confess that it is in my possession; and if it’s yours, you may have it. Everything, just as each particular was in it, shall in like manner be given safe to you."
+  },
+  {
+    "id": "p-ff6fb7",
+    "offset": 6895,
+    "text": "(Holding it out.) Take it, if it’s yours."
+  },
+  {
+    "id": "p-ac433b",
+    "offset": 6938,
+    "text": "LABRAX:\nImmortal Gods, it is mine. (Takes it.) Welcome, dear wallet."
+  },
+  {
+    "id": "p-9e31c3",
+    "offset": 7008,
+    "text": "DAEMONES:\nIs it yours?"
+  },
+  {
+    "id": "p-605012",
+    "offset": 7032,
+    "text": "LABRAX:\nDo you ask the question? If indeed, I’ faith, it were in Jove’s possession, still it is my own."
+  },
+  {
+    "id": "p-3abc24",
+    "offset": 7137,
+    "text": "DAEMONES:\nEverything in it is safe; there has only been one casket taken out of it, with some trinkets, by means of which this day I have found my daughter."
+  },
+  {
+    "id": "p-84fa00",
+    "offset": 7295,
+    "text": "LABRAX:\nWhat person?"
+  },
+  {
+    "id": "p-4de392",
+    "offset": 7317,
+    "text": "DAEMONES:\nPalaestra, who was your property, she has been discovered to be my own daughter."
+  },
+  {
+    "id": "p-046315",
+    "offset": 7409,
+    "text": "LABRAX:\nBy my troth, it has happily turned out so; since this matter has happened so fortunately for you according to your wishes, I’m rejoiced."
+  },
+  {
+    "id": "p-ac03ef",
+    "offset": 7555,
+    "text": "DAEMONES:\nIn that I don’t readily believe you."
+  },
+  {
+    "id": "p-c32e77",
+    "offset": 7603,
+    "text": "LABRAX:\nAye, by my faith, that you may be sure that I’m rejoiced, you shan’t give me three obols for her; I excuse you."
+  },
+  {
+    "id": "p-cafd47",
+    "offset": 7724,
+    "text": "DAEMONES:\nI’ faith, you are acting kindly."
+  },
+  {
+    "id": "p-38dea1",
+    "offset": 7768,
+    "text": "LABRAX:\nNo, troth; it’s really yourself, indeed, that’s doing so.\n(Going off with the wallet.)"
+  },
+  {
+    "id": "p-673293",
+    "offset": 7864,
+    "text": "GRIPUS:\nHark you, you’ve got the wallet now."
+  },
+  {
+    "id": "p-222dda",
+    "offset": 7910,
+    "text": "LABRAX:\nI have got it."
+  },
+  {
+    "id": "p-549799",
+    "offset": 7934,
+    "text": "GRIPUS:\nMake haste."
+  },
+  {
+    "id": "p-4b12a6",
+    "offset": 7955,
+    "text": "LABRAX:\nMake haste about what?"
+  },
+  {
+    "id": "p-2eeb01",
+    "offset": 7987,
+    "text": "GRIPUS:\nTo pay me the money."
+  },
+  {
+    "id": "p-0c3e91",
+    "offset": 8017,
+    "text": "LABRAX:\nBy my troth, I’ll neither give you anything nor do I owe you anything."
+  },
+  {
+    "id": "p-adaa34",
+    "offset": 8097,
+    "text": "GRIPUS:\nWhat mode of proceeding is this? Don’t you owe it me?"
+  },
+  {
+    "id": "p-74de5c",
+    "offset": 8160,
+    "text": "LABRAX:\nTroth, not I indeed."
+  },
+  {
+    "id": "p-fe5e1c",
+    "offset": 8190,
+    "text": "GRIPUS:\nDidn’t you promise it me upon your oath?"
+  },
+  {
+    "id": "p-64cbf6",
+    "offset": 8240,
+    "text": "LABRAX:\nI did take an oath, and now I’ll take an oath, if it is in any way my own pleasure; oaths were invented for preserving property, not for losing it."
+  },
+  {
+    "id": "p-7066f6",
+    "offset": 8397,
+    "text": "GRIPUS:\nGive me, will you, a great talent of silver, you most perjured fellow."
+  },
+  {
+    "id": "p-7c6f02",
+    "offset": 8477,
+    "text": "DAEMONES:\nGripus, what talent is it you are asking him for?"
+  },
+  {
+    "id": "p-e4b1da",
+    "offset": 8538,
+    "text": "GRIPUS:\nHe promised it me on oath."
+  },
+  {
+    "id": "p-3d5b41",
+    "offset": 8574,
+    "text": "LABRAX:\nI chose to swear; (turning to DAEMONES) are you the priest as to my perjury?"
+  },
+  {
+    "id": "p-91af51",
+    "offset": 8660,
+    "text": "DAEMONES:\n(to GRIPUS.)\nFor what reason did he promise you the money?"
+  },
+  {
+    "id": "p-33acde",
+    "offset": 8730,
+    "text": "GRIPUS:\nIf I restored this wallet into his hands, he swore that he would give me a great talent of silver."
+  },
+  {
+    "id": "p-425ec7",
+    "offset": 8838,
+    "text": "LABRAX:\nFind me a person with whom I may go to the judge, to decide whether you did not make the bargain with wicked fraudulence, and whether I am yet five-and-twenty years old."
+  },
+  {
+    "id": "p-c8a430",
+    "offset": 9017,
+    "text": "GRIPUS:\n(pointing to DAEMONES.)\nGo to the judge with him."
+  },
+  {
+    "id": "p-ef8b2d",
+    "offset": 9076,
+    "text": "LABRAX:\nNo; I must have some other person."
+  },
+  {
+    "id": "p-f5a088",
+    "offset": 9120,
+    "text": "DAEMONES:\n(to LABRAX.)\nThen I shan’t allow you to take it away from him, unless I shall have found him guilty. Did you promise him the money?"
+  },
+  {
+    "id": "p-e7a6b2",
+    "offset": 9263,
+    "text": "LABRAX:\nI confess it."
+  },
+  {
+    "id": "p-43db40",
+    "offset": 9286,
+    "text": "DAEMONES:\nWhat you promised my slave must needs be my own. Don’t you be supposing, Procurer, that you are to be using your pimping honesty here. That can’t be."
+  },
+  {
+    "id": "p-a949cc",
+    "offset": 9447,
+    "text": "GRIPUS:\n(to LABRAX.)\nDid you fancy now that you had got hold of a person whom you might cheat? It must be paid down here (holding his hand), good silver coin; I shall, at once, pay it to him (pointing to DAEMONES), so that he may give me my liberty."
+  },
+  {
+    "id": "p-a4c9b7",
+    "offset": 9698,
+    "text": "DAEMONES:\nInasmuch, therefore, as I have acted courteously towards you, and by my means these things (pointing to the wallet) have been saved for you—"
+  },
+  {
+    "id": "p-3bf99c",
+    "offset": 9850,
+    "text": "GRIPUS:\nI’ faith, by my means, rather; don’t say by yours."
+  },
+  {
+    "id": "p-2bbd75",
+    "offset": 9910,
+    "text": "DAEMONES:\n(to GRIPUS.)\nIf you are prudent you’ll hold your tongue. (To LABRAX.) Then it befits you in a like courteous manner kindly to return the obligation to myself, who so well merit the same."
+  },
+  {
+    "id": "p-bc0e82",
+    "offset": 10108,
+    "text": "LABRAX:\nYou are pleading, of course, for my right?"
+  },
+  {
+    "id": "p-1d4d93",
+    "offset": 10160,
+    "text": "DAEMONES:\n(ironically.)\nIt would be a wonder if I didn’t, at a loss to myself, ask you to forego your right."
+  },
+  {
+    "id": "p-f5f875",
+    "offset": 10270,
+    "text": "GRIPUS:\n(aside.)\nI’m all right; the Procurer’s giving way; my freedom is at hand."
+  },
+  {
+    "id": "p-69a9d7",
+    "offset": 10353,
+    "text": "DAEMONES:\n(pointing to GRIPUS.)\nHe found this wallet; he is my slave. I therefore have preserved this for you, together with a large sum of money."
+  },
+  {
+    "id": "p-4ff788",
+    "offset": 10501,
+    "text": "LABRAX:\nI return you thanks, and with regard to the talent that I promised on oath to him, there’s no reason that you shouldn’t receive it."
+  },
+  {
+    "id": "p-77da63",
+    "offset": 10642,
+    "text": "GRIPUS:\nHark you, give it me then, if you are wise."
+  },
+  {
+    "id": "p-306817",
+    "offset": 10695,
+    "text": "DAEMONES:\n(to GRIPUS.)\nWill you hold your tongue, or not?"
+  },
+  {
+    "id": "p-df1a24",
+    "offset": 10754,
+    "text": "GRIPUS:\nYou pretend to be acting on my side: I tell you by my troth, you shan’t do me out of that, if I did lose the other booty."
+  },
+  {
+    "id": "p-8e849b",
+    "offset": 10885,
+    "text": "DAEMONES:\nYou shall have a beating if you add a single word."
+  },
+  {
+    "id": "p-769e32",
+    "offset": 10947,
+    "text": "GRIPUS:\nTroth now, do you kill me even; I’ll never be silent on any terms, unless my mouth is shut with the talent."
+  },
+  {
+    "id": "p-b11683",
+    "offset": 11064,
+    "text": "LABRAX:\nFor yourself, in fact, is he using his exertions; do hold your tongue."
+  },
+  {
+    "id": "p-8ec842",
+    "offset": 11144,
+    "text": "DAEMONES:\nStep this way, Procurer."
+  },
+  {
+    "id": "p-715b9b",
+    "offset": 11180,
+    "text": "LABRAX:\nVery well.\n(They walk on one side.)"
+  },
+  {
+    "id": "p-0fd761",
+    "offset": 11225,
+    "text": "GRIPUS:\nProceed openly; I don’t want any whisperings or mumblings to be going on."
+  },
+  {
+    "id": "p-ffc245",
+    "offset": 11308,
+    "text": "DAEMONES:\nTell me, at what price did you buy that other young woman, Ampelisca?"
+  },
+  {
+    "id": "p-d406b9",
+    "offset": 11389,
+    "text": "LABRAX:\nI paid down a thousand didrachms."
+  },
+  {
+    "id": "p-124763",
+    "offset": 11432,
+    "text": "DAEMONES:\nShould you like me to make you a handsome offer?"
+  },
+  {
+    "id": "p-0d6045",
+    "offset": 11492,
+    "text": "LABRAX:\nI should like it much."
+  },
+  {
+    "id": "p-ec80cf",
+    "offset": 11524,
+    "text": "DAEMONES:\nI’ll divide the talent."
+  },
+  {
+    "id": "p-2484e6",
+    "offset": 11559,
+    "text": "LABRAX:\nYou act fairly."
+  },
+  {
+    "id": "p-1a20bc",
+    "offset": 11584,
+    "text": "DAEMONES:\nFor that other woman Ampelisca, that she may be free, take you one half, and give the other half to him."
+  },
+  {
+    "id": "p-856ab0",
+    "offset": 11700,
+    "text": "LABRAX:\nBy all means."
+  },
+  {
+    "id": "p-fcbfa0",
+    "offset": 11723,
+    "text": "DAEMONES:\nFor that half I’ll give his freedom to Gripus, by means of whom you found your wallet, and I my daughter."
+  },
+  {
+    "id": "p-98de8b",
+    "offset": 11840,
+    "text": "LABRAX:\nYou act fairly; I return you many thanks.\n(They return to GRIPUS.)"
+  },
+  {
+    "id": "p-6efe04",
+    "offset": 11916,
+    "text": "GRIPUS:\nHow soon then is the money to be returned to me?"
+  },
+  {
+    "id": "p-8c342a",
+    "offset": 11974,
+    "text": "DAEMONES:\nThe money’s paid, Gripus; I’ve got it."
+  },
+  {
+    "id": "p-f09786",
+    "offset": 12024,
+    "text": "GRIPUS:\nYou, faith; but I had rather it were myself."
+  },
+  {
+    "id": "p-379d6b",
+    "offset": 12078,
+    "text": "DAEMONES:\nI’ faith, there’s nothing for you here, so don’t you be expecting it. I wish you to release him from his oath."
+  },
+  {
+    "id": "p-5266d9",
+    "offset": 12200,
+    "text": "GRIPUS:\n(aside.)\nTroth, I’m undone; if I don’t hang myself, I’m utterly done for. (Aloud.) I’ faith, after this day you certainly shall never be cheating me again."
+  },
+  {
+    "id": "p-70f2b5",
+    "offset": 12365,
+    "text": "DAEMONES:\nDine here to-day, Procurer."
+  },
+  {
+    "id": "p-d69f0d",
+    "offset": 12404,
+    "text": "LABRAX:\nBe it so; the proposal is to my taste."
+  },
+  {
+    "id": "p-bf9c57",
+    "offset": 12452,
+    "text": "DAEMONES:\nDo you both follow me in-doors. (He comes forward and addresses the AUDIENCE.) Spectators, I would invite you to dinner as well, were it not that I’m going to give nothing, and that there is no good cheer at all at home;"
+  },
+  {
+    "id": "p-9b692e",
+    "offset": 12684,
+    "text": "and if, too, I didn’t believe that you are invited to dinner elsewhere. But if you shall be willing to give hearty applause to this Play, do you all come to make merry at my house some sixteen years hence. Do you (to LABRAX and GRIPUS) both dine here with me to-day."
+  },
+  {
+    "id": "p-9b50f8",
+    "offset": 12952,
+    "text": "GRIPUS:\nBe it so."
+  },
+  {
+    "id": "p-5acd30",
+    "offset": 12971,
+    "text": "An ACTOR:\n(To the AUDIENCE)\nNow give us your applause."
+  }
+]

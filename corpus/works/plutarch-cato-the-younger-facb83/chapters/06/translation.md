@@ -1,0 +1,27 @@
+---
+work_id: "facb8376-83b5-5212-98b7-d55b52cc4cd3"
+work_slug: "plutarch-cato-the-younger-facb83"
+work_title: Cato the Younger
+author_name: Plutarch
+chapter_number: 6
+chapter_title: Chapter 6
+chapter_slug: 06
+variant_id: "156b03c8-f4bf-5e75-af0d-59476358f44e"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 314
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg050.perseus-eng2:6"
+translator: Bernadotte Perrin
+---
+
+At suppers, he would throw dice for the choice of portions; and if he lost, and his friends bade him choose first, he would say it was not right, since Venus was unwilling. At first, also, he would drink once after supper and then leave the table; but as time went on he would allow himself to drink very generously, so that he often tarried at his wine till early morning.
+
+His friends used to say that the cause of this was his civic and public activities; he was occupied with these all day, and so prevented from literary pursuits, wherefore he would hold intercourse with the philosophers at night and over the cups. For this reason, too, when a certain Memmius remarked in company that Cato spent his entire nights in drinking, Cicero answered him by saying: Thou shouldst add that he spends his entire days in throwing dice.
+
+And, in general, Cato thought he ought to take a course directly opposed to the life and practices of the time, feeling that these were bad and in need of great change. For instance, when he saw that a purple which was excessively red and vivid was much in vogue, he himself would wear the dark shade. Again, he would often go out into the streets after breakfast without shoes or tunic. He was not hunting for notoriety by this strange practice, but accustoming himself to be ashamed only of what was really shameful, and to ignore men’s low opinion of other things.
+
+When an inheritance worth a hundred talents fell to him from his cousin Cato, he turned it into money, and allowed any friend who needed it to have the use of it without interest. And some of his friends actually pledged to the public treasury both lands and slaves which he offered for this purpose himself, and made good his offer.

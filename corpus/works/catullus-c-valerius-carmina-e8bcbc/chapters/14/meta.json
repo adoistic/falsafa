@@ -1,0 +1,26 @@
+{
+  "work_slug": "catullus-c-valerius-carmina-e8bcbc",
+  "work_title": "Carmina",
+  "chapter_number": 14,
+  "chapter_title": "Chapter 14",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bdf3a586-d978-53f4-98d6-b727814fbd30",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 186,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0472.phi001.perseus-eng4:14"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ezekiel-835f8a",
+  "work_title": "Ezekiel",
+  "chapter_number": 32,
+  "chapter_title": "Chapter 32",
+  "chapter_slug": "32",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "192e3d4d-03d4-5ba4-8518-1b394c6b9cd2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 949,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1:32"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b71361a3-90cc-50c9-80d1-e2c5f09aed52",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1074,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg053.perseus-eng2:32"
+    }
+  ]
+}

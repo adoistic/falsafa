@@ -1,0 +1,63 @@
+---
+import { sourceById } from '../../lib/atlas/data.ts';
+
+interface Props {
+  evidence: { source: string; detail?: string | undefined }[];
+}
+
+const { evidence } = Astro.props;
+---
+
+<ul class="evidence">
+  {
+    evidence.map(({ source, detail }) => {
+      const s = sourceById.get(source);
+      if (!s) throw new Error(`Evidence: unknown source "${source}"`);
+      return (
+        <li>
+          <a class="ref link-quiet" href={`/atlas/sources/#${s.id}`}>
+            {s.author.split(',')[0]} {s.year}
+          </a>
+          {detail && <span class="detail">{detail}</span>}
+        </li>
+      );
+    })
+  }
+</ul>
+
+<style>
+  .evidence {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+
+  .evidence li {
+    font-size: 0.92rem;
+    color: var(--color-ink-muted);
+    display: flex;
+    gap: 0.5rem;
+    align-items: baseline;
+    flex-wrap: wrap;
+  }
+
+  .ref {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.02em;
+    color: var(--color-lapis);
+    white-space: nowrap;
+  }
+
+  .ref:hover {
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+
+  .detail {
+    font-style: italic;
+  }
+</style>

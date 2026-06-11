@@ -1,0 +1,38 @@
+{
+  "work_slug": "euclid-elements-d711e4",
+  "work_title": "Elements",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a17bded4-2c40-59be-83d8-d7c8e14f0ab0",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 11091,
+      "paragraph_count": 297,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1799.tlg001.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "731b14bd-391e-50e3-9093-ce12b27ac31a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12175,
+      "paragraph_count": 506,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1799.tlg001.perseus-eng2:1"
+    }
+  ]
+}

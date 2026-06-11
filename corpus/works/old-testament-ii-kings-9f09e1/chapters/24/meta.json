@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ii-kings-9f09e1",
+  "work_title": "II Kings",
+  "chapter_number": 24,
+  "chapter_title": "Chapter 24",
+  "chapter_slug": "24",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c36f98ed-00f0-5251-b432-a22e32482238",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 464,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg014.1st1K-grc1:24"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4d7656f2-752f-5c62-b53e-e99eb8bf5726",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 562,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg014.perseus-eng2:24"
+    }
+  ]
+}

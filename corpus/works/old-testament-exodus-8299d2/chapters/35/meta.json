@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-exodus-8299d2",
+  "work_title": "Exodus",
+  "chapter_number": 35,
+  "chapter_title": "Chapter 35",
+  "chapter_slug": "35",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6a024a15-a2df-5976-84c8-e9af614ad328",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 571,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg002.1st1K-grc1:35"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "66393605-ddf3-51e1-93b0-ba7bfc0e890d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 748,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg002.perseus-eng2:35"
+    }
+  ]
+}

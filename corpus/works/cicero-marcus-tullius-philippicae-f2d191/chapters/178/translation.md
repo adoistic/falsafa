@@ -1,0 +1,21 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 178
+chapter_title: Chapter 5
+chapter_slug: 178
+variant_id: "7176eeb3-1540-5302-b289-6a129b4fe8bc"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 625
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:178"
+translator: Perseus Digital Library
+---
+
+Do you think, then, O Marcus Lepidus, that the Antonii will be to the republic such citizens as she will find Pompeius? In the one there is modesty gravity, moderation, integrity; in them (and when I speak of them I do not mean to omit one of that band of pirates) there is lust and wickedness and savage audacity capable of every crime I entreat of you, O conscript fathers which of you fails to see this which Fortune herself, who is called blind, sees? For, saving the acts of Caesar, which we maintain for the sake of harmony, his own house will be open to Pompeius and he will redeem it for the same sum for which Antonius bought it. Yes, I say the son of Cnaeus Pompeius will buy back his house. O melancholy circumstance! But these things have been already lamented long and bitterly enough. You have voted a sum of money to Cnaeus Pompeius, equal to that which his conquering enemy had appropriated to himself of his father's property in the distribution of his booty. But I claim permission to manage this distribution myself, as due to my connection and intimacy with his father. He will buy back the villas, the houses, and some of the estates in the city which Antonius is in possession of. For, as for the silver plate, the garments, the furniture, and the wine which that glutton has made away with, those things he will lose without forfeiting his equanimity. The Alban and Firmian villas he will recover from Dolabella; the Tusculan villa he will also recover from Antonius. And these Ansers who are joining in the attack on Mutina and in the blockade of Decimus Brutus will be driven from his Falernian villa. There are many others, perhaps, who will be made to disgorge their plunder, but their names escape my memory. I say, too, that those men who are not in the number of our enemies, will be made to restore the possessions of Pompeius to his son for the price at which they bought them. It was the act of a sufficiently rash man, not to say an audacious one, to touch a single particle of that property; but who will have the face to endeavor to retain it, when its most illustrious owner is restored to his country? Will not that man restore his plunder, who, enfolding the patrimony of his master in his embrace, clinging to the treasure like a dragon, the slave of Pompeius, the freedman of Caesar, has seized upon his estates in the Lucanian district? And as for those seven hundred millions of sesterces which you, O conscript fathers, promised to the young man, they will be recovered in such a manner that the son of Cnaeus Pompeius will appear to have been established by you in his patrimony. This is what the senate must do; the Roman people will do the rest with respect to that family which was at one time one of the most honorable it ever saw. In the first place, it will invest him with his father's honor as an augur, for which rank I will nominate him and promote his election, in order that I may restore to the son what I received from the father. Which of these men will the Roman people most willingly sanction as the augur of the all powerful and all great Jupiter, whose interpreters and messengers we have been appointed,—Pompeius or Antonius? It seems indeed, to me, that Fortune has managed this by the divine aid of the immortal gods, that, leaving the acts of Caesar firmly ratified, the son of Cnaeus Pompeius might still be able to recover the dignities and fortunes of his father.

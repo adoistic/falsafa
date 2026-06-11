@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-brutus-4e3e58",
+  "work_title": "Brutus",
+  "chapter_number": 18,
+  "chapter_title": "Chapter 18",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1091911a-0f09-5439-b1ec-7e6ee7623db0",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 338,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg061.perseus-grc2:18"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a0576287-e2d5-5812-ba0f-b15fac7107b6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 529,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg061.perseus-eng2:18"
+    }
+  ]
+}

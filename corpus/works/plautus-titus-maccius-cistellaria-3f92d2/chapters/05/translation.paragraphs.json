@@ -1,0 +1,522 @@
+[
+  {
+    "id": "p-47b29c",
+    "offset": 0,
+    "text": "(Enter LAMPADISCUS.)"
+  },
+  {
+    "id": "p-6a7ab6",
+    "offset": 22,
+    "text": "LAMPADISCUS:\nI do believe I never saw a more tormenting old nag than this is. What she just now confessed to me, is she to be denying it?"
+  },
+  {
+    "id": "p-be13ab",
+    "offset": 161,
+    "text": "But look, I see my mistress. Why (seeing the casket on the ground), how’s this, that this casket is lying here with these trinkets, and that I see no other person in the street? I must act the child’s part; I’ll stoop to pick up the casket.\n(Picks it up.)"
+  },
+  {
+    "id": "p-4ec29c",
+    "offset": 418,
+    "text": "PHANOSTRATA:\n(from her house.)\nWhat are you about, Lampadio?"
+  },
+  {
+    "id": "p-c4c95f",
+    "offset": 480,
+    "text": "LAMPADISCUS:\n(giving the casket to PHANOSTRATA.)\nIs this casket from out of our house here, I wonder. For I picked it up, lying here near the door."
+  },
+  {
+    "id": "p-36a174",
+    "offset": 629,
+    "text": "PHANOSTRATA:\nWhat news do you bring about the old woman?"
+  },
+  {
+    "id": "p-024a6b",
+    "offset": 687,
+    "text": "LAMPADISCUS:\nThat there’s not one other on earth more wicked. She denies all those things which she just now confessed to me. But, i’ faith, for me to allow that old jade to be laughing at me, it’s preferable for me to die by any kind of death."
+  },
+  {
+    "id": "p-457f45",
+    "offset": 933,
+    "text": "PHANOSTRATA:\nYe Gods, I do adjure you by our trust in you!\n(Opening the casket.)"
+  },
+  {
+    "id": "p-0c944a",
+    "offset": 1015,
+    "text": "LAMPADISCUS:\nWhy do you call upon the Gods?"
+  },
+  {
+    "id": "p-a46536",
+    "offset": 1060,
+    "text": "PHANOSTRATA:\nSave us!"
+  },
+  {
+    "id": "p-b83a94",
+    "offset": 1083,
+    "text": "LAMPADISCUS:\nWhat’s the matter?"
+  },
+  {
+    "id": "p-8a21ad",
+    "offset": 1116,
+    "text": "PHANOSTRATA:\nThese are the trinkets with which you exposed my little daughter to death."
+  },
+  {
+    "id": "p-73a013",
+    "offset": 1205,
+    "text": "LAMPADISCUS:\nAre you in your senses?"
+  },
+  {
+    "id": "p-f02976",
+    "offset": 1243,
+    "text": "PHANOSTRATA:\nThese certainly are."
+  },
+  {
+    "id": "p-4d4984",
+    "offset": 1278,
+    "text": "LAMPADISCUS:\nDo you persist?"
+  },
+  {
+    "id": "p-2665bc",
+    "offset": 1308,
+    "text": "PHANOSTRATA:\nThese are they."
+  },
+  {
+    "id": "p-b75730",
+    "offset": 1338,
+    "text": "LAMPADISCUS:\nIf any other woman were to speak to me after that fashion, I should say she was drunk."
+  },
+  {
+    "id": "p-a17071",
+    "offset": 1439,
+    "text": "PHANOSTRATA:\nBy heaven! I’m talking no nonsense."
+  },
+  {
+    "id": "p-93e892",
+    "offset": 1489,
+    "text": "But prithee, whence in the world did these come, or what Deity placed this before our door? As though for a given purpose, at the very instant sacred Hope comes to my aid?"
+  },
+  {
+    "id": "p-ee1d94",
+    "offset": 1662,
+    "text": "(Enter HALISCA, at a distance, from the house of the FATHER of ALCESIMARCHUS.)"
+  },
+  {
+    "id": "p-9622af",
+    "offset": 1742,
+    "text": "HALISCA:\n(to herself.)\nUnless the Gods give me some aid, I’m utterly undone; nor do I know whence I am to seek for aid. To such a degree does carelessness possess wretched me in mind, which I sadly fear may be lighting upon my own back, if my mistress knows that I’m so negligent as I really am."
+  },
+  {
+    "id": "p-178658",
+    "offset": 2039,
+    "text": "The casket which I took and held in my hands here before the door, where it is I know not; except, as I fancy, it was dropt by me about this spot. (Looks about on the ground.) My good sirs (to the AUDIENCE), my kind Spectators, do give me information if any one has seen it, if any one has taken it away, or any one picked it up; and whether in this direction or that he has taken his departure?\n(She pauses for a reply.)\nI’m none the wiser for asking these persons, or for worrying them, who are always delighted at a woman’s mishaps. Now I’ll mark if there are any footsteps here; for if no one had passed this way since I went in-doors, the casket would be lying here. Why say here? It’s lost, I guess;"
+  },
+  {
+    "id": "p-a5dd8a",
+    "offset": 2746,
+    "text": "it’s done for. It’s all over with unhappy and unlucky me! It’s nowhere, and nowhere am I. This, by its loss, has proved my loss. But still, as I’ve begun, I’ll e’en go on; I’ll make search; for both within do I fear, and without I am afraid; so much, on either side, does fear agitate me now. In this are mortals intensely wretched."
+  },
+  {
+    "id": "p-c3c5ee",
+    "offset": 3080,
+    "text": "He is now joyous, whoever he is, that has found it, which is of no use at all to any person else; to myself it may be. But I cause delay to myself, while I’m doing this with remissness. Halisca, attend to what you are about: look down upon the ground, and look round about; search with your eyes; guess with shrewdness."
+  },
+  {
+    "id": "p-7db6c8",
+    "offset": 3401,
+    "text": "LAMPADISCUS:\n(apart, at a distance.)\nMistress!"
+  },
+  {
+    "id": "p-5c9c9d",
+    "offset": 3449,
+    "text": "PHANOSTRATA:\n(apart.)\nWell, what’s the matter?"
+  },
+  {
+    "id": "p-9d08ff",
+    "offset": 3497,
+    "text": "LAMPADISCUS:\n(apart.)\nThat’s she.\n(Pointing at HALISCA.)"
+  },
+  {
+    "id": "p-04987a",
+    "offset": 3555,
+    "text": "PHANOSTRATA:\n(apart.)\nWho?"
+  },
+  {
+    "id": "p-d5bf9a",
+    "offset": 3583,
+    "text": "LAMPADISCUS:\n(apart.)\nShe who let fall the casket."
+  },
+  {
+    "id": "p-e0a407",
+    "offset": 3635,
+    "text": "Why surely she’s tracing out that spot where it fell."
+  },
+  {
+    "id": "p-1a4846",
+    "offset": 3690,
+    "text": "PHANOSTRATA:\n(apart.)\nIt seems so."
+  },
+  {
+    "id": "p-899d57",
+    "offset": 3726,
+    "text": "HALISCA:\n(to herself, looking on the ground.)\nBut that person has gone this way; this way I perceive the imprint of his shoe; this way I’ll follow him. (She moves along, still looking on the ground.) In this spot now has he stopped, along with another person. Here now a circle presents itself to my sight, nor did he go straight forward this way; here he came to a pause. This way did he come out of that circle. Here was a conference with some one. It points to two persons now. Who are these? Heyday I see the footsteps of only one. But he has gone this way. I’ll consider it: hither he went from thence; from hence he has never gone."
+  },
+  {
+    "id": "p-457cbc",
+    "offset": 4365,
+    "text": "I’m troubling myself to no purpose. What’s lost is lost; my hide along with the casket. I’ll go in-doors again.\n(Going towards the house of the FATHER of ALCESIMARCHUS.)"
+  },
+  {
+    "id": "p-7a95bd",
+    "offset": 4536,
+    "text": "PHANOSTRATA:\n(calling out.)\nHallo, woman-stop; there are some persons who wish to meet with you."
+  },
+  {
+    "id": "p-a182ed",
+    "offset": 4634,
+    "text": "HALISCA:\nWho’s calling me back?"
+  },
+  {
+    "id": "p-308344",
+    "offset": 4667,
+    "text": "LAMPADISCUS:\nA good female and a bad male want you."
+  },
+  {
+    "id": "p-68e7a4",
+    "offset": 4720,
+    "text": "HALISCA:\nAway with you, bad male; I want a good one. (To herself.) After all, he who calls knows better what he wants than I who am called; I’ll return. (Aloud.) Prithee, have you seen any person hereabouts pick up a casket with some trinkets, which I, to my misfortune, have lost here?"
+  },
+  {
+    "id": "p-f51939",
+    "offset": 5008,
+    "text": "For when, just now, we were running into the house of Alcesimarchus, that he mightn’t put an end to his life, at that moment I think that, through terror, the casket fell down from me here."
+  },
+  {
+    "id": "p-57e52d",
+    "offset": 5199,
+    "text": "LAMPADISCUS:\n(aside to PHANOSTRATA.)\nThis woman’s to our purpose; let’s then give heed to her a little, mistress."
+  },
+  {
+    "id": "p-8ac74a",
+    "offset": 5314,
+    "text": "HALISCA:\nTo my sorrow, I’m utterly undone. What shall I say to my mistress, who bade me with such earnestness take care of it, through which Silenium might the more readily recognize her parents—who, when little, was adopted by my mistress as her own, and whom a certain Courtesan gave to her?"
+  },
+  {
+    "id": "p-662766",
+    "offset": 5609,
+    "text": "LAMPADISCUS:\n(aside.) She’s talking about this matter of ours. According as she gives these indications by her talk, she must surely know where your daughter is."
+  },
+  {
+    "id": "p-142fde",
+    "offset": 5772,
+    "text": "HALISCA:\nNow is she desirous of her own accord to restore her to her father and mother, whose daughter she is; prithee, my good sir, you are attending to something else; I commend my matter to you."
+  },
+  {
+    "id": "p-281c28",
+    "offset": 5971,
+    "text": "LAMPADISCUS:\nI’m giving my attention to this, and this is as good as food to me, that you are talking of; but amid my attending to this matter, I was answering this mistress of mine what she was enquiring; now I return to you. If you have need of anything, say you, and give your orders. What were you looking, for?"
+  },
+  {
+    "id": "p-0788fc",
+    "offset": 6288,
+    "text": "HALISCA:\nMy good sir and my good madam, I greet you."
+  },
+  {
+    "id": "p-011727",
+    "offset": 6342,
+    "text": "PHANOSTRATA:\nAnd we you. But what are you looking for?"
+  },
+  {
+    "id": "p-59781e",
+    "offset": 6398,
+    "text": "HALISCA:\nI’m tracing footsteps here, the way that something has escaped me here, I don’t know how."
+  },
+  {
+    "id": "p-66db63",
+    "offset": 6498,
+    "text": "PHANOSTRATA:\nWhat is it?"
+  },
+  {
+    "id": "p-affa0d",
+    "offset": 6524,
+    "text": "LAMPADISCUS:\nWhat is it, pray?"
+  },
+  {
+    "id": "p-be873f",
+    "offset": 6556,
+    "text": "HALISCA:\nSomething to bring a loss to another, and a calamity on our family."
+  },
+  {
+    "id": "p-6a53fd",
+    "offset": 6634,
+    "text": "LAMPADISCUS:\n(aside to PHANOSTRATA.)\nA worthless baggage is this, mistress, and a crafty one."
+  },
+  {
+    "id": "p-6536ba",
+    "offset": 6729,
+    "text": "PHANOSTRATA:\n(aside.)\nI’ faith, and so she seems."
+  },
+  {
+    "id": "p-fc3132",
+    "offset": 6780,
+    "text": "LAMPADISCUS:\n(aside.)\nShe imitates a worthless animal and a mischievous."
+  },
+  {
+    "id": "p-793234",
+    "offset": 6854,
+    "text": "PHANOSTRATA:\n(aside.)\nWhich one, prithee?"
+  },
+  {
+    "id": "p-56895e",
+    "offset": 6897,
+    "text": "LAMPADISCUS:\n(aside.)\nA caterpillar, which twisting about winds itself in the leaf of the vine;"
+  },
+  {
+    "id": "p-31b717",
+    "offset": 6994,
+    "text": "just in the same way does she begin a story that twists about. (To HALISCA.) What are you looking for?"
+  },
+  {
+    "id": "p-1c0074",
+    "offset": 7098,
+    "text": "HALISCA:\nA casket, my good young man, has flown away from me here."
+  },
+  {
+    "id": "p-7a31f4",
+    "offset": 7166,
+    "text": "LAMPADISCUS:\nYou ought to have put it in a cage."
+  },
+  {
+    "id": "p-2f96e2",
+    "offset": 7216,
+    "text": "HALISCA:\nI’ faith, the booty was no great one."
+  },
+  {
+    "id": "p-3b47b4",
+    "offset": 7264,
+    "text": "LAMPADISCUS:\nIt’s a wonder, if a whole troop of slaves isn’t there in the casket."
+  },
+  {
+    "id": "p-6a1df5",
+    "offset": 7347,
+    "text": "PHANOSTRATA:\nDo let her speak."
+  },
+  {
+    "id": "p-9fb483",
+    "offset": 7379,
+    "text": "LAMPADISCUS:\nIf indeed she would speak."
+  },
+  {
+    "id": "p-c3996e",
+    "offset": 7420,
+    "text": "PHANOSTRATA:\n(to HALISCA.)\nCome say you, what was in it?"
+  },
+  {
+    "id": "p-fc5f1b",
+    "offset": 7478,
+    "text": "HALISCA:\nTrinkets only."
+  },
+  {
+    "id": "p-0d528d",
+    "offset": 7503,
+    "text": "LAMPADISCUS:\nThere’s a certain man, who declares that he knows where it is."
+  },
+  {
+    "id": "p-52b177",
+    "offset": 7580,
+    "text": "HALISCA:\nBut, by my faith, he’ll confer an obligation on a certain woman if he’ll discover it."
+  },
+  {
+    "id": "p-86212a",
+    "offset": 7676,
+    "text": "LAMPADISCUS:\nBut this certain man wishes a reward to be given to him."
+  },
+  {
+    "id": "p-d6dc69",
+    "offset": 7747,
+    "text": "HALISCA:\nBut, by my faith, this certain woman, that has lost this casket, declares that she has nothing to give to this certain man."
+  },
+  {
+    "id": "p-dde30a",
+    "offset": 7881,
+    "text": "LAMPADISCUS:\nBut still this certain man looks for some money."
+  },
+  {
+    "id": "p-838cd4",
+    "offset": 7944,
+    "text": "HALISCA:\nBut still he looks for it in vain."
+  },
+  {
+    "id": "p-61aa5b",
+    "offset": 7989,
+    "text": "LAMPADISCUS:\nBut, by my faith, good woman, in no matter does this certain man give his pains for nothing."
+  },
+  {
+    "id": "p-d1d4b8",
+    "offset": 8096,
+    "text": "PHANOSTRATA:\nLend me your conversation: it will now be for your own advantage. We confess that we have got the casket."
+  },
+  {
+    "id": "p-5f0403",
+    "offset": 8216,
+    "text": "HALISCA:\nThen may Salvation preserve you; where is it now?"
+  },
+  {
+    "id": "p-315685",
+    "offset": 8276,
+    "text": "PHANOSTRATA:\n(producing the casket.)\nSee, here it is, safe. But I wish to discourse with you upon a matter of importance to myself; I take you as a sharer with me in my own preservation."
+  },
+  {
+    "id": "p-925417",
+    "offset": 8464,
+    "text": "HALISCA:\nWhat matter is this, or who are you?"
+  },
+  {
+    "id": "p-91fe23",
+    "offset": 8511,
+    "text": "PHANOSTRATA:\nI am the mother of her who had these things with her, when exposed."
+  },
+  {
+    "id": "p-1276a2",
+    "offset": 8593,
+    "text": "HALISCA:\nDo you live here then?\n(Pointing to the house.)"
+  },
+  {
+    "id": "p-127ee7",
+    "offset": 8651,
+    "text": "PHANOSTRATA:\nYou are a diviner. But, prithee, good woman, do lay aside all mystification, and to the point; tell me at once, whence did you get these trinkets?"
+  },
+  {
+    "id": "p-e5e673",
+    "offset": 8812,
+    "text": "HALISCA:\nThis daughter of my mistress had them."
+  },
+  {
+    "id": "p-c28cc3",
+    "offset": 8861,
+    "text": "LAMPADISCUS:\nYou tell a falsehood; for my own mistress’s daughter had them, not yours."
+  },
+  {
+    "id": "p-97f971",
+    "offset": 8949,
+    "text": "PHANOSTRATA:\nDon’t interrupt."
+  },
+  {
+    "id": "p-1aceee",
+    "offset": 8980,
+    "text": "LAMPADISCUS:\nI’ll be mum."
+  },
+  {
+    "id": "p-e21c21",
+    "offset": 9007,
+    "text": "PHANOSTRATA:\nGood woman, go on speaking. Where is she who had them?"
+  },
+  {
+    "id": "p-a38687",
+    "offset": 9076,
+    "text": "HALISCA:\n(pointing to the house of ALCESIMARCHUS.)\nHere, next door."
+  },
+  {
+    "id": "p-f87fab",
+    "offset": 9145,
+    "text": "PHANOSTRATA:\nBy the powers, surely the son-in-law of my husband is living there."
+  },
+  {
+    "id": "p-97978f",
+    "offset": 9227,
+    "text": "LAMPADISCUS:\nSurely—"
+  },
+  {
+    "id": "p-1d0892",
+    "offset": 9249,
+    "text": "PHANOSTRATA:\n(to LAMPADISCUS.)\nInterrupting again? (To HALISCA.) Go on relating it. How many years old is she said to be?"
+  },
+  {
+    "id": "p-078634",
+    "offset": 9372,
+    "text": "HALISCA:\nSeventeen."
+  },
+  {
+    "id": "p-6b0ba4",
+    "offset": 9393,
+    "text": "PHANOSTRATA:\nShe is my own daughter then!"
+  },
+  {
+    "id": "p-273b05",
+    "offset": 9436,
+    "text": "LAMPADISCUS:\n’Tis she, as the number of her years has proved."
+  },
+  {
+    "id": "p-b03ce8",
+    "offset": 9499,
+    "text": "HALISCA:\nWhat you are seeking, you have found; I now seek what’s mine."
+  },
+  {
+    "id": "p-b56fed",
+    "offset": 9571,
+    "text": "LAMPADISCUS:\nWhy, faith, they’ve found what’s their own, I’ll seek for number three."
+  },
+  {
+    "id": "p-dc9632",
+    "offset": 9657,
+    "text": "PHANOSTRATA:\nMy daughter, the object which I was seeking, I have discovered."
+  },
+  {
+    "id": "p-1377fc",
+    "offset": 9735,
+    "text": "HALISCA:\nIt’s proper to keep in safety what has been entrusted in confidence, lest a kindness should turn out a detriment to the well-deserving. This fosterling of ours is assuredly your daughter, and my mistress is about to restore you your own, and for that purpose has she come from her house. But, prithee, enquire of her own self; I am but a servant."
+  },
+  {
+    "id": "p-505082",
+    "offset": 10092,
+    "text": "PHANOSTRATA:\nYou ask what’s just."
+  },
+  {
+    "id": "p-9affae",
+    "offset": 10127,
+    "text": "HALISCA:\nTo her rather do I choose this obligation to belong. But I beg that you’ll restore me that casket."
+  },
+  {
+    "id": "p-e02218",
+    "offset": 10236,
+    "text": "PHANOSTRATA:\nWhat’s to be done, Lampadio?"
+  },
+  {
+    "id": "p-bf0bde",
+    "offset": 10279,
+    "text": "LAMPADISCUS:\nWhat’s your own, keep as your own."
+  },
+  {
+    "id": "p-f89c34",
+    "offset": 10328,
+    "text": "PHANOSTRATA:\nBut I feel compassion for her."
+  },
+  {
+    "id": "p-6a7e7d",
+    "offset": 10373,
+    "text": "LAMPADISCUS:\nThis I think ought to be done;"
+  },
+  {
+    "id": "p-76dae5",
+    "offset": 10418,
+    "text": "give her the casket, and go in-doors together with her."
+  },
+  {
+    "id": "p-43c858",
+    "offset": 10475,
+    "text": "PHANOSTRATA:\nI’ll follow your advice. (Giving it to HALISCA.) Take you the casket. Let’s go in-doors. But what’s the name of your mistress?"
+  },
+  {
+    "id": "p-630b0d",
+    "offset": 10616,
+    "text": "HALISCA:\nMelaenis."
+  },
+  {
+    "id": "p-fbfedc",
+    "offset": 10636,
+    "text": "PHANOSTRATA:\nGo first; I’ll follow you at once."
+  },
+  {
+    "id": "p-e941db",
+    "offset": 10685,
+    "text": "(Exit LAMPADISCUS, and the others go into the house of the FATHER of ALCESIMARCHUS.)"
+  }
+]

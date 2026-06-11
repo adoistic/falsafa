@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 219
+chapter_title: "Chapter text=A:book=10:letter=13"
+chapter_slug: 219
+variant_id: "81c3e1d7-8478-564e-8fcc-5b06ea873c2f"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 408
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:219"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) CUMAE, 7 MAY
+
+YOUR letter was very gratifying to my Tullia, and, by Hercules, to me also. A letter from you always brings a ray of hope. Pray write, therefore, and if you can suggest anything hopeful, don't omit to do so. No, don't be afraid of Antony's lions. He is a charming fellow! Just listen to a statesman's conduct of affairs! He sent round a letter summoning ten leading men and the quatttuorviri from the muncipal towns. They came to his villa in the morning. In the first place, he remained asleep till nine o'clock. Then on the announcement that the men had arrived from Naples and Cumae—for Caesar is angry with these towns—he ordered them to come again next day: he wanted to take a bath and to cure a looseness of the bowels. This was yesterday. Today, however, he purposes crossing to Aenaria. He intends promising the exiles there that they shall be recalled. But enough of that. To return to ourselves: I have received a letter from Q. Axius. Thanks, about Tiro. Vettienus is a good fellow. I have repaid Vestorius. Servius is said to have stopped at Minturnae on the 6th of May, today he is to stop with C. Marcellus in his villa at Liternum. Early tomorrow, therefore, he will see me and will give me a theme for a letter to you. For at the present moment I can't think of anything to write to you about. One thing does surprise me, that Antony has not sent me even a message, especially as he has paid a great deal of attention to me. No doubt he is charged with some still sterner order as to me. He doesn't wish to say "No" to me face to face. I never meant to ask him the favour, nor, if he had granted it, should I have trusted his word. However, I will think out some plan. Please tell me any news from the Spains: for by this time it will be possible for some to be heard: and everybody's idea is that, if all is well there, there will be no more trouble. I, however, don't regard our cause as won if we retain them, nor utterly desperate if we lose them. Silius and Ocella and the rest, I suppose, are detained. I observe that you also are hindered by Curtius, though, as I think, you have a passport.

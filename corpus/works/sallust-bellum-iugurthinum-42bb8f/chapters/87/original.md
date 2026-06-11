@@ -1,0 +1,21 @@
+---
+work_id: "42bb8ffd-42cc-5876-ac1a-70a998d0ec3b"
+work_slug: "sallust-bellum-iugurthinum-42bb8f"
+work_title: Bellum Iugurthinum
+author_name: Sallust
+chapter_number: 87
+chapter_title: Chapter 87
+chapter_slug: 87
+variant_id: "03ebc13b-a981-54dd-beaa-c33c0dd72ed3"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 103
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi002.perseus-lat4:87"
+curator: thothica
+---
+
+Sed consul expletis legionibus cohortibusque auxiliariis in agrum fertilem et praeda onustum proficiscitur, omnia ibi capta militibus donat; dein castella et oppida natura et viris parum munita aggreditur, proelia multa, ceterum leuia, alia aliis locis facere. Interim novi milites sine metu pugnae adesse, videre fugientis capi aut occidi, fortissimum quemque tutissimum, armis libertatem patriam parentisque et alia omnia tegi, gloriam atque divitias quaeri. Sic brevi spatio novi ueteresque coaluere, et virtus omnium aequalis facta. At reges, ubi de adventu Mari cognoverunt, diuersi in locos difficilis abeunt. Ita Iugurthae placuerat, speranti mox effusos hostis invadi posse, Romanos sicuti plerosque remoto metu laxius licentiusque futuros.

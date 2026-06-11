@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ii-kings-9f09e1",
+  "work_title": "II Kings",
+  "chapter_number": 12,
+  "chapter_title": "Chapter 12",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1f789b2a-abc6-54c5-b58b-dd7b2b1d3967",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 537,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg014.1st1K-grc1:12"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9e856472-e6f6-5dfd-8942-44a6c941c88c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 686,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg014.perseus-eng2:12"
+    }
+  ]
+}

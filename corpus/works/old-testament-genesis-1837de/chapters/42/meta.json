@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-genesis-1837de",
+  "work_title": "Genesis",
+  "chapter_number": 42,
+  "chapter_title": "Chapter 42",
+  "chapter_slug": "42",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d91b16db-03d3-55d2-9d70-8dc1be942056",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 785,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:42"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7b174126-725e-5c08-9421-e5e0e26165db",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 933,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg001.perseus-eng2:42"
+    }
+  ]
+}

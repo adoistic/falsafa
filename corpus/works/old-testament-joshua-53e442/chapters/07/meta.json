@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-joshua-53e442",
+  "work_title": "Joshua",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "87447531-4ff4-5bf6-8bc8-36460a9e6fdc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 637,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg006.1st1K-grc1:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99b2d4e0-4f1b-5160-a086-7f26331c939b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 907,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg006.perseus-eng2:7"
+    }
+  ]
+}

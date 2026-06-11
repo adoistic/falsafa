@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-brutus-4e3e58",
+  "work_title": "Brutus",
+  "chapter_number": 41,
+  "chapter_title": "Chapter 41",
+  "chapter_slug": "41",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "33a12254-8883-5642-a4e0-b5e5662440db",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 203,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg061.perseus-grc2:41"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a53e8593-05ee-5748-9ebc-64c3dbb10220",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 326,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg061.perseus-eng2:41"
+    }
+  ]
+}

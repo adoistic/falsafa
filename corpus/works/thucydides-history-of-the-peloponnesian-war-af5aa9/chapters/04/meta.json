@@ -1,0 +1,38 @@
+{
+  "work_slug": "thucydides-history-of-the-peloponnesian-war-af5aa9",
+  "work_title": "History of the Peloponnesian War",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "07c9e51a-42c1-5325-a508-9246f6f72197",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 21530,
+      "paragraph_count": 531,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b125ba30-ae64-561c-8a35-1a729d9c6cba",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 32197,
+      "paragraph_count": 538,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.1st1K-eng2:4"
+    }
+  ]
+}

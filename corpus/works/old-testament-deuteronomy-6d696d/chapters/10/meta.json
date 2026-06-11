@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-deuteronomy-6d696d",
+  "work_title": "Deuteronomy",
+  "chapter_number": 10,
+  "chapter_title": "Chapter 10",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dcd026d0-5552-57c4-9b3f-818fcf3bd4bc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 501,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:10"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8997dca5-59e4-5d7f-977d-f26af4248054",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 566,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg005.perseus-eng2:10"
+    }
+  ]
+}

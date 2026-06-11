@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 101,
+  "chapter_title": "Chapter 101",
+  "chapter_slug": "101",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eca23343-9d79-5b37-8a34-0d797e388463",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 487,
+      "paragraph_count": 61,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:101"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8afba098-4a16-5048-a48e-4422b594a4f2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 163,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:101"
+    }
+  ]
+}

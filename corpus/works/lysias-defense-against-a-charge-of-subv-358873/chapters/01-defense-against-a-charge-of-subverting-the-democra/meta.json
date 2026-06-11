@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-defense-against-a-charge-of-subv-358873",
+  "work_title": "Defense Against a Charge of Subverting the Democracy",
+  "chapter_number": 1,
+  "chapter_title": "Defense Against a Charge of Subverting the Democracy",
+  "chapter_slug": "01-defense-against-a-charge-of-subverting-the-democra",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5a0ef9b3-f3c0-584a-be9a-de4a8568aea8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2020,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg025.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "464d0f5f-6c85-5f77-af04-8d7b754411c6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2966,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg025.perseus-eng2"
+    }
+  ]
+}

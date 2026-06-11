@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-amos-a702fa",
+  "work_title": "Amos",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eb79f84a-5cf6-5d69-be50-5b1405694885",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 531,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg037.1st1K-grc1:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd27ded1-b863-5906-810f-7fb2d6cd2b52",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 419,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg037.perseus-eng2:2"
+    }
+  ]
+}

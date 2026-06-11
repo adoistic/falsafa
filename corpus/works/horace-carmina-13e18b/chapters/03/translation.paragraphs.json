@@ -1,0 +1,4882 @@
+[
+  {
+    "id": "p-61bc68",
+    "offset": 0,
+    "text": "Bid the unhallow'd crowd avaunt!"
+  },
+  {
+    "id": "p-2d262c",
+    "offset": 34,
+    "text": "Keep holy silence; strains unknown"
+  },
+  {
+    "id": "p-d1d3cf",
+    "offset": 70,
+    "text": "Till now, the Muses' hierophant,"
+  },
+  {
+    "id": "p-c44e9d",
+    "offset": 104,
+    "text": "I sing to youths and maids alone."
+  },
+  {
+    "id": "p-1d3fd1",
+    "offset": 139,
+    "text": "Kings o'er their flocks the sceptre wield;"
+  },
+  {
+    "id": "p-45afaa",
+    "offset": 183,
+    "text": "E'en kings beneath Jove's sceptre bow:"
+  },
+  {
+    "id": "p-cdb86a",
+    "offset": 223,
+    "text": "Victor in giant battle-field,"
+  },
+  {
+    "id": "p-818f8b",
+    "offset": 254,
+    "text": "He moves all nature with his brow."
+  },
+  {
+    "id": "p-ac50a6",
+    "offset": 290,
+    "text": "This man his planted walks extends"
+  },
+  {
+    "id": "p-854bac",
+    "offset": 326,
+    "text": "Beyond his peers; an older name"
+  },
+  {
+    "id": "p-bdac41",
+    "offset": 359,
+    "text": "One to the people's choice commends;"
+  },
+  {
+    "id": "p-78629e",
+    "offset": 397,
+    "text": "One boasts a more unsullied fame;"
+  },
+  {
+    "id": "p-392bce",
+    "offset": 432,
+    "text": "One plumes him on a larger crowd"
+  },
+  {
+    "id": "p-4b3ca0",
+    "offset": 466,
+    "text": "Of clients. What are great or small?"
+  },
+  {
+    "id": "p-0446c3",
+    "offset": 504,
+    "text": "Death takes the mean man with the proud;"
+  },
+  {
+    "id": "p-889ccc",
+    "offset": 546,
+    "text": "The fatal urn has room for all."
+  },
+  {
+    "id": "p-186b4d",
+    "offset": 579,
+    "text": "When guilty Pomp the drawn sword sees"
+  },
+  {
+    "id": "p-21c9a4",
+    "offset": 618,
+    "text": "Hung o'er her, richest feasts in vain"
+  },
+  {
+    "id": "p-4e1b9b",
+    "offset": 657,
+    "text": "Strain their sweet juice her taste to please;"
+  },
+  {
+    "id": "p-2a198b",
+    "offset": 704,
+    "text": "No lutes, no singing birds again"
+  },
+  {
+    "id": "p-2c3ed5",
+    "offset": 738,
+    "text": "Will bring her sleep. Sleep knows no pride;"
+  },
+  {
+    "id": "p-0b7ccd",
+    "offset": 783,
+    "text": "It scorns not cots of village hinds,"
+  },
+  {
+    "id": "p-3d7624",
+    "offset": 821,
+    "text": "Nor shadow-trembling river-side,"
+  },
+  {
+    "id": "p-3ed91f",
+    "offset": 855,
+    "text": "Nor Tempe, stirr'd by western winds."
+  },
+  {
+    "id": "p-fef460",
+    "offset": 893,
+    "text": "Who, having competence, has all,"
+  },
+  {
+    "id": "p-a68f71",
+    "offset": 927,
+    "text": "The tumult of the sea defies,"
+  },
+  {
+    "id": "p-8094c0",
+    "offset": 958,
+    "text": "Nor fears Arcturus' angry fall,"
+  },
+  {
+    "id": "p-5f4097",
+    "offset": 991,
+    "text": "Nor fears the Kid-star's sullen rise,"
+  },
+  {
+    "id": "p-b075f1",
+    "offset": 1030,
+    "text": "Though hail-storms on the vineyard beat,"
+  },
+  {
+    "id": "p-4479c0",
+    "offset": 1072,
+    "text": "Though crops deceive, though trees complain,"
+  },
+  {
+    "id": "p-d9a3fb",
+    "offset": 1118,
+    "text": "One while of showers, one while of heat,"
+  },
+  {
+    "id": "p-82883d",
+    "offset": 1160,
+    "text": "One while of winter's barbarous reign."
+  },
+  {
+    "id": "p-c59463",
+    "offset": 1200,
+    "text": "Fish feel the narrowing of the main"
+  },
+  {
+    "id": "p-ad927b",
+    "offset": 1237,
+    "text": "From sunken piles, while on the strand"
+  },
+  {
+    "id": "p-2c5eb6",
+    "offset": 1277,
+    "text": "Contractors with their busy train"
+  },
+  {
+    "id": "p-412c08",
+    "offset": 1312,
+    "text": "Let down huge stones, and lords of land"
+  },
+  {
+    "id": "p-a6073e",
+    "offset": 1353,
+    "text": "Affect the sea: but fierce Alarm"
+  },
+  {
+    "id": "p-ea57e2",
+    "offset": 1387,
+    "text": "Can clamber to the master's side:"
+  },
+  {
+    "id": "p-5220bc",
+    "offset": 1422,
+    "text": "Black Cares can up ihe galley swarm,"
+  },
+  {
+    "id": "p-058568",
+    "offset": 1460,
+    "text": "And close behind the horseman ride."
+  },
+  {
+    "id": "p-72bac0",
+    "offset": 1497,
+    "text": "If Phrygian marbles soothe not pain,"
+  },
+  {
+    "id": "p-48114c",
+    "offset": 1535,
+    "text": "Nor star-bright purple's costliest wear,"
+  },
+  {
+    "id": "p-3fb848",
+    "offset": 1577,
+    "text": "Nor vines of true Falernian strain,"
+  },
+  {
+    "id": "p-7f2eec",
+    "offset": 1614,
+    "text": "Nor Achaemenian spices rare,"
+  },
+  {
+    "id": "p-b4fa11",
+    "offset": 1644,
+    "text": "Why with rich gate and pillard range"
+  },
+  {
+    "id": "p-0e2371",
+    "offset": 1682,
+    "text": "Upbuild new mansions, twice as high,"
+  },
+  {
+    "id": "p-471e0a",
+    "offset": 1720,
+    "text": "Or why my Sabine vale exchange"
+  },
+  {
+    "id": "p-012348",
+    "offset": 1752,
+    "text": "For more laborious luxury?"
+  },
+  {
+    "id": "p-8c3a24",
+    "offset": 1780,
+    "text": "To suffer hardness with good cheer,"
+  },
+  {
+    "id": "p-afb484",
+    "offset": 1817,
+    "text": "In sternest school of warfare bred,"
+  },
+  {
+    "id": "p-e2ae39",
+    "offset": 1854,
+    "text": "Our youth should learn; let steed and spear"
+  },
+  {
+    "id": "p-f3a585",
+    "offset": 1899,
+    "text": "Make him one day the Parthian's dread;"
+  },
+  {
+    "id": "p-e1e474",
+    "offset": 1939,
+    "text": "Cold skies, keen perils, brace his life."
+  },
+  {
+    "id": "p-d27199",
+    "offset": 1981,
+    "text": "Methinks I see from rampired town"
+  },
+  {
+    "id": "p-c0277f",
+    "offset": 2016,
+    "text": "Some battling tyrant's matron wife,"
+  },
+  {
+    "id": "p-06be53",
+    "offset": 2053,
+    "text": "Some maiden, look in terror down,—"
+  },
+  {
+    "id": "p-677821",
+    "offset": 2089,
+    "text": "“Ah, my dear lord, untrain'd in war!"
+  },
+  {
+    "id": "p-1af593",
+    "offset": 2127,
+    "text": "O tempt not the infuriate mood"
+  },
+  {
+    "id": "p-3c9fc3",
+    "offset": 2159,
+    "text": "Of that fell lion I see! from far"
+  },
+  {
+    "id": "p-e4fb2f",
+    "offset": 2194,
+    "text": "He plunges through a tide of blood!“"
+  },
+  {
+    "id": "p-e01ffe",
+    "offset": 2232,
+    "text": "What joy, for fatherland to die!"
+  },
+  {
+    "id": "p-21452e",
+    "offset": 2266,
+    "text": "Death's darts e'en flying feet o'ertake,"
+  },
+  {
+    "id": "p-518b16",
+    "offset": 2308,
+    "text": "Nor spare a recreant chivalry,"
+  },
+  {
+    "id": "p-0916fb",
+    "offset": 2340,
+    "text": "A back that cowers, or loins that quake."
+  },
+  {
+    "id": "p-6ac40d",
+    "offset": 2382,
+    "text": "True Virtue never knows defeat:"
+  },
+  {
+    "id": "p-b3e4f4",
+    "offset": 2415,
+    "text": "Her robes she keeps unsullied still,"
+  },
+  {
+    "id": "p-945895",
+    "offset": 2453,
+    "text": "Nor takes, nor quits, her curule seat"
+  },
+  {
+    "id": "p-622c00",
+    "offset": 2492,
+    "text": "To please a people's veering will."
+  },
+  {
+    "id": "p-f5502c",
+    "offset": 2528,
+    "text": "True Virtue opens heaven to worth:"
+  },
+  {
+    "id": "p-0b1b43",
+    "offset": 2564,
+    "text": "She makes the way she does not find:"
+  },
+  {
+    "id": "p-990b99",
+    "offset": 2602,
+    "text": "The vulgar crowd, the humid earth,"
+  },
+  {
+    "id": "p-67d7ed",
+    "offset": 2638,
+    "text": "Her soaring pinion leaves behind."
+  },
+  {
+    "id": "p-a54141",
+    "offset": 2673,
+    "text": "Seal'd lips have blessings sure to come:"
+  },
+  {
+    "id": "p-b77529",
+    "offset": 2715,
+    "text": "Who drags Eleusis ' rite today,"
+  },
+  {
+    "id": "p-ec298c",
+    "offset": 2748,
+    "text": "That man shall never share my home,"
+  },
+  {
+    "id": "p-549a6c",
+    "offset": 2785,
+    "text": "Or join my voyage: roofs give way"
+  },
+  {
+    "id": "p-07adad",
+    "offset": 2820,
+    "text": "And boats are wreck'd: true men and thieves"
+  },
+  {
+    "id": "p-8f9209",
+    "offset": 2865,
+    "text": "Neglected Justice oft confounds:"
+  },
+  {
+    "id": "p-46b4f7",
+    "offset": 2899,
+    "text": "Though Vengeance halt, she seldom leaves"
+  },
+  {
+    "id": "p-8daa87",
+    "offset": 2941,
+    "text": "The wretch whose flying steps she hounds."
+  },
+  {
+    "id": "p-4a239d",
+    "offset": 2984,
+    "text": "The man of firm and righteous will,"
+  },
+  {
+    "id": "p-9a0e2e",
+    "offset": 3021,
+    "text": "No rabble, clamorous for the wrong,"
+  },
+  {
+    "id": "p-f44907",
+    "offset": 3058,
+    "text": "No tyrant's brow, whose frown may kill,"
+  },
+  {
+    "id": "p-ab75ec",
+    "offset": 3099,
+    "text": "Can shake the strength that makes him strong:"
+  },
+  {
+    "id": "p-c6fa69",
+    "offset": 3146,
+    "text": "Not winds, that chafe the sea they sway,"
+  },
+  {
+    "id": "p-a70cdb",
+    "offset": 3188,
+    "text": "Nor Jove's right hand, with lightning red:"
+  },
+  {
+    "id": "p-ee3315",
+    "offset": 3232,
+    "text": "Should Nature's pillar'd frame give way,"
+  },
+  {
+    "id": "p-e52407",
+    "offset": 3274,
+    "text": "That wreck would strike one fearless head."
+  },
+  {
+    "id": "p-025f9d",
+    "offset": 3318,
+    "text": "Pollux and roving Hercules"
+  },
+  {
+    "id": "p-51ccdc",
+    "offset": 3346,
+    "text": "Thus won their way to Heaven's proud steep,"
+  },
+  {
+    "id": "p-3f68d0",
+    "offset": 3391,
+    "text": "'Mid whom Augustus, couch'd at ease,"
+  },
+  {
+    "id": "p-4a7cc1",
+    "offset": 3429,
+    "text": "Dyes his red lips with nectar deep."
+  },
+  {
+    "id": "p-0a27b9",
+    "offset": 3466,
+    "text": "For this, great Bacchus, tigers drew"
+  },
+  {
+    "id": "p-feda32",
+    "offset": 3504,
+    "text": "Thy glorious car, untaught to slave"
+  },
+  {
+    "id": "p-ce6440",
+    "offset": 3541,
+    "text": "In harness: thus Quirinus flew"
+  },
+  {
+    "id": "p-a23d08",
+    "offset": 3573,
+    "text": "On Mars ' wing'd steeds from Acheron's wave,"
+  },
+  {
+    "id": "p-687740",
+    "offset": 3619,
+    "text": "When Juno spoke with Heaven's assent:"
+  },
+  {
+    "id": "p-a360ea",
+    "offset": 3658,
+    "text": "“O Ilium, Ilium, wretched town!"
+  },
+  {
+    "id": "p-6d3c35",
+    "offset": 3691,
+    "text": "The judge accurst, incontinent,"
+  },
+  {
+    "id": "p-0fbb08",
+    "offset": 3724,
+    "text": "And stranger dame have dragg'd thee down."
+  },
+  {
+    "id": "p-2e7597",
+    "offset": 3767,
+    "text": "Pallas and I, since Priam's sire"
+  },
+  {
+    "id": "p-5758b3",
+    "offset": 3801,
+    "text": "Denied the gods his pledged reward,"
+  },
+  {
+    "id": "p-4fbb4a",
+    "offset": 3838,
+    "text": "Had doom'd them all to sword and fire,"
+  },
+  {
+    "id": "p-dbce50",
+    "offset": 3878,
+    "text": "The people and their perjured lord."
+  },
+  {
+    "id": "p-e1d8d1",
+    "offset": 3915,
+    "text": "No more the adulterous guest can charm"
+  },
+  {
+    "id": "p-502d1b",
+    "offset": 3955,
+    "text": "The Spartan queen: the house forsworn"
+  },
+  {
+    "id": "p-1315e1",
+    "offset": 3994,
+    "text": "No more repels by Hector's arm"
+  },
+  {
+    "id": "p-daf7ec",
+    "offset": 4026,
+    "text": "My warriors, baffled and outworn:"
+  },
+  {
+    "id": "p-1f50e0",
+    "offset": 4061,
+    "text": "Hush'd is the war our strife made long:"
+  },
+  {
+    "id": "p-0d4e20",
+    "offset": 4102,
+    "text": "I welcome now, my hatred o'er,"
+  },
+  {
+    "id": "p-54a0b7",
+    "offset": 4134,
+    "text": "A grandson in the child of wrong,"
+  },
+  {
+    "id": "p-22ae43",
+    "offset": 4169,
+    "text": "Him whom the Trojan priestess bore."
+  },
+  {
+    "id": "p-c56ea5",
+    "offset": 4206,
+    "text": "Receive him, Mars! the gates of flame"
+  },
+  {
+    "id": "p-069758",
+    "offset": 4245,
+    "text": "May open: let him taste forgiven"
+  },
+  {
+    "id": "p-86e940",
+    "offset": 4279,
+    "text": "The nectar, and enrol his name"
+  },
+  {
+    "id": "p-7430b9",
+    "offset": 4311,
+    "text": "Among the peaceful ranks of Heaven."
+  },
+  {
+    "id": "p-82f154",
+    "offset": 4348,
+    "text": "Let the wide waters sever still"
+  },
+  {
+    "id": "p-471ed0",
+    "offset": 4381,
+    "text": "Ilium and Rome, the exiled race"
+  },
+  {
+    "id": "p-ac3aa8",
+    "offset": 4414,
+    "text": "May reign and prosper where they will:"
+  },
+  {
+    "id": "p-977134",
+    "offset": 4454,
+    "text": "So but in Paris ' burial-place"
+  },
+  {
+    "id": "p-0b9302",
+    "offset": 4486,
+    "text": "The cattle sport, the wild beasts hide"
+  },
+  {
+    "id": "p-621ee0",
+    "offset": 4526,
+    "text": "Their cubs, the Capitol may stand"
+  },
+  {
+    "id": "p-9a1d43",
+    "offset": 4561,
+    "text": "All bright, and Rome in warlike pride"
+  },
+  {
+    "id": "p-c0ba12",
+    "offset": 4600,
+    "text": "O'er Media stretch a conqueror's hand."
+  },
+  {
+    "id": "p-9eeae2",
+    "offset": 4640,
+    "text": "Aye, let her scatter far and wide"
+  },
+  {
+    "id": "p-3ee950",
+    "offset": 4675,
+    "text": "Her terror, where tbe land-lock'd waves"
+  },
+  {
+    "id": "p-2f465a",
+    "offset": 4716,
+    "text": "Europe from Afric's shore divide,"
+  },
+  {
+    "id": "p-7a9300",
+    "offset": 4751,
+    "text": "Where swelling Nile the corn-field laves—"
+  },
+  {
+    "id": "p-081d03",
+    "offset": 4794,
+    "text": "Of strength more potent to disdain"
+  },
+  {
+    "id": "p-42fb91",
+    "offset": 4830,
+    "text": "Hid gold, best buried in the mine,"
+  },
+  {
+    "id": "p-01bf9b",
+    "offset": 4866,
+    "text": "Than gather it with hand profane,"
+  },
+  {
+    "id": "p-15dcb8",
+    "offset": 4901,
+    "text": "That for man's greed would rob a shrine."
+  },
+  {
+    "id": "p-77521e",
+    "offset": 4943,
+    "text": "Whate'er the bound to earth ordain'd,"
+  },
+  {
+    "id": "p-f52a13",
+    "offset": 4982,
+    "text": "There let her reach the arm of power,"
+  },
+  {
+    "id": "p-a66240",
+    "offset": 5021,
+    "text": "Travelling, where raves the fire unrein'd,"
+  },
+  {
+    "id": "p-73c2fd",
+    "offset": 5065,
+    "text": "And where the storm-cloud and the shower."
+  },
+  {
+    "id": "p-633cb8",
+    "offset": 5108,
+    "text": "Yet, warlike Roman, know thy doom,"
+  },
+  {
+    "id": "p-defd0d",
+    "offset": 5144,
+    "text": "Nor, drunken with a conqueror's joy,"
+  },
+  {
+    "id": "p-c36fa1",
+    "offset": 5182,
+    "text": "Or blind with duteous zeal, presume"
+  },
+  {
+    "id": "p-f94496",
+    "offset": 5219,
+    "text": "To build again ancestral Troy."
+  },
+  {
+    "id": "p-9d755d",
+    "offset": 5251,
+    "text": "Should Troy revive to hateful life,"
+  },
+  {
+    "id": "p-88d959",
+    "offset": 5288,
+    "text": "Her star again should set in gore,"
+  },
+  {
+    "id": "p-50632e",
+    "offset": 5324,
+    "text": "While I, Jove's sister and his wife,"
+  },
+  {
+    "id": "p-21140f",
+    "offset": 5362,
+    "text": "To victory led my host once more."
+  },
+  {
+    "id": "p-6b224f",
+    "offset": 5397,
+    "text": "Though Phoebus thrice in brazen mail"
+  },
+  {
+    "id": "p-13fda4",
+    "offset": 5435,
+    "text": "Should case her towers, they thrice should fall,"
+  },
+  {
+    "id": "p-5caf66",
+    "offset": 5485,
+    "text": "Storm'd by my Greeks: thrice wives should wail"
+  },
+  {
+    "id": "p-880213",
+    "offset": 5533,
+    "text": "Husband and son, themselves in thrall.”—"
+  },
+  {
+    "id": "p-d682e9",
+    "offset": 5575,
+    "text": "Such thunders from the lyre of love!"
+  },
+  {
+    "id": "p-6461ba",
+    "offset": 5613,
+    "text": "Back, wayward Muse! refrain, refrain"
+  },
+  {
+    "id": "p-0bc5ed",
+    "offset": 5651,
+    "text": "To tell the talk of gods above,"
+  },
+  {
+    "id": "p-fbc00f",
+    "offset": 5684,
+    "text": "And dwarf high themes in puny strain."
+  },
+  {
+    "id": "p-4e90c4",
+    "offset": 5723,
+    "text": "Come down, Calliope, from above:"
+  },
+  {
+    "id": "p-9e4453",
+    "offset": 5757,
+    "text": "Breathe on the pipe a strain of fire:"
+  },
+  {
+    "id": "p-e34074",
+    "offset": 5796,
+    "text": "Or if a graver note thou love,"
+  },
+  {
+    "id": "p-aa6265",
+    "offset": 5828,
+    "text": "With Phoebus' cittern and his lyre."
+  },
+  {
+    "id": "p-7956cc",
+    "offset": 5865,
+    "text": "You hear her? or is this the play"
+  },
+  {
+    "id": "p-71ee23",
+    "offset": 5900,
+    "text": "Of fond illusion? Hark! meseems"
+  },
+  {
+    "id": "p-59d0c2",
+    "offset": 5933,
+    "text": "Through gardens of the good I stray,"
+  },
+  {
+    "id": "p-77a922",
+    "offset": 5971,
+    "text": "'Mid murmuring gales and purling streams."
+  },
+  {
+    "id": "p-0adcbd",
+    "offset": 6014,
+    "text": "Me, as I lay on Vultur's steep,"
+  },
+  {
+    "id": "p-724d61",
+    "offset": 6047,
+    "text": "A truant past Apulia 's bound,"
+  },
+  {
+    "id": "p-e704f4",
+    "offset": 6079,
+    "text": "O'ertired, poor child, with play and sleep,"
+  },
+  {
+    "id": "p-ad3b46",
+    "offset": 6124,
+    "text": "With living green the stock-doves crown'd—"
+  },
+  {
+    "id": "p-a9d6ee",
+    "offset": 6168,
+    "text": "A legend, nay, a miracle,"
+  },
+  {
+    "id": "p-33e967",
+    "offset": 6195,
+    "text": "By Acherontia's nestlings told,"
+  },
+  {
+    "id": "p-1514c7",
+    "offset": 6228,
+    "text": "By all in Bantine glade that dwell,"
+  },
+  {
+    "id": "p-e9627e",
+    "offset": 6265,
+    "text": "Or till the rich Forentan mould."
+  },
+  {
+    "id": "p-bb5594",
+    "offset": 6299,
+    "text": "“Bears, vipers, spared him as he lay,"
+  },
+  {
+    "id": "p-b23958",
+    "offset": 6338,
+    "text": "The sacred garland deck'd his hair,"
+  },
+  {
+    "id": "p-0a3595",
+    "offset": 6375,
+    "text": "The myrtle blended with the bay:"
+  },
+  {
+    "id": "p-09f648",
+    "offset": 6409,
+    "text": "The child's inspired: the gods were there.”"
+  },
+  {
+    "id": "p-a845e7",
+    "offset": 6454,
+    "text": "Your grace, sweet Muses, shields me still"
+  },
+  {
+    "id": "p-f941f3",
+    "offset": 6497,
+    "text": "On Sabine heights, or lets me range"
+  },
+  {
+    "id": "p-6b53bb",
+    "offset": 6534,
+    "text": "Where cool Praeneste, Tibur 's hill,"
+  },
+  {
+    "id": "p-7cf388",
+    "offset": 6572,
+    "text": "Or liquid Baiae proffers change."
+  },
+  {
+    "id": "p-a9b171",
+    "offset": 6606,
+    "text": "Me to your springs, your dances true,"
+  },
+  {
+    "id": "p-6f3000",
+    "offset": 6645,
+    "text": "Philippi bore not to the ground,"
+  },
+  {
+    "id": "p-07c678",
+    "offset": 6679,
+    "text": "Nor the doom'd tree in falling slew,"
+  },
+  {
+    "id": "p-896abb",
+    "offset": 6717,
+    "text": "Nor billowy Palinurus drown'd."
+  },
+  {
+    "id": "p-834aed",
+    "offset": 6749,
+    "text": "Grant me your presence, blithe and fain"
+  },
+  {
+    "id": "p-4ed64b",
+    "offset": 6790,
+    "text": "Mad Bosporus shall my bark explore;"
+  },
+  {
+    "id": "p-1325f3",
+    "offset": 6827,
+    "text": "My foot shall tread the sandy plain"
+  },
+  {
+    "id": "p-50d988",
+    "offset": 6864,
+    "text": "That glows beside Assyria's shore;"
+  },
+  {
+    "id": "p-e955d7",
+    "offset": 6900,
+    "text": "'Mid Briton tribes, the stranger's foe,"
+  },
+  {
+    "id": "p-a05692",
+    "offset": 6941,
+    "text": "And Spaniards, drunk with horses' blood,"
+  },
+  {
+    "id": "p-911d84",
+    "offset": 6983,
+    "text": "And quiver'd Scythians, will I go"
+  },
+  {
+    "id": "p-10be7a",
+    "offset": 7018,
+    "text": "Unharm'd, and look on Tanais ' flood."
+  },
+  {
+    "id": "p-907c8e",
+    "offset": 7057,
+    "text": "When Caesar's self in peaceful town"
+  },
+  {
+    "id": "p-531c7a",
+    "offset": 7094,
+    "text": "The weary veteran's home has made,"
+  },
+  {
+    "id": "p-0e99bf",
+    "offset": 7130,
+    "text": "You bid him lay his helmet down"
+  },
+  {
+    "id": "p-adce87",
+    "offset": 7163,
+    "text": "And rest in your Pierian shade."
+  },
+  {
+    "id": "p-89c2a4",
+    "offset": 7196,
+    "text": "Mild thoughts you plant, and joy to see"
+  },
+  {
+    "id": "p-84d77b",
+    "offset": 7237,
+    "text": "Mild thoughts take root. The nations know"
+  },
+  {
+    "id": "p-60d008",
+    "offset": 7280,
+    "text": "How with descending thunder he"
+  },
+  {
+    "id": "p-87adda",
+    "offset": 7312,
+    "text": "The impious Titans hurl'd below,"
+  },
+  {
+    "id": "p-7570b4",
+    "offset": 7346,
+    "text": "Who rules dull earth and stormy seas,"
+  },
+  {
+    "id": "p-1c8421",
+    "offset": 7385,
+    "text": "And towns of men, and realms of pain,"
+  },
+  {
+    "id": "p-dcc673",
+    "offset": 7424,
+    "text": "And gods, and mortal companies,"
+  },
+  {
+    "id": "p-77144d",
+    "offset": 7457,
+    "text": "Alone, impartial in his reign."
+  },
+  {
+    "id": "p-46a066",
+    "offset": 7489,
+    "text": "Yet Jove had fear'd the giant rush,"
+  },
+  {
+    "id": "p-1b4f74",
+    "offset": 7526,
+    "text": "Their upraised arms, their port of pride,"
+  },
+  {
+    "id": "p-5bb0e5",
+    "offset": 7569,
+    "text": "And the twin brethren bent to push"
+  },
+  {
+    "id": "p-0831ed",
+    "offset": 7605,
+    "text": "Huge Pelion up Olympus ' side."
+  },
+  {
+    "id": "p-9cea64",
+    "offset": 7637,
+    "text": "But Typhon, Mimas, what could these,"
+  },
+  {
+    "id": "p-12d8a0",
+    "offset": 7675,
+    "text": "Or what Porphyrion's stalwart scorn,"
+  },
+  {
+    "id": "p-484270",
+    "offset": 7713,
+    "text": "Rhoetus, or he whose spears were trees,"
+  },
+  {
+    "id": "p-3d8351",
+    "offset": 7754,
+    "text": "Enceladus, from earth uptorn,"
+  },
+  {
+    "id": "p-2c95c5",
+    "offset": 7785,
+    "text": "As on they rush'd in mad career"
+  },
+  {
+    "id": "p-0a435c",
+    "offset": 7818,
+    "text": "'Gainst Pallas' shield? Here met the foe"
+  },
+  {
+    "id": "p-e39ba0",
+    "offset": 7860,
+    "text": "Fierce Vulcan, queenly Juno here,"
+  },
+  {
+    "id": "p-3ca6ee",
+    "offset": 7895,
+    "text": "And he who ne'er shall quit his bow,"
+  },
+  {
+    "id": "p-f8d232",
+    "offset": 7933,
+    "text": "Who laves in clear Castalian flood"
+  },
+  {
+    "id": "p-6d9037",
+    "offset": 7969,
+    "text": "His locks, and loves the leafy growth"
+  },
+  {
+    "id": "p-17afdd",
+    "offset": 8008,
+    "text": "Of Lycia next his native wood,"
+  },
+  {
+    "id": "p-891594",
+    "offset": 8040,
+    "text": "The Delian and the Pataran both."
+  },
+  {
+    "id": "p-d670a8",
+    "offset": 8074,
+    "text": "Strength, mindless, falls by its own weight;"
+  },
+  {
+    "id": "p-e4f254",
+    "offset": 8120,
+    "text": "Strength, mix'd with mind, is made more strong"
+  },
+  {
+    "id": "p-f0d012",
+    "offset": 8168,
+    "text": "By the just gods, who surely hate"
+  },
+  {
+    "id": "p-f0453b",
+    "offset": 8203,
+    "text": "The strength whose thoughts are set on wrong."
+  },
+  {
+    "id": "p-b71872",
+    "offset": 8250,
+    "text": "Let hundred-handed Gyas bear"
+  },
+  {
+    "id": "p-7a25b9",
+    "offset": 8280,
+    "text": "His witness, and Orion known"
+  },
+  {
+    "id": "p-9f0a43",
+    "offset": 8310,
+    "text": "Tempter of Dian, chaste and fair,"
+  },
+  {
+    "id": "p-a7b67f",
+    "offset": 8345,
+    "text": "By Dian's maiden dart o'erthrown."
+  },
+  {
+    "id": "p-fb0acb",
+    "offset": 8380,
+    "text": "Hurl'd on the monstrous shapes she bred,"
+  },
+  {
+    "id": "p-3c8dcc",
+    "offset": 8422,
+    "text": "Earth groans, and mourns her children thrust"
+  },
+  {
+    "id": "p-42a003",
+    "offset": 8468,
+    "text": "To Orcus; Aetna 's weight of lead"
+  },
+  {
+    "id": "p-5515c6",
+    "offset": 8503,
+    "text": "Keeps down the fire that breaks its crust;"
+  },
+  {
+    "id": "p-4071bc",
+    "offset": 8547,
+    "text": "Still sits the bird on Tityos' breast,"
+  },
+  {
+    "id": "p-b3d715",
+    "offset": 8587,
+    "text": "The warder of Unlawful love;"
+  },
+  {
+    "id": "p-dadd73",
+    "offset": 8617,
+    "text": "Still suffers lewd Pirithous, prest"
+  },
+  {
+    "id": "p-443e5c",
+    "offset": 8654,
+    "text": "By massive chains no hand may move."
+  },
+  {
+    "id": "p-f8ed5b",
+    "offset": 8691,
+    "text": "Jove rules in heaven, his thunder shows;"
+  },
+  {
+    "id": "p-65a9b5",
+    "offset": 8733,
+    "text": "Henceforth Augustus earth shall own"
+  },
+  {
+    "id": "p-0dda3d",
+    "offset": 8770,
+    "text": "Her present god, now Briton foes"
+  },
+  {
+    "id": "p-b1aeaa",
+    "offset": 8804,
+    "text": "And Persians bow before his throne."
+  },
+  {
+    "id": "p-53bfe2",
+    "offset": 8841,
+    "text": "Has Crassus' soldier ta'en to wife"
+  },
+  {
+    "id": "p-f76fc1",
+    "offset": 8877,
+    "text": "A base barbarian, and grown grey"
+  },
+  {
+    "id": "p-2c0487",
+    "offset": 8911,
+    "text": "(Woe, for a nation's tainted life!)"
+  },
+  {
+    "id": "p-e2bf59",
+    "offset": 8948,
+    "text": "Earning his foemen-kinsmen's pay,"
+  },
+  {
+    "id": "p-f34690",
+    "offset": 8983,
+    "text": "His king, forsooth, a Mede, his sire"
+  },
+  {
+    "id": "p-7a8dc2",
+    "offset": 9021,
+    "text": "A Marsian? can he name forget,"
+  },
+  {
+    "id": "p-29164b",
+    "offset": 9053,
+    "text": "Gown, sacred shield, undying fire,"
+  },
+  {
+    "id": "p-c3bf4f",
+    "offset": 9089,
+    "text": "And Jove and Rome are standing yet?"
+  },
+  {
+    "id": "p-776af0",
+    "offset": 9126,
+    "text": "'Twas this that Regulus foresaw,"
+  },
+  {
+    "id": "p-375433",
+    "offset": 9160,
+    "text": "What time he spurn'd the foul disgrace"
+  },
+  {
+    "id": "p-0ee46e",
+    "offset": 9200,
+    "text": "Of peace, whose precedent would draw"
+  },
+  {
+    "id": "p-dfcc62",
+    "offset": 9238,
+    "text": "Destruction on an unborn race,"
+  },
+  {
+    "id": "p-ecc6f8",
+    "offset": 9270,
+    "text": "Should aught but death the prisoner's chain"
+  },
+  {
+    "id": "p-5cd9c9",
+    "offset": 9315,
+    "text": "Unrivet. “I have seen,” he said,"
+  },
+  {
+    "id": "p-50365e",
+    "offset": 9349,
+    "text": "“Rome 's eagle in a Punic fane,"
+  },
+  {
+    "id": "p-f38b62",
+    "offset": 9382,
+    "text": "And armour, ne'er a blood-drop shed,"
+  },
+  {
+    "id": "p-cd4767",
+    "offset": 9420,
+    "text": "Stripp'd from the soldier; I have seen"
+  },
+  {
+    "id": "p-526bac",
+    "offset": 9460,
+    "text": "Free sons of Rome with arms fast tied;"
+  },
+  {
+    "id": "p-6ad0a7",
+    "offset": 9500,
+    "text": "The fields we spoil'd with corn are green,"
+  },
+  {
+    "id": "p-eb4747",
+    "offset": 9544,
+    "text": "And Carthage opes her portals wide."
+  },
+  {
+    "id": "p-952489",
+    "offset": 9581,
+    "text": "The warrior, sure, redeem'd by gold,"
+  },
+  {
+    "id": "p-989db0",
+    "offset": 9619,
+    "text": "Will fight the bolder! Aye, you heap"
+  },
+  {
+    "id": "p-2257db",
+    "offset": 9657,
+    "text": "On baseness loss. The hues of old"
+  },
+  {
+    "id": "p-d3142a",
+    "offset": 9692,
+    "text": "Revisit not the wool we steep;"
+  },
+  {
+    "id": "p-8e2f92",
+    "offset": 9724,
+    "text": "And genuine worth, expell'd by fear,"
+  },
+  {
+    "id": "p-b955d7",
+    "offset": 9762,
+    "text": "Returns not to the worthless slave."
+  },
+  {
+    "id": "p-6de891",
+    "offset": 9799,
+    "text": "Break but her meshes, will the deer"
+  },
+  {
+    "id": "p-4c7d1f",
+    "offset": 9836,
+    "text": "Assail you? then will he be brave"
+  },
+  {
+    "id": "p-e4a51f",
+    "offset": 9871,
+    "text": "Who once to faithless foes has knelt;"
+  },
+  {
+    "id": "p-c51c8d",
+    "offset": 9910,
+    "text": "Yes, Carthage yet his spear will fly,"
+  },
+  {
+    "id": "p-b2d5f8",
+    "offset": 9949,
+    "text": "Who with bound arms the cord has felt,"
+  },
+  {
+    "id": "p-f0c7df",
+    "offset": 9989,
+    "text": "The coward, and has fear'd to die."
+  },
+  {
+    "id": "p-0d9a34",
+    "offset": 10025,
+    "text": "He knows not, he, how life is won;"
+  },
+  {
+    "id": "p-7e6414",
+    "offset": 10061,
+    "text": "Thinks war, like peace, a thing of trade!"
+  },
+  {
+    "id": "p-06e148",
+    "offset": 10104,
+    "text": "Great art thou, Carthage! mate the sun,"
+  },
+  {
+    "id": "p-12dc58",
+    "offset": 10145,
+    "text": "While Italy in dust is laid!”"
+  },
+  {
+    "id": "p-80fd8d",
+    "offset": 10176,
+    "text": "His wife's pure kiss he waved aside,"
+  },
+  {
+    "id": "p-1094f3",
+    "offset": 10214,
+    "text": "And prattling boys, as one disgraced,"
+  },
+  {
+    "id": "p-e15b27",
+    "offset": 10253,
+    "text": "They tell us, and with manly pride"
+  },
+  {
+    "id": "p-c592d3",
+    "offset": 10289,
+    "text": "Stern on the ground his visage placed."
+  },
+  {
+    "id": "p-356fe6",
+    "offset": 10329,
+    "text": "With counsel thus ne'er else aread"
+  },
+  {
+    "id": "p-f5fd4f",
+    "offset": 10365,
+    "text": "He nerved the fathers' weak intent,"
+  },
+  {
+    "id": "p-1bdec3",
+    "offset": 10402,
+    "text": "And, girt by friends that mourn'd him, sped"
+  },
+  {
+    "id": "p-34bf84",
+    "offset": 10447,
+    "text": "Into illustrious banishment."
+  },
+  {
+    "id": "p-a446d0",
+    "offset": 10477,
+    "text": "Well witting what the torturer's art"
+  },
+  {
+    "id": "p-e7e7b8",
+    "offset": 10515,
+    "text": "Design'd him, with like unconcern"
+  },
+  {
+    "id": "p-835e39",
+    "offset": 10550,
+    "text": "The press of kin he push'd apart"
+  },
+  {
+    "id": "p-c98a00",
+    "offset": 10584,
+    "text": "And crowds encumbering his return,"
+  },
+  {
+    "id": "p-583f0c",
+    "offset": 10620,
+    "text": "As though, some tedious business o'er"
+  },
+  {
+    "id": "p-935b73",
+    "offset": 10659,
+    "text": "Of clients' court, his journey lay"
+  },
+  {
+    "id": "p-08d11b",
+    "offset": 10695,
+    "text": "Towards Venafrum 's grassy floor,"
+  },
+  {
+    "id": "p-440d97",
+    "offset": 10730,
+    "text": "Or Sparta-built Tarentum 's bay."
+  },
+  {
+    "id": "p-952d62",
+    "offset": 10764,
+    "text": "Your fathers' guilt you still must pay,"
+  },
+  {
+    "id": "p-1aee26",
+    "offset": 10805,
+    "text": "Till, Roman, you restore each shrine,"
+  },
+  {
+    "id": "p-63516d",
+    "offset": 10844,
+    "text": "Each temple, 'mouldering in decay,"
+  },
+  {
+    "id": "p-d61ea2",
+    "offset": 10880,
+    "text": "And smoke-grimed statue, scarce divine."
+  },
+  {
+    "id": "p-1631d3",
+    "offset": 10921,
+    "text": "Revering Heaven, you rule below;"
+  },
+  {
+    "id": "p-7a4f0f",
+    "offset": 10955,
+    "text": "Be that your base, your coping still;"
+  },
+  {
+    "id": "p-1c6aa3",
+    "offset": 10994,
+    "text": "'Tis Heaven neglected bids o'erflow"
+  },
+  {
+    "id": "p-583bf1",
+    "offset": 11031,
+    "text": "The measure of Italian ill."
+  },
+  {
+    "id": "p-393a61",
+    "offset": 11060,
+    "text": "Now Pacorus and Monaeses twice"
+  },
+  {
+    "id": "p-0a5d21",
+    "offset": 11092,
+    "text": "Have given our unblest arms the foil;"
+  },
+  {
+    "id": "p-b567ad",
+    "offset": 11131,
+    "text": "Their necklaces, of mean device;"
+  },
+  {
+    "id": "p-581c14",
+    "offset": 11165,
+    "text": "Smiling they deck with Roman spoil."
+  },
+  {
+    "id": "p-74e6f6",
+    "offset": 11202,
+    "text": "Our city, torn by faction's throes,"
+  },
+  {
+    "id": "p-8512e5",
+    "offset": 11239,
+    "text": "Dacian and Ethiop well-nigh razed,"
+  },
+  {
+    "id": "p-e5481f",
+    "offset": 11275,
+    "text": "These with their dreadful navy, those"
+  },
+  {
+    "id": "p-a18652",
+    "offset": 11314,
+    "text": "For archer-prowess rather praised."
+  },
+  {
+    "id": "p-725204",
+    "offset": 11350,
+    "text": "An evil age erewhile debased"
+  },
+  {
+    "id": "p-c6361a",
+    "offset": 11380,
+    "text": "The marriage-bed, the race, the home;"
+  },
+  {
+    "id": "p-855ea9",
+    "offset": 11419,
+    "text": "Thence rose the flood whose waters waste"
+  },
+  {
+    "id": "p-9e2fd0",
+    "offset": 11461,
+    "text": "The nation and the name of Rome."
+  },
+  {
+    "id": "p-f66d59",
+    "offset": 11495,
+    "text": "Not such their birth, who stain'd for us"
+  },
+  {
+    "id": "p-866cd1",
+    "offset": 11537,
+    "text": "The sea with Punic carnage red,"
+  },
+  {
+    "id": "p-08efa7",
+    "offset": 11570,
+    "text": "Smote Pyrrhus, smote Antiochus,"
+  },
+  {
+    "id": "p-ae8c68",
+    "offset": 11603,
+    "text": "And Hannibal, the Roman's dread."
+  },
+  {
+    "id": "p-4df778",
+    "offset": 11637,
+    "text": "Theirs was a hardy soldier-brood,"
+  },
+  {
+    "id": "p-23ea9a",
+    "offset": 11672,
+    "text": "Inured all day the land to till"
+  },
+  {
+    "id": "p-823613",
+    "offset": 11705,
+    "text": "With Sabine spade, then shoulder wood"
+  },
+  {
+    "id": "p-46c423",
+    "offset": 11744,
+    "text": "Hewn at a stern old mother's will,"
+  },
+  {
+    "id": "p-c624c5",
+    "offset": 11780,
+    "text": "When sunset lengthen'd from each height"
+  },
+  {
+    "id": "p-24a373",
+    "offset": 11821,
+    "text": "The shadows, and unyoked the steer,"
+  },
+  {
+    "id": "p-47f2bd",
+    "offset": 11858,
+    "text": "Restoring in its westward flight"
+  },
+  {
+    "id": "p-4b2558",
+    "offset": 11892,
+    "text": "The hour to toilworn travail dear."
+  },
+  {
+    "id": "p-63a2c8",
+    "offset": 11928,
+    "text": "What has not cankering Time made worse?"
+  },
+  {
+    "id": "p-3c8121",
+    "offset": 11969,
+    "text": "Viler than grandsires, sires beget"
+  },
+  {
+    "id": "p-0f8fd5",
+    "offset": 12005,
+    "text": "Ourselves, yet baser, soon to curse"
+  },
+  {
+    "id": "p-29510b",
+    "offset": 12042,
+    "text": "The world with offspring baser yet."
+  },
+  {
+    "id": "p-431327",
+    "offset": 12079,
+    "text": "Why weep for him whom sweet Favonian airs"
+  },
+  {
+    "id": "p-fc9e50",
+    "offset": 12122,
+    "text": "Will waft next spring, Asteria, back to you,"
+  },
+  {
+    "id": "p-dd9710",
+    "offset": 12168,
+    "text": "Rich with Bithynia 's wares,"
+  },
+  {
+    "id": "p-73bb27",
+    "offset": 12198,
+    "text": "A lover fond and true,"
+  },
+  {
+    "id": "p-66ea3d",
+    "offset": 12222,
+    "text": "Your Gyges? He, detain'd by stormy stress"
+  },
+  {
+    "id": "p-52673a",
+    "offset": 12265,
+    "text": "At Oricum, about the Goat-star's rise,"
+  },
+  {
+    "id": "p-766f60",
+    "offset": 12305,
+    "text": "Cold, wakeful, comfortless,"
+  },
+  {
+    "id": "p-be0866",
+    "offset": 12334,
+    "text": "The long night weeping lies."
+  },
+  {
+    "id": "p-fcff24",
+    "offset": 12364,
+    "text": "Meantime his lovesick hostess' messenger"
+  },
+  {
+    "id": "p-fef2bc",
+    "offset": 12406,
+    "text": "Talks of the flames that waste poor Chloe's heart"
+  },
+  {
+    "id": "p-446062",
+    "offset": 12457,
+    "text": "(Flames lit for you, not her!)"
+  },
+  {
+    "id": "p-78e518",
+    "offset": 12489,
+    "text": "With a besieger's art;"
+  },
+  {
+    "id": "p-0d7220",
+    "offset": 12513,
+    "text": "Shows how a treacherous woman's lying breath"
+  },
+  {
+    "id": "p-b62195",
+    "offset": 12559,
+    "text": "Once on a time on trustful Proetus won"
+  },
+  {
+    "id": "p-cefa56",
+    "offset": 12599,
+    "text": "To doom to early death"
+  },
+  {
+    "id": "p-69e432",
+    "offset": 12623,
+    "text": "Too chaste Bellerophon;"
+  },
+  {
+    "id": "p-65144d",
+    "offset": 12648,
+    "text": "Warns him of Peleus' peril, all but slain"
+  },
+  {
+    "id": "p-6ec872",
+    "offset": 12691,
+    "text": "For virtuous scorn of fair Hippolyta,"
+  },
+  {
+    "id": "p-6d9c30",
+    "offset": 12730,
+    "text": "And tells again each tale"
+  },
+  {
+    "id": "p-6d9702",
+    "offset": 12757,
+    "text": "That e'er led heart astray."
+  },
+  {
+    "id": "p-9092c4",
+    "offset": 12786,
+    "text": "In vain; for deafer than Icarian seas"
+  },
+  {
+    "id": "p-481ae7",
+    "offset": 12825,
+    "text": "He hears, untainted yet. But, lady fair,"
+  },
+  {
+    "id": "p-2e77b0",
+    "offset": 12867,
+    "text": "What if Enipeus please"
+  },
+  {
+    "id": "p-c48f83",
+    "offset": 12891,
+    "text": "Your listless eye? beware!"
+  },
+  {
+    "id": "p-985d04",
+    "offset": 12919,
+    "text": "Though true it be that none with surer seat"
+  },
+  {
+    "id": "p-d7891f",
+    "offset": 12964,
+    "text": "O'er Mars's grassy turf is seen to ride,"
+  },
+  {
+    "id": "p-1a7360",
+    "offset": 13006,
+    "text": "Nor any swims so fleet"
+  },
+  {
+    "id": "p-e46dd0",
+    "offset": 13030,
+    "text": "Adown the Tuscan tide,"
+  },
+  {
+    "id": "p-1daee8",
+    "offset": 13054,
+    "text": "Yet keep each evening door and window barr'd;"
+  },
+  {
+    "id": "p-459e00",
+    "offset": 13101,
+    "text": "Look not abroad when music strikes up shrill,"
+  },
+  {
+    "id": "p-b86239",
+    "offset": 13148,
+    "text": "And though he call you hard,"
+  },
+  {
+    "id": "p-1d3e32",
+    "offset": 13178,
+    "text": "Remain obdurate still."
+  },
+  {
+    "id": "p-de296c",
+    "offset": 13202,
+    "text": "The first of March! a man unwed!"
+  },
+  {
+    "id": "p-6fff7f",
+    "offset": 13236,
+    "text": "What can these flowers, this censer mean?"
+  },
+  {
+    "id": "p-b160a3",
+    "offset": 13279,
+    "text": "Or what these embers, glowing red"
+  },
+  {
+    "id": "p-8723a2",
+    "offset": 13314,
+    "text": "On sods of green?"
+  },
+  {
+    "id": "p-3b0238",
+    "offset": 13333,
+    "text": "You ask, in either language skill'd!"
+  },
+  {
+    "id": "p-7db538",
+    "offset": 13371,
+    "text": "A feast I vow'd to Bacchus free,"
+  },
+  {
+    "id": "p-6504f4",
+    "offset": 13405,
+    "text": "A white he-goat, when all but kill'd"
+  },
+  {
+    "id": "p-631a89",
+    "offset": 13443,
+    "text": "By falling tree."
+  },
+  {
+    "id": "p-713680",
+    "offset": 13461,
+    "text": "So, when that holyday comes round,"
+  },
+  {
+    "id": "p-08bcb0",
+    "offset": 13497,
+    "text": "It sees me still the rosin clear"
+  },
+  {
+    "id": "p-5dc519",
+    "offset": 13531,
+    "text": "From this my wine-jar, first embrown'd"
+  },
+  {
+    "id": "p-bc7d6e",
+    "offset": 13571,
+    "text": "In Tullus' year."
+  },
+  {
+    "id": "p-a3fd99",
+    "offset": 13589,
+    "text": "Come, crush one hundred cups for life"
+  },
+  {
+    "id": "p-34a31a",
+    "offset": 13628,
+    "text": "Preserved, Maecenas; keep till day"
+  },
+  {
+    "id": "p-5c11d8",
+    "offset": 13664,
+    "text": "The candles lit; let noise and strife"
+  },
+  {
+    "id": "p-b4c5dc",
+    "offset": 13703,
+    "text": "Be far away."
+  },
+  {
+    "id": "p-e2a73b",
+    "offset": 13717,
+    "text": "Lay down that load of state-concern;"
+  },
+  {
+    "id": "p-805997",
+    "offset": 13755,
+    "text": "The Dacian hosts are all o'erthrown;"
+  },
+  {
+    "id": "p-58d14d",
+    "offset": 13793,
+    "text": "The Mede, that sought our overturn,"
+  },
+  {
+    "id": "p-87be19",
+    "offset": 13830,
+    "text": "Now seeks his own;"
+  },
+  {
+    "id": "p-6ddc4a",
+    "offset": 13850,
+    "text": "A servant now, our ancient foe,"
+  },
+  {
+    "id": "p-673d7b",
+    "offset": 13883,
+    "text": "The Spaniard, wears at last our chain;"
+  },
+  {
+    "id": "p-22721d",
+    "offset": 13923,
+    "text": "The Scythian half unbends his bow"
+  },
+  {
+    "id": "p-339ae2",
+    "offset": 13958,
+    "text": "And quits the plain."
+  },
+  {
+    "id": "p-bd9dcb",
+    "offset": 13980,
+    "text": "Then fret not lest the state should ail;"
+  },
+  {
+    "id": "p-d03c1d",
+    "offset": 14022,
+    "text": "A private man such thoughts may spare;"
+  },
+  {
+    "id": "p-56e59e",
+    "offset": 14062,
+    "text": "Enjoy the present hour's regale,"
+  },
+  {
+    "id": "p-14f7b5",
+    "offset": 14096,
+    "text": "And banish care."
+  },
+  {
+    "id": "p-cb7967",
+    "offset": 14114,
+    "text": "Horace:\nWhile I had power to bless you,"
+  },
+  {
+    "id": "p-70af37",
+    "offset": 14155,
+    "text": "Nor any round that neck his arms did fling"
+  },
+  {
+    "id": "p-a5c81e",
+    "offset": 14199,
+    "text": "More privileged to caress you,"
+  },
+  {
+    "id": "p-e7efd3",
+    "offset": 14231,
+    "text": "Happier was Horace than the Persian king."
+  },
+  {
+    "id": "p-90705e",
+    "offset": 14274,
+    "text": "Lydia:\nWhile you for none were pining"
+  },
+  {
+    "id": "p-541eff",
+    "offset": 14313,
+    "text": "Sorer, nor Lydia after Chloe came,"
+  },
+  {
+    "id": "p-4d1130",
+    "offset": 14349,
+    "text": "Lydia, her peers outshining,"
+  },
+  {
+    "id": "p-f57f9e",
+    "offset": 14379,
+    "text": "Might match her own with Ilia's Roman fame."
+  },
+  {
+    "id": "p-044922",
+    "offset": 14424,
+    "text": "Horace:\nNow Chloe is my treasure,"
+  },
+  {
+    "id": "p-4f7c2a",
+    "offset": 14459,
+    "text": "Whose voice, whose touch, can make sweet music flow:"
+  },
+  {
+    "id": "p-4e0e04",
+    "offset": 14513,
+    "text": "For her I'd die with pleasure,"
+  },
+  {
+    "id": "p-a5da67",
+    "offset": 14545,
+    "text": "Would Fate but spare the dear survivor so."
+  },
+  {
+    "id": "p-08da3f",
+    "offset": 14589,
+    "text": "Lydia:\nI love my own fond lover,"
+  },
+  {
+    "id": "p-08352e",
+    "offset": 14623,
+    "text": "Young Calais, son of Thurian Ornytus:"
+  },
+  {
+    "id": "p-a42a6c",
+    "offset": 14662,
+    "text": "For him I'd die twice over,"
+  },
+  {
+    "id": "p-d98f2e",
+    "offset": 14691,
+    "text": "Would Fate but spare the sweet survivor thus."
+  },
+  {
+    "id": "p-0ea7f4",
+    "offset": 14738,
+    "text": "Horace:\nWhat now, if Love returning"
+  },
+  {
+    "id": "p-be61a4",
+    "offset": 14775,
+    "text": "Should pair us 'neath his brazen yoke once more,"
+  },
+  {
+    "id": "p-99c95e",
+    "offset": 14825,
+    "text": "And, bright-hair'd Chloe spurning,"
+  },
+  {
+    "id": "p-efe8e2",
+    "offset": 14861,
+    "text": "Horace to off-cast Lydia ope his door?"
+  },
+  {
+    "id": "p-805046",
+    "offset": 14901,
+    "text": "Lydia:\nThough he is fairer, milder,"
+  },
+  {
+    "id": "p-4ecc6b",
+    "offset": 14938,
+    "text": "Than starlight, you lighter than bark of tree,"
+  },
+  {
+    "id": "p-387ea6",
+    "offset": 14986,
+    "text": "Than stormy Hadria wilder,"
+  },
+  {
+    "id": "p-1d9c4a",
+    "offset": 15014,
+    "text": "With you to live, to die, were bliss for me."
+  },
+  {
+    "id": "p-34033a",
+    "offset": 15060,
+    "text": "Ah Lyce! though your drink were Tanais,"
+  },
+  {
+    "id": "p-8b8b68",
+    "offset": 15101,
+    "text": "Your husband some rude savage, you would weep"
+  },
+  {
+    "id": "p-9f829a",
+    "offset": 15148,
+    "text": "To leave me shivering, on a night like this,"
+  },
+  {
+    "id": "p-3a2466",
+    "offset": 15194,
+    "text": "Where storms their watches keep."
+  },
+  {
+    "id": "p-68f2f3",
+    "offset": 15228,
+    "text": "Hark! how your door is creaking! how the grove"
+  },
+  {
+    "id": "p-210fe2",
+    "offset": 15276,
+    "text": "In your fair courtyard, while the wild winds blow,"
+  },
+  {
+    "id": "p-d623c7",
+    "offset": 15328,
+    "text": "Wails in accord! with what transparence Jove"
+  },
+  {
+    "id": "p-886102",
+    "offset": 15374,
+    "text": "Is glazing the driven snow!"
+  },
+  {
+    "id": "p-fee016",
+    "offset": 15403,
+    "text": "Cease that proud temper: Venus loves it not:"
+  },
+  {
+    "id": "p-ca0d78",
+    "offset": 15449,
+    "text": "The rope may break, the wheel may backward turn:"
+  },
+  {
+    "id": "p-32a944",
+    "offset": 15499,
+    "text": "Begetting you, no Tuscan sire begot"
+  },
+  {
+    "id": "p-57455e",
+    "offset": 15536,
+    "text": "Penelope the stern."
+  },
+  {
+    "id": "p-5b7783",
+    "offset": 15557,
+    "text": "O, though no gift, no “prevalence of prayer,”"
+  },
+  {
+    "id": "p-945dcb",
+    "offset": 15604,
+    "text": "Nor lovers' paleness deep as violet,"
+  },
+  {
+    "id": "p-6f9187",
+    "offset": 15642,
+    "text": "Nor husband, smit with a Pierian fair,"
+  },
+  {
+    "id": "p-6d75f7",
+    "offset": 15682,
+    "text": "Move you, have pity yet!"
+  },
+  {
+    "id": "p-f95c1e",
+    "offset": 15708,
+    "text": "O harder e'en than toughest heart of oak,"
+  },
+  {
+    "id": "p-ad8edb",
+    "offset": 15751,
+    "text": "Deafer than uncharm'd snake to suppliant moans!"
+  },
+  {
+    "id": "p-d8c219",
+    "offset": 15800,
+    "text": "This side, I warn you, will not always brook"
+  },
+  {
+    "id": "p-ef98e0",
+    "offset": 15846,
+    "text": "Rain-water and cold stones."
+  },
+  {
+    "id": "p-cdc3e0",
+    "offset": 15875,
+    "text": "Come, Mercury, by whose minstrel spell"
+  },
+  {
+    "id": "p-64e208",
+    "offset": 15915,
+    "text": "Amphion raised the Theban stones,"
+  },
+  {
+    "id": "p-430d1d",
+    "offset": 15950,
+    "text": "Come, with thy seven sweet strings, my shell,"
+  },
+  {
+    "id": "p-f0253f",
+    "offset": 15997,
+    "text": "Thy “diverse tones,”"
+  },
+  {
+    "id": "p-792068",
+    "offset": 16019,
+    "text": "Nor vocal once nor pleasant, now"
+  },
+  {
+    "id": "p-1b188c",
+    "offset": 16053,
+    "text": "To rich man's board and temple dear:"
+  },
+  {
+    "id": "p-152970",
+    "offset": 16091,
+    "text": "Put forth thy power, till Lyde bow"
+  },
+  {
+    "id": "p-47c092",
+    "offset": 16127,
+    "text": "Her stubborn ear."
+  },
+  {
+    "id": "p-9b4c3b",
+    "offset": 16146,
+    "text": "She, like a three-year colt unbroke,"
+  },
+  {
+    "id": "p-f4394c",
+    "offset": 16184,
+    "text": "Is frisking o'er the spacious plain,"
+  },
+  {
+    "id": "p-b75258",
+    "offset": 16222,
+    "text": "Too shy to bear a lover's yoke,"
+  },
+  {
+    "id": "p-5545c2",
+    "offset": 16255,
+    "text": "A husband's rein."
+  },
+  {
+    "id": "p-8ba310",
+    "offset": 16274,
+    "text": "The wood, the tiger, at thy call"
+  },
+  {
+    "id": "p-59ccb0",
+    "offset": 16308,
+    "text": "Have follow'd: thou caust rivers stay:"
+  },
+  {
+    "id": "p-a1171f",
+    "offset": 16348,
+    "text": "The monstrous guard of Pluto's hall"
+  },
+  {
+    "id": "p-746bb6",
+    "offset": 16385,
+    "text": "To thee gave way,"
+  },
+  {
+    "id": "p-1b99f9",
+    "offset": 16404,
+    "text": "Grim Cerberus, round whose Gorgon head"
+  },
+  {
+    "id": "p-380a6f",
+    "offset": 16444,
+    "text": "A hundred snakes are hissing death,"
+  },
+  {
+    "id": "p-31ab69",
+    "offset": 16481,
+    "text": "Whose triple jaws black venom shed,"
+  },
+  {
+    "id": "p-b8c7a3",
+    "offset": 16518,
+    "text": "And sickening breath."
+  },
+  {
+    "id": "p-d0518b",
+    "offset": 16541,
+    "text": "Ixion too and Tityos smooth'd"
+  },
+  {
+    "id": "p-f83c86",
+    "offset": 16572,
+    "text": "Their rugged brows: the urn stood dry"
+  },
+  {
+    "id": "p-5c5533",
+    "offset": 16611,
+    "text": "One hour, while Danaus' maids were sooth'd"
+  },
+  {
+    "id": "p-d5d34c",
+    "offset": 16655,
+    "text": "With minstrelsy."
+  },
+  {
+    "id": "p-690dcf",
+    "offset": 16673,
+    "text": "Let Lyde hear those maidens' guilt,"
+  },
+  {
+    "id": "p-4a7d04",
+    "offset": 16710,
+    "text": "Their famous doom, the ceaseless drain"
+  },
+  {
+    "id": "p-94bf08",
+    "offset": 16750,
+    "text": "Of outpour'd water, ever spilt,"
+  },
+  {
+    "id": "p-6cc7f1",
+    "offset": 16783,
+    "text": "And all the pain"
+  },
+  {
+    "id": "p-d2f43d",
+    "offset": 16801,
+    "text": "Reserved for sinners, e'en when dead:"
+  },
+  {
+    "id": "p-564697",
+    "offset": 16840,
+    "text": "Those impious hands, (could crime do more?)"
+  },
+  {
+    "id": "p-f3877f",
+    "offset": 16885,
+    "text": "Those impious hands had hearts to shed"
+  },
+  {
+    "id": "p-a7e807",
+    "offset": 16925,
+    "text": "Their bridegrooms' gore!"
+  },
+  {
+    "id": "p-f5dca1",
+    "offset": 16951,
+    "text": "One only, true to Hymen's flame,"
+  },
+  {
+    "id": "p-b89210",
+    "offset": 16985,
+    "text": "Was traitress to her sire forsworn:"
+  },
+  {
+    "id": "p-575ba4",
+    "offset": 17022,
+    "text": "That splendid falsehood lights her name"
+  },
+  {
+    "id": "p-8d6d2d",
+    "offset": 17063,
+    "text": "Through times unborn."
+  },
+  {
+    "id": "p-30d775",
+    "offset": 17086,
+    "text": "“Wake!” to her youthful spouse she cried,"
+  },
+  {
+    "id": "p-b7e041",
+    "offset": 17129,
+    "text": "“Wake! or you yet may sleep too well:"
+  },
+  {
+    "id": "p-645895",
+    "offset": 17168,
+    "text": "Fly—from the father of your bride,"
+  },
+  {
+    "id": "p-777de6",
+    "offset": 17204,
+    "text": "Her sisters fell:"
+  },
+  {
+    "id": "p-f2b1c7",
+    "offset": 17223,
+    "text": "They, as she-lions bullocks rend,"
+  },
+  {
+    "id": "p-63e72c",
+    "offset": 17258,
+    "text": "Tear each her victim: I, less hard"
+  },
+  {
+    "id": "p-1b6886",
+    "offset": 17294,
+    "text": "Than these, will slay you not, poor friend,"
+  },
+  {
+    "id": "p-1c8301",
+    "offset": 17339,
+    "text": "Nor hold in ward:"
+  },
+  {
+    "id": "p-8a3c3f",
+    "offset": 17358,
+    "text": "Me let my sire in fetters lay"
+  },
+  {
+    "id": "p-8bca5e",
+    "offset": 17389,
+    "text": "For mercy to my husband shown:"
+  },
+  {
+    "id": "p-7e2eb2",
+    "offset": 17421,
+    "text": "Me let him ship far hence away,"
+  },
+  {
+    "id": "p-40b99e",
+    "offset": 17454,
+    "text": "To climes unknown."
+  },
+  {
+    "id": "p-39d1e5",
+    "offset": 17474,
+    "text": "Go; speed your flight o'er land and wave,"
+  },
+  {
+    "id": "p-d9153c",
+    "offset": 17517,
+    "text": "While Night and Venus shield you; go"
+  },
+  {
+    "id": "p-48828e",
+    "offset": 17555,
+    "text": "Be blest: and on my tomb engrave"
+  },
+  {
+    "id": "p-703a28",
+    "offset": 17589,
+    "text": "This tale of woe.”"
+  },
+  {
+    "id": "p-4d45a7",
+    "offset": 17609,
+    "text": "How unhappy are the maidens who with Cupid may not play,"
+  },
+  {
+    "id": "p-9a0167",
+    "offset": 17667,
+    "text": "Who may never touch the wine-cup, but must tremble all the day"
+  },
+  {
+    "id": "p-8a9cc4",
+    "offset": 17731,
+    "text": "At an uncle, and the scourging of his tongue!"
+  },
+  {
+    "id": "p-d2abf6",
+    "offset": 17778,
+    "text": "Neobule, there's a robber takes your needle and your thread,"
+  },
+  {
+    "id": "p-c4472b",
+    "offset": 17840,
+    "text": "Lets the lessons of Minerva run no longer in your head;"
+  },
+  {
+    "id": "p-4a2d1d",
+    "offset": 17897,
+    "text": "It is Hebrus, the athletic and the young!"
+  },
+  {
+    "id": "p-72ac4c",
+    "offset": 17940,
+    "text": "O, to see him when anointed he is plunging in the flood!"
+  },
+  {
+    "id": "p-5efa50",
+    "offset": 17998,
+    "text": "What a seat he has on horseback! was Bellerophon's as good?"
+  },
+  {
+    "id": "p-994ed5",
+    "offset": 18059,
+    "text": "As a boxer, as a runner, past compare!"
+  },
+  {
+    "id": "p-5f0264",
+    "offset": 18099,
+    "text": "When the deer are flying blindly all the open country o'er,"
+  },
+  {
+    "id": "p-f7360c",
+    "offset": 18160,
+    "text": "He can aim and he can hit them; he can steal upon the boar,"
+  },
+  {
+    "id": "p-fddbd5",
+    "offset": 18221,
+    "text": "As it couches in the thicket unaware."
+  },
+  {
+    "id": "p-2e7c79",
+    "offset": 18260,
+    "text": "Bandusia's fount, in clearness crystalline,"
+  },
+  {
+    "id": "p-d08795",
+    "offset": 18305,
+    "text": "O worthy of the wine, the flowers we vow!"
+  },
+  {
+    "id": "p-71d051",
+    "offset": 18348,
+    "text": "Tomorrow shall be thine"
+  },
+  {
+    "id": "p-1faf63",
+    "offset": 18373,
+    "text": "A kid, whose crescent brow"
+  },
+  {
+    "id": "p-076942",
+    "offset": 18401,
+    "text": "Is sprouting all for love and victory."
+  },
+  {
+    "id": "p-5bb0ac",
+    "offset": 18441,
+    "text": "In vain: his warm red blood, so early stirr'd."
+  },
+  {
+    "id": "p-ae43c8",
+    "offset": 18489,
+    "text": "Thy gelid stream shall dye,"
+  },
+  {
+    "id": "p-f6f1ff",
+    "offset": 18518,
+    "text": "Child of the wanton herd."
+  },
+  {
+    "id": "p-4431f6",
+    "offset": 18545,
+    "text": "Thee the fierce Sirian star, to madness fired,"
+  },
+  {
+    "id": "p-9e6bed",
+    "offset": 18593,
+    "text": "Forbears to touch: sweet cool thy waters yield"
+  },
+  {
+    "id": "p-f6aeaa",
+    "offset": 18641,
+    "text": "To ox with ploughing tired,"
+  },
+  {
+    "id": "p-07ff27",
+    "offset": 18670,
+    "text": "And lazy sheep afield."
+  },
+  {
+    "id": "p-457e82",
+    "offset": 18694,
+    "text": "Thou too one day shalt win proud eminence"
+  },
+  {
+    "id": "p-b5ee6a",
+    "offset": 18737,
+    "text": "'Mid honour'd founts, while I the ilex sing"
+  },
+  {
+    "id": "p-0f96de",
+    "offset": 18782,
+    "text": "Crowning the cavern, whence"
+  },
+  {
+    "id": "p-c780b3",
+    "offset": 18811,
+    "text": "Thy babbling wavelets spring."
+  },
+  {
+    "id": "p-cf7701",
+    "offset": 18842,
+    "text": "Our Hercules, they told us, Rome,"
+  },
+  {
+    "id": "p-11a141",
+    "offset": 18877,
+    "text": "Had sought the laurel Death bestows:"
+  },
+  {
+    "id": "p-76a124",
+    "offset": 18915,
+    "text": "Now Glory brings him conqueror home"
+  },
+  {
+    "id": "p-7cfd9c",
+    "offset": 18952,
+    "text": "From Spaniard foes."
+  },
+  {
+    "id": "p-81a66d",
+    "offset": 18973,
+    "text": "Proud of her spouse, the imperial fair"
+  },
+  {
+    "id": "p-64e494",
+    "offset": 19013,
+    "text": "Must thank the gods that shield from death;"
+  },
+  {
+    "id": "p-9a902b",
+    "offset": 19058,
+    "text": "His sister too:—let matrons wear"
+  },
+  {
+    "id": "p-195aaf",
+    "offset": 19092,
+    "text": "The suppliant wreath"
+  },
+  {
+    "id": "p-0e8a82",
+    "offset": 19114,
+    "text": "For daughters and for sons restored:"
+  },
+  {
+    "id": "p-9942fc",
+    "offset": 19152,
+    "text": "Ye youths and damsels newly wed,"
+  },
+  {
+    "id": "p-c1683b",
+    "offset": 19186,
+    "text": "Let decent awe restrain each word"
+  },
+  {
+    "id": "p-6a61f7",
+    "offset": 19221,
+    "text": "Best left unsaid."
+  },
+  {
+    "id": "p-cace2e",
+    "offset": 19240,
+    "text": "This day, true holyday to me,"
+  },
+  {
+    "id": "p-dd91be",
+    "offset": 19271,
+    "text": "Shall banish care: I will not fear"
+  },
+  {
+    "id": "p-fc6b99",
+    "offset": 19307,
+    "text": "Rude broils or bloody death to see,"
+  },
+  {
+    "id": "p-89e79d",
+    "offset": 19344,
+    "text": "While Caesar's here."
+  },
+  {
+    "id": "p-2f223c",
+    "offset": 19366,
+    "text": "Quick, boy, the chaplets and the nard,"
+  },
+  {
+    "id": "p-430c34",
+    "offset": 19406,
+    "text": "And wine, that knew the Marsian war,"
+  },
+  {
+    "id": "p-1bd729",
+    "offset": 19444,
+    "text": "If roving Spartacus have spared"
+  },
+  {
+    "id": "p-9f79d0",
+    "offset": 19477,
+    "text": "A single jar."
+  },
+  {
+    "id": "p-1643bb",
+    "offset": 19492,
+    "text": "And bid Neaera come and trill,"
+  },
+  {
+    "id": "p-9313a2",
+    "offset": 19524,
+    "text": "Her bright locks bound with careless art:"
+  },
+  {
+    "id": "p-84dd2b",
+    "offset": 19567,
+    "text": "If her rough porter cross your will,"
+  },
+  {
+    "id": "p-9d0be1",
+    "offset": 19605,
+    "text": "Why then depart."
+  },
+  {
+    "id": "p-ca369d",
+    "offset": 19623,
+    "text": "Soon palls the taste for noise and fray,"
+  },
+  {
+    "id": "p-a232f0",
+    "offset": 19665,
+    "text": "When hair is white and leaves are sere:"
+  },
+  {
+    "id": "p-a2071c",
+    "offset": 19706,
+    "text": "How had I fired in life's warm May,"
+  },
+  {
+    "id": "p-243128",
+    "offset": 19743,
+    "text": "In Plancus' year!"
+  },
+  {
+    "id": "p-baf797",
+    "offset": 19762,
+    "text": "Wife of Ibycus the poor,"
+  },
+  {
+    "id": "p-eef5f4",
+    "offset": 19788,
+    "text": "Let aged scandals have at length their bound:"
+  },
+  {
+    "id": "p-4d846f",
+    "offset": 19835,
+    "text": "Give your graceless doings o'er,"
+  },
+  {
+    "id": "p-552e5a",
+    "offset": 19869,
+    "text": "Ripe as you are for going underground."
+  },
+  {
+    "id": "p-108b70",
+    "offset": 19909,
+    "text": "You the maidens' dance to lead,"
+  },
+  {
+    "id": "p-e1a28d",
+    "offset": 19942,
+    "text": "And cast your gloom upon those beaming stars!"
+  },
+  {
+    "id": "p-1d7d97",
+    "offset": 19989,
+    "text": "Daughter Pholoe may succeed,"
+  },
+  {
+    "id": "p-8f462c",
+    "offset": 20019,
+    "text": "But mother Chloris what she touches mars."
+  },
+  {
+    "id": "p-5904ce",
+    "offset": 20062,
+    "text": "Young men's homes your daughter storms,"
+  },
+  {
+    "id": "p-77dbf2",
+    "offset": 20103,
+    "text": "Like Thyiad, madden'd by the cymbals' beat:"
+  },
+  {
+    "id": "p-b4a0a7",
+    "offset": 20148,
+    "text": "Nothus' love her bosom warms:"
+  },
+  {
+    "id": "p-1dbc26",
+    "offset": 20179,
+    "text": "She gambols like a fawn with silver feet."
+  },
+  {
+    "id": "p-d40c73",
+    "offset": 20222,
+    "text": "Yours should be the wool that grows"
+  },
+  {
+    "id": "p-1a1d5d",
+    "offset": 20259,
+    "text": "By fair Luceria, not the merry lute:"
+  },
+  {
+    "id": "p-afeec8",
+    "offset": 20297,
+    "text": "Flowers beseem not wither'd brows,."
+  },
+  {
+    "id": "p-7e3fa5",
+    "offset": 20334,
+    "text": "Nor wither'd lips with emptied wine-jars suit."
+  },
+  {
+    "id": "p-3be240",
+    "offset": 20382,
+    "text": "Full well had Danae been secured, in truth,"
+  },
+  {
+    "id": "p-7c17eb",
+    "offset": 20427,
+    "text": "By oaken portals, and a brazen tower,"
+  },
+  {
+    "id": "p-45858c",
+    "offset": 20466,
+    "text": "And savage watch-dogs, from the roving youth"
+  },
+  {
+    "id": "p-91130d",
+    "offset": 20512,
+    "text": "That prowl at midnight's hour:"
+  },
+  {
+    "id": "p-d5799f",
+    "offset": 20544,
+    "text": "But Jove and Venus mock'd with gay disdain"
+  },
+  {
+    "id": "p-8beb51",
+    "offset": 20588,
+    "text": "The jealous warder of that close stronghold:"
+  },
+  {
+    "id": "p-df3174",
+    "offset": 20634,
+    "text": "The way, they knew, must soon be smooth and plain"
+  },
+  {
+    "id": "p-baf07c",
+    "offset": 20685,
+    "text": "When gods could change to gold."
+  },
+  {
+    "id": "p-f25764",
+    "offset": 20718,
+    "text": "Gold, gold can pass the tyrant's sentinel,"
+  },
+  {
+    "id": "p-9e93f9",
+    "offset": 20762,
+    "text": "Can shiver rocks with more resistless blow"
+  },
+  {
+    "id": "p-c954e5",
+    "offset": 20806,
+    "text": "Than is the thunder's. Argos ' prophet fell,"
+  },
+  {
+    "id": "p-00ae42",
+    "offset": 20852,
+    "text": "He and his house laid low,"
+  },
+  {
+    "id": "p-c05297",
+    "offset": 20880,
+    "text": "And all for gain. The man of Macedon"
+  },
+  {
+    "id": "p-6b8ae2",
+    "offset": 20918,
+    "text": "Cleft gates of cities, rival kings o'erthrew"
+  },
+  {
+    "id": "p-9d8c24",
+    "offset": 20964,
+    "text": "By force of gifts: their cunning snares have won"
+  },
+  {
+    "id": "p-7fd14b",
+    "offset": 21014,
+    "text": "Rude captains and their crew."
+  },
+  {
+    "id": "p-dc3b12",
+    "offset": 21045,
+    "text": "As riches grow, care follows: men repine"
+  },
+  {
+    "id": "p-a42af8",
+    "offset": 21087,
+    "text": "And thirst for more. No lofty crest I raise:"
+  },
+  {
+    "id": "p-a4aca8",
+    "offset": 21133,
+    "text": "Wisdom that thought forbids, Maecenas mine,"
+  },
+  {
+    "id": "p-1f8a42",
+    "offset": 21178,
+    "text": "The knightly order's praise."
+  },
+  {
+    "id": "p-832f1a",
+    "offset": 21208,
+    "text": "He that denies himself shall gain the more"
+  },
+  {
+    "id": "p-4b211c",
+    "offset": 21252,
+    "text": "From bounteous Heaven. I strip me of my pride,"
+  },
+  {
+    "id": "p-0f8d2c",
+    "offset": 21300,
+    "text": "Desert the rich man's standard, and pass o'er"
+  },
+  {
+    "id": "p-70809f",
+    "offset": 21347,
+    "text": "To bare Contentment's side,"
+  },
+  {
+    "id": "p-9a05a6",
+    "offset": 21376,
+    "text": "More proud as lord of what the great despise"
+  },
+  {
+    "id": "p-925b4e",
+    "offset": 21422,
+    "text": "Than if the wheat thresh'd on Apulia 's floor"
+  },
+  {
+    "id": "p-1ceb99",
+    "offset": 21469,
+    "text": "I hoarded all in my huge granaries,"
+  },
+  {
+    "id": "p-4a122b",
+    "offset": 21506,
+    "text": "'Mid vast possessions poor."
+  },
+  {
+    "id": "p-1745ea",
+    "offset": 21535,
+    "text": "A clear fresh stream, a little field o'ergrown"
+  },
+  {
+    "id": "p-f0a957",
+    "offset": 21583,
+    "text": "With shady trees, a crop that ne'er deceives,"
+  },
+  {
+    "id": "p-69737f",
+    "offset": 21630,
+    "text": "Pass, though men know it not, their wealth, that own"
+  },
+  {
+    "id": "p-b878bf",
+    "offset": 21684,
+    "text": "All Afric's golden sheaves."
+  },
+  {
+    "id": "p-524c5b",
+    "offset": 21713,
+    "text": "Though no Calabrian bees their honey yield"
+  },
+  {
+    "id": "p-e5f252",
+    "offset": 21757,
+    "text": "For me, nor mellowing sleeps the god of wine"
+  },
+  {
+    "id": "p-3f9d7a",
+    "offset": 21803,
+    "text": "In Formian jar, nor in Gaul 's pasture-field"
+  },
+  {
+    "id": "p-526aa7",
+    "offset": 21849,
+    "text": "The wool grows long and fine,"
+  },
+  {
+    "id": "p-0f30d1",
+    "offset": 21880,
+    "text": "Yet Poverty ne'er comes to break my peace;"
+  },
+  {
+    "id": "p-de4047",
+    "offset": 21924,
+    "text": "If more I craved, you would not more refuse."
+  },
+  {
+    "id": "p-fb7d2a",
+    "offset": 21970,
+    "text": "Desiring less, I better shall increase"
+  },
+  {
+    "id": "p-1c3adf",
+    "offset": 22010,
+    "text": "My tiny revenues,"
+  },
+  {
+    "id": "p-56491f",
+    "offset": 22029,
+    "text": "Than if to Alyattes' wide domains"
+  },
+  {
+    "id": "p-5dbca1",
+    "offset": 22064,
+    "text": "I join'd the realms of Mygdon. Great desires"
+  },
+  {
+    "id": "p-9a6548",
+    "offset": 22110,
+    "text": "Sort with great wants. 'Tis best, when prayer obtains"
+  },
+  {
+    "id": "p-fcf4d6",
+    "offset": 22165,
+    "text": "No more than life requires."
+  },
+  {
+    "id": "p-2b039a",
+    "offset": 22194,
+    "text": "Aelius, of Lamus' ancient name"
+  },
+  {
+    "id": "p-12d7dd",
+    "offset": 22226,
+    "text": "(For since from that high parentage"
+  },
+  {
+    "id": "p-f8757d",
+    "offset": 22263,
+    "text": "The prehistoric Lamias came"
+  },
+  {
+    "id": "p-3dac6b",
+    "offset": 22292,
+    "text": "And all who fill the storied page,"
+  },
+  {
+    "id": "p-a710d9",
+    "offset": 22328,
+    "text": "No doubt you trace your line from him,"
+  },
+  {
+    "id": "p-8d8644",
+    "offset": 22368,
+    "text": "Who stretch'd his sway o'er Formiae,"
+  },
+  {
+    "id": "p-3ebdd1",
+    "offset": 22406,
+    "text": "And Liris, whose still waters swim"
+  },
+  {
+    "id": "p-0d35f6",
+    "offset": 22442,
+    "text": "Whore green Marica skirts the sea,"
+  },
+  {
+    "id": "p-951daa",
+    "offset": 22478,
+    "text": "Lord of broad realms), an eastern gale"
+  },
+  {
+    "id": "p-b07a27",
+    "offset": 22518,
+    "text": "Will blow to-morrow, and bestrew"
+  },
+  {
+    "id": "p-8cd66b",
+    "offset": 22552,
+    "text": "The shore with weeds, with leaves the vale,"
+  },
+  {
+    "id": "p-79ce33",
+    "offset": 22597,
+    "text": "If rain's old prophet tell me true,"
+  },
+  {
+    "id": "p-09fff2",
+    "offset": 22634,
+    "text": "The raven. Gather, while 'tis fine,"
+  },
+  {
+    "id": "p-e89c39",
+    "offset": 22671,
+    "text": "Your wood; tomorrow shall be gay"
+  },
+  {
+    "id": "p-3277b1",
+    "offset": 22705,
+    "text": "With smoking pig and streaming wine,"
+  },
+  {
+    "id": "p-a60e47",
+    "offset": 22743,
+    "text": "And lord and slave keep holyday."
+  },
+  {
+    "id": "p-77d047",
+    "offset": 22777,
+    "text": "O wont the flying Nymphs to woo,"
+  },
+  {
+    "id": "p-40da5e",
+    "offset": 22811,
+    "text": "Good Faunus, through my sunny farm"
+  },
+  {
+    "id": "p-a86e0f",
+    "offset": 22847,
+    "text": "Pass gently, gently pass, nor do"
+  },
+  {
+    "id": "p-dce7d4",
+    "offset": 22881,
+    "text": "My younglings harm."
+  },
+  {
+    "id": "p-8af60f",
+    "offset": 22902,
+    "text": "Each year, thou know'st, a kid must die"
+  },
+  {
+    "id": "p-449bd9",
+    "offset": 22943,
+    "text": "For thee; nor lacks the wine's full stream"
+  },
+  {
+    "id": "p-35902c",
+    "offset": 22987,
+    "text": "To Venus' mate, the bowl; and high"
+  },
+  {
+    "id": "p-52a468",
+    "offset": 23023,
+    "text": "The altars steam."
+  },
+  {
+    "id": "p-1b8f99",
+    "offset": 23042,
+    "text": "Sure as December's Nones appear,"
+  },
+  {
+    "id": "p-da2917",
+    "offset": 23076,
+    "text": "All o'er the grass the cattle play;"
+  },
+  {
+    "id": "p-12dbbb",
+    "offset": 23113,
+    "text": "The village, with the lazy steer,"
+  },
+  {
+    "id": "p-86ab72",
+    "offset": 23148,
+    "text": "Keeps holyday."
+  },
+  {
+    "id": "p-88f006",
+    "offset": 23164,
+    "text": "Wolves rove among the fearless sheep;"
+  },
+  {
+    "id": "p-f62107",
+    "offset": 23203,
+    "text": "The woods for thee their foliage strow;"
+  },
+  {
+    "id": "p-08f7f7",
+    "offset": 23244,
+    "text": "The delver loves on earth to leap,"
+  },
+  {
+    "id": "p-21ae17",
+    "offset": 23280,
+    "text": "His ancient foe."
+  },
+  {
+    "id": "p-7aaf82",
+    "offset": 23298,
+    "text": "What the time from Inachus"
+  },
+  {
+    "id": "p-d7cb32",
+    "offset": 23326,
+    "text": "To Codrus, who in patriot battle fell,"
+  },
+  {
+    "id": "p-77cfb2",
+    "offset": 23366,
+    "text": "Who were sprung from Aeacus,"
+  },
+  {
+    "id": "p-4e8026",
+    "offset": 23396,
+    "text": "And how men fought at Ilion,—this you tell."
+  },
+  {
+    "id": "p-c5dc5f",
+    "offset": 23441,
+    "text": "What the wines of Chios cost,"
+  },
+  {
+    "id": "p-2bc317",
+    "offset": 23472,
+    "text": "Who with due heat our water can allay,"
+  },
+  {
+    "id": "p-e6a9a2",
+    "offset": 23512,
+    "text": "What the hour, and who the host"
+  },
+  {
+    "id": "p-8d67de",
+    "offset": 23545,
+    "text": "To give us house-room,—this you will not say"
+  },
+  {
+    "id": "p-93ea76",
+    "offset": 23591,
+    "text": "Ho, there! wine to moonrise, wine"
+  },
+  {
+    "id": "p-4392b8",
+    "offset": 23626,
+    "text": "To midnight, wine to our new augur too!"
+  },
+  {
+    "id": "p-f41f7f",
+    "offset": 23667,
+    "text": "Nine to three or three to nine,"
+  },
+  {
+    "id": "p-650c61",
+    "offset": 23700,
+    "text": "As each man pleases, makes proportion true."
+  },
+  {
+    "id": "p-33280e",
+    "offset": 23745,
+    "text": "Who the uneven Muses loves,"
+  },
+  {
+    "id": "p-18a70b",
+    "offset": 23774,
+    "text": "Will fire his dizzy brain with three times three;"
+  },
+  {
+    "id": "p-9805c5",
+    "offset": 23825,
+    "text": "Three once told the Grace approves;"
+  },
+  {
+    "id": "p-76d292",
+    "offset": 23862,
+    "text": "She with her two bright sisters, gay and free,"
+  },
+  {
+    "id": "p-159186",
+    "offset": 23910,
+    "text": "Shrinks, as maiden should, from strife:"
+  },
+  {
+    "id": "p-87921c",
+    "offset": 23951,
+    "text": "But I'm for madness. What has dull'd the fire"
+  },
+  {
+    "id": "p-4ef665",
+    "offset": 23998,
+    "text": "Of the Berecyntian fife?"
+  },
+  {
+    "id": "p-a6aca5",
+    "offset": 24024,
+    "text": "Why hangs the flute in silence with the lyre?"
+  },
+  {
+    "id": "p-06740b",
+    "offset": 24071,
+    "text": "Out on niggard-handed boys!"
+  },
+  {
+    "id": "p-9e945f",
+    "offset": 24100,
+    "text": "Rain showers of roses; let old Lycus hear,"
+  },
+  {
+    "id": "p-6b3c5f",
+    "offset": 24144,
+    "text": "Envious churl, our senseless noise,"
+  },
+  {
+    "id": "p-bf0626",
+    "offset": 24181,
+    "text": "And she, our neighbour, his ill-sorted fere."
+  },
+  {
+    "id": "p-912198",
+    "offset": 24227,
+    "text": "You with your bright clustering hair,"
+  },
+  {
+    "id": "p-1fb422",
+    "offset": 24266,
+    "text": "Your beauty, Telephus, like evening's sky,"
+  },
+  {
+    "id": "p-aaeea2",
+    "offset": 24310,
+    "text": "Rhoda loves, as young, as fair;"
+  },
+  {
+    "id": "p-6fae8c",
+    "offset": 24343,
+    "text": "I for my Glycera slowly, slowly die."
+  },
+  {
+    "id": "p-387da1",
+    "offset": 24381,
+    "text": "O born in Manlius' year with me,"
+  },
+  {
+    "id": "p-259346",
+    "offset": 24415,
+    "text": "Whate'er you bring us, plaint or jest,"
+  },
+  {
+    "id": "p-ac2b97",
+    "offset": 24455,
+    "text": "Or passion and wild revelry,"
+  },
+  {
+    "id": "p-46d3b0",
+    "offset": 24485,
+    "text": "Or, like a gentle wine-jar, rest;"
+  },
+  {
+    "id": "p-065829",
+    "offset": 24520,
+    "text": "Howe'er men call your Massic juice,"
+  },
+  {
+    "id": "p-23246a",
+    "offset": 24557,
+    "text": "Its broaching claims a festal day;"
+  },
+  {
+    "id": "p-4f29ef",
+    "offset": 24593,
+    "text": "Come then; Corvinus bids produce"
+  },
+  {
+    "id": "p-fd1844",
+    "offset": 24627,
+    "text": "A mellower wine, and I obey."
+  },
+  {
+    "id": "p-80e353",
+    "offset": 24657,
+    "text": "Though steep'd in all Socratic lore"
+  },
+  {
+    "id": "p-5134b6",
+    "offset": 24694,
+    "text": "He will not slight you; do not fear."
+  },
+  {
+    "id": "p-b25c42",
+    "offset": 24732,
+    "text": "They say old Cato o'er and o'er"
+  },
+  {
+    "id": "p-35bd5c",
+    "offset": 24765,
+    "text": "With wine his honest heart would cheer."
+  },
+  {
+    "id": "p-a423ff",
+    "offset": 24806,
+    "text": "Tough wits to your mild torture yield"
+  },
+  {
+    "id": "p-d13d5f",
+    "offset": 24845,
+    "text": "Their treasures; you unlock the soul"
+  },
+  {
+    "id": "p-06c720",
+    "offset": 24883,
+    "text": "Of wisdom and its stores conceal'd,"
+  },
+  {
+    "id": "p-75171f",
+    "offset": 24920,
+    "text": "Arm'd with Lyaeus' kind control."
+  },
+  {
+    "id": "p-0bd9f3",
+    "offset": 24954,
+    "text": "'Tis yours the drooping heart to heal;"
+  },
+  {
+    "id": "p-e22b13",
+    "offset": 24994,
+    "text": "Your strength uplifts the poor man's horn;"
+  },
+  {
+    "id": "p-204cb7",
+    "offset": 25038,
+    "text": "Inspired by you, the soldier's steel,"
+  },
+  {
+    "id": "p-dfc8dc",
+    "offset": 25077,
+    "text": "The monarch's crown, he laughs to scorn,"
+  },
+  {
+    "id": "p-0b707d",
+    "offset": 25119,
+    "text": "Liber and Venus, wills she so,"
+  },
+  {
+    "id": "p-3157b8",
+    "offset": 25151,
+    "text": "And sister Graces, ne'er unknit,"
+  },
+  {
+    "id": "p-07020b",
+    "offset": 25185,
+    "text": "And living lamps shall see you flow"
+  },
+  {
+    "id": "p-afbe72",
+    "offset": 25222,
+    "text": "Till stars before the sunrise flit."
+  },
+  {
+    "id": "p-682034",
+    "offset": 25259,
+    "text": "Guardian of hill and woodland, Maid,"
+  },
+  {
+    "id": "p-e668c1",
+    "offset": 25297,
+    "text": "Who to young wives in childbirth's hour"
+  },
+  {
+    "id": "p-3419ba",
+    "offset": 25338,
+    "text": "Thrice call'd, vouchsafest sovereign aid,"
+  },
+  {
+    "id": "p-3a06fb",
+    "offset": 25381,
+    "text": "O three-form'd power!"
+  },
+  {
+    "id": "p-5d8bcb",
+    "offset": 25404,
+    "text": "This pine that shades my cot be thine;"
+  },
+  {
+    "id": "p-35acac",
+    "offset": 25444,
+    "text": "Here will I slay, as years come round,"
+  },
+  {
+    "id": "p-138727",
+    "offset": 25484,
+    "text": "A youngling boar, whose tusks design"
+  },
+  {
+    "id": "p-62a190",
+    "offset": 25522,
+    "text": "The side-long wound."
+  },
+  {
+    "id": "p-022fb7",
+    "offset": 25544,
+    "text": "If, Phidyle, your hands you lift"
+  },
+  {
+    "id": "p-243b4d",
+    "offset": 25578,
+    "text": "To heaven, as each new moon is born,"
+  },
+  {
+    "id": "p-98f44d",
+    "offset": 25616,
+    "text": "Soothing your Lares with the gift"
+  },
+  {
+    "id": "p-775793",
+    "offset": 25651,
+    "text": "Of slaughter'd swine, and spice, and corn,"
+  },
+  {
+    "id": "p-b4d59b",
+    "offset": 25695,
+    "text": "Ne'er shall Scirocco's bane assail"
+  },
+  {
+    "id": "p-b58566",
+    "offset": 25731,
+    "text": "Your vines, nor mildew blast your wheat."
+  },
+  {
+    "id": "p-976af4",
+    "offset": 25773,
+    "text": "Ne'er shall your tender younglings fail"
+  },
+  {
+    "id": "p-fe08cc",
+    "offset": 25814,
+    "text": "In autumn, when the fruits are sweet."
+  },
+  {
+    "id": "p-69305c",
+    "offset": 25853,
+    "text": "The destined victim 'mid the snows"
+  },
+  {
+    "id": "p-772ec3",
+    "offset": 25889,
+    "text": "Of Algidus in oakwoods fed,"
+  },
+  {
+    "id": "p-e18d18",
+    "offset": 25918,
+    "text": "Or where the Alban herbage grows,"
+  },
+  {
+    "id": "p-20c71f",
+    "offset": 25953,
+    "text": "Shall dye the pontiff's axes red;"
+  },
+  {
+    "id": "p-d2b392",
+    "offset": 25988,
+    "text": "No need of butcher'd sheep for you"
+  },
+  {
+    "id": "p-c47194",
+    "offset": 26024,
+    "text": "To make your homely prayers prevail;"
+  },
+  {
+    "id": "p-685a4e",
+    "offset": 26062,
+    "text": "Give but your little gods their due,"
+  },
+  {
+    "id": "p-8c950a",
+    "offset": 26100,
+    "text": "The rosemary twined with myrtle frail."
+  },
+  {
+    "id": "p-ac3ffa",
+    "offset": 26140,
+    "text": "The sprinkled salt, the votive meal,"
+  },
+  {
+    "id": "p-3735af",
+    "offset": 26178,
+    "text": "As soon their favour will regain,"
+  },
+  {
+    "id": "p-45f615",
+    "offset": 26213,
+    "text": "Let but the hand be pure and leal,"
+  },
+  {
+    "id": "p-51e629",
+    "offset": 26249,
+    "text": "As all the pomp of heifers slain."
+  },
+  {
+    "id": "p-7e23ee",
+    "offset": 26284,
+    "text": "Though your buried wealth surpass"
+  },
+  {
+    "id": "p-b0a3cc",
+    "offset": 26319,
+    "text": "The unsunn'd gold of Ind or Araby,"
+  },
+  {
+    "id": "p-460be3",
+    "offset": 26355,
+    "text": "Though with many a ponderous mass"
+  },
+  {
+    "id": "p-b619c6",
+    "offset": 26390,
+    "text": "You crowd the Tuscan and Apulian sea,"
+  },
+  {
+    "id": "p-de7ada",
+    "offset": 26429,
+    "text": "Let Necessity but drive"
+  },
+  {
+    "id": "p-2769b4",
+    "offset": 26454,
+    "text": "Her wedge of adamant into that proud head,"
+  },
+  {
+    "id": "p-feb0e1",
+    "offset": 26498,
+    "text": "Vainly battling will you strive"
+  },
+  {
+    "id": "p-ed79f3",
+    "offset": 26531,
+    "text": "To 'scape Death's noose, or rid your soul of dread."
+  },
+  {
+    "id": "p-731fa2",
+    "offset": 26584,
+    "text": "Better life the Scythians lead,"
+  },
+  {
+    "id": "p-bea6a1",
+    "offset": 26617,
+    "text": "Trailing on waggon wheels their wandering home,"
+  },
+  {
+    "id": "p-234a96",
+    "offset": 26666,
+    "text": "Or the hardy Getan breed,"
+  },
+  {
+    "id": "p-11a0bd",
+    "offset": 26693,
+    "text": "As o'er their vast unmeasured steppes they roam;"
+  },
+  {
+    "id": "p-1b3060",
+    "offset": 26743,
+    "text": "Free the crops that bless their soil;"
+  },
+  {
+    "id": "p-2b4348",
+    "offset": 26782,
+    "text": "Their tillage wearies after one year's space;"
+  },
+  {
+    "id": "p-31387f",
+    "offset": 26829,
+    "text": "Each in turn fulfils his toil;"
+  },
+  {
+    "id": "p-b75c5c",
+    "offset": 26861,
+    "text": "His period o'er, another takes his place."
+  },
+  {
+    "id": "p-cf6d0c",
+    "offset": 26904,
+    "text": "There the step-dame keeps her hand"
+  },
+  {
+    "id": "p-b10206",
+    "offset": 26940,
+    "text": "From guilty plots, from blood of orphans clean;"
+  },
+  {
+    "id": "p-0eb472",
+    "offset": 26989,
+    "text": "There no downed wives command"
+  },
+  {
+    "id": "p-e25c61",
+    "offset": 27020,
+    "text": "Their feeble lords, or on adulterers lean."
+  },
+  {
+    "id": "p-3819d5",
+    "offset": 27064,
+    "text": "Theirs are dowries not of gold,"
+  },
+  {
+    "id": "p-198608",
+    "offset": 27097,
+    "text": "Their parents' worth, their own pure chastity,"
+  },
+  {
+    "id": "p-bf329e",
+    "offset": 27145,
+    "text": "True to one, to others cold;"
+  },
+  {
+    "id": "p-01dfdd",
+    "offset": 27175,
+    "text": "They dare not sin, or, if they dare, they die."
+  },
+  {
+    "id": "p-1e9504",
+    "offset": 27223,
+    "text": "O, whoe'er has heart and head"
+  },
+  {
+    "id": "p-3ad54d",
+    "offset": 27254,
+    "text": "To stay our plague of blood, our civic brawls,"
+  },
+  {
+    "id": "p-5c1493",
+    "offset": 27302,
+    "text": "Would he that his name be read"
+  },
+  {
+    "id": "p-e3d271",
+    "offset": 27334,
+    "text": "“Father of Rome” on lofty pedestals,"
+  },
+  {
+    "id": "p-8b471d",
+    "offset": 27372,
+    "text": "Let him chain this lawless will,"
+  },
+  {
+    "id": "p-c727ce",
+    "offset": 27406,
+    "text": "And be our children's hero! cursed spite!"
+  },
+  {
+    "id": "p-40f651",
+    "offset": 27449,
+    "text": "Living worth we envy still,"
+  },
+  {
+    "id": "p-3cd9c1",
+    "offset": 27478,
+    "text": "Then seek it with strain'd eyes, when snatch'd from sight."
+  },
+  {
+    "id": "p-251338",
+    "offset": 27538,
+    "text": "What can sad laments avail"
+  },
+  {
+    "id": "p-b15bf0",
+    "offset": 27566,
+    "text": "Unless sharp justice kill the taint of sin?"
+  },
+  {
+    "id": "p-17eec7",
+    "offset": 27611,
+    "text": "What can laws, that needs must fail"
+  },
+  {
+    "id": "p-786472",
+    "offset": 27648,
+    "text": "Shorn of the aid of manners form'd within,"
+  },
+  {
+    "id": "p-72efc4",
+    "offset": 27692,
+    "text": "If the merchant turns not back"
+  },
+  {
+    "id": "p-c3713f",
+    "offset": 27724,
+    "text": "From the fierce heats that round the tropic glow,"
+  },
+  {
+    "id": "p-171974",
+    "offset": 27775,
+    "text": "Turns not from the regions black"
+  },
+  {
+    "id": "p-380f1b",
+    "offset": 27809,
+    "text": "With northern winds, and hard with frozen snow;"
+  },
+  {
+    "id": "p-a0ceff",
+    "offset": 27858,
+    "text": "Sailors override the wave,"
+  },
+  {
+    "id": "p-db99e6",
+    "offset": 27886,
+    "text": "While guilty poverty, more fear'd than vice."
+  },
+  {
+    "id": "p-fa067d",
+    "offset": 27932,
+    "text": "Bids us crime and suffering brave,"
+  },
+  {
+    "id": "p-5a680c",
+    "offset": 27968,
+    "text": "And shuns the ascent of virtue's precipice?"
+  },
+  {
+    "id": "p-6e38a4",
+    "offset": 28013,
+    "text": "Let the Capitolian fane,"
+  },
+  {
+    "id": "p-e0b45b",
+    "offset": 28039,
+    "text": "The favour'd goal of yon vociferous crowd,"
+  },
+  {
+    "id": "p-279af8",
+    "offset": 28083,
+    "text": "Aye, or let the nearest main"
+  },
+  {
+    "id": "p-6ad98f",
+    "offset": 28113,
+    "text": "Receive our gold, our jewels rich and proud:"
+  },
+  {
+    "id": "p-d8baef",
+    "offset": 28159,
+    "text": "Slay we thus the cause of crime,"
+  },
+  {
+    "id": "p-fe8fae",
+    "offset": 28193,
+    "text": "If yet we would repent and choose the good:"
+  },
+  {
+    "id": "p-64d98a",
+    "offset": 28238,
+    "text": "Ours the task to take in time"
+  },
+  {
+    "id": "p-934797",
+    "offset": 28269,
+    "text": "This baleful lust, and crush it in the bud."
+  },
+  {
+    "id": "p-eb15c6",
+    "offset": 28314,
+    "text": "Ours to mould our weakling sons"
+  },
+  {
+    "id": "p-e237f8",
+    "offset": 28347,
+    "text": "To nobler sentiment and manlier deed:"
+  },
+  {
+    "id": "p-937e33",
+    "offset": 28386,
+    "text": "Now the noble's first-born shuns"
+  },
+  {
+    "id": "p-411102",
+    "offset": 28420,
+    "text": "The perilous chase, nor learns to sit his steed:"
+  },
+  {
+    "id": "p-12a188",
+    "offset": 28470,
+    "text": "Set him to the unlawful dice,"
+  },
+  {
+    "id": "p-956b39",
+    "offset": 28501,
+    "text": "Or Grecian hoop, how skilfully he plays!"
+  },
+  {
+    "id": "p-73944d",
+    "offset": 28543,
+    "text": "While his sire, mature in vice,"
+  },
+  {
+    "id": "p-b3b2a1",
+    "offset": 28576,
+    "text": "A friend, a partner, or a guest betrays,"
+  },
+  {
+    "id": "p-c3cda6",
+    "offset": 28618,
+    "text": "Hurrying, for an heir so base,"
+  },
+  {
+    "id": "p-271bbd",
+    "offset": 28650,
+    "text": "To gather riches. Money, root of ill,"
+  },
+  {
+    "id": "p-9113fb",
+    "offset": 28689,
+    "text": "Doubt it not, still grows apace:"
+  },
+  {
+    "id": "p-348f18",
+    "offset": 28723,
+    "text": "Yet the scant heap has somewhat lacking still."
+  },
+  {
+    "id": "p-fde9a3",
+    "offset": 28771,
+    "text": "Whither, Bacchus, tear'st thou me."
+  },
+  {
+    "id": "p-af8918",
+    "offset": 28807,
+    "text": "FiIl'd with thy strength? What dens, what forests these,"
+  },
+  {
+    "id": "p-dbc319",
+    "offset": 28865,
+    "text": "Thus in wildering race I see?"
+  },
+  {
+    "id": "p-28c7df",
+    "offset": 28896,
+    "text": "What cave shall hearken to my melodies,"
+  },
+  {
+    "id": "p-f6d85b",
+    "offset": 28937,
+    "text": "Tuned to tell of Caesar's praise"
+  },
+  {
+    "id": "p-b241eb",
+    "offset": 28971,
+    "text": "And throne him high the heavenly ranks among?"
+  },
+  {
+    "id": "p-5aa6d9",
+    "offset": 29018,
+    "text": "Sweet and strange shall be my lays,"
+  },
+  {
+    "id": "p-aa0c17",
+    "offset": 29055,
+    "text": "A tale till now by poet voice unsung."
+  },
+  {
+    "id": "p-c62705",
+    "offset": 29094,
+    "text": "As the Evian on the height,"
+  },
+  {
+    "id": "p-870a02",
+    "offset": 29123,
+    "text": "Roused from her sleep, looks wonderingly abroad,"
+  },
+  {
+    "id": "p-4f20a4",
+    "offset": 29173,
+    "text": "Looks on Thrace with snow-drifts white,"
+  },
+  {
+    "id": "p-193066",
+    "offset": 29214,
+    "text": "And Rhodope by barbarous footstep trod,"
+  },
+  {
+    "id": "p-a70d9c",
+    "offset": 29255,
+    "text": "So my truant eyes admire"
+  },
+  {
+    "id": "p-ee4cb1",
+    "offset": 29281,
+    "text": "The banks, the desolate forests. O great King"
+  },
+  {
+    "id": "p-5619da",
+    "offset": 29328,
+    "text": "Who the Naiads dost inspire,"
+  },
+  {
+    "id": "p-e88c20",
+    "offset": 29358,
+    "text": "And Bacchants, strong from earth huge trees to wring!"
+  },
+  {
+    "id": "p-9c44bc",
+    "offset": 29413,
+    "text": "Not a lowly strain is mine,"
+  },
+  {
+    "id": "p-d6b595",
+    "offset": 29442,
+    "text": "No mere man's utterance. O, 'tis venture sweet"
+  },
+  {
+    "id": "p-1281a5",
+    "offset": 29490,
+    "text": "Thee to follow, God of wine,"
+  },
+  {
+    "id": "p-e463d7",
+    "offset": 29520,
+    "text": "Making the vine-branch round thy temples meet!"
+  },
+  {
+    "id": "p-a04a79",
+    "offset": 29568,
+    "text": "For ladies' love I late was fit,"
+  },
+  {
+    "id": "p-9faf5d",
+    "offset": 29602,
+    "text": "And good success my warfare blest,"
+  },
+  {
+    "id": "p-4907f2",
+    "offset": 29638,
+    "text": "But now my arms, my lyre I quit,"
+  },
+  {
+    "id": "p-0a746e",
+    "offset": 29672,
+    "text": "And hang them up to rust or rest."
+  },
+  {
+    "id": "p-9e9a63",
+    "offset": 29707,
+    "text": "Here, where arising from the sea"
+  },
+  {
+    "id": "p-265db8",
+    "offset": 29741,
+    "text": "Stands Venus, lay the load at last,"
+  },
+  {
+    "id": "p-074c66",
+    "offset": 29778,
+    "text": "Links, crowbars, and artillery,"
+  },
+  {
+    "id": "p-19b90f",
+    "offset": 29811,
+    "text": "Threatening all doors that dared be fast."
+  },
+  {
+    "id": "p-bd2a68",
+    "offset": 29854,
+    "text": "O Goddess! Cyprus owns thy sway,"
+  },
+  {
+    "id": "p-1f7ec2",
+    "offset": 29888,
+    "text": "And Memphis, far from Thracian snow;"
+  },
+  {
+    "id": "p-0027a3",
+    "offset": 29926,
+    "text": "Raise high thy lash, and deal me, pray,"
+  },
+  {
+    "id": "p-46efda",
+    "offset": 29967,
+    "text": "That haughty Chloe just one blow!"
+  },
+  {
+    "id": "p-680a9e",
+    "offset": 30002,
+    "text": "When guilt goes forth, let lapwings shrill,"
+  },
+  {
+    "id": "p-71340f",
+    "offset": 30047,
+    "text": "And dogs and foxes great with young,"
+  },
+  {
+    "id": "p-959aab",
+    "offset": 30085,
+    "text": "And wolves from far Lanuvian hill,"
+  },
+  {
+    "id": "p-757d34",
+    "offset": 30121,
+    "text": "Give clamorous tongue:"
+  },
+  {
+    "id": "p-d35472",
+    "offset": 30145,
+    "text": "Across the roadway dart the snake,"
+  },
+  {
+    "id": "p-3886c7",
+    "offset": 30181,
+    "text": "Frightening, like arrow loosed from string,"
+  },
+  {
+    "id": "p-ee8a23",
+    "offset": 30226,
+    "text": "The horses. I, for friendship's sake,"
+  },
+  {
+    "id": "p-1dfcff",
+    "offset": 30265,
+    "text": "Watching each wing,"
+  },
+  {
+    "id": "p-64d013",
+    "offset": 30286,
+    "text": "Ere to his haunt, the stagnant marsh,"
+  },
+  {
+    "id": "p-eac82c",
+    "offset": 30325,
+    "text": "The harbinger of tempest flies,"
+  },
+  {
+    "id": "p-5eaec8",
+    "offset": 30358,
+    "text": "Will call the raven, croaking harsh,"
+  },
+  {
+    "id": "p-4ca5a7",
+    "offset": 30396,
+    "text": "From eastern skies."
+  },
+  {
+    "id": "p-74064c",
+    "offset": 30417,
+    "text": "Farewell!—and wheresoe'er you go,"
+  },
+  {
+    "id": "p-902029",
+    "offset": 30452,
+    "text": "My Galatea, think of me:"
+  },
+  {
+    "id": "p-9e4b08",
+    "offset": 30478,
+    "text": "Let lefthand pie and roving crow"
+  },
+  {
+    "id": "p-26928b",
+    "offset": 30512,
+    "text": "Still leave you free."
+  },
+  {
+    "id": "p-e1a70d",
+    "offset": 30535,
+    "text": "But mark with what a front of fear"
+  },
+  {
+    "id": "p-373230",
+    "offset": 30571,
+    "text": "Orion lowers. Ah! well I know"
+  },
+  {
+    "id": "p-9106fa",
+    "offset": 30602,
+    "text": "How Hadria glooms, how falsely clear"
+  },
+  {
+    "id": "p-84847e",
+    "offset": 30640,
+    "text": "The west-winds blow."
+  },
+  {
+    "id": "p-01632c",
+    "offset": 30662,
+    "text": "Let foemen's wives and children feel"
+  },
+  {
+    "id": "p-462ba8",
+    "offset": 30700,
+    "text": "The gathering south-wind's angry roar,"
+  },
+  {
+    "id": "p-3281ae",
+    "offset": 30740,
+    "text": "The black wave's crash, the thunder-peal,"
+  },
+  {
+    "id": "p-cd87d1",
+    "offset": 30783,
+    "text": "The quivering shore."
+  },
+  {
+    "id": "p-f6c855",
+    "offset": 30805,
+    "text": "So to the bull Europa gave"
+  },
+  {
+    "id": "p-634712",
+    "offset": 30833,
+    "text": "Her beauteous form, and when she saw"
+  },
+  {
+    "id": "p-3a58cb",
+    "offset": 30871,
+    "text": "The monstrous deep, the yawning grave,"
+  },
+  {
+    "id": "p-1a3fe7",
+    "offset": 30911,
+    "text": "Grew pale with awe."
+  },
+  {
+    "id": "p-bea488",
+    "offset": 30932,
+    "text": "That morn of meadow-flowers she thought,"
+  },
+  {
+    "id": "p-085518",
+    "offset": 30974,
+    "text": "Weaving a crown the nymphs to please:"
+  },
+  {
+    "id": "p-214e69",
+    "offset": 31013,
+    "text": "That gloomy night she look'd on nought"
+  },
+  {
+    "id": "p-ac5272",
+    "offset": 31053,
+    "text": "But stars and seas."
+  },
+  {
+    "id": "p-d30e21",
+    "offset": 31074,
+    "text": "Then, as in hundred-citied Crete"
+  },
+  {
+    "id": "p-d7ca83",
+    "offset": 31108,
+    "text": "She landed,—“O my sire!” she said,"
+  },
+  {
+    "id": "p-3fa89b",
+    "offset": 31144,
+    "text": "“O childly duty! passion's heat"
+  },
+  {
+    "id": "p-58adb9",
+    "offset": 31177,
+    "text": "Has struck thee dead."
+  },
+  {
+    "id": "p-71d57d",
+    "offset": 31200,
+    "text": "Whence came I? death, for maiden's shame,"
+  },
+  {
+    "id": "p-39bd76",
+    "offset": 31243,
+    "text": "Were little. Do I wake to weep"
+  },
+  {
+    "id": "p-72316e",
+    "offset": 31275,
+    "text": "My sin? or am I pure of blame,"
+  },
+  {
+    "id": "p-0ce163",
+    "offset": 31307,
+    "text": "And is it sleep"
+  },
+  {
+    "id": "p-6f6c21",
+    "offset": 31324,
+    "text": "From dreamland brings a form to trick"
+  },
+  {
+    "id": "p-c364ea",
+    "offset": 31363,
+    "text": "My senses? Which was best? to go"
+  },
+  {
+    "id": "p-ba7dfa",
+    "offset": 31397,
+    "text": "Over the long, long waves, or pick"
+  },
+  {
+    "id": "p-90733b",
+    "offset": 31433,
+    "text": "The flowers in blow?"
+  },
+  {
+    "id": "p-3ae4cf",
+    "offset": 31455,
+    "text": "O, were that monster made my prize,"
+  },
+  {
+    "id": "p-c1ad06",
+    "offset": 31492,
+    "text": "How would I strive to wound that brow,"
+  },
+  {
+    "id": "p-9a6eae",
+    "offset": 31532,
+    "text": "How tear those horns, my frantic eyes"
+  },
+  {
+    "id": "p-fb05b8",
+    "offset": 31571,
+    "text": "Adored but now!"
+  },
+  {
+    "id": "p-d0b9a7",
+    "offset": 31588,
+    "text": "Shameless I left my father's home;"
+  },
+  {
+    "id": "p-04be4c",
+    "offset": 31624,
+    "text": "Shameless I cheat the expectant grave;"
+  },
+  {
+    "id": "p-235567",
+    "offset": 31664,
+    "text": "O heaven, that naked I might roam"
+  },
+  {
+    "id": "p-7065e9",
+    "offset": 31699,
+    "text": "In lions' cave!"
+  },
+  {
+    "id": "p-d0879f",
+    "offset": 31716,
+    "text": "Now, ere decay my bloom devour"
+  },
+  {
+    "id": "p-8426d7",
+    "offset": 31748,
+    "text": "Or thin the richness of my blood,"
+  },
+  {
+    "id": "p-ed2ba6",
+    "offset": 31783,
+    "text": "Fain would I fall in youth's first flower,"
+  },
+  {
+    "id": "p-1b7727",
+    "offset": 31827,
+    "text": "The tigers' food."
+  },
+  {
+    "id": "p-e0c348",
+    "offset": 31846,
+    "text": "Hark! 'tis my father—‘Worthless one!"
+  },
+  {
+    "id": "p-b7d4f7",
+    "offset": 31884,
+    "text": "What, yet alive? the oak is nigh."
+  },
+  {
+    "id": "p-d2783a",
+    "offset": 31919,
+    "text": "'Twas well you kept your maiden zone,"
+  },
+  {
+    "id": "p-0f7358",
+    "offset": 31958,
+    "text": "The noose to tie."
+  },
+  {
+    "id": "p-0817c3",
+    "offset": 31977,
+    "text": "Or if your choice be that rude pike,"
+  },
+  {
+    "id": "p-8e7cc5",
+    "offset": 32015,
+    "text": "New barb'd with death, leap down and ask"
+  },
+  {
+    "id": "p-19df64",
+    "offset": 32057,
+    "text": "The wind to bear you. Would you like"
+  },
+  {
+    "id": "p-fedbb5",
+    "offset": 32095,
+    "text": "The bondmaid's task,"
+  },
+  {
+    "id": "p-b7d526",
+    "offset": 32117,
+    "text": "You, child of kings, a master's toy,"
+  },
+  {
+    "id": "p-67d21e",
+    "offset": 32155,
+    "text": "A mistress' slave?’” Beside her, lo!"
+  },
+  {
+    "id": "p-c3eec3",
+    "offset": 32193,
+    "text": "Stood Venus smiling, and her boy"
+  },
+  {
+    "id": "p-acf074",
+    "offset": 32227,
+    "text": "With unstrung bow."
+  },
+  {
+    "id": "p-fc6229",
+    "offset": 32247,
+    "text": "Then, when her laughter ceased, “Have done"
+  },
+  {
+    "id": "p-c9d204",
+    "offset": 32291,
+    "text": "With fume and fret,” she cried, “my fair;"
+  },
+  {
+    "id": "p-87fd08",
+    "offset": 32334,
+    "text": "That odious bull will give you soon"
+  },
+  {
+    "id": "p-23ffba",
+    "offset": 32371,
+    "text": "His horns to tear."
+  },
+  {
+    "id": "p-b594de",
+    "offset": 32391,
+    "text": "You know not you are Jove's own dame:"
+  },
+  {
+    "id": "p-1b8367",
+    "offset": 32430,
+    "text": "Away with sobbing; be resign'd"
+  },
+  {
+    "id": "p-9e3d82",
+    "offset": 32462,
+    "text": "To greatness: you shall give your name"
+  },
+  {
+    "id": "p-7f1bbf",
+    "offset": 32502,
+    "text": "To half mankind.”"
+  },
+  {
+    "id": "p-fb3bbf",
+    "offset": 32521,
+    "text": "Neptune's feast-day! what should man"
+  },
+  {
+    "id": "p-dce196",
+    "offset": 32559,
+    "text": "Think first of doing? Lyde mine, be bold,"
+  },
+  {
+    "id": "p-fa720b",
+    "offset": 32602,
+    "text": "Broach the treasured Caecuban,"
+  },
+  {
+    "id": "p-f384c5",
+    "offset": 32634,
+    "text": "And batter Wisdom in her own stronghold."
+  },
+  {
+    "id": "p-2758ff",
+    "offset": 32676,
+    "text": "Now the noon has pass'd the full,"
+  },
+  {
+    "id": "p-9c300a",
+    "offset": 32711,
+    "text": "Yet sure you deem swift Time has made a halt,"
+  },
+  {
+    "id": "p-3f0b0c",
+    "offset": 32758,
+    "text": "Tardy as you are to pull"
+  },
+  {
+    "id": "p-61b195",
+    "offset": 32784,
+    "text": "Old Bibulus' wine-jar from its sleepy vault."
+  },
+  {
+    "id": "p-e7ade0",
+    "offset": 32830,
+    "text": "I will take my turn and sing"
+  },
+  {
+    "id": "p-e82e5e",
+    "offset": 32860,
+    "text": "Neptune and Nereus' train with locks of green;"
+  },
+  {
+    "id": "p-43fd39",
+    "offset": 32908,
+    "text": "You shall warble to the string"
+  },
+  {
+    "id": "p-8a5b65",
+    "offset": 32940,
+    "text": "Latona and her Cynthia 's arrowy sheen."
+  },
+  {
+    "id": "p-a0590c",
+    "offset": 32981,
+    "text": "Hers our latest song, who sways"
+  },
+  {
+    "id": "p-e3951b",
+    "offset": 33014,
+    "text": "Cnidos and Cyclads, and to Paphos goes"
+  },
+  {
+    "id": "p-130cf5",
+    "offset": 33054,
+    "text": "With her swans, on holydays;"
+  },
+  {
+    "id": "p-a1f300",
+    "offset": 33084,
+    "text": "Night too shall claim the homage music owes."
+  },
+  {
+    "id": "p-6316e3",
+    "offset": 33130,
+    "text": "Heir of Tyrrhenian kings, for you"
+  },
+  {
+    "id": "p-1e74ea",
+    "offset": 33165,
+    "text": "A mellow cask, unbroach'd as yet,"
+  },
+  {
+    "id": "p-593b09",
+    "offset": 33200,
+    "text": "Maecenas mine, and roses new,"
+  },
+  {
+    "id": "p-2d2d8f",
+    "offset": 33231,
+    "text": "And fresh-drawn oil your locks to wet,"
+  },
+  {
+    "id": "p-640d05",
+    "offset": 33271,
+    "text": "Are waiting here. Delay not still,"
+  },
+  {
+    "id": "p-4431a7",
+    "offset": 33307,
+    "text": "Nor gaze on Tibur, never dried,"
+  },
+  {
+    "id": "p-26c501",
+    "offset": 33340,
+    "text": "And sloping Aesule, and the hill"
+  },
+  {
+    "id": "p-d3fee3",
+    "offset": 33374,
+    "text": "Of Telegon the parricide."
+  },
+  {
+    "id": "p-ec33d9",
+    "offset": 33401,
+    "text": "O leave that pomp that can but tire,"
+  },
+  {
+    "id": "p-9ff189",
+    "offset": 33439,
+    "text": "Those piles, among the clouds at home;"
+  },
+  {
+    "id": "p-0207c3",
+    "offset": 33479,
+    "text": "Cease for a moment to admire"
+  },
+  {
+    "id": "p-07321b",
+    "offset": 33509,
+    "text": "The smoke, the wealth, the noise of Rome!"
+  },
+  {
+    "id": "p-37819e",
+    "offset": 33552,
+    "text": "In change e'en luxury finds a zest:"
+  },
+  {
+    "id": "p-b5c18d",
+    "offset": 33589,
+    "text": "The poor man's supper, neat, but spare,"
+  },
+  {
+    "id": "p-cdc97b",
+    "offset": 33630,
+    "text": "With no gay couch to seat the guest,"
+  },
+  {
+    "id": "p-34f3ea",
+    "offset": 33668,
+    "text": "Has smooth'd the rugged brow of care."
+  },
+  {
+    "id": "p-9bff09",
+    "offset": 33707,
+    "text": "Now glows the Ethiop maiden's sire;"
+  },
+  {
+    "id": "p-e005c9",
+    "offset": 33744,
+    "text": "Now Procyon rages all ablaze;"
+  },
+  {
+    "id": "p-bc6088",
+    "offset": 33775,
+    "text": "The Lion maddens in his ire,"
+  },
+  {
+    "id": "p-187aa2",
+    "offset": 33805,
+    "text": "As suns bring back the sultry days:"
+  },
+  {
+    "id": "p-f4c22a",
+    "offset": 33842,
+    "text": "The shepherd with his weary sheep"
+  },
+  {
+    "id": "p-affbc7",
+    "offset": 33877,
+    "text": "Seeks out the streamlet and the trees,"
+  },
+  {
+    "id": "p-692ca5",
+    "offset": 33917,
+    "text": "Silvanus' lair: the still banks sleep"
+  },
+  {
+    "id": "p-386dde",
+    "offset": 33956,
+    "text": "Untroubled by the wandering breeze."
+  },
+  {
+    "id": "p-64a012",
+    "offset": 33993,
+    "text": "You ponder on imperial schemes,"
+  },
+  {
+    "id": "p-32e9a6",
+    "offset": 34026,
+    "text": "And o'er the city's danger brood:"
+  },
+  {
+    "id": "p-7d7559",
+    "offset": 34061,
+    "text": "Bactrian and Serian haunt your dreams,"
+  },
+  {
+    "id": "p-9c8f3d",
+    "offset": 34101,
+    "text": "And Tanais, toss'd by inward feud."
+  },
+  {
+    "id": "p-480a07",
+    "offset": 34137,
+    "text": "The issue of the time to be"
+  },
+  {
+    "id": "p-be685e",
+    "offset": 34166,
+    "text": "Heaven wisely hides in blackest night,"
+  },
+  {
+    "id": "p-9364b3",
+    "offset": 34206,
+    "text": "And laughs, should man's anxiety"
+  },
+  {
+    "id": "p-5936f3",
+    "offset": 34240,
+    "text": "Transgress the bounds of man's short sight."
+  },
+  {
+    "id": "p-e530bc",
+    "offset": 34285,
+    "text": "Control the present: all beside"
+  },
+  {
+    "id": "p-86cd63",
+    "offset": 34318,
+    "text": "Flows like a river seaward borne,"
+  },
+  {
+    "id": "p-5977d6",
+    "offset": 34353,
+    "text": "Now rolling on its placid tide,"
+  },
+  {
+    "id": "p-43b8f7",
+    "offset": 34386,
+    "text": "Now whirling massy trunks uptorn,"
+  },
+  {
+    "id": "p-20e212",
+    "offset": 34421,
+    "text": "And waveworn crags, and farms, and stock,"
+  },
+  {
+    "id": "p-6f016a",
+    "offset": 34464,
+    "text": "In chaos blent, while hill and wood"
+  },
+  {
+    "id": "p-8ab688",
+    "offset": 34501,
+    "text": "Reverberate to the enormous shock,"
+  },
+  {
+    "id": "p-0a0743",
+    "offset": 34537,
+    "text": "When savage rains the tranquil flood"
+  },
+  {
+    "id": "p-74cf70",
+    "offset": 34575,
+    "text": "Have stirr'd to madness. Happy he,"
+  },
+  {
+    "id": "p-f249c3",
+    "offset": 34611,
+    "text": "Self-centred, who each night can say,"
+  },
+  {
+    "id": "p-12b8ba",
+    "offset": 34650,
+    "text": "“My life is lived: the morn may see"
+  },
+  {
+    "id": "p-6194b3",
+    "offset": 34687,
+    "text": "A clouded or a sunny day:"
+  },
+  {
+    "id": "p-81f6ed",
+    "offset": 34714,
+    "text": "That rests with Jove: but what is gone,"
+  },
+  {
+    "id": "p-d3fbd8",
+    "offset": 34755,
+    "text": "He will not, cannot turn to nought;"
+  },
+  {
+    "id": "p-88a56d",
+    "offset": 34792,
+    "text": "Nor cancel, as a thing undone,"
+  },
+  {
+    "id": "p-69d470",
+    "offset": 34824,
+    "text": "What once the flying hour has brought.”"
+  },
+  {
+    "id": "p-d71e32",
+    "offset": 34865,
+    "text": "Fortune, who loves her cruel game,"
+  },
+  {
+    "id": "p-0fecdc",
+    "offset": 34901,
+    "text": "Still bent upon some heartless whim,"
+  },
+  {
+    "id": "p-501e19",
+    "offset": 34939,
+    "text": "Shifts her caresses, fickle dame,"
+  },
+  {
+    "id": "p-3e6e23",
+    "offset": 34974,
+    "text": "Now kind to me, and now to him:"
+  },
+  {
+    "id": "p-712523",
+    "offset": 35007,
+    "text": "She stays; 'tis well: but let her shake"
+  },
+  {
+    "id": "p-16f148",
+    "offset": 35048,
+    "text": "Those wings, her presents I resign,"
+  },
+  {
+    "id": "p-d2717a",
+    "offset": 35085,
+    "text": "Cloak me in native worth, and take"
+  },
+  {
+    "id": "p-c3d0e0",
+    "offset": 35121,
+    "text": "Chaste Poverty undower'd for mine."
+  },
+  {
+    "id": "p-82c215",
+    "offset": 35157,
+    "text": "Though storms around my vessel rave,"
+  },
+  {
+    "id": "p-fbeb07",
+    "offset": 35195,
+    "text": "I will not fall to craven prayers,"
+  },
+  {
+    "id": "p-f99a46",
+    "offset": 35231,
+    "text": "Nor bargain by my vows to save"
+  },
+  {
+    "id": "p-45f743",
+    "offset": 35263,
+    "text": "My Cyprian and Sidonian wares,"
+  },
+  {
+    "id": "p-8d71d7",
+    "offset": 35295,
+    "text": "Else added to the insatiate main."
+  },
+  {
+    "id": "p-2f9b3b",
+    "offset": 35330,
+    "text": "Then through the wild Aegean roar"
+  },
+  {
+    "id": "p-08d153",
+    "offset": 35365,
+    "text": "The breezes and the Brethren Twain"
+  },
+  {
+    "id": "p-9864b3",
+    "offset": 35401,
+    "text": "Shall waft my little boat ashore."
+  },
+  {
+    "id": "p-4db7d4",
+    "offset": 35436,
+    "text": "And now 'tis done: more durable than brass"
+  },
+  {
+    "id": "p-da5a44",
+    "offset": 35480,
+    "text": "My monument shall be, and raise its head"
+  },
+  {
+    "id": "p-dcac04",
+    "offset": 35522,
+    "text": "O'er royal pyramids: it shall not dread"
+  },
+  {
+    "id": "p-68a823",
+    "offset": 35563,
+    "text": "Corroding rain or angry Boreas,"
+  },
+  {
+    "id": "p-dce160",
+    "offset": 35596,
+    "text": "Nor the long lapse of immemorial time."
+  },
+  {
+    "id": "p-08ca1b",
+    "offset": 35636,
+    "text": "I shall not wholly die: large residue"
+  },
+  {
+    "id": "p-59f8d0",
+    "offset": 35675,
+    "text": "Shall 'scape the queen of funerals. Ever new"
+  },
+  {
+    "id": "p-dde986",
+    "offset": 35721,
+    "text": "My after fame shall grow, while pontiffs climb"
+  },
+  {
+    "id": "p-1f54dd",
+    "offset": 35769,
+    "text": "With silent maids the Capitolian height."
+  },
+  {
+    "id": "p-edccef",
+    "offset": 35811,
+    "text": "“Born,” men will say, “where Aufidus is loud,"
+  },
+  {
+    "id": "p-ca9b8f",
+    "offset": 35858,
+    "text": "Where Daunus, scant of streams, beneath him bow'd"
+  },
+  {
+    "id": "p-4f7099",
+    "offset": 35909,
+    "text": "The rustic tribes, from dimness he wax'd bright,"
+  },
+  {
+    "id": "p-ea3a36",
+    "offset": 35959,
+    "text": "First of his race to wed the Aeolian lay"
+  },
+  {
+    "id": "p-a20e39",
+    "offset": 36001,
+    "text": "To notes of Italy.” Put glory on,"
+  },
+  {
+    "id": "p-9ce559",
+    "offset": 36036,
+    "text": "My own Melpomene, by genius won,"
+  },
+  {
+    "id": "p-a0f07c",
+    "offset": 36070,
+    "text": "And crown me of thy grace with Delphic bay."
+  }
+]

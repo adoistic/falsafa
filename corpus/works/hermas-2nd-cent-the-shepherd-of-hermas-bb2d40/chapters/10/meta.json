@@ -1,0 +1,38 @@
+{
+  "work_slug": "hermas-2nd-cent-the-shepherd-of-hermas-bb2d40",
+  "work_title": "The Shepherd of Hermas",
+  "chapter_number": 10,
+  "chapter_title": "Book 10",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5ca5b15b-7048-5767-ab85-013d2cf933b4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 693,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1419.tlg001.1st1K-grc1:10"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "51c8e2c9-c573-518a-8655-ad320f464c61",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 794,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1419.tlg001.perseus-eng1:10"
+    }
+  ]
+}

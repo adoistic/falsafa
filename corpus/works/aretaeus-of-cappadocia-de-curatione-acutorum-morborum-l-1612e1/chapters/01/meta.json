@@ -1,0 +1,38 @@
+{
+  "work_slug": "aretaeus-of-cappadocia-de-curatione-acutorum-morborum-l-1612e1",
+  "work_title": "De curatione acutorum morborum libri duo",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "10e01ed8-6d08-5dc9-905a-43a06cd4c01e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8813,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0719.tlg003.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8e4e6f38-731f-5550-a416-96cbbadfafed",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12773,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0719.tlg003.perseus-eng2:1"
+    }
+  ]
+}

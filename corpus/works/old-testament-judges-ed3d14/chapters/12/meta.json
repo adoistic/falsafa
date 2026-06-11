@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-judges-ed3d14",
+  "work_title": "Judges",
+  "chapter_number": 12,
+  "chapter_title": "Chapter 12",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f163ee50-da38-50b6-8d17-7f5082b03a81",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 569,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg008.1st1K-grc1:12"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a4ac2f88-6b2e-5694-8ae5-25bbe7c72bbb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 387,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg008.perseus-eng2:12"
+    }
+  ]
+}

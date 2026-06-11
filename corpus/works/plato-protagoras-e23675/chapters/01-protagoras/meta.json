@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-protagoras-e23675",
+  "work_title": "Protagoras",
+  "chapter_number": 1,
+  "chapter_title": "Protagoras",
+  "chapter_slug": "01-protagoras",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "53830a5f-126b-5a15-b9a7-633ef9da7edb",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 17427,
+      "paragraph_count": 356,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg022.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0221f4f5-8d3a-594a-b3b3-cf30ffb83e48",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 23539,
+      "paragraph_count": 230,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg022.perseus-eng2"
+    }
+  ]
+}

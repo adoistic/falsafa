@@ -1,0 +1,26 @@
+{
+  "work_slug": "catullus-c-valerius-carmina-e8bcbc",
+  "work_title": "Carmina",
+  "chapter_number": 78,
+  "chapter_title": "Chapter 101",
+  "chapter_slug": "78",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4a01ff62-a609-5b11-90db-36918a8ce042",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 83,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0472.phi001.perseus-eng4:78"
+    }
+  ]
+}

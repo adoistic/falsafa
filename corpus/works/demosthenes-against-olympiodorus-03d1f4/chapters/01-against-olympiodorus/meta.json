@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-olympiodorus-03d1f4",
+  "work_title": "Against Olympiodorus",
+  "chapter_number": 1,
+  "chapter_title": "Against Olympiodorus",
+  "chapter_slug": "01-against-olympiodorus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "afb32aec-1911-5ae8-9d45-494e6e1befa1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3519,
+      "paragraph_count": 70,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg048.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ae0d4a2-2111-5d29-b3fc-1864a238dc08",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5066,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg048.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-pelopidas-ddfb4d",
+  "work_title": "Pelopidas",
+  "chapter_number": 22,
+  "chapter_title": "Chapter 22",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "91954dd4-9c74-5e13-8e02-74e80fc0fab8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 112,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg021.perseus-grc2:22"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d836fcb8-5257-592b-9994-17cce4d9b002",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 154,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg021.perseus-eng2:22"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "work_slug": "homeric-hymns-hymn-29-to-hestia-ba0729",
+  "work_title": "Hymn 29 to Hestia",
+  "chapter_number": 1,
+  "chapter_title": "Hymn 29 to Hestia",
+  "chapter_slug": "01-hymn-29-to-hestia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "64052940-1629-597b-932e-749d228677b8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 96,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg029.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "663f0b21-a215-5479-80da-8d18819136dc",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 140,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg029.perseus-eng2"
+    }
+  ]
+}

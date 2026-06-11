@@ -1,0 +1,27 @@
+---
+work_id: "1ed01a59-5b16-5718-8041-e1b93b100ba5"
+work_slug: "plutarch-alexander-1ed01a"
+work_title: Alexander
+author_name: Plutarch
+chapter_number: 74
+chapter_title: Chapter 74
+chapter_slug: 74
+variant_id: "6cd6925a-bf27-57df-bfc7-56a6d04583b7"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 296
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg047.perseus-eng2:74"
+translator: Bernadotte Perrin
+---
+
+On hearing of this, Alexander put the man out of the way, as the seers directed; but he began to be low-spirited, and was distrustful now of the favour of Heaven and suspicious of his friends. He was particularly afraid of Antipater and of his sons, one of whom, Iolas, was his chief cupbearer; the other, Cassander, had only recently come to Babylon, and when he saw some Barbarians doing obeisance to Alexander, since he had been reared as a Greek and had never seen such a sight as this before, he laughed boisterously.
+
+But Alexander was enraged, and clutching him fiercely by the hair with both hands dashed his head against the wall. And at another time, when Cassander would have said something in opposition to those who were bringing charges against Antipater, Alexander interrupted him, saying: What meanest thou? Would men come so long a journey if they had not been wronged and were making false charges?
+
+And when Cassander declared that this very fact of their coming a long distance away from the proofs showed that they were making false charges, Alexander burst out laughing and said: These are the famous sophisms of Aristotle’s disciples for either side of the question; but ye shall rue the day if it appear that ye have done these men even a slight wrong.
+
+And in general, as we are told, Cassander’s spirit was deeply penetrated and imbued with a dreadful fear of Alexander, so that many years afterwards, when he was now king of Macedonia and master of Greece, as he was walking about and surveying the statues at Delphi, the sight of an image of Alexander smote him suddenly with a shuddering and trembling from which he could scarcely recover, and made his head swim.

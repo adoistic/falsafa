@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-hippolytus-757342",
+  "work_title": "Hippolytus",
+  "chapter_number": 1,
+  "chapter_title": "Hippolytus",
+  "chapter_slug": "01-hippolytus",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "71b2fccf-9f2c-5d99-9c3d-962542f5aa85",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8498,
+      "paragraph_count": 1447,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg005.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f56959f9-6dda-5d96-a4d3-739285b1c8a3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12315,
+      "paragraph_count": 430,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg005.perseus-eng2"
+    }
+  ]
+}

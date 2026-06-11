@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-for-phormio-0f32d7",
+  "work_title": "For Phormio",
+  "chapter_number": 1,
+  "chapter_title": "For Phormio",
+  "chapter_slug": "01-for-phormio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f5a0e6e8-8036-56d5-a863-3f152df3aff8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3964,
+      "paragraph_count": 85,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg036.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac2fff8d-e602-58a8-848a-67224ad77767",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6143,
+      "paragraph_count": 95,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg036.perseus-eng2"
+    }
+  ]
+}

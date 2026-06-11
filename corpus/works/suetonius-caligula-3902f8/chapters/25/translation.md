@@ -1,0 +1,21 @@
+---
+work_id: "3902f872-70c1-51cc-bb46-4f90c7c8bdde"
+work_slug: "suetonius-caligula-3902f8"
+work_title: Caligula
+author_name: Suetonius
+chapter_number: 25
+chapter_title: Chapter 25
+chapter_slug: 25
+variant_id: "b3188180-e164-595e-bc90-e30658dee782"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 357
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo014.perseus-eng2:25"
+translator: Perseus Digital Library
+---
+
+Whether in the marriage of his wives, in repudiating them, or retaining them, he acted with greater infamy, it is difficult to say. Being at the wedding of Caius with Livia Orestilla, he ordered the bride to be carried to his own house, but within a few days divorced her, and two years after banished her; because it was thought, that upon her divorce she returned to the embraces of her former husband. Some say, that being invited to the wedding-supper, he sent a message to Piso, who sat opposite to him, in these words: "Do not be too fond with my wife," and that he immediately carried her off. Next day he published a proclamation, importing, "That he had got a wife as Romulus and Augustus had done." Lollia Paulina, who was married to a man of consular rank in command of an army, he suddenly called from the province where she was with her husband, upon mention being made that her grandmother was formerly very beautiful, and married her; but he soon afterwards parted with her, interdicting her from having ever afterwards any commerce with man. He loved with a most passionate and constant affection Caesonia, who was neither handsome nor young, and was besides the mother of three daughters by another man; but a wanton of unbounded lasciviousness. Her he would frequently exhibit to the soldiers, dressed in a military cloak, with shield and helmet, and riding by his side. To his friends he even showed her naked. After she had a child, he honoured her with the title of wife; in one and the same day, declaring himself her husband, and father of the child of which she was delivered. He named it Julia Drusilla, and carrying it round the temples of all the goddesses, laid it on the lap of Minerva; to whom he recommended the care of bringing up and instructing her. He considered her as his own child for no better reason than her savage temper, which was such even in infancy, that she would attack with her nails the face and eyes of the children at play with her.

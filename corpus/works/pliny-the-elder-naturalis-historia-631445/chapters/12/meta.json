@@ -1,0 +1,38 @@
+{
+  "work_slug": "pliny-the-elder-naturalis-historia-631445",
+  "work_title": "Naturalis Historia",
+  "chapter_number": 12,
+  "chapter_title": "Book 12",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e42082eb-ff2d-5ba3-90ff-044bbea5049b",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7226,
+      "paragraph_count": 72,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0978.phi001.perseus-lat2:12"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac402da2-1504-5050-b82b-9bb55540ea5e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 16962,
+      "paragraph_count": 93,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0978.phi001.perseus-eng1:12"
+    }
+  ]
+}

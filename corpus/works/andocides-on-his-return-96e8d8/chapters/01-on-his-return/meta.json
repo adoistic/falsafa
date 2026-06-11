@@ -1,0 +1,38 @@
+{
+  "work_slug": "andocides-on-his-return-96e8d8",
+  "work_title": "On His Return",
+  "chapter_number": 1,
+  "chapter_title": "On His Return",
+  "chapter_slug": "01-on-his-return",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dd24d90d-652d-51b0-bb6b-581fb58fa91b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1953,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0027.tlg002.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c53f8a6d-4233-5c75-9dc5-ec649d7f5212",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2659,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0027.tlg002.perseus-eng2"
+    }
+  ]
+}

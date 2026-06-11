@@ -1,0 +1,38 @@
+{
+  "work_slug": "terence-hecyra-f1d9be",
+  "work_title": "Hecyra",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "03",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9cb89bce-d48e-5fff-b495-4756d445fd32",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1011,
+      "paragraph_count": 170,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0134.phi005.perseus-lat2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fe7ec26f-ea12-5344-adfb-e227888bedc5",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1722,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0134.phi005.perseus-eng2:3"
+    }
+  ]
+}

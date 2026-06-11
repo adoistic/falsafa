@@ -1,0 +1,39 @@
+{
+  "work_slug": "homeric-hymns-hymn-1-to-dionysus-78e45e",
+  "work_title": "Hymn 1 to Dionysus",
+  "chapter_number": 1,
+  "chapter_title": "Hymn 1 to Dionysus",
+  "chapter_slug": "01-hymn-1-to-dionysus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4a71e542-0657-51ab-85d4-acdbac579041",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 145,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "61ac8f5c-37d2-5838-a2aa-1dcbd2eabe22",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 206,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg001.perseus-eng2"
+    }
+  ]
+}

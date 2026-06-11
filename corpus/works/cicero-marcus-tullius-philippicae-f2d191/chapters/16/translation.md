@@ -1,0 +1,23 @@
+---
+work_id: "f2d19193-f015-5d8f-8b5a-a381bf66bfec"
+work_slug: "cicero-marcus-tullius-philippicae-f2d191"
+work_title: Philippicae
+author_name: Cicero, Marcus Tullius
+chapter_number: 16
+chapter_title: Chapter 1
+chapter_slug: 16
+variant_id: "05765568-3e66-5ea5-8a71-d32144460cd8"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 390
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:16"
+translator: Perseus Digital Library
+---
+
+To what destiny of mine, O conscript fathers, shall I say that it is owing, that none for the last twenty years has been an enemy to the republic without at the same time declaring war against me? Nor is there any necessity for naming any particular person; you yourselves recollect instances in proof of my statement. They have all hitherto suffered severer punishments than I could have wished for them; but I marvel that you, O Antonius, do not fear the end of these men whose conduct you are imitating. And in others I was less surprised at this. None of those men of former times was a voluntary enemy to me; all of them were attacked by me for the sake of the republic. But you, who have never been injured by me, not even by a word, in order to appear more audacious than Catiline, more frantic than Clodius, have of your own accord attacked me with abuse, and have considered that your alienation from me would be a recommendation of you to impious citizens.
+
+What am I to think? that I have been despised? I see nothing either in my life, or in my influence in the city, or in my exploits, or even in the moderate abilities with which I am endowed, which Antonius can despise. Did he think that it was easiest to disparage me in the senate? a body which has borne its testimony in favour of many most illustrious Citizens that they governed the republic well, but in favour of me alone, of all men, that I preserved it. Or did he wish to contend with me in a rivalry of eloquence? This, indeed, is an act of generosity; for what could be a more fertile or richer subject for me, than to have to speak in defence of myself and against Antonius? This, in fact, is the truth. He thought it impossible to prove to the satisfaction of those men who resembled himself, that he was an enemy to his country, if he was not also an enemy to me. And before I make him any reply on the other topics of his speech, I will say a few words respecting the friendship formerly subsisting between us, which he has accused me of violating,—for that I consider a most serious charge.

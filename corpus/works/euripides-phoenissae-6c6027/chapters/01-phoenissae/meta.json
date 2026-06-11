@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-phoenissae-6c6027",
+  "work_title": "Phoenissae",
+  "chapter_number": 1,
+  "chapter_title": "Phoenissae",
+  "chapter_slug": "01-phoenissae",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3703ef4c-b8be-5f89-8a14-4681a700c569",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10209,
+      "paragraph_count": 1785,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "529e5a9b-36b6-5e19-98cf-f5d5a2e90ae9",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15078,
+      "paragraph_count": 560,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2"
+    }
+  ]
+}

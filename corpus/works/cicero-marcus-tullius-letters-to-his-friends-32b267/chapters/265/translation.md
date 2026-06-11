@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 265
+chapter_title: "Chapter text=F:book=13:letter=26"
+chapter_slug: 265
+variant_id: "3ede269f-7a05-5fa9-a256-b9c141a77713"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 461
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:265"
+translator: Perseus Digital Library
+---
+
+TO SERVIUS SULPICIUS RUFUS (IN ACHAIA) ROME
+
+My connexion with L. Mescinius is that which arises from the fact that he was my quaestor. But this tie—which I, in accordance with the usage of antiquity, have ever regarded as a strong one—he has rendered more complete by his personal excellence and kindness. Accordingly, nothing could more intimate and more pleasant to myself than my intercourse with him. Now, although he seemed to feel certain that you would be pleased to do all you honourably could for him for his own sake, he yet hoped that a letter from me would also have great weight with you. He judged that to be the case for himself; but as he was very intimate with me he had also often heard me say how delightful and close our union was. I ask you, therefore, with all the earnestness with which you understand that I ought to ask on behalf of a man so near and dear to me, to facilitate and settle the business matters which he has in Achaia arising from the fact 'of his being the heir of his cousin M. Mindius, late a banker at Elis, not only by your legal prerogative and authority, but also by your influence and advice. For I have directed,those to whom I have intrusted my business, that in all 'points which give rise to dispute, they were to appeal to you as arbitrator and—so far as was consistent with your convenience—as final judge. That you should in compliment to me undertake that business, I earnestly and repeatedly beg of you. There is one other point in which you will particularly oblige me, if you don't think it inconsistent with your position; it is that, as the controversy is with a senator, you should refer to Rome such of the parties as prove too stubborn to allow the business to be settled without an issue being tried. That you might be able to do that with the less hesitation, I have secured a despatch to you from the consul M. Lepidus, not conveying any order—for that I did not think consonant with your position—but to a certain extent and in a manner commendatory. I would have mentioned how well invested such a favour is sure to be in the case of Mescinius, had I not, in the first place, felt certain that you knew, and had I not also been asking for myself: for I would have you believe that I am quite as anxious about his interests as he is himself. But while I am eager that he should come by his own without difficulty, I am also anxious that he should think that he owes his success in no small degree to my recommendation.

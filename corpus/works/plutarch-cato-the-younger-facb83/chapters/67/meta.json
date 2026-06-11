@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-cato-the-younger-facb83",
+  "work_title": "Cato the Younger",
+  "chapter_number": 67,
+  "chapter_title": "Chapter 67",
+  "chapter_slug": "67",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f2b635f5-cf56-53ff-8aaa-d30a74a04192",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 145,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg050.perseus-grc2:67"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "14fdb92b-fdfc-5c8c-bd7a-91d9bbb0fabb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 209,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg050.perseus-eng2:67"
+    }
+  ]
+}

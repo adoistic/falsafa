@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-prometheus-43fff5",
+  "work_title": "Prometheus",
+  "chapter_number": 1,
+  "chapter_title": "Prometheus",
+  "chapter_slug": "01-prometheus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c1cb7ac4-9eee-5370-bd35-2f84119a73fd",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2395,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg020.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "61f75998-3b46-53c2-b46b-85f7084e54f7",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2858,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg020.perseus-eng4"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-philippicae-f2d191",
+  "work_title": "Philippicae",
+  "chapter_number": 87,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "87",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ed70150b-3750-58ab-b9d1-c828b98a5c78",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 485,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:87"
+    }
+  ]
+}

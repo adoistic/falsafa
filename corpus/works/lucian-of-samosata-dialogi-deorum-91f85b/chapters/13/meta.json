@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-dialogi-deorum-91f85b",
+  "work_title": "Dialogi deorum",
+  "chapter_number": 13,
+  "chapter_title": "Book 18",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "53c620f1-867c-5f1b-8c6a-0763cbdf6bde",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 238,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg068.perseus-grc3:13"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0dcba5ae-db11-5073-bf40-9aa310218e59",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 366,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg068.perseus-eng4:13"
+    }
+  ]
+}

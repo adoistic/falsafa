@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-pompey-3a667c",
+  "work_title": "Pompey",
+  "chapter_number": 68,
+  "chapter_title": "Chapter 68",
+  "chapter_slug": "68",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e8747734-f6de-5d4f-bdff-40f0b5679141",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 252,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg045.perseus-grc2:68"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3d20392a-dbe2-574e-894e-386c3cb72c71",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 351,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg045.perseus-eng2:68"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-defectu-oraculorum-e02a9c",
+  "work_title": "De Defectu Oraculorum",
+  "chapter_number": 1,
+  "chapter_title": "De Defectu Oraculorum",
+  "chapter_slug": "01-de-defectu-oraculorum",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f2a14d94-56f7-5c7a-90bd-03b8694ca362",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 13544,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg092.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1a422b80-dd1c-5ce7-915c-68b98bb17038",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 20877,
+      "paragraph_count": 62,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg092.perseus-eng4"
+    }
+  ]
+}

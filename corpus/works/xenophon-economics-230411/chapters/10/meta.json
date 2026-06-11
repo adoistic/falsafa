@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-economics-230411",
+  "work_title": "Economics",
+  "chapter_number": 10,
+  "chapter_title": "Chapter 10",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "05d068ee-c84b-5848-bcda-570c8d59fe3f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 598,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg003.perseus-grc2:10"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0089335-8756-5c96-8d0f-8e3c9c893829",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 750,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg003.perseus-eng2:10"
+    }
+  ]
+}

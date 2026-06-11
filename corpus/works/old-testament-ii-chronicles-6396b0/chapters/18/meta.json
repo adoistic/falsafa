@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ii-chronicles-6396b0",
+  "work_title": "II Chronicles",
+  "chapter_number": 18,
+  "chapter_title": "Chapter 18",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2ed3d29a-d04c-578a-a086-5ada1c9f82f4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1041,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg016.1st1K-grc1:18"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "662ea2a8-7a03-5ef5-845c-93e057fb95b0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 980,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg016.perseus-eng2:18"
+    }
+  ]
+}

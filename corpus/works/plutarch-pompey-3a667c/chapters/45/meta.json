@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-pompey-3a667c",
+  "work_title": "Pompey",
+  "chapter_number": 45,
+  "chapter_title": "Chapter 45",
+  "chapter_slug": "45",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cfc55ad7-8590-51f6-b156-7714f04efa8a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 265,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg045.perseus-grc2:45"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e5212815-f793-5d4c-9cb0-1ce2e2e53b29",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 365,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg045.perseus-eng2:45"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-hellenica-55ce99",
+  "work_title": "Hellenica",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0c43a473-5fb4-53fe-a165-6e7c9ace0ff0",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 8539,
+      "paragraph_count": 124,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg001.perseus-grc2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ec358f3-9ec9-570d-b462-60d4bcd04cc8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12738,
+      "paragraph_count": 151,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg001.perseus-eng2:3"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "work_slug": "ovid-epistulae-3d28c9",
+  "work_title": "Epistulae",
+  "chapter_number": 11,
+  "chapter_title": "Chapter 11",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1c076e98-2fc0-5aa6-ba9f-df5e6346248a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 825,
+      "paragraph_count": 128,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi002.perseus-lat2:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7dd6e5cd-aecd-5081-bef1-09db1c7e06ba",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1371,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi002.perseus-eng2:11"
+    }
+  ]
+}

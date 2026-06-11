@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-romulus-8aa1c6",
+  "work_title": "Romulus",
+  "chapter_number": 27,
+  "chapter_title": "Chapter 27",
+  "chapter_slug": "27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9c7baa42-3f3c-5278-ae4f-913b978d9546",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 441,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg002.perseus-grc2:27"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "25fc7760-60b7-51bd-b9e5-3401e67810b4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 650,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg002.perseus-eng2:27"
+    }
+  ]
+}

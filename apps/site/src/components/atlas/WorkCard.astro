@@ -1,0 +1,82 @@
+---
+import type { Work } from '../../lib/atlas/schema.ts';
+import { personById, transmissionsOf } from '../../lib/atlas/data.ts';
+import { centuryOf } from '../../lib/atlas/format.ts';
+import MiniChain from './MiniChain.astro';
+
+interface Props {
+  work: Work;
+}
+
+const { work } = Astro.props;
+const author = work.author ? personById.get(work.author) : undefined;
+const crossings = transmissionsOf(work.id).length;
+---
+
+<a class="card link-quiet" href={`/atlas/works/${work.id}/`}>
+  <p class="meta mono">
+    {centuryOf(work.composed.from)} · {work.field} · {crossings}
+    {crossings === 1 ? 'crossing' : 'crossings'}
+  </p>
+  <h2 class="title">{work.title}</h2>
+  <p class="byline">
+    {work.original.translit && <i>{work.original.translit}</i>}
+    {author && <span class="author">{work.original.translit ? '· ' : ''}{author.name}</span>}
+  </p>
+  <p class="summary">{work.summary}</p>
+  <MiniChain work={work} />
+</a>
+
+<style>
+  .card {
+    display: grid;
+    gap: 0.55rem;
+    align-content: start;
+    padding: 1.4rem 1.5rem 1.5rem;
+    border: 1px solid var(--color-hairline);
+    border-radius: 4px;
+    background: var(--color-paper-raised);
+    transition: border-color 140ms ease-out, transform 140ms ease-out;
+  }
+
+  .card:hover {
+    color: inherit;
+    border-color: color-mix(in oklab, var(--color-lapis) 45%, var(--color-hairline));
+    transform: translateY(-2px);
+  }
+
+  .meta {
+    font-size: 0.66rem;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+    margin: 0;
+  }
+
+  .title {
+    font-size: 1.45rem;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .card:hover .title {
+    color: var(--color-lapis);
+  }
+
+  .byline {
+    margin: 0;
+    font-size: 1rem;
+    color: var(--color-ink-muted);
+  }
+
+  .summary {
+    margin: 0 0 0.35rem;
+    font-size: 0.98rem;
+    line-height: 1.55;
+    color: var(--color-ink);
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+</style>

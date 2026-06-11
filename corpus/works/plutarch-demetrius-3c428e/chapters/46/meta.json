@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-demetrius-3c428e",
+  "work_title": "Demetrius",
+  "chapter_number": 46,
+  "chapter_title": "Chapter 46",
+  "chapter_slug": "46",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5ff33b95-a083-5332-82c4-fa35b39beb4d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 291,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg057.perseus-grc2:46"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "24667d60-b8a6-559a-b2cb-fee76fe4d303",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 456,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg057.perseus-eng2:46"
+    }
+  ]
+}

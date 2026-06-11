@@ -1,0 +1,39 @@
+{
+  "work_slug": "ovid-epistulae-3d28c9",
+  "work_title": "Epistulae",
+  "chapter_number": 19,
+  "chapter_title": "Chapter 19",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b0e5a28b-30fe-5b23-ae16-f1b386c802e6",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1391,
+      "paragraph_count": 210,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi002.perseus-lat2:19"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "38b290f6-3617-5484-b400-ac7631bbfed2",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2325,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi002.perseus-eng2:19"
+    }
+  ]
+}

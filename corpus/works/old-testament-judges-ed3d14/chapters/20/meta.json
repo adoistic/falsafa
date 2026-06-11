@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-judges-ed3d14",
+  "work_title": "Judges",
+  "chapter_number": 20,
+  "chapter_title": "Chapter 20",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6188c8d9-0490-5ffe-8228-0c11d14133f1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1346,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg008.1st1K-grc1:20"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a90d0097-d95d-58e0-ab9e-9ae647192791",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1375,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg008.perseus-eng2:20"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+---
+work_id: "2428b902-2f43-5fea-a900-16ef8f00cc04"
+work_slug: "aristotle-metaphysics-2428b9"
+work_title: Metaphysics
+author_name: Aristotle
+chapter_number: 11
+chapter_title: Book 11
+chapter_slug: 11
+variant_id: "a131e514-a510-509f-8290-808db5fa2ca2"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 9969
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg025.perseus-eng2:11"
+translator: Hugh Tredennick
+---
+
+That wisdom is a science of first principles is clear from our Introductory remarks, in which we of raised objections to the statements of other thinkers about the first principles. It might be asked, however, whether we should regard Wisdom as one science or as more than one. If as one, it may be objected that the objects of one science are always contraries; but the first principles are not contraries. And if it is not one, what sort of sciences are we to suppose them to be?
+
+Again, is it the province of one science, or of more than one, to study the principles of demonstration? If of one, why of it rather than of any other? And if of more than one, of what sort are we to suppose them to be?
+
+Again, are we to suppose that Wisdom deals with all substances or not? If not with all, it is hard to lay down with what kind it does deal; while if there is one science of them all, it is not clear how the same science can deal with more than one subject.
+
+Again, is this science concerned only with substances, or with attributes as well? For if it is a demonstration of attributes, it is not concerned with substances; and if there is a separate science of each, what is each of these sciences, and which of them is Wisdom? qua demonstrative, the science of attributes appears to be Wisdom; but qua concerned with that which is primary, the science of substances.
+
+Nor must we suppose that the science which we are seeking is concerned with the causes described in the Physics. It is not concerned with the final cause; for this is the Good, and this belongs to the sphere of action and to things which are in motion; and it is this which first causes motion (for the end is of this nature); but there is no Prime Mover in the sphere of immovable things.
+
+And in general it is a difficult question whether the science which we are now seeking is concerned with sensible substances, or not with sensible substances, but with some other kind. If with another kind, it must be concerned either with the Forms or with mathematical objects. Now clearly the Forms do not exist. (But nevertheless, even if we posit them, it is a difficult question as to why the same rule does not apply to the other things of which there are Forms as applies to the objects of mathematics.
+
+I mean that they posit the objects of mathematics as intermediate between the Forms and sensible things, as a third class besides the Forms and the things of our world; but there is no third man or horse besides the Ideal one and the particulars. If on the other hand it is not as they make out, what sort of objects are we to suppose to be the concern of the mathematician? Not surely the things of our world; for none of these is of the kind which the mathematical sciences investigate.)
+
+Nor indeed is the science which we are now seeking concerned with the objects of mathematics; for none of them can exist separately. But it does not deal with sensible substances either; for they are perishable.
+
+In general the question might be raised, to what science it pertains to discuss the problems concerned with the matter of mathematical objects.
+
+It is not the province of physics, because the whole business of the physicist is with things which contain in themselves a principle of motion and rest; nor yet of the science which inquires into demonstration and scientific knowledge, for it is simply this sort of thing which forms the subject of its inquiry. It remains, therefore, that it is the science which we have set ourselves to find that treats of these subjects.
+
+One might consider the question whether we should regard the science which we are now seeking as dealing with the principles which by some are called elements. But everyone assumes that these are present in composite things; and it would seem rather that the science which we are seeking must be concerned with universals, since every formula and every science is of universals and not of ultimate species; so that in this case it must deal with the primary genera.
+
+These would be Being and Unity; for these, if any, might best be supposed to embrace all existing things, and to be most of the nature of first principles, because they are by nature primary; for if they are destroyed, everything else is destroyed with them, since everything exists and is one.
+
+But inasmuch as, if Being and Unity are to be regarded as genera, they must be predicable of their differentiae, whereas no genus is predicable of any of its differentiae, from this point of view it would seem that they should be regarded neither as genera nor as principles.
+
+Further, since the more simple is more nearly a principle than the less simple, and the ultimate subdivisions of the genus are more simple than the genera (because they are indivisible), and the genera are divided into a number of different species, it would seem that species are more nearly a principle than genera.
+
+On the other hand, inasmuch as species are destroyed together with their genera, it seems more likely that the genera are principles; because that which involves the destruction of something else is a principle. These and other similar points are those which cause us perplexity.
+
+Again, ought we to assume the existence of something else besides particular things, or are they the objects of the science which we are seeking? It is true that they are infinite in number; but then the things which exist besides particulars are genera or species, and neither of these is the object of the science which we are now seeking. We have explained why this is impossible.
+
+Indeed, in general it is a difficult question whether we should suppose that there is some substance which exists separately besides sensible substances (i.e. the substances of our world), or that the latter constitute reality, and that it is with them that Wisdom is concerned. It seems that we are looking for some other kind of substance, and that this is the object of our undertaking: I mean, to see whether there is anything which exists separately and independently, and does not appertain to any sensible thing.
+
+But again, if there is another kind of substance besides sensible substances, to what kind of sensible things are we to suppose that it corresponds? Why should we suppose that it corresponds to men or horses rather than to other animals, or even to inanimate objects in general? And yet to manufacture a set of eternal substances equal in number to those which are sensible and perishable would seem to fall outside the bounds of plausibility.
+
+Yet if the principle which we are now seeking does not exist in separation from bodies, what can we suppose it to be if not matter? Yes, but matter does not exist actually, but only potentially. It might seem rather that a more appropriate principle would be form or shape; but this is perishable; and so in general there is no eternal substance which exists separately and independently.
+
+But this is absurd, because it seems natural that there should be a substance and principle of this kind, and it is sought for as existing by nearly all the most enlightened thinkers. For how can there be any order in the universe if there is not something eternal and separate and permanent?
+
+Again, if there is a substance and principle of such a nature as that which we are now seeking, and if it is one for all things, i.e. the same for both eternal and perishable things, it is a difficult question as to why, when the principle is the same, some of the things which come under that principle are eternal, and others not; for this is paradoxical.
+
+But if there is one principle of perishable things, and another of eternal things, if the principle of perishable things is also eternal, we shall still have the same difficulty; because if the principle is eternal, why are not the things which come under that principle eternal? And if it is perishable, it must have another principle behind it, and that principle must have another behind it; and the process will go on to infinity.
+
+On the other hand, if we posit the principles which seem most unchangeable, Being and Unity, (a) unless each of them denotes a particular thing and a substance, how can they be separate and independent? but the eternal and primary principles for which we are looking are of this nature.
+
+(b) If, however, each of them denotes a particular thing and a substance, then all existing things are substances; for Being is predicated of everything, and Unity also of some things.
+
+But that all things are substances is false. (c) As for those who maintain that Unity is the first principle and a substance, and who generate number from Unity and matter as their first product, and assert that it is a substance, how can their theory be true? How are we to conceive of 2 and each of the other numbers thus composed, as one? On this point they give no explanation; nor is it easy to give one.
+
+But if we posit lines or the things derived from them (I mean surfaces in the primary sense) as principles, these at least are not separately existing substances, but sections and divisions, the former of surfaces and the latter of bodies (and points are sections and divisions of lines); and further they are limits of these same things. All these things are integral parts of something else, and not one of them exists separately.
+
+Further, how are we to suppose that there is a substance of unity or a point? for in the case of every substance there is a process of generation, but in the case of the point there is not; for the point is a division.
+
+It is a perplexing fact also that whereas every science treats of universals and types, substance is not a universal thing, but rather a particular and separable thing; so that if there is a science that deals with first principles, how can we suppose that substance is a first principle?
+
+Again, is there anything besides the concrete whole (I mean the matter and the form in combination) or not? If not, all things in the nature of matter are perishable; but if there is something, it must be the form or shape. It is hard to determine in what cases this is possible and in what it is not; for in some cases, e.g. that of a house, the form clearly does not exist in separation.
+
+Again, are the first principles formally or numerically the same? If they are numerically one, all things will be the same.
+
+Since the science of the philosopher is concerned with Being qua Being universally, and not with some part of it, and since the term Being has several meanings and is not used only in one sense, if it is merely equivocal and has no common significance it cannot fall under one science (for there is no one class in things of this kind); but if it has a common significance it must fall under one science.
+
+Now it would seem that it is used in the sense which we have described, like medical and healthy, for we use each of these terms in several senses; and each is used in this way because it has a reference, one to the science of medicine, and another to health, and another to something else; but each refers always to the same concept. A diagnosis and a scalpel are both called medical, because the one proceeds from medical science and the other is useful to it.
+
+The same is true of healthy; one thing is so called because it is indicative, and another because it is productive, of health; and the same applies to all other cases. Now it is in this same way that everything which exists is said to be; each thing is said to be because it is a modification or permanent or temporary state or motion or some other such affection of Being qua Being.
+
+And since everything that is can be referred to some one common concept, each of the contrarieties too can be referred to the primary differentiae and contrarieties of Being—whether the primary differentiae of Being are plurality and unity, or similarity and dissimilarity, or something else; for we may take them as already discussed.
+
+It makes no difference whether that which is is referred to Being or Unity; for even if they are not the same but different, they are in any case convertible, since that which is one also in a sense is, and that which is is one.
+
+Now since the study of contraries pertains to one and the same science, and each contrary is so called in virtue of privation (although indeed one might wonder in what sense they can be called contraries in virtue of privation when they admit of a middle term—e.g. unjust and just), in all such cases we must regard the privation as being not of the whole definition but of the ultimate species. E.g., if the just man is one who is obedient to the laws in virtue of some volitional state, the unjust man will not be entirely deprived of the whole definition, but will be one who is in some respect deficient in obedience to the laws; and it is in this respect that the privation of justice will apply to him (and the same holds good in all other cases).
+
+And just as the mathematician makes a study of abstractions (for in his investigations he first abstracts everything that is sensible, such as weight and lightness, hardness and its contrary, and also heat and cold and all other sensible contrarieties, leaving only quantity and continuity—sometimes in one, sometimes in two and sometimes in three dimensions—and their affections qua quantitative and continuous, and does not study them with respect to any other thing; and in some cases investigates the relative positions of things and the properties of these, and in others their commensurability or incommensurability, and in others their ratios; yet nevertheless we hold that there is one and the same science of all these things, viz. geometry), so it is the same with regard to Being.
+
+For the study of its attributes in so far as it is Being, and of its contrarieties qua Being, belongs to no other science than Philosophy; for to physics one would assign the study of things not qua Being but qua participating in motion, while dialectics and sophistry deal with the attributes of existing things, but not of things qua Being, nor do they treat of Being itself in so far as it is Being.
+
+Therefore it remains that the philosopher is the man who studies the things which we have described, in so far as they are Being. And since everything that is, although the term has several meanings, is so described in virtue of some one common concept, and the same is true of the contraries (since they can be referred to the primary contrarieties and differences of Being), and since things of this kind can fall under one science, the difficulty which we stated at the beginning may be regarded as solved —I mean the problem as to how there can be one science of several things which are different in genus.
+
+Since even the mathematician uses the common axioms only in a particular application, it will be the province of Primary Philosophy to study the principles of these as well.
+
+That when equals are taken from equals the remainders are equal is an axiom common to all quantities; but mathematics isolates a particular part of its proper subject matter and studies it separately; e.g. lines or angles or numbers or some other kind of quantity, but not qua Being, but only in so far as each of them is continuous in one, two or three dimensions. But philosophy does not investigate particular things in so far as each of them has some definite attribute, but studies that which is, in so far as each particular thing is.
+
+The same applies to the science of physics as to mathematics, for physics studies the attributes and first principles of things qua in motion, and not qua Being; but Primary Science, as we have said, deals with these things only in so far as the subjects which underlie them are existent, and not in respect of anything else. Hence we should regard both physics and mathematics as subdivisions of Wisdom.
+
+There is a principle in existing things about which we cannot make a mistake; of which, on the contrary, we must always realize the truth—viz. that the same thing cannot at one and the same time be and not be, nor admit of any other similar pair of opposites. Of such axioms although there is a proof ad hominem, there is no absolute proof;
+
+because there is no principle more convincing than the axiom itself on which to base an argument, whereas there must be such a principle if there is to be absolute proof.
+
+But he who wants to convince an opponent who makes opposite statements that he is wrong must obtain from him an admission which shall be identical with the proposition that the same thing cannot at one and the same time be and not be, but shall seem not to be identical with it. This is the only method of proof which can be used against one who maintains that opposite statements can be truly made about the same subject.
+
+Now those who intend to join in discussion must understand one another to some extent; for without this how can there be any common discussion between them? Therefore each of the terms which they use must be intelligible and signify something; not several things, but one only; or if it signifies more than one thing, it must be made clear to which of these the term is applied.
+
+Now he who says that A is and is not denies what he asserts, and therefore denies that the term signifies what it does signify. But this is impossible. Therefore if to be so-and-so has a definite meaning, the opposite statement about the same subject cannot be true.
+
+Again, if the term has a definite significance and this is truly stated, it must of necessity be so. But that which of necessity is can never not be. Hence opposite statements about the same subject cannot be true.
+
+Again, if the assertion is no more true than the negation, it will be no more true to say A is man than to say A is not man.
+
+But it would also be admitted that it is more or at least not less true to say that a man is not a horse than to say that he is not a man; and therefore, since it was assumed that opposite statements are equally true, it will be true to say that the same person is also a horse. It follows therefore, that the same person is a man and a horse, or any other animal.
+
+Thus, although there is no absolute proof of these axioms, there is an ad hominem proof where one’s opponent makes these assumptions. Perhaps even Heraclitus himself, if he had been questioned on these lines, would have been compelled to admit that opposite statements can never be true of the same subjects; as it is, he adopted this theory through ignorance of what his doctrine implied.
+
+In general, if what he says is true, not even this statement itself (I mean that the same thing can at one and the same time be and not be) will be true;
+
+because just as, when they are separated, the affirmation is no more true than the negation, so in the same way, if the complex statement is taken as a single affirmation, the negation will be just as true as the whole statement regarded as an affirmation.
+
+And further, if nothing can be truly affirmed, then this very statement—that there is no such thing as a true affirmation—will be false. But if there is such a thing, the contentions of those who raise objections of this kind and utterly destroy rational discourse may be considered to be refuted.
+
+Very similar to the views which we have just mentioned is the dictum of Protagoras; for he said that man is the measure of all things, by which he meant simply that each individual’s impressions are positively true.
+
+But if this is so, it follows that the same thing is and is not, and is bad and good, and that all the other implications of opposite statements are true; because often a given thing seems beautiful to one set of people and ugly to another, and that which seems to each individual is the measure.
+
+This difficulty will be solved if we consider the origin of the assumption. It seems probable that it arose in some cases from the doctrine of the natural philosophers, and in others from the fact that everyone does not form the same opinion about the same things, but to some a given thing seems sweet and to others the contrary.
+
+For that nothing comes from what is not, but everything from what is, is a doctrine common to nearly all natural philosophers. Since, then, a thing does not become white which was before completely white and in no respect not-white, that which becomes white must come from what was not-white. Hence according to this theory there would be generation from what is not, unless the same thing were originally white and not-white.
+
+However, it is not hard to solve this difficulty. We have explained in the Physics in what sense things which are generated are generated from what is not, and in what sense from what is.
+
+But to attach equal importance to the opinions and impressions of opposing parties is foolish, because clearly one side or the other must be wrong.
+
+This is evident from what happens in the sphere of sensation; for the same thing never seems to some people sweet and to others to the contrary unless one of the parties has the organ of sense which distinguishes the said flavors injured or impaired. Such being the case, the one party should be taken as the measure, and the other not.
+
+And I hold the same in the case of good and bad, and of beautiful and ugly, and of all other such qualities. For to maintain this view is just the same as to maintain that what appears to us when we press the finger below the eye and make a thing seem two instead of one must be two because it appears to be so, and then afterwards that it must be one; because if we do not interfere with our sight that which is one appears to be one.
+
+And in general it is absurd to form our opinion of the truth from the appearances of things in this world of ours which are subject to change and never remain in the same state; for it is by reference to those things which are always the same state and undergo no change that we should prosecute our search for truth.
+
+Of this kind are the heavenly bodies; for these do not appear to be now of one nature and subsequently of another, but are manifestly always the same and have no change of any kind.
+
+Again, if there is motion there is also something which is moved; and everything is moved from something and into something. Therefore that which is moved must be in that from which it is to be moved, and must also not be in it; and must be moved into so-and-so and must also come to be in it; but the contradictory statements cannot be true at the same time, as our opponents allege.
+
+And if the things of our world are in a state of continuous flux and motion in respect of quantity, and we assume this although it is not true, why should they not be constant in respect of quality? It appears that not the least reason why our opponents predicate opposite statements of the same thing is that they start with the assumption that quantity is not constant in the case of bodies; hence they say that the same thing is and is not six feet long.
+
+But essence depends upon quality, and this is of a determinate, whereas quantity is of an indeterminate nature.
+
+Again, when the doctor orders them to adopt some article of diet, why do they adopt it? For on their view it is no more true that a thing is bread than that it is not; and therefore it would make no difference whether they ate it or not. But as it is, they adopt a particular food as though they knew the truth about it and it were the food prescribed;
+
+yet they ought not to do so if there were no fixed and permanent nature in sensible things and everything were always in a state of motion and flux.
+
+Again, if we are always changing and never remain the same, is it any wonder that to us, as to the diseased, things never appear the same?
+
+For to the diseased, since they are not in the same physical condition as when they were well, sensible qualities do not appear to be the same; although this does not mean that the sensible things themselves partake of any change, but that they cause different, and not the same, sensations in the diseased. Doubtless the same must be true if the change which we have referred to takes place in us.
+
+If, however, we do not change but remain always the same, there must be something permanent.
+
+As for those who raise the aforesaid difficulties on dialectical grounds, it is not easy to find a solution which will convince them unless they grant some assumption for which they no longer require an explanation; for every argument and proof is possible only in this way. If they grant no assumption, they destroy discussion and reasoning in general.
+
+Thus there is no arguing with people of this kind; but in the case of those who are perplexed by the traditional difficulties it is easy to meet and refute the causes of their perplexity. This is evident from what has been already said.
+
+Thus from these considerations it is obvious that opposite statements cannot be true of the same thing at one time; nor can contrary statements, since every contrariety involves privation. This is clear if we reduce the formulae of contraries to their first principles.
+
+Similarly no middle term can be predicated of one and the same thing of which one of the contraries is predicated.
+
+If, when the subject is white, we say that it is neither white nor black, we shall be in error; for it follows that it is and is not white, because the first of the two terms in the complex statement will be true of the subject, and this is the contradictory of white.
+
+Thus we cannot be right in holding the views either of Heraclitus or of Anaxagoras.
+
+If we could, it would follow that contraries are predicable of the same subject; for when he says that in everything there is a part of everything, he means that nothing is sweet any more than it is bitter, and similarly with any of the other pairs of contraries; that is, if everything is present in everything not merely potentially but actually and in differentiation.
+
+Similarly all statements cannot be false, nor all true. Among many other difficulties which might be adduced as involved by this supposition there is the objection that if all statements were false, not even this proposition itself would be true; while if they were all true it would not be false to say that they are all false.
+
+Every science inquires for certain principles and causes with respect to every knowable thing which comes within its scope; e.g., the sciences of medicine and physical culture do this, and so does each of the other productive and mathematical sciences. Each one of these marks out for itself some class of objects, and concerns itself with this as with something existent and real, but not qua real; it is another science distinct from these which does this.
+
+Each of the said sciences arrives in some way at the essence in a particular class of things, and then tries to prove the rest more or less exactly. Some arrive at the essence through sense-perception, and some by hypothesis; hence it is obvious from such a process of induction that there is no demonstration of the reality or essence.
+
+Now since there is a science of nature, clearly it must be different from both practical and productive science. In a productive science the source of motion is in the producer and not in the thing produced, and is either an art or some other kind of potency; and similarly in a practical science the motion is not in the thing acted upon but rather in the agent.
+
+But the science of the natural philosopher is concerned with things which contain in themselves a source of motion. From this it is clear that natural science must be neither practical nor productive, but speculative; since it must fall under one of these classes.
+
+And since every science must have some knowledge of the essence and must use it as a starting-point, we must be careful to observe how the natural philosopher should define, and how he should regard the formula of essence—whether in the same way as the term snub, or rather as the term concave.
+
+For of these the formula of snub is stated in conjunction with the matter of the object, whereas that of concave is stated apart from the matter; since snubness is only found in the nose, which is therefore included in the formula, for the snub is a concave nose. Thus it is obvious that the formula of flesh and eye and the other parts of the body must always be stated in conjunction with their matter.
+
+Since there is a science of Being qua Being and separately existent, we must inquire whether this should be regarded as identical with natural science or rather as a distinct branch of knowledge. Physics deals with things which contain a source of motion in themselves, and mathematics is speculative and is a science which deals with permanent things, but not with things which can exist separately.
+
+Hence there is a science distinct from both of these, which deals with that which exists separately and is immovable; that is, if there really is a substance of this kind—I mean separately existent and immovable—as we shall endeavor to prove. And if there is an entity of this kind in the world of reality, here surely must be the Divine, and this must be the first and most fundamental principle.
+
+Evidently, then, there are three kinds of speculative science: physics, mathematics, and theology. The highest class of science is the speculative, and of the speculative sciences themselves the highest is the last named, because it deals with the most important side of reality; and each science is reckoned higher or lower in accordance with the object of its study.
+
+The question might be raised as to whether the science of Being qua Being should be regarded as universal or not.
+
+Each of the mathematical sciences deals with some one class of things which is determinate, but universal mathematics is common to all alike. If, then, natural substances are the first of existing things, physics will be the first of the sciences; but if there is some other nature and substance which exists separately and is immovable, then the science which treats of it must be different from and prior to physics, and universal because of its priority.
+
+Since the term Being in its unqualified sense is used with several meanings, of which one is accidental Being, we must first consider Being in this sense. Clearly none of the traditional sciences concerns itself with the accidental; the science of building does not consider what will happen to the occupants of the house, e.g. whether they will find it unpleasant or the contrary to live in; nor does the science of weaving or of shoemaking or of confectionery.
+
+Each of these sciences considers only what is proper to it, i.e. its particular end. As for the question whether the cultured is also the lettered, or the quibble that the man who is cultured, when he has become lettered, will be both at once although he was not before; but that which is but was not always so must have come to be; therefore he must have become at the same time cultured and lettered
+
+—none of the recognized sciences considers this, except sophistry. This is the only science which concerns itself with the accidental, and hence Plato was not far wrong in saying that the sophist spends his time in the study of unreality. But that it is not even possible for there to be a science of the accidental will be apparent if we try to see what the accidental really is.
+
+Of some things we say that they are so always and of necessity (necessity having the sense not of compulsion, but that which we use in logical demonstration), and of others that they are so usually, but of others that they are so neither usually nor always and of necessity, but fortuitously. E.g., there might be a frost at midsummer, although this comes about neither always and of necessity nor usually; but it might happen sometimes.
+
+The accidental, then, is that which comes about, but not always nor of necessity nor usually. Thus we have now stated what the accidental is; and it is obvious why there can be no science of such a thing, because every science has as its object that which is so always or usually, and the accidental falls under neither of these descriptions.
+
+Clearly there can be no causes and principles of the accidental such as there are of that which is per se; otherwise everything would be of necessity. For if A is when B is, and B is when C is, and C is not fortuitously but of necessity, then that of which C was the cause will also be of necessity, and so on down to the last causatum, as it is called.
+
+(But this was assumed to be accidental.) Therefore everything will be of necessity, and the element of chance, i.e. the possibility of a thing’s either happening or not, is entirely banished from the world of events. Even if we suppose the cause not to exist already but to be coming to be, the result will be the same; for everything will come to be of necessity.
+
+The eclipse tomorrow will come about if A does, and A will if B does, and B if C does; and in this way if we keep on subtracting time from the finite time between now and to-morrow, we shall at some point arrive at the present existing condition. Therefore since this exists, everything subsequent to it will happen of necessity, and so everything happens of necessity.
+
+As for what is in the sense of what is true or what is accidental, the former depends upon a combination in thought, and is an affection of thought (hence we do not look for the principles of Being in this sense, but only for those of objective and separable Being) the latter is not necessary but indeterminate (I mean the accidental); and of such a thing the causes are indefinite and cannot be reduced to a system.
+
+Teleology is found in events which come about in the course of nature or as a result of thought. It is chance 〈or luck 〉 when one of these comes about by accident; for a thing may be a cause, just as it may exist, either per se or accidentally. Chance is an accidental cause of normally purposive teleological events.
+
+Hence chance and thought have the same sphere of action, for there is no purpose without thought. Causes from which chance results may come about are indeterminate; hence chance is inscrutable to human calculation, and is a cause only accidentally, but in the strictest sense is a cause of nothing.
+
+It is good or bad luck when the result is good or bad, and good or bad fortune when the result is on a large scale.
+
+Since nothing accidental is prior to that which is per se, neither are accidental causes prior. Therefore if chance or spontaneity is the cause of the universe, mind and nature are prior causes.
+
+A thing may exist only actually or potentially, or actually and potentially; it may be a substance or a quantity or one of the other categories. There is no motion apart from things, for change is always in accordance with the categories of Being; and there is nothing which is common to these and in no one category. Each category belongs to all its members in two ways—e.g. substance, for this is sometimes the form of the thing and sometimes its privation;
+
+and as regards quality there is white and black; and as regards quantity, complete and incomplete; and as regards spatial motion there is up and down or light and heavy—so that there are as many forms of motion and change as there are of Being.
+
+Now since every kind of thing is divided into the potential and the real, I call the actualization of the potential as such, motion.
+
+That this is a true statement will be clear from what follows. When the buildable in the sense in which we call it such exists actually, it is being built; and this is the process of building. The same is true of the processes of learning, healing, walking, jumping, ageing, maturing. Motion results when the complete reality itself exists, and neither sooner nor later.
+
+The complete reality, then, of that which exists potentially, when it is completely real and actual, not qua itself but qua movable, is motion. By qua I mean this. The bronze is potentially a statue; but nevertheless the complete reality of the bronze qua bronze is not motion. To be bronze is not the same as to be a particular potentiality; since if it were absolutely the same by definition the complete reality of the bronze would be a kind of motion; but it is not the same.
+
+(This is obvious in the case of contraries; for the potentiality for health and the potentiality for illness are not the same—for if they were, health and illness would be the same too—but the substrate which becomes healthy or ill, whether it is moisture or blood, is one and the same.) And since it is not the same, just as color and visible are not the same, it is the complete reality of the potential qua potential that is motion.
+
+It is evident that it is this, and that motion results when the complete reality itself exists, and neither sooner nor later. For everything may sometimes be actual, and sometimes not; e.g. the buildable qua buildable; and the actualization of the buildable qua buildable is the act of building.
+
+For the actualization is either this—the act of building—or a house. But when the house exists, it will no longer be buildable; the buildable is that which is being built. Hence the actualization must be the act of building, and the act of building is a kind of motion. The same argument applies to the other kinds of motion.
+
+That this account is correct is clear from what the other authorities say about motion, and from the fact that it is not easy to define it otherwise. For one thing, it could not be placed in any other class; this is clear from the fact that some people identify it with otherness and inequality and not-being, none of which is necessarily moved;
+
+moreover change is no more into these or out of them than into or out of their opposites. The reason for placing motion in this class is that it is considered to be indeterminate, and the principles in one of the columns of contraries are indeterminate, being privative; for none of them is a determinate thing or quality or any of the other categories.
+
+The reason for considering motion to be indeterminate is that it cannot be associated either with the potentiality or with the actuality of things; for neither that which is potentially nor that which is actually of a certain size is necessarily moved.
+
+And motion is considered to be a kind of actualization, but incomplete; the reason of this is that the potential, of which it is the actualization, is incomplete.
+
+Thus it is difficult to comprehend what motion is; for we must associate it either with privation or with potentiality or with absolute actuality; and apparently none of these is possible.
+
+There remains, then, the account which we have given; that it is an actuality, and an actuality of the kind which we have described, which is hard to visualize but capable of existing.
+
+That motion is in the movable is evident; for it is the complete realization of the movable by that which is capable of causing motion, and the actualization of that which is capable of causing motion is identical with that of the movable.
+
+For it must be a complete realization of them both; since a thing is capable of moving because it has the potentiality, but it moves only when it is active; but it is upon the movable that it is capable of acting. Thus the actuality of both alike is one; just as there is the same interval from one to two as from two to one, and the hill up and the hill down are one, although their being is not one; the case of the mover and the thing moved is similar.
+
+The infinite is either (a) that which cannot be traversed because it is not its nature to be traversed (just as sound is by nature invisible); or (b) that which admits of an endless traverse; or (c) scarcely admits of traverse; or (d) which, though it would naturally admit of traverse or limit, does not do so. Further, it may be infinite in respect of addition or of subtraction or of both.
+
+That the infinite should be a separate independent entity, and yet imperceptible, is impossible.
+
+For if it is neither magnitude nor plurality, but infinity itself is the essence of it, and not merely an accident, it must be indivisible; because that which is divisible is either magnitude or plurality. And if it is indivisible it cannot be infinite, except in the same way as sound is invisible. But this is not what people mean by infinite; and it is not the infinite in this sense that we are investigating, but the infinite in the sense of the untraversable.
+
+Again, how can the infinite exist independently unless number and magnitude, of which infinity is an attribute, also exist independently? And further, if the infinite is accidental, it cannot, qua infinite, be an element of things; just as the invisible is not an element of speech, although sound is invisible. It is clear also that the infinite cannot exist actually.
+
+Otherwise any part of it which we might take would be infinite; for infinity and the infinite are the same, if the infinite is substance and is not predicated of a subject. Therefore it is either indivisible, or if it is partible, the parts into which it is divisible are infinite. But the same thing cannot be many infinites; for just as a part of air is air, so a part of the infinite will be infinite, if the infinite is a substance and principle.
+
+Therefore it is impartible and indivisible. But this is impossible of the actually infinite, because it must be some quantity. Therefore infinity is an accidental attribute. But if so, as we have said, it cannot be it that is a principle, but that of which it is an accident: air or the even.
+
+The foregoing inquiry is general; but what follows will show that the infinite does not exist in sensible things.
+
+If the definition of a body is that which is bounded by surfaces, then no body, whether sensible or intelligible, can be infinite nor can there be any separate and infinite number, since number or that which involves number is numerable. This is clearly shown by the following concrete argument. The infinite can neither be composite nor simple. For (a) it cannot be a composite body if the elements are limited in number;
+
+for the contraries must be equal, and no one of them must be infinite; for if the potency of one of the two corporeal elements is in any way inferior, the finite element will be destroyed by the infinite. And every element cannot be infinite, because body is that which has extension in all directions, and the infinite is that which is extended without limit; so that if the infinite is corporeal it will be infinite in all directions.
+
+Nor (b) can the infinite be any simple body; neither, as some hold, something which is apart from the elements and from which they suppose the elements to be generated (for there is no such body apart from the elements; everything can be resolved into that of which it consists, but we do not see things resolved into anything apart from the simple bodies), nor fire nor any other element.
+
+Apart from the question of how any of them could be infinite, the All, even if it is finite, cannot be or become any one of the elements, as Heraclitus says all things at certain times become fire. The same argument applies as to the One which the physicists posit besides the elements; for all change proceeds from the contrary, e.g. from hot to cold.
+
+Again, a sensible body is in some region, and the region of the whole and of the part (e.g. of the earth) is the same. Therefore if the infinite body is homogeneous, it will be immovable or will always be in motion; but this is impossible, for why should there be rest or motion below rather than above or in any other region? E.g., if there were a clod, in what region would it move or be at rest?
+
+The region proper to the body which is homogeneous with the clod is infinite. Then will the clod occupy the whole of that region? How can it? Then what of its rest or motion? It will either rest everywhere—in which case it cannot move—or move everywhere; in which case it cannot rest. And if the whole is not alike throughout, the regions proper to its parts are unlike also; and (a) the body of the whole is not one, except in virtue of contact; (b) the parts will be either finite or infinite in kind.
+
+Finite they cannot be, for then those of one kind would be infinite and those of another would not (if the whole is infinite); e.g., fire or water would be infinite. But such a condition would involve the destruction of the contraries. But if the parts are infinite and simple, the regions proper to them are infinite and the elements will be infinite. And since this is impossible, the regions are finite and the whole must be finite.
+
+In general, there cannot be an infinite body and a place for bodies if every body which is sensible has either weight or lightness; for it will have to move either towards the center or upwards, and the infinite—either the whole or the half—cannot do either; for how can you divide it? How can the infinite be part up and part down, or part extreme and part center?
+
+Further, every sensible body is in some place, and of place there are six kinds, but these cannot exist in an infinite body. In general, if an infinite place is impossible, so is an infinite body; because that which is in a place is somewhere, and this means either up or down or one of the other kinds of place, and each of these is a limit.
+
+The infinite is not the same in the sense that it is one nature whether it applies to magnitude or to motion or to time; the posterior is derived from the prior sense, e.g. motion is called infinite in virtue of the magnitude involved when a thing is moved or changed or increased, and time is so called on account of motion.
+
+That which changes either changes accidentally, as when the cultured walks; or is said to change in general because something in it changes, as in the case of things which change in their parts; the body becomes healthy because the eye does.
+
+But there is something which is moved directly per se, i.e. the essentially movable. The same applies to that which moves, for it moves sometimes accidentally, sometimes partially, and sometimes per se. There is something that moves directly, and something that is moved; and also a time in which, and something from which, and something into which it is moved. But the forms and modifications and place into which moving things are moved are immovable; e.g. knowledge and warmth. It is not warmth that is motion, but the process of warming.
+
+Non-accidental change is not found in all things, but only between contraries and intermediates and contradictories. We can convince ourselves of this by means of induction. That which changes changes either from positive into positive, or from negative into negative, or from positive into negative, or from negative into positive.
+
+By positive I mean that which is denoted by an affirmation. Thus there must be three forms of change; for that which is from negative into negative is not change, because they are neither contraries nor contradictories, since they entail no opposition. The change from the negative into its contradictory positive is generation—absolute change absolute generation, and qualified change qualified generation; and the change from the positive to the negative is destruction—absolute change absolute destruction, and qualified change qualified destruction.
+
+Now if what is not has several meanings, and neither that which implies a combination or separation of terms, nor that which relates to potentiality and is opposed to unqualified Being, admits of motion (not-white or not-good, however, admits of motion accidentally, because not-white may be a man; but that which is not so-and-so in an absolute sense does not admit of it at all), then what is not cannot be moved. If this is so, generation cannot be motion; for it is what is not that is generated.
+
+For even if the generation is in the highest degree accidental, still it is true to say that not-being is predicable of that which is generated absolutely. And the argument applies similarly to rest. Thus not only do these difficult conclusions follow, but also that everything which is moved is in a place, whereas what is not is not in a place; for then it would be somewhere. Nor is destruction motion; for the contrary of motion is motion or rest, but the contrary of destruction is generation.
+
+And since every motion is a kind of change, and the three kinds of change are those which we have described, and of these those which relate to generation and destruction are not motions, and these are the changes between contradictories, the change from positive to positive must alone be motion. The subjects are either contraries or intermediates (for privative terms may also be regarded as contraries) and are denoted by a positive term—e.g. naked or toothless or black.
+
+Now since the categories are distinguished as substance, quality, place, activity or passivity, relation and quantity, there must be three kinds of motion, in respect of quality, quantity and place. There is no motion in respect of substance, because substance has no contrary; nor of the relative, because it is possible that when one of two related things changes the relation to it of the other thing, even though the thing itself does not change, may become untrue; therefore the motion of these related things is accidental.
+
+Nor is there motion of the agent or patient, or of the mover and the thing moved, because there is no motion of motion nor no generation of generation, nor in general is there change of change. There are two ways in which there might be motion of motion: (1) Motion might be the subject of motion, as, e.g., a man is moved because he changes from white to black; in this way motion might be heated or cooled or might change its place or increase.
+
+But this is impossible, because the change is not a subject. Or (2) some other subject might change from change to some other form of existence, as, e.g., a man changes from sickness to health. But this is also impossible except accidentally.
+
+Every motion is a change from one thing into something else; and the same is true of generation and destruction, except that these are changes into opposites in one sense, while the other, i.e. motion, is a change into opposites in another sense. Hence a thing changes at the same time from health to sickness, and from this change itself into another.
+
+Now clearly if it has fallen ill it will be already changed (for it cannot remain at rest) into that other change, whatever it may be; and further this cannot be, in any given case, any chance change; and it also must be from something into something else. Therefore it will be the opposite change, viz. becoming healthy. But this is so accidentally; just as there is change from recollecting to forgetting because the subject changes, now in the direction of knowledge and now in that of ignorance.
+
+Further, we shall have an infinite series if there is to be change of change and becoming of becoming, because if the latter of two becomings comes to be from the former, the former must come to be too. E.g., if simple becoming was once coming to be, that which comes to be something was also once coming to be. Therefore that which simply comes to be was not yet, but there was already something coming to be coming to be something.
+
+But this too was at one time coming to be, and therefore it was not at that time coming to be something. But in infinite series there is no first term, and therefore in this series the first term cannot exist, nor can any subsequent term. Therefore nothing can be either generated or moved or changed.
+
+Further, the same thing which admits of motion admits also of the contrary motion and of rest, and that which admits of generation admits also of destruction.
+
+Therefore that which comes to be, when it has come to be coming to be, is then in course of perishing; for it does not perish as soon as it is coming to be coming to be, nor afterwards, because that which is perishing must exist.
+
+Further, there must be some matter underlying that which is coming to be or changing. What then will it be? What is it that becomes motion or generation in the same way as it is body or soul that undergoes change? And moreover what is that which is the terminus of the motion? For that which we are considering must be a motion or generation of A from B into C.
+
+How then can these conditions be fulfilled? There can be no learning of learning, and therefore there can be no generation of generation.
+
+Since there is no motion of substance or of the relative or of activity and passivity, it remains that there is motion in respect of quality, quantity and place; for each of these admits of contrariety. By quality I mean not that which is in the substance (for indeed even the differentia is a quality), but the passive quality in virtue of which a thing is said to be acted upon or to be immune from being acted upon.
+
+The immovable is either that which is wholly incapable of being moved, or that which is scarcely moved in the course of a long time or is slow in starting, or that which would naturally be moved but cannot be moved at the time when and from the place whence and in the way in which it would naturally be moved. This last is the only kind of immovable thing which I recognize as being at rest; for rest is contrary to motion, and so must be a privation of that which admits of motion.
+
+Things are together in place which are in the primary sense in one place, and separate which are in different places. Contrary in place is that which is at a maximum distance in a straight line. Things are said to be in contact whose extremes are together in place. An intermediate is that at which a changing thing which changes continuously in accordance with its nature naturally arrives before it arrives at the extreme into which it is changing. Since all change takes place between opposites, and these are either contraries or contradictories, and contradictories have no middle term, clearly it is to the sphere of contraries that the intermediate belongs.
+
+Successive is that which comes after the beginning (the order being determined by position or form or in some other way) and has nothing of the same class between itself and that which it succeeds; e.g. lines in the case of a line, and units in that of a unit, and a house in the case of a house (but there is nothing to prevent something else from coming between). For that which is successive is a thing which is successive and posterior to some other thing. 1 is not successive to 2, nor is the new moon to the second day of the month.
+
+Contiguous is that which is successive and in contact. The continuous is a species of the contiguous.
+
+I call two things continuous when their respective boundaries, by which they are kept together in contact, become one and the same; hence clearly the continuous belongs to the sphere of things whose nature it is to become one by contiguity.
+
+Clearly successive is the most ultimate term; for the successive need not be in contact, but contact implies succession; and if there is continuity there is contact, but if there is contact there is not necessarily continuity;
+
+and where there is no contact there is no coalescence. Therefore a point is not the same as a unit; for points admit of contact, whereas units do not, but only of succession; and between points there is something intermediate, but between units there is not.

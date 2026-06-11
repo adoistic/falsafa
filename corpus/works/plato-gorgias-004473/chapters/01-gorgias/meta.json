@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-gorgias-004473",
+  "work_title": "Gorgias",
+  "chapter_number": 1,
+  "chapter_title": "Gorgias",
+  "chapter_slug": "01-gorgias",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a2b67996-0b11-5d99-9db5-c141a1752d22",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 27280,
+      "paragraph_count": 1108,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg023.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5af8e33e-8148-59d7-bae0-4590e473f671",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 37846,
+      "paragraph_count": 1113,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg023.perseus-eng2"
+    }
+  ]
+}

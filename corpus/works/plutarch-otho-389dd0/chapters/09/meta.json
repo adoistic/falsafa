@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-otho-389dd0",
+  "work_title": "Otho",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b649972c-a8d2-507e-af41-8b6eaf7b70de",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 222,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg066.perseus-grc2:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "24fda7ef-7dbb-5f16-87ce-79a4df3ed260",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 351,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg066.perseus-eng2:9"
+    }
+  ]
+}

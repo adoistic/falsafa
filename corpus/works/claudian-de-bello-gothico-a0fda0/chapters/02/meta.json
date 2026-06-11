@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-de-bello-gothico-a0fda0",
+  "work_title": "de Bello Gothico",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "edb08ead-76c1-57d0-8b05-906e927bdc22",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3933,
+      "paragraph_count": 199,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa003.perseus-lat2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7682ef52-9f6d-5574-9358-e077e8b066de",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6876,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa003.perseus-eng1:2"
+    }
+  ]
+}

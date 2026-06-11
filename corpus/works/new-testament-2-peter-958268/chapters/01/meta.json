@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-2-peter-958268",
+  "work_title": "2 Peter",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8fb97d25-f75c-519f-b925-af3a808a3812",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 384,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg022.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e0779c22-3e4b-5142-bef8-0ffd018ed1c7",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 479,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg022.perseus-eng2:1"
+    }
+  ]
+}

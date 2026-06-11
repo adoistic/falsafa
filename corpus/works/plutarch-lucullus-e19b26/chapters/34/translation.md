@@ -1,0 +1,27 @@
+---
+work_id: "e19b265b-8b99-5a57-9332-bef51825252b"
+work_slug: "plutarch-lucullus-e19b26"
+work_title: Lucullus
+author_name: Plutarch
+chapter_number: 34
+chapter_title: Chapter 34
+chapter_slug: 34
+variant_id: "7067076d-9224-56a6-afd8-369ad2e62f50"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 399
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg036.perseus-eng2:34"
+translator: Bernadotte Perrin
+---
+
+To these factors in the case, so unfavourable in themselves, there was added another, which most of all vitiated the undertakings of Lucullus. This was Publius Clodius, a man of wanton violence, and full of all arrogance and boldness. He was a brother of the wife of Lucullus, a woman of the most dissolute ways, whom he was actually accused of debauching.
+
+At this time he was in service with Lucullus, and did not get all the honour which he thought his due. He thought a foremost place his due, and when many were preferred before him because of his evil character, he worked secretly upon the soldiers who had been commanded by Fimbria, and tried to incite them against Lucullus, disseminating among them speeches well adapted to men who were neither unwilling nor unaccustomed to have their favour courted. These were the men whom Fimbria had once persuaded to kill the consul Flaccus, and choose himself for their general.
+
+They therefore gladly listened to Clodius also, and called him the soldier’s friend. For he pretended to be incensed in their behalf, if there was to be no end of their countless wars and toils, but they were rather to wear out their lives in fighting with every nation and wandering over every land, receiving no suitable reward for such service, but convoying the waggons and camels of Lucullus laden with golden beakers set with precious stones, while the soldiers of Pompey, citizens now, were snugly ensconced with wives and children in the possession of fertile lands and prosperous cities,—not for having driven Mithridates and Tigranes into uninhabitable deserts, nor for having demolished the royal palaces of Asia, but for having fought with wretched exiles in Spain and runaway slaves in Italy. Why, then, he would cry, if our campaigns are never to come to an end, do we not reserve what is left of our bodies, and our lives, for a general in whose eyes the wealth of his soldiers is his fairest honour?
+
+For such reasons as these the army of Lucullus was demoralised, and refused to follow him either against Tigranes, or against Mithridates, who had come back into Pontus from Armenia, and was trying to restore his power there. They made the winter their excuse for lingering in Gordyené, expecting every moment that Pompey, or some other commander, would be sent out to succeed Lucullus.

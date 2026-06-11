@@ -1,0 +1,38 @@
+{
+  "work_slug": "andocides-on-the-peace-with-sparta-d9d661",
+  "work_title": "On the Peace with Sparta",
+  "chapter_number": 1,
+  "chapter_title": "On the Peace with Sparta",
+  "chapter_slug": "01-on-the-peace-with-sparta",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e823c5b5-2132-5b2b-8983-e4534c1a07f8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2671,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0027.tlg003.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "85a7be4c-77c6-53ad-abd0-ceffe20e04ca",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3671,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0027.tlg003.perseus-eng2"
+    }
+  ]
+}

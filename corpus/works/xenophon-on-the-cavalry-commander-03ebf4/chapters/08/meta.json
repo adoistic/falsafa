@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-on-the-cavalry-commander-03ebf4",
+  "work_title": "On the Cavalry Commander",
+  "chapter_number": 8,
+  "chapter_title": "Chapter 8",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0e024947-3e9e-5cb3-84b1-5b75d64d3879",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 985,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg012.perseus-grc2:8"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a1c3567a-64cd-51fd-9358-bd01d64ec859",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1342,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg012.perseus-eng2:8"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+---
+work_id: "4ad6b639-d4b7-5a5b-b4ac-d62c04090fd8"
+work_slug: "plutarch-agesilaus-4ad6b6"
+work_title: Agesilaus
+author_name: Plutarch
+chapter_number: 15
+chapter_title: Chapter 15
+chapter_slug: 15
+variant_id: "6e9754a5-3ee8-5d31-b8ca-9526ac7b2593"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 560
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg044.perseus-eng2:15"
+translator: Bernadotte Perrin
+---
+
+Asia being now unsettled and in many quarters inclining to revolt, Agesilaüs set the cities there in order, and restored to their governments, without killing or banishing any one, the proper form. Then he determined to go farther afield, to transfer the war from the Greek sea, to fight for the person of the King and the wealth of Ecbatana and Susa, and above all things to rob that monarch of the power to sit at leisure on his throne, playing the umpire for the Greeks in their wars, and corrupting their popular leaders.
+
+But at this point Epicydidas the Spartan came to him with tidings that Sparta was involved in a great war with other Greeks, and that the ephors called upon him and ordered him to come to the aid of his countrymen. O barbarous ills devised by Greeks! How else can one speak of that jealousy which now leagued and arrayed the Greeks against one another? They laid violent hands on Fortune in her lofty flight, and turned the weapons which threatened the Barbarians, and War, which had at last been banished from Greece, back again upon themselves.
+
+I certainly cannot agree with Demaratus the Corinthian, who said that those Greeks had missed a great pleasure who did not behold Alexander seated on the throne of Dareius, nay, I think that such might well have shed tears when they reflected that this triumph was left for Alexander and Macedonians by those who now squandered the lives of Greek generals on the fields of Leuctra, Coroneia, and Corinth, and in Arcadia.
+
+Agesilaüs, however, never performed a nobler or a greater deed than in returning home as he now did, nor was there ever a fairer example of righteous obedience to authority. For Hannibal, though he was already in an evil plight and on the point of being driven out of Italy, could with the greatest difficulty bring himself to obey his summons to the war at home; and Alexander actually went so far as to jest when he heard of Antipater’s battle with Agis, saying: It would seem, my men, that while we were conquering Dareius here, there has been a battle of mice there in Arcadia.
+
+Why, then, should we not call Sparta happy in the honour paid to her by Agesilaüs, and in his deference to her laws? No sooner had the dispatch-roll come to him than he renounced and abandoned the great good fortune and power already in his grasp, and the great hopes which beckoned him on, and at once sailed off with task all unfulfilled, leaving behind a great yearning for him among his allies, and giving the strongest confutation to the saying of Erasistratus the son of Phaeax, who declared that the Lacedaemonians were better men in public life, but the Athenians in private.
+
+For while approving himself a most excellent king and general, he showed himself a still better and more agreeable friend and companion to those who enjoyed his intimacy. Persian coins were stamped with the figure of an archer, and Agesilaüs said, as he was breaking camp, that the King was driving him out of Asia with ten thousand archers; for so much money had been sent to Athens and Thebes and distributed among the popular leaders there, and as a consequence those peoples made war upon the Spartans.

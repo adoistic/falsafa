@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 4,
+  "chapter_title": "CHAPTER II. OF LABOUR AS AN AGENT OF PRODUCTION.",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4fb18aab-3e7e-5b01-926c-5ad6f9cd2271",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 6134,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

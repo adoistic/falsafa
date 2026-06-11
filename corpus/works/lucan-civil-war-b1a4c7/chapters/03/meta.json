@@ -1,0 +1,39 @@
+{
+  "work_slug": "lucan-civil-war-b1a4c7",
+  "work_title": "Civil War",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose",
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "76edcde1-e1f0-5ea8-9331-953916c6a4a8",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 139,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0917.phi001.perseus-lat2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e1de4c9e-2e12-54ac-88d2-f0f4f1259810",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6726,
+      "paragraph_count": 849,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0917.phi001.perseus-eng2:3"
+    }
+  ]
+}

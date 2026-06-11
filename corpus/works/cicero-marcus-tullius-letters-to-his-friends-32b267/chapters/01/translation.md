@@ -1,0 +1,27 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 1
+chapter_title: "Chapter text=F:book=5:letter=7"
+chapter_slug: 01
+variant_id: "1e9b467c-e36f-5404-bce7-6b68fdc9b9bf"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 675
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:1"
+translator: Perseus Digital Library
+---
+
+We have no letters to or from Cicero in the years B.C. 64 and 63, partly, no doubt, because Atticus was in Rome a great deal during these years. We take up the correspondence, therefore, after an interval of two years, which in many respects were the most important in Cicero 's life. In B.C. 64 he attained his chief ambition by being elected to the consulship, but we have little trace of his public actions that year, only the fragments of one speech remaining, in defence of Q. Gallius on a charge of ambitus. The animus of the popular party, however, is shown by the prosecution of some surviving partisans of Sulla on charges of homicide, among them Catiline, who by some means escaped conviction (). In the year of the consulship (B.C. 63) some of Cicero 's most important speeches were delivered. The three on the agrarian proposals of Rullus present him to us for the first time as discussing an important question of home politics, the disposal of the ager publicus a question which had become again prominent owing to the great additions made to it by the confiscations of Sulla. He also defended C. Rabirius, prosecuted by Iulius Caesar for the murder of Saturninus as long ago as B.C. 100, and later in the year defended Murena on a charge of ambitus. Finally, the three Catilinarian speeches illustrate the event which coloured the whole of Cicero 's life. In B.C. 62 his brother Quintus was praetor and Cicero defended in his court P. Sulla, accused of complicity with Catiline. On the 29th of December (B.C. 63) the tribune Q. Caecilius Metellus Nepos prevented Cicero from making a speech when laying down his consulship, and went on to propose summoning Pompey to Rome, "to protect the lives of the citizens." This led to scenes of violence, and Metellus fled to Pompey, who reached Italy late in the year B.C. 62 from the East.
+
+TO CN. POMPEIUS MAGNUS
+
+ROME
+
+M. Tullius Cicero, son of Marcus, greets Cn. Pompeius, son of Cneius, Imperator. If you and the army are well I shall be glad. From your official despatch I have, in common with everyone else, received the liveliest satisfaction; for you have given us that strong hope of peace, of which, in sole reliance on you, I was assuring everyone. But I must inform you that your old enemies—now posing as your friends—have received a stunning blow by this despatch, and, being disappointed in the high hopes they were entertaining, are thoroughly depressed. Though your private letter to me contained a somewhat slight expression of your affection, yet I can assure you it gave me pleasure: for there is nothing in which I habitually find greater satisfaction than in the consciousness of serving my friends; and if on any occasion I do not meet with an adequate return, I am not at all sorry to have the balance of kindness in my favour. Of this I feel no doubt—even if my extraordinary zeal in your behalf has failed to unite you to me—that the interests of the state will certainly effect a mutual attachment and coalition between us. To let you know, however, what I missed in your letter I will write with the candour which my own disposition and our common friendship demand. I did expect some congratulation in your letter on my achievements, for the sake at once of the ties between us and of the Republic. This I presume to have been omitted by you from a fear of hurting anyone's feelings. But let me tell you that what I did for the salvation of the country is approved by the judgment and testimony of the whole world. You are a much greater man than Africanus, but I am not much inferior to Laelius either; and when you come home you will recognize that I have acted with such prudence and spirit, that you will not be ashamed of being coupled with me in politics as well as in private friendship.

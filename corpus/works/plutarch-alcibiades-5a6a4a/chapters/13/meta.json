@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-alcibiades-5a6a4a",
+  "work_title": "Alcibiades",
+  "chapter_number": 13,
+  "chapter_title": "Chapter 13",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "36edec9c-897d-57a0-aaf2-9c991e1d0117",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 307,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg015.perseus-grc2:13"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "35d2b542-4c43-5d7c-8efc-02ddc3c6fa78",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 447,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg015.perseus-eng2:13"
+    }
+  ]
+}

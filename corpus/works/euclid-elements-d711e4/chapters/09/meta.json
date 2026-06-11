@@ -1,0 +1,38 @@
+{
+  "work_slug": "euclid-elements-d711e4",
+  "work_title": "Elements",
+  "chapter_number": 9,
+  "chapter_title": "Book 9",
+  "chapter_slug": "09",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "667b71d3-d261-5bc0-a203-7f75ae6406dd",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7918,
+      "paragraph_count": 122,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1799.tlg001.perseus-grc2:9"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1f69c52f-418b-5a8a-b2a3-6906634d974d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9039,
+      "paragraph_count": 419,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1799.tlg001.perseus-eng2:9"
+    }
+  ]
+}

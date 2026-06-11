@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-hellenica-55ce99",
+  "work_title": "Hellenica",
+  "chapter_number": 7,
+  "chapter_title": "Book 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a23c3019-1442-55a3-8d41-8379833facd8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 10283,
+      "paragraph_count": 148,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg001.perseus-grc2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8b6e18b-8e65-51a7-8e6e-c7ab59bb0b21",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 15878,
+      "paragraph_count": 154,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg001.perseus-eng2:7"
+    }
+  ]
+}

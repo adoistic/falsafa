@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ii-samuel-feb429",
+  "work_title": "II Samuel",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4c4d58cb-1d4d-5ea9-b968-31ee9fc50221",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 368,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg012.1st1K-grc1:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "88ba9c04-8bd2-5eaa-a5e4-2681b5bbad09",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 421,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg012.perseus-eng2:4"
+    }
+  ]
+}

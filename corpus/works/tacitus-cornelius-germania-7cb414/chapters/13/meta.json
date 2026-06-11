@@ -1,0 +1,38 @@
+{
+  "work_slug": "tacitus-cornelius-germania-7cb414",
+  "work_title": "Germania",
+  "chapter_number": 13,
+  "chapter_title": "Chapter 13",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dcf759ab-4641-5db7-b34c-bf28988ee78c",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 152,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi002.perseus-lat1:13"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "087da4d6-2275-52f8-b9ea-0c982fedfd60",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 280,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi002.perseus-eng1:13"
+    }
+  ]
+}

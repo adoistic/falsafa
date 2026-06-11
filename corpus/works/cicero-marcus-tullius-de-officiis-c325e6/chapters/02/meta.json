@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-de-officiis-c325e6",
+  "work_title": "De Officiis",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b958d944-4869-5855-ae58-44e28d8d1382",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8525,
+      "paragraph_count": 134,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi055.perseus-lat1:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d6123d67-113b-550d-88f5-d5d49c189be9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 14446,
+      "paragraph_count": 114,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi055.perseus-eng1:2"
+    }
+  ]
+}

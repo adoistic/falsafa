@@ -1,0 +1,21 @@
+---
+work_id: "311ae72f-0571-54bf-84ba-1c4cffbaf679"
+work_slug: "pseudo-caesar-de-bello-alexandrino-311ae7"
+work_title: De Bello Alexandrino
+author_name: "Pseudo-Caesar"
+chapter_number: 20
+chapter_title: Chapter 20
+chapter_slug: 20
+variant_id: "10bc3e0e-befc-569b-8e9d-c9b7e2b20db9"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 327
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0428.phi001.perseus-eng1:20"
+translator: Perseus Digital Library
+---
+
+While Caesar was occupied with this situation, and as he was encouraging the troops, a large number of rowers and seamen left our warships and suddenly landed on the mole. Some were inspired by their anxiety to watch the fray, others also by the desire to take part in it. They began by driving back the enemy vessels from the mole with stones and slings, and it seemed that their heavy volleys of missiles were having great effect. But when a few Alexandrians ventured to disembark beyond that point, on the side of their unprotected flank, then, just as they had advanced in no set order or formation and without any particular tactics, so now they began to retire haphazardly to the ships. Encouraged by their retreat, more of the Alexandrians disembarked and pursued our flustered men more hotly. At the same time those who had stayed aboard the warships made haste to seize the gang-planks and ease the ships away from land, to prevent the enemy from gaining possession of them. All this thoroughly alarmed our troops of the three cohorts which had taken post on the bridge and the tip of the mole; and as they heard the clamour behind them, and saw the retreat of their comrades, and sustained a heavy frontal barrage of missiles, they feared they might be surrounded in rear and have their retreat entirely cut off by the departure of their ships and so they abandoned the entrenchment they had begun at the bridge, and doubled frantically to the ships. Some of them gained the nearest ships, only to be capsized by the weight of so many men: some were killed by the Alexandrians as they put up a forlorn and bewildered resistance; some proved luckier in reaching ships at anchor cleared for action, and so got away safely; and a few, holding their shields above them and steeling their resolution to the task, swam off to ships near by.

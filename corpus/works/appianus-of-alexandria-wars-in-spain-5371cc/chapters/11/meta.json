@@ -1,0 +1,38 @@
+{
+  "work_slug": "appianus-of-alexandria-wars-in-spain-5371cc",
+  "work_title": "Wars in Spain",
+  "chapter_number": 11,
+  "chapter_title": "Chapter 11",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8aa74304-f541-58e1-aa17-ff7483812270",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 948,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg007.perseus-grc2:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a681c87c-aa40-53cf-b20b-61f7d10c282e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1327,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg007.perseus-eng2:11"
+    }
+  ]
+}

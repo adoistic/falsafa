@@ -1,0 +1,29 @@
+---
+work_id: "3bed3e21-0098-5a01-83ce-3f05144abb7f"
+work_slug: "gustave-de-molinari-the-society-of-tomorrow-3bed3e"
+work_title: The Society of Tomorrow
+author_name: Gustave de Molinari
+chapter_number: 2
+chapter_title: Prefatory Letter TO MR. FISHER UNWIN
+chapter_slug: "02-prefatory-letter-to-mr-fisher-unwin"
+variant_id: "dd88233a-372c-59ed-8366-f7b05c7df2ef"
+content_type: translation
+layout: prose
+language: english
+source_language: French
+language_direction: ltr
+script: latin
+word_count: 415
+source_url: "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
+translator: P. H. Lee Warner (1904)
+---
+
+You are about to publish an English version of my friend M. de Molinari's book, "La Société Future," and you do me the honour to request a few lines of introduction from my pen. To a write adequately of such a book would require time that my age and obligations do not, unfortunately, permit me to give. Since, however, the opportunity does occur, I should be most unwilling to let the book appear without at least testifying my esteem and admiration for the character and talent of the man who is to-day, unless I am mistaken, the doyen of our economists—I should say of our liberal economists—of the men with whom, though, alas! few in number, I have been happy to stand side by side during more than half a century.
+
+Their principles were proclaimed and defended in England through the mouths of Adam Smith, Fox, Cobden, Gladstone, and Bright. In France they were championed by Quesnay, Turgot, Say, Michel Chevalier, Laboulaye, and Bastiat. And my belief grows yearly stronger that, but for these principles, the societies of the present would be without wealth, peace, material greatness, or moral dignity.
+
+Monsieur de Molinari has maintained these principles from his youth, from the day when—at the epoch of our Revolution of 1848—he first upheld them at the Soirées de la Rue St. Lazare. His "Conversations Familières sur la Commerce des Grains" gave them a new and attractive shape. He has defended his convictions both in his regular courses of lectures and also in those other lectures by means of which he has spread his principles even within the borders of Russia. Month by month the important Review of which he is editor-in-chief repeats them in a fresh guise; and annually, so to speak, a further book, as distinguished for clearness of grasp as for admirable literary style, goes out to testify to the constancy of his convictions no less than to the unimpaired vigour of his mental outlook and the virile serenity of his green old age.
+
+The book which you are about to introduce to the English public is, in some sort, a summing-up of his long studies of the past, his clear-sighted observations upon the present, and his shrewd predictions for the future. You, Sir, do well when you endeavour to obtain for it that additional publicity which it deserves; and I count myself fortunate that you have permitted me to contribute, in however small a degree, to so admirable an end.
+
+Frédéric Passy.

@@ -1,0 +1,31 @@
+---
+work_id: "e9b4b43d-3e3d-50f1-b323-a0afc6ca8a5f"
+work_slug: "plutarch-artaxerxes-e9b4b4"
+work_title: Artaxerxes
+author_name: Plutarch
+chapter_number: 19
+chapter_title: Chapter 19
+chapter_slug: 19
+variant_id: "2a7edf04-651e-537f-91e8-0a0685896f17"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 488
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg064.perseus-eng2:19"
+translator: Bernadotte Perrin
+---
+
+Parysatis, accordingly, who from the outset had a lurking hatred and jealousy of Stateira, saw that her own influence with the king was based on feelings of respect and honour, while that of Stateira was grounded fast and strong in love and confidence; she therefore plotted against her life and played for what she thought the highest stake.
+
+She had a trusted maidservant named Gigis, who had most influence with her and assisted her in preparing the poison, according to Deinon, although Ctesias says she was merely privy to the deed, and that against her will. The poison was actually given by a man named Belitaras, according to Ctesias; Deinon gives his name as Melantas. After a period of dissension and suspicion, the two women had begun again to meet and eat with one another, although their mutual fear and caution led them to partake of the same dishes served by the same hands.
+
+Now, there is a little Persian bird which has no excrement, but is all full of fat inside; and the creature is thought to live upon air and dew; the name of it is rhyntaces. It was a bird of this species, according to Ctesias, that Parysatis cut in two with a little knife smeared with poison on one side, thus wiping the poison off upon one part only of the bird; the undefiled and wholesome part she then put into her own mouth and ate, but gave to Stateira the poisoned part.
+
+Deinon, however, says it was not Parysatis, but Melantas who cut the bird with the knife and placed the flesh that was poisoned before Stateira. Be that as it may, the woman died, in convulsions and great suffering, and she comprehended the evil that had befallen her, and brought the king to suspect his mother, whose fierce and implacable nature he knew.
+
+The king, therefore, at once set out upon the inquest, arrested the servants and table-attendants of his mother, and put them on the rack. Gigis, however, Parysatis kept for a long time at home with her, and would not give her up at the king’s demand. But after a while Gigis herself begged to be dismissed to her own home by night. The king learned of this, set an ambush for her, seized her, and condemned her to death.
+
+Now, the legal mode of death for prisoners in Persia is as follows. There is a broad stone, and on this the head of the culprit is placed; and then with another stone they smite and pound until they crush the face and head to pulp. It was in this manner, then, that Gigis died; but Parysatis was not further rebuked or harmed by Artaxerxes, except that he sent her off to Babylon, in accordance with her wish, saying that as long as she lived he himself would not see Babylon. Such was the state of the king’s domestic affairs.

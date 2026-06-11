@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-caligula-3902f8",
+  "work_title": "Caligula",
+  "chapter_number": 45,
+  "chapter_title": "Chapter 45",
+  "chapter_slug": "45",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b660bc5d-8d0b-5379-a1ad-16ea9f4b1b97",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 69,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo014.perseus-lat2:45"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "daddc35a-7def-58f9-a1c2-7ad45b07d37d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 286,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo014.perseus-eng2:45"
+    }
+  ]
+}

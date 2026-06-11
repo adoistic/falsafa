@@ -1,0 +1,38 @@
+{
+  "work_slug": "polybius-histories-672821",
+  "work_title": "Histories",
+  "chapter_number": 19,
+  "chapter_title": "Book 19",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "498d9d84-db3d-5940-bb2e-887a037853aa",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2495,
+      "paragraph_count": 106,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-grc2:19"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cb8b5860-e151-5b87-8837-4868af230d6a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 689,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0543.tlg001.perseus-eng2:19"
+    }
+  ]
+}

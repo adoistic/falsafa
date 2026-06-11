@@ -1,0 +1,26 @@
+{
+  "work_slug": "plautus-titus-maccius-poenulus-3da27c",
+  "work_title": "Poenulus",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "07",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b25a566-026e-5eb3-a92e-88954d20d2e0",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 6639,
+      "paragraph_count": 403,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi015.perseus-eng2:7"
+    }
+  ]
+}

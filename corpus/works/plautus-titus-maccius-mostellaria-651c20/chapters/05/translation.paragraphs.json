@@ -1,0 +1,882 @@
+[
+  {
+    "id": "p-c5e05e",
+    "offset": 0,
+    "text": "(Enter PHANISCUS.)"
+  },
+  {
+    "id": "p-a71c58",
+    "offset": 20,
+    "text": "PHANISCUS:\n(to himself.)\nServants who, though they are free from fault, still stand in awe of punishment, those same are wont to be serviceable to their masters.\nBut those who fear nothing, after they have merited punishment, hit upon foolish plans for themselves: they exercise themselves in running; they take to flight. But, if they are caught, they acquire from punishment a hoard, which by good means they cannot."
+  },
+  {
+    "id": "p-99b828",
+    "offset": 440,
+    "text": "They increase from a very little, and from that they lay by a treasure. The resolution that’s in my mind is to be determined to be on my guard against punishment, before my back comes to lose its state of soundness. As hitherto it has been, so does it become my hide still to be, without a bruise, and such that I should decline its being beaten."
+  },
+  {
+    "id": "p-724452",
+    "offset": 788,
+    "text": "If I have any control over it, I shall keep it well covered up. When punishment is being showered down on others, don’t let it be showered down on me. But as servants wish their master to be, such is he wont to be. He is good to the good, bad to the bad. But now at our house at home there do live so many rogues, lavish of their property, bearers of stripes. When they are called to go fetch their master, I shan’t go; don’t be plaguing me; I know where you are hurrying off to, is the reply. Now, faith, you mule, you’re longing to go to pasturage out of doors. With better deserts, this advantage have I reaped from them, and, in consequence, I have come from home."
+  },
+  {
+    "id": "p-de49f6",
+    "offset": 1458,
+    "text": "I alone, out of so many servants, am going to fetch my master. When, to-morrow, my master comes to know this, in the morning he will chastise them with bull’s-hide spoils. In fine, I care less for their backs than for my own. Much rather shall they be bull’s-hide-scourged than I be rope-scourged.\n(Moves on.)"
+  },
+  {
+    "id": "p-e74814",
+    "offset": 1769,
+    "text": "(Enter a SERVANT.)"
+  },
+  {
+    "id": "p-5e6191",
+    "offset": 1789,
+    "text": "ANOTHER SERVANT of Callidamates:\nHold you and stop this instant. Phaniscus! look round, I say!"
+  },
+  {
+    "id": "p-9a2a84",
+    "offset": 1885,
+    "text": "PHANISCUS:\n(not turning round.)\nDon’t be annoying to me."
+  },
+  {
+    "id": "p-e18726",
+    "offset": 1943,
+    "text": "ANOTHER SERVANT of Callidamates:\nDo see how scornful the monkey is!"
+  },
+  {
+    "id": "p-25d062",
+    "offset": 2012,
+    "text": "PHANISCUS:\nI am so for myself; I choose to be. Why do you trouble yourself about it?\n(Walking on.)"
+  },
+  {
+    "id": "p-be0586",
+    "offset": 2112,
+    "text": "ANOTHER SERVANT of Callidamates:\nAre you going to stop this instant, you dirty parasite?"
+  },
+  {
+    "id": "p-794a69",
+    "offset": 2202,
+    "text": "PHANISCUS:\n(turning round.)\nHow am I a parasite?"
+  },
+  {
+    "id": "p-8bfa01",
+    "offset": 2252,
+    "text": "ANOTHER SERVANT of Callidamates:\nWhy, I’ll tell you: you can be drawn anywhere by victuals."
+  },
+  {
+    "id": "p-72d2b4",
+    "offset": 2345,
+    "text": "Do you give yourself airs, because your master’s so fond of you?"
+  },
+  {
+    "id": "p-467276",
+    "offset": 2411,
+    "text": "PHANISCUS:\n(rubbing his eyes.)\nO dear, my eyes do ache."
+  },
+  {
+    "id": "p-c662f1",
+    "offset": 2468,
+    "text": "ANOTHER SERVANT of Callidamates:\nWhy so?"
+  },
+  {
+    "id": "p-4de4e6",
+    "offset": 2510,
+    "text": "PHANISCUS:\nBecause the smoke’s so troublesome."
+  },
+  {
+    "id": "p-4c5be9",
+    "offset": 2558,
+    "text": "ANOTHER SERVANT of Callidamates:\nHold your tongue, will you, you clever workman, who are in the habit of coining money out of lead."
+  },
+  {
+    "id": "p-ad0df8",
+    "offset": 2691,
+    "text": "PHANISCUS:\nYou cannot compel me to be abusive to you. My master knows me."
+  },
+  {
+    "id": "p-1c816c",
+    "offset": 2766,
+    "text": "ANOTHER SERVANT of Callidamates:\nWhy, really, his own pillow he ought to know, for resting on when drunk."
+  },
+  {
+    "id": "p-36d4eb",
+    "offset": 2873,
+    "text": "PHANISCUS:\nIf you were sober, you wouldn’t be abusive."
+  },
+  {
+    "id": "p-fecee9",
+    "offset": 2929,
+    "text": "ANOTHER SERVANT of Callidamates:\nAm I to give heed to you, when you won’t to me."
+  },
+  {
+    "id": "p-08b865",
+    "offset": 3011,
+    "text": "PHANISCUS:\nBut, you rascal, you come along with me to fetch him."
+  },
+  {
+    "id": "p-df9537",
+    "offset": 3077,
+    "text": "ANOTHER SERVANT of Callidamates:\nTroth now, Phaniscus, prithee, do leave off talking about these matters."
+  },
+  {
+    "id": "p-5b5c0a",
+    "offset": 3184,
+    "text": "PHANISCUS:\nI’ll do so, and knock at the door. (Knocks at the door of the house of THEUROPIDES.) Hallo there! is there any person here to protect this door from a most serious injury? (Knocking again.) Is any one, is any one, I say, coming out here and going to open it?"
+  },
+  {
+    "id": "p-561354",
+    "offset": 3455,
+    "text": "Why, really, no one comes out here. Just as befits such worthless fellows, so they are. But on that account, I’ve the more need to be cautious that no one may come out and use me ill.\n(They stand aside.)"
+  },
+  {
+    "id": "p-a0c42f",
+    "offset": 3660,
+    "text": "(Enter TRANIO and THEUROPIDES, from the house of SIMO.)"
+  },
+  {
+    "id": "p-0a66e7",
+    "offset": 3717,
+    "text": "TRANIO:\nWhat’s your opinion of this bargain?"
+  },
+  {
+    "id": "p-59f07a",
+    "offset": 3763,
+    "text": "THEUROPIDES:\nI am quite delighted."
+  },
+  {
+    "id": "p-32a05c",
+    "offset": 3799,
+    "text": "TRANIO:\nDoes it seem to you to have been bought too dear?"
+  },
+  {
+    "id": "p-cc7df2",
+    "offset": 3858,
+    "text": "THEUROPIDES:\nI’ faith, I’m sure that I never anywhere saw a house thrown away, this one only excepted."
+  },
+  {
+    "id": "p-fce8e9",
+    "offset": 3962,
+    "text": "TRANIO:\nDoes it please you, then?"
+  },
+  {
+    "id": "p-e7207f",
+    "offset": 3997,
+    "text": "THEUROPIDES:\nDoes it please me, do you ask me? Why yes, upon my faith, it really does please me very much."
+  },
+  {
+    "id": "p-72d581",
+    "offset": 4105,
+    "text": "TRANIO:\nWhat a fine set of rooms for the women! What a porch!"
+  },
+  {
+    "id": "p-b3a0cd",
+    "offset": 4168,
+    "text": "THEUROPIDES:\nExceedingly fine. For my part, I don’t think that there is any Porch larger than this in the public buildings."
+  },
+  {
+    "id": "p-d5c634",
+    "offset": 4293,
+    "text": "TRANIO:\nWhy, I myself and Philolaches have taken the measure sure of all the porches in the public buildings."
+  },
+  {
+    "id": "p-059b33",
+    "offset": 4404,
+    "text": "THEUROPIDES:\nWell, what then?"
+  },
+  {
+    "id": "p-ead1b9",
+    "offset": 4435,
+    "text": "TRANIO:\nThis is far larger than all of them."
+  },
+  {
+    "id": "p-b3a5db",
+    "offset": 4481,
+    "text": "THEUROPIDES:\nImmortal Gods—a splendid bargain! On my word, if he were now to offer six great talents of silver, ready money, for it, I would never take it."
+  },
+  {
+    "id": "p-803808",
+    "offset": 4638,
+    "text": "TRANIO:\nUpon my faith, if you were inclined to take it, I would never let you."
+  },
+  {
+    "id": "p-e28d9f",
+    "offset": 4718,
+    "text": "THEUROPIDES:\nMy money has been well invested upon this purchase."
+  },
+  {
+    "id": "p-6a9be7",
+    "offset": 4784,
+    "text": "TRANIO:\nBoldly confess that by my advice and prompting it was done, who urged him to take up the money of the Banker upon interest, which we paid this person by way of deposit."
+  },
+  {
+    "id": "p-d28da3",
+    "offset": 4962,
+    "text": "THEUROPIDES:\nYou’ve saved the whole ship. Eighty minae, you say, are owing for it?"
+  },
+  {
+    "id": "p-d849bf",
+    "offset": 5046,
+    "text": "TRANIO:\nNot a coin more."
+  },
+  {
+    "id": "p-eb534f",
+    "offset": 5072,
+    "text": "THEUROPIDES:\nHe may have it to-day."
+  },
+  {
+    "id": "p-599ffd",
+    "offset": 5109,
+    "text": "TRANIO:\nBy all means so, that there may be no dispute arising; or else pay them over to me, I’ll then pay them over to him."
+  },
+  {
+    "id": "p-3ab404",
+    "offset": 5234,
+    "text": "THEUROPIDES:\nBut still, don’t let there be any taking me in, if I do give them to you."
+  },
+  {
+    "id": "p-5607c0",
+    "offset": 5322,
+    "text": "TRANIO:\nCould I venture to deceive you in deed or word even in jest only?"
+  },
+  {
+    "id": "p-b091ae",
+    "offset": 5397,
+    "text": "THEUROPIDES:\nCould I venture not to be on my guard against you, so as not to trust anything to you?"
+  },
+  {
+    "id": "p-31fe07",
+    "offset": 5498,
+    "text": "TRANIO:\nWhy, have I ever imposed upon you in anything, since I was your servant?"
+  },
+  {
+    "id": "p-8cc6a1",
+    "offset": 5580,
+    "text": "THEUROPIDES:\nBut I’ve taken good care of that; I owe thanks to myself and my own judgment for that. If I’m only on my guard against you solely, I’m quite wise enough."
+  },
+  {
+    "id": "p-c0e7e3",
+    "offset": 5748,
+    "text": "TRANIO:\n(aside.)\nI agree with you."
+  },
+  {
+    "id": "p-8b8bf3",
+    "offset": 5784,
+    "text": "THEUROPIDES:\nNow be off into the country; tell my son that I’ve arrived."
+  },
+  {
+    "id": "p-40e327",
+    "offset": 5858,
+    "text": "TRANIO:\nI’ll do as you wish."
+  },
+  {
+    "id": "p-5b8270",
+    "offset": 5888,
+    "text": "THEUROPIDES:\nRun with all speed; bid him come to the city at once together with you."
+  },
+  {
+    "id": "p-4c1535",
+    "offset": 5974,
+    "text": "TRANIO:\nVery well. (Aside.) Now I’ll betake myself this way by the back-door to my boon-companions; I’ll tell them that things are quiet here, and how I have kept him away from here.\n(Exit.)"
+  },
+  {
+    "id": "p-e12000",
+    "offset": 6166,
+    "text": "(THEUROPIDES, PHANISCUS, and another SERVANT.)"
+  },
+  {
+    "id": "p-450f76",
+    "offset": 6214,
+    "text": "PHANISCUS:\n(coming forward.)\nReally, I don’t hear either the sound of revellers here, as once it was, nor yet the music-girl singing, nor any one else.\n(Goes towards the door.)"
+  },
+  {
+    "id": "p-654801",
+    "offset": 6392,
+    "text": "THEUROPIDES:\nWhat’s the matter here? What are these people seeking at my house? What do they want? What are they peeping in for?"
+  },
+  {
+    "id": "p-d6274b",
+    "offset": 6522,
+    "text": "PHANISCUS:\nI shall proceed to knock at the door. (Knocks.) Hallo there, unlock the door! Hallo, Tranio! are you going to open it, I say?"
+  },
+  {
+    "id": "p-37603d",
+    "offset": 6660,
+    "text": "THEUROPIDES:\n(advancing.)\nWhat story’s this, I wonder?"
+  },
+  {
+    "id": "p-33a0bc",
+    "offset": 6716,
+    "text": "PHANISCUS:\n(aloud.)\nAre you going to open it, I say? I’ve come to fetch my master Callidamates."
+  },
+  {
+    "id": "p-331a1b",
+    "offset": 6813,
+    "text": "THEUROPIDES:\nHarkye, you lads! what are you doing there? Why are you breaking down that door?"
+  },
+  {
+    "id": "p-7735f5",
+    "offset": 6908,
+    "text": "PHANISCUS:\nOur master’s at a drinking-party here."
+  },
+  {
+    "id": "p-4b1dfb",
+    "offset": 6959,
+    "text": "THEUROPIDES:\nYour master at a drinking-party here?"
+  },
+  {
+    "id": "p-1f9099",
+    "offset": 7011,
+    "text": "PHANISCUS:\nI say so."
+  },
+  {
+    "id": "p-9b736b",
+    "offset": 7033,
+    "text": "THEUROPIDES:\nYou’re carrying the joke too far, my lad."
+  },
+  {
+    "id": "p-379533",
+    "offset": 7089,
+    "text": "PHANISCUS:\nWe’ve come to fetch him."
+  },
+  {
+    "id": "p-f95cb2",
+    "offset": 7126,
+    "text": "THEUROPIDES:\nWhat person?"
+  },
+  {
+    "id": "p-621899",
+    "offset": 7153,
+    "text": "PHANISCUS:\nOur master. Prithee, how often must I tell you?"
+  },
+  {
+    "id": "p-d7ee1d",
+    "offset": 7213,
+    "text": "THEUROPIDES:\nThere’s no one living here my lad; for I do think that you are a decent lad."
+  },
+  {
+    "id": "p-af0092",
+    "offset": 7304,
+    "text": "PHANISCUS:\nDoesn’t a young gentleman called Philolaches live in this house?"
+  },
+  {
+    "id": "p-e541a7",
+    "offset": 7381,
+    "text": "ANOTHER SERVANT of Callidamates:\n(aside.)\nThis old fellow’s crack-brained, surely."
+  },
+  {
+    "id": "p-aa636d",
+    "offset": 7465,
+    "text": "PHANISCUS:\nYou are entirely mistaken, respected sir; for unless he moved from here to-day or yesterday, I know for certain that he’s living here."
+  },
+  {
+    "id": "p-e68214",
+    "offset": 7612,
+    "text": "THEUROPIDES:\nWhy, no one has been living here for these six months past."
+  },
+  {
+    "id": "p-166047",
+    "offset": 7686,
+    "text": "ANOTHER SERVANT of Callidamates:\nYou are dreaming."
+  },
+  {
+    "id": "p-240e56",
+    "offset": 7738,
+    "text": "THEUROPIDES:\nWhat, I?"
+  },
+  {
+    "id": "p-1e7d94",
+    "offset": 7761,
+    "text": "ANOTHER SERVANT of Callidamates:\nYou."
+  },
+  {
+    "id": "p-32824d",
+    "offset": 7800,
+    "text": "THEUROPIDES:\nDon’t you be impertinent. Let me speak to the lad. (Pointing to PHANISCUS.)"
+  },
+  {
+    "id": "p-d1db7a",
+    "offset": 7890,
+    "text": "PHANISCUS:\nNo one lives there? O dear—"
+  },
+  {
+    "id": "p-6906bd",
+    "offset": 7930,
+    "text": "THEUROPIDES:\nIt’s the fact."
+  },
+  {
+    "id": "p-653f94",
+    "offset": 7959,
+    "text": "PHANISCUS:\nReally! why, yesterday and the day before, four, five, six days ago, all along, in fact, since his father went abroad from here, eating and drinking have never ceased for a single three days here."
+  },
+  {
+    "id": "p-563398",
+    "offset": 8168,
+    "text": "THEUROPIDES:\nWhat is it you say?"
+  },
+  {
+    "id": "p-98930f",
+    "offset": 8202,
+    "text": "PHANISCUS:\nThat eating and drinking have never stopped for a single three days here, bringing in wenches, living like Greeks, hiring harpists and music-girls."
+  },
+  {
+    "id": "p-8cfff7",
+    "offset": 8362,
+    "text": "THEUROPIDES:\nWho was it did this?"
+  },
+  {
+    "id": "p-2bf31f",
+    "offset": 8397,
+    "text": "PHANISCUS:\nPhilolaches."
+  },
+  {
+    "id": "p-616881",
+    "offset": 8422,
+    "text": "THEUROPIDES:\nWhat Philolaches?"
+  },
+  {
+    "id": "p-d96159",
+    "offset": 8454,
+    "text": "PHANISCUS:\nHe whose father I take to be Theuropides."
+  },
+  {
+    "id": "p-7a0276",
+    "offset": 8508,
+    "text": "THEUROPIDES:\n(apart.)\nO dear, O dear! I’m utterly undone, if he says the truth in this. I’ll continue to question him still Do you say that this Philolaches, whoever he is, has been in the habit of drinking here together with your master?"
+  },
+  {
+    "id": "p-73153c",
+    "offset": 8748,
+    "text": "PHANISCUS:\nHere, I tell you."
+  },
+  {
+    "id": "p-7eb7a3",
+    "offset": 8778,
+    "text": "THEUROPIDES:\nMy lad, contrary to your appearance, you are a fool. See now, please, that you’ve not perchance been dropping in somewhere for an afternoon’s whet, and have been drinking there a little more than was enough."
+  },
+  {
+    "id": "p-be0210",
+    "offset": 9000,
+    "text": "PHANISCUS:\nWhat do you mean?"
+  },
+  {
+    "id": "p-d3f32d",
+    "offset": 9030,
+    "text": "THEUROPIDES:\nJust what I say: don’t be going by mistake to other persons’ houses."
+  },
+  {
+    "id": "p-302465",
+    "offset": 9113,
+    "text": "PHANISCUS:\nI know where I ought to go, and the place to which I was to come."
+  },
+  {
+    "id": "p-06ac38",
+    "offset": 9191,
+    "text": "Philolaches lives here, whose father is Theuropides; and who, after his father went away to trade, made free a music-girl here."
+  },
+  {
+    "id": "p-e447a2",
+    "offset": 9320,
+    "text": "THEUROPIDES:\nPhilolaches, say you?"
+  },
+  {
+    "id": "p-ecda8b",
+    "offset": 9356,
+    "text": "PHANISCUS:\nJust so; Philematium, I mean."
+  },
+  {
+    "id": "p-03079e",
+    "offset": 9398,
+    "text": "THEUROPIDES:\nFor how much?"
+  },
+  {
+    "id": "p-9f5a15",
+    "offset": 9426,
+    "text": "ANOTHER SERVANT of Callidamates:\nFor thirty talents."
+  },
+  {
+    "id": "p-d38b5e",
+    "offset": 9480,
+    "text": "PHANISCUS:\nNo, by Apollo; you mean minae."
+  },
+  {
+    "id": "p-b4c15a",
+    "offset": 9523,
+    "text": "THEUROPIDES:\nDo you say that a mistress was purchased for Philolaches for thirty minae?"
+  },
+  {
+    "id": "p-4685a0",
+    "offset": 9612,
+    "text": "PHANISCUS:\nI do say so."
+  },
+  {
+    "id": "p-893d5b",
+    "offset": 9637,
+    "text": "THEUROPIDES:\nAnd that he gave her her freedom?"
+  },
+  {
+    "id": "p-4685a0",
+    "offset": 9685,
+    "text": "PHANISCUS:\nI do say so."
+  },
+  {
+    "id": "p-871444",
+    "offset": 9710,
+    "text": "THEUROPIDES:\nAnd that after his father had departed hence abroad, he has been carousing here continually with your master?"
+  },
+  {
+    "id": "p-4685a0",
+    "offset": 9834,
+    "text": "PHANISCUS:\nI do say so."
+  },
+  {
+    "id": "p-1fea21",
+    "offset": 9859,
+    "text": "THEUROPIDES:\nWell, has he made purchase of the house next door here?"
+  },
+  {
+    "id": "p-00107b",
+    "offset": 9929,
+    "text": "PHANISCUS:\nI don’t say so."
+  },
+  {
+    "id": "p-3980a5",
+    "offset": 9957,
+    "text": "THEUROPIDES:\nHas he given forty minae, too, to this person, to be as a deposit?"
+  },
+  {
+    "id": "p-459ff0",
+    "offset": 10038,
+    "text": "PHANISCUS:\nNor yet do I say so."
+  },
+  {
+    "id": "p-f84f11",
+    "offset": 10071,
+    "text": "THEUROPIDES:\nAh me! you’ve proved my ruin!"
+  },
+  {
+    "id": "p-4834e2",
+    "offset": 10115,
+    "text": "PHANISCUS:\nAye, and he has proved the ruin of his father."
+  },
+  {
+    "id": "p-f89737",
+    "offset": 10174,
+    "text": "THEUROPIDES:\nYou prophesy the truth! I could wish it false!"
+  },
+  {
+    "id": "p-8e63a2",
+    "offset": 10235,
+    "text": "PHANISCUS:\nA friend of his father, I suppose?"
+  },
+  {
+    "id": "p-61d54a",
+    "offset": 10282,
+    "text": "THEUROPIDES:\nAh me! Upon my faith, you do pronounce him to be a wretched father."
+  },
+  {
+    "id": "p-380986",
+    "offset": 10364,
+    "text": "PHANISCUS:\nWhy really, this is nothing at all—thirty minae, in comparison with the other expenses he has incurred in good living."
+  },
+  {
+    "id": "p-08ac52",
+    "offset": 10495,
+    "text": "He has ruined his father."
+  },
+  {
+    "id": "p-a33b80",
+    "offset": 10522,
+    "text": "There’s one servant there a very great scoundrel, Tranio by name; he could even waste the revenue of a Hercules."
+  },
+  {
+    "id": "p-1ce23c",
+    "offset": 10636,
+    "text": "On my word, I’m sadly distrest for his father; for when he comes to know that things have gone on thus, a hot coal will be scorching his breast, poor man."
+  },
+  {
+    "id": "p-677258",
+    "offset": 10792,
+    "text": "THEUROPIDES:\nIf, indeed, this is the truth."
+  },
+  {
+    "id": "p-1becbd",
+    "offset": 10837,
+    "text": "PHANISCUS:\nWhat am I to gain, that I should tell a lie?"
+  },
+  {
+    "id": "p-b21016",
+    "offset": 10894,
+    "text": "(Knocks again at the door.) Hallo, you! is any one coming to open this door?"
+  },
+  {
+    "id": "p-22299c",
+    "offset": 10972,
+    "text": "ANOTHER SERVANT of Callidamates:\nWhy do you knock in this way, when there’s no one in the house?"
+  },
+  {
+    "id": "p-f0e64d",
+    "offset": 11070,
+    "text": "PHANISCUS:\nI fancy that he’s gone elsewhere to carouse. Now then, let’s begone.\n(They move as if going.)"
+  },
+  {
+    "id": "p-8ccb6f",
+    "offset": 11176,
+    "text": "THEUROPIDES:\nWhat, my lad, are you off then?"
+  },
+  {
+    "id": "p-c67d2a",
+    "offset": 11222,
+    "text": "Liberty’s the overcoat for your back."
+  },
+  {
+    "id": "p-c48666",
+    "offset": 11261,
+    "text": "PHANISCUS:\nNothing have I with which to cover my back, except to pay respect and service to my master.\n(Exeunt PHANISCUS and SERVANT.)"
+  },
+  {
+    "id": "p-4da1bd",
+    "offset": 11397,
+    "text": "THEUROPIDES:\n(to himself.)\nBy my troth, I am undone! What need is there of talking? According to the words I have heard, I surely haven’t lately voyaged hence to Aegypt, but even to some desolate land and the most remote shores have I been borne about, so much am I at a loss to know where I now am. But I shall soon know; for see, here’s the person of whom my son bought the house. (Enter SIMO.)"
+  },
+  {
+    "id": "p-8b39f9",
+    "offset": 11795,
+    "text": "THEUROPIDES:\nWhat are you about?"
+  },
+  {
+    "id": "p-98b6e3",
+    "offset": 11829,
+    "text": "SIMO:\nI’m coming home from the Forum."
+  },
+  {
+    "id": "p-28e64b",
+    "offset": 11868,
+    "text": "THEUROPIDES:\nHas anything new been going on at the Forum to-day?"
+  },
+  {
+    "id": "p-81a226",
+    "offset": 11934,
+    "text": "SIMO:\nWhy yes."
+  },
+  {
+    "id": "p-8ad522",
+    "offset": 11950,
+    "text": "THEUROPIDES:\nWhat is it, pray?"
+  },
+  {
+    "id": "p-53cbee",
+    "offset": 11982,
+    "text": "SIMO:\nI saw a dead man being carried to burial."
+  },
+  {
+    "id": "p-fffc71",
+    "offset": 12031,
+    "text": "THEUROPIDES:\nDear me!"
+  },
+  {
+    "id": "p-d2e18b",
+    "offset": 12054,
+    "text": "that is something new!"
+  },
+  {
+    "id": "p-167246",
+    "offset": 12078,
+    "text": "SIMO:\nI saw one who was dead being carried out to burial"
+  },
+  {
+    "id": "p-45b86e",
+    "offset": 12136,
+    "text": "They said that he had been alive but just before."
+  },
+  {
+    "id": "p-abed14",
+    "offset": 12187,
+    "text": "THEUROPIDES:\nWoe to that head of yours for your nonsense!"
+  },
+  {
+    "id": "p-2c2f53",
+    "offset": 12246,
+    "text": "SIMO:\nWhy are you, thus idling about, enquiring after the news?"
+  },
+  {
+    "id": "p-3a8229",
+    "offset": 12311,
+    "text": "THEUROPIDES:\nBecause I’ve just arrived from abroad."
+  },
+  {
+    "id": "p-40257b",
+    "offset": 12364,
+    "text": "SIMO:\nI’m engaged out to dine: don’t suppose I shall invite you."
+  },
+  {
+    "id": "p-50726c",
+    "offset": 12430,
+    "text": "THEUROPIDES:\nI’ faith, I don’t want."
+  },
+  {
+    "id": "p-5e6da5",
+    "offset": 12468,
+    "text": "SIMO:\nBut, to-morrow, unless any person invites me first, I’ll even dine with you."
+  },
+  {
+    "id": "p-20bddf",
+    "offset": 12552,
+    "text": "THEUROPIDES:\nI’ faith, and that, too, I don’t want. Unless you are engaged with something of greater importance, lend me your attention."
+  },
+  {
+    "id": "p-faa775",
+    "offset": 12690,
+    "text": "SIMO:\nBy all means."
+  },
+  {
+    "id": "p-d588b6",
+    "offset": 12711,
+    "text": "THEUROPIDES:\nYou have received, as far as I understand, forty minae of Philolaches."
+  },
+  {
+    "id": "p-cd8d00",
+    "offset": 12796,
+    "text": "SIMO:\nNever a coin, so far as I know."
+  },
+  {
+    "id": "p-47b021",
+    "offset": 12835,
+    "text": "THEUROPIDES:\nWhat? Not from my servant Tranio?"
+  },
+  {
+    "id": "p-14a908",
+    "offset": 12883,
+    "text": "SIMO:\nMuch less is that the case."
+  },
+  {
+    "id": "p-5bc025",
+    "offset": 12918,
+    "text": "THEUROPIDES:\nWhich he gave you by way of deposit?"
+  },
+  {
+    "id": "p-1cc85e",
+    "offset": 12969,
+    "text": "SIMO:\nWhat are you dreaming about?"
+  },
+  {
+    "id": "p-98e497",
+    "offset": 13005,
+    "text": "THEUROPIDES:\nWhat, I? Why, really,’tis yourself, who hope that, by dissembling in this manner, you’ll be able to make void this bargain."
+  },
+  {
+    "id": "p-d0fefe",
+    "offset": 13143,
+    "text": "SIMO:\nWhy, what do you mean?"
+  },
+  {
+    "id": "p-2b1545",
+    "offset": 13173,
+    "text": "THEUROPIDES:\nThe business that, in my absence, my son transacted with you here."
+  },
+  {
+    "id": "p-bb1dc3",
+    "offset": 13254,
+    "text": "SIMO:\nHow did your son, in your absence, transact any business with me? What pray, or on what day?"
+  },
+  {
+    "id": "p-9fe0a6",
+    "offset": 13354,
+    "text": "THEUROPIDES:\nI owe you eighty minae of silver."
+  },
+  {
+    "id": "p-2ddd15",
+    "offset": 13402,
+    "text": "SIMO:\nNot to me, indeed, upon my faith; but still, if you do owe them, give them me. Faith must be kept. Don’t be attempting to deny it."
+  },
+  {
+    "id": "p-ca5b00",
+    "offset": 13540,
+    "text": "THEUROPIDES:\nAssuredly, I shall not deny that I owe them; and I shall pay them."
+  },
+  {
+    "id": "p-e8710b",
+    "offset": 13621,
+    "text": "Do you take care how you deny that you received the forty from him."
+  },
+  {
+    "id": "p-43ffbf",
+    "offset": 13690,
+    "text": "SIMO:\nTroth now, prithee, look this way at me, and answer me."
+  },
+  {
+    "id": "p-d223ab",
+    "offset": 13753,
+    "text": "He said that you were wishful to give a wife to your son; for that reason, he said that you intended building on your own premises."
+  },
+  {
+    "id": "p-4fd1a7",
+    "offset": 13886,
+    "text": "THEUROPIDES:\nI, intended building here?"
+  },
+  {
+    "id": "p-75f75f",
+    "offset": 13927,
+    "text": "SIMO:\nSo he told me."
+  },
+  {
+    "id": "p-e8c489",
+    "offset": 13949,
+    "text": "THEUROPIDES:\nAh me! I’m ruined outright! I’ve hardly any voice left. Neighbours, I’m undone, ruined quite!"
+  },
+  {
+    "id": "p-6330dd",
+    "offset": 14057,
+    "text": "SIMO:\nHas Tranio been causing any confusion?"
+  },
+  {
+    "id": "p-6f32bd",
+    "offset": 14103,
+    "text": "THEUROPIDES:\nYes; he has thrown everything into confusion. He has made a fool of me to-day in a disgraceful manner."
+  },
+  {
+    "id": "p-7ed39c",
+    "offset": 14220,
+    "text": "SIMO:\nWhat is it you say?"
+  },
+  {
+    "id": "p-c581e2",
+    "offset": 14247,
+    "text": "THEUROPIDES:\nThis matter is just as I am telling you:"
+  },
+  {
+    "id": "p-717a04",
+    "offset": 14302,
+    "text": "he has this day made a fool of me in an outrageous manner. Now I beseech you that you’ll kindly aid me, and lend me your assistance."
+  },
+  {
+    "id": "p-2dbd9a",
+    "offset": 14436,
+    "text": "SIMO:\nWhat would you have?"
+  },
+  {
+    "id": "p-0fcc14",
+    "offset": 14464,
+    "text": "THEUROPIDES:\nI beg of you, come this way together with me."
+  },
+  {
+    "id": "p-b36ff8",
+    "offset": 14524,
+    "text": "SIMO:\nBe it so."
+  },
+  {
+    "id": "p-829290",
+    "offset": 14541,
+    "text": "THEUROPIDES:\nLend me the assistance of your slaves and some scourges."
+  },
+  {
+    "id": "p-a760a1",
+    "offset": 14612,
+    "text": "SIMO:\nTake them by all means."
+  },
+  {
+    "id": "p-c0700f",
+    "offset": 14643,
+    "text": "THEUROPIDES:\nAt the same time I’ll tell you about this, in what a fashion he has this day imposed upon me.\n(They go into the house of SIMO.)"
+  }
+]

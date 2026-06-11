@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-2-corinthians-8aac14",
+  "work_title": "2 Corinthians",
+  "chapter_number": 8,
+  "chapter_title": "Chapter 8",
+  "chapter_slug": "08",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d632dd57-6a54-5fc5-b0f5-0479d8f7a7db",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 409,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg008.perseus-grc2:8"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "27a46218-9a12-5c83-88f2-b34ada9a3a4d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 550,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg008.perseus-eng2:8"
+    }
+  ]
+}

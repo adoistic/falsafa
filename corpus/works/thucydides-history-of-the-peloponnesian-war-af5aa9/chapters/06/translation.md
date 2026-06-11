@@ -1,0 +1,831 @@
+---
+work_id: "af5aa93b-0a3b-58d3-8836-605ed275f50b"
+work_slug: "thucydides-history-of-the-peloponnesian-war-af5aa9"
+work_title: History of the Peloponnesian War
+author_name: Thucydides
+chapter_number: 6
+chapter_title: Book 6
+chapter_slug: 06
+variant_id: "454cc851-b888-5236-97f5-f85362fdf774"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 28069
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0003.tlg001.1st1K-eng2:6"
+translator: Henry Dale
+---
+
+THE same winter the Athenians wished to sail again to Sicily, with a larger armament than that under Laches and Eurymedon, and bring it into subjection to them, if they could; the mass of the people being ignorant of the size of the island, and the number of its inhabitants, both Greeks and barbarians; and that they were undertaking a war not much inferior in magnitude to that with the Peloponnesians.
+
+For the voyage round Sicily in a merchant vessel is one of not much less than eight days; and though it is of such extent, it is only excluded by the space of about twenty stades of sea from being mainland.
+
+Now it was settled originally in the following manner, and these were all the nations that occupied it. The earliest people said to have lived in any part of the country are the Cyclopes and Laestrygones; with regard to whom, I can neither tell their race, nor whence they came into it, nor whither they departed out of it: but let that suffice which has been said by the poets, and which every body in any way knows of them.
+
+The Sicanians appear to have been the first who settled in it after them; indeed, as they themselves assert, even before them, as being the aboriginal population; but as the truth is found to be, they were Iberians, and were driven from the river Sicanus, in Theria, by the Ligurians. And it was from them that the island was at that time called Sicania, having previously been called Trinacria; and still, even to this day, they inhabit Sicily in its western districts.
+
+But on the capture of Troy, some of the Trojans, having escaped the Greeks, came in vessels to Sicily, and having settled in the neighbourhood of the Sicanians, they were all together called Elymi, and their cities, Eryx and Segesta. There were also settled with them some of the Phocians, who, while returning from Troy, were carried by a tempest, first to Libya, and then from that country to Sicily.
+
+The Sicels, again, went over into Sicily from Italy, (for it was there that they used to live,) while flying from some Opicans; crossing on rafts, (as is probable, and reported to have been the case,) having watched an opportunity for the passage, when the wind set down the strait; or, perhaps, having sailed to it in some other way. Even to this day there are still Sicels in Italy; and it was in this way that the country was called Italy, after Italus, a king of the Sicels who had that name.
+
+Having gone, then, to Sicily with a great host, and being victorious in battle over the Sicanians, they compelled them to remove to the southern and western parts of it, and caused the island to be called Sicily, instead of Sicania, and occupied the best parts of the land; having held them, after they crossed over, nearly three hundred years before any Greeks came into Sicily; and still, even to this day, they retain the central and northern parts of the island.
+
+There were also Phoenicians living around the whole of Sicily, having occupied promontories on the sea-coast, and the small islands adjacent, for purposes of trading with the Sicels: but after the Greeks sailed to it in great numbers by sea, in addition to those already there, they evacuated the greater part of them, and lived in Motya, Solois, and Panormus, near the Elymi, having united with them, both from confidence in their alliance, and because from that quarter the voyage from Sicily to Carthage is shortest. As regards barbarians, then, so many of them were there that inhabited Sicily, and in such a manner.
+
+Of the Greeks, on the other hand, some Chalcidians of Euboea first sailed with Thucles as the leader of the colony, and founded Naxos, and built the altar to Apollo
+
+Archegetes, which is now outside the city, and on which when any deputies to the games sail from Sicily, they first sacrifice.
+
+Syracuse was founded the next year by Archias, of the family of Hercules at Corinth, after he had first expelled the Sicels from the island; on which, being no longer surrounded with water, the inner city now stands; and at a later period the outer one also was enclosed within the wall, and became populous.
+
+Moreover, Thucles and the Chalcidians from Naxos set out in the fifth year after the founding of Syracuse, and having expelled the Sicels by arms, re—settled Leontini, and after it Catana, the Catanians themselves having chosen Evarchus as their founder.
+
+At the same time Lamis arrived in Sicily with a colony from Megara, and after settling in a place beyond the river Pantacyas, Trotilus by name, and subsequently removing thence, and uniting for a short time with the Chalcidians at Leontini, and being driven out by them, he founded Thapsus, and then he himself died; while the rest, being expelled from Thapsus, effected a settlement at Megara, called the Hyblaean, Hyblo, a Sicel king, having given up the place to them and led them in.
+
+After inhabiting it two hundred and forty—five years, they were expelled from the city and country by Gelo, tyrant of Syracuse. Before their expulsion, however, a hundred years after their settlement, they founded Seliaus, having sent Pamillus for the purpose, who came from Megara, their mother—city, and joined them in founding it.
+
+Gela, again, was founded by Antiphemus from Rhodes, and Entimus from Crete, who led a common colony, in the forty-fifth year after the founding of Syracuse. The name of the city was taken from the river Gelas, but the spot where the city,
+
+[properly so called,] now stands, and which was first fortified, is named
+
+Lindii. The institutions established amongst them were Dorian.
+
+Just about a hundred and eight years after their own settlement, the Geloans settled Acragas, [or Agrigentum,] naming the city from the river Acragas: they made Aristonous and Pystilus the leaders of their colony, and gave it the institutions of the Geloans.
+
+Zancle, again, was originally founded from Cuma, the Chalcidian city in the country of the Opici, by some freebooters who went there; but afterwards a great number went from Chalcis and the rest of Euboea, and shared with them in the occupation of the land; its founders being Perieres and Crataemenes, one from Cuma, the other from Chalcis. As regards its name, it was at first called Zancle by the Sicels, because the site resembles a reaping-hook in figure, and the reaping-hook is called by the Sicels zanclon. Afterwards, these settlers were expelled by some Samians and other Ionians, who landed in Sicily while flying from the Medes;
+
+and again, Anaxilas, tyrant of Rhegium, having not long after expelled the Samians, and colonized their country with a mixed population, changed its name to Messana, after his own original country.
+
+Himera was founded from Zancle by Euclides, Simus, and Saco, and most of those who went to the colony were Chalcidians, though there were also united with them some exiles from Syracuse, who had been defeated in a strife of factions—the Mylaetidae, as they are called. The language was a mixture of the Chalcidian and Dorian; but the Chalcidian were the prevailing institutions.
+
+Acrae and Casmenae were founded by the Syracusans; Acrae seventy years after Syracuse, and Casmenae nearly twenty years after Acrae.
+
+Camarina was in the first instance founded by the Syracusans, just about a hundred and thirty-five years after the building of Syracuse, its founders being Dascon and Menecolus. But the Camarinaeans having been driven out after a war by the Syracusans on account of their revolting from them, some time after, Hippocrates, tyrant of Gela, having received their territory as a ransom for some Syracusan prisoners, himself acting as founder, re-settled Camarina. And having again been depopulated by Gelo, it was settled for the third time by the Geloans.
+
+So many were the nations of Greeks and barbarians that inhabited Sicily, and such was the size of the island against which the Athenians were eager to make an expedition; being desirous (to mention their truest motive) of gaining dominion over the whole of it; but at the same time wishing, as a plausible pretext, to succour their own kinsmen, and the allies they had gained besides.
+
+Above all, they were instigated by ambassadors from the Segestans, who had come to Athens and invoked their aid more earnestly than ever. For being borderers of the Selinuntines, they had gone to war with them on certain questions respecting marriage rights, and for some debated territory; and the Selinuntines, having taken the Syracusans for their allies, were pressing them hard with hostilities both by land and sea. Consequently the Segestans reminded the Athenians of their alliance, which had been formed in the time of Laches and of the former war with the Leontines, and begged them to send a fleet and assist them; alleging many other things, and, as the sum and substance of all, that if the Syracusans should be unpunished for the depopulation of Leontini, and, by ruining such of the Athenian allies as were still left should themselves obtain the whole power of Sicily; there would be danger of their some time or other coming with a large force, as Dorians, to the aid of Dorians, on the strength of their connexion, and, moreover, as colonists, to the aid of the Peloponnesians who had sent them out, and so joining in the destruction of the Athenian power. It were wise therefore, in concert with the remaining allies, to resist the Syracusans;
+
+especially as they would themselves furnish money sufficient for the war.
+
+The Athenians, hearing these things in their assemblies from the Segestans and their supporters, who were repeatedly alleging them, passed a decree on the subject; sending ambassadors, in the first place, to see about the money, whether it were already laid up, as they asserted, in the treasury and in the temples, and at the same time to ascertain what was the state of the war with the Selinuntines.
+
+The ambassadors of the Athenians, then, were thus sent to Sicily. The same winter, the Lacedaemonians and their allies, except the Corinthians, having made an expedition into the Argive territory, ravaged a small part of the land, and took some yokes of oxen, and carried off some corn. They also settled the Argive exiles at Orneae; and having left them a few men from the rest of their forces also, and made a truce for some time, on condition of the Orneatae and the Argives not injuring each other's land, they returned home with their army.
+
+But the Athenians having come no long time after with thirty ships and six hundred heavy—armed, the Argives, in conjunction with the Athenians, taking the field with all their force, besieged the men in Orneae one day; but at night, the army having bivouacked at some distance, they escaped out of it. The next day, the Argives, on finding this, razed Orneae and returned, and the Athenians afterwards went home with their ships.
+
+Moreover, the Athenians took by sea some of their own cavalry, and the Macedonian exiles who were with them, to Methone, the country bordering on Macedonia, and ravaged the territory of Perdiccas.
+
+The Lacedaemonian. therefore sent to the Chalcidians Thrace-ward, who had a truce with the Athenians from one ten days to another, and urged then to join Perdiccas in the war; but they would not. And so the winter ended, and the sixteenth year of this war, of which Thucydides wrote the history.
+
+The following summer, as soon as the spring commenced, the ambassadors of the Athenians came from Sicily, and the Segestans with them, bringing sixty talents of uncoined silver, as a month's pay for sixty ships which they were to beg them to send.
+
+And the Athenians having held an assembly, and heard from the Segestans and their own ambassadors a seductive and untrue report on the other subjects, and also, with regard to the money, that it was provided in abundance in the temples and the treasury; they voted to send sixty ships, with Alcibiades son of Clinias, Nicias son of Niceratus, and Lamachus son of Xenophanes, as commanders, with full powers, to assist the Segestans against the Selinuntines, and to join in re-founding Leontini, should they gain any advantage in the war, and to carry out all other measures in Sicily, as they should deem best for the Athenians.—
+
+On the fifth day after this, an assembly was again held, to consider in what way the preparations for the ships should be most quickly made, and whatever else was wanted by the generals be voted them for the expedition.
+
+Nicias then, who had been chosen against his will to take the command, and thought that the state was not well advised, but, on a trifling and specious pretext, was coveting the whole of Sicily—an arduous design to achieve—came forward with a wish to divert the Athenians from it, and advised them to the following effect:
+
+"This assembly was, it is true, convened to consider the subject of our preparations, namely, in what way we ought to make the expedition to Sicily. My opinion, however, is, that we ought still to consider this very point, whether it be better to send out our ships: and not on such slight deliberation on matters of great moment, at the instigation of aliens, to take upon ourselves a war, with which we have nothing to do.
+
+And yet I, for my own part, receive honour from such a policy, and have less fear than others for my own personal safety: (though I consider that man to be an equally good citizen who takes some forethought both for his person and his property; for such a man would, for his own sake, be most desirous that his country also should prosper:) nevertheless, neither aforetime have I ever spoken contrary to my convictions, for the sake of being honoured above others, nor will I now, but as I think best, so will I speak.
+
+And though against your inclinations my words would be powerless, should I advise you to keep what you have, and not expose your present possessions to danger for things which are uncertain and future; yet that neither are you timely in your haste, nor the objects of your ambition easy to attain, on these points I will give you instruction.
+
+"I say then, that you wish, though leaving many enemies behind you here, to bring hither fresh ones besides, by sailing there.
+
+And you fancy, perhaps, that the treaty that has been made by you affords some ground of confidence. But though, as long as you remain quiet, that will, indeed, be a treaty—in name, (for to this condition have certain persons here and amongst your enemies brought it by their intrigues,) yet if we are ever defeated with any considerable force, those who hate us will quickly make an attack upon us; seeing, in the first place, that the arrangement was made of necessity by them, under circumstances of disaster, and of greater discredit to them than to us; and, secondly, that in this very arrangement we have many subjects open to debate.
+
+There are some, too, who have not yet acceded even to this composition, such as it is, and those not the least powerful states; but some of them are at war with us downright, and, in the case of others, because the Lacedaemonians remain quiet at present, they too are restrained by truces from one ten days to another.
+
+But probably, if they should find our power divided, (which we are now so anxious to bring about,) they would with all their might attack us, in conjunction with the Siceliots, whose alliance they would in time past have valued most highly.
+
+Every one therefore ought to look to this, and not presume to run risks with a state so unsettled, and to grasp at another empire before we have secured the one we have; seeing that the Chalcidians Thrace-ward, though they have revolted from us so many years, are still unsubdued; and there are some others on the different coasts of the mainland who yield us but a doubtful obedience. And so we are quick to succour the Segestans, who are our allies, for sooth, as being injured; but on those by whose revolt we have ourselves long ago been injured, we still defer to avenge ourselves.
+
+"And yet the latter, if subdued, might be kept in subjection by us; but the former, even if we conquered them, we should hardly be able to govern, so far off and so numerous as they are. But it is folly to go against men whom we could not keep under, if we conquered them; while, if we did not succeed in the attempt, we should not be in the same position as we were before making it.
+
+Again, regarding the present condition of the Siceliots, they appear to me even still less likely to be formidable to us, if the Syracusans should have dominion over them; that supposition with which the Segestans especially try to frighten us.
+
+For at present they might, perhaps, come hither as separate states, to oblige the Lacedaemonians; but in the other case, it is not likely that they should undertake the expedition, empire against empire: for in the same manner as they, in conjunction with the Lacedaemonians, had taken away ours, it is probable that they would have their own taken away by the same Peloponnesians, and by the same principle.
+
+And the Greeks in those parts would be most in awe of us, if we did not go there at all; and next to that, if after making a demonstration of our power we retired in a short time: but if we should meet with any reverses they would very quickly despise us, and attack us in concert with our enemies here. For we all know that what is farthest off is most admired, and what gives the least room for having its fame tested.
+
+And this has at present been your case, Athenians, with reference to the Lacedaemonians and their allies; from having, contrary to your expectation, gained the advantage over them, (comparing your present position with the fears you at first entertained,) you have despised them, and are now desiring the conquest of Sicily.
+
+You ought not, however, to be elated through the misfortunes of your adversaries, but then only to feel confident when you have mastered their spirits; nor should you think that the Lacedaemonians are doing ought but considering, in consequence of their disgrace, in what way they may even now, if possible, overthrow us, and bring their own discredit to a happy termination; especially as they have studied a reputation for bravery, as a thing of the greatest importance, and for the greatest length of time.
+
+So that our great struggle will be, if we are wise, not for the Segestans in Sicily, men who are barbarians, but that we may vigorously guard against a state which is plotting against us by the spread of oligarchical principles.
+
+"We ought to remember, too, that we have but lately recovered a little from a great pestilence and war, so as to be somewhat recruited both in our property and persons; and that it is but fair for us to expend these here at home, on ourselves, and not on these exiles who are begging your aid; whose interest it is to utter specious falsehoods, and contending at their neighbours' risk, while they themselves only contribute words, either to show no proper gratitude if they succeed, or if in any instance they fail, to ruin their friends along with them.
+
+And if there be any one who is pleased at being appointed to command, and therefore urges you to make the expedition, looking to his own interest alone, (especially as he is yet too young for office,) in order that while he is admired, for his horse-keeping, he may also receive from his appointment some benefit on the score of expense; do not, either, allow that man to exhibit his own individual splendour at the peril of the state; but consider that such men injure the public interests, while they squander their private possessions; and that this is a business of great importance, and not one for a young man to deliberate upon, and rashly to take in hand.
+
+"I am alarmed, indeed, when I see such characters sitting here at present by the side of that same individual, in compliance with his bidding; and in return I bid the older men—whichever of them may have one of those characters sitting by him—not to be put down through shame, in order to avoid being thought a coward if he should not vote for going to war; nor, as their opponents themselves might feel, to be madly enamoured of what they do not possess; being convinced that in very few things do men succeed through desire, but in very many through forethought in behalf of their country, as exposing itself to the greatest danger it has ever done, to give their support to the opposite side, and vote that the Siceliots keep the same boundaries with respect to us as at present—boundaries with which no one can find fault—namely, the Ionian Sea, if one sail along shore; and the Sicilian, if one cross the open deep; and that while they enjoy their own possessions, they shall also settle their own quarrels:
+
+and that we tell the Segestans in particular, that since they went to war with the Selinuntines in the first instance without consulting the Athenians, they may also make peace with them by themselves: and that we do not in future make alliance, as we have been accustomed, with men whom we shall assist when they are unfortunate, and when we ask assistance ourselves, shall not obtain it.
+
+And do you, Prytanis, if you think it your duty to care for the state, and if you wish to show yourself a good citizen, put this to the vote, and take a second time the opinion of the Athenians; reflecting, if you feel afraid to move the question again, that the violation of the law would not, with so many abettors, involve any guilt; but that you would be acting as a physician to the state, when it had taken bad counsel; and that good government consists in this,—for a man to do his country as much good as possible, or, at least, to do it voluntarily no harm.
+
+To this effect spoke Nicias. Of the Athenians, the greater part who came forward advised making the expedition, and not annulling what had been decreed; though there were some also who spoke against it.
+
+But the man who most earnestly recommended the expedition was Alcibiades son of Clinias, who at once wished to thwart Nicias—both as being in other respects opposed to him in politics, and because he had alluded to him in a disparaging manner—and was most anxious to take the command, and hoped by that means to reduce Sicily and Carthage, and at the same time, in consequence of his success, to promote his own private interests in point of fame and wealth.
+
+For, being held in high repute by the citizens, he indulged his inclinations on too large a scale for his existing means, with regard to keeping horses, and all other expenses. And this too was what afterwards mainly caused the destruction of the Athenian state.
+
+For being alarmed at the extent of his disregard for the laws in his own person, with respect to his mode of life, and of his designs in the measures he severally undertook, in whatever business he might be engaged, the greater part of the people became his enemies on the belief of his aiming at tyranny; and though in his public capacity he conducted the war most ably, yet being severally offended at his habits in his private life, and committing the administration to others, after no long interval they brought their country to ruin.
+
+However, at that time he came forward, and advised the Athenians as follows:
+
+"It is both befitting, Athenians, for me, more than others, to enjoy command, (for with this topic must I commence my speech,]since Cleon has attacked me upon it,) and at the same time, I deem myself worthy of it. For those things about which
+
+I am so assailed with clamour, confer honour on my ancestors and myself, and benefit on my country at the same time.
+
+For the Greeks considered our state to be greater than they had ever done, even beyond its actual power, through the splendour of my display as its deputy to the Olympic games; (whereas they hoped before that it had been exhausted by the war;) inasmuch as I entered seven chariots—a number which no private individual had ever yet entered—and gained the first prize, and was second and fourth, and provided every thing else in a style worthy of my victory. For according to the usual view of them, such things are a subject of honour; while, from the practice of them, an idea of power is also formed.
+
+And again, whatever distinction I gain at home by my exhibitions of choruses, or in any other way, it is naturally envied by my fellow—citizens, but for foreigners this too has an appearance of power. And this is no useless folly, when a man benefits at his own costs, not himself only, but his country also. Nor is it unfair for one who prides himself on his own prosperity, to refuse to be on an equality with the mass;
+
+since in the same way he who is unfortunate shares his calamities with no one else. But as we are not courted when in adversity, by the same rule let a man also submit to be slighted by the prosperous; or let him treat the unfortunate as on an equal footing, [when he is in prosperity,] and so claim the like treatment in return, [when he is himself in adversity].
+
+I know, however, that men in such circumstances, and all who ever surpassed others in splendour of any kind, though disliked in their own life—time, most of all in their dealings with their equals, and then with the rest of the world also, have yet left to some of those who came after them a desire to claim connexion with them, even where there were no grounds for it; and a subject for glorying to the country they belonged to, not as for aliens, or offenders, but as for countrymen, who had achieved glorious things.
+
+And in my case, who aim at such things, and am therefore in private assailed with clamour, consider, with regard to public affairs, whether I administer them in a manner inferior to any one else, or not. For having united the most powerful states of the Peloponnese, without any great danger or expense to you, I brought the Lacedaemonians to a single day's struggle for their all at Mantinea; in consequence of which, although they were victorious in the battle, they do not ever now feel any firm confidence in themselves.
+
+"In this way, then, did my youth and preternatural folly, as it is thought, deal with the power of the Peloponnesians by means of suitable arguments; and gaining credit by my vehemence, obtained their assent. And now too be not afraid of it; but while I am still in the flower of it, and Nicias appears fortunate, avail yourselves fully of the services of each of us.
+
+And with regard to the expedition to Sicily, change not your determination from an idea that it would be undertaken against a great power. For it is only with a mixed rabble that its cities are populous; and they easily admit changes in their government, and adopt new ones.
+
+And for this reason no one is furnished, as though in behalf of his own country, either with arms for the person, or with ordinary resources, as regards the country; but whatever each one thinks that he can get from the people, either by persuading them through his oratory, or by factious measures, and will so find a home in another land, in case of his not being successful, with that he provides himself.
+
+It is not likely, then, that a populace of such a character should either listen to any counsel with one heart, or apply themselves to action in common: but they would severally side with whatever was said to please them; especially if they are torn by factions, as we hear.
+
+Again, with regard to heavy-armed troops, neither have the Siceliots so many as are boasted of, nor did the rest of the Greeks prove so numerous as they severally reckoned themselves; but Greece had very much misstated them, and was with difficulty equipped with them in sufficient numbers on the outbreak of this war.
+
+The states in those parts, then, from what I learn by report, are of this character, and still more easy to deal with—for we shall have many barbarians, who from hatred of the Syracusans will join us in attacking them—and those here will not prove an obstacle, if you take a right view of the matter.
+
+For our fathers had these very men, whom they say you would leave behind you in hostility when sailing there, and the Mede beside, as their enemies; and still they won their empire; though strong in nothing else but the superiority of their fleet.
+
+And as things stand now, never yet were the Peloponnesians more hopeless with regard to us: and even if they are ever so confident, for invading our country indeed they are strong enough, even though we do not undertake the expedition; but with their naval force they cannot hurt us, [though we do undertake it;] for we have a fleet left behind that is a match for them.
+
+On what reasonable argument, then, could we ourselves shrink from it; or on what plea addressed to our allies there could we refuse to succour them? For since we have entered into league with them, we ought to assist them, and not to object that they too have not assisted us. For we united them with us, not that they might come here to help us in their turn, but that by annoying our enemies there they might prevent their coming here to attack us.
+
+And it is in this way that empire has been won, both by us and and by all others who have enjoyed it; I mean, by readily taking part with those barbarians or Greeks who from time to time called them to their aid; since if all should remain quiet, or nicely choose whom they ought to assist; we should make but slight additions to it, but should rather run a risk of losing even what it now is.
+
+For men do not only defend themselves against a superior when he has attacked them, but also strike the first blow, to prevent his attacking them. And it is not possible for us to portion out exactly how far we wish to hold dominion; but since we are in our present position, we must form designs against some, and not give up others; because we should be, subjected to the rule of another party, if we did not ourselves rule over others.
+
+Nor must you take the same view of quiet as the rest of the world, unless you will also receive fresh institutions assimilating to theirs. Considering, then, that we shall rather aggrandize our possessions here, if we go in quest of those there, let us make the expedition; that we may both prostrate the pride of the Peloponnesians, by being seen, regardless of present peace, to sail even against Sicily; and at the same time, by either ruling, as we most probably shall, over the whole of Greece, through being joined by those there, or at any rate by injuring the Syracusans, by which both ourselves and our allies will be benefited.
+
+And as for security, whether for remaining there, in case of any success, or for returning, our fleet will provide us with it:
+
+for by sea we shall be superior to all the Siceliots put together. And let not the non-interfering policy which Nicias recommends in his speeches, nor his setting the young against the old, divert you from your purpose; but acting in your usual order, just as our fathers, by consulting young with old, raised the state to its present height, do ye now too, in the same manner, endeavour to advance it; being convinced that youth and old age can do nothing without each other; but that the period of levity, and of mid-age, and of extreme preciseness, will have most power when joined together; and that the state, if it remain quiet, will be worn out on itself, like any thing else, and its skill in every thing grow dull; while by entering into contest it will continually gain fresh experience, and will find self—defence habitual to it, not in word, but rather in deed.
+
+My decided opinion then is, that I think a state of no inactive character would most quickly be ruined by a change to inactivity; and that those men live most securely, who regulate their affairs in accordance with their existing habits and institutions, even though they may be of an inferior character, with the least variation.
+
+To this effect spoke Alcibiades. When the Athenians had heard him and the Segestans and some Leontine exiles, who, coming forward, begged and entreated them to assist them, reminding them of their oaths, they were much more eager for the expedition than before.
+
+So Nicias, perceiving that he could not now turn them from it by the same arguments as he had used before, but might perhaps change their purpose by the amount of armament, if he should command a numerous one to be prepared; he came forward again, and addressed them as follows:
+
+"Since I see you, Athenians, altogether bent on making the expedition, may these things turn out as we wish: at the present time, however, I will declare to you what my opinion is.
+
+We are about to go then, as I learn from report, against cities which are great, and not subject one to another, or in want of a change, like that by which men would gladly pass from a state of violent slavery to an easier condition instead f it; which will reasonably refuse to accept our dominion instead of freedom, and are many in number, considering that they are in one island, even those of Greek origin.
+
+For besides Naxos and Catana, which I expect will side with us on the strength of their connexion with Leontini, there are seven others, and those equipped with every thing in a style just agreeing with our own power, and most of all, those against which we are more especially sailing, namely, Selinus and Syracuse.
+
+For there are in them many heavy—armed, and bowmen, and dartmen, with many triremes, and crowds to man them. They have money too, partly in private funds, and partly in the temples also at Selinus; while the Syracusans have also first-fruits paid them by certain barbarian tribes. But what they most of all excel us in is, that they possess many horses, and use corn of native growth, and not imported
+
+"Against such a power then we require, not only a marine and inefficient armament, but that a large land force also should sail with us, if we are to achieve any thing suitable to our design, and are not to be shut out from the land by numerous cavalry; especially should the cities league together in their fear, and none but the Segestans be our friends, and furnish us with horse, wherewith to defend ourselves.
+
+But it were disgraceful to return by compulsion, or to send for fresh supplies afterwards, through having inconsiderately formed our plans at first. On the contrary, we must go against them with sufficient forces, knowing that we are about to sail far from our own country, and not on an expedition of the same kind as when you have gone at different times, in the character of allies, against any of your subjects in these parts, where supplies of additional necessaries were easily obtained from the friendly territory; but departing to a land altogether alien to you, from which for as many as four months in the winter it is not easy for a messenger to come here.
+
+"I think therefore that we ought to take many heavyarmed, both of our own and of our allies, whether those who are subject to us, or any in the Peloponnese that we may be able either to prevail upon by argument, or to take into our pay; many bowmen also and slingers, to offer resistance to the Sicilian horse; and that in ships we should have a very decided superiority, in order that we may the more easily bring in what is necessary: while we take our corn from home also in merchant vessels, namely, wheat and parched barley, with bakers from the mills, compelled, in proportion to their numbers, to serve for pay; that should we any where be detained by stress of weather, the force may have provisions; (for so numerous as it is, it will not be one for every city to receive.) All other things too we must provide, as far as we can, and not depend upon others; but, most of all, we must take from home as much money as possible. For as for that of the Segestans, which is asserted to be there in readiness, believe that it is in the way of assertion, more than in any other way, that it will be ready.
+
+For supposing us to go hence, not only provided on a scale equal to the enemy, ( excepting, at least, their heavy-armed fighting force,) but even surpassing them in all respects; yet scarcely even then shall we be able to subdue that country, and to save this. Indeed we must consider that we are going to found a city amongst aliens and enemies;
+
+and such men must either, the first day they land, be at once masters of the country, or know that if they fail to do so, they will find every thing opposed to them.
+
+For myself then, being afraid of this, and knowing that on many points we must take good counsel, and on still more have good luck, (and that is difficult for such as are but men,) I wish to sail from home committing myself as little as possible to fortune, and secured against failure by our preparations, according to all reasonable hopes.
+
+For this I consider to be at once most safe for the state at large, and conducive to the preservation of us who will go on the expedition. But if any one think otherwise, I resign the command to him.
+
+Thus much spoke Nicias, thinking that he should either deter the Athenians by the vast scale of his measures, or that if he were compelled to join the expedition, he should in this way sail on it most safely.
+
+They, however, had not their desire for the voyage taken from them by the burdensome nature of the preparations, but were much more eager for it than ever; and the result proved just contrary to what he had expected; for it was thought that he had given them good advice, and that now certainly they would have even abundant assurance of success.
+
+And so all alike were seized with a longing to go on the expedition: the elder, from a belief that they should either subdue the places against which they were about to sail, or that a large force would meet with no misfortune: those in the prime of life, from a desire of foreign sights and spectacles, and because they were in good hope of returning safe from it: the mass of the people and of the soldiery, from thinking that they should both make money at present, and gain additional power, from which an unfailing fund for pay would be obtained.
+
+So that owing to the excessive desire of the majority for the measure, even if any one were not pleased with it, he was afraid that by voting against it he might appear ill—affected to the state, and therefore held his peace.
+
+At last one of the Athenians came forward, and calling on Nicias, said that he ought not to make excuses and to procrastinate, but to say now before them all, what forces the Athenians should vote him.
+
+He then, though reluctantly, said that he would deliberate more leisurely on the question, in concert with his colleagues: as far, however, as he saw at present, they should not sail with less than a hundred triremes, (as many of the Athenian ships as might be thought fit would carry the heavy infantry, while others must be sent for from the allies,) with not fewer than five thousand heavy-armed in all, of the Athenians and the allies, and even more, if at all possible; and that they would get ready and take with them the rest of the armament in proportion, both archers from home and from Crete, slingers, and whatever else should be thought proper.
+
+The Athenians, after hearing him, immediately voted that the generals should be invested with full powers to make arrangements, both concerning the number of troops, and every thing connected with the whole expedition, as they might judge to be best for Athens.
+
+After this, the preparations began to be made; and they both sent to the allies, and drew up their muster—rolls at home. The city had lately recovered itself from the plague, and from continued hostilities, as regarded both the number of young men who had grown up, and the accumulation of money in consequence of the truce; so that every thing was the more easily provided. And thus they were engaged in preparations.
+
+In the mean time, of all the stone Mercuries in the city of Athens, (they are, according to the fashion of the country, those well—known square figures, numerous both in private and sacred door—ways,) the greater part had their faces mutilated in one night. The perpetrators of this offence were known to no one;
+
+but search was made for them, with great rewards for information offered at the public expense. Moreover, the people voted, that if any one knew any other act of impiety to have been committed, whoever wished, whether citizen, alien, or slave, should without fear give information of it. And they took the matter up more seriously than it deserved;
+
+for it was considered to be an omen of the expedition, and also to have been done on the strength of a conspiracy for bringing about a revolution, and for putting down the democracy.
+
+Information therefore was given by some naturalized aliens, and slaves who were in personal attendance on their masters, though not at all respecting the Mercuries, yet of certain mutilations of other images which had before been perpetrated by some young men in a drunken frolic: and, moreover, that in certain private houses the mysteries were celebrated in mockery. In this charge they implicated Alcibiades;
+
+and those took it up who were most hostile to him, as being an obstacle to their own taking the permanent lead of the people. Thinking therefore, that if they expelled him, they would have the first place, they magnified the business, and raised an out cry, to the effect that both the affair of the mysteries and the mutilation of the Mercuries had been done for the abolition of democracy; and that there was none of all these things that had been executed without his assistance: alleging in proof of the assertion his general contempt for the law in his personal habits, so opposed to the spirit of democracy.
+
+He at once defended himself against these charges, and was ready to submit to trial, as to his being guilty of any of these things, before going on the expedition, (for by this time all things necessary for the armament had been provided,) and if he had done any of these things, he was willing to be punished; but if he were acquitted, to take the command.
+
+He protested, too, that they should not listen to slanders against him in his absence, but put him to death at once if he were guilty; and that it was more prudent not to send him out at the head of so large an armament, with such an accusation attaching to him, before they had decided the question.
+
+But his enemies being afraid of the army, lest he should have its good wishes, if at once brought to trial; and lest the people should relent, who courted him, because for his sake the Argives and some of the Mantineans were joining in the expedition; they wished to put it off, and earnestly dissuaded the measure, by bringing forward other orators, who urged that at present he should sail, and not delay the departure of the army, but should on his return take his trial within such a number of days as might be appointed. For they wished to have him sent for, and brought home for trial on a graver charge, which they could more easily get up in his absence. Accordingly it was resolved that Alcibiades should sail.
+
+After this, when it was now midsummer, the departure for Sicily took place. Now to the greater part of the allies, with the provision ships, and the smaller craft, and all the other vessels that accompanied them, orders had before been given to muster at Corcyra, with a view to their crossing the Ionian Sea in a body from that place to the Iapygian foreland. But the Athenians themselves, and such of the allies as were present, went down to the Piraeus on an appointed day, as soon as it was light, and proceeded to man their ships for the purpose of putting out to sea. The whole multitude too, (so to speak,) that was in the city, both of citizens and foreigners, went down with them. The natives accompanied, respectively, those who belonged to them, whether friends, kinsmen, or sons; and went at' once with hope and with lamentations;
+
+with hope, that they would attain what they went for; but with lamentation, as doubtful if they should ever again see their friends, when they remembered on how long a voyage they were setting out from their country. At the present time too, when they were now to take leave of each other on a perilous undertaking, the thought of the dangers struck them more forcibly than when they were voting for the expedition: though, nevertheless, they were cheered by the sight of their present strength, through the numbers of each part of the armament which they beheld. As to the foreigners, and the rest of the multitude, they went to see the sight, as that of an enterprise worthy of their notice, and surpassing belief.
+
+This armament which first sailed out, going from a single city, and consisting of a Grecian force, was the most costly and splendid of all up to that time. Yet in number of ships and of heavy—armed, that against Epidaurus under Pericles, and the same when going against Potidaea under Hagnon, was not inferior to this: for there were in it four thousand heavy-armed of the Athenians themselves, three hundred horse, and a hundred triremes, with fifty of the Lesbians and Chians, while many allies besides joined in the expedition.
+
+But they were despatched on a short voyage and with scanty preparation: whereas this expedition started with the expectation of its being a long one, and was equipped for both kinds of service, whichever might be required, with ships and land forces at the same time. The fleet was elaborately fitted out, at great expense both on the part of the captains and of the state.
+
+For the treasury gave a drachma a day to each seaman, and furnished empty vessels, sixty fast sailers and forty transports; while the captains provided the best crews for them, and gave gratuities in addition to the pay from the treasury, to the thranitae, and to the petty officers; and made use besides of expensive ensigns and equipments; each one of them being in the highest degree desirous that his own ship should excel most in beauty and fast sailing. The land forces, on the other hand, were selected from the best muster-rolls, and vied with each other in great attention to their arms and personal accoutrements. The consequence was, that there was at once a rivalry amongst themselves, in the arm of the service to which they were severally appointed; and that with the rest of the Greeks it was imagined to be a display of power and resources, rather than an armament raised against an enemy.
+
+For if any one had reckoned the public expenditure of the state, and the private outlay of individuals; with regard to the state, what sums it had already spent upon it, and what it was sending out in the hands of the generals;
+
+and with regard to individuals, what each had laid out on his personal equipment, and, in the case of a captain, on his ship, with what he was likely to lay out still; and, moreover, what it was probable that every one had provided, independently of his pay from the treasury, towards the expenses of a voyage expected to be so long; and what each soldier or trader took with him for the purpose of exchange; [if all these sums, I say, had been calculated,] it would have been found that many talents in all were being taken out of the city. And the expedition was no less celebrated through men's astonishment at its boldness, and the splendour of its appearance, than for the superiority of the armament, compared with those whom they were going to attack;
+
+and from the fact of its being the longest passage from their own country that had hitherto been undertaken, and with the greatest hope of future advantages in comparison with their present means.
+
+Now when the ships were manned, and every thing was put on board that they meant to set sail with, silence was proclaimed by trumpet, and they offered the prayers which are usual before putting out to sea; not ship by ship singly, but all together, responding to a herald; having mixed bowls of wine through the whole armament, and both seamen and their officers making oblations with gold and silver goblets.
+
+They were joined also in their prayers by the rest of the multitude on shore, both the citizens and whoever else was there that wished them well. When they had sung their hymn, and finished their libations, they weighed anchor; and having at first sailed out in a column, they then raced each other as far as Aegina. And thus they hastened to reach Corcyra, where the remaining force of the allies was also assembling.
+
+Now tidings of the expedition were brought to Syracuse from many quarters, but for a long time received no credit at all. Nay, even when an assembly was held on the subject, both by others were speeches to the following effect delivered, (some believing the report of the Athenian expedition, while some contradicted it,) and Hermocrates, the son of Hermon, coming forward to them, from a conviction that he had accurate information on the subject, addressed to them the following advice:
+
+"I shall, perhaps, appear to you, as some others have done, to speak what is incredible concerning the reality of the expedition that is coming against us: and I know that those who either make statements, or bring reports, which do not seem to be credible, not only fail to convince, but are also thought to be foolish. Nevertheless I will not, through fear of this, hold my tongue when the state is in danger, since I am myself at any rate persuaded that I speak with more certain knowledge than others.
+
+For the Athenians, much as you are surprised at it, have set out against us with a large force both for sea and land service, nominally, on account of an alliance with the Segestans, and for the purpose of settling the Leontines, but really through desire for Sicily, and most of all, for our city, thinking that if they get this, they will easily get the rest also.
+
+With a conviction, then, that they will quickly be here, consider how with your present resources you may best defend yourselves, and may neither through despising the matter be taken off your guard, nor through disbelieving it neglect the common weal.
+
+But if, on the other hand, I appear to any one to speak credibly, let him not be struck with consternation at their boldness and power. For neither will they be able to do us more harm than they receive, nor, because they are coming against us with a great armament, are they on that account without advantage for us; but it is much better with respect to the rest of the Siceliots, (for they will be the more willing, in their consternation, to join our alliance,) and in case of our either defeating them, or repulsing them without their obtaining the objects of their ambition, (for certainly I am not afraid of their gaining what they expect,) it will prove the most glorious achievement for us, and one which, by me at least, is not unexpected.
+
+For few have been the great armaments, either of Greeks or barbarians, which have gone far from home and proved successful. For they come not in greater numbers than the natives of the country and those who live near to it, (since all league together through fear,) and if they fail through want of provisions in a foreign land, even though they fail chiefly through their own fault, they nevertheless leave a proud name to those who were the objects of their attack.
+
+Just as these very Athenians, when the Mede, contrary to expectation, was so signally defeated, grew great on the strength of the report, that it was against Athens that he had come. And there is reason for hoping that in our case the result may be the same.
+
+With good courage, then, let us both make our preparations here, and send to the Sicels, to strengthen the attachment of some of them, and endeavour to enter into friendship and alliance with others; while we despatch envoys to the rest of Sicily, to prove that the danger is common to all; and to Italy, that either we may gain their alliance for ourselves, or they may refuse to receive the Athenians.
+
+I think it better, too, that we should also send to Carthage. For this is nothing unexpected by them; but they are always in fear that they may some time or other find the Athenians coming against their country; and therefore thinking, perhaps, that if they abandoned these places, they would themselves be brought into trouble, they might be willing to assist us; at least secretly, if not openly; or at any rate in some way or other. And they are more able to do it, if they please, than any men of the present day; for they possess most gold and silver; and it is by means of these that war, like every thing else, prospers.
+
+Let us likewise send to Lacedaemon and Corinth, begging them to come hither to our aid as quickly as possible, and to stir up the war there.
+
+And what I think the most expedient course, though you, through your habitual love of quiet, would be least quickly persuaded to adopt it, shall, notwithstanding that, be mentioned. If then we Siceliots—all in one body, if possible; but if not, as many as possible in concert with us—would launch the whole of our present navy, with two months' provisions, and go to meet the Athenians at Tarentum and the Iapygian foreland, and show them that they will not have to fight about Sicily before they have fought for their own passage over the Ionian Sea; we should strike them with the greatest fear, and set them on considering that we are starting from a friendly country as its guardians, (for Tarentum is ready to receive us,) but that for them the tract of open sea is a wide one to cross with all their armament; which would hardly remain in order through so long a voyage, and would be easily attacked by us, while it came on slowly and in small divisions. But supposing, on the other hand, that, having lightened their ships, they should attack us with the better sailing part of their fleet in a more compact body;
+
+then, if they use their oars, we shall fall on them when they are wearied; or if we should not choose to do so, we may also retire to Tarentum: while they, having crossed with few provisions, on purpose for an engagement, would be at a loss what to do in uninhabited regions; and would either be blockaded, if they remained, or if they attempted to sail along the coast, would abandon the rest of their armament, and would be dispirited, from having no certainty whether the cities would receive them or not. I therefore, for my part, am of opinion, that being deterred by this consideration, they would not so much as put out from Corcyra;
+
+but would either, after deliberating and reconnoitring how many we are, and in what position, be driven on by the season of the year into winter; or, in consternation at the unexpected result, break up the expedition: especially since the most skilful of their generals, as I hear, is taking the command against his will, and would gladly seize an excuse to return, if any considerable resistance were seen on our part. We should be reported too, I am quite sure, as being more than we really are:
+
+and in accordance with what is told them are men's feelings also affected; and of those who are beforehand in attacking, or, at any rate, let those who are going to attack them see beforehand that they will defend themselves, they stand in greater fear, considering them equal to the danger And this would be the case now with the Athenians.
+
+For they are coming against us with a belief that we shall offer no resistance; with good reason contemning us, because we did not join the Lacedaemonians in destroying them. But if they saw us acting with courage beyond their expectation, they would be more dismayed at that unlooked-for result, than at the power which we really possess.
+
+Be persuaded, therefore to show this boldness, if possible; but if not, then, as quickly as possible, to get ready all other resources for the war; and to think, every one of you, that contempt for your assailants is best shown by bravery of deeds; but that, for the present, to consider those preparations most safe which are made with a feeling of fear, and to act as in a season of danger, would prove most to your advantage. For those men are both coming against us, and already, I know for certain, on their voyage, and all but here.
+
+Such was the speech of Hermocrates. But the people of Syracuse were at great strife one with another; some maintaining that the Athenians would by no means come, and that what he said was not the truth; others asking what they could do, if they did come, which they would not suffer on a larger scale in return. Others, again, treated the matter with utter contempt, and turned it to ridicule; while there were but few who believed Hermocrates, and were afraid of what was coming.
+
+Athenagoras, who was a leader of the people, and most influential with the multitude at the present time, then came forward to them and spoke as follows:
+
+"With regard to the Athenians, whoever does not wish them to be so senseless, and to be reduced into subjection to us by coming here, is either a coward, or ill affected towards his country. But with regard to those who bring such tidings, and fill you with such excessive fear, I wonder at them, not for their audacity, but for their folly, if they imagine that they are not seen through.
+
+For being afraid themselves, they wish to throw the whole city into consternation, in order that they may get their own terror thrown into the shade by the general alarm. And now this is the real value of these reports: they do not arise in a natural way, but are concocted by men who are always raising commotions here.
+
+But you, if well advised, will not look at and estimate probabilities by the news which these persons bring, but by what men of talent and great experience, as I presume the Athenians are, would be likely to do.
+
+For it is not probable that they, leaving the Peloponnesians behind them, and not having yet brought the war at home to a sure conclusion, should voluntarily come here for another no less arduous; since, in my opinion, they are quite contented that we, with so many and so great cities as we have, are not going against them.
+
+"But, indeed, if they should come, as they are said to be coming, I consider Sicily more competent to bring the war to a termination than the Peloponnese, (inasmuch as it is better provided in all respects,) and our city by itself far stronger than the army which is now, as they say, coming against us, even though it came twice as large as it is. For I know that neither will any horses accompany them, or be provided for them here, except some few from the Segestans, nor heavy-armed equal in number to our own, coming, as they must have done, on board ship. For it is a great thing for even the ships themselves, lightly laden, to perform so long a voyage hither; and for all the other provisions required against such a city, (which will be no few,) to be furnished.
+
+So far then am I from believing this, that I think if they came with another city as large as Syracuse in their possession, and living there on our borders carried on the war, they would hardly avoid utter ruin: much less then, surely, with the whole of Sicily hostile to them, (for it will league together;) and with an army established in the country from on board ship; and while they are not permitted by our cavalry to advance far from their wretched tents, and such poor equipments as they are compelled to put up with. In short, I do not think they would even effect a landing; so far superior do I consider our forces to be.
+
+"But the Athenians, as I tell you, being aware of this, are engaged, I am well assured, in preserving their own possessions; and it is persons here that are making up these stories of what neither is, nor could ever be, the case.
+
+And I am not now for the first time convinced of them, but have ever been so, that they wish to terrify your populace by such tales as these, and still more wicked ones, if not even by deeds; and so themselves to have the rule of the city. And in truth I am afraid, lest some time or other, by making many attempts, they should even succeed; while we are ill disposed, before we are in the act of suffering, to take precautionary measures against them, and after finding them out, to proceed against them.
+
+And so by these means our city is seldom at rest, but is involved in many feuds and conflicts—not more frequently with its enemies than with itself—and sometimes in tyrannies and unprincipled cabals. But I will endeavour, if only you will follow my advice, to let none of these things occur in our time;
+
+by convincing you who form the mass of the people, and by chastising those who plot such things; not only when convicted in the act, (for it is difficult so to catch them,) but also for what they have the wish, though not the power, to do. For we must avenge ourselves on our enemy, not only for what he does, but beforehand also, for his intention to do it; inasmuch as if we are not first in guarding against him, we shall be first in suffering. With regard to the oligarchs, on the other hand, I shall reprove them on some points, watch them on others, and warn them on others; for in this way I think I shall best deter them from their evil practices. And, indeed, what is it (a question which I have often asked) that ye really wish, ye young men?
+
+Is it to enjoy power at once? But that is not lawful; and that law was so enacted in consequence of your incompetency, rather than with a wish to degrade you when competent for the task. Well then, is it to avoid being under the same laws with the people at large? And how then is it right for the same people not to be thought worthy of the same privileges?
+
+"Some one will say, that a democracy is neither a sensible nor an equitable thing, but that those who have property are also most competent to rule best. But I say, in the first place, that 'democracy' is a name for all, but ' oligarchy' for only a part; and, in the second place, that though the rich are the best guardians of property, the intelligent would be the best counsellors, and the mass of the people the best judges after hearing measures discussed;
+
+and that all these things, both severally and collectively, have their due share allotted to them in a democracy. An oligarchy, on the other hand, admits, indeed, the many to a share of dangers, but of advantages it not only enjoys the larger part, but even takes away and keeps the whole. And this is what the powerful and young among you desire—a thing impossible to attain in a great city.
+
+Nay then at length, even now,
+
+O ye dullest of all men—(for of all the Greeks I know, are you either most senseless, if you are not sensible that you are coveting evil things; or most unprincipled, if you know it, and still dare to pursue them:)—nay then, I say, either acquire that knowledge, or change those principles, and so advance the interest of the city, which is the common interest of all. For consider, that those who are good among you will share that in an equal, or even greater degree, than the mass of the people in the city;
+
+but that if you wish any thing else, you run a risk of being deprived of all. And have done with such reports as these, knowing that they are brought to those who are aware of, and will not tolerate, your designs. For this city, even if the Athenians are coming, will resist them in a manner worthy of itself; and we have generals who will look to these matters. And if none of the reports be true, (which is my opinion,) it will not lay a voluntary slavery on itself, by being panic-struck at your intelligence, and by choosing you as its rulers; but will look at the circumstances itself, and consider the words spoken by you as equivalent to deeds; and will not be deprived of its present liberty by listening to you, but will endeavour to preserve it by being cautious in its actions, and not allowing you to go unpunished.
+
+To this effect spoke Athenagoras. One of the generals then rose up, and would no longer permit any one else to come forward, but himself spoke on the subject before them to the following effect:
+
+It is neither prudent for any parties to utter calumnies against each other, nor for those who hear them to admit them; but rather to see, with regard to the intelligence brought to us, how we may prepare, both each man severally and the whole city together, to defend ourselves well against the invaders.
+
+And even supposing it not to be required, there is no harm, at any rate, in the state being equipped with horses, and arms, and every thing else in which war rejoices.
+
+And we ourselves will undertake to attend to and examine these things, and to send round to the cities, both for observation, and whatever else may appear to be expedient. To some of them, indeed, we have already attended; and whatever we discover, we will lay before you.
+
+After the general had said thus much, the Syracusans departed from the assembly.
+
+Now the Athenians were by this time at Corcyra, themselves and all their allies. And in the first place, the generals reviewed the armament a second time, and made their dispositions, as they were to come to their moorings, and to form their camp; making three squadrons, and allotting one to each of their body, that they might not, by sailing in company, be at a loss for water, and ports, and provisions, on their touching any where; and that they might in other respects be more orderly and easy to control, by being put under a particular commander, according to the several squadrons.
+
+They next sent forward three ships to Italy and Sicily, to ascertain which of the cities would receive them; with orders to come out again and meet them, that they might know this when they put in.
+
+After this, the Athenians at length weighed anchor, and proceeded to cross over from Corcyra to Sicily, with the following force; viz.—a hundred and thirty-four triremes, in all, and two Rhodian fifty-oared galleys; (a hundred of these were Athenian vessels, sixty of which were fast sailers, the rest troop ships; the remainder of the fleet being composed of Chians, and the other allies;) of heavy-armed, in all, five thousand one hundred, (of which there were raised by the Athenians themselves fifteen hundred, and seven hundred
+
+Thetes serving as Epibatae on board the ships; the rest of those who joined the expedition being allies, some of them sent by their subjects, others by the Argives, to the number of five hundred, with two hundred and fifty Mantineans, who were also mercenaries;) of archers, in all, four hundred and eighty, (eighty of which were Cretans;) of Rhodian slingers, seven hundred; of light-armed Megareans, who were exiles, one hundred and twenty; and one horse transport, carrying thirty horses.
+
+Such was the amount of the first armament which sailed over for the war. For these troops thirty ships of burden, laden with corn, carried provisions, with the bakers, stone-masons, carpenters, and all the tools for building fortifications; and also one hundred boats, which, together with the ships of burden, were pressed into the service; while many other boats and ships of burden followed the armament voluntarily, for purposes of commerce; all of which proceeded at that time to cross the Ionian Gulf from Corcyra.
+
+When the whole armament had made the coast at the Iapygian foreland, and Tarentum, and as they severally could, they sailed along the coast of Italy, as the cities did not afford them a market, or the protection of their walls, but only water and anchorage, (and Tarentum and Locri not even these,) until they came to Rhegium, a promontory of Italy.
+
+There they at once mustered, and pitched a camp outside the city, (as they would not receive them within the walls,) in the sacred enclosure of Diana, where they afforded them a market; and having drawn up their ships ashore, they remained quiet. They then entered into communication with the Rhegians, calling upon them, as Chalcidians, to assist the Leontines, who were Chalcidians also. They, however, said that they would join neither party, but whatever the rest of the Italiots should collectively determine, that they would do.
+
+The Athenians then turned their attention to the state of things in Sicily, considering in what way they would best deal with them; and at the same time were waiting for the arrival from Segesta of the ships which had been sent on in advance; wishing to know respecting the money, whether there were such a sum as the messengers stated at Athens.
+
+To the Syracusans, in the mean time, reports were being brought from all quarters, and from those who had been sent by them to reconnoitre came positive intelligence that the ships were at Rhegium; and on the belief of this, they began to make preparations with all their heart, and were no longer incredulous. Accordingly they sent about to the Sicels, in some cases, guards; in others, ambassadors; and were putting garrisons into the stations of the peripoli in their country; while in their city they were seeing if the equipments were complete, by examining arms and horses; and were settling every thing else, in expectation of a war that was quickly coming on them, and all but present.
+
+Now the three ships sent on in advance came from Segesta to the Athenians at Rhegium, with tidings that the other money which they had promised was not there, but that only thirty talents were to be seen.
+
+The generals then were immediately in a state of great despondency, because this their first hope had disappointed them; as had the Rhegians also, by their unwillingness to join their standard—the people they had first attempted to persuade, and for whom it was most natural to assist them, as they were of the same race as the Leontines, and always favourably disposed towards themselves.
+
+Nicias, indeed, was prepared for the tidings from the Segestans, but by the other two it was quite unexpected. For the Segestans had recourse to the following contrivance, at the time when the first envoys of the Athenians came to them to see the state of their funds. They took them to the temple of Venus at Eryx, and showed them the treasures deposited there, consisting of bowls, wine-ladles, censers, and other articles of furniture in no small quantity; which being made of silver, presented, with a value really trifling, a much greater show of wealth. And in their private receptions of the triremes' crews, having collected the cups both of gold and silver that were in Segesta itself, and borrowed those in the neighbouring cities, whether Phoenician or Grecian, they each brought them to the entertainments, as their own.
+
+And thus, as all used pretty nearly the same, and great numbers of them were every where seen, it created much astonishment in the Athenians from the triremes;
+
+and on their arrival at Athens they spread it abroad that they had seen great wealth. Those, then, who had been themselves thus outwitted, and had at that time persuaded the rest, were severely blamed by the soldiers, when the report went abroad that there was not at Segesta the money they had expected.
+
+The generals now took counsel on the present state of affairs. The opinion of Nicias was, that they should sail to Selinus with all their forces, that being the object for which they had, most of all, been sent: and in case of the Segestans supplying money for the whole armament, that then they should determine accordingly; otherwise, that they should beg them to give provisions for their sixty ships, the number which they had asked for; and remaining there should bring the Selinuntines to terms with them, either by force or by treaty; and so, after coasting along by the other cities, and displaying the power of the Athenian state, as well as proving their zeal in the cause of their friends and allies, they should sail back home;—(unless they should be able, on a sudden, and without expecting it, either to do the Leontines service, or to bring over some of the other cities;)—and not expose their state to danger by spending its own resources.
+
+Alcibiades, on the other hand, said that they ought not, after sailing from home with so large a force, to return with dishonour and without effecting their purpose; but to send heralds to all the other cities, except Selinus and Syracuse, and endeavour also to get some of the Sicels to revolt from the Syracusans, and to gain the friendship of others amongst them, with a view to obtaining corn and troops; but first of all to win over the Messanians; (for they lay just in the passage and approach to Sicily, and there would be a harbour for them there, and the most suitable station for observing the enemy.) When, then, they had brought over the cities, and knew with whose assistance they would carry on the war, then they should attack Syracuse and Selinus, if the latter did not come to terms with Segesta, and the former permit them to settle the Leontines.
+
+Lamachus, again, urged that they ought to sail straight to Syracuse, and immediately fight the battle under the walls of the city, while the inhabitants were most unprepared and panic-struck. For every armament was most formidable in the first instance;
+
+but if it spent much time before coming into sight, men grew bold again in spirit, and felt more contempt for it even on its appearance. If, then, they attacked them on a sudden, while they were still with terror looking for them, they would gain the most decided advantage over them, and strike fear into them in every way; by their sight of the forces, (for they would appear most numerous at the present time,) by their expectation of what they would suffer, and, most of all, by the immediate peril of the engagement. It was probable, too, that many would be surprised outside the city in consequence of their not believing that they would come;
+
+or, if they were now carrying in their effects, yet the army would be in no want of property, if it sat down in superior force before the city. And so the rest of the Siceliots would then the more shrink from entering into alliance with the Syracusans, and join the Athenians;
+
+and would not put off, while they waited to see which party would be the stronger. As for a naval station, he said that after retiring [from before Syracuse,] and bringing their ships to anchor, they should establish one at Megara; which was an uninhabited place, at no great distance from Syracuse either by sea or land.
+
+Though Lamachus spoke to this effect, he nevertheless gave his support to the opinion of Alcibiades. After this, Alcibiades sailed across in his own ship to Messana, and made proposals to them for forming an alliance; but when he did not prevail on them, but they answered that they could not receive him within their city, though they would afford him a market outside, he sailed back again to Rhegium.
+
+Then the generals immediately joined in manning sixty ships out of the whole number, and, taking provisions for them, coasted along to Naxus, leaving the rest of the armament at Rhegium with one of their own body.
+
+On the Naxians' receiving them within their city, they coasted on to Catana; and when the inhabitants refused to admit them, (for there was in that place a party that favoured the cause of the Syracusans,) they proceeded to the river Terias.
+
+Having spent the night there, the next day they sailed in column towards Syracuse, with the rest of the ships; for ten of their squadron they had sent on before, to sail into the great harbour, and observe whether there were any fleet launched; and to proclaim from their ships, that the Athenians were come to reinstate the Leontines in their own country, on the ground of alliance and kindred; and therefore that such of them as were in Syracuse should withdraw from it, and without any apprehension join the Athenians, as friends and benefactors.
+
+So when this proclamation had been made, and they had reconnoitred the city, the harbours, and the features of the country which they would have to make the base of their operations in the war, they sailed back again to Catana.
+
+An assembly having been held there, the inhabitants did not admit the armament, but told the generals to come in and say what they wished. While Alcibiades was speaking, and the attention of those in the city was turned to the assembly, the soldiers, without being observed, broke through a postern which had been ill built up in the wall, and entering the city stationed themselves in the market-place.
+
+When those of the Catanaeans who favoured the Syracusans saw the army within the walls, being immediately very much alarmed, they secretly went out of the place, as they formed but a small party; while the rest voted for an alliance with the Athenians, and begged them to fetch the rest of their forces from Rhegium.
+
+After this the Athenians sailed to Rhegium, and having now put out with all their armament for Catana, on their arrival there established themselves in their camp.
+
+Now tidings were brought to them, both from Camarina, that if they went there, the inhabitants would go over to them, and also that the Syracusans were manning a fleet. They coasted along therefore with all their force, in the first instance, to Syracuse; and when they found no fleet manning, they again proceeded along the shore towards Camarina; and having brought to at the beach, sent a herald to the people. They, however, did not admit them, saying that their agreement on oath was to receive the Athenians, when they sailed to them with only a single ship, unless they should themselves send for more.
+
+Being thus unsuccessful, they sailed back again; and after they had landed on a part of the Syracusan territory, and the cavalry from Syracuse had come to the rescue, and killed some stragglers of the light-armed, they went back to Catana.
+
+There they found the ship Salaminia come from Athens for Alcibiades—to order him to sail back and defend himself against the charges which the state brought against him—and for some others of the soldiers, who with him had been informed against, as being guilty of impiety with regard to the mysteries, and some of them with regard to the Mercuries also.
+
+For the Athenians, after the armament had sailed away, made no less investigation into what had been done in the case of the mysteries and in that of the Mercuries; and as they did not test the character of the informers, but in their suspicious mood admitted all who came forward, on the credit of unprincipled men they arrested and threw into prison very excellent citizens; thinking it more expedient to sift the matter and find it out, than that, in consequence of the bad principle of an informer, an accused person, even though he had a good character, should be unquestioned, and escape.
+
+For the commons, knowing by report that the tyranny of Pisistratus and his sons had proved galling at last, and, moreover, that it had not even been put down by themselves and Harmodius, but by the Lacedaemonians, were always afraid, and took every thing suspiciously.
+
+[For the daring deed of Aristogiton and Harmodius was undertaken in consequence of a love-adventure; by relating which, at some length, I shall show that neither other people, nor the Athenians themselves, give any accurate account of their own tyrants, or of what has happened amongst them.
+
+For when Pisistratus had died at an advanced age in possession of the tyranny, it was not Hipparchus, as the generality suppose, but Hippias, that was eldest of his sons, and obtained the government. Now Harmodius being in the flower of youth and beauty, Aristogiton, a citizen of middle rank in the city, was enamoured of him, and enjoyed his favour.
+
+Harmodius, then, being solicited by Hipparchus, son of Pisistratus, and not prevailed upon, denounced him to Aristogiton. He, lover-like, being exceedingly indignant, and fearing the power of Hipparchus, lest he should take him by force, immediately formed a design, (such as he could in the position he held,) for putting down the tyranny.
+
+In the mean time Hipparchus, having again solicited Harmodius with no better success, would not indeed offer any violence to him, but prepared to insult him in some secret way or other, as though it were not on that account.
+
+For neither in his general government was he severe towards the mass of the people, but conducted it without exciting any odium; and, for tyrants, these men in the greatest degree studied virtue and intelligence; and though they exacted from the Athenians only a twentieth of their income, they adorned their city in a beautiful manner, and carried on their wars, and provided sacrifices for the temples.
+
+The state enjoyed, too, the laws which had been previously enacted, in all other respects, except that they always took care that one of their own family should hold the offices. Amongst others of them who held the yearly archonship at Athens was Pisistratus, son of the Hippias who had been tyrant, who bore his grandfather's name, and dedicated, while archon, the altar to the twelve gods in the market-place, and that of Apollo in the Pythian precinct.
+
+The Athenian people having afterwards made an addition to the length of that in the market-place, obliterated the inscription on the altar; but that in the Pythian precinct is even still visible, though in faded letters, to this purport:
+
+Pisistratus, the son of Hippias, here, In Pythian precinct, marked his archon year.
+
+Now that Hippias, as being the eldest son, succeeded to the government, I both positively assert, because I know it by report more accurately than others, and one may also learn it from this very fact. He alone of the legitimate brothers appears to have had children; as both the altar shows, and the pillar commemorating the wrong committed by the tyrants, placed in the Athenian citadel, on which is inscribed the name of no child of Thlessalus, or of Hipparchus, but five of Hippias, who were born to him of Myrrhine, daughter of Callias, son of Hyperechides. For it was natural that the eldest should have married first. And he is the first mentioned on the pillar after his father;
+
+and that, too, not unnaturally, as he was the eldest next to him, and enjoyed the tyranny.
+
+Nor, again, do I think that Hippias would ever have obtained the tyranny with such ease at the moment, if Hipparchus had been in power when he was killed, and Hippias had had to establish himself in it on the same day. But owing to his former habit, both of striking fear into the citizens, and of paying strict attention to his mercenaries, he retained his sway with superabundant security; and was at no loss, as though he had been a younger brother, and so had not previously been familiar with the constant exercise of power.
+
+But it was the lot of Hipparchus, because he was rendered famous by the sad fate which befell him, to receive also in succeeding ages the repute of having enjoyed the tyranny.
+
+So then, when Harmodius had resisted his solicitation, he insulted him, as he intended. For after summoning a sister of his, a young girl, to come and bear a basket in a certain procession, they rejected her when she came, saying that they had not summoned her at all, as she was not worthy of the honour.
+
+Harmodius being very indignant at this, Aristogiton also was, for his sake, much more exasperated than ever. And now all their other arrangements had been made with those who were to join them in taking the business in hand; but they were waiting for the great Panathenaic festival, on which day alone it was not considered a suspicious circumstance that those of the citizens who had conducted the procession should meet together in arms; and they were themselves to begin, but the rest immediately to join in aiding them against the body-guards. The conspirators were not numerous, for security's sake;
+
+for they hoped that if any number whatever dared to make the attempt, even those who were not before privy to it would be willing at the moment, inasmuch as they had arms in their hands, to join in effecting their own freedom.
+
+When therefore the festival arrived, Hippias, with his body-guard, was arranging outside of the walls, in what is called the Ceramicus, how the several parts of the procession were to proceed.
+
+And when they saw one of their accomplices in familiar conversation with Hippias, (for he was easy of access to all,) they were alarmed, and thought that some information had been laid against them, and that they would be almost immediately arrested. They wished therefore to avenge themselves beforehand, if possible, on the man who had aggrieved them, and for whose punishment they were exposing themselves to all that danger;
+
+and so they rushed straightway within the gates, and meeting with Hipparchus by the Leocorium, at once fell on him in a reckless manner, under the influence of the most vehement passion, inspired by love in the one case, and by insult in the other, and smote him, and slew him.
+
+Now one of them, namely, Aristogiton, escaped from the guards at the moment, through the crowd running up; but was seized afterwards, and disposed of in no gentle manner. Harmodius was immediately slain on the spot.
+
+When the news were brought to Hippias in the Ceramicus, he proceeded immediately, not to the scene of action, but to the armed men in the procession, before they were aware of the matter, in consequence of their being at some distance from the spot; and with his countenance feigned to suit the occasion, so as not to betray his feelings, he pointed out a certain spot, and desired them to retire into it without their arms.
+
+Accordingly they withdrew, supposing that he would deliver an address to them; while he, after commanding his guards to remove the arms, immediately picked out such men as he was disposed to think guilty, and whoever was found with a dagger; for it was only with shield and spear that they were accustomed to make their processions.
+
+In this manner both the original conspiracy was entered into by Harmodius and Aristogiton for a love offence, and their rash venture attempted through their alarm at the moment.
+
+After this, the tyranny was more severe on the Athenians than before; and Hippias, being now in greater apprehension, both put to death many of the citizens, and kept his eye also on foreign states, in whatever quarter he had a prospect of a safe retreat being secured for him, in case of any revolution.
+
+At any rate, he married his daughter Archedice to Aeantides, son of the tyrant of Lampsacus—
+
+Athenian as he was, to a Lampsacene—because he saw that they had great influence with king Darius. There is a monument to her at Lampsacus, with this inscription:
+
+Beneath this dust Archedice finds peace, Whose sire was Hippias, peerless once in Greece. She, though of tyrants daughter, sister, bride, And mother, ne'er was lifted up with pride.
+
+With regard to Hippias, having retained the tyranny at Athens three years longer, and being deposed in the fourth year by the Lacedaemonians and the banished Alcmaeonidae he went, under treaty, to Sigeum, then to Aeantides at Lampsacus, and thence to the court of king Darius; from which also he set out twenty years after, when now an old man, and accompanied the Median forces to Marathon.
+
+Reflecting, then, on these things, and recalling to mind all that they knew by report concerning them, the Athenian people was wrathful at that time, and suspicious of those who had incurred accusation on the subject of the mysteries, and thought that every thing had been done on the strength of a conspiracy for establishing an oligarchy, or a tyranny.
+
+So when, in consequence of their anger on this account, many persons of consideration were already in prison, and the matter appeared not to be stopping, but they were daily proceeding to greater severity and to more numerous arrests; under these circumstances one of the men in confinement, who was thought to be the most guilty of them, was persuaded by one of his fellow prisoners to give information, whether true or not; for suppositions are entertained both ways, and the certain fact respecting those who had done the deed no one was either able to state then, or has since been able.
+
+By his arguments then he persuaded him, that he ought, even if he had not done the deed, both to save himself by gaining a promise of impunity, and to stop his country from its present suspiciousness: for that his preservation was more sure, if he confessed with a promise of impunity, than if he denied it, and were brought to trial.
+
+Accordingly he informed both against himself and some others, respecting the Mercuries; and the Athenian people having gladly ascertained, as they supposed, the truth of the matter, and having been before indignant at the thought of not discovering those who had plotted against their commons, immediately set at liberty the informer and his companions, such as he had not accused; while with regard to those who were charged with the crime, having brought them to trial, they executed all of them who were seized, and having passed sentence upon those who had fled, proclaimed a reward in money for any one who slew them.
+
+By this course, though it was doubtful whether those who suffer: had been punished unjustly or not, yet the rest of the community were manifestly benefited.
+
+With regard to Alcibiades, the Athenians took a severe view of the case, being instigated by his enemies, the same men as had also attacked him before his going on the expedition. And when they fancied they were in possession of the truth respecting the Mercuries, they thought much more than ever that the affair of the mysteries also, in which he was implicated, had been done by him with the same design, and in connexion with the plot against the democracy.
+
+For a small force of Lacedaemonians happened too, just at the time when they were in commotion on these subjects, to have advanced as far as the Isthmus, in pursuance of some scheme with the Boeotians. They thought therefore that it had come by agreement, through his agency, and not on account of the Boeotians; and that if they had not, in consequence of the information they had received, been beforehand in the arrest of the party, the city would have been betrayed to them.
+
+One night indeed they even slept in arms in the temple of Theseus within the walls. The friends, too, of Alcibiades at Argos were at the same time suspected of a design to attack the popular government; and those persons of the Argives who had been deposited in the islands the Athenians on that occasion gave up to the Argive commons to put to death on that account.
+
+Thus on all sides there arose suspicion against Alcibiades; and consequently wishing to bring him to trial, and put him to death, in this way they sent the ship Salaminia to Sicily, both for him and for the rest who had been informed against.
+
+Their orders were, to charge him to accompany the vessel home to plead his defence, but not to arrest him; for they were at the same time careful to avoid raising a commotion amongst both their own soldiers in Sicily and their enemies, and especially wished the Mantineans and Argives to remain there, whom they considered to have been prevailed on by Alcibiades to join them in the expedition.
+
+He then, with his own ship and those who had been accused with him, sailed away in the company of the Salaminia from Sicily, as though to return to Athens. But when they had reached Thurii, they followed it no further, but left the vessel and concealed themselves, being afraid of going home to trial with such a prejudice existing against them.
+
+The crew of the Salaminia for some time made search for Alcibiades and his companions, but when they were no where to be found, they departed on their voyage back. Alcibiades therefore, being now an outlaw, crossed not long after on board a boat from Thurii to the Peloponnese: and the Athenians, when they were not forthcoming, passed sentence of death upon him and those with him.
+
+After these things, the remaining generals of the Athenians in Sicily, having made two divisions of the army, and each taken by lot one of them, sailed with the whole force for Selinus and Segesta; wishing to know whether the Segestans would give the promised money, and at the same time to inspect the condition of the Selinuntines, and to learn the state of their differences with the Segestans.
+
+And so coasting along Sicily, with the shore on their left hand, on the side towards the Tyrrhene gulf, they landed at Himera, which is the only Grecian city in that part of the island. When they would not receive them, they proceeded on their voyage;
+
+and as they coasted along, took Hyccara, which, though a Sicanian town, was engaged in war with the Segestans, and was a petty sea-port. Having taken the inhabitants of the town for slaves, they gave it up to the Segestans, (for some of their cavalry had joined them,) and they themselves returned by land through the country of the Sicels, till they came to Catana; while their ships sailed along the coast with the prisoners on board.
+
+Nicias, however, coasted along straightway from Hyccara to Segesta; and after transacting his other business, and receiving thirty talents, rejoined the forces. They then sold their slaves, from which were realized a hundred and twenty talents;
+
+and sailed round to the allies of the Sicels, giving orders to send them troops. With half of their own force, too, they went against Hybla, in the territory of Gela, which was hostile to them; but did not take it. And thus the summer ended.
+
+The following winter, the Athenians at once began to prepare for their advance upon Syracuse, and the Syracusans also, on their side, for marching against them.
+
+For when they did not, in accordance with their first alarm and expectation, attack them immediately; as every day went on, they regained their courage more. And when they were seen to be sailing on the other side of Sicily, far away from them, and had gone to Hybla, and made an attempt on it without taking it by storm, they despised them still more, and called on their generals—acting as a multitude is wont to do when full of confidence—to lead them against Catana, since the enemy would not come to them.
+
+Moreover, Syracusan parties of horse, sent out to reconnoitre, were continually riding up to the Athenian armament, and asking them, amongst other insulting expressions, whether they had come themselves to settle with them in a strange country, rather than to reinstate the Leontini.
+
+The Athenian generals were acquainted with these things, and wished to draw them as far as possible from their city with their whole force, and themselves, in the mean time, to coast along with their ships by night, and quietly occupy a place for encampment in a favourable position; knowing that so they would be better able to do it, than if they should land from their ships in face of an enemy prepared to receive them, or should be known to be going by land; (for the Syracusan horse, which was numerous, while they themselves had none, would do great mischief to their light-armed and mob of campfollowers;) and that thus they would take a position where they would not be annoyed by the cavalry in a degree worth speaking of; (for some Syracusan exiles who accompanied them told them of the spot near the Olympieum, which they actually occupied.) The generals, therefore, adopted the following stratagem in furtherance of their wishes.
+
+They send a person who was a faithful friend to them, and no less in the interest of the Syracusans, according to their opinion. The man was a Catanian, and said that he was come from certain individuals in Catana, with whose names they were acquainted, and whom they knew to be still left in the town amongst those who were well affected to them. He stated, then, that the Athenians passed the night at some distance from their arms, within the walls of the city;
+
+and that if the Syracusans would come with all their force early in the morning of an appointed day to attack their armament, the Catanians would close the gates on the men who were with them, and would fire their ships; while the Syracusans would easily take the armament by an attack on their stockade. There were many too of the Catanians, he said, who would co-operate with them in this, and were already prepared to do so; namely, the party from which he had himself come.
+
+The generals of the Syracusans, besides feeling confident in other respects, and intending, even without this, to make their preparations for marching to Catana, gave far too inconsiderate credence to the man, and immediately fixing a day on which they would be there, dismissed him; while they themselves (for by this time the Selinuntines and some other of their allies had also come) gave orders for all the Syracusans to march forth in a body. When their preparations were made, and the time at which they had agreed to come was near at hand, they set out for Catana, and bivouacked on the river Symaethus, in the Leontine territory.
+
+The Athenians, on learning their approach, took the whole of their own force, with such of the Sicels, or any other people, as had joined them, and putting them on board their ships and boats, sailed by night to Syracuse.
+
+And thus, when the morning came, the Athenians were landing on the ground opposite the Olympieum, for the purpose of securing their camp; and at the same time the Syracusan cavalry, having ridden up first to Catana, and found that the whole armament had put to sea, returned and carried the news to the infantry, when they all turned back together, and went to the aid of the city.
+
+In the mean time, as the march they had to make was a long one, the Athenians quietly pitched their camp in a favourable position, where they would be able to commence an engagement just when they pleased, and the Syracusan horse would cause them the least annoyance, both during the action and before it. For on one side they were flanked by walls, houses, trees, and a marsh; on the other, by cliffs.
+
+They also felled the trees near to them, and carrying them down to the sea, fixed a palisade by their ships; while with rude stones and wood they hastily erected a fort at Dasoon, where their position was most open to the enemy's attack, and broke down the bridge over the Anapus.
+
+While they were making these preparations, no one came out from the city to stop them; but the Syracusan cavalry was what first came against them, and afterwards all the infantry was mustered. And at first they advanced near the camp of the Athenians; then, when they did not go out against them, they withdrew, and crossed the road to Helorus, and there encamped for the night.
+
+The next day the Athenians and their allies prepared for battle, and made their dispositions as follows. The right wing was held by the Argives and Mantineans, the centre by the Athenians, and the remainder of the line by the rest of the allies. Half of their force was posted in advance, drawn up eight deep; the other half, close upon their tents, in a hollow square, which was also formed eight deep, with orders to look out where any part of the army might be most distressed, and go to its support. Within this body of reserve, too, they placed the camp-followers.
+
+The Syracusans, on the other hand, drew up their heavy infantry sixteen deep, consisting of the Syracusans in full force, and as many allies as had joined them: (they were reinforced most extensively by the Selinuntines; next to them, by the Geloan cavalry, to the number of two hundred in all; and by about twenty horse, and fifty archers, from Camarina.) Their cavalry they posted on their right flank, amounting to not less than twelve hundred, and by their side the dartmen also.
+
+The Athenians being about to commence the attack, Nicias advanced along the line, and addressed the following exhortation to them, both in their several nations, and collectively:
+
+What need is there, soldiers, that we should have recourse to long exhortation, who are come here for the same struggle? For our force itself seems to me more capable of supplying confidence, than well-spoken words with a weak army.
+
+For where we have in the field Argives, Mantineans, Athenians, and the prime of the islanders, on what grounds ought we not, with allies so brave and numerous, to entertain every one a strong hope of victory? especially as we are opposed to men who are defending themselves in a promiscuous crowd, and not chosen troops, as we are; and moreover, against Siceliots, who despise us indeed, but will not receive our attack, because they have less skill in arms than boldness. Let this thought too be entertained by each of you;
+
+that we are far from our own land, and with no friendly country near us, but such as yourselves win by fighting. And so I offer to you an admonition, the very reverse of the exhortation which our enemies are, I well know, addressing to each other. For they are urging, that the battle will be for their country; but I, that it will be fought in what is not our country, but where you must conquer, or not easily get away: for their cavalry will press upon us in great numbers.
+
+Remembering then your own high character, make a spirited attack on your opponents, and regard your present necessity and difficulties as more formidable than the enemy.
+
+Nicias delivered this address, and immediately led on his troops. As for the Syracusans, they were not expecting to engage at present, and some of them, as their city was close at hand, had actually gone away to it; and these, although they went to the aid of their comrades in haste, and at a full run, were too late [to take their proper place in the ranks,] but posted themselves as each one came up to the main body. For in truth they were not deficient in zeal, or in daring, neither in this battle, nor in the others; but though not inferior in courage, so far as their military science served, yet in consequence of that failing them they reluctantly abandoned their resolution also. Although therefore, as I have said, they did not imagine that the Athenians would be the first to make an attack, and although they were compelled to defend themselves on a short warning, they took up their arms, and immediately advanced to meet them.
+
+And in the first place the stone-throwers, and slingers, and archers on each side began skirmishing, and successively routed each other, as light troops might be expected to do. Then there were priests bringing forward the usual victims for sacrifice, and trumpeters stirring on the heavy-armed to the charge.
+
+And so they advanced; the Syracusans, to fight for their country, and their own personal safety at present, and freedom in future;— the Athenians, on the side of their opponents, to fight for another people's land, that they might win it as their own; and to avoid weakening their own by defeat;—the Argives and the independent allies, to join them in securing the objects they had come for, and by means of victory to look again on the country that was already theirs;—while the subject allies showed a ready zeal, most of all, for their immediate safety, which was hopeless unless they conquered; then, as a secondary consideration, for the chance of serving on easier terms, in consequence of having assisted to reduce a fresh country under the Athenian dominion.
+
+When they had come to close combat, they withstood each other's attacks for a long time. And there happened to come on at once both thunder, and lightning, and heavy rain: so that to those who were fighting for the first time, and had had very little acquaintance with war, even this helped to increase their fear; while to the more experienced party these occurrences appeared to be produced simply by the season of the year, but the fact of their opponents not being defeated caused far greater alarm.
+
+But when the Argives had first driven in the left wing of the Syracusans, and after them the Athenians had repulsed those opposed to them, the rest of the Syracusan army was now also broken and put to flight.
+
+The Athenians did not pursue them to any great distance, (for the Syracusan horse, which was numerous and unbroken, kept them in check, and by charging their heavy infantry, wherever they saw any pursuing in advance of the rest, drove them back again.) However they followed them in a body as far as was safe, and then returned again, and erected a trophy.
+
+The Syracusans, on the other hand, having collected themselves again on the Helorine road, and put themselves in as good order as present circumstances would permit, sent, notwithstanding their defeat, a garrison to the Olympieum, fearing that the Athenians might take some of the treasures that were there; while the rest of them returned into the city.
+
+The Athenians, however, did not go to the temple, but after carrying their own dead together, and laying them on a funeral pile, passed the night on the ground. The next day they restored to the Syracusans their dead, under a truce. (there had fallen, of them and their allies, about two hundred and sixty,) and collected the bones of their own, (about fifty of themselves and their allies having been killed,) and with the spoils of the enemy sailed back to Catana.
+
+For it was winter, and they thought it impossible at present to carry on war before Syracuse, till they had sent for cavalry from Athens, and also raised some from their allies in the country, to avoid being utterly defeated by the enemy's horse. They wished too, at the same time, to collect money in the island, and to get a supply from Athens; as also to win over some of the cities to their cause, which they hoped would more readily listen to them after the battle; and to provide themselves with corn and every thing else they might require, with a view to attacking Syracuse in the spring.
+
+They, then, with these intentions sailed off to Naxos and Catana, for the winter. The Syracusans, on the other hand, after burying their dead, held an assembly.
+
+And now came forward to them Hermocrates son of Hermon, a man at once second to none in general intelligence, and who had proved himself able in war through his experience, and a person of signal bravery. He encouraged them, and told them not to submit in consequence of what had happened;
+
+for it was not their spirit that was vanquished, but their want of discipline that had been so injurious. They had not, however, been so much inferior to their enemies as might have been expected; especially since they had been matched against the first of the Greeks— mere amateurs, so to speak, against regular workmen.
+
+They had also been much hurt by the great number of their generals and the multiplicity of orders, (for their generals were fifteen in number,) and also by the tumultuous insubordination of the troops in general. But should only a few men of experience be elected generals, and prepare their heavy-armed force for service during that winter, by furnishing with arms those who did not possess any, in order that they might be as numerous as possible, and by compelling them to attend to their training also; they would, he said, in all probability have the advantage over their enemies; since courage they already possessed, and discipline for the execution of their measures would thus have been acquired. For both these things would improve; their discipline being practised in the midst of dangers; and their courage growing more confident than ever from being accompanied by the assurance of science.
+
+They ought, then, to elect their generals both few in number and invested with absolute authority; taking to them the oath, 'that assuredly they would allow them to command as they might think best.' For so what ouht to be kept secret would be more effectually concealed; and every thing else would be prepared in due order and without listening to any excuses.
+
+The Syracusans, after hearing his speech, voted every thing as he advised; and elected Hermocrates himself as general, with Heraclides son of Lysimachus, and Sicanus son of Execestes, these three.
+
+They also despatched envoys to Corinth and Lacedaemonians; that an allied force might join them, and that they might persuade the Lacedaemonians, for their benefit, to carry on the war with the Athenians more decidedly, by open measures; that either they might be compelled to return from Sicily, or might less easily send fresh succours to their army now there.
+
+As for the Athenian forces at Catana, they sailed immediately to Messana, in expectation of its being betrayed to them. But the intrigues that were being carried on did not come to any thing. For Alcibiades, when he was now summoned home, and had left his command, knowing that he would be outlawed, gave information of the intended movement, to which he was privy, to the friends of the Syracusans in Messana; and they had both previously put to death the men implicated in it, and at that time such as were on the same side, breaking out into sedition, and taking up arms, prevailed so far as to prevent their admitting the Athenians.
+
+When they, therefore, after staying ten days, were suffering from the severe weather, had no provisions, and found none of their plans succeed, they retired to Naxos, and having made a palisade round their encampment, took up their winter quarters there. They also sent a trireme to Athens for both money and cavalry, to join them in the spring.
+
+The Syracusans, on their part, both built in the course of the winter a wall to their city, along the whole quarter looking towards Epipolae, including the Temenites. to prevent their being circumvallated so easily as they would with a less circuit, in case of their being defeated; and also fortified Megara as an out-post, and another in the Olympieum. They fixed palisades, too, along the edge of the sea, at all points where there were facilities for landing.
+
+And as they knew that the Athenians were wintering at Naxos, they marched in full force to Catana, and both ravaged part of their land, and after burning the tents and encampment of the Athenians, returned home.
+
+Hearing, moreover, that the Athenians were sending an embassy to Camarina, on the strength of that alliance concluded under Laches, to try if by any means they might win them over to their side, the Syracusans also sent a counter-embassy. For they had suspicions of the Camarinaeans, both that they had not sent heartily what they sent to join in the first battle; and that for the future they would not wish to assist them any more, since they saw that the Athenians had been successful in the engagement, but would be persuaded to join the invaders on the strength of their former friendship.
+
+On the arrival therefore at Camarina of Hermocrates and some others from Syracuse, and of Euphemus and others from the Athenians, an assembly of the Camarinaeans having been convened, Hermocrates, wishing to prejudice them beforehand against the Athenians, addressed them as follows:
+
+"It was not, Camarinaeans, from any fear of your being terrified at the present forces of the Athenians that we came on this embassy, but rather from apprehension that the words which would be spoken by them before you heard any thing from us might prevail upon you.
+
+For they are come to Sicily on the pretext, indeed, which you hear, but with the purpose which we all suspect; and, in my opinion, they are wishing, not to restore the Leontines to their home, but to eject us from ours. For surely it is not consistent that they should depopulate the cities in Greece, but re-settle those in Sicily; and that they should care for the Leontines, who are Chalcidians, because of their connexion with them, but keep in slavery the Chalcidians in Euboea, from whom these are a colony.
+
+But the method is the same, by which they both gained possession of those places, and are attempting to do so with these. For after they had been appointed leaders, by the free choice both of the Ionians and of all who were of Athenian origin, for the purpose of talking vengeance on the Mede; by charging some of them with failure in military service, others with mutual hostilities, and others on any specious plea which they severally had to urge, they reduced them to subjection.
+
+And so they did not withstand the Mede for the sake of liberty—neither these men for that of the Greeks, nor the Greeks for their own—but the former did it to enslave the Greeks to themselves, instead of to the Mede; the latter, to get a new master, one not more unwise, but more wise for evil.
+
+"But, open as the Athenian state is to accusation, we are not come at the present time to prove before those who know this already, in how many respects it is committing injustice; but much rather to censure ourselves, because, with the warnings given us by the Greeks in those quarters, how they were enslaved through not assisting one another, and with the same sophisms being now practised on ourselves— their re-instatements of their Leontine kinsmen, and succours to their Segestan allies—we will not unite together, and show them that the people here are no Ionians, or Hellespontines and islanders, who are always passing to a new master, either the Mede or some one else, and still kept in slavery, but free Dorians from the independent Peloponnese now living in Sicily.
+
+Or do we wait till we have separately been subdued, city by city? knowing, as we do, that in this way only are we vincible; and seeing them having recourse to this method, so as to set some of us at variance by words; to set others at war through hope of finding allies; and to injure others by saying something flattering to them, as they severally can And do we then think, that if our distant fellow countryman is destroyed before us, the danger will not come to each of ourselves also, but that he who suffers before us keeps his misfortune to himself?
+
+"If, again, the thought has presented itself to any one, that although the Syracusans are hostile to the Athenians, he himself is not; and if he consider it a hardship to incur dangers for our country, let him reflect that it is not for ours especially, but in like manner for his own also that he will fight in ours; and that he will do it with proportionately greater safety, inasmuch as he will not enter on the struggle after we have been first ruined, but with us for allies, and not left by himself. And let him consider that the wish of the Athenians is, not to chastise our enmity, but, making us their excuse, to secure no less his own friendship.
+
+If, moreover, any one envies us, or is afraid of us, (for to both these feelings are more powerful states exposed,) and for this reason wishes Syracuse to be brought down, that we may be taught moderation, but yet for his own safety's sake would have it escape destruction, he indulges a wish beyond the limit of human power. For it is not Possible for the same to be man to be alike the arbiter of his own desire and of fortune.
+
+And should he fail in views, then, while lamenting his own misfortunes, he might, perhaps, some time or other, wish again to envy our advantages. But that will be impossible if he abandon us, and will not take his part in the same perils; which are incurred, not for names, but for realities; for though nominally he would preserve our power, he would really secure his own safety.
+
+And it was reasonable that you especially, Camarinaeans, who live on our borders, and are the next to incur the danger, should have provided for this, and not have joined us remissly, as you are now doing; but rather that you should yourselves have come to us; and what you would have entreated, while calling us to your aid, if the Athenians had first come against Camarina, that ought you now, on the same principle, to have come and urged on us as an exhortation, that we should on no point submit. But neither have ye, hitherto, nor the rest, bestirred yourselves for these objects.
+
+"But through cowardice, perhaps, you will study what is just, both towards us and towards the invaders, and allege that there is an alliance between you and the Athenians. Yes, but you did not conclude that to the injury of your friends, but in case any of your enemies might attack you; and to assist the Athenians, surely, when they were wronged by others, and not when they were themselves wronging their neighbours, as they are now.
+
+For not even do the Rhegians, although of Chalcidian extraction, consent to join in the reinstatement of the Chalcidian Leontines. And it is a strange thing if they, suspecting the real meaning of this fine pretence, are wise without any reason to offer for their conduct, while you, with a reasonable plea to urge, choose to assist your natural enemies, and, in concert with your bitterest foes, to ruin men who are still more your natural connexions. Nay, that is not just;
+
+but rather, to assist us, and not to be afraid of their armament. For it is not formidable, if we all take our stand together; but only if, on the contrary, we are separated from each other, which they are so anxious to effect: since even when they came against us alone, and were victorious in battle, they did not achieve what they wished, but quickly went away again.
+
+Surely then, if we were united, it were not reasonable for us to be disheartened: but we ought to enter more heartily into alliance, especially as succours will join us from the Peloponnese also, the inhabitants of which are altogether superior to these men in military matters. And no one should think that forethought of yours to be fair to us, while it is safe for you; I mean your assisting neither party, as being allies of both.
+
+For it is not fair in fact, as it is in profession. For if it be through your not siding with us that both the sufferer is defeated and the conqueror gains the victory, what else do ye but refuse, by the self-same standing aloof, to aid the one party for their preservation, and to prevent the other from behaving basely? And yet it were honourable for you, by joining those who are injured, and at the same time your own kinsmen, to guard the common interest of Sicily, and not to permit the Athenians, your friends forsooth, to do wrong.
+
+In short, we Syracusans say, that it is of no use to afford certain information, either to you or to the rest, about what you know yourselves, as well as we; but we entreat you, and at the same time protest, if we do not prevail on you, that we are plotted against by Ionians, who are always our enemies, while we are betrayed by you, Dorians by Dorians.
+
+And if the Athenians reduce us to subjection, though it is by your decisions that they will gain the victory, it is in their own name that they will enjoy the honour; and they will receive no other prize for the victory than those men who put the victory into their hands. If, on the other hand, we are the conquerors, you will also have to submit to the punishment due to the authors of our dangers.
+
+Consider then, and choose at once, either immediate slavery without any peril, or the chance of gaining the victory with us, and so avoiding a disgraceful submission to these men as your masters, as also of escaping our enmity, which would be of no trivial kind.
+
+Hermocrates spoke to this effect; and after him, Euphemus, the Athenian ambassador, as follows:
+
+"Though we are come hither for the purpose of renewing our former alliance, yet, as the Syracusan orator has attacked us on that head, we must also address you on the subject of our empire, to show that we enjoy it on just grounds.
+
+The strongest proof, then, of this he himself has mentioned, in his assertion that the Ionians have ever been hostile to the Dorians. And such too is the case. For we, who are Ionians, considered, with regard to the Peloponnnesians. who are Dorians, and more numerous than ourselves, and living near us, in what way we might be least subject to them.
+
+And after the Median invasion, having got a fleet, we released ourselves from the empire and supremacy of the Lacedaemonians; since they had no more right to command us than we them, except so far as they were at present more powerful. Thus having been ourselves appointed leaders of those who were before under the king, we so continue; considering that in this way we should least fall under the power of the Peloponnesians, by having a force with which to defend ourselves; and, to speak accurately, not having unjustly, either, reduced the Ionians and islanders to subjection, whom the Syracusans say that we have enslaved, though our kinsmen.
+
+For they came against their mother-country, against us, I mean, in company with the Mede; and could not bring themselves to revolt from him, and to sacrifice their property-as we did, when we evacuated our city-but chose slavery themselves, and to bring the same on us also.
+
+"Wherefore we are worthy of the empire we enjoy, because we supplied the most numerous fleet, and showed uncompromising zeal in behalf of the Greeks; and because these men, by so readily acting as they did, even in favour of the Mede, inflicted injury on us; while at the same time we aim at gaining strength against the Peloponnesians.
+
+And we make no fine professions of justly enjoying dominion, either as having by ourselves overthrown the barbarian, or as having faced danger for the liberty of these men, more than for that of all, and of ourselves at the same time. For in no one is it an invidious thing to provide for his own safety. And now, having come hither also for the sake of our own security, we see that these same things are expedient for you likewise.
+
+And we prove it from what these men state to our prejudice, and what you, in your too great alarm, suspect;
+
+knowing that those who through fear are suspicious, though pleased at the moment by the charms of oratory, yet afterwards attend to their real interests in what they undertake.
+
+For we have said that we hold our dominion there under the influence of fear, and that for the same reason we are come to put the states here on a safe footing, in concert with our friends; and not to enslave them, but rather to prevent their being so treated.
+
+"And let no one suppose that we are interesting ourselves in you without any connexion existing between us; since he must know that through your being preserved, and resisting the Syracusans, (being not too weak to do so,) we should be less readily hurt by their sending a force to the Peloponnesians.
+
+In this way, then, you are connected with us in the greatest degree; and on this account too it is reasonable that we should reinstate the Leontines, not as subjects, like their kinsmen in Euboea, but in as powerful a condition as possible; that from their own country, living as they do close to these men's borders, they may in our behalf be annoying to them.
+
+For in Greece we are by ourselves able to cope with our enemies; and the Chalcidians, after whose subjugation the orator says that we are inconsistently giving liberty to those here, are advantageous to us by being without any armament, and only paying us money; but the people here, both the Leontines and our other friends, by being left as independent as possible.
+
+"To an individual, however, who has absolute power, or to a state that holds dominion, nothing is inconsistent that is profitable, nothing reckoned as kindred that does not command confidence; but in every case, as opportunity may serve, you must become either a foe or a friend. And in our case, our advantage here consists in this,—not that we should reduce our friends to weakness, but that, owing to the strength of our friends, our foes should be powerless. Nor ought you to doubt this.
+
+For even in the case of our allies in those parts, as they are severally useful to us, so we govern them; the Chians and Methymnaeans as independent, on condition of their supplying ships; the greater part of them on more stringent terms, subject to contribution of money; but others, although they are islanders and easy to reduce, as allies on terms of entire freedom, because they he in favourable positions around the Peloponnese.
+
+So that here also it is natural that we should regulate them with an eye to our advantage, and, as we say, with reference to our fear of the Syracusans. For they are aiming at dominion over you, and wish, after uniting you on the strength of your suspicions of us, themselves to sway the empire of Sicily, by force, or through your forlorn condition, when we have departed without gaining our object. And it must be so, if you unite with them; for neither will so great a force, when united, be any longer easy for us to manage, nor would these men want strength to deal with you, when we were not here.
+
+"And whoever does not think this to be the case, the very fact itself convicts him of being wrong. For on a former occasion you called us to your aid by holding out to us no other fear, than that, if we permitted you to fall under the Syracusans, we ourselves also should be exposed to danger.
+
+It is not right therefore now, that you should refuse to be persuaded by that self-same argument by which you wished to persuade us; or that, because we are come with a larger armament, you should be suspicious of us; but much rather, that you should mistrust these men.
+
+We, at least, have no power to remain amongst you without your support; and even if we should show ourselves base, and bring you into subjection, we should be unable to keep you under our dominion, both on account of the length of the voyage, and the difficulty of keeping guard over cities so great in extent, and of an inland character, as regards their resources. These men, on the other hand, living near you as they do, not in a camp, but in a city far stronger than our force here present, are constantly plotting against you;
+
+and when, in each particular case, they have got an opportunity, they do not let it slip, (as they have shown both in other instances, and in that of the Leontines,) and at the present time they have the hardihood to urge you, as though you were void of sense, against those who are preventing this, and who have held up Sicily hitherto from sinking under them.
+
+But we, in opposition to them, urge you to a far more real safety, begging you not to betray that which is secured to both of us by each other; and to consider, that while for them, even without any allies, the way to you is always open, you will not often have a chance of defending yourselves in conjunction with so large a force of auxiliaries; of which, if through your suspicions you allow it to depart, either unsuccessful, or, perhaps, even defeated, you will wish yet to see even a very small portion, when its presence will no longer accomplish any thing for you.
+
+But neither do ye, Camarinaeans, nor the rest, be persuaded by these men's calumnies. For we have told you the whole truth concerning these things about which we are suspected, and will still remind you briefly of them, and so try to persuade you.
+
+We say then, that we exercise dominion over the men in those parts to avoid being subject to another; but that we liberate those who are here, to avoid being hurt by them; that we are compelled to meddle with many things, because we have also many things to guard against; and that we came, both now and before, as allies to those of you here who were being injured, not without being invited, but after receiving an invitation.
+
+And do not ye, either as judges of what is done by us, or as moderators, attempt to divert us, [which would now be difficult,) but so far as any thing in our meddling policy and disposition is at the same time profitable for you, that take, and make the most of it. And believe that it is not equally injurious to all, but that to a large majority of the Greeks it is even beneficial.
+
+For every one in every place, even where we are not already present, both he who thinks that he will suffer wrong, and he who is meditating to commit it, through having a prospect ever close at hand, the one, of obtaining help from us against his injurer, the other, that if we come, they run a risk of not being free from alarm, both, I say, are alike compelled, the one, to be moderate against his own will, the other, to be saved without his own exertion.
+
+This security, then, which is common to all who require it, and which is now presented to you, do not ye reject; but, acting like others, instead of constantly guarding against the Syracusans, now unite with us, and take at length your equal share in plotting against them.
+
+To this effect spoke Euphemus. Now the Camarinaeans had felt on the subject as follows: Towards the Athenians they were well inclined, except so far as they might think that they would subjugate Sicily, but with the Syracusans they had always, in the spirit of borderers, been at variance. Being, however, more afraid of the Syracusans, who were close at hand, lest they might, even without their assistance, gain the ascendency, they both sent them in the first instance that small body of horse, and determined for the future to do more actual service for the Syracusans, (though as sparingly as possible;) but for the present, that they might not seem to show less respect for the Athenians—since they had even proved the stronger in the battle—they resolved to give a verbal answer that should be fair to both parties.
+
+Having, therefore, adopted this counsel, they answered,
+
+That since mutual hostilities were being carried on by parties who were both in alliance with them, they thought it to be most consistent with their oaths to aid neither party for the present.
+
+And so the ambassadors on each side returned.
+
+The Syracusans were now preparing their forces for war, while the Athenians encamped at Naxos were negotiating with the Sicels, to get as many as possible to join them. Now such of the Sicels as lived more on the plains, and who were subject to the Syracusans, in most cases stood aloof from them; but those who occupied the interior, their homes having before this always been independent, immediately, with a very few exceptions, sided with the Athenians, and carried down corn for the army, and in some cases money also. Against those who did not come over to them the Athenians made an expedition, and compelled some, but were prevented from compelling others by the Syracusans' sending them garrisons, and coming to their aid. Having moved their station for the winter from Naxos to Catana, and having raised again the camp which had been burned down by the Syracusans, they remained there the rest of that season. They sent at this time a trireme to Carthage with proposals of friendship, on the chance of their obtaining any help, and another to Tyrrhenia, as some of its cities had of their own accord offered to join them in the war. They also despatched messengers about to the Sicels, and likewise to Segesta, desiring that they would forward to them as many horses as possible; while they also prepared for the circumvallation bricks, iron, and all other requisites, intending to commence hostilities in the spring. The Syracusan ambassadors, on the other hand, who had been despatched to Corinth and Lacedaemon, both endeavoured, as they coasted along, to persuade the Greeks of Italy not to look with in difference on the proceedings of the Athenians, since they were aimed equally at themselves, and when they were come to Corinth, delivered an address to them, begging for assistance on the ground of their connexion. The Corinthians immediately, in the first place, themselves voted to assist them with the greatest zeal, and then sent envoys with them to Lacedaemon, to join in persuading that people also both to carry on the war with the Athenians more openly at home, and to send succours to
+
+Sicily. Accordingly the ambassadors from Corinth came to Lacedaemon, and Alcibiades also, with his fellow exiles, who had crossed straightway on board a vessel of burden from Thuria to Cyllene, in the Elean territory, in the first instance, and then afterwards, when the Lacedaemonians themselves had sent for him, proceeded to Lacedaemon under treaty; for he was afraid of them, owing to the part he had taken in the Mantinean business. And the result was. that in the Lacedaemonian assembly the Corinthians, the Syracusans, and Alcibiades, by urging the same request, prevailed on the people there. But when the ephors and the authorities, though they purposed sending ambassadors to Syracuse, to urge them to make no terms with the Athenians, were not disposed to assist them, Alcibiades came forward, and exasperated and instigated the Lacedaemonians by addressing them as follows:
+
+"It is necessary that I should first address you on the subject of the prejudice felt against me, that you may not, through your suspicions, attend to me the less on matters of public interest.
+
+When, then, our ancestors had, on the ground of some quarrel or other, renounced their connexion with you as your proxeni, I myself, from a wish to resume it, paid attentions to you, both in other respects, and in the case of your misfortune at Pylus. And when I continued thus zealous, you, at the time you were concluding peace with the Athenians, conferred influence on my enemies, by negotiating through them, but brought dishonour on me.
+
+For these reasons it was with justice that you received harm at my hands, both when I turned to the Mantineans and Argives, and on whatever other occasions I opposed you. And now, if there be any one who at that time, while he was suffering, was unfairly angry with me, let him look at the question in the true light, and be led to a different conviction. Or if there be any one who formed a worse opinion of me, because I rather attached myself to the popular party, let him not on this ground, either, suppose that he was with good reason offended at me.
+
+For we have always been foes to tyrants; and all that are opposed to the dominant faction are called by the name of 'people.' It was from this, then, that our taking the lead of the populace continued; and besides, as the state was under a democratical government, it was necessary on most occasions to follow the existing order of things.
+
+However, we endeavoured to be more moderate in politics than suited the intemperate spirit which had before prevailed. But there were others, both in times of old and now, who led on the banished me.
+
+But in our case it was the whole body of the people that we headed; thinking it right to assist in preserving that form of government under which the country was most great and free, and which we had received. For with regard to democracy, all of us who had any sense knew what it was; and I myself, perhaps, better than any one, in proportion as I could also abuse it more. But of an acknowledged absurdity nothing new could be said; and yet to put it aside did not appear to us safe, while you, as our enemies, were so closely besetting us.
+
+"With regard then to your prejudices against me, such were the facts: but with regard to what you must deliberate upon, and I, on whatever point I am better informed, muss advise, now learn from me.
+
+We sailed to Sicily, in the first place, to subdue the Siceliots, if we could; after them, again, the Italiots; and then also to make an attempt on the dominion of the Carthaginians, and on their own city.
+
+If either all or most of these schemes proved successful, then we intended to attack the Peloponnese, after bringing here the united force of the Greeks that had joined us in those parts, taking many barbarians into our pay—both Iberians and others of those nations, confessedly the most warlike barbarians at the present day—and building many triremes in addition to what we have, (since Italy contains timber in abundance). Blockading the Peloponnese with these round its coasts, and at the same time attacking it with our soldiers on the land side, after taking some of the cities by storm, and walling in others, we hoped with ease to reduce it, and after that to enjoy the sovereignty of the whole Grecian race.
+
+And as for money and provisions, to render each of these measures more practicable, the newly acquired places in those quarters would by themselves supply sufficient, independently of our revenues from these parts.
+
+"Thus, then, concerning the expedition which has now sailed, you have heard its objects from the man who knows with the greatest accuracy what we purposed by it: and the generals who still remain there will, if they are able, carry them out in the same way. But that the people there will not escape their attack, unless you succour them, you must now learn.
+
+The Siceliots indeed, although untrained, might still even now gain the victory, if united in one body. But the Syracusans alone, defeated as they have already been in battle with all their forces, and hemmed in by sea at the same time, will be unable to hold out against the Athenian armament now there.
+
+And if that city is taken, the whole of Sicily also is in their possession, and Italy, too, straightway; and the danger which I just now mentioned as impending from that quarter, would in no long time fall upon you. Let no one then think that he is deliberating about Sicily alone, but about the Peloponnese also, unless you quickly adopt these measures;
+
+unless, I mean, you send thither on board ship such a body of troops, as, after working their own passage, shall immediately act as heavy infantry; and also, what I consider to be still more serviceable than troops, a Spartan as commander, both to discipline their present forces, and to compel those who are unwilling to serve. For so the friends you already have will feel the greater confidence, and those who are doubting between the two sides will more fearlessly join yours. You must also carry on hostilities here in a more decisive manner; that the Syracusans, convinced that you take an interest in them, may offer the greater resistance;
+
+and that the Athenians may the less easily send reinforcements to their troops. And for that purpose you must fortify Decelea, in Attica; a blow of which the Athenians have always been most afraid, and the only one which they think they have not experienced in the present war.
+
+And in that way would one most surely hurt his enemies, if, acting on certain information, he should inflict upon them those things which he knows them to fear most: for it is but reasonable that every people should know most accurately its own dangers, and fear them accordingly. But with regard to the difficulties which, while you benefit yourselves, you will create for your opponents by thus fortifying the place, though I pass over many, I will briefly mention the chief.
+
+Whatever then the country is stocked with, the greater part will come to you, either through being captured, or of their own accord. They will also at once be deprived of their revenues from the silver mines at Laurium, with the advantages they now derive from their land and their courts of justice; but, especially, of the revenue from the allies, which will be less regularly paid by them, when they consider that the war on your part is now vigorously prosecuted, and so think lightly of them. To have each of these things done with greater speed and spirit rests with you, Lacedaemonians; for that they are possible I am very confident, and I do not think that I shall be proved to have been mistaken.
+
+And now, I beg that I may not be the worse thought of by any among you, because I am now strenuously attacking my country with its bitterest enemies, though I formerly had a reputation for patriotism;
+
+and that my words may not be suspected on the score of an exile's forwardness. For though I am an exile, as regards the villany of those who banished me, I am not one, as regards assistance to you, if you will be persuaded by me:
+
+and the party hostile to me was, not you, who only hurt your foes, but rather they who compelled their friends to become their foes. My patriotism, too, I keep not at a time when I am being wronged, but only while I enjoyed my civil rights in security.
+
+Nor do I consider myself to be going against what is still my country, but much rather to be recovering that country which is mine no more. And the patriot, in the true sense, is not that man who, when he has unjustly lost his country, abstains from aggression upon it, but he who, because of his longing for it, endeavours by all means to regain it.
+
+Thus, as far as I am concerned, I beg you, Lacedaemonians, fearlessly to command my services, both for danger and trouble of every kind; knowing that argument Which is advanced by all, namely, that if as your enemy I did you very great harm, I might also as your friend do you great service; inasmuch as I know the plans of the Athenians, while I only guessed yours. I beg too, that on your own part also, being convinced that you are consulting about your greatest interests, you will not shrink from the expedition both against Sicily and Attica; that by joining them with a small part of your forces, you may at once preserve the great states in Sicily, and overthrow the present and future power of the Athenians; and may afterwards live in security yourselves, and enjoy a voluntary supremacy over the whole of Greece, resting not on force but on affection.
+
+Such was the address of Alcibiades. The Lacedaemonians, who of themselves were previously intending to make an expedition against Athens, but were still acting with delay and circumspection, were far more determined, when he had informed them of these several particulars, and when they considered that they had heard them from the man who had most certain knowledge of them.
+
+So that they now turned their thoughts to the fortification of Decelea, and to immediately sending some assistance to the Sicilians. Having appointed therefore Clearidas to the command of the Syracusans, they instructed him to deliberate with that people and the Corinthians, and to provide for succours reaching them on as large a scale, and with as much speed, as present circumstances permitted.
+
+Accordingly he desired the Corinthians to send him at once two ships to Asine, and to let the rest, as many as they purposed sending, be equipped and in readiness to sail, when the proper time came.
+
+Having arranged these points, they returned from Lacedaemon.
+
+Now, too, arrived the Athenian trireme from Sicily, which the generals had sent for money and cavalry. And when the Athenians had heard their request, they resolved to send both the supplies for their armament and the cavalry. And so the winter ended, and the seventeenth year of this war, of which Thucydides wrote the history.
+
+At the very commencement of the spring of the next summer, the Athenians in Sicily put out from Catana, and coasted along towards the Sicilian Megara, from which the Syracusans, in the time of their tyrant Gelo, (as I have before mentioned,) drove out the inhabitants, and themselves continue to occupy the territory.
+
+Having landed therefore, they ravaged the country; and after going against a fort of the Syracusans without taking it, they again proceeded both with their land force and ships to the river Terias, and advancing inland, both laid waste the plain, and fired the corn. After falling in with a small body of the Syracusans, killing some of them, and erecting a trophy, they returned to their ships.
+
+When they had sailed back to Catana, and supplied themselves with provisions there, they went with their whole force against Centotripa, a town of the Sicels, and returned after getting possession of it by capitulation, burning at the same time the corn of the Inessaeans and Hybleans.
+
+On their arrival at Catana, they found the horsemen come from Athens, two hundred and fifty in number, without their horses, but with their equipments, in expectation of horses being provided there, with thirty mounted archers, and three hundred talents of silver.
+
+The same summer the Lacedaemonians also marched against Argos, and went as far as Cleonae, but, on the occurrence of an earthquake, returned. The Argives, after this, made an incursion into the Thyrean country, which lies on, their borders, and took much booty from the Lacedaemonians, which was sold for no less than five and twenty talents.
+
+The commons of the Thespians also, this same summer, and not long after what has been mentioned, having attacked those in office amongst them, did not get the better; but Theban succours having arrived, some of them were made prisoners, and others fled the country and went to Athens.
+
+The Syracusans, the same summer, hearing that the cavalry had joined the Athenians, and that they were about to march against them, and thinking that unless the Athenians were masters of Epipolae, a precipitous tract, and lying right above their city, they could not, even if defeated in battle, be easily circumvallated, they determined to guard the approaches to it, that the enemy might not gain the heights without their observation; for in no other way could they, as they thought, effect it.
+
+For the rest of the position rises high, sloping down to the city, and being all visible within it:
+
+and so it is called by the Syracusans, from lying above the rest,
+
+Epipolae,
+
+[or
+
+Overton.
+
+] They, then, went out at day-break with all their forces into the meadow along the course of the river Anapus,
+
+(Hermocrates and his colleagues having just come into office as their generals,) and held a review of their heavy-armed, having first selected from those troops a chosen body of six hundred, under the command of Diomilus, an exile from Andros, to be a guard for Epipole, and quickly to muster and present themselves for whatever other service they might be required.
+
+The Athenians, on the other hand, held a review the day following this night, having already, unobserved by them, made the coast with all their armament from Catana, opposite a place called Leon, about six or seven stades from Epipolae, and having landed their soldiers, and brought their ships to anchor at Thapsus; where there is a peninsula running out into the sea, with a narrow isthmus, being not far from the city of Syracuse, either by land or by water.
+
+The naval armament of the Athenians lay quiet at Thapsus, having thrown a stockade across the peninsula; but the land forces proceeded at full speed to Epipolae, and had time to ascend it, on the side of Euryelus, before the Syracusans, on perceiving it, could come to them from the meadow and the review.
+
+They came, however, against them, both the rest, as quickly as each could, and Diomilus, with his six hundred: but they had a distance of not less than five and twenty stades to go, before they came up to them from the meadow.
+
+Falling on them therefore, under these circumstances, in considerable disorder, and being defeated in an engagement at Epipolae, the Syracusans returned into the city, Diomilus being killed, and about three hundred of the rest.
+
+After this, the Athenians having erected a trophy, and restored to the Syracusans their dead under a truce, came down the next day to the city itself; but when they did not come out against them, they returned, and built a fort on Labdalum, on the highest point of the cliffs of Epiolae, looking towards Megara, to be a magazine for their baggage and treasures, whenever they advanced either to fight or to work at the wall.
+
+Not long after, there came to them from Segesta three hundred cavalry, and about a hundred from the Sicels, Naxians, and some others, while there were already two hundred and fifty from Athens, for whom they had received some horses from the Segestans and Catanaeans, and had bought others; so that altogether a body of six hundred and fifty cavalry was mustered.
+
+Having established a garrison in Labdalum, the Athenians advanced to Syca, where they posted themselves. and built with all speed the central point of their wall of circumvallation. They struck the Syracusans with consternation by the rapidity of their building; and consequently they resolved to march out against them and give them battle, and not allow them to proceed with the work.
+
+When they were now being drawn up in battle-array against each other, the Syracusan generals, perceiving that their forces were broken, and did not easily fall into line, led them back again into the city, excepting some part of their cavalry.
+
+These, staying behind, prevented the Athenians from carrying their stones, or dispersing to any great distance; until
+
+One tribe of the Athenian heavy-armed, with all their cavalry, charged and routed the Syracusan horse, killed some of them, and erected a trophy for this cavalry action.
+
+The next day some of the Athenians were building the wall to the north of the central point, while others were collecting stones and timber, and laying them along the line, to the point called Trogilus; keeping in the direction in which their wall of circumvallation would be completed in the shortest distance from the great harbour to the sea.
+
+The Syracusans meanwhile, at the suggestion of Hermocrates, more than of their other generals, were no longer disposed to run the risk of general actions with the Athenians, but thought it better to build a counterwall in the direction in which they intended to carry their works; thinking that if they anticipated them with this, there would be an interruption to their lines; and that, if at that time they should come to oppose them, they themselves would send a part of their forces against them, and have time to occupy the approaches beforehand with their palisade, while the Athenians would cease from their work, and all turn their attention to them.
+
+They went out, therefore, and proceeded to build, beginning from their city, and carrying a cross wall below the Athenian lines, cutting down the olives of the sacred ground, and erecting wooden towers.
+
+The ships of the Athenians had not yet sailed round from Thapsus into the great harbour, but the Syracusans still commanded the sea-shore, and the Athenians conveyed their provisions from Thapsus by land.
+
+When the Syracusans thought that those parts of their counter-work which had been completed by means of palisades and masonry were sufficient, and when the Athenians did not come out to stop them, as they feared that the enemy would more easily contend with them when they were divided, and at the same time were hurrying to complete their own wall of circumvallation; the Syracusans, having left one tribe to guard the building, returned into the city. The Athenians, in the mean time, destroyed their pipes which ran under ground into the city, carrying water for drinking; and having watched when the rest of the Syracusans were in their tents at mid-day, and some of them had even gone away into the city, while those in the stockade were keeping but a careless guard, they appointed three hundred picked men of themselves, and a chosen body of the light troops, armed for the purpose, to run suddenly at full speed to the counter-work, while the rest of the army advanced in two divisions, one with one of the generals to the city, in case they should come to the rescue, the other with the other general to the stockade near the postern.
+
+Accordingly the three hundred assaulted and took the stockade, the guard evacuating it, and taking refuge in the outworks around Temenites. Their pursuers also burst in with them, but, after getting in, were forcibly driven out again by the Syracusans, and some few of the Argives and Athenians were slain there.
+
+And now the whole army having returned, threw down the wall, tore up the palisades, transferred the pales to their own lines, and erected a trophy.
+
+The next day the Athenians, setting out from their lines, began to build at the cliffs over the marsh, which on this side of Epipolae looks towards the great harbour, and in which direction their wall of circumvallation would be finished in the shortest distance by their going down over the plain and the marsh to the harbour.
+
+The Syracusans meanwhile went out, and on their part also began again to interrupt the line by a palisade, commencing from the city across the middle of the marsh;
+
+and at the same time dug a ditch parallel with it, that it might not be possible for the Athenians to carry their wall of circumvallation as far as the sea. They, after their work at the cliff was completed, again assaulted the palisade and ditch of the Syracusans. They had ordered their fleet to sail round from Thapsus to the great harbour of Syracuse, while they themselves descended at dawn from Epipolae into the plain, and laying doors and planks over the marsh, where the mud was most firm, crossed it upon them, and in the morning carried the palisade, excepting a small part of it, and the ditch, and afterwards the remaining part.
+
+On this occasion a battle was fought, in which the Athenians were victorious, those of the Syracusans posted on the right wing flying to the city, those on the left, to the river. Wishing to intercept the passage of these, the three hundred chosen troops of the Atheniaes pressed on at full speed to the bridge;
+
+but the Syracusans were alarmed, and, as the greater part of their forces were there, closed on these three hundred, routed them, and drove them in on the right wing of the Athenians. By their charge the tribe posted first on the wing was also thrown into panic;
+
+on observing which, Lamachus came to their assistance from their left, with a few archers and the Argives, and having crossed a ditch in advance, and being cut off from the rest, with only a few who had crossed with him, was killed with five or six of his men. These the Syracusans immediately snatched up, and had time to get over the river into a place of security; while their own troops retreated, as the rest of the Athenian force was now coming against them.
+
+Meanwhile, those of them who had at first fled for refuge to their city, when they saw what was going on, resumed their courage, and coming thence, themselves drew up against the Athenians in front of them, and sent a part of their numbers to the lines on Epipolae, thinking they should take them while unguarded.
+
+And they did, indeed, take and destroy their outwork of a thousand feet in length, but the lines themselves Nicias prevented their taking, as he happened to have been left behind in them through illness. He ordered the servants to set fire to the engines, and all the timber that had been thrown down in front of the wall; as he knew that for want of men they could not escape in any other way.
+
+And such was the result; for the Syracusans no longer came against them on account of the fire, but withdrew again. Indeed, by this time succours had gone up to the lines from the Athenians below, who had repulsed the enemy in that part; and at the same time their ships from Thapsus were sailing, as they had been ordered, into the great harbour.
+
+At the sight of this, those on the heights retreated with all speed, and the whole army of the Syracusans retired into the city, thinking that they would no longer be able with their present force to prevent the building of the wall down to the sea.
+
+After this, the Athenians erected a trophy, restoring their dead to the Syracusans under a truce, and receiving back those who had fallen with Lamachus, as well as himself. And as they now had with them their whole force, both naval and military, they began from Epipolae and the cliffs, and circumvallated the Syracusans down to the sea with a double wall.
+
+Provisions were now brought for the armament from all parts of Italy. Many of the Sicels too, who before were looking to see how things went, came as allies to the Athenians; as did also three fifty-oared galleys from Tyrrhenia. And every thing else was prospering, so as to give them hope.
+
+For the Syracusans no longer thought that they could escape by military measures, since no assistance had reached them from the Peloponnese; but were proposing terms of capitulation, both among themselves and to Nicias: for he alone held the command since the death of Lamachus.
+
+No decision, indeed, was come to; but, as was natural for men who were in difficulties, and besieged more closely than before, many discussions were held with him, and still more in the city. For they also entertained some suspicion of one another, in consequence of their present misfortunes, and deposed the generals under whose command these things had befallen them—thinking that it was either through their bad fortune, or treason, that they were suffering—and chose others in their stead, namely, Heraclides, Eucles, and Tellias.
+
+In the mean time, Gylippus, the Lacedaemonian, and the ships from Corinth, were now off Leucas, wishing to come to the aid of Sicily with all speed. When therefore tidings were carried to them of an alarming nature, and all concurring in the same falsehood, namely, that Syracuse was by this time entirely circumvallated, Gylippus had no longer any hope of Sicily; but wishing to save Italy, he himself, and Pythen the Corinthian, with two Laconian and two Corinthian ships, crossed the Ionian Sea as quickly as possible to Tarentum; while the Corinthians having manned, in addition to their own ten, two Leucadian and three Ambracian vessels, were to sail after them.
+
+Gylippus, then, having first gone on an embassy from Tarentum to Thuria, on the ground of his father's having formerly been presented with the franchise there, and not being able to bring them over, weighed anchor, and coasted along Italy. Having been caught, when opposite the Terinaean gulf, by a wind which in this quarter blows violently and steadily from the north, he was carried out to sea, and after enduring exceedingly foul weather, again made Tarentum, and there drew up and refitted such of his ships as had suffered from the tempest.
+
+Nicias on hearing of his approach, despised the number of his ships, (as had been the feeling of the Thurians also,) and thought that they were sailing more like a piratical armament than any thing else; and so at present he took no precautions against him.
+
+About the same period of this summer, the Lacedaemonians invaded Argos, themselves and their allies, and ravaged the greater part of the country. The Athenians went to the assistance of the Argives with thirty ships; and it was these that broke their treaty with the Lacedaemonians in a most decisive manner.
+
+For before this they only joined in hostilities with the Argives and Mantineans by plundering excursions from Pylus, and by landing on the other coasts around the Peloponnese, rather than on the Laconian; and though the Argives often desired them only to touch at Laconia with their heavy-armed, and to withdraw after devastating it with them ever so little, they would not do it. But at that time, having landed under the command of Pythodorus, Laespodias, and Demaratus, at Epidaurus Limera, Prasiae, and other places, they ravaged part of the territory, and so rendered the excuse of the Lacedaemonians more plausible now for defending themselves against the Athenians.
+
+After the Athenians had with their fleet withdrawn from Argos, and the Lacedaemonians also, the Argives having made an irruption into the Phiasian territory, ravaged part of their land, killed some of their men, and returned home.

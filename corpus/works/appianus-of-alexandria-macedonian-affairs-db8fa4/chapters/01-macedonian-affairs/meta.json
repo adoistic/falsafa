@@ -1,0 +1,38 @@
+{
+  "work_slug": "appianus-of-alexandria-macedonian-affairs-db8fa4",
+  "work_title": "Macedonian Affairs",
+  "chapter_number": 1,
+  "chapter_title": "Macedonian Affairs",
+  "chapter_slug": "01-macedonian-affairs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b71cb5cc-2539-50f0-af8c-1c9c0cd16151",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3600,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg011.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "115e1971-70a6-52df-8536-2263498aa571",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5102,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg011.perseus-eng2"
+    }
+  ]
+}

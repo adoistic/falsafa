@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-obadiah-cd31de",
+  "work_title": "Obadiah",
+  "chapter_number": 1,
+  "chapter_title": "Obadiah",
+  "chapter_slug": "01-obadiah",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "afe0a6c5-c9f4-5f0f-a826-b967742d6bb7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 692,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg040.1st1K-grc1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a01f3baf-48ac-5040-a08f-20ba066d69a3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 617,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg040.perseus-eng2"
+    }
+  ]
+}

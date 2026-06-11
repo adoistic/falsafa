@@ -1,0 +1,38 @@
+{
+  "work_slug": "hyperides-in-defence-of-lycophron-3a5500",
+  "work_title": "In Defence of Lycophron",
+  "chapter_number": 1,
+  "chapter_title": "In Defence of Lycophron",
+  "chapter_slug": "01-in-defence-of-lycophron",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b385aea2-fbc4-5709-b4dc-ba8d00709381",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1623,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0030.tlg001.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "060e9c72-cacf-53ef-99e8-0b75b0e31dfc",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1844,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0030.tlg001.perseus-eng2"
+    }
+  ]
+}

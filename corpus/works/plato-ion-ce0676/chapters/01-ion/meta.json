@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-ion-ce0676",
+  "work_title": "Ion",
+  "chapter_number": 1,
+  "chapter_title": "Ion",
+  "chapter_slug": "01-ion",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a7801be9-5f62-5cfa-ad71-d87807b5d0aa",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4023,
+      "paragraph_count": 204,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg027.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9c5fa59d-2a6e-57ff-87d1-6c1d4fbf23c2",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5363,
+      "paragraph_count": 183,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg027.perseus-eng2"
+    }
+  ]
+}

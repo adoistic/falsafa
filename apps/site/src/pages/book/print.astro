@@ -1,0 +1,438 @@
+---
+import '@fontsource/crimson-pro/400.css';
+import '@fontsource/crimson-pro/400-italic.css';
+import '@fontsource/crimson-pro/600.css';
+import '@fontsource/source-serif-4/600.css';
+import '@fontsource/source-serif-4/700.css';
+import '../../styles/tokens.css';
+import '../../styles/atlas.css';
+import { marked } from 'marked';
+import Stemma from '../../components/atlas/Stemma.astro';
+import { bookMeta, chapterLabel, chapterMarkdown, chapters } from '../../lib/atlas/book.ts';
+import { personById, sources, stats, works } from '../../lib/atlas/data.ts';
+import { centuryOf } from '../../lib/atlas/format.ts';
+
+const s = stats();
+const year = new Date().getFullYear();
+
+const rendered = chapters.map((chapter) => ({
+  chapter,
+  html: marked.parse(chapterMarkdown(chapter), { async: false }),
+}));
+
+const worksSorted = [...works].sort((a, b) => a.composed.from - b.composed.from);
+const sourcesSorted = [...sources].sort(
+  (a, b) => a.author.localeCompare(b.author) || a.year - b.year,
+);
+
+// One expression only: Astro's compiler mishandles mixed text and multiple
+// expressions inside <title>, splitting the head early.
+const pageTitle = `${bookMeta.title}: ${bookMeta.subtitle} (print edition)`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>{pageTitle}</title>
+    <meta
+      name="description"
+      content={`Print edition of ${bookMeta.title}, a short book on how ideas travel, built from the Naql atlas.`}
+    />
+  </head>
+  <body class="print-body atlas-scope">
+    <style is:global>
+      /* The site's fixed paper-noise overlay would rasterize on every printed
+         page (fixed elements repeat per page in print). Kill it unscoped. */
+      body::before {
+        display: none !important;
+      }
+    </style>
+    <p class="screen-note">
+      This is the print layout. Print it to PDF from the browser (margins: none, background
+      graphics: on), from any browser.
+      <a href="/book/">Back to the reading edition.</a>
+    </p>
+
+    <section class="title-page">
+      <p class="series mono">{bookMeta.series}</p>
+      <h1>{bookMeta.title}</h1>
+      <p class="subtitle">{bookMeta.subtitle}</p>
+      <p class="author">{bookMeta.author}</p>
+      <p class="naql-mark" lang="ar" dir="rtl" aria-hidden="true">نقل</p>
+    </section>
+
+    <section class="colophon">
+      <p>
+        {bookMeta.title}: {bookMeta.subtitle}. Built from Naql, an open atlas of how books
+        crossed languages: {s.works} works, {s.transmissions} crossings, {s.people} named
+        people, {s.sources} sources.
+      </p>
+      <p>
+        Text and dataset by Adnan Abbasi, written and verified with heavy AI assistance;
+        independent verification passes checked every chain against the published scholarship
+        listed in the bibliography, and the corrections were applied. Errors that survive are
+        the author's. The dataset is CC BY 4.0; the text of this book is CC BY 4.0; the code
+        that builds both is MIT.
+      </p>
+      <p>
+        Set in EB Garamond and IBM Plex Mono, with Amiri, Noto Serif Devanagari, Noto Serif
+        Hebrew and Noto Sans Syriac for the original scripts. The blue is lapis, which traveled
+        the same routes as the books. An open-source project by Thothica, {year}.
+      </p>
+    </section>
+
+    <nav class="toc-page" aria-label="Contents">
+      <h2 class="part-title">Contents</h2>
+      <ol class="toc">
+        {
+          chapters.map((c) => (
+            <li>
+              <span class="toc-num mono">{c.number === 0 ? '' : c.number}</span>
+              <span>{c.title}</span>
+            </li>
+          ))
+        }
+        <li><span class="toc-num mono">A</span><span>The fourteen chains</span></li>
+        <li><span class="toc-num mono">B</span><span>Method</span></li>
+        <li><span class="toc-num mono">C</span><span>Bibliography</span></li>
+      </ol>
+    </nav>
+
+    {
+      rendered.map(({ chapter, html }) => (
+        <section class="chapter">
+          <header class="chapter-head">
+            {chapter.number > 0 && <p class="chapter-label mono">{chapterLabel(chapter)}</p>}
+            <h2>{chapter.title}</h2>
+          </header>
+          <div class="chapter-body" set:html={html} />
+        </section>
+      ))
+    }
+
+    <section class="chapter appendix">
+      <header class="chapter-head">
+        <p class="chapter-label mono">Appendix A</p>
+        <h2>The fourteen chains</h2>
+      </header>
+      <p class="appendix-note">
+        Generated from the dataset at build time. Every link names its carriers and cites the
+        scholarship in Appendix C; the seal on each link is its confidence grade: attested,
+        probable or disputed.
+      </p>
+      {
+        worksSorted.map((work) => {
+          const author = work.author ? personById.get(work.author) : undefined;
+          return (
+            <div class="chain-entry">
+              <h3>{work.title}</h3>
+              <p class="chain-meta mono">
+                {author ? author.name : (work.attribution ?? '')} · {centuryOf(work.composed.from)} ·{' '}
+                {work.field}
+              </p>
+              <p class="chain-summary">{work.summary}</p>
+              <Stemma work={work} />
+            </div>
+          );
+        })
+      }
+    </section>
+
+    <section class="chapter appendix">
+      <header class="chapter-head">
+        <p class="chapter-label mono">Appendix B</p>
+        <h2>Method</h2>
+      </header>
+      <div class="chapter-body">
+        <p>
+          The dataset behind this book is deliberately small: {s.works} works, few enough to
+          verify properly. Every crossing names at least one person, carries a date span that
+          widens rather than invents precision, cites at least one published source, and is
+          graded. Attested means the medieval record itself names the act, or modern scholarship
+          has settled it. Probable means the standard scholarly view rests on real but
+          incomplete evidence; stylometric attributions and single-witness reports live here.
+          Disputed means the experts disagree, and the note on the link says who stands where.
+        </p>
+        <p>
+          A validator enforces the structure on every build: referential integrity across the
+          six collections, chains that form true trees with no cycles, chronology (nothing is
+          dated before the version it descends from, and no crossing postdates its carrier's
+          death), and evidence coverage. The same data files feed the website, this book's
+          appendices, and an MCP server that lets machine readers query the chains directly.
+        </p>
+        <p>
+          Corrections are welcome and outrank additions. The repository takes issues and pull
+          requests; a correction with a citation gets merged with thanks.
+        </p>
+      </div>
+    </section>
+
+    <section class="chapter appendix">
+      <header class="chapter-head">
+        <p class="chapter-label mono">Appendix C</p>
+        <h2>Bibliography</h2>
+      </header>
+      <ul class="bibliography">
+        {
+          sourcesSorted.map((src) => (
+            <li>
+              {src.author} ({src.year}). <i>{src.title}</i>.{src.publisher ? ` ${src.publisher}.` : ''}
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+  </body>
+</html>
+
+<style>
+  /* No webfont inside the margin box: Chrome's print pipeline hangs when a
+     page-margin box references a font it has to fetch. Generic monospace only. */
+  @page {
+    size: 139.7mm 215.9mm;
+    margin: 19mm 17mm 21mm;
+
+    @bottom-center {
+      content: counter(page);
+      font-family: monospace;
+      font-size: 7.5pt;
+      color: #6e6150;
+    }
+  }
+
+  .print-body {
+    background: #fffdf8;
+    color: var(--color-ink);
+    font-size: 10.8pt;
+    line-height: 1.55;
+  }
+
+  .print-body::before {
+    display: none;
+  }
+
+  .screen-note {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    background: var(--color-paper-deep);
+    border: 1px solid var(--color-hairline);
+    border-radius: 4px;
+    padding: 0.7rem 1rem;
+    max-width: 34rem;
+    margin: 1rem auto;
+  }
+
+  .screen-note a {
+    color: var(--color-lapis);
+  }
+
+  @media print {
+    .screen-note {
+      display: none;
+    }
+  }
+
+  @media screen {
+    .print-body {
+      max-width: 36rem;
+      margin-inline: auto;
+      padding: 0 1.2rem 4rem;
+    }
+  }
+
+  /* ---- title page ---- */
+  .title-page {
+    break-after: page;
+    text-align: center;
+    padding-top: 30mm;
+  }
+
+  .series {
+    font-size: 7.5pt;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--color-gold);
+  }
+
+  .title-page h1 {
+    font-size: 28pt;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    margin: 10mm 0 3mm;
+  }
+
+  .subtitle {
+    font-size: 13pt;
+    font-style: italic;
+    color: var(--color-ink-muted);
+    margin: 0 0 18mm;
+  }
+
+  .author {
+    font-size: 11pt;
+    letter-spacing: 0.06em;
+  }
+
+  .naql-mark {
+    font-family: var(--font-arabic);
+    font-size: 16pt;
+    color: var(--color-gold-leaf);
+    margin-top: 22mm;
+  }
+
+  /* ---- colophon ---- */
+  .colophon {
+    break-after: page;
+    padding-top: 60mm;
+    font-size: 8.5pt;
+    color: var(--color-ink-muted);
+    max-width: 95mm;
+  }
+
+  .colophon p {
+    margin-block: 0.9em;
+  }
+
+  /* ---- contents ---- */
+  .toc-page {
+    break-after: page;
+    padding-top: 16mm;
+  }
+
+  .part-title {
+    font-size: 16pt;
+    font-weight: 600;
+    margin-bottom: 8mm;
+  }
+
+  .toc {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .toc li {
+    display: flex;
+    gap: 5mm;
+    padding: 1.6mm 0;
+    border-bottom: 0.3pt solid var(--color-hairline);
+    font-size: 11pt;
+  }
+
+  .toc-num {
+    min-width: 5mm;
+    text-align: end;
+    font-size: 8pt;
+    color: var(--color-gold);
+  }
+
+  /* ---- chapters ---- */
+  .chapter {
+    break-before: page;
+  }
+
+  .chapter-head {
+    padding-top: 16mm;
+    margin-bottom: 9mm;
+  }
+
+  .chapter-label {
+    font-size: 7.5pt;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-gold);
+    margin: 0 0 2.5mm;
+  }
+
+  .chapter-head h2 {
+    font-size: 19pt;
+    font-weight: 600;
+    line-height: 1.15;
+    margin: 0;
+  }
+
+  .chapter-body :global(p) {
+    margin: 0 0 0.1em;
+    text-indent: 1.4em;
+    margin-block: 0.35em;
+    text-align: justify;
+    hyphens: auto;
+  }
+
+  .chapter-body :global(p:first-of-type) {
+    text-indent: 0;
+  }
+
+  .chapter-body :global(p:first-of-type)::first-letter {
+    float: left;
+    font-size: 3.1em;
+    line-height: 0.82;
+    padding-right: 0.08em;
+    padding-top: 0.03em;
+    font-weight: 500;
+    color: var(--color-lapis);
+  }
+
+  .chapter-body :global(hr) {
+    border: none;
+    margin: 1.6em 0;
+    text-align: center;
+  }
+
+  .chapter-body :global(hr)::after {
+    content: '◆';
+    color: var(--color-gold-leaf);
+    font-size: 7pt;
+    letter-spacing: 1em;
+  }
+
+  .chapter-body :global(hr + p) {
+    text-indent: 0;
+  }
+
+  /* ---- appendices ---- */
+  .appendix-note {
+    font-style: italic;
+    color: var(--color-ink-muted);
+    margin-bottom: 8mm;
+  }
+
+  .chain-entry {
+    break-inside: avoid-page;
+    margin-bottom: 10mm;
+  }
+
+  .chain-entry h3 {
+    font-size: 13.5pt;
+    font-weight: 600;
+    margin: 0 0 1mm;
+  }
+
+  .chain-meta {
+    font-size: 7.5pt;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-ink-muted);
+    margin: 0 0 2.5mm;
+  }
+
+  .chain-summary {
+    margin: 0 0 4mm;
+  }
+
+  .bibliography {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 9pt;
+  }
+
+  .bibliography li {
+    padding-left: 1.6em;
+    text-indent: -1.6em;
+    margin-bottom: 1.6mm;
+  }
+</style>

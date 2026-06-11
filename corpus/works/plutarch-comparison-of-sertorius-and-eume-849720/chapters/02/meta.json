@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-comparison-of-sertorius-and-eume-849720",
+  "work_title": "Comparison of Sertorius and Eumenes",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "19adaea0-3fbe-548b-a21a-80d5c914e77f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 207,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg043.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8021a45d-fcd8-5df7-aeaf-89c1394769e3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 330,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg043.perseus-eng2:2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-romulus-8aa1c6",
+  "work_title": "Romulus",
+  "chapter_number": 15,
+  "chapter_title": "Chapter 15",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ecf71ce6-4494-5454-a81a-928925585e51",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 315,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg002.perseus-grc2:15"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8e2b6fb9-5d57-5da4-9c51-e031952aadcf",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 467,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg002.perseus-eng2:15"
+    }
+  ]
+}

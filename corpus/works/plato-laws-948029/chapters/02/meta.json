@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-laws-948029",
+  "work_title": "Laws",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2021b6cd-140b-5341-873e-b9f3d5a9e6bf",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7379,
+      "paragraph_count": 230,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg034.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ecf3d14-da87-560b-b61c-b52f25674a3d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9834,
+      "paragraph_count": 230,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg034.perseus-eng2:2"
+    }
+  ]
+}

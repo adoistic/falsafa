@@ -1,0 +1,29 @@
+---
+work_id: "4388afad-27ec-51c4-8d8d-2b92f25da0a0"
+work_slug: "plutarch-demosthenes-4388af"
+work_title: Demosthenes
+author_name: Plutarch
+chapter_number: 22
+chapter_title: Chapter 22
+chapter_slug: 22
+variant_id: "5a313cf5-1895-5c04-a35a-8c228e743717"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 495
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg054.perseus-eng2:22"
+translator: Bernadotte Perrin
+---
+
+Now, Demosthenes had secret intelligence of Philip’s death, and by way of inspiring the Athenians with courage for the future, he came forth to the council with a glad countenance, declaring that he had a dream which led him to expect some great blessing for Athens; and not long afterwards the messengers came with tidings of Philip’s death. At once, then, the Athenians proceeded to make thank-offerings for glad tidings and voted a crown for Pausanias.
+
+And Demosthenes came forth in public dressed in a splendid robe and wearing a garland on his head, although his daughter had died only six days before, as Aeschines says, who rails at him for this and denounces him as an unnatural father. And yet Aeschines himself was of a weak and ungenerous nature, if he considered mournings and lamentations as the signs of an affectionate spirit, but condemned the bearing of such losses serenely and without repining.
+
+For my own part, I cannot say that it was honourable in the Athenians to crown themselves with garlands and offer sacrifices to the gods on the death of a king who, in the midst of his successes, had treated them so mildly and humanely in their reverses; for besides provoking the indignation of the gods, it was also an ignoble thing to honour him while he was alive and make him a citizen of Athens, but when he had fallen by another’s hand to set no bounds to their joy, nay, to leap as it were, upon the dead, and sing paeans of victory, as if they themselves had wrought a deed of valour.
+
+However, for leaving his domestic misfortunes and tears and lamentations to the women and going about such business as he thought advantageous to the city, I commend Demosthenes, and I hold it to be the part of a statesmanlike and manly spirit to keep ever in view the good of the community, to find support for domestic sorrows and concerns in the public welfare, and to preserve one’s dignity far more than actors do when they take the parts of kings and tyrants; for these, as we see in the theatres, neither weep nor laugh according to their own inclinations, but as the subject of the action demands.
+
+And apart from these considerations, if it is our duty not to allow the unfortunate to lie comfortless in his sorrow, but to address him with cheering words and turn his thoughts to pleasanter things (like those who tell people with sore eyes to withdraw their gaze from bright and hard colours and fix it upon those which are soft and green), how can a man obtain better consolation for his domestic griefs than by blending them with the general welfare of a prosperous country, thus making the better things obscure the worse? These things, then, I have been led to say on seeing that many have their hearts softened to effeminate pity by this discourse of Aeschines.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-tyrannicida-f8e856",
+  "work_title": "Tyrannicida",
+  "chapter_number": 1,
+  "chapter_title": "Tyrannicida",
+  "chapter_slug": "01-tyrannicida",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5c3ff95a-a0b9-5ab8-9115-9b50eb535b2b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2891,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg051.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10764854-5ed7-5760-8586-b6a308f8a738",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3582,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg051.perseus-eng4"
+    }
+  ]
+}

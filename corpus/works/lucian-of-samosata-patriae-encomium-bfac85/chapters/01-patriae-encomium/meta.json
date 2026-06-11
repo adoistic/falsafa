@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-patriae-encomium-bfac85",
+  "work_title": "Patriae encomium",
+  "chapter_number": 1,
+  "chapter_title": "Patriae encomium",
+  "chapter_slug": "01-patriae-encomium",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cbf133da-8a4c-5469-b09b-d1c8e431bddc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 957,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg010.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a87931ef-af7f-5c4b-a374-88fd1bd7859c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1181,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg010.perseus-eng4"
+    }
+  ]
+}

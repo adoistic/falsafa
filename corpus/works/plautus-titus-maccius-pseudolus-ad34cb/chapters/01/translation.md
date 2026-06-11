@@ -1,0 +1,29 @@
+---
+work_id: "ad34cb69-a3e7-5386-8f9c-676771b2330f"
+work_slug: "plautus-titus-maccius-pseudolus-ad34cb"
+work_title: Pseudolus
+author_name: Plautus, Titus Maccius
+chapter_number: 1
+chapter_title: Chapter front
+chapter_slug: 01
+variant_id: "9e1996b4-6866-5bc5-9ccd-105ee5690dfc"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 537
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi016.perseus-eng2:1"
+translator: Perseus Digital Library
+---
+
+Dramatis Personae
+
+SIMO, an old gentleman of. CALIDORUS, his son, in love with Phœnicium. CHARINUS, the friend of Calidorus. CALLIPHO, the friend of Simo. PSEUDOLUS, the servant of Simo. BALLIO, a procurer, the owner of Phœnicium. HARPAX, the servant of Polymachaeroplagides. SIMMIA, the Cheat, a servant of Charinus. A COOK. A BOY, servant of Ballio. POENICIUM [mute], beloved by Calidorus. SLAVES of Ballio.
+
+(Scene— Athens. The house of BALLIO is on one side of the Street, that of SIMO on the other.)
+
+THE SUBJECT. CALIDORUS, a young Athenian, the son of Simo, is in love with Phœnicium, a young woman who belongs to Ballio, a procurer. A bargain has been made by the procurer, to sell her to a military officer for twenty minae; fifteen of these have been paid down, and it has been agreed that when the remaining five and a certain token, with a letter, shall have been sent by the Captain, the damsel shall be sent to him in return. Pseudolus, the servant of Simo, promises his master’s son, that, if possible, he will prevent this. They first address Ballio on the subject; but their attempts to influence him are all in vain. Pseudolus then devises a plan to get some money out of Simo, by whom, however, it is discovered; but, after having acknowledged his fault, he prevails upon the old gentleman to promise him twenty minae if he shall contrive to get the girl out of the procurer’s hands. Harpax, the messenger from the Captain, in the meantime makes his appearance. Being a stranger to the place, he unwittingly delivers the Captain’s letter and the token to Pseudolus, who pretends that he is the head-servant of the procurer. Charinus, the friend of Calidorus, lends him five minae; and, provided with this, Pseudolus equips Simmia, a servant of Charinus, so as to represent the messenger from the Captain. He finds the procurer, delivers the letter, pays the five mine, and carries off the damsel. Ballio then makes a bet of twenty minae with Simo, that Pseudolus shall not outwit him that day. The real Harpax now applies to Ballio for the girl, and the trick being discovered, the procurer has to pay back the fifteen minae to the Captain, and the twenty for the bet which he has made with Simo. Simo then pays the twenty minae, which he has promised to Pseudolus if he should succeed in outwitting the procurer. Pseudolus is handsomely entertained by Calidorus, and engages to return to Simo one-half of the money, if he wil join the entertainment.
+
+THE ACROSTIC ARGUMENT. An officer pays down fifteen mine, ready money (Prœsentes); as a token he also (Simul) gives an impression of his seal, that the procurer may deliver Phœnicium to him (Ei), who brings it with the rest of the money. Pseudolus intercepts his camp-servant coming (Venientem) with the token, saving (Dicens), that he is Syrus, the servant of Ballio, and thus he gives his aid (Opem) to his master; for the procurer (Leno) delivers up the damsel to Simmia, whom he has substituted. The real Harpax comes (Venit); the matter is all discovered, and the old man (Senex) pays the money which he has agreed to give.

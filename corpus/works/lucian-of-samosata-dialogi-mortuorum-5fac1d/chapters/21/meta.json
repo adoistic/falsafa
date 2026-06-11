@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-dialogi-mortuorum-5fac1d",
+  "work_title": "Dialogi mortuorum",
+  "chapter_number": 21,
+  "chapter_title": "Book 21",
+  "chapter_slug": "21",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "747d068a-9735-5fff-9fb4-25651f4a4150",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 384,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg066.perseus-grc3:21"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "36d70f42-4a57-52d9-9104-06539358f1c5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 242,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg066.perseus-eng4:21"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+---
+work_id: "573905a4-36a7-5937-ae4e-739103cb4525"
+work_slug: "plutarch-apophthegmata-laconica-573905"
+work_title: Apophthegmata Laconica
+author_name: Plutarch
+chapter_number: 27
+chapter_title: Chapter 45
+chapter_slug: 27
+variant_id: "b5de7c24-59a5-5307-a3d2-c2700452b742"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 800
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg082.perseus-eng4:27"
+translator: Perseus Digital Library
+---
+
+Cleomenes, the son of Anaxandridas, was wont to say that Homer was the poet of the Lacedaemonjans, Hesiod of the Helots; for one taught the art of war, and the other husbandry. Having made a truce for seven days with the Argives, he watched his opportunity the third night, and perceiving them secure and negligent by reason of the truce, he fell upon them whilst they were asleep, killed some, and took others prisoners. Upon this being upbraided for breach of articles, he said that his oath did not extend to night as well as day, and to hurt a man’s enemies any way, both before God and man, was much better than to be just. It happened that he missed taking Argos, in hopes of which he broke his oath; for the women taking the old arms out of the temples defended the city. And afterwards running stark mad, he seized a knife, and ripped himself up from the very ankles to the vital parts, and thus died grinning and laughing. The priest advising him not to march to Argos, — for he would be forced to a dishonorable retreat, — when he came near the city and saw the gates shut and the women upon the walls, he said: What, sir priests, will this be a dishonorable retreat, when, the men being all lost, the women have shut the gates? When some of the Argives railed at him as an impious and forsworn wretch, he said, Well, it is in your power to rail at me, and in mine to mischief you. The Samian ambassadors urging him to make war on the tyrant Polycrates, and making long harangues on that account, he said: The beginning of your speech I don’t remember, and therefore I cannot understand the middle, and the last I don’t like. A pirate spoiling the country, and when he was taken saying, I had no provision for my soldiers, and therefore went to those who had store and would not give it willingly, to force it from them; Cleomenes said, True villainy goes the shortest way to work. A base fellow railing at him, he said, Well, I think thou railest at everybody, that being employed to defend ourselves, we may have no time to speak of thy baseness.
+
+One of the citizens saying that a good king should be always mild and gracious, True, said he, as long as he doth not make himself contemptible. Being tormented with a long disease, he consulted the priests and expiators, to whom he formerly gave no credit; and when a friend of his wondered at the action, Why dost thou wonder, said he, for I am not the same man I was then; and since I am not the same, I do not approve the same things. A Sophist discoursing of courage, he laughed exceedingly; and the Sophist saying, Why do you laugh, Cleomenes, when you hear one treat of courage, especially since you are a king? Because, sir, said he, if a swallow should discourse of it, I should laugh; but if an eagle, I should hearken attentively.
+
+When the Argives boasted that they would retrieve their defeat by a new battle, he said, I wonder if the addition of two syllables has made you braver than you were before. When one railed at him, and said, Thou art luxurious, Cleomenes; Well, he replied, that is better than to be unjust; but thou art covetous, although thou art master of abundance of superfluities. A friend willing to recommend a musician to him, besides other large commendations, said he was the best musician in all Greece. Cleomenes, pointing to one that stood by, said, Faith, sir, that fellow is my best cook. Maeander the Samian tyrant, flying to Sparta upon the invasion of the Persian, discovering what treasure he had brought, and offering Cleomenes as much as he would have, Cleomenes refused, and beside took care that he should not give any of the citizens a farthing; but going to the Ephors, told them that it would be good for Sparta to send that Samian guest of his out of Peloponnesus, lest he should persuade any of the Lacedaemonians to be a knave. And they taking his advice ordered Maeander to be gone that very day. One asking why, since they had beaten the Argives so often, they did not totally destroy them, he replied, That we may have some to exercise our youth. One demanding why the Spartans did not dedicate the spoils of their enemies to the Gods, Because, said he, they are taken from cowards; and such things as are betrayed to us by the cowardice of the possessors are fit neither for our youth to see, nor to be dedicated to the Gods.

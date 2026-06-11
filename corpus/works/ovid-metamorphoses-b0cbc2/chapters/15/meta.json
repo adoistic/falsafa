@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-metamorphoses-b0cbc2",
+  "work_title": "Metamorphoses",
+  "chapter_number": 15,
+  "chapter_title": "Book 15",
+  "chapter_slug": "15",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dc7be13a-8c21-5931-ad13-b97486207e69",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5600,
+      "paragraph_count": 304,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi006.perseus-lat2:15"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f8ad416-f6c9-5857-bdad-0193a6177039",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 10854,
+      "paragraph_count": 997,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi006.perseus-eng4:15"
+    }
+  ]
+}

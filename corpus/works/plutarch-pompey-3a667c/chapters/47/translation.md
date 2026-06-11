@@ -1,0 +1,31 @@
+---
+work_id: "3a667c21-e345-5906-aeb0-850607ce432b"
+work_slug: "plutarch-pompey-3a667c"
+work_title: Pompey
+author_name: Plutarch
+chapter_number: 47
+chapter_title: Chapter 47
+chapter_slug: 47
+variant_id: "1d4f395d-7485-515e-a49d-412ec7bd6abe"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 459
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg045.perseus-eng2:47"
+translator: Bernadotte Perrin
+---
+
+At this time Caesar had returned from his province and had inaugurated a policy which brought him the greatest favour for the present and power for the future, but proved most injurious to Pompey and the city. He was a candidate for his first consulship, and seeing that, while Crassus and Pompey were at variance, if he attached himself to the one he would make an enemy of the other, he sought to reconcile them with one another,—a thing which was honourable in itself and conducive to the public good, but he undertook it for an unworthy reason and with all the cleverness of an intriguer.
+
+For those opposing forces which, as in a vessel, prevented the city from rocking to and fro, were united into one, thereby giving to faction an irresistible momentum that overpowered and overthrew everything. At all events, Cato, when men said that the state had been overturned by the quarrel which afterwards arose between Caesar and Pompey, declared that they wrongly laid the blame on what had merely happened last;
+
+for it was not their discord nor yet their enmity, but their concord and harmony which was the first and greatest evil to befall the city. Caesar was, indeed, chosen consul; but he at once paid his court to the indigent and pauper classes by proposing measures for the founding of cities and the distribution of lands, thereby lowering the dignity of his office and making the consulate a kind of tribunate.
+
+And when he was opposed by his colleague Bibulus, and Cato stood ready to support Bibulus with all his might, Caesar brought Pompey on the rostra before the people, and asked him in so many words whether he approved the proposed laws: and when Pompey said he did, Then, said Caesar, in case any resistance should be made to the laws, will you come to the aid of the people?
+
+Yes, indeed, said Pompey, I will come, bringing, against those who threaten swords, both sword and buckler. Never up to that day had Pompey said or done anything more vulgar and arrogant, as it was thought, so that even his friends apologized for him and said the words must have escaped him in the spur of the moment. However, by his subsequent acts he made it clear that he had now wholly given himself up to do Caesar’s bidding.
+
+For to everybody’s surprise he married Julia, the daughter of Caesar, although she was betrothed to Caepio and was going to be married to him within a few days; and to appease the wrath of Caepio, Pompey promised him his own daughter in marriage, although she was already engaged to Faustus the son of Sulla. Caesar himself married Calpurnia, the daughter of Piso.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-comparison-of-demetrius-and-anto-bd01a2",
+  "work_title": "Comparison of Demetrius and Antony",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "057f2c62-7616-5a71-9ff4-31d83922efda",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 166,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg059.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1ebd2ff9-c8df-59ed-8015-ce9e76b053e8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 228,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg059.perseus-eng2:4"
+    }
+  ]
+}

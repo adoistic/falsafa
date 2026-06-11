@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-luke-f4a47d",
+  "work_title": "Luke",
+  "chapter_number": 20,
+  "chapter_title": "Chapter 20",
+  "chapter_slug": "20",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "33e9477a-8c7c-5b05-8548-7925fe670a8c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 699,
+      "paragraph_count": 124,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg003.perseus-grc2:20"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f83ff4d2-a80c-572c-bc21-08ca2351fc9c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 899,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg003.perseus-eng2:20"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+---
+work_id: "5fa68674-5128-526b-ad8e-7e50aa516351"
+work_slug: "tacitus-cornelius-dialogus-5fa686"
+work_title: Dialogus
+author_name: Tacitus, Cornelius
+chapter_number: 32
+chapter_title: Chapter 32
+chapter_slug: 32
+variant_id: "a62a3240-fc55-5b6a-959d-d9b6e5c1652a"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 437
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi003.perseus-eng1:32"
+translator: William Jackson Brodribb
+---
+
+Let no one reply that it is enough for us to learn, as occasion requires, some single and detached subject. In the first place we use our own property in one way, a loan in another, and there is evidently a wide difference between possessing what one exhibits and borrowing it. Next, the very knowledge of many subjects sits gracefully on us, even when we are otherwise engaged, and makes itself visible and conspicuous where you would least expect it. Even the average citizen, and not only the learned and critical hearer, perceives it, and forthwith showers his praises in the acknowledgment that the man has been a genuine student, has gone through every branch of eloquence, and is, in short, an orator. And I maintain that the only orator is, and ever has been, one who, like a soldier equipped at all points going to the battle-field, enters the forum armed with every learned accomplishment.
+
+All this is so neglected by the speakers of our time that we detect in their pleadings the style of every-day conversation, and unseemly and shameful deficiencies. They are ignorant of the laws, they do not understand the senate's decrees, they actually scoff at the civil law, while they quite dread the study of philosophy, and the opinions of the learned; and eloquence, banished, so to say, from her proper realm, is dragged down by them into utter poverty of thought and constrained periods. Thus she who, once mistress of all the arts, held sway with a glorious retinue over our souls, now clipped and shorn, without state, without honour, I had almost said without her freedom, is studied as one of the meanest handicrafts. This then I believe to be the first and chief cause of so marked a falling off among us from the eloquence of the old orators. If witnesses are wanted, whom shall I name in preference to Demosthenes among the Greeks, who is said by tradition to have been a most attentive hearer of Plato? Cicero too tells us, I think, in these very words, that whatever he had achieved in eloquence he had gained, not from rhetoricians, but in the walks of the Academy. There are other causes, some of them great and important, which it is for you in fairness to explain, as I have now done my part, and, after my usual way, have offended pretty many persons who, if they happen to hear all this, will, I am sure, say that, in praising an acquaintance with law and philosophy as a necessity for an orator, I have been applauding my own follies.

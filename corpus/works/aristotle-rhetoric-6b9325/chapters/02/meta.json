@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristotle-rhetoric-6b9325",
+  "work_title": "Rhetoric",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "62685341-89fc-5c1e-81fa-0548cd644df2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 16224,
+      "paragraph_count": 414,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg038.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "656d06a9-6ae2-5e23-a038-25523e8e4479",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 24749,
+      "paragraph_count": 388,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg038.perseus-eng2:2"
+    }
+  ]
+}

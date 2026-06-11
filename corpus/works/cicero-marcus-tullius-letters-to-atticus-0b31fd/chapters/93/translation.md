@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 93
+chapter_title: "Chapter text=A:book=4:letter=17"
+chapter_slug: 93
+variant_id: "53c32a1b-2b9c-5a98-aec1-ba053df249e7"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 345
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:93"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (ON HIS WAY TO ROME) ROME (NOVEMBER)
+
+At last the long-expected letter from you! Back to Italy, how delightful! What wonderful fidelity to your promise! What a charming voyage! About this last, by Hercules, I was very nervous, remembering the fur wrappers of your former crossing. But, unless I am mistaken, I shall see you sooner than you say in your letter. For I believe you thought that your ladies were in Apulia, and when you find that not to be the case, what can there be to detain you there? Are you bound to give Vestorius some days, and must you go through the stale banquet of his Latin Atticism again after an interval? Nay, fly hither and visit (the remains) of that genuine Republic of ours!.. Observe my strength of mind and my supreme indifference to the Felician one-twelfth legacy, and also, by heaven, my very gratifying connexion with Caesar—for this delights me as the one spar left me from the present shipwreck—Caesar, I say, who treats your and my Quintus, heavens! with what honour, respect, and favours! It is exactly as if I were the imperator. The choice was just lately offered him of selecting any of the winter quarters, as he writes me word. Wouldn't you be fond of such a man as that? Of which of your friends would you, if not of him? But look you! did I write you word that I was legatus to Pompey, and should be outside the city from the 13th of January onwards? This appeared to me to square with many things. But why say more? I will, I think, reserve the rest till we meet, that you may, after all, have something to look forward to. My very best regards to Dionysius, for whom, indeed, I have not merely kept a place, but have even built one. In fine, to the supreme joy of your return, a finishing stroke will be added by his arrival. The day you arrive, you and your party will, I entreat you, stay with me.

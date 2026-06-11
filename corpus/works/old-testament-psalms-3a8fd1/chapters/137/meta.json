@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 137,
+  "chapter_title": "Chapter 139",
+  "chapter_slug": "137",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e237689b-6c03-5725-8bd5-92d704800598",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 504,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:137"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c9eb9ea9-4895-5cfe-b610-ba37114e12fd",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 391,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:137"
+    }
+  ]
+}

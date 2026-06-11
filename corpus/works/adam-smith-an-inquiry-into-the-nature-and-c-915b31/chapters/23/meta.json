@@ -1,0 +1,26 @@
+{
+  "work_slug": "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+  "work_title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "chapter_number": 23,
+  "chapter_title": "CHAPTER IV. HOW THE COMMERCE OF THE TOWNS CONTRIBUTED TO THE IMPROVEMENT OF THE COUNTRY",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7fa0d4ab-d421-5d0e-9100-7ad45454587e",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 5274,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Smith_WoN-CannanEdition1904/Smith_WoN-Cannan1904-4Panes.margnotes.html"
+    }
+  ]
+}

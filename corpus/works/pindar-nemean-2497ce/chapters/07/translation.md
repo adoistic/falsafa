@@ -1,0 +1,49 @@
+---
+work_id: "2497ceb2-f39d-5cc0-aad0-0b85f1d40458"
+work_slug: "pindar-nemean-2497ce"
+work_title: Nemean
+author_name: Pindar
+chapter_number: 7
+chapter_title: Chapter 7
+chapter_slug: 07
+variant_id: "46d71f99-4dae-550b-b2e1-e53d5ce360c4"
+content_type: translation
+layout: verse
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 1193
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg003.perseus-eng2:7"
+translator: Diane Svarlien
+---
+
+Eleithuia, seated beside the deep-thinking Fates, hear me, creator of offspring, child of Hera great in strength. Without you we see neither the light nor the dark night before it is our lot to go to your sister, Hebe, with her lovely limbs.
+
+Yet we do not all draw our first breath for equal ends. Under the yoke of destiny, different men are held by different restraints. But it is by your favor that, even so, Sogenes the son of Thearion, distinguished by his excellence, is celebrated in song as glorious among pentathletes.
+
+For he lives in a city that loves music, the city of the Aeacidae with their clashing spears;
+
+and they very much want to foster a spirit familiar with contests. If someone is successful in his deeds, he casts a cause for sweet thoughts into the streams of the Muses. For those great acts of prowess dwell in deep darkness, if they lack songs, and we know of only one way to hold a mirror up to fine deeds:
+
+if, by the grace of Mnemosyne with her splendid headdress, one finds a recompense for toils in glorious song.
+
+Skillful men know the wind that will come on the day after tomorrow, and they do not suffer loss through the love of gain. The rich man and the poor man alike travel together to the boundary of death.
+
+And I expect that the story of Odysseus came to exceed his experiences, through the sweet songs of Homer, since there is a certain solemnity in his lies and winged artfulness, and poetic skill deceives, seducing us with stories, and the heart of the mass of men is blind. For if they had been able to see the truth, then mighty Aias, in anger over the arms, would never have planted in his chest the smooth sword—Aias, who was the most powerful in battle, except for Achilles, and whom the breath of the unswerving Zephyr conveyed in swift ships, to bring back the wife of golden-haired Menelaus from the city of Ilus. But the wave of Hades breaks over all alike; it falls on the man who does not expect it, and on the one who does. There is honor for those whose fame a god causes to grow luxuriant when they are dead. Neoptolemus came to help, to the great navel of the broad-bosomed earth. And he lies beneath the Pythian soil, after he sacked the city of Priam, where even the Danaans toiled. But on his return voyage he missed Scyros, and after wandering from their course they came to Ephyra.
+
+He ruled in Molossia for a brief time; and his race always bore this honor of his. He had gone to consult the god, bringing precious things from the finest spoils of Troy; and there he met with a quarrel over the flesh of his sacrifice, and a man struck him with a knife.
+
+The hospitable Delphians were grieved beyond measure; but he fulfilled his fate. It was destined that within that most ancient grove one of the ruling race of Aeacus should, for all time to come, stay beside the fine-walled house of the god, and dwell there to preside over the processions of heroes, which are honored by many sacrifices. As for their justly earned good name, a few words will suffice: it is no lying witness that presides over achievements of the offspring of you and Zeus,
+
+Aegina. I have this bold speech to make, an authoritative path of words from their home, for their shining excellence. But enough, for respite is sweet in every deed. Even honey may cloy, and the delightful flowers of Aphrodite. Each of us differs in nature, for we were each allotted a different life.
+
+One man has this, others have something else; but for one man to win the prize of complete happiness is impossible. I cannot say to whom Fate has handed this consummation as a lasting possession. But to you, Thearion, she gives a due measure of prosperity, and while you have gained a bold spirit for fine deeds, she does not impair the wisdom of your mind. I am your friend; averting the dark shadow of abuse, and bringing genuine glory, like streams of water, to the man who is dear to me, I shall praise him. This wage is worthy of good men.
+
+If any Achaean man is nearby who lives above the Ionian sea, he will not find fault with me. I trust in my being their representative. And among my fellow townsmen, the glance of my eye is bright; I have not overshot the mark, and I have thrust all violence away from my path. May the rest of my days approach benevolently. Anyone who knows the truth will declare whether I follow a path that is out of tune, singing a twisted song.
+
+Sogenes, of the Euxenid clan, I swear that I did not overstep the line when I hurled, like a bronze-cheeked javelin, my swift tongue—a throw that disqualifies a man’s strong neck from the sweat of the wrestling-match, before his limbs fall under the burning sun. If there was toil, greater delight follows.
+
+Let me go on. If I rose too high and shouted loudly, I am not too rude to pay my debt of gratitude to the victor. It is easy to weave garlands. Strike up the song! The Muse welds together gold and white ivory with coral, the lily she has stolen from beneath the ocean’s dew.
+
+But in remembrance of Zeus and in honor of Nemea, whirl a far-famed strain of song, softly. On this spot it is fitting to sing with a gentle voice of the king of gods. For they say that he planted the seed of Aeacus, received by the mother, to be a city-ruler in my illustrious fatherland, and to be a kindly friend and brother to you, Heracles. If one man has any benefit from another, we would say that a neighbor, if he loves his neighbor with an earnest mind, is a joy worth any price. But if a god should also uphold this truth, then under your protection, Heracles, you who subdued the Giants, Sogenes would dwell happily, fostering a spirit of devotion to his father, beside the rich and sacred road of his ancestors, since he has his house in your precincts, flanking him on either hand as he goes, like the yoke-arms of a four-horse chariot. Blessed Heracles, it is fitting for you to persuade the husband of Hera and the gray-eyed virgin goddess; you are often able to give mortals courage against the impasse of helplessness. Would that you might join their youth and splendid old age to a strong and secure life, and weave it through to the end in good fortune, and may their children’s children always have the honor of the present day, and a still better one to come. But my heart will never say that I have done violence to Neoptolemus with cruel words. To plough the same ground three or four times is poverty of thought, like babbling “Corinth of Zeus” to children.

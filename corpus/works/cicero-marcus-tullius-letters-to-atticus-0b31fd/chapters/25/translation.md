@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 25
+chapter_title: "Chapter text=A:book=2:letter=5"
+chapter_slug: 25
+variant_id: "2c7fa72e-b932-5aee-b9a4-e13fd723f80e"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 455
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:25"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) ANTIUM (APRIL)
+
+I wish very much, and have long wished, to visit Alexandria, and at the same time to get away from here, where people are tired of me, and return when they have begun to feel my loss—but at such a time and at the bidding of such statesmen! "I fear to face the men of Troy And Trojan matrons with their trailing robes." For what would my friends the Optimates say—if there are such persons left? That I bad accepted a bribe to change my views? Polydamas the first would lay the charge. I mean my friend Cato, who is as good as a hundred thousand in my eyes. What, too, will history say of me six hundred years hence? I am much more afraid of that than of the petty gossip of the men of today. But, I think, I had better lie low and wait. For if it is really offered to me, I shall be to a certain extent in a position of advantage, and then will be the time to weigh the matter. There is, upon my word, a certain Credit even in refusing. Wherefore, if Theophanes by chance has consulted you on the matter, do not absolutely decline. What I am expecting to hear from you is, what Arrius says, and how he endures being left in the lurch, and who are intended to be consuls—is it Pompey and Crassus, or, as I am told in a letter, Servius Sulpicius with Gabinius?-and whether there are any new laws or anything new at all; and, since Nepos is leaving Rome, who is to have the augurship—the one bait by which those personages could catch me! You see what a high price I put on myself! Why do I talk about such things, which I am eager to throw aside, and to devote myself heart and soul to philosophy. That, I tell you, is my intention. I could wish I had done so from the first. Now, however, that I have found by experience the hollowness of what I thought so splendid, I am thinking of doing business exclusively with the Muses. In spite of that, please give me in your next some more definite information about Curtius and who is intended to fill his place, and what is doing about P. Clodius, and, in fact, take your time and tell me everything as you promise; and pray write me word what day you think of leaving Rome, in order that I may tell you where I am likely to be and send me a letter at once on the subjects of which I have written to you. I look forward much to hearing from you.

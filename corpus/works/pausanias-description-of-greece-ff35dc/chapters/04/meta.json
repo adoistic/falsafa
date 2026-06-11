@@ -1,0 +1,38 @@
+{
+  "work_slug": "pausanias-description-of-greece-ff35dc",
+  "work_title": "Description of Greece",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3c921d25-ce86-5e25-834d-0d20969e8d71",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 21544,
+      "paragraph_count": 377,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0525.tlg001.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f88eda84-25ed-512c-8a3b-6aaaf92493f5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 26084,
+      "paragraph_count": 317,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0525.tlg001.perseus-eng2:4"
+    }
+  ]
+}

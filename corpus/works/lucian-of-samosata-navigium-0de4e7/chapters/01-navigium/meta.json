@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-navigium-0de4e7",
+  "work_title": "Navigium",
+  "chapter_number": 1,
+  "chapter_title": "Navigium",
+  "chapter_slug": "01-navigium",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "634df5ea-5c75-5345-bc80-985b98dec154",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5425,
+      "paragraph_count": 118,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg065.perseus-grc3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0590edc6-917b-53de-a360-c5dc17ada39a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6638,
+      "paragraph_count": 109,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg065.perseus-eng4"
+    }
+  ]
+}

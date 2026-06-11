@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 59
+chapter_title: "Chapter text=Q FR:book=3:letter=3"
+chapter_slug: 59
+variant_id: "78734d97-faef-51ed-8108-425ab8353a24"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 706
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:59"
+translator: Perseus Digital Library
+---
+
+TO HIS BROTHER QUINTUS (IN GAUL) ROME (OCTOBER)
+
+The writing of an amanuensis must shew you the amount of my engagements. I assure you that no day passes without my appearing for the defence of some one. Accordingly, all composition or reflexion I reserve for the hour of my walk. So stands my business: matters at home, however, are everything I could wish. Our boys are well, diligent in their studies, and affectionate to me and each other. The decoration of both of our houses is still in hand: but your rural works at Arcanum and Laterium are now completed. For the rest, as to the water and the road, I went into the case thoroughly, in a certain letter of mine, without Omitting anything. But, in truth, the anxiety which is now giving me great uneasiness and pain is that for a period of fifty days I have heard nothing from you or from Caesar—nothing has found its way from those parts, either in the shape of a letter, or even of a rumour. Moreover, both the sea and land out there make me uneasy, and I never cease imagining, as one does when one's affections are deeply involved, all that I least desire. Wherefore I do not, indeed, for the present ask you to write me an account of yourself and your doings, for that you never omit doing when possible, but I wish you to know this—that I have scarcely ever been so anxious for anything as at the moment of writing I am for a letter from you. Now for what is going on in politics. One day after another for the comitia is struck out by notices of bad omens, to the great satisfaction of all the loyalists: so great is the scandal in which the consuls are involved, owing to the suspicion of their having bargained for a bribe from the candidates. The four candidates for the consulship are all arraigned: their cases are difficult of defence, but I shall do my best to secure the safety of our friend Messalla—and that is inseparable from the acquittal of the others. Publius Sulla has accused Gabinius of bribery—his stepson Memmius his cousin Caecilius, and his son Sulla backing the indictment. L. Torquatus put in his claim to the conduct of the prosecution, and, to everybody's satisfaction, failed to establish it. You ask, "What will become of Gabinius?" We shall know in three days' time about the charge of lèse majesté. In that case he is at a disadvantage from the hatred entertained by all classes for him; witnesses against him as damaging as can be: accusers in the highest degree inefficient: the panel of jurors of varied character: the president a man of weight and decision—Alfius: Pompey active in soliciting the jurors on his behalf. What the result will be I don't know; I don't see, however, how he can maintain a position in the state. I shew no rancour in promoting his destruction, and await the result with the utmost good temper. That is nearly all the news. I will add this one item: your boy (who is mine also) is exceedingly devoted to his rhetoric master Paeonius, a man, I think, of great experience in his profession, and of very good character. But you are aware that my method of instruction aims at a somewhat more scholarly and philosophical style. Accordingly I, for my part, am unwilling that his course of training should be interrupted, and the boy himself seems to be more drawn to that declamatory style, and to like it better; and as that was the style in which I was myself initiated, let us allow him to follow in my path, for I feel sure it will eventually bring him to the same point; nevertheless, if I take him with me somewhere in the country, I shall guide him to the adoption of my system and practice. For you have held out before me a great reward, which it certainly shall not be my fault if I fail to fully obtain. I hope you will write and tell me most carefully in what district you are going to pass the winter, and what your prospects are.

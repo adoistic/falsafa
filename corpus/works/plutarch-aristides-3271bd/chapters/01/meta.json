@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-aristides-3271bd",
+  "work_title": "Aristides",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8f1511ce-58e4-5237-8c03-4ed40fcd1040",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 418,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg024.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b732fb9c-de56-5c78-860a-3411d4271adc",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 619,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg024.perseus-eng2:1"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+---
+work_id: "0730857c-32f6-53ee-af86-54b32fecab0a"
+work_slug: "plutarch-lycurgus-073085"
+work_title: Lycurgus
+author_name: Plutarch
+chapter_number: 2
+chapter_title: Chapter 2
+chapter_slug: 02
+variant_id: "dd284def-8407-5fa2-bb19-8012c56d81d3"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 299
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg004.perseus-eng2:2"
+translator: Bernadotte Perrin
+---
+
+Of these ancestors of Lycurgus, Soüs was most famous, under whom the Spartans made the Helots their slaves, and acquired by conquest from the Arcadians a large additional tract of land. It is also related of this Soüs that when he was besieged by the Cleitorians in a rough and waterless place, he agreed to surrender to them the land which he had conquered if he himself and all his men with him should drink from the adjacent spring.
+
+After the oaths to this agreement were taken, he assembled his men and offered his kingdom to the one who should not drink; no one of them, however, could forbear, but all of them drank, whereupon Soüs himself went down last of all to the water, sprinkled his face merely, while the enemy were still at hand to see, and then marched away and retained his territory, on the plea that all had not drunk. But although on these grounds he was held in great admiration, his royal line was not named from him, but were called Eurypontids from his son, because Eurypon appears to have been the first king to relax the excessive absolutism of his sway, seeking favour and popularity with the multitude.
+
+But in consequence of such relaxation the people grew hold, and succeeding kings were some of them hated for trying to force their way with the multitude, and some were brought low by their desire for favour or through weakness, so that lawlessness and confusion prevailed at Sparta for a long time; and it was owing to this that the father of Lycurgus, a reigning king, lost his life. For as he was trying to separate some rioters, he was stabbed to death with a butcher’s knife, leaving the kingdom to his elder son, Polydectes.

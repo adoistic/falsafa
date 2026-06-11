@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-numbers-e47f4a",
+  "work_title": "Numbers",
+  "chapter_number": 23,
+  "chapter_title": "Chapter 23",
+  "chapter_slug": "23",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5fdbf7b4-b38a-5fa1-9bef-6d160db5d79c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 589,
+      "paragraph_count": 61,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:23"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e69f4a32-558b-5269-a604-99c23ebe8bcb",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 700,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg004.perseus-eng2:23"
+    }
+  ]
+}

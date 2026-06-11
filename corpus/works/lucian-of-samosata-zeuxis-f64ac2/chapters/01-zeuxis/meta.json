@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-zeuxis-f64ac2",
+  "work_title": "Zeuxis",
+  "chapter_number": 1,
+  "chapter_title": "Zeuxis",
+  "chapter_slug": "01-zeuxis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9aac0889-2cc0-57c1-a6d7-27f33b986d0d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1500,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg057.perseus-grc3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4486b5d3-fbe7-5394-9e3e-d1efcf1ca9aa",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1796,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg057.perseus-eng4"
+    }
+  ]
+}

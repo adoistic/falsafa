@@ -1,0 +1,31 @@
+---
+work_id: "650d9e3e-bb32-5c43-b67f-dd9c086e5a8f"
+work_slug: "pseudo-plutarch-de-fluviis-650d9e"
+work_title: De Fluviis
+author_name: "Pseudo-Plutarch"
+chapter_number: 20
+chapter_title: Chapter 21
+chapter_slug: 20
+variant_id: "65cb2ddb-8299-557e-a6b4-b4e16fd7e168"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 532
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0094.tlg001.perseus-eng2:20"
+translator: R. White
+---
+
+CAICUS is a river of Mysia, formerly called Astraeus, from Astraeus the son of Neptune. For he, in the height of Minerva’s nocturnal solemnities having deflowered his sister by a mistake, took a ring at the same time from her finger; by which when he understood the next day the error which he had committed, for grief he threw himself headlong into the river Adurus, which from thence was called Astraeus. Afterwards it came to be called Caicus upon this occasion.
+
+Caicus, the son of Hermes and Ocyrrhoe the Nymph, having slain Timander one of the noblemen of the country, and fearing the revenge of his relations, flung himself into the river Astraeus, which from that accident was called Caicus.
+
+In this river grows a sort of poppy, which instead of fruit bears stones. Of these there are some which are black and shaped like harps, which the Mysians throw upon their ploughed lands; and if the stones lie still in the place where they are thrown, it is a sign of a barren year; but if they fly away like so many locusts, they prognosticate a plentiful harvest.
+
+In the same river also grows an herb which is called elipharmacus, which the physicians apply to such as are troubled with immoderate fluxes of blood, as having a peculiar virtue to stop the orifices of the veins;—according to the relation of Timagoras in his First Book of Rivers.
+
+Adjoining to the banks of this river lies the mountain Teuthras, so called from Teuthras king of the Mysians; who in pursuance of his sport, as he was a hunting, ascending the hill Thrasyllus and seeing a monstrous wild boar, followed him close with the rest of his train. On the other side, the boar, to prevent the hunters, like a suppliant fled to the temple of Orthosian Diana, into which when the hunters were about to force their entrance, the boar in articulate words cried out, Spare, O king, the nursling of the Goddess. However, Teuthras, exalted with his good success, killed the poor boar. At which Diana was so highly offended, that she restored the boar to life, but struck the offender with scurf and madness. Which affliction the king not enduring betook himself to the tops of the mountains. But his mother Leucippe, understanding what had befallen her son, ran to the forest, taking along with her the soothsayer Polyidus, the son of Coeranus; by whom being informed of all the several circumstances of the matter, by many sacrifices she at last atoned the anger of the Goddess, and having quite recovered and cured her son, erected an altar to Orthosian Diana, and caused a golden boar to be made with a man’s face. Which to this day, if pursued by the hunters, enters the temple, and speaks with the voice of a man the word spare. Thus Teuthras, being restored to his former health, called the mountain by his own name Teuthras.
+
+In this mountain grows a stone called antipathes (or the resister), which is of excellent virtue to cure scabs and leprosies, being powdered and mixed with wine;—as Ctesias the Cnidian tells us in his Second Book of Mountains.

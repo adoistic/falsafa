@@ -1,0 +1,38 @@
+{
+  "work_slug": "diogenes-laertius-vitae-philosophorum-bafbb3",
+  "work_title": "Vitae philosophorum",
+  "chapter_number": 10,
+  "chapter_title": "Book 10",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c413abe8-996a-5a8f-9932-f602dd2ed453",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 14092,
+      "paragraph_count": 315,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0004.tlg001.perseus-grc2:10"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "32136dd6-fe76-523a-8410-5251f085f250",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 19989,
+      "paragraph_count": 253,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0004.tlg001.perseus-eng2:10"
+    }
+  ]
+}

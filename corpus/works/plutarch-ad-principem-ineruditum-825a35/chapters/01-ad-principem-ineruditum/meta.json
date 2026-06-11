@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-ad-principem-ineruditum-825a35",
+  "work_title": "Ad principem ineruditum",
+  "chapter_number": 1,
+  "chapter_title": "Ad principem ineruditum",
+  "chapter_slug": "01-ad-principem-ineruditum",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "59ec9e4b-332d-52f2-9b95-eff757ffe6bb",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1590,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg116.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "438c8ebc-33fc-5d3a-aa08-b28bc922ffb7",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2413,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg116.perseus-eng4"
+    }
+  ]
+}

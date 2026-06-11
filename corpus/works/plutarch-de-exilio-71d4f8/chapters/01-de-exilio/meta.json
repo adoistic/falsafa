@@ -1,0 +1,39 @@
+{
+  "work_slug": "plutarch-de-exilio-71d4f8",
+  "work_title": "De exilio",
+  "chapter_number": 1,
+  "chapter_title": "De exilio",
+  "chapter_slug": "01-de-exilio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose",
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "71ac686b-c576-524a-9730-0fbe9cf1b02e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3916,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg110.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "854315f2-9475-58cc-8f38-3f6f73159591",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6633,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg110.perseus-eng2"
+    }
+  ]
+}

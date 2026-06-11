@@ -1,0 +1,38 @@
+{
+  "work_slug": "didache-didache-911275",
+  "work_title": "Didache",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e3131cbc-bf67-527d-9865-32a367559b98",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 241,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1311.tlg001.1st1K-grc1:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f64294b4-cbad-5cda-b9b5-e191cca218f3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 350,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg1311.tlg001.perseus-eng1:4"
+    }
+  ]
+}

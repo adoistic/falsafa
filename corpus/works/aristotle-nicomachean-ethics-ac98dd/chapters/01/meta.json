@@ -1,0 +1,38 @@
+{
+  "work_slug": "aristotle-nicomachean-ethics-ac98dd",
+  "work_title": "Nicomachean Ethics",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3d6a4361-7c14-50ad-bf62-dbd7659bc4ce",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5612,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg010.perseus-grc2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b3549fee-aa9e-594f-aa94-c03c40c2ae9e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9402,
+      "paragraph_count": 153,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg010.perseus-eng2:1"
+    }
+  ]
+}

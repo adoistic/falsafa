@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-deuteronomy-6d696d",
+  "work_title": "Deuteronomy",
+  "chapter_number": 12,
+  "chapter_title": "Chapter 12",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0d2e9a9c-58dc-5ae7-8a6e-9c896e74c89f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1262,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg005.1st1K-grc1:12"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "db9172f5-8c68-5feb-955f-dfbfd0ab53f6",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1045,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg005.perseus-eng2:12"
+    }
+  ]
+}

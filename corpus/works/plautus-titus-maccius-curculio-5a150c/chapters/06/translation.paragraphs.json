@@ -1,0 +1,822 @@
+[
+  {
+    "id": "p-5a6d0b",
+    "offset": 0,
+    "text": "(Enter CURCULIO, with a ring, from the house of PHAEDROMUS.)"
+  },
+  {
+    "id": "p-4d9404",
+    "offset": 62,
+    "text": "CURCULIO:\nI’ve heard that an ancient Poet wrote in a Tragedy, that two women are worse than one; such is the fact. But a more crafty woman than is this mistress of Phaedromus, I never saw or heard of, nor, i’ faith, can one be spoken of or imagined;"
+  },
+  {
+    "id": "p-073db8",
+    "offset": 313,
+    "text": "she, as soon as ever she saw that I had got this ring, asked me whence I got it. Why do you ask that? said I. Because I’ve need to know, said she. I said I wouldn’t tell her. To get it away, she seized hold of my hand with her teeth. With much ado I betook me out of doors, and made my escape. Away with this slut."
+  },
+  {
+    "id": "p-f989f5",
+    "offset": 629,
+    "text": "(Enter PLANESIUM, followed by PHAEDROMUS, from his house.)"
+  },
+  {
+    "id": "p-44f232",
+    "offset": 689,
+    "text": "PLANESIUM:\nMy Phaedromus, make haste."
+  },
+  {
+    "id": "p-b3b540",
+    "offset": 728,
+    "text": "PHAEDROMUS:\nMake haste for what?"
+  },
+  {
+    "id": "p-8840bc",
+    "offset": 762,
+    "text": "PLANESIUM:\nThat you mayn’t let the Parasite escape;"
+  },
+  {
+    "id": "p-73e527",
+    "offset": 815,
+    "text": "the affair’s of consequence."
+  },
+  {
+    "id": "p-9e22fe",
+    "offset": 845,
+    "text": "PHAEDROMUS:\nNothing have I of consequence; for what I did have I quickly made away with?\n(Seizes CURCULIO.)\nI’ve got him;"
+  },
+  {
+    "id": "p-f05271",
+    "offset": 968,
+    "text": "what’s the matter?"
+  },
+  {
+    "id": "p-228978",
+    "offset": 988,
+    "text": "PLANESIUM:\nAsk him whence he got that ring: my father used to wear it."
+  },
+  {
+    "id": "p-65d0eb",
+    "offset": 1060,
+    "text": "CURCULIO:\nWhy, troth, and so did my aunt."
+  },
+  {
+    "id": "p-cf7dbf",
+    "offset": 1103,
+    "text": "PLANESIUM:\nMy mother gave it him to wear."
+  },
+  {
+    "id": "p-e867a5",
+    "offset": 1146,
+    "text": "CURCULIO:\nAnd your father, in his turn, to me."
+  },
+  {
+    "id": "p-d8cf09",
+    "offset": 1194,
+    "text": "PLANESIUM:\nYou are talking nonsense."
+  },
+  {
+    "id": "p-51b9c8",
+    "offset": 1232,
+    "text": "CURCULIO:\nI’m in the habit; for by reason of it I make a livelihood the more easily. What is the matter now?"
+  },
+  {
+    "id": "p-9f9ee4",
+    "offset": 1342,
+    "text": "PLANESIUM:\nI entreat you, don’t be keeping me from finding my parents."
+  },
+  {
+    "id": "p-8df682",
+    "offset": 1414,
+    "text": "CURCULIO:\nHow can I? Have I got your father and mother hidden beneath the stone? (Holding up the ring.)"
+  },
+  {
+    "id": "p-f8367c",
+    "offset": 1519,
+    "text": "PLANESIUM:\nI was born a free woman."
+  },
+  {
+    "id": "p-3bfd8f",
+    "offset": 1556,
+    "text": "CURCULIO:\nAnd so were many others, who are now in servitude."
+  },
+  {
+    "id": "p-14e6cb",
+    "offset": 1618,
+    "text": "PLANESIUM:\nReally now, I’m vexed."
+  },
+  {
+    "id": "p-2fec0f",
+    "offset": 1653,
+    "text": "CURCULIO:\nFor my part, I’ve told you how this came into my possession. How often must you be told? I cheated the Captain at dice, I tell you.\n(THERAPONTIGONUS.)"
+  },
+  {
+    "id": "p-c7205c",
+    "offset": 1815,
+    "text": "THERAPONTIGONUS:\n(eyeing CURCULIO.)\nI’m all right; see, here he is whom I was looking for. How do you do, good sir?"
+  },
+  {
+    "id": "p-fd62f5",
+    "offset": 1932,
+    "text": "CURCULIO:\nI hear you; three casts of the dice, if you like, even for that scarf of yours."
+  },
+  {
+    "id": "p-2f230d",
+    "offset": 2023,
+    "text": "THERAPONTIGONUS:\nWhy don’t you go to very perdition, with your casts and catch-pennies? Either give me back the money or the young woman?"
+  },
+  {
+    "id": "p-147ae3",
+    "offset": 2162,
+    "text": "CURCULIO:\n(with an air of surprise.)\nWhat money? what rubbish are you talking about to me? What young woman are you demanding back of me?"
+  },
+  {
+    "id": "p-fdcf7f",
+    "offset": 2301,
+    "text": "THERAPONTIGONUS:\nThe one that you took away this day from the Procurer, you scoundrelly fellow."
+  },
+  {
+    "id": "p-6a710a",
+    "offset": 2398,
+    "text": "CURCULIO:\nI took none away."
+  },
+  {
+    "id": "p-009801",
+    "offset": 2427,
+    "text": "THERAPONTIGONUS:\nWhy, surely, I see her. There she is. (Pointing to PLANESIUM.)"
+  },
+  {
+    "id": "p-43c304",
+    "offset": 2508,
+    "text": "PHAEDROMUS:\nThis young woman is free."
+  },
+  {
+    "id": "p-56633f",
+    "offset": 2547,
+    "text": "THERAPONTIGONUS:\nWhat, my female slave free, to whom I have never given her liberty?"
+  },
+  {
+    "id": "p-8706ba",
+    "offset": 2633,
+    "text": "PHAEDROMUS:\nWho gave you possession of her, or of whom did you buy her? Let me know that?"
+  },
+  {
+    "id": "p-4240bd",
+    "offset": 2724,
+    "text": "THERAPONTIGONUS:\nWhy, I paid the money for her through my banker—a sum which I’ll have refunded to me fourfold by you and the Procurer."
+  },
+  {
+    "id": "p-c3fb1e",
+    "offset": 2861,
+    "text": "PHAEDROMUS:\nYou, who understand how to traffic in young women, kidnapped and of free birth, come you before the judge."
+  },
+  {
+    "id": "p-819edf",
+    "offset": 2981,
+    "text": "THERAPONTIGONUS:\nI shan’t come."
+  },
+  {
+    "id": "p-abcffb",
+    "offset": 3014,
+    "text": "PHAEDROMUS:\nI may call my witness to the summons."
+  },
+  {
+    "id": "p-fc2a02",
+    "offset": 3065,
+    "text": "THERAPONTIGONUS:\nNo, you mayn’t."
+  },
+  {
+    "id": "p-8c2e2d",
+    "offset": 3099,
+    "text": "PHAEDROMUS:\nMay Jupiter then utterly confound you: live without witnesses then."
+  },
+  {
+    "id": "p-d90134",
+    "offset": 3180,
+    "text": "CURCULIO:\nBut I’m a person that he may summon."
+  },
+  {
+    "id": "p-d94185",
+    "offset": 3228,
+    "text": "PHAEDROMUS:\n(to CURCULIO.)\nDo you step this way."
+  },
+  {
+    "id": "p-4ede56",
+    "offset": 3278,
+    "text": "THERAPONTIGONUS:\nWhat? A slave summoned as a witness?"
+  },
+  {
+    "id": "p-966d0e",
+    "offset": 3333,
+    "text": "Take you care."
+  },
+  {
+    "id": "p-0cc952",
+    "offset": 3349,
+    "text": "CURCULIO:\nWell, that you may know it, I’m free."
+  },
+  {
+    "id": "p-3ad3e3",
+    "offset": 3398,
+    "text": "THERAPONTIGONUS:\nThen come before the judge."
+  },
+  {
+    "id": "p-53fa8f",
+    "offset": 3444,
+    "text": "There’s for you: take that.\n(Gives him a blow.)"
+  },
+  {
+    "id": "p-4042bf",
+    "offset": 3493,
+    "text": "CURCULIO:\nO townsmen, townsmen, help."
+  },
+  {
+    "id": "p-2b6b30",
+    "offset": 3532,
+    "text": "THERAPONTIGONUS:\nWhy do you bawl so?"
+  },
+  {
+    "id": "p-20040f",
+    "offset": 3570,
+    "text": "PHAEDROMUS:\nWhat right have you to strike him?"
+  },
+  {
+    "id": "p-6527c6",
+    "offset": 3618,
+    "text": "THERAPONTIGONUS:\nBecause I choose."
+  },
+  {
+    "id": "p-cca31e",
+    "offset": 3654,
+    "text": "PHAEDROMUS:\n(to CURCULIO.)\nStep this way you (pushes him towards the CAPTAIN); there, I’ll give him up to you. Hold your noise."
+  },
+  {
+    "id": "p-5d80ac",
+    "offset": 3783,
+    "text": "CURCULIO:\nPhaedromus, prithee do save me."
+  },
+  {
+    "id": "p-5e54af",
+    "offset": 3826,
+    "text": "PHAEDROMUS:\nAs I would myself and my own good Genius. Captain, prithee, do tell me whence you got that ring, which this Parasite purloined from you."
+  },
+  {
+    "id": "p-477466",
+    "offset": 3976,
+    "text": "PLANESIUM:\n(kneeling before the CAPTAIN.)\nBy your knees, I do entreat you to give us that information."
+  },
+  {
+    "id": "p-177ddc",
+    "offset": 4080,
+    "text": "THERAPONTIGONUS:\nWhat matters that to you? You might as well ask after this sabre and this scarf, how each came into my possession."
+  },
+  {
+    "id": "p-2bab27",
+    "offset": 4213,
+    "text": "CURCULIO:\nWhat airs the swaggerer does give himself!"
+  },
+  {
+    "id": "p-3d28dc",
+    "offset": 4267,
+    "text": "THERAPONTIGONUS:\nSend that fellow away (pointing to CURCULIO); then I’ll tell you all."
+  },
+  {
+    "id": "p-799105",
+    "offset": 4355,
+    "text": "CURCULIO:\nIt’s nonsense what he says."
+  },
+  {
+    "id": "p-e9aaf5",
+    "offset": 4394,
+    "text": "PHAEDROMUS:\nPrithee, do let me know."
+  },
+  {
+    "id": "p-15d679",
+    "offset": 4432,
+    "text": "THERAPONTIGONUS:\nI’ll tell you: (to PLANESIUM) get up. Listen to this matter, and give attention. My father Periphanes used to wear it."
+  },
+  {
+    "id": "p-3a5de8",
+    "offset": 4569,
+    "text": "PLANESIUM:\nHa! Periphanes?"
+  },
+  {
+    "id": "p-4d669d",
+    "offset": 4597,
+    "text": "THERAPONTIGONUS:\nHe, before he died, gave it to me as being his son, as it was right he should."
+  },
+  {
+    "id": "p-8bfd60",
+    "offset": 4694,
+    "text": "PLANESIUM:\nO Jupiter!"
+  },
+  {
+    "id": "p-34efd5",
+    "offset": 4717,
+    "text": "THERAPONTIGONUS:\nAnd on that occasion he made me his heir."
+  },
+  {
+    "id": "p-6fe9e3",
+    "offset": 4777,
+    "text": "PLANESIUM:\nO filial affection, do thou preserve me, since I have carefully preserved thee. Welcome, my brother."
+  },
+  {
+    "id": "p-ae088a",
+    "offset": 4890,
+    "text": "THERAPONTIGONUS:\nHow am I to believe that? Tell me, if you are speaking the truth, who was your mother?"
+  },
+  {
+    "id": "p-bc8ede",
+    "offset": 4995,
+    "text": "PLANESIUM:\nCleobula."
+  },
+  {
+    "id": "p-04ee75",
+    "offset": 5017,
+    "text": "THERAPONTIGONUS:\nWho was your nurse?"
+  },
+  {
+    "id": "p-e3ae6c",
+    "offset": 5055,
+    "text": "PLANESIUM:\nArchestrata."
+  },
+  {
+    "id": "p-a83495",
+    "offset": 5080,
+    "text": "Amid the sacred rites of Bacchus she had carried me to see the sights after we had come thither, when now she had found me a place, a whirlwind arose; the scaffolding of the stage there tumbled down; I was greatly alarmed, and then some one, I know not who, seized hold of me trembling and frightened, neither alive nor dead;"
+  },
+  {
+    "id": "p-6925e0",
+    "offset": 5407,
+    "text": "and in what manner he carried me off I cannot say."
+  },
+  {
+    "id": "p-98f717",
+    "offset": 5459,
+    "text": "THERAPONTIGONUS:\nI recollect that disturbance happening; but, do you tell me, where is this person, who carried you away?"
+  },
+  {
+    "id": "p-bfac65",
+    "offset": 5582,
+    "text": "PLANESIUM:\nI know not; but (showing a ring) this ring I have all along preserved by me, with it long since was I lost."
+  },
+  {
+    "id": "p-a7f0aa",
+    "offset": 5702,
+    "text": "THERAPONTIGONUS:\nGive it me to look at."
+  },
+  {
+    "id": "p-2a1d08",
+    "offset": 5743,
+    "text": "CURCULIO:\n(to PLANESIUM.)\nAre you in your senses to be trusting it to that fellow?\n(Holds her arm.)"
+  },
+  {
+    "id": "p-a2eee0",
+    "offset": 5844,
+    "text": "PLANESIUM:\nDo you only leave me alone.\n(She gives it to the CAPTAIN.)"
+  },
+  {
+    "id": "p-109828",
+    "offset": 5915,
+    "text": "THERAPONTIGONUS:\n(examining it.)\nO Jupiter! This is the same that I presented you upon your birthday; I recognize it as easily as my own self. Welcome to you, my sister."
+  },
+  {
+    "id": "p-673c18",
+    "offset": 6086,
+    "text": "PLANESIUM:\nMy brother, welcome to you."
+  },
+  {
+    "id": "p-d648bb",
+    "offset": 6126,
+    "text": "PHAEDROMUS:\nI trust the Gods will prosper this matter for you."
+  },
+  {
+    "id": "p-30ceb6",
+    "offset": 6190,
+    "text": "CURCULIO:\nAnd I, for all of us.\n(To the CAPTAIN.)\nDo you, as having this day arrived, give a dinner in honor of your sister he (pointing to PHAEDROMUS), to-morrow, will give one in honor of his marriage; we promise that."
+  },
+  {
+    "id": "p-a27dc1",
+    "offset": 6412,
+    "text": "PHAEDROMUS:\n(to CURCULIO.)\nDo you hold your tongue."
+  },
+  {
+    "id": "p-271640",
+    "offset": 6465,
+    "text": "CURCULIO:\nI shan’t hold my tongue, as things are turning out so well. Captain, do you promise her to him; I’ll give the marriage-portion."
+  },
+  {
+    "id": "p-9f85f5",
+    "offset": 6604,
+    "text": "THERAPONTIGONUS:\nWhat is the marriage-portion?"
+  },
+  {
+    "id": "p-5c7244",
+    "offset": 6652,
+    "text": "CURCULIO:\nWhat, that I give? Why, that always as long as he lives he’s to feed me."
+  },
+  {
+    "id": "p-135e99",
+    "offset": 6736,
+    "text": "THERAPONTIGONUS:\nI’ troth, he says what’s fair;"
+  },
+  {
+    "id": "p-da2703",
+    "offset": 6785,
+    "text": "with my consent you shall do so."
+  },
+  {
+    "id": "p-7e4d45",
+    "offset": 6819,
+    "text": "But this Procurer owes me the thirty minae."
+  },
+  {
+    "id": "p-c2e6a9",
+    "offset": 6864,
+    "text": "PHAEDROMUS:\nFor what reason so?"
+  },
+  {
+    "id": "p-7c0fe0",
+    "offset": 6897,
+    "text": "THERAPONTIGONUS:\nBecause he agreed with me on these terms to give it back: that if any one should assert her to be free born in due course of law, he would, without dispute, pay back all the money."
+  },
+  {
+    "id": "p-6f7037",
+    "offset": 7096,
+    "text": "CURCULIO:\nThen let’s go to the Procurer."
+  },
+  {
+    "id": "p-f2d05d",
+    "offset": 7138,
+    "text": "THERAPONTIGONUS:\nI agree."
+  },
+  {
+    "id": "p-f80d22",
+    "offset": 7165,
+    "text": "PHAEDROMUS:\nThis first I wish; to despatch my matter."
+  },
+  {
+    "id": "p-1c8db7",
+    "offset": 7220,
+    "text": "THERAPONTIGONUS:\nWhat’s that?"
+  },
+  {
+    "id": "p-86ff74",
+    "offset": 7251,
+    "text": "PHAEDROMUS:\nThat you will betroth her to me.\n(The CAPTAIN considers.)"
+  },
+  {
+    "id": "p-c2e633",
+    "offset": 7322,
+    "text": "CURCULIO:\nWhy do you hesitate, Captain, to give her as a wife to him?"
+  },
+  {
+    "id": "p-d5b514",
+    "offset": 7393,
+    "text": "THERAPONTIGONUS:\nIf she is agreable."
+  },
+  {
+    "id": "p-7c9bc3",
+    "offset": 7431,
+    "text": "PLANESIUM:\nMy brother, it is my wish."
+  },
+  {
+    "id": "p-41cd38",
+    "offset": 7470,
+    "text": "THERAPONTIGONUS:\nSo be it then."
+  },
+  {
+    "id": "p-669c71",
+    "offset": 7503,
+    "text": "CURCULIO:\nYou do rightly."
+  },
+  {
+    "id": "p-5e2250",
+    "offset": 7530,
+    "text": "PHAEDROMUS:\nCaptain, do you betroth me to her for my wife?"
+  },
+  {
+    "id": "p-f39119",
+    "offset": 7590,
+    "text": "THERAPONTIGONUS:\nI do betroth her."
+  },
+  {
+    "id": "p-031709",
+    "offset": 7626,
+    "text": "PHAEDROMUS:\n(pointing to CURCULIO.)\nAnd to him do I promise support at my expense."
+  },
+  {
+    "id": "p-f8f934",
+    "offset": 7710,
+    "text": "CURCULIO:\nYou do kindly. But"
+  },
+  {
+    "id": "p-cd73f2",
+    "offset": 7740,
+    "text": "THER,:\nBut see, here’s the Procurer coming; my treasurer, I mean."
+  },
+  {
+    "id": "p-c89416",
+    "offset": 7807,
+    "text": "(Enter CAPPADOX, in haste.)"
+  },
+  {
+    "id": "p-8b5c0a",
+    "offset": 7836,
+    "text": "CAPPADOX:\n(to himself.)\nThose who say it’s bad for bankers to be trusted, utter nonsense;"
+  },
+  {
+    "id": "p-2a8e5d",
+    "offset": 7927,
+    "text": "I say it’s neither good nor bad for them to be trusted, and that, I’ve fully experienced this day. They are not badly trusted, who never repay, but with whom it is lost outright. As for example, before this Lyco paid me the ten minae, he had to go to every banker’s counter. After there were no proceeds, I summoned the fellow with much noise; he appealed against me to the court. I was most confoundedly afraid that this day he’d be settling accounts with me before the Praetor;"
+  },
+  {
+    "id": "p-dc431f",
+    "offset": 8408,
+    "text": "but my friends forced him, so he paid the money at home. Now I’m resolved to make haste to my house."
+  },
+  {
+    "id": "p-52b8e8",
+    "offset": 8510,
+    "text": "(Runs towards his door.)"
+  },
+  {
+    "id": "p-14f9f4",
+    "offset": 8536,
+    "text": "THERAPONTIGONUS:\nHallo! you Procurer; I want you."
+  },
+  {
+    "id": "p-dd66ee",
+    "offset": 8587,
+    "text": "PHAEDROMUS:\nAnd I want you."
+  },
+  {
+    "id": "p-c2ccbd",
+    "offset": 8616,
+    "text": "CAPPADOX:\nBut I don’t want either of you."
+  },
+  {
+    "id": "p-2526e0",
+    "offset": 8659,
+    "text": "THERAPONTIGONUS:\nStay this instant, will you."
+  },
+  {
+    "id": "p-4c7ca1",
+    "offset": 8706,
+    "text": "PHAEDROMUS:\nAnd make you haste to disgorge the money with all despatch."
+  },
+  {
+    "id": "p-02c974",
+    "offset": 8779,
+    "text": "CAPPADOX:\n(to PHAEDROMUS.)\nWhat have you to do with me? (To the CAPTAIN.) Or what have you?"
+  },
+  {
+    "id": "p-2f97a1",
+    "offset": 8872,
+    "text": "THERAPONTIGONUS:\nBecause this day I shall be making a javelin of you, discharged from a catapulta, and twist you with the string, just as the catapultas are in the habit of doing."
+  },
+  {
+    "id": "p-d0bf6c",
+    "offset": 9053,
+    "text": "PHAEDROMUS:\nI’ll this day make a coxcomb of you, to be sleeping with a puppy in your bed—an iron one, I mean."
+  },
+  {
+    "id": "p-90c296",
+    "offset": 9164,
+    "text": "CAPPADOX:\nBut I’ll make you both to be rotting in a strong-barred prison."
+  },
+  {
+    "id": "p-fdb4cb",
+    "offset": 9239,
+    "text": "THERAPONTIGONUS:\nSeize him by the throat, and away with him to extreme torture."
+  },
+  {
+    "id": "p-c9f631",
+    "offset": 9320,
+    "text": "PHAEDROMUS:\nHowever that is, he’ll be going there of his own accord.\n(The CAPTAIN seizes him.)"
+  },
+  {
+    "id": "p-032c11",
+    "offset": 9416,
+    "text": "CAPPADOX:\nO Gods and men, your aid!"
+  },
+  {
+    "id": "p-1114a3",
+    "offset": 9453,
+    "text": "that I, uncondemned, and without evidence against me, should thus be dragged along! Prithee, Planesium, and you, Phaedromus, do give me assistance."
+  },
+  {
+    "id": "p-6be550",
+    "offset": 9602,
+    "text": "PLANESIUM:\nBrother, I do beseech you, don’t ruin him uncondemned; he treated me kindly and modestly at his house."
+  },
+  {
+    "id": "p-cbc762",
+    "offset": 9717,
+    "text": "THERAPONTIGONUS:\nThat was through no inclination of his own; give you thanks to this Aesculapius (pointing to the Temple) that you’ve preserved your chastity;"
+  },
+  {
+    "id": "p-138d48",
+    "offset": 9877,
+    "text": "for if he had been well, he’d long ago have packed you off wherever he could."
+  },
+  {
+    "id": "p-f63b4a",
+    "offset": 9956,
+    "text": "PHAEDROMUS:\nNow attend to me, both of you, if I can arrange between you. (To the CAPTAIN.) You let him go. Procurer, come you this way. I’ll pronounce my opinion, if indeed you are ready to abide by what I shall decide you should do."
+  },
+  {
+    "id": "p-530363",
+    "offset": 10191,
+    "text": "THERAPONTIGONUS:\nWe leave it to you.\n(He lets go of the PROCURER.)"
+  },
+  {
+    "id": "p-f15255",
+    "offset": 10259,
+    "text": "CAPPADOX:\nSo long, i’ faith, as you give a decision to the effect that no one is to take the money away from me."
+  },
+  {
+    "id": "p-bdf39c",
+    "offset": 10373,
+    "text": "THERAPONTIGONUS:\nWhat, not that which you promised?"
+  },
+  {
+    "id": "p-7893b9",
+    "offset": 10426,
+    "text": "CAPPADOX:\nI, promised? How?"
+  },
+  {
+    "id": "p-fae232",
+    "offset": 10455,
+    "text": "THERAPONTIGONUS:\nWith your tongue."
+  },
+  {
+    "id": "p-e524f1",
+    "offset": 10491,
+    "text": "CAPPADOX:\nWith that same tongue I now gainsay it; that was given me by Nature for the purpose of speaking, not of losing my property."
+  },
+  {
+    "id": "p-69ab1f",
+    "offset": 10626,
+    "text": "THERAPONTIGONUS:\nHe’s trifling; seize the fellow by the throat.\n(Seizes him.)"
+  },
+  {
+    "id": "p-552947",
+    "offset": 10705,
+    "text": "CAPPADOX:\nI’ll at once then do as you bid me."
+  },
+  {
+    "id": "p-3bf129",
+    "offset": 10752,
+    "text": "THERAPONTIGONUS:\nSince you are an honest man, answer me this that I ask you."
+  },
+  {
+    "id": "p-364ac2",
+    "offset": 10830,
+    "text": "CAPPADOX:\nAsk me what you please."
+  },
+  {
+    "id": "p-492efb",
+    "offset": 10865,
+    "text": "THERAPONTIGONUS:\nDid you not promise, that if any one should show that she (pointing to PLANESIUM) was freeborn, you would pay back all the money?"
+  },
+  {
+    "id": "p-952fbe",
+    "offset": 11013,
+    "text": "CAPPADOX:\nI don’t remember saying so."
+  },
+  {
+    "id": "p-6b4ee9",
+    "offset": 11052,
+    "text": "THERAPONTIGONUS:\nWhat, do you deny it?"
+  },
+  {
+    "id": "p-2f4d8a",
+    "offset": 11092,
+    "text": "CAPPADOX:\nI’ faith, I really do deny it. In whose presence? In what place was it?"
+  },
+  {
+    "id": "p-644f26",
+    "offset": 11175,
+    "text": "THERAPONTIGONUS:\nIn my own presence, and that of Lyco the banker."
+  },
+  {
+    "id": "p-f84793",
+    "offset": 11242,
+    "text": "CAPPADOX:\nWhy don’t you hold your tongue?"
+  },
+  {
+    "id": "p-b1ba47",
+    "offset": 11285,
+    "text": "THERAPONTIGONUS:\nI shan’t hold my tongue."
+  },
+  {
+    "id": "p-d79892",
+    "offset": 11328,
+    "text": "CAPPADOX:\nI don’t care a rush for you; don’t be bullying me."
+  },
+  {
+    "id": "p-94e7e8",
+    "offset": 11390,
+    "text": "THERAPONTIGONUS:\nIn my own presence and that of Lyco it took place."
+  },
+  {
+    "id": "p-03f54b",
+    "offset": 11459,
+    "text": "PHAEDROMUS:\n(to the CAPTAIN.)\nI quite believe you."
+  },
+  {
+    "id": "p-941683",
+    "offset": 11511,
+    "text": "Now, therefore, Procurer, that you may know my judgment, (pointing to PLANESIUM) she is a free woman; he (pointing to the CAPTAIN) is her brother, and she is his sister; she is engaged to me; do you restore him the money; that’s my decision."
+  },
+  {
+    "id": "p-5a1ccb",
+    "offset": 11754,
+    "text": "CAPPADOX:\nUpon my faith, Phaedromus, you have given this decision corruptly."
+  },
+  {
+    "id": "p-dfb7bb",
+    "offset": 11832,
+    "text": "It shall both be bad for you, and you, Captain,—may the Gods and Goddesses confound you."
+  },
+  {
+    "id": "p-dc1deb",
+    "offset": 11922,
+    "text": "THERAPONTIGONUS:\nAnd as for you, you shall be clapt in prison at once, unless the money’s returned me."
+  },
+  {
+    "id": "p-33e5db",
+    "offset": 12026,
+    "text": "CAPPADOX:\nThen follow me."
+  },
+  {
+    "id": "p-b18afa",
+    "offset": 12053,
+    "text": "THERAPONTIGONUS:\nFollow you where?"
+  },
+  {
+    "id": "p-d05ad5",
+    "offset": 12089,
+    "text": "CAPPADOX:\nTo my banker—to the Praetor; for it’s there that I pay my money to all persons to whom I’m indebted."
+  },
+  {
+    "id": "p-d7c29f",
+    "offset": 12201,
+    "text": "THERAPONTIGONUS:\nI’ll be carrying you hence to prison, and not to the Praetor, if you don’t pay back the money."
+  },
+  {
+    "id": "p-718b6e",
+    "offset": 12314,
+    "text": "CAPPADOX:\nI do most earnestly wish you may come to a bad end, so don’t misunderstand me."
+  },
+  {
+    "id": "p-9731eb",
+    "offset": 12404,
+    "text": "THERAPONTIGONUS:\nDo you really so?"
+  },
+  {
+    "id": "p-c6b4a2",
+    "offset": 12440,
+    "text": "CAPPADOX:\nI’ faith, I really do so."
+  },
+  {
+    "id": "p-5292de",
+    "offset": 12477,
+    "text": "THERAPONTIGONUS:\nI don’t misunderstand these fists of mine.\n(Holding them up.)"
+  },
+  {
+    "id": "p-7b39b5",
+    "offset": 12557,
+    "text": "CAPPADOX:\nWhat then?"
+  },
+  {
+    "id": "p-b8a7d5",
+    "offset": 12579,
+    "text": "THERAPONTIGONUS:\nWhat then, do you ask? With these same fists, if you provoke me, I’ll be making you quiet immediately."
+  },
+  {
+    "id": "p-06b8ed",
+    "offset": 12700,
+    "text": "CAPPADOX:\n(taking the money from his girdle.)\nWell then, take this back at once."
+  },
+  {
+    "id": "p-85d09a",
+    "offset": 12782,
+    "text": "THERAPONTIGONUS:\n(taking the money.)\nBy all means."
+  },
+  {
+    "id": "p-5e9d40",
+    "offset": 12834,
+    "text": "PHAEDROMUS:\nCaptain, you’ll dine with me; the nuptials shall take place to-day."
+  },
+  {
+    "id": "p-4d23e2",
+    "offset": 12915,
+    "text": "THERAPONTIGONUS:\nMay this matter turn out well for me and for yourselves."
+  },
+  {
+    "id": "p-675921",
+    "offset": 12990,
+    "text": "An ACTOR.:\nSpectators, give us your applause."
+  }
+]

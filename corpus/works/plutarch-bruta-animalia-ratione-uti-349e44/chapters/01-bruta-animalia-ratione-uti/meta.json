@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-bruta-animalia-ratione-uti-349e44",
+  "work_title": "Bruta animalia ratione uti",
+  "chapter_number": 1,
+  "chapter_title": "Bruta animalia ratione uti",
+  "chapter_slug": "01-bruta-animalia-ratione-uti",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1e841714-8c66-5665-9cb8-eb1c868228e5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3464,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg130.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5c6de4ee-aefb-5aa9-ab35-dec451d38a2c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5051,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg130.perseus-eng4"
+    }
+  ]
+}

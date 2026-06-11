@@ -1,0 +1,23 @@
+---
+work_id: "dfc42ffd-f8f9-5396-974f-9eb000416ab2"
+work_slug: "sallust-catilinae-coniuratio-dfc42f"
+work_title: Catilinae Coniuratio
+author_name: Sallust
+chapter_number: 12
+chapter_title: Chapter 11
+chapter_slug: 12
+variant_id: "2d129801-ec0d-5895-86cd-71186307c863"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 300
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0631.phi001.perseus-eng2:12"
+translator: Perseus Digital Library
+---
+
+At first, however, it was ambition, rather than avarice, that influenced the minds of men; a vice which approaches nearer to virtue than the other. For of glory, honor, and power, the worthy is as desirous as the worthless; but the one pursues them by just methods; the other, being destitute of honorable qualities, works with fraud and deceit. But avarice has merely money for its object, which no wise man has ever immoderately desired. It is a vice which, as if imbued with deadly poison, enervates whatever is manly in body or mind. It is always unbounded and insatiable, and is abated neither by abundance nor by want.
+
+But after Lucius Sylla, having recovered the government by force of arms, proceeded, after a fair commencement, to a pernicious termination, all became robbers and plunderers; some set their affections on houses, others on lands; his victorious troops knew neither restraint nor moderation, but inflicted on the citizens disgraceful and inhuman outrages. Their rapacity was increased by the circumstance that Sylla, in order to secure the attachment of the forces which he had commanded in Asia, had treated them, contrary to the practice of our ancestors, with extraordinary indulgence, and exemption from discipline; and pleasant and luxurious quarters had easily, during seasons of idleness, enervated the minds of the soldiery. Then the armies of the Roman people first became habituated to licentiousness and intemperance, and began to admire statues, pictures, and sculptured vases; to seize such objects alike in public edifices and private dwellings; to spoil temples; and to cast off respect for every thing, sacred and profane. Such troops, accordingly, when once they obtained the mastery, left nothing to be vanquished. Success unsettles the principles even of the wise, and scarcely would those of debauched habits use victory with moderation.

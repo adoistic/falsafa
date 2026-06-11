@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-on-the-peace-776c48",
+  "work_title": "On the Peace",
+  "chapter_number": 1,
+  "chapter_title": "On the Peace",
+  "chapter_slug": "01-on-the-peace",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ad1ad9f2-1900-5d7f-a4f4-00b2e1e84ae7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7926,
+      "paragraph_count": 145,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg017.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "86c84180-014d-5cf2-8b12-07ace6c1e856",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 12156,
+      "paragraph_count": 132,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg017.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-alexander-1ed01a",
+  "work_title": "Alexander",
+  "chapter_number": 39,
+  "chapter_title": "Chapter 39",
+  "chapter_slug": "39",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ab63d14e-268b-59a6-965e-eff3224abdf1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 391,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg047.perseus-grc2:39"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "336db0b7-e6a9-51dd-a122-376d9a7be2b5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 625,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg047.perseus-eng2:39"
+    }
+  ]
+}

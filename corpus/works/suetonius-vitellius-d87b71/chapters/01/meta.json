@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-vitellius-d87b71",
+  "work_title": "Vitellius",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "10f808b3-9a74-5df7-b635-bc566cde492a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 122,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo019.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "17910697-ca4c-5fc2-84a0-225283d556c1",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 314,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo019.perseus-eng2:1"
+    }
+  ]
+}

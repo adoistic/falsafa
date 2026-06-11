@@ -1,0 +1,38 @@
+{
+  "work_slug": "herodotus-the-histories-ecffbd",
+  "work_title": "The Histories",
+  "chapter_number": 4,
+  "chapter_title": "Book 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d9fe5284-28d8-5263-88f6-1907189b7d6e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 22388,
+      "paragraph_count": 578,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d860f5e9-5819-5b6f-8b5b-af7c812d67a4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 28060,
+      "paragraph_count": 564,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2:4"
+    }
+  ]
+}

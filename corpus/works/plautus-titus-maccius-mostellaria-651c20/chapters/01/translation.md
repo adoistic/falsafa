@@ -1,0 +1,29 @@
+---
+work_id: "651c2061-f474-53b1-8d80-e9c0b07a5769"
+work_slug: "plautus-titus-maccius-mostellaria-651c20"
+work_title: Mostellaria
+author_name: Plautus, Titus Maccius
+chapter_number: 1
+chapter_title: Chapter front
+chapter_slug: 01
+variant_id: "b2ed8ca2-62a7-506a-8c68-655bc0952c82"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 595
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi013.perseus-eng2:1"
+translator: Perseus Digital Library
+---
+
+Dramatis Personae
+
+THEUROPIDES, a merchant of. SIMO, an aged Athenian, his neighbour. PHILOLACHES, son of Theuropides. CALLIDAMATES, a young Athenian, friend of Philolaches TRANIO, servant of Philolaches. GRUMIO, servant of Theuropides. PHANISCUS, servant of Callidamates. ANOTHER SERVANT of Callidamates. A BANKER. A BOY. PHILEMATIUM, a music-girl, mistress of Phiolaches. SCAPHA, her attendant. DELPHIUM, mistress of Callidamates.
+
+(Scene— Athens; before the houses of THEUROPIDES and SIMO.)
+
+THE SUBJECT. WHILE Theuropides is absent from home on business, his son Philolaches leads a dissolute life at home with his friend Callidamates and his own servant Tranio While they are in the midst of their carousals, the father of Philolaches unexpectedly arrives at Athens. Their first impulse is to leave the house immediately, but, Callidamates being in a state of helpless intoxication, they are prevented from so doing. In this dilemma, Tranio undertakes to rescue them. He requests them to remain perfectly quiet in the house, and not to stir out of it. The house is then shut up, and he sallies forth to meet Theuropides. He pretends to him that the house has been shut up for some months past, in consequence of its being haunted. In the midst of the conversation, he is accosted by a Banker, who duns him for the interest of some money which Philolaches has borrowed of him for the purpose of procuring the freedom of Philematium, his mistress. Theuropides enquires what the money was borrowed for, on which Tranio says that Philolaches has purchased a house with it. On Theuropides making further enquiries, Tranio says that he has bought the house in which Simo is living. On this, Theuropides wishes to examine this new purchase, and sends Tranio to request Simo to allow him to do so, if not inconvenient. Tranio obtains the permission, Simo being ignorant of the object, and they go over the house, Theuropides being much pleased with his son’s bargain. Tranio is then sent by Theuropides into the country to fetch Philolaches thence, he having pretended that he is there. Shortly after, a servant of Callidamates comes to the house that is shut up to fetch his master home. Theuropides questions him, and then finds out the deception that has been practised upon him; and on receiving further information from Simo, who declares that he has not sold his own house, he resolves to punish Tranio. The latter, on finding this to be the case, runs to an altar for refuge. Callidamates, who is now sober, and has got out of the house by the back-gate, now makes his appearance, and, at his earnest intercession, pardon is granted by Theuropides to Philolaches and Tranio.
+
+THE ACROSTIC ARGUMENT. PHILOLACHES has given liberty to (Manumisit) his mistress who has been bought by him, and he consumes all (Omnem) his substance in the absence of his father. When he returns, Tranio deceives the old man (Senem); he says that frightful (Terrifica) apparitions have been seen in the house, and (Et) that at once they had removed from it. A Usurer, greedy of gain (Lucripeta), comes up in the meantime, asking for the interest of some money, and again the old man is made sport of (Lusus); for the servant says that a deposit for a house which has been bought has been taken up (Acceptum) on loan. The old man enquires (Requirit) which it is; he says that of the neighbour next door. He then looks over (Inspectat) it. Afterwards he is vexed that he has been laughed at; still by (Ab) the companion of his son he is finally appeased.

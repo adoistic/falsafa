@@ -1,0 +1,38 @@
+{
+  "work_slug": "columella-lucius-junius--res-rustica-2dc1aa",
+  "work_title": "Res Rustica",
+  "chapter_number": 7,
+  "chapter_title": "Book 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1685f0ff-ddf0-56ae-8b90-18f7f51611c8",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1144,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0845.phi002.perseus-lat3:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c84c3e30-7b4d-5270-8823-48e9d9643669",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 13065,
+      "paragraph_count": 153,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0845.phi002.perseus-eng1:7"
+    }
+  ]
+}

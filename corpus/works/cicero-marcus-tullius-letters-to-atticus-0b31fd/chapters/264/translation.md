@@ -1,0 +1,23 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 264
+chapter_title: "Chapter text=A:book=12:letter=18"
+chapter_slug: 264
+variant_id: "c1af3208-faea-526d-864b-8d82dd983027"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 483
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:264"
+translator: Perseus Digital Library
+---
+
+TO ATTICUS (AT ROME) ASTURA (11 MARCH)
+
+To fly from recollections, which make my soul smart as though it were stung, I take refuge in recalling my plans to your memory. Pray pardon me, whatever you think of this one. The fact is that I find that some of the authors, whom I am now continually reading, suggest as a proper thing to do just what I have often discussed with you, and for which I desire your approval. I mean about the shrine-pray think of it as earnestly as your affection for me should suggest. About the design I do not feel any doubt, for I like that of Cluatius, nor about the building of it at all—for to that I have made up my mind: but about the site I do sometimes hesitate. Pray therefore think over it. To the fullest capacity of such an enlightened age, I am quite resolved to consecrate her memory by every kind of memorial borrowed from the genius of every kind of artist, Greek or Latin. This may perhaps serve to irritate my wound: but I look upon myself as now bound by a kind of vow and promise. And the infinite time during which I shall be non-existent has more influence on me than this brief life, which yet to me seems only too long. For though I have tried every expedient, I find nothing to give me peace of mind. For even when I was composing that essay, of which I wrote to you before, I was in a way nursing my sorrow. Now I reject every consolation, and find nothing more endurable than solitude, which Philippus did not, as I feared, disturb. For after calling on me yesterday, he started at once for Rome. The letter which, in accordance with your advice, I have written to Brutus I herewith send you. Please see it delivered to him with your own. However, I am sending you a copy of it, in order that, if you disapprove, you should not send it. You say my domestic affairs are being managed properly: please tell me what they are. For there are some points on which I am expecting to hear. See that Cocceius does not play me false. For Libo's promise, mentioned by Eros in his letter, I regard as secure. As to my capital, I trust Sulpicius, and, of course, Egnatius. About Appuleius why need you trouble yourself, when my excuse is so easily made? Your coming to me, as you shew an intention of doing, may, I fear, be difficult for you. It is a long journey, and when you went away again, which you will perhaps have to do very quickly, I should be unable to let you go without great pain. But all as you choose. Whatever you do will in my eyes be right, and done also in my interest.

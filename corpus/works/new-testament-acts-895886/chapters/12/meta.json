@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-acts-895886",
+  "work_title": "Acts",
+  "chapter_number": 12,
+  "chapter_title": "Chapter 12",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fa1218cc-34ee-5bb9-a61c-d52da67f2f68",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 492,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg005.perseus-grc2:12"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e7df4fe-b56e-58c7-bde2-deb8687ec2a8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 623,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg005.perseus-eng2:12"
+    }
+  ]
+}

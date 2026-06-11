@@ -1,0 +1,25 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 12
+chapter_title: "Chapter text=A:book=1:letter=12"
+chapter_slug: 12
+variant_id: "ff49f1a8-2971-5f89-ba36-599fc497217c"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 593
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:12"
+translator: Perseus Digital Library
+---
+
+The letters of this year are much concerned with the sacrilege of P. Clodius, who, it was alleged, had been detected in disguise in the house of the Pontifex Maximus Iulius Caesar, when his wife was celebrating the mysteries of the Bona Dea, from which males were excluded. His trial was made the occasion of bitter party struggles, and by giving evidence in contradiction of Clodius's alibi Cicero incurred his enmity, and eventually, therefore, his own exile. Quintus is propraetor in Asia, Caesar in Spain. Pompey reached Rome early this year. The ordo equester is much irritated with the senate on the question of the contracts for the collection of the Asiatic taxes.
+
+TO ATTICUS (IN EPIRUS) ROME, I JANUARY
+
+The Teucris business hangs fire, and Cornelius has not called on Terentia since. I suppose I must have recourse to Considius, Axius, and Selicius: for his nearest relations can't get a penny out of Caecilius a under twelve per cent. But to return to my first remark: I never saw anything more shameless, artful, and dilatory. "I am on the point of sending my freedman," "I have commissioned Titus"—excuses and delays at every turn! But perhaps it is a case of l'homme propose, for Pompey's advance couriers tell me that he means to move in the senate that a successor to Antonius ought to be named, and the praetor intends to bring the proposal before the people at the same time. The facts are such that I cannot defend him in view of the opinion either of the aristocrats or the people, and, what is more than anything else, that I have no wish to do so. For a thing has happened into the truth of which I charge you to look thoroughly. I have a freedman, who is a worthless fellow enough; I mean Hilarus, an accountant and a client of your own. The interpreter Valerius gives me this information about him, and Thyillus writes me word that he has been told the same story: that the fellow is with Antonius, and that Antonius, in exacting money payments, frequently remarks that a part is being collected for me, and that I have sent a freedman to look after our common interests. I felt exceedingly disturbed, and yet could not believe it; but at any rate there has been some gossip of the sort. Pray look into the whole matter, learn the truth, find out the author, and get the empty-headed idiot out of the Country, if you possibly can. Valerius mentions Cn. Plancius as the origin of this gossip. I trust you thoroughly to investigate and find out what is at the bottom of it. I have good reason to believe that Pompey is most kindly disposed to me. His divorce of Mucia is strongly approved. I suppose you have heard that P. Clodius, son of Appius, was caught in woman's clothes at Gaius Caesar's house, while the state function was going on, and that he was saved and got out by means of a maid-servant: and that the affair is causing immense scandal. I feel sure you will be sorry for it. I have nothing else to tell you. And, indeed, at the moment of writing, I am in considerable distress: for a delightful youth, my reader Sosthenes, has just died, and his death has affected me more than that of a slave should, I think, do. Pray write often. If you have no news, write just what comes uppermost. 1 January, in the consulship of M. Messalla and M. Piso.

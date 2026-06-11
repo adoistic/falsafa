@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-artaxerxes-e9b4b4",
+  "work_title": "Artaxerxes",
+  "chapter_number": 15,
+  "chapter_title": "Chapter 15",
+  "chapter_slug": "15",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f6b237b4-a7d5-51a1-95a1-d303236b3bcf",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 251,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg064.perseus-grc2:15"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b580eb02-a727-5d93-91ae-f0c4d96f80d0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 350,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg064.perseus-eng2:15"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "quintus-tullius-cicero-commentariolum-petitionis-118e23",
+  "work_title": "Commentariolum Petitionis",
+  "chapter_number": 1,
+  "chapter_title": "Commentariolum Petitionis",
+  "chapter_slug": "01-commentariolum-petitionis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d069b559-f900-50ca-9f49-26a6588a6902",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4193,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0478.phi003.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a3d6ba88-6fdf-5180-a908-23b88f8ce67d",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7152,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0478.phi003.perseus-eng1"
+    }
+  ]
+}

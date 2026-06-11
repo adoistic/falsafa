@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-dion-2e0ee1",
+  "work_title": "Dion",
+  "chapter_number": 47,
+  "chapter_title": "Chapter 47",
+  "chapter_slug": "47",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e167b6a8-fdb8-565a-8fd7-e6e305544ea2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 241,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg060.perseus-grc2:47"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7e286f8a-5bf6-5f29-8351-c48196015ff0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 367,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg060.perseus-eng2:47"
+    }
+  ]
+}

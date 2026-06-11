@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-theomnestus-and-apollodorus-agai-9f14a5",
+  "work_title": "Theomnestus and Apollodorus Against Neaera",
+  "chapter_number": 1,
+  "chapter_title": "Theomnestus and Apollodorus Against Neaera",
+  "chapter_slug": "01-theomnestus-and-apollodorus-against-neaera",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8a197d77-e908-5bfd-8ee1-2894fd5fd120",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9220,
+      "paragraph_count": 168,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg059.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f133139c-af69-524b-baab-48ca0224698d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 14222,
+      "paragraph_count": 189,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg059.perseus-eng2"
+    }
+  ]
+}

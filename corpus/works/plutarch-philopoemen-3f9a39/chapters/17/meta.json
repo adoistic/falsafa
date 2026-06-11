@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-philopoemen-3f9a39",
+  "work_title": "Philopoemen",
+  "chapter_number": 17,
+  "chapter_title": "Chapter 17",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8588ae77-0094-51f7-96b2-5968674ff4f3",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 270,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg027.perseus-grc2:17"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8c2c4993-43c1-5905-aadb-87138fd341b3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 395,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg027.perseus-eng2:17"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "work_slug": "gustave-de-molinari-the-society-of-tomorrow-3bed3e",
+  "work_title": "The Society of Tomorrow",
+  "chapter_number": 19,
+  "chapter_title": "Chapter X Distribution of Products and the Share of Capital in the Proceeds of Production",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "300220a9-175b-59a7-bcb6-f826077e1254",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1878,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
+    }
+  ]
+}

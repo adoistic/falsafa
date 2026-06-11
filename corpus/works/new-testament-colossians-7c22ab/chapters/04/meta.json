@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-colossians-7c22ab",
+  "work_title": "Colossians",
+  "chapter_number": 4,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "04",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dff505e2-b8f1-53a9-9da3-8427dd3230d9",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 287,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg012.perseus-grc2:4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "23f2d0b1-9029-55f9-a996-7a248cef90b0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 363,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg012.perseus-eng2:4"
+    }
+  ]
+}

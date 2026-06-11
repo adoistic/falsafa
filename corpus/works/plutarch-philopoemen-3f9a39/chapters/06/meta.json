@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-philopoemen-3f9a39",
+  "work_title": "Philopoemen",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a1f503b0-82b1-5541-bcd2-ebaca38eeec5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 380,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg027.perseus-grc2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a96c076d-41bb-58de-861a-b9c8b9e7916a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 585,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg027.perseus-eng2:6"
+    }
+  ]
+}

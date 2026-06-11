@@ -1,0 +1,25 @@
+---
+work_id: "ddfb4d8d-24d4-5898-82bb-2342c3075a59"
+work_slug: "plutarch-pelopidas-ddfb4d"
+work_title: Pelopidas
+author_name: Plutarch
+chapter_number: 16
+chapter_title: Chapter 16
+chapter_slug: 16
+variant_id: "0cec46be-d7f0-5800-9566-2c496b5ad91c"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 405
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg021.perseus-eng2:16"
+translator: Bernadotte Perrin
+---
+
+But the conflict at Tegyra, which was a sort of prelude to that at Leuctra, raised high the reputation of Pelopidas; for it afforded his fellow commanders no rival claim in its success, and his enemies no excuse for their defeat. Against the city of Orchomenus, which had chosen the side of the Spartans and received two divisions of them for its protection, he was ever laying plans and watching his opportunity, and when he heard that its garrison had made an expedition into Locris, he hoped to find the city without defenders, and marched against it, having with him the sacred band and a few horsemen. But when, on approaching the city, he found that its garrison had been replaced with other troops from Sparta, he led his army back again through the district of Tegyra, that being the only way by which he could make a circuit along the foot of the mountains.
+
+For all the intervening plain was made impassable by the river Melas, which no sooner begins to flow than it spreads itself out into navigable marshes and lakes. A little below the marshes stands the temple of Apollo Tegyraeus, with an oracle which had not been long abandoned, but was flourishing down to the Persian wars, when Echecrates was prophet-priest. Here, according to the story, the god was born; and the neighbouring mountain is called Delos, and at its base the river Melas ceases to be spread out, and behind the temple two springs burst forth with a wonderful flow of sweet, copious, and cool water. One of these we call Palm, the other Olive to the present day, for it was not between two trees, but between two fountains, that the goddess Leto was delivered of her children. Moreover, the Ptoüm is near, from which, it is said, a boar suddenly came forth and frightened the goddess, and in like manner the stories of the Python and of Tityus are associated with the birth of Apollo in this locality.
+
+Most of the proofs, however, I shall pass over; for my native tradition removes this god from among those deities who were changed from mortals into immortals, like Heracles and Dionysus, whose virtues enabled them to cast off mortality and suffering; but he is one of those deities who are unbegotten and eternal, if we may judge by what the most ancient and wisest men have said on such matters.

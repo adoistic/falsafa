@@ -1,0 +1,39 @@
+{
+  "work_slug": "old-testament-genesis-1837de",
+  "work_title": "Genesis",
+  "chapter_number": 49,
+  "chapter_title": "Chapter 49",
+  "chapter_slug": "49",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fd2b4af6-9c3b-5420-831e-f9b391687844",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 565,
+      "paragraph_count": 84,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg001.1st1K-grc1:49"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "16c88ba0-12c4-5817-815c-5b61ddf0414d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 734,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg001.perseus-eng2:49"
+    }
+  ]
+}

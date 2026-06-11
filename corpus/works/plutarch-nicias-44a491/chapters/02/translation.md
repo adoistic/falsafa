@@ -1,0 +1,27 @@
+---
+work_id: "44a491b9-8d1b-555b-991a-080119bb4b2a"
+work_slug: "plutarch-nicias-44a491"
+work_title: Nicias
+author_name: Plutarch
+chapter_number: 2
+chapter_title: Chapter 2
+chapter_slug: 02
+variant_id: "1be7c302-56a9-5b4d-9558-43147c093b43"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 404
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg038.perseus-eng2:2"
+translator: Bernadotte Perrin
+---
+
+Accordingly, I may say of Nicias, in the first place, what Aristotle wrote, namely, that the three best citizens of Athens,—men of hereditary good will and friendship for the people,—were Nicias the son of Niceratus, Thucydides the son of Melesias, and Theramenes the son of Hagnon. However, this was true of the last in lesser degree than of the other two, because he has been flouted for inferior parentage as an alien from Ceos; and on account of his not being steadfast, but ever trying to court both sides in his political career, was nicknamed Cothurnus.
+
+Of the other two, Thucydides was the older man, and as head of the aristocratic party,—the party of the Good and True, —often opposed Pericles in his efforts to win the favour of the people. Nicias was a younger man. He was held in some repute even while Pericles was still living, so that he was not only associated with him as general, but frequently had independent command himself; after Pericles was dead, Nicias was at once put forward into the position of leader, especially by the party of the rich and noble. These made him their champion to face the disgusting boldness of Cleon.
+
+And yet, for that matter, the common people also held him in favour and aided his ambitions. For although Cleon had great influence with them by coddling them, and giving frequent jobs for pay, yet the very men whose favour he thus sought to gain were aware of his rapacity and fierce effrontery, for the most part preferred Nicias as their champion. The dignity of Nicias was not of the harsh, offensive sort, but was blended with much circumspection, and won control of the people from the very fact that he was thought to be afraid of them.
+
+Timid as he was by nature, and distrustful of success, in war he managed to succeed in hiding his cowardice under a cloak of good fortune, for he was uniformly successful as a general; while in political life his nervousness, and the ease with which he could be put to confusion by accusers, actually tended to make him popular, and gave him in high degree that power which comes from the favour of the people, because they fear men who scorn them, but exalt men who fear them. The multitude can have no greater honor shown them by their superiors than not to be despised.

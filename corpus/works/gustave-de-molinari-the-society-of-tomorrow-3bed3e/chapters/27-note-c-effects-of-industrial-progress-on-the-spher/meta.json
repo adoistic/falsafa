@@ -1,0 +1,26 @@
+{
+  "work_slug": "gustave-de-molinari-the-society-of-tomorrow-3bed3e",
+  "work_title": "The Society of Tomorrow",
+  "chapter_number": 27,
+  "chapter_title": "Note C. Effects of Industrial Progress on the Sphere of Production",
+  "chapter_slug": "27-note-c-effects-of-industrial-progress-on-the-spher",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bb82f43a-4539-546e-ab10-ebefc9b16c0a",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 217,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
+    }
+  ]
+}

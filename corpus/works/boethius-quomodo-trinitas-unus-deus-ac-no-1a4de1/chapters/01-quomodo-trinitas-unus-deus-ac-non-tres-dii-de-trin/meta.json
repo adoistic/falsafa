@@ -1,0 +1,38 @@
+{
+  "work_slug": "boethius-quomodo-trinitas-unus-deus-ac-no-1a4de1",
+  "work_title": "Quomodo Trinitas Unus Deus Ac Non Tres Dii (De Trinitate)",
+  "chapter_number": 1,
+  "chapter_title": "Quomodo Trinitas Unus Deus Ac Non Tres Dii (De Trinitate)",
+  "chapter_slug": "01-quomodo-trinitas-unus-deus-ac-non-tres-dii-de-trin",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ab9cddfe-ccb3-545c-9859-e459737ee2df",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2940,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0058.stoa025.perseus-lat1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5b864e1e-2635-5a7a-82bc-9998a46a4c0f",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4015,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0058.stoa025.perseus-eng1"
+    }
+  ]
+}

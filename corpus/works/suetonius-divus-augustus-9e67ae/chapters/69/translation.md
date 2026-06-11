@@ -1,0 +1,21 @@
+---
+work_id: "9e67aec7-1ba9-5172-b62b-f1479b1e7090"
+work_slug: "suetonius-divus-augustus-9e67ae"
+work_title: Divus Augustus
+author_name: Suetonius
+chapter_number: 69
+chapter_title: Chapter 70
+chapter_slug: 69
+variant_id: "0cc11a5c-e05c-510f-b346-15e8c35bec42"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 338
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo012.perseus-eng2:69"
+translator: Perseus Digital Library
+---
+
+In other matters, it appears that he was moderate in his habits, and free from suspicion of any kind of vice. He lived at first near the Roman Forum, above the Ring-maker's Stairs, in a house which had once been occupied by Calvus the orator. He afterwards moved to the Palatine Hill, where he resided in a small house belonging to Hortensius, no way remarkable either for size or ornament; the piazzas being but small, the pillars of Alban stone, and the rooms without any thing of marble, or fine paving. He continued to use the same bed-chamber, both winter and summer, during forty years: for though he was sensible that the city did not agree with his health in the winter, he nevertheless resided constantly in it during that season. If at any time he wished to be perfectly retired, and secure from interruption, he shut himself up in an apartment at the top of his house, which he called his Syracuse or Τεχνόφυον or he went to some villa belonging to his freedmen near the city. But when he was indisposed, he commonly took up his residence in the house of Maecenas. Of all the places of retirement from the city, he chiefly frequented those upon the seacoast, and the islands of Campania, or the towns nearest the city, such as Lanuvium, Praeneste, and Tibur, where he often used to sit for the administration of justice, in the porticos of the temple of Hercules. He had a particular aversion to large and sumptuous palaces; and some which had been raised at a vast expense by his grand-daughter, Julia, he leveled to the ground. Those of his own, which were far from being spacious, he adorned, not so much with statues and pictures, as with walks and groves, and things which were curious either for their antiquity or rarity; such as, at Capri, the huge limbs of sea-monsters and wild beasts, which some affect to call the bones of giants; and also the arms of ancient heroes.

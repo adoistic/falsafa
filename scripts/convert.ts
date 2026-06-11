@@ -65,6 +65,8 @@ interface RawChapter {
   word_count?: number;
   chapter_type?: string;
   is_original?: boolean;
+  /** Overrides the thothica byline for externally translated chapters (Perseus). */
+  translator?: string;
   language_id?: string;
   image_url?: string | null;
   estimated_read_time?: number | null;
@@ -340,7 +342,7 @@ function convert(corpus: RawCorpus, audit: AuditData, outputDir: string): Conver
         };
 
         // Add the appropriate Thothica credit byline based on content_type
-        if (content_type === "translation") frontmatter.translator = "thothica";
+        if (content_type === "translation") frontmatter.translator = variant.translator ?? "thothica";
         if (content_type === "transliteration") frontmatter.transliterator = "thothica";
         if (content_type === "original") frontmatter.curator = "thothica";
 
@@ -521,9 +523,18 @@ function convert(corpus: RawCorpus, audit: AuditData, outputDir: string): Conver
 
 function main(): void {
   const root = resolve(import.meta.dir, "..");
-  const worksJsonPath = resolve(root, "works.json");
-  const auditJsonPath = resolve(root, "corpus-audit.json");
-  const outputDir = resolve(root, "corpus");
+  // Optional overrides: --works <path> --audit <path> --out <dir>. Used by
+  // scripts/perseus/apply.ts to convert a tranche into a temp dir instead of
+  // regenerating corpus/ (which holds post-convert pipeline output: chapter
+  // splits, wiki cards, sidecars - regeneration would destroy them).
+  const argv = process.argv.slice(2);
+  const argOf = (flag: string): string | undefined => {
+    const i = argv.indexOf(flag);
+    return i >= 0 ? argv[i + 1] : undefined;
+  };
+  const worksJsonPath = resolve(root, argOf("--works") ?? "works.json");
+  const auditJsonPath = resolve(root, argOf("--audit") ?? "corpus-audit.json");
+  const outputDir = resolve(root, argOf("--out") ?? "corpus");
 
   console.log(`Reading ${worksJsonPath} ...`);
   const corpus = JSON.parse(readFileSync(worksJsonPath, "utf-8")) as RawCorpus;

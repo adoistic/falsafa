@@ -1,0 +1,465 @@
+---
+work_id: "0b31fd13-cc6c-57fd-b3de-7cb3b843bed7"
+work_slug: "cicero-marcus-tullius-letters-to-atticus-0b31fd"
+work_title: Letters to Atticus
+author_name: Cicero, Marcus Tullius
+chapter_number: 12
+chapter_title: "Chapter text=A:book=1:letter=12"
+chapter_slug: 12
+variant_id: "1188aa67-cd46-537a-b462-941de88779e7"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 9157
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-lat1:12"
+curator: thothica
+---
+
+Scr. in Arpinati viii K. Dec. a. 708 (46).
+
+CICERO ATTICO salutem undecimo die, postquam a te discesseram, hoc litterularum exaravi egrediens e villa ante lucem atque eo die cogitabam in Anagnino, postero autem in Tusculano, ibi unum diem; v Kalend. igitur ad constitutum. utinam continuo ad complexum meae Tulliae, ad osculum Atticae possim currere! quidem ipsum scribe, quaeso, ad me ut, dum consisto in Tusculano, sciam quid garriat, sin rusticatur, quid scribat ad te; eique interea aut scribes salutem aut nuntiabis itemque Piliae. tamen etsi continuo congressuri sumus, scribes ad me si quid habebis.
+
+complicarem hanc epistulam, noctuabundus ad me venit cum epistula tua tabellarius; qua lecta de Atticae febricula scilicet valde dolui. quae exspectabam ex tuis litteris cognovi omnia; sed quod scribis igniculum matutinum γεροντικόν, γεροντικώτερον est memoriola vacillare. enim iiii Kal. Axio dederam, tibi iii, Quinto quo die venissem, id est v Kal. Hoc igitur habebis, novi nihil. ergo opus erat epistula?, cum coram sumus et garrimus quicquid in buccam? profecto quiddam λέσχη, quae habet, etiam si nihil subest, conlocutione ipsa suavitatem.
+
+Scr. Romae ante med. m. Apr. a. 708 (46).
+
+CICERO ATTICO salutem rumores tamen Murcum perisse naufragio, Asinium delatum vivum in manus militum, L navis delatas uticam reflatu hoc, Pompeium non comparere nec in Balearibus omnino fuisse, ut Paciaecus adfirmat. auctor nullius rei quisquam. quae, dum tu abes, locuti sint. interea Praeneste. Hirtius et isti omnes.
+
+quidem ludi dies viii. cenae, quae deliciae! interea fortasse transacta est. o miros homines! Balbus aedificat; τί γὰρ αὐτῷ μέλει; si quaeris, homini non recta sed voluptaria quaerenti nonne βεβίωται? interea dormis. explicandum est πρόβλημα, si quid acturus es. quaeris quid putem, ego fructum puto. quid multa? te videbo et quidem, ut spero, de via recta ad me. enim et diem Tyrannioni constituemus et si quid aliud.
+
+Scr. in Tusculano iii Id. Iun. a. 708 (46).
+
+CICERO ATTICO salutem te puto minus blandum esse quam me et, si uterque nostrum est aliquando adversus aliquem, inter nos certe numquam sumus. igitur me hoc ἀγοητεύτωσ dicentem. vivam, mi Attice, si mihi non modo Tusculanum, ubi ceteroqui sum libenter, sed μακάρων νῆσοι tanti sunt ut sine te sim tot dies. re obduretur hoc triduum ut te quoque ponam in eodem πάθει; quod ita est profecto. velim scire hodiene statim de auctione et quo die venias. me interea cum libellis; ac moleste fero Vennoni me historiam non habere. tamen ne nihil de re, nomen illud, quod a Caesare, tris habet condiciones, aut emptionem ab hasta (perdere malo, etsi praeter ipsam turpitudinem hoc ipsum puto esse perdere) aut delegationem a mancipe annua die (quis erit cui credam, aut quando iste Metonis annus veniet?) aut Vettieni condicione semissem. σκέψαι igitur. vereor ne iste iam auctionem nullam faciat sed ludis factis Ἀτύπῳ subsidio currat, ne talis vir ἀλογηθῇ. μελήσει. Atticam, quaeso, cura et ei salutem et Piliae Tulliae quoque verbis plurimam.
+
+Scr. in Tusculano xvii K. Quint. a. 708 (46).
+
+CICERO ATTICO salutem o gratas tuas mihi iucundasque litteras! quaeris? restitutus est mihi dies festus. enim quod Tiro ἐνερευθέστερον te sibi esse visum dixerat. igitur, ut censes, unum diem de Catone πρόβλημα Ἀρχιμήδειον est. adsequor ut scribam quod tui convivae non modo libenter sed etiam aequo animo legere possint; quin etiam si a sententiis eius dictis, si ab omni voluntate consiliisque quae de re publica habuit recedam ψιλῶσ que velim gravitatem constantiamque eius laudare, hoc ipsum tamen istis odiosum ἄκουσμα sit. vere laudari ille vir non potest nisi haec ornata sint, quod ille ea quae nunc sunt et futura viderit et ne fierent contenderit et facta ne videret vitam reliquerit. quid est quod Aledio probare possimus? cura, obsecro, ut valeas eamque quam ad omnis res adhibes in primis ad convalescendum adhibe prudentiam.
+
+Scr. in Tusculano in m. Quint. a. 708 (46).
+
+CICERO ATTICO salutem
+
+Quintus pater quartum vel potius millesimum nihil sapit qui laetetur Luperco filio et Statio ut cernat duplici dedecore cumulatam domum. etiam Philotimum tertium. o stultitiam, nisi mea maior esset, singularem! quod autem os in hanc rem ἔρανον a te! non ad διψῶσαν κρήνην sed ad Πειρήνην eum venisse, ἄμπνευμα σεμνὸν Ἀλφειοῦ in te κρήνῃ, ut scribis, haurire in tantis suis praesertim angustiis, ποῖ ταῦτα ἄρα ipse viderit. Cato me quidem delectat, sed etiam Bassum Lucilium sua.
+
+Scr. in Tusculano prid. K. Iun. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Caelio tu quaeres, ut scribis; ego nihil novi. autem est natura, non facultas modo. Hortensio et Verginio tu, si quid dubitabis. quod magis placeat, ego quantum aspicio, non facile inveneris. Mustela, quem ad modum scribis, cum venerit Crispus.
+
+avium scripsi ut ea quae bene nosset de auro Pisoni demonstraret. enim sane adsentior et istud nimium diu duci et omnia nunc undique contrahenda. quidem nihil agere, nihil cogitare aliud nisi quod ad me pertineat facile perspicio meisque negotiis impediri cupiditatem tuam ad me veniendi. mecum esse te puto, non solum quod meam rem agis verum etiam quod videre videor quo modo agas. enim ulla hora tui mihi est operis ignota.
+
+Scr. in Tusculano i aut ii Id. Iun. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Tubulum praetorem video L. Metello Q. Maximo consulibus. velim P. Scaevola, pontifex maximus, quibus consulibus tribunus pl. puto proximis, Caepione et Pompeio; praetor enim L. Furio Sex. Atilio. igitur tribunatum et, si poteris, Tubulus quo crimine. vide, quaeso, L. Libo, ille qui de Ser. Galba, Censorinone et Manilio an T. Quinctio M'. Acilio consulibus tribunus pl. fuerit. enim me, in Bruti epitoma Fannianorum quod erat in extremo, idque ego secutus hunc Fannium qui scripsit historiam generum esse scripseram Laeli. tu me γεωμετρικῶσ refelleras, te autem nunc Brutus et Fannius. tamen de bono auctore Hortensio sic acceperam ut apud Brutum est. igitur locum expedies.
+
+Scr. in Tusculano prid. Id. Iun. a. 708 (46).
+
+CICERO ATTICO salutem misi Tironem Dolabellae obviam. ad me Idibus revertetur. exspectabo postridie.
+
+Tullia mea tibi antiquissimum esse video idque ita ut sit te vehementer rogo. ei in integro omnia; sic enim scribis. etsi Kalendae vitandae fuerunt Nicasionumque ἀρχέτυπα fugienda conficiendaeque tabulae, nihil tamen tanti ut a te abessem fuit. Romae essem et te iam iamque visurum me putarem, cotidie tamen horae quibus exspectabam longae videbantur. me minime esse blandum; itaque minus aliquanto dico quam sentio.
+
+Scr. in Tusculano in interc. post a. 708 (46).
+
+CICERO ATTICO salutem
+
+Caelio vide, quaeso, ne quae lacuna sit in auro. ista non novi. certe in collubo est detrimenti satis. aurum si accedit—sed quid loquor? videbis. Hegesiae genus, quod Varro laudat.
+
+ad Tyrannionem. ain tu? verum hoc fuit? sine me? ego quotiens, cum essem otiosus, sine te tamen nolui? modo hoc ergo lues? scilicet si mihi librum miseris; quod ut facias etiam atque etiam rogo. me non magis liber ipse delectabit quam tua admiratio delectavit. enim πάντα φιληδείμονα teque istam tam tenuem θεωρίαν tam valde admiratum esse gaudeo. tua quidem sunt eius modi omnia. enim vis; quo uno animus alitur., quaeso, quid ex ista acuta et gravi refertur ad τέλοσ?
+
+longa oratio est, et tu occupatus es in meo quidem fortasse aliquo negotio. pro isto asso sole quo tu abusus es in nostro pratulo a te nitidum solem unctumque repetemus. ad prima redeo., si me amas, mitte. est enim profecto, quoniam quidem est missus ad te.
+
+Chremés, tantumne ab ré tua est otí tibi, ut etiam Oratorem legas? virtute! quidem gratum est et erit gratius si non modo in tuis libris sed etiam in aliorum per librarios tuos Aristophanem reposueris pro Eupoli.
+
+Caesar autem mihi inridere visus est quaeso illud tuum, quod erat et εὐπινὲσ et urbanum. porro te sine cura esse iussit ut mihi quidem dubitationem omnem tolleret. Atticam doleo tam diu; sed quoniam iam sine horrore est, spero esse ut volumus.
+
+Scr. in Tusculano m. interc. post a. 708 (46).
+
+CICERO ATTICO salutem desideras omnia scripsi in codicillis eosque Eroti dedi; breviter, sed etiam plura quam quaeris, in iis de Cicerone; cuius quidem cogitationis initium tu mihi attulisti. sum cum eo liberalissime; quod ex ipso velim, si modo tibi erit commodum, sciscitere. quid differo? te ad me detulisse et quid vellet et quid requireret. Hispaniam, requirere liberalitatem. liberalitate dixi, quantum Publilius, quantum flamen Lentulus filio.
+
+Hispania duo attuli, primum idem quod tibi, me vereri vituperationem. satis esse si haec arma reliquissemus? etiam contraria? fore ut angeretur cum a fratre familiaritate et omni gratia vinceretur. magis liberalitate uti mea quam sua libertate. tamen permisi; tibi enim intellexeram non nimis displicere. etiam atque etiam cogitabo teque ut idem facias rogo. res est; simplex est manere, illud anceps. videbimus.
+
+Balbo et in codicillis scripseram et ita cogito, simul ac redierit. ille tardius, ego tamen triduum, et, quod praeterii, Dolabella etiam mecum.
+
+Scr. in Tusculano m. interc. post a. 708 (46).
+
+CICERO ATTICO salutem
+
+Cicerone multis res placet. est idoneus. de prima pensione ante videamus. enim dies et ille currit., quaeso, quid referat Celer egisse Caesarem cum candidatis, utrum ipse in fenicularium an in Martium campum cogitet. scire sane velim numquid necesse sit comitiis esse Romae. et Piliae satis faciendum est et utique Atticae.
+
+Scr. Asturae vi K. Sext. a. 709 (45).
+
+CICERO ATTICO salutem ego essem hic libenter atque id cotidie magis, ni esset ea causa quam tibi superioribus litteris scripsi. hac solitudine iucundius, nisi paulum interpellasset Amyntae filius. ὢ ἀπεραντολογίας ἀηδοῦσ! noli putare amabiliora fieri posse villa, litore, prospectu maris, tumulis his rebus omnibus. neque haec digna longioribus litteris nec erat quod scriberem, et somnus urgebat.
+
+Scr. Asturae v K. Sext. a. 709 (45).
+
+CICERO ATTICO salutem me hercule de Athamante. autem dolor humanus is quidem sed magno opere moderandus. autem multae viae sed illa rectissima: impetret ratio quod dies impetratura est. Alexin vero curemus, imaginem Tironis, quem aegrum Romam remisi, et, si quid habet collis ἐπιδήμιον, ad me cum †testamento† transferamus. domus vacat superior, ut scis. puto valde ad rem pertinere.
+
+Scr. in Tusculano m. interc. post. a. 708 (46).
+
+CICERO ATTICO salutem de Seio. omnia humana tolerabilia ducenda. enim quid sumus aut quam diu haec curaturi sumus? videamus quae ad nos magis pertinent, nec tamen multo, quid agamus de senatu. ut ne quid praetermittam, Caesonius ad me litteras misit Postumiam Sulpici domum ad se venisse. Pompei Magni filia tibi rescripsi nihil me hoc tempore cogitare; alteram vero illam quam tu scribis, puto, nosti: nihil vidi foedius. adsum. igitur. epistula accepi tuas. Atticae hilaritatem libenter audio. συμπάσχω.
+
+Scr. Asturae xvii K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem dote tanto magis perpurga. Balbi regia condicio est delegandi. modo confice. est rem impeditam iacere. Insula Arpinas habere potest germanam ἀποθέωσιν; sed vereor ne minorem τιμὴν habere videatur ἐκτοπισμόσ. igitur animus in hortis; quos tamen inspiciam cum venero.
+
+Epicuro, ut voles; etsi μεθαρμόσομαι. in posterum genus hoc personarum. est quam ea quidam requirant. antiquos igitur; ἀνεμέσητον γάρ. habeo ad te quod scribam, sed tamen institui cotidie mittere ut eliciam tuas litteras, non quo aliquid ex iis exspectem sed nescio quo modo tamen exspecto. re sive habes quid sive nil habes, scribe tamen aliquid teque cura.
+
+Scr. Asturae Non. Mart. a. 709 (45).
+
+CICERO ATTICO salutem me Attica; etsi adsentior Cratero. Bruti litterae scriptae et prudenter et amice multas mihi tamen lacrimas attulerunt. haec solitudo minus stimulat quam ista celebritas. unum desidero; sed litteris non difficilius utor quam si domi essem. tamen ille idem urget et manet non me hercule indulgente me sed tamen repugnante.
+
+scribis de Appuleio, nihil puto opus esse tua contentione nec Balbo et Oppio; quibus quidem ille receperat mihique etiam iusserat nuntiari se molestum omnino non futurum. cura ut excuser morbi causa in dies singulos. Laenas hoc receperat. C. Septimium, L. Statilium. nemo negabit sc iuraturum quem rogaris. si erit durius, veniam et ipse perpetuum morbum iurabo. enim mihi carendum sit conviviis, malo id lege videri facere quam dolore. Cocceium velim appelles. enim dixerat non facit. autem volo aliquod emere latibulum et perfugium doloris mei.
+
+Scr. Asturae viii Id. Mart. a. 709 (45).
+
+CICERO ATTICO salutem me excusando apud Appuleium dederam ad te pridie litteras. esse negoti arbitror. appellaris nemo negabit.
+
+Septimium vide et Laenatem et Statilium; tribus enim opus est. mihi Laenas totum receperat.
+
+scribis a Iunio te appellatum, omnino Cornificius locuples est; sed tamen scire velim quando dicar spopondisse et pro patre anne pro filio. eo minus, ut scribis, procuratores Cornifici et Appuleium praediatorem videbis.
+
+me ab hoc maerore recreari vis, facis ut omnia; sed me mihi non defuisse tu testis es. enim de maerore minuendo scriptum ab ullo est quod ego non domi tuae legerim. omnem consolationem vincit dolor. etiam feci quod profecto ante me nemo ut ipse me per litteras consolarer. librum ad te mittam, si descripserint librarii. tibi nullam consolationem esse talem. dies scribo, non quo proficiam quid sed tantisper impedior non equidem satis (vis enim urget),—sed relaxor tamen ad omniaque nitor non ad animum sed ad vultum ipsum, si queam, reficiendum idque faciens interdum mihi peccare videor, interdum peccaturus esse nisi faciam. aliquid adiuvat, sed multo plus proficeret, si tu tamen interesses. mihi una causa est hinc discedendi; nam pro malis recte habebat. id ipsum doleo. enim iam in me idem esse poteris. illa quae amabas.
+
+Bruti ad me litteris scripsi ad te antea. scriptae, sed nihil quod me adiuvarent. ad te scripsit id vellem, ut ipse adesset. aliquid, quoniam me tam valde amat, adiuvaret. si quid scies, scribas ad me velim, maxime autem Pansa quando. Attica doleo, credo tamen Cratero. Piliam angi veta. est me maerere pro omnibus.
+
+Scr. Asturae vii Id. Mart. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Appuleium, quoniam in perpetuum non placet, in dies ut excuser videbis. hac solitudine careo omnium conloquio, cumque mane me in silvam abstrusi densam et asperam, non exeo inde ante vesperum. te nihil est mihi amicius solitudine. ea mihi omnis sermo est cum litteris. tamen interpellat fletus; cui repugno quoad possum, sed adhuc pares non sumus. Bruto ut suades, rescribam. litteras cras habebis. erit cui des, dabis.
+
+Scr. Asturae vi Id. Mart. a. 709 (45).
+
+CICERO ATTICO salutem tuis negotiis relictis nolo ad me venire, ego potius accedam, si diutius impediere. ne discessissem qui dem e conspectu tuo, nisi me plane nihil ulla res adiuvaret. si esset aliquod levamen, id esset in te uno, et cum primum ab aliquo poterit esse, a te erit. tamen ipsum sine te esse non possum. nec tuae domi probabatur nec meae poteram nec, si propius essem uspiam, tecum tamen essem. enim te impediret quo minus mecum esses, quod nunc etiam impedit. nihil adhuc aptius fuit hac solitudine; quam vereor ne Philippus tollat. enim vesperi venerat. scriptio et litterae non leniunt sed obturbant.
+
+Scr. Asturae iv Id. Mart. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Marcianus ad me scripsit me excusatum esse apud Appuleium a Laterense, Nasone, Laenate, Torquato, Strabone. velim meo nomine reddendas litteras cures gratum mihi eos fecisse. pro Cornificio me abhinc amplius annis xxv spopondisse dicit Flavius, etsi reus locuples est et Appuleius praediator liberalis, tamen velim des operam ut investiges ex consponsorum tabulis sitne ita (mihi enim ante aedilitatem meam nihil erat cum Cornificio. tamen fieri; sed scire certum velim), et appelles procuratores si tibi videtur. quid ad me? tamen—Pansae profectionem scribes cum scies. Atticam salvere iube et eam cura, obsecro, diligenter. Piliae salutem.
+
+Scr. Asturae v Id. Mart. a. 709 (45).
+
+CICERO ATTICO salutem recordationes fugio quae quasi morsu quodam dolorem efficiunt, refugio ad te admonendum. velim mihi ignoscas, cuicuimodi est. habeo non nullos ex iis quos nunc lectito auctores qui dicant fieri id oportere quod saepe tecum egi et quod a te approbari volo, de fano illo dico, de quo tantum quantum me amas velim cogites. neque de genere dubito (placet enim mihi Cluati) neque de re (statutum est enim), de loco non numquam. igitur cogites., quantum his temporibus tam eruditis fieri potuerit, profecto illam consecrabo omni genere monimentorum ab omnium ingeniis sumptorum et Graecorum et Latinorum. res forsitan sit refricatura vulnus meum. iam quasi voto quodam et promisso me teneri puto, longumque illud tempus cum non ero magis me movet quam hoc exiguum, quod mihi tamen nimium longum videtur. enim nihil temptatis rebus omnibus in quo acquiescam. dum illud tractabam de quo ad te ante scripsi, quasi fovebam dolores meos; nunc omnia respuo nec quicquam habeo tolerabilius quam solitudinem; quam, quod eram veritus, non obturbavit Philippus. ut heri me salutavit, statim Romam profectus est.
+
+quam ad Brutum, ut tibi placuerat, scripsi misi ad te. cum tua perferendam. tamen misi ad te exemplum ut, si minus placeret, ne mitteres.
+
+quod ais ordine administrari scribes quae sint ea. enim exspecto. Cocceius vide ne frustretur.
+
+Libo quod pollicetur, ut Eros scribit, non incertum puto. sorte mea Sulpicio confido et Egnatio scilicet. Appuleio quid est quod labores, cum sit excusatio facilis?
+
+ad me venire, ut ostendis, vide ne non sit facile. enim longum iter discedentemque te, quod celeriter tibi erit fortasse faciendum, non sine magno dolore dimittam. omnia ut voles. enim quicquid feceris id cum recte tum etiam mea causa factum putabo.
+
+Scr. Asturae iii Id. Mart. a. 709 (45).
+
+CICERO ATTICO salutem cum ex aliorum litteris cognovissem de Antoni adventu, admiratus sum nihil esse in tuis. erant pridie fortasse scriptae quam datae. ista quidem curo; sed tamen opinor propter praedes suos accucurrisse.
+
+scribis Terentiam de obsignatoribus mei testamenti loqui, primum tibi persuade me istaec non curare neque esse quicquam aut parvae curae aut novae loci. tamen quid simile? eos non adhibuit quos existimavit quaesituros nisi scissent quid esset. id etiam mihi periculi fuit? tamen faciat illa quod ego. meum testamentum legendum cui voluerit; intelleget non potuisse honorificentius a me fieri de nepote quam fecerim. quod non advocavi ad obsignandum, primum mihi non venit in mentem, deinde ea re non venit, quia nihil attinuit. scis, si modo meministi, me tibi tum dixisse ut de tuis aliquos adduceres. enim opus erat multis? domesticos iusseram. tibi placuit ut mitterem ad Silium. est natum ut ad Publilium; sed necesse neutrum fuit. tu tractabis ut tibi videbitur.
+
+Scr. Asturae prid. Id. Mart. a. 709 (45).
+
+CICERO ATTICO salutem hic quidem locus amoenus et in mari ipso qui et Antio et Circeiis aspici possit; sed ineunda nobis ratio est quem ad modum in omni mutatione dominorum, quae innumerabiles fieri possunt in infinita posteritate, si modo haec stabunt, illud quasi consecratum remanere possit. iam nihil egeo vectigalibus et parvo contentus esse possum. interdum trans Tiberim hortos aliquos parare et quidem ob hanc causam maxime: nihil enim video quod tam celebre esse possit. quos, coram videbimus, ita tamen ut hac aestate fanum absolutum sit. tamen cum Apella Chio confice de columnis.
+
+Cocceio et Libone quae scribis approbo, maxime quod de iudicatu meo. sponsu si quid perspexeris et tamen quid procuratores Cornifici dicant velim scire, ita ut in ea re te cum tam occupatus sis, non multum operae velim ponere. Antonio Balbus quoque ad me cum Oppio conscripsit idque tibi placuisse ne perturbarer. egi gratias. tamen, ut iam ante ad te scripsi, scire volo me neque isto nuntio esse perturbatum nec iam ullo perturbatum iri.
+
+Pansa si hodie, ut putabas, profectus est, posthac iam incipito scribere ad me de Bruti adventu quid exspectes, id est quos ad dies., si scies ubi iam sit, facile coniectura adsequere.
+
+ad Tironem de Terentia scribis, obsecro te, mi Attice, suscipe totum negotium. et officium agi meum quoddam cui tu es conscius et, ut non nulli putant, Ciceronis rem. quidem id multo magis movet quod mihi est et sanctius et antiquius, praesertim cum hoc alterum neque sincerum neque firmum putem fore.
+
+Scr. Asturae Id. Mart. a. 709 (45).
+
+CICERO ATTICO salutem videris perspicere quam me nec Antonius commovent nec quicquam iam eius modi possit commovere.
+
+Terentia autem scripsi ad te eis litteris quas dederam pridie. me hortaris idque a ceteris desiderari scribis ut dissimulem me tam graviter dolere, possumne magis quam quom totos dies consumo in litteris? etsi non dissimulationis sed potius leniendi et sanandi animi causa facio, tamen si mihi minus proficio simulationi certe facio satis.
+
+multa ad te scripsi, quod exspectabam tuas litteras ad eas quas pridie dederam. autem maxime de fano, non nihil etiam de Terentia. me facias certiorem proximis litteris Cn. Caepio Serviliae Claudi pater vivone patre suo naufragio perierit an mortuo, item Rutilia vivone C. Cotta filio suo mortua sit an mortuo. ad eum librum quem de luctu minuendo scripsimus.
+
+Scr. Asturae xvi K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Bruti epistulam eamque tibi remisi sane non prudenter rescriptum ad ea quae requisieras. ipse viderit. illud turpiter ignorat. Catonem primum sententiam putat de animadversione dixisse quam omnes ante dixerant praeter Caesarem et, cum ipsius Caesaris tam severa fuerit qui tum praetorio loco dixerit, consularium putat leniores fuisse, Catuli, Servili, Lucullorum, Curionis, Torquati, Lepidi, Gelli, Volcaci, Figuli, Cottae, L. Caesaris, C. Pisonis, M'. Glabrionis, etiam Silani, Murenae designatorum consulum. ego in sententiam Catonis? verbis luculentioribus et pluribus rem eandem comprehenderat. autem hic laudat quod rettulerim, non quod patefecerim, quod cohortatus sim, quod denique ante quam consulerem ipse iudicaverim. omnia quia Cato laudibus extulerat in caelum perscribendaque censuerat, idcirco in eius sententiam est facta discessio. autem se etiam tribuere multum mi putat quod scripserit optimum consulem. enim ieiunius dixit inimicus? cetera vero tibi quem ad modum rescripsit! rogat de senatus consulto ut corrigas. quidem fecisset, etiam si a librano admonitus esset. haec iterum ipse viderit.
+
+hortis quoniam probas, effice aliquid. meas nosti. vero etiam a Faberio aliquid recedit nihil negoti est. etiam sine eo posse videor contendere. certe sunt Drusi, fortasse etiam Lamiani et Cassiani. coram.
+
+Terentia non possum commodius scribere quam tu scribis. sit nobis antiquissimum. quid nos fefellerit, illius malo me quam mei paenitere.
+
+Oviae C. Lolli curanda sunt HS C. Eros posse sine me, credo, quod accipienda aliqua sit et danda aestimatio. tibi dixisset. enim res est ut mihi scripsit parata nec in eo ipso mentitur, per te confici potuit. cognoscas et conficias velim.
+
+me in forum vocas, eo vocas unde etiam bonis meis rebus fugiebam. enim mihi foro sine iudiciis, sine curia, in oculos incurrentibus iis quos animo aequo videre non possum? autem a me homines postulare scribis ut Romae sim neque mihi ut absim concedere †aut quatenus† eos mihi concedere, iam pridem scito esse, cum unum te pluris quam omnis illos putem. me quidem contemno meoque iudicio multo stare malo quam omnium reliquorum. tamen progredior longius quam mihi doctissimi homines concedunt; quorum scripta omnia quaecumque sunt in eam sententiam non legi solum, quod ipsum erat fortis aegroti, accipere medicinam, sed in mea etiam scripta transtuli, quod certe adflicti et fracti animi non fuit. his me remediis noli in istam turbam vocare, ne recidam.
+
+Scr. Asturae xv K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Terentia quod mihi omne onus imponis, non cognosco tuam in me indulgentiam. enim sunt ipsa vulnera quae non possum tractare sine maximo gemitu. igitur, quaeso, ut potes. enim a te plus quam potes postulo.
+
+autem quid veri sit perspicere tu unus. Rutilia quoniam videris dubitare, scribes ad me cum scies sed quam primum, et num Clodia D. Bruto consulari filio suo mortuo vixerit. de Marcello aut certe de Postumia sciri potest, illud autem de M. Cotta aut de Syro aut de Satyro.
+
+hortis etiam atque etiam rogo. meis eorumque quos scio mihi non defuturos facultatibus (sed potero meis) enitendum mihi est. etiam quae vendere facile possim. ut non vendam eique usuram pendam a quo emero non plus annum, possum adsequi quod volo, si tu me adiuvas. sunt Drusi; cupit enim vendere. puto Lamiae; sed abest. tamen, si quid potes, odorare.
+
+Silius quidem quicquam utitur et iis† usuris facillime sustentabitur. tuum negotium nec quid res mea familiaris postulet quam ego non curo sed quid velim et cur velim existima.
+
+Scr. Asturae xiv K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem te aliquid novi, quod eius modi fuerat initium litterarum, quamvis non curarem quid in Hispania fieret, tamen te scripturum; sed videlicet meis litteris respondisti ut de foro et de curia. domus est, ut ais, forum. ipsa domo mihi opus est carenti foro?, occidimus Attice, iam pridem nos quidem, sed nunc fatemur, postea quam unum quo tenebamur amisimus. solitudinem sequor et tamen, si qua me res isto adduxerit, enitar, si quo modo potero (potero autem), ut praeter te nemo dolorem meum sentiat, si ullo modo poterit, ne tu quidem. etiam illa causa est non veniendi. quid ex te Aledius quaesierit. etiam nunc molesti sunt, quid existimas, si venero?
+
+Terentia ita cura ut scribis meque hac ad maximas aegritudines accessione non maxima libera. ut scias me ita dolere ut non iaceam, quibus consulibus Carneades et ea legatio Romam venerit scriptum est in tuo annali. nunc quaero quae causa fuerit (de Oropo, opinor, sed certum nescio) et, si ita est, quae controversiae., qui eo tempore nobilis Epicureus fuerit Athenisque praefuerit hortis, qui etiam Athenis πολιτικοὶ fuerint inlustres. etiam ex Apollodori puto posse inveniri.
+
+Attica molestum, sed quoniam leviter, recte esse confido. Gamala dubium non mihi erat. unde enim tam felix Ligus pater? quid de me dicam, cui ut omnia contingant quae volo, levari non possum?
+
+Drusi hortis, quanti licuisse tu scribis, id ego quoque audieram et, ut opinor, heri ad te scripseram; sed quanti quanti bene emitur quod necesse est., quoquo modo tu existimas scio enim ego ipse quid de me existimem), levatio quaedam est, si minus doloris at offici debiti.
+
+Siccam scripsi, quod utitur L. Cotta. nihil conficietur de Transtiberinis, habet in Ostiensi Cotta celeberrimo loco sed pusillum loci, ad hanc rem tamen plus etiam quam satis. velim cogites. tamen ista pretia hortorum pertimueris. mihi iam argento nec veste opus est nec quibusdam amoenis locis; hoc opus est. etiam a quibus adiuvari possim. loquere cum Silio; nihil enim est melius. etiam Siccae. constitutum se cum eo habere. igitur ad me quid egerit, et tu videbis.
+
+Scr. Asturae xiii K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem fecit A. Silius qui transegerit. enim ei deesse volebam et quid possem timebam. Ovia confice, ut scribis. Cicerone tempus esse iam videtur; sed quaero, quod illi opus erit, Athenis permutarine possit an ipsi ferendum sit, de totaque re quem ad modum et quando placeat velim consideres. Publilius iturusne sit in Africam et quando ex Aledio scire poteris. et ad me scribas velim.
+
+ut ad meas ineptias redeam, velim me certiorem facias P. Crassus Venuleiae filius vivone P. Crasso consulari patre suo mortuus sit, ut ego meminisse videor, an postea. quaero de Regillo Lepidi filio rectene meminerim patre vivo mortuum.
+
+Cispiana explicabis itemque Preciana.
+
+Attica optime. ei salutem dices et Piliae.
+
+Scr. Asturae xi K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem ad me diligenter Sicca de Silio seque ad te rem detulisse; quod tu idem scribis. et res et condicio placet sed ita ut numerato malim quam aestimatione. enim possessiones nolet Silius; vectigalibus autem ut his possum esse contentus quae habeo, sic vix minoribus. unde ergo numerato? HS DC exprimes ab Hermogene, cum praesertim necesse erit et domi video esse HS DC. pecuniae vel usuram Silio pendemus, dum a Faberio vel cum aliquo qui Faberio debet repraesentabimus. etiam aliquid alicunde. totam rem tu gubernabis.
+
+Drusianis vero hortis multo antepono neque sunt umquam comparati. crede, una me causa movet in qua scio me τετυφῶσθαι., ut facis, obsequere huic errori meo. quod scribis ἐγγήραμα, actum iam de isto est; alia magis quaero.
+
+Scr. Asturae xi K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Sicca, ut scribit, etiam si nihil confecerit cum A. Silio, tamen se scribit x Kal. esse venturum. occupationibus ignosco eaeque mihi sunt notae. voluntate tua ut simul simus vel studio potius et cupiditate non dubito.
+
+Nicia quod scribis, si ita me haberem ut eius humanitate frui possem, in primis vellem illum mecum habere. mihi solitudo et recessus provincia est. quia facile ferebat Sicca, eo magis illum desidero. nosti Niciae nostri imbecillitatem, mollitiam, consuetudinem victus. ergo illi molestus esse velim, cum mihi ille iucundus esse non possit? tamen eius mihi grata est. unam rem ad me scripsisti; de qua decrevi nihil tibi rescribere. enim me a te impetrasse ut privares me ista molestia. Piliae et Atticae salutem.
+
+Scr. Asturae x K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Siliano negotio, etsi mihi non est ignota condicio, tamen hodie me ex Sicca arbitror omnia cogniturum. Cottae quod negas te nosse, ultra Silianam villam est, quam puto tibi notam esse, villula sordida et valde pusilla, nil agri, ad nullam rem loci satis nisi ad eam quam quaero. celebritatem. si perficitur de hortis Sili, hoc est si perficis (est enim totum positum in te), nihil est scilicet quod de Cottae cogitemus.
+
+Cicerone ut scribis ita faciam; ipsi permittam de tempore. quantum opus erit ut permutetur tu videbis. Aledio quod scribas si quid inveneris scribes. ego ex tuis animadverto litteris et profecto tu ex meis nihil habere nos quod scribamus: eadem cotidie quae iam iamque ipsa contrita sunt. facere non possum quin cotidie ad te mittam ut tuas accipiam.
+
+Bruto tamen, si quid habebis. enim iam puto ubi Pansam exspectet., ut consuetudo est, in prima provincia, circiter Kal. adfuturus videtur. tardius; valde enim urbem fugio multas ob causas. id ipsum dubito an excusationem aliquam ad illum parem; quod quidem video facile esse. habemus satis temporis ad cogitandum. Piliae, Atticae salutem.
+
+Scr. Asturae ix K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Silio nilo plura cognovi ex praesente Sicca quam ex litteris eius. enim diligenter. igitur tu illum conveneris, scribes ad me si quid videbitur. quo putas ad me missum esse, sit missum necne nescio; dictum quidem mihi certe nihil est. igitur, ut coepisti, et si quid ita conficies, quod equidem non arbitror fieri posse, ut illi probetur, Ciceronem, si tibi placebit, adhibebis. aliquid interest videri illius causa voluisse, mea quidem nihil nisi quod tu scis, quod ego magni aestimo.
+
+me ad meam consuetudinem revocas, fuit meum quidem iam pridem rem publicam lugere, quod faciebam, sed mitius; erat enim ubi acquiescerem. plane nec ego victum nec vitam illam colere possum nec in ea re quid aliis videatur mihi puto curandum; mea mihi conscientia pluris est quam omnium sermo. me ipse per litteras consolatus sum, non paenitet me quantum profecerim. minui, dolorem nec potui nec, si possem, vellem.
+
+Triario bene interpretaris voluntatem meam. vero nihil nisi ut illi volent. illum mortuum, tutor sum liberis, totam domum diligo.
+
+Castriciano negotio, si Castricius pro mancipiis pecuniam accipere volet eamque †ei† solvi ut nunc solvitur, certe nihil est commodius. autem ita actum est ut ipsa mancipia abduceret, non mihi videtur esse aequum (rogas enim me ut tibi scribam quid mihi videatur); nolo enim negoti Quintum fratrem quicquam habere; quod videor mihi intellexisse tibi videri idem. Publilius, si aequinoctium exspectat, ut scribis Aledium dicere, navigaturus videtur. autem dixerat per Siciliam. utrum et quando velim scire. velim aliquando, cum erit tuum commodum, Lentulum puerum visas eique de mancipiis quae tibi videbitur attribuas. Piliae, Atticae salutem.
+
+Scr. Asturae viii K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Silius, ut scribis, hodie. igitur vel potius cum poteris scribes, si quid erit cum videris. ego Brutum vito nec tamen ab eo levationem ullam exspecto; sed erant causae cur hoc tempore istic esse nollem. si manebunt, quaerenda erit excusatio ad Brutum et, ut nunc est, mansurae videntur.
+
+hortis, quaeso, explica. illud est quod scis. ut etiam mihi ipsi quiddam opus sit; nec enim esse in turba possum nec a vobis abesse. meo consilio nihil reperio isto loco aptius et de hac re quid tui consili sit. persuasum est et eo magis quod idem intellexi tibi videri me ab Oppio et Balbo valde diligi. his communices quanto opere et qua re velim hortos; sed id ita posse, si expediatur illud Faberianum; sint ne igitur auctores futuri. qua etiam iactura facienda sit in repraesentando, quoad possunt adducito; totum enim illud desperatum. intelleges ecquid inclinent ad hoc meum consilium adiuvandum. quid erit, magnum est adiumentum; si minus, quacumque ratione contendamus. tu illud ἐγγήραμα, quem ad modum scripsisti, vel ἐντάφιον putato. illo Ostiensi nihil est cogitandum. hoc non adsequimur (a Lamia non puto posse), Damasippi experiendum est.
+
+Scr. Asturae vi Id. Apr. a. 709 (45).
+
+CICERO ATTICO salutem quod ad te scribam, sed nihil est: eadem cotidie. Lentulum invisis valde gratum. attribue ei quot et quos videbitur. Sili voluntate vendendi et de eo, quanti, tu vereri videris primum ne nolit, deinde ne tanti. Sicca aliter; sed tibi adsentior. re, ut ei placuit, scripsi ad Egnatium. Silius te cum Clodio loqui vult, potes id mea voluntate facere commodiusque est quam quod ille a me petit, me ipsum scribere ad Clodium.
+
+mancipiis Castricianis commodissimum esse credo transigere Egnatium, quod scribis te ita futurum putare. Ovia, quaeso, vide ut conficiatur., ut scribis, nox erat, in hodierna epistula plura exspecto.
+
+Scr. Asturae iv. K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Silium mutasse sententiam Sicca mirabatur. magis miror quod, cum in filium causam conferret quae mihi non iniusta videtur (habet enim qualem vult), ais te putare, si addiderimus aliud a quo refugiat, cum ab ipso id fuerit destinatum, venditurum.
+
+a me quod summum pretium constituam et quantum anteire istos hortos Drusi. numquam; Coponianam villam et veterem et non magnam novi, silvam nobilem, fructum autem neutrius, quod tamen puto nos scire oportere. mihi utrivis istorum tempore magis meo quam ratione aestimandi sunt. autem adsequi necne tu velim cogites. enim Faberianum venderem, explicare vel repraesentatione non dubitarem de Silianis, si modo adduceretur ut venderet. venalis non haberet, transirem ad Drusum vel tanti quanti Egnatius illum velle tibi dixit. etiam adiumento nobis Hermogenes potest esse in repraesentando. tu concede mihi, quaeso, ut eo animo sim quo is debeat esse qui emere cupiat, et tamen ita servio cupiditati et dolori meo ut a te regi velim.
+
+Scr. Asturae v K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Egnatius mihi scripsit. si quid tecum locutus erit (commodissime enim per eum agi potest) ad me scribes, et id agendum puto. cum Silio non video confici posse. Piliae et Atticae salutem. ad te mea manu., quaeso, quid agendum sit. Publilia ad me scripsit matrem suam, †cum Publilio loqueretur†, ad me cum illo venturam et se una, si ego paterer. multis et supplicibus verbis ut liceat et ut sibi rescribam. quam molesta sit vides. mi etiam gravius esse quam tum cum illi dixissem me solum esse velle; qua re nolle me hoc tempore eam ad me venire. si nihil rescripsissem illam cum matre venturam; nunc non puto. enim illas litteras non esse ipsius. autem quod fore video ipsum volo vitare ne illae ad me veniant, et una est vitatio ut ego avolem., sed necesse est. hoc nunc rogo ut explores ad quam diem hic ita possim esse ut ne opprimar., ut scribis, temperate.
+
+Ciceroni velim hoc proponas, ita tamen, si tibi non iniquum videbitur, ut sumptus huius peregrinationis quibus, si Romae esset domumque conduceret, quod facere cogitabat, facile contentus futurus erat, accommodet ad mercedes Argileti et Aventini, et cum ei proposueris, ipse velim reliqua moderere quem ad modum ex iis mercedibus suppeditemus ei quod opus sit. nec Bibulum nec Acidinum nec Messallam, quos Athenis futuros audio maiores sumptus facturos quam quod ex eis mercedibus recipietur. velim videas primum conductores qui sint et quanti, deinde ut sint qui ad diem solvant et quid viatici, quid instrumenti satis sit. certe Athenis nihil opus est. autem in via utatur domi sunt plura quam opus erat, quod etiam tu animadvertis.
+
+Scr. Asturae vii K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem
+
+, ut heri ad te scripsi, si et Silius is fuerit quem tu putas nec Drusus facilem se praebuerit, Damasippum velim adgrediare., opinor, ita partis fecit in ripa nescio quotenorum iugerum ut certa pretia constitueret; quae mihi nota non sunt. ad me igitur quicquid egeris.
+
+me sollicitat Atticae nostrae valetudo ut verear etiam ne quae culpa sit. et paedagogi probitas et medici adsiduitas et tota domus in omni genere diligens me rursus id suspicari vetat. igitur; plura enim non possum.
+
+Scr. Asturae iii K. Apr. a. 709 (45).
+
+CICERO ATTICO salutem hic vel sine Sicca (Tironi enim melius est) facillime possem esse ut in malis sed, quom scribas videndum mihi esse ne opprimar, ex quo intellegam te certum diem illius profectionis non habere, putavi esse commodius me istuc venire; quod idem video tibi placere. igitur in Siccae suburbano., quem ad modum suades, puto me in Ficulensi fore.
+
+de rebus ad me scripsisti, quoniam ipse venio, coram videbimus. quidem et in agendis nostris rebus et in consiliis ineundis mihique dandis in ipsis litteris quas mittis benevolentiam, diligentiam, prudentiam mirifice diligo. tamen si quid cum Silio, vel illo ipso die quo ad Siccam venturus ero, certiorem me velim facias, et maxime cuius loci detractionem fieri velit. enim scribis extremi, vide ne is ipse locus sit cuius causa de tota re, ut scis, est a nobis cogitatum. Hirti epistulam tibi misi et recentem et benevole scriptam.
+
+Scr. fort. in suburbano Siccae K. vesp. aut mane vi Non. Mai. a. 709 (45).
+
+CICERO ATTICO salutem quam a te proxime discessi, numquam mihi venit in mentem, quo plus insumptum in monimentum esset quam nescio quid quod lege conceditur, tantundem populo dandum esse. non magno opere moveret, nisi nescio quo modo, ἀλόγωσ fortasse, nollem illud ullo nomine nisi fani appellari. si volumus, vereor ne adsequi non possimus nisi mutato loco. quale sit, quaeso, considera. etsi minus urgeor meque ipse prope modum conlegi, tamen indigeo tui consili. te vehementer etiam atque etiam rogo magis quam a me vis aut pateris te rogari ut hanc cogitationem toto pectore amplectare.
+
+Scr. Asturae v Non. Mai. a. 709 (45).
+
+CICERO ATTICO salutem fieri volo neque hoc mihi eripi potest. similitudinem effugere non tam propter poenam legis studeo quam ut maxime adsequar ἀποθέωσιν. poteram, si in ipsa villa facerem; sed ut saepe locuti sumus, commutationes dominorum reformido. agro ubicumque fecero, mihi videor adsequi posse ut posteritas habeat religionem. meae tibi ineptiae (fateor enim) ferendae sunt; nam habeo ne me quidem ipsum quicum tam audacter communicem quam tecum. tibi res, si locus, si institutum placet, lege, quaeso, legem mihique eam mitte. quid in mentem veniet quo modo eam effugere possimus, utemur.
+
+Brutum si quid scribes, nisi alienum putabis, obiurgato eum quod in Cumano esse noluerit propter eam causam quam tibi dixi. enim mihi nihil tam videtur potuisse facere rustice. si tibi placebit sic agere de fano ut coepimus, velim cohortere et exacuas Cluatium. etiam si alio loco placebit, illius nobis opera consilioque utendum puto. ad villam fortasse cras.
+
+Scr. Asturae iv Non. Mai. a. 709 (45).
+
+CICERO ATTICO salutem a te heri duas epistulas accepi, alteram pridie datam Hilaro, alteram eodem die tabellario, accepique ab Aegypta liberto eodem die Piliam et Atticam plane belle se habere. mihi Bruti litteras, gratum. me quoque misit; quae litterae mihi redditae sunt tertio decimo die. ipsam ad te epistulam misi et ad eam exemplum mearum litterarum.
+
+fano, si nihil mihi hortorum invenis, qui quidem tibi inveniendi sunt, si me tanti facis quanti certe facis, valde probo rationem tuam de Tusculano. prudens ad cogitandum sis, sicut es, tamen nisi magnae curae tibi esset ut ego consequerer id quod magno opere vellem, numquam ea res tibi tam belle in mentem venire potuisset. nescio quo pacto celebritatem requiro; itaque hortos mihi conficias necesse est. est in Scapulae celebritas, propinquitas praeterea ubi sis, ne totum diem in villam. re ante quam discedis, Othonem, si Romae est, convenias pervelim. nihil erit, etsi tu meam stultitiam consuesti ferre, eo tamen progrediar uti stomachere. Drusus enim certe vendere vult. ergo aliud non erit, mea erit culpa nisi emero. in re ne labar, quaeso, provide. autem una ratio est si quid de Scapulanis possumus. velim me certiorem facias quam diu in suburbano sis futurus.
+
+Terentiam tam gratia opus est nobis tua quam auctoritate. facies ut videbitur. enim si quid mea intersit tibi maiori curae solere esse quam mihi.
+
+Scr. Asturae iii Non. Mai. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Hirtius ad me scripsit Sex. Pompeium Corduba exisse et fugisse in Hispaniam citeriorem, Gnaeum fugisse nescio quo; neque enim curo. praeterea novi. Narbone dedit x iiii Kal. Maias. mihi de Canini naufragio quasi dubia misisti. igitur si quid erit certius. me a maestitia avocas, multum levaris si locum fano dederis. mihi εἰς ἀποθέωσιν in mentem veniunt, sed loco valde opus est. re etiam Othonem vide.
+
+Scr. Asturae prid. Non. Mai. a. 709 (45).
+
+CICERO ATTICO salutem dubito quin occupatissimus fueris qui ad me nihil litterarum; sed homo nequam qui tuum commodum non exspectarit, cum ob eam unam causam missus esset. quidem, nisi quid te tenuit, suspicor te esse in suburbano. ego hic scribendo dies totos nihil equidem levor sed tamen aberro.
+
+Asinius Pollio ad me scripsit de impuro nostro cognato. Balbus minor nuper satis plane, Dolabella obscure, hic apertissime. graviter si novae aegrimoniae locus esset. tamen ecquid impurius? o hominem cavendum! mihi quidem—sed tenendus dolor est., quoniam necesse nihil est, sic scribes aliquid si vacabis.
+
+Scr. Asturae Non. Mai. a. 709 (45).
+
+CICERO ATTICO salutem putas oportere pervideri iam animi mei firmitatem graviusque quosdam scribis de me loqui quam aut te scribere aut Brutum, si qui me fractum esse animo et debilitatum putant sciant quid litterarum et cuius generis conficiam, credo, si modo homines sint, existiment me, sive ita levatus sim ut animum vacuum ad res difficilis scribendas adferam, reprehendendum non esse, sive hanc aberrationem a dolore delegerim quae maxime liberalis sit doctoque homine dignissima, laudari me etiam oportere.
+
+cum ego faciam omnia quae facere possim ad me adlevandum, tu effice id quod video te non minus quam me laborare. mihi debere videor neque levari posse nisi solvero aut videro me posse solvere, id est locum qualem volo invenero.
+
+Scapulae si istos hortos, ut scribis tibi Othonem dixisse, partibus quattuor factis liceri cogitant, nihil est scilicet emptori loci; sin venibunt, quid fieri possit videbimus. ille locus Publicianus qui est Treboni et Cusini erat ad me adlatus. scis aream esse. pacto probo. Clodiae sane placent sed non puto esse venalis. Drusi hortis, quamvis ab iis abhorreas, ut scribis, tamen eo confugiam nisi quid inveneris. me non movet. enim aliud aedificabo nisi id quod etiam si illos non habuero. Κῦρος δ', ε' mihi sic placuit ut cetera Antisthenis, hominis acuti magis quam eruditi.
+
+Scr. Asturae viii Id. Mai. a. 709 (45).
+
+CICERO ATTICO salutem ad me cum sine litteris tuis venisset, existimavi tibi eam causam non scribendi fuisse quod pridie scripsisses ea ipsa ad quam rescripsi epistula. tamen aliquid de litteris Asini Pollionis. nimium ex meo otio tuum specto. tibi remitto, nisi quid necesse erit, necesse ne habeas scribere nisi eris valde otiosus.
+
+tabellariis facerem quod suades, si essent ullae necessariae litterae, ut erant olim cum tamen brevioribus diebus cotidie respondebant tempori tabellam, et erat aliquid, Silius, Drusus, alia quaedam. nisi Otho exstitisset, quod scriberemus non erat; id ipsum dilatum est. adlevor cum loquor tecum absens, multo etiam magis cum tuas litteras lego. quoniam et abes (sic enim arbitror) et scribendi necessitas nulla est, conquiescent litterae nisi quid novi exstiterit.
+
+Scr. Asturae vii Id. Mai. a. 709 (45).
+
+CICERO ATTICO salutem futura sit Caesaris vituperatio contra laudationem meam perspexi ex eo libro quem Hirtius ad me misit; in quo conligit vitia Catonis sed cum maximis laudibus meis. misi librum ad Muscam ut tuis librariis daret. enim eum divulgari; quod quo facilius fiat imperabis tuis.
+
+συμβουλευτικὸν saepe conor. reperio et quidem mecum habeo et Ἀριστοτέλουσ et Θεοπόμπου libros πρὸς Ἀλέξανδρον. quid simile? et quae ipsis honesta essent scribebant et grata Alexandro. tu eius modi reperis? quidem nihil in mentem venit. scribis te vereri ne et gratia et auctoritas nostra hoc meo maerore minuatur, ego quid homines aut reprehendant aut postulent nescio. doleam? potest? iaceam? umquam minus? tua me domus levabat, quis a me exclusus? quis venit qui offenderet? Asturam sum a te profectus. isti laeti qui me reprehendunt tam multa non possunt quam ego scripsi. bene, nihil ad rem, sed genus scribendi id fuit quod nemo abiecto animo facere posset. dies in hortis fui. aut congressum meum aut facilitatem sermonis desideravit? ipsum ea lego, ea scribo ut ii qui mecum sunt difficilius otium ferant quam ego laborem.
+
+quis requirit cur Romae non sim: quia discessus est; cur non sim in iis meis praediolis quae sunt huius temporis: quia frequentiam illam non facile ferrem. sum igitur ubi is qui optimas Baias habebat quotannis hoc tempus consumere solebat. Romam venero, nec vultu nec oratione reprehendar. illam qua hanc tristitiam temporum condiebam in perpetuum amisi, constantia et firmitas nec animi nec orationis requiretur.
+
+hortis Scapulanis hoc videtur effici posse, aliud tua gratia, aliud nostra, ut praeconi subiciantur. nisi fit, excludemur. ad tabulam venimus, vincemus facultates Othonis nostra cupiditate. quod ad me de Lentulo scribis, non †est in eo†. Faberiana modo res certa sit tuque enitare, quod facis, quod volumus consequemur.
+
+quaeris quam diu hic: paucos dies. certum non habeo. ac constituero, ad te scribam, et tu ad me quam diu in suburbano sis futurus. die ego ad te haec misi, de Pilia et Attica mihi quoque eadem quae scribis et scribuntur et nuntiantur.
+
+Scr. Asturae v Id. Mai. a. 709 (45).
+
+CICERO ATTICO salutem erat quod scriberem. tamen volebam ubi esses; si abes aut afuturus es, quando rediturus esses. igitur certiorem. quod tu scire volebas ego quando ex hoc loco, postridie Idus Lanuvi constitui manere, inde postridie in Tusculano aut Romae. utrum sim facturus eo ipso die scies.
+
+quam sit φιλαίτιον συμφορά, minime in te quidem, sed tamen avide sum adfectus de fano, quod nisi non dico effectum erit sed fieri videro (audebo hoc dicere et tu ut soles accipies), incursabit in te dolor meus non iure ille quidem sed tamen feres hoc ipsum quod scribo ut omnia mea fers ac tulisti. tuas consolationes unam hanc in rem velim conferas. quaeris quid optem, primum Scapulae, deinde Clodiae, postea, si Silius nolet, Drusus aget iniuste, Cusini et Treboni. tertium esse dominum, Rebilum fuisse certo scio. autem tibi Tusculanum placet, ut significasti quibusdam litteris, tibi adsentiar. quidem utique perficies, si me levari vis, quem iam etiam gravius accusas quam patitur tua consuetudo, sed facis summo amore et victus fortasse vitio meo. tamen si me levari vis, haec est summa levatio vel, si verum scire vis, una.
+
+Hirti epistulam si legeris, quae mihi quasi πρόπλασμα videtur eius vituperationis quam Caesar scripsit de Catone, facies me quid tibi visum sit, si tibi erit commodum, certiorem. ad fanum. hac aestate absolutum erit quam vides integram restare, scelere me liberatum non putabo.
+
+Scr. Asturae vi Id. Mai. a. 709 (45).
+
+CICERO ATTICO salutem a te desideravi diem litterarum; videbam enim quae scribis, et tamen suspicabar vel potius intellegebam nihil fuisse quod scriberes; a. d. vi Idus vero et abesse te putabam et plane videbam nihil te habere. tamen ad te fere cotidie mittam; malo enim frustra quam te non habere cui des, si quid forte sit quod putes me scire oportere. accepi vi Idus litteras tuas inanis. enim habebas quod scriberes? tamen illud quicquid erat non molestum fuit, ut nihil aliud, scire me novi te nihil habere. tamen nescio quid de Clodia. ubi ergo ea est aut quando ventura? mihi res sic ut secundum
+
+Othonem nihil magis. neque hanc vendituram puto (delectatur enim et copiosa est), et illud alterum quam sit difficile te non fugit., obsecro, enitamur ut aliquid ad id quod cupio excogitemus.
+
+me hinc postridie. exiturum puto sed aut in Tusculanum aut domum, inde fortasse Arpinum. certum sciero, scribam ad te.
+
+Scr. Asturae iv Id. Mai. a. 709 (45).
+
+CICERO ATTICO salutem mihi in mentem monere te ut id ipsum quod facis faceres. enim commodius te idem istud domi agere posse interpellatione sublata. postridie Idus, ut scripsi ad te ante, Lanuvi manere constitui, inde aut Romae aut in Tusculano; scies ante utrum † scies recte illam rem fore levamento, bene facis cumidesse† mihi crede perinde ut existimare tu non potes. indicat quanto opere id cupiam, quom tibi audeam confiteri quem id non ita valde probare arbitrer. ferendus tibi in hoc meus error.? immo vero etiam adiuvandus.
+
+Othone diffido, fortasse quia cupio. tamen maior etiam res est quam facultates nostrae, praesertim adversario et cupido et locuplete et herede. est ut velim Clodiae. si ista minus confici possunt, effice quidvis. me maiore religione quam quisquam fuit ullius voti obstrictum puto. etiam Trebonianos, etsi absunt domini., ut ad te heri scripsi, considerabis etiam de Tusculano ne aestas effluat; quod certe non est committendum.
+
+Scr. Asturae iii Id. Mai. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Hirtium aliquid ad te συμπαθῶσ de me scripsisse facile patior (fecit enim humane) et te eius epistulam ad me non misisse multo facilius; tu enim etiam humanius. librum quem ad me misit de Catone propterea volo divulgari a tuis ut ex istorum vituperatione sit illius maior laudatio.
+
+per Mustelam agis, habes hominem valde idoneum meique sane studiosum iam inde a Pontiano. igitur aliquid. autem aliud nisi ut aditus sit emptori? quod per quemvis heredem potest effici. Mustelam id perfecturum, si rogaris, puto. vero et locum quem opto ad id quod volumus dederis et praeterea ἐγγήραμα. illa Sili et Drusi non satis οἰκοδεσποτικὰ mihi videntur. enim? sedere totos dies in villa? igitur malim, primum Othonis, deinde Clodiae. nihil fiet, aut Druso ludus est suggerendus aut utendum Tusculano.
+
+domi te inclusisti ratione fecisti; sed, quaeso, confice et te vacuum redde nobis. hinc, ut scripsi antea, postridie Idus Lanuvi, deinde postridie in Tusculano. Contudi enim animum et fortasse vici, si modo permansero. igitur fortasse cras, summum perendie. quid est, quaeso? Philotimus nec Carteiae Pompeium teneri (qua de re litterarum ad Clodium Patavinum missarum exemplum mihi Oppius et Balbus miserant, se id factum arbitrari) bellumque narrat reliquum satis magnum. omnino esse Fulviniaster. tamen, si quid habes. etiam de naufragio Caniniano scire quid sit.
+
+hic duo magna συντάγματα absolvi; nullo enim alio modo a miseria quasi aberrare possum. mihi, etiam si nihil erit quod scribas, quod fore ita video, tamen id ipsum scribas velim te nihil habuisse quod scriberes, dum modo ne his verbis.
+
+Scr. in Tusculano xvi K. Iun. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Attica optime. ἀκηδία tua me movet, etsi scribis nihil esse. Tusculano eo commodius ero quod et crebrius tuas litteras accipiam et te ipsum non numquam videbo; nam ceteroqui ἀνεκτότερα erant Asturae. haec quae refricant hic me magis angunt; etsi tamen, ubicumque sum, illa sunt mecum. Caesare vicino scripseram ad te, quia cognoram ex tuis litteris.
+
+σύνναον Quirini malo quam Salutis. vero pervulga Hirtium. enim ipsum putaram quod scribis, ut cum ingenium amici nostri probaretur, ὑπόθεσισ vituperandi Catonis inrideretur.
+
+Scr. Asturae ld. Mai. a. 709 (45). CICERO ATTICO salutem
+
+, opinor, animum et Lanuvio pergam in Tusculanum. enim mihi in perpetuum fundo illo carendum est (nam dolor idem manebit, tantum modo occultius) aut nescio quid intersit utrum illuc nunc veniam an ad decem annos. enim ista maior admonitio quam quibus adsidue conficior et dies et noctes.
+
+ergo? inquies, nihil litterae? hac quidem re vereor ne etiam contra; nam essem fortasse durior. enim animo nihil agreste, nihil inhumanum est.
+
+igitur, ut scripsisti, nec id incommodo tuo. binae enim poterunt litterae. etiam si necesse erit. id quidem ut poteris.
+
+Scr. Lanuvi xvii K. Iun. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Mustela, ut scribis, etsi magnum opus est. magis delabor ad Clodiam. in utroque Faberianum nomen explorandum est. quo nihil nocuerit si aliquid cum Balbo eris locutus et quidem, ut res est, emere nos velle nec posse sine isto nomine nec audere re incerta. quando Clodia Romae futura est et quanti rem aestimas? prorsus specto, non quin illud malim sed et magna res est et difficile certamen cum cupido, cum locuplete, cum herede. de cupiditate nemini concedam; ceteris rebus inferiores sumus. haec coram.
+
+Scr. Lanuvi xvi K. Iun. mane a. 709 (45). CICERO ATTICO salutem
+
+Hirti librum, ut facis, divulga. Philotimo idem et ego arbitrabar. tuam pluris video futuram vicino Caesare. meum hodie exspectamus. de Pilia et Attica certiores faciet.
+
+te libenter esse facile credo. velim scire quid tibi restet aut iamne confeceris. te in Tusculano exspecto eoque magis quod Tironi statim te venturum scripsisti et addidisti te putare opus esse.
+
+Scr. in Tusculano xiv K. Iun. a. 709 (45).
+
+CICERO ATTICO salutem omnino quantum mihi praesens prodesses sed multo magis post discessum tuum sentio. ob rem, ut ante ad te scripsi, aut ego ad te totus aut tu ad me, quod licebit.
+
+non multo post quam tu a me discessisti, puto, quidam urbani ut videbantur ad me mandata et litteras attulerunt a C. Mario C. f. C. n. multis verbis agere mecum per cognationem quae mihi secum esset, per eum Marium quem scripsissem, per eloquentiam L. Crassi avi sui ut se defenderem, causamque suam mihi perscripsit. patrono illi nihil opus esse, quoniam Caesaris propinqui eius omnis potestas esset, viri optimi et hominis liberalissimi; me tamen ei fauturum. o tempora! fore cum dubitet Curtius consulatum petere! haec hactenus.
+
+Tirone mihi curae est. iam sciam quid agat. enim misi qui videret; cui etiam ad te litteras dedi. ad Ciceronem tibi misi. quam in diem proscripti sint velim ad me scribas.
+
+Scr. in Tusculano xv K. Iun. a. 709 (45).
+
+CICERO ATTICO salutem ut me levarat tuus adventus sic discessus adfiixit. re cum poteris, id est cum Sexti auctioni operam dederis, revises nos. unus dies mihi erit utilis, quid dicam gratus? Romam venirem ut una essemus, si satis consultum quadam de re haberem.
+
+Scr. in Tusculano xiii K. luit. a. 709 (45).
+
+CICERO ATTICO salutem
+
+Tironem habeo citius quam verebar. etiam Nicias, et Valerium hodie audiebam esse venturum. multi sint, magis tamen ero solus quam si unus esses. exspecto te, a Peducaeo utique, tu autem significas aliquid etiam ante. id quidem ut poteris.
+
+Vergilio, ut scribis. tamen velim scire quando auctio. ad Caesarem mitti video tibi placere. quaeris? mihi quoque hoc idem maxime placuit et eo magis quod nihil est in ea nisi optimi civis, sed ita optimi ut tempora; quibus parere omnes πολιτικοὶ praecipiunt. scis ita nobis esse visum ut isti ante legerent. igitur id curabis. nisi plane iis intelleges placere, mittenda non est. autem utrum illi sentiant anne simulent tu intelleges. simulatio pro repudiatione fuerit. τοῦτο δὲ μηλώσῃ.
+
+Caerellia quid tibi placeret Tiro mihi narravit; debere non esse dignitatis meae, perscriptionem tibi placere:
+
+métuere, alterum ín metu non pónere.
+
+et haec et multa alia coram. tamen, si tibi videbitur, solutio est nominis Caerelliani dum et de Metone et de Faberio sciamus.
+
+Scr. in Tusculano xii K. Iun. a. 709 (45).
+
+CICERO ATTICO salutem
+
+L. Tullium Montanum nosti qui cum Cicerone profectus est. eius sororis viro litteras accepi Montanum Planco debere, quod praes pro Flaminio sit, HS x_x_; de ea re nescio quid te a Montano rogatum. velim, sive Plancus est rogandus sive qua re potes illum iuvare, iuves. ad nostrum officium. res tibi forte notior est quam mihi, aut si Plancum rogandum putas, scribas ad me velim ut quid rei sit et quid rogandum sciam.
+
+epistula ad Caesarem quid egeris exspecto. Silio non ita sane laboro. mi aut Scapulanos aut Clodianos efficias necesse est. nescio quid videris dubitare de Clodia; utrum quando veniat an sintne venales? quid est quod audio Spintherem fecisse divortium? lingua Latina securi es animi., talia a conscribis?' ἀπόγραφα sunt, minore labore fiunt; verba tantum adfero quibus abundo.
+
+Scr. in Tusculano xi K. Iun. a. 709 (45).
+
+CICERO ATTICO salutem etsi nihil habeo quod ad te scribam, scribo tamen quia tecum loqui videor. nobiscum sunt Nicias et Valerius. tuas litteras exspectabamus matutinas. fortasse alterae posmeridianae, nisi te Epiroticae litterae impedient quas ego non interpello. ad te epistulas ad Marcianum et ad Montanum. in eundem fasciculum velim addas, nisi forte iam dedisti.

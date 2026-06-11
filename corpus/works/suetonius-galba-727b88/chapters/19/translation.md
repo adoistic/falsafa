@@ -1,0 +1,21 @@
+---
+work_id: "727b88b0-3818-5e23-a3d0-6f99e953c8ad"
+work_slug: "suetonius-galba-727b88"
+work_title: Galba
+author_name: Suetonius
+chapter_number: 19
+chapter_title: Chapter 19
+chapter_slug: 19
+variant_id: "a661f461-59c5-59d4-8e13-ebc10eed3934"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 261
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo017.perseus-eng2:19"
+translator: Perseus Digital Library
+---
+
+The day before he was slain, as he was sacrificing in the morning, the augur warned him from time to time to be upon his guard, for that he was in danger from assassins, and that they were near at hand. Soon after, he was informed, that Otho was in possession of the pretorian camp. And though most of his friends advised him to repair thither immediately, in hopes that he might quell the tumult by his authority and presence, he resolved to do nothing more than keep close within the palace, and secure himself by guards of the legionary soldiers, who were quartered in different parts about the city. He put on a linen coat of mail, however; remarking at the same time, that it would avail him little against the points of so many swords. But being tempted out by false reports, which the conspirators had purposely spread to induce him to venture abroad-some few of those about him too hastily assuring him that the tumult had ceased, the mutineers were apprehended, and the rest coming to congratulate him, resolved to continue firm in their obedience-he went forward to meet them with so much confidence, that upon a soldier's boasting that he had killed Otho, he asked him, "By what authority?" and proceeded as far as the forum. There the knights appointed to dispatch him, making their way through the crowd of citizens, upon seeing him at a distance, halted a while; after which, galloping up to him, now abandoned by all his attendants, they put him to death.

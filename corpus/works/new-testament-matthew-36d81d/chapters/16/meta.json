@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-matthew-36d81d",
+  "work_title": "Matthew",
+  "chapter_number": 16,
+  "chapter_title": "Chapter 16",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3f1c87e0-9fb0-5efe-b44b-e9c71f930c41",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 526,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg001.perseus-grc2:16"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "55f93533-74be-5a95-9ae3-047f5b780c0a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 642,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg001.perseus-eng2:16"
+    }
+  ]
+}

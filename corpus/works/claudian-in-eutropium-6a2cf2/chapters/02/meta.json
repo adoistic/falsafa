@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-in-eutropium-6a2cf2",
+  "work_title": "In Eutropium",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "64d71390-538a-5bef-b337-567294bad521",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4091,
+      "paragraph_count": 223,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa008.perseus-lat2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "07f3371b-0b3c-542b-ad4d-7c88b90dc1bb",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7289,
+      "paragraph_count": 74,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa008.perseus-eng1:2"
+    }
+  ]
+}

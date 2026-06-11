@@ -1,0 +1,29 @@
+---
+work_id: "5dd3ac9d-8ac2-58d1-86f6-fe231ee34bd1"
+work_slug: "plutarch-marcus-cato-5dd3ac"
+work_title: Marcus Cato
+author_name: Plutarch
+chapter_number: 13
+chapter_title: Chapter 13
+chapter_slug: 13
+variant_id: "801480e4-6cc7-55ec-8fdf-76f973003034"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 547
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg025.perseus-eng2:13"
+translator: Bernadotte Perrin
+---
+
+Now Antiochus had blocked up the narrow pass of Thermopylae with his army, adding trenches and walls to the natural defences of the place, and sat there, thinking that he had locked the war out of Greece. And the Romans did indeed despair utterly of forcing a direct passage. But Cato, calling to mind the famous compass and circuit of the pass which the Persians had once made, took a considerable force and set out under cover of darkness.
+
+They climbed the heights, but their guide, who was a prisoner of war, lost the way, and wandered about in impracticable and precipitous places until he had filled the soldiers with dreadful dejection and fear. Cato, seeing their peril, bade the rest remain quietly where they were, while he himself, with a certain Lucius Manlius, an expert mountain-climber, made his way along, with great toil and hazard, in the dense darkness of a moonless night, his vision much impeded and obscured by wild olive trees and rocky peaks, until at last they came upon a path. This, they thought, led down to the enemy’s camp. So they put marks and signs on some conspicuous cliffs which towered over Mount Callidromus, and then made their way back again to the main body. This too they conducted to the marks and signs, struck into the path indicated by these, and started forward. But when they had gone on a little way, the path failed them, and a ravine yawned to receive them. Once more dejection and fear were rife. They did not know and could not see that they were right upon the enemy whom they sought. But presently gleams of daylight came, here and there a man thought he heard voices, and soon they actually saw a Greek outpost entrenched at the foot of the cliffs.
+
+So then Cato halted his forces there, and summoned the men of Firmum to a private conference. These soldiers he had always found trusty and zealous in his service. When they had run up and stood grouped about him he said: I must take one of the enemy’s men alive, and learn from him who they are that form this advance guard, what their number is, aid with what disposition and array their main body awaits us.
+
+But the task demands the swift and bold leap of lions fearlessly rushing all unarmed upon the timorous beasts on which they prey. So spake Cato, and the Firmians instantly started, just as they were, rushed down the mountain-side, and ran upon the enemy’s sentinels. Falling upon them unexpectedly, they threw them all into confusion and scattered them in flight; one of them they seized, arms and all, and delivered him over to Cato.
+
+From the captive Cato learned that the main force of the enemy was encamped in the pass with the king himself, and that the detachment guarding the pass over the mountains was composed of six hundred picked Aetolians. Despising their small numbers and their carelessness, he led his troops against them at once, with bray of trumpet and battle-cry, being himself first to draw his sword. But when the enemy saw his men pouring down upon them from the cliffs, they fled to the main army, and filled them all with confusion.

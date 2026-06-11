@@ -1,6 +1,6 @@
 {
   "name": "@falsafa/mcp",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Open-source MCP server for the Falsafa corpus. Ten librarian-flavored tools (eight catalog tools plus read_wiki and read_wiki_full for the rule-based wiki layer) so any LLM (Claude, ChatGPT, Hermes via OpenRouter, etc.) can navigate the catalog without an API key.",
   "license": "MIT",
   "author": "Adnan Abbasi <adnan@thothica.com> (https://meetadnan.com)",
@@ -18,7 +18,6 @@
   },
   "files": [
     "dist/",
-    "corpus/",
     "README.md",
     "LICENSE"
   ],
@@ -32,7 +31,7 @@
     "test": "bun test",
     "eval": "bun run eval/run-evals.ts",
     "eval:case": "bun run eval/run-evals.ts",
-    "prepack": "node scripts/copy-corpus.mjs && npm run build",
+    "prepack": "npm run build",
     "prepublishOnly": "node scripts/check-license-drift.mjs"
   },
   "engines": {

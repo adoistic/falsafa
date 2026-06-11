@@ -1,0 +1,39 @@
+{
+  "work_slug": "claudian-de-raptu-proserpinae-0a159e",
+  "work_title": "de raptu Proserpinae",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d1f5ebc6-a7ae-57b3-a32b-f841ebe308fd",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1765,
+      "paragraph_count": 100,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa005.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "91b6444a-a90f-55a4-8806-84159a00a6b9",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3113,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0089.stoa005.perseus-eng1:1"
+    }
+  ]
+}

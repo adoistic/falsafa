@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-solon-48a3e2",
+  "work_title": "Solon",
+  "chapter_number": 19,
+  "chapter_title": "Chapter 19",
+  "chapter_slug": "19",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0fea231e-be52-5525-8a0c-323cef8b1be8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 254,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg007.perseus-grc2:19"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "90f3ed2c-b23f-57ec-b667-5aa5a70fd546",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 389,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg007.perseus-eng2:19"
+    }
+  ]
+}

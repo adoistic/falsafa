@@ -1,0 +1,1327 @@
+---
+work_id: "ecffbd7d-d8f3-5825-bc16-16899b0c9709"
+work_slug: "herodotus-the-histories-ecffbd"
+work_title: The Histories
+author_name: Herodotus
+chapter_number: 2
+chapter_title: Book 2
+chapter_slug: 02
+variant_id: "e2761d34-8e10-54cf-a705-863e4a8364ff"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 29885
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2:2"
+translator: Alfred Denis Godley
+---
+
+After the death of Cyrus, Cambyses inherited his throne. He was the son of Cyrus and of Cassandane, the daughter of Pharnaspes, for whom Cyrus mourned deeply when she died before him, and had all his subjects mourn also.
+
+Cambyses was the son of this woman and of Cyrus. He considered the Ionians and Aeolians slaves inherited from his father, and prepared an expedition against Egypt, taking with him some of these Greek subjects besides others whom he ruled.
+
+Now before Psammetichus became king of Egypt, the Egyptians believed that they were the oldest people on earth. But ever since Psammetichus became king and wished to find out which people were the oldest, they have believed that the Phrygians were older than they, and they than everybody else.
+
+Psammetichus, when he was in no way able to learn by inquiry which people had first come into being, devised a plan by which he took two newborn children of the common people and gave them to a shepherd to bring up among his flocks. He gave instructions that no one was to speak a word in their hearing; they were to stay by themselves in a lonely hut, and in due time the shepherd was to bring goats and give the children their milk and do everything else necessary.
+
+Psammetichus did this, and gave these instructions, because he wanted to hear what speech would first come from the children, when they were past the age of indistinct babbling. And he had his wish; for one day, when the shepherd had done as he was told for two years, both children ran to him stretching out their hands and calling “Bekos!” as he opened the door and entered.
+
+When he first heard this, he kept quiet about it; but when, coming often and paying careful attention, he kept hearing this same word, he told his master at last and brought the children into the king's presence as required. Psammetichus then heard them himself, and asked to what language the word “Bekos” belonged; he found it to be a Phrygian word, signifying bread.
+
+Reasoning from this, the Egyptians acknowledged that the Phrygians were older than they. This is the story which I heard from the priests of Hephaestus ' temple at Memphis; the Greeks say among many foolish things that Psammetichus had the children reared by women whose tongues he had cut out.
+
+Besides this story of the rearing of the children, I also heard other things at Memphis in conversation with the priests of Hephaestus; and I visited Thebes and Heliopolis, too, for this very purpose, because I wished to know if the people of those places would tell me the same story as the priests at Memphis; for the people of Heliopolis are said to be the most learned of the Egyptians.
+
+Now, such stories as I heard about the gods I am not ready to relate, except their names, for I believe that all men are equally knowledgeable about them; and I shall say about them what I am constrained to say by the course of my history.
+
+But as to human affairs, this was the account in which they all agreed: the Egyptians, they said, were the first men who reckoned by years and made the year consist of twelve divisions of the seasons. They discovered this from the stars (so they said). And their reckoning is, to my mind, a juster one than that of the Greeks; for the Greeks add an intercalary month every other year, so that the seasons agree; but the Egyptians, reckoning thirty days to each of the twelve months, add five days in every year over and above the total, and thus the completed circle of seasons is made to agree with the calendar.
+
+Furthermore, the Egyptians (they said) first used the names of twelve gods (which the Greeks afterwards borrowed from them); and it was they who first assigned to the several gods their altars and images and temples, and first carved figures on stone. Most of this they showed me in fact to be the case. The first human king of Egypt, they said, was Min.
+
+In his time all of Egypt except the Thebaic district was a marsh: all the country that we now see was then covered by water, north of lake Moeris, which is seven days' journey up the river from the sea.
+
+And I think that their account of the country was true. For even if a man has not heard it before, he can readily see, if he has sense, that that Egypt to which the Greeks sail is land deposited for the Egyptians, the river's gift—not only the lower country, but even the land as far as three days' voyage above the lake, which is of the same nature as the other, although the priests did not say this, too.
+
+For this is the nature of the land of Egypt: in the first place, when you approach it from the sea and are still a day's sail from land, if you let down a sounding line you will bring up mud from a depth of eleven fathoms. This shows that the deposit from the land reaches this far.
+
+Further, the length of the seacoast of Egypt itself is sixty “schoeni” —of Egypt, that is, as we judge it to be, reaching from the Plinthinete gulf to the Serbonian marsh, which is under the Casian mountain —between these there is this length of sixty schoeni.
+
+Men that have scant land measure by feet; those that have more, by miles; those that have much land, by parasangs; and those who have great abundance of it, by schoeni.
+
+The parasang is three and three quarters miles, and the schoenus, which is an Egyptian measure, is twice that.
+
+By this reckoning, then, the seaboard of Egypt will be four hundred and fifty miles in length. Inland from the sea as far as Heliopolis, Egypt is a wide land, all flat and watery and marshy. From the sea up to
+
+Heliopolis is a journey about as long as the way from the altar of the twelve gods at Athens to the temple of Olympian Zeus at Pisa.
+
+If a reckoning is made, only a little difference of length, not more than two miles, will be found between these two journeys; for the journey from
+
+Athens to Pisa is two miles short of two hundred, which is the number of miles between the sea and Heliopolis.
+
+Beyond and above Heliopolis, Egypt is a narrow land. For it is bounded on the one side by the mountains of Arabia, which run north to south, always running south towards the sea called the Red Sea. In these mountains are the quarries that were hewn out for making the pyramids at Memphis. This way, then, the mountains run, and end in the places of which I have spoken; their greatest width from east to west, as I learned by inquiry, is a two months' journey, and their easternmost boundaries yield frankincense.
+
+Such are these mountains. On the side of Libya, Egypt is bounded by another range of rocky mountains among which are the pyramids; these are all covered with sand, and run in the same direction as those Arabian hills that run southward.
+
+Beyond Heliopolis, there is no great distance—in Egypt, that is: the narrow land has a length of only fourteen days' journey up the river. Between the aforesaid mountain ranges, the land is level, and where the plain is narrowest it seemed to me that there were no more than thirty miles between the Arabian mountains and those that are called Libyan. Beyond this Egypt is a wide land again. Such is the nature of this country.
+
+From Heliopolis to Thebes is nine days' journey by river, and the distance is six hundred and eight miles, or eighty-one schoeni.
+
+This, then, is a full statement of all the distances in Egypt: the seaboard is four hundred and fifty miles long; and I will now declare the distance inland from the sea to Thebes: it is seven hundred and sixty-five miles. And between Thebes and the city called Elephantine there are two hundred and twenty-five miles.
+
+The greater portion, then, of this country of which I have spoken was land deposited for the Egyptians as the priests told me, and I myself formed the same judgment; all that lies between the ranges of mountains above Memphis to which I have referred seemed to me to have once been a gulf of the sea, just as the country about Ilion and Teuthrania and Ephesus and the plain of the Maeander, to compare these small things with great.
+
+For of the rivers that brought down the stuff to make these lands, there is none worthy to be compared for greatness with even one of the mouths of the
+
+Nile, and the Nile has five mouths.
+
+There are also other rivers, not so great as the Nile, that have had great effects; I could rehearse their names, but principal among them is the Achelous, which, flowing through Acarnania and emptying into the sea, has already made half of the Echinades Islands mainland.
+
+Now in Arabia, not far from Egypt, there is a gulf extending inland from the sea called Red, whose length and width are such as I shall show:
+
+in length, from its inner end out to the wide sea, it is a forty days' voyage for a ship rowed by oars; and in breadth, it is half a day's voyage at the widest. Every day the tides ebb and flow in it.
+
+I believe that where Egypt is now, there was once another such gulf; this extended from the northern sea towards Aethiopia, and the other, the Arabian gulf of which I shall speak, extended from the south towards Syria; the ends of these gulfs penetrated into the country near each other, and but a little space of land separated them.
+
+Now, if the Nile inclined to direct its current into this Arabian gulf, why should the latter not be silted up by it inside of twenty thousand years? In fact, I expect that it would be silted up inside of ten thousand years. Is it to be doubted, then, that in the ages before my birth a gulf even much greater than this should have been silted up by a river so great and so busy?
+
+As for Egypt, then, I credit those who say it, and myself very much believe it to be the case; for I have seen that Egypt projects into the sea beyond the neighboring land, and shells are exposed to view on the mountains, and things are coated with salt, so that even the pyramids show it, and the only sandy mountain in Egypt is that which is above Memphis;
+
+besides, Egypt is like neither the neighboring land of Arabia nor Libya, not even like Syria (for Syrians inhabit the seaboard of
+
+Arabia); it is a land of black and crumbling earth, as if it were alluvial deposit carried down the river from Aethiopia;
+
+but we know that the soil of Libya is redder and somewhat sandy, and Arabia and Syria are lands of clay and stones.
+
+This, too, that the priests told me about Egypt, is a strong proof: when Moeris was king, if the river rose as much as thirteen feet, it watered all of Egypt below Memphis. Moeris had not been dead nine hundred years when I heard this from the priests. But now, if the river does not rise at least twenty-six or twenty-five feet, the land is not flooded.
+
+And, in my opinion, the Egyptians who inhabit the lands lower down the river than lake Moeris, and especially what is called the Delta—if this land of theirs rises in the same proportion and broadens likewise in extent, and the Nile no longer floods it—will forever after be in the same straits as they themselves once said the Greeks would be;
+
+for, learning that all the Greek land is watered by rain, but not by river water like theirs, they said that one day the Greeks would be let down by what they counted on, and miserably starve: meaning that, if heaven send no rain for the Greeks and afflict them with drought, the Greeks will be overtaken by famine, for there is no other source of water for them except Zeus alone.
+
+And this prediction of the Egyptians about the Greeks was true enough. But now let me show the prospect for the Egyptians themselves: if, as I have already said, the country below Memphis (for it is this which rises) should increase in height in the same proportion as formerly, will not the Egyptians who inhabit it go hungry, as there is no rain in their country and the river will be unable to inundate their fields?
+
+At present, of course, there are no people, either in the rest of Egypt or in the whole world, who live from the soil with so little labor; they do not have to break the land up with the plough, or hoe, or do any other work that other men do to get a crop; the river rises of itself, waters the fields, and then sinks back again; then each man sows his field and sends swine into it to tread down the seed, and waits for the harvest; then he has the swine thresh his grain, and so garners it.
+
+Now if we agree with the opinion of the Ionians, who say that only the Delta is Egypt, and that its seaboard reaches from the so-called Watchtower of Perseus forty schoeni to the Salters' at Pelusium, while inland it stretches as far as the city of Cercasorus, where the Nile divides and flows to Pelusium and Canobus, and that all the rest of Egypt is partly Libya and partly Arabia —if we follow this account, we can show that there was once no land for the Egyptians;
+
+for we have seen that (as the Egyptians themselves say, and as I myself judge) the Delta is alluvial land and but lately (so to speak) came into being. Then if there was once no land for them, it was an idle notion that they were the oldest nation on earth, and they need not have made that trial to see what language the children would first speak.
+
+I maintain, rather, that the Egyptians did not come into existence together with what the Ionians call the Delta, but have existed since the human race came into being; and as the land grew in extent, there were many of them who stayed behind, and many who spread down over it. Be that as it may, the Theban district, a land of seven hundred and sixty-five miles in circumference, was in the past called Egypt.
+
+If, then, our judgment of this is right, the Ionians are in error concerning Egypt; but if their opinion is right, then it is plain that they and the rest of the Greeks cannot reckon truly, when they divide the whole earth into three parts, Europe, Asia, and Libya;
+
+they must add to these a fourth part, the Delta of Egypt, if it belongs neither to Asia nor to Libya; for by their showing the Nile is not the river that separates Asia and Libya; the Nile divides at the apex of this Delta, so that this land must be between
+
+Asia and Libya.
+
+We leave the Ionians ' opinion aside, and our own judgment about the matter is this: Egypt is all that country which is inhabited by Egyptians, just as Cilicia and Assyria are the countries inhabited by Cilicians and Assyrians, and we know of no boundary line (rightly so called) below Asia and Libya except the borders of the Egyptians.
+
+But if we follow the belief of the Greeks, we shall consider all Egypt commencing from the Cataracts and the city of Elephantine to be divided into two parts, and to claim both the names, the one a part of Libya and the other of Asia.
+
+For the Nile, beginning from the Cataracts, divides Egypt into two parts as it flows to the sea. Now, as far as the city Cercasorus the Nile flows in one channel, but after that it parts into three.
+
+One of these, which is called the Pelusian mouth, flows east; the second flows west, and is called the Canobic mouth. But the direct channel of the Nile, when the river in its downward course reaches the apex of the Delta, flows thereafter clean through the middle of the Delta into the sea; in this is seen the greatest and most famous part of its waters, and it is called the Sebennytic mouth.
+
+There are also two channels which separate themselves from the Sebennytic and so flow into the sea: by name, the Saïtic and the Mendesian.
+
+The Bolbitine and Bucolic mouths are not natural but excavated channels.
+
+The response of oracle of Ammon in fact bears witness to my opinion, that Egypt is of such an extent as I have argued; I learned this by inquiry after my judgment was already formed about Egypt.
+
+The men of the cities of Marea and Apis, in the part of Egypt bordering on Libya, believing themselves to be Libyans and not Egyptians, and disliking the injunction of the religious law that forbade them to eat cows' meat, sent to Ammon saying that they had no part of or lot with
+
+Egypt: for they lived (they said) outside the Delta and did not consent to the ways of its people, and they wished to be allowed to eat all foods.
+
+But the god forbade them: all the land, he said, watered by the Nile in its course was Egypt, and all who lived lower down than the city Elephantine and drank the river's water were Egyptians. Such was the oracle given to them.
+
+When the Nile is in flood, it overflows not only the Delta but also the lands called Libyan and Arabian, as far as two days' journey from either bank in places, and sometimes more than this, sometimes less. Concerning its nature, I could not learn anything either from the priests or from any others.
+
+Yet I was anxious to learn from them why the Nile comes down with a rising flood for a hundred days from the summer solstice; and when this number of days is passed, sinks again with a diminishing stream, so that the river is low for the whole winter until the summer solstice again.
+
+I was not able to get any information from any of the Egyptians regarding this, when I asked them what power the Nile has to be contrary in nature to all other rivers. I wished to know this, and asked; also, why no breezes blew from it as from every other river.
+
+But some of the Greeks, wishing to be notable for cleverness, put forward three opinions about this river, two of which I would not even mention except just to show what they are.
+
+One of them maintains that the Etesian winds are the cause of the river being in flood, because they hinder the Nile from emptying into the sea. But there are many times when the Etesian winds do not blow, yet the Nile does the same as before.
+
+And further, if the Etesian winds were the cause, then the other rivers which flow contrary to those winds should be affected like the Nile, and even more so, since being smaller they have a weaker current. Yet there are many rivers in Syria and many in Libya, and they behave nothing like the Nile.
+
+The second opinion is less grounded on knowledge than the previous, though it is more marvellous to the ear: according to it, the river effects what it does because it flows from Ocean, which flows around the whole world.
+
+The third opinion is by far the most plausible, yet the most erroneous of all. It has no more truth in it than the others. According to this, the Nile flows from where snows melt; but it flows from Libya through the midst of Ethiopia, and comes out into Egypt.
+
+How can it flow from snow, then, seeing that it comes from the hottest places to lands that are for the most part cooler? In fact, for a man who can reason about such things, the principal and strongest evidence that the river is unlikely to flow from snows is that the winds blowing from Libya and Ethiopia are hot.
+
+In the second place, the country is rainless and frostless; but after snow has fallen, it has to rain within five days; so that if it snowed, it would rain in these lands. And thirdly, the men of the country are black because of the heat.
+
+Moreover, kites and swallows live there all year round, and cranes come every year to these places to winter there, flying from the wintry weather of Scythia. Now, were there but the least fall of snow in this country through which the Nile flows and where it rises, none of these things would happen, as necessity proves.
+
+The opinion about Ocean is grounded in obscurity and needs no disproof; for I know of no Ocean river; and I suppose that Homer or some older poet invented this name and brought it into his poetry.
+
+If, after having condemned the opinions proposed, I must indicate what I myself think about these obscure matters, I shall say why I think the Nile floods in the summer. During the winter, the sun is driven by storms from his customary course and passes over the inland parts of Libya.
+
+For the briefest demonstration, everything has been said; for whatever country this god is nearest, or over, it is likely that that land is very thirsty for water and that the local rivers are dried up.
+
+A lengthier demonstration goes as follows. In its passage over the inland parts of Libya, the sun does this: as the air is always clear in that region, the land warm, and the winds cool, the sun does in its passage exactly as it would do in the summer passing through the middle of the heaven:
+
+it draws the water to itself, and having done so, expels it away to the inland regions, and the winds catch it and scatter and dissolve it; and, as is to be expected, those that blow from that country, the south and the southwest, are the most rainy of all winds.
+
+Yet I think that the sun never lets go of all of the water that it draws up from the Nile yearly, but keeps some back near itself. Then, as the winter becomes milder, the sun returns to the middle of the heaven, and after that draws from all rivers alike.
+
+Meanwhile, the other rivers are swollen to high flood by the quantity of water that falls into them from the sky, because the country is rained on and cut into gullies; but in the summer they are low, lacking the rain and being drawn up too by the sun.
+
+But the Nile, being fed by no rain, and being the only river drawn up by the sun in winter, at this time falls far short of the height that it had in summer; which is but natural; for in summer all other waters too and not it alone are attracted to the sun, but in the winter it alone is afflicted.
+
+I am convinced, therefore, that the sun is the cause of this phenomenon. The dryness of the air in these parts is also caused by the sun, in my opinion, because it burns its way through it; hence, it is always summer in the inland part of Libya.
+
+But were the stations of the seasons changed, so that the south wind and the summer had their station where the north wind and winter are now set, and the north wind was where the south wind is now—if this were so, the sun, when driven from mid-heaven by the winter and the north wind, would pass over the inland parts of Europe as it now passes over Libya, and I think that in its passage over all Europe it would have the same effect on the Ister as it now does on the Nile.
+
+And as to why no breeze blows from the river, this is my opinion: it is not natural that any breeze blow from very hot places; breezes always come from that which is very cold.
+
+Let this be, then, as it is and as it was in the beginning. But as to the sources of the Nile, no one that conversed with me, Egyptian, Libyan, or Greek, professed to know them, except the recorder of the sacred treasures of Athena in the Egyptian city of Saïs.
+
+I thought he was joking when he said that he had exact knowledge, but this was his story. Between the city of Syene in the Thebaid and Elephantine, there are two hills with sharp peaks, one called Crophi and the other Mophi.
+
+The springs of the Nile, which are bottomless, rise between these hills; half the water flows north towards Egypt, and the other half south towards Ethiopia.
+
+He said that Psammetichus king of Egypt had put to the test whether the springs are bottomless: for he had a rope of many thousand fathoms' length woven and let down into the spring, but he could not reach to the bottom.
+
+This recorder, then, if he spoke the truth, showed, I think, that there are strong eddies and an upward flow of water, such that with the stream rushing against the hills the sounding-line when let down cannot reach bottom.
+
+I was unable to learn anything from anyone else, but this much further I did learn by the most extensive investigation that I could make, going as far as the city of Elephantine to look myself, and beyond that by question and hearsay.
+
+Beyond Elephantine, as one travels inland, the land rises. Here one must pass with the boat roped on both sides as men harness an ox; and if the rope breaks, the boat will be carried away by the strength of the current.
+
+This part of the river is a four days' journey by boat, and the Nile here is twisty just as the Maeander; a distance of twelve schoeni must be passed in the foregoing manner. After that, you come to a level plain, where there is an island in the Nile, called Takhompso.
+
+The country above Elephantine now begins to be inhabited by Ethiopians: half the people of the island are Ethiopians, and half Egyptians. Near the island is a great lake, on whose shores live nomadic Ethiopians. After crossing this, you come to the stream of the Nile, which empties into this lake.
+
+Then you disembark and journey along the river bank for forty days; for there are sharp projecting rocks in the Nile and many reefs, through which no boat can pass.
+
+Having traversed this part in forty days as I have said, you take boat again and so travel for twelve days until you come to a great city called Meroe, which is said to be the capital of all Ethiopia.
+
+The people of the place worship no other gods but Zeus and Dionysus; these they greatly honor, and they have a place of divination sacred to Zeus; they send out armies whenever and wherever this god through his oracle commands them.
+
+From this city you make a journey by water equal in distance to that by which you came from Elephantine to the capital city of Ethiopia, and you come to the land of the Deserters. These Deserters are called Asmakh, which translates, in Greek, as “those who stand on the left hand of the king”.
+
+These once revolted and joined themselves to the Ethiopians, two hundred and forty thousand Egyptians of fighting age. The reason was as follows. In the reign of Psammetichus, there were watchposts at Elephantine facing Ethiopia, at Daphnae of Pelusium facing Arabia and Assyria, and at Marea facing Libya.
+
+And still in my time the Persians hold these posts as they were held in the days of Psammetichus; there are Persian guards at Elephantine and at Daphnae. Now the Egyptians had been on guard for three years, and no one came to relieve them; so, organizing and making common cause, they revolted from Psammetichus and went to Ethiopia.
+
+Psammetichus heard of it and pursued them; and when he overtook them, he asked them in a long speech not to desert their children and wives and the gods of their fathers. Then one of them, the story goes, pointed to his genitals and said that wherever that was, they would have wives and children.
+
+So they came to Ethiopia, and gave themselves up to the king of the country; who, to make them a gift in return, told them to dispossess certain Ethiopians with whom he was feuding, and occupy their land. These Ethiopians then learned Egyptian customs and have become milder-mannered by intermixture with the Egyptians.
+
+To a distance of four months' travel by land and water, then, there is knowledge of the Nile, besides the part of it that is in Egypt. So many months, as reckoning shows, are found to be spent by one going from Elephantine to the country of the Deserters. The river flows from the west and the sun's setting. Beyond this, no one has clear information to declare; for all that country is desolate because of the heat.
+
+But I heard this from some men of Cyrene, who told me that they had gone to the oracle of Ammon, and conversed there with Etearchus king of the Ammonians, and that from other subjects the conversation turned to the Nile, how no one knows the source of it. Then Etearchus told them that once he had been visited by some Nasamonians.
+
+These are a Libyan people, inhabiting the country of the Syrtis and a little way to the east of the Syrtis.
+
+When these Nasamonians were asked on their arrival if they brought any news concerning the Libyan desert, they told Etearchus that some sons of their leading men, proud and violent youths, when they came to manhood, besides planning other wild adventures, had chosen by lot five of their company to visit the deserts of Libya and see whether they could see any farther than those who had seen the farthest.
+
+It must be known that the whole northern seacoast of Libya, from Egypt as far as the promontory of Soloeis, which is the end of Libya, is inhabited throughout its length by Libyans, many tribes of them, except the part held by Greeks and Phoenicians; the region of Libya that is above the sea and the inhabitants of the coast is infested by wild beasts; and farther inland than the wild-beast country everything is sand, waterless and desolate.
+
+When the young men left their companions, being well supplied with water and provisions, they journeyed first through the inhabited country, and after passing this they came to the region of wild beasts.
+
+After this, they travelled over the desert, towards the west, and crossed a wide sandy region, until after many days they saw trees growing in a plain; when they came to these and were picking the fruit of the trees, they were met by little men of less than common stature, who took them and led them away. The Nasamonians did not know these men's language nor did the escort know the language of the Nasamonians.
+
+The men led them across great marshes, after crossing which they came to a city where all the people were of a stature like that of the guides, and black. A great river ran past this city, from the west towards the rising sun; crocodiles could be seen in it.
+
+This is enough of the story told by Etearchus the Ammonian; except he said that the Nasamonians returned, as the men of Cyrene told me, and that the people to whose country they came were all wizards;
+
+as to the river that ran past the city, Etearchus guessed it to be the Nile; and reason proves as much. For the Nile flows from Libya, right through the middle of it; and as I guess, reasoning about things unknown from visible signs, it rises proportionally as far away as does the Ister.
+
+For the Ister flows from the land of the Celts and the city of Pyrene through the very middle of Europe; now the Celts live beyond the Pillars of Heracles, being neighbors of the Cynesii, who are the westernmost of all the peoples inhabiting Europe.
+
+The Ister, then, flows clean across Europe and ends its course in the Euxine sea, at Istria, which is inhabited by Milesian colonists.
+
+The Ister, since it flows through inhabited country, is known from many reports; but no one can speak of the source of the Nile; for Libya, though which it runs, is uninhabited and desert. Regarding its course, I have related everything that I could learn by inquiry; and it issues into Egypt. Now Egypt lies about opposite to the mountainous part of Cilicia;
+
+from there, it is a straight five days' journey for an unencumbered man to
+
+Sinope on the Euxine; and Sinope lies opposite the place where the Ister falls into the sea. Thus I suppose the course of the Nile in its passage through Libya to be like the course of the Ister.
+
+It is sufficient to say this much concerning the
+
+Nile. But concerning Egypt, I am going to speak at length, because it has the most wonders, and everywhere presents works beyond description; therefore, I shall say the more concerning Egypt.
+
+Just as the Egyptians have a climate peculiar to themselves, and their river is different in its nature from all other rivers, so, too, have they instituted customs and laws contrary for the most part to those of the rest of mankind. Among them, the women buy and sell, the men stay at home and weave; and whereas in weaving all others push the woof upwards, the Egyptians push it downwards.
+
+Men carry burdens on their heads, women on their shoulders. Women pass water standing, men sitting. They ease their bowels indoors, and eat out of doors in the streets, explaining that things unseemly but necessary should be done alone in private, things not unseemly should be done openly.
+
+No woman is dedicated to the service of any god or goddess; men are dedicated to all deities male or female. Sons are not compelled against their will to support their parents, but daughters must do so though they be unwilling.
+
+Everywhere else, priests of the gods wear their hair long; in Egypt, they are shaven. For all other men, the rule in mourning for the dead is that those most nearly concerned have their heads shaven; Egyptians are shaven at other times, but after a death they let their hair and beard grow.
+
+The Egyptians are the only people who keep their animals with them in the house. Whereas all others live on wheat and barley, it is the greatest disgrace for an Egyptian to live so; they make food from a coarse grain which some call spelt.
+
+They knead dough with their feet, and gather mud and dung with their hands. The Egyptians and those who have learned it from them are the only people who practise circumcision. Every man has two garments, every woman only one.
+
+The rings and sheets of sails are made fast outside the boat elsewhere, but inside it in Egypt. The Greeks write and calculate from left to right; the Egyptians do the opposite; yet they say that their way of writing is towards the right, and the Greek way towards the left. They employ two kinds of writing; one is called sacred, the other demotic.
+
+They are religious beyond measure, more than any other people; and the following are among their customs. They drink from cups of bronze, which they clean out daily; this is done not by some but by all.
+
+They are especially careful always to wear newly-washed linen. They practise circumcision for cleanliness' sake; for they would rather be clean than more becoming. Their priests shave the whole body every other day, so that no lice or anything else foul may infest them as they attend upon the gods.
+
+The priests wear a single linen garment and sandals of papyrus: they may have no other kind of clothing or footwear. Twice a day and twice every night they wash in cold water. Their religious observances are, one may say, innumerable.
+
+But also they receive many benefits: they do not consume or spend anything of their own; sacred food is cooked for them, beef and goose are brought in great abundance to each man every day, and wine of grapes is given to them, too. They may not eat fish.
+
+The Egyptians sow no beans in their country; if any grow, they will not eat them either raw or cooked; the priests cannot endure even to see them, considering beans an unclean kind of legume. Many (not only one) are dedicated to the service of each god. One of these is the high priest; and when a high priest dies, his son succeeds to his office.
+
+They believe that bulls belong to Epaphus, and for this reason scrutinize them as follows; if they see even one black hair on them, the bull is considered impure.
+
+One of the priests, appointed to the task, examines the beast, making it stand and lie, and drawing out its tongue, to determine whether it is clean of the stated signs which I shall indicate hereafter. He looks also to the hairs of the tail, to see if they grow naturally.
+
+If it is clean in all these respects, the priest marks it by wrapping papyrus around the horns, then smears it with sealing-earth and stamps it with his ring; and after this they lead the bull away. But the penalty is death for sacrificing a bull that the priest has not marked. Such is the manner of approving the beast; I will now describe how it is sacrificed.
+
+After leading the marked beast to the altar where they will sacrifice it, they kindle a fire; then they pour wine on the altar over the victim and call upon the god; then they cut its throat, and having done so sever the head from the body.
+
+They flay the carcass of the victim, then invoke many curses on its head, which they carry away. Where there is a market, and Greek traders in it, the head is taken to the market and sold; where there are no Greeks, it is thrown into the river.
+
+The imprecation which they utter over the heads is that whatever ill threatens those who sacrifice, or the whole of Egypt, fall upon that head.
+
+In respect of the heads of sacrificed beasts and the libation of wine, the practice of all Egyptians is the same in all sacrifices; and from this ordinance no Egyptian will taste of the head of anything that had life.
+
+But in regard to the disembowelling and burning of the victims, there is a different way for each sacrifice. I shall now, however, speak of that goddess whom they consider the greatest, and in whose honor they keep highest festival.
+
+After praying in the foregoing way, they take the whole stomach out of the flayed bull, leaving the entrails and the fat in the carcass, and cut off the legs, the end of the loin, the shoulders, and the neck.
+
+Having done this, they fill what remains of the carcass with pure bread, honey, raisins, figs, frankincense, myrrh, and other kinds of incense, and then burn it, pouring a lot of oil on it.
+
+They fast before the sacrifice, and while it is burning, they all make lamentation; and when their lamentation is over, they set out a meal of what is left of the victim.
+
+All Egyptians sacrifice unblemished bulls and bull-calves; they may not sacrifice cows: these are sacred to Isis.
+
+For the images of Isis are in woman's form, horned like a cow, exactly as the Greeks picture Io, and cows are held by far the most sacred of all beasts of the herd by all Egyptians alike.
+
+For this reason, no Egyptian man or woman will kiss a Greek man, or use a knife, or a spit, or a cauldron belonging to a Greek, or taste the flesh of an unblemished bull that has been cut up with a Greek knife.
+
+Cattle that die are dealt with in the following way. Cows are cast into the river, bulls are buried by each city in its suburbs, with one or both horns uncovered for a sign; then, when the carcass is decomposed, and the time appointed is at hand, a boat comes to each city from the island called Prosopitis, an island in the Delta, nine schoeni in circumference. There are many other towns on Prosopitis; the one from which the boats come to gather the bones of the bulls is called Atarbekhis; a temple of Aphrodite stands in it of great sanctity.
+
+From this town many go out, some to one town and some to another, to dig up the bones, which they then carry away and all bury in one place. As they bury the cattle, so do they all other beasts at death. Such is their ordinance respecting these also; for they, too, may not be killed.
+
+All that have a temple of Zeus of Thebes or are of the Theban district sacrifice goats, but will not touch sheep.
+
+For no gods are worshipped by all Egyptians in common except Isis and Osiris, who they say is Dionysus; these are worshipped by all alike. Those who have a temple of Mendes or are of the Mendesian district sacrifice sheep, but will not touch goats.
+
+The Thebans, and those who by the Theban example will not touch sheep, give the following reason for their ordinance: they say that Heracles wanted very much to see Zeus and that Zeus did not want to be seen by him, but that finally, when Heracles prayed, Zeus contrived to show himself displaying the head and wearing the fleece of a ram which he had flayed and beheaded. It is from this that the Egyptian images of Zeus have a ram's head; and in this, the Egyptians are imitated by the Ammonians, who are colonists from Egypt and Ethiopia and speak a language compounded of the tongues of both countries.
+
+It was from this, I think, that the Ammonians got their name, too; for the Egyptians call Zeus “Amon”. The Thebans, then, consider rams sacred for this reason, and do not sacrifice them.
+
+But one day a year, at the festival of Zeus, they cut in pieces and flay a single ram and put the fleece on the image of Zeus, as in the story; then they bring an image of Heracles near it. Having done this, all that are at the temple mourn for the ram, and then bury it in a sacred coffin.
+
+Concerning Heracles, I heard it said that he was one of the twelve gods. But nowhere in Egypt could I hear anything about the other Heracles, whom the Greeks know.
+
+I have indeed a lot of other evidence that the name of Heracles did not come from Hellas to Egypt, but from Egypt to Hellas (and in Hellas to those Greeks who gave the name Heracles to the son of Amphitryon), besides this: that Amphitryon and Alcmene, the parents of this Heracles, were both Egyptian by descent; and that the Egyptians deny knowing the names Poseidon and the Dioscuri, nor are these gods reckoned among the gods of Egypt.
+
+Yet if they got the name of any deity from the Greeks, of these not least but in particular would they preserve a recollection, if indeed they were already making sea voyages and some Greeks, too, were seafaring men, as I expect and judge; so that the names of these gods would have been even better known to the Egyptians than the name of Heracles.
+
+But Heracles is a very ancient god in Egypt; as the Egyptians themselves say, the change of the eight gods to the twelve, one of whom they acknowledge Heracles to be, was made seventeen thousand years before the reign of Amasis.
+
+Moreover, wishing to get clear information about this matter where it was possible so to do, I took ship for Tyre in Phoenicia, where I had learned by inquiry that there was a holy temple of Heracles.
+
+There I saw it, richly equipped with many other offerings, besides two pillars, one of refined gold, one of emerald: a great pillar that shone at night; and in conversation with the priests, I asked how long it was since their temple was built.
+
+I found that their account did not tally with the belief of the Greeks, either; for they said that the temple of the god was founded when Tyre first became a city, and that was two thousand three hundred years ago. At Tyre I saw yet another temple of the so-called Thasian Heracles.
+
+Then I went to Thasos, too, where I found a temple of Heracles built by the Phoenicians, who made a settlement there when they voyaged in search of Europe; now they did so as much as five generations before the birth of Heracles the son of Amphitryon in Hellas.
+
+Therefore, what I have discovered by inquiry plainly shows that Heracles is an ancient god. And furthermore, those Greeks, I think, are most in the right, who have established and practise two worships of Heracles, sacrificing to one Heracles as to an immortal, and calling him the Olympian, but to the other bringing offerings as to a dead hero.
+
+And the Greeks say many other ill-considered things, too; among them, this is a silly story which they tell about Heracles: that when he came to
+
+Egypt, the Egyptians crowned him and led him out in a procession to sacrifice him to Zeus; and for a while (they say) he followed quietly, but when they started in on him at the altar, he resisted and killed them all.
+
+Now it seems to me that by this story the Greeks show themselves altogether ignorant of the character and customs of the Egyptians; for how should they sacrifice men when they are forbidden to sacrifice even beasts, except swine and bulls and bull-calves, if they are unblemished, and geese?
+
+And furthermore, as Heracles was alone, and, still, only a man, as they say, how is it natural that he should kill many myriads? In talking so much about this, may I keep the goodwill of gods and heroes!
+
+This is why the Egyptians of whom I have spoken sacrifice no goats, male or female: the Mendesians reckon Pan among the eight gods who, they say, were before the twelve gods.
+
+Now in their painting and sculpture, the image of Pan is made with the head and the legs of a goat, as among the Greeks; not that he is thought to be in fact such, or unlike other gods; but why they represent him so, I have no wish to say.
+
+The Mendesians consider all goats sacred, the male even more than the female, and goatherds are held in special estimation: one he-goat is most sacred of all; when he dies, it is ordained that there should be great mourning in all the Mendesian district.
+
+In the Egyptian language Mendes is the name both for the he-goat and for Pan. In my lifetime a strange thing occurred in this district: a he-goat had intercourse openly with a woman. This came to be publicly known.
+
+Swine are held by the Egyptians to be unclean beasts. In the first place, if an Egyptian touches a hog in passing, he goes to the river and dips himself in it, clothed as he is; and in the second place, swineherds, though native born Egyptians, are alone of all men forbidden to enter any Egyptian temple; nor will any give a swineherd his daughter in marriage, nor take a wife from their women; but swineherds intermarry among themselves.
+
+Nor do the Egyptians think it right to sacrifice swine to any god except the Moon and Dionysus; to these, they sacrifice their swine at the same time, in the same season of full moon; then they eat the meat. The Egyptians have an explanation of why they sacrifice swine at this festival, yet abominate them at others; I know it, but it is not fitting that I relate it.
+
+But this is how they sacrifice swine to the Moon: the sacrificer lays the end of the tail and the spleen and the caul together and covers them up with all the fat that he finds around the belly, then consigns it all to the fire; as for the rest of the flesh, they eat it at the time of full moon when they sacrifice the victim; but they will not taste it on any other day. Poor men, with but slender means, mold swine out of dough, which they then take and sacrifice.
+
+To Dionysus, on the evening of his festival, everyone offers a piglet which he kills before his door and then gives to the swineherd who has sold it, for him to take away.
+
+The rest of the festival of Dionysus is observed by the Egyptians much as it is by the Greeks, except for the dances; but in place of the phallus, they have invented the use of puppets two feet high moved by strings, the male member nodding and nearly as big as the rest of the body, which are carried about the villages by women; a flute-player goes ahead, the women follow behind singing of Dionysus.
+
+Why the male member is so large and is the only part of the body that moves, there is a sacred legend that explains.
+
+Now then, it seems to me that Melampus son of Amytheon was not ignorant of but was familiar with this sacrifice. For Melampus was the one who taught the Greeks the name of Dionysus and the way of sacrificing to him and the phallic procession; he did not exactly unveil the subject taking all its details into consideration, for the teachers who came after him made a fuller revelation; but it was from him that the Greeks learned to bear the phallus along in honor of Dionysus, and they got their present practice from his teaching.
+
+I say, then, that Melampus acquired the prophetic art, being a discerning man, and that, besides many other things which he learned from Egypt, he also taught the Greeks things concerning Dionysus, altering few of them; for I will not say that what is done in Egypt in connection with the god and what is done among the Greeks originated independently: for they would then be of an Hellenic character and not recently introduced.
+
+Nor again will I say that the Egyptians took either this or any other custom from the Greeks. But I believe that Melampus learned the worship of Dionysus chiefly from Cadmus of Tyre and those who came with Cadmus from Phoenicia to the land now called Boeotia.
+
+In fact, the names of nearly all the gods came to
+
+Hellas from Egypt. For I am convinced by inquiry that they have come from foreign parts, and I believe that they came chiefly from Egypt.
+
+Except the names of Poseidon and the Dioscuri, as I have already said, and Hera, and Hestia, and Themis, and the Graces, and the Nereids, the names of all the gods have always existed in Egypt. I only say what the Egyptians themselves say. The gods whose names they say they do not know were, as I think, named by the Pelasgians, except Poseidon, the knowledge of whom they learned from the Libyans.
+
+Alone of all nations the Libyans have had among them the name of Poseidon from the beginning, and they have always honored this god. The Egyptians, however, are not accustomed to pay any honors to heroes.
+
+These customs, then, and others besides, which I shall indicate, were taken by the Greeks from the Egyptians. It was not so with the ithyphallic images of Hermes; the production of these came from the Pelasgians, from whom the Athenians were the first Greeks to take it, and then handed it on to others.
+
+For the Athenians were then already counted as Greeks when the Pelasgians came to live in the land with them and thereby began to be considered as Greeks. Whoever has been initiated into the rites of the Cabeiri, which the Samothracians learned from the Pelasgians and now practice, understands what my meaning is.
+
+Samothrace was formerly inhabited by those Pelasgians who came to live among the Athenians, and it is from them that the Samothracians take their rites.
+
+The Athenians, then, were the first Greeks to make ithyphallic images of Hermes, and they did this because the Pelasgians taught them. The Pelasgians told a certain sacred tale about this, which is set forth in the Samothracian mysteries.
+
+Formerly, in all their sacrifices, the Pelasgians called upon gods without giving name or appellation to any (I know this, because I was told at Dodona); for as yet they had not heard of such. They called them gods from the fact that, besides setting everything in order, they maintained all the dispositions.
+
+Then, after a long while, first they learned the names of the rest of the gods, which came to them from Egypt, and, much later, the name of Dionysus; and presently they asked the oracle at Dodona about the names; for this place of divination, held to be the most ancient in Hellas, was at that time the only one.
+
+When the Pelasgians, then, asked at Dodona whether they should adopt the names that had come from foreign parts, the oracle told them to use the names. From that time onwards they used the names of the gods in their sacrifices; and the Greeks received these later from the Pelasgians.
+
+But whence each of the gods came to be, or whether all had always been, and how they appeared in form, they did not know until yesterday or the day before, so to speak;
+
+for I suppose Hesiod and Homer flourished not more than four hundred years earlier than I; and these are the ones who taught the Greeks the descent of the gods, and gave the gods their names, and determined their spheres and functions, and described their outward forms.
+
+But the poets who are said to have been earlier than these men were, in my opinion, later. The earlier part of all this is what the priestesses of
+
+Dodona tell; the later, that which concerns Hesiod and Homer, is what I myself say.
+
+But about the oracles in Hellas, and that one which is in Libya, the Egyptians give the following account. The priests of Zeus of Thebes told me that two priestesses had been carried away from Thebes by Phoenicians; one, they said they had heard was taken away and sold in Libya, the other in Hellas; these women, they said, were the first founders of places of divination in the aforesaid countries.
+
+When I asked them how it was that they could speak with such certain knowledge, they said in reply that their people had sought diligently for these women, and had never been able to find them, but had learned later the story which they were telling me.
+
+That, then, I heard from the Theban priests; and what follows, the prophetesses of Dodona say: that two black doves had come flying from Thebes in Egypt, one to Libya and one to Dodona;
+
+the latter settled on an oak tree, and there uttered human speech, declaring that a place of divination from Zeus must be made there; the people of Dodona understood that the message was divine, and therefore established the oracular shrine.
+
+The dove which came to Libya told the Libyans (they say) to make an oracle of Ammon; this also is sacred to Zeus. Such was the story told by the Dodonaean priestesses, the eldest of whom was Promeneia and the next Timarete and the youngest Nicandra; and the rest of the servants of the temple at Dodona similarly held it true.
+
+But my own belief about it is this. If the Phoenicians did in fact carry away the sacred women and sell one in Libya and one in Hellas, then, in my opinion, the place where this woman was sold in what is now Hellas, but was formerly called Pelasgia, was
+
+Thesprotia;
+
+and then, being a slave there, she established a shrine of Zeus under an oak that was growing there; for it was reasonable that, as she had been a handmaid of the temple of Zeus at Thebes, she would remember that temple in the land to which she had come.
+
+After this, as soon as she understood the Greek language, she taught divination; and she said that her sister had been sold in Libya by the same Phoenicians who sold her.
+
+I expect that these women were called “doves” by the people of Dodona because they spoke a strange language, and the people thought it like the cries of birds;
+
+then the woman spoke what they could understand, and that is why they say that the dove uttered human speech; as long as she spoke in a foreign tongue, they thought her voice was like the voice of a bird. For how could a dove utter the speech of men? The tale that the dove was black signifies that the woman was Egyptian.
+
+The fashions of divination at Thebes of Egypt and at Dodona are like one another; moreover, the practice of divining from the sacrificed victim has also come from Egypt.
+
+It would seem, too, that the Egyptians were the first people to establish solemn assemblies, and processions, and services; the Greeks learned all that from them. I consider this proved, because the Egyptian ceremonies are manifestly very ancient, and the Greek are of recent origin.
+
+The Egyptians hold solemn assemblies not once a year, but often. The principal one of these and the most enthusiastically celebrated is that in honor of Artemis at the town of Bubastis
+
+, and the next is that in honor of Isis at Busiris.
+
+This town is in the middle of the Egyptian Delta, and there is in it a very great temple of Isis, who is Demeter in the Greek language.
+
+The third greatest festival is at Saïs in honor of Athena; the fourth is the festival of the sun at
+
+Heliopolis, the fifth of Leto at Buto, and the sixth of Ares at Papremis.
+
+When the people are on their way to Bubastis, they go by river, a great number in every boat, men and women together. Some of the women make a noise with rattles, others play flutes all the way, while the rest of the women, and the men, sing and clap their hands.
+
+As they travel by river to Bubastis, whenever they come near any other town they bring their boat near the bank; then some of the women do as I have said, while some shout mockery of the women of the town; others dance, and others stand up and lift their skirts. They do this whenever they come alongside any riverside town.
+
+But when they have reached Bubastis, they make a festival with great sacrifices, and more wine is drunk at this feast than in the whole year besides. It is customary for men and women (but not children) to assemble there to the number of seven hundred thousand, as the people of the place say.
+
+This is what they do there; I have already described how they keep the feast of Isis at Busiris. There, after the sacrifice, all the men and women lament, in countless numbers; but it is not pious for me to say who it is for whom they lament.
+
+Carians who live in Egypt do even more than this, inasmuch as they cut their foreheads with knives; and by this they show that they are foreigners and not Egyptians.
+
+When they assemble at Saïs on the night of the sacrifice, they keep lamps burning outside around their houses. These lamps are saucers full of salt and oil on which the wick floats, and they burn all night. This is called the Feast of Lamps.
+
+Egyptians who do not come to this are mindful on the night of sacrifice to keep their own lamps burning, and so they are alight not only at Saïs but throughout Egypt. A sacred tale is told showing why this night is lit up thus and honored.
+
+When the people go to Heliopolis and Buto, they offer sacrifice only. At Papremis sacrifice is offered and rites performed just as elsewhere; but when the sun is setting, a few of the priests hover about the image, while most of them go and stand in the entrance to the temple with clubs of wood in their hands; others, more than a thousand men fulfilling vows, who also carry wooden clubs, stand in a mass opposite.
+
+The image of the god, in a little gilded wooden shrine, they carry away on the day before this to another sacred building. The few who are left with the image draw a four-wheeled wagon conveying the shrine and the image that is in the shrine; the others stand in the space before the doors and do not let them enter, while the vow-keepers, taking the side of the god, strike them, who defend themselves.
+
+A fierce fight with clubs breaks out there, and they are hit on their heads, and many, I expect, even die from their wounds; although the Egyptians said that nobody dies.
+
+The natives say that they made this assembly a custom from the following incident: the mother of Ares lived in this temple; Ares had been raised apart from her and came, when he grew up, wishing to visit his mother; but as her attendants kept him out and would not let him pass, never having seen him before, Ares brought men from another town, manhandled the attendants, and went in to his mother. From this, they say, this hitting for Ares became a custom in the festival.
+
+Furthermore, it was the Egyptians who first made it a matter of religious observance not to have intercourse with women in temples or to enter a temple after such intercourse without washing. Nearly all other peoples are less careful in this matter than are the Egyptians and Greeks, and consider a man to be like any other animal;
+
+for beasts and birds (they say) are seen to mate both in the temples and in the sacred precincts; now were this displeasing to the god, the beasts would not do so. This is the reason given by others for practices which I, for my part, dislike;
+
+but the Egyptians in this and in all other matters are exceedingly strict against desecration of their temples.
+
+Although Egypt has Libya on its borders, it is not a country of many animals. All of them are held sacred; some of these are part of men's households and some not; but if I were to say why they are left alone as sacred, I should end up talking of matters of divinity, which I am especially averse to treating; I have never touched upon such except where necessity has compelled me.
+
+But I will indicate how it is customary to deal with the animals. Men and women are appointed guardians to provide nourishment for each kind respectively; a son inherits this office from his father.
+
+Townsfolk in each place, when they pay their vows, pray to the god to whom the animal is dedicated, shaving all or one half or one third of their children's heads, and weighing the hair in a balance against a sum of silver; then the weight in silver of the hair is given to the female guardian of the creatures, who buys fish with it and feeds them.
+
+Thus, food is provided for them. Whoever kills one of these creatures intentionally is punished with death; if he kills accidentally, he pays whatever penalty the priests appoint. Whoever kills an ibis or a hawk, intentionally or not, must die for it.
+
+There are many household animals; and there would be many more, were it not for what happens among the cats. When the females have a litter, they are no longer receptive to the males; those that seek to have intercourse with them cannot;
+
+so their recourse is to steal and carry off and kill the kittens (but they do not eat what they have killed). The mothers, deprived of their young and desiring to have more, will then approach the males; for they are creatures that love offspring.
+
+And when a fire breaks out, very strange things happen among the cats. The Egyptians stand around in a broken line, thinking more of the cats than of quenching the burning; but the cats slip through or leap over the men and spring into the fire.
+
+When this happens, there is great mourning in Egypt. The occupants of a house where a cat has died a natural death shave their eyebrows and no more; where a dog has died, the head and the whole body are shaven.
+
+Dead cats are taken away to sacred buildings in the town of Bubastis, where they are embalmed and buried; female dogs are buried by the townsfolk in their own towns in sacred coffins; and the like is done with mongooses. Shrewmice and hawks are taken away to Buto, ibises to the city of Hermes.
+
+There are few bears, and the wolves are little bigger than foxes; both these are buried wherever they are found lying.
+
+The nature of crocodiles is as follows. For the four winter months, it eats nothing. It has four feet, and lives both on land and in the water, for it lays eggs and hatches them out on land and spends the greater part of the day on dry ground, and the night in the river, the water being warmer than the air and dew.
+
+No mortal creature of all which we know grows from so small a beginning to such greatness; for its eggs are not much bigger than goose eggs, and the young crocodile is of a proportional size, but it grows to a length of twenty-eight feet and more.
+
+It has eyes like pigs' eyes, and long, protruding teeth. It is the only animal that has no tongue. It does not move the lower jaw, but brings the upper jaw down upon the lower, uniquely among beasts.
+
+It also has strong claws, and a scaly, impenetrable hide on its back. It is blind in the water, but very keen of sight in the air. Since it lives in the water, its mouth is all full of leeches. All birds and beasts flee from it, except the sandpiper, with which it is at peace because this bird does the crocodile a service;
+
+for whenever the crocodile comes ashore out of the water and then opens its mouth (and it does this mostly to catch the west wind), the sandpiper goes into its mouth and eats the leeches; the crocodile is pleased by this service and does the sandpiper no harm.
+
+Some of the Egyptians consider crocodiles sacred; others do not, but treat them as enemies. Those who live near Thebes and lake Moeris consider them very sacred.
+
+Every household raises one crocodile, trained to be tame; they put ornaments of glass and gold on its ears and bracelets on its forefeet, provide special food and offerings for it, and give the creatures the best of treatment while they live; after death, the crocodiles are embalmed and buried in sacred coffins.
+
+But around Elephantine they are not held sacred, and are even eaten. The Egyptians do not call them crocodiles, but khampsae. The Ionians named them crocodiles, from their resemblance to the lizards which they have in their walls.
+
+There are many different ways of crocodile hunting; I will write of the way that I think most worth mentioning. The hunter baits a hook with a hog's back, and lets it float into the midst of the river; he himself stays on the bank with a young live pig, which he beats.
+
+Hearing the squeals of the pig, the crocodile goes after the sound, and meets the bait, which it swallows; then the hunters pull the line. When the crocodile is drawn ashore, first of all the hunter smears its eyes over with mud; when this is done, the quarry is very easily mastered—no light matter, without that.
+
+Hippopotamuses are sacred in the district of Papremis, but not elsewhere in Egypt. They present the following appearance: four-footed, with cloven hooves like cattle; blunt-nosed; with a horse's mane, visible tusks, a horse's tail and voice; big as the biggest bull. Their hide is so thick that, when it is dried, spearshafts are made of it.
+
+Otters are found in the river, too, which the Egyptians consider sacred; and they consider sacred that fish, too, which is called the scale-fish, and the eel. These, and the fox-goose among birds, are said to be sacred to the god of the Nile.
+
+There is another sacred bird, too, whose name is phoenix. I myself have never seen it, only pictures of it; for the bird seldom comes into Egypt: once in five hundred years, as the people of Heliopolis say.
+
+It is said that the phoenix comes when his father dies. If the picture truly shows his size and appearance, his plumage is partly golden and partly red. He is most like an eagle in shape and size.
+
+What they say this bird manages to do is incredible to me. Flying from Arabia to the temple of the sun, they say, he conveys his father encased in myrrh and buries him at the temple of the Sun.
+
+This is how he conveys him: he first molds an egg of myrrh as heavy as he can carry, then tries lifting it, and when he has tried it, he then hollows out the egg and puts his father into it, and plasters over with more myrrh the hollow of the egg into which he has put his father, which is the same in weight with his father lying in it, and he conveys him encased to the temple of the Sun in Egypt. This is what they say this bird does.
+
+Near Thebes there are sacred snakes, harmless to men, small in size, and bearing two horns on the top of their heads. These, when they die, are buried in the temple of Zeus, to whom they are said to be sacred.
+
+There is a place in Arabia not far from the town of Buto where I went to learn about the winged serpents. When I arrived there, I saw innumerable bones and backbones of serpents: many heaps of backbones, great and small and even smaller.
+
+This place, where the backbones lay scattered, is where a narrow mountain pass opens into a great plain, which adjoins the plain of Egypt.
+
+Winged serpents are said to fly from Arabia at the beginning of spring, making for Egypt; but the ibis birds encounter the invaders in this pass and kill them.
+
+The Arabians say that the ibis is greatly honored by the Egyptians for this service, and the Egyptians give the same reason for honoring these birds.
+
+Now this is the appearance of the ibis. It is all quite black, with the legs of a crane, and a beak sharply hooked, and is as big as a landrail. Such is the appearance of the ibis which fights with the serpents. Those that most associate with men (for there are two kinds of ibis)
+
+have the whole head and neck bare of feathers; their plumage is white, except the head and neck and wingtips and tail (these being quite black); the legs and beak of the bird are like those of the other ibis. The serpents are like water-snakes.
+
+Their wings are not feathered but very like the wings of a bat. I have now said enough concerning creatures that are sacred.
+
+Among the Egyptians themselves, those who live in the cultivated country are the most assiduous of all men at preserving the memory of the past, and none whom I have questioned are so skilled in history.
+
+They practice the following way of life. For three consecutive days in every month they purge themselves, pursuing health by means of emetics and drenches; for they think that it is from the food they eat that all sicknesses come to men.
+
+Even without this, the Egyptians are the healthiest of all men, next to the Libyans; the explanation of which, in my opinion, is that the climate in all seasons is the same: for change is the great cause of men's falling sick, more especially changes of seasons.
+
+They eat bread, making loaves which they call “cyllestis,” of coarse grain. For wine, they use a drink made from barley, for they have no vines in their country. They eat fish either raw and sun-dried, or preserved with brine.
+
+Quails and ducks and small birds are salted and eaten raw; all other kinds of birds, as well as fish (except those that the Egyptians consider sacred) are eaten roasted or boiled.
+
+After rich men's repasts, a man carries around an image in a coffin, painted and carved in exact imitation of a corpse two or four feet long. This he shows to each of the company, saying “While you drink and enjoy, look on this; for to this state you must come when you die.” Such is the custom at their symposia.
+
+They keep the customs of their fathers, adding none to them. Among other notable customs of theirs is this, that they have one song, the Linus-song, which is sung in Phoenicia and Cyprus and elsewhere; each nation has a name of its own for this, but it happens to be the same song that the Greeks sing, and call Linus; so that of many things in Egypt that amaze me, one is: where did the Egyptians get Linus? Plainly they have always sung this song; but in Egyptian Linus is called Maneros.
+
+The Egyptians told me that Maneros was the only son of their first king, who died prematurely, and this dirge was sung by the Egyptians in his honor; and this, they said, was their earliest and their only chant.
+
+There is a custom, too, which no Greeks except the Lacedaemonians have in common with the Egyptians: younger men, encountering their elders, yield the way and stand aside, and rise from their seats for them when they approach.
+
+But they are like none of the Greeks in this: passers-by do not address each other, but salute by lowering the hand to the knee.
+
+They wear linen tunics with fringes hanging about the legs, called “calasiris,” and loose white woolen mantles over these. But nothing woolen is brought into temples, or buried with them: that is impious.
+
+They agree in this with practices called Orphic and Bacchic, but in fact Egyptian and Pythagorean: for it is impious, too, for one partaking of these rites to be buried in woolen wrappings. There is a sacred legend about this.
+
+Other things originating with the Egyptians are these. Each month and day belong to one of the gods, and according to the day of one's birth are determined how one will fare and how one will end and what one will be like; those Greeks occupied with poetry exploit this.
+
+More portents have been discovered by them than by all other peoples; when a portent occurs, they take note of the outcome and write it down; and if something of a like kind happens again, they think it will have a like result.
+
+As to the art of divination among them, it belongs to no man, but to some of the gods; there are in their country oracles of Heracles, Apollo, Athena, Artemis, Ares, and Zeus, and of Leto (the most honored of all) in the town of Buto. Nevertheless, they have several ways of divination, not just one.
+
+The practice of medicine is so specialized among them that each physician is a healer of one disease and no more. All the country is full of physicians, some of the eye, some of the teeth, some of what pertains to the belly, and some of internal diseases.
+
+They mourn and bury the dead like this: whenever a man of note is lost to his house by death, all the women of the house daub their faces or heads with mud; then they leave the corpse in the house and roam about the city lamenting, with their garments girt around them and their breasts showing, and with them all the women of their relatives;
+
+elsewhere, the men lament, with garments girt likewise. When this is done, they take the dead body to be embalmed.
+
+There are men whose sole business this is and who have this special craft.
+
+When a dead body is brought to them, they show those who brought it wooden models of corpses, painted likenesses; the most perfect way of embalming belongs, they say, to One whose name it would be impious for me to mention in treating such a matter; the second way, which they show, is less perfect than the first, and cheaper; and the third is the least costly of all. Having shown these, they ask those who brought the body in which way they desire to have it prepared.
+
+Having agreed on a price, the bearers go away, and the workmen, left alone in their place, embalm the body. If they do this in the most perfect way, they first draw out part of the brain through the nostrils with an iron hook, and inject certain drugs into the rest.
+
+Then, making a cut near the flank with a sharp knife of Ethiopian stone, they take out all the intestines, and clean the belly, rinsing it with palm wine and bruised spices;
+
+they sew it up again after filling the belly with pure ground myrrh and casia and any other spices, except frankincense. After doing this, they conceal the body for seventy days, embalmed in saltpetre; no longer time is allowed for the embalming;
+
+and when the seventy days have passed, they wash the body and wrap the whole of it in bandages of fine linen cloth, anointed with gum, which the Egyptians mostly use instead of glue;
+
+then they give the dead man back to his friends. These make a hollow wooden figure like a man, in which they enclose the corpse, shut it up, and keep it safe in a coffin-chamber, placed erect against a wall.
+
+That is how they prepare the dead in the most costly way; those who want the middle way and shun the costly, they prepare as follows.
+
+The embalmers charge their syringes with cedar oil and fill the belly of the dead man with it, without making a cut or removing the intestines, but injecting the fluid through the anus and preventing it from running out; then they embalm the body for the appointed days; on the last day they drain the belly of the cedar oil which they put in before.
+
+It has such great power as to bring out with it the internal organs and intestines all dissolved; meanwhile, the flesh is eaten away by the saltpetre, and in the end nothing is left of the body but hide and bones. Then the embalmers give back the dead body with no more ado.
+
+The third manner of embalming, the preparation of the poorer dead, is this: they cleanse the belly with a purge, embalm the body for the seventy days and then give it back to be taken away.
+
+Wives of notable men, and women of great beauty and reputation, are not at once given to the embalmers, but only after they have been dead for three or four days;
+
+this is done to deter the embalmers from having intercourse with the women. For it is said that one was caught having intercourse with the fresh corpse of a woman, and was denounced by his fellow-workman.
+
+Anyone, Egyptian or foreigner, known to have been carried off by a crocodile or drowned by the river itself, must by all means be embalmed and wrapped as attractively as possible and buried in a sacred coffin by the people of the place where he is cast ashore;
+
+none of his relatives or friends may touch him, but his body is considered something more than human, and is handled and buried by the priests of the
+
+Nile themselves.
+
+The Egyptians shun using Greek customs, and (generally speaking) the customs of all other peoples as well. Yet, though the rest are wary of this, there is a great city called Khemmis, in the Theban district, near the New City.
+
+In this city is a square temple of Perseus son of Danae, in a grove of palm trees. Before this temple stand great stone columns; and at the entrance, two great stone statues. In the outer court there is a shrine with an image of Perseus standing in it.
+
+The people of this Khemmis say that Perseus is seen often up and down this land, and often within the temple, and that the sandal he wears, which is four feet long, keeps turning up, and that when it does turn up, all
+
+Egypt prospers.
+
+This is what they say; and their doings in honor of Perseus are Greek, inasmuch as they celebrate games that include every form of contest, and offer animals and cloaks and skins as prizes.
+
+When I asked why Perseus appeared only to them, and why, unlike all other Egyptians, they celebrate games, they told me that Perseus was by lineage of their city; for Danaus and Lynceus, who travelled to Greece, were of Khemmis; and they traced descent from these down to Perseus.
+
+They told how he came to Khemmis, too, when he came to Egypt for the reason alleged by the Greeks as well—namely, to bring the Gorgon 's head from Libya —and recognized all his relatives; and how he had heard the name of
+
+Khemmis from his mother before he came to Egypt. It was at his bidding, they said, that they celebrated the games.
+
+All these are the customs of Egyptians who live above the marsh country. Those who inhabit the marshes have the same customs as the rest of Egyptians, even that each man has one wife just like Greeks. They have, besides, devised means to make their food less costly.
+
+When the river is in flood and flows over the plains, many lilies, which the Egyptians call lotus, grow in the water. They gather these and dry them in the sun; then they crush the poppy-like center of the plant and bake loaves of it.
+
+The root of this lotus is edible also, and of a sweetish taste; it is round, and the size of an apple.
+
+Other lilies grow in the river, too, that are like roses; the fruit of these is found in a calyx springing from the root by a separate stalk, and is most like a comb made by wasps; this produces many edible seeds as big as olive pits, which are eaten both fresh and dried.
+
+They also use the byblus which grows annually: it is gathered from the marshes, the top of it cut off and put to other uses, and the lower part, about twenty inches long, eaten or sold. Those who wish to use the byblus at its very best, roast it before eating in a red-hot oven. Some live on fish alone. They catch the fish, take out the intestines, then dry them in the sun and eat them dried.
+
+Fish that go in schools are seldom born in rivers; they are raised in the lakes, and this is how they behave: when the desire of spawning comes on them, they swim out to sea in schools, the males leading, and throwing out their milt, while the females come after and swallow and conceive from it.
+
+When the females have grown heavy in the sea, then all the fish swim back to their own haunts. But the same no longer lead; now the leadership goes to the females. They go before in a school as the males had, and now and then throw off some of their eggs (which are like millet-seeds), which the males devour as they follow. These millet-seeds, or eggs, are fish.
+
+The fish that are reared come from the eggs that survive and are not devoured. Those fish that are caught while swimming seawards show bruises on the left side of their heads; those that are caught returning, on the right side.
+
+This happens because they keep close to the left bank as they swim seawards, and keep to the same bank also on their return, grazing it and keeping in contact with it as well as they can, I suppose lest the current make them miss their way.
+
+When the Nile begins to rise, hollow and marshy places near the river are the first to begin to fill, the water trickling through from the river, and as soon as they are flooded, they are suddenly full of little fishes.
+
+Where these probably come from, I believe that I can guess. When the Nile falls, the fish have dropped their eggs into the mud before they leave with the last of the water; and when in the course of time the flood comes again in the following year, from these eggs at once come the fish.
+
+So much, then, for the fish. The Egyptians who live around the marshes use an oil drawn from the castor-berry, which they call kiki. They sow this plant, which grows wild in
+
+Hellas, on the banks of the rivers and lakes;
+
+sown in Egypt, it produces abundant fruit, though malodorous; when they gather this, some bruise and press it, others boil after roasting it, and collect the liquid that comes from it. This is thick and useful as oil for lamps, and gives off a strong smell.
+
+Against the mosquitos that abound, the following have been devised by them: those who dwell higher up than the marshy country are well served by the towers where they ascend to sleep, for the winds prevent the mosquitos from flying aloft;
+
+those living about the marshes have a different recourse, instead of the towers. Every one of them has a net, with which he catches fish by day, and at night he sets it around the bed where he rests, then creeps under it and sleeps.
+
+If he sleeps wrapped in a garment or cloth, the mosquitos bite through it; but through the net they absolutely do not even venture.
+
+The boats in which they carry cargo are made of the acacia, which is most like the lotus of Cyrene in form, and its sap is gum. Of this tree they cut logs of four feet long and lay them like courses of bricks, and build the boat by fastening these four foot logs to long and close-set stakes; and having done so, they set crossbeams athwart and on the logs. They use no ribs. They caulk the seams within with byblus.
+
+There is one rudder, passing through a hole in the boat's keel. The mast is of acacia-wood and the sails of byblus. These boats cannot move upstream unless a brisk breeze continues; they are towed from the bank; but downstream they are managed thus:
+
+they have a raft made of tamarisk wood, fastened together with matting of reeds, and a pierced stone of about two talents' weight; the raft is let go to float down ahead of the boat, connected to it by a rope, and the stone is connected by a rope to the after part of the boat.
+
+So, driven by the current, the raft floats swiftly and tows the “baris” (which is the name of these boats,) and the stone dragging behind on the river bottom keeps the boat's course straight. There are many of these boats; some are of many thousand talents' burden.
+
+When the Nile overflows the land, only the towns are seen high and dry above the water, very like the islands in the Aegean sea. These alone stand out, the rest of Egypt being a sheet of water. So when this happens, folk are not ferried, as usual, in the course of the stream, but clean over the plain.
+
+Indeed, the boat going up from Naucratis to Memphis passes close by the pyramids themselves, though the course does not go by here, but by the Delta's point and the town Cercasorus; but your voyage from the sea and Canobus to Naucratis will take you over the plain near the town of Anthylla and that which is called Arkhandrus ' town.
+
+Anthylla is a town of some reputation, and is especially assigned to the consort of the reigning king of Egypt, to provide her shoes. This has been done since Egypt has been under Persian dominion.
+
+The other town, I think, is named after Arkhandrus son of Phthius the Achaean, and son-in-law of Danaus; for it is called Arkhandrus ' town. It may be that there was another Arkhandrus; but the name is not Egyptian.
+
+So far, all I have said is the record of my own autopsy and judgment and inquiry. Henceforth I will record Egyptian chronicles, according to what I have heard, adding something of what I myself have seen.
+
+The priests told me that Min was the first king of
+
+Egypt, and that first he separated Memphis from the Nile by a dam. All the river had flowed close under the sandy mountains on the Libyan side, but Min made the southern bend of it, which begins about twelve and one half miles above Memphis, by damming the stream, thereby drying up the ancient channel, and carried the river by a channel so that it flowed midway between the hills.
+
+And to this day the Persians keep careful watch on this bend of the river, strengthening its dam every year to keep the current in; for were the Nile to burst its dikes and overflow here, all Memphis would be in danger of flooding.
+
+Then, when this first king Min had made dry land of what he thus cut off, he first founded in it that city which is now called
+
+Memphis (for even Memphis lies in the narrow part of Egypt), and outside of it he dug a lake from the river to its north and west (for the Nile itself bounds it on the east); and secondly, he built in it the great and most noteworthy temple of Hephaestus.
+
+After him came three hundred and thirty kings, whose names the priests recited from a papyrus roll. In all these many generations there were eighteen Ethiopian kings, and one queen, native to the country; the rest were all Egyptian men.
+
+The name of the queen was the same as that of the Babylonian princess, Nitocris. She, to avenge her brother (he was king of Egypt and was slain by his subjects, who then gave Nitocris the sovereignty) put many of the Egyptians to death by treachery.
+
+She built a spacious underground chamber; then, with the pretence of inaugurating it, but with quite another intent in her mind, she gave a great feast, inviting to it those Egyptians whom she knew to have had the most complicity in her brother's murder; and while they feasted, she let the river in upon them by a vast secret channel.
+
+This was all that the priests told of her, except that when she had done this she cast herself into a chamber full of hot ashes, to escape vengeance.
+
+But of the other kings they related no achievement or act of great note, except of Moeris, the last of them.
+
+This Moeris was remembered as having built the northern forecourt of the temple of Hephaestus, and dug a lake, of as great a circumference as I shall later indicate; and built pyramids there also, the size of which I will mention when I speak of the lake. All this was Moeris ' work, they said; of none of the rest had they anything to record.
+
+Leaving the latter aside, then, I shall speak of the king who came after them, whose name was Sesostris.
+
+This king, the priests said, set out with a fleet of long ships from the Arabian Gulf and subjugated all those living by the Red Sea, until he came to a sea which was too shallow for his vessels.
+
+After returning from there back to Egypt, he gathered a great army (according to the account of the priests) and marched over the mainland, subjugating every nation to which he came.
+
+When those that he met were valiant men and strove hard for freedom, he set up pillars in their land, the inscription on which showed his own name and his country's, and how he had overcome them with his own power;
+
+but when the cities had made no resistance and been easily taken, then he put an inscription on the pillars just as he had done where the nations were brave; but he also drew on them the private parts of a woman, wishing to show clearly that the people were cowardly.
+
+He marched over the country doing this until he had crossed over from Asia to Europe and defeated the Scythians and Thracians. Thus far and no farther, I think, the Egyptian army went; for the pillars can be seen standing in their country, but in none beyond it.
+
+From there, he turned around and went back home; and when he came to the
+
+Phasis river, that King, Sesostris, may have detached some part of his army and left it there to live in the country (for I cannot speak with exact knowledge), or it may be that some of his soldiers grew weary of his wanderings, and stayed by the Phasis.
+
+For it is plain to see that the Colchians are Egyptians; and what I say, I myself noted before I heard it from others. When it occurred to me, I inquired of both peoples; and the Colchians remembered the Egyptians better than the Egyptians remembered the Colchians;
+
+the Egyptians said that they considered the Colchians part of Sesostris ' army. I myself guessed it, partly because they are dark-skinned and woolly-haired; though that indeed counts for nothing, since other peoples are, too; but my better proof was that the Colchians and Egyptians and Ethiopians are the only nations that have from the first practised circumcision.
+
+The Phoenicians and the Syrians of Palestine acknowledge that they learned the custom from the Egyptians, and the Syrians of the valleys of the Thermodon and the Parthenius, as well as their neighbors the Macrones, say that they learned it lately from the Colchians. These are the only nations that circumcise, and it is seen that they do just as the Egyptians.
+
+But as to the Egyptians and Ethiopians themselves, I cannot say which nation learned it from the other; for it is evidently a very ancient custom. That the others learned it through traffic with Egypt, I consider clearly proved by this: that Phoenicians who traffic with Hellas cease to imitate the Egyptians in this matter and do not circumcise their children.
+
+Listen to something else about the Colchians, in which they are like the Egyptians: they and the Egyptians alone work linen and have the same way of working it, a way peculiar to themselves; and they are alike in all their way of life, and in their speech. Linen has two names: the Colchian kind is called by the Greeks Sardonian; that which comes from Egypt is called Egyptian.
+
+As to the pillars that Sesostris, king of Egypt, set up in the countries, most of them are no longer to be seen. But I myself saw them in the Palestine district of Syria, with the aforesaid writing and the women's private parts on them.
+
+Also, there are in Ionia two figures of this man carved in rock, one on the road from Ephesus to Phocaea, and the other on that from Sardis to Smyrna.
+
+In both places, the figure is over twenty feet high, with a spear in his right hand and a bow in his left, and the rest of his equipment proportional; for it is both Egyptian and Ethiopian;
+
+and right across the breast from one shoulder to the other a text is cut in the Egyptian sacred characters, saying: “I myself won this land with the strength of my shoulders.” There is nothing here to show who he is and whence he comes, but it is shown elsewhere.
+
+Some of those who have seen these figures guess they are Memnon, but they are far indeed from the truth.
+
+Now when this Egyptian Sesostris (so the priests said) reached Daphnae of Pelusium on his way home, leading many captives from the peoples whose lands he had subjugated, his brother, whom he had left in charge in Egypt, invited him and his sons to a banquet and then piled wood around the house and set it on fire.
+
+When Sesostris was aware of this, he at once consulted his wife, whom (it was said) he had with him; and she advised him to lay two of his six sons on the fire and make a bridge over the burning so that they could walk over the bodies of the two and escape. This Sesostris did; two of his sons were thus burnt but the rest escaped alive with their father.
+
+After returning to Egypt, and avenging himself on his brother, Sesostris found work for the multitude which he brought with him from the countries which he had subdued.
+
+It was these who dragged the great and long blocks of stone which were brought in this king's reign to the temple of Hephaestus; and it was they who were compelled to dig all the canals which are now in Egypt, and involuntarily made what had been a land of horses and carts empty of these.
+
+For from this time Egypt, although a level land, could use no horses or carts, because there were so many canals going every which way. The reason why the king thus intersected the country was this:
+
+those Egyptians whose towns were not on the
+
+Nile, but inland from it, lacked water whenever the flood left their land, and drank only brackish water from wells.
+
+For this reason Egypt was intersected. This king also (they said) divided the country among all the Egyptians by giving each an equal parcel of land, and made this his source of revenue, assessing the payment of a yearly tax.
+
+And any man who was robbed by the river of part of his land could come to Sesostris and declare what had happened; then the king would send men to look into it and calculate the part by which the land was diminished, so that thereafter it should pay in proportion to the tax originally imposed.
+
+From this, in my opinion, the Greeks learned the art of measuring land; the sunclock and the sundial, and the twelve divisions of the day, came to Hellas from Babylonia and not from Egypt.
+
+Sesostris was the only Egyptian king who also ruled Ethiopia. To commemorate his name, he set before the temple of Hephaestus two stone statues, of himself and of his wife, each fifty feet high, and statues of his four sons, each thirty-three feet.
+
+Long afterwards, Darius the Persian would have set up his statue before these; but the priest of Hephaestus forbade him, saying that he had achieved nothing equal to the deeds of Sesostris the Egyptian; for Sesostris (he said) had subjugated the Scythians, besides as many nations as Darius had conquered, and Darius had not been able to overcome the Scythians;
+
+therefore, it was not just that Darius should set his statue before the statues of Sesostris, whose achievements he had not equalled. Darius, it is said, let the priest have his way.
+
+When Sesostris died, he was succeeded in the kingship (the priests said) by his son Pheros. This king waged no wars, and chanced to become blind, for the following reason: the Nile came down in such a flood as there had never been, rising to a height of thirty feet, and the water that flowed over the fields was roughened by a strong wind;
+
+then, it is said, the king was so audacious as to seize a spear and hurl it into the midst of the river eddies. Right after this, he came down with a disease of the eyes, and became blind. When he had been blind for ten years, an oracle from the city of Buto declared to him that the term of his punishment was drawing to an end, and that he would regain his sight by washing his eyes with the urine of a woman who had never had intercourse with any man but her own husband.
+
+Pheros tried his own wife first; and, as he remained blind, all women, one after another. When he at last recovered his sight, he took all the women whom he had tried, except the one who had made him see again, and gathered them into one town, the one which is now called “Red Clay”; having concentrated them together there, he burnt them and the town;
+
+but the woman by whose means he had recovered his sight, he married. Most worthy of mention among the many offerings which he dedicated in all the noteworthy temples for his deliverance from blindness are the two marvellous stone obelisks which he set up in the temple of the Sun. Each of these is made of a single block, and is over one hundred and sixty-six feet high and thirteen feet thick.
+
+Pheros was succeeded (they said) by a man of Memphis, whose name in the Greek tongue was Proteus. This Proteus has a very attractive and well-appointed temple precinct at Memphis, south of the temple of Hephaestus.
+
+Around the precinct live Phoenicians of Tyre, and the whole place is called the Camp of the Tyrians. There is in the precinct of Proteus a temple called the temple of the Stranger Aphrodite; I guess this is a temple of Helen, daughter of Tyndarus, partly because I have heard the story of Helen 's abiding with Proteus, and partly because it bears the name of the Foreign Aphrodite: for no other of Aphrodite 's temples is called by that name.
+
+When I inquired of the priests, they told me that this was the story of Helen. After carrying off Helen from Sparta, Alexandrus sailed away for his own country; violent winds caught him in the Aegean and drove him into the Egyptian sea; and from there (as the wind did not let up) he came to Egypt, to the mouth of the Nile called the Canopic mouth, and to the Salters'.
+
+Now there was (and still is) on the coast a temple of Heracles; if a servant of any man takes refuge there and is branded with certain sacred marks, delivering himself to the god, he may not be touched. This law continues today the same as it has always been from the first.
+
+Hearing of the temple law, some of Alexandrus ' servants ran away from him, threw themselves on the mercy of the god, and brought an accusation against Alexandrus meaning to injure him, telling the whole story of Helen and the wrong done Menelaus. They laid this accusation before the priests and the warden of the Nile mouth, whose name was Thonis.
+
+When Thonis heard it, he sent this message the quickest way to Proteus at
+
+Memphis:
+
+“A stranger has come, a Trojan, who has committed an impiety in Hellas. After defrauding his guest-friend, he has come bringing the man's wife and a very great deal of wealth, driven to your country by the wind. Are we to let him sail away untouched, or are we to take away what he has come with?”
+
+Proteus sent back this message: “Whoever this is who has acted impiously against his guest-friend, seize him and bring him to me, that I may know what he will say.”
+
+Hearing this, Thonis seized Alexandrus and detained his ships there, and then brought him with Helen and all the wealth, and the suppliants too, to Memphis.
+
+When all had arrived, Proteus asked Alexandrus who he was and whence he sailed; Alexandrus told him his lineage and the name of his country, and about his voyage, whence he sailed.
+
+Then Proteus asked him where he had got Helen; when Alexandrus was evasive in his story and did not tell the truth, the men who had taken refuge with the temple confuted him, and related the whole story of the wrong.
+
+Finally, Proteus declared the following judgment to them, saying, “If I did not make it a point never to kill a stranger who has been caught by the wind and driven to my coasts, I would have punished you on behalf of the Greek, you most vile man. You committed the gravest impiety after you had had your guest-friend's hospitality: you had your guest-friend's wife.
+
+And as if this were not enough, you got her to fly with you and went off with her. And not just with her, either, but you plundered your guest-friend's wealth and brought it, too.
+
+Now, then, since I make it a point not to kill strangers, I shall not let you take away this woman and the wealth, but I shall watch them for the Greek stranger, until he come and take them away; but as for you and your sailors, I warn you to leave my country for another within three days, and if you do not, I will declare war on you.”
+
+This, the priests said, was how Helen came to Proteus. And, in my opinion, Homer knew this story, too; but seeing that it was not so well suited to epic poetry as the tale of which he made use, he rejected it, showing that he knew it.
+
+This is apparent from the passage in the Iliad (and nowhere else does he return to the story) where he relates the wanderings of Alexander, and shows how he and Helen were carried off course, and wandered to, among other places, Sidon in Phoenicia.
+
+This is in the story of the Prowess of Diomedes, where the verses run as follows:
+
+There were the robes, all embroidered,
+
+The work of women of Sidon, whom godlike Alexandrus himself
+
+Brought from Sidon, crossing the broad sea,
+
+The same voyage on which he brought back Helen of noble descent.
+
+[He mentions it in the Odyssey also:
+
+The daughter of Zeus had such ingenious drugs,
+
+Good ones, which she had from Thon 's wife, Polydamna, an Egyptian,
+
+Whose country's fertile plains bear the most drugs,
+
+Many mixed for good, many for harm:
+
+and again Menelaus says to Telemachus:
+
+I was eager to return here, but the gods still held me in Egypt,
+
+Since I had not sacrificed entire hecatombs to them.
+
+In these verses the poet shows that he knew of Alexander 's wanderings to Egypt; for Syria borders on Egypt, and the Phoenicians, to whom Sidon belongs, dwell in Syria.
+
+These verses and this passage prove most clearly that the Cyprian poems are not the work of Homer but of someone else. For the Cyprian poems relate that Alexandrus reached Ilion with Helen in three days from Sparta, having a fair wind and a smooth sea; but according to the Iliad, he wandered from his course in bringing her.
+
+Enough, then, of Homer and the Cyprian poems. But, when I asked the priests whether the Greek account of what happened at Troy were idle or not, they gave me the following answer, saying that they had inquired and knew from Menelaus himself.
+
+After the rape of Helen, a great force of Greeks came to the Trojan land on Menelaus ' behalf. After disembarking and disposing their forces, they sent messengers to Ilion, one of whom was Menelaus himself.
+
+When these were let inside the city walls, they demanded the restitution of Helen and of the property which Alexandrus had stolen from Menelaus and carried off, and they demanded reparation for the wrongs; but the Trojans gave the same testimony then and later, sworn and unsworn: that they did not have Helen or the property claimed, but all of that was in Egypt, and they could not justly make reparation for what Proteus the Egyptian had.
+
+But the Greeks, thinking that the Trojans were mocking them, laid siege to the city, until they took it; but there was no Helen there when they breached the wall, but they heard the same account as before; so, crediting the original testimony, they sent Menelaus himself to Proteus.
+
+Menelaus then went to Egypt and up the river to Memphis; there, relating the truth of the matter, he met with great hospitality and got back Helen, who had not been harmed, and also all his wealth, besides.
+
+Yet, although getting this, Menelaus was guilty of injustice toward the Egyptians. For adverse weather detained him when he tried to sail away; after this continued for some time, he carried out something impious, taking two native children and sacrificing them. When it became known that he had done this, he fled with his ships straight to Libya, hated and hunted; and where he went from there, the Egyptians could not say. The priests told me that they had learned some of this by inquiry, but that they were sure of what had happened in their own country.
+
+The Egyptians ' priests said this, and I myself believe their story about Helen, for I reason thus: had Helen been in Ilion, then with or without the will of Alexandrus she would have been given back to the Greeks.
+
+For surely Priam was not so mad, or those nearest to him, as to consent to risk their own persons and their children and their city so that Alexandrus might cohabit with Helen.
+
+Even if it were conceded that they were so inclined in the first days, yet when not only many of the Trojans were slain in fighting against the Greeks, but Priam himself lost to death two or three or even more of his sons in every battle (if the poets are to be believed), in this turn of events, had Helen been Priam 's own wife, I cannot but think that he would have restored her to the Greeks, if by so doing he could escape from the evils besetting him.
+
+Alexandrus was not even heir to the throne, in which case matters might have been in his hands since Priam was old, but Hector, who was an older and a better man than Alexandrus, was going to receive the royal power at Priam 's death, and ought not have acquiesced in his brother's wrongdoing, especially when that brother was the cause of great calamity to Hector himself and all the rest of the Trojans.
+
+But since they did not have Helen there to give back, and since the Greeks would not believe them although they spoke the truth—I am convinced and declare—the divine powers provided that the Trojans, perishing in utter destruction, should make this clear to all mankind: that retribution from the gods for terrible wrongdoing is also terrible. This is what I think, and I state it.
+
+The next to reign after Proteus (they said) was Rhampsinitus. The memorial of his name left by him was the western forecourt of the temple of Hephaestus; he set two statues here forty-one feet high; the northernmost of these the Egyptians call Summer, and the southernmost Winter; the one that they call Summer they worship and treat well, but do the opposite to the statue called Winter.
+
+This king (they told me) had great wealth in silver, so great that none of the succeeding kings could surpass or come near it. To store his treasure safely, he had a stone chamber built, one of its walls abutting on the outer side of his palace. But the builder of it shrewdly provided that one stone be so placed as to be easily removed by two men or even by one.
+
+So when the chamber was finished, the king stored his treasure in it, and as time went on, the builder, drawing near the end of his life, summoned his sons (he had two) and told them how he had provided for them, that they have an ample livelihood, by the art with which he had built the king's treasure-house; explaining clearly to them how to remove the stone, he gave the coordinates of it, and told them that if they kept these in mind, they would be the custodians of the king's riches.
+
+So when he was dead, his sons got to work at once: coming to the palace by night, they readily found and managed the stone in the building, and took away much of the treasure.
+
+When the king opened the building, he was amazed to see the containers lacking their treasure; yet he did not know whom to accuse, seeing that the seals were unbroken and the building shut fast. But when less treasure appeared the second and third times he opened the building (for the thieves did not stop plundering), he had traps made and placed around the containers in which his riches were stored.
+
+The thieves came just as before, and one of them crept in; when he came near the container, right away he was caught in the trap. When he saw the trouble he was in, he called to his brother right away and explained to him the problem, and told him to come in quickly and cut off his head, lest he be seen and recognized and destroy him, too. He seemed to have spoken rightly to the other, who did as he was persuaded and then, replacing the stone, went home, carrying his brother's head.
+
+When day came, the king went to the building, and was amazed to see in the trap the thief's body without a head, yet the building intact, with no way in or out. At a loss, he did as follows: he suspended the thief's body from the wall and set guards over it, instructing them to seize and bring to him any whom they saw weeping or making lamentation.
+
+But the thief's mother, when the body had been hung up, was terribly stricken: she had words with her surviving son, and told him that he was somehow to think of some way to cut loose and bring her his brother's body, and if he did not obey, she threatened to go to the king and denounce him as having the treasure.
+
+So when his mother bitterly reproached the surviving son and for all that he said he could not dissuade her, he devised a plan: he harnessed asses and put skins full of wine on the asses, then set out driving them; and when he was near those who were guarding the hanging body, he pulled at the feet of two or three of the skins and loosed their fastenings;
+
+and as the wine ran out, he beat his head and cried aloud like one who did not know to which ass he should turn first, while the guards, when they saw the wine flowing freely, ran out into the road with cups and caught what was pouring out, thinking themselves in luck;
+
+feigning anger, the man cursed all; but as the guards addressed him peaceably, he pretended to be soothed and to relent in his anger, and finally drove his asses out of the road and put his harness in order.
+
+And after more words passed and one joked with him and got him to laugh, he gave them one of the skins: and they lay down there just as they were, disposed to drink, and included him and told him to stay and drink with them; and he consented and stayed.
+
+When they cheerily saluted him in their drinking, he gave them yet another of the skins; and the guards grew very drunk with the abundance of liquor, and lay down right there where they were drinking, overpowered by sleep;
+
+but he, when it was late at night, cut down the body of his brother and shaved the right cheek of each of the guards for the indignity, and loading the body on his asses, drove home, fulfilling his mother's commands.
+
+When the king learned that the body of the thief had been taken, he was beside himself and, obsessed with finding who it was who had managed this, did as follows—they say, but I do not believe it.
+
+He put his own daughter in a brothel, instructing her to accept all alike and, before having intercourse, to make each tell her the shrewdest and most impious thing he had done in his life; whoever told her the story of the thief, she was to seize and not let get out.
+
+The girl did as her father told her, and the thief, learning why she was doing this, did as follows, wanting to get the better of the king by craft.
+
+He cut the arm off a fresh corpse at the shoulder, and went to the king's daughter, carrying it under his cloak, and when asked the same question as the rest, he said that his most impious act had been when he had cut the head off his brother who was caught in a trap in the king's treasury; and his shrewdest, that after making the guards drunk he had cut down his brother's hanging body.
+
+When she heard this, the princess grabbed for him; but in the darkness the thief let her have the arm of the corpse; and clutching it, she held on, believing that she had the arm of the other; but the thief, after giving it to her, was gone in a flash out the door.
+
+When this also came to the king's ears, he was astonished at the man's ingenuity and daring, and in the end, he sent a proclamation to every town, promising the thief immunity and a great reward if he would come into the king's presence.
+
+The thief trusted the king and came before him; Rhampsinitus was very admiring and gave him his daughter to marry on the grounds that he was the cleverest of men; for as the Egyptians (he said) surpassed all others in craft, so he surpassed the Egyptians.
+
+They said that later this king went down alive to what the Greeks call Hades and there played dice with Demeter, and after winning some and losing some, came back with a gift from her of a golden hand towel.
+
+From the descent of Rhampsinitus, when he came back, they said that the Egyptians celebrate a festival, which I know that they celebrate to this day, but whether this is why they celebrate, I cannot say.
+
+On the day of the festival, the priests weave a cloth and bind it as a headband on the eyes of one of their number, whom they then lead, wearing the cloth, into a road that goes to the temple of Demeter; they themselves go back, but this priest with his eyes bandaged is guided (they say) by two wolves to Demeter 's temple, a distance of three miles from the city, and led back again from the temple by the wolves to the same place.
+
+These Egyptian stories are for the benefit of whoever believes such tales: my rule in this history is that I record what is said by all as I have heard it. The Egyptians say that Demeter and Dionysus are the rulers of the lower world.
+
+The Egyptians were the first who maintained the following doctrine, too, that the human soul is immortal, and at the death of the body enters into some other living thing then coming to birth; and after passing through all creatures of land, sea, and air, it enters once more into a human body at birth, a cycle which it completes in three thousand years.
+
+There are Greeks who have used this doctrine, some earlier and some later, as if it were their own; I know their names, but do not record them.
+
+They said that Egypt until the time of King Rhampsinitus was altogether well-governed and prospered greatly, but that Kheops, who was the next king, brought the people to utter misery. For first he closed all the temples, so that no one could sacrifice there; and next, he compelled all the Egyptians to work for him.
+
+To some, he assigned the task of dragging stones from the quarries in the Arabian mountains to the Nile; and after the stones were ferried across the river in boats, he organized others to receive and drag them to the mountains called Libyan.
+
+They worked in gangs of a hundred thousand men, each gang for three months. For ten years the people wore themselves out building the road over which the stones were dragged, work which was in my opinion not much lighter at all than the building of the pyramid
+
+(for the road is nearly a mile long and twenty yards wide, and elevated at its highest to a height of sixteen yards, and it is all of stone polished and carved with figures). The aforesaid ten years went to the building of this road and of the underground chambers in the hill where the pyramids stand; these, the king meant to be burial-places for himself, and surrounded them with water, bringing in a channel from the Nile.
+
+The pyramid itself was twenty years in the making. Its base is square, each side eight hundred feet long, and its height is the same; the whole is of stone polished and most exactly fitted; there is no block of less than thirty feet in length.
+
+This pyramid was made like stairs, which some call steps and others, tiers.
+
+When this, its first form, was completed, the workmen used short wooden logs as levers to raise the rest of the stones; they heaved up the blocks from the ground onto the first tier of steps;
+
+when the stone had been raised, it was set on another lever that stood on the first tier, and the lever again used to lift it from this tier to the next.
+
+It may be that there was a new lever on each tier of steps, or perhaps there was only one lever, quite portable, which they carried up to each tier in turn; I leave this uncertain, as both possibilities were mentioned.
+
+But this is certain, that the upper part of the pyramid was finished off first, then the next below it, and last of all the base and the lowest part.
+
+There are writings on the pyramid in Egyptian characters indicating how much was spent on radishes and onions and garlic for the workmen; and I am sure that, when he read me the writing, the interpreter said that sixteen hundred talents of silver had been paid.
+
+Now if that is so, how much must have been spent on the iron with which they worked, and the workmen's food and clothing, considering that the time aforesaid was spent in building, while hewing and carrying the stone and digging out the underground parts was, as I suppose, a business of long duration.
+
+And so evil a man was Kheops that, needing money, he put his own daughter in a brothel and made her charge a fee (how much, they did not say). She did as her father told her, but was disposed to leave a memorial of her own, and asked of each coming to her that he give one stone;
+
+and of these stones they said the pyramid was built that stands midmost of the three, over against the great pyramid; each side of it measures one hundred and fifty feet.
+
+The Egyptians said that this Kheops reigned for fifty years; at his death he was succeeded by his brother Khephren, who was in all respects like Kheops. Khephren also built a pyramid, smaller than his brother's. I have measured it myself.
+
+It has no underground chambers, nor is it entered like the other by a canal from the Nile, but the river comes in through a built passage and encircles an island, in which, they say, Kheops himself lies.
+
+This pyramid was built on the same scale as the other, except that it falls forty feet short of it in height; it stands near the great pyramid; the lowest layer of it is of variegated Ethiopian stone. Both of them stand on the same ridge, which is about a hundred feet high. Khephren, they said, reigned for fifty-six years.
+
+Thus, they reckon that for a hundred and six years
+
+Egypt was in great misery and the temples so long shut were never opened. The people hate the memory of these two kings so much that they do not much wish to name them, and call the pyramids after the shepherd Philitis, who then pastured his flocks in this place.
+
+The next king of Egypt, they said, was Kheops ' son Mycerinus. Disliking his father's doings, he opened the temples and let the people, ground down to the depth of misery, go to their business and their sacrifices; and he was the most just judge among all the kings.
+
+This is why he is praised above all the rulers of Egypt; for not only were his judgments just, but Mycerinus would give any who were not satisfied with the judgment a present out of his own estate to compensate him for his loss.
+
+Though mild toward his people and conducting himself as he did, yet he suffered calamities, the first of which was the death of his daughter, the only child of his household. Deeply grieved over this misfortune, he wanted to give her a burial somewhat more sumptuous than ordinary; he therefore made a hollow cow's image of gilded wood and placed the body of his dead daughter therein.
+
+This cow was not buried in the earth but was to be seen even in my time, in the town of Saïs, where it stood in a furnished room of the palace; incense of all kinds is offered daily before it, and a lamp burns by it all through every night.
+
+Near this cow in another chamber statues of Mycerinus ' concubines stand, so the priests of Saïs said; and in fact there are about twenty colossal wooden figures there, made like naked women; but except what I was told, I cannot tell who these are.
+
+But some tell the following story about the cow and the statues: that Mycerinus conceived a passion for his own daughter and then had intercourse with her against her will;
+
+and they say that afterwards the girl strangled herself for grief, and that he buried her in this cow, but that her mother cut off the hands of the attendants who had betrayed the daughter to her father, and that now their statues are in the same condition as the living women were.
+
+But this I believe to be a silly story, especially about the hands of the figures. For in fact we ourselves saw that the hands have fallen off through age, and were lying at their feet even in my day.
+
+As for the cow, it is covered with a purple robe, only the head and neck exposed, encrusted with a very thick layer of gold. Between the horns is the golden figure of the sun's orb.
+
+It does not stand, but kneels; it is as big as a live cow of great size. This image is carried out of the chamber once every year, whenever the Egyptians mourn the god whose name I omit in speaking of these matters:
+
+then the cow is brought out into the light; for they say that before she died she asked her father, Mycerinus, that she see the sun once a year.
+
+After what happened to his daughter, the following happened next to this king: an oracle came to him from the city of Buto, announcing that he had just six years to live and was to die in the seventh.
+
+The king took this badly, and sent back to the oracle a message of reproach, blaming the god that his father and his uncle, though they had shut up the temples, and disregarded the gods, and destroyed men, had lived for a long time, but that he who was pious was going to die so soon.
+
+But a second oracle came announcing that for this very reason his life was hastening to a close: he had done what was contrary to fate; Egypt should have been afflicted for a hundred and fifty years, and the two kings before him knew this, but not he.
+
+Hearing this, Mycerinus knew that his doom was fixed. Therefore, he had many lamps made, and would light these at nightfall and drink and enjoy himself, not letting up day or night, roaming to the marsh country and the groves and wherever he heard of the likeliest places of pleasure.
+
+This was his recourse, so that by turning night into day he might make his six years into twelve and so prove the oracle false.
+
+This king, too, left a pyramid, but far smaller than his father's, each side twenty feet short of three hundred feet long, square at the base, and as much as half its height of Ethiopian stone. Some Greeks say that it was built by Rhodopis, the courtesan, but they are wrong;
+
+indeed, it is clear to me that they say this without even knowing who Rhodopis was (otherwise, they would never have credited her with the building of a pyramid on which what I may call an uncountable sum of money was spent), or that Rhodopis flourished in the reign of Amasis, not of Mycerinus;
+
+for very many years later than these kings who left the pyramids came Rhodopis, who was Thracian by birth, and a slave of Iadmon son of Hephaestopolis the Samian, and a fellow-slave of Aesop the story-writer. For he was owned by Iadmon, too, as the following made crystal clear:
+
+when the Delphians, obeying an oracle, issued many proclamations summoning anyone who wanted it to accept compensation for the killing of Aesop, no one accepted it except the son of Iadmon 's son, another Iadmon; hence Aesop, too, was Iadmon 's.
+
+Rhodopis came to Egypt to work, brought by Xanthes of Samos, but upon her arrival was freed for a lot of money by Kharaxus of Mytilene, son of Scamandronymus and brother of Sappho the poetess.
+
+Thus Rhodopis lived as a free woman in Egypt, where, as she was very alluring, she acquired a lot of money—sufficient for such a Rhodopis, so to speak, but not for such a pyramid.
+
+Seeing that to this day anyone who likes can calculate what one tenth of her worth was, she cannot be credited with great wealth. For Rhodopis desired to leave a memorial of herself in Greece, by having something made which no one else had thought of or dedicated in a temple and presenting this at Delphi to preserve her memory;
+
+so she spent one tenth of her substance on the manufacture of a great number of iron beef spits, as many as the tenth would pay for, and sent them to Delphi; these lie in a heap to this day, behind the altar set up by the Chians and in front of the shrine itself.
+
+The courtesans of Naucratis seem to be peculiarly alluring, for the woman of whom this story is told became so famous that every Greek knew the name of Rhodopis, and later on a certain Archidice was the theme of song throughout Greece, although less celebrated than the other.
+
+Kharaxus, after giving Rhodopis her freedom, returned to Mytilene. He is bitterly attacked by Sappho in one of her poems. This is enough about Rhodopis.
+
+After Mycerinus, the priests said, Asukhis became king of Egypt. He built the eastern outer court of Hephaestus ' temple; this is by far the finest and grandest of all the courts, for while all have carved figures and innumerable felicities of architecture, this court has far more than any.
+
+As not much money was in circulation during this king's reign, they told me, a law was made for the Egyptians allowing a man to borrow on the security of his father's corpse; and the law also provided that the lender become master of the entire burial-vault of the borrower, and that the penalty for one giving this security, should he fail to repay the loan, was that he was not to be buried at his death either in that tomb of his fathers or in any other, nor was he to bury any relative of his there.
+
+Furthermore, in his desire to excel all who ruled Egypt before him, this king left a pyramid of brick to commemorate his name, on which is this writing, cut on a stone:
+
+“Do not think me less than pyramids of stone; for I excel them as much as Zeus does other gods; for they stuck a pole down into a marsh and collected what mud clung to the pole, made bricks of it, and thus built me.” These were the acts of Asukhis.
+
+After him reigned a blind man called Anysis, of the town of that name. In his reign Egypt was invaded by Sabacos king of Ethiopia and a great army of Ethiopians.
+
+The blind man fled to the marshes, and the Ethiopian ruled Egypt for fifty years, during which he distinguished himself for the following:
+
+he would never put to death any Egyptian wrongdoer but sentenced all, according to the severity of their offenses, to raise embankments in their native towns. Thus the towns came to stand yet higher than before;
+
+for after first being built on embankments made by the excavators of the canals in the reign of Sesostris, they were yet further raised in the reign of the Ethiopian.
+
+Of the towns in Egypt that were raised, in my opinion, Bubastis is especially prominent, where there is also a temple of Bubastis, a building most worthy of note. Other temples are greater and more costly, but none more pleasing to the eye than this. Bubastis is, in the Greek language, Artemis.
+
+Her temple is of this description: except for the entrance, it stands on an island; for two channels approach it from the
+
+Nile without mixing with one another, running as far as the entryway of the temple, the one and the other flowing around it, each a hundred feet wide and shaded by trees.
+
+The outer court is sixty feet high, adorned with notable figures ten feet high. The whole circumference of the city commands a view down into the temple in its midst; for the city's level has been raised, but that of the temple has been left as it was from the first, so that it can be seen into from above.
+
+A stone wall, cut with figures, runs around it; within is a grove of very tall trees growing around a great shrine where the image of the goddess is; the temple is a square, each side measuring an eighth of a mile.
+
+A road, paved with stone, about three eighths of a mile long leads to the entrance, running eastward through the marketplace, towards the temple of Hermes; this road is about four hundred feet wide, and bordered by trees reaching to heaven. Such is this temple.
+
+Now the departure of the Ethiopian (they said) came about in this way. After seeing in a dream one who stood over him and urged him to gather together all the Priests in Egypt and cut them in half, he fled from the country.
+
+Seeing this vision, he said, he supposed it to be a manifestation sent to him by the gods, so that he might commit sacrilege and so be punished by gods or men; he would not (he said) do so, but otherwise, for the time foretold for his rule over Egypt was now fulfilled, after which he was to depart:
+
+for when he was still in Ethiopia, the oracles that are consulted by the people of that country told him that he was fated to reign fifty years over Egypt. Seeing that this time was now completed and that he was troubled by what he saw in his dream, Sabacos departed from
+
+Egypt of his own volition.
+
+When the Ethiopian left
+
+Egypt, the blind man (it is said) was king once more, returning from the marshes where he had lived for fifty years on an island that he built of ashes and earth; for the Egyptians who were to bring him food without the Ethiopian 's knowledge were instructed by the king to bring ashes whenever they came, to add to their gift.
+
+This island was never discovered before the time of Amyrtaeus; all the kings before him sought it in vain for more than seven hundred years. The name of it is Elbo, and it is over a mile long and of an equal breadth.
+
+The next king was the priest of Hephaestus whose name was Sethos. He despised and had no regard for the warrior Egyptians, thinking he would never need them; besides otherwise dishonoring them, he took away the chosen lands which had been given to them, twelve fields to each man, in the reign of former kings.
+
+So when presently king Sanacharib came against Egypt, with a great force of Arabians and Assyrians, the warrior Egyptians would not march against him.
+
+The priest, in this quandary, went into the temple shrine and there before the god's image bitterly lamented over what he expected to suffer. Sleep came on him while he was lamenting, and it seemed to him the god stood over him and told him to take heart, that he would come to no harm encountering the power of Arabia: “I shall send you champions,” said the god.
+
+So he trusted the vision, and together with those Egyptians who would follow him camped at Pelusium, where the road comes into Egypt; and none of the warriors would go with him, but only merchants and craftsmen and traders.
+
+Their enemies came there, too, and during the night were overrun by a horde of field mice that gnawed quivers and bows and the handles of shields, with the result that many were killed fleeing unarmed the next day.
+
+And to this day a stone statue of the Egyptian king stands in Hephaestus ' temple, with a mouse in his hand, and an inscription to this effect: “Look at me, and believe.”
+
+Thus far went the record given by the Egyptians and their priests; and they showed me that the time from the first king to that priest of Hephaestus, who was the last, covered three hundred and forty-one generations, and that in this time this also had been the number of their kings, and of their high priests.
+
+Now three hundred generations are ten thousand years, three generations being equal to a hundred. And over and above the three hundred, the remaining forty-one cover thirteen hundred and forty years.
+
+Thus the whole period is eleven thousand three hundred and forty years; in all of which time (they said) they had had no king who was a god in human form, nor had there been any such either before or after those years among the rest of the kings of Egypt.
+
+Four times in this period (so they told me) the sun rose contrary to experience; twice he came up where he now goes down, and twice went down where he now comes up; yet Egypt at these times underwent no change, either in the produce of the river and the land, or in the matter of sickness and death.
+
+Hecataeus the historian was once at
+
+Thebes, where he made a genealogy for himself that had him descended from a god in the sixteenth generation. But the priests of Zeus did with him as they also did with me (who had not traced my own lineage).
+
+They brought me into the great inner court of the temple and showed me wooden figures there which they counted to the total they had already given, for every high priest sets up a statue of himself there during his lifetime;
+
+pointing to these and counting, the priests showed me that each succeeded his father; they went through the whole line of figures, back to the earliest from that of the man who had most recently died.
+
+Thus, when Hecataeus had traced his descent and claimed that his sixteenth forefather was a god, the priests too traced a line of descent according to the method of their counting; for they would not be persuaded by him that a man could be descended from a god; they traced descent through the whole line of three hundred and forty-five figures, not connecting it with any ancestral god or hero, but declaring each figure to be a “Piromis” the son of a “Piromis”; in Greek, one who is in all respects a good man.
+
+Thus they showed that all those whose statues stood there had been good men, but quite unlike gods.
+
+Before these men, they said, the rulers of Egypt were gods, but none had been contemporary with the human priests. Of these gods one or another had in succession been supreme; the last of them to rule the country was Osiris ' son Horus, whom the Greeks call Apollo; he deposed Typhon, and was the last divine king of Egypt. Osiris is, in the Greek language, Dionysus.
+
+Among the Greeks, Heracles, Dionysus, and Pan are held to be the youngest of the gods. But in Egypt, Pan is the most ancient of these and is one of the eight gods who are said to be the earliest of all; Heracles belongs to the second dynasty (that of the so-called twelve gods); and Dionysus to the third, which came after the twelve.
+
+How many years there were between Heracles and the reign of Amasis, I have already shown; Pan is said to be earlier still; the years between Dionysus and Amasis are the fewest, and they are reckoned by the Egyptians at fifteen thousand.
+
+The Egyptians claim to be sure of all this, since they have reckoned the years and chronicled them in writing.
+
+Now the Dionysus who was called the son of Semele, daughter of Cadmus, was about sixteen hundred years before my time, and Heracles son of Alcmene about nine hundred years; and Pan the son of Penelope (for according to the Greeks Penelope and Hermes were the parents of Pan) was about eight hundred years before me, and thus of a later date than the Trojan war.
+
+With regard to these two, Pan and Dionysus, one may follow whatever story one thinks most credible; but I give my own opinion concerning them here. Had Dionysus son of Semele and Pan son of Penelope appeared in Hellas and lived there to old age, like Heracles the son of Amphitryon, it might have been said that they too (like Heracles) were but men, named after the older Pan and Dionysus, the gods of antiquity;
+
+but as it is, the Greek story has it that no sooner was Dionysus born than Zeus sewed him up in his thigh and carried him away to Nysa in Ethiopia beyond Egypt; and as for Pan, the Greeks do not know what became of him after his birth. It is therefore plain to me that the Greeks learned the names of these two gods later than the names of all the others, and trace the birth of both to the time when they gained the knowledge.
+
+So far I have recorded what the Egyptians themselves say. I shall now relate what is recorded alike by Egyptians and foreigners, and shall add something of what I myself have seen.
+
+After the reign of the priest of Hephaestus the Egyptians were made free. But they could never live without a king, so they divided Egypt into twelve districts and set up twelve kings.
+
+These kings intermarried, and agreed to be close friends, no one deposing another or seeking to possess more than another.
+
+The reason for this agreement, which they scrupulously kept, was this: no sooner were they established in their districts than an oracle was given them that whichever of them poured a libation from a bronze vessel in the temple of Hephaestus (where, as in all the temples, they used to assemble) would be king of all Egypt.
+
+Moreover, they decided to preserve the memory of their names by a common memorial, and so they made a labyrinth a little way beyond lake Moeris and near the place called the City of Crocodiles. I have seen it myself, and indeed words cannot describe it;
+
+if one were to collect the walls and evidence of other efforts of the Greeks, the sum would not amount to the labor and cost of this labyrinth. And yet the temple at Ephesus and the one on Samos are noteworthy.
+
+Though the pyramids beggar description and each one of them is a match for many great monuments built by Greeks, this maze surpasses even the pyramids.
+
+It has twelve roofed courts with doors facing each other: six face north and six south, in two continuous lines, all within one outer wall. There are also double sets of chambers, three thousand altogether, fifteen hundred above and the same number under ground.
+
+We ourselves viewed those that are above ground, and speak of what we have seen, but we learned through conversation about the underground chambers; the Egyptian caretakers would by no means show them, as they were, they said, the burial vaults of the kings who first built this labyrinth, and of the sacred crocodiles.
+
+Thus we can only speak from hearsay of the lower chambers; the upper we saw for ourselves, and they are creations greater than human. The exits of the chambers and the mazy passages hither and thither through the courts were an unending marvel to us as we passed from court to apartment and from apartment to colonnade, from colonnades again to more chambers and then into yet more courts.
+
+Over all this is a roof, made of stone like the walls, and the walls are covered with cut figures, and every court is set around with pillars of white stone very precisely fitted together. Near the corner where the labyrinth ends stands a pyramid two hundred and forty feet high, on which great figures are cut. A passage to this has been made underground.
+
+Such is this labyrinth; and still more marvellous is lake Moeris, on which it stands. This lake has a circumference of four hundred and fifty miles, or sixty schoeni: as much as the whole seaboard of Egypt. Its length is from north to south; the deepest part has a depth of fifty fathoms.
+
+That it has been dug out and made by men's hands the lake shows for itself; for almost in the middle of it stand two pyramids, so built that fifty fathoms of each are below and fifty above the water; atop each is a colossal stone figure seated on a throne.
+
+Thus these pyramids are a hundred fathoms high; and a hundred fathoms equal a furlong of six hundred feet, the fathom measuring six feet or four cubits, the foot four spans and the cubit six spans.
+
+The water of the lake is not natural (for the country here is exceedingly arid) but brought by a channel from the Nile; six months it flows into the lake, and six back into the river.
+
+For the six months that it flows out of the lake, the daily take of fish brings a silver talent into the royal treasury, and twenty minae for each day of the flow into the lake.
+
+Furthermore, the natives said that this lake drains underground into the Libyan Syrtis, and extends under the mountains that are above Memphis, having the inland country on its west.
+
+When I could not see anywhere the earth taken from the digging of this lake, since this was curious to me, I asked those who live nearest the lake where the stuff was that had been dug out. They told me where it had been carried, and I readily believed them, for I had heard of a similar thing happening in the Assyrian city of Ninus.
+
+Sardanapallus king of Ninus had great wealth, which he kept in an underground treasury. Some thieves plotted to carry it off; they surveyed their course and dug an underground way from their own house to the palace, carrying the earth taken out of the passage dug by night to the Tigris, which runs past Ninus, until at last they accomplished their end.
+
+This, I was told, had happened when the Egyptian lake was dug, except that the work went on not by night but by day. The Egyptians bore the earth dug out by them to the Nile, to be caught and scattered (as was to be expected) by the river. Thus is this lake said to have been dug.
+
+Now the twelve kings were just, and in time came to sacrifice in Hephaestus ' temple. On the last day of the feast, as they were about to pour libations, the high priest brought out the golden vessels which they commonly used for this; but he counted wrongly and had only eleven for the twelve.
+
+So the last in line, Psammetichus, as he had no vessel, took off his bronze helmet and held it out and poured the libation with it. All the kings were accustomed to wear helmets, and were then helmeted;
+
+it was not in guile, then, that Psammetichus held out his headgear; but the rest perceived what Psammetichus had done, and remembered the oracle that promised the sovereignty of all Egypt to whoever poured a libation from a vessel of bronze; therefore, though they considered Psammetichus not deserving of death (for they examined him and found that he had acted without intent), they decided to strip him of most of his power and to chase him away into the marshes, and that he was not to concern himself with the rest of Egypt.
+
+This Psammetichus had formerly been in exile in Syria, where he had fled from Sabacos the Ethiopian, who killed his father Necos; then, when the Ethiopian departed because of what he saw in a dream, the Egyptians of the district of Saïs brought him back from
+
+Syria.
+
+Psammetichus was king for the second time when he found himself driven away into the marshes by the eleven kings because of the helmet.
+
+Believing, therefore, that he had been abused by them, he meant to be avenged on those who had expelled him. He sent to inquire in the town of
+
+Buto, where the most infallible oracle in Egypt is; the oracle answered that he would have vengeance when he saw men of bronze coming from the sea.
+
+Psammetichus did not in the least believe that men of bronze would come to aid him. But after a short time, Ionians and Carians, voyaging for plunder, were forced to put in on the coast of Egypt, where they disembarked in their armor of bronze; and an Egyptian came into the marsh country and brought news to Psammetichus (for he had never before seen armored men) that men of bronze had come from the sea and were foraging in the plain.
+
+Psammetichus saw in this the fulfillment of the oracle; he made friends with the Ionians and Carians, and promised them great rewards if they would join him and, having won them over, deposed the eleven kings with these allies and those Egyptians who volunteered.
+
+Having made himself master of all Egypt, he made the southern outer court of Hephaestus ' temple at Memphis, and built facing this a court for Apis, where Apis is kept and fed whenever he appears; this court has an inner colonnade all around it and many cut figures; the roof is held up by great statues twenty feet high for pillars. Apis in Greek is Epaphus.
+
+To the Ionians and Carians who had helped him, Psammetichus gave places to live in called The Camps, opposite each other on either side of the Nile; and besides this, he paid them all that he had promised.
+
+Moreover, he put Egyptian boys in their hands to be taught Greek, and from these, who learned the language, are descended the present-day Egyptian interpreters.
+
+The Ionians and Carians lived for a long time in these places, which are near the sea, on the arm of the Nile called the Pelusian, a little way below the town of Bubastis. Long afterwards, king Amasis removed them and settled them at Memphis to be his guard against the Egyptians.
+
+It is a result of our communication with these settlers in Egypt (the first of foreign speech to settle in that country) that we Greeks have exact knowledge of the history of
+
+Egypt from the reign of Psammetichus onwards.
+
+There still remained in my day, in the places out of which the Ionians and Carians were turned, the winches for their ships and the ruins of their houses. This is how Psammetichus got Egypt.
+
+I have often mentioned the Egyptian oracle, and shall give an account of this, as it deserves. This oracle is sacred to Leto, and is situated in a great city by the Sebennytic arm of the Nile, on the way up from the sea.
+
+Buto is the name of the city where this oracle is; I have already mentioned it. In Buto there is a temple of Apollo and Artemis. The shrine of Leto where the oracle is, is itself very great, and its outer court is sixty feet high.
+
+But what caused me the most wonder among the things apparent there I shall mention. In this precinct is the shrine of Leto, the height and length of whose walls is all made of a single stone slab; each wall has an equal length and height; namely, seventy feet. Another slab makes the surface of the roof, the cornice of which is seven feet broad.
+
+Thus, then, the shrine is the most marvellous of all the things that I saw in this temple; but of things of second rank, the most wondrous is the island called Khemmis.
+
+This lies in a deep and wide lake near the temple at Buto, and the Egyptians say that it floats. I never saw it float, or move at all, and I thought it a marvellous tale, that an island should truly float.
+
+However that may be, there is a great shrine of Apollo on it, and three altars stand there; many palm trees grow on the island, and other trees too, some yielding fruit and some not.
+
+This is the story that the Egyptians tell to explain why the island moves: that on this island that did not move before, Leto, one of the eight gods who first came to be, who was living at Buto where this oracle of hers is, taking charge of Apollo from Isis, hid him for safety in this island which is now said to float, when Typhon came hunting through the world, keen to find the son of Osiris.
+
+Apollo and Artemis were (they say) children of Dionysus and Isis, and Leto was made their nurse and preserver; in Egyptian, Apollo is Horus, Demeter Isis, Artemis Bubastis.
+
+It was from this legend and no other that Aeschylus son of Euphorion took a notion which is in no poet before him: that Artemis was the daughter of Demeter. For this reason the island was made to float. So they say.
+
+Psammetichus ruled Egypt for fifty-three years, twenty-nine of which he spent before Azotus, a great city in Syria, besieging it until he took it. Azotus held out against a siege longer than any city of which we know.
+
+Psammetichus had a son, Necos, who became king of Egypt. It was he who began building the canal into the Red Sea, which was finished by Darius the Persian. This is four days' voyage in length, and it was dug wide enough for two triremes to move in it rowed abreast.
+
+It is fed by the Nile, and is carried from a little above Bubastis by the Arabian town of Patumus; it issues into the Red Sea. Digging began in the part of the Egyptian plain nearest to Arabia; the mountains that extend to Memphis (the mountains where the stone quarries are) come close to this plain;
+
+the canal is led along the foothills of these mountains in a long reach from west to east; passing then into a ravine, it bears southward out of the hill country towards the Arabian Gulf.
+
+Now the shortest and most direct passage from the northern to the southern or Red Sea is from the Casian promontory, the boundary between Egypt and Syria, to the Arabian Gulf, and this is a distance of one hundred and twenty five miles, neither more nor less;
+
+this is the most direct route, but the canal is far longer, inasmuch as it is more crooked. In Necos ' reign, a hundred and twenty thousand Egyptians died digging it. Necos stopped work, stayed by a prophetic utterance that he was toiling beforehand for the barbarian. The Egyptians call all men of other languages barbarians.
+
+Necos, then, stopped work on the canal and engaged in preparations for war; some of his ships of war were built on the northern sea, and some in the Arabian Gulf, by the Red Sea coast: the winches for landing these can still be seen.
+
+He used these ships when needed, and with his land army met and defeated the Syrians at Magdolus, taking the great Syrian city of Cadytis after the battle.
+
+He sent to Branchidae of Miletus and dedicated there to Apollo the garments in which he won these victories. Then he died after a reign of sixteen years, and his son Psammis reigned in his place.
+
+While this Psammis was king of Egypt, he was visited by ambassadors from Elis, the Eleans boasting that they had arranged the Olympic games with all the justice and fairness in the world, and claiming that even the Egyptians, although the wisest of all men, could not do better.
+
+When the Eleans came to Egypt and announced why they had come, Psammis assembled the Egyptians reputed to be wisest. These assembled and learned all that the Eleans were to do regarding the games; after explaining this, the Eleans said that they had come to learn whether the Egyptians could discover any juster way.
+
+The Egyptians deliberated, and then asked the Eleans if their own citizens took part in the contests. The Eleans answered that they did: all Greeks from Elis or elsewhere might contend.
+
+Then the Egyptians said that in establishing this rule they fell short of complete fairness: “For there is no way that you will not favor your own townsfolk in the contest and wrong the stranger; if you wish in fact to make just rules and have come to Egypt for that reason, you should admit only strangers to the contest, and not Eleans.” Such was the counsel of the Egyptians to the Eleans.
+
+Psammis reigned over Egypt for only six years; he invaded Ethiopia, and immediately thereafter died, and Apries the son of Psammis reigned in his place.
+
+He was more fortunate than any former king (except his great-grandfather Psammetichus) during his rule of twenty-five years, during which he sent an army against Sidon and fought at sea with the king of Tyre.
+
+But when it was fated that evil should overtake him, the cause of it was something that I will now deal with briefly, and at greater length in the Libyan part of this history.
+
+Apries sent a great force against Cyrene and suffered a great defeat. The Egyptians blamed him for this and rebelled against him; for they thought that Apries had knowingly sent his men to their doom, so that after their perishing in this way he might be the more secure in his rule over the rest of the Egyptians. Bitterly angered by this, those who returned home and the friends of the slain openly revolted.
+
+Hearing of this, Apries sent Amasis to dissuade them. When Amasis came up with the Egyptians, he exhorted them to desist; but as he spoke an Egyptian came behind him and put a helmet on his head, saying it was the token of royalty.
+
+And Amasis showed that this was not displeasing to him, for after being made king by the rebel Egyptians he prepared to march against Apries.
+
+When Apries heard of it, he sent against Amasis an esteemed Egyptian named Patarbemis, one of his own court, instructing him to take the rebel alive and bring him into his presence. When Patarbemis came and summoned Amasis, Amasis (who was on horseback) rose up and farted, telling the messenger to take that back to Apries.
+
+But when in spite of this Patarbemis insisted that Amasis obey the king's summons and go to him, Amasis answered that he had long been preparing to do just that, and Apries would find him above reproach, for he would present himself, and bring others.
+
+Hearing this, Patarbemis could not mistake Amasis; he saw his preparations and hastened to depart, the more quickly to make known to the king what was going on. When Apries saw him return without Amasis, he did not stop to reflect, but in his rage and fury had Patarbemis ' ears and nose cut off.
+
+The rest of the Egyptians, who were until now Apries ' friends, seeing this outrage done to the man who was most prominent among them, changed sides without delay and offered themselves to Amasis.
+
+Learning of this, too, Apries armed his guard and marched against the Egyptians; he had a bodyguard of Carians and Ionians, thirty thousand of them, and his royal palace was in the city of Saïs, a great and marvellous palace.
+
+Apries ' men marched against the Egyptians, and so did Amasis ' men against the foreigners. So they both came to Momemphis and were going to make trial of one another.
+
+The Egyptians are divided into seven classes: priests, warriors, cowherds, swineherds, merchants, interpreters, and pilots. There are this many classes, each named after its occupation.
+
+The warriors are divided into Kalasiries and Hermotubies, and they belong to the following districts (for all divisions in Egypt are made according to districts).
+
+The Hermotubies are from the districts of Busiris, Saïs, Khemmis, and Papremis, the island called Prosopitis, and half of Natho —from all of these; their number, at its greatest, attained to a hundred and sixty thousand. None of these has learned any common trade; they are free to follow the profession of arms alone.
+
+The Kalasiries are from the districts of Thebes, Bubastis, Aphthis, Tanis, Mendes, Sebennys, Athribis, Pharbaïthis, Thmuis, Onuphis, Anytis, Myecphoris (this last is in an island opposite the city of Bubastis)— from all of these; their number, at its greatest, attained to two hundred and fifty thousand men. These too may practise no trade but war, which is their hereditary calling.
+
+Now whether this, too, the Greeks have learned from the Egyptians, I cannot confidently judge. I know that in Thrace and Scythia and Persia and Lydia and nearly all foreign countries, those who learn trades are held in less esteem than the rest of the people, and those who have least to do with artisans' work, especially men who are free to practise the art of war, are highly honored.
+
+This much is certain: that this opinion, which is held by all Greeks and particularly by the Lacedaemonians, is of foreign origin. It is in Corinth that artisans are held in least contempt.
+
+The warriors were the only Egyptians, except the priests, who had special privileges: for each of them an untaxed plot of twelve acres was set apart. This acre is a square of a hundred Egyptian cubits each way, the Egyptian cubit being equal to the Samian.
+
+These lands were set apart for all; it was never the same men who cultivated them, but each in turn. A thousand Kalasiries and as many Hermotubies were the king's annual bodyguard. These men, besides their lands, each received a daily provision of five minae's weight of roast grain, two minae of beef, and four cups of wine. These were the gifts received by each bodyguard.
+
+When Apries with his guards and Amasis with the whole force of Egyptians came to the town of Momemphis, they engaged; and though the foreigners fought well, they were vastly outnumbered, and therefore were beaten.
+
+Apries, they say, supposed that not even a god could depose him from his throne, so firmly did he think he was established; and now, defeated in battle and taken captive, he was brought to Saïs, to the royal dwelling which belonged to him once but now belonged to Amasis.
+
+There, he was kept alive for a while in the palace and well treated by Amasis. But presently the Egyptians complained that there was no justice in keeping alive one who was their own and their king's bitterest enemy; whereupon Amasis gave Apries up to them, and they strangled him and then buried him in the burial-place of his fathers.
+
+This is in the temple of Athena, very near to the sanctuary, on the left of the entrance. The people of Saïs buried within the temple precinct all kings who were natives of their district.
+
+The tomb of Amasis is farther from the sanctuary than the tomb of Apries and his ancestors; yet it, too, is within the temple court; it is a great colonnade of stone, richly adorned, the pillars made in the form of palm trees. In this colonnade are two portals, and the place where the coffin lies is within their doors.
+
+There is also at Saïs the burial-place of one whose name I think it impious to mention in speaking of such a matter; it is in the temple of Athena, behind and close to the length of the wall of the shrine.
+
+Moreover, great stone obelisks stand in the precinct; and there is a lake nearby, adorned with a stone margin and made in a complete circle; it is, as it seemed to me, the size of the lake at Delos which they call the Round Pond.
+
+On this lake they enact by night the story of the god's sufferings, a rite which the Egyptians call the Mysteries. I could say more about this, for I know the truth, but let me preserve a discreet silence.
+
+Let me preserve a discreet silence, too, concerning that rite of Demeter which the Greeks call Thesmophoria, except as much of it as I am not forbidden to mention.
+
+The daughters of Danaus were those who brought this rite out of Egypt and taught it to the Pelasgian women; afterwards, when the people of the Peloponnese were driven out by the Dorians, it was lost, except in so far as it was preserved by the Arcadians, the Peloponnesian people which was not driven out but left in its home.
+
+After Apries was deposed, Amasis became king; he was from a town called Siuph in the district of Saïs.
+
+Now at first he was scorned and held in low regard by the Egyptians on the ground that he was a common man and of no high family; but presently he won them over by being shrewd and not arrogant.
+
+He had among his countless treasures a golden washbowl, in which he and all those who ate with him were accustomed to clean their feet. This he broke in pieces and out of it made a god's image, which he set in a most conspicuous spot in the city; and the Egyptians came frequently to this image and held it in great reverence.
+
+When Amasis learned what the townsfolk were doing, he called the Egyptians together and told them that the image had been made out of the washbowl, in which Egyptians had once vomited and urinated and cleaned their feet, but which now they greatly revered.
+
+“Now then,” he said, “I have fared like the washbowl, since if before I was a common man, still, I am your king now.” And he told them to honor and show respect for him.
+
+The following was how he scheduled his affairs: in the morning, until the the hour when the marketplace filled, he readily conducted whatever business was brought to him; the rest of the day, he drank and joked at the expense of his companions and was idle and playful.
+
+But this displeased his friends, who admonished him thus: “O King, you do not conduct yourself well by indulging too much in vulgarity. You, a celebrated man, ought to conduct your business throughout the day, sitting on a celebrated throne; and thus the Egyptians would know that they are governed by a great man, and you would be better spoken of; as it is, what you do is by no means kingly.”
+
+But he answered them like this: “Men that have bows string them when they must use them, and unstring them when they have used them; were bows kept strung forever, they would break, and so could not be used when needed.
+
+Such, too, is the nature of man. Were one to be always at serious work and not permit oneself a bit of relaxation, he would go mad or idiotic before he knew it; I am well aware of that, and give each of the two its turn.” Such was his answer to his friends.
+
+It is said that even when Amasis was a private man he was fond of drinking and joking and was not at all a sober man; and that when his drinking and pleasure-seeking cost him the bare necessities, he would go around stealing. Then when he contradicted those who said that he had their possessions, they would bring him to whatever place of divination was nearby, and sometimes the oracles declared him guilty and sometimes they acquitted him.
+
+When he became king, he did not take care of the shrines of the gods who had acquitted him of theft, or give them anything for maintenance, or make it his practice to sacrifice there, for he knew them to be worthless and their oracles false; but he took scrupulous care of the gods who had declared his guilt, considering them to be gods in very deed and their oracles infallible.
+
+Amasis made a marvellous outer court for the temple of Athena at Saïs, far surpassing all in its height and size, and in the size and quality of the stone blocks; moreover, he set up huge images and vast man-headed sphinxes, and brought enormous blocks of stone besides for the building.
+
+Some of these he brought from the stone quarries of Memphis; the largest came from the city of Elephantine, twenty days' journey distant by river from Saïs.
+
+But what I admire most of his works is this: he brought from Elephantine a shrine made of one single block of stone; its transport took three years and two thousand men had the carriage of it, all of them pilots. This chamber is thirty-five feet long, twenty-three feet wide, thirteen feet high.
+
+These are the external dimensions of the chamber which is made of one block; its internal dimensions are: thirty-one feet long, twenty feet wide, eight feet high. It stands at the entrance of the temple;
+
+it was not dragged within (so they say) because while it was being drawn the chief builder complained aloud of the great expense of time and his loathing of the work, and Amasis taking this to heart would not let it be drawn further. Some also say that a man, one of those who heaved up the shrine, was crushed by it, and therefore it was not dragged within.
+
+Furthermore, Amasis dedicated, besides monuments of marvellous size in all the other temples of note, the huge image that lies supine before Hephaestus ' temple at Memphis; this image is seventy-five feet in length; there stand on the same base, on either side of the great image, two huge statues hewn from the same block, each of them twenty feet high.
+
+There is at Saïs another stone figure of like size, supine as is the figure at Memphis. It was Amasis, too, who built the great and most marvellous temple of Isis at Memphis.
+
+It is said that in the reign of Amasis
+
+Egypt attained to its greatest prosperity, in respect of what the river did for the land and the land for its people: and that the number of inhabited cities in the country was twenty thousand.
+
+It was Amasis also who made the law that every Egyptian declare his means of livelihood to the ruler of his district annually, and that omitting to do so or to prove that one had a legitimate livelihood be punishable with death. Solon the Athenian got this law from Egypt and established it among his people; may they always have it, for it is a perfect law.
+
+Amasis became a philhellene, and besides other services which he did for some of the Greeks, he gave those who came to Egypt the city of Naucratis to live in; and to those who travelled to the country without wanting to settle there, he gave lands where they might set up altars and make holy places for their gods.
+
+Of these the greatest and most famous and most visited precinct is that which is called the Hellenion, founded jointly by the Ionian cities of Chios, Teos, Phocaea, and Clazomenae, the Dorian cities of Rhodes, Cnidus, Halicarnassus, and Phaselis, and one Aeolian city,
+
+Mytilene.
+
+It is to these that the precinct belongs, and these are the cities that furnish overseers of the trading port; if any other cities advance claims, they claim what does not belong to them. The Aeginetans made a precinct of their own, sacred to Zeus; and so did the Samians for Hera and the Milesians for Apollo.
+
+Naucratis was in the past the only trading port in Egypt. Whoever came to any other mouth of the Nile had to swear that he had not come intentionally, and had then to take his ship and sail to the Canobic mouth; or if he could not sail against contrary winds, he had to carry his cargo in barges around the Delta until he came to Naucratis. In such esteem was Naucratis held.
+
+When the Amphictyons paid three hundred talents to have the temple that now stands at Delphi finished (as that which was formerly there burnt down by accident), it was the Delphians ' lot to pay a fourth of the cost.
+
+They went about from city to city collecting gifts, and got most from Egypt; for Amasis gave them a thousand talents' weight of astringent earth, and the Greek settlers in
+
+Egypt twenty minae.
+
+Amasis made friends and allies of the people of
+
+Cyrene. And he decided to marry from there, either because he had his heart set on a Greek wife, or for the sake of the Corcyreans ' friendship;
+
+in any case, he married a certain Ladice, said by some to be the daughter of Battus, of Arcesilaus by others, and by others again of Critobulus, an esteemed citizen of the place. But whenever Amasis lay with her, he became unable to have intercourse, though he managed with every other woman;
+
+and when this happened repeatedly, Amasis said to the woman called Ladice, “Woman, you have cast a spell on me, and there is no way that you shall avoid perishing the most wretchedly of all women.”
+
+So Ladice, when the king did not relent at all although she denied it, vowed in her heart to Aphrodite that, if Amasis could have intercourse with her that night, since that would remedy the problem, she would send a statue to Cyrene to her. And after the prayer, immediately, Amasis did have intercourse with her. And whenever Amasis came to her thereafter, he had intercourse, and he was very fond of her after this.
+
+Ladice paid her vow to the goddess; she had an image made and sent it to Cyrene, where it stood safe until my time, facing outside the city. Cambyses, when he had conquered Egypt and learned who Ladice was, sent her away to Cyrene unharmed.
+
+Moreover, Amasis dedicated offerings in Hellas. He gave to Cyrene a gilt image of Athena and a painted picture of himself; to Athena of Lindus, two stone images and a marvellous linen breast-plate; and to Hera in Samos, two wooden statues of himself that were still standing in my time behind the doors in the great shrine.
+
+The offerings in Samos were dedicated because of the friendship between Amasis and Polycrates, son of Aeaces; what he gave to Lindus was not out of friendship for anyone, but because the temple of Athena in Lindus is said to have been founded by the daughters of Danaus, when they landed there in their flight from the sons of Egyptus. Such were Amasis ' offerings. Moreover, he was the first conqueror of Cyprus, which he made tributary to himself.

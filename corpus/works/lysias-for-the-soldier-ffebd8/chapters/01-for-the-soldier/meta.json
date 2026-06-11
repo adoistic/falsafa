@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-for-the-soldier-ffebd8",
+  "work_title": "For The Soldier",
+  "chapter_number": 1,
+  "chapter_title": "For The Soldier",
+  "chapter_slug": "01-for-the-soldier",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "54186009-e115-5661-bd4c-c5bf78869d32",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 872,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg009.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "330a8924-db06-52e1-8b54-595c97b14e04",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1429,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg009.perseus-eng2"
+    }
+  ]
+}

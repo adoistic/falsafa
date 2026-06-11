@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-theocrines-462d92",
+  "work_title": "Against Theocrines",
+  "chapter_number": 1,
+  "chapter_title": "Against Theocrines",
+  "chapter_slug": "01-against-theocrines",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "12b7c1d2-c755-5d3b-8941-8c0ed5b91900",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4689,
+      "paragraph_count": 97,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg058.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "73907469-0510-50ef-9993-2b6fc2fa1e57",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 7565,
+      "paragraph_count": 110,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg058.perseus-eng2"
+    }
+  ]
+}

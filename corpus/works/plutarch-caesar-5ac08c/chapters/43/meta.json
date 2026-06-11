@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-caesar-5ac08c",
+  "work_title": "Caesar",
+  "chapter_number": 43,
+  "chapter_title": "Chapter 43",
+  "chapter_slug": "43",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a77321db-4f6f-578e-87c3-115c557bf708",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 189,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg048.perseus-grc2:43"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc9ae06a-8d60-5f68-b83f-8eac7ac96c3f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 262,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg048.perseus-eng2:43"
+    }
+  ]
+}

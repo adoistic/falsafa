@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-fraterno-amore-9c39c2",
+  "work_title": "De fraterno amore",
+  "chapter_number": 1,
+  "chapter_title": "De fraterno amore",
+  "chapter_slug": "01-de-fraterno-amore",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "da491e26-73eb-5da9-b882-e788cdafe5bc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6619,
+      "paragraph_count": 89,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg097.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "57d6072c-6653-551c-8e5e-52275d3ae737",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 10734,
+      "paragraph_count": 82,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg097.perseus-eng4"
+    }
+  ]
+}

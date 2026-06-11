@@ -1,0 +1,26 @@
+{
+  "work_slug": "gustave-de-molinari-the-society-of-tomorrow-3bed3e",
+  "work_title": "The Society of Tomorrow",
+  "chapter_number": 17,
+  "chapter_title": "Chapter VIII Production of Articles of Naturally Individual Consumption",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5cd093bb-02f2-523c-9b87-7ec49cb67a1a",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1050,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
+    }
+  ]
+}

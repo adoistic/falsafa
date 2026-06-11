@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-1-john-8073a6",
+  "work_title": "1 John",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "90117071-fbe1-5ced-9442-487aabc75a5e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 466,
+      "paragraph_count": 72,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg023.perseus-grc2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49fa51a2-823d-5e60-b6e4-2412058a26be",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 522,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg023.perseus-eng2:3"
+    }
+  ]
+}

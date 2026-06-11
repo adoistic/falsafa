@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-marcellus-df5707",
+  "work_title": "Marcellus",
+  "chapter_number": 22,
+  "chapter_title": "Chapter 22",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4009ac3b-7f83-5e07-a42d-539b8400f9a5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 321,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg022.perseus-grc2:22"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f0b3bdf-6b08-5ebe-bc42-b8cd65327335",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 473,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg022.perseus-eng2:22"
+    }
+  ]
+}

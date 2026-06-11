@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-ezekiel-835f8a",
+  "work_title": "Ezekiel",
+  "chapter_number": 43,
+  "chapter_title": "Chapter 43",
+  "chapter_slug": "43",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f620d855-e0ef-556c-a4ac-b668121fe143",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 891,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg053.1st1K-grc1:43"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8f224a54-71f0-5f34-8b0e-6a6c4a1af086",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 906,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg053.perseus-eng2:43"
+    }
+  ]
+}

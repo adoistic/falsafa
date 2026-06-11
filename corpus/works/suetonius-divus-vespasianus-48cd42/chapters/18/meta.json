@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-divus-vespasianus-48cd42",
+  "work_title": "Divus Vespasianus",
+  "chapter_number": 18,
+  "chapter_title": "Chapter 18",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e9ebe2cf-05a8-5572-8c18-d62e8c6e7afa",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 77,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo020.perseus-lat2:18"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "86c189f3-7e86-5226-951c-56c1b2437e0a",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 108,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo020.perseus-eng2:18"
+    }
+  ]
+}

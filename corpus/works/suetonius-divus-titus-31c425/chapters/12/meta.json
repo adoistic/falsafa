@@ -1,0 +1,26 @@
+{
+  "work_slug": "suetonius-divus-titus-31c425",
+  "work_title": "Divus Titus",
+  "chapter_number": 12,
+  "chapter_title": "Chapter note",
+  "chapter_slug": "12",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9a6a70ad-0f30-5ac8-a7c8-79ba686bd65e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 426,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo021.perseus-eng2:12"
+    }
+  ]
+}

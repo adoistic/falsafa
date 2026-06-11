@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-eunuchus-94adcb",
+  "work_title": "Eunuchus",
+  "chapter_number": 1,
+  "chapter_title": "Eunuchus",
+  "chapter_slug": "01-eunuchus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f573967a-bdfc-5590-be5d-d91d06cc6d35",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1332,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg047.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9dea1cf0-afc0-592e-b32d-2d654ec0f613",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1797,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg047.perseus-eng2"
+    }
+  ]
+}

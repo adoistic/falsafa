@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-aphobus-i-b7a4f6",
+  "work_title": "Against Aphobus I",
+  "chapter_number": 1,
+  "chapter_title": "Against Aphobus I",
+  "chapter_slug": "01-against-aphobus-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7852be13-adf5-5dd7-8589-d468428bda38",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4575,
+      "paragraph_count": 83,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg027.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c8f8c65-9425-5f66-a952-0d863ef18e9d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6845,
+      "paragraph_count": 92,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg027.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "aeschylus-eumenides-66c6fd",
+  "work_title": "Eumenides",
+  "chapter_number": 1,
+  "chapter_title": "Eumenides",
+  "chapter_slug": "01-eumenides",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ef52428b-e6d1-5fe2-8463-8d9df29b111f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5495,
+      "paragraph_count": 1042,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg007.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "81eff3dc-e643-5a77-88c0-2c3c0bc80c44",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9034,
+      "paragraph_count": 272,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg007.perseus-eng2"
+    }
+  ]
+}

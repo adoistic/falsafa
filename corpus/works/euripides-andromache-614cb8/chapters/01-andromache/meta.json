@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-andromache-614cb8",
+  "work_title": "Andromache",
+  "chapter_number": 1,
+  "chapter_title": "Andromache",
+  "chapter_slug": "01-andromache",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e7c785f0-6b5b-5390-9e41-ef71d236b6e2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7465,
+      "paragraph_count": 1265,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg006.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2c358b50-2a86-528d-a3d5-2844d9cd9908",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11651,
+      "paragraph_count": 288,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg006.perseus-eng2"
+    }
+  ]
+}

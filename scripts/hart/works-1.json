@@ -1,0 +1,100 @@
+{
+  "note": "Public-domain English texts from David Hart's Digital Library of Liberty and Power. Hart's own modern translations (Pittwater Free Press, 2025-26) carry no reuse license and are deliberately absent; ask him before adding any.",
+  "works": [
+    {
+      "url": "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html",
+      "title": "The Society of Tomorrow",
+      "author": {
+        "name": "Gustave de Molinari",
+        "biography": "Belgian-born economist of the French liberal school, editor of the Journal des economistes for decades, and the first theorist to ask whether even security could be supplied by competition rather than monopoly.",
+        "birth_year": 1819,
+        "death_year": 1912,
+        "nationality": "Belgian"
+      },
+      "era": "19th Century",
+      "genre": "Political & Social Theory",
+      "language": "French",
+      "description": "Molinari's late forecast of a world ordered by free contract: the state of war giving way to the state of peace, written at the end of six decades of argument. The 1904 English edition, from the shelves of David Hart's Digital Library of Liberty and Power.",
+      "difficulty": "Intermediate",
+      "published_year": 1899,
+      "translator": "P. H. Lee Warner (1904)",
+      "skip_headings": [
+        "Source",
+        "Table of Contents"
+      ]
+    },
+    {
+      "url": "https://davidmhart.com/liberty/EnglishClassicalLiberals/Paine/1776-CommonSense/index.html",
+      "title": "Common Sense",
+      "author": {
+        "name": "Thomas Paine",
+        "biography": "English corset-maker turned American revolutionary pamphleteer. Common Sense, published anonymously in January 1776, made the case for independence in language a dockworker could quote, and sold in numbers no American publication had approached.",
+        "birth_year": 1737,
+        "death_year": 1809,
+        "nationality": "English"
+      },
+      "era": "Enlightenment",
+      "genre": "Political & Social Theory",
+      "language": "English",
+      "description": "The pamphlet that turned a colonial tax dispute into an argument for independence, in the first-edition text of January 1776. Originally English; from the shelves of David Hart's Digital Library of Liberty and Power.",
+      "difficulty": "Beginner",
+      "published_year": 1776,
+      "skip_headings": [
+        "Contents",
+        "FINIS",
+        "[Publisher",
+        "LIKEWISE",
+        "Endnotes",
+        "About ",
+        "Overview",
+        "The Contents Pane",
+        "The Main Text",
+        "The Resources Pane",
+        "A Text in",
+        "Source",
+        "Other Works"
+      ],
+      "original_english": true
+    },
+    {
+      "url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Smith_WoN-CannanEdition1904/Smith_WoN-Cannan1904-4Panes.margnotes.html",
+      "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+      "author": {
+        "name": "Adam Smith",
+        "biography": "Scottish moral philosopher of the Glasgow chair and the Kirkcaldy study. The Wealth of Nations of 1776 organized a century of scattered economic argument into the founding book of political economy.",
+        "birth_year": 1723,
+        "death_year": 1790,
+        "nationality": "Scottish"
+      },
+      "era": "Enlightenment",
+      "genre": "Political & Social Theory",
+      "language": "English",
+      "description": "The founding book of political economy, in Edwin Cannan's scholarly edition of 1904. Originally English; from the shelves of David Hart's Digital Library of Liberty and Power.",
+      "difficulty": "Advanced",
+      "published_year": 1776,
+      "skip_headings": [],
+      "heading_allow": "^(CHAPTER|INTRODUCTION AND PLAN|EDITOR|PREFACE|CONCLUSION|APPENDIX)",
+      "original_english": true
+    },
+    {
+      "url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html",
+      "title": "Principles of Political Economy",
+      "author": {
+        "name": "John Stuart Mill",
+        "biography": "Philosopher, economist and member of Parliament, raised on Bentham and Ricardo and educated past both. His Principles ruled the teaching of economics in English for half a century.",
+        "birth_year": 1806,
+        "death_year": 1873,
+        "nationality": "English"
+      },
+      "era": "19th Century",
+      "genre": "Political & Social Theory",
+      "language": "English",
+      "description": "The textbook of classical political economy in its author's final text, the seventh edition of 1871. Originally English; from the shelves of David Hart's Digital Library of Liberty and Power.",
+      "difficulty": "Advanced",
+      "published_year": 1871,
+      "skip_headings": [],
+      "heading_allow": "^(PREFACE|PRELIMINARY REMARKS|CHAPTER|APPENDIX)",
+      "original_english": true
+    }
+  ]
+}

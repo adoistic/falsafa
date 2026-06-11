@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-to-antipater-818d85",
+  "work_title": "To Antipater",
+  "chapter_number": 1,
+  "chapter_title": "To Antipater",
+  "chapter_slug": "01-to-antipater",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7b37830f-2fee-5945-94f5-76a9ed11aef8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 823,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg029.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "389533b6-75a4-5a39-870e-33dff66ae30b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1239,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg029.perseus-eng2"
+    }
+  ]
+}

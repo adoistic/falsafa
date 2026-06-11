@@ -1,0 +1,21 @@
+---
+work_id: "7cb414e8-e8b0-532e-a537-729fca3df9ea"
+work_slug: "tacitus-cornelius-germania-7cb414"
+work_title: Germania
+author_name: Tacitus, Cornelius
+chapter_number: 5
+chapter_title: Chapter 5
+chapter_slug: 05
+variant_id: "3a14f5b6-61b5-536b-a791-65c422c9c8ef"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 251
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi002.perseus-eng1:5"
+translator: William Jackson Brodribb
+---
+
+Their country, though somewhat various in appearance, yet generally either bristles with forests or reeks with swamps; it is more rainy on the side of Gaul, bleaker on that of Noricum and Pannonia. It is productive of grain, but unfavourable to fruit-bearing trees; it is rich in flocks and herds, but these are for the most part undersized, and even the cattle have not their usual beauty or noble head. It is number that is chiefly valued; they are in fact the most highly prized, indeed the only riches of the people. Silver and gold the gods have refused to them, whether in kindness or in anger I cannot say. I would not, however, affirm that no vein of German soil produces gold or silver, for who has ever made a search? They care but little to possess or use them. You may see among them vessels of silver, which have been presented to their envoys and chieftains, held as cheap as those of clay. The border population, however, value gold and silver for their commercial utility, and are familiar with, and show preference for, some of our coins. The tribes of the interior use the simpler and more ancient practice of the barter of commodities. They like the old and well-known money, coins milled or showing a two-horse chariot. They likewise prefer silver to gold, not from any special liking, but because a large number of silver pieces is more convenient for use among dealers in cheap and common articles.

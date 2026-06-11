@@ -1,0 +1,26 @@
+{
+  "work_slug": "gustave-de-molinari-the-society-of-tomorrow-3bed3e",
+  "work_title": "The Society of Tomorrow",
+  "chapter_number": 18,
+  "chapter_title": "Chapter IX Equilibrium of Production and Consumption",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8b8f227b-989b-5e24-8d75-b2c022f10006",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2316,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/FrenchClassicalLiberals/Molinari/Books/1899-SocieteFuture/1904-SocietyTomorrow/index.html"
+    }
+  ]
+}

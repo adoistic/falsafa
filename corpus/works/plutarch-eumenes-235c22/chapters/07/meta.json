@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-eumenes-235c22",
+  "work_title": "Eumenes",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7df7694a-1f6f-5ccc-8a68-759c1c65158c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 417,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg041.perseus-grc2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da53ed9f-02f9-5783-9caf-69ee78d47827",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 614,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg041.perseus-eng2:7"
+    }
+  ]
+}

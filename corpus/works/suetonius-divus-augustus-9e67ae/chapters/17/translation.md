@@ -1,0 +1,21 @@
+---
+work_id: "9e67aec7-1ba9-5172-b62b-f1479b1e7090"
+work_slug: "suetonius-divus-augustus-9e67ae"
+work_title: Divus Augustus
+author_name: Suetonius
+chapter_number: 17
+chapter_title: Chapter 17
+chapter_slug: 17
+variant_id: "a4199d67-b278-518a-8bd4-184ee41cbb56"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 500
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo012.perseus-eng2:17"
+translator: Perseus Digital Library
+---
+
+The alliance between him and Antony, which had always been precarious, often interrupted, and ill cemented by repeated reconciliations, he at last entirely dissolved. And to make it known to the world how far Antony had degenerated from patriotic feelings, he caused a will of his, which had been left at Rome, and in which he had nominated Cleopatra's children, amongst others, as his heirs, to be opened and read in an assembly of the people. Yet upon his being declared an enemy, he sent to him all his relations and friends, among whom were Caius Sosius and Titus Domitius, at that time consuls. He likewise spoke favourably in public of the people of Bologna, for joining in the association with the rest of Italy to support his cause, because they had, in former times, been under the protection of the family of the Antonii. And not long afterwards he defeated him in a naval engagement near Actium, which was prolonged to so late an hour, that, after the victory, he was obliged to sleep on board his ship. From Actium he went to the isle of Samos to winter; but being alarmed with the accounts of a mutiny amongst the soldiers he had selected from the main body of his army sent to Brundisium after the victory, who insisted on their being rewarded for their service and discharged, he returned to Italy. In his passage thither, he encountered two violent storms, the first between the promontories of Peloponnesus and AEtolia, and the other about the Ceraunian mountains; in both of which a part of his Liburnian squadron was sunk, the spars and rigging of his own ship carried away, and the rudder broken in pieces. He remained only twenty-seven days at Brundisium, until the demands of the soldiers were settled, and then went, by way of Asia and Syria, to Egypt, where laying siege to Alexandria, whither Antony had fled with Cleopatra, he made himself master of it in a short time. He drove Antony to kill himself, after he had used every effort to obtain conditions of peace, and he saw his corpse. Cleopatra he anxiously wished to save for his triumph; and when she was supposed to have been bit to death by an asp, he sent for the Psylli to endeavour to suck out the poison. He allowed them to be buried together in the same grave, and ordered a mausoleum, begun by themselves, to be completed. The eldest of Antony's two sons by Fulvia he commanded to be taken by force from the statue of Julius Caesar, to which he had fled, after many fruitless supplications for his life, and put him to death. The same fate attended Caesario, Cleopatra's son by Caesar, as he pretended, who had fled for his life, but was retaken. The children which Antony had by Cleopatra he saved, and brought up and cherished in a manner suitable to their rank, just as if they had been his own relations.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-pro-p-quinctio-a47f0e",
+  "work_title": "Pro P. Quinctio",
+  "chapter_number": 1,
+  "chapter_title": "Pro P. Quinctio",
+  "chapter_slug": "01-pro-p-quinctio",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d01286f7-1d04-5bd1-afb2-e58f02971fda",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8269,
+      "paragraph_count": 109,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi001.perseus-lat2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2c5f56c7-ed82-5289-91e3-5c1b9b5f0edb",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 14584,
+      "paragraph_count": 103,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi001.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-dialogi-deorum-91f85b",
+  "work_title": "Dialogi deorum",
+  "chapter_number": 2,
+  "chapter_title": "Book 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "91427f66-66aa-5c92-855f-54202f68f3b8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 408,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg068.perseus-grc3:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "690d8d8e-b26b-5bf7-9c3e-2ac303a7819e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 351,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg068.perseus-eng4:2"
+    }
+  ]
+}

@@ -1,0 +1,962 @@
+[
+  {
+    "id": "p-cbf46b",
+    "offset": 0,
+    "text": "Soc. Tell me, what is law?"
+  },
+  {
+    "id": "p-edf135",
+    "offset": 28,
+    "text": "Com. To what kind of law does your question refer?"
+  },
+  {
+    "id": "p-5829a8",
+    "offset": 80,
+    "text": "Soc. What! Is there any difference between law and law, in this particular point of being law? For just consider what is the actual question I am putting to you. It is as though I had asked, what is gold: if you had asked me in the same manner, to what kind of gold I refer, I think your question would have been incorrect. For I presume there is no difference between gold and gold, or between stone and stone, in point of being gold or stone; and so neither does law differ at all from law, I suppose, but they are all the same thing. For each of them is law alike, not one more so, and another less. That is the particular point of my question—what is law as a whole? So if you are ready, tell me."
+  },
+  {
+    "id": "p-89009f",
+    "offset": 782,
+    "text": "Com. Well, what else should law be, Socrates, but things loyally accepted?"
+  },
+  {
+    "id": "p-4e95d4",
+    "offset": 858,
+    "text": "Soc. And so speech, you think, is the things that are spoken, or sight the things seen, or hearing the things heard? Or is speech something distinct from the things spoken, sight something distinct from the things seen, and hearing something distinct from the things heard; and so law is something distinct from things loyally accepted? Is this so, or what is your view?"
+  },
+  {
+    "id": "p-ef4cac",
+    "offset": 1230,
+    "text": "Com. I find it now to be something distinct."
+  },
+  {
+    "id": "p-688f4b",
+    "offset": 1276,
+    "text": "Soc. Then law is not things loyally accepted."
+  },
+  {
+    "id": "p-686f8a",
+    "offset": 1323,
+    "text": "Com. I think not."
+  },
+  {
+    "id": "p-758548",
+    "offset": 1342,
+    "text": "Soc. Now what can law be? Let us consider it in this way. Suppose someone had asked us about what was stated just now: Since you say it is by sight that things seen are seen, what is this sight whereby they are seen? Our answer to him would have been: That sensation which shows objects by means of the eyes. And if he had asked us again: Well then, since it is by hearing that things heard are heard, what is hearing? Our answer to him would have been: That sensation which shows us sounds by means of the ears. In the same way then, suppose he should also ask us: Since it is by law that loyally accepted things are so accepted, what is this law whereby they are so accepted? Is it some sensation or showing, as when things learnt are learnt by knowledge showing them, or some discovery, as when things discovered are discovered—for instance, the causes of health and sickness by medicine, or the designs of the gods, as the prophets say, by prophecy; for art is surely our discovery of things, is it not?"
+  },
+  {
+    "id": "p-12c0b6",
+    "offset": 2351,
+    "text": "Com. Certainly."
+  },
+  {
+    "id": "p-d6a91c",
+    "offset": 2368,
+    "text": "Soc. Then what thing especially of this sort shall we surmise law to be?"
+  },
+  {
+    "id": "p-eb3ef4",
+    "offset": 2442,
+    "text": "Com. Our resolutions and decrees, I imagine: for how else can one describe law? So that apparently the whole thing, law, as you put it in your question, is a city’s resolution."
+  },
+  {
+    "id": "p-b72cf8",
+    "offset": 2620,
+    "text": "Soc. State opinion, it seems, is what you call law."
+  },
+  {
+    "id": "p-0d8889",
+    "offset": 2673,
+    "text": "Com. I do."
+  },
+  {
+    "id": "p-cfdd54",
+    "offset": 2685,
+    "text": "Soc. And perhaps you are right: but I fancy we shall get a better knowledge in this way. You call some men wise?"
+  },
+  {
+    "id": "p-0d8889",
+    "offset": 2799,
+    "text": "Com. I do."
+  },
+  {
+    "id": "p-3bfcbd",
+    "offset": 2811,
+    "text": "Soc. And the wise are wise by wisdom?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 2850,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-7cd0fe",
+    "offset": 2861,
+    "text": "Soc. And again, the just are just by justice?"
+  },
+  {
+    "id": "p-12c0b6",
+    "offset": 2908,
+    "text": "Com. Certainly."
+  },
+  {
+    "id": "p-55a316",
+    "offset": 2925,
+    "text": "Soc. And so the law-abiding are law-abiding by law?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 2978,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-660867",
+    "offset": 2989,
+    "text": "Soc. And the lawless are lawless by lawlessness?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 3039,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-4807c0",
+    "offset": 3050,
+    "text": "Soc. And the law-abiding are just?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 3086,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-058f6e",
+    "offset": 3097,
+    "text": "Soc. And the lawless are unjust?"
+  },
+  {
+    "id": "p-a1c0f0",
+    "offset": 3131,
+    "text": "Com. Unjust."
+  },
+  {
+    "id": "p-d8dd4f",
+    "offset": 3145,
+    "text": "Soc. And justice and law are most noble?"
+  },
+  {
+    "id": "p-d02010",
+    "offset": 3187,
+    "text": "Com. That is so."
+  },
+  {
+    "id": "p-37f7a8",
+    "offset": 3205,
+    "text": "Soc. And injustice and lawlessness most base?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 3252,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-236df6",
+    "offset": 3263,
+    "text": "Soc. And the former preserve cities and everything else, while the latter destroy and overturn them?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 3365,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-ddce11",
+    "offset": 3376,
+    "text": "Soc. Hence we must regard law as something noble, and seek after it as a good."
+  },
+  {
+    "id": "p-09d25f",
+    "offset": 3456,
+    "text": "Com. Undeniably."
+  },
+  {
+    "id": "p-e46c0f",
+    "offset": 3474,
+    "text": "Soc. And we said that law is a city’s resolution?"
+  },
+  {
+    "id": "p-170c1e",
+    "offset": 3525,
+    "text": "Com. So we did."
+  },
+  {
+    "id": "p-fb43ab",
+    "offset": 3542,
+    "text": "Soc. Well now, are not some resolutions good, and others evil?"
+  },
+  {
+    "id": "p-648852",
+    "offset": 3606,
+    "text": "Com. Yes, to be sure."
+  },
+  {
+    "id": "p-07f093",
+    "offset": 3629,
+    "text": "Soc. And, you know, law was not evil."
+  },
+  {
+    "id": "p-40106b",
+    "offset": 3668,
+    "text": "Com. No, indeed."
+  },
+  {
+    "id": "p-c7b012",
+    "offset": 3686,
+    "text": "Soc. So it is not right to reply, in that simple fashion, that law is a city’s resolution."
+  },
+  {
+    "id": "p-e292fb",
+    "offset": 3778,
+    "text": "Com. I agree that it is not."
+  },
+  {
+    "id": "p-ab7080",
+    "offset": 3808,
+    "text": "Soc. An evil resolution, you see, cannot properly be a law."
+  },
+  {
+    "id": "p-7e0ccb",
+    "offset": 3869,
+    "text": "Com. No, to be sure."
+  },
+  {
+    "id": "p-a664e9",
+    "offset": 3891,
+    "text": "Soc. But still, I am quite clear myself that law is some sort of opinion; and since it is not evil opinion, is it not manifest by this time that it is good opinion, granting that law is opinion?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 4087,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-d87718",
+    "offset": 4098,
+    "text": "Soc. But what is good opinion? Is it not true opinion?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 4154,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-6d0486",
+    "offset": 4165,
+    "text": "Soc. And true opinion is discovery of reality?"
+  },
+  {
+    "id": "p-3cd358",
+    "offset": 4213,
+    "text": "Com. Yes, it is."
+  },
+  {
+    "id": "p-62e739",
+    "offset": 4231,
+    "text": "Soc. So law tends to be discovery of reality."
+  },
+  {
+    "id": "p-796948",
+    "offset": 4278,
+    "text": "Com. Then how is it, Socrates, if law is discovery of reality, that we do not use always the same laws on the same matters, if we have thus got realities discovered?"
+  },
+  {
+    "id": "p-a8edab",
+    "offset": 4445,
+    "text": "Soc. Law tends none the less to be discovery of reality: but men, who do not use always the same laws, as we observe, are not always able to discover what the law is intent on—reality. For come now, let us see if from this point onward we can get it clear whether we use always the same laws or different ones at different times, and whether we all use the same, or some of us use some, and others others."
+  },
+  {
+    "id": "p-a4af52",
+    "offset": 4852,
+    "text": "Com. Why, that, Socrates, is no difficult matter to determine—that the same men do not use always the same laws, and also that different men use different ones. With us, for instance, human sacrifice is not legal, but unholy, whereas the Carthaginians perform it as a thing they account holy and legal, and that too when some of them sacrifice even their own sons to Cronos, as I daresay you yourself have heard. And not merely is it foreign peoples who use different laws from ours, but our neighbors in Lycaea and the descendants of Athamas —you know their sacrifices, Greeks though they be. And as to ourselves too, you know, of course, from what you have heard yourself, the kind of laws we formerly used in regard to our dead, when we slaughtered sacred victims before the funeral procession, and engaged urn-women to collect the bones from the ashes. Then again, a yet earlier generation used to bury the dead where they were, in the house: but we do none of these things. One might give thousands of other instances; for there is ample means of proving that neither we copy ourselves nor mankind each other always in laws and customs."
+  },
+  {
+    "id": "p-c3e468",
+    "offset": 5995,
+    "text": "Soc. And it is no wonder, my excellent friend, if what you say is correct, and I have overlooked it. But if you continue to express your views after your own fashion in lengthy speeches, and I speak likewise, we shall never come to any agreement, in my opinion: but if we study the matter jointly, we may perhaps concur. Well now, if you like, hold a joint inquiry with me by asking me questions; or if you prefer, by answering them."
+  },
+  {
+    "id": "p-1d6f80",
+    "offset": 6430,
+    "text": "Com. Why, I am willing, Socrates, to answer anything you like."
+  },
+  {
+    "id": "p-6dd8e2",
+    "offset": 6494,
+    "text": "Soc. Come then, do you consider just things to be unjust and unjust things just, or just things to be just and unjust things unjust?"
+  },
+  {
+    "id": "p-139727",
+    "offset": 6628,
+    "text": "Com. I consider just things to be just, and unjust things unjust."
+  },
+  {
+    "id": "p-24e0c2",
+    "offset": 6695,
+    "text": "Soc. And are they so considered among all men elsewhere as they are here?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 6770,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-64aa00",
+    "offset": 6781,
+    "text": "Soc. And among the Persians also?"
+  },
+  {
+    "id": "p-b9f5d2",
+    "offset": 6816,
+    "text": "Com. Among the Persians also."
+  },
+  {
+    "id": "p-1074b8",
+    "offset": 6847,
+    "text": "Soc. Always, I presume?"
+  },
+  {
+    "id": "p-81300b",
+    "offset": 6872,
+    "text": "Com. Always."
+  },
+  {
+    "id": "p-ed8e72",
+    "offset": 6886,
+    "text": "Soc. Are things that weigh more considered heavier here, and things that weigh less lighter, or the contrary?"
+  },
+  {
+    "id": "p-c61323",
+    "offset": 6997,
+    "text": "Com. No, those that weigh more are considered heavier, and those that weigh less lighter."
+  },
+  {
+    "id": "p-a165b8",
+    "offset": 7088,
+    "text": "Soc. And is it so in Carthage also, and in Lycaea?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 7140,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-b00687",
+    "offset": 7151,
+    "text": "Soc. Noble things, it would seem, are everywhere considered noble, and base things base; not base things noble or noble things base."
+  },
+  {
+    "id": "p-d02010",
+    "offset": 7285,
+    "text": "Com. That is so."
+  },
+  {
+    "id": "p-bf5f77",
+    "offset": 7303,
+    "text": "Soc. And thus, as a universal rule, realities, and not unrealities, are accepted as real, both among us and among all other men."
+  },
+  {
+    "id": "p-1d2f22",
+    "offset": 7433,
+    "text": "Com. I agree."
+  },
+  {
+    "id": "p-3f39e5",
+    "offset": 7448,
+    "text": "Soc. Then whoever fails to attain reality, fails to attain accepted law."
+  },
+  {
+    "id": "p-48b1b0",
+    "offset": 7522,
+    "text": "Com. In your present way of putting it, Socrates, the same things appear to be accepted as lawful both by us and by the rest of the world, always: but when I reflect that we are continually changing our laws in all sorts of ways, I cannot bring myself to assent."
+  },
+  {
+    "id": "p-557b5e",
+    "offset": 7786,
+    "text": "Soc. Perhaps it is because you do not reflect that when we change our pieces at draughts they are the same pieces. But look at it, as I do, in this way. Have you in your time come across a treatise on healing the sick?"
+  },
+  {
+    "id": "p-d17368",
+    "offset": 8006,
+    "text": "Com. I have."
+  },
+  {
+    "id": "p-679c0f",
+    "offset": 8020,
+    "text": "Soc. Then do you know to what art such a treatise belongs?"
+  },
+  {
+    "id": "p-cd43af",
+    "offset": 8080,
+    "text": "Com. I do: medicine."
+  },
+  {
+    "id": "p-bac7d8",
+    "offset": 8102,
+    "text": "Soc. And you give the name of doctors to those who have knowledge of these matters?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 8187,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-c486bf",
+    "offset": 8198,
+    "text": "Soc. Then do those who have knowledge accept the same views on the same things, or do they accept different views?"
+  },
+  {
+    "id": "p-cd913f",
+    "offset": 8314,
+    "text": "Com. The same, in my opinion."
+  },
+  {
+    "id": "p-19f125",
+    "offset": 8345,
+    "text": "Soc. Do Greeks only accept the same views as Greeks on what they know, or do foreigners also agree on these matters, both among themselves and with Greeks?"
+  },
+  {
+    "id": "p-2f2288",
+    "offset": 8502,
+    "text": "Com. It is quite inevitable, I should say, that those who know should agree in accepting the same views, whether Greeks or foreigners."
+  },
+  {
+    "id": "p-19c431",
+    "offset": 8638,
+    "text": "Soc. Well answered. And do they so always?"
+  },
+  {
+    "id": "p-416db2",
+    "offset": 8682,
+    "text": "Com. Yes, it is so always."
+  },
+  {
+    "id": "p-1c0332",
+    "offset": 8710,
+    "text": "Soc. And do doctors on their part, in their treatises on health, write what they accept as real?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 8808,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-c74df1",
+    "offset": 8819,
+    "text": "Soc. Then these treatises of the doctors are medical, and medical laws."
+  },
+  {
+    "id": "p-bd6765",
+    "offset": 8892,
+    "text": "Com. Medical, to be sure."
+  },
+  {
+    "id": "p-111b28",
+    "offset": 8919,
+    "text": "Soc. And are agricultural treatises likewise agricultural laws?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 8984,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-205f47",
+    "offset": 8995,
+    "text": "Soc. And whose are the treatises and accepted rules about garden-work?"
+  },
+  {
+    "id": "p-2da164",
+    "offset": 9067,
+    "text": "Com. Gardeners’."
+  },
+  {
+    "id": "p-0de87e",
+    "offset": 9085,
+    "text": "Soc. So these are our gardening laws."
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 9124,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-f2f1f0",
+    "offset": 9135,
+    "text": "Soc. Of people who know how to control gardens?"
+  },
+  {
+    "id": "p-12c0b6",
+    "offset": 9184,
+    "text": "Com. Certainly."
+  },
+  {
+    "id": "p-5bdb90",
+    "offset": 9201,
+    "text": "Soc. And it is the gardeners who know."
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 9241,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-f05992",
+    "offset": 9252,
+    "text": "Soc. And whose are the treatises and accepted rules about the confection of tasty dishes?"
+  },
+  {
+    "id": "p-abba29",
+    "offset": 9343,
+    "text": "Com. Cooks’."
+  },
+  {
+    "id": "p-d15733",
+    "offset": 9357,
+    "text": "Soc. Then there are laws of cookery?"
+  },
+  {
+    "id": "p-5d6ef1",
+    "offset": 9395,
+    "text": "Com. Of cookery."
+  },
+  {
+    "id": "p-1d457b",
+    "offset": 9413,
+    "text": "Soc. Of people who know, it would seem, how to control the confection of tasty dishes?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 9501,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-78cdf2",
+    "offset": 9512,
+    "text": "Soc. And it is the cooks, they say, who know?"
+  },
+  {
+    "id": "p-257185",
+    "offset": 9559,
+    "text": "Com. Yes, it is they who know."
+  },
+  {
+    "id": "p-8898d1",
+    "offset": 9591,
+    "text": "Soc. Very well; and now, whose are the treatises and accepted rules about the government of a state? Of the people who know how to control states, are they not?"
+  },
+  {
+    "id": "p-1d2f22",
+    "offset": 9753,
+    "text": "Com. I agree."
+  },
+  {
+    "id": "p-e90791",
+    "offset": 9768,
+    "text": "Soc. And is it anyone else than statesmen and royal persons who know?"
+  },
+  {
+    "id": "p-766e58",
+    "offset": 9839,
+    "text": "Com. It is they, to be sure."
+  },
+  {
+    "id": "p-6b9010",
+    "offset": 9869,
+    "text": "Soc. Then what people call laws are treatises of state,— writings of kings and good men."
+  },
+  {
+    "id": "p-0ece64",
+    "offset": 9959,
+    "text": "Com. That is true."
+  },
+  {
+    "id": "p-7c78e0",
+    "offset": 9979,
+    "text": "Soc. And must it not be that those who know will not write differently at different times on the same matters?"
+  },
+  {
+    "id": "p-f1fd47",
+    "offset": 10091,
+    "text": "Com. They will not."
+  },
+  {
+    "id": "p-410eb6",
+    "offset": 10112,
+    "text": "Soc. Nor will they ever change one set of accepted rules for another in respect of the same matters."
+  },
+  {
+    "id": "p-40106b",
+    "offset": 10214,
+    "text": "Com. No, indeed."
+  },
+  {
+    "id": "p-b3d7fd",
+    "offset": 10232,
+    "text": "Soc. So if we see some persons anywhere doing this, shall we say that those who do so have knowledge, or have none?"
+  },
+  {
+    "id": "p-86b2a1",
+    "offset": 10349,
+    "text": "Com. That they have no knowledge."
+  },
+  {
+    "id": "p-8dc92e",
+    "offset": 10384,
+    "text": "Soc. And again, whatever is right, we shall say is lawful for each person, whether in medicine or in cookery or in gardening?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 10511,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-2715d6",
+    "offset": 10522,
+    "text": "Soc. And whatever is not right we shall decline to call lawful?"
+  },
+  {
+    "id": "p-158077",
+    "offset": 10587,
+    "text": "Com. We shall decline."
+  },
+  {
+    "id": "p-28ec5f",
+    "offset": 10611,
+    "text": "Soc. Then it becomes unlawful."
+  },
+  {
+    "id": "p-995052",
+    "offset": 10643,
+    "text": "Com. It must."
+  },
+  {
+    "id": "p-5b939c",
+    "offset": 10658,
+    "text": "Soc. And again, in writings about what is just and unjust, and generally about the government of a state and the proper way of governing it, that which is right is the king’s law, but not so that which is not right, though it seems to be law to those who do not know; for it is unlawful."
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 10947,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-39466c",
+    "offset": 10958,
+    "text": "Soc. Then we rightly admitted that law is discovery of reality."
+  },
+  {
+    "id": "p-e2975d",
+    "offset": 11023,
+    "text": "Com. So it appears."
+  },
+  {
+    "id": "p-6a8fad",
+    "offset": 11044,
+    "text": "Soc. Now let us observe this further point about it. Who has knowledge of distributing seed over land?"
+  },
+  {
+    "id": "p-49f9e9",
+    "offset": 11148,
+    "text": "Com. A farmer."
+  },
+  {
+    "id": "p-1405bb",
+    "offset": 11164,
+    "text": "Soc. And does he distribute the suitable seed to each sort of land?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 11233,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-0aa31f",
+    "offset": 11244,
+    "text": "Soc. Then the farmer is a good apportioner of it, and his laws and distributions are right in this matter?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 11352,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-41c4a6",
+    "offset": 11363,
+    "text": "Soc. And who is a good apportioner of notes struck for a tune, skilled in distributing suitable notes, and who is it whose laws are right here?"
+  },
+  {
+    "id": "p-22eaaa",
+    "offset": 11508,
+    "text": "Com. The flute-player and the harp-player."
+  },
+  {
+    "id": "p-94e429",
+    "offset": 11552,
+    "text": "Soc. Then he who is the best lawyer in these matters is the best flute-player."
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 11632,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-6e7d52",
+    "offset": 11643,
+    "text": "Soc. And who is most skilled in distributing food to human bodies? Is it not he who assigns suitable food?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 11751,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-8d7a0e",
+    "offset": 11762,
+    "text": "Soc. Then his distributions and laws are best, and whoever is the best lawyer in this matter is also the best apportioner."
+  },
+  {
+    "id": "p-12c0b6",
+    "offset": 11886,
+    "text": "Com. Certainly."
+  },
+  {
+    "id": "p-dbee75",
+    "offset": 11903,
+    "text": "Soc. Who is he?"
+  },
+  {
+    "id": "p-7337f3",
+    "offset": 11920,
+    "text": "Com. A trainer."
+  },
+  {
+    "id": "p-bb1f67",
+    "offset": 11937,
+    "text": "Soc. He is the best man to pasture the human herd of the body?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 12001,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-db0a25",
+    "offset": 12012,
+    "text": "Soc. And who is the best man to pasture a flock of sheep? What is his name?"
+  },
+  {
+    "id": "p-5fad7b",
+    "offset": 12089,
+    "text": "Com. A shepherd."
+  },
+  {
+    "id": "p-61b791",
+    "offset": 12107,
+    "text": "Soc. Then the shepherd’s laws are best for sheep."
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 12158,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-6aa041",
+    "offset": 12169,
+    "text": "Soc. And the herdsman’s for oxen."
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 12204,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-9c2c42",
+    "offset": 12215,
+    "text": "Soc. And whose laws are best for the souls of men? The king’s, are they not? Say if you agree."
+  },
+  {
+    "id": "p-0d8889",
+    "offset": 12311,
+    "text": "Com. I do."
+  },
+  {
+    "id": "p-17327b",
+    "offset": 12323,
+    "text": "Soc. Then you are quite right. Now can you tell me who, in former times, has proved himself a good lawgiver in regard to the laws of flute-playing? Perhaps you cannot think of him: would you like me to remind you?"
+  },
+  {
+    "id": "p-90b688",
+    "offset": 12538,
+    "text": "Com. Do by all means."
+  },
+  {
+    "id": "p-1b5b55",
+    "offset": 12561,
+    "text": "Soc. Then is it Marsyas, by tradition, and his beloved Olympus, the Phrygian?"
+  },
+  {
+    "id": "p-0ece64",
+    "offset": 12640,
+    "text": "Com. That is true."
+  },
+  {
+    "id": "p-5af1c7",
+    "offset": 12660,
+    "text": "Soc. And their flute-tunes also are most divine, and alone stir and make manifest those who are in need of the gods; and to this day they only remain, as being divine."
+  },
+  {
+    "id": "p-d02010",
+    "offset": 12829,
+    "text": "Com. That is so."
+  },
+  {
+    "id": "p-411088",
+    "offset": 12847,
+    "text": "Soc. And who by tradition has shown himself a good lawgiver among the ancient kings, so that to this day his ordinances remain, as being divine?"
+  },
+  {
+    "id": "p-c3e685",
+    "offset": 12993,
+    "text": "Com. I cannot think."
+  },
+  {
+    "id": "p-8e79a9",
+    "offset": 13015,
+    "text": "Soc. Do you not know which of the Greeks use the most ancient laws?"
+  },
+  {
+    "id": "p-0b10c6",
+    "offset": 13084,
+    "text": "Com. Do you mean the Spartans, and Lycurgus the lawgiver?"
+  },
+  {
+    "id": "p-78a35e",
+    "offset": 13143,
+    "text": "Soc. Why, that is a matter, I daresay, of less than three hundred years ago, or but a little more. But whence is it that the best of those ordinances come? Do you know?"
+  },
+  {
+    "id": "p-9952d7",
+    "offset": 13313,
+    "text": "Com. From Crete, so they say."
+  },
+  {
+    "id": "p-59a333",
+    "offset": 13344,
+    "text": "Soc. Then the people there use the most ancient laws in Greece?"
+  },
+  {
+    "id": "p-bd6019",
+    "offset": 13409,
+    "text": "Com. Yes."
+  },
+  {
+    "id": "p-c22179",
+    "offset": 13420,
+    "text": "Soc. Then do you know who were their good kings? Minos and Rhadamanthus, the sons of Zeus and Europa; those laws were theirs."
+  },
+  {
+    "id": "p-7478d8",
+    "offset": 13547,
+    "text": "Com. Rhadamanthus, they do say, Socrates, was a just man; but Minos was a savage sort of person, harsh and unjust."
+  },
+  {
+    "id": "p-c75d48",
+    "offset": 13663,
+    "text": "Soc. Your tale, my excellent friend, is a fiction of Attic tragedy."
+  },
+  {
+    "id": "p-e0c6a2",
+    "offset": 13732,
+    "text": "Com. What! Is not this the tradition about Minos?"
+  },
+  {
+    "id": "p-4c675e",
+    "offset": 13783,
+    "text": "Soc. Not in Homer and Hesiod; and yet they are more to be believed than all the tragedians together, from whom you heard your tale."
+  },
+  {
+    "id": "p-c140b9",
+    "offset": 13916,
+    "text": "Com. Well, and what, pray, is their tale about Minos?"
+  },
+  {
+    "id": "p-ea2bae",
+    "offset": 13971,
+    "text": "Soc. I will tell you, in order that you may not share the impiety of the multitude: for there cannot conceivably be anything more impious or more to be guarded against than being mistaken in word and deed with regard to the gods, and after them, with regard to divine men; you must take very great precaution, whenever you are about to blame or praise a man, so as not to speak incorrectly. For this reason you must learn to distinguish honest and dishonest men: for God feels resentment when one blames a man who is like himself, or praises a man who is the opposite; and the former is the good man. For you must not suppose that while stocks and stones and birds and snakes are sacred, men are not; nay, the good man is the most sacred of all these things, and the wicked man is the most defiled. So if I now proceed to relate how Minos is eulogized by Homer and Hesiod, my purpose is to prevent you, a man sprung from a man, from making a mistake in regard to a hero who was the son of Zeus. For Homer, in telling of Crete that there were in it many men and ninety cities, says: And amongst them is the mighty city of Cnossos, where Minos was king, having colloquy with mighty Zeus in the ninth year. Now here in Homer we have a eulogy of Minos, briefly expressed, such as the poet never composed for a single one of the heroes. For that Zeus is a sophist, and that sophistry is a highly honorable art, he makes plain in many other places, and particularly here. For he says that Minos consorted and discoursed with Zeus in the ninth year, and went regularly to be educated by Zeus as though he were a sophist. And the fact that Homer assigned this privilege of having been educated by Zeus to no one among the heroes but Minos makes this a marvellous piece of praise. And in the Ghost-raising in the Odyssey he has described Minos as judging with a golden scepter in his hand, but not Rhadamanthus: Rhadamanthus he has neither described here as judging nor anywhere as consorting with Zeus; wherefore I say that Minos above all persons has been eulogized by Homer. For to have been the son of Zeus, and to have been the only one who was educated by Zeus, is praise unsurpassable. For the meaning of the verse— he was king having colloquy with mighty Zeus in the ninth year” — is that Minos was a disciple of Zeus. For colloquies are discourses, and he who has colloquy is a disciple by means of discourse. So every ninth year Minos repaired to the cave of Zeus, to learn some things, and to show his knowledge of others that he had learnt from Zeus in the preceding nine years."
+  },
+  {
+    "id": "p-9dd5e2",
+    "offset": 16554,
+    "text": "Soc. Some there are who suppose that he who has colloquy is a cup-companion and fellow-jester of Zeus: but one may take the following as a proof that they who suppose so are babblers. For of all the many nations of men, both Greek and foreign, the only people who refrain from drinking-bouts and the jesting that occurs where there is wine, are the Cretans, and after them the Spartans, who learnt it from the Cretans. In Crete it is one of their laws which Minos ordained that they are not to drink with each other to intoxication. And yet it is evident that the things he thought honorable were what he ordained as lawful for his people as well. For surely Minos did not, like an inferior person, think one thing and do another, different from what he thought: no, this intercourse, as I say, was held by means of discussion for education in virtue. Wherefore he ordained for his people these very laws, which have made Crete happy through the length of time, and Sparta happy also, since she began to use them; for they are divine. Rhadamanthus was a good man indeed, for he had been educated by Minos; he had, however, been educated, not in the whole of the kingly art, but in one subsidiary to the kingly, enough for presiding in law courts; so that he was spoken of as a good judge. For Minos used him as guardian of the law in the city, and Talos as the same for the rest of Crete. For Talos thrice a year made a round of the villages, guarding the laws in them, by holding their laws inscribed on brazen tablets, which gave him his name of brazen. And what Hesiod also has said of Minos is akin to this. For after mentioning him by name he remarks— Who was most kingly of mortal kings, and lorded it over more neighboring folk than any, holding the scepter of Zeus: therewith it was that he ruled the cities as king. And by the scepter of Zeus he means nothing else than the education that he had of Zeus, whereby he directed Crete."
+  },
+  {
+    "id": "p-517651",
+    "offset": 18496,
+    "text": "Com. Then how has it ever come about, Socrates, that this report is spread abroad of Minos, as an uneducated and harsh-tempered person?"
+  },
+  {
+    "id": "p-da9935",
+    "offset": 18633,
+    "text": "Soc. Because of something that will make both you, if you are wise, my excellent friend, and everybody else who cares to have a good reputation, beware of ever quarreling with any man of a poetic turn. For poets have great influence over opinion, according as they create it in the minds of men by either commending or vilifying. And this was the mistake that Minos made, in waging war on this city of ours, which besides all its various culture has poets of every kind, and especially those who write tragedy. Now tragedy is a thing of ancient standing here; it did not begin, as people suppose, from Thespis or from Phrynicus, but if you will reflect, you will find it is a very ancient invention of our city. Tragedy is the most popularly delightful and soul-enthralling branch of poetry: in it, accordingly, we get Minos on the rack of verse,, and thus avenge ourselves for that tribute which he compelled us to pay This, then, was the mistake that Minos made—his quarrel with us—and hence it is that, as you said in your question, he has fallen more and more into evil repute. For that he was a good and law-abiding person, as we stated in what went before—a good apportioner—is most convincingly shown by the fact the his laws are unshaken, since they were made by one who discovered aright the truth of reality in regard to the management of a state."
+  },
+  {
+    "id": "p-8a4049",
+    "offset": 19992,
+    "text": "Com. In my opinion, Socrates, your statement is a probable one."
+  },
+  {
+    "id": "p-344274",
+    "offset": 20057,
+    "text": "Soc. Then if what I say is true, do you consider that the Cretan people of Minos and Rhadamanthus use the most ancient laws?"
+  },
+  {
+    "id": "p-0d8889",
+    "offset": 20183,
+    "text": "Com. I do."
+  },
+  {
+    "id": "p-603cd2",
+    "offset": 20195,
+    "text": "Soc. So these have shown themselves the best lawgivers among men of ancient times— apportioners and shepherds of men; just as Homer called the good general a shepherd of the folk."
+  },
+  {
+    "id": "p-a4f962",
+    "offset": 20376,
+    "text": "Com. Quite so, indeed."
+  },
+  {
+    "id": "p-cfde68",
+    "offset": 20400,
+    "text": "Soc. Come then, in good friendship’s name: if someone should ask us what it is that the good lawgiver and apportioner for the body distributes to it when he makes it better, we should say, if we were to make a correct and brief answer, that it was food and labor; the former to strengthen, and the latter to exercise and brace it."
+  },
+  {
+    "id": "p-2de2c9",
+    "offset": 20732,
+    "text": "Com. And we should be right."
+  },
+  {
+    "id": "p-277072",
+    "offset": 20762,
+    "text": "Soc. And if he then proceeded to ask us—And what might that be which the good lawgiver and apportioner distributes to the soul to make it better?—what would be our answer if we would avoid being ashamed of ourselves and our years?"
+  },
+  {
+    "id": "p-b7e2ba",
+    "offset": 20994,
+    "text": "Com. This time I am unable to say."
+  },
+  {
+    "id": "p-5adaa5",
+    "offset": 21030,
+    "text": "Soc. But indeed it is shameful for the soul of either of us to be found ignorant of those things within it on which its good and abject states depend, while it has studied those that pertain to the body and rest."
+  }
+]

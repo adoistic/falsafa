@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-comparison-of-pelopidas-and-marc-e07dd4",
+  "work_title": "Comparison of Pelopidas and Marcellus",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3370bdb1-9681-5ac1-9953-9fc0c8dd7475",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 117,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg023.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d23246d3-5898-5c52-9d40-f69f657f2d65",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 173,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg023.perseus-eng2:2"
+    }
+  ]
+}

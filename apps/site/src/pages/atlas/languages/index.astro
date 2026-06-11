@@ -1,0 +1,162 @@
+---
+import AtlasPage from '../../../layouts/AtlasPage.astro';
+import { languages, transmissionsByLanguage, works } from '../../../lib/atlas/data.ts';
+
+const rows = languages
+  .map((lang) => {
+    const { into, outOf } = transmissionsByLanguage(lang.id);
+    const composed = works.filter((w) => w.original.lang === lang.id).length;
+    const earliest =
+      into.length > 0 ? Math.min(...into.map((t) => t.date.from)) : Number.POSITIVE_INFINITY;
+    return { lang, into: into.length, outOf: outOf.length, composed, earliest };
+  })
+  .sort((a, b) => a.earliest - b.earliest);
+---
+
+<AtlasPage
+  title="Languages"
+  description="The ten languages of the atlas and the traffic between them: what each one received, and what it passed on."
+>
+  <div class="wrap">
+    <header class="head">
+      <p class="tag tag-line">Languages</p>
+      <h1>Ten languages, one relay</h1>
+      <p class="lede">
+        No language in this atlas only received. Even the destinations became departure points;
+        what arrives in one century leaves in another.
+      </p>
+    </header>
+    <ul class="list" role="list">
+      {
+        rows.map(({ lang, into, outOf, composed }) => (
+          <li>
+            <a class="row link-quiet" href={`/atlas/languages/${lang.id}/`}>
+              <span class="swatch" style={`--hue: ${lang.hue}`} aria-hidden="true" />
+              <span class="name">
+                {lang.name}
+                {lang.endonym && lang.script !== 'latin' && (
+                  <span
+                    class={`endonym script-${lang.script}`}
+                    lang={lang.bcp47}
+                    dir={lang.dir}
+                    aria-hidden="true"
+                  >
+                    {lang.endonym}
+                  </span>
+                )}
+              </span>
+              <span class="traffic mono">
+                {composed > 0 && `${composed} composed`}
+                {composed > 0 && (into > 0 || outOf > 0) && ' · '}
+                {into > 0 && `${into} in`}
+                {into > 0 && outOf > 0 && ' · '}
+                {outOf > 0 && `${outOf} out`}
+              </span>
+              <span class="note">{lang.note}</span>
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+  </div>
+</AtlasPage>
+
+<style>
+  .wrap {
+    max-width: 56rem;
+    margin-inline: auto;
+    padding-inline: clamp(1rem, 4vw, 2.5rem);
+  }
+
+  .head {
+    padding-block: clamp(2.5rem, 6vw, 4.5rem) 1rem;
+  }
+
+  .head h1 {
+    font-size: var(--text-h1);
+    margin: 1.1rem 0 0.8rem;
+  }
+
+  .lede {
+    font-size: 1.15rem;
+    color: var(--color-ink-muted);
+    max-width: 46ch;
+  }
+
+  .list {
+    list-style: none;
+    margin: 1.2rem 0 2rem;
+    padding: 0;
+  }
+
+  .list li {
+    border-top: 1px solid var(--color-hairline);
+  }
+
+  .list li:last-child {
+    border-bottom: 1px solid var(--color-hairline);
+  }
+
+  .row {
+    display: grid;
+    grid-template-columns: auto minmax(12rem, 16rem) 1fr;
+    grid-template-areas: 'swatch name traffic' '. note note';
+    gap: 0.2rem 1rem;
+    align-items: baseline;
+    padding: 0.95rem 0.4rem;
+  }
+
+  .row:hover .name {
+    color: var(--color-lapis);
+  }
+
+  .swatch {
+    grid-area: swatch;
+    width: 0.8rem;
+    height: 0.8rem;
+    border-radius: 50%;
+    background: var(--hue);
+    align-self: center;
+  }
+
+  .name {
+    grid-area: name;
+    font-weight: 600;
+    font-size: 1.18rem;
+  }
+
+  .endonym {
+    font-weight: 400;
+    color: var(--color-ink-muted);
+    margin-inline-start: 0.55rem;
+    font-size: 0.92em;
+    unicode-bidi: isolate;
+  }
+
+  .traffic {
+    grid-area: traffic;
+    justify-self: end;
+    font-size: 0.7rem;
+    letter-spacing: 0.06em;
+    color: var(--color-gold);
+    text-align: end;
+  }
+
+  .note {
+    grid-area: note;
+    font-size: 0.96rem;
+    color: var(--color-ink-muted);
+    max-width: 64ch;
+  }
+
+  @media (max-width: 640px) {
+    .row {
+      grid-template-columns: auto 1fr;
+      grid-template-areas: 'swatch name' 'traffic traffic' 'note note';
+    }
+    .traffic {
+      justify-self: start;
+      text-align: start;
+    }
+  }
+</style>

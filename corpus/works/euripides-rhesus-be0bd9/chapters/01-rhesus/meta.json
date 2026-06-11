@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-rhesus-be0bd9",
+  "work_title": "Rhesus",
+  "chapter_number": 1,
+  "chapter_title": "Rhesus",
+  "chapter_slug": "01-rhesus",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9f9e8222-fc0c-519a-84f3-dc2c6b402c42",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5700,
+      "paragraph_count": 1004,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg019.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ff375ec7-4409-51b6-afe7-896d2158ecfd",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9684,
+      "paragraph_count": 1119,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg019.perseus-eng4"
+    }
+  ]
+}

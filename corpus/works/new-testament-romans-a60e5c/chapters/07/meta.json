@@ -1,0 +1,38 @@
+{
+  "work_slug": "new-testament-romans-a60e5c",
+  "work_title": "Romans",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cc7bfb2e-b4a5-52ba-88e9-5579f22657f7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 468,
+      "paragraph_count": 70,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg006.perseus-grc2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b00d8a86-20ac-5f2b-a941-4d08e2357b8d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 608,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg006.perseus-eng2:7"
+    }
+  ]
+}

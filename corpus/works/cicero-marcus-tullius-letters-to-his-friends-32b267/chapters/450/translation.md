@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 450
+chapter_title: "Chapter text=F:book=10:letter=26"
+chapter_slug: 450
+variant_id: "d9b98c81-2da5-55db-9e4d-2bd32c4eb240"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 457
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:450"
+translator: Perseus Digital Library
+---
+
+TO GAIUS FURNIUS (IN THE CAMP OF PLANCUS) ROME (END OF JUNE)
+
+After reading your letter in which you state that Narbonensis must be abandoned or a dangerous battle fought, the former course seemed to me the more formidable, which I am glad to hear has been avoided. You mention the Cordial union of Plancus and Decimus Brutus: in that I place my strongest hope of victory. As to the loyalty of the Gauls, we shall some day learn, as you say, by whose exertions that has been roused. But, believe me, we already know it. Therefore, most delightful as your letter was, I felt a little vexed at the end of it. For you say that if the elections are fixed for August you will hurry home: if they are already over you will come still sooner, "that you may not any longer play the fool and risk your life as well." Oh, my dear Furnius, how completely you fail to grasp your position, though so readily understanding other people's! Do you really suppose that you are now a candidate, or do you Contemplate hurrying home to the elections; or, if they are over, to live at your own house that—as you say—"you may not be the biggest fool alive and in danger as well "? I don't think these are your real sentiments; for I know your keenness for glory. But if you do really think as you write, I don't blame you more than I do my own opinion of you. Can it be that an untimely haste for an office of the most trivial and commonplace kind—if you get it in the same way as most people do—will withdraw you from the pursuit of such glorious deeds, for which all the world is rightly and sincerely praising you to the skies? The question, good heavens! is whether you become praetor at this election or the next, not whether you are to serve the Republic so as to be thought worthy above all men of every kind of honour! Is it that you are ignorant of the height to which you have climbed, or that you think it worthless? If you are ignorant, I forgive you: the fault is ours. But if you are not, is any praetorship more attractive in your eyes than duty for which few, or than glory for which all, strive? On this point I and Calvisius—a man of very sound judgment and most devoted to you—daily find fault with you. As to the comitia—as you are depending on them—we are doing our best, thinking it for many reasons to be for the benefit of the Republic, to put them off till January. So then victory and health to you!

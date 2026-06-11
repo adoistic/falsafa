@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-zechariah-1c7f6c",
+  "work_title": "Zechariah",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "873293f7-9894-5634-b114-82119dbab0e8",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 733,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg046.1st1K-grc1:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "673bbfd5-dbe7-5dd3-b4a5-28ddafaf57ff",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 570,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg046.perseus-eng2:1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "antiphon-the-second-tetralogy-9046e6",
+  "work_title": "The Second Tetralogy",
+  "chapter_number": 1,
+  "chapter_title": "The Second Tetralogy",
+  "chapter_slug": "01-the-second-tetralogy",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "46e6a74e-b2a1-59f9-8ef1-ddef1d66d867",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2148,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0028.tlg003.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "87007d25-a419-5600-8f48-65100b7f0c29",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3545,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0028.tlg003.perseus-eng2"
+    }
+  ]
+}

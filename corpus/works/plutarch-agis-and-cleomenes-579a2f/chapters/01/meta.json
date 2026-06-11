@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-agis-and-cleomenes-579a2f",
+  "work_title": "Agis and Cleomenes",
+  "chapter_number": 1,
+  "chapter_title": "Book Agis",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "35057b5d-8e26-5692-9060-1e8f4ea1a06a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4488,
+      "paragraph_count": 82,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg051.perseus-grc1:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "821e63db-a94e-5da3-bc41-d63858d0bf4c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 6856,
+      "paragraph_count": 79,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg051.perseus-eng1:1"
+    }
+  ]
+}

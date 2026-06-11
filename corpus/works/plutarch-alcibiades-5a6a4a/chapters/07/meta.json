@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-alcibiades-5a6a4a",
+  "work_title": "Alcibiades",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "375d6a89-4c94-5865-bc7e-97602953c45b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 203,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg015.perseus-grc2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5bd3946a-0b7b-5ee4-a4ef-674f0297c472",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 316,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg015.perseus-eng2:7"
+    }
+  ]
+}

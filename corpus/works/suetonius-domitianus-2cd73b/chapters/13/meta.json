@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-domitianus-2cd73b",
+  "work_title": "Domitianus",
+  "chapter_number": 13,
+  "chapter_title": "Chapter 13",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bd204739-e168-5566-85d5-7ef4b5d1be03",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 187,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo022.perseus-lat2:13"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "169d48d8-dc3b-50c2-903d-2273a3317afa",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 372,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo022.perseus-eng2:13"
+    }
+  ]
+}

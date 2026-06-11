@@ -1,0 +1,31 @@
+---
+work_id: "8a1f015f-b663-5f24-8ca1-af8ba1063f9a"
+work_slug: "plutarch-camillus-8a1f01"
+work_title: Camillus
+author_name: Plutarch
+chapter_number: 20
+chapter_title: Chapter 20
+chapter_slug: 20
+variant_id: "b1e75dc7-e78a-5f48-968c-b70bea58bdbd"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 561
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg011.perseus-eng2:20"
+translator: Bernadotte Perrin
+---
+
+Now had the Gauls, after this battle, followed hard upon the fugitives, naught would have hindered Rome from being utterly destroyed and all those who remained in her from perishing, such was the terror which the fugitives infused into the occupants of the city, and with such confusion and delirium were they themselves once more filled.
+
+But as it was, the Barbarians could not realize the magnitude of their victory, and in the excess of their joy, turned to revelry and the distribution of the good things captured in their enemy’s camp. For this reason the throngs who were for abandoning the city had ample time for flight, and those who were for remaining plucked up hope and prepared to defend themselves. Abandoning the rest of the city, they fenced the Capitol with ramparts and stocked it with missiles.
+
+But their first care was for their sacred things, most of which they carried away to the Capitol; the fire of Vesta, however, was snatched up and carried off by the vestal virgins in their flight, along with the other sacred things entrusted to their care. However, some writers state that these virgins have watch and ward over nothing more than the ever-living fire, which Numa the King appointed to be worshipped as the first cause of all things.
+
+For fire produces more motion than anything else in nature, and all birth is a mode of motion, or is accompanied by motion. All other portions of matter, in the absence of heat, lie inert and dead, yearning for the force of fire to inform them, like a spirit, and on its accession in any manner soever, they become capable of acting and being acted upon. This principle of fire, then, Numa, who was an extraordinary man, and whose wisdom gave him the repute of holding converse with the Muses, is said to have hallowed and ordered to be kept sleepless, that it might image forth the ever-living force which orders the universe aright.
+
+Others say that this fire is kept burning before the sacred things by way of purification, as among the Greeks, and that other objects within the temple are kept hidden from the gaze of all except these virgins, whom they call Vestals. And a very prevalent story had it that the famous Palladium of Troy was hidden away there, having been brought to Italy by Aeneas. There are some who say that it is the Samothracian images which are hidden there, and they tell the tale of Dardanus bringing these to Troy, after he had founded that city, and consecrating them there with celebration of their rites; and of Aeneas, at the capture of Troy, stealing them away and preserving them until he settled in Italy.
+
+Others still, pretending to have larger knowledge in these matters, say that two small jars are stored away there, of which one is open and empty, and the other full and sealed up, and that both are visible only to the holy virgins. But others think that these knowing ones have been led astray by the fact that the virgins, at the time of which I am now speaking, cast the most of their sacred treasures into two jars, and hid them underground in the temple of Quirinus, whence that place, down to the present time, has the name of Doliola, or Jars.

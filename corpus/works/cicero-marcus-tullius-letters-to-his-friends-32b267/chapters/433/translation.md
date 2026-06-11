@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 433
+chapter_title: "Chapter text=F:book=11:letter=14"
+chapter_slug: 433
+variant_id: "ff40b884-6dcd-5fbe-a66b-d323a40c5254"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 334
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:433"
+translator: Perseus Digital Library
+---
+
+TO DECIMUS BRUTUS (AT EPOREDIA) ROME (MAY, LATE)
+
+I am wonderfully pleased, my dear Brutus, that you approve of my policy and sentiments about the decemvirs, and about complimenting the young man. But what does it matter? Believe me—a man not given to brag—I am now, Brutus, quite in the cold shade. For my weapon was the senate: that has now gone to pieces. Your splendid breaking out from Mutina, and the flight of Antony after his army had been cut to pieces, had given us such a bright hope of certain victory, that the spirits of all have begun to flag, and those old fiery contests of mine seem to be, as it were, a mere fighting with shadows. But to return to business. People who know them say that the Martia and the fourth legion cannot by any persuasion whatever be brought over to you. As to the money you want, some means can be taken for that, and shall be taken. About summoning Marcus Brutus and keeping Caesar to protect Italy, I agree with you. But, as you say, you have some detractors. I have no difficulty in rebutting them, yet they do hamper one. We are expecting the legions from Africa. But people are surprised at the war in your parts being renewed. Nothing was ever more unexpected. For when the victory was announced on your birthday, we saw the Republic freed for many generations. These new alarms undo all that has gone before. Now you said in your letter to me of the 15th of May that you had lately heard from Plancus that Antony was not being received by Lepidus. If that is so, everything will be easier. If otherwise, there is a serious business on hand, the result of which I do not dread. It is your part of the play. I cannot do more than I have done. You, however, I desire—as I also hope—to see become the greatest and most illustrious man in the world.

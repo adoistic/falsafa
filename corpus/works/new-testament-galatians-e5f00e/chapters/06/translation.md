@@ -1,0 +1,55 @@
+---
+work_id: "e5f00ecc-d3d4-548e-8e5b-1382d815d318"
+work_slug: "new-testament-galatians-e5f00e"
+work_title: Galatians
+author_name: New Testament
+chapter_number: 6
+chapter_title: Chapter 6
+chapter_slug: 06
+variant_id: "66395d96-998b-508c-a216-3d1c36db9fc9"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 361
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0031.tlg009.perseus-eng2:6"
+translator: Perseus Digital Library
+---
+
+Brothers, even if a man is caught in some fault, you who are spiritual must restore such a one in a spirit of gentleness; looking to yourself so that you also aren't tempted.
+
+Bear one another's burdens, and so fulfill the law of Christ.
+
+For if a man thinks himself to be something when he is nothing, he deceives himself.
+
+But let each man test his own work, and then he will take pride in himself and not in his neighbor.
+
+For each man will bear his own burden.
+
+But let him who is taught in the word share all good things with him who teaches.
+
+Don't be deceived. God is not mocked, for whatever a man sows, that will he also reap.
+
+For he who sows to his own flesh will from the flesh reap corruption. But he who sows to the Spirit will from the Spirit reap eternal life.
+
+Let us not be weary in doing good, for we will reap in due season, if we don't give up.
+
+So then, as we have opportunity, let's do what is good toward all men, and especially toward those who are of the household of the faith.
+
+See with what large letters I write to you with my own hand.
+
+As many as desire to look good in the flesh, they compel you to be circumcised; only that they may not be persecuted for the cross of Christ.
+
+For even they who receive circumcision don't keep the law themselves, but they desire to have you circumcised, that they may boast in your flesh.
+
+But far be it from me to boast, except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.
+
+For in Christ Jesus neither is circumcision anything, nor uncircumcision, but a new creation.
+
+As many as walk by this rule, peace and mercy be on them, and on God's Israel.
+
+From now on, let no one cause me any trouble, for I bear the marks of the Lord Jesus branded on my body.
+
+The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.

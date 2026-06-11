@@ -1,0 +1,38 @@
+{
+  "work_slug": "lysias-funeral-oration-d4c948",
+  "work_title": "Funeral Oration",
+  "chapter_number": 1,
+  "chapter_title": "Funeral Oration",
+  "chapter_slug": "01-funeral-oration",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "00984c7a-6ecf-55cd-b5ff-3f1650f813fc",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 4064,
+      "paragraph_count": 81,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg002.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6df9b90c-855a-5c86-85c5-55ec39356831",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5679,
+      "paragraph_count": 77,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0540.tlg002.perseus-eng2"
+    }
+  ]
+}

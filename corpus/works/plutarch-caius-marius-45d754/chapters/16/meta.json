@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-caius-marius-45d754",
+  "work_title": "Caius Marius",
+  "chapter_number": 16,
+  "chapter_title": "Chapter 16",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bf6d2f66-589c-5e11-b116-0b2211ee17b4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 296,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg031.perseus-grc2:16"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a11f722a-d9b6-597f-ba06-78ece928e615",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 445,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg031.perseus-eng2:16"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-iside-et-osiride-e99eb7",
+  "work_title": "De Iside et Osiride",
+  "chapter_number": 1,
+  "chapter_title": "De Iside et Osiride",
+  "chapter_slug": "01-de-iside-et-osiride",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0d691ec9-72db-5816-b781-91b10063109f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 15859,
+      "paragraph_count": 82,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg089.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7222631f-d31d-5438-ad08-d7ddfd7a04b7",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 25630,
+      "paragraph_count": 90,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg089.perseus-eng4"
+    }
+  ]
+}

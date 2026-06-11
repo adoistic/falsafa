@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-fato-a90082",
+  "work_title": "De Fato",
+  "chapter_number": 1,
+  "chapter_title": "De Fato",
+  "chapter_slug": "01-de-fato",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "87fbf185-17c3-5176-8881-b113851d67a5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3424,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg108.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8d359a74-d814-5ad9-98eb-5b73ed651140",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5356,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg108.perseus-eng2"
+    }
+  ]
+}

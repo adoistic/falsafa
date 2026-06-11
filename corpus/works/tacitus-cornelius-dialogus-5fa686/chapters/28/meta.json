@@ -1,0 +1,38 @@
+{
+  "work_slug": "tacitus-cornelius-dialogus-5fa686",
+  "work_title": "Dialogus",
+  "chapter_number": 28,
+  "chapter_title": "Chapter 28",
+  "chapter_slug": "28",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "735166e2-4613-5ce3-afc0-5b6b179193bc",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 243,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi003.perseus-lat1:28"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b15dc0e0-bf80-5531-8f81-e6cd20f5a446",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 364,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi003.perseus-eng1:28"
+    }
+  ]
+}

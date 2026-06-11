@@ -1,0 +1,39 @@
+{
+  "work_slug": "homeric-hymns-hymn-8-to-ares-8c01ca",
+  "work_title": "Hymn 8 to Ares",
+  "chapter_number": 1,
+  "chapter_title": "Hymn 8 to Ares",
+  "chapter_slug": "01-hymn-8-to-ares",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cbda8ebe-4468-5d0b-994b-c78058490f7a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 100,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg008.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fb955fa9-e954-5e4f-ad92-0ab103d73d74",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 165,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0013.tlg008.perseus-eng2"
+    }
+  ]
+}

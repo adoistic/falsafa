@@ -1,0 +1,38 @@
+{
+  "work_slug": "appianus-of-alexandria-mithridatic-wars-13f095",
+  "work_title": "Mithridatic Wars",
+  "chapter_number": 7,
+  "chapter_title": "Chapter 7",
+  "chapter_slug": "07",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a6913138-3c9c-562b-b879-b22d949810f0",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1205,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg014.perseus-grc2:7"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "86a1dab8-c994-521d-a8e8-fb572dea621a",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1606,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg014.perseus-eng2:7"
+    }
+  ]
+}

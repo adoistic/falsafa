@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-romulus-8aa1c6",
+  "work_title": "Romulus",
+  "chapter_number": 18,
+  "chapter_title": "Chapter 18",
+  "chapter_slug": "18",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b5f14c89-8dbd-5a8e-99ec-7b4c80332f72",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 369,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg002.perseus-grc2:18"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99cf6454-72c2-5b4b-8f95-3ce7e99edfa0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 506,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg002.perseus-eng2:18"
+    }
+  ]
+}

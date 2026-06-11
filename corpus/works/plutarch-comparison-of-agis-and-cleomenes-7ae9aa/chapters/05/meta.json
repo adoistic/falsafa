@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-comparison-of-agis-and-cleomenes-7ae9aa",
+  "work_title": "Comparison of Agis and Cleomenes and the Gracchi",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "94cf1720-8804-5b85-90e2-cee673503a99",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 292,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg053.perseus-grc2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fb761c6a-11ea-5f4d-889c-786e388ce89b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 464,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg053.perseus-eng2:5"
+    }
+  ]
+}

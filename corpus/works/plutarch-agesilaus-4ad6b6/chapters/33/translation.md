@@ -1,0 +1,29 @@
+---
+work_id: "4ad6b639-d4b7-5a5b-b4ac-d62c04090fd8"
+work_slug: "plutarch-agesilaus-4ad6b6"
+work_title: Agesilaus
+author_name: Plutarch
+chapter_number: 33
+chapter_title: Chapter 33
+chapter_slug: 33
+variant_id: "46706bdd-7c71-5d2f-8130-7a33f9146d79"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 422
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg044.perseus-eng2:33"
+translator: Bernadotte Perrin
+---
+
+This story may be true, although I know not how all other writers could be ignorant of it, while Theopompus alone heard it; but, at any rate, all agree that the salvation of Sparta at this time was due to Agesilaüs, because he renounced his inherent passions of contentiousness and ambition, and adopted a policy of safety.
+
+He could not, however, restore the power and reputation of his city after its fall, for it was like a human body that is sound, indeed, but has followed all the while too strict and severe a regimen; a single error turned the scale and brought down the entire prosperity of the city. Nor was this strange. For to a civil polity best arranged for peace and virtue and unanimity they had attached empires and sovereignties won by force, not one of which Lycurgus thought needful for a city that was to live in happiness; and therefore they fell.
+
+Agesilaüs himself now declined military service on account of his years, but Archidamus his son, with assistance which came from the tyrant of Sicily, conquered the Arcadians in the so-called tearless battle, where not one of his own men fell, and he slew great numbers of the enemy. This victory, more than anything else, showed the weakness of the city.
+
+For up to this time they were wont to think the conquest of their enemies so customary and natural a thing for them to achieve, that no sacrifice for victory was offered in the city to the gods, beyond that of a cock, neither did the winners of the contest exult, nor those who heard of their victory show great joy. Nay, even after the battle at Mantinea, which Thucydides has described, the one who first announced the victory had no other reward for his glad tidings than a piece of meat sent by the magistrates from the public mess.
+
+But now, at the news of the Arcadian victory and at the approach of Archidamus, no one could restrain himself, but first his father went to meet him, weeping for joy, and after him the chief magistrates, while the elderly men and the women went down in a throng to the river, lifting their hands to heaven and blessing the gods, as if Sparta had wiped away her unmerited disgraces and now saw the light shine bright again as of old; for before this, we are told, her men could not so much as look their wives in the face, out of shame at their disasters.

@@ -1,0 +1,44 @@
+{
+  "note": "Second Perseus tranche: works that appear in the transmission atlas, so the library can hold the books whose journeys it maps. Same pipeline as tranche 1.",
+  "works": [
+    {
+      "repo": "canonical-greekLit",
+      "group": "tlg0627",
+      "work": "tlg012",
+      "title": "Aphorisms",
+      "author": {
+        "name": "Hippocrates",
+        "biography": "Physician of Cos and the name under which Greek medicine's founding texts travel. The Aphorisms attributed to him opened medical curricula from Alexandria to Salerno.",
+        "birth_year": -460,
+        "death_year": -370,
+        "nationality": "Greek"
+      },
+      "era": "Ancient",
+      "genre": "Philosophy",
+      "language": "Greek",
+      "description": "The most memorized text of ancient medicine, beginning with the most famous sentence in it: life is short, the art long. Its crossing into Arabic and Latin is traced in this site's atlas. In English translation from the Perseus Digital Library.",
+      "difficulty": "Beginner",
+      "published_year": -400
+    },
+    {
+      "repo": "canonical-greekLit",
+      "group": "tlg1799",
+      "work": "tlg001",
+      "title": "Elements",
+      "author": {
+        "name": "Euclid",
+        "biography": "Compiler of the Elements, the most copied mathematical text in history. Almost nothing is known of his life beyond his city and his book.",
+        "birth_year": null,
+        "death_year": null,
+        "nationality": "Greek"
+      },
+      "era": "Ancient",
+      "genre": "Philosophy",
+      "language": "Greek",
+      "description": "The axiomatic compilation of Greek geometry, read in Arabic before Europe read it in Greek; the atlas traces that journey. In English translation from the Perseus Digital Library.",
+      "difficulty": "Advanced",
+      "published_year": -300,
+      "translator_override": "Thomas Little Heath"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-phocion-e95782",
+  "work_title": "Phocion",
+  "chapter_number": 31,
+  "chapter_title": "Chapter 31",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1e8c0ae1-e49c-5ee3-80c4-584b9e1737a2",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 97,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg049.perseus-grc2:31"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "51523a3d-3504-5e55-ab0c-172a8c2594ec",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 128,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg049.perseus-eng2:31"
+    }
+  ]
+}

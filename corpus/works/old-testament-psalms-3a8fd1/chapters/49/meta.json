@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 49,
+  "chapter_title": "Chapter 49",
+  "chapter_slug": "49",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bde2c9ff-5071-56b6-b3fe-3e54ec01cf0d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 411,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:49"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54fb572e-1afd-5203-829f-50ef54e3d9c8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 326,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:49"
+    }
+  ]
+}

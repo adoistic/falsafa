@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-numbers-e47f4a",
+  "work_title": "Numbers",
+  "chapter_number": 31,
+  "chapter_title": "Chapter 31",
+  "chapter_slug": "31",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "007f4a42-d857-5d97-b5fd-f8cf7b78eb94",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1260,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg004.1st1K-grc1:31"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "94d25fce-0aa2-5819-8128-ff1def0706ee",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1123,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg004.perseus-eng2:31"
+    }
+  ]
+}

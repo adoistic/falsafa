@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-romulus-8aa1c6",
+  "work_title": "Romulus",
+  "chapter_number": 11,
+  "chapter_title": "Chapter 11",
+  "chapter_slug": "11",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e13a1391-bd71-57d1-b9c8-bb90ed11f579",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 187,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg002.perseus-grc2:11"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ba1f58c8-b8a5-5e2e-b21f-da09475d2337",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 297,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg002.perseus-eng2:11"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+---
+work_id: "24aecff9-3f52-5095-9698-a6d15ff13cb3"
+work_slug: "plutarch-themistocles-24aecf"
+work_title: Themistocles
+author_name: Plutarch
+chapter_number: 2
+chapter_title: Chapter 2
+chapter_slug: 02
+variant_id: "8fa001a4-424b-5500-b063-3ae0defb5ac3"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 556
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg010.perseus-eng2:2"
+translator: Bernadotte Perrin
+---
+
+However lowly his birth, it is agreed on all hands that while yet a boy he was impetuous, by nature sagacious, and by election enterprising and prone to public life. In times of relaxation and leisure, when absolved from his lessons, he would not play nor indulge his ease, as the rest of the boys did, but would be found composing and rehearsing to himself mock speeches. These speeches would be in accusation or defence of some boy or other. Wherefore his teacher was wont to say to him: My boy, thou wilt be nothing insignificant, but something great, of a surety, either for good or evil. Moreover, when he was set to study, those branches which aimed at the formation of character, or ministered to any gratification or grace of a liberal sort, he would learn reluctantly and sluggishly; and to all that was said for the cultivation of sagacity or practical efficiency, he clearly showed an indifference far beyond his years, as though he put his confidence in his natural gifts alone.
+
+Thus it came about that, in after life, at entertainments of a so-called liberal and polite nature, when he was taunted by men of reputed culture, he was forced to defend himself rather rudely, saying that tuning the lyre and handling the harp were no accomplishments of his, but rather taking in hand a city that was small and inglorious and making it glorious and great. And yet Stesimbrotus says that Themistocles was a pupil of Anaxagoras, and a disciple of Melissus the physicist; but he is careless in his chronology. It was Pericles, a much younger man than Themistocles, whom Melissus opposed at the siege of Samos, and with whom Anaxagoras was intimate.
+
+Rather, then, might one side with those who say that Themistocles was a disciple of Mnesiphilus the Phrearrhian, a man who was neither a rhetorician nor one of the so-called physical philosophers, but a cultivator of what was then called sophia or wisdom, although it was really nothing more than cleverness in politics and practical sagacity. Mnesiphilus received this sophia, and handed it down, as though it were the doctrine of a sect, in unbroken tradition from Solon. His successors blended it with forensic arts, and shifted its application from public affairs to language, and were dubbed sophists. It was this man, then, to whom Themistocles resorted at the very beginning of his public life.
+
+But in the first essays of his youth he was uneven and unstable, since he gave his natural impulses free course, which, without due address and training, rush to violent extremes in the objects of their pursuit, and often degenerate; as he himself in later life confessed, when he said that even the wildest colts made very good horses, if only they got the proper breaking and training.
+
+What some story-makers add to this, however, to the effect that his father disinherited him, and his mother took her own life for very grief at her son’s ill-fame, this I think is false. And, in just the opposite vein, there are some who say that his father fondly tried to divert him from public life, pointing out to him old triremes on the sea-shore, all wrecked and neglected, and intimating that the people treated their leaders in like fashion when these were past service.

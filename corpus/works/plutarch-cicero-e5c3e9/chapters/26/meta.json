@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-cicero-e5c3e9",
+  "work_title": "Cicero",
+  "chapter_number": 26,
+  "chapter_title": "Chapter 26",
+  "chapter_slug": "26",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cbc704d9-7740-5e2b-b884-07f5c81eb712",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 383,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg055.perseus-grc2:26"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0c849979-f653-5ced-9dc7-9082ba2830dc",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 604,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg055.perseus-eng2:26"
+    }
+  ]
+}

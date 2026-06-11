@@ -1,0 +1,38 @@
+{
+  "work_slug": "gellius-aulus-noctes-atticae-13f6ae",
+  "work_title": "Noctes Atticae",
+  "chapter_number": 1,
+  "chapter_title": "Book pr",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "78a2b3ad-c071-5e4f-a9ad-a7aaed705d6a",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 645,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1254.phi001.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "faedef03-2e20-569f-a0fc-c7d5790ea538",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1562,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1254.phi001.perseus-eng1:1"
+    }
+  ]
+}

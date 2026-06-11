@@ -1,0 +1,27 @@
+---
+work_id: "dfd661a7-7a0f-5411-9892-ecdc6f527cb6"
+work_slug: "plutarch-lysander-dfd661"
+work_title: Lysander
+author_name: Plutarch
+chapter_number: 13
+chapter_title: Chapter 13
+chapter_slug: 13
+variant_id: "e8a84d1a-a618-5eb5-ba87-f92fb327a47a"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 400
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg032.perseus-eng2:13"
+translator: Bernadotte Perrin
+---
+
+Lysander, after the three thousand Athenians whom he had taken prisoners had been condemned to death by the special council of allies, calling Philocles, their general, asked him what punishment he thought should be visited upon him for having given his fellow-citizens such counsel regarding Greeks.
+
+But he, not one whit softened by his misfortunes, bade him not play the prosecutor in a case where there was no judge, but to inflict, as victor, the punishment he would have suffered if vanquished. Then, after bathing and putting on a rich robe, he went first to the slaughter and showed his countrymen the way, as Theophrastus writes. After this, Lysander sailed to the various cities, and ordered all the Athenians whom he met to go back to Athens, for he would spare none, he said, but would slaughter any whom he caught outside the city.
+
+He took this course, and drove them all into the city together, because he wished that scarcity of food and a mighty famine should speedily afflict the city, in order that they might not hinder him by holding out against his siege with plenty of provisions. He also suppressed the democratic, and the other forms of government, and left one Lacedaemonian harmost in each city, and ten rulers chosen from the political clubs which he had organized throughout the cities.
+
+This he did alike in the cities which had been hostile, and in those which had become his allies, and sailed along in leisurely fashion, in a manner establishing for himself the supremacy over Hellas. For in his appointments of the rulers he had regard neither to birth nor wealth, but put control of affairs into the hands of his comrades and partisans, and made them masters of rewards and punishments. He also took part himself in many massacres, and assisted in driving out the enemies of his friends. Thus he gave the Greeks no worthy specimen of Lacedaemonian rule, nay, even the comic poet Theopompus was thought absurd in likening the Lacedaemonians to tavern-women, because they gave the Greeks a very pleasant sip of freedom, and then dashed the wine with vinegar; for from the very first the taste was harsh and bitter, since Lysander not only would not suffer the people to be masters of their affairs, but actually put the cities into the hands of the boldest and most contentious of the oligarchs.

@@ -1,0 +1,23 @@
+---
+work_id: "5fa68674-5128-526b-ad8e-7e50aa516351"
+work_slug: "tacitus-cornelius-dialogus-5fa686"
+work_title: Dialogus
+author_name: Tacitus, Cornelius
+chapter_number: 11
+chapter_title: Chapter 11
+chapter_slug: 11
+variant_id: "3b72ed9c-540c-5b0c-9946-0f5a58eb3ab6"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 157
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi003.perseus-lat1:11"
+curator: thothica
+---
+
+Quae cum dixisset Aper acrius, ut solebat, et intento ore, remissus et subridens Maternus 'parantem' inquit 'me non minus diu accusare oratores quam Aper laudaverat (fore enim arbitrabar ut a laudatione eorum digressus detrectaret poetas atque carminum studium prosterneret) arte quadam mitigavit, concedendo iis, qui causas agere non possent, ut versus facerent. ego autem sicut in causis agendis efficere aliquid et eniti fortasse possum, ita recitatione tragoediarum et ingredi famam auspicatus sum, cum quidem in Neronem inprobam et studiorum quoque sacra profanantem Vatinii potentiam fregi, et hodie si quid in nobis notitiae ac nominis est, magis arbitror carminum quam orationum gloria partum.
+
+ac iam me deiungere a forensi labore constitui, nec comitatus istos et egressus aut frequentiam salutantium concupisco, non magis quam aera et imagines, quae etiam me nolente in domum meam inruperunt. nam statum cuiusque ac securitatem melius innocentia tuetur quam eloquentia, nec vereor ne mihi umquam verba in senatu nisi pro alterius discrimine facienda sint.

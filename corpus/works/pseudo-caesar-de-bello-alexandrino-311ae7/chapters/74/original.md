@@ -1,0 +1,21 @@
+---
+work_id: "311ae72f-0571-54bf-84ba-1c4cffbaf679"
+work_slug: "pseudo-caesar-de-bello-alexandrino-311ae7"
+work_title: De Bello Alexandrino
+author_name: "Pseudo-Caesar"
+chapter_number: 74
+chapter_title: Chapter 74
+chapter_slug: 74
+variant_id: "0d6f6f17-a31b-5a1d-9b22-22e04fa1a3b7"
+content_type: original
+layout: prose
+language: Latin
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 175
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0428.phi001.perseus-lat1:74"
+curator: thothica
+---
+
+Pharnaces, eum id repente prima luce animadvertisset, copias suas omnis pro castris instruxit. Quas interposita tanta locorum iniquitate consuetudine magis pervulgata militari credebat instrui Caesar vel ad opus suum tardandum, quo plures in armis tenerentur, vel ad ostentationem regiae fiduciae, ne munitione magis quam manu defendere locum Pharnaces videretur. Itaque deterritus non est quo minus prima acie pro vallo instructa reliqua pars exercitus opus faceret. At Pharnaces impulsus sive loci felicitate sive auspiciis et religionibus inductus, quibus obtemperasse eum postea audiebamus, sive paucitate nostrorum qui in armis erant comperta, cum more operis cotidiani magnam illam servorum multitudinem quae aggerem portabat militem esse credidisset, sive etiam fiducia veterani exercitus sui, quem bis et vicies in acie conflixisse et vicisse legati eius gloriabantur, simul contemptu exercitus nostri, quem pulsum a se. Domitio duce sciebat, inito consilio dimicandi descendere praerupta valle coepit. Cuius aliquamdiu Caesar irridebat inanem ostentationem et eo loco militum coartationem, quem in locum nemo sanus hostis subiturus esset: cum interim Pharnaces eodem gradu quo in praeruptam descenderat vallem ascendere adversus arduum collem instructis copiis coepit.

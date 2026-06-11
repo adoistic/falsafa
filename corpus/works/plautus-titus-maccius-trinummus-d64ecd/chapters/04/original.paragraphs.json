@@ -1,0 +1,892 @@
+[
+  {
+    "id": "p-500b41",
+    "offset": 0,
+    "text": "Callicles:\nQuó modo tu istuc, Stasime, dixti?"
+  },
+  {
+    "id": "p-a7bba0",
+    "offset": 47,
+    "text": "Stasimvs:\nNostrum erilem filium"
+  },
+  {
+    "id": "p-cc148d",
+    "offset": 80,
+    "text": "Lesbonicum suam sororem despondisse. em hoc modo."
+  },
+  {
+    "id": "p-3d22f0",
+    "offset": 131,
+    "text": "Callicles:\nCuí homini despondit?"
+  },
+  {
+    "id": "p-8fb815",
+    "offset": 165,
+    "text": "Stasimvs:\nLysiteli Philtonis filio, sine dote."
+  },
+  {
+    "id": "p-7c99aa",
+    "offset": 213,
+    "text": "Callicles:\nSine dote ille illam in tantas divitias dabit?"
+  },
+  {
+    "id": "p-c1fe3f",
+    "offset": 272,
+    "text": "non credibile dicis."
+  },
+  {
+    "id": "p-adbeee",
+    "offset": 294,
+    "text": "Stasimvs:\nAt tu édepol nullus creduas."
+  },
+  {
+    "id": "p-551b19",
+    "offset": 334,
+    "text": "si hoc non credis, ego credidero—"
+  },
+  {
+    "id": "p-47a2cf",
+    "offset": 369,
+    "text": "Callicles:\nQuid?"
+  },
+  {
+    "id": "p-c732cc",
+    "offset": 387,
+    "text": "Stasimvs:\nMe nihili pendere."
+  },
+  {
+    "id": "p-8c0ad1",
+    "offset": 417,
+    "text": "Callicles:\nQuam dudum istuc aut ubi actumst?"
+  },
+  {
+    "id": "p-e9522a",
+    "offset": 463,
+    "text": "Stasimvs:\nIlico hic ante ostium, tam modo, inquit Praenestinus."
+  },
+  {
+    "id": "p-4aff6e",
+    "offset": 528,
+    "text": "Callicles:\nTanton in re perdita, quam in re salva Lesbonicus factus est frugalior?"
+  },
+  {
+    "id": "p-60f590",
+    "offset": 612,
+    "text": "Stasimvs:"
+  },
+  {
+    "id": "p-d94d27",
+    "offset": 623,
+    "text": "Atque equidem ipsus ultro venit Philto oratum filio."
+  },
+  {
+    "id": "p-922d7c",
+    "offset": 677,
+    "text": "Callicles:\nFlagitium quidem hercle fiet, nisi dos dabitur virgini."
+  },
+  {
+    "id": "p-9e4faf",
+    "offset": 745,
+    "text": "postremo edepol ego istam rem ad me áttinere intellego."
+  },
+  {
+    "id": "p-7e9f0e",
+    "offset": 802,
+    "text": "ibo ad meum castigatorem atque ab eo consilium petam.—"
+  },
+  {
+    "id": "p-b70ad4",
+    "offset": 858,
+    "text": "Stasimvs:\nPropemodum quid illic festinet sentio et subolet mihi:"
+  },
+  {
+    "id": "p-6a89f8",
+    "offset": 924,
+    "text": "ut agro evortat Lesbonicum, quando evortit aedibus."
+  },
+  {
+    "id": "p-2fc8eb",
+    "offset": 977,
+    "text": "o ere Charmides, quam apsenti hic tua res distrahitur tibi!"
+  },
+  {
+    "id": "p-dedeb5",
+    "offset": 1038,
+    "text": "utinam te rediisse salvom videam, ut inimicos tuos ulciscare, ut míhi, ut erga te fui et sum, referas gratiam."
+  },
+  {
+    "id": "p-19e8ed",
+    "offset": 1150,
+    "text": "nimium difficilest reperiri amicum ita ut nomen cluet, quoi tuam quom rem credideris, síne omni cura dormias."
+  },
+  {
+    "id": "p-419953",
+    "offset": 1261,
+    "text": "sed generum nostrum ire eccillum video cum adfini suo."
+  },
+  {
+    "id": "p-39f59b",
+    "offset": 1317,
+    "text": "nescio quíd non satis inter eos convenit: celeri gradu eunt uterque, ille reprehendit hunc priorem pallio."
+  },
+  {
+    "id": "p-b95481",
+    "offset": 1425,
+    "text": "haud ineuscheme astiterunt. huc aliquantum apscessero:"
+  },
+  {
+    "id": "p-99433e",
+    "offset": 1481,
+    "text": "est lubido orationem audire duorum adfinium."
+  },
+  {
+    "id": "p-3959c8",
+    "offset": 1527,
+    "text": "Lysiteles:\nSta ilico, noli avorsari neque te occultassis mihi."
+  },
+  {
+    "id": "p-23d28e",
+    "offset": 1591,
+    "text": "Lesbonicvs:\nPotin ut me ire quo profectus sum sinas?"
+  },
+  {
+    "id": "p-b8dddd",
+    "offset": 1645,
+    "text": "Lysiteles:\nSi in rem tuam,"
+  },
+  {
+    "id": "p-e911c9",
+    "offset": 1673,
+    "text": "Lesbonice, esse videatur, gloriae aut famae, sinam."
+  },
+  {
+    "id": "p-e2f04c",
+    "offset": 1726,
+    "text": "Lesbonicvs:\nQuod est facillumum, facís."
+  },
+  {
+    "id": "p-dce52e",
+    "offset": 1767,
+    "text": "Lysiteles:\nQuid id est?"
+  },
+  {
+    "id": "p-197b53",
+    "offset": 1792,
+    "text": "Lesbonicvs:\nAmico iniuriam."
+  },
+  {
+    "id": "p-40f717",
+    "offset": 1821,
+    "text": "Lysiteles:"
+  },
+  {
+    "id": "p-6ae7e2",
+    "offset": 1833,
+    "text": "Neque meumst neque facere didici."
+  },
+  {
+    "id": "p-047dd5",
+    "offset": 1868,
+    "text": "Lesbonicvs:\nIndoctus quam docte facis."
+  },
+  {
+    "id": "p-dd6863",
+    "offset": 1908,
+    "text": "quid faceres, si quis docuisset te, ut sic odio esses mihi?"
+  },
+  {
+    "id": "p-34d7e4",
+    "offset": 1969,
+    "text": "bene cum simulas facere mihi te, male facis, male consulis."
+  },
+  {
+    "id": "p-4401be",
+    "offset": 2030,
+    "text": "Lysiteles:\nEgone?"
+  },
+  {
+    "id": "p-1b1c17",
+    "offset": 2049,
+    "text": "Lesbonicvs:\nTune."
+  },
+  {
+    "id": "p-126b8c",
+    "offset": 2068,
+    "text": "Lysiteles:\nQuid male facio?"
+  },
+  {
+    "id": "p-0e9f1a",
+    "offset": 2097,
+    "text": "Lesbonicvs:\nQuod ego nolo, id cum facis."
+  },
+  {
+    "id": "p-95a14b",
+    "offset": 2139,
+    "text": "Lysiteles:\nTuae rei bene consulere cupio."
+  },
+  {
+    "id": "p-da0738",
+    "offset": 2182,
+    "text": "Lesbonicvs:\nTu es melior quam egomet mihi?"
+  },
+  {
+    "id": "p-a1a15c",
+    "offset": 2226,
+    "text": "sat sapio, satis in rem quae sint meam ego conspicio mihi."
+  },
+  {
+    "id": "p-fced61",
+    "offset": 2286,
+    "text": "Lysiteles:\nAn id est sapere, ut qui beneficium a benevolente repudies?"
+  },
+  {
+    "id": "p-9d0c1a",
+    "offset": 2358,
+    "text": "Lesbonicvs:\nNullum beneficium ésse duco id quod quoi facias non placet."
+  },
+  {
+    "id": "p-c24879",
+    "offset": 2431,
+    "text": "scio ego et sentio ipse quid agam, neque mens officio migrat, nec tuis depellar dictis quin rumori serviam."
+  },
+  {
+    "id": "p-40f717",
+    "offset": 2540,
+    "text": "Lysiteles:"
+  },
+  {
+    "id": "p-ea96eb",
+    "offset": 2552,
+    "text": "Quid ais? nam retineri nequeo quin dicam ea quae promeres:"
+  },
+  {
+    "id": "p-7d5786",
+    "offset": 2612,
+    "text": "itan tandem hanc maiores famam tradiderunt tibi tui, ut virtute eorum anteparta per flagitium perderes?"
+  },
+  {
+    "id": "p-e4ca25",
+    "offset": 2717,
+    "text": "atque honori posterorum tuorum ut vindex fieres, tibi paterque avosque facilem fecit et planam viam ad quaerundum honorem: tu fecisti ut difficilis foret, culpa maxume et desidia tuisque stultis moribus."
+  },
+  {
+    "id": "p-900359",
+    "offset": 2922,
+    "text": "praeoptavisti, amorem tuom uti virtuti praeponeres."
+  },
+  {
+    "id": "p-273531",
+    "offset": 2975,
+    "text": "nunc te hoc pacto credis posse optegere errata? aha, non itast:"
+  },
+  {
+    "id": "p-64e3d0",
+    "offset": 3040,
+    "text": "cape sis virtutem animo et corde expelle desidiam tuo:"
+  },
+  {
+    "id": "p-388a7a",
+    "offset": 3096,
+    "text": "in foro operam amicis da, ne in lecto amicae, ut solitus es."
+  },
+  {
+    "id": "p-f0cba3",
+    "offset": 3158,
+    "text": "atque ego istum agrum tíbi relinqui ób eam rem enixe expeto, ut tibi sit qui te corrigere possis, ne omnino inopiam cives obiectare possint tibi, quos tu inimicos habes."
+  },
+  {
+    "id": "p-8242f2",
+    "offset": 3329,
+    "text": "Lesbonicvs:\nOmnia ego istaec quae tu dixti scio, vel exsignavero, ut rem patriam et gloriam maiorum foedarim meum:"
+  },
+  {
+    "id": "p-bf855e",
+    "offset": 3445,
+    "text": "scibam ut esse me deceret, facere non quibam miser;"
+  },
+  {
+    "id": "p-127150",
+    "offset": 3498,
+    "text": "ita vi Veneris vinctus, otio captus in fraudem incidi."
+  },
+  {
+    "id": "p-98bffb",
+    "offset": 3554,
+    "text": "et tibi nunc, proinde ut merere, summas habeo gratias."
+  },
+  {
+    "id": "p-e63b59",
+    "offset": 3610,
+    "text": "Lysiteles:\nAt operam perire meam sic et te haec dicta corde spernere † perpeti nequeo, simul me piget parum pudere te;"
+  },
+  {
+    "id": "p-d118b9",
+    "offset": 3730,
+    "text": "et postremo, nisi mi auscultas atque hoc ut dico facis, tute pone te latebis facile, ne inveniat te Honor, in occulto iacebis cum te maxume clarum voles."
+  },
+  {
+    "id": "p-3b1991",
+    "offset": 3885,
+    "text": "pernovi equidem, Lesbonice, ingenium tuom ingenuom admodum;"
+  },
+  {
+    "id": "p-519126",
+    "offset": 3946,
+    "text": "scio te sponte non tuapte errasse, sed amorem tibi pectus opscurasse; atque ipse Amoris teneo omnis vias."
+  },
+  {
+    "id": "p-969fab",
+    "offset": 4053,
+    "text": "ita est amor, ballista ut iacitur: nihil sic celere est neque volat;"
+  },
+  {
+    "id": "p-bd0c84",
+    "offset": 4123,
+    "text": "atque is mores hominum moros et morosos efficit:"
+  },
+  {
+    "id": "p-e2cf4c",
+    "offset": 4173,
+    "text": "minus placet magis quód suadetur, quod dissuadetur placet;"
+  },
+  {
+    "id": "p-45c999",
+    "offset": 4233,
+    "text": "quom inopiast, cupias, quando eius copiast, tum non velis;"
+  },
+  {
+    "id": "p-b5f715",
+    "offset": 4293,
+    "text": "insanum malumst in hospítium devorti ad Cupidinem."
+  },
+  {
+    "id": "p-2e9e46",
+    "offset": 4345,
+    "text": "sed te moneo hoc etiam atque etiam, ut reputes quid facere expetas."
+  },
+  {
+    "id": "p-e51507",
+    "offset": 4414,
+    "text": "si istuc, ut conare, facis † indicium tuom incendes genus;"
+  },
+  {
+    "id": "p-217dc8",
+    "offset": 4474,
+    "text": "tum igitur tibi aquae érit cupido, genus qui restinguas tuom, atque sí eris nactus, proinde ut corde amantes sunt cati— ne scintillam quidem relinques, genus qui congliscat tuom."
+  },
+  {
+    "id": "p-c8d5e2",
+    "offset": 4654,
+    "text": "Lesbonicvs:\nFacilest inventu: datur ignis, tametsi ab inimico petas."
+  },
+  {
+    "id": "p-07a43a",
+    "offset": 4724,
+    "text": "sed tu obiurgans me a peccatis rapis deteriorem in viam."
+  },
+  {
+    "id": "p-d3cb42",
+    "offset": 4782,
+    "text": "meam sororem tibi dem suades sine dote. aha, non convenit me, qui abusus sum tantam rem patriam, porro in ditiis esse agrumque habere, egere illam autem, ut me merito oderit."
+  },
+  {
+    "id": "p-dd5176",
+    "offset": 4958,
+    "text": "numquam erit alienis gravis qui suis se concinnat levem."
+  },
+  {
+    "id": "p-4435f0",
+    "offset": 5016,
+    "text": "sicut dixi, faciam: nolo te iactari diutius."
+  },
+  {
+    "id": "p-40f717",
+    "offset": 5062,
+    "text": "Lysiteles:"
+  },
+  {
+    "id": "p-ecc78b",
+    "offset": 5074,
+    "text": "Tanto meliust te sororis causa egestatem exsequi atque eum agrum me habere, quam te, tua qui toleres moenia?"
+  },
+  {
+    "id": "p-924181",
+    "offset": 5184,
+    "text": "Lesbonicvs:\nNolo ego mihi te tam prospicere, qui meam egestatem leves, sed ut inops infamis ne sim, ne mi hanc famam differant, me germanam meam sororem in concubinatum tibi, si sine dote dem, dedisse magis quam in matrimonium."
+  },
+  {
+    "id": "p-d22d9c",
+    "offset": 5413,
+    "text": "quis me improbior perhibeatur esse? haec famigeratio té honestet, me conlutulentet, si sine dote duxeris:"
+  },
+  {
+    "id": "p-abb361",
+    "offset": 5520,
+    "text": "tibi sit emolumentum honoris, mihi quod obiectent siet."
+  },
+  {
+    "id": "p-894446",
+    "offset": 5577,
+    "text": "Lysiteles:\nQuid? te dictatorem censes fore, si aps té agrum acceperim?"
+  },
+  {
+    "id": "p-c99b36",
+    "offset": 5649,
+    "text": "Lesbonicvs:"
+  },
+  {
+    "id": "p-aedcf8",
+    "offset": 5662,
+    "text": "Neque volo neque postulo neque censeo, verum tamen is est honos homini pudico, meminisse officium suom."
+  },
+  {
+    "id": "p-938fc1",
+    "offset": 5767,
+    "text": "Lysiteles:\nScio equidem te animatus ut sis; video, subolet, sentio:"
+  },
+  {
+    "id": "p-db73b3",
+    "offset": 5836,
+    "text": "id agis, ut, ubi adfinitatem inter nos nostram adstrinxeris atque eum agrum dederis nec quicquam hic tibi sit qui vitam colas, effugias ex urbe inanis; profugus patriam deseres, cognatos, adfinitatem, amicos factis nuptiis:"
+  },
+  {
+    "id": "p-4f9167",
+    "offset": 6061,
+    "text": "mea opera hinc proterritum te meaque avaritia autument."
+  },
+  {
+    "id": "p-6d02bd",
+    "offset": 6118,
+    "text": "id me commissurum ut patiar fieri, ne animum induxeris."
+  },
+  {
+    "id": "p-43fd1b",
+    "offset": 6175,
+    "text": "Stasimvs:\nNon enim póssum quin exclamem euge. euge, Lysiteles, πάλιν."
+  },
+  {
+    "id": "p-2b79aa",
+    "offset": 6246,
+    "text": "facile palmam habes: hic victust, vicit tua comoedia."
+  },
+  {
+    "id": "p-0d831c",
+    "offset": 6301,
+    "text": "hic agit magis ex argumento et versus melioris facit."
+  },
+  {
+    "id": "p-4d7303",
+    "offset": 6356,
+    "text": "etiam ob stultitiam tuam te † curis multabo mina."
+  },
+  {
+    "id": "p-d83cd0",
+    "offset": 6407,
+    "text": "Lesbonicvs:\nQuid tibi intérpellatio aut in consilium huc accessio est?"
+  },
+  {
+    "id": "p-4f8084",
+    "offset": 6479,
+    "text": "Stasimvs:\nEodem pacto, quo huc accessi, apscessero."
+  },
+  {
+    "id": "p-78a7fa",
+    "offset": 6532,
+    "text": "Lesbonicvs:\nI hac mecum domum,"
+  },
+  {
+    "id": "p-c360f5",
+    "offset": 6564,
+    "text": "Lysiteles, ibi de istis rebus plura fabulabimur."
+  },
+  {
+    "id": "p-2738b3",
+    "offset": 6614,
+    "text": "Lysiteles:\nNil ego in occulto agere soleo. meus ut animust, eloquar:"
+  },
+  {
+    "id": "p-cf6297",
+    "offset": 6684,
+    "text": "si mihi tua soror, ut ego aequom censeo, ita nuptum datur, sine dote, neque tu hinc abituru's abiturus es, quod meum erit id erit tuom;"
+  },
+  {
+    "id": "p-ce36c7",
+    "offset": 6821,
+    "text": "sin aliter animatus es, bene quod agas eveniat tibi, ego amicus numquam tibi ero alio pacto. sic sententia est.—"
+  },
+  {
+    "id": "p-a99107",
+    "offset": 6935,
+    "text": "Stasimvs:\nAbiit ille quidem. ecquid audis, Lysiteles? ego te volo."
+  },
+  {
+    "id": "p-b9aedb",
+    "offset": 7003,
+    "text": "hic quoque hinc ábiit. Stasime, restas solus. quid ego nunc agam, nisi uti sarcinam constringam et clupeum ad dorsum accommodem, fulmentas iubeam suppingi soccis? non sisti potest."
+  },
+  {
+    "id": "p-35daa0",
+    "offset": 7185,
+    "text": "video caculam militarem me futurum haud longius:"
+  },
+  {
+    "id": "p-e61f72",
+    "offset": 7235,
+    "text": "ad aliquem regem in saginam erus sése coniciet meus;"
+  },
+  {
+    "id": "p-7287db",
+    "offset": 7289,
+    "text": "credo ad summos bellatores acrem fugitorem fore et capturum spolia ibi illum quí ero adversus venerit."
+  },
+  {
+    "id": "p-479d4b",
+    "offset": 7393,
+    "text": "egomet autem quom extemplo arcum et pharetram et ságittas sumpsero, cassidem in caput, dormibo placide ín tabernaculo."
+  },
+  {
+    "id": "p-242565",
+    "offset": 7513,
+    "text": "ad forum ibo: nudius sextus quoi talentum mutuom dedi, reposcam, ut habeam, mecum quod feram, viaticum.—"
+  },
+  {
+    "id": "p-b90ffe",
+    "offset": 7619,
+    "text": "Megaronides:\nVt mihi rem narras, Callicles, nullo modo potest fíeri prosus quin dos detur virgini."
+  },
+  {
+    "id": "p-515522",
+    "offset": 7719,
+    "text": "Callicles:\nNamque hercle honeste fieri ferme non potest, ut eam perpetiar ire in matrimonium sine dote, quom eius rem penes me habeam domi."
+  },
+  {
+    "id": "p-8ec057",
+    "offset": 7860,
+    "text": "Megaronides:\nParata dos domist; nisi expectare vis, ut eam sine dote frater nuptum conlocet."
+  },
+  {
+    "id": "p-60a96a",
+    "offset": 7954,
+    "text": "post adeas tute Philtonem et dotem dare te ei dicas, facere id eius ob amícitiam patris."
+  },
+  {
+    "id": "p-1ee972",
+    "offset": 8044,
+    "text": "verum hoc ego vereor, ne istaec pollicitatio te in crimen populo ponat atque infamiam;"
+  },
+  {
+    "id": "p-a35679",
+    "offset": 8132,
+    "text": "non temere dicant te benignum virgini:"
+  },
+  {
+    "id": "p-8698f1",
+    "offset": 8172,
+    "text": "datam tibi dotem, ei quam dares, eius a patre, ex ea largiri te illi, neque ita ut sit data columem te sistere illi, et detraxe autument."
+  },
+  {
+    "id": "p-42b316",
+    "offset": 8311,
+    "text": "nunc si opperiri vis adventum Charmidi, perlongumst: huic ducendi interea abscesserit lubido; atque ea condicio huic vel primaria est."
+  },
+  {
+    "id": "p-a24b44",
+    "offset": 8447,
+    "text": "Callicles:\nNam hercle omnia istaec veniunt in mentem mihi."
+  },
+  {
+    "id": "p-5d6884",
+    "offset": 8507,
+    "text": "vide si hóc utibile magis atque in rem deputas, ut adeam Lesbonicum, edoceam ut res se habet."
+  },
+  {
+    "id": "p-f5ad44",
+    "offset": 8602,
+    "text": "sed ut égo nunc adulescenti thensaurum indicem indomito, pleno amoris ac lasciviae?"
+  },
+  {
+    "id": "p-9025f0",
+    "offset": 8687,
+    "text": "minime, minime hercle vero. nam certo scio, locum quoque illum omnem, ubi situst, comederit;"
+  },
+  {
+    "id": "p-fc6568",
+    "offset": 8781,
+    "text": "quem fodere metuo, sonitum ne ille exaudiat neu rem ipsam indaget, dotem dare si dixerim."
+  },
+  {
+    "id": "p-423e0e",
+    "offset": 8872,
+    "text": "Megaronides:\nQuo pacto ergo igitur clam dos depromi potest?"
+  },
+  {
+    "id": "p-5d6085",
+    "offset": 8933,
+    "text": "Callicles:\nDum occasio ei rei reperiatur, interim ab amico alicunde mutuom argentum rogem."
+  },
+  {
+    "id": "p-7fd369",
+    "offset": 9025,
+    "text": "Megaronides:\nPotin est ab amico alicunde exorari?"
+  },
+  {
+    "id": "p-fa1115",
+    "offset": 9076,
+    "text": "Callicles:\nPotest."
+  },
+  {
+    "id": "p-abd5bc",
+    "offset": 9096,
+    "text": "Megaronides:\nGerrae. ne tu illud verbum actutum inveneris:"
+  },
+  {
+    "id": "p-0890be",
+    "offset": 9156,
+    "text": "mihi quidem hercle non est quod dem mutuom."
+  },
+  {
+    "id": "p-d8e53e",
+    "offset": 9201,
+    "text": "Callicles:\nMalim hercle ut verum dicas, quam ut des mutuom."
+  },
+  {
+    "id": "p-89cba3",
+    "offset": 9262,
+    "text": "Megaronides:"
+  },
+  {
+    "id": "p-8e0603",
+    "offset": 9276,
+    "text": "Sed vide consilium, si placet."
+  },
+  {
+    "id": "p-bd6013",
+    "offset": 9308,
+    "text": "Callicles:\nQuid consilist?"
+  },
+  {
+    "id": "p-2b2c37",
+    "offset": 9336,
+    "text": "Megaronides:\nScitum, ut ego opinor, consilium inveni."
+  },
+  {
+    "id": "p-b391e6",
+    "offset": 9391,
+    "text": "Callicles:\nQuid est?"
+  },
+  {
+    "id": "p-a4a390",
+    "offset": 9413,
+    "text": "Megaronides:\nHomo cónducatur aliquis iam, quantum potest,"
+  },
+  {
+    "id": "p-0de81e",
+    "offset": 9472,
+    "text": "Callicles:"
+  },
+  {
+    "id": "p-25c9aa",
+    "offset": 9484,
+    "text": "Megaronides:\nignota facie, quae hic non visitata sit;"
+  },
+  {
+    "id": "p-65e3f9",
+    "offset": 9539,
+    "text": "mendacilocum aliquem"
+  },
+  {
+    "id": "p-0de81e",
+    "offset": 9561,
+    "text": "Callicles:"
+  },
+  {
+    "id": "p-1fa26f",
+    "offset": 9573,
+    "text": "Megaronides:\nfalsidicum, confidentem."
+  },
+  {
+    "id": "p-0176b7",
+    "offset": 9612,
+    "text": "Callicles:\nQuid tum postea?"
+  },
+  {
+    "id": "p-65aecb",
+    "offset": 9641,
+    "text": "Megaronides:\nIs homo exornetur graphice in peregrinum modum;"
+  },
+  {
+    "id": "p-4ac8cc",
+    "offset": 9703,
+    "text": "quasi ad adulescentem a patre ex Seleucia veniat, salutem ei nuntiet verbis patris:"
+  },
+  {
+    "id": "p-d59e35",
+    "offset": 9788,
+    "text": "illum bene gerere rem et valere et vivere, et eum rediturum actutum; ferat epistulas duas, éas nos consignemus, quasi sint a patre:"
+  },
+  {
+    "id": "p-ee43c6",
+    "offset": 9921,
+    "text": "det alteram illi, álteram dicat tibi dare sese velle."
+  },
+  {
+    "id": "p-cee10c",
+    "offset": 9976,
+    "text": "Callicles:\nPerge porro dicere."
+  },
+  {
+    "id": "p-89cba3",
+    "offset": 10008,
+    "text": "Megaronides:"
+  },
+  {
+    "id": "p-e0b26c",
+    "offset": 10022,
+    "text": "Seque aurum ferre virgini dotem a patre dicat patremque id iussisse aurum tibi dare."
+  },
+  {
+    "id": "p-e2f39f",
+    "offset": 10108,
+    "text": "tenes iam?"
+  },
+  {
+    "id": "p-8d9ac9",
+    "offset": 10120,
+    "text": "Callicles:\nPropemodo, atque ausculto perlubens."
+  },
+  {
+    "id": "p-31ea4c",
+    "offset": 10169,
+    "text": "Megaronides:\nTum tú igitur demum adulescenti aurum dabis, ubi erit locata virgo in matrimonium."
+  },
+  {
+    "id": "p-0de81e",
+    "offset": 10266,
+    "text": "Callicles:"
+  },
+  {
+    "id": "p-2bc3bf",
+    "offset": 10278,
+    "text": "Scite hercle sane."
+  },
+  {
+    "id": "p-99495b",
+    "offset": 10298,
+    "text": "Megaronides:\nHoc, ubi thensaurum effoderis, suspicionem ab adulescente amoveris:"
+  },
+  {
+    "id": "p-4d4d93",
+    "offset": 10380,
+    "text": "censebit aurum esse a patre allatum tibi, tu de thensauro sumes."
+  },
+  {
+    "id": "p-5621e1",
+    "offset": 10446,
+    "text": "Callicles:\nSatis scite et probe;"
+  },
+  {
+    "id": "p-fc0bfd",
+    "offset": 10480,
+    "text": "quamquam hoc me aetatis sycophantari pudet."
+  },
+  {
+    "id": "p-867e1f",
+    "offset": 10525,
+    "text": "sed epistulas quando opsignatas adferet, nonne arbitraris eum adulescentem anuli paterni signum novisse?"
+  },
+  {
+    "id": "p-56fc91",
+    "offset": 10631,
+    "text": "Megaronides:\nEtiam tu taces?"
+  },
+  {
+    "id": "p-15aae7",
+    "offset": 10661,
+    "text": "sescentae ad eam rem causae possunt conligi:"
+  },
+  {
+    "id": "p-626d8c",
+    "offset": 10707,
+    "text": "illum quem habuit perdidit, alium post fecit novom.† iam si opsignatas non feret, dici hoc potest, apud pórtitorem eas resignatas sibi inspectasque esse. in huius modi negotio diem sermone terere segnities merast:"
+  },
+  {
+    "id": "p-ab4688",
+    "offset": 10922,
+    "text": "quam vis sermones possunt longi texier."
+  },
+  {
+    "id": "p-fc1d70",
+    "offset": 10963,
+    "text": "abi ad thensaurum iam confestim clanculum, servos ancillas amove. atque audin?"
+  },
+  {
+    "id": "p-b391e6",
+    "offset": 11043,
+    "text": "Callicles:\nQuid est?"
+  },
+  {
+    "id": "p-54aef3",
+    "offset": 11065,
+    "text": "Megaronides:\nVxorem quoque eampse hanc rem uti celes face, nam pol tacere numquam quicquamst quod queat."
+  },
+  {
+    "id": "p-e531e7",
+    "offset": 11171,
+    "text": "quid nunc stas? quin tu hinc amoves et te moves?"
+  },
+  {
+    "id": "p-26b5e1",
+    "offset": 11221,
+    "text": "aperi, deprome inde auri ad hanc rem quod sat est, continuo operíto denuo; sed clanculum, sicut praecepi; cunctos exturba aedibus."
+  },
+  {
+    "id": "p-a3d670",
+    "offset": 11353,
+    "text": "Callicles:\nIta faciam."
+  },
+  {
+    "id": "p-15d234",
+    "offset": 11377,
+    "text": "Megaronides:\nAt énim nimis lóngo sermone utimur, diem conficimus quod iam properatost opus."
+  },
+  {
+    "id": "p-62a8a8",
+    "offset": 11470,
+    "text": "nihil est de signo quod vereare; me vide:"
+  },
+  {
+    "id": "p-52bf27",
+    "offset": 11513,
+    "text": "lepida est illa caúsa, ut commemoravi, dicere apud pórtitores esse inspectas. denique diei tempus non vides? quid illúm putas, natura illa atque ingenio? iam dudum ebriust."
+  },
+  {
+    "id": "p-697fb0",
+    "offset": 11687,
+    "text": "quidvis probare poterit; tum, quod maxumumst, adferre, non petere hinc se dicet."
+  },
+  {
+    "id": "p-df109c",
+    "offset": 11769,
+    "text": "Callicles:\nIam sat est."
+  },
+  {
+    "id": "p-fad91d",
+    "offset": 11794,
+    "text": "Megaronides:\nEgo sycophantam iam conduco de foro epistulasque iam consignabo duas, eumque húc ad adulescentem meditatum probe mittam."
+  },
+  {
+    "id": "p-c326f7",
+    "offset": 11929,
+    "text": "Callicles:\nEo ego igitur intro ad officium meum."
+  },
+  {
+    "id": "p-65eb94",
+    "offset": 11979,
+    "text": "tu istuc age.—"
+  },
+  {
+    "id": "p-f1853a",
+    "offset": 11995,
+    "text": "Megaronides:\nActum reddam nugacissume.—"
+  }
+]

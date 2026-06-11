@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-theseus-dd896f",
+  "work_title": "Theseus",
+  "chapter_number": 22,
+  "chapter_title": "Chapter 22",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "be3a9bbd-798b-5bde-8de6-5054cbd35799",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 274,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg001.perseus-grc2:22"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9feddab-c165-5e5a-882a-6137f1eb4e1b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 458,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg001.perseus-eng3:22"
+    }
+  ]
+}

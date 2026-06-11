@@ -1,0 +1,39 @@
+{
+  "work_slug": "ovid-epistulae-3d28c9",
+  "work_title": "Epistulae",
+  "chapter_number": 16,
+  "chapter_title": "Chapter 16",
+  "chapter_slug": "16",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "11196126-45ca-5ead-899e-de8dfae56d85",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2490,
+      "paragraph_count": 378,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi002.perseus-lat2:16"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aece6527-8321-5065-8914-8d6f063769ee",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4156,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi002.perseus-eng2:16"
+    }
+  ]
+}

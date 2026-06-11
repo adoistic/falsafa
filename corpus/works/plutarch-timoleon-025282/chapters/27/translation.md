@@ -1,0 +1,31 @@
+---
+work_id: "0252821e-3c4c-5bd3-b11c-8ad61c2e31a7"
+work_slug: "plutarch-timoleon-025282"
+work_title: Timoleon
+author_name: Plutarch
+chapter_number: 27
+chapter_title: Chapter 26
+chapter_slug: 27
+variant_id: "94dcc877-43cf-5f5b-94e1-26318a728477"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 269
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg018.perseus-eng2:27"
+translator: Bernadotte Perrin
+---
+
+As he was marching up a hill, from the crest of which they expected to look down upon the camp and the forces of the enemy, there met them by chance some mules laden with parsley;
+
+and it occurred to the soldiers that the sign was a bad one, because we are generally accustomed to wreath the tombs of the dead with parsley; and this has given rise to a proverb, namely, that one who is dangerously sick needs only parsley.
+
+Accordingly, wishing to free them from their superstitious fears and take away their despondency, Timoleon halted them on their march, and after discoursing otherwise as befitted the occasion, said also that the wreath for their victory had come into their hands in advance and of its own accord, the wreath with which Corinthians crown the victors at the Isthmian games, considering the garland of parsley to be traditionally sacred in their country.
+
+For at that time parsley was still used for wreaths at the Isthmian, as it is now at the Nemean games, and it was not long ago that the pine came into use instead.
+
+Accordingly, when Timoleon had addressed his soldiers, as I have said, he took of the parsley amid crowned himself with it first, and then the captains and the common soldiers about him did the same.
+
+Moreover, the soothsayers, observing two eagles coming up on the wing, one of which bore a serpent pierced with its talons, while the other flew with a loud and inspiring cry, pointed them out to the soldiers, and all betook themselves to invoking the gods with prayers.

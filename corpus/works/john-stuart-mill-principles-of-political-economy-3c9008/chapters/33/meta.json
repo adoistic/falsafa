@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 33,
+  "chapter_title": "CHAPTER II. OF DEMAND AND SUPPLY, IN THEIK RELATION TO VALUE.",
+  "chapter_slug": "33",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6c687303-fb51-52a2-a069-684ab62fcbee",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 3708,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

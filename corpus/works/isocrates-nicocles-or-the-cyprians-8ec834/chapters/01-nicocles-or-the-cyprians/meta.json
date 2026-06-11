@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-nicocles-or-the-cyprians-8ec834",
+  "work_title": "Nicocles or the Cyprians",
+  "chapter_number": 1,
+  "chapter_title": "Nicocles or the Cyprians",
+  "chapter_slug": "01-nicocles-or-the-cyprians",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0813c6c1-a3fb-5813-a8e4-20baef0207b5",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 3736,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg014.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eac98ca2-5ac8-5f0e-b432-13baf8222b98",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 5336,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg014.perseus-eng2"
+    }
+  ]
+}

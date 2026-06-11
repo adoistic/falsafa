@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-bis-accusatus-sive-tribunalia-4270d0",
+  "work_title": "Bis accusatus sive tribunalia",
+  "chapter_number": 1,
+  "chapter_title": "Bis accusatus sive tribunalia",
+  "chapter_slug": "01-bis-accusatus-sive-tribunalia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3f2030f9-e7cc-536d-9861-feb12af0f45e",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 5762,
+      "paragraph_count": 141,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg026.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a4d59b6a-3a9a-5b59-b48b-ca69cf183f16",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 7491,
+      "paragraph_count": 131,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg026.perseus-eng4"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+---
+work_id: "6262d942-d888-55cb-84ac-42634338c3dc"
+work_slug: "suetonius-tiberius-6262d9"
+work_title: Tiberius
+author_name: Suetonius
+chapter_number: 21
+chapter_title: Chapter 21
+chapter_slug: 21
+variant_id: "d34c8365-eede-54e4-9544-19bd215a10f0"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 557
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo013.perseus-eng2:21"
+translator: Perseus Digital Library
+---
+
+A law having been not long after carried by the consuls for his being appointed a colleague with Augustus in the administration of the provinces, and in taking the census, when that was finished he went into Illyricum. But being hastily recalled during his journey, he found Augustus alive indeed, but past all hopes of recovery, and was with him in private a whole day. I know, it is generally believed, that upon Tiberius 's quitting the room, after their private conference, those who were in waiting overheard Augustus say, "Ah! unhappy Roman people, to be ground by the jaws of such a slow devourer!" Nor am I ignorant of its being reported by some, that Augustus so openly and undisguisedly condemned the sourness of his temper, that sometimes, upon his coming in, he would break off any jocular conversation in which he was engaged; and that he was only prevailed upon by the importunity of his wife to adopt him; or actuated by the ambitious view of recommending his own memory from a comparison with such a successor. Yet I must hold to this opinion, that a prince so extremely circumspect and prudent as he was, did nothing rashly, especially in an affair of so great importance; but that, upon weighing the vices and virtues of Tiberius with each other, he judged the latter to preponderate; and this the rather since he swore publicly, in an assembly of the people, that "he adopted him for the public good." Besides, in several of his letters, he extols him as a consummate general, and the only security of the Roman people. Of such declarations I subjoin the following instances: "Farewell, my dear Tiberius, and may success attend you, whilst you are warring for me and the Muses. Farewell, my most dear, and (as I hope to prosper) most gallant man, and accomplished general." Again. "The disposition of your summer quarters? In truth, my dear Tiberius, I do not think, that amidst so many difficulties, and with an army so little disposed for action, any one could have behaved more prudently than you have done. All those likewise who were with you, acknowledge that this verse is applicable to you:" Unus homo nobis vigilando restituit rem.
+
+One man by vigilance restored the state.
+
+"Whenever," he says, "any thing happens that requires more than ordinary consideration, or I am out of humour upon any occasion, I still, by Hercules! long for my dear Tiberius; and those lines of Homer frequently occur to my thoughts:" τούτου γ' ἑσπομένοιο καὶ ἐκ πυρὸς
+
+ἄμφω νοστήσαιμεν, ἐπεὶ περίοιδε νοῆσαι.
+
+Bold from his prudence, I could ev'n aspire
+
+To dare with him the burning rage of fire. "When I hear and read that you are much impaired by the continued fatigues you undergo, may the gods confound me if my whole frame does not tremble! So I beg you to spare yourself, lest, if we should hear of your being ill, the news prove fatal both to me and your mother, and the Roman people should be in peril for the safety of the empire. It matters nothing whether I be well or no, if you be not well. I pray heaven preserve you for us, and bless you with health both now and ever, if the gods have any regard for the Roman people."

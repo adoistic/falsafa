@@ -1,0 +1,38 @@
+{
+  "work_slug": "ovid-ars-amatoria-36e617",
+  "work_title": "Ars Amatoria",
+  "chapter_number": 1,
+  "chapter_title": "Book 1",
+  "chapter_slug": "01",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "54b60ff6-e9ca-5b31-afff-365795fa6029",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4916,
+      "paragraph_count": 770,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi004.perseus-lat2:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52120300-e006-5337-8b26-0d1fd9ca6589",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7040,
+      "paragraph_count": 883,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0959.phi004.perseus-eng2:1"
+    }
+  ]
+}

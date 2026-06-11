@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-to-philip-i-510fb7",
+  "work_title": "To Philip, I",
+  "chapter_number": 1,
+  "chapter_title": "To Philip, I",
+  "chapter_slug": "01-to-philip-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cd38ca1b-e49a-59d0-8ebc-fdaf54ad488f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1278,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg027.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "059ae386-f54f-5679-8673-ad2efa7a3b8d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1898,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg027.perseus-eng2"
+    }
+  ]
+}

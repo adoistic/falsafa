@@ -1,0 +1,6836 @@
+{
+ "count": 829,
+ "works": [
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0004",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0004.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0006.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0006.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0006.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0006.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0006.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0006.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0006.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0006.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0006.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0006.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0006.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0006.tlg012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0006.tlg013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0006.tlg014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg015",
+   "eng_files": [
+    "tlg0006.tlg015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg016",
+   "eng_files": [
+    "tlg0006.tlg016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg017",
+   "eng_files": [
+    "tlg0006.tlg017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg018",
+   "eng_files": [
+    "tlg0006.tlg018.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0006",
+   "work": "tlg019",
+   "eng_files": [
+    "tlg0006.tlg019.perseus-eng3.xml",
+    "tlg0006.tlg019.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0007.tlg001.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0007.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0007.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0007.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0007.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0007.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0007.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0007.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0007.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0007.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0007.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0007.tlg012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0007.tlg013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0007.tlg014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg015",
+   "eng_files": [
+    "tlg0007.tlg015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg016",
+   "eng_files": [
+    "tlg0007.tlg016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg017",
+   "eng_files": [
+    "tlg0007.tlg017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg018",
+   "eng_files": [
+    "tlg0007.tlg018.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg019",
+   "eng_files": [
+    "tlg0007.tlg019.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg020",
+   "eng_files": [
+    "tlg0007.tlg020.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg021",
+   "eng_files": [
+    "tlg0007.tlg021.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg022",
+   "eng_files": [
+    "tlg0007.tlg022.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg023",
+   "eng_files": [
+    "tlg0007.tlg023.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg024",
+   "eng_files": [
+    "tlg0007.tlg024.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg025",
+   "eng_files": [
+    "tlg0007.tlg025.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg026",
+   "eng_files": [
+    "tlg0007.tlg026.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg027",
+   "eng_files": [
+    "tlg0007.tlg027.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg028",
+   "eng_files": [
+    "tlg0007.tlg028.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg029",
+   "eng_files": [
+    "tlg0007.tlg029.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg030",
+   "eng_files": [
+    "tlg0007.tlg030.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg031",
+   "eng_files": [
+    "tlg0007.tlg031.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg032",
+   "eng_files": [
+    "tlg0007.tlg032.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg033",
+   "eng_files": [
+    "tlg0007.tlg033.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg034",
+   "eng_files": [
+    "tlg0007.tlg034.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg035",
+   "eng_files": [
+    "tlg0007.tlg035.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg036",
+   "eng_files": [
+    "tlg0007.tlg036.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg037",
+   "eng_files": [
+    "tlg0007.tlg037.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg038",
+   "eng_files": [
+    "tlg0007.tlg038.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg039",
+   "eng_files": [
+    "tlg0007.tlg039.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg040",
+   "eng_files": [
+    "tlg0007.tlg040.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg041",
+   "eng_files": [
+    "tlg0007.tlg041.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg042",
+   "eng_files": [
+    "tlg0007.tlg042.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg043",
+   "eng_files": [
+    "tlg0007.tlg043.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg044",
+   "eng_files": [
+    "tlg0007.tlg044.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg045",
+   "eng_files": [
+    "tlg0007.tlg045.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg046",
+   "eng_files": [
+    "tlg0007.tlg046.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg047",
+   "eng_files": [
+    "tlg0007.tlg047.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg048",
+   "eng_files": [
+    "tlg0007.tlg048.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg049",
+   "eng_files": [
+    "tlg0007.tlg049.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg050",
+   "eng_files": [
+    "tlg0007.tlg050.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg051",
+   "eng_files": [
+    "tlg0007.tlg051.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg052",
+   "eng_files": [
+    "tlg0007.tlg052.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg053",
+   "eng_files": [
+    "tlg0007.tlg053.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg054",
+   "eng_files": [
+    "tlg0007.tlg054.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg055",
+   "eng_files": [
+    "tlg0007.tlg055.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg056",
+   "eng_files": [
+    "tlg0007.tlg056.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg057",
+   "eng_files": [
+    "tlg0007.tlg057.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg058",
+   "eng_files": [
+    "tlg0007.tlg058.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg059",
+   "eng_files": [
+    "tlg0007.tlg059.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg060",
+   "eng_files": [
+    "tlg0007.tlg060.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg061",
+   "eng_files": [
+    "tlg0007.tlg061.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg062",
+   "eng_files": [
+    "tlg0007.tlg062.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg063",
+   "eng_files": [
+    "tlg0007.tlg063.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg064",
+   "eng_files": [
+    "tlg0007.tlg064.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg065",
+   "eng_files": [
+    "tlg0007.tlg065.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg066",
+   "eng_files": [
+    "tlg0007.tlg066.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg067",
+   "eng_files": [
+    "tlg0007.tlg067.perseus-eng3.xml",
+    "tlg0007.tlg067.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg068",
+   "eng_files": [
+    "tlg0007.tlg068.perseus-eng3.xml",
+    "tlg0007.tlg068.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg069",
+   "eng_files": [
+    "tlg0007.tlg069.perseus-eng3.xml",
+    "tlg0007.tlg069.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg070",
+   "eng_files": [
+    "tlg0007.tlg070.perseus-eng3.xml",
+    "tlg0007.tlg070.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg071",
+   "eng_files": [
+    "tlg0007.tlg071.perseus-eng3.xml",
+    "tlg0007.tlg071.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg072",
+   "eng_files": [
+    "tlg0007.tlg072.perseus-eng3.xml",
+    "tlg0007.tlg072.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg073",
+   "eng_files": [
+    "tlg0007.tlg073.perseus-eng3.xml",
+    "tlg0007.tlg073.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg074",
+   "eng_files": [
+    "tlg0007.tlg074.perseus-eng3.xml",
+    "tlg0007.tlg074.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg075",
+   "eng_files": [
+    "tlg0007.tlg075.perseus-eng3.xml",
+    "tlg0007.tlg075.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg076",
+   "eng_files": [
+    "tlg0007.tlg076.perseus-eng3.xml",
+    "tlg0007.tlg076.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg077",
+   "eng_files": [
+    "tlg0007.tlg077.perseus-eng3.xml",
+    "tlg0007.tlg077.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg078",
+   "eng_files": [
+    "tlg0007.tlg078.perseus-eng3.xml",
+    "tlg0007.tlg078.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg079",
+   "eng_files": [
+    "tlg0007.tlg079.perseus-eng3.xml",
+    "tlg0007.tlg079.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg080",
+   "eng_files": [
+    "tlg0007.tlg080.perseus-eng3.xml",
+    "tlg0007.tlg080.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg081",
+   "eng_files": [
+    "tlg0007.tlg081.perseus-eng3.xml",
+    "tlg0007.tlg081.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg082",
+   "eng_files": [
+    "tlg0007.tlg082.perseus-eng3.xml",
+    "tlg0007.tlg082.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg082a",
+   "eng_files": [
+    "tlg0007.tlg082a.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg082b",
+   "eng_files": [
+    "tlg0007.tlg082b.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg083",
+   "eng_files": [
+    "tlg0007.tlg083.perseus-eng3.xml",
+    "tlg0007.tlg083.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg084a",
+   "eng_files": [
+    "tlg0007.tlg084a.perseus-eng3.xml",
+    "tlg0007.tlg084a.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg084b",
+   "eng_files": [
+    "tlg0007.tlg084b.perseus-eng3.xml",
+    "tlg0007.tlg084b.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg085",
+   "eng_files": [
+    "tlg0007.tlg085.perseus-eng3.xml",
+    "tlg0007.tlg085.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg086",
+   "eng_files": [
+    "tlg0007.tlg086.perseus-eng3.xml",
+    "tlg0007.tlg086.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg087",
+   "eng_files": [
+    "tlg0007.tlg087.perseus-eng3.xml",
+    "tlg0007.tlg087.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg088",
+   "eng_files": [
+    "tlg0007.tlg088.perseus-eng3.xml",
+    "tlg0007.tlg088.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg089",
+   "eng_files": [
+    "tlg0007.tlg089.perseus-eng3.xml",
+    "tlg0007.tlg089.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg090",
+   "eng_files": [
+    "tlg0007.tlg090.perseus-eng3.xml",
+    "tlg0007.tlg090.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg091",
+   "eng_files": [
+    "tlg0007.tlg091.perseus-eng3.xml",
+    "tlg0007.tlg091.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg092",
+   "eng_files": [
+    "tlg0007.tlg092.perseus-eng3.xml",
+    "tlg0007.tlg092.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg093",
+   "eng_files": [
+    "tlg0007.tlg093.perseus-eng3.xml",
+    "tlg0007.tlg093.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg094",
+   "eng_files": [
+    "tlg0007.tlg094.perseus-eng3.xml",
+    "tlg0007.tlg094.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg095",
+   "eng_files": [
+    "tlg0007.tlg095.perseus-eng3.xml",
+    "tlg0007.tlg095.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg096",
+   "eng_files": [
+    "tlg0007.tlg096.perseus-eng3.xml",
+    "tlg0007.tlg096.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg097",
+   "eng_files": [
+    "tlg0007.tlg097.perseus-eng3.xml",
+    "tlg0007.tlg097.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg098",
+   "eng_files": [
+    "tlg0007.tlg098.perseus-eng3.xml",
+    "tlg0007.tlg098.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg099",
+   "eng_files": [
+    "tlg0007.tlg099.perseus-eng3.xml",
+    "tlg0007.tlg099.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg100",
+   "eng_files": [
+    "tlg0007.tlg100.perseus-eng3.xml",
+    "tlg0007.tlg100.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg101",
+   "eng_files": [
+    "tlg0007.tlg101.perseus-eng3.xml",
+    "tlg0007.tlg101.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg102",
+   "eng_files": [
+    "tlg0007.tlg102.perseus-eng3.xml",
+    "tlg0007.tlg102.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg103",
+   "eng_files": [
+    "tlg0007.tlg103.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg104",
+   "eng_files": [
+    "tlg0007.tlg104.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg105",
+   "eng_files": [
+    "tlg0007.tlg105.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg106",
+   "eng_files": [
+    "tlg0007.tlg106.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg107",
+   "eng_files": [
+    "tlg0007.tlg107.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg108",
+   "eng_files": [
+    "tlg0007.tlg108.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg109",
+   "eng_files": [
+    "tlg0007.tlg109.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg110",
+   "eng_files": [
+    "tlg0007.tlg110.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg111",
+   "eng_files": [
+    "tlg0007.tlg111.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg112",
+   "eng_files": [
+    "tlg0007.tlg112.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg113",
+   "eng_files": [
+    "tlg0007.tlg113.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg114",
+   "eng_files": [
+    "tlg0007.tlg114.perseus-eng3.xml",
+    "tlg0007.tlg114.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg115",
+   "eng_files": [
+    "tlg0007.tlg115.perseus-eng3.xml",
+    "tlg0007.tlg115.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg116",
+   "eng_files": [
+    "tlg0007.tlg116.perseus-eng3.xml",
+    "tlg0007.tlg116.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg117",
+   "eng_files": [
+    "tlg0007.tlg117.perseus-eng3.xml",
+    "tlg0007.tlg117.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg118",
+   "eng_files": [
+    "tlg0007.tlg118.perseus-eng3.xml",
+    "tlg0007.tlg118.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg119",
+   "eng_files": [
+    "tlg0007.tlg119.perseus-eng3.xml",
+    "tlg0007.tlg119.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg120",
+   "eng_files": [
+    "tlg0007.tlg120.perseus-eng3.xml",
+    "tlg0007.tlg120.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg121",
+   "eng_files": [
+    "tlg0007.tlg121.perseus-eng3.xml",
+    "tlg0007.tlg121.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg122",
+   "eng_files": [
+    "tlg0007.tlg122.perseus-eng3.xml",
+    "tlg0007.tlg122.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg123",
+   "eng_files": [
+    "tlg0007.tlg123.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg125",
+   "eng_files": [
+    "tlg0007.tlg125.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg126",
+   "eng_files": [
+    "tlg0007.tlg126.perseus-eng3.xml",
+    "tlg0007.tlg126.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg127",
+   "eng_files": [
+    "tlg0007.tlg127.perseus-eng3.xml",
+    "tlg0007.tlg127.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg128",
+   "eng_files": [
+    "tlg0007.tlg128.perseus-eng3.xml",
+    "tlg0007.tlg128.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg129",
+   "eng_files": [
+    "tlg0007.tlg129.perseus-eng3.xml",
+    "tlg0007.tlg129.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg130",
+   "eng_files": [
+    "tlg0007.tlg130.perseus-eng3.xml",
+    "tlg0007.tlg130.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg131",
+   "eng_files": [
+    "tlg0007.tlg131.perseus-eng3.xml",
+    "tlg0007.tlg131.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg132",
+   "eng_files": [
+    "tlg0007.tlg132.perseus-eng3.xml",
+    "tlg0007.tlg132.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg133",
+   "eng_files": [
+    "tlg0007.tlg133.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg134",
+   "eng_files": [
+    "tlg0007.tlg134.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg136",
+   "eng_files": [
+    "tlg0007.tlg136.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg137",
+   "eng_files": [
+    "tlg0007.tlg137.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg138",
+   "eng_files": [
+    "tlg0007.tlg138.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg139",
+   "eng_files": [
+    "tlg0007.tlg139.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg140",
+   "eng_files": [
+    "tlg0007.tlg140.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0007",
+   "work": "tlg141",
+   "eng_files": [
+    "tlg0007.tlg141.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0008",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0008.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0010.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0010.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0010.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0010.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0010.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0010.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0010.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0010.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0010.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0010.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0010.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0010.tlg012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0010.tlg013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0010.tlg014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg015",
+   "eng_files": [
+    "tlg0010.tlg015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg016",
+   "eng_files": [
+    "tlg0010.tlg016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg017",
+   "eng_files": [
+    "tlg0010.tlg017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg018",
+   "eng_files": [
+    "tlg0010.tlg018.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg019",
+   "eng_files": [
+    "tlg0010.tlg019.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg020",
+   "eng_files": [
+    "tlg0010.tlg020.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg021",
+   "eng_files": [
+    "tlg0010.tlg021.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg022",
+   "eng_files": [
+    "tlg0010.tlg022.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg023",
+   "eng_files": [
+    "tlg0010.tlg023.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg024",
+   "eng_files": [
+    "tlg0010.tlg024.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg025",
+   "eng_files": [
+    "tlg0010.tlg025.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg026",
+   "eng_files": [
+    "tlg0010.tlg026.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg027",
+   "eng_files": [
+    "tlg0010.tlg027.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg028",
+   "eng_files": [
+    "tlg0010.tlg028.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg029",
+   "eng_files": [
+    "tlg0010.tlg029.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0010",
+   "work": "tlg030",
+   "eng_files": [
+    "tlg0010.tlg030.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0011",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0011.tlg001.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0011",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0011.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0011",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0011.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0011",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0011.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0011",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0011.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0011",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0011.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0011",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0011.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0011",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0011.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0012",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0012.tlg003.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0013.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0013.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0013.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0013.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0013.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0013.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0013.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0013.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0013.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0013.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0013.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0013.tlg012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0013.tlg013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0013.tlg014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg015",
+   "eng_files": [
+    "tlg0013.tlg015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg016",
+   "eng_files": [
+    "tlg0013.tlg016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg017",
+   "eng_files": [
+    "tlg0013.tlg017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg018",
+   "eng_files": [
+    "tlg0013.tlg018.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg019",
+   "eng_files": [
+    "tlg0013.tlg019.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg020",
+   "eng_files": [
+    "tlg0013.tlg020.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg021",
+   "eng_files": [
+    "tlg0013.tlg021.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg022",
+   "eng_files": [
+    "tlg0013.tlg022.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg023",
+   "eng_files": [
+    "tlg0013.tlg023.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg024",
+   "eng_files": [
+    "tlg0013.tlg024.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg025",
+   "eng_files": [
+    "tlg0013.tlg025.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg026",
+   "eng_files": [
+    "tlg0013.tlg026.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg027",
+   "eng_files": [
+    "tlg0013.tlg027.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg028",
+   "eng_files": [
+    "tlg0013.tlg028.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg029",
+   "eng_files": [
+    "tlg0013.tlg029.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg030",
+   "eng_files": [
+    "tlg0013.tlg030.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg031",
+   "eng_files": [
+    "tlg0013.tlg031.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg032",
+   "eng_files": [
+    "tlg0013.tlg032.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0013",
+   "work": "tlg033",
+   "eng_files": [
+    "tlg0013.tlg033.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0014.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0014.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0014.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0014.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0014.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0014.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0014.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0014.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0014.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0014.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0014.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0014.tlg012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0014.tlg013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0014.tlg014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg015",
+   "eng_files": [
+    "tlg0014.tlg015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg016",
+   "eng_files": [
+    "tlg0014.tlg016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg017",
+   "eng_files": [
+    "tlg0014.tlg017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg018",
+   "eng_files": [
+    "tlg0014.tlg018.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg019",
+   "eng_files": [
+    "tlg0014.tlg019.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg020",
+   "eng_files": [
+    "tlg0014.tlg020.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg021",
+   "eng_files": [
+    "tlg0014.tlg021.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg022",
+   "eng_files": [
+    "tlg0014.tlg022.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg023",
+   "eng_files": [
+    "tlg0014.tlg023.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg024",
+   "eng_files": [
+    "tlg0014.tlg024.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg025",
+   "eng_files": [
+    "tlg0014.tlg025.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg026",
+   "eng_files": [
+    "tlg0014.tlg026.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg027",
+   "eng_files": [
+    "tlg0014.tlg027.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg028",
+   "eng_files": [
+    "tlg0014.tlg028.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg029",
+   "eng_files": [
+    "tlg0014.tlg029.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg030",
+   "eng_files": [
+    "tlg0014.tlg030.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg031",
+   "eng_files": [
+    "tlg0014.tlg031.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg032",
+   "eng_files": [
+    "tlg0014.tlg032.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg033",
+   "eng_files": [
+    "tlg0014.tlg033.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg034",
+   "eng_files": [
+    "tlg0014.tlg034.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg035",
+   "eng_files": [
+    "tlg0014.tlg035.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg036",
+   "eng_files": [
+    "tlg0014.tlg036.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg037",
+   "eng_files": [
+    "tlg0014.tlg037.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg038",
+   "eng_files": [
+    "tlg0014.tlg038.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg039",
+   "eng_files": [
+    "tlg0014.tlg039.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg040",
+   "eng_files": [
+    "tlg0014.tlg040.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg041",
+   "eng_files": [
+    "tlg0014.tlg041.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg042",
+   "eng_files": [
+    "tlg0014.tlg042.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg043",
+   "eng_files": [
+    "tlg0014.tlg043.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg044",
+   "eng_files": [
+    "tlg0014.tlg044.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg045",
+   "eng_files": [
+    "tlg0014.tlg045.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg046",
+   "eng_files": [
+    "tlg0014.tlg046.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg047",
+   "eng_files": [
+    "tlg0014.tlg047.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg048",
+   "eng_files": [
+    "tlg0014.tlg048.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg049",
+   "eng_files": [
+    "tlg0014.tlg049.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg050",
+   "eng_files": [
+    "tlg0014.tlg050.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg051",
+   "eng_files": [
+    "tlg0014.tlg051.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg052",
+   "eng_files": [
+    "tlg0014.tlg052.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg053",
+   "eng_files": [
+    "tlg0014.tlg053.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg054",
+   "eng_files": [
+    "tlg0014.tlg054.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg055",
+   "eng_files": [
+    "tlg0014.tlg055.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg056",
+   "eng_files": [
+    "tlg0014.tlg056.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg057",
+   "eng_files": [
+    "tlg0014.tlg057.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg058",
+   "eng_files": [
+    "tlg0014.tlg058.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg059",
+   "eng_files": [
+    "tlg0014.tlg059.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg060",
+   "eng_files": [
+    "tlg0014.tlg060.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg061",
+   "eng_files": [
+    "tlg0014.tlg061.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg062",
+   "eng_files": [
+    "tlg0014.tlg062.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0014",
+   "work": "tlg063",
+   "eng_files": [
+    "tlg0014.tlg063.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0017",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0017.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0017",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0017.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0017",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0017.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0017",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0017.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0017",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0017.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0017",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0017.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0017",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0017.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0017",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0017.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0017",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0017.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0017",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0017.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0017",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0017.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0017",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0017.tlg012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0019",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0019.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0019",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0019.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0020",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0020.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0020",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0020.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0020",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0020.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0026",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0026.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0026",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0026.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0026",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0026.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0027",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0027.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0027",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0027.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0027",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0027.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0027",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0027.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0028",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0028.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0028",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0028.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0028",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0028.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0028",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0028.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0028",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0028.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0028",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0028.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0029",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0029.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0029",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0029.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0029",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0029.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0030",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0030.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0030",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0030.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0030",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0030.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0030",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0030.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0030",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0030.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0030",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0030.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0031.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0031.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0031.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0031.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0031.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0031.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0031.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0031.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0031.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0031.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0031.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0031.tlg012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0031.tlg013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0031.tlg014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg015",
+   "eng_files": [
+    "tlg0031.tlg015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg016",
+   "eng_files": [
+    "tlg0031.tlg016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg017",
+   "eng_files": [
+    "tlg0031.tlg017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg018",
+   "eng_files": [
+    "tlg0031.tlg018.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg019",
+   "eng_files": [
+    "tlg0031.tlg019.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg020",
+   "eng_files": [
+    "tlg0031.tlg020.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg021",
+   "eng_files": [
+    "tlg0031.tlg021.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg022",
+   "eng_files": [
+    "tlg0031.tlg022.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg023",
+   "eng_files": [
+    "tlg0031.tlg023.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg024",
+   "eng_files": [
+    "tlg0031.tlg024.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg025",
+   "eng_files": [
+    "tlg0031.tlg025.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg026",
+   "eng_files": [
+    "tlg0031.tlg026.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0031",
+   "work": "tlg027",
+   "eng_files": [
+    "tlg0031.tlg027.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0032.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0032.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0032.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0032.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0032.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0032.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0032.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0032.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0032.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0032.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0032.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0032.tlg012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0032.tlg013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0032",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0032.tlg014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0033",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0033.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0033",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0033.tlg002.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0033",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0033.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0033",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0033.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0034",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0034.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0057",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0057.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0059.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0059.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0059.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0059.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0059.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0059.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0059.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0059.tlg012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0059.tlg013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0059.tlg014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg015",
+   "eng_files": [
+    "tlg0059.tlg015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg016",
+   "eng_files": [
+    "tlg0059.tlg016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg017",
+   "eng_files": [
+    "tlg0059.tlg017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg018",
+   "eng_files": [
+    "tlg0059.tlg018.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg019",
+   "eng_files": [
+    "tlg0059.tlg019.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg020",
+   "eng_files": [
+    "tlg0059.tlg020.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg021",
+   "eng_files": [
+    "tlg0059.tlg021.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg022",
+   "eng_files": [
+    "tlg0059.tlg022.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg023",
+   "eng_files": [
+    "tlg0059.tlg023.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg024",
+   "eng_files": [
+    "tlg0059.tlg024.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg025",
+   "eng_files": [
+    "tlg0059.tlg025.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg026",
+   "eng_files": [
+    "tlg0059.tlg026.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg027",
+   "eng_files": [
+    "tlg0059.tlg027.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg028",
+   "eng_files": [
+    "tlg0059.tlg028.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg029",
+   "eng_files": [
+    "tlg0059.tlg029.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg031",
+   "eng_files": [
+    "tlg0059.tlg031.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg032",
+   "eng_files": [
+    "tlg0059.tlg032.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg033",
+   "eng_files": [
+    "tlg0059.tlg033.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg034",
+   "eng_files": [
+    "tlg0059.tlg034.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg035",
+   "eng_files": [
+    "tlg0059.tlg035.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0059",
+   "work": "tlg036",
+   "eng_files": [
+    "tlg0059.tlg036.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0061",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0061.tlg001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0061",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0061.tlg003.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0061",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0061.tlg004.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0061",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0061.tlg006.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0062.tlg001.perseus-eng2.xml",
+    "tlg0062.tlg001.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0062.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0062.tlg003.perseus-eng2.xml",
+    "tlg0062.tlg003.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0062.tlg004.perseus-eng2.xml",
+    "tlg0062.tlg004.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0062.tlg005.perseus-eng2.xml",
+    "tlg0062.tlg005.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0062.tlg006.perseus-eng2.xml",
+    "tlg0062.tlg006.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0062.tlg007.perseus-eng2.xml",
+    "tlg0062.tlg007.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0062.tlg008.perseus-eng2.xml",
+    "tlg0062.tlg008.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0062.tlg009.perseus-eng2.xml",
+    "tlg0062.tlg009.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0062.tlg010.perseus-eng2.xml",
+    "tlg0062.tlg010.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0062.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0062.tlg012.perseus-eng2.xml",
+    "tlg0062.tlg012.perseus-eng4.xml",
+    "tlg0062.tlg012.perseus-eng5.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0062.tlg013.perseus-eng2.xml",
+    "tlg0062.tlg013.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0062.tlg014.perseus-eng2.xml",
+    "tlg0062.tlg014.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg015",
+   "eng_files": [
+    "tlg0062.tlg015.perseus-eng2.xml",
+    "tlg0062.tlg015.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg016",
+   "eng_files": [
+    "tlg0062.tlg016.perseus-eng2.xml",
+    "tlg0062.tlg016.perseus-eng4.xml",
+    "tlg0062.tlg016.perseus-eng5.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg017",
+   "eng_files": [
+    "tlg0062.tlg017.perseus-eng2.xml",
+    "tlg0062.tlg017.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg018",
+   "eng_files": [
+    "tlg0062.tlg018.perseus-eng2.xml",
+    "tlg0062.tlg018.perseus-eng4.xml",
+    "tlg0062.tlg018.perseus-eng5.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg019",
+   "eng_files": [
+    "tlg0062.tlg019.perseus-eng2.xml",
+    "tlg0062.tlg019.perseus-eng4.xml",
+    "tlg0062.tlg019.perseus-eng5.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg020",
+   "eng_files": [
+    "tlg0062.tlg020.perseus-eng2.xml",
+    "tlg0062.tlg020.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg021",
+   "eng_files": [
+    "tlg0062.tlg021.perseus-eng2.xml",
+    "tlg0062.tlg021.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg022",
+   "eng_files": [
+    "tlg0062.tlg022.perseus-eng2.xml",
+    "tlg0062.tlg022.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg023",
+   "eng_files": [
+    "tlg0062.tlg023.perseus-eng2.xml",
+    "tlg0062.tlg023.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg024",
+   "eng_files": [
+    "tlg0062.tlg024.perseus-eng2.xml",
+    "tlg0062.tlg024.perseus-eng4.xml",
+    "tlg0062.tlg024.perseus-eng5.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg025",
+   "eng_files": [
+    "tlg0062.tlg025.perseus-eng2.xml",
+    "tlg0062.tlg025.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg026",
+   "eng_files": [
+    "tlg0062.tlg026.perseus-eng2.xml",
+    "tlg0062.tlg026.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg027",
+   "eng_files": [
+    "tlg0062.tlg027.perseus-eng2.xml",
+    "tlg0062.tlg027.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg028",
+   "eng_files": [
+    "tlg0062.tlg028.perseus-eng2.xml",
+    "tlg0062.tlg028.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg029",
+   "eng_files": [
+    "tlg0062.tlg029.perseus-eng2.xml",
+    "tlg0062.tlg029.perseus-eng4.xml",
+    "tlg0062.tlg029.perseus-eng5.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg030",
+   "eng_files": [
+    "tlg0062.tlg030.perseus-eng2.xml",
+    "tlg0062.tlg030.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg031",
+   "eng_files": [
+    "tlg0062.tlg031.perseus-eng2.xml",
+    "tlg0062.tlg031.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg032",
+   "eng_files": [
+    "tlg0062.tlg032.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg033",
+   "eng_files": [
+    "tlg0062.tlg033.perseus-eng2.xml",
+    "tlg0062.tlg033.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg034",
+   "eng_files": [
+    "tlg0062.tlg034.perseus-eng2.xml",
+    "tlg0062.tlg034.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg035",
+   "eng_files": [
+    "tlg0062.tlg035.perseus-eng2.xml",
+    "tlg0062.tlg035.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg036",
+   "eng_files": [
+    "tlg0062.tlg036.perseus-eng2.xml",
+    "tlg0062.tlg036.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg037",
+   "eng_files": [
+    "tlg0062.tlg037.perseus-eng2.xml",
+    "tlg0062.tlg037.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg038",
+   "eng_files": [
+    "tlg0062.tlg038.perseus-eng2.xml",
+    "tlg0062.tlg038.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg039",
+   "eng_files": [
+    "tlg0062.tlg039.perseus-eng2.xml",
+    "tlg0062.tlg039.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg040",
+   "eng_files": [
+    "tlg0062.tlg040.perseus-eng2.xml",
+    "tlg0062.tlg040.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg041",
+   "eng_files": [
+    "tlg0062.tlg041.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg042",
+   "eng_files": [
+    "tlg0062.tlg042.perseus-eng2.xml",
+    "tlg0062.tlg042.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg043",
+   "eng_files": [
+    "tlg0062.tlg043.perseus-eng2.xml",
+    "tlg0062.tlg043.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg044",
+   "eng_files": [
+    "tlg0062.tlg044.perseus-eng2.xml",
+    "tlg0062.tlg044.perseus-eng4.xml",
+    "tlg0062.tlg044.perseus-eng5.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg045",
+   "eng_files": [
+    "tlg0062.tlg045.perseus-eng2.xml",
+    "tlg0062.tlg045.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg046",
+   "eng_files": [
+    "tlg0062.tlg046.perseus-eng2.xml",
+    "tlg0062.tlg046.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg047",
+   "eng_files": [
+    "tlg0062.tlg047.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg048",
+   "eng_files": [
+    "tlg0062.tlg048.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg049",
+   "eng_files": [
+    "tlg0062.tlg049.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg050",
+   "eng_files": [
+    "tlg0062.tlg050.perseus-eng2.xml",
+    "tlg0062.tlg050.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg051",
+   "eng_files": [
+    "tlg0062.tlg051.perseus-eng2.xml",
+    "tlg0062.tlg051.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg052",
+   "eng_files": [
+    "tlg0062.tlg052.perseus-eng2.xml",
+    "tlg0062.tlg052.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg053",
+   "eng_files": [
+    "tlg0062.tlg053.perseus-eng3.xml",
+    "tlg0062.tlg053.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg054",
+   "eng_files": [
+    "tlg0062.tlg054.perseus-eng3.xml",
+    "tlg0062.tlg054.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg055",
+   "eng_files": [
+    "tlg0062.tlg055.perseus-eng3.xml",
+    "tlg0062.tlg055.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg056",
+   "eng_files": [
+    "tlg0062.tlg056.perseus-eng3.xml",
+    "tlg0062.tlg056.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg057",
+   "eng_files": [
+    "tlg0062.tlg057.perseus-eng3.xml",
+    "tlg0062.tlg057.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg058",
+   "eng_files": [
+    "tlg0062.tlg058.perseus-eng3.xml",
+    "tlg0062.tlg058.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg059",
+   "eng_files": [
+    "tlg0062.tlg059.perseus-eng3.xml",
+    "tlg0062.tlg059.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg060",
+   "eng_files": [
+    "tlg0062.tlg060.perseus-eng3.xml",
+    "tlg0062.tlg060.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg061",
+   "eng_files": [
+    "tlg0062.tlg061.perseus-eng3.xml",
+    "tlg0062.tlg061.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg062",
+   "eng_files": [
+    "tlg0062.tlg062.perseus-eng3.xml",
+    "tlg0062.tlg062.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg063",
+   "eng_files": [
+    "tlg0062.tlg063.perseus-eng3.xml",
+    "tlg0062.tlg063.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg064",
+   "eng_files": [
+    "tlg0062.tlg064.perseus-eng3.xml",
+    "tlg0062.tlg064.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg065",
+   "eng_files": [
+    "tlg0062.tlg065.perseus-eng3.xml",
+    "tlg0062.tlg065.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg066",
+   "eng_files": [
+    "tlg0062.tlg066.perseus-eng3.xml",
+    "tlg0062.tlg066.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg067",
+   "eng_files": [
+    "tlg0062.tlg067.perseus-eng3.xml",
+    "tlg0062.tlg067.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg068",
+   "eng_files": [
+    "tlg0062.tlg068.perseus-eng3.xml",
+    "tlg0062.tlg068.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg069",
+   "eng_files": [
+    "tlg0062.tlg069.perseus-eng3.xml",
+    "tlg0062.tlg069.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0062",
+   "work": "tlg070",
+   "eng_files": [
+    "tlg0062.tlg070.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0085",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0085.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0085",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0085.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0085",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0085.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0085",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0085.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0085",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0085.tlg005.perseus-eng3.xml",
+    "tlg0085.tlg005.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0085",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0085.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0085",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0085.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0086",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0086.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0086",
+   "work": "tlg025",
+   "eng_files": [
+    "tlg0086.tlg025.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0086",
+   "work": "tlg029",
+   "eng_files": [
+    "tlg0086.tlg029.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0086",
+   "work": "tlg034",
+   "eng_files": [
+    "tlg0086.tlg034.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0086",
+   "work": "tlg035",
+   "eng_files": [
+    "tlg0086.tlg035.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0086",
+   "work": "tlg038",
+   "eng_files": [
+    "tlg0086.tlg038.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0094",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0094.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0094",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0094.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0094",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0094.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0099",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0099.tlg001.perseus-eng3.xml",
+    "tlg0099.tlg001.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0199",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0199.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0199",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0199.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0525",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0525.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0526",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0526.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0526",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0526.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0526",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0526.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0526",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0526.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0527.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0527.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0527.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0527.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0527.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0527.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0527.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0527.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0527.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0527.tlg012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0527.tlg013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0527.tlg014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg015",
+   "eng_files": [
+    "tlg0527.tlg015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg016",
+   "eng_files": [
+    "tlg0527.tlg016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg018",
+   "eng_files": [
+    "tlg0527.tlg018.perseus-eng3.xml",
+    "tlg0527.tlg018.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg019",
+   "eng_files": [
+    "tlg0527.tlg019.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg027",
+   "eng_files": [
+    "tlg0527.tlg027.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg029",
+   "eng_files": [
+    "tlg0527.tlg029.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg030",
+   "eng_files": [
+    "tlg0527.tlg030.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg031",
+   "eng_files": [
+    "tlg0527.tlg031.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg032",
+   "eng_files": [
+    "tlg0527.tlg032.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg036",
+   "eng_files": [
+    "tlg0527.tlg036.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg037",
+   "eng_files": [
+    "tlg0527.tlg037.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg038",
+   "eng_files": [
+    "tlg0527.tlg038.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg039",
+   "eng_files": [
+    "tlg0527.tlg039.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg040",
+   "eng_files": [
+    "tlg0527.tlg040.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg041",
+   "eng_files": [
+    "tlg0527.tlg041.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg042",
+   "eng_files": [
+    "tlg0527.tlg042.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg043",
+   "eng_files": [
+    "tlg0527.tlg043.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg044",
+   "eng_files": [
+    "tlg0527.tlg044.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg045",
+   "eng_files": [
+    "tlg0527.tlg045.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg046",
+   "eng_files": [
+    "tlg0527.tlg046.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg047",
+   "eng_files": [
+    "tlg0527.tlg047.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg048",
+   "eng_files": [
+    "tlg0527.tlg048.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg049",
+   "eng_files": [
+    "tlg0527.tlg049.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg051",
+   "eng_files": [
+    "tlg0527.tlg051.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg053",
+   "eng_files": [
+    "tlg0527.tlg053.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0527",
+   "work": "tlg056",
+   "eng_files": [
+    "tlg0527.tlg056.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0535",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0535.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0540.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0540.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0540.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0540.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0540.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0540.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0540.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0540.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0540.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0540.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0540.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0540.tlg012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0540.tlg013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0540.tlg014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg015",
+   "eng_files": [
+    "tlg0540.tlg015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg016",
+   "eng_files": [
+    "tlg0540.tlg016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg017",
+   "eng_files": [
+    "tlg0540.tlg017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg018",
+   "eng_files": [
+    "tlg0540.tlg018.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg019",
+   "eng_files": [
+    "tlg0540.tlg019.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg020",
+   "eng_files": [
+    "tlg0540.tlg020.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg021",
+   "eng_files": [
+    "tlg0540.tlg021.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg022",
+   "eng_files": [
+    "tlg0540.tlg022.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg023",
+   "eng_files": [
+    "tlg0540.tlg023.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg024",
+   "eng_files": [
+    "tlg0540.tlg024.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg025",
+   "eng_files": [
+    "tlg0540.tlg025.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg026",
+   "eng_files": [
+    "tlg0540.tlg026.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg027",
+   "eng_files": [
+    "tlg0540.tlg027.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg028",
+   "eng_files": [
+    "tlg0540.tlg028.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg029",
+   "eng_files": [
+    "tlg0540.tlg029.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg030",
+   "eng_files": [
+    "tlg0540.tlg030.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg031",
+   "eng_files": [
+    "tlg0540.tlg031.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg032",
+   "eng_files": [
+    "tlg0540.tlg032.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg033",
+   "eng_files": [
+    "tlg0540.tlg033.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0540",
+   "work": "tlg034",
+   "eng_files": [
+    "tlg0540.tlg034.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0543",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0543.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0548",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0548.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0548",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0548.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0551.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0551.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0551.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0551.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg005",
+   "eng_files": [
+    "tlg0551.tlg005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0551.tlg006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0551.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0551.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0551.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0551.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0551.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg012",
+   "eng_files": [
+    "tlg0551.tlg012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0551.tlg013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0551.tlg014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0551",
+   "work": "tlg017",
+   "eng_files": [
+    "tlg0551.tlg017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0557",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0557.tlg001.perseus-eng3.xml",
+    "tlg0557.tlg001.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0557",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0557.tlg002.perseus-eng3.xml",
+    "tlg0557.tlg002.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0557",
+   "work": "tlg003a",
+   "eng_files": [
+    "tlg0557.tlg003a.perseus-eng3.xml",
+    "tlg0557.tlg003a.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0627.tlg001.perseus-eng3.xml",
+    "tlg0627.tlg001.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0627.tlg002.perseus-eng3.xml",
+    "tlg0627.tlg002.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0627.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0627.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg006",
+   "eng_files": [
+    "tlg0627.tlg006.perseus-eng3.xml",
+    "tlg0627.tlg006.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg007",
+   "eng_files": [
+    "tlg0627.tlg007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg008",
+   "eng_files": [
+    "tlg0627.tlg008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg009",
+   "eng_files": [
+    "tlg0627.tlg009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg010",
+   "eng_files": [
+    "tlg0627.tlg010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg011",
+   "eng_files": [
+    "tlg0627.tlg011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg013",
+   "eng_files": [
+    "tlg0627.tlg013.perseus-eng4.xml",
+    "tlg0627.tlg013.perseus-eng5.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg014",
+   "eng_files": [
+    "tlg0627.tlg014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg027",
+   "eng_files": [
+    "tlg0627.tlg027.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg028",
+   "eng_files": [
+    "tlg0627.tlg028.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg029",
+   "eng_files": [
+    "tlg0627.tlg029.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg030",
+   "eng_files": [
+    "tlg0627.tlg030.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg046",
+   "eng_files": [
+    "tlg0627.tlg046.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0627",
+   "work": "tlg051",
+   "eng_files": [
+    "tlg0627.tlg051.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0646",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0646.tlg004.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0719",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg0719.tlg001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0719",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg0719.tlg002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0719",
+   "work": "tlg003",
+   "eng_files": [
+    "tlg0719.tlg003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg0719",
+   "work": "tlg004",
+   "eng_files": [
+    "tlg0719.tlg004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg1216",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg1216.tlg001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg1271",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg1271.tlg001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg1271",
+   "work": "tlg002",
+   "eng_files": [
+    "tlg1271.tlg002.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg1311",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg1311.tlg001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg1419",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg1419.tlg001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg1443",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg1443.tlg001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg1484",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg1484.tlg001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-greekLit",
+   "group": "tlg1622",
+   "work": "tlg001",
+   "eng_files": [
+    "tlg1622.tlg001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi001",
+   "eng_files": [
+    "phi0119.phi001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi002",
+   "eng_files": [
+    "phi0119.phi002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi003",
+   "eng_files": [
+    "phi0119.phi003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi004",
+   "eng_files": [
+    "phi0119.phi004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi005",
+   "eng_files": [
+    "phi0119.phi005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi006",
+   "eng_files": [
+    "phi0119.phi006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi007",
+   "eng_files": [
+    "phi0119.phi007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi008",
+   "eng_files": [
+    "phi0119.phi008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi009",
+   "eng_files": [
+    "phi0119.phi009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi010",
+   "eng_files": [
+    "phi0119.phi010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi011",
+   "eng_files": [
+    "phi0119.phi011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi012",
+   "eng_files": [
+    "phi0119.phi012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi013",
+   "eng_files": [
+    "phi0119.phi013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi014",
+   "eng_files": [
+    "phi0119.phi014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi015",
+   "eng_files": [
+    "phi0119.phi015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi016",
+   "eng_files": [
+    "phi0119.phi016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi017",
+   "eng_files": [
+    "phi0119.phi017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi018",
+   "eng_files": [
+    "phi0119.phi018.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi019",
+   "eng_files": [
+    "phi0119.phi019.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0119",
+   "work": "phi020",
+   "eng_files": [
+    "phi0119.phi020.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0134",
+   "work": "phi001",
+   "eng_files": [
+    "phi0134.phi001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0134",
+   "work": "phi002",
+   "eng_files": [
+    "phi0134.phi002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0134",
+   "work": "phi003",
+   "eng_files": [
+    "phi0134.phi003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0134",
+   "work": "phi004",
+   "eng_files": [
+    "phi0134.phi004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0134",
+   "work": "phi005",
+   "eng_files": [
+    "phi0134.phi005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0134",
+   "work": "phi006",
+   "eng_files": [
+    "phi0134.phi006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0426",
+   "work": "phi001",
+   "eng_files": [
+    "phi0426.phi001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0428",
+   "work": "phi001",
+   "eng_files": [
+    "phi0428.phi001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0448",
+   "work": "phi001",
+   "eng_files": [
+    "phi0448.phi001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0448",
+   "work": "phi002",
+   "eng_files": [
+    "phi0448.phi002.perseus-eng2.xml",
+    "phi0448.phi002.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0472",
+   "work": "phi001",
+   "eng_files": [
+    "phi0472.phi001.perseus-eng3.xml",
+    "phi0472.phi001.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi001",
+   "eng_files": [
+    "phi0474.phi001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi002",
+   "eng_files": [
+    "phi0474.phi002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi003",
+   "eng_files": [
+    "phi0474.phi003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi004",
+   "eng_files": [
+    "phi0474.phi004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi005",
+   "eng_files": [
+    "phi0474.phi005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi006",
+   "eng_files": [
+    "phi0474.phi006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi007",
+   "eng_files": [
+    "phi0474.phi007.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi008",
+   "eng_files": [
+    "phi0474.phi008.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi009",
+   "eng_files": [
+    "phi0474.phi009.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi010",
+   "eng_files": [
+    "phi0474.phi010.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi011",
+   "eng_files": [
+    "phi0474.phi011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi012",
+   "eng_files": [
+    "phi0474.phi012.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi013",
+   "eng_files": [
+    "phi0474.phi013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi014",
+   "eng_files": [
+    "phi0474.phi014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi015",
+   "eng_files": [
+    "phi0474.phi015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi016",
+   "eng_files": [
+    "phi0474.phi016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi017",
+   "eng_files": [
+    "phi0474.phi017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi018",
+   "eng_files": [
+    "phi0474.phi018.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi019",
+   "eng_files": [
+    "phi0474.phi019.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi020",
+   "eng_files": [
+    "phi0474.phi020.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi021",
+   "eng_files": [
+    "phi0474.phi021.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi022",
+   "eng_files": [
+    "phi0474.phi022.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi023",
+   "eng_files": [
+    "phi0474.phi023.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi024",
+   "eng_files": [
+    "phi0474.phi024.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi025",
+   "eng_files": [
+    "phi0474.phi025.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi026",
+   "eng_files": [
+    "phi0474.phi026.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi027",
+   "eng_files": [
+    "phi0474.phi027.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi028",
+   "eng_files": [
+    "phi0474.phi028.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi029",
+   "eng_files": [
+    "phi0474.phi029.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi030",
+   "eng_files": [
+    "phi0474.phi030.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi031",
+   "eng_files": [
+    "phi0474.phi031.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi032",
+   "eng_files": [
+    "phi0474.phi032.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi033",
+   "eng_files": [
+    "phi0474.phi033.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi034",
+   "eng_files": [
+    "phi0474.phi034.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi035",
+   "eng_files": [
+    "phi0474.phi035.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi051",
+   "eng_files": [
+    "phi0474.phi051.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi052",
+   "eng_files": [
+    "phi0474.phi052.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi053",
+   "eng_files": [
+    "phi0474.phi053.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi055",
+   "eng_files": [
+    "phi0474.phi055.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi056",
+   "eng_files": [
+    "phi0474.phi056.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi057",
+   "eng_files": [
+    "phi0474.phi057.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi058",
+   "eng_files": [
+    "phi0474.phi058.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0474",
+   "work": "phi059",
+   "eng_files": [
+    "phi0474.phi059.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0478",
+   "work": "phi003",
+   "eng_files": [
+    "phi0478.phi003.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0631",
+   "work": "phi001",
+   "eng_files": [
+    "phi0631.phi001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0631",
+   "work": "phi002",
+   "eng_files": [
+    "phi0631.phi002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0660",
+   "work": "phi003",
+   "eng_files": [
+    "phi0660.phi003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0690",
+   "work": "phi001",
+   "eng_files": [
+    "phi0690.phi001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0690",
+   "work": "phi002",
+   "eng_files": [
+    "phi0690.phi002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0836",
+   "work": "phi002",
+   "eng_files": [
+    "phi0836.phi002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0845",
+   "work": "phi002",
+   "eng_files": [
+    "phi0845.phi002.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0893",
+   "work": "phi001",
+   "eng_files": [
+    "phi0893.phi001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0893",
+   "work": "phi004",
+   "eng_files": [
+    "phi0893.phi004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0893",
+   "work": "phi006",
+   "eng_files": [
+    "phi0893.phi006.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi001",
+   "eng_files": [
+    "phi0914.phi001.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi0011",
+   "eng_files": [
+    "phi0914.phi0011.perseus-eng1.xml",
+    "phi0914.phi0011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00110",
+   "eng_files": [
+    "phi0914.phi00110.perseus-eng1.xml",
+    "phi0914.phi00110.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00111s",
+   "eng_files": [
+    "phi0914.phi00111s.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00112s",
+   "eng_files": [
+    "phi0914.phi00112s.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00113s",
+   "eng_files": [
+    "phi0914.phi00113s.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00114s",
+   "eng_files": [
+    "phi0914.phi00114s.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00115s",
+   "eng_files": [
+    "phi0914.phi00115s.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00116s",
+   "eng_files": [
+    "phi0914.phi00116s.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00117s",
+   "eng_files": [
+    "phi0914.phi00117s.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00118s",
+   "eng_files": [
+    "phi0914.phi00118s.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00119s",
+   "eng_files": [
+    "phi0914.phi00119s.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi0012",
+   "eng_files": [
+    "phi0914.phi0012.perseus-eng1.xml",
+    "phi0914.phi0012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00120s",
+   "eng_files": [
+    "phi0914.phi00120s.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00121",
+   "eng_files": [
+    "phi0914.phi00121.perseus-eng1.xml",
+    "phi0914.phi00121.perseus-eng2.xml",
+    "phi0914.phi00121.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00122",
+   "eng_files": [
+    "phi0914.phi00122.perseus-eng1.xml",
+    "phi0914.phi00122.perseus-eng2.xml",
+    "phi0914.phi00122.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00123",
+   "eng_files": [
+    "phi0914.phi00123.perseus-eng1.xml",
+    "phi0914.phi00123.perseus-eng2.xml",
+    "phi0914.phi00123.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00124",
+   "eng_files": [
+    "phi0914.phi00124.perseus-eng1.xml",
+    "phi0914.phi00124.perseus-eng2.xml",
+    "phi0914.phi00124.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00125",
+   "eng_files": [
+    "phi0914.phi00125.perseus-eng1.xml",
+    "phi0914.phi00125.perseus-eng2.xml",
+    "phi0914.phi00125.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00126",
+   "eng_files": [
+    "phi0914.phi00126.perseus-eng1.xml",
+    "phi0914.phi00126.perseus-eng2.xml",
+    "phi0914.phi00126.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00127",
+   "eng_files": [
+    "phi0914.phi00127.perseus-eng1.xml",
+    "phi0914.phi00127.perseus-eng2.xml",
+    "phi0914.phi00127.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00128",
+   "eng_files": [
+    "phi0914.phi00128.perseus-eng1.xml",
+    "phi0914.phi00128.perseus-eng2.xml",
+    "phi0914.phi00128.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00129",
+   "eng_files": [
+    "phi0914.phi00129.perseus-eng1.xml",
+    "phi0914.phi00129.perseus-eng2.xml",
+    "phi0914.phi00129.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi0013",
+   "eng_files": [
+    "phi0914.phi0013.perseus-eng1.xml",
+    "phi0914.phi0013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00130",
+   "eng_files": [
+    "phi0914.phi00130.perseus-eng1.xml",
+    "phi0914.phi00130.perseus-eng2.xml",
+    "phi0914.phi00130.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00131",
+   "eng_files": [
+    "phi0914.phi00131.perseus-eng1.xml",
+    "phi0914.phi00131.perseus-eng2.xml",
+    "phi0914.phi00131.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00132",
+   "eng_files": [
+    "phi0914.phi00132.perseus-eng1.xml",
+    "phi0914.phi00132.perseus-eng2.xml",
+    "phi0914.phi00132.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00133",
+   "eng_files": [
+    "phi0914.phi00133.perseus-eng1.xml",
+    "phi0914.phi00133.perseus-eng2.xml",
+    "phi0914.phi00133.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00134",
+   "eng_files": [
+    "phi0914.phi00134.perseus-eng1.xml",
+    "phi0914.phi00134.perseus-eng2.xml",
+    "phi0914.phi00134.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00135",
+   "eng_files": [
+    "phi0914.phi00135.perseus-eng1.xml",
+    "phi0914.phi00135.perseus-eng2.xml",
+    "phi0914.phi00135.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00136",
+   "eng_files": [
+    "phi0914.phi00136.perseus-eng1.xml",
+    "phi0914.phi00136.perseus-eng2.xml",
+    "phi0914.phi00136.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00137",
+   "eng_files": [
+    "phi0914.phi00137.perseus-eng1.xml",
+    "phi0914.phi00137.perseus-eng2.xml",
+    "phi0914.phi00137.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00138",
+   "eng_files": [
+    "phi0914.phi00138.perseus-eng1.xml",
+    "phi0914.phi00138.perseus-eng2.xml",
+    "phi0914.phi00138.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00139",
+   "eng_files": [
+    "phi0914.phi00139.perseus-eng1.xml",
+    "phi0914.phi00139.perseus-eng2.xml",
+    "phi0914.phi00139.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi0014",
+   "eng_files": [
+    "phi0914.phi0014.perseus-eng1.xml",
+    "phi0914.phi0014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00140",
+   "eng_files": [
+    "phi0914.phi00140.perseus-eng1.xml",
+    "phi0914.phi00140.perseus-eng2.xml",
+    "phi0914.phi00140.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00141",
+   "eng_files": [
+    "phi0914.phi00141.perseus-eng1.xml",
+    "phi0914.phi00141.perseus-eng2.xml",
+    "phi0914.phi00141.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00142",
+   "eng_files": [
+    "phi0914.phi00142.perseus-eng1.xml",
+    "phi0914.phi00142.perseus-eng2.xml",
+    "phi0914.phi00142.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00143",
+   "eng_files": [
+    "phi0914.phi00143.perseus-eng1.xml",
+    "phi0914.phi00143.perseus-eng2.xml",
+    "phi0914.phi00143.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00144",
+   "eng_files": [
+    "phi0914.phi00144.perseus-eng1.xml",
+    "phi0914.phi00144.perseus-eng2.xml",
+    "phi0914.phi00144.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi00145",
+   "eng_files": [
+    "phi0914.phi00145.perseus-eng1.xml",
+    "phi0914.phi00145.perseus-eng2.xml",
+    "phi0914.phi00145.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi0015",
+   "eng_files": [
+    "phi0914.phi0015.perseus-eng1.xml",
+    "phi0914.phi0015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi0016",
+   "eng_files": [
+    "phi0914.phi0016.perseus-eng1.xml",
+    "phi0914.phi0016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi0017",
+   "eng_files": [
+    "phi0914.phi0017.perseus-eng1.xml",
+    "phi0914.phi0017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi0018",
+   "eng_files": [
+    "phi0914.phi0018.perseus-eng1.xml",
+    "phi0914.phi0018.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0914",
+   "work": "phi0019",
+   "eng_files": [
+    "phi0914.phi0019.perseus-eng1.xml",
+    "phi0914.phi0019.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0917",
+   "work": "phi001",
+   "eng_files": [
+    "phi0917.phi001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0959",
+   "work": "phi001",
+   "eng_files": [
+    "phi0959.phi001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0959",
+   "work": "phi002",
+   "eng_files": [
+    "phi0959.phi002.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0959",
+   "work": "phi003",
+   "eng_files": [
+    "phi0959.phi003.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0959",
+   "work": "phi004",
+   "eng_files": [
+    "phi0959.phi004.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0959",
+   "work": "phi005",
+   "eng_files": [
+    "phi0959.phi005.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0959",
+   "work": "phi006",
+   "eng_files": [
+    "phi0959.phi006.perseus-eng3.xml",
+    "phi0959.phi006.perseus-eng4.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0972",
+   "work": "phi001",
+   "eng_files": [
+    "phi0972.phi001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0972",
+   "work": "phi001f",
+   "eng_files": [
+    "phi0972.phi001f.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0972",
+   "work": "phi001p",
+   "eng_files": [
+    "phi0972.phi001p.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0975",
+   "work": "phi001",
+   "eng_files": [
+    "phi0975.phi001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi0978",
+   "work": "phi001",
+   "eng_files": [
+    "phi0978.phi001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1002",
+   "work": "phi001",
+   "eng_files": [
+    "phi1002.phi001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1017",
+   "work": "phi011",
+   "eng_files": [
+    "phi1017.phi011.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1056",
+   "work": "phi001",
+   "eng_files": [
+    "phi1056.phi001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1212",
+   "work": "phi002",
+   "eng_files": [
+    "phi1212.phi002.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1254",
+   "work": "phi001",
+   "eng_files": [
+    "phi1254.phi001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1348",
+   "work": "abo011",
+   "eng_files": [
+    "phi1348.abo011.perseus-eng2.xml",
+    "phi1348.abo011.rolfe-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1348",
+   "work": "abo012",
+   "eng_files": [
+    "phi1348.abo012.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1348",
+   "work": "abo013",
+   "eng_files": [
+    "phi1348.abo013.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1348",
+   "work": "abo014",
+   "eng_files": [
+    "phi1348.abo014.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1348",
+   "work": "abo015",
+   "eng_files": [
+    "phi1348.abo015.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1348",
+   "work": "abo016",
+   "eng_files": [
+    "phi1348.abo016.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1348",
+   "work": "abo017",
+   "eng_files": [
+    "phi1348.abo017.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1348",
+   "work": "abo018",
+   "eng_files": [
+    "phi1348.abo018.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1348",
+   "work": "abo019",
+   "eng_files": [
+    "phi1348.abo019.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1348",
+   "work": "abo020",
+   "eng_files": [
+    "phi1348.abo020.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1348",
+   "work": "abo021",
+   "eng_files": [
+    "phi1348.abo021.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1348",
+   "work": "abo022",
+   "eng_files": [
+    "phi1348.abo022.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1351",
+   "work": "phi001",
+   "eng_files": [
+    "phi1351.phi001.perseus-eng1.xml",
+    "phi1351.phi001.perseus-eng2.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1351",
+   "work": "phi002",
+   "eng_files": [
+    "phi1351.phi002.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1351",
+   "work": "phi003",
+   "eng_files": [
+    "phi1351.phi003.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1351",
+   "work": "phi004",
+   "eng_files": [
+    "phi1351.phi004.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "phi1351",
+   "work": "phi005",
+   "eng_files": [
+    "phi1351.phi005.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0023",
+   "work": "stoa001",
+   "eng_files": [
+    "stoa0023.stoa001.perseus-eng2.xml",
+    "stoa0023.stoa001.perseus-eng3.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0040",
+   "work": "stoa011",
+   "eng_files": [
+    "stoa0040.stoa011.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa010",
+   "eng_files": [
+    "stoa0045.stoa010.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa011",
+   "eng_files": [
+    "stoa0045.stoa011.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0045",
+   "work": "stoa014",
+   "eng_files": [
+    "stoa0045.stoa014.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0054",
+   "work": "stoa006",
+   "eng_files": [
+    "stoa0054.stoa006.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0058",
+   "work": "stoa001",
+   "eng_files": [
+    "stoa0058.stoa001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0058",
+   "work": "stoa003",
+   "eng_files": [
+    "stoa0058.stoa003.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0058",
+   "work": "stoa006",
+   "eng_files": [
+    "stoa0058.stoa006.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0058",
+   "work": "stoa023",
+   "eng_files": [
+    "stoa0058.stoa023.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0058",
+   "work": "stoa025",
+   "eng_files": [
+    "stoa0058.stoa025.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0058",
+   "work": "stoa028",
+   "eng_files": [
+    "stoa0058.stoa028.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa001",
+   "eng_files": [
+    "stoa0089.stoa001.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa002",
+   "eng_files": [
+    "stoa0089.stoa002.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa003",
+   "eng_files": [
+    "stoa0089.stoa003.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa004",
+   "eng_files": [
+    "stoa0089.stoa004.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa005",
+   "eng_files": [
+    "stoa0089.stoa005.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa006",
+   "eng_files": [
+    "stoa0089.stoa006.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa007",
+   "eng_files": [
+    "stoa0089.stoa007.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa008",
+   "eng_files": [
+    "stoa0089.stoa008.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa009",
+   "eng_files": [
+    "stoa0089.stoa009.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa010",
+   "eng_files": [
+    "stoa0089.stoa010.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa011",
+   "eng_files": [
+    "stoa0089.stoa011.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa012",
+   "eng_files": [
+    "stoa0089.stoa012.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa013",
+   "eng_files": [
+    "stoa0089.stoa013.perseus-eng1.xml"
+   ]
+  },
+  {
+   "repo": "canonical-latinLit",
+   "group": "stoa0089",
+   "work": "stoa014",
+   "eng_files": [
+    "stoa0089.stoa014.perseus-eng1.xml"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plautus-titus-maccius-bacchides-b7eafe",
+  "work_title": "Bacchides",
+  "chapter_number": 2,
+  "chapter_title": "Chapter prologue",
+  "chapter_slug": "02",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2f739a07-1a71-5b8c-9455-d704329fc049",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1396,
+      "paragraph_count": 195,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi004.perseus-lat2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "503efc93-8c5b-5129-aac7-0e646e84d8ac",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 834,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi004.perseus-eng2:2"
+    }
+  ]
+}

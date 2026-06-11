@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-malachi-4f7514",
+  "work_title": "Malachi",
+  "chapter_number": 3,
+  "chapter_title": "Chapter 3",
+  "chapter_slug": "03",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9afd2a36-b9de-5eec-8eba-8998c24c2180",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 676,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg047.1st1K-grc1:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "76f3fc60-465b-5f11-90f0-0bf0703fdf01",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 525,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg047.perseus-eng2:3"
+    }
+  ]
+}

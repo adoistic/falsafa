@@ -1,0 +1,38 @@
+{
+  "work_slug": "plautus-titus-maccius-epidicus-12565f",
+  "work_title": "Epidicus",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "05",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "105c1349-45da-5f24-9a11-e17cb8adfa98",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1260,
+      "paragraph_count": 174,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi009.perseus-lat2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ba21c69-4540-5199-a5be-4d4a65161987",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 1329,
+      "paragraph_count": 94,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi009.perseus-eng2:5"
+    }
+  ]
+}

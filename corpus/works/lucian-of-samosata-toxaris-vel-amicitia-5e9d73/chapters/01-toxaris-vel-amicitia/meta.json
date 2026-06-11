@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-toxaris-vel-amicitia-5e9d73",
+  "work_title": "Toxaris vel amicitia",
+  "chapter_number": 1,
+  "chapter_title": "Toxaris vel amicitia",
+  "chapter_slug": "01-toxaris-vel-amicitia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "daf3854d-4130-576a-a5c0-1d970a4932b7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9806,
+      "paragraph_count": 138,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg044.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec4e7f5d-865a-51c2-b43d-8e9daf56c94e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 11557,
+      "paragraph_count": 94,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg044.perseus-eng5"
+    }
+  ]
+}

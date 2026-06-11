@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 80,
+  "chapter_title": "Chapter 80",
+  "chapter_slug": "80",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "21240ec7-bb03-5d5a-a9c3-f05dea9f2a96",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 219,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:80"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "987ea64e-2f2c-5dc4-bd93-4460df241ec3",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 304,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:80"
+    }
+  ]
+}

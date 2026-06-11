@@ -1,0 +1,38 @@
+{
+  "work_slug": "phaedrus-fabulae-6b12c9",
+  "work_title": "Fabulae",
+  "chapter_number": 3,
+  "chapter_title": "Book 3",
+  "chapter_slug": "03",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4ab58f07-1039-5f4b-8c91-0b37f9d30546",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 2332,
+      "paragraph_count": 403,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0975.phi001.perseus-lat2:3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b787bed-d211-5fb3-81ec-75396b10ff4e",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 3418,
+      "paragraph_count": 537,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0975.phi001.perseus-eng1:3"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-antony-3469a0",
+  "work_title": "Antony",
+  "chapter_number": 70,
+  "chapter_title": "Chapter 70",
+  "chapter_slug": "70",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "90e59f93-cba2-5083-9488-2f14f8e730a7",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 227,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg058.perseus-grc2:70"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "635d4cf4-16db-5cbc-96e8-e940a086f07f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 353,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg058.perseus-eng2:70"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+---
+work_id: "0252821e-3c4c-5bd3-b11c-8ad61c2e31a7"
+work_slug: "plutarch-timoleon-025282"
+work_title: Timoleon
+author_name: Plutarch
+chapter_number: 17
+chapter_title: Chapter 16
+chapter_slug: 17
+variant_id: "3b8eb166-c2e4-5644-a669-9d56d6cfa388"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 595
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg018.perseus-eng2:17"
+translator: Bernadotte Perrin
+---
+
+But though the misfortune of Dionysius seemed extraordinary, none the less did the good fortune of Timoleon have something marvellous about it.
+
+For within fifty days after his landing in Sicily the acropolis of Syracuse was surrendered to him and Dionysius was sent off to Peloponnesus.
+
+Stimulated by this success, the Corinthians sent him two thousand men-at-arms and two hundred horsemen. These got as far as Thurii, but seeing that their passage thence was impracticable, since the sea was beset with many Carthaginian ships, they were compelled to remain there quietly and await their opportunity, and therefore turned their leisure to advantage in a most noble action.
+
+When the Thurians, namely, went on an expedition against the Bruttians, the Corinthians received their city in charge, and guarded it honestly and faithfully to the end, as though it were their own.
+
+But Hicetas kept the acropolis of Syracuse under siege and prevented the importation of food for the Corinthians there; he also sent to Adranum two foreigners whom he had engaged to assassinate Timoleon; for Timoleon at no time kept a guard in array about his person, and at this time in particular, owing to his trust in their god, he was altogether without anxiety or suspicion in his diversions with the people of Adranum.
+
+The men who had thus been sent learned, as chance would have it, that he was about to offer a sacrifice, and therefore came into the sacred precinct with daggers under their robes, mingled with those who stood around the altar, and gradually drew nearer their intended victim.
+
+And as they were just on the point of exhorting one another to begin their work, somebody smote one of them on the head with a sword and laid him low, whereupon neither he who had struck the blow nor the companion of him who had received it kept his place; but the one, with his sword still in his hand, fled to a lofty rock and sprang upon it, while the other laid hold of the altar and begged immunity from Timoleon on the condition of his revealing everything.
+
+And when he had obtained his request, he testified against himself and against his dead comrade that they had been sent to kill Timoleon.
+
+Meanwhile others brought down the man who had fled to the rock, who kept crying out that he had done no wrong, but had justly slain the man on behalf of his dead father, who had been murdered by him some time ago in Leontini.
+
+Some of the bystanders bore witness also to the truth of his words, and wondered, too, at the dexterity of Fortune, seeing how she makes some things lead up to others, brings all things together from afar, weaves together incidents which seem to be most divergent and to have nothing in common with one another, and so makes use of their reciprocal beginnings and endings.
+
+To this man, then, the Corinthians gave a reward of ten minas, because he had put his just resentment at the service of the deity who was guarding Timoleon, and had not at an earlier time expended the wrath which had long been in his heart, but with a personal motive had reserved it, under Fortune’s guidance, for the preservation of that general.
+
+Moreover, their good fortune in the present crisis raised their hopes for the future also, and they anticipated that men would revere and protect Timoleon, looking upon him as a sacred personage, and one who had come under divine guidance to avenge the wrongs of Sicily.

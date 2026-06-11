@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-quomodo-historia-conscribenda-si-d71508",
+  "work_title": "Quomodo historia conscribenda sit",
+  "chapter_number": 1,
+  "chapter_title": "Quomodo historia conscribenda sit",
+  "chapter_slug": "01-quomodo-historia-conscribenda-sit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a06802f0-d09f-5e11-ae70-7628207ab594",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 7491,
+      "paragraph_count": 153,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg053.perseus-grc3"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "11d3e06c-500b-5863-810f-2138f7ac4bb0",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9017,
+      "paragraph_count": 76,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg053.perseus-eng4"
+    }
+  ]
+}

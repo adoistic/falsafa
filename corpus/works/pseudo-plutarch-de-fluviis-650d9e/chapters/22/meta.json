@@ -1,0 +1,38 @@
+{
+  "work_slug": "pseudo-plutarch-de-fluviis-650d9e",
+  "work_title": "De Fluviis",
+  "chapter_number": 22,
+  "chapter_title": "Chapter 23",
+  "chapter_slug": "22",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3932bf9e-2194-5473-907e-c1abfd585e6d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 327,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0094.tlg001.1st1K-grc1:22"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "05c92a5e-1211-503a-938a-798be950b20b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 465,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0094.tlg001.perseus-eng2:22"
+    }
+  ]
+}

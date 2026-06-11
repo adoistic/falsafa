@@ -1,0 +1,26 @@
+{
+  "work_slug": "plautus-titus-maccius-pseudolus-ad34cb",
+  "work_title": "Pseudolus",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 4",
+  "chapter_slug": "06",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a121778-847b-5457-9d6f-38d4678079a4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 4911,
+      "paragraph_count": 300,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi016.perseus-eng2:6"
+    }
+  ]
+}

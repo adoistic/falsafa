@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-philippicae-f2d191",
+  "work_title": "Philippicae",
+  "chapter_number": 135,
+  "chapter_title": "Chapter 7",
+  "chapter_slug": "135",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "badd102b-015d-571b-9e2b-74a88778bc67",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 708,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi035.perseus-eng1:135"
+    }
+  ]
+}

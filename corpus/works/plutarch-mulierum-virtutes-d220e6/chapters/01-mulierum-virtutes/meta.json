@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-mulierum-virtutes-d220e6",
+  "work_title": "Mulierum virtutes",
+  "chapter_number": 1,
+  "chapter_title": "Mulierum virtutes",
+  "chapter_slug": "01-mulierum-virtutes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "937862bc-5c3c-599c-922d-d47d0a77f66d",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 9404,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg083.perseus-grc4"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "39c2537e-ff7b-5fe5-b697-d2b2fd150756",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 14267,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg083.perseus-eng4"
+    }
+  ]
+}

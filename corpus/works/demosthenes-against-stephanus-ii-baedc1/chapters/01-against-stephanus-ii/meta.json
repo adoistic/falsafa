@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-stephanus-ii-baedc1",
+  "work_title": "Against Stephanus II",
+  "chapter_number": 1,
+  "chapter_title": "Against Stephanus II",
+  "chapter_slug": "01-against-stephanus-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "48a09a42-ee87-56fc-8056-a3889787a018",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1857,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg046.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5df8d53f-df44-57fd-b656-c3aa6779837e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2970,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg046.perseus-eng2"
+    }
+  ]
+}

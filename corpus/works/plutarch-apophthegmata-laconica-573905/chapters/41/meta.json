@@ -1,0 +1,26 @@
+{
+  "work_slug": "plutarch-apophthegmata-laconica-573905",
+  "work_title": "Apophthegmata Laconica",
+  "chapter_number": 41,
+  "chapter_title": "Chapter 63",
+  "chapter_slug": "41",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7fea73d3-bccd-5326-a5ff-fd34368f563e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 197,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg082.perseus-eng4:41"
+    }
+  ]
+}

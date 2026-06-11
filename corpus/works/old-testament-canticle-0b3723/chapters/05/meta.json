@@ -1,0 +1,39 @@
+{
+  "work_slug": "old-testament-canticle-0b3723",
+  "work_title": "Canticle",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9ad2bc2f-d145-55d2-a4a2-983d187bdead",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 477,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg031.1st1K-grc1:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "33e0a81e-f069-5b07-a612-212169e04270",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 380,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg031.perseus-eng2:5"
+    }
+  ]
+}

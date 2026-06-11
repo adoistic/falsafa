@@ -1,0 +1,21 @@
+---
+work_id: "7cb414e8-e8b0-532e-a537-729fca3df9ea"
+work_slug: "tacitus-cornelius-germania-7cb414"
+work_title: Germania
+author_name: Tacitus, Cornelius
+chapter_number: 2
+chapter_title: Chapter 2
+chapter_slug: 02
+variant_id: "f8b15134-9acf-55ba-aba4-d4e1254d5050"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 261
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1351.phi002.perseus-eng1:2"
+translator: William Jackson Brodribb
+---
+
+The Germans themselves I should regard as aboriginal, and not mixed at all with other races through immigration or intercourse. For, in former times, it was not by land but on shipboard that those who sought to emigrate would arrive; and the boundless and, so to speak, hostile ocean beyond us, is seldom entered by a sail from our world. And, beside the perils of rough and unknown seas, who would leave Asia, or Africa, or Italy for Germany, with its wild country, its inclement skies, its sullen manners and aspect, unless indeed it were his home? In their ancient songs, their only way of remembering or recording the past, they celebrate an earth-born god, Tuisco, and his son Mannus, as the origin of their race, as their founders. To Mannus they assign three sons, from whose names, they say, the coast tribes are called Ing&aelig;vones; those of the interior, Herminones; all the rest, Ist&aelig;vones. Some, with the freedom of conjecture permitted by antiquity, assert that the god had several descendants, and the nation several appellations, as Marsi, Gambrivii, Suevi, Vandilii, and that these are genuine old names. The name Germany, on the other hand, they say, is modern and newly introduced, from the fact that the tribes which first crossed the Rhine and drove out the Gauls, and are now called Tungrians, were then called Germans. Thus what was the name of a tribe, and not of a race, gradually prevailed, till all called themselves by this self-invented name of Germans, which the conquerors had first employed to inspire terror.

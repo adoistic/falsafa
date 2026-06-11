@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-alcibiades-5a6a4a",
+  "work_title": "Alcibiades",
+  "chapter_number": 17,
+  "chapter_title": "Chapter 17",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ae08a479-89c6-5b56-85ef-8368aac37931",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 248,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg015.perseus-grc2:17"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "83f5f86c-3aa5-55b1-85b0-9e24f8e5c46d",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 398,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg015.perseus-eng2:17"
+    }
+  ]
+}

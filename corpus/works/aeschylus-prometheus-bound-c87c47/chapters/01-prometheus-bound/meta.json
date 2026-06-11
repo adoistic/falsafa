@@ -1,0 +1,38 @@
+{
+  "work_slug": "aeschylus-prometheus-bound-c87c47",
+  "work_title": "Prometheus Bound",
+  "chapter_number": 1,
+  "chapter_title": "Prometheus Bound",
+  "chapter_slug": "01-prometheus-bound",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cbe0109a-a05c-56ba-acfa-63278ace8b09",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6150,
+      "paragraph_count": 1190,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg003.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3a43d617-bb17-5f9c-9961-081387ce830b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 9743,
+      "paragraph_count": 321,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0085.tlg003.perseus-eng2"
+    }
+  ]
+}

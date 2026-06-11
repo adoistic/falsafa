@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-isaiah-d893d5",
+  "work_title": "Isaiah",
+  "chapter_number": 50,
+  "chapter_title": "Chapter 50",
+  "chapter_slug": "50",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "000277e4-f6cc-57db-9812-2dcf984416cd",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 562,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg048.1st1K-grc1:50"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79f5a767-7151-5ddc-b1c7-912c242009a8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 370,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg048.perseus-eng2:50"
+    }
+  ]
+}

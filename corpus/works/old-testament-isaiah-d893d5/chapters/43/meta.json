@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-isaiah-d893d5",
+  "work_title": "Isaiah",
+  "chapter_number": 43,
+  "chapter_title": "Chapter 43",
+  "chapter_slug": "43",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "86e51dba-1aea-5fd3-9ce5-f597ac7e7d93",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 839,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg048.1st1K-grc1:43"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ed97304d-eade-511f-a5a9-c171cf3473f5",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 702,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg048.perseus-eng2:43"
+    }
+  ]
+}

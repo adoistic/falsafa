@@ -1,0 +1,38 @@
+{
+  "work_slug": "boethius-liber-de-persona-et-duabus-natur-91cefd",
+  "work_title": "Liber De Persona et Duabus Naturis Contra Eutychen Et Nestorium",
+  "chapter_number": 1,
+  "chapter_title": "Liber De Persona et Duabus Naturis Contra Eutychen Et Nestorium",
+  "chapter_slug": "01-liber-de-persona-et-duabus-naturis-contra-eutychen",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0fc53882-5acd-5389-b403-8c7be8313ffa",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 5923,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0058.stoa023.perseus-lat1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd10dc1e-2526-5393-90ca-807f6fcf2280",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 8421,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:stoa0058.stoa023.perseus-eng1"
+    }
+  ]
+}

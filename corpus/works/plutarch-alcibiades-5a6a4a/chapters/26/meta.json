@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-alcibiades-5a6a4a",
+  "work_title": "Alcibiades",
+  "chapter_number": 26,
+  "chapter_title": "Chapter 26",
+  "chapter_slug": "26",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5c79559c-24dc-5e1a-892a-ba8af79b844b",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 367,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg015.perseus-grc2:26"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0dabcd21-9c3c-5fc5-a412-bfd7c4a25d08",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 541,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg015.perseus-eng2:26"
+    }
+  ]
+}

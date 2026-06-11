@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 427
+chapter_title: "Chapter text=F:book=10:letter=25"
+chapter_slug: 427
+variant_id: "7fdcfd41-fcb3-58b0-ad0f-7ff901e729c1"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 492
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:427"
+translator: Perseus Digital Library
+---
+
+TO GAIUS FURNIUS (IN GAUL WITH PLANCUS) ROME (26-30 MAY)
+
+IF it is of importance to the Republic—as is the general belief—that you should complete the work in the same spirit as you have begun to do it and have actually done it, and that you should take part in the important operations for extinguishing the last sparks of the war, I think you can do nothing better or more laudable or more to your honour: and in my opinion this labour, activity, and patriotic spirit on your part is to be preferred to any hurrying on of the praetorship. For I would not have you ignorant of the amount of reputation which you have gained. Believe me, it is second only to Plancus, and that too on the testimony of Plancus himself, as well as by the report and knowledge of everybody else. Wherefore, if there is still any labour left for you to perform, my opinion is that you should throw yourself into it with energy. What can be more to your honour? And what is to be preferred to honour? But if you think that you have done all you are bound to do for the state, I think you should come with all speed to the comitia, for they are likely to take place early: provided only that this hurry to secure office does not detract in any way from the glory which we have secured. There have been many very illustrious men who, being abroad on the public service, have missed their proper year for canvassing. And this is easier in our case, because this is not the year marked out for you, on the principle that if you had been aedile your year would have been two years later. As it is, you will appear not to omit any of the customary observance, and what is a quasi-statutory period of canvassing. Moreover, I foresee that with Plancus consul (although even without him your path would be clear) your canvass would be after all more brilliant, provided that the campaign on which you are now engaged shall have been brought to the conclusion we desire. On the whole I don't think that there is much need for me to write any more, considering your great prudence and judgment, yet nevertheless I was unwilling that you should be ignorant of my opinion: the upshot of which is that I would rather you should judge of everything by consideration for your true position than from the chance of official promotion, and should look for your reward in a lasting reputation rather than in a rapid attainment of the praetorship. This was the gist of what I said in my house at a conference with my brother Quintus, Caecina, and Calvisius—all men most devoted to you—your freedman Dardanus being also present. My speech seemed to be approved by all of them. But after all you will judge best for yourself.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "euripides-alcestis-eea592",
+  "work_title": "Alcestis",
+  "chapter_number": 1,
+  "chapter_title": "Alcestis",
+  "chapter_slug": "01-alcestis",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cbdb73b5-08e8-5761-913f-575488395c3a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 6881,
+      "paragraph_count": 1167,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg002.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3f0f6b90-816f-5fdb-bcd9-87a4cce7292c",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 10593,
+      "paragraph_count": 414,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0006.tlg002.perseus-eng2"
+    }
+  ]
+}

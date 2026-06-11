@@ -1,0 +1,38 @@
+{
+  "work_slug": "xenophon-agesilaus-85e29e",
+  "work_title": "Agesilaus",
+  "chapter_number": 10,
+  "chapter_title": "Chapter 10",
+  "chapter_slug": "10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bb9c14cd-daa8-549c-ba70-32843919c0ec",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 242,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg009.perseus-grc2:10"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8b59b284-c99e-5824-89d3-13c04fb8641b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 376,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0032.tlg009.perseus-eng2:10"
+    }
+  ]
+}

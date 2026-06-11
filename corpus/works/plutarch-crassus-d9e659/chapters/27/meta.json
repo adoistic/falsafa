@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-crassus-d9e659",
+  "work_title": "Crassus",
+  "chapter_number": 27,
+  "chapter_title": "Chapter 27",
+  "chapter_slug": "27",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ed0a14dd-7983-5193-824c-1face4d18334",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 447,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg039.perseus-grc2:27"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bf3389b1-d2f9-538a-a4e1-2878d7b8511e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 681,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg039.perseus-eng2:27"
+    }
+  ]
+}

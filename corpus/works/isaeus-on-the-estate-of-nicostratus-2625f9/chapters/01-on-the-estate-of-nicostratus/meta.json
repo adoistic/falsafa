@@ -1,0 +1,38 @@
+{
+  "work_slug": "isaeus-on-the-estate-of-nicostratus-2625f9",
+  "work_title": "On the Estate of Nicostratus",
+  "chapter_number": 1,
+  "chapter_title": "On the Estate of Nicostratus",
+  "chapter_slug": "01-on-the-estate-of-nicostratus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f1520817-6c41-5931-8cd1-58f16d44e01a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1804,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg004.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8e672718-cc7e-5784-8dc1-ea04090cc6d4",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2688,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0017.tlg004.perseus-eng2"
+    }
+  ]
+}

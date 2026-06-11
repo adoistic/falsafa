@@ -1,0 +1,26 @@
+{
+  "work_slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "work_title": "Principles of Political Economy",
+  "chapter_number": 58,
+  "chapter_title": "CHAPTER XXVI. OF DISTRIBUTION, AS AFFECTED BY EXCHANGE.",
+  "chapter_slug": "58",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "original.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b18ba099-4730-5bd2-8406-2e160d72fb1a",
+      "language": "English",
+      "source_language": "English",
+      "script": "latin",
+      "word_count": 2858,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://davidmhart.com/liberty/Books/Multi-Pane-Readers/Mill_PrinciplesPoliticalEconomy1871/index.html"
+    }
+  ]
+}

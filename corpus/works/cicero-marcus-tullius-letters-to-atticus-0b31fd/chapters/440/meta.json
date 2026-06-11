@@ -1,0 +1,26 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+  "work_title": "Letters to Atticus",
+  "chapter_number": 440,
+  "chapter_title": "Chapter text=A:book=16:letter=10",
+  "chapter_slug": "440",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0b24e84-cca1-50dc-b3a2-cdec60b5d8f4",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 159,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi057.perseus-eng1:440"
+    }
+  ]
+}

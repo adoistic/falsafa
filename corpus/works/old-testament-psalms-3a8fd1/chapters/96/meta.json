@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 96,
+  "chapter_title": "Chapter 96",
+  "chapter_slug": "96",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c7ab06c6-d6c6-5e04-8e20-d66f21d5b5a4",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 292,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:96"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b2d19e6d-7bd4-5ad3-ad42-1d84916ef55b",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 207,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:96"
+    }
+  ]
+}

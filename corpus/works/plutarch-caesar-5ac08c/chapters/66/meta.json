@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-caesar-5ac08c",
+  "work_title": "Caesar",
+  "chapter_number": 66,
+  "chapter_title": "Chapter 66",
+  "chapter_slug": "66",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eeb872da-9083-5678-8ed4-74d68c951643",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 400,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg048.perseus-grc2:66"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9bb7d7d-00b1-598e-9c0e-8069649fc979",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 601,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg048.perseus-eng2:66"
+    }
+  ]
+}

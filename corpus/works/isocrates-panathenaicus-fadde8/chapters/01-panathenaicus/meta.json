@@ -1,0 +1,38 @@
+{
+  "work_slug": "isocrates-panathenaicus-fadde8",
+  "work_title": "Panathenaicus",
+  "chapter_number": 1,
+  "chapter_title": "Panathenaicus",
+  "chapter_slug": "01-panathenaicus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0a43ea6e-ef70-54d6-91ee-45d71f579b59",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 15860,
+      "paragraph_count": 278,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg021.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc618e4c-ac0f-54f3-be85-da45efec97a8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 24411,
+      "paragraph_count": 232,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0010.tlg021.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+/* The atlas scope: the Naql transmission atlas living inside falsafa.
+   Ported components reference Naql token names; this scope maps them onto
+   falsafa's design system so the atlas follows the site's light, dark and
+   sepia themes for free. Everything here is namespaced under .atlas-scope. */
+
+@import "@fontsource/amiri/400.css";
+@import "@fontsource/amiri/700.css";
+@import "@fontsource/noto-serif-devanagari/400.css";
+@import "@fontsource/noto-serif-hebrew/400.css";
+@import "@fontsource/noto-sans-syriac/400.css";
+@import "@fontsource/ibm-plex-mono/400.css";
+@import "@fontsource/ibm-plex-mono/500.css";
+
+.atlas-scope {
+  /* pigment aliases onto falsafa tokens */
+  --color-paper: var(--paper);
+  --color-paper-deep: color-mix(in srgb, var(--paper) 94%, var(--ink));
+  --color-paper-raised: color-mix(in srgb, var(--paper) 98%, var(--ink));
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-ink-faint: color-mix(in srgb, var(--ink-muted) 55%, var(--paper));
+  --color-hairline: var(--rule);
+  --color-lapis: var(--accent);
+  --color-lapis-deep: var(--accent);
+  /* the confidence pigments keep their own meaning across themes */
+  --color-gold: #7d5c12;
+  --color-gold-leaf: #c9a13b;
+  --color-madder: #9a392c;
+
+  --font-serif: var(--font-body);
+  --font-arabic: "Amiri", serif;
+  --font-devanagari: "Noto Serif Devanagari", serif;
+  --font-hebrew: "Noto Serif Hebrew", serif;
+  --font-syriac: "Noto Sans Syriac", sans-serif;
+
+  --text-display: clamp(2.4rem, 1.4rem + 4vw, 4.2rem);
+  --text-h1: clamp(2rem, 1.4rem + 2.4vw, 3.1rem);
+  --text-h2: clamp(1.45rem, 1.2rem + 1vw, 1.9rem);
+  --text-h3: 1.25rem;
+
+  font-family: var(--font-serif);
+  font-size: 1.125rem;
+  line-height: 1.62;
+  color: var(--color-ink);
+}
+
+[data-theme="dark"] .atlas-scope {
+  --color-gold: #c9a13b;
+  --color-gold-leaf: #c9a13b;
+  --color-madder: #e0826e;
+}
+
+[data-theme="sepia"] .atlas-scope {
+  --color-gold: #6a4a10;
+  --color-madder: #8a3020;
+}
+
+.atlas-scope h1,
+.atlas-scope h2,
+.atlas-scope h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  line-height: 1.15;
+  letter-spacing: -0.012em;
+  text-wrap: balance;
+}
+
+/* ------------------------------------------------------------------ */
+/* Utilities the ported components rely on                             */
+/* ------------------------------------------------------------------ */
+
+.atlas-scope .tag {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--color-ink-muted);
+}
+
+.atlas-scope .tag-line {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.atlas-scope .tag-line::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--color-hairline);
+}
+
+.atlas-scope .mono {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  font-feature-settings: "tnum";
+}
+
+.atlas-scope .link {
+  color: var(--color-lapis);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--color-lapis) 38%, transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+  transition: text-decoration-color 120ms ease-out;
+}
+
+.atlas-scope .link:hover {
+  text-decoration-color: var(--color-lapis);
+}
+
+.atlas-scope .link-quiet {
+  color: inherit;
+  text-decoration: none;
+}
+
+.atlas-scope .link-quiet:hover {
+  color: var(--color-lapis);
+}
+
+/* original scripts */
+.atlas-scope .script-arabic { font-family: var(--font-arabic); direction: rtl; }
+.atlas-scope .script-devanagari { font-family: var(--font-devanagari); }
+.atlas-scope .script-hebrew { font-family: var(--font-hebrew); direction: rtl; }
+.atlas-scope .script-syriac { font-family: var(--font-syriac); direction: rtl; }
+.atlas-scope .script-greek { font-family: "Source Serif 4", Georgia, serif; }
+.atlas-scope .script-latin { font-family: var(--font-serif); font-feature-settings: "locl" 0, "hist" 0; }
+.atlas-scope .script-pahlavi { font-style: italic; }
+
+/* prose */
+.atlas-scope .prose {
+  max-width: 66ch;
+}
+
+.atlas-scope .prose p {
+  margin-block: 1.1em;
+}
+
+.atlas-scope .prose h2 {
+  font-size: var(--text-h2);
+  margin-block: 2.2em 0.6em;
+}
+
+.atlas-scope .prose a {
+  color: var(--color-lapis);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--color-lapis) 38%, transparent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+}
+
+.atlas-scope .prose pre {
+  background: var(--color-paper-deep);
+  border: 1px solid var(--color-hairline);
+  border-radius: 4px;
+  padding: 1rem 1.25rem;
+  overflow-x: auto;
+  margin-block: 1.4em;
+}
+
+.atlas-scope .prose code {
+  font-family: var(--font-mono);
+  font-size: 0.82em;
+}
+
+.atlas-scope .prose pre code {
+  font-size: 0.78rem;
+  line-height: 1.6;
+}
+
+/* entrance */
+@keyframes atlas-rise {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: none; }
+}
+
+.atlas-scope .rise {
+  animation: atlas-rise 480ms ease-out both;
+}
+
+.atlas-scope .rise-1 { animation-delay: 60ms; }
+.atlas-scope .rise-2 { animation-delay: 140ms; }
+.atlas-scope .rise-3 { animation-delay: 220ms; }
+.atlas-scope .rise-4 { animation-delay: 300ms; }
+
+@media (prefers-reduced-motion: reduce) {
+  .atlas-scope .rise,
+  .atlas-scope .rise-1,
+  .atlas-scope .rise-2,
+  .atlas-scope .rise-3,
+  .atlas-scope .rise-4 {
+    animation: none;
+  }
+}

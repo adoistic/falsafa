@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-de-astrologia-016c38",
+  "work_title": "De astrologia",
+  "chapter_number": 1,
+  "chapter_title": "De astrologia",
+  "chapter_slug": "01-de-astrologia",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "30336905-3291-550e-ae72-8c702a993f39",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 1962,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg048.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2b6e0d3c-4115-5f64-a91d-27e0555071fc",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 2535,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg048.perseus-eng2"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+---
+work_id: "2428b902-2f43-5fea-a900-16ef8f00cc04"
+work_slug: "aristotle-metaphysics-2428b9"
+work_title: Metaphysics
+author_name: Aristotle
+chapter_number: 4
+chapter_title: Book 4
+chapter_slug: 04
+variant_id: "d95c4d3f-e930-56d6-9571-76269786b899"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 9127
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0086.tlg025.perseus-eng2:4"
+translator: Hugh Tredennick
+---
+
+There is a science which studies Being qua Being, and the properties inherent in it in virtue of its own nature. This science is not the same as any of the so-called particular sciences, for none of the others contemplates Being generally qua Being; they divide off some portion of it and study the attribute of this portion, as do for example the mathematical sciences.
+
+But since it is for the first principles and the most ultimate causes that we are searching, clearly they must belong to something in virtue of its own nature. Hence if these principles were investigated by those also who investigated the elements of existing things, the elements must be elements of Being not incidentally, but qua Being. Therefore it is of Being qua Being that we too must grasp the first causes.
+
+The term being is used in various senses, but with reference to one central idea and one definite characteristic, and not as merely a common epithet. Thus as the term healthy always relates to health (either as preserving it or as producing it or as indicating it or as receptive of it), and as medical relates to the art of medicine (either as possessing it or as naturally adapted for it or as being a function of medicine)—and we shall find other terms used similarly to these— so being is used in various senses, but always with reference to one principle. For some things are said to be because they are substances; others because they are modifications of substance; others because they are a process towards substance, or destructions or privations or qualities of substance, or productive or generative of substance or of terms relating to substance, or negations of certain of these terms or of substance. (Hence we even say that not-being is not-being.)
+
+And so, just as there is one science of all healthy things, so it is true of everything else. For it is not only in the case of terms which express one common notion that the investigation belongs to one science, but also in the case of terms which relate to one particular characteristic; for the latter too, in a sense, express one common notion. Clearly then the study of things which are, qua being, also belongs to one science.
+
+Now in every case knowledge is principally concerned with that which is primary, i.e. that upon which all other things depend, and from which they get their names. If, then, substance is this primary thing, it is of substances that the philosopher must grasp the first principles and causes.
+
+Now of every single class of things, as there is one perception, so there is one science: e.g., grammar, which is one science, studies all articulate sounds.
+
+Hence the study of all the species of Being qua Being belongs to a science which is generically one, and the study of the several species of Being belongs to the specific parts of that science.
+
+Now if Being and Unity are the same, i.e. a single nature, in the sense that they are associated as principle and cause are, and not as being denoted by the same definition (although it makes no difference but rather helps our argument if we understand them in the same sense), since one man and man and existent man and man are the same thing, i.e. the duplication in the statement he is a man and an existent man gives no fresh meaning (clearly the concepts of humanity and existence are not dissociated in respect of either coming to be or ceasing to be), and similarly in the case of the term one, so that obviously the additional term in these phrases has the same significance, and Unity is nothing distinct from Being;
+
+and further if the substance of each thing is one in no accidental sense, and similarly is of its very nature something which is—then there are just as many species of Being as of Unity. And to study the essence of these species (I mean, e.g., the study of Same and Other and all the other similar concepts— roughly speaking all the contraries are reducible to this first principle; but we may consider that they have been sufficiently studied in the Selection of Contraries) is the province of a science which is generically one.
+
+And there are just as many divisions of philosophy as there are kinds of substance; so that there must be among them a First Philosophy and one which follows upon it.
+
+For Being and Unity at once entail genera, and so the sciences will correspond to these genera. The term philosopher is like the term mathematician in its uses; for mathematics too has divisions—there is a primary and a secondary science, and others successively, in the realm of mathematics.
+
+Now since it is the province of one science to study opposites, and the opposite of unity is plurality, and it is the province of one science to study the negation and privation of Unity, because in both cases we are studying Unity, to which the negation (or privation) refers, stated either in the simple form that Unity is not present, or in the form that it is not present in a particular class; in the latter case Unity is modified by the differentia, apart from the content of the negation (for the negation of Unity is its absence); but in privation there is a substrate of which the privation is predicated.—
+
+The opposite of Unity, then, is Plurality; and so the opposites of the above-mentioned concepts—Otherness, Dissimilarity, Inequality and everything else which is derived from these or from Plurality or Unity— fall under the cognizance of the aforesaid science. And one of them is Oppositeness; for this is a form of Difference, and Difference is a form of Otherness.
+
+Hence since the term one is used in various senses, so too will these terms be used; yet it pertains to one science to take cognizance of them all. For terms fall under different sciences, not if they are used in various senses, but if their definitions are neither identical nor referable to a common notion.
+
+And since everything is referred to that which is primary, e.g. all things which are called one are referred to the primary One, we must admit that this is also true of Identity and Otherness and the Contraries. Thus we must first distinguish all the senses in which each term is used, and then attribute them to the primary in the case of each predicate, and see how they are related to it; for some will derive their name from possessing and others from producing it, and others for similar reasons.
+
+Thus clearly it pertains to one science to give an account both of these concepts and of substance (this was one of the questions raised in the Difficulties), and it is the function of the philosopher to be able to study all subjects.
+
+If this is not so, who is it who in will investigate whether Socrates and Socrates seated are the same thing; or whether one thing has one contrary, or what the contrary is, or how many meanings it has? and similarly with all other such questions.
+
+Thus since these are the essential modifications of Unity qua Unity and of Being qua Being, and not qua numbers or lines or fire, clearly it a pertains to that science to discover both the essence and the attributes of these concepts.
+
+And those who investigate them err, not in being unphilosophical, but because the substance, of which they have no real knowledge, is prior. For just as number qua number has its peculiar modifications, e.g. oddness and evenness, commensurability and equality, excess and defect, and these things are inherent in numbers both considered independently and in relation to other numbers; and as similarly other peculiar modifications are inherent in the solid and the immovable and the moving and the weightless and that which has weight; so Being qua Being has certain peculiar modifications, and it is about these that it is the philosopher’s function to discover the truth. And here is evidence of this fact.
+
+Dialecticians and sophists wear the same appearance as the philosopher, for sophistry is Wisdom in appearance only, and dialecticians discuss all subjects, and Being is a subject common to them all; but clearly they discuss these concepts because they appertain to philosophy.
+
+For sophistry and dialectic are concerned with the same class of subjects as philosophy, but philosophy differs from the former in the nature of its capability and from the latter in its outlook on life. Dialectic treats as an exercise what philosophy tries to understand, and sophistry seems to be philosophy; but is not.
+
+Further, the second column of contraries is privative, and everything is reducible to Being and Not being, and Unity and Plurality; e.g. Rest falls under Unity and Motion under Plurality. And nearly everyone agrees that substance and existing things are composed of contraries; at any rate all speak of the first principles as contraries— some as Odd and Even, some as Hot and Cold, some as Limit and Unlimited, some as Love and Strife. And it is apparent that all other things also are reducible to Unity and Plurality (we may assume this reduction); and the principles adduced by other thinkers fall entirely under these as genera.
+
+It is clear, then, from these considerations also, that it pertains to a single science to study Being qua Being; for all things are either contraries or derived from contraries, and the first principles of the contraries are Unity and Plurality. And these belong to one science, whether they have reference to one common notion or not. Probably the truth is that they have not; but nevertheless even if the term one is used in various senses, the others will be related to the primary sense (and similarly with the contraries)— even if Being or Unity is not a universal and the same in all cases, or is not separable from particulars (as it presumably is not; the unity is in some cases one of reference and in others one of succession). For this very reason it is not the function of the geometrician to inquire what is Contrariety or Completeness or Being or Unity or Identity or Otherness, but to proceed from the assumption of them.
+
+Clearly, then, it pertains to one science to study Being qua Being, and the attributes inherent in it qua Being; and the same science investigates, besides the concepts mentioned above, Priority and Posteriority, Genus and Species, Whole and Part, and all other such concepts.
+
+We must pronounce whether it pertains to the same science to study both the so-called axioms in mathematics and substance, or to different sciences. It is obvious that the investigation of these axioms too pertains to one science, namely the science of the philosopher; for they apply to all existing things, and not to a particular class separate and distinct from the rest. Moreover all thinkers employ them—because they are axioms of Being qua Being, and every genus possesses Being— but employ them only in so far as their purposes require; i.e., so far as the genus extends about which they are carrying out their proofs. Hence since these axioms apply to all things qua Being (for this is what is common to them), it is the function of him who studies Being qua Being to investigate them as well.
+
+For this reason no one who is pursuing a particular inquiry—neither a geometrician nor an arithmetician—attempts to state whether they are true or false; but some of the physicists did so, quite naturally; for they alone professed to investigate nature as a whole, and Being.
+
+But inasmuch as there is a more ultimate type of thinker than the natural philosopher (for nature is only a genus of Being), the investigation of these axioms too will belong to the universal thinker who studies the primary reality. Natural philosophy is a kind of Wisdom, but not the primary kind.
+
+As for the attempts of some of those who discuss how the truth should be received, they are due to lack of training in logic; for they should understand these things before they approach their task, and not investigate while they are still learning.
+
+Clearly then it is the function of the philosopher, i.e. the student of the whole of reality in its essential nature, to investigate also the principles of syllogistic reasoning. And it is proper for him who best understands each class of subject to be able to state the most certain principles of that subject; so that he who understands the modes of Being qua Being should be able to state the most certain principles of all things.
+
+Now this person is the philosopher, and the most certain principle of all is that about which one cannot be mistaken; for such a principle must be both the most familiar (for it is about the unfamiliar that errors are always made), and not based on hypothesis.
+
+For the principle which the student of any form of Being must grasp is no hypothesis; and that which a man must know if he knows anything he must bring with him to his task.
+
+Clearly, then, it is a principle of this kind that is the most certain of all principles. Let us next state what this principle is.
+
+It is impossible for the same attribute at once to belong and not to belong to the same thing and in the same relation; and we must add any further qualifications that may be necessary to meet logical objections. This is the most certain of all principles, since it possesses the required definition;
+
+for it is impossible for anyone to suppose that the same thing is and is not, as some imagine that Heraclitus says —for what a man says does not necessarily represent what he believes.
+
+And if it is impossible for contrary attributes to belong at the same time to the same subject (the usual qualifications must be added to this premiss also), and an opinion which contradicts another is contrary to it, then clearly it is impossible for the same man to suppose at the same time that the same thing is and is not; for the man who made this error would entertain two contrary opinions at the same time.
+
+Hence all men who are demonstrating anything refer back to this as an ultimate belief; for it is by nature the starting-point of all the other axioms as well.
+
+There are some, however, as we have said, who both state themselves that the same thing can be and not be, and say that it is possible to hold this view. Many even of the physicists adopt this theory. But we have just assumed that it is impossible at once to be and not to be, and by this means we have proved that this is the most certain of all principles.
+
+Some, indeed, demand to have the law proved, but this is because they lack education; for it shows lack of education not to know of what we should require proof, and of what we should not. For it is quite impossible that everything should have a proof; the process would go on to infinity, so that even so there would be no proof.
+
+If on the other hand there are some things of which no proof need be sought, they cannot say what principle they think to be more self-evident. Even in the case of this law, however, we can demonstrate the impossibility by refutation, if only our opponent makes some statement. If he makes none, it is absurd to seek for an argument against one who has no arguments of his own about anything, in so far as he has none; for such a person, in so far as he is such, is really no better than a vegetable.
+
+And I say that proof by refutation differs from simple proof in that he who attempts to prove might seem to beg the fundamental question, whereas if the discussion is provoked thus by someone else, refutation and not proof will result.
+
+The starting-point for all such discussions is not the claim that he should state that something is or is not so (because this might be supposed to be a begging of the question), but that he should say something significant both to himself and to another (this is essential if any argument is to follow; for otherwise such a person cannot reason either with himself or with another);
+
+and if this is granted, demonstration will be possible, for there will be something already defined. But the person responsible is not he who demonstrates but he who acquiesces; for though he disowns reason he acquiesces to reason. Moreover, he who makes such an admission as this has admitted the truth of something apart from demonstration [so that not everything will be so and not so].
+
+Thus in the first place it is obvious that this at any rate is true: that the term to be or not to be has a definite meaning; so that not everything can be so and not so. Again, if man has one meaning, let this be two-footed animal.
+
+By has one meaning I mean this: if X means man, then if anything is a man, its humanity will consist in being X. And it makes no difference even if it be said that man has several meanings, provided that they are limited in number; for one could assign a different name to each formula.
+
+For instance, it might be said that man has not one meaning but several, one of which has the formula two-footed animal, and there might be many other formulae as well, if they were limited in number; for a particular name could be assigned to each for formula.
+
+If on the other hand it be said that man has an infinite number of meanings, obviously there can be no discourse; for not to have one meaning is to have no meaning, and if words have no meaning there is an end of discourse with others, and even, strictly speaking, with oneself; because it is impossible to think of anything if we do not think of one thing; and even if this were possible, one name might be assigned to that of which we think.
+
+Now let this name, as we said at the beginning, have a meaning; and let it have one meaning. Now it is impossible that being man should have the same meaning as not being man, that is, if man is not merely predicable of one subject but has one meaning
+
+(for we do not identify having one meaning with being predicable of one subject, since in this case cultured and white and man would have one meaning, and so all things would be one; for they would all have the same meaning). And it will be impossible for the same thing to be and not to be, except by equivocation, as e.g. one whom we call man others might call not-man;
+
+but the problem is whether the same thing can at once be and not be man, not in name, but in fact. If man and not-man have not different meanings, clearly not being a man will mean nothing different from being a man; and so being a man will be not being a man; they will be one.
+
+For to be one means, as in the case of garment and coat, that the formula is one. And if being man and being not-man are to be one, they will have the same meaning; but it has been proved above that they have different meanings. If then anything can be truly said to be man, it must be two-footed animal; for this is what man was intended to mean.
+
+And if this is necessarily so, it is impossible that at the same time the same thing should not be two-footed animal. For to be necessarily so means this: that it is impossible not to be so. Thus it cannot be true to say at the same time that the same thing is and is not man.
+
+And the same argument holds also in the case of not being man; because being man and being not-man have different meanings if being white and being man have different meanings (for the opposition is much stronger in the former case so as to produce different meanings).
+
+And if we are told that white too means one and the same thing, we shall say again just what we said before, that in that case all things, and not merely the opposites, will be one. But if this is impossible, what we have stated follows; that is, if our opponent answers our question; but if when asked the simple question he includes in his answer the negations, he is not answering our question.
+
+There is nothing to prevent the same thing from being man and white and a multitude of other things; but nevertheless when asked whether it is true to say that X is man, or not, one should return an answer that means one thing, and not add that X is white and large. It is indeed impossible to enumerate all the infinity of accidents; and so let him enumerate either all or none.
+
+Similarly therefore, even if the same thing is ten thousand times man and not-man, one should not include in one’s answer to the question whether it is man that it is at the same time also not-man, unless one is also bound to include in one’s answer all the other accidental things that the subject is or is not. And if one does this, he is not arguing properly.
+
+In general those who talk like this do away with substance and essence, for they are compelled to assert that all things are accidents, and that there is no such thing as being essentially man or animal. For if there is to be such a thing as being essentially man, this will not be being not-man nor not-being man (and yet these are negations of it); for it was intended to have one meaning, i.e. the substance of something.
+
+But to denote a substance means that the essence is that and nothing else; and if for it being essentially man is the same as either being essentially not-man or essentially not-being man, the essence will be something else.
+
+Thus they are compelled to say that nothing can have such a definition as this, but that all things are accidental; for this is the distinction between substance and accident: white is an accident of man, because although he is white, he is not white in essence.
+
+And since the accidental always implies a predication about some subject, if all statements are accidental, there will be nothing primary about which they are made; so the predication must proceed to infinity. But this is impossible, for not even more than two accidents can be combined in predication. An accident cannot be an accident of an accident unless both are accidents of the same thing.
+
+I mean, e.g., that white is cultured and cultured white merely because both are accidents of a man. But it is not in this sense—that both terms are accidents of something else—that Socrates is cultured. Therefore since some accidents are predicated in the latter and some in the former sense, such as are predicated in the way that white is of Socrates cannot be an infinite series in the upper direction; e.g. there cannot be another accident of white Socrates, for the sum of these predications does not make a single statement.
+
+Nor can white have a further accident, such as cultured; for the former is no more an accident of the latter than vice versa; and besides we have distinguished that although some predicates are accidental in this sense, others are accidental in the sense that cultured is to Socrates; and whereas in the former case the accident is an accident of an accident, it is not so in the latter; and thus not all predications will be of accidents.
+
+Therefore even so there will be something which denotes substance. And if this is so, we have proved that contradictory statements cannot be predicated at the same time.
+
+Again, if all contradictory predications of the same subject at the same time are true, clearly all things will be one.
+
+For if it is equally possible either to affirm or deny anything of anything, the same thing will be a trireme and a wall and a man; which is what necessarily follows for those who hold the theory of Protagoras. For if anyone thinks that a man is not a trireme, he is clearly not a trireme; and so he also is a trireme if the contradictory statement is true.
+
+And the result is the dictum of Anaxagoras, all things mixed together; so that nothing truly exists. It seems, then, that they are speaking of the Indeterminate; and while they think that they are speaking of what exists, they are really speaking of what does not; for the Indeterminate is that which exists potentially but not actually.
+
+But indeed they must admit the affirmation or negation of any predicate of any subject, for it is absurd that in the case of each term its own negation should be true, and the negation of some other term which is not true of it should not be true. I mean, e.g., that if it is true to say that a man is not a man, it is obviously also true to say that he is or is not a trireme.
+
+Then if the affirmation is true, so must the negation be true; but if the affirmation is not true the negation will be even truer than the negation of the original term itself. Therefore if the latter negation is true, the negation of trireme will also be true; and if this is true, the affirmation will be true too.
+
+And not only does this follow for those who hold this theory, but also that it is not necessary either to affirm or to deny a statement.
+
+For if it is true that X is both man and not-man, clearly he will be neither man nor not-man; for to the two statements there correspond two negations, and if the former is taken as a single statement compounded out of two, the latter is also a single statement and opposite to it.
+
+Again, either this applies to all terms, and the same thing is both white and not-white, and existent and non-existent, and similarly with all other assertions and negations; or it does not apply to all, but only to some and not to others.
+
+And if it does not apply to all, the exceptions will be admitted; but if it does apply to all, again either (a) the negation will be true wherever the affirmation is true, and the affirmation will be true wherever the negation is true, or (d) the negation will be true wherever the assertion is true, but the assertion will not always be true where the negation is true.
+
+And in the latter case there will be something which definitely is not, and this will be a certain belief; and if that it is not is certain and knowable, the opposite assertion will be still more knowable. But if what is denied can be equally truly asserted, it must be either true or false to state the predicates separately and say, e.g., that a thing is white, and again that it is not-white.
+
+And if it is not-true to state them separately, our opponent does not say what he professes to say, and nothing exists; and how can that which does not exist speak or walk? And again all things will be one, as we said before, and the same thing will be man and God and trireme and the negations of these terms.
+
+For if it is equally possible to assert or deny anything of anything, one thing will not differ from another; for if anything does differ, it will be true and unique. And similarly even if it is possible to make a true statement while separating the predicates, what we have stated follows. Moreover it follows that all statements would be true and all false; and that our opponent himself admits that what he says is false. Besides, it is obvious that discussion with him is pointless, because he makes no real statement.
+
+For he says neither yes nor no, but yes and no; and again he denies both of these and says neither yes nor no; otherwise there would be already some definite statement.
+
+Again, if when the assertion is true the negation is false, and when the latter is true the affirmation is false, it will be impossible to assert and deny with truth the same thing at the same time.
+
+But perhaps it will be said that this is the point at issue.
+
+Again, is the man wrong who supposes that a thing is so or not so, and he who supposes both right? If he is right, what is the meaning of saying that such is the nature of reality? And if he is not right, but is more right than the holder of the first view, reality will at once have a definite nature, and this will be true, and not at the same time not-true.
+
+And if all men are equally right and wrong, an exponent of this view can neither speak nor mean anything, since at the same time he says both yes and no. And if he forms no judgement, but thinks and thinks not indifferently, what difference will there be between him and the vegetables?
+
+Hence it is quite evident that no one, either of those who profess this theory or of any other school, is really in this position.
+
+Otherwise, why does a man walk to Megara and not stay at home, when he thinks he ought to make the journey? Why does he not walk early one morning into a well or ravine, if he comes to it, instead of clearly guarding against doing so, thus showing that he does not think that it is equally good and not good to fall in? Obviously then he judges that the one course is better and the other worse.
+
+And if this is so, he must judge that one thing is man and another not man, and that one thing is sweet and another not sweet. For when, thinking that it is desirable to drink water and see a man, he goes to look for them, he does not look for and judge all things indifferently; and yet he should, if the same thing were equally man and not-man.
+
+But as we have said, there is no one who does not evidently avoid some things and not others. Hence, as it seems, all men form unqualified judgements, if not about all things, at least about what is better or worse.
+
+And if they do this by guesswork and without knowledge, they should be all the more eager for truth; just as a sick man should be more eager for health than a healthy man; for indeed the man who guesses, as contrasted with him who knows, is not in a healthy relation to the truth.
+
+Again, however much things may be so and not so, yet differences of degree are inherent in the nature of things. For we should not say that 2 and 3 are equally even; nor are he who thinks that 4 is 5, and he who thinks it is 1000, equally wrong: hence if they are not equally wrong, the one is clearly less wrong, and so more right.
+
+If then that which has more the nature of something is nearer to that something, there will be some truth to which the more true is nearer. And even if there is not, still there is now something more certain and true, and we shall be freed from the undiluted doctrine which precludes any mental determination.
+
+From the same view proceeds the theory of Protagoras, and both alike must be either true or false. For if all opinions and appearances are true, everything must be at once true and false; for many people form judgements which are opposite to those of others, and imagine that those who do not think the same as themselves are wrong: hence the same thing must both be and not be.
+
+And if this is so, all opinions must be true; for those who are wrong and those who are right think contrarily to each other. So if reality is of this nature, everyone will be right.
+
+Clearly then both these theories proceed from the same mental outlook. But the method of approach is not the same for all cases; for some require persuasion and others compulsion.
+
+The ignorance of those who have formed this judgement through perplexity is easily remedied, because we are dealing not with the theory but with their mental outlook; but those who hold the theory for its own sake can only be cured by refuting the theory as expressed in their own speech and words.
+
+This view comes to those who are perplexed from their observation of sensible things. (1.) The belief that contradictions and contraries can be true at the same time comes to them from seeing the contraries generated from the same thing.
+
+Then if what is not cannot be generated, the thing must have existed before as both contraries equally—just as Anaxagoras says that everything is mixed in everything; and also Democritus, for he too says that Void and Plenum are present equally in any part, and yet the latter is, and the former is not.
+
+To those, then, who base their judgement on these considerations, we shall say that although in one sense their theory is correct, in another they are mistaken. For being has two meanings, so that there is a sense in which something can be generated from not-being, and a sense in which it cannot; and a sense in which the same thing can at once be and not be; but not in the same respect. For the same thing can be contraries at the same time potentially, but not actually.
+
+And further, we shall request them to conceive another kind also of substance of existing things, in which there is absolutely no motion or destruction or generation. And (2.) similarly the theory that there is truth in appearances has come to some people from an observation of sensible things.
+
+They think that the truth should not be judged by the number or fewness of its upholders; and they say that the same thing seems sweet to some who taste it, and bitter to others; so that if all men were diseased or all insane, except two or three who were healthy or sane, the latter would seem to be diseased or insane, and not the others.
+
+And further they say that many of the animals as well get from the same things impressions which are contrary to ours, and that the individual himself does not always think the same in matters of sense-perception. Thus it is uncertain which of these impressions are true or false; for one kind is no more true than another, but equally so. And hence Democritus says that either there is no truth or we cannot discover it.
+
+And in general it is because they suppose that thought is sense-perception, and sense-perception physical alteration, that they say that the impression given through sense-perception is necessarily true; for it is on these grounds that both Empedocles and Democritus and practically all the rest have become obsessed by such opinions as these.
+
+For Empedocles says that those who change their bodily condition change their thought:
+
+For according to that which is present to them doth thought increase in men.
+
+And in another passage he says:
+
+And as they change into a different nature, so it ever comes to them to think differently.
+
+And Parmenides too declares in the same way:
+
+For as each at any time hath the temperament of his many-jointed limbs, so thought comes to men. For for each and every man the substance of his limbs is that very thing which thinks; for thought is that which preponderates.
+
+There is also recorded a saying of Anaxagoras to some of his disciples, that things would be for them as they judged them to be.
+
+And they say that in Homer too clearly held this view, because he made Hector, when he was stunned by the blow, lie with thoughts deranged—thus implying that even those who are out of their minds still think, although not the same thoughts. Clearly then, if both are kinds of thought, reality also will be both so and not so.
+
+It is along this path that the consequences are most difficult; for if those who have the clearest vision of such truth as is possible (and these are they who seek and love it most) hold such opinions and make these pronouncements about the truth, surely those who are trying to be philosophers may well despair; for the pursuit of truth will be chasing birds in the air.
+
+But the reason why these men hold this view is that although they studied the truth about reality, they supposed that reality is confined to sensible things, in which the nature of the Indeterminate, i.e. of Being in the sense which we have explained, is abundantly present. (Thus their statements, though plausible, are not true;
+
+this form of the criticism is more suitable than that which Epicharmus applied to Xenophanes.) And further, observing that all this indeterminate substance is in motion, and that no true predication can be made of that which changes, they supposed that it is impossible to make any true statement about that which is in all ways and entirely changeable.
+
+For it was from this supposition that there blossomed forth the most extreme view of those which we have mentioned, that of the professed followers of Heraclitus, and such as Cratylus held, who ended by thinking that one need not say anything, and only moved his finger; and who criticized Heraclitus for saying that one cannot enter the same river twice, for he himself held that it cannot be done even once.
+
+But we shall reply to this theory also that although that which is changeable supplies them, when it changes, with some real ground for supposing that it is not, yet there is something debatable in this; for that which is shedding any quality retains something of that which is being shed, and something of that which is coming to be must already exist.
+
+And in general if a thing is ceasing to be, there will be something there which is; and if a thing is coming to be, that from which it comes and by which it is generated must be; and this cannot go on to infinity. But let us leave this line of argument and remark that quantitative and qualitative change are not the same.
+
+Let it be granted that there is nothing permanent in respect of quantity; but it is by the form that we recognize everything. And again those who hold the theory that we are attacking deserve censure in that they have maintained about the whole material universe what they have observed in the case of a mere minority of sensible things.
+
+For it is only the realm of sense around us which continues subject to destruction and generation, but this is a practically negligible part of the whole; so that it would have been fairer for them to acquit the former on the ground of the latter than to condemn the latter on account of the former.
+
+Further, we shall obviously say to these thinkers too the same as we said some time ago; for we must prove to them and convince them that there is a kind of nature that is not moved
+
+(and yet those who claim that things can at once be and not be are logically compelled to admit rather that all things are at rest than that they are in motion; for there is nothing for them to change into, since everything exists in everything). And as concerning reality, that not every appearance is real, we shall say, first, that indeed the perception, at least of the proper object of a sense, is not false, but the impression we get of it is not the same as the perception.
+
+And then we may fairly express surprise if our opponents raise the question whether magnitudes and colors are really such as they appear at a distance or close at hand, as they appear to the healthy or to the diseased; and whether heavy things are as they appear to the weak or to the strong; and whether truth is as it appears to the waking or to the sleeping.
+
+For clearly they do not really believe the latter alternative—at any rate no one, if in the night he thinks that he is at Athens whereas he is really in Africa, starts off to the Odeum. And again concerning the future (as indeed Plato says) the opinion of the doctor and that of the layman are presumably not equally reliable, e.g. as to whether a man will get well or not.
+
+And again in the case of the senses themselves, our perception of a foreign object and of an object proper to a given sense, or of a kindred object and of an actual object of that sense itself, is not equally reliable; but in the case of colors sight, and not taste, is authoritative, and in the case of flavor taste, and not sight. But not one of the senses ever asserts at the same time of the same object that it is so and not so.
+
+Nor even at another time does it make a conflicting statement about the quality, but only about that to which the quality belongs. I mean, e.g., that the same wine may seem, as the result of its own change or of that of one’s body, at one time sweet and at another not; but sweetness, such as it is when it exists, has never yet changed, and there is no mistake about it, and that which is to be sweet is necessarily of such a nature.
+
+Yet all these theories destroy the possibility of anything’s existing by necessity, inasmuch as they destroy the existence of its essence; for the necessary cannot be in one way and in another; and so if anything exists of necessity, it cannot be both so and not so.
+
+And in general, if only the sensible exists, without animate things there would be nothing; for there would be no sense-faculty.
+
+That there would be neither sensible qualities nor sensations is probably true (for these depend upon an effect produced in the percipient), but that the substrates which cause the sensation should not exist even apart from the sensation is impossible.
+
+For sensation is not of itself, but there is something else too besides the sensation, which must be prior to the sensation; because that which moves is by nature prior to that which is moved, and this is no less true if the terms are correlative.
+
+But there are some, both of those who really hold these convictions and of those who merely profess these views, who raise a difficulty; they inquire who is to judge of the healthy man, and in general who is to judge rightly in each particular case. But such questions are like wondering whether we are at any given moment asleep or awake;
+
+and all problems of this kind amount to the same thing. These people demand a reason for everything. They want a starting-point, and want to grasp it by demonstration; while it is obvious from their actions that they have no conviction. But their case is just what we have stated before; for they require a reason for things which have no reason, since the starting-point of a demonstration is not a matter of demonstration.
+
+The first class, then, may be readily convinced of this, because it is not hard to grasp. But those who look only for cogency in argument look for an impossibility, for they claim the right to contradict themselves, and lose no time in doing so.
+
+Yet if not everything is relative, but some things are self-existent, not every appearance will be true; for an appearance is an appearance to someone. And so he who says that all appearances are true makes everything relative.
+
+Hence those who demand something cogent in argument, and at the same time claim to make out a case, must guard themselves by saying that the appearance is true; not in itself, but for him to whom it appears, and at, the time when it appears, and in the way and manner in which it appears. And if they make out a case without this qualification, as a result they will soon contradict themselves;
+
+for it is possible in the case of the same man for a thing to appear honey to the sight, but not to the taste, and for things to appear different to the sight of each of his two eyes, if their sight is unequal. For to those who assert (for the reasons previously stated) that appearances are true, and that all things are therefore equally false and true, because they do not appear the same to all, nor always the same to the same person, but often have contrary appearances at the same time
+
+(since if one crosses the fingers touch says that an object is two, while sight says that it is only one), we shall say but not to the same sense or to the same part of it in the same way and at the same time; so that with this qualification the appearance will be true. But perhaps it is for this reason that those who argue not from a sense of difficulty but for argument’s sake are compelled to say that the appearance is not true in itself, but true to the percipient;
+
+and, as we have said before, are compelled also to make everything relative and dependent upon opinion and sensation, so that nothing has happened or will happen unless someone has first formed an opinion about it; otherwise clearly all things would not be relative to opinion.
+
+Further, if a thing is one, it is relative to one thing or to something determinate. And if the same thing is both a half and an equal, yet the equal is not relative to the double.
+
+If to the thinking subject man and the object of thought are the same, man will be not the thinking subject but the object of thought; and if each thing is to be regarded as relative to the thinking subject, the thinking subject will be relative to an infinity of specifically different things.
+
+That the most certain of all beliefs is that opposite statements are not both true at the same time, and what follows for those who maintain that they are true, and why these thinkers maintain this, may be regarded as adequately stated. And since the contradiction of a statement cannot be true at the same time of the same thing, it is obvious that contraries cannot apply at the same time to the same thing.
+
+For in each pair of contraries one is a privation no less than it is a contrary—a privation of substance. And privation is the negation of a predicate to some defined genus. Therefore if it is impossible at the same time to affirm and deny a thing truly, it is also impossible for contraries to apply to a thing at the same time; either both must apply in a modified sense, or one in a modified sense and the other absolutely.
+
+Nor indeed can there be any intermediate between contrary statements, but of one thing we must either assert or deny one thing, whatever it may be. This will be plain if we first define truth and falsehood. To say that what is is not, or that what is not is, is false; but to say that what is is, and what is not is not, is true; and therefore also he who says that a thing is or is not will say either what is true or what is false.
+
+But neither what is nor what is not is said not to be or to be. Further, an intermediate between contraries will be intermediate either as grey is between black and white, or as neither man nor horse is between man and horse. If in the latter sense, it cannot change (for change is from not-good to good, or from good to not-good);
+
+but in fact it is clearly always changing; for change can only be into the opposite and the intermediate. And if it is a true intermediate, in this case too there would be a kind of change into white not from not-white; but in fact this is not seen. Further, the understanding either affirms or denies every object of understanding or thought (as is clear from the definition)
+
+whenever it is right or wrong. When, in asserting or denying, it combines the predicates in one way, it is right; when in the other, it is wrong.
+
+Again, unless it is maintained merely for argument’s sake, the intermediate must exist beside all contrary terms; so that one will say what is neither true nor false. And it will exist beside what is and what is not; so that there will be a form of change beside generation and destruction.
+
+Again, there will also be an intermediate in all classes in which the negation of a term implies the contrary assertion; e.g., among numbers there will be a number which is neither odd nor not-odd. But this is impossible, as is clear from the definition.
+
+Again, there will be an infinite progression, and existing things will be not only half as many again, but even more.
+
+For again it will be possible to deny the intermediate in reference both to its assertion and to its negation, and the result will be something; for its essence is something distinct.
+
+Again, when a man is asked whether a thing is white and says no, he has denied nothing except that it is 〈white〉, and its not-being 〈white〉 is a negation.
+
+Now this view has occurred to certain people in just the same way as other paradoxes have also occurred; for when they cannot find a way out from eristic arguments, they submit to the argument and admit that the conclusion is true. Some, then, hold the theory for this kind of reason, and others because they require an explanation for everything. In dealing with all such persons the starting-point is from definition;
+
+and definition results from the necessity of their meaning something; because the formula, which their term implies, will be a definition. The doctrine of Heraclitus, which says that everything is and is not, seems to make all things true; and that of Anaxagoras seems to imply an intermediate in contradiction, so that all things are false; for when things are mixed, the mixture is neither good nor not-good; and so no statement is true.
+
+It is obvious from this analysis that the one-sided and sweeping statements which some people make cannot be substantially true—some maintaining that nothing is true (for they say that there is no reason why the same rule should not apply to everything as applies to the commensurability of the diagonal of a square), and some that everything is true.
+
+These theories are almost the same as that of Heraclitus. For the theory which says that all things are true and all false also makes each of these statements separately; so that if they are impossible in combination they are also impossible individually. And again obviously there are contrary statements, which cannot be true at the same time. Nor can they all be false, although from what we have said, this might seem more possible.
+
+But in opposing all such theories we must demand, as was said in our discussion above, not that something should be or not be, but some significant statement; and so we must argue from a definition, having first grasped what falsehood or truth means. And if to assert what is true is nothing else than to deny what is false, everything cannot be false; for one part of the contradiction must be true.
+
+Further, if everything must be either asserted or denied, both parts cannot be false; for one and only one part of the contradiction is false. Indeed, the consequence follows which is notorious in the case of all such theories, that they destroy themselves;
+
+for he who says that everything is true makes the opposite theory true too, and therefore his own untrue (for the opposite theory says that his is not true); and he who says that everything is false makes himself a liar.
+
+And if they make exceptions, the one that the opposite theory alone is not true, and the other that his own theory alone is not false, it follows none the less that they postulate an infinite number of true and false statements. For the statement that the true statement is true is also true; and this will go on to infinity.
+
+Nor, as is obvious, are those right who say that all things are at rest; nor those who say that all things are in motion. For if all things are at rest, the same things will always be true and false, whereas this state of affairs is obviously subject to change; for the speaker himself once did not exist, and again he will not exist. And if all things are in motion, nothing will be true, so everything will be false; but this has been proved to be impossible.
+
+Again, it must be that which is that changes, for change is from something into something. And further, neither is it true that all things are at rest or in motion sometimes, but nothing continuously; for there is something which always moves that which is moved, and the prime mover is itself unmoved.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "cicero-marcus-tullius-letters-to-brutus-b8c15f",
+  "work_title": "Letters to Brutus",
+  "chapter_number": 1,
+  "chapter_title": "Letters to Brutus",
+  "chapter_slug": "01-letters-to-brutus",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "950570f2-52b2-57a1-a96f-0eba67b2f044",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 7563,
+      "paragraph_count": 122,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi059.perseus-lat1:1"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "21d6006c-0798-52d5-a6b1-d370e020b893",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 15930,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi059.perseus-eng1"
+    }
+  ]
+}

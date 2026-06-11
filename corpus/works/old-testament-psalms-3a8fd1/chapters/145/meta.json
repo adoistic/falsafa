@@ -1,0 +1,38 @@
+{
+  "work_slug": "old-testament-psalms-3a8fd1",
+  "work_title": "Psalms",
+  "chapter_number": 145,
+  "chapter_title": "Chapter 147",
+  "chapter_slug": "145",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b3f57087-0c64-5231-a79c-63405cbb7804",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 267,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.1st1K-grc1:145"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b2c4de23-40c8-5051-b720-67defdebf58e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 282,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg027.perseus-eng2:145"
+    }
+  ]
+}

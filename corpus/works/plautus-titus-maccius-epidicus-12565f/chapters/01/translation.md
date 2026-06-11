@@ -1,0 +1,29 @@
+---
+work_id: "12565feb-aaa7-5480-839e-fb958fa39190"
+work_slug: "plautus-titus-maccius-epidicus-12565f"
+work_title: Epidicus
+author_name: Plautus, Titus Maccius
+chapter_number: 1
+chapter_title: Chapter front
+chapter_slug: 01
+variant_id: "eb24e741-ca45-5856-9e72-55802abc355a"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 751
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0119.phi009.perseus-eng2:1"
+translator: Perseus Digital Library
+---
+
+Dramatis Personae
+
+PERIPHIANES, an aged Athenian of rank. STRATIPPOCLES, his son by a former wife. APAECIDES, an aged Athenian, friend of Periphanes. EPIDICUS, servant of Periphanes. CHAERIBULUS, a young Athenian, friend of Stratippocies. THESPRIO, armour-bearer to Stratippocles. A CAPTAIN of. A BANKER. PHILIPPA, a woman of, the mother of Telestis. ACROPOLISTIS, a music-girl, mistress of Stratippocles. TELESTIS, daughter of Periphanes and Philippa. A MUSIC-GIRL.
+
+(Scene— Athens: before the houses of PERIPHANES, APAECIDES, and CHAERIBULUS.)
+
+THE SUBJECT. The plot of this Play is of an involved nature. Periphanes, an aged Athenian, has a son, born in wedlock, named Stratippocles. By Philippa, a woman of Epidaurus, whom he has formerly seduced, he has had a daughter, named Telestis who has been residing with her mother at Thebes. A war arising between the Athenians and Thebans, Stratippocles, on setting out for the army, commissions Epidicus, his father’s servant, to purchase for him Acropolistis, a music-girl, of whom lie is enamoured. Epidicns, on this, persuades Periphanes that this girl is really his daughter by Philippa, whom he has not seen for many years, and that she has been taken captive at Thebes, and brought to Athens. On this the old man gives Epidicus the requisite sum, and she is brought home and introduced to him as his daughter Telestis. In the meantime, Stratippocles meets with another damsel who has been taken captive, and agrees with a Banker to borrow forty mince, for the purpose of purchasing her. He returns to Athens, and resolves not to meet his father until he has paid the money to the Banker and gained possession of the damsel, and Epidicus is threatened by him with a severe punishment, if he does not manage to raise the sum required. On this he accosts his aged master, and tells him that he must find a wife for his son, who is about to purchase a singing-girl of the name of Acropolistis. The old man is persuaded to give a sum of money to Epidicus for the purpose of buying Acropolistis, that she may be kept out of the way of his son. On receiving the money, Epidicus hands it over to Stratippocles, to be paid to the Banker. The old gentleman having that morning ordered a singing-girl to be hired to perform at a sacrifice at his house, she is brought to him as Acropolistis, having been instructed how to play her part. A Captain, who admires Acropolistis, having heard that Periphanes has purchased her, applies to him, and offers to give him a profit of ten minae if he will transfer her to him. Periphanes, thereupon, brings to him the music-girl who is assuming that character (while the real Acropolistis is taken for his daughter), on which the Captain discovers the deception, and Periphanes finds out that the girl is already free, and has been only brought to his house to perform at the sacrifice. At this conjuncture Philippa arrives, having heard that her daughter has been brought to Athens. Periphanes meets her, and assures her that her daughter is safe at his house. On this, Philippa is introduced to Acropolistis, and declares that she is not her daughter, and that Periphanes has been imposed upon. On being questioned,Acropolistis confesses that she has only called Periphanes her father because lie has called her his daughter. Epidicus, on being discovered to be guilty of this second fraud upon his master, is greatly alarmed; but just then he perceives the Banker, who has come for the money, leading the Theban captive. He immediately recognizes her as Telestis, the real daughter of Periphanes and Philippa, Stratippocles, somewhat to his sorrow, is informed that the captive is his half-sister, and therefore, most probably, consoles himself with Acropolistis. For making this discovery, Epidicus is not only pardoned by Periphanes, but receives his freedom.
+
+THE ACROSTIC ARGUMENT. An old gentleman, thinking her his daughter, purchases (Emit) a music-girl, by the advice (Persuasu) of his servant, who, a second time (Iterum), substitutes for him, in place of his son’s mistress, another one hired; he gives (Dat) to his master’s son the money; with it the young man, not knowing it (Imprudens), purchases his sister. Soon afterwards, by the aid of a woman whom he has seduced, and of a Captain, the old man understands (Cognoscit) that he has been imposed upon, as (Ut) the one is in search of his mistress, the other of her daughter. But (Sed) on finding his daughter, he gives his servant his liberty.

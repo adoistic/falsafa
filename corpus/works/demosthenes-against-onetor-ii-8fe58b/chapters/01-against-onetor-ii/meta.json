@@ -1,0 +1,38 @@
+{
+  "work_slug": "demosthenes-against-onetor-ii-8fe58b",
+  "work_title": "Against Onetor II",
+  "chapter_number": 1,
+  "chapter_title": "Against Onetor II",
+  "chapter_slug": "01-against-onetor-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "912144f0-8769-512a-9b5f-10ed7f904e4f",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 951,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg031.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1fff33aa-dd52-5a1f-bd6d-ad80e7ede230",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1597,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg031.perseus-eng2"
+    }
+  ]
+}

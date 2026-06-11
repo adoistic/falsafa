@@ -1,0 +1,38 @@
+{
+  "work_slug": "lucian-of-samosata-dialogi-marini-df98cc",
+  "work_title": "Dialogi Marini",
+  "chapter_number": 13,
+  "chapter_title": "Book 14",
+  "chapter_slug": "13",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9df1cea9-33d0-52bf-b7f0-f7bbc763cd5c",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 163,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg067.perseus-grc3:13"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a30a391d-a2a8-5be4-8f3e-75719046a630",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 538,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0062.tlg067.perseus-eng4:13"
+    }
+  ]
+}

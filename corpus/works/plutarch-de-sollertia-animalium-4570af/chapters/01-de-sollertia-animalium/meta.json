@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-sollertia-animalium-4570af",
+  "work_title": "De sollertia animalium",
+  "chapter_number": 1,
+  "chapter_title": "De sollertia animalium",
+  "chapter_slug": "01-de-sollertia-animalium",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f52116cc-1d67-5594-a759-c901cd3ae8f1",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 11895,
+      "paragraph_count": 101,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg129.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "09f825fb-35d3-5b5f-8f94-96fc113b649e",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 20126,
+      "paragraph_count": 132,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg129.perseus-eng4"
+    }
+  ]
+}

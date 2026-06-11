@@ -1,0 +1,47 @@
+---
+work_id: "53e442cc-e560-5739-b368-28237fb9d498"
+work_slug: "old-testament-joshua-53e442"
+work_title: Joshua
+author_name: Old Testament
+chapter_number: 14
+chapter_title: Chapter 14
+chapter_slug: 14
+variant_id: "d1a8196e-ea90-5995-9a1b-adc485037949"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 461
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0527.tlg006.perseus-eng2:14"
+translator: Perseus Digital Library
+---
+
+These are the inheritances which the children of Israel took in the land of Canaan, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers’ [houses] of the tribes of the children of Israel, distributed to them, by the lot of their inheritance, as Yahweh commanded by Moses, for the nine tribes, and for the half-tribe.
+
+For Moses had given the inheritance of the two tribes and the half-tribe beyond the Jordan: but to the Levites he gave no inheritance among them.
+
+For the children of Joseph were two tribes, Manasseh and Ephraim: and they gave no portion to the Levites in the land, save cities to dwell in, with the suburbs of it for their cattle and for their substance.
+
+As Yahweh commanded Moses, so the children of Israel did; and they divided the land.
+
+Then the children of Judah drew near to Joshua in Gilgal: and Caleb the son of Jephunneh the Kenizzite said to him, You know the thing that Yahweh spoke to Moses the man of God concerning me and concerning you in Kadesh-barnea.
+
+Forty years old was I when Moses the servant of Yahweh sent me from Kadesh-barnea to spy out the land; and I brought him word again as it was in my heart.
+
+Nevertheless my brothers who went up with me made the heart of the people melt; but I wholly followed Yahweh my God.
+
+Moses swore on that day, saying, Surely the land whereon your foot has trodden shall be an inheritance to you and to your children forever, because you have wholly followed Yahweh my God.
+
+Now, behold, Yahweh has kept me alive, as he spoke, these forty-five years, from the time that Yahweh spoke this word to Moses, while Israel walked in the wilderness: and now, behold, I am this day eighty-five years old.
+
+As yet I am as strong this day as I as in the day that Moses sent me: as my strength was then, even so is my strength now, for war, and to go out and to come in.
+
+Now therefore give me this hill-country, whereof Yahweh spoke in that day; for you heard in that day how the Anakim were there, and cities great and fortified: it may be that Yahweh will be with me, and I shall drive them out, as Yahweh spoke.
+
+Joshua blessed him; and he gave Hebron to Caleb the son of Jephunneh for an inheritance.
+
+Therefore Hebron became the inheritance of Caleb the son of Jephunneh the Kenizzite to this day; because that he wholly followed Yahweh, the God of Israel.
+
+Now the name of Hebron before was Kiriath Arba; [which Arba was] the greatest man among the Anakim. The land had rest from war.

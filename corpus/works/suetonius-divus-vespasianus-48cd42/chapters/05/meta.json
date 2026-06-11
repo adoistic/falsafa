@@ -1,0 +1,38 @@
+{
+  "work_slug": "suetonius-divus-vespasianus-48cd42",
+  "work_title": "Divus Vespasianus",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "05",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "381f0ced-1b5c-5a39-9b9a-adcc5d59e7b5",
+      "language": "Latin",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 325,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo020.perseus-lat2:5"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "248a811c-86ee-5fd9-a716-041521006ab7",
+      "language": "english",
+      "source_language": "Latin",
+      "script": "latin",
+      "word_count": 584,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:latinLit:phi1348.abo020.perseus-eng2:5"
+    }
+  ]
+}

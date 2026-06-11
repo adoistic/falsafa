@@ -1,0 +1,38 @@
+{
+  "work_slug": "plato-lovers-d93a96",
+  "work_title": "Lovers",
+  "chapter_number": 1,
+  "chapter_title": "Lovers",
+  "chapter_slug": "01-lovers",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c2c961d9-f4dc-55b6-b261-2e0c47471136",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 2385,
+      "paragraph_count": 141,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg016.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97d728e2-ce61-5855-bc89-bef4ec1c3c61",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 3421,
+      "paragraph_count": 126,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0059.tlg016.perseus-eng2"
+    }
+  ]
+}

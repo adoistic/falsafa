@@ -1,0 +1,23 @@
+---
+work_id: "32b267db-18bf-5660-a3a1-16904f91163b"
+work_slug: "cicero-marcus-tullius-letters-to-his-friends-32b267"
+work_title: Letters to his Friends
+author_name: Cicero, Marcus Tullius
+chapter_number: 187
+chapter_title: "Chapter text=F:book=9:letter=9"
+chapter_slug: 187
+variant_id: "14f51c65-dda6-5292-beaa-82e9d4da1d23"
+content_type: translation
+layout: prose
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 538
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0474.phi056.perseus-eng1:187"
+translator: Perseus Digital Library
+---
+
+DOLABELLA TO CICERO (IN EPIRUS) CAESAR'S CAMP IN EPIRUS (MAY OR JUNE)
+
+If you are well, I am glad. I am quite well, and so is our dear Tullia. Terentia has been rather unwell, but I am assured that she has now recovered. In all other respects things are quite as they should be at your house. Though at no time did I deserve to be suspected by you of acting from party motives rather than from a regard to your interests, when I urged you either to join Caesar and myself, or at least to retire from open war, especially since victory has already inclined in our favour, it is now not even possible that I should create any other impression than that of urging upon you what I could not, with due regard to my duty as your son-in-law, suppress. On your part, my dear Cicero, pray regard what follows-whether you accept or reject the advice—as both conceived and written with the best possible intention and the most complete devotion to yourself. You observe that Pompey is not secured either by the glory of his name and achievements, or by the list of client kings and peoples, which he was frequently wont to parade: and that even what has been possible for the rank and file, is impossible for him,—to effect an honourable retreat: driven as he has been from Italy, the Spanish provinces lost, a veteran army captured, and now finally inclosed by his enemy's lines. Such disasters I rather think have never happened to a Roman general. Wherefore employ all your Wisdom in considering what either he or you have to hope. For thus you will most easily adopt the policy which will be to your highest advantage. Yet I do beg this of you,—that if Pompey succeeds in avoiding this danger and taking refuge with his fleet, you should consult for your own interests, and at length be your own friend rather than that of anyone else in the world. You have by this time satisfied the claims of duty or friendship, whichever you choose to call it: you have fulfilled all obligations to your party also, and to that constitution to which you are devoted. It remains to range ourselves with the constitution as now existing, rather than, while striving for the old one, to find ourselves with none at all. Wherefore my desire is, dearest Cicero, that, supposing Pompey to be driven from this district also and compelled to seek other quarters, you should betake yourself to Athens or any peaceful city you choose. If you decide to do so, pray write and tell me, that I may, if I possibly can, hurry to your side. Whatever marks of consideration for your rank have to be obtained from the commander-in-chief, such is Caesar's kindness, that it will be the easiest thing in the world for you to obtain them from him yourself: nevertheless, I think that a petition from me also will not be without considerable weight with him. I trust to your honour and kindness also to see that the letter-carrier whom I send to you may be enabled to return to me, and bring me a letter from you.

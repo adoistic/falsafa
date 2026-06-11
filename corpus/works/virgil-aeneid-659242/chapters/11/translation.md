@@ -1,0 +1,533 @@
+---
+work_id: "6592424b-c8c1-5cbc-a472-f5e083e9fdf9"
+work_slug: "virgil-aeneid-659242"
+work_title: Aeneid
+author_name: Virgil
+chapter_number: 11
+chapter_title: Book 11
+chapter_slug: 11
+variant_id: "9ceb8a8b-2e95-55b1-9504-740320632fb0"
+content_type: translation
+layout: verse
+language: english
+source_language: Latin
+language_direction: ltr
+script: latin
+word_count: 9206
+source_url: "https://scaife.perseus.org/reader/urn:cts:latinLit:phi0690.phi003.perseus-eng2:11"
+translator: Theodore C. Williams
+---
+
+Up from the sea now soared the dawning day:
+
+Aeneas, though his sorrow bids him haste to burial of the slain, and his sad soul is clouded with the sight of death, fulfils, for reward to his gods, a conqueror's vow, at morning's earliest beam. A mighty oak shorn of its limbs he sets upon a hill and clothes it o'er with glittering arms, the spoil of King Mezentius, and a trophy proud to thee, great lord of war. The hero's plumes bedewed with blood are there, and splintered spears;
+
+there hangs the corselet, by the thrusting steel twelve times gored through; upon the left he binds the brazen shield, and from the neck suspends the ivory-hilted sword. Aeneas thus, as crowding close his train of captains throng, addressed his followers: “Ye warriors mine, our largest work is done. Bid fear begone of what is left to do. Behold the spoils!
+
+Yon haughty King was firstfruits of our war.
+
+See this Mezentius my hands have made!
+
+Now to the Latin town and King we go.
+
+Arm you in soul! With heart of perfect hope prepare the war! So when the gods give sign to open battle and lead forth our brave out of this stronghold, no bewilderment, nor tarrying, nor fearful, faltering mind shall slack our march. Meanwhile in earth we lay our comrades fallen; for no honor else in Acheron have they. Go forth,” said he,
+
+“bring gifts of honor and of last farewell to those high hearts by shedding of whose blood our country lives. To sad Evander's town bear Pallas first; who, though he did not fail of virtue's crown, was seized by doom unblest, and to the bitterness of death consigned.”
+
+Weeping he spoke, and slowly backward drew to the tent-door, where by the breathless clay of Pallas stood Acoetes, aged man, once bearer of Evander's arms, but now under less happy omens set to guard his darling child. Around him is a throng of slaves, with all the Trojan multitude, and Ilian women, who the wonted way let sorrow's tresses loosely flow. When now
+
+Aeneas to the lofty doors drew near, all these from smitten bosoms raised to heaven a mighty moaning, till the King's abode was loud with anguish. There Aeneas viewed the pillowed head of Pallas cold and pale, the smooth young breast that bore the gaping wound of that Ausonian spear, and weeping said:
+
+“Did Fortune's envy, smiling though she came, refuse me, hapless boy, that thou shouldst see my throne established, and victorious ride beside me to thy father's house? Not this my parting promise to thy King and sire,
+
+Evander, when with friendly, fond embrace to win imperial power he bade me go;
+
+yet warned me anxiously I must resist bold warriors and a stubborn breed of foes.
+
+And haply even now he cheats his heart with expectation vain, and offers vows, heaping with gifts the altars of his gods.
+
+But we with unavailing honors bring this lifeless youth, who owes the gods of heaven no more of gift and vow. O ill-starred King!
+
+Soon shalt thou see thy son's unpitying doom!
+
+What a home-coming! This is glory's day so Iong awaited; this the solemn pledge
+
+I proudly gave. But fond Evander's eyes will find no shameful wounding on the slain, nor for a son in coward safety kept wilt thou, the sire, crave death. But woe is me!
+
+How strong a bulwark in Ausonia falls!
+
+What loss is thine, Iulus!” Thus lamenting, he bids them lift the body to the bier, and sends a thousand heroes from his host to render the last tributes, and to share father's tears:—poor solace and too small for grief so great, but due that mournful sire.
+
+Some busy them to build of osiers fine the simple litter, twining sapling oaks with evergreen, till o'er death's Iofty bed the branching shade extends. Upon it lay, as if on shepherd's couch, the youthful dead, like fairest flower by virgin fingers culled, frail violet or hyacinth forlorn, of color still undimmed and leaf unmarred;
+
+but from the breast of mother-earth no more its life doth feed. Then good Aeneas brought two broidered robes of scarlet and fine gold, which with the gladsome labor of her hands
+
+Sidonian Dido wrought him long ago, the thin-spun gold inweaving. One of these the sad prince o'er the youthful body threw for parting gift; and with the other veiled those tresses from the fire; he heaped on high
+
+Laurentum's spoils of war, and bade to bring much tribute forth: horses and arms he gave, seized from the fallen enemy; with hands fettered behind them filed a captive train doomed to appease the shades, and with the flames to mix their flowing blood. He bade his chiefs set up the trunks of trees and clothe them well with captured arms, inscribing on each one some foeman's name. Then came Acoetes forth, a wretched, worn old man, who beat his breast with tight-clenched hands, and tore his wrinkled face with ruthless fingers; oft he cast him down full length along the ground. Then lead they forth the blood-stained Rutule chariots of war;
+
+Aethon, the war-horse, of his harness bare, walks mournful by; big teardrops wet his cheek.
+
+Some bear the lance and helm; for all the rest victorious Turnus seized. Then filed along a mournful Teucrian cohort; next the host
+
+Etrurian and the men of Arcady with trailing arms reversed. Aeneas now, when the long company had passed him by, spoke thus and groaned aloud: “Ourselves from hence are summoned by the same dread doom of war to other tears. Farewell forevermore!
+
+Heroic Pallas! be forever blest!
+
+I bid thee hail, farewell!” In silence then back to the stronghold's Iofty walls he moved.
+
+Now envoys from the Latin citadel came olive-crowned, to plead for clemency:
+
+would he not yield those bodies of the dead sword-scattered o'er the plain, and let them lie beneath an earth-built tomb? Who wages war upon the vanquished, the unbreathing slain?
+
+To people once his hosts and kindred called, would he not mercy show? To such a prayer, deemed not unworthy, good Aeneas gave the boon, and this benignant answer made:
+
+“Ye Latins, what misfortune undeserved has snared you in so vast a war, that now you shun our friendship? Have you here implored peace for your dead, by chance of battle fallen?
+
+Pain would I grant it for the living too.
+
+I sailed not hither save by Heaven's decree, which called me to this land. I wage no war with you, the people; 't was your King refused our proffered bond of peace, and gave his cause to Turnus' arms. More meet and just it were had Turnus met this death that makes you mourn.
+
+If he would end our quarrel sword in hand, thrusting us Teucrians forth, 't was honor's way to cross his blade with mine; that man to whom the gods, or his own valor, had decreed the longer life, had lived. But now depart!
+
+Beneath your lost friends light the funeral fires!”
+
+So spoke Aeneas; and with wonder mute all stood at gaze, each turning to behold his neighbor's face. Then Drances, full of years, and ever armed with spite and slanderous word against young Turnus, made this answering plea:
+
+“O prince of mighty name, whose feats of arms are even mightier! Trojan hero, how shall my poor praise exalt thee to the skies?
+
+Is it thy rectitude or strenuous war most bids me wonder? We will bear thy word right gladly to the city of our sires;
+
+and there, if Fortune favor it, contrive a compact with the Latin King. Henceforth let Turnus find his own allies! Ourselves will much rejoice to see thy destined walls, and our own shoulders will be proud to bear the stone for building Troy.” Such speech he made, and all the common voice consented loud.
+
+So twelve days' truce they swore, and safe from harm
+
+Latins and Teucrians unmolested roved together o'er the wooded hills. Now rang loud steel on ash-tree bole; enormous pines, once thrusting starward, to the earth they threw;
+
+and with industrious wedge asunder clove stout oak and odorous cedar, piling high harvest of ash-trees on the creaking wain.
+
+Now Rumor, herald of prodigious woe, to King Evander hied, Evander's house and city filling, where, but late, her word had told in Latium Pallas' victory.
+
+th' Arcadians thronging to the city-gates bear funeral torches, the accustomed way;
+
+in lines of flame the long street flashes far, lighting the fields beyond. To meet them moves a Phrygian company, to join with theirs its lamentation loud. The Latin wives, soon as they saw them entering, aroused the whole sad city with shrill songs of woe.
+
+No hand could stay Evander. Forth he flew into the midmost tumult, and fell prone on his dead Pallas, on the resting bier;
+
+he clung to the pale corse with tears, with groans, till anguish for a space his lips unsealed:
+
+“Not this thy promise, Pallas, to thy sire, to walk not rashly in the war-god's way.
+
+I knew too well how honor's morning-star, and sweet, foretasted glory tempt and woo in a first battle. O first-fruit forlorn of youth so fair! O prelude pitiless of war approaching! O my vows and prayers, which not one god would hear! My blessed wife, how happy was the death that spared thee not to taste this bitterness! But I, the while, by living longer lived to meet my doom,— a father sole-surviving. Would I myself had perished by the Rutule's cruel spear, the Trojan's cause espousing! This breath of life how gladly had I given! And O, that now yon black solemnity were bearing home myself, not Pallas, dead! Yet blame I not,
+
+O Teucrians, the hallowed pact we made, nor hospitable bond and clasp of hands.
+
+This doom ye bring me was writ long ago, for my old age. And though my child is fallen untimely, I take comfort that he fell where thousands of the Volscians slaughtered lie, and into Latium led the Teucrian arms.
+
+What brighter glory could I crave in death for thee, my Pallas, than Aeneas brings, and Phrygian princes, and Etrurian lords with all Etruria's legions? Lo, they bear yon glittering spoils of victims of thy sword!
+
+Thou, Turnus, too, wert now an effigy in giant armor clad, if but his years and strength full ripe had been fair match for thine!
+
+But now my woes detain the Trojan host from battle. I beseech ye haste away, and bear this faithful message to your King:
+
+since I but linger out a life I loathe, without my Pallas, nothing but thy sword can bid me live. Then let thy sword repay its debt to sire and son by Turnus slain!
+
+Such deed alone may with thy honor fit, and happier fortunes. But my life to me has no joy left to pray for, save to bring my son that solace in the shadowy land.”
+
+Meanwhile o'er sorrowing mortals the bright morn had lifted her mild beam, renewing so the burden of man's toil. Aeneas now built funeral pyres along the winding shore,
+
+King Tarchon at his side. Each thither brought the bodies of his kin, observing well all ancient ritual. The fuming fires burned from beneath, till highest heaven was hid in blackest, overmantling cloud. Three times the warriors, sheathed in proud, resplendent steel, paced round the kindling pyres; and three times fair companies of horsemen circled slow, with loud lamenting, round the doleful flame.
+
+The wail of warriors and the trumpets' blare the very welkin rend. Cast on the flames are spoils of slaughtered Latins,—helms and blades, bridles and chariot-wheels. Yet others bring gifts to the dead familiar, their own shields and unavailing spears. Around them slain great herds of kine give tribute unto death:
+
+swine, bristly-backed, from many a field are borne, and slaughtered sheep bleed o'er the sacred fire.
+
+So on the shore the wailing multitude behold their comrades burning, and keep guard o'er the consuming pyres, nor turn away till cooling night re-shifts the globe of heaven, thick-strewn with numberless far-flaming stars.
+
+Likewise the mournful Latins far away have built their myriad pyres. Yet of the slain not few in graves are laid, and borne with tears to neighboring country-side or native town;
+
+the rest—promiscuous mass of dead unknown— to nameless and unhonored ashes burn;
+
+with multitude of fires the far-spread fields blaze forth unweariedly. But when from heaven the third morn had dispelled the dark and cold, the mournful bands raked forth the mingled bones and plenteous ashes from the smouldering pyres, then heaped with earth the one sepulchral mound.
+
+Now from the hearth-stones of the opulent town of old Latinus a vast wail burst forth, for there was found the chief and bitterest share of all the woe. For mothers in their tears, lone brides, and stricken souls of sisters fond, and boys left fatherless, fling curses Ioud on Turnus' troth-plight and the direful war:
+
+“Let him, let Turnus, with his single sword decide the strife,”—they cry,—“and who shall claim
+
+Lordship of Italy and power supreme.”
+
+Fierce Drances whets their fury, urging all that Turnus singly must the challenge hear, and singly wage the war; but others plead in Turnus' favor; the Queen's noble name protects him, and his high renown in arms defends his cause with well-won trophies fair.
+
+Amid these tumults of the wrathful throng, lo, the ambassadors to Diomed arrive with cloudy forehead from their quest in his illustrious town; for naught availed their toilsome errand, nor the gifts and gold, nor strong entreaty. Other help in war the Latins now must find, or humbly sue peace from the Trojan. At such tidings dire even Latinus trembles: Heaven's decrees and influence of gods too visible sustain Aeneas; so the wrath divine and new-filled sepulchres conspicuous give warning clear. Therefore the King convenes a general council of his captains brave beneath the royal towers. They, gathering, throng the approaches thither, where their Iord, gray-haired Latinus, takes the central throne, wearing authority with mournful brow.
+
+He bids the envoys from Aetolia's King sent back, to speak and tell the royal words in order due. Forthwith on every tongue fell silence, while the princely Venulus, heeding his Iord's behest, began the parle:
+
+“My countrymen,” he said, “our eyes have seen strongholds of Greeks and Diomed the King.
+
+We braved all perils to our journey's end and clasped that hand whereof the dreadful stroke wrought Ilium 's fall. The hero built a town,
+
+Argyripa, hereditary name, near mount Garganus in Apulian land:
+
+passing that city's portal and the King's, we found free audience, held forth thy gifts, and told our names and fatherland. We showed what condict was enkindled, and what cause brought us to Arpi's King. He, hearing all, with brow benign made answer to our plea:
+
+‘O happy tribes in Saturn's kingdom born,
+
+Ausonia's ancient stem! What fortune blind tempts ye from peace away, and now ensnares in wars unknown? Look how we men that dared lay Ilium waste (I speak not of what woes in battling neath her lofty walls we bore, nor of dead warriors sunk in Simois' wave)
+
+have paid the penalty in many a land with chastisement accurst and changeful woe, till Priam's self might pity. Let the star of Pallas tell its tale of fatal storm, off grim Caphereus and Eubcea's crags.
+
+Driven asunder from one field of war,
+
+Atrides unto farthest Egypt strayed, and wise Ulysses saw from Aetna 's caves the Cyclops gathering. Why name the throne of Pyrrhus, or the violated hearth whence fled Idomeneus? Or Locri cast on Libya 's distant shore? For even he,
+
+Lord of Mycenae by the Greeks obeyed, fell murdered on his threshold by the hand of that polluted wife, whose paramour trapped Asia 's conqueror. The envious gods withheld me also from returning home to see once more the hearth-stone of my sires, the wife I yearn for, and my Calydon, the beauteous land. For wonders horrible pursue me still. My vanished followers through upper air take wing, or haunt and rove in forms of birds the island waters o'er:
+
+ah me, what misery my people feel!
+
+The tall rocks ring with their lament and cry.
+
+Naught else had I to hope for from that day when my infatuate sword on gods I drew, and outraged with abominable wound the hand of Venus. Urge me not, I pray, to conflicts in this wise. No more for me of war with Trojans after Ilium 's fall!
+
+I take no joy in evils past, nor wish such memory to renew. Go, lay these gifts, brought to my honor from your ancient land, at great Aeneas' feet. We twain have stood confronting close with swords implacable in mortal fray. Believe me, I have known the stature of him when he lifts his shield, and swings the whirlwind of his spear. If Troy two more such sons had bred, the Dardan horde had stormed at Argos ' gates, and Greece to-day were for her fallen fortunes grieving sore.
+
+Our lingering at Ilium 's stubborn wall, our sluggard conquest halting ten years Iong, was his and Hector's work. Heroic pair!
+
+Each one for valor notable, and each famous in enterprise of arms,—but he was first in piety. Enclasp with his your hands in plighted peace as best ye may:
+
+but shock of steel on steel ye well may shun.’
+
+now hast thou heard, good King, a king's reply, and how his wisdom sits in this vast war.”
+
+Soon as the envoys ceased, an answering sound of troubled voices through the council flowed of various note, as when its rocky bed impedes an arrowy stream, and murmurs break from the strait-channelled flood; the fringing shores repeat the tumult of the clamorous wave.
+
+But when their hearts and troublous tongues were still, the King, invoking first the gods in heaven, thus from a Iofty throne his sentence gave:
+
+“Less evil were our case, if long ago ye had provided for your country's weal,
+
+O Latins, as I urged. It is no time to hold dispute, while, compassing our walls, the foeman waits. Ill-omened war is ours against a race of gods, my countrymen, invincible, unwearied in the fray, and who, though lost and fallen, clutch the sword.
+
+If hope ye cherished of Aetolia 's power, dismiss it! For what hope ye have is found in your own bosoms only. But ye know how slight it is and small. What ruin wide has fallen, is now palpable and clear.
+
+No blame I cast. What valor's uttermost may do was done; our kingdom in this war strained its last thews. Now therefore I will tell such project as my doubtful mind may frame, and briefly, if ye give good heed, unfold:
+
+an ancient tract have I, close-bordering the river Tiber; it runs westward far beyond Sicania's bound, and filth it bears to Rutule and Auruncan husbandmen, who furrow its hard hills or feed their flocks along the stonier slopes. Let this demesne, together with its pine-clad mountain tall, be given the Teucrian for our pledge of peace, confirmed by free and equitable league, and full alliance with our kingly power.
+
+Let them abide there, if it please them so, and build their city's wall. But if their hearts for other land or people yearn, and fate permits them hence to go, then let us build twice ten good galleys of Italian oak, or more, if they can man them. All the wood lies yonder on the shore. Let them but say how numerous and large the ships they crave, and we will give the brass, the artisans, and ship-supplies. Let us for envoys choose a hundred of the Latins noblest born to tell our message and arrange the peace, bearing mild olive-boughs and weighty gifts of ivory and gold, with chair of state and purple robe, our emblems as a king.
+
+But freely let this council speak; give aid to our exhausted cause.” Then Drances rose, that foe inveterate, whom Turnus' fame to stinging hate and envy double-tongued ever pricked on. Of liberal wealth was he and flowing speech, but slack of hand in war at council board accounted no weak voice, in quarrels stronger still; of lofty birth in the maternal line, but by his sire's uncertain and obscure. He, claiming place, thus multiplies with words the people's ire:
+
+“A course most clear, nor needing voice of mine, thy council is, good King; for all men see the way of public weal, but smother close the telling of it. Turnus must concede freedom to speak, and his own arrogance diminish! Under his ill-boding star and fatal conduct—yea, I speak it plain, though with his naked steel my death he swear— yon host of princes fell, and we behold the whole land bowed with grief; while he assails the Trojan camp (beating such bold retreats!)
+
+and troubles Heaven with war. One gift the more, among the many to the Trojans given, one chiefly, best of kings, thy choice should be.
+
+Let not wild violence thy will restrain from granting, sire, thy virgin daughter's hand to son-in-law illustrious, in a match worthy of both,—and thus the lasting bond of peace establish. But if verily our hearts and souls be weak with craven fear, let us on Turnus call, and grace implore even of him. Let him no more oppose;
+
+but to his country and his King concede their natural right. Why wilt thou o'er and o'er fling thy poor countrymen in danger's way,
+
+O chief and fountain of all Latium 's pain?
+
+War will not save us. Not a voice but sues for peace, O Turnus! and, not less than peace, its one inviolable pledge. Behold,
+
+I lead in this petition! even I whom thou dost feign thy foe—(I waste no words denying)—look! I supplicate of thee, take pity on thy kindred; drop thy pride, and get thee home defeated. We have seen slaughter enough, enough of funeral flames, and many a wide field waste and desolate.
+
+If glory move thee, if thy martial breast so swell with strength, and if a royal dower be thy dear dream, go, pluck thy courage up, and front thy own brave bosom to the foe.
+
+for, lo, that Turnus on his wedding day may win a princess, our cheap, common lives— we the mere mob, unwept, unsepulchred— must be spilled forth in battle! Thou, I say, if there be mettle in thee and some drops of thy undaunted sires, Iook yonder where the Trojan chieftain waits thee in the field.”
+
+By such discourse he stirred the burning blood of Turnus, who groaned loud and from his heart this utterance hurled: “O Drances, thou art rich in large words, when the day of battle calls for actions. If our senators convene thou comest early. But the council hall is not for swollen talk, such as thy tongue in safety tosses forth; so long as walls hold back thy foes, and ere the trenches flow with blood of brave men slain. O, rattle on in fluent thunder—thy habitual style!
+
+Brand me a coward, Drances, when thy sword has heaped up Trojan slain, and on the field thy shining trophies rise. Now may we twain our martial prowess prove. Our foe, forsooth, is not so far to seek; around yon wall he lies in siege: to front him let us fly!
+
+Why art thou tarrying? Wilt thou linger here, a soldier only in thy windy tongue, and thy swift, coward heels? Defeated, I?
+
+Foul wretch, what tongue that honors truth can tell of my defeat, while Tiber overflows with Trojan blood? while King Evander's house in ruin dies, and his Arcadians lie stripped naked on the field? O, not like thee did Bitias or the giant Pandarus misprize my honor; nor those men of Troy whom this good sword to death and dark sent down, a thousand in a day,—though I was penned a prisoner in the ramparts of my foe.
+
+War will not save us? Fling that prophecy on the doomed Dardan's head, or on thy own, thou madman! Aye, with thy vile, craven soul disturb the general cause. Extol the power of a twice-vanquished people, and decry
+
+Latinus' rival arms. From this time forth let all the Myrmidonian princes cower before the might of Troy; let Diomed and let Achilles tremble; let the stream of Aufidus in panic backward flow from Hadria 's wave. But hear me when I say that though his guilt and cunning feign to feel fear of my vengeance, much embittering so his taunts and insult—such a life as his my sword disdains. O Drances, be at ease!
+
+In thy vile bosom let thy breath abide!
+
+But now of thy grave counsel and thy cause,
+
+O royal sire, I speak. If from this hour thou castest hope of armed success away, if we be so unfriended that one rout o'erwhelms us utterly, if Fortune's feet never turn backward, let us, then, for peace offer petition, lifting to the foe our feeble, suppliant hands. Yet would I pray some spark of manhood such as once we knew were ours once more! I count him fortunate, and of illustrious soul beyond us all, who, rather than behold such things, has fallen face forward, dead, his teeth upon the dust.
+
+But if we still have power, and men-at-arms unwasted and unscathed, if there survive
+
+Italian tribes and towns for help in war, aye! if the Trojans have but won success at bloody cost,—for they dig graves, I ween, storm-smitten not less than we,—O, wherefore now stand faint and shameful on the battle's edge?
+
+Why quake our knees before the trumpet call?
+
+Time and the toil of shifting, changeful days restore lost causes; ebbing tides of chance deceive us oft, which after at their flood do lift us safe to shore. If aid come not from Diomed in Arpi, our allies shall be Mezentius and Tolumnius, auspicious name, and many a chieftain sent from many a tribe; not all inglorious are Latium 's warriors from Laurentian land!
+
+Hither the noble Volscian stem sends down
+
+Camilla with her beauteous cavalry in glittering brass arrayed. But if, forsooth, the Trojans call me singly to the fight, if this be what ye will, and I so much the public weal impair—when from this sword has victory seemed to fly away in scorn?
+
+I should not hopeless tread in honor's way whate'er the venture. Dauntless will I go though equal match for great Achilles, he, and though he clothe him in celestial arms in Vulcan's smithy wrought. I, Turnus, now, not less than equal with great warriors gone, vow to Latinus, father of my bride, and to ye all, each drop of blood I owe.
+
+Me singly doth Aeneas call? I crave that challenge. Drances is not called to pay the debt of death, if wrath from Heaven impend;
+
+nor his a brave man's name and fame to share.”
+
+Thus in their doubtful cause the chieftains strove.
+
+Meanwhile Aeneas his assaulting line moved forward. The ill tidings wildly sped from royal hall to hall, and filled the town with rumors dark: for now the Trojan host o'er the wide plains from Tiber 's wave was spread in close array of war. The people's soul was vexed and shaken, and its martial rage rose to the stern compulsion. Now for arms their terror calls; the youthful soldiery clamor for arms; the sires of riper days weep or repress their tears. On every side loud shouts and cries of dissonant acclaim trouble the air, as when in lofty grove legions of birds alight, or by the flood of Padus' fishy stream the shrieking swans far o'er the vocal marish fling their song.
+
+Then, seizing the swift moment, Turnus cried:
+
+“Once more, my countrymen,—ye sit in parle, lazily praising peace, while yonder foe speeds forth in arms our kingdom to obtain.”
+
+He spoke no more, but hied him in hot haste, and from the housetop called, “Volusus, go!
+
+Equip the Volscian companies! Lead forth my Rutules also! O'er the spreading plain, ye brothers Coras and Messapus range our host of cavalry! Let others guard the city's gates and hold the walls and towers:
+
+I and my followers elsewhere oppose the shock of arms.” Now to and fro they run to man the walls. Father Latinus quits— the place of council and his large design, vexed and bewildered by the hour's distress.
+
+He blames his own heart that he did not ask
+
+Trojan Aeneas for his daughter's Iord, and gain him for his kingdom's lasting friend.
+
+They dig them trenches at the gates, or lift burden of stakes and stones. The horn's harsh note sounds forth its murderous signal for the war;
+
+striplings and women, in a motley ring, defend the ramparts; the decisive hour lays tasks on all. Upon the citadel a train of matrons, with the doleful Queen, toward Pallas' temple moves, and in their hand are gifts and offerings. See, at their side the maid Lavinia, cause of all these tears, drops down her lovely eyes! The incense rolls in clouds above the altar; at the doors with wailing voice the women make this prayer:
+
+“Tritonian virgin, arbitress of war!
+
+Break of thyself yon Phrygian robber's spear!
+
+Hurl him down dying in the dust! Spill forth his evil blood beneath our lofty towers!”
+
+Fierce Turnus girds him, emulous to slay:
+
+a crimson coat of mail he wears, with scales of burnished bronze; beneath his knees are bound the golden greaves; upon his naked brow no helm he wears; but to his thigh is bound a glittering sword. Down from the citadel runs he, a golden glory, in his heart boldly exulting, while impatient hope fore-counts his fallen foes. He seemed as when, from pinfold bursting, breaking his strong chain, th' untrammelled stallion ranges the wide field, or tries him to a herd of feeding mares, or to some cooling river-bank he knows, most fierce and mettlesome; the streaming mane o'er neck and shoulder flies. Across his path
+
+Camilla with her Volscian escort came, and at the city-gate the royal maid down from her charger leaped; while all her band at her example glided to the ground, their horses leaving. Thus the virgin spoke:
+
+“Turnus, if confidence beseem the brave,
+
+I have no fear; but of myself do vow to meet yon squadrons of Aeneadae alone, and front me to the gathered charge of Tuscan cavalry. Let me alone the war's first venture-prove. Take station, thou, here at the walls, this rampart to defend.”
+
+With fixed eyes on the terror-striking maid,
+
+Turnus replied, “O boast of Italy,
+
+O virgin bold! What praise, what gratitude can words or deeds repay? But since thy soul so large of stature shows, I bid thee share my burden and my war. Our spies bring news that now Aeneas with pernicious mind sends light-armed horse before him, to alarm the plains below, while through the wilderness he climbs the steep hills, and approaches so our leaguered town. But I in sheltered grove a stratagem prepare, and bid my men in ambush at a mountain cross-road lie.
+
+Meet thou the charge of Tuscan cavalry with all thy banners. For auxiliar strength take bold Messapus with his Latin troop and King Tiburtus' men: but the command shall be thy task and care.” He spoke, and urged with like instruction for the coming fray
+
+Messapus and his captains; then advanced to meet the foe. There is a winding vale for armed deception and insidious war well fashioned, and by interlacing leaves screened darkly in; a small path thither leads, through strait defile-a passage boding ill.
+
+Above it, on a mountain's lofty brow, are points of outlook, level spaces fair, and many a safe, invisible retreat from whence on either hand to challenge war, or, standing on the ridges, to roll down huge mountain boulders. Thither Turnus fared, and, ranging the familiar tract, chose out his cunning ambush in the dangerous grove.
+
+But now in dwellings of the gods on high,
+
+Diana to fleet-footed Opis called, a virgin from her consecrated train, and thus in sorrow spoke: “O maiden mine!
+
+Camilla now to cruel conflict flies;
+
+with weapons like my own she girds her side, in vain, though dearest of all nymphs to me.
+
+Nor is it some new Iove that stirs to-day with sudden sweetness in Diana's breast:
+
+for long ago, when from his kingdom driven, for insolent and envied power, her sire
+
+King Metabus, from old Privernum 's wall was taking flight amidst opposing foes, he bore a little daughter in his arms to share his exile; and he called the child
+
+(Changing Casmilla, her queen-mother's name)
+
+Camilla. Bearing on his breast the babe, he fled to solitary upland groves.
+
+But hovering round him with keen lances, pressed the Volscian soldiery. Across his path, lo, Amasenus with full-foaming wave o'erflowed its banks—so huge a rain had burst but lately from the clouds. There would he fain swim over, but the love of that sweet babe restrained him, trembling for his burden dear.
+
+In his perplexed heart suddenly arose firm resolve. It chanced the warrior bore huge spear in his brawny hand, strong shaft of knotted, seasoned oak; to this he lashed his little daughter with a withe of bark pulled from a cork-tree, and with skilful bonds fast bound her to the spear; then, poising it high in his right hand, thus he called on Heaven:
+
+‘Latona's daughter, whose benignant grace protects this grove, behold, her father now gives thee this babe for handmaid! Lo, thy spear her infant fingers hold, as from her foes she flies a suppliant to thee! Receive,
+
+O goddess, I implore, what now I cast upon the perilous air.’—He spoke, and hurled with lifted arm the whirling shaft. The waves roared loud, as on the whistling javelin hapless Camilla crossed th' impetuous flood.
+
+But Metabus, his foes in hot pursuit, dared plunge him in mid-stream, and, triumphing, soon plucked from grass-grown river-bank the spear, the child upon it,—now to Trivia vowed, a virgin offering. Him nevermore could cities hold, nor would his wild heart yield its sylvan freedom, but his days were passed with shepherds on the solitary hills.
+
+His daughter too in tangled woods he bred:
+
+a brood-mare from the milk of her fierce breast suckled the child, and to its tender lips
+
+.Her udders moved; and when the infant feet their first firm steps had taken, the small palms were armed with a keen javelin; her sire a bow and quiver from her shoulder slung.
+
+Instead of golden combs and flowing pall, she wore, from her girl-forehead backward thrown, the whole skin of a tigress; with soft hands she made her plaything of a whirling spear, or, swinging round her head the polished thong of her good sling, she fetched from distant sky
+
+Strymonian cranes or swans of spotless wing.
+
+From Tuscan towns proud matrons oft in vain sought her in marriage for their sons; but she to Dian only turned her stainless heart, her virgin freedom and her huntress' arms with faithful passion serving. Would that now this Iove of war had ne'er seduced her mind the Teucrians to provoke! So might she be one of our wood-nymphs still. But haste, I pray, for bitter is her now impending doom.
+
+Descend, dear nymph, from heaven, and explore the country of the Latins, where the fight with unpropitious omens now begins.
+
+These weapons take, and from this quiver draw a vengeful arrow, wherewith he who dares to wound her sacred body, though he be a Trojan or Italian, shall receive bloody and swift reward at my command.
+
+Then, in a cloud concealed, I will consign her corpse, ill-fated but inviolate unto the sepulchre, restoring so the virgin to her native land.” Thus spake the goddess; but her handmaid, gliding down, took her loud pathway on the moving winds, and mantled in dark storm her shape divine.
+
+Meanwhile the Teucrian legions to the wall draw near, with Tuscan lords and cavalry in numbered troops arrayed. Loud-footed steeds prance o'er the field, to manage of the rein rebellious, but turned deftly here or there.
+
+The iron harvest of keen spears spreads far, and all the plain burns bright with lifted steel.
+
+Messapus and swift Latin cavalry,
+
+Coras his brother, and th' attending train of the fair maid Camilla, form their lines in the opposing field. Their poised right hands point the long lances forward, and light shafts are brandished in the air; the warrior hosts on steeds of fire come kindling as they ride.
+
+One instant, at a spear-throw's space, each line its motion stays; then with one sudden cry they rush forth, spurring on each frenzied steed.
+
+From-every side the multitudinous spears pour down like snowflakes, mantling heaven in shade.
+
+Now with contending spears and straining thews,
+
+Tyrrhenus, and Aconteus, champion bold, ride forward; with the onset terrible loudly their armor rings; their chargers twain crash breast to breast, and like a thunderbolt
+
+Aconteus drops, or like a ponderous stone hurled from a catapult; full length he falls, surrend'ring to the winds his fleeting soul.
+
+Now all is panic: holding their light shields behind their backs, the Latin horse wheel round, retreating to the wall, the Trojan foe in close pursuit. Asilas, chieftain proud, led on th' assault. Hard by the city gates the Latins wheeled once more and pressed the rein strong on the yielding neck; the charging foe took flight and hurried far with loose-flung rein.
+
+'T was like the shock and onset of the sea that landward hurls the alternating flood and hides high cliffs in foam,—the tawny sands upflinging as it rolls; then, suddenly whirled backward on the reingulfing waves, it quits the ledges, and with ebbing flow far from the shore retires. The Tuscans twice drive back the flying Rutules to the town;
+
+and twice repulsed, with shields to rearward thrown, glare back at the pursuer; but conjoined in the third battle-charge, both armies merge confusedly together in grim fight of man to man; then follow dying groans, armor blood-bathed and corpses, and strong steeds inextricably with their masters slain, so fierce the fray. Orsilochus—afraid to front the warrior's arms—launched forth a spear at Remulus' horse, and left the fatal steel clinging below its ear; the charger plunged madly, and tossed its trembling hoofs in air, sustaining not the wound; the rider fell, flung headlong to the ground. Catillus slew
+
+Iollas; and then struck Herminius down, great-bodied and great-hearted, who could wield a monster weapon, and whose yellow hair from naked head to naked shoulder flowed.
+
+By wounds unterrified he dared oppose his huge bulk to the foe: the quivering spear pierced to his broad back, and with throes of pain bowed the man double and clean clove him through.
+
+Wide o'er the field th' ensanguined horror flowed, where fatal swords were crossed and cut their way through many a wound to famous death and fair.
+
+Swift through the midmost slaughter proudly strides the quiver-girt Camilla, with one breast thrust naked to the fight, like Amazon.
+
+Oft from her hand her pliant shafts she rains, or whirls with indefatigable arm a doughty battle-axe; her shoulder bears
+
+Diana's sounding arms and golden bow.
+
+Sometimes retreating and to flight compelled, the maiden with a rearward-pointing bow shoots arrows as she flies. Around her move her chosen peers, Larina, virgin brave,
+
+Tarpeia, brandishing an axe of bronze, and Tulla, virgins out of Italy whom the divine Camilla chose to be her glory, each a faithful servitress in days of peace or war. The maids of Thrace ride thus along Thermodon's frozen flood, and fight with blazoned Amazonian arms around Hippolyta; or when returns
+
+Penthesilea in triumphal car
+
+'mid acclamations shrill, and all her host of women clash in air the moon-shaped shield.
+
+What warrior first, whom last, did thy strong spear, fierce virgin, earthward fling? Or what thy tale of prostrate foes laid gasping on the ground?
+
+Eunaeus first, the child of Clytius' Ioins, whose bared breast, as he faced his foe, she pierced with fir-tree javelin; from his lips outpoured the blood-stream as he fell; and as he bit the gory dust, he clutched his mortal wound.
+
+Then Liris, and upon him Pagasus she slew: the one clung closer to the reins of his stabbed horse, and rolled off on the ground;
+
+the other, flying to his fallen friend, reached out a helpless hand; so both of these fell on swift death together. Next in line she smote Amastrus, son of Hippotas;
+
+then, swift-pursuing, pierced with far-flung spear
+
+Tereus, Harpalycus, Demophoon, and Chromis; every shaft the virgin threw laid low its Phrygian warrior. From afar rode Ornytus on his Apulian steed, bearing a hunter's uncouth arms; for cloak he wore upon his shoulders broad a hide from some wild bull stripped off; his helmet was a wolf's great, gaping mouth, with either jaw full of white teeth; the weapon in his hand, a farmer's pole. He strode into the throng, head taller than them all. But him she seized and clove him through (his panic-stricken troop gave her advantage), and with wrathful heart she taunted thus the fallen: “Didst thou deem this was a merry hunting in the wood in chase of game? Behold, thy fatal day befalls thee at a woman's hand, and thus thy boasting answers. No small glory thou unto the ghosts of thy dead sires wilt tell, that 't was Camilla's javelin struck thee down.”
+
+The turn of Butes and Orsilochus came next, who were the Trojans, hugest twain:
+
+yet Butes with her javelin-point she clove from rearward, 'twixt the hauberk and the helm, just where the horseman's neck showed white, and where from shoulder leftward slung the light-weight shield.
+
+From swift Orsilochus she feigned to fly, through a wide circle sweeping, craftily taking the inside track, pursuing so her own pursuer; then she raised herself to her full height, and through the warrior's helm drove to his very skull with doubling blows of her strong battle-axe,—while he implored her mercy with loud prayers: his cloven brain spilt o'er his face. Next in her pathway came— but shrank in startled fear—the warrior son of Aunus, haunter of the Apennine, not least of the Ligurians ere his doom cut short a life of lies. He, knowing well no flight could save him from the shock of arms nor turn the royal maid's attack, began with words of cunning and insidious guile:
+
+“What glory is it if a girl be bold, on sturdy steed depending? Fly me not!
+
+But, venturing with me on this equal ground, gird thee to fight on foot. Soon shalt thou see which one of us by windy boast achieves a false renown.” He spoke; but she, to pangs of keenest fury stung, gave o'er her steed in charge of a companion, and opposed her foe at equal vantage, falchion drawn, on foot, and, though her shield no blazon bore, of fear incapable. But the warrior fled, thinking his trick victorious, and rode off full speed, with reins reversed,—his iron heel goading his charger's flight. Camilla cried:
+
+“Ligurian cheat! In vain thy boastful heart puffs thee so large; in vain thou hast essayed thy father's slippery ways; nor shall thy trick bring thee to guileful Aunus safely home.”
+
+Herewith on winged feet that virgin bold flew past the war-horse, seized the streaming rein, and, fronting him, took vengeance on her foe in bloody strokes: with not less ease a hawk, dark bird of omen, from his mountain crag pursues on pinions strong a soaring dove to distant cloud, and, clutching with hooked claws, holds tight and rips,—while through celestial air the torn, ensanguined plumage floats along.
+
+But now not blindly from Olympian throne the Sire of gods and men observant saw how sped the day. Then to the conflict dire the god thrust Tarchon forth, the Tyrrhene King, goading the warrior's rage. So Tarchon rode through slaughter wide and legions in retreat, and roused the ranks with many a wrathful cry:
+
+he called each man by name, and toward the foe drove back the routed lines. “What terrors now,
+
+Tuscan cowards, dead to noble rage, have seized ye? or what laggard sloth and vile unmans your hearts, that now a woman's arm pursues ye and this scattered host confounds?
+
+Why dressed in steel, or to what purpose wear your futile swords? Not slackly do ye join the ranks of Venus in a midnight war;
+
+or when fantastic pipes of Bacchus call your dancing feet, right venturesome ye fly to banquets and the flowing wine—what zeal, what ardor then! Or if your flattering priest begins the revel, and to Iofty groves fat flesh of victims bids ye haste away!”
+
+So saying, his steed he spurred, and scorning death dashed into the mid-fray, where, frenzy-driven, he sought out Venulus, and, grappling him with one hand, from the saddle snatched his foe, and, clasping strongly to his giant breast, exultant bore away. The shouting rose to heaven, and all the Latins gazed his way, as o'er the plain the fiery Tarchon flew bearing the full-armed man; then, breaking off the point of his own spear, he pried a way through the seam'd armor for the mortal wound;
+
+the other, struggling, thrust back from his throat the griping hand, full force to force opposing.
+
+As when a golden eagle high in air knits to a victim—snake his clinging feet and deeply-thrusting claws; but, coiling back, the wounded serpent roughens his stiff scales and stretches high his hissing head; whereat the eagle with hooked beak the more doth rend her writhing foe, and with swift stroke of wing lashes the air: so Tarchon, from the ranks of Tibur's sons, triumphant snatched his prey.
+
+The Tuscans rallied now, well pleased to view their king's example and successful war.
+
+Then Arruns, marked for doom, made circling line around Camilla's path, his crafty spear seeking its lucky chance. Where'er the maid sped furious to the battle, Arruns there in silence dogged her footsteps and pursued;
+
+or where triumphant from her fallen foes she backward drew, the warrior stealthily turned his swift reins that way: from every side he circled her, and scanned his vantage here or vantage there, his skilful javelin stubbornly shaking. But it soon befell that Chloreus, once a priest of Cybele, shone forth in far-resplendent Phrygian arms, and urged a foaming steed, which wore a robe o'erwrought with feathery scales of bronze and gold;
+
+while he, in purples of fine foreign stain, bore light Gortynian shafts and Lycian bow;
+
+his bow was gold; a golden casque he wore upon his priestly brow; the saffron cloak, all folds of rustling cambric, was enclasped in glittering gold; his skirts and tunics gay were broidered, and the oriental garb swathed his whole leg. Him when the maiden spied,
+
+(Perchance she fain on temple walls would hang the Trojan prize, or in such captured gold her own fair shape array), she gave mad chase, and reckless through the ranks her prey pursued, desiring, woman-like, the splendid spoil.
+
+Then from his ambush Arruns seized at last the fatal moment and let speed his shaft, thus uttering his vow to heavenly powers:
+
+“Chief of the gods, Apollo, who dost guard
+
+Soracte's hallowed steep, whom we revere first of thy worshippers, for thee is fed the heap of burning pine; for thee we pass through the mid-blaze in sacred zeal secure, and deep in glowing embers plant our feet.
+
+O Sire Omnipotent, may this my spear our foul disgrace put by. I do not ask for plunder, spoils, or trophies in my name, when yonder virgin falls; let honor's crown be mine for other deeds. But if my stroke that curse and plague destroy, may I unpraised safe to the cities of my sires return.”
+
+Apollo heard and granted half the prayer, but half upon the passing breeze he threw:
+
+granting his votary he should confound
+
+Camilla by swift death; but 't was denied the mountain-fatherland once more to see, or safe return,—that prayer th' impetuous winds swept stormfully away. Soon as the spear whizzed from his hand, straight-speeding on the air, the Volscians all turned eager thought and eyes toward their Queen. She only did not heed that windy roar, nor weapon dropped from heaven, till in her bare, protruded breast the spear drank, deeply driven, of her virgin blood.
+
+Her terror-struck companians swiftly throng around her, and uplift their sinking Queen.
+
+But Arruns, panic-stricken more than all, makes off, half terror and half joy, nor dares hazard his lance again, nor dares oppose a virgin's arms. As creeps back to the hills in pathless covert ere his foes pursue, from shepherd slain or mighty bull laid low, some wolf, who, now of his bold trespass ware, curls close against his paunch a quivering tail and to the forest tries: so Arruns speeds from sight of men in terror, glad to fly, and hides him in the crowd. But his keen spear dying Camilla from her bosom drew, though the fixed barb of deeply-wounding steel clung to the rib. She sank to earth undone, her cold eyes closed in death, and from her cheeks the roses fled. With failing breath she called on Acca—who of all her maiden peers was chiefly dear and shared her heart's whole pain— and thus she spoke: “O Acca, sister mine,
+
+I have been strong till now. The cruel wound consumes me, and my world is growing dark.
+
+Haste thee to Turnus! Tell my dying words!
+
+'T is he must bear the battle and hold back the Trojan from our city wall. Farewell!”
+
+So saying, her fingers from the bridle-rein unclasped, and helpless to the earth she fell;
+
+then, colder grown, she loosed her more and more out of the body's coil; she gave to death her neck, her drooping head, and ceased to heed her war-array. So fled her spirit forth with wrath and moaning to the world below.
+
+Then clamor infinite uprose and smote the golden stars, as round Camilla slain the battle newly raged. To swifter charge the gathered Trojans ran, with Tuscan lords and King Evander's troops of Arcady.
+
+Fair Opis, keeping guard for Trivia in patient sentry on a lofty hill, beheld unterrified the conflict's rage. Yet when, amid the frenzied shouts of soldiery, she saw from far Camilla pay the doom of piteous death, with deep-drawn voice of sight she thus complained: “O virgin, woe is me!
+
+Too much, too much, this agony of thine, to expiate that thou didst lift thy spear for wounding Troy. It was no shield in war, nor any vantage to have kept thy vow to chaste Diana in the thorny wild.
+
+Our maiden arrows at thy shoulder slung availed thee not! Yet will our Queen divine not leave unhonored this thy dying day, nor shall thy people let thy death remain a thing forgot, nor thy bright name appear a glory unavenged. Whoe'er he be that marred thy body with the mortal wound shall die as he deserves.” Beneath that hill an earth-built mound uprose, the tomb of King Dercennus, a Laurentine old, by sombre ilex shaded: thither hied the fair nymph at full speed, and from the mound looked round for Arruns. When his shape she saw in glittering armor vainly insolent,
+
+“Whither so fast?” she cried. “This way, thy path!
+
+This fatal way approach, and here receive thy reward for Camilla! Thou shalt fall, vile though thou art, by Dian's shaft divine.”
+
+She said; and one swift-coursing arrow took from golden quiver, like a maid of Thrace, and stretched it on her bow with hostile aim, withdrawing far, till both the tips of horn together bent, and, both hands poising well, the left outreached to touch the barb of steel, the right to her soft breast the bowstring drew:
+
+the hissing of the shaft, the sounding air,
+
+Arruns one moment heard, as to his flesh the iron point clung fast. But his last groan his comrades heeded not, and let him lie, scorned and forgotten, on the dusty field, while Opis soared to bright Olympian air.
+
+Camilla's light-armed troop, its virgin chief now fallen, were the first to fly; in flight the panic-stricken Rutule host is seen and Acer bold; his captains in dismay with shattered legions from the peril fly, and goad their horses to the city wall.
+
+Not one sustains the Trojan charge, or stands in arms against the swift approach of death.
+
+Their bows unstrung from drooping shoulder fall, and clatter of hoof-beats shakes the crumbling ground.
+
+On to the city in a blinding cloud the dust uprolls. From watch-towers Iooking forth, the women smite their breasts and raise to heaven shrill shouts of fear. Those fliers who first passed the open gates were followed by the foe, routed and overwhelmed. They could not fly a miserable death, but were struck down in their own ancient city, or expired before the peaceful shrines of hearth and home.
+
+Then some one barred the gates. They dared not now give their own people entrance, and were deaf to all entreaty. Woeful deaths ensued, both of the armed defenders of the gate, and of the foe in arms. The desperate band, barred from the city in the face and eyes of their own weeping parents, either dropped with headlong and inevitable plunge into the moat below; or, frantic, blind, battered with beams against the stubborn door and columns strong. Above in conflict wild even the women (who for faithful love of home and country schooled them to be brave
+
+Camilla's way) rained weapons from the walls, and used oak-staves and truncheons shaped in flame, as if, well-armed in steel, each bosom bold would fain in such defence be first to die.
+
+Meanwhile th' unpitying messenger had flown to Turnus in the wood; the warrior heard from Acca of the wide confusion spread, the Volscian troop destroyed, Camilla slain, the furious foe increasing, and, with Mars to help him, grasping all, till in that hour far as the city-gates the panic reigned.
+
+Then he in desperate rage (Jove's cruel power decreed it) from the ambushed hills withdrew and pathless wild. He scarce had passed beyond to the bare plain, when forth Aeneas marched along the wide ravine, climbed up the ridge, and from the dark, deceiving grove stood clear.
+
+Then swiftly each with following ranks of war moved to the city-wall, nor wide the space that measured 'twixt the twain. Aeneas saw the plain with dust o'erclouded, and the lines of the Laurentian host extending far;
+
+Turnus, as clearly, saw the war array of dread Aeneas, and his ear perceived loud tramp of mail-clad men and snorting steeds.
+
+Soon had they sped to dreadful shock of arms, hazard of war to try; but Phoebus now, glowing rose-red, had dipped his wearied wheel deep in Iberian seas, and brought back night above the fading day. So near the town both pitch their camps and make their ramparts strong.

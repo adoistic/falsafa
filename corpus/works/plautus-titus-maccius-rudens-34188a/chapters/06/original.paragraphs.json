@@ -1,0 +1,927 @@
+[
+  {
+    "id": "p-54a9c1",
+    "offset": 0,
+    "text": "Labrax:\nQuis me ést mortalis miserior qui vivat alter hodie, quem ad recuperatores modo damnavit Plesidippus?"
+  },
+  {
+    "id": "p-e389e3",
+    "offset": 111,
+    "text": "abiudicata a me modo est Palaestra. perditus sum."
+  },
+  {
+    "id": "p-108518",
+    "offset": 162,
+    "text": "nam lenones ex Gaudio credo esse procreatos, ita omnés mortales, si quid est mali lenoni, gaudent."
+  },
+  {
+    "id": "p-f065a2",
+    "offset": 262,
+    "text": "nunc alteram illam quae mea est visam huc in Veneris fanum, saltem ut eam abducam, de bonis quod restat reliquiarum."
+  },
+  {
+    "id": "p-71f2af",
+    "offset": 380,
+    "text": "Gripvs:\nNumquam edepol hodie ad vesperum Gripum inspicietis vivom, nisi vidulus mihi redditur."
+  },
+  {
+    "id": "p-4a7108",
+    "offset": 476,
+    "text": "Labrax:\nPerii, cum mentionem fieri audio usquam viduli quasi palo pectus tundat."
+  },
+  {
+    "id": "p-cc7c6b",
+    "offset": 558,
+    "text": "Gripvs:\nIstic scelestus liber est: ego qui in mari prehendi reti atque excepi vidulum, ei dáre negatis quicquam."
+  },
+  {
+    "id": "p-0ae0e1",
+    "offset": 672,
+    "text": "Labrax:\nPro di immortales, suo mihi hic sermone arrexit aures."
+  },
+  {
+    "id": "p-f8a750",
+    "offset": 736,
+    "text": "Gripvs:\nCubitum hercle longis litteris signabo iam usquequaque, si quis perdiderit vidulum cum auro atque argento multo, ad Gripum ut veniat. non feretis istum, ut postulatis."
+  },
+  {
+    "id": "p-6f200d",
+    "offset": 913,
+    "text": "Labrax:"
+  },
+  {
+    "id": "p-7d7668",
+    "offset": 922,
+    "text": "Meum hercle illic homo vidulum scit quí habet, ut ego opinor."
+  },
+  {
+    "id": "p-9dea44",
+    "offset": 985,
+    "text": "adeundus mihi illic est homo. di, quaeso, subvenite."
+  },
+  {
+    "id": "p-5bf2ae",
+    "offset": 1039,
+    "text": "Gripvs:\nQuid me intro revocas? hoc volo hic ante ostium extergere."
+  },
+  {
+    "id": "p-496426",
+    "offset": 1107,
+    "text": "nam hoc quidem pol e robigine, non est e ferro factum, ita quanto magis extergeo, rutilum atque tenuius fit."
+  },
+  {
+    "id": "p-cc77ad",
+    "offset": 1217,
+    "text": "† nam quidem hoc venenatumst verum: ita in manibus consenescit."
+  },
+  {
+    "id": "p-2d2a94",
+    "offset": 1282,
+    "text": "Labrax:\nAdulescens, salve."
+  },
+  {
+    "id": "p-a56685",
+    "offset": 1310,
+    "text": "Gripvs:\nDi te ament cum inraso capite."
+  },
+  {
+    "id": "p-0ee042",
+    "offset": 1350,
+    "text": "Labrax:\nQuid fit?"
+  },
+  {
+    "id": "p-691c96",
+    "offset": 1369,
+    "text": "Gripvs:\nVerum extergetur."
+  },
+  {
+    "id": "p-9a1a83",
+    "offset": 1396,
+    "text": "Labrax:\nVt vales?"
+  },
+  {
+    "id": "p-563ed5",
+    "offset": 1415,
+    "text": "Gripvs:\nQuid tu? num medicus, quaeso, es?"
+  },
+  {
+    "id": "p-d9883b",
+    "offset": 1458,
+    "text": "Labrax:\nImmo edepol una littera plus sum quam medicus."
+  },
+  {
+    "id": "p-a6ab4c",
+    "offset": 1514,
+    "text": "Gripvs:\nTum tu mendicus es?"
+  },
+  {
+    "id": "p-3d4a75",
+    "offset": 1543,
+    "text": "Labrax:\nTetigisti acu."
+  },
+  {
+    "id": "p-29c237",
+    "offset": 1567,
+    "text": "Gripvs:\nVidetur digna forma."
+  },
+  {
+    "id": "p-200dda",
+    "offset": 1597,
+    "text": "sed quid tibi est?"
+  },
+  {
+    "id": "p-0e9d59",
+    "offset": 1617,
+    "text": "Labrax:\nHac proxima nocte in marí elavi."
+  },
+  {
+    "id": "p-264271",
+    "offset": 1659,
+    "text": "confracta est navis, perdidi quidquid erat miser ibi omne."
+  },
+  {
+    "id": "p-75f1b7",
+    "offset": 1719,
+    "text": "Gripvs:\nQuid perdidisti?"
+  },
+  {
+    "id": "p-914673",
+    "offset": 1745,
+    "text": "Labrax:\nVidulum cum auro atque argento multo."
+  },
+  {
+    "id": "p-5b9797",
+    "offset": 1792,
+    "text": "Gripvs:\nEcquid meministi, in vidulo qui periit quid ibi infuerit?"
+  },
+  {
+    "id": "p-2cb6fb",
+    "offset": 1859,
+    "text": "Labrax:\nQuid refert, qui periit tamen? sine hoc, áliud fabulemur."
+  },
+  {
+    "id": "p-b8268f",
+    "offset": 1926,
+    "text": "Gripvs:"
+  },
+  {
+    "id": "p-077809",
+    "offset": 1935,
+    "text": "Quid si ego sciam qui invenerit? volo ex te scire signa."
+  },
+  {
+    "id": "p-dc0509",
+    "offset": 1993,
+    "text": "Labrax:\nNummi octingenti aúrei in marsuppio infuerunt, praeterea centum minaria Philippa ín pasceolo sorsus."
+  },
+  {
+    "id": "p-680b51",
+    "offset": 2103,
+    "text": "Gripvs:\nMagna hercle praedast, largiter mercedis indipiscar;"
+  },
+  {
+    "id": "p-63f514",
+    "offset": 2165,
+    "text": "di homines respiciunt: bené ego hinc praedatus ibo."
+  },
+  {
+    "id": "p-9e6cbc",
+    "offset": 2218,
+    "text": "profecto húius est vidulus. perge alia tu expedire."
+  },
+  {
+    "id": "p-7c854b",
+    "offset": 2271,
+    "text": "Labrax:\nTalentum argenti commodum magnum inerat in crumina, praeterea sinus, cantharus, epichysis, gaulus, cyathus."
+  },
+  {
+    "id": "p-fe19a4",
+    "offset": 2388,
+    "text": "Gripvs:\nPapae, divitias tu quidém habuisti luculentas."
+  },
+  {
+    "id": "p-b5ccdc",
+    "offset": 2444,
+    "text": "Labrax:\nMiserum istuc verbum et pessimum est, habuisse, et nihil habere."
+  },
+  {
+    "id": "p-b8268f",
+    "offset": 2518,
+    "text": "Gripvs:"
+  },
+  {
+    "id": "p-92c0b1",
+    "offset": 2527,
+    "text": "Quid dare velis, qui istaec tibi investiget indicetque?"
+  },
+  {
+    "id": "p-4a2402",
+    "offset": 2584,
+    "text": "eloquere propere celeriter."
+  },
+  {
+    "id": "p-5b8969",
+    "offset": 2613,
+    "text": "Labrax:\nNummos trecentos."
+  },
+  {
+    "id": "p-dfe010",
+    "offset": 2640,
+    "text": "Gripvs:\nTricas."
+  },
+  {
+    "id": "p-ee5f33",
+    "offset": 2657,
+    "text": "Labrax:\nQuadringéntos."
+  },
+  {
+    "id": "p-0d1751",
+    "offset": 2681,
+    "text": "Gripvs:\nTramas putidas."
+  },
+  {
+    "id": "p-ff5879",
+    "offset": 2706,
+    "text": "Labrax:\nQuingentos."
+  },
+  {
+    "id": "p-1bd43b",
+    "offset": 2727,
+    "text": "Gripvs:\nCassam glandem."
+  },
+  {
+    "id": "p-37d3e4",
+    "offset": 2752,
+    "text": "Labrax:\nSescentos."
+  },
+  {
+    "id": "p-55807e",
+    "offset": 2772,
+    "text": "Gripvs:\nCurculiunculos minutos fabulare."
+  },
+  {
+    "id": "p-9d9de8",
+    "offset": 2814,
+    "text": "Labrax:\nDabo séptingentos."
+  },
+  {
+    "id": "p-2e742e",
+    "offset": 2842,
+    "text": "Gripvs:\nOs calet tibi, nunc id frigefactas."
+  },
+  {
+    "id": "p-6f200d",
+    "offset": 2887,
+    "text": "Labrax:"
+  },
+  {
+    "id": "p-3481a5",
+    "offset": 2896,
+    "text": "Millé dabo nummum."
+  },
+  {
+    "id": "p-df1332",
+    "offset": 2916,
+    "text": "Gripvs:\nSomnias."
+  },
+  {
+    "id": "p-aa9ed3",
+    "offset": 2934,
+    "text": "Labrax:\nNihil addo."
+  },
+  {
+    "id": "p-aca7c5",
+    "offset": 2955,
+    "text": "Gripvs:\nAbi igitur."
+  },
+  {
+    "id": "p-d08877",
+    "offset": 2976,
+    "text": "Labrax:\nAudi:"
+  },
+  {
+    "id": "p-cdd8d4",
+    "offset": 2991,
+    "text": "si hercle abiero hinc, hic non ero. vin centum et mille?"
+  },
+  {
+    "id": "p-75600a",
+    "offset": 3049,
+    "text": "Gripvs:\nDormis."
+  },
+  {
+    "id": "p-a7eda6",
+    "offset": 3066,
+    "text": "Labrax:\nEloquere quantum postules."
+  },
+  {
+    "id": "p-b60733",
+    "offset": 3102,
+    "text": "Gripvs:\nQuo nihil invitus addas:"
+  },
+  {
+    "id": "p-d2de22",
+    "offset": 3136,
+    "text": "talentum magnum. non potest triobolum hinc abesse."
+  },
+  {
+    "id": "p-7920f4",
+    "offset": 3188,
+    "text": "proin tú vel aias vel neges."
+  },
+  {
+    "id": "p-ec0df0",
+    "offset": 3218,
+    "text": "Labrax:\nQuid istíc? necessum est, video:"
+  },
+  {
+    "id": "p-9df29d",
+    "offset": 3260,
+    "text": "dabitur talentum."
+  },
+  {
+    "id": "p-de1209",
+    "offset": 3279,
+    "text": "Gripvs:\nAccede dum huc: Venus haec volo adroget te."
+  },
+  {
+    "id": "p-13c446",
+    "offset": 3332,
+    "text": "Labrax:\nQuod tibi libet id mi impera."
+  },
+  {
+    "id": "p-00df1c",
+    "offset": 3371,
+    "text": "Gripvs:\nTange aram hanc Veneris."
+  },
+  {
+    "id": "p-d8e4df",
+    "offset": 3405,
+    "text": "Labrax:\nTango."
+  },
+  {
+    "id": "p-ecd16c",
+    "offset": 3421,
+    "text": "Gripvs:\nPer Venerem hanc iurandum est tibi."
+  },
+  {
+    "id": "p-59f0f7",
+    "offset": 3466,
+    "text": "Labrax:\nQuid iurem?"
+  },
+  {
+    "id": "p-0e083a",
+    "offset": 3487,
+    "text": "Gripvs:\nQuod iubebo."
+  },
+  {
+    "id": "p-8b5008",
+    "offset": 3509,
+    "text": "Labrax:\nPraei vérbis quidvis. íd quod domi est, numquam ulli supplicabo."
+  },
+  {
+    "id": "p-796ff4",
+    "offset": 3583,
+    "text": "Gripvs:\nTene aram hanc."
+  },
+  {
+    "id": "p-ad4eec",
+    "offset": 3608,
+    "text": "Labrax:\nTeneo."
+  },
+  {
+    "id": "p-c7356d",
+    "offset": 3624,
+    "text": "Gripvs:\nDeiera te mi argentum daturum eodém die, tui viduli ubi sis potitus."
+  },
+  {
+    "id": "p-bbccb8",
+    "offset": 3702,
+    "text": "Labrax:\nFiat."
+  },
+  {
+    "id": "p-c5955d",
+    "offset": 3717,
+    "text": "Gripvs:\nVenus Cýrenensis, testem te testor mihi, si vidulum illum, quém ego in navi perdidi, cum auro atque argento salvom investigavero isque in potestatem meam pervenerit, tum ego húic Gripo, ínquito, et me tangito—"
+  },
+  {
+    "id": "p-36ddc2",
+    "offset": 3936,
+    "text": "Labrax:\nTum ego húic Gripo (dico, Venus, ut tu audias)"
+  },
+  {
+    "id": "p-cc0913",
+    "offset": 3992,
+    "text": "talentum argenti magnum continuo dabo."
+  },
+  {
+    "id": "p-2a29a4",
+    "offset": 4032,
+    "text": "Gripvs:\nSi quid fraudassis, dic ut te in quaestu tuo"
+  },
+  {
+    "id": "p-657fbd",
+    "offset": 4086,
+    "text": "Venus eradicet, caput atque aetatem tuam."
+  },
+  {
+    "id": "p-1ba415",
+    "offset": 4129,
+    "text": "tecum hoc habeto tamen, ubi iuraveris."
+  },
+  {
+    "id": "p-6833df",
+    "offset": 4169,
+    "text": "Labrax:\nIllaec advorsum si quid peccasso, Venus, veneror te ut omnes miseri lenones sient."
+  },
+  {
+    "id": "p-80c094",
+    "offset": 4261,
+    "text": "Gripvs:\nTamen fíet, etsi tu fidem servaveris."
+  },
+  {
+    "id": "p-7abdb8",
+    "offset": 4308,
+    "text": "tu hic opperire, iam ego faxo exibit senex;"
+  },
+  {
+    "id": "p-aef76c",
+    "offset": 4353,
+    "text": "eum tú continuo vidulum reposcito.—"
+  },
+  {
+    "id": "p-8bef25",
+    "offset": 4390,
+    "text": "Labrax:\nSi maxime mi illum reddiderit vidulum, non ego illi hodie debeo triobolum."
+  },
+  {
+    "id": "p-bf0ffd",
+    "offset": 4474,
+    "text": "meus arbitratust, lingua quod iuret mea."
+  },
+  {
+    "id": "p-982d7e",
+    "offset": 4516,
+    "text": "sed conticiscam: eccum exit et ducit senem."
+  },
+  {
+    "id": "p-de3bc9",
+    "offset": 4561,
+    "text": "Gripvs:\nSéquere hac."
+  },
+  {
+    "id": "p-0107d7",
+    "offset": 4583,
+    "text": "Daemones:\nVbi istic lenost?"
+  },
+  {
+    "id": "p-bc0a3a",
+    "offset": 4612,
+    "text": "Gripvs:\nHeus tu. ém tibi, hic habet vidulum."
+  },
+  {
+    "id": "p-be8dfe",
+    "offset": 4658,
+    "text": "Daemones:\nHabeo et fateor esse apud me, et, si tuos est, habeas tibi."
+  },
+  {
+    "id": "p-03b499",
+    "offset": 4729,
+    "text": "omnia, ut quídquid infuit, ita salva sistentur tibi."
+  },
+  {
+    "id": "p-301ca6",
+    "offset": 4783,
+    "text": "tene, si tuost."
+  },
+  {
+    "id": "p-3511f5",
+    "offset": 4800,
+    "text": "Labrax:\nO di immortales, meus est. salve, vidule."
+  },
+  {
+    "id": "p-32b144",
+    "offset": 4851,
+    "text": "Daemones:"
+  },
+  {
+    "id": "p-737f54",
+    "offset": 4862,
+    "text": "Tuosne est?"
+  },
+  {
+    "id": "p-f1567c",
+    "offset": 4875,
+    "text": "Labrax:\nRogitas? si quidem hercle Iovis fuit, meus est tamen."
+  },
+  {
+    "id": "p-fb0d22",
+    "offset": 4938,
+    "text": "Daemones:\nOmnia insunt salva; una istinc cistella excepta est modo cum crepundiis, quibuscum hódie filiam inveni meam."
+  },
+  {
+    "id": "p-673b00",
+    "offset": 5058,
+    "text": "Labrax:\nQuam?"
+  },
+  {
+    "id": "p-a4bfc1",
+    "offset": 5073,
+    "text": "Daemones:\nTua quae fuit Palaestra, ea filia inventast mea."
+  },
+  {
+    "id": "p-12e297",
+    "offset": 5133,
+    "text": "Labrax:\nBene mehercle factum est. cum istaec res tibi ex sententia pulchre evenit, gaudeo."
+  },
+  {
+    "id": "p-31e24f",
+    "offset": 5225,
+    "text": "Daemones:\nIstuc facile non credo tibi."
+  },
+  {
+    "id": "p-144553",
+    "offset": 5265,
+    "text": "Labrax:\nImmo hercle, ut scias gaudere me, mihi triobolum ob eam ne duis, condono te."
+  },
+  {
+    "id": "p-eadf35",
+    "offset": 5351,
+    "text": "Daemones:\nBenigne edepol facis."
+  },
+  {
+    "id": "p-801935",
+    "offset": 5384,
+    "text": "Labrax:\nImmo tu quidem hercle vero."
+  },
+  {
+    "id": "p-d58092",
+    "offset": 5421,
+    "text": "Gripvs:\nHeus tu, iám habes vidulum."
+  },
+  {
+    "id": "p-b4d73f",
+    "offset": 5458,
+    "text": "Labrax:\nHabeo."
+  },
+  {
+    "id": "p-a53a16",
+    "offset": 5474,
+    "text": "Gripvs:\nPropera."
+  },
+  {
+    "id": "p-44538f",
+    "offset": 5492,
+    "text": "Labrax:\nQuid properabo?"
+  },
+  {
+    "id": "p-fd37f1",
+    "offset": 5517,
+    "text": "Gripvs:\nReddere argentum mihi."
+  },
+  {
+    "id": "p-6f200d",
+    "offset": 5549,
+    "text": "Labrax:"
+  },
+  {
+    "id": "p-8fee31",
+    "offset": 5558,
+    "text": "Neque edepol tibi do, neque quicquam debeo."
+  },
+  {
+    "id": "p-d808c3",
+    "offset": 5603,
+    "text": "Gripvs:\nQuae haec factio est?"
+  },
+  {
+    "id": "p-4404cf",
+    "offset": 5634,
+    "text": "non debes?"
+  },
+  {
+    "id": "p-f65290",
+    "offset": 5646,
+    "text": "Labrax:\nNon hercle vero."
+  },
+  {
+    "id": "p-067f29",
+    "offset": 5672,
+    "text": "Gripvs:\nNon tu iuratus mihi es?"
+  },
+  {
+    "id": "p-5a43d5",
+    "offset": 5705,
+    "text": "Labrax:\nIuratus sum, et nunc iurabo, si quid vóluptati est mihi:"
+  },
+  {
+    "id": "p-04e938",
+    "offset": 5771,
+    "text": "ius iurandum rei servandae, non perdendae conditum est."
+  },
+  {
+    "id": "p-ffeab4",
+    "offset": 5828,
+    "text": "Gripvs:\nCedo sis mihi talentum magnum argenti, periurissime."
+  },
+  {
+    "id": "p-32b144",
+    "offset": 5890,
+    "text": "Daemones:"
+  },
+  {
+    "id": "p-f9b795",
+    "offset": 5901,
+    "text": "Gripe, quod tu istum talentum poscis?"
+  },
+  {
+    "id": "p-5bdc3d",
+    "offset": 5940,
+    "text": "Gripvs:\nIuratust mihi dare."
+  },
+  {
+    "id": "p-9d8290",
+    "offset": 5969,
+    "text": "Labrax:\nLibet iurare. tun meo póntifex peiurio es?"
+  },
+  {
+    "id": "p-ac2188",
+    "offset": 6021,
+    "text": "Daemones:\nQua pro re argentum promisit hic tibi?"
+  },
+  {
+    "id": "p-15223c",
+    "offset": 6071,
+    "text": "Gripvs:\nSi vidulum hunc redegissem in potestatem eius, iuratust dare mihi talentum magnum argenti."
+  },
+  {
+    "id": "p-bca294",
+    "offset": 6171,
+    "text": "Labrax:\nCedo quicum habeam iudicem, ni dolo malo instipulatus sis nive etiamdum haud siem quinque et viginti annos natus."
+  },
+  {
+    "id": "p-ec5279",
+    "offset": 6294,
+    "text": "Gripvs:\nHabe cum hóc."
+  },
+  {
+    "id": "p-1450d1",
+    "offset": 6317,
+    "text": "Labrax:\nAliost opus."
+  },
+  {
+    "id": "p-c88d65",
+    "offset": 6339,
+    "text": "Daemones:\nIám ab isto auferre haud potis sim, si istunc condemnavero."
+  },
+  {
+    "id": "p-106ac6",
+    "offset": 6410,
+    "text": "promisistin huic argentum?"
+  },
+  {
+    "id": "p-340573",
+    "offset": 6438,
+    "text": "Labrax:\nFateor."
+  },
+  {
+    "id": "p-5016a7",
+    "offset": 6455,
+    "text": "Daemones:\nQuod servo meo promisisti, meum esse oportet, ne tu, leno, postules te hic fide lenonia uti: non potes."
+  },
+  {
+    "id": "p-282e33",
+    "offset": 6570,
+    "text": "Gripvs:\nIam te ratu's ratus es nactum hominem quem defraudares? dandum huc argentum est probum:"
+  },
+  {
+    "id": "p-232469",
+    "offset": 6667,
+    "text": "id ego continuo huic dabo adeo, mé ut hic emittat manu."
+  },
+  {
+    "id": "p-abc336",
+    "offset": 6724,
+    "text": "Daemones:\nQuando ergo erga te benignus ego fui atque opera mea haec tibi sunt servata—"
+  },
+  {
+    "id": "p-a79109",
+    "offset": 6812,
+    "text": "Gripvs:\nImmo hercle mea, ne tu dicas tua."
+  },
+  {
+    "id": "p-32b144",
+    "offset": 6855,
+    "text": "Daemones:"
+  },
+  {
+    "id": "p-333e9c",
+    "offset": 6866,
+    "text": "(Si sapies, tacebis) tum te mihi benigne itidem addecet bene merenti bene referre gratiam."
+  },
+  {
+    "id": "p-8875a4",
+    "offset": 6958,
+    "text": "Labrax:\nNempe pró meo iure oras?"
+  },
+  {
+    "id": "p-92dafc",
+    "offset": 6992,
+    "text": "Daemones:\nMirum quin tuom ius meo periclo aps te expetam."
+  },
+  {
+    "id": "p-ff4055",
+    "offset": 7051,
+    "text": "Gripvs:\nSalvos sum, leno labascit, libertas portenditur."
+  },
+  {
+    "id": "p-afd7de",
+    "offset": 7109,
+    "text": "Daemones:\nVidulum istunc ille invenit, illud mancipium meum est;"
+  },
+  {
+    "id": "p-9c7519",
+    "offset": 7175,
+    "text": "ego tibi hunc porro servavi cum magna pecunia."
+  },
+  {
+    "id": "p-419f41",
+    "offset": 7223,
+    "text": "Labrax:\nGratiam habeo, et de talento nulla causa est quin feras, quod isti sum iuratus."
+  },
+  {
+    "id": "p-bfd666",
+    "offset": 7312,
+    "text": "Gripvs:\nHeus tu, mihi dato ergo, si sapis."
+  },
+  {
+    "id": "p-cda40c",
+    "offset": 7356,
+    "text": "Daemones:\nTacen an non?"
+  },
+  {
+    "id": "p-b11d23",
+    "offset": 7381,
+    "text": "Gripvs:\nTu meam rem simulas agere, tibi mu."
+  },
+  {
+    "id": "p-dba59a",
+    "offset": 7426,
+    "text": "non hercle istoc me intervortes, si aliam praedam perdidi."
+  },
+  {
+    "id": "p-32b144",
+    "offset": 7486,
+    "text": "Daemones:"
+  },
+  {
+    "id": "p-3c3f01",
+    "offset": 7497,
+    "text": "Vapulabis, verbum si addis istúc unum."
+  },
+  {
+    "id": "p-86987e",
+    "offset": 7537,
+    "text": "Gripvs:\nVel hercle énica, non tacebo umquam alio pacto, nisi talento comprimor."
+  },
+  {
+    "id": "p-9d8247",
+    "offset": 7618,
+    "text": "Labrax:\nTibi operam hic quidem dát. tace."
+  },
+  {
+    "id": "p-b11e61",
+    "offset": 7661,
+    "text": "Daemones:\nConcede hoc tu, leno."
+  },
+  {
+    "id": "p-febd7b",
+    "offset": 7694,
+    "text": "Labrax:\nLicet."
+  },
+  {
+    "id": "p-442895",
+    "offset": 7710,
+    "text": "Gripvs:\nPalam age, nolo ego murmurillum neque susurrum fieri."
+  },
+  {
+    "id": "p-355f69",
+    "offset": 7773,
+    "text": "Daemones:\nDic mihi, quanti íllam emisti tuam alteram mulierculam,"
+  },
+  {
+    "id": "p-4c53b3",
+    "offset": 7840,
+    "text": "Ampeliscam?"
+  },
+  {
+    "id": "p-fec46b",
+    "offset": 7853,
+    "text": "Labrax:\nMille nummum denumeravi."
+  },
+  {
+    "id": "p-6ce5c0",
+    "offset": 7887,
+    "text": "Daemones:\nVin tibi condicionem luculentam ferre me?"
+  },
+  {
+    "id": "p-9a6ef7",
+    "offset": 7940,
+    "text": "Labrax:\nSane volo."
+  },
+  {
+    "id": "p-ee9b71",
+    "offset": 7960,
+    "text": "Daemones:\nDividuom talentum faciam."
+  },
+  {
+    "id": "p-d6d77c",
+    "offset": 7997,
+    "text": "Labrax:\nBene facis."
+  },
+  {
+    "id": "p-3a2056",
+    "offset": 8018,
+    "text": "Daemones:\nPro illa altera, libera ut sit, dimidium tibi sume, dimidium huc cedo."
+  },
+  {
+    "id": "p-bbbd50",
+    "offset": 8100,
+    "text": "Labrax:\nMaxime."
+  },
+  {
+    "id": "p-cc8207",
+    "offset": 8117,
+    "text": "Daemones:\nPro illo dimidio égo Gripum emittam manu, quem propter tu vidulum et ego gnatam inveni."
+  },
+  {
+    "id": "p-808314",
+    "offset": 8216,
+    "text": "Labrax:\nBene facis, gratiam habeo magnam."
+  },
+  {
+    "id": "p-a74626",
+    "offset": 8259,
+    "text": "Gripvs:\nQuam mox mi argentum ergo redditur?"
+  },
+  {
+    "id": "p-3109f7",
+    "offset": 8304,
+    "text": "Daemones:\nRes soluta est, Gripe. ego habeo."
+  },
+  {
+    "id": "p-f883e4",
+    "offset": 8349,
+    "text": "Gripvs:\nÁt ego me hercle mavolo."
+  },
+  {
+    "id": "p-6aed6c",
+    "offset": 8383,
+    "text": "Daemones:\nNihil hercle hic tibi est, né tu speres. iuris iurandi volo gratiam facias."
+  },
+  {
+    "id": "p-0569e0",
+    "offset": 8470,
+    "text": "Gripvs:\nPerii hercle. nisi me suspendo, occidi."
+  },
+  {
+    "id": "p-4e7a1e",
+    "offset": 8519,
+    "text": "numquam hercle iterum defraudabis me quidem post hunc diem."
+  },
+  {
+    "id": "p-03bb9f",
+    "offset": 8580,
+    "text": "Daemones:\nHic hodie cenato, leno."
+  },
+  {
+    "id": "p-ae0daf",
+    "offset": 8615,
+    "text": "Labrax:\nFiat, condicio placet."
+  },
+  {
+    "id": "p-8ed917",
+    "offset": 8647,
+    "text": "Daemones:\nSequimini intro. spectatores, vos quoque ad cenam vocem, ni daturus nil sim neque sit quicquam pollucti domi, nive adeo vocatos credam vos esse ad cenam foras."
+  },
+  {
+    "id": "p-26866b",
+    "offset": 8818,
+    "text": "verum si voletis plausum fabulae huic clarum dare, comissatum omnes venitote ad me ad annos sedecim."
+  },
+  {
+    "id": "p-576233",
+    "offset": 8920,
+    "text": "vos hic hodie cenatote ambó."
+  },
+  {
+    "id": "p-bbccb8",
+    "offset": 8950,
+    "text": "Labrax:\nFiat."
+  },
+  {
+    "id": "p-c08b90",
+    "offset": 8965,
+    "text": "Daemones:\nPlausum date."
+  }
+]

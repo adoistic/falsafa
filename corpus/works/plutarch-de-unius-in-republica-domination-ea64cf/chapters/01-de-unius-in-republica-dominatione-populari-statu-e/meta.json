@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-de-unius-in-republica-domination-ea64cf",
+  "work_title": "De unius in republica dominatione, populari statu, et paucorum imperio",
+  "chapter_number": 1,
+  "chapter_title": "De unius in republica dominatione, populari statu, et paucorum imperio",
+  "chapter_slug": "01-de-unius-in-republica-dominatione-populari-statu-e",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "85214c06-724d-5c81-8279-e957159b5592",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 548,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg119.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fc849916-2de5-5402-aa2c-1cc1498a3196",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1189,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg119.perseus-eng4"
+    }
+  ]
+}

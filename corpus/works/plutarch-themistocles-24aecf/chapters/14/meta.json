@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-themistocles-24aecf",
+  "work_title": "Themistocles",
+  "chapter_number": 14,
+  "chapter_title": "Chapter 14",
+  "chapter_slug": "14",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2470f3bd-c8c3-5cb3-9fc5-a16579f712ba",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 226,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg010.perseus-grc2:14"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9e07e8a1-e2d9-5a52-96c5-7d90ad7013df",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 337,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg010.perseus-eng2:14"
+    }
+  ]
+}

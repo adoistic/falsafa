@@ -1,0 +1,38 @@
+{
+  "work_slug": "appianus-of-alexandria-kings-de14ca",
+  "work_title": "Kings",
+  "chapter_number": 1,
+  "chapter_title": "Kings",
+  "chapter_slug": "01-kings",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7261e789-5121-5668-901e-9fff2e125ced",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 797,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg002.perseus-grc2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "768e3ceb-2370-5e00-80e5-82396ff9785f",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 1091,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0551.tlg002.perseus-eng2"
+    }
+  ]
+}

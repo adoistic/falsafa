@@ -1,0 +1,38 @@
+{
+  "work_slug": "plutarch-comparison-of-timoleon-and-aemil-5ce871",
+  "work_title": "Comparison of Timoleon and Aemilius",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "34d0b78a-d14c-5f50-ba9a-14ec71d5eb5a",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 344,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg020.perseus-grc2:2"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1fafbfa1-669e-5911-9316-109d276b9b50",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 546,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg020.perseus-eng2:2"
+    }
+  ]
+}

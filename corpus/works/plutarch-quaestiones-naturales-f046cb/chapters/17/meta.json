@@ -1,0 +1,26 @@
+{
+  "work_slug": "plutarch-quaestiones-naturales-f046cb",
+  "work_title": "Quaestiones Naturales",
+  "chapter_number": 17,
+  "chapter_title": "Chapter 19",
+  "chapter_slug": "17",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2026ed33-0f28-54fe-84dc-c0c112ca3232",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 405,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg125.perseus-eng2:17"
+    }
+  ]
+}

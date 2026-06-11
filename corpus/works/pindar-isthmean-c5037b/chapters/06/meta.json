@@ -1,0 +1,38 @@
+{
+  "work_slug": "pindar-isthmean-c5037b",
+  "work_title": "Isthmean",
+  "chapter_number": 6,
+  "chapter_title": "Chapter 6",
+  "chapter_slug": "06",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2f596ad0-a39b-50f1-bb46-a5200ed22451",
+      "language": "Greek",
+      "source_language": "Greek",
+      "script": "greek",
+      "word_count": 461,
+      "paragraph_count": 75,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg004.perseus-grc2:6"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c9c1a39e-e0aa-5c3c-a037-e36da9c5f2a8",
+      "language": "english",
+      "source_language": "Greek",
+      "script": "latin",
+      "word_count": 735,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0033.tlg004.perseus-eng2:6"
+    }
+  ]
+}

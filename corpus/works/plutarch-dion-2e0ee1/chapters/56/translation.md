@@ -1,0 +1,31 @@
+---
+work_id: "2e0ee119-4f7f-5d59-8c14-6ccecc55e0ca"
+work_slug: "plutarch-dion-2e0ee1"
+work_title: Dion
+author_name: Plutarch
+chapter_number: 56
+chapter_title: Chapter 56
+chapter_slug: 56
+variant_id: "46ba200d-d7f9-5039-96b0-f513fc1eef6f"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 330
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg060.perseus-eng2:56"
+translator: Bernadotte Perrin
+---
+
+While Dion was thus heavily afflicted, Callippus was all the more intent upon his plot, and spread a report among the Syracusans that Dion, being now childless, had made up his mind to send for Apollocrates, the son of Dionysius, and make him his successor, since he was his wife’s nephew and his sister’s grandson.
+
+And presently both Dion and his wife and sister began to suspect what was going on, and information of the plot came to them from every quarter.
+
+But Dion, as it would seem, being in distress at the fate of Heracleides, and suffering continual vexation and depression at thought of the man’s murder, which he regarded as a stain upon his life and actions, declared that he was ready now to die many deaths and to suffer any one who wished to slay him, if it was going to be necessary for him to live on his guard, not only against his enemies, but also against his friends.
+
+But Callippus, seeing that the women were investigating the matter carefully, and taking alarm, came to them with denials and in tears and offering to give them whatever pledge of fidelity they desired. So they required him to swear the great oath.
+
+This was done in the following manner. The one who gives this pledge goes down into the sanctuary of Demeter and Persephone, where, after certain sacred rites have been performed, he puts on the purple vestment of the goddess, takes a blazing torch in his hand, and recites the oath.
+
+All this Callippus did, and recited the oath; but he made such a mockery of the rods as to wait for the festival of the goddess by whom he had sworn, the Coreia, and then to do the murder. And yet it is possible that he took no account of the day, since he knew that the goddess would have been utterly outraged even if at another time her mystic were slain by his mystagogue.

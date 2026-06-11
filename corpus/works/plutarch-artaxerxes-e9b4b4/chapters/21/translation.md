@@ -1,0 +1,29 @@
+---
+work_id: "e9b4b43d-3e3d-50f1-b323-a0afc6ca8a5f"
+work_slug: "plutarch-artaxerxes-e9b4b4"
+work_title: Artaxerxes
+author_name: Plutarch
+chapter_number: 21
+chapter_title: Chapter 21
+chapter_slug: 21
+variant_id: "03a4be1b-b19b-511f-a2c3-0639a3e278f8"
+content_type: translation
+layout: prose
+language: english
+source_language: Greek
+language_direction: ltr
+script: latin
+word_count: 314
+source_url: "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0007.tlg064.perseus-eng2:21"
+translator: Bernadotte Perrin
+---
+
+The king also expelled the Lacedaemonians from the sea, employing Conon the Athenian as his commander along with Pharnabazus. For Conon passed the time at Cyprus, after the sea-fight at Aegospotami, not satisfied with mere safety, but awaiting a reversal in the course of affairs, as he would a change of wind at sea.
+
+And seeing that his own plans needed a military force, and the king’s force needed a sagacious leader, he wrote a letter to the king explaining his purposes. This letter he ordered the bearer, if possible, to give the king by the hand of Zeno the Cretan or Polycritus the Mendaean (Zeno was a teacher of dancing, and Polycritus was a physician); but if these were not at court, by the hand of Ctesias the physician.
+
+And it is said that Ctesias, on receiving the letter, added to the suggestions which Conon made to the king a request to send Ctesias also to him, as likely to be of service in matters on the sea-coast. Ctesias, however, says that the king of his own accord conferred upon him this new duty.
+
+But after Artaxerxes, by the sea-fight which Pharnabazus and Conon won for him off Cnidus, had stripped the Lacedaemonians of their power on the sea, he brought the whole of Greece into dependence upon him, so that he dictated to the Greeks the celebrated peace called the Peace of Antalcidas.
+
+Now Antalcidas was a Spartan, son of Leon, and acting in the interests of the king he induced the Lacedaemonians to surrender to the king all the Greek cities of Asia, and all the islands adjacent to Asia, to possess them on payment of tribute; and peace was thus established among the Greeks, if the mockery and betrayal of Greece can be called peace, a peace than which no war ever brought a more inglorious consummation to the defeated.
