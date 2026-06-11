@@ -484,7 +484,7 @@ function ftsSearch(
         .prepare(
           `SELECT work_slug, work_title, chapter_number, chapter_title, chapter_slug, variant, language, paragraph_id,
                   snippet(hits, 0, '', '', '...', 28) AS snip
-           FROM hits WHERE ${conds.join(" AND ")} LIMIT ?`,
+           FROM hits WHERE ${conds.join(" AND ")} ORDER BY rank LIMIT ?`,
         )
         .all(...args, limit);
       if (rows.length > 0) {
